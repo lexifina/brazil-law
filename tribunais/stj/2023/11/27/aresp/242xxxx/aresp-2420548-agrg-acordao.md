@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. AUSÊNCIA DE INDÍCIOS DA AUTORIA OMISSÃO NA ANALISE DE PROVAS PELO TRIBUNAL DE JUSTIÇA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ao contrário do que sustenta a parte recorrente, não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+2. No presente caso, a Corte de origem, ao contrário do afirmado pela acusação, concluiu não haver suficientes indícios de autoria aptos a submeter o agravado ao Tribunal do Júri, considerando descaber a pronúncia exclusivamente por elementos colhidos durante o inquérito policial, não sendo suficiente o reconhecimento fotográfico realizado durante a fase inquisitiva.
+3. Verifica-se, portanto, que, diferentemente do que alega o recorrente, a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL (e-STJ fls. 804/807) contra decisão monocrática de e-STJ fls. 793/796, que conheceu do agravo para negar provimento ao seu recurso especial.
+A parte agravante sustenta que a Corte de origem foi omissa. Aduz que, tanto o decisum ora agravado, quanto o Tribunal local, sob o pretexto de manter a decisão que despronunciou o acusado, desconsideraram as omissões apontadas pelo Parquet acerca das questões relacionadas à interpretação de dispositivos infraconstitucionais, bem como de princípios e dispositivos constitucionais atinentes à espécie, principalmente: a) em face do entendimento sufragado no âmbito do Supremo Tribunal Federal, dos quais se extrai a aplicação mitigada do artigo 155, caput, do Código de Processo Penal, possibilitando a pronúncia com base na prova inquisitorial, desde que exista razoabilidade em tais elementos, em razão do disposto no artigo 5º, inciso XXXVIII, alínea "d", da Constituição Federal; e b) acerca da nova leitura conferida pelo Superior Tribunal de Justiça ao artigo 226 do Código de Processo Penal, e a decorrente - e indevida - extensão conferida ao artigo 5º, inciso LV, da CF, além da afronta aos princípios do devido processo legal (art. 5º, LIV, da CF), da inafastabilidade da jurisdição (artigo 5º, XXXV da CF), e ao direito à produção de prova lícita (artigo 5º, inciso LVI, da Constituição Federal), precipuamente considerando que, no caso, o reconhecimento pessoal realizado na fase inquisitorial não foi o único elemento a embasar a condenação, porquanto confirmado em juízo e corroborado por prova testemunhal (e-STJ fls. 805).
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. AUSÊNCIA DE INDÍCIOS DA AUTORIA OMISSÃO NA ANALISE DE PROVAS PELO TRIBUNAL DE JUSTIÇA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ao contrário do que sustenta a parte recorrente, não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+2. No presente caso, a Corte de origem, ao contrário do afirmado pela acusação, concluiu não haver suficientes indícios de autoria aptos a submeter o agravado ao Tribunal do Júri, considerando descaber a pronúncia exclusivamente por elementos colhidos durante o inquérito policial, não sendo suficiente o reconhecimento fotográfico realizado durante a fase inquisitiva.
+3. Verifica-se, portanto, que, diferentemente do que alega o recorrente, a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Ao contrário do que sustenta a parte recorrente, não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+A Corte de origem, ao contrário do afirmado pela acusação, concluiu não haver suficientes indícios de autoria aptos a submeter o agravado ao Tribunal do Júri, considerando descaber a pronúncia exclusivamente por elementos colhidos durante o inquérito policial, não sendo suficiente o reconhecimento fotográfico realizado durante a fase inquisitiva.
+Abaixo, trechos do acórdão recorrido:
+Desta forma, a imputação da autoria ao réu se deu através de informações colhidas na fase inquisitorial, de modo precário, sendo que não restou confirmada por qualquer testemunha em Juízo, sob o crivo do contraditório.
+Assim, ao cabo da instrução, verificou-se que a suposição inicial, baseada em depoimentos realizados em sede policial, não veio confortada por elementos concretos que possam justificar a pronúncia.
+Nesse contexto, o que resta é apenas a especulação ligando o acusado à autoria e execução do crime imputado.
+Portanto, do cotejo dos elementos de prova obtidos na instrução processual não são suficientes a formar o juízo de admissibilidade necessário a encaminhar o julgamento ao Conselho de Sentença do Tribunal do Júri.
+Destaco, ainda, que as declarações prestadas na fase policial, por serem, obviamente, repetíveis - passível de serem renovadas em juízo - encontram barreira legal para serem valoradas pelo Juiz para formar a convicção do Juiz.
+Em suma, à parte as especulações, o que resta é que não há elementos concretos a apontar a autoria deste crime na pessoa do denunciado. (e-STJ fls. 562/563)
+O Embargante, em verdade, pretende a reforma da decisão que impronunciou o acusado.
+Ocorre que, examinando o acórdão, uma das vítimas nada esclareceu acerca da autoria delitiva, tão somente referindo que ouviu dizer que os autores teriam sido os réus.
+De outra banda, a outra vítima referiu que reconheceu na polícia um dos acusados por meio de fotografia.
+Contudo, como constou no voto embargado, o reconhecimento fotográfico na fase inquisitorial não se presta como elemento exclusivo de convencimento para a pronúncia.
+Desse modo, excetuando-se o reconhecimento fotográfico por uma das vítimas, não há elementos de prova judicializada capaz de contribuir para a elucidação dos fatos.
+Desta forma, ao cabo da instrução, verificou-se que a suposição inicial, baseada em declaração da vítima, realizado em sede policial - reconhecimento fotográfico - não foi confortada em outros elementos de prova colhida em sede judicial.
+Aqui, cumpre destaque que muito embora não tenha sido possível repetir a prova cautelar, diante do preceito constitucional do contraditório, para que sejam considerados elementos amealhados no inquérito policial, o convencimento do juiz não pode ser isolada em tal consideração, mas sim agregar fundamentos à prova produzida em juízo.
+Com efeito, tal conclusão se dá diante do vocábulo exclusivamente, utilizado no artigo 155 do Código de Processo Penal.
+ ..
+Em suma, examinando o acórdão, verifico que constou expressamente que a decisão recorrida carece de prova judicializada para apontar indícios de autoria delitiva. (e-STJ fls. 600/601)
+Verifica-se, portanto, que, diferentemente do que alega o recorrente, a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+Nesse contexto, tem-se que o fato de não ter sido acolhida a irresignação da parte, apresentando a Corte local fundamentação em sentido contrário, por certo não revela violação do art. 619 do Código de Processo Penal.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
