@@ -1,0 +1,27 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do RHC n. 127.613/PR (fl. 1.305).
+Trata-se de agravo interposto por Saul Jose Vieira contra a decisão proferida pelo Tribunal de Justiça do Paraná que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado, com fundamento na alínea a do permissivo constitucional, em que impugnava o acórdão prolatado na Apelação Criminal n. 0002951-30.2018.8.16.0061, assim ementado (fl. 1.109):
+CRIME DE RECEPTAÇÃO QUALIFICADA (ART. 180, § 1º, DO CÓDIGO PENAL) - SENTENÇA ABSOLUTÓRIA - APELAÇÃO - PLEITO MINISTERIAL DE CONDENAÇÃO DO RÉU - PROVIMENTO - DOLO DEVIDAMENTE COMPROVADO - AQUISIÇÃO DE BENS DE VALOR EXPRESSIVO, PARA POSTERIOR REVENDA, EM EXERCÍCIO DE ATIVIDADE COMERCIAL, SEM NOTA FISCAL - RÉU QUE DEVIA SABER, DIANTE DAS CIRCUNSTÂNCIAS, DA ORIGEM ESPÚRIA DA "RES" - APELO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos pelo Ministério Público estadual foram rejeitados (fls. 1.210/1.214).
+Nas razões do especial, a Defensoria Pública apontou ofensa ao art. 59 do Código Penal, uma vez que o acórdão utilizou fundamento inidôneo para a exasperação da pena-base (fl. 1.228). Asseverou que a fundamentação utilizada para exasperar a pena-base quanto às circunstâncias do crime incorreu em clara desproporção com o caso concreto, baseando-se em elementos inerentes ao tipo penal (fl. 1.235), requerendo, ao final, a extirpação do aumento realizado sob o vetor das circunstâncias do crime, controlando a aplicação do art. 59 do Código Penal (fl. 1.238).
+Apresentadas contrarrazões (fls. 1.249/1.253), o recurso especial não foi admitido, por incidência das Súmulas 282 e 356/STF (fls. 1.257/1.258).
+Daí o presente agravo (fls. 1.267/1.274). Instado a se manifestar, o Ministério Público Federal opina pelo desprovimento do agravo, nos termos desta ementa (fl. 1.308):
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. PENA-BASE. DOSIMETRIA. VIOLAÇÃO AO ART. 59 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS Nº 211 DO STJ E 282 DO STF.
+1. A alegação de violação ao art. 59 do Código Penal não foi analisada pelo Tribunal a quo, nem objeto dos embargos de declaração opostos na origem, inexistindo o prequestionamento necessário à abertura dessa via especial. Incide, portanto, os óbices das Súmulas 282 e 356 do STF.
+2. Considerando que a instância ordinária apresentou fundamentação idônea para exasperar a pena basilar e operou razoável aumento dentro da discricionariedade vinculada que lhe é assegurada pela lei, inexiste ofensa ao art. 59 do Código Penal 3. Parecer pelo desprovimento do agravo.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Todavia, estou de acordo com a nobre parecerista: a irresignação não merece acolhimento.
+De plano, verifica-se que a matéria trazida no recurso especial, referente à suposta ofensa ao art. 59 do Código Penal, efetivamente não foi objeto de discussão e debate pela instância ordinária, e não houve sequer a oposição de embargos de declaração com o fim de forçar a sua análise, o que atrai, por consequência, a incidência da Súmula 282/STF, ante a ausência do indispensável prequestionamento.
+Na mesma linha: AgRg no AREsp n. 1.940.746/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/6/2022; AgRg no AREsp n. 2.055.200/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/5/2022; REsp n. 1.918.544/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/11/2021; e AgRg no REsp n. 1.861.886/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 20/11/2020.
+No mesmo sentido é a opinião da Subprocuradora-Geral da República (fl. 1.311):
+ ..  O agravo em recurso especial merece conhecimento, diante da impugnação específica dos fundamentos da decisão agravada.
+No mérito, porém, o agravo não merece ser provido. De fato, observa-se que a alegação de violação do art. 59 do Código Penal não foi analisada pelo Tribunal a quo, nem objeto dos embargos de declaração opostos na origem, inexistindo o prequestionamento necessário à abertura dessa via especial. Incide, portanto, os óbices das Súmulas 282 e 356 do STF.
+Desse modo, em consonância com a decisão proferida pelo Tribunal estadual, que negou seguimento ao recurso especial defensivo, há de se reconhecer que a matéria não se encontra prequestionada, atraindo a incidência das Súmulas 211 do STJ e 282 do STF.  ..
+Atente-se a defesa para isto: Mesmo as matérias de ordem pública devem ser previamente submetidas às instâncias ordinárias para serem enfrentadas na via especial (AgRg no AREsp n. 2.406.870/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/10/2023).
+Por derradeiro, esclareço q ue é descabido postular a concessão de habeas corpus de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de constrangimento ilegal ou ilegalidade flagrante ao direito de locomoção, inexistente na hipótese (AgRg no REsp n. 1.908.034/PR, Ministro Messod Azulay Neto, Quinta Turma, DJe 3/7/2023).
+Pelo exposto, com fundamento no art. 253, II, a, do RISTJ, em consonância com o parecer ministerial, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. DOSIMETRIA. PENA-BASE. ALEGAÇÃO DE OFENSA AO ART. 59 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO.
+Agravo conhecido para não conhecer do recurso especial.
