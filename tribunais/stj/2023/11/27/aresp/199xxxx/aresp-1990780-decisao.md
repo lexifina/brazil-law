@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GEISA DE OLIVEIRA GUERRA e MARCELO JAIR MARTINS TEIXEIRA (GEISA e MARCELO) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, GEISA e MARCELO alegaram a violação dos arts. 186 e 927 do Código Civil, e 22 do CDC e à Súmula nº 479 do STJ, ao sustentar que o dano moral foi comprovado, uma vez que o corte injustificado no fornecimento de energia elétrica da sua residência teria se dado por iniciativa de ERICA, em um ato abusivo no exercício de um direito próprio.
+Do abalo moral
+Sobre a questão, os julgadores assim consideraram:
+Cinge-se a controvérsia, em ambos os processos, à análise da responsabilidade civil da parte ré pelo dano moral suportado pelos autores, em virtude de ter provocado o desligamento da energia elétrica do imóvel que ocupavam.
+Inicialmente, é de se destacar que a ação reivindicatória ajuizada pela ora ré em face dos ora autores foi julgada procedente (ordem 33 dos autos nº 5002482-19.2018.8.13.0145), com trânsito em julgado em 10/02/2017 (ordem 34 dos mesmos autos). Assim, por força do efeito positivo da coisa julgada, o presente julgamento deve adotar como premissas inexoráveis as conclusões daqueles autos. Isso significa a admissão, inquestionável, da ocupação irregular do imóvel da ora ré pelos ora autores.
+Como se não bastasse, o autor CARLOS ROBERTO MARTINS TEIXEIRA, marido de MARCILEA CARNEIRO TEIXEIRA, pai dos demais autores e co-habitante do imóvel, foi intimado pessoalmente a desocupá-lo em 09/10/2017, tendo descumprido a ordem judicial.
+Apenas em 06/12/2017 o fornecimento de energia elétrica foi interrompido.
+Dessa forma, a solução do caso perpassa pelos deveres oriundos da boa-fé objetiva. Os autores pretendem a responsabilização civil da ré pelo desligamento da energia elétrica em seu imóvel, que era objeto de ocupação sabidamente ilícita. Vê-se que a ninguém é dado se beneficiar da própria torpeza: no presente caso, não é dado aos autores pleitearem indenização por danos sofridos em função da ocupação irregular do imóvel, mormente quando decorrentes do regular exercício do direito de propriedade pela ré.
+Em caso análogo, envolvendo pretensão de indenização por dano moral oriundo de desligamento de energia elétrica a que o próprio requerente deu causa, assim decidiu este Egrégio Tribunal:
+APELAÇÃO - DANO MORAL - LIGAÇÃO CLANDESTINA - DESLIGAMENTO DE ENERGIA - ATO LÍCITO - MUDANÇA DE TITULARIDADE - COMUNICAÇÃO À CONCESSIONÁRIA - AUSÊNCIA - EVENTO DANOSO - RESPONSABILIDADE - CULPA EXCLUSIVA DA VÍTIMA - BENEFÍCIO DA PRÓPRIA TORPEZA - VEDAÇÃO - APELAÇÃO À QUAL SE NEGA PROVIMENTO. 1 - Na responsabilidade objetiva da Administração Pública, na qual se adota como regra a teoria do risco administrativo, emerge verificar a existência de ato ou omissão administrativa, dano e nexo de causalidade. Art. 37, § 6º da Constituição da República. 2 - A interrupção do fornecimento de energia elétrica é ato legítimo quando constatada ligação clandestina. Ato ilícito afastado. 3 - Configura excludente de responsabilidade a culpa exclusiva da vítima. 4 - A omissão do locatário em informar à distribuidora de energia a mudança de titularidade da conta é o evento único e responsável pelos dissabores por ele sofridos em razão do desligamento de energia. 5 - Pelo princípio da boa-fé objetiva, que deve nortear os contratos, é vedado ao apelante beneficiar-se da própria torpeza (tu quoque). (TJMG - Apelação Cível 1.0223.11.009902-3/001, Relator(a): Des.(a) Marcelo Rodrigues , 2ª CÂMARA CÍVEL, julgamento em 25/03/2014, publicação da súmula em 11/04/2014)
+Assim, se o dano sofrido pela parte foi causado imediatamente por conduta de exercício regular de direito e, mediatamente, pela sua própria torpeza, resta afastada a responsabilidade civil (e-STJ, fls. 296/297).
+Assim, rever as conclusões quanto à existência de danos morais demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Ademais, o fundamento do acórdão recorrido no sentido de que a ninguém é dado se beneficiar da própria torpeza não foi objeto de impugnação nas razões do recurso especial, a atrair a incidência da Súmula nº 283 do STF, por analogia.
+O recurso, portanto, não merece ser conhecido.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de GEISA e MARCELO, limitados a 20%, nos termos do art. 85, § 11, do CPC, observando, se for o caso, o benefício da justiça gratuita.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DANO MORAL NÃO COMPROVADO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. VEDAÇÃO AO BENEFÍCIO DA PRÓPRIA TORPEZA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
