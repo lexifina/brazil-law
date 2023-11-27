@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 32):
+IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA DECISÃO QUE REDUZIU O VALOR DA MULTA COMINATÓRIA EXEQUENDA PRETENSÃO DE MINORAÇÃO AINDA MAIOR - DESCABIMENTO A multa cominatória imposta já foi reduzida para R$100.000,00, sendo incabível nova redução, na medida em que o valor alcançado é fruto exclusivo da renitência do banco réu ao cumprimento das ordens judiciais, e notadamente porque o comando que impôs a cominação foi cumprido mais de dois anos depois da intimação do banco agravante, atrasando injustificadamente a entrega da prestação jurisdicional Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 44-47).
+Nas razões do recurso especial (fls. 49-63), aponta a parte recorrente ofensa ao disposto nos artigos:
+a) 489, § 1º, I, II, IV e VI, e 1.022, II, do Código de Processo Civil, sustentando que houve omissão no acórdão recorrido quanto à tese a seguir relatada; e
+b) 537, § 1º, do Código de Processo Civil, assim como 412 e 884 do Código Civil, alegando que é exorbitante o valor arbitrado a título de multa cominatória.
+Oferecidas contrarrazões (fls. 73-81), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 82-84), o que ensejou a interposição do presente agravo (fls. 87-95).
+Apresentadas contraminutas do agravo (fls. 97-107).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se configura a apontada violação dos arts. 489, § 1º, I, II, IV e VI, e 1.022, II, do Código de Processo Civil. Embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem a apontada omissão, como pode ser verificado no trecho do acórdão adiante transcrito.
+No que se refere aos arts. 537, § 1º, do Código de Processo Civil, assim como 412 e 884 do Código Civil, o Tribunal de origem concluiu que a multa cominatória foi imposta proporcionalmente à renitência ao cumprimento das ordens judiciais, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 33-35):
+Iniciado o cumprimento de sentença, a agravada atribuiu à execução da multa cominatória o valor de R$ 645.541,38, pela demora do banco agravante em cumprir a determinação de limitação de descontos.
+A MM. juíza oficiante reconheceu que a instituição financeira foi intimada para o cumprimento da ordem referida em 10/07/2017, mas somente a partir de agosto de 2019, cumpriu o comando judicial, ainda assim, contudo, reputou exagerado o montante alcançado da multa, reduzindo-o para R$ 100.000,00.
+Pese o banco tenha cumprido a determinação judicial, a multa cominatória atingiu a quantia de R$ 645.541,38 em razão da inegável renitência da instituição financeira em cumprir a ordem judicial, o que causou injustificável demora na entrega da prestação jurisdicional, pelo que a exigência da multa cominatória era impositiva.
+ ..
+O comando judicial deve ser cumprido pela parte compelida a isso, e nas hipóteses em que não apresentar justificativa razoável para seu descumprimento ou para sua demora, o obrigado acaba por assumir a responsabilidade pela penalização imposta, fruto de sua própria recalcitrância, não podendo servir de incentivo para que o jurisdicionado ignore a autoridade judiciária.
+De qualquer modo, a MM. magistrada reduziu a multa para cerca de um sexto de seu valor atualizado, que não se mostra exagerado, e nem resultará em enriquecimento sem causa, não se justificando sua redução ainda maior.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+O afastamento da referida súmula, quanto ao valor da multa, somente é possível em situações excepcionais, que se configuram quando a indenização é fixada em montantes irrisórios ou exorbitantes, o que não é o caso em apreço.
+Nesse sentido, cito : AgInt no AREsp n. 2.338.432/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023; AgInt no AREsp n. 2.232.145/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023; AgInt no AREsp n. 2.208.209/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023; AgInt no AREsp n. 2.164.176/PE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
