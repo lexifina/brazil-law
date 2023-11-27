@@ -1,0 +1,47 @@
+DECISÃO
+Em face das razões apresentadas no agravo interno de fls. 553/562 (e-STJ), TORNO SEM EFEITO a decisão agravada, de lavra da Presidência do STJ, e passo a novo exame do agravo em recurso especial interposto por MORRO REDONDO CONSTRUCAO E ADMINISTRACAO DE OBRAS LTDA.
+Agravo em recurso especial interposto em: 16/05/2023.
+Concluso ao gabinete em: 08/11/2023.
+Ação: embargos de terceiro, opostos por MARIO CELLA NETO e VIVIAN PEREIRA JORGE CELLA, em face da ora agravante.
+Sustentam os embargantes que são os legítimos proprietários de dois terrenos rurais localizados em Indianópolis/PR, os quais receberam por meio de escritura pública de cessão de direitos de meação, firmada por Osvaldo Fernando Cella, em 29/12/1994.
+Afirmam que, à época do ato, não averbaram a cessão de direitos junto às matrículas dos imóveis, porque ainda pendia o processo de arrolamento de bens que pertenciam à primeira esposa de Osvaldo Fernando Cella, Yara Pereira Jorge Cella, falecida em 15/12/1983 e co-titular dos terrenos. Inclusive, por longos anos, existiu penhora no rosto dos autos do processo de arrolamento de bens, fato este que, segundo alegam, também obstaculizou o registro da cessão junto às matrículas.
+Aduzem que, recentemente, uma vez levantada a referida penhora e realizado o recolhimento dos tributos devidos, se dirigiram ao Cartório de Registro de Imóveis para operacionalizar o registro da cessão, quando foram surpreendidos com a existência de averbação de penhora nas matrículas dos bens, decorrente de ação de execução de título extrajudicial que a ora embargada move contra Osvaldo Fernando Cella.
+Daí porque opõem os presentes embargos, para o fim de desconstituição da penhora, visto que os imóveis constritos lhes pertencem.
+Sentença: acolheu os embargos, para determinar o levantamento da penhora sobre os Lotes Rurais nº 158-A (matrícula nº 5.691), nº 157 (matrícula 6.592) e nº157-A (matrícula 6.593), do 1º Registro de Imóveis da Comarca de Cianorte/PR. Outrossim, condenou a ora agravante ao pagamento das custas processuais e honorários advocatícios, fixados em 10% do valor da causa.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa (e-STJ fl. 364):
+"APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. 1. PENHORA. IMÓVEIS REGISTRADOS EM NOME DO EXECUTADO. ESCRITURA PÚBLICA DE CESSÃO DE DIREITOS DE MEAÇÃO AOS EMBARGANTES. AUSÊNCIA DE REGISTRO IMOBILIÁRIO. IRRELEVÂNCIA (SÚMULA 84 DO STJ). PROCEDÊNCIA MANTIDA. 2.ÔNUS DE SUCUMBÊNCIA. RESPONSABILIDADE DO EMBARGADO. RESISTÊNCIA DESTE À PROCEDÊNCIA DO PEDIDO, MESMO APÓS CIENTE DA TRANSFERÊNCIA DO BEM AOS EMBARGANTES; TERCEIROS. PRECEDENTES DO STJ (1. "RESP. Nº 1.452.840/SP). É admissível a oposição de Embargos de Terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóveis, ainda que desprovido do registro" (Súmula 84/STJ). 2. As verbas de sucumbência devem ser suportadas pelo embargado, quando este, após ciente da transferência do bem constrito, insiste na penhora e resiste à procedência do pedido. 3. Recurso conhecido e não provido".
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 843 e 1.022 do CPC e 1.245 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: (i) ante a ausência de registro, a propriedade dos imóveis jamais foi transferida para os recorridos, não havendo qualquer ilegitimidade na conduta da recorrente ao indicar e pleitear a penhora dos bens; (ii) o executado doou aos filhos a parte dos bens que receberia a título de meação, ficando, no entanto, com os 50% restantes, parcela que, portanto, é passível de penhora; (iii) a recorrente não tinha ciência da alegada cessão de direitos quando pleiteou a penhora, de modo que, dada sua boa-fé, e considerando o princípio da causalidade, devem os recorridos serem condenados ao pagamento dos ônus sucumbenciais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à titularidade, pelo executado, sobre a parcela de 50% dos imóveis, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da legitimidade dos embargos de terceiro
+Ademais, o Tribunal de origem alinhou-se à jurisprudência desta Corte ao entender que é admissível a oposição de embargos de terceiro fundados em alegação de posse advinda de ato de alienação que não foi levado a registro, conforme inteligência da Súmula 84/STJ.
+Com igual entendimento, confiram-se, exemplificativamente, os seguintes julgados: REsp 1.809.548/SP, Terceira Turma, DJe de 27/5/2020; AgInt no AREsp 2.314.035/SP, Quarta Turma, DJe de 31/8/2023.
+Assim, ainda que fossem superados os óbices ao conhecimento do recurso especial, a insurgência recursal, em seu mérito, não comporta acolhimento.
+Incide, à hipótese, a Súmula 568/STJ.
+- Da divergência jurisprudencial relativa à distribuição dos ônus sucumbenciais
+A falta da similitude fática, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Veja-se que, na hipótese dos autos, o acórdão recorrido manteve a condenação da agravante ao pagamento das verbas sucumbenciais porque, apesar de ter tido ciência da transferência dos imóveis realizada pelo executado em favor dos recorridos, muito antes da constituição da dívida executada, manifestou a agravante resistência ao acolhimento do pleito dos recorridos, o que, diga-se de passagem, o faz até o presente momento.
+Essa particular questão relativa à resistência da parte embargada, no entanto, não foi apreciada no acórdão indicado como paradigma (EREsp 490.605/SC), a evidenciar a ausência de similitude fática entre os arestos.
+Aliás, constata-se que a agravante sequer impugnou esse fundamento do acórdão recorrido, relativo à resistência ofertada nos embargos de terceiro, o que, igualmente, impede o conhecimento do recurso especial, nos termos da Súmula 283/STF.
+Não bastasse, observa-se que a parte agravante não indicou o dispositivo de lei federal sobre o qual recai a suposta divergência, o que também inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Forte nessas razões, TORNO SEM EFEITO a decisão agravada e, em novo julgamento, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor atualizado da causa (e-STJ fl. 368) para 12%.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. EMBARGOS DE TERCEIRO. POSSE ADVINDA DE ESCRITURA PÚBLICA DE CESSÃO DE DIREITOS NÃO LEVADA A REGISTRO. VIABILIDADE. SÚMULA 84/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Embargos de terceiro.
+2. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta violação do art. 1.022 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O Tribunal de origem alinhou-se à jurisprudência desta Corte ao entender que é admissível a oposição de embargos de terceiro fundados em alegação de posse advinda de ato de alienação que não foi levado a registro, conforme inteligência da Súmula 84/STJ. Precedentes.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+8. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+9. Decisão agravada tornada sem efeito. Agravo conhecido para não conhecer do recurso especial, em novo julgamento.
