@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas ns. 282 e 356/STF e na ausência do cotejo analítico.
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, sustenta a Defesa violação do art. 46, § 3º, do Código Penal, aduzindo que a pena restritiva de direitos consistente na prestação de serviços à comunidade é conflitante com as atividades profissionais do recorrente.
+Requer o provimento do recurso para adequar a pena alternativa às condições de trabalho do acusado.
+Contrarrazões apresentadas. O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+O recorrente foi condenado, em sentença confirmada pela Corte a quo, como incurso nos arts. 304, c/c 297, ambos do Código Penal, às penas de 2 anos e 4 meses de reclusão e 11 dias-multa, substituída a pena privativa de liberdade por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade ou a entidades públicas e prestação pecuniária, consubstanciada na entrega de uma cesta básica por mês, no valor de R$ 150,00, à entidade pública ou privada com destinação social.
+Acerca do pleito de substituição da pena de prestação de serviços à comunidade, colhe-se do acórdão recorrido (fl. 337):
+A Defesa de EURÍPEDES BORGES DA SILVA requer seja-lhe imposta apenas uma pena restritiva de direitos ou, subsidiariamente, a substituição da prestação de serviços à comunidade por qualquer outra pena cabível.
+Contudo, tendo em vista o patamar da reprimenda penal imposta (02 anos e 04 meses de reclusão), verifica-se que, nos termos do artigo 44, § 2º, do Código Penal, o quantum da pena corporal estabelecida exige a substituição por duas penas restritivas e direitos.
+Assim, fica mantida a substituição da pena corporal por duas penas restritivas de direitos, na forma como determinada pelo r. juízo a quo.
+Na sequência, no tocante ao requerimento de substituição da pena de prestação de serviços à comunidade impende informar que não cabe ao réu a escolha da pena a ser estabelecida tampouco a forma do seu cumprimento, cujas incumbências estão impostas ao juízo sentenciante e ao juízo da execução, respectivamente.
+Saliente-se que caberá ao Juízo da Execução promover a adequação das condições de cumprimento da pena substitutiva, nos termos do artigo 66, inciso V, alínea "a", c.c. artigo 149, ambos da Lei 7.210/1984 (Lei de Execução Penal).
+Dessa forma, ficam negados os pleitos Defensivos dirigidos à aplicação de pena restritiva de direitos única, bem como de substituição da pena de prestação de serviços à comunidade.
+Entende essa Corte que o "Acórdão proferido em habeas corpus, em mandado de segurança ou em recurso ordinário não serve de paradigma para a comprovação do dissídio jurisprudencial, ainda que se trate de dissídio notório, pois as referidas ações mandamentais e seus recursos não têm o mesmo objeto/natureza nem a mesma extensão material previstos para o recurso especial" (AgRg no REsp 1843257/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 01/12/2020, DJe 07/12/2020). No mesmo sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. HABEAS CORPUS COMO PARADIGMA. INADEQUAÇÃO. REVISÃO DA CONDENAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7/STJ E 279/STF.
+1. Não há como conhecer do apelo nobre pela alínea "c", pois não foi realizado o cotejo analítico entre os acórdãos paradigmas e o aresto impugnado, o que representa desatenção ao disposto no art. 255, § 1º, do Regimento Interno desta Corte Superior e corrobora com a aplicação do óbice previsto na Súmula n. 284/STF.
+2. Anota-se, ainda, que não servem à demonstração do dissídio jurisprudencial julgados proferidos em habeas corpus, em recurso ordinário em habeas corpus, em recurso ordinário em mandado de segurança e/ou em conflito de competência, uma vez que "os remédios constitucionais não guardam o mesmo objeto/natureza e a mesma extensão material almejados no recurso especial" (AgRg no EREsp n. 998.249/RS, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 21/9/2012).
+3. O Tribunal de origem, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela comprovação da autoria e da materialidade do delito do art. 180, caput, do Código Penal. Desse modo, a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.347.187/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/10/2023, DJe de 30/10/2023.)
+Assim, tendo o recorrente indicado como paradigma acórdão proferido no julgamento de habeas corpus, não conheço do recurso especial com base na alínea c do permissivo constitucional.
+De outro norte, a modificação do julgado, nos termos da pretensão defensiva, demandaria o reexame fático-probatório dos autos, sem o qual não se poderia aferir se a pena alternativa é efetivamente incompatível com as atividades laborais do recorrente, providência que esbarra no óbice da Súmula n. 7/STJ.
+Ademais, nada impede que o juízo executivo ajuste a forma de cumprimento da pena às condições pessoais do condenado.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
