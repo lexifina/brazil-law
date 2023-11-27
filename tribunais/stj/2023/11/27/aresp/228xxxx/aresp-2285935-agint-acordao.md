@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. MEDIDAS ADOTADAS PARA ASSEGURAR A SATISFAÇÃO DA EXECUÇÃO. ALTERAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A alteração da decisão pr oferida pelo Tribunal de origem quanto à alegada ausência de adoção das medidas necessárias a fim de assegurar a satisfação da execução demandaria, necessariamente, o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU contra decisão em que não conheci do recurso especial ante a incidência da Súmula 7 desta Corte.
+A parte agravante alega, em síntese, que o caso não enseja a aplicação da Súmula n. 7 do STJ, pois "(..) a análise da ofensa ao artigo 139, IV, do Código de Processo Civil demanda exclusivamente aferir se as medidas executivas pleiteadas pela Agravante e indeferidas pela r. decisão de origem são autorizados por referida norma legal ou não, o que não demanda a reapreciação de fatos e provas, mas tão somente o cotejo entre a decisão guerreada e o dispositivo legal tido por violado" (e-STJ fl. 120).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. MEDIDAS ADOTADAS PARA ASSEGURAR A SATISFAÇÃO DA EXECUÇÃO. ALTERAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A alteração da decisão pr oferida pelo Tribunal de origem quanto à alegada ausência de adoção das medidas necessárias a fim de assegurar a satisfação da execução demandaria, necessariamente, o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar.
+Conforme consignado n a decisão recorrida, quando do julgamento do recurso de apelação, o Tribunal de origem assim se manifestou em relação à adoção das medidas para garantir a satisfação da execução (e-STJ fls. 63/65):
+O recurso ora interposto não merece provimento.
+Segundo constou da decisão agravada: "(..) a exequente faz pedido genérico sem atentar às diligências já realizadas nestes autos. Basta uma simples verificação para se constatar que houve tentativas de constrição de ativos financeiros, que sabido, são feitas via Sisbajud, de sorte que os pedidos a isso relativo são indeferidos. De igual modo, houve a requisição de informações à Receita Federal já juntadas aos autos, o que impõe o indeferimento de pedido nesse sentido".
+Não se nega que o atual sistema processual positivo possibilita, de forma expressa, que o juiz tome medidas executivas não previstas em lei.
+Com efeito, incontroversa a existência de norma que garanta ao Magistrado o uso das medidas de cunho indutivas, coercitivas a fim de assegurar o cumprimento da ordem judicial, todavia, constata-se da leitura dos autos que as medidas vindicadas são de encargo da própria parte, vez que já houve esgotamento das ordens judiciais junto ao BACEN e à Receita Federal, como ponderado pelo Juízo a quo: "O ônus processual quanto a gradação legal e a indicação dos meios para a sua fiel observância são transferidos ao exequente.
+Portanto, compete no caso ao credor diligenciar os meios necessários visando obter informações para eventual penhora de bens do devedor, segundo a ordem legal para que a execução possa prosseguir em seus ulteriores e regulares termos, uma vez que não é curial transferir tal ônus ao Juízo" (a fls. 82 dos autos do cumprimento de sentença).
+Ademais, observa-se da leitura dos autos que o pedido de inclusão do nome do executado junto ao cadastro de inadimplentes já foi efetivado, nos termos do art. 782, §3º, do CPC, bem como restou expedida certidão para fins de protesto, consoante ordem emanada a fls. 93.
+De fato, ausentes os requisitos autorizadores para adoção das medidas executivas excepcionais pretendidas pela parte agravante.
+Isto porque, não houve qualquer demonstração da necessidade de se aplicar as medidas excepcionais, notadamente pela ausência de demonstração dos indícios de dilapidação do patrimônio da parte agravada.
+Além disso, já houve tentativa de constrição de ativos financeiros via Sisbajud, bem como requisição de informações à Receita Federal pelo Juízo a quo, medidas adequadas e proporcionais visando assegurar o cumprimento da ordem judicial.
+Anoto, por oportuno, que as medidas pretendidas em nada contribuem com a efetividade da decisão e conforme ponderado pela D. Magistrada a quo, de fato cabe ao credor o encargo de realizar diligências atípicas para localização de bens do devedor.
+Considerando que no caso concreto restaram esgotados os meios típicos para localização e restrição dos bens da parte executada, reputo desnecessárias as medidas executivas excepcionais requeridas pela parte agravante.
+Verifica-se que o Tribunal de origem decidiu a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, destacando que não há, na hipótese, elementos a justificar a adoção de medidas excepcionais, que nada contribuem com a efetividade da pretensão, bem como inexistir demonstração de indícios de dilapidação do patrimônio pela parte adversa.
+Dessa maneira, a alteração do acórdão combatido quanto à alegada ausência de adoção das medidas necessárias a fim de assegurar a satisfação da execução demandaria, necessariamente, o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MEDIDAS CAUTELARES ATÍPICAS. ACÓRDÃO RECORRIDO QUE ADOTA FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA 126. ART. 1.032 DO CPC/2015. INAPLICABILIDADE. NECESSIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Na hipótese dos autos, há fundamento constitucional autônomo no acórdão recorrido e não houve a interposição do devido recurso extraordinário dirigido ao Supremo Tribunal Federal, o que atrai a aplicação da Súmula 126/STJ.
+2. Não incidência do art. 1.032 do CPC, uma vez que a incidência da regra pertinente ao princípio da fungibilidade é devida quando erroneamente interposto o recurso especial contra questão de natureza exclusivamente constitucional, e, em relação ao presente caso, o acórdão tem dupla fundamentação - constitucional e infraconstitucional -, sendo necessária a interposição de dois recursos distintos de natureza extraordinária (recurso especial e recurso extraordinário).
+3. O Tribunal de origem reconheceu que não estão presentes os requisitos para a adoção de medidas cautelares atípicas previstas no inciso IV do art. 139 do CPC, inclusive a ordem de restrição em carteira de habilitação do executado e permissão de consulta do estado civil do devedor, regime matrimonial e CPF do cônjuge e que sejam realizados acesso, pesquisa e decretação de indisponibilidade de bens eventualmente localizados por meio da Central Nacional de Indisponibilidade de Bens (CNIB).
+4. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.749.478/PB, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+AGRAVO INTERNO. PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. SÚMULAS 7 E 83 DO STJ.
+1. A adoção de medidas executivas atípicas de satisfação do crédito devem ser adotadas de modo subsidiário, não podendo extrapolar os princípios da proporcionalidade e da razoabilidade, com observância, ainda, do princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.
+2. No caso concreto, independentemente de serem consideradas medidas típicas ou atípicas, o fato é que com base nos elementos fático-probatórios dos autos, a Corte local concluiu pela desproporcionalidade do pleito do credor para a aplicação das medidas coercitivas requeridas (bloqueio do cartão de crédito e expedição de ofício ao INCRA), além de salientar que nenhuma dessas medidas teria o condão de agregar efetividade ao cumprimento da sentença, mormente tendo em vista que a consulta ao INFOJUD evidenciou a ausência de bens imóveis rurais de propriedade dos executados.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.958.291/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022.)
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
