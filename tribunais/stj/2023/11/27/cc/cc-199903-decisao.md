@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por MELLORE ALIMENTOS LTDA. - EM RECUPERAÇÃO JUDICIAL e OUTRO, envolvendo, como suscitados, o r. Juízo de Direito da Vara Empresarial, da Fazenda Pública e Autarquias, de Registros Públicos e de Acidentes do Trabalho da Comarca de Betim/MG, onde se processa a recuperação judicial das suscitantes (Processo n.º 5001049-77.2017.8.13.0027), e o r. Juízo da 2.ª Vara do Trabalho de Betim/MG, onde tramita a Reclamação Trabalhista n.º 0010017-73.2021.5.03.0027, movida por ANTONIO MOREIRA DE SANTANA FILHO.
+Aduzem as suscitantes, em resumo, que o Juízo laboral teria determinado atos executórios contra o seu patrimônio nos autos da mencionada reclamatória, invadindo, assim, competência do Juízo da recuperação judicial.
+Requerem a concessão de liminar objetivando o sobrestamento da demanda executória. Quanto ao mérito do incidente, pugnam pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Às fls. 167-171, decisão da lavra do e. Ministro Marco Aurélio Bellizze deferiu parcialmente o pedido liminar.
+Informações prestadas às fls. 177-182 e 184-199, sendo que o MPF opinou pela competência do juízo da recuperação judicial. (fls. 201-204)
+É o relatório.
+Decisão.
+De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é competente o juízo universal para prosseguimento de atos de execução que incidam sobre o patrimônio de empresa em processo falimentar ou de recuperação judicial.
+Nessa linha, confiram-se: AgInt no CC 167.826/PA, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 18/08/2020, DJe 21/08/2020; (AgInt no CC 155.757/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 18/08/2020, DJe 26/08/2020; AgInt no CC 166.811/MA, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 12/02/2020, DJe 18/02/2020.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo de Direito da Vara Empresarial, da Fazenda Pública e Autarquias, de Registros Públicos e de Acidentes do Trabalho da Comarca de Betim/MG , para a prática de quaisquer atos constritivos/executórios sobre o patrimônio das recuperandas, relativos à Reclamação Trabalhista n.º 0010017-73.2021.5.03.0027, em trâmite perante o r. Juízo da 2ª Vara do Trabalho de Betim /MG, bem como para exercer o controle sobre bens e valores pertencentes às suscitantes, que eventualmente ainda permaneçam bloqueados/arrecadados nos referidos autos.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
