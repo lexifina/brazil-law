@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. AUSÊNCIA DE INÉPCIA DA DENÚNCIA. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. DISCUSSÃO A SER FEITA NO CURSO DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE.
+1. Existem indícios de autoria e materialidade que serão devidamente analisados no curso da instrução penal. A ação penal deverá ser trancada em casos quando demonstradas, de plano, a atipicidade da conduta, alguma causa extintiva da punibilidade ou a ausência de justa causa para a ação penal, o que não se verifica na hipótese.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Joselio Francelino de Pontes contra decisão de minha Relatoria, na qual neguei provimento ao recurso em habeas corpus. A decisão recebeu a seguinte ementa (fl. 525):
+RECURSO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. APONTAMENTO DE INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 41 DO CÓDIGO DE PROCESSO PENAL. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. DISCUSSÃO A SER FEITA NO CURSO DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE.
+Recurso em habeas corpus improvido.
+Sustenta a defesa não ser necessário o reexame de provas para que se chegue à conclusão de inépcia da denúncia. Aduz estar reconhecida a responsabilidade objetiva no caso, já que a denúncia foi feita unicamente em razão do cargo exercido à época dos fatos.
+Alega que a denúncia não descreve qualquer conduta exercida pelo ora agravante.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. AUSÊNCIA DE INÉPCIA DA DENÚNCIA. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. DISCUSSÃO A SER FEITA NO CURSO DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE.
+1. Existem indícios de autoria e materialidade que serão devidamente analisados no curso da instrução penal. A ação penal deverá ser trancada em casos quando demonstradas, de plano, a atipicidade da conduta, alguma causa extintiva da punibilidade ou a ausência de justa causa para a ação penal, o que não se verifica na hipótese.
+2. Agravo regimental improvido.
+VOTO
+Não obstante as razões da defesa, a decisão deve ser mantida. O Ministério Público apontou o suposto delito e as circunstâncias que possibilitam a devida verificação das provas para confirmar ou não a conduta que está sendo imputada ao agravante. Estão presentes os requisitos do art. 41 do Código de Processo Penal. Confira-se parte do acórdão hostilizado, que cita trechos da denúncia oferecida nos pontos que mais aqui interessam sobre qual teria sido a suposta omissão praticada pelo agrava nte (fls. 465/466):
+ ..  Conforme relatado, pretende o ora paciente o trancamento da ação penal a que responde, sob o fundamento de que a denúncia apresenta-se inepta, posto ser a acusação baseada, exclusivamente, em razão do cargo de administrador de empresa, que ocupava na época dos fatos, não enquadrando objetivamente sua conduta criminosa.
+Infere-se dos autos que Josélio Francelino de Pontes, ora paciente, foi denunciado pela prática do crime contra a ordem tributária, previsto no art. 1º, I e II, c/c o art. 12, I, todos da Lei n. 8.137/1990, c/c o art. 71, caput, do Código Penal.
+Narra a denúncia que o paciente, "agindo na qualidade de administrador da empresa DISMACON - DISTRIBUIDORA DE MATERIAL DE CONSTRUÇÃO LTDA, pessoa jurídica inscrita no CNPJ n. 03.730.347/0001-88  .. , atualmente cancelada no cadastro de contribuintes da Secretaria de Estado da Fazenda da Paraíba, com vontade livre, direta e consciente, suprimiu o tributo estadual ICMS - Imposto sobre a Circulação de Mercadorias e Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, mediante omissão de informação (Art. 1º, inciso I, da Lei n. 8.137/1990) às autoridades fazendárias (omitindo saídas de mercadorias, constatada através da Conta Mercadorias) e mediante fraude à fiscalização tributária (Art. 1º, inciso II, da Lei n. 8.137/1990), visto que deixou de lançar notas fiscais de aquisição de mercadorias tributáveis, sem o pagamento do imposto devido, bem como não registrou nos livros próprios as operações de saídas de mercadorias", Id 20730449 - Pág. 5.
+Da análise dos autos, observa-se que a denúncia preenche os requisitos exigidos pelo art. 41 do Código de Processo Penal, porquanto contém a exposição do fato criminoso, a qualificação do acusado, a classificação do crime, bem como o enquadramento da conduta pelo paciente ao tipo penal, o que permite o pleno exercício de defesa. Além disso, o órgão acusatório também estabeleceu o vínculo entre o paciente e a conduta criminosa a ele imputada.
+Logo, não há como acolher, nesse momento processual, a alegação de inépcia da peça vestibular acusatória.
+Ademais, cumpre ressaltar que a jurisprudência já se pronunciou no sentido de que o trancamento da ação penal constitui medida excepcional, justificado a sua concessão apenas quando restar comprovado, sem necessidade de análise mais acurada dos fatos e provas, a atipicidade da conduta, a existência de causas de extinção de punibilidade ou ausência de indícios mínimos de autoria ou de prova de materialidade, o que não se verifica no caso em epígrafe. ..
+Existem indícios de autoria e materialidade que serão devidamente analisados no curso da instrução penal. A ação penal deverá ser trancada em casos quando demonstradas, de plano, a atipicidade da conduta, alguma causa extintiva da punibilidade ou a ausência de justa causa para a ação penal, o que não se verifica na hipótese.
+Ante o exp osto, nego provimento ao agravo regimental.
