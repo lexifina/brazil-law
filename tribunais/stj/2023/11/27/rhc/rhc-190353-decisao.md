@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Joales da Silva Vieira - preso preventivamente pela prática, em tese, dos delitos de participação em organização criminosa armada, tráfico de drogas e associação para o tráfico majorado - contra acórdão do Tribunal de Justiça de Alagoas (Habeas Corpus n. 0806671-72.2023.8.02.0000), não comporta seguimento.
+Com efeito, busca o recorrente a revogação da prisão cautelar imposta a ele pelo Juízo de Direito da 17ª Vara Criminal da comarca da Capital/AL (Autos n. 8003493-09.2023.8.02.0001), ao argumento de ausência de fundamentação da custódia, pois a fundamentação apresentada não se revestir de elementos concretos capazes de justificar a denegação e manter o réu no cárcere, está configurado o constrangimento ilegal ao qual o acusado está submetido, o que é vedado pelo Código de Processo Penal no art. 315, § 2º, com o advento do (pacote anticrime) - fl. 92.
+Ocorre que o Magistrado singular apontou fundamentação que esta Corte Superior de Justiça considera suficiente ao mencionar a necessidade de se interromper a atividade criminosa (fl. 57), pois se enquadra no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva (AgRg no RHC n. 126.375/MT, Ministro Felix Fischer, Quinta Turma, DJe 9/6/2020).
+Por fim, os pleitos de ilegalidade da interceptação telefônica, abuso de poder, excesso de prazo na formação da culpa e ausência de contemporaneidade não foram objeto de discussão pela Corte estadual, razão pela qual o conhecimento de tais questões pelo STJ ensejaria inegável supressão de instância.
+Em face do exposto, nego seguimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA ARMADA, TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. NECESSIDADE DE SE INTERROMPER OU DIMINUIR A ATUAÇÃO DE INTEGRANTES DE ORGANIZAÇÃO CRIMINOSA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso a que se nega seguimento.
