@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. BEM DE FAMILIA. IMPENHORABILIDADE. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE REVALORAÇÃO DE PROVA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência firmada no Superior Tribunal de Justiça, a pretensão recursal cuja finalidade é dirigida à reapreciação de fatos e provas não comporta a interposição de recurso especial, pois este instrumento é vocacionado à tutela do direito objetivo federal.
+2. Divergir da conclusão exarada pelo Tribunal de origem acerca da impossibilidade de reconhecer o imóvel como bem de família demanda a reapreciação do conjunto fático-probatório, providência vedada na via especial. Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANA CAROLINA LEMOS MARQUES e VICTOR WANDERLEY DE OLIVEIRA MARQUES contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 301):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. APELAÇÃO CÍVEL. 1. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 2. EXAME DE DISSÍDIO PREJUDICADO. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 311-321), os agravantes argumentam que a decisão monocrática (e-STJ, fls. 301-307) não deu o devido desfecho ao presente caso.
+Para tanto, alegam a inaplicabilidade da Súmula n. 7/STJ, pois a questão não demanda o revolvimento do conjunto fático-probatório, mas sim o escorreito enquadramento da conjuntura fática delineada no voto vencido.
+Reiteram, no mais, os argumentos do apelo especial quanto à ausência de previsão legal para o afastamento da impenhorabilidade do bem de família.
+Requerem, por fim, a reconsideração da decisão monocrática.
+Impugnações apresentadas (e-STJ, fls. 325-330), sem pedido de aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. BEM DE FAMILIA. IMPENHORABILIDADE. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE REVALORAÇÃO DE PROVA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência firmada no Superior Tribunal de Justiça, a pretensão recursal cuja finalidade é dirigida à reapreciação de fatos e provas não comporta a interposição de recurso especial, pois este instrumento é vocacionado à tutela do direito objetivo federal.
+2. Divergir da conclusão exarada pelo Tribunal de origem acerca da impossibilidade de reconhecer o imóvel como bem de família demanda a reapreciação do conjunto fático-probatório, providência vedada na via especial. Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da deliberação unipessoal.
+A controvérsia recursal circunscreve-se ao exame da impenhorabilidade de bem de família imóvel dado em garantia fiduciária.
+Argumentam os agravantes que, conforme consignado no voto vencido quando do julgamento da apelação, o imóvel disputado é bem de família e que a exceção à regra da impenhorabilidade prevista no 3º, V, da Lei n. 8.009/1990 não se estende à alienação fiduciária, restringindo-se apenas à hipoteca.
+Conforme aduzido na decisão monocrática agravada, esta Corte Superior há muito vem se pronunciando pela flexibilização da regra da impenhorabilidade, consoante o entendimento de que, "sendo a alienante pessoa dotada de capacidade civil, que livremente optou por dar seu único imóvel, residencial, em garantia a um contrato de mútuo favorecedor de pessoa diversa, empresa jurídica da qual é única sócia, não se admite a proteção irrestrita do bem de família se esse amparo significar o alijamento da garantia após o inadimplemento do débito, contrariando a ética e a boa-fé, indispensáveis em todas as relações negociais" (REsp 1.559.348/DF, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 5/8/2019).
+Ilustrativamente:
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL RECONHECIDO COMO BEM DE FAMÍLIA. POSSIBILIDADE. CONDUTA QUE FERE A ÉTICA E A BOA-FÉ. SÚMULA 168 DO STJ.
+1. À luz da jurisprudência dominante das Turmas de Direito Privado:(a) a proteção conferida ao bem de família pela Lei n. 8.009/90 não importa em sua inalienabilidade, revelando-se possível a disposição do imóvel pelo proprietário, inclusive no âmbito de alienação fiduciária; e (b) a utilização abusiva de tal direito, com evidente violação do princípio da boa-fé objetiva, não deve ser tolerada, afastando-se o benefício conferido ao titular que exerce o direito em desconformidade com o ordenamento jurídico. Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EDv nos EREsp n. 1.560.562/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 2/6/2020, REPDJe de 30/06/2020, DJe de 9/6/2020.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO INSURGÊNCIA DA PARTE AUTORA.
+1. Nos termos da orientação firmada nos autos do REsp. 1.559.348/DF, com o propósito de vedar a ocorrência de comportamento contraditório, prestigiando o princípio da boa-fé contratual, este Superior Tribunal de Justiça passou a reconhecer a possibilidade de penhora incidente sobre bem de família oferecido por pessoa física como garantia em contrato de mútuo em benefício de pessoa jurídica.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.507.594/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/3/2020, DJe de 1º/4/2020.)
+Ao apreciar a questão, a Corte estatual consignou que o imóvel em litígio não se enquadrava no conceito de bem de família, uma vez que, não bastasse o fato de ser o bem dado em garantia, os fatos narrados não se amoldaram às hipótese legais a fim de atrair a incidência da proteção da impenhorabilidade do bem de família.
+Confira-se (e-STJ, fls. 158-166):
+A Lei nº 8.009-1990 resguarda da penhora o imóvel residencial próprio do casal ou da entidade familiar esta em sentido amplo. E a ideia é proteger a família, bem como o direito fundamental à moradia contido no art. 6º da CF, visando a defender o ambiente material em que vivem seus membros.
+O art. 3º da Lei 8.009-1990 dispõe que a impenhorabilidade é oponível em qualquer processo de execução civil, fiscal, previdenciária, trabalhista ou de outra natureza, mas seus incisos apontam exceções, ora relacionadas ao sopesamento do direito de moradia com os demais direitos fundamentais amparados pelo Estado, ora com a incompatibilidade dos institutos, ora em razão da renúncia ao próprio benefício. Neste sentido, o inciso V estabelece que a impenhorabilidade não se impõe quando o imóvel é oferecido em garantia real de dívida hipotecária pelo casal ou pela entidade familiar.
+Tal hipótese de renúncia ao benefício legal é interpretada na jurisprudência de modo restritivo, devendo estar claro que a dívida garantida pelo imóvel reverteu-se em benefício da própria família, sob pena de ofensa à proteção constitucionalmente prevista.
+Neste sentido decidiu o STJ:
+ ..
+E nem se alegue que o ajuizamento da ação de execução implicou renúncia da garantia hipotecária, pois esta (a renúncia) deve ser expressa, o que não se verificou no caso.
+ ..
+Não se acolhe, assim, a pretensão dos recorrentes esposa e filho do coexecutado que almejam afastar a constrição sobreo imóvel onde residem, pois tal bem foi oferecido pelo devedor em garantia real de dívida hipotecária, inserindo-se como exceção à regra da impenhorabilidade.
+É mantida a sentença recorrida, assim expressa (cf. fls. 84-88):
+"Os embargos devem ser julgados improcedentes.
+Inadmissível a tese de que a opção pela via executiva importa renúncia à garantia da alienação fiduciária, a uma, porque a execução judicial de dívida garantida por bem imóvel é faculdade do exequente, no interesse de quem é movido o processo de execução, e, a duas, porque o entendimento adotado pelo C. Superior Tribunal de Justiça é o de que a renúncia à garantia fiduciária deve ser expressa, sendo admitida, apenas excepcionalmente, a presunção da abdicação de tal direito (REsp 1338748/SP, Rel. Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, julgado em 02/06/2016, DJe 28/06/2016)
+O art. 674, caput, do Código de Processo Civil estabelece que "Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro".
+Consta da exordial que o imóvel objeto de penhora "é a residência, há muitos anos, do peticionário JOSÉ RENATO MARQUES, da sua anterior esposa e dos seus filhos, sendo que um deles, VICTOR WANDERLEY DE OLIVEIRA MARQUES (certidão de nascimento em anexo), é solteiro e, embora curse faculdade em outra cidade, continua seu dependente, até porque ainda estudando e, quando de suas muitas vindas a Sacramento, principalmente férias, obviamente que o mesmo se abriga no imóvel em questão, portanto, continua ainda residente e domiciliado no endereço supra" (fls. 03).
+Ocorre que José Renato Marques foi excluído pela decisão de fls. 33/34 do polo ativo da presente ação por ostentar a condição de executado; sua anterior esposa não é embargante; e seu filho Victor Wanderley de Oliveira Marques, evidentemente, não reside no referido imóvel, visto que cursa graduação em outra cidade, não se podendo considerar que visitas à cidade de Sacramento em férias configurem residência apta a ensejar a proteção legal conferida ao bem de família.
+Outrossim, o fato de a embargante Ana Carolina Lemos Marques ter sido excluída do relato transcrito acima e ter contraído núpcias com o executado José Renato Marques na recente data de 26/10/2018, no regime da separação total de bens (fls. 18), já é capaz de levantar dúvidas sobre a veracidade da narrativa de que reside no imóvel de propriedade do executado.
+A certidão de valor venal do imóvel de fls. 27 e a conta de energia elétrica de fls. 28 fazem referência somente a José Renato Marques, que não é parte na presente demanda. Aliás, deve-se ressaltar que a referida conta de energia elétrica, emitida em 08/08/2019, foi a única conta de consumo juntada aos autos.
+As declarações de fls. 29/31 de supostos vizinhos do executado, em cotejo com as ponderações feitas acima, não possuem força probatória capaz de demonstrar ao Juízo que os embargantes têm direito incompatível com o ato constritivo.
+Por fim, é necessário ressaltar que o entendimento do C. Superior Tribunal de Justiça é o de que a impenhorabilidade do bem de família não prevalece sobre a alienação fiduciária. Senão, vejamos:
+ ..
+Outros fundamentos são dispensáveis diante da adoção integral dos que foram deduzidos em primeiro grau, e aqui expressamente adotados para evitar inútil e desnecessária repetição, nos termos art. 252 do Regimento Interno deste Tribunal de Justiça.
+Nessa linha de entendimento, tendo o colegiado de origem, à luz dos fatos narrados e das provas, alcançado o entendimento de que o imóvel dado em garantia fiduciária não se amoldava às hipóteses legais, a fim de atrair a proteção da impenhorabilidade do bem de família, mormente pelas dúvidas sobre a veracidade de os recorrentes residirem no aludido imóvel, esta Corte Superior fica impedida de proceder ao revolvimento do acervo fático-probatório a fim de adotar conclusão diversa. Assim, deve ser mantida a incidência do enunciado da Súmula n. 7/STJ.
+Registra-se, outrossim, não ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Tendo em vista, então, que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa do art. 1.026, § 2º, do CPC/2015.
+É como voto.
