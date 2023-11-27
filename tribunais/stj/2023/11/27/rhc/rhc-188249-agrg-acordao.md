@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DO PERICULUM LIBERTATIS. INSUFICIÊNCIA DE CAUTELARES DO ART. 319 DO CPP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta do delito, pois destacou a quantidade de drogas apreendidas.
+3. Conquanto o réu seja primário, em atenção à gravidade da conduta, circunstâncias que permearam o fato e a sua condição de policial, não se verifica a adequação das cautelares do art. 319 do CPP ao caso concreto.
+4. Ag ravo regimental não provido.
+RELATÓRIO
+RAFAEL DOS SANTOS MOTA agrava da decisão em que indeferi liminarmente o recurso em habeas corpus, mas de ofício, determinei que o Tribunal de origem analise a alegação defensiva de nulidade da busca domiciliar.
+A parte reitera a assertiva de manifesta ilegalidade de sua custódia preventiva. Afirma que "o decreto não traz qualquer motivação para a prisão" (fl. 600) e que o acusado "foi covardemente agredido no momento da abordagem policial" (fl. 609).
+Pede a concessão da ordem ao colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DO PERICULUM LIBERTATIS. INSUFICIÊNCIA DE CAUTELARES DO ART. 319 DO CPP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta do delito, pois destacou a quantidade de drogas apreendidas.
+3. Conquanto o réu seja primário, em atenção à gravidade da conduta, circunstâncias que permearam o fato e a sua condição de policial, não se verifica a adequação das cautelares do art. 319 do CPP ao caso concreto.
+4. Ag ravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O paciente foi denunciado por incursão nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006. O Juiz de primeiro grau decretou sua prisão preventiva, em decisão chancelada pelo Tribunal de origem, pelos seguintes fundamentos (fl. 174, destaquei):
+No caso dos autos verifica-se que foram encontrados com os ora flagranteados foram abordados com relevante quantidade de entorpecentes. Quanto a CAIQUE, verifico que responde a outra ação penal perante este juízo, não tendo realizada sua citação por não ter sido localizado no endereço constante nos autos. Já quanto ao flagranteado RAFAEL, em que pese seja primário, tem-se que com ele foram encontrados grande quantidade de entorpecentes, no seu local de trabalho. Tais circunstâncias, aliada ao possível liame subjetivo entre os acusados denota a gravidade concreta dos fatos a eles imputados. Nesse contexto, presentes os requisitos do art. 312 do CPP, entendo que unicamente a primariedade, bons antecedentes ou a existência de trabalho fixo não se mostram aptos a afastar a fundamentação supra.
+A prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+A gravidade concreta da conduta, demonstrada pela quantidade de drogas apreendidas - 1.105 g de cocaín a e 304 g de maconha - é justificativa idônea para a necessidade de acautelamento da ordem pública,
+O acórdão estadual está conforme a jurisprudência desta Corte, firme em assinalar que "a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no RHC n. 178.504/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe 16/6/2023).
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. NEGATIVA DE PARTICIPAÇÃO NO DELITO. INVIABILIDADE.
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE E VARIEDADE DE DROGAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. A negativa de participação no delito, além de demandar profundo reexame dos fatos e das provas que permeiam o processo principal, não demonstram o constrangimento ilegal.
+3. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fazem referência às circunstâncias fáticas justificadoras, destacando, principalmente, a quantidade e a variedade das drogas encontradas (2,010 kg de maconha e 100 g de cocaína). Tudo a revelar a periculosidade in concreto do agente.
+4. Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva.
+5. Recurso em habeas corpus improvido.
+(RHC n. 123.004/PR, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 19/5/2020, destaquei)
+Conquanto o réu seja primário, em razão da gravidade do crime, as medidas cautelares alternativas à prisão não se mostram suficientes para evitar a prática de novas infrações penais.
+Ilustrativamente: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+Certificada "pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão" (HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020).
+Finalmente, "condições favoráveis do agente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada" (AgRg no HC n. 807.078/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 18/5/2023).
+Por fim, esclareço que em relação à alegada ocorrência de violência policial, a matéria não foi previamente analisada pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do STJ. Assim, não pode este Tribunal Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+À vista do exposto, nego provimento ao agravo regimental.
