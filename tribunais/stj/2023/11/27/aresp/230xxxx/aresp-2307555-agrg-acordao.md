@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MAUS ANTECEDENTES. RECONHECIMENTO. PROCESSO SEM TRÂNSITO EM JULGADO. DISCUSSÃO NÃO DESTRAMADA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL - STF. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante sustenta que os maus antecedentes foram computados em decorrência dos autos 3553092-29.2007.8.13.0702, sem ter o referido processo transitado em julgado. Ocorre que tal quaestio não foi discutida pela Corte Estadual, atendo-se a defesa a opor embargos de declaração apenas para sanar omissão quanto à reincidência, elemento que figura na segunda fase da dosimetria. Assim, não é possível a esta Corte adentrar ao mérito recursal, por ausência de prequestionamento e incidência das Súmulas ns. 282 e 356 do STF.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROBERTO CESAR OLIVEIRA SILVA contra decisão monocrática de minha relatoria (fls. 442/446) que conheceu do agravo para não conhecer do recurso especial do ora agravante.
+No presente regimental (fls. 454/464), o agravante sustenta que no julgamento da apelação trouxe a discussão para a apreciação do Tribunal a quo, não sendo aplicável os óbices das Súmulas ns. 282 e 356 do STF.
+Repisa que possui apenas uma condenação transitada em julgado, sopesada como reincidência, já que os autos n. 3553092-29.2007.8.13.0702 não transitou em julgado, não podendo estes serem valorados como maus antecedentes.
+Requer a reforma da decisão agravada para que seja provido o recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MAUS ANTECEDENTES. RECONHECIMENTO. PROCESSO SEM TRÂNSITO EM JULGADO. DISCUSSÃO NÃO DESTRAMADA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL - STF. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante sustenta que os maus antecedentes foram computados em decorrência dos autos 3553092-29.2007.8.13.0702, sem ter o referido processo transitado em julgado. Ocorre que tal quaestio não foi discutida pela Corte Estadual, atendo-se a defesa a opor embargos de declaração apenas para sanar omissão quanto à reincidência, elemento que figura na segunda fase da dosimetria. Assim, não é possível a esta Corte adentrar ao mérito recursal, por ausência de prequestionamento e incidência das Súmulas ns. 282 e 356 do STF.
+2. Agravo regimental desprovido.
+VOTO
+A insurgência não merece acolhida.
+É caso de manutenção da decisão agravada.
+O agravante sustenta que os maus antecedentes foram computados em decorrência dos autos 3553092-29.2007.8.13.0702, sem ter o referido processo transitado em julgado. Ocorre que tal quaestio não foi discutida pela Corte Estadual, atendo-se a defesa a opor embargos de declaração apenas para sanar omissão quanto à reincidência, elemento que figura na segunda fase da dosimetria, diferentemente dos maus antecedentes.
+Assim, não é possível a esta Corte adentrar ao mérito recursal, por ausência de prequestionamento e incidência das Súmulas ns. 282 e 356 do STF.
+No sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. QUANTIDADE DE DROGAS APREENDIDA. SENTENÇA CONDENATÓRIA. EXASPERAÇÃO DA PENA-BASE E MODULAÇÃO DO REDUTOR ESPECIAL COM O MESMO FUNDAMENTO. ARESTO RECORRIDO. AFASTAMENTO DO BIS IN IDEM. VETORIAL UTILIZADA APENAS NA PRIMEIRA FASE. PRETENSÃO ACUSATÓRIA DE TRANSFERÊNCIA PARA A TERCEIRA FASE. CÁLCULO QUE RESULTARIA EM PENA SUPERIOR. ALEGAÇÃO DE DESPROPORCIONALIDADE E INSUFICIÊNCIA DA PENA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+. Não foi analisada pelo Tribunal a quo a alegação de malferimento ao art. 33, § 4.º, da Lei n. 11.343/06, sob o enfoque suscitado pela Acusação nas razões do apelo nobre. Em outras palavras, não foi apreciada pela Corte de origem a tese de desproporcionalidade ou insuficiência da reprimenda fixada, em razão da valoração negativa da quantidade de drogas na primeira - e não na terceira - fase da dosimetria, nem tal argumento foi objeto de embargos de declaração. Está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e n. 356, ambas do Supremo Tribunal Federal.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 2.048.497/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+GRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DOS ARTS. 157, 240, §2º, E 244, TODOS DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. EXACERBAÇÃO DA PENA-BASE. FUNDAMENTAÇÃOVÁLIDA. PROPORCIONALIDADE. AGRAVO REGIMENTAL DSPROVIDO.
+1. Constato a falta de prequestionamento dos arts. 157, 240, §2º e 244 todos do CPP, pois a matéria neles tratada não foi objeto de exame pelo acórdão recorrido. Tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre o tema. Destarte, a incidência das Súmulas 282 e 356/STF impede o conhecimento do recurso especial no ponto. Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento.
+2. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+3. No caso, observa-se que as instâncias ordinárias, atentas ao disposto no art. 42 da Lei de Drogas, sopesaram a relevante quantidade de droga apreendida (716g de maconha) para aumentar a pena-base do recorrente. Considerou-se ainda a culpabilidade do agente e seus maus antecedentes para fixar a pena base em 1 ano, 10 meses e 15 dias de reclusão acima do mínimo legal. Tendo sido apresentados elementos válidos para a majoração da reprimenda básica, não se identifica a alegada contrariedade do art. 59 do CP, sobretudo quando presente circunstância elencada legalmente como preponderante, e as penas máxima e mínima abstratamente cominadas ao delito de tráfico de drogas são de 5 a 15 anos de reclusão.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.079.494/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
