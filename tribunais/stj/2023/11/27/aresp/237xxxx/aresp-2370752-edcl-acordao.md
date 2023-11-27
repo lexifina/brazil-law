@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado, quanto a ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso especial.
+3. Embargos de Declaração foram rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos por Monsanto do Brasil Ltda contra acórdão proferido às fls. 461/462 (e-STJ), cuja ementa assim se estabeleceu, in verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS DEMAIS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL.
+DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna especificamente os fundamentos da respectiva inadmissibilidade.
+2. Agravo interno não provido.
+Nas razões recursais, o recorrente alega a existência de omissão do acórdão recorrido, porquanto suspostamente a embargante teria impugnado especificamente o teor da Súmula 7/STJ, ao rebater no Agravo em Recurso Especial os fundamentos de inadmissão do apelo especial, razão pela qual merece o provimento destes aclaratórios, com efeito infringente.
+Apresentação de impugnação aos aclaratórios às fls. 479/481 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado, quanto a ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso especial.
+3. Embargos de Declaração foram rejeitados.
+VOTO
+Deveras, os embargos de declaração não merecem guarida.
+Os embargos não merecem acolhimento, porquanto não está caracterizada a omissão alegada pelo ora embargante, conforme se pode observar na transcrição dos fundamentos de rejeição dos primeiros embargos declaratórios, in verbis:
+Como se depreende dos autos, a decisão de inadmissibilidade do apelo especial, o Tribunal de origem se baseou na assertiva da incidência da Súmula 7/STJ e rechaçando uma suposta ofensa aos artigos 489 e 1.022, ambos, do CPC/2015.
+Todavia, ao se compulsar as razões do Agravo em Recurso Especial interposto pelos ora recorrentes, não se verifica a impugnação específica dos fundamentos sobreditos, especialmente quanto a incidência da Súmula 7/STJ.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente os óbices anteriormente mencionados. Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, foi o caso de incidir o art. 932, III, do CPC.
+Verifica-se que, de fato, nas razões do Agravo em Recurso Especial, a parte combateu a aplicação da Súmula 7/STJ de modo genérico, limitando-se a afirmar que a controvérsia prescrita no recurso especial "inexistência de novo exame de matéria fático-probatória" (fls. 403, e-STJ).
+É pacífico o entendimento no sentido de que, no "recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (AgInt no AREsp 1.135.014/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 27.3.2020). Isso, no caso dos autos, indubitavelmente não ocorreu.
+Ademais, todas as questões apresentadas foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Nesse sentido, citam-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REITERAÇÃO DE ARGUMENTOS. NATUREZA PROTELATÓRIA. 1. A reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil/2015. 2. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor da causa. (EDcl nos EDcl no AgInt no REsp 1661484/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/12/2017, DJe 23/02/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CABIMENTO.MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. O Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que a questão posta (determinação de rateio das despesas com a babá assistente) não foi decidida por meio de tutela provisória, e que as matérias apreciadas pelo magistrado, na decisão objeto do agravo, não estão previstas no rol das hipóteses de cabimento de agravo de instrumento, previstas no art. 1015 do NCPC/15. Assim, não é possível alterar o entendimento do acórdão recorrido, em sede de recurso especial, pois demandaria necessariamente, reexame de fatos, o que é vedado em razão do óbice da Súmula 7 do STJ. 2. A parte agravante interpôs o segundo embargos de declaração com o nítido propósito de rediscutir a decisão, o que não se presta a via eleita, circunstância a evidenciar o caráter manifestamente protelatório dos embargos de declaração, o que enseja a aplicação da multa prevista no artigo 1.026, § 2º, do CPC, fixada em 1% sobre o valor atualizado da causa. 3. Agravo interno não provido. (AgInt nos EDcl nos EDcl no AgInt no REsp 1669704/RN, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
