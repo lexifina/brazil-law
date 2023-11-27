@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário impetrado em benefício de DERCÍDIO PEREIRA DE SOUZA apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Segundo se infere dos autos, o paciente foi condenado à pena de 9 anos e 11 meses de reclusão, em regime fechado, mais o pagamento de 933 dias-multa, como incurso no art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006.
+Em grau recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir a pena-base, readequando a final para 8 anos e 9 meses de reclusão, mais 875 dias-multa, mantido o regime fechado.
+Nesta Corte, a defesa sustenta manifesta ilegalidade, uma vez que não foi detraído o tempo de prisão cautelar - 1 ano e 2 meses - para fins de determinação do regime prisional.
+Requer a concessão da ordem para que seja estabelecido o modo semiaberto.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Na hipótese, destaca-se, de pronto, a ausência de manifesta ilegalidade imposta ao réu.
+De fato, com o advento da Lei n. 12.736/2012, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Forçoso reconhecer que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+Todavia, no caso em apreço, o suposto tempo de prisão cautelar alegado pela defesa - 1 ano e 2 meses de reclusão - não tem o condão de conferir ao réu o cumprimento em regime mais brando, haja vista a aferição desfavorável das circunstâncias judiciais e os antecedentes criminais por ele registrado. Logo, ainda, que decotado referido período da pena final (resultando hipoteticamente em 7 anos e 7 meses a se cumprir), o regime inicial fechado seria o cabível, diante da valoração negativa da quantidade de droga apreendida (na primeira fase da dosimetria) e dos maus antecedentes do réu.
+No mesmo sentido, confira:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. PENA RECLUSIVA ENTRE 4 (QUATRO) E 8 (OITO) ANOS. MANUTENÇÃO DO REGIME PRISIONAL INICIAL FECHADO. MOTIVAÇÃO IDÔNEA. MULTIRREINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. ART. 33, §§ 2.º e 3. º, C.C. O ART. 59, AMBOS DO CÓDIGO PENAL. DETRAÇÃO E CONFISSÃO. IRRELEVÂNCIA. AGRAVO DESPROVIDO.
+1. Na espécie, ao prover a apelação ministerial, a Corte local, além de manter a valoração negativa dos maus antecedentes do Réu - ponto não questionado na via especial -, sopesou também a quantidade de drogas apreendidas e a natureza mais deletéria de uma delas (cocaína) para exasperar a pena-base na primeira fase da dosimetria, o que está em consonância com o entendimento desta Corte Superior.
+O fato de tal circunstância não ter sido valorada na sentença não é argumento idôneo para afastá-la.
+2. Embora o Recorrente tenha sido condenado à pena inferior a 8 (oito) anos de reclusão, a multirreincidência e as circunstâncias judiciais negativas (maus antecedentes e quantidade e natureza das drogas) justificam a fixação do regime fechado para o início do cumprimento da reprimenda, nos termos do art. 33, §§ 2.º e 3.º, c.c.
+o art. 59, ambos do Código Penal.
+3. Correta a conclusão adotada no aresto recorrido, no sentido da irrelevância da detração e da confissão para a fixação do regime prisional inicial, no caso em tela. O tempo de prisão preventiva cumprido pelo Recorrente afigura-se inócuo, pois o regime inicial mais gravoso não decorre puramente do quantum da pena aplicada, mas também da presença de circunstâncias judiciais desfavoráveis e da multirreincidência. E, nas circunstâncias narradas, a confissão espontânea, devidamente valorada na segunda fase da dosimetria da pena, não enseja qualquer modificação no regime prisional inicial.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.048.769/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES (ART. 33, C/C ART. 40, V, AMBOS DA LEI N. 11.343/2006) E RECEPTAÇÃO (ART. 180 DO CÓDIGO PENAL). PEDIDO DE INTIMAÇÃO PARA EFETUAR SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL. APLICAÇÃO DA REDUTORA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. IMPOSSIBILIDADE. SÚMULA 7/STJ. REGIME INICIAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Quanto ao regime prisional, conforme jurisprudência pacificada nesta Corte, conquanto a pena imposta ao r ecorrente, primário e sem antecedentes, tenha sido estabelecida em patamar superior a 4 anos e inferior a 8 anos, o regime inicial fechado é o adequado para o cumprimento da pena reclusiva, diante da existência de vetorial desfavorável (circunstâncias do crime), que serviu de lastro para elevar a pena-base acima do mínimo legal.
+6. In casu, mostra-se irrelevante a detração do período de prisão cautelar, nos termos do art. 387, § 2º, do CPP, considerando que o regime prisional mais gravoso foi estabelecido em virtude da existência de circunstância judicial desfavorável.
+7. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp n. 2.247.269/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
