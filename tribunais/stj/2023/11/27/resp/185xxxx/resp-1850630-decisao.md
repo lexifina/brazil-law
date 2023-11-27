@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Massa Falida do Banco Cruzeiro do Sul S.A. contra acórdão prolatado pelo Tribunal de Justiça do Estado do Amazonas.
+Verifica-se dos autos que a massa falida recorrente propôs ação monitória em desfavor de Auzenira Lucas Mateus, visando a expedição de mandado de pagamento no valor de R$ 157.053,09 (cento e cinquenta e sete mil e cinquenta e três reais e nove centavos), referentes a parcelas de empréstimos consignados inadimplidas pela requerida.
+O pedido foi julgado procedente em sentença, constituindo de pleno direito o título executivo judicial no montante pleiteado.
+Interposta apelação pela ré, a Primeira Câmara Cível da Corte estadual deu-lhe provimento, a fim de, reformando a sentença, julgar improcedente o pedido autoral, nos termos do acórdão assim ementado (e-STJ, fl. 381):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EMPRÉSTIMO CONSIGNADO. SERVIDOR PÚBLICO FEDERAL. VIGÊNCIA DO DECRETO N.º 6.836/2008. DESCONTOS SUSPENSOS PELO ÓRGÃO CONSIGNANTE. RESPONSABILIDADE DO BANCO CONSIGNATÁRIO. AUSÊNCIA DE VENCIMENTO DA DIVIDA. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+- Nos termos do Decreto n.º 6.836/2008, o descumprimento de pedido de informações formulado por órgão público consignante a banco consignatário enseja sua desativação temporária, gerando a suspensão dos descontos em folha e ocasionando a sustação do vencimento da dívida;
+- A ausência de descontos causada pela própria desídia do banco consignatário não pode ser oposta em desfavor do servidor consignado;
+- Suspensos os descontos em virtude de desativação temporária do banco consignatário, a dívida decorrente de empréstimo consignado também queda suspensa, inexistindo inadimplemento da obrigação e sendo inadequado o procedimento monitório para sua cobrança;
+- Quanto à capitalização mensal dos juros, a jurisprudência desta eg. Corte pacificou-se no sentido de que sua cobrança é admitida nos contratos bancários celebrados a partir da edição da Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2.170-36/2001, qual seja, 31/3/2000, desde que expressamente pactuada.
+- Recurso conhecido e parcialmente provido;
+- Sentença reformada.
+Os embargos de declaração opostos pela ora demandante foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 472-480), interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente alega divergência jurisprudencial e violação aos arts. 394 e 397 do Código Civil.
+Sustenta, em síntese, que o adimplemento da dívida é responsabilidade da recorrida/mutuária, na condição de devedora, pois o fato de os descontos em folha das parcelas relativas a empréstimo consignado não estarem sendo efetuados por determinação administrativa demandaria da devedora a consignação em pagamento dos valores devidos, a fim de eximir-se da obrigação de pagar quantia certa a contento.
+Contrarrazões às fls. 498-510 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que os conteúdos normativos dos arts. 394 e 397 do CC (relativos, respectivamente, à constituição em mora do devedor e à mora ex re) não são hábeis a amparar a tese de necessidade de a devedora valer-se da consignação em pagamento para eximir-se da constituição em mora, o que caracteriza fundamentação deficiente, inadmissível, portanto, à vista do disposto na Súmula 284 do STF, aplicável ao recurso especial por analogia.
+Ademais, o Tribunal de origem consignou ser inexigível uma conduta ativa da devedora/mutuária para adimplir as parcelas de mútuo, quando a forma de pagamento (consignação em folha) não mais subsiste em razão de comportamento atribuível exclusivamente à instituição financeira, sendo-lhe vedado beneficiar-se da própria torpeza, a caracterizar violação à boa-fé objetiva.
+Tal fundamento, porém, não foi devida e adequadamente impugnado nas razões do recurso especial, o que acarreta malferimento ao princípio da dialeticidade, atraindo a aplicação da Súmula 283 do STF, por analogia.
+Por fim, no tocante ao dissídio jurisprudencial, constata-se que a recorrente não procedeu ao devido cotejo analítico entre o acórdão recorrido e os acórdãos paradigma, descurando-se de demonstrar a imprescindível similitude fática, nos termos legais exigidos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, confiram-se (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO - DECISÃO SINGULAR QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA DEMANDADA.
+1. Não cabe ao STJ o exame de dispositivos constitucionais em sede de embargos de declaração, ainda que manejados para fins de prequestionamento. Precedentes.
+2. A indicação de violação de lei de forma genérica, desacompanhada dos artigos tidos como malferidos caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF. Precedentes.
+3. O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre o cálculo de suplementação de pensão. Incidência das Súmulas 5 e 7/STJ.
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não foram opostos embargos de declaração, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência das Súmulas 282 e 356/STF.
+5. A recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 1.019 do CPC/15 e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.098.914/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. ERRO DE CÁLCULO. CORREÇÃO. PRECLUSÃO. COMPOSIÇÃO DA DÍVIDA. SENTENÇA TRANSITADA EM JULGADO. DISCUSSÃO. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Apenas o erro de cálculo evidente ou material pode ser corrigido a qualquer tempo, de forma que a definição judicial acerca dos critérios de cálculo utilizados na liquidação da sentença deve ser impugnada oportunamente, sob pena de preclusão.
+3. Na hipótese, não há como rever o entendimento do tribunal de origem de que a parte busca discutir matéria ligada à composição da dívida já resolvida por sentença transitada em julgado, porquanto demandaria a análise de fatos e de provas dos autos, procedimento inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+4. Nos termos dos artigos 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.167.581/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro a verba honorária fixada na origem de 10% do valor atualizado da causa para 12 %.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL. AÇÃO MONITÓRIA. APELAÇÃO. IMPROCEDÊNCIA DA AÇÃO. VIOLAÇÃO AOS ARTS. 394 E 397 DO CC. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. SIMILITUDE FÁTICA NÃO DEMONSTRADA. RECURSO NÃO CONHECIDO.
