@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por SANTANA INCORPORADORA LTDA. e ASACORP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. indicando como suscitados o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO (SP), no qual tramitam os autos da recuperação judicial (Processo n. 1016422-34.2017.8.26.0100), e o JUÍZO DA 24ª VARA DO TRABALHO DE SALVADOR (BA), no qual tramita a Execução Trabalhista n. 0000379-83.2012.5.05.0024, movida por NILTON DO NASCIMENTO SANTANA.
+Alegam aS suscitantes que seu processo de recuperação judicial encontra-se em trâmite no Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo (SP) (Processo n. 1016422-34.2017.8.26.0100), que proferiu sentença com orientações sobre o pagamento dos créditos devidos pelas empresas.
+Referem que a sentença de encerramento da recuperação judicial não transitou em julgado, de modo que permanece a competência do Juízo da recuperação para a análise de atos constritivos sobre o patrimônio da sociedade.
+Afirmam que, apesar de seu processo de soerguimento ainda encontrar-se em trâmite, "O D. Juízo da 24ª Vara do Trabalho de Salvador, nos autos da Reclamação Trabalhista n. 0000379-83.2012.5.05.0024, proposta por Nilton Do Nascimento Santana, determinou a transferência de valores pertencentes às Suscitantes" (fl. 3).
+Nessa linha, defendem a competência do juízo da recuperação judicial para deliberar sobre o patrimônio da empresa.
+Por meio do despacho de fls. 782-783, determinei a intimação da suscitante para instruir o feito com a cópia da decisão/despacho do Juízo trabalhista que, segundo alegado na exordial, teria determinado a transferência de valores, e de outros documentos que entendesse pertinentes para o deslinde da controvérsia.
+Às fls. 786-791, as suscitantes apresentam petição trazendo cópia de requerimento dirigido ao Juízo trabalhista.
+É, no essencial, o relatório.
+O presente conflito não pode ser conhecido.
+Da análise dos autos do incidente, no qual foi indicado como suscitados o Juízo da recuperação judicial e o Juízo da 24ª Vara do Trabalho de Salvador (BA), verifico que as empresas suscitantes trouxeram aos autos cópias de documentos oriundos do processo em curso perante o Juízo da 10ª Vara do Trabalho de Belo Horizonte (MG), nos quais referido magistrado determinou o envio de valores para o Juízo trabalhista baiano. Referido comando foi cumprido em 19/10/2023, com certidão informando que os autos estavam aptos ao arquivamento (fls. 149-152).
+Com efeito, nos termos do disposto no parágrafo único do art. 953 do CPC, "O ofício e a petição (inicial) serão instruídos com os documentos necessários à prova do conflito".
+Nessa linha, intimadas para instruírem adequadamente o feito (fls. 782-783), sob pena de não conhecimento do incidente (art. 321 do CPC), as suscitantes não apresentaram cópia de ato judicial praticado pelo Juízo trabalhista e que teria violado a competência do Juízo da recuperação. Apenas trouxeram cópia de petição dirigida ao Juízo da 24ª Vara do Trabalho de Salvador (BA) requerendo a liberação dos valores.
+Desse modo, na quadra atual, inexistente a comprovação de ato judicial proferido pelo Juízo trabalhista indicado como suscitado e que teria violado a competência do Juízo recuperacional, o conflito não pode ser conhecido, tendo em vista o não enquadramento nas hipóteses previstas no art. 66 do CPC.
+Nesse sentido, cito:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DECISÕES CONFLITANTES. NÃO CONHECIMENTO DO CONFLITO.
+1. Conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados, situação não verificada na espécie.
+2. O conflito de competência não pode ser utilizado como sucedâneo recursal.
+3. Agravo Interno não provido.
+(AgInt nos EDcl no CC 178.297/PB, relatora Min. Nancy Andrighi, Segunda Seção, julgado em 19/10/2021, DJe de 21/10/2021.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES. CONFLITO NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. No conflito de competência suscitado pela parte, cabe a ela instruir devidamente o incidente, colacionando as manifestações judiciais das autoridades judiciários capazes de revelar a pretensa controvérsia. Assim, tratando-se de possível conflito positivo de competência, as decisões devem deixar clarividente que o acusado está sendo processado pelos mesmos fatos por dois juízos distintos.
+2. A mera determinação de extração de peças do inquérito policial para encaminhamento à Polícia Federal, a fim de que se apure a prática de eventuais delitos de interesse da União, não indica peremptoriamente declínio de competência por parte do Juízo Estadual. Do contrário, o acusado continuou a ser processado perante a Justiça Estadual, sendo inclusive condenado. No âmbito federal, concluiu-se apenas pela inexistência de crimes envolvendo recursos públicos federais.
+3. Agravo regimental não provido. (AgRg nos EDcl no CC 179.417/MG, relator Min. Ribeiro Dantas, Terceira Seção, julgado em 22/9/2021, DJe de 27/ 9/2021.)
+Ante o exposto, não conheço do conflito.
+Publique-se. Intimem-se.
+EMENTA
