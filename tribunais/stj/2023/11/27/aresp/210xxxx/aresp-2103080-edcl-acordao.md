@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos declaratórios opostos por SOLIMAR JOSÉ DE PAULA contra acórdão desta colenda Quarta Turma, assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. QUERELA NULLITATIS INSANABILIS. ALEGAÇÃO DE AUSÊNCIA DE CITAÇÃO DE HERDEIRO NECESSÁRIO EM EXECUÇÃO MOVIDA INICIALMENTE EM FACE DE ESPÓLIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. ATO DE ADJUDICAÇÃO E RESPECTIVO AUTO PERFEITOS E ACABADOS. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 11 e 489 do CPC/2015.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento central e suficiente para manter o acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. O eg. Tribunal a quo consigna, mediante a análise dos elementos probatórios dos autos, que o ato de adjudicação encontra-se perfeito e acabado, e que houve a lavratura do auto nos termos do art. 877 do CPC. A reforma do acórdão recorrido, nestes temas, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial." (fl. 409).
+Em suas razões, a parte embargante pretende a concessão de efeito modificativo, aduzindo a existência de obscuridade, omissão e contradição no acórdão embargado.
+Sustenta que o aresto padece de obscuridade, pois, "com relação "a ausência de citação formulada em duas vias diversas" e que "eventual afastamento da inadmissibilidade dos embargos de terceiro acabaria prejudicando a presente demanda", torna-se obscuro o decisum, primeiro o v. acórdão não especificou quais as duas vias diversas e segundo porque foi REFORMADA A SENTENÇA E AFASTADA A INTEMPESTIVIDADE DOS EMBARGOS DE TERCEIRO, decisão esta que foi copiada da decisão do juiz de origem e impugnadas no recurso especial através dos artigos 11 e 489 do Código de Processo Civil. Desse modo, se faz necessário o esclarecimento desta decisão, retirando a obscuridade que permeia a decisão, não sendo aplicável, ao caso concreto, a Súmula 283, do STF, pois impugnada veementemente no recurso especial" (fls. 422-423).
+Assevera que o julgado é omisso, na medida em que "é necessário que o i. Relator e a Turma Julgadora apontem e fundamentem aonde se encontra a citação do terceiro interessado (herdeiro necessário), para, somente assim, conceder a ampla defesa, o contraditório e o devido processo legal ao embargante" (fl. 423).
+Por fim, afirma que há contradição, já que todos os fundamentos do acórdão recorrido foram devidamente impugnados, não sendo este caso para o óbice da Súmula 283/STF.
+A parte embargada apresentou impugnação defendendo a manutenção do aresto embargado e a aplicação de multa por ato atentatório à dignidade da Justiça, com base no art. 77, IV, § 2º, do CPC/2015 (fls. 449-451).
+É o relatório.
+EDcl no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.103.080 - SP (2022/0099780-2)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+EMBARGANTE
+:
+SOLIMAR JOSÉ DE PAULA
+ADVOGADO
+:
+ANTÔNIO FERNANDO ARAGÃO DE MELO - SP262334
+EMBARGADO
+:
+COOPERATIVA DE CREDITO - SICOOB CREDICOONAI
+ADVOGADOS
+:
+JOSÉ CARLOS DE MORAIS FILHO - SP145755
+FLÁVIA PERONE DE FREITAS - SP247682
+FLAVIO REIFF TOLLER - SP188968
+CAMILA VALÉRIO ILÁRIO - SP371651
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+A col. Quarta Turma, com base no voto desta Relatoria, deu provimento ao agravo interno, para reconsiderar a decisão de fls. 303-304, e, em nova análise, conhecer do agravo a fim de negar provimento ao recurso especial, nos termos da seguinte fundamentação, na parte que interessa:
+"Inicialmente, não se verifica a alegada violação dos arts. 11 e 489 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. Portanto, apesar de o Tribunal local não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+O eg. Tribunal a quo consigna que "a alegação de nulidade da execução em decorrência da ausência de citação foi anteriormente analisada em sede de embargos de terceiro (Processo nº 1001352-66.2017.8.26.0426). (..) Assim, tendo em vista que a alegação de ausência de citação foi formulada em duas vias diversas e que o eventual afastamento da inadmissibilidade dos embargos de terceiro opostos acabaria por prejudicar a presente demanda, impõe-se a manutenção da suspensão determinada pelo D. Juízo a quo" (fls. 80-82).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido - ou seja, a alegação de ausência de citação foi formulada em duas vias diversas e o eventual afastamento da inadmissibilidade dos embargos de terceiro opostos acabaria por prejudicar a presente demanda - não foi devidamente impugnado pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, o eg. Sodalício Estadual registra que, "diante da possibilidade de ciência do curso da execução por parte do requerente, por ora, não se mostra possível o reconhecimento da nulidade da execução, máxime diante da consideração, pelo D. Juízo a quo, do ato de adjudicação como perfeito e acabado e da respectiva lavratura do auto, nos termos do art. 877, caput, do Código de Processo Civil (fls. 53/54)" (fl. 81, g.n.).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, no que tange à consideração, pelo Juízo de primeira instância, de que o ato de adjudicação encontra-se perfeito e acabado, e que houve a lavratura do auto nos termos do art. 877 do CPC, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório." (fls. 414-415).
+Nesse contexto, constata-se que não existem vícios a serem supridos na via estreita dos presentes declaratórios.
+De fato, para afastar qualquer dúvida à parte embargante, sublinha-se que não há contradição, omissão ou obscuridade alguma no julgado.
+Reitera-se que não prospera a alegada ofensa ao art. 489 do CPC/2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA TURMA, DJe de 6/5/1996).
+O entendimento deste Sodalício, outrossim, firmou-se no sentido de que "Não há violação do art. 489 do CPC/15 (art. 458 do antigo CPC) quando, rejeitados os embargos de declaração, a matéria em exame é devidamente enfrentada pelo Tribunal a quo, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente" (AgInt no AREsp 1.068.255/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/08/2017, DJe de 09/08/2017).
+Além disso, o eg. TJ-SP destacou que a alegação de ausência de citação foi formulada em duas vias diversas e o eventual afastamento da inadmissibilidade dos embargos de terceiro opostos acabaria por prejudicar a presente demanda. Entretanto, tal fundamento não foi devidamente impugnado pela parte recorrente, incidindo, na espécie, a incidência da Súmula 283/STF.
+De outra senda, a modificação do entendimento lançado no v. acórdão recorrido, no que tange à consideração, pelo Juízo de primeira instância, de que o ato de adjudicação encontra-se perfeito e acabado, e que houve a lavratura do auto nos termos do art. 877 do CPC, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Portanto, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022).
+É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Por fim, o Superior Tribunal de Justiça possui orientação de que o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé. Isso, porque a má-fé, como se sabe, não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 17 do CPC/73 (art. 80 do CPC/2015), o que, em princípio, não se verifica no caso.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO E LIBERAÇÃO DE VALORES EM FAVOR DO AGRAVANTE. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. No caso, o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu não configurados os danos morais, em virtude de ter sido comprovada a validade da relação jurídica entre as partes, pois os documentos apresentados pelo recorrido fazem prova da contratação de empréstimo, além de não ter ocorrido nenhum desconto, no benefício previdenciário da parte autora, oriundo do contrato em comento.
+3. A pretensão de alterar tal entendimento demandaria reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+5. Na hipótese, a Corte estadual aplicou a sanção pela litigância de má-fé, tendo em vista a conduta maliciosa da parte recorrente, traduzida na propositura da presente demanda, em evidente tentativa de locupletamento ilícito sustentando uma fraude inexistente, de modo a denotar efetivamente a deslealdade processual. A revisão desse entendimento fica obstada pela Súmula 7/STJ.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial." (AgInt no AREsp 1647493/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 31/08/2020, DJe 23/09/2020, g.n.)
+Ademais, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp 1.333.425/SP, Relatora Ministra Nancy Andrighi, DJe de 4/12/2012).
+Dessa forma, não verificado, no caso, o dolo da parte embargante de induzir esta Corte a erro, alterando a verdade dos fatos, não há que se falar em multa por litigância de má-fé, tampouco por ato atentatório à dignidade da justiça.
+Por derradeiro, não procede o pedido formulado pela parte agravada na impugnação do agravo interno, acerca da necessidade de imposição de multa ao agravante.
+Com efeito, a remansosa jurisprudência desta Corte orienta-se no sentido de que "a interposição dos recursos cabíveis não acarreta a imposição de multa por ato atentatório à dignidade da justiça ou por litigância de má-fé, pois se trata de regular exercício do direito de defesa" (AgInt no AREsp 1.882.996/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/12/2021, DJe de 9/12/2021).
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO SANEAMENTO NO PRAZO LEGAL. HONORÁRIOS RECURSAIS. COMPROVAÇÃO DE TRABALHO ADICIONAL. DESNECESSIDADE. MAJORAÇÃO EM AGRAVO INTERNO. INVIABILIDADE. MULTA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.  ..
+6. "A interposição dos recursos cabíveis não acarreta a imposição de multa por ato atentatório à dignidade da justiça ou por litigância de má-fé, pois se trata de regular exercício do direito de defesa." (AgInt no AREsp 1882996/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 06/12/2021, DJe 09/12/2021)
+7. Agravo interno não provido." (AgInt no AREsp n. 2.068.405/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/5/2022, DJe de 1/6/2022, g.n.).
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É o voto.
