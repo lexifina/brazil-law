@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RECEPTAÇÃO. ALEGADA NULIDADE DA PROVA POR INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. FUNDADAS RAZÕES PARA O INGRESSO DOS POLICIAIS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. VÍCIOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que: (i) considerando a natureza permanente do delito em questão e a presença da justa causa para o ingresso na propriedade rural, não há qualquer ilegalidade a ser sanada; (ii) afastar os fundamentos utilizados pelo Tribunal de Justiça, para decidir pela ilegalidade da prova, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DENILSON DE CAMPOS LEITE (e-STJ fls. 574/579) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 558/559 ):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RECEPTAÇÃO. ALEGADA NULIDADE DA PROVA POR INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. FUNDADAS RAZÕES PARA O INGRESSO DOS POLICIAIS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Supremo Tribunal Federal, apreciando o Tema n. 280 da sistemática da repercussão geral, à oportunidade do julgamento do RE n. 603.616/RO, decidiu que, para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a presença da caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito.
+2. O ingresso regular em domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência, é que se mostra possível sacrificar o direito à inviolabilidade do domicílio.
+3. Existindo elementos indicativos da prática de crime no local a autorizarem a violação domiciliar, mostra-se desnecessário o prévio mandado de busca e apreensão, como no presente caso, em que, os policiais foram acionados pela vítima, que informou que as reses estavam ocultadas no domicílio do acusado. Ao comparecerem na referida propriedade rural, viram, junto com o ofendido, as cabeças de gado furtadas, momento em que o acusado tentou se evadir, correndo para os fundos de sua propriedade, sendo detido. Tudo a justificar a entrada na propriedade rural.
+4. Portanto, considerando a natureza permanente do delito em questão e a presença da justa causa para o ingresso na propriedade rural, não há qualquer ilegalidade a ser sanada.
+5. Afastar os fundamentos utilizados pelo Tribunal de Justiça, para decidir pela ilegalidade da prova, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+6. Agravo regimental não provido.
+Sustenta a parte embargante a ocorrência de omissão quanto aos seguintes pontos: (i) que houve invasão de domicílio por parte da suposta vítima, que se utilizou de expediente sub-reptício para entrar na propriedade do embargante, em momento que ele sequer estava no local, ludibriando um funcionário seu; (ii) da contradição ao julgado no HC 787.351/SC.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RECEPTAÇÃO. ALEGADA NULIDADE DA PROVA POR INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. FUNDADAS RAZÕES PARA O INGRESSO DOS POLICIAIS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. VÍCIOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que: (i) considerando a natureza permanente do delito em questão e a presença da justa causa para o ingresso na propriedade rural, não há qualquer ilegalidade a ser sanada; (ii) afastar os fundamentos utilizados pelo Tribunal de Justiça, para decidir pela ilegalidade da prova, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que: (i) considerando a natureza permanente do delito em questão e a presença da justa causa para o ingresso na propriedade rural, não há qualquer ilegalidade a ser sanada; (ii) afastar os fundamentos utilizados pelo Tribunal de Justiça, para decidir pela ilegalidade da prova, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Salienta-se, ainda, que não consta no acórdão recorrido que a vítima teria entrado na propriedade do acusado e, sim, que, após o furto, a vítima passou a realizar diligências nas propriedades rurais próximas a sua, até que avistou as três cabeças de gado furtadas na propriedade do DENUNCIADO, quando então acionou a Polícia Militar (e-STJ fls. 436).
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
