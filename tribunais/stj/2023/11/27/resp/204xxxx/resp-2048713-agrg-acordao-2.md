@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRIME DE TORTURA. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. INDÍCIOS DE MATERIALIDADE. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+2. O tribunal de origem consignou que, em relação às vítimas, as quais não foram submetidas a exame de corpo de delito, a prova oral se mostrou suficiente para fins da comprovação da materialidade do crime. A inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+3. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCIANO DE JESUS GOMES, contra decisão monocrática que não conheceu do recurso especial (e-STJ, fls. 3074-3082).
+A parte agravante sustenta, repetindo os meus argumentos quando da interposição do recurso especial, em síntese, que: (I) a decisão impugnada não abordou a tese defensiva relativa à aplicação da lei mais benéfica, questão de ordem pública; (III) a inexistência de base probatória suficiente para embasar a decisão; (IV) a possibilidade de reavaliação jurídica dos fatos delineados no acórdão recorrido e na sentença.
+Requer ao final, o provimento do presente agravo, para reconsiderar a decisão agravada a fim de conhecer e prover o recurso especial ou, ainda, que o feito seja levado à apreciação da Quinta Turma deste Tribunal. Também pede o habeas corpus de ofício.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRIME DE TORTURA. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. INDÍCIOS DE MATERIALIDADE. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+2. O tribunal de origem consignou que, em relação às vítimas, as quais não foram submetidas a exame de corpo de delito, a prova oral se mostrou suficiente para fins da comprovação da materialidade do crime. A inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+3. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP.
+4. Agravo regimental desprovido.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada.
+Não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+No mais, quanto à materialidade delitiva, o tribunal de origem assim se manifestou
+"Com efeito, verifica-se que W. afirmou que foi agredido pelos réus.
+Seus relatos encontraram amparo no mencionado laudo de fs. 43-144, o qual deu conta que o ofendido apresentava equimoses na coxa direita, no pé esquerdo e no braço direito. Além disso, o perito subscritor esclareceu que as lesões encontradas eram compatíveis com a narrativa apresentada pela vítima à época e que elas tinham sido ocasionadas entre 01 a 15 dias antes do exame, o qual, frisa-se, foi realizado 02 dias depois dos fatos (fs. 646-647).
+Não me passaram despercebidos os relatos judiciais do perito, o qual, embora tenha confirmado o teor do documento, disse que as lesões constatadas não eram compatíveis com choques desferidos na boca e chutes e socos na costela. Porém, o experto ressaltou que estas lesões poderiam não deixar vestígios - especialmente o choque, o qual causa lesão apenas nos casos incomuns em que é desferido com intensidade suficiente para provocar queimaduras -, justificando, a meu ver, a ausência de constatação de outras lesões no ofendido (fs. 1.125-1.126).
+Em relação às demais vítimas, as quais não foram submetidas a exame de corpo de delito, repito que a prova oral se mostrou suficiente para fins de materialidade do crime em comento, de forma que sua ausência não culmina na solução absolutória propugnada pela defesa."
+Com efeito, o tribunal de origem consignou que, em relação às vítimas, as quais não foram submetidas a exame de corpo de delito, a prova oral se mostrou suficiente para fins da comprovação da materialidade do crime. A inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Por fim, destaco, por fim, que não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP. A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 180 DO CP, ARTIGO 16, §1º, IV, DA LEI 10.826/03 E ARTIGO 244-B DO ECA. TESES NÃO DISCUTIDAS PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE VÍCIOS. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+4. De acordo com o entendimento pacífico da Terceira Seção desta Corte Superior de Justiça, é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto (Precedentes) (EDcl no AgRg nos EREsp 1.488.618/RS, Rel. Ministro FELIX FISCHE TERCEIRA SEÇÃO, DJe 27/10/2015).
+5. Embargos de declaração rejeitados".
+(EDcl no AgRg no AREsp 1773527/RJ, Rel. Ministro REYNALDO SOARES DO FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
