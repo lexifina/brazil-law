@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRET A. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Na espécie, as circunstâncias do caso justificam a decretação da medida extrema de prisão, uma vez que a quantidade de entorpecentes apreendidos (fls. 99-100), a qual ultrapassa 500g, e a variedade - maconha, cocaína e crack - evidenciam que a gravidade concreta do delito extrapola os limites normais do tipo penal, a justificar a custódia para garantia da ordem pública.
+3. A periculosidade e riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de Fernando Penna Teodoro contra a decisão que denegou o habeas corpus interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando que a decisão que decretou a prisão preventiva carece de fundamentação idônea, não estando presentes os pressupostos autorizadores da segregação cautelar. Aduz que "Sua prisão em flagrante evidentemente foi ilegal e baseada em meras ilações sem qualquer fundamento que lhe fundamentasse." - fl. 378. Sustenta, ainda, a negativa de autoria ao argumento de que "não foi encontrado nenhum indício suficiente para tolher sua liberdade." (fl. 379.)
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do colegiado, pugnando pelo provimento.
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRET A. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Na espécie, as circunstâncias do caso justificam a decretação da medida extrema de prisão, uma vez que a quantidade de entorpecentes apreendidos (fls. 99-100), a qual ultrapassa 500g, e a variedade - maconha, cocaína e crack - evidenciam que a gravidade concreta do delito extrapola os limites normais do tipo penal, a justificar a custódia para garantia da ordem pública.
+3. A periculosidade e riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+4. Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito do habeas corpus, sustentando que a decisão que decretou a prisão preventiva carece de fundamentação idônea, não estando presentes os pressupostos autorizadores da segregação cautelar.
+Como consta na decisão agravada, as circunstâncias do caso justificam a decretação da medida extrema de prisão, uma vez que a quantidade de entorpecentes apreendidos (fls. 99-100), a qual ultrapassa 500g, e a variedade - maconha, cocaína e crack - evidenciam que a gravidade concreta do delito extrapola os limites normais do tipo penal, a justificar a custódia para garantia da ordem pública.
+Nesse sentido, a periculosidade e riscos sociais podem justificar a custódia cautel ar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga.
+Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
