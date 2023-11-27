@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO SAÚDE S. A. (BRADESCO) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, alegou, a par do dissídio jurisprudencial, (1) violação do art. 1.022 do NCPC sustentando que o v. acórdão recorrido não se pronunciou, de forma clara e suficiente, sobre questões suscitadas nos autos; (2) violação do art. 85 do NCPC, aduzindo que deve ser afasta a condenação dos honorários sucumbenciais, pois a execução foi anulada; e, (3) afronta aos arts. 536 e 815 do NCPC, afirmando o não cabimento das astreintes e a impossibilidade de sua majoração.
+(1) Da ausência de fundamentação
+Quanto a alegada violação do art. 1.022 do NCPC, de uma simples leitura do aresto impugnado observa-se que a agravante aduz genericamente a afronta ao citado artigo, sem especificar quais os vícios do aresto vergado e/ou sua relevância para a solução da controvérsia.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ESCRITÓRIO DE ADVOCACIA. FALHA NA PRESTAÇÃO DE SERVIÇO. INEXISTÊNCIA. DANO MORAL.
+AFASTAMENTO. REEXAME DO ACERVO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. NÃO PROVIDO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+2. O entendimento firmado pelo Tribunal de origem, à luz das provas dos autos, no sentido de que não houve falha na prestação de serviço por parte do agravado, bem como o afastamento de indenização por danos morais, não pode ser revisto em Recurso Especial, em face do óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.454.768/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 20/4/2020, DJe 24/4/2020 - sem destaque no original)
+(2) Da distribuição do ônus de sucumbência - reexame fático-probatório
+Em relação a alegada afronta ao art. 85 do NCPC, aduzindo que deve ser afastada a condenação dos honorários sucumbenciais, pois a execução foi anulada, o Tribunal estadual consignou:
+Contudo, nos termos na decisão combatida, com o julgamento da apelação e, consequentemente, a anulação da sentença, por certo, deve ser invertido ônus da sucumbência, posto que o ora recorrido/exequente, foi vencedor na maior parte dos pedidos da demanda, decaindo, portanto, em parte mínima.
+Por óbvio, deve ser aplicado os termos do Parágrafo único do art. 86 do CPC, afastando a condenação do recorrido ao pagamento dos horários advocatícios, como fixado pelo julgador a quo.
+ ..
+Nesse sentido, deverá o executado/recorrente arcar in totum com as custas e honorários advocatícios a qual restou fixada em 10% sobre o valor do proveito econômico da demanda, nos termos do art. 85, §2º do CPC e do Parágrafo único do art. 86 do Código de Processo Civil, uma vez que não se trata da hipótese de aplicação do suscitado tema 408 do STJ.
+Assim, considerando-se os argumentos acima esposados, denota-se que o decisório censurado, agiu em estrita consonância com a jurisprudência deste Tribunal, restando imperiosa a respectiva manutenção (e-STJ, fl. 660 - sem destaque no original).
+Por oportuno transcrevo trecho do v. acórdão prolatado nos aclaratórios:
+Entretanto, como consignado no acórdão recorrido, com o julgamento da apelação e, consequentemente, a anulação da sentença, deve ser invertido ônus da sucumbência, posto que o ora recorrido/exequente, foi vencedor na maior parte dos pedidos da demanda, decaindo, portanto, em parte mínima, nos termos do art. 85, §2º do CPC e do Parágrafo único do art. 86 do Código de Processo Civil, uma vez que não se trata da hipótese de aplicação do suscitado tema 408 do STJ. Veja-se:
+Por fim, alega o agravante o descabimento da condenação ao pagamento de honorários advocatícios, devendo ser aplicado o tema 408 do STJ ou, alternativamente, que estes incidam sobre o valor do débito da execução.
+Contudo, nos termos na decisão combatida, com o julgamento da apelação e, consequentemente, a anulação da sentença, por certo, deve ser invertido ônus da sucumbência, posto que o ora recorrido/exequente, foi vencedor na maior parte dos pedidos da demanda, decaindo, portanto, em parte mínima.
+Por óbvio, deve ser aplicado os termos do Parágrafo único do art. 86 do CPC, afastando a condenação do recorrido ao pagamento dos horários advocatícios, como fixado pelo julgador a quo (e-STJ, fls. 731 - sem destaque no original).
+Nesse contexto, a aferição do decaimento das partes em relação ao pedido, para fins de verificação da sucumbência recíproca ou mínima, importa no reexame de matéria fático-probatória, o que é vedado pela Súmula nº 7 do STJ.
+Confiram-se os julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E RETENÇÃO POR BENFEITORIAS. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação anulatória cumulada com compensação por danos morais e retenção por benfeitorias.
+2. A insurgência dos agravantes quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por eles manejado.
+3. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autores e réus decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatória, incidindo a Súmula 7/STJ. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1883184/DF, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 20/09/2021, DJe 22/09/2021)
+(3) Da existência de fundamento do acórdão recorrido não impugnado e do reexame fático-probatório.
+Em relação a alegada violação dos arts. 536 e 815 do NCPC, no que concerne ao não cabimento das astreintes e a impossibilidade de sua majoração, Tribunal estadual, manifestou-se nos seguintes termos:
+O exequente/agravado desde o deferimento sinalizou ao Juízo a quo acerca do descumprimento da liminar, tendo à fl. 290 informado que plano de saúde negou parte do material solicitado para realização do procedimento, juntando, inclusive, a cópia dos emails às fls. 291/292.
+Posteriormente, o Magistrado a quo às fls. 308/309 determinou a intimação da parte autora para que, no prazo de 05 dias, trouxesse aos autos a comprovação de especialista do cirurgião dentista, no intuito de confirmar os termos da decisão que antecipou os efeitos da tutela. Ato-contínuo, o julgador primevo confirmou a liminar anteriormente, bem como majorou a multa diária para R$1.000,00 (hum mil reais), a qual foi publicada no dia 05/10/2015.
+Em que pese à intimação do executado acerca da liminar, a qual acompanhou o mandado, o exequente/recorrido reiterou diversas vezes o pedido e cumprimento da medida, uma vez que o executado/recorrente criou diversos embaraços ao cumprimento da ordem judicial, tanto quanto aos materiais necessários para a realização da cirurgia, quanto sobre o pagamento dos honorários do cirurgião.
+Ressalta-se, inclusive, que os honorários do cirurgião só foram levantados, após a realização do BACENJUD, deferida às fls. 357/358.
+E, mais, o descumprimento da liminar restou patente ainda da leitura do termo de audiência de fl. 343, das petições de fls. 348 e fls. 357/358, do despacho/decisão de fls.350 e fls. 357, a qual só foi finalmente satisfeita em 22/03/2016, com o levantamento do alvará à fl. 389, referente aos honorários do profissional de saúde.
+Desta forma, ratifica-se no presente, que restou patente o descumprimento da liminar entre 22/04/2015 (fls. 321/322), data da intimação da obrigação de fazer, até 22/03/2016, expedição do alvará, motivo pelo qual, pleiteia o agravado a execução de R$ 271.213,76 (duzentos e setenta e um mil, duzentos e treze reais e setenta e seis centavos). De fato, restou evidente o descumprimento da obrigação de fazer pelo executado/recorrente, no que tange a ordem judicial de providenciar realização do procedimento cirurgico maxilo-mandibular, bem como o pagamento dos honorários médicos, não se aplicando a tese de que, os honorários médicos, por natureza, é obrigação de dar (pagar) e não obrigação de fazer, a fim de afastar a incidência de astreintes.
+Quanto alegação de excesso de execução, como dito, a priori , não se verificou à vista da planilha colacionada à fl. 551, uma vez que esta incidiu entre os meses de junho de 2015 a março de 2016, mormente a intimação do executado tenha ocorrido em abril de 2014, em total observância a regra da Súmula 410 do STJ.
+Frise-se que, o valor da multa de R$1.000,00 foi majorada através da decisão de fls. 314, integrando a medida liminar deferida pelo Juízo a quo de fls.235/236, o que, decerto, afasta a pretensão de excluir a quantia do cálculo apresentado.
+No que tange à alegação desproporcionalidade do valor executado, não sendo o caso de extinção da execução, nos termos do art. 924 do CPC, esta deve prosseguir normalmente, podendo o Magistrado a quo, a seu critério, analisar o valor executado, sob pena de supressão de instância.
+Referente ao pedido de redução/exclusão do valor fixado, neste momento, a alegação de eventuais excessos relativos à multa, se porventura vier a ser efetivamente verificada, poderão ser apreciados pelo Juiz a quo quando do julgamento do mérito da impugnação ao cumprimento de sentença, não exsurgindo, neste momento, nenhum dano grave ou de incerta reparação atrelados à questionada penalidade (e-STJ, fls. 657/658 - sem destaques no original).
+Nesse contexto, observa-se que não houve a impugnação do referido fundamento, o que atrai a incidência da Súmula nº 283 do STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+Ademais, mesmo que ultrapassado citado óbice, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. FIXAÇÃO DE ASTREINTES. VALOR QUE SE REVELA RAZOÁVEL E PROPORCIONAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.977.495/MG, de minha relatoria, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+(4) Do dissídio jurisprudencial
+A jurisprudência desta Corte é no sentido de que a divergência jurisprudencial deve ser comprovada, cabendo ao agravante demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles, sendo necessária a realização do cotejo analítico entre os acórdãos, com o intuito de caracterizar a interpretação legal divergente, nos termos do art. 541, parágrafo único, do CPC/1973, art. 1.029, § 1º, do NCPC e art. 255 do RISTJ.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE NULIDADE DE ESCRITURA PÚBLICA DE DOAÇÃO. JULGAMENTO FORA DO PEDIDO. INOCORRÊNCIA. OBSERVÂNCIA DOS LIMITES TRAÇADOS PELA CAUSA DE PEDIR E PELOS PEDIDOS. RECONHECIMENTO INCIDENTAL E DE OFÍCIO DE CAUSA DE NULIDADE DO NEGÓCIO NÃO ARGUIDA.
+POSSIBILIDADE. RESPEITO AO CONTRADITÓRIO, À AMPLA DEFESA E AO DIREITO À PROVA. DOAÇÃO REMUNERATÓRIA. RESPEITO AOS LIMITES DE DISPOSIÇÃO DELINEADOS PELO LEGISLADOR. IMPOSSIBILIDADE DE DISPOSIÇÃO, A ESSE TÍTULO, DA TOTALIDADE DO PATRIMÔNIO OU DE PARTE QUE AFRONTE À LEGÍTIMA DOS HERDEIROS NECESSÁRIOS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+ ..
+5- A ausência de cotejo analítico entre o acórdão recorrido e o acórdão paradigma impede o conhecimento do recurso especial interposto pela divergência.
+6- Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1.708.951/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 14/5/2019, DJe 16/5/2019 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de RAÍZEN, em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022 DO NCPC. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. VIOLAÇÃO. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. PRETENSÃO DE REEXAME DA CAUSA. REEXAME DE PROVAS. IMPOSSIB ILIDADE. SÚMULA Nº 7, DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. ASTREINTES. PRETENSÃO DE REEXAME DA CAUSA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
