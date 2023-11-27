@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo delito de tráfico. Assim, rever os fundamentos utilizados pela Corte Estadual, para concluir pela absolvição, por ausência de prova para a condenação, como requer a parte agravante, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. No tocante ao reconhecimento de constrangimento ilegal decorrente da negativa de aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, tal questão trata-se de inovação recursal, uma vez que levantada apenas neste agravo regimental.
+3. Mesmo que superado tal óbice, o recurso não prosperaria. A configuração da reincidência e dos maus antecedentes impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais. No presente caso, o agravante ostenta maus antecedentes, o que inviabiliza a incidência do benefício do tráfico privilegiado.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLAUDIR EDUARDO DA SILVA (e-STJ fls. 453/461) contra decisão monocrática de e-STJ fls. 441/442, que conheceu do agravo para não conhecer do seu recurso especial.
+A parte agravante alega: (i) a não incidência da Súmula 7/STJ, uma vez que o recurso especial interposto não implica no reexame de fatos e provas; (ii) a ausência de prova concreta para a condenação; (iii) a incidência do benefício do tráfico privilegiado.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo delito de tráfico. Assim, rever os fundamentos utilizados pela Corte Estadual, para concluir pela absolvição, por ausência de prova para a condenação, como requer a parte agravante, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. No tocante ao reconhecimento de constrangimento ilegal decorrente da negativa de aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, tal questão trata-se de inovação recursal, uma vez que levantada apenas neste agravo regimental.
+3. Mesmo que superado tal óbice, o recurso não prosperaria. A configuração da reincidência e dos maus antecedentes impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais. No presente caso, o agravante ostenta maus antecedentes, o que inviabiliza a incidência do benefício do tráfico privilegiado.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+De início, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo delito de tráfico (e-STJ fls. 294/297).
+Assim, rever os fundamentos utilizados pela Corte Estadual, para concluir pela absolvição, por ausência de prova para a condenação, como requer a parte agravante, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Prosseguindo, no tocante ao reconhecimento de constrangimento ilegal decorrente da negativa de aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, tal questão trata-se de inovação recursal, uma vez que levantada apenas neste agravo regimental.
+Mesmo que superado tal óbice, o recurso não prosperaria
+Sabe-se que o legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Dessa forma, a configuração da reincidência e dos maus antecedentes impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais. Precedentes: AgRg no AREsp n. 2.269.723/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; EDcl nos EDcl nos EDcl no HC n. 803.261/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023; AgRg no HC n. 773.381/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023; AgRg no HC n. 748.105/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023; AgRg no HC n. 746.154/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+No presente caso, o agravante ostenta maus antecedentes, o que inviabiliza a incidência do benefício do tráfico privilegiado.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
