@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUEMNTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DOS AGRAVADOS.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração opostos por FLAVIO INOCENCIO GUEDES DO AMARAL e OUTRA em face do acórdão acostado às fls. 779-785 e-STJ, proferido por esta Quarta Turma e de relatoria deste signatário, em que foi negado provimento ao agravo interno interposto pelos ora embargantes.
+O aresto em questão foi assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. Incide a Súmula 115/STJ quando a parte, devidamente intimada, não regulariza o vício de representação processual.
+2. Agravo interno desprovido.
+Nas razões dos aclaratórios (fls. 790-821 e-STJ) os embargantes sustentam a existência de omissão, pois "em nenhum momento, foi fundamentado o erro material no protocolo da procuração de fls. 697/8" (fls. 799-800 e-STJ). Invocam, fundamentos legais, jurisprudenciais e doutrinários no sentido da validade da procuração. Por fim, aduzem a ausência de fundamentação e generalidade do aresto impugnado.
+Impugnação às fls. 825-835 e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUEMNTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DOS AGRAVADOS.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os presentes aclaratórios não comportam acolhimento.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada. Nesse sentido, veja-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL CONSTATADO. REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a corrigir no julgado eventual omissão, obscuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no AREsp n. 2.189.224/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Citam-se, ainda, a título exemplificativo, os seguintes julgados: EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023; EDcl no AgInt no AREsp n. 871.916/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023; e, EDcl no AgInt no REsp n. 2.023.427/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/3/2023, DJe de 13/3/2023.
+1.1. No caso em tela, os embargantes sustentam a existência de omissão, pois "em nenhum momento, foi fundamentado o erro material no protocolo da procuração de fls. 697/8" (fls. 799-800 e-STJ). Invocam, fundamentos legais, jurisprudenciais e doutrinários no sentido da validade da procuração. Por fim, aduzem a ausência de fundamentação e generalidade do aresto impugnado.
+Ao contrário do alegado, o acórdão de fls. 779-785 e-STJ analisou, detida e expressamente, os documentos carreados aos autos na tentativa de regularizar a representação processual.
+Foram, ademais, indicados os fundamentos pelos quais os referidos documentos não eram suficientes para sanar o vício constatado.
+Registre-se, por fim, que é da parte a responsabilidade de zelar pelo correto protocolo de suas peças.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRAFICO DE DROGAS, HOMICÍDIO QUALIFICADO NA FORMA TENTADA E HOMICÍDIO QUALIFICADO CONSUMADO. RAZÕES RECURSAIS INCOMPLETAS. RESPONSABILIDADE DA PARTE PELO PROTOCOLO E CONFERÊNCIA DOS DOCUMENTOS. PROTOCOLO ELETRÔNICO OBRIGATÓRIO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. NÃO APLICAÇÃO. ERRO INESCUSÁVEL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA ANALÓGICA DA SÚMULA 284 DO STF.
+I - Segundo entendimento pacificado no Superior Tribunal de Justiça, é da parte recorrente a responsabilidade pelo zelo na regularidade da interposição do seu recurso. Ademais, verificado que o recurso não foi transmitido por inteiro, com evidente prejuízo da compreensão da controvérsia, a iniciativa do recorrente de protocolizar nova petição, contendo a integralidade das razões recursais, esbarra na preclusão consumativa (AgRg nos EDcl nos EREsp n. 1.268.885/PR, Terceira Seção, Rel. Min. Marco Aurélio Belizze, DJe de 19/03/2013).
+II - A interposição de recurso por via física, quando obrigatório o protocolo eletrônico, não configura erro escusável, pois cabe à parte recorrente zelar pela regularidade da insurgência. (AgInt no AREsp n. 1.135.317/SP, Quarta Turma, Rel. Min. Marco Buzzi, DJe de 27/09/2018).
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.516.588/PR, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 8/10/2019, DJe de 16/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROTOCOLO ELETRÔNICO. CABIMENTO DE PROTOCOLO FÍSICO. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO. 1. A interposição do recurso de forma equivocada, perante o tribunal de origem, não tem o condão de interromper ou suspender o prazo recursal não podendo ser aceito o protocolo físico quando o correto seria o de forma eletrônica, ou admitir-se a data do protocolo eletrônico quando o processo deveria ser físico, uma vez que a responsabilidade pelo procedimento correto é exclusiva da parte.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.188.881/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/8/2018, DJe de 5/9/2018.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 284/STF. 2. INTEMPESTIVIDADE RECURSAL. ALEGAÇÃO DE EQUÍVOCO NO ENDEREÇAMENTO DA PETIÇÃO. AUSÊNCIA DE COMPROVAÇÃO. EXATIDÃO DAS INFORMAÇÕES. RESPONSABILIDADE DO PETICIONANTE. PRECEDENTES. 3. AGRAVO IMPROVIDO.
+ ..
+2. De fato, "consoante o art. 12 da Portaria n. 14/2014/STJ, a exatidão das informações transmitidas é de exclusiva responsabilidade do peticionário, não podendo o procurador da parte alegar erro no encaminhamento das petições dirigidas ao protocolo deste Tribunal" (AgInt nos EAREsp 719.811/RJ, Rel. Ministro Humberto Martins, Corte Especial, julgado em 18/10/2017, DJe 27/10/2017).
+3. Agravo interno desprovido.
+(AgRg nos EDcl nos EDcl no AREsp n. 745.098/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/2/2018, DJe de 5/3/2018.)
+Assim, estando o acórdão embargado devida e suficientemente fundamentado e ausentes quaisquer dos vícios elencados no art. 1.022 do CPC/15, é impositiva a rejeição aos embargos de declaração.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
