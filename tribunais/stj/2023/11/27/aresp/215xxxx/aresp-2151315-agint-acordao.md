@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA N. 7 DO STJ. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR . DEVOLUÇÃO DAS PARCELAS PAGAS EM SUA INTEGRALIDADE. COMISSÃO DE CORRETAGEM. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 d o STJ na hipótese em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame de matéria fático-probatória dos autos.
+2. Nas hipóteses em que se tratar de rescisão de contrato de compra e venda de imóvel, por culpa exclusiva do promitente vendedor, a devolução das parcelas pagas deve ocorrer em sua integralidade, incluindo-se a comissão de corretagem. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+ABYARA BROKERS INTERMEDIAÇÃO IMOBILIÁRIA LTDA. interpõe agravo interno contra decisão de fls. 926-931, que negou provimento ao agravo em razão da incidência das Súmula n. 7 e 83 do STJ.
+A parte agravante sustenta que (fl. 938):
+ ..  Com relação à súmula 83, do STJ, foram colacionados dois precedentes que demonstram que em hipóteses de desfazimento do negócio por culpa exclusiva do Vendedor o valor deve ser integralmente restituído, incluindo a comissão de corretagem.
+No entanto, o único ponto que não foi observado é que AMBOS os julgados são relativos a casos em que o polo passivo é composto exclusivamente pela Incorporadora, ou seja, A CORRETORA NÃO É PARTE NA DEMANDA, logo, os Acórdão colacionados na decisão ora atacada não prestam para demonstrar o óbice da súmula 83, STJ.
+Afirma que (fl. 945):
+Contudo, deixou de considerar a decisão agravada, assim como o acórdão recorrido, que a Comissão de Corretagem é devida à Corretora Imobiliária ainda que nos casos de rescisão.
+Assim, o Tribunal local ao fazer a afirmação supracitada está analisando a questão de forma simplista sem individualizar a conduta de cada Ré, o que pode ser feito por esta Corte através da simples leitura do próprio acór dão recorrido, sem a necessidade de revisão de fatos e provas.
+Alega ainda o seguinte (fl. 949):
+ ..  Evidente a necessidade de se verificar a correta adequação jurídica do acórdão à situação de fato, o que, inequivocamente, não ocorreu no caso em questão, razão pela qual foi interposto o Recurso Especial.
+Requer o provimento do agravo interno.
+Impugnação pela parte agravada às fls. 954-964.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA N. 7 DO STJ. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR . DEVOLUÇÃO DAS PARCELAS PAGAS EM SUA INTEGRALIDADE. COMISSÃO DE CORRETAGEM. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 d o STJ na hipótese em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame de matéria fático-probatória dos autos.
+2. Nas hipóteses em que se tratar de rescisão de contrato de compra e venda de imóvel, por culpa exclusiva do promitente vendedor, a devolução das parcelas pagas deve ocorrer em sua integralidade, incluindo-se a comissão de corretagem. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada adotou os fundamentos a seguir (fls. 927-931 ):
+É o relatório. Decido.
+O recurso não deve prosperar.
+A Corte de origem analisou as questões apresentadas e concluiu o seguinte (fls. 747-751):
+Em primeiro lugar, afasto a preliminar de ilegitimidade passiva da corré Abyara, uma vez que é cediço que as relações que envolvem compra e venda de imóveis, adquiridos por consumidores finais, regem-se pelo Código de Defesa do Consumidor, que consagrou, em seus artigos 7º, parágrafo único e 25, §1º, a solidariedade da cadeia, devendo todos os fornecedores ou prestadores de serviço responder objetivamente pelos danos causados aos consumidores. Conforme se verifica dos documentos acostados aos autos, evidente a participação da corré no contrato firmado entre as partes, emitindo extratos, proposta, respondendo e-mails, realizando cobrança, constando seu logotipo nos documentos, o que a legitima para figurar no pólo passivo da demanda.
+ ..
+Em que pesem os argumentos das requeridas, deve lhes ser atribuída a culpa pela rescisão contratual.
+Isto porque, de fato, mesmo diante do distrato de fls. 110/111, as requeridas continuaram cobrando dos autores a comissão de corretagem referente ao imóvel anterior.
+Ora, se celebraram o distrato, reconhecendo, inclusive, crédito em favor dos compradores, resta evidenciado que os mesmos nada mais deviam em relação ao contrato original.
+E, mesmo assim as rés persistiram na cobrança, e o que é mais grave, deixaram de prestar os esclarecimentos pertinentes aos autores, não obstante as várias tentativas dos mesmos em obter tal informação, conforme se verifica dos documentos acostados à inicial, através de diversos e-mails trocados entre as partes e também da notificação enviada às requeridas que, no entanto, não foram respondidos.
+O e-mail de fls. 178/184 demonstra claramente que as rés estavam cobrando os autores comissões referentes à unidade 132B, que não eram mais devidas, posto que o contrato já havia sido rescindido.
+Desta forma, diante dos elementos constantes dos autos não há mesmo que se atribuir aos autores a culpa pela inexecução do contrato, devendo ser reconhecido que a rescisão se deu por negligência das vendedoras.
+ ..
+Embora não se ignore que, em julgamento sob o rito dos recursos repetitivos REsp 1551951-SP, REsp 1551956-SP,REsp 1551968-SP e REsp 1599511-SP, a Segunda Seção do Superior Tribunal de Justiça, por unanimidade, decidiu que pela "Validade da clausula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem", certo é que no caso em questão, a rescisão ocorreu por culpa das vendedoras e, por tal razão, conforme anteriormente exposto, devem ressarcir integralmente os valores pagos pelos compradores de forma simples.
+No que se refere à ofensa moral, observo que não somente o vexame, a humilhação e a negativação indevida dão ensejo aos danos morais, mas também a frustração elevada, uma decepção difícil de ser superada, decorrente de justa expectativa, fundamenta a indenização.
+No tocante à alegada violação do art. 485, VI, do CPC Civil (item a), sob o argumento de ser parte ilegítima para figurar no polo passivo da ação, verifica-se que o Tribunala quo concluiu que os documentos juntados dão conta da "evidente a participação da corré no contrato firmado entre as partes" (fl. 747), de modo que a pretensão de novo pronunciamento a respeito da sua legitimidade nesta instância especial implicaria reexame de matéria fático-probatória dos autos, medida inviável em recurso especial em face do óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. FALTA DE PREQUESTIONAMENTO. ILEGITIMIDADE PASSIVA. AFERIÇÃO PROBATÓRIA. DISSÍDIO INVIABILIZADO. SERVIÇO DE PRATICAGEM. FIXAÇÃO DO PREÇO. LIVRE NEGOCIAÇÃO ENTRE PARTES PRIVADAS. INTERVENÇÃO DO JUDICIÁRIO APENAS EXCEPCIONALMENTE. APLICAÇÃO DE NORMAS DA CLT À ESPÉCIE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO E REEXAME DE PROVAS. HONORÁRIOS ADVOCATÍCIOS. TEMA 1.076/STJ.
+ ..
+3. Tida a recorrente como parte legítima com arrimo em aspectos fático-probatórios e específicos da causa, a violação de lei federal, no particular, demanda revolvimento de provas, vedado pela Súmula 7/STJ.
+ ..
+8. Agravo interno não provido. (AgInt no REsp n. 1.758.589/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRINCÍPIO DA NÃO SURPRESA. JULGAMENTO EXTRA PETITA. ARTS. 141 E 492 DO CPC/2015. NÃO CONFIGURAÇÃO. FUNDAMENTO DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. TERMO DE NOVAÇÃO DE DÍVIDA. PROCURADOR. PODERES ESPECÍFICOS. AUSÊNCIA. ILEGITIMIDADE PASSIVA. REEXAME. MATÉRIA FÁTICA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que não há julgamento extra petita quando o julgador interpreta o pedido formulado na petição inicial de forma lógico-sistemática, levando em consideração todos os requerimentos feitos ao longo da peça inaugural.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido (Súmula nº 283/STF).
+4. Na hipótese, o procurador não detinha poderes suficientes e expressos para assinar o instrumento particular de novação, confissão e consolidação de dívida com a empresa agravante, não possuindo, assim, legitimidade para figurar no polo passivo da lide.
+5. No caso, rever os fundamentos do acórdão a fim de acolher a pretensão do agravante exigiria exceder os fundamentos do aresto impugnado, além do reexame de provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.025.931/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+Quanto à alegada contrariedade ao art. 927 do Código Civil e ao arts. 7º, 14 e 25, § 1º, do Código de Defesa do Consumidor, sob a defesa de inexistência de nexo causal em relação aos danos suportados pelos recorridos (item b) e que a corretora "seja responsabilizada no limite sua atuação que se encerrou no momento da promessa de compra e venda" (fl. 779) (item c), não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo que o "e-mail de fls. 178/184 demonstra claramente que as rés estavam cobrando os autores comissões referentes à unidade 132B, que não eram mais devidas, posto que o contrato já havia sido rescindido" e que "diante dos elementos constantes dos autos não há mesmo que se atribuir aos autores a culpa pela inexecução do contrato, devendo ser reconhecido que a rescisão se deu por negligência das vendedoras" (fls. 749-750).
+Ademais, o órgão colegiado consignou que o abalo moral restou evidenciado não somente pelo vexame, a humilhação e a negativação indevida, mas também pela "frustração elevada, uma decepção difícil de ser superada, decorrente de justa expectativa" (fl. 751), vez que as rés deixaram de prestar os esclarecimentos pertinentes aos autores, não obstante as várias tentativas dos mesmos em obter tal informação" (fl. 749).
+Nesse contexto, a pretensão de novo pronunciamento a respeito da ocorrência dos danos e da participação da recorrente implicaria em reexame de matéria fático-probatória dos autos, medida inviável em recurso especial em face do óbice da Súmula n. 7 do STJ.
+Confiram-se precedentes sobre a questão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. RESPONSABILIDADE CIVIL. SERVIÇOS ADVOCATÍCIOS. LEVANTAMENTO DE VALORES. RETENÇÃO INDEVIDA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO. PRODUÇÃO DE PROVAS. DESNECESSIDADE. JUSTIÇA GRATUITA. DEFERIMENTO. HIPOSSUFICIÊNCIA. COMPROVAÇÃO. DANO MORAL. CONFIGURAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+6. Na hipótese, rever a conclusão do aresto impugnado acerca da configuração do dano moral demandaria o reexame fático-probatório dos autos, encontrando óbice na Súmula nº 7/STJ.
+7. Agravo interno não provido. (AgInt no AREsp n. 2.053.238/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/11/2022, DJe de 9/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. DIVERGÊNCIA JURISPRUDENCIAL . INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que o dano moral não estaria caracterizado e que a cobrança indevida não seria suficiente para configurá-lo, inexistindo o dever de indenizar. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Esta Corte de Justiça possui entendimento de que a incidência da Súmula n. 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual foi dada a solução pela Corte estadual.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.103.978/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+No tocante à alegação de violação dos arts. 722 e 725 do Código Civil (item d), sob o argumento de que "os Recorridos assinaram diversos documentos que comprovam a ciência acerca dos pagamentos da comissão de corretagem, devidamente juntado aos autos às fls. 361/362 e 396/421" (fl. 786), observa-se que, no presente caso, em que o Tribunal de origem decidiu que "a rescisão ocorreu por culpa das vendedoras e, por tal razão, conforme anteriormente exposto, devem ressarcir integralmente os valores pagos pelos compradores" (fl. 751).
+Assim, a decisão de que a devolução das parcelas pagas deve ocorrer em sua integralidade encontra amparo na jurisprudência do STJ por se tratar de rescisão por culpa exclusiva da parte agravante, incluindo-se a comissão de corretagem.
+A propósito, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. COMPRA E VENDA DE IMÓVEL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM DIANTE DO DESFAZIMENTO DO NEGÓCIO POR CULPA EXCLUSIVA DO VENDEDOR/CONSTRUTOR. DECISÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. PRECEDENTES.
+1. A Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto à devolução da taxa de corretagem para o consumidor. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. Segundo a jurisprudência do STJ, nas hipóteses em que o construtor/vendedor dá causa à resolução do contrato, a restituição das parcelas pagas deve ocorrer em sua integralidade, inclusive comissão de corretagem. Como bem decidido pelo Juízo de primeira instância e mantido pelo Tribunal de origem.
+AGRAVO DESPROVIDO. (AgInt no AREsp n. 2.057.832/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE QUANTIAS PAGAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. A subsistência de fundamento inatacado apto a manter a conclusão da decisão recorrida, aliada à existência de razões dissociadas do acórdão impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto nas Súmulas 283/STF e 284/STF.
+3. Segundo o entendimento do STJ, "em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação" (AgInt no AREsp n. 1.761.193/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/3/2021, DJe 13/4/2021).
+4. Nas hipóteses em que o construtor/vendedor dá causa à resolução do contrato, a restituição das parcelas pagas deve ocorrer em sua integralidade, inclusive comissão de corretagem. Precedentes.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.018.689/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/9/2022, DJe de 16/9/2022.)
+Incide no caso, pois, a Súmula n. 83 do STJ.
+No tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre a parte ora agravante, pois a tese arguida em relação ao apelo especial com base na alínea a do permissivo constitucional foi afastada pela incidência da Súmula n. 83 do STJ, bem como pela impossibilidade de reexame de prova (Súmula n. 7 do STJ) nesta instância especial, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Nessa linha de entendimento, os seguintes precedentes: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2 022, DJe de 26/10/2022; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 15%, percentual arbitrado na instância de origem, para 17% sobre o valor da condenação.
+Publique-se. Intimem-se.
+Presentes tais razões de decidir e considerando a argumentação recursal ora exposta, a irresignação não reúne condições de êxito.
+A verificação da procedência ou não das alegações deduzidas pela parte ora recorrente - especialmente em relação à sua legitimidade passiva, ocorrência de danos e sua participação - implicaria, necessariamente, o reexame de matéria fático-provatória dos autos, providência que encontra óbice nesta instância especial.
+Assim, a aplicação da Súmula n. 7 do STJ é medida que se impôs.
+Ainda, tendo em vista que a jurisprudência dessa Corte Superior firmou-se no sentido de que, nas hipóteses em que se tratar de rescisão de contrato de compra e venda de imóvel, por culpa exclusiva do promitente vendedor , a devolução das parcelas pagas deve ocorrer em sua integralidade, incluindo-se a comissão de corretagem. Cabível, portanto, a Súmula n. 83 do STJ.
+Nesse contexto, a parte agravante não logrou êxito em apresentar argumentos suficientes que justificassem a alteração da decisão ora impugnada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
