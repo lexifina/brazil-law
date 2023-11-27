@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 462):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS COMO MALFERIDOS. RAZÕES DISSOCIADAS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo ou quando o dispositivo de lei indicado não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+O embargante, aduzindo a ocorrência de equívoco e omissão, defende que a Súmula 284/STF não é aplicável ao caso concreto, uma vez que os dispositivos suscitados e a argumentação exposta no recurso são suficientes para impugnar o fundamento do acórdão recorrido. Salienta que seu interesse recursal se limita ao reconhecimento de que a fixação da verba honorária relativa à fase de cumprimento de sentença deve observar os critérios objetivos do art. 85, §§ 3º e 5º, do CPC/2015, diante da ausência dos requisitos que autorizariam seu arbitramento em valor fixo.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Dito isso, consigno que a discordância com o julgamento não configura motivo para a interposição de embargos declaratórios.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PROCESSUAL CIVIL. REPETIÇÃO DE FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE OMISSÕES. EFEITOS INFRINGENTES. INVIABILIDADE. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+1. A atribuição de efeitos infringentes, em sede de embargos de declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de qualquer dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados (EDcl no AgInt nos EAREsp 324.542/SP, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 21/3/2017).
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL IMPROVIDO. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos em 28/03/2016, a acórdão prolatado pela Primeira Seção do Superior Tribunal de Justiça, publicado em 15/03/2016, na vigência do CPC/73.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo Regimental, em face da impossibilidade de conhecimento de Embargos de Divergência em que os acórdãos confrontados foram proferidos em juízo de cognição distintos.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material - seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente -, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados (EDcl no AgRg nos EAREsp 667.287/RS, relatora Ministra Assusete Magalhães, Primeira Seção, DJe 2/6/2016).
+No caso, a leitura atenta das razões dos presentes embargos de declaração evidencia que a pretensão do ora embargante ao apontar suposta omissão e equívoco no julgado é, tão somente, manifestar discordância e pedir o rejulgamento de questão já decidida, o que, como visto, não é cabível na via dos aclaratórios.
+Notadamente, o acórdão ora combatido não padece de qualquer vício porquanto, apreciando detidamente o feito, consignou que a argumentação recursal se revela deficiente e inapta a demonstrar efetivamente a suposta ofensa ao artigo apontado como ofendido nas razões do apelo especial - artigo 85, §§ 2º, 3º, e 5º, do CPC/2015 -, o qual não contém comando normativo capaz de sustentar a tese deduzida e infirmar o juízo de formulado no acórdão recorrido, ensejando, assim, a aplicação analógica da Súmula 284/STF. Confira-se (fls. 467-468):
+Efetivamente, a discussão travada no acórdão recorrido restringiu-se ao cabimento ou não da fixação de honorários advocatícios no cumprimento de sentença e na sua respectiva impugnação.
+Nas razões do apelo especial o recorrente sustentou ofensa ao artigo 85, §§ 2º, 3º, e 5º, do CPC/2015, sob o argumento de que a utilização do critério de equidade é cabível na hipótese em que o valor da causa for inestimável, irrisório o proveito econômico, ou, ainda, quando o valor da causa for muito baixo, situação diversa à dos autos em que o cumprimento de sentença atinge a cifra de R$ 1.152.944,11 (um milhão, cento e cinquenta e dois mil, novecentos e quarenta e quatro reais e onze centavos), correspondendo ao proveito econômico da demanda, de modo que os honorários advocatícios devem observar os percentuais preestabelecidos.
+O dispositivo legal supracitado, possui a seguinte redação:
+ ..
+Ao que se vê, o dispositivo legal apontado como malferido, não contém comando normativo capaz de sustentar a tese deduzida e infirmar o juízo formulado no acórdão recorrido, o que atrai a aplicação analógica da Súmula 284/STF.
+Além do mais, resta evidente que a argumentação recursal se revela deficiente e inapta a demonstrar efetivamente a suposta ofensa aos artigos apontados como ofendidos. Assim, as razões do recurso revelam-se dissociadas dos fundamentos aplicados pelo aresto a quo, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do apelo especial. Aplica-se à hipótese a Súmula 284/STF.
+Ora, vê-se que a insurgência contra as premissas postas no acórdão embargado não autoriza a interposição de embargos de declaração, revelando que a parte embargante procura, por via reflexa, o mero rejulgamento da causa, o que não é aceitável, consoante jurisprudência do Superior Tribunal de Justiça. No mesmo sentido: EDcl na SEC 7.296/EX, relator Ministro Og Fernandes, Corte Especial, DJe 23/5/2017; EDcl nos EREsp 1.316.410/PR, relator Ministro João Otávio de Noronha, Corte Especial, DJe 30/5/2017, dentre outros julgados.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
