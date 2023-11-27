@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. SALÁRIO EM ATRASO. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO. RESPONSABILIDADE DO ENTE PÚBLICO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Conforme consignado no acórdão recorrido, "trata-se de Apelação Cível interposta pelo em face de Município de Coaraci com o objetivo de reformar a sentença proferida pelo Juízo da Genilson Jesus das Virgens Vara Cível da Comarca de Coaraci, que julgou procedente o pedido de condenação ao pagamento do salário de dezembro de 2016 e improcedente o pedido de danos morais".
+2. Verifico que os arts. 42 da Lei de Responsabilidade Fiscal (Lei 101/2000), 373, II, e 489, § 1º, do CPC não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+3. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência no presente caso, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICIPIO DE COARACI contra a decisão de minha relatoria de fls. 502/503 que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões recursais, a parte agravante aduz que "no tocante à alegação de que não houve impugnação ao fundamento de ausência de prequestionamento, nota-se que tal requisito foi cumprido. Mostra-se, assim, que houve prequestionamento, não assistindo qualquer razão para o não seguimento do recurso interposto, bem como, a interposição dos aclaratórios por si só já demonstra suficientemente que houve a ventilação da matéria, cumprindo todos os requisitos intrínsecos e extrínsecos para o seu seguimento" (fl. 510).
+Requer a  reconsideração  da  decisão  agravada ou  a  apresentação  do  feito  ao órgão colegiado competente.
+Não foi apresentada impugnação segundo a certidão de fl. 516.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. SALÁRIO EM ATRASO. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO. RESPONSABILIDADE DO ENTE PÚBLICO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Conforme consignado no acórdão recorrido, "trata-se de Apelação Cível interposta pelo em face de Município de Coaraci com o objetivo de reformar a sentença proferida pelo Juízo da Genilson Jesus das Virgens Vara Cível da Comarca de Coaraci, que julgou procedente o pedido de condenação ao pagamento do salário de dezembro de 2016 e improcedente o pedido de danos morais".
+2. Verifico que os arts. 42 da Lei de Responsabilidade Fiscal (Lei 101/2000), 373, II, e 489, § 1º, do CPC não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+3. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência no presente caso, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Conforme consignado no acórdão recorrido, "trata-se de Apelação Cível interposta pelo em face de Município de Coaraci com o objetivo de reformar a sentença proferida pelo Juízo da Genilson Jesus das Virgens Vara Cível da Comarca de Coaraci, que julgou procedente o pedido de condenação ao pagamento do salário de dezembro de 2016 e improcedente o pedido de danos morais" (fl. 426).
+O Tribunal de origem ao analisar a controvérsia, assentou que:
+Não merece acolhimento a preliminar de nulidade processual, pois a matéria envolvida no litígio é de pouca complexidade, sendo suficiente a produção de prova documental. Nos termos do artigo 434 do CPC, o momento processual para a juntada de prova documental corresponde ao ato de apresentação de petição inicial ou de contestação, sendo descabida a dilação probatória para essa finalidade específica, mormente em se tratando de prova anterior ao ajuizamento da ação, sem exposição de motivos precisos para a ausência de juntada.
+Assim, segundo o entendimento exposto pelo magistrado prolator da sentença recorrida, destinatário da prova, os autos encontravam-se suficientemente instruídos para o julgamento antecipado da lide, devendo, pois, valer o princípio do livre convencimento.
+Ante o exposto, voto no sentido de rejeitar a preliminar de nulidade processual.
+No mérito, sem razão o Município apelante. A percepção de salário nunca inferior ao mínimo por servidor público é direito assegurado pela Constituição Federal, nos termos do seu artigo 7º, inciso IV c/c o artigo 39, § 3º.
+Neste sentido, comprovado o vínculo laboral entre o servidor estatutário e a Municipalidade, o afastamento da cobrança destas verbas somente se justificaria mediante comprovada quitação.
+Outrossim, são irrelevantes os argumentos que atribuem a responsabilidade do inadimplemento à gestão anterior, eis que não afasta a obrigação do ente público ao pagamento das verbas trabalhistas em atraso. A prestação do serviço impõe a contraprestação através das verbas salariais equivalentes, de forma a não se configurar o enriquecimento ilícito de nenhuma das partes. Nesta mesma direção é firme o entendimento desta Corte:
+ ..
+Assim, correta a condenação do apelante ao pagamento do salário do mês de dezembro de 2016 em favor do recorrido.
+Ante o exposto, voto no sentido de rejeitar a preliminar de nulidade processual e NEGAR PROVIMENTO ao recurso, mantendo incólume a sentença recorrida, por seus próprios fundamentos. Honorários advocatícios em favor do pat rono do recorrido majorados para 15% sobre o valor da condenação, na forma do artigo 85, §11 do Novo CPC (fls. 428/429).
+Verifico que os arts. 42 da Lei de Responsabilidade Fiscal (Lei 101/2000), 373, II, e 489, § 1º, do CPC não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência no presente caso, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO DEFICIENTE: FUNDAMENTO INATACADO E FALTA DE INDICAÇÃO DO DISPOSITO DE LEI FEDERAL VIOLADO. DISSÍDIO JURISPRUDENCIAL. PARADIGMA DO STF. INADEQUAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Conforme entendimento sedimentado na Súmula 283 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+2. "Não cabe, em Recurso Especial, invocar divergência jurisprudencial com precedentes do Supremo Tribunal Federal" (AgRg no AREsp 161.647/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 23/10/2012, DJe 09/11/2012. ).
+3. Impõe-se ao recorrente, mesmo nos recursos especiais por dissídio jurisprudencial, a correta indicação do dispositivo de Lei federal a que foi dada interpretação divergente, sem a qual considera-se deficiente a irresignação, atraindo a incidência do óbice da Súmula 284 do STF.
+4. Não enfrentada no julgado impugnado a tese respeitante ao artigo de lei federal apontado como violado no recurso especial, há falta do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+5. Agravo interno desprovido. (AgInt no REsp n. 1.957.278/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEMOLIÇÃO DE OBRA IRREGULAR. DESRESPEITO A NORMAS URBANÍSTICAS. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. CÔNJUGE COPROPRIETÁRIO. DESNECESSIDADE. ALEGADA AUSÊNCIA DE IRREGULARIDADE DA CONSTRUÇÃO E DE PREJUÍZOS À COLETIVIDADE. SÚMULA 7/STJ. VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA. INEXISTÊNCIA DE PREQUESTIONAMENTO.
+1. Verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC/2015, na medida em que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Nas hipóteses em que a obra é realizada em desacordo com a legislação urbanística ou com a ambiental, apesar de o coproprietário sofrer os efeitos de uma eventual sentença desfavorável, inexiste litisconsórcio necessário com o cônjuge, uma vez que o direito de propriedade permanecerá inalterado.
+3. A alteração das conclusões adotadas pela Corte de origem acerca de existência de má-fé do recorrente, ciência inequívoca do cônjuge, ausência de prejuízo à coletividade, descumprimento das exigências legais e inexistência de excessividade na medida de demolição, da maneira em que posta a discussão no apelo nobre, demandaria nova análise da prova dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+4. A matéria pertinente ao art. 460 do CPC/73 (tese de falta de congruência entre o pedido e a sentença) não chegou a ser examinada pelo Tribunal a quo, tampouco foi objeto dos embargos de declaração opostos pelo recorrente. Portanto, ante a falta do necessário prequestionamento, incidem os óbices das Súmulas 282 e 356/STF.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.553.547/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Ante o exposto, nego provimento ao agravo interno do MUNICIPIO DE COARACI.
+É como voto.
