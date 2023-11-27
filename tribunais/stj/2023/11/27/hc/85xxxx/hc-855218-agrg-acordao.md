@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO NA MODALIDADE TENTADA. NÃO COMPROVAÇÃO DE AUTORIA DE DELITO. SUPOSTA AUSÊNCIA DE CONJUNTO FÁTICO-PROBATÓRIO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT.
+Agravo regimental improvido.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por José Edmilson dos Santos - preso porque supostamente cometeu o delito de homicídio, na modalidade tentada, sanções do crime previsto no art. 121, c/c o art. 14, II, ambos do Código Penal (homicídio simples na forma tentada), fl. 27 - contra decisão de minha lavra, a qual indeferiu liminarmente o writ impetrado a seu favor (fls. 1.031/1.034).
+Esta, a ementa do decisum impugnado (fl. 1.031):
+HABEAS CORPUS. DIREITO PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO NA MODALIDADE TENTADA. NÃO COMPROVAÇÃO DE AUTORIA DE DELITO. SUPOSTA AUSÊNCIA DE CONJUNTO FÁTICO-PROBATÓRIO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT.
+Writ indeferido liminarmente.
+O ora agravante sustenta que a decisão de pronúncia, no caso, tem, literalmente, três páginas (fl. 23) e nenhuma outra prova da autora é sequer mencionada. Trata-se única e exclusivamente de uma rápida menção do irmão da vítima de que OUVIU DIZER que houve uma luta corporal entre a vítima e o acusado no dia dos fatos . Nada mais. Trata-se, evidentemente, de uma decisão teratológica (fl. 1.046).
+Requer a parte agravante o provimento do recurso nos seguintes termos (fl. 1.051):
+ ..
+Considerando as razões expostas, a agravante pede a esse Augusto Tribunal da Cidadania que, conhecido o presente agravo, seja-lhe dado integral provimento para reformar a r. decisão ora impugnada, concedendo-se a ordem para DESPRONUNCIAR o réu.
+ ..
+Foi dispensada a oitiva da parte contrária.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO NA MODALIDADE TENTADA. NÃO COMPROVAÇÃO DE AUTORIA DE DELITO. SUPOSTA AUSÊNCIA DE CONJUNTO FÁTICO-PROBATÓRIO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT.
+Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+De início, verifico que a impetração não prospera, visto que a insurgência apresentada pela defesa neste writ contraria a jurisprudência assente deste Superior Tribunal, qual seja: as alegações acerca da suposta ausência de provas para o julgamento do paciente foram amplamente debatidas no curso da instrução criminal. Assim, para desconstituir as conclusões firmadas pelas instâncias ordinárias, seria necessário o revolvimento de provas, procedimento incompatível com a via estreita do habeas corpus (AgRg no RHC n. 163.983/PI, Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/5/2022 - grifo nosso ).
+Nesse sentido: AgRg no HC n. 691.775/SP, Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 14/3/2022.
+Erigida essa premissa, no caso, sobre a existência de provas para a condenação do paciente, o voto condutor do acórdão a quo explicitou (fls. 29/30):
+ ..
+8. O Parquet, por sua vez, afirma que a autoria material do crime em debate encontra-se comprovada pelo amplo arcabouço probatório coligido no inquérito policial e pelos depoimentos das testemunhas inquiridas em Juízo, sob o crivo do contraditório e ampla defesa. Aduz, ainda, que compete ao Conselho de Sentença apreciar a procedência, ou não, da tese defensiva de negativa de autoria.
+9. Inicialmente, importa consignar que a decisão de pronúncia constitui mero juízo de admissibilidade da acusação, de modo que, para a sua prolação, exige-se apenas que o Magistrado se convença a respeito da existência da materialidade da infração penal e dos indícios suficientes de autoria, a teor do disposto no art. 413 do Código de Processo Penal.
+10. Logo, não cabe ao Juiz, nesta etapa do processo penal, promover um estudo aprofundado do lastro probatório, tampouco da totalidade de fatores que permeiam a acusação. A pronúncia não se presta para tanto. Na verdade, essa análise mais acurada cabe ao Conselho de Sentença, a quem foi atribuída tal competência, nos termos do art. 5º, XXXVIII, "d", da Constituição Federal.
+11. Nesse ato não há indicação de certeza, sendo apenas necessária uma verificação de possível autoria, com a presença de indícios que demonstrem ser verossímil a versão apresentada pela acusação. Todavia, o contexto processual deve realçar que os fatos estão aptos ao julgamento popular, devendo ser privilegiado, nessa etapa, o princípio do in dubio pro societate.
+12. Nessa perspectiva, para que seja autorizada a absolvição sumária em razão de estar provado não ser ele autor ou partícipe do fato, nos termos em que preconiza o art. 415, II, do Código de Processo Penal, faz-se necessária a demonstração plena, inequívoca e imediata de sua negativa de autoria, aferível a partir de um juízo perfunctório, em consonância com o que tem preconizado a jurisprudência do Superior Tribunal de Justiça.
+13. Perscrutando os presentes autos, observa-se o seguinte trecho no decisum impugnado, relativo à autoria (fl. 251):
+ ..
+14. Analisando o acervo probatório arregimentado, nota-se que, apesar de o réu sustentar não ser o autor do crime em análise, esta afirmação é posta em dúvida diante do relato ofertado pelas testemunhas, perante a autoridade policial e também em juízo.
+15. À luz de tais circunstâncias, é forçoso reconhecer que inexiste prova cabal, irrefutável, de que o recorrente não é autor do delito, de modo que não há como acolher o pleito de absolvição sumária. E, por outro lado, verifica-se a presença de indícios suficientes de autoria, razão pela qual não merece guarida o pedido de despronúncia.
+16. Nas palavras da mãe da vítima, Maria Maurício da Silva, quando ouvida perante autoridade policial, a pessoa de "Pelé" presenciou o crime e lhe relatou que Damião, seu filho, estava assando carne na porta de casa quando o "Nêgo Misso" chegou e perguntou se a vítima queria comprar sua moto por dois reais, em consequência, acabou ocorrendo um desentendimento entre eles, oportunidade em que "Nêgo Misso" puxou sua arma e desferiu um tiro na cabeça de Damião, fugindo e deixando no local a moto que provocou a discussão. Quando ouvida em juízo, confirma ter ouvido dizer que o autor do crime foi "Nêgo Misso".
+ ..
+20. Considerando, portanto, a existência, in casu, de confronto entre as versões da defesa e acusação e a existência de indícios suficientes de autoria, o caso deverá ser analisado pelo Conselho de Sentença, que detém a competência constitucional para apreciar o mérito em crimes dessa natureza.
+21. Assim, estando presente o binômio materialidade e indícios de autoria, deve o recorrente ser submetido a julgamento pelo Tribunal do Júri para, em plenário, serem analisadas, com a profundidade necessária, todas as provas existentes no processo, de forma que a procedência, ou não, das teses invocadas, deverá ser apreciada pelos senhores jurados do Conselho de Sentença, juízes naturais da causa.
+22. Diante do exposto, conheço do presente Recurso em Sentido Estrito, para, no mérito, negar-lhe provimento, mantendo-se incólume a decisão vergastada.
+ ..
+Ademais, não é cabível a reforma do acórdão impugnado, porquanto, de acordo com o entendimento deste Superior Tribunal, a decisão de pronúncia não pode ser embasada tão somente em indícios de autoria colhidos na fase inquisitorial, sendo necessária a existência de elementos de convicção submetidos ao contraditório. No caso, o Tribunal estadual demonstrou a existência de elementos colhidos na fase judicial suficientes à imputação da participação em homicídio. Logo, a conclusão diversa para fins de despronúncia esbarra no revolvimento probatório, procedimento descabido na via mandamental (AgRg no HC n. 778.453/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 30/8/2023).
+Nesse sentido: AgRg no HC n. 696.574/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 7/4/2022; AgRg no HC n. 826.081/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/8/2023; AgRg no RHC n. 152.073/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022 e AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022; AgRg no HC n. 831.827/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2023; HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021; AgRg no HC n. 730.961/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/5/2023; e AgRg no RHC n. 175.354/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2023.
+Assi m, reafirmo a motivaçã o por mim adotada na decisão ora agravada e nego provimento a o agravo regimental.
