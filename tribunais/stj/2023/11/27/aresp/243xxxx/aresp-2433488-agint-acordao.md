@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS COM PEDIDO DE TUTELA DE URGÊNCIA. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. "PRINT" DE RELAÇÃO DE FERIADOS EXTRAÍDA DO "SITE" DO TRIBUNAL DE ORIGEM NÃO CONSTITUI DOCUMENTO HÁBIL A COMPROVAR A TEMPESTIVIDADE DO RECURSO.
+1. Ação reivindicatória c/c indenização por danos materiais com pedido de tutela de urgência.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o agravo em recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. "A prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. Print de tela de computador, imagem ou cópia de página extraída de internet não serve para tal finalidade." (AgInt nos EDcl no AREsp 1.817.958/MA, 4ª Turma, DJe 01/07/2021). No mesmo sentido, conferir: AgInt no AREsp 1.690.942/RN (3ª Turma, DJe 12/02/2021), AgInt nos EDcl no AREsp 1.973.508/SP (3ª Turma, DJe de 25/05/2022), AgInt no AREsp 1.735.018/SP (4ª Turma, DJe 06/05/2021) e AgInt no AREsp 1.851.422/DF (4ª Turma, DJe de 18/08/2022).
+5. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interposto por FATIMA APARECIDA DE SOUZA e JAIME MARTINS contra decisão unipessoal prolatada pela Presidente do STJ.
+Ação: reivindicatória c/c indenização por danos materiais com pedido de tutela de urgência, ajuizada por MARIA TEREZA MORENO QUEIROGA DE ASSIS e RICARDO ALEXANDRE DE CARVALHO BRUM, em face dos agravantes, na qual alegam - em síntese - que são proprietários do imóvel objeto da Matrícula n. 133.005 do 1º Oficial de Registro de Imóveis de São José dos Campos/SP.
+Decisão Monocrática: não conheceu do agravo em recurso especial interposto pelos agravantes, devido a intempestividade do referido recurso, com fundamento no art. 21-E, V, do RISTJ (e-STJ, fls. 424/425).
+Agravo interno: alega, em síntese, a suspensão de prazo processual em relação aos dias 20/02/2023 e 21/02/2023, respectivamente, segunda e terça-feira de carnaval, nos termos do Provimento do CSM 2.678/2022. Assevera, ainda, que o referido provimento fora colacionado junto com as razões do agravo em recurso especial interposto (e-STJ, fls. 428/434).
+É O RELATÓRIO.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS COM PEDIDO DE TUTELA DE URGÊNCIA. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. "PRINT" DE RELAÇÃO DE FERIADOS EXTRAÍDA DO "SITE" DO TRIBUNAL DE ORIGEM NÃO CONSTITUI DOCUMENTO HÁBIL A COMPROVAR A TEMPESTIVIDADE DO RECURSO.
+1. Ação reivindicatória c/c indenização por danos materiais com pedido de tutela de urgência.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o agravo em recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. "A prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. Print de tela de computador, imagem ou cópia de página extraída de internet não serve para tal finalidade." (AgInt nos EDcl no AREsp 1.817.958/MA, 4ª Turma, DJe 01/07/2021). No mesmo sentido, conferir: AgInt no AREsp 1.690.942/RN (3ª Turma, DJe 12/02/2021), AgInt nos EDcl no AREsp 1.973.508/SP (3ª Turma, DJe de 25/05/2022), AgInt no AREsp 1.735.018/SP (4ª Turma, DJe 06/05/2021) e AgInt no AREsp 1.851.422/DF (4ª Turma, DJe de 18/08/2022).
+5. Agravo interno não provido.
+VOTO
+A decisão agravada inadmitiu o agravo em recurso especial interposto pelos agravantes, em razão da intempestividade.
+O agravo em recurso especial, de fato, é inadmissível por ser intempestivo. A decisão de inadmissibilidade do recurso especial foi publicada em 02/02/2023 (e-STJ, fl. 398), quinta-feira. Exauriu-se, pois, o prazo legal para a interposição do agravo em recurso especial em 24/02/2023, sexta-feira. No entanto, a petição do recuso foi protocolizada em 27/02/2023, segunda-feira (e-STJ, fl. 400), ou seja, fora do prazo legal de 15 dias úteis.
+Na hipótese dos autos, o agravo em recurso especial foi manejado contra decisão publicada em 02/02/2022, quando já em vigor o novo Diploma Processual Civil.
+Desse modo, conforme ressalvado na decisão agravada, nos termos do art. 1.003, § 6º, do CPC, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Nesse sentido: AgInt no AREsp 957.821/MS (Corte Especial, DJe de 19/12/2017).
+É necessário salientar que "a prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. Print de tela de computador, imagem ou cópia de página extraída de internet não serve para tal finalidade." (AgInt nos EDcl no AREsp 1.817.958/MA, 4ª Turma, DJe 01/07/2021). No mesmo sentido, conferir: AgInt no AREsp 1.690.942/RN (3ª Turma, DJe 12/02/2021), AgInt nos EDcl no AREsp 1.973.508/SP (3ª Turma, DJe de 25/05/2022), AgInt no AREsp 1.735.018/SP (4ª Turma, DJe 06/05/2021) e AgInt no AREsp 1.851.422/DF (4ª Turma, DJe de 18/08/2022).
+Na hipótese vertente, as partes agravantes visam à comprovação de feriado local por meio de "print" da tela de computador (e-STJ, fl. 404), o que não é possível nos termos da fundamentação citada.
+Assim, considerando que o agravo recurso especial foi interposto sob a égide do novo regramento processual e deixando os agravantes de comprovarem, por meio de documento idôneo, a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
