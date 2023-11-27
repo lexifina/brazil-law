@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não impugnou, de forma suficiente, todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Luiz Carlos Pereira Lemos contra a decisão monocrática da Presidência desta Corte que não conheceu do agravo em recurso especial ante a ausência de impugnação de todos os fundamentos da decisão de inadmissão na origem.
+Nas razões do agravo regimental, a defesa sustenta a admissibilidade do agravo, ao argumento de que houve a devida impugnação a todos os argumentos, ali utilizados de rechaça e da não renuncia à dialeticidade (fl. 671), buscando, ao final, o conhecimento e acolhimento da presente argumentação, com o provimento do AREsp e consequente provimento do REsp (fl. 685).
+Instado a se manifestar, o Ministério Público Federal opina pelo desprovimento do agravo regimental, nos termos desta ementa (fl. 696):
+AGRAVO REGIMENTAL. DECISÃO QUE NÃO CONHECE DO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES. FASE DO JÚRI. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+- No agravo em recurso especial, a defesa não impugnou tais fundamentos, mas limitou-se a afirmar que o recurso especial não necessita do reexame de provas e que o dissídio jurisprudencial foi demonstrado nos moldes legais exigidos, fundamentos esses não utilizados na decisão que não admitiu o recurso especial.
+- E, ao interpor o agravo regimental, o réu/agravante não impugnou o fundamento da decisão que não conheceu do agravo em recurso especial, consistente na aplicação da Súmula 182/STJ.
+- Parecer pelo desprovimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não impugnou, de forma suficiente, todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+3. Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial:
+ ..  PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018 - grifo nosso).
+Especificamente nas hipóteses em que o recurso especial é inadmitido com fundamento na Súmula 284/STF, e na falta de prequestionamento (Súmulas 282/STF, 356/STF e 211/STJ), a orientação desta Corte é no sentido da insuficiência da impugnação genérica do fundamento da decisão de inadmissão.
+Nesse sentido, confiram-se:
+ ..  1. É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve a parte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+ ..
+(AgRg no AREsp n. 1.157.955/PE, da minha relatoria, Sexta Turma, DJe 12/12/2017 - grifo nosso).
+ ..  1. O Tribunal de origem indeferiu o processamento do Recurso Especial sob o fundamento, dentre outros, de que a verificação da responsabilidade pela demora na citação demanda reexame de provas (incidência da Súmula 7/STJ).
+2. Nesse ponto, a agravante limitou-se a afirmar que não há discussão sobre matéria de cunho fático. Acontece que essa simples afirmação caracteriza impugnação genérica à decisão agravada, o que atrai a incidência da Súmula 182/STJ.
+ ..
+(AgRg no AREsp n. 97.169/RJ, Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/5/2013 - grifo nosso).
+Assim, nesses casos, cabe ao agravante impugnar, de forma suficiente, o fundamento da decisão de inadmissão, deduzindo argumentos concretos e aptos a demonstrar a inaplicabilidade dos referidos óbices, inclusive transcrevendo as razões do recurso especial quando necessário.
+No caso dos autos, ao contrário do que se alega, o agravante não impugnou, de forma suficiente, os seguintes fundamentos da decisão de inadmissão: Súmula 211/STJ e Súmula 284/STF.
+Veja-se que, nas razões do agravo em recurso especial, limitou-se a defesa a sustentar, de forma desconexa, a não incidência da Súmula 7/STJ (fls. 628/634), acrescentando que o dissídio jurisprudencial foi demonstrado nos moldes legais exigidos (fls. 634/636), óbices não utilizados na decisão impugnada, apresentando, ainda, alegações genéricas acerca da Súmula 284/STF (fls. 636/637). Não houve fundamentação clara, específica e pormenorizada a respeito da Súmula 211/STJ.
+Esclareça-se que, para refutar a incidência da Súmula 284/STF, deve-se demonstrar que não houve deficiência na fundamentação do recurso especial, que houve a indicação clara e precisa do dispositivo de lei federal eventualmente contrariado, bem como das razões pelas quais entende ter havido a apontada violação ou o dissenso interpretativo, guardando pertinência com o que fora decidido, de forma a viabilizar a adequada compreensão da controvérsia (AgRg no AREsp n. 2.112.116/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/10/2022), o que não se verifica das petições de agravo.
+Outrossim, a mera alegação genérica da existência de prequestionamento não é suficiente para impugnar o óbice da Súmula 211/STJ; cabe à defesa indicar como a decisão recorrida enfrentou a qu estão posta em debate no recurso especial, deixando claro que a matéria foi devidamente consignada no acórdão recorrido, o que não ocorreu na hipótese. A propósito: AgRg no AREsp n. 2.125.483/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 26/8/2022 e AgInt no AREsp n. 1.724.002/DF, Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, DJe 18/4/2022.
+Cumpre destacar, ainda, que é inviável considerar os argumentos veiculados em recurso subsequente, ante a incidência do princípio da preclusão consumativa.
+Sobre o tema, destaco:
+ ..  3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo regimental), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+ ..
+(EDcl no AREsp n. 474.744/BA, Ministro Sérgio Kukina, Primeira Turma, DJe 19/5/2014).
+Ant e o exposto, nego provimento ao agravo regimental.
