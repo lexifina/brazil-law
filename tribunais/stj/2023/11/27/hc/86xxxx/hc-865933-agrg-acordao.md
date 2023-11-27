@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. EXASPERAÇÃO DA PENA-BASE EM RAZÃO DOS MAUS ANTECEDENTES. FATO ANTERIOR E TRÂNSITO EM JULGADO POSTERIOR. ILEGALIDADE NÃO CONFIGURADA. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. POSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, a condenação definitiva por outro fato anterior ao delito em apuração nos autos, mas com trânsito em julgado posterior à data do ilícito ora em apuração, embora não configure a agravante da reincidência, caracteriza maus antecedentes e enseja a exasperação da pena-base. Precedentes.
+2. Quanto ao regime prisional inicial, tendo em vista a existência de circunstância judicial negativa (maus antecedentes), devida a aplicação de regime inicial mais gravoso, nos termos do art. 33, §2º e 3º, c/c art. 59 do Código Penal.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WESLEY RAFAEL DA SILVA contra decisão de minha lavra, pela qual não conheci do habeas corpus.
+Consta dos autos que o paciente foi condenado, pelo juízo de primeiro grau, por infração ao artigo 158, § 1º, do Código Penal, às penas de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto e, ao pagamento de 14 (quatorze) dias-multa.
+Ambas as partes apelaram e o Tribunal a quo deu parcial provimento ao recurso defensivo para redimensionar a pena do paciente ao patamar de 05 (cinco) anos e 04 (quatro) meses de reclusão, em regime prisional inicial fechado, além do pagamento de 13 (treze) dias-multa.
+No writ, sustenta a defesa que o paciente sofre constrangimento ilegal em razão da valoração negativa dos antecedentes, ao fundamento de que processos com trânsito em julgado posterior ao fato ora em análise não pode configurar maus antecedentes.
+Uma vez afastada a valoração negativa dos antecedentes, aponta que o paciente faz jus ao regime prisional inicialmente mais brando, nos termos do entendimento firmado nos enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal.
+Diante disso, pede, liminarmente, a fixação de regime prisional inicial semiaberto e, no mérito, o afastamento dos maus antecedentes e a fixação de regime prisional inicialmente mais brando.
+Neste agravo regimental, o agravante reitera os argumentos apresentados na exordial, requerendo a reconsideração da decisão monocrática, ou a remessa dos autos para julgamento pelo Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. EXASPERAÇÃO DA PENA-BASE EM RAZÃO DOS MAUS ANTECEDENTES. FATO ANTERIOR E TRÂNSITO EM JULGADO POSTERIOR. ILEGALIDADE NÃO CONFIGURADA. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. POSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, a condenação definitiva por outro fato anterior ao delito em apuração nos autos, mas com trânsito em julgado posterior à data do ilícito ora em apuração, embora não configure a agravante da reincidência, caracteriza maus antecedentes e enseja a exasperação da pena-base. Precedentes.
+2. Quanto ao regime prisional inicial, tendo em vista a existência de circunstância judicial negativa (maus antecedentes), devida a aplicação de regime inicial mais gravoso, nos termos do art. 33, §2º e 3º, c/c art. 59 do Código Penal.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os argumentos apresentados, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+Busca-se o afastamento da valoração negativa dos antecedentes e a fixação de regime prisional inicialmente mais brando.
+Como já enfatizado na decisão ora agravada, a própria sentença destacou que o paciente foi condenado em processo que transitou em julgado em data posterior, mas referente a fato anterior ao analisado dos autos.
+Com efeito, tal entendimento está em consonância com a jurisprudência firmada nesta Corte acerca do tema, segundo a qual a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base (AgRg no HC n. 607.497/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 30/9/2020) (AgRg no AREsp 748.987/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/02/2022, DJe 18/02/2022).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SONEGAÇÃO FISCAL. PENA-BASE. MAUS ANTECEDENTES. CRIME ANTERIOR. TRÂNSITO EM JULGADO POSTERIOR. ILEGALIDADE. AUSÊNCIA. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. SURSIS HUMANITÁRIO. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO DO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base" (AgRg no HC n. 607.497/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/9/2020, DJe 30/9/2020).
+2. Embora a pena estabelecida seja inferior a 4 anos de reclusão (2 anos e 4 meses de reclusão), a existência de maus antecedentes justifica o agravamento do regime prisional, no caso, o semiaberto.
+3. Por fim, não submetido ao Tribunal de origem o pedido de sursis humanitário, não cabe a esta Corte a análise inaugural da matéria, sob pena de incidir em indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 753.609/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Por fim, quanto ao regime prisional inicial, como já destacado pelo acórdão impugnado, tendo em vista a existência de circunstância judicial negativa (maus antecedentes), devida a aplicação de regime inicial mais gravoso, nos termos do art. 33, §2º e 3º, c/c art. 59 do Código Penal.
+Acerca do tema, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RÉU REINCIDENTE EM CRIME PATRIMONIAIS. MAUS ANTECEDENTES. PENA INFERIOR A 04 ANOS DE RECLUSÃO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. O "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público."
+(HC n. 84.412-0/SP, STF, Rel. Ministro CELSO DE MELLO, DJU 19/11/2004.).
+2. No caso, consoante se extrai dos autos, o réu possui maus antecedentes, sendo reincidente específico em crimes contra o patrimônio, já tendo cumprido pena, inclusive, pela prática de roubo.
+3. Sobre o tema, esta "Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo quando demonstrado ser tal medida recomendável diante das circunstâncias concretas do caso, o que não se evidencia na hipótese, eis que se trata de paciente reincidente específico e com maus antecedentes, o que demonstra o seu desprezo sistemático pelo cumprimento do ordenamento jurídico" (AgRg no HC n. 796.563/MS, de minha Relatoria, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023).
+4. Assim, embora o valor da res furtiva - R$ 26,00 -, na ocasião em que ocorreram os fatos - 20 de julho de 2019 - seja inferior a 10% do salário mínimo vigente à época (R$ 998,00), verifica-se que o réu não faz jus ao reconhecimento do benefício.
+5. A pena-base foi fixada acima do mínimo legal, por ter sido desfavoravelmente valorada uma circunstância judicial (art. 59 do CP), o que, por si só, permite a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do Código Penal.
+6. Em que pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstância judicial desfavoravelmente valorada, admite-se, excepcionalmente, o abrandamento do regime inicial de cumprimento da pena, com amparo em julgados proferidos pelo Supremo Tribunal Federal, no RHC 224.553/SC (1ª Turma, Relator Ministro Cristiano Zanin, Relator para acórdão Ministro Alexandre de Moraes, julgado em 28/08/2023, acórdão pendente de publicação) e no HC 123.533/SP (Pleno, Relator Ministro Roberto Barroso, DJe de 18/02/2016).
+7. Agravo regimental parcialmente provido, apenas para fixar o regime inicial semiaberto para o cumprimento da pena.
+(AgRg no AREsp n. 2.330.296/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/9/2023, DJe de 24/10/2023.)
+Por fim, sequer consta do acórdão impugnado elementos referentes à condenação do corréu, de forma que é inviável, nesta oportunidade, a análise referente a eventual violação ao princípio da isonomia.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
