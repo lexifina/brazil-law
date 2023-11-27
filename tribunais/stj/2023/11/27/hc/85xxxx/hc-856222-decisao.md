@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JUSCELINO SILVA PEREIRA apontando como autoridade coatora d esembargador do Tribunal de Justiça do Estado da Bahia (Habeas Corpus n. 8041855- 02.2023.8.05.0000).
+Afirma a petição inicial que a Juíza de direito da Vara Criminal da Comarca de Barra do Choça/BA, na Ação Penal n. 8000546-38.2023.8.05.0020, decretou a prisão preventiva do paciente com fundamento de suposta utilização de redes sociais para realizar ameaças e calúnia contra duas vítimas, funcionários públicos da Delegacia Territorial de Barra do Choça/BA (decreto de prisão preventiva não juntado aos autos).
+Irresignada, a defesa impetrou habeas corpus originário perante o Tribunal local, tendo o pedido liminar sido indeferido às e-STJ fls. 14/17 pelo Desembargador relator, assim como o pedido de reconsideração (e-STJ fls. 56/57).
+Contra a referida decisão monocrática se insurge a parte impetrante por meio do presente writ, alegando, inicialmente, que é caso de superação da Súmula n. 691/STF.
+A defesa aduz ilegalidade flagrante na negativa de acesso aos autos de origem pelo advogado do paciente e na manutenção da prisão preventiva por supostos delitos de ameaça e calúnia contra os agentes policiais que não dão andamento à investigação da morte por atropelamento de um amigo do paciente.
+Pontua que o advogado do paciente foi impedido de ter acesso "até ao cumprimento do mandado de prisão" (e-STJ fl. 5).
+Afirma que a prisão preventiva foi decretada sem fundamentação idônea, pois claramente desnecessária, estando ausentes os requisitos legais para a sua manutenção, notadamente motivos concretos que a justifiquem, isto é, que demonstrem o risco efetivo à eficácia da persecução penal e o risco que adviria à ordem pública pela liberdade do paciente.
+Pondera que o paciente é pessoa idosa e "jamais foi intimado para comparecer em sede inquisitorial e o suposto delito imputado não constitui de natureza grave que necessite de necessária prisão preventiva" (e-STJ fl. 6).
+Invoca os predicados pessoais favoráveis do paciente, o que corrobora a desnecessidade da medida extrema e o cabimento de medidas cautelares diversas da prisão.
+Afirma que "o impedimento de acesso aos autos sem fundamento idôneo constitui flagrante constrangimento ilegal, restringindo garantia constitucional do paciente de saber o conteúdo do caderno processual e sobre que fato lhe é imputável, razão pela qual a ordem de acesso aos autos ao impetrante deve ser concedida" (e- STJ fl. 9).
+Ao fim, requer "seja concedida a ordem, deferindo-se a cautela ora requerida, expedindo-se o competente CONTRAMANDADO EM FAVOR DO PACIENTE e ORDEM DE ACESSO AOS AUTOS DE ORIGEM PELOS IMPETRANTES, após cumpridas as formalidades legais, seja ratificada a medida concessiva da ordem  ..  " (e-STJ fl. 12).
+Liminar indeferida às e-STJ fls. 67/69.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fl. 93/95).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 6/11/2023, do julgamento do habeas corpus originário, ocasião em que a ordem foi parcialmente concedida para permitir, "mediante apresentação de procuração, o acesso às diligências já realizadas e documentadas nos autos de nº8000546-38.2023.8.05.0020, sendo que eventuais diligências em andamento não deverão ser fornecidas ou identificadas", além do que a prisão preventiva foi substituída por medidas cautelares alternativas, a saber, "a) comparecimento periódico em Juízo, no prazo e nas condições fixadas pelo magistrado de primeiro grau, para informar e justificar suas atividades; b) proibição de ausentar-se da Comarca em que reside, sem prévia autorização do Juízo, por prazo superior a 07 (sete) dias; c)proibição de manter contato com a vítima, por qualquer meio de comunicação, inclusive os meios eletrônicos, como facebook e whastsapp e ligação telefônica, prevista no art. 319, III, do CPP".
+Portanto, esvaziado está o objeto deste writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
