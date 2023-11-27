@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA ATUAÇÃO DA GUARDA MUNICIPAL E PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente a impetração por ser substitutiva de recurso próprio e deixou de conceder a ordem de ofício uma vez que o Tribunal de origem não se manifestou sobre a suposta nulidade decorrente da atuação da guarda civil metropolitana, a possibilidade possibilidade de expedição de carta de guia e início do cumprimento da pena em prisão domiciliar, e não se identificou qualquer ilegalidade no flagrante. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida-se de Agravo Regimental interposto por ANA BEATRIZ FAILLI ALVES MACHADO em face de decisão de fls. 556/560 que indeferiu liminarmente /a impetração substitutiva de recurso próprio e deixou de conceder a ordem de ofício, uma vez que o Tribunal de origem não se manifestou sobre a suposta nulidade decorrente da atuação da guarda civil metropolitana, a possibilidade possibilidade de expedição de carta de guia e início do cumprimento da pena em prisão domiciliar, e não se identificou qualquer ilegalidade no flagrante.
+A propósito, confira-se o teor da referida decisão:
+"Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de ANA BEATRIZ FAILLI ALVES MACHADO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Revisão Criminal nº 2267356-28.2022.8.26.0000.
+Extrai-se dos autos que a paciente foi condenada em primeira instância pela prática de crime de tráfico de drogas às penas de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, conforme sentença de fls. 410/415.
+Irresignada, a defesa ajuizou revisão criminal perante o Tribunal de origem, o qual julgou a ação improcedente nos termos do acórdão que restou assim ementado:
+"Revisão criminal. Nulidade não verificada. Ausência de ilegalidade na prisão em flagrante da peticionária. Mérito. Não configuradas as hipóteses previstas no art. 621, do CPP. Nulidade alegada afastada e pedido revisional indeferido" (fl. 492).
+No presente writ, em confusa petição, o impetrante sustenta a nulidade das provas obtidas no momento do flagrante em razão da atuação da guarda municipal fora das hipóteses constitucionais e pela ausência de justa causa para a busca pessoal e domiciliar.
+Argumenta que a paciente faz jus a iniciar o cumprimento da pena em prisão domiciliar em razão de sua saúde debilitada.
+Ao final requer:
+"a)Pelas razões expostas, requer seja julgado procedente o pedido contido nesta ação de revisão criminal, de forma a absolver a Impetrante, desconstituindo assim a condenação já transitada em julgado.
+b)Requer, com o presente pedido, a suspensão do cumprimento do mandado de prisão, haja vista a busca pessoal realizada pelos agentes Municipais após denúncia anônima, seguida de invasão de domicilio sem previa ordem judicial, é de se reconhecer a ilegalidade da busca veicular e da invasão de domicílio, com a consequente anulação de todas as provas lá colhidas, bem como as derivadas. Tendo em vista a ausência de outras provas independentes e idôneas, de rigor o trancamento do feito, por total ausência de substrato probatório apto a manter o gravame penoso de uma ação penal.
+c)Requer subsidiariamente a expedição da guia de recolhimento e início da execução de pena, possibilitando pedido na execução criminal para substituição de pena por prisão domiciliar, por se tratar de mãe de criança recém nascida, certidão de nascimento em anexo. Nesses termos pede-se a que seja deferida a ordem para resguardar o direito da executada de sofrer a prisão legal, com caráter ilegal, dado os fatos narrados;
+d)Diante da justificativa apresentada, diante a veracidade do documento atestado em anexo, pede-se a concessão da liminar, para afastar o mandado de prisão, devido as nulidades das provas ou expedir a guia de execução, e conceder a medida pleiteada de prisão domiciliar;
+e)Contudo, se não for o caso de concessão de medida domiciliar, que seja afastada o mandado de prisão, seja expedia a guia de execução provisória, para que este defensor possa promover os trabalhos diante tais circunstancias mencionadas; Paciente portadora CID -10: F 32.2, F 41, J 20, J 20.0, J 45, J 01, J 98.9, I 49.9, X 70, em anexo; "
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Inicialmente, verifica-se que o Tribunal de origem no acórdão impugnado não se manifestou sobre a suposta nulidade decorrente da atuação da guarda civil metropolitana, a possibilidade possibilidade de expedição de carta de guia e início do cumprimento da pena em prisão domiciliar. De tal modo, resta afastada a competência desta Corte Superior para conhecer da matéria sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO DE RECURSO ESPECIAL. NULIDADE. BUSCA PESSOAL E VIOLAÇÃO DE DOMICÍLIO POR GUARDAS MUNICIPAIS. SUPRESSÃO. DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO DE DROGAS PARA O DELITO PREVISTO NO ART. 28 DA LEI N. 11.343/2006. SÚMULA 7 DO STJ. DOSIMETRIA. PENA-BASE. QUANTIDADE. ANTECEDENTES. PERÍODO DEPURADOR. AGRAVANTE. CALAMIDADE PÚBLICA. TRÁFICO PRIVILEGIADO. PRESENÇA DE ANTECEDENTES. REGIME FECHADO. PENA INFERIOR A OITO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As teses de nulidade das provas obtidas através da busca pessoal por guardas municipais e da violação de domicílio, pela ausência de justa causa, não foram objeto de cognição pelo Tribunal de origem.
+Logo, o enfrentamento de tais questões diretamente por esta Corte de Justiça acarretaria indevida supressão de instância.
+2. No que tange ao pleito de desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas, mas também diante da prova testemunhal e circunstâncias da apreensão.
+ ..
+9. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.269.723/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023.)
+Quanto a validade das provas obtidas no momento do flagrante, o acórdão impugnado trouxe o seguinte:
+"Inicialmente, anoto que a preliminar arguida não merece acolhimento.
+Não se verifica ilegalidade na condutados guardas municipais de averiguar denúncia de tráfico. Nesse sentido, em se tratando de delito permanente, a informação recebida pelos agentes públicos era notícia de crime em andamento, da mesma forma que ocorre, por exemplo, quando são avisados de que um delito de roubo está acontecendo em via pública.
+Assim, não configura atividade investigativa a diligência ao local dos fatos para efetuar a prisão em flagrante, com a localização da peticionária em via pública, com as mesmas características apontadas na delação anônima, a qual, indagada, afirmou que possuía quantia em dinheiro e porções de crack na sua posse, entregando-as espontaneamente. Ainda, na sequência, encontraram outras porções de entorpecentes numa bolsa colocada na varanda do imóvel ali existente, com a proprietária da residência confirmando que não conhecia a peticionária e que ela adentrou ao local para colocar uma bolsa.
+Diante de tais circunstâncias, entendo que a conduta dos não apenas era legal como configurava dever dos agentes públicos, nos termos do art. 301 do CPP, daí não decorrendo, portanto, qualquer nulidade da prova acusatória amealhada nos autos. Rechaçada a tese preliminar, no mérito, é caso de indeferimento do pedido" (fls. 493/494).
+Como visto, as instâncias ordinárias reconheceram que a paciente foi flagrada em via pública na posse de drogas destinadas à difusão ilícita. Na oportunidade, os agentes públicos apuravam denúncias devidamente circunstanciadas de prática de tráfico de drogas por pessoa com a descrição física da paciente. Perceberam ainda que a paciente tentou ocultar em casa alheia uma bolsa contendo drogas. De tal modo restou suficientemente demonstrada a existência de justa causa antecedente para a busca pessoal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FLAGRANTE DELITO REALIZADO POR GUARDAS MUNICIPAIS. BUSCA PESSOAL. JUSTA CAUSA. ILEGALIDADE NÃO RECONHECIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Conforme jurisprudência consolidada desta Corte Superior, não há falar em ilegalidade na prisão em flagrante realizada por guardas civis municipais. Consoante disposto no art. 301 do CPP, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito". (AgRg no HC n. 748.019/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022)
+2. No caso, os guardas civis municipais realizavam patrulhamento pelo local dos fatos, quando avistaram o agravante dispensar algo (embrulho) com a aproximação da viatura. Diante disso, realizaram a abordagem e encontraram 2 porções de cocaína em seu poder. Na sequência, retornaram ao local inicial e encontraram a sacola com outras 21 porções da mesma droga, o que confirma a presença de justa causa para a abordagem pessoal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 815.459/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+Ressalte-se que não foi realizada busca domiciliar que se possa reputar de nula. A bolsa colocada na varada foi entregue aos agentes pela proprietária do imóvel que afirmou não conhecer a paciente.
+Desconstituir as conclusões das instâncias ordinárias a respeito das circunstâncias em que ocorreu o flagrante demandaria aprofundado revolvimento fático probatório, procedimento vedado na via estreita do habeas corpus.
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se."
+No presente agravo, a defesa insiste na alegação de que a paciente faz jus à prisão domiciliar em razão de seu estado de saúde e por ser mãe de recém-nascido e "Requer, com o presente pedido, a suspensão do cumprimento do mandado de prisão em regime semiaberto bem como a concessão da prisão domiciliar por motivação humanitária. Alternativamente, pede seja expedida a guia de execução independentemente do cumprimento do mandado de prisão para que se possa requerer tal benefício da prisão domiciliar devido ao filho menor de 1 (um) ano de idade. Contudo, a ré agora é mãe do H. A. S., certidão de nascimento em anexo" (fl. 570).
+Prossegue insistindo na nulidade do flagrante decorrente da atuação da guarda municipal sem justa causa, o que gera a ilegalidade dos meios de prova obtidos no momento do flagrante.
+Requer, ao final, o provimento do recurso e a concessão da ordem de habeas corpus nos termos da inicial.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental, conforme parecer de fls. 611/613.
+É o breve relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA ATUAÇÃO DA GUARDA MUNICIPAL E PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente a impetração por ser substitutiva de recurso próprio e deixou de conceder a ordem de ofício uma vez que o Tribunal de origem não se manifestou sobre a suposta nulidade decorrente da atuação da guarda civil metropolitana, a possibilidade possibilidade de expedição de carta de guia e início do cumprimento da pena em prisão domiciliar, e não se identificou qualquer ilegalidade no flagrante. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo não comporta conhecimento.
+Os fundamentos apresentados na decisão impugnada no sentido de o Tribunal de origem não se manifestou sobre a suposta nulidade decorrente da atuação da guarda civil metropolitana, a possibilidade possibilidade de expedição de carta de guia e início do cumprimento da pena em prisão domicilia, não foram infirmados nas razões do presente recurso, de modo a atrair a incidência da súmula 182 desta Corte, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA DE NATUREZA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. REEXAME DE PROVAS. IMPOSSIBILIDADE. MATÉRIA NÃO TRATADA NO DECISUM IMPUGNADO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese vertente, conforme registrado pela Corte de origem, a falta grave foi reconhecida mediante a instauração de processo administrativo disciplinar no qual foram assegurados o contraditório e a ampla defesa ao reeducando.
+2. Em sede de habeas corpus, inviável afastar os fundamentos fáticos apontados pelas instâncias ordinárias para o reconhecimento da gravidade da infração e/ou sua absolvição, pois demandaria o reexame de matéria fático-probatória.
+3. Além do mais, no que tange à alegação de que uma testemunha presencial do fato apurado no PAD, apesar de tempestivamente arrolada e qualificada, não foi ouvida, ressalte-se que tal matéria não foi tratada no decisum impugnado, o que atrai a aplicação da Súmula 182 desta Superior Corte de Justiça: É inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+4. Agravo regimental não provido.
+(AgRg no HC 370.647/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 27/2/2018).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SE CONHECER DA IMPETRAÇÃO. FUNDAMENTO NÃO IMPUGNADO. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE REALIZADO DE ACORDO COM O ART. 42 DA LEI N. 11.343/2006.
+1. O fundamento utilizado para não se conhecer do habeas corpus, a supressão de instância, não foi impugnado nas razões do agravo regimental, atraindo a aplicação da Súmula n. 182 desta Corte.
+2. Ademais, vale consignar que não se faz evidente a ilegalidade no estabelecimento da pena-base, uma vez que sua exasperação decorreu da avaliação da grande quantidade de droga apreendida, nos termos do art. 42 da Lei n. 11.343/2006.3. Agravo regimental desprovido.
+(AgRg no HC 644.335/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/4/2021, DJe 28/ 4/2021).
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
