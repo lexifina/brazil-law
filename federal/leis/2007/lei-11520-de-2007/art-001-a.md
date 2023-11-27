@@ -1,0 +1,2 @@
+Art. 1º-A. Fica o Poder Executivo autorizado a conceder pensão especial mensal, vitalícia e intransferível aos filhos que foram separados dos genitores em razão do isolamento ou da internação destes, nas condições estabelecidas no art. 1º desta Lei, que a requererem, a título de indenização especial, não inferior ao salário mínimo nacional vigente.
+Parágrafo único. O benefício de que trata o caput deste artigo somente será devido a partir do requerimento do interessado e não produzirá efeitos retroativos.
