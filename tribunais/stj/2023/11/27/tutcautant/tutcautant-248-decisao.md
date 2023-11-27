@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de pedido de tutela cautelar antecipada formulado por URIAS GENETON REOBE DE SOUZA TEIXEIRA, pelo qual pretende ser reconduzido ao exercício do mandato eletivo de 2020/2024 para o cargo de Vereador do Município de Pariquera-Açú/SP.
+O recorrente alega que foi afastado do cargo no dia 16/8/2022 por decisão proferida pelo Juízo de Primeiro Grau e mantida pelo Tribunal de Justiça do Estado de São Paulo -TJSP. Informa, ainda, que interpôs recurso especial perante a Corte Estadual (fls. 4 e 7).
+Sustenta que "o requerente, teve seu mandato de ve reador já reduzido em mais de 1/4, logo a manutenção da cautelar de afastamento do cargo de vereador não é adequada, pois o prolongamento excessivo da medida se constitui em ataque letal e infundado aos direitos fundamentais do réu, criando-se uma presunção de culpa que tenciona com os princípios da presunção de inocência e da soberania popular" (fl. 9).
+Assim, pleiteia: (i) a concessão liminar da tutela de urgência, para determinar o seu retorno imediato ao exercício das funções do cargo de Vereador do Município de Pariquera-Açú/SP, intimando-se, com urgência, o Presidente da Câmara Municipal de Vereadores para cumprimento da ordem; (ii) a comunicação da decisão ao Juízo de Primeiro Grau; e (iii) seja julgada procedente a tutela de urgência para "tão somente, Suspender a Eficácia do Acórdão que julgou a Apelação, (ora combatido por meio de Recurso Especial) até o trânsito em julgado da Ação Penal, processo nº1500388- 46.2022.8.26.0424" (fl. 16).
+É o relatório.
+Decido.
+Conforme relatado, o presente pedido de tutela cautelar antecipada objetiva, liminarmente, a suspensão de eficácia do acórdão de apelação, sustentando já ter sido interposto recurso especial.
+Inicialmente, registre-se que esta relatoria não conheceu da TutCAutAnt 75/SP pleiteada pelo mesmo requerente, ao fundamento de que não havia sido aberta a competência recursal do Superior Tribunal de Justiça - STJ, uma vez que a Corte de origem sequer havia analisado a admissibilidade do recurso especial.
+No caso ora em análise, constata-se ter havido alteração da situação fática existente quando do pedido da TutCAutAnt 75/SP, porquanto, atualmente, já é possível identificar a existência do AREsp SP (2023/0409764-6), contudo, sequer houve distribuição do referido recurso para esta relatoria.
+Nesse contexto, considerando-se que a verificação da viabilidade da tutela antecipatória está diretamente ligada à probabilidade de êxito do recurso especial, esta relatoria encontra-se impossibilitada de fazer referida análise. Isso porque, repita-se, o AREsp SP (2023/0409764-6) encontra-se na Seção de Autuação de Processo de Jurisdição Especial do STJ, não tendo sido distribuído, até o presente momento, a um dos Ministros do STJ.
+Ademais, anteriormente à análise do AREsp SP (2023/0409764-6), pela Presidência desta Corte Superior de Justiça, sequer é possível presumir que o referido recurso irá transpor os filtros de admissibilidade e será processado e distribuído a esta relatoria.
+Por tais razões, nos termos do art. 34, inciso XVIII, alínea "a" não conheço do pedido formulado na presente tutela cautelar antecipatória.
+Publique-se.
+Intimem-se.
+EMENTA
