@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela DEFENSORIA PÚBLICA DE SÃO PAULO em favor de FABIANA ROSA DA SILVA contra acórdão da 6ª Câmara Criminal do Tribunal de Justiça daquele estado, no HC n. 2270198-44.2023.8.26.0000, assim ementado:
+Habeas Corpus. Crime de estelionato. Liberdade provisória. Impossibilidade. Requisitos autorizadores da segregação cautelar presentes. Constrangimento ilegal não configurado. Ordem denegada. (e-STJ, fl. 78)
+Em suas razões, a Defensoria Pública alega que a atuação da Guarda Municipal se deu fora de suas atribuições legais, agindo como polícia preventiva, realizando busca pessoal, em extrapolação às competências constitucionais.
+Requer, liminarmente e no mérito, o relaxamento da prisão em flagrante, convertida em preventiva ou a concessão de prisão domiciliar pois a paciente é mãe de crianças menores de 12 anos.
+O pedido liminar foi indeferido (e-STJ, fl. 93).
+Prestadas as informações (e-STJ, fls. 100-101), o Ministério Público opinou pelo não conhecimento ou pela denegação da ordem (e-STJ, fls. 103-110).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Consoante o disposto no art. 301 do CPP, não há ilegalidade na prisão em flagrante realizada por guardas civis municipais, uma vez que "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito".
+Todavia, o Superior Tribunal de Justiça tem entendimento de que a guarda municipal não pode ultrapassar os limites próprios da prisão em flagrante, autuando de forma preventiva e investigativa, em clara usurpação da função própria dos policiais militares. O art. 144, § 8º, da CF estabelece que aos guardas civis municipais cabe a proteção dos bens, serviços e instalações do município.
+No caso, extrai-se dos autos que os guardas municipais foram acionados via Rádio Central a comparecerem numa loja para atender uma ocorrência de possível crime de estelionato praticado por duas mulheres que, ao serem abordadas pelos agentes e questionadas, confessaram que estavam utilizando documentação falsa. Foi nesse contexto que as mulheres foram conduzidas ao plantão policial.
+O Tribunal de Justiça de São Paulo compreendeu que "embora os guardas civis municipais não tenham, de regra, poder de polícia, a prisão em flagrante se deu de modo regular e legal, nos termos do artigo 301 do Código de Processo Penal" (e-STJ, fl. 86).
+De fato, restou evidenciada situação de flagrante delito, razão pela qual a atuação dos agentes municipais está respaldada no comando do art. 301 do Código de Processo Penal.
+Nos termos do parecer ministerial:
+O caso dos autos, contudo, difere-se da orientação supramencionada na medida em que os guardas municipais não estavam em atividades típicas de patrulhamento ostensivo, tampouco abordaram a paciente aleatoriamente em via pública sem aferição de fundadas suspeitas.
+Na hipótese, a corporação foi acionada especificamente para coibir prática criminosa em andamento, uma vez que a paciente e sua comparsa haviam acabado de tentar ludibriar funcionários de estabelecimento comercial a fim de obterem vantagens indevidas e estavam tentando se evadir quando foram alcançadas pelos guardas ainda nas proximidades da loja, o que autoriza qualquer pessoa a efetuar a prisão em flagrante, nos termos do art. 301,do Código de Processo Penal.
+Com efeito, o caso dispensa a demonstração de que a atuação da GCM se deu dentro de suas atribuições e finalidades institucionais, considerando que qualquer pessoa estaria legalmente autorizada a impedir a prática criminosa então levada a efeito pelas agentes. (e-STJ, fl. 108)
+Nesse sentido, a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FLAGRANTE DELITO REALIZADO POR GUARDAS MUNICIPAIS. SITUAÇÃO DE FLAGRANTE DELITO. ILEGALIDADE NÃO RECONHECIDA. MINORANTE DO TRÁFICO. ATOS INFRACIONAIS. GRAVIDADE DEMONSTRADA. PROXIMIDADE TEMPORAL COM O CRIME EM APURAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Conforme jurisprudência consolidada desta Corte Superior, não há falar em ilegalidade na prisão em flagrante realizada por guardas civis municipais. Consoante disposto no art. 301 do CPP, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito". (AgRg no HC n. 748.019/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022)
+2. No caso, os guardas civis municipais realizavam patrulhamento pelo local dos fatos, quando avistaram o agravante manuseando entorpecentes, em situação de flagrante, o que afasta a tese de ilicitude das provas.
+3. A Corte local demonstrou, nos termos do que preconiza a jurisprudência deste Tribunal, a gravidade dos atos infracionais pretéritos, quais sejam tráfico de drogas, bem como a razoável proximidade temporal de tais atos com o crime em apuração, praticado em 22/12/22, datando as medidas socioeducativas dos anos de 2021 e 2022.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 846.728/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023; grifou-se.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS. INOCORRÊNCIA. FLAGRANTE EVIDENCIADO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência dos Tribunais Superiores já sedimentou entendimento no sentido de que não há ilegalidade na prisão em flagrante realizada por guardas civis municipais, consoante disposto no art. 301 do CPP, segundo o qual "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito".
+2. Por outro lado, caso a guarda municipal ultrapasse os limites próprios da prisão em flagrante, como nas hipóteses em que for constatado o desenvolvimento de prévia atividade investigativa por parte dos respectivos agentes municipais, haverá o reconhecimento de ilegalidade.
+3. No caso em exame, a guarda municipal respeitou os limites estabelecidos, tendo avistado indivíduos em flagrante delito e, a partir dessa situação, empreendido esforços para abordá-los, não havendo manifesta ilegalidade quanto ao ponto.
+4. De acordo com o art. 312 do Código de Processo Penal, a custódia preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+5. A prisão preventiva do agravante lastreia-se no fundado receio de reiteração delitiva, uma vez que possui antecedentes criminais, de modo que, neste contexto, inviável a revogação da custódia cautelar.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 181.874/PR, deste relator, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023; grifou-se.)
+Finalmente, em que pese a argumentação de que a paciente faz jus à prisão domiciliar por ser mãe de filhos menores de 12 anos, cumpre registrar que a Defensoria não cuidou de fazer prova de sua alegação.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+A comprovação de que a acusada tem filhos menores é essencial para a análise do pedido de concessão da prisão domiciliar.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
