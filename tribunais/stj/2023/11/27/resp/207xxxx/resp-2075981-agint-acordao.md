@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. DIFERENÇA DE ALUGUEIS. VALORES PAGOS A MENOR DURANTE O PROCESSAMENTO DA AÇÃO REVISIONAL. NÃO OCORRÊNCIA DE PRESCRIÇÃO. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NA REVISIONAL.
+1. A exigibilidade de eventuais diferenças de alugueres, seja pelo locador, seja pelo locatário, ocorre após o trânsito em julgado da ação revisional. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+O acórdão recorrido tem a seguinte ementa:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE ALUGUERES - JUSTIÇA GRATUITA -AUNSÊNCIA DE ANÁLISE - PRESUNÇÃO DE DEFERIMENTO - PRESCRIÇÃO TRIENAL - ART. 206, § 3º, I DO CC - CONTAGEM DE PRAZO - SUSPENSÃO - CITAÇÃO VÁLIDA - ART.219 DO CPC/73 - TRÂNSITO EM JULGADO - DECISÃO DE RECURSO ESPECIAL PELO STJ - DECISÃO DE RECURSO EXTRAORDINÁRIO PELO STF - PREVALÊNCIA DA DATA POSTERIOR - PRESCRIÇÃO NÃO OCORRIDA - IMPOSSSIBILIDADE DE CONTINUAÇÃO DO JULGAMENTO PELO TRIBUNAL §§ 1º E 3º, DO ART. 1010 DO CPC - SENTENÇA ANULADA - DEVOLUÇÃO DOS AUTOS AO PRIMEIROGRAU DE JURISDIÇÃO - ANÁLISE DE DEMAIS QUESTÕES E SANEAMENTO - ART. 357 E INCISOS DO CPC - SENTENÇA ANULADA. Recurso conhecido e provido.
+(1)- Se há pedido de ingresso da demanda com a proteção da gratuidade, Implicitamente deve ser considerado como deferida a gratuidade da justiça, descabe surpreendendo a beneficiária, ignorar a realidade processual, o que leva ao conhecimento da apelação.
+(2)- A prescrição para ação de cobranças de alugueres é de três anos, a rigor do estabelecido no artigo 206, § 3º, inciso I, do Código de Processo Civil. Interposta a ação, feita a citação válida, suspenso está o prazo prescricional, na dicção do art. 219 do CPC/73 cuja substância é aplicada na espécie.
+(3)- Residindo RECURSO ESPECIAL e RECURSO EXTRAORDINÁRIO, julgado o primeiro junto ao STJ, não deve ser admitido como início do prazo prescricional o trânsito em julgado deste e sim o posterior que foi apreciado pelo STF. Consignando que da data da certidão do trânsito em julgado do Recurso Extraordinário pelo STF e a data da propositura da ação de cobranças de alugueres está dentro do triênio, não reside como acalentar a existência da prescrição.
+(4)- Afastada a prescrição, não estando a causa suficientemente madura a receber a decisão meritória pelo Tribunal, deve a sentença ser anulada por este e, por conseqüência, endereçado o processo para o primeiro grau de jurisdição para que seja cumprido o estabelecido no artigo 357, incisos e §§ do CPC, com o devido e necessário saneamento e prosseguimento nos ulteriores termos do estabelecido no ordenamento processual civil.
+A agravante alega que os precedentes citados na decisão agravada não se aplicam ao caso, pois neste não houve fixação de aluguel definitivo na ação revisional. Desse modo, não seria necessário o trânsito em julgado para a fluência da prescrição. Entende que, além disso, o acórdão é nulo em razão de omissão sobre pontos relevantes.
+Em sua impugnação, AUTO POSTO SÃO CHARBEL LTDA. afirma que a agravante deixa de considerar o disposto no caput do art. 69 da Lei 8.245/91, segundo o qual as diferenças devidas durante a ação de revisão, descontados os aluguéis provisórios satisfeitos, serão pagas com correção a partir do trânsito em julgado.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.075.981 - MT (2023/0180106-4)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+IPIRANGA PRODUTOS DE PETROLEO S.A.
+ADVOGADOS
+:
+RICARDO ZAMARIOLA JUNIOR - SP224324
+LUCIANO DE SOUZA GODOY - DF038681
+FLÁVIA JUNQUEIRA SOARES - SP299512
+GUSTAVO DE OLIVEIRA NAVARRO BOSONI - SP406478
+RICARDO ZAMARIOLA JUNIOR - DF061911
+LUCAS CHAVES DE ANDRADE PASSO - DF067045
+AGRAVADO
+:
+AUTO POSTO SAO CHARBEL LTDA
+ADVOGADO
+:
+AUGUSTO BARROS DE MACEDO - MT007667O
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. DIFERENÇA DE ALUGUEIS. VALORES PAGOS A MENOR DURANTE O PROCESSAMENTO DA AÇÃO REVISIONAL. NÃO OCORRÊNCIA DE PRESCRIÇÃO. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NA REVISIONAL.
+1. A exigibilidade de eventuais diferenças de alugueres, seja pelo locador, seja pelo locatário, ocorre após o trânsito em julgado da ação revisional. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI(Relatora): O agravo não prospera.
+De fato, o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Veja-se que nos embargos de declaração que opôs (fls. 414/422), a parte agravante pediu pronunciamento sobre o deferimento de justiça gratuita à agravada e sobre a prescrição, temas sobre os quais o acórdão embargado já havia tratado. Não há, pois, que se falar em contrariedade ao art. 1022 do CPC.
+Ademais, o entendimento exposto no acórdão recorrido não destoa da jurisprudência desta Corte quanto à necessidade do trânsito em julgado na ação revisional para o exercício do direito do locador de receber os alugueis que lhe são devidos. A propósito, confiram-se:
+RECURSO ESPECIAL. EXECUÇÃO DE CONTRATO DE LOCAÇÃO. EMBARGOS DO DEVEDOR. PRETENSÃO DOS LOCADORES DE EXIGIR OS ALUGUÉS VENCIDOS NO CURSO DO PROCESSO. VALOR DO ALUGUEL ESTABELECIDO EM AÇÃO REVISIONAL. OBRIGAÇÃO CERTA, LÍQUIDA E EXIGÍVEL. JULGAMENTO: CPC/73.
+1. Ação de embargos à execução ajuizada em 12/06/2007, da qual foi extraído o presente recurso especial, interposto em 06/12/2012 e atribuído ao gabinete em 26/08/2016.
+2. O propósito recursal é dizer sobre a possibilidade de inclusão, na execução em que oferecidos estes embargos do devedor, dos aluguéis vencidos no curso do processo, com base no valor da locação que foi fixado em ação revisional.
+3. Uma vez arbitrado o valor do aluguel - seja o provisório e/ou o definitivo - revela- se o crédito do locador certo quanto à sua existência, líquido quanto ao seu valor, bem como exigível, desde a citação na ação revisional.
+4. O arbitramento do aluguel provisório faz nascer, num primeiro momento, a obrigação do locatário de pagá-lo no vencimento, a partir da citação, e, por conseguinte, o direito do locador de exigi-lo, tão logo constatada eventual mora. E a fixação do aluguel definitivo em quantia inferior à do aluguel provisório, num segundo momento, faz surgir para o locatário o direito à repetição do indébito, relativamente às parcelas pagas depois da citação, ou à compensação da diferença com os aluguéis vincendos.
+5. A interpretação dada ao art. 69 da Lei 8.245/91 não pode se tal que prejudique o direito do locador de receber, desde logo, os aluguéis que lhe são devidos, condicionando o seu exercício ao trânsito em julgado da ação revisional.
+6. As diferenças às quais alude o art. 69 da mesma lei dizem respeito ao quanto o valor do aluguel provisório, cobrado antecipadamente, é maior ou menor que o valor do aluguel definitivamente arbitrado, resultando essa operação matemática de subtração em um crédito para o locador, se este for maior que aquele, ou para o locatário, na hipótese contrária.
+7. A eventual existência desse crédito, no entanto, não fulmina a pretensão dos locadores de executar os aluguéis devidos pela locatária desde a citação na ação revisional, tal qual decidiu o Tribunal de origem.
+8. Recurso especial conhecido e desprovido.
+(REsp n. 1.714.393/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/8/2019, DJe de 15/8/2019.)
+LOCAÇÃO. AÇÃO REVISIONAL. ARTIGO 69 DA LEI 8.245, DE 1991. DIFERENÇAS ENTRE ALUGUÉIS PROVISÓRIOS E DEFINITIVOS. EXIGIBILIDADE A PARTIR DO TRÂNSITO EM JULGADO. PRECEDENTES.
+1. A exigibilidade de eventuais diferenças de alugueres, seja pelo locador, seja pelo locatário, tem seu momento próprio na fase executiva da própria revisional.
+Precedentes.
+2. O fato de o aluguel provisório ser devido de imediato não afasta a regra definida no art. 69 da Lei n. 8.245/91.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 986.550/PR, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/10/2008, DJe de 19/12/2008.)
+LOCAÇÃO PREDIAL URBANA. DIFERENÇAS DE ALUGUERES. POSSIBILIDADE DE COBRANÇA NOS PROPRIOS AUTOS DE AÇÃO REVISIONAL. SOMENTE APOS O TRANSITO EM JULGADO DESTA ULTIMA. PRECEDENTE DA CORTE.
+1 - E LICITO AO LOCADOR EXECUTAR AS DIFERENÇAS DE ALUGUERES NOS PROPRIOS AUTOS DA AÇÃO REVISIONAL, ENTRETANTO, SOMENTE APOS O TRANSITO EM JULGADO DESTA ULTIMA. PRECEDENTE DA CORTE.
+2 - RECURSO ESPECIAL CONHECIDO.
+(REsp n. 93.980/SP, relator Ministro Fernando Gonçalves, Sexta Turma, julgado em 22/4/1997, DJ de 19/5/1997, p. 20688.)
+Com efeito, o art. 69 da Lei 8.245/91 dispõe expressamente que "as diferenças devidas durante a ação de revisão, descontados os alugueres provisórios satisfeitos, serão pagas corrigidas, exigíveis a partir do trânsito em julgado da decisão que fixar o novo aluguel"".
+No caso concreto, o Tribunal de origem observou que a cobrança foi feita no prazo trienal que teve início com o trânsito em julgado da última decisão proferida na ação revisional pelo Supremo Tribunal Federal. Do acórdão recorrido consta o seguinte (fl. 404):
+No caso dos autos, como bem fundamentou a sentença recorrida, a autora/apelante visou receber os alugueres (diferenças) correspondentes ao período de agosto de 2002 a fevereiro de 2004, período este que vigorou por decisão judicial em ação de revisão que tramitou na 8ª. Vara Cível da Comarca de Cuiabá e, ao final, foi julgada improcedente. Consta dos autos e nos termos vertidos na sentença, que, em sede recursal, o Colendo Superior Tribunal de Justiça, por ocasião do Recurso Especial n. 885799-MT- 2006/0147004-3, extinguiu este processo, sem julgamento do seu mérito, por ausência de citação do litisconsorte necessário.
+E, neste contexto, consignando que o trânsito em julgado da decisão proferida pelo colendo Superior Tribunal de Justiça teve o trânsito em julgado em data de 01/04/2014, ajuizando esta ação em data de 09/02/2018, em face da prescrição trienal estabelecida pelo artigo 206, § 3º, do Código Civil, exauriu o direito da pretensão material, por força do instituto da prescrição.
+A questão é simples e não comporta indagações mais aprofundadas sobre o tema.
+E, verificando os argumentos lançados na sentença, vejo que a magistrada de piso, não agiu com seu usual e costumeiro acerto. Isto porque, em que pesem tais fundamentos, no caso em apreço, não reside a prescrição.
+Deve ser visto, em primeiro plano que, conquanto o período de cobrança das diferenças dos alugueres seja de agosto de 2002 a fevereiro de 2004, existindo a ação revisional de alugueres de n. 159/2002, que tramitou perante a 8ª. Vara Cível, por força da citação válida, nos termos da parte final do artigo 219 do Código de Processo Civil de 1973, em relação ao prazo prescricional, do período acima, não corria. (suspensão expressamente prevista).
+Desta forma, correta a sentença quando admite a prescrição a partir do trânsito em julgado. Realmente, não mais residindo qualquer possibilidade de recurso em relação à mencionada ação revisional de alugueres (Processo 159/2002, 8ª. Vara Cível), o prazo prescricional, anteriormente suspenso por força da citação válida (art. 219 do CPC), começa a correr.
+Entretanto, no caso em comento, equivoca-se a magistrado de piso ao anotar como marco inicial o trânsito em julgado em relação ao Recurso Especial que tramitou perante o colendo Superior Tribunal de Justiça (n. 885799-MT- 2006/0147004-3,), em data de 01/04/2014, ajuizando esta ação em data de 09/02/2018, em face da prescrição trienal estabelecida pelo artigo 206, § 3º, do Código Civil.
+Desta forma, segundo penso, não agiu com acerto a fundamentação constante da sentença. Isto porque, residia em relação àquele processo (ação revisional) o RECURSO EXTRAORDINÁRIO que foi distribuído junto ao colendo SUPREMO TRIBUNAL FEDERAL em 01/07/2010, sendo este baixado no dia 12/05/2015, recebido neste Tribunal de Justiça em data de 23/02/2015.
+Por tais aspectos, o recurso de agravo de instrumento distribuído neste Tribunal e que se encontrava sobrestado, segundo penso, ainda pendente de apreciação do Recurso Extraordinário n. 807.111 junto ao STF e, em relação a esta situação, somente decorreu trânsito em julgado no dia 09/02/2002, conforme se vê às fls.
+1.582 dos autos, TJMT n. 1576, transcrito nas razões recursais. (ID- 92134513).
+Constam dos autos que a ação foi distribuída em data de 09/02/2018. Assim, na contagem do prazo, excluindo o dia do inicio (09/02/2015) e incluindo o dia final, constata-se que o ajuizamento da lide (09/02/2015), se aplicando a prescrição trienal foi ajuizado no seu liminar e, portanto, mesmo na aplicação da prescrição, a meu ver, não está registrado nos autos a perda do exercício da ação, prescrição não ocorrida.
+(..) No caso dos autos, interposto o RECURSO EXTRAORDINÁRIO (807.111), o Relator, Ministro DIAS TOFFOLI, em data de 09/08/2012, o suspendeu, até o esgotamento de jurisdição do colendo Superior Tribunal de Justiça, esta registrando com o trânsito em julgado, em data de 01/04/2014. Sobrestamento significa suspensão do RECURSO EXTRAORDINÁRIO em todos os seus termos e, se suspenso, depende de situação futura a incerta para o desate daquele recurso junto ao STF. (ID-92134513) E, neste aspecto, o RECURSO EXTRAORDINÁRIO, segundo a decisão monocrática do Relator Ministro DIAS TOFOLLI, em data de 03/novembro/2014, não se registrou qualquer situação de descabimento formal do mesmo ou interposição com cunho protelatório. O que registrou naquela decisão foi que:
+Conforme o relatado, o processo que deu ensejo a interposição do recurso extraordinário foi extinto pelo Superior Tribunal de Justiça, o que torna prejudicado o apelo extremo e, por consequência, o presente agravo de instrumento. Isto é, perda superveniente de objeto.
+Neste contexto, estando o feito sobrestado, não se tendo ideia do que seria apreciado pelo STF em face do acontecido anteriormente junto ao STJ, não vejo como retroagir a data prescricional a partir do trânsito em julgado da decisão do Tribunal da Cidadania e, neste contexto, respeitando posicionamentos contrários, deve ser visto o trânsito em julgado em relação ao julgamento do PRETÓRIO EXCELSO, o que não se registrou, conforme já trazido nas fundamentações expostas linhas anteriores.
+Acrescente-se que, de fato, dá-se o trânsito em julgado quando se torna definitiva a decisão judicial, seja quando não é cabível recurso, seja quando esgotado o prazo para os recursos cabíveis, seja, ainda, quando há a prática de ato da parte incompatível com o desejo de recorrer. No caso, conforme o delineamento fático feito no acórdão recorrido, havia a pendência de julgamento de recurso extraordinário, o qual poderia, em tese, resultar em modificação do que decidido em recursos anteriores. Não havia, portanto, o trânsito em julgado e, desse modo, não é possível considerar, como pretende a recorrente, que o termo inicial da prescrição se deu em data anterior.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
