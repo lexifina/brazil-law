@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL LTDA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Ação: de obrigação de fazer c/c indenização por danos materiais ajuizada por THERMOCENTER ENGENHARIA E INSTALAÇÕES LTDA em face da recorrente, em razão de alegado reajuste das mensalidades devidas pelos beneficiários do plano de saúde coletivo que completaram 60 (sessenta) anos.
+Sentença: julgou parcialmente procedente o pedido, para "declarar nula cláusula de reajuste do preço no plano de saúde contratado entre as partes que tem por fundamento a mudança de faixa etária do autor, consumidor" (e-STJ, fl. 290).
+Acórdão: negou provimento à apelação interposta pela recorrente e deu parcial provimento à apelação da recorrida, nos termos da seguinte ementa:
+PLANO DE SAÚDE - Controvérsia acerca de reajuste por mudança de faixa etária aplicado quando beneficiárioscompletaram60 (sessenta)anos- Ação julgada parcialmente procedente pelo douto magistrado a quo, que declarou nula a cláusula de reajuste em razão da idade - Em acórdão proferido anteriormente, restou mantidaa declaração da nulidade da cláusula em comento, impondo-se, ainda, a restituição dos valores pagos a maior, respeitada a prescrição trienal - Retorno dos autos par a reapreciação da presente apelação no tocante à necessidade de apuração de percentual substituto de majoração - Hipótese em que deve permanecer inalterado o resultado do acórdão anterior - Não há que se cogitar da apuração de qualquer outro índice de reajuste por mudança de faixaetária no presente caso, pois não se trata de abusividade do percentual em si e sim de total impossibilidade de incidência de aumento a esse título em face dos beneficiários em questão - Por consequência, deve ser mantidoo resultado do acórdão anterior: DOS RECURSOS, PARCIALMENTE PROVIDOO DA AUTORA E NÃO PROVIDO O DA RÉ.
+Embargos de declaração: opostos pela recorrente, foram rejeitados pela Corte de origem.
+Recurso especial: alega violação dos arts. 927, III, 1.022 e 1.039 do CPC. Aduz que o acórdão recorrido é omisso acerca do argumento segundo o qual, uma vez reconhecida a abusividade do reajuste, o novo reajuste deve ser apurado na fase de liquidação de sentença. No mérito, defende que, na linha do decidido pelo STJ, o percentual adequado e razoável de majoração da mensalidade em virtude da inserção do consumidor na nova faixa de risco deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença.
+Decisão de admissibilidade: o TJ/SP admitiu o recurso especial, determinando a remessa dos autos a esta Corte.
+É O RELATÓRIO. DECIDO.
+1. DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+É firme a jurisprudência desta Corte no sentido de que "não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (REsp 1.995.565/SP, Terceira Turma, DJe 24/11/2022; AgInt nos EDcl no AREsp 1.844.912/DF, Quarta Turma, DJe 18/4/2022).
+Na hipótese dos autos, todavia, o Tribunal de origem se manifestou expressamente sobre o assunto, tendo decidido que:
+(..) essa apuração de percentual substituto por meio de cálculos atuariais na fase de cumprimento de sentença é cabível exclusivamente na hipótese de o reconhecimento da abusividade recair sobre o índice aplicado e não sobre a majoração propriamente dita.
+Neste sentido, o acórdão de fls. 353/358 é expresso ao reconhecer que, no presente caso, a ilicitude está na aplicação do reajuste por mudança de faixa etária propriamente dito, ante a total vedação de incidência de qualquer percentual de aumento a esse título quando os beneficiários mencionados na petição inicial completaram 60 (sessenta) anos.
+Exigível, portanto, o afastamento integral do índice aplicado, sem substituição por qualquer outro, sob pena de haver reajuste em hipótese na qual a majoração em si não era admissível. (e-STJ, fl. 490)
+Portanto, não há violação ao art. 1.022, II, do CPC.
+2. DA DEFINIÇÃO DO ÍNDICE DE REAJUSTE MEDIANTE CÁLCULOS ATUARIAIS.
+A decisão recorrido, quanto à declaração de abusividade do reajuste praticado na hipótese, consignou que o decidido está de acordo com a orientação do Superior Tribunal de Justiça no julgamento do Tema 952.
+No entanto, ao extirpar o reajuste aplicado pela operadora do plano de saúde sem determinar a sua substituição, o acórdão recorrido contrariou a jurisprudência desta Corte Superior, segundo a qual, uma vez verificada a abusividade do reajuste aplicado, o valor adequado deve ser apurado em sede de liquidação de sentença.
+Se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do beneficiário, para não haver desequilíbrio contratual, faz-se necessária a apuração de percentual adequado e razoável de majoração da mensalidade, o que deverá ser feito por meio de cálculos atuariais.
+Nesse sentido: AgInt no REsp n. 1.898.558/SP, Terceira Turma, DJe de 18/8/2021; REsp 1.568.244/RJ, Segunda Seção, DJe de 19/12/2016; EDcl no AgInt no AREsp 1138813/RS, 3ª Turma, DJe de 18/06/2018; AgInt no AREsp 512.230/SP, 4ª Turma, DJe de 21/11/2017; e REsp 1.673.366/RS, 3ª Turma, DJe de 21/08/2017.
+Impõe-se, portanto, a reforma do acórdão recorrido nesse ponto.
+3. DISPOSITIVO.
+Forte nessas razões, com fundamento na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para determinar que a definição do percentual de reajuste seja definido por meio de cálculos atuariais na fase de liquidação de sentença.
+Ante o resultado do julgamento, deixo de aplicar o disposto no art. 85, § 11, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REAJUSTE POR FAIXA ETÁRIA. DEFINIÇÃO DO NOVO ÍNDICE MEDIANTE CÁLCULOS ATUARIAIS. NECESSIDADE.
+1. Ação de obrigação de fazer c/c indenização por danos materiais.
+2. O Tribunal de origem se manifestou expressamente acerca da alegação apontada como não examinada pela recorrente, de modo que não há violação do art. 1.022 do CPC.
+3. Reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do beneficiário, para não haver desequilíbrio contratual, é necessária a apuração de percentual adequado e razoável de majoração da mensalidade, o que deverá ser feito por meio de cálculos atuariais em sede de liquidação de sentença. Precedentes.
+3. Recurso especial conhecido e parcialmente provido.
