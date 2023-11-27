@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA.
+1. É firme a jurisprud ência desta Corte Superior no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado ou interpretado de maneira divergente pelo Tribunal de origem implica deficiência de fundamentação no recurso especial, hipótese que impõe a incidência do óbice da Súmula 284 do STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUCIMARA PEREIRA GABRIEL contra a decisão da Presidência desta Corte, às e-STJ fls. 632/633, que não conheceu do recurso ante a incidência da Súmula 284 do STF.
+A parte agravante sustenta que "não merece ser aplicada a Súmula 284 do Egrégio Supremo Tribunal Federal no caso concreto, visto que houve a demonstração, de forma clara e precisa, do dispositivo de lei federal (§ 3º do art. 50 da Lei Federal 6.880/80, sem as alterações dadas pela Lei n. 13.954/2019) em que há demonstrado dissídio jurisprudencial" (e-STJ fl. 642).
+Sem impugnação (e-STJ fl. 651).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA.
+1. É firme a jurisprud ência desta Corte Superior no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado ou interpretado de maneira divergente pelo Tribunal de origem implica deficiência de fundamentação no recurso especial, hipótese que impõe a incidência do óbice da Súmula 284 do STF.
+2. Agravo interno desprovido.
+VOTO
+Conforme estabelecido na decisão agravada, observo, em relação à insurgência que, na espécie, incide o óbice da Súmula 284 do STF, tendo em vista que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados.
+Ressalto, a propósito, que a transcrição dos citados dispositivos, nas razões do recurso especial, não supre a deficiência argumentativa do apelo extremo, porquanto cabe ao recorrente mencionar, de forma inequívoca, os motivos pelos quais a interpretação dada pelo acórdão impugnado viola os preceitos legais eventualmente mencionados ou nega-lhes vigência. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284 DO STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+2. "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/6/2018).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1.559.881/SC, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 27/02/2020) (Grifos acrescidos).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA DE CONTROLE DE PRODUÇÃO DE BEBIDAS - SICOBE. RESSARCIMENTO DO CUSTO DO SISTEMA À CASA DA MOEDA. NATUREZA TRIBUTÁRIA. TAXA. FIXAÇÃO DA ALÍQUOTA E BASE DE CÁLCULO POR ATO INFRALEGAL. VIOLAÇÃO DO ART. 28, § 4º, DA LEI 11.488/07. PROPORCIONALIDADE À CAPACIDADE PRODUTIVA IMPOSTA PELA LEI. NÃO OBSERVÂNCIA. ALEGAÇÃO DE AFRONTA AO ART. 97 DO CTN. PRINCÍPIO DA LEGALIDADE. MATÉRIA INSUSCETÍVEL DE EXAME EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. TESE DEFENDIDA APENAS NAS (e-STJ Fl.90) RAZÕES DE AGRAVO INTERNO. PRECLUSÃO. DECISÃO MONOCRÁTICA DO RELATOR. ART. 932, III E IV, DO CPC/2015. CONFIRMAÇÃO PELO COLEGIADO. EVENTUALNULIDADE. SUPERAÇÃO. HONORÁRIOS. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF.
+ ..
+4. Quanto ao tema da exorbitância do valor fixado a título de honorários advocatícios, a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência do mencionado verbete nº 284 da Súmula do STF. Precedentes: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 6/8/2010.
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento. (AgInt nos EDcl no AREsp 1.700.429/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 29/04/2021) (Grifos acrescidos).
+Além disso , a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Nesse panorama, a hipótese é, também, de incidência da Súmula 284 do STF. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MAJORAÇÃO DOS VALORES FIXADOS A TÍTULO POR DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. INCIDÊNCIA DA SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO FOI ANAL DEMONSTRADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+ ..
+2. Não é possível conhecer do Recurso Especial fundado no art. 105, III, alínea c da CF, uma vez que a parte recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do STF, por analogia.
+ ..
+4. Agravo Interno do Particular a que se nega provimento. (AgInt no REsp 1.848.965/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 09/10/2020).
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. EMBARGOS JULGADOS IMPROCEDENTES. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. BASE DE CÁLCULO. FUNDAMENTO E LEI LOCAL. APLICAÇÃO DA SÚMULA N. 280 DO STF. JUROS MORATÓRIOS. INCIDÊNCIA SOBRE A MULTA FISCAL. LEGITIMIDADE. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284.
+ ..
+VIII - No tocante ao dissídio jurisprudencial, verifica-se que, conforme a previsão do art. 255, § 1º, do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+IX - Observa-se que o recorrente não aponta qual o dispositivo infraconstitucional teria sido objeto de interpretação divergente pelos julgados em confronto, desbordando da previsão contida no art. 105, III, c, da Lex Mater, o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça. Nesse mesmo sentido, confiram-se: (AgInt no REsp n. 1.581.326/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/2/2017, DJe 3/3/2017, AgRg no AREsp n. 484.048/PB, Rel. Min. Assusete Magalhães, DJe 3/9/2014 e AgInt no AREsp n. 895.772/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/3/2017, DJe 13/3/2017).
+X - Agravo interno improvido. (AgInt no REsp 1.751.512/MG, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 22/10/2020).
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
