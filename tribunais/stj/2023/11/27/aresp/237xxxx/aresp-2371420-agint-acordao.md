@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. REJEIÇÃO À IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de agravo de instrumento contra a decisão que rejeitou a impugnação ao cumprimento de sentença ante o não reconhecimento da prescrição alegada. No Tribunal a quo, negou-se provimento ao recurso.
+II - Aplicável o óbice do enunciado n. 284 da Súmula do STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+IV - Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, assim resumido:
+AGRAVO INTERNO PREJUDICADO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REAJUSTE DE POLICIAL MILITAR. PRESCRIÇÃO. INOCORRÊNCIA. INCORPORAÇÃO À REMUNERAÇÃO. MATÉRIA DE MÉRITO. NECESSÁRIA OBSERVÂNCIA AOS LIMITES DO TÍTULO JUDICIAL. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Ao contrário do que restou sustentado na decisão ora agravada, as razões recursais demonstram, de forma adequada e efetiva, o desacerto do acórdão proferido pelo Tribunal local, e impugna especificamente os fundamentos do aresto recorrido, não havendo que se falar na incidência do óbice estabelecido pela Súmula 284/STF.
+Nas razões do recurso especial de fls. 607-612, e-STJ, todavia, o recorrente deixou clara a impugnação adequada dos fundamentos adotados pelo Tribunal local para negar provimento ao apelo do ente federativo, bem assim demonstrou o motivo pelo qual o acórdão combatido merece ser reformado, dada a patente prescrição da pretensão executória, conforme norma contida no artigo 1ºdo Decreto Federal 20910/32.
+ ..
+O Recurso Especial combateu de forma adequada e suficiente os fundamentos utilizados no Acórdão proferido pelo Tribunal de Justiça local e assim não incidiria o óbice a súmula 284, sendo o recurso suficientemente fundamentado, não havendo o que se falar em insuficiência da fundamentação do reclamo.
+Nesse contexto, nítida é a inadequação da decisão singular proferida, porquanto aplicou teor de súmula que não incide no caso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. REJEIÇÃO À IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de agravo de instrumento contra a decisão que rejeitou a impugnação ao cumprimento de sentença ante o não reconhecimento da prescrição alegada. No Tribunal a quo, negou-se provimento ao recurso.
+II - Aplicável o óbice do enunciado n. 284 da Súmula do STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+IV - Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O acórdão recorrido assim decidiu:
+Portanto, não se vislumbra plausibilidade na alegação de prescrição, tendo em vista que os atos de execução do acórdão foram iniciados há bem mais de uma década, quando então as partes firmaram acordo, o qual não fora cumprido pelo Estado.
+Cumpre destacar, ainda, que durante esse prazo, sobrevieram questões acerca da forma e juízo competente para processamento da execução.
+Ademais, no bojo do MS nº. 50001124220098270000, por meio do OF. PGE/GAB nº 8526/2020, de 08.10.20, houve reconhecimento da pretensão militar, com compromisso de pagamento (fl. 497).
+Aplicável o óbice do enunciado n. 284 da Súmula do STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
