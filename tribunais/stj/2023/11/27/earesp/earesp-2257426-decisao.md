@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos em face do v. acórdão da Terceira Turma desta Corte Superior, cuja ementa ficou assim definida:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Cabe à parte recorrente, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC/2015.
+2. Agravo interno desprovido.
+Irresignada, a parte interpôs embargos de divergência, indicando como paradigma o acórdão proferido no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.052.980 - SP, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE.
+1. O agravo interno impugnou, de modo específico, os fundamentos da decisão agravada, motivo pelo qual merece conhecimento.
+2. In casu, o agravo em recurso especial enfrentou os fundamentos da decisão de inadmissibilidade, pelo que deve ser conhecido para se prosseguir na análise do recurso especial.
+3. Agravo interno provido.
+Alega, em síntese (fl. 315):
+(..) no acórdão embargado decidiu-se em negar provimento ao Agravo Interno, Enquanto no acórdão Paradigma se deu provimento ao Agravo Interno, indicando de forma cirúrgica que houve a escorreita impugnação da decisão de inadmissibilidade.
+Ao final, pugna pelo conhecimento e provimento do presente recurso.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso em comento, verifica-se patente a inadmissibilidade do recurso.
+Com efeito, "para que se configure o dissídio jurisprudencial é indispensável que os julgados confrontados revelem soluções distintas extraídas das mesmas premissas fáticas e jurídicas" (AgRg nos EREsp 1.202.436/RS, Rel. Ministro Teori Albino Zavaski, DJe 10/02/2012).
+De fato, o recurso não comporta admissibilidade, seja pela incidência do enunciado n. 315 da Súmula do STJ, tendo em vista que sequer foi conhecido o recurso especial; seja pela falta de cotejo analítico entre os casos em confronto; seja, pela falta de similitude fática; seja, ainda, pela aplicação do enunciado n. 167 da Súmula do STJ, uma vez que o acórdão vergastado esta em acordo com a jurisprudência firmada nesta Corte Superior.
+Verifica-se, de início, que o órgão fracionário sequer apreciou o mérito recursal, não tendo conhecido do recurso de agravo em recurso especial devido à falta de impugnaçao específica dos fundamentos da decisão de inadmissibilidade (Enunciado n. 182 da Súmula do STJ).
+Aplica-se o disposto no enunciado n. 315, da Súmula do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Neste sentido:
+PROCESSUAL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. CONTROVÉRSIA NÃO DEBATIDA NO ACÓRDÃO APONTADO COMO PARADIGMA. SÚMULA 315 DO STJ.PRETENSÃO DE REDISCUSSÃO DE REGRA TÉCNICA DE CONHECIMENTO DO RECURSO ESPECIAL. INVIABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA.
+1. Os embargos de divergência pressupõem a similitude fático-jurídica entre os julgados confrontados, com a menção de pontos que identifiquem ou aproximem os acórdãos paragonado e paradigma.
+2. No caso, o acórdão apontado como paradigma não debate o mérito da controvérsia trazida à baila, porquanto não conheceu do agravo interno devido ao óbice da Súmula 182 do STJ. Nos termos do enunciado da Súmula 315 do STJ, aplicável por analogia: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. A jurisprudência desta Corte não admite a oposição de embargos de divergência para rediscutir regras técnicas de conhecimento do recurso especial.
+4. Não caracterizada a similitude fático-jurídica entre os acórdãos embargado e paradigma, inexiste configuração da divergência jurisprudencial, como exige o art. 266, § 1º, c/c o art. 255, § 2º, do RISTJ. Agravo interno improvido (AgInt nos EDcl nos EAREsp n. 763.260/SP, Corte Especial, Rel. Min. Humberto Martins, DJe 5/4/2017).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA N.º 315 DO STJ. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão embargado foi no sentido de desprover o agravo regimental, mantendo a decisão do Relator que negou provimento ao agravo em recurso especial, em razão da ausência de prequestionamento e da aplicação das Súmulas n.º 284 do STF e 07 do STJ.
+2. Incidência da Súmula n.º 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+3. Agravo interno desprovido" (AgInt nos EAREsp 635.823/TO, Corte Especial, Relª. Minª. Laurita Vaz, DJe 19/09/2016).
+Ademais, ainda que assim não fosse, o recurso também não comporta conhecimento, ante a ausência do necessário cotejo analítico. Não foi realizado o comparativo entre os julgados proferidos, na forma do art. 266, § 4º, do RI/STJ.
+Não basta para o atendimento do requisito a mera transcrição de trechos esparsos e da ementa dos julgados que entende ser divergente, é necessária a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos específicos dos acórdãos que configuram o dissídio, em comparação com o acórdão recorrido, com a clara indicação das circunstâncias que identificam ou assemelham os casos confrontados, o que torna inviável a apreciação da divergência.
+Nesse sentido:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. CUSTAS INICIAIS. INTIMAÇÃO PESSOAL. DESNECESSIDADE. SÚMULA 168/STJ. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA NÃO DEMONSTRADA.
+1. A divergência não foi caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, é insuficiente à comprovação do dissídio jurisprudencial invocado.
+2. Ademais, ainda que a divergência fosse notória, esta Corte tem entendimento de que não há dispensa do cotejo analítico, a fim de demonstrar a divergência entre os arestos confrontados. Precedente.
+ ..
+Agravo interno improvido. (AgInt nos EAREsp 261.239/MT, Corte Especial, Rel. Min. Humberto Martins, DJe 30/08/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA. NÃO DEMONSTRADA. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. Agravo interno não provido. (AgInt nos EAREsp 992.733/SP, Corte Especial, Rel. Min. Nancy Andrighi, DJe 04/12/2017)
+E, de fato, ainda que deficiente o referido cotejo analítico, é possível perceber a ausência de similitude fática, já que os paradigmas referem-se a situações distintas.
+No acórdão recorrido, conheceu-se do agravo interno, mas negou-se-lhe provimento, confirmando a decisão da Presidência, que não conheceu do agravo em recurso especial, por afronta ao enunciado n. 182 da Súmula do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Já, no acórdão apontado como paradigma, também se conheceu do agravo, mas houve o provimento, porque considerado que, naquele caso, houvera o regular enfrentamento dos fundamentos da decisão de inadmissibilidade do recurso especial, na origem.
+Por fim, a posição adotada no acórdão embargado está em consonância com o entendimento que se firmou neste Superior Tribunal de Justiça, justamente no sentido de que é necessária a impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial (na origem), para que seja conhecido, e eventualmente provido, o agravo em recurso especial, entendimento que está contido no teor do Enunciado n. 182 da Súmula do STJ, o qual faz referência ao antigo artigo 545 do Código Busaid, reiterado no Código Fux, nos artigos 932, III e 1.021, §1º, além do artigo 253, parágrafo único, I do RI/STJ.
+Neste sentido, por todos:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Advirta-se que o manejo de recurso manifestamente inadmissível ou infundado, poderá ensejar aplicação de multa por litigância de má-fe.
+Publique-se. Intimem-se.
+EMENTA
