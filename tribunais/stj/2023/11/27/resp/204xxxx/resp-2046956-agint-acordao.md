@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRECLUSÃO PRO JUDICATO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. O STJ entende que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional.
+2. A revisão do entendimento do aresto hostilizado no tocante à existência de decisum não recorrido nos autos principais (cumprimento de sentença) em que rechaçado anterior pleito de fixação de verba honorária esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatória dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por DALVA TEREZINHA CARVALHO contra decisão de minha lavra, proferida às e-STJ fls. 203/206, em que não conheci do recurso especial em virtude da incidência das Súmulas 7 e 83 do STJ.
+Aduz a parte agravante, em síntese, a inaplicabilidade dos óbice sumulares aludidos, bem como reitera a tese lançada no apelo nobre.
+Requer, assim, a reforma da decisão atacada para que seja provido o recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRECLUSÃO PRO JUDICATO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. O STJ entende que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional.
+2. A revisão do entendimento do aresto hostilizado no tocante à existência de decisum não recorrido nos autos principais (cumprimento de sentença) em que rechaçado anterior pleito de fixação de verba honorária esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatória dos autos.
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Consoante explicitado no decisum ora recorrido, "esta Corte tem entendido que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional" (AgInt no AREsp 2.146.637/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022.).
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELO JUÍZO. AUSÊNCIA DE RECURSO. PRECLUSÃO PRO JUDICATO CARACTERIZADA. IMPOSSIBILIDADE DE MODIFICAÇÃO POSTERIOR DA VERBA HONORÁRIA.
+1. As matérias que foram decididas em juízo não podem ser reexaminadas pelo mesmo magistrado, uma vez caracterizada a preclusão pro judicato, segunda a qual nenhum juiz decidirá novamente as questões já decididas, relativas à mesma lide (art. 471 do CPC/73).
+2. Na hipótese dos autos, o critério de fixação dos honorários advocatícios restou firmado na primeira decisão proferida em sede de cumprimento de sentença, contra a qual não houve interposição de qualquer recurso, de modo que a questão se encontra, irremediavelmente, preclusa para o magistrado.
+3. Ressalta-se que a retificação perpetrada pelo juízo de origem tampouco se insere nas hipóteses nas quais autorizada a modificação, de ofício, das decisões judiciais anteriormente proferidas, motivo pelo qual deve ser restaurado o primeiro pronunciamento judicial efetivado nos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.762.810/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/10/2021, DJe de 22/10/2021.).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DECRETAÇÃO DE NULIDADE DE VENDA DE IMÓVEIS. PRESCRIÇÃO RECONHECIDA, PELO JUÍZO DE 1º GRAU. SENTENÇA ANULADA, PELO TRIBUNAL DE ORIGEM. ALEGADA OFENSA AOS ARTS. 489, § 1º, IV E 1.022, II, DO CPC/2015. INEXISTÊNCIA. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. PRELIMINAR DE PRESCRIÇÃO. NOVO ENFRENTAMENTO, PELO JUÍZO DE 1º GRAU, DA QUESTÃO. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA. ACÓRDÃO DE 2º GRAU EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE O ACÓRDÃO PARADIGMA E O ACÓRDÃO RECORRIDO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Apelação interposta contra sentença que julgou extinta, nos termos do art. 487, I, do CPC/2015, a ação civil pública ajuizada pelo Ministério Público do Estado de Minas Gerais em face do Município de Tiradentes e de Dalma Fernandes Ferreira, posteriormente substituída por seu espólio, reconhecendo a prescrição da pretensão de anulação dos atos de alienação dos imóveis descritos na inicial e da pretensão alternativa de condenação da ré ao pagamento das diferenças entre o valor pago pelos imóveis e seu valor real. O Tribunal de origem decretou a nulidade da sentença, determinando o retorno dos autos ao Juízo de origem, para que nova sentença seja proferida, sem adentrar no exame das questões preliminares já examinadas e rejeitadas no curso do processo.
+III. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à inexistência de ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC/2015 -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+IV. No caso, segundo exposto no acórdão recorrido, o juiz de 1º Grau já havia afastado a alegação de prescrição em decisão interlocutória, a qual fora objeto de recurso para as instâncias superiores, tendo sido mantida a decisão. Nesse contexto, concluiu o Tribunal de origem que "a sentença, ao reconhecer a prescrição antes afastada, violou as decisões desta 4ª. Câmara Cível e do Superior Tribunal de Justiça, bem como a coisa julgada que recaiu sobre a primeira decisão, o que torna clara a sua nulidade".
+V. O acórdão recorrido encontra-se em conformidade com a jurisprudência do STJ, segundo a qual "mesmo as matérias de ordem pública estão sujeitas à preclusãopro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional" (STJ, AgInt no REsp 1.293.854/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 30/10/2019). No mesmo sentido: STJ, AgInt no REsp 1.595.313/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/08/2020; AgInt nos EDcl no REsp 1.617.234/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 10/12/2019; AgInt no AREsp 911.542/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 24/05/2018;
+AgInt no REsp 1.841.515/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 28/08/2020.
+VI. Segundo a jurisprudência do STJ, "o recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal" (AgInt no AREsp 1.518.371/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 15/05/2020), hipótese inocorrente no presente caso, o que evidencia ausência de similitude fática entre o acórdão paradigma e o acórdão recorrido.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 1.418.845/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/3/2022, DJe de 30/3/2022.).
+O aresto hostilizado não diverge da orientação aludida.
+Assim, aplica-se, na hipótese, a Súmula 83 do STJ.
+Ademais, registrou a Corte de Justiça a existência de decisão não recorrida nos autos principais (cumprimento de sentença) em que rechaçado anterior pleito de fixação de verba honorária (e-STJ fl. 75).
+Verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Por fim, "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+A nte o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
