@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRABALHO EXTERNO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. AUSÊNCIA DO REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A concessão da saída temporária para o trabalho externo do preso em cumprimento de pena definitiva em regime inicialmente semiaberto depende do cumprimento de requisitos objetivos e subjetivos a serem avaliados pelo Juízo das execuções no curso do cumprimento da pena.
+3. No caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, mormente quando ressaltam que a autorização de trabalho externo seria, na hipótese , prematura diante das peculiaridades do caso concreto, pois o paciente é indicado como uma das lideranças da facção criminosa Chelsea, que, por sua vez, relaciona-se à organização criminosa Primeiro Grupo Catarinense.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de Abel Gonçalves Pereira contra a decisão que denegou o habeas corpus interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Nas razões do agravo, reitera a defesa os mesmos fundamentos aduzidos na inicial, no sentido de que o agravante reúne todos os requisitos exigidos para o deferimento do trabalho externo.
+Requer o conhecimento e provimento do presente agravo regimental ou pugna "para que, ex officio, se verifique a possibilidade de requer ao Juiz da Vara de Execuções Penais acerca da expedição de ofício à administração prisional, a fim de que proceda com uma nova avaliação por parte da Gerência Laboral e da Chefia de Segurança para novas deliberações em Juízo." (fl. 173.)
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRABALHO EXTERNO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. AUSÊNCIA DO REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A concessão da saída temporária para o trabalho externo do preso em cumprimento de pena definitiva em regime inicialmente semiaberto depende do cumprimento de requisitos objetivos e subjetivos a serem avaliados pelo Juízo das execuções no curso do cumprimento da pena.
+3. No caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, mormente quando ressaltam que a autorização de trabalho externo seria, na hipótese , prematura diante das peculiaridades do caso concreto, pois o paciente é indicado como uma das lideranças da facção criminosa Chelsea, que, por sua vez, relaciona-se à organização criminosa Primeiro Grupo Catarinense.
+4. Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Nas razões do agravo, reitera a defesa os mesmos fundamentos aduzidos na inicial, no sentido de que o agravante reúne todos os requisitos exigidos para o deferimento do trabalho externo.
+Sobre o tema, a concessão da saída temporária para o trabalho externo do preso em cumprimento de pena definitiva em regime inicialmente semiaberto depende do cumprimento de requisitos objetivos e subjetivos a serem avaliados pelo Juízo das execuções no curso do cumprimento da pena.
+Conforme consignado na decisão ora combatida, no caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, mormente quando ressaltam que a autorização de trabalho externo seria, na hipótese, prematura diante das peculiaridades do caso concreto, pois o paciente é indicado como uma das lideranças da facção criminosa Chelsea, que, por sua vez, relaciona-se à organização criminosa Primeiro Grupo Catarinense. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO AOS ARTS. 122, 123 E 124 DA LEP. SAÍDA TEMPORÁRIA PARA VISITAÇÃO AO LAR. REGIME SEMIABERTO. DIREITO SUBJETIVO. INEXISTÊNCIA. INCOMPATIBILIDADE COM OS OBJETIVOS DA PENA. REVISÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO.
+1. Esta Corte Superior entende que o benefício da saída temporária para visitação ao lar não constitui direito subjetivo dos apenados inseridos no regime semiaberto, devendo a mencionada benesse ser avaliada pelo Juízo Executório com base no cumprimento dos requisitos objetivos e subjetivos estabelecidos pelo art. 123 da LEP, dentre os quais a compatibilidade com os objetivos da pena. Precedentes.
+2. In casu, embora o apenado tenha cumprido com o requisito objetivo, bem como ter apresentado bom comportamento carcerário, considerou o magistrado singular que a concessão do benefício pleiteado não se mostraria adequada para a continuidade do processo de ressocialização.
+3. Entendendo o Tribunal de origem que o deferimento das saídas temporárias para visitação ao lar não se adequavam ao processo de ressocialização do apenado, descabe a esta Corte Superior, por meio do julgamento de recurso especial, desconstituir tais fundamentos, ante a necessidade de revolvimento fático-probatório vedado pelo teor da Súmula 7/STJ. Precedentes.
+4. Agravo improvido" (AgRg no REsp n. 1.723.818/RO, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 29/08/2018).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRABALHO EXTRAMUROS. CUMPRIMENTO DE PENA EM REGIME SEMIABERTO. DESCONSTITUIÇÃO DA CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE.
+1. É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a concessão de trabalho externo ao preso, uma vez que tal providência implica o reexame do conjunto fático/probatório dos autos, procedimento incompatível com os estreitos limites da via eleita.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 286.503/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/8/2016, DJe de 12/8/2016.)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PROGRESSÃO PARA O REGIME SEMIABERTO. VISITA PERIÓDICA AO LAR. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 123, III, DA LEI N. 7.210/1984. ANÁLISE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. É pacífico o entendimento de que o fato de o apenado ter progredido para o regime semiaberto não lhe assegura o direito à visitação periódica ao lar. O Tribunal de origem apresentou fundamentos suficientes para manter a decisão do Juízo da execução concluindo pela sua prematuridade.
+2. O exame do preenchimento dos requisitos subjetivos pelo sentenciado, estabelecidos no art. 123 da Lei de Execução Penal, não pode ser analisado em via estreita do writ, por demandar análise fático-probatória.
+3. Recurso ordinário não provido (RHC n. 55.326/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 21/03/2016).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
