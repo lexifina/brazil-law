@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO QUE NÃO ATACA, DE FORMA ESPECÍFICA, FUNDAMENTO DA DECISÃO AGRAVADA.
+1. Não se conhece do agravo interno quando este deixa de atacar, especificamente, fundamento da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ABELINA AMELIA FERREIRA contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. REJEIÇÃO À IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. SÚMULA Nº 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+No presente recurso, sustenta-se que
+os honorários advocatícios são devidos não necessariamente pela rejeição da Impugnação, mas sim por ter a executada ofertado resistência a fase de cumprimento de sentença, o que atrai o arbitramento de honorários advocatícios em favor dos patronos dos exequentes, ora agravantes, nos termos do artigo 85, § 1º e § 7º do Código de Processo Civil, frise-se, independentemente do resultado da Impugnação.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO QUE NÃO ATACA, DE FORMA ESPECÍFICA, FUNDAMENTO DA DECISÃO AGRAVADA.
+1. Não se conhece do agravo interno quando este deixa de atacar, especificamente, fundamento da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+O agravo interno não pode ser conhecido.
+Dessume-se das razões recursais que a parte agravante não cuidou de impugnar fundamento adotado na decisão combatida. Transcrevo:
+Merece ser mantido o acórdão objurgado, aplicando-se ao caso, ainda que extensivamente à alínea "a" do permissivo constitucional, o óbice da Súmula nº 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". De comum sabença, "não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença" (REsp 1.134.186/RS, rito do art. 543-C do CPC). No mesmo sentido: AgInt no REsp n. 2.034.911/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/5/2023, DJe de 25/5/2023; AgInt no REsp n. 1.997.899/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+O Código de Ritos é expresso no sentido de que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada (art. 1.021, § 1º, do CPC/2015).
+Competia ao agravante demonstrar que o entendimento adotado pelo acórdão recorrido está em descompasso com o entendimento do STJ, colacionando, para tanto, precedentes jurisprudenciais, preferencialmente mais atuais, em sentido favorável à tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao caso, o que não aconteceu. Nesse sentido:
+No caso em que foi aplicado o enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos (AgInt no AREsp 1114189/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 13/04/2018).
+A rejeição monocrática do recurso especial com base no referido verbete exige da parte, no agravo interno, o ônus de indicar precedentes contemporâneos ou supervenientes aos referidos no decisum agravado com o fito de demonstrar ser diversa a orientação jurisprudencial do STJ, o que não aconteceu na espécie, mantendo-se deficiente a impugnação (AgInt no AREsp 694.853/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 18/04/2018).
+Apesar de o agravo interno ter sido erigido sobre o inconformismo da parte, agravada com o decisum monocrático, o recurso ao Colegiado deve cumprir, além dos requisitos formais, o princípio da dialeticidade, sob pena de não conhecimento. Isso significa dizer que não pode assentar o agravo interno em consideração jurídicas absolutamente estranhas ao julgamento: o recurso deve ser redigido de forma a impugnar todos os fundamentos da decisão que são suficientes para mantê-la (v.g. o teor da Súmula nº 182/STJ).
+No escólio de Nelson Nery Júnior:
+As razões do recurso são elemento indispensável a que o tribunal, para o qual se dirige, possa julgar o mérito do recurso, ponderando-as em confronto com os motivos da decisão recorrida. A sua falta acarreta o não conhecimento. Tendo em vista que o recurso visa, precipuamente, modificar ou anular a decisão considerada injusta ou ilegal, é necessária a apresentação das razões pelas quais se aponta a ilegalidade ou injustiça da referida decisão judicial. Sem as razões seria impossível formar-se o contraditório, pois o recorrido não saberia o que rebater; nem seria viável, ainda, delinear-se o âmbito de devolutividade do recurso, já que o efeito devolutivo tem a aptidão para devolver ao reconhecimento do tribunal somente a matéria impugnada (in: Teoria Geral dos Recursos - Princípios Fundamentais. Revista dos Tribunais, 4ª ed., fls. 148/149).
+A impugnação deve ser suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido. Ilustrativamente, os seguintes precedentes:
+É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada (AgInt no AREsp n. 855.681/RS, relator Ministro Humberto Martins, Segunda Turma, DJe de 15/4/2016 - grifei).
+À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia. De mais a mais, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente em sede de agravo regimental, não tem o condão de afastar a aplicação da Súmula 182/STJ (AgRg no AREsp n. 705.564/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 25/8/2015 - grifei).
+Com essas considerações, não conheço do agravo interno.
+É como voto.
