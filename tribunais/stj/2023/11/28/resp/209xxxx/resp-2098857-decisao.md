@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto por Anne Margareth Nazaret de Lima Miranda e outras com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a parte autora, em 13/6/2021 ajuizou ação ordinária com valor da causa atribuído em R$ 66.010,00 (sessenta e seis mil e dez reais), objetivando a percepção de pensão militar e o pagamento das parcelas remuneratórias vencidas e não prescritas.
+Após sentença que julgou improcedentes os pedidos iniciais, o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO negou provimento à apelação da parte autora, ficando consignado que as filhas maiores de vinte e um anos fariam jus à pensão por morte, desde que o militar tivesse optado expressamente por recolher a contribuição adicional prevista no art. 31 da MP 2.215/2001, o que não restou demonstrado no caso dos autos.
+Pontuou, ainda, que o ex-militar não efetuou a contribuição de 1,5%, razão pela qual as autoras, maiores de vinte e um anos, não fazem jus à pensão vindicada.
+O referido acórdão foi assim ementado, in verbis:
+ADMINISTRATIVO. ADMINISTRATIVO. PENSÃO MILITAR. LEI 3.765/65 COM AS ALTERAÇÕES DA MP 2.215-10/01. FILHAS MAIORES. REQUISITOS PARA CONCESSÃO DA PENSÃO NÃO PREENCHIDOS. SENTENÇA MANTIDA.
+- Trata-se de recurso de apelação interposto em face da sentença, proferida pelo juízo da 14ª Vara Federal do Rio de Janeiro, que julgou improcedentes os pedidos, que almejavam a concessão de pensão militar e o pagamento das parcelas remuneratórias vencidas e não prescritas.
+- Cinge-se a controvérsia em verificar a possibilidade de concessão de pensão militar às autoras, filhas maiores de idade de ex-militar.
+- A pensão por morte constitui benefício de natureza previdenciária destinado a tutelar os dependentes do instituidor, no caso de morte deste, através do pagamento de uma renda mensal, podendo ter natureza vitalícia ou temporária, sendo certo que, na sua concessão, deve ser observado o princípio tempus regit actum, segundo o qual deve ser aplicada a norma que estiver em vigor no momento do falecimento do instituidor do benefício.
+- Na espécie, o instituidor da pensão faleceu em 28/10/2016, razão pela qual incide na espécie a Lei 3.765/60, com a redação dada pela Medida Provisória 2.215/2001.
+- Malgrado a Medida Provisória 2.215/2001 tenha restringido a pensão militar aos "filhos ou enteados até vinte e um anos de idade ou até vinte e quatro anos de idade, se estudantes universitários ou, se inválidos, enquanto durar a invalidez", resguardou a situação dos militares em atividade ou vivos à época da promulgação da MP, conferindo-lhes a possibilidade de continuar a fruir do regime anterior - que conferia às filhas maiores de militar falecido o direito à pensão militar -, mediante contribuição adicional de 1,5% da remuneração.
+- Destarte, nos termos da legislação de regência, as filhas maiores de vinte e um anos fariam jus à pensão por morte, desde que o militar tivesse optado expressamente por recolher a contribuição adicional prevista no art. 31 da MP 2.215/2001, o que não restou demonstrado no caso dos autos.
+- Vale esclarecer, no tocante ao argumento de que o autor era inválido e não poderia exteriorizar sua vontade, que, consoante destacado pela Il. Magistrada a quo, "tem-se que a demandante ANNE MARGARETH NAZARETH DE LIMA MIRANDE foi nomeada sua curadora em 04/07/1996 (Evento 1, OUT8, p. 10), em data anterior à edição da Medida Provisória nº 2.215/2001, logo, cabia à autora, na condição de curadora, a gestão dos interesses do interditado".
+- Assim, considerando que as autoras não preenchem os requisitos legais para concessão da pensão militar, afigura-se escorreita a sentença que julgou improcedentes os pedidos.
+- Recurso de apelação das autoras desprovido, com a majoração dos honorários advocatícios em 1% sobre o valor anteriormente fixado pelo juízo a quo, suspensa sua exigibilidade em razão da gratuidade de justiça.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação do art. 1.022 do CPC e do art. 31 da MP n. 2.215/2001.
+Sustenta, em síntese, que a legislação de regência elenca a renúncia expressa como requisito para afastar o direito à pensão, devendo a União providenciar o desconto automático da contribuição de 1,5% na ausência desta.
+Afirma, para tanto, que a lei não prevê a necessidade de "opção pelo desconto da contribuição" como requisito para a concessão do benefício pretendido.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Na hipótese dos autos, buscam as Recorrentes o reconhecimento do direito à pensão militar, bem como pagamento das parcelas vencidas e não prescritas.
+Nas instâncias ordinárias, o direito não foi reconhecido ao fundamento de que não teria sido comprovado que o instituidor teria feito a opção expressa pelo desconto da contribuição adicional de 1,5% prevista na MP n. 2.131/2000 e, posteriormente na MP n. 2.215/2001, bem como não teria recolhido as contribuições devidas.
+Para regular o direito à pensão por morte, adota-se a lei vigente à época do óbito de ex-combatente. À época do falecimento do instituidor, a legislação em vigor (Medida Provisória n. 2.215-10/2001) assim previa, in verbis:
+Art. 31. Fica assegurada aos atuais militares, mediante contribuição específica de um vírgula cinco por cento das parcelas constantes do art. 10 desta Medida Provisória, a manutenção dos benefícios previstos na Lei nº 3.765, de 1960, até 29 de dezembro de 2000.
+§ 1º Poderá ocorrer a renúncia, em caráter irrevogável, ao disposto no caput, que deverá ser expressa até 31 de agosto de 2001.
+§ 2º Os beneficiários diretos ou por futura reversão das pensionistas são também destinatários da manutenção dos benefícios previstos na Lei no 3.765, de 1960, até 29 de dezembro de 2000.
+Como se observa, a lei prevê que o direito a manutenção dos benefícios previstos na Lei n. 3.765/1960, como a pensão militar pretendida pelas Recorrentes, será assegurado mediante contribuição específica de 1,5% das parcelas que compõem os proventos da inatividade remunerada (art. 10 da MP n. 2.215-10/2001).
+O referido direito somente seria afastado mediante renúncia expressa, em caráter irrevogável, nos termos do § 1º do art. 31 da aludida Medida Provisória.
+Esta Corte Superior já possui entendimento firmado no sentido de que é devido o adicional de contribuição para a pensão militar - que visa a beneficiar as filhas em caso de morte do instituidor - aos militares ativos e inativos que não renunciarem aos benefícios da Lei n. 3.567/1960.
+Veja-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO MILITAR. CONTRIBUIÇÃO ADICIONAL. PRAZO PARA RENÚNCIA. DISSÍDIO JURISPRUDENCIAL RECONHECIDO, NA DECISÃO AGRAVADA. IMPUGNAÇÃO, EM AGRAVO REGIMENTAL, FUNDADA EM PRECEDENTE MAIS ANTIGO, JÁ SUPERADO PELO ATUAL ENTENDIMENTO DO STJ. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. O decisum que dá provimento ao Recurso Especial, em face do acolhimento da tese de dissídio jurisprudencial, não pode ser infirmado com base em precedente superado pelo atual entendimento do STJ, mais antigo do que aqueles citados na própria decisão agravada. Incidência da Súmula 83/STJ. Nesse sentido: STJ, AgRg no REsp 1.120.463/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/03/2010.
+II. Consoante o atual entendimento do STJ, "é devido o adicional de contribuição para a pensão militar - que visa a beneficiar as filhas em caso de morte do instituidor - aos militares ativos e inativos que não renunciarem aos benefícios da Lei n. 3.567/1960. É possível a manifestação de renúncia após 31/8/2001, prazo estabelecido pelo art. 31 da MP 2.215-10/2001, tendo em vista a ausência de prejuízo do erário, convergindo a renúncia com a finalidade da nova legislação, que é de minorar o déficit da previdência militar" (STJ, AgRg no REsp 1.063.012/DF, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 30/08/2013). No mesmo sentido: STJ, AgRg no AREsp 305.093/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/06/2013.
+III. Agravo Regimental improvido.
+(AgRg no REsp n. 1.417.627/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/3/2015, DJe de 7/4/2015.)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO MILITAR. PRAZO PARA RENÚNCIA. REQUERIMENTO ADMINISTRATIVO. TERMO INICIAL DA OBRIGAÇÃO DE RESTITUIR. PRESCRIÇÃO QUINQUENAL. CORREÇÃO MONETÁRIA. JUROS DE MORA.
+1. É devido o adicional de contribuição para a pensão militar que visa a beneficiar as filhas em caso de morte do instituidor aos militares ativos e inativos que não renunciarem aos benefícios da Lei n. 3.567/1960.
+2. É possível a manifestação de renúncia após 31/8/2001, prazo estabelecido pelo art. 31 da MP 2.215-10/2001, tendo em vista a ausência de prejuízo do erário, convergindo a renúncia com a finalidade da nova legislação, que é de minorar o déficit da previdência militar.
+3. Expressa a renúncia em requerimento administrativo, tal é o termo inicial da obrigação de restituir o adicional de contribuição.
+4. Prescrição quinquenal (Súmula 85/STJ).
+5. Correção monetária conforme a Lei n. 6.899/1981 e juros de mora segundo o art. 1º-F da Lei n. 9.494/1997.
+6. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.063.012/DF, relator Ministro Og Fernandes, Sexta Turma, julgado em 15/8/2013, DJe de 30/8/2013.)
+Sob outro prisma, é importante destacar que a Administração Pública poderia, inclusive, cobrar as contribuições não pagas oportunamente, na hipótese de não haver renúncia expressa, nos termos do § 1º do mencionado art. 31 da MP n. 2.215-10/2001.
+Tal contribuição é, ainda, definida como compulsória para aqueles servidores militares que não renunciaram aos benefícios previstos nesse diploma legal (MS n. 12.359/DF, Rel. Min. Castro Meira, DJe de 9/6/2008).
+Veja-se:
+TRIBUTÁRIO. PENSÃO MILITAR. CONTRIBUIÇÃO PREVIDENCIÁRIA. MEDIDA PROVISÓRIA N. 2.215-10/01. CANCELAMENTO DO DESCONTO. MANIFESTAÇÃO EXTEMPORÂNEA. IMPOSSIBILIDADE.
+A Primeira Seção desta Corte Superior, quando do julgamento do MS 12.359/DF, de relatoria do Min. Castro Meira, firmou o entendimento no sentido de que é legal a cobrança da exação prevista no art. 31 da Medida Provisória n. 2.215-10/2001, quando não houve a renúncia prevista no § 1º do mesmo dispositivo legal.
+Recurso especial provido.
+(REsp n. 1.361.117/PE, relator Ministro Humberto Martins, Segunda Turma, julgado em 21/2/2013, DJe de 1/3/2013.)
+MANDADO DE SEGURANÇA. PENSÃO MILITAR. CONTRIBUIÇÃO PREVIDENCIÁRIA. CANCELAMENTO DO DESCONTO. MEDIDA PROVISÓRIA Nº 2.215.
+1. A majoração dos descontos dos proventos, a título de pensão militar, não afronta a Emenda Constitucional nº 20/98, porque os militares inativos não estão submetidos às regras do regime geral da previdência, mas às normas constantes das Leis nºs 3.765/60 e 6.880/80.
+2. A Constituição concedeu às contribuições natureza de tributo, aplicando-lhes as limitações constitucionais ao poder de tributar, bem como as normas gerais de matéria tributária. A contribuição em tela tem destinação específica para custear os benefícios previstos na Lei nº 3.765/60, sendo cobrada compulsoriamente dos servidores militares que não renunciaram, até 31 de agosto de 2001, aos benefícios previstos nesse diploma legal (art. 1º, § 1º).
+3. A contribuição específica de 1,5% prevista na revogada MP nº 2.188-9/01 e na vigente MP nº 2.215-10/01, em seu art. 31, não se confunde com regime de previdência complementar, já que se trata de uma contribuição adicional instituída para a manutenção do sistema já existente.
+4. A atual dicção do art. 40, § 15, da C.F., conferida pela EC nº 41, não submete a regência do regime de previdência complementar à lei complementar.
+5. Considerando que o impetrante não exerceu oportunamente o direito à renúncia, deve submeter-se ao desconto de 1,5% referente à contribuição específica para manutenção dos benefícios previstos na Lei nº 3.765/00.
+6. Segurança denegada.
+(MS n. 12.359/DF, relator Ministro Castro Meira, Primeira Seção, julgado em 14/5/2008, DJe de 9/6/2008.)
+Desse modo, ao afastar o direito à pensão militar ante a ausência de "opção pelo desconto", há ofensa direta às disposições constantes da MP n. 2.215-10/2001, em vigor à época do óbito do instituidor do benefício.
+Ademais, mesmo que não se constate o adimplemento das parcelas relativas a essa contribuição adicional de 1,5%, dada a natureza compulsória da exação à época da implementação do benefício, a ausência de seu recolhimento não pode, por si só, afastar o pretenso direito à concessão da pensão militar, porquanto a Administração Pública não pode se beneficiar de sua própria inércia.
+Inclusive, tais contribuições poderão ser adimplidas nos termos do § 1º do art. 32 da MP n. 2.215-10/2001, assim disposto:
+Art. 32. (..)
+§ 1º O direito à pensão fica condicionado ao recebimento de vinte e quatro contribuições mensais que será deixado aos beneficiários, permitindo-se a estes fazerem o respectivo pagamento, ou completarem o que faltar.
+Desse modo, considerando que o direito à pensão militar deve ser reconhecido na hipótese de ausência de renúncia expressa, nos termos do art. 31, § 1º, da MP n. 2.215-10/2001, devem os autos retornarem à origem para, nos termos da fundamentação, prosseguir com a análise do eventual cumprimento dos requisitos legais exigidos para a concessão da pretendida pensão militar.
+Ante o exposto, com esteio no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para, nos termos da fundamentação, determinar o retorno dos autos à origem para prosseguir com a análise do eventual cumprimento dos requisitos legais exigidos para a concessão da pretendida pensão militar.
+Publique-se. Intimem-se.
+EMENTA
