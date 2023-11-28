@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SERGIO FREITAS VERON contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Consta dos autos que o paciente foi condenado às penas de 04 (quatro) anos e 01 (um) mês de reclusão, em regime inicial fechado, e 70 (setenta) dias-multa, por infringir o artigo 157, § 4º, IV, do Código Penal, por duas vezes, conforme sentença às fls. 501-503.
+A defesa e a acusação interpuseram recursos de apelação ao Tribunal de origem, que negou provimento a ambos os apelos, nos termos do acórdão juntado às fls. 556-564.
+No presente writ, a impetrante sustenta que o acórdão impugnado está eivado de ilegalidade, consistente na ausência de fundamentação idônea a ensejar a exasperação da pena-base com fulcro na culpabilidade.
+Argumenta, nesse sentido, que "o prejuízo suportado pela vítima é ínsito ao tipo penal, onde a existência de prejuízo, assim como pelo fato de o bem não ter sido recuperado não pode ser tida como circunstância anormal, eis que se trata de crime contra o patrimônio".
+Requer a concessão da liminar e da ordem para "que seja neutralizada a circunstância judicial da "culpabilidade", eis que majorada de forma inidônea, bem como a adequação do regime para o cumprimento da reprimenda, haja vista que, com a neutralização da referida circunstância judicial, a pena restará fixada abaixo de 04 anos, portanto, o paciente fará jus ao regime semiaberto".
+O pedido liminar foi indeferido às fls. 576-577.
+Informações prestadas às fls. 580-595 e 605-609.
+O Ministério Público Federal, às fls. 600-603, opinou pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na alegação da existência de constrangimento ilegal na primeira fase da dosimetria, ao argumento de que a pena-base foi exacerbada com fulcro na culpabilidade, sem fundamentação idônea para tanto.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No tocante à exasperação da pena-base, diversamente do que sustenta a defesa, "Embora a subtração patrimonial seja elementar do crime de roubo, é possível a avaliação negativa do vetor "consequências do crime" quando for considerável o prejuízo financeiro suportado pela vítima" (AgRg no HC n. 765.752/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 10/10/2022).
+Ressalto, ainda, que "Cabe ao julgador avaliar o contexto fático apresentado para fundamentar a exasperação da pena-base, independentemente do nomen juris atribuído à circunstância judicial, que poderá ser valorada sob títulos diversos." (AgRg no HC n. 690.223/SC, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe de 16/11/2021.)
+Ainda que, no presente caso, a referida circunstância tenha sido valorada negativamente sob a rubrica de "culpabilidade", quando seria mais adequado valorá-la a título de "consequências" do crime (nomen juris diverso), não vislumbro ilegalidade flagrante na exasperação da basilar, no patamar de 1/8, a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador, em razão do elevado prejuízo financeiro suportado pela vítima.
+Com efeito, a Corte de origem consignou que o prejuízo extrapolou a razoabilidade, tendo a vítima experimentado expressivo prejuízo material, visto que os bens subtraídos foram avaliados em valor aproximado de R$ 3.530,00, tal como consta nos autos de avaliação indireta, assinalando, ainda, que quase a integralidade dos bens móveis que guarneciam a residência da vítima foram furtados: botijão de gás, camas, cadeiras, cômodas, fogão, forno micro-ondas, geladeira, mala, televisor e colchões (fl. 560).
+Trata-se, portanto, de fundamentação idônea a ensejar a exasperação da basilar no patamar estipulado, por ter excedido a normalidade típica.
+Nesse sentido:
+" ..  4. O elevado valor do prejuízo causado às vítimas implica a maior reprovabilidade da conduta, constituindo fundamentação hábil à valoração negativa das consequências do delito.
+5. Diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critério ideal para individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador. Deveras, tratando-se de patamar meramente norteador, que busca apenas garantir a segurança jurídica e a proporcionalidade do aumento da pena, é facultado ao juiz, no exercício de sua discricionariedade motivada, adotar quantum de incremento diverso diante das peculiaridades do caso concreto e do maior desvalor do agir do réu.
+6. Agravo regimental não provido." (AgRg no AREsp n. 2.279.939/GO, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 18/4/2023.)
+Corroborando o entendimento: AgRg no HC n. 778.774/PB, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 20/4/2023; e AgRg no HC n. 698.887/SP, Quinta Turma, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 15/2/2022.
+Assim, mantida a pena em patamar superior a quatro anos, ostentando o paciente circunstâncias judiciais desfavoráveis, não há que se falar na fixação de regime prisional inicial menos gravoso do que o fechado, nos termos do artigo 33, § 2º, "a", e § 3º, do Código Penal.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
