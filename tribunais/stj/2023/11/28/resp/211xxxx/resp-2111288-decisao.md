@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DE MATO GROSSO, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+AGRAVO INTERNO  APELAÇÃO  EXECUÇÃO FISCAL  HONORÁRIOS ADVOCATICIOS  REDUÇÃO PELA METADE  ARTIGO 90, § 4O, DO CÓDIGO DE PROCESSO CIVIL  NÃO INCIDÊNCIA. O DISPOSTO NO ARTIGO 90, § 4º, DO CÓDIGO DE PROCESSO CIVIL, INCIDE TÃO SOMENTE NA HIPÓTESE EM QUE A PARTE DEMANDADA RECONHECE A PROCEDÊNCIA DO PEDIDO. RECURSO NÃO PROVIDO.
+No presente recurso especial, o recorrente apontou violação de dispositivos de lei federal.
+É o relatório. Decido.
+Assiste razão ao recorrente.
+Em havendo o reconhecimento da procedência do pedido e o cumprimento da prestação reconhecida pela recorrida, extinguindo as CDA"s, os honorários devem ser reduzidos pela metade, nos termos do art. 90, § 4º, do CPC/2015.
+Neste mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS À EXECUÇÃO. EXTINÇÃO PARCIAL DA EXECUÇÃO. PROVEITO ECONÔMICO AFERÍVEL. TEMA N. 1.076. STJ. GRADAÇÃO DO ART. 85, § 3º, DO CPC/2015. REDUÇÃO PELA METADE EM RAZÃO DO RECONHECIMENTO DE PROCEDÊNCIA DO PEDIDO. ART. 90, § 4º, CPC.
+I - Na origem, trata-se de embargos à execução fiscal, com pedido de efeito suspensivo, objetivando a extinção da execução fiscal ou a redução do valor cobrado. Na sentença, homologou-se o reconhecimento da nulidade formal do processo administrativo nº 10909-004.076/2010-14, correspondente a parte do valor executado, à vista da ausência de prévia constituição definitiva do crédito tributário, porquanto pendente de julgamento recurso voluntário interposto pela executada na via administrativa.
+II - O Superior Tribunal de Justiça, recentemente, no julgamento do Tema 1.076, a depender da presença da Fazenda Pública, reservou a utilização do art. 85, § 8º, do CPC/2015, fixação por equidade, para quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo. Também foi estabelecida uma sequência objetiva na fixação da verba, devendo a fixação ser calculada subsequentemente sobre o valor (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+III - Na hipótese dos autos, em que pese não ter havido condenação, é possível aferir o proveito econômico obtido, consistente na diferença entre o valor inicialmente executado e aquele efetivamente devido, após o reconhecimento de nulidade de parte das certidões de dívida ativa que ensejaram a execução originária.
+IV - Com efeito, a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que no cálculo de honorários advocatícios arbitrados sobre o proveito econômico obtido, a ser calculado pela diferença do valor pleiteado e o efetivamente devido, devem ser considerados os valores na data do ajuizamento da ação (AR n. 6.870/DF, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 23/3/2022, DJe de 4/4/2022.).
+V - Considerando que houve reconhecimento da procedência do pedido e incontinenti cumprimento da prestação reconhecida pela embargada - que "informou que todas as CDAs relativas ao processo 10909-004.076/2010-14 serão extintas e devolvidas a RFB para o prosseguimento do julgamento administrativo" (fl. 2.256) -, após o cálculo do valor, os honorários devem ser reduzidos pela metade, nos termos do art. 90, § 4º, do CPC/2015.
+VI - Recurso especial provido para fixar os honorários de acordo com o proveito econômico obtido, pelo patamar mínimo da gradação prevista no § 3º do art. 85 do CPC/2015, com posterior redução pela metade em razão do reconhecimento da procedência do pedido, nos termos do art. 90, § 4º.
+(AREsp n. 2.054.706/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS DE ADVOGADO.
+RECONHECIMENTO DO PEDIDO. APLICAÇÃO DO DIREITO À ESPÉCIE. INCIDÊNCIA DO §4º DO ART. 90 DO CPC. COMPLETA AUSÊNCIA DE PROLAÇÃO DE DECISÃO EXTRA PETITA.
+1. Em tendo sido a sucumbência reconhecida já sob a vigência do CPC de 2015, são incidentes as suas normas para o arbitramento dos honorários de advogado.
+2. Aplicação do entendimento fixado quando do julgamento do REsp 1.746.072/PR pela Colenda Segunda Seção, calculando-se os honorários de advogado, decorrentes da extinção do processo de execução em face da excipiente ante o acolhimento da exceção de pré-executividade, sobre o proveito econômico ou valor da causa.
+3. Incide, no entanto, o §4º do art. 90 do CPC, reduzindo-se à metade o valor da verba honorária em face do reconhecimento do pedido de extinção da execução pelo excepto pouco após a formulação da exceção, fatos incontroversos que foram, ademais, reconhecidos no acórdão e reafirmados pelo próprio recorrente, habilitando a aplicação do direito à espécie.
+4. Não há qualquer espaço para que, na forma do §11 do art. 85 do CPC, esta Turma arbitre honorários recursais em favor daquele que vê o seu recurso especial provido e, assim, tem majorados os honorários sucumbenciais na origem fixados.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1679689/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/06/2019, DJe 25/06/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reduzir os honorários em 50% do valor fixado.
+Publique-se. Intimem-se.
+ EMENTA
