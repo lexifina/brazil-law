@@ -1,0 +1,30 @@
+DECISÃO
+1. Trata-se de pedido de tutela cautelar incidental apresentado por OLVEGO OLEOS VEGETAIS DE GOIAS LTD, visando a atribuição de efeito suspensivo ao AREsp 2.227.189/GO, interposto de decisão do eg. Tribunal de Justiça do Estado de Goiás que negou seguimento a recurso especial apresentado em face do acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. QUITAÇÃO DO DÉBITO. NÃO COMPROVAÇÃO. ÔNUS DO EXECUTADO. LIQUIDAÇÃO DE SENTENÇA. DESNECESSIDADE. SIMPLES CÁLCULO ARITMÉTICO. CONVERSÃO DE SACAS DE SOJA EM PECÚNIA. VALOR DA COTAÇÃO. DATA DO TRÂNSITO EM JULGADO DA SENTENÇA. NULIDADE DA PENHORA. AUSÊNCIA DE INTIMAÇÃO PESSOAL PARA CUMPRIMENTO DA OBRIGAÇÃO. EXCESSO DE PENHORA NÃO CARACTERIZADO.
+I - Cumpre observar que o agravo de instrumento é um recurso hábil a ensejar, tão somente, o exame do acerto ou desacerto do que foi decidido pelo Juízo singular, não cabendo, lado outro, a esta Corte, antecipar-se na apreciação de matéria ainda não submetida ao crivo do grau singelo, sob pena de supressão de um grau de jurisdição.
+II - Compete à parte autora o ônus de provar o alegado, nos termos do artigo 373, I, do Código de Processo Civil. Contudo, não tendo, os agravantes desincumbido do seu ônus probatório, qual seja , o cumprimento da obrigação imposta, a rejeição do pedido é medida que se impõe.
+III - A sentença determinou o depósito das sacas de soja em grãos ou o equivalente em dinheiro. Assim, em caso de conversão de obrigação específica em pecúnia, desnecessária a liquidação de sentença, sendo perfeitamente cabível o simples cálculo aritmético (art. 509,§2º do CPC), desde que observado os índices estabelecidos para conversão da saca de soja.
+IV - Se título executivo não fixa os critérios de conversão da obrigação em pecúnia, o Superior Tribunal de Justiça e esta Corte já adotou o entendimento de que deve ser utilizado o valor da cotação da data do trânsito em julgado da sentença, com os devidos consectários legais.
+V - Não há falar em nulidade da penhora em decorrência de ausência da intimação pessoal, que obsta apenas a fluência da multa por descumprimento da obrigação de fazer, conforme teor da Súmula 410 do STJ.
+VI - O excesso de penhora fica caracterizado quando o valor penhorado é muito superior ao da execução, não sendo este o caso dos autos.
+VII - Logo, considerando que a decisão recorrida não denota ilegalidade, arbitrariedade, ou teratologia, e ainda devidamente justificada e embasada nos requisitos legais, descabe alterá-la.
+AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO." (e-STJ, fl. 293)
+Em suas razões, a requerente sustenta a existência de fumus boni iuris, ressaltando os seguintes pontos: a) cumprimento da obrigação pela entrega dos grãos diretamente à Companhia Nacional de Abastecimento - CONAB, diante da incapacidade técnica de armazenagem da soja pela recorrente; b) possibilidade de discussão da inexigibilidade do título judicial em sede de impugnação ao cumprimento de sentença; c) existência de seguro para o caso de não realização do depósito, cuja apólice deixou de ser apresentada pelo credor que, assim, não teria comprovado as restrições à cobertura securitária; e d) necessidade de observação da política de garantia de preços mínimos da Companhia Nacional de Abastecimento - CONAB;
+Aponta, outrossim, a existência de periculum in mora, consubstanciado pelo prosseguimento do cumprimento de sentença e a consequente realização de medidas constritivas, dentre as quais a determinação para consulta e penhora de valores por meio do SISBAJUD.
+Diante disso, requer "a concessão de efeito suspensivo a fim de suspender o trâmite dos autos de origem n. 0143996-14.1995.8.09.0127, até julgamento final do AREsp 2227189/GO" (e-STJ, fl. 18).
+É o relatório. Decido.
+2. Acerca da tutela provisória, o Código de Processo Civil de 2015 assim dispõe:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Da leitura das normas transcritas, para fins de concessão da tutela de urgência, evidencia-se a necessidade de demonstração cumulativa do fumus boni iuris e do periculum in mora.
+Relativamente ao primeiro requisito, em se tratando de tutela de urgência em sede de recurso especial, é essencial que o direito alegado no respectivo recurso seja plausível, isto é, que encontre respaldo na jurisprudência deste Tribunal Superior, sendo necessário, outrossim, que preencha os pressupostos de admissibilidade indispensáveis ao seu conhecimento.
+Efetivamente, a plausibilidade do direito aqui invocado depende da viabilidade do próprio recurso especial, o que, contudo, não se verifica no caso.
+Conforme relatado, o presente pedido de tutela de urgência visa exclusivamente a atribuição de efeito suspensivo ao AREsp 2.227.189/GO. O referido recurso, contudo, foi julgado por decisão deste relator que, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheceu do agravo para negar provimento ao recurso especial.
+Nesse passo, proferida decisão desfavorável à pretensão da parte ora peticionária, tem-se ressaltada a ausência de fumus boni iuris.
+Considerando que a tutela de urgência somente será concedida quando presentes, concomitantemente, o fumus boni iuris e o periculum in mora (CPC/2015, art. 300, caput), ausente de um desses requisitos, conforme apontado, o pedido não comporta deferimento.
+Ante o exposto, indefiro o pedido de tutela cautelar , nos termos do art. 288, § 2º, do RISTJ.
+Publique-se.
+EMENTA
