@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por ALEXANDRE JUNIOR SILVA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 6.246):
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. INTERCEPTAÇÕES TELEFÔNICAS. NULIDADE. AUSÊNCIA DE PREJUÍZO. BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. CONDENAÇÃO PELO DELITO DO ART. 35 DA LEI Nº 11.343/06. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento de nulidades no processo penal depende da demonstração de prejuízo, sob pena de se privilegiar a forma em detrimento do conteúdo dos atos processuais, em consonância com o princípio pas de nullité sans grief, consagrado pelo legislador no art. 563 do Código de Processo Penal.
+2. A Corte de origem, ao afastar a ocorrência da alegada nulidade, em razão da ausência do juntada das decisões que autorizaram as interceptações telefônicas, consignou que foi disponibilizado o acesso do processo cautelar às partes, inclusive ás gravações das conversas. Além disso, as provas obtidas foram corroboradas por outros elementos de convicção. Desse modo, não há como reconhecer o vício indicado, pois não é possível constatar nenhuma mácula apta a determinar a declaração de nulidade, pois, diante do quadro fático delineado pelas instâncias antecedentes, não fora demonstrado nenhum prejuízo suportado pelo agravante.
+3. Ademais, conforme consignado pelo Ministério Público Federal, em seu parecer, eventual nulidade daí decorrente demandaria alegação oportuna, ou seja, na defesa prévia (art. 55 da Lei nº 11.343/06) ou nas alegações finais, o que, conforme se verifica pelo relatório da sentença às fls. 5204/5205, não ocorreu (e-STJ fls. 6199).
+4. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+5. A jurisprudência desta Corte Superior de Justiça é no sentido de que a configuração do crime de associação para o tráfico (art. 35 da Lei 11.343/2006) é suficiente para afastar a aplicação da causa especial de diminuição de pena contida no § 4º do art. 33, na medida em que evidencia a dedicação do agente à atividade criminosa(AgRg no AREsp n. 1.035.945/RJ, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 15/3/2018, DJe 27/3/2018). No presente caso, fora mantida a condenação do envolvido pelo delito do art. 35 da Lei n. 11.343/2006, não havendo qualquer ilegalidade no afastamento do referido benefício.
+6. Agravo regimental não provido.
+A parte recorrente alega a violação genérica da Constituição Federal. Aduz que haveria repercussão geral da matéria tratada.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 6.313-6.317 .
+É o relatório.
+Da leitura das razões recursais (fl. 6.294), verifica-se a deficiência de fundamentação do recurso extraordinário, uma vez que a parte insurgente não indicou o artigo da Constituição da República que teria sido violado por esta Corte Superior de Justiça no acórdão recorrido, o que enseja a aplicação da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO. SÚMULAS 282 E 356 DO STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria constitucional invocada no recurso extraordinário não foi apreciada pelo acórdão recorrido e tampouco foram opostos embargos de declaração a fim de suscitá-la. Súmulas 282 e 356 do STF. Inadmissível o prequestionamento implícito. Precedentes.
+2. Ausência de demonstração, nas razões do apelo extremo, de que forma o acórdão recorrido teria violado os dispositivos constitucionais dados como contrariados, o que inviabiliza a sua análise, nos termos da Súmula 284 do STF.
+3. Agravo regimental a que se nega provimento.
+(ARE n. 1.235.044-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 24/8/2020, DJe de 11/9/2020.)
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DAS RAZÕES RECURSAIS. SÚMULA 284/STF. RECURSO EXTRAORDINÁRIO QUE NÃO ADMITE O EXAME DE NORMAS INFRACONSTITUCIONAIS. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF.
+1. A parte não indicou de que forma as normas constitucionais mencionadas teriam sido violadas pelo acórdão recorrido, o que leva à aplicação do óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+2. O aresto impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, rejeitou a exceção de suspeição e impedimento, matéria situada no contexto normativo infraconstitucional. Inviável, ademais, o reexame de provas em sede de recurso extraordinário, conforme Súmula 279 ("Para simples reexame de prova não cabe recurso extraordinário").
+3. Agravo Regimental a que se nega provimento.
+(ARE n. 1.272.389-AgR, relator Ministro Alexandre de Moraes, Primeira Turma, julgado em 18/8/2020, DJe de 27/8/2020.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. RECURSO INADMITIDO.
