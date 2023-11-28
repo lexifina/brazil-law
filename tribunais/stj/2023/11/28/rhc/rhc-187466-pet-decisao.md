@@ -1,0 +1,11 @@
+DECISÃO
+MAYCON DE SOUZA COSTA postula reconsideração da decisão de fls. 166-167 , na qual indeferi o pedido de extensão dos efeitos do decisum de fls. 142-147, ante a falta de comprovação da similitude fática entre o requerente e o paciente.
+Decido.
+A se considerar que a defesa juntou os documentos faltantes, reconsidero a decisão outrora proferida e passo à análise do pleito.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Na hipótese, identifico a similitude fática entre a situação do ora postulante e a do corréu beneficiado com o provimento do recurso ordinário, a justificar a extensão dos efeitos pretendida.
+Com efeito, ao prover o recurso, asseverei que, além de o recorrente estar preso há mais de 3 anos e os autos estarem conclusos para sentença há mais de 1 ano, o STJ, em pelo menos três oportunidades, recomendou ao Juízo de primeiro grau que imprimisse celeridade no julgamento do feito, conselho esse não atendido pela autoridade judiciária. Tais circunstâncias evidenciaram o excesso de prazo na constrição cautelar e ensejaram a substituição da custódia cautelar do réu por medidas diversas da prisão.
+No caso, constatado que o requerente está preso pelo processo em comento desde 27/10/2020 (fl. 406), verifico a similitude entre a situação aqui retratada e a que motivou o provimento do recurso, a justificar o deferimento do pedido.
+À vista do exposto, com amparo no art. 580 do CPP, defiro o pedido de extensão dos efeitos do acórdão de fls. 142-147, para substituir a prisão de Maycon de Souza Costa, se por outro motivo não estiver segregado, pelas medidas cautelares previstas no art. 319, I, IV e IX, do CPP, quais sejam: (a) comparecimento periódico em juízo, a fim de atualizar seu endereço e justificar suas atividades; (b) proibição de se ausentar da comarca sem autorização judicial e (c) uso de monitoração eletrônica, nos moldes a serem fixados pelo Magistrado - sem prejuízo da fixação de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, desde que devidamente fundamentadas, bem como do restabelecimento da clausura processual se sobrevier situação que configure a exigência da cautela mais onerosa.
+Publique-se e intimem-se.
+EMENTA
