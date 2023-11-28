@@ -1,0 +1,68 @@
+DECISÃO
+Tratam-se de agravos interpostos por ITE - INSTITUTO DE TECNOLOGIA E DESENVOLVIMENTO ORGANIZACIONAL S/S LTDA e pelo ESTADO DO AMAPÁ, ambos contra a decisão que inadmitiu os recursos especiais fundados no art. 105, III, a, da Constituição Federal.
+Na origem, o Estado do Amapá, em 25/05/2016, ajuizou ação ordinária com valor da causa atribuído em R$. 30.990.664,45 (trinta milhões, novecentos noventa mil, seiscentos sessenta quatro reais e quarenta cinco centavos), objetivando ressarcimento de prejuízo suportado em decorrência de compensações ilícitas e fraudulentas realizadas no bojo do Contrato nº 001/2009  PROG.
+Após sentença que julgou o pleito improcedente, o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ deu parcial provimento à apelação do ente público, ficando consignado que a empresa não cumpriu o serviço para o qual foi contratada mas, ao contrário, contribuiu para o aumento da dívida previdenciária do Estado.
+O referido acórdão foi assim ementado, in verbis:
+PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE RESSARCIMENTO. DESCUMPRIMENTO CONTRATUAL. RESTITUIÇÃO SIMPLES. MULTA POR DESCUMPRIM EN TO. JUROS DE MORA. DESCABIM EN TO .
+1) Constatado que o Réu descumpriu sua parte no contrato para reduzir a dívida previdenciária do Estado do Amapá perante a Receita Federal do Brasil (contrato nº 001/2009), gerando o crescimento da dívida em razão da incidência de multa e juros, e que o pagamento dos honorários ao Réu estava condicionado a verificação do resultado obtido pelo contratado, o Estado do Amapá deve ser ressarcido nos valores pagos ao Réu, sob pena deste enriquecer ilicitamente;
+2) De outro lado, o Estado do Amapá não pode ser ressarcido quanto aos demais valores - juros e multa -, visto que a matéria está acobertada pela preclusão;
+3) Apelo parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+INSTITUTO DE TECNOLOGIA E DESENVOLVIMENTO ORGANIZACIONAL S/S LTDA, em suas razões de recurso especial alega violação dos arts. 489, § 1º, VI, do CPC/2015, e da jurisprudência do Supremo Tribunal Federal.
+Sustenta, em síntese, omissão relevante no acórdão recorrido (atestado emitido pelo Estado contratante), e indevida modificação de matéria preclusa (prescrição).
+ESTADO DO AMAPÁ, em suas razões de recurso especial alega violação dos arts. 79 a 81 do CPC/2015 por não ter havido a majoração dos honorários recursais, bem como por dever a parte contrária ser condenada a pagamento de multa por litigância de má-fé por ter opostos três aclaratórios em face do acórdão recorrido.
+Apresentadas contrarrazões por ambas as partes defendendo a manutenção do acórdão naquilo que lhe foi favorável.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7/STJ, foram interpostos os presentes agravos, tendo os recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que os agravantes, além de atender aos demais pressupostos de admissibilidade dos agravos, lograram impugnar a fundamentação da decisão agravada, passo ao exame dos recursos especiais interpostos.
+Recurso Especial de INSTITUTO DE TECNOLOGIA E DESENVOLVIMENTO ORGANIZACIONAL S/S LTDA
+Em relação à indicada violação do art. 489, § 1º, VI, do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja, a desconsideração de documento emitido pelo ente estadual que comprova o reconhecimento de redução da dívida, tendo o julgador esclarecido no acórdão dos aclaratórios que sua conclusão levou em consideração o montante total da dívida que, após a contratação, aumentou, o que evidencia o descumprimento contratual.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INOCORRÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. PREENCHIMENTO DOS REQUISITOS DA PRISÃO PREVENTIVA. ERRO JUDICIÁRIO NÃO CARACTERIZADO. POSTERIOR ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. DANOS MORAIS NÃO CONFIGURADOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+(..)
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 941.782/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDORES, ANUÊNIOS. BASE DE CÁLCULO REAJUSTADA PELO ÍNDICE 28,86%. RECONHECIMENTO PELA CORTE DE ORIGEM. ÔNUS DE SUCUMBÊNCIA - SÚMULA 7 DO STJ.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1385196/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 10/09/2020.)
+Quanto à tese de indevida modificação de matéria preclusa, verifica-se a impossibilidade de conhecimento do recurso no ponto. Isso porque o argumento foi desenvolvido atrelado à alegação de "ofensa à jurisprudência do Supremo Tribunal Federal", o que está fora do âmbito de competência deste Superior Tribunal de Justiça.
+Com efeito, artigos de portarias, decretos, resoluções, súmulas, ou mesmo jurisprudência da Suprema Corte não se encaixam na previsão de "lei federal", disposta no art. 105, III, a, da Carta Magna. Nesse sentido, confira-se:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E INDENIZAÇÃO. DESPESAS COM OBRAS DE INFRAESTRUTURA PARA A IMPLANTAÇÃO DE REDE ELÉTRICA EM LOTEAMENTO PARTICULAR. RESPONSABILIDADE LEGAL DO LOTEADOR. DECISÃO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. É VEDADA A ANÁLISE DE MATÉRIA, CONSTANTE EM PORTARIA, EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DO TEMPUS REGIT ACTUM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+4. Este Superior Tribunal de Justiça já firmou entendimento de que Portarias, Circulares e Resoluções não se equiparam a Leis Federais para fins de interposição do Recurso Especial. Assim, a alegada violação dos arts. 136, 138 e 140 do Decreto 41.019/1957 pela Portaria 005/1990 do DNAEE tem a sua análise vedada no âmbito desta Corte Superior de Justiça.
+(..)
+6. Agravo Interno da Sociedade Empresária a que se nega provimento.
+(AgInt no AREsp 1034775/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 20/05/2019.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. FALECIMENTO DO PROPRIETÁRIO ANTES DA EXECUÇÃO FISCAL. ALÍNEA "C" DO ART. 105 DA CONSTITUIÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284 DO STF.
+(..)
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, examinar tal violação, na medida em que o ato normativo não é enquadrado no conceito de lei federal. Conforme o art. 105, III, alínea "a", da Constituição Federal, não se permite ampliar a competência desta Corte Superior para, em recurso especial, examinar eventual ofensa a súmulas, resoluções, regulamentos, portarias, circulares ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal".
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1645453/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/02/2019, DJe 28/02/2019.)
+Recurso Especial do ESTADO DO AMAPÁ
+Sobre a alegada violação dos arts. 79 a 81 do CPC/2015, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando do acórdão recorrido análise sobre a matéria referida nos dispositivos legais indicados no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ademais, é cediço que o requisito do prequestionamento é exigido por esta Corte Superior inclusive nas matérias de ordem pública.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. TRANSFERÊNCIA DE ATIVOS DE ILUMINAÇÃO PÚBLICA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. FALTA DE INTERESSE DE AGIR E INÉPCIA DA INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA RECURSAL DO STF. NÃO CABIMENTO DO APELO NOBRE POR EVENTUAL VIOLAÇÃO DE NORMAS INFRALEGAIS. PRESENÇA DOS REQUISITOS PARA FIXAÇÃO DOS HONORÁRIOS RECURSAIS, EM RAZÃO DO NÃO CONHECIMENTO DO RECURSO ESPECIAL, NA DECISÃO MONOCRÁTICA AGRAVADA. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+2. Não houve prequestionamento dos dispositivos legais atinentes às teses de inépcia da inicial e incongruência entre seus fundamentos e pedidos. A jurisprudência desta Corte considera que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+3. É importante reiterar que não pode ser admitido o prequestionamento ficto das referidas teses, pois, ao tratar da violação do art. 1.022 do Código Fux, o Recurso Especial não discorreu sobre eventual omissão do acórdão recorrido quanto a elas. Julgados: AgInt no AREsp. 1.017.912/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 16.8.2017; REsp. 1.639.314/MG, Rel. Min. NANCY ANDRIGHI, DJe 10.4.2017.
+4. O requisito do prequestionamento é exigido por este STJ inclusive para as matérias de ordem pública. Julgados: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017.
+(..)
+8. Agravo Interno da Concessionária a que se nega provimento.
+(AgInt no AREsp 1661808/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. TERMO INICIAL. JUROS MORATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VALOR DA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve apreciação pelo Tribunal de origem sobre a tese de que os juros moratórios deveriam incidir desde o evento danoso e não desde a citação, o que impossibilita o julgamento do recurso nesse aspecto, por ausência de prequestionamento. Outrossim, eventual omissão sequer foi suscitada pela ora recorrente por meio de embargos declaratórios, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF. Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Acrescente-se que a jurisprudência do STJ é no sentido de que, inclusive em relação às matérias de ordem pública, é indispensável o prequestionamento para o conhecimento do recurso especial.
+(..)
+3. Agravo interno não provido.
+(AgInt no REsp 1800628/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial interposto por INSTITUTO DE TECNOLOGIA E DESENVOLVIMENTO ORGANIZACIONAL S/S LTDA e, nessa parte, negar-lhe provimento, bem como, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial interposto pelo ESTADO DO AMAPÁ .
+EMENTA
