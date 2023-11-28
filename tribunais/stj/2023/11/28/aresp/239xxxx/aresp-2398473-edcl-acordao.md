@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DO VÍCIO DA OMISSÃO PREVISTO NO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. A análise realizada no julgamento do agravo regimental foi clara e devidamente fundamentada, ao refutar a adequada impugnação, pelo recorrente, da Súmula n. 83 do STJ, pela falta de demonstração de que os precedentes indicados na decisão que inadmitiu o recurso especial eram inaplicáveis ao caso, e também por não colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar ser outro o entendimento jurisprudencial do STJ.
+3. Ademais, ressaltou que a parte não individualizou, de forma específica e fundamentada, a desnecessidade de revolvimento subjetivo do conjunto fático e probatório, de modo a indicar as provas transcritas e reconhecidas no aresto recorrido, suficientes para o acolhimento de suas alegações.
+4. Por fim, explicitou que é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido na admissibilidade do recurso interposto (EDcl no AgRg nos EREsp 1.488.618/RS, Rel. Ministro Felix Fischer, 3ª S., DJe 27/10/2015)(EDcl no AgRg no AREsp n. 1.640.723/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/4/2021).
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+GUSTAVO HENRIQUE DA SILVA e WAISSA FERREIRA GOMES DA SILVA opõem embargos de declaração contra o acórdão de fls. 1.130-1.133, em que esta Sexta Turma negou provimento ao agravo regimental interposto contra decisão proferida nos autos do agravo em recurso especial.
+Em suas razões, os embargantes apontam omissão no decisum por considerar que impugnaram adequadamente a aplicação das Súmulas n. 7 do STJ e 282 do STF.
+Explicitam que "existem questões relativas a nulidades insanáveis que podem ser determinantes no deslinde do feito, como a e-STJ fls. 950, com o título "Da ausência de intimação da advogada constituída à época a respeito da ocorrência do julgamento virtual da Apelação Criminal. Inobservância do disposto nos artigos 370, §1º e 798, §5º, alínea a, todos do Código Penal" (fl. 1.138)".
+Por fim, apontam que "também há outra questão a ser analisada, concernente com individualização da pena relativa a WAISSA FERREIRA, com título "a inobservância da norma infraconstitucional contida nos artigos 317 e 318, inciso V, ambos do Código de Processo Penal. Ausência de individualização da pena com relação à RECORRENTE WAISSA FERREIRA GOMES SILVA (Artigo 5º, incisos XLVI, CF)(e-STJ fls. 955)" (fl. 1.139)".
+Requerem, assim, que sejam acolhidos os aclaratórios.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DO VÍCIO DA OMISSÃO PREVISTO NO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. A análise realizada no julgamento do agravo regimental foi clara e devidamente fundamentada, ao refutar a adequada impugnação, pelo recorrente, da Súmula n. 83 do STJ, pela falta de demonstração de que os precedentes indicados na decisão que inadmitiu o recurso especial eram inaplicáveis ao caso, e também por não colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar ser outro o entendimento jurisprudencial do STJ.
+3. Ademais, ressaltou que a parte não individualizou, de forma específica e fundamentada, a desnecessidade de revolvimento subjetivo do conjunto fático e probatório, de modo a indicar as provas transcritas e reconhecidas no aresto recorrido, suficientes para o acolhimento de suas alegações.
+4. Por fim, explicitou que é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido na admissibilidade do recurso interposto (EDcl no AgRg nos EREsp 1.488.618/RS, Rel. Ministro Felix Fischer, 3ª S., DJe 27/10/2015)(EDcl no AgRg no AREsp n. 1.640.723/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/4/2021).
+5. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+Não obstante os esforços da defesa, não constato a omissão apontada no acórdão embargado .
+Com efeito, a análise realizada na oportunidade foi clara e devidamente fundamentada, ao refutar a adequada impug nação pelos recorrentes da Súmula n. 282, pois não demonstraram que o objeto do recurso fora apreciado pelas instâncias originárias e construíram argumentação para impugnação de enunciado de súmula diverso, qual seja, a n. 283 do STF.
+Ademais, ressaltou que a parte não individualizou, de forma específica e fundamentada, a desnecessidade de revolvimento subjetivo do conjunto fático e probatório, de modo a indicar as provas transcritas e reconhecidas no aresto recorrido, suficientes para o acolhimento de suas alegações.
+Além disso, foi expressa em apontar que os agravantes não refutaram a aplicação das Súmulas n. 284 e 356 do STF.
+Por fim, quanto às teses de nulidade, não há que se falar em omissão, pois não foram apresentadas no agravo regimental e constituem inovação recursal vedada pela via dos embargos.
+Na hipótese, noto que a irresignação dos embargantes se resume ao inconformismo com o resultado do julgado, que lhes foi desfavorável. In casu, não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
