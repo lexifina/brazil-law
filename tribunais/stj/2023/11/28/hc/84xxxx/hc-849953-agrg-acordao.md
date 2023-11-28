@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. LIVRAMENTO CONDICIONAL DEFERIDO. PREJUDICIALIDADE. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A jurisprudência do Superior Tribunal de Justiça vem se manifestando no sentido da prejudicialidade do pleito de progressão de regime aberto, nos casos em que ao apenado já foi deferido o benefício do livramento condicional, pois se trata de situação que lhe é mais favorável.
+3. No caso, considerando que o acórdão impugnado está em sintonia com a jurisprudência desta Corte, pois ao paciente foi deferido o benefício do livramento condicional, encontrando-se, portanto, em situação mais favorável, não há ilegalidade flagrante, constrangimento ilegal ou teratologia a ensejar a concessão da ordem.
+4. Uma vez que a instâncias de origem não se pronunciaram sobre a alegada omissão no pedido originário, de que o agravante faria jus ao regime aberto a partir do dia 5/3/2023, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de Cleiton Cabral da Silva contra a decisão que denegou o habeas corpus interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+No presente agravo, a defesa repisa os mesmos fundamentos aduzidos na inicial, ressaltando o constrangimento ilegal em razão do caráter extra petita da decisão agravada que concedeu o livramento condicional sem a defesa pleitear. Aduz a defesa que o paciente faz jus ao regime aberto.
+Ressalta ainda que é indevida a sobreposição da progressão de regime ao livramento condicional em razão da natureza progressiva do sistema penitenciário brasileiro. Consigna que o livramento condicional é medida de política criminal aplicável de forma subsidiária.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do colegiado, pugnando pelo provimento.
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. LIVRAMENTO CONDICIONAL DEFERIDO. PREJUDICIALIDADE. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A jurisprudência do Superior Tribunal de Justiça vem se manifestando no sentido da prejudicialidade do pleito de progressão de regime aberto, nos casos em que ao apenado já foi deferido o benefício do livramento condicional, pois se trata de situação que lhe é mais favorável.
+3. No caso, considerando que o acórdão impugnado está em sintonia com a jurisprudência desta Corte, pois ao paciente foi deferido o benefício do livramento condicional, encontrando-se, portanto, em situação mais favorável, não há ilegalidade flagrante, constrangimento ilegal ou teratologia a ensejar a concessão da ordem.
+4. Uma vez que a instâncias de origem não se pronunciaram sobre a alegada omissão no pedido originário, de que o agravante faria jus ao regime aberto a partir do dia 5/3/2023, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+5. Agravo regimental improvido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os mesmos fundamentos aduzidos na inicial, ressaltando o constrangimento ilegal em razão do caráter extra petita da decisão agravada que concedeu o livramento condicional sem a defesa pleitear. Aduz a defesa que o paciente faz jus ao regime aberto.
+Ressalta ainda que é indevida a sobreposição da progressão de regime ao livramento condicional em razão da natureza progressiva do sistema penitenciário brasileiro. Consigna que o livramento condicional é medida de política criminal aplicável de forma subsidiária.
+Como consta na decisão agravada, a jurisprudência do Superior Tribunal de Justiça vem se manifestando no sentido da prejudicialidade do pleito de progressão de regime aberto, nos casos em que ao apenado já foi deferido o benefício do livramento condicional, pois se trata de situação que lhe é mais favorável.
+No caso, considerando que o acórdão impugnado está em sintonia com a jurisprudência desta Corte, pois ao paciente foi deferido o benefício do livramento condicional, encontrando-se, portanto, em situação mais favorável, não há ilegalidade flagrante, constrangimento ilegal ou teratologia a ensejar a concessão da ordem. Nesse sen tido:
+AGRAVO REGIIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO AO REGIME ABERTO. LIVRAMENTO CONDICONAL DEFERIDO. PREJUDICIALIDADE.
+1. No caso concreto, o pleito de progressão ao regime aberto encontra-se prejudicado, haja vista que ao ora agravante foi deferido o benefício do livramento condicional, encontrando-se o apenado, portanto, em situação mais favorável. Precedentes desta Corte: AgRg no HC 462.289/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 30/5/2019, DJe 11/6/2019; HC 193.681/SP, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 22/10/2013, DJe 5/11/2013.
+2. Os argumentos trazidos no regimental não passam de ilações e deduções desprovidas de elementos concretos - prática de novo delito pelo apenado e ausência de casa de albergado.
+3. Agravo regimental a que se nega provimento. (AgRg no HC n. 824.772/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO PREJUDICADO. CONCESSÃO DO LIVRAMENTO CONDICIONAL AO APENADO. BENESSE MAIS FAVORÁVEL. INTERESSE PROCESSUAL AUSENTE. PRECEDENTES. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, como já decidido anteriormente, ficou demonstrada a ausência de interesse processual para apreciação do pleito do ora agravante, acerca da progressão de regime, diante da concessão, em 14/09/2021, do livramento condicional ao apenado, que o colocou em situação mais favorável.
+III - Assente nesta Corte Superior que, "No caso concreto, o pleito de progressão ao regime aberto encontra-se prejudicado, haja vista que ao ora agravante foi deferido o benefício do livramento condicional, encontrando-se o apenado, portanto, em situação mais favorável (..)" (AgRg no HC n. 679.591/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/8/2021).
+IV - No mais, os argumentos lançados no writ em voga atraem a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental desprovido. (AgRg no HC n. 743.322/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2023, DJe de 27/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DO BENEFÍCIO DE LIVRAMENTO CONDICIONAL. PLEITO DE PROGRESSÃO AO REGIME SEMIABERTO. PREJUDICIALIDADE.
+1. Irrepreensível a decisão proferida pelo Tribunal a quo, uma vez que, concedido o livramento condicional ao apenado, benefício mais amplo e favorável, o pleito de progressão ao regime semiaberto se torna prejudicado, ante a ausência de interesse de agir.
+2. Agravo regimental improvido. (AgRg no HC n. 775.530/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DO BENEFÍCIO DE LIVRAMENTO CONDICIONAL. PLEITO DE PROGRESSÃO AO REGIME ABERTO. PREJUDICIALIDADE. RECURSO NÃO PROVIDO.
+1. No caso concreto, o pleito de progressão ao regime aberto encontra-se prejudicado, haja vista que ao ora agravante foi deferido o benefício do livramento condicional, encontrando-se o apenado, portanto, em situação mais favorável. Precedentes desta Corte: AgRg no HC 462.289/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 30/5/2019, DJe 11/6/2019; HC 193.681/SP, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 22/10/2013, DJe 5/11/2013.
+2.. Agravo regimental não provido. (AgRg no HC n. 679.591/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021.)
+Por fim, uma vez que a instâncias de origem não se pronunciaram sobre a alegada omissão no pedido originário, de que o agravante faria jus ao regime aberto a partir do dia 5/ 3/2023, esta Cor te fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
