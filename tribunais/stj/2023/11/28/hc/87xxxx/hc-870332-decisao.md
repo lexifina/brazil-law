@@ -1,0 +1,31 @@
+DECISÃO
+NICOLAS HENRIQUES MARTINS alega sofrer coação ilegal em decorrência de decisão do Desembargador relator do writ originário que indeferiu o pedido liminar.
+Deferida a liminar, o Parquet federal oficiou pelo não conhecimento do writ.
+Decido.
+Informam os autos que o paciente foi preso em flagrante como incurso no art. 306 do CTB ("Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência. Penas - detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor").
+A defesa busca, em liminar, a restituição da liberdade do paciente, ainda que mediante a fixação de medidas cautelares alternativas. Afirma, para tanto, que não é cabível a prisão preventiva na espécie, porque não há o preenchimento dos requisitos previstos no art. 313 do CPP.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente, o que se verifica na espécie.
+O paciente teve sua prisão em flagrante convertida em preventiva como incurso no art. 306 do CTB, conforme decisão assim motivada:
+ ..
+Cuida-se de comunicação de prisão em flagrante envolvendo Nicolas Henrique Martins, em razão do suposto cometimento do crime de embriaguez ao volante (art. 306 da Lei nº 9.503/97).
+O Ministério Público, em fundamentado parecer, requereu a decretação da prisão preventiva do flagranteado, notadamente em função da reiteração criminosa.
+Por outro lado, a defesa do flagrado requereu a concessão deliberdade provisória, sob o fundamento da baixa gravidade do delito e em razão do autuado ser arrimo de família.
+De início, verificando observadas as formalidades legais e constitucionalmente exigidas, reputo perfeito o flagrante, motivo pelo qual HOMOLOGO a segregação.
+Passo, então, a analisar a necessidade de conversão da prisão em flagrante em preventiva.
+Inicialmente, vejo que a materialidade delitiva se faz presente, posto que o teste de etilômetro juntado deixou claro que o réu, quando da abordagem policial, apresentava álcool no sangue.
+No plano da autoria, os Policias Militares que participaram da ocorrência, em sede policial, foram assertivos ao declarar que o réu, quando da abordagem, apresentava todas as características próprias de pessoa embriagada.
+Nessa ambiência, tenho que os indícios de autoria apontam que o autuado cometeu o crime a ele imputado.
+Conquanto o delito em tela, em tese, admita o arbitramento de fiança, vejo que o flagranteado em questão é reincidente.
+Desta feita, nos moldes requeridos pelo Ministério Público, sendo o autuado contumaz na prática de delitos, necessária se faz a custódia cautelar para se garantir a ordem pública e evitar sua permanência na vida criminosa.
+Face o exposto, com fulcro no art. 338 do CPP, casso a fiança arbitrada pela Autoridade Policial e, com espeque no artigo 312, caput, c/c artigo 313, II, ambos do CPP, decreto a prisão preventiva de Nicolas Henrique Martins.
+Pelas mesmas razões, indefiro o pedido de liberdade provisória formulado pela defesa do autuado. Expeça-se mandado de prisão preventiva, com validade até 15.11.2031.  ..  (fls. 37-38)
+No caso em exame, o crime imputado ao agente - previsto no art. 306 do CTB - tem pena máxima igual a 3 anos - quantum inferior, portanto, ao exigido pelo inciso I do art. 313 do CPP.
+Todavia, foi consignado que o réu foi condenado definitivamente por outro crime doloso, nos termos do inciso II do art. 313 do CPP, visto que sua FAC registra a execução de uma condenação pelo crime de roubo iniciada em 2017.
+Conquanto as circunstâncias mencionadas pelo Juízo singular revelem a necessidade de algum acautelamento da ordem pública, entendo que não se mostram tais razões bastantes, em juízo de proporcionalidade, para manter a paciente sob o rigor da cautela pessoal mais extremada, mormente em razão de se tratar de crime sem violência ou grave ameaça.
+Os fatos, uma vez confirmados durante a instrução criminal, ensejarão a correspondente responsabilização criminal do acusado. Entretanto, a prisão preventiva não é modo de antecipação de pena, mas deve atender a fins processuais. As medidas cautelares do art. 319 do CPP seriam igualmente suficientes para evitar a reiteração de condutas análogas, talvez com maior eficiência, pois, no sistema carcerário, o agente poderá facilmente iniciar a escalada de ilícitos mais graves.
+Desse modo, à luz do princípio da proporcionalidade e das alternativas fornecidas pela Lei n. 12.403/2011, julgo ser suficiente e adequado, para atender às exigências cautelares do art. 282 do CPP, impor ao paciente - sem prejuízo de mais acurada avaliação do Juízo monocrático - as medidas positivadas no art. 319, I e IV, do CPP. Ilustrativamente: HC n. 639.918/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 15/6/2021; HC n. 533.553/PA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/12/2019.
+À vista do exposto, confirmando a liminar, concedo a ordem para substituir a prisão preventiva da insurgente pelas seguintes medidas cautelares: a) obrigação de comparecimento em juízo, quando for necessário para instrução e b) proibição de ausentar-se da Comarca ou de acessar e frequentar aeroportos ou rodoviárias, salvo autorização prévia do Juiz, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação da constrição preventiva se efetivamente demonstrada sua concreta necessidade.
+Comunique-se a decisão, com urgência, à autoridade apontada como coatora e ao juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
