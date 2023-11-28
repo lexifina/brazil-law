@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão em que se deu provimento ao recurso especial da ora recorrida nos termos da seguinte ementa (fl. 5.564).
+AGRAVO INTE RNO NO RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. APRESENTAÇÃO DE CERTIDÕES NEGATIVAS DE DÉBITO TRIBUTÁRIO. DESNECESSIDADE. INADEQUAÇÃO E DESNECESSIDADE DA REFERIDA EXIGÊNCIA. INCOMPATIBILIDADE COM O PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA.
+1. Entendimento firmado no âmbito deste Superior Tribunal no sentido de que, mesmo após a edição de leis regulamentando o parcelamento dos créditos tributários de empresas em crise, não pode ser exigida a apresentação de certidões negativas de débito tributário como requisito para a concessão de recuperação judicial, porquanto essa exigência se mostra desnecessária, inadequada e incompatível com o princípio da preservação da empresa.
+2. AGRAVO INTERNO DESPROVIDO.
+A parte recorrente alega a ocorrência de violação dos arts. 2º, 5º, LIV, e 97 da Constituição Federal e aduz haver repercussão geral da matéria.
+Sustenta que fundamentar o afastamento da exigência da certidão de regularidade fiscal na desconformidade com o princípio da preservação da empresa resultaria, invariavelmente, em ofensa aos princípios da proporcionalidade e da razoabilidade, bem como em afronta à separação de poderes.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+O STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+É a compreensão vinculante da Suprema Corte, estabelecida no regime de repercussão geral:
+Tema n. 660 do STF: A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta afronta depende da análise da incidência dos dispositivos infraconstitucionais sobre as circunstâncias discutidas no acórdão recorrido, motivo pelo qual se enquadra no Tema n. 660 do STF.
+Observe-se, ainda, que o presente recurso foi interposto contra acórdão do STJ que concluiu que não houve ofensa a cláusula de reserva de plenário, visto que a Lei n. 11.101/2005 não foi examinada à luz da Constituição Federal, mas sim dos seus próprios princípios.
+Ao assim decidir, constata-se que esta Corte Superior de Justiça acompanhou a jurisprudência do Supremo Tribunal Federal, que é firme em que não se exige reserva de plenário para a mera interpretação e aplicação de normas jurídicas que emergem do próprio exercício da jurisdição.
+A propósito:
+RECLAMAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. ADC 16 E TEMAS 246 E 1118 DA REPERCUSSÃO GERAL. AUSÊNCIA DE ADERÊNCIA. SÚMULA VINCULANTE 10. VIOLAÇÃO NÃO CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem apreciou a lide sob o ângulo da responsabilidade subsidiária da empresa pelas verbas deferidas ao obreiro em face de contrato ativo sob o regramento da Lei nº 9.478/97 e seu respectivo Decreto nº 2.745/98, que previa procedimento licitatório simplificado, regido pelas normas de direito privado e pelo princípio da autonomia da vontade, normativos incompatíveis com a Lei 8.666/1993.
+2. Dessa forma, assentada a não submissão do caso à disciplina da Lei 8.666/1993, a situação carece da necessária identidade com a ADC 16 ou com os temas 246 ou 1118 da repercussão geral, eis que envolve a responsabilização da empresa no exercício de contratação regida pelo direito privado, discussão alheia às razões de decidir da Suprema Corte nos julgados paradigmáticos.
+3. A jurisprudência do Supremo Tribunal Federal é firme acerca da não exigência de reserva de plenário para a mera interpretação e aplicação de normas jurídicas, que emerge do próprio exercício da jurisdição, sendo necessário para caracterizar violação à tal cláusula que a decisão de órgão fracionário fundamente-se na incompatibilidade entre a norma legal indicada e a Carta da República, o que não se verificou no caso concreto.
+4. Agravo regimental a que se nega provimento.
+(Rcl n. 57.904 AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 8/11/2023, DJe de 16/11/2023.)
+Desse modo, estando o acórdão recorrido na mesma direção da jurisprudência firmada pela Suprema Corte, é impossível a admissão desta insurgência.
+Ante o exposto, quanto ao art. 97 da Constituição Federal, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário e, quanto ao mais, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. DIREITO FALIMENTAR. RECUPERAÇÃO JUDICIAL. APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE DÉBITOS TRIBUTÁRIOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
