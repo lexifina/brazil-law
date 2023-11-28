@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ fundado na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+EMENTA: I - APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. SENTENÇA QUE CONCEDEU PARCIALMENTE A SEGURANÇA PARA DECLARAR INEXIGÍVEIS OS VALORES COBRADOS DA IMPETRANTE A TÍTULO DE DIFAL ENTRE A DATA DE IMPETRAÇÃO DESTE MANDADO DE SEGURANÇA E O ADVENTO DA NECESSÁRIA LEI COMPLEMENTAR.
+II - PRELIMINARES DE DECADÊNCIA; IMPETRAÇÃO CONTRA LEI EM TESE E INADEQUAÇÃO DA VIA ELEITA AFASTADAS. RECURSO O ESTADO NÃO PROVIDO.
+III- REPETIÇÃO DO INDÉBITO. PEDIDO INDEFERIDO NA R. SENTENÇA. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO DO ESTADO NÃO CONHECIDO NESTE PONTO.
+IV- MANDADO DE SEGURANÇA QUE NÃO PODE SER UTILIZADO COMO SUCEDÂNEO DE AÇÃO DE COBRANÇA. SÚMULAS Nº 269 E Nº 271 DO SUPREMO TRIBUNAL FEDERAL. EFEITOS EXCLUSIVAMENTE PROSPECTIVOS NECESSIDADE DE OBSERVÂNCIA DO ART. 166 DO CTN. AUSÊNCIA DE COMPROVAÇÃO PELA IMPETRANTE DE QUE ARCOU COM O ENCARGO FINANCEIRO DO TRIBUTO E NÃO O REPASSOU AO CONSUMIDOR FINAL. TEMA 118/STJ. DESCABIMENTO DA COMPENSAÇÃO. RECURSO DA EMPRESA IMPETRANTE NÃO PROVIDO.
+V- SENTENÇA MANTIDA EM REMESSA NECESSÁRIA.
+Nas suas razões, o recorrente, apontando violação do art. 23 da Lei n. 12.016/2009, sustenta, em resumo, a decadência do mandado de segurança para discutir a cobrança do ICMS/DIFAL, porquanto impetrado depois de expirado o prazo de 120 dias contado das impugnadas normas que ampararam essa exigência (Convênio ICMS 93/2015 e Lei estadual n. 18.572/2015).
+Afirma que, "a propósito de mesma matéria - decadência da impetração relacionada às normas implementadoras do DIFAL - o Superior Tribunal de Justiça já se posicionou no sentido de que o Convênio ICMS 93/2015 e a Lei Estadual regulamentadora constituem o marco inicial do prazo decadencial por ser caracterizarem como atos de efeitos concretos".
+Sem contrarrazões.
+O Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+O digno representante do Ministério Público Federal opina pelo desprovimento do recurso.
+Passo a decidir.
+Conforme relatado, defende a Fazenda Pública recorrente a decadência do mandado de segurança.
+Acerca do tema, veja a motivação consignada no acórdão recorrido:
+Insurgem-se os apelantes frente a r. sentença proferida dos autos de Mandado de Segurança mov. 49.1, que concedeu parcialmente a segurança para declarar inexigíveis os valores cobrados da impetrante a título de DIFAL entre a data de impetração deste mandado de segurança e o advento da necessária lei complementar.
+ ..
+Preliminarmente, alega o Estado do Paraná, decadência do direito da apelada de requerer mandado de segurança, e que foi proposto contra lei em tese, contrariando, assim, a Súmula 266 do STF.
+Contudo, o ato impetrado não discute lei em tese (Lei Estadual nº 18.572/2015), mas, a efetiva possibilidade de cobrança do tributo dela decorrente, não havendo incidência da Súmula 266/STF ao presente caso, ainda o pedido inicial se reveste de caráter preventivo e, por isso, não se submete ao prazo decadencial previsto no artigo 23 da Lei nº 12.016/2009, de modo que restam afastadas as preliminares arguidas.
+Quanto a ilegitimidade para requerer a restituição do ICMS pago indevidamente, diante da ausência de provas do não repasse do valor do tributo ao consumidor final, tenho que o mesmo não merece ser conhecido.
+Pois bem.
+Consoante assentado pelo eminente Ministro Luiz Fux, quando do julgamento do RMS 22.499/RJ (Primeira Turma, DJe 03/11/2008), "é cediço que ato normativo de caráter geral e abstrato não é impugnável pela via do mandado de segurança, ante o teor da Súmula 266 do STF, segundo a qual "não cabe mandado de segurança contra lei em tese"". Na mesma oportunidade, assentou Sua Excelência que ""a regra-matriz de incidência tributária é uma norma geral e abstrata que atinge as condutas intersubjetivas por intermédio do ato jurídico-administrativo de lançamento ou de ato do particular, veículos que introduzem no sistema norma individual e concreta" (Paulo de Barros Carvalho, in "Direito Tributário - Fundamentos Jurídicos de Incidência", 4ª ed., Ed. Saraiva, São Paulo, 2006, pág. 38, g rifo adicionado)".
+Em outras palavras, "o cabimento de mandado de segurança preventivo contra ato normativo abstrato instituidor de tributo está condicionado à prova da ocorrência de ato concreto ou de conduta rotineira do fisco que, com base na respectiva legislação, infirme o direito invocado, seja por meio de lavratura de auto de infração  lançamento , seja pelo indeferimento de pedido administrativo." (AgInt no REsp 1.530.846/MT, de minha relatoria, Primeira Turma, DJe de 26/9/2017).
+No caso dos autos, de acordo com o contexto delineado no acórdão recorrido, o presente mandado de segurança não tem por pedido principal a invalidade das normas instituidoras do tributo, até porque tal pretensão esbarraria no óbice da Súmula 266 do STF, mas, sim, suscitando a inconstitucionalidade como causa de pedir, infirmar os atos de cobrança do ICMS/DIFAL, tanto em relação aos fatos geradores futuros (natureza preventiva) quanto em relação aos fatos geradores passados que ensejaram o recolhimento (natureza repressiva).
+E cuidando de mandado de segurança que também contém pretensão preventiva, inaplicável se mostra o prazo decadencial previsto no art. 23 da Lei n. 12.016/2009. A esse respeito, vide:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. ATO COTEPE ICMS 33/2015. ATO DE EFEITOS CONCRETOS. DECADÊNCIA CONFIGURADA. PEDIDO DE AFASTAMENTO DA DECADÊNCIA. RECURSO NÃO PROVIDO.
+1. Havendo obrigação de trato sucessivo, que se renova periodicamente, o Mandado de Segurança possui natureza preventiva, de modo que não se aplica a decadência do art. 23 da Lei 12.016/2009. Nesse sentido: RMS 68.200/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 15.3.2022.
+ ..
+(AgInt no AgInt no AREsp n. 1.864.970/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2023, DJe de 28/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. MANDADO DE SEGURANÇA PREVENTIVO. TRIBUTÁRIO. INEXISTÊNCIA DE AMEAÇA CONCRETA CONTEMPORÂNEA A IMPETRAÇÃO. AUSÊNCIA DE PROVA. DECADÊNCIA.
+1. O mandado de segurança preventivo, em regra, não se subsume ao prazo decadencial de 120 (cento e vinte) dias, na forma da jurisprudência desta Corte, porquanto o "justo receio" renova-se enquanto o ato inquinado de ilegal pode vir a ser perpetrado (Precedentes: REsp n. 539.826/RS, Rel. Min. Teori Albino Zavascki, DJU de 11/1/2004; REsp n. 228.736/SP, Rel. Min. Milton Luiz Pereira, DJU de 15/4/2002; e RMS n.º 11.351/RN, Primeira Turma, Rel. Min. Garcia Vieira, DJ 20/8/2001).
+2. Muito embora o mandado de segurança preventivo, em matéria tributária, em regra, não precise observar o prazo decadencial, é indispensável que o contribuinte comprove a contemporaneidade da incidência que quer ver afastada (ameaça concreta contemporânea) - independente de juntar qualquer ato específico do Fisco (lançamento, inscrição em dívida ou ajuizamento de cobrança).
+ ..  (AgInt no RMS n. 57.828/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/4/2019, DJe de 29/4/2019.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial (art. 255, § 4º, II, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
