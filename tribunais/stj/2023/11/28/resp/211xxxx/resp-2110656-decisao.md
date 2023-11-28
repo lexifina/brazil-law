@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILLIAN SOUZA MENDES FERREIRA (WILLIAN), com fundamento no art. 105, III, alíneas a e c, da CF, em oposição ao acórdão proferido pelo Tribunal de Justiça de São Paulo (TJSP), relator AUGUSTO REZENDE, assim ementado:
+Compromisso de compra e venda. Rescisão contratual. Iniciativa e culpa do comprador. Pacto de alienação fiduciária em garantia. Ausência de registro. Inaplicabilidade das disposições da Lei nº 9.514/97. Restituição de 20% das quantias pagas. Estimativa razoável para as perdas e danos causados à promitente vendedora. Taxa de fruição cabível, ainda que desprovido o imóvel de edificação. Importância devida desde a entrega das obras de infraestrutura do loteamento. Verbas sucumbenciais revistas. Recurso parcialmente provido. (e-STJ, fl. 343)
+Os embargos de declaração opostos por LOTEAMENTO ALTO DA SERRA SERRANA SPE LTDA. (LOTEAMENTO) foram parcialmente acolhidos, sem efeitos infringentes (e-STJ, fls. 382/384).
+Nas razões do presente recurso, WILLIAN alega violação dos arts. 373, II, do CPC; e 6º, IV e VIII, do CDC, bem como dissídio jurisprudencial, afirmando que (1) a taxa de retenção deve ser reduzida para 10% (dez por cento) do valor pago pelo imóvel (2) descabido o pagamento de taxa de fruição de imóvel não edificado.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+(1) percentual de retenção
+O Tribunal de origem, ao julgar a apelação, entendeu ser adequado o percentual de retenção de 20% (vinte por cento) do valor pago.
+Ressalte-se que este Superior Tribunal de Justiça já se pronunciou no sentido de que nos contratos firmados antes da Lei 13.786/2018, o percentual de retenção pela extinção do vínculo contratual de compra e venda de imóveis por culpa do consumidor é de 25% (vinte e cinco por cento) das parcelas pagas, adequado e suficiente para indenizar o construtor pelas despesas gerais e pelo rompimento unilateral ou pelo inadimplemento do consumidor, independentemente das circunstâncias de cada hipótese concreta (REsp 1.820.330/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 01-12-2020).
+Dessa forma, em se tratando de recurso do comprador, mantenho o percentual determinado pela Corte de origem (20% - vinte por cento), para que não se proceda a reformatio in pejus.
+(2) taxa de fruição
+O Tribunal de origem, ao julgar a apelação, entendeu ser cabível a indenização da taxa de fruição, ainda que não houvesse a edificação do imóvel, assim se pronunciando:
+Quanto à taxa de fruição, cuida-se de "verba plenamente devida em razão da indisponibilidade do bem, ainda que o compromissário comprador não tenha dele tirado algum proveito efetivo" (Apelação Cível 1063336-86.2017.8.26.0576; Relator (a): Luiz Antonio de Godoy; Órgão Julgador: 1ª Câmara de Direito Privado; Foro de São José do Rio Preto - 4ª Vara Cível; Data do Julgamento: 16/04/2019).
+Esta Corte confere ao adquirente de lote indenização de perdas e danos, por mora imputável ao vendedor, reconhecendo assim que lotes sem edificação mantêm caráter frugífero e autorizam indenização de lucro cessante. Assim, "afigura-se contraditório conceder indenização por taxa de ocupação ao adquirente de lote vazio que se vê privado do bem por atraso da vendedora, mas negar a essa última indenização por dano da mesma natureza imputável ao promissário comprador" (Apelação Cível 1004486-05.2018.8.26.0576; Relator (a): Francisco Loureiro; Órgão Julgador: 1ª Câmara de Direito Privado; Foro de São José do Rio Preto - 3ª Vara Cível; Data do Julgamento: 16/05/2019). (e-STJ, fl. 346)
+A conclusão adotada na origem, encontra-se em dissonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que inviável a cobrança de taxa de fruição no caso de lote não edificado, em razão da efetiva ausência de utilização do bem. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO. MERA IMISSÃO NA POSSE. INDENIZAÇÃO INDEVIDA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, "não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem" (AgInt no REsp 1.896.690/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.897.785/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/10/2021, DJe de 14/10/2021)
+Nessas condições, CONHEÇO EM PARTE o recurso especial e nesta parte DOU-LHE PROVIMENTO para determinar que seja retirada da condenação o valor referente à taxa de fruição do imóvel, nos termos da jurisprudência deste Superior Tribunal de Justiça.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO PELO COMPRADOR. PERCENTUAL DE RETENÇÃO. MANUTENÇÃO. TAXA DE FRUIÇÃO DO IMÓVEL. LOTE NÃO EDIFICADO. NÃO CABIMENTO. ACÓRDÃO EM DESARMONIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E NESTA PARTE PROVIDO.
