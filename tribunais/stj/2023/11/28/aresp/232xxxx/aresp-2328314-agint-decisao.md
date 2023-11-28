@@ -1,0 +1,13 @@
+DECISÃO
+Diante das razões contidas no agravo interno, reconsidero a decisão de fls. 267/269 e passo a analisar o REsp de fls. 72/89.
+Trata-se de recurso especial interposto pelo Banco Volkswagen S.A., com base no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Amapá que, em ação de busca e apreensão regida pelo Decreto-lei 911/69, negou provimento ao seu agravo de instrumento, mantendo a decisão do juízo de primeira instância que determinou a emenda da inicial, a fim de que fosse comprovada a mora do devedor, sob o fundamento de que notificação extrajudicial devolvida por motivo de endereço desconhecido não teria validade para fins de demonstrar a referida mora.
+Alega o recorrente, em síntese, que o acórdão do TJAP teria violado o art. 2º, § 2º, do Decreto-lei 911/69.
+Aponta, ainda, a existência de dissídio jurisprudencial.
+Não foram apresentadas contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos, verifico que merece ser dado provimento ao recurso especial interposto, haja vista que o acórdão recorrido não está em consonância com a jurisprudência mais recente da Segunda Seção deste Tribunal que, ao julgar os REsps de nº 1.951.888/RS e nº 1.951.662/RS, entendeu que, em se tratando de ação de busca e apreensão prevista pelo Decreto-lei 911/69, para a comprovação da mora, tal como mencionado em seu art. 3º, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento pelo destinatário. No re ferido julgamento, registro que foi fixada a seguinte tese:
+Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros (Tema 1.132).
+No presente caso, como consta do acórdão recorrido que a notificação extrajudicial foi enviada ao endereço indicado no contrato celebrado entre partes, ainda que ela tenha sido devolvida por motivo de destinatário desconhecido, é certo que tem validade para fins de comprovação da mora do devedor, atendendo ao que previsto no art. 3º, do Decreto-lei 911/69, nos termos da jurisprudência acima mencionada.
+Em face do exposto, reconsidero a decisão anteriormente proferida e dou provimento ao recurso especial a fim de reconhecer a comprovação da mora e determinar o retorno dos autos ao Juízo de origem, a fim de que seja dado regular prosseguimento ao feito.
+Intimem-se.
+EMENTA
