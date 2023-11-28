@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno interposto por JAIRO DE SOUZA ANDRADE, contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial pela ausência de impugnação específica da decisão de admissibilidade.
+Alegam o agravante que, no agravo em recurso especial, houve a impugnação específica dos fundamentos da decisão de admissibilidade.
+Impugnação não apresentada (e-STJ, fl. 242).
+Inicialmente, no caso, observa-se que a decisão do Tribunal de origem que negou seguimento ao recurso especial foi impugnada pelas parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade da Súmula 182/STJ, a fim de proceder ao exame do agravo em recurso especial.
+Na espécie, foi apresentado agravo desafiando decisão que inadmitiu o recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 150):
+APELAÇÃO. Embargos do devedor. Cerceamento de defesa. Não ocorrência. Prova acostada que não comprova a tese autoral. Desnecessidade de realização de perícia contábil. Fatos que poderiam ser comprovados documentalmente. Sentença confirmada por seus próprios fundamentos, nos termos do art. 252 do Regimento Interno deste E. Tribunal de Justiça do Estado de São Paulo. Recurso desprovido.
+Em suas razões de recurso especial (e-STJ, fls. 158-165), o agravante alegou violação ao art. 13 do Decreto-lei 22.626/1933 e ao art. 4º da Lei 1.521/1951.
+Sustentou que houve cerceamento de defesa, face a não realização de pericia, sendo que a decisão pugnou ser desnecessário tal prova.
+Asseverou que a prova pericial seria imprescindível para comprovação da agiotagem, que ocorreu já que o ora agravado ocultou a verdadeira taxa de juros que ultrapassou os 37% ao mês.
+Foram apresentadas contrarrazões (e-STJ, fls. 184-193).
+Brevemente relatado, decido.
+De início, a indicação de violação de lei de forma genérica, desacompanhada dos artigos tidos como malferidos caracteriza deficiência da fundamentação recursal, fazendo incidir, por analogia, a Súmula 284 do STF.
+Na espécie, o agravante apenas fundamentou na ocorrência de cerceamento de defesa, mas sem apontar o artigo de lei f ederal que entende violado.
+Assim, a ausência de indicação dos artigos tidos por vulnerados não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida, sendo de rigor a incidência da Súmula n. 284 do Supremo Tribunal Federal.
+Ilustrativamente (sem destaque no original):
+PROCESSUAL CIVIL E FALIMENTAR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ENCARGOS CONDOMINIAIS. DESPESAS NECESSÁRIAS À ADMINISTRAÇÃO DO ATIVO. CARÁTER EXTRACONCURSAL. SUSPENSÃO DA EXECUÇÃO. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O encargo condominial, ainda que anterior ao pedido de quebra, enquadra-se no conceito de despesa necessária à administração do ativo, tratando-se de crédito de natureza extraconcursal, que não se submete aos efeitos da recuperação judicial.
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.348.211/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO - DECISÃO SINGULAR QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA DEMANDADA.
+1. Não cabe ao STJ o exame de dispositivos constitucionais em sede de embargos de declaração, ainda que manejados para fins de prequestionamento. Precedentes.
+2. A indicação de violação de lei de forma genérica, desacompanhada dos artigos tidos como malferidos caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF. Precedentes.
+3. O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre o cálculo de suplementação de pensão. Incidência das Súmulas 5 e 7/STJ.
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não foram opostos embargos de declaração, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência das Súmulas 282 e 356/STF.
+5. A recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 1.019 do CPC/15 e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.098.914/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+Ademais, quanto à alegação de ocorrência de agiotagem, o Tribunal de origem fundamentou que (e-STJ, fls. 154-155 - sem destaque no original):
+O embargante alega, outrossim, prática de agiotagem.
+Com efeito, restou incontroverso nos autos que as partes pactuaram o empréstimo de valores.
+Estabelece o artigo 586 do Código Civil que: "o mútuo é o empréstimo de coisas fungíveis. O mutuário é obrigado a restituir ao mutuante o que dele recebeu em coisa do mesmo gênero, qualidade e quantidade".
+Não há proibição para a remuneração do capital, mediante o pagamento de juros de mora, se expresso em contrato e desde que limitados ao patamar estabelecido pelo ordenamento jurídico, qual seja, um por cento ao mês (CC, art. 406).
+Neste ponto, cumpre ressaltar que não há proibição para a remuneração do capital, mediante o pagamento de juros de mora, se expresso em contrato e desde que limitados ao patamar estabelecido pelo ordenamento jurídico, qual seja, um por cento ao mês (CC, art. 406).
+De fato, o ordenamento jurídico não veda que pessoas físicas emprestem dinheiro mediante a incidência de juros de mora. O que se proíbe é a aplicação de juros superiores ao limite legal, incumbindo ao devedor demonstrar que o negócio subjacente configura empréstimo de agiotagem.
+Por outro lado, eventual prática de agiotagem não acarreta a perda do capital emprestado, mas tão somente a redução dos juros de mora ao limite legal, em observância à vedação do enriquecimento sem causa. No caso dos autos, o embargante alega que houve por parte do embargado a prática de agiotagem, uma vez que este cobrou juros de mora superiores a 37% ao mês.
+No entanto, o embargante não especificou tampouco comprovou o valor do empréstimo e a data respectiva, a fim de demonstrar que houve cobrança de juros de mora superiores a 1% ao mês.
+Para a inversão do ônus da prova no caso de alegação de agiotagem, é necessário que o devedor demonstre indícios veementes da sua ocorrência, ou seja, demonstre a verossimilhança das alegações, tendo em vista a presunção de certeza e liquidez dos títulos apresentado pelo credor, o que não foi demonstrado no caso vertente.
+A conclusão a que chegou o Tribunal de origem, sobre a inexistência de prova mínima da existência da prática de agiotagem, fundamenta-se nas premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ.
+Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, acolho o agravo interno para, em juízo de reconsideração, conhecer do agravo e não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA NOVA ANÁLISE DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. CERCEAMENTO DE DEFESA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. PRÁTICA DE AGIOTAGEM. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO ACOLHIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
