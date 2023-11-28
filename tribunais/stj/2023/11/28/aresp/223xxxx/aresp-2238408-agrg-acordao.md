@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+I. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, 253, parágrafo único, I, do RISTJ e da Súmula n. 182 do STJ, aplicável por analogia.
+II. O ponto relativo à ausência de prequestionamento não foi especificamente impugnado nas razões deste recurso, incidindo-se, assim, a Súmula n. 182/STJ, a qual dispõe: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+III. ""A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023)" (AgRg no AREsp n. 2.257.587/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+IV. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que negou provimento ao agravo em recurso especial, diante da incidência das Súmulas n. 7/STJ e, por analogia, 282 e 356/STF.
+Nas razões deste agravo, alega a defesa, em suma, que "não se faz necessário se debruçar a respeito do depoimento das testemunhas ou sequer análise documental, mas tão somente a análise do direito e critérios de legalidade com os quais o Tribunal a quo condenou o Agravante, mesmo restando evidente a insuficiência de provas para tanto. Percebe-se, portanto, que se trata de matéria de natureza jurídica" (fl. 842).
+Aduz ainda que, "identificando que o presente feito também trata de pedido de superação da Súmula n.º 231/STJ para fixação de pena-base abaixo do mínimo legal, requer-se que este processo também seja declarado afetado, de ofício, pela discussão referente à eventual proposta de cancelamento ou alteração do enunciado sumular n.º 231/STJ (por se tratar de matéria de ordem pública), de modo que seja sobrestado e retorne à julgamento para análise do pedido de reconhecimento e aplicação das atenuantes da menoridade (artigo 65, I, CP), e confissão espontânea (art. 65, III, d do CPB) para diminuir a pena-base abaixo do mínimo legal apenas após a realização da referida audiência pública, marcada para o dia 17 de maio de 2023" (fl. 845), pugnando, ao final, pelo seu provimento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+I. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, 253, parágrafo único, I, do RISTJ e da Súmula n. 182 do STJ, aplicável por analogia.
+II. O ponto relativo à ausência de prequestionamento não foi especificamente impugnado nas razões deste recurso, incidindo-se, assim, a Súmula n. 182/STJ, a qual dispõe: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+III. ""A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023)" (AgRg no AREsp n. 2.257.587/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+IV. Agravo regimental não conhecido.
+VOTO
+Como relatado, negou-se provimento ao agravo em recurso especial, diante da incidência das Súmulas n. 7/STJ e, por analogia, 282 e 356/STF.
+Contudo, o ponto relativo à ausência de prequestionamento não foi especificamente impugnado nas razões deste recurso, incidindo-se, assim, a Súmula n. 182/STJ, a qual dispõe: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nos termos dos arts. 1.021, § 1º, do CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia, ao recorrente incumbe demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. A esse respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. DECISÃO DE INADMISSÃO DO APELO NOBRE. CAPÍTULOS AUTÔNOMOS. INEXISTÊNCIA. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO INADMITIDO. DESCABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+ ..
+4. Agravo regimental não conhecido. (AgRg no AREsp n. 2.166.373/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO NÃO CONHECIDO.
+1. O agravante limitou-se a reiterar as teses já expendidas, não logrando êxito em rebater os fundamentos da decisão agravada. Incidência da Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+2. Agravo regimental não conhecido (AgRg no HC n. 762.877/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+Por fim, "" a  incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023)" (AgRg no AREsp n. 2.257.587/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+Ante o exposto, diante da fundamentação acima, não conheço do agravo regimental.
+É o voto .
