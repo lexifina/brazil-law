@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência que tem como suscitante o Juízo de Direito da 2ª Vara Cível de Francisco Beltrão/PR e, como suscitado, o Juízo Federal da 1ª Vara de Francisco Beltrão - SJ/PR, nos autos de cumprimento individual de sentença proferida em ação civil pública.
+O Juízo Federal, a quem a ação foi inicialmente distribuída, declinou de sua competência sob os seguintes fundamentos (e-STJ, fl. 145-151):
+Não obstante este Juízo viesse seguindo o entendimento no sentido da competência da Justiça Federal para o julgamento de cumprimento de sentença proferida em Ação Civil Pública processada nesta Justiça especializada, ainda que movido exclusivamente contra o Banco do BrasilS/A, essa orientação deve ser ajustada à jurisprudência pacífica no âmbito do Superior Tribunal de Justiça no sentido de que a competência da Justiça Federal é ratione personae, a qual deve prevalecer à competência funcional do Código de Processo Civil (art. 516), pois inserida em norma hierarquicamente superior (art. 109, I, da Constituição Federal).
+Assim, ainda que se trate de cumprimento individual de título formado em ação civil pública que tramitou na Justiça Federal, sendo ele ajuizado contra pessoa jurídica que não está contemplada no art. 109, inciso I, da Constituição Federal, a competência é da Justiça Estadual.
+O Juízo Cível de Francisco Beltrão, por sua vez, suscitou o presente conflito nos seguintes termos (e-STJ, fls. 582-584):
+Inobstante a respeitável decisão encartada no mov. 1.7.7, certifico que embora a liquidação tenha sido requerida exclusivamente contra o banco requerido, se tratando de sociedade de economia mista não abrangida pela regra do art. 109, 1, da Constituição Federal, deve prevalecer o fato de que o título foi constituído perante a Justiça Federal, sendo desta a
+competência para a liquidação do julgado em questão.
+Não se desconhece o teor da Súmula 508 do STF: "Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S. A".
+Entretanto, deve prevalecer o fato do título ter sido constituído pela Justiça Federal, aplicando-se a regra do art. 516, II, do CPC, que dispõe que o cumprimento da sentença deverá ser efetuado no juízo que decidiu a causa no primeiro grau de jurisdição.
+O Ministério Público Federal apresentou parecer "pela competência do MM. Juízo da 1ª Vara Federal de Francisco Beltrão - SJ/PR" (e-STJ, fl. 626).
+Brevemente relatado, decido.
+Discute-se, em síntese, a competência para processar liquidação individual de sentença coletiva proposta em desfavor do Banco do Brasil, com base na decisão proferida em ação civil pública (ACP n. 00094.008514-1) intentada pelo Ministério Público Federal contra o Banco do Brasil, o Banco Central e a União.
+Inicialmente, a Corte Especial do STJ fixou, sob o rito do art. 543-C do CPC/1973, que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário" (REsp n. 1.243.887/PR, Relator o Ministro Luis Felipe Salomão, Corte Especial, DJe de 12/12/2011).
+No caso em análise, além de se tratar de execução individual de sentença coletiva, a qual pode ser intentada no domicílio do exequente, verifica-se que o procedimento foi apresentado apenas em desfavor do Banco do Brasil S.A., não havendo no polo passivo nenhum ente público que possa justificar a aplicação do art. 109, I, da Constituição Federal, sendo a competência, portanto, do Juízo suscitado.
+Em situações absolutamente semelhantes à presente, esta Corte já declarou a competência da Justiça Estadual. Confiram-se: CC nº 159.253/MS, Rel. Ministro Luis Felipe Salomão, DJe 10/9/2018; CC nº 159.097/MS, Rel. Ministra Maria Isabel Gallotti, DJe 6/9/2018; CC nº 157.891/MS, Rel. Ministro Luis Felipe Salomão, DJe 2/8/2018, e CC nº 157.889/MS, Rel. Ministro Moura Ribeiro, DJe 15/6/2018.
+Diante do exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Cível de Francisco Beltrão/PR, suscitante.
+Dê-se ciência .
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA EM DESFAVOR DO BANCO DO BRASIL. PREVENÇÃO DO JUÍZO FDERAL. INEXISTÊNCIA. EXCLUSÃO DE ENTES FEDERAIS ENVOLVIDOS NA DEMANDA. INTERPRETAÇÃO DO ART. 109, I, DA CF. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES.
