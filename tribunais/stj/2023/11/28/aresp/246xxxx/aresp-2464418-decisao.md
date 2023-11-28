@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CRICIUMA CONSTRUÇÕES LTDA. RCF INCORPORADORA LTDA. e SPE CORONEL ALIRE BORGES CARNEIRO LTDA./EDIFICIO RESIDENCIAL E COMERCIAL MARIA ODETE BOGO EMPREENDIMENTO IMOBILIÁRIO LTDA. (CRICIUMA CONSTRUÇÕES e outros) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 858/862).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a, da CF, CRICIUMA CONSTRUÇÕES e outros alegaram a violação dos arts. 329, II, e 499 do NCPC, ao sustentar que incumbe à parte autora requerer a conversão do pedido de rescisão e perdas e danos por ocasião da petição inicial ou no máximo em emenda à exordial, sendo vedada tal providência posteriormente ou ainda ex officio, devendo preponderar a tutela específica, sob pena de afronta aos princípios da estabilidade e do devido processo legal.
+Esta Corte Superior já assentou em considerável número de precedentes que, uma vez pleiteada tutela específica que se revela inviável, é cabível a conversão automática da pretensão em perdas e danos, independentemente da formulação de pedido pela parte.
+Confiram-se os julgados:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO CONDENATÓRIA. PEDIDO PARA CONVERSÃO DE OBRIGAÇÃO DE FAZER EM INDENIZAÇÃO POR PERDAS E DANOS. INOVAÇÃO RECURSAL. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Recurso especial interposto em 20/7/2021 e concluso ao gabinete em 22/2/2022.
+3. O propósito recursal consiste em dizer se: a) a fixação de honorários violou o parâmetro da objetividade, previsto no art. 85, § 2º, do CPC/2015; e b) caracteriza inovação recursal o pedido, veiculado em apelação, de conversão de obrigação de fazer em indenização por perdas e danos.
+4. Não se vislumbra o efetivo prequestionamento da linha argumentativa referente à possibilidade de fixação dos honorários advocatícios nos parâmetros previstos no art. 85, § 2º, do CPC/2015, razão pela qual inviabilizada está sua apreciação.
+5. "Definida a obrigação pela prestação de tutela específica - seja ela obrigação de fazer, não fazer ou dar coisa certa -, é plenamente cabível, de forma automática, a conversão em perdas e danos, ainda que sem pedido explícito, quando impossível o seu cumprimento ou a obtenção de resultado prático equivalente (art. 461, § 1º, do CPC)" (AgRg no REsp 1293365/RJ, TERCEIRA TURMA, julgado em 06/10/2015, DJe 13/10/2015).
+6. Diante da impossibilidade de cumprimento da obrigação de dar, fazer ou não fazer e sendo consolidado o entendimento do STJ quanto à possibilidade de sua conversão em perdas e danos a qualquer momento do processo, inclusive em sede de cumprimento de sentença, independentemente até mesmo de requerimento, tem-se que tal pedido feito em sede de apelação não está adstrito aos parâmetros impostos pelo efeito devolutivo em sua dimensão horizontal, razão pela qual não configura inovação recursal, podendo ser conhecido.
+7. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp n. 1.993.029/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, j. 21/6/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. A conversão da obrigação de dar, fazer ou não fazer em perdas e danos, em decorrência da inviabilidade de cumprimento específico, não representa julgamento extra petita, ainda que a parte lesada não pleiteie a conversão, pois é lícito ao julgador valer-se das disposições do art. 461, § 1º, do CPC/73 para determinar a conversão da obrigação em obrigação pecuniária quando aquela não pode ser executada, no todo ou em parte. Súmula 568/STJ.
+7. Alterar o decidido no acórdão impugnado, no que se refere à conversão em perdas e danos, em razão der ser impossível a tutela específica ou a obtenção de resultado prático correspondente, como na hipótese, exige o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.803.365/ES, relatora Ministra Nancy Andrighi, Terceira Turma, j. 4/10/2021, DJe de 6/10/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/73. AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE ENTREGAR COISA CERTA C/C DANOS MORAIS. PROMOÇÃO DE NATAL. SORTEIO DE UM CARRO ZERO QUILÔMETRO. PARTE AUTORA CONTEMPLADA. NÃO RECEBIMENTO DO PRÊMIO. BOA-FÉ OBJETIVA. VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO. OBRIGAÇÃO DE DAR COISA CERTA. CONVERSÃO EM PERDAS E DANOS. CABIMENTO. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. PRECEDENTES. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.591.336/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, j. 5/2/2019, DJe de 12/2/2019.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. IMPOSSIBILIDADE DE CUMPRIMENTO ESPECÍFICO. CONVERSÃO EM PERDAS E DANOS. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Não há ofensa ao art. 535 do Código de Processo Civil revogado quando o Tribunal de origem se manifesta, de modo suficiente, sobre todas as questões levadas a julgamento, não sendo possível atribuir vício algum ao acórdão somente porque decidiu em sentido contrário à pretensão dos recorrentes.
+2. A Corte Especial do Superior Tribunal de Justiça, em recurso especial repetitivo, firmou o entendimento de que "a sentença, qualquer que seja sua natureza, de procedência ou improcedência do pedido, constitui título executivo judicial, desde que estabeleça obrigação de pagar quantia, de fazer, não fazer ou entregar coisa, admitida sua prévia liquidação e execução nos próprios autos" (REsp.
+1.324.152/SP, Relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 4/5/2016, DJe 15/6/2016).
+3. A conversão da obrigação de dar, fazer ou não fazer em perdas e danos, em decorrência da inviabilidade de cumprimento específico, não representa julgamento extra petita, ainda que a parte lesada não pleiteie a conversão, pois é lícito ao julgador valer-se das disposições do art. 461, § 1º, do Código de Processo Civil de 1973 para determinar a conversão da obrigação em obrigação pecuniária quando aquela não pode ser executada, no todo ou em parte. Precedentes do STJ.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 698.725/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, j. 17/8/2017, DJe de 22/8/2017.)
+PROCESSO CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. NORMAS LEGAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. TUTELA ESPECÍFICA. IMPOSSIBILIDADE DO CUMPRIMENTO OU DA OBTENÇÃO DE RESULTADO PRÁTICO EQUIVALENTE. CONVERSÃO EM PERDAS E DANOS. CABIMENTO. ART. 461, § 1º, DO CPC. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Incidem as Súmulas n. 282/STF e 211/STJ quando as normas legais indicadas no recurso especial não foram objeto de específico debate no acórdão da apelação cível, tampouco no aresto que julgou os embargos de declaração.
+2. Definida a obrigação pela prestação de tutela específica - seja ela obrigação de fazer, não fazer ou dar coisa certa -, é plenamente cabível, de forma automática, a conversão em perdas e danos, ainda que sem pedido explícito, quando impossível o seu cumprimento ou a obtenção de resultado prático equivalente (art. 461, § 1º, do CPC).
+3. A não impugnação de fundamento autônomo da decisão agravada atrai o óbice previsto na Súmula n. 182/STJ.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.293.365/RJ, relator Ministro João Otávio de Noronha, Terceira Turma, j. 6/10/2015, DJe de 13/10/2015.)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM PERDAS E DANOS E REINTEGRAÇÃO DE POSSE. PERMUTA DE TERRENO POR APARTAMENTOS A SEREM CONSTRUÍDOS. VENDA ANTECIPADA DE UNIDADES A TERCEIROS. NEGATIVA DE CONCLUSÃO DO EMPREENDIMENTO. INVIABILIDADE DE CUMPRIMENTO DA TUTELA ESPECÍFICA DE DEVOLUÇÃO DA GLEBA À ANTERIOR PROPRIETÁRIA. CONVERSÃO E PERDAS E DANOS DE FORMA AUTOMÁTICA, INDEPENDENTEMENTE DE PEDIDO DA PARTE. CABIMENTO. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
