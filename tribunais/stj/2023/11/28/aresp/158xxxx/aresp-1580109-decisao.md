@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo apresentado por Divena Automóveis Ltda. para impugnar decisão que não admitiu recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 153):
+SENTENÇA - Nulidade - Fundamentação suficiente - Preliminar afastada. SEGURO SAÚDE EMPRESARIAL - Rescisão unilateral por parte da empresa estipulante - Aplicabilidade da cláusula contratual que prevê a necessidade de notificação prévia com antecedência mínima de sessenta dias Inteligência do art. 17 RN ANS 195/09 - Exigibilidade dos prêmios do período compreendido pelo aviso prévio - Ação improcedente - Recurso provido.
+Os embargos de declaração opostos pela agravante foram rejeitados (e-STJ, fls. 199).
+Em suas razões de recurso especial, a parte aponta ofensa aos arts. 421, 422 e 476 do CC, 458, II, do CPC, 6º, III, 39, V, 51, IV e X, § 1º, I, II e III, do CDC.
+Afirma que o reajuste do plano de saúde, por aumento de sinistralidade, foi abusivo, impossibilitando a recorrente de arcar com a mensalidade.
+Argumenta que a "decisão de segunda instância fez com que a recorrente não só fosse obrigada a aceitar o reajuste imposto, devendo efetuar o pagamento do mês de outubro (aviso prévio) com o valor reajustado, como também tornou o contrato do plano de saúde unilateral, ou seja, apenas a recorrente foi obrigada a seguir as regras, pois a recorrida não precisou informar o valor do reajuste com antecedência de 60 dias do vencimento da apólice" (e-STJ, fl. 171).
+A parte agravada apresentou resposta aos recursos (e-STJ, fls. 206-217 e 270-282).
+É o relatório.
+Segundo o acórdão recorrido, "em razão do reajuste do prêmio no patamar de 43,77% por sinistralidade e de 17,13% por Variação dos Custos Médicos e Hospitalares (VCMH) (fls. 39), solicitou a autora o cancelamento do contrato de seguro saúde em 30 de agosto de 2017 (fls. 41/43)" (e-STJ, fl. 154 - sem grifo no original).
+A recorrente defende que foi obrigada a aceitar o reajuste imposto, devendo efetuar o pagamento do mês de outubro (aviso prévio) com o valor reajustado, tornando o contrato do plano de saúde unilateral, ou seja, apenas ela seria obrigada a seguir as regras, "pois a recorrida não precisou informar o valor do reajuste com antecedência de 60 dias do vencimento da apólice" (e-STJ, fl. 171).
+Também argumenta que "o reajuste foi abusivo, contrário ao código de defesa do consumidor, impossibilitando a recorrente de permanecer com o plano de saúde, por não ter mais condições de arcar com a mensalidade" (e-STJ, fl. 167).
+O acórdão não tratou da necessidade de a operadora informar o valor do reajuste com antecedência de 60 dias do vencimento da apólice. A suposta abusividade também não foi avaliada pela Corte estadual, não havendo, igualmente, enfrentamento da matéria sob o enfoque da legislação consumerista, nada obstante a oposição dos embargo de declaração, razão pela qual incide a Súmula 211/STJ, ante a ausência de prequestionamento.
+Ressalte-se que o prequestionamento ficto é admitido somente nas hipóteses em que não sanada a omissão no julgamento dos embargos de declaração, a parte suscita a ofensa ao art. 1.022 do CPC no recurso especial, o que não ocorreu no caso dos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. EXCESSO DE EXECUÇÃO. PRECLUSÃO. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. 2. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO AO ART. 85, § 18, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça. Precedentes.
+2. Incide a Súmula 211 do STJ, na espécie, porquanto ausente o prequestionamento.
+2.1. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017), o que não ocorreu.
+3. Agravo interno improvido.
+(AgInt no AREsp 1639399/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEBATE NA ORIGEM DELIMITADO AO TEMA DA PRECLUSÃO. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO EXIGIDO. ART. 1025 DO CPC. PREQUESTIONAMENTO FICTO NÃO EVIDENCIADO. INCIDÊNCIA DA SÚMULA 211 DO STJ.
+1. É entendimento pacífico desta Corte de que a ausência de enfrentamento expresso acerca da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Na exegese do art. 1.025 do Código de Processo Civil de 2015, considera-se prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não se evidencia na hipótese. Precedentes.
+3. É firme no Superior Tribunal de Justiça o entendimento quanto à necessidade de prequestionamento da matéria trazida a exame, ainda que vinculada a tema de ordem pública (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg no REsp 1417392/MG, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 03/08/2015, DJe 17/08/2015).
+4.  ..
+7. Agravo interno não provido.
+(AgInt no AREsp 1548262/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Ainda que assim não fosse, a análise sobre a suposta hipossuficiência, capaz de implicar a incidência do CDC, exigiria revolvimento do arcabouço fático-probatório, procedimento inviável diante do óbice da Súmulas n. 7 do STJ.
+Cabe registrar, por fim, que o mesmo óbice impede a revisão adotada pelo Tribunal de Justiça, no sentido de considerar devido o prêmio referente ao mês seguinte ao pedido de rescisão unilateral por parte da beneficiária, "porque compreendido no período de aviso prévio da rescisão solicitada pela autora" (e-STJ, fl. 154).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor fixado na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO CONTRATUAL. ABUSIVIDADE. DEVER DE COMUNICAÇÃO DE REAJUSTE. APLICAÇÃO DO CDC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. IMPOSSIBILIDADE. OFENSA AO ART. 1.022 DO CPC/2015. REVISÃO DE PROVAS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
