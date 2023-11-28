@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Agravo interno, interposto por MIRIAN DAS GRACAS LOUREIRO, contra decisão de minha lavra, que não conheceu do Recurso Especial.
+Tendo em conta a faculdade prevista no art. 259 do RISTJ, reconsidero a decisão agravada e passo, a seguir, a um novo exame do Recurso Especial.
+Trata-se de Recurso Especial interposto em face de acórdão cuja controvérsia diz respeito, dentre outros, a "definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos".
+Ocorre que a referida matéria foi afetada, pela CORTE ESPECIAL do STJ, para julgamento segundo o rito dos recursos repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, no REsp 1.978.629/RJ, no REsp 1.985.037/RJ e no REsp 1.985.491/RJ , de relatoria do Ministro BENEDITO GONÇALVES (Tema 1.169/STJ, DJe de 18/10/2022).
+Nesse julgamento, determinou-se, com fundamento no art. 1.037, II, do CPC/2015, a "suspensão dos Recursos Especiais e Agravos em Recursos Especiais na segunda instância e/ou no Superior Tribunal de Justiça".
+Ante o exposto, reconsidero a decisão agravada, restando, por ora, prejudicada a análise do recurso, e determino a devolução do presente feito ao Tribunal de origem, com a devida baixa neste Tribunal, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o presente recurso: ( a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+I.
+EMENTA
