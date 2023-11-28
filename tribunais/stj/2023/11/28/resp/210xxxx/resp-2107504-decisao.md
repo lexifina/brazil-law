@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA DA GRAÇA OGNIBENI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte recorrente interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 286):
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. CUMPRIMENTO DE SENTENÇA. IMÓVEL RESTITUÍDO À EMBARGANTE DE TERCEIRO MEDIANTE ACORDO HOMOLOGADO JUDICIALMENTE EM DEMANDA DIVERSA. PROCEDÊNCIA DOS EMBARGOS DETERCEIRO.
+Justifica-se a procedência dos embargos de terceiro para o levantamento da penhora sobre o imóvel restituído à embargante de terceiro pelos adquirentes inadimplentes em acordo homologado judicialmente em demanda diversa, sem prova da vinculação da adquirente do imóvel penhorado e embargante de terceiro em conluio com o executado.
+Exclui-se, assim, a condenação da embargante de terceiro ao pagamento da multa arbitrada pelo juízo, por inexistir demonstração de situação de litigância de má-fé.
+Apelação provida.
+Embargos de declaração rejeitados (fl. 329):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. CUMPRIMENTO DE SENTENÇA. IMÓVEL RESTITUÍDO À EMBARGANTE DE TERCEIRO MEDIANTE ACORDO HOMOLOGADO JUDICIALMENTE EM DEMANDA DIVERSA. PROCEDÊNCIA DOS EMBARGOS DE TERCEIRO. PREQUESTIONAMENTO.
+Os embargos de declaração só se podem justificar nas causas típicas, previstas na lei processual, de obscuridade, omissão, contradição ou erro material. O acórdão julgou procedentes os embargos de terceiro porque para o reconhecimento da fraude à execução exige-se vinculação do adquirente do imóvel penhorado em conluio com o executado e, de acordo com as circunstâncias reconstituídas, principalmente tendo em vista que o imóvel foi restituído à embargante de terceiro pelos filhos do executado mediante acordo homologado judicialmente em ação ajuizada por ela aos compradores inadimplentes, inexiste prova do conluio para fraudar.
+A inexistência causas típicas determina o desacolhimento dos embargos de declaração.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Alega a parte recorrente, preliminarmente, ofensa aos arts. 489 e 1.022, incisos I, II e III, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido. Aduz que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, qual seja: "que o acórdão como prolatado fere a COISA JULGADA E INEXISTE PROVA DE QUE A EMBARGANTE É POSSUIDORA OU LEGITIMADA SOBRE O BEM, deixando de observa e fundamentar com base em fartas provas produzidas nos autos, em especial o depoimento pessoal de ELISABETH, que consta no DVD de audiência de instrução, bem como todas as Certidões de Oficiais de justiça CONTANTE DA EXECUÇÃO (5) que apontam que RICARDO É O POSSUIDOR/PROPRIETÁRIO, E QUE ELIZABETH NUNCA RESIDIU NA CASA" (fl. 356).
+Aponta, no mérito, afronta aos arts. 674, 675, 677 e 792, IV, do Código de Processo Civil.
+Aduz que "O acórdão recorrido violou também o Art. 674 do Código de Processo Civil, vez que considerou que ELIZABETH é proprietária registral do imóvel decidindo afastar a penhora do imóvel de matrícula 4646, conforme se extrai do acórdão acima destacado, o que não está em concordância com que dispõe no Art. 674 do CPC, uma vez que a embargante ELIZABETH sequer detinha da posse do bem" (fls. 351-352).
+Sustenta que "o acórdão merece nulidade, em razão de ELIZABETH não possuir a posse direta do bem, inclusive há registro na Ação de Execução que foi realizado contato com a Sra. Elisabeth, à época em que se tentava citar o executado Ricardo, sendo por ela informado que havia firmado um contrato, mas que não tinha mais interesse na residência" (fl. 356).
+Suscita, outrossim, divergência jurisprudencial.
+Sem contrarrazões ao recurso especial. Sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 420-423), assim ementado (fl. 420):
+RECURSO ESPECIAL EM APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. OMISSÃO VERIFICADA NO ACÓRDÃO RECORRIDO. EMBARGOS DE DECLARAÇÃO REJEITADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART.1.022 DO CPC. DISCUSSÃO ACERCA DA OCORRÊNCIA DA PRESCRIÇÃO. RECURSO ADMITIDO.
+É, no essencial, o relatório.
+Merece prosperar o recurso.
+Da detida análise dos autos, verifica-se que merece guarida a alegação de afronta ao art. 1.022 do CPC no caso dos autos.
+Verifica-se que ausente manifestação do Tribunal a quo acerca do seguinte ponto alegado pela recorrente nos embargos de declaração (fl. 356) :
+ ..  que o acórdão como prolatado fere a COISA JULGADA E INEXISTE PROVA DE QUE A EMBARGANTE É POSSUIDORA OU LEGITIMADA SOBRE O BEM, deixando de observa e fundamentar com base em fartas provas produzidas nos autos, em especial o depoimento pessoal de ELISABETH, que consta no DVD de audiência de instrução, bem como todas as Certidões de Oficiais de justiça CONTANTE DA EXECUÇÃO (5) que apontam que RICARDO É O POSSUIDOR/PROPRIETÁRIO, E QUE ELIZABETH NUNCA RESIDIU NA CASA.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC e em face das questões suscitadas, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA. 1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados. 2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço em parte do recurso especial para dar-lhe provimento , a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
