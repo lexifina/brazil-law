@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WALACE ABREU DE ASSIS (WALACE) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE EMBARGOS À EXECUÇÃO - ASSISTÊNCIA JUDICIÁRIA GRATUITA - PESSOA FÍSICA - INDICÍOS DE CAPACIDADE FINANCEIRA -INDEFERIMENTO - RECURSO NÃO PROVIDO. - O CPC veio positivar orientação, há muito consolidada pela jurisprudência, no sentido de considerar relativa à presunção de veracidade que decorre da alegação de hipossuficiência deduzida pela pessoa física. - Nos termos do § 2º, do art. 99, do CPC, o juiz poderá indeferir o pedido de gratuidade de justiça se houver elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade. - Não tendo a parte juntado documentos capazes de comprovar a alegada insuficiência de recursos financeiros, que a impossibilitasse de arcar com as despesas processuais sem prejuízo do próprio sustento ou de sua família, impõe-se o indeferimento do benefício da gratuidade judiciária (e-STJ, fls. 377).
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+EMENTA: EMBARGOS DE DECLARAÇÃO - ACÓRDÃO - OMISSÃO -CONTRADIÇÃO - INEXISTÊNCIA DE HIPÓTESE DO ARTIGO 1.022 DO NCPC. Não havendo obscuridade, contradição, omissão ou erro material na decisão atacada, os embargos de declaração devem ser rejeitados (e-STJ, fls. 426).
+Irresignado, WALACE interpôs recurso especial com base no art. 105, III, a e c, da CF, apontando a violação dos arts. 98 e 1.022, I e II, do CPC, ao argumento de (1) omissão e contradição no acórdão recorrido que, mesmo instado, não se pronunciou quanto aos documentos juntados que comprovariam sua situação de miserabilidade, no presente caso, e (2) impossibilidade de arcar com as custas do processo, em razão de sua hipossuficiência, o que lhe daria direito à justiça gratuita.
+O recurso especial não foi admitido pelo Tribunal de Justiça de Minas Gerais, por não configurar violação ao artigo 1.022 do CPC e por incidir, no caso, o teor da Súmula nº 7 do STJ (e-STJ, fls. 499/501).
+Nas razões do presente agravo, WALACE refuta os referidos óbices de prelibação (e-STJ, fls. 504/522).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Omissão no julgado recorrido
+WALACE apontou omissão e contradição no acórdão recorrido que, mesmo instado, não se pronunciou quanto aos documentos juntados que comprovariam sua situação de miserabilidade, no presente caso.
+Contudo, não se vê na decisão colegiada os vícios de prestação jurisdicional, a não ser, apenas, o fato de ser contrária à pretensão da parte.
+Encontra-se consignado no acórdão recorrido que:
+Em análise aos autos, observa-se que os documentos colacionados pelo autor não são capazes de demonstrar o seu verdadeiro e atual estado financeiro, haja vista ter apresentado CTPS incompleta, com último registro findo no ano de 2017, além de extratos bancários de contas selecionadas por ele.
+Ademais, extrai-se da decisão proferida pelo Juízo a quo que o agravante detém outras 05 contas bancárias em sua titularidade, vinculadas ao Banco do Brasil, Caixa Econômica Federal, CCPEMM Alto São Francisco, C. C. Livre Admissão da Zona da Mata e Banco Santander, das quais não foram apresentados extratos. Também foi informado que o autor é proprietário de 04 veículos automotores, quais sejam, VW Nova Saveiro RB MBVD, SR/Randon SR CA, Honda Civic LXAeVW Saveiro 1.6 CS, pelo que não é crível que o mesmo seja pobre no sentido legal.
+Destarte, apesar da existência de eventuais despesas ou dívidas, não é possível presumir que estas impossibilitem o agravante de arcar com as custas processuais, tendo em vista que este não demonstrou de forma satisfatória os seus rendimentos atuais.
+Não obstante, o agravante se qualifica como produtor rural e a ação originária destes embargos à execução possui como objeto um saldo devedor no valor de R$1.087.399,49, oriundo da venda de insumos agrícolas, a indicar que o requerente exerce considerável atividade lucrativa.
+Ressalta-se, que a declaração de pobreza, por si só, não é suficiente para o deferimento da benesse, tendo em vista que esta somente se reveste de presunção relativa de veracidade.
+Por fim, apesar de anexar aos autos documentos que demonstram que esteve internado em decorrência de procedimento cirúrgico cardíaco e que em decorrência disso não poderá trabalhar por três meses, o requerente se absteve de juntar mais comprovantes que relatassem seu real estado financeiro, como os extratos das demais contas bancárias em seu nome ou a situação de declaração de imposto de renda referente aos últimos três anos. Além disso, a parte contrária colacionou aos autos certidão do Cartório de Registro de Imóveis referente a uma área de 35.16.75ha da qual o autor é proprietário (doc. 40), o que não coaduna com a realidade de quem pleiteia a assistência judiciária gratuita.
+Destarte, considerando que a gratuidade de justiça é destinada aqueles que, comprovadamente, não dispõem de recursos suficientes para arcar com as despesas processuais, impõe-se o indeferimento da assistência judiciária gratuita ao agravante (e-STJ Fls. 382/383 - sem destaque no original).
+Não existem, portanto, os vícios apontados, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando a rediscutir matéria que já foi analisada.
+(2) Da gratuidade de justiça.
+WALACE apontou impossibilidade de arcar com as custas do processo, em razão de sua hipossuficiência, o que lhe daria direito à justiça gratuita, no presente caso.
+Todavia, r ever as conclusões do acórdão recorrido quanto à não verificação da hipossuficiência da parte, nestes autos, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, mormente considerando o excerto acima transcrito extraído do acórdão recorrido. Tal desiderato, contudo, é vedado em razão do óbice da Súmula n.º 7 do STJ.
+Confira-se, pois, a jurisprudência desta Corte a respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. JUSTIÇA GRATUITA. REQUISITOS. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. É assente o entendimento nesta Corte, segundo o qual a presunção de hipossuficiência da declaração feita pelo requerente do benefício da justiça gratuita é relativa, sendo possível ao juiz exigir a sua comprovação.
+3. A revisão da conclusão do Tribunal local para acolher a pretensão recursal (quanto ao preenchimento dos requisitos para a concessão da justiça gratuita) demandaria o revolvimento do acervo fático-probatório dos autos, medida defesa ante a natureza excepcional da via eleita, conforme enunciado da Súmula nº 7 do STJ.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.066.422/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+O recurso, portanto, não merece que dele se conheça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa parte, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. VÍCIO DE PRESTAÇÃO JURISDICIONAL NO ACÓRDÃO RECORRIDO. NÃO CONFIGURAÇÃO. JUSTIÇA GRATUITA. INDEFERIMENTO. REVISÃO. IMPOSSIBILIDADE. INCURSÃO NOS ELEMENTOS FÁTICOS E PROBATÓRIOS DA LIDE. VEDAÇÃO. SÚMULA N.º 7 DESTA CORTE. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
