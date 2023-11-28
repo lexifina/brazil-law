@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravos em recursos especiais apresentados pela COMPANHIA DE ÁGUAS E ESGOTOS DO RIO GRANDE DO NORTE e pelo MUNICÍPIO DO NATAL contra decisão que inadmitiu apelos nobres interpostos com fundamento no art. 105, III, da Constituição Federal.
+Passo a decidir.
+Agravo em recurso especial interposto pela COMPANHIA DE ÁGUAS E ESGOTOS DO RIO GRANDE DO NORTE:
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: ausência de afronta ao art. 1.022 do CPC e Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente o óbice da Súmula 83/STJ.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS. ARTIGO 932 DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ.
+1. Nos termos do artigo 932, III, do atual Código de Processo Civil, é inviável o agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Incidência da Súmula 182/STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Nos casos em que o recurso especial não é admitido com fundamento na Súmula 83 do Superior Tribunal de Justiça, a impugnação deve demonstrar a distinção do caso, ou indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, evidenciando-se que outro é o entendimento jurisprudencial desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.999.923/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022, DJe de 26/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação do fundamento da decisão que inadmitiu o recurso especial na origem, notadamente quanto à aplicação da Súmula 83 do STJ. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte Superior, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. Em nova análise do agravo interposto, tem-se que, efetivamente, não foi rebatido o fundamento da decisão agravada. Afinal, inadmitido o recurso especial em razão da dissonância da pretensão com a jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+4. Com efeito, o agravo tem por escopo desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação da Súmula 182 do STJ.
+5. Ainda, é importante ressaltar que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.792.507/RN, rel. Min. , Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Na hipótese, o agravante limitou-se a reiterar a argumentação desenvolvida em sede de recurso especial, afirmando, genericamente, que a tese defensiva encontra-se em conformidade com jurisprudência do Superior Tribunal de Justiça, colacionando apenas um precedente datado de 2009, sem, ainda, refutar a aplicabilidade dos precedentes citados na decisão de inadmissão que, por sua vez, fazem referência a julgamentos ocorridos no ano de 2020.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp n. 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp n. 2.098.383/BA, Relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, o agravo não merece ser conhecido.
+Agravo em recurso especial interposto pelo MUNICÍPIO DO NATAL:
+A Corte Especial do STJ, quando do exame do Recurso Especial 1.813.684/SP, ocorrido em 02/10/2019, enfrentou o tema relativo à possibilidade de comprovação posterior de feriado local a suspender o prazo para a interposição de recursos dirigidos a este Tribunal Superior, pacificando o entendimento, mediante modulação, de que a regra disposta no art. 1.003, § 6º, do CPC/2015 somente deveria ser exigida a partir da publicação desse julgado, ocorrida em 18/11/2019.
+Outrossim, em sessão realizada no dia 03/02/2020 (publicação no DJe de 28/02/2020), o mesmo Órgão Superior desta Corte - em questão de ordem suscitada pela Ministra Nancy Andrighi - decidiu que a modulação dos efeitos do referido acórdão restringe-se ao feriado de segunda-feira de carnaval.
+Portanto, extrai-se que apenas nos casos relativos ao feriado de segunda-feira de carnaval e desde que o recurso especial tenha sido interposto até 18/11/2019 é que se admite a comprovação posterior para fins de tempestividade recursal (segundo a modulação dos efeitos do Recurso Especial 1.813.684/SP).
+Não estando o caso enquadrado na referida exceção, prevalece a regra disposta no art. 1.003, § 6º, do CPC/2015, segundo a qual cabe ao recorrente comprovar a ocorrência de feriado local "no ato de interposição do recurso".
+No caso em tela, verifica-se que o agravante tomou ciência da decisão de inadmissibilidade do recurso especial em 10/11/2022, tendo o prazo para interposição do agravo iniciado em 11/11/2022 (e-STJ fl. 3.580). Considerando o feriado nacional do dia 15/11/2022, o recesso forense, de 20/12/2022 a 20/01/2023 (art. 220 do CPC) e o prazo em dobro conferido à Fazenda Pública (art. 183 do CPC), o fim do prazo se deu em 26/01/2023.
+O agravo em recurso especial, contudo, somente foi interposto em 06/02/2023, não tendo sido citado sequer a existência de feriados locais que suspenderiam o prazo processual, tampouco sido apresentada a documentação comprobatória respectiva.
+A esse respeito:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INADMISSIBILIDADE. DISSIDIO JURISPRUDENCIAL. NÃO VERIFICADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICADA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. EXCEÇÃO NÃO VERIFICADA. MITIGAÇÃO. IMPOSSIBILIDADE. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO PREENCHIDOS.
+1. Esta Corte somente excepciona a obrigatoriedade de comprovação de feriado local no ato da interposição do recurso no caso da segunda-feira de carnaval. Ainda assim, exige-se que o recurso tenha sido interposto antes da publicação do REsp 1.813.684/SP (Corte Especial), que ocorreu em 18/11/2019.
+3. Sem ter havido justa causa, devidamente comprovada, que legitime o descumprimento do prazo para recurso, não há como afastar a exigência, consolidada, de comprovação do feriado local no ato da interposição do recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 1.800.352/PA, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 24/10/2023, DJe de 30/10/2023.)
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO dos agravos em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor das partes recorrentes, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
