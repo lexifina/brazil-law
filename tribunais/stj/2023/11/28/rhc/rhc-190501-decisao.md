@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por MICAEL DA SILVA ARAUJO contra acórdão proferido (HC n. 2271129-47.2023.8.26.0000).
+Consta dos autos que o recorrente foi preso no dia 3/10/2023 pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 (e-STJ fls. 14/46). Realizada a audiência de custódia, a prisão em flagrante foi convertida em preventiva (e-STJ fls. 105/106).
+Contra a referida decisão, impetrou-se habeas corpus perante a Corte estadual, que denegou a ordem em acórdão assim ementado (e-STJ fl. 122):
+HABEAS CORPUS - Tráfico de drogas - Pedido de revogação da prisão preventiva - Presença de pressupostos legais que autorizam a manutenção do paciente no cárcere - Despacho suficientemente fundamentado - Insuficiência de imposição de medidas cautelares diversas da prisão - Ordem denegada.
+No presente recurso, a defesa alega a ausência de fundamentação idônea para a manutenção da prisão preventiva do recorrente, tendo em vista que o decreto preventivo e o acórdão impugnado se basearam na gravidade abstrata do crime e argumentos genéricos, não restando demonstrado o periculum libertatis. Sustenta que o Magistrado de primeiro grau não justificou o motivo pelo qual as medidas cautelares alternativas não seriam aplicáveis ao caso concreto. Afirma, ainda, que o réu é primário, possui bons antecedentes, família constituída, trabalho lícito e residência fixa no distrito da culpa.
+Diante do exposto, requer, liminarmente e no mérito, a revogação da prisão preventiva do recorrente, mediante a expedição do alvará de soltura, com a aplicação de medidas cautelares previstas no art. 319 do CPP.
+É o relatório. Decido.
+De plano, verifico que, nesta Corte, também foi impetrado o HC n. 867.565/SP, em favor da ora recorrente, requerendo, igualmente, a revogação do decreto prisional, sob os mesmos fundamentos ora apresentados e apontando o mesmo ato coator. Naquela oportunidade, foi proferida decisão desta relatoria não conhecendo do habeas corpus e mantendo a prisão preventiva do paciente.
+Sobre o tema, é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ressalte-se que o processamento do mencionado habeas corpus foi admitido em homenagem ao princípio da ampla defesa, a fim de se examinar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício, conforme entendimento adotado por esta Corte e pelo Supremo Tribunal Federal. Nesse sentido, confiram-se os seguintes precedentes: HC 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Todavia, a utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou igualmente o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Nesse diapasão:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 750.512/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 750.512/SP, foi formulada idêntica pretensão em favor do ora Recorrente. O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. Assim, é incognoscível a insurgência defensiva.
+2. Não é possível a concessão da ordem de habeas corpus de ofício na hipótese de reiteração de pedido, porquanto a viabilidade de se proceder de tal maneira deve ser verificada quando do julgamento do writ conexo.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 172.358/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+ .. 2. Configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ
+(AgRg no HC n. 444.220/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018). .. (AgRg no HC n. 790.475/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário.
+Intimem-se.
+EMENTA
