@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por RODRIGO DA SILVA BATISTA contra  acórdão  do Tribunal de Justiça que negou provimento ao agravo em execução em que a defesa requeria a extinção da punibilidade, independentemente do pagamento da multa aplicada, em razão de situação de hipossuficiência (fls. 103-104).
+Nas  razões  do  recurso especial,  interposto  com  fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  o  recorrente  alega  violação ao art. 51 do Código Penal e ao art. 61 do Código de Processo Penal. Sustenta, em síntese, que a pena de multa inadimplida não impede a extinção de punibilidade nos casos de hipossuficiência do apenado (fls. 116-125).
+Em contrarrazões, o Ministério Público estadual pugna pelo não conhecimento do recurso especial, em razão dos óbices das Súmulas n. 7 e n. 126, STJ, e n. 280, STF. No mérito, requer a manutenção do acórdão impugnado por seus próprios fundamentos (fls. 134-141).
+O Ministério Público Federal se manifestou pelo provimento do recurso especial (fls. 165-172).
+É  o  relatório. DECIDO.
+Compulsando os autos, observo que a Corte de origem negou provimento ao agravo em execução interposto pela defesa porque o pedido de extinção da punibilidade não havia sido instruído com provas da hipossuficiência alegada e da impossibilidade de quitação da multa de forma parcelada (fl. 108).
+O Supremo Tribunal Federal, no julgamento da ADI n. 3.150/DF, decidiu que a Lei n. 9.268/1996, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção criminal, que lhe é inerente por força do art. 5.º, inciso XLVI, alínea "c", da Constituição da República.
+Em face disso, a Terceira Seção firmou a seguinte tese no Tema Repetitivo n. 931: "na hipótese de condenação concomitante à pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade" (REsp n. 1.785.383/SP, Rel. Min. Rogerio Schietti Cruz, DJe de 30/11/2021).
+Ocorre que, no caso dos autos, a hipossuficiência não foi comprovada, não havendo que se falar em presunção dessa condição por se tratar de réu patrocinado pela Defensoria Pública.
+Nesse sentido:
+"(..) Ausente a comprovação da hipossuficiência econômica, segundo a análise fático-probatória realizada pela Corte local, é inviável a extinção da punibilidade." (AgRg no REsp n. 2.077.170/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/9/2023)
+"(..) 3. No caso dos autos, a efetiva condição de hipossuficiente (absoluta insolvabilidade) não foi, em momento algum, comprovada e debatida nas instâncias ordinárias. Assim, não se pode presumi-la pelo fato de o recorrente não possuir o ensino médio, trabalhar de servente de pedreiro, além de ser defendido pela Defensoria Pública.
+4. Ora, como bem ponderou o Ministro Rogerio Schietti Cruz, no julgamento do HC n. 672.632, DJe 15/6/2021, "nem todos os processados criminalmente, patrocinados pela Defensoria Pública, são hipossuficientes.  .. . Assim, é ônus do sentenciado, durante a execução, justificar o descumprimento da sentença, também no ponto relacionado à multa. Isso deve ser feito, primeiramente, ao Juiz da VEC, com oportunidade de oitiva do Ministério Público"." (AgRg no AREsp n. 2.336.110/SC, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 6/10/2023)
+Desse modo, a pretensão recursal requer o reexame de fatos e provas para elidir as conclusões do Tribunal de origem, o que atrai, inevitavelmente, o óbice da Súmula n. 7, STJ.
+Ante o exposto, e nos termos do art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. NÃO PAGAMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. CONDIÇÃO DE HIPOSSUFICIÊNCIA NÃO COMPROVADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7, STJ. RECURSO ESPECIAL NÃO CONHECIDO.
