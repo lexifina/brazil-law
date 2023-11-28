@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de execução iniciada por JOSE OMAIR RICARDO em face da UNIÃO, objetivando o cumprimento da obrigação de pagar decorrente do MS 26.229/DF, em que fo i concedida a segurança para anular o ato de notificação do procedimento de revisão de anistia, bem como todos os atos que se seguiram, com o pleno e imediato restabelecimento da eficácia da anterior portaria declaratória de anistiado político.
+Intimada para os fins do art. 535 do CPC, a UNIÃO não se opôs ao montante exequendo.
+Ante o exposto, não tendo sido impugnada a execução, homologo o cálculo no valor de R$ 43.995,00 (quarenta e três mil novecentos e noventa e cinco reais) e determino a expedição do requisitório de pagamento, nos termos do art. 535, § 3º, do CPC, com destaque de honorários advocatícios contratuais, se for o caso.
+Condeno a UNIÃO ao pagamento de honorários advocatícios sucumbenciais fixados em 10% sobre o valor da condenação, tendo em vista ser devido esse encargo nas execuções contra a Fazenda Pública, ainda que não impugnadas, nas hipóteses em que o crédito executado está sujeito a pagamento por RPV (art. 85, §§ 3º e 7º, do CPC). Precedentes: AgInt no REsp n. 2.012.137/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/10/2022, DJe de 13/10/2022; AgInt no REsp n. 2.014.120/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022; AgInt no AREsp n. 2.019.637/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/6/2022, DJe de 17/6/2022.
+Publique-se. Intimem-se.
+EMENTA
