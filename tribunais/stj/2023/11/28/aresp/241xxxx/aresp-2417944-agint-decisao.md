@@ -1,0 +1,42 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de fls. 900/904 (e-STJ), reconsidero a decisão de fls. 894/895 (e-STJ) e passo a novo exame do agravo em recurso especial interposto por UNIMED PORTO ALEGRE - COOPERATIVA MÉDICA LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: de obrigação de fazer, ajuizada por DEISE MARA NERVO CUNHA AYUB, em face da agravante, em fase de cumprimento de sentença, na qual a agravante apresenta impugnação alegando inexigibilidade do título e excesso de execução.
+Sentença: julgou procedente a impugnação para reconhecer a inexigibilidade da execução e julgou extinto o cumprimento de sentença pelo pagamento.
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. FORNECIMENTO DESESSÕES DE FISIOTERAPIA DOMICILIAR E REEMBOLSO. IMPUGNAÇÃOAO CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DA FASE EXECUTÓRIA. DESCABIMENTO. A REQUERIDA, DE MODO INJUSTIFICADO, NÃO INICIOU O CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. LOGO, ESTA DEVE RESSARCIR OS VALORES GASTOS NA CONTRATAÇÃO DO SERVIÇO. REEMBOLSO QUE, NOS TERMOS DA SENTENÇA, NÃO ESTAVA CONDICIONADO À DEMONSTRAÇÃO DE IMPRESCINDIBILIDADE DO TRATAMENTO. CONSTATADO, PORÉM, EXCESSO NA EXECUÇÃO. COMPROVANTES ANTERIORES AO PERÍODO ESTIPULADO NO TÍTULO. SENTENÇA DESCONSTITUÍDA.
+1. O decisum exequendo deferiu o pedido de tutela antecipada. Logo, o serviço de fisioterapia deveria ter sido prestado imediatamente, sendo prescindível solicitação da parte autora. In casu, a apelação não possui efeito suspensivo em relação à parte em que foi concedida a tutela.
+2. Também descabe afastar a obrigação de reembolso pela ausência da comprovação de imprescindibilidade do tratamento pois, da dicção do título executivo, se depreende que tais atestados somente poderiam ser exigidos após o início do cumprimento da obrigação.
+3. Porém, há excesso no valor executado. O comando judicial impôs à ré o dever de ressarcir a soma gasto no decurso do processo, ajuizado em outubro de 2013; já os documentos trazidos pela autora remontam ao ano de 2011. Necessário, portanto, o retorno do feito à origem para analisar as questões fáticas e determinar o quantum debeatur.
+RECURSO PROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 373, I, 492, 502, 507, 508 e 1.022 do CPC, 405 e 476 do CC, e 16, VIII, da Lei 9.656/98. Além da negativa de prestação jurisdicional, afirma que "houve o descumprimento da obrigação por parte da exequente, que não se atentou aos termos da sentença no momento em que realizou o tratamento, não possuindo, portanto, título que pudesse ser executado" (e-STJ, fls. 809). Aduz que a agravada não trouxe comprovação da necessidade dos tratamentos.
+Decisão monocrática: não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ.
+Agravo Interno: a parte agravante aduz que impugnou todos os fundamentos da decisão agravada e requer a reconsideração.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das questões postas em debate, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, conforme se extrai dos fundamentos dos embargos de declaração:
+A embargante relata, essencialmente, possível causa de excesso de execução, aduzindo que estaria omisso o acórdão por não enfrentar esta alegação trazida em impugnação e contrarrazões. Insiro trecho da decisão embargada no ponto:
+Porém, assiste razão parcial à apelada: há excesso no valor executado.
+Os documentos juntados pela parte autora remontam ao ano de 2011, enquanto o processo foi ajuizado no dia 3 de outubro de 2013. Sendo que o comando judicial impôs à requerida o dever de ressarcir os valores gastos no decurso do processo, incabível a cobrança de soma dispendida antes da interposição da ação.
+Resta inviabilizado, consequentemente, o julgamento do processo neste momento3, de sorte que o feito deve ser retornado à instância originária e retomada a fase instrutória para analisar as questões fáticas e determinar o quantum debeatur.
+Ante ao exposto, voto por dar provimento ao apelo para desconstituir a sentença e determinar o retorno dos autos à origem, bem como o prosseguimento do cumprimento de sentença.
+Assim sendo, não há que se falar em omissão, uma vez que o acórdão tratou a respeito da alegação de excesso de execução, afastanto, porém, a possibilidade de julgamento sob pena de supressão de instância. Também foi objeto dos embargos suposta ocorrência de erro de premissa fática e razões de decidir dissociadas dos fundamentos apresentados pela impugnante, pois não teria sido solicitado o tratamento pela embargada. Tenho que o acórdão é suficientemente claro quanto à questão, conforme abaixo colacionado:
+Também se mostra descabido afastar a obrigação de reembolso pela ausência da comprovação de imprescindibilidade do tratamento. Consoante redação do decisum exequendo, eventuais atestados de necessidade somente poderiam ser exigidos após o início do cumprimento da obrigação por parte da UNIMED.
+Isto é, o dever de ressarcimento não restou condicionado à providência exigível da autora, tampouco foi estipulado modo de comprovação das despesas, as quais, repisa-se, compreendem o período desde o ajuizamento da demanda até o início do tratamento domiciliar pela ré.
+A mera ausência de solicitação de início do tratamento não justifica a inércia da requerida. Ocorre que, na hipótese, o cumprimento imediato da obrigação era impositivo. Haja vista o comando sentencial exarado no âmbito do processo de conhecimento, forçoso concluir que a instauração do procedimento executório se tratava de possibilidade subsidiária.
+Por fim, não há contradição entre o resultado do julgamento e os honorários sucumbenciais, visto que estes não foram fixados ante a desconstituição da sentença.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 373, I, 492, 502, 507, 508 e 1.022 do CPC, 405 e 476 do CC, e 16, VIII, da Lei 9.656/98, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Ressalte-se, ainda, que os referidos artigos não foram tratados pelo Tribunal de origem sob o viés proposto pelo agravante face o provimento do recurso para desconstituir a sentença e determinar o retorno dos autos à origem para retomada da fase instrutória.
+Forte nessas razões, reconsidero a decisão de e-STJ fls. 894/895 e, por conseguinte CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DECISÃO MONOCRÁTICA RECONSIDERADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. Reconsiderada a decisão de e-STJ fls. 894/895. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
