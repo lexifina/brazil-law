@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 4ª VARA CÍVEL DE BRASÍLIA - SJ/DF, o suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE PORTO ALEGRE - SJ/RS, o suscitado.
+O Juízo Federal da 1ª Vara de Porto Alegre - SJ/RS declinou a competência para o processamento e julgamento do feito para a Vara Federal de Brasília, sob o fundamento de que "a causa de pedir e os pedidos veiculados na presente ação com os objetivos almejados nas referidas demandas podem ensejar decisões conflitantes ou até mesmo contraditórias, caso decididas separadamente, impondo-se a reunião dos autos para julgamento conjunto" (e-STJ fl. 44).
+Por sua vez, o Juízo Federal da 4ª Vara Cível de Brasília suscitou o presente conflito de competência ao entendimento de que (e-STJ fl. 54):
+(..)
+o corre que a declaração de incompetência pela 1ª Vara Federal de Porto Alegre, com a consequente redistribuição do feito, ocorreu em 28/04/2023 (id 1677347991, pág 99), momento posterior ao julgamento de todos os processos acima indicados.
+Nos termos do §1º do art. 337 do CPC, verifica-se a litispendência ou a coisa julgada quando se reproduz ação anteriormente ajuizada. Por sua vez, o § 2º define que uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido.
+Considerando que as ações que fundamentaram a redistribuição do feito não possui identidade de partes com a presente ação, não há que se falar em litispendência.
+No que tange o instituto da conexão, duas ações são conexas quando lhes for comum o pedido e a causa de pedir (art. 55 do CPC). No entanto, consoante estabelece o §1º do aludido artigo, os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado.
+Na hipótese dos autos, todas as ações foram sentenciadas antes da redistribuição deste feito. Logo, imperioso concluir pela incompetência deste Juízo.
+Pelo exposto, suscito conflito negativo de competência em relação ao 1ª Vara Federal de Porto Alegre.
+O Ministério Público Federal manifestou pelo não conhecimento do conflito, com a remessa dos autos ao Juízo suscitado.
+Passo a decidir.
+O art. 34, XXII, do RISTJ dispõe que "são atribuições do relator: decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+No caso, constato que é escorreita a manifestação do suscitante, no sentido de que os feitos que ali tramitavam já foram sentenciados anteriormente à declinação de competência pelo suscitado, o que atrai a aplicação da Súmula 235 do STJ ("A conexão não determina a reunião dos processos, se um deles já foi julgado").
+De fato, ainda que haja conexão entre os feitos, a prolação de sentença em um deles impossibilita a reunião para julgamento conjunto.
+A esse respeito:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. AÇÃO DE REINTEGRAÇÃO DE POSSE, EM TRÂMITE NO TJ/MG, COM SENTENÇA FAVORÁVEL AO ESPÓLIO (PROPRIETÁRIO DO IMÓVEL RURAL). AÇÃO CIVIL PÚBLICA, EM TRÂMITE NA JF/MG, NA QUAL O JUIZ FEDERAL SUSCITOU O CONFLITO. IMPOSSIBILIDADE DE REUNIR AS AÇÕES POR MEIO DA CONEXÃO, UMA VEZ QUE A AÇÃO DE REINTEGRAÇÃO DE POSSE JÁ FOI SENTENCIADA. SÚMULA 235 DO STJ E ART. 55, § 1o. DO CÓDIGO FUX. FUNDAÇÃO PÚBLICA FEDERAL ESTÁ ABRANGIDA PELO ART. 109, I DA CF/1988. A SENTENÇA NÃO PODE SER ANULADA, PARA DETERMINAR O RETORNO DO PROCESSO AO PRIMEIRO GRAU DE JURISDIÇÃO NA JF/MG, POIS O PEDIDO DE ASSISTÊNCIA DA FUNDAÇÃO FOI SUPERVENIENTE AO JULGAMENTO DE PROCEDÊNCIA DA AÇÃO DE REINTEGRAÇÃO DE POSSE. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O TRIBUNAL REGIONAL FEDERAL DA 1a. REGIÃO.
+1. Moldura fática.
+2. (i) Ação de Reintegração de Posse, em trâmite no TJ/MG, com sentença favorável ao Espólio (proprietário do imóvel rural).
+Atualmente aguarda o julgamento de Apelação interposta pelos membros do MST e conta com pedido de assistência da FUNDAÇÃO CULTURAL PALMARES; e (ii) Ação Civil Pública, em trâmite na JF/MG, na qual o Juiz Federal suscitou o Conflito (fls. 2/14), pois se julgou competente para processar também a Ação de Reintegração de Posse.
+3. Fundamentos jurídicos.
+4. O Espólio apresentou vários documentos (fls. 1.444/1.533) para buscar afastar a caracterização dos ocupantes do MST como quilombolas; entretanto, isso diz respeito ao mérito da causa - ou seja, se existe ou não uma comunidade remanescente de quilombo na fazenda e qual a consequência disso -, e não à competência para julgamento em si.
+5. Observa-se a impossibilidade de reunir as Ações por meio da conexão, uma vez que a Ação de Reintegração de Posse já foi sentenciada. É o que consta na Súmula 235 do STJ e no art. 55, § 1o. do Código Fux (AgRg no AREsp. 588.642/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe 2.2.2015; AgRg no AREsp. 75.585/SP, Rel. Min. NANCY ANDRIGHI, DJe 17.8.2012; e CC 117.637/CE, Rel. Min. ARNALDO ESTEVES LIMA, DJe 16.5.2012).
+6. Não existe qualquer nulidade na sentença proferida na Ação de Reintegração de Posse. Afinal, quando o feito foi sentenciado se discutia apenas o direito de posse do Espólio vs. a ocupação do MST.
+Somente após a sentença é que a FUNDAÇÃO CULTURAL PALMARES ingressou no feito (fls. 1.214/1.219).
+7. A FUNDAÇÃO CULTURAL PALMARES, enquanto fundação pública federal (cuja criação foi autorizada pela Lei 7.668/1988), está abrangida pelo art. 109, I da CF/1988. Por isso, incide ao caso a competência em razão da pessoa, o que atrai a causa para a Justiça Federal (CC 149.906/SC, Rel. Min. MAURO CAMPBELL MARQUES, 19.12.2016; e CC 124.289/MG, Rel. Min. SÉRGIO KUKINA, DJe 27.4.2015).
+8. Apesar da inexistência de conexão, a competência para apreciar a Ação de Reintegração de Posse, a partir de agora, é realmente da Justiça Federal, em razão da intervenção como assistente de pessoa jurídica - a Fundação Cultural Palmares - equiparada àquelas do art. 109, I da CF/1988.
+9. Entretanto, a sentença não pode ser anulada, para determinar o retorno do processo ao primeiro grau de jurisdição na JF/MG, pois o pedido de assistência da Fundação foi superveniente ao julgamento de procedência da Ação de Reintegração de Posse. A solução mais acertada é determinar a remessa dos autos ao TRF da 1a. Região, para que este julgue a Apelação (que hoje está no TJ/MG). Precedente: CC 110.869/DF, Rel. Min. MAURO CAMPBELL MARQUES, DJe 17.9.2013.
+10. Ante o exposto, voto por declarar a competência do TRF da 1a. Região para julgar a Apelação na Ação de Reintegração de Posse (a quem caberá, inclusive, verificar a existência de interesse da FUNDAÇÃO CULTURAL PALMARES na causa, bem como analisar eventual efeito suspensivo da Apelação ou pleito liminar de reintegração). A Ação Civil Pública, por sua vez, deverá seguir seu trâmite regular na JF/MG. É como voto, ousando dissentir das propostas apresentadas nos votos dos eminentes Ministros BENEDITO GONÇALVES e SÉRGIO KUKINA.
+(CC n. 159.655/MG, relator Ministro Benedito Gonçalves, relator para acórdão Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 27/11/2019, DJe de 27/4/2020.)
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO TRABALHISTA. AÇÃO CIVIL PÚBLICA EM TRÂMITE NA JUSTIÇA DO TRABALHO E AÇÃO CAUTELAR INOMINADA NO JUÍZO CÍVEL. AÇÃO CIVIL PÚBLICA SENTENCIADA. SÚMULA N. 235/STJ.
+1. Tendo em vista que a ação civil pública já se encontra sentenciada, ainda que se tratem de ações conexas, o que poderia ocasionar a reunião de processos, incide, no caso, a Súmula n. 235, do STJ - "A conexão não determina a reunião dos processos, se um deles já foi julgado".
+2. Agravo regimental improvido
+(AgRg no CC 119.070/ES, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/11/2013, DJe 19/11/2013).
+PROCESSUAL. CONFLITO POSITIVO DE COMPETÊNCIA. CONEXÃO. AÇÃO CIVIL PÚBLICA EM ANDAMENTO E AÇÃO ORDINÁRIA JÁ SENTENCIADA. COEXISTÊNCIA.
+SÚMULA 235 DO STJ.
+1. A sentença proferida por Juízo Estadual não é incompatível com a existência de ação conexa em andamento da Justiça Federal.
+2. Situação em que o Juízo Federal suscitou o conflito positivo de competência em face de Juízo Estadual que já proferiu sentença em processo conexo, incidindo o Enunciado n. 235 da Súmula do STJ ("A conexão não determina a reunião dos processos, se um deles já foi julgado"), que por decorrência lógica afasta a ocorrência do conflito.
+3. Conflito de competência não-conhecido.
+(CC 56.100/MA, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/11/2008, DJe 1º/12/2008).
+Ante o exposto, nos termos do art. 34, XXII, do RISTJ, CONHEÇO do conflito para declarar a competência do JUÍZO FEDERAL DA 1ª VARA DE PORTO ALEGRE - SJ/RS, o suscitado.
+Publique-se. Comunique-se.
+EMENTA
