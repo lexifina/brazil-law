@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na ausência de violação do art. 619 do CPP.
+No recurso especial, sustenta a defesa que "não se tem, tanto no acordão da apelação criminal, quanto nos embargos infringentes, uma distinção/definição do dolo eventual e da culpa inconsciente, impossibilitando a adequada tipificação legal dos fatos" (fl. 1.011).
+Argumenta que "a indicação de que o recorrente tentou desviar das vítimas e o estado de choque em que se encontrava após os fatos, indica que não estamos diante de um dolo eventual e sim uma culpa. André até pode ter pensado que poderia causar um acidente, mas certamente não dirigiria se soubesse que o causaria. Do contrário, não tentaria desviar das vítimas e nem demonstraria choque em razão do acontecido. Na culpa, o agente até prevê a ocorrência do resultado, mas não o aceita. Se pudesse realizar uma prospecção dos acontecimentos, não praticaria a inobservância de dever de cautela. É esse exatamente o sentido do art. 18, inciso II do código penal" (fl. 1.014).
+Requer o provimento do recurso para declarar a nulidade do acórdão dos embargos infringentes.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo em recurso especial não deve ser conhecido.
+Ao deixar de admitir o recurso especial, o Tribunal de origem destacou que "os embargos de declaração, manejados pela defesa, buscaram apenas desconstituir os fundamentos de fato e direito expendidos no acórdão", no sentido de que "os elementos probatórios existentes no processo demonstram que o recorrente excedeu o âmbito de reconhecimento de uma conduta imprudente, negligente ou imperita. Malgrado o réu não tenha almejado a ocorrência diretamente do resultado, ao dirigir diante das circunstâncias delineados no processo, extrapolando os limites da normalidade, previu e aceitou como possível o risco de produzir o resultado, sendo plausível que tenha agido com dolo eventual" (fl. 1.044).
+Ocorre que, nas razões do agravo em recurso especial, a defesa não se insurgiu, de modo adequado e suficiente, contra os fundamentos da decisão impugnada. Limitou-se a alegar que "a inadmissibilidade do Recurso Especial apontada pela 3ª Vice-Presidência do TJMG não está fundada na aplicação de entendimento firmado em regime de repercussão geral nem em julgamento de recursos repetitivos" (fl. 1067), bem como em reiterar as razões do recurso especial.
+A ausência de impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
