@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA CRIMINAL DE VOTORANTIM - SP suscita conflito de competência, em inquérito policial, diante o JUÍZO DE DIREITO DA 1ª VARA DE TÓXICOS, ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE BENS E VALORES DE BELO HORIZONTE - MG.
+A constrovérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de medidas judicias que se façam necessárias em procedimento investigativo instaurado para apurar suposta prática de tráfico interestadual de drogas.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Criminal de Votorantim - SP, ora suscitante (fls. 19-21).
+Decido.
+Com razão o Ministério Público Federal. Como cediço, o tráfico de drogas, por se tratar de crime formal plurinuclear ou de condutas múltiplas, consuma-se com a prática de qualquer um de seus verbos, de modo que remetida a droga de um Estado para o outro, dentro do território nacional, o delito já está consumado ainda que interceptada na droga sem que tenha chegado ao seu destino final.
+No caso, como assinalou o Juízo suscitado, "verifica-se caso típico de tráfico interestadual de drogas por via postal e, conforme já decidido no Conflito de Competência 147.802/MS, a competência em caso de remessa postal de drogas é atribuída ao Juízo do local da postagem" (fl. 12). Logo, a competência em relação às drogas enviadas de Votorantim - SP, hipótese dos autos, deve ser fixada perante o Juízo suscitante. No que tange as demais remessas, a comeptência também se firmará, em princípio, perante os respectivos juízos daquelas localidades.
+De fato, "no tráfico interestadual de drogas,  .. , é de se considerar como local da remessa do entorpecente o lugar da consumação do delito, nos termos do art. 70 do Código de Processo Penal, relevando-se a competência, inclusive, em favor da produção de provas e do desenvolvimento dos atos processuais" (CC n. 147.802/MS, Rel. Ministro Ribeiro Dantas, DJe de 13/10/2016).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal de Votorantim - SP, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e sucitado.
+EMENTA
