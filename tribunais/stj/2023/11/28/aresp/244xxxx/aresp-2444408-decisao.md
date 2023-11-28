@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MUNICÍPIO DE EMBU DAS ARTES, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"EXECUÇÃO FISCAL. TAXA DE LICENÇA E FUNCIONAMENTO. SENTENÇA QUE PRONUNCIA PRESCRIÇÃO E EXTINGUE O PROCESSO. INÉRCIA DO MUNICÍPIO CARACTERIZADA. APELO IMPROVIDO.
+Inaugurado o processo antes do advento da Lei Complementar n. 118105 e não aperfeiçoado o ato citatório dentro do quinquênio legal, por inércia do exequente, opera-se a prescrição originária e cabe extinção da execução fiscal" (fl. 51e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados (fls. 62/65e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, aponta violação aos arts. 219, § 1º, do CPC/73, e 8º, § 2º, Lei 6.830/80.
+Sem Contrarrazões (fl. 76e).
+Inadmitido o Recurso Especial com fundamentos nos Temas 179, 566, 567, 568, 569, 570 e 571/STJ (fls. 77/79e), foi interposto o presente Agravo (fls. 82/88e).
+A irresignação não merece conhecimento.
+Com efeito, consoante o disposto no art. 1.030, §2º, do CPC/2015, é cabível Agravo Interno contra decisão que nega seguimento a Recurso Especial com base no inciso I, b, deste mesmo artigo:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+(..)
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+(..)
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021".
+Dessa feita, a interposição de recurso diverso do previsto expressamente em lei o torna manifestamente incabível, o que afasta, inclusive, o princípio da fungibilidade recursal, uma vez que não há dúvida objetiva acerca do recurso cabível.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL FUNDADA NO ART. 1.030, I, B, DO CPC/2015. AGRAVO DO ARTIGO 1042 DO CPC/2015. NÃO CABIMENTO. MATÉRIA PACIFICADA PELA CORTE ESPECIAL (QO NO AG 1.154.599/SP).
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Agravo de Instrumento 1.154.599/SP, Rel. Min. César Asfor Rocha, DJe de 12/5/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto deve ser impugnado mediante interposição de agravo regimental/interno junto à instância a quo. Precedentes.
+3. No caso, observa-se que a decisão que negou seguimento ao apelo especial foi fundamentada no entendimento firmado nos Temas 491, 492 e 905 do STJ, e 810 do STF (cujas matérias foram submetidas à sistemática dos recursos repetitivos e da repercussão geral, respectivamente).
+Assim, incabível o questionamento apresentado nesta oportunidade.
+4. Agravo interno não provido" (STJ, AgInt no AREsp 1.932.528/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 23/02/2022).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO, NA ORIGEM, COM BASE NO ART. 1.030, I, B, DO CPC/2015. PREVISÃO DE AGRAVO INTERNO, NO PRÓPRIO TRIBUNAL DE ORIGEM (ART, 1.030, § 2º, CPC/2015). INTERPOSIÇÃO DE AGRAVO PARA O STJ. ERRO GROSSEIRO. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. INTEMPESTIVIDADE. CORPUS CHRISTI. FERIADO LOCAL NÃO COMPROVADO, NO ATO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ARTS. 1.003, § 6º, E 1.029, § 3º, DO CPC/2015. PRECEDENTES DO STJ E DO STF. AGRAVO INTERNO CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Nos termos do art. 1.030, § 2º, do CPC/2015, não cabe Agravo em Recurso Especial, dirigido ao STJ, contra decisão que, na origem, nega seguimento a Recurso Especial, com fundamento no art. 1.030, I, b, do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por Agravo interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em Recurso Especial representativo da controvérsia. Nesse sentido: STJ, AgInt no AREsp 1.035.517/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017; AgInt no AREsp 967.166/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/10/2017; AgInt no AREsp 1.010.292/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/04/2017; AgInt no AREsp 951.728/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 07/02/2017.
+III. Nos termos da jurisprudência do STJ, "a interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno" (STJ, AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/08/2016).
+(..)
+XIII. Agravo interno conhecido em parte e, nessa extensão, improvido" (STJ, AgInt no AREsp 1.966.861/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 02/03/2022).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+I.
+EMENTA
