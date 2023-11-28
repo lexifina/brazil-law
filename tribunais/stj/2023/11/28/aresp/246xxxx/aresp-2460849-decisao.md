@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. (BB) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+O acórdão recorrido tem a seguinte ementa:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS.
+CÉDULA DE CRÉDITO RURAL. AÇÃO CIVIL PÚBLICA Nº 94.00.08514- 1/DF. NECESSIDADE DE LIQUIDAÇÃO. PRECLUSÃO. TEMA 1169 DO STJ. NÃO AFETAÇÃO.
+1. Nos termos do artigo 507 do Código de Processo Civil, é vedada a rediscussão, dentro do mesmo processo, de questões já decididas, operando-se a preclusão consumativa.
+2. Dessa forma, a questão relativa à necessidade de liquidação resta preclusa, uma vez que já foi objeto de deliberação pelo juízo de origem, sem qualquer irresignação recursal. Logo, não há razão para a suspensão do processo na origem, com base no Tema Repetitivo nº 1169 do STJ, cumprindo determinar o prosseguimento do feito.
+AGRAVO DE INSTRUMENTO PROVIDO (e-STJ, fl. 50)
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a da CF, BB alegou ofensa aos arts. 369, 465, 489, § 1º, III e IV, 502, 509, 511, 1.022, 1.025 e 1.037, II, todos do CPC, sustentando, em síntese, (1) negativa de prestação jurisdicional quanto a necessidade de liquidação de sentença pelo procedimento comum, não ocorrência de preclusão sobre o ponto e necessidade de sobrestamento do feito em virtude da decisão proferida por esta Corte; (2) necessidade de liquidação de sentença sob o procedimento comum, matéria de ordem pública que deveria ter sido conhecida de ofício, bem como que não houve decisão anterior sobre o ponto, não havendo que se falar em preclusão.
+(1) Negativa de prestação jurisdicional
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+No caso, não está demonstrado nenhum vício no acórdão recorrido, porquanto a fundamentação adotada é clara e suficiente ao proclamar que não seria possível analisar a questão relativa à liquidação da sentença, tendo em vista a preclusão consumativa.
+(2) Liquidação da sentença
+BB sustentou a necessidade de liquidação de sentença sob o procedimento comum, alegando tratar-se de matéria de ordem pública que deveria ter sido conhecida de ofício, bem como que não houve decisão anterior sobre o ponto, não havendo que se falar em preclusão.
+Quanto ao ponto, o TJRS consignou que a questão relativa à necessidade de liquidação estava preclusa, uma vez que já tinha sido objeto de deliberação pelo Justiça Federal, sem qualquer irresignação recursal.
+A condição da ação, conquanto seja matéria de ordem pública, submete-se à preclusão pro judicato. Isso significa que, uma vez decidida, somente pode ser revista mediante interposição do competente recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA PRECLUSÃO PRO JUDICATO. APRECIAÇÃO ANTERIOR EM DECISÃO TRANSITADA EM JULGADO SOBRE A PRESCRIÇÃO. PREMISSA DO ARESTO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. PRAZO ÂNUO DE PRESCRIÇÃO DE AÇÕES ENVOLVENDO SEGURADO E SEGURADOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Consoante orientação do Superior Tribunal de Justiça, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional" (AgInt no REsp n. 1.756.189/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 12/6/2020).
+(AgInt no AREsp n. 2.090.726/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO BANCÁRIO. AUSÊNCIA DE TÍTULO EXECUTIVO. PRECLUSÃO PRO JUDICATO. PRESCRIÇÃO DE COBRANÇA DOS JUROS REMUNERATÓRIOS. ART. 178, §10, III, CC/1916. ART. 206, §3º, III, CC/02. NÃO INCIDÊNCIA. GRAU DE SUCUMBÊNCIA. REVISÃO. SÚMULA 7/STJ. 1. O Tribunal de origem, assentou que a alegação de ausência de título executivo por falta de assinatura da testemunha em instrumento particular não poderia ser novamente analisada em virtude de já ter sido objeto de análise e afastamento por aquela Corte em outro processo (Agravo de Instrumento 2007.04.00.001825-4), incidindo o instituto da preclusão pro judicato.
+2. A decisão da Corte de origem encontra-se em harmonia com a jurisprudência sedimentada neste Tribunal Superior, no sentido de que à luz da legislação processual, tanto a anterior quanto a vigente, a preclusão pro judicato impede novo pronunciamento judicial acerca de matérias novamente alegadas, mesmo as de ordem pública, por se tratar de matéria já decidida, ainda que em autos ou recurso diverso, mas relativos à mesma causa. Precedentes.
+(AgInt no REsp n. 1.595.313/SC, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 24/8/2020, DJe de 26/8/2020.)
+Ademais, a questão relativa à necessidade de liquidação da sentença foi decidida com base no acervo fático-probatório do feito, de modo a inviabilizar o acolhimento da pretensão recursal nos termos da Súmula nº 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER PARCIALMENTE o recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. NECESSIDADE DE LQIUIDAÇÃO DA SENTENÇA COLETIVA. MATÉRIA DE ORDEM PÚBLICA SUJEITA À PRECLUSÃO PRO JUDICATO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO NÃO PROVIDO.
