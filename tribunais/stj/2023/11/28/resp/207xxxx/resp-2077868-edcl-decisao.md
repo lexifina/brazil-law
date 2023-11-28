@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCO GERALDO ABRAHÃO SCHORR, TELMO RICARDO ABRAHAO SCHORR e VALERIA SCHWERTZ HENKES contra decisão de minha lavra, proferida às e-STJ fls. 1.259/1.260, em que determinei o retorno dos autos à origem para observância do art. 1.040 do CPC/2015 em virtude da tese a ser fixada no Tema 1.190 do STJ.
+Aduz a parte embargante, sob os argumentos de omissão e erro material, que a questão debatida nos autos - fixação de honorários advocatícios na execução que enseja a expedição de precatório - seria diversa daquela submetida ao regime da RPV.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, observa-se que, de fato, a questão tratada no recurso da parte ora embargada não versa sobre a mesma controvérsia submetida ao Tema 1.190 do STJ, razão pela qual insubsistente a decisão embargada.
+Assim, é hipótese de acolhimento dos aclaratórios, com a atribuição de efeitos modificativos, razão pela qual passo à análise do apelo nobre.
+Trata-se de recurso especial interposto por MARCO GERALDO ABRAHÃO SCHORR, TELMO RICARDO ABRAHAO SCHORR e VALERIA SCHWERTZ HENKES, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ fl. 655):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS DA EXECUÇÃO.
+Honorários advocatícios - Consolidou-se não serem devidos honorários executivos pela Fazenda Pública nas execuções por quantia certa que não tenham sido embargadas, e cujo crédito deva ser pago mediante expedição de precatório, o que não foi alterado com o advento do CPC/15, a teor do art. 85, §7º.
+- O fato, por si só, de ter o ente público apresentado impugnação à execução que lhe é proposta não implica direito ao patrono da parte credora em receber honorários advocatícios para a fase de cumprimento de sentença.
+- A fixação de honorários advocatícios e a própria imposição do ônus respectivo está vinculada apenas ao resultado/sucumbência do julgamento da impugnação.
+- Precedentes do STJ citados que não enfrentam a distinção e, por isso, não tem efeito vinculante.
+AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Rejeitados os aclaratórios (e-STJ fls. 894/903).
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 85, § 7º, 489, § 1º, IV, e 1.022, II, do CPC/2015, sustentando negativa de prestação jurisdicional, bem como a necessidade de fixação de honorários na execução contra a Fazenda Pública que enseja a expedição de precatório, verba que não se confundiria com aquela devida no contexto dos embargos do devedor.
+Contrarrazões às e-STJ fls. 1.224/1.237.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 1.240/1.244.
+No tocante à alegada ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+Quanto ao mais, a irresignação recursal comporta acolhida.
+Com efeito, a dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório. A contrario, oferecida resistência à execução da sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade. Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR . PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015 CABIMENTO. SÚMULA 83/STJ. APLICAÇÃO.
+1. O Tribunal foi expresso ao afirmar que houve impugnação à Execução pelo recorrente, o que atraiu a fixação dos honorários advocatícios.
+2. A distinção feita pelo Tribunal de origem de que se trata de cabimento dos honorários advocatícios para a fase de cumprimento da sentença em execução sob regime de precatório, em razão da impugnação havida, em aplicação ao art. 85, § 7º, do CPC/2015, coincide com o atual entendimento do STJ. Precedente: REsp 1.666.182/RS, Rel. Min. Herman Benjamin Segunda Turma, DJe 19.12.2017.
+3. Não obstante a boa qualidade dos argumentos expendidos pelo agravante, o arrazoado, que somente reitera os argumentos do Recurso Especial, não tem o condão de infirmar as bases da decisão agravada.
+4 Agravo Interno não provido.
+(AgInt no REsp 1.814.321/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/12/2019, DJe 19/12/2019).
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou (fl. 575, e-STJ): "No caso dos autos, contudo, houve impugnação à execução pelo IBAMA (evento 81, na origem). É caso, pois, de arbitramento de honorários de execução de 10% sobre o valor do crédito, nos termos do 85, § 3º, inciso II do CPC".
+2. Não se conhece de Recurso Especial em relação à ofensa ao art. 1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+3. O STJ tem jurisprudência firme e consolidada no sentido de que, em se tratando de execução por quantia certa de título judicial contra a Fazenda Pública, a regra geral é a de que somente são devidos honorários advocatícios se houver Embargos. É o que decorre do art. 1º-D da Lei 9.494/97, introduzido pela Medida Provisória 2.180-35, de 24 de agosto de 2001. Ao dirimir a controvérsia, o Tribunal foi expresso ao afirmar que houve impugnação à Execução pelo recorrente, o que atraiu a fixação dos honorários advocatícios.
+4. O Superior Tribunal de Justiça atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias. Incidência da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.666.182/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017).
+Nesse mesmo sentido, confiram-se, ainda, as seguintes decisões monocráticas: REsp 1.880.935, Relator Ministro BENEDITO GONÇALVES, Data da Publicação: 10/08/2020; REsp 1.883.585, Relator Ministro FRANCISCO FALCÃO, Data da Publicação: 17/08/2020; REsp 1.694.543, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Data da Publicação: 18/05/2020; REsp 1.765.745, Relator Ministro FRANCISCO FALCÃO, Data da Publicação: 14/02/2020.
+Ante o exposto, ACOLHO os embargos de declaração, com a atribuição a eles de efeitos modificativos, para RECONSIDERAR a decisão de e-STJ fls. 1.259/1.260, tornando-a sem efeito, e, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos à origem para fixação da verba honorária na fase de cumprimento de sentença.
+Publique-se. Intimem-se.
+EMENTA
