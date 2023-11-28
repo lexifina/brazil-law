@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE CURITIBA, com respaldo na alínea "a" do permissivo constitucional, para desafiar acórdão assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ISS. QUITAÇÃO DO DÉBITO PRINCIPAL ANTES DA CITAÇÃO DA DEVEDORA. PEDIDO DE APLICAÇÃO DO ART. 924, INCISO II, DO CÓDIGO DE PROCESSO CIVIL, SEM QUE A RELAÇÃO PROCESSUAL TENHA SE FORMADO. PARCELAMENTO REALIZADO EM ÂMBITO ADMINISTRATIVO. INVIABILIDADE DE ATRIBUIÇÃO DE EFEITOS CITATÓRIOS. ART. 238 DO CÓDIGO DE PROCESSO CIVIL. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DAS CUSTAS PROCESSUAIS, PELO PRINCÍPIO DA CAUSALIDADE. ART. 90 DO CÓDIGO DE PROCESSO CIVIL. RECURSO DE APELAÇÃO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados.
+O recorrente, apontando violação dos arts. 90 e 924, II, do CPC/2015, sustenta, em resumo, que é descabida a condenação da Fazenda Pública ao pagamento de custas judiciais referentes à execução fiscal que veio a ser extinta em face de superveniente pagamento administrativo do crédito cobrado, sendo esse ônus da parte executada, porquanto deu causa à propositura da demanda.
+Sem contrarrazões.
+O Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Na origem, cuidam os autos de execução fiscal ajuizada pela Fazenda Pública recorrente.
+O magistrado de primeiro grau extinguiu o feito em razão de pagamento extrajudicial e, por este ter ocorrido antes da citação, condenou a exequente a arcar com as custas processuais, excluída destas a taxa judiciária.
+Na sequência, o TJ/PR, em sede de apelação, manteve a condenação do ente público nas custas processuais, com a seguinte motivação:
+A insurgência do apelante é contra a sentença que julgou extinta a execução fiscal, em razão da satisfação do crédito tributário, condenando-o ao pagamento das custas processuais.
+No caso em análise, vislumbra-se que a execução fiscal foi ajuizada em 20/02/2020, visando o recebimento de crédito tributário relativo ao ISS do exercício de 2015 (CDA nº 1.288/2020).
+Na data de 06/08/2020, o Município de Curitiba noticiou o parcelamento do débito e requereu a suspensão da demanda, apresentando termo assinado por terceiro com procuração (mov. 11).
+Em 06/07/2022, o ente público informou não constar mais o débito que deu ensejo à execução, requerendo a extinção do feito nos termos do art. 924, II, do Código de Processo Civil (mov. 18.1).
+Sobreveio a sentença recorrida, homologando o pagamento e julgando extinto o feito, responsabilizando o Município pelas custas processuais (mov. 21.1).
+Na apelação, o exequente alega que o pagamento foi realizado administrativamente, posteriormente ao ajuizamento da demanda, razão pela qual as custas deveriam ser impostas à executada.
+Não lhe assiste razão.
+ ..
+Observo que o parcelamento foi realizado em âmbito administrativo, sendo inviável impor-lhe os mesmos efeitos da citação, dado que esta é o ato que convoca o executado a integrar a relação processual, e não consta dos autos a informação de que ele tenha comparecido na esfera judicial.
+Então, a atribuição do ônus sucumbencial deve ser orientada pelo princípio da causalidade.
+O Código de Processo Civil, sobre o tema, estabelece que:
+"Art. 90. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu."
+Nesse passo, tendo a Fazenda Pública requerido a aplicação do artigo 924, II, do Código de Processo Civil, antes de formada a relação processual, e não sendo possível imputar o ônus do pagamento das custas processuais à parte devedora, porque não teve ciência do processo, em observância ao princípio da causalidade, a condenação deve ser suportada pelo exequente.
+Pois bem.
+Do que se observa, o entendimento consignado no acórdão recorrido destoa da orientação jurisprudencial desta Corte Superior, segundo a qual o pagamento do débito na esfera administrativa realizado posteriormente ao ajuizamento da execução fiscal, ainda que antes de ocorrida a citação, impõe ao executado (e não à Fazenda Pública exequente) arcar com os ônus sucumbenciais, entre eles, as custas judiciais, em razão do princípio da causalidade, visto que foi a inadimplência do devedor que deu causa à instauração do processo.
+A esse propósito, vide:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRINCÍPIO DA CAUSALIDADE. PARCELAMENTO DO DÉBITO PELO EXECUTADO ANTES DA SUA CITAÇÃO. CONDENAÇÃO AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+1. Cuida-se de inconformismo com acórdão do Tribunal de origem que não condenou a parte executada em honorários advocatícios, mesmo tendo dado causa à ação 2. Sustenta o recorrente que o ajuizamento da demanda ocorreu por culpa do devedor, razão pela qual deve responder pelos ônus sucumbenciais, mesmo que a execução tenha sido extinta antes de sua citação, em respeito ao princípio da causalidade.
+3. Na origem, trata-se de Execução Fiscal ajuizada em razão de débitos tributários municipais, não pagos pela contribuinte acima identificada. Posteriormente ao ajuizamento da demanda, o executado efetuou o pagamento integral da dívida por meio de parcelamento administrativo de débitos. Adimplidos os valores, a parte exequente requereu a extinção do feito. O Juízo de primeiro grau extinguiu a execução, deixando de imputar à parte executada o adimplemento de honorários de advogado sob o argumento de que a aplicação da regra da causalidade demanda citação válida.
+4. Com efeito, o Superior Tribunal de Justiça possui entendimento de ser devida a condenação ao pagamento de honorários advocatícios quando a quitação extrajudicial do débito excutido ocorrer após o ajuizamento da ação executiva, mesmo antes de efetivada a citação, em homenagem ao princípio da causalidade, não devendo incidir a exceção prevista no art. 26 da LEF. (AREsp 1.442.828, Min. Benedito Gonçalves, Data da Publicação 12/4/2019 e AgInt no AREsp 1.067.906/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 13/12/2017).
+5. Assim, segundo a jurisprudência do STJ, os honorários advocatícios são devidos pela parte executada na hipótese de extinção da Execução Fiscal em decorrência do pagamento extrajudicial do quantum, após ajuizada a ação e ainda que não tenha sido promovida a citação. O pagamento do débito exequendo equivaleu ao reconhecimento da pretensão executória (Aglnt no AREsp 896 802/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/10/2016).
+6. Logo, o entendimento do Tribunal local vai de encontro com o Princípio da Causalidade, que prevê o pagamento das despesas e dos honorários por aquele que der causa à demanda, mesmo que a relação jurídica processual não tenha sido formada, pois o autor da ação não pode ser prejudicado pelo exercício de direito legítimo, que, no caso, é a propositura da execução fiscal. (REsp 1.592.755/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/9/2016 e AgRg no AREsp 759.959/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 28/9/2015).
+7. É que o processo de execução também implica despesas para as partes. Desta sorte, na execução em si, pretendendo o executado quitar a sua dívida, deve fazê-lo com custas e honorários. Como é de sabença, "responde pelo custo do processo aquele que haja dado causa a ele, seja ao propor demanda inadmissível ou sem ter razão, seja obrigando quem tem razão a vir a juízo para obter ou manter aquilo a que já tinha direito" (REsp 1.178.874/PR, Rel. Ministro Luiz Fux, Primeira Turma, DJe 27/8/2010).
+8. Recurso Especial provido.
+(REsp 1.854.592/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2020, DJe 31/08/2020).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. QUITAÇÃO DO DÉBITO EM DATA POSTERIOR AO AJUIZAMENTO DA EXECUÇÃO FISCAL E ANTERIOR À CITAÇÃO. CONDENAÇÃO DA FAZENDA AO PAGAMENTO DE HONORÁRIOS. IMPOSSIBILIDADE.
+1. A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que são devidos honorários advocatícios pela parte executada à Fazenda Pública na hipótese de a execução fiscal ser extinta em decorrência do pagamento extrajudicial do crédito tributário, realizado posteriormente ao ajuizamento do feito, ainda que efetuado antes da citação da contribuinte.
+2. Precedentes: REsp 1.178.874/PR, Rel. Ministro Luiz Fux, Primeira Turma, DJe 27/8/2010; AgInt no AREsp 1.067.906/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 13/12/2017; e REsp 1.802.663/PA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 29/05/2019.
+3. In casu, caberia à parte contribuinte arcar com os honorários sucumbenciais, sendo descabida a pretensão de que a Fazenda seja condenada ao pagamento dessa verba.
+4. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.425.138/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/08/2019, DJe 16/08/2019).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para atribuir à parte executada a responsabilidade pelo pagamento das custas processuais.
+Publique-se. Intimem-se.
+EMENTA
