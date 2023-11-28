@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial no qual a empresa recorrente defende que a cobrança do ICMS/DIFAL deve observar a anterioridade nonagesimal contada da Lei Complementar n. 190/2002.
+O digno representante do Ministério Público Federal opina pelo não conhecimento do recurso.
+Passo a decidir.
+O Supremo Tribunal Federal, em 22/08/2023, nos autos do RE 1426271/CE, reconheceu a repercussão geral da controvérsia sobre a "incidência da regra da anterioridade anual e nonagesimal na cobrança do ICMS com diferencial da alíquota (DIFAL) decorrente de operações interestaduais envolvendo consumidores finais não contribuintes do imposto, após a entrada em vigor da Lei Complementar n. 190/2022" (Tema 1266 do STF).
+Encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Confiram-se as seguintes decisões monocráticas nesse mesmo viés: REsp 2.081.752/TO, Relator Ministro Benedito Gonçalves, DJ 19/09/2023; REsp 2.088.101/DF, Relator Ministro Sérgio Kukina, DJ 04/09/2023.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do RE 1426271/CE (Tema 1.266) pelo Supremo Tribunal Federal e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+EMENTA
