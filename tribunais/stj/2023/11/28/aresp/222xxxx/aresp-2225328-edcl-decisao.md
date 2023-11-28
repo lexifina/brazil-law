@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo ESTADO DO PARANÁ, a decisão de minha lavra, que conheceu do Agravo, para não conhecer do Recurso Especial, interposto pela parte agravada.
+Sustenta a parte embargante a existência de omissão em relação à condenação aos honorários advocatícios recursais, previstos no art. 85, § 11, do CPC/2015.
+Requer sejam os Embargos de Declaração recebidos e acolhidos para determinar a majoração dos honorários sucumbenciais, nos termos do art. 85, § 11, do CPC/2015.
+Nas razões de impugnação, a parte embargada pugna pela rejeição dos Embargos Declaratórios (fl. 657e).
+Os Embargos de Declaração não merecem prosperar.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso, conquanto o Recurso Especial tenha sido interposto contra acórdão publicado na vigência do CPC/2015 - o que, em tese, permitiria a majoração pretendida -, o decisum, ora embargado, consignou que:
+"Denota-se necessária, ainda, a redistribuição dos ônus sucumbenciais.
+Tendo em vista que a pretensão do autor correspondia à indenização de 24 (vinte e quatro) meses referentes a licenças especiais não fruídas/ não computadas, e que foi reconhecido o direito ao pagamento de metade desse período, diante da sucumbência recíproca, determino o pagamento pro rata, na razão de 50% para cada parte, das custas e despesas processuais" (fl. 494e).
+Por outro lado, "o texto do §11 do art. 85 do CPC/15, prevê, expressamente, que somente serão majorados os "honorários fixados anteriormente", de modo que, não havendo arbitramento de honorários pelas instâncias ordinárias, como na espécie, não haverá incidência da referida regra" (STJ, EDcl no AgInt no AREsp 1.040.024/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 31/08/2017).
+Portanto, no caso dos autos, reconhecida a sucumbência recíproca, foi determinada, na verdade, a compensação dos honorários advocatícios, que, portanto, não podem ser majorados, na forma da jurisprudência desta Corte:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. EMBARGOS DECLARATÓRIOS. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. AFASTAMENTO. SUCUMBÊNCIA RECÍPROCA. COMPENSAÇÃO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando- se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+3. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando simultaneamente se apresentarem os seguintes requisitos: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil, b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente, e c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+4. No caso dos autos, reconhecida a sucumbência recíproca, foi determinada a compensação dos honorários advocatícios, que, portanto, não podem ser majorados.
+5. Agravo interno parcialmente provido" (STJ, AgInt no AREsp 1.153.788/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 17/04/2018).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. INDENIZAÇÃO. PRETENSÃO DE CONSIDERAÇÃO DO IMÓVEL COMO RURAL. INFLUÊNCIA NO VALOR INDENIZATÓRIO. VIOLAÇÃO A NORMATIVOS FEDERAIS. PRESTAÇÃO JURISDICIONAL INCOMPLETA. RAZÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE INTERESSE RECURSAL. ACÓRDÃO FUNDAMENTADO NO MESMO SENTIDO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ.
+1. A alegação de ausência de prestação jurisdicional adequada e, por via de consequência, de violação ao art. 1.022, inciso II, e ao art. 489, § 1.º, inciso VI, do CPC/2015, exige do recorrente a indicação de qual o texto legal, as normas jurídicas e as teses recursais não foram objeto de análise nem de emissão de juízo de valor pelo Tribunal da origem, pena de a preliminar carecer de fundamentação pertinente. Inteligência da Súmula 284/STF.
+2. Ausente o interesse na pretensão de reforma de acórdão que adota o mesmo fundamento preconizado como razão recursal.
+3. Não é cognoscível o recurso especial para o exame da justeza da indenização arbitrada em ação de constituição de servidão administrativa quando a verificação disso exigir a revisão e a reinterpretação dos critérios e da metodologia utilizados nos laudos do assistente técnico e do perito judicial. Inteligência da Súmula 07/STJ.
+4. Não cabem honorários recursais na hipótese de inexistência de condenação prévia em honorários sucumbenciais principais, quando, por exemplo, houver a estipulação de sucumbência recíproca. Inteligência do art. 85, § 11, do CPC/2015.
+5. Recurso especial não conhecido" (STJ, REsp 1.697.387/RO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/12/2017).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. IMPOSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS A FAVOR DE UMA OU DE OUTRA PARTE.
+1. Para majoração dos honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, faz-se necessária a existência de condenação prévia em honorários sucumbenciais principais pelo Juízo de origem.
+2. Sucumbência recíproca em que cada parte se responsabiliza pelos honorários advocatícios do seu respectivo patrono.
+3. Ausente a condenação ao pagamento de verba honorária a favor de uma ou de outra parte, não é cabível o arbitramento dos honorários recursais previstos no art. 85, § 11, do CPC/2015.
+4. Embargos de declaração acolhidos em parte, sem efeitos modificativos, apenas para esclarecer-se quanto à aplicação aos honorários" (STJ, EDcl no AgInt nos EDcl no AREsp 1.336.829/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 02/03/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
+EMENTA
