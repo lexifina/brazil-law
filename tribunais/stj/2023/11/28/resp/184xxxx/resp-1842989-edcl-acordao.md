@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva (Presidente), Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA.
+1. Inexistência dos vícios tipificados em lei a inquinar a decisão embargada.
+2. Os embargos de declaração não são a via adequada para que as partes veiculem seu inconformismo com as conclusões adotadas.
+Embargos declaratórios rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos declaratórios em embargos declaratórios no agravo interno em recurso especial opostos por FUNDAÇÃO FRANCISCO MARTINS BASTOS, em que figura como embargado JOSE FRANCISCO ANDRADE DIAS.
+Discutiu-se, na origem, se o embargado faria jus a benefícios previdenciários decorrentes de sua adesão ao fundo de previdência complementar que veio a ser incorporado pela ora embargante.
+Julgada parcialmente procedente a ação em primeiro grau de jurisdição, o Tribunal de origem deu provimento em parte ao recurso de apelação interposto pelo ora agravado, concluindo que este faria jus ao pagamento do valor de R$ 5.271.102,30 (cinco milhões, duzentos e setenta e um mil, cento e dois reais e trinta centavos), "observando-se a dedução dos valores já levantados em Juízo, devendo a diferença ser corrigida a partir de 31/8/2008, data da homologação do Termo de Rescisão dos Convênios de Adesão ao Plano de Benefícios Fundação Francisco Bastos e Retirada de Patrocinadoras, e acrescido de juros de mora a contar da citação" (fls. 1.231-1.262).
+Rejeitados os embargos de declaração opostos perante a Corte local, a embargante interpôs recurso especial, tendo a irresignação sido julgada desprovida por decisão da Terceira Turma desta Corte, em acórdão assim ementado (fl. 1.609):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DECLARATÓRIA C. C. COBRANÇA. CARÊNCIA DE FUNDAMENTAÇÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JULGAMENTO "EXTRA PETITA". NAO OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. EXCESSO NA PERÍCIA. PREQUESTIONAMENTO. AUSENTE. DISTRIBUIÇÃO DAS PROVAS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. PREVIDÊNCIA PRIVADA. AÇÃO DE COBRANÇA. RESERVA DE POUPANÇA. EXECUÇÃO DE SENTENÇA. RETENÇÃO DO IMPOSTO DE RENDA SOBRE AS CONTRIBUIÇÕES RECOLHIDAS NO PERÍODO DE 1º/1/1989 A 31/12/1995. IMPOSSIBILIDADE.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, tendo as questões postas em discussão sido dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022, ambos do CPC/15.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, não há se falar em julgamento "ultra" ou "extra petita" se o Tribunal de origem julga as pretensões deduzidas nas apelações interpostas por todas as partes, nos limites dos pedidos formulados na inicial, respeitada a causa de pedir nela indicada, ainda que com base em teses jurídicas distintas das alegadas pelas partes.
+3. Além disso, rever o entendimento esposado no acórdão recorrido, a fim de reconhecer o julgamento "extra petita" em relação ao bem litigioso, demandaria reexame do conjunto fático-probatório, o que não encontra guarida nesta instância, conforme Enunciado n.º 7/STJ.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. Ademais, não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há que se falar em prequestionamento ficto da matéria, nos termos do art. 1.025, do CPC/2015.
+6. A análise da suposta violação ao art. 373, do CPC/2015, demandaria reexame de provas, procedimento obstado pelo disposto no Enunciado n.º 7/STJ.
+7. A jurisprudência do STJ sedimentou entendimento de ser indevida a cobrança de imposto de renda sobre o valor da complementação de aposentadoria e o do resgate de contribuições correspondentes a recolhimentos para entidade de previdência privada, ocorridos no período de 1º.1.1989 a 31.12.1995, por força da isenção concedida pelo art. 6º, VII, "b", da Lei n. 7.713/88, com redação anterior à que lhe foi dada pela Lei n. 9.250/95.
+8. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+9. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados, ficando assim ementado o acórdão (fl. 1.698):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DOS VÍCIOS PREVISTOS EM LEI. INEXISTÊNCIA.
+1. Inexistência dos vícios tipificados em lei, a inquinar a decisão embargada.
+2. Os embargos de declaração não são a via adequada para que as partes veiculem seu inconformismo com as conclusões adotadas.
+3. EMBARGOS DECLARATÓRIOS CONHECIDOS E REJEITADOS.
+Irresignada, a Fundação Francisco Martins Bastos opõe novos aclaratórios (fls. 1.706-1.716), aduzindo que o acórdão embargado enfrentou apenas uma das omissões alegadas no recurso antecedente, de modo que persistiriam os vícios do acórdão que desproveu o recurso especial, consubstanciados nos seguintes pontos:
+a) omissão quanto à alegação de negativa de prestação jurisdicional pelo Tribunal de origem (art. 1.022, II, do CPC), que teria deixado de analisar, embora provocado por meio de embargos declaratórios, as alegações de ocorrência de equívocos na perícia técnica que embasou o seu entendimento por ocasião do julgamento do recurso de apelação.
+b) omissão quanto à alegação de que o julgamento preferido pelo TJRJ seria extra petita.
+Requer sejam afastados os vícios apontados, dando-se aos embargos efeitos infringentes para declarar a nulidade do acórdão proferido pelo Tribunal a quo.
+Devidamente intimado, o agravado apresentou contrarrazões (fls. 1.721-1.732), pugnando pela rejeição dos embargos.
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA.
+1. Inexistência dos vícios tipificados em lei a inquinar a decisão embargada.
+2. Os embargos de declaração não são a via adequada para que as partes veiculem seu inconformismo com as conclusões adotadas.
+Embargos declaratórios rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Os embargos declaratórios são o recurso interposto perante o órgão jurisdicional que proferiu a decisão no intuito de afastar obscuridade, suprir omissão ou eliminar contradição existente no julgado.
+Nos autos ora analisados, decerto não assiste razão à embargante ao alegar omissão no decisum impugnado, conforme passo a demonstrar.
+Especificamente quanto à alegação de que o Tribunal de origem teria incorrido em negativa de prestação jurisdicional, a conclusão do aresto que julgou o agravo interno interposto contra a decisão monocrática que desproveu o recurso especial foi a de que "o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte" (fl. 1.612).
+Analisando-se o acórdão emanado do TJRJ, constata-se que, após transcrever as conclusões da terceira perícia técnica elaborada para calcular o valor o real a que teria direito o embargado, concluiu-se que "assiste razão à parte Apelante, para retificarmos o mencionado item 12.11 do Laudo Pericial, para que passe a constar que o valor total pago foi de R$1.210.076,99,composto por R$1.074.346,71, referente à Reserva Matemática, eR$218.418,41, referente ao excedente do ativo, conforme corretamente informado no item12.7 do mesmo Laudo Pericial" (fl. 1.251).
+O ora embargante, por sua vez, embargou o acórdão em referência (fls. 1.283-1.293), alegando que o TJRJ, ao acolher as conclusões do perito, teria deixado de atentar para o evidente excesso na perícia, que, ao seu sentir, "inovou em relação ao pedido do autor", incorrendo "em frontal violação ao disposto no artigo 473, § 2º, do Código de Processo Civil", sendo, portanto, nula (fl. 1.290). Como consequência, alegou que o próprio acórdão embargado seria nulo, pois teria proferido provimento jurisdicional diverso do pedido.
+Ao responder aos questionamentos formulados, o Tribunal a quo expressamente afastou as nulidades alegadas nos seguintes termos (fls. 1.327-1.332):
+(..) De início, entende a embargante que houve o julgamento extra petita alegando que: "(..) O v. acórdão embargado deixou, contudo, de indicar em que momento o autor formulou o pedido de que faria jus ao saldo de contas, tampouco que esse valor corresponderia à metade da rubrica indicada como ativo da ASP em março de 1995. No entanto, não há se falar em julgamento extra petita diante do teor do item C da f. 15. Vejamos: c) se digne, após a apuração dos valores a que o Autor tem a receber, se digne determinar que a Ré efetue o pagamento dos valores devidos ao Autor em razão da liquidação extrajudicial ora mencionada e efetivada, acrescido de juros e correção monetária; No mais, não foram demonstradas nenhuma das hipóteses previstas no artigo 1.022 do CPC, pretendendo a embargante rediscutir matéria já apreciada por este Colegiado. Todavia, não é este o meio adequado para a reforma da decisão. (..) Diante do exposto, não havendo qualquer omissão, contradição ou obscuridade a serem declarados, VOTO no sentido de CONHECER e REJEITAR os embargos de declaração.
+Aqui, convém consignar que, em conformidade com a jurisprudência desta Corte, a omissão consiste na falta de pronunciamento judicial sobre ponto ou questão suscitada pelas partes, ou que o juiz deveria pronunciar de ofício. Assim, as questões que o magistrado não pode deixar de decidir são todas aquelas relevantes para a solução do litígio, bem como as que o juiz deva resolver de ofício, por serem de ordem pública. Deixando de apreciar algum desses pontos, ocorre a omissão.
+Todavia, o juiz não está obrigado a examinar todos os fundamentos das partes, sendo importante que indique somente o fundamento em que apoiou sua convicção no decidir.
+In casu, não obstante as matizadas altercações postas à deliberação, é certo que o acórdão proferido pelo Tribunal a quo expôs satisfatoriamente as razões pelas quais aquela Corte se convenceu de que não houve indevida ampliação do objeto da demanda.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional, fato que já foi reconhecido por duas vezes no âmbito desta C orte, tanto no acórdão que julgou o agravo interno em recurso especial quanto no aresto que rejeitou primeiros embargos opostos pelo ora embargante, que continua a insistir em tese já exaustivamente debatida e decidida no âmbito da Corte de origem e também neste Tribunal Superior.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
