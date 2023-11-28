@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JAILSON ARAUJO DE ANDRADE contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, por infração ao artigo 33, caput, da Lei 11.343/2006, nos termos da sentença de fls. 219-225.
+Operado o trânsito em julgado em 27/05/2022 para a acusação e em 06/06/2022 para a defesa, o paciente impetrou perante a Corte local o habeas corpus n. 2280699-57.2023.8.26.0000, que foi indeferido in limine, nos termos do acórdão de fls. 610-615.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na negativa à aplicação da causa especial de diminuição de pena, prevista no § 4º do artigo 33 da Lei 11.343/2006, despida de fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que as penas sejam redimensionadas, mediante a aplicação da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/2006.
+O pedido liminar foi indeferido às fls. 628-629.
+Informações prestadas às fls. 635-639 e 640-669.
+O Ministério Público Federal, às fls. 673-376, opinou pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste no possível constrangimento ilegal em razão do afastamento da causa especial de diminuição do § 4º do art. 33 da Lei 11.343/2006, ao argumento da ausência de fundamentação idônea para tanto.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Quanto à redutora capitulada no parágrafo 4º do art. 33 da Lei 11.343/2006, tal dispositivo preceitua que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei 11.343/2006, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+No presente caso, ao contrário do que aduz a defesa, houve fundamentação suficiente, concreta e idônea para o afastamento do tráfico privilegiado, lastreada não apenas na quantidade de entorpecentes apreendidos, mas também nas circunstâncias concretas do cometimento do presente delito.
+Com efeito, a Corte de origem consignou que, além da grande quantidade de entorpecentes apreendidos em posse do paciente, as circunstâncias do flagrante são aptas a ensejar a conclusão pela dedicação a atividades criminosas, ao argumento de que foi flagrado na posse de um radiocomunicador sincronizado com outros integrantes da atividade ilícita, a fim de "monitorar a presença e os movimentos policiais na repressão ao tráfico, tudo organizado e com a finalidade de evitar a apreensão de entorpecentes e garantir a impunidade do grupo".
+Trata-se, nos termos da jurisprudência desta Corte Superior, de fundamentação idônea a ensejar a negativa à incidência da redutora do tráfico privilegiado.
+Vejamos:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR ESPECIAL DA LEI DE DROGAS. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADE C RIMINOSA. AGRAVO NÃO PROVIDO.
+1. De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, observa-se que a Corte de origem manteve afastado o redutor do tráfico privilegiado por entender que, não só a expressiva quantidade de droga indicaria o envolvimento habitual do paciente na criminalidade, mas também o fato de ter sido apreendido instrumentos comumente usados na mercancia ilícita, tais como balança de precisão e quatro rádios comunicadores.
+3. Agravo regimental não provido." (AgRg no HC n. 850.131/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 16/10/2023.)
+Corroborando o entendimento: AgRg no HC n. 760.781/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 14/4/2023.
+Dessa feita, tenho que as instâncias ordinárias apresentaram elementos idôneos e aptos a ensejar a conclusão pela dedicação do paciente a atividades criminosas.
+Para acolher a tese da defesa e afastar a conclusão bem exarada pelas instâncias ordinárias seria necessário amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+Nesse sentido:
+" ..  III - No tocante ao redutor previsto no art. 33, § 4º, da Lei de Drogas, verifica-se que o Tribunal a quo - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o beneficio pleiteado pela defesa em favor da agravante.
+IV - Para tanto, destacou as instâncias de origem que "a apelante não se amolda na situação fática descrita porquanto mantém boca de fumo em funcionamento em sua residência" (fls. 277-278). Assim, diante da indicação de que a ré se dedica à atividade criminosa, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+V - Outrossim, é imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+ ..  Agravo regimental desprovido." (AgRg no HC n. 820.366/MS, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 6/11/2023.)
+Corroborando o entendimento: AgRg no HC n. 784.337/RS, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 27/04/2023; e AgRg no HC n. 819.116/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 5/6/2023
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
