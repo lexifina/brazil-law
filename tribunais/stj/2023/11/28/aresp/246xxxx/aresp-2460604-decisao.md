@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por GEOVANDO DO NASCIMENTO BIRA e RAILSON REIS PEREIRA em adversidade à decisão que inadmitiu recurso especial manejado, com fundamento na alínea "a" d o permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Rondônia, cuja ementa é a seguinte (e-STJ fls. 193/194):
+Apelação criminal. Tráfico de drogas. Insuficiência de provas. Desclassificação. Consumo próprio. Recurso não provido.
+Entende-se que restam elementos suficientes para a manutenção da sentença condenatória, uma vez que as provas produzidas, tanto em fase inquisitorial quanto de instrução, são uníssonas.
+É relevante considerar a forma do acondicionamento dos entorpecentes e a variação, que indicam a finalidade de mercancia da droga.
+Para desclassificação da infração de tráfico para o crime previsto no art. 28 da Lei 11.343/06, deve estar comprovado que o entorpecente se destinava única e exclusivamente ao consumo pessoal, ônus que incumbe aos apelantes.
+A natureza da droga apreendida e as demais circunstâncias da prisão, conclui-se que os apelantes guardavam e tinham em depósito entorpecente sem autorização legal, adequando-se perfeitamente ao tipo penal do tráfico ilícito de drogas.
+Nas razões do recurso especial, alega a defesa violação dos arts. 28 e 33, ambos da Lei 11.343/06, buscando a desclassificação do crime de tráfico para o delito de uso de substância entorpecente, porque não comprovada a difusão ilícita.
+Afirma que, "considerando as circunstâncias, bem como a quantidade da droga apreendida, não é difícil concluir que se trata de um típico caso de dois usuários de drogas que adquiriram para sustentar seus vícios enquanto segregados" (e-STJ fl. 215).
+Apresentadas contrarrazões e contraminuta, o Ministério Público Federal, nesta instância, opinou pelo desprovimento do recurso.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece prosperar.
+O Tribunal a quo, ao manter a condenação dos recorrentes como incursos nos arts. 33, caput, e 40, III, da Lei 11.343/2006, asseverou (e-STJ fls. 189/193):
+A autoria do fato, por sua vez, resta igualmente provada nos autos, e recai sobre os apelantes.
+Em sede judicial, o depoente Alex Félix Monte, Diretor da Casa de Detenção, narrou que diante da informação da entrada de algumas serras na unidade prisional, os policiais iniciaram uma vistoria no intuito de localizá-las. Disse que durante vistoria, os policiais encontraram dentro do ralo da cela B4, diversos objetos (tabacos, celulares, carregadores e fones de ouvido), além alguns invólucros contendo substâncias aparentando ser entorpecentes.
+Acrescentou que, após localizarem o material, ele na companhia do Diretor de Segurança da Unidade Prisional, questionaram os internos da cela sobre a propriedade das substâncias encontradas, ocasião em que Geovando e Railson assumiram a propriedade das substâncias.
+No mesmo sentido, foi o depoimento do Diretor de Segurança da Unidade Prisional, Clebson Jacinto Bezerra, o qual relatou que após receberem denúncias da entrada de serras na unidade prisional, bem como de que elas estariam no interior da cela B4, os policiais realizaram uma revista na referida cela, azo em que encontraram vários pacotes de tabaco, celulares e drogas.
+Informou que, após o material ser encontrado, questionaram todos os internos da cela sobre a propriedade e, de pronto, Geovando e Railson assumiram a propriedade das substâncias e de alguns celulares, inclusive, especificaram identificando quais objetos e os entorpecentes cada um possuía.
+Quanto aos depoimentos dos apelantes, destaca-se que ambos assumiram a propriedade dos entorpecentes em fase policial. Sendo que RAILSON, confessou a propriedade da porção de cocaína, de (05) cinco pacotes de tabaco e (01) um aparelho celular, afirmou também que o restante da droga pertencia ao Geovando. Em Juízo, Railson negou a posse dos entorpecentes, e informou que teria assumido anteriormente por medo, ao ser questionado, afirmou ser usuário de entorpecentes.
+GEOVANDO, no interrogatório policial, confessou a posse da maconha, de (01)um aparelho celular e (05) cinco pacotes de tabaco, afirmou serem para consumo. Em Juízo, inicialmente negou a posse dos entorpecentes, e depois afirmou que as drogas eram para uso.
+Infere-se nos autos que, conforme consta no Laudo Toxicológico, foram apreendidos 13 (treze) invólucros - "trouxinhas" 1 - e 01 (um) tablete, contendo cerca de 64,8g (sessenta e quatro gramas e oito decigramas) de substância entorpecente, do tipo "maconha"; 01 (um) invólucro contendo 25g (vinte e cinco gramas) de substância entorpecente, do tipo "cocaína"; consta, ainda, que no procedimento de revista foram encontrados: 19 (dezenove) pacotes de tabacos, 03 (três) celulares samsung, 05 (cinco) carregadores de aparelho celular e 04 (quatro) fones de ouvido.
+Nesse sentido, entende-se que restam elementos suficientes para a manutenção da sentença condenatória, vez que as provas produzidas, tanto em fase inquisitorial quanto de instrução, são uníssonas.
+É relevante considerar a forma do acondicionamento dos entorpecentes e a variação, que indicam a finalidade de mercancia da droga, bem como se destaca o depoimento do Policial Militar Clebson, ao afirmar que os apelantes foram específicos ao assumirem a posse das drogas indicando a quem pertencia cada entorpecente e objetos encontrados.
+ ..
+Desse modo, observa-se que o contexto fático indica a finalidade de comercialização da droga, portanto, a sentença do Juízo não merece reparo.
+Extrai-se do trecho que a Corte de origem concluiu, com amparo nos fatos e provas colhidos sob o crivo do contraditório, que as circunstâncias do crime, a forma do acondicionamento dos entorpecentes e a variação indicam a finalidade de mercancia da droga.
+Ora, tendo a Corte de origem reputado farto o conjunto de provas, colhidos na fase de instrução processual, a corroborar a condenação dos recorrentes pela prática do delito do art. 33 da Lei 11.343/2009, afastando a desclassificação para o delito do art. 28 da mesma lei, inviável, no caso, entender de modo diverso, dada a necessidade de reexame de fatos e provas, vedado na via eleita.
+Incidência do óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c o art. 253, parágrafo único, II, "a ", do RISTJ, conhe ço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
