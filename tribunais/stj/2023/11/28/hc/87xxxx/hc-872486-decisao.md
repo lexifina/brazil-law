@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Thauan Oliveira da Costa  preso preventivamente pela prática, em tese, dos crimes de posse ilegal de arma de fogo de uso permitido e tráfico de drogas  , em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás (Habeas Corpus n. 5776898-40.2023.8.09.0051), comporta pronto acolhimento.
+Com efeito, busca a impetração o relaxamento da prisão preventiva, imposta pelo Juízo de Direito da 10ª Vara Criminal da comarca de Goiânia/GO (Autos n. 5777716-89.2023.8.09.0051), ao argumento de que, em face da superveniência da Lei nº 13.964/2019 ("Lei Anticrime"), tornou-se inadmissível a conversão, "ex officio", da prisão em flagrante em preventiva, pois a decretação dessa medida cautelar de ordem pessoal dependerá, sempre, do prévio e necessário requerimento do Ministério Público, do seu assistente ou do querelante (se for o caso), ou, ainda, de representação da autoridade policial na fase pré-processual da "persecutio criminis" (fl. 5).
+De fato, do detido exame dos autos, observa-se que a segregação cautelar do paciente foi imposta ao arrepio do parecer do Ministério Público estadual, que considerou que não há periculum libertatis-requisito exigido pelo art. 312, do CPP -, não se vislumbra, com relação a este caso, a necessidade de decretação da prisão preventiva do autuado, podendo a liberdade provisória ser concedida com a imposição de outras condições diferentes da prisão, pugnando pela concessão de liberdade provisória ao autuado, com a imposição de medidas cautelares, nos termos do art. 321 e 319, ambos do CPP (fl. 157).
+Assim, evidente a violação frontal d o sistema acusatório, consolidado com o advento da Lei n. 13.964/2019.
+Em face do exposto, concedo liminarmente a ordem impetrada para revogar a segregação cautelar imposta ao paciente nos Autos n. 5777716-89.2023.8.09.0051, podendo o Juízo novamente decretá-la, desde que mediante manifestação do órgão da acusação e fundamentadamente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. DECRETAÇÃO DA PRISÃO PREVENTIVA DE OFÍCIO. PARECER DO MINISTÉRIO PÚBLICO PELA CONCESSÃO DA LIBERDADE PROVISÓRIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. VIOLAÇÃO DO SISTEMA ACUSATÓRIO.
+Ordem liminarmente concedida nos termos do dispositivo.
