@@ -1,0 +1,25 @@
+DECISÃO
+Na origem trata-se de embargos à execução fiscal referente à cobrança de IPTU, TLP e COSIP. Na sentença julgou-se o pedido parcialmente procedente. No Tribunal a quo a sentença foi parcialmente reformada em relação aos honorários advocatícios. O valor da causa foi fixado em R$ 8.535,79 (Oito mil, quinhentos e trinta e cinco reais e setenta e nove centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, contra acórdão com o seguinte resumo de ementa:
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇAO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. CAERN. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO. ARGUIÇÃO DE PRESCRIÇÃO E OCORRÊNCIA EXECUÇÃO FISCAL PROPOSTA DENTRO DO PRAZO. POSSIBILIDADE DE IMPUGNAÇÃO POR MEIO DE EMBARGOS À EXECUÇÃO. COBRANÇA DE IPTU E TLP. IMUNIDADE RECÍPROCA QUANTO À COBRANÇA DO IPTU. MATÉRIA DEVIDAMENTE RECONHECIDA PELO FISCO MUNICIPAL NA ESFERA ADMINISTRATIVA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL NESTE SENTIDO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. CONDENAÇÃO DA FAZENDA MUNICIPAL. ARBITRAMENTO DA VERBA POR CRITÉRIO EQUITATIVO. MODIFICAÇÃO NA FORMA DE ARBITRAMENTO DA VERBA SUCUMBENCIAL. APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Cinge-se o cerne do presente apelo à análise da regularidade da sentença quanto ao exame sobre a potencial prescrição do direito aventado no juízo de origem e sobre o estabelecimento dos ônus da sucumbência na situação em estudo.
+(..)
+Conforme entendimento majoritário dos nossos tribunais, a notificação do contribuinte do IPTU/TLP é realizada com a simples remessa do carnê de pagamento do tributo, contando-se deste marco, portanto, o quinquênio para sua cobrança pela Fazenda Municipal.
+A Primeira Seção do STJ, aliás, no julgamento do REsp nº 1.111.124/PR, havido sob o regime dos recursos repetitivos, encampou a citada conclusão, conforme ementa do julgado adiante transcrita:
+(..)
+(STJ, Resp 1.111.124/PR, 1ª Seção, Relator Ministro TEORI ALBINO ZAVASCKI - j. 22/04/2009 - DJe04/05/2009).
+(..)
+Não restando o próprio crédito tributário alcançado pela prescrição, não se poderia igualmente falar em prescrição da pretensão formulada em sede de embargos à execução, tendo em vista que o respectivo prazo para apresentação de impugnação somente se inicia com a efetiva citação da parte nos autos da execução fiscal. Descabe falar-se, portanto, em prescrição na espécie.
+(..)
+Vê-se, portanto, mesmo diante do reconhecimento administrativo da pretensão deduzida em embargos à execução, com perda superveniente do interesse processual, se impõe a condenação da Fazenda Municipal ao pagamento de honorários advocatícios sucumbenciais em face do princípio da causalidade, cabendo a aplicação das regras do artigo 85, caput e § 10º, do Código de Processo Civil.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação dos arts. 332 e 342 do CPC, 193 do Código Civil de 2002 e 1º do Decreto n. 20.910/1932, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
