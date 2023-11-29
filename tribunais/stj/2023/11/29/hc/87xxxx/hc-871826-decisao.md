@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Mateus Rodrigues Aristeu da Silva e Marciel Richard Leite Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o HC n. 2287749-37.2023.8.26.0000 (fls. 103/108).
+Narram os autos que os pacientes estão presos preventivamente pela prática, em tese, do delito descrito no art. 155, § 4º, do Código Penal.
+Sustenta-se, em síntese, a ausência de fundamentação idônea para a decretação da prisão preventiva, que estaria baseada na gravidade abstrata do delito.
+Argumenta-se, ainda, que os pacientes são primários e que a prisão é desproporcional, pois, em caso de condenação, o regime inicial de cumprimento de pena poderá ser diverso do fechado.
+Requer-se, em liminar e no mérito, a expedição de alvará de soltura. Subsidiariamente, postula-se a substituição da constrição por cautelares alternativas.
+É o relatório.
+Não há constrangimento ilegal a ser sanado por esta via.
+Com efeito, ao decretar a segregação cautelar dos pacientes, o Magistrado singular logrou demonstrar elementos concretos a evidenciar a necessidade da prisão preventiva para garantia da ordem pública, notadamente em razão do risco de reiteração delitiva, ao destacar que os indiciados acabaram de ser beneficiados com a liberdade provisória, sendo que Mateus saiu em julho deste ano e Marciel o mês passado de setembro (fls. 25/35). Mateus ainda está respondendo ao processo por roubo qualificado, no qual obteve seu benefício de liberdade provisória (fl. 54), bem como que os pacientes possuem diversas passagens por atos infracionais, inferindo-se daí motivação suficiente para a decretação da prisão preventiva, em consonância com a jurisprudência desta Corte Superior de Justiça.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (63,73 G DE MACONHA) E POSSE DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA E MUNIÇÕES (1 PISTOLA DE CALIBRE .9MM E 16 PROJÉTEIS DE CALIBRE .9MM). DECISÃO MONOCRÁTICA AMPARADA EM PERMISSIVOS LEGAIS E REGIMENTAIS. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE AFRONTA. PLEITO DE TRANCAMENTO DA AÇÃO PENAL CALCADO NA SUPOSTA ILICITUDE DA PROVA OBTIDA EM BUSCA DOMICILIAR SEM MANDADO JUDICIAL. INADMISSIBILIDADE. APURAÇÃO DE DENÚNCIA DE PORTE DE ARMA DE FOGO E VIAS DE FATO. INGRESSO AUTORIZADO PELA MÃE DA ESPOSA DO AGRAVANTE. ENCONTRO FORTUITO DA SUBSTÂNCIA ENTORPECENTE. SERENDIPIDADE. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. RISCO CONCRETO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+ ..
+3. As instâncias ordinárias apontaram prova da existência do delito e o receio de perigo gerado pelo estado de liberdade do agravante à ordem pública, com base em elementos concretos nos autos, mormente diante do risco de reiteração delitiva, pois o acusado além de ser reincidente, estava em gozo de liberdade provisória concedida em outro processo pelo cometimento do mesmo crime e de corrupção ativa, o que constitui fundamento apto a consubstanciar a prisão cautelar.
+4. Agravo regimental improvido.
+(AgRg no HC n. 816.765/SP, de minha relatoria, Sexta Turma, DJe de 14/9/2023)
+Nesse contexto, vale ressaltar que eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva, sendo certo que, havendo nos autos elementos hábeis a recomendar a manutenção da sua custódia máxima, não se mostram suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Quanto à desproporcionalidade da prisão preventiva em relação ao regime inicial que eventualmente venha a ser aplicado, cumpre esclarecer que esta Corte tem jurisprudência pacífica quanto à impossibilidade de se realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença (RHC n. 162.518/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/5/2022).
+Em face do exposto, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DA CONSTRIÇÃO PARA GARANTIA DA ORDEM PÚBLICA. ELEMENTOS CONCRETOS. RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. DESPROPORCIONALIDADE. IMPOSSIBILIDADE DE ANÁLISE. MATÉRIA AFETA À AÇÃO PENAL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ indeferido liminarmente.
