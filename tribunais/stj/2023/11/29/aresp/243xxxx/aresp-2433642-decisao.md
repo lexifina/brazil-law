@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado pelo MUNICÍPIO DE SÃO PAULO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.178):
+PRESCRIÇÃO  Fazenda Pública  O prazo prescricional de ações contra a Fazenda Pública é o da lei especial e não do Código Civil  Precedentes do STJ  Preliminar rejeitada - CONTRATO ADMINISTRATIVO  Pagamentos feitos a destempo  Cobrança de correção monetária  Possibilidade a. partir do vencimento de cada fatura não paga  Verba que não consubstancia penalidade, mas mera recomposição do valor de compra da moeda aviltado pela inflação do período  Cálculo com base nos índices da Tabela Prática do Tribunal de Justiça  Juros de mora de 6% ao ano, desde a citação  A partir daí, ambas as verbas serão calculadas na forma da LF 11.960/09  Recurso voluntário não provido e provido em parte o oficial, ó tido por interposto
+Opostos embargos declaratórios, foram rejeitados (fls. 1.201/1.208).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 535 do CPC, na medida em que não foram analisados no julgado os arts. 62 e 63 da Lei nº 4.320/64;
+(II) arts. 62 e 63 da Lei Federal 4.320/64 e art. 884 do Código Civil, ao argumento de que há necessidade da apuração da certeza e liquidez do crédito, o que se dá com o recebimento da fatura para que surja a obrigação de pagamento desta despesa. Acrescenta que somente a partir da data da emissão da fatura é que a Municipalidade tem o prazo de trinta dias para saldar seu débito. Aduz, ainda, que a vedação ao enriquecimento sem causa não tem qualquer relação com o processo de liquidação;
+(III) art. 1º-F da Lei nº 9.494/1997, afirmando que deve ser determinada a aplicação da norma para todo o período, e não apenas a partir da citação.
+Em sede de juízo de adequação (fls. 1.267/1.270), restou determinada a alteração do acórdão recorrido, a fim de ser observada a orientação firmada no julgamento dos Temas 905/STJ e 810/STF.
+Assim, no que se refere à questão dos juros e correção monetária, o Tribunal local, fundamentado no art. 1.040, I, do CPC, negou seguimento ao recurso.
+Quanto ao mais, foi inadmitido o recurso, com fulcro no art. 1030, V, do CPC.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+Feita essa observação, já adianto que a irresignação não merece acolhida. Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, observa-se dos autos que o Tribunal de origem, ao dirimir a controvérsia, esclareceu o seguinte (fl. 1.182):
+No que tange ao mérito, a sentença deu a melhor solução à lide, ao concluir que é fato incontroverso que houve atraso no pagamento das faturas, pois o réu não negou os fatos.
+E a correção monetária, como se sabe, consiste na mera recomposição do valor da moeda corroído pela inflação, não implicando qualquer aumento no capital. Assim, não representa sanção pelo atraso e objetiva manter o poder aquisitivo da moeda.
+Ela tem previsão legal na regra geral contida no artigo 884 do Código Civil, que proíbe o enriquecimento sem causa.
+Quanto ao termo inicial da correção monetária, pretende o Município que seja adotado o prazo de trinta dias após a data da entrega da fatura, conforme sua exegese da cláusula terceira do contrato no item 3.7 que está assim redigido: "Todas as medições relativas a este Contrato terão seus pagamentos efetuados no prazo de 30 (trinta) dias a contar da data final do período de adimplemento de cada parcela na forma da Portaria nº 45194-SF"
+Equivocada a tese da apelante quanto ao termo inicial do cômputo da atualização monetária.
+Uma é a data da medição, outra é a do vencimento da fatura.
+Os trinta dias a que alude o item 3.7 da cláusula terceira do contrato deve ser contado da data da medição e, assim, se a fatura não é paga na data de seu vencimento, deve incidir a correção monetária, sob pena de afronta ao artigo 884 do Código Civil, como dito acima.
+Nesse contexto, é certo que a alteração das premissas adotadas pela Corte de origem a respeito da efetiva prestação do serviço demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. A propósito:
+ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO. AÇÃO DE RESSARCIMENTO DE PERDAS E DANOS. ANÁLISE DO ACERVO FÁTICO PROBATÓRIO. NOTAS FISCAIS E FATURAS. PAGAMENTO DEVIDO. ENTENDIMENTO DIVERSO. IMPOSSIBILIDADE. ÓBICE SUMULAR 5/STJ E 7/STJ. SUCUMBÊNCIA RECÍPROCA. SÚMULA N. 7/STJ. VALOR INFERIOR NÃO CONFIGURA SUCUMBÊNCIA MÍNIMA.
+I - Na origem, trata-se de ação de cobrança ajuizada por empresa de serviços gerais contra o Estado de Roraima, decorrente de inadimplência estatal, originária de contrato proveniente de processo licitatório, com objeto de prestação de serviços inerentes à conservação predial e outros.
+II - Ação julgada parcialmente procedente na primeira instância, em valor inferior ao pretendido pela autora, decisão mantida, em grau recursal, pela Corte Estadual.
+III - A pretensão recursal do Estado no sentido de que a recorrida não teria se desincumbido de comprovar a execução dos serviços contratados, esbarra nos óbices das Súmulas ns. 5 e 7/STJ, na medida em que seria necessário o revolvimento dos termos contratuais e do acervo fático-probatório dos autos.
+IV - De forma geral, a questão acerca da análise da sucumbência recíproca, nesta instância, esbarra na Súmula n. 7/STJ. Ademais, ainda que se pudesse ultrapassar tal óbice, a hipótese dos autos se enquadraria em precedentes análogos desta Corte, no sentido de que a concessão de valor inferior ao
+pretendido pelo autor não evidencia sucumbência mínima para o fim colimado.
+V - Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 1.852.313/RR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/8/2021, DJe de 17/8/2021.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
