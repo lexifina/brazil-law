@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta a defesa a violação dos artigos 16 do CP, sustentando que o recorrente faz jus ao reconhecimento da causa de diminuição de pena do arrependimento posterior, uma vez que o crime fora cometido sem violência ou grave ameaça à vítima e o dano foi devidamente reparado por ato voluntário do recorrente.
+Requer o provimento do recurso com a readequação da pena.
+Apresentada a contraminuta, o Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passo, portanto, à análise do mérito.
+Ao julgar a apelação, o Tribunal de origem assim se manifestou (fl. 327):
+Na etapa final, não há falar em reconhecimento do arrependimento posterior, uma vez que a restituição dos bens não decorreu de ato voluntário do acusado, mas sim em razão da abordagem feita pelos policiais, após indicações das características físicas na comunicação do furto e por ser o apelante conhecido furtador. Ademais, como bem constou da r. sentença (fl. 243): "verte do seu interrogatório a informação duvidosa de que os policiais teriam lhe dito que se os levasse até os bens ele seria liberado, de modo que a indicação do local não teve a finalidade de diminuir o prejuízo da vítima, mas sim livrar-se das implicações da sua conduta criminosa. Além disso, a vítima teve prejuízo com o arrombamento da fechadura da porta de sua casa, que não foi pelo ressarcido".
+No que diz respeito à pretensa aplicação do arrependimento posterior, não há razões para a reforma do acórdão, uma vez que, para a sua incidência, a reparação do dano deve ser integral e ocorrer por ato voluntário até o recebimento da denúncia, consoante determina o art. 16 do CP, o que, consoante assentado no acórdão recorrido, não ocorreu no caso, sendo imprópria, de todo modo, a via do especial à revisão do entendimento. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA MAJORADA. RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 16 DO CÓDIGO PENAL - CP (ARREPENDIMENTO POSTERIOR). IMPOSSIBILIDADE. AUSÊNCIA DE RESSARCIMENTO INTEGRAL. CONCLUSÃO DIVERSA QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. PENA FIXADA NO MÍNIMO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A causa de diminuição de pena relativa ao artigo 16 do Código Penal (arrependimento posterior) somente tem aplicação se houver a integral reparação do dano ou a restituição da coisa antes do recebimento da denúncia, variando o índice de redução da pena em função da maior ou menor celeridade no ressarcimento do prejuízo à vítima" (HC n. 338.840/SC, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 19/2/2016).
+2. A Corte estadual, mediante valoração do acervo probatório produzido nos autos, consignou que o paciente, após permanecer na posse de numerário da vítima por mais de um ano, apenas restituiu parte do valor após insistência da vítima, a qual inclusive o interpelou extrajudicialmente e não houve o ressarcimento integral.
+Rever tais conclusões, como pretende a Defesa, demandaria aprofundado revolvimento probatório, procedimento vedado na via estreita do habeas corpus.
+3. O refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+4. I nexiste qualquer constrangimento ilegal a ser sanado, uma vez que a pena-base foi fixada no mínimo legal e inexistem agravantes ou atenuantes na segunda fase da dosimetria da pena. Ademais, diante do reconhecimento da causa de aumento de pena prevista no art. 168, §1º, inciso III, do CP, foi aplicado o aumento legalmente previsto no referido dispositivo legal, que é de 1/3.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 781.828/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+RECURSO ESPECIAL. PENAL. CRIME PREVISTO NO ART. 155, §§ 3.º E 4.º, INCISO II, DO CÓDIGO PENAL, CONTRA DUAS VÍTIMAS DIVERSAS. FURTOS DE ÁGUA E DE ENERGIA ELÉTRICA, MEDIANTE FRAUDE. ARREPENDIMENTO POSTERIOR EM RELAÇÃO AO FURTO DE ENERGIA ELÉTRICA. REPARAÇÃO INTEGRAL DO DANO OU RESTITUIÇÃO DA COISA ATÉ O RECEBIMENTO DA DENÚNCIA. INOCORRÊNCIA. IMPOSSIBILIDADE DE APLICAÇÃO DA BENESSE LEGAL. CRIMES PERMANENTES. PRECEDENTE. CONTINUIDADE DELITIVA. AFASTAMENTO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. O reconhecimento do arrependimento posterior, previsto no art. 16 do Código Penal, exige a integral reparação do dano ou restituição da coisa até o recebimento da denúncia, de forma que o mero adimplemento de algumas parcelas da dívida, sem a sua quitação, até o marco temporal legalmente delimitado, não é suficiente para permitir a aplicação do instituto.
+2. Os crimes imputados ao Réu (furtos de água e de energia elétrica) são permanentes, ou seja, cada um deles, individualmente considerado, decorre de uma única conduta, cujos efeitos, por vontade do agente, prolongam-se no tempo - enquanto a fruição da res não for interrompida -, afastando, assim, a aplicação do disposto no art. 71 do Código Penal (continuidade delitiva). Precedente.
+3. Recurso especial parcialmente provido apenas para afastar a continuidade delitiva em relação a ambas as imputações, redimensionando as penas do Recorrente nos termos deste voto.
+(REsp n. 2.040.018/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/6/2023, DJe de 27/6/2023.)
+Incide, pois, a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
