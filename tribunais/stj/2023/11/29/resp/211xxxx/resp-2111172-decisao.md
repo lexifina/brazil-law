@@ -1,0 +1,74 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO RIO DE JANEIRO contra acórdão prolatado, por unanimidade, pelo Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro no julgamento de mandado de injunção, assim ementado (fl. 227e):
+MANDADO DE INJUNÇÃO. Policial civil. Regime de plantão. Adicional noturno. Garantia individual. Direitos sociais. Artigo 7º, IX, da CRFB e artigo 83, V da CERJ. Alegação de omissão legislativa. Posterior edição da lei estadual nº 9.414/2021, que autoriza o Poder Executivo a conceder adicional noturno aos servidores da polícia civil. Novo regramento legal acerca da matéria, que não trouxe efetividade ao comando constitucional, pois condiciona o exercício pleno do direito ao estudo de impacto orçamentário e financeiro. Por ser uma garantia constitucional e, também, por se tratar de norma de eficácia plena, cujo exercício não se pode subordinar à discricionariedade administrativa, o adicional noturno deve ser concedido à parte impetrante. CONCESSÃO DA ORDEM.
+Opostos embargos de declaração, foram rejeitados (fls. 296/301e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Arts. 2º e 11, parágrafo único, da Lei n. 13.300/2016 - incabível o presente mandado de injunção, porquanto o direito ao adicional noturno em favor dos policiais civis, com acréscimo na remuneração do trabalho noturno no percentual de 20%, foi recentemente regulamentado pela Lei Estadual n. 9.414 de 23 de setembro de 2021;
+(ii) Art. 73 da CLT - na linha do que restou consignado pela Corte Suprema ao analisar o RE 970.823/RS, Tema 1.038, é certo que constituindo o horário noturno a jornada normal dos servidores integrantes dos quadros da PCERJ, o adicional noturno não pode ser deferido; e
+(iii) Arts. 1º, 21 e 22 da Lei Complementar 101/2000 - o deferimento pelo Poder Judiciário de adicional noturno aos servidores estatutários, sem que haja lei específica para tanto e sua respectiva previsão orçamentária, importa em desequilíbrio nas contas públicas.
+Sustenta, ainda, a inaplicabilidade da Súmula 213/STF.
+Com contrarrazões (fls. 397/415e), o recurso foi inadmitido (fls. 436/452e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 693e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No que se refere à alegação de ausência de dotação orçamentária, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem sob a perspectiva apresentada no recurso especial.
+Do mesmo modo, não restou prequestionada a alegação de impossibilidade de pagamento do adicional noturno, em conformidade com o que restou consignado pela Corte Suprema ao analisar o RE 970.823/RS, Tema 1.038.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação dos arts. 1º, 21 e 22 da Lei Complementar 101/200.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 1.022, do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+De outra parte, o tribunal de origem ao decidir a controvérsia, consignou que, embora haja precisão na Constituição local, a Lei Estadual n. 9.424/2021 não supriu a omissão legislativa acerca do pagamento do adicional noturno, não possuindo comando impositivo, e dependendo ainda de regulamentação, se mostrando desprovida de efetividade e inviabilizando o exercício de direito constitucional (fls. 232/233e):
+Registre-se ainda que, o artigo 83, inciso V, da Constituição do Estado do Rio de Janeiro, estabelece que, aos servidores públicos civis ficam assegurados o direito a remuneração do trabalho noturno superior à do diurno, senão vejamos:
+"Art. 83 - Aos servidores públicos civis ficam assegurados, além de outros que a lei estabelecer, os seguintes direitos:
+V - remuneração do trabalho noturno superior à do diurno;"
+Pela análise dos dispositivos constitucionais citados, resta claro que é assegurado aos servidores públicos estaduais, sem exceções, o pagamento de adicional noturno, tanto que há previsão expressa na Constituição Estadual.
+Contudo a inovação legislativa não supriu a aponta omissão, conforme já se manifestou este Eg. Órgão Especial, em julgamento recente, da lavra da Exma. Des. Marilia de Castro Neves Vieira, ao asseverar que a Edição da Lei 9.424/2021 não supriu a omissão apontada pela parte impetrante, vejamos:
+(..)
+Portanto, a nosso sentir cabível a impetração e o preenchimento da lacuna legislativa.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Ademais, depreende-se do acórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, quais sejam, Constituição Estadual e Lei Estadual n. 9.424/2021.
+Com efeito, da forma como definido pelo tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+Nesse sentido:
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL.
+Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula nº 280). Agravo regimental não provido.
+(AgRg no AREsp 325.430/PE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 03/06/2014)
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, in casu, na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário." 2. Agravo Regimental não provido.
+(AgRg no REsp 1.433.745/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014, DJe 22/04/2014).
+Por fim, consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos.
+Nessa linha, a orientação firmada por esta Corte na Súmula 518 segundo a qual "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula", impondo-se, assim, o não conhecimento do recurso especial quanto à alegação de ofensa à Súmula 213/STF, como espelham os seguintes precedentes:
+PROCESSUAL CIVIL. SÚMULA. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO INEXISTENTE. LEVANTAMENTO DE DEPÓSITOS JUDICIAIS. CONTROVÉRSIA RELATIVA AO ESTORNO INDEVIDO DE JUROS. DESNECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA. (..) (REsp 1.359.988/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 12/06/2013, DJe 28/06/2013 - destaques meus).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ANÁLISE DE RESOLUÇÃO. REGRAMENTO QUE NÃO SE SUBSUME AO CONCEITO DE LEI FEDERAL. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. COBRANÇA INDEVIDA. DANO MORAL IN RE IPSA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL.
+1.Não é possível, em recurso especial, a análise de resolução de agência reguladora, visto que o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+(..)
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 518.470/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2014, DJe 20/08/2014 - destaques meus).
+AGRAVO REGIMENTAL. ADMINISTRATIVO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. MULTA APLICADA PELO PROCON. ALEGADA VIOLAÇÃO DE DECRETO. OFENSA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. REGULARIDADE DO PROCEDIMENTO ADMINISTRATIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1.Conforme consignado na análise monocrática, é entendimento assentado na jurisprudência desta Corte que a alegação de violação de decreto regulamentar não pode ser conhecida, porquanto tal espécie normativa não se enquadra no conceito de "lei federal", conforme o permissivo constitucional do art. 105, III, "a". Precedentes.
+(..).
+(AgRg no AREsp 490.509/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 08/05/2014, DJe 15/05/2014 - destaques meus).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
