@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de Paulo Adriano Rodrigues de Moura, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (Apelação Criminal n. 0118108-48.2021.8.19.0001).
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, inicialmente em regime semiaberto, e pagamento de 583 dias-multa, pelo Juízo da 1ª Vara Criminal da comarca do Rio de Janeiro - Foro Regional de Madureira/RJ, por incurso no art. 33, § 1º, I, c/c o art. 40, V, ambos da Lei n. 11.343/2006 (fls. 23/51).
+O Tribunal estadual, em 30/5/2023, negou provimento à apelação defensiva e deu provimento ao recurso ministerial para aumentar a pena do paciente para 9 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, e 936 dias-multa, mantendo, no mais, a sentença condenatória (fls. 10/17).
+Aqui, não se conheceu do AREsp n. 2.459.400/RJ em 26/10/2023 e transitou em julgado na data de 7/11/2023.
+Sobreveio, então, a presente impetração, em que se alega, em síntese, constrangimento ilegal decorrente da dosimetria da pena em razão da não aplicação da minorante do tráfico privilegiado, mesmo o paciente preenchendo todos os requisitos para tanto.
+Sustenta-se que a quantidade e a natureza das drogas apreendidas não são circunstâncias que permitem aferir, por si sós, o grau de envolvimento do paciente com a criminalidade organizada ou de sua dedicação às atividades delituosas, ou, ainda, justificar a modulação da fração desse benefício (fl. 8).
+Requer-se, liminarmente e no mérito, a concessão da ordem para aplicar o redutor previsto no § 4º da Lei de Drogas, bem como abrandar o regime prisional.
+É o relatório.
+O writ não merece ir adiante.
+O presente habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Quanto à minorante do tráfico privilegiado, a modificação do quanto decidido pelas instâncias ordinárias está a exigir o reexame aprofundado de fatos e de provas, providência que não se coaduna com esta via.
+As instâncias ordinárias assim se manifestaram sobre o tema (fls. 16 e 44 - grifo nosso):
+ ..
+Não existe causa de diminuição de pena a ser observada. Em desfavor do réu, incide a causa de aumento de pena prevista no inciso V do art. 40 da Lei n. 11.343/2006, pelo que majoro sua pena em 2/3, em razão do caráter interestadual do crime, uma vez que transportou matéria-prima destinada à preparação de drogas (substâncias Lidocaína e Cafeína) do Estado de São Paulo até o Estado do Rio de Janeiro, utilizando-se de nota fiscal de empresas farmacêuticas idôneas de forma dissimulada e aluguel de carro popular demonstrando métodos de execução sofisticado, fixando-a em 9 (nove) anos, 7 (sete) meses, 15 (quinze) dias e 936 (novecentos e trinta e seis) dias multa.
+ ..
+Por fim, averbo outrossim que, ao contrário do alegado pelas defesas, os réus não fazem jus à causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, que se aplica aos traficantes ocasionais de primeira viagem, não sendo este o caso dos acusados, que realizaram tráfico interestadual das citadas substâncias, apreendidas em considerável quantidade, preparando com profissionalismo e de forma premeditada a sua ação de modo a buscar ludibriar as autoridades e prevenir prejuízos, tudo a evidenciar dedicação a atividades criminosas a impedir a incidência da minorante em questão.
+Portanto, uma vez afastado o redutor com o fundamento de que o paciente se dedicava a atividades criminosas, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 420.837/SP, Ministro FELIX FISCHER, Quinta Turma, julgado em 23/11/2017, DJe 1º/12/2017) - (AgRg no HC n. 706.273/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/4/2022).
+No mesmo sentido: AgRg no HC n. 768.322/SP, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023.
+Sendo assim, não verifiquei o alegado constrangimento ilegal sustentado pelo impetrante.
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. TRÁFICO DE DROGAS. DOSIMETRIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ABRANDAMENTO DO REGIME PRISIONAL. INCOMPETÊNCIA DO STJ. REEXAME DE FATOS E DE PROVAS. INADMISSIBILIDADE.
+Writ indeferido liminarmente.
