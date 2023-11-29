@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, conflito negativo de competência suscitado pelo JUÍZO DA VARA DO TRABALHO DE CATOLÉ DO ROCHA - PB em face do JUÍZO DE DIREITO DA 1A VARA DE CATOLÉ DO ROCHA - PB, nos autos da ação de cobrança de verbas salariais ajuizada por ELSELENI CARDOSO DA SILVA em face do MUNICÍPIO DE BREJO DOS SANTOS - PB.
+Inicialmente, a ação foi proposta perante o juízo de direito da 1ª Vara Mista de Catolé do Rocha - PB, tendo o referido juízo declinado de sua competência asseverando que "como não houve a transmudação do regime jurídico, o(a) autor(a) permaneceu, durante todo o período em que laborou para a administração pública, sob o regime celetista e, como dito, não pode ser considerado servidor efetivo ou estabilizado. (..) reputo competente a Justiça do Trabalho para julgar o pleito, visto que o vínculo estabelecido entre as partes é celetista, logo competência daquela Justiça Especializada, nos termos do art. 114, I, da Constituição Federal " (e-STJ, fls. 10-11), determinando, assim, a remessa dos autos à Vara do Trabalho de Catolé do Rocha - PB.
+O juízo da Vara do Trabalho de Catolé do Rocha - PB, ao suscitar o conflito, alegou que "em se tratando de pleitos relativos ao período a partir do ano de 2016, formulado por servidora submetida ao regime estatutário desde de março de 2009, não se vislumbra a competência desta Justiça do Trabalho para apreciar as questões suscitadas" (e-STJ, fl. 75).
+O Ministério Público Federal, em seu parecer, opinou pela declaração de competência do Juízo de Direito da Vara do Trabalho de Catolé do Rocha - PB, o suscitante.
+É o breve relatório.
+Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 1ª Seção.
+A questão central diz respeito à definição do juízo competente para processar e julgar ação ordinária objetivando o pagamento de verba trabalhista durante o período trabalhado sob o regime celetista, ajuizada perante a Justiça comum.
+A demanda foi originariamente movida no juízo de Direito da 1ª Vara Mista de Catolé do Rocha - PB que, arguindo incompetência absoluta, declinou de sua competência, determinando a remessa dos autos à Vara do Trabalho de Catolé do Rocha - PB, ao argumento de que a discussão é alheia ao contrato de trabalho.
+Quanto ao tema, o Supremo Tribunal Federal já pacificou, no julgamento do ARE 906.491/DF, sob o rito da repercussão geral, Tema 853/STF, que a Justiça do Trabalho é competente para processar e julgar as demandas em que servidor público celebra contrato de trabalho sob o regime celetista com a Administração Pública, antes da entrada em vigor da Constituição Federal de 1988, e, não obstante a edição da lei local alterando o regime estatutário, não é submetido a concurso público.
+Nesse sentido, destaca-se o julgado da Corte Especial deste Superior Tribunal de Justiça:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SERVIDOR DO PODER PÚBLICO REGIDO PELA CLT. CONTRATAÇÃO ANTERIOR À CF/1988. LEI LOCAL QUE IMPÕE O REGIME ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA TRABALHISTA PARA DISCUTIR O DIREITO AO RECOLHIMENTO DO FGTS. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL. ARE-RG 906.491. TEMA 853/STF. AGRAVO NÃO PROVIDO.
+1. O Excelso Pretório, no julgamento do RE com Agravo 906.491/DF, sob o re gime da repercussão geral, firmou entendimento segundo o qual compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/1988, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público.
+2. Agravo interno não provido.
+(AgInt no RE no AgInt no CC 160.279/PI, Rel. MINISTRA MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 22/10/2019, DJe de 28/10/2019.)
+O presente caso é análogo, devendo-se estabelecer a mesma solução jurídica acerca da fixação do juízo competente para o julgamento da presente demanda.
+Isso posto, conheço do presente conflito de competência para declarar competente o JUÍZO DE DIREITO DA VARA DO TRABALHO DE CATOLÉ DO ROCHA - PB .
+Comunique-se o juízo suscitante acerca da presente decisão.
+Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO COMUM ESTADUAL E JUÍZO TRABALHISTA. PAGAMENTO DE FGTS. AÇÃO DE COBRANÇA. VÍCNULO CELETISTA. CONTRATAÇÃO ANTERIOR À CF/88. TEMA 853/STF. SISTEMÁTICA DA REPERCUSSÃO GERAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTE. CORTE ESPECIAL DO STJ.
+CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DO TRABALHO DE CATOLÉ DO ROCHA - PB, O SUSCITANTE.
