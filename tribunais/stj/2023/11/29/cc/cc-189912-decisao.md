@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo de Direito do Sexto Juizado Especial Cível de Londrina/PR (suscitante) e o Juízo Federal da 3ª Vara de Londrina - SJ/PR (suscitado), no autos de cumprimento de sentença objetivando a cobrança de taxas condominiais.
+Na Justiça Federal, foi reconhecida a ilegitimidade da CEF para constar do polo passivo da demanda, resultando na remessa dos autos à Justiça comum estadual (e-STJ, fls. 181-183 - sem grifo no original):
+Trata-se de cumprimento de sentença visando a cobrança de taxas condominiais da ré Leonice Caetano da Silva.
+No evento 32 foi celebrado acordo, ocasião em que o Autor desistiu da cobrança em relação à CEF. Por este motivo, houve o arquivamento em relação à CEF.
+Pois bem. A Constituição Federal, no artigo 109, inciso I, estabelece a competência absoluta ratione personae da Justiça Federal nas causas em que sejam interessadas a União, entidade autárquica e empresa pública federal, na condição de autoras, rés, assistentes ou oponentes.
+Desse modo, de acordo com o texto constitucional, requisito indispensável para a atração da competência da Justiça Federal é a presença de algum ente daqueles arrolados no art. 109, I da Constituição no polo ativo ou passivo da relação processual.
+Não se ignora que o artigo 516, I e II do Código de Processo Civil atribui ao Juízo da causa a competência para o cumprimento de suas sentenças. No entanto, é importante pôr em relevo que a competência funcional do Juízo da execução estabelecida no referido dispositivo legal não pode se sobrepor à norma constitucional que estabelece a competência absoluta em razão da pessoa.
+Não se está a declarar a inconstitucionalidade do art. 516, I e II do CPC, mas sim a lhe atribuir uma interpretação conforme a Constituição, de maneira a concluir que ele não se aplica aos casos em que a execução não tem como parte nenhum ente federal previsto no art. 109, I da CF, muito embora o processo que lhe deu origem o tivesse.
+Enfim, o artigo 516, I e II do Código de Processo Civil não pode se sobrepor ao disposto no artigo 109, inciso I, da Constituição Federal.
+Por fim, registra-se que, nos termos do artigo 64, § 2º, do Código de Processo Civil, a incompetência absoluta pode/deve ser declarada de ofício pelo Juiz. Além disso, diferentemente do que ocorre com a competência relativa, não há prorrogação da competência absoluta, de modo que o Juízo pode dela conhecer a qualquer tempo.
+O Juízo de Direito declinou de sua competência, pois não haveria "motivo para o descolamento da competência para a Justiça Estadual, tendo em vista que o acordo em execução foi celebrado e homologado perante a Justiça Federal" (e-STJ, fl. 401).
+O Ministério Público Federal opinou pelo "pelo conhecimento do conflito, declarando-se a competência do JUÍZO DE DIREITO DO SEXTO JUIZADO ESPECIAL CÍVEL DE LONDRINA -PR, o suscitante" (e-STJ, fls. 400-402 ).
+Brevemente relatado, decido.
+Consta dos autos que o CONDOMÍNIO RESIDENCIAL VISTA BELA II ajuizou cumprimento de sentença em face da CAIXA ECONÔMICA FEDERAL e de LEONICE CAETANO DA SILVA objetivando a cobrança de taxas condominiais devidas pela segunda ré.
+No curso do processo, foi celebrado acordo, ocasião em que o autor desistiu da cobrança em face da CEF. Posteriormente, o Juízo Federal declinou de sua competência para dar prosseguimento ao feito.
+Estabelecida a divergência entre os Juízos federal e estadual acerca da existência de interesse jurídico da Caixa Econômica Federal na demanda, há de prevalecer o entendimento manifestado pelo órgão jurisdicional federal. Essa é a orientação sedimentada no enunciado n. 150 da Súmula desta Corte: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+E como corolário desse entendimento, deu-se, nesta Corte, a edição da Súmula n. 254, que preceitua: "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+No caso, o Juízo Federal declarou que, "no evento 32 foi celebrado acordo, ocasião em que o Autor desistiu da cobrança em relação à CEF. Por este motivo, houve o arquivamento em relação à CEF" (e-STJ, fl. 181).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito do Sexto Juizado Especial Cível de Londrina/PR (suscitante).
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. ATRIBUIÇÃO DO JUÍZO FEDERAL PARA DIZER SOBRE A EXISTÊNCIA DE INTERESSE JURÍDICO DE ENTE F EDERAL. SÚMULA 150/STJ. QUESTÃO QUE NÃO PODE SER REEXAMINADA PELO JUÍZO ESTADUAL (SÚMULA 254/STJ). COMPETÊNCIA DO JUÍZO SUSCITA NTE.
