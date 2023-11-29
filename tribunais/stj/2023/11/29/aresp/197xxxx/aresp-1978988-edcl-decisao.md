@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ESTADO DE MINAS GERAIS contra decisão que não conheceu do agravo em recurso especial interposto por BANCO HONDA S/A.
+O embargante sustenta, em síntese, que houve omissão quanto aos honorários recursais, requerendo a majoração da verba honorária sucumbencial fixada na instância ordinária.
+Impugnação às fls. 659/663(e-STJ).
+É o relatório.
+Os presentes embargos devem ser acolhidos.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com razão o embargante, pois a decisão embargada não se manifestou acerca
+dos honorários recursais, o que caracteriza omissão a ser suprida.
+De acordo com a jurisprudência pacífica deste Tribunal Superior, a majoração da verba honorária sucumbencial é devida, consoante o disposto no art. 85, § 11, do Código de Processo Civil, se estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida deve ter sido publicada a partir de 18/03/2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) não conhecimento integral do recurso, ou seu desprovimento, monocraticamente ou pelo órgão colegiado competente; e (c) existência de condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+No caso dos autos, os referidos requisitos encontram-se presentes, o que possibilita a majoração da verba honorária.
+Ante o exposto, acolho os embargos de declaração, a fim de majorar em 1% os honorários advocatícios fixados anteriormente (e-STJ fls. 243 e 323), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e ressalvada a eventual e anterior concessão da gratuidade judiciária.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. OMISSÃO ACERCA DOS HONORÁRIOS RECURSAIS. CARACTERIZAÇÃO.
+1. De acordo com a jurisprudência pacífica deste Tribunal Superior, a majoração da verba honorária sucumbencial é devida, consoante o disposto no art. 85, § 11, do Código de Processo Civil, se estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida deve ter sido publicada a partir de 18/03/2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) não conhecimento integral do recurso, ou seu desprovimento, monocraticamente ou pelo órgão colegiado competente; e (c) existência de condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+2. Na espécie, estão presentes todos os requisitos. Majoração dos honorários.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
