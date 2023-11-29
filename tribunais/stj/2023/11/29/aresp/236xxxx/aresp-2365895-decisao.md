@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE ANTÔNIO BARBOSA RODRIGUES e JOSÉ EDSON BERTOLDI (ESPÓLIO e JOSÉ) contra decisão que não admitiu o apelo nobre que interpuseram.
+Foi apresentada contraminuta (e-STJ fls. 970/983).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas "a" e "c", da CF, ESPÓLIO e JOSÉ alegam violação aos arts. 489, § 1º, IV e VI, e 1.022, I, II e III, e § único, 505, 507, 508, 85, §§ 1º e 2º do CPC/2015, 20, §4º do CPC/73, 406 do CC e 47 do CDC, ao sustentarem (1) omissão no acórdão recorrido; (2) preclusão dos juros de mora fixados na sentença e confirmados pelo acórdão da fase de conhecimento e ofensa a coisa julgada; (3) equívoco na fixação da verba honorária; e, (4) divergência jurisprudencial.
+(1) Da negativa de prestação jurisdicional (violação dos arts. 489 e 1022 do CPC)
+Nas razões do seu recurso, ESPÓLIO e JOSÉ alegaram a violação dos arts. 489, § 1º, IV e VI, e 1.022, I, II e III, e § único do CPC, em virtude da não apreciação pelo Tribunal estadual (i) da impossibilidade da alteração dos juros de mora contratados, fixados na sentença e mantidos pelo acórdão da fase de conhecimento; (ii) da necessidade da interpretação mais favorável ao consumidor na hipótese sob a ótica do art. 47 do CDC; e, (iii) do critério do art. 20, §4º do CPC/73 para a fixação dos honorários de sucumbência.
+Quanto aos temas, o TJRS, consignou que:
+Com efeito, sob a égide do CC/1916, ou seja, até 10/01/2003, deverão incidir, sobre as quantias a serem restituídas, juros de mora de 0,5% ao mês (6% ao ano), conforme art. 1.062 daquela lei revogada. Após, a partir de 11/01/2003, aplicáveis juros moratórios de 1% ao mês (12% ao ano), com fulcro no art. art. 406 do diploma civil em vigor c/c art. 161, §1º do CTN.
+(..)
+Destarte, dá-se provimento ao recurso no ponto, sem que isso importe a modificação do título judicial transitado em julgado, posto que a 17ª Câmara Cível nada dispôs sobre a taxa legal aplicável a cada período.(e-STJ fl. 368/369)
+Já no julgamento dos embargos de declaração opostos pelo ESPÓLIO e JOSÉ, pontuou que:
+Nesse sentido, viu-se que, em relação aos juros de mora, a discussão havida na fase de conhecimento e, portanto, abarcada pela coisa julgada, foi a referente ao termo inicial (se a contar da citação ou da notificação). Ainda, cumpre ressaltar que o Colegiado havia afastado, expressamente, a pretensão de incidência dos juros contratuais, por entender que não se trata de mora ex re.
+(..)
+Por fim, no tocante à verba sucumbencial, irrelevante a data da apresentação da impugnação à fase de cumprimento, mas sim de seu julgamento, diante do princípio tempus regit actum. Destarte, tendo a decisão hostilizada sido proferida sob a égide do CPC/2015, a fixação dos ônus sucumbenciais deve obedecer ao art. 85 e seguintes do regramento em questão.(e-STJ fls. 471/472)
+Por sua vez, ao julgar os embargos opostos por REAL EMPREENDIMENTOS S. A. (REAL), ainda ficou consignado que:
+No tocante à fixação da verba honorária da fase de cumprimento por apreciação equitativa, viu-se que se trata de matéria preclusa, justamente como corolário do reconhecimento da validade da intimação para pagamento espontâneo. (e-STJ fl. 502)
+Em relação à necessidade da interpretação mais favorável ao consumidor e violação do art. 47 do CDC, não há que se falar em negativa de prestação jurisdicional pelo aresto impugnado haja vista terem sido suscitadas apenas nas razões dos embargos declaratórios, caracterizando inovação recursal.
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, as alegadas violações.
+(2) Da preclusão e da ofensa à coisa julgada
+ESPÓLIO e JOSÉ ainda defenderam que foram violados os arts. 505, 507, 508 do CPC e 406 do CC, pois como os juros de mora foram fixados, pela sentença, em 1% ao mês desde a notificação, conforme contrato legalmente firmado entre as partes, e confirmados pelo acórdão da fase de conhecimento, por essa razão deveria ser observada a preclusão e coisa julgada sobre o tema.
+Asseveraram que mesmo que a disposição sobre os juros de mora não esteja descrita no dispositivo do acórdão, é necessário observar o que foi decidido na fundamentação do voto.
+Além disso, argumentaram que caso se entenda pela dubiedade do que foi estabelecido na sentença, deve ser observado o art. 47 do CDC, com a intepretação mais favorável ao consumidor, pela relação travada entre as partes ser de consumo.
+Finalmente, aduziram que além do desrespeito à preclusão e à coisa julgada, a conduta da agravada ao se insurgir contra a fixação dos juros de mora somente no cumprimento da sentença fere a boa fé objetiva por configurar venire contra factum proprium.
+Por sua vez, o acórdão recorrido definiu que os juros de mora de 1% ao mês contariam a partir da citação, quando já vigente o CC/2002, nos seguintes termos:
+Por sua vez, a sentença que ensejou a interposição do apelo acima analisado, havia fixado juros de mora de 1% ao mês, apenas porque estes contariam apenas a partir da citação, quando já vigente o CC/2002. Alterado pelo TJRS o dies a quo para data anterior a 11/01/2003 (quando ocorrida a notificação extrajudicial), e não tendo, como visto, o acórdão transitado em jugado feito qualquer ressalva em relação à taxa, a questão pôde ser dirimida em sede de liquidação de sentença. (e-STJ fl. 472)
+Rever as conclusões do TJRS, soberano na análise dos documentos e provas que instruem o processo, referentes a não configuração da coisa julgada ou preclusão da discussão sobre os juros de mora, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Além disso, ESPÓLIO e JOSÉ não impugnaram os fundamentos do aresto impugnado a respeito (i) do indeferimento da pretensão da incidência dos juros contratuais, pelo acórdão da fase de conhecimento, por entender que não se trada de mora ex re. (e-STJ fl. 471); e, (ii) a sentença havia fixado juros de mora de 1% ao mês, apenas porque estes contariam apenas a partir da citação, quando já vigente o CC/2002. (e-STJ fl. 472), capazes de manter o acórdão impugnado por suas próprias razões.
+Aplica-se, por analolgia, a Súmula nº 283 do STF.
+Finalmente, do exame dos autos, verifica-se o Tribunal estadual não se pronunciou sobre a violação dos arts. 47 do CDC e a alegada conduta contraditória da agravada, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados e seus respectivos argumentos, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, também não há como ser analisada referidas teses trazidas no recurso especial, em virtude da Súmula nº 211 do STJ.
+Logo, as insurgências não podem ser conhecidas em respeito às Súmulas 7 e 211 do STJ, bem como a 283 do STF, por analogia.
+(3) Da fixação dos honorários de sucumbência
+Em suas razões recursais, ESPÓLIO e JOSÉ arrazoaram que o critério para a fixação dos honorários de sucumbência devia ter sido o do art. 20, §4º do CPC/73, tendo em vista que este era a lei de regência na época do ingresso do cumprimento de sentença.
+Como já referido, o Tribunal Gaúcho declarou expressamente que irrelevante a data da apresentação da impugnação à fase de cumprimento, mas sim de seu julgamento, diante do princípio tempus regit actum. Destarte, tendo a decisão hostilizada sido proferida sob a égide do CPC/2015, a fixação dos ônus sucumbenciais deve obedecer ao art. 85 e seguintes do regramento em questão (e-STJ fl. 472), fundamentos não impugnados pelos agravantes.
+Dessa forma, o recurso não merece ser conhecido quanto ao ponto em razão da incidência da Súmula nº 283 do STF, por analogia.
+(4) Da divergência jurisprudencial
+Finalmente, ESPÓLIO e JOSÉ sustentaram o dissídio quanto à tese da impossibilidade da alteração dos juros de mora contratados e fixados na fase de conhecimento pela preclusão e coisa julgada.
+Todavia, o recurso especial, também fundamentado na alínea "c" do permissivo constitucional, apenas traz jurisprudência que ESPÓLIO e JOSÉ entendem divergir do acórdão recorrido, sem, contudo, realizar o cotejo analítico entre os precedentes para comprovar, notadamente, a existência de similitude fática, elementos indispensáveis à demonstração da divergência.
+Destaca-se que, na hipótese em julgamento, o TJRS declarou expressamente que alterado pelo TJRS o dies a quo para data anterior a 11/01/2003 (quando ocorrida a notificação extrajudicial), e não tendo, como visto, o acórdão transitado em jugado feito qualquer ressalva em relação à taxa, a questão pôde ser dirimida em sede de liquidação de sentença. (e-STJ fl. 472), o que por si só, diferencia as situações do acórdão recorrido e dos acórdãos trazidos como paradigma.
+Logo, a análise da existência do dissídio é inviável, haja vista o descumprimento dos arts. 1029, §1º, do CPC/15 e 255, §§1º e 2º, do RISTJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, e a ele, NEGAR PROVIMENTO.
+Deixo de majorar a verba honorária porque incabível na espécie.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C.C. COM INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS EM JULGAMENTO DE RECURSO ESPECIAL. SÚMULA Nº 7 DO STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
