@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMAZON SERVIÇOS DE VAREJO DO BRASIL LTDA. (AMAZON) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Gaúcho, assim ementado:
+APELAÇÃO CÍVEL. PROPRIEDADE INDUSTRIAL E INTELECTUAL. DIREITO AUTORAL. PRELIMINAR DE NULIDADE DA SENTENÇA AFASTADA. AUSÊNCIA DE AFRONTA AO ART. 489 DO CPC. ASENTENÇA FEZ O DEVIDO ENFRENTAMENTO ADEQUADO E FUNDAMENTADO DA SITUAÇÃO FÁTICA E JURÍDICA EM DISCUSSÃONOS AUTOS. OBSERVÂNCIA DO DISPOSTO NO ART. 24, II, DA LEI 9.610/98. A RÉ AMAZON NÃO PODERIA VEICULAR AS OBRAS MUSICAIS EM SUA PLATAFORMA AMAZON MUSIC SEM A DEVIDA INDICAÇÃO DO NOME DO COMPOSITOR. MESMO QUE O LICENCIAMENTO SEJA FEITO PELAS EMPRESAS LICENCIANTES REFERIDAS PELA PARTE RÉ, A RESPONSABILIDADE DA EMPRESA DE STREAMING NÃO PODE SER AFASTADA, DADA A DISPONIBILIZAÇÃO DAS MÚSICAS EM SUA PLATAFORMA E A OBTENÇÃO DE LUCROS COM AS ASSINATURAS DOSOUVINTES. PORTANTO, NÃO HAVENDO DÚVIDAS ACERCA DA AUTORIA DAS OBRAS PUBLICADAS E CONSIDERANDO SER POSSÍVEL QUE A RÉ INDIQUE EM SUA PLATAFORMA OS CRÉDITOS AUTORAIS DE CADA MÚSICA, O FATO DE NÃO TER PROCEDIDO DESTA FORMA IMPÕE SUA RESPONSABILIZAÇÃO POR CONTA DA VIOLAÇÃO DO DIREITO MORAL DO AUTOR. INTELIGÊNCIA DO ART. 108 DA LEI 9.610/98. MAJORAÇÃO DA VERBA INDENIZATÓRIA E DA VERBA HONORÁRIA. PRELIMINAR DE NULIDADE DA SENTENÇA REJEITADA. APELO DA RÉ NÃO PROVIDO E APELO DO AUTOR PROVIDO (e-STJ, fls. 543/544).
+Os embargos de declaração opostos pela AMAZON foram rejeitados (e-STJ, fls. 588/599).
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, AMAZON alegou a violação dos arts. 8º, 373, 489, §1º, IV, 1.022 do NCPC, 186 e 884 do CC, bem como dissídio jurisprudencial, aduzindo que (1) o acórdão recorrido foi omisso; (2) não tem responsabilidade pelas informações relativas às obras lançadas na plataforma, de modo que não pode ser responsabilizada pela ausência de informação quanto à autoria da obra musical; e (3) o valor indenizatório deve ser reduzido (e-STJ, fls. 607/648).
+O recurso não foi admitido (e-STJ, fls. 735/742).
+Nas razões do presente agravo, AMAZON alegou que não incidem os óbices invocados (e-STJ, fls. 751/788).
+Foi apresentada contraminuta (e-STJ, fls. 804/818).
+É o relatório.
+Para melhor exame da controvérsia, CONVERTO o agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DIREITOS AUTORAIS. OBRA MUSICAL EM PLATAFORMA DE STREAMING. INDICAÇÃO DE AUTORIA. INEXISTÊNCIA. AGRAVO CONVERTIDO EM RECURSO ESPECIAL.
