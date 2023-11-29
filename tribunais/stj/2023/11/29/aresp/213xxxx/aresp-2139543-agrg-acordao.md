@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 23/11/2023 a 29/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Francisco Falcão e Luis Felipe Salomão.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. REGIME PRISIONAL. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 182/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. O Supremo Tribunal Federal, ao julgar o AI n. 742.460-RG/RJ, firmou o entendimento de que "não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional" (Tema n. 182 do STF).
+4. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANA PAULA CALCAVARA FAVARO SOARES DE OLIVEIRA contra decisão que negou seguimento ao recurso extraordinário assim ementada:
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. VIOLAÇÃO DO ART. 5º, XLVI, DA CONSTITUIÇÃO FEDERAL. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. DOSIMETRIA. REGIME CARCERÁRIO. TEMA N. 182/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+A parte agravante alega a inaplicabilidade dos Temas n. 182 e 339 do STF ao caso.
+Nesse sentido, argumenta que seria equivocada a aplicação do Tema n. 339 do STF, na medida em que "não se trata de motivação inidônea, mas de ausência de fundamentação em decisão judicial" (fl. 816).
+Defende o descabimento do Tema n. 182 do STF, pois "os norteadores do Art. 59 do CP sequer foram apreciados, pois a ré era primária" (fl. 816).
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. REGIME PRISIONAL. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 182/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. O Supremo Tribunal Federal, ao julgar o AI n. 742.460-RG/RJ, firmou o entendimento de que "não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional" (Tema n. 182 do STF).
+4. Agravo regimental a que se nega provimento.
+VOTO
+Conforme consignado na decisão agravada, quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no julgado recorrido.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (Código de Processo Civil, art. 927, III).
+Quanto ao mais, como registrado anteriormente, o STF, ao julgar o AI n. 742.460-RG/RJ, firmou o entendimento de que (Tema n. 182):
+Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional.
+Confira-se, por oportuno, a ementa do julgado:
+RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código Penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional.
+Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional.
+(AI n. 742.460-RG, relator Ministro Cezar Peluso, julgado em 27/8/2009, DJe de 25/9/2009.)
+Por sua vez, a Corte Especial do STJ entende que o Tema n. 182 do STF abrange a hipótese de fixação do regime carcerário quando estabelecido em decorrência da análise das circunstâncias do art. 59 do Código Penal.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 5º, INCISO XLVI, DA CONSTITUIÇÃO FEDERAL. INDIVIDUALIZAÇÃO DA PENA BASEADA NA PONDERAÇÃO DE CIRCUNSTÂNCIAS DO ART. 59 DO CÓDIGO PENAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AI-RG 742.460. TEMA 182/STF.
+1. O STF reconheceu que não possuem repercussão geral as questões relativas à valoração das circunstâncias judiciais previstas no art. 59 do Código Penal para fixação da pena. Exegese do AI 742.460 (Tema n. 182/STF).
+2. O referido precedente se amolda à questão dos autos, visto que o provimento do especial do Parquet Estadual para fixar o regime inicialmente fechado da pena baseou-se exatamente na ponderação dos elementos contidos no artigo 59 do Código Penal c/c o artigo 42 da Lei n. 11.343/06, que não teriam sido observados pelo Tribunal de origem.
+Agravo regimental improvido.
+(AgRg no RE no AgRg no AREsp n. 910.270/MG, relator Ministro Humberto Martins, Corte Especial, julgado em 19/4/2017, DJe de 3/5/2017.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ARTIGO 5º, XLVI, DA CONSTITUIÇÃO FEDERAL. PRINCIPIO DA INDIVIDUALIZAÇÃO DAS PENAS. VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS PREVISTAS NO ART. 59 DO CÓDIGO PENAL. FIXAÇÃO DE REGIME INICIAL. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 182/STF. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. PREENCHIMENTO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. AGRAVO NÃO PROVIDO.
+1. Segundo entendimento do STF, não tem repercussão geral o recurso extraordinário que verse sobre dosimetria da pena, dado que a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, é matéria de índole infraconstitucional, o que também tem aplicação para o caso concreto, cuja ponto nodal refere-se à fixação do regime inicial de cumprimento de pena, dado que, de idêntica forma, tem o juiz de sopesar os acontecimentos apurados no édito condenatório e, por via de consequência, como é lógico, as circunstâncias judiciais referidas. (Tema 182/STF).
+2. Consoante entendimento firmado pelo Supremo Tribunal Federal, no julgamento da Repercussão Geral no RE 598.365 RG/MG, "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+3. Agravo regimental não provido.
+(AgRg no RE no AgRg no AREsp n. 1.519.643/SP, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 12/5/2020, DJe de 15/5/2020.)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fls. 716-717):
+Acerca da fixação do regime, para melhor elucidação da controvérsia, necessário transcrever o seguinte excerto da fundamentação utilizada pelo Tribunal estadual, in verbis (e-STJ fls. 512-514):
+O regime deve ser o inicial semiaberto.
+Para fixação do regime inicial de cumprimento de pena, leva-se em conta a) previsão legal impondo regime inicial; b) quantidade da pena imposta; c) reincidência; d) circunstâncias judiciais do art. 59 do CP; e) gravidade concreta da execução do crime e, por fim, f) a periculosidade à sociedade.
+Não há obrigatoriedade em escolher o regime inicial aberto para quem tem pena for inferior a 4 anos, nos termos do preceituado no art. 33, § 2º, "c", do Código Penal. Existe mera possibilidade, que depende das condições objetivas e subjetivas dos envolvidos, além de analisar como o delito foi perpetrado.
+Ana Paula registra três condenações definitivas caracterizadoras de maus antecedentes, além de responder a diversos outros processos por crimes de estelionato. Ela não se emenda, ao contrário, sempre torna a cometer os mesmos ilícitos penais. Demonstra que não respeita as autoridades constituídas e, tampouco, os princípios de "viver honestamente" e "não lesar outrem". Efetivamente, mostra que não houve ressocialização com as sanções passadas e ainda tem dificuldade de integrar- se em sociedade.
+Além disso, abriu uma imobiliária e passou a apresentar-se como corretora, utilizando-se dos contratos que intermediava para ludibriar clientes e obter a vantagem indevida, assim como o fez com as vítimas, tendo, inclusive, incluído o nome de pessoa como fiadora sem o seu consentimento e falsificado sua assinatura. Tudo isso evidencia maior reprovabilidade de sua conduta, a recomendar regime prisional pouco mais severo.
+ ..
+Nestas condições, a manutenção do regime aberto esbarra na literalidade de norma legal (art. 33, §§ 2º e 3º, CP), como também não cumpre com sua função maior que é a prevenção da prática de novos crimes.
+Cabe invocar ensinamento do STF: "A determinação do regime inicial de cumprimento da pena não depende apenas das regras do caput do art. 33 e seu parágrafo 2º do Cód. penal, mas, também, de suas próprias ressalvas, conjugadas com o caput do art. 59 e inciso III (RHC 64.970). E deve ser feita, nos termos do parágrafo 3º do art. 33, com observância dos critérios previstos no art. 59." (HC nº 70.289-SP, 1ª Turma, Rel. Min. Sidney Sanches, in RTJ, 148:490).
+Assim, para a correta individualização de sua pena, com tratamento diferenciado do criminoso sem uso da capacidade intelectiva, pode, de início, ficar num regime menos severo, para, gradativamente, voltar à convivência em sociedade de maneira harmônica.
+No regime escolhido ela fica sujeita a trabalho em comum durante o período diurno, em colônia agrícola, industrial ou estabelecimento similar (art. 35, parágrafo 1º, do Código Penal). O trabalho externo é admissível, bem como a frequência a cursos supletivos profissionalizantes, de instrução de segundo grau ou superior (art. 35, parágrafo 2º, do mesmo diploma legal).
+Em regime inicial intermediário, ainda, poderá refletir sobre a erronia de suas condutas, ao mesmo tempo, é repreendida dos atos que realizou, previne-se que não os faça mais e outros delitos, por fim, efetiva-se sua integração social para, gradativamente, voltar à convivência em sociedade de maneira harmônica.
+E não há se falar em ofensa ao enunciado das Súmulas 440 do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal, mesmo porque o estabelecimento do regime prisional decorreu das condições pessoais e circunstâncias do crime, e não de mera opinião do Magistrado.
+Incabível a substituição da carcerária por penas restritivas de direitos ou a concessão de "sursis", porque Ana Paula ostenta maus antecedentes (arts. 44, "caput", inc. III, e 77, "caput", inc. II, do Código Penal), além de evidenciar habitualidade criminosa, fazendo do estelionato seu meio de vida. Essas circunstâncias, pois, evidenciam que as medidas não se mostram suficientes para a reprovação de sua conduta nem adequadas para sua recuperação.
+Da análise dos autos, verifica-se que a fixação do regime prisional decorreu das condições pessoais e circunstâncias do crime, estando devidamente justificado.
+Destarte, o entendimento adotado pelo Tribunal a quo não destoa da jurisprudência deste STJ  .. .
+Verifica-se, portanto, que o regime de cumprimento da pena foi decidido com base nas circunstâncias judiciais do art. 59 do Código Penal, o que enseja a aplicação do Tema n. 182 do STF.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
