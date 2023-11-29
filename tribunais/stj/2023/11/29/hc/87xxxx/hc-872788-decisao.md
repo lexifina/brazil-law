@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Helinton Jose Barbara Mello - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Habeas Corpus n. 5062211-41.2023.8.24.0000), não comporta processamento.
+Com efeito, busca a impetração da revogação da prisão cautelar mantida na sentença proferida pelo Juízo de Direito da 2ª Vara Criminal da comarca de Joinville/SC (Ação Penal n. 5036659-57.2023.8.24.0038), ao argumento de que a decisão que negou ao paciente o direito de recorrer em liberdade não pode ser considerada fundamentada, umas vez que o Magistrado limitou-se a invocar que "nego o direito de recorrer em liberdade, porque permaneceram presos durante toda a tramitação do feito e persistem os motivos que implicaram na decretação da segregação cautelar" (fl. 5).
+Ocorre que a sentença condenatória faz referência à persistência aos fundamentos do decreto de prisão, o qual fundamentou a necessidade da custódia na habitualidade criminosa dos acusados, que estariam exercendo o comércio em larga escala, uma vez que a suposta atividade criminosa praticada pelos investigados e Cassiane era desenvolvida de forma habitual e organizada, o que demonstra gravidade da conduta e demanda resposta enérgica do Estado, a fim de não encorajar os agentes a seguirem delinquindo. Ademais, ao que se infere do até então processado, há indícios de que a investigada Juliana tenha envolvimento com a organização criminosa Primeiro Grupo Catarinense (PGC), com forte atuação no Estado, cuja característica principal de seus integrantes é a violência empregada para alcançar seus objetivos (fl. 20).
+Assim, não verifiquei a ocorrência do ilegal constrangimento.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS. NEGATIVA DE RECORRER EM LIBERDADE. REFERÊNCIA À PERSISTÊNCIA DOS FUNDAMENTOS DO DECRETO DE PRISÃO, JUSTIFICADO NA HABITUALIDADE CRIMINOSA E PERICULOSIDADE CONCRETA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
