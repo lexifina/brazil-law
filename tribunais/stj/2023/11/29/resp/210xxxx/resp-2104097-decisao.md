@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por GERDAU AÇOS LONGOS S.A. com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE PEDIDO DE FALÊNCIA. COBRANÇA DE DÍVIDA. CIRCUNSTÂNCIA INSUFICIENTE PARA AMPARAR O PEDIDO DE DECRETAÇÃO DA FALÊNCIA DA PARTE DEVEDORA. HONORÁRIOS RECURSAIS. SENTENÇA MANTIDA.
+1. Constatado, pela simples leitura da petição inicial, que a demandante nada descreveu sobre a impossibilidade de continuação das atividades da empresa apelada (total insolvência), mas, em contrapartida, dando ênfase apenas ao seu crédito (R$ 60.265,25) a receber, é preciso reconhecer que a pretensão autoral, de quebra da sociedade empresária (artigo 94 da Lei nº 11.101/2005), se revela como medida extrema, onerosa e desproporcional, de modo a confrontar com os princípios da função social, da continuidade da empresa, da manutenção da ordem econômica, bem como da garantia do pleno emprego.
+2. Com base no artigo 85, § 11, do CPC/15, verba honorária majorada em desproveito da autora/apelante.
+3. RECURSO DE APELAÇÃO CONHECIDO, MAS DESPROVIDO. SENTENÇA MANTIDA" (fl. 1.639 e-STJ).
+A recorrente alega, além de divergência jurisprudencial, a violação do artigo 94 da Lei nº 11.101/2005.
+Sustenta a possibilidade de decretação da falência da sociedade recorrida diante da impontualidade no cumprimento de obrigação pecuniária de valor superior a 40 (quarenta) salários mínimos.
+Argumenta, ainda, que não há exigência legal de comprovação do estado de insolvência do devedor.
+O Ministério Público Federal instado a se manifestar por meio de seu representante legal, o Subprocurador-Geral da República Renato Brill de Góes, opinou pelo provimento do recurso especial, determinando o retorno dos autos à origem, para o prosseguimento da análise do pedido de falência ajuizado pela autora, ora recorrente.
+É o relatório.
+DECIDO.
+Preliminarmente, importante consignar que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+No caso, a ora recorrente ajuizou pedido de falência da empresa recorrida com base no inadimplemento de duplicatas protestadas no valor de R$ 60.265,25 (sessenta mil duzentos e sessenta e cinco reais e vinte e cinco centavos).
+O referido pedido foi julgado improcedente pelo juiz singular, sob o argumento de que não foi demonstrada a situação de insolvência a justificar a decretação da quebra.
+É o que consta nos seguintes fundamentos da sentença:
+"(..)
+Não obstante a legislação elenque a impontualidade injustificada como hipótese que, de per si, justifica a caracterização do estado de insolvência, a questão deve ser analisada em cotejo com a situação patrimonial da empresa, perquirindo-se sobre a possibilidade de que venha a arcar com suas dívidas, e não simplesmente verificando-se a mora ou o inadimplemento.
+Com efeito, a falência deve ser considerada como medida excepcional, a ser decretada quando evidente a existência de ameaça à coletividade diante da insolvência, não podendo ser utilizada como meio de coerção para a cobrança de crédito individual.
+Isso porque o empresário e a sociedade empresária contribuem para a consecução do principal propósito do modelo econômico atual, qual seja, a geração de empregos e renda, pelo que a coletividade deve ser prestigiada em detrimento do inadimplemento individual e isolado. Vale dizer: a empresa que gera riquezas e mão-de-obra e paga tributos deve ser, na medida do possível, preservada, devido ao interesse social envolvido, sendo a declaração da falência a última opção, a ser adotada em caráter excepcionalíssimo, pois a decretação infundada acarreta incontáveis prejuízos ao interesse geral.
+(..) Partindo desses pressupostos, observo que, in casu, o pedido encontra-se lastreado na impontualidade injustificada (artigo 94, inciso I, da Lei nº 11.105/05), pois a ré deixou de pagar no vencimento - e isso é incontroverso nos autos - a obrigação líquida, de valor superior a 40 (quarenta) salários mínimos, representada pela documentação encartada ao mov. 1, doc. 04, que foi regularmente protestada, conforme reconheceu o e. TJDFT (mov. 01, doc. 27). Ocorre que, da detida análise da petição inicial, infere-se que o autor baseou o pedido no simples argumento de mora da devedora. Não há, contudo, uma réstia de prova acerca do estado pré-falimentar da ré.
+Em que pese não se olvide que é desnecessária a comprovação cabal da inviabilidade da atividade empresarial para o ajuizamento da ação de falência, o fato é que, na espécie, o fundamento é tão somente a mora da ré, exsurgindo daí a inarredável conclusão de que não há interesse de agir na formulação do pedido, sendo a via correta para a persecução do crédito ventilado a ação de cobrança ou a execução de título extrajudicial, medidas adequadas e razoáveis para a satisfação individual do autor. Repise-se que o interesse de agir é matéria de ordem pública, de modo que sua falta pode ser reconhecida de ofício e, portanto, independeria da preliminar arguida pela ré (ex vi dos artigos 337, inciso XI e §5º, e 485, inciso VI e §3º, ambos do Código de Processo Civil)" (fls. 1.597/1.598 e-STJ).
+Por sua vez, o Tribunal de origem manteve a decisão singular, com base nos seguintes fundamentos:
+"(..)
+Prima facie, deveras, o artigo 94, inciso I, da Lei nº11.101/2005, dispõe que será decretada a falência do devedor que, sem relevante razão de direito, não paga, no vencimento, obrigação líquida materializada em título protestado, cuja soma ultrapasse o equivalente a40 (quarenta) salários-mínimos na data do pedido de falência.
+(..) Insta registrar, contudo, que o mencionado dispositivo não pode ser analisado sem observância aos princípios da função social, da continuidade da empresa, da manutenção da ordem econômica, da garantia do pleno emprego, bem como em atendimento aos fins sociais em que a norma se destina às exigências do bem comum.
+Com efeito, conforme bem fundamentado pelo nobre Juiz de Direito, condutor da demanda, o instituto da falência não pode ser utilizado como meio coercitivo para a cobrança de dívida, pois, sua decretação é decisão altamente temerária, mormente diante das consequências sociais e econômicas advindas do referido ato.
+Diante dessas considerações, a confirmação da sentença apelada é medida que se impõe, face o evidente desvirtuamento do pedido de decretação de falência como substitutivo das medidas cabível ao caso, caracterizado pela utilização de um instrumento jurisdicional inadequado e desproporcional ao fim de satisfação do crédito" (fls. 1.634/1.636 e-STJ).
+De fato, não se ignoram os julgados desta Corte que, para evitar o abuso de direito no ajuizamento da ação falimentar, preconizam que "(..) o pedido de falência não pode ser utilizado como simples substituto das vias executivas ordinárias" (AgRg no REsp 949.576/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/6/2013, DJe 5/8/2013).
+Em contrapartida, com a edição da Lei nº 11.101/2015, a jurisprudência deste Superior Tribunal consolidou-se no sentido de que a impontualidade do devedor no pagamento de dívida de valor superior a quarenta salários mínimos caracteriza a insolvência jurídica a justificar o decreto falimentar. Assim, é prescindível que o autor do pedido de falência apresente indícios da insolvência ou da insuficiência patrimonial do devedor.
+Nesse sentido:
+"RECURSO ESPECIAL. PROCESSO CIVIL. PEDIDO DE FALÊNCIA. INADIMPLEMENTO DE TÍTULOS DE CRÉDITO. CONTRATO COM CLÁUSULA COMPROMISSÓRIA. INSTAURAÇÃO PRÉVIA DO JUÍZO ARBITRAL. DESNECESSIDADE. DEPÓSITO ELISIVO. EXTINÇÃO DO FEITO. DESCABIMENTO.
+(..)
+5. O processo deve, portanto, prosseguir perante a jurisdição estatal, porque, aparelhado o pedido de falência em impontualidade injustificada de títulos que superam o piso previsto na lei (art.
+94, I, da Lei 11.101/2005), por absoluta presunção legal, fica afastada a alegação de atalhamento do processo de execução/cobrança pela via falimentar.
+6. Recurso especial a que se nega provimento" (REsp 1.733.685/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/11/2018, DJe 12/11/2018).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE FALÊNCIA. IMPONTUALIDADE NO PAGAMENTO. ART. 94, INCISO I, DA LEI Nº 11.101/2005. PRÉVIO AJUIZAMENTO DE EXECUÇÃO. DESNECESSIDADE. DECISÃO MANTIDA. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Esta Corte possui entendimento quanto a possibilidade de decretação da falência pela impontualidade do pagamento, nos termos da Lei nº 11.101/2005, sem a necessidade de prévia execução judicial.
+(..)
+5. Agravo interno não provido, com imposição de multa" (AgInt no REsp 1.640.941/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 7/11/2017, DJe 13/11/2017).
+"RECURSO ESPECIAL. DIREITO FALIMENTAR E PROCESSUAL CIVIL. PEDIDO DE FALÊNCIA. IMPONTUALIDADE DO DEVEDOR. INDEFERIMENTO DA PETIÇÃO INICIAL. UTILIZAÇÃO DO PROCESSO FALIMENTAR COM FINALIDADE DE COBRANÇA. NÃO OCORRÊNCIA. DÍVIDA DE VALOR CONSIDERÁVEL. DESNECESSIDADE DE APRESENTAÇÃO DE INDÍCIOS DE INSOLVÊNCIA DA DEVEDORA. PRECEDENTE ESPECÍFICO DO STJ.
+1. Controvérsia acerca do indeferimento da petição inicial de um pedido de falência instruído com título executivo extrajudicial de valor superior a um milhão de reais.
+2. Aplicação do disposto no art. 94, I, da Lei 11.101/2005, autorizando a decretação da falência do devedor que, "sem relevante razão de direito, não paga, no vencimento, obrigação líquida materializada em título ou títulos executivos protestados cuja soma ultrapasse o equivalente a 40 (quarenta) salários-mínimos na data do pedido de falência".
+3. Doutrina e jurisprudência desta Corte no sentido de não ser exigível do autor do pedido de falência a apresentação de indícios da insolvência ou da insuficiência patrimonial do devedor.
+4. Não caracterização no caso de exercício abusivo do direito de requerer a falência pelo devedor.
+5. RECURSO ESPECIAL PROVIDO" (REsp 1.532.154/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/10/2016, DJe 3/2/2017).
+Nesse contexto, a divergência do acórdão recorrido com a jurisprudência dominante desta Corte atrai a incidência da Súmula nº 568/STJ.
+Ante o exposto, dou provimento ao recurso especial para determinar que o Tribunal de origem prossiga a análise do pedido de falência como entender de direito.
+Publique-se.
+Intimem-se.
+EMENTA
