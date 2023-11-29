@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pela Indústria de Bebidas Pirassununga Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 308):
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. CDA. PRESUNÇÃO JÚRIS
+TANTUM DE CERTEZA E LIQUIDEZ. REQUISITOS PREENCHIDOS. RECURSOS IMPROVIDO.
+I. Inicialmente, no tocante à alegada nulidade da Certidão da Dívida Ativa - CDA, a teor do disposto no artigo 204 do CTN, reproduzido pelo artigo 3o da Lei n.º 6.830/80, a Dívida Ativa regularmente inscrita goza de presunção júris tantum de certeza e liquidez, podendo ser ílidida por prova inequívoca a cargo do sujeito passivo ou de terceiro a que aproveite.
+II. No caso concreto, a CDA acostada aos autos da execução fiscal preenchem, a contento, os requisitos exigidos pelos artigos 202 do CTN e 2o, § 5o, da Lei nº 6.830/80. Com efeito, verifica-se que foram especificados na CDA os fundamentos legais da dívida, a natureza do crédito, a origem, a quantia principal e os encargos, não havendo qualquer omissão que as nulifique.
+III. Apelação a que se nega provimento.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 202 do CTN e 2º, §5º, da LEF. Sustenta, em resumo, que "Muito embora o v. Acórdão tenha apontado que o título executivo contém todos os requisitos legais e que, por isso, não viola os artigos 202 do CTN e 2º, §5º, da Lei de Execução Fiscal, a Recorrente demonstrou que a referida CDA não aponta com clareza a origem do débito. Conforme apontado em suas razões de Apelação, a Recorrente desconhece a origem do débito. E essa origem consiste em requisito basilar da constituição de um título executivo, nos termos do inciso III do art. 202 do CTN e também do inciso III do §5º do art. 2º da Lei de Execuções Fiscais" (fl. 326).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, destaca-se a seguinte fundamentação adotada pelo aresto impugnado (fl. 312):
+No caso em tela, não restou comprovado nenhuma irregularidade na Certidão da Dívida Ativa - CDA, de modo que não prosperam as alegações da parte embargante.
+Cumpre ressaltar que dada a presunção de liquidez e certeza da CDA, não é necessária a juntada do procedimento administrativo ou quaisquer outros documentos, pois a certidão da divida ativa contém todos os dados necessários para que o executado possa se defender. Cabe acrescentar que os autos do procedimento administrativo ficam a disposição do contribuinte nas dependências do órgão fiscal, podendo ser consultados a qualquer momento.
+Assim, a alteração das premissas adotadas pela Corte de origem quanto à validade da CDA, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. PREQUESTIONAMENTO INEXISTENTE. INCIDÊNCIA DAS SÚMULAS 282 e 356/STF. NULIDADE DA CDA. REEXAME DE PROVAS. SUMULA7/STJ. INCIDÊNCIA.
+1. Trata-se de Agravo contra decisão que conheceu do pleito para não conhecer do Recurso Especial por incidência das Súmulas 7/STJ, 282 e 356/STF.
+2. A irresignação não merece prosperar, uma vez que o Tribunal de origem não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz. Não se pode conhecer da irresignação contra a ofensa ao art. 204 do CTN, pois o referido dispositivo legal não foi analisado pela instância de origem. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+3. O busílis trata da liquidez e da exigibilidade do título exequendo. A sentença entendeu que a defesa do executado foi cerceada, em razão de o título não conter os requisitos básicos para a execução exigidos, descumprindo o artigo 2º, parágrafo 5º, inciso III da Lei 6.830/80, não possibilitando a emenda à inicial. O Tribunal entendeu ser insanável o título que não traz a fundamentação legal nem indica a data dos vencimentos dos créditos dificultando a defesa do exequente.
+4. A verificação da liquidez e da certeza da CDA ou, ainda, da presença dos requisitos essenciais à sua validade, demanda reexame do conjunto fático-probatório constante dos autos, o que é vedado em Recurso Especial (Súmula 7/STJ) 5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.002.156/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2022, DJe de 23/6/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
