@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a parte autora ajuizou ação ordinária com valor da causa atribuído em R$ 10.000,00 (dez mil reais), objetivando o pagamento de parcelas vencidas e vincendas de adicional noturno, o qual o autor reputa indevidamente suprimido de sua remuneração, em seus períodos de férias, licenças para capacitação, tratamento de saúde e demais afastamentos tidos como de efetivo exercício nos termos do art. 102 da Lei n. 8.112/90.
+Após sentença que julgou procedentes os pedidos, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO negou provimento à apelação do ente público.
+O referido acórdão foi assim ementado, in verbis:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE PENITENCIÁRIO FEDERAL. ADICIONAL NOTURNO. PERÍODOS DE AFASTAMENTO CONSIDERADOS COMO DE EFETIVO EXERCÍCIO. DIREITO. HABITUALIDADE NO RECEBIMENTO DA VANTAGEM. APELAÇÃO IMPROVIDA.
+1. Apelação desafiada pela União Federal em face da sentença que julgou procedente o pedido inicial para condenar o Ente Recorrente a pagar à parte Autora as parcelas vencidas e vincendas do Adicional Noturno referente aos períodos de férias, licenças para capacitação, tratamento de saúde e demais afastamentos da parte Demandante tidos como de efetivo exercício pelo art. 102 da Lei n. 8.112/90, justificando-se a obrigação enquanto o Autor receber com habitualidade o Adicional Noturno.
+2. Na hipótese, procura-se aferir se o Autor faz jus ao Adicional Noturno nos períodos de afastamentos considerados por Lei como de efetivo exercício, como férias, licenças para capacitação, tratamento de saúde e demais afastamentos enumerados no artigo 102 da Lei nº 8.112/90.
+3. Alega a Apelante que dada a excepcionalidade do regime jurídico a que estão submetidos os Agentes Federais de Execução Penal que laboram em regime de plantão de 24 por 72 horas, a legislação especial já prevê a compensação da categoria pelo trabalho ininterrupto e noturno, não havendo fundamento legal para se pagar Adicional Noturno a essa categoria específica quando afastados por qualquer dos motivos previstos no art. 102 da Lei n. 8.112/90, mas tão somente quando estiverem prestando serviço entre as 22 (vinte e duas) horas de um dia e às 5 (cinco) horas do dia seguinte, nos termos do art. 75 da Lei nº 8.112/90
+4. A questão sub oculis foi enfrentada pela Turma Nacional de Uniformização - TNU, tendo-se fixado a tese que "é devido o pagamento de adicional noturno (arts. 61, VI, e 75 da Lei nº 8.112/90) pelo servidor público federal nos períodos de afastamentos previstos no art. 102, I e VIII, da Lei nº 8.112/90 sempre que houver habitualidade no seu pagamento." (TNU - Pedido de Uniformização de Interpretação de Lei (Turma) 0005559-59.2018.4.01.4100, Acórdão. Relatora: Polyana Falcão Brito. Julgamento: 16/10/2020. Publicação: 19/10/2020).
+5. Em que pese o Adicional Noturno ser vantagem devida pelo exercício de função pública em condições especiais (ex facto officci) ou em razão de anormalidade do serviço (propter laborem), exigindo-se para o seu recebimento que o servidor esteja em plena atividade, a habitualidade no pagamento da verba é motivo suficiente a ensejar a continuidade do seu pagamento nos afastamentos considerados por lei como de efetivo exercício. Corroborando esse entendimento, o seguinte precedente desta Corte: TRF5 - Processo 20008100002602101, Embargos de Declaração na Apelação Mandado Segurança, Rel. Desembargador Federal Francisco Barros Dias, 2ª Turma, julgamento: 04/12/2012, publicação: 13/12/2012.
+6. No caso, restou comprovado que o Autor é Agente Federal de Execução Penal, lotado atualmente na Penitenciaria Federal em Mossoró/RN e que o mesmo trabalha em escala de plantão, cumprindo escala de 24 horas de trabalho por 72 horas de descanso, com início às 08:00 horas da manhã de um dia e saída às 08:00 horas do dia posterior.
+7. Uma vez caracterizada a habitualidade do Adicional Noturno pago ao Autor, há de ser reconhecido seu direito ao recebimento da vantagem nos períodos de afastamento previstos no art. 102 da Lei nº 8.112/90, nos termos fixados na sentença combatida.
+8. Apelação improvida. Honorários advocatícios de sucumbência fixados na sentença majorados em 10% (dez por cento) em observância ao disposto no art. 85, § 11, do CPC.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 489 e 1.022 do CPC; dos arts. 19, 49, § 1º, 75 e 102 da Lei n. 8.112/1990; e do art. 143 da Lei n. 11.907/2009.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+É cediço que o adicional noturno tem natureza propter laborem, pois são devidos aos servidores enquanto exercerem atividades no período noturno, ou seja, interrompida a atividade em condição especial, não mais se justifica o pagamento do referido adicional.
+Assim, nos períodos de afastamento, ainda que considerados como de efetivo exercício, não há razão para o pagamento do referido adicional.
+Nesse sentido, mutatis mutandis:
+PROCESSUAL CIVIL. ADICIONAL NOTURNO SUPRIMIDO DA REMUNERAÇÃO NOS PERÍODOS DE AFASTAMENTO. NATUREZA PROPTER LABOREMDEVIDA ENQUANTO EXERCIDAS ATIVIDADES NO PERÍODO NOTURNO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando o pagamento de parcelas vencidas e vincendas de adicional noturno, o qual é suprimido da remuneração nos períodos de férias, licença para capacitação, tratamento de saúde e demais afastamentos tidos como de efetivo exercício. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - O adicional noturno tem natureza propter laborem, pois são devidos aos servidores enquanto exercerem atividades no período noturno, ou seja, interrompida a atividade em condição especial, não mais se justifica o pagamento do referido adicional.
+III - Assim, nos períodos de afastamento, ainda que considerados como de efetivo exercício, não há razão para o pagamento do referido adicional.
+IV - Nesse sentido, mutatis mutandis: AgInt no REsp n. 1.815.875/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/10/2019, DJe 4/11/2019; REsp n. 1.400.637/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/11/2015, DJe 24/11/2015; REsp n. 504.343/RS, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 14/6/2007, DJ 6/8/2007, p. 603.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.956.086/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ANISTIADO POLÍTICO. PETROBRAS. ADICIONAIS E VANTAGENS. EXAME DE ACORDOS COLETIVOS. IMPOSSIBILIDADE. SÚMULA 5/STJ. INCIDÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ.
+(..)
+2. Verifica-se que a Corte de origem deu à controvérsia solução que se encontra em harmonia com a jurisprudência deste Superior Tribunal, segundo a qual "o adicional noturno, o adicional de insalubridade e as horas extras têm natureza propter laborem, pois são devidos aos servidores enquanto exercerem atividades no período noturno, sob exposição a agentes nocivos à saúde e além do horário normal, razão pela qual não podem ser incorporados aos proventos de aposentadoria, limitados à remuneração do cargo efetivo" (AgRg no REsp 1.238.043/SP, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, DJe 10/05/2011).
+3. Agravo interno não provido.
+(AgInt no REsp 1815875/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/10/2019, DJe 04/11/2019)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTES PENITENCIÁRIOS. CUMULAÇÃO DE GRATIFICAÇÃO DE COMPENSAÇÃO ORGÂNICA COM ADICIONAL DE INSALUBRIDADE. IMPOSSIBILIDADE. LAUDO PERICIAL. EFEITOS CONSTITUTIVOS.
+(..)
+3. Com efeito, o adicional de insalubridade é vantagem pecuniária de natureza transitória e propter laborem, sendo devido ao servidor apenas quando este efetivamente for exposto aos agentes nocivos à saúde de maneira que, quando cessam os motivos que lhe dão causa, as mesmas não podem mais ser percebidas pelo servidor.
+(..)
+Recurso especial improvido.
+(REsp 1400637/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/11/2015, DJe 24/11/2015)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com esteio no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para julgar improcedente o pedido inicial.
+Inverto a sucumbência e fixo os honorários advocatícios em 10% (dez por cento) sobre o valor da causa.
+Publique-se. Intimem-se.
+EMENTA
