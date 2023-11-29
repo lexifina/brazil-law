@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 23/11/2023 a 29/11/2023, por unanimidade, não acolher os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Não participaram do julgamento os Srs. Ministros Francisco Falcão e Luis Felipe Salomão.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Na espécie, a pretexto de apontar supostas omissões, o que pretende a embargante é a rediscussão de matéria já decidida, o que não é cabível em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por KARSTEN COMÉRCIO TÊXTIL LTDA contra o acórdão recorrido que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DEMONSTRAÇÃO DO DISSÍDIO. REQUISITOS DO ART. 1.043, § 4º DO CPC/2015. INOBSERVÂNCIA.
+1. Consoante a jurisprudência desta Corte, configura pressuposto indispensável para a comprovação da divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (I) a juntada de certidões; (II) apresentação de cópias do inteiro teor dos acórdãos apontados; (III) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (IV) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.
+2. A mera indicação do Diário da Justiça em que publicado o acórdão paradigma não atende à exigência de citação do repositório oficial ou autorizado de jurisprudência, uma vez que consiste apenas em órgão de divulgação no qual somente é publicada a ementa do acórdão e não seu inteiro teor. Precedentes.
+3. Agravo interno não provido.
+Nas razões recursais, alega que o acórdão embargado é omisso com relação aos seguintes argumentos: existência de indicação detalhada da fonte dos acórdãos paradigmas; não há previsão legal de que a indicação do link não cumpre os requisitos de cabimento dos embargos; há divergência notória, o que autoriza a mitigação do requisito formal; as exigências dos arts. 266, § 4º, do RISTJ, e 1.043, § 4º, do CPC, não poderiam ser aplicadas de ofício.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Na espécie, a pretexto de apontar supostas omissões, o que pretende a embargante é a rediscussão de matéria já decidida, o que não é cabível em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+Na hipótese dos autos, o acórdão recorrido apreciou expressamente o argumento da comprovação dos acórdãos paradigmas, tendo destacado que:
+A propósito do tema, a jurisprudência desta Corte é assente no sentido de que configura pressuposto indispensável para a comprovação da divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (I) a juntada de certidões; (II) apresentação de cópias do inteiro teor dos acórdãos apontados; (III) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (IV) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet (AgRg nos EDcl nos EREsp 1.916.881/PR, Terceira Seção, DJe 14/3/2022; AgInt nos EAREsp 1.760.117/GO, Corte Especial, DJe 4/3/2022; AgInt nos EAREsp 1.775.941/SE, Segunda Seção, DJe 18/2/2022).
+Ademais, "no que diz respeito à cópia do "inteiro teor" dos acórdãos apontados como paradigmas, a jurisprudência da Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento" (AgInt nos EREsp 1.903.273/PR, Corte Especial, DJe 16/5/2022).
+Ainda, quanto à citação do repositório oficial, "a mera indicação do Diário da Justiça em que publicado o acórdão paradigma não atende à exigência de citação do repositório oficial o u autorizado de jurisprudência, uma vez que consiste apenas em órgão de divulgação no qual somente é publicada a ementa do acórdão e não seu inteiro teor" (AgInt nos EAREsp 1.935.286/RJ, Corte Especial, DJe 21/10/2022). (e-STJ, fl. 762)
+Destarte, a pretexto de apontar supostas omissões, o que pretende a embargante é a rediscussão de matéria já decidida, o que não é cabível em sede de embargos de declaração.
+Ressalte-se, ademais, que nos termos da jurisprudência desta Corte, o órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte (AgInt no AREsp 1.442.379/CE, Quarta Turma, DJe 4.8.2020; AgInt no AREsp 1.500.162/SP, Terceira Turma, DJe 29.11.2019).
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
