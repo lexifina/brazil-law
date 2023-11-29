@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONVIC CONSERVAÇÃO E SERVIÇOS GERAIS LTDA. desafiando decisão de minha lavra, que indeferiu seu pedido de liminar.
+Sustenta a embargante a existência de omissão, pois (fl. 824):
+ ..  restou demonstrado que o direito aqui perseguido se refere a errônea aplicação da penalidade de suspensão do direito de licitar e contratar com a Administração Pública Estadual, cumulado com a pena de inidoneidade, através da publicação das portarias SAEB n. 3225/18 e 147/18, sob a alegação da suposta apresentação de um atestado de capacidade técnica falso.
+Por tudo quanto trazido aos autos, restou evidenciado se tratar de mero erro material, que não acarretou nenhum prejuízo a Administração Pública, muito menos aos demais licitantes, ou interferiu no regular tramite do certame, não tendo também beneficiado a Embargante, conforme restou devidamente comprovado nos autos do processo administrativo. Contudo, foi ignorado pela Comissão Processante de Licitação da SAEB.
+Nessa linha de ideias, afirma que (fl. 825):
+ ..  diante de tudo quanto trazido ao curso do presente processo, a manutenção da sanção de inidoneidade erroneamente aplicada, eleva ainda mais os demasiados prejuízos já suportados, estando a Embargante a beira da falência, por permanecer impedida de participar de certames licitatórios em todo o país.
+Com efeito, como já expresso em sede de recurso, a Embargante encontra-se impossibilitada de licitar e obter receita para que possa pagar alguns débitos trabalhistas, cujo próprio Estado da Bahia é responsável solidário por tal obrigação, o que acaba por ocasionar ainda mais prejuízos e eleva o risco da continuidade da empresa ao mercado.
+Salta aos olhos, portanto, a omissão apontada, uma vez que, com maestria o Nobre Ministro analisou tudo quanto careado aos autos, entretanto, deixou de se pronunciar e fundamentar sua decisão quanto a urgência suscitada, tendo em vista a ampla necessidade da medida para estancar os prejuízos que seguem sendo suportados pela Embargante, bem como pelos resultados advindos pelo perigo na demora da concessão do quanto outrora pleiteado em sede de antecipação de tutela.
+Requer, assim, o acolhimento dos presentes aclaratórios, com efeitos modificativos, a fim de que seja concedida a liminar pleiteada.
+Impugnação às fls. 831/834.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, o perigo da demora foi suscitado nas razões do recurso ordinário em termos absolutamente genéricos, no sentido de que (fl. 772):
+ ..  já possui mais de 04 (quatro) anos que a sanção de inidoneidade foi aplicada, não podendo mais a Recorrente suportar as consequências de tal penalidade, necessitando voltar a participar de licitações, no intuito de evitar a sua falência.
+Outrossim, em face da sanção de inidoneidade a Impetrante encontra-se impossibilitada de licitar e obter receita para que possa pagar alguns débitos trabalhistas, cujo próprio Estado da Bahia é responsável solidário por tal obrigação, conforme se infere na documentação acostada a inicial.
+Assim, a concessão da decisão liminar ainda irá beneficiar o Erário Estadual, ratificando ainda mais a necessidade da concessão da medida liminar para suspender os efeitos da sanção de inidoneidade, permitindo a participação da Impetrante em processos licitatórios realizado por todos os entes federativos.
+Em tal hipótese, não resta evidenciado o preenchimento dos requisitos legais para a concessão da liminar pleiteada. Nessa intelecção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA INDIVIDUAL. PROCURADORA FEDERAL. INDEFERIMENTO DE PEDIDO DE RECONSIDERAÇÃO E NÃO CONHECIMENTO DE RECURSO HIERÁRQUICO EM PROCESSO ADMINISTRATIVO DISCIPLINAR. DILAÇÃO PROBATÓRIA. FUMUS BONI IURIS E PERICULUM IN MORA: NÃO DEMONSTRAÇÃO. NÃO COMPROVAÇÃO DOS REQUISITOS AUTORIZADORES DA CONCESSÃO LIMINAR. INDEFERIMENTO DO PEDIDO LIMINAR. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente agravo interno, a recorrente narra ter sido punida com pena de 20 dias de suspensão por falta de zelo na atribuição do cargo de procuradora federal. Assevera que não visa reanálise do mérito do ato punitivo, mas sim demonstrar a ilegalidade na execução dessa sanção enquanto se encontrava de licença médica. Argui afastamento desde o dia 09 de fevereiro de 2023, de modo que o cumprimento da suspensão em 20 de fevereiro de 2023 é ilegal.
+Assevera probabilidade do direito suscitado, pois afastada por ordem médica e o perigo da demora em face do desfalque financeiro porque é arrimo de família.
+2. A ausência de fumus boni iuris deve ser mantida. Os autos não revelam elementos capazes de infirmar a ilegalidade de decisão do Ministro Chefe da Advocacia-Geral da União que indeferiu pedido de revisão e não conheceu de recurso hierárquico. A legalidade da sanção administrativa, nesse juízo de cognição sumária, não resta abalada.
+3. Alegações genéricas de que o corte de vencimentos - que no caso dos autos não é definitiva, posta a aplicação de pena de suspensão - não evidenciam periculum in mora, ainda mais quando esse decréscimo temporário se apresenta legalmente determinado pela Administração.
+4. Ademais, quando o mandado de segurança foi impetrado, a ora recorrente afirmou que desde o dia 10 de março de 2023 estava de atestado de 45 dias. Nesse momento, em que o agravo interno está sendo julgado, esse prazo já se esgotou há muitos dias. Inclusive, o prazo do para o cumprimento da pena de suspensão após o término desse atestado de 45 dias também já se esgotou.
+5. Ou seja, ainda que se considere a ilegalidade da suspensão durante o período de licença médica, o objeto desse mandado de segurança se apresenta - a princípio - esgotado.
+6. Agravo interno não provido.
+(AgInt no MS n. 29.324/DF, relator Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 17/8/2023.) - Grifo nosso
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com o decisum tomado, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no aresto embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
