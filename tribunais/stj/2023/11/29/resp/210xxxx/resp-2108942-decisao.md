@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 504):
+TRIBUTÁRIO. CORONAVÍRUS. EMPREGADAS GESTANTES AFASTADAS POR FORÇA DA LEI 14.151/2021. RESPONSABILIDADE PELO SALÁRIO. PROTEÇÃO DA MATERNIDADE PELA SEGURIDADE SOCIAL. ENQUADRAMENTO COMO SALÁRIO MATERNIDADE. POSSIBILIDADE DE COMPENSAÇÃO. NÃO INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL E A TERCEIROS SOBRE OS VALORES PAGOS A TÍTULO DE SALÁRIO MATERNIDADE.
+1. A Lei 14.151/2021 é omissa quanto à responsabilidade pelo pagamento da remuneração da gestante que, afastada de suas atividades presenciais, esteja impossibilitada de exercer suas tarefas de forma remota.
+2. A ordem constitucional estabelece expressamente a proteção da maternidade pela Seguridade Social (art. 201, II), razão pela qual os ônus financeiros decorrentes do afastamento em questão devem ser suportados pela coletividade, e não pelo empregador.
+3. É compatível com o ordenamento jurídico o enquadramento como salário maternidade dos valores pagos às trabalhadoras afastadas durante o período de emergência, sendo possível que as respectivas remunerações sejam compensadas, forte no art. 72, § 1º, da Lei 8.213/1991.
+4. É inconstitucional a incidência de contribuição previdenciária a cargo do empregador sobre o salário maternidade. Tema 72 do STF. As conclusões referentes às contribuições previdenciárias (cota patronal e SAT/RAT) também se aplicam às contribuições a terceiros, na medida em que possuem a mesma base de incidência (folha de salários). Precedentes desta Corte.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 548/552.
+A parte recorrente aponta violação aos arts. 37, caput, c/c arts. 195, §5º, e 201, caput, da CF e 20 da LINDB. Sustenta, em resumo, que: (I) não possui legitimidade passiva ad causam quanto ao pagamento de salário maternidade à empregada gestante e (II) "a pretensão ã extensão a empregadas gestantes da contribuinte do beneficio de salário-maternidade sem respaldo legal, inclusive com o reconhecimento do direito à compensação com as contribuições sobre a folha de salários, não tem viabilidade alguma, não cabendo ao Poder Judiciário amparar, com base em valores abstratos, pleito em manifesta colisão com os princípios constitucionais referidos e desconsiderando os efeitos práticos prejudiciais à Previdência" (fl. 573).
+Recurso extraordinário interposto (fls. 580/597).
+Parecer do Ministério Público Federal (fls. 655/661).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No que diz respeito à tese de que não possui legitimidade passiva ad causam quanto ao pagamento de salário maternidade à empregada gestante, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+Adiante, destaca-se a seguinte fundamentação adotada pelo aresto impugnado (fl. 508):
+A ordem constitucional estabelece expressamente a proteção da maternidade pela Seguridade Social (art. 201, II). Neste contexto, eventuais ônus financeiros decorrentes do afastamento em questão devem ser suportados pela coletividade, e não pelo empregador.
+Aliás, o ordenamento jurídico já cuida de hipóteses assemelhadas, sendo legítimo que nos valhamos da analogia, no caso, porquanto é instrumento de integração normativa, nos termos do art. 4º da LINDB: "Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e
+os princípios gerais de direito".
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. AFASTAMENTO DE EMPREGADA GESTANTE. LEI N. 14.151/2021. EQUIPARAÇÃO DA REGRA REFERENTE AO SALÁRIO-MATERNIDADE. ACÓRDÃO COM FUNDAMENTAÇÃO CONSTITUCIONAL. INADEQUAÇÃO DA VIA RECURSAL. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Com relação à questão relacionada ao enquadramento dos salários como salários-maternidade, o órgão julgador procedeu à interpretação da lei federal conforme os preceitos da Constituição Federal e, por isso, o recurso especial não é a via recursal adequada à impugnação do acórdão recorrido, nos termos do art. 105, inc. III, da Constituição Federal. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.088.124/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
