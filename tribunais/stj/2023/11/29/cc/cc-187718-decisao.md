@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, Conflito Negativo de Competência suscitado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em face do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos da ação declaratória de cancelamento de infração c/c pedido de antecipação de tutela de dano moral proposta por ELLEN CRISTINA TEIXEIRA E OUTROS em face do ESTADO DE SÃO PAULO.
+Inicialmente, a ação foi proposta perante a 2ª Vara Cível da Comarca de Caratinga/MG, havendo apelação principal e adesiva objetivando a reforma da sentença. O Tribunal de Justiça do Estado de Minas Gerais, no julgamento dos recursos, sem anulação da sentença, suscitou preliminar de incompetência absoluta e declinou de sua competência para o Tribunal de Justiça do Estado de São Paulo aduzindo que o Estado de São Paulo figura no polo passivo da ação e que este também recorreu da sentença.
+O Tribunal de Justiça do Estado de São Paulo, ao suscitar o conflito, alegou que "dada a unidade do Poder Judiciário, um ente da Federação pode ser parte em processo a ser julgado pelo Poder Judiciário de outro ente federativo, tanto quanto os tribunais superiores, organizados como órgãos federais, têm poder de revisão das decisões das justiças estaduais". (e-STJ, fl. 203)
+O Ministério Público Federal, em seu parecer, opinou pela declaração de competência do Tribunal de Justiça do Estado de Minas Gerais, o suscitado.
+É o breve relatório.
+Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 1ª Seção.
+A questão central diz respeito à definição do juízo competente para processar e julgar ação em que figure particular demandando em face de Estado ou do Distrito Federal.
+A demanda foi originariamente movida no Juízo Cível da Comarca de Caratinga/MG, havendo sido proferida sentença. No julgamento dos recursos de apelação interpostos, o Tribunal de Justiça de Minas Gerais arguiu incompetência absoluta e declinou de sua competência, determinando a remessa dos autos ao Tribunal de Justiça de São Paulo.
+Colocada a controvérsia nestes termos, esta Eg. Corte de Justiça, em observância à norma inserta no art. 52 do CPC, firmou jurisprudência no sentido de que a ação poderá ser ajuizada no foro do domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no da situação da coisa ou na capital do respectivo ente federado, nas causas em que sejam demandados o Estado ou o Distrito Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. DEMANDA CONTRA ESTADO DA FEDERAÇÃO. COMPETÊNCIA CONCORRENTE. FORO DO DOMICÍLIO DO AUTOR. OPÇÃO.
+1. O art. 52, parágrafo único, do CPC/2015, ao enunciar que, se o Estado ou o Distrito Federal for demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado, estabelece a competência concorrente entre os juízos para o ajuizamento da ação, constituindo-se em verdadeira opção do seu promovente.
+2. No caso, levando em consideração que a distribuição originária do feito deu-se na comarca do domicílio do autor, evidencia-se a competência do suscitado.
+3. Impossibilidade de reconhecimento de ofício da incompetência relativa, a teor da Súmula 33 do STJ.
+4. A pendência de ação direta de inconstitucionalidade perante o STF não tem o condão de autorizar o sobrestamento do presente conflito, à míngua de previsão legal. Precedentes: AgInt no CC 158781/DF, de minha relatoria, PRIMEIRA SEÇÃO, DJe 21/03/2019; AgInt no CC 157479/SE, rel. Min. REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 04/12/2018.
+5. Agravo interno desprovido.
+(AgInt no CC 163.985/MT, Rel. MINISTRO GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 18/6/2019, DJe de 25/6/2019).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. DEMANDA DE PARTICULAR CONTRA ESTADO DA FEDERAÇÃO. COMPETÊNCIA CONCORRENTE. FORO DODOMICÍLIO DO AUTOR. OPÇÃO. PRECEDENTES DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara Cível e Fazenda Pública do Estado do Goiás da Comarca de Luziânia/GO e o Juízo de Direito da 1ª Vara Cível do Gama/DF, no âmbito de ação anulatória de auto de infração ajuizada por particular contra a Secretaria de Fazenda do Estado de Goiás. Nesta Corte, em decisão monocrática de minha lavra, declarou-se a competência do Juízo de Direito da 1ª Vara Cível do Gama/DF, suscitado.
+II - Nesse sentido, conforme delineado na decisão agravada, o art. 52, parágrafo único, do CPC/2015 apresenta regra de competência concorrente, independentemente dos limites territoriais do Estado-Membro demandado, devendo ser observada em conjunto com as disposições de organização judiciária do ente federado.
+III - Na hipótese, consoante esclarecido, a distribuição originária do feito ocorreu no foro do domicílio da parte autora, onde foi fixada e, posteriormente, declarada a competência territorial ora debatida, de acordo com precedentes desta Corte: AgInt no CC n.163.985/MT, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 25/6/2019; AgInt no CC n. 157.479/SE, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 4/12/2018.
+IV - Com efeito, verifica-se que a irresignação da recorrente é limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o provimento do presente recurso.
+V - Agravo interno improvido.
+(AgInt no CC n. 184.123/GO, Rel. MINISTRO FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 14/6/2022, DJe de 17/6/2022)
+O presente caso é análogo, devendo-se estabelecer a mesma solução jurídica acerca da fixação do juízo competente para o julgamento da presente demanda.
+Ante o exposto, conheço do presente conflito de competência para declarar competente o TIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Comunique-se o Tribunal suscitante acerca da presente decisão.
+Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. ADMINISTRATIVO. AÇÃO DECLARATÓRIA C/C REPARAÇÃO DE DANO MORAL. COMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ. DEMANDA DE PARTICULAR CONTRA ESTADO DA FEDERAÇÃO OU DISTRITO FEDERAL. ART. 52, PARÁGRAFO ÚNICO, DO CPC. COMPETÊNCIA CONCORRENTE. FORO DO DOMICÍLIO DO AUTOR. POSSIBILIDADE. PRECEDENTES DO STJ.
+CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, O SUSCITADO.
