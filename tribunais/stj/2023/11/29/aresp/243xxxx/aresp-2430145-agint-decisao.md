@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno (fls. 197/217) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESNECESSIDADE. REDIRECIONAMENTO DA EXECUÇÃO. ILEGITIMIDADE PASSIVA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+A agravante alega que "o E. Tribunal a quo firmou tese de que é imprescindível a instauração de incidente de desconsideração para as hipóteses de pedido de dissolução irregular" (fl. 306).
+Requer seja provido o recurso.
+É o relatório. Decido.
+A decisão agravada deve ser tornada sem efeito e os autos devolvidos ao Tribunal de origem.
+Com efeito, o Superior Tribunal de Justiça, nos seguintes feitos: REsp 2039132/SP, REsp 2013920/RJ, REsp 1971965/PE e REsp 1843631/PE, todos da relatoria do Min. Francisco Falcão, submeteu à Primeira Seção (segundo o regime dos recursos repetitivos) a seguinte tese controvertida: "Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório".
+Determino, portanto, a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicada a conclusão do julgamento da questão afetada como repetitiva, o presente recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; (ou) 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Impende salientar que a jurisprudência desta Corte firmou-se no sentido de ser irrecorrível a decisão que determina o sobrestamento do feito, no 2º Grau, diante da pendência de julgamento de recurso representativo da controvérsia.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SOBRESTAMENTO. TEMA 1.076/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM. IRRECORRIBILIDADE. 1. A decisão que determina a devolução dos autos à origem, a fim de que lá seja exercido o juízo de retratação antes da apreciação do respectivo recurso especial pelo STJ, não possui carga decisória e não acarreta prejuízo às partes. Por isso, é provimento irrecorrível. Precedentes. 2. Agravo interno não conhecido. (AgInt no REsp 1816085/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/06/2021, DJe 02/08/2021).
+Ante o exposto, torno sem efeito a decisão agravada e determino a devolução dos autos ao Tribunal a quo, com fulcro no art. 1030, III, do CPC/2015, e 256-L, I, do RISTJ, com a devida baixa nesta Corte, para que o recurso fique sobrestado aguardando o julgamento do tema afetado, e, após, sejam adotadas as providências previstas no art. 1040 do CPC/2015.
+Julgo prejudicado o agravo interno de fls. 197/217.
+Publique-se. Intimem-se.
+EMENTA
