@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Moacir Zanchet, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, proferido no Agravo de Execução Penal n. 8000462-15.2023.8.24.0018.
+Extrai-se dos autos que o Juízo da Execução indeferiu o indulto previsto no Decreto n. 11.302/2022 ao apenado, por não cumprimento total de pena por crime impeditivo.
+Inconformada a defesa interpôs agravo que foi resolvido por aresto que restou assim ementado:
+"PROCESSO PENAL. EXECUÇÃO CRIMINAL. RECURSO DE AGRAVO EM EXECUÇÃO. ARTIGO 197 DA LEI DE EXECUÇÃO PENAL. DECISÃO DE ORIGEM QUE NEGA A CONCESSÃO DO INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). RECURSO DEFENSIVO. IMPOSSIBILIDADE. APENADO QUE NÃO PREENCHE AS CONDIÇÕES ESTAMPADAS NO ART. 5º, 7º E 11, PARÁGRAFO ÚNICO DO DECRETO. AGENTE QUE NÃO CUMPRIU NA TOTALIDADE A PENALIDADE IMPOSTA QUANDO DA CONDENAÇÃO PELO CRIME DE NARCOTRÁFICO (CRIME IMPEDITIVO). DECISÃO RATIFICADA. RECURSO CONHECIDO E DESPROVIDO.
+"Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º". (TJSC, Agravo de Execução Penal n.8000393-80.2023.8.24.0018, do Tribunal de Justiça de Santa Catarina, rel. Paulo Roberto Sartorato, Primeira Câmara Criminal, j. 15-06-2023)." (fl. 1.073)
+Na presente impetração, a defesa diz que no caso não há concurso de crimes, mas sim soma das penas na execução penal, motivo pelo qual seria cabível o indulto, haja vista que os crimes não possuem ligação entre si.
+Busca a concessão da ordem nestes termos.
+Indeferido o pedido liminar às fls. 1.083/1.084.
+O Ministério Público Federal opinou pela denegação da ordem, em parecer de fls. 1.093/1.094, assim sumariado:
+"Habeas corpus substitutivo de recurso próprio. Inadmissibilidade. Execução penal. Decreto Presidencial 11.302/2022. Paciente que não preencheu os requisitos objetivos. Parecer pelo não conhecimento do writ."
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+Ao indeferir o indulto, o acordão assentou:
+"Na ocasião da confecção deste voto, retiro do atestado de pena do agente que, dos 10 (dez) anos e 4 (quatro meses) de penalidade imposta, na data limite (25-12-2022) o reeducando havia cumprido 4 (quatro) anos, 8 (oito) meses e 5 (cinco) dias de segregação e, em específico, a pena imposta quando do crime encartado no art. 33, caput, do CP (crime impeditivo), o apenado resgatara 4 (quatro) anos, 4 (quatro) meses e 22 (vinte e dois dias) dos 6 (seis) anos e 8 (oito) meses de reclusão determinados, refletindo, deste modo, no que preceitua o art. art. 11 do Decreto n. 11.302/2022 ("as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022, nos termos do disposto no art. 111 da Lei nº 7.210, de 11 de julho de 1984").
+Ressalta-se que, na hipótese da ocorrência de condenação a crimes impeditivos e não impeditivos, como o caso em apreço, o indulto alcançará os ilícitos não impeditivos quando o apenado cumprir a totalidade da reprimenda referente aos impeditivos." (fl. 1.074)
+O acordão impugnado está em dissonância com a posição desta Corte Superior, que entende que apenas em caso de concurso de crimes impeditivos e não impeditivos não seria possível aplicar o indulto, nos termos do art. 11, parágrafo único, do Decreto Presidencial n. 11.302/2022. Vejamos:
+"Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022, nos termos do disposto no art. 111 da Lei n. 7.210, de 11 de julho de 1984.
+Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º."
+No caso em exame, não há concurso de crimes, onde um deles é impeditivo, mas sim soma das penas na execução penal, o que não impede a aplicação do indulto. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido.
+(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus, contudo concedo a ordem de ofício para conceder o indulto previsto no Decreto Presidencial n. 11.302/2022 às condenações por furto e receptação .
+Publique-se.
+Intimem-se.
+EMENTA
