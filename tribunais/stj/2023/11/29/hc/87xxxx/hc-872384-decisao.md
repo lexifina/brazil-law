@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ANDERSON ROBERTO DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1512159-95.2020.8.26.0228).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente, como incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+Interposta apelação pela defesa o Tribunal a quo deu parcial provimento ao recurso, reduzindo a reprimenda para 7 anos e 6 meses de reclusão, inicialmente no regime fechado. O julgamento ficou assim resumido (fls. 34):
+"Apelação - Tráfico de drogas - Recurso defensivo - Preliminar - Cerceamento de defesa frente ao indeferimento de perícias nos celulares dos policiais militares - Não acolhimento - A MMª Juíza "a quo" deferiu todos os pedidos de produção de provas elaborados em favor do acusado - A complementação requerida foi reputada desnecessária pela i. sentenciante, de modo fundamentado - Diligências inaptas a embasar a absolvição do réu - Preliminar rechaçada - Pedido absolutório que se ateve ao acolhimento da tese preliminar - Versão exculpatória apresentada pelo acusado fantasiosa e pouco crível - Policiais militares responsáveis pelas diligências firmes ao ratificar integralmente os termos da denúncia - Condenação correta - Dosimetria - Pena-base acrescida de  , pela quantidade e natureza dos entorpecentes, nos termos do art. 42 da Lei 11.343/06 - Apreendidas 15.400 porções de cocaína e 4 porções de "ecstasy" - Aumento fundamentado, ainda, nos maus antecedentes do acusado e circunstâncias do caso concreto, conforme preconiza o art. 59 do Código Penal - Acréscimo correto e bem fundamentado - Condenação superada pelo quinquênio exigido para o reconhecimento da reincidência plenamente apta à caracterização dos maus antecedentes - Precedentes do C. STJ - Agravante do art. 61, II, "j", CP, afastada pela d. maioria, ressalvado o posicionamento do d. Rel. Sorteado, que a mantém - Reprimenda reduzida - Regime fechado escorreito - Apelo parcialmente provido, vencido o Relator Sorteado, que lhe nega provimento."
+No presente mandamus, o impetrante aduz que "a agravante prevista no art. 61, inciso II, alínea "j", do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência de estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19" (fl. 9).
+Nesses termos, requer a concessão da ordem, em liminar e no exame de mérito, para revisar a dosimetria da pena.
+É o relatório.
+Decido.
+O pedido comporta julgamento antecipado.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque falta interesse processual ao impetrante. O voto condutor no acórdão recorrido, não obstante reconhecer a incidência da agravante prevista no art. 61, II, "j", do Código Penal, não majorou a reprimenda, na terceira fase da dosimetria.
+Mantida incólume a exasperação da pena-base em 1/2, conforme estabelecido na sentença de primeiro grau, fixou a pena, em definitivo no patamar de 7 anos e 6 meses de reclusão. A propósito, confiram-se os fundamentos do julgado (fls. 37/41):
+"A pena-base foi fixada  acima do mínimo legal, com fulcro nos maus antecedentes do recorrente, na quantidade e natureza das drogas apreendidas, bem como nas circunstâncias do crime, por ter Anderson empreendido fuga em alta velocidade inclusive na contramão de direção, expondo a risco a vida dos policiais e transeuntes.
+O acréscimo vem, portanto, embasado nos arts. 59 do Código Penal e 42 da Lei 11.343/06, desmerecendo reparos.
+A quantidade de drogas é altamente expressiva e a nocividade apenas reforça a necessidade do recrudescimento da reprimenda nesta primeira fase da dosimetria.
+Outrossim, a condenação definitiva ostentada pelo réu ultrapassa o quinquênio exigido para a configuração da reincidência, de modo que é plenamente apta a caracterizar os maus antecedentes.
+ ..
+Na segunda fase da dosimetria, diferentemente do que aduz a defesa não se reconheceu a reincidência do apelante.
+Acerca da agravante do art. 61, inc. II, "j", do CP, ressalvado o posicionamento da d. maioria, explanado na declaração de voto do i. Des. Revisor, tenho que não se exige o nexo de causalidade entre o crime e a pandemia de COVID-19, bastando que o réu tenha cometido o delito neste período excepcional, o que se confirma no caso em tela.
+O estado de calamidade pública foi reconhecido pelo Congresso Nacional no Decreto Legislativo nº 6 de 2020, e pela Assembleia Legislativa do Estado de São Paulo no Decreto nº 64.879 de 20 de março de 2020, sendo, portanto, situação de conhecimento mundial e de plena ciência por parte da população brasileira.
+Sua previsão como circunstância apta ao agravamento da pena se dá porque o intuito do legislador foi o de "punir quem demonstra particular desprezo pela solidariedade e fraternidade, num autêntico sadismo moral, aproveitando-se de situações calamitosas para cometer o delito" (NUCCI, Guilherme de Souza, Código Penal Comentado, 2014, p. 422).
+ ..
+Outrossim, nos termos do art. 61, "caput", do Código Penal, as circunstâncias ali referidas sempre agravam a pena.
+Com isso, mantenho a agravante em apreço, bem como o aumento dela decorrente, ainda que não esteja descrita na denúncia, nos termos do posicionamento do Superior Tribunal de Justiça.
+Portanto, a meu ver, a reprimenda descomporta alteração, devendo ser mantida como fixada em Primeiro Grau.
+E, uma vez inalterada, o regime prisional deve ser o fechado, nos termos do art. 33, § 2º, "a", do Código Penal. De qualquer modo, destaco que as circunstâncias do art. 59 do Código Penal e do art. 42 da Lei 11.343/06 são amplamente desfavoráveis ao recorrente e justificam a imposição do regime mais gravoso.
+Por votação unânime, rejeitaram a preliminar e, por maioria de votos, deram parcial provimento ao recurso para reduzir as penas para 07 anos e 06 meses de reclusão e pagamento de 750 dias-multa, no valor unitário mínimo, nos termos do voto do E. Revisor, Exmo. Des. Luis Augusto de Sampaio Arruda, que declarará voto no tocante a pena, mantida, no mais, a r. sentença de primeiro grau, vencido em parte o E. Relator, que negava provimento ao recurso, de conformidade com seu voto, que integra este acórdão."
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
