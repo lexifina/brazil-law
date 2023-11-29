@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de recurso especial interposto por WORKINCORP INCORPORADORES E CONSTRUTORES ASSOCIADOS LTDA. - ME, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 0232823-30.2006.8.26.0100) assim ementado (fl. 770):
+Apelação Cível. Incorporação imobiliária. Escritura pública de novação, confissão de dívida com promessa de dação em pagamento.
+Mora da apelante - Culpa da recorrente pelo atraso na entrega das unidades. Construção paralisada, sem que fosse demonstrada a ocorrência de caso fortuito ou de força maior. Responsabilidade da empreendedora pelo cumprimento das obrigações assumidas e pelos percalços inerentes à atividade de incorporação imobiliária.
+Litispendência - Ausência. Execução de crédito hipotecário que não tem identidade com o pedido indenizatório.
+Danos emergentes - Necessidade de ressarcimento da diferença entre o que seria obtido com a propriedade das 30 unidades, ou seja, com o proveito econômico decorrente do investimento contratado e a execução da garantia concernente à entrega desses imóveis.
+Multa contratual e lucros cessantes - Contrato e escritura pública de hipoteca que não prefixaram perdas e danos. Reparação integral dos danos. Mora na entrega do objeto contratado que justifica a incidência da multa contratual e impossibilidade do usufruto dos imóveis no período aprazado que exige o arbitramento de lucros cessantes, ambos até a data da adjudicação dos imóveis penhorados na execução hipotecária.
+Sentença parcialmente reformada. Recurso parcialmente provido, apenas para que seja modificado o termo final da incidência de multa contratual e de lucros cessantes.
+Os embargos de declaração opostos pela recorrente foram rejeitados (fls. 790-795).
+Nas razões do recurso especial (fl. 798-830), a parte recorrente aponta as seguintes violações:
+a) 1.022, II, e 489, III, § 1º, do CPC/15, defendendo que a Corte de origem não realizou a devida prestação jurisdicional "ao rejeitar os Declaratórios, de forma genérica e sem se aprofundar nos temas ali debatidos" (fl. 805);
+b) 337, §§ 1º, 2º e 3º do CPC/2015, sustentando a litispendência entre a ação de execução do crédito hipotecário e a ação indenizatória, diante da "completa identidade" (fl. 816), uma vez que "a causa de pedir em ambos os casos é idêntica" (fl. 821);
+c) 478 do Código Civil, aduzindo que houve onerosidade excessiva "pela conjunção da imprevisibi1idade da presença de solo rochoso no local em que erigido o empreendimento, resultando em alta complexidade para manejo do solo, somada ao fato da crise no ramo hoteleiro" (fl. 817);
+d) 389, 402, 411 e 416, parágrafo único, do Código Civil, aduzindo a impossibilidade de cumulação de multa compensatória e lucros cessantes; e
+e) 412 e 413 do CC de 2002, defendendo a redução da multa, sob a alegação de que "os recorridos já receberam cerca de R$ 2.500.000,00, nos autos da Execução Hipotecária, sendo que o valor da obrigação era de R$ 750.000,00, ou seja, parte da obrigação, se não toda ela, já foi quitada naqueles autos" (fl. 818).
+Aduz ainda dissídio jurisprudencial.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 838-862).
+É o relatório. Decido.
+O recurso não deve prosperar.
+No caso, a Corte de origem analisou as questões apresentadas e concluiu o seguinte (fls. 773-777):
+Não há que se falar em litispendência entre a ação de execução do crédito hipotecário e a atual ação que pretende indenização por danos emergentes, lucros cessantes, além do pagamento de multa por decorrência do descumprimento da obrigação da dação em pagamento. Frise-se, naquela ação foi perseguido o apresentado como garantia da dívida, por meio da execução do contrato referente, um pleito totalmente diverso do ora analisado.
+ ..
+O próprio perito concluiu que as obras "estão paralisadas há cerca de sete anos, por provável falta de fluxo de caixa da empresa Ré" (fl. 243).
+ ..
+Foi estipulada cláusula de garantia no contrato firmado entre os litigantes:
+ ..
+Posto isso, observa-se que a execução da garantia cumpriu o papel de satisfazer a obrigação principal de entregar as unidades, todavia, essa satisfação extemporânea e de natureza diversa da contratada é incapaz de ressarcir integralmente os danos suportados pelos apelados.
+Faz-se imperiosa a manutenção da condenação de pagar os danos emergentes, segundo o determinado pela decisão apelada, porquanto o investimento realizado pelos apelados e não concretizado por culpa da apelante consistiria na obtenção de 30 unidades do empreendimento. Assim, do montante concernente aos danos emergentes de R$ 2.100.000,00 deverá ser abatida a quantia recebida em virtude da execução hipotecária.
+Destaque-se que em nenhum momento o contrato ou a escritura de hipoteca firmados mencionaram a existência de multa compensatória ou a prefixação da reparação de danos, o que torna insubsistente a alegação de que seria indevida a cumulação relacionada pela r. sentença, que garantiu a reparação integral dos danos.
+Visto que houve mora no cumprimento da obrigação entre maio de 2005 e 13/10/2009, é caso de aplicação da multada cláusula 3.3.3.
+Ademais, considerando que os apelados foram impossibilitados de usufruir dos bens que deveriam ter à disposição nesse período, também devem incidir os lucros cessantes, em consonância com os cálculos do perito, não importando se taxa de ocupação seria de 100%, já que a apelante privou o usufruto da totalidade dos bens e por todo esse tempo.
+ ..
+Dessa forma, mantém-se a condenação ao pagamento da multa contratual e dos lucros cessantes, em conformidade com o estipulado pela r. sentença, que adotou o parecer do perito, exceto quanto ao termo final.
+Por fim, sem que tenha ocorrido a prefixação das perdas e danos, cristalina a possibilidade de o montante indenizatório ultrapassar o valor da garantia disposta em contrato.
+Por ocasião do julgamento dos embargos de declaração, a Corte estadual ainda decidiu que (fl. 794):
+Respeitado o afirmado nos embargos, não se demonstrou nos autos que a situação do solo foi uma causa exclusiva e isolada que tornou impossível a construção. Ora, o Acórdão considerou que ocorreu descumprimento de deveres contratuais por parte da embargante que inviabilizaram o cumprimento das responsabilidades por ela assumidas, de forma que não se demonstrou a dita onerosidade excessiva.
+O cálculo dos danos emergentes já considerou anterior ação, de forma que se afasta a litispendência mencionada, até porque apenas considerada a diferença entre o valor de mercado das unidades e o pagamento realizado na ação de execução hipotecária. Ausente inobservância aos §§ 1º e 2º do art. 337, do CPC de 2015, pois inexistente litispendência.
+Por sua vez, o Acórdão considerou moratória a multa, afastando a afirmação de que ocorreu omissão quanto à diminuição da multa contratual ou da suficiência desta para cobrir os danos emergentes e os lucros cessantes.
+Se há discordância quanto ao entendimento deque a multa contratual é moratória, os embargos de declaração não são o meio adequado para a modificação do decisum.
+Não houve cumprimento suficiente da obrigação a permitir eventual redução da multa, visto que suspendida a construção sem qualquer possibilidade de utilização dos imóveis prometidos.
+Ademais, inegável a possibilidade de os danos sofridos ultrapassarem a garantia apresentada em contrato e a incorrência de afronta aos arts. 389, 402, 411, 412 e 413, do CC, até porque não se demonstrou que a multa ultrapassou o valor atualizado da obrigação principal.
+No tocante à aventada contrariedade aos arts. 1.022, II, e 489, III, § 1º, do CPC/2015 (item a), não assiste razão à recorrente, porquanto o Tribunal a quo examinou e concluiu "não se demonstrou a dita onerosidade excessiva", "inexistente litispendência", visto que o "cálculo dos danos emergentes já considerou anterior ação", que não "houve cumprimento suficiente da obrigação a permitir eventual redução da multa" e que "não se demonstrou que a multa ultrapassou o valor atualizado da obrigação principal" (fl. 794).
+Desse modo, as questões que delimitam a controvérsia foram analisadas pela Corte de origem, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No que se refere à apontada ofensa ao art. 337, §§ 1º, 2º e 3º, do CPC/15 (item b), a instância de origem concluiu que inexiste litispendência no caso por se tratarem de ações com "pleito totalmente diverso" (fls. 773-774) e que o "cálculo dos danos emergentes já considerou anterior ação" (fl. 794).
+Nesse contexto, o recurso especial é inviável, porquanto a adoção de conclusões diversas do acórdão recorrido demandaria o revolvimento do quadro fático-probatório dos autos, em razão do óbice da Súmula n. 7 do STJ.
+A propósito, o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. LITISPENDÊNCIA. REQUISITOS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO. INEXISTÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A configuração da litispendência reclama a constatação de identidade das partes, da causa de pedir e do pedido ("tríplice identidade") das ações em curso (artigo 301, § 1º, do CPC.
+2. A constatação acerca da existência ou não de litispendência, no caso, exige minuciosa análise de seus elementos configuradores - identidade de partes, da causa de pedir e do pedido -, esbarrando a pretensão recursal no óbice da Súmula 7 do STJ.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.271.147/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+Quanto à apontada violação dos arts. 389, 402, 411 e 416, parágrafo único, e 478 do Código Civil (itens c e d) e 412 e 413 do CC de 2002 (item e), a instância de origem concluiu que "não se demonstrou nos autos que a situação do solo foi uma causa exclusiva e isolada que tornou impossível a construção" (fl. 794), uma vez que "as obras "estão paralisadas há cerca de sete anos, por provável falta de fluxo de caixa da empresa Ré"" (fl. 774),
+Outrossim, ficou decidido que "em nenhum momento o contrato ou a escritura de hipoteca firmados mencionaram a existência de multa compensatória ou a prefixação da reparação de danos" (fl. 777) e que também "não se demonstrou que a multa ultrapassou o valor atualizado da obrigação principal" (fl. 794), de modo que a condenação "garantiu a reparação integral dos danos" (fl. 777), haja vista que não "houve cumprimento suficiente da obrigação a permitir eventual redução da multa" (fl. 794)
+Nesse contexto, a pretensão de novo pronunciamento a respeito dos temas elencados, implicaria análise contratual, documentos e reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A esse respeito :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA DEMANDADA.
+ ..
+2. Para reformar a conclusão do órgão julgador e acolher a pretensão recursal referente à exceção do contrato não cumprido e onerosidade excessiva, seria a incursão na seara probatória dos autos, inadmissível no apelo especial, por óbice das Súmulas 5 e 7/STJ.
+3. A revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame elementos fáticos e probatórios dos autos, incidindo a Súmula 7 do STJ.
+4. Nos termos da jurisprudência desta Corte Superior, em se tratando de dívida líquida e com vencimento certo, a data do vencimento da obrigação será o termo inicial para incidência dos juros moratórios e da correção monetária. Aplicação da Súmula 83/STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 1.164.735/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZATÓRIA. NEGÓCIO JURÍDICO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. RESSARCIMENTO DE VALORES. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusula contratual (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos e o contrato celebrado para concluir pela ilegitimidade passiva dos réus quanto à obrigatoriedade de pagar os encargos cobrados pelos autores. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.030.561/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da sentença ter sido prolatada sob a égide do CPC/1973.
+Publique-se. Intimem-se.
+EMENTA
