@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SELSUMAR JOSÉ DE OLIVEIRA contra a decisão que inadmitiu o recurso especial por considerá-lo intempestivo.
+Alega a parte agravante que o recurso especial foi protocolado dentro do prazo legal, conforme informado pelo sistema do TJGO de que o prazo seria do dia 15/6/2022 até 7/7/2022.
+Argumenta que "é possível afastar a intempestividade do recurso quando comprovado que isso decorreu do fato de que o site do Tribunal de origem ter disponibilizado tais informações, e caso tivesse excedido o prazo, tal erro seria do sistema que induziu o agravante a erro" (fl. 1.091).
+Defende que "deve prosseguir o presente recurso sem nenhum óbice a sua análise, já que o recurso foi protocolado dentro do prazo legal, conforme informações disponibilizadas pelo próprio site do Tribunal de Justiça do Estado de Goiás" (fl. 1.092).
+Sustenta que o próprio Tribunal local, como o Superior Tribunal de Justiça, coloca em seu calendário o feriado de Corpus Christi como feriado nacional.
+Requer o conhecimento e o provimento do recurso.
+Contraminuta apresentada às fls. 1.458-1.462.
+É o relatório. Decido.
+O recurso especial é intempestivo.
+A tempestividade do recurso especial e do agravo em recurso especial deve ser comprovada no momento de sua interposição (art. 1.003, § 6º, do CPC), cujo prazo é de 15 dias úteis (art. 1.003, § 5º, c/c o art. 219, caput, do CPC).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. JUSTA CAUSA NÃO COMPROVADA. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+2. Nos termos da jurisprudência do STJ, a parte interessada deve requerer e comprovar a justa causa no prazo legal para a prática do ato ou até 5 (cinco) dias após cessado o impedimento, sob pena de preclusão.
+3. "Este Colegiado também já reconheceu que apenas o print do sistema não é servil à efetiva demonstração da justa causa: AgInt no AREsp 1.640.644/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020." (AgInt nos EDcl no RMS 65.016/MA, Rel. Min. Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Turma, julgado em 31/05/2021, DJe 04/06/2021)
+4. Agravo interno não provido. (AgInt no AREsp n. 2.009.242/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+Confiram-se ainda: AgInt no AREsp n. 2.038.080/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt no AREsp n. 1.711.267/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020; AgInt nos EDcl no REsp n. 1.970.652/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022; e AgInt no AREsp n. 2.105.192/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2022, DJe de 18/11/2022.
+O entendimento do STJ é firme no sentido de que o dia de Corpus Christi não é feriado nacional, devendo a parte comprovar nos autos, no ato de interposição do recurso e por meio de documento idôneo, a suspensão do expediente forense no tribunal local.
+A esse respeito: AgInt no AREsp n. 2.007.460/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022; AgInt nos EDcl no AREsp n. 1.988.359/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022; AgInt no AREsp n. 2.057.713/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+No caso, a parte recorrente foi intimada da decisão recorrida na terça-feira, dia 14/6/2022; o prazo deu início no primeiro dia útil seguinte, ou seja, em 15/6/2022, encerrando-se em 5/72022 (terça-feira). O recurso especial, contudo, foi interposto somente em 6/7/2022.
+É consenso que eventual informação equivocada, prestada pelo sistema eletrônico do tribunal local e que venha a induzir a erro a parte recorrente, pode ser considerada justa causa para afastar a intempestividade desde que a alegação de indução de erro pelo sistema da corte de origem deve ser comprovada por documento hábil.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. TRIBUNAL DE ORIGEM. SÍTIO ELETRÔNICO (SITE). SISTEMA DE INFORMAÇÃO. JUSTA CAUSA. DOCUMENTO IDÔNEO. AUSÊNCIA. NÃO PROVIMENTO.
+1. Considera-se justa causa apta a afastar a intempestividade do recurso quando o equívoco na interposição decorre de informação prestada pelo sistema eletrônico do Tribunal de origem. Exige-se, todavia, documento idôneo para a prova do alegado equívoco no sistema informacional. Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.236.916/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. SISTEMA ELETRÔNICO. INFORMAÇÃO EQUIV OCADA. NÃO COMPROVAÇÃO. DECISÃO MANTIDA.
+1. A Corte Especial do STJ, interpretando o art. 1.003, § 6º, do CPC, firmou entendimento de que, na vigência do novo CPC, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso, sendo inadmissível regularização posterior (AgInt no AREsp n. 957.821/MS, relatora para acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe de 19/12/2017).
+2. Segundo entendimento desta Corte Superior, "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022).
+3. No caso dos autos, a parte não comprovou que foi induzida a erro por falha na informação prestada no sistema Projud, devendo ser mantido o reconhecimento da intempestividade do recurso especial.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.252.873/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+No caso, a parte agravante, apesar de alegar que fora induzida a erro pelas informações constantes do sítio eletrônico do Tribunal a quo , o que justificaria a interposição do recurso especial fora do prazo, deixou de apresentar documento idôneo para fazer prova de sua alegação.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
