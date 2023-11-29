@@ -1,0 +1,4 @@
+LEI Nº 14.739, DE 28 DE NOVEMBRO DE 2023
+Denomina Viaduto Francisco Pereira Netto o viaduto situado sobre a rodovia BR-116, nas proximidades do km 117, no bairro Campo de Santana, no Município de Curitiba, Estado do Paraná.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
