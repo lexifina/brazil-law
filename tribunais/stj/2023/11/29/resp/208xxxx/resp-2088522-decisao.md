@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial, interposto por METROPOLINTAN LIFE SEGUROS E PREVIDENCIA PRIVADA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Estado do Mato Grosso do Sul assim ementado:
+AÇÃO DE COBRANÇA SECURITÁRIA - SEGURO DE VIDA EM GRUPO - EXTINÇÃO DO FEITO POR FALTA DE REQUERIMENTO ADMINISTRATIVO COMO CONDIÇÃO PARA REGULAR PROCESSAMENTO - DESNECESSIDADE - LIVRE ACESSO À JURISDIÇÃO - ENTENDIMENTO DO RE 631.240/MG APLICÁVEL APENAS A BENEFÍCIOSPREVIDENCIÁRIOS - SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO. A ação que busca o recebimento da indenização de seguro de vida em grupo não se enquadra na hipótese de exceção prevista no RE nº 631.240/MG. Nos termos da posição deste Tribunal, não se exige prévio requerimento administrativo para os casos de cobrança de seguro privado. Recurso conhecido e provido.
+Nas razões do recurso especial (fls. 122/142, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos arts. 485, IV do CPC e 771 do Código Civil.
+Sustenta, em síntese, que "como não houve a formalização do pedido, sem recorrer à via administrativa da seguradora, caracterizou-se a falta de interesse de agir, já que não houve a efetiva necessidade de recorrer ao Judiciário."
+Contrarrazões às fls. 177/182, e-STJ.
+Após decisão de admissão do recurso especial (fls. 184/189, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. O STJ já firmou o entendimento de que o requerimento administrativo prévio constitui requisito essencial para aferir a existência de interesse de agir na ação de cobrança do seguro, o qual se reputa presente independentemente de sua comprovação nos casos em que a seguradora comparece em juízo, opondo-se ao mérito da pretensão condenatória.
+Nesse sentido, confira-se: REsp n. 1.683.301/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/5/2023, DJe de 5/5/2023.
+No caso em apreço, o Tribunal de origem reformou a decisão de piso que extinguiu a ação com base na ausência de interesse processual. Confira-se (fl. 118/119, destaquei):
+No Supremo Tribunal Federal firmou-se o entendimento, no recurso extraordinário com repercussão geral n. 631240, de que, para o ajuizamento de ação de concessão de benefício previdenciário, é necessário o prévio requerimento administrativo para a configuração do interesse de agir para o ajuizamento da ação de cobrança.
+Entretanto, o julgado mencionado está relacionado às ações previdenciárias, de modo que não se aplica à hipótese dos autos, que se refere a ação de cobrança de indenização decorrente de contrato de seguro coletivo. Ademais, entendeu-se, no julgado, que "a exigência de prévio requerimento administrativo não deve prevalecer quando o entendimento da Administração for notório e reiteradamente contrário à postulação do segurado" e é de conhecimento geral que as seguradoras manifestam-se, na maioria das vezes, contrariamente à pretensão dos requerentes, seja porque recusam ao pagamento da indenização, seja porque efetuam o pagamento a menor.
+Nos termos do que dispõe o art. 17 do CPC, o interesse de agir é condição da ação caracterizada pelo binômio necessidade-adequação.
+O prévio requerimento administrativo consiste na comunicação à seguradora, por parte do beneficiário, da ocorrência do sinistro, representando a formalização do pedido de pagamento da indenização securitária.
+Na vertente hipótese, considerando que a parte ora recorrida não tomou conhecimento acerca da concretização do interesse segurado, não há lesão ou ameaça de lesão a direito, situação que conduz à ausência de interesse processual.
+Nesse sentido:
+AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA.
+INTERESSE PROCESSUAL. NÃO CONFIGURAÇÃO. AUSÊNCIA DE PRÉVIA COMUNICAÇÃO DO SINISTRO À SEGURADORA. INEXISTÊNCIA DE LESÃO OU AMEAÇA DE LESÃO A DIREITO.
+1. Ação de cobrança de indenização securitária ajuizada em 01/12/2021, da qual foi extraído o presente recurso especial interposto em 10/04/2022 e concluso ao gabinete em 09/02/2023.
+2. O propósito recursal consiste em definir se, para a configuração do interesse jurídico na propositura de ação de cobrança de indenização securitária, é necessário prévio requerimento administrativo.
+3. O interesse de agir é condição da ação caracterizada pelo binômio necessidade-adequação e decorre da necessidade de obter, por meio do processo, a proteção de interesse substancial. Pressupõe, então, a alegação de lesão desse interesse.
+4. O art. 771 do CC/02 exige que o segurado comunique o sinistro à seguradora, logo que o saiba, sob pena de perder o direito à indenização. Embora a finalidade precípua dessa norma seja evitar o agravamento das consequências geradas pelo sinistro, o aviso de sinistro representa a formalização do pedido de pagamento da indenização securitária. Antes disso, a seguradora não está obrigada a pagar, simplesmente porque não tem ciência do evento. Portanto, não realizada a comunicação acerca do sinistro, não há lesão a direito ou interesse do segurado.
+5. Excepcionalmente, a ausência de requerimento administrativo prévio não obstará o prosseguimento do processo. Se já tiver se operado a citação da seguradora, eventual oposição desta ao pedido de indenização deixa clara a sua resistência frente à pretensão do segurado, evidenciando a presença do interesse de agir. Porém, nem sempre a resposta da seguradora implicará impugnação ao pedido de pagamento. É possível por exemplo, que ela invoque a ausência de prévia solicitação administrativa, hipótese em que caberá a extinção do processo sem resolução do mérito, por ausência de interesse processual.
+6. Recurso especial não provido. (REsp n. 2.050.513/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2023, DJe de 27/4/2023)
+Assim, impõe-se a reforma do acórdão recorrido para reconhecer a ausência de interesse de agir do requerente.
+2. Ante o exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, dou provimento ao recurso especial, a fim de restabelecer a sentença de fls. 63/67 (e-STJ) .
+Publique-se. Intimem-se.
+EMENTA
