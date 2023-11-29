@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de São Carlos - SJ/SP, o Suscitante, e o Juízo Federal da 1ª Vara de Capão da Canoa - SJ/RS, o Suscitado, em autos de mandado de segurança impetrado por Valdir Lemes da Silva contra ato do Gerente Executivo do INSS em Canoas.
+O Juízo Federal da 1ª Vara de Capão da Canoa - SJ/RS ao argumento de que "a parte autora reside no município de Brotas/SP, não integrante da área abrangida pelos limites impostos à jurisdição desta Subseção Judiciária para processamento e julgamento de mandado de segurança em matéria previdenciária", e de que "os mandados de segurança podem ser impetrados na subseção da sede da autoridade impetrada ou na subseção do domicílio do impetrante", declinou da competência para processar e julgar o mandamus e determinou a remessa dos autos à Subseção Judiciária de São Carlos/SP.
+O Juízo Federal da 1ª Vara de São Carlos - SJ/SP, por sua vez, considerando que "o declínio de competência foi decidido de ofício à revelia da opção da parte impetrante", suscitou o presente conflito de competência.
+O Ministério Público Federal opinou no sentido do conhecimento do conflito negativo de competência para que seja declarada a competência do Juízo Suscitado.
+É o relatório. Decido.
+O conflito comporta conhecimento, porquanto instaurado entre Juízes Federais vinculados a Tribunais Regionais Federais distintos, consoante o disposto no artigo 105, I, g, da Constituição Federal.
+Em regra, a competência para processar e julgar o mandado de segurança encontra-se expressamente delimitada na Constituição Federal e é aferida a partir da categoria funcional da autoridade apontada coatora.
+Confira-se:
+CONFLITO DE COMPETÊNCIA. ADMINISTRATIVO. MANDADO DE SEGURANÇA CONTRA ATO DE PRESIDENTE DE AUTARQUIA FEDERAL. EXAME NACIONAL DO ENSINO MÉDIO (ENEM). INSCRIÇÃO. ANTINOMIA ENTRE A COMPETÊNCIA DEFINIDA EM RAZÃO DA SEDE FUNCIONAL DA AUTORIDADE APONTADA COMO COATORA E A OPÇÃO PREVISTA PELO CONSTITUINTE EM RELAÇÃO AO FORO DO DOMICÍLIO DO AUTOR. ART. 109, § 2º, DA CF. PREVALÊNCIA DESTE ÚLTIMO. PRECEDENTES DO STJ EM DECISÕES MONOCRÁTICAS. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO FEDERAL DO DOMICÍLIO DA PARTE IMPETRANTE.
+I - Conflito de competência conhecido para declarar competente o juízo federal do domicílio da parte impetrante.
+II - A competência para conhecer do mandado de segurança é absoluta e, de forma geral, define-se de acordo com a categoria da autoridade coatora e pela sua sede funcional.
+III - Todavia, considerando a jurisprudência do Supremo Tribunal Federal no sentido de que, nas causas aforadas contra a União, pode-se eleger a seção judiciária do domicílio do autor (RE 627.709/DF), esta Corte de Justiça, em uma evolução de seu entendimento jurisprudencial, vem se manifestando sobre a matéria no mesmo sentido. Precedentes em decisões monocráticas: CC 137.408/DF, Rel. Min. Benedito Gonçalves, DJE 13.3.2015; CC 145.758/DF, Rel. Min. Mauro Campbell Marques, DJE 30.3.2016; CC 137.249/DF, Rel. Min. Sérgio Kukina, DJE 17.3.2016; CC 143.836/DF, Rel. Min. Humberto Martins, DJE 9.12.2015; e, CC n. 150.371/DF, Rel. Min. Napoleão Nunes Maia Filho, DJe 7/2/2017.
+IV - Agravo interno improvido.
+(AgInt no CC 150.269/AL, Primeira Seção, Relator Ministro Francisco Falcão, DJe 22/6/2017)
+Todavia, a partir da análise do artigo 109, § 2º, da Constituição da República, extrai-se que é faculdade do impetrante a escolha do foro para a propositura de ação mandamental contra autoridade federal, o que facilita acesso da parte ao Poder Judiciário.
+Portanto, é legítima a opção de eleição de foro para impetração do mandado de segurança.
+Acrescente-se que o dispositivo supramencionado não faz distinção entre as várias espécies de ações e procedimentos previstos na legislação processual, motivo pelo qual o fato de se tratar de ação mandamental não impede a escolha, pelo autor, do foro mais conveniente à satisfação de sua pretensão.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. IMPETRAÇÃO NO FORO DO DOMICÍLIO DO IMPETRANTE. ART. 109, §2º, DA CONSTITUIÇÃO DA REPÚBLICA. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - A jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de a ação de mandado de segurança ser impetrada no foro do domicílio do impetrante quando referente a ato de autoridade integrante da Administração Pública federal, ressalvada a hipótese de competência originária de Tribunais (1ª S., CC 151.353/DF, Rel. Min. Mauro Campbell Marques, DJe de 05.03.2018).
+(..)
+V - Agravo Interno improvido. (AgRg no CC 167.534/DF, Primeira Seção, Relatora Ministra Regina Helena Costa, Primeira Seção, DJe 06/12/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. AUTARQUIA FEDERAL. ARTIGO 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR.
+FACULDADE CONFERIDA AO IMPETRANTE.
+1. Não se desconhece a existência de jurisprudência no âmbito deste Superior Tribunal de Justiça segundo a qual, em se tratando de Mandado de Segurança, a competência para processamento e julgamento da demanda é estabelecida de acordo com a sede funcional da autoridade apontada como coatora e a sua categoria profissional. No entanto, a aplicação absoluta de tal entendimento não se coaduna com a jurisprudência, também albergada por esta Corte de Justiça, no sentido de que "Proposta ação em face da União, a Constituição Federal (art. 109, § 2º) possibilita à parte autora o ajuizamento no foro de seu domicílio" (REsp 942.185/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/06/2009, DJe 03/08/2009).
+2. Diante do aparente conflito de interpretações, tenho que deve prevalecer a compreensão de que o art. 109 da Constituição Federal não faz distinção entre as várias espécies de ações e procedimentos previstos na legislação processual, motivo pelo qual o fato de se tratar de uma ação mandamental não impede o autor de escolher, entre as opções definidas pela Lei Maior, o foro mais conveniente à satisfação de sua pretensão.
+3. A faculdade prevista no art. 109, § 2º, da Constituição Federal, abrange o ajuizamento de ação contra quaisquer das entidades federais capazes de atrair a competência da Justiça Federal, uma vez que o ordenamento constitucional, neste aspecto, objetiva facilitar o acesso ao Poder Judiciário da parte litigante.
+4. Agravo interno a que se nega provimento. (AgInt no CC 153.878/DF, Primeira Seção, Relator Ministro Sérgio Kukina, DJe 19/6/2018)
+Ademais, como bem salientado pelo Parquet em sua promoção, "tratando-se de legítima eleição de foro pelo impetrante - que não está preso ao foro do seu domicílio, - a competência é do Juízo Federal em que proposta a ação, sendo esse o juízo natural cuja jurisdição deve ser fimada no presente conflito".
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de Capão da Canoa - SJ/RS, o Suscitado.
+Publique-se.
+Intimem-se.
+Comunique-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS FEDERAIS PERTENCENTES A TRIBUNAIS REGIONAIS FEDERAIS DISTINTOS. MANDADO DE SEGURANÇA. ARTIGO 109, § 2º, DA CONSTITUIÇÃO FEDERAL. OPÇÃO DO IMPETRANTE. GARANTIA DE ACESSO AO PODER JUDICIÁRIO. COMPETÊNCIA DO JUÍZO SUSCITADO.
