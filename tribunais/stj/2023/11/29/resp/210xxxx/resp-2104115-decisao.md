@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por SOLIMAR DIAS DE OLIVEIRA, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"AGRAVO DE INSTRUMENTO. COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA COLETIVA PROFERIDA EM AÇÃO CIVIL PÚBLICA AJUIZADA NO DISTRITO FEDERAL. CÉDULA DE CRÉDITO RURAL. BANCO DO BRASIL. AJUIZAMENTO NA SEDE DA INSTITUIÇÃO FINANCEIRA. ESCOLHA ALEATÓRIA. ABUSO DE DIREITO. DECLÍNIO DE OFÍCIO. FORO DO DOMICÍLIO DO AUTOR. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+1. O ajuizamento nesta circunscrição de inúmeras ações em desfavor do Banco do Brasil S/A destinadas ao cumprimento de sentença coletiva em ação civil pública, em que os demandantes residem nos mais diversos Estados do país, revela a escolha aleatória e injustificada do foro.
+2. A escolha do local para propositura da ação não deve se dar ao acaso e, neste sentido, a única exceção que permite a escolha aleatória do foro trata-se da hipótese em que autor e réu residem fora do Brasil (art. 46, § 3º, CPC).
+3. O ajuizamento da demanda no Distrito Federal caracteriza manifesto abuso do direito de ação, uma vez que nada no caso se relaciona ao Juízo eleito.
+4. Lado outro, o processamento da ação no local da agência ou sucursal em que foi firmado o contrato facilitará a defesa e a obtenção de provas, em atendimento à ampla defesa, contraditório e celeridade.
+5. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO" (e-STJ fl. 91).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 121/132).
+Nas presentes razões (e-STJ fls. 135/148), o recorrente aponta, além de divergência jurisprudencial, violação dos artigos 53, III, alínea "a", e 516, parágrafo único, do Código de Processo Civil.
+Alega a possibilidade de ajuizamento da ação no foro da sede da instituição financeira ré.
+Sustenta que a referida opção não foi eleita de forma arbitrária ou por conveniência.
+Aduz que a incompetência relativa não pode ser conhecida de ofício.
+Invoca precedente do Superior Tribunal de Justiça como acórdão paradigma da controvérsia.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 201/215), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+A controvérsia dos autos consiste em definir a competência para processar cumprimento individual, proposto exclusivamente em desfavor do Banco do Brasil, da sentença proferida na ação civil pública ajuizada pelo Ministério Público Federal contra a referida instituição financeira, o Banco Central e a União, referente às diferenças da correção do saldo devedor de cédulas de crédito rural no mês de março de 1990 (ACP nº 94.000.8514-1).
+A discussão está centrada na possibilidade de o beneficiário do título executivo pleitear o seu cumprimento no foro do domicílio do réu.
+A jurisprudência do Superior Tribunal de Justiça, firmada no âmbito de ações coletivas, assegura ao consumidor a possibilidade de indicar, entre as opções legais, o foro que facilite sua atuação em juízo, não admitida, portanto, apenas a escolha aleatória.
+A esse respeito, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. AÇÃO COLETIVA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. POSSIBILIDADE DE AJUIZAMENTO DA EXECUÇÃO COLETIVA EM FORO DIVERSO AO FORO DO JUÍZO SENTENCIANTE. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. IMPROPRIEDADE. TEMAS REPETITIVOS 480 E 481. ESCOLHA NÃO ALEATÓRIA DE FORO. FORO DE DOMICÍLIO DO AUTOR. AGRAVO INTERNO NÃO PROVIDO.
+1. Na forma da jurisprudência desta Corte, a execução de sentença proferida em ação civil pública não segue as regras comuns de competência prevista no art. 516 do CPC/2015, pois ausente interesse apto a justificar a prevenção do Juízo que julgou a ação de conhecimento.
+2. A facilitação da defesa dos direitos do consumidor em juízo mitiga o rigor da regra de competência funcional entre o juízo da execução e o da condenação, sendo, porém, vedada a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, tampouco o de eleição ou mesmo o do local de cumprimento da obrigação.
+3. Caso em que a execução coletiva de sentença condenatória favorável a grupo de consumidores foi ajuizada no foro do domicílio do executado, local em que também domiciliado parte dos beneficiados, não havendo cogitar-se do denominado forum non conveniens .
+4. Agravo interno não provido."
+(AgInt nos EDcl no CC 186.202/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 24/8/2022, DJe de 30/8/2022 - grifou-se).
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. SENTENÇA COLETIVA. CUMPRIMENTO. ASSOCIAÇÃO. TESE SUBSIDIÁRIA. COMPETÊNCIA. COMARCA DE SÃO PAULO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. COMARCA DE MACEIÓ/AL. FIXAÇÃO DA COMPETÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ARESTO IMPUGNADO. SÚMULA N. 283/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+(..)
+4. Segundo a jurisprudência desta Corte Superior a prerrogativa de pluralidade de foros, dada ao consumidor para executar a sentença coletiva, não possibilita a escolha aleatória do lugar em que será proposta a demanda, sem obedecer a nenhuma regra processual, prejudicando a defesa do réu ou obtendo vantagem com a jurisprudência favorável de uma Corte local, a não ser que haja justificativa plausível e pormenorizadamente demonstrada.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.815.141/AL, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 29/11/2021, DJe de 2/12/2021 - grifou-se).
+"CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. EFEITOS MODIFICATIVOS. PREVIDÊNCIA PRIVADA. FUNCEF. ECONOMIÁRIAS APOSENTADAS. RELAÇÃO DE CONSUMO. AJUIZAMENTO DA AÇÃO, SEM JUSTIFICATIVA, EM COMARCA QUE NÃO É DOMICÍLIO DA RÉ, FORO CONTRATUAL, LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO OU DOMICÍLIO DAS AUTORAS. IMPOSSIBILIDADE.
+1. Verificada a presença de contradição no julgamento, possível conferir efeitos infringentes aos embargos de declaração a fim de extirpar o vício.
+2. Segundo entendimento desta Corte, nas ações propostas contra o consumidor, a competência pode ser declinada de ofício para o seu domicílio, em face do disposto no art. 101, inciso I, do CDC e no parágrafo único, do art. 112, do CPC.
+3. Se a autoria do feito pertence ao consumidor, contudo, permite-se-lhe a escolha do foro de eleição contratual, considerando que a norma protetiva, concebida em seu benefício, não o obriga, quando optar por demandar fora do seu domicílio.
+4. Não se admite, todavia, sem justificativa plausível, a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, nem o de eleição e nem o do local de cumprimento da obrigação.
+5. Embargos de declaração acolhidos com efeitos modificativos para conhecer do conflito, declarando competente a Justiça do Estado da Paraíba, anulada a sentença proferida pelo Juízo de Direito da 7ª Vara Cível do Foro Central de Porto Alegre, RS."
+(EDcl no AgRg nos EDcl no CC 116.009/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 8/2/2012, DJe de 20/4/2012 - grifou-se).
+Ante o exposto, dou provimento ao recurso especial para determinar o prosseguimento do feito no foro de Brasília.
+Publique-se.
+Intimem-se.
+EMENTA
