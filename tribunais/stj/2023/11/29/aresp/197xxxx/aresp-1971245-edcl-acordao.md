@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 23/11/2023 a 29/11/2023, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Francisco Falcão e Luis Felipe Salomão.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO DE UM DOS CRIMES. ESCLARECIMENTOS QUANTO À INDIVIDUALIZAÇÃO DA PENA DO DELITO REMANESCENTE. CABIMENTO.
+1. Extinta a punibilidade de um dos crimes, cabem embargos de declaração para esclarecimentos sobre o regime inicial de cumprimento da pena e a possibilidade de substituição por pena alternativa em relação ao delito remanescente.
+2. Embargos de declaração acolhidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por IVANTUIL TELES JUNIOR contra acórdão assim ementado (fls. 1.075-1.076):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS. EVASÃO DE DIVISAS. PRESCRIÇÃO RETROATIVA. EXTINÇÃO DA PRETENSÃO PUNITIVA. DECLARAÇÃO DE OFÍCIO.
+1. Os embargos de declaração, conforme dispõe o art. 619 do Código de Processo Penal, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para corrigir eventual erro material na decisão embargada.
+2. Não se identifica, no recurso, vício algum capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+3. A prescrição penal constitui matéria passível de análise em qualquer fase do processo, devendo a extinção da punibilidade ser declarada de ofício pelo magistrado se eventualmente verificada.
+4. O embargante foi condenado às penas de 5 anos de reclusão e de 20 dias-multa, pela prática do crime do art. 22, parágrafo único, da Lei n. 7.492/1986, c/c o art. 71 do Código Penal. No caso, desconsiderado o aumento da continuidade delitiva, verifica-se que foi cominada a reprimenda corporal de 3 anos de reclusão para cada infração penal, o que atrai para a hipótese o prazo prescricional de 8 anos, conforme previsto no art. 109, IV, do Código Penal.
+5. Constatado que entre as remessas ilegais de dinheiro para o exterior, promovidas pelo embargante por meio de 39 transações efetivadas entre 3/5/2000 e 14/11/2001, e o recebimento da denúncia, em 11/12/2009, transcorreu lapso temporal superior a 8 anos, impõe-se declarar extinta a pretensão punitiva em face do crime de evasão de divisas.
+6. Não incide, no caso, a alteração promovida pela Lei n. 12.234/2010 no § 1º do art. 110 do CP, haja vista o princípio da irretroatividade da lei penal mais gravosa - ex vi dos arts. 5º, XL, da CF e 2º do CP.
+7. Embargos de declaração rejeitados. Extinta a punibilidade do crime de evasão de divisas, nos termos do art. 61 do Código de Processo Penal.
+A parte embargante alega que, julgada extinta a punibilidade em relação aos crimes previstos no art. 22, parágrafo único, da Lei n. 7.492/1986, c/c o art. 71 do Código Penal, teria restado a pena de 2 anos e 4 meses referente ao crime de sonegação fiscal.
+Aduz, nesse sentido, que o acórdão embargado teria deixado de definir o novo regime de cumprimento de pena e deliberado sobre o cabimento da substituição da pena privativa de liberdade pela restritiva de direitos.
+Requer o acolhimento dos aclaratórios para que o defeito apontado seja sanado, com a correspondente repercussão jurídica.
+As contrarrazões foram apresentadas às fls. 1.094-1.099.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO DE UM DOS CRIMES. ESCLARECIMENTOS QUANTO À INDIVIDUALIZAÇÃO DA PENA DO DELITO REMANESCENTE. CABIMENTO.
+1. Extinta a punibilidade de um dos crimes, cabem embargos de declaração para esclarecimentos sobre o regime inicial de cumprimento da pena e a possibilidade de substituição por pena alternativa em relação ao delito remanescente.
+2. Embargos de declaração acolhidos.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+Assiste razão ao embargante.
+Com efeito, extinta a punibilidade dos crimes de evasão de divisas (em continuidade delitiva), faz-se necessário esclarecer acerca do regime inicial de cumprimento da pena e da possibilidade de substituição por pena alternativa em relação ao delito de sonegação fiscal.
+No caso em apreço, o próprio Juiz sentenciante (fls. 736-737), aventando tal circunstância, deixou certo que (destaques acrescidos):
+b) Do crime previsto no artigo 1º, inciso I, da Lei n. 8137/90:
+Verifica-se que o acusado possui culpabilidade normal para o tipo penal infringido. Possui bons antecedentes, na medida em que os registros de fls. 268/269 e 316/318 não se prestam a infirmar tal qualificação. Nada há nos autos que permita concluir ter o réu personalidade voltada para o crime, assim como nada há que configure como conduta social reprovável. O motivo do crime se externa pelo animus de locupletamento em detrimento da sociedade mediante a supressão do pagamento de tributo, o que já é punido pelo próprio tipo penal. A quantia sonegada, pela relevância, confere valoração negativa às circunstâncias do crime. O delito trouxe como consequência o prejuízo à Fazenda Pública, pois não houve o recolhimento do Imposto de Renda devido, o que também é próprio do crime em questão. A vitima em nada influenciou para a prática da ação delituosa.
+Portanto, ponderando as circunstâncias judiciais, fixo a pena-base em 02 (dois) anos e 4 (quatro) meses de reclusão e 15 (quinze) dias-multa.
+Não concorrendo circunstâncias atenuantes e agravantes, bem como causas especiais de diminuição ou aumento de pena, torno-a definitiva no patamar de 02 (dois) anos e 4 (quatro) meses de reclusão e 15 (quinze) dias-multa.
+Em face do concurso material, somo as penas aplicadas para juntas totalizarem a pena final de 06 (seis) anos e 01 (um) mês de reclusão e 45 (quarenta e cinco) dias-multa.
+Arbitro o dia multa em 1/30 do salário mínimo vigente à época dos fatos, sujeita à correção monetária quando de sua execução, em razão da situação financeira atual do condenado (fls. 306/308).
+Ante a reprimenda aplicada, incabível, por ora, a substituição ou suspensão condicional da pena, nos termos dos artigos 44 e 77 do Código Penal. Dessa forma, nos termos do art. 33, § 1º, alínea b e § 2º, alínea b, do mesmo Estatuto repressivo, o regime inicial para cumprimento das penas restritivas de liberdade será o semi-aberto.
+Contudo, em caso de reconhecimento da prescrição punitiva, pela pena em concreto, em relação ao crime previsto no art. 22 da Lei 7492/86, por ocasião do trânsito em julgado para a acusação, determino desde já que seja a pena privativa de liberdade aplicada em relação ao crime previsto no art. 1º da Lei nº 8.137/90 substituída por 2 penas pena restritivas de direitos, eis que, a partir de então, presentes estarão os pressupostos do artigo 44, incisos I a III do Código Penal Brasileiro: a) na prestação pecuniária no valor de 2 (dois) salários mínimos, nos termos do artigo 45, §1º, do Código Penal, a ser doada a entidade assistencial a ser designada pelo Juízo da Execução, em espécie ou por cesta básica com valor de compra comprovado e b) na prestação de serviços à comunidade ou a entidades públicas, pelo prazo de 02 (dois) anos e 4 (quatro) meses, na forma dos artigos 46 e 55 daquele diploma legal, em instituição também a ser designada pelo Juízo da Execução.
+Na segunda instância, o recurso de apelação interposto pelo Ministério Público Federal foi acolhido apenas para exasperar a pena do delito do art. 22, parágrafo único, da Lei n. 7.492/1996 (fl. 850), sobre o qual recaiu a prescrição da pretensão punitiva, de forma a não exercer influência na solução destes embargos.
+Em resumo: para o crime do art. 1º, I, da Lei n. 8.137/1990, pelo qual o réu IVANTUIL TELES JUNIOR foi condenado às penas de 2 anos e 4 meses de reclusão, e 15 dias-multa, deve ser fixado o regime inicial aberto e substituída a pena privativa por duas restritivas de direitos, nos termos da sentença acima mencionada.
+Ante o exposto, acolho os embargos de declaração para esclarecimentos quanto à individualização da pena do delito remanescente.
+É como voto.
