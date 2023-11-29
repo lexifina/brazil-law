@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 23/11/2023 a 29/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Não participaram do julgamento os Srs. Ministros Francisco Falcão e Luis Felipe Salomão.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA CARTA ROGATÓRIA. ART. 1.022, II, DO CPC. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA COMPREENSÃO DA CONTROVÉRSIA. COMPETÊNCIA. PEDIDO DE NOTIFICAÇÃO. COMPARECIMENTO ESPONTÂNEO. DILIGÊNCIA CUMPRIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material ocorrido na decisão judicial.
+2. A carta rogatória para a concessão do exequatur não precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+3. O caso versa sobre questão não prevista no rol dos temas sujeitos exclusivamente à Justiça brasileira (art. 23 do Código de Processo Civil). Sendo o caso de jurisdição concorrente, não há que se falar em exclusão da competência da Justiça americana para pleitear a diligência rogada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+A EXMA. SRA. MINISTRA MARIA THEREZA DE ASSIS MOURA:
+Cuida-se de embargos de declaração opostos por Rodrigo Abreu Teixeira contra acórdão de fls. 162-167, que negou provimento ao agravo interno em acórdão assim ementado:
+CARTA ROGATÓRIA. AGRAVO INTERNO. CITAÇÃO. CONCESSÃO DE EXEQUATUR. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA A COMPREENSÃO DA CONTROVÉRSIA. INCOMPETÊNCIA DA JUSTIÇA ROGANTE. QUESTÕES DE MÉRITO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples citação, por si só, não representa situação de afronta à ordem pública ou à soberania nacional, destinando-se apenas a dar conhecimento de ação em curso para permitir a defesa da parte interessada.
+2. Para a concessão do exequatur, a carta rogatória não precisa estar acompanhada de todos os documentos indicados na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo mer amente de delibação acerca da concessão de exequatur a carta rogatória, de modo que o debate acerca da competência da Justiça rogante extrapola os limites cognitivos estreitos que regem o presente instrumento cooperatório.
+4. Nos moldes do entendimento deste Sodalício, no exame da contenda devem ser apresentadas as razões que levaram o julgador a decidir daquela maneira, não sendo, contudo, obrigado a se manifestar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir. Precedentes.
+5. Agravo interno improvido.
+Em suas razões, a embargante afirma que "o v. acórdão foi omisso com relação ao entendimento proferido pela Corte Especial no julgamento do Agravo Interno na Carta Rogatória n. 15.638/EX. Além disso, o acórdão foi obscuro no tocante a ausência de documentos essenciais para a compreensão da controvérsia pelo RODRIGO" (fl. 174).
+No que se refere ao entendimento jurisprudencial invocado, afirma que a análise da competência deve ser previamente realizada pela Justiça rogante, já que constituiria requisito para a concessão do exequatur a apresentação de um ato proferido por autoridade c ompetente, conforme dispõe o art. 963, inciso I, do Código de Processo Civil.
+Quanto à apontada obscuridade, afirma que "apesar de apresentada a cópia da petição inicial, esta deixou de ser instruída com qualquer documento que pudesse justificar o ajuizamento da ação movida por Luiz Mussnich em face de RODRIGO" (fl. 176). Considera que a omissão vulnera o exercício da defesa
+Requer o acolhimento dos embargos para que sejam sanados os vícios apontados e a remessa da rogatória para a Justiça rogante, a fim de que se manifeste acerca da competência para julgar a demanda.
+Foram apresentadas contrarrazões às fls. 182-191.
+O Ministério Público Federal opinou pela rejeição dos aclaratórios (fls. 200-204).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA CARTA ROGATÓRIA. ART. 1.022, II, DO CPC. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA COMPREENSÃO DA CONTROVÉRSIA. COMPETÊNCIA. PEDIDO DE NOTIFICAÇÃO. COMPARECIMENTO ESPONTÂNEO. DILIGÊNCIA CUMPRIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material ocorrido na decisão judicial.
+2. A carta rogatória para a concessão do exequatur não precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+3. O caso versa sobre questão não prevista no rol dos temas sujeitos exclusivamente à Justiça brasileira (art. 23 do Código de Processo Civil). Sendo o caso de jurisdição concorrente, não há que se falar em exclusão da competência da Justiça americana para pleitear a diligência rogada.
+4. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA MARIA THEREZA DE ASSIS MOURA:
+Inicialmente, ressalto que o pedido de cooperação se restringe à mera citação da parte interessada, o que se materializou, inclusive, com o seu comparecimento espontâneo aos autos.
+Ademais, os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou para correção de erro material.
+Não há omissão ou contradição a ser sanada, visto que o v. Acórdão embargado atende, de forma expressa, à correta instrução do processo em curso, sendo suficientes para a compreensão da controvérsia os documentos encaminhados pela Justiça rogante. Nesse sentido, destaco o seguinte trecho (fl.166):
+ ..  A alegação de que a carta rogatória foi deficientemente instruída não procede. O pedido de diligência contém todas as informações necessárias à compreensão da controvérsia, estando acompanhado da petição inicial apresentada, na qual consta longo relato sobre a relação estabelecida entre as partes e cópia da decisão estrangeira que informa sobre a existência do processo e pede a citação (fls. 40-88).
+A propósito, veja-se precedente sobre a questão:
+PROCESSUAL CIVIL. CARTA ROGATÓRIA. AGRAVO INTERNO. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA A COMPREENSÃO DA CONTROVÉRSIA. CONCESSÃO DE EXEQUATUR. VIOLAÇÃO DA ORDEM PÚBLICA. NÃO OCORRÊNCIA. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE.
+1. A prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples notificação, por si só, não representa situação de afronta à ordem pública ou à soberania nacional, destinando-se apenas a dar conhecimento de ação em curso na justiça alienígena.
+2. Para a concessão do exequatur, a carta rogatória não precisa estar acompanhada de todos os documentos indicados na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão de exequatur à carta rogatória, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa.
+Agravo interno desprovido.
+(AgInt na CR n. 16.181/EX, relator Ministro Humberto Martins, Corte Especial, julgado em 8/9/2021, DJe de 13/9/2021.)
+Quanto à alegada omissão referente à competência da Justiça rogante, o v. Acórdão embargado enfrentou, explicitamente, a questão ao observar que o caso versa sobre questão não prevista no rol dos temas sujeitos exclusivamente à Justiça brasileira (art. 23 do Código de Processo Civil) e que não seria o caso de exclusão da competência da Justiça americana para pleitear a diligência rogada .
+Ademais, cumpre apontar que a decisão utilizada pelo embargante como amparo para sua pretensão recursal não se aplica à hipótese vertente. De fato, o acórdão que julgou o Agravo Interno na CR 15.638/EX, ao reconhecer a necessidade de manifestação do Juízo rogante sobre sua própria competência, considerou que nenhum dos fatos que integravam a causa de pedir haviam ocorrido no país estrangeiro e que o direito invocado poderia ser tornado efetivo por meio da instauração do processo em país diverso daquele de origem da carta rogatória (AgInt na CR n. 15.638/EX, relator Ministro Humberto Martins, julgado em 11/5/2021, DJe de 13/5/2021).
+Todavia, o processo no qual o ora recorrente foi notificado envolve circunstâncias fáticas transfronteiriças, sendo imputada à interessada a suposta participação em fraude, que teria se operado a partir da angariação de fundos de investidores e utilização desse capital para outras operações, tudo sob o pretexto de financiar uma produção cinematográfica (fls. 41-83). É assinalado, aliás, que a interessada e outras empresas do mesmo grupo teriam trabalhado "diretamente com Teixeira e RT US para manter um elaborado esquema de fraude internacional multi-milhões-dólares" (fl. 79).
+As circunstâncias assim delineadas evidenciam que os fatos que ampararam a instauração de ação perante a Justiça rogante não se amoldam cenário descrito no Agravo Interno na CR 15.638/EX.
+De mais a mais, registre-se que, dentre as empresas envolvidas no suposto ilícito, há sociedades radicadas em território nacional e outras constituídas em solo norte-americano, tudo a constatar ser infundada a alegação de incompetência deduzida nos embargos, não obstante tal questão fugir dos limites estreitos do juízo de delibação pelo Superior Tribunal de Justiça, como consignado na decisão impugnada.
+Portanto, inexiste irregularidade sanável por meio destes embargos, já que a matéria submetida à apreciação foi devidamente julgada, não havendo, na decisão embargada, os vícios que autorizariam o manejo do recurso.
+Por fim, ressalto que o pedido de cooperação se restringe à mera citação da parte interessada, o que se materializou, inclusive, com o seu comparecimento espontâneo aos autos, razão pela qual a rogatória foi dada por cumprida.
+Ante o exposto, rejeito os presentes embargos de declaração.
+É como voto.
