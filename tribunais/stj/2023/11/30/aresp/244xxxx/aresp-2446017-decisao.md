@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Indaiatuba, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 300):
+TRIBUTÁRIO. ISS. EMBARGOS À EXECUÇÃO FISCAL JULGADOS IMPROCEDENTES. "CDA" QUE NÃO PREENCHE OS REQUISITOS ESSENCIAIS PREVISTOS EM LEI. CERTIDÃO QUE NÃO INDICA A ORIGEM E O FUNDAMENTO LEGAL DA DEVIDA, SILENCIANDO TAMBÉM QUANTO AO NÚMERO DO PROCESSO ADMINISTRATIVO EM QUE SE APUROU O CRÉDITO. APELAÇÃO DO CONTRIBUINTE PROVIDA, COM EXTINÇÃO DA EXECUÇÃO E IMPOSIÇÃO DE CARGA SUCUMBENCIAL A ENTIDADE IMPOSITORA.
+É nula certidão de dívida ativa que inobserva os requisitos previstos na Lei Federal n. 6.830180 (art. 2 0, §§ 50 e 60), levando à extinção da execução fiscal.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 202 do CTN. Sustenta, em resumo, a validade da CDA, pois "Pela mera leitura do título impugnado é facilmente constatada a origem do débito, seu valor, contribuinte e os fundamentos legais dos acréscimos decorrentes do inadimplemento (correção, juros e multa), comprovando-se a sua certeza, liquidez e exigibilidade" (fl. 312), sendo certo que "inconcebível o reconhecimento da nulidade da CDA, vez que, a certidão somente será invalidada quando as informações que a compõem, de algum modo, impossibilite a defesa do Recorrido ou quando o valor nela constante não é certo, o que não é o presente caso" (fl. 313).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem, ao julgar a demanda, reconheceu a nulidade da CDA, em razão da ausência dos requisitos legais, nos seguintes termos (fls. 301/302):
+A execução fiscal embargada versa créditos de ISS variável exercício 2009 (fls. 172 - CDA).
+Certidões de dívida ativa devem obrigatoriamente indicar: i) nome do devedor; ii) o valor originário da dívida, bem como o termo inicial e a forma de calcular os encargos da mora; iii) a origem, a natureza e o fundamento legal do crédito e da correção monetária; iv) a data e o número g da inscrição no registro de dívida ativa; v) o número do processo administrativo ou do auto de infração, se neles estiver apurado o valor da ó dívida (art. 20, §§ 51 e 61, da Lei Federal n. 6.830180).
+A certidão n. 020.35512011 (fls. 172) não preenche parte desses , requisitos, pois: a) é imprecisa quanto à origem e ao fundamento legal da h cobrança, fazendo alusão bastante genérica ao Código Tributário Municipal; b) não indica o número do processo administrativo em que apurado o imposto.
+ ..
+Os vícios mencionados há pouco deitam por terra a presunção relativa de certeza e liquidez do título que lastreia o processo executivo.
+Há claro prejuízo para o Itaú Unibanco: ausência dos elementos essenciais da CDA subtrai dele a possibilidade de cotéjar o montante cobrado e a legislação respectiva.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, acerca da nulidade da CDA, tal como colocada a questão nas razões recursais, para reconhecer a validade do título executivo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. No mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. FALTA DO NÚMERO DO PROCESSO ADMINISTRATIVO. NULIDADE DA CDA. AFASTAMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. INEXISTÊNCIA DE PREJUÍZO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. HIGIDEZ DO TÍTULO. MANUTENÇÃO.
+I - O questionamento acerca da liquidez e certeza da CDA, dentre eles a falta de numeração do processo administrativo, implica em reexame do conjunto probatório, o que encontra óbice na súmula 7/STJ. Precedentes: AgInt no AREsp n. 792.785/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/2/2017, DJe de 21/2/2017 e AgInt no AREsp n. 920.331/RO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/8/2016, DJe de 17/8/2016.
+II - Mesmo que afastado o óbice processual, verifica-se que o Tribunal a quo agiu com acerto ao manter a higidez da CDA, com a convicção de que a irregularidade formal não gerou. Precedentes: AgInt no AREsp n. 520.705/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/9/2016, DJe de 6/10/2016 e AgInt no AREsp n. 1.791.585/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/8/2021, DJe de 27/8/2021.
+III - Agravo interno improvido.
+(AgInt no AREsp n. 1.537.329/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
