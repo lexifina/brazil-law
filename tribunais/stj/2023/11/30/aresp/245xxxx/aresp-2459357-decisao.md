@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE AUTOMÓVEL.
+NÃO HÁ PROVAS NOS AUTOS DE QUE O VEÍCULO EM QUESTÃO SIRVA COMO INSTRUMENTO DE TRABALHO, NÃO ESTANDO, ASSIM, ABRANGIDO PELA IMPENHORABILIDADE, PREVISTA NO ARTIGO 833, V, DO CPC, O QUAL SE REFERE À INSTRUMENTO DE TRABALHO. NO CASO O VEÍCULO É UTILIZADO APENAS COMO MEIO DE LOCOMOÇÃO, COM O QUE NÃO SE CONFUNDE.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 67 - 71, e-STJ).
+Nas razões de recurso especial, alega a parte agravante, em suma, violação aos artigos 833 e 1.022 do Código de Processo Civil de 2015.
+Sustenta a nulidade do acórdão por omissão, destacando que: "Inobstante tenha o Recorrentes instado o Tribunal de Justiça do Rio Grande do Sul, por meio de embargos declaratórios, a manifestar-se acerca da violação aos artigos invocados, não houve a devida resposta jurisdicional, sob o argumento que não havia quaisquer das omissões ou contradições apontadas no acórdão recorrido" (e-STJ, fl. 83).
+Defende que: "Evidente é a violação ao artigo supracitado uma vez que a decisão vergastada, erroneamente, manteve a penhora sobre o veículo VW/GOL 1000 1994, de placas IBI-6953, nos termos do documento acostado ao Evento 55. Ocorre que o veículo penhorado é utilizado para o exercício da profissão do Recorrente e, portanto, encontra-se abarcado pela impenhorabilidade prevista no inciso V, do artigo 833, do Código de Processo Civil" (e-STJ, fl. 85).
+Conclui que: "A semelhança dos acórdãos, paradigma e recorrido, é evidente. Portanto, está perfeitamente demonstrada a similitude das decisões. Veja que em ambos os acórdãos está-se a tratar de veículo necessário para o transporte do executado. No acórdão paradigma, foi reconhecida a impenhorabilidade do bem, enquanto que na decisão proferida nos presentes autos, a solução foi diversa, isto é, não se reconheceu a impenhorabilidade. Portanto, percebe-se que em duas situações de evidente similitude, as soluções jurisdicionais foram diversas e antagônicas, o que justifica o provimento do Especial, pelo dissídio pretoriano" (e-STJ, fl. 87).
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 105 - 107, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à parte agravante.
+Inicialmente, quanto à alegada violação do artigo 1.022 do CPC de 2015, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Observo que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: Edcl no AgRg no Ag nº 492.969/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJ de 14.2.2007; AgRg no Ag nº 776.179/SP, Relator Ministro José Delgado, Primeira Turma, DJ de 12.2.2007; e REsp 523.659/MG, Relator Ministro João Otávio de Noronha, Segunda Turma , DJ de 7.2.2007.
+No ponto, ao oposto de apresentar omissão, a Corte local concluiu, com base na análise de fatos e provas levados aos autos, e de forma fundamentada, pela possibilidade de penhora na hipótese, destacando que não houve comprovação de que o veículo tratado nos autos era utilizado profissionalmente pela parte, conforme se depreende do trecho do acórdão abaixo reproduzido (e-STJ, fl. 43):
+No caso, conforme já ressaltado pelo julgador de piso, verbis:
+Rejeito a alegação de impenhorabilidade do veículo, não só por ter vindo desacompanhada de provas, mas principalmente porque o veículo não é utilizado como instrumento de trabalho do devedor, mas sim como meio de locomoção.
+De fato, não há provas nos autos de que o veículo em questão sirva como instrumento de trabalho, não estando, assim, abrangido pela impenhorabilidade, prevista no artigo 833, V, do CPC, o qual se refere à instrumento de trabalho, não havendo provas nesse sentido acerca do veículo, que é utilizado apenas como meio de locomoção, com o que não se confunde.
+Nesse contexto, além de o acórdão local não apresentar omissão, verifica-se que a revisão da conclusão adotada na origem, para que se acolha a tese de impenhorabilidade do veículo em comento, traduz medida que encontra veto na Súmula 7/STJ, por demandar necessário reexame de fatos e provas.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
