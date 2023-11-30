@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por TIAGO DE JESUS HIGINO com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 1503574-03.2020.8.26.0536.
+Consta nos autos que o Recorrente foi condenado como incurso no art. 157, caput, do Código Penal, às penas de 4 (quatro) anos de reclusão, em regime inicial semiaberto, e 10 (dez) dias-multa (fls. 133-137).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação (fls. 219-225) e rejeitou os embargos de declaração (fls. 255-260).
+Nas razões do recurso especial, aponta-se ofensa ao art. 155 do Código Penal, sob o argumento de que a conduta imputada ao Recorrente deve ser desclassificada para o delito de furto, pois não houve violência ou grave ameaça.
+Aduz-se, ainda, violação do art. 33, § 2.º, do Código Penal, defendendo-se que é possível a adoção do regime inicial aberto no caso em apreço.
+Contrarrazões às fls. 272-276.
+O Ministério Público Federal opinou pelo parcial provimento do recurso, a fim de que seja concedido ao Recorrente o regime inicial aberto (fls. 292-295).
+É o relatório. Decido.
+O Tribunal de origem, ao analisar a presença das circunstâncias elementares do delito de roubo simples, decidiu nos seguintes termos:
+"Em suma, o roubo em questão foi devidamente comprovado pelo acervo probatório, notadamente porque a vítima afirmou que o réu se aproximou de inopino e determinou que ela ficasse quieta e não se mexesse. Declarou, ainda, ter ficado apavorada com as ameaças e dizeres do apelante.
+Consoante bem observou o d. Procurador de Justiça, "é evidente que, ao ser surpreendida pela ação ostensiva e intimidadora do réu, que se aproximou repentinamente, mandou que ficasse quieta e não reagisse, retirando da sua bolsa o celular, a ofendida viu-se absolutamente incapacitada de qualquer reação em defesa de seu patrimônio, ficando, como disse em juízo, apavorada" (fls. 184).
+Nesse contexto, respeitado o entendimento da Defesa, ficou plenamente delineada a grave ameaça exigida pelo tipo penal em questão." (fls. 223-224, sem grifos no original.)
+Desse modo, uma vez constatado, pelo Tribunal de origem, que houve o emprego de grave ameaça na subtração, eventual modificação desta conclusão para desclassificar a conduta exigiria reexame fático-probatório, o que encontra óbice na Súmula n. 7/STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO INTERNO. ALEGAÇÃO DE IMPUGNAÇÃO AOS FUNDAMENTOS DA INADMISSÃO DO APELO NOBRE PELA CORTE DE ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. ROUBO SIMPLES. DESCLASSIFICAÇÃO. FURTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. As instâncias ordinárias entenderam estar provado que a subtração patrimonial veio acompanhada de grave ameaça "intimidadora o suficiente a caracterizar o delito de roubo". Para rever a conclusão, no intuito de se desclassificar a conduta para o crime de furto, bem assim se permitir a substituição da pena privativa de liberdade por restritivas de direitos, seria necessário o reexame de fatos e provas, inviável em recurso especial, nos termos da Súmula n.º 7 do Superior Tribunal de Justiça.
+3. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido." (AgRg no AREsp n. 1.746.654/SP, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 17/11/2020, DJe de 27/11/2020, sem grifos no original.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. AUSÊNCIA DE GRAVE AMEAÇA. DESCLASSIFICAÇÃO PARA FURTO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. IDONEIDADE DA PROVA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DO VERBETE SUMULAR N.º 83/STJ.
+1. A pretendida desclassificação por ausência de grave ameaça é questão que demanda aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via eleita. Óbice do Enunciado n.º 7 da Súmula desta Corte Superior.
+ .. " (AgRg no AREsp n. 1.019.743/BA, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 18/4/2017, DJe de 5/5/2017, sem grifos no original.)
+De outra parte, em relação ao regime prisional inicial, contata-se que o Réu é primário, não possui antecedentes e todas as circunstâncias judicias foram avaliadas favoravelmente, não tendo sido apontado nenhum fundamento que demonstrasse a especial reprovabilidade deste delito em relação aos crimes de roubo simples em geral.
+Desse modo, é possível a adoção do regime inicial aberto, aplicando-se ao caso o disposto na Súmula n. 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Sobre o tema, confira-se:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO SIMPLES. ATENUANTE DE CONFISSÃO ESPONTÂNEA. OCORRÊNCIA. ASSUNÇÃO DE CRIME DE FURTO. COMPENSAÇÃO COM A AGRAVANTE DO ART. 61, II, "h", do CP. POSSIBILIDADE. REGIME ABERTO. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. De acordo com o enunciado n. 440 da Súmula do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com o enunciado n. 719 da Súmula do STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea". In casu, não obstante a sanção básica ter sido fixada no mínimo legal, o recorrente ser primário, com as circunstâncias judiciais do artigo 59 do Código Penal favoráveis, verifica-se que não foram empregados fundamentos concretos e suficientes para a determinação do regime mais gravoso. Portanto, em observância ao art. 33, §§ 2º e 3º, "c", do Código Penal, estabeleço o regime aberto para o cumprimento da reprimenda.
+5. Agravo regimental a que se nega provimento." (AgRg no REsp n. 1.864.871/SP, Relator Ministro REYNALDO SOARES DA FONSECA , Quinta Turma, julgado em 5/5/2020, DJe de 14/5/2020, sem grifos no original.)
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para fixar o regime inicial aberto.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ROUBO SIMPLES. ALEGAÇÃO DE INEXISTÊNCIA DE VIOLÊNCIA OU GRAVE AMEÇA. REEXAME PROBATÓRIO. SÚMULA N. 7/STJ. REGIME PRISIONAL INICIAL. CIRCUNSTÂNCIA JUDICIAIS FAVORÁVEIS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
