@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Cível n. 5008807-81.2022.8.21.0004) nos autos de ação de busca apreensão em contrato de financiamento de veículo com garantia de alienação fiduciária.
+O julgado foi assim ementado (fl. 117):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DA NOTIFICAÇÃO VÁLIDA. MORA NÃO CONFIGURADA. EXTINÇÃO DA DEMANDA.
+A PROVA DA MORA É IMPRESCINDÍVEL À BUSCA E APREENSÃO (SÚMULA 72, STJ), E DEVE DAR-SE VIA CARTA COM AVISO DE RECEBIMENTO, NA FORMA DO ARTIGO 2º, § 2º, DO DL 911/69, COM NOVA REDAÇÃO DADA PELA LEI Nº 13.043/14. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR INDICADO NO CONTRATO, AUSÊNCIA DE CONSTITUIÇÃO VÁLIDA EM MORA.
+PARA A CONSTITUIÇÃO EM MORA DO DEVEDOR É NECESSÁRIA A NOTIFICAÇÃO EXTRAJUDICIAL/PROTESTO PRÉVIO AO AJUIZAMENTO DA LIDE, INCLUSIVE, PARA VIABILIZAR AO DEVEDOR A PURGA DA MORA EXTRAJUDICIALMENTE E ESCAPAR DOS EFEITOS DA JURISDIÇÃO.
+MANUTENÇÃO DA SENTENÇA DE EXTINÇÃO DA AÇÃO, DIANTE DA AUSÊNCIA DE PRESSUPOSTOS PROCESSUAIS, NOS TERMOS DO ARTIGO 485, IV, DO CPC.
+APELO DESPROVIDO.
+Nas razões do recurso especial (fls. 124-146), a parte recorrente aponta divergência jurisprudencial e alega negativa de vigência aos arts. 2º, § 2º, e 3º do Decreto-Lei n. 911/1969.
+Afirma que tentou, via correio, notificar extrajudicialmente a parte recorrida no endereço constante do contrato, porém sem êxito.
+Defende a regular constituição da mora, que decorre do simples vencimento do prazo para pagamento, bem como a validade da notificação extrajudicial encaminhada para o endereço fornecido no momento da assinatura do contrato.
+Sustenta que o acórdão combatido, ao reconhecer que a constituição em mora não fora demonstrada, porquanto enviada correspondência sem o regular recebimento pela parte devedora, divergiu do entendimento do Superior Tribunal de Justiça (REsp n. 773.850/RS), do Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Cível n. 0002568-70.2018.8.19.0028) e do Tribunal de Justiça do Estado de Minas Gerais (Apelação Cível n. 1.0000.17.045915-0001), no sentido de que é considerada válida a notificação enviada, com aviso de recebimento, ao endereço do devedor constante do contrato, ainda que por ele não recebida.
+Requer a reforma do acórdão para reconhecer a validade da notificação encaminhada ao en dereço do contrato. Subsidiariamente, pugna pela abertura de prazo para que possa sanar o vício, com o prosseguimento do feito.
+Não foram apresentadas contrarrazões.
+Admitido o recurso especial (fls. 198-203), os autos ascenderam ao Superior Tribunal de Justiça.
+Por meio da petição de fl. 216, a parte recorrente informa que as partes transigiram e pleiteia a homologação de acordo celebrado.
+É o relatório. Decido.
+I - Pedido de homologação de acordo
+Para o advogado transigir em juízo, faz-se necessária a outorga de poderes especiais e expressos, conforme previsto no art. 105 do CPC.
+Analisando os autos, verifica-se, às fls. 12-13, que o instrumento de substabelecimento outorgado ao advogado, embora vigente no ato da interposição do recurso, estava vencido por ocasião da apresentação do acordo.
+Intimada para regularizar a representação processual (fls. 223-224), a parte recorrente não se manifestou (fl. 228).
+Além disso, com exceção das ações de competência originária deste Tribunal, a homologação de acordo deverá ser processada e decidida pelo juízo originário em primeira instância, que possui os meios hábeis à promoção da conciliação almejada, considerando os termos da avença, a execução do pacto e eventuais divergências acerca de seu cumprimento.
+Assim, indefiro o pedido de homologação do acordo.
+II - Comprovação da mora - notificação extrajudicial - Tema n. 1.132 do STJ
+Para os contratos garantidos por alienação fiduciária, embasados pelo Decreto-Lei n. 911/1969, o Superior Tribunal de Justiça firmou o entendimento de que a mora se configura automaticamente, quando vencido o prazo para o pagamento - mora ex re -, isto é, decorre do não pagamento dentro do prazo. Ou seja, o devedor estará em mora quando deixar de efetuar o pagamento no tempo, lugar e forma contratados (arts. 394 e 396 do Código Civil).
+Portanto, incumbe ao credor comprovar tão somente o envio da carta registrada com aviso de recebimento ao endereço indicado no contrato, não sendo necessária a demonstração do efetivo recebimento, quer seja pelo próprio destinatário, quer seja por terceiros.
+Registre-se que a Segunda Seção desta Corte, em julgamento de recurso repetitivo (Tema n. 1.132), fixou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido. (REsp n. 1.951.662/RS, relator para o acórdão Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/8/2023.)
+Essa conclusão aplica-se a situações diversas, por exemplo, quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor comprovar tão somente o envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato, sendo irrelevante a prova do recebimento (REsps n. 1.951.662/RS e 1.951.888/RS, submetidos ao rito dos repetitivos).
+No caso, o Tribunal local manteve a sentença que extinguira a ação de busca e apreensão ao fundamento de não ter sido demonstrada a regular constituição da parte devedora em mora, porquanto não entregue a notificação no endereço declinado no contrato. Confira-se (fl. 114):
+A comprovação da mora solvendi dá-se via carta com aviso de recebimento, consoante nova redação do dispositivo legal suso elencado, alterado pela Lei nº 13.043/14.
+ ..
+Porém, no presente caso, o autor quando do ajuizamento da ação de busca e apreensão, juntou comprovante dos correios de que o destinatário estava ausente em três tentativas de entrega da notificação (evento 01 - doc. 07). Nesse caso, deveria ter procedido com o protesto via edital, para que assim tornasse a notificação válida, e então constituir em mora o ora apelado.
+Observa-se que o Tribunal a quo afirmou que não houve a constituição em mora do devedor por falta de comprovação nos autos de que a notificação fora efetivamente entregue no endereço indicado no contrato.
+Esse entendimento diverge da jurisprudência do STJ, uma vez que o Tribunal de origem não considerou válida a notificação enviada ao endereço constante do contrato, apta a configurar a mora mesmo sem a comprovação de recebimento pelo devedor ou por terceiro.
+Ante o exposto, dou provimento ao recurso especial para autorizar o prosseguimento do feito na origem, diante da regular constituição em mora da parte devedora.
+Publique-se. Intimem-se.
+EMENTA
