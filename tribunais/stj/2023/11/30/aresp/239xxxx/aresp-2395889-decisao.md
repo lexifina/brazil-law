@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MÁRIO CÉZAR DE CAMARGO NETO contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 117):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Insurgência contra decisão que indeferiu pedido de liberação de penhora que recai sobre bem imóvel. Manutenção. Discussão sobre bem de família. Pendência de julgamento nos Tribunais Superiores. Necessidade do trânsito em julgado para confirmação da medida. Decisão mantida. Adoção do art. 252do RITJ. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 1.022, II, do Código de Processo Civil/2015 por ausência de saneamento dos vícios de omissão contidos no acórdão que julgou o recurso de agravo de instrumento.
+Aduz a negativa de vigência do art. 520, § 5º, CPC/2015, por não permitir o cumprimento, ainda que provisório, de decisão proferida pelo próprio Tribunal de Justiça de São Paulo que reconheceu tratar-se de bem de família aquele atingido por penhora, mantendo a constrição por não ter, tal decisão, transitado em julgado.
+O recurso especial não foi admitido em virtude da ausência de violação do art. 1.022 do CPC/2015 e do óbice da Súmula 7 do STJ.
+Neste agravo, o agravante impugnou os fundamentos da decisão agravada.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso está prejudicado.
+Consta, no sítio eletrônico do Tribunal de origem a homologação de acordo firmado entre as partes e a determinação levantamento da penhora sobre o imóvel objeto do presente recurso. Confira-se:
+Homologado o Acordo em Execução ou em Cumprimento de Sentença
+Vistos. Trata-se de ação de Cumprimento de Sentença, figurando como credores Carlos Eduardo Alves Fogaça e outros e como executados Mario Cesar de Camargo Neto, Jose Sanches Molina, Marcio Celso Barros Haddad, Maria Aparecida Bernardi Godoy Cezar de Camargo, Andre de Faria Pessoa, Espolio de Olavo Pinho Schimmelpfeng e Maria Helena Silveira Sanches, em que os credores e Mário César de Camargo Neto e sua mulher Maria Aparecida Bernardi Godoy Cezar de Camargo transigiram, conforme termo de acordo de fls. 4436/4440. Homologo o acordo de fls. 4436/4440, celebrado entre as partes e determino a suspensão da presente ação, nos termos do art. 922 do Código de Processo Civil, ficando suspensos os atos executivos até o depósito final das parcelas (16). Ficam mantidas as penhoras que recaíram sobre os imóveis matrículas nºs. 88.503, 88.504, 93.863 e 93.864 do 2º CRI de Sorocaba. Expeça-se MLE em favor dos credores referente ao depósito de fls. 2459, devendo os exequentes juntarem nos autos o respectivo formulário. Suspendo a realização das praças dos imóveis supra mencionados, comunicando-se, de imediato, a leiloeira. Levante-se a penhora que recaiu sobre o bem imóvel objeto da matrícula nº 30.077 do 2º CRI de Sorocaba, expedindo-se o respectivo mandado. Em caso de descumprimento do acordo, basta o interessado protocolar nestes mesmos autos, informando o ocorrido, apresentando cálculo discriminado e atualizado do saldo remanescente, requerendo o prosseguimento do feito. Aguarde-se, o integral cumprimento, que deverá ser oportunamente comunicado pelo credor para os devidos fins. O feito prosseguirá contra os demais executados. Intime-se (sem destaque no original).
+Assim, forçoso reconhecer a falta de interesse no julgamento do presente recurso que pretendia discutir o levantamento da penhora sobre o imóvel.
+Em face do exposto, nos termos do art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o recurso especial.
+Intimem-se.
+EMENTA
