@@ -1,0 +1,45 @@
+DECISÃO:
+
+    Vistos.
+
+    O Instituto de Ciências Criminais – IBCCRIM, e, em seguida, o Ministério Público do Estado de Santa Catarina vêm aos autos requerer a admissão no feito na qualidade de “amici curiae” (docs. 131 e 138).
+
+    A figura do “amicus curiae” representa meio de colaboração processual, em que terceiros, investidos de representatividade, intervêm no processo, para fornecerem subsídios, a fim de auxiliar a resolução de controvérsia dotada de relevância e repercussão, com o objetivo de pluralizar o debate constitucional e legitimar democraticamente a decisão judicial.
+
+    Nos termos do art. 138 do CPC, o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada.
+
+    O saudoso Ministro Teori Zavascki explica que a participação do colaborador “ocorre e se justifica, não como defensor de interesses próprios, mas como agente habilitado a agregar subsídios que possam contribuir para a qualificação da decisão a ser tomada pelo Tribunal” (ADI 3460 ED, Tribunal Pleno, DJe 11/3/2015) (grifo nosso).
+
+    Nesse sentido, denota-se que o fundamento para admitir o “amigo da corte” deve guardar pertinência direta com o benefício a ser agregado à decisão por meio de contribuição efetiva e idônea a formar a convicção dos julgadores. Como bem ressaltou o Min. Teori Zavascki, “a presença de amicus curiae no processo se dá, portanto, em benefício da jurisdição, não configurando, consequentemente, um direito subjetivo processual do interessado”.
+
+    Todavia, não basta a causa ser relevante. Para haver deferimento do pedido de ingresso no feito na qualidade de “amicus curiae”, além de ter representatividade, o terceiro deve demonstrar a utilidade da intervenção para a solução do dissídio constitucional, conforme ressaltou o eminente Ministro Celso de Mello, no seguinte excerto:
+
+    A intervenção do "amicus curiae", para legitimar-se, deve apoiar-se em razões que tornem desejável e útil a sua atuação processual na causa, em ordem a proporcionar meios que viabilizem uma adequada resolução do litígio constitucional. (ADI 2321 MC, Rel. Min. Celso de Mello, DJ de 10/6/05) (grifo nosso)
+
+    Para facilitar a análise dos pedidos de intervenção de “amicus curiae”, nos processos de controle concentrado ou nos casos de repercussão geral, o Min. Relator Teori Zavascki, no julgamento da ADI 3460 ED, elencou os requisitos a serem considerados pelo relator, assim dispostos:
+
+    (a) a relevância da matéria;
+
+    (b) a representatividade do postulante;
+
+    (c) a oportunidade (ADI 4071 AgR, Rel. Min. Menezes Direito, DJe de 16/10/09); e
+
+    (d) a utilidade das informações prestadas (ADI 2321 MC, Rel. Min. Celso de Mello, DJ de 10/6/05).
+
+    No caso, o IBCCRIM requer a admissão nos presentes autos na condição de “amicus curiae” sob o argumento de que com o advento da EC nº 115/2022, versando sobre o direito à proteção de dados, tem-se novo cenário jurídico, bem como a superveniência de norma constitucional de aplicação imediata a repercutir no deslinde da controvérsia.
+
+    A matéria de fundo da presente demanda trata de verificar a licitude de prova obtida mediante acesso, pela autoridade policial, a registro telefônico e agenda de contatos de celular encontrado na cena do delito, sem autorização judicial prévia.
+
+    Nesse contexto não há dúvida quanto à relevância da matéria, já que apresenta densidade constitucional elevada e extrapola o interesse subjetivo das partes. Tanto o é que a repercussão geral foi reconhecida (doc. 10).
+
+    Pelo exposto, atendidos os requisitos da relevância da matéria debatida e a representatividade dos postulantes, defiro o ingresso do Instituto de Ciências Criminais – IBCCRIM e do Ministério Público do Estado de Santa Catarina na qualidade de amici curiae.
+
+    Publique-se.
+
+    Brasília, 30 de novembro de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
