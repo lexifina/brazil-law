@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto pelo Estado da Bahia contra decisão que, ao negar seguimento ao recurso especial, entendeu que o acórdão recorrido encontra-se em consonância com o entendimento firmado nesta Corte Superior de Justiça sob os auspícios dos recursos repetitivos (REsp 1.101.726/SP).
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+No caso, verifica-se que publicada a decisão de fls. 402-404, que negou seguimento aos recursos especiais interpostos pelo Estado da Bahia e pelo DERBA - Departamento de Infra-estrutura de Transportes da Bahia, este último interpôs agravo dirigido a esta Corte, o qual não foi conhecido (fls. 452-453) e, certificado o trânsito em julgado, com a devolução dos autos à origem, determinou-se a devolução do prazo ao Estado da Bahia (fl. 505) para impugnação da decisão que inadmitiu o seu recurso especial, donde adveio o agravo sub examine (fls. 517-531).
+Feita essa digressão, registra-se que o presente agravo não merece ser conhecido.
+Com efeito, a Corte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Agravo de Instrumento 1.154.599-SP, Rel. Min. César Asfor Rocha, DJe 12/05/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto deve ser impugnado mediante interposição de agravo regimental junto à instância a quo.
+Ante do exposto, não conheço do agravo e, determino o retorno dos autos ao Tribunal de origem para que conheça do recurso de Agravo como Agravo interno/regimental e pronuncie-se sobre a pretensão recursal como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO DO TRIBUNAL A QUO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL COM FULCRO NO ART. 543-C, § 7º, I, DO CPC/1973. NÃO CABIMENTO (QO NO AG 1.154.599/SP). DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APRECIAÇÃO COMO AGRAVO INTERNO/REGIMENTAL. AGRAVO NÃO CONHECIDO.
