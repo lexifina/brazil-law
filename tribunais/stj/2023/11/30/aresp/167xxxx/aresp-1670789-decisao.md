@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 1ª Região que inadmitiu o recurso especial, em razão da incidência da Súmula 83/STJ.
+É o relatório.
+Passo a decidir.
+O presente recurso não merece ser conhecido, em virtude da ausência de impugnação específica ao fundamento da decisão agravada.
+O recurso especial foi inadmitido por incidir a Súmula 83/STJ, uma vez que o acórdão recorrido está em harmonia com "a jurisprudência do Superior Tribunal de Justiça, que entende pelo "não cabimento de indenização por perdas e danos em razão da ocupação irregular de imóvel funcional por serem inaplicáveis, na espécie, institutos do Direito Civil, pois cuidou o legislador de prever expressamente a sanção de multa aplicável ao ocupante irregular de imóvel funcional" (AgInt noAREsp 1209527/DF, Primeira Turma, Rel. Min. Sérgio Kukina, unânime, DJe 08/06/2018)." (e-STJ Fl. 269).
+Contudo, nas razões do agravo em recurso especial a União sustentou, genericamente, que o precedente citado no decisum não refletiria a jurisprudência pacífica do STJ. Além disso, alegou que o o referido julgado não seria aplicável ao caso concreto e que não foi exarado em em regime de recurso repetitivo. Por fim, asseverou que a decisão monocrática proferida no AgRg no AREsp 565503/RJ revelaria entendimento no sentido de suas alegações.
+Todavia, é cediço que inadmitido "o recurso especial com base na incidência da Súmula 83 do STJ, deve a parte recorrente apresentar acórdãos deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pa cificada" (AgInt no AREsp 2230065/ MA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/03/2023, DJe 17/03/2023 - g.n.)
+Nessa linha de intelecção, confiram-se:
+PROCESSUAL CIVIL. ERRO MATERIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. NÃO IMPUGNAÇÃO DA SÚMULA N. 83/STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS APENAS PARA CORRIGIR ERRO MATERIAL.
+1. Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão.
+2. No caso do acórdão embargado, houve erro material apenas no que concerne à indicação da súmula apontada como não impugnada.
+3. "Não basta, para afastar o óbice da Súmula 83 do STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ, com a indicação clara de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada" (STJ, AgInt no AREsp 1.685.430/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/11/2020).
+4. Embargos de declaração acolhidos sem efeitos infringentes apenas para corrigir erro material.
+(EDcl no AgInt no AREsp n. 2.012.766/DF, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023 - g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. DIVERGÊNCIA ENTRE A PRETENSÃO E A JURISPRUDÊNCIA. SÚMULA 83/STJ. ALEGAÇÃO DE QUE NÃO HÁ JURISPRUDÊNCIA FIRMADA. INCABÍVEL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, notadamente quanto à Súmula 83/STJ. Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial examinado por esta Corte Superior, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois, convém frisar, não é admitida impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo na espécie o enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial em razão da divergência entre a pretensão e a jurisprudência desta Corte Superior, incumbe à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Precedentes indicados pela parte sem manifestação sobre o mérito da controvérsia.
+7. Alegação de que não há jurisprudência firmada descabida porquanto há diversos precedentes que vão de encontro à pretensão da parte agravante.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.992.426/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 2/5/2022, DJe de 4/5/2022 - g.n.)
+Convém ressaltar, ainda, que, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada, isto é, as alegações genéricas aos fundamentos do decisum de inadmissão são insuficientes à impugnação.
+Veja-se o entendimento da Corte Especial deste Tribunal Superior quanto ao tema:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC. 5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018) - g.n.
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015, veja-se:
+"Art. 932. Incumbe ao relator: (..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+Assim sendo, o não conhecimento do recurso é medida que se impõe.
+Isso posto, não conheço do agravo em recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas (arts. 1.021, § 4º, e 1.026, § 2º, do CPC).
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INADMISSIBILIDADE DO AGRAVO. ART. 932, III, DO CPC.
+AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
