@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MILENA DOS SANTOS RESENDE contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento do HC n. 2153865-09.2023.8.26.0000.
+Consta dos autos que a prisão preventiva da Paciente foi decretada em 12/05/2023, após representação da Autoridade Policial, pela suposta prática do delito previsto no art. 171, §2.º-A, do Código Penal, em razão da "periculosidade dos acusados diante da prática criminosa que lhes é imputada, já que se uniram para a prática de estelionato qualificado pela fraude eletrônica, modalidade mais gravosa do crime de estelionato em razão possibilidade de atingimento de um número imensurável de vítimas." (fl. 26).
+A Defesa impetrou prévio habeas corpus perante a Corte estadual, que denegou a ordem (fls. 28-41).
+Neste writ, o Impetrante alega, em suma, ausência de fundamentação idônea e dos requisitos autorizadores da segregação cautelar previstos no art. 312 do Código de Processo Penal.
+Salienta as condições favoráveis da Acusada, aduzindo ser possível a substituição da custódia por medidas menos gravosas.
+Defende que faz jus à prisão domiciliar, pois é mãe de duas crianças menores de 12 (doze) anos .
+Requer, em liminar e no mérito, a revogação da prisão cautelar do Paciente, ainda que mediante aplicação de medidas cautelares diversas. Subsidiariamente, a concessão de prisão domiciliar nos termos do art. 318, inciso V, do Código de Processo Penal.
+É o relatório. Decido .
+Consoante informações colhidas no endereço eletrônico do Tribunal de origem, verifica-se que, em 03/08/2023, nos autos da Ação Penal n. 1509064-04.2023.8.26.0050, foi concedida liberdade provisória a Ré MILENA DOS SANTOS RESENDE, in verbis:
+" ..  CONCEDO liberdade provisória as rés subordinada, porém, à fiel observância das seguintes medidas cautelares: a) comparecimento mensal em Juízo para informar e justificar suas atividades; b)obrigação de manter o endereço atualizado junto à Vara competente (informando imediatamente eventual alteração); c) proibição de ausentar-se da Comarca de residência por mais de oito dias sem prévia comunicação ao Juízo; d) recolhimento domiciliar no período noturno (das 22 horas às 6 horas) e nos dias de folga, sob pena de revogação do benefício e imediato recolhimento à prisão (CPP, arts. 310 e 319); e ainda, como condição para a liberação, e) prestação de FIANÇA que arbitro em R$ 10.000,00 para cada autor (CPP, art.325, II, e § 1º, II), devendo ser observadas também as condições estabelecidas nos artigos 327 e 328 do Código de Processo Penal. 6. Após recolhida a fiança, EXPEÇA-SE alvará de soltura clausulado com relação as ré Juliana e Karina e Contramandado de prisão contra a ré Milena, posto que sua prisão preventiva ainda não foi cumprida."
+Desse modo, evidencia-se a perda superveniente do interesse do presente habeas corpus.
+Ante o exposto, JULGO PREJUDICADA a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ESTELIONATO. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. PRISÃO DOMICILIAR. ART. 318 DO CPP. SUPERVENIENTE CONCESSÃO DE LIBERDADE PROVISÓRIA. EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO. PERDA DE INTERESSE PROCESSUAL. ORDEM PREJUDICADA.
