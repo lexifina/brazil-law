@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto pela UNIÃO contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial em razão de haver violação de lei federal meramente indireta e reflexa e e de faltar prequestionamento (Súmula 211/STJ).
+A parte agravante defende, em síntese: (a) a desnecessidade de se analisar normas infralegais ou reexaminar fatos e provas para reconhecer a violação direta aos arts. 1º do Decreto 20.910/1932 e 191, c/c o art. 202, ambos do Código Civil; (b) existência de prequestionamento de toda a matéria.
+É o relatório.
+Diante das alegações da parte ora agravante, reconsidero a decisão agravada e passo ao reexame do recurso especial.
+A questão debatida nos autos, qual seja, a "definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.109/STJ), dos Recursos Especiais 1.925.192/RS, 1.925.193/RS e 1.928.910/RS, de relatoria do Ministro Sérgio Kukina (DJe de 20/10/2021).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, reconsiderando a decisão de fls. 287/292, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
