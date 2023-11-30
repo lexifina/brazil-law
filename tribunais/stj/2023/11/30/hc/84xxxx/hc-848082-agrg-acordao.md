@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, Daniela Teixeira, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. TESTEMUNHA QUE PRESENCIOU O RELATO DA VÍTIMA. TESTEMUNHO INDIRETO E DE OUVIR DIZER AFASTADO. TESTEMUNHO DIRETO DO RELATO DA VÍTIMA. INDÍCIOS SUFICIENTE DE AUTORIA. DECISÃO DE PRONÚNCIA. MANUTENÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que os testemunhos indiretos não autorizam a pronúncia, por serem considerados de "ouvir dizer". Contudo, no caso dos autos, o testemunho direto, prestado em juízo, em que se relata o testemunho prestado pela vítima, permite a decisão de pronúncia, por atestar a presença de indícios suficientes de autoria.
+2. Não há falar em testemunho indireto, tendo em vista que a testemunha relata o depoimento da vítima, a qual apontou, na fase inquisitorial, o ora agravante como sendo o autor do delito, tendo relatado com riquezas de detalhes a sua conduta.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão em que não conheci do habeas corpus, mantendo a decisão de pronúncia do agravante.
+A defesa sustenta a inidoneidade do depoimento de testemunha, alegando que a decisão de pronúncia restou embasada em testemunho indireto (ouvir dizer).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. TESTEMUNHA QUE PRESENCIOU O RELATO DA VÍTIMA. TESTEMUNHO INDIRETO E DE OUVIR DIZER AFASTADO. TESTEMUNHO DIRETO DO RELATO DA VÍTIMA. INDÍCIOS SUFICIENTE DE AUTORIA. DECISÃO DE PRONÚNCIA. MANUTENÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que os testemunhos indiretos não autorizam a pronúncia, por serem considerados de "ouvir dizer". Contudo, no caso dos autos, o testemunho direto, prestado em juízo, em que se relata o testemunho prestado pela vítima, permite a decisão de pronúncia, por atestar a presença de indícios suficientes de autoria.
+2. Não há falar em testemunho indireto, tendo em vista que a testemunha relata o depoimento da vítima, a qual apontou, na fase inquisitorial, o ora agravante como sendo o autor do delito, tendo relatado com riquezas de detalhes a sua conduta.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+O Tribunal de origem manteve a decisão de pronúncia do acusado, mediante seguinte fundamentação:
+"Por outro lado, a vítima, em juízo, alterou a versão dos fatos, dizendo que não fora o ora recorrente o autor do delito, tendo informado, ainda, que está custodiado juntamente ao referido acusado (depoimento de fls. 209 e mídia de fls. 213).
+Tal fato pode ser justificado pelo receio de represálias, decorrendo, igualmente, como bem salientado pela magistrada sentenciante, pelo "habitual temor das vítimas sobreviventes, principalmente as que encontram-se no sistema prisional, que acabam expostas à repreensão e eventuais ameaças dos autores de crimes de homicídio que são cometidos no contexto da narcotraficância".
+Por sua vez, a testemunha policial civil Antônio Celso Lourenço da Costa, sob o crivo do contraditório, confirmou os fatos narrados pelo ofendido na esfera policial, informando que estava presente no segundo depoimento da vítima, ocasião na qual apontou o recorrente como autor dos disparos que o atingiram, acrescentando, ainda, que o referido réu teria sido o responsável, também, por outro homicídio (depoimento de fls. 210 e mídia de fls. 213).
+Verifica-se, portanto, que não se trata de hipótese na qual a pronúncia decorreu simplesmente de indícios coligidos exclusivamente em sede policial, vedada pelo art. 155 do Código de Processo Penal, porquanto corroborada por provas coligidas perante contraditório judicial." (fl. 13)
+A jurisprudência desta Corte é firme no sentido de que os testemunhos indiretos não autorizam a pronúncia, por serem considerados de "ouvir dizer". Contudo, no caso dos autos, o testemunho direto, prestado em juízo, em que se relata a confissão do acusado, permite a decisão de pronúncia, por atestar a presença de indícios suficientes de autoria. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE AÇÃO REVISIONAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. HIPÓTESE DE RECONHECIMENTO DE CONSTRANGIMENTO ILEGAL DE OFÍCIO NÃO CONFIGURADA. PROVAS DA MATERIALIDADE E DE INDÍCIOS SUFICIENTES DE AUTORIA QUE NÃO PODEM SER CONSIDERADAS, AO MENOS NESTE FEITO, INIDÔNEAS. PEDIDO DE REDUÇÃO DA PENA-BASE. MATÉRIA NÃO VENTILADA NO RECURSO DE APELAÇÃO DEFENSIVO. EFEITO DEVOLUTIVO DA APELAÇÃO CRIMINAL LIMITADO PELA PRETENSÃO DEDUZIDA NAS RAZÕES RECURSAIS OU NAS CONTRARRAZÕES. PRECLUSÃO NA ORIGEM, NESSA PARTE. IMPOSSIBILIDADE DESTA CORTE EXAMINAR A CONTROVÉRSIA PER SALTUM, AINDA QUE SE TRATE, EVENTUALMENTE, DE QUESTÃO DE ORDEM PÚBLICA. PRETENDIDA CONCESSÃO DA ORDEM EX OFFICIO. PROVIDÊNCIA QUE NÃO PODE SERVIR PARA ULTRAPASSAR A INADMISSIBILIDADE DA VIA ELEITA. AGRAVO DESPROVIDO.
+ ..
+5. É certo que o juízo positivo de admissibilidade da inicial acusatória não pode lastrear-se exclusivamente em elementos de provas colhidas na fase investigativa ou em testemunhos "por ouvir dizer" (muito embora, no Brasil, não exista impedimento legal para este tipo de depoimento - hearsay testimony).
+6. No caso, todavia, o Magistrado Singular, além de firmar seu Juízo em levantamento fotográfico e no auto de necropsia, também concluiu haver elementos suficientes de autoria em razão de testemunha que depôs em juízo, a quem a participação na conduta foi confessada pelo próprio Recorrente (ou seja, não é alguém que repete a vox publica, isto é, não se trata de testemunha que sabe por intermédio de outrem, por ter ouvido terceiro narrando ou contando o fato).
+7. Assim, não há como afastar a conclusão da origem sobre os indícios de autoria - notadamente na presente via, inadequada, em que a inicial foi impetrada antes do ajuizamento de revisão criminal no Tribunal a quo - pois os elementos probatórios indicados pelo Julgador Singular parecem estabelecer, legitimamente, um liame entre o Acusado e a conduta pela qual foi condenado.
+ ..
+11. Agravo regimental desprovido.
+(AgRg no HC n. 690.646/RS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 16/12/2021).
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE HOMICÍDIO. TESTEMUNHA QUE PRESENCIOU A CONFISSÃO DO ACUSADO. TESTEMUNHO INDIRETO E DE OUVIR DIZER RECHAÇADO. TESTEMUNHO DIRETO DA CONFISSÃO DO ACUSADO. INDÍCIOS SUFICIENTE DE AUTORIA. DECISÃO DE PRONÚNCIA. MANUTENÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que os testemunhos indiretos não autorizam a pronúncia, por serem considerados de "ouvir dizer". Contudo, no caso dos autos, o testemunho direto, prestado em juízo, em que se relata a confissão do acusado, permite a decisão de pronúncia, por atestar a presença de indícios suficientes de autoria.
+2. Não há falar em testemunho indireto, tendo em vista que a referida testemunha presenciou o próprio acusado confessar a prática criminosa. Assim, o relato da testemunha Luiz Fernando Correa não se trata de declaração de ouvir dizer, mas de testemunho direto da confissão do próprio acusado.
+3. Destaca-se, ainda, que a prova testemunhal, mesmo que indireta em relação aos fatos, possui validade e relevância na formação do convencimento judicial, quando corroborada por outros elementos probatórios, como ocorre no caso dos autos.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AgRg no AREsp n. 2.275.215/PR, de minha relatoria, Quinta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+Verifica-se que a testemunha Antônio Celso Lourenço da Costa relata o depoimento da vítima, a qual apontou, na fase inquisitorial, o ora agravante como sendo o autor do delito, tendo relatado com riquezas de detalhes a sua conduta.
+Nesse contexto, não há falar em testemunho indireto, tendo em vista que a referida testemunha presenciou o depoimento da vítima. Assim, o relato da referida testemunha não se trata de declaração de "ouvir dizer" de terceiro não identificado, mas de testemunho direto da oitiva da vítima.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
