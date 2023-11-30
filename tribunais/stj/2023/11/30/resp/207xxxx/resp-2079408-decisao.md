@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNTERS BRASIL INDÚSTRIA E COMÉRCIO LTDA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO. CIDE-REMESSA OU CIDE-ROYALTIES. LEI 10.168/00. VÍCIOS FORMAIS OU MATERIAIS. INEXISTÊNCIA. CONSTITUCIONALIDADE. ACORDOS MULTILATERAIS. NÃO PREPONDERÂNCIA SOBRE REGRACONSTITUCIONAL. ART. 149, § 2º, II, DA CONSTITUIÇÃO FEDERAL.
+Opostos embargos de declaração, foram acolhidos para sanar omissão.
+A parte recorrente alega violação dos arts. 96 e 98 do Código Tributário Nacional - CTN, sustentando, em síntese (fls. 593/619):
+No regular desempenho de suas atividades, a Recorrente comprovou que contrata serviços técnicos, administrativos e de TI com empresas sediadas no exterior, inclusive com outras empresas do Grupo, tais como as que estão estabelecidas na Suécia (Munters AB e Munters Europe AB), Itália (Munters Italy S. P. A.) e Estados Unidos da America (Munters Corporation).À luz dos mencionados dispositivos contratuais, a Recorrente remete numerários ao exterior, por meio de operações de câmbio perante instituições financeiras autorizadas pelo Banco Central do Brasil, como contraprestação pelos serviços. Nesse contexto, configura-se sobre tais remessas a exigência da CIDE, Contribuição de Intervenção no Domínio Econômico atualmente devida nas hipóteses do art. 2º da Lei nº10.168/00, com a redação dada pela Lei nº 10.332/01  ..  Ocorre que o "Acordo Geral de Tarifas e Comércio" (GATT), o "Acordo Geral sobre o Comércio de Serviços" (GATS) e o "Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual relacionados ao Comércio" (TRIPS) mitigam a incidência da CIDE nas remessas para pessoas jurídicas sediadas em Estados signatários dos referidos Acordos  ..  Os arts. 96 e 98 do CTN expressamente admitem a incorporação dos tratados internacionais ao ordenamento jurídico no que tange às questões tributárias, podendo ainda revogar ou alterar as normas internas, nos seguintes termos.
+Com contrarrazões da parte recorrida, o recurso foi admitido na origem.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+O acórdão do TRF4 se apoia em interpretação do art. 149, § 2º, inc. II, da Constituição Federal, segundo o qual as contribuições sociais e de intervenção no domínio econômico incidirão também sobre a importação de produtos estrangeiros ou serviços.
+No contexto, o recurso especial não é via adequada à impugnação do acórdão recorrido, nos termos do art. 105, inc. III, da Constituição Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. INADEQUAÇÃO DA VIA RECURSAL. RECURSO NÃO CONHECIDO.
