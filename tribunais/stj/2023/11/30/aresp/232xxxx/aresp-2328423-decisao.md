@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por CONDOMÍNIO CASTELO DE WINDSOR contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 972):
+Agravo de Instrumento. Despesas Condominiais. Ação de Execução de Titulo Extrajudicial. Decisão agravada rejeitou Exceção de Pré-Executividade deduzida pela agravante. Reforma necessária. Com efeito, restou demonstrado nos autos que o agravado não dispõe de título líquido e certo. Realmente, conquanto o dispositivo contido no art. 784, inc. X, do CPC, admita a propositura de ação de execução de título extrajudicial fundada em despesas condominiais, é bem de ver que o respectivo título deve apresentar os requisitos da certeza, liquidez e exigibilidade. In casu, todavia, não há que se falar em título líquido, certo e exigível. De fato, a ata de assembleia exibida nos autos de origem não comprova a origem do débito cobrado nos autos da execução de título extrajudicial. Realmente, na ata juntada com a petição inicial, somente consta aprovação da prestação de contas dos anos de 2016 a 2017, além da aprovação da previsão orçamentária do ano de 2018, dentre outros assuntos. Em suma, não constam os valores cobrados nesta demanda, o que não pode ser suprido com os boletos juntados aos autos, ou mesmo pela convenção de condomínio. Em outras palavras, a ata carreada aos autos não dá conta da aprovação das despesas ordinárias que estão sendo cobradas em sede de execução. É ônus do Condomínio a devida apresentação do título executivo extrajudicial, sem o qual não se legitima a ação de execução. Destarte, por não demonstrada a efetiva liquidez do débito objeto de execução, de rigor a reforma a r. decisão impugnada, para acolher a exceção de pré-executividade arguida pela recorrente, declarando nula a execução, por ausência de liquidez e certeza do título extrajudicial, lembrando que a questão envolve matéria de ordem pública. Via de consequência, julga-se extinta a execução, fundamentado nos arts. 784, inc. X c. c. o art. 803, inc. I e art. 485, inc. IV, todos do NCPC. Recurso provido.
+Na origem, cuida-se de agravo de instrumento interposto contra decisão que, nos autos da execução de título extrajudicial, rejeitou a exceção de pré-executividade da ora agravada.
+Rejeitados os embargos de declaração opostos (fls. 1.010-1.021).
+No recurso especial, a recorrente alega que o acórdão contrariou as disposições contidas no art. 784, X, do CPC. Aduz, em síntese, que os documentos constantes dos autos preenchem os requisitos legais para fins de legitimar a execução extrajudicial das cotas condominiais em atraso.
+Não foram oferecidas contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.054-1.056), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+À luz do acervo fático dos autos, o Tribunal conclui que os documentos apresentados pela recorrente não amparavam a execução das cotas condominiais, pois "não há que se falar  ..  em liquidez e certeza do título", conclusão amparada nos seguintes fundamentos (fls. 977-978):
+Como se vê, muito embora a lei admita a propositura de ação de execução de título extrajudicial fundada em despesas condominiais, é bem de ver que o respectivo título deve apresentar os requisitos da certeza, liquidez e exigibilidade.
+No caso em tela, contudo, não há que se falar, por ora, em liquidez e certeza do título.
+De fato, a ata de assembleia exibida a fls. 11/16, autos de origem não comprova a origem do débito cobrado nos autos da execução de título extrajudicial.
+Com efeito, a petição inicial da execução afirma que o débito cobrado refere-se às prestações condominiais vencidas nos meses de agosto/2015 a dezembro/2015; abril e maio/2016; julho/2016 a setembro/2019, além das vincendas, totalizando a quantia de R$ 28.920,60 petição inicial e planilha de cálculo a fls. 01/09, autos de origem.
+Sucede, porém, que a ata de assembleia anexada aos autos não permite aferir a exatidão dessas cifras. Os valores lá indicados não correspondem ao débito cobrado pelo condomínio.
+Realmente, na ata juntada com a petição inicial, somente consta aprovação da prestação de contas dos anos de 2016 a 2017, além da aprovação da previsão orçamentária do ano de 2018, dentre outros assuntos.
+Em suma, não constam os valores cobrados nesta demanda, o que não pode ser suprido com os boletos juntados aos autos (fls. 125/seguintes), ou mesmo pela convenção de condomínio juntada a fls. 217/250, autos de origem.
+Em outras palavras, a ata carreada aos autos não dá conta da aprovação das despesas ordinárias que estão sendo cobradas em sede de execução.
+Sucede, porém, que como demonstrado a execução de verbas condominiais exige, como dá conta o texto legal, a apresentação da ata, não qual as contribuições executadas tenham sido fixadas.
+Outrossim, é ônus do Condomínio a devida apresentação do título executivo extrajudicial, sem o qual não se legitima a ação de execução.
+Neste contexto, para modificar a conclusão do acórdão recorrido, seria necessário o reexame do contexto fático-probatório dos autos, o que é vedado, em recurso especial, ante a incidência da Súmula n. 7/STJ.
+Nesse sentido, cito:
+3. Modificar o entendimento do Tribunal local (acerca da presença dos requisitos de exigibilidade e liquidez do título executivo) não prescindiria do reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo o caso, também, de revaloração da prova.
+(AgInt no AREsp n. 2.223.652/RO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/3/2023.)
+6. A análise dos fundamentos que ensejaram o reconhecimento da liquidez, certeza e exigibilidade do título que embasa a execução exige o reexame fático-probatório dos autos, inviável por esta via especial ante o óbice da Súmula 7 desta Corte.
+(AgInt no AREsp n. 1.410.328/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 24/5/2022.)
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+6. No caso, a reforma do acórdão recorrido, que concluiu pela validade do título executivo, bem como pela ausência de prova do pagamento da obrigação, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+(AgInt no REsp n. 1.879.353/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que o acórdão, marco fixador da verba honorária, foi publicado já na vigência do nov o CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
