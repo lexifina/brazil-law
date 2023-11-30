@@ -1,0 +1,10 @@
+DECISÃO
+Às fls. 194-196 (e-STJ), a peticionante, RULYANNE ARAÚJO DOS SANTOS, afirma que esta Corte Superior admitiu como representativos de controvérsia os recursos especiais interpostos nos processos n. 0801484-45.2018.8.15.0211, 0801598-17.2020.4.05.8103, 0800290-91.2021.4.05.8302 e 0801113-66.2019.4.05.8001 e 8000041-61.2016.8.05.0127, envolvendo o debate acerca da "aplicabilidade - ou não - da prescrição prevista no art. 1º do Decreto 20.910/32 quando decorridos mais de 5 anos entre o indeferimento do ato de concessão do benefício previdenciário e o ajuizamento da ação".
+Requer, ao final, a reconsideração dos julgamentos realizados nos autos e a determinação do sobrestamento do feito até a apreciação dos aludidos recursos representativos de controvérsia.
+Contudo, constata-se que, na espécie, o agravo em recurso especial e o agravo interno interpostos pela ora peticionante não foram conhecidos, em virtude da ofensa ao princípio da dialeticidade recursal, e os embargos de declaração subsequentes foram rejeitados, de modo que nem sequer houve a abertura desta instância para o exame do mérito do recurso especial.
+Por conseguinte, revela-se descabido o pleiteado sobrestamento do processo, pois o julgamento dos mencionados recursos representativos de controvérsia não teria o condão de influenciar na apreciação dos recursos manejados pela parte perante esta Corte Superior.
+Destarte, nada há para ser deferido ou reconsiderado, mantendo-se incólume o teor dos julgados de fls. 133-136, 160-165 e 183-187 (e-STJ).
+Isso posto, determino a remessa dos autos à Coordenadoria da Segunda Turma para que se certifique o trânsito em julgado do acórdão, realizando-se as demais providências cabíveis.
+Advirta-se à parte quanto à possibilidade de aplicação das penalidades cabíveis caso seja oposta resistência injustificada ao andamento do processo ou seja identificado intuito manifestamente protelatório, nos termos do que dispõem os artigos 79, 80 e 81 do Código de Processo Civil de 2015.
+Intimem-se.
+EMENTA
