@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO FELIPE DIAS MARTINS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se, dos autos que o Paciente teve a prisão cautelar decretada pela prática do delito de tentativa de latrocínio. Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve a prisão preventiva, consignando que existem elementos hábeis a recomendar a constrição cautelar:
+"No mais, o crime irrogado ao paciente é falta de extrema gravidade, geradora do desassossego, além de sugerir periculosidade singular. Compromete, pois, a ordem pública, de sorte que, também nesse aspecto, e concebidos os limites de cognição, a custódia cautelar não se reveste das características próprias do constrangimento ilegal.
+Não bastasse, o paciente é reincidente, conforme retrata o dossiê acostado às fls. 249/252, a indicar esteja arraigado no mundo profano" fl. 303.
+Neste writ, alega a Defesa a ocorrência de reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para prisão preventiva do Paciente.
+Aduz que:
+"trata-se de investigado com 22 anos de idade, que possui residência fixa, inclusive, em bairro muito distante do Conjunto Habitacional CDHU, com família consolidada e Patrona constituída nos autos. Ainda, possui emprego lícito, o que será comprovado mediante declaração que será acostada nos autos " (fl. 18);
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Informações prestadas, às fls. 313-347 e 350-358. O Ministério Público Federal, às fls. 360-361, manifestou-se pela denegação da ordem. Confira-se a ementa do parecer:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. LATROCÍNIO TENTADO. PRISÃO PREVENTIVA DECRETADA PARA GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA AÇÃO PENAL E APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. RISCO DE REITERAÇÃO. MODUS O PERANDI. REINCIDENTE. RISCO DE INTIMIDAÇÃO DE TESTEMUNHAS. CONTEMPORANEIDADE DO DECRETO PRISIONAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO OU, SUPERADA A PRELIMINAR, DENEGAÇÃO DA ORDEM." (fl. 360).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o modus operandi da conduta, consistente em tentativa de latrocínio; haja vista que ele supostamente teria concorrido para empreitada criminosa na qual houve a subtração de pertences da vítima, que foi agredida com voadora nas costas, mata lesão e chutes, caindo ao solo, não resultando em morte por circunstâncias alheias à vontade do agente; não se olvidando o fundado receio de reiteração criminosa, na medida em que o Paciente ostenta reincidência.
+Tais circunstâncias evidenciam a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar imposta para a garantia da ordem pública.
+Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019-grifei).
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relº . Minº. João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, relº. Minº. Ribeiro Dantas, DJe de 24/3/2023)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
