@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADRIALDO BERTO ELIAS e GREICE CONTER MARQUES ELIAS (ADRIALDO e GREICE) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ fls. 804/811).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea "a", da CF, ADRIALDO e GREICE alegaram a violação da Súmula 308 do STJ, dos arts. 11, 141, 485, VI, 489, II, §1º, IV e VI, 492, 927, IV, 1.022, 1.025 do CPC e 1.215, 1.417 e 1.418 do CC, ao sustentarem (1) omissão no acórdão recorrido; e, (2) que a extinção da ação de obrigação de fazer em relação ao BANRISUL não foi correta, tendo em vista que nem ele e nem as CONSTRUTORAS levantaram as hipotecas que recaiam sob seus imóveis.
+(1) Da negativa de prestação jurisdicional (violação do art. 11, 141, 489, II,§1º, IV e VI, 492, 1.022, e 1.025 do CPC)
+Nas razões do seu recurso, ADRIALDO e GREICE alegaram a violação dos arts. 11, 489, II e § 1º, IV e VI, 1.022 e 1.025, do CPC, em virtude da não apreciação pelo Tribunal estadual da necessária ordem de cancelamento das hipotecas gravadas pelo Banco agravado nos imóveis, e equívoco na consideração de que foi apresentada a documentação necessária para amparar a obrigação de fazer.
+Contudo, verifica-se que o TJRS se pronunciou sobre as teses necessárias para a completa solução da lide, observando as provas produzidas nos autos e o contrato firmado entre as partes, definindo ser correta a extinção do feito em relação ao BANRISUL porque ele trouxe a documentação necessária ao levantamento do gravame antes mesmo da sentença (e-STJ fl. 630).
+Além disso, o acórdão recorrido impôs o dever de escrituração para ambas as construtoras, bem como as condenou ao pagamento da multa prevista no contrato pelo atraso na entrega dos imóveis, além de R$ 8.000,00 (oito mil reais) a cada recorrente a título de indenização por dano moral.
+Assim, inexistem os vícios elencados nos arts. 11, 141, 489, 492, 1.022 e 1.025 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, a alegada negativa de prestação jurisdicional.
+(2) Do levantamento das hipotecas
+Por fim, ADRIALDO e GREICE aduziram em suas razões recursais que, apesar da quitação do preço, diante das hipotecas gravadas sobre os imóveis que adquiriram a partir de um contrato firmado entre o Banco do Estado do Rio Grande do Sul e as demais construtoras recorridas, foi necessário o ajuizamento da presente demanda para que fosse determinado o cancelamento desses gravames (e-STJ fl. 726).
+Defenderam que a entrega de um requerimento solicitando liberação dos gravames à construtora corré não se equipara ao cumprimento da necessária liberação, e que a Súmula 308 do STJ não foi observada pelo TJRS.
+Sobre o tema, como já referido, o TJRS consignou a correção da exclusão do BANRISUL por ter cumprido sua parte no contratado quanto ao levantamento do gravame (e-STJ fl. 630).
+Assim, rever essa conclusão do aresto impugnado, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, o que é vedado em razão do óbice das Súmulas nº 5 e 7 do STJ.
+Ademais, o acórdão recorrido também acrescentou ser impositiva a obrigação de escrituração para ambas as empresas, visto que efetivamente se constituem grupo econômico, mormente porque o comando da sentença poderia tornar inócua a prestação, pois enquanto uma empresa figura no registro, outra é que firmou o contrato (e-STJ fl. 630).
+Nesse contexto, verifica-se que os fundamentos do aresto impugnado referentes aos fatos de que, na hipótese, (i) a obrigação da escrituração requerida é das construtoras recorridas por se constituírem um grupo econômico; e, (ii) a imposição desse dever somente a elas não torna o comando da sentença inócuo, aptos a manter a conclusão do acordão recorrido, não foram impugnados pelos agravantes, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Por sua vez, a violação da Súmula 308 do STJ não merece conhecimento, eis que não se enquadra no conceito de lei federal para os fins do art. 105, III, a, da CF, conforme dispõe a Súmula nº 518 desta Corte.
+Nesse sentido: AgInt no AREsp n. 2.176.348/CE, Relator Ministro João Otávio de Noronha, 4ª Turma, DJe de 26/4/2023; e, AgInt no AgInt no AREsp n. 2.225.058/MT, Relator Ministro Marco Aurélio Bellizze, 3ª Turma, DJe de 10/4/2023.
+Logo, o recurso não merece conhecimento quanto ao tema em razão da incidência das Súmulas nºs 5, 7 e 518 do STJ, bem como da 283 do STF, por analogia.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e a ele NEGAR PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de ADRIALDO e GREICE , limitados a 20% nos termos do art. 85, § 11, do CPC, e observada a justiça gratuita concedida nos autos.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. ADJUDICAÇÃO COMPULSÓRIA E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REEXAME DE FATOS E PROVAS. INTER PRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS Nº 5 E 7 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. SÚMULA N.º 518 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
