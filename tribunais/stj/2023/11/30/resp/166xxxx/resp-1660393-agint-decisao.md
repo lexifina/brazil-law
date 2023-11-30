@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo SINDICATO DOS POLICIAIS RODOVIARIOS FEDERAIS NO ESTADO DO CEARA contra a decisão de relatoria do Ministro Napoleão Nunes Maia Filho de fls. 260/266.
+O recurso especial foi interposto, com fundamento no art. art.  105,  inciso III,  alínea a,  da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 167/171):
+CONSTITUCIONAL E ADMINISTRATIVO. AUXÍLIO PRÉ-ESCOLAR (CRECHE). POLICIAIS RODOVIÁRIOSFEDERAIS. EQUIVALÊNCIA REMUNERATÓRIA COM OS FUNCIONÁRIOS DO TRIBUNAL DE CONTAS DA UNIÃO -TCU. IMPOSSIBILIDADE. ART. 37, XIII DA CF/88. SÚMULA 339 DO STF. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. APELAÇÃO PARCIALMENTE PROVIDA.
+1. Trata-se de apelação Cível em face de sentença, que julgou improcedente o pedido autoral, consistente na majoração do auxílio pré-escolar, tomando como paradigma o montante percebido pelos servidores do Tribunal de Contas da União - TCU.
+2. O fato de os autores (servidores, ora substituídos pelo Sindicato dos Policiais Rodoviários Federais do Ceará) e os servidores tomados como paradigma (servidores do Tribunal de Contas da União) ocuparem cargos diversos configura impedimento para a invocação do princípio da isonomia.
+3. Embora o auxílio pré-escolar tenha natureza indenizatória, a competência para modificar tais parâmetros é do Poder Executivo, já que, além de custear a vantagem na espécie, dispõe do poder de estabelecer o regime remuneratório de seu corpo de pessoal, especialmente em se tratando de majoração do valor do auxílio pré-escolar, benefício definido por critérios variados que levam em consideração as especificidades de cada caso, nos termos do Decreto 977/93.
+4. Não pode o Poder Judiciário, que não tem função legislativa, modificar os parâmetros em detrimento da conveniência da Administração Pública, sob o fundamento de isonomia (Súmula nº 339 do STF), principalmente quando a equiparação requerida implica em verdadeiro aumento de vencimentos, que só pode ser majorado por meio de lei específica.
+5. Precedente do STJ e deste Tribunal Regional: STJ, AgRg no REsp 1.460.803/PE, Rel. Ministro HUMBERTOMARTINS, SEGUNDA TURMA, julgado em 16/12/2014, DJe 19/12/2014; AgRg no REsp 1.325.113/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 8/10/2013, DJe 11/10/2013; TRF5, Processo08029535420144058400, Rel Des. Federal EDÍLSON NOBRE, Data do julgamento 05.05.2015.
+6. Redução do valor a ser pago a título de honorários antes fixado em R$ 3.000,00 para R$ 1.000,00.
+7. Apelação parcialmente provida (fls. 170/171).
+Em seu recurso especial, aponta violação ao art. 41, §4º da Lei 8.112/1990 c/c Decreto 977/1993. Sustenta que (i) "o cerne da questão reside no fato de que o pagamento a título de auxilio pré-escolar recebido pela categoria dos Policiais Rodoviários Federais deve ser equiparado ao valor recebido pelos servidores do Tribunal de Contas da União, tendo em vista que também são servidores públicos federais, todavia, recebem valores bem inferiores a título de Auxílio Pré-escolar, em clara violação ao principio da isonomia, e ao Decreto 977/1993" (fl. 181) e que (ii) "o regime jurídico dos servidores do e do Departamento de Polícia Rodoviária TRIBUNAL DE CONTAS DA UNIÃO Federal é o mesmo, conforme explicitado nos artigos 1º e 41, § 4º da Lei 8.112/90, o qual assegura a isonomia de vencimentos para cargos de atribuições iguais ou assemelhadas do mesmo Poder, ou entre servidores dos Três Poderes, ressalvadas as vantagens de caráter individual e às relativas à natureza ou ao local de trabalho" (fl. 183).
+A parte adversa apresentou impugnação (fls. 238/245).
+O recurso foi admitido.
+Às fls. 260/266, o Ministro Napoleão Nunes Maia Filho negou provimento ao recurso especial do ora agravante sob o fundamento de que o acórdão recorrido estaria "em consonância com a jurisprudência desta Corte Superior cujo o entendimento é no sentido de não ser possível a majoração do valor do auxílio pré-escolar pago aos servidores públicos por decisão judicial, sob o fundamento do princípio constitucional da isonomia, consoante a Súmula 339 do STF" (fl. 262).
+Contra a decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente sustenta que "não se busca com a presente ação a majoração pelo judiciário do valor do auxílio pré-escolar pago aos servidores públicos, mas sim a equiparação ao valor recebido pelos servidores do Tribunal de Contas da União, tendo em vista que também são servidores públicos federais, em clara violação ao princípio da isonomia e ao Decreto 977/1993" (fl. 300).
+Contrarrazões às fls. 313/319.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo a novo exame do recurso especial.
+Inicialmente, destaco que o pleito autoral é a equiparação do valor pago aos policias rodoviários federais a título de auxílio creche com os valores recebidos pelos servidores do Tribunal de Contas da União em observância ao princípio da isonomia.
+Assim, a questão posta nos autos tem natureza eminentemente constitucional uma vez que está baseada no princípio da isonomia, o que impede o conhecimento da matéria por esta Corte Superior sob pena de usurpar a competência do Supremo Tribunal Federal (STF).
+Nesse sentido:
+PROCESSUAL CIVIL E AMBIENTAL. USO DE AGROTÓXICOS. RESTRIÇÃO IMPOSTA EM LEGISLAÇÃO ESTADUAL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. EXAME NA VIA ESPECIAL. IMPOSSIBILIDADE.
+1. É entendimento assente no STJ que, examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF.
+ ..
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.214.152/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CAUSA DECIDIDA PELO TRIBUNAL A QUO COM FUNDAMENTOS DE CUNHO CONSTITUCIONAL. DISTINGUISHING. JUÍZO FIRMADO COM LASTRO NO SUPORTE FÁTICO. REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016.
+2. Incabível recurso especial quando o órgão julgador analisa a pretensão recursal exclusivamente com fundamentos de cunho constitucional, sob pena de usurpação da competência do STF.
+ ..
+4. Agravo interno não provido. (AgInt no REsp n. 2.045.354/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Ademais, da leitura das razões recursais, verifico que o SINDICATO DOS POLICIAIS RODOVIARIOS FEDERAIS NO ESTADO DO CEARA aponta violação ao Decreto 977/1993.
+Contudo, o Decreto apontado como violado possui natureza regulamentadora e portanto, não se enquadra no conceito de lei federal do art. 105, III, a da Constituição Federal (CF). Assim, não é possível a sua análise em recurso especial.
+Nesse sentido:
+ADMINISTRATIVO, AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. RECUPERAÇÃO DE ÁREA DEGRADADA. PLEITO DE DEMOLIÇÃO DE EDIFICAÇÕES. SÚMULA 126/STJ. INCIDÊNCIA. ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 182 DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA. EXTRAPOLADA A ESTREITA VIA DO APELO NOBRE. VIOLAÇÃO A DECRETO REGULAMENTAR. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE TRATADO OU LEI FEDERAL. ACÓRDÃO DO TRIBUNAL A QUO ANCORADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Não se conhece da alegada ofensa aos arts. 6º, I, do Decreto-Lei n. 2.398/87; 3º, VIII, e 19, I e II, do Decreto n. 6.514/2008, pois, conforme farta jurisprudência deste Superior Tribunal de Justiça, o recurso especial não é via recursal adequada para exame de suposta ofensa a decreto regulamentar, por não se enquadrar no conceito de tratado ou lei federal de que cuida o art. 105, III, a, da Constituição Federal.
+ ..
+6. Agravo interno não provido. (AgInt no REsp n. 1.517.735/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/3/2021, DJe de 8/4/2021.)
+PROCESSUAL CIVIL. AUTO DE INFRAÇÃO LAVRADO POR VIOLAÇÃO DO ART. 39 DO CDC COM APLICAÇÃO DA PENALIDADE DE MULTA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 282 DO STF. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 356 DO STF. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+ ..
+VI - No tocante às alegadas violações aos arts. 6º e 7º do Decreto n. 6.523/2008, verifica-se que o referido decreto foi expedido para regulamentar a Lei n. 8.078/2008, caracterizando-se como decreto regulamentador, o que inviabiliza a análise de ofensa a seus regramentos, por não estarem tais atos administrativos compreendidos no conceito de Lei Federal, nos termos do art. 105, III, da Constituição Federal. Nesse sentido, destacam-se: REsp n. 1.653.074/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2017 DJe 24/4/2017; AgRg no REsp n. 1.259.496/BA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/3/2015, DJe 30/3/2015 e AREsp n. 1.506.905/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 2/8/2019.
+ ..
+VIII - Agravo interno improvido. (AgInt no AREsp n. 1.543.093/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/11/2020, DJe de 2/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AMBIENTAL. AÇÃO CIVIL PÚBLICA. CONVENÇÃO N. 169/OIT. CONTROLE DE CONVENCIONALIDADE. NORMA SUPRALEGAL. COMPETÊNCIA. ZONA DE PENUMBRA. CONSULTA PRÉVIA. MOMENTO PRECISO. TERRA INDÍGENA. NATUREZA INCERTA. SÚMULA 7/STJ. RESOLUÇÃO CONAMA. DECRETOS FEDERAIS. NORMA INFRALEGAL. SÚMULA 284/STF. FUNAI. INTERVENÇÃO. OBRIGATORIEDADE. MERA TRANSCRIÇÃO DAS RAZÕES DO ESPECIAL. DIALETICIDADE. AUSÊNCIA. SÚMULA 182/STJ.
+ ..
+4. Decretos regulamentadores não se prestam à interposição de recurso especial. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+7. Agravo interno conhecido em parte e, nessa extensão, não provido. (AgInt no REsp n. 1.704.452/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 10/3/2020, DJe de 19/3/2020.)
+Ante o exposto, reconsidero a decisão de fls. 260/266 para não conhecer do recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
