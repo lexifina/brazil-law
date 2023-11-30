@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por REGINALDO VALENTIM MIRANDA contra a decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, apresentado contra acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe na Apelação Criminal n. 202100317678.
+Consta dos autos que o Agravante foi condenado a 5 (cinco) anos, 7 (sete) meses e 6 (seis) dias de reclusão e 14 (quatorze) dias-multa, pela prática do delito do art. 157, § 2.º, incisos I (redação antiga) e II, do Código Penal (fls. 591-591); e a 1 (um) ano de reclusão pelo crime de quadrilha (fls. 592). Reconhecido o disposto no art. 69 do Código Penal, as penas ficaram sedimentadas em 6 (seis) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime semiaberto, e 14 (quatorze) dias-multa (fl. 592).
+O Tribunal de origem deu parcial provimento à apelação da Defesa do ora Agravante para aumentar a verba honorária para R$5.000,00 (cinco mil reais), (fls. 764-766).
+No recurso especial, a Defesa aponta violação ao art. 386, inciso VII, do Código de Processo Penal; arts. 157, § 2.º, incisos I e II; e art. 288, ambos do Código Penal, alegando, em suma, inexistência de provas para condenar o Agravante, pleiteando, assim, a sua absolvição em ambas as imputações (fls. 783-791).
+As contrarrazões foram apresentadas às fls. 795-800.
+O recurso especial não foi admitido pelo Tribunal de origem (fls. 831-835).
+Foi interposto agravo (fls. 841-855).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 891-896).
+É o relatório. Decido.
+A Corte de justiça local manteve as condenações do Agravante pelos delitos de roubo majorado e de quadrilha nestes termos (fls. 763-764, sem grifos no original):
+"Como se vê, os três réus foram presos em flagrante portando materiais utilizados para assaltos desta natureza e, embora apenas o acusado Sebastião tenha sido reconhecido pela vítima (fl. 49), restou comprovado que, juntamente com o réu Sérgio Meneguel, com arma em punho, renderam o vigia noturno (José Francisco dos Santos) e permaneceram do lado externo da agência, enquanto o apelante Reginaldo Valentim Miranda e um indivíduo de nome Tiago, não localizado, entraram na agência bancária e, com o uso de um maçarico, arrombaram um dos cashs, subtraindo a quantia monetária.
+Destaca-se que o próprio apenado Sérgio Meneguel, quando ouvido em Juízo, deixou claro que os comparsas assumiram a participação no roubo ocorrido no Banco do Brasil do Município de São Domingos, sendo copiosa parte do seu depoimento, in verbis:
+ ..
+Voltando os olhos para a fase inquisitiva, vê-se que os réus Reginaldo e Sebastião confessaram as práticas delitivas, dando detalhes, inclusive reconhecendo serem autores dos crimes realizados em Bancos de outras cidades (Municípios de Lagarto e de Campo do Brito), como se infere dos depoimentos acostados às fls. 41/42 e 44/47 dos autos, em que reconhecem "fizeram o levantamento e decidiram praticar arrombamento numa cidade vizinha (São Domingos); que também durante a madrugada, agiram e conseguiram subtrair R$5.000,00", e que sempre agiam conjuntamente (os réus e um indivíduo não localizado indicado como sendo Tiago). Ora. Ao contrário do que afirmam os apelantes, não há fragilidade nas provas, mas sim uma harmonia entre os depoimentos prestados junto a autoridade policial, a apreensão os objetos, os depoimentos da vítima e testemunhas e todas as provas colhidas nos autos.
+Dessa forma, entendo que os apelantes não tem razão quanto à sua irresignação de ausência de provas das autorias delitivas, pois a conclusão a que chegou a respeitável sentença monocrática restou de todo compatível com as provas existentes no corpo dos autos.
+Dito isto, corroboro com o bem lançado parecer nos autos nesta instância recursal e rechaço o pleito absolutório, mantendo incólumes a condenações impostas aos recorrentes."
+Como se vê, as instâncias ordinárias chegaram à conclusão das autorias delitivas pelo ora Agravante com apoio em vasto acervo fático probatório, consistente nos depoimentos da vítima, dos policiais rodoviários e civil, além da prisão em flagrante dos outros Comparsas portando materiais que costumam ser utilizados na prática de assaltos da mesma natureza do cometido nestes autos; além do depoimento do Corréu Sérgio Meneguel que confirmou a participação dos outros Comparsas na prática delitiva objeto destes autos e em outras.
+Diante desse cenário, para o Superior Tribunal de Justiça decidir pela inexistência de de provas para manter as condenações do Agravante, teria de revolver fatos e provas, providência incompatível com o óbice da Súmula n. 7/STJ.
+A título de exemplificação:
+" ..
+7. No caso, a Corte local demonstrou fundamentadamente que a decisão do Tribunal do Júri foi manifestamente contrária à prova dos autos.
+Nesse contexto, a desconstituição da conclusão adotada pelo Tribunal de origem, no intuito de abrigar a pretensão de restabelecimento do veredicto absolutório, fundado na alegação de que a decisão dos jurados não se revela manifestamente contrária à prova dos autos, demandaria necessariamente aprofundado revolvimento de fatos e provas, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ.
+8. Agravo regimental não provido." (AgRg no AREsp n. 2.346.767/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08/0 8/2023, DJe 14/08/2023, sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. DELITOS DE ROUBO MAJORADO E DE QUADRILHA. ALEGADA INEXISTÊNCIA DE PROVA PARA CONDENAR. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
