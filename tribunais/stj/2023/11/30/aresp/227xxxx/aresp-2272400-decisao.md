@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL nos termos da seguinte ementa (fl. 251):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À AÇÃO MONITÓRIA. CESSÃO DE CRÉDITO. CÉDULA RURAL. ORIGEM DA DÍVIDA NÃO DEMONSTRADA.
+DEMONSTRADA A CESSÃO DE CRÉDITO, É DEVER DA PARTE AUTORA-EMBARGADA DEMONSTRAR QUE O PACTO QUE EMBASA A CÉDULA RURAL EMITIDA É DISTINTO DAQUELE CEDIDO. NO CASO, A INSTITUIÇÃO FINANCEIRA NÃO SE DESINCUMBIU DE COMPROVAR A REFERIDA DISTINÇÃO, SENDO NECESSÁRIA A MANUTENÇÃO DA SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO CONSTANTE DOS EMBARGOS MONITÓRIOS.
+RECURSO DESPROVIDO. UNÂNIME.
+Rejeitados os embargos de declaração opostos (fls. 286-289).
+Nas razões do recurso especial (fls. 297-305), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 200 do Código de Processo Civil, sustentando que não pode haver presunção de cessão de crédito.
+Oferecidas contrarrazões (fls. 324-330), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 334-338), o que ensejou a interposição do presente agravo (fls. 353-360).
+Apresentadas contraminutas do agravo (fls. 410-414).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que houve demonstração da cessão de crédito, baseado no contrato celebrado entre as partes, assim como nos fatos e provas existentes nos autos, conforme o seguinte trecho do acórdão (fls. 248-249):
+No caso, a discussão dos autos envolve a cessão de crédito, ou não, do pacto que embasa a cédula de crédito rural de número 000373327. Se demonstrada a cessão, não poderá mais a instituição financeira cobrar os valores relativos à divida em razão, justamente, da cessão do referido crédito à ATIVOS S/A. O autor-embargado afirma não existir demonstração de que houve efetiva cessão de créditos, buscando a reversão do julgamento de improcedência do pedido. No ponto, julgo não prosperarem as alegações da instituição financeira, uma vez que resta comprovada a cessão de crédito, nos termos da seguinte notificação (fl. 31 dos autos, constante do Evento 3, PROCJUDIC1):
+NOTIFICAÇÃO DE CESSÃO
+PAULO ROBERTO PAIM GUIMARAES AV. ISMENIA BATISTA RIBEIRO VELHO, 446 CENTRO (RS) - 95280000 - SAO JOSE DOS AUSENTES
+A empresa ATIVOS S. A. Securitizadora de Créditos Financeiros, amparada na Resolução CMN/Banco Central do Brasil nº 2686, de 26 de janeiro de 2000, e art. 286 e seguintes do Código Civil Brasileiro, ADQUIRIU do Banco do Brasil S.A. uma carteira de créditos na qual VSº figura como devedor (a).
+Como resultado dessa cessão de créditos esta securitizadora passou ser a credora da (s) operação (ões) e não mais o Banco do Brasil. Portanto, qualquer questionamento, bem como pagamento referente à (s) operação (ões) abaixo deverão ser feitos à ATIVOS.
+Até a presente data não temos informação da quitação do débito. A ATIVOS coloca á sua disposição diversas opções negociais por meio da página na intemet www. ativossa.com.br, do 0800-644-3030 e da empresa FIDUCIAL CONSULTORIA E SERVICOS FINANCEIROS LTDA, contratada para relacionamento com V.Sª, cujo telefone para contato é o 0800-603-4575.
+ ..
+Não tendo a instituição financeira embargada juntado o pacto que embasa a cédula rural de número 000373327, supõe-se ser relativa ao pacto cedido, não mais cabendo ao embargado cobrar dívidas relativas a esta contratação.
+Rever tal entendimento, conforme pretendido, implica a interpretação das cláusulas contratuais e o reexame do contexto fático-probatório dos autos. Sendo assim, incidem as Súmulas n. 5/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial") e 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.231.244/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no REsp n. 2.025.468/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023; AgInt no REsp n. 2.029.671/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Por fim, não se pode conhecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pelas Súmulas n. 5 e 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Nesse sentido, cito : AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgInt no AREsp n. 1.954.459/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023; AgInt no AREsp n. 1.768.573/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
