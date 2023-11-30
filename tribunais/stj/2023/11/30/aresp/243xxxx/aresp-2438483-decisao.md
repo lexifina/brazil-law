@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial manifestado em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO. CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA. SENTENÇA QUE ACOLHEU PRELIMINAR DE ILIQUIDEZ DO TÍTULO ARGUIDA PELO EMBARGANTE. DEMONSTRATIVO DE DÉBITO. OBSERVÂNCIA AO DISPOSTO NO ARTIGO 798, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL. EXISTÊNCIA DE FORÇA EXECUTIVA. SENTENÇA CASSADA COM DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROSSEGUIMENTO DO FEITO.
+1. Não há que se falar em violação ao parágrafo único do artigo 798, do Código de Processo Civil se o demonstrativo de débito juntado com a petição inicial indica: o índice de correção monetária adotado; a taxa de juros aplicada, bem como os termos inicial e final de incidência da correção monetária e da taxa de juros utilizados.
+Apelação Cível provida.
+Opostos os embargos de declaração, esses foram rejeitados.
+Em suas razões do recurso, a parte agravante sustenta violação dos 798, I e 1.022, II, do Código de Processo Civil; 28, § 2º, da Lei de nº 10.931/2004. Afirma que houve negativa de prestação jurisdicional.
+Argumenta que, "Ora, Excelências, consoante dispõe o aludido dispositivo, cabe ao credor a exibição de extrato detalhado da conta corrente ou de planilha de cálculo, a fim de demonstrar o valor concedido e o montante utilizado pelo devedor e, por conseguinte, comprovar a liquidez do título" (fl. 409).
+Aponta que, "Assim, evidente que a execução não preenche os requisitos necessários para o seu devido prosseguimento, sendo ilíquido o título executado e indo contra ao que estabelece o artigo 28, § 2º da Lei 10.931/2004 e artigo 798, inciso I, do Código de Processo Civil, sendo, portanto, nula a execução aos termos do artigo 803, inciso I, do mesmo códex" (fl. 413).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa ao art. 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+Com efeito, verifico que a Corte local, ao julgar a causa, deixou consignados os seguintes fundamentos (fls. 370-371 e-STJ):
+O artigo 798, inciso I, do Código de Processo Civil, estabelece os documentos que deverão instruir a execução de título extrajudicial, bem como os requisitos da petição inicial.
+Dentre os documentos exigidos se encontra o demonstrativo do débito atualizado até a data de propositura da ação, quando se tratar de execução por quantia certa, o qual deverá conter (parágrafo único):
+"I - o índice de correção monetária adotado;
+II - a taxa de juros aplicada;
+III - os termos inicial e final de incidência do índice de correção monetária e da taxa de juros utilizados;
+IV - a periodicidade da capitalização dos juros, se for o caso;
+V - a especificação de desconto obrigatório realizado." (art. 798. Inciso I, alínea "b" e parágrafo único).
+No caso em apreço, observa-se que a execução está instruída com o título executivo extrajudicial, ou seja, a cédula rural pignoratícia e hipotecária (Ref. Mov. 1.12 - Ação execução de título extrajudicial nº 0000494-60.2020.8.16.0059), além de planilha de débito (Ref. Mov. 1.13 - Ação execução de título extrajudicial nº 0000494-60.2020.8.16.0059), demonstrando o total devido, bem como a taxa de juros e os juros de mora, além de data de início, qual seja, a data de vencimento da dívida:
+(..).
+Como se vê, em que pese as alegações do embargante, ora apelado, está demonstrado, pela planilha colacionada aos autos, como se chegou ao valor total devido. Ademais, a origem do débito é o empréstimo realizado pelo embargante.
+Não há que se cogitar em nulidade da execução, pois atendido o disposto no artigo 798, inciso I, alínea "b", do Código de Processo Civil.
+Cumpre anotar que o Tribunal estadual concluiu que, "Sendo assim, não há nulidade da execução, pois a cédula de crédito rural e a planilha de débito anexada ao feito executivo atendem aos critérios exigidos nos artigos 28, §2º, incisos I e II, e 29 da Lei nº 10.931/2004, bem como ao disposto no art. 798, inciso I, alínea "b", do Código de Processo Civil, portanto, constitui título executivo extrajudicial" (fl. 372).
+Nesse sentido, a desconstituição dessa conclusão, na forma como pretendida, a fim de modificar o entendimento de que o título apresentado preenche o requisito de liquidez, seria impossível sem a revisão do conjunto fático-probatório dos autos e outra análise das cláusulas contratuais pactuadas entre as partes, o que é inviável no âmbito do recurso especial, em razão do teor das Súmulas n. 5 e 7 do STJ. Nessa direção:
+EMBARGOS DE DECLARAÇÃO OPOSTOS SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. ERRO MATERIAL NA DECISÃO EMBARGADA. RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL HIPOTECÁRIA. REQUISITOS LEGAIS. CERTEZA. LIQUIDEZ. EXIGIBILIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. SÚMULA N. 284 DO STF.
+1. Acolhem-se os embargos de declaração para tornar sem efeito a decisão embargada, quando se verifica a ocorrência de erro material no provimento jurisdicional.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar o reexame de cláusulas contratuais e a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Embargos declaratórios acolhidos com efeitos infringentes.(EDcl no AgRg no REsp 1508964/AL, Rel. Ministro JOÃO OTÁVIO DE NORONHA,TERCEIRA TURMA, julgado em 07/06/2016, DJe 16/06/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO. OBRIGAÇÃO LÍQUIDA E CERTA. INEXISTÊNCIA DE DEMONSTRATIVO DA EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO NÃO PROVIDO.
+1. Consoante entendimento desta Corte, "A cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, tem natureza de título executivo, exprimindo obrigação líquida e certa" (AgRg no REsp1.038.215/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de19/11/2010).
+2. No caso dos autos, a Corte de origem afirmou que não foram preenchidos os requisitos exigidos para conferir liquidez, certeza e exigibilidade da cédula de crédito, pois o demonstrativo apresentado não mostra a evolução da dívida desde a contratação, nem os encargos aplicados, não deixando evidenciado, desse modo, como foi apurado o valor do débito cobrado. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. Para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC/73 e255, § 2º, do RISTJ. Contudo, na hipótese dos autos, não houve essa demonstração.
+4. Agravo interno a que se nega provimento.(AgInt no REsp 1594688/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/12/2016, DJe 19/12/2016.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CONFISSÃO DE DÍVIDA. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. INCABÍVEL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. CONFISSÃO DE DÍVIDA. PREENCHIMENTO DOS REQUISITOS. TÍTULO EXTRAJUDICIAL. PRECEDENTES. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS.
+INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(..).
+6. Nos termos da jurisprudência desta Corte, a confissão de dívida assinada pelo devedor e por duas testemunhas é título apto a embasar execução extrajudicial. Precedentes.
+7. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+8. Agravo interno não provido.
+(Terceira Turma, AgInt no AgInt no AREsp 1.800.304/PA, Rel. Ministro MOURA RIBEIRO, unânime, DJe de 17.8.2022.)
+Diante do exposto, nego provimento ao agravo.
+Deixo de proceder à majoração os honorários advocatícios, visto que o Tribunal de origem não condenou a parte agravante a pagá-los.
+Intimem-se.
+EMENTA
