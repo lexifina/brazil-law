@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que negou provimento ao agravo em execução interposto pelo MP.
+Alega o Ministério Público estadual violação dos arts. 33, §2º, do CP, e 112, da LEP, ao argumento de que o "termo inicial para nova progressão de regime é o momento em que o sentenciado preencheu o último requisito pendente, seja ele o objetivo ou o subjetivo, para a progressão anterior" (fl. 61 ).
+Contrarrazoado e admitido na origem , o Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+É o relatório.
+DECIDO.
+Consta dos autos que, fixada a data do cumprimento do requisito objetivo como data-base para fins de progressão de regime, foi interposto agravo em execução pelo MP, tendo o Tribunal de origem negado provimento ao recurso, mantendo incólume a decisão recorrida.
+Sobre a controvérsia, a jurisprudência do Superior Tribunal de Justiça vem se manifestando no sentido de que: " a  data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício" (AgRg no HC 654.153/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021).
+No mesmo sentido: AgRg no HC 662.270/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/05/2021, DJe 01/06/2021; (AgRg no HC 689.642/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021).
+Portanto, havendo a necessidade de exame criminológico para aferir a presença do requisito subjetivo para a progressão de regime, esse requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável, razão pela qual o recurso especial comporta provimento. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE PARA NOVA PROGRESSÃO. ADIMPLEMENTO DE AMBOS OS REQUISITOS. DATA DA ELABORAÇÃO DO EXAME CRIMINOLÓGICO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, " s endo determinada a realização de exame criminológico, reputa-se preenchido o requisito subjetivo no momento da realização do exame favorável ao paciente, razão pela qual deve ser considerado como data-base para nova progressão, mesmo estando o requisito objetivo preenchido em momento anterior. Caso dos autos. Precedente: HC 414.156/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/11/2017, DJe 29/11/2017" (AgRg no HC n. 620.573/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 7/12/2020).
+2. Na hipótese, a Corte de origem estabeleceu como termo a quo para a progressão ao regime aberto a data em que foi realizado o exame criminológico e, então, preenchido o requisito de ordem subjetiva, o que está, portanto, em consonância com o entendimento firmado por esta Corte Superior.
+3. Agravo regimental não provido.
+(AgRg no HC n. 726.879/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022.)
+Ante o exposto, dou provimento ao recurso especial para fixar como termo a quo da nova progressão de regime a data em que preenchido o último requisito necessário (subjetivo), da realização do exame criminológico.
+Publique-se.
+Intimem-se.
+EMENTA
