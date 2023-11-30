@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMÉRICO CARLOS BASILE (AMÉRICO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.871/1.883).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, AMÉRICO alegou a violação dos arts. 1.022 e 489 do CPC, 422 do CC/02 e 618 e 619 do CPC, ao sustentar que (1) apesar dos embargos de declaração opostos, os vícios lá apontados não foram sanados, o que caracteriza negativa de prestação jurisdicional; (2) o acórdão recorrido, ao deixar de impor à inventariante a obrigação de repor os valores indevidamente movimentados por ela de aplicações financeiras, violou princípios orientadores das relações contratuais, quais sejam, da boa-fé e rebus sic stantibus; e (3) a lei impõe ao inventariante os deveres de gerir os bens do espólio e, somente com autorização do Juízo do inventário e anuência dos demais herdeiros, pode proceder a movimentação de ativos financeiros, o que não se verificou.
+(1) Da negativa de prestação jurisdicional
+AMÉRICO sustentou que, apesar dos embargos declaratórios que opôs, o Tribunal bandeirante incorreu em omissão sobre o pedido que formulou, para o devido cumprimento do acordo firmado entre as partes, que a inventariante deveria ter sido instada a repor os valores por ela indevidamente movimentados das aplicações financeiras do Espólio junto ao Banco Itaú S.A. que, por força do acordo de partilha, em parte, lhe caberão.
+Assiste razão, neste particular, ao recorrente.
+De fato, o Tribunal bandeirante, no julgamento dos embargos de declaração de AMÉRICO, efetivamente não abordou o tema acima destacados, necessário e indispensável à solução completa da controvérsia, que foi levantado no momento processual adequado pelo recorrente (nos aclaratórios), deixando de oferecer, de forma clara, precisa e fundamentada, a prestação jurisdicional perseguida.
+Há, com efeito, violação ao comando dos arts. 1.022, II, e 489 do NCPC, quando por ausência ou deficiência na fundamentação ou por omissão quanto a temas essenciais arguidos nos embargos de declaração, o órgão julgador deixa de apresentar, de forma clara e coerente, motivação adequada e suficiente para respaldar a conclusão adotada.
+A resposta do julgador ao vício apontado por AMÉRICO é essencial ao completo julgamento da lide apresentada, pois traz em seu bojo possível questão de direito que poderá ser enfrentada oportunamente por esta eg. Corte Superior, até porque é condição sine qua non ao conhecimento do especial que a matéria de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Desse modo, estando evidenciada a existência do vício mencionado no apelo especial, é patente a necessidade de retorno dos autos ao Tribunal estadual, a fim de que lá seja apreciado o relevante tema lá suscitado, na sua integralidade e devidamente fundamentado.
+Assim, recusando-se a Corte estadual a se manifestar sobre as questões federais invocadas terminou por negar a completa prestação jurisdicional ao recorrente.
+A propósito, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal de origem se manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp nº 1.829.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 20/4/2020, DJe de 27/4/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE FAZER. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU A DENUNCIAÇÃO DA LIDE, NOMEAÇÃO À AUTORIA E PRODUÇÃO DE PROVA ORAL. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, bem como sobre os elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre questões fáticas relevantes, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra as omissões existentes.
+2. Agravo interno provido para dar provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios, para que outro seja proferido e, assim, sanados os vícios constatados.
+(AgInt no REsp nº 1.681.636/PR, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 3/3/2020, DJe de 25/3/2020).
+É medida de rigor, portanto, o retorno dos autos ao TJSP para que sane os referidos vícios, esclarecendo o questionamento acima destacado, de forma fundamentada.
+Assim, fica prejudicada, por ora, a análise das demais questões abordadas no apelo nobre.
+Nessas condições, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial de AMÉRICO, determinando o retorno dos autos ao TJSP para que analise a questão trazida nos embargos de declaração acima destacada, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCESSÕES. DECISÃO QUE DETERMINOU A PARTILHA DE BENS E REAPRESENTAÇÃO DO PLANO DE PARTILHA. AGRAVO DE INSTRUMENTO. OMISSÃO A RESPEITO DE TEMA RELEVANTE NÃO SANADO NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELO RECORRENTE. NEGATIVA DE COMPLETA PRESTAÇÃO JURISDICIONAL VERIFICADA. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO PARCIALMENTE.
