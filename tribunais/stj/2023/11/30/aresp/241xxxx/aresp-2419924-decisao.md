@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA HABITACIONAL DO ESTADO DE SÃO PAULO contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 784):
+Ação de cobrança. Despesas condominiais. Prescrição quinquenal. Aplicação do artigo 206, §5º, I, do Código Civil. Autora que não comprovou a ocorrência de qualquer causa de interrupção do prazo prescricional. Manutenção da sentença que reconheceu prescrita a cobrança das prestações apontadas na exordial. Ausência de enriquecimento ilícito do réu. Sentença mantida. Recurso improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 795/800).
+Nas razões do especial, aponta a recorrente violação do artigo 205 do Código Civil, bem como do artigo 89 da Lei nº 7.764/71; argumentando, em síntese, que a cobrança referente a despesas a ser rateadas pelos associados, aprovadas em Assembleia, e não cobertas com recursos provenientes do Fundo de Reserva, estaria sujeita ao prazo geral de prescrição.
+Contra-arrazoado (fls. 920/935), o recurso especial não foi admitido (fls. 936/938), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem não se pronunciou acerca dos dispositivos supostamente violados, mesmo após o julgamento dos embargos de declaração (fls. 795/800).
+A despeito disso, a recorrente não apontou como violado o artigo 1.022 do Código de Processo Civil, inviabilizando o conhecimento do recurso especial, em razão da falta de prequestionamento; atraindo a aplicação do óbice da Súmula 211/STJ.
+Ressalte-se que, na linha da jurisprudência consolidada no âmbito desta Corte Superior: "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4.4.2017, DJe 10.4.2017).
+Nesse mesmo sentido:
+AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. BEM DE FAMÍLIA. IMPENHORABILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4.4.2017, DJe 10.4.2017).
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.145.317/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/6/2023, DJe de 15/6/2023.) (grifo acrescido)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIMENTOS. EXONERAÇÃO. MAIORIDADE. ESTUDANTE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 211/STJ E 282/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 568/STJ. BINÔMIO NECESSIDADE/POSSIBILIDADE. COMPROVAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. PRINCÍPIO DA PRIMAZIA DA RESOLUÇÃO DE MÉRITO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmulas n. 211 do STJ e 282 do STF).
+2. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017), o que não ocorreu.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 568/STJ).
+4. A jurisprudência do STJ compreende que "o advento da maioridade não extingue, de forma automática, o direito à percepção de alimentos, mas esses deixam de ser devidos em face do Poder Familiar e passam a ter fundamento nas relações de parentesco, em que se exige a prova da necessidade do alimentado" (REsp n. 1.198.105/RJ, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1/9/2011, DJe de 14/9/2011).
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+6. Para rever as conclusões do Tribunal local quanto à comprovação da necessidade do filho maior e da possibilidade do genitor, seria necessário o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+7. É inviável o conhecimento da matéria suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a preclusão consumativa.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.114.877/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.) (grifo acrescido)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, devida pela parte agravante, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
