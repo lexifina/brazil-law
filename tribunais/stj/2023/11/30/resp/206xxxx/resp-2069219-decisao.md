@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto por GUSTAVO BRANQUINHO DE SOUZA e LUIZ FERNANDO CORREA MUNIZ, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0203502-57.2020.8.19.0001.
+Consta dos autos que o Juízo de primeiro grau condenou os Recorrente às seguintes penas, em regime inicial aberto, como incursos no art. 155, §§ 1.º e 4.º, inciso IV, do Código Penal (fls. 313-323):
+a) Gustavo Branquinho de Souza - 2 (dois) anos e 8 (oito) meses de reclusão e pagamento de 13 (treze) dias-multa, no mínimo legal.
+b) Luiz Fernando Correa Muniz - 3 (três) anos e 4 (quatro) meses de reclusão e pagamento de 20 (vinte) dias-multa. A sanção corporal foi substituída por 2 (duas) reprimendas restritivas de direito.
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem deu parcial provimento para afastar a majorante do repouso noturno e deslocá-la para a primeira fase da dosimetria, redimensionando as reprimendas aos seguintes patamares (fls. 398-402):
+a) Gustavo Branquinho de Souza - 2 (dois) anos e 4 (quatro) meses de reclusão e pagamento de 24 (vinte e quatro) dias-multa, no mínimo legal.
+b) Luiz Fernando Correa Muniz - 3 (três) anos de reclusão e pagamento de 15 (quinze) dias-multa, no mínimo legal.
+Sustenta a Defesa, nas razões do apelo nobre, além da existência de dissídio pretoriano, contrariedade aos arts. 59 e 155, § 2.º, ambos do Código Penal.
+Argumenta que a valoração negativa da personalidade e da conduta social com esteio na existência de ações penais em curso não se coaduna com o bom direito.
+Pondera que estão presentes todos os requisitos para o reconhecimento da figura privilegiada do delito, sendo certo que a ausência de prova técnica para determinar o valor da res furtiva - 10m (dez metros) de fio elétrico - não é óbice à aplicação do citado benefício, porquanto sem dúvida corresponde a montante inferior a 1 (um) salário mínimo vigente à época dos fatos.
+Foram apresentadas contrarrazões (fls. 464-473). O recurso especial foi admitido (fls. 475-487).
+O Ministério Público Federal apresentou parecer, opinando pelo parcial provimento do apelo nobre (fls. 509-515).
+É o relatório.
+Decido.
+A propósito da exasperação da pena-base, a sentença de primeiro grau está calcada nas seguintes razões de decidir (fls. 317-318; sem grifos no original):
+"Réu Gustavo
+a) O réu possui outras três anotações em sua FAC fls. 270/277, ainda que não sirvam para caracterizar maus antecedentes, deve-se considerar que o mesmo possui personalidade voltada para práticas criminosas, ao tempo que denota desvio em seu caráter, não podendo sua conduta ser avaliada em iguais condições em relação àqueles que não ostentam qualquer anotação, em atenção ao principio da individualização da pena, em razão do que sua pena base deve ser fixada além do patamar mínimo legal, qual seja, 02 (dois) anos e 06 (seis) meses de reclusão e o pagamento de 15 (quinze) DM, no mínimo legal o dia-multa à época dos fatos.
+ ..
+Réu Luiz
+a) O réu possui outras duas anotações em sua MC fls. 279/285, ainda que não sirvam para caracterizar maus antecedentes, deve-se considerar que o mesmo possui personalidade voltada para práticas criminosas, ao tempo que denota desvio em seu caráter, não podendo sua conduta ser avaliada em iguais condições em relação àqueles que não ostentam qualquer anotação, em atenção ao principio da individualização da pena, em razão do que sua pena base deve ser fixada além do patamar mínimo legal, qual seja, 02 (dois) anos e 06 (seis) meses de reclusão e o pagamento de 15 (quinze) DM, no mínimo legal o dia-multa à época dos fatos."
+Por sua vez, o acórdão recorrido, ao refazer o cálculo da primeira fase dosimétrica, assim se pronunciou (fls. 401-402; sem grifos no original):
+"Do réu Gustavo.
+De fato, a FAC constante do e-doc. 000270 comprova, como dito, que tão logo reposto em liberdade foi preso em flagrante acusado da prática do mesmo crime, furto. Cuida-se, obviamente, de fato posterior que não pode ser valorado como antecedente, mas é, sem dúvida, demonstrador de má conduta social e personalidade distorcida, tanto que apontado no SIPEN como de média periculosidade. Tal circunstância, aliada ao fato de o furto ter sido praticado durante o repouso noturno, autorizam que a reprimenda seja fixada em 03 anos de reclusão e 15 dias-multa.
+ ..
+Do réu Luiz Fernando.
+Tal qual em relação ao corréu, a FAC constante do e-doc. 000279 comprova que o recorrente já havia sido agraciado com a liberdade provisória em autos distintos (anotação n.º 01), voltando a delinquir. Demais disso, reposto em liberdade em audiência de custódia, mais uma vez foi preso em flagrante (anotação de n.º 03). Tais circunstâncias, aliadas ao fato de o furto ter sido praticado durante o repouso noturno, autorizam que a reprimenda seja fixada em 03 (três) anos de reclusão e 15 dias-multa, no v.u.m.l., patamar que torno definitivo por estarem ausentes causas modificadoras."
+Esta Corte Superior entende que inquéritos policiais ou ações penais em curso não se prestam a exasperar a basilar, seja a título de maus antecedentes, conduta social negativa ou personalidade voltada para o crime, em respeito ao princípio da presunção de não culpabilidade.
+Nesse sentido, dispõe a Súmula n. 444/STJ: "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base".
+Nesse entendimento:
+" ..
+6. É firme o entendimento deste Superior Tribunal de Justiça no sentido de que, em observância ao princípio da presunção da inocência, a existência de inquéritos policiais e/ou ações penais em andamento não constitui fundamentação idônea para afastar a pena-base do mínimo legal, seja a título de maus antecedentes, conduta social negativa ou personalidade. Incidência da Súmula n. 444/STJ.
+ ..
+9. Agravo regimental não conhecido e concedida, de ofício, a ordem de habeas corpus, para afastar a mensuração negativa da circunstância judicial atinente aos antecedentes, com extensão de efeitos ao corréu, redimensionando as penas." (AgRg no AREsp 1.966.306/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/02/2022, DJe 25/02/2022.)
+" ..
+1. Conforme a Súmula n. 444 desta Corte: "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base" (Súmula n. 444, Terceira Seção, DJe 13/5/2010).
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 631.932/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/03/2021, DJe 24/03/2021.)
+Ademais, a jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que não se deve "valorar negativamente, na primeira fase da operação de dosimetria penal, as circunstâncias judiciais da personalidade e da conduta social, quando se utiliza, para esse efeito, de condenações criminais anteriores, ainda que transitadas em julgado, pois esse específico aspecto (prévias condenações penais) há de caracterizar, unicamente, maus antecedentes" (STF, RHC 144.337-AgR, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, julgado em 05/11/2019, DJe 22/11/2019).
+Portanto, na hipótese dos autos, afastar o desvalor atribuído à personalidade e à conduta social dos Agentes é medida que se impõe.
+No que diz respeito ao pedido para reconhecimento da figura privilegiada do delito, o aresto proferido quando do julgamento dos embargos de declaração está assim fundamentado (fl. 435):
+"E quanto à figura privilegiada, consoante relatório anexado no e-doc. 000402, sua incidência não foi objeto do apelo. Considerar lícito à defesa arguir, em sede de embargos declaratórios, toda e qualquer matéria que não foi sustentada em razões recursais importaria em se admitir indefinidamente a re-ratificação de razões, inobservando a ordem natural da marcha processual e, porque não dizer, da própria preclusão consumativa.
+Mas mesmo que assim não fosse, inviável na hipótese o reconhecimento da figura privilegiada exatamente pelos motivos supra consignados, autorizadores da fixação das penas base acima do mínimo legal, e também pelos esposados quando da rejeição das teses de aplicação do princípio da bagatela e de que o crime não passou da esfera da tentativa:
+".. os recorrentes cortaram e subtraíram 10 metros de fios de energia, pelo que o laudo de avaliação é dispensável, considerando ser irrelevante ao deslinde do feito a indicação de seu valor isolado por possuírem utilidade pública. Sua subtração pode ocasionar a interrupção do fornecimento de energia elétrica, gerando uma significativa lesão ao bem jurídico tutelado ..
+..
+apesar de o bem subtraído ter sido recuperado e os réus terem sido presos em flagrante, configurado restou o exaurimento da atividade criminosa, pois uma vez invertida a posse dos cabos pertencentes à empresa lesada esta não pode fornecer o adequado serviço aos seus consumidores".
+A mera alegação de que os fios poderiam ter sido abandonados ou não estar sendo efetivamente utilizados pela concessionária não é suficiente para que se reveja tal raciocínio, sendo ônus defensivo tal comprovação, ao passo que a alegação de afronta ao non bis in idem sequer merece enfrentamento já que, como dito, o crime foi considerado consumado."
+Como se vê, na hipótese, não foi elaborado laudo de avaliação da res furtiva e, nos termos da jurisprudência desta Corte Superior de Justiça, "a ausência de realização de laudo de avaliação impossibilita a discussão sobre o privilégio previsto no § 2º do art. 155 do Código Penal." (AgRg no HC 727289/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 20/09/2022, DJe 22/09/2022, sem grifos no original).
+No mesmo diapasão:
+" ..
+1. Não há se falar em privilégio, considerando a falta de laudo de avaliação dos bens furtados. Com efeito, nos termos da jurisprudência desta Corte, "ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido" (AgRg no AREsp 1846296/MA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/10/2021, DJe 11/10/2021).
+2. Como bem destacado no acórdão estadual, malgrado alguns bens furtados possam possuir valor extremamente baixo, como a chave de fenda e o alicate tipo turquesa, foram, ainda, furtados bens com valor mais significativo, como as duas baterias para carro, os quatro aparelhos celulares e os dois aparelhos de som automotivo, o que indica a superação do valor de 1 salário mínimo.
+3. Ainda que o réu fosse primário à época dos fatos, tendo sido reconhecida qualificadora de ordem objetiva, o que não constitui óbice ao reconhecimento do privilégio, o pequeno valor da res furtivae não foi demonstrado, não se vislumbrando manifesta ilegalidade apta a desconstituir decreto condenatório transitado em julgado.
+4. Agravo desprovido." (AgRg no AgRg no HC 749319/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 06/09/2022, DJe de 13/09/2022, sem grifos no original.)
+" ..
+1. Esta Corte superior entende que " a usente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2.º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido" (AgRg no AREsp n. 1.846.296/MA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/10/2021, DJe de 11/10/2021).
+2. Assim, ainda que tenham sido afastados os maus antecedentes do agravante, inviável o reconhecimento da figura privilegiada do crime praticado.
+3. Agravo regimental improvido." (AgRg no REsp n. 1.906.309/MG, relator Ministro ANTONIO SALDANHA PALHEIRO , Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+Fixadas essas premissas, passo a redimensionar as sanções impostas aos Recorrentes.
+A) GUSTAVO BRANQUINHO DE SOUZA
+1.ª Fase - Nos termos desta decisão, afasto a valoração negativa da personalidade e da conduta social. Assim, reduzo, proporcionalmente, a pena-base a 2 (dois) anos e 4 (quatro) meses de reclusão e pagamento de 11 (onze) dias-multa.
+2.ª Fase - Conforme estabelecido pelas instâncias ordinárias, não há agravantes a considerar e foram reconhecidas a confissão e a menoridade relativa. Dessa forma, as sanções intermediárias são de 2 (dois) anos de reclusão e 10 (dez) dias-multa (Súmula n. 231/STJ).
+3.ª Fase - De acordo com o delineado no acórdão objurgado, não há causas de redução ou aumento de pena a sopesar. Assim, as reprimendas definitivas são de 2 (dois) anos de reclusão e 10 (dez) dias-multa, mantidas as demais cominações delineadas no aresto recorrido.
+B) LUIZ FERNANDO CORREA MUNIZ
+1.ª Fase - Nos termos desta decisão, afasto a valoração negativa da personalidade e da conduta social. Assim, reduzo, proporcionalmente, a pena-base a 2 (dois) anos e 4 (quatro) meses de reclusão e pagamento de 11 (onze) dias-multa.
+2.ª Fase - Conforme estabelecido pelas instâncias ordinárias, não há agravantes ou atenuantes a considerar. Dessa forma, as sanções intermediárias são de 2 (dois) anos e 4 (quatro) meses de reclusão e pagamento de 11 (onze) dias-multa.
+3.ª Fase - De acordo com o delineado no acórdão objurgado, não há causas de redução ou aumento de pena a sopesar. Assim, as reprimendas definitivas são de 2 (dois) anos e 4 (quatro) meses de reclusão e pagamento de 11 (onze) dias-multa., mantidas as demais cominações delineadas no aresto recorrido.
+Ante o exposto, CONHEÇO e DOU PARCIAL PROVIMENTO ao recurso especial, a fim de afastar o desvalor atribuído à personalidade e à conduta social dos Recorrentes, redimensionando as sanções aplicadas aos Réus nos termos explicitados nesta decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. PENA-BASE. ATRIBUIÇÃO DE VALORAÇÃO NEGATIVA À PERSONALIDADE E À CONDUTA SOCIAL. PROCESSOS CRIMINAIS SEM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. FURTO PRIVILEGIADO. PEQUENO VALOR DA RES FURTIVAE. SUBTRAÇÃO DE 10M (DEZ METROS) DE FIOS ELÉTRICO. LAUDO DE AVALIAÇÃO. NECESSIDADE. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
