@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS com fulcro no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa na Apelação Criminal n. 1.0231.18.000578-8/001.
+Consta nos autos que os Recorridos foram condenados como incursos no art. 157, § 2.º, incisos I e II, do Código Penal, cada um deles, às penas de 4 (quatro) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, e 11 (onze) dias-multa (fls. 287-294).
+O Tribunal de origem, por maioria de votos, deu provimento ao apelo ministerial, fixando as penas nos patamares de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto. e 13 (treze) dias-multa (fls. 392-403).
+Nas razões do recurso especial, o Parquet aponta violação aos arts. 59; 68 e 157, § 2º, inciso I e II, todos do Código Penal, ao argumento de que é possível a utilização de majorante sobejante na primeira fase da dosimetria, como circunstância judicial desfavorável.
+Contrarrazões às fls. 426-427.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fl. 467-469).
+É o relatório.
+Decido.
+Ao redimensionar as penas dos Recorridos, o eminente Desembargador Relator negou a aplicação cumulativa das causas de aumento previstas nos incisos I e II do § 2º do art. 157 do Código Penal, com redação vigente à época dos fatos, aos seguintes fundamentos:
+"Quanto à consideração da causa de aumento de pena referente ao concurso de pessoas na primeira fase da dosimetria da pena, como circunstância judicial desfavorável, e não na terceira fase, faço coro com aqueles que entendem que tal análise não pode subsistir, eis que se revela contrária aos critérios legais de aplicação da pena, uma vez que não realizada na fase própria, conforme determina expressamente o art. 68, parágrafo único, do Código Penal, sendo, ainda, maléfica aos réus.
+Vejamos o que dispõe o ad. 68, parágrafo único do Código Penal:
+ ..
+Por outro lado, existe reparo a ser feito na terceira fase da dosimetria, eis que as reprimendas dos acusados foram majoradas em 1/6 (um sexto), em razão do reconhecimento das causas de aumento de pena do concurso de pessoas e do emprego de arma de fogo, quando o art. 157, §2º, com redação à época dos fatos, previa um aumento de um terço até metade.
+ ..
+Assim, elevo as reprimendas provisórias impostas aos acusados em 1/3 (um terço), pelo, reconhecimento das majorantes então previstas no ad. 157, §2º , 1 e II, concretizando-as em 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa, no valor unitário mínimo, não havendo qualquer particularidade para proceder ao aumento acima do mínimo legal, nos termos da súmula 443 do colendo Superior Tribunal de Justiça." (fls. 397-400, sem grifos no original)
+Inicialmente esclareço que as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça têm entendimento pacificado no sentido de que, "na hipótese de existir mais de uma causa de aumento no crime de roubo, poderá ser valorada uma(s) como circunstância judicial desfavorável e outra(s) como majorante na terceira fase da dosimetria, para justificarem a elevação da pena, sem que haja qualquer ofensa ao critério trifásico" (AgRg no AREsp 1.237.603/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/06/2018, DJe 28/06/2018).
+No mesmo sentido: AgRg no HC 642.042/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021; AgRg no REsp 1.886.224/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021, sem grifos no original.)
+Ocorre que, não obstante o entendimento adotado pelo Corte mineira esteja em descompasso com a orientação do Superior Tribunal de Justiça, o acolhimento da tese recursal não resultaria em nenhum efeito prático no caso concreto.
+Com efeito, caso fosse utilizada a circunstância legal em voga para valorar negativamente as circunstâncias do crime, chegar-se-ia a pena-base 1/6 (um sexto) acima do mínimo legal, aumento que seria suplantado - para ambos os Acusados - pela incidência das atenuantes previstas no art. 65, inciso I e III, alínea d, do Código Penal, resultando o retorno das penas ao mínimo legal, ou seja, sem alteração prática na pena final.
+Do mesmo mesmo, ainda que reconhecida a circunstância judicial negativa, não poderia ser alterado o regime prisional inicial, pois não houve irresignação do Ministério Público quanto ao regime semiaberto fixado na sentença condenatória.
+Assim, tanto no aspecto quantitativo quanto no aspecto qualitativo, eventual provimento jurisdicional acolhendo o pleito acusatório não teria nenhuma repercussão prática nas penas impostas, revelando-se absolutamente inútil a análise do tema na presente via de impugnação. Por estar ausente o interesse recursal, decorrente do binômio necessidade/utilidade prática, não é possível conhecer do recurso especial.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ROUBO MAJORADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO. UTILIZAÇÃO DE CAUSAS DE AUMENTO SOBEJANTES PARA EXASPERAR A PENA-BASE. INEXISTÊNCIA DE EFEITOS PRÁTICOS DO EVENTUAL PROVIMENTO DA INSURGÊNCIA. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO NÃO CONHECIDO.
