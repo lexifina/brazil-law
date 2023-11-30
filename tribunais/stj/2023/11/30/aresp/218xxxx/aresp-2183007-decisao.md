@@ -1,0 +1,20 @@
+DECISÃO
+Em exame, agravo interposto por SERGIO ROSSI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "b", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa ostenta a seguinte redação:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO DO MUNICÍPIO DE APUCARANA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. PEDIDO DE JULGAMENTO ANTECIPADO DA LIDE OU PRODUÇÃO DE PROVA PERICIAL. AUSÊNCIA DE DISCORDÂNCIA DA DECISÃO QUE SANEOU O PROCESSO E INDEFERIU A PRODUÇÃO DE PROVAS. PRECLUSÃO. INCIDÊNCIA DO ART. 278 DO CPC/2015. NÃO CONHECIMENTO. NULIDADE DA SENTENÇA. INOCORRÊNCIA. TESES TRAZIDAS NA INICIAL, EXAUSTIVAMENTE, COMBATIDAS PELA DECISÃO RECORRIDA. INEXISTÊNCIA DE ILEGALIDADE DOS DECRETOS MUNICIPAIS Nº 64/2013, 141/2014; 64/2015; 117//2016; 104/2017 e 98/2018, QUE SE LIMITARAM A REAJUSTAR OS VALORES DO QUADRO DE NÍVEIS DE VENCIMENTOS, FIXADOS PELA LEI MUNICIPAL Nº 13/2001, QUE INTRODUZIU NOVOS VALORES REMUNERATÓRIOS, SEM ALTERAR O VALOR NOMINAL DOS ESTIPÊNDIOS. POSSIBILIDADE. PRESERVAÇÃO DO PRINCÍPIO DA IRREDUTIBILIDADE DE SALÁRIOS INSCULPIDO NO ARTIGO 37, INCISO XV DA CF. PRETENSÃO DE AUMENTO DA TABELA DE VENCIMENTOS QUE ESBARRA NA VEDAÇÃO DA SÚMULA VINCULANTE 37, NÃO CABENDO AO PODER JUDICIÁRIO IMPOR AUMENTO DE VENCIMENTOS DE SERVIDORES PÚBLICOS. AVANÇO E PROGRESSÃO. PREVISÃO NA LEI MUNICIPAL 058/1997. COMPUTO DAS VERBAS ADQUIRIDAS PELO TEMPO DE SERVIÇO PRESTADO AO MUNICÍPIO E PELO CRITÉRIO DE MERECIMENTO. OBRIGATORIEDADE DO MUNICÍPIO DE AVALIAR O SERVIDOR. ATO VINCULADO. PERÍODO DE TRABALHO CELETISTA. POSSIBILIDADE DE COMPUTAR NO TEMPO DE SERVIÇO. JURISPRUDÊNCIA DO STJ. REFORMADA CONTAGEM DOS AVANÇOS E PROGRESSÕES. SERVIDOR QUE OBTEVE 10 AVANÇOS E 8 PROGRESSÕES NO CURSO DO PERÍODO LABORAL, DEVENDO SER IMPLANTADO NO NÍVEL 88, SENDO DEVIDAS AS DIFERENÇAS DOS VALORES PAGOS E O QUE ERA DEVIDO PELO RECONHECIMENTO DO DIREITO. INCIDÊNCIA NOS REFLEXOS SOBRE AS VERBAS DECORRENTES DA RELAÇÃO DE TRABALHO. INCIDÊNCIA DA CORREÇÃO MONETÁRIA PELO IPCA-E, DESDE A DATA QUE CADA PARCELA DEVERIA TER SIDO PAGA, E JUROS NA FORMA DO ART. 1º-F DA LEI Nº 9.494/1997, A PARTIR DA CITAÇÃO. RECURSO DE APELAÇÃO, CONHECIDO EM PARTE E PARCIALMENTE PROVIDO. REMESSA NECESSÁRIA PREJUDICADA (e-STJ Fls. 911/912).
+Os embargos de declaração opostos foram rejeitados (e-STJ Fls. 977/980).
+No recurso especial, a parte recorrente alegou que o acórdão, além de julgar válidos atos de governo local contestados em face de leis federais, contrariou as disposições contidas nos arts. 489, II, § 1º, IV e V, e 1.022, II, e parágrafo único, II, do Código de Processo Civil; 884, do Código Civil; e 2º da LINDB.
+Não foram oferecidas contrarrazões ao recurso especial (e-STJ Fl. 1.017).
+Sobreveio o juízo negativo de admissibilidade na instância de origem (e-STJ Fls. 1.023/1.024), o que deu ensejo à interposição do presente agravo.
+Em suas razões, o agravante defende a tempestividade do apelo especial, sustentando, em resumo, que não houve qualquer feriado local ou suspensão do expediente forense durante o lapso temporal para a interposição do recurso.
+Alega que, de acordo com o sistema de processos eletrônicos do Tribunal de Justiça do Estado do Paraná, o prazo teve início em 10 de setembro de 2021 (sexta-feira) e findou em 30 de setembro de 2021 (quinta-feira), data em que foi interposto o recurso especial.
+Sem impugnação (e-STJ Fl. 1.095).
+É o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação merece prosperar.
+No caso, verifica-se que SERGIO ROSSI foi intimado do acórdão recorrido no dia 09/09/2021 (e-STJ Fl. 987), de modo que o prazo para interposição do recurso teve início em 10/09/2021 e termi nou em 30/09/2021.
+Portanto, o recurso especial interposto em 29/09/2021 revela-se tempestivo.
+Isso posto , dou provimento ao agravo a fim de, reconhecendo a tempestividade do recurso especial, determinar o retorno dos autos ao Tribunal de origem para que prossiga no juízo de admissibilidade.
+Publique-se.
+Intimem-se.
+EMENTA
