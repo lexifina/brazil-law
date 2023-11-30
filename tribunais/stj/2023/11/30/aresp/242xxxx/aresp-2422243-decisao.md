@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  não admitiu o  recurso  especial  de DIEGO DANTAS DE ALMEIDA, interposto  em  face  de  acórdão  assim  ementado  (fls.  369-370):
+DUPLO APELO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO DANOS MORAIS E TUTELA ANTECIPADA .
+01. ÔNUS DA PROVA.
+A legislação processual vigente estabelece que é ônus do autor comprovar os fatos que alicerçam sua pretensão, enquanto recai sobre o réu o dever de demonstrar fatos impeditivos, modificativos ou extintivos do direito alegado pela parte adversa, conforme disposto no artigo 373, do Código de Processo Civil. Precedentes TJGO.
+02. DA ÚNICA PROVA PRODUZIDA ACERCA DA RESPONSABILIDADE PELA ABSTENÇÃO DE TRANSFERÊNCIA DO VEÍCULO.
+No caso vertente, a única prova produzida acerca da responsabilidade pela abstenção de transferência do veículo foi o depoimento de Jaqueline Alves Pinto que comprovou que houve retenção dos documentos inicialmente (o que caracteriza a responsabilidade da empresa ré) e, posteriormente, inércia do comprador (o que enseja o reconhecimento da responsabilidade do autor).
+03. DAS PROVAS ACERCA DOS GASTOS COM REPAROS NO VEÍCULO.
+Noutro diapasão, quanto aos gastos com os reparos do veículo, mister ressaltar que ordens de serviço e orçamentos, desacompanhados de recibos de pagamento, são insuficientes para demonstrar o efetivo desembolso dos valores discriminados nos documentos. Desta forma, o autor não comprovou efetivamente que custou as despesas, além daquelas reconhecidas na sentença.
+04. DA VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO. NECESSIDADE DE RESSARCIMENTO COM OS GASTOS EFETIVOS.
+A parte requerida deverá restituir os valores gastos pelo autor com reparos no veículo, uma vez que a determinação de restituição do bem ao vendedor, sem o aludido ressarcimento, ensejaria o enriquecimento ilícito por parte da empresa. Precedentes TJGO.
+05. DA DISTRIBUIÇÃO DINÂMICA DO ÔNUS DA PROVA. INVERSÃO DO ÔNUS PROBATÓRIO NAS RELAÇÕES DE CONSUMO.
+Por fim, a distribuição dinâmica do ônus da prova (inversão), prevista no §1º do art. 373 deve ser determinada pelo magistrado tão somente na hipótese de impossibilidade ou excessiva dificuldade da parte em produzir determinada prova. No mesmo sentido, por se tratar de relação de consumo, imperiosa a observância do disposto no art. 6º, VIII, do CDC, que traz como requisitos para a inversão do ônus probatório a hipossuficiência do consumidor na produção da prova ou verossimilhança de suas alegações com base nos indícios contidos nos autos. Contudo, não é o caso dos autos, pois bastaria o requerimento de produção de perícia no momento oportuno, juntada de documentos ou mesmo prova testemunhal para comprovar os fatos narrados na exordial. Precedentes TJGO.
+06. DOS REQUISITOS PARA CARACTERIZAÇÃO DO DANO MORAL E MATERIAL.
+Salienta-se, quanto ao direito material sub judice, que o objetivo da indenização por dano moral é dar à pessoa lesada uma satisfação diante da situação dolorosa, aflitiva e constrangedora que vivenciou, buscando, em contrapartida, desestimular o ofensor à prática de novos atos lesivos, daí seu caráter pedagógico. Outrossim, a reparação por dano moral busca o ressarcimento de prejuízo devidamente comprovado e decorrente da conduta da parte adversa. E para a caracterização do dano há necessidade de demonstração inequívoca dos requisitos da responsabilidade civil, quais sejam: a conduta ilícita, a extensão do dano, nexo causal e a culpa (este último apenas quando se tratar de responsabilidade subjetiva). No caso em tela, o autor não demonstrou situação dolorosa, aflitiva e constrangedora capaz de ensejar a condenação da requerida.
+07. DA INCIDÊNCIA DOS JUROS SOBRE OS VALORES A SEREM RESTITUÍDOS AO AUTOR. RESCISÃO POR CULPA CONCORRENTE.
+No caso em tela, trata-se de responsabilidade contratual, de relação jurídica estabelecida a partir do contrato de compra e venda. Logo, os valores a serem restituídos ao comprador devem ser acrescidos de juros desde citação, conforme jurisprudência sedimentada por esta colenda Corte Estadual. Portanto, quanto ao dies a quo para a incidência dos juros, merece provimento o 1º apelo, para reformar a sentença e determinar a incidência dos juros a partir da citação.
+1ª APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+2ª APELAÇÃO CÍVEL CONHECIDA MAS DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados.
+Nas  razões  do  recurso  especial (fls. 431-442),  a parte agravante sustenta violação aos arts. 6º,VI, VIII, 12, 14, e 47 do Código de Defesa do Consumidor, e aos arts. 186 e 927 do Código Civil.
+Aduz que "a inversão probatória constitui direito básico do consumidor, em razão de sua hipossuficiência a inversão do ônus da prova será deferida quando houver indícios de vulnerabilidade e hipossuficiência da parte Recorrente, frente à capacidade técnica e econômica da parte Recorrida" (fl. 436). Considera que, no caso, "estão presentes todos os requisitos hábeis para concessão da inversão do ônus da prova, isso porque, o Recorrente comprova a verossimilhança de suas alegações, tanto com a narração fática verossímil, quanto com a vasta documentação colacionada nos autos que corrobora com as alegações do Recorrente, em especial, por estarem acostados aos autos provas do vínculo obrigacional entre ambas as partes e o evidente rompimento do contrato por culpa exclusiva da parte Recorrida" (fl. 437).
+Argumenta que "ficou devidamente comprovado que a parte Recorrida foi a única e exclusiva responsável pelos danos sofridos pelo Recorrente, uma vez que postergou a sua responsabilidade sem nenhum motivo plausível e aceitável" (fl. 439). Defende que o fornecedor contrai a responsabilidade objetiva em casos de defeito na prestação do serviço, premissa que se amolda ao presente caso.
+Afirma que sofreu danos morais e materiais, porque "acreditou nos serviços que seriam prestados pela Recorrida, que no final quedou-se inerte diante da obrigação que lhe fora imputada contratualmente, tendo o Recorrente que arcar com prejuízo gerados pelo Recorrido" (fl. 441).
+Contrarrazões apresentadas.
+Juízo negativo de admissibilidade, ensejando a interposição do presente agravo.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Não merece prosperar o presente agravo.
+Consoante orientação desta Corte, a inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Confiram-se, a respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS. 1. CERCEAMENTO DE DEFESA. RAZÕES DISSOCIADAS. SÚMULA 284/STF. 2. INVERSÃO DO ÔNUS PROBATÓRIO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 3. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. NÃO CABIMENTO. 4. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+ ..
+2. É firme a jurisprudência desta Corte Superior no sentido de que "a inversão do ônus da prova fica a critério do juiz, cabendo-lhe apreciar a verossimilhança das alegações do consumidor e/ou a sua hipossuficiência" (REsp n. 1.991.550/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/8/2022, DJe de 25/8/2022). Tais aspectos, por serem intrinsecamente ligados ao conjunto fático-probatório do processo, não podem ser revistos em recurso especial, incidindo óbice da Súmula 7/STJ no ponto.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.357.274/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui firme o entendimento no sentido de que: "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações do consumidor.".(AgInt no AREsp 1328873/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/11/2019, DJe 18/12/2019).
+2. As conclusões do acórdão recorrido no tocante à inexistência de ato ilícito apto a gerar o dever de indenizar; e inversão do ônus da prova; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.581.973/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/3/2020, DJe de 17/3/2020.)
+Ressalte-se, ainda, que: "A jurisprudência desta Corte Superior se posiciona no sentido de que a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito" (AgInt no Resp 1.717.781/RO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 05/06/2018, DJe de 15/06/2018). Precedentes" (AgInt no AREsp n. 2.182.453/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2023, DJe de 10/3/2023).
+No caso, o Tribunal estadual consignou que "a única prova produzida acerca da responsabilidade pela abstenção de transferência do veículo foi o depoimento de Jaqueline Alves Pinto que comprovou que houve retenção dos documentos inicialmente (o que caracteriza a responsabilidade da empresa ré) e, posteriormente, inércia do comprador (o que enseja o reconhecimento da responsabilidade do autor). Logo, neste ponto, escorreita a sentença que reconheceu a culpa concorrente acerca do descumprimento da obrigação de transferência do veículo" (fl. 380).
+A Corte de origem concluiu que não seria o caso de inversão probatória, "pois bastaria o requerimento de produção de perícia no momento oportuno, juntada de documentos ou mesmo prova testemunhal para comprovar os fatos narrados na exordial" (fl. 383).
+Quanto à pretendida reparação por danos morais, destacou que "para a caracterização do dano extrapatrimonial há necessidade de demonstração inequívoca dos requisitos da responsabilidade civil, quais sejam: a conduta ilícita, a extensão do dano, nexo causal e a culpa (este último apenas quando se tratar de responsabilidade subjetiva). No caso em tela, o autor não demonstrou situação dolorosa, aflitiva e constrangedora capaz de ensejar a condenação da requerida" (fl. 385).
+Em tal contexto, rever a conclusão do acórdão recorrido - para reconhecer a culpa exclusiva da demandada, proceder à inversão probatória e acolher o pedido de reparação por danos morais - demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+ ..
+3. Revisar as conclusões do órgão julgador acerca dos elementos ensejadores do dever de indenizar por danos morais, na forma como posta, demandaria o revolvimento de fatos e das provas dos autos, providência obstada pela Súmula 7 do STJ. Precedentes.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.964.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO BANCÁRIO. TÍTULO EXECUTIVO. DEMONSTRATIVO DE EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. SÚMULA. VIOLAÇÃO. IMPOSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA. ALEGAÇÕES. VEROSSIMILHANÇA. NÃO DEMONSTRAÇÃO. REEXAME. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. INVIABILIDADE.
+ ..
+6. A discussão acerca do cabimento ou não da regra inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência do consumidor e da verossimilhança das alegações deduzidas, o que, no presente caso, reclama o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial (Súmula nº 7/STJ).
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.955.527/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+DIREITO BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. NEGATIVA DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE VULNERABILIDADE OU HIPOSSUFICIÊNCIA. SÚMULA 7/STJ. TABELA PRICE. CAPITALIZAÇÃO DE JUROS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. JUROS REMUNERATÓRIOS. TAXA SUPERIOR À MÉDIA DO BACEN. IRRELEVÂNCIA DA DIFERENÇA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..
+3. No presente caso, o eg. Tribunal de origem, com arrimo nas peculiaridades do caso concreto, negou a inversão do ônus da prova, à luz do Código de Defesa do Consumidor, por não vislumbrar o requisito da vulnerabilidade ou verossimilhança das alegações. Pretensão de alterar esse entendimento demanda revolvimento fático e probatório, providência incompatível com o recurso especial, a teor da Súmula 7/STJ.
+ ..
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.848.285/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/3/2022, DJe de 3/5/2022.)
+Em  face  do  exposto,  nego  provimento  ao  agravo.
+Nos termos do artigo 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
