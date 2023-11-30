@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de FABIANO MACHADO NUNES contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi definitivamente condenado à pena total de 10 anos de reclusão, em regime inicial fechado, mais o pagamento de 1.400 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/06.
+Neste writ, alega o impetrante, em síntese, absolvição por insuficiência de provas e redimensionamento das penas-base para o mínimo legal.
+É o relatório.
+Decido.
+As teses vertidas no presente mandamus não foram examinadas pelo Tribunal de origem em sede de revisão criminal, entre outros motivos, porque não foram apresentadas novas evidências que infirmassem a condenação transitada em julgado. Nesse contexto, inviável a análise inaugural do tema por esta Corte Superior de Justiça, sob pena de indevida supressão de instância. Cito precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA. PENA-BASE. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECURSO EM LIBERDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n.
+11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. Uma vez que as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, deve ser mantida inalterada a condenação do réu em relação ao delito de associação para o narcotráfico.
+3. Para entender-se de forma diversa e afastar a compreensão das instâncias de origem de que o recorrente se associou, com estabilidade e permanência, para o fim de praticar o crime de tráfico de drogas, seria necessário o revolvimento do acervo fático-probatório amealhado aos autos, providência, conforme cediço, vedada na via estreita do habeas corpus.
+4. As instâncias ordinárias consideraram devida a imposição da pena-base acima do mínimo legal, em razão da quantidade de drogas apreendidas e por ser o réu policial militar, a evidenciar que atuaram, justamente, em consonância com o disposto no art. 42 da Lei n. 11.343/2006.
+5. Matéria não analisada pelo Tribunal de origem não pode ser diretamente apreciada por esta Corte Superior, sob pena de indevida supressão de instância.
+6. Agravo regimental não provido. (AgRg no HC n. 617.823/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2021, DJe de 30/3/2021.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NULIDADE DO ACÓRDÃO IMPUGNADO. PROVIMENTO JUDICIAL FUNDAMENTADO. EIVA INEXISTENTE. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO MANDAMUS. LIVRE CONVENCIMENTO MOTIVADO. COAÇÃO ILEGAL NÃO CONFIGURADA.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. A imprescindibilidade de fundamentação das decisões judiciais mereceu destaque na Constituição Federal, constando expressamente do inciso IX do artigo 93, justificando-se na medida em que só é possível o seu controle ou impugnação se as razões que as justificaram forem devidamente apresentadas.
+3. A instância de origem examinou todo o conjunto probatório e fundamentou a condenação do agravante pelo delito de tráfico de entorpecentes, o que afasta a eiva suscitada na impetração.
+4. A pretendida absolvição do réu por ausência de provas é questão que demanda aprofundada análise do conjunto probatório produzido, providência vedada na via estreita do remédio constitucional.
+5. No processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não se admitindo no âmbito do habeas corpus a reanálise dos motivos pelos quais a instância ordinária formou convicção pela prolação de decisão repressiva em desfavor do acusado. Precedentes. DOSIMETRIA. REDUÇÃO DA PENA-BASE. ILEGALIDADE DOS REGISTROS UTILIZADOS PARA NEGATIVAR OS ANTECEDENTES DO RÉU. SUPRESSÃO DE INSTÂNCIA. EFEITO DEVOLUTIVO RESTRITO À FUNDAMENTAÇÃO DO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO NAS RAZÕES RECURSAIS.
+1. A alegada inidoneidade da condenação utilizada para valorar negativamente os antecedentes do agravante não foi alvo de deliberação pela autoridade impetrada, até mesmo porque não foi suscitada nas razões recursais, que se cingiram a pleitear a sua absolvição.
+2. Extrai-se do acórdão impugnado que o Tribunal de origem apenas manteve o reconhecimento dos maus antecedentes atestados na sentença condenatória, não discutindo, em momento algum, se os registros utilizados seriam ou não idôneos para a majoração procedida.
+3. A matéria deveria ter sido arguida no momento oportuno e perante o juízo competente, no seio do indispensável contraditório, circunstância que evidencia a impossibilidade de análise da impetração por este Sodalício quanto a este ponto, sob pena de supressão de instância. Precedentes.
+4. Eventual ilegalidade nos registros utilizados para majorar a pena-base do agravante deveria ter sido arguida em embargos de declaração, a fim de permitir que a matéria pudesse ser analisada pelas instâncias superiores, consoante vem decidindo este Sodalício.
+5. Agravo regimental desprovido. (AgRg no HC n. 545.342/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 20/2/2020, DJe de 5/3/2020.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
