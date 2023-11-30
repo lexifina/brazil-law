@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO FALCO BORGES contra a decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado contra o acórdão prolatado na Apelação Criminal n. 1.0416.18.000379-8/001.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 1 (um) ano, 1 (um) mês e 15 (quinze) dias de reclusão, em regime inicial aberto, e ao pagamento de 19 (dezenove) dias-multa, no mínimo legal, como incurso no art. 155 do Código Penal (fls. 103-111).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento (fls. 164-172).
+Os embargos de declaração opostos foram rejeitados (fls. 228-236).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade aos arts. 155, 158, 564, incisos IV e V, 386,inciso VII, do Código de Processo Penal; ao art. 396-A do Código Penal; bem como ao princípio da produção universal de provas.
+Alega que o Tribunal a quo " ..  se curvou, indevidamente, à dispensabilidade de comprovação do valor da res furtiva para constatação da tipicidade material da conduta, elevando, em presunção absoluta de validade, avaliação não oficial e individualizada da coisa supostamente subtraída" (fl. 243).
+Aduz que deveria ter sido produzida prova técnica apta a comprovar se o real valor do bem subtraído é, ou não, superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, de forma a alicerçar devidamente a negativa ou deferimento do pleito pela atipicidade material da conduta imputada ao Réu em razão da incidência do princípio da insignificância.
+Pugna pelo arbitramento de honorários advocatícios ao defensor dativo subscritor do presente recurso especial.
+Foram apresentadas contrarrazões (fls. 326-329). O recurso especial não foi admitido (fls. 341-344). Foi interposto agravo (fls. 350-363).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do agravo em recurso especial (fls. 398-403).
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 167-171):
+"Busca a Defesa em primeiro lugar, a absolvição do apelante em face do princípio da insignificância alegando, para tanto, a inexistência de prova da originalidade da res. furtiva e a impossibilidade de aplicação de referido princípio em face dos maus antecedentes do réu.
+ ..
+Ao meu entender, a insignificância se configura quando o valor da res furtiva for inferior a dez por cento do salário mínimo vigente à época do fato. Somente diante de tal circunstância, é que se poderá denominar um delito de crime bagatelar.
+Quanto à condição de reincidência do recorrente, apesar de posicionamento anteriormente adotado quanto à possibilidade de reconhecimento e aplicação do Princípio da Insignificância, ainda que presente a reincidência do autor, filio-me à posição consolidada nos Tribunais Superiores para reconhecer tal excludente de tipicidade apenas excepcionalmente, quando demonstrado ser tal medida recomendável diante das circunstâncias concretas e rechaçar a possibilidade de aplicação do referido princípio quando multirreincidente o autor ou, como se manifesta o STJ, em casos de habitualidade delitiva.
+ ..
+No presente caso, conforme consta na Certidão de Antecedentes Criminais em f. 24127, o apelante possui mais de uma condenação com trânsito em julgado, aptas a configurar a reincidência do mesmo, além de outros registros, Caracterizando, assim, a habitualidade delitiva do mesmo.
+Com essas considerações, afasto a possibilidade de aplicação do princípio da insignificância no caso concreto, pelos fundamentos acima expostos."
+Como se vê, nas razões do apelo nobre, deixou de ser infirmado o fundamento adotado pela Corte de origem segundo o qual não subsiste o pedido de reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância não só pelo valor da res furtiva, mas também em razão da habitualidade delitiva do Réu, que ostenta maus antecedentes e é reincidente.
+Desse modo, não comporta conhecimento a presente súplica, ante o disposto no Enunciado n. 283 da Súmula do Supremo Tribunal Federal. Nesse sentido: "A ausência de impugnação específica a um ou mais fundamentos do acórdão impugnado, suficientes por si sós para manter o julgado, atrai a incidência da Súmula 283 do STF, por analogia." 3. Agravo regimental improvido." (AgInt no AREsp 1.208.397/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/05/2018, DJe 15/05/2018).
+Por fim, " ..  o arbitramento de honorários ao defensor dativo é de responsabilidade do Estado, nos termos do art. 22, § 1º, da Lei 8.906/1994, motivo pelo qual devem ser pleiteados na origem (AgRg nos EDcl no REsp 1709168/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)" (STJ, AgRg no AREsp 1.448.743/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/05/2020, DJe 02/06/2020).
+Ainda a propósito:
+" ..
+Ademais, "quando não resulta da própria discussão da causa, isto é, do ato jurisdicional decorrente da competência desta Corte, mas sim de feito incidental em ação penal em curso perante o primeiro grau de jurisdição, a decisão de estabelecimento de honorários advocatícios deve caber a quem tem vinculação com o Poder de designação e liberação orçamentária dos valores arbitrados, porquanto não é possível ao Superior Tribunal de Justiça impor despesa a qualquer ente da federação" (EDcl no RHC 88.880/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 2/8/2018).
+2. Agravo regimental desprovido." (AgRg nos EDcl no RHC 131.319/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/04/2021, DJe 13/04/2021, grifei.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. FURTO. PLEITO PELA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL, A FIM DE COMPROVAR O REAL VALOR DA RES FURTIVA COM O OBJETIVO DE RECONHECER A ATIPICIDADE MATERIAL DA CONDUTA EM RAZÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO APELO NOBRE. SÚMULA N. 283/STF. PEDIDO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS PELA ATUAÇÃO DO DEFENSOR DATIVO NESTA INSTÂNCIA E SPECIAL. NÃO CABIMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
