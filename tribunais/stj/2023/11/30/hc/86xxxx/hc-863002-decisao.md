@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRE LUIZ DA SILVA NASCIMENTO contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos que o paciente foi condenado às penas de 13 (treze) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, e ao pagamento de 63 (sessenta e três) dias-multa, a ser cumprida em regime fechado, pela prática do crime descrito no artigo 157, § 2º, I e II, e artigo 288, parágrafo único, do Código Penal, consoante relatado à folha 57.
+A defesa interpôs recurso de apelação perante o Tribunal de Justiça, que deu parcial provimento ao recurso, para reduzir as penas para 09 (nove) anos, 09 (nove) meses e 15 (quinze) dias de reclusão, e pagamento de 22 (vinte e dois) dias-multa, mantidos os demais termos da condenação, conforme o acórdão de fls. 52-60.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na aplicação de pena mais gravosa com embasamento em lei posterior ao delito, no tocante à causa de aumento relativa ao emprego de arma de fogo, violando o princípio da irretroatividade da lei penal maléfica.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja aplicada a causa de aumento de pena em relação à utilização de arma de fogo, considerando que o crime foi praticado antes da vigência da Lei 13.654/2018, no patamar de 1/3 (um terço) e, subsidiariamente, que seja aplicada a fração de 2/5, nos termos do artigo 157, parágrafo 2º, I e II, do Código Penal, antes das modificações introduzidas pela Lei 13.654/2018.
+O pedido liminar foi indeferido às fls. 63-64.
+Informações prestadas às fls. 71-90 e 91-94.
+O Ministério Público Federal, às fls. 99-103, opinou pelo não conhecimento do writ, mas pela concessão da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na suposta ilegalidade em razão da aplicação de lei penal posterior mais gravosa, no tocante à causa de aumento do emprego de arma de fogo.
+No tocante à terceira fase da dosimetria da pena, registro que apesar das modificações realizadas pela Lei 13.654/2018 e Lei 13.964/2019, a causa de aumento de pena pelo emprego de arma de fogo não foi abolida do ordenamento jurídico, tendo sido objeto de continuidade típico-normativa.
+Assim, tal como defendido pela defesa, há ilegalidade na incidência do patamar de 2/3, mais gravoso, introduzido pela Lei 13.654/2018, de 24 de abril de 2018, aos delitos perpetrados anteriormente à sua vigência, em virtude do princípio da irretroatividade da novatio legis in pejus.
+Nesse sentido, verifico que a aplicação da causa de aumento de pena, no patamar de 2/3 (dois terços), em razão da utilização de arma de fogo, caracteriza coação ilegal passível de ser extirpada pela via estreita do habeas corpus.
+O acórdão impugnado aplicou indevidamente a lei penal posterior mais gravosa (Lei 13.654/2018), a qual estabeleceu a causa de aumento de pena de 2/3, em razão do emprego de arma de fogo, a delito roubo que foi perpetrado em 02 de março de 2016 (fl. 73), ainda sob a égide da lei anterior, que previa a incidência da fração máxima de 1/3 (um terço).
+Nesse sentido:
+" ..  5. Em se tratando de conduta praticada em 12/4/2018, anteriormente à edição da Lei 13.654, de 24/4/2018, não se aplica o aumento em 2/3 à majorante do emprego de arma de fogo, nos termos do art. 157, § 2º-A, I, do Código Penal, em razão da irretroatividade da lei penal mais gravosa.
+ ..
+7. Agravo regimental parcialmente provido. Concessão parcial da ordem de habeas corpus, com extensão aos corréus, para fixar a pena final de Divalnice Batista da Silva Cravo e Divair Batista Cravo em 9 anos, 9 meses e 25 dias de reclusão, em regime fechado, e 16 dias-multa; e a de Welinton Eduardo Oliveira em 7 anos e 6 meses de reclusão, em regime inicial fechado, e 13 dias-multa." (AgRg no HC n. 650.725/SP, Sexta Turma, Rel. Ministro Olindo Menezes (Desembargad or Convocado do TRF 1ª Região), DJe de 20/8/2021.)
+Corroborando o entendimento: HC n. 705.060/SP, Quinta Turma, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/2/2022; e REsp n. 1.860.184/RS, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe de 4/9/2020.
+Dessa feita, a fração a título de causa de aumento de pena, em razão do roubo com emprego de arma de fogo, deve ser reduzida ao patamar de um terço (1/3), restando a pena do paciente fixada em 06 (seis) anos e 08 (oito) meses de reclusão, e 17 (dezessete) dias-multa.
+Em virtude do concurso material entre os delitos de roubo e associação criminosa (01 ano, 5 meses e 15 dias de reclusão), a pena definitiva fica estabelecida em 08 (oito) anos, 1 (um) mês e 15 (quinze) dias de reclusão, e 17 (dezessete) dias-multa, mantido o regime prisional inicial fechado, em razão da quantidade de pena e da reincidência do paciente.
+Ante o exposto, concedo a ordem de habeas corpus, para redimensionar as penas de ANDRE LUIZ DA SILVA NASCIMENTO em 08 (oito) anos, 1 (um) mês e 15 (quinze) dias de reclusão, além de 17 (dezessete) dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intime-se.
+EMENTA
