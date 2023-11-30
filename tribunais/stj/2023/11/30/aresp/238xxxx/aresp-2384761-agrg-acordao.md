@@ -1,0 +1,66 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME LICITATÓRIO. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO VÁLIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. As circunstâncias do crime foram valoradas negativamente, na primeira etapa da dosimetria da pena, pela sofisticação no modo de execução do delito, considerando o quantitativo de elementos fraudulentos praticados, quais sejam, "elaborar um edital sem especificação da quilometragem a ser percorrida pelos licitantes, indicação de turno e quantidade de alunos transportados, ausência de parâmetro de fixação de preços e aceitação de propostas sem prévia descrição qualitativa dos veículos que iriam transportar os alunos", o que atrai o maior desvalor da conduta, não havendo, portanto, falar-se em bis in idem.
+2. O entendimento adotado pelo Tribunal de origem encontra amparo na jurisprudência desta Corte Superior, "no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016).
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por JOSÉ HÉLIO DE MENEZES, contra decisão monocrática de minha relatoria que conheceu do agravo para negar provimento ao recurso especial (e-STJ, fls. 1.249 - 1.253).
+A parte agravante aduz, em síntese, que: (i) a revisão criminal não foi ajuizada como espécie de novo recurso de apelação, mas em razão de violação frontal a dispositivo de lei federal; (ii) a análise do recurso especial dispensa o revolvimento de matéria fática e probatória; (iii) a execução do delito "ocorreu de modo primário, comum, somente com a elaboração de um edital deficiente e que não atendia princípios básicos da licitação,diante da inexistência regras editalícias que pudessem limitar as especificações dos serviços que deveriam ser prestados pelos particulares", de modo que não havia motivação para elevar a pena-base na primeira fase da dosimetria e (iv) "os "elementos fraudulentos" apontados na dosimetria da pena representam uma segunda valoração ou bis in idem das mesmas circunstâncias fáticas inerentes ao tipo previsto no art. 90 da Lei nº 8.666/93" (e-STJ, fl. 1.268).
+Pede, ao final, o provimento deste agravo regimental, a fim de prover também o recurso especial.
+É o relatório.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 2.384.761 - DF (2023/0201033-5)
+RELATOR
+:
+MINISTRO RIBEIRO DANTAS
+AGRAVANTE
+:
+JOSE HELIO DE MENEZES
+ADVOGADOS
+:
+FABIANO VASCONCELOS SILVA DIAS - BA022716
+RAFAEL FONSECA TELES - BA029116
+JOSÉ MAURICIO VASCONCELOS COQUEIRO - BA010439
+ALOISIO SANTOS DE CARVALHO FREIRE - BA039758
+AGRAVADO
+:
+MINISTÉRIO PÚBLICO FEDERAL
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME LICITATÓRIO. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO VÁLIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. As circunstâncias do crime foram valoradas negativamente, na primeira etapa da dosimetria da pena, pela sofisticação no modo de execução do delito, considerando o quantitativo de elementos fraudulentos praticados, quais sejam, "elaborar um edital sem especificação da quilometragem a ser percorrida pelos licitantes, indicação de turno e quantidade de alunos transportados, ausência de parâmetro de fixação de preços e aceitação de propostas sem prévia descrição qualitativa dos veículos que iriam transportar os alunos", o que atrai o maior desvalor da conduta, não havendo, portanto, falar-se em bis in idem.
+2. O entendimento adotado pelo Tribunal de origem encontra amparo na jurisprudência desta Corte Superior, "no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016).
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+As considerações da parte agravante não são suficientes para a modificação da decisão agravada, que deve subsistir por seus próprios fundamentos.
+No tocante à dosimetria da pena, assim se manifestou a Corte de origem (1.158-1.160):
+"Segundo se colhe dos autos, o requerente, na então qualidade de prefeito do município de Ibitiara/BA, juntamente com outros corréus, no ano de 2007, realizou "a montagem fraudulenta dos autos do procedimento licitatório "Tomada de Preços nº 002/2007", instaurado com a finalidade de contratar serviços de transporte escolar de discentes dos ensinos fundamental e médio, com verbas do Programa Nacional de Apoio ao Transporte Escolar -PNTE", no valor histórico total de R$ 730.600,00 (setecentos e trinta mil e seiscentos reais).
+Ao se proceder à dosimetria da pena, no que interessa ao caso, assim consignou a sentença (ID 187068735, cito):
+José Hélio de Menezes
+A culpabilidade do agente é inerente ao tipo, sem maiores particularidades.
+Analisando seus antecedentes criminais (fls. 268, 270, 271, 311 e 321), verifico que está comprovada nos autos a inexistência de prévia condenação penal.
+Não há nos autos informação quanto à conduta social do agente, nem elementos capazes de fornecer indicativos quanto à sua personalidade. Há relevo negativo especial nas circunstâncias em que praticada a conduta, já que o quantitativo de elementos fraudulentos praticados, quais sejam, elaborar um edital sem especificação da quilometragem a ser percorrida pelos licitantes, indicação de turno e quantidade de alunos transportados, ausência de parâmetro de fixação de preços e aceitação de propostas sem prévia descrição qualitativa dos veículos que iriam transportar os alunos, foram elementos essenciais para permitir a consumação delitiva.
+As consequências do crime, por seu turno, mostram gravidade compatível com a descrita pelo tipo penal. Não há aspectos relevantes, também, quanto aos motivos do crime. Diante disso, fixo como pena-base corporal o lapso de 02 (dois) anos e 04 (quatro) meses de detenção, a qual torno definitiva por inexistirem circunstâncias legais agravantes ou atenuantes ou causas de aumento ou de diminuição de pena.
+O acórdão confirmatório da condenação, por sua vez, manteve as penas fixadas, com base nos mesmos fundamentos da sentença, por reputá-las suficientes para a reprovação e prevenção do delito imputado ao requerente.
+Em que pese a argumentação do requerente, depreende-se da leitura da sentença que as circunstâncias judiciais se encontram devidamente fundamentadas, não se podendo extrair a ocorrência de eventual bis in idem ou desproporcionalidade na incidência da fração e, tampouco, a adoção de circunstâncias inerentes ao tipo penal para exasperação da pena-base. Nesse sentido, em conformidade com o entendimento do magistrado, as circunstâncias em que praticada a conduta constituíram elementos essenciais para permitir a consumação delitiva, justificando-se, por essa razão, maior rigor na fixação da pena-base.
+De fato, ao acentuar o "quantitativo" de elementos fraudulentos praticados, o magistrado destaca o fato de que, no caso, as circunstâncias em que praticado o delito, mediante múltiplos elementos fraudulentos, desborda da forma simples em que, de regra, se concretiza o delito em consideração, revelando  pelo "quantitativo" de fraudes  forma mais elaborada e sofisticada de consumar o delito, a exigir, portanto, maior censura no momento de aplicação da pena.
+Destacou o magistrado, portanto, não propriamente a existência de fraude, o que seria inerente ao tipo, mas sim o "quantitativo" de elementos fraudulentos praticados (considerados essenciais para a consumação do delito), entendendo, justificadamente, que, no caso, a conduta, como praticada, desbordava da forma ordinária em que se consuma o crime então imputado ao agente. Escorreita, portanto, a pena aplicada na origem e confirmada nesta instância." (grifou-se)
+Extrai-se dos autos que o agravante, na condição de Prefeito Municipal de Ibitiara-BA, foi condenado a uma pena de 2 anos e 4 meses de detenção, em regime aberto, pela prática do crime previsto no art. 90 da Lei 8.666/1993 por ter, em conjunto com os corréus, membros da Comissão Permanente de Licitações daquele município, fraudado procedimento licitatório com a finalidade de contratar serviços de transporte escolar
+Como afirmei quando do julgamento monocrático, a negativação das circunstâncias não se valeu de elementos do próprio tipo de fraude à licitação, mas sim da sofisticação em seu modo de execução no caso concreto, considerando o quantitativo de elementos fraudulentos praticados, quais sejam, "elaborar um edital sem especificação da quilometragem a ser percorrida pelos licitantes, indicação de turno e quantidade de alunos transportados, ausência de parâmetro de fixação de preços e aceitação de propostas sem prévia descrição qualitativa dos veículos que iriam transportar os alunos", o que atrai o maior desvalor da conduta, não havendo, portanto, falar-se em bis in idem.
+A corroborar:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. CONSUNÇÃO ENTRE FALSO E ESTELIONATO. IMPOSSIBILIDADE. PRECEDENTES. POTENCIALIDADE LESIVA NÃO EXAURIDA. ENTENDER DE FORMA DIVERSA DEMANDARIA EM REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA N. 07 STJ. DOSIMETRIA. PRIMEIRA FASE. FIXAÇÃO DA PENA BASE. CIRCUNSTÂNCIAS E CONSEQUENCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A jurisprudência desta Corte Superior é pacífica no sentido de que o falso é absorvido pelo crime de estelionato, quando se nele exaure sua potencialidade lesiva, conforme dispõe o enunciado n.º 17 da Súmula do Superior Tribunal de Justiça.
+II - Na espécie, o Tribunal local, mediante valoração do acervo fático-probatório, concluiu que a potencialidade lesiva da Carteira de Identidade falsificada não se esgotou tão somente em uma única prática delitiva.
+III - Dessa forma, a inversão do julgado para aplicar o princípio da consunção demandaria reexame das provas, o que é inviável em sede de recurso especial, a teor da Súmula n.º 7/STJ.
+IV - No caso destes autos, restou consignado pelas instâncias de origem que a valoração negativa das circunstâncias do crime era devida considerando a premeditação e o grau de sofisticação da fraude, envolvendo mais de uma pessoa, possivelmente agentes públicos, sendo que as informações pessoais do servidor público foram obtidas mediante acesso ao banco de dados da CEF, o que atrai o maior desvalor da conduta.
+V - Tal compreensão não destoa daquilo que esta Corte tem considerado no momento de avaliar a pertinência da elevação da pena quanto ao vetor ora em análise, uma vez que a descrição dos fatos ilustra a gravidade concretado delito, sendo fundamento idôneo para a elevação da pena-base acima do mínimo legal.
+VI - O v. acórdão recorrido aponta que o valor do prejuízo (e não este em si), pela sua expressividade, deve ser valorado como consequência negativa do crime. No caso, a monta subtraída é de R$ 24.500,00 (vinte e quatro mil e quinhentos reais), o qual é considerável e suficiente para valorar negativamente essa circunstância judicial, mormente por representar mais de 33 (trinta e três) salários mínimos à época dos fatos, sendo este igualmente fundamento idôneo para a elevação da pena-base acima do mínimo legal.
+Agravo regimental desprovido."
+(AgRg no REsp n. 2.010.513/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023.)
+Por fim, destaco que a revisão criminal, preconizada no artigo 621 do Código de Processo Penal, será admitida: i) por contrariedade à lei ou provas constantes dos autos; ii) quando a sentença condenatória se fundamentar em prova falsa; e iii) quando novos fatos denotarem modificação da situação para inocência ou redução de pena.
+No caso em apreço, o Tribunal de origem destacou que a revisão criminal fora proposta como nova apelação, uma vez que o agravante não agregou qualquer fundamento novo apto a ensejar a excepcional desconstituição da coisa julgada.
+O entendimento adotado pelo Tribunal de origem encontra amparo na jurisprudência desta Corte Superior "no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
