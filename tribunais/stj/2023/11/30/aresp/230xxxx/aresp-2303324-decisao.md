@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO FIBRA S.A. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 85):
+EMENTA Processo civil. Cumprimento de sentença. Utilização de laudo de avaliação produzido em outro processo. Descabimento. Avaliação aludida pelo exequente que não fora realizada por profissional da área, mas por Oficial de Justiça do Rio de Janeiro há cerca de 3 anos, mostrando-se razoável, assim, seja a avaliação por realizada por profissional com conhecimento técnico naquela sorte de atuação. Artigo 372 do CPC. Recurso improvido.
+Rejeitados os embargos de declaração opostos (fls. 93-96).
+Nas razões do recurso especial (fls. 99-112), aponta a parte recorrente ofensa ao disposto nos artigos:
+a) 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, sustentando que houve omissão no acórdão recorrido quanto ao argumento de que a avaliação em questão não envolve complexidade ou exige conhecimento técnico profissional para sua realização; e
+b) 4º, 154, V, 372, 870 e 872 do Código de Processo Civil, alegando que o oficial de justiça possui aptidão para elaboração do laudo de avaliação do imóvel e que a prova emprestada preenche todos os requisitos de admissão.
+Sem contrarrazões (fl. 118), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 119-121), o que ensejou a interposição do presente agravo (fls. 125-138).
+Sem contraminutas do agravo (fl. 140).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se configura a apontada violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil. Embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem a apontada omissão, como pode ser verificado no seguinte trecho do acórdão recorrido (fls. 86-87):
+Para a satisfação da execução houve a penhorado imóvel descrito na matrícula no. 31.360 do 2º Oficial de Registro de Imóveis da Comarca de Macaé, Estado do Rio de Janeiro, tendo o credor então requerido fosse utilizada como prova emprestada a avaliação do referido bem em outro processo, no qual se apurou o valor de R$ 10.300.000,00.
+O Juiz indeferiu o pedido ao argumento de que, considerando a natureza e o valor do bem, fazia-se necessária a avaliação por pessoa com conhecimento técnico,
+Pois motivo a Corte não tem para censurar a decisão monocrática, já que as razões recursais em nada a desmerecem.
+Consoante o artigo 372 do Código de Processo Civil, "o juiz poderá admitir a utilização de prova produzida em outro processo, atribuindo-lhe o valor que considerar adequado, observado o contraditório" (grifo nosso)
+A lei deixa a critério do Juiz, portanto, aferir a conveniência de fazer uso de prova emprestada, sendo que na espécie não se mostrava desarrazoada a determinação do Juiz para que no caso concreto a avaliação fosse feita por profissional dotado de conhecimento técnico.
+Afinal, a avaliação trazida pelo recorrente não fora realizada por profissional da área, mas pelo Oficial de Justiça de Comarca do Rio de Janeiro (fls. 1.862/1.864 dos autos de origem).
+Ora, a particularidade de a avaliação ter sido realizada por meirinho, associada ao fato de se tratar de uma grande área de terras de valor significativo e de referida avaliação ter ocorrido já há alguns anos (2019, tornava razoável evitar aquela prova emprestada e em substituição mandar proceder à avaliação judicial.
+No que se refere aos arts. 4º, 154, V, 372, 870 e 872 do Código de Processo Civil, o Tribunal de origem concluiu que o laudo de avaliação do imóvel penhorado produzido em outro processo não pode ser utilizado nesta ação de execução por título extrajudicial, baseado nos fatos e nas provas existentes nos autos, de acordo com o trecho do acórdão acima transcrito.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confiram-se precedentes : AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
