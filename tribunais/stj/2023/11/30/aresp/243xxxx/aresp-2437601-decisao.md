@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por LUIZ FELIPE LIMA LAITANO, em face de decisão do TJ/RS que inadmitiu o recurso especial que interpusera ante ao reconhecimento da deserção.
+O agravante sustenta a inaplicabilidade da decisão à espécie, mormente porquanto procedeu ao devido preparo recursal de forma oportuna.
+Aduz que "consta nos autos a guia de preparo recursal Evento 32 GUIADEP2, bem como o efetivo pagamento via sistema eletrônico bancário (internet banking) Evento 32COMP3, com clara menção à data e à hora da transação interbancária realizada, com o código de barras da guia, e número do documento, em nada se confundindo com o mero agendamento de pagamento (..)" (e-STJ Fl. 497).
+Assevera, ainda, consoante o entendimento desta Corte, que "a guia eletrônica de pagamento via Internet constitui meio idôneo à comprovação do recolhimento do preparo, desde que preenchida com a observância dos requisitos regulamentares (..)" (e-STJ Fl. 505).
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos da jurisprudência do STJ, os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção.
+Nesse sentido: AgInt no AREsp 1.650.747/SP, 3ª Turma, DJe de 7/10/2020; e AgInt no REsp 1.870.574/MG, 4ª Turma, DJe de 22/9/2020.
+Da análise dos autos, verifica-se que a petição de recurso especial foi reconhecidamente protocolizada de forma irregular, "não sendo possível, portanto, aferir a regularidade do preparo" (e-STJ Fl. 443).
+Verificada a irregularidade no preparo pelo Tribunal de origem (e-STJ Fls. 443/447), foi determinada a intimação do agravante para regularização, com recolhimento em dobro das custas, sob pena de deserção, nos termos do art. 1.007, §4º, do CPC.
+Ato seguinte, o agravante apresentou pedido de reconsideração, o qual restou indeferido e, em sede de inadmissão recursal, constatou-se que a parte "foi instada a suprir a ausência do preparo recursal, mediante o pagamento em dobro das custas judiciais do recurso especial, nos termos do artigo 1.007, § 4º, do NCPC. Entretanto, não desempenhou tal ônus, na medida em que comprovou o preparo na forma simples, consoante se verifica dos documentos juntados: um novo recolhimento e o extrato bancário, que não serve para demonstrar a efetiva quitação do recibo juntado quando da interposição do recurso" (e-STJ Fl. 475).
+Dessa forma, conclui-se que, de fato, o agravante não comprovou, no ato da interposição do recurso especial, o efetivo recolhimento do preparo, sendo que, diante da irregularidade verificada, fora intimado para o recolhimento em dobro do valor das custas, nos termos do art. 1.007, § 4º, do CPC.
+Ao não atender tal determinação, limitou-se a reiterar a juntada das guias de recolhimento das custas devidas ao STJ de forma simples, o qual teria sido realizado na data de interposição do recurso especial.
+Com efeito, conforme jurisprudência desta Corte, "não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015" (AgInt no AREsp n. 2.057.426/SP, 4ª Turma, DJe de 29/6/2022).
+Ainda nesse sentido: AgInt no AREsp 1.833.742/MG, 3ª Turma, DJe de 23/02/2022; e AgInt no AgInt no REsp 1718692/RO, 4ª Turma, DJe de 02/05/2019.
+Ressalte-se o entendimento desta Corte no sentido de que "o recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, 4ª Turma DJe de 02/10/2017).
+Também nesse sentido: AgInt no AREsp n. 1.872.212/SP, 4ª Turma, DJe de 28/6/2022; e AgInt no AREsp n. 1.984.651/PR, 3ª Turma, DJe de 23/3/2022.
+Por fim, o agravante não justificou a falta do recolhimento em dobro nas razões do agravo em recurso especial, cingindo-se a alegar que o pagamento das custas processuais ocorreu de forma tempestiva e regular.
+Portanto, descumprida a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendida a determinação legal de recolhimento em dobro, após intimado, é de rigor que à parte ora agravante seja imposta a pena de deserção do recurso, incidindo na espécie o disposto na Súmula 187/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. PREPARO. RECOLHIMENTO EM DOBRO. NÃO COMPROVAÇÃO APÓS INTIMAÇÃO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção. Precedentes.
+2. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC. Precedentes.
+3. O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal. Precedentes.
+4. Agravo em recurso especial não conhecido.
