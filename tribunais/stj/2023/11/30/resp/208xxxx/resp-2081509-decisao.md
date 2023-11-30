@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa na Apelação Criminal n. 0167482-96.2022.8.19.0001.
+Consta nos autos que o Recorrido foi condenado como incurso nos arts. 157, §§ 2º, inciso II, e 2.º-A, inciso I, e 329, § 1º, do Código Penal, a 11 (onze) anos, 6 (seis) meses e 13 (treze) dias de reclusão, em regime inicial fechado, e 23 (vinte e três) dias-multa (fls. 173-187).
+O Tribunal de origem deu parcial provimento ao apelo defensivo para absolver o Acusado da prática do crime de resistência e decotar a majorante da arma de fogo, reduzindo a reprimenda para 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais o pagamento de 14 (quatorze) dias-multa (fls. 271-286).
+Nas razões do recurso especial, o Ministério Público aponta violação dos arts. 157, § 2.º-A, inciso I, do Código Penal e dos arts. 155, 158, 167 e 564, inciso III, alínea b, todos do Código de Processo Penal.
+Aduz, em suma, serem desnecessárias a apreensão e a perícia do armamento para a configuração da respectiva majorante, pois ficou demonstrado, de forma incontroversa, o seu uso para ameaçar a Vítima.
+As contrarrazões foram apresentadas às fls. 329-334.
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 358-362 ).
+É o relatório. Decido.
+A Corte de origem decotou a majorante referente ao emprego de arma de fogo no delito de roubo com apoio nestas razões:
+"Por outro lado, entendo que assiste razão à Defesa quando pleiteia o afastamento da causa de aumento de pena prevista no § 2º-A, inciso I do artigo 157 do Código Penal.
+É cediço que o atual posicionamento dos Tribunais Superiores é no sentido da desnecessidade da apreensão da arma de fogo para reconhecimento da majorante, desde que outras provas possam, com idoneidade, confirmar seu emprego na prática delitiva.
+Desta forma, entendo ser necessário que sejam examinadas as circunstâncias em que o crime foi praticado, para que se verifique a idoneidade necessária na prova produzida, a fim de concluir que, de fato, os roubadores empregaram arma de fogo na prática criminosa, bem como para definir o perigo real a que esteve sujeita a vítima.
+Na presente hipótese, a arma de fogo não foi apreendida ou periciada, sendo certo que somente a vítima relatou ter sido abordada pelo réu com uma arma de fogo, que, por sua vez, afirmou que se tratava de um simulacro.
+Ressalte-se que, no momento da revista pessoal realizada, nenhuma arma de fogo foi arrecadada com o acusado, nem no interior do veículo.
+Assim, diante da inexistência de outros elementos de convicção que pudessem amparar uma efetiva comprovação de que o réu estivesse armado e de que se tratava, efetivamente, de arma de fogo apta a produzir disparos, e não um simulacro, bem como diante da orientação dos Tribunais Superiores que exigem idoneidade da prova quando a suposta arma empregada no crime não é apreendida, entendo que deve ser afastada a referida majorante." (fl. 280-281, sem grifos no original)
+Como se vê, o acórdão estadual, embora tenha acolhido o entendimento de que a aplicação do art. 157, § 2º-A, inciso I, do Código Penal, pode dispensar a realização de perícia no armamento, concluiu que os demais ele mentos de convicção constantes nos autos não seriam suficientes para atestar com segurança o uso da arma no caso concreto.
+Eventual reversão do julgado, com o objetivo de acolher o pleito de se restabelecer a sentença nesse ponto, exigiria o revolvimento de todo o conjunto fático-probatório em que se ampararam as conclusões das instâncias ordinárias, atraindo a incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido, mutatis mutandis:
+" ..
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet ao acusado pelo delito do art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, CP.
+Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por ausência de prova para a condenação, o afastamento das causas de aumento (concurso de agentes, emprego de arma de fogo e restrição de liberdade da vítima), bem como pela participação de menor importância, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ." (AgRg no AREsp 2345206/SP. Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 15/08/2023, DJe de 22/08/2023 - sem grifos no original)
+" ..
+2. A Corte originária reconheceu a existência de elementos de prova suficientes para embasar a aplicação da majorante do art. 157, § 2º-A, I, do CP. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a afastar a referida majorante, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 1843257/TO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 28/02/2023, DJe de 03/03/2023 - sem grifos no original)
+Ante o exposto, NÃO CONHEÇO d o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. ROUBO CIRCUNSTANCIADO. AUSÊNCIA DE APREENSÃO E PERÍCIA DA ARMA DE FOGO. EXISTÊNCIA DE OUTROS ELEMENTOS PROBATÓRIOS SUFICIENTES PARA O RECONHECIMENTO DA MAJORANTE DO ART. 157, § 2º-A, INCISO I, DO CÓDIGO PENAL. INVERSÃO DO JULGADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
