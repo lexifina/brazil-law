@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto pelo BANCO DO BRASIL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 713-714):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AÇÃOCOLETIVA. CUMPRIMENTO DE SENTENÇA.
+VALOR ATUALIZADO: R$ 551.506,80.
+FUNDAMENTO: CONTAS DE POUPANÇA NºS 110.014.920-9, 110.010.361-6, 200.010.361-2, 130.015.559-8, 100.015.559-2, 120.010.701-X, 110.015.406-7,120.015.406-9, 110.014.474-6, 110.020.121-9, 110.013.871-1, 130.011.388-7,100.015.330-1, 300.015.330-8, 110.015.330-3, 120.012.951-X, 130.012.951-1,100.030.075-4, 110.030.075-6.
+LIMITAÇÃO TERRITORIAL. INOVAÇÃO RECURSAL. A QUESTÃONÃO FOI ENFRENTADA NA DECISÃO AGRAVADA, DE MODO QUE NÃO MERECE SER CONHECIDA, SOB PENA DE SUPRESSÃO DE INSTÂNCIA,POIS SE TRATA DE INOVAÇÃO RECURSAL. NO PONTO, RECURSO NÃO CONHECIDO.
+JUROS REMUNERATÓRIOS. AUSÊNCIA NO TÍTULO EXECUTIVO. OTÍTULO EXECUTIVO (A SENTENÇA PROFERIDA NA AÇÃO CIVILPÚBLICA MOVIDA PELO IDEC CONTRA O BANCO DO BRASIL) NÃO PREVIU EXPRESSAMENTE A INCIDÊNCIA DE JUROS REMUNERATÓRIOS. O PARADIGMA RESP 1.384.142/DF (TEMA887-STJ) AFASTOU ESSA RUBRICA, RESSALVANDO AO INTERESSADO,SE POSSÍVEL, AJUIZAR AÇÃO INDIVIDUAL DE CONHECIMENTO. NOCASO CONCRETO, A DECISÃO RECORRIDA ELABOROU A MEMÓRIAATUALIZADA DO DÉBITO SEM INCLUIR OS JUROS REMUNERATÓRIOS,NÃO HAVENDO QUE SE FALAR EM REALIZAÇÃO DE NOVO CÁLCULO. RECURSO DESPROVIDO, NO PONTO.
+HONORÁRIOS ADVOCATÍCIOS DA FASE DE CUMPRIMENTO DE SENTENÇA. CABIMENTO. SÃO DEVIDOS HONORÁRIOS ADVOCATÍCIOS PELO SERVIÇO PRESTADO NA FASE DO CUMPRIMENTO DE SENTENÇA, DEPOIS DE ESCOADO O PRAZO PARAPAGAMENTO VOLUNTÁRIO, SEGUNDO A ATUAL ORIENTAÇÃO DO STJ, DEFINIDA QUANDO DO EXAME DO RESP. 1.134.186 (RECURSOREPETITIVO). NA HIPÓTESE EM TELA, NÃO HOUVE O PAGAMENTODO DÉBITO NO PRAZO DO ART. 523 DO CPC (ANTERIOR 475-J DOCPC/1973), TANTO QUE OPOSTA IMPUGNAÇÃO, SENDO, PORTANTO,DEVIDA A VERBA HONORÁRIA PARA A FASE DE CUMPRIMENTO DESENTENÇA, EM 10% SOBRE O VALOR DO DÉBITO. RECURSODESPROVIDO, NO PONTO.
+MULTA DO ART. 523, § 1º, DO CPC. INAPLICABILIDADE DAPENALIDADE. É INAPLICÁVEL A MULTA DE 10% PREVISTA NO ART.523, §1º, DO CPC EM PEDIDO DE CUMPRIMENTO DE SENTENÇAPROFERIDA EM AÇÃO CIVIL PÚBLICA, POIS TAL EXECUÇÃO ÉATÍPICA, BASEADA EM SENTENÇA CONDENATÓRIA GENÉRICA, EXIGINDO NÃO APENAS A INDIVIDUALIZAÇÃO E A LIQUIDAÇÃO DOVALOR DEVIDO, COMO TAMBÉM A COMPROVAÇÃO DATITULARIDADE DO CRÉDITO. ENTENDIMENTO CONTRÁRIO LEVARIAAO ENRIQUECIMENTO ILÍCITO DA PARTE EXEQUENTE. PRECEDENTE DO STJ: RESP Nº. 1247150/PR, JULGADO EM CARÁTER REPETITIVO. AGRAVO PROVIDO, NO PONTO.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO, PORUNANIMIDADE.
+Rejeitados os primeiros embargos de declaração, e acolhidos os segundos sem efeitos infringentes (fls. 760-766, 769-775).
+No recurso especial, alega o recorrente, preliminarmente, ofensa aos arts. 489, § 1º, II, e 1.022, inciso II, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido, e que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aponta, ainda, afronta aos arts. 373, I, 489, 502, 505, 506, 507 e 508, também, do CPC, ao sustentar, em síntese, que os cálculos elaborados estão em desacordo com a coisa julgada, diante da inclusão indevida de juros remuneratórios nos referidos cálculos, o que ensejou excesso de execução. Defende a impossibilidade de incidência dos juros remuneratórios, e a importância de realização de prova pericial, diante da complexidade dos cálculos a serem confeccionados.
+Contrarrazões ao recurso especial (fls. 846-866).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 869-873), o que ensejou a interposição do presente agravo.
+Contraminuta do agravo (fls. 929-943).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações do recorrente, considerando que a Corte de origem, ao assentar que no caso os cálculos foram elaborados sem a inclusão dos juros remuneratórios, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fl. 707):
+No caso concreto, a instituição financeira interpôs o presente recurso de agravo de instrumento em razão do acolhimento dos embargos de declaração dos autores, decisão que recalculou os valores devidos no feito.
+(..)
+De outra banda, embora as alegações do banco, é possível verificar que a decisão recorrida elaborou os cálculos sem a inclusão dos juros remuneratórios, conforme verificado por este Relator, utilizando como controverso o percentual de 19,74% (evento 3 - processo judicial 14,pgs. 19/26).
+Se os juros fossem incluídos para todo o período, o percentual utilizado seria o de20,4626%.
+Há que salientar que a ferramenta eletrônica (simulador de cálculo) utilizada para a apuração do débito é dotada de confiabilidade, uma vez que desenvolvida por técnicos do próprio Poder Judiciário, especialistas na matéria.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
