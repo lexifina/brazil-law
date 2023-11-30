@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus preventivo com pedido de liminar impetrado em favor de ERNESTO SITTA FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Aduz o impetrante que, em 19/12/2022, o paciente foi conduzido mediante o uso de força por seus filhos, que, de maneira arbitrária, o internaram involuntariamente no Hospital Psiquiátrico Rumo Certo de Cabreúva (SP), lá permanecendo por 60 dias em absoluto isolamento com o mundo exterior e sendo submetido a tratamentos que comprometiam a sua saúde física e mental, local de onde foi libertado em 18/2/2023, em razão de ordem judicial cumprida pela polícia judiciária do Estado de Goiás.
+Afirma que, em 24/2/2023, os filhos e os três irmãos do paciente ajuizaram ação de interdição sob a alegação de que ele não goza de saúde mental para a prática de atos da vida civil, tendo os autores desistido da demanda após o paciente firmar acordo verbal com seus herdeiros, no sentido de constituir uma holding familiar para passar a gerir o seu patrimônio, além de alterar o seu testamento de modo a favorecê-los.
+Não obstante, afirma o impetrante que o paciente teme ser novamente internado contra a sua vontade, uma vez que decidiu que a criação da acordada holding teria um custo patrimonial que ele não estaria disposto a pagar , razão pela qual impetrou habeas corpus preventivo perante o Tribunal local, que não conheceu do writ em razão da sua incompetência.
+O decisum impugnado foi proferido nos seguintes termos (fls. 18-19):
+ ..  À vista deste habeas corpus pretender a concessão de ordem para inibir eventual ação (internação involuntária ou interdição) dos filhos e irmãos do paciente que vise comprometer o direito de locomoção, cumpre-me esclarecer que a competência para processar e julgar o writ não é desta Corte Estadual, pois, as pessoas indicadas como eventuais coatoras não integram o rol legal. Nos termos do artigo 21, inciso I, alínea "c", do Regimento Interno do Tribunal de Justiça do Estado de Goiás (RITJGO), compete às Câmaras Criminais processar e julgar o habeas corpus quando a coação for atribuída a juiz de direito ou substituto, a Procurador-Geral de Justiça, ao Corregedor Geral do Ministério Público, ao Conselho Superior do Ministério Público, a Procurador ou Promotor de Justiça, aos Secretários de Estado, ao Comandante Geral da Polícia Militar e ao Comandante Geral do Corpo de Bombeiros. Assim, com fulcro no artigo 138, inciso III, do RITJGO, monocraticamente, não conheço da impetração. Publique-se. Registre-se. Intimem-se.
+Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão hostilizada.
+Requer a concessão da ordem, liminarmente, para impedir que o paciente sofra nova internação involuntária.
+É, no essencial, o relatório.
+A jurisprudência desta Corte Superior já pacificou o entendimento de que, em regra, não é admissível a utilização do habeas corpus como sucedâneo ou substitutivo de recurso ordinário cabível, sendo excepcionalmente possível a concessão da ordem, de ofício, para remediar situação de ilegalidade flagrante em processos nos quais a competência do tribunal foi formalmente inaugurada.
+A propósito, cito:
+AGRAVO INTERNO NO HABEAS CORPUS. INADIMPLEMENTO DE OBRIGAÇÃO ALIMENTAR. EXECUÇÃO DE SENTENÇA. PRISÃO CIVIL. WRIT UTILIZADO COMO SUCEDÂNEO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. PRECEDENTES. EXAME DA POSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. CREDORES DA VERBA ALIMENTAR MAIORES DE IDADE E COM POTENCIAL APTIDÃO PARA DESEMPENHO DE ATIVIDADES LABORATIVAS REMUNERADAS QUE PODEM AFASTAR O RISCO ALIMENTAR. PERDA ATUAL DA NATUREZA EMERGENCIAL DO ALIMENTOS.
+CONCESSÃO DA ORDEM DE OFÍCIO. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta eg. Corte Superior já proclamou que, em regra, não é admissível a utilização do habeas corpus como sucedâneo ou substitutivo de recurso ordinário cabível. Possibilidade excepcional de concessão da ordem de ofício. Precedentes.
+2. (..)
+3. Agravo interno improvido.
+(AgInt no HC 729.544/PR, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Não é essa, contudo, a hipótese que ora se apresenta, pois o habeas corpus foi manejado contra decisão singular do desembargador relator no Tribunal de origem, sem informação de que tenha havido interposição de agravo regimental para manifestação do órgão colegiado daquela Corte.
+Assim, não tendo sido demonstrado o exaurimento da instância ordinária, inviável o conhecimento do presente writ, sob pena de indevida supressão de instância.
+Nesse sentido, cito:
+HABEAS CORPUS. PEDIDO DE RECONSIDERAÇÃO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. CONHECIMENTO COMO AGRAVO REGIMENTAL. PENAL. PLEITO DE OBSTAR A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL PENDENTE DE JULGAMENTO NA CORTE FEDERAL A QUO. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA, EM RAZÃO DO NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. TESE DE CABIMENTO DO APELO DEFENSIVO JULGADO INTEMPESTIVO. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 633.258/RN. COISA JULGADA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente habeas corpus foi manejado contra decisão singular do Desembargador Relator  .. . Ausente o exaurimento da instância ordinária e não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da ação mandamental.
+ ..  4. Pedido de reconsideração recebido como agravo regimental e desprovido.
+(RCD no HC 665.405/RN, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 1/6/2021, DJe de 16/6/2021.)
+Ante o exposto, indefiro liminarmente o presente writ.
+Intimem-se.
+EMENTA
