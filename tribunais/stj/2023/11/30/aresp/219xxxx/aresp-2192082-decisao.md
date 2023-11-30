@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público Federal, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) não ficou caracterizada a afronta aos dispositivos de lei apontados como violados; (II) incide a Súmula 7/STJ, na espécie; (III) aplica-se a Súmula 282/STF por ausência de prequestionamento dos arts. 1º, inciso VIII e 27, §2º, da Lei nº 13.003/16; 34, da Lei nº 12.529/11; 113, 129 e 130, do Código Civil de 2002; e 4º, inciso III, da Lei nº 8.078/90; e (IV) a alegação de afronta aos arts. 1º, da Lei nº 11.516/07; 2º, da Lei nº 4.717/65; 8º, da Lei nº 9.985/2000; e 4º, do Decreto-Lei nº 200/67, não contém a especificação de quais dos seus incisos foram violados, atraindo o óbice da Súmula 284/STF (fls. 1.000/1.006).
+A Subprocuradoria-Geral da República, por intermédio do parecer lançado às fls. 1.062/1.069, opinou pelo não conhecimento deste agravo, nos termos assim resumidos (fl. 1.062):
+DIREITO CIVIL E PROCESSUAL CIVIL. ADMISSIBILIDADE DO RECURSO ESPECIAL.
+- Impugnação que não rebate a integralidade dos fundamentos da decisão que inadmitiu o recurso especial. Incidência da Súmula nº 182/STJ.
+- A reversão do julgado a fim de aferir os critérios adotados pelo Tribunal de origem supõe a reapreciação dos elementos fáticos e probatórios e de questões contratuais, o que é vedado no recurso especial, nos termos da Súmula nº 7/STJ.
+- Parecer pelo não conhecimento do agravo em recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar, genericamente, que "Não houve, obviamente, o exame da prova, mas tão somente a ponderação contra a lei e a Constituição, entre economia e meio ambiente." (fl. 1.017) e que "a pretensão é deduzida sobre antecedentes ao exame da prova." (fl. 1.018), a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, limitando-se, então, a deduzir argumentação genérica sem o apontamento das circunstâncias fáticas que ensejariam o afastamento da Súmula 7/STJ.
+Do mesmo modo, mostra-se insuficiente a impugnação do óbice da Súmula 282/STF pois, em que pese afirmar que "não é necessário que o órgão julgador faça menção aos artigos. A menção expressa é a tese que está sendo discutida, o que ocorreu." (fl. 1.019), não indicou em que trecho do acórdão recorrido foram debatidas as teses ventiladas no apelo especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, alguns dos fundamentos adotados pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento con firmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
