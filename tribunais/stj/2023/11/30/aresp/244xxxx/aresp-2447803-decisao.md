@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por VALDECIR DURLI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 451-452):
+APELAÇÃO. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA ASSENTADA EM INSTRUMENTO PARTICULAR DE CONTRATO DE COMPRA E VENDA DE ESTABELECIMENTO COMERCIAL. DANOS MATERIAIS E MORAIS. PRESCRIÇÃO. PRAZO QUINQUENAL. IMPLEMENTO. AÇÃO JULGADA EXTINTA. SENTENÇA MANTIDA.
+O PRAZO PRESCRICIONAL, ANTES VINTENÁRIO (ARTIGO 177, DO CC/16), FOI REDUZIDO SUBSTANCIALMENTE PELO NOVO DIPLOMA CIVIL, PASSANDO A SER DE 05 ANOS, NOS TERMOS DO ARTIGO 206, §5º, I, DO CC/02.
+DE ACORDO COM A REGRA DE TRANSIÇÃO DO ART. 2.028 DO CC ATUAL, E CONSIDERADA A DATA DO VENCIMENTO DA ÚLTIMA PARCELA (28-08-1998) CONSTANTE NO CONTRATO OBJETO DA AÇÃO, INCIDE À ESPÉCIE O NOVO PRAZO PRESCRICIONAL, DE CINCO ANOS, CONTADO A PARTIR DA DATA DE ENTRADA EM VIGOR DO NOVO CÓDIGO (12/01/2003), CONFORME ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO.
+A PRESCRIÇÃO, PORTANTO, OPEROU-SE EM 12/01/2008. COMO A PRESENTE AÇÃO FOI AJUIZADA SOMENTE EM 24/10/2021, ENCONTRA-SE PRESCRITA A PRETENSÃO CORRESPONDENTE.
+MESMO QUE CONSIDERADO COMO TERMO INICIAL A DATA DO LAUDO PRODUZIDO NOS AUTOS DA AÇÃO NOTICIADA, MOMENTO A PARTIR DO QUAL O CREDOR PODERIA TER EXERCIDO A PRETENSÃO, AINDA ASSIM ESTARIA PRESCRITA A PRETENSÃO.
+AÇÃO JULGADA EXTINTA.
+SENTENÇA CONFIRMADA.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração opostos por foram rejeitados (fl. 476).
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA ASSENTADA EM INSTRUMENTO PARTICULAR DE CONTRATO DE COMPRA E VENDA DE ESTABELECIMENTO COMERCIAL. DANOS MATERIAIS E MORAIS. PRESCRIÇÃO. PRAZO QUINQUENAL. IMPLEMENTO. AÇÃO JULGADA EXTINTA. SENTENÇA MANTIDA. ERRO MATERIAL, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO INOCORRENTES. EXEGESE DOS ARTIGOS 1.022 E PARÁGRAFO ÚNICO, E 489, § 1º, DO CPC/2015. NA SISTEMÁTICA DO NOVO CÓDIGO DE PROCESSO CIVIL, OS EMBARGOS DE DECLARAÇÃO PODEM SER OPOSTOS CONTRA QUALQUER DECISÃO JUDICIAL VICIADA POR ERRO MATERIAL, OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. NÃO EVIDENCIADA QUAISQUER DAS HIPÓTESES ELENCADAS NO ARTIGO 1.022 DO CPC/2015, INVIÁVEL O ACOLHIMENTO DOS EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. VEDAÇÃO. OS EMBARGOS DE DECLARAÇÃO VISAM A ESCLARECER/SANAR EVENTUAIS ERROS, PONTOS OBSCUROS, CONTROVERSOS, OMISSOS, NÃO SENDO A VIA CORRETA PARA A REDISCUSSÃO DA MATÉRIA JÁ DECIDIDA. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+No recurso especial, alega a parte recorrente violação dos arts. 202, IV e 206, § 5º, I e § 3º, V, do Código Civil.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 503-512).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 516-519), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 541-544).
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: a) incidência da Súmula n. 7/STJ, e b) a incidência da Súmula n. 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+No caso dos autos, não houve impugnação a de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante apenas rebateu o óbice da Súmula n. 7/STJ, abstendo-se, entretanto de impugnar a prejudicialidade da divergência jurisprudencial, ante o óbice da Súmula n. 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confiram-se os seguintes julgados:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ. 1. Ação de indenização por danos materiais e compensação por danos morais. 2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido. 3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.501/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ. ARTIGO 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL CPC. CORREÇÃO DAS DEFICIÊNCIAS EM SEDE DE AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. "É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ. Precedentes" (AgRg nos EAREsp 1206558/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 18/9/2018). 2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial. 3. Agravo regimental não conhecido. (AgRg no AREsp n. 1.929.489/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/11/2021.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários advocatícios em decorrência da concessão da justiça gratuita na origem
+Publique-se. Intimem-se.
+ EMENTA
