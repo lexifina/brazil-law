@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de ação previdenciária, objetivando a concessão de aposentadoria por incapacidade permanente acidentária desde 6/7/2022 e, subsidiariamente, a concessão de auxílio por incapacidade acidentária. Na sentença extinguiu-se o processo sem resolução do mérito. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 18.451,68.
+O recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+Acidente do trabalho - Cozinheira - Lesões nos membros superiores e coluna - Benefício acidentário - Ajuizamento de ação idêntica em Juízo Estadual que atua com delegação federal, a qual apreciou o mérito da demanda - Extinção da ação acidentária, sem resolução de mérito - Sentença mantida - Improvido o recurso da autora.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Muito embora o pleito desta lide seja de benefício acidentário e o da ação pretérita tenha objetivado benesse previdenciária, ambas se baseiam nas mesmas moléstias, ou seja, lesões nos membros superiores e coluna.
+Assim, com base no mesmo evento traumático, a autora pleiteia benefícios indenizatórios da incapacidade total e permanente ou temporária, evidenciando-se que o objetivo das demandas é o mesmo, circunstância esta que gera a litispendência ou coisa julgada, conforme o estado dos processos.
+E, na época em que o autor trouxe cópias da ação previdenciária pretérita, esta já havia sido julgada, por decisão transitada em julgado (fls. 304/308).
+Note-se que nesta nova demanda não há menção ao agravamento da moléstia, ou qualquer outro fato que altere aquilo que passou em julgado na ação pretérita.
+ ..
+Logo, resta evidente que no caso dos autos trata-se de verdadeira repetição de ações.
+ ..
+Repise-se que o ajuizamento de duas demandas, uma de natureza previdenciária e outra acidentária, com base nas mesmas sequelas, não se mostra adequada, na medida em que tal conduta induz a um conflito de interesses e perigo de provimentos jurisdicionais contraditórios, prejudiciais ao ordenamento jurídico.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
