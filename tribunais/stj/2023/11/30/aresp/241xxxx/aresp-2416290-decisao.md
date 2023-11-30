@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO INTERNO EM APELAÇÃO. DECISÃO MONOCRÁTICA TERMINATIVA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PLEITO DE REPETIÇÃO DO INDÉBITO NA PETIÇÃO INICIAL. NÃO CONHECIMENTO DO APELO. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+A agravante alega, no especial, violação dos artigos 1.021, § 4º, do Código de Processo Civil, sob o argumento de que, "Com efeito, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não pode ser aplicada de forma automática, não o se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime" (fl. 235).
+Sustenta que "Embora inexistente pedido expresso da parte autora no sentido de que fossem restituídos os valores indevidamente pagos ao Banco Réu, o retorno das partes ao status quo ante integra o conteúdo implícito do pedido inicial de desfazimento do negócio jurídico, e tem como consequência a necessária devolução dos valores despendidos pela recorrente, sob pena de enriquecimento sem causa do demandado" (fl. 239).
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Colegiado local, ao analisar o presente caso, entendeu que (e- STJ, fls. 226-227):
+Nos autos principais, foi proferida decisão monocrática no sentido de não conhecer do apelo interposto ante a inovação recursal.
+9 Compulsando os autos e revendo a decisão impugnada, entendo que não assiste razão à parte recorrente. Explico.
+10 Compulsando os autos, constata-se que na sentença recorrida, o magistrado a quo expressamente fez constar que "não havendo pedido de restituição dos valores descontos, tampouco de indenização por danos morais, posto que a petição inicial versou, tão somente, sobre a nulidade dos supramencionados empréstimos, passo ao dispositivo desta sentença.". Mesmo após oposição de embargos de declaração, a sentença foi mantida pelo juízo de origem.
+11 Verifica-se que a autora, Marina Gomes dos Santos, ajuizou ação anulatória de débito c/c pedido liminar de suspensão dos descontos, aduzindo que fora realizado de forma indevida empréstimos consignados com o banco réu em seu nome, pleiteando assim pela suspensão dos descontos realizados referentes a esta operação.
+12 Dessa forma, em que pese o pleito inicial tenha sido deferido na sentença proferida pelo juízo a quo, apenas em sede recursal, fora pleiteada a restituição dos valores já pagos de forma indevida. Examinando tais requisitos, de fato, o recurso interposto não deve ser conhecido.
+13 Isso porque, no que se refere ao pedido de devolução dos valores pagos pelos empréstimo reconhecidos, em sede de sentença, como inexistentes, tal requerimento não restou realizado previamente e, consequentemente, não foi objeto de análise pelo juízo a quo, tratando-se, pois, de inovação recursal.
+Ocorre que tal fundamento relacionado à temática da inovação recursal não foi devidamente impugnado pela parte agravante, o qual é suficiente para manter o acórdão e que, por consequência, não pode ser alterado, diante da incidência da Súmula 283 do Supremo Tribunal Federal.
+Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+(..) 3. O recurso especial que não traz insurgência específica capaz de combater fundamento do acórdão recorrido, suficiente para mantê-lo, não deve ser admitido.
+Incidência das Súmulas n. 283 e 284 do STF.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 926.467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º.12.2016, DJe 9.12.2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECONHECIMENTO DE CONTRATO DE DISTRIBUIÇÃO DE CARTÕES TELEFÔNICOS COM CLÁUSULA DE EXCLUSIVIDADE. INCIDENTE DE EXIBIÇÃO DE DOCUMENTOS. PRESUNÇÃO DE VERACIDADE. SÚMULA N. 83 DO STJ. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STF. AUSÊNCIA DE JUÍZO DE VALOR. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA. SÚMULAS N. 283 E 284 DO STF.
+(..) 4. É deficiente a argumentação que não guarda correlação com o decidido nos autos, deixando de impugnar a fundamentação do julgado. Súmulas n. 283 e 284 do STF.
+5. Agravo regimental desprovido. (AgRg no REsp 1.391.525/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 25.11.2014, DJe 12.12.2014.)
+No mais, com relação à aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, destaque-se que esta Corte Superior tem entendido que o mero não conhecimento ou improcedência do agravo interno não enseja a necessária imposição da referida multa, sendo imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+Em que pese o não provimento do agravo interno pelo Tribunal de origem, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 18/12/2017).
+Sobre o tema, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. PEDIDO DE JUSTIÇA GRATUITA. PRECLUSÃO. FALTA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação especifica de fundamento decisório. Reconsideração.
+2. A ausência de impugnação, nas razões do recurso especial, dos fundamentos do aresto recorrido atrai a incidência das Súmulas 283 e 284 do STF.
+3. Consoante entendimento desta Corte Superior, o exaurimento de instância constitui pressuposto para a interposição do recurso especial, de modo que o manejo de agravo interno contra decisão singular do relator não pode ser penalizado com a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015.
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, a fim de afastar a multa aplicada com fundamento no art. 1.021, § 4º, do CPC/2015.
+(AgInt no AREsp n. 1.686.360/SP, relator Raul Araújo, Quarta Turma, DJe de 18/12/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DO PRAZO PROCESSUAL NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. MULTA DO ART. 1.021, §4º, DO CPC. NÃO INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+2. "A existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp 1641985/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 18/08/2021).
+3. Não comprovada a existência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato da interposição do recurso especial, nos termos do § 6º do art. 1.003 do CPC/15, deve o recurso ser considerado intempestivo.
+4. Não é possível inferir, no caso concreto, que o agravo interno padece de manifesta inadmissibilidade nem que a negativa de provimento se reveste de notória evidência, a justificar a cristalização de conduta abusiva ou protelatória, em virtude da mera interposição do recurso. Afasta-se, portanto, a incidência do art. 1.021, § 4º, do CPC.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.976.170/CE, relator Luis Felipe Salomão, Quarta Turma, DJe de 25/2/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO VERIFICADA. CABIMENTO DO RECURSO DO ART. 1.022 DO NOVO CPC. IMPOSSIBILIDADE DE APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015. INEXISTÊNCIA DE MÁ-FÉ OU INTUITO MERAMENTE PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. A existência de ponto omisso no julgado carência de debate acerca do cabimento da aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015 enseja o conhecimento dos aclaratórios, nos termos do art. 1.022 do atual CPC.
+2. O manejo do agravo interno não foi eivado de ma-fé ou de intuito meramente protelatório, portanto não cabe a fixação da penalidade prevista no art. 1.021, § 4º, do CPC/2015.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgInt no AREsp n. 1.694.930/SP, relator Marco Aurélio Bellizze, Terceira Turma, DJe de 25/11/2021.)
+Em face do exposto, conheço do agravo para dar parcial provimento ao recurso especial, apenas para afastar a aplicação da multa com base no art. 1.021 do CPC/2015 à parte ora recorrente.
+Intimem-se.
+EMENTA
