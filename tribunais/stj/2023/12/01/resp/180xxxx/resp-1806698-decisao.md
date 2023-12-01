@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA ECONÔMICA FEDERAL, com fundamento no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"IMPUGNAÇÃO DE CRÉDITO CRÉDITO EXTRACONCURSAL - Decisão judicial que julgou improcedente a impugnação - Alegação de que o art. 49, § 3º da lei n. 11.101/05 não exige que o imóvel alienado fiduciariamente seja de propriedade da recuperanda para que os créditos garantidos sejam excluídos da recuperação judicial -Descabimento - Contratos em que a garantia foi prestada por terceiros, sócios da recuperanda - Hipótese em que não há como atingir o patrimônio da empresa, de modo que o crédito em questão deve ser tido de natureza comum, e por isso incluído na classe dos créditos quirografários - Decisão mantida - Agravo não provido neste tocante.
+IMPUGNAÇÃO DE CRÉDITO CRÉDITO COM GARANTIA REAL -Decisão judicial que julgou improcedente a impugnação - Alegação de que um dos contratos deveria ser incluído na classe de credores com garantia real, por possuir garantia de penhor de aplicação financeira prestada pela própria recuperanda - Cabimento parcial - Embora o registro não tenha sido no domicílio do devedor, conforme súmula 60 do TJSP, entende-se como formalmente em ordem o registro realizado em outro cartório, pois no próprio termo consta que o registro do penhor perante o cartório de títulos e documento ficou a cargo da recuperanda, sendo que o reconhecimento de firmas ocorreu, no dia anterior na cidade de Atibaia - Hipótese na qual razão cabe quanto ao pleito de que o montante encontrado na aplicação financeira de R$ 644.303,45, deve ser classificado como garantia real (Classe II), e o restante do débito no importe de R$ 621.096,36, como crédito quirografário (Classe III) - Decisão reformada nesta parte - Agravo de instrumento parcialmente provido. Dispositivo: deram parcial provimento ao recurso."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente alega violação do art. 49, § 3º, da Lei 11.101/2005, defendendo a natureza extraconcursal do crédito garantido por alienação fiduciária, embora o bem tenha sido ofertado por terceiros, sendo desnecessária a identificação pessoal do devedor fiduciante com o bem ofertado em garantia.
+Contrarrazões apresentadas às fls. 394-417 (e-STJ).
+É o relatório. Decido.
+Conforme entendimento desta Corte Superior, "é extraconcursal o crédito garantido por alienação fiduciária, embora oferecido o bem por terceiros, não sendo necessária a identificação pessoal do fiduciante ou fiduciário com o bem imóvel ofertado em garantia ou com a própria recuperanda" (AgInt no AREsp n. 1.810.708/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/5/2023, DJe de 17/5/2023).
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO GARANTIDO POR TERCEIRO. EXCLUSÃO DA RECUPERAÇÃO JUDICIAL.
+1. O crédito de titular da posição de proprietário fiduciário de bens imóveis ou móveis estão excluídos dos efeitos da recuperação judicial, ainda que a fidúcia tenha sido concedida por terceiro.
+Precedentes.
+2. Agravo interno não provido."
+(AgInt nos EDcl nos EDcl no REsp n. 1.875.972/SP, Relator MINISTRO LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/2/2022, DJe de 3/3/2022.)
+"RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. QUESTÃO PREJUDICADA. PRIMAZIA DA DECISÃO DE MÉRITO. CRÉDITOS GARANTIDOS POR ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL DE TERCEIRO. CIRCUNSTÂNCIA QUE NÃO AFASTA A INCIDÊNCIA DA REGRA DO ART. 49, § 3º, DA LFRE. PRECEDENTE. EXTRACONCURSALIDADE DO CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA QUE SE LIMITA AO VALOR DO BEM DADO EM GARANTIA. RESTABELECIMENTO DAS CLÁUSULAS CONTRATUAIS DECLARADAS NULAS.
+1. Incidente de impugnação de crédito apresentado em 19/3/2018.
+Recurso especial interposto em 11/11/2020. Autos conclusos ao gabinete da Relatora em 22/4/2021.
+2. O propósito recursal, além de verificar eventual negativa de prestação jurisdicional, consiste em definir (i) se o crédito vinculado à garantia prestada por terceiro se submete aos efeitos da recuperação judicial da devedora e (ii) se configura julgamento ultra petita a declaração de nulidade de cláusula que prevê o vencimento antecipado da obrigação inserta nos contratos que dão origem ao crédito impugnado.
+3. Prejudicada a alegação de negativa de prestação jurisdicional, tendo em vista o princípio da primazia da decisão de mérito.
+4. O afastamento dos créditos de titulares de posição de proprietário fiduciário dos efeitos da recuperação judicial da devedora independe da identificação pessoal do fiduciante ou do fiduciário com o bem imóvel ofertado em garantia ou com a própria recuperanda. Precedente específico da Terceira Turma.
+5. A extraconcursalidade do crédito acobertado por alienação fiduciária limita-se ao valor do bem dado em garantia, sobre o qual se estabelece a propriedade resolúvel. Eventual saldo devedor que extrapole tal limite deve ser habilitado na classe dos quirografários. Precedente.
+6. As cláusulas dos contratos que deram origem aos créditos não sujeitos à recuperação judicial não podem ser revistas de ofício pelo juízo recuperacional, sob pena de violação do princípio dispositivo.
+RECURSO ESPECIAL PARCIALMENTE PROVIDO."
+(REsp n. 1.933.995/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/11/2021, DJe de 9/12/2021.)
+No caso dos autos, o Tribunal de origem considerou concursal o crédito garantido por alienação fiduciária, pelo fato de a garantia ter sido presta por terceiros, sócios da recuperanda.
+Desse modo, constatada a divergência entre o acórdão recorrido e a jurisprudência desta Corte, é impositivo o provimento do recurso especial.
+Diante do exposto, dou provimento ao recurso especial, a fim de declarar como extraconcursal o crédito de titularidade da parte recorrente garantido por alienação fiduciária prestada por terceiros.
+Publique-se.
+EMENTA
