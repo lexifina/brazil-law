@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 266):
+PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA DE TÍTULO ORIUNDO DE ACP. IRSM/94. AÇÃO INDIVIDUAL SEM PAGAMENTO DE ATRASADOS. EXECUÇÃO INDIVIDUAL. POSSIBILIDADE.
+1. A exclusão dos segurados que haviam ajuizado ação individual prevista no acórdão proferido na Ação Civil Pública n.º 2003.71.00.065522-8/RS tem como objetivo evitar o pagamento em duplicidade de valores referentes à revisão objeto da ação coletiva.
+2. Em casos em que a ação individual não implicou pagamento de atrasados, é possível a execução individual do acórdão proferido na Ação Civil Pública n.º 2003.71.00.065522-8/RS.
+Embargos de declaração providos parcialmente, sem alteração do julgado assim ementado (e-STJ fls. 289):
+EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO. PREQUESTIONAMENTO. ERRO MATERIAL. CORREÇÃO. OMISSÃO/CONTRADIÇÃO. NÃO OCORRÊNCIA.
+1. Os embargos de declaração pressupõem a presença de omissão, contradição, obscuridade ou erro material na decisão embargada.
+2. Verificado o erro material invocado pelo embargante, impõe-se o provimento dos aclaratórios no ponto para sua correção, sem, contudo, alteração do resultado final do julgado.3. A contradição suscetível de ser afastada por meio dos aclaratórios é interna ao julgado, e não aquela que se estabelece entre o entendimento a que chegou o juízo à luz da prova e do direito e a interpretação pretendida por uma das partes.
+4. A pretensão de reexame de matéria sobre a qual já houve pronunciamento do órgão julgador desafia recurso próprio, não justificando a interposição de embargos de declaração.
+5. Com a superveniência do CPC/2015, a pretensão ao prequestionamento numérico dos dispositivos legais, sob alegação de omissão, não mais se justifica.
+6. O princípio da fundamentação qualificada das decisões é de mão dupla. Se uma decisão judicial não pode ser considerada fundamentada pela mera invocação a dispositivo legal, também à parte se exige, ao invocá-lo, a demonstração de que sua incidência será capaz de influenciar na conclusão a ser adotada no processo.
+No recurso especial obstaculizado, a parte recorrente apontou, violação do art. 1.022, II, do CPC/2015, por negativa de prestação jurisdicional em relação à omissão quanto à ilegitimidade da parte para propor execução de título da ação civil pública, mesmo declarando que o segurado havia proposto ação individual de conhecimento com o mesmo objeto.
+No mérito, alega contrariedade aos arts. 535, II, 778 e 917, I, do CPC/2015, argumentando pelo reconhecimento da ilegitimidade do autor/recorrido para pleitear o direito a execução de sentença coletiva, considerando que os segurados que propuseram ações individuais foram expressamente excluídos dos efeitos da ACP.
+Assim, deve ser respeitado os limites subjetivos da coisa julgada, declarando a ilegitimidade do autor para execução individual, nos seguintes termos (e-STJ fls. 300/301):
+EXECUÇÃO INDIVIDUAL. AÇÃO CIVIL PÚBLICA. LIMITES SUBJETIVOS DACOISA JULGADA. ILEGITIMIDADE DA PARTE.
+Segundo entendimento da C. Turma julgadora, a decisão proferida na ACP nº2003.71.00.065522-8 (nº CNJ: 0065522-60.2003.4.04.7100) não exclui do direito ali reconhecido os segurados que inicialmente optaram pelo ajuizamento de demanda individual.
+Todavia, tal afirmação encontra-se dissociada do título executivo, eis que ao analisar os autos em Reexame Necessário, o E. Tribunal reformou a sentença para excluir tais segurados do alcance da ACP:
+ ..
+Destarte, a parte autora, ora recorrida, é ilegítima para propor a execução do título, posto que não se encontra abrangida nos limites subjetivos da coisa julgada, nos termos dos arts. 535, II, 917, I e especialmente art. 778 do CPC:
+ ..
+Repise-se que, como o título executivo não prevê entre os beneficiários o segurado que houver proposto ação individual, resta afastada a possibilidade do autor promover a execução forçada, diante de sua evidente ilegitimidade.
+Contrarrazões às e-STJ fls. 308/314.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa do art. 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 269 e 292):
+A exclusão dos segurados que haviam ajuizado ação individual prevista no acórdão proferido na Ação Civil Pública n.º 2003.71.00.065522-8/RS tem como objetivo evitar o pagamento em duplicidade, hipótese que não se verifica no caso concreto. Dessa maneira, em não tendo sido a parte cientificada, ao ajuizar a demanda individual, de que existia uma ação coletiva, e nada tendo recebido por força da demanda individual, não pode ser excluída dos efeitos da sentença coletiva.
+Todavia, a correção da obscuridade apontada não altera o resultado final do julgado, uma vez que mantém-se o não recebimento pela parte autora de valor algum em decorrência da ação individual anteriormente ajuizada, pelo que impõe-se o prosseguimento da execução individual por efeito da decisão na ação coletiva, que alcançou a todos os segurados.
+No caso, o Tribunal a quo concluiu em sentido oposto ao postulado, por consignar que "a exclusão dos segurados que haviam ajuizado ação individual prevista no acórdão proferido na Ação Civil Pública n.º 2003.71.00.065522-8/RS tem como objetivo evitar o pagamento em duplicidade, hipótese que não se verifica no caso concreto" (e-STJ fls. 269).
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REAJUSTE DA TABELA DO SUS. ALEGAÇÃO DE DESRESPEITO À COISA JULGADA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7/STJ.
+1. O Tribunal regional consignou: "atualmente, é no sentido de que o pagamento do reajuste das tabelas do SUS, determinado pela Ação Civil Pública nº 1999.71.00.021045-6, deve obedecer o limite temporal de novembro de 1999, em vista de expressa disposição do título executivo. A matéria restou bem analisada pela Juíza Federal Salise Monteiro Sanchotene
+na AC 5066071-96.2014.404.7100/RS, cujos fundamentos transcrevo abaixo" (fl. 24, e-STJ).
+2. Por sua vez, a recorrente alega: "Ao contrário do que manifestou a decisão ora recorrida, não há coisa julgada nos presentes autos determinando o pagamento dos reajustes dos procedimentos para após out/1999" (fl. 74, e-STJ).
+3. Para alterar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+4. O Superior Tribunal de Justiça possui orientação no sentido de que, em caso de sentença proferida em data posterior à publicação da Portaria 1.323/1999 do Ministério da Saúde, situação que ocorre na espécie, o pedido de limitação temporal de aplicação do índice de 9, 56% apresentado somente na fase de execução ofende a coisa julgada, uma vez que foi concedida às partes a oportunidade de enfrentamento de todas as teses de formação do título judicial.
+5. Agravo Interno não provido.
+(AgInt REsp 1.811.078/RS, Min. Rel. HERMAN BENJAMIN, Segunda Turma, DJe 28/08/2020).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
