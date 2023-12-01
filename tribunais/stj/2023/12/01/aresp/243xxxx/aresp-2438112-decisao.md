@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial que desafia acórdão assim ementado:
+AÇÃO ANULATÓRIA SERVIDOR PÚBLICO (INVESTIGADOR DE POLÍCIA) DEMISSÃO A BEM DO SERVIÇO PÚBLICO Pretensão de anulação do ato administrativo de demissão e reintegração ao cargo Não Cabimento Ausência de vício formal para justificar a nulidade do ato Garantia, ademais, ao direito de ampla defesa e contraditório (art. 5º, inciso LV, da CF) Inexistência de qualquer ilegalidade ou arbitrariedade, tendo a Administração Pública demonstrado os motivos ensejadores da pena Inexistência de qualquer justificativa para interferência do Poder Judiciário Sentença de improcedência mantida.
+Apelo não provido.
+Declaratórios rejeitados.
+No especial obstaculizado, a parte recorrente defende que houve ofensa do art. 502 do CPC/2015, "isso porque tendo sido DECLARADO pela Corte Local por decisão já transitada em julgado, proferida pela mesma 13ª. Câmara de Direito Público do TJSP nos autos do Processo irmão 0003906-47.2012.8.26.0270 (fls. 1050/1085), a NULIDADE DO PROCESSO ADMINISTRATIVO, que culminou também na exoneração do RECORRENTE OSCAR VIEIRA MURAT FILHO, e, estamos na verdade diante de ações idênticas, com mesmo objeto, e mesma causa de pedir, por óbvio NÃO ESTAVA NO JUÍZO DE VALOR DA CORTE LOCAL desrespeitar aquela decisão, LOGO, tendo a Corte Local deixado de considerar no caso dos autos a DECISÃO PASSADA EM JULGADO QUE DECLAROU A NULIDADE DO PAD, ao argumento de que a imputação feita ao RECORRENTE é mais ampla proferiu decisão em afronta ao disposto no artigo 502 do Código de Processo Civil" (e-STJ fls. 1.640/1641).
+Alega, ainda, violação dos arts. 136 da Constituição do Estado de São Paulo e 69 da Lei Orgânica da Polícia Civil do Estado paulista (Lei Complementar 207/1979).
+Contrarrazões apresentadas.
+Passo a decidir.
+Acolher os argumentos de ofensa aos arts. 136 da Constituição do Estado de São Paulo e 69 da Lei Orgânica da Polícia Civil do Estado paulista (Lei Complementar 207/1979), encontra óbice na Súmula 280 do STF.
+Por fim, infirmar o entendimento da Corte de origem, a fim de acolher a tese defendida da parte recorrente - ofensa a coisa julgada -, encontra óbice na Súmula 7 do STJ.
+Por fim, a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+ EMENTA
