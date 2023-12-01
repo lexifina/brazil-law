@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 30):
+HABEAS COR PUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. IDONEIDADE DA FUNDAMENTAÇÃO. INDÍCIOS SUFICIENTES DE AUTORIA. GRAVIDADE CONCRETA DA CONDUTA. ABALO À ORDEM PÚBLICA. EFETIVA NECESSIDADE DA SEGREGAÇÃO CAUTELAR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+Consta nos autos que o paciente foi preso preventivamente como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Afirma a defesa que o paciente foi preso em 28/5/2023, como incurso no art. 33, da Lei n. 11343/2006 e, em 30/5/2023, durante a audiência de custódia, foi decretada a prisão preventiva. Ressalta que a prisão já se mantém por mais de 180 dias.
+Sustenta a ausência de fundamentação idônea para a custódia cautelar, bem como a ausência dos requisitos para a manutenção da prisão preventiva.
+Entende que a prisão é desproporcional, pois o paciente ostenta bons predicados, defendendo que "estamos diante de um tráfico privilegiado (art. 33, § 4º, da Lei de Drogas), que não é crime hediondo" (fl. 11) e indicando que "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c e do art. 44, ambos do Código Penal." (fl. 11).
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, revogando-se a prisão preventiva, ainda que fixadas medidas cautelares diversas previstas no art. 319 do CPP.
+Inicialmente, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, as penas e os regimes a serem aplicados.
+Nesse sentido, "não prospera a assertiva de que a custódia cautelar é desproporcional à futura pena do paciente, pois só a conclusão da instrução criminal será capaz de revelar qual será a pena adequada e o regime ideal para o seu cumprimento, sendo inviável essa discussão nesta ação de Habeas Corpus" (HC 187.669/BA, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 24/05/2011, DJe 27/06/2011)" (RHC n. 71.563/MG, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura, DJe de 9/8/2016).
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, o impetrante não juntou aos autos o decreto de prisão preventiva contra o qual se insurge. Dessa forma, a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido. (AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
