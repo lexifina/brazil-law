@@ -1,0 +1,72 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5029592-89.2022.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CLEBER CHRISTIANO DE ALMEIDA
+RECORRIDO: GOL LINHAS AEREAS S.A.
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Agravo Interno n° 5029592-89.2022.8.08.0048
+
+Agravante: CLEBER CHRISTIANO DE ALMEIDA
+
+Agravado: GOL LINHAS AEREAS S.A.
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Conheço do agravo interno, porque presentes os seus pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. AGRAVO INTERNO EM DECISÃO QUE INDEFERIU A GRATUIDADE DE JUSTIÇA.
+
+AGRAVANTE INTERPÔS RECURSO INOMINADO COM PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. EM DESPACHO, POR HAVER ELEMENTOS NOS AUTOS DENOTATIVOS DE CAPACIDADE ECONÔMICA PARA SUPORTAR AS DESPESAS DO PROCESSO E HONORÁRIOS DE ADVOGADO, FOI DETERMINADO À PARTE QUE APRESENTASSE PROVAS DA HIPOSSUFICIÊNCIA, EM 48 HORAS, OU PROMOVESSE O PREPARO, NO PRAZO SUCESSIVO DE 48 HORAS.
+
+A PARTE RECORRENTE NÃO LOGROU ÊXITO EM COMPROVAR A ALEGADA HIPOSSUFICIÊNCIA. DECISÃO INTERLOCUTÓRIA INDEFERINDO O PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA E CONCEDENDO PRAZO PARA PAGAMENTO DAS CUSTAS.
+
+IRRESIGNADA, A PARTE ATRAVESSOU AGRAVO INTERNO, QUE MERECE SER IMPROVIDO, VISTO QUE O RECORRENTE JUNTOU A MESMA DOCUMENTAÇÃO JÁ ANALISADA POR ESTE JUÍZO. AUSÊNCIA DE NOVOS SUBSÍDIOS APTOS A JUSTIFICAR A INCAPACIDADE ECONÔMICA DE ARCAR COM AS DESPESAS DO PROCESSO E HONORÁRIOS DE ADVOGADO. PATERNIDADE QUE NÃO É, POR SI, DENOTATIVA DE POBREZA NO SENTIDO LEGAL. DESTARTE, MANTÉM-SE A DECISÃO MONOCRÁTICA QUE INDEFERIU TAL PLEITO. POR CONSEGUINTE, O RECURSO INOMINADO ENCONTRA-SE DESERTE E, POR ISSO, INADMISSÍVEL.
+
+VERIFICA-SE, AINDA, QUE O AGRAVANTE PLEITEOU A DESISTÊNCIA DO RECURSO E A ISENÇÃO DAS CUSTAS, EM CASO DE NÃO RECONHECIMENTO DA HIPOSSUFICIÊNCIA.
+
+INDEFERIDA A ASSISTÊNCIA JUDICIÁRIA, A DESISTÊNCIA RECURSAL NÃO TEM O CONDÃO DE ELIDIR O PAGAMENTO DAS DESPESAS DO PROCESSO, A QUE ESTÁ ATRELADA A PARTE RECORRENTE. A HIPÓTESE, POR SINAL, É ANÁLOGA À AVENTADA PELO ENUNCIADO Nº 122, DO FONAJE, QUE REZA: ‘É CABÍVEL A CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS NA HIPÓTESE DE NÃO CONHECIMENTO DO RECURSO INOMINADO’.
+
+DESTARTE, HOMOLOGADA A DESISTÊNCIA, INCORRE A PARTE RECORRENTE, DA MESMA FORMA, NAS SANÇÕES DO ART. 55, DA LEI Nº 9.099/95, QUE TEM EXATAMENTE O CONDÃO DE REPRIMIR A INTERPOSIÇÃO INFUNDADA DE RECURSOS.
+
+AGRAVO INTERNO CONHECIDO E NÃO PROVIDO. HOMOLOGADA A DESISTÊNCIA RECURSAL, CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA – Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO – Acompanho o Relator.
+
+DECISÃO
+
+Por unanimidade de votos, CONHECER do agravo interno e lhe negar provimento, nos termos do voto do Relator. Homologada a desistência do recurso inominado, com a condenação da parte Recorrente nas despesas do processo e honorários advocatícios de 10%, nos termos do art. 55, da Lei nº 9.099/95.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
