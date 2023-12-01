@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 1.0000.22.294738-4/001, assim ementado (fl. 347):
+APELAÇÃO CRIMINAL - ROUBO MAJORADO - DESCLASSIFICAÇÃO PARA O CRIME DE FURTO - IMPOSSIBILIDADE - GRAVE AMEAÇA CONTRA A PESSOA - OCORRÊNCIA - DOSIMETRIA DA PENA - DECOTE DA MAJORANTE DE EMPREGO DE ARMA BRANCA -NÃO CABIMENTO - RECONHECIMENTO DA ATENUANTE DECONFISSÃO ESPONTÂNEA - POSSIBILIDADE.
+- Comprovado que o acusado subtraiu bens mediante grave ameaça exercida com uma faca, impossível a desclassificação para o crime de furto.
+- Quando o conjunto probatório é firme e contundente em atestar o emprego de arma branca (faca)na prática do crime, mormente pelas declarações do ofendido, corroboradas pela palavra policial e pela apreensão do artefato na posse do réu, incabível o decote da majorante do art. 157, § 2º, inciso VII, do Código Penal.
+- Conforme o entendimento consolidado na Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação, o que ocorreu na espécie.
+Os embargos de declaração opostos pelo recorrente foram rejeitados, conforme a seguinte ementa (fl. 389):
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CRIMINAL - OMISSÃO -INOCORRÊNCIA - PREQUESTIONAMENTO - REJEIÇÃO.
+- O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619, do Código de Processo Penal.
+- Os embargos de declaração não se prestam a rediscutir teses amplamente debatidas por ocasião do julgamento da Apelação Criminal, mesmo que para fins de prequestionamento.
+No recurso especial, a acusação aponta violação do art. 65, III, d, do Código Penal, sob a tese de que a confissão parcial deve ser compensada apenas parcialmente com a agravante da reincidência.
+Assevera que, ainda que o recorrido tenha admitido parcialmente a autoria, e, ainda, assim, de tipo penal diverso, menos gravoso, vê-se que sua admissão de autoria foi sopesada da mesma forma que se tivesse confessado nos termos da denúncia, e, portanto, assumido a prática de roubo, hipótese de confissão integral, compensando-a, em seguida, integralmente, com a agravante da reincidência, o que, no mínimo, em uma primeira análise, provoca inegável sentimento de injustiça e de ofensa à individualização da pena (fl. 412).
+Ressalta que o acórdão recorrido, desconsiderou que, malgrado o enunciado da Súmula 545, a jurisprudência do STJ vem consagrando o entendimento de que, sendo a confissão espontânea parcial, a incidência de versado instituto na pena aplicada ao agente deve dar-se em fração inferior a um sexto, e não igual a 1/6 (fl. 412).
+Ao final da peça recursal, requer o provimento da insurgência para que, reconhecida a violação do art. 65, Inc. III, alínea d, do Código Penal, seja aplicada fração em patamar inferior a 1/6 na segunda fase da dosimetria (fls. 418/419).
+Oferecidas contrarrazões (fls. 423/428), o recurso especial foi admitido na origem (fls. 432/435).
+O Ministério Público Federal opina pelo provimento da insurgência, nos termos da seguinte ementa (fl. 453):
+ROUBO CIRCUNSTANCIADO. CONFISSÃO ESPONTÂNEA FEITA DE MODO PARCIAL. RECONHECIMENTO DA ATENUANTE EM PATAMAR INFERIOR A 1/6. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça tem decidido que a compensação da agravante da reincidência com a atenuante da confissão espontânea parcial pode ser feita de modo proporcional.
+2. Saliente-se que o Código Penal não estabelece limites mínimo e máximo de diminuição de pena a serem aplicados em razão de circunstâncias atenuantes e agravantes, cabendo ao magistrado, de acordo com seu livre convencimento, fixar o patamar que entender razoável.
+3. Na hipótese, como o recorrente apensar confessou parcialmente o crime, está justificada a compensação parcial com a agravante da reincidência.
+- Parecer pelo provimento do recurso especial.
+É o relatório.
+Para elucidação do quanto requerido, do combatido aresto extraem-se os seguintes fundamentos quanto à atenuante da confissão espontânea (fls. 361/363 - grifo nosso):
+ ..  Por fim, requer o combativo defensor o reconhecimento da incidência da atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal, com a consequente redução da pena imposta ao acusado, ante a compensação com a agravante do art. 61, alínea "I", do mesmo códex.
+Quanto ao ponto, razão assiste à defesa.
+Conforme descrito anteriormente, o acusado, tanto por ocasião de sua oitiva em delegacia quanto em juízo, não negou a subtração, tendo alegado em seu favor, entretanto, que não se utilizou de violência ou grave ameaça contra a vítima.
+Assim, muito embora tenha buscado descaracterizar o tipo legal, tal confissão contribuiu, ainda que de maneira parcial, para a elucidação do fato criminoso e, inclusive, foi expressamente utilizada para fundamentar a decisão condenatória (pág. 6, documento de ordem n. 40), motivo pelo qual ele faz jus à referida atenuante.
+Sobre o tema, conforme o entendimento consolidado na Súmula 545 do Superior Tribunal de Justiça, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentara sua condenação, o que ocorreu na espécie. Assim já decidiu esta 8ª Câmara Criminal:
+ ..
+Isso posto, reconheço a aplicação da atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal.
+ ..
+Na segunda fase, o d. juízo, acertadamente, reconheceu a incidência da agravante da reincidência (CAC, documento de ordem n. 7).
+Por outro lado, reconheço a aplicação da atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal, vez que o apelante confessou parcialmente a subtração dos bens e tal confissão foi utilizada para fundamentar a condenação.
+Assim, e realizada a compensação integral entre tais circunstâncias, vez que ambas são preponderantes, mantenho a pena intermediária em 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+ ..
+Como se observa do excerto acima transcrito, a confissão do réu foi parcial, tendo em vista que admitiu a subtração do bem, mas negou o emprego de violência ou grave ameaça caracterizadoras do roubo. Reconhecida a confissão, houve a compensação integral da atenuante com a agravante da reincidência.
+No entanto, a fim de dar concretude ao princípio da individualização da pena, esta Corte Superior tem admitido uma atenuação menor da pena em casos de confissão parcial ou qualificada.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE FLAGRANTE NÃO VISUALIZADA. RECURSO NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+2. Hipótese em que o Agravante não impugnou o fundamento, consignado na decisão agravada, quanto à incognoscibilidade do habeas corpus impetrado contra acórdão transitado em julgado, em substituição à revisão criminal.
+3. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021, § 1 º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Tratando-se de confissão qualificada - aquela em que o agente admite a prática de uma conduta que se amolda ao tipo objetivo, porém alega excludentes (de tipicidade, ilicitude ou culpabilidade), buscando sua absolvição - afiguram-se harmônicas com o princípio da individualização da pena tanto a atribuição de fração redutora inferior a 1/6 à referida atenuante como a compensação apenas parcial desta com eventuais agravantes que incidam na dosimetria.
+5. Agravo regimental não conhecido.
+(AgRg no HC n. 831.211/MG, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023 - grifo nosso).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. JÚRI. OCORRÊNCIA DE LEGÍTIMA DEFESA OU DA EXCLUDENTE DE INEXIGIBILIDADE DE CONDUTA DIVERSA. AFASTAMENTO DAS QUALIFICADORAS DO ART. 121, §2º, INCISOS II E IV, DO CP. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ATENUANTE DE CONFISSÃO QUALIFICADA. FRAÇÃO DE REDUÇÃO DIVERSA DE 1/6. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal local, soberano na análise do conjunto fático-probatório, concluiu que a decisão dos jurados não se encontrou manifestamente contrária à prova dos autos, tendo eles optado pela tese da acusação. Assim, para alterar a conclusão a que chegaram as instâncias ordinárias, no sentido da absolvição, por ausência de prova concreta para a condenação, pela ocorrência da legítima defesa ou da excludente de inexigibilidade de conduta diversa, pelo afastamento das qualificadoras, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+2. A jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento para cada agravante ou de diminuição para cada atenuante deve ser realizado em 1/6 da pena-base, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar concretamente fundamentado. No presente caso, em razão da confissão ter sido qualificada, justificada a redução da pena em fração inferior a 1/6, com a compensação parcial com a agravante da reincidência.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.284.198/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/3/2023 - grifo nosso).
+Dessa forma, razão assiste ao recorrente, ao pleitear que, embora reconhecida a confissão espontânea, a fração de atenuação da pena do réu seja inferior a fração usual de 1/6.
+Por conseguinte, aplico a fração de 1/12 pela atenuante da confissão. Promovida a compensação com a agravante da reincidência, fica estabelecida a pena intermediária de 4 anos e 4 meses de reclusão, e 11 dias-multa. Em razão da majorante do art. 157, § 2º, VII, do Código Penal, a pena foi exasperada em 1/3, perfazendo uma pena final de 5 anos, 9 meses e 10 dias de reclusão, e 15 dias-multa.
+Ante o expos to, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para compensar apenas parcialmente a confissão e a reincidência e redimensionar a pena para 5 anos, 9 meses e 10 dias de reclusão, e 15 dias-multa.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DO ART. 65, III, D, DO CP. CONFISSÃO ESPONTÂNEA. ADMISSÃO PARCIAL DA PRÁTICA DELITIVA, NEGANDO O EMPREGO DE VIOLÊNCIA OU GRAVE AMEAÇA. ATENUAÇÃO OBRIGATÓRIA. FRAÇÃO DE REDUÇÃO INFERIOR A 1/6. POSSIBILIDADE. INDIVIDUALIZAÇÃO DA PENA. JURISPRUDÊNCIA DO STJ.
+Recurso especial provido nos termos do dispositivo.
