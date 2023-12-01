@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONDOMINIO EDIFICIO PIAZZA ROTONDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - PRODUÇÃO ANTECIPADA DE PROVAS  EXIBIÇÃO DE DOCUMENTOS - IMAGENS DE CÂMERAS DE SEGURANÇA ALEGAÇÃO DE IMPOSSIBILIDADE DE CUMPRIMENTO - IMAGENS J PARCIALMENTE APRESENTADAS - NECESSIDADE DE COMPLEMENTAÇÀO - RECONHECIMENTO - RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 489, § 1º, IV, do CPC, diante da fundamentação deficiente do aresto vergastado. Apresenta os seguintes argumentos:
+36. Dito isto, pode-se verificar com muita clareza que o V. Acórdão de fls. 212/215 apresenta vício contido no dispositivo de lei citado e grifado acima, do que decorre a inexistência de fundamentação e, via de consequência, a negativa de prestação jurisdicional.
+ ..
+39. Por fim, cumpre destacar que não se pode confundir a negativa de prestação jurisdicional com a simples decisão contrária aos interesses da parte recorrente. A questão jurídica levantada - ofensa ao art. 489, § 1º, inciso IV do CPC - está nitidamente está relacionada, pois NENHUM dos argumentos trazidos na Apelação foi apreciado de forma direta e específica pelo Tribunal a quo, restando pendentes de análise as teses jurídicas levantadas pelo Recorrente ao longo das razões recursais, as quais refutam os fundamentos da decisão recorrida (fls. 235-236).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento do art. 489, § 1º, IV, do CPC, uma vez que não houve o devido e necessário debate a respeito deste dispositivo no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual é "inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração" (AgInt no REsp n. 1.858.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.883.703/ES, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1/9/2022; REsp n. 1.666.862/CE, relator Ministro Francisco Falcão, relator para acórdão Ministro Og Fernandes, Segunda Turma, DJe de 8/9/2022; AgRg no AREsp n. 2.089.384/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/8/2022; AgInt no AREsp n. 2.101.047/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; AgInt no AREsp n. 2.033.678/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2022; AgInt no AREsp n. 1.812.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/6/2022; AgInt no AREsp n. 743.795/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28/4/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
