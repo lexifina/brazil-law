@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo de HELOISA PINHO DE OLIVEIRA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento Ação de execução de título extrajudicial Insurgência em face de decisão que anulou todo o processo, com fundamento de que se trata de ação de conhecimento que fora cadastrada erroneamente pela autora, como sendo de execução de título extrajudicial Pretensão de reforma ou que se aproveite os atos já praticados, especialmente decretando como válidas as citações já levadas a efeito Improcedência do inconformismo Hipótese em que a autora, ora agravante, contribui diretamente para com a existência do vício constatado pela magistrada "a quo", não podendo, agora, alegar prejuízo de algo a que deu causa Manutenção da decisão hostilizada Recurso desprovido." (e-STJ fls. 279)
+Embargos de declaração rejeitados (e-STJ fls. 516/520)
+Nas razões do recurso especial, o agravante alega violação dos incisos do §1º do art. 489 do CPC e arts. 20 e 21 da LINDB, e divergência jurisprudencial, sustentando, em síntese, que o acórdão foi omisso quanto à ausência de prejuízo experimentado pela parte recorrida com a tramitação do feito como execução.
+É o relatório. Decido.
+A recorrente alega, em síntese, que que o acórdão foi omisso quanto à ausência de prejuízo experimentado pela parte recorrida com a tramitação do feito como execução.
+Sobre o tema, a Corte de origem consignou:
+"2) Transcreve-se abaixo teor das decisões hostilizadas:
+"Vistos.
+Da análise dos autos, verifica-se que nulo todo 0 processado após a decisão de fls. 72, inclusive a citação, as constrições e o incidente de desconsideração da personalidade jurídica.
+Isso porque na verdade se trata de ação de conhecimento que fora cadastrada erroneamente, ao que parece pela autora, como execução de título extrajudicial, o que ensejou a equivocada expedição de mandado de citação como se de execução, de fato se tratasse (fls. 82 e seguintes). A partir daí, seguiu-se tramitação pelo rito de execução de título extrajudicial, quando, repita-se, tratava-se, na verdade, de ação de conhecimento sob o rito comum.
+(..)
+Correto o entendimento da julgadora da lide, pois o advogado da autora promoveu ação de conhecimento (fls. 01/05, autos originários), colocou em quase todas suas petições a identificação de ação de conhecimento, e não reclamou quando foi expedido mandado de citação para pagamento em 3 dias (e não para oferecimento de resposta fls. 72 e 82/83).
+Foi, no mínimo, conivente para com o erro.
+E, mesmo diante de alerta do Juiz, no começo do processo, perguntando porque ele optou pela ação de conhecimento (fls. 26), ele insistiu em não transformar em ação de execução.
+E mais, o incidente de desconsideração ficou viciado, porque, a despeito de poder ser instaurado no curso de processo de conhecimento, foi instaurado sob a premissa de que havia processo de execução.
+Constata-se, ainda, que os embargos à execução sequer foram julgados no mérito, pois foram extintos sem exame do mérito, pela falta de recolhimento das custas (fls. 248, autos originários dos embargos).
+Resumindo-se: a autora/agravante contribuiu diretamente para com a existência do vício constatado pela magistrada "a quo", não podendo, agora, alegar prejuízo por algo a que deu causa.
+É verdade que o Juízo também deveria ter percebido a irregularidade, mas não se pode admitir que o advogado da autora não tenha conhecimento do procedimento a ser adotado na ação de conhecimento que ajuizou, passando a dar a ela tratamento de ação de execução, que não era." (e-STJ fl. 283/284)
+Da análise dos autos, verifica-se que o colendo Tribunal de origem não obstante provocado, deixou de examinar questão essencial ao deslinde da controvérsia, a respeito da ausência de prejuízo experimentado pela parte recorrida com a tramitação do feito como execução.
+Com efeito, a eg. Corte de origem quedou-se inerte no exame de questão relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não poderia ser analisada de plano, mormente em razão da impossibilidade de incursão no acervo fático-probatório dos autos (Súmula 7/STJ).
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 489 do Código de Processo Civil, a fim de anular o v. acórdão recorrido para que seja suprida a falha na fundamentação existente.
+Confiram-se, por oportuno, os seguintes precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. TRANSPORTE DE MEDICAMENTOS. LEI DO VALE-PEDÁGIO. ILEGITIMIDADE DE PARTE. ALEGAÇÃO DE QUE UMA DAS PARTES É MERA DISTRIBUIDORA. OFENSA AOS PRINCÍPIOS DA BOA-FÉ CONTRATUAL E DO NON VENIRE CONTRA FACTUM PROPRIUM. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL. PEDIDO SUCESSIVO DE ABATIMENTOS SOBRE A CONDENAÇÃO. AUSÊNCIA DE EXAME. ARTIGOS 489 E 1.022 DO CPC. OMISSÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas desde a contestação e reiteradas nos embargos de declaração opostos pela ora agravante, configurada está a ofensa aos artigos 489 e 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+(..)
+4. Agravo interno e recurso especial providos. Acórdão dos embargos de declaração cassado. Prejudicado o agravo em recurso especial interposto pelos autores.
+(AgInt no REsp n. 1.823.417/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/10/2022, DJe de 6/3/2023.)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp n. 1.908.213/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/5/2021, DJe de 20/5/2021.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios e determinando-se, por conseguinte, que outro seja proferido e, assim, sanada a omissão aqui verificada.
+Publique-se.
+EMENTA
