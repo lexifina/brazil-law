@@ -1,0 +1,14 @@
+DECISÃO
+RENATO DE SOUZA SILVA e KAREN MIREA MARTINS DE LIMA E SILVA opõem embargos de declaração contra a decisão de fls. 592-593, que indeferiu liminarmente o habeas corpus impetrado contra decisão que concedeu a ordem em favor do réu na origem, porquanto manifestamente incabível.
+Em suas razões, afirmam os embargantes que contra a decisão concessiva de habeas corpus na origem em favor do querelado, "restou impossível a interposição de qualquer recurso, em razão do sigilo do HC, bem como o trânsito em julgado do mesmo" (fl. 600).
+Assinalam que "o conhecimento da decadência em razão da ausência de procurações específicas nos termos do Art. 44 do CPP não encontra respaldo, pois as procurações estão devidamente anexadas aos autos, dentro do prazo decadencial de 6 meses, tendo sido o HC julgado pelo Tribunal de Justiça do Estado de Roraima de forma totalmente ilegal" (fl. 600).
+Requerem, diante disso, "o conhecimento da decadência em razão da ausência de procurações específicas nos termos do Art. 44 do CPP não encontra respaldo, pois as procurações estão devidamente anexadas aos autos, dentro do prazo decadencial de 6 meses, tendo sido o HC julgado pelo Tribunal de Justiça do Estado de Roraima de forma totalmente ilegal" (fl. 602).
+Subsidiariamente, pleiteiam "a abertura de prazo para interposição de recurso no mesmo Habeas Corpus, em razão de sua tramitação de forma sigilosa, ocasionando dessa forma prejuízo aos pacientes" (fl. 602).
+Decido.
+De início, registro que os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios, situação que não ocorre na espécie.
+De fato, inexiste quaisquer vícios na decisão impugnada; conforme ficou consignado, é manifestamente incabível a utilização de habeas corpus pelos querelantes contra decisão que concede a ordem em favor de querelado, a qual reconheceu a incidência da decadência. A discussão, portanto, não se envereda para a existência de decisão teratológica, mas se finca na inexistência de pressuposto essencial para a utilização da vai mandamental.
+Realço que o remédio constitucional é instrumento restrito da defesa e não se presta para desconstuir decisão favorável ao réu em favor da acusação, situação que desconfiguraria totalmente o referido instituto. De igual modo, também não é cabível o recurso em habeas corpus, cujo pressuposto é a existênncia de decisão denegatória de habeas corpus.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
