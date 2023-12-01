@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADRIANO CANUTO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 1500012-03.2023.8.26.0561.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 555 dias-multa, por incurso no art. 33, caput, da Lei nº 11.343/06 (fls. 16-21).
+Irresignadas, as partes interpuseram apelação perante o Tribunal de origem que deu provimento parcial ao recurso da defesa a fim de redimensionar a reprimenda do réu para 5 anos de reclusão e 500 dias-multa, e deu provimento ao recurso ministerial para afastar a extinção da punibilidade da pena de multa, mantida, quanto ao restante, a sentença recorrida (fls. 28-43).
+No presente writ, a impetrante aponta constrangimento ilegal na negativa de aplicação da causa especial de diminuição do § 4º do art. 33 da Lei de drogas, alegando a primariedade do paciente a ausência de comprovação de dedicação à atividade criminosa ou inserção em organização criminosa.
+Requer, assim, a concessão da ordem para que seja aplicada a " ..  causa de diminuição de pena prevista no artigo 33, § 4º, Lei de Drogas, o que, por via de consequência, implicará na equiparação ao delito hediondo e o afastamento do regime inicial fechado" (fl. 9).
+O pedido liminar foi indeferido às fls. 46-47.
+Informações prestadas às fls. 52-77.
+O Ministério Público Federal, em parecer de fls. 81-84, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+Segundo relatado, busca-se na presente impetração a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, com a fixação do regime prisional menos gravoso.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Com efeito, quanto ao benefício do tráfico privilegiado, o parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas, nem integre organização criminosa.
+Nesse contexto, para a aplicação de redução prevista no art. 33, § 4º, da Lei n. 11.343/06, o magistrado deve levar em consideração as circunstâncias do caso, especialmente a quantidade, natureza e diversidade dos entorpecentes apreendidos, bem como as demais circunstâncias judiciais do art. 59 do Código Penal.
+Ressalta-se, ainda, que esta Corte Superior assentou o entendimento de que "a ausência de comprovação de ocupação lícita  ..  não permite presumir a dedicação do Paciente à atividade criminosa" (AgRg no HC n. 647.199/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 25/4/2022, grifei).
+Na presente hipótese, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o benefício capitulado no parágrafo 4º, do art. 33 da Lei n. 11.343/06 foi afastado sem a devida fundamentação, sem remissão às peculiaridades do caso em comento, pois a apreensão de "cinco porções de cocaína, com massa total líquida de 2,16 gramas" (fl. 30), não reflete especial gravidade.
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06, no seu patamar máximo, 2/3 .
+A propósito:
+" ..  3. Não obstante a natureza danosa da maioria dos estupefacientes, entende esta Corte Superior que a quantidade não expressiva da droga apreendida (no caso, cerca de 2,55 gramas de crack) e a ausência de circunstâncias adicionais não impedem a aplicação do redutor privilegiado do tráfico" (AgRg no AREsp n. 2.096.025/MG, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 7/10/2022).
+Em reforço: AgRg no HC 658.848/SP, Quinta Turma, Rel. Min. João Otavio de Noronha, DJe 14/02/2022 e AgRg no HC n. 674.472/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/8/2021.
+Evidenciado o constrangimento ilegal, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 anos e 10 meses de reclusão e 583 dias-multa (fl. 39).
+Na segunda fase, presente a circunstância atenuante da confissão espontânea a reprimenda retornou ao mínimo legal, a saber, 5 anos de reclusão e 500 dias-multa (fl. 39).
+Na terceira fase, ausentes outras causas modificadoras, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa.
+De mais a mais, "embora a pena final seja inferior a 4 (quatro) anos de reclusão, a circunstância judicial negativa consistente na quantidade e na diversidade de drogas apreendidas justifica tanto a fixação do regime inicial semiaberto quanto o indeferimento da substituição de penas" (AgRg no AREsp n. 2.117.362/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 27/6/2023).
+No mesmo sentido os seguintes julgados desta Corte Superior: AgRg no HC n. 794.094/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 6/3/2023 e AgRg no AREsp n. 1.171.437/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/8/2022.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, para redimensionar a reprimenda do paciente em 1 ano e 8 meses de reclusão e 166 dias-multa, bem como para fixar o regime prisional semiaberto para o início do cumprimento da pena.
+Publique-se e Intime-se.
+EMENTA
