@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por HIPER MOTO OURINHOS LTDA. , com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COMPRA E VENDA DE COISA MÓVEL. AÇÃO DE INDENIZAÇÃO. RELAÇÃO DE CONSUMO.
+PROPOSITURA POR CONSUMIDOR EM FACE DA REVENDEDORA, OBJETIVANDO INDENIZAÇÃO DECORRENTE DO VÍCIO DO PRODUTO.
+SOLIDARIEDADE PASSIVA QUE DECORRE DE EXPRESSA DISPOSIÇÃO LEGAL. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA REJEITADA. RECURSO IMPROVIDO. Tratando-se de responsabilidade por vício de qualidade do produto, matéria que se discute à luz do artigo 18 do CDC, são responsáveis solidários todos os fornecedores, sem distinção.
+COMPRA E VENDA DE COISA MÓVEL. AÇÃO DE INDENIZAÇÃO. DETERMINAÇÃO DE INVERSÃO DO ÔNUS DA PROVA DURANTE O CURSO DO PROCESSO. INADMISSIBILIDADE. MATÉRIA A SER ENFOCADA APENAS NA OPORTUNIDADE DA SENTENÇA, SE NECESSÁRIO. AGRAVO PROVIDO. As regras atinentes à repartição do ônus da prova são de julgamento, e não de conduta probatória, de modo que cabe ao juiz ordená-la na sentença, uma vez deparando com a ausência de demonstração do fato. Portanto, não existe lugar para abordagem do tema no curso do processo, antes do momento apropriado.
+COMPRA E VENDA DE COISA MÓVEL. AÇÃO DE INDENIZAÇÃO. INDEFERIMENTO DE PROVA PERICIAL. EXISTÊNCIA DE FATOS CONTROVERTIDOS, PERTINENTES E RELEVANTES QUE PODEM SER DEMONSTRADOS POR ESSE MEIO. DIREITO DAS PARTES À SUA PRODUÇÃO. AGRAVO PROVIDO. O objetivo da agravante é obter o deferimento da prova pericial para a finalidade de documentar eventuais vícios existentes no produto, como forma de obter efetivo resultado probatório na demanda. Sendo admissível a prova, não pode ser obstada a sua produção pelas partes, sob pena de causar violação ao seu direito processual." (fl. 161)
+Os embargos de declaração opostos foram rejeitados (fls. 188/193).
+Em suas razões recursais, a parte recorrente alega, ofensa aos arts. 12, 13 e 18 do Código de Defesa do Consumidor, e divergência jurisprudencial. Sustenta, em síntese, a ilegitimidade de parte da Recorrente (Comerciante) à reparação dos danos sofridos pelos Recorridos decorrentes de acidente de consumo (fato do produto) e não vício de qualidade.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+No tocante à responsabilidade da recorrente, na qualidade de fornecedora, o Tribunal de origem entendeu ser o caso de vício do produto, o que enseja a responsabilidade solidária de toda a cadeia de fornecimento.
+A propósito, confira-se a fundamentação do acórdão recorrido:
+" Em primeiro lugar, desde logo, ressalvando a provisoriedade do exame aqui realizado, cumpre observar que a norma do artigo 13 do CDC vem em complemento ao disposto no artigo 12, que trata da responsabilidade civil pelo fato do produto ou do serviço.
+Esse não é, entretanto, o verdadeiro fundamento da demanda, que não trata do chamado acidente de consumo. A discussão ocorre no âmbito do artigo 18 do CDC, que é inerente ao plano da responsabilidade por vícios de qualidade ou quantidade dos produtos ou serviço, cuja disciplina é diversa.
+O artigo 18 se reporta à responsabilidade solidária de todos os fornecedores, sem efetuar qualquer tipo de ressalva. A norma do artigo 13 não pode ser invocada por analogia, pois o seu âmbito de aplicação é restrito, exatamente por se tratar de disposição excepcional.
+Comentando a disposição do artigo 18, Zelmo Denardi observa:
+"Preambularmente, importa esclarecer que no polo passivo desta relação de responsabilidade se encontram todas as espécies de fornecedores, coobrigados e solidariamente responsáveis pelo ressarcimento dos vícios de qualidade ou quantidade e eventualmente apurados no fornecimento de produtos ou serviços.
+Assim, o consumidor poderá, à sua escolha, exercitar sua pretensão contra todos os fornecedores ou contra alguns, se não quiser dirigi-la apenas contra um.
+Prevalecem, in casu, as regras da solidariedade passiva, e por isso, a escolha não induz concentração do débito: se o escolhido não ressarcir integralmente os danos, o consumidor poderá voltar-se contra os demais, conjunta ou isoladamente. Por um critério de comodidade e conveniência o consumidor, certamente, dirigirá sua pretensão contra o fornecedor imediato, quer se trate de industrial, produtor, comerciante ou simples prestador de serviços.
+Se ao comerciante, em primeira intenção, couber a reparação dos vícios de qualidade ou quantidade nos termos previstos no § 1º do art. 18 -, poderá exercitar ação regressiva contra o fabricante, produtor ou importador, no âmbito da relação interna que se instaura após o pagamento, com vistas à recomposição do status quo ante."
+Portanto, a solidariedade decorre de expressa disposição legal, daí porque resta evidente a legitimidade passiva da agravante." (fls. 163/164)
+A jurisprudência do STJ, nos casos em que fica comprovado o vício do produto com base no artigo 18 do CDC, entende que a responsabilidade do fornecedor e do fabricante é solidária, cabendo ao consumidor a escolha de quem pretende demandar.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RELAÇÃO DE CONSUMO. VÍCIO DO PRODUTO. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. CONCESSIONÁRIA. COMERCIANTE. FORNECEDOR. RESPONSABILIDADE SOLIDÁRIA. ART. 18 DO CDC. SÚMULA N. 83 DO STJ. AUSÊNCIA DE ATO ILÍCITO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o Tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Afastar entendimento firmado pela Corte de origem que não houve vício do produto demanda reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+3. Em se tratando de responsabilidade por vício do produto, consoante art. 18 do CDC, há responsabilidade solidária entre todos os fornecedores, inclusive o comerciante.
+4. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+5. Somente a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia autoriza o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do CPC, desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, situação que autoriza o STJ a reconhecer o vício e, superando a supressão de instância, analisar o pedido.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.115.749/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+Assim, no ponto, incide o óbice da Súmula 83/STJ.
+Ante o exposto, nos termos do art. 255, § 4º, II, do RIST, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
