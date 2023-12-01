@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por IRMAOS BERNAL LTDA. contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃ O, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 164):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXTRAÇÃO DE RECURSOS MINERAIS. RESSARCIMENTO. PRESCRIÇÃO NÃO VERIFICADA. TEMA 999 DO STF
+1. É imprescritível a pretensão de reparação civil de dano ambiental (Tema 999 do STF).
+2. Direito fundamental indisponível, a reparação dos danos provocados ao meio ambiente não se sujeita à prescrição.
+Embargos de declaração rejeitados (e-STJ fls. 186/193).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 489, § 1º, I, do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, dos arts. 884 e 927 do CC, argumentando que deve ser reconhecida a prescrição da pretensão indenizatória da União, em razão do caráter meramente patrimonial da ação civil pública com a consequente aplicação do prazo quinquenal ao caso em concreto (e-STJ fls. 204/217).
+Contrarrazões às e-STJ fls. 227/237.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido negado seguimento quanto à tese de prescrição e com inadmissão do recurso quanto ao mais.
+Parecer ministerial às e-STJ fls. 288/292.
+Passo a decidir.
+Inicialmente, cumpre salientar que, quando do juízo de admissibilidade, negou-se seguimento ao apelo nobre em relação à matéria relativa a alegada prescrição da pretensão indenizatória da União no caso concreto por estar o julgado recorrido em conformidade com a orientação firmada em sede de repercussão geral (Tema 999/STF).
+Assim, deixo de analisar a alegada violação dos arts. 884 e 927 do CC, uma vez que não houve interposição de recurso contra a decisão que negou seguimento em relação a essa matéria, ocorrendo assim a preclusão, de modo que não é possível o conhecimento do recurso e special, no ponto. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUÍZO DE ADMISSIBILIDADE. PARTE INADMITIDA. IMPUGNAÇÃO POR MEIO DE AGRAVO NOS PRÓPRIOS AUTOS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO.
+1. Cumprimento de sentença.
+2. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I, b, § 2º, c/c o art. 1.021 do CPC/15).
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.926.303/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/12/2021, DJe de 9/12/2021.)
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. CONTRARIEDADE AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, E DA AMPLA DEFESA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 660/STF. DECISÃO MISTA. PARCIAL NEGATIVA DE SEGUIMENTO E INADMISSÃO DO APELO EXTREMO. AGRAVO INTERNO E AGRAVO EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO SIMULTÂNEA.
+UNIRRECORRIBILIDADE. EXCEÇÃO. RECLAMO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. A alegada violação do princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+2. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+3. A decisão de natureza híbrida, que em parte nega seguimento e em parte inadmite o recurso extraordinário, enseja a interposição simultânea de agravo interno e de agravo em recurso extraordinário.
+Exceção ao princípio da unirrecorribilidade que se agasalha na interpretação dos §§ 1º e 2º do art. 1.030 do Código de Processo Civil.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido (AgInt no RE nos EDcl no AgInt no AREsp n. 1.866.098/PR, Ministro Jorge Mussi, Corte Especial, DJe 25/3/2022)
+Dessa forma, a análise do recurso especial limitar-se-á à tese de violação do art. 489 do CPC.
+Cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, relativa à imprescritibilidade da pretensão da União no caso concreto, nos seguintes termos (e-STJ fls. 160/162):
+A jurisprudência desta Corte orienta-se no sentido de que a pretensão ao ressarcimento de valores decorrentes de exploração mineral além dos limites autorizados é prescritível, por tratar-se de ilícito civil comum (Tema 666/STF), não se confundindo com o ressarcimento do dano ambiental.
+Contudo, conforme argumentou a agravante, referida orientação diverge do posicionamento recente adotado pelo Supremo Tribunal Federal no RE 1.287.474/SC, que tratou de caso semelhante ao discutido nos presentes autos.
+Na ocasião, a Ministra Carmen Lúcia deu provimento a recurso extraordinário interposto pela União contra acórdão deste Tribunal que havia rejeitado alegação de imprescritibilidade do ressarcimento resultante da exploração ilegal de 86.475,44 de brita e mantido a decisão do Juízo de origem que extinguiu a ação quanto ao ponto, determinando o prosseguimento do feito apenas quanto ao pleito de reparação ambiental.
+Em face da decisão monocrática, foi interposto agravo regimental pelos recorridos, ao qual a Segunda Turma daquela Corte, por unanimidade, negou provimento, sob o fundamento de que a matéria não se identificava com o Tema 666, aplicando-se, ao caso, o Tema 999 da Repercussão Geral.
+No mesmo sentido dessa decisão, destaco os seguintes precedentes:
+ ..
+Desse modo, entendo que as razões da agravante merecem acolhimento para a observância do entendimento adotado no RE 654.833-RG (Tema 999 da Repercussão Geral), segundo o qual "É imprescritível a pretensão de reparação civil de dano ambiental", prosseguindo-se o processo em relação ao ressarcimento do dano decorrente da exploração do bem público acimados limites autorizados.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
