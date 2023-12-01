@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por FACTA FINANCEIRA S.A.,, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. HONORÁRIOS SUCUMBENCIAIS.
+Não há limitação da taxa de juros remuneratórios, desde que não ultrapassem demasiadamente a taxa média mensal divulgada pelo BACEN para a operação, conforme orientação pacífica das Cortes Superior e Extraordinária. Caso concreto em que configurada a abusividade dos juros, sendo cabível a limitação destes às taxas do BACEN.
+Honorários sucumbenciais adequadamente fixados sobre o valor da causa, tendo em vista que baixo o proveito econômico, o que resultaria em honorários irrisórios.
+APELO DESPROVIDO." (e-STJ,fl. 161)
+Nas razões do presente recurso, FACTA alegou a violação ao art. 85, § 2º, do NCPC, ao sustentar que a condenação em honorários sobre o valor da causa somente deverá ser feita quando não for possível a fixação sobre o valor da condenação ou sobre o proveito econômico, o que não é o caso dos autos. Requereu a fixação sobre o proveito econômico.
+É o relatório. Passo a decidir.
+No caso dos autos, o Tribunal estadual, diante do julgamento procedente da ação revisional de contrato bancário, fixou os honorários de sucumbência com base no valor atualizado da causa, nos termos do art. 85, § 2º, do CPC/2015, in verbis:
+"Considerando o baixo valor do contrato, consequentemente, o proveito econômico será em valor muito inferior, o que resultaria em honorários irrisórios se fixados sobre a referida base de incidência. Em vista disso, não prospera a pretensão de redução dos honorários, restando mantidos em 10% sobre o valor atualizado da causa, majorados para 15%, diante do desprovimento do apelo interposto, forte no §11º do art. 85 do CPC." (e-STJ fl. 93)
+De fato, nos termo da jurisprudência desta Corte Superior, não sendo possível aferir o proveito econômico obtido ou sendo ele muito baixo, como na hipótese, é possível que o valor atualizado da causa seja utilizado como base para fixação de honorários advocatícios.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. VALOR DA CAUSA. DECISÃO MANTIDA.
+1. Segundo entendimento desta Corte Superior, "a decisão que julga procedente o direito de exigir contas na primeira fase da ação respectiva ostenta natureza de sentença, com eficácia predominantemente condenatória inclusive, a teor do que previsto no § 5º do art. 550 do CPC; sendo devido o arbitramento de honorários em favor do autor" (AgInt no REsp n. 1.918.872/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 4/4/2022).
+2. No caso dos autos, foram fixados os honorários sobre o valor da causa, em observância à "ordem de vocação" para a base de cálculo definida pela Segunda Seção: "(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão t ambém fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp n. 1.746.072/PR, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/2/2019, DJe de 29/3/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.897.898/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/3/2023, DJe de 13/3/2023.)
+Assim, tendo em vista que este STJ admite que o valor atualizado da causa seja utilizado como base da fixação de honorários advocatícios quando irrisório o benefício econômico, como na hipótese, não se vislumbra violação à lei federal que justifique o provimento do recurso especial.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida de 15% para 16% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
