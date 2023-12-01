@@ -1,0 +1,20 @@
+DECISÃO
+MARCELO SANTOS DA SILVA, condenado por roubo ao cumprimento de 4 anos de reclusão, alega sofrer constrangimento ilegal em decorrência do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à apelação defensiva, na qual pretendia, entre outas coisas, a modificação do regime semiaberto para o mais brando, objetivo este reiterado nesta oportunidade.
+Não houve pedido de liminar e não foram prestadas informações. Encaminhados os autos ao Ministério Público Federal, este se manifestou pelo não conhecimento do habeas corpus (fls. 350-354).
+Decido.
+A despeito dos argumentos externados pela defesa, o regime semiaberto mantido pelo Tribunal de origem se lastreou em compreensão que se harmoniza com a orientação consolidada deste Tribunal Superior.
+Deveras, verifica-se que o Tribunal a quo, ao manter a condenação do paciente pelo crime de roubo, acabou por também manter o regime semiaberto para o cumprimento de pena, com base nos seguintes fundamentos (fls. 331-332, destaquei):
+ ..
+Ora, inviável a fixação de regime inicial menos gravoso do que o semiaberto, observando a gravidade dos fatos, em que o réu se fingiu de passageiro, solicitando uma corrida, tendo feito o ofendido desviar o seu caminho, levando-o para uma favela, quando anunciou o assalto, demonstrando ousadia e crença na impunidade.
+Além disso, não se pode esquecer que o disposto no parágrafo 3º do mesmo diploma legal, segundo o qual a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no artigo 59 do Código Repressivo, ou seja, estabelece que o Magistrado na dosimetria da pena, deve atentar à culpabilidade, aos antecedentes, a conduta social, à personalidade do agente, aos motivos, circunstâncias e consequências do crime, para que a sanção seja necessária para a reprovação e prevenção do delito.
+Assim, ante a gravidade dos fatos, a pena fixada inviabiliza a fixação de regime inicial menos severo, sendo o regime semiaberto é o único compatível com a natureza e o grau de lesividade do delito praticado, eis que o legislador, ao criar o parágrafo 3º, do artigo 33, do Código Penal, deixou ao Juiz espaço para, dentro da realidade vigente, dosar a pena e fixar o regime de cumprimento de forma que possam ser suficientes para a reprovação e prevenção do crime, pois caso contrário tal parágrafo não existiria.
+Ademais, o roubo é crime cuja gravidade não se discute, que vem nos dias que correm causando grande inquietação na sociedade em geral, hoje até mesmo em cidades de menor porte, desvelando, ademais, a periculosidade de seus agentes, tudo, enfim, a exigir regime prisional mais severo.
+ ..
+Ressalte-se, por fim, que o agente que se dá à prática de delito de roubo, cometido mediante grave ameaça, demonstra possuir personalidade distorcida e periculosidade, o que não recomenda a adoção de regime mais brando, eis que implicaria, na verdade, em um incentivo a subtração de coisa alheia móvel, mediante grave ameaça ou violência à pessoa.
+Tais considerações, a despeito dos argumentos externados relacionados à existência de circunstâncias judiciais favoráveis, denotam que o regime mais gravoso imposto foi fundamentado. O quadro fático delineado pelo Magistrado de primeiro grau e mantido pelo Tribunal de origem, mostra-se suficiente para justificar a adoção do fechado, notadamente diante do modus operandi com que praticado o delito.
+Consoante entendimento desta Corte, "Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena" (AgRg no HC n. 482.345/SP, Rel. Ministro Rogerio Schietti, DJe 23/9/2019, destaaquei), tal como se deu na espécie.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
