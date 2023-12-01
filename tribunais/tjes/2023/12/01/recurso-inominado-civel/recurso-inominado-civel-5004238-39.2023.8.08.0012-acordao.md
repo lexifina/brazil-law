@@ -1,0 +1,75 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5004238-39.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: KETERLEY DE SOUZA CONCEICAO
+RECORRIDO: CNK ADMINISTRADORA DE CONSORCIO LTDA.
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5004238-39.2023.8.08.0012
+
+Recorrente: KETERLEY DE SOUZA CONCEICAO
+
+Recorrido: CNK ADMINISTRADORA DE CONSORCIO LTDA
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte recorrente as benesses da gratuidade da Justiça, na forma do art. 98, do CPC.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. CONSÓRCIO. TAXA DE ADMINISTRAÇÃO. AUTOR CONTRATOU JUNTO A RÉ DOIS CONTRATOS DE CONSÓRCIO. ENTRADA DE R$6.265,00 (SEIS MIL DUZENTOS E SESSENTA E CINCO) EM CADA CONSÓRCIO, NO MONTANTE DE R$12.530,00 (DOZE MIL QUINHENTOS E TRINTA REAIS). CONTRATOS JÁ RESCINDIDOS. EM RELAÇÃO AOS VALORES PAGOS, O MONTANTE DE R$10.640,00 (DEZ MIL SEISCENTOS E QUARENTA REAIS) FORAM PRESTADOS COMO “VALOR ANTECIPADO A TÍTULO DE TAXA DE ADMINISTRAÇÃO”.
+SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS, PARA, UMA VEZ RESCINDIDOS OS CONTRATOS DE CONSÓRCIO DE Nº 355915 E 355922, CONDENAR A RÉ NA DEVOLUÇÃO, EM ATÉ 30 (TRINTA) DIAS APÓS O ENCERRAMENTO DO GRUPO, DAS QUANTIAS PAGAS PELO AUTOR, NO VALOR DE R$12.530,00 (DOZE MIL QUINHENTOS E TRINTA REAIS), DESCONTADA A TAXA DE ADMINISTRAÇÃO DE FORMA PROPORCIONAL AO PERÍODO EM QUE O CONTRATO DO AUTOR ESTEVE ATIVO, NO ÍNDICE DE 0,2625% POR MÊS.
+RECURSO INOMINADO DA PARTE AUTORA, PLEITEANDO A REFORMA DA SENTENÇA, PARA DETERMINAR QUE OS VALORES PAGOS PELO RECORRENTE A TÍTULO DE TAXA DE ADMINISTRAÇÃO ANTECIPADA SEJAM DEVOLVIDOS DE MANEIRA IMEDIATA, DESCONTANDO APENAS O PERÍODO DE 02 (DOIS) MESES QUE O CLIENTE FICOU NO GRUPO.
+IMPOSSIBILIDADE DE RESTITUIÇÃO IMEDIATA. RESTITUIÇÃO DOS VALORES PAGOS APÓS ENCERRAMENTO DO GRUPO. INDÍCIOS QUE DESCARACTERIZAM ILEGALIDADES PRATICADAS PELA ADMINISTRADORA RÉ. NO QUE CONCERNE À DEVOLUÇÃO DOS VALORES, DIANTE DA DESISTÊNCIA EM PERMANECER NO GRUPO CONSORCIADO, OS IMPORTES PAGOS PELA PARTE AUTORA DEVEM SER RESTITUÍDOS, CONFORME PREVISÃO CONTRATUAL, RESSALVADA A TAXA DE ADMINISTRAÇÃO, A QUAL EMERGE DE AUTORIZAÇÃO LEGAL EXPRESSA, CORPORIFICADA NO ART. 27, CAPUT, DA LEI Nº 11.795/2008.
+RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”. SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso,
+NEGANDO-LHE PROVIMENTO
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios, suspensa a exigibilidade de pagamento na forma do art. 98, CPC.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
