@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por J. J. LOCACOES DE MAQUINAS LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/7/2023.
+Concluso ao gabinete em: 10/11/2023.
+Ação: de indenização por danos materiais, ajuizada por JRT-APU EMPREENDIMENTOS LTDA em desfavor do agravante, em decorrência de inadimplemento de contrato de prestação de serviços de obras e empreitada firmado entre as partes.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pela parte agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA 2018 C/C AÇÃO DE INDENIZAÇÃO 2019. INSTRUMENTO PARTICULAR DE PRESTAÇÃO DE SERVIÇOS DE OBRAS DE INFRAESTRUTURA E OUTRAS AVENÇAS. CONTRATO DE EMPREITADA GLOBAL. RESCISÃO CONTRATUAL. CULPA DA APELADA. SANÇÕES DO CONTRATO. VEDAÇÃO DE ENRIQUECIMENTO ILÍCITO. PAGAMENTO DOS SERVIÇOS COMPROVADAMENTE EFETUADOS. AÇÃO DE COBRANÇA PARCIALMENTE PROCEDENTE. PLEITO DE INDENIZAÇÃO. DECADÊNCIA DO DIREITO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (e-STJ fl. 622)
+Embargos de Declaração: opostos pela agravada, foram acolhidos com efeitos infringentes, para dar provimento aos pedidos iniciais, nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO.
+1. ALEGAÇÃO DE OMISSÃO QUANTO À INAPLICABILIDADE DO PRAZO DECADENCIAL DO CONTRATO DE EMPREITADA A AÇÕES INDENIZATÓRIAS. ACOLHIMENTO. OMISSÃO SANADA, COM AFASTAMENTO DA DECADÊNCIA. AÇÃO INDENIZATÓRIA QUE NÃO SE SUBMETE AO REFERIDO PRAZO. ENTENDIMENTO DOUTRINÁRIO. PRECEDENTES DESTE TRIBUNAL E DESTA CÂMARA. 2. RECURSO DE APELAÇÃO INTERPOSTO NA AÇÃO INDENIZATÓRIA. SENTENÇA DE IMPROCEDÊNCIA. REFORMA NECESSÁRIA. ACÓRDÃO EMBARGADO TORNOU INCONTROVERSA A CULPA EXCLUSIVA DA CONTRATADA NA RESCISÃO CONTRATUAL, COM A EXECUÇÃO INCOMPLETA E FALHADA OBRA. INDENIZAÇÃO PELA CONTRATAÇÃO DE OUTRA EMPRESA PARA REPARO DA OBRA DEVIDA. PRESSUPOSTOS DA RESPONSABILIDADE CIVIL CONFIGURADOS. ADEMAIS, MULTA CONTRATUAL IGUALMENTE DEVIDA, EM RAZÃO DO DESCUMPRIMENTO CONTRATUAL JÁ RECONHECIDO NO ACÓRDÃO EMBARGADO. SUCUMBÊNCIA INVERTIDA, EM DESFAVOR DA CONTRATADA.
+EMBARGOS CONHECIDOS E ACOLHIDOS, COM EFEITOS INFRIGENTES. DE CONSEQUÊNCIA, RECURSO DE APELAÇÃO CONHECIDO E PROVIDO. PEDIDOS INICIAIS JULGADOS PROCEDENTES. (e-STJ Fl. 672)
+Recurso especial: alega violação dos arts. 489, II e §1º, 492 e 1.022 do CPC, bem como dos arts. 416, parágrafo único, e 884 do CC. A par da ausência de fundamentação, assevera que houve a realização de 80% dos serviços contratos e que "a obra foi acompanhada pelo engenheiro da recorrida por um determinado período e o mesmo no seu depoimento informou que não havia qualquer problema na obra neste período (..)" (e-STJ Fl. 693). Aduz, assim, que o acórdão recorrido não apreciou as provas constantes dos autos. Assevera a impossibilidade de condenação em multa contratual, ante a ausência de reconvenção, o que configura julgamento extra petita. Sustenta que não havia omissão sanável por aclaratórios, devendo ser restabelecido o acórdão quanto à decadência reconhecida. Refere, por fim, o enriquecimento sem causa da agravada e a impossibilidade de ser cumulada a multa compensatória prevista em cláusula penal com indenização por danos emergentes e lucros cessantes.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC, quando o Tribunal de origem examina "de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO, 3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou o art. 1.022 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 492 do CPC, 416, parágrafo único, e 884 do CC, indicados como violados, e aos argumentos deduzidos em sede de recurso especial, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Ademais, ainda que assim não fosse, ao analisar as provas constantes dos autos, considerando os limites do pleito da parte agravada e os fatos submetidos a contraditório, bem como a tese referente ao adimplemento substancial, o Tribunal a quo apenas consignou:
+(..) Quanto ao pedido do apelante para afastar a sua condenação ao pagamento de qualquer quantia à contratada, para não se incorrer em enriquecimento ilícito, prudente a análise do pedido recursal subsidiário para condenar a apelante no pagamento dos serviços realizados pela apelada mediante medição a ser verificada com base nos comprovadamente documentos dos autos, compensando-se os valores já pagos e com os valores que a apelante possua direito de recebimento.
+(..)
+Assim, a apelada somente teria direito a recebimento de novas quantias, para além daquelas inicialmente recebidas, se demonstrasse que executou a contento alguma parte/proporção da obra, o que não restou comprovado.
+Do contrário, quanto a parte que foi executada pela apelada restou demonstrado que a mesma foi refeita, sendo descabido, portanto, qualquer pagamento à apelada por parte de execução da obra. (..) (e-STJ Fl. 633)
+E, em sede de aclaratórios, o Tribunal de origem, acolhendo a tese da ora agravada, apontou:
+Destaca-se que os argumentos utilizados no acórdão embargado - na parte que versa sobre a ação de cobrança - para configurar culpa exclusiva da contratada JJ pela rescisão contratual, igualmente se aplicam para sua culpa exclusiva em relação aos pedidos indenizatórios.
+Ressalto, inclusive, que o reconhecimento de culpa exclusiva da contratada JJ não foi objeto de insurgência por parte desta.
+(..)
+No caso, a culpa exclusiva da contratada JJ já se tornou incontroversa. De igual modo, a conduta ilícita encontra-se diretamente conectada com a culpa exclusiva da parte, já que restou conhecida a infração de diversas normas contratuais (p. 12 do acórdão embargado).
+Por sua vez, o dano também se mostra presente. Foi justamente em razão da conduta da contratada que foi necessário que a contratante fosse através de outra empresa para realização da obra, no que gastou valores de alta monta - configurando o alegado dano material na modalidade de danos emergentes, na monta de R$ 610.000,00 (somando-se os contratos de mov. 1.27 e 1.28, com as respectivas notas fiscais comprovando o pagamento).
+Por fim, o nexo causal também se mostra configurado, na medida em que o dano sofrido - necessidade de contratar outra empresa - se deu justamente pela conduta da contratada JJ que não concluiu e realizou de modo incorreto e falho a obra.
+Ainda, no que se refere à multa contratual, a rescisão contratual foi de culpa exclusiva da contratada, pelo que fica configurado o dever em arcar com a multa de 10% prevista no item 10.1 do Contrato (transcrito na inicial da indenizatória, p. 18). (..) (e-STJ Fls. 680/682, grifo nosso)
+Alterar o decidido no acórdão impugnado, assim, no que se refere ao descumprimento contratual e à viabilidade do pleito de ressarcimento e, inclusive, à própria tese de julgamento extra petita, notadamente considerando a suficiência dos elementos acostados aos autos, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Tal posicionamento, frise-se, está em harmonia com a jurisprudência desta Corte no sentido de que, sendo o magistrado o destinatário da prova, cabe a ele decidir sobre o necessário à formação do próprio convencimento.
+A corroborar:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAL E MORAL. INVASÃO DE IMÓVEL OCUPADO POR 12 ANOS E DESTRUIÇÃO DE BENS NELE CONTIDOS. DECISÃO EXTRA PETITA. INOCORRÊNCIA. DANO MORAL RECONHECIDO. ALTERAÇÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Conforme o entendimento consolidado neste Tribunal, não configura julgamento ultra petita ou extra petita, com violação do princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, sob pena de se violar o contido no enunciado da Súmula nº 7 desta Corte.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.826.386/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021, grifo nosso.)
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ Fl. 682) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.02 6, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. Incidência da Súmula 284 do STF.
+4. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
