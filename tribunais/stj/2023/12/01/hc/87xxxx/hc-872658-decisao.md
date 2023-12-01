@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de FÁBIO RIBEIRO DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO EM EXECUÇÃO. Determinação de expedição de mandado de prisão em desfavor do paciente, condenado a pena privativa de liberdade em regime inicial semiaberto. Anulação da decisão, determinação da expedição de contramandado e a possibilidade de aguardar em prisão albergue domiciliar até o surgimento de vaga destinada ao regime adequado. Impossibilidade. Informação prestada pela Secretaria da Administração Penitenciária da disponibilidade de vaga no regime intermediário. Observância à Súmula Vinculante 56, à Resolução CNJ n. 474/2022 e ao Comunicado CG n. 628/2022 deste E. Tribunal. Decisão bem fundamentada. Negado provimento ao recurso.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que deixou de ser observada a Resolução n. 474/2022 do CNJ em razão de ter sido determinada a expedição de mandado de prisão para cumprimento da pena em regime semiaberto sem a prévia intimação do sentenciado, não havendo certeza se existe atualmente vaga no estabelecimento adequado.
+Requer, em suma, que seja expedido contramando de prisão ou alvará de soltura e concedida prisão domiciliar até que seja disponibilizada vaga para o sentenciado.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+Em cumprimento ao Comunicado CG n. 628/2022 deste E. Tribunal, que regulamentou a Resolução CNJ n. 474/2022, o MM. Juízo a quo determinou a requisição de informação à Secretaria da Administração Penitenciária para verificar a existência de vaga em estabelecimento penal adequado.
+Confirmada a existência de vaga em estabelecimento prisional destinado ao regime semiaberto, foi determinada a expedição do mandado de prisão em regime adequado, consignando-se a proibição de recolhimento do paciente em estabelecimento penal destinado a condenado sem regime fechado, de modo que não há que se falar, no caso dos autos, em inobservância à Súmula Vinculante 56, à Resolução CNJ n. 474/2022 ou ao Comunicado CG n. 628/2022 deste E. Tribunal.
+Deste modo, sem evidenciar erro de julgamento ou procedimento, afasta-se a presença de ilegalidade ou abuso de poder na decisão atacada (fls. 51/52).
+Segundo entendimento firmado nesta Corte, sendo a pessoa condenada em regime aberto ou semiaberto, deve ser intimada para dar iní cio ao cumprimento da pena antes da expedição de mandado de prisão, nos termos da Resolução n. 474/CNJ, a fim de que o apenado não seja recolhido em regime mais severo que o previsto no édito condenatório enquanto a guia de execução definitiva é elaborada.
+Contudo, na espécie não há que se falar em constrangimento ilegal pois, conforme se extrai do acórdão impugnado, o mandado de prisão só teria sido expedido porque foi atestada a existência de vaga em estabelecimento compatível com o regime fixado na sentença condenatória.
+Ademais, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca das condições atuais para o cumprimento da pena seria necessário o reexame da prova, inviável na via estreita dos habeas corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
