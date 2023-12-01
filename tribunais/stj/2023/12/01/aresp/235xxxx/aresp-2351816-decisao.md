@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e de incidência da Súmula n. 7 do STJ (e-STJ fls. 291/295).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 216):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. PRECLUSÃO. ARGUIÇÃO DE IMPENHORABILIDADE (ATIVOS FINANCEIROS) QUE FOI REALIZADA ANTES MESMO DO CUMPRIMENTO DA CARTA PRECATÓRIA DE INTIMAÇÃO ACERCA DO BLOQUEIO. PRECLUSÃO AFASTADA. SENTENÇA QUE RECONHECE A IMPENHORABILIDADE DE MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS DEPOSITADOS EM CONTA DE TITULARIDADE DA PARTE EXECUTADA. MANUTENÇÃO. ART. 833, INCISO X, DO CÓDIGO DE PROCESSO CIVIL. PROTEÇÃO LEGAL QUE NÃO FICA RESTRITA À CADERNETA DE POUPANÇA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPENHORABILIDADE DO IMÓVEL. BEM DE FAMÍLIA, QUE SERVE DE MORADIA À ENTIDADE FAMILIAR. DEMONSTRADO NOS AUTOS QUE O IMÓVEL INDICADO PELA PARTE EXEQUENTE É UTILIZADO PARA RESIDÊNCIA DA PARTE EMBARGANTE, FORÇOSO RECONHECER A INCIDÊNCIA DO ART. 1º DALEI Nº. 8.009/90. PRECEDENTES DESTA CORTE E DO STJ. SENTENÇA MANTIDA. RECURSO DESPROVIDO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 242/245).
+Nas razões do recurso especial (e-STJ fls. 251/259), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(a) arts. 1.022 e 1.025 do CPC/2015, por negativa de prestação jurisdicional, destacando que "não foi apreciado no acórdão, explicitamente, a alegação ventilada nas razões recursais da apelação, sobreo reconhecimento da preclusão quanto os embargos à execução" (e-STJ fl. 257) e
+(b) arts. 231 e 915 do CPC/2015, sustentando, em síntese, que "os embargos foram opostos em outubro de 2018, oito meses após terem sido devidamente citados os executados, por edital válido, em fevereiro do referido ano, evidenciando a preclusão dos presentes Embargos à Execução, opostos somente depois do bloqueio de valores realizado. Portanto, tendo em vista a via acionária autônoma utilizada pelos recorridos como meio de defesa, deve-se atender aos requisitos de admissibilidade dos embargos, como a tempestividade da ação" (e-STJ fls. 258/259).
+Busca o reconhecimento da intempestividade dos embargos à execução.
+No agravo (e-STJ fls. 303/307), afirma a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fl. 245):
+Quanto à primeira insurgência, indicou o acórdão que os embargantes-executados postularam pela aplicação da proteção legal por meio dos embargos do devedor, opostos em 17/09/2018, ou seja, anterior ao cumprimento da carta precatória de intimação acerca do ato constritivo (fl. 88).
+Não fosse por isso, a matéria deduzida nos embargos é de ordem pública, ensejando conhecimento em qualquer momento do processo ou grau de jurisdição, inclusive de ofício.
+No mesmo norte, foi apreciada a tese relativa à penhora do imóvel acima referido, oportunidade na qual, após análise da prova documental - mormente as faturas de energia elétrica de fls. 19/20 e a certidão de fl. 21, emitida pelo Cartório de Registros e Protestos de Cerro Largo - ,restou concluído que não há outros bens registrados em nome dos executados.
+Houve, pois, o preenchimento dos requisitos necessários ao reconhecimento da impenhorabilidade prevista na Lei n.º 8.009/90.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Com relação aos arts. 231 e 915 do CPC/2015, o especial não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a matéria deduzida nos embargos é de ordem pública, ensejando conhecimento em qualquer momento do processo ou grau de jurisdição, inclusive de ofício. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Ainda que assim não fosse, dissentir das conclusões do acórdão impugnado quanto à inexistência de preclusão ou de intempestividade implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
