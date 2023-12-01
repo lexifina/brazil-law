@@ -1,0 +1,72 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5031279-76.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO PAN S.A.
+RECORRIDO: RICARDO ALVES LIRIO
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+50
+31279-76.2022.8.08.0024
+
+Recorrente:
+BANCO PAN S.A.
+
+Recorrido:
+RICARDO ALVES LIRIO
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS C/C INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO. FRAUDE. NEGATIVAÇÃO INDEVIDA. TRANSFERÊNCIA REALIZADA POR PIX NA CONTA DO AUTOR. AUTOR ENTROU EM CONTATO COM O SAC DA REQUERIDA PARA INFORMAR QUE DESCONHECIA O EMPRÉSTIMO. DÉBITO QUE FOI CANCELADO PELA REQUERIDA. INSERÇÃO DO NOME DO AUTOR NO CADASTRO DE PROTEÇÃO AO CRÉDITO, POR COBRANÇA DE PARCELAS REFERENTES AO DÉBITO DO EMPRÉSTIMO. ÁUDIO COLACIONADO AOS AUTOS PELA PARTE AUTORA CORROBORA PARA A VERACIDADE DOS FATOS NARRADOS. BANCO RECONHECE QUE O CLIENTE FOI VÍTIMA DE FRAUDE. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS, DECLARANDO INEXISTENTE ENTRE AS PARTES OS DÉBITOS PROVENIENTES DO EMPRÉSTIMO REALIZADO EM 07/06/2022. CONDENAÇÃO À RETIRADA DO NOME DO AUTOR DOS CADASTROS DE PROTEÇÃO AO CRÉDITO E PAGAMENTO DE R$7.000,00 (SETE MIL REAIS) A TÍTULO DE DANOS MORAIS. RECURSO DA PARTE REQUERIDA, PLEITEANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS OU, EVENTUALMENTE, A REDUÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS. ALEGAÇÃO DE QUE O CONTRATO É VÁLIDO, FOI ASSINADO NA MODALIDADE DIGITAL, CONTENDO BIOMETRIA FACIAL E DADOS DA CONTRATANTE. RECURSO CONHECIDO E IMPROVIDO. AUSÊNCIA DE MANIFESTAÇÃO DE VONTADE NA ADESÃO CONTRATUAL. CONTRATAÇÃO ILEGÍTIMA. NULIDADE DA RELAÇÃO CONTRATUAL. DOCUMENTAÇÃO BASTANTE PARA A FORMAÇÃO DO CONVENCIMENTO DO MAGISTRADO. PROVAS INSUFICIENTES PARA COMPROVAR A REALIZAÇÃO DO CONTRATO. INDÍCIOS DE FRAUDE. DOCUMENTOS PRODUZIDOS UNILATERALMENTE PELO REQUERIDO. NÃO COMPROVAÇÃO DE FATO IMPEDITIVO, EXTINTIVO OU MODIFICATIVO DO DIREITO DA AUTORA. VALOR DA CONDENAÇÃO R$7.000,00 (SETE MIL REAIS), DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9.099/95 E ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso,
+NEGANDO-LHE PROVIMENTO
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
