@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por IRAILDA CRISOSTOMO DE MELO em face de decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do art. 105, III, da Constituição, interposto contra acórdão proferido pelo eg. Tribunal de Justiça de São Paulo, assim ementado:
+RESPONSABILIDADE CIVIL. Suposto abuso, à consideração de anotação moratória em banco de dados de órgão de proteção ao crédito. Abordagens, declaratória e condenatória, também na perspectiva de cancelar inscrição em cadastro de inadimplentes. Juízo de improcedência. Apelo da autora. Desprovimento.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões recursais, a recorrente aponta violação aos arts. 1.022, II, do Código de Processo Civil de 2015, 43, § 2º, do Código de Defesa do Consumidor, bem como à Súmula 359 do STJ. Alega isto: (I) omissão no acórdão objurgado sobre a ausência de solidariedade no que diz respeito ao envio do comunicado previsto no art. 43, § 2º, do CDC, "entre o órgão mantedor do cadastro (requerida) e o credor (BANCO BRADESCO)" (fl. 214); (II) "a única questão apreciada pela referida Corte diz respeito ao fato de a recorrida ter replicado informação disponibilizada pelo BANCO BRADESCO, sem, contudo, apreciar o fato de inexistir responsabilidade solidária, entre o arquivista, órgão mantedor do cadastro e o credor, pelo envio do comunicado previsto no artigo 43, § 2º, do Estatuto Consumerista e Súmula 359 do STJ" (fl. 216).
+É o relatório. Passo a decidir.
+O apelo merece prosperar no tocante à ofensa ao art. 1.022 do CPC/2015.
+Compulsando os autos, infere-se que nos embargos de declaração (fls. 187-190) fo i requerida a análise de pontos como se infere da leitura do seguinte excerto das razões recursais:
+"Vê-se, pois, do caderno processual que a parte embargante interpôs recurso de apelo, onde sustentou a reforma da sentença (fls. 142/144), haja vista o fato de a parte embargada, frise-se, arquivista de banco de dados, não ter cumprindo a norma prevista no artigo 43, § 2º, do Estatuto Consumerista, cuja obrigação, nos termos do referido artigo e Súmula 359 do STJ, não pode ser estendida a terceiros.
+Pois bem. Quando do julgamento do apelo, este Tribunal deixou de enfrentar a questão acerca da ausência de solidariedade, no que diz respeito ao envio do comunicado previsto no artigo supracitado, entre o órgão mantedor do cadastro (embargada) e o credor (BANCO BRADESCO), mantendo, assim, os termos da decisão proferida pelo juízo de piso.
+Isso porque este Tribunal se limitou na fundamentação de que a parte embargada teria replicado informação disponibilizada pelo BANCO BRADESCO S/A, sem concorrer no plano da causalidade do fato indutor do pleito reparatório.
+(..)
+Ora, como dito nas razões do apelo, não houve pedido de condenação da parte embargada (órgão mantedor de cadastros de inadimplentes) pela fraude perpetrada, indevidamente, em nome da embargante.
+Conforme se verifica dos autos, a negativação indevida do bom nome da embargante decorreu de fato de terceiro, a saber, o BANCO BRADESCO realizou o negócio jurídico sem as devidas cautelas, daí porque, por razões óbvias, o órgão arquivista/mantedor do cadastro não pode responder pelo incidente.
+Da mesma forma, não houve pedido de condenação da embargada pela ausência de veracidade das informações que recebeu do credor (BANCO BRADESCO), pois, como sabido, este último é o responsável por verificar a regularidade dos documentos apresentados com quem contrata (leia-se: consumidor), de modo a evitar fraudes."
+De fato, com a devida vênia, a eg. Corte Estadual rejeitou os aclaratórios sem examinar as referidas teses, que podem vir a influenciar no desate da presente lide.
+Por sua vez, a iterativa jurisprudência desta eg. Corte é no sentido de que fica caracterizada a violação ao art. 1.022 do CPC/2015, quando o eg. Tribunal a quo deixa de examinar temas essenciais ao debate da controvérsia, apesar de devidamente provocado em sede de embargos de declaração. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. LIMITAÇÃO DE COBERTURA. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD) E INVALIDEZ LABORATIVA PERMANENTE TOTAL POR DOENÇA (ILPD). INTERPRETAÇÃO RESTRITIVA. APOSENTADORIA. ÓRGÃO PREVIDENCIÁRIO. PERÍCIA. NECESSIDADE.
+(..)
+4. O acórdão recorrido não se manifestou sobre questões essenciais para o julgamento da causa, pressuposto indispensável para o exame do recurso especial, motivo pelo qual reconhece-se a ofensa ao art. 535 do Código de Processo Civil.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 952.515/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 02/06/2017 - grifou-se)
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. Violação ao art. 535 do Código de Processo Civil configurada. Acórdão estadual que não enfrentou todos os aspectos essenciais à resolução da controvérsia. Existência de ponto omisso relativamente à conduta da agravada, cuja elucidação mostra-se relevante para o deslinde da controvérsia, a qual gira em torno da existência de responsabilidade da empresa de transporte com relação aos eventos danosos suportados pela agravada
+2. Agravo regimental desprovido."
+(AgRg no AREsp 197.146/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 23/02/2016 - grifou-se)
+Nesse senda, deve ser reconhecida a violação ao art. 1.022 do CPC/2015, para anular o v. acórdão que julgou os aclaratórios, e determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando as omissões ora reconhecidas.
+Resta prejudicada a análise das demais teses em razão do provimento do recurso especial.
+Ante o exposto, dou parcial provimento ao recurso especial a fim apenas de reconhecer a violação ao art. 1.022 do CPC/2015, anulando-se o v. acórdão de fls. 206-208 e determinando-se o retorno dos autos ao eg. Tribunal de origem para promover novo julgamento dos embargos de declaração, como entender de direito.
+Publique-se.
+EMENTA
