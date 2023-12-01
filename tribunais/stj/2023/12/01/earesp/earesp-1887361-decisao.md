@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por LEODIR LUIZ PICCOLLI contra a decisão que negou provimento aos embargos de divergência, pois "o aresto embargado acompanha a jurisprudência consolidada por esta Corte, no sentido de que a análise de questão de ordem pública não prescinde, no âmbito do recurso especial, do requisito do prequestionamento" (na fl. 708).
+A parte embargante afirma, em síntese, que, "salvo melhor Juízo, entende-se que não houve na r. decisão monocrática, qualquer indicação acerca do afastamento da aplicação do art. 491 do Código de Processo Civil ao caso em apreço, mormente haja pedido expresso formulado nos embargos de divergência" (na fl. 714).
+A parte embargada apresentou impugnação.
+Terceiro estranho aos autos, SADI DE OLIVEIRA DA LUZ, peticionou nos autos informando que, "nos autos do processo n. 0002986-61.2012.8.24.0001 da Comarca de Abelardo Luz/SC, quando tramitava junto ao e. Tribunal de Justiça de Santa Catarina, houve acordo no qual o requerente e familiares ficaram de pagar os valores envolvidos no presente feito", requerendo "a extinção e baixa definitiva do feito face ao pagamento, com o consequente levantamento de toda e qualquer restrição decorrente em relação aos demandados e seu patrimônio" (na fl. 726).
+Intimado para se pronunciar acerca de tal petição, o Banco do Brasil, o exequente, disse que "nos autos do supracitado processo iniciou-se tratativas particulares para realização de acordo, entretanto, sem mesmo a efetivação e alinhamento dos termos de eventual solução do conflito (inclusive sem o alcance da transação), sendo que a parte realizou depósito (de valor unilateral) naqueles autos" (na fl. 753)
+Também intimado, o embargante, de divergência e de declaração, LEODIR LUIZ PICCOLLI, aduziu que, "como a instituição financeira não reconheceu o depósito realizado pelo terceiro nos autos de origem como pagamento, como também pelo fato de que o Banco do Brasil não confirmou a realização de composição que pudesse acarretar na perda de objeto destes autos, mister que o feito prossiga" (na fl. 764).
+Após, o terceiro, salientando que "depositou em subconta judicial, vinculada ao processo objeto do recurso, a quantia de R$780.875,00" e que, "ocorre que, as partes envolvidas no processo não confirmaram a realização do acordo", requereu "seja determinada a devolução do (valor do depósito assinalado) ao peticionante, por meio da expedição de alvará" (nas fls. 767/768).
+É o relatório.
+Passo a decidir.
+Os embargos não merecem acolhida.
+Deveras, como o recurso especial manejado pelo ora embargante não foi conhecido, a matéria relativa ao art. 491 do Código de Processo Civil não foi examinada, inviabilizando os presentes embargos de divergência por falta de similitude fática e ausência de prequestionamento.
+De sua vez, o pedido de expedição de alvará de levantamento do valor supostamente depositado deve ser requerido perante as instâncias Judiciais que o autorizaram ou perante quem o feito assinalado pelo peticionante, tramita, porquanto a questão é totalmente estranha ao presente feito, assim como o próprio autos em que foi alegadamente feito o depósito.
+Ante o exposto, rejeito os embargos de declaração e o pedido feito pelo terceiro.
+Publique-se.
+ EMENTA
