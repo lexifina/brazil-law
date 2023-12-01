@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto por ABC PNEUS LIMITADA e OUTRA, contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a", do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO INCIDENTE DE DEVOLUÇÃO DE VALORES DEBITADOS EM CONTA CORRENTE Recepção do incidente como impugnação de crédito Recurso das recuperandas a que se atenda ao primeiro dos dois pleitos alternativos indicados em sua "impugnação" Pleitos alternativos de repetição dos valores recebidos antecipadamente ou a modificação da lista Primeiro pedido negado pelo Magistrado, conforme sentença:
+"entendo que o referido valor não deve ser devolvido pelo banco, mas sim descontado do crédito já habilitado na recuperação" Pedido alternativo atendido Recurso não conhecido.
+Dispositivo: não conheceram o recurso." (Fl. 891).
+Nas razões do recurso especial, a parte ora agravante alega violação aos artigos 49 e 172, da Lei 11.101/200.
+Sustenta, em síntese, ser indevida a compensação de crédito indevidamente amortizado com o crédito sujeito à recuperação judicial, por quebrar a paridade entre os credores da mesma classe, sendo devida a devolução dos valores.
+Apresentadas contrarrazões às fls. 913/921.
+É o relatório.
+Decido.
+Na origem, cuida-se de Agravo de Instrumento interposto pelas ora recorrentes contra decisão que manteve a parcial procedência do incidente de impugnação de crédito promovido pelas ora recorrentes em face do banco ora recorrido.
+As recorrentes fundamentam sua irresignação nos seguintes termos:
+"Trata-se de recurso de agravo de instrumento interposto pelas Recorrentes, contra a r. decisão proferida pelo D. Juízo de Primeiro Grau nos autos da Impugnação de Crédito nº 0053720- 83.2011.8.26.0554, a qual foi julgada parcialmente procedente a fim de alterar o crédito arrolado em favor do Recorrido para a quantia de R$ 1.573.040,07 (um milhão quinhentos e setenta e três mil e quarenta reais e sete centavos).
+Na fase instrutória da mencionada impugnação de crédito, foi constatado a amortização indevida do valor de R$ 703.847,58 (setecentos e três mil oitocentos e quarenta e sete reais e cinquenta e oito centavos), os quais deveriam ser devidamente corrigidos e devolvidos para as Recorrentes.
+No entanto, o D. Juízo a quo, ao invés de determinar a devolução do montante indevidamente amortizado, compensou o crédito a que faz jus o Recorrido, de modo que violou flagrantemente o artigo 49, caput, da Lei nº 11.101/2005, assim corno jurisprudência pacífica dessa Colenda Corte." (Fl. 889).
+Ao dirimir a controvérsia, o Tribunal a quo não conheceu do recurso por ausência de interesse recursal, nos termos da seguinte fundamentação:
+"Conforme já consta do Voto n. 33.695 proferido nos autos de AI 2251261-30.2016, entre as mesmas partes, na lista apresentada pelas devedoras (LREF, art. 7º, § 1º), o Banco Bradesco é arrolado como credor quirografário de dois créditos, um no montante de R$ 1.369.746,98 e R$ 899.740,43, totalizando R$ 2.269.487,41. A diferença de R$ 7.400,24 foi a pleiteada pela instituição financeira.
+A "impugnação da devedora" (fl. 78) qual seja, o pleito de devolução dos valores de valores debitados em sua conta bancária após o ingresso com o pedido de recuperação judicial, recebidos por liquidação antecipada foi apresentada após o êxito da divergência instaurada pela instituição financeira ao crédito arrolado na inicial (LREF, art. 7º 1º), para que fosse acrescida a quantia de R$ 7.400,24 ao montante apresentado pela devedora na recuperação judicial, no valor de R$ 2.276.887,65.
+O Banco Bradesco apresentou contestação essa "impugnação" das recuperandas e de maneira lúcida afirmou não ser possível introduzir impugnação com matéria diversa àquela apresentada no incidente já instaurado, argumentando:
+ ..  por mais que existam valores a serem devolvidos à empresa, em razão de títulos pagos pelos sacados, o valor da relação de credores apresentada pelo administrador judicial não será alterado, pois reflete o valor do crédito do banco na data do pedido de recuperação judicial.
+O Magistrado, ao decidir, afastou a oposição apresentada pela instituição financeira e julgou parcialmente procedente a impugnação instaurada pelas recuperandas, deduzindo o montante recebido pela instituição financeira a título de liquidação antecipada (R$ 778.403,52), após o pedido recuperatório, estabelecendo em R$ 1.573.040,07 o crédito devido à instituição financeira, arbitrando em R$ 5.000,00 a verba honorária devida.
+Nos autos mencionados, o voto deste mesmo Relator dá provimento ao recurso da instituição financeira, com os seguintes fundamentos:
+Desse contexto fático, observa-se, em primeiro lugar, que as recuperandas deram causa à divergência apresentada pela instituição financeira, obrigando-a a pleitear o acertamento de seu crédito para o valor então considerado na lista do Administrador Judicial.
+Em segundo lugar, a impugnação das recuperandas, motivada por débitos ocorridos em sua conta corrente, após o pedido de recuperação, não se afasta dos valores que ela mesmo contemplou no pedido inicial de sua recuperação judicial.
+Bem verdade que as recuperandas não impugnavam as listas previstas no art. 7º, mas introduziam outra matéria, qual seja, a amortização antecipada e indevida de duplicatas pagas pelos sacados, clientes das recuperandas.
+Essa matéria não é deduzível pela via de divergência ou de impugnação porque o crédito, tal como pleiteado pela instituição financeira estava correto e correspondia a pouco mais de R$ 7.000,00 daquele informado pelas recuperandas.
+O que se seguiu foi incidente em que as recuperandas pleiteavam a repetição dos valores recebidos antecipadamente porque evidentemente não poderiam pretender a modificação da lista e ao mesmo tempo pretender a devolução da importância debitada em sua conta corrente.
+Esse último pedido foi negado pelo Magistrado, conforme se pode ler na r. sentença: "entendo que o referido valor não deve ser devolvido pelo banco, mas sim descontado do crédito já habilitado na recuperação, considerado o laudo técnico de fl. 373-375" (fl. 81).
+Verifica-se, pois, que os atos tratam de mero incidente de devolução de valores liquidados após a quebra, indeferido pelo Magistrado, com acertamento de ofício do crédito devido ao credor Bradesco.
+A rigor, nesses incidentes, comuns em recuperação judicial, não cabe impor custas e, tampouco condenar eventual "vencido" em verba honorária. Diante disso, o recurso é provido para esse fim, nada obstante a pretensão da instituição financeira à sucumbência recíproca, sob pena de agravar a situação das próprias recuperandas, autoras de incidente de devolução do indébito (indeferido) e não de impugnação de crédito como entendeu a r. sentença.
+Em razão do exposto, dá-se provimento ao recurso, com observação.
+Isto posto, vê-se que as recuperandas ao apresentarem pretensão o fizeram alternativamente (v. fl. 87-88): a repetição dos valores "indevidamente liquidados" recebidos pela instituição financeira ou a modificação da lista. Isto porque não podem, ao mesmo tempo, pretender a devolução da importância debitada em sua conta corrente e a alteração da lista, sob pena de obterem duplo ganho.
+Definida a redução do valor definido na lista apresentada pelas recuperandas, mantida a instituição financeira de posse do numerário descontado, tal como requerido, não há como se pretender, a adoção da segunda solução, porque, agora, mudaram de ideia e estão a preferir a restituição.
+Evidente, portanto, a ausência de interesse recursal.
+De todo modo, os títulos dados em cessão fiduciária pelas recuperandas foram quitados pelos sacados diretamente à instituição financeira, como anotado na defesa apresentada (fl. 853), sem ocorrência de débito na conta corrente das recuperandas, razão pela qual, indevida a repetição de indébito.
+Em razão do exposto, não se conhece o presente recurso." (Fls. 892/894)
+Do excerto acima transcrito, afere-se que Tribunal de origem rechaçou a tese aventada pelas recorrentes com base nos seguintes fundamentos: i) as recorrentes apresentaram pedidos alternativos; ii) não seria cabível a devolução da importância e a alteração da lista, ao mesmo tempo; e iii) acolhido um dos pedidos alternativos, não há interesse recursal em pleitear o acolhimento do outro.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA DA PARTE REQUERIDA. (..)
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo. Incidência da Súmula 283 do STF. (..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.174.114/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2023, DJe de 10/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. JUROS MORATÓRIOS. LIMITAÇÃO A 1% AO MÊS. SÚMULA 379/STJ. LEGALIDADE DA COBRANÇA DA TARIFA DE CESTA DE SERVIÇOS. SÚMULAS 283 E 284/STF. AGRAVO DESPROVIDO. (..)
+2. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.066.687/AL, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 1.7.2022)
+Além disso, verifica-se que o conteúdo normativo dos dispositivos 49 e 172, da Lei 11.101/200, invocados no apelo nobre, e a tese acerca da quebra da paridade existente entre credores da mesma classe, não foram apreciados, efetivamente, pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CRÉDITO RURAL. PLANO COLLOR (MARÇO 1990). EXECUÇÃO INDIVIDUAL. IMPUGNAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. CORREÇÃO MONETÁRIA. INOVAÇÃO ARGUMENTATIVA.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. A correção monetária de débitos judiciais deve seguir os preceitos da Lei 6.899/1981, não os índices de remuneração de quantias mantidas em conta de poupança. Precedentes.
+3. Não se admite a adição, em sede de embargos de declaração ou agravo interno, de tese não exposta no recurso especial, por importar em inadmissível inovação.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.294.412/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/11/2023, DJe de 17/11/2023)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. JULGAMENTO ULTRA PETITA E REFORMATIO IN PEJUS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF. LEGITIMIDADE ATIVA. ACÓRDÃO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO NO JULGAMENTO DE RECURSO REPETITIVO. JUROS DE MORA. APLICAÇÃO IMEDIATA DA TESE FIRMADA EM REPETITIVO. D ECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de debate no acórdão recorrido quanto a violação dos arts. 141 e 492 do CPC, suscitados no recurso especial e sobre os quais não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF.
+2. A Segunda Seção deste Superior Tribunal de Justiça consolidou entendimento, nos moldes dos Recursos Repetitivos, no sentido de que a sentença proferida em ação civil pública se aplica indistintamente a todos os beneficiários detentores de caderneta de poupança.
+3. É desnecessário o trânsito em julgado da tese sufragada por esta Corte Superior de Justiça como condição para que se possa invocá-la como precedente a fundamentar decisões em casos semelhantes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido."
+(AgInt no REsp n. 2.048.238/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/10/2023, DJe de 3/11/2023)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. ESCOLHA UNILATERAL DO AGENTE FIDUCIÁRIO. POSSIBILIDADE. EXEGESE DO ART. 30, I E II, § § 1º E 2º, DO DECRETO-LEI N. 70/66. NOTIFICAÇÃO DO DEVEDOR EM 10 (DEZ) DIAS PARA PURGAR A MORA. § 1º DO ART. 31 DO DECRETO-LEI N. 70/66. PRAZO IMPRÓPRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DA STF. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARATÓRIOS PARA SANAR A OMISSÃO. LEGALIDADE DO PROCEDIMENTO DE EXECUÇÃO EXTRAJUDICIAL. ACÓRDÃO A QUO CALCADO EM MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+(..)
+3. É imperioso que os recorrentes, em caso de omissão, oponham embargos de declaração para que o Tribunal a quo se pronuncie sobre os dispositivos infraconstitucionais tidos por afrontados.
+Entretanto, depreende-se da análise dos autos que os recorrentes não manejaram os imprescindíveis embargos de declaração. Logo, é inarredável a aplicação do disposto nas Súmulas n. 282 e 356 do STF.
+(..)
+9. Recurso especial parcialmente conhecido e, nessa extensão, não provido. Acórdão submetido ao regime do art. 543-C do CPC."
+(REsp n. 1.160.435/PE, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 6/4/2011, DJe de 28/4/2011)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
