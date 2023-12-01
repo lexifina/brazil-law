@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por BANCO SANTANDER (BRASIL) S.A., contra decisão que não admitiu recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; (ii) incidência da Súmula 7/STJ; e (iii) relativamente à interposição do apelo nobre pela alínea "c", verificou-se a ausência de similitude fática (fls. 115/118, e-STJ).
+Daí o presente agravo (fls. 121/127, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta apresentada pela parte adversa à fl. 140, e-STJ.
+É o relatório.
+Decido.
+1. O recurso não é admissível, por violação ao princípio da dialeticidade.
+Com efeito, no caso dos autos, observa-se que o insurgente, nas fls. 125/126, e-STJ, da razões do agravo em recurso especial traz, tão-somente, argumentos genéricos sobre os óbices, deixando, assim, de refutar de forma específica e objetiva as vicissitudes elencadas na decisão de inadmissão do apelo nobre.
+Assim, a falta de ataque específico aos fundamentos da decisão agravada atrai, por analogia, o óbice contido no enunciado da Súmula 182 do STJ, verbis:
+"É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. SÚMULA 182 - STJ. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 - CPC. PERDA DE CARGO PÚBLICO. PENA APLICADA EM PROCESSO ADMINISTRATIVO. DESNECESSIDADE DE REITERAÇÃO NA AÇÃO DE IMPROBIDADE. INABILITAÇÃO PARA A FUNÇÃO PÚBLICA. INOCORRÊNCIA DE VIOLAÇÃO A PRECEITOS DA LEI 8.429/1992. 1. A decisão que não admitiu o recurso especial tem base na Súmula 7/STJ e na falta de demonstração do dissídio jurisprudencial, fundamentos que não foram impugnados pela recorrente, senão por razões genéricas, com a renovação dos fundamentos do recurso especial. "É inviável o agravo do art. 544 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula 182/STJ). (..) 5. Agravo interposto por Marisete José de Ataíde não conhecido. Recurso especial da Empresa Brasileira de Correios e Telégrafos - ECT desprovido. (REsp n. 1.439.735/GO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, julgado em 13/10/2015, DJe de 28/10/2015.)
+Com efeito, nos moldes do entendimento firmado por este Tribunal Superior, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos da decisão de admissibilidade recursal, de maneira a demonstrar que o apelo extremo merece ser apreciado por esta Corte, o que não se vislumbra no recurso em questão.
+Este, a propósito, foi o entendimento adotado pela Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n.º 746.775/PR, no qual restou afirmado que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182 do STJ.
+Pois, conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008 - grifos nossos).
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
