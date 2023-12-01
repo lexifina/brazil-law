@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Pedro Henrique de Souza, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça do Rio de Janeiro.
+Consta dos autos (Processo n. 0215595-81.2022.8.19.0001) que o paciente foi condenado, pelo Juízo da 31ª Vara Criminal da comarca da Capital/RJ, como incurso nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal, à pena de 8 anos e 10 meses de reclusão, em regime fechado, e 1.283 dias-multa (fls. 53/58).
+Em sede de apelação (Apelação Criminal n. 0215595-81.2022.8.19.0001), a Quarta Câmara Criminal do Tribunal de Justiça do Rio de Janeiro deu parcial provimento ao recurso da defesa para reconhecer a atenuante de menoridade relativa, redimensionando a pena do paciente para 8 anos de reclusão e 1.200 dias-multa (fls. 75/91).
+No presente habeas corpus, a defesa requer a absolvição do paciente pelo crime previsto no art. 35, caput, da Lei n. 11.343/2006, a fixação do regime aberto, a aplicação do art. 33, § 4º, da Lei de Drogas, na fração de 2/3 e a substituição da pena privativa por restritivas de direitos (fls. 3/36).
+Decisão deste Relator indeferindo a liminar (fls. 101/102).
+Prestadas informações pelo Tribunal de Justiça do Rio de Janeiro (fls. 111/114).
+Parecer ministerial opinando pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 122/124).
+É o relatório.
+Quanto ao pedido de absolvição, pelo crime de associação criminosa, não há como esta Corte reexaminar o conjunto fático-probatório dos autos em sede de habeas corpus. A instância ordinária entendeu que o paciente integrava, de forma associada, o tráfico de drogas na localidade.
+Confira-se o julgado (fl. 83):
+ ..
+Nessa mesma linha, o delito de associação para o tráfico restou igualmente comprovado pelo conjunto probatório dos autos, devendo ser destacado que, além da expressiva quantidade e qualidade do entorpecente apreendido, foi arrecadado um rádio transmissor, ligado na frequência do tráfico local. Portanto, seria impossível que o recorrente estivesse traficando drogas na comunidade em questão sem que fosse associado à organização criminosa "Comando Vermelho", a qual controla o comércio ilegal de entorpecente na região.
+Infelizmente, como é sabido e amplamente noticiado pela imprensa, nas localidades dominadas pelo crime organizado no Rio de Janeiro não há possibilidade de ingresso sem autorização dos marginais, não podendo ser admitido que o réu estivesse em conduta isolada, autônoma, sem ser incomodado, torturado ou executado, fazendo concorrência ao tráfico local. Não se trata de presunção, mas sim de uma análise realista da forma de atuação desses grupos violentos e impiedosos com quem ameaça "seus territórios"
+ ..
+E a condenação pelo art. 35, caput, da Lei n. 11.343/2006 impede o reconhecimento do privilégio, art. 33, § 4º, da Lei n. 11.343/2006. Com efeito, é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico (AgRg nos EDcl no HC n. 775.632/PA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe 30/8/2023) - (AgRg no HC n. 845.184/SP, Ministro Jesu no Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 16/11/2023).
+Em relação à dosimetria, não há ilegalidade. Para o crime de tráfico de drogas, a pena-base foi fixada em 1/6 acima do mínimo, 5 anos e 10 meses de reclusão, e 583 dias-multa, em razão do art. 42, caput, da Lei de Drogas (2,5 kg de maconha, 55 g de cocaína, 150 g de cocaína). E para o crime de associação criminosa, a pena-base foi fixada em 3 anos de reclusão e 700 dias-multa.
+No julgamento da apelação, a Corte local reconheceu a atenuante de menoridade relativa, e a pena relativa ao tráfico de drogas retornou ao mínimo legal de 5 anos de reclusão e 500 dias-multa. Ainda que a pena-base não tivesse sido elevada pela quantidade de drogas, não teria efeito prático em uma maior redução da pena com a aplicação da atenuante, em razão da Súmula 231/STJ.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 2,5 KG DE MACONHA, 55 G DE COCAÍNA, 150 G DE COCAÍNA. ASSOCIAÇÃO CRIMINOSA. PEDIDO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. C OMPROVAÇÃO DE ENVOLVIMENTO COM ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. REGIME FECHADO DEVIDA MENTE FIXADO.
+Ordem denegada.
