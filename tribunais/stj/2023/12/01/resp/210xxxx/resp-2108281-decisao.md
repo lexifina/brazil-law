@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RAFAEL CLAUDIO DA SILVA com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 509):
+Rescisão contratual c/c restituição de valores. Contrato particular de escritura de compra e venda de imóvel, compacto de alienação fiduciária em garantia de pagamento e outras avenças. Pleito formulado pelo Autor, em razão de sua desistência. Inadmissibilidade, uma vez que o contrato estabelecido entre as partes se submete à Lei nº 9.514/97. Desfazimento do negócio jurídico que deve observar o disposto nos artigos 26 e 27 da lei que rege a espécie. Reclamo pela devolução de maior valor que não comporta ser conhecido. Falta do interesse de agir ora reconhecida. Ação julgada extinta, nos termos do art. 485, VI, do CPC. Sucumbência que passa a ser devida pelo Autor. Recurso da Ré SPE RFA parcialmente provido, prejudicada a análise do recurso da Ré Associação.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 645-653).
+Em suas razões recursais (e-STJ, fls. 519-537), sustenta a parte recorrente a existência de violação aos artigos 1, 2, 3, 4, 5, 6, 12, 13, 14, 17, 18, 19, 24, 25, 26, 27, 30, 31, 36, 37, 38, 39, 46, 47, 48, 51, 53 e 54, do Código de Defesa do Consumidor, apontando a inaplicabilidade das Leis 9.514/97 e 13.786/2018 ao caso concreto, razão pela qual requer a restituição dos valores pagos em razão da resolução do contrato de compra e venda de imóvel.
+Aponta, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 658-660 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 730-731 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No caso, a Corte estadual entendeu ser inaplicável o Código de Defesa do Consumidor, nos seguintes termos (e-STJ, fl. 513):
+Na hipótese em análise é correto afirmar que à relação jurídica existente entre as partes não se aplicam as disposições do Código de Defesa do Consumidor, mas a Lei nº 9.514/97, que estabelece procedimento específico em caso de inadimplemento do comprador, uma vez que se trata de compra e venda definitiva de imóvel, com pacto de alienação fiduciária, e não de mero compromisso (págs. 215/218).
+Em razão disso, a pretensão à rescisão contratual, como formulada pelo Autor, não comportava nem mesmo conhecimento, uma vez que assinado "Instrumento Particular de Compra e Venda de Bem Imóvel, com Caráter de Escritura Pública, Financiamento e Pacto Adjeto de Constituição e Alienação da Propriedade Fiduciária em Garantia" (págs. 24/37), com ingresso da transação no Registro de Imóveis correspondente (matrícula nº 124.499), o que determinou a assunção à empreendedora, ora Apelante, da posição de credora fiduciária. Estabelece o artigo 23 da Lei nº 9.514/97: "Constitui-se a propriedade fiduciária de coisa imóvel mediante registro, no competente Registro de Imóveis, do contrato que lhe serve de título". Portanto, a pretensão deduzida pelo Autor não pode ser admitida, em razão de vedação legal, pois o contrato estabelecido entre as partes é regido pela Lei nº 9.514/97, que impõe procedimento específico para a resolução dos contratos a ela vinculados (artigos 26 e 27).
+O referido entendimento está em harmonia com a jurisprudência firmada nesta Corte, no sentido de que "Nos casos de compra e venda de imóvel com pacto adjeto de alienação fiduciária, a rescisão do contrato deve se dar de acordo com os arts. 26 e 27 da Lei n. 9.514/97, prejudicando o direito do consumidor de rescindir unilateralmente" (AgInt no REsp n. 1.927.025/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.).
+A propósito:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA - ARTIGO 1.036 E SEGUINTES DO CPC/2015 - TEMÁTICA ACERCA DA PREVALÊNCIA, OU NÃO, DO CÓDIGO DE DEFESA DO CONSUMIDOR NA HIPÓTESE DE RESOLUÇÃO DO CONTRATO DE COMPRA E VENDA DE BEM IMÓVEL, COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA.
+1. Para fins dos arts. 1036 e seguintes do CPC/2015 fixa-se a seguinte tese:
+1.1. Em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor.
+2. Caso concreto:
+É incontroverso dos autos, inclusive por afirmação dos próprios autores na exordial, o inadimplemento quanto ao pagamento da dívida, tendo ocorrido, ante a não purgação da mora, a consolidação da propriedade em favor da ré, devendo o procedimento seguir o trâmite da legislação especial a qual estabelece o direito dos devedores fiduciários de receber quantias em função do vínculo contratual se, após efetivado o leilão público do imóvel, houver saldo em seu favor.
+3. Recurso Especial provido.
+(REsp n. 1.891.498/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 26/10/2022, DJe de 19/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA. SÚMULAS N. 283 E 284/STF. INOVAÇÃO RECURSAL. CÓDIGO DE DEFESA DO CONSUMIDOR. AFASTAMENTO. APLICAÇÃO DA LEI N. 9.514/1997. AGRAVO INTERNO IMPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido somente na petição de embargos de declaração, não debatido na decisão agravada, por ter-se operado a preclusão.
+2. Na forma da jurisprudência do STJ, "diante da incidência do art. 27, § 4º, da Lei 9.514/1997, que disciplina de forma específica a aquisição de imóvel mediante garantia de alienação fiduciária, não se cogita da aplicação do art. 53 do Código de Defesa do Consumidor, em caso de rescisão do contrato por iniciativa do comprador" (AgInt no AREsp 1689082/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+3. Agravo interno improvido.
+(AgInt no REsp n. 1.897.399/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+Dessa forma, verifica-se que a Corte de origem decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
