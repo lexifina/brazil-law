@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por THIAGO ALBERTO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2211564-55.2023.8.26.0000.
+Extrai-se do acórdão recorrido que o Juízo de primeiro grau, após requerimento do Ministério Público, decretou a prisão preventiva do Recorrente, denunciado pela suposta prática do crime de latrocínio (art. 157, § 3.º, inciso II, c.c. o art. 29, caput, ambos do Código Penal), que teria sido cometido em 29/07/2014.
+Em tese, o Recorrente, "com unidade de desígnios e previamente ajustados com Willian dos Santos Alves  falecido -, subtraíram para si mediante grave ameaça e violência física das vitimas, aproximadamente R$1.000,00 de propriedade do estabelecimento comercial, sendo que uma das vítimas veio a falecer em virtude da violência sofrida" (fl. 48).
+Objetivando a revogação da custódia, a Defesa impetrou habeas corpus perante a Corte local, que denegou a ordem nos termos do acórdão de fls. 62-68.
+Nas razões do presente recurso, a Defesa alega a ausência dos requisitos e de fundamentação idônea para a prisão preventiva. Argumenta, em suma, que o Juízo de primeiro grau afirmou que a periculosidade do Recorrente e que a existência de maus antecedentes justificariam a custódia cautelar, mas que tais antecedentes datam de passado distante, "não servindo tais fatos para suprimir os méritos contemporâneos da última década do Recorrente e impedir sua soltura" (fl. 87).
+Assinala, ainda, que "o crime praticado em desfavor das vítimas elencadas no presente recurso ocorreu na longínqua data de 29 de julho de 2014, tendo o Recorrente permanecido em liberdade durante todo esse tempo entre o fatídico e a presente data" (fl. 87), não havendo quaisquer fatos novos e contemporâneos que autorizassem a decretação da custódia.
+Afirma, também, que o indiciamento do Recorrente "feriu de morte a necessidade de reconhecimento pessoal do Acusado nos termos do art. 226 do CPP  ..  eivando o feito de nulidade e de ausência de indícios mínimos de autoria" (fl. 93).
+Requer, em liminar e no mérito, a concessão de liberdade provisória ao Recorrente, com ou sem a aplicação de medidas cautelares alternativas.
+É o relatório.
+Decido.
+De início, observa-se que a controvérsia concernente ao reconhecimento pessoal do Acusado e a suposta falta de contemporaneidade da custódia não foram objeto de análise no aresto ora atacado, o que impede o exame dessas questões por esta Corte, sob pena de indevida supressão de instância.
+A título ilustrativo:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBOS CIRCUNSTANCIADOS.  ..  EXCESSO DE PRAZO E DESRESPEITO AO DISPOSTO NO ART. 226 DO CÓDIGO DE PROCESSO PENAL. SUPRESSÃO DE INSTÂNCIA.
+ ..
+9. Por fim, as teses de excesso de prazo e do desrespeito ao disposto no art. 226 do Código de Processo Penal, não foram debatidas pelo Tribunal de origem, o que impediu sua análise por esta Corte, sob pena de indevida supressão de instância. Precedentes.
+10. Agravo regimental desprovido." (AgRg no RHC n. 163.174/SE, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME MILITAR. ATENTADO VIOLENTO AO PUDOR. RECONHECIMENTO FOTOGRÁFICO REALIZADO EM DESACORDO COM A LEI. MATÉRIA NÃO ENFRENTADO NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PROVAS INDEPENDENTES. CONDENAÇÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A alegação de que o reconhecimento fotográfico foi realizado em desacordo com a lei não pode ser analisada por essa Corte Superior, nesta oportunidade, sob pena de indevida supressão de instância e desprestígio às instâncias ordinárias, uma vez que não foi debatida pelo Tribunal de origem, tal como alegada pela defesa.
+ ..
+3. Agravo regimental improvido." (AgRg no HC n. 701.972/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022; sem grifos no original.)
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Quanto ao mais, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, verifica-se que o Recorrente não juntou aos autos a cópia da decisão que decretou a prisão preventiva, que é peça processual necessária à compreensão da controvérsia.
+Como se sabe, a "adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus ped idos por questões formais que lhes competem observar.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. LATROCÍNIO. SUPOSTA IRREGULARIDADE NO RECONHECIMENTO DE PESSOA E FALTA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO RECURSAL INDEFERIDA LIMINARMENTE.
