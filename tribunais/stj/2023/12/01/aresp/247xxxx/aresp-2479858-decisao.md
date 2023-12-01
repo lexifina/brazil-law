@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ SEVERINO DA SILVA, contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado da Paraíba, assim ementado:
+"AGRAVO DE INSTRUMENTO. PESSOA FÍSICA. PEDIDO DE JUSTIÇA GRATUITA INDEFERIDO EM PRIMEIRO GRAU.
+IRRESIGNAÇÃO. NECESSIDADE DE ELEMENTOS DE PROVA QUE EVIDENCIAM A INCAPACIDADE FINANCEIRA DO POSTULANTE DE SUPORTAR AS DESPESAS PROCESSUAIS. NÃO ATENDIMENTO. MANUTENÇÃO DA INTERLOCUTÓRIA.
+DESPROVIMENTO DO RECURSO.
+A simples declaração de hipossuficiência financeira não é suficiente para concessão do benefício da gratuidade da justiça à pessoa física, exigindo-se a comprovação do estado de hipossuficiência financeira, a partir de uma interpretação sistemática do ordenamento jurídico, na forma do art. 98, no § 3º, do art. 99, do CPC/15 e no inc. LXXIV, do art. 5º, da CF." (fl. 97)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 98, 99, 489, §1, III, 1.022, I do CPC, e divergência jurisprudencial. Sustenta, em síntese, que:
+(a) que o eg. TJ-PB não sanou os vícios suscitados nos embargos de declaração, essenciais ao julgamento da lide;
+(b) "que o acórdão recorrido seja cassado por divergência jurisprudencial, afastando a hipótese de indeferimento de justiça gratuita em razão da ausência de apontamento da elementos dos autos que evidenciem a capacidade financeira. Ato contínuo, que seja reformado o acórdão para que o benefício da gratuidade seja deferido, uma vez que o indeferimento se deu a partir de interpretação jurídica divergente da jurisprudência do STJ" (FL. 193).
+Apresentadas contrarrazões às fls. 221/226.
+É o relatório. Decido.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015.
+Isso, porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Nos termos da jurisprudência pacífica desta Corte, não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese defendida pela parte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.064.835/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022, g.n .)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. FINANCIAMENTO IMOBILIÁRIO. CONTRATO. AÇÃO REVISIONAL. JUROS E SISTEMA DE AMORTIZAÇÃO. AUSÊNCIA DE ABUSIVIDADE. REEXAME DAS QUESTÕES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. RAZÕES RECURSAIS INSUFICIENTES. 3. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca da ausência de abusividade das cláusulas contratuais) demanda reexame de matéria fático-probatória e de cláusulas contratuais, o que é inviável devido ao óbice das Súmulas 5 e 7/STJ, não sendo também o caso de revaloração das provas.
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.988.277/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022, g.n.)
+Na leitura do acórdão recorrido, constata-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que era de rigor confirmar a decisão proferida pelo juízo a quo de indeferimento do benefício da justiça gratuita ao recorrente, nos termos da seguinte fundamentação:
+"In casu, o magistrada a quo, indeferiu o pleito de justiça gratuita por não haver comprovação nos autos da insuficiência de recursos.
+No presente agravo de instrumento, para comprovar a carência de recursos em arcar com as custas judiciais, o agravante juntou aos autos, no ID 5744148, extrato de conta corrente no qual consta o benefício do INSS no importe de R$ 1.218,73 (mil duzentos e dezoito reais e setenta e tres centavos). No entanto, no referido extrato, não consta o número da conta corrente, tão pouco o nome do beneficiário, não servindo portanto, para comprovar a renda do requerente.
+Em face do acima explanado, e em busca de uma análise mais abrangente do fomentado pleito, esta relatoria despachou no sentido de que a parte requerente informasse aos autos suas três últimas declarações de imposto de renda, os três últimos meses de extratos bancários, assim como seus comprovantes de pagamentos.
+Porém, nenhum novo documento foi acostado aos autos.
+Nesse cenário, entendo que o agravante não trouxe aos autos documentos aptos a comprovar a hipossuficiência por ele alegada. Portanto, a decisão da magistrada a quo não merece retoque, visto que considerou as circunstâncias e peculiaridades do caso concreto, foi fundamentada com razoabilidade e assente nas provas apresentadas nos autos.
+Inclusive, é entendimento do Superior Tribunal de Justiça que, na ausência de indícios mínimos de insuficiência de recursos para o custeio da demanda, deve prevalecer o indeferimento da gratuidade processual. (..) Destarte, não apresentando a parte agravante comprovação de sua hipossuficiência em arcar com as despesas processuais, a manutenção da decisão vergastada é medida que se impõe." (fls. 99/101)
+Nesse contexto, infirmar, na hipótese dos autos, as conclusões do julgado, como ora postulado, para reconhecer a hipossuficiência e que o recorrente faz jus ao benefício da justiça gratuita, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+Quanto à gratuidade de justiça, os dispositivos legais aplicáveis ao instituto trazem a presunção juris tantum de que a pessoa física que pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família.
+Por isso, a princípio, basta o simples requerimento, sem nenhuma comprovação prévia, para que lhe seja concedida a assistência judiciária gratuita. Contudo, tal presunção é relativa, podendo o magistrado indeferir o pedido quando presentes elementos suficientes que infirmem a hipossuficiência da parte requerente.
+Com efeito, a jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+A propósito:
+"AGRAVO INTERNO. JUSTIÇA GRATUITA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. PREQUESTIONAMENTO. QUESTÃO CONSTITUCIONAL. DESCABIMENTO. RECURSO NÃO PROVIDO.
+1. De acordo com entendimento do STJ, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário.
+2. Além disso, o Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Juiz Federal Convocado do TRF 1ª Região), Quarta Turma, julgado em 02/12/2008, DJe 18/12/2008).
+3. A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ.
+4. "A pretendida análise de violação a dispositivo constitucional não encontra guarida, uma vez que a apreciação de suposta ofensa a preceitos constitucionais não é possível no âmbito desta Corte, nem à guisa de prequestionamento, porquanto matéria reservada ao Supremo Tribunal Federal, nos termos dos arts. 102, III, e 105, III, da Carta Magna". (AgRg nos EAg 1333055/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 02/04/2014, DJe 24/04/2014).
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.395.383/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/03/2019, DJe de 08/04/2019, g.n.)
+"AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. 1. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. ADMITE-SE PROVA EM CONTRÁRIO. 2. AUSÊNCIA DA COMPROVAÇÃO DA ALEGADA INCAPACIDADE FINANCEIRA. CONCLUSÃO DO ACÓRDÃO. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte assentou o entendimento de que a simples declaração de pobreza firmada pelos requerentes do pedido de assistência judiciária gratuita é relativa, admitindo-se prova em contrário.
+2. As instâncias ordinárias delinearam a controvérsia dentro do conjunto probatório dos autos e, analisando as peculiaridades do caso concreto, concluíram pela falta de comprovação da alegada hipossuficiência econômica dos ora agravantes. Desse modo, a alteração dessa premissa demandaria o reexame de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+3. Agravo interno improvido."
+(AgInt no AREsp 915.526/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/09/2016, DJe de 05/10/2016, g.n.)
+Desse modo, existindo conformidade entre o acórdão recorrido e o entendimento jurisprudencial desta Corte, é inviável o provimento do recurso especial no tocante à presunção de veracidade da declaração de hipossuficiência financeira, nos termos da Súmula 83/STJ.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RIST, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
