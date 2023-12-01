@@ -1,0 +1,35 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. RIOPREVIDÊNCIA. AÇÃO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO C/C COBRANÇA. PENSÃO POR MORTE. POLICIAL MILITAR CUJO FALECIMENTO OCORREU APÓS O ADVENTO DA EC Nº.41/2003. SERVIDOR QUE PASSOU PARA A INATIVIDADE EM 1986 E FALECEU EM 2014. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. IRRESIGNAÇÃO DOS DEMANDADOS. PENSÃO POR MORTE QUE É DISCIPLINADA PELAS REGRAS EM VIGOR NA DATA DO ÓBITO. INTELIGÊNCIA DA SÚMULA Nº.340 DO STJ. INSTITUIDOR DA PENSÃO QUE SE APOSENTOU ANTES DO ADVENTO DA EC Nº41/2003, TENDO O ÓBITO OCORRIDO EM MOMENTO POSTERIOR (2014), QUANDO JÁ VIGORAVA A NOVA REDAÇÃO DO ARTIGO 40, §7º, DA CF. TRATANDO-SE DE POLICIAL MILITAR, DEVE PREVALECER O REGRAMENTO ESPECÍFICO PARA A CARREIRA, CONFORME ARTIGO 42, §2º, DA CF. NO ÂMBITO ESTADUAL, OS ARTIGOS 2º E 4º DA LEI ESTADUAL Nº 4.275/2004 ESTABELECEM QUE A PENSÃO POR MORTE DE SERVIDOR PÚBLICO ESTATUTÁRIO CORRESPONDERÁ AO VALOR DA TOTALIDADE DA REMUNERAÇÃO DO SERVIDOR FALECIDO, ATÉ O LIMITE MÁXIMO ESTABELECIDO PARA OS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS), ACRESCIDO DE 70% DA PARCELA EXCEDENTE AO REFERIDO LIMITE. TESE CONSOLIDADA NESTA CORTE DE JUSTIÇA AO JULGAR O IRDR Nº.0025749- 87.2018.8.19.0000 ESTABELECENDO QUE: “AOS BENEFICIÁRIOS DE PENSÃO POR MORTE DE EXPOLICIAIS MILITARES OU EX-BOMBEIROS MILITARES, FALECIDOS APÓS A EC 41/03, APLICA-SE A REGRA CONTIDA NO §2º, DO ARTIGO 42 DA CF, A QUAL REMETE, INEXORAVELMENTE, AOS ARTIGOS 2º E 4º DA LEI ESTADUAL 4275/04, DEVENDO SER OBSERVADA A REGRA DE TRANSIÇÃO ESTABELECIDA PELO ARTIGO 3º DA EC 47/05.” SERVIDOR QUE PREENCHEU OS REQUISITOS DA REGRA DE TRANSIÇÃO. DIREITO À INTEGRALIDADE E PARIDADE. SENTENÇA QUE MERECE REPARO PARA ESTABELECER QUE OS CONSECTÁRIOS LEGAIS DEVEM OBSERVAR O ITEM 3.2 DO TEMA 905 DO STJ. RECURSO CONHECIDO E PARCIALMENTE PROVIDO, MANTIDOS OS DEMAIS TERMOS DA SENTENÇA EM REMESSA NECESSÁRIA.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 40, §§7º e 8º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 1º de dezembro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
