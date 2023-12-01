@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por MARILZA SOL, fundado no art. 105, III, "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (e-STJ, fl. 371):
+APELAÇÃO CÍVEL DO REQUERIDO - AÇÃO ANULATÓRIA DE COBRANÇA DE SEGURO DE VIDA, CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS - PRELIMINAR DE CONTRARRAZÕES - PRECLUSÃO DA TESE DE ILEGITIMIDADE PASSIVA - ACOLHIDA - MÉRITO - DESCONTOS PELOS REQUERIDOS NA CONTA BANCÁRIA DO AUTOR QUANTO À PREVIDÊNCIA COMPLEMENTAR - AUSÊNCIA DE COMPROVAÇÃO DA RELAÇÃO PELA CONTRATAÇÃO - DANO MORAL E RESTITUIÇÃO SIMPLES DEVIDOS - VALOR RAZOÁVEL E PROPORCIONAL - REDUÇÃO - RECURSO CONHECIDO EM PARTE E PROVIDO PARCIALMENTE.
+Em suas razões recursais, a parte recorrente apontou, além de divergência jurisprudencial, violação dos artigos 186, 927, e 944, todos do Código Civil; 6º, VI, e 14 do Código de Defesa do Consumidor; e 1.022 do Código de Processo Civil. Alegou, em síntese, ser desproporcional e indevida a redução do quantum indenizatório fixado na sentença, de R$5.000,00 (cinco mil reais) para R$ 1.000,00 (mil reais), levando-se em consideração que a condenação da instituição financeira recorrida se deu em razão de fraude na contratação de seguro de vida, o que ocasionou descontos em seu benefício previdenciário.
+Defendeu haver divergência jurisprudencial na redução do montante por parte do Tribunal a quo, pois teria esta Corte decidido de forma diversa, fixando indenizações mais altas, para casos análogo, motivo pelo qual também estaria o acórdão perseguido eivado do vício da contradição, violando o disposto no art. 1.022 do CPC.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Decido.
+O recurso em apreço não merece prosperar.
+Inicialmente, insta pontuar que a contradição prevista no art. 1.022 do NCPC refere-se àquela interna, manifestada entre proposições do próprio julgado, verificada entre a fundamentação do julgado e a sua conclusão, de modo que não se verifica contradição entre o acórdão recorrido a jurisprudência desta Corte, como alegado pela recorrente, razão pela qual, não se conhece da dita vulneração ao artigo 1.022 do NCPC. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DO AUTOR.
+1. Violação ao artigo 1.022 do CPC não configurada.
+Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada.
+1.2. A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. Precedentes.
+2. Quando a sentença acobertada pela eficácia da coisa julgada material não é meramente homologatória, e deriva do exercício do poder jurisdicional atribuído ao órgão judiciário competente, resolvendo o mérito da lide, somente poderá ser impugnada por meio do ajuizamento de ação rescisória, restando imprestável a esse fim a ação anulatória. Precedentes. Incidência da Súmula 83 do STJ.
+2.1. No caso dos autos, é inviável a ação anulatória para impugnar sentença transitada em julgado que julgou improcedente a exceção de pré-executividade.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.190.300/GO, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023.)
+A questão recursal a ser revisitada diz respeito à indenização fixada no valor de R$ 1.000,00 (mil reais), a título de danos morais, pelo Tribunal de origem, pois, no entender da agravante, não foram observados os padrões de razoabilidade e proporcionalidade, na melhor interpretação dos arts. 186, 927, e 944 do CC e arts. 6º, VI, e 14 do CDC.
+Sustenta a recorrente que foi vítima de fraude, tendo sofrido descontos em seu benefício previdenciário advindos de um seguro de vida que nunca contratou, de modo que a compensação por danos morais deve ser majorada, pois o montante de R$ 1.000,00, fixado pelo Tribunal Estadual, estaria fora dos critérios de razoabilidade, tratando-se de valor ínfimo.
+Na espécie, o Tribunal estadual, ao reduzir o montante inicial e fixar o valor a título de compensação por danos morais, em R$ 1.000,00 (mil reais), assim se manifestou (e-STJ, fl. 376):
+"Nesse propósito, impõe-se que sejam observadas as condições do ofensor, assim como a intensidade do sofrimento, o grau de reprovação da atuação do agente ativo da ilicitude, bem como a finalidade de impor ao executor o caráter punitivo da condenação para que não seja reincidente nessa conduta.
+De outro lado, não se pode perder de vista que o ressarcimento da lesão ao patrimônio moral deve ser suficiente para recompor os prejuízos suportados, sem importar em enriquecimento sem causa da vítima.
+Assim, na ausência de critérios legais para fixar o valor da indenização por danos morais, decorrente de descontos indevidos sofridos pela autora por ato do requerido, nos valor de R$ 60,06, tenho que a quantia deve ser reduzida para R$ 1.000,00, por se mostrar adequada à realidade fática, além de estar de acordo com os princípios da razoabilidade e proporcionalidade e, em especial, atender à finalidade de desestimular, no futuro, a reincidência desse tipo de conduta.
+Ademais, tenho que os parâmetros adotados, como forma de decidir, encontram-se adequados à jurisprudência e de acordo com a importância que vem sendo arbitrada por este Tribunal de Justiça."
+A esse respeito, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDENIZAÇÃO. FIXAÇÃO EM SALÁRIOS MÍNIMOS. POSSIBILIDADE. DANOS MORAIS. INSCRIÇÃO EM CADASTROS DE PROTEÇÃO AO CRÉDITO. QUANTUM INDENIZATÓRIO FIXADO EM 50 (CINQUENTA) SALÁRIOS MÍNIMOS.
+1. É inadmitida a utilização do salário mínimo como fator de correção monetária; todavia, não há nenhuma vedação legal a que se fixe o valor de indenização por danos morais tomando como referência tal parâmetro.
+2. A alteração, em recurso especial, dos valores arbitrados a título de reparação de danos morais somente é possível nos casos em que o valor determinado nas instâncias ordinárias seja irrisório ou exagerado.
+3. O STJ firmou entendimento de que é razoável a condenação a até 50 (cinquenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 971.113/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 23/2/2010, DJe de 8/3/2010.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. DANOS MORAIS. REVISÃO DO QUANTUM. DESCABIMENTO NO CASO. AGRAVO INTERNO DESPROVIDO.
+1. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa, somente comporta revisão por este Tribunal Superior quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 3.000,00 (três mil reais), em razão da indevida inscrição do nome do consumidor em cadastro restritivo de crédito, o SERASA.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.035.995/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA. CADASTRO DE INADIMPLENTES. DANO MORAL. INDENIZAÇÃO. VALOR. REVISÃO. SÚMULA Nº 7/STJ . DISSÍDIO JURISPRUDENCIAL. DECISÃO MONOCRÁTICA. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa, logo, somente comporta revisão por este Tribunal Superior quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 3.000,00 (três mil reais).
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. A caracterização do dissídio jurisprudencial pressupõe a demonstração de divergência co m julgado oriundo de órgão colegiado.
+Precedentes.
+5 . Agravo interno não provido.
+(AgInt no AREsp n. 1.876.583/RS, relator Ministro Ricardo VILLAS BÔAS CUEVA, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Desta feita, não obstante as alegações da insurgente, rever a conclusão à qual chegou o Tribunal estadual sobre o valor da indenização por danos morais exigiria reexame do acervo fático-probatório dos autos, procedimento vedado pela Súmula 7/STJ, o que impede o conhecimento do apelo extremo no ponto.
+De mais a mais, a incidência da Súmula n. 7/STJ impede o conhecimento do apelo nobre por ambas as alíneas do permissivo constitucional, vez que " não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo" Ministro MARCO AURÉLIO BELLIZZE, (REsp n. 2.101.393, Ministro Marco Aurélio Bellizze, DJe de 19/10/2023.)
+Por fim, não se pode olvidar que o TJ-MS, ao diminuir o valor da compensação por danos morais, asseverou que houve apenas o desconto indevido de R$ 60,06, da conta da recorrente, sendo suficiente, pois, a fixação do montante dos danos morais em R$ 1.000,00, por se mostrar adequado à realidade fática
+Diante do exposto, nego provimento ao recurso.
+Publique-se
+EMENTA
