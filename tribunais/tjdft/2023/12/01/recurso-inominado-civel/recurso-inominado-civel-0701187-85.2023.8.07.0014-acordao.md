@@ -1,0 +1,34 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0701187-85.2023.8.07.0014RECORRENTE(S)FREDERICO AMERICO JOSE RIBEIRORECORRIDO(S)DECOLAR. COM LTDA.RelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº1796190
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. CÓDIGO DE DEFESA DO CONSUMIDOR. RECURSO INOMINADO. PACOTE DE TURISMO. DESISTÊNCIA. REDUÇÃO DA MULTA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.1. Trata-se de recurso interposto pela parte requerente em face da sentença que julgou parcialmente procedente os pedidos para condenar a requerida a restituir ao autor o valor de R$ 4.991,58 (quatro mil novecentos e noventa e um reais e cinquenta e oito centavos), equivalente a 95% (noventa e cinco por cento) do valor total desembolsado para a aquisição das passagens aéreas, com juros de 1% ao mês, contados da citação, e correção monetária pelo INPC a contar do desembolso dos valores.2. Recurso próprio e tempestivo (ID 49561479). Custas e preparo recolhidos (ID 49561480 e seguintes).3. Em suas razões recursais, o requerente alega que efetuou o pagamento do pacote de viagem para duas pessoas, com destino à Orlando, no valor R$ 14.719,37 (quatorze mil, setecentos e dezenove reais e trinta e sete centavos), porém, após o cancelamento foi reembolsado apenas o valor de R$ 1.849,06 (mil, oitocentos e quarenta e nove reais e seis centavos). Sustenta que a cláusula contratual que prevê que determinada tarifa será retida, integralmente, em caso de cancelamento pelo consumidor, atenta contra as regras protetivas do CDC e deve ser nula de pleno direito com arrimo no art. 51, II, IV, e § 1°, I, II, e III.4. Em contrarrazões, a empresa requerida aduz que a sentença deve ser mantida por seus próprios fundamentos.5. A controvérsia devolvida à apreciação desta Turma Recursal limita-se à verificação da abusividade ou não de cláusula inserta em contrato para aquisição de pacotes de turismo, consistente na fixação de multa por desistência do consumidor, escalonada em percentuais que podem alcançar 100% do valor pago pelo serviço de hospedagem.6. A relação jurídica estabelecida entre as partes é de natureza consumerista, devendo a controvérsia ser solucionada sob a ótica do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei n.º 8.078/1990).7. Ao julgar Recurso Especial em ação civil pública em que se buscava a limitação, em abstrato, de percentual a ser retido, a título de cláusula penal compensatória, em caso de desistência do consumidor, independentemente de existência de motivo para o cancelamento e da antecedência em relação à data do início do pacote turístico, a 4ª Turma do STJ sedimentou o entendimento de que "(...) O cancelamento de contrato de agenciamento de viagem pelo usuário, por envolver o fornecimento de serviços a serem contratados de terceiros e gastos feitos em cadeia sucessiva de prestadores variados nacionais e internacionais, cuja revenda depende de regras de fornecedores diversos e da antecedência da comunicação à operadora, deve analisado casuisticamente (...)" (REsp n. 1.314.884/SP, Relatora p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/11/2018, DJe 5/2/2019).8. Nos termos do art. 51, do Código de Defesa do Consumidor, são nulas as cláusulas contratuais que: "(...) IV - estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a eqüidade".9. No caso dos autos, não se insurgiu a parte requerida contra a alegação do autor de que a solicitação de cancelamento de hospedagem pelo recorrente foi encaminhada à recorrida em 09/11/2022, com mais de trinta dias de antecedência para a data do check-in, previsto para 17/12/2022. Assim, considerando-se que havia tempo suficiente para que o hotel acomodasse outros clientes, a multa de sobre o valor integral pago pela hospedagem revela-se excessiva.10. Nesse sentido, destaco trecho de julgado da 3ª Turma Recursal: "A cláusula que prevê cobrança de multa de 100% sobre o valor pago, é nula de pleno direito, pois coloca a autora/recorrida em desvantagem exagerada (art. 51, IV, do CDC), além de ensejar o enriquecimento ilícito da ré/recorrente, notadamente quando o cancelamento se deu com trinta dias de antecedência (em 11/12/2018, conforme documento ID 9554004, fl. 4), tempo suficiente para a ré/recorrente acomodar outros clientes no hotel. 6.   Ademais, a ré/recorrente não demonstrou que os prejuízos experimentados justificariam a retenção de mais de 10% do valor contratado. Assim, a redução da multa para 10% aplicada sobre o valor pago pela autora/recorrida mostra-se adequada" (Acórdão 1186810, 07580000520188070016, Relator: CARLOS ALBERTO MARTINS FILHO, Terceira Turma Recursal, data de julgamento: 16/7/2019, publicado no DJE: 23/7/2019. Pág.: Sem Página Cadastrada.)11. No caso em exame, revela-se devida a restituição ao autor/recorrente do valor pago pela hospedagem após incidência de multa de 10% (dez por cento).12. Recurso conhecido e parcialmente provido para reformar a sentença para julgar parcialmente procedente os pedidos formulados na inicial para condenar a requerida a restituir ao autor o valor de R$ 11.661,08 (onze mil, seiscentos e sessenta e um reais e oito centavos), equivalente a 95% (noventa e cinco por cento) do valor total desembolsado para a aquisição das passagens aéreas e 90% (noventa por cento) do valor total desembolsado para hospedagem, após subtraído o valor já reembolsado (ID 49561401). Deverá ser acrescido de juros de 1% ao mês, contados da citação, e correção monetária pelo INPC a contar do desembolso dos valores. Não há custas nem honorários pela ausência de recorrente integralmente vencido.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal e RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO EM PARTE. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 11 de Dezembro de 2023
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal Com o relatorA Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO EM PARTE. UNÂNIME.
