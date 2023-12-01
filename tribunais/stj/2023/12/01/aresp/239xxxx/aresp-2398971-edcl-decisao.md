@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AYRTON GOMES JARDIM JÚNIOR contra decisão que conheceu do agravo para negar provimento ao recurso especial, e, quanto ao ônus da sucumbência recursal, deixou de majorar a verba advocatícia na forma do §11 do art. 85 do CPC/2015, posto que o recurso especial tem origem em agravo de instrumento.
+Nas razões dos embargos de declaração, sustenta o embargante que "não se traçou uma linha sequer na decisão sobre a alegação da impenhorabilidade se fundar no fato de o montante atingido se encontrar dentro do limite legal estabelecido pelo art. 833, X, do CPC, como insuscetível de ser objeto de constrição para o pagamento de dívida que não seja decorrente de prestação alimentícia, como é o caso."
+Reforça que é pacífico o entendimento de que a impenhorabilidade do inciso X do art. 833 do CPC/2015, se estende a valores encontrados em conta corrente, fundos de investimento ou guardados em papel moeda, em relação a montante inferior a 40 (quarenta) salários mínimos.
+A impugnação ao presente recurso foi apresentada a fls. 222/228.
+É o relatório. Passo a decidir.
+A alegada omissão não se mostra presente. Conforme decisão embargada, o Tribunal a quo concluiu pela ausência de prova de que a conta bancária é destinada a depósito de salário ou poupança, tampouco o valor bloqueado trata da subsistência da parte devedora e sua família, razão pela qual o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça no sentido de que a regra da impenhorabilidade pode ser relativizada quando a hipótese concreta dos autos permitir que se bloqueie parte da verba remuneratória do devedor inadimplente, ocasião em que deve ser preservado montante suficiente a assegurar a subsistência digna do executado e sua família.
+Com efeito, os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material, conforme art. 1.022 do CPC/2015, sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Diante do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+EMENTA
