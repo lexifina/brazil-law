@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de Leonardo Cesar Rubini de Almeida, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no Agravo em Execução Penal n. 0003197-27.2023.8.26.0496, assim ementado:
+,
+"Agravo em Execução - Pleito de indulto com base no Decreto Presidencial nº 11.302/2022.
+Sentenciado condenado pela prática dos delitos previstos no artigo 33, caput, c/c artigo 40, inciso VI, e no artigo 33, § 4º, todos da Lei nº 11.343/06, e no artigo 129, § 9º, do Código Penal Decreto Presidencial nº 11.302/2022 que afronta a Constituição Federal e a legislação infraconstitucional ao excepcionar a concessão do indulto para quando haja condenação pela prática do crime de tráfico de entorpecentes Inobservância ao art. 5º, inciso XLIII, da Constituição Federal e art. 44 da Lei 11.343/06.
+Ademais o sentenciado cumpre pena por crimes impeditivos à concessão do indulto - artigo 7º, incisos II e VI, e artigo11, parágrafo único, ambos do Decreto Presidencial nº 11.302/2022.
+Análise, sob todos os ângulos, confirmando que era mesmo o caso de indeferimento do pleito Defensivo Manutenção da r. decisão é medida de rigor.
+Recurso desprovido." (fl. 14)
+Na presente impetração, a defesa busca, em liminar e no mérito, o deferimento do indulto natalino referente à condenação pelo art. 33, § 4º, da Lei n. 11.343/2006, por ser a pena concreta inferior a 5 anos, pelo paciente não ter praticado falta grave e ter alcançado o lapso temporal.
+Liminar indeferida às fls. 387/388.
+O Ministério Público Federal manifestou-se pela concessão da ordem, conforme parecer de fls. .
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Com efeito, a pena máxima em abstrata prevista prevista para o crime de tráfico de drogas supera o limite de 5 anos de reclusão estipulado no art. 5º, do Decreto n. 11.302/2022. Contudo o art. 7º, inciso VI, do referido diploma, prevê expressamente, a possibilidade de concessão de indulto aos condenados pelo tráfico privilegiado.
+A jurisprudência desta Corte Superior orienta-se no sentido de que a melhor interpretação a ser dada ao caso em análise é no sentido de se admitir o indulto aos condenados por tráfico privilegiado.
+Caso contrário, "não faria sentido que o decreto excetuasse a vedação do benefício ao tráfico privilegiado e, contraditoriamente, obstasse sua aplicação com base na pena abstrata do tráfico simples. Se assim fosse, toda e qualquer condenação por crime de tráfico, com ou sem aplicação do redutor, não seria passível da concessão de indulto, fazendo letra morta ao dispositivo acima invocado" (AgRg no HC n. 818.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. CONDENAÇÃO PELO DELITO DE TRÁFICO DE DROGAS, NA MODALIDADE PRIVILEGIADA. POSSIBILIDADE. ILEGALIDADE NO INDEFERIMENTO DO BENEFÍCIO. PRECEDENTES DESTA CORTE SUPERIOR. DECISÃO AGRAVADA MANTIDA. RECURSO DESPROVIDO.
+1. In casu, trata-se de reeducando condenado à pena de 4 anos e 2 meses de reclusão em regime inicial fechado, pela prática do crime de tráfico de drogas, na modalidade privilegiada.
+2. Embora a pena máxima em abstrato para o delito em questão seja superior a 5 anos - art. 5º do Decreto Presidencial n. 11.302/2022, deve-se atentar para a permissão contida na parte final do inciso VI do artigo 7º da norma.
+3. A interpretação de que o art. 7º, VI, parte final, excepciona a regra geral estabelecida no art. 5º, do Decreto n. 11.302/2022, vem ao encontro da jurisprudência desta Corte Superior que já admitia a concessão do indulto presidencial a condenados pelo cometimento do delito de tráfico privilegiado. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 820.560/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. INDULTO. DECRETO N. 11.302/2022. CONDENADO POR TRÁFICO PRIVILEGIADO. POSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 5º E 7º DO ATO PRESIDENCIAL.
+1. O Decreto n. 11.302/2022 concede indulto natalino: (a) aos acometidos por por paraplegia, tetraplegia ou cegueira, doença grave permanente, que imponha severa limitação de atividade e exija cuidados contínuos que não possam ser prestados no estabelecimento penal, como neoplasia maligna ou síndrome da deficiência imunológica adquirida (aids), em estágio terminal; (b) aos agentes públicos que compõem o Sistema Único de Segurança Pública condenados por excesso culposo, por crime culposo; (c) aos militares das Forças Armadas, em operações de Garantia da Lei e da Ordem, condenados por excesso culposo; (d) aos maiores de 70 anos de idade que tenham cumprido pelo menos 1/3 da pena e (e) aos condenados por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+2. De acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange os crimes tipificados no caput e no § 1º do art. 33, exceto na hipótese prevista no § 4º do referido artigo, no art. 34 e no art. 36 da Lei n. 11343/2006. E o art. 5º, caput, estabelece que " s erá concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+3. Referidos dispositivos devem ser interpretados no sentido de que o art. 7º, VI, parte final, do Decreto n. 11.302/2022 excepciona a regra geral estabelecida no art. 5º do referido ato. Não faria sentido que o decreto excetuasse a vedação do benefício ao tráfico privilegiado e, contraditoriamente, obstasse sua aplicação com base na pena abstrata do tráfico simples. Se assim fosse, toda e qualquer condenação por crime de tráfico, com ou sem aplicação do redutor, não seria passível da concessão de indulto, fazendo letra morta ao dispositivo acima invocado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 818.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Evidente, portanto, o constrangimento ilegal. Contudo, inviável o reconhecimento de plano, por esta Corte Superior, do benefício pleiteado ante a necessidade de análise aprofundada da adequação dos demais requisitos estabelecidos no ato do Presidente da República.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Contudo, concedo a ordem de habeas corpus, de ofício, para determinar que o Juízo das Execuções prossiga na análise do pedido de indulto com amparo no Decreto n. 13.302/2022, afastado o argumento de impossibilidade de concessão do indulto ao crime de tráfico privilegiado.
+Publique-se.
+Intimem-se.
+EMENTA
