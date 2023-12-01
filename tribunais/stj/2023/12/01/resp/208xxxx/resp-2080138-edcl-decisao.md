@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CNH INDUSTRIAL BRASIL LTDA. contra decisão, de minha lavra, em que determinei a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, ante a necessidade de observância do Tema 1.262 do STF.
+Em suas razões, a parte embargante aponta a existência de obscuridade no julgado.
+Aduz, para tanto, que (e-STJ fl. 557):
+(..) o recurso analisado pelo Relator - interposto pelo contribuinte, CNH Industrial Brasil Ltda. - não tratou da controvérsia decidida pelo STF no Tema 1.262.
+Com efeito, a matéria debatida pelo Recorrente, ora Embargante, diz respeito a omissões identificadas no acórdão do Tribunal de origem a respeito de precedentes invocados pela parte (ADIs 221, 1204, 1315, 1370, 1659 e 2984), mas não examinados (por isso a violação ao art. 1.022, II, e ao art. 489, § 1º, IV e VI, todos do CPC). Não questiona, em nenhum momento, a forma de recuperação do indébito tributário (se pela via da restituição administrativa ou se pela via do precatório).
+Sem impugnação (e-STJ fl. 567).
+Passo a decidir.
+De fato, assiste razão à embargante quanto à apontada obscuridade/erro material e a constatação desse vício enseja a alteração do julgado.
+Assim, ACOLHO os embargos de declaração, com efeitos infringentes, para RECONSIDERAR a decisão de e-STJ fls. 549/551, tornando-a sem efeito.
+Passo a novo exame do recurso.
+Trata-se recurso especial interposto pela CNH INDUSTRIAL BRASIL LTDA., com fundamento na alínea "a" do permissivo constitucional, que impugna acórdão promanado do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 379):
+TRIBUTÁRIO. COFINS-IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. ART. 8º, § 21, DA LEI 10.865/04. ANTERIORIDADE NONAGESIMAL. RESTITUIÇÃO ADMINISTRATIVA. POSSIBILIDADE.
+1. É reconhecido o direito do contribuinte de ver afastada a cobrança da alíquota adicional de COFINS-importação nos 90 (noventa) dias imediatamente posteriores à publicação da Medida Provisória nº 794, de 2017.
+2. Não se cogita, portanto, de retorno dos efeitos da MP 774/2017  e de nova suspensão do adicional de 1% da Cofins-Importação  com o encerramento do prazo da vigência da MP 794/2017, em 06 de dezembro de 2017, pois a Medida Provisória tem força de lei e a lei revogada (MP 774/2017) não se restaura por ter a lei revogadora (MP 794/2017) perdido a vigência (art. 2º, §3º, do DL 4.657/42). Não há que se falar, portanto, em aplicação do princípio da anterioridade nonagesimal (09/12/2017 a 09/03/2018) a partir do encerramento da vigência da MP 774/2017, em 09/12/2017.
+3. O contribuinte tem direito à restituição administrativa do indébito tributário com base na eficácia declaratória da sentença proferida no mandado de segurança.
+Embargos de declaração rejeitados (e-STJ fls. 420/424).
+Em seu recurso especial, a ora recorrente aponta violação dos arts. 489, § 1º, IV e VI, 1.022, II, do CPC/2015, visto que o Tribunal não enfrentou todos os argumentos da parte e ofensa ao art. 150, III, "a", da CF/1988.
+Aduz, em síntese, que "o adicional de COFINS-Importação foi, em dois momentos, revogado ("1" e "3") e, noutros dois eventos, reinstituído ("2" e "4"). E, tendo havido a reinstituição de tributo, é inegável a ocorrência de majoração da carga tributária à qual estava sujeita o contribuinte; por essa razão, impõe-se a observância do princípio da espera nonagesimal, prevista no art. 150, III, "c" c/c o art. 195, § 6º, da CRFB/1988" (e-STJ fl. 470).
+Segue afirmando que "é relevante salientar que esse entendimento - no sentido de que a MP revogada volta a viger por ocasião da não conversão da MP revogadora - é também reconhecido pelo próprio Congresso Nacional, na tramitação da MP n. 794/2017" (e-STJ fl. 471).
+Contrarrazões às e-STJ fls. 490/495.
+Recurso especial admitido (e-STJ fls. 524/525).
+O parecer do MPF, às e-STJ fls. 543/547, opina pelo não conhecimento do recurso.
+Pois bem.
+Na origem, trata-se de mandado de segurança, cuja ordem fora denegada, onde a parte impetrante objetivava:
+a) a declaração da inexigibilidade do adicional de 1% na alíquota da COFINS-Importação; b) subsidiariamente, a declaração da inexigibilidade do adicional de 1% na alíquota da COFINS- Importação em relação aos períodos de 09/08/2017 a 07/11/2017 e 09/12/2017 a 09/03/2018; c) caso não acolhidos os dois primeiros pedidos, que seja reconhecido o direito da impetrante de creditar do valor correspondente ao adicional de 1% da COFINS-Importação, inclusive dos últimos 5 anos, na modalidade escritural e atualizado pela SELIC; d) o reconhecimento do direito da impetrante de compensar os valores recolhidos a tal título nos últimos cinco anos com débitos de tributos e contribuições administrados pela RFB ou de precatórios judiciais, atualizados pela taxa SELIC.
+Em sede de aclaratórios, o recurso fora acolhido, com efeitos infringentes, para que fosse concedida, em parte, a segurança (e-STJ fls. 245/248).
+Ambas as partes interpuseram recurso de apelação, desprovidos pela Corte regional.
+Transcrevo, no que interessa, os fundamentos do julgado regional (e-STJ fls. 382 e seguintes):
+2.1 Anterioridade nonagesimal do adicional de 1% da Cofins- Importação A Cofins-Importação encontra fundamento de validade no art. 195, IV, da Constituição, não lhe sendo aplicável o disposto em seu § 9º, o qual diz respeito às contribuições do inciso I do referido art. 195.
+A alíquota da Cofins-Importação, na hipótese da entrada de bens estrangeiros no território nacional, era de 7,6%, nos termos do art. 8º, I, "b", da Lei 10.865/04.
+A Medida Provisória nº 612/2013, convertida na Lei 12.844/2013, inseriu o § 21 no art. 8º da Lei nº 10.865/2004, acrescentando um ponto percentual na alíquota da COFINS-Importação de determinados produtos classificados na TIPI e relacionados no Anexo I da Lei 12.546/2011.
+O adicional de 1% da Cofins-Importação encontra previsão legal, portanto, no art. 8º, § 21, da Lei 10.865/2004, in verbis:
+(..)
+A partir da publicação da Medida Provisória nº 774/2017 (art. 2º, inciso I), houve a revogação do disposto no parágrafo 21 do art. 8º da Lei nº 10.865/2004, o que tornaria inexigível a cobrança do adicional de 1% da Cofins-Importação.
+Contudo, antes do decurso do prazo para a conversão da MP nº 774/2017 em lei, na forma prevista no artigo 62, § 3º, da Constituição Federal, foi publicada a MP nº 794/2017, que revogou integralmente a MP nº 774/2017.
+Dessa forma, tornou-se novamente exigível o adicional em questão.
+Quanto à matéria, é consolidado o entendimento desta Corte no sentido de que "A revogação da MP 774/2017, ainda não convertida em lei, pela MP 794/2017 não configura hipótese de repristinação (§ 3º do art. 2º da LINDB), mas de mero juízo de retratação por parte do Presidente da República (art. 62 da CF1988). Considera-se que a medida provisória revogada não produziu efeitos na parte em que havia revogado a alíquota adicional de COFINS-importação (§ 21 do art. 8º da L 10.865/2004)" (TRF4, AC 5015372-79.2020.4.04.7201, PRIMEIRA TURMA, Relator MARCELO DE NARDI, juntado aos autos em 20/07/2022).
+No entanto, ainda que a MP nº 774/2017 não tenha produzido efeitos na parte em que revogou o adicional de 1% da Cofins-Importação, o fato é que a MP nº 794/2017, ao revogar a MP nº 774/2017, indiretamente restabeleceu a cobrança do adicional, e o fez de forma imediata, claramente suprimindo a garantia individual do contribuinte relativa à anterioridade nonagesimal.
+Assim, embora a supressão da alíquota adicional da COFINS- importação não fosse definitiva, porque dependia de conversão em lei (Constituição Federal, artigo 62, § 3º), é certo que os contribuintes foram imediatamente afetados com o retorno da cobrança do adicional da contribuição, por força da edição da Medida Provisória nº 794/2017, o que significa dizer que houve aumento de tributo sem observância da anterioridade nonagesimal (Constituição Federal, art. 150, III, c).
+(..)
+Dessa forma, fica reconhecido o direito da parte impetrante decompensar os valores referentes ao recolhimento indevido do adicional de 1% da Cofins-Importação, no período de noventa dias posterior à publicação da MP 794, de 09/08/2017, o qual se encerrou em 06/11/2017.
+A partir de então, conforme o entendimento pacífico desta Corte, passou a ser plenamente exigível o adicional da Cofins-Importação, com fundamento no art. 8º, § 21, da Lei 10.865/2004. Isso porque o Presidente da República, ao exercer juízo de retratação, publicou a MP 794/2017, revogando a MP 774/2017, que deixou de produzir efeitos a partir daquele momento (09/08/2017). Ultrapassado o prazo nonagesimal, a cobrança do adicional de Cofins-Importação passou a ser plenamente legítima.
+Não se cogita, portanto, de retorno dos efeitos da MP 774/2017  e de nova suspensão do adicional de 1% da Cofins-Importação  com o encerramento do prazo da vigência da MP 794/2017, em 06 de dezembro de 2017, pois a Medida Provisória tem força de lei e a lei revogada (MP 774/2017) não se restaura por ter a lei revogadora (MP 794/2017) perdido a vigência (art.
+2º, §3º, do DL 4.657/42).
+Não há que se falar, portanto, em aplicação do princípio da anterioridade nonagesimal (09/12/2017 a 09/03/2018) a partir do encerramento da vigência da MP 774/2017, em 09/12/2017.
+Não se verifica a alegada omissão no acórdão recorrido, pois a questão referente à aplicação do entendimento do STF, no sentido de que a medida provisória revogada volta a viger por ocasião da não conversão da medida provisória revogadora, foi devidamente enfrentada pela Corte de origem.
+Na verdade, a irresignação da ora recorrente, no ponto, volta-se contra o próprio conteúdo do acórdão recorrido, não contra suposta falta de análise suficiente da controvérsia.
+De fato, a Corte de origem enfrentou de forma clara a questão posta, consoante se extrai do seguinte trecho do voto proferido nos embargos de declaração (e-STJ fl. 423):
+O acórdão embargado foi expresso ao reconhecer que "é consolidado o entendimento desta Corte no sentido de que "A revogação da MP 774/2017, ainda não convertida em lei, pela MP 794/2017 não configura hipótese de repristinação (§ 3º do art. 2º da LINDB), mas de mero juízo de retratação por parte do Presidente da República (art. 62 da CF1988).
+Considera-se que a medida provisória revogada não produziu efeitos na parte em que havia revogado a alíquota adicional de COFINS- importação (§ 21 do art. 8º da L 10.865/2004)" (TRF4, AC 5015372- 79.2020.4.04.7201, PRIMEIRA TURMA, Relator MARCELO DE NARDI, juntado aos autos em 20/07/2022).
+(..) Não se cogita, portanto, de retorno dos efeitos da MP 774/2017  e de nova suspensão do adicional de 1% da Cofins-Importação  com o encerramento do prazo da vigência da MP 794/2017, em 06 de dezembro de 2017, pois a Medida Provisória tem força de lei e a lei revogada (MP 774/2017) não se restaura por ter a lei revogadora (MP 794/2017) perdido a vigência (art.
+2º, §3º, do DL 4.657/42).
+Não há que se falar, portanto, em aplicação do princípio da anterioridade nonagesimal (09/12/2017 a 09/03/2018) a partir do encerramento da vigência da MP 774/2017, em 09/12/2017".
+Ao defender que "o princípio da noventena seria também aplicável no período de 09/12/2017 a 09/03/2018, tendo em vista que a MP n. 774/2017, que revogou o adicional de COFINS-Importação, retomou a sua vigência em 07/12/2017 em razão da perda de eficácia da MP n. 794/2017 (que a havia revogado) e, posteriormente, perdeu a sua eficácia", a embargante não demonstra a existência de omissão ou de contradição no acórdão embargado, mas verdadeira insurgência contra o mérito da decisão, que não comporta apreciação pela estreita via dos embargos declaratórios.
+Logo, como visto, não se vislumbra nenhuma omissão ou ausência de prestação jurisdicional pelas instâncias ordinárias, mas tão somente insatisfação da parte quanto ao resultado do julgado.
+Por fim, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Ante o exposto:
+(i) acolho os embargos de declaração, com efeito modificativo, para RECONSIDERAR a decisão de e-STJ fls. 549/551, tornando-a sem efeito; e,
+(ii) com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMEN TO ao recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
