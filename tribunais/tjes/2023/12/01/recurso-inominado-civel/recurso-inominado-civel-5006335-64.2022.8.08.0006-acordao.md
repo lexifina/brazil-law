@@ -1,0 +1,69 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5006335-64.2022.8.08.0006
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MILENE IREMAR DE OLIVEIRA COMERCIO
+RECORRIDO: WANDERSON PEREIRA DOS SANTOS
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5006335-64.2022.8.08.0006
+
+Recorrente: MILENE IREMAR DE OLIVEIRA COMERCIO
+
+Recorrido: WANDERSON PEREIRA DOS SANTOS
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE DANOS MORAIS E RESTITUIÇÃO DE INDÉBITO. PRODUTO NÃO ENTREGUE. PEDIDO DE RESTITUIÇÃO DOS VALORES. ALEGA O AUTOR QUE REALIZOU COMPRA DE UM 01 (UM) COLCHÃO E 01 (UMA) CABECEIRA DE CAMA JUNTO A REQUERIDA NO VALOR DE R$4.699,44 (QUATRO MIL SEISCENTOS E NOVENTA E NOVE REAIS E QUARENTA E QUATRO CENTAVOS) E R$540,00 (QUINHENTOS QUARENTA REAIS) RESPECTIVAMENTE. CONTUDO, PASSADA A DATA, OS PRODUTOS NÃO FORAM ENTREGUES. TENTATIVA DE SOLUÇÃO VIA PROCON. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO A PARTE REQUERIDA A RESTITUIÇÃO DO MONTANTE DE R$4.366,20 (QUATRO MIL TREZENTOS E SESSENTA E SEIS REAIS E VINTE CENTAVOS) E AO PAGAMENTO DE R$2.000,00 (DOIS MIL REAIS) A TÍTULO DE DANOS MORAIS. EM CONTESTAÇÃO, REQUERIDA ALEGA QUE FOI FEITA A TENTATIVA DE ENTREGA DOS PRODUTOS NA RESIDÊNCIA DO AUTOR E QUE FOI NEGADA A ENTREGA. DOCUMENTOS ACOSTADOS SOBRE A TENTATIVA DE SOLUÇÃO VIA PROCON, ONDE PARTE AUTORA DESISTE DA COMPRA POR MOTIVOS PESSOAIS. ADUZ QUE O AUTOR TERIA FEITO REQUERIMENTO DE CANCELAMENTO DA COMPRA JUNTO A SEDE DA EMPRESA. EM RÉPLICA, AUTOR ALEGA QUE NÃO FOI NOTIFICADO DA ENTREGA DOS PRODUTOS, NÃO ESTANDO NA RESIDÊNCIA NO MOMENTO. APÓS TENTATIVAS DE SOLUÇÃO JUNTO A REQUERIDA, SOLICITOU O CANCELAMENTO DA COMPRA, TENDO SIDO NEGADO. DESCONTOS DAS PARCELAS EM CARTÃO DE CRÉDITO. NÃO ENTREGA DOS PRODUTOS ADQUIRIDOS JUNTO A REQUERIDA. RECURSO DA PARTE DEMANDADA, PLEITEANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.IS, HAJA VISTA O PROVIMENTO PARCIAL DO RECURSO.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso,
+NEGANDO-LHE PROVIMENTO
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
