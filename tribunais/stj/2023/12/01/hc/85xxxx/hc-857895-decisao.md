@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VANESSA MARIA DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Depreende-se dos autos que a paciente está presa preventivamente, desde 26/11/2020 como incursa nas sanções do art. 121, §2º, inciso I e IV, e art. 211, c/c o art. 29, todos do CP, em virtude do envolvimento na morte de Julião Pedro de Sena Filho, motivada por dívidas relacionadas a entorpecentes (fls. 05-06). Foi pronunciada, em 07/12/2021, sendo mantida a sua prisão diante da ausência de fatos novos e em razão da extensa lista de antecedentes criminais- fl. 38.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que indeferiu a liminar lá pleiteada e até o momento não houve o julgamento do mérito.
+Em suas razões, sustenta a defesa a ocorrência de constrangimento ilegal, uma vez que há manifesto excesso de prazo para formação da culpa; e a prisão excede o peremptório prazo de 90 (noventa) dias para sua revisão, estatuído no art. 316, parágrafo único, do Código de Processo Penal.
+Aduz, ainda, excesso de prazo para o julgamento do mérito do habeas corpus n. 0001504 -56.2023.8.17.9000.
+Ressalta, ademais, que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Requer a revogação da prisão preventiva.
+Pedido de liminar indeferido às fls.240-241.
+Pedido de reconsideração às fls. 250-251.
+O Ministério Público Federal manifestou-se às fls. 255-257, em parecer com a seguinte ementa:
+"HABEAS CORPUS. INADEQUAÇÃO DA VIA. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO. WRIT IMPETRADO CONTRA DECISÃO LIMINAR. NÃO CABIMENTO. PACIENTE PRONUNCIADA. FASE DE TRAMITAÇÃO DO RECURSO INTERPOSTO CONTRA A DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. NÃO CONHECIMENTO, COM RECOMENDAÇÃO" .
+É o relatório. DECIDO.
+Quanto a alegação de ocorrência de constrangimento ilegal, em razão do excesso de prazo para formação da culpa, além da ausência de análise da revisão da prisão no prazo de 90 (noventa) dias, estatuído no art. 316, parágrafo único, do CPP, em consulta ao sitio do Tribunal de origem (www.tjpe.jus.br), processo nº 0000008-79.2020.8.17.0760, diferentemente do alegado pela defesa, verifiquei que o Juízo a quo reanalisou a prisão, em 23/10/2023. Ademais, verifico que o processo encontra-se tramitando com regularidade, inclusive já possuindo sentença de pronúncia e não há qualquer elemento que evidencie a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Ademais, cumpre ressaltar, que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos.
+Sobre o tema:
+"Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional." (AgRg no RHC n. 176.377/SE, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 13/3/2023).
+No que tange a alegação de excesso de prazo para o julgamento do mérito do habeas corpus n. 0001504 -56.2023.8.17.9000, vislumbro desídia do poder judiciário, cujo writ foi distribuído em 26/01/2023 e a liminar analisada em 15/02/2023, ainda que justifiquem a demora em razão da ocorrência de juntada e análise de diversas petições de requerimento feitos pela defesa.
+Ante o exposto, concedo a ordem apenas para determinar que o Tribunal de origem proceda o julgamento imediato do habeas corpus n. 0001504 -56.2023.8.17.9000.
+Publique-se. Intime-se.
+EMENTA
