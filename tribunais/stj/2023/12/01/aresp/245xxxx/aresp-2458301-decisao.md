@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de RAIZEN CENTROESTE ACUCAR E ALCOOL LTDA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. EMBARGOS MONITÓRIOS. PARCIAL REJEIÇÃO DOS EMBARGOS. INEXISTÊNCIA. SUCUMBÊNCIA RECÍPROCA. INOCORRÊNCIA. APRESENTAÇÃO DE ORDENS DE SERVIÇO. DESNECESSIDADE. QUITAÇÃO EXTRAJUDICIAL. NÃO COMPROVAÇÃO. LITIGÂNCIA DE MÁ-FÉ. COMPROVAÇÃO. MULTA MANTIDA. JUROS E CORREÇÃO MONETÁRIA. ART. 406 DO CC E SÚMULA 14 DO STJ. ARBITRAMENTO.
+1. Acolhidos a maioria dos pedidos monitórios, não há se falar em sucumbência recíproca, mas sim em sucumbência apenas da Embargante, pela rejeição de seus Embargos Monitórios (art. 702, §8º, do CPC).
+2. Desnecessária se faz a apresentação das ordens de serviço subjacentes aos orçamentos que munem a petição monitória, haja vista não ser da essência do ato (art. 107 do CC) nem ser proibida a prova da efetiva prestação dos serviços por outros meios, tal como a prova testemunhal, mormente quando a empresa Recorrente passava por período de desorganização gerencial, não disponibilizando as ordens de serviço aos seus colaboradores atempadamente.
+3. A quitação extrajudicial alegada não se deu quanto à dívida objeto dos autos, havendo ressalva expressa quanto à possibilidade de sua cobrança no respectivo instrumento de outorga de quitação.
+4. É de ser mantida a multa por litigância de má-fé quando constatado que o recurso de Apelação anteriormente interposto, baseado em alegação de cerceamento de defesa, o foi apenas para tumultuar o processo, tendo a Recorrente, depois de três anos, desistido da oitiva de sua testemunha em audiência, mostrando seu caráter de deslealdade processual.
+5. Não há reparos a serem feitos no método de cálculo dos juros e correção monetária, tendo em vista seu arbitramento conforme os ditames do art. 406 do CC e da Súmula nº 14 do STJ.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA." (e-STJ fl. 520)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 546/554)
+Nas razões do recurso especial, o agravante alega violação dos artigos 86, 489, §1º e 1.022, I e II do Código de Processo Civil, sustentando, em síntese, que : 1) houve ausência de fundamentação quanto à condenação da recorrente por litigância de má-fé e quanto ao não reconhecimento da sucumbência recíproca e 2) no dispositivo da r. sentença, os embargos monitórios não foram rejeitados, mas sim parcialmente acolhidos, de modo que ficou configurada a sucumbência recíproca.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 489 e 1.022, do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente as controvérsias relativas à condenação da recorrente por litigância de má-fé e ao não reconhecimento da sucumbência recíproca.
+Quanto aos fundamento para condenação da recorrente por litigância de má-fé constou expressamente no acórdão:
+"Por fim, com relação à litigância de má-fé da Apelante, coberto de razão está o magistrado primevo, pois considerou a abusividade do direito de recorrer da parte apenada, que manejou Apelação para cassar a 1ª sentença há mais de três anos atrás, sob o argumento principal de que foi cerceada na sua defesa, por não ter sido permitida a oitiva de duas testemunhas suas.
+Depois de provida a dita Apelação (Mov. 37) e reaberta a instrução probatória, tendo sido feita toda uma movimentação da máquina judiciária para oitiva das testemunhas apontadas, vem a Apelante desistir de uma delas de inopino (Mov. 89), num claro ato atentatório contra a Justiça, porque demonstrado que não se sentiu cerceada em sua defesa, afinal de contas, só queria tumultuar o processo e ganhar tempo para deixar de pagar o que deve.
+Não prospera alegar que o ordenamento jurídico permite a desistência de testemunha, pois no contexto dos autos, este ato demonstrou não o exercício de uma faculdade da parte, mas tão somente o abuso de um pretenso direito, que teve o condão de atrasar o processo por mais de três anos.
+Assim, escorreita a multa aplicada, e muito bem aplicada." (e-STJ fl. 524)
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à alegação de sucumbência recíproca, consignou o acórdão o seguinte:
+"Em proêmio, quanto a preliminar aventada, de que os embargos em comento teriam sido parcialmente acolhidos, e não rejeitados, não há razão em suscitá-la, visto que o ordenamento jurídico, quando trata dos Embargos à Monitória, no art. 702 do CPC, diz que eles podem ser ou acolhidos ou rejeitados pelo juiz da causa, não havendo previsão legal de meio termo.
+No mais, trata-se de excesso de formalismo, visto que na prática a Embargada/Apelada sucumbiu de forma mínima em seus pedidos (cf. art. 86, parágrafo único, do CPC), pois a ampla maioria dos orçamentos apresentados por ela foram constituídos em título executivo judicial, não havendo falar em sucumbência recíproca, absolutamente." (e-STJ, fls. 523)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE REQUERIDA.
+1. O acolhimento da pretensão recursal quanto à suficiência da documentação apresentada para propositura da ação monitória, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito do prequestionamento. Incidência da Súmula 282/STF.
+3. Rever as conclusões a que chegou a instância ordinária acerca da inexistência de abusividade nas cláusulas contratuais, da devida discriminação no contrato do valor da comissão de permanência, bem como da ausência de cobrança cumulativa dessa com outros encargos, encontra óbice nas Súmulas 5 e 7/STJ.
+4. O reconhecimento da existência de sucumbência recíproca exigir derruir a convicção formulada pelas instâncias ordinárias sobre o demanda, o que demandaria incursão no acervo fático. Incidência da Súmula 7/STJ.
+5. O apelo nobre impugna acórdão proferido já na vigência do CPC/15.
+Cabível, portanto, a majoração dos honorários recursais, eis que também preenchidos os demais requisitos estabelecidos pela jurisprudência desta Corte.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.478.414/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/2/2020, DJe de 14/2/2020.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, pois fixados no patamar máximo previsto no art. 85, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
