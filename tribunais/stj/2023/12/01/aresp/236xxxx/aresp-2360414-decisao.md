@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo fundado no art. 1.042 do CPC interposto por G.T.I ASSESSORIA E SERVIÇOS ADMNISTRATIVOS EIRELI - EPP contra decisão que negou seguimento ao recurso especial, nos termos do art. 1.030, I, "b", do CPC, por entender que o acórdão recorrido decidiu as questões referentes à decadência do crédito tributário e à prescrição em conformidade com os precedentes obrigatórios formados nos julgamentos dos Recursos Especiais repetitivos 973.733 (Tema 163 do STJ) e 1.102.431 (Tema 179), assentando, ainda, a inadmissibilidade do apelo nobre, porquanto incidente o óbice da Súmula 7 do STJ e não demonstrada a divergência jurisprudencial suscitada.
+Passo a decidir.
+Do que se observa, o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com arestos vinculantes desta Corte Superior, segundo os quais "o prazo decadencial quinquenal para o Fisco constituir o crédito tributário (lançamento de ofício) conta-se do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, nos casos em que a lei não prevê o pagamento antecipado da exação ou quando, a despeito da previsão legal, o mesmo inocorre, sem a constatação de dolo, fraude ou simulação do contribuinte, inexistindo declaração prévia do débito" (Tema 163 do STJ), "a perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do devedor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário" (Tema 179 do STJ), sendo certo que as menções feitas à aplicação da Súmula 7 do STJ e à não demonstração do dissenso jurisprudencial também se referem a essas mesmas questões.
+A propósito, a agravante defende que o Tema 179 do STJ não se aplica ao presente caso, sendo a hipótese de distinção, e que o Tema 163 do STJ foi mal aplicado, ao argumento de que a tese nele consagrada lhe seria favorável. É o que se retira dos seguintes trechos do recurso:
+Nas razões da decisão agravada, o recurso especial não merece transito por inexistirem argumentos suficientes para infirmar o acórdão combatio, no que tange a prescrição, invocando o julgamento do Tema 179 do STJ que assim se firmou:
+ ..
+Todavia, existe notória distinção entre os casos, na medida que a prescrição ocorreu única e exclusivamente por morosidade daquela Administração, não havendo qualquer implicação advinda do judiciário, de modo que o recurso especial deve seguir seu curso normalmente.
+ ..
+Ademais, o Exmo. Presidente do Tribunal de Justiça do Estado de São Paulo compreendeu que o recurso especial não merece transito por inexistirem argumentos suficientes para infirmar o acórdão combatio, quanto a decadência, se apoiando no julgamento do Tema 163 do STJ, nestes termos:
+ ..
+Com da devida vênia, o precedente invocado deve ser observado para resolução do direito aqui posto em julgamento, mas favoravelmente à Agravante, senão vejamos.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Saliento que, no contexto dos autos, a menção na decisão a quo da existência de outros óbices à admissibilidade do recurso especial, porquanto relacionados com os mesmos capítulos do recurso especial que ensejam a negativa de seguimento com fundamento em arestos repetitivos, não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial (art. 253, parágrafo único, I, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
