@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por CRISTIANE ADELI DOS SANTOS NETTO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Estado de São Paulo (TJ-SP), assim ementado:
+APELAÇÃO PRESTAÇÃO DE SERVIÇOS TELEFONIA MÓVEL AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO Autor que sustenta a impossibilidade de manutenção das informações lançadas no portal "Serasa Limpa Nome", em razão de se tratar de dívida prescrita, o que impediria a cobrança, tanto judicial, quanto extrajudicial do débito Descabimento Prescrição da pretensão que não significa inexistência da obrigação Possibilidade de cobrança extrajudicial da dívida Precedentes do C. Superior Tribunal de Justiça RECURSO DA RÉ PROVIDO, RECURSO DA AUTORA PREJUDICADO. (Fl. 367)
+Em suas razões recursais, a parte recorrente indica, além de dissídio jurisprudencial, violação aos arts. 206, § 5º, I, do Código Civil, 37, 46, 47 e 51 do Código de Defesa do Consumidor, sustentando, em síntese, que a) a plataforma "Serasa Limpa Nome" possui caráter restritivo de crédito, de forma que a manutenção de dados pessoais no mencionado sistema configura meio coercitivo de cobrança de dívida prescrita; e b) "A consumidora está sendo "enganada" e "induzida a erro" por falta de informação do grupo serasa experian ao forçar o pagamento de dívidas prescritas, bem como desconhecer que o serasa limpa nome não se trata de órgão restritivo de crédito, caso assim entenda o judiciário!" (fls. 392-393).
+É o relatório. Decido.
+Inicialmente, no que tange à alegação de violação aos arts. 37, 46, 47 e 51 do Código de Defesa do Consumidor, verifica-se que os temas não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORABILIDADE DE VERBA SALARIAL. IMPOSSIBILIDADE. EXCEPCIONALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+(..)
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1836544/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF. 5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+No mais, eis os fundamentos do Tribunal de Origem:
+"Alega a parte autora, em sua petição inicial, que em se tratando de dívida prescrita a ré, credora, fica impossibilitada de efetuar a cobrança por qualquer meio que seja, tanto judicial, quanto extrajudicial, de modo que a inserção de tal informação em portal destinado à renegociação de débitos configura conduta abusiva, o que justifica o pedido de obrigação de fazer, destinada à exclusão da informação lançada no portal "Serasa Limpa Nome".
+Entretanto, consoante entendimento do C. Superior Tribunal de Justiça, a prescrição da dívida afasta apenas a possibilidade de cobrança pela via judicial, não gerando a extinção do débito de forma automática, sendo lícito ao credor cobrá-la através de outros meios extrajudiciais.
+Nesse sentido:
+(..)
+Incontroversa a existência do débito e sendo legítima a cobrança extrajudicial da dívida prescrita, não há que se falar, em consequência, em qualquer dano ao consumidor. "
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior, no sentido de que "o reconhecimento da prescrição afasta apenas a pretensão do credor de exigir o débito judicialmente, mas não extingue o débito ou o direito subjetivo da cobrança na via extrajudicial." (AgInt no AREsp n. 1.592.662/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 31/8/2020, DJe de 3/9/2020.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PERDA DA PRETENSÃO E NÃO DO DIREITO SUBJETIVO EM SI. SÚMULA 83/STJ.
+1. Hipótese em que a Corte local entendeu que a prescrição alcança tão somente a pretensão, mas não a existência do próprio direito, "..de tal sorte, que a impossibilidade do exercício do direito de ação tutela jurisdicional do direito subjetivo não implica na sua extinção".
+2. A conclusão alcançada na origem guarda perfeita harmonia com o entendimento desta Corte, no sentido de que "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo". (REsp 1694322/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017). 3. Estando o acórdão recorrido em consonância com a jurisprudência firmada nesta Corte Superior, o Recurso Especial não merece ser conhecido, ante a incidência da Súmula 83/STJ. 4. Agravo Interno não provido."
+(AgInt no AREsp n. 1.587.949/SP, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/9/2020, DJe de 29/9/2020.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, nos termos do art. 255, § 4º, inciso II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
