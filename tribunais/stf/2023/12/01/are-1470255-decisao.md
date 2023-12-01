@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento nas alíneas "a" e "d" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "CONSTITUCIONAL E PREVIDENCIÁRIO. APELAÇÃO CÍVEL/ REMESSA NECESSÁRIA. AÇÃO ORDINÁRIA. PEDIDO DE APOSENTADORIA POR TEMPO DE CONTRIBUICÃO. SERVIDORA PÚBLICA QUE ADERIU AO PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO - PDV. PERMANÊNCIA NO REGIME DE PREVIDÊNCIA DO ESTADO DO PIAUÍ, NA CONDIÇÃO DE SEGURADA FACULTATIVA, - LEI ESTADUAL N° 4.051/86. DIREITO ADQUIRIDOE ATO JURÍDICO PERFEITO. RECURSOS CONHECIDOSE IMPROVIDOS. 1) A Autora/apelada ingressou no serviço público estadual em 01 de junho de 1981, exercendo o cargo de arquiteta na secretaria de Obras e Serviços Públicos do Estado do Piaui. Em 31 de outubro de 1996, aderiu ao PDV - Plano de Incentivo de Desligamento Voluntario, e após, solicitou administrativamente sua permanência no Regime de Previdência do Estado do Piauí, na condição de segurada facultativa, obtendo resposta favorável. Dos autos também ficou demonstrado que a requerente contribuiu ao instituto requerido por mais de 30 (trinta) anos (01/11/1996 a 30/11/2011). A Lei n° 4051/1986 garante aos servidores egresso do Programa de Desligamento Voluntário a possibilidade de continuar contribuindo ao IAPEP, na condição de segurado facultativo. Portanto o servidor poderia usufruir dos benefícios previdenciários, inclusive a aposentadoria por tempo de contribuição, pois atendeu aos requisitos legais. Inobstante a argumentação de que a concessão de aposentadoria a servidores egressos do PDV contraria a CF/88, com nova redação dada pela EC 20/98, vale frisar que as alterações advindas desta emenda constitucional, não atingem a requerente, pois a opção pela condição de segurada facultativa, assegurada pela LEI ESTADUAL (Lei n° 4051/1986), FOI ANTERIOR À EDIÇÃO DAQUELA EMENDA (EC 20/98). Sendo assim, não pode O PODER PÚBLICO se recursar a conceder o direito previdenciário concedido por lei ao servidor que, mesmo aderindo ao PDV, se investiu na qualidade de Segurado facultativo, contribuindo pelo tempo previsto na legislação. Demais disso, a autora contribuiu por todos esses anos e, caso seja negado o seu direto, estaríamos acobertando uma situação de enriquecimento sem causa por parte da Administração Pública. Diante do exposto e em consonância com o parecer ministerial superior, VOTO pelo CONHECIMENTO E IMPROVMENTO DOS RECURSOS OFICIAL E VOLUNTÁRIO, mantendo-se a sentença requestada em todos os termos e fundamentos. É o Voto."
+
+    Opostos os embargos de declaração, foram acolhidos em parte.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 24, inciso XII e §4º; 40, "caput"; 149, §1º; e 201, §5º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se, de plano, incabível a interposição do apelo extremo pelos permissivos das alíneas “c” e “d” do artigo 102, III, da CF, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal, tampouco de julgar válida lei local contestada em face de lei federal. Cito os seguintes precedentes:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISS PRIVILEGIADO. SOCIEDADE DE ÍNDOLE EMPRESARIAL. RECURSO EXTRAORDINÁRIO FUNDADO NAS ALÍNEAS C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADOS EM FACE DA CARTA MAGNA. NÃO OCORRÊNCIA. PRECEDENTES. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI LOCAL CONSTESTADA EM FACE DE LEI FEDERAL. NÃO OCORRÊNCIA. PRECEDENTES. PREQUESTIONAMENTO. AUSÊNCIA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal 3. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282/STF. 4. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 5. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 6. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”. (RE 1.321.299-AgR, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 28.06.2021)
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário fundado nas alíneas c e d do inciso III do art. 102 da Constituição Federal. Acórdão recorrido que julga válida lei ou ato de governo local contestados em face da Carta Magna. Não ocorrência. Precedentes. Acórdão recorrido que julga válida lei local contestada em face de lei federal. Não ocorrência. Precedentes. Direito Administrativo. Poço artesiano. Outorga pelo poder público. Legislação local. Ofensa reflexa. Precedentes. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal. 3. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. Incidência da Súmula nºs 280/STF. 4. Agravo regimental não provido. 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita”. (ARE 1.270.810-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 16.09.2020)
+
+    Ademais, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 1º de dezembro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
