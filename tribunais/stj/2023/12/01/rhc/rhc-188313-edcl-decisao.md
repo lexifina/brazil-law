@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ATILIO BUFALO JUNIOR, em face da decisão que negou provimento recurso ordinário interposto contra acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Consta dos autos que o recorrente está sendo processado como supostamente incurso no delito previsto no artigo 171, caput e seu § 3º, c/c os artigos 29 e71, todos do Código Penal (processo n. 5004066-32.2023.4.04.7000/PR).
+Nas razões dos aclaratórios, o embargante alega omissão na decisão impugnada, que desproveu o seu recurso.
+Sustenta que não houve manifestação acerca dos fundamentos utilizados pelo Ministério Público Federal e por sua 2ª Câmara de Coordenação e Revisão na origem, para a negativa de propositura do acordo de não persecução penal (ANPP).
+Questiona o mérito das razões do entendimento do MPF, com o objetivo de prequestionamento.
+Requer, ao final, o acolhimento dos aclaratórios, a fim de que seja sanado o suposto vício apontado, com efeitos infringentes, para que seja revogada a prisão preventiva do embargante, sem prejuízo da imposição de medidas cautelares diversas.
+É o relatório. DECIDO.
+Conforme consta, o embargante ataca os fundamentos utilizados pelo Ministério Público Federal e por sua 2ª Câmara de Coordenação e Revisão na origem, para a não oferta do ANPP.
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+No presente caso, o embargante alega que houve omissão na decisão impugnada, sob a premissa de que falta de manifestação específica sobre as razões utilizadas pelo MPF para não oferecer o ANPP.
+Contudo, conforme consta expressamente na decisão embargada, o recorrente não fazia mesmo jus ao benefício do art. 28-A do CPP não apenas porque a denúncia já tinha sido recebida, mas porque não cumprira os requisitos legais, em especial, porque o MPF e sua 2ª Câmara de Coordenação e Revisão entenderam pela insuficiência da benesse para a reprovação e prevenção do crime (art. 28-A, in fine, do CPP).
+No caso concreto, não obstante justificada a impossibilidade de oferecimento do benefício pelo MPF - matéria até mesmo já remetida, analisada e também negada pelo respectivo órgão superior -, convém ressaltar que a propositura do acordo tampouco constituiria um direito subjetivo do acusado.
+Nesse sentido:
+"O instituto do ANPP não se consubstancia em um direito subjetivo do acusado, podendo o Ministério Público oferecê-lo, se presentes os requisitos legais, ou não, a partir de uma estratégia de política criminal adotada pela Instituição" (AgRg no REsp n. 2.025.524/TO, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 9/6/2023).
+No caso concreto, o embargante responderia a outra ação penal em curso.
+Ora, cumpre ao Ministério Público, titular da ação penal pública, decidir sobre a possibilidade, ou não, do acordo de não persecução penal, desde que de forma fundamentada. Portanto, não cabe ao Poder Judiciário revisar o mérito legalmente embasado exarado pelo Ministério Público, nem mesmo forçá-lo a uma eventual oferta, pois, quando muito, poderia determinar apenas o encaminhamento à revisão do órgão superior - o que até já ocorreu na espécie.
+Corroborando:
+"Uma vez que cumpre ao Ministério Público, como titular da ação penal pública, a propositura, ou não, do acordo de não persecução penal, a teor do que disciplina o art. 28-A do Código de Processo Penal, não há falar em ilegalidade pelo fato de o órgão acusatório sequer iniciar diálogo com a defesa sobre o tema, notadamente porque, de forma fundamentada, explicitou as razões pelas quais entendeu não ser viável a propositura do acordo. Ademais, diante da manifestação do órgão superior pela impossibilidade de celebração do referido acordo, que não constitui direito subjetivo do acusado, estando dentro da discricionariedade do Ministério Público como titular da ação penal, não cabe ao Poder Judiciário impor ao Ministério Público a obrigação de ofertar o acordo em âmbito penal" (AgRg no RHC n. 179.107/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 7/6/2023).
+Dessarte, ao contrário do alegado pelo embargante, houve expressa manifestação quanto às alegações postas no presente recurso integrativo, embora de forma contrária à pretendida pela defesa, conforme se verifica da fundamentação exposta, não havendo, na hipótese, qualquer vício a ser sanado.
+O que pretende o embargante, na verdade, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos embargos de declaração.
+Assim, verifica-se que o julgado recorrido não padece de qualquer omissão ou contradição, porquanto analisou fundamentadamente as alegações trazidas à sua análise.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+ EMENTA
