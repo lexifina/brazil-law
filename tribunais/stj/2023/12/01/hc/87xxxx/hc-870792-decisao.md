@@ -1,0 +1,18 @@
+DECISÃO
+WALLACE DA SILVA RIBEIRO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 5004777-87.2023.8.19.0500, em que foi mantido o indeferimento do benefício do livramento condicional.
+Asseriu a defesa, perante a Corte de origem, "em síntese, o cumprimento dos requisitos objetivos e subjetivos para obtenção do benefício do livramento condicional" (fl. 49).
+Decido.
+A Corte de origem, ao manter o indeferimento da benesse, ressaltou que, "após ser agraciado com a progressão ao regime aberto, na modalidade PAD, o agravante foi preso em flagrante pela prática de novo crime.  ..  em 15/06/2020, o agravante progrediu para o regime aberto, passando a cumpri-lo em prisão albergue domiciliar. Todavia, preso em flagrante em 04/01/2021 e novamente condenado a uma sanção de 02 (dois) anos e 03 (três) meses de reclusão, em regime fechado, além de 11 (onze) dias-multa" (fl. 51, grifei).
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada (HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei).
+Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que a última infração disciplinar grave - consistente em prática de novo delito -, foi cometida em 4/1/2021, ou seja, em data recente, de modo a macular o preenchimento do requisito de ordem subjetiva.
+Portanto, verifica-se que foi indeferido o benefício em função do histórico prisional desfavorável ao apenado, o que consiste na prática recente de infração disciplinar grave.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
