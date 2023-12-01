@@ -1,0 +1,76 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5006837-48.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RENATA PEREIRA DOS SANTOS
+RECORRIDO: COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5006837-48.2023.8.08.0012
+
+Recorrente:
+RENATA PEREIRA DOS SANTOS
+
+Recorrido:
+COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte recorrente as benesses da gratuidade da Justiça.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. TARIFA DE ESGOTO. COBRANÇA ACIMA DO PATAMAR DE CÁLCULO. ADUZ A AUTORA/RECORRENTE QUE A TARIFA DE ESGOTO QUE PAGAVA EM MEADOS DE 2021, POR VOLTA DE R$ 7,30 TEVE UM SALTO INESPERADO PARA, EM TORNO, DE R$ 50,00. A SENTENÇA E PISO RECONHECEU INDEVIDA A COBRANÇA E DETERMINOU À RÉ/RECORRIDA,
+IN VERBIS, “REVISAR AS FATURAS A PARTIR JULHO/2022 A AGOSTO/2023 NO PRAZO DE 30 DIAS, DEVENDO ADEQUAR AS COBRANÇAS À MÉDIA DE R$ 8,00 DA REDE DE ESGOTO, E AINDA, CONDENO A RÉ A RESTITUIR A DIFERENÇA DOS VALORES PAGOS DESDE 07/2022 (TITULARIDADE DA AUTORA) ATÉ 26/06/2023 (FIM DA COBRANÇA POR ESTIMATIVA), DEVENDO SER CORRIGIDO MONETARIAMENTE A PARTIR DA DATA DO DESEMBOLSO NO PAGAMENTO DE CADA FATURA E ACRESCIDO DE JUROS MORATÓRIOS LEGAIS A PARTIR DA DATA DE CITAÇÃO”
+. INCONFORMADA, A AUTORA APRESENTOU RECURSO INOMINADO A FIM DE ALCANÇAR INDENIZAÇÃO POR DANOS MORAIS. APESAR DE DEVIDAMENTE INTIMADA, A RÉ NÃO APRESENTOU CONTRARRAZÕES. EM RELAÇÃO AO PEDIDO DA RECORRENTE, ENTENDO QUE MERECE GUARIDA, EM PARTE. ISSO PORQUE A AUTORA LOGROU ÊXITO EM COMPROVAR QUE TENTOU A RESOLUÇÃO ADMINISTRATIVAMENTE, O QUE NÃO FOI SOLUCIONADO PELA RÉ, TENDO A AUTORA QUE BUSCAR OS MEIOS JUDICIAIS PARA TANTO. INCONTESTE ESTARMOS SOB A ÉGIDE DA LEGISLAÇÃO CONSUMERISTA, É OBRIGAÇÃO DO FORNECEDOR DE PRODUTOS A
+
+REPARAÇÃO DOS DANOS CAUSADOS AOS CONSUMIDORES POR DEFEITOS RELATIVOS À PRESTAÇÃO DOS SERVIÇOS, BEM COMO POR INFORMAÇÕES INSUFICIENTES OU INADEQUADAS SOBRE SUA FRUIÇÃO E RISCOS.
+POR ESSAS RAZÕES, SENTENÇA REFORMADA, EXCLUSIVAMENTE, PARA CONDENAR O RÉU AO PAGAMENTO DA QUANTIA DE R$ 1.000,00 (UM MIL REAIS), A TÍTULO DE COMPENSAÇÃO PELOS DANOS IMATERIAIS COM CORREÇÃO A PARTIR DESTE ARBITRAMENTO E JUROS A CONTAR DA CITAÇÃO. SENTENÇA MANTIDA, QUANTO AO MAIS, PELOS PRÓPRIOS FUNDAMENTOS (ART. 46, DA LEI Nº 9099/95). RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SEM CUSTAS E HONORÁRIOS.
+
+VOTOS
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o Relator.
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+dos recursos
+,
+DANDO-LHES PROVIMENTO PARCIAL,
+nos termos do voto do Relator
+.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
