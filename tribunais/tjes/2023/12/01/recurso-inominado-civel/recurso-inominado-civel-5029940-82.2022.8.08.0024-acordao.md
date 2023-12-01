@@ -1,0 +1,98 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5029940-82.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: PAULO ROBERTO AMANCIO DA SILVA e outros (2)
+RECORRIDO: BANCO DO ESTADO DO ESPIRITO SANTO e outros (2)
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5029940-82.2022.8.08.0024
+
+Recorrente: PAULO ROBERTO AMANCIO DA SILVA / BANCO C6 S.A. / BANCO DO ESTADO DO ESPÍRITO SANTO
+
+Recorrido: PAULO ROBERTO AMANCIO DA SILVA / BANCO C6 S.A. / BANCO DO ESTADO DO ESPÍRITO SANTO
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte recorrente/autora as benesses da gratuidade da Justiça, na forma do art. 98, do CPC.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. GOLPE POR MEIO DE APLICATIVO. EMPRÉSTIMO NÃO CONTRATADO. INSTITUIÇÃO BANCÁRIA. FALHA NA SEGURANÇA DO BANCO RELATA A PARTE AUTORA QUE NO DIA 28/10/2021 RECEBEU DO REQUERIDO BANCO DO ESTADO DO ESPÍRITO SANTO, DEPÓSITO NO VALOR DE R$2.609,00 (DOIS MIL SEISCENTOS E NOVE REAIS), LOGO DEPOIS O VALOR FOI SUBTRAÍDO DE SUA CONTA POR TERCEIRO DESCONHECIDO, QUE MANTÉM CONTA JUNTO AO REQUERIDO BANCO C6 S.A. ALEGA O AUTOR QUE JAMAIS SOLICITOU AO BANCO TAL EMPRÉSTIMO, PORÉM FORAM DESCONTADAS DE SUA CONTA, A PARTIR DO DIA 13/12/2021, PARCELAS NO VALOR DE R$263,36 (DUZENTOS E SESSENTA E TRÊS REAIS E TRINTA E SEIS CENTAVOS). TENTATIVA DE SOLUÇÃO ADMINISTRATIVA VIA PROCON.
+
+SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE OS PEDIDOS AUTORAIS, PARA QUE A PARTE RÉ, BANCO DO ESTADO DO ESPÍRITO SANTO, CANCELE O CONTRATO Nº.: 044500212109153200. CONDENAÇÃO SOLIDÁRIA DAS REQUERIDAS NA RESTITUIÇÃO DAS PARCELAS DESCONTADAS DO AUTOR, DEVIDO AO CONTRATO FRAUDULENTO. CONDENAÇÃO SOLIDÁRIA DAS REQUERIDAS AO PAGAMENTO DO VALOR DE R$3.000,00 (TRÊS MIL REAIS) A TÍTULO DE DANOS MORAIS.
+
+RECURSO INOMINADO DA PARTE RECORRENTE BANCO C6 S.A. ALEGA A RECORRENTE INDISPONIBILIDADE DO SISTEMA NO DIA 09 DE AGOSTO. SISTEMA INDISPONÍVEL POR 27M E 35S (VINTE E SETE MINUTOS E TRINTA E CINCO SEGUNDOS). RECURSO INTERPOSTO APENAS NO DIA 10 DE AGOSTO, APÓS DECÊNDIO LEGAL. RESOLUÇÃO 185/2023 DO CNJ:
+
+Art. 11. os prazos que vencerem no dia da ocorrência de indisponibilidade de quaisquer dos serviços referidos no art. 8º serão prorrogados para o dia útil seguinte, quando:
+
+I – a indisponibilidade for superior a 60 (sessenta) minutos, ininterruptos ou não, se ocorrida entre 6h00 e 23h00; ou
+
+II – ocorrer indisponibilidade entre 23h00 e 24h00.
+
+§ 1º as indisponibilidades ocorridas entre 0h00 e 6h00 dos dias de expediente forense e as ocorridas em feriados e finais de semana, a qualquer hora, não produzirão o efeito do caput.
+
+§ 2º os prazos fixados em hora ou minuto serão prorrogados até às 24h00 do dia útil seguinte quando:
+
+I – ocorrer indisponibilidade superior a 60 (sessenta) minutos, ininterruptos ou não, nas últimas 24 (vinte e quatro) horas do prazo; ou
+
+II – ocorrer indisponibilidade nos 60 (sessenta) minutos anteriores ao seu término.
+
+§ 3º a prorrogação de que trata este artigo será feita automaticamente pelo sistema PJE.
+
+RECURSO DO BANCO C6 S.A. NÃO CONHECIDO. RECURSO INTEMPESTIVO. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ARBITRADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+RECURSO INOMINADO DA PARTE AUTORA, PAULO ROBERTO AMÂNCIO DA SILVA. PARTE AUTORA INTIMADA DA SENTENÇA NO DIA 04 DE AGOSTO. RECURSO INTERPOSTO NO DIA 25 DE SETEMBRO. PARTE AUTORA AMPARADA PELA DEFENSORIA PÚBLICA, PLEITEANDO PRAZO EM DOBRO. RECURSO INOMINADO DA PARTE AUTORA INTEMPESTIVO. INEXISTÊNCIA DE PRAZOS ESPECIAIS EM PROCESSOS DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 7º, DA LEI Nº 12.153/2009 E ENUNCIADO Nº 03 DO FONAJE. REGRA EXTENSIVA AOS JUIZADOS ESPECIAIS CÍVEIS, POR DIÁLOGO DAS FONTES DO MICROSSISTEMA. PROTOCOLO DO RECURSO APÓS A CONSUMAÇÃO DA PRECLUSÃO TEMPORAL. RECURSO NÃO CONHECIDO. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ARBITRADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO. SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+RECURSO DA PARTE RECORRENTE BANCO DO ESTADO DO ESPÍRITO SANTO, PLEITEANDO A REFORMA DA SENTENÇA, PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS, OU EVENTUALMENTE A REDUÇÃO DO QUANTUM INDENIZATÓRIO. ALEGAÇÃO DE QUE O REQUERENTE FOI VÍTIMA DE UM ESTELIONATÁRIO DIGITAL. INEXISTINDO FALHA NA PRESTAÇÃO DE SERVIÇOS, TRATA-SE DE CULPA EXCLUSIVA DA AUTORA.
+
+ENTRETANTO, RECONHECEU-SE QUE A OPERAÇÃO DO APLICATIVO E, POR CONSEGUINTE, A TRANSAÇÃO BANCÁRIA, APÓS A REALIZAÇÃO DE EMPRÉSTIMO, FOI REALIZADA POR TERCEIRA PESSOA EM CURTO ESPAÇO DE TEMPO. DESTARTE, HÁ O DEVER DE INDENIZAR. AUSÊNCIA DE MANIFESTAÇÃO DE VONTADE DO CONSUMIDOR, QUE FOI FRAUDULENTAMENTE PERSONIFICADO POR TERCEIRO. NEGÓCIO JURÍDICO INEXISTENTE, NO TOCANTE AO USUÁRIO DOS SERVIÇOS, QUE NÃO PARTICIPOU DA CONTRATAÇÃO. IMPOSSIBILIDADE DE TRANSFERÊNCIA DOS RISCOS DO NEGÓCIO AO CONSUMIDOR. RESTABELECIMENTO DO STATUS QUO ANTE COM A REPARAÇÃO INTEGRAL DOS PREJUÍZOS CAUSADOS AO CORRENTISTA. FALHA NA PRESTAÇÃO DE SERVIÇO. ART. 14 DO CDC. SÚMULA 479 STJ. DANO MATERIAL E MORAL CARACTERIZADO.
+
+RECURSO DE BANCO DO ESTADO DO ESPÍRITO SANTO CONHECIDO E IMPROVIDO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos, NÃO CONHECER do recurso da parte autora PAULO ROBERTO AM NCIO DA SILVA, condenando-o ao pagamento das despesas do processo e de honorários de advogado, suspensa a exigibilidade de pagamento na forma do art. 98, CPC. NÃO CONHECER do recurso da parte requerida BANCO C6 S.A. e CONHECER do recurso da parte requerida BANCO DO ESTADO DO ESPIRITO SANTO, NEGANDO-LHE PROVIMENTO para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar as partes recorrentes/requeridas ao pagamento de eventuais custas processuais e dos honorários advocatícios de 10% sobre a condenação a quo.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
