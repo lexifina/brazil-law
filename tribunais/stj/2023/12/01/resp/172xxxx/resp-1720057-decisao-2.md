@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO EDUCANDÁRIO PESTOLAZZI em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL. CIVIL. RESPONSABILIDADE DO INPI NAS AÇÕES DE CANCELAMENTO DE MARCA. USO DE NOMES IGUAIS A PRODUTOS DIFERENTES NÃO DÁ DIREITO AO USO EXCLUSIVO DA MARCA. AGRAVO LEGAL NÃO PROVIDO.
+1.. Impõe-se registrar, inicialmente, de acordo com o artigo 557, "caput", do Código de Processo Civil, o relator negará seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudênciá dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior.
+2. E, ainda, consoante o § 1º-A do mesmo dispositivo se a decisão recorrida estiver em manifesto confronto com súmula ou com jurisprudência dominante do Supremo Tribunal Federal, ou de Tribunal Superior, o relator poderá dar provimento ao recurso. Ora, a decisão impugnada ao negar seguimento à apelação, fê-lo com supedâneo em jurisprudência do Superior Tribunal de Justiça e do Tribunal Regional Federal da 2" Região.
+3. Nomes iguais para produtos diferentes não dá direito a uso exclusivo da marca Esse foi o entendimento firmado pelos ministros da 3a Turma do Superior Tribunal de Justiça, ao julgar o caso de duas empresas que possuem produtos" distintos, embora pertencentes a um mesmo segmento. 4. Em relação ao pedido do INPI de que não pode ser incluído no polo da ação, nada a deferir, tendo em vista que o INPI pode ser incluído como assistente litisconsorcial nas ações de nulidade de marca.
+5. No presente caso, a parte agravante não trouxe subsídios suficientes para afastar a aplicação do art. 557, do Código de Processo Civil ou mudar meu entendimento acerca da matéria em debate no presente agravo.
+6. Agravo legal improvido." (fls. 617/618)
+A recorrente aponta ofensa aos arts. 142, III, 124, V, 128, parágrafo único, da Lei n. 9.279/96, sustentando, em síntese, (a) "a nulidade do registro requerido pela empresa Abdalla Hajel e Cia Ltda, PRIMEIRO, PORQUE A RECORRENTE UTILIZA-SE DA MARCA PESTALOZZI HÁ 70 ANOS, DESDE 20.05.1945, DESENVOLVENDO ATIVIDADES COMERCIAIS E DE SERVICOS PARA MANTER SUA OBRA SOCIAL; SEGUNDO, PORQUE PROTOCOLADO ADMINISTRATIVAMENTE EM 26.05.1998, SEM RESPEITAR O PERÍODO NECESSÁRIO DE 05 ANOS DE DESUSO, CONFORME COMPROVAM OS DOCUMENTOS DE FLS. 215 E SEGUINTES" (fl. 672).
+Contrarrazões às fls. 703/718.
+De início, nota-se que o eg. TRF da 3ª Região não debateu a legalidade do ato administrativo do INPI que declarou a caducidade do direito da recorrente de usar a marca Pestalozzi.
+Quanto à questão de mérito da apelação, só constou do aresto de 2º grau o seguinte:
+"Nomes iguais para produtos diferentes não dá direito a uso exclusivo da marca. Esse foi o. entendimento firmado pelos ministros da 3" Turma do Superior Tribunal de Justiça, ao julgar o caso de duas empresas que possuem produtos distintos, embora pertencentes a um mesmo segmento." (fl. 614)
+Não havendo, portanto, o prequestionamento da matéria, incide o óbice da Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.").
+Ante o exposto, conheço do agravo para negar conhecimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida de 15% para 16% do valor atualizado da causa.
+Publique-se.
+EMENTA
