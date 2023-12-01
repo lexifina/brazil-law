@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 419, DE 13 de NOVEMBRO de 2023
+Altera o Leiaute e as Instruções complementares relativas a informações de operações de crédito voltadas a programas emergenciais do documento 3040 - Dados de Risco de Crédito, do Sistema de Informações de Créditos (SCR), de que tratam a Circular nº 3.870, de 19 de dezembro de 2017, e a Carta Circular nº 3.869, de 19 de março de 2018.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig) no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b”, do referido Regimento, tendo em vista o disposto na Medida Provisória nº 1.189, de 27 de setembro de 2023, na Circular nº 3.870, de 19 de dezembro de 2017, e na Carta Circular nº 3.869, de 19 de março de 2018,
+RESOLVE:
