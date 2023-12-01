@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus impetrado em nome de Talita das Neves Correa - ao acórdão de apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina (fls. 1.203/1.281) que manteve a sentença condenatória, em relação à paciente, prolatada na Ação Penal n. 0014630-22.2018.8.24.0023 (fls. 102/255), da Vara Criminal da Região Metropolitana da comarca de Florianópolis/SC, que, por sua vez, ratificou as medidas cautelares de prisão domiciliar com monitoramento eletrônico e proibição de manter contato com os demais acusados, impostas em 26/6/2019, em substituição à prisão preventiva pela prática, em tese, dos crimes de integrar organização criminosa armada circunstanciada (fls. 90/101) -, não comporta conhecimento.
+Com efeito, busca a impetração a revogação das medidas cautelares diversas da prisão impostas à paciente, ao argumento de deficiência de fundamentação para manutenção das cautelares: considerando o tempo decorrido desde a fixação das medidas cautelares, em 26/6/2019, entende-se que está ausente motivação concreta para a manutenção do monitoramento eletrônico com limitação de circulação (restringindo-se ao imóvel onde reside). Depois de tamanho intervalo sob monitoração e restrição de circulação do Juízo, as medidas atualmente não se mostram urgentes (fl. 14).
+Entretanto, da análise do acórdão ora hostilizado (fls. 1.203/1.281), tem-se que a alegação mandamental não foi analisada pela Corte estadual, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, não conheço da presente impetração.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. INTEGRAR ORGANIZAÇÃO CRIMINOSA ARMADA CIRCUNSTANCIADA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
