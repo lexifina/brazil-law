@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por SUPERSU COMERCIAL DE SUPLEMENTOS EIRELI contra decisão que não admitiu recurso especial. O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+"PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATOS BANCÁRIOS. PRESENÇA DOS REQUISITOS DA CERTEZA, LIQUIDEZ E EXIGIBILIDADE NO TÍTULO APRESENTADO. VALORES COBRADOS EM CONSONÂNCIA COM A AVENÇA. RECURSO DESPROVIDO.
+- Quanto à concessão dos benefícios da justiça gratuita, verifica-se que, regularmente intimada para comprovar o preenchimento dos pressupostos, a parte apelante limitou-se a recolher os valores referentes ao preparo recursal. Assim sendo, ausentes elementos nos autos que autorizem a concessão da benesse vindicada, é de se indeferir o pleito de justiça gratuita formulado pela recorrente.
+- Contrato Particular assinado por duas testemunhas constitui título executivo, independente dos contratos anteriores que originaram a dívida, conforme estabelece o artigo 784, III do CPC/2015.
+- Os valores constantes da planilha de cálculos acostada aos autos retratam a somatória do valor de atualização monetária e da multa de mora, nos termos em que estabelecido na avença formalizada entre as partes.
+- Ademais, a recorrente não aponta o valor que entende correto, insistindo na tese de que a credoracobra valores sem previsão legal.
+- Apelação não provida" (fls. 374/375 e-STJ).
+Nas razões do especial (fls. 385/391 e-STJ), a recorrente alega que o acórdão violou os arts. 320, 783 e 803, I, do CPC.
+Sustenta que os documentos acostados aos autos da demanda executiva não preenchem os requisitos para configuração de título executivo, haja vista a cobrança de valores que não se materializam em documento escrito.
+Aduz que, "diferentemente do que restou consignado no v. acórdão, a demanda executiva não se encontra instruída com a documentação necessária e apta a demonstrar o crédito perseguido, razão pela qual se impõe a reforma da decisão colegiada".
+Apresentadas as contrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, o qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A pretensão recursal não merece ser acolhida.
+O tribunal de origem concluiu a controvérsia com base nos seguintes fundamentos:
+"No que concerne ao título que aparelha a presente execução, cumpre observar, inicialmente, que somente nas restritas hipóteses chanceladas por lei, em que haja elevado grau de comprovação da existência efetiva de um crédito, é que se torna viável a invasão da esfera patrimonial do devedor pelo Estado sem a prévia sujeição da relação negocial entre os envolvidos ao processo de conhecimento.
+Nesse sentido, o art. 784, do Código de Processo Civil (CPC), estabelece um rol taxativo dos documentos dotados de força executiva, figurando entre eles odocumento particular assinado pelo devedor e por duas testemunhas. É esse o caso versado nos autos.
+A execução movida pela ora apelada está amparada no "Termo de Reconhecimento de Dívida" (id 2622029894; fls. 23/26), assinado pelas partes e duas testemunhas, por meio do qual se deu o reconhecimento de débito consolidado a partirdas faturas emitidas, oriundas do contrato de prestação de serviços anteriormente firmado entre as partes (nº 9912332575).
+A inicial foi instruída ainda com demonstrativo de débito, bem como especificação dos encargos, índices e percentuais utilizados na apuração do saldo devedor, de onde se extrai a existência dos atributos necessários ao manejo da via executiva, conforme dispõe o art. 783, do CPC. Assim, não há que se falar em inépcia da inicial por ausência dos atributos próprios dos títulos executivos (liquidez, certeza e exigibilidade) no instrumento que lastreia a execução.
+Passando ao mérito da ação, lembro que o contrato é um negócio jurídico bilateral na medida em que retrata o acordo de vontades com o fim de criar, modificar ou extinguir direitos, gerando com isso obrigações aos envolvidos; vale dizer, o contrato estabelece relação jurídica entre credor e devedor, podendo aquele exigir o cumprimento da prestação por este assumida. Há dois vetores que norteiam as relações contratuais: o primeiro é autonomia de vontade, que confere às partes liberdade para estabelecer ou não avenças, fixando seu conteúdo desde que em harmonia com as leis e a ordem pública; o segundo é obrigatoriedade contratual, dado que, uma vez firmado o acordo de vontades, as partes devem cumprir o contratado (primado "pacta sunt servanda"), garantidor da seriedade das avenças e da segurança jurídica. Qualquer alteração do contrato deverá ocorrer igualmente de forma voluntária e bilateral, salvo em casos como mudanças decorrentes de atos normativos supervenientes (cuja eficácia se viabilize sem prejuízo ao ato jurídico perfeito e ao direito adquirido) ou situações imprevistas e extraordinárias que alterem o equilíbrio do que foi pactuado.
+No que respeita aos valores cobrados, as cláusulas 3.3 e 3.4 estabeleceram que:
+"3.3. As parcelas pagas em atraso serão atualizadas financeiramente pela taxa SELIC Meta, compreendendo o novo período de inadimplemento.
+3.4. O não pagamento de quaisquer das parcelas na data avençada ensejará na aplicação de multa de 2% (dois por cento) sobre o valor corrigido."
+Os valores constantes da planilha de cálculos acostada na fl. 28 (id 262029894) retratam a somatória do valor de atualização monetária e da multa de mora, nos termos em que estabelecido na avença formalizada entre as partes.
+Ademais, a recorrente não aponta o valor que entende correto, insistindo na tese deque a credora cobra valores sem previsão legal.
+Em suma, não há cláusulas contratuais que imponham excessiva onerosidade a qualquer das partes, restando demonstrado que o montante exigido pela CEF, obtido segundo critérios previamente estabelecidos e em consonância com alegislação de regência, decorre exclusivamente do inadimplemento imotivado das obrigações livremente assumidas pela parte executada" (fls. 372/374 e-STJ).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria a interpretação de cláusula contratual e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
