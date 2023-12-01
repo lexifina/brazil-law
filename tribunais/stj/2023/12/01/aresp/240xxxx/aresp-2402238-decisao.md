@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HERCULES III - COMÉRCIO DE COMBUSTÍVEIS E LUBRIFICANTES LTDA (HERCULES) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 131/134).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, HÉRCULES alegou a violação dos arts. 202,368 e 369 do Código Civil, ao sustentar que (1) o acórdão recorrido autorizou a compensação do crédito do recorrente com uma dívida prescrita e inexigível, o que não pode ser aceito. Alegou que o crédito objeto de compensação em favor do recorrido é do ano de 2010 e nunca foi objeto de cobrança, razão pela qual não houve interrupção da prescrição; (2) suscitou dissídio jurisprudencial, apontando como paradigma o AgInt no REsp n. 1635585/PR.
+Trata-se, na origem, de ação de revisão contratual, em fase de cumprimento de sentença, ajuizada por HÉRCULES contra o BANCO SANTANDER BRASIL S/A (SANTANDER).
+Em Primeira Instância, o MM. Juiz a quo acolheu em parte a impugnação ao cumprimento de sentença, expondo que "é imperiosa a observância da compensação mediante imputação ao pagamento, pois alterado um ou mais encargos e determinado o recálculo da movimentação, todos os saldos devedores (inclusive os transferidos à conta de liquidação) devem ser considerados e abatidos".
+Ao dirimir a controvérsia, o Tribunal de Justiça do Estado do Paraná negou provimento ao agravo de instrumento interposto por HÉRCULES, sob o fundamento de que o crédito em favor do SANTANDER não se encontra prescrit, sendo possível a compensação. Confira-se:
+É cediço o entendimento de que a sentença proferida em ação revisional possui caráter dúplice e pode ser executada pelo autor e pelo réu nos próprios autos, mesmo na ausência de reconvenção, tendo em vista os princípios da econômica processual, da efetividade e da duração razoável do processo.
+Desta forma, identificando-se a existência de crédito em favor da instituição financeira (em prejuízo, portanto, do autor da demanda), resta autorizada a execução do saldo nos próprios autos da ação originária, evitando-se, assim, o ajuizamento de outra medida judicial.
+(..)
+De outro aspecto, acerca da prescrição da pretensão, o Código Civil prevê o prazo prescricional de cinco anos para cobrança de dívidas líquidas constantes de instrumentos públicos ou particulares, nos termos do art. 206, §5º, I, que será interrompido por ato que importe em reconhecimento do direito pelo devedor, conforme disposto no art.202, VI, do citado diploma legal.
+(..)
+Não é demais ressaltar que, segundo a jurisprudência pacificada do Superior Tribunal de Justiça, o prazo prescricional da pretensão executória de sentença ilíquida somente tem início com o aperfeiçoamento do título, ou seja, após a sua respectiva liquidação. Nesse sentido: (..)
+No caso dos autos, constata-se que se está diante de ação Revisional de Contrato, com sentença de procedência transitada em julgado, em que foi constatada a existência de saldo credor em favor do Banco-réu apenas na fase de liquidação da sentença, cuja pretensão, de fato, como bem ressaltado pelo Juízo de origem, não se encontra prescrita. Por isso, escorreita a decisão interlocutória agravada que afastou a prescrição da compensação arguida pelo agravante.
+A compreensão adotada pelo Tribunal estadual encontra ressonância na jurisprudência do STJ, que perfilha o posicionamento de que a sentença proferida em ação de revisão de contrato bancário constitui título executivo e autoriza a execução do saldo liquidado, em favor do réu, nos próprios autos daação originária (AgInt no REsp 1424178/RS,Rel. Ministro RAUL ARAÚJO,Quarta Turma, julgado em 21/09/2020).
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA EM AÇÃO DECLARATÓRIA. FORÇA EXECUTIVA DOS PROVIMENTOS DECLARATÓRIOS. FORMAÇÃO DE TÍTULO EXECUTIVO EM FAVOR DO RÉU. POSSIBILIDADE.
+1.- A Lei 11.232/2005, que revogou o art. 584 e inseriu o art. 475 -N no Código de Processo Civil, encampou o entendimento, já adotado por esta Corte, de que as sentenças de cunho declaratório podem ter força executiva, se presentes os elementos necessários à execução, como exigibilidade e certeza da relação. Precedentes.
+2.- A sentença declaratória em ação de revisão de contrato pode ser executada pelo réu, mesmo sem ter havido reconvenção, tendo em vista a presença dos elementos suficientes à execução, o caráter de "duplicidade" dessas ações, e os princípios da economia, da efetividade e da duração razoável do processo.
+3.- Recurso Especial improvido.
+(REsp 1309090 / AL, Rel Ministro SIDNEI BENETI, Terceira Turma, j. 06/05/2014).
+No que tange à prescrição, o Tribunal local consignou que o saldo credor em favor do SANTANDER foi constatado apenas na fase de liquidação da sentença, de modo que a pretensão não se encontra prescrita.
+Também por esse enfoque o apelo nobre se mostra refratário à Súmula nº 83/STJ, vez que o acórdão recorrido encontra-se em harmonia com precedentes desta Corte Superior. Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. O prazo de prescrição da pretensão executiva (para desencadear a fase de cumprimento de sentença), quanto ao capítulo decisório que necessite da definição do quantum debeatur, apenas tem início com o fim da liquidação. Acórdão recorrido em harmonia com a jurisprudência desta Corte. Incidência da Súmula 83/ STJ.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 2208771 / MS, Rel Ministro MARCO BUZZI, Quarta Turma, j. 21/8/2023).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO. LIQUIDAÇÃO DE SENTENÇA. NÃO OCORRÊNCIA DE PRESCRIÇÃO. ALEGAÇÃO DE DESNECESSIDADE DE LIQUIDAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A posição firmada no acórdão combatido se encontra em consonância com o entendimento firmado pela Primeira Seção no julgamento dos EREsp 1.426.968/MG, no qual se estabeleceu que: "Se o título judicial estabelecido no processo de conhecimento não firmara o quantum debeatur, somente efetivada a liquidação da sentença é que se poderá falar em inércia do credor em propor a execução, independentemente de tratar-se de liquidação por artigos, por arbitramento ou por cálculos" Precedentes.
+2. Por outro lado, o Tribunal de origem não enfrentou a alegação de que seria desnecessária a fase de liquidação na qual ocorreu a homologação dos cálculos judiciais, o que atrai a incidência da Súmula 211/STJ.
+3. Os acórdãos proferidos na origem não estabeleceram qual foi a espécie de liquidação que teria obstado o início do prazo prescricional, razão pela qual a tese recursal segundo a qual não seria necessária a liquidação do julgado, por demandar meros cálculos aritméticos, também esbarra na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1878241 / MA, Rel Ministro OG FERNANDES, Segunda Turma, j. 27/9/2021 - sem destaques no original).
+Ademais, a revisão do acórdão recorrido quanto à alegada liquidez da sentença demandaria o reexamedo contexto fático e probatório dos autos, o que é vetado pela Súmula 7 do Superior Tribunal de Justiça.
+Por fim, melhor sorte não colhe o apelo no que diz respeito ao indicado dissenso pretoriano, pois, consoante entendimento da Corte Superior "Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional" (AgInt no AREsp nº 1673561/SP, Rel. Ministro SÉRGIO KUKINA, DJe 25/3/2021). Confira-se, ainda, o EDcl no AgRg no AREsp 1937337/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 13/12/2021.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11 do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia de fixação de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL EM FASE DE CUMPRIMENTO DE SENTENÇA. COMPENSAÇÃO DO CRÉDITO COM UMA DÍVIDA EM FAVOR DO BANCO RECORRIDO. POSSIBILIDADE. PRECEDENTES DO STJ. SÚMULA 83 DO STJ. ALEGAÇÃO DE PRESCRIÇÃO A FASTADA PELO TRIBUNAL LOCAL. REEXAME DOS FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
