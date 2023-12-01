@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA HELENA DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DECLARATÓRIA C.C. REPARAÇÃO DE DANOS MATERIAIS E MORAIS. Empréstimo consignado. Negócio jurídico declarado nulo pela r. sentença. Danos morais. Inocorrência no caso concreto. Tutela de urgência concedida para suspender a cobrança e obstar a negativação do nome da Apelante, antes mesmo de descontada a primeira parcela. Ausência de ofensa à dignidade da Apelante. Desvio produtivo do tempo não caracterizado. Inocorrência de danos morais in re ipsa. Fatos que não passaram de mero aborrecimento. Sentença mantida. Recurso não provido.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à configuração de dano moral em virtude de descontos não autorizados decorrentes de empréstimo consignado contratado de maneira fraudulenta, trazendo a seguinte argumentação:
+Trata-se de matéria envolvendo a elaboração pela recorrida de contrato de empréstimo consignado de forma fraudulenta em nome da recorrente, mediante a oferta de valor não solicitado, inscrição de contrato inexistente junto ao INSS, o que ensejou o requerimento de condenação da Instituição Financeira ao pagamento de indenização a título de danos morais no valor de R$ 10.000 ,00 (dez mil reais).
+ ..
+E, de fato, com máximo respeito ao entendimento do v. acórdão, é direito da recorrente a condenação da recorrida ao pagamento de indenização a título de danos morais.
+Portanto, caracterizado que ao não arbitrar o valor adequado e condizente com a reparação justa pelos danos causados o v. acórdão não deu cumprimento integral aos artigos 186 e 927 ambos da Lei nº 10.406/02, fundamento do presente recurso especial (fls. 137-142).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Embora declarada a inexistência do negócio jurídico pela presente sentença, a Apelante verificou com rapidez a ocorrência da fraude e prontamente ajuizou ação judicial, tendo sido concedida tutela de urgência para suspender a cobrança e obstar a negativação do nome da Apelante, além de ser deferido o depósito do valor do empréstimo nos autos (fls. 14/15).
+Portanto, não restou caracterizado prejuízo à subsistência e/ou dignidade da Apelante, pois os descontos foram suspensos antes mesmo de debitada a primeira parcela.
+Também não ficou evidenciado o desvio produtivo do tempo, eis que a Apelante não elaborou boletim de ocorrência para preservar os seus direitos, nem demonstrou providência na via administrativa para tentar resolver o problema diretamente com a instituição financeira.
+O simples fato da Apelante ter contratado advogado e ajuizado ação, não pode ser visto isoladamente como fonte de danos morais.
+Passa ao largo, ainda, qualquer hipótese de cobrança vexatória ou abalo ao nome, imagem ou crédito da Apelante, a justificar o reconhecimento dos danos morais in re ipsa.
+Inclusive, como não houve tentativa de solução do problema na via administrativa, conclui-se que o Banco-apelado desconhecia a fraude até o ajuizamento da presente ação.
+Por ser assim, diante das peculiaridades do caso concreto, andou bem o juízo a quo ao rejeitar a pretensão de reparação de danos morais (fl. 128 - grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
