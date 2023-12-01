@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Eneida Damaceno Pecinini contra os acórdãos de fls. 319-322 e 367-370 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementados:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. ANULATÓRIA. NÃO HÁ FALAR EM ANULAÇÃO DE CLÁUSULA CONTRATUAL, POIS NÃO CARACTERIZADA A HIPÓTESE DO ART. 317, DO CÓDIGO CIVIL,TENDO A PARTE ADQUIRENTE DO BEM PLENA CIÊNCIA DOS ENCARGOS QUANDO DA ASSINATURA DO CONTRATO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+EMBARGOS DE DECLARAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. REDISCUSSÃO. APONTADOS OS PONTOS NOS QUAIS SE EMBASOU A DECISÃO, TORNA-SE DESNECESSÁRIO PARA O JULGADOR NOVAMENTE RESPONDER A TODOS OS QUESTIONAMENTOS FORMULADOS, VISTO QUE OS EMBARGOS DE DECLARAÇÃO DEVEM SE BASEAR APENAS NAS HIPÓTESES DO ART. 1.022, DO CÓDIGO DE PROCESSO CIVIL. JURISPRUDÊNCIA DA CORTE. DESACOLHERAM OS EMBARGOS. UNÂNIME.
+Nas razões do recurso especial (e-STJ, fls. 379-387), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 373, I, 489, § 1º, IV, 1.013 e incisos, e 1.022, II, do CPC/2015. Sustenta, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) necessidade de limitação dos juros contratados à taxa de 12% (doze por cento) ao ano, uma vez que o recorrido não faz parte do sistema financeiro nacional.
+Contrarrazões às fls. 394-405 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 410-414), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Primeiramente, trata o recurso sobre a ocorrência de negativa de prestação jurisdicional. Defende a recorrente que o Tribunal de origem não sanou as omissões apontadas nos embargos de declaração (capitalização mensal de juros; descabimento dos juros acima de 12% ao ano, uma vez que o recorrido não é integrante do sistema financeiro nacional; e destinação dos depósitos judiciais).
+Quanto à capitalização dos juros e destinação dos depósito judiciais, houve pronunciamento, embora sucinto.
+Veja-se à fl. 368 (e-STJ):
+Ademais, cumpre sinalar que o acórdão já foi claro ao referir a inexistência de qualquer abusividade no contrato, o que abarca a alegação de capitalização, sendo que os depósitos sequer poderão ter o condão liberatório, devendo ser requerida na origem eventual levantamento.
+Já no tocante à necessidade de limitação dos juros à taxa de 12% (doze por cento) ao ano, uma vez que o recorrido não faz parte do sistema financeiro nacional, observa-se que, de fato, a Corte local não se manifestou e, embora a recorrente tenha provocado o Tribunal estadual através dos aclaratórios (e-STJ, fls. 330-331), este permaneceu silente, conforme se nota da ementa acima colacionada.
+Com efeito, inarredável a conclusão de ofensa ao art. 1.022 do Código de Processo Civil de 2015, haja vista que, independentemente do acerto ou não da tese invocada, ela deveria ter sido objeto de análise pela Corte de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+A análise da tese recursal, de necessidade de limitação dos juros à taxa de 12% (doze por cento) ao ano, se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, dou provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevante questão que lhe foi submetida pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C DECLARATÓRIA DE QUITAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA. LIMITAÇÃO DOS JUROS. ANÁLISE PREJUDICADA. RECURSO ESPECIAL PROVIDO.
