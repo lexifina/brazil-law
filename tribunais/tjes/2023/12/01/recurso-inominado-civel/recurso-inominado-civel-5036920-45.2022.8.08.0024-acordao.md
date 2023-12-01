@@ -1,0 +1,69 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5036920-45.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EBAZAR.COM.BR. LTDA
+RECORRIDO: BANCO ORIGINAL S/A e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5036920-45.20222.8.08.0024
+
+Recorrente: EBAZAR.COM.BR. LTDA
+
+Recorrido: PIERRE SILVA CALMON
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE RESTITUIÇÃO DE QUANTIA PAGA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. FALHA NA PRESTAÇÃO DE SERVIÇO. DEMORA NA RESTITUIÇÃO DOS VALORES. RELATA A REQUERENTE, NO DIA 07/07/2022, TER REALIZADO A AQUISIÇÃO DE UM CAPÔ DE VEÍCULO JUNTO À PRIMEIRA REQUERIDA, NO VALOR DE R$2.100,00 (DOIS MIL E CEM REAIS), POR MEIO DE PIX. LOGO APÓS A COMPRA, PERCEBEU QUE COMPROU O PRODUTO ERRADO, PEDINDO CANCELAMENTO DA COMPRA. SENDO INFORMADO PELA RÉ QUE SERIA FEITA A RESTITUIÇÃO DOS VALORES. CONTUDO, A AUTORA NÃO RECEBEU A RESTITUIÇÃO DO VALOR DO PRODUTO CANCELADO. TENTATIVA DE SOLUÇÃO ADMINISTRATIVA. EM CONTESTAÇÃO, RÉ ALEGA QUE OS VALORES FORAM DEVIDAMENTE RESTITUÍDOS À PARTE CONSUMIDORA. AUTOR QUE JUNTA AOS AUTOS EXTRATO DE CONTA BANCÁRIA, COMPROVANDO AUSÊNCIA DE REEMBOLSO. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO A RECORRENTE/RÉ EBAZAR.COM.BR. LTDA, À RESTITUIÇÃO DE R$2.100,00 (DOIS MIL E CEM REAIS), E AO PAGAMENTO DE R$2.000,00 (DOIS MIL REAIS) A TÍTULO DE DANO MORAL. RECURSO DA PARTE REQUERIDA, PLEITEANDO A REFORMA DA SENTENÇA, PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS. DEMORA EXCESSIVA E INJUSTIFICADA NA RESTITUIÇÃO DOS VALORES, MESMO APÓS CANCELAMENTO DO PEDIDO. DEMANDADO NÃO FEZ PROVA DE SUAS ALEGAÇÕES, VEZ QUE O RECORTE DE TELAS SISTÊMICAS PRODUZIDAS UNILATERALMENTE PELA REQUERIDA NÃO É ADMISSÍVEL, ISOLADAMENTE, COMO A VERACIDADE DOS FATOS. FALHA NA PRESTAÇÃO DE SERVIÇO CONFIGURADA. FATO QUE EXORBITA DA ESFERA DOS MEROS ABORRECIMENTOS, TRANSCENDE O SIMPLES DESCUMPRIMENTO CONTRATUAL E TRADUZ MENOSPREZO AO CONSUMIDOR E À SUA DIGNIDADE. DEVER DE CUIDADO E DE COOPERAÇÃO QUE EMERGE DA BOA-FÉ OBJETIVA. DANO MORAL CARACTERIZADO. RESTITUIÇÃO DOS VALORES DEVIDA. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso,
+NEGANDO-LHE PROVIMENTO
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
