@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANDRIEL LUIDI EUFRAZIO CARDOSO contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática dos crimes tentativa de roubo, adulteração de sinais de veículo automotor e desobediência.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 44):
+HABEAS CORPUS. PACIENTE SEGREGADO EM RAZÃO DA PRÁTICA, EM TESE, DOS DELITOS DE TENTATIVA DE ROUBO SIMPLES, ADULTERAÇÃO DE SINAIS DE VEÍCULO AUTOMOTOR E DESOBEDIÊNCIA (ARTS. 157, CAPUT, C/C ART. 14, INCISO II, 311 E 330, TODOS DO CÓDIGO PENAL). CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA.
+ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO. NÃO ACOLHIMENTO. MAGISTRADO QUE EXPLICITOU ELEMENTOS CONCRETOS PARA A DECRETAÇÃO E MANUTENÇÃO DA CONSTRIÇÃO. PERICULOSIDADE DO AGENTE E RISCO DE REITERAÇÃO DELITUOSA QUE RECOMENDAM A MANUTENÇÃO DA MEDIDA EXTREMA, A FIM DE ACAUTELAR A ORDEM PÚBLICA. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS EVIDENCIADOS. CONCESSÃO DE MEDIDAS CAUTELARES. PROVIDÊNCIA QUE, NA HIPÓTESE, NÃO SE MOSTRA SUFICIENTE À GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ORDEM CONHECIDA E DENEGADA.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a inexistência de fundamentação idônea para a prisão preventiva e ausência dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando a ausência de demonstração da necessidade da custódia, devidamente amparada em elementos concretos e excepcionais nos autos, de modo que não há razões para a manutenção da prisão preventiva.
+Sublinha, ainda, a presença de condições pessoais favoráveis ao paciente, o qual, ao contrário do que fora dito pelo Magistrado de origem, não possui nenhum antecedente criminal e estava trabalhando na época de sua prisão, além de possuir residência fixa, não se ignorando, por fim, a possibilidade de aplicação de medidas cautelares alternativas.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura e a aplicação de medidas cautelares previstas no art. 319 do CPP se for o caso.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+Isso porque o habeas corpus não foi devidamente instruído, uma vez que não foi colacionado, de maneira integral, peça processual indispensável à cabal compreensão da tese levantada na inicial da controvérsia, qual seja, o acórdão proferido pelo Tribunal de origem, estando acostado nos autos somente a sua ementa.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
