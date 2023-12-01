@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL com respaldo na alínea "a" do permissivo constitucional contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 48):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ARQUIVAMENTO. INEXISTÊNCIA DE PRECLUSÃO OU COISA JULGADA. PROSSEGUIMENTO DA EXECUÇÃO.
+Não tendo havido a liberação de valores, nem decisão reconhecendo que a dívida foi paga, tratando-se de hipótese de esgotamento dos atos de cumprimento de sentença, diante do fato de não ter havido saque oportuno dos valores devidos e depositados, os quais, por força da demora, acabaram revertidos ao INSS, não se cogita de preclusão ou coisa julgada, devendo ser mantida a decisão agravada que determina a expedição da RPV do principal.
+Embargos de declaração rejeitados (e-STJ fls. 69/71).
+Em suas razões, a parte recorrente aponta, violação do art. 1.022, II, do CPC/2015, por negativa de prestação jurisdicional em relação à impossibilidade de a autora cobrar valores complementares mesmo após o feito ter sido extinto por sentença que atestou o cumprimento da obrigação, conforme o seguinte trecho (e-STJ fl. 82):
+O acórdão recorrido, ao reconhecer o direito da parte autora em cobrar valores complementares, mesmo após o feito ter sido extinto por sentença que atestou o cumprimento da obrigação (pagamento), acabou por se omitir na apreciação da legislação aplicável na espécie - artigos 316, 502, 503, 505, 924, II e 925, do CPC - tendo o INSS interposto embargos de declaração para o esclarecimento da matéria e o prequestionamento da questão federal abordada nos embargos.
+No mérito, alega vulneração dos arts. 316, 502, 503, 505, 924, II, e 925, do CPC/2015; e do Tema n. 289 do STJ - REsp 1.143.471/PR, argumentando, em suma, pela impossibilidade de reabertura da execução para cobrança de valores complementares após extinção do feito por sentença transitada em julgado, que reconheceu o adimplemento da obrigação, nos seguintes termos (e-STJ fls. 84/85):
+Neste sentido, a Colenda Turma julgadora olvidou do impeditivo da coisa julgada (artigos 502 e 503 do CPC) para autorizar execução de eventuais diferenças não cobradas pela parte autora no tempo oportuno.
+Todavia, a legislação processual é clara ao afirmar que "Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide .. " (art. 505 do CPC), razão pela qual caberia a parte interessada, na melhor hipótese, o manejo da ação rescisória, caso entendesse que nos autos apresentava-se algum dos vícios previstos no art. 966 do CPC, e não utilizar-se de mera petição para flexibilização da coisa julgada. Este é, inclusive, o entendimento pacífico do E. STJ como demonstrado exaustivamente no tópico anterior (Item6).
+Portanto, após cognição exauriente do objeto do processo e extinta a execução por sentença transitada em julgado que reconheceu o adimplemento da execução pela recorrente/executada, não pode mais ser reaberto o processo sem violação da coisa julgada formada, a qual somente poderia ser revista por meio processual adequado para desconstituição do julgado.
+Sem contrarrazões (e-STJ. fls. 91).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 94/95.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Da análise dos autos, constata-se que o Tribunal de origem manteve decisão de e-STJ fl. 27, e foi expresso em afastar a coisa julgada, asseverando que não se trata de continuidade da execução para pagamento de novos valores, mas apenas o esgotamento dos atos de cumprimento de sentença, tendo em vista que não houve saque oportuno dos valores devidos e depositados, que acabaram revertidos ao INSS, nos termos que segue (e-STJ fls. 50/51):
+Não assiste razão ao agravante.
+No caso em exame, no cumprimento de sentença, foi expedida RPV dos valores devidos ao autor e honorários (evento 71, RPV1 ), liberada para saque ( ev. 93/95). Intimada a credora, renunciou ao prazo recursal, sobrevindo a baixa definitiva do feito (ev.99). Em razão do cancelamento do pagamento da requisição (Lei 13.463/17), houve tentativa de localizar o autor, com pedido de dilação de prazo, o que foi deferido e, após o transcurso sem manifestação, sobreveio sentença extintiva (evento 114,SENT1 ), com baixa definitiva em 28/10/21 (ev.121).
+Em 03/12/21, a parte autora informa os dados para a transferência do valor do principal, sendo essa determinada ( evento 125, DESPADEC1 ), com expedição do RPV, o que foi impugnado pelo INSS.
+O que se pretende, aqui, não é a continuação da execução para pagamento de novos valores, mas o esgotamento dos atos de cumprimento de sentença, diante do fato de não ter havido saque oportuno dos valores devidos e depositados, os quais, por força da demora, acabaram revertidos ao INSS.
+Nessa circunstância, não tendo havido a liberação de valores, nem decisão reconhecendo que a dívida foi paga, não se cogita de preclusão ou coisa julgada, devendo ser mantida a decisão agravada que determina a expedição da RPV do principal. (Grifos acrescidos).
+Transcrevo aqui também a decisão de e-STJ fl. 27:
+Indefiro a impugnação apresentada pelo INSS no evento 122, porquanto, a extinção do cumprimento de sentença foi manifestamente indevida, considerando que a parte não havia recebido os valores, como equivocadamente constou na referida decisão.
+Posto isto, determino o prosseguimento do feito, com a requisição do pagamento.
+Intimem-se.
+A pretensão recursal não pode ser conhecida, pois a recorrente não impugnou os referidos fundamentos do acórdão recorrido, além de trazer razões dissociados do decidido.
+Observa-se que no recurso especial a autarquia limitou-se a defender a impossibilidade de abertura superveniente da execução extinta para cobrar créditos complementares, por sentença transitada em julgado, sob alegação de erro de cálculo, por violação da coisa julgada, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o dec isum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles "" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
