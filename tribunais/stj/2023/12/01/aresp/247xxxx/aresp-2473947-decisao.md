@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interposto por NILZETE MAMEDES DOS SANTOS e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de NILZETE MAMEDES DOS SANTOS e OUTRO, o recurso especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, a mera alegação, na petição recursal, de que é beneficiária da assistência judiciária não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição. Nesse sentido, o AgInt no AREsp 1160301/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30/05/2018.
+É insuficiente, portanto, a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer certidão comprobatória do Tribunal de origem desse deferimento ou cópia integral dos respectivos autos , o que não ocorreu no caso concreto.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não o fez, limitando-se a juntar à fl. 1027 apenas uma declaração de pobreza, objetivando a concessão do beneficio da gratuidade de justiça perante este Superior Tribunal de Justiça.
+Ressalte-se que, o pedido de benefício da gratuidade de justiça realizado nesse momento, não tem efeito prático algum. Mesmo que seja deferido o benefício da gratuidade nesse momento processual, a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte requerente das custas processuais referentes aos atos anteriores, ou seja, mesmo que seja deferido o benefício, não terá o condão de retroagir para regularizar o recolhimento das custas do recurso especial.
+Apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores". (AgRg no REsp 1.144.627/SC, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 29/5/2012.)
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
