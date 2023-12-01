@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por COMERCIO DE PEDRA BRITADA GRACIOSA LTDA contra decisão da em. Ministra Presidente do Superior Tribunal de Justiça, que não conheceu do recurso em razão da ausência de comprovante válido do pagamento das custas pois o documento juntado "não contém a numeração do código de barras" (fl. 4969).
+Em suas razões recursais, a agravante afirma que o comprovante de pagamento das custa, juntado aos autos às fl. 1253, é valido pois "tendo em vista que os pagamentos são realizados através de aplicativo do banco, este é o comprovante fornecido no momento em que a transação é finalizada, constando, inclusive, o ID da transação".
+Requer, ao final, a reconsideração da decisão agravada. (fls. 4978-4985)
+Os agravados apresentaram impugnação às fls. 4990-4997 e 4998-5005.
+O Ministério Público Federal, pela il. Subprocuradora-Geral da República MARIA SOARES CAMELO CORDIOLI, manifestou-se pelo não provimento do agravo interno, em parecer assim sintetizado:
+"RECURSO EM MANDADO DE SEGURANÇA. TÍTULOS DE CRÉDITOS. RMS NÃO CONHECIDO PELO MINISTRO PRESIDENTE ANTE A COMPROVAÇÃO DE QUE FOI INTERPOSTO SEM RECOLHIMENTO DEVIDO DO PREPARO. RECURSO DESERTO. APLICAÇÃO DA SÚMULA 187/STJ. DECISÃO DO MINISTRO PRESIDENTE ESCORREITA. PARECER PELO DESPROVIMENTO DO AGRAVO INTERNO." (fl. 5017)
+É o relatório. Decido.
+Assiste razão à ora agravante, quanto à comprovação do pagamento das custas. Com isso, reconsidera-se a decisão agravada de fls. 4975, passando-se a novo exame do recurso.
+Cuida-se de recurso ordinário interposto por Comércio de Pedra Britada Graciosa contra acórdão da 6ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Paraná, que denegou o mandado de segurança, em acórdão assim ementado:
+"MANDADO DE SEGURANÇA. IRRESIGNAÇÃO CONTRA DECISÃO JUDICIAL PROFERIDA EM AUTOS DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. FASE DE ARREMATAÇÃO. DIREITO DE DEFESA DO IMPETRANTE NÃO VIOLADO. CONTEXTO PROCESSUAL QUE PERMITIU O ACOMPANHAMENTO DA EXECUÇÃO PELO EXECUTADO DURANTE TODO O CURSO PROCESSUAL. AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO PELA NÃO INTIMAÇÃO DA DATA DA REALIZAÇÃO DO LEILÃO. ARREMATAÇÃO HÍGIDA. INCIDÊNCIA DOS PRINCÍPIOS PAS DE NULLITÉ SANS E DA INSTRUMENTALIDADE DAS FORMAS. DIREITO LÍQUIDO E CERTO NÃO GRIEF DEMONSTRADO. LEGALIDADE DA DECISÃO NA ORIGEM. ORDEM DENEGADA. (fl. 1248)
+Conforme entendimento consolidado nesta Corte Superior, o recurso ordinário somente será cabível em mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, Distrito Federal e Territórios (CF, art. 105, II, b), estando excluídas, portanto, as decisões das Turmas ou Conselhos Recursais dos Juizados Especiais.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INCOMPETÊNCIA DO STJ. DECISÃO DA PRESIDÊNCIA DE NÃO CONHECIMENTO DO RMS MANTIDA.
+1. A espécie é de recurso ordinário interposto contra acórdão de Turma Recursal que denegou mandado de segurança, impetrado contra decisão do juizado especial que julgou deserto recurso inominado, por insuficiência das custas.
+2. Em tal caso, não tem o STJ competência para conhecer do recurso ordinário, porquanto a hipótese não se subsume ao art. 105, inciso II, alínea b, da Constituição Federal. Iterativos julgados desta Corte nesse sentido.
+3. Manutenção da decisão da Presidência que não conheceu do recurso ordinário.
+4. Agravo interno desprovido." (AgInt no RMS n. 64.882/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022, g.n.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. RECURSO ORDINÁRIO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. ACÓRDÃO DENEGATÓRIO DO WRIT PROFERIDO POR TURMA RECURSAL. NÃO CABIMENTO. CONDENAÇÃO EM HONORÁRIOS RECURSAIS, CONSOANTE PREVISÃO DO ART. 85, § 11, DO CPC/2015. IMPOSSIBILIDADE. PREVALÊNCIA DO ART. 25 DA LEI N. 12.016/2009.
+1. O recurso previsto no art. 105, II, "b", da Constituição Federal, e 1.027, II, "a" do CPC/2015 (antigo art. 539, II, "a", do CPC/1973) serve para impugnar "mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão", não sendo meio idôneo a desafiar acórdão prolatado por Turma ou Conselho Recursal de Juizado Especial.
+2. Nesse sentido consolidou-se o posicionamento adotado pela Segunda Seção desta Corte, segundo o qual " ..  não há previsão constitucional para que o STJ julgue recurso ordinário em mandado de segurança interposto perante Turma ou Colégio Recursal de Juizado Especial" (AgRg na Rcl 2.286/SP, Rel. Min. Nancy Andrighi, DJe 19.5.2009).
+3. É indevida a condenação em honorários advocatícios no processo de mandado de segurança, de acordo com o art. 25 da Lei n. 12.016, de 7 de agosto de 2009. Essa previsão legal, por conseguinte, afasta a previsão de arbitramento de honorários advocatícios recursais do art. 85, § 11, do CPC/2015. Precedentes do STF e do STJ.
+4. Agravo regimental não provido." (AgInt no RMS n. 52.179/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2017, DJe de 1/8/2017, g.n.)
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 4975, e não conhecer do recurso ordinário.
+Publique-se.
+EMENTA
