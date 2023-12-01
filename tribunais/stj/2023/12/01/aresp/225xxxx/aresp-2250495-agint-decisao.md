@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Chiapin & Herzog Advogados, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 624):
+APELAÇÕES CÍVEIS. HONORÁRIOS DE PROFISSI ONAIS LIBERAIS. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇO ADVOCATÍCIOS. REVOGAÇÃO DO MANDATO CONFERIDO A PARTE AUTORA DURANTE A TRAMITAÇÃO JUDICIAL DOS PROCESSOS REFERIDOS NA INICIAL. NECESSIDADE DE ARBITRAMENTO DOS HONORÁRIOS. AÇÃO MONITÓRIA QUE CONSTITUI VIA INADEQUADA PARA VIABILIZAR O RECEBIMENTO DOS HONORÁRIOS CONTRATUAIS A QUE FAZ JUS. EXTINÇÃO DO FEITO, DE OFÍCIO, COM FULCRO NO ARTIGO 485, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL. PROCESSO EXTINTO, DE OFÍCIO, SEM RESOLUÇÃO DE MÉRITO. APELAÇÕES PREJUDICADAS.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 655-663).
+Nas razões do recurso especial, o recorrente apontou violação dos arts. 321, 509, I, 700 e § 5º, 701, 702, caput e § 1º, e 1.022 CPC/2015; 112, 113, 317, 421, parágrafo único, 422, 421-A, II e III, e 478 do Código Civil; e 22, § 2º, da Lei 8.906/1994 (e-STJ, fls. 668-691).
+Sustentou que, mesmo após ter sido provocado com a oposição de embargos de declaração, o Tribunal local manteve-se inerte quanto à análise das questões suscitadas. Assim sendo, o acórdão recorrido distanciou-se da finalidade da norma, que é eliminar omissões porventura existentes nos julgados, tornando completa a prestação jurisdicional, que se entendeu ter sido deficiente por ausência de fundamentação.
+Ponderou "que o momento para a verificação da idoneidade da prova documental que instrui o pedido monitório é o início do processo(art. 701do CPC). Havendo juízo positivo de admissibilidade, não cabe ao Juiz retomar o assunto e, depois de toda uma tramitação processual, dizer ter sido inadequada a via eleita. Há, quanto ao ponto, clara preclusão pro judicato." (e-STJ, fl. 675).
+Alegou ser a ação monitória via inadequada para a cobrança dos honorários contratuais.
+Destacou que "a extinção ex officio promovida pelo Tribunal a quo encarta outra ilegalidade: foi realizada, a rigor, no bojo de embargos à monitória, expediente que ordinariza o procedimento e, pois, afasta os imaginados óbices processuais à solução do litígio (necessidade de ampla instrução probatória, em contraditório, para arbitramento dos valores devidos)." (e-STJ, fl. 680).
+Defendeu a possibilidade de emenda à inicial.
+Foram apresentadas contrarrazões (e-STJ, fls. 699-714).
+O processamento do apelo especial não foi admitido pela Corte local, tendo sido interposto agravo em recurso especial às fls. 732-746 (e-STJ), o qual foi conhecido por esta relatoria, a fim de conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 805-807).
+Em seguida, foi indeferido o pedido de efeito suspensivo formulado pelo ora insurgente (e-STJ, fls. 980-983).
+Nas razões do presente agravo interno (e-STJ, fls. 811-832), o agravante sustenta que a decisão monocrática não enfrentou os fundamentos deduzidos no recurso especial, asseverando a inaplicabilidade das Súmulas 5, 7 e 211 do Superior Tribunal de Justiça, além de repisar as razões do recurso especial.
+Brevemente relatado, decido.
+Diante dos argumentos apresentados no agravo interno, constata-se assistir razão ao agravante no tocante à inaplicabilidade das Súmulas 5, 7 e 211 do STJ.
+Assim, mediante juízo de retratação, nos termos do art. 259, § 6º, do RISTJ, reconsidero a decisão de fl. 780-785 e 805-807 (e-STJ) e passo a novo exame do agravo em recurso especial (e-STJ, fls. 732-746).
+Considerando a relevância da matéria controvertida e os fundamentos trazidos no agravo, mediante juízo de reconsideração, determino a sua conversão em recurso especial, a fim de que a matéria seja mais bem examinada, sem prejuízo de posterior análise dos pressupostos de admissibilidade do recurso.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇO. HONORÁRIOS ADVOCATÍCIOS. REVOGAÇÃO DE MANDATO. PROCESSOS EM TRAMITAÇÃO. AJUIZAMENTO DE AÇÃO MONITÓRIA PARA O RECEBIMENTO DE VALORES. EXTINÇÃO DO FEITO. VIA INADEQUADA. AGRAVO PROVIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
