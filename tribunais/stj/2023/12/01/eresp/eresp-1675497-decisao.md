@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se  de  embargos  de  divergência  interpostos  por  VASCO ALVES DE OLIVEIRA JUNIOR contra  o acórdão  da  Segunda Turma,  de  relatoria  do  Ministro Herman Benjamin,  assim  ementado  (fl. 538):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM. NÃO CONHECIMENTO. NECESSIDADE DE PROTOCOLO DIRETAMENTE NO JUÍZO AD QUEM. INTELIGÊNCIA DO ART. 524 DO CPC/1973.
+1. O acórdão recorrido foi publicado na vigência do CPC/1973. Por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. O recurso de Agravo de Instrumento previsto no art. 522 do CPC/1973 deve ser endereçado diretamente ao órgão ad quem, conforme preceitua o caput do art. 524 da Lei Processual Civil, não sendo possível o conhecimento do recurso protocolado erroneamente no juízo singular prolator da decisão agravada. Precedentes do STJ.
+3. Recurso Especial não provido.
+Em  suas  razões ,  a parte embargante aponta divergência com  os seguintes julgados: AgRg no Ag 775.617/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe 13/3/2009 e AgRg no AREsp 276.389/PA, relator Ministro Herman Benjamin, Segunda Turma, DJe 22/05/2013.
+Sustenta ser tempestivo o recurso protocolado eletronicamente em instância equivocada, porém dentro do prazo legal, e que, assim, não poderia prevalecer o formalismo processual excessivo que julgou o recurso intempestivo e improvido.
+É  o  relatório.
+Os embargos de divergência objetivam eliminar a adoção de teses diversas para casos semelhantes; sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação, contribuindo, dessa forma, para a segurança jurídica.
+Em decorrência disso, a utilização deste recurso somente tem êxito quando o acórdão recorrido, posto em confronto com exemplares da jurisprudência do Superior Tribunal de Justiça (STJ), revelar discrepância de solução judicial dada a casos processuais que guardam entre si similitude fática/jurídica, de tal modo que fique em evidência a discrepância entre os exemplares decisórios, porque, por óbvio, se forem diversas as circunstâncias concretas da causa, as consequências jurídicas não podem ser idênticas.
+No presente caso, não vislumbro a semelhança de bases fáticas entre as hipóteses confrontadas.
+A Segunda Turma rejeitou a tese defendida pela parte embargante, declarando que não seria possível o conhecimento do agravo de instrumento protocolado erroneamente no juízo singular prolator da decisão agravada.
+Por sua vez, o AgRg no Ag 775.617/RS, de relatoria do Ministro Herman Benjamin, apreciou questão fática diversa, envolvendo a análise da tempestividade de apelação, protocolizada no prazo legal, em Vara diversa no mesmo Foro.
+Relativamente ao AgRg no AREsp 276.389/PA, de relatoria do Ministro Herman Benjamin, observo que a controvérsia cinge-se à validação de protocolo de agravo de instrumento primeiramente perante o juízo agravado e, após a verificação do erro, protocolizado em segundo grau; contudo, foi considerado intempestivo.
+Como se vê, as teses jurídicas manifestadas no acórdão embargado e nos paradigmas são divergentes, sendo certo que a solução adotada por eles é diversa em virtude da dessemelhança entre os suportes fático-jurídicos de cada um, contexto no qual não se torna viável reverter o acórdão embargado na forma propugnada.
+Ante o exposto, não conheço dos embargos de divergência.
+Publique-se. Intimem-se
+EMENTA
