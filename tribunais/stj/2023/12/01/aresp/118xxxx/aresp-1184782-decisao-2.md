@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO AUGUSTO PEREIRA DO NASCIMENTO MÓS E OUTRA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"RECURSO - APELAÇÃO - PRELIMINAR - CARÊNCIA DA AÇÃO - Pretensão ao reconhecimento da carência da ação pela ausência de título executivo e de especificação da dívida - Descabimento -A confissão de dívida representa título apto ao manejo da execução, se observado o inciso II, do artigo 585, do CPC - Observação de que o artigo 614, do mesmo diploma, exige apenas a apresentação da memória de cálculos e o documento foi apresentado pela exequente - Possibilidade de correção de eventuais equívocos oportunamente -Preliminar afastada.
+RECURSO - APELAÇÃO - PRELIMINAR - ILEGITIMIDADE - Arguição de ilegitimidade passiva dos fiadores da obrigação em razão das novações havidas - Descabimento - Hipótese em que os coobrigados não foram expressamente desonerados - Não se aplica o benefício de ordem ao garantidor que efetuou expressa renúncia e se obrigou na qualidade de principal pagador ou devedor solidário - Preliminar afastada.
+RECURSO - APELAÇÃO - PRELIMINAR - CERCEAMENTO DE DEFESA -JULGAMENTO ANTECIPADO. - Pretendida a nulidade da sentença, em razão do julgamento antecipado do feito - Descabimento - Hipótese em que as questões fáticas foram resolvidas com os documentos juntados - Inteligência do art. 740 do CPC - Preliminar afastada.
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EMBARGOS DO DEVEDOR - CONFISSÃO DE DÍVIDA - Pleito visando a extinção da ação, em função da novação oriunda da aprovação do plano de recuperação judicial da devedora principal - Descabimento - Observação de que a assembleia de aprovação do plano de recuperação foi anulada por decisão judicial, submetida a reexame em grau recursal - Arguição de excesso de execução não verificada - Encargos aplicados de acordo com os índices indicados no contrato - Honorários advocatícios fixados, nos termos do art. 20, § 3º do CPC - Montante que melhor remunera o trabalho realizado pelo advogado - Sentença mantida - Recurso improvido.
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EMBARGOS DO DEVEDOR IMPENHORABILIDADE - Alegação de impenhorabilidade de bem imóvel por constituir bem de família, ainda que dado em garantia - Cabimento - Observância do disposto no artigo 1º, da Lei 8.009/90 - Impenhorabilidade decretada - Sentença reformada -Recurso provido." (fls. 822/823)
+Os recorrentes apontam ofensa ao art. 838, I, do Código Civil, sustentando, em síntese, que a "fiança, que é obrigação acessória, não admite interpretação extensiva, sendo necessária a expressa anuência do fiador para que persista a garantia contratual, não respondendo por obrigações resultantes de aditamento contratual do qual não anuiu, como ocorreu no caso sub judice" (fl. 1.038).
+Contrarrazões às fls. 1.052/1.058.
+É o relatório.
+O Tribunal de origem manteve os fiadores no polo passivo da execução, com base nos seguintes fundamentos:
+"( .. )
+No tocante à alegação de ilegitimidade dos executados Paulo e Maria, bem observou o julgado que, não houve novação, mas sim, reforço das garantias estipuladas, com a assinatura do documento de fís. 115, porquanto este não fez qualquer menção à liberação dos fiadores primitivos.
+Quanto ao tema, observa-se, ainda, que nada há para justificar a alegação de moratória da dívida, desobrigando-se os fiadores, mesmo porque sequer houve lapso temporal de suspensão dos pagamentos acordados" entre as partes do primeiro ao segundo instrumento.
+Ressalta-se, também, que não aproveita o benefício de ordem àquele garantidor que se obrigou na qualidade de principal pagador da dívida ou devedor solidário (art. 828, CPC), ou ainda, em favor daquele que se manifestou renúncia expressa"
+Diante disso, apesar de haver firme jurisprudência do STJ no sentido de que a moratória tem o efeito de exonerar os fiadores que não anuíram com o pacto, é inviável interpretar novamente as cláusulas dos ajustes firmados entre Macromed e Cristália a fim de investigar se o segundo negócio jurídico teria servido apenas para reforçar garantias ou para novar a dívida, substituir fiadores e conceder moratória.
+Incidente, portanto, o óbice da Súmula n. 5/STJ.
+Com idêntica conclusão:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. FIANÇA. EXONERAÇÃO. TRANSAÇÃO. MORATÓRIA CONCEDIDA. MODIFICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+(..)
+3. O Tribunal de Justiça, à luz do acervo fático-probatório dos autos, assentou ter havido, no caso, transação com a devedora que resultou em concessão de moratória, sem comprovação da anuência da fiadora, exonerando a fiança anteriormente ajustada.
+4. A alteração do entendimento firmado na instância ordinária, no tocante à concessão de moratória e à exoneração da fiança, demandaria interpretação de cláusula contratual e a análise do acervo fático-probatório dos autos, o que é vedado pelas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.037.519/RN, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/5/2022, DJe de 20/6/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida em 10% sobre o valor já arbitrado pelas instâncias ordinárias, a esse mesmo título.
+Publique-se.
+EMENTA
