@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por PAULO SERGIO FIORINI BONILHA contra v. acórdão do eg. Tribunal de Justiça do Estado do Maranhão, assim ementado:
+EMENTA: APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. CRISE ECONÔMICA. TEORIAS DA IMPREVISÃO E DA ONEROSIDADE EXCESSIVA. INAPLICABILIDADE. RECONVENÇÃO. HONORÁRIOS. CABIMENTO. JULGAMENTO ULTRAPETITA. RECONHECIMENTO. COMPENSAÇÃO DE VALORES DEVIDOS POR AMBAS AS PARTES. POSSIBILIDADE. APELOS PARCIALMENTE PROVIDOS.
+I. Crises econômicas são suficientes para comprovar a existência de onerosidade excessiva, mas não se revestem de imprevisibilidade e extraordinariedade.
+II. A reconvenção se caracteriza como um meio de ataque e, considerando que se trata de novo processo com novos pedidos, cabível a incidência da verba honorária como cláusula de descumprimento contratual. Inteligência do art. 85, I, do CPC.
+III. Demonstrado nos autos que tanto o autor como o réu fazem jus a valores devidos entre si, resultado de contratos firmados, possível a compensação de valores, em respeito ao princípio da celeridade e sem afronta ao devido processo legal.
+IV. Reconhecida a condenação ultrapetita quanto a um dos contratos, deve ser decotado o excesso, com fulcro nos arts. 141 e 492 do CPC.
+V. Apelos parcialmente providos.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 508-513.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 472 do Código Civil. Sustenta, em síntese, que: a) não foram cumpridos os requisitos para a compensação dos valores; e b) decaiu minimamente nos pedidos em relação à cláusula penal, devendo a parte recorrida arcar integralmente com os honorários advocatícios.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Quanto à possibilidade de compensação e de condenação ao pagamento dos honorários contratuais, o Tribunal de origm assim dirimiu a controvérsia:
+No que concerne à compensação dos valores, restou demonstrado nos autos que o autor, tendo firmado contrato com o requerido, não recebeu parte do valor devido, o que motivou a presente ação. Ato contínuo, tendo o requerido sido citado, este apresentou contestação e reconvenção, oportunidade em que, atacando o autor, trouxe aos autos a informação de que este é devedor em outros contratos, que, como se vê às fls. 82/84 e 86/89.
+Logo, uma vez que há pedido, do autor, para recebimento de valor devido em virtude de contrato, e do réu, na reconvenção, em virtude de recebimento, também, de valores devidos em outros contratos com o autor, não há que falar em ilegalidade na compensação com os demais contratos, ainda mais quando se busca, com o processo, a satisfação jurisdicional em tempo razoável, em respeito à celeridade, sem contudo, afrontar o devido processo legal.
+Retomo, então, a discussão sobre o julgamento ultrapetita. Como se vê nos autos, o autor/reconvindo é devedor do réu, ora 1º apelante, de valores referidos nos contratos sob nº 53-JUR-.08 (fls. 82/84) e 98-JUR-08 (fls. 86/89). O contrato sob nº 99-JUR-08, como visto na reconvenção (fls. 100/106), restou adimplido, e não houve nenhuma interpelação com relação ao mesmo.
+Em sede de embargos de declaração, os quais integram o acórdão estadual, o Tribunal de origem decidiu nesses termos:
+Por sua vez, quanto aos Embargos opostos por PAULO SERGIO FIORINI BONILHA, registro que os honorários de sucumbência, arbitrados em 15% do valor da condenação, se diferem dos honorários advocatícios pactuados nos contratos 53-JUR-08 (fls. 82/84, item 4.2) e 98-JUR-08 (fls. 86/89, item 4.2), caracterizados como contratuais, restando estipulados em 20% do valor avençado.
+No que concerne à compensação dos valores, consta no decisum vergastado que "uma vez que há pedido, do autor, para recebimento de valor devido em virtude de contrato, e do réu, na reconvenção, em virtude de recebimento, também, de valores devidos em outros contratos com o autor, não há que falar em ilegalidade na compensação com os demais contratos, ainda mais quando se busca, com o processo, a satisfação jurisdicional em tempo razoável, em respeito à celeridade, sem contudo, afrontar o devido processo legal".
+Nesse contexto, tem-se que a prentensão de modificar o entendimento firmado, quanto à possibilidade de compensação dos valores e cabimento da condenação aos honorários contratuais, demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+A propósito:
+AGRAVO INTERNO. DIREITO CIVIL E COMERCIAL. CONTRATO DE FRANQUIA. INTERFERÊNCIA DA FRANQUEADORA NAS ATIVIDADES DA FRANQUEADA. POSSIBILIDADE. INTERVENÇÃO QUE DECORRE DA PRÓPRIA NATUREZA DO CONTRATO DE FRANQUIA, VISANDO AO ESTÍMULO DA ATIVIDADE ECONÔMICA DA FRAQUEADA. RESOLUÇÃO DO CONTRATO. CULPA RECÍPROCA. NÃO EXISTÊNCIA DE CRÉDITOS A SEREM COMPENSADOS. REEXAME. IMPOSSIBILIDADE. STJ NÃO É TERCEIRA INSTÂNCIA REVISORA. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Não há nenhuma irregularidade na interferência da franqueadora nas atividades da franqueada, a fim de garantir o fomento econômico dessas atividades. Isso porque o contrato de franquia visa, precipuamente, ao estímulo da atividade empresarial pelo franqueado (REsp 1.881.149/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/6/2021, DJe 10/6/2021).
+3. No caso concreto, o Tribunal de origem, à luz do exame minucioso das cláusulas do contrato de franquia e das provas acostadas aos autos, concluiu que a interferência da franqueadora se deu com intuito de melhorar o atendimento dos clientes da marca Shell, não configurando ingerência nas atividades da franqueada. Também concluiu que houve culpa recíproca na resolução do contrato e que inexistem créditos para compensação em favor da franqueada, 4. Decidida a demanda com análise do contrato e das provas dos autos, não há como chegar a conclusão diversa, porquanto o STJ não é terceira instância revisora. Incidência das Súmulas 5 e 7 desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.343.618/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. REVOGAÇÃO DE MANDATO. ACORDO. ABRANGÊNCIA. REEXAME FÁTICO. INDENIZAÇÃO. VERBA SUCUMBENCIAL. CONTRATO. ENRIQUECIMENTO ILÍCITO. NÃO CONFIGURADO. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE. AUSENTE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. Rever a conclusão do acórdão estadual, de que no caso dos autos o acordo firmado entre as partes englobou a responsabilidade pelos honorários contratuais e sucumbenciais, encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça.
+4. O reexame de questões decididas com base no contrato esbarra no óbice da Súmula nº 5 do Superior Tribunal de Justiça.
+5. Na hipótese, o dissídio jurisprudencial não restou demonstrado nos moldes legal e regimental ante a ausência de similitude fática entre os arestos confrontados.
+6. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa por litigância de má-fé não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.741.162/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2021, DJe de 7/5/2021.)
+Por fim, esclarece-se que a incidência da Súmula 7/STJ pela alínea "a" também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
