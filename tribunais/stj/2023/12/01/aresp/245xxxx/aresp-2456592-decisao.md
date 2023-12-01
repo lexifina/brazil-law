@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por VALADÃO INDUSTRIA E COMERCIO DE MASSAS EM RECUPERAÇÃO JUDICIAL LTDA, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 272, e-STJ):
+Ação de indenização. Acidente de consumo. Caco de vidro encontrado na torta fabricada pela Autora. Responsabilidade da comerciante afastada em razão da identificação da fabricante. Defeito na produção dos vidros de palmito não comprovado. Ação improcedente. Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (fls. 288-291, e-STJ).
+Nas razões do recurso especial (fls. 293-301, e-STJ), a insurgente alegou que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigo 1022 do CPC, aduzindo omissão no julgado, e ii) artigos 6º, VIII e 12 do CDC, aduzindo que a empresa fabricante deveria ter comprovado a inexistência de defeito no produto, porém, quedou-se inerte, embora a ocorrência do acidente de consumo seja fato incontroverso, extensivamente comprovado pela prova documental acostada.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 329-331, e-STJ), dando ensejo a interposição do presente agravo (fls. 334-344, e- STJ).
+Foi apresentada contraminuta (fls. 347-353, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. A recorrente aponta violação ao artigo 1022 do CPC, sob o argumento de que o Tribunal local incorreu em omissão quanto à alegação de: "que deveriam ter sido analisadas as provas produzidas. De fato, as testemunhas da recorrente, Augusto Giacomin e Sidneide Valdeci Sales, foram uníssonas em afirmar que dentre os ingredientes utilizados na fabricação de torta de palmito e folhado de palmito, somente o palmito adquirido da Sabor Nobre e fabricado pela Braw é envasado em vidro, daí por que a contaminação não pode ter derivado de outra matéria prima." (fl. 298, e-STJ).
+Da leitura do aresto embargado, verifica-se que a alegada violação não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu de forma clara e integralmente a controvérsia, sem omissões, abordando as teses apontadas, porém em sentido contrário ao pretendido pela parte recorrente, como se vê dos seguintes trechos do decisum (fl. 290, e-STJ):
+Não há omissão, contradição ou obscuridade no aresto que objetivamente considerou não comprovado o defeito na fabricação dos vidros de palmito, nos seguintes termos: "Estando a pretensão indenizatória fundada no defeito do produto (acidente de consumo) de que trata o artigo 12 do CDC e considerando o disposto no inciso I do artigo 13, que afasta a responsabilidade do comerciante quando identificado o fabricante, a Sabor Nobre não deve mesmo responder pelos danos, de modo que fica mantida a improcedência do pedido em relação a ela. Tampouco se pode fixar a responsabilidade da fabricante. Um fragmento de vidro, assemelhado ao da embalagem, foi encontrado em uma das tortas produzidas pela Autora e não há uma prova que assegure a presença do caco dentro de uma das embalagens. A quebra de um dos vidros no momento da abertura da tampa poderia provocar o mesmo resultado e não há perícia que possa identificar este fato. O parecer juntado pela Autora é prova unilateral e apenas confirma que o vidro da massa era igual ao da embalagem de palmito, sem qualquer identificação clara da origem do defeito. Em síntese, não se demonstrou o vício do produto, este que constituiu pressuposto da fixação da responsabilidade da fabricante."
+Como visto, a tese da insurgente foi apreciada pelo Tribunal a quo, que a afastou apontando os fundamentos jurídicos para tal, embora contrários à pretensão dos recorrentes. Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)  grifou-se
+AGRAVO INTERNO. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. NEXO CAUSAL. DANO MORAL. OCORRÊNCIA. INDENIZAÇÃO. VALOR. VERIFICAÇÃO. IMPOSSIBILIDADE. SUCUMBÊNCIA. MONTANTE, PERCENTUAL E DECAIMENTO. AVERIGUAÇÃO. INVIABILIDADE. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. CONCLUSÕES ADOTADAS COM FASE EM ELEMENTOS FÁTICOS DOS AUTOS. JUROS E CORREÇÃO MONETÁRIA DOS HONORÁRIOS ADVOCATÍCIOS. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. NÃO PROVIMENTO.
+1. Não configurada a alegada omissão, contradição ou obscuridade, tendo em vista que houve manifestação suficiente e clara acerca dos temas postos em discussão desde a origem.
+2. A reanálise das conclusões acerca do nexo causal, dano moral, valor da indenização, montante, decaimento e percentual de sucumbência e à litigância de má-fé, fundamentadas nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+3. Não havendo esclarecimento suficiente acerca dos motivos aptos à modificação do entendimento adotado pela Corte de origem e da violação dos dispositivos legais trazidos ao debate, inviável o conhecimento do especial pelo óbice da Súmula n.º 284 do STF.
+4. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.139.665/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO CONFIGURADAS. ERRO MATERIAL CONSTATADO. MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. É descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos .
+(EDcl no AgInt no AREsp n. 1.979.004/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)  grifou-se
+Afasta-se, portanto, a alegada ofensa ao artigo 1022 do CPC.
+2. A recorrente aponta ofensa aos artigos 6º, VIII e 12 do CDC, aduzindo que a empresa fabricante deveria ter comprovado a inexistência de defeito no produto, porém, quedou-se inerte, embora a ocorrência do acidente de consumo seja fato incontroverso, extensivamente comprovado pela prova documental acostada.
+A esse respeito, assim concluiu o Tribunal de origem (fls. 274-275, e-STJ):
+Estando a pretensão indenizatória fundada no defeito do produto (acidente de consumo) de que trata o artigo 12 do CDC e considerando o disposto no inciso I do artigo 13, que afasta a responsabilidade do comerciante quando identificado o fabricante, a Sabor Nobre não deve mesmo responder pelos danos, de modo que fica mantida a improcedência do pedido em relação a ela.
+Tampouco se pode fixar a responsabilidade da fabricante. Um fragmento de vidro, assemelhado ao da embalagem, foi encontrado em uma das tortas produzidas pela Autora e não há uma prova que assegure a presença do caco dentro de uma das embalagens.
+A quebra de um dos vidros no momento da abertura da tampa poderia provocar o mesmo resultado e não há perícia que possa identificar este fato.
+O parecer juntado pela Autora é prova unilateral e apenas confirma que o vidro da massa era igual ao da embalagem de palmito, sem qualquer identificação clara da origem do defeito.
+Em síntese, não se demonstrou o vício do produto, este que constituiu pressuposto da fixação da responsabilidade da fabricante.
+Denota-se que o Tribunal local entendeu, com base na análise fático- probatória dos autos, que não se demonstrou o vício do produto, no caso.
+Assim, diante da fundamentação do acórdão recorrido, rever o entendimento do Tribunal de origem - acerca da comprovação, por parte da recorrida, da inexistência de defeito no produto - demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO POR DANO MATERIAIS E MORAIS. DEFEITO NO PRODUTO. NÃO COMPROVADO. DANOS MORAIS. MAJORAÇÃO. REEXAME DE MATÉRIA DE FATO. SÚMULA 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.199.418/ES, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E RESCISÃO CONTRATUAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. DEFEITO NO PRODUTO ADQUIRIDO. NÃO COMPROVAÇÃO. AUSÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. Tendo as instâncias ordinárias, após a acurada análise do acervo probatório dos autos, concluído que as provas apresentadas pelo autor não foram suficientes a dar respaldo aos seus argumentos para responsabilizar a empresa demandada por suposto vício do produto, não se mostra possível modificar tais conclusões na via do recurso especial, em razão do óbice do enunciado n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.855.583/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. QUEDA DE CABELO. PRODUTO COSMÉTICO. FALTA DE DEMONSTRAÇÃO DE DEFEITO OU VÍCIO DE QUALIDADE DO PRODUTO. DANOS MORAIS E MATERIAIS. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ.
+1. Não configura cerceamento de defesa o julgamento da causa sem a produção de prova quando o tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. A reversão do entendimento acarreta a incidência da Súmula nº 7/STJ.
+2. Inviável, em sede de recurso especial, modificar o acórdão recorrido que entendeu não caracterizado o dano moral, tendo em vista que a análise do tema demandaria o reexame do conjunto fático-probatório, procedimento vedado, nos termos da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 132.247/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/2/2014, DJe de 6/3/2014.)  grifou-se
+Incide, no ponto, o óbice da Súmula 7/STJ.
+3. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
