@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto pelo Ministério Público do Estado de Goiás contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado contra o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás na Apelação Criminal n. 5027607-70.2021.8.09.0120.
+Nas razões do recurso especial, aponta-se ofensa aos artigos 33, § 3º, 59, caput e inc. III, 69, caput, e 71, caput, todos do Código Penal, e, ainda, ao art. 619 do Código de Processo Penal, sob o fundamento de: "(1) ausência do pressuposto subjetivo para a caracterização do crime continuado, sobretudo diante da efetiva caracterização da reiteração delitiva profissional; (2) necessidade de fixação de regime de expiação da pena mais severo, em razão da presença de circunstância judicial negativa".
+O recu rso especial não foi admitido pelo Tribunal a quo em razão do óbice da Súmula n. 7 desta Corte Superior (fls. 1563-1565).
+O Ministério Público Federal opinou pelo conhecimento do agravo e provimento do recurso especial (fls. 1658-1693).
+É o relatório. Decido.
+O agravo é tempestivo e reúne as demais condições de admissibilidade, razão pela qual passo à análise do recurso especial.
+Contra o acórdão apelatório, a Acusação opôs embargos de declaração, apontando omissões do julgado quanto ao pedido de afastamento da continuidade delitiva em razão da ausência de unidade de desígnios, bem como à aplicação do regime prisional fechado por força da negativação da circunstância judicial referente à culpabilidade.
+O Colegiado local, ao julgar os aclaratórios, assim ementou, de forma sucinta e genérica (fl. 1498):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. OMISSÃO. 1- Os embargos de declaração devem obediência ao artigo 619, do Código de Processo Penal, vale dizer, somente são cabíveis para expungir do julgamento obscuridades, ambiguidades ou contradições, como também para suprir omissões. Logo, inexistindo qualquer destes vícios no acórdão combatido, impõe-se o seu desprovimento. 2-Embargos de declaração desprovidos.
+Como se vê, o Tribunal a quo, quando do julgamento do recurso integrativo, não se manifestou explicitamente acerca das duas questões veiculadas nos citados embargos. Cabe ressaltar que as referidas questões surgiram quando do provimento da apelação defensiva. Portanto, os embargos de declaração constituíram a primeira oportunidade para que o Parquet pudesse deduzir tais questões.
+Nesse contexto, entende o Superior Tribunal de Justiça que há afronta ao art. 619 do Código de Processo Penal quando o acórdão hostilizado deixa de se manifestar, de forma fundamentada, sobre teses essenciais ao deslinde da controvérsia, o que se coaduna ao caso em exame.
+Nesse sentido:
+" ..
+1. Segundo entendimento deste Sodalício, "A omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal.  ..  Conquanto não esteja o magistrado obrigado a enfrentar todos os questionamentos das partes, havendo obscuridade e contradição sobre questão relevante para o deslinde da controvérsia, deve esta ser resolvida e aclarada em sede de embargos de declaração, sob pena de nulidade do julgado" (REsp 1651656/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/04/2017, DJe 26/04/2017).
+ ..
+3. Assim, ao persistir na omissão  .. , a despeito da oposição de embargos de declaração, o Tribunal de origem prestou tutela jurisdicional deficitária, razão pela qual restou violado o disposto no art. 619 do CPP, sendo necessário o retorno dos autos ao Tribunal de origem, a fim de que se manifeste sobre as matérias aventadas em sede de embargos de declaração.
+4. Agravo regimental desprovido." (AgRg no REsp 1.669.311/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/05/2018, DJe 22/05/2018; sem grifos no original.)
+" ..
+I - Ofende o art. 619 do CPP o acórdão que deixa de analisar as teses lançadas pelo recorrente em sede de embargos de declaração, acerca de contradições, omissões e obscuridades existentes no julgado.
+II - Nulidade do acórdão recorrido, por apresentar violação do dever de pronunciar-se acerca das questões suscitadas ou explicitar as justificativas porque não o fez, devendo ser devolvido ao Tribunal a quo, para que se proceda à apreciação das questões levantadas.
+III - Demais aspectos levantados julgados prejudicados.
+IV - Recurso parcialmente provido, determinar a anulação do acórdão proferido em sede de embargos de declaração, a fim de o julgamento seja renovado pelo Tribunal a quo com a adequada apreciação do recurso  .. . " (REsp 1.188.469/RJ, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 10/04/2012, DJe 19/04/2012; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o julgamento dos embargos de declaração e, por conseguinte, determinar que outro seja proferido pelo Tribunal de origem, com a efetiva apreciação, como entender de direito, das duas omissões apontadas pela Acusação, conforme descritas neste decisum.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. FURTO QUALIFICADO. VIOLAÇÃO DO ART. 619 DO CÓDIGO DE PROCESSO PENAL. OMISSÕES RECONHECIDAS. QUESTÕES DE RELEVÂNCIA AO DESLINDE DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA PROVER O RECURSO ESPECIAL.
