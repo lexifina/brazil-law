@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por LORENI VALDEZ, contra decisão que não admitiu recurso especial (fls. 461/463, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 421, e-STJ):
+LOCAÇÃO DE IMÓVEL - FINS RESIDENCIAIS - EMBARGOS À EXECUÇÃO - Revelia - Ônus da prova - Excesso de execução - Questões já decididas CPC, art. 505 - Preclusão "por judicato" - Arresto incidente sobre aposentadoria e salário - Descabimento - Embargos à execução procedentes - Recurso parcialmente provido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial (fls. 436/450, e-STJ), a recorrente aponta ofensa aos artigos 370, 373, I, e 1022 do CPC/15.
+Sustenta, em síntese: (a) fls. 441/443, e-STJ, negativa de prestação jurisdicional. No mérito, alega que: (b) o recorrido recebeu as chaves do imóvel sem qualquer ressalva, por isso a extinção da execução era medida que se impunha; e que (c) o autor, ora agravado, deixou de instruir a inicial com os documentos necessários para comprovar os fatos constitutivos do seu direito - existência de valores inadimplidos pela executada, ora agravante.
+Contrarrazões (fls. 455/460, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) ausência de ofensa ao artigo 1022 do CPC/15; (ii) não houve demonstração das vulnerações legais suscitadas, e, ademais, (iii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Negativa de prestação jurisdicional.
+Inicialmente, no tocante à apontada violação ao artigo 1022 do CPC/15, deve ser ressaltado que no recurso especial, entre as fls. 441/443, e-STJ, há somente alegação genérica de negativa de prestação jurisdicional, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Ante a deficiente fundamentação do recurso neste ponto, incide a Súmula 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TAXAS CONDOMINIAIS. NATUREZA PROPTER REM DA OBRIGAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ARGUMENTOS GENÉRICOS. INCIDÊNCIA. SÚMULA 284/STF. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. (..) 3. Razões recursais insuficientes para a revisão do julgado. 4. Agravo interno desprovido. (AgInt no REsp 1810156/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/02/2020, DJe 13/02/2020)
+Além disso, não se acolhe a alegada negativa de prestação jurisdicional face a ausência de explicitação, pelo Tribunal a quo, dos artigos de lei sobre os quais assentados os fundamentos de decidir, uma vez que basta a análise das teses jurídicas para fins de prequestionamento.
+2. Mérito.
+Na espécie, a Corte de origem consignou que a responsabilidade pelos débitos executados já decidida em outra demanda.
+Convém colacionar os seguintes excertos do acórdão recorrido (fls. 422/423, e-STJ):
+Os presentes embargos foram opostos à execução de título extrajudicial, fundada em locação de bem imóvel para fins residenciais, na qual o apelante figurou como locador, o interessado Moises como locatário, e a apelada Loreni como fiadora, tendo em vista o inadimplemento dos aluguéis de novembro/2006 a outubro/2007, além das despesas de consumo referentes a este período, dos IPTU"s de março/2007 a outubro/2007 e de taxas do condomínio de outubro/2006. À causa foi atribuído o montante de R$15.216,37.
+E, de acordo com a r. sentença recorrida, os presentes embargos foram julgados procedentes, para "..afastar a exigibilidade de todas as cobranças de alugueres, de despesas condominiais e IPTU em face da embargante, e para declarar a inexistência de título líquido, certo e exigível nos autos da execução respectiva, que fica, desde já extinta. Julgo, pois, extinta também a ação de execução autuada sob o número 021.5694-41/2008.8.26.0100". Diante da sucumbência, responderá o apelante pelas custas, despesas processuais e honorários advocatícios de 10% sobre o valor da causa em relação aos embargos à execução, e de 10% sobre o valor atualizado da execução nos autos principais.
+Regularmente citado, deixou o apelante de apresentar resposta aos embargos à execução, conforme certidão de fls. 241, o que motivou o decreto de revelia.
+A questões relativas à revelia e à responsabilidade pela comprovação da quitação do débito foram objeto do agravo de instrumento nº 2092282-33.2017.8.26.0000, consignando-se que: "a revelia, antes reconhecida, foi repelida quando do julgamento dos embargos de declaração" e "ao contrário do alegado pelos agravantes, não compete ao agravado, exequente, locador, a prova de que não foram pagos os débitos executados, sendo descabida a produção de prova negativa. Ademais, competia aos agravantes (..) a demonstração dos valores reclamados na inicial, cuja prova é a quitação, onde o credor reconhece ter recebido o que lhe era devido, liberando o devedor, não se justificando a alegação de que a cobrança remonta a nove anos" (fls. 384/38).
+Ainda, no agravo de instrumento nº 2225222- 93.2016.8.26.0000, decidiu-se sobre o excesso de execução quanto ao IPTU, afastando a exigibilidade do tributo referente aos meses de novembro e dezembro/2007.
+Assim, operou-se a preclusão consumativa "pro judicato", nos termos do artigo 505, do CPC, que impede ao juiz a reapreciação de questões já solucionadas no curso do processo, impossibilitando, via de consequência, que a discussão judicial se torne eterna, garantindo a segurança e estabilidade das relações jurídicas.
+E, não há excesso quanto à cobrança das taxas condominiais, sendo irrelevante a quitação do débito pelo apelante.
+Ocorre, com relação à fundamentação delineada pela Corte de origem acerca da existência de coisa julgada, não houve impugnação suficiente nas razões do recurso especial.
+Desse modo, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF.
+Ademais, reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC/15, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
