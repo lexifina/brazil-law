@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto por BANCO DA AMAZÔNIA SA, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Tocantins, assim ementado (fl. 441):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RENEGOCIAÇÃO E LIQUIDAÇÃO DE DÍVIDAS DE CREDITO RURAL. ARTIGO 12 DA LEI N. 13.340/16. HONORÁRIOS DE SUCUMBÊNCIA. RESPONSABILIDADE DE CADA PARTE. LEI ESPECIAL. NÃO APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. SENTENÇA MANTIDA.
+1. A Lei Federal n.º 13.340/16 autorizou a liquidação e renegociação de dívidas de crédito rural, com previsão expressa em seu artigo 12 quanto a não condenação das partes envolvidas em acordos de renegociação de dívida no pagamento de honorários sucumbenciais aos patronos da parte contrária, cabendo a cada parte a responsabilidade sobre tais pagamentos.
+2. Considerando tratar-se de lei especial sobre o tema, com regra específica sobre os ônus da sucumbência, não se há falar na aplicação do princípio da causalidade no presente feito, contido na regra geral do Código de Processo Civil. De rigor a aplicação do artigo 12, da Lei 13.340/16.
+3. Recurso conhecido e não provido.
+Nas razões do recurso especial, o agravante alega violação ao art. 12 da Lei nº 13.340/16, bem como divergência jurisprudencial, sustentando, em síntese, que "evidente que foi prestigiado o princípio da causalidade em ambas as situações, bem como o artigo 12 de lei 13.340 deve ser interpretado em consonância com os demais dispositivos legais que regulam a espécie, tanto assim que o Legislador mencionou na parte final que a falta de pagamento não obsta a liquidação ou repactuação da dívida. Tanto as custas, quanto os honorários são de responsabilidade de quem deu causa a extinção da ação, razão pela qual o ônus deve ser suportado pelo Autor: "os honorários advocatícios e as despesas com custas processuais são de responsabilidade de cada parte e a falta de seu pagamento não obsta a liquidação ou repactuação da dívida". Pois bem se a própria lei estabelece que a falta de pagamento não obsta a renegociação, reconhece explicitamente que não existe extinção da obrigação, mas que a falta de pagamento não obsta a liquidação da dívida" (fl. 458).
+É o relatório. Passo a decidir.
+Eis os fundamentos da Corte a quo, in verbis:
+Este Egrégio Tribunal de Justiça, inclusive por esta Turma Julgadora, sedimentou o entendimento segundo o qual, nas liquidações e renegociações de dívidas provenientes de crédito rural, como é o caso destes autos, deve ser aplicada a regra do artigo 12 da Lei n. 13.340/2016, o que afasta, por conseguinte, a condenação do recorrido ao pagamento dos honorários advocatícios sucumbenciais.
+Trago precedente elucidativo desta Corte de Justiça e da lavra do eminente relator, por mim acompanhado:
+(..)
+Correta, portanto, a sentença vergastada, pois, de acordo com a Lei n. 13.340/2016 - que, pelo critério da especialidade, prevalece sobre o Código de Processo Civil -, o princípio da causalidade deve ser afastado.
+A decisão está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+Vejamos:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 12 DA LEI N. 13.340/2016. CÉDULA DE CRÉDITO RURAL. RENEGOCIAÇÃO DE DÍVIDA. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. NÃO CABIMENTO.
+1- Recurso especial interposto em 26/06/2019 e concluso ao gabinete em 09/04/2021.
+2- O propósito recursal consiste em dizer se, nos termos do art. 12 da Lei n. 13.340/2016, a extinção da execução em virtude da renegociação de dívida fundada em cédula de crédito rural impõe à parte executada o dever de arcar com as custas processuais e os honorários advocatícios em favor dos patronos da parte exequente.
+3- A condenação ao pagamento de honorários advocatícios é uma consequência objetiva da extinção do processo, sendo orientada, em caráter principal, pelo princípio da sucumbência e, subsidiariamente, pelo da causalidade.
+4- Por opção de política legislativa, há normas especiais que excepcionam a aplicação dos princípios da sucumbência e da causalidade, isentando as partes do pagamento da verba honorária e, até mesmo, das custas e despesas processuais.
+5- Ante o disposto no art. 12 da Lei 13.340/2016, a extinção da execução em virtude da renegociação de dívida fundada em cédula de crédito rural não impõe à parte executada o dever de arcar com as custas processuais e os honorários advocatícios em favor dos patronos da parte exequente.
+6- Recurso especial não provido.
+(REsp n. 1.930.865/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULAS DE CRÉDITO RURAL PIGNORATÍCIAS E HIPOTECÁRIAS. RENEGOCIAÇÃO DA DÍVIDA. EXTINÇÃO DO PROCESSO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. PREVISÃO ESPECÍFICA DO ART. 12 DA LEI 13.340/2016.
+1. Embargos à execução opostos em 30/11/2011. Recurso especial interposto em 06/02/2019 e concluso ao Gabinete em 16/09/2019.
+2. O propósito recursal consiste em dizer se, em razão da renegociação, realizada com fundamento na Lei 13.340/16, de dívida inscrita em cédulas de crédito rural pignoratícias e hipotecárias, com a consequente extinção dos embargos à execução, devem os executados-embargantes ser condenados a pagar honorários advocatícios em favor dos patronos do Banco exequente-embargado.
+3. A condenação do vencido ao pagamento de honorários advocatícios surgiu, por razão de equidade, como fator de recomposição do patrimônio do vencedor, a fim de que este recebesse, ao final do processo, não apenas o direito material vindicado, mas, também, a restituição das despesas em que incorreu no curso da demanda, de modo a se restabelecer a situação econômica que teria se não fosse o litígio.
+4. A destinação dos honorários de sucumbência ao advogado do vencedor tratou-se de opção do legislador infraconstitucional, ao editar o art. 23 da Lei 8.906/94 (Estatuto da Advocacia).
+5. De modo semelhante, por opção de política legislativa, há normas especiais que excepcionam a aplicação dos princípios da sucumbência e da causalidade, isentando as partes do pagamento da verba honorária, até mesmo das custas e despesas processuais.
+6. Nesse sentido, optou o legislador, ao editar a Lei 13.340/2016 - que trata de plano de recuperação de dívidas de crédito rural -, por não incrementar o dispêndio financeiro das partes, em especial do agricultor mutuário, com o pagamento de honorários advocatícios à parte adversa. Aplicação da norma especial que afasta a incidência da regra geral.
+7. Recurso especial conhecido e não provido.
+(REsp n. 1.836.470/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/2/2021, DJe de 5/2/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. RENEGOCIAÇÃO DE DÍVIDA. ART. 12 DA LEI 13.340/2016. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. NÃO CABIMENTO. REVOGAÇÃO DO MANDATO DO ADVOGADO. HONORÁRIOS SUCUMBENCIAIS. AJUIZAMENTO DE AÇÃO AUTÔNOMA. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Nos termos do art. 12 da Lei 13.340/2016, a extinção da execução em virtude da renegociação de dívida fundada em cédula de crédito rural e decorrente de acordo bilateral entre as partes não caracteriza sucumbência e é resultado da conduta de ambas as partes, de modo que os honorários devem ser arcados por cada parte, em relação a seu procurador (arts. 90, § 2º, do CPC/2015 e 12 da Lei 13.340/2016).
+2. Havendo extinção do feito pela homologação de acordo entre as partes antes do trânsito em julgado da sentença, não mais subsistem os honorários sucumbenciais nela fixados. Precedentes.
+3. A jurisprudência desta Corte de Justiça consagra orientação de que é indevida a execução de honorários advocatícios sucumbenciais nos próprios autos da ação principal em relação a advogado que teve seu mandato revogado, devendo este, se assim desejar, promover ação autônoma.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.874.077/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/11/2021, DJe de 3/12/2021.)
+Dessa forma, verifica-se que a Corte de origem decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
