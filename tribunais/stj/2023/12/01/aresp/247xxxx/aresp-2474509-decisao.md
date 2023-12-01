@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 83/STJ.
+Sustenta o agravante, em síntese, que "A Defesa procurou demonstrar nas razões do REsp que, in casu, embora não tenha sido efetuada a perícia do artefato apreendido, os depoimentos dos policiais militares são suficientes para demonstrar ou mesmo causar dúvidas de que a arma utilizada na prática delitiva era inoperante, o que ocasionou lacuna acerca da comprovação da potencialidade lesiva da arma de fogo" (fl. 404).
+Requer, por essas razões, o provimento do agravo, a fim de que o recurso especial seja conhecido e provido para afastar a majorante do emprego de arma de fogo.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento do agravo para negar seguimento ao recurso especial.
+No caso, a despeito das razões apresentadas, o agravante não rebateu a contento o óbice da Súmula n. 83/STF.
+Insiste o agravante na tese de que não comprovada ou havendo dúvidas da potencialidade lesiva da arma empregada na prática delitiva, deve ser afastada a respectiva majorante. Contudo, há muito, esse não é o entendimento que vigora nessa Corte, a qual já se manifestou de maneira reiterada no sentido de que "mesmo após a superveniência das alterações trazidas, em 24/5/2018, pela Lei n. 13.654/2018, essa Corte Superior, no que tange à causa de aumento do delito de roubo prevista no art. 157, § 2º, I , do Código Penal - nos casos em que utilizada arma de fogo -, manteve o entendimento exarado por sua Terceira Seção, no sentido de ser desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva, uma vez que seu potencial lesivo é in re ipsa (AgRg no HC 473.117/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/2/2019, DJe 14/2/2019)" (HC n. 729.649/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/4/2022, DJe de 8/4/2022)." (AgRg no AREsp n. 2.100.469/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+Comprovado, portanto, o efetivo emprego de arma de fogo na prática delitiva, torna-se desnecessário atestar o potencial lesivo do artefato que, em casos como o tal, presume-se.
+Assim, é, de fato, aplicável ao caso a Súmula n. 83/STJ, porquanto o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
