@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 455):
+APELAÇÃO CRIMINAL - FURTO SIMPLES (ARTIGO 155, CAPUT, DO CÓDIGO PENAL) - PLEITO ABSOLUTÓRIO POR ATIPICIDADE DA CONDUTA, COM ESTEIO NO PRINCÍPIO DA INSIGNIFICÂNCIA- NÃO INCIDÊNCIA - RÉU MULTIRREINCIDENTE ESPECÍFICO E PORTADOR DE MAUS ANTECEDENTES - CIRCUNSTÂNCIAS QUE DEMONSTRAM MAIOR REPROVABILIDADE DE SEU COMPORTAMENTO - HABITUALIDADE DELITIVA - PRECEDENTES - ALMEJADO RECONHECIMENTO DA TENTATIVA- IMPOSSIBILIDADE - DELITO CONSUMADO PELA INVERSÃO DA POSSE, AINDA QUE POR CURTO LAPSO TEMPORAL - TEORIA DA AMOTIO OU APPREHENSIO - EXEGESE DA SÚMULA 582 DO STJ - RECURSO CONHECIDO E NÃO PROVIDO.
+Sustenta o recorrente, em suma, violação do art. 386, III, do CPP, tendo em vista a atipicidade material da conduta, ante a aplicação do princípio da insignificância.
+Contrarrazoado e admitido, o Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+DECIDO.
+O recorrente foi condenado, em 1º Grau, como incurso no art. 155, caput, do Código Penal, às penas de 1 ano e 4 meses de reclusão, em regime semiaberto, e 13 dias-multa.
+Interposta apelação, foi negado provimento ao recurso.
+Relativamente à aplicação do princípio da insignificância, o acórdão encontra-se assim fundamentado (fls. 457-462):
+Pleito absolutório - princípio da insignificância
+A defensora busca a absolvição do apelante sustentando a atipicidade da conduta, com a consequente aplicação do princípio da insignificância.
+Sem razão, contudo.
+O postulado da insignificância tem por objetivo evitar que o Estado exerça seu em situações que jus puniendi não tragam grave lesão ao bem jurídico tutelado, funcionando como causa de exclusão da tipicidade da conduta.
+Por se tratar de princípio que visa abarcar condutas que, em um primeiro momento, amoldam-se objetivamente ao tipo penal, deve ter interpretação restritiva, tendo o excelso Supremo Tribunal Federal desenvolvido alguns vetores de aplicação, dentre eles os seguintes: a) mínima ofensividade da conduta do e agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento d) inexpressividade da lesão jurídica.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE FURTO. ARTIGO 155 DO CÓDIGO PENAL. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. ALEGADA ATIPICIDADE DA CONDUTA. REITERAÇÃO DELITIVA. INSUSCETIBILIDADE DE RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO- PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (a) mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) grau reduzido de reprovabilidade do comportamento, e (d) inexpressividade da lesão jurídica provocada.
+(..) (HC 174477 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 25/10 /2019, PROCESSO ELETRÔNICO DJe-251 DIVULG 18-11-2019 PUBLIC 19-11- 2019)
+Sobre o assunto, Luiz Regis Prado leciona que: "através do princípio da insignificância, formulado por ClausRoxin e relacionado com o axioma mínima non cura praeter, enquanto manifestação contrária ao uso excessivo da sanção criminal, devem ser tidas como atípicas as ações ou omissões que afetem muito infimamente um bem jurídico-penal. A irrelevante lesão do bem jurídico protegido não justifica a imposição de uma sanção penal, devendo ser excluída a tipicidade material em caso de danos de pouca importância. O . Desse modo, conceito do que seja insignificante é extremamente fluido e de incontestável amplitude por exemplo, no delito de furto de objetos de valor irrisório (..) quando se constata a existência do desvalor de ação e do desvalor do resultado, não é possível afastar sem mais nem menos a tipicidade da conduta com base em uma diretriz político-c riminal extremamente insegura. No caso de aplicação do princípio da insignificância, como excludente de tipicidade, no contexto de apoucada, diminuta ou irrelevante lesão ao bem jurídico, deve-se proceder com a máxima cautela no sentido de valorar corretamente - de acordo com a realidade sócio econômica média existente em determinada comunidade - o conteúdo da insignificância, evitando assim possível lesão ao princípio da segurança jurídica".
+No caso em apreço, embora a importância da não ultrapasse 10% do valor do salário mínimo à res furtiva época dos fatos - R$ 13,90 (treze reais e noventa centavos) - e o fato de o objeto subtraído ter sido restituído à vítima, evidencia-se o elevado desvalor da conduta do réu. Senão, veja-se O apelante possui o total de três condenações definitivas pela prática de crimes patrimoniais e tráfico de drogas (mov. 145.1):
+1. autos nº 0001315-29.2016.8.16.0019, furto praticado em 21/01/2016, com trânsito em julgado em 16/07 /2018;
+2. autos nº 0036829-09.2017.8.16.0019, tráfico de drogas praticado em 24/09/2017, com trânsito em julgado em 26/04/2019;
+3. autos nº 0006454-20.2020.8.16.0019, furto praticado em 18/02/2020, com trânsito em julgado em 17/11 /2020).
+A condenação nos foi considerada como maus antecedentes e as autos nº 0001315-29.2016.8.16.0019, demais como reincidência.
+Frise-se que duas das condenações se referem a crimes de furto, tratando-se, portanto, de agente contumaz na prática de crimes contra o patrimônio.
+Como se sabe, os Tribunais Superiores não consideram a reincidência como sendo um impeditivo absoluto para a aplicação da insignificância, e, nesses casos, levam em consideração as peculiaridades do caso em concreto. Porém, a acumulação de condenações evidencia que o agente faz da criminalidade um meio de vida, o que poderia incentivar o descumprimento da norma penal.
+Em sendo assim, a análise conjunta dessas duas circunstâncias impede o reconhecimento da atipicidade da conduta por aplicação do princípio da insignificância, pois revela a habitualidade criminosa e consequente . desvalor da conduta.
+Nesse sentido versa a jurisprudência do Supremo Tribunal Federal, ao afastar a incidência do princípio ora em análise para acusados reincidentes e possuidores de maus antecedentes, com o intuito de se tornarem agentes contumazes na prática criminosa.
+Confira-se:
+ ..
+Desta feita, embora a realmente seja de pequeno valor, não é possível aplicar o princípio da res furtiva insignificância da conduta como pretende a defesa.
+Sedimentou-se a orientação jurisprudencial, nesta Corte e no Supremo Tribunal Federal, de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+No caso, embora se trate de réu reincidente, o valor ínfimo da res furtiva, consistente em 1 kit, contendo um xampu e um condicionador, avaliados em R$ 13,90, equivalente a 1,26% do salário mínimo vigente à época, o qual foi restituído, não justifica a não aplicação do princípio da insignificância, não obstante se trate de réu reincidente.
+Entende esta Corte que "a existência de anotações criminais anteriores, por si só, não exclui a possibilidade de aplicação do princípio da insignificância, mas deve ser sopesada junto com as demais circunstâncias fáticas, admitindo-se a incidência do aludido princípio ao reincidente em situações excepcionais" (AgRg no REsp n. 1.988.544/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022).
+Ante o exposto, dou provimento ao recurso especial para, reconhecendo a atipicidade material da conduta, cassar o acórdão recorrido, absolvendo o recorrente nos termos do art. 386, III, do CPP .
+Publique-se.
+Intimem-se.
+EMENTA
