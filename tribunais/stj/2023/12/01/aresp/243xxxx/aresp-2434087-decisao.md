@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por AC ENGENHARIA LTDA contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fls. 489-491 e-STJ):
+Apelação Cível - Ação de Indenização por Danos Materiais e Morais - Empreendimento imobiliário - Sentença de parcial procedência - Condenação da requerida em danos materiais e morais - Insurgência recursal da parte ré - Condomínio QualyVida Club Residence - Vício de Construção - Defeitos na execução da obra - Construção de shaft em parede de gesso (dry wall), em discrepância com o previsto no memorial descritivo, sem anuência do proprietário - Relação de consumo - Prejudicial de mérito - Decadência - Inaplicabilidade - Pretensão indenizatória - Sujeição à prescrição - Prazo decenal - Art. 205 do CC/2002 - O prazo de ajuizamento de ação de indenização relativa a vícios de construção é de dez anos - Prescrição - Inocorrência - Mérito - Prova pericial que comprovou a ocorrência de vício de construção passível de reparação - Responsabilidade Civil Objetiva - Indenização material devida e demonstrada - Dano Moral - Configurado - Redução do valor da indenização extrapatrimonial de R$ 5.000,00 (cinco mil reais) para R$ 2.000,00 (dois mil reais) - Sentença reformada, em parte - Recurso de Apelação conhecido e provido, em parte.
+Sem oposição de embargos de declaração.
+Em suas razões de recurso especial (fls. 509-541 e-STJ), a recorrente aponta violação ao art. 26, inc. II, §§ 1º e 2º, do Código de Defesa do Consumidor, defendendo, em suma, "o decurso do prazo decadencial para reclamação pelo consumidor dos alegados vícios construtivos verificados no apartamento adquirido, razão pela qual mister o reconhecimento da decadência operada sobre o direito do Recorrido".
+Contrarrazões às fls. 545-558 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 566-573 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência do óbice da Súmula 7/STJ.
+Daí o agravo (fls. 578-611 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Não foi apresentada contraminuta, conforme certidão à fl. 613 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal à verificação acerca da implementação do prazo decadencial no caso dos autos.
+O Tribunal local, ao analisar a questão jurídica, afastou a ocorrência de decadência do direito do autor, sob a seguinte fundamentação (fls. 497-499 e-STJ):
+No caso dos autos, o autor pleiteou a reparação de vícios decorrentes de construção, pugnando pela condenação da requerida ao pagamento de indenização por danos materiais no importe de R$ 5.460,00, referentes aos prejuízos sofridos, bem como ao pagamento de indenização por danos morais. (..).
+De certo, vislumbra-se que o presente processo possui pretensão indenizatória, sujeita à prescrição e não à decadência.
+Desta feita, cabe registrar que, até mesmo em virtude da natureza da pretensão exposta pela autora na ação de origem (condenação à obrigação de fazer e à indenização por danos materiais), não seria possível cogitar da aplicação de prazo decadencial no presente caso, considerando que a decadência está associada apenas às demandas de cunho constitutivo ou desconstitutivo.
+Nesse contexto, quando a pretensão é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência de prazo decadencial. A ação, tipicamente condenatória, sujeita-se a prazo de prescrição.
+Cito, mais uma vez, a jurisprudência do Superior Tribunal de Justiça, a qual orienta que, no caso de reparação civil fundada em relação contratual estabelecida entre as partes, com verificação de vício na construção, o prazo prescricional para exercício do direito de ação é de dez anos, nos termos do art. 205 do CC/2002  (AgInt no AREsp 125.934/SP,Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em22/05/2018, DJe 29/05/2018).
+Por conseguinte, sendo indubitável que a ação em tela envolve pretensão indenizatória e não mera ação de cunho constitutivo ou desconstitutivo, a meu ver incide o prazo prescricional de 10 (dez) anos, capitulado no art. 205 do CC/2002, in verbis:
+Art. 205. A prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor.
+Volvendo o olhar para o caso em testilha, observo que entre a data de entrega do empreendimento (07/01/2016) e o ajuizamento da ação (14/10/2019), não transcorreu o prazo de prescrição.
+Por consequência, não há que se falar em decadência ou prescrição, motivo pelo qual rejeito a prejudicial de mérito suscitada.
+Com efeito, segundo orientação do Superior Tribunal de Justiça, "a pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional" (AgInt no AREsp 1.893.715/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/03/2022, DJe 31/03/2022).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. 1. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 2. VÍCIOS DE CONSTRUÇÃO. PRAZO DECADENCIAL. INAPLICABILIDADE. PRECEDENTES. SÚMULA 83/STJ. 3. PRAZO PRESCRICIONAL NÃO IMPLEMENTADO. REVISÃO. SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282/STF e 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+2. Segundo orientação do Superior Tribunal de Justiça, "a pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional" (AgInt no AREsp 1.893.715/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe 31/3/2022).
+2.1. Com efeito, a Corte estadual, aplicando o entendimento deste Superior Tribunal, concluiu por afastar a alegada preliminar de decadência em virtude da existência de pleito indenizatório, no qual há aplicação de prazo prescricional. Incidência da Súmula 83/STJ.
+3. Além disso, no caso, insta salientar que, concluindo a Corte estadual pela inexistência de implementação do prazo prescricional, descabe a este Tribunal Superior rever o fundamento adotado, uma v ez que seria necessário o revolvimento de fatos e provas, o que é vedado pela Súmula 7/STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.327.251/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. VÍCIOS DE CONSTRUÇÃO. DECADÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PRAZO PRESCRICIONAL DECENAL.
+1. Ação de obrigação de fazer. 2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração 3. O reexame de fatos e provas em recurso especial é inadmissível 4. A pretensão do consumidor de ser indenizado pelo prejuízo decorrente da entrega de imóvel com vícios de construção se sujeita ao prazo prescricional decenal. Precedentes. 5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.209.459/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. VÍCIO OCULTO. DECADÊNCIA INAPLICABILIDADE. PRESCRIÇÃO DECENAL A PARTIR DO CONHECIMENTO DO VÍCIO. ENTEDIMENTO DO ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Consoante o entendimento firmado pela e. Terceira Turma, a pretensão do consumidor de ser indenizado pelo prejuízo decorrente da entrega de imóvel com vícios de construção não se sujeita a prazo decadencial, quer previsto no Código Civil, quer previsto no CDC (AgInt no REsp n. 1.918.636/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+2. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que é decenal o prazo prescricional da ação para obter, do construtor, a indenização por defeito na obra, na vigência do Código Civil de 2002 (AgInt no AREsp n. 1.909.182/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/6/2022, DJe de 17/6/2022). Agravo improvido.
+(AgInt no AREsp n. 1.997.908/RO, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Portanto, incide o óbice da Súmula 8 3/STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por fim, tendo em vista a fixação dos honorários sucumbenciais no percentual máximo estabelecido no § 2º do art. 85 do CPC, deixo de majorá-los nesta oportunidade.
+Publique-se.
+Intimem-se.
+EMENTA
