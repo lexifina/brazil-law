@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO NORDESTE DO BRASIL SA , com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONSTITUIÇÃO DE TÍTULO EXECTIVO JUDICIAL. CONTRATO DE NOTA DE CRÉDITO.
+VALOR ATUALIZADO. CORREÇÃO MONETÁRIA E JUROS DE MORA. A finalidade precípua da ação monitória é alcançar a formação de título executivo judicial, de forma mais rápida do que na ação condenatória convencional. Estando o débito devidamente atualizado até novembro de 2012, a correção e juros de mora, devem incidir desde o mês seguinte, sob pena de incorrer em bis in idem." (e-STJ,fl. 68)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 84/88)
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 1.022, II e 494, II, 498, §1º, IV, do CPC/2015, arts. 701, §2º do CPC e Súmula 381 do STJ, sustentando, em síntese: 1) omissão no acórdão recorrido quanto à incidência dos juros remuneratórios e moratórios nos percentuais cobrados pelo recorrente; 2) a revisão do instrumento de crédito que formará o título executivo judicial depende da provocação das partes, não podendo o Tribunal de origem alterar os encargos contratuais de ofício, como ocorrera no caso, sob pena de nulidade.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa aos arts. 1.022, II e 494, II, 498, §1º, IV, do CPC/2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia relativa à incidência dos juros remuneratórios e moratórios nos percentuais cobrados pelo recorrente, nos seguintes termos:
+"Atente-se que atualizada a dívida para instruir o procedimento monitório, que se trata de tipo especial de ação de cobrança, sobre o valor incide o disposto na Lei 6.889181, não havendo que se impor a incidência dos encargos contratuais após o ajuizamento da ação." (e-STJ fl. 87)
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Já quanto à alegação de que a revisão do instrumento de crédito que formará o título executivo judicial depende da provocação das partes, não podendo o Tribunal de origem alterar os encargos contratuais de ofício, como ocorrera no caso, sob pena de nulidade, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
