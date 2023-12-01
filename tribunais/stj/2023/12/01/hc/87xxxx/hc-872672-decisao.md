@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de DIEGO HENRIQUE PEREIRA LUIZ em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Habeas Corpus. Alegado constrangimento ilegal em razão de descumprimento da Súmula Vinculante 56 e da Resolução 474/2022-CNJ. Inocorrência. Dispensabilidade, na hipótese, de prévia expedição de mandado de intimação para que o sentenciado cumpra sua pena, diante da existência de vaga para o cumprimento de pena no regime adequado. Juízo, na hipótese, assegurou junto à SAP a existência da vaga previamente à expedição do mandado, frisando-se o regime a ser cumprido, bem como a proibição de alocar o paciente em regime mais gravoso para aguardar vaga. Inexistência de ilegalidade ou ato coator a ensejar a denegação da ordem. Ordem denegada liminarmente.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que deixou de ser observada a Resolução n. 474/2022 do CNJ, em razão de ter sido determinada a expedição de mandado de prisão para cumprimento da pena em regime semiaberto sem a prévia intimação do sentenciado.
+Aduz ainda, que o j uízo da execução oficiou previamente à Secretaria de Administração Penitenciária, solicitando informações acerca da existência de vagas no regime semiaberto, contudo, a despeito de constar na resposta que a autoridade penitenciária disponibilizaria vaga para o cumprimento da pena, não há certeza acerca de sua efetiva existência atualmente.
+Requer, em suma, que seja expedido contramandado de prisão ou alvará de soltura e concedida a prisão domiciliar até que sobrevenha a existência de vaga no regime adequado.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+No mais, conforme consta dos autos e da decisão guerreada, a Secretaria de Administração Penitenciária informou que há vaga reservada no regime intermediário, disponível tão logo o paciente venha a ser capturado. A definição da Unidade depende de critérios de análise do perfil do sentenciado, tais como "situação processual, regime de cumprimento de pena e proximidade com o local de apresentação"
+ ..
+Portanto, respeitado o entendimento da d. Defesa, no caso, não se vislumbra, para o cumprimento da Súmula Vinculante 56 - que deu origem à criação das referidas normas infralegais, sendo o norte delas - a imprescindibilidade da intimação prévia do sentenciado, tampouco utilidade prática em se exigir tal providência ao juízo das execuções, visto que a autoridade impetrada salvaguardou, previamente, a existência de vaga ao paciente no regime que lhe é de direito (fls. 75-77).
+Segundo entendimento firmado nesta Corte, sendo a pessoa condenada em regime aberto ou semiaberto, deve ser intimada para dar início ao cumprimento da pena antes da expedição de mandado de prisão, nos termos da Resolução n. 474/CNJ, a fim de que o apenado não seja recolhido em regime mais severo que o previsto no édito condenatório enquanto a guia de execução definitiva é elaborada.
+Contudo, na espécie não há que se falar em constrangimento ilegal pois, conforme se extrai do acórdão impugnado, o mandado de prisão só teria sido expedido porque foi atestada a existência de vaga em estabelecimento compatível com o regime fixado na sentença condenatória.
+Ademais, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca das condições atuais para o cumprimento da pena seria necessário o reexame da prova, inviável na via estreita dos habeas corpus.
+Conclui-se, assim, que no caso em a nálise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
