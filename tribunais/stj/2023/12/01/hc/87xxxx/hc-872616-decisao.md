@@ -1,0 +1,22 @@
+DECISÃO
+CARLOS HUMBERTO DA SILVA alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal Regional Federal da 1ª Região na Apelação n. 0003124-28.2016.4.01.3601.
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 9 anos, 8 meses e 7 dias de reclusão, em regime fechado, mais multa, como incurso no art. 33, caput, da Lei de Drogas.
+O Tribunal de origem deu parcial provimento ao recurso da defesa, reconheceu a minorante do tráfico e reduziu a reprimenda para 6 anos, 8 meses e 20 dias de reclusão, em regime fechado, mais multa.
+Busca a defesa a incidência do privilégio em maior patamar e a determinação de remessa dos autos ao Ministério Público para análise de ANPP.
+Decido.
+Inicialmente, observo que as questões relacionadas ao Acordo de Não-persecução Penal, não foram apreciadas no acórdão combatido ou nos embargos declaratórios, o que inviabiliza sua análise nesta oportunidade, por configurar supressão de instância.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+Na hipótese, a escolha da fração mínima de redução foi lastreada periculosidade e sofisticação da conduta do réu, circunstância que entendo idônea, consoante a jurisprudência desta Corte Superior, para justificar a escolha do patamar mínimo. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REDUÇÃO EM PATAMAR MÍNIMO. CONDIÇÃO DE MULA. CIRCUNSTÂNCIAS DO CASO CONCRETO. REGIME MAIS GRAVOSO JUSTIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turma deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena, devem ser orientadoras do cálculo da minorante as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+3. A redução de 1/6 é a adequada ao caso concreto, pois trata-se de réu que desempenhou papel importante na cadeia delitiva de distribuição das drogas destinada ao tráfico internacional, com expressiva quantidade de entorpecente (8 kg de cocaína), em empreitada criminosa que demonstra sofisticação e complexidade suficientes para ensejar a aplicação da fração mínima de redução.
+4. A existência de circunstância judicial desfavorável, que ensejou a exasperação da pena-base - quantidade de droga apreendida - é dado suficiente para lastrear o agravamento do regime inicial de cumprimento de pena e a impossibilidade da substituição por restritiva de direitos.
+5. Agravo regimental não provido.
+(AgRg no HC n. 835.584/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe de 3/11/2023).
+Uma vez que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do julgador e é regulada pelos critérios da razoabilidade e da proporcionalidade, não constato flagrante ilegalidade na hipótese.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
