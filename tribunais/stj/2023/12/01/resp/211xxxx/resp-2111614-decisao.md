@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DAIANE LIMA DA COSTA MENDES, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 23/1/2023.
+Concluso ao gabinete em: 24/11/2023.
+Ação: declaratória de inexigibilidade de débito cumulada com pedido de compensação por danos morais, ajuizada pela recorrente em face de FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - NPL-1, na qual alega que foi surpreendida com inclusão indevida de seu nome junto aos órgãos de proteção ao crédito, ante a inexistência de relação jurídica entre as partes, e que não recebeu qualquer notificação acerca da possibilidade de inclusão de seu nome nos referidos cadastros.
+Sentença: julgou procedentes os pedidos iniciais, para: i) confirmar a tutela antecipada concedida; ii) declarar a inexigibilidade dos débitos decorrentes dos contratos nºs 4551841017660012 e 4375241-0000650; e iii) condenar a ré ao pagamento de compensação por danos morais no valor de R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento ao recurso de apelação interposto pela parte recorrente e deu provimento ao recurso de apelação interposto pela parte recorrida, nos termos da seguinte ementa:
+APELAÇÃO DO RÉU - Ação declaratória cumulada com pedido indenizatório - Pedidos iniciais acolhidos para declarar a inexigibilidade do débito e condenar o réu no pagamento do montante de R$10.000,00, a título de danos morais - Pleito de reforma - Possibilidade - Legítimas inscrições preexistentes - Apontamentos anteriores - Incidência da Súmula nº 385, do Superior Tribunal de Justiça - Entendimento sedimentado pelo C. Superior Tribunal de Justiça, no julgamento de Recurso Especial Representativo de Controvérsia, submetido à sistemática do art. 543-C, do Código de Processo Civil de 1973 - Dano moral - afastado - Recurso provido.
+RECURSO DA AUTORA - Pretensão quanto à majoração da verba indenizatória e fixação de juros moratórios a contar da restrição - Impossibilidade - Dano moral afastado - Recurso improvido.
+Dispositivo: deram provimento ao recurso do réu e negaram provimento ao da autora.
+Recurso especial: aponta violação ao art. 85, §§ 8º e 8º-A, do CPC, além de dissídio jurisprudencial.
+Sustenta, em síntese, que "para a fixação equitativa de honorários sucumbenciais o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite de 10% (dez por cento) estabelecido no §2º deste mesmo artigo, aplicando-se o que for a maior" (e-STJ fls. 242/243).
+Afirma que "a decisão recorrida afronta a legislação vigente, fixando honorários a menor do estabelecido em lei, em especial, se considerando que para casos consumeristas a Tabela de Honorários da Ordem dos Advogados do Brasil1 fixa o mínimo de R$ 5.058,54 (cinco mil e cinquenta e oito reais e cinquenta e quatro centavos), já o limite de 10% do valor da causa alcança a monta de R$ 5.717,86 (cinco mil, setecentos e dezessete reais e oitenta e seis centavos), sendo determinação de lei a aplicação do valor que for maior" (e-STJ fl. 243).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto ao art. 85, §§ 8º e 8º-A, do CPC, indicado como violado, no que se refere aos valores ou limite a serem observados pelo juiz para fins de fixação equitativa dos honorários sucumbenciais, não tendo a referida parte oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 282/STF.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, a alegada violação do art. 85, §§ 8º e 8º-A, do CPC, indicado como violado, no que se refere aos valores ou limite a serem observados pelo juiz para fins de fixação equitativa dos honorários sucumbenciais, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no REsp 909.113/RS, 3ª Turma, DJe 2/5/2011 e AgRg no Ag 781.322/RS, 4ª Turma, DJe 24/11/2008.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em R$ 200,00 (duzentos reais) os honorários fixados anteriormente, devidos pela parte recorrente, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação declaratória de inexigibilidade de débito cumulada com pedido de compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+4. Recurso especial não conhecido.
