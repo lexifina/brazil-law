@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de conflito de competência com pedido liminar suscitado por IMPRESSORA BRASIL LTDA., em recuperação judicial, em que aponta como suscitados o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE JAÚ (SP) e o JUÍZO DA 1ª VARA DO TRABALHO DE JAÚ (SP).
+A recuperação judicial foi deferida pelo Juízo de Direito da 2ª Vara Cível de Jaú (SP), com a determinação de suspensão das ações e execuções movidas contra a requerente.
+Alega a suscitante que, a despeito do deferimento da recuperação judicial, o Juízo da 1ª Vara do Trabalho de Jaú (SP), nos autos da Reclamação Trabalhista n. 041600-72.2009.5.15.0024, deu prosseguimento à execução. Defende a competência do Juízo universal para deliberar acerca de seu patrimônio.
+Requer, liminarmente, a suspensão dos efeitos da decisão proferida pelo Juízo trabalhista.
+A liminar foi deferida (e-STJ, fls. 32-35).
+Prestadas informações (e-STJ, fls. 39-43), o Ministério Público ofertou parecer opinando pela declaração da competência do Juízo da recuperação (e-STJ, fls. 49-53).
+Brevemente relatado, decido.
+O Superior Tribunal de Justiça vem adotando a orientação segundo a qual "a decisão que defere o processamento do pedido de recuperação judicial tem como um de seus efeitos exatamente a suspensão das ações e execuções individuais contra o devedor que, dessa forma, pode desfrutar de maior tranquilidade para a elaboração de seu plano de recuperação, alcançando o fôlego necessário para atingir o objetivo de reorganização da empresa" (CC n. 126.135/SP, Relatora a Ministra Nancy Andrighi, DJe 19/8/2014).
+Uma vez aprovado o plano de recuperação judicial pela assembleia de credores, com a correlata homologação judicial, os créditos concursais haverão de ser pagos nos exatos termos em que estabelecido no plano de recuperação judicial.
+Dessa forma, não se admite, paralelamente à recuperação judicial, a efetivação de atos constritivos no bojo de execução individual levado a efeito por credor concursal, sob pena de indevida usurpação da competência do Juízo recuperacional e, em detrimento dos demais credores de mesma classe.
+Nesse sentido, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL E COMERCIAL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO. CRÉDITOS GARANTIDOS POR AVAL INCLUÍDOS NO PLANO DE RECUPERAÇÃO HOMOLOGADO. EXCLUSÃO DO PROCEDIMENTO RECUPERACIONAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. DECISÃO MANTIDA.
+1. A jurisprudência do STJ admite conflito positivo de competência entre o juízo universal e aquele que processa execução individual objetivando efetivar crédito constante do plano de recuperação judicial, pois, "aprovado e homologado o plano de recuperação judicial da sociedade empresária, os créditos serão satisfeitos de acordo com as condições ali estipuladas. Dessa forma, mostra-se incabível o prosseguimento das execuções individuais" (CC 108.141/SP, Relator Ministro FERNANDO GONÇALVES, SEGUNDA SEÇÃO, julgado em 10/2/2010, DJe 26/2/2010).
+2. Ao juízo universal compete a análise do caráter extraconcursal de créditos constantes do plano de recuperação judicial, bem como da essencialidade dos bens pretendidos pelo exequente.
+3. Cabe ao STJ, neste incidente, apenas decidir qual dos juízos em conflito é competente para deliberar acerca dos referidos temas.
+Precedente: CC 153.473/PR, Relatora Ministra MARIA ISABEL GALLOTTI, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 26/06/2018.
+4. Sentindo-se prejudicada pela decisão homologatória ou vislumbrando irregularidade na feitura plano de recuperação, bem como entendendo haver descumprimento do plano pela devedora, deve a parte credora suscitar essas questões no momento oportuno, por meio das vias recursais cabíveis, pois o âmbito cognitivo do conflito de competência permite apenas a declaração do juízo competente para decidir determinado tema, sendo inadequado seu uso como sucedâneo recursal, a fim de aferir a correção de decisões proferidas nas demandas que originaram o incidente (AgRg no CC 131.891/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/9/2014, DJe 12/9/2014).
+5. Agravo interno a que se nega provimento.
+(AgInt no CC 160.264/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 08/05/2019, DJe 20/05/2019)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - MEDIDAS DE CONSTRIÇÃO DE BENS INTEGRANTES DO PATRIMÔNIO DA EMPRESA RECUPERANDA DETERMINADAS POR JUÍZO FALIMENTAR - COMPETÊNCIA - JUÍZO DA RECUPERAÇÃO JUDICIAL - PRECEDENTES - DELIBERAÇÃO MONOCRÁTICA QUE CONHECEU DO CONFLITO E DECLAROU A COMPETÊNCIA DO JUÍZO RECUPERACIONAL. INSURGÊNCIA DA AGRAVANTE.
+1. Compete ao Superior Tribunal de Justiça o conhecimento e processamento do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. É pacífica a orientação da Segunda Seção no sentido de ser o Juízo onde se processa a recuperação judicial, o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda. Precedentes.
+2.1. A deliberação proferida pelo r. juízo suscitado invadiu a competência do r. juízo da recuperação judicial, na medida em que autorizou o levantamento de valores em face da ora suscitante sem franquear ao r. juízo da recuperação, se tal medida judicial - caso deferida - poderia dificultar a execução do plano de soerguimento aprovado pelos credores e devidamente homologado judicialmente.
+3. A jurisprudência desta Corte Superior orienta-se no sentido de que cabe ao juízo da recuperação decidir se determinado crédito faz parte do plano de recuperação judicial, não sendo possível tal análise no âmbito do conflito de competência. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no CC 154.788/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe 02/09/2019)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CREDOR TRABALHISTA. APROVAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. RECURSO NA INSTÂNCIA DE ORIGEM. DECISÃO LIMINAR RECONHECENDO A EXISTÊNCIA DE CONFLITO. FIXAÇÃO PROVISÓRIA DE COMPETÊNCIA.
+1. Após aprovado e homologado o plano de recuperação judicial, é do juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a ações expropriatórias movidas contra a empresa devedora.
+2. O Superior Tribunal de Justiça também já decidiu que, na recuperação judicial, a competência de outros juízos se limita à apuração de respectivos créditos, sendo vedada a prática de qualquer ato que comprometa o patrimônio da empresa em recuperação.
+3. Agravo regimental não provido.
+(AgRg no CC 132.285/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/05/2014, DJe 19/05/2014)
+Ademais, conforme delineado no parecer ministerial, "prevalece no âmbito do Superior Tribunal de Justiça a intelecção de que cabe ao Juízo da Recuperação, a partir do deferimento do benefício legal, decidir acerca da natureza extraconcursal da dívida, podendo, em certos casos, até excepcionar a regra quando verificar que os bens móveis ou imóveis são essenciais à preservação da atividade econômica da recuperanda, conforme diretriz dos seguintes precedente" (e-STJ, fl. 52).
+A propósito:
+PROCESSUAL CIVIL E RECUPERAÇÃO JUDICIAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. CESSÃO FIDUCIÁRIA DE CRÉDITOS. TRAVA BANCÁRIA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. EVOLUÇÃO JURISPRUDENCIAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Compete ao Juízo da Recuperação Judicial a declaração da concursalidade ou da extraconcursalidade de créditos havidos em face de sociedades recuperandas.
+2. Os atos de constrição do patrimônio afetado à consecução do plano de soerguimento empresarial, mesmo no caso da execução de créditos que não se submetem aos efeitos da recuperação judicial, são submetidos ao crivo do Juízo "universal".
+3. São distintas a submissão aos efeitos da recuperação judicial e à competência do Juízo que preside o procedimento recuperacional.
+4. Embargos de declaração acolhidos, com efeitos modificativos, para declarar a competência do Juízo da Recuperação Judicial.
+(EDcl nos EDcl no AgInt no CC n. 165.963/AM, relator Ministro Raul Araújo, Segunda Seção, julgado em 22/9/2021, DJe de 1/10/2021.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRINCIPAL. HONORÁRIOS CONTRATUIAS. NATUREZA DO CRÉDITO. COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL. COOPERAÇÃO JUDICIAL. INSTAURAÇÃO. NECESSIDADE.
+1. Nos termos do artigo 66, II, do Código de Processo Civil de 2015, há conflito de competência quando 2 (dois) ou mais juízes se considerem incompetentes para o julgamento do feito, atribuindo um ao outro a competência.
+2. A controvérsia posta nos presentes autos consiste em definir o Juízo competente para a destinação de valores oriundos de precatórios expedidos para pagamento de indébito tributário em favor de empresa em recuperação judicial.
+3. Compete ao Juízo da recuperação manifestar-se acerca da natureza do crédito, definindo se está ou não submetido aos efeitos da recuperação judicial, assim como verificar se determinado bem integra o ativo da recuperanda, estando destinado ao cumprimento das obrigações do plano.
+4. Na hipótese, tendo o Juízo da recuperação se manifestado no sentido de que os créditos relativos ao pagamento de honorários contratuais não integram o patrimônio da recuperanda e nem se submetem aos efeitos da recuperação, cabe ao Juízo suscitante ultimar os atos de pagamento.
+5. Os equívocos relativos ao levantamento de valores e aos beneficiários deve ser solucionado a partir da instauração de cooperação judicial.
+6. Conflito conhecido para declarar a competência do Juízo Federal da 3ª Vara Cível de Manaus - SJ/AM.
+(CC n. 185.966/AM, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 14/12/2022, DJe de 19/12/2022.)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Cível de Jaú/SP para deliberar sobre o crédito exigido na reclamação trabalhista n. 041600-72.2009.5.15.0024, observando-se os parâmetros delineados nesta decisão.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. SOCIEDADES EM RECUPERAÇÃO JUDICIAL. EXECUÇÃO NO JUÍZO TRABALHISTA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO PARA DELIBERAR SOBRE A NATUREZA DO CRÉDITO E EXERCER O CONTROLE SOBRE EVENTUAIS CONSTRIÇÕES. CONF LITO POSITIVO PARA DECLARAR A COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
