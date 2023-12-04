@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por NILDA APARECIDA DA SILVA CARNEIRO contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 201):
+APELAÇÃO CÍVEL Interposição contra sentença que julgou parcialmente procedentes embargos à execução. Contrato de locação. Caução. Necessidade de abatimento do valor total executado. Embargos parcialmente procedentes. Sucumbência corretamente fixada de forma recíproca. Honorários advocatícios majorados, nos termos do artigo 85, § 11, do Código de Processo Civil/2015. Sentença mantida. Apelação não provida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta a violação dos arts. 489 e 1.022, ambos do Código de Processo Civil/2015, sustentando a omissão do Tribunal de origem sobre a impossibilidade de utilização, pelo locador, da quantia caucionada, nos termos do art. 38, § 2º, da Lei 8.245/91.
+Aduz a negativa de vigência do art. 38, § 2º, da Lei 8.245/91, uma vez que "somente através do consenso entre as partes (credor e devedor) ou, mediante uma ordem judicial, é que qualquer locador estaria autorizado a compensar o valor da garantia contratual como o saldo devedor, já que o legislador, ao redigir a norma (art. 38, § 2º), não previu a possibilidade de autotutela por parte do depositário da caução" (fl. 230).
+Alega a violação do art. 86 do CPC/2015 em razão da ausência de sucumbência recíproca e, portanto, a necessidade de redistribuição dos ônus sucumbenciais.
+O recurso especial não foi admitido em virtude da ausência de violação dos arts. 489 e 1.022, ambos do CPC/2015, e do óbice da Súmula 7 do STJ.
+Neste agravo, a agravante impugna os fundamentos da decisão agravada.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+No que se refere à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, não há falar em omissão no acórdão, mas apenas julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Isso se diz porque, ao solucionar a controvérsia, o Tribunal de origem consignou no acórdão do julgamento do recurso de apelação que se verifica que foi depositado a título de caução o valor, conforme cláusula 12ª do contrato, contudo, não houve demonstração do abatimento do montante em relação ao valor a ser executado. Confira-se:
+Em que pese toda a resistência apresentada pela embargada, credora, não há nos autos qualquer demonstração de que tenha de fato já procedido ao abatimento dos valores relacionados à caução.
+A partir da documentação colacionada aos autos, verifica-se que foi depositado a título de caução o valor, conforme cláusula 12ª (fls. 28). Porém, não houve demonstração do abatimento do montante em relação ao valor a ser executado.
+Não há qualquer prova de abatimento, reitere-se se, o que revela o acerto da sentença em determinar tal desconto, sob pena de se configurar o locupletamento indevido da embargada, por quantia que não corresponde a qualquer obrigação contratual a ser exigida do embargante, e depositada apenas a título de caução para garantia da locação  ..  (fls. 202/203).
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016.
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo que não houve demonstração do abatimento do montante em relação ao valor a ser executado, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos e do contrato firmado entre as partes, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Quanto ao mais, segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame nesta esfera de recurso, por envolver aspectos fáticos e probatórios.
+Incide sobre o tema a Súmula 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. COMPRA E VENDA DE MÁQUINA INDUSTRIAL. SUSPENSÃO DA NEGOCIAÇÃO PELA RÉ. PREJUÍZOS SUPORTADOS PELA CONFECÇÃO DO MAQUINÁRIO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. REDUÇÃO DA MULTA INDENIZATÓRIA. SÚMULA 284/STF. CONJUNTO PROBATÓRIO FAVORÁVEL À AUTORA. SÚMULA 7/STJ. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Não configura cerceamento de defesa o julgamento antecipado da lide quando o julgador constata adequadamente instruído o feito, com a prescindibilidade de dilação probatória, por se tratar de fatos provados documentalmente.
+2. Afasta-se a alegação de julgamento extra ou ultra petita quando o provimento jurisdicional decorre de uma compreensão lógico-sistemática dos fatos e fundamentos expostos na petição inicial, entendido como aquilo que se pretende com a instauração da demanda.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do STF, aplicável, por analogia, neste Tribunal.
+4. A modificação do acórdão recorrido, quanto à inequívoca demonstração da negociação e dos prejuízos suportados pela confecção de máquina industrial montada especialmente para a requerida, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula 7/STJ.
+6. Dissídio jurisprudencial não caracterizado.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 764.006/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
