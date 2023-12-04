@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Habeas Corpus, impetrada por Danilo Silani em favor de Luis Felipe Blasco Stipp, que desafia decisão do Tribunal de Justiça do Estado de São Paulo. O paciente foi condenado a 10 anos, 10 meses e 20 dias de reclusão, em regime fechado, e 16 dias-multa, pelo artigo 158, § 3º, do Código Penal. A defesa argumenta violação do direito à ampla defesa, destacando o indeferimento da participação do paciente em audiência virtual sem fundamentação legal. Alega-se que a ausência do paciente não deve ser interpretada como renúncia ao direito de participar da audiência, nem justificar a decretação de sua revelia.
+Requereu, por fim, o deferimento da medida liminar para declarar nulo o processo desde a realização da audiência e a designação de audiência virtual para interrogatório do paciente.
+A liminar foi indeferida. (e-STJ, fls. 65-66)
+Informações prestadas (e-STJ, fls. 69-271).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 318-322).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade que autorize a concessão da ordem de ofício.
+O Tribunal de Justiça denegou a ordem ali impetrada, sob a seguinte fundamentação:
+"Habeas Corpus. Extorsão qualificada. Pretensão de revogação da prisão preventiva e alegação de ilegalidade pela não realização do interrogatório do Paciente via videoconferência.
+Legalidade da prisão cautelar já apreciada por esta C. Câmara em habeas corpus anterior questão que também foi submetida ao crivo da Instância Superior pleito que não deve ser conhecido neste ponto. Interrogatório via videoconferência que é assegurado, em caráter excepcional, tão somente ao réu preso e àquele devidamente qualificado em Juízo redação expressa do art. 185, do Código de Processo Penal Paciente que se encontra foragido agente que se oculta da Justiça e que, portanto, não deve ser contemplado pelo interrogatório via videoconferência. Writ parcialmente conhecido.
+Ordem denegada."
+Não existe fundamento para reconhecer nulidade no caso apresentado.
+Conforme a jurisprudência consolidada do Superior Tribunal de Justiça, a ausência de interrogatório de um réu foragido, que já tem advogado designado no processo, não constitui nulidade.
+Não é admissível que o réu se beneficie da sua condição de foragido para solicitar um interrogatório por videoconferência, pois isso representaria um desrespeito às ordens judiciais, especialmente considerando que ele deveria estar detido. Simplificando, não se pode permitir que alguém tire vantagem de sua própria má conduta, uma ideia resumida no princípio jurídico "nemo auditur propriam turpitudinem allegans".
+Citando como referência, apresento casos anteriores julgados pelas 5ª e 6ª Turmas deste Tribunal Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. RESTRIÇÃO DA LIBERDADE DA VÍTIMA. NULIDADE. NÃO OCORRÊNCIA. RÉU FORAGIDO. AUDIÊNCIA DE INSTRUÇÃO NO FORMATO VIRTUAL. INDEFERIMENTO. PRISÃO PREVENTIVA. MODUS OPERANDI. GRAVIDADE CONCRETA DO DELITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é uníssona no sentido de não ser possível o reconhecimento de nulidade na não realização de interrogatório de réu foragido que possui advogado constituído nos autos, não sendo legítimo que o paciente se aproveite dessa situação para ser interrogado por videoconferência, o que configuraria verdadeiro desprezo pelas determinações judiciais, uma vez que deveria estar preso. Em outras palavras, "a ninguém é dado beneficiar-se da própria torpeza" .
+2. Hipótese em que a prisão preventiva do acusado foi decretada para a garantia da ordem pública, diante da extrema gravidade da conduta: delito de extorsão qualificado pela restrição da liberdade da vítima que foi praticado por diversos agentes e com uso ostensivo de arma de fogo.
+3. Além do adequado fundamento adotado no decreto constritivo impugnado, em total conformidade com a jurisprudência sedimentada no âmbito desta Corte no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão do modus operandi com que o crime fora praticado, o paciente permaneceu foragido, situação que confirma a necessidade da segregação cautelar do réu.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 825.382/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. NULIDADE. AUSÊNCIA DE INTERROGATÓRIO. NÃO OCORRÊNCIA. INTIMAÇÃO PESSOAL. REVELIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O interrogatório é o ato processual por meio do qual o réu tem a faculdade de expor a sua versão dos fatos narrados na exordial acusatória, nos termos do art. 185 e seguintes do Código de Processo Penal. Todavia, não há que se falar em violação do contraditório e da ampla defesa, pela não realização do referido ato processual, se o próprio investigado - ciente da acusação - empreendeu fuga do distrito da culpa, estava foragido por ocasião do interrogatório e só apontou a ocorrência de nulidade quando já encerrada a instrução criminal e apresentadas as alegações finais do Ministério Público estadual, além de não haver sido arguida nas razões da apelação, sendo retomada a alegação após o trânsito em julgado da sentença penal condenatória, por meio de revisão criminal.
+2. Agravo regimental não provido.
+(AgRg no HC n. 748.770/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023.)
+Diante do exposto, não conheço do habeas corpus.
+EMENTA
