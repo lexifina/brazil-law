@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE SEGURO DE VIDA EM GRUPO. DEVER DE INFORMAÇÃO. OBRIGAÇÃO DA ESTIPULANTE. TEMA REPETITIVO N. 1.112.
+1. Quando do julgamento do Tema Repetitivo n. 1.112, a Segunda Sessão estabeleceu a tese segundo a qual, "na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (REsp n. 1.874.788/SC, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 619/624 e-STJ.
+A parte agravante sustenta que "Não estamos solicitando que esta E. Corte diga que não está provado algum fato que o Acórdão de origem deu como provado ou o contrario, que está provado algum fato que a corte de origem deu como não provado, pois é incontroversa a ausência do dever de informação prévia da seguradora para com o segurado/consumidor, contudo o Tribunal de Origem pautou sua decisão da ausência de violação ao dever de informação apenas e tão somente por atribuir essa responsabilidade à estipulante (contrariando o entendimento do STJ) mas, em nenhum momento a corte de origem analisou as provas e fatos quanto o dever de informação da seguradora para o segurado/consumidor. " (fl. 635 e-STJ).
+Sem impugnação.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 1.856.971 - SC (2020/0005568-5)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+ORIDES SOARES
+ADVOGADO
+:
+FABIANA ROBERTA MATTANA CAVALLI - SC016109
+AGRAVADO
+:
+TOKIO MARINE SEGURADORA S.A.
+ADVOGADO
+:
+DEBORA LEILA TRINDADE E OUTRO(S) - SC034689
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE SEGURO DE VIDA EM GRUPO. DEVER DE INFORMAÇÃO. OBRIGAÇÃO DA ESTIPULANTE. TEMA REPETITIVO N. 1.112.
+1. Quando do julgamento do Tema Repetitivo n. 1.112, a Segunda Sessão estabeleceu a tese segundo a qual, "na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (REsp n. 1.874.788/SC, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão agravada julgou recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL AÇÃO DE COBRANÇA SECURITÁRIA SEGURO DE VIDA EM GRUPO SENTENÇA DE IMPROCEDÊNCIA INVALIDEZ PERMANENTE ORIUNDA DE DOENÇA OCUPACIONAL PRETENDIDA EQUIPARAÇÃO AO CONCEITO DE "ACIDENTE PESSOAL" (IPA). OU INCLUSÃO NA COBERTURA DE INVALIDEZ FUNCIONAL TOTAL E PERMANENTE POR DOENÇA (IFPD) SENTENÇA DE IMPROCEDÊNCIA RECURSO DO AUTOR. TESES DE AUSÊNCIA DE PROVA DA CIÊNCIA DO ESTIPULANTE ACERCA DOS TERMOS DO CONTRATO E INCONSTITUCIONALIDADE DAS RESOLUÇÕES NORMATIVAS DA SUSEP E DO CNSP QUE NÃO FORAM VENTILADAS NA ORIGEM IMPOSSIBILIDADE DE FAZÊ-LO APENAS EM SEDE DE APELAÇÃO INOVAÇÃO RECURSAL CONFIGURADA. RECLAMO NÃO CONHECIDO NOS PONTOS. PRELIMINAR NULIDADE DA SENTENÇA SUPOSTA VIOLAÇÃO AO ART 489, §1º, DO CPC. INSUBSISTÊNCIA. PONTOS FULCRAIS DA CONTROVÉRSIA DEVIDAMENTE TANGENCIADOS PELA DECISÃO DE ORIGEM. DESNECESSIDADE DE MANIFESTAÇÃO ACERCA DE JULGADOS QUE NÃO POSSUAM NATUREZA VINCULANTE. PRELIMINAR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVAS TÉCNICA E TESTEMUNHAL DESPICIENDAS. CONTROVÉRSIA UNICAMENTE DE DIREITO. MÉRITO COBRANÇA SECURITÁRIA. AUTOR PORTADOR DE DOENÇA OCUPACIONAL. PRETENDIDO ENQUADRAMENTO DE SUA CONDIÇÃO NAS COBERTURAS DE INVALIDEZ POR ACIDENTE OU INVALIDEZ FUNCIONAL POR DOENÇA. IMPOSSIBILIDADE. CONTRATO QUE EXPRESSAMENTE RESTRINGE O CONCEITO DE ACIDENTE PARA FINS DE COBERTURA CONTRATUAL, EXCLUINDO, NESSA EXTENSÃO. A POSSIBILIDADE DE EQUIPARAÇÃO DO TERMOS ÀS DOENÇAS OCUPACIONAIS COBERTURA DE INVALIDEZ FUNCIONAL POR DOENÇA QUE NÃO CONTRATADA ALEGADA VIOLAÇÃO AO DEVER DE INFORMAÇÃO ACERCA DO CONTEÚDO DO CONTRATO. AUTORA QUE NÃO TERIA ACESSO FRANQUEADO AOS TERMOS DA AVENÇA INSUBSISTÊNCIA SEGURO DE NATUREZA COLETIVA. COM CONTRATAÇÃO INTERMEDIADA POR ESTIPULANTE, QUE É O VERDADEIRO RESPONSÁVEL PELO REPASSE DE INFORMAÇÕES AO SEGURADOS INDIVIDUAIS. DEVER DE INFORMAÇÃO PELA SEGURADORA DEVIDAMENTE OBSERVADO INEXISTÊNCIA DE ABUSIVIDADE CONTRATUAL CONTRATO DE SEGURO QUE. POR SUA NATUREZA. RECLAMA INTERPRETAÇÃO RESTRITIVA DOS RISCOS PREDETERMINADOS. ALEGADA VIOLAÇÃO AOS ARTS. 19 E 20 DA LEI 8.213/91. REJEIÇÃO. DISPOSIÇÕES ATINENTES ÀS RELAÇÕES DE NATUREZA PREVIDENCIÁRIA. NÃO SE APLICANDO AOS CONTRATOS DE SEGURO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS DEVIDOS. RECURSO PARCIALMENTE CONHECIDO E. NESSA EXTENSÃO, DESPROVIDO.
+Com efeito, anoto que o acórdão recorrido concluiu que não houve violação ao dever de informação, deixando registrados os seguintes termos (fls. 302/306 e-STJ):
+Todavia, atento aos recentes julgamentos proferidos em demandas que tratam da matéria, e visando uniformizar a jurisprudência deste Tribunal de Justiça, tenho por bem modificar o entendimento até então adotado, passando a reconhecer como válida a existência de cláusulas limitativas de direito constantes na apólice, uma vez que em contratos dessa natureza, a obrigação de prestar informações ao segurado compete à estipulante do seguro de vida em grupo (empregadora) e não à seguradora (..). Os direitos do segurado não se perdem nessa relação, apenas ficam concentrados, em certa parte, na figura do estipulante, que age como seu mandatário perante a seguradora. Por tais razões, não há que se falar em violação ao dever de informação, sendo perfeitamente aplicáveis as cláusulas restritivas presentes no contrato de seguro em questão. Até porque, tanto na inicial quanto em sede de réplica, quando deparada com a documentação trazida pela ré, a autora não negou a existência do contrato apresentado e tampouco sustentou a falta de cientificação da empresa estipulante acerca de todos os seus termos. De mais a mais, irrelevante perquirir aqui se o autor chegou a receber cópia da apólice ou do certificado individual, visto que as disposições limitativas que interessam ao caso encontram-se nas cláusulas gerais do contrato securitário, cujo dever de repasse das informações era de incumbência da estipulante.
+Com pertinência à obrigação de informar ao consumidor as cláusulas do contrato de seguro coletivo, notadamente as restritivas, a Segunda Seção deste Superior Tribunal de Justiça, no recente julgamento do REsp 1.874.788/SC, de relatoria do Ministro RICARDO VILLAS BÔAS CUEVA, DJe 10/3/2023, ocorrido sob o rito dos recursos representativos de controvérsia, firmou a tese no sentido de que:
+"(i) Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre. (ii) Não se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas figuras devem ser consideradas apólices individuais no que tange ao relacionamento dos segurados com a sociedade seguradora".
+Com efeito, o dever de informação acerca das cláusulas do contrato de seguro em grupo é do estipulante, e não da seguradora, motivo porque não merece reparo o acórdão estadual.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
