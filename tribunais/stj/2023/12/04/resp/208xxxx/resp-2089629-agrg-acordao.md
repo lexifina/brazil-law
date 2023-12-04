@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. DIREÇÃO DE VEÍCULO AUTOMOTOR COM CAPACIDADE PSICOMOTORA ALTERADA EM RAZÃO DO CONSUMO DE ÁLCOOL. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia" (AgRg no REsp n. 1.980.052/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022.)
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator)
+Trata-se de agravo regimental em recurso especial interposto em favor de WESLEY JOSE GONCALVES DE SOUZA contra decisão em que dei provimento ao recurso em decisum assim relatado:
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, com fundamento no art. 105, inciso III, "a", da Constituição Federal de 1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5191838-96.2023.8.09.0168).
+Consta dos autos que o recorrido foi denunciado por ter sido flagrado dirigindo veículo automotor com capacidade psicomotora alterada em razão da ingestão de álcool, tendo sido a denúncia recebida em 1º/11/2019 (e-STJ fl. 202).
+Em habeas corpus, a Corte de origem concedeu a ordem para determinar o retorno dos autos para análise de oferecimento de Acordo de Não Persecução Penal - ANPP (e-STJ fls. 149/153).
+Irresignada, a acusação então interpôs recurso especial, alegando ofensa ao art. 28-A, do Código Penal, porquanto o instituto do ANPP não poderia retroagir para feitos cuja denúncia já fora ofertada (e-STJ fl. 208).
+Requereu, portanto, a reforma do acórdão atacado para afastar a determinação de análise do ANPP (e-STJ fl. 211).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ fls. 268/285).
+No presente agravo, alega a parte que o instituto da ANPP deve retroagir em favor do réu (e-STJ fl. 298).
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado (e-STJ fl. 301).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. DIREÇÃO DE VEÍCULO AUTOMOTOR COM CAPACIDADE PSICOMOTORA ALTERADA EM RAZÃO DO CONSUMO DE ÁLCOOL. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia" (AgRg no REsp n. 1.980.052/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022.)
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator)
+A irresignação não merece prosperar, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Isso, porque o entendimento do Superior Tribunal de Justiça é diametralmente oposto ao que decidiu a Corte de origem, de que a Lei que instituiu o acordo de não persecução penal deve retroagir a feitos cuja denúncia já foi recebida.
+Nesse sentido, o seguinte precedente desta Corte:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. VIGÊNCIA POSTERIOR AO RECEBIMENTO DA DENÚNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE CARACTERIZADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia.
+2. A habitualidade delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.980.052/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022.)
+No mesmo sentido o parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 273/284):
+Parece-nos que, de fato, estamos em presença de lei de caráter híbrido, ou seja, de natureza material, pelo seu caráter despenalizador e de natureza processual ,sendo indiscutível sua aplicação retroativa para beneficiar o réu, retroação, todavia, que deve obedecer aos limites estabelecidos na própria norma. E diante da literalidade dos dispositivos que disciplinam o Acordo de Não Persecução Penal, verifica-se que a aplicação retroativa do instituto, em virtude de crimes cometidos antes da vigência da Lei instituidora do benefício, somente ocorre se a denúncia ainda não tiver sido recebida. Isto porque o ANPP é instituto de natureza pré-processual, que tem por objetivo exatamente impedir a instauração da ação penal. Estando em tramitação o feito, com denúncia já recebida e instrução criminal iniciada, não se mostra razoável pretender que o processo volte à sua fase anterior à oferta da inicial acusatória, para o oferecimento de acordo que não é mais viável no estágio em que se encontra. A circunstância de ser a norma benéfica ao réu não é suficiente para se concluir por sua aplicação retroativa, de forma irrestrita, ainda mais quando a própria lei estabelece expressamente o limite temporal da sua incidência, no caso, a fase de investigação.
+ ..
+Desse modo, enquanto não pacificado o entendimento acerca do alcance da retroatividade do ANPP, nas Cortes Superiores, deve prevalecer a interpretação que vem sendo adotada no sentido de não aplicação do instituto após instaurada a ação penal. Urge recordar que a Lei nº 13.964, de 24 de dezembro de 2019, que instituiu o benefício em destaque, somente entrou em vigor trinta dias após sua publicação, ou seja, em 23 de janeiro de 2020, de sorte que, em 1º de novembro de2019, quando recebida a denúncia por fato ocorrido em 22 de setembro de 2019, ainda não havia lei prevendo o instituto do ANPP. Incensurável, portanto, a manifestação ministerial de recusa ao oferecimento de proposta de acordo, tendo em vista que já iniciada a ação penal pelo recebimento da denúncia, quando a lei que instituiu o benefício entrou em vigor, manifestação esta, inclusive, já ratificada pelo Órgão Revisor do Ministério Público. O acórdão, portanto, está em franca desarmonia com a jurisprudência dessa Augusta Corte. À vista do exposto, opina pelo conhecimento e provimento do recurso para cassar a ordem de habeas corpus concedida, determinando o prosseguimento da ação penal.
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
