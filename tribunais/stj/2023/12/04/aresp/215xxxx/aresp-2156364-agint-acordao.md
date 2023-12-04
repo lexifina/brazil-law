@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada conheceu do agravo para negar provimento ao recurso especial, porquanto consignado que o entendimento de origem estava em consonância com a jurisprudência do STJ no sentido de que "concessionária e o fabricante de automóveis possuem responsabilidade solidária em relação ao vício do produto ou defeito do serviço, por integrarem a cadeia de consumo", oportunidade em que se colacionou como precedentes: AgInt no AREsp n. 1.939.147/RN, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 10/8/2022 e AgInt no REsp n. 1.734.125/SC, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 21/8/2019.
+2. O fundamento utilizado na decisão recorrida para negar provimento ao recurso especial não foi objeto de impugnação no agravo interno, o qual traz alegações genéricas de que efetivamente demonstrou a violação de legislação e que o julgamento monocrático não pode prevalecer sobre o julgamento colegiado, tese que sequer encontra amparo na legislação ou em reiterados julgados do STJ, a teor do que já consagrado no art. 932 do CPC e na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+3. Inadmitido o recurso em razão da aplicação das Súmulas n. 83/STJ ou 568/STJ, o entendimento desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes ao precedente utilizado na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, ou ainda que, de fato, existe a propalada distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação do óbice, o que não aconteceu no presente caso.
+4. A ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir na espécie os preceitos da Súmula n. 182/STJ e do art. 1.021, § 1º, do CPC. Precedentes.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por GENERAL MOTORS DO BRASIL LTDA. contra decisão monocrática do Ministro Paulo de Tarso Sanseverino, que conheceu do agravo para negar provimento ao recurso especial da agravante (fls. 476-481).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 357):
+APELAÇÃO. Preliminar de ilegitimidade passiva da montadora. Inocorrência. Integrante da cadeia de consumo que detém responsabilidade solidária. Inteligência do artigo 7º, § único do Código de Defesa do Consumidor. Mérito. Ação de resolução contratual com restituição de valores pagos. Automóvel. Vícios apresentados no veículo que não foram sanados no prazo legal. Ademais, veículo adquirido zero cujo vício apontado lhe diminua o valor. Incidência da regra prevista no artigo 18 do Código de Defesa do Consumidor. Retorno das partes ao estado anterior ao da negociação. Sentença mantida. Recursos desprovidos.
+Sem embargos de declaração na origem por parte da agravante.
+Nas razões do recurso interno, a agravante traça argumentações de que o julgamento monocrático não pode ser baseado em "uma posição isolada" (fl. 485), no que reforça que (fl. 486):
+O Recurso Especial interposto pela Agravante teve como cabimento o fato de a decisão agravada ter ofendido, cristalinamente, os princípios do Duplo Grau de Jurisdição, Legalidade e Devido processo legal, dispostos nos incisos II e LIV, do artigo 5º da Constituição Federal, haja vista que todos os pressupostos foram devidamente respeitados e, reiteradamente, a decisão do Juízo a quo violou flagrantemente literal dispositivo de lei federal.
+A Agravante pretende discutir os dispositivos legais que foram violados na origem.
+Resta claro que os dispositivos legais apontados pela Agravante que foram violados na origem e quanto a isso o STJ não pode ser omisso.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 492-498).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada conheceu do agravo para negar provimento ao recurso especial, porquanto consignado que o entendimento de origem estava em consonância com a jurisprudência do STJ no sentido de que "concessionária e o fabricante de automóveis possuem responsabilidade solidária em relação ao vício do produto ou defeito do serviço, por integrarem a cadeia de consumo", oportunidade em que se colacionou como precedentes: AgInt no AREsp n. 1.939.147/RN, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 10/8/2022 e AgInt no REsp n. 1.734.125/SC, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 21/8/2019.
+2. O fundamento utilizado na decisão recorrida para negar provimento ao recurso especial não foi objeto de impugnação no agravo interno, o qual traz alegações genéricas de que efetivamente demonstrou a violação de legislação e que o julgamento monocrático não pode prevalecer sobre o julgamento colegiado, tese que sequer encontra amparo na legislação ou em reiterados julgados do STJ, a teor do que já consagrado no art. 932 do CPC e na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+3. Inadmitido o recurso em razão da aplicação das Súmulas n. 83/STJ ou 568/STJ, o entendimento desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes ao precedente utilizado na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, ou ainda que, de fato, existe a propalada distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação do óbice, o que não aconteceu no presente caso.
+4. A ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir na espécie os preceitos da Súmula n. 182/STJ e do art. 1.021, § 1º, do CPC. Precedentes.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada conheceu do agravo para negar provimento ao recurso especial, porquanto consignado que o entendimento de origem estava em consonância com jurisprudência do STJ no sentido de que "concessionária e o fabricante de automóveis possuem responsabilidade solidária em relação ao vício do produto ou defeito do serviço, por integrarem a cadeia de consumo", oportunidade em que se colacionou como precedentes: AgInt no AREsp n. 1.939.147/RN, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 10/8/2022 e AgInt no REsp n. 1.734.125/SC, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 21/8/2019.
+Com efeito, o agravo interno não merece conhecimento, porquanto o fundamento utilizado na decisão recorrida para negar provimento ao recurso especial não foi objeto de impugnação nas razões recursais do agravo interno, as quais trazem alegações genéricas de que efetivamente demonstrou a violação de legislação e que o julgamento monocrático não pode prevalecer sobre o julgamento colegiado, tese que sequer encontra amparo na legislação ou em reiterados julgados do STJ, a teor do que já consagrado no art. 932 do CPC e na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A propósito, cito:
+3. Conforme a jurisprudência desta Corte, a legislação vigente (art. 932 do CPC/2015 e Súmula 568/STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Superior Tribunal. Ainda que assim não fosse, eventual vício ficaria superado, pelo julgamento colegiado no agravo interno.
+(AgInt no AREsp n. 2.070.375/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/8/2022.)
+Cabe relembrar que, desprovido o recurso em razão da aplicação das Súmulas n. 83/STJ ou 568/STJ, o entendimento desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes ao precedente utilizado na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, ou ainda que, de fato, existe a propalada distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação do óbice, o que não aconteceu no presente caso.
+Nesse sentido, confiram-se:
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 83/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, ou deixar claro que os julgados apontados como precedentes não se aplicam ao caso concreto em análise.
+(AgInt no AREsp n. 1.932.535/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/3/2022.)
+3. Inadmitida a pretensão recursal em razão da consonância do acórdão recorrido com a jurisprudência desta Corte, cabe à parte autora indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada para sustentar que outra é a orientação jurisprudencial, o que não foi feito no caso em comento, no qual a parte agravante simplesmente reproduz os mesmos argumentos do Apelo Nobre.
+(AgInt no AREsp n. 1.302.570/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 16/10/2020.)
+Desse modo, forçosa é a incidência do disposto nos arts. 932, III, e 1.021, § 1º, do CPC, segundo os quais não se conhece do recurso que não ataca especificamente os fundamentos da decisão recorrida nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ ..
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Assim, a ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir, na espécie, por analogia, os preceitos da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se estes julgados:
+II - Razões de agravo interno que apresentam combate genérico aos fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+(AgInt no AREsp n. 2.077.483/GO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/9/2022.)
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+(AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/9/2022.)
+1. Segundo previsto no art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante atacar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 2.066.383/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/9/2022.)
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.960.887/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
