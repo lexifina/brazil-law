@@ -1,0 +1,22 @@
+DECISÃO
+LARISSA RODRIGUES DO NASCIMENTO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 5305488-59.2023.8.21.7000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que a recorrente está "recolhida preventivamente desde 22/08/2023 (processo 5010908- 54.2023.8.21.0005/RS, evento 1, OFIC2), por suposto envolvimento com o crime descrito no artigo do artigo 33, caput, da Lei n.º 11.343/06, sendo apontada como autoridade coatora o Juízo da 2ª Vara Criminal de Bento Gonçalves" (fl. 48).
+Asseriu a defesa, perante a Corte de origem, que "a decisão de decretação da prisão preventiva deve ser revista. Salientou que o fato da paciente ser mãe foi completamente desconsiderado quando do decreto de prisão preventiva. Anexou certidão de nascimento, dando conta da idade da criança. Referiu que a busca é pelo direito da própria criança, a quem a presença da mãe, durante as primeiras fases de seu desenvolvimento, é fundamental. Mencionou o caráter excepcional da prisão preventiva e que a paciente não apresenta risco à ordem pública" (fl. 48).
+Todavia, consoante disposto no decreto preventivo, "restou apreendida expressiva quantidade de drogas, sendo cerca de 16 tijolos de maconha (10 kg), porções avulsas de maconha (569 gr), 90 gr de haxixe, 92 gr de cocaína divididas em saquinhos zip-lock, balança de precisão, anotações da contabilidade da traficância, documento de identidade do investigado, entre outros objetos" (fl. 56, grifei).
+A esse respeito, saliento que a quantidade da droga movimentada, realçada pela sofisticação da organização criminosa (modus operandi), evidencia o periculum libertatis, a ensejar, por conseguinte, a manutenção da custódia cautelar para assegurar a ordem pública, além de inviabilizar a substituição da prisão por medidas diversas.
+Nesse sentido:
+ ..
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, cifrada na apreensão de significativa quantidade de droga (493,9 gramas de maconha), além de uma balança de precisão e um rolo de plástico filme, demonstrando a necessidade da prisão para a garantia da ordem pública.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Ordem denegada (HC n. 454.511/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 14/8/2018, grifei).
+ ..
+2. O Magistrado de primeiro grau expôs os motivos pelos quais a prisão preventiva seria necessária, ao destacar a elevada quantidade de droga apreendida em poder do acusado - 377 g de maconha -, além dos petrechos utilizados para a comercialização. Tais elementos, nos termos da jurisprudência desta Corte Superior, são indicativos da dedicação habitual ao comércio ilegal de entorpecentes e, por isso mesmo, constituem motivação idônea a justificar a custódia provisória do indiciado.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido (RHC n. 99.826/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/8/2018, destaquei).
+Além disso, quanto ao pleito de prisão domiciliar, apontou a Corte de origem que "não foi demonstrada a imprescindibilidade dos cuidados da paciente para com seu filho. E, no ponto, deve também ser considerado que o mandado de busca foi expedido para a residência onde a paciente residia com o investigado, valendo acrescentar que foram localizados, armazenados no interior da residência, 16 tijolos de maconha (10 kg), porções avulsas de maconha (569 gr), 90 gr de haxixe, 92 gr de cocaína, o que impede a substituição da prisão preventiva por prisão domiciliar" (fls. 54-55, destaquei).
+Sobre o tema, trago à baila o seguinte julgado:
+ ..
+Some-se a isso, o fato de que o tráfico por ela supostamente praticado ocorria em sua residência e na companhia de adolescentes. Em casos tais, a condição de ser mãe de adolescentes, com o objetivo de obter a prisão domiciliar, não se sustenta, conforme já decidiu esta Corte e o STF  ..  (AgRg no HC n. 617.070/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 30/4/2021).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
