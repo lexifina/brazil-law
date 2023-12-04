@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de agravo de decisão que inadmitiu recurso especial interposto por MARCELO DE OLIVEIRA REBIZZI e outros fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal contra v. acórdão do TJ, assim ementado:
+AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL ESCRITURA DE CONCESSÃO DE CRÉDITO COMERCIAL ROTATIVO COM GARANTIAS HIPOTECÁRIA E FIDEJUSSÓRIA - EXCEÇÃO DE NÃO EXECUTIVIDADE
+- Decisão que não reconheceu a prescrição - Insurgência dos executados - Descabimento - Prazo que era regido pelo art. 177 do CC de 1916, sendo vintenário - Dívida líquida representada por instrumento público, vencida a partir de 1988 - Ação ajuizada em outubro de 2002 - Decisão mantida.
+- Ausência de título - Não acolhimento - Trata-se de título executivo extrajudicial, representado por cédula de crédito comercial, na forma do art. 585, III, do CPC de 1973, vigente à época, que dispensa a apresentação de duplicatas e respectivos canhotos de entrega de mercadoria
+- Decisão mantida.
+Recurso não provido, prejudicados os embargos de declaração.
+(fls. 374-378)
+Opostos aclaratórios, foram rejeitados (fls. 413-415). Novos aclaratórios, mais uma vez rejgeitados (fls. 424-427).
+Em suas razões recursais, as agravantes alegam violação aos arts. 783; 803, I e 1022, todos do Código de Processo Civil, além de divergência jurisprudencial.
+Sustenta, em síntese, que:
+i) o acórdão recorrido incorreu em "erro material incorrido pelo v. acórdão, visto que o título que embasa o feito executivo NÃO é uma cédula de crédito comercial, e sim uma Escritura de Concessão de Crédito Rotativo  o que é absolutamente distinto ";
+ii) "a concessão de crédito comercial rotativo consubstancia obrigação imputável somente ao vendedor (in casu a Recorrida), no sentido de abrir linha de crédito em favor do comprador, para que este possa adquirir produtos para liquidação a prazo, mediante a emissão de duplicata mercantis. Não há disponibilização de recursos em favor do comprador, tampouco  por decorrência lógica  previsão de pagamento deste ao vendedor. Por esta razão não se tem como ajuizar qualquer demanda executiva  ou mesmo de cobrança  valendo-se tão somente da referida escritura de concessão de crédito rotativo. Afinal, como dito, a única obrigação que se extrai de seu conteúdo é a do vendedor, no sentido de realizar vendas a prazo com o comprador";
+iii) "a demanda executiva encetada não ostenta título executivo extrajudicial, tampouco obrigação certa, líquida e exigível, tendo em vista que fora instruída somente com escritura de crédito rotativo  que prevê apenas obrigação imputável à Recorrida, de concessão de linha de crédito , e notas -fiscais/faturas  emitidas unilateralmente pela Recorrida ";
+Contrarrazões apresentadas às fls. 431-450. Aduz que:
+i) "conforme se verifica da Escritura de Concessão de Crédito Comercial Rotativo com Garantia Hipotecária e Fidejussória e Outras Avenças, verifica- se que os executados, ora recorrentes, Maria Eliza Rebizzi Vasone, Sérgio Humberto de Oliveira Rebizzi, Flávio de Oliveira Rebizzi e Marcelo de Oliveira Rebizzi, deram à empresa agravada, em primeira, única e especial hipoteca 06 (seis) imóveis de sua propriedade, conforme se verifica do "Considerando F" da referida Escritura, com as descrições dos bens imóveis elencadas nas Cláusulas 5.1.2.1; 5.1.2.2; 5.1.2.3; 5.1.2.4; 5.1.2.5 e 5.1.2.6 , acostada às fls. 17/26 dos autos de origem  ..  Constata-se, ainda, que além da garantia hipotecária, na referida Escritura restou estabelecido que os recorrentes Luiz Gonzaga de Athayde Vasone; Maria Eliza Rebizzi Vasone, Sérgio Humberto de Oliveira Rebizzi, Flávio de Oliveira Rebizzi; Marcelo de Oliveira Rebizzi e Cláudia Marla Pagano Rebizzi, deram à empresa recorrida sua fiança para a garantia do crédito, consoante descrito no "Considerando G", bem como na Cláusula 5.1.1 da Escritura de Concessão de Crédito Comercial Rotativo com Garantia Hipotecária e Fidejussória e Outras Avenças".
+Salienta que "os recorrentes tiveram naquela época a oportunidade de exercer o direito ao contraditório e a ampla defesa, todavia, estes resolveram permanecer inertes ingressando nos autos somente agora - 17 (dezessete) anos depois, alegando suposta ausência de título executivo e a ocorrência da prescrição, posto que tais argumentos deveriam ter sido colocados à apreciação do Douto Juízo "a quo" em sede de Embargos à Execução, providência esta que não foi tomada pelos recorrentes, haja vista que apresentaram Exceção de Pré-Executividade nos próprios autos da demanda executiva".
+É o relatório. Passo a decidir.
+2. O Tribunal de origem decidiu que:
+De início, consigne-se que os embargos de declaração restaram prejudicados em razão do julgamento do mérito recursal.
+Trata-se de execução aparelhada em cédula de crédito comercial com garantias hipotecária e fidejussória.
+A ação foi proposta em 01.10.2002.
+Tratando-se de dívida líquida, vencida a partir de 1988, portanto na vigência do Código Civil de 1916, o lapso prescricional previsto era de vinte anos, consoante artigo 177 do referido Estatuto Objetivo.
+Sendo assim, não se cogita de prescrição quando do ajuizamento da ação.
+No que tange à inexigibilidade do título, a pretensão também não pode ser acolhida, pois como muito bem consignou o Juízo a quo, o título executivo está consubstanciado em instrumento público, firmado nos termos do artigo 585, inciso III, do Código de Processo Civil de 1973, vigente à época, sendo dispensável duplicatas com aceite ou notas fiscais acompanhadas dos comprovantes de recebimento de mercadorias, na medida em que não são as duplicatas que estão sendo executadas, mas sim o instrumento público acima referido.
+Ainda que assim não fosse, a cláusula 2.2 do título estabelece que as duplicatas e notas fiscais, não impugnadas pelos devedores, no prazo estipulado, seriam consideradas obrigações certas e exigíveis. Nesse ponto, não há qualquer resquício probatório a respeito da contestação dos referidos documentos, na época oportuna.
+No mais, a apuração do débito depende apenas de cálculos aritméticos, de sorte que o título exequendo possui os requisitos de certeza, liquidez e exigibilidade.
+Posto isso, nega-se provimento ao recurso, prejudicados os embargos de declaração.
+(fls. 374-378)
+Opostos aclaratórios, por duas vezes, o TJSP manteve-se silente, nos seguintes termos:
+Não se verifica, na decisão embargada, nenhum resquício de omissão, contradição, obscuridade ou erro material, ausentes, portanto, os requisitos expressos no artigo 1.022 do Código de Processo Civil.
+Como bem é de ver, aquilo que os embargantes apontam como "omissão", nada mais é do que a reiteração de tudo o quanto já haviam consignado na exceção de não executividade oposta e na minuta do agravo.
+Evidente, portanto, o inconformismo quanto ao que restou decidido, dada a clara intenção de rediscutir a matéria já decidida, o que não pode ser admitido nesta sede de embargos declaratórios.
+Posto isso, rejeitam-se os embargos.
+(fls. 413-415)
+_____________________
+A simples leitura das razões dos embargos é o bastante para se verificar a inexistência de qualquer obscuridade, contradição, omissão ou erro material, assim como se faz desnecessário qualquer esclarecimento.
+O que se constata, nada mais é do que a reiteração de tudo o quanto os embargantes já haviam consignado na exceção de não executividade oposta e nos embargos anteriores.
+Evidente, portanto, o inconformismo quanto ao que restou decidido, dada a clara intenção de rediscutir a matéria já decidida, o que não pode ser admitido nesta sede de embargos declaratórios.
+Nessa conformidade, os embargantes, reiterando a oposição de embargos e invocando vício sabidamente inexistente, com o objetivo de rediscutir matéria julgada, causam um aumento considerável no número de recursos sem fundamento e que assolam o já assoberbado Poder Judiciário.
+ ..
+Ausentes, portanto, os requisitos processuais, o recurso deve ser rejeitado.
+Declarados manifestamente infundados os embargos, impõe-se a consequente punição pecuniária.
+Posto isso, rejeitam-se os embargos, aplicando-se aos embargantes, multa correspondente a 2% (dois por cento) sobre o valor da causa 1 , devidamente atualizado, nos exatos termos do artigo 1.026, § 2º e seguintes do Código de Processo Civil.
+(fls. 424-427)
+Dessarte, verifica-se que o acórdão recorrido, apesar de devidamente provocado, acabou deixando de apreciar pontos relevantes suscitados pelos recorrentes, quais sejam, de que "a ação de execução que se processa na origem seria uma cédula de crédito comercial, o que não condiz com a realidade  ..  Na realidade, o feito executivo fora ajuizado com amparo em Escritura Pública de Crédito Comercial Rotativo, o que é absolutamente distinto, notadamente quando se tem em mira que os Agravantes/Embargantes sequer figuram como devedores no seio da referida Escritura", bem como que "a escritura que embasa a demanda executiva expressa apenas uma promessa, da Agravada em favor dos Agravantes, de lhes conceder uma linha de crédito para aquisição de produtos, mas sem entrega de recursos em favor destes. Consequentemente, referida Escritura não prevê nenhuma obrigação de pagamento que possa ser exigida dos Agravantes".
+Por outro lado, corroborando com as informações dos embargantes, a decisão interlocutória objeto do agravo de instrumento afirma que "a execução está aparelhada pela "escritura de concessão de crédito comercial rotativo com garantia hipotecária e fidejussória e outras avenças", como claramente consignado na petição inicial" (fl. 311).
+Como sabido, os embargos de declaração são cabíveis quando o provimento jurisdicional padecer de omissão, contradição ou obscuridade, bem como para sanar a ocorrência de erro material, consoante dispõe o art. 1.022 do CPC.
+Nessa linha de entendimento, tenho que assiste razão aos agravantes quanto aos vícios apontados no julgado do Tribunal a quo, até porque, para permitir a abertura da via especial e corretamente fundamentar o julgamento do recurso especial, é necessário que se decida sobre a matéria embargada, o que não ocorreu na espécie, permanecendo o acórdão silente quanto ao ponto suscitado.
+Ressalte-se que o enfrentamento da questão ventilada nos aclaratórios é absolutamente insuperável e não pode ser engendrado pela primeira vez nesta Corte - saber se se trata de uma execução aparelhada em cédula de crédito comercial com garantia ou de escritura de concessão de crédito comercial rotativo com garantia -, principalmente pela incidência dos óbices da Súmulas 5 e 7 do STJ.
+3. Ante o exposto, conheço do agravo para dar provimento ao recurso especial, anulando o acórdão dos embargos de declaração para determinar o retorno dos autos ao Tribunal de origem para que se manifeste sobre as omissões suscitadas pelos recorrentes.
+Prejudicado o requerimento de concessão de tutela de urgência para fins de deferir efeito suspensivo ao recurso especial.
+Publique-se.
+EMENTA
