@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. FALTA DE INDICAÇÃO DE VÍCIOS. AUSÊNCIA DE REQUISITO FORMAL. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. EMBARGOS NÃO CONHECIDOS .
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. A jurisprudência desta Corte Superior assenta que "não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal" (EDcl no AgInt no CC 168.959/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/5/2022, DJe 5/5/2022).
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por PORTOCRED S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO (EM LIQUIDAÇÃO EXTRAJUDICIAL) ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 959):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL.1. AÇÃO DE CONHECIMENTO. SUSPENSÃO DO FEITO. LIQUIDAÇÃO EXTRAJUDICIAL. INAPLICABILIDADE.2. PEDIDO DE JUSTIÇA GRATUITA NO AGRAVO INTERNO. SEM PROVEITO PARA A PARTE, PORQUANTO, AINDA QUE DEFERIDO, NÃO PRODUZ EFEITOS RETROATIVOS.3. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 4. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 5. AGRAVO INTERNO IMPROVIDO.
+1. No tocante ao pleito de suspensão do feito em decorrência da liquidação extrajudicial, o Superior Tribunal de Justiça tem o entendimento de que "a suspensão de ações ajuizadas em desfavor de entidades sob regime de liquidação extrajudicial e o veto à propositura de novas demandas após o decreto de liquidação não alcançam as ações de conhecimento voltadas à obtenção de provimento judicial relativo à certeza e liquidez do crédito" (AgInt no AREsp n. 902.085/SP, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 16/2/2017, DJe de 6/3/2017).
+2. O pedido de gratuidade de justiça formulado nesta fase recursal não tem proveito para a parte, porque o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, conquanto fosse deferido, não produziria efeitos retroativos.
+3. A modificação do entendimento alcançado pelo acordão estadual (acerca da ausência de abusividade na cobrança dos juros remuneratórios contratados) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. Agravo interno improvido.
+Em suas razões (e-STJ, fls. 973-987), a agravante pleiteia a suspensão do feito - nos termos do art. 18 da Lei 6.024/1974 - e a concessão da assistência judiciária gratuita, por estar em liquidação extrajudicial.
+Repisa, além disso, os termos do agravo interno, notadamente acerca da inaplicabilidade dos óbices sumulares n. 5 e 7 do Superior Tribunal de Justiça.
+Defende, no mais, a existência de divergência jurisprudencial acerca da manutenção da taxa de juros remuneratórios no percentual contratado.
+Busca, assim, que sejam acolhidos os aclaratórios.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. FALTA DE INDICAÇÃO DE VÍCIOS. AUSÊNCIA DE REQUISITO FORMAL. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. EMBARGOS NÃO CONHECIDOS .
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. A jurisprudência desta Corte Superior assenta que "não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal" (EDcl no AgInt no CC 168.959/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/5/2022, DJe 5/5/2022).
+3. Embargos de declaração não conhecidos.
+VOTO
+De início, no tocante ao pedido de suspensão do feito em decorrência da liquidação extrajudicial, o Superior Tribunal de Justiça tem o entendimento de que "a suspensão de ações ajuizadas em desfavor de entidades sob regime de liquidação extrajudicial e o veto à propositura de novas demandas após o decreto de liquidação não alcançam as ações de conhecimento voltadas à obtenção de provimento judicial relativo à certeza e liquidez do crédito" (AgInt no AREsp n. 902.085/SP, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 16/2/2017, DJe de 6/3/2017).
+Em relação ao pedido de justiça gratuita formulado nos embargos de declaração, impende destacar que nesta esfera recursal em nada aproveitaria à parte, porquanto os aclaratórios não necessitam de recolhimento de custas.
+Embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição financeira, a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade.
+Dito isso, os declaratórios não merecem conhecimento.
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Observa-se que a embargante, na verdade, busca a rediscussão da matéria já decidida, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Em suas razões recursais, sem apontar a existência de nenhum vício, a embargante trouxe apenas fundamentação sobre o mérito da decisão ora embargada.
+Cumpre assinalar que "a contradição sanável através dos embargos de declaração é aquela interna ao julgado, caracterizada por proposições inconciliáveis entre si, não tendo a ver com eventual discrepância do pronunciamento embargado com um parâmetro que lhe é externo (v.g. normas, provas, decisões proferidas em outros processos etc)" - (EDcl no REsp n. 1.849.678/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/2/2022, DJe de 17/2/2022).
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRAZO PRESCRICIONAL. INOVAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO. PRETENSÃO DE EFEITOS INFRINGENTES. INVIABILIDADE. ÔNUS SUCUMBENCIAIS. GRATUIDADE DE JUSTIÇA. EXIGIBILIDADE SUSPENSA. OMISSÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. A omissão a ser sanada por meio dos embargos de declaração é aquela relativa a ponto ou questão sobre a qual se devia pronunciar o juiz de ofício ou a requerimento, e não o fez, enquanto a contradição que autoriza o manejo dos aclaratórios é aquela que ocorre entre os fundamentos adotados ou entre esses e o dispositivo final, ou seja, a contradição interna manifestada pelo descompasso entre as premissas adotadas pelo acórdão recorrido e sua conclusão.
+2. A tese suscitada nos embargos declaratórios não foi objeto de recurso em momento oportuno, o que caracteriza inovação recursal, e não omissão sanável através do recurso declaratório.
+3. Constatada a omissão quanto à exigibilidade dos ônus sucumbenciais em razão do deferimento da gratuidade de justiça na origem, devem ser providos os aclaratórios para saneamento do vício.
+4. Embargos de declaração parcialmente acolhidos, para sanar a omissão verificada.
+(EDcl no REsp n. 2.026.943/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/6/2023, DJe de 15/6/2023.)
+Assim, carecendo de requisito formal - indicação de vício elencado no art. 1.022 do CPC/2015 - inviável o conhecimento dos embargos de declaração, por descumprimento do previsto no art. 1.023 do mesmo código.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FALTA DE INDICAÇÃO DOS VÍCIOS DO ART. 1.022 DO NCPC QUANTO AOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO. AUSÊNCIA DE REQUISITO FORMAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no CC 168.959/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/5/2022, DJe 5/5/2022.)
+Diante dessas considerações, não conheço dos embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
