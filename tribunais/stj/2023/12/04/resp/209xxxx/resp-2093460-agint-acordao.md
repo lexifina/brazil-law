@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JUÍZO INCOMPETENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O fundamento utilizado pela parte agravante não guarda pertinência com o texto expresso no dispositivo legal indicado como violado, o que atrai a incidência da Súmula 284/STF.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Eliane Domingos Leite contra decisão desta relatoria assim ementada (e-STJ, fl. 309):
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JUÍZO INCOMPETENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+Nas razões do agravo interno (e-STJ, fls. 318-335), a agravante aduz que a decisão recorrida contraria o novo entendimento firmado pela Terceira Turma do STJ além de reafirmar a negativa de prestação jurisdicional, ponderando que "no caso concreto a própria decisão monocrática transcreveu trecho do acórdão em que se confirma que o pedido, embora tenha sido considerado repetitivo, nunca foi apreciado, inclusive suscitando que a parte deveria ter oposto embargos ainda na primeira ação, o que confirma que não houve apreciação expressa como determina a nova orientação jurisprudencial" (e-STJ, fl. 324).
+Defende que a questão relacionada à incompetência do juízo está diretamente relacionada ao disposto no art. 337 do CPC.
+Ao final, pleiteia o provimento do recurso.
+Impugnação apresentada (e-STJ, fls. 391-393).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JUÍZO INCOMPETENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O fundamento utilizado pela parte agravante não guarda pertinência com o texto expresso no dispositivo legal indicado como violado, o que atrai a incidência da Súmula 284/STF.
+3. Agravo interno improvido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+No caso em análise, nos embargos de declaração opostos na origem, a agravante aduziu a existência de omissão no acórdão recorrido por não ter o TJPB emitido pronunciamento sobre o fato de que "ainda que a parte tivesse utilizado exatamente a mesma petição inicial deste processo para propor ação perante o juizado, não haveria coisa julgada porque o juízo seria incompetente para julgar o mérito, e é justamente isso que permite que a ação seja novamente ajuizada perante o juízo correto que é avara cível". (e-STJ, fl. 225).
+Contudo, constata-se que, ao dirimir a controvérsia, o Tribunal local assim se manifestou (e-STJ, fls. 243-244, sem grifo no original):
+Com efeito, o aresto embargado apreciou devidamente as questões postas em discussão, destacando que a ocorrência da coisa julgada, senão vejamos:
+Na presente demanda, a parte autora pretende a declaração de nulidade e devolução dos valores pagos a título de encargos (juros remuneratórios contratuais), que, segundo a tese exordial, incidiram sobre aquelas tarifas já tidas por ilegais no feito pretérito.
+Sobre a matéria, o Superior Tribunal de Justiça manifestou-se no sentido de reconhecer a coisa julgada nas hipóteses em o autor formula o pedido na primeira ação, já transitada em julgado e que tramitou perante o Juizado Especial Cível, consignando expressamente que buscava a devolução em dobro de todos os valores pagos com as tarifas declaradas nulas, inclusive os "acréscimos referentes às mesmas".
+ ..
+In casu, compulsando a petição inicial do pedido formulado e no processo que tramitou perante o Juizado Especial Cível da Capital, verifica-se que o autor requereu, além da procedência em relação à repetição do indébito das tarifas administrativas, os encargos ou acréscimos contratuais (juros) referentes às tarifas, senão vejamos:
+Pede que Vossa Excelência julgue totalmente procedente o pedido autoral, para condenar a promovida ao pagamento da quantia no R$ 4.427,14 (quatro mil, quatrocentos e vinte e sete reais e catorze centavos), correspondentes ao pagamento da quantia indevida, bem como acréscimos referentes à mesma, sendo corrigidos pelos mesmos índices aplicados pela instituição ré, devendo recair sobre o quantum fixado juros moratórios e correção monetária a partir da data do efetivo prejuízo (03/02/2011), conforme as Súmulas 43 e 54 do STJ  (Grifei).
+Na linha de entendimento do Tribunal da Cidadania, caberia ao demandante, na oportunidade do julgamento perante o Juizado Especial, ter ingressado com recurso adequado para integrar a decisão, no intuito de ver esclarecido o não deferimento do pedido referente aos acréscimos que deveriam incidir sobre as tarifas ilegais, o que não foi feito, operando-se, pois, a coisa julgada em seu desfavor.
+Desse modo, analisando detidamente a exordial da primeira ação que tramitou no Juizado Especial (processo nº 200.2011.976.371-8), verifico que o pedido incluiu os acréscimos referentes às tarifas declaradas nulas, devendo ser reconhecida a coisa julgada, nos termos da recente decisão do Superior Tribunal de Justiça acima colacionada.  ..
+Como se pode observar, a matéria que o embargante indica nas razões dos presentes embargos foi apreciada no acórdão, inexistindo, portanto, a falha apontada.
+Da análise dos trechos referidos, nota-se que o Tribunal originário resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante.
+Destarte, tendo o TJPB motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte a quo não se pronunciou sobre o pleito da ora agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão por ela deduzida.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/8/2021, DJe de 26/8/2021)
+No mais, a parte insurgente, sustentando a incompetência do juízo para julgar a questão relativa aos juros remuneratórios, alega afronta ao art. 337, §§ 1º e 2º, do CPC/2015.
+Contudo, verifica-se que a agravante não relacionou a contento a tese recursal - incompetência do juízo - com a ofensa ao dispositivo mencionado no recurso, o que atrai a incidência da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Além disso, importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos ou interpretados distintamente de outro tribunal pela decisão recorrida, sob pena de inadmissão.
+Veja-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. CUMULAÇÃO DE CLÁUSULA PENAL E LUCROS CESSANTES.
+BIS IN IDEM. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO.
+SÚMULA N. 284/STF. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. REVISÃO DO VALOR. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF.
+3. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n.
+284/STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1860286/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+Por fim, cabe salientar a impossibilidade de analisar o mérito do recurso à luz da atual jurisprudência do STJ (REsp 2.000.438/PB), uma vez que as questões apresentadas nas razões do recurso especial dizem respeito à negativa de prestação jurisdicional, a qual não ocorreu, bem como a incompetência do juízo para analisar a questão relacionada aos juros remuneratórios. Todavia, relativamente a este ponto, o recurso não foi conhecido, devido a incidência da Súmula 284/STF.
+Desse modo, não há razões que justifiquem o acolhimento da pretensão recursal, razão pela qual permanece incólume o entendimento firmado na decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
