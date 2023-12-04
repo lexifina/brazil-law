@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ CARLOS HOROWICZ contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 1.606):
+MANDADO DE SEGURANÇA. SERVIDOR. PROCESSO ADMINISTRATIVO DISCIPLINAR. OITIVA DE TESTEMUNHA.
+1. Oitiva de testemunha em processo administrativo disciplinar que se demonstra descabida, além de ser testemunha que é proibida de depor por dever profissional de sigilo também constando que se encontra na condição de indiciado em inquérito policial em razão de suposta participação nos fatos investigados. Alegação de nulidade afastada.
+2. Apelação desprovida.
+Rejeitados os aclaratórios (e-STJ fls. 1.631/1.648).
+No especial obstaculizado, a parte recorrente apontou violação do art. 1022, I e II, do CPC/2015, dos arts. 406, II, 414 do Decreto n. 59.310/1966, do art. 156, caput e § 1º, da Lei n. 8.112/1990, do art. 214 do CPP e do art. 50, I, da Lei n. 9.784/1999, sustentando negativa de prestação jurisdicional, bem como que indevido o indeferimento, que não teria sido devidamente motivado, do pedido de oitiva de testemunha em processo administrativo disciplinar.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 1.718/1.720.
+O Ministério Público Federal opina pelo não conhecimento do recurso especial (e-STJ fls. 1.743/1.746).
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Em relação ao art. 1022, I e II, do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 7 19.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, rel. Ministra DIVA MALERBI (desembargadora convocada do TRF da 3a Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+No que toca à ale gada contrariedade dos arts. 406, II, 414 do Decreto n. 59.310/1966 e do art. 214 do CPP, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Quanto ao mais, a Corte regional, após acolhida a fundamentação da sentença no sentido de que demonstrados os " ..  motivos ensejadores do indeferimento da oitiva da testemunha arrolada  .. " (e-STJ fl. 1.610), rematou que " ..  o pedido de oitiva de advogado em processo administrativo disciplinar desvela-se descabido, além de testemunha que é proibida de depor por dever profissional de sigilo também constando que se encontra na condição de indiciado em inquérito policial em razão de suposta participação nos eventos apurados na denominada "OPERAÇÃO AM/FM", possuindo interesse no desfecho do processo, ressaltando-se que realizar a oitiva do procurador na condição de informante em nada poderia acrescentar à investigação, já que não possuiria compromisso com a verdade, ato de indeferimento de oitiva de testemunha nessas condições despojando-se de qualquer ilegalidade" (e-STJ fls. 1.611).
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, p arágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
