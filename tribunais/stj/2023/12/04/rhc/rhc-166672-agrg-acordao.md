@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NOTIFICAÇÃO PARA PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP. ACUSADO NÃO ENCONTRADO NO SEU ENDEREÇO. PUBLICAÇÃO DE EDITAL. DENÚNCIA OFERECIDA. SUPERVENIENTE NEGATIVA DO MINISTÉRIO PÚBLICO EM OFERECER O ANPP, POR AUSÊNCIA DOS REQUISITOS DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL - CPP. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recorrente sustenta não ter sido localizado em seu endereço porque estava internado em uma clínica de reabilitação de dependentes químicos, fato que havia sido informado à autoridade policial. Entretanto, segundo o acórdão do Tribunal de origem e a certidão de fl. 333, a moradora do imóvel disse ao Oficial da Promotoria que o recorrente não mais residia no local, o que ensejou a sua notificação por edital.
+2. Ademais, conforme informações do site do Tribunal a quo, o Ministério Público, instado durante audiência de instrução de julgamento, negou o oferecimento do ANPP por entender que, em observância à parte final do art. 28-A do CPP, o acordo "não se mostra suficiente à prevenção e reprovação da conduta ilícita perpetrada". Dessa forma, não há falar em reabertura de prazo para oferecimento de ANPP.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por THIAGO MOREIRA DA SILVA contra a decisão que negou provimento ao recurso ordinário em habeas corpus, no qual se requer a abertura de prazo para o Ministério Público oferecer proposta de ANPP (fls. 564/565).
+O recorrente afirma ter informado à autoridade policial que passaria um período internado em clínica de reabilitação. Ignorando essa informação, o Ministério Público determinou a sua notificação no endereço da sua residência, onde não foi localizado, pois estava internado. Em segu ida, foi realizada a intimação por edital, em relação à proposta de acordo de não persecução penal. Sem resposta, a denúncia foi oferecida e recebida, ocasião em que o recorrente foi citado na clínica de reabilitação. Sustenta, assim, a existência de constrangimento ilegal, visto que a tentativa de localização do recorrente no endereço desatualizado impediu o prosseguimento e a aceitação da referida proposta de acordo de não persecução penal.
+Requer a reconsideração da decisão agravada ou o provimento do recurso pelo órgão colegiado, para que seja determinada a remessa dos autos originários para o Ministério Público, visando o oferecimento de ANPP.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NOTIFICAÇÃO PARA PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP. ACUSADO NÃO ENCONTRADO NO SEU ENDEREÇO. PUBLICAÇÃO DE EDITAL. DENÚNCIA OFERECIDA. SUPERVENIENTE NEGATIVA DO MINISTÉRIO PÚBLICO EM OFERECER O ANPP, POR AUSÊNCIA DOS REQUISITOS DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL - CPP. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recorrente sustenta não ter sido localizado em seu endereço porque estava internado em uma clínica de reabilitação de dependentes químicos, fato que havia sido informado à autoridade policial. Entretanto, segundo o acórdão do Tribunal de origem e a certidão de fl. 333, a moradora do imóvel disse ao Oficial da Promotoria que o recorrente não mais residia no local, o que ensejou a sua notificação por edital.
+2. Ademais, conforme informações do site do Tribunal a quo, o Ministério Público, instado durante audiência de instrução de julgamento, negou o oferecimento do ANPP por entender que, em observância à parte final do art. 28-A do CPP, o acordo "não se mostra suficiente à prevenção e reprovação da conduta ilícita perpetrada". Dessa forma, não há falar em reabertura de prazo para oferecimento de ANPP.
+3. Agravo regimental desprovido.
+VOTO
+Conforme relatado, a controvérsia refere-se à notificação do recorrente para o oferecimento de proposta de ANPP pelo Ministério Público (fl. 332).
+O recorrente sustenta não ter sido localizado em seu endereço porque estava internado em uma clínica de reabilitação de dependentes químicos, fato que havia sido informado à autoridade policial.
+Entretanto, segundo o acórdão do Tribunal de origem e a certidão de fl. 333, a moradora do imóvel disse ao Oficial da Promotoria que o recorrente não mais residia no local, o que ensejou a sua notificação por edital.
+Nessas circunstâncias, não há falar em irregularidade da notificação.
+Ademais, conforme informações do site do Tribunal a quo, o Ministério Público, instado durante audiência de instrução de julgamento, negou o oferecimento do ANPP por entender que, em observância à parte final do art. 28-A do CPP, o acordo "não se mostra suficiente à prevenção e reprovação da conduta ilícita perpetrada". Dessa forma, não há falar em reabertura de prazo para oferecimento de ANPP.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
