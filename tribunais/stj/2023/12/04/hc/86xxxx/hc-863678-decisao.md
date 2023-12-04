@@ -1,0 +1,8 @@
+DECISÃO
+MARINALVA MARIA DA SILVA alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargador do Tribunal a quo no Habeas Corpus n. 0000313-86.2023.8.17.9901, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que "a paciente foi presa por força de um mandado de prisão, expedido pela autoridade apontada como coatora, no dia 20 de outubro de 2023" (fl. 17), pela suposta prática do delito de denunciação caluniosa.
+Assere a defesa que, "inacreditavelmente a paciente foi presa em seu trabalho, menos de 03 horas após a expedição do mandado de prisão, ou seja, ELA; jamais esteve em local incerto e não sabido COMO DIZ O ESTADO, tendo em vista que quando houve o devido empenho para o cumprimento da meta que se referia ao cumprimento do mandado prisão rapidamente o estado PCPE/TJPE localizou onde sempre esteve a paciente desde SETEMBRO DE 2020 (seu trabalho)" (fl. 6).
+Concedida a medida liminar, foram prestadas as informações, oportunidade em que o Desembargador relator salientou que "o magistrado processante em decisão datada de 23 de outubro de 2023, revogou a prisão preventiva e determinou a expedição de Alvará de Soltura em favor de Marinalva Maria da Silva, ora paciente e, diante da informação de que foi revogada a prisão preventiva com a consequente expedição de Alvará de Soltura em favor da paciente, julguei, monocraticamente, prejudicado o pedido do Habeas Corpus nº 0000313-86.2023.8.17.9901" (fl. 559, grifei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
+EMENTA
