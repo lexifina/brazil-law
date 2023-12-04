@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de TIAGO DE MATTOS COELHO e VICTOR HUGO ANTUNES DA SILVA, em que se aponta como ato coator a decisão monocrática de desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu o pedido de liminar formulado no HC n. 1.0000.23.312708-3/000.
+Consta dos autos que os pacientes foram presos preventivamente, no âmbito da Operação Transformers, e denunciados pela prática, em tese, dos delitos capitulados nos arts. 33, caput, da Lei n. 11.343/2006; 1º da Lei n. 9.613/1998 e 2º, § 4º, inciso II, da Lei n. 12.850/2013, tudo na forma do art. 69 do Código Penal (Tiago); e 33, caput, da Lei n. 11.343/2006; 2º, § 4º, inciso II, da Lei n. 12.850/2013, na forma do art. 69 do CP (Victor Hugo). O juízo de primeiro grau indeferiu o pedido de extensão do benefício da liberdade provisória concedido a Télcio da Silva Clemente.
+Em suas razões, sustentam os impetrantes que pretendem "desconstituir a prisão preventiva mantida no bojo da Operação Transformers, haja vista a mudança de cenário processual que fez cessar os motivos que ensejaram o decreto prisional, qual seja, a concessão de liberdade provisória para o acusado Télcio da Silva Clemente - o qual é considerado líder da suposta organização criminosa e trata-se de indivíduo multirreincidente específico e foragido da justiça" (fl. 4). Argumentam que "o Juízo de primeiro grau fundou seu decisum para concessão de liberdade provisória ao acusado Télcio no fato de que a instrução processual já se encontra encerrada e, portanto, a liberdade do acusado Telcio e dos demais acusados da ação penal em questão não demonstra mais riscos à ação penal, o que também se verifica semelhante na ação penal em desfavor de VICTOR HUGO e TIAGO; sendo assim, vislumbrado mais um motivo de que não se mostra temerária a manutenção da prisão preventiva destes" (fl. 8).
+Requerem, assim, liminarmente e no mérito, a concessão de liberdade provisória aos pacientes, mediante a imposição de medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não visualizo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular.
+A decisão ora impugnada vislumbrou fundamentação na decisão que indeferiu o pedido de extensão, da qual extraio o seguinte trecho (fl. 56):
+Em que pese o alegado pelas defesas dos acusados Victor Hugo e Tiago, cumpre ressaltar que a liberdade provisória somente foi concedida ao acusado Télcio em razão do término da instrução na ação penal e por ocasião da extensão do benefício concedido a todos os réus nos autos de nº 5048026-88.2022.8.13.0145. Assim, o cenário das ações penais são diversos na medida em que nos autos em que os réus Victor Hugo e Tiago figuram como denunciados, grande parte dos corréus também encontram-se presos preventivamente, pelos fundamentos já expostos nas decisões proferidas por este juízo.
+Outrossim, importante destacar que as prisões preventivas de todos os acusados foram decretadas no procedimento cautelar, uma vez que, à época, não havia ações penais em curso. Contudo, observa-se que o acusado Télcio foi denunciado em dois procedimentos distintos em razão da Operação Transformers, situação esta que o diferencia dos demais acusados, de modo que a prisão preventiva do acusado Télcio permanece vigente nos autos de nº 5004123-66.2023.8.13.0145.
+O alegado direito à extensão do benefício concedido ao acusado Télcio não ressai evidente nos autos, demandando m aior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
