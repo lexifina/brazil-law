@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CÓDIGO DE PROCESSO CIVIL. FORNECIMENTO DE MEDICAMENTO. LEGITIMIDADE PASSIVA. SOLIDARIEDADE ENTRE OS ENTES FEDERATIVOS. CONSONÂNCIA. ACÓRDÃO MANTIDO.
+I - Consoante o art. 1.040, II, do Código de Processo Civil, publicado o acórdão paradigma de Recurso Extraordinário afetado ao rito da repercussão geral, "o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior".
+II - Tendo o o acórdão recorrido contrariado entendimento consolidado segundo o qual o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, Estados, Distrito Federal e Municípios, sendo qualquer deles, em conjunto ou isoladamente, parte legítima para figurar no polo passivo de demanda que objetive a garantia de acesso a medicamentos adequado para tratamento de saúde, deve ser mantido o acórdão.
+III - Agravo Interno desprovido. Acórdão mantido.
+RELATÓRIO
+Trata-se de juízo de retratação determinado pela Vice-Presidência desta Corte (fls. 274/278e), nos moldes do art. 1.040, II, do Código de Processo Civil, nos autos de Recurso Extraordinário interposto pelo ESTADO DE MINAS GERAIS, com fundamento no art. 102, III, a, da Constituição da República, contra acórdão assim ementado (fls. 577/578e):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DIREITO ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. IDOSO. LEGITIMIDADE PASSIVA SOLIDÁRIA DOS ENTES PÚBLICOS (MUNICÍPIO, ESTADO E UNIÃO). ARTS. 196 E 198, § 1º, DA CF/88. PRECEDENTES DO STJ. RECURSO ESPECIAL PROVIDO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Verifico que o acórdão recorrido contrariou entendimento consolidado nesta Corte o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, Estados, Distrito Federal e Municípios, sendo qualquer deles, em conjunto ou isoladamente, parte legítima para figurar no polo passivo de demanda que objetive a garantia de acesso a medicamentos adequado para tratamento de saúde.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Alega-se, em síntese, que o acórdão teria contrariado o precedente firmado pelo Supremo Tribunal Federal, no julgamento do Tema n. 793 da repercussão geral.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CÓDIGO DE PROCESSO CIVIL. FORNECIMENTO DE MEDICAMENTO. LEGITIMIDADE PASSIVA. SOLIDARIEDADE ENTRE OS ENTES FEDERATIVOS. CONSONÂNCIA. ACÓRDÃO MANTIDO.
+I - Consoante o art. 1.040, II, do Código de Processo Civil, publicado o acórdão paradigma de Recurso Extraordinário afetado ao rito da repercussão geral, "o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior".
+II - Tendo o o acórdão recorrido contrariado entendimento consolidado segundo o qual o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, Estados, Distrito Federal e Municípios, sendo qualquer deles, em conjunto ou isoladamente, parte legítima para figurar no polo passivo de demanda que objetive a garantia de acesso a medicamentos adequado para tratamento de saúde, deve ser mantido o acórdão.
+III - Agravo Interno desprovido. Acórdão mantido.
+VOTO
+Consoante decisão lavrada pela Vice-Presidência desta Corte, os presentes autos retornaram a esta Primeira Seção, para eventual juízo de retratação, nos termos estampados no art. 1.040, II, do Código de Processo Civil.
+Por primeiro, sublinhe-se que o Recurso Especial de fls. 448/464e, cinge-se a discutir a legitimidade passiva à vista da solidariedade dos entes federativos quanto à prestação pleiteada, não envolvendo diretamente a controvérsia atinente à fixação da competência em função do registro de fármaco na ANVISA.
+No caso, verifica-se que o acórdão recorrido, prolatado por esta 1ª Turma em 10.05.2021, está em plena consonância com o entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, e deste Tribunal Superior.
+Isso porque a jurisprudência desta Corte é firme no sentido de que as ações relativas à assistência à saúde pelo Sistema Único de Saúde (fornecimento de medicamentos) podem ser propostas em face de qualquer dos entes componentes da Federação Brasileira (União, Estados, Distrito Federal e Municípios), sendo todos legitimados passivos para responderem a elas, individualmente ou em conjunto, como espelham os julgados assim ementados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. FORNECIMENTO GRATUITO DE MEDICAMENTOS. IDOSO. LEGITIMIDADE PASSIVA SOLIDÁRIA DOS ENTES PÚBLICOS (MUNICÍPIO, ESTADO E UNIÃO). ARTS. 196 E 198, § 1º, DA CF/88. PRECEDENTES DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+(..)
+3. O Sistema Único de Saúde é financiado pela União, Estados-membros, Distrito Federal e Municípios, sendo solidária a responsabilidade dos referidos entes no cumprimento dos serviços públicos de saúde prestados à população. Legitimidade passiva do Estado configurada.
+4. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp 828.140/MT, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 20/03/2007, DJ 23/04/2007, p. 235).
+ADMINISTRATIVO. CONTROLE JUDICIAL DE POLÍTICAS PÚBLICAS. POSSIBILIDADE EM CASOS EXCEPCIONAIS - DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. MANIFESTA NECESSIDADE. OBRIGAÇÃO SOLIDÁRIA DE TODOS OS ENTES DO PODER PÚBLICO. NÃO OPONIBILIDADE DA RESERVA DO POSSÍVEL AO MÍNIMO EXISTENCIAL. POSSIBILIDADE. FIXAÇÃO. MULTA DIÁRIA. DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL.
+(..)
+4. In casu, não há impedimento jurídico para que a ação, que visa a assegurar o fornecimento de medicamentos, seja dirigida contra a União, tendo em vista a consolidada jurisprudência do STJ: "o funcionamento do Sistema Único de Saúde (SUS) é de responsabilidade solidária da União, Estados-membros e Municípios, de modo que qualquer dessas entidades têm legitimidade ad causam para figurar no pólo passivo de demanda que objetiva a garantia do acesso à medicação para pessoas desprovidas de recursos financeiros" (REsp 771.537/RJ, Rel. Min. Eliana Calmon, Segunda Turma, DJ 3.10.2005).
+(..)
+7. Recurso Especial não provido.
+(REsp 1.488.639/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/11/2014, DJe 16/12/2014).
+Nesse sentido: AgRg no Ag 1.231.616/SC, 1ª T., Rel. Min. Napoleão Nunes Mais Filho, DJe de 06.04.2015; AgRg no AREsp 609.204/CE, 2ª T., Rel. Min. Humberto Martins, DJe de 19.12.2014; AgRg no REsp 1.495.120/MG, 1ª T., Rel. Min. Sérgio Kukina, DJe de 10.12.2014; AgRg no Ag 1.315.346/MG, 1ª T., Rel. Min. Benedito Gonçalves, DJe de 29.09.2014; e AgRg no AREsp 428.566/MG, 2ª T., Rel. Min. Assusete Magalhães, DJe de 28.05.2014.
+Tal entendimento foi referendado pelo Supremo Tribunal Federal em sede de repercussão geral (Tema n. 793), consoante a ementa a seguir:
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.
+(RE 855.178 RG, Relator Min. LUIZ FUX, julgado em 05/03/2015, REPERCUSSÃO GERAL - MÉRITO - DJe-050 DIVULG 13-03-2015 - PUBLIC 16-03-2015).
+Posto isso, MANTENHO o acórdão mediante o qual negado provimento ao Agravo Interno.
+É o voto.
