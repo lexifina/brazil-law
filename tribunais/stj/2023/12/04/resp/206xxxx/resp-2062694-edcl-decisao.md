@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 1.172/1.180) opostos à decisão desta relatoria, que negou provimento ao recurso especial (e-STJ fls. 1.166/1.169).
+A parte embargante sustenta, em síntese, a necessidade de "ser sanada a omissão, para o Recurso Especial ser julgado em consonância com o julgamento histórico do RE 827.996/PR pelo Supremo Tribunal Federal, sem aplicação dos temas 50 e 51  do STJ ".
+Impugnação não apresentada.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando na decisão judicial houver obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Em regra, o recurso integrativo não permite o rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Com efeito, na decisão embargada constam, de forma clara e suficiente, as razões da negativa de provimento ao recurso especial, expostas, em síntese, nos seguintes termos (e-STJ fls. 1.168/1.169, grifei):
+O Tribunal de origem destacou que, "para a configuração do interesse da Caixa Econômica Federal, é necessário que o contrato tenha sido celebrado entre 02.12.1988 e 29.12.2009; que o instrumento esteja vinculado ao Fundo de Compensação de Variações Salariais - fcvs (apólices públicas, ramo 66), bem como a demonstração cabal do comprometimento do fcvs, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA" (e-STJ fl. 962).
+Concluiu, entretanto, que, "no caso vertente, a agravante não logrou êxito em demonstrar cabalmente o comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, tampouco que os seguros adjetos fosse do ramo 66, o que afasta o interesse da Caixa Econômica Federal em integrar o feito e impõe o reconhecimento da incompetência absoluta da Justiça Federal" (e-STJ fl. 962).
+Observados pelo acórdão recorrido os parâmetros firmados pela Segunda Seção do STJ, incide a Súmula n. 83/STJ.
+Ademais, a revisão do concluído pela Corte local - no sentido de que não há comprovação de comprometimento do FCVS - esbarra nas Súmulas n. 5 e 7 do STJ (AgInt no AREsp n. 2.048.941/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022; e AgInt nos EDcl no AREsp n. 1.360.280/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022).
+Destaca-se que, por ocasião do julgamento do RE n. 827.966/PR, o Supremo Tribunal Federal, apreciando o Tema n. 1.011/STF, firmou, nos termos do voto condutor do acórdão, o entendimento de que "há competência da Justiça Federal nas causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS" (grifei).
+Logo, concluindo o Tribunal de origem pela ilegitimidade passiva da CEF e, por consequência, pela manutenção da decisão que determinou o retorno dos autos à Justiça Estadual, em razão da ausência de demonstração, por parte da embargante, de que o contrato de seguro objeto do presente feito seja vinculado à apólice pública (Ramo 66), incidem, conforme constou da decisão embargada, as Súmulas n. 5, 7 e 83 do STJ.
+Pelas razões expostas no recurso integrativo, verifica-se que a pretensão se volta, em última análise, à rediscussão de questões devidamente examinadas na decisão embargada, o que é incabível nos embargos declaratórios.
+Havendo motivação satisfatória para dirimir o litígio nos moldes do juízo embargado, não se constata nenhuma das hipóteses de cabimento dos declaratórios, não configurando nenhum dos vícios previstos no art. 1.022 do CPC/2015 o fato de a decisão recorrida ser contrária aos interesses da parte embargante.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
