@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LABORATÓRIO FARMACÊUTICO ELOFAR LTDA. contra a decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Agravo de Instrumento n. 5031316-34.2022.8.24.0000) assim ementado (fl. 74):
+PROCESSUAL CIVIL - EXECUÇÃO - PENHORA INCIDENTE SOBRE FATURAMENTO DA EMPRESA - POSSIBILIDADE - AUSÊNCIA DE OUTROS BENS PENHORÁVEIS - CPC, ART. 866
+1 Consoante previsão expressa contida no art. 866, do Código de Processo Civil, "se o executado não tiver outros bens penhoráveis ou se, tendo-os, esses forem de difícil alienação ou insuficientes para saldar o crédito executado, o juiz poderá ordenar a penhora de percentual de faturamento de empresa".
+2 É cabível a penhora de 10% do faturamento bruto de empresa para satisfação do crédito exequendo, quando restarem infrutíferas outras tentativas de satisfação do crédito, não havendo bens penhoráveis.
+3 Não havendo demonstração de que a penhora de 10% do faturamento bruto da empresa possa gerar empecilhos que tornem inviável o exercício da atividade empresarial, deve ser mantido o percentual, que se revela adequado, razoável e em conformidade com a observância do interesse do credor e da preservação da entidade empresária.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 866 do Código de Processo Civil.
+Alega que, ao contrário do que constou no acórdão recorrido, não houve o esgotamento da demonstração de inexistência de outros bens penhoráveis e o percentual sobre o faturamento, que entende ser excessivo e desproporcional, poderá inviabilizar o exercício da atividade profissional.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 118).
+É o relatório. Decido.
+Trata-se na origem de ação de execução de título extrajudicial proposta por Cláudio João de Abreu em face de Laboratório Farmacêutico Elofar Ltda., na qual foi proferida decisão interlocutória determinado penhora sobre o faturamento da executada.
+Inconformada, a parte executada agravou de instrumento.
+O Tribunal de origem, soberano na análise dos fatos e provas dos autos, concluiu pela manutenção da penhora, na medida em que os outros meios de satisfação da dívida não se mostraram eficazes, que não há outros bens penhoráveis e que o percentual fixado para a satisfação do crédito se mostrou razoável para não prejudicar a continuidade da ativada da entidade empresarial.
+Confira-se, a propósito, excerto do julgado (fls. 75-77):
+A partir da apreciação minuciosa dos autos, arremata-se agora, em definitivo, a conclusão já delineada quando do indeferimento do pedido liminar de concessão de efeito suspensivo, isto é, a penhora de percentual de faturamento da empresa é admitida pelo Código de Processo Civil, em seu art. 835, inc. X, cuja regulamentação específica esta prevista no art. 866, do citado Diploma Processual, o qual assim prevê em seu caput e § 1º:
+ ..
+Não se ignora que se trata de procedimento constritivo excepcional, o que se evidencia, aliás, tanto pela posição na ordem de preferência estabelecida pelo art. 835, figurando como 10º bem a ser levado em consideração em busca da satisfação do crédito do exequente, quanto pela disposição expressa do acima reproduzido art. 866, que é enfático ao admitir essa espécie de penhora somente nos casos de não haver outros bens penhoráveis ou se, havendo, forem de difícil alienação ou insuficientes para quitar a dívida.
+E não é necessária muita digressão a respeito da excepcionalidade da medida, afinal, trata-se de constrição que recairá sobre recursos do ente empresarial, em relação ao qual se deve priorizar esforços para sua manutenção.
+ ..
+Em verdade, a possibilidade desse ato constritivo já existia no ordenamento jurídico na vigência do Código Processual de 1973, conforme se observava de seu art. 655, inc. VII, introduzido pela reforma processual inaugurada pela Lei n. 11.382/2006.
+E, em que pese a inequívoca excepcionalidade da medida, é certo que é possível de ser adotada quando as circunstâncias fático-processuais demonstrarem seu cabimento.
+Não se pode olvidar de que, além dos princípios da menor onerosidade e da função social da empresa, também incide ao caso, com similar importância, o princípio da efetividade da execução ou do resultado, o qual, segundo Elpídio Donizetti, estabelece que "pelo processo de execução ou cumprimento de sentença deve-se assegurar ao credor precisamente aquilo a que tem ele direito, nada mais, "no resultado mais próximo que se teria caso não tivesse havido a transgressão de seu direito"" (Curso Didático de Direito Processual Civil. 20. ed. São Paulo: Atlas, 2017. p. 997).
+ ..
+Ora, não fosse admitida essa modalidade de penhora, por certo o faturamento da empresa estaria previsto no Código Adjetivo como bem impenhorável, de modo que nem sequer seria necessário discorrer com profundidade a respeito.
+No caso em apreço, não há dúvida de que a exceção deve ser admitida, não só pelo perfeito enquadramento no permissivo legal, como também pelas próprias especificidades da situação apresentada.
+É que a executada não adimpliu voluntariamente a dívida e, tampouco, indicou bens passíveis de penhora. Ademais, realizada a tentativa de penhora de ativos financeiros da executada em contas bancárias, via BACENJUD, encontrou-se apenas pouco mais de R$ 3.000,00, valor módico, se considerado o montante total exequendo (aproximadamente R$ 300.000,00).
+Na sequência, o agravado peticionou, comprovando que a agravante não tem nem imóveis nem veículos em seu nome, e pleiteou a penhora de faturamento.
+Por isso, evidenciando-se a subsunção do fato à norma, conclui-se pela manutenção do ato constritivo sobre o faturamento da executada, pois tentou-se outros meios de satisfação da dívida, os quais não se mostraram eficazes, e não há, ab initio, outros bens penhoráveis, o que frustrará, sem dúvidas, o interesse do credor, situação que não se pode tolerar, devendo-se atentar à máxima segundo a qual a execução se processa no interesse dele.
+Cumpre considerar que a agravante nem ao menos indicou de que forma menos gravosa poderia seguira execução, ônus que lhe competia diante da prova apresentada pelo agravado, que demonstrou que aquela não tinha outros bens.
+O patamar de 10%, in casu, mostra-se razoável para satisfazer o crédito exequendo, bem como para não prejudicar a continuidade da atividade da entidade empresarial. Aqui também é importante destacar que a recorrente nem disse quanto seria seu faturamento, nem suas despesas mensais, de modo que não há mínimos indícios de que o percentual definido pelo juiz fosse desproporcional.
+Não há prova, portanto, da excessividade da constrição. A quantia determinada, assim, preserva tanto o interesse do credor, quanto a manutenção das atividades da devedora.
+Desse modo, para rever as conclusões adotadas na origem e acatar a tese recursal de que a medida constritiva foi tomada antes de que se esgotassem a demonstração de inexistência de outros bens penhoráveis, bem como de que o percentual fixado é excessivo e poderá inviabilizar o exercício da atividade profissional, seria imprescindível o reexame fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+Ademais , observo que a Corte local fundamentou a manutenção da penhora sobre o faturamento sob os fundamentos de que a executada não adimpliu voluntariamente a dívida, não indicou bens passíveis de penhora, tampouco informou o seu faturamento e despesas mensais a demonstrar a desproporcionalidade da medida.
+A parte recorrente, contudo, limitando-se a defender a ausência de esgotamento de outras medidas mais gravosas e a desproporcionalidade da medida, em momento algum rebateu os fundamentos do acórdão recorrido, suficientes para a manutenção do julgado, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
