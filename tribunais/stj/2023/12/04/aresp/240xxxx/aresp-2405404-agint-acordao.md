@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo não provido.
+RELATÓRIO
+Cuida-se do agravo interposto por TELEMAR NORTE LESTE S/A. - EM RECUPERACAO JUDICIAL, contra decisão unipessoal que conheceu do agravo que interpusera para não conhecer do recurso especial.
+Ação: de cobrança, ajuizada por CÉSAR AUGUSTO MAYNART RIMOLI, em face da FUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIAL e da agravante, na qual pleiteia o pagamento corrigido das diferenças apuradas nas parcelas resgatadas, vencidas e vincendas, até implementação definitiva em folha de pagamento dos benefícios de suplementação denominados "aposentadoria ordinária" e "benefício saldado", incluindo em seus cálculos o reflexo das parcelas salariais deferidas em ação trabalhista.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta pelo autor, a fim de julgar procedente o pedido, para: i) condenar a agravante a recompor a reserva matemática, considerando os valores recebidos no âmbito da Justiça do Trabalho, com o abatimento da importância correspondente à cota do autor, a qual deverá ser por ele recomposta e ii) condenar a FUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIAL a revisar a renda mensal inicial da aposentadoria complementar, tudo a ser apurado em liquidação de sentença, observada a prescrição quinquenal. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL. CIVIL. AÇÃO INDENIZATÓRIA. PREVIDÊNCIA COMPLEMENTAR. REVISÃO DA RENDA MENSAL INICIAL. COMPLEMENTAÇÃO COM VALORES ORIUNDOS DE RECLAMAÇÃO TRABALHISTA. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS, RECONHECENDO A PRESCRIÇÃO. INTELIGÊNCIA DA SÚMULA 427 DO E. STJ. PRESTAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO QUE NÃO ATINGE O PRÓPRIO FUNDO DO DIREITO, MAS APENAS ASPARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE ANTECEDE O AJUIZAMENTO DA AÇÃO. MATÉRIA APRECIADA PELO E. STJ NO TEMA 1021. IMPOSSIBILIDADE, EM REGRA, DE INCLUIR, NOS CÁLCULOS DOS PROVENTOS DE COMPLEMENTAÇÃO DE APOSENTADORIA PAGOS POR ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA QUAISQUER VERBAS REMUNERATÓRIAS RECONHECIDAS PELA JUSTIÇA DO TRABALHO APÓS A CONCESSÃO DO BENEFÍCIO. SITUAÇÃO PRESENTE QUE SE ENQUADRA NA EXCEÇÃO QUE DEU AZO À MODULAÇÃO DOS EFEITOS DO REFERIDO JULGAMENTO PORQUANTO A DEMANDA FOI AJUIZADA ANTES DE 2018 E HÁ PREVISÃO REGULAMENTAR DE QUE AS VERBAS REMUNERATÓRIAS COMPÕEM A BASE DE CÁLCULO DO BENEFÍCIO. PATROCINADORA QUE INTEGRA O PÓLO PASSIVO, DEVENDO SER CONDENADA A RECOMPOR AS RESERVAS MATEMÁTICAS E A ADMINISTRADORA A REVISAR A RENDA MENSAL INICIAL, ABATENDO-SE A COTA DEVIDA PELO APELANTE, TUDO A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA. PROVIMENTO DO RECURSO.
+Embargos de declaração: interpostos pela agravante e pelos agravados, foram i) rejeitados os embargos da agravante; ii) acolhidos os embargos de CÉSAR AUGUSTO MAYNART RIMOLI, para esclarecer que as diferenças apuradas deverão ser corrigidas monetariamente desde a data do vencimento e com a incidência de juros a contar da citação, autorizada a compensação de valores; e iii) acolhidos os embargos da FUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIAL, a fim de determinar a necessidade de recomposição das reservas matemáticas de forma prévia pelo participante e pela patrocinadora, tudo a ser apurado em perícia atuarial e, ainda, afastar a sua condenação ao pagamento dos ônus sucumbenciais.
+Embargos de declaração: interpostos novamente pelo autor, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, 114, 116, 489, § 1º, II, 927, III e V, 1.022 e 1.040, III, do CPC/15, 6º, 18, caput e § 1º, e 32 da LC 109/01 e 6º, da LC 108/01, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a responsabilidade exclusiva do participante na recomposição da reserva matemática. Pugna pela aplicação da tese fixada no julgamento do Tema 1.021 pelo STJ. Insurge-se contra sua condenação ao pagamento dos ônus sucumbenciais. Sustenta sua ilegitimidade passiva.
+Decisão agravada: conheceu do agravo para não conhecer do recurso especial, com os seguintes fundamentos: i) incidência dos óbices das Súmulas 283 e 284, ambas do STF, e 7 e 211, ambas do STJ; e ii) ausência de comprovação do dissídio jurisprudencial.
+Agravo interno: nas razões do presente recurso, a agravante desenvolve as seguintes argumentações: i) demonstrou a violação de dispositivos legais; ii) a matéria alegada foi prequestionada, ainda que implicitamente; iii) todos os fundamentos do acórdão recorrido foram impugnados; iv) não pretende o reexame de fatos e provas; e v) o dissídio jurisprudencial foi comprovado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo não provido.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pela agravante, com os seguintes fundamentos: i) incidência dos óbices das Súmulas 283 e 284, ambas do STF, e 7 e 211, ambas do STJ; e ii) ausência de comprovação do dissídio jurisprudencial.
+1. Da violação do art. 1.022 do CPC/15
+Inicialmente, não obstante alegue a agravante que demonstrou a ofensa ao art. 1.022 do CPC/15, verifica-se, da análise de suas razões do recurso especial, que foram tecidas afirmações genéricas no sentido de que houve violação do referido dispositivo, em virtude da rejeição dos embargos de declaração. Não foram especificamente apontadas, todavia, as supostas omissões, contradições ou obscuridades em que incorreria o acórdão recorrido, bem como a relevância desses aspectos para a solução da lide. Incidente, pois, a Súmula 284/STF.
+2. Da Súmula 284/STF
+Também é inafastável o óbice da Súmula 284/STF, tendo em vista que a agravante, nas razões do recurso especial, não demonstrou, de forma consistente e específica, em que consistiria a violação dos arts. 82, §2º, 85, 114, 116, 489, § 1º, II, 927, III e V, e 1.040, III, do CPC/15, 6º, 18, caput e § 1º e 32 da LC 109/01 e 6º, da LC 108/01.
+3. Da ausência de prequestionamento
+De outro turno, o recurso especial não poderia ser conhecido, tendo em vista que os dispositivos legais indicados como violados não foram objeto de expresso prequestionamento pelo Tribunal de origem, o que importa na incidência do óbice da Súmula 211/STJ.
+4. Da existência de fundamento não impugnado
+Ademais, o Tribunal de origem entendeu que "o fundamento utilizado pela r. sentença, qual seja, de ausência de prévia formação da reserva matemática necessária ao pagamento do benefício, não se sustenta na medida em que o apelante teve a cautela de incluir a patrocinadora no pólo passivo" (e-STJ fl.1.806). Assim, concluiu que, de acordo com o decidido no "REsp repetitivo n. 1.312.736/RS, como se vê abaixo (..) em integrando a lide, é possível condenar a patrocinadora " (e-STJ fls. 1.756/1.758). O referimento fundamento, contudo, não foi impugnado de maneira consistente e específica pela agravante, o que torna inafastável o óbice da Súmula 283/STF.
+5. Do reexame de fatos e provas
+Com relação à distribuição dos ônus sucumbenciais, de fato, rever o decidido pelo Tribunal de origem demandaria desta Corte, invariavelmente, o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial pelo óbice da Súmula 7/STJ. Nesse sentido: AgInt no AREsp 1.254.829/SP, 4ª Turma, DJe de 30/09/2019 e AgRg no AREsp 669.541/RS, 3ª Turma, DJe de 03/02/2016.
+6. Da divergência jurisprudencial
+Por fim, com relação ao dissídio jurisprudencial, nota-se que não pode ele ser tido como demonstrado da forma devida, pois para sua caracterização não basta a transcrição de ementas e trechos dos acórdãos paradigmas. Também é necessário que se aponte e explicite por que os casos são semelhantes e qual é a proximidade fática entre os julgados comparados, o que não foi realizado na hipótese dos autos.
+A decisão agravada, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo.
