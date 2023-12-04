@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FRANCISCO EDVALTER NEVES contra decisão monocrática proferida pela presidência do STJ, que não conheceu do agravo em recurso especial em razão da Súmula n. 182 do STJ (fls. 1013-1015).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 613):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA - INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C DANOS MORAIS - RESERVA DE MARGEM CONSIGNÁVEL - BENEFÍCIO PREVIDENCIÁRIO - FATO NEGATIVO - ÔNUS PROBATÓRIO DA PARTE RÉ - IMPUGNAÇÃO DA AUTENTICIDADE DA ASSINATURA - AUSÊNCIA DE PEDIDO DE PERÍCIA GRAFOTÉCNICA PELA PARTE RÉ-RESTITUIÇÃO EM DOBRO - IMPOSSIBILIDADE - RESTITUIÇÃO SIMPLES - COMPENSAÇÃO -POSSIBILIDADE - DANOS MORAIS - AUSÊNCIA -MEROS ABORRECIMENTOS - SENTENÇA REFORMADA.
+-Tratando-se de ação declaratória de inexistência de relação jurídica cumulada com indenização por danos morais é ônus do réu, pretenso credor, provar a existência de vínculo contratual.
+-Havendo expressa alegação de fraude e impugnação à autenticidade da assinatura lançada no documento juntado pela parte ré, é ônus deste último a prova da veracidade da firma do contratante.
+-Não havendo requerimento de realização de perícia grafotécnica, ônus que incumbia à parte que produziu o documento (art. 429, II do CPC), a cópia do documento apresentando não serve como prova da existência da relação jurídica impugnada pela parte autora, devendo ser reconhecida a inexistência de débito.
+-A orientação até então vigente junto à 2ª Seção do STJ exigia, para fins decondenação à restituição em dobro, era da necessidade deprova da má-fé do fornecedor na cobrança declarada indevida, a cargo do consumidor.
+-A partir do novo entendimento firmado pelo STJ, no julgamento dos embargos de divergência AEREsp n. 600.663/RS, consolidou-se que a regra do CDC é a restituição em dobro em favor do consumidor, ao passo que a restituição se dará de forma simples, se tiver havidoprova doengano justificável por parte do fornecedor e pretenso credor na cobrança reputada indevida.
+-Nos termos da modulação dos efeitos determinada pelo STJ, não se exigirá a prova da má-fé apenas nas cobranças realizadas após a publicação do acórdão, o que ocorreu em 30.03.2021.-No caso concreto,como a celebração do contrato impugnado é anteriorà modificação do entendimento pelo STJ, a ausência de prova da má-fé do fornecedor afasta a pretensão de restituição em dobro dos valores desembolsados pelo consumidor.
+-Para evitar o enriquecimento ilícito do autor, é de se reconhecer o direito da instituiçãofinanceira à devolução das quantias disponibilizadas na conta do consumidor relativamente ao contrato inexigível.
+-Não se cuidando de danos in re ipsa, incumbe à parte autora o ônus de comprovar que a falha no serviço causou-lhe humilhação, dor ou sofrimento desarrazoados.
+Rejeitados os embargos de declaração opostos (fls. 788-795).
+Alega o agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido pela lei.
+Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+Sustenta que "uma simples leitura dos autos observa-se que no caso destes autos todos os capítulos do julgado foram fielmente impugnados em estrita atenção ao princípio da dialeticidade recursal, a impugnação foi realizada de forma efetiva, concreta e pormenorizada, e não com alegações genéricas ou relativas ao mérito da controvérsia, portanto, respeitosamente, não ocorreu incidência da Súmula n. 182 do STJ" (fl. 1021).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, apresentou impugnação (fls. 1034-1037).
+É, no essencial, o relatório
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O Tribunal de origem inadmitiu o recurso especial sob os seguintes fundamentos: ausência de afronta ao art. 1.022 do CPC e Súmula 7/STJ.
+No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a incidência da Súmula n. 7 do STJ.
+Nos termos da jurisprudência do STJ, "a impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto, e não simplesmente reiterar o Recurso Especial. (AgInt no AREsp 1790197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 1º.7.2021)" (STJ, AgInt no AREsp n. 2.023.795/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/6/2022).
+Do mesmo modo, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (STJ, AgInt no AREsp n. 1.463.467/RJ, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 29/6/2020).
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
