@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por ENGARRAFADORA PERNAMBUCO LTDA., contra decisão que negou seguimento ao recurso especial, sob os seguintes fundamentos: (i) conformidade do acórdão com entendimento do STJ exarado e nos Recursos Especiais repetitivos n. 1.696.396/MT e n. 1.704.520/MT (art. 1.030, I, "b", do CPC/2015) e (ii) ausência de comprovação de ofensa aos arts. 114, 116 e 506 do CPC/2015 (e-STJ fls. 2.089/2.095).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.919):
+Marca - Ação inibitória, cominatória e indenizatória - Tutela de urgência concedida - Observância de acórdão anterior proferido por esta mesma Câmara Reservada - Reconhecimento da extinção do contrato de licenciamento de marca antes celebrado - Uso indevido da marca "Pitú" pela ré em período após encerramento da relação contratual - Litisconsórcio necessário não configurado - Indenização por dano moral - Quantum a ser fixado por arbitramento - Decisão reformada - Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.995/2.001).
+No recurso especial (e-STJ fls. 1.933/1.950), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta violação do art. 1.015 do CPC/2015 sustentando que não foi indicada a urgência da situação ou o risco de perecimento do direito a justificar o conhecimento do agravo de instrumento.
+Indica ofensa aos arts. 114, 116, 503, § 2º, e 506 do CPC/2015 alegando que (e-STJ fls. 1.945/1.946):
+Destarte, se houve participação direta da recorrente no negócio jurídico que está servindo de base jurídica para a entrega da tutela jurisdicional (como "LICENCIADA"), é litisconsorte passiva unitária necessária, para todos os efeitos legais.
+Se a demanda pretende a "abstenção de uso", é certo que esse uso foi permitido por conta do contrato assinalado, de modo que há necessidade da participação no processo de todos os seus partícipes.
+Mesmo porque, conforme registrado no corpo do v. acórdão recorrido, a denúncia do contrato foi formalizada por edital, publicado em periódico de grande circulação, e foi endereçada à pessoa da recorrente.
+(..)
+Querendo ou não o que está em jogo é contrato de uso de marca, relação jurídica incindível que impõe a obrigatoriedade de participação de todos aqueles que dela participaram, dentre eles a recorrente PERNAMBUCO.
+(..)
+Negou-se vigência ao comando legal que impede a decisão judicial de prejudicar quem não fez parte da relação jurídica processual (CPC, artigo 506), no caso, a recorrente, uma vez que foi o seu contrato objeto de tutela jurisdicional sem a sua participação.
+A própria r. decisão combatida reconhece também que o contrato de licença de uso da marca foi celebrado "com empresa componente do mesmo grupo econômico em que está inserida a ré", referindo-se categoricamente à recorrente.
+Se o contrato de uso que embasou a tutela jurisdicional pertence à recorrente e se esta foi considerada como participe de um suposto grupo econômico com a recorrida, é certo que a mesma é parte preterida da presente relação jurídica processual.
+Alega ainda que "a conduta que lhe é atribuída na petição inicial e na própria decisão recorrida é suficiente para configurar um liame capaz de vincular a recorrente, pelo menos em tese, à causa de pedir e considerá-la como litisconsorte passiva necessária unitária" (e-STJ fl. 1.948).
+Subsidiariamente, indica ofensa ao art. 1.022, II, por negativa de prestação jurisdicional.
+No agravo (e-STJ fls. 2.098/2.107), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 2.129/2.147).
+É o relatório.
+Decido.
+Inicialmente, em relação ao art. 1.015 do CPC/2015, o recurso especial foi inadmitido com fundamento no art. 1.030, I, "b", do CPC/2015, de modo que, nos termos do § 2º do mesmo artigo, o recurso cabível é o agravo interno. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXIGIR CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO .
+1. Não conhecimento do reclamo no ponto atinente à impossibilidade de revisão de contrato bancário em ação de prestação de contas. É incabível a interposição do agravo em recurso especial contra decisão denegatória do recurso especial fundamentada em recurso repetitivo e proferida após a vigência do CPC/15 (17/5/2022), pois o recurso cabível é o agravo interno dirigido ao próprio Tribunal de origem, nos termos dos arts. 1.030, § 2º, e 1.042, caput, do referido diploma .
+(..)
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.250.020/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Em tais condições, não se conhece de referido ponto do recurso.
+Quanto ao art. 1.022 do CPC/2015, deixou a parte de indicar, de forma clara e específica, em quais vícios teria incorrido o acórdão recorrido e quais teses, relevantes para o julgamento da lide, a Corte estadual teria deixado de analisar, de modo que incide a Súmula n. 284 do STF a impedir o seguimento do recurso.
+Ao dar provimento ao agravo, para afastar a determinação de emenda da inicial para inclusão da ENGARRAFADORA PERNAMBUCO LTDA. no polo passivo da ação, o Tribunal de origem apresentou os seguintes fundamentos (e-STJ fls. 1.925/1.927):
+A presente ação inibitória, cominatória e indenizatória tem o objetivo de fazer cessar anunciada conduta reiterada da ré, perpetrada após a extinção do contrato de licenciamento de marca.
+Ao contrário do proposto nas contraminutas, a pretensão da autora advém de atos praticados exclusivamente pela ré, pelo uso indevido de marca de sua titularidade.
+Não se discute, nessa ação, a vigência do contrato de licença de uso de marca, cuja extinção (em 2017) foi reconhecida por acórdão desta Câmara Reservada, de amplo conhecimento das partes e do Juízo de primeira instância; contudo, é noticiado ter sido constatado que, em maio de 2018, a agravada ainda explorava comercialmente a marca de titularidade da autora, apesar da ausência de autorização, de maneira clandestina.
+Inexiste, portanto, o alegado litisconsórcio necessário, uma vez que se pretende o reconhecimento da exploração comercial indevida da propriedade industrial, relativa a período posterior ao término da vigência do contrato, do qual a Engarrafadora Pernambuco Ltda inicialmente participou.
+A leitura dos pedidos formulados na petição inicial é reveladora. É postulada a busca e apreensão de produtos mantidos nas dependências da fábrica da ré INDÚSTRIA DE BEBIDAS Paris Ltda., impondo-lhe a abstenção do uso da marca "Pitu", deixando esta de fabricar, vender, expor, distribuir e estocar produtos com tal marca, bem como impondo-lhe condenação ao pagamento de indenização. Conjugada a causa de pedir, não há referência à Engarrafadora Pernambuco Ltda como autora dos atos proclamados como ilícitos, nada sendo a esta imputado, mesmo porque, como a acentuado diante do julgado pendente, não há aqui discussão sobre a vigência do antigo levantamento já reconhecido como extinto.
+Em obra recente, Bruno Vasconcelos Carrilho Lopes (Comentários ao código de Processo Civil, Coord. José Roberto F. Gouvêa, Luis Guilherme A. Bondioli e João Francisco N. da Fonseca, Saraiva, São Paulo, 2017, Vol. II, p. 304) explica que: "Se estiver em jogo uma relação jurídica incindível, que torne o litisconsórcio unitário (art. 116), e a lei não autorizar que um dos partícipes dessa relação litigue sem a presença de todos os demais, o litisconsórcio será necessário".
+Não é isso que ocorre aqui.
+Não persiste, portanto, enquadramento no artigo 114 do CPC de 2015 (correspondente ao antigo 47 do CPC de 1973), descaracterizada a hipótese de litisconsórcio necessário, não havendo como fazer de conta que o julgado anterior não foi proferido e desconsiderar seu teor.
+"Nos termos da jurisprudência do Superior Tribunal de Justiça, a análise da legitimidade deve ser feita conforme a pretensão deduzida em juízo (in status assertionis)" (AgInt no AREsp n. 1.890.261/RJ, relatora MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 6/5/2022).
+O Tribunal de origem, analisando a petição inicial, concluiu que os pedidos formulados dizem respeito a atos praticados pela INDÚSTRIA DE BEBIDAS PARIS LTDA. e que nada foi imputado à ENGARRAFADORA PERNAMBUCO LTDA., pois não se discute o contrato de licença extinto. Além disso, concluiu que não é hipótese de litisconsórcio neces sário, pois não há, no caso, uma relação jurídica incindível.
+O argumento da parte recorrente para afirmar que deve integrar o polo passivo da ação é de que teria firmado inicialmente o contrato de licença de uso de marca e outras avenças e sublicenciado à empresa INDÚSTRIAS DE BEBIDAS PARIS LTDA., argumentando ainda que a autora afirma existir um grupo econômico de fato entre as empresas.
+No entanto, a mera narrativa de que, inicialmente, o contrato de licença havia sido celebrado com a ENGARRAFADORA PERNAMBUCO LTDA. não caracteriza a existência de litisconsórcio necessário, diante da conclusão de que não se discute o contrato de licenciamento e não se imputa a prática de ilícito a ela. Registre-se que eventual condenação da ré não poderá atingir terceiro que não tenha participado do processo, com direito à ampla defesa.
+Dessa forma, a parte não logrou demonstrar a alegada ofensa aos arts. 114, 116, 503, § 2º, e 506 do CPC/2015, incidindo a Súmula n. 284 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
