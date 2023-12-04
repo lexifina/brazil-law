@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por SURIEL INDÚSTRIA DE PLÁSTICOS LTDA., fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 674):
+AGRAVO DE INSTRUMENTO. TUTELA PROVISÓRIA.
+Deferimento do pedido para que a autora seja reintegrada na posse dos moldes utilizados na fabricação de produtos.
+CABIMENTO: A concessão da tutela provisória de urgência antecipada é discricionariedade do juízo monocrático e pode ser deferida desde que haja requisitos previstos no artigo 300 do CPC, presentes neste processo.
+Litigância de má-fé da agravante não comprovada. Decisão mantida.
+RECURSO DESPROVIDO
+Opostos embargos de declaração, foram julgados prejudicados (fld. 685/686).
+Nas razões do recurso especial, a agravante alega violação aos arts. 300 e 473 do CC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que é válida a cláusula contratual inserida em pacto por tempo indeterminado, que prevê a resilição unilateral imotivada, sem qualquer compensação pelos investimentos realizados por um dos contratantes.
+Foram apresentadas contrarrazões às fls. 739/755.
+É o relatório.
+Quanto à cláusula de resilição, a Corte de origem consignou que não é possível avançar no mérito da causa, pois os elementos apresentados evidenciam o perigo de dano e o risco ao resultado útil do processo, como se verifica do trecho do acórdão a seguir (fls. 676/677):
+"É inviável avançar considerações sobre o mérito da causa. Cabe no ato de se apreciar o pedido de tutela de urgência a verificação pelo juiz dos elementos que evidenciem a probabilidade do direito e o perigo de dano ou do risco ao resultado útil do processo, nos termos do artigo 300 do Código de Processo Civil e a sua decisão só pode ser revogada, em instância superior, se presente ilegalidade ou abuso de poder, o que não é o caso ora apresentado.
+As alegações da autora revelam indícios de perigo de ocorrência de danos irreparáveis e há a probabilidade do seu direito, uma vez que a sua propriedade sobre os moldes em poder da agravante é incontroversa. Além disso, foi juntado um relatório que noticia a urgência da medida em razão do baixo estoque dos itens que deveriam ser produzidos com a utilização desses moldes (fls. 202 da ação). Embora seja documento unilateral, foi assinado pelo responsável pela área de suprimentos da autora, pessoa que detém competência para análise da produção da agravada.
+Cabe realçar que os elementos dos autos demonstram a intenção da autora de resilição do contrato desde no mínimo meados de 2021, conforme contrato de prestação de serviços celebrado entre as partes (fls. 87/142 e 186/201).
+Importante realçar que foi extinto, sem resolução do mérito, o processo nº 1004724-23.2021.8.26.0510, no qual a agravante tinha conseguido liminar para permanecer na posse dos moldes em questão (fls. 373 daquele processo), em razão de sua omissão por não ter formulado o pedido principal da tutela cautelar antecedente no prazo assinalado pelo Juízo.
+Cabe anotar que a análise aprofundada da questão constitui o próprio mérito da ação, que não se compatibiliza com o atual momento de cognição sumária e será apreciado no momento oportuno com a devida instrução. Por ora, os elementos dos autos demonstram o preenchimento dos requisitos da tutela provisória.
+É desnecessário tecer considerações sobre a questão da competência territorial, uma vez que essa questão não foi apreciada pelo Juízo e é irrelevante ao julgamento do recurso."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir os requisitos para a tutela de urgência demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUCESSÃO EMPRESARIAL. LEGITIMIDADE PASSIVA. CLÁUSULA CONTRATUAL. REINTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 5/STJ. TUTELA DE URGÊNCIA. ART. 300 DO CPC. SÚMULA Nº 735/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Na hipótese, rever a conclusão do acórdão recorrido, que entendeu, com base na análise de cláusula contratual, pela legitimidade passiva do HSBC em participar do cumprimento de sentença devido à sucessão do Banco Bamerindus, encontra o óbice da Súmula nº 5/STJ.
+3. A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natu reza precária da decisão, sujeita à modificação a qualquer tempo.
+4. No caso, a verificação da presença dos requisitos para o deferimento da tutela de urgência é providência que demandaria o revolvimento do acervo fático-probatório dos autos, o que esbarra na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.001.123/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. REQUISITOS DO ART. 300 DO CPC. SÚMULA N. 7 DO STJ.
+1. Inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal, na Súmula n. 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir-se eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC), e não violação da norma que diga respeito ao mérito da causa.
+3. No caso, o Tribunal de Justiça concluiu que foram comprovados os requisitos para a concessão da tutela de urgência. Logo, descabe o exame da tese alegada no recurso especial de contrariedade aos arts. 10, inciso V da Lei n. 9.656/98, 12 e 66 da Lei n. 6.360/76, e 10, inciso V da Lei n. 6.437/76 pois os referidos normativos não estão relacionados aos requisitos de concessão das medidas de urgência, mas sim ao mérito. Incidência, por analogia, da Súmula n. 735/STF.
+4. A pretensão de alterar o entendimento a que chegou o Tribunal de origem quanto ao preenchimentos dos requisitos de concessão da tutela de urgência, demandaria o revolvimento de matéria fático-proba tória, inviável em sede de recurso especial por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.029.223/RJ, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
