@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) contra acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ASTREINTE. ANÁLISE DA RAZOABILIDADE E PROPORCIONALIDADE. POSSIBILIDADE. VALOR CONDIZENTE. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO NÃO PROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. Como se sabe, "a multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito" (artigo 537 do CPC/15).
+2. Havendo previsão legal, é possível a imposição de cominação de multa coercitiva ao devedor para cumprimento de obrigação de fazer, ainda que a parte condenada seja a Fazenda Pública. E, em se tratando do direito à saúde, com maior razão deve ser aplicado o preceito cominatório em desfavor do ente público devedor, sob pena de ser subvertida garantia fundamental.
+3. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a decisão que comina astreintes não faz coisa julgada material, podendo ser reduzida ou até mesmo suprimida, a requerimento da parte ou de ofício pelo magistrado.
+4. No caso, (..) "a sentença foi proferida ainda em 5/8/2020, pela procedência da demanda, determinando ao agravante que "promova a implantação da quantidade de leitos de UTI que se  zerem necessários para completar o número indicado na Portaria n.º 1.101/GM/MS, de 12 de junho de 2002, tendo como referência o quantitativo mínimo de 134 (cento e trinta e quatro) leitos para internação prolongada (UCI e UTI), para suprir a demanda ordinária da população do Estado, nos termos dos dados estatísticos e do número de habitantes do Tocantins, no prazo máximo de 30 (trinta) dias.
+Todavia, conforme salientado pelo magistrado na decisão ora combatida, a deficiência de leitos hospitalares ainda não foi suprida, não podendo a administração criar obstáculos ou se valer de burocracia administrativa para o cumprimento da decisão judicial.
+5. Diante do quadro fático exposto, resta concluir que não só a imposição de multa na sentença no importe R$ 100.000,00 (cem mil reais) até o limite de R$ 2.000,00 (dois milhões reais) é devida, como também o patamar arbitrado releva-se razoável e proporcional, não sendo o caso de redução do valor fixado, notadamente frente às peculiaridades do caso concreto cujo cumprimento se busca, sob pena de a parcela pecuniária ser mais atrativa ao credor que a própria tutela específica.
+6. Cumpre registrar, também, que não há qualquer razão para obstar o prosseguimento do cumprimento provisório, mormente porque é perfeitamente "possível a execução provisória de multa cominatória após a sua con rmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo, como ocorre na espécie".
+7. Quanto à alegada necessidade de observância do art. 100 da Constituição Federal, equivoca-se o agravante ao afirmar que houve a determinação de expedição de precatório, mormente porque o juízo singular apenas determinou a remessa dos autos à COJUN para o cálculo da multa arbitrada na sentença.
+8. Agravo de Instrumento não provido. Agravo Interno prejudicado.
+No Recurso Especial, a parte agravante sustenta:
+(..)
+A execução proposta contra a Fazenda Pública submete-se a regras especiais.
+Trata-se de privilégio instituído em favor dos órgãos fazendários, considerando que as condenações judiciais geram despesas públicas que necessitam para serem executadas, de específica previsão orçamentária. Assim, as obrigações de pagar/entregar quantia em dinheiro estão submetidas ao regime de precatórios.
+No RE 573872 (paradigma do Tema 45 da repercussão geral), o STF definiu ser possível, apenas, a execução provisória de obrigações de fazer, visto a sistemática constitucional de precatório ter aplicação restrita as obrigações de pagar ou entregar dinheiro.
+(..)
+Excelentíssimos Ministros, aqui não se busca excluir a multa por sua aplicação ser indevida contra a Fazenda Pública, pois é cediço que o STJ fixou tese jurídica, no sentido de que "é possível ao juiz, de ofício ou a requerimento da parte, fixar multa diária cominatória - astreintes -, ainda que contra a Fazenda Pública, em caso de descumprimento de obrigação de fazer" (Resp 1.654.994/SE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/4/2017).
+Busca-se a exclusão da multa ou a sua redução, em razão da existência de JUSTA CAUSA de eventual não cumprimento da obrigação ou que impossibilitava o seu cumprimento integral. Isso porque, a multa cominatória, dentro do contexto normativo dos arts.
+536 e 537 do Código de Processo Civil, tem por finalidade/função a coerção indireta ao cumprimento de obrigação de fazer ou não fazer.
+A multa por descumprimento objetiva compelir a parte a realizar a conduta que lhe impôs a autoridade judiciária, a fim de que seus provimentos tenham a concreção indispensável e permitam que seja alcançada a efetividade na qual o processo deve proporcionar aos sujeitos em litígio (AgInt nosEDcl no AgInt no REsp 1589503/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRATURMA, julgado em 06.06.2017, DJe 23.06.2017).
+Portanto, o magistrado ao fixar a multa cominatória deve visualizar essa função, qual seja, de coerção ao cumprimento de determinada obrigação, cabendo-o, POSTERIORMENTE, a análise da multa para verificar a possibilidade de: A) sua REDUÇÃO, quando verificar que a multa a partir de determinado período perdeu sua função; ou ainda, B) sua EXCLUSÃO, quando verificar que a aplicação da multa não atingiu a sua finalidade de coagir ao cumprimento da obrigação em nenhum período.
+(..)
+O Ministério Público opinou pelo conhecimento do Recurso Especial e parcial provimento.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31.10.2023.
+Inicialmente, quanto à possibilidade da execução provisória da multa cominatória, o órgão julgador se utilizou de tese firmada pelo Supremo Tribunal Federal para concluir pela adequação da execução provisória contra a Fazenda Pública. Por isso, o Recurso Especial se revela via inadequada para a alteração da conclusão do acórdão recorrido, uma vez que não é adequado à revisão de fundamento constitucional.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. ASTREINTES/MULTA COMINATÓRIA. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. TESE DE NULIDADE EM RAZÃO DA FORMA DE INTIMAÇÃO. AUSÊNCIA DE ALEGAÇÃO DE QUE TERIA OCORRIDO PREJUÍZO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Quanto à possibilidade da execução provisória da multa cominatória, o órgão julgador se utilizou de tese firmada pelo Supremo Tribunal Federal para decidir pela adequação da execução provisória contra a Fazenda Pública. Por isso, o recurso especial se revela via inadequada para a alteração da conclusão do acórdão recorrido, uma vez não ser adequado à revisão de fundamento constitucional.
+4. Pacífica a orientação deste Tribunal Superior, no sentido de que não se declara nulidade processual sem a comprovação do prejuízo decorrente do vício de forma. Precedentes.
+5. No caso dos autos, conquanto o Estado noticie que, na fase de cumprimento de sentença, houve vício formal na forma de intimação, não há qualquer alegação do prejuízo decorrente, não sendo o caso, portanto, de reconhecimento de eventual nulidade, notadamente porque o Estado teve oportunidade de manifestar-se a tempo e modo próprios e obteve decisão favorável, com redução substancial da multa cominatória.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.865.072/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Outrossim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para modificar o entendimento do Tribunal de origem no sentido de que o quantum arbitrado a título de astreinte se mostra razoável e adequado, incidindo, in casu, o óbice da Súmula 7/STJ.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
