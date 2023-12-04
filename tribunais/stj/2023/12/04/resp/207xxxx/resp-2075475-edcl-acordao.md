@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇAO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. DANO MORAL. AFASTAMENTO. MERO INADIMPLEMENTO CONTRATUAL. PRECEDENTES. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído que, em regra, o mero inadimplemento de contrato de promessa de compra e venda de imóvel não enseja reparação por dano moral, sendo admissível a fixação de indenização a esse título apenas quando o atraso na entrega da obra ultrapassar o limite do mero dissabor, ou seja, quando ocorrer situação excepcional que configure o abalo imaterial, a qual não se faz presente no caso. Precedentes. Aplicação da Súmula n.º 83 do STJ.
+3. Estando configurado o decaimento recíproco das partes, faz-se necessária a redistribuição dos ônus sucumbenciais.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ELIANE VIVIANE GONÇALVES DE JESUS e JOAQUIM JORGE GONÇALVES DE JESUS (ELIANE e outro) contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. INTERPRETAÇÃO DE CLÁUSULAS E REEXAME DE PROVAS. DESNECESSIDADE. REQUALIFICAÇÃO DO QUADRO DELINEADO PELO ACÓRDÃO RECORRIDO. JULGAMENTO ULTRA PETITA. CARACTERIZAÇÃO. DANO MORAL. AFASTAMENTO. MERO INADIMPLEMENTO CONTRATUAL. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incidem os óbices das Súmulas n.ºs 5 e 7, ambas do STJ, quando o julgamento do recurso especial limita-se a qualificar o contorno fático realizado pelas instâncias ordinárias.
+2. Tendo os compradores requerido, em sua petição inicial, o pagamento de multa contratual com base na inversão da cláusula penal, equivalente a 2% do valor do imóvel, a condenação, pelo Tribunal estadual, ao pagamento de um valor mensal a esse título configura julgamento ultra petita.
+3. Em regra, o mero inadimplemento de contrato de promessa de compra e venda de imóvel não enseja reparação por dano moral, sendo admissível a fixação de indenização a esse título apenas quando o atraso na entrega da obra ultrapassar o limite do mero dissabor, ou seja, quando ocorrer situação excepcional que configure o abalo imaterial, a qual não se faz presente no caso. Precedentes.
+Aplicação da Súmula n.º 83 do STJ.
+4. Estando configurado o decaimento recíproco das partes, faz-se necessária a redistribuição dos ônus sucumbenciais.
+5. Agravo interno não provido.
+Nas razões do presente inconformismo, alegaram que o acórdão embargado, ao manter o afastamento da indenização por danos morais, deixou de considerar o fato de que os promitentes-compradores, ora embargantes, são septuagenários, bem como que os ônus sucumbenciais devem ser carreados, exclusivamente, às empresas responsáveis pela construção do empreendimento, tendo em vista a sucumbência mínima dos ora embargantes.
+Foi apresentada contraminuta requerendo a aplicação da multa prevista no art. 1.026, § 2º, do NCPC (e-STJ, fls. 602/608).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇAO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. DANO MORAL. AFASTAMENTO. MERO INADIMPLEMENTO CONTRATUAL. PRECEDENTES. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído que, em regra, o mero inadimplemento de contrato de promessa de compra e venda de imóvel não enseja reparação por dano moral, sendo admissível a fixação de indenização a esse título apenas quando o atraso na entrega da obra ultrapassar o limite do mero dissabor, ou seja, quando ocorrer situação excepcional que configure o abalo imaterial, a qual não se faz presente no caso. Precedentes. Aplicação da Súmula n.º 83 do STJ.
+3. Estando configurado o decaimento recíproco das partes, faz-se necessária a redistribuição dos ônus sucumbenciais.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+Trata-se de ação de indenização por danos materiais e morais ajuizada por ELIANE e outro contra JFE 32 EMPREENDIMENTOS IMOBILIÁRIOS LTDA. - EM RECUPERAÇÃO JUDICIAL e JOÃO FORTES ENGENHARIA S.A. - EM RECUPERAÇÃO JUDICIAL (JFE 32 e outra), em decorrência de atraso na entrega da obra.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, ELIANE e outro alegaram que o acórdão embargado, ao manter o afastamento da indenização por danos morais, deixou de considerar o fato de que os promitentes-compradores, ora embargantes, são septuagenários, bem como que os ônus sucumbenciais devem ser carreados, exclusivamente, às empresas responsáveis pela construção do empreendimento, tendo em vista a sucumbência mínima dos ora embargantes.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório nem tampouco apresentou erro material ao concluir, fundamentadamente, que, no caso, a indenização por danos morais deveria ser afastada, tendo em vista que o fundamento adotado pelo acórdão recorrido para a sua fixação cingiu-se ao inadimplemento contratual - precisamente o atraso na entrega do imóvel ao longo de um ano - sem a comprovação de qualquer outro fundamento relevante que importasse em inegável abalo imaterial.
+É o que se infere dos seguintes excertos do aresto recorrido:
+ .. , o dano moral causado mostra-se inequívoco, ínsito ao próprio fato, razão pela qual impositiva a reforma e o dever de indenizar, devendo o valor ser fixado, no patamar de R$ 20.000,00 (vinte mil reais), a de acordo com a justa medida compensatória, quantia que atende ao Princípio da Proporcionalidade, que, a seu turno, preserva o Postulado da Razoabilidade, e condiz com o tríplice aspecto punitivo-pedagógico compensatório do instituto do dano extrapatrimonial (e-STJ, fl. 380).
+Feitas essas considerações, cumpre asseverar que a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a estreita via dos embargos de declaração.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.524.835/SE, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos em 17/2/2020, DJe de 19/2/2020)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.427.815/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado aos 17/2/2020, DJe de 20/2/2020 - sem destaques no original)
+Por sua vez, nos casos em que o pedido condenatório é parcialmente procedente, reconhecida a sucumbência recíproca, como no caso, as rés arcarão com os ônus sobre o valor da condenação e os autores, como não lhes foi imputada condenação, sobre o proveito econômico obtido pelas rés, representado pelo resultado da diferença entre o montante pretendido na exordial e o montante efetivamente restituído.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. RESTITUIÇÃO. VALORES PAGOS. CONDENAÇÃO. PERCENTUAL. MENOR. PEDIDO. INICIAL. SUCUMBÊNCIA RECÍPROCA. ORIGEM. REDISTRIBUIÇÃO. ÔNUS. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AUTORES. BASE DE CÁLCULO. HIPÓTESE. PROVEITO ECONÔMICO.
+ ..
+3. A Segunda Seção desta Corte Superior, no julgamento do Recurso Especial nº 1.746.072/PR, decidiu que o seu § 2º constitui a regra geral no sentido de que os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+4. Na hipótese, o decaimento dos autores corresponde ao proveito econômico obtido pela ré, que teve reduzido o percentual de ressarcimento dos valores pagos.
+5. No caso, os honorários advocatícios devidos pelos autores em favor dos advogados da parte adversa corresponderá ao percentual de 10% (dez por cento) incidente sobre o proveito econômico obtido, representado pelo resultado da diferença entre o montante pretendido na exordial e o montante efetivamente restituído. Precedente.
+6. Agravo interno provido em parte.
+(AgInt no AREsp n. 1.718.333/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 29/8/2022, DJe de 31/8/2022)
+Assim, tendo em vista a configuração do decaimento recíproco das partes, fez-se necessária a redistribuição dos ônus sucumbenciais, com a condenação de ELIANA e outro ao pagamento de 50% das custas processuais e honorários advocatícios fixados em 10% sobre o proveito econômico obtido pelas rés, ora agravadas, representado pelo resultado da diferença entre o montante pretendido na exordial e o valor que efetivamente será por eles recebido.
+Vale lembrar que, apenas a título de danos morais, os autores, ora embargantes, postularam a condenação da construtora ao pagamento de "valor não inferior a R$ 20.000,00, para cada Autor" (e-STJ, fl. 16), não havendo que se falar, portanto, que a sua derrota teria sido em relação a parte mínima do pedido.
+Dessa forma, mantém-se o acórdão embargado, porque não há motivos para a sua alteração.
+Nada obstante, constata-se que ELIANA e outro utilizaram-se do recurso cabível, previsto em lei, e, embora não identificada a omissão apontada, tal iniciativa, por si só, não pode ser interpretada como abuso do direito de recorrer ou manifestamente protelatória.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
