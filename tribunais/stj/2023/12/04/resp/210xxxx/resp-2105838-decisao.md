@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por DEFENSORIA PÚBLICA DO ESTADO DO PARANÁ, fundamentado no art. 105, III, "a", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO, EM FASEDE EXECUÇÃO DESDE 2018. IMÓVEL COMERCIAL. BLOQUEIO DE VALORES EXISTENTESEM CONTA BANCÁRIA DO EXECUTADO. ALEGAÇÃO DE QUE OS VALORES1. BLOQUEADOS SÃO INFERIORES A 40 SALÁRIOS MÍNIMOS, ATRAINDO A REGRA DAIMPENHORABILIDADE ABSOLUTA. NÃO ACOLHIMENTO. RELATIVIZAÇÃO DA REGRADE IMPENHORABILIDADE DO ART. 833, CPC. CONSTRIÇÃO QUE NO CASO CONCRETO,NÃO TEM O CONDÃO DE COMPROMETER SUA DIGNIDADE E SUA SUBSISTÊNCIA, NEM ADE SUA FAMÍLIA. AUSÊNCIA DE COMPROVAÇÃO. APLICAÇÃO DO ARTIGO 854, §3º,INCISO I DO CPC. PRECEDENTES. ADEMAIS, PRINCÍPIOS DA PROPORCIONALIDADE E DARAZOABILIDADE QUE DEVEM SER PONDERADOS NA BUSCA DE UMA EXECUÇÃO MENOSGRAVOSA AO DEVEDOR, MAS QUE TAMBÉM ATENDA À EFETIVIDADE DA EXECUÇÃO. 2. PLEITO ALTERNATIVO PARA DETERMINAÇÃO DE EXPEDIÇÃO DE OFICIO ÀINSTITUIÇÃO FINANCEIRA PARA QUE FORNEÇA INFORMAÇÃO ACERCA DA NATUREZADAS CONTAS E MOVIMENTAÇÃO BANCÁRIA DOS ÚLTIMOS TRÊS MESES. NÃOACOLHIMENTO. COMPROVAÇÃO DE IMPENHORABILIDADE QUE COMPETE AOPRÓPRIO EXECUTADO. CASO CONCRETO EM QUE O EXECUTADO SE ENCONTRA EMLUGAR INCERTO, FATO QUE ENSEJOU A CITAÇÃO POR EDITAL. CURADOR ESPECIALQUE NÃO TEM PRERROGATIVA DE ALEGAR IMPENHORABILIDADE DE VALORESBLOQUEADOS SEM QUE O PRÓPRIO EXECUTADO TENHA COMPARECIDO NOS AUTOS. DIREITO PERSONALISSÍMO. PRECEDENTE. DECISÃO MANTIDA. RECURSO CONHECIDOE NÃO PROVIDO.
+Em suas razões de recurso especial, a parte recorrente apontou, em síntese, ofensa ao artigo 833, IV e X, do Código de Processo Civil sustentando que a impenhorabilidade da quantia depositada em até 40 (quarenta) salários-mínimos depositados em poupança, conta corrente, fundos de investimento ou guardados em papel-moeda não se subordina à comprovação da natureza salarial.
+Em juízo de admissibilidade, admitiu-se o recurso especial, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Quanto à pretensão de ver reconhecida a impenhorabilidade dos valores bloqueados, aduziu a Corte local:
+Ressalta-se que, embora a citação da parte executada tenha se dado na forma ficta, é certo que a parte possui acesso a sua conta bancária em que foi realizada a penhora e, tendo a constrição ocorrida em 26/08/2022 (mov. 216.3/orig.), sem que, até o presente momento, a parte tenha comparecido aos autos para reclamar da quantia bloqueada, afasta-se a impenhorabilidade da verba.
+Na decisão agravada, também constou: "Nesse caso, o próprio executado, tendo valor bloqueado em sua conta bancária há três meses, não compareceu aos autos para alegar a impenhorabilidade, o que indica desinteresse no valor".
+Contudo, a parte ora recorrente não se desimcubiu do ônus de impugnar o referido fundamento, como manda o princípio da dialeticidade, utilizando-se de argumentos dissociados do acórdão recorrido, incidindo, na espécie, por analogia, as Súmula 283 e 284 do STF.
+Em outras palavras, verifica-se que a recorrente deixou de infirmar fundamento do acórdão recorrido - suficiente para sua manutenção -, incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no ponto, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+ ..  3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1397282/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/04/2019, DJe 05/04/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ART. 3º DO DECRETO-LEI 911/1969. NECESSIDADE DE NOTIFICAÇÃO AO DEVEDOR ACERCA DA MORA. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..  2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, o óbice das Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1675490/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+2. Do exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
