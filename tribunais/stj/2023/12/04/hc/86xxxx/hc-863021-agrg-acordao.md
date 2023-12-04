@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. NÃO CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante.
+2. Não obstante a defesa tenha, de fato, impetrado o writ originário, cujo indeferimento do pedido liminar engendrou este writ, observa-se que a defesa já interpusera apelação - julgada pela Corte local - de modo que o caso não se enquadra nas hipóteses de superação da Súmula n. 691 do STF. Ao mesmo tempo, verifica-se que este mandamus foi deficientemente instruído, pois o impetrante não juntou aos autos cópia do acórdão proferido por ocasião do julgamento da apelação.
+3. Agravo regimental não provido.
+RELATÓRIO
+DANILO COSTA PRUDENCIO DE SOUZA interpõe agravo regimental contra decisão da Presidência desta Corte Superior que, ao indeferir liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ, manteve decisão do Desembargador relator do writ originário que indeferiu o pedido liminar.
+A defesa pretende a fixação do regime aberto em favor do paciente - condenado pelo crime de furto qualificado, à pena de 03 anos e 06 meses de reclusão, em regime semiaberto -, sob o argumento de que a condenação que serviu para reconhecimento da reincidência teve o trânsito em julgado posteriormente aos fatos criminosos.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. NÃO CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante.
+2. Não obstante a defesa tenha, de fato, impetrado o writ originário, cujo indeferimento do pedido liminar engendrou este writ, observa-se que a defesa já interpusera apelação - julgada pela Corte local - de modo que o caso não se enquadra nas hipóteses de superação da Súmula n. 691 do STF. Ao mesmo tempo, verifica-se que este mandamus foi deficientemente instruído, pois o impetrante não juntou aos autos cópia do acórdão proferido por ocasião do julgamento da apelação.
+3. Agravo regimental não provido.
+VOTO
+Não obstante a defesa tenha, de fato, impetrado o writ originário, cujo indeferimento do pedido liminar engendrou este mandamus, observo que a defesa já interpusera apelação, já julgada pela Corte local.
+Portanto, forçoso concluir que o caso não se enquadra nas hipóteses de superação da Súmula n. 691 do STF.
+Ao mesmo tempo, verifico que este mandamus foi deficientemente instruído, pois o impetrante não juntou aos autos cópia do acórdão proferido por ocasião do julgamento da apelação.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+À vista do exposto, nego provimento ao agravo regimental.
