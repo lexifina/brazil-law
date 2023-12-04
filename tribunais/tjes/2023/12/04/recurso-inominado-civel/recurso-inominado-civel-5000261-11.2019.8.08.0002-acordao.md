@@ -1,0 +1,105 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000261-11.2019.8.08.0002
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DIEGO BRUNO SANTOS
+RECORRIDO: RAFAEL PERES COSTA
+RELATOR(A):
+THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: Por maioria, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO Nº 5000261-11.2019.8.08.0002
+
+RECORRENTE: DIEGO BRUNO SANTOS
+
+RECORRIDA: RAFAEL PERES COSTA
+
+RELATORA: DRA. THAITA CAMPOS TREVIZAN
+JUÍZA SENTENCIANTE: GRACIENE PEREIRA PINTO
+
+EMENTA: DIREITO DO CONSUMIDOR. OFENSA À HONRA. IMPUTAÇÃO DE CRIME AO REQUERIDO. EXPOSIÇÃO À TERCEIROS. DANOS MORAIS CONFIGURADOS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+
+VOTO
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Oportunamente, defiro a concessão do benefício de assistência judiciária gratuita ao Recorrente, ante sua comprovada hipossuficiência.
+
+EMENTA:
+JUIZADO ESPECIAL CÍVEL.
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+DOS FATOS NARRADOS À EXORDIAL, VERIFICA-SE QUE, NO DIA 02 DE MARÇO DE 2019, O REQUERIDO PEDIU QUE O AUTOR DIRIGISSE SEU VEÍCULO LEVANDO-O PARA CIDADE DE CACHOEIRO DE ITAPEMIRIM, PARTINDO DE ALEGRE E QUE DEVERIA ENTREGAR O VEÍCULO PARA O SEGURANÇA DO REQUERIDO QUANDO RETORNASSE. NARRA O AUTOR QUE ASSIM O FEZ. ENTRETANTO, O REQUERIDO FICOU INCOMODADO COM O FATO DE O AUTOR TER, SUPOSTAMENTE, DEMORADO PARA RETORNAR COM O CARRO, SENDO QUE, ENTREGOU O BEM AO SEGURANÇA ÀS 21H30, ENTRETANTO, O SEGURANÇA SÓ INFORMOU AO REQUERIDO APENAS APÓS ÀS 23H. EM DECORRÊNCIA DISSO, O REQUERIDO ACUSOU O AUTOR DE TER ROUBADO O VEÍCULO, O CHAMOU DE “IRRESPONSÁVEL” E “OTÁRIO”, ENTRE OUTROS XINGAMENTOS E PALAVRAS DE BAIXO CALÃO, E EXPÔS A SITUAÇÃO À TERCEIROS, IMPUTANDO CRIME AO AUTOR. ALEGA QUE TAIS FATOS LHE CAUSARAM GRANDE ANGÚSTIA E VERGONHA, TENDO O MESMO SUA HONRA ABALADA.
+A SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTE OS PLEITOS AUTORAIS
+CONDENANDO O REQUERIDO AO PAGAMENTO DE R$ 2.000,00 (DOIS MIL REAIS) A TÍTULO DE DANOS MORAIS.
+RECURSO INOMINADO INTERPOSTO PELO REQUERIDO.
+EM SUAS RAZÕES, ALEGOU QUE RESTOU EVIDENTE QUE O AUTOR UTILIZOU SEU CARRO PARA FINS DIVERSOS DO COMBINADO, CONSIDERANDO MENSAGENS TROCADAS COM TERCEIROS, SOMADA À FALTA DE RESPOSTA ÀS MENSAGENS QUE ENVIOU PARA O AUTOR, CONSIDERANDO-SE, AINDA, O HORÁRIO NO QUAL O CARRO FOI DEVOLVIDO. DESTACA QUE O AUTOR NÃO CUMPRIU COM O ACORDADO, POIS DEVOLVEU O VEÍCULO NO LOCAL DE TRABALHO DO RECORRENTE E NÃO EM SUA RESIDÊNCIA, COMO HAVIA SIDO COMBINADO. POR TAIS RAZÕES, PUGNA PELA REFORMA DA SENTENÇA DE PISO PARA JULGAR IMPROCEDENTE OS PLEITOS AUTORAIS E JULGAR PROCEDENTE O PEDIDO CONTRAPOSTO REALIZADO EM CONTESTAÇÃO.
+CONTRARRAZÕES (ID. 4753637) APRESENTADAS PELO RECORRIDO
+OBJETIVANDO A MANUTENÇÃO DA SENTENÇA DE PISO.
+RECURSO CONHECIDO E IMPROVIDO.
+
+APÓS ANÁLISE DETIDA DOS AUTOS, ENTENDO QUE A SENTENÇA GUERREADA NÃO MERECE SER REFORMADA, ISTO PORQUE RESTARAM COMPROVADAS AS OFENSAS PROFERIDAS PELO RECORRENTE AO RECORRIDO (ID. 4753308), BEM COMO QUE O RECORRIDO LEVOU INFORMAÇÕES À TERCEIROS SOBRE O OCORRIDO, MACULANDO A HONRA E IMPUTANDO CRIME AO RECORRIDO. EM CONTRAPARTIDA, APESAR DO ALEGADO PELO RECORRENTE EM SEDE RECURSAL, NÃO RESTOU EVIDENCIADO QUE O RECORRIDO TENHA, DE FATO, UTILIZADO O VEÍCULO DO RECORRENTE DE FORMA INDEVIDA OU QUE TERIA CONTRARIADO O ACORDADO ENTRE AS PARTES. NA VERDADE, O PRÓPRIO RECORRENTE AFIRMOU, EM AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO, QUE NÃO SABE SE O RECORRIDO REALMENTE UTILIZOU SEU CARRO PARA ALGUMA ATIVIDADE ALÉM DO PACTUADO ENTRE ELES. NESSE SENTIDO, COADUNO COM O ENTENDIMENTO DO JUÍZO
+A QUO
+NO QUE SEGUE:
+POIS BEM, A MEU SENTIR, O AUTOR FEZ PROVA SUFICIENTE DO FATO CONSTITUTIVO. FICOU DEMONSTRADO NOS DOCUMENTOS DE
+ID 2301259
+QUE O REQUERIDO NÃO SÓ OFENDEU O AUTOR COM PALAVRAS DE BAIXO CALÃO, MAS O ACUSOU DE TER ROUBADO SEU CARRO. CUMPRE DIZER QUE AS OFENSAS E ACUSAÇÕES NÃO FICARAM APENAS ENTRE AS PARTES, SENDO A ACUSAÇÃO LEVADO A CONHECIMENTO DE OUTRAS PESSOAS, FERINDO DIRETAMENTE A HONRA, A IMAGEM E A REPUTAÇÃO DO AUTOR. [...] A
+TESTEMUNHA
+, SR. RAMON SILVA SOARES, FUNCIONÁRIO DO REQUERIDO RELATOU QUE O AUTOR ENTREGOU AS CHAVES DO CARRO DE SEU PATRÃO APROXIMADAMENTE ÀS 21H30MIN, CONFORME RELATADO NA INICIAL, CONTUDO, POR ESTAR TRABALHANDO NO HORÁRIO DA ENTREGA, APENAS CONSEGUIU INFORMAR SOBRE A DEVOLUÇÃO DO VEÍCULO AO REQUERIDO APROXIMADAMENTE ÀS 23 HORAS. PELO DISPOSTO ATÉ ENTÃO, ENTENDO QUE AS PROVAS COLIGIDAS NESTE FEITO SÃO CONCLUSIVAS E COMPROVAM A OFENSA À HONRA DO REQUERENTE.”
+DESTA FEITA, COADUNO COM O ENTENDIMENTO DO JUÍZO DE PISO, UMA VEZ QUE A CONDUTA DO RECORRENTE
+ULTRAPASSOU A ESFERA DO ABORRECIMENTO, SENDO SUFICIENTES PARA CONSTITUÍREM-SE COMO UM DESRESPEITO E EXPOSIÇÃO AO RIDÍCULO DO RECORRENTE, GERANDO ASSIM ABALO A UM DOS ATRIBUTOS DA PERSONALIDADE, SUA HONRA SUBJETIVA, ALÉM DE ATINGIR SUA HONRA OBJETIVA.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+,
+NOS TERMOS DO ART. 46 DA LEI 9.099/95. CONDENO O RECORRENTE AO PAGAMENTO DE CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, QUE FIXO EM 20% SOBRE O VALOR DA CONDENAÇÃO, NOS TERMOS DO ARTIGO 55 DA LEI 9.099/95 E 85
+§2º DO CPC, SUSPENSA A EXIGIBILIDADE, ANTE A CONCESSÃO DE GRATUIDADE DE JUSTIÇA AO RECORRENTE, NA FORMA DO ART. 98, §3º DO CPC.
+
+DISPOSITIVO
+
+Por todo o exposto,
+CONHEÇO DO RECURSO
+interposto pelo autor e
+NEGO-LHE PROVIMENTO
+, mantendo a r. sentença intocável, por seus próprios fundamentos.
+Condeno a parte recorrente ao pagamento das custas processuais e dos honorários advocatícios, fixados em 20% sobre o valor da condenação,
+nos termos do art. 55 da Lei 9.099/95 e art. 85, §2º do CPC, estando suspensa a exigibilidade ante a concessão do benefício de assistência judiciária gratuita.
+
+THAITA CAMPOS TREVIZAN
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+Eminente Relatora,
+
+Ouso divergir apenas em relação ao
+quantum
+fixado a título de danos morais. No caso dos autos, o autor alega que o réu
+o acusou de ter roubado o veículo, o chamou de “irresponsável” e “otário”, entre outros xingamentos e palavras de baixo calão, e expôs a situação à terceiros, imputando-lhe crime.
+
+Apesar de o Código Civil não fixar expressamente critérios para a fixação do dano moral, cabe ao julgador observar a capacidade econômica das partes, bem como os
+princípios da razoabilidade e da proporcionalidade
+, visto que o valor da indenização deve ser fixado levando em consideração o caráter punitivo-pedagógico, no sentido de inibir eventuais e futuros atos danosos, e, simultaneamente, sem causar enriquecimento ilícito ao consumidor, tampouco levar à Requerida à insolvência.
+
+Neste caso, respeitosamente, considerando que o dano moral decorrente da ofensa e acusações infundadas gerou desconforto, aflição e transtornos ao autor e buscando desestimular o Requerido na reiteração de condutas como a narrada nos autos, entendo que o dano moral fixado na monta de R$ 2.000,00 para o Recorrente é insuficiente para amenizar os danos imateriais causados,
+razão pela qual voto pelo estabelecimento dos danos morais na monta de R$ 5.000,00.
+
+É como voto.
