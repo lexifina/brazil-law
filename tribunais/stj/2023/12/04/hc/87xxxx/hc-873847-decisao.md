@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, impetrado em benefício de Andre Fabiano dos Santos contra ato coator do Tribunal de Justiça de São Paulo (Apelação Criminal n. 1501947-78.2022.8.26.0540), não comporta processamento.
+Com efeito, busca a impetração a anulação de condenação do paciente pelo crime de roubo majorado, imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Santo André/SP (Ação Penal n. 1501947-78.2022.8.26.0540), ao argumento de ilegalidade no reconhecimento pessoal.
+De início, observo que este Superior Tribunal firmou a compreensão de que o reconhecimento de pessoal, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa (HC n. 598.886/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020).
+No caso, observa-se que a condenação se encontra consubstanciada não no reconhecimento pessoal, mas em outras provas, em especial, o fato de que o acusado foi encontrado pouco tempo após a prática do delito, de posse do veículo subtraído, em circunstâncias tais que não autorizam que a posse fosse efetivada sem que a subtração fosse por ele praticada (fl. 15).
+No mesmo sentido:
+ ..
+2. Como é de conhecimento, a Sexta Turma desta Corte Superior, no julgamento do HC 598.886 (Rel. Min. Rogério Schietti Cruz, DJe de 18/12/2020, pro pôs nova interpretação do art. 226 do CPP, estabelecendo que: "O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa". Tal entendimento foi acolhido pela Quinta Turma desta Corte, no julgamento do Habeas Corpus n. 652.284/SC, de minha relatoria, em sessão de julgamento realizada no dia 27/4/2021.
+3. Na hipótese, verifica-se dos autos que a autoria delitiva a respeito do crime de roubo na modalidade tentada não tem, ao contrário do alegado, como único elemento de prova o reconhecimento pessoal, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial. Ademais, para a inversão da conclusão do Tribunal a quo, que, após detida análise dos fatos e das provas - em especial os depoimentos dos policiais que surpreenderam o paciente, poucas horas após o crime, que havia dispensado um simulacro de arma de fogo, e do depoimento da própria vítima -, entendeu pela condenação do réu, seria inevitável nova incursão no arcabouço probatório, providência indevida no espectro de cognição do habeas corpus.
+ ..
+(HC n. 696.108/RJ, Ministro Reynaldo Soares da Fonseca , Quinta Turma, DJe 13/12/2021 - grifo nosso).
+Assim, ausente o constrangimento alegado na inicial.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE ANULAÇÃO DA CONDENAÇÃO. RECONHECIMENTO PESSOAL. SENTENÇA QUE SE APOIOU EM OUTRAS PROVAS PARA ENTENDER PELA AUTORIA DO ACUSADO. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
