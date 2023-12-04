@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO DE JANEIRO contra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 38/39):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE HONORÁRIOS SUCUMBENCIAIS. PROCURADOR DO ESTADO. DECISÃO QUE DETERMINOU O RECOLHIMENTO DE METADE DAS DESPESAS PROCESSUAIS. LEI Nº 3.550/99.RECURSO NÃO PROVIDO.
+1. Demanda originária de ação de Obrigação de Fazer, em fase de cumprimento de sentença, na qual a P.G.E. pretende a cobrança dos honorários sucumbenciais que lhe são devidos.
+2. Decisão que determinou a intimação da Procuradoria do Estado para recolhimento de 50% (cinquenta por cento) das despesas processuais devidas pela execução dos honorários, no prazo de 5 (cinco) dias.
+3. O recebimento da verba a título de honorários advocatícios de sucumbência é direito do advogado público (art. 85, § 19, do C.P.C.). No caso da Procuradoria Geral do Estado do Rio de Janeiro, a verba é integralmente recolhida ao Fundo Orçamentário Especial, sendo o percentual de 50% (cinquenta por cento) revertida aos Procuradores do Estado sob a rubrica "repasse de honorários de sucumbência". Lei 732/2010.
+4. A isenção ao pagamento das despesas processuais não se aplica quando os honorários sucumbenciais serão revertidos aos advogados públicos. Art. 17, §3, da Lei 3.350/99.
+4. Recurso não provido. Mantida a higidez da decisão agravada.
+Rejeitados os aclaratórios (e-STJ fls. 70/82).
+No especial obstaculizado, a parte recorrente, além de divergência jurisprudencial, apontou violação dos arts. 70, 75, II, 85, § 19, 1.022, I, do CPC/2015, 41 e 381 do Co"digo Civil, sustentando negativa de prestação jurisdicional, bem como pugnando pelo prosseguimento da execução de honorários sem recolhimento da taxa judiciária.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Ausente contraminuta (e-STJ fl. 123).
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 1.022, I, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, destacou o Tribunal de Justiça, quando da rejeição dos aclaratórios, o seguinte (e-STJ fl. 81):
+Importante ressaltar que, conforme já constou do acórdão combatido pelos presentes embargos de declaração, o que se pretende é a reforma da decisão que determinou o recolhimento de 50% (cinquenta por cento) das despesas processuais devidas pela execução de honorários, cujo tema é objeto de I.R.D.R. nº 0064959-14.2019.8.19.0000, sendo certo que não houve a suspensão dos feitos em andamento que tratam da matéria.
+Não há qualquer contradição no acórdão embargado, porquanto restou claro que parte da verba honorária que constitui o Fundo Orçamentário Especial passou a ser revertida aos Procuradores do Estado em decorrência da Lei Complementar nº 137/2010, diante de sua atuação nos feitos que integram a Fazenda Pública.
+Restou consignado, ainda, que por atuarem na qualidade de advogados públicos têm o direito ao recebimento de honorários advocatícios de sucumbência (art. 85, § 19, do C.P.C.).
+Consequentemente, concluiu o acórdão quanto à necessidade do recolhimento da parte das despesas processuais referente ao repasse da verba honorária destinada aos Procuradores do Estado, razão pela qual foi mantida a decisão agravada.
+No que toca à alegação de contrariedade dos arts. 70, 75, II, do CPC/2015 e dos arts. 41 e 381 do Co"digo Civil, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, entendeu o Tribunal de Justiça que, " ..  a lei foi recentemente alterada  Lei Estadual n 3.350/1999, alterada pela Lei Estadual n. 9.507/2021  para estabelecer que a isenção ao pagamento das despesas processuais não se aplica quando os honorários sucumbenciais serão revertidos aos advogados públicos, no caso em tela, aos Procuradores do Estado" (e-STJ fl. 45).
+Dessa forma, a revisão das razões de decidir do acórdão recorrido, nesse aspecto, encontra óbice na Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
