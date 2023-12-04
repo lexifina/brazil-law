@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NOS ARTS. 489 E 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 2.526/2.544) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fls. 2.502/2.503):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CONTRATOS BANCÁRIOS. REVISÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. SUCUMBÊNCIA. EXTENSÃO. AFERIÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+4. Segundo entendimento jurisprudencial do STJ, "a apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ" (AgInt no AREsp n. 1.547.630/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/4/2021, DJe 15/4/2021).
+5. Agravo interno a que se nega provimento
+Em suas razões, a embargante aponta omissão no acórdão embargado, defendendo a existência de negativa de prestação jurisdicional na origem, porque o Tribunal a quo, a despeito dos aclaratórios opostos, teria ignorado a decisão desta relatoria nos Embargos de Declaração no Agravo em Recurso Especial n. 222.316/RJ, a qual supostamente determinaria o processamento da revisão contratual, assim como teria deixado de se manifestar sobre as alegações relacionadas ao abuso dos encargos cobrados pelo banco embargado e sobre a sucumbência recíproca dos litigantes.
+Acrescenta que a verificação do decaimento dos litigantes dispensaria o reexame de matéria, bastando a leitura do acórdão recorrido para reconhecer a sucumbência recíproca.
+Em caráter subsidiário, defende "o acolhimento destes embargos, quando menos para que se determine a definição dos percentuais em fase de liquidação de sentença, a partir da proporção do decaimento dos litigantes" (e-STJ fl. 2.541).
+Ao final, requer o acolhimento dos aclaratórios, para que sejam sanados os vícios apontados.
+A parte embargada apresentou impugnação, requerendo a condenação do embargante ao pagamento da multa do art. 1.026, § 2º, do CPC/2015 (e-STJ fls. 2.553/2.555).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NOS ARTS. 489 E 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez constatada a existência de algum dos vícios indicados nos arts. 489 e 1.022 do CPC/2015, o que não se evidencia no caso em exame.
+A pretexto de sanar supostas omissões, a parte embargante repisou as mesmas alegações relativas ao mérito no intuito de reverter a decisão que desproveu, motivadamente, seu agravo interno.
+O juízo embargado deixou claros os motivos pelos quais inexistiu negativa de prestação jurisdicional em segunda instância, considerando que a Corte local justificou adequadamente a rejeição do pedido de revisão dos contratos bancários, assim como manteve a sucumbência mínima do embargado (e-STJ fls. 2.510/2.511).
+O aresto embargado trouxe jurisprudências que demonstraram o porquê de os vícios de fundamentação imputados, pela parte recorrente, à Corte de apelação não configuravam erro material e obscuridade (e-STJ fl. 2.512).
+O acórdão recorrido esclareceu ainda que a decisão desta relatoria nos Embargos de Declaração no Agravo em Recurso Especial n. 222.316/RJ (e-STJ fls. 2.086/2.088) somente afastou, em abstrato, o impedimento da revisão de contratos bancários findos, por incidência analógica da Súmula n. 286/STJ, inexistindo, contudo, impedimento para que a Corte de apelação verificasse os demais requisitos da revisão contratual, entre eles a discriminação dos encargos considerados abusivos. Nesse sentido, transcrevo, mais uma vez, o dispositivo do julgamento mencionado (e-STJ fl. 2.088):
+Em face do exposto, ACOLHO os embargos de declaração, para modificar a parte dispositiva da decisão de fls. 2.047/2.050, que passa a ostentar a seguinte redação:
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, para reconhecer a possibilidade de revisão de contratos findos, mesmo quando houver novação da dívida neles tratada, determinando a remessa dos autos à Corte local para que prossiga na análise da pretensão da agravante. Fica prejudicada a análise da pretensão relativa à redistribuição dos ônus da sucumbência.
+Quanto à revisão contratual propriamente dita, constou que o art. 884 do CC/2002 é desprovido de alcance normativo para amparar o requerimento, visto que não cuida especificamente dos limites das operações bancárias, tampouco do funcionamento do Sistema Financeiro Nacional. Portanto, era inafastável a Súmula n. 284/STF.
+Ainda que assim não fosse, a norma mencionada não foi examinada pela Corte local, a despeito dos aclaratórios opostos, porque a solução da lide prescindia de sua aplicação. Daí por que incidiram as Súmulas n. 282 do STF e 211 do STJ (e-STJ fls. 2.513/2.517).
+No mais, mediante transcrição de precedente, destacou-se que "a jurisprudência desta Corte é firme no sentido de não ser possível a apreciação  ..  da existência de sucumbência mínima ou recíproca  ..  por implicar incursão no suporte fático-probatório dos autos, esbarrando na Súmula 7 deste Sodalício" (AgInt no AREsp n. 1.723.236/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13/4/2021) (e-STJ fl. 2.518).
+Os demais argumentos são incompatíveis com a natureza de fundamentação vinculada do recurso declaratório.
+Na verdade, sob o pretexto d e ver sanados supostos vícios de fundamentação, a parte traz argumentos referentes ao mérito do recurso, o qual foi exaustivamente enfrentado. O fato de não concordar com a conclusão do julgamento não configura negativa de prestação jurisdicional.
+Rejeito o pedido de condenação do embargante à multa do art. 1.026, § 2º, do CPC/2015, visto que não ficou demonstrada conduta maliciosa ou protelatória a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Em face do exposto, REJEITO os embargos de declaração.
+É como voto.
