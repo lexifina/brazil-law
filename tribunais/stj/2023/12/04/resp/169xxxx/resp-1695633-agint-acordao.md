@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL. APLICAÇÃO DE PRAZO PRESCRICIONAL EM PAD. ART. 109 DO CÓDIGO PENAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC. PROVIMENTO NEGADO.
+1. Não há que se falar na aplicação das regras de prescrição previstas no art. 109 do Código Penal em razão da ausência de informação nos autos de que tenha sido instaurada ação penal para apuração de eventual infração investigada em processo administrativo disciplinar (PAD).
+2. Não obstante a parte ora agravante tenha trazido nas razões do recurso especial a informação de que foi ajuizada ação penal contra o ora agravado, essa questão não foi suscitada nos embargos de declaração opostos contra o acórdão recorrido. Desse modo, trata-se de mera inovação argumentativa e não merece conhecimento por esta Corte Superior.
+3. Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade.
+4. Agravo interno a que se nega p rovimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO AMAZONAS contra a decisão de minha relatoria, de fls. 1.133/1.137, em que neguei provimento a seu recurso especial.
+Em suas razões recursais, a parte agravante sustenta:
+(i) ser devida a aplicação das regras de prescrição previstas no art. 109 do Código Penal porque "o processo administrativo disciplinar somente teve início a partir da notícia de que houve a prisão do servidor durante a Operação Águia da Polícia Federal em 2003 que ensejou investigação do fato tanto na esfera administrativa quanto na penal (0012675-34.2005.8.04.0001/TJAM)" (fl. 1.160); e
+(ii) que "o TJAM não se manifestou acerca da prescrição do art. 109 do CP, violando, assim, o art. 1.022, CPC, ao rejeitar os embargos aclaratórios para sanar tal vício" (fl. 1.161).
+Impugnação às fls. 1.170/1.184.
+É o relatório.
+EMENTA
+PROCESSUAL. APLICAÇÃO DE PRAZO PRESCRICIONAL EM PAD. ART. 109 DO CÓDIGO PENAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC. PROVIMENTO NEGADO.
+1. Não há que se falar na aplicação das regras de prescrição previstas no art. 109 do Código Penal em razão da ausência de informação nos autos de que tenha sido instaurada ação penal para apuração de eventual infração investigada em processo administrativo disciplinar (PAD).
+2. Não obstante a parte ora agravante tenha trazido nas razões do recurso especial a informação de que foi ajuizada ação penal contra o ora agravado, essa questão não foi suscitada nos embargos de declaração opostos contra o acórdão recorrido. Desse modo, trata-se de mera inovação argumentativa e não merece conhecimento por esta Corte Superior.
+3. Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade.
+4. Agravo interno a que se nega p rovimento.
+VOTO
+A irresignação não merece prosperar.
+Inicialmente, destaco que não há que se falar na aplicação das regras de prescrição previstas no art. 109 do Código Penal (CP) em razão da ausência de informação nos autos de que tenha sido instaurada ação penal para apuração de eventual infração investigada em processo administrativo disciplinar (PAD).
+Não obstante a parte ora agravante tenha trazido nas razões do recurso especial a informação de que foi ajuizada ação penal contra o ora agravado, essa questão não foi suscitada nos embargos de declaração opostos contra o acórdão recorrido.
+A propósito, colaciono trecho dos embargos de declaração opostos pelo ESTADO DO AMAZONAS (fls. 944/945):
+Dispõe a legislação estadual que, em se tratando de infração disciplinar, também tipificada como crime pelas leis penais pátrias, o prazo prescricional do procedimento administrativo será disciplinado igualmente ao regulado pelo Código Penal Brasileiro, nos termos do Parágrafo único do art. 168 da Lei Estadual 1.762, de 14 de novembro de 1986 (Estatuto dos Servidores Civis do Estado do Amazonas), aplicável aos servidores públicos civis, por força do art. 9º da Lei Estadual 2.271/94 (Estatuto do Policial Civil).
+Ocorre que, em momento algum deste Tribunal se manifestou acerca das razões que o levaram a afastar a incidência da referida norma ao caso sub judice, limitando-se, todavia a colacionar ementas de julgados, sem indicar se, apesar de responderem ao mesmo PAD, todos os envolvidos incorreram na mesma infração disciplinar, igualmente tipificada como crime.
+Tendo em vista o concurso material de crimes bem como a regra do art. 109 do CPB, referente a prescrição da pretensão punitiva, considerando que a somatória das penas máximas in abstracto a serem aplicadas ao ora embargante que praticou o ilícito poderá chegar a 20 anos bem como o concurso material previsto no art. 69 do CPB, a prescrição da pretensão administrativa obedecerá o prazo de 20 (vinte) anos.
+Assim, a alegação apenas no recurso especial da existência de ação penal apta a atrair a aplicação do art. 109 do Código Penal ao caso em comento é mera inovação argumentativa, por essa razão dela esta Corte Superior não pode conhecer.
+Ademais, o acórdão recorrido foi expresso ao dispor que "não pode ser aplicado os prazos prescricionais previsto na legislação penal, quando inexiste ação penal sobre os crimes apurados no processo administrativo disciplinar" (fl. 982).
+No tocante à alegação de violação ao art. 1.022 do Código de Processo Civil (CPC), tampouco merecem prosperar as alegações do agravante.
+Provocado a se manifestar sobre a aplicação do art. 109 do CP ao presente caso, o acórdão recorrido asseverou que (fl. 982):
+02.03. Quanto a omissão apontada pelo embargante acerca da inexistência de manifestação quanto a incidência do art. 109 do Código Penal Brasileiro c/c art. 168, parágrafo único da Lei Estadual 1.762/86, no qual a legislação estadual dispõe que, em se tratando de infração disciplinar tipificada como crime pelas leis penais pátrias, o prazo prescricional do procedimento administrativo será disciplinado igualmente ao regulado pelo Código Penal Brasileiro, entendo que não mereça prosperar posto que o v. acórdão reconheceu a prescrição da pretensão punitiva administrativa , nos termos do art. 140, I da lei 3.278/08 e não prescrição do direito de punir, na qual a autoridade competente tomou conhecimento dos fatos (06/06/2003) e a data em que o PAD 18/2003 foi concluído (03/03/2009).
+02.04. Apenas para aclarar o julgado trago a baila julgado desta Corte de justiça na qual reconhece que não pode ser aplicado os prazos prescricionais previsto na legislação penal, quando inexiste ação penal sobre os crimes apurados no processo administrativo disciplinar, devendo existir sobre o caso prazo de 5 anos conforme previsto na lei 3.278/08.
+Assim, inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
