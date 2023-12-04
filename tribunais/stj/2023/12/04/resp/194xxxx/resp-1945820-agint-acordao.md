@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. HORAS EXTRAS. RESERVA MATEMÁTICA. RECOMPOSIÇÃO. PATROCINADORA. COMPETÊNCIA. JUSTIÇA DO TRABALHO. SÚMULA Nº 568/STJ.
+1. A discussão dos autos reside em verificar se a patrocinadora deve responder, na Justiça Comum, pela recomposição da reserva matemática decorrente do reconhecimento judicial de horas extras.
+2. O Supremo Tribunal Federal, no julgamento do RE nº 1.265.564/SC, em repercussão geral, reconheceu a incompetência da Justiça Comum para processar os feitos em que se pretende a condenação do patrocinador ao aumento do benefício previdenciário com base em verbas trabalhistas não pagas durante o contrato de trabalho. Orientação do Superior Tribunal de Justiça em consonância com tal entendimento. Incidência da Súmula nº 568/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RONALDO CEZAR BRUNELLO contra a decisão que conheceu do agravo para negar provimento ao especial devido à incidência da Súmula nº 568/STJ (e-STJ fls. 1.277/1.282).
+Em suas razões (e-STJ fls. 1.295/1.301), o agravante alega a legitimidade passiva do patrocinador nas demandas em que se pretende a recomposição da reserva matemática junto ao ente previdenciário.
+Afirma que a decisão impugnada deixou de considerar o entendimento firmado no julgamento dos EAREsp nº 1.975.132/DF, os quais veiculam pedidos idênticos aos do presente caso.
+Aduz que, em referido julgado, a Segunda Seção do Superior Tribunal de Justiça, tendo por enfoque a orientação consolidada no rito do recurso repetitivo (REsps nºs 1.370.191 e 1.312.736/RS, respectivamente, Temas nº 936 e 955/STJ), entendeu que
+"(..) o patrocinador tem legitimidade para figurar no polo passivo de demandas revisionais em uma hipótese específica: se contra ele houver sido formulado pedido específico para que recomponha a reserva matemática do associado de forma a custear a revisão requerida em desfavor da entidade previdenciária" (e-STJ fl. 1.297).
+Insiste na tese de que a Justiça Comum é competente para julgar as ações propostas contra o patrocinador.
+Postula que o Tema nº 1.166/STJ não se aplica à hipótese em que se busca a recomposição da reserva matemática.
+Desse modo, no caso de se manter o afastamento da competência da Justiça Comum para processar a causa, pleiteia a alteração do fundamento da extinção do processo por ilegitimidade passiva pela incompetência do Juízo.
+Ao final, requer o provimento do recurso para seja reconhecida a legitimidade do Banco do Brasil para figurar no polo passivo da ação em apreço, devendo ser condenado a recompor integralmente a reserva matemática.
+A parte contrária apresentou impugnação às fls. 1.333/1.344 e 1.346/1.3 55 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. HORAS EXTRAS. RESERVA MATEMÁTICA. RECOMPOSIÇÃO. PATROCINADORA. COMPETÊNCIA. JUSTIÇA DO TRABALHO. SÚMULA Nº 568/STJ.
+1. A discussão dos autos reside em verificar se a patrocinadora deve responder, na Justiça Comum, pela recomposição da reserva matemática decorrente do reconhecimento judicial de horas extras.
+2. O Supremo Tribunal Federal, no julgamento do RE nº 1.265.564/SC, em repercussão geral, reconheceu a incompetência da Justiça Comum para processar os feitos em que se pretende a condenação do patrocinador ao aumento do benefício previdenciário com base em verbas trabalhistas não pagas durante o contrato de trabalho. Orientação do Superior Tribunal de Justiça em consonância com tal entendimento. Incidência da Súmula nº 568/STJ.
+3. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Com efeito, conforme consignado na decisão impugnada, o autor, ora agravante, obteve, na Justiça trabalhista, o reconhecimento judicial de horas extras trabalhadas e busca os reflexos da complementação de aposentadoria que recebe da PREVI - CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL.
+Assim, pretendeu o reconhecimento de que o patrocinador, no caso o Banco do Brasil S.A., é o responsável pela recomposição da reserva matemática por ter praticado ato ilícito ao não recolher tempestivamente as contribuições devidas ao fundo previdenciário.
+No apelo nobre, apontou o REsp nº 1.370.191/RJ (Tema nº 936/STJ) e acórdão do Tribunal de Justiça do Estado de Minas Gerais como acórdãos paradigmas da controvérsia.
+A decisão recorrida negou provimento ao recurso especial por ter o tribunal de origem decidido de acordo com a jurisprudência desta Corte Superior, o que atraiu ao ponto a incidência da Súmula nº 568/STJ.
+De fato, o tribunal local afastou a ilegitimidade do Banco do Brasil S.A. em ações cuja pretensão seja a cobrança de diferenças de complementação de aposentadoria vertidas à PREVI por atuar apenas como patrocinador de parte do custeio dos benefícios pagos.
+Ademais, o Supremo Tribunal Federal, no julgamento do RE nº 1.265.564/SC, em repercussão geral, reconheceu a incompetência da Justiça Comum para processar os feitos em que se pretende a condenação do patrocinador ao aumento do benefício previdenciário com base em verbas trabalhistas não pagas durante o contrato de trabalho.
+Esta Corte, por sua vez, embora a princípio reconhecesse a ilegitimidade do patrocinador para figurar no polo passivo em razão de sua personalidade jurídica autônoma, assegurava o direito de ressarcimento, na justiça competente, por ato ilícito cometido pelo empregador.
+De todo modo, apesar de consignar que o t ribunal local decidiu com escopo na jurisprudência do STJ, a decisão atacada fundamentou o não provimento ao recurso especial em precedentes desta Corte Superior que já se filiaram ao entendimento vinculante do STF.
+Ademais, resguardado está o direito do agravante de buscar, se assim pretender, na esfera laboral o ressarcimento do que dispender pela cota patronal.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DE BENEFÍCIOS DE PREVIDÊNCIA COMPLEMENTAR. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA TRABALHISTA. VIOLAÇÃO A REGULAMENTO. NÃO CABIMENTO. JUROS DE MORA. SÚMULA Nº 283/STF. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. DECISÃO EM CONSONÂNCIA COM PRECEDENTE FIXADO EM SEDE DE RECURSO REPETITIVO. LEGITIMIDADE DA PATROCINADORA. INCOMPETÊNCIA DA JUSTIÇA COMUM. SUCUMBÊNCIA. SÚMULA Nº 7/STJ.
+1.Alegada violação a Regulamento, Resolução ou qualquer ato normativo que não se enquadre no conceito de lei federal. Não cabimento.
+2. "Modulação dos efeitos da decisão (art. 927, § 3º, do CPC/2005):
+nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso." (REsp 1312736/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 08/08/2018, DJe 16/08/2018).
+3. A questão da legitimidade do Banco do Brasil é de vulto e tem efetivamente oscilado entre os julgadores de ambas as Turmas que compõem a 2ª Seção, ora identificando-se a legitimidade do Banco, ora afastando-se esta legitimidade nas ações em que se postula o pagamento de reflexos previdenciários decorrentes de decisão transitada em julgado na Justiça do Trabalho a alcançar horas extras inadimplidas ao trabalhador/participante.
+4. A verificação da legitimidade do patrocinador depende, como já fora reconhecido por esta Terceira Turma em processos idênticos ao presente, da consideração dos pedidos efetivamente formulados e da causa de pedir a coadjuvá-los.
+5. Em tendo a autora incluído dentre as suas pretensões a condenação do Banco Brasil S.A. a integralizar a reserva matemática, recolhendo as contribuições incidentes sobre as diferenças de benefícios devidas a autora, ou a indenizar os danos materiais relativos ao decesso dos seus benefícios previdenciários, assim como, tendo feito integrar a causa de pedir alegado ilícito perpetrado pelo patrocinador a gerar as diferenças agora postuladas em relação ao benefício previdenciário, é patente a legitimidade passiva do patrocinado.
+6. Apesar da legitimidade do Banco do Brasil, a extinção da ação no que lhe respeita faz-se necessária em face da incompetência da Justiça Estadual. É que, recentemente, houve o julgamento do RE nº 1.265.564/SC, sob a relatoria do e. Min. Luiz Fux, ao qual se imprimiu o rito da repercussão geral, recurso extraordinário que cuidou de reconhecer a incompetência da Justiça Comum e competência da Justiça do Trabalho para a análise da pretensão de condenação do patrocinador ao pagamento das contribuições previdenciárias correspondentes às diferenças salariais reconhecidas na Justiça laboral.
+7. Fixou-se, assim, a tese de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada.", orientação que acaba por consonar com o entendimento deste Superior Tribunal de Justiça, esboçado no REsp repetitivo nº 1.312.736/RS no sentido da competência da Justiça do Trabalho para o exame dos "eventuais prejuízos causados ao participante ou ao assistido que não puderam contribuir ao fundo na época apropriada ante o ato ilícito do empregador".
+8. Ônus sucumbenciais e fixação dos honorários incursão na matéria fático-probatória. Incidência do enunciado nº 7/STJ.
+9. AGRAVO DESPROVIDO."
+(AgInt no REsp 1.931.439/DF, Relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023).
+Ante o exposto, diante da incompetência da Justiça Comum para processar e julgar o presente feito, nego provimento ao agravo interno .
+É o voto.
