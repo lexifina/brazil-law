@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por NILDA APARECIDA DE BRITO E OUTROS contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 331/341).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 68):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULOS APRESENTADOS PELO CONTADOR JUDICIAL. DETERMINAÇÃO DO D. MAGISTRADO A QUO PARA ATUALIZAÇÃO DOS VALORES DEVIDOS A TÍTULO DE PENSIONAMENTO, CONSIDERANDO LAUDO ANTERIORMENTE ELABORADO PELO PERITO. IMPUGNAÇÕES APRESENTADAS PELAS PARTES QUE, EM SUA MAIOR PARTE, FORAM RECHAÇADAS PELO EXPERT OU DECIDIDAS PELO D. JUÍZO A QUO AO LONGO DO CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA DE JUROS COMPOSTOS SOBRE OS VALORES DECORRENTES O PENSIONAMENTO QUE FOI APURADA CONSOANTE ESTABELECIDO NO TÍTULO EXECUTIVO JUDICIAL. DISCUSSÃO ACERCA DE DIFERENÇAS DECORRENTES DE PENSIONAMENTO QUE FOGE AOS CÁLCULOS ELABORADOS, DEVENDO SER APURADAS APÓS A PRECLUSÃO DA DECISÃO HOMOLOGATÓRIA DO VALOR DA PENSÃO. DECISUM QUE MERECE PEQUENO AJUSTE NO QUE TANGE À INCIDÊNCIA DE HONORÁRIOS PREVIAMENTE FIXADOS POR OCASIÃO DO INÍCIO DA EXECUÇÃO. AGRAVO A QUE SE DÁ PARCIAL PROVIMENTO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 157/163).
+Nas razões do recurso especial (e-STJ fls. 165/186), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de divergência jurisprudencial, violação dos arts. 165, 458 e 535 do CPC/1973 e 489, § 1º, IV, e 1.022 do CPC/2015, por negativa de prestação jurisdicional, "ao deixar de enfrentar de forma adequada, as questões suscitadas pelas ora Recorrentes especialmente quanto a violação da coisa julgada e aplicação das regras dos artigos 502, 503 e 505 do Código de Processo Civil. questões tratadas no recurso de agravo de instrumento embargos declaratórios por elas interpostos" (e-STJ fl. 206).
+Apontou ainda afronta aos arts. 502, 503 e 505 do CPC/2015, sustentando que "o recorrido violou a coisa julgada (que determinou a incidência dos juros simples e compostos sobre as verba indenizatórias) ao determinar a observância de planilha de cálculos que limitando-se a calcular uma das modalidades de juros, com a necessária diferenciação dos percentuais de acordo com a vigência do Código Civil/2002, suprimindo dos cálculos a outra modalidade dos juros determinada na condenação, repita-se, transitada em julgado" (e-STJ fl. 224).
+No agravo (e-STJ fls. 390/415), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 423/440 (e-STJ).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 165, 458 e 535 do CPC/1973 e 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 162):
+Ao contrário do que sugerem as exequentes, a coluna que se encontra zerada a partir de janeiro de 2003 não se refere a juros simples, mas aos juros compostos (incidência de juros sobre os "juros simples") com base no índice adotado durante a vigência do CC/16 ao passo que na coluna ao lado constam os juros compostos incidentes após a entrada em vigor do CC/02. Assim, não se há de falar em supressão dos juros simples.
+Ficou reconhecido, portanto, que foi observada a planilha de cálculos apresentada , de modo que não teria havido supressão dos juros simples.
+Ao contrário do alegado pela parte, não houve alteração do estabelecido no título executivo judicial. Ausente, dessa forma, ofensa à coisa julgada.
+Além disso, modificar o entendimento do acórdão impugnado, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, a incidência da Súmula n. 7/STJ também inviabiliza o exame do recurso especial pela alínea "c" da norma autorizadora.
+Ante o expost o, NEGO PROVIMENTO ao agravo de NILDA APARECIDA DE BRITO E OUTROS.
+Publique-se e intimem-se.
+EMENTA
