@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por RAFAEL HENRIQUE DA SILVA contra decisão que inadmitiu apelo nobre, interposto com fundamento no art. 105, inciso III, da Constituição Federal que desafia acórdão assim ementado (e-STJ fl. 359):
+DANOS MORAIS - PRISÃO INDEVIDA - ERRO JUDICIÁRIO - Autor condenado em primeira e segunda instância pela prática de crimes - Cumprimento da pena privativa de liberdade no regime semi-aberto e aberto - Ordem concedida em habeas corpus - Reconhecimento da prescrição retroativa - Inocorrência de erro judiciário - Devido processo legal observado - Prescrição da pretensão punitiva do Estado, na modalidade retroativa, calculada com base na pena fixada em concreto - Matéria de defesa alegada pela parte interessada tão somente após o trânsito em julgado e início da execução penal - Inércia do interessado em alegar, de imediato, causa extintiva de punibilidade, que não pode ser atribuída à atividade jurisdicional - Prisão que foi executada como consequência direta da condenação definitiva - Declaração da extinção da punibilidade e liberação do condenado realizados imediatamente após a provocação - Responsabilidade civil não configurada - Sentença de improcedência mantida.
+RECURSO IMPROVIDO
+O recorrente sustenta a existência de ofensa aos arts. 43, 927 e 954, todos do Código Civil, bem como art. 61 do Código de Processo Penal.
+Sem contrarrazões.
+Passo a decidir.
+Cumpre ressaltar, inicialmente, que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Mediante análise dos autos, verifico que a inadmissão do recurso se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha o recorrente impugnado especific amente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento à vista da necessidade do exame das provas que repousam nos autos.
+É que, tendo o Tribunal de origem reconhecido que o conjunto probatório não foi hábil a demonstrar o erro judiciário defendido pela parte recorrente, capaz de autorizar o acolhimento da pretensão indenizatória, a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que seria inviável em sede de recurso especial.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER DO RECURSO ESPECIAL.
+Publique-se. Intimem-se.
+EMENTA
