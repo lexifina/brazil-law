@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos por IRACEMA SARTORI, contra decisão de fls. 441/455e, que rejeitos os primeiros Embargos de Declaração.
+Sustenta a parte ora embargante haver omissão na referida decisão, pois segundo alega, "não há de se falar em decadência do direito à adequação da renda mensal de benefício aos novos tetos fixados pelas EC nº 20/98 e EC nº 41/2003, independente da DIB, já que a Lei 8.213/91 fixou prazo apenas para a revisão do ato de concessão, o que não é o presente caso, que trata de reajuste" (fl. 458e).
+Requer, por fim, "seja objetivamente esclarecida a seguinte premissa, destacando que o justo deslinde do feito depende da apreciação desta questão: 1 - Incide decadência nas pretensões de aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 a benefícios previdenciários concedidos antes dos citados marcos legais  Isto posto, requer seja: 1. corrigido o ERRO MATERIAL, para afastar a incidência da decadência do direito à adequação da renda mensal de benefício aos novos tetos fixados no art. 14 da EC nº 20/98 e no art. 5º da EC nº 41/2003; 2. suprida a OMISSÃO, para adequar o acórdão proferido pelo TRF4 à decisão do STF no RE nº 564.354, que determina a aplicação dos novos coeficientes de teto, instituídos pelas EC 20/98 e 41/03, aos benefícios concedidos anteriormente à vigência da CF/88, em casos de limitação ao mVT (menor valor teto) ou MVT (maior valor teto) - em observância aos artigos 926 e 927 do CPC/15" (fls. 459/460e).
+Intimado, o INSS não apresentou resposta (fl. 467e).
+Considerando a pretensão da parte embargante, recebo os Embargos de Declaração como Agravo interno e, tendo em vista a fundamentação trazida, reconsidero as decisões de fls. 399/405e e 406/424e.
+Após as providências de praxe, voltem conclusos os autos, para novo julgamento dos Recursos Especiais.
+I.
+EMENTA
