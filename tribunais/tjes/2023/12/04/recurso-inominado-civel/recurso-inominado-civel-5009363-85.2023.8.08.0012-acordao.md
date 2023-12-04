@@ -1,0 +1,86 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5009363-85.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DILZANIR PACHECO DA ROCHA SCHEIDEGGER
+RECORRIDO: GOL LINHAS AEREAS S.A.
+RELATOR(A):
+THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO:
+5009363-85.2023.8.08.0012
+
+RECORRENTE: DILZANIR PACHECO DA ROCHA SCHEIDEGGER
+
+RECORRIDO: GOL LINHAS AÉREAS S.A.
+
+RELATORA: Dra. THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE: Dr. LUCIANO COSTA BRAGATTO
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE FALHA NA PRESTAÇÃO DE SERVIÇO. ATRASO DE 1H DO VOO. DANOS MORAIS NÃO CONFIGURADOS. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+
+RELATÓRIO / VOTO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de Assistência Judiciária Gratuita à parte recorrente.
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE MÁ PRESTAÇÃO DO SERVIÇO. INEXISTÊNCIA DE COMPROVAÇÃO DOS DANOS MORAIS. DANOS MORAIS NÃO CONFIGURADOS.
+ADUZ A AUTORA QUE ADQUIRIU PASSAGEM AÉREA DA RÉ, PARA VOO A SER REALIZADO NO DIA 26/05/2023, ÀS 18H20MIN, PARTINDO DE VITÓRIA/ES COM DESTINO À BRASÍLIA/DF, VISANDO COMPARECER NA FORMATURA DO SEU IRMÃO. CONTUDO, RELATA QUE O VOO ATRASOU, DECOLANDO APENAS ÀS 19H30MIN, DE MODO QUE NÃO HOUVE TEMPO HÁBIL PARA CHEGAR AO EVENTO E SURPREENDER SEU IRMÃO. AFIRMA AINDA QUE A RÉ NÃO PRESTOU QUALQUER SUPORTE DURANTE O PERÍODO DE ESPERA. DIANTE DISSO, PLEITEIA INDENIZAÇÃO POR DANOS MORAIS.
+SENTENÇA DE PISO JULGOU IMPROCEDENTE
+A PRETENSÃO AUTORAL.
+RECURSO INOMINADO DA PARTE AUTORA.
+EM SUAS RAZÕES, ADUZ A MÁ PRESTAÇÃO DO SERVIÇO QUE GEROU DANO MORAL NA ORA RECORRENTE, HAJA VISTA QUE O ATRASO DO VOO DE UMA HORA FOI SUFICIENTE PARA FAZER A AUTORA PERDER A FESTA DE FORMATURA DE SEU IRMÃO.
+CONTRARRAZÕES
+APRESENTADAS PELA RECORRIDA, REQUER MANUTENÇÃO DA SENTENÇA ORA GUERREADA.
+RECURSO CONHECIDO E IMPROVIDO.
+CONFORME MENCIONADO PELO MAGISTRADO
+A QUO,
+NÃO HÁ PROVA QUE DEMONSTRE QUALQUER OFENSA A DIREITOS DA PERSONALIDADE DA CONSUMIDORA; ATRASO ÍNFIMO DE APENAS UMA HORA. DANOS MORAIS NÃO DEMONSTRADOS. INEXISTÊNCIA DE COMPROVAÇÃO DE QUE TERIA PERDIDO A FORMATURA DO IRMÃO.
+
+DESTA FEITA, COADUNO COM O JUÍZO DE PISO E ENTENDO QUE A SITUAÇÃO NÃO ULTRAPASSA O LIMITE DE MEROS DISSABORES DO COTIDIANO, NÃO RESTANDO CONFIGURADOS OS DANOS MORAIS PLEITEADOS.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI No 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS
+FIXADOS EM 10% SOBRE O VALOR DA CAUSA, ANTE A AUSÊNCIA DE VERBA CONDENATÓRIA, NA FORMA DO ART. 55 DA LEI 9.099/95, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3o, DO ART. 98, DO CPC/15.
+
+DISPOSITIVO
+
+Em face do exposto,
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO
+.
+Condeno o recorrente ao pagamento de custas processuais e honorários advocatícios no percentual de 10%
+sobre o valor da causa, na ausência de verba condenatória, nos moldes do art. 55 da Lei 9.099/95, estando suspensa sua exigibilidade ante a concessão de assistência judiciária gratuita, conforme preleção do art. 98, §3º do CPC.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
