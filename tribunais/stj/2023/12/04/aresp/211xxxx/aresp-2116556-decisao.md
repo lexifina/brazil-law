@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa aos arts. 489, § 1º e 1.022, inciso II do CPC/2015, e incidência das Súmulas 7 e 518 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 483):
+AGRAVO INTERNO. AUSÊNCIA DE RECURSO VOLUNTÁRIO. DESAPROPRIAÇÃO. DECRETO 3552/2010. FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DO RIO DO JANEIRO -DER RJ. LAUDO PERICIAL ELABORADO SEGUNDO MÉTODOS IDÔNEOS, PORÉM QUE APURA O VALOR DAS BENEFEITORIAS DO TERRENO E 218,42M2 DO LOTE DE TERENO. AREA INFERIOR À EFETIVAMENTE DESAPROPRIADA. GARANTIA CONSTITUCIONAL À JUSTA INDENIZAÇÃO.
+1. Adoto o entendimento que a matéria de ordem pública de fundo (justa indenização) pode ser conhecida de ofício, ainda que superada a exigência do reexame necessário.
+2. A determinação para que seja realizada diligência a fim de aferir o valor da parte do imóvel não avaliada não importa em nulidade, já que a matéria em comento trata-se de direito constitucionalmente garantido ao indivíduo, para fazer contrapeso ao poder do Estado.
+3. Não há que se falar ainda em violação ao duplo grau de jurisdição.
+4. A avaliação do terreno e busca pela justa avaliação foi objeto de discussão e julgamento perante o juízo a quo. Contudo a matéria precisa ser reavaliada com maior cautela, a fim de alcançar, efetivamente, a justa indenização constitucionalmente assegurada.
+5. NEGATIVA DE PROVIMENTO AO RECURSO.
+Embargos de declaração rejeitados.
+No recurso especial, a parte recorrente alega violação dos artigos 489, §1º e 1.022 do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: vício de fundamentação de acórdão que colaciona julgado que não se adequa ao caso concreto (fls. 580-584).
+Quanto às questões de fundo, sustenta ofensa: (a) aos artigos 28, §1º, do Decreto-Lei n. 3365/1941 e 496, §3º, inciso II do CPC/2015, alegando a dispensa legal de duplo grau obrigatório de jurisdição; (b) à Súmula n. 59/STJ, alegando a impossibilidade de agravamento da situação da Fazenda Pública em remessa necessária; (c) aos artigos 507 e 508 do CPC/2015, alegando a preclusão no que diz respeito aos critérios de estipulação do valor da indenização em ação de desapropriação; e dissídio jurisprudencial.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Com efeito, a recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional e que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito de possível vício de fundamentação do acórdão recorrido, sob a alegação de que foram colacionados julgados os quais não se adequam ao caso concreto, em virtude da impossibilidade de se rediscutir decisão judicial na hipótese em que há dispensa legal de reexame necessário e ausente a interposição de recurso de apelação pelas partes (fls. 580-584).
+Com efeito, evidencia-se qu e a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que Corte de origem aprecie a matéria articulada nos aclaratórios, a respeito da impossibilidade de se rediscutir decisão judicial na hipótese em que há dispensa legal de reexame necessário e ausente a interposição de recurso de apelação pelas partes.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. CONHEÇO DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
