@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). CONTRATO DE PRESTAÇÃO DE SERVIÇO. AÇÃO DE COBRANÇA. VIOLAÇÃO NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE DO APELO ESPECIAL. SÚMULA N. 284/STF. COMPROVAÇÃO DO DIREITO VINDICADO E ÔNUS DA PROVA. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte já se manifestou no sentido de que "os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF" (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018).
+2. Rever a conclusão do Tribunal de origem acerca da comprovação do direito vindicado e do ônus da prova demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRASILIAN CATALOGUES S.C. LTDA. contra decisão proferida pela Presidência desta Corte que não conheceu do agravo em recurso especial, ao fundamento de incidência das Súmulas n. 7/STJ e 282 e 284/STF (e-STJ, fls. 620-625).
+Nas razões do agravo, a insurgente alega a inaplicabilidade dos óbices apontados, sustentando a necessidade de apreciação da matéria pelo colegiado desta Corte e que todas as questões tratadas foram consolidadas sob a égide do CPC/1973, o qual, ainda que revogado, continua sendo aplicado no presente caso.
+Defende que a omissão suscitada vem sendo alegada em embargos de declaração, desde a sentença de primeiro grau.
+Argumenta que (e-STJ, fl. 636) "o acórdão recorrido em sede de recurso especial manteve procedente o pleito de cobrança da agravada sem que esta tivesse provado o fato constitutivo de seu direito e, pior, exigi u que a agravante provasse de forma negativa que o serviço de postagem dos catálogos não foi prestado, negando vigência ao art. 333, I do CPC/73".
+Assevera que não pretende o reexame de prova, mas a correta valoração jurídica do conjunto probatório que instruiu o feito, aduzindo (e-STJ, fls. 640-641):
+Como consta dos autos, inexiste pretensão de discutir se houve ou não prestação do serviço, ou se houve ou não pagamento pelos serviços. O que se discute é que a agravada, mesmo intimada, não se desincumbiu do ônus da prova, não produziu prova do fato constitutivo de seu pretenso direito.
+Ora, sustentou a Defesa que a agravada não poderia cobrar pelos serviços de postagens de catálogos porque não havia prestado os serviços, restando incontroverso nos autos que houve paralisação dos serviços de correio por força de greve do setor.
+Tendo em vista a argumentação da agravante, o MM. Juiz de primeira instância determinou que a agravada provasse a prestação dos serviços, juntado aos autos o devido "comprovante de postagem" dos catálogos.
+Seguiu-se manifestação da agravada no sentido de que teria extraviado referido "comprovante de postagem". A agravada também não apresentou, em qualquer momento, para a defesa de suas alegações, a escrituração de suas atividades comerciais.
+À luz daquela manifestação, a agravante pleiteou que, considerando legislação então em vigor, sobretudo art. 10 do Código Comercial, o fato fosse considerado em desfavor da agravada, posto que cabia a ela a guarda e conservação de documento relativo ao giro de seu comércio e o extravio de tal documentação faz prova contra si. Assim, o fato deveria ser interpretado a favor da agravante..
+Pontua que competia à agravada provar que prestou os serviços pelos quais cobra a respectiva contraprestação, e não determinar que a ora agravante fizesse prova negativa de que o serviço não foi prestado, submetendo-a à produção de prova diabólica, impossível de ser produzida.
+Requer o provimento deste agravo interno.
+Impugnação às fls. 678-696 (e-STJ).
+É o relatório
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). CONTRATO DE PRESTAÇÃO DE SERVIÇO. AÇÃO DE COBRANÇA. VIOLAÇÃO NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE DO APELO ESPECIAL. SÚMULA N. 284/STF. COMPROVAÇÃO DO DIREITO VINDICADO E ÔNUS DA PROVA. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte já se manifestou no sentido de que "os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF" (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018).
+2. Rever a conclusão do Tribunal de origem acerca da comprovação do direito vindicado e do ônus da prova demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para alterar os fundamentos da decisão ora agravada.
+Conforme bem salientado na decisão proferida pela Presidência desta Corte, verifica-se que o recurso especial não pode merecer conhecimento sob a alegação de ofensa ao art. 1.022 do CPC/2015 (art. 535 do CPC/1973), porquanto não houve a oposição de embargos de declaração para que o Tribunal local reparasse os vícios apontados nas razões do apelo extremo. Desse modo, a incidência da Súmula n. 284/STF é medida de rigor.
+A esse respeito (sem destaque no original):
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONSECTÁRIOS LEGAIS. ADEQUAÇÃO PELO TRIBUNAL DE ORIGEM. TEMA 905/STJ E 810/STF. TESE DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE DO APELO NOBRE. SÚMULA 284/STF. JUROS DE MORA. EXISTÊNCIA DE COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA FIXADA SEGUNDO COMPREENSÃO ADOTADA PELO STJ EM SEDE REPETITIVA. DÉBITO FAZENDÁRIO DE NATUREZA CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. O Superior Tribunal de Justiça já se manifestou no sentido de que "os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF" (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018).
+2. A desconstituição da premissa lançada pela instância ordinária, segundo a qual a existência de coisa julgada material inviabiliza a rediscussão da matéria referente aos juros de mora, demandaria o reexame de matéria fática, procedimento que, nesta instância especial, encontra óbice na Súmula 7/STJ.
+3. A correção monetária restou fixada em consonância tanto com o entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral, quanto com a compreensão adotada por este Superior Tribunal no âmbito de recurso especial repetitivo.
+4. A alegada inaplicabilidade do Tema 810/STF (RE 870.947/SE), devido à natureza civil da contenda jurídica, não merece ser conhecida, porquanto carece de debate prévio (Súmula 282/STF).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.238.744/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Quanto à comprovação do direito vindicado e à inversão do ônus da prova, o Tribunal de Justiça do Estado de São Paulo se manifestou nos seguintes termos (e-STJ, fls. 458-460):
+Como se vê, a Apelante não nega a existência do contrato, mas resiste à pretensão inaugural, alegando, superficialmente, que a ECT não teria produzido provas suficientes para embasar sua pretensão ao não juntar o "comprovante de postagem". No entanto, essas alegações vêm despidas de comprovação, mínima que seja, impossibilitando desse modo sua análise.
+As testemunhas da autora (Paulo Cesar Ferri e Antonio Carlos Martins Femandes da Silva Lage) confirmaram que o serviço foi prestado e que a greve de funcionários da empresa não o prejudicou assim como não houve devolução dos catálogos remetidos à ré, como estabelecido no contrato nos casos de não localização do destinatário (fis. 222/225). Tudo indica o adimplemento da obrigação dos Correios.
+Registre-se ainda que, instada a manifestar-se sobre a produção de provas, a sociedade empresária requereu a oitiva de testemunhas e juntada de novos documentos das provas.
+ ..
+No caso concreto, caberia à apelante apresentar o instrumento de quitação da dívida reclamada (nos termos do artigo 319 e seguintes do Código Civil), ou ainda desconstituir os documentos apresentados pela Apelada, que demonstram efetivamente a prestação dos serviços contratados.
+ ..
+Por certo que a Apelante não se desincumbiu do ônus de apontar qualquer irregularidade na cobrança efetuada pela EBCT, a qual está respaldada em documentos consistentes acerca da prestação dos serviços, nos termos do artigo 333, inciso II, do CPC/73, vigente à ocasião em que a contestação foi apresentada. Assim, trata-se de dívida dotada de liquidez cuja exigibilidade não foi afastada pela parte ré.
+ ..
+Desta forma, não existindo elemento nos autos que contrarie a alegação da EBCT de que a parte Apelante não efetuou o pagamento das faturas decorrentes da prestação dos serviços de postagem, lhe é garantido o direito de receber os valores em questão.
+Verifica-se que a conclusão, acerca da pretendida discussão sobre a regra do ônus da prova, bem como sobre os critérios utilizados pela instância ordinária para considerar comprovado ou não o direito alegado, situa-se no campo do exame de provas, o que é vedado em recurso especial, consoante o teor da Súmula n. 7/STJ
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
