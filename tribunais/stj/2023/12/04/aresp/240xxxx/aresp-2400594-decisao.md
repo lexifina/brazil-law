@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 197):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. PRESTAÇÕES EM ATRASO. MÉMORIA DE CÁLCULOS. APRESENTAÇÃO. ÔNUS DO INSS NO CASO. ACORDO HOMOLOGADO. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Recurso conhecido, nos termos do parágrafo único, do artigo 1.015 do CPC.
+2. A execução invertida é uma faculdade que pode ser exercida pela Autarquia e que vem sendo utilizada no processo previdenciário, considerando que a prática implica em celeridade processual.
+3. Não obstante o cumprimento de sentença se dê por iniciativa do exequente com a apresentação da conta de liquidação, na hipótese dos autos, a Autarquia assumiu o ônus na apuração do quantum devido (obrigação de fazer), conforme proposta de acordo apresentada, aceita e homologada.
+4. O art. 536, caput e § 1º, do CPC, ao tratar do cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer ou de não fazer, prevê que o juiz poderá, de ofício ou a requerimento, para a efetivação da tutela específica ou a obtenção de tutela pelo resultado prático equivalente, determinar as medidas necessárias à satisfação do exequente e, dentre outras medidas, poderá impor multa.
+5. Agravo de instrumento improvido.
+Embargos de declaração rejeitados (e-STJ fls. 217/232).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 11, 489, II, § 1º, IV, e 1.022, I e II, parágrafo único, I e II, do CPC/2015, por negativa de prestação jurisdicional, ante o não suprimento de vícios apontados em sede de embargos de declaração, no tocante ao alcance dos arts. 537, § 1º, II, do CPC/2015 e 876, 884 e 885 do CC/2002.
+No mérito, apontou afronta aos referidos dispositivos legais, sustentando a impossibilidade de imposição da multa, tendo em vista a existência de justa causa e fato superveniente e alheio à sua vontade e que impossibilitaram o cumprimento da obrigação determinada pelo juízo a quo, visto que, "em 30/09/2020, foi informado ao juízo da execução a impossibilidade de proceder e exercer atividade inerentes ao setor de cálculos, por falta expressiva de servidores" (e-STJ fl. 237).
+Ressaltou que "não houve animus de deixar de cumprir qualquer decisão judicial, ao contrário, na medida de sua possibilidade, o INSS implantou o benefício no prazo judicial, justificando de maneira plausível e coerente o porquê da falta dos cálculos" (e-STJ fl. 239).
+Subsidiariamente, requer a redução do valor da multa aplicada e que seja determinado o seu limite em um salário mínimo, sob pena de enriquecimento ilícito.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Destaco que o art. 1.022 do Código de Processo Civil de 2015 prevê que os embargos de declaração serão cabíveis quando houver, no acórdão ou na sentença, omissão contradição, obscuridade ou erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão, contradição, obscuridade ou erro material tem que ser patente e seu exame imprescindível para o enfrentamento da quaestio.
+No presente caso, assiste razão ao ora recorrente tendo em vista que, muito embora o tema tenha sido suscitado em apelação e no recurso integrativo, a Corte Regional não exprimiu juízo de valor acerca de possível justa causa que levou a autarquia ao não cumprimento da obrigação de fazer.
+Assim, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pelo Tribunal de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA.
+1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 1.022 do CPC/2015.
+2. Agravo conhecido para dar provimento ao recurso especial e determinar o retorno dos autos à origem para novo julgamento dos embargos de declaração. (AREsp 1553983/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 26/05/2020, DJe 17/06/2020)
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1346569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/11/2014, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1313492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 17/03/2016, DJe 31/03/2016).
+Pelo exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão prolatado em sede de embargos declaratórios e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão omitida, mencionada acima .
+Publique-se. Intimem-se.
+EMENTA
