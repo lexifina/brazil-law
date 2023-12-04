@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDIO GIRARDI e OSWALDO PEREIRA CARDOSO FILHO à decisão desta relatoria proferida nos termos da seguinte emen ta (e-STJ, fls. 588-595):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. CUMULAÇÃO DE HONORÁRIOS ARBITRADOS NA EXECUÇÃO E NOS EMBARGOS À EXECUÇÃO. TRÂNSITO EM JULGADO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. PAGAMENTO PARCIAL DOS HONORÁRIOS ADVOCATÍCIOS. CONCLUSÃO DO TRIBUNAL DE ORIGEM PELA AUSÊNCIA DE DEMONSTRAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRINCÍPIO DA EFETIVIDADE DA EXECUÇÃO E DA MENOR ONEROSIDADE AO DEVEDOR. NECESSIDADE DE CONCORDÂNCIA. ORDEM DE GRADAÇÃO LEGAL. CARÁTER NÃO ABSOLUTO. INDICAÇÃO DE BEM PELA DEVEDORA. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM. NECESSIDADE DE FUNDAMENTAÇÃO DA DECISÃO. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
+Em suas razões (e-STJ, fls. 598-688), os embargantes aduzem, em síntese, que a decisão objurgada seria obscura, tendo em vista a ocorrência do fato superveniente de que o crédito em litígio já fora satisfeito, sem qualquer oposição ou embaraço.
+Argumentam que não mais se justificaria a devolução dos autos ao Tribunal a quo, tendo em vista a perda de objeto em razão da satisfação mediante dinheiro.
+Nas contrarrazões de fls. 692-694 (e-STJ), a parte adversa afirma que, de fato, não há necessidade de retorno dos autos à Corte estadual para apurar potencialidade da satisfação do crédito mediante a penhora do bem imóvel oferecido.
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz, de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. SUCEDÂNEO RECURSAL. COMPETÊNCIA INTERNA RELATIVA. PRECLUSÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO CARACTERIZAÇÃO.
+ ..
+2. Ausentes quaisquer dos vícios ensejadores dos aclaratórios previstos no artigo 1.022 do Código de Processo Civil de 2015, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no CC 163.375/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 05/05/2020, DJe 07/05/2020)
+No que diz respeito à obscuridade apontada pelos ora embargantes, uma vez que houve a satisfação do débito, de fato, deve-se reconhecer que houve a perda do objeto do recurso neste ponto.
+Destarte, torna-se desnecessário o retorno dos autos à Corte de origem para que sopese a potencialidade de satisfação do crédito em relação ao bem indicado pela devedora recorrente.
+Assim, tendo em vista a perda do objeto da discussão relativa à alegação de que o TJMT teria rejeitado injustificadamente o imóvel indicado à penhora, passa o dispositivo da decisão embargada a constar que: conhece-se do agravo, em juízo de retratação, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes nos termos acima delineados.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIA L. ART. 1.022 DO CPC/2015. NECESSIDADE DE ESCLARECIMENTO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
