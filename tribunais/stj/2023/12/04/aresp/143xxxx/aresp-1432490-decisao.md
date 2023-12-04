@@ -1,0 +1,67 @@
+DECISÃO
+T rata-se de agravo interposto por KIRTON BANK S.A. - BANCO MÚLTIPLO, contra decisão que não admitiu o recurso especial, apresentado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fls. 1090/1101):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO JURÍDICO. ARREMATAÇÃO JUDICIAL DE IMÓVEL ADQUIRIDO PREVIAMENTE POR TERCEIRO.
+1. PRELIMINARES. AFASTAMENTO.
+1.1. ILEGITIMIDADE ATIVA. DECLARAÇÃO DE FRAUDE À EXECUÇÃO QUE NÃO AFASTA O DIREITO DE PROPRIEDADE DO AUTOR. INEFICÁCIA SOMENTE PERANTE O EXEQUENTE.
+1.2. INADEQUAÇÃO DA VIA ELEITA. INOCORRÊNCIA. AÇÃO RESCISÓRIA. NÃO CABIMENTO. AUSÊNCIA DE CONFIGURAÇÃO DE FUNDAMENTO AUTORIZADOR. DECISÃO QUANTO A OCORRÊNCIA DE FRAUDE À EXECUÇÃO MERAMENTE PROCESSUAL.
+1.3. OFENSA À COISA JULGADA. AUSÊNCIA DE PREJUDICIALIDADE EM RELAÇÃO AUTOR/TERCEIRO. CITAÇÃO EDITALÍCIA SEM O ESGOTAMENTO DAS TENTATIVAS DE EFETIVAÇÃO PESSOAL DO ATO. FALTA DE CIÊNCIA ACERCA DA DECLARAÇÃO DE FRAUDE ÀEXECUÇÃO.
+- Vislumbra-se a legitimidade ativa do autor em pugnar pela nulidade da arrematação judicial de imóvel registrado em seu nome, vez que o reconhecimento de fraude à execução não afasta o seu direito de propriedade.
+- Mostra-se cabível a pretensão anulatória quando já ultrapassado o prazo para oposição de embargos, especialmente quando o terceiro prejudicado não teve ciência quanto a existência da ação executiva.
+-Nesta esteira, também não há que se, falar em coisa julgada da decisão que declarou a fraude à execução em relação ao autor/terceiro prejudicado que não era parte na ação em que ocorreu a arrematação.
+2. MÉRITO. FRAUDE À EXECUÇÃO. TERCEIRO ADQUIRENTE DE BOA -FÉ. INEXISTÊNCIA DE REGISTRO DEPENHORA DO IMÓVEL NA ÉPOCA DA AQUISIÇÃO. BAIXA DA HIPOTECA ANTES DA FORMALIZAÇÃO DA ESCRITURA DE COMPRA E VENDA DO BEM ENTRE O TERCEIRO/AUTOR E OS EXECUTADOS. REGISTRO DA AQUISIÇÃO NA MATRÍCULADO IMÓVEL. SÚMULA 375, DO ST. I. AUSÊNCIA DE PROVA DA ALEGADA MÁ-FÉ DO ADQUIRENTE. ALIENAÇÃO EFICAZ.
+- No momento da aquisição do imóvel pelo autor não havia qualquer constrição judicial sobre o bem, e não há comprovação de que tenha agido de má-fé. Logo, deve ser mantida a sentença que declarou a nulidade da arrematação, considerando que não houve a fraude à execução, nos lermos da súmula 375, do S7".
+3. APLICAÇÃO DO PRINCÍPIO DA SUCUMBÊNCIA. PRETENSÃO RESISTIDA DOS ARREMATANTES. BOA -FÉ NA AQUISIÇÃO DO IMÓVEL QUE NÃO OS ISENTA DE ARCARCOM O PAGAMENTO DAS CUSTASEHONORÁRIOSADVOCATÍCIOS.
+- Tendo em vista que os arrematantes resistiram à pretensão inicial tal como o corréu que deu causa à ação, devem arcar de forma solidária com o ônus de sucumbência.
+4. FIXAÇÃO DOS HONORÁRIOS RECURSAIS, NOS TERMOS DO ART. 85, § 11, DO CPC.
+- Considerando o trabalho realizado nesta esfera recursal bem como o não provimento dos recursos, impõe-se a fixação de honorários advocatícios em favor do patrono do autor.
+Recursos não providos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1118/1125).
+Nas razões recursais, com fundamento na alínea "a" e "c" do permissivo constitucional, o agravante aponta violação e interpretação divergente conferida pela Corte de origem aos artigos 158 e 165 do Código Civil e ao artigo 502 do Código de Processo Civil de 2015.
+Sustenta, em síntese, que o Tribunal a quo negou vigência aos artigos de lei supracitados ao concluir pela boa-fé do terceiro adquirente, ora recorrido, ao firmar contrato de de compra e venda de bem imóvel, de propriedade de seus devedores insolventes, executados nos autos número 505/2000 (0003963-41.2000.8.16.0019), mantendo nula a arrematação do bem.
+Assevera que o acórdão recorrido teria desrespeitado a coisa julgada formada nos autos de nº 505/2000 (0003963-41.2000.8.16.0019), que, por sua vez, declarou a fraude à execução a partir da transação mencionada.
+Por fim, alega que o Tribunal a quo divergiu do entendimento do Tribunal de Justiça do Estado do Rio Grande do Sul, no t ocante à análise de validade da compra e venda firmada entre os então executados e o terceiro adquirente.
+Contrarrazões ao recurso especial às fls. 1175/1200.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição do presente agravo.
+É o relatório.
+Decido.
+Não merece guarida o nobre apelo.
+Inicialmente, acerca da tese aventada sobre a boa-fé do terceiro adquirente, ora recorrido, sobre a compra e venda do imóvel objeto da contenda, consignou o Tribunal Estadual o seguinte (e-STJ, fl.1099):
+"(..) a partir da análise das matrículas de nº 36059 - referente ao apartamento nº 78 (mov. 318.7), e nº 36060 - relativa à vaga de garagem (mov. 318.8), ambas do 1º Registro de Imóveis da Comarca de Balneário Camboriú, verifica-se que os bens foram adquiridos pelo apelado livres de quaisquer ônus.
+Observa-se que, ao contrário do alegado pelos apelantes, quando o apelado formalizou a escritura pública de compra e venda com o Sr. Neodi Herdmann e sua esposa Zoé Maria Herdmann (fl. 34 - mov. 5.11), em 14 de setembro de 2001, já havia sido baixada a hipoteca do imóvel em 13.06.2001 (AV-5).
+Já a averbação acerca da existência da ação de cobrança nº 505/2000, ajuizada pelo banco apelante em face dos promitentes vendedores, foi registrada somente em 02.05.2006, cujo mandado teria sido expedido tão somente em 24.03.2006, isto é, aproximadamente cinco anos após a aquisição do imóvel pelo autor/terceiro adquirente.
+Ou seja, não havia qualquer restrição sobre os bens quando o autor/apelado os adquiriu. Tanto é que houve o registro da compra e venda nas matrículas dos imóveis em 05.10.2001, e, ainda, a penhora em execuções fiscais, movidas contra este, nos anos de 2004/outubro, e, ainda, em 2007/março." g.n
+Por sua vez, a parte recorrente colaciona ao recurso recorte do que seria o registro da matrícula do imóvel em questão, constando averbação hipotecária (AV-3), datada de 14 de março de 1986, tendo por favorecido "Bamerindus S/A Crédito Imobiliário", seguida de seu cancelamento em 12 de junho de 2001, na defesa de que a parte recorrida teria ciência desta hipoteca quando adquiriu o bem.
+Pois bem. Conforme entendimento firmado em sede de recurso repetitivo pela Corte Especial no julgamento do REsp 956.943/PR (Tema 243), nos termos da Súmula 375/STJ, "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente", sendo que, "inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência". O julgado ostenta a seguinte ementa:
+PROCESSO CIVIL. RECURSO REPETITIVO. ART. 543-C DO CPC. FRAUDE DE EXECUÇÃO. EMBARGOS DE TERCEIRO. SÚMULA N. 375/STJ. CITAÇÃO VÁLIDA. NECESSIDADE. CIÊNCIA DE DEMANDA CAPAZ DE LEVAR O ALIENANTE À INSOLVÊNCIA. PROVA. ÔNUS DO CREDOR. REGISTRO DA PENHORA. ART. 659, § 4º, DO CPC. PRESUNÇÃO DE FRAUDE. ART. 615-A, § 3º, DO CPC.
+1. Para fins do art. 543-c do CPC, firma-se a seguinte orientação:
+1.1. É indispensável citação válida para configuração da fraude de execução, ressalvada a hipótese prevista no § 3º do art. 615-A do CPC.
+1.2. O reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula n. 375/STJ).
+1.3. A presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar a parêmia: a boa-fé se presume; a má-fé se prova.
+1.4. Inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência, sob pena de tornar-se letra morta o disposto no art. 659, § 4º, do CPC.
+1.5. Conforme previsto no § 3º do art. 615-A do CPC, presume-se em fraude de execução a alienação ou oneração de bens realizada após a averbação referida no dispositivo.
+2. Para a solução do caso concreto:
+2.1. Aplicação da tese firmada.
+2.2. Recurso especial provido para se anular o acórdão recorrido e a sentença e, consequentemente, determinar o prosseguimento do processo para a realização da instrução processual na forma requerida pelos recorrentes." (REsp 956.943/PR, Relatora Ministra Nancy Andrighi, Relator para o acórdão Ministro JOÃO OTÁVIO DE NORONHA, Corte Especial, DJe de 1º/12/2014, g.n.)
+Nos termos da referida tese, para o reconhecimento da ineficácia do ato de venda do imóvel, além da alienação após a citação do devedor em demanda capaz de levar o alienante à insolvência, é necessário investigar se o credor levou a registro a penhora do bem alienado ou, em caso negativo, se o terceiro adquirente agiu de má-fé, não sendo possível a presunção de eventual má-fé, mas a certeza de conduta nesse sentido, que deve ser comprovada pelo credor-exequente.
+No caso ora em exame, não restou demonstrada a existência de registro da penhora do bem imóvel efetivada pelo então HSBC BANK BRASIL S.A. - Banco Múltiplo, de modo que, portanto, cabia ao banco agravante a comprovação da má-fé da parte agravada, o que também não se verifica.
+O acórdão em análise enunciou que, quando a parte agravada formalizou escritura pública de compra e venda do bem, em 14 de setembro de 2001, a hipoteca indicada pelo recorrente em suas razões recursais já havia sido baixada, em 13 de junho de 2001 (AV-5), fundamento este que não restou impugnado pela parte recorrente.
+De igual modo, sobre eventual ciência sobre a demanda executória pelo recorrido, a anotação da existência do feito na matrícula do imóvel, consoante pontuado pelo decisum, ocorrera, aproximadamente, cinco anos após a aquisição do imóvel pelo terceiro adquirente/recorrido, argumento igualmente inatacado pela parte recorrente.
+Por fim, no que concerne à citação válida do terceiro adquirente nos autos da execução, o que lhe conferiria ciência sobre a litigiosidade do bem objeto da avença, decidiu o acórdão perseguido, após detida análise do arcabouço fático-probatório presente nos autos originários, por sua inexistência, in verbis:
+"(..) ao contrário do alegado pelos apelantes, não houve esgotamento das possibilidades de intimação pessoal do apelado naqueles autos para que seja considerada válida por meio de edital, posto que foram realizadas apenas duas tentativas em diferentes endereços por meio de Aviso de Recebimento, as quais restaram infrutíferas (lis."67/68 - mov. 5.18), uma por motivo de ausência, enviada para o endereço declarado como sendo de residência pelo autor (mov. 5.6), e a outra por não residir mais no local em Balneário Camboriú." (e-STJ, fl. 1097)
+Desta forma, inviável que se altere, nesta via especial, o entendimento exarado pelo Tribunal a quo neste ponto, sob pena de violação do comando contido na Súmula 7 desta Corte que leciona que " A pretensão de simples reexame de prova não enseja recurso especial".
+Em face do exposto, acertada a decisão do Tribunal Estadual, que, ante à ausência de registro de penhora ou comprovação de má-fé do terceiro adquirente/recorrido, concluiu pela presunção de sua boa-fé, pois é neste mesmo sentido a jurisprudência desta Corte, incidindo neste ponto o enunciado constante da Súmula 83/STJ.
+Por derradeiro, quanto à alegação de violação à coisa julgada, tem-se que, ante à conclusão, do Tribunal a quo, sobre a ausência de citação válida do terceiro adquirente/recorrido, além da configuração de sua condição como adquirente de boa-fé, pela ausência de registro da penhora, e portanto, ausência de configuração de litigiosidade sobre o bem, não há que se falar em extensão dos efeitos da coisa julgada ao adquirente. Nesta linha de intelecção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. TERCEIRO ADQUIRENTE. BOA-FÉ. EFICÁCIA SUBJETIVA DA COISA JULGADA. BEM OU DIREITO LITIGIOSO. MARCO INICIAL. LITISPENDÊNCIA. PROPOSITURA DA AÇÃO. CITAÇÃO VÁLIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na origem, cuida-se de embargos de terceiro opostos por adquirente de bem imóvel que busca a proteção possessória, tendo em vista ordem de reintegração emanada do cumprimento de sentença oriunda de ação da qual não fez parte.
+3. A regra geral do artigo 472 do Código de Processo Civil de 1973 dispõe que a coisa julgada só opera efeito entre as partes integrantes da lide.
+4. O artigo 109, § 3º, do Código de Processo Civil de 2015 (art. 42, § 3º, do CPC/1973), por exceção, dispõe que, em se tratando de aquisição de coisa ou direito litigioso, a sentença proferida entre as partes originárias estende os seus efeitos ao adquirente ou ao cessionário.
+5. Segundo a doutrina especializada, o bem ou direito se torna litigioso com a litispendência, ou seja, com a lide pendente.
+6. A lide é considerada pendente, para o autor, com a propositura da ação e, para o réu, com a citação válida.
+7. Para o adquirente, o momento em que o bem ou direito é considerado litigioso varia de acordo com a posição ocupada pela parte na relação jurídica processual que sucederia.
+8. Não há falar em extensão dos efeitos da coisa julgada ao adquirente se o bem é adquirido por terceiro de boa-fé antes de configurada a litigiosidade.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.293.353/DF, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 3/12/2018, DJe de 6/12/2018.)
+Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao presente recurso.
+Publique-se.
+EMENTA
