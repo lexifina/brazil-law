@@ -1,0 +1,8 @@
+DECISÃO
+ANDERSON SEGUNDO DOS SANTOS, condenado por roubo circunstanciado, alega ser vítima de constrangimento ilegal em decorrência de acordão proferido em apelação pelo Tribunal de Justiça do Estado de Santa Catarina, que manteve o édito condenatório, qual pretende a defesa ver desconstituído nesta oportunidade.
+Entretanto, como ressaltou o Ministério Público Federal, em sua manifestação de fls. 464-467, malgrado a defesa haja apontado como coator o Tribunal de origem, que teria negado provimento ao recurso de apelação, não se desincumbiu de juntar cópia do acórdão impugnado.
+Saliento que, conquanto o habeas corpus seja uma ação mandamental caracterizada pela ausência de maiores formalidades (a par dos requisitos mínimos exigidos pelo art. 654, § 1º, do Código de Processo Penal), sua utilização deve ser acompanhada de todos os documentos essenciais para o deslinde da controvérsia suscitada pelo impetrante - notadamente quando se tratar de peça processual produzida por advogado -, sob pena de indeferimento do writ.
+Nesse sentido, "a jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus a fim de que seja possível identificar o alegado constrangimento ilegal" (AgRg no HC n. 439.162/SP, Rel. Ministro Felix Fischer, DJe 24/5/2018).
+Logo, levando-se em consideração que "não consta cópia do acórdão impugnado, peça imprescindível à análise do apontado constrangimento ilegal" (AgInt no HC n. 410.622/SP, Rel. Ministro Sebastião Reis Júnior, DJe 13/9/2017, grifei), com fundamento no art. 34, XX, do RISTJ, não conheço deste habeas corpus.
+Publique-se e intimem-se.
+EMENTA
