@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de PEDRO NOBREGA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA no julgamento do HC n. 9003283-90.2022.8.23.0000.
+Extrai-se dos autos que, em 28/6/2022, o paciente foi denunciado pela suposta prática do delito previsto no art. 157, §3º, II, na forma do art. 61, II, c e h, ambos do Código Penal (latrocínio qualificado), o qual teria ocorrido em 20/7/2015.
+Após o recebimento da denúncia, ocorrido em 11/7/2022, o agente não foi encontrado para citação, tendo o Magistrado singular, em 7/12/2022, decretado a prisão preventiva do réu.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - PACIENTE PRESO PREVENTIVAMENTE E DENUNCIADO PELO DELITO DO ART. 157, §3.º, II, NA FORMA DO ART. 61, II, "C" (ÚLTIMA PARTE) E "H" (SEGUNDA PARTE), AMBOS DO CP -LATROCÍNIO COMETIDO EM 20-7-2015 EM VICINAL DO MUNICÍPIO DO CANTÁ/RR -ALEGAÇÕES DE: AUSÊNCIA DE CONTEMPORANEIDADE DO DECRETO DE PRISÃO OU SUA MANUTENÇÃO COM OS FATOS OCORRIDOS EM 2015, NÃO EVASÃO DO DISTRITO DA CULPA, DESCONHECIMENTO DA EXISTÊNCIA DA AÇÃO PENAL OU DO INQUÉRITO POLICIAL INSTAURADO EM SEU DESFAVOR, CONDIÇÕES PESSOAIS FAVORÁVEIS, NÃO JUSTIFICATIVA PARA AUTORIZAR A CONSTRIÇÃO CAUTELAR FUNDADA NA GARANTIA DA ORDEM PÚBLICA OU DA ORDEM ECONÔMICA, BEM COMO DA CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL OU PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL - INOCORRÊNCIA -ORA PACIENTE NÃO LOCALIZADO, PARENTES INFORMARAM QUE ELE MUDOU -TENTATIVAS DE LOCALIZAÇÃO EM ALAGOAS E AMAZONAS -PRISÃO CAUTELAR DEVIDAMENTE MOTIVADA PELA EVASÃO DO DISTRITO DA CULPA -CUMPRIMENTO DE MANDADO DE PRISÃO NO MUNICÍPIO DE ITACOATIARA/AM -NECESSIDADE DE MANUTENÇÃO DA MEDIDA CONSTRITIVA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL, EM FACE DO RISCO CONCRETO DE O PACIENTE NÃO MAIS SER ENCONTRADO, UMA VEZ QUE ESTEVE EM LOCAL INCERTO E NÃO SABIDO POR MAIS DE SETE ANOS, DESDE O DIA DOF ATO, PASSANDO POR DOIS ESTADOS DA FEDERAÇÃO - ALEGAÇÃO DE NÃO AUTORIA É ATINENTE AO MÉRITO E DEVE SER APRECIADA NO DECORRER DA INSTRUÇÃO - WRIT CONHECIDO E ORDEM DENEGADA EM DEFINITIVO EM CONSONÂNCIA COM O PARQUET GRADUADO." (fls. 37/38).
+No presente writ, o impetrante sustenta que os demais corréus respondem o processo em liberdade e destaca que a prisão preventiva do paciente foi decretada apenas em razão de não ter sido encontrado para citação após apenas duas tentativas frustradas da sua localização, sem a realização de outras diligências de busca do seu endereço.
+Afirma que o paciente não esteve foragido, destacando que sequer tinha conhecimento da ação penal em seu desfavor. Pondera não ter sido indiciado, nem tampouco notificado sobre a necessidade de manter endereço atualizado quando compareceu para prestar depoimento perante a Autoridade Policial, em 6/8/2015.
+Assevera que, "conforme certidão de quitação eleitoral, o Réu tem domicilio eleitoral certo, sendo que, quando mudou-se de cidade/estado, realizou a devida transferência do título eleitoral e votou na comarca onde reside atualmente nas eleições de 2022" (fl. 15). Destaca não ter havido dificuldade no cumprimento do mandado de prisão, ocorrido apenas um dia após a expedição do mandado.
+Alega, assim, não haver evidência de que o paciente pretende fugir, não estando demonstrado risco à aplicação da lei penal.
+Alega, também, a ausência de fundamentação concreta e contemporânea que justifique a prisão preventiva do paciente, decretada após 7 anos dos fatos e baseada apenas em elementos genéricos relativos à gravidade abstrata do delito, em ofensa ao art. 315 do Código de Processo Penal - CPP.
+Aduz não estarem presentes os requisitos autorizadores da custódia antecipada, previstos no art. 312 do CPP, especialmente considerando que os demais corréus permanecem em liberdade.
+Aponta a ausência de contemporaneidade da prisão preventiva, decretada após 7 anos dos fatos, sem a indicação de elementos atuais que a justifiquem.
+Informa que o paciente é primário e possui condições pessoais favoráveis, assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Aduz que o paciente é pai e único responsável pelo filho que, embora seja maior, conta com necessidades especiais. Indica, ainda que o paciente é o responsável financeiro pela sua família.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente, com expedição de alvará de soltura em seu favor.
+Medida liminar indeferida conforme decisão de fls. 997/1000.
+Informações prestadas às fls. 1006/2848 e 2867/2880.
+Parecer ministerial de fls. 2861/2864 pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+O feito está prejudicado.
+Conforme pesquisa realizada no site do Tribunal de Justiça do Estado de Roraima nos autos da ação penal originária n. 0013594-16.2015.8.23.0010, em decisão de 09/10/2023, foi revogada a prisão preventiva decretada, tendo sido determinada a expedição de alvará de soltura clausulado em favor do ora paciente. Acresça-se que conforme andamento da data acima mencionada a ação penal foi julgada i mprocedente.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimações necessárias.
+EMENTA
