@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA TRABALHISTA. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. RESPONSABILIDADE DO PATROCINADOR E DO BENEFICIÁRIO. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, reconhecida a ilicitude do patrocinador pelas diferenças no cálculo do benefício previdenciário, a recomposição da reserva matemática é de responsabilidade de ambas as partes.
+2. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PEDRO ROBSON PEREIRA NEIVA contra decisão monocrática proferida por esta relatoria (e-STJ, fls. 1.411-1.414), assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA TRABALHISTA. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. RESPONSABILIDADE DO PATROCINADOR E DO BENEFICIÁRIO. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DE PEDRO ROBSON PEREIRA NEIVA.
+Nas razões recursais, o agravante sustenta que o precedente mencionado na decisão agravada - REsp 1.832.659/SC - não pode ser utilizado como fundamento para afastar a aplicação da tese defendida no recurso excepcional, uma vez que não faz referência à responsabilidade igualitária entre o patrocinador e o beneficiário, para recompor a reserva matemática. Destaca que a jurisprudência do Superior Tribunal de Justiça não está consolidada quanto a esse tema.
+Assevera que a orientação jurisprudencial do Superior Tribunal de Justiça "estabilizou-se no sentido de que o patrocinador seria parte legitima para figurar no polo passivo de demanda em que se pretende a sua condenação à recompor a reserva matemática, em pedido sucessivo ao pleito de revisão do benefício complementar formulado contra a entidade de previdência" (e-STJ, fl. 1.438).
+Afirma que a Justiça comum é competente para apreciar a ação; e o banco, na qualidade de patrocinador, é o único responsável pela recomposição da reserva matemática.
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 1.446-1.458 (e-STJ), pleiteando a recorrida CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI a aplicação de multa prevista no art. 1.021, § 4º, do CPC/2015.
+O recorrido BANCO DO BRASIL S.A. apresentou impugnação às fls. 1.483-1.496 (e-STJ), também postulando a aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA TRABALHISTA. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. RESPONSABILIDADE DO PATROCINADOR E DO BENEFICIÁRIO. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, reconhecida a ilicitude do patrocinador pelas diferenças no cálculo do benefício previdenciário, a recomposição da reserva matemática é de responsabilidade de ambas as partes.
+2. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, é preciso frisar que, de acordo com os Enunciados Administrativos n. 2 e 3/STJ, os requisitos de admissibilidade a serem observados pelos recursos interpostos neste Tribunal Superior são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+No caso em exame, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, uma vez que, à época da publicação da decisão que culminou na interposição do recurso especial, já estava em vigência o novo regramento processual.
+Consta dos autos que o recorrente interpôs recurso especial (e-STJ, fls. 1.171-1.179), com fulcro na alínea a do permissivo constitucional, apontando violação aos arts. 1º, 2º, 9º, 18, 19, 21, 32 e 68 da LC 109/2001; 3º e 6º da LC 108/2001; 927 do CPC/2015; e 186 e 927 do CC/2002.
+O Tribunal de Justiça do Distrito Federal e dos Territórios inadmitiu a insurgência (e-STJ, fls. 1.347-1.348), situação que ensejou a interposição do agravo (e-STJ, fls. 1.350-1.357), do qual, em decisão monocrática, esta relatoria conheceu para negar provimento ao recurso especial (e-STJ, fls. 1.411-1.414).
+Irresignado, o agravante interpõe o presente agravo interno (e-STJ, fls. 1.433-1.441).
+Todavia, o inconformismo não merece prosperar.
+No recurso especial, o insurgente sustentou o afastamento de sua responsabilidade pela recomposição da reserva matemática para fins de possibilitar a revisão de seu benefício. Destacou que esse ônus pertence apenas ao patrocinador, qual seja, o recorrido BANCO DO BRASIL S.A.
+A respeito do tema, o Tribunal originário entendeu que o ônus pela formação da fonte de custeio deve ser atribuído tanto ao beneficiário quanto ao patrocinador, visto que este praticou ilicitude apta a causar as diferenças nos valores do benefício previdenciário recebido pelo agravante.
+Com efeito, conforme exposto na decisão agravada, o posicionamento adotado pelo TJDFT está em harmonia com a jurisprudência do Superior Tribunal de Justiça, a qual - no REsp 1.832.659/SC - prevê, de forma explícita, que a responsabilidade pela recomposição da reserva matemática deve ser atribuída a ambas as partes.
+De fato, essa é a orientação jurisprudencial que vigora nesta Corte Superior, conforme se verifica no precedente abaixo reproduzido (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE BENEFÍCIOS DE PREVIDÊNCIA COMPLEMENTAR. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA TRABALHISTA. LEGITIMIDADE DA PATROCINADORA. INCOMPETÊNCIA DA JUSTIÇA COMUM. EXTINÇÃO DA AÇÃO EM FACE DO PATROCINADOR.
+1. A questão da legitimidade do Banco do Brasil é de vulto e tem efetivamente oscilado entre os julgadores de ambas as Turmas que compõem a 2ª Seção, ora identificando-se a legitimidade do Banco, ora afastando-se esta legitimidade nas ações em que se postula o pagamento de reflexos previdenciários decorrentes de decisão transitada em julgado na Justiça do Trabalho a alcançar horas extras inadimplidas ao trabalhador/participante.
+2. A verificação da legitimidade do patrocinador depende, como já fora reconhecido por esta Terceira Turma em processos idênticos ao presente, da consideração dos pedidos efetivamente formulados e da causa de pedir a coadjuvá-los.
+3. Em tendo o autor incluído dentre as suas pretensões a condenação do Banco Brasil S.A. a integralizar a reserva matemática, recolhendo as contribuições incidentes sobre as diferenças de benefícios devidas ao autor, ou a indenizar os danos materiais relativos ao decesso dos seus benefícios previdenciários, assim como, tendo feito integrar a causa de pedir alegado ilícito perpetrado pelo patrocinador a gerar as diferenças agora postuladas em relação ao benefício previdenciário, é patente a legitimidade passiva do patrocinador, pelo que a decisão agravada evidencia-se equivocada.
+4. Apesar da legitimidade do Banco do Brasil, a extinção da ação no que lhe respeita deve ser mantida em face da incompetência da Justiça Estadual. É que, recentemente, houve o julgamento do RE nº 1.265.564/SC, sob a relatoria do e. Min. Luiz Fux, ao qual se imprimiu o rito da repercussão geral, recurso extraordinário que cuidou de reconhecer a incompetência da Justiça Comum e competência da Justiça do Trabalho para a análise da pretensão de condenação do patrocinador ao pagamento das contribuições previdenciárias correspondentes às diferenças salariais reconhecidas na Justiça laboral.
+5. Fixou-se, assim, a tese de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada.", orientação que acaba por consonar com o entendimento deste Superior Tribunal de Justiça, esboçado no REsp repetitivo nº 1.312.736/RS no sentido da competência da Justiça do Trabalho para o exame dos "eventuais prejuízos causados ao participante ou ao assistido que não puderam contribuir ao fundo na época apropriada ante o ato ilícito do empregador".
+6. AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 1.968.947/SE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+No tocante à incidência da multa disciplinada pelo art. 1.021, § 4º, do CPC/2015, esta Corte Superior tem entendido que o não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa, sendo imprescindível para tal que seja nítido o descabimento do recurso.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. INADIMPLEMENTO. PROMISSÁRIO COMPRADOR. EXECUÇÃO. DIREITOS SOBRE O IMÓVEL. PENHORA. POSSIBILIDADE. MULTA. ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese dos autos, mostra-se possível a penhora de direitos do executado sobre o imóvel diante da não apresentação de outros bens passíveis de garantir a execução. Ademais, a ocupação do imóvel por diversos anos sem pagamento do preço caracteriza o enriquecimento sem causa do comprador.
+3. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo indispensável o nítido não cabimento do recurso.
+4. Agravo interno não provido.
+(AgInt no REsp 1698668/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/02/2021, DJe 12/02/2021)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
