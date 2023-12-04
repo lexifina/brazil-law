@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por JJ São Bento Empreendimentos Imobiliários Ltda, com fundamento na alínea "a" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, ,assim ementado:
+RESCISÃO DECOMPROMISSODEVENDAE COMPRA DE IMÓVEL C. C. REINTEGRAÇÃO DEPOSSE Rescisão por inadimplência da compradoraSentença de procedência que declarou a rescisão do ajuste edeterminou a devolução dos valores pagos, com retenção dosinal e de 20% sobre as prestações pagas, e incidência de juros de mora a contar do trânsito em julgado, descontadataxa de fruição equivalente a 0,5% do valor do imóvel pormês. RECURSO DA AUTORA Pretensão de nulidade da sentença por omissão e contradição InadmissibilidadeInsatisfação da autora com o que decidido não macula a sentença com tais vícios Pretensão de majoração da taxade fruição Descabimento, pois sequer deveria havercondenação ao pagamento dessa taxa porque se trata de terreno (lote) adquirido originalmente sem edificação, quepossibilitasse efetivo uso e fruição pelo compradorHipótese, contudo, em que não houve recurso da interessadaquanto a esse tópico Cláusula penal manifestamenteexcessiva, considerando o período de vigência do contrato e a quantidade das parcelas pagas (quatro), comportando suaredução à perda do sinal, como estabelecido na sentençaLEI DOS DISTRATOS Inaplicabilidade a contratoscelebrados em data anterior a sua vigência. SUCUMBÊNCIA Honorários majorados para 20% do valor da condenação. RECURSO DA AUTORA PROVIDO EM PARTE.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação aos artigos: (i) 11, 489 e 1.022 do Código de Processo Civil ante a negativa de prestação jurisdicional; (ii) 416 do Código Civil e 32-A, inciso I, da Lei 6.766/79 quanto aos valores a serem devolvidos; (iii) 884 do Código Civil quanto ao termo inicial da taxa de fruição; (iv) 405, do Código Civil e 1º, §1º, da Lei nº 6.899/81 quanto à incidência e termo inicial da correção monetária.
+Após decisão de admissão do recurso especial, ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação merece prosperar no que diz respeito à aventada negativa de prestação jurisdicional.
+1. Com efeito, sustenta a ora recorrente existência de omissão no acórdão recorrido haja vista que, nos embargos de declaração, suscitou pronunciamento do Tribunal local sobre o termo inicial da taxa de fruição, deixando esse de se manifestar.
+De fato, tal manifestação requerida nos aclaratórios não foi analisada pelo Tribunal de piso, o qual se limitou a dizer que a questão restou devidamente analisada.
+Nesse contexto, esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1022 do Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Em se tratando de ofensa ao art. 1.022 do CPC/2015 e existindo a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia impõe-se o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Na hipótese, verifica-se a ocorrência de omissão do julgado, pois, a despeito da oposição de embargos de declaração apontando a necessidade de pronunciamento sobre a existência de coisa julgada, preclusão, erro de cálculo e de que a execução não poderia ser extinta o Tribunal de origem não se manifestou de forma satisfatória sobre o alegado.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.536.407/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Dessa forma, considerando que o referido esclarecimento foi pedido ao Tribunal a quo, sem que houvesse, contudo, quando do julgamento dos embargos declaratórios, o devido pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, dou ao recurso especial para anular o acórdão que julgou os embargos de declaração (fls. 369/372, e-STJ) e determinar a devolução dos autos à Corte local a fim de que profira novo julgamento, com enfrentamento do ponto tido por omisso.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, dou parcial provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração (fls. 369/372 , e-STJ) e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento do ponto tido por omisso.
+Publique-se.
+Intimem-se.
+EMENTA
