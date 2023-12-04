@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 546/555) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO. DECADÊNCIA. NULIDADE DA AUTUAÇÃO. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. AGRAVO INTERNO NÃO PROVIDO.1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art.1.022 do CPC/2015.2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).3. Agravo interno não provido.
+O embargante sustenta que o v. acórdão embargado padece de omissão, na medida em que deixou de analisar questões relevantes que desde a origem vêm sendo suscitadas acerca da entrega da DCTF e da aplicação de precedente do Superior Tribunal de Justiça ao caso.
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Consta do v. acórdão embargado o seguinte:
+Cinge-se a controvérsia, na origem, de ação ordinária proposta com o fim de obter a declaração do direito à repetição do indébito tributário relativo a parcelas eventualmente fulminadas pela decadência. A sentença julgou improcedente o pedido de repetição ante as argumentações genéricas e sem guarida na legislação de regência. O Tribunal de origem negou provimento ao apelo, ponderando não existir qualquer nulidade no procedimento fiscal ou mesmo no auto de infração, bem como que em razão da data de lavratura do mencionado auto de infração, o Fisco procedeu com a constituição do crédito tributário dentro do prazo decadencial  ..  Desse modo, em que pese a fundamentação apresentada em agravo interno, observa-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta. Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Assim, não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015. Por outro lado, a análise sobre eventual reconhecimento acerca do escoamento do prazo decadencial ou mesmo de nulidade da atuação promovida pela Administração, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ. Na forma da jurisprudência, "o cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 682.099/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/10/2016). Em igual sentido: STJ, AgInt no AREsp 1.160.527/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/03/2018; AgInt no REsp 1.506.498/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/08/2018.
+Observa-se, que a questão foi apreciada de forma clara, adequada e suficiente acerca da ausência de negativa de prestação jurisdicional e da necessidade de reexame da matéria fática, inclusive com o cotejamento de peças processuais, (Súmulas 7 do STJ) e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
