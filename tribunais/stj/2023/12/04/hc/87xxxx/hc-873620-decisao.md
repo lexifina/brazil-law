@@ -1,0 +1,16 @@
+DECISÃO
+DANILO FERREIRA ALBUQUERQUE alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0634747-79.2023.8.06.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que " foi  decretada a prisão preventiva do paciente no processo n. 0262442-07.2022.8.06.0001, em 07/11/2022, sendo efetivamente cumprido em 19/01/2023. O paciente foi denunciado pelos delitos tipificados no art. 2º, § 2º da Lei nº 12.850/13 e art. 33 da Lei nº 11.343/06, nos termos da denúncia ofertada pelo Ministério Público em 29 de março de 2023, juntamente com outros 10 (dez) acusados" (fl. 128).
+Asseriu a defesa, perante a Corte de origem, que "o paciente foi preso preventivamente em 20/3/2023 pela prática dos crimes de tráfico de droga e organização criminosa. Alega ausência de fundamentação idônea no decreto preventivo" (fl. 151).
+Ao impor a prisão preventiva, salientou o Juízo de primeiro grau que o paciente "registra reprováveis antecedentes criminais, uma vez que possui uma condenação transitada em julgado por roubo, demonstrando, desta feita propensão à prática delituosa e desinteresse na sua ressocialização, estando presentes os motivos ensejadores da custódia preventiva, previstos no art. 312, do Código de Processo Penal" (fl. 116, grifei).
+A esse respeito, urge consignar também que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+Confiram-se:
+ ..
+2. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade do recorrente, na medida em que responde a diversos outros processos criminais, já tendo sido, inclusive, condenado por tráfico de drogas. Tal circunstância, somada à quantidade, natureza e diversidade das drogas apreendidas, demonstra a propensão ao crime e o risco ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública  ..  (RHC n. 129.203/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/8/2020, grifei).
+ ..
+2. In casu, não obstante a pequena quantidade de droga apreendida, entendo que há motivação idônea para manutenção da constrição cautelar em razão de ser o recorrente reincidente específico que, no mesmo dia em que participou de audiência admonitória relativa à condenação anterior, foi preso em flagrante pela suposta prática de tráfico de drogas, evidenciando, assim, a sua periculosidade social, com concreto risco de reiteração delitiva.
+3. Demonstrada a necessidade da segregação antecipada, descabem as medidas cautelares diversas da prisão previstas no art. 319 e seguintes do Código de Processo Penal.
+4. Recurso em habeas corpus improvido. (RHC n. 109.030/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 18/6/2019, sublinhei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
