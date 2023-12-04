@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD - contra a decisão de fls. 507/508, proferida em agravo interno e mediante a qual reconsiderei a decisão de fls. 475/478 a fim de determinar a conversão dos autos em recurso especial.
+O embargante afirma haver erro material. Indica ter constado da decisão ora embargada que a decisão então agravada havia negado provimento ao agravo em recurso especial interposto por SANTOS & STEIMER LTDA. ME, quando, em verdade, referida decisão dava provimento ao recurso especial do ECAD.
+Sustenta que o erro material deve ser corrigido e, por consequência, anulada a decisão embargada.
+Não foi apresentada impugnação aos embargos.
+Conforme apontado pelo embargante, há erro material na decisão agravada. De fato, à fl. 507, lê-se do relatório o seguinte:
+Trata-se de agravo interno interposto por SANTOS E STEIMER LTDA - ME - contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+A decisão objeto do agravo interno, todavia, não era de negativa de provimento do agravo em recurso especial da ora embargada, mas de provimento do recurso especial do embargante, conforme se lê à fl. 478:
+(..) conheço do agravo para dar provimento ao recurso especial.
+O recurso especial foi interposto pelo ECAD, que sustentava ser cabível a cobrança de valores relativos a direitos autorais sobre músicas executadas em lugares de frequentação coletiva, como academias de ginástica. Não admitido o recurso pelo Tribunal de origem, foi interposto agravo em recurso especial, do qual conheci para dar provimento ao recurso com fundamento na jurisprudência segundo a qual não se confundem o fato gerador da transmissão de obras musicais em espaços de frequentação coletiva e o fato gerador da obrigação da empresa prestadora do serviço de radiodifusão sonora (ou televisiva), pois são fatos autônomos e fazem surgir distintas obrigações ligadas ao pagamento dos direitos autorais.
+Não é correto, portanto, afirmar que o agravo interno foi interposto contra decisão que negou provimento ao agravo em recurso especial da embargada. Desse modo, corrige-se o erro material para que, onde está escrito "mediante a qual neguei provimento a seu agravo em recurso especial", leia-se "mediante a qual dei provimento ao recurso especial de ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD."
+A correção do erro, todavia, não implica alteração no que decidido na decisão embargada.
+Com efeito, em seu agravo interno a parte ora embargada procurou demonstrar que, na hipótese concreta, a execução de músicas deu-se no contexto de atividade educativa, pedagógica, o que não enseja a cobrança de valores relativos a direitos autorais. O fundamento é o de que a instituição que ensina dança não pode ser equiparada a academia de ginástica em que há sonorização ambiental. A tese é plausível e parece não se enquadrar nos casos tratados nos julgados citados na decisão então agravada, os quais se referem a academias de ginástica, porém não consideram os casos de escola de dança, em que a música é executada com fins pedagógicos.
+Assim é que foi reconsiderada a decisão que deu provimento ao recurso do ECAD, com base em fundamentos que não ficam afastados com a mera correção do erro material ora promovida.
+Em face do exposto, acolho os embargos de declaração para corrigir o erro material constante da decisão embargada, nos termos supra, sem efeitos infringentes.
+Intimem-se.
+EMENTA
