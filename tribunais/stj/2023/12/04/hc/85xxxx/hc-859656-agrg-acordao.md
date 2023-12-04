@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os temas trazidos neste recurso não foram previamente examinados pelo Tribunal de origem. Desse modo, uma vez que as instâncias antecedentes não apresentaram a moldura fática do caso, não é possível a apreciação dos temas aqui abordados pelo Superior Tribunal de Justiça, sobretudo pela via mandamental, tendo em vista a impossibilidade de dilação probatória.
+2. Agravo regimental não provido.
+RELATÓRIO
+KELVI GREGÓRIO interpôs agravo regimental, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, que negou provimento ao habeas corpus substitutivo de recurso especial impetrado em razão de acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, no julgamento da Apelação Criminal n. 080027-09.2022.8.15.0221.
+Em suas razões, a defesa insiste na tese de nulidade absoluta do processo, asseverando, ainda, que a supressão de instância pode ser relativizada em situações excepcionais, quando houver ilegalidade evidente.
+Diante do exposto, requer a reforma da decisão ou, subsidiariamente, a apresentação do feito ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os temas trazidos neste recurso não foram previamente examinados pelo Tribunal de origem. Desse modo, uma vez que as instâncias antecedentes não apresentaram a moldura fática do caso, não é possível a apreciação dos temas aqui abordados pelo Superior Tribunal de Justiça, sobretudo pela via mandamental, tendo em vista a impossibilidade de dilação probatória.
+2. Agravo regimental não provido.
+VOTO
+Embora atenda aos requisitos formais, este agravo regimental não merece prosperar, devendo ser mantida a decisão monocrática impugnada.
+Isto porque os temas abordados pela defesa neste writ não foram objeto de apreciação por parte da Corte local, tornando inviável sua apreciação pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+Portanto, uma vez que as instâncias antecedentes não apresentaram a moldura fática do caso, não é possível a apreciação dos temas pelo Superior Tribunal de Justiça, sobretudo pela via mandamental, que não comporta dilação probatória.
+Assim, a ausência de prévia manifestação das instâncias ordinárias sobre os temas aqui discutidos inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional desta Corte
+Ao ensejo, confiram-se os seguintes precedentes, mutatis mutandis:
+- AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO TENTADO, ROUBO CIRCUNSTANCIADO E ASSOCIAÇÃO CRIMINOSA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. NULIDADES DECORRENTES DA UTILIZAÇÃO DE CONVERSAS OBTIDAS SEM AUTORIZAÇÃO JUDICIAL E POR INOBSERVÂNCIA DOS REQUISITOS DO ART. 226 DO CPP. SUPRESSÃO DE INSTÂNCIA. CERCEAMENTO DE DEFESA. DESCONSIDERAÇÃO DAS RAZÕES DA APELAÇÃO APRESENTADAS PELO ANTIGO ADVOGADO. INOCORRÊNCIA. PRECLUSÃO CONSUMATIVA. PRAZO RECURSAL EXAURIDO QUANDO DA NOMEAÇÃO DO NOVO DEFENSOR. FLAGRANTE FORJADO. INOCORRÊNCIA. CONCLUSÃO DIVERSA QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida em obediência ao art. 932 do Código de Processo Civil - CPC e art. 3º do Código de Processo Penal - CPP, por se tratar de pedido em confronto com a jurisprudência do Superior Tribunal de Justiça - STJ.
+2. As teses de nulidade decorrente da utilização de conversas obtidas sem autorização judicial e por inobservância dos requisitos do art. 226 do Código de Processo Penal - CPP, não foram apreciadas pelo acórdão impugnado, sendo que este Tribunal Superior encontra-se impedido de se pronunciar a respeito, sob pena de indevida supressão de instância.
+3. Conforme jurisprudência desta Corte, não se proclama uma nulidade sem que se tenha verificado prejuízo concreto à parte, sob pena de a forma superar a essência. Vigora, portanto, o princípio "pas de nulitté sans grief", a teor do que dispõe o art. 563 do Código de Processo Penal.
+3.1 Não há que se falar em cerceamento de defesa porque o Juízo de primeiro Grau indeferiu o pedido para que fossem desconsideradas as razões de apelação do antigo advogado, uma vez que o acusado encontrava-se regularmente assistido quando apresentadas as razões de recurso.
+3.2 A mera discordância do novo causídico com as teses apresentadas no recurso pelo defensor anterior não autoriza a reabertura do prazo para apresentação de nova apelação. No caso, além da ocorrência da preclusão consumativa pela apresentação do primeiro recurso, também já se encontrava exaurido o prazo recursal quando da nomeação do novo defensor, razão pela qual não há que se falar em nulidade, tendo em vista que o novo causídico ingressa no processo na fase em que ele se encontra.
+4. O Tribunal de origem afastou a tese de nulidade do feito decorrente de convalidação de flagrante forjado, consignando que não há qualquer elemento a indicar que o flagrante foi forjado. Para afastar a conclusão das instâncias ordinárias, seria necessário amplo revolvimento fático-probatório, providência inviável na estreita via do habeas corpus.
+5. Agravo regimental desprovido. (AgRg no HC n. 675.973/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. OPERAÇÃO "FRATURA EXPOSTA" . ACORDO DE COLABORAÇÃO PREMIADA. NULIDADES. OMISSÕES DO COLABORADOR E VÍCIO DE CONSENTIMENTO DO MINISTÉRIO PÚBLICO. QUESTÕES NÃO CONHECIDAS PELO TRIBUNAL DE ORIGEM. PROCEDIMENTO EM CURSO PERANTE O JUÍZO DE 1º GRAU E NECESSIDADE DE PRODUÇÃO PROBATÓRIA. ANÁLISE PREMATURA POR ESTA CORTE SUPERIOR. IMPOSSIBILIDADE. SUPRESSÃO DA INSTÂNCIA. ILEGALIDADE. AUSÊNCIA.
+1. O Tribunal de origem não chegou a conhecer das questões suscitadas pela defesa, referentes às nulidades ocorridas no acordo de colaboração premiada, considerando, para tanto, a necessidade de se aguardar a manifestação do Juízo de 1º Grau sobre o pedido de rescisão formulado pelo MP, pendente de homologação na origem, bem como, quanto à suposta coação a membros do MPF, que não houve prova preconstituída do alegado, não sendo possível a produção probatória em sede de habeas corpus.
+2. Se já existe um procedimento instaurado pelo MPF para a rescisão do acordo de colaboração premiada realizado nos autos, dependendo apenas de homologação judicial, é prematura a apreciação dos pedidos referentes à sua anulação por esta Corte Superior, o mesmo ocorrendo com o pedido de suspensão das ações penais, não devendo essas questões ser apreciadas diretamente por esta Corte, para não se incorrer em indevida supressão de instância.
+3. Não se vislumbra manifesta ilegalidade no acórdão impugnado, que se encontra devidamente fundamentado - e que já acolheu os embargos de declaração opostos pela defesa para determinar "ao Juízo de Primeiro Grau que disponibilize aos pacientes a íntegra do acordo de colaboração premiada celebrado".
+4. Agravo regimental improvido. (AgRg no HC n. 752.052/RJ, Rel. Ministro OLINDO MENEZES  Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+Não se pode descurar, por fim, que admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir.
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou na legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Assim, diante das razoes apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
