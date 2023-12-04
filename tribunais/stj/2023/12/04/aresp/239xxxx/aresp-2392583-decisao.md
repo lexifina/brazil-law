@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por UNIMED GOIANIA COOPERATIVA DE TRABALHO MEDICO, contra v. acórdão do eg. Tribunal de Justiça do Estado do Goiás, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RESCISÃO UNILATERAL. NOTIFICAÇÃO EXTRAJUDICIAL NÃO ENTREGUE NO ENDEREÇO. EDITAL. ESGOTAMENTO DE OUTROS MEIOS NÃO COMPROVADO. INEFICIÊNCIA. ILEGITIMIDADE DO ATO. DANOS MORAIS CARACTERIZADOS. INDENIZAÇÃO DEVIDA.
+I - Para a rescisão unilateral do contrato de plano de saúde impõe-se a prévia notificação do consumidor, mediante sua inequívoca ciência do débito, da oportunidade para a quitação e da rescisão no caso de não pagamento (Art. 13, inciso II, da Lei nº 9.656/98).
+II - A notificação sequer entregue no endereço destinatário não cumpre a sua finalidade e, por isso, à míngua de prova de exaurimento dos meios disponíveis para a cientificação do consumidor, resta ilegítima a notificação ficta, por meio de edital.
+III - Constatada a ilegitimidade da rescisão unilateral do contrato de plano de saúde, culminando na negativa de cobertura de consultas e do tratamento da saúde do menor portador de cardiopatia grave e, à época, com pouco mais de 1 (um) ano de idade, é circunstância que extrapola o mero dissabor e possui aptidão para ocasionar considerável angústia e aflição psicológica, atingindo os direitos da personalidade. APELAÇÃO CÍVEL CONHECIDA, MAS DESPROVIDA."
+Nas razões do recurso especial, a parte agravante apontou dissídio jurisprudencial e violação ao art. 13, parágrafo único, da Lei 9.656/98.
+Sustenta, em síntese, ser desnecessária a notificação pessoal do beneficiário do plano de saúde para fins de rescisão do contrato de plano de saúde na modalidade individual/familiar.
+Contrarrazões às fls. 453/457.
+É o relatório.
+Cinge-se a controvérsia em analisar a tese segundo a qual é prescindível a notificação pessoal do beneficiário de plano de saúde no caso de rescisão contratual por inadimplemento do consumidor.
+Ao analisar o ponto proposto, o Tribunal de origem consignou ser necessária a cientificação do consumidor, tendo observado, todavia, que, no caso em apreço, a notificação via postal sequer foi entregue ao endereço do destinatário, in verbis:
+"Pois bem, de fato, para usufruir do plano contratado cabe ao consumidor efetuar o pagamento devido na época oportuna, pois, caso assim não proceda, pode dar ensejo à rescisão unilateral, desde que observadas as exigências prescritas na Lei 9.656/98, que rege os planos e seguros privados de assistência à saúde. Vejamos:
+(..)
+Ao que se vê, o artigo 13, parágrafo único, inciso II, da Lei nº 9.656/98, autoriza o cancelamento ou a rescisão unilateral do contrato em situações excepcionais, como no caso de fraude ou quando haja cumulativamente o inadimplemento do consumidor e a sua notificação devidamente comprovada até o quinquagésimo dia de inadimplência.
+No caso em apreço, a celeuma centra-se na validade da notificação extrajudicial realizada pela operadora do plano de saúde para legitimar a rescisão unilateral do contrato por ela perpetrado.
+Após detida análise do feito, vê-se que os documentos constantes do mov. nº 23 - arquivos 3, 4 e 5 (cartas com aviso de recebimento e notificação via edital) não são hábeis para o fim ao qual se destinam.
+Isso porque as cartas com aviso de recebimento, que continham a carta de cobrança, sequer foram entregues no endereço destinatário, por falta de número da casa, ou seja, nem mesmo houve o recebimento por terceiros. Por outro lado, não há informe nos autos que foram esgotadas as tentativas destinadas à localização da parte interessada, circunstância que também não legitima a notificação ficta (por edital).
+Sendo assim, não se pode concluir que a parte ré se desincumbiu do ônus que lhe cabia, qual seja, de cientificar a parte autora de sua inadimplência, oportunizar-lhe o pagamento e, ainda, adverti-la da rescisão unilateral do contrato.
+Diferentemente das assertivas da apelante, a notificação extrajudicial a que alude o artigo 13, parágrafo único, inciso II, da Lei nº 9.656/98, deve ser prévia e inequívoca. Nessa direção, cito:
+(..)
+Há de se considerar, outrossim, que incumbia à apelante não só o ônus de trazer aos autos a comprovação do envio (e entrega) da notificação, que sequer ocorreu, como também o teor da comunicação, a fim de ser averiguada a sua inequívoca clareza quanto à existência do débito e da possibilidade de sua regularização, bem assim da rescisão unilateral no caso de não pagamento.
+(..)
+Por fim, não excede acrescentar que, a par da não entrega da notificação, a apontada mudança de endereço é questão de fato não deduzida na contestação e não debatida na origem, circunstância que, por si só, obsta a sua consideração em sede recursal.
+Desta feita, irrepreensível se afigura a sentença, porquanto resolveu a questão deduzida à luz do contexto probatório dos autos e em consonância com a lei de regência." (Fls. 376/380)
+Em que pese a insurgência da parte recorrente, consubstanciada na tese acerca da desnecessidade de haver intimação pessoal do contratante para fins de rescisão do contrato de plano de saúde na modalidade individual/familiar, tem-se que dissociada do fundamento adotado no acórdão, que se refere, na verdade, à ausência de notificação prévia.
+Com efeito, o Tribunal de origem entendeu que a rescisão do contrato foi indevida, pela inexistência de notificação, uma vez que a correspondência enviada pela parte sequer foi entregue ao endereço, in verbis:
+"As cartas com aviso de recebimento, que continham a carta de cobrança, sequer foram entregues no endereço destinatário, por falta de número da casa, ou seja, nem mesmo houve o recebimento por terceiros. Por outro lado, não há informe nos autos que foram esgotadas as tentativas destinadas à localização da parte interessada, circunstância que também não legitima a notificação ficta (por edital)." (fl. 377).
+Assim, verifica-se que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido de que "O cancelamento do plano de saúde motivado por inadimplência do beneficiário exige sua prévia notificação, nos termos da jurisprudência do Superior Tribunal de Justiça" (Aglnt no AREsp 1.460.199/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. PLANO DE SAÚDE. CANCELAMENTO DE CONTRATO. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. REEXAME. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. O cancelamento do plano de saúde motivado por inadimplência do beneficiário exige sua prévia notificação, nos termos da jurisprudência do Superior Tribunal de Justiça.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.133.286/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/5/2023, DJe de 18/5/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PLANO DE SAÚDE. RESCISÃO UNILATERAL. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. CONCLUSÃO DO ACÓRDÃO PELA MANUTENÇÃO DA COBERTURA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. REVISÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. DANO MORAL RECONHECIDO PELA CORTE DE ORIGEM. RAZOABILIDADE E PROPORCIONALIDADE DO QUANTUM ARBITRADO. AGRAVO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, nos termos do art. 13, parágrafo único, II, da Lei 9.656/98, é obrigatória a notificação prévia ao cancelamento do contrato por inadimplemento, sendo ônus da seguradora notificar o segurado.
+3. Na hipótese, o acórdão recorrido consignou expressamente o descumprimento, por parte da operadora de saúde, da obrigação de notificação prévia em caso de rescisão contratual por inadimplência do segurado. Infirmar a referida conclusão encontraria óbice na Súmula 7 do STJ.
+4. O Tribunal de origem consignou, ainda, que a rescisão contratual sem a prévia notificação do segurado agravou seu estado de sofrimento, gerando dano moral indenizável, uma vez que lhe foi negado atendimento de urgência após cair da própria altura. A modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Na hipótese, o valor da indenização por danos morais arbitrado em R$ 5.000,00 (cinco mil reais) não é exorbitante nem desproporcional aos danos sofridos pelo recorrido, de modo que não se viabiliza a excepcional intervenção desta Corte.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 1.824.542/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 9/8/2021, DJe de 31/8/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE DEMANDADA.
+1. É indevido o cancelamento automático do plano de saúde se a operadora deixa de cumprir o requisito de notificação prévia do beneficiário para quitação do débito existente.
+1.1. No caso dos autos, o Tribunal de origem, com base na análise dos elementos fáticos e probatórios dos autos, concluiu que não restou comprovada a regular notificação do segurado. A revisão do entendimento da Corte a quo, no ponto, importaria em reexame do conjunto fático-probatório da lide, atraindo o óbice da Súmula 7/STJ
+2. Agravo interno desprovido."
+(AgInt no AREsp 1342581/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+Como se vê, a orientação do Tribunal de origem está em consonância ao entendimento do Superior Tribunal de Justiça, o que atrai a incidência do verbete 83/STJ, que se aplica tanto à admissibilidade pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ainda que assim não fosse, para que fosse possível alterar a conclusão do Tribunal a quo, de que a operadora de plano de saúde não comprovou o efetivo recebimento da notificação pelo consumidor, seria imperioso revolver fatos e provas, o que é vedado na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+Assim, ante da ausência de qualq uer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o presente apelo nobre.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
