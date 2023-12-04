@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto por RALFF MALLMANN em face de decisão desta relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+O agravante sustenta, em síntese, a inaplicabilidade do Enunciado da Súmula n. 83/STJ à espécie, tendo em vista que "a jurisprudência do STJ se firmou no sentido de que a negativa de ingresso de profissional na cooperativa de trabalho médico não pode se dar somente em razão de presunções acerca da suficiência numérica de associados na região exercendo a mesma especialidade, havendo necessidade de estudos técnicos de viabilidade, bem como que caso atingida a capacidade máxima de prestação de serviços pela cooperativa, seria admissível a recusa de novos associados" (fl. 1.614).
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 1.612/1.620).
+A parte agravada foi intimada, mas não apresentou impugnação.
+É o relatório.
+Apesar de negado provimento à irresignação com base em entendimento relativamente consolidado pelas Turmas de Direito Privado do STJ, sobreveio decisão de afetação do tema debatido pela Segunda Seção do STJ, no Tema n. 1.212. Cita-se a ementa do acórdão de afetação:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. COOPERATIVA MÉDICA. NOVOS COOPERADOS. CONDIÇÕES DE INGRESSO. PROCESSO SELETIVO. PREVISÃO EM ESTATUTO SOCIAL. LEGALIDADE. DEFINIÇÃO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. VIABILIDADE DA FIXAÇÃO DE TESE CONCENTRADA E DE EFEITOS VINCULANTE E PARCIALMENTE ERGA OMNES.
+1. Temas: a) licitude da exigência, em estatuto social de cooperativa de trabalho médico, de aprovação em processo seletivo como requisito para ingresso de novos cooperados; e b) possibilidade de o edital do processo seletivo também prever limitação de número de vagas.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp n. 2.033.484/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 22/8/2023, DJe de 30/8/2023.)
+Nesse contexto, em observância à economia processual, os recursos que tratam da mesma controvérsia no STJ ou no STF devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo (ou sob repercussão geral) ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
