@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por CIPA VIAGENS TURISMO E CAMBIO LTDA. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 5.187):
+AÇÃO DE PRESTAÇÃO DE CONTAS Pedido julgado improcedente Relação jurídica entre as partes que não é de administração ou de mandato e por isso não permite a exigência de contas Decisão mantida Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 5.254-5.257).
+Nas razões do recurso especial (fls. 5.191-5.205), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos:
+a) 489 e 1.022, I e II, do Código de Processo Civil, sustentando que o acórdão recorrido não teve fundamentação adequada; e
+b) 710, 712, 713 e 721 do Código Civil; 914 e 915 do Código de Processo Civil de 1973 e 550 e 1013, § 1º, do Código de Processo Civil de 2015, alegando que a ação de prestação de contas é medida adequada e eficaz para se averiguar as contas da relação contratual mantida entre as partes.
+Oferecidas contrarrazões (fls. 5.261-5.291), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 5.349-5.351), o que ensejou a interposição do presente agravo (fls. 5.353-5.374).
+Apresentadas contraminutas do agravo (fls. 5.378-5.391).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se pode conhecer da apontada violação dos arts. 489 e 1.022, I e II, do Código de Processo Civil. Isso porque a parte recorrente não demonstrou especificamente quais seriam os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+Assim, incide, por analogia, o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No que se refere aos arts. 710, 712, 713 e 721 do Código Civil; 914 e 915 do Código de Processo Civil de 1973 e 550 e 1013, § 1º, do Código de Processo Civil de 2015, o Tribunal de origem concluiu que a relação jurídica entre as partes não permite a exigência de contas, baseado no contrato celebrado entre as partes, assim como nos fatos e provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 5.187-5.188):
+A r. decisão merece ser mantida, porquanto, de modo efetivo, a relação jurídica havida entre as partes não é de mandato, tampouco de administração.
+Resulta dos argumentos e da fartura de documentos que o apelado fornecia moeda estrangeira para que fosse vendida pela apelante. Conforme bem apontado pela MMª. Juíza "a quo", se alguém estivesse obrigado a prestar contas seria a própria apelante.
+A ciclópica documentação comprova que o apelado tinha o controle do quanto fornecia, do quanto era vendido e sempre deu como certos os lançamentos efetuados, até que a apelante, conforme consta do recurso de apelação acima mencionado, reteve de forma indevida quantia em moeda estrangeira quando da rescisão do contrato.
+Diz a apelante que a prestação de contas serve também para examinar o abatimento de despesas antes do pagamento das comissões.
+O argumento não se sustenta porque, em conformidade com o contrato, o pagamento se dava, fosse por depósito em conta corrente, fosse por outro meio, com a entrega de nota fiscal do serviço prestado.
+Ora, quem apresentava o valor a ser pago, portanto, não era o apelado, mas a apelante, de sorte que nem por este aspecto o pedido de prestação de contas pode ser admitido.
+Diante destas considerações, a r. sentença deu exato deslinde à causa e, como tal, merece ser integralmente mantida.
+Rever tal entendimento, conforme pretendido, implica a interpretação das cláusulas contratuais e o reexame do contexto fático-probatório dos autos. Sendo assim, incidem as Súmulas n. 5/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial") e 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Confira-se: AgInt no AREsp n. 2.231.244/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no REsp n. 2.025.468/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023; AgInt no REsp n. 2.029.671/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Por fim, não se pode conhecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pela a Súmula a n. 5 e 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Nesse sentido: AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgInt no AREsp n. 1.954.459/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023; AgInt no AREsp n. 1.768.573/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
