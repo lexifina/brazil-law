@@ -1,0 +1,114 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. AÇÃO COLETIVA AJUIZADA POR SINDICATO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. LIMITAÇÃO EXPRESSA NO TÍTULO JUDICIAL. ILEGITIMIDADE DA PARTE EXEQUENTE. LIMITES DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se conhece de Recurso Especial em relação aos arts. 85, § 8º, 489, II, e 1.022, II, do Código de Processo Civil/2015, 6º do Decreto-Lei 4.657/1942 (LINDB), e 81 e 103 da Lei 8.078/1990 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incidência, por analogia, da Súmula 284/STF.
+2. Na hipótese em exame, há expressa consideração no acórdão recorrido acerca da limitação dos beneficiários da ação coletiva no título executivo transitado em julgado. Assim, o entendimento do Tribunal de origem se encontra em consonância com a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que "a entidade sindical tem ampla legitimidade para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada" (AgInt no REsp 1.586.726/BA, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9.5.2016).
+3. Ademais, tendo o Tribunal a quo reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando-se a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado, por força da Súmula 7/STJ. Com igual entendimento: AgInt no REsp 1.907.731/PB, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 16.8.2023; AgInt no REsp 2.016.517/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe de 16.3.2023; AgInt no AREsp 2.243.235/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 24.5.2023; AgInt no AREsp . 2.257.270/RJ, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 8.9.2023; e AgInt no REsp 2.056.122/AP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 24.8.2023.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão (fls. 248-254, e-STJ) que não conheceu do Recurso.
+A parte agravante sustenta, em suma (fls. 260-269, e-STJ):
+Não há que se falar na adoção do óbice da Súmula nº 284/STF porquanto a parte se desincumbiu do ônus de demonstrar, de forma específica, o vício em que incorreu o acórdão impugnado.
+(..)
+Assim, considerando-se que o único limite imposto no título executivo é territorial, não há que se falar em menção à listagem eventualmente trazida aos autos diante do acolhimento do recurso especial do Sindicato à época. Não haveria que se falar, portanto, em adoção do óbice da Súmula nº 7/STJ quando os limites do título exequendo estão delineados no voto dirigente proferido na Corte a quo e decorrem de julgamento ocorrido no âmbito desse Eg. Tribunal Superior.
+Pleiteia, ao final, a reconsideração do decisum ou a submissão do feito à Turma Julgadora.
+Sem impugnação, conforme certidão de fl. 275, e-STJ.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.078.542 - RS (2023/0197039-1)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+ALEX RODRIGO PAULMICHL
+ADVOGADOS
+:
+GLÊNIO LUIS OHLWEILER FERREIRA - RS023021
+THIAGO CECCHINI BRUNETTO - RS051519
+ADVOGADOS
+:
+ANDRÉA BUENO MAGNANI MARIN DOS SANTOS - DF018136
+TIAGO GORNICKI SCHNEIDER - RS068833
+MAURO DE AZEVEDO MENEZES - DF019241
+RAFAEL GRAZIANI DE SOUZA MELLO LOPES - RS081590
+AGRAVADO
+:
+UNIÃO
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. AÇÃO COLETIVA AJUIZADA POR SINDICATO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. LIMITAÇÃO EXPRESSA NO TÍTULO JUDICIAL. ILEGITIMIDADE DA PARTE EXEQUENTE. LIMITES DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se conhece de Recurso Especial em relação aos arts. 85, § 8º, 489, II, e 1.022, II, do Código de Processo Civil/2015, 6º do Decreto-Lei 4.657/1942 (LINDB), e 81 e 103 da Lei 8.078/1990 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incidência, por analogia, da Súmula 284/STF.
+2. Na hipótese em exame, há expressa consideração no acórdão recorrido acerca da limitação dos beneficiários da ação coletiva no título executivo transitado em julgado. Assim, o entendimento do Tribunal de origem se encontra em consonância com a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que "a entidade sindical tem ampla legitimidade para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada" (AgInt no REsp 1.586.726/BA, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9.5.2016).
+3. Ademais, tendo o Tribunal a quo reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando-se a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado, por força da Súmula 7/STJ. Com igual entendimento: AgInt no REsp 1.907.731/PB, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 16.8.2023; AgInt no REsp 2.016.517/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe de 16.3.2023; AgInt no AREsp 2.243.235/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 24.5.2023; AgInt no AREsp . 2.257.270/RJ, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 8.9.2023; e AgInt no REsp 2.056.122/AP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 24.8.2023.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 23.10.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+O insurgente sustenta que foram violados os arts. 85, § 8º, 489, II, e 1.022, II, do Código de Processo Civil/2015, 6º do Decreto-Lei 4.657/1942 (LINDB), e 81 e 103 da Lei 8.078/1990, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..) (AgInt no REsp 1.630.011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017).
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..) (REsp 1.652.761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Por outro lado, na hipótese dos autos, o Tribunal de origem assim decidiu a controvérsia (fls. 87-91, e-STJ):
+Nos termos do artigo 8º, inciso III, da Constituição, e do artigo 240, "a", da Lei n. 8.112/90, ao Sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas, liquidações e execuções de sentença. A substituição processual se opera em virtude de autorização constitucional direta e legitima o Sindicato a representar toda a categoria, sem necessidade de autorização individual ou em assembleia, nem, tampouco, da juntada de rol de substituídos
+Neste sentido, é o entendimento firmado pelo STF em sede de repercussão geral no RE 883.642 (Tema 823):
+(..)
+Assim sendo, em regra, a coisa julgada formada nos autos da ação coletiva promovida pelo Sindicato favorece os respectivos substituídos, que detêm legitimidade para ajuizar a execução individual, mediante a simples prova de ser integrante da categoria profissional beneficiada dispensando-se os demais requisitos, inclusive a filiação ao Sindicato.
+Esta é a posição adotada pelo STJ (REsp 1666086/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017; AgInt no REsp 1555259/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/10/2016, DJe 09/11/2016), como também pelas duas Turmas integrantes da Segunda Seção desta Corte (AG 5008514- 09.2017.404.0000, TERCEIRA TURMA, Relator FERNANDO QUADROS DA SILVA, juntado aos autos em 14/06/2017; AG 5035540-16.2016.404.0000, QUARTA TURMA, Relator CANDIDO ALFREDO SILVA LEAL JUNIOR, juntado aos autos em 07/04/2017).
+Excetuam-se, contudo, as hipóteses em que o título executivo expressamente limita os efeitos da condenação àqueles beneficiários constantes da lista nominal acostada aos respectivos autos.
+O título executivo formado nos autos da Ação Coletiva nº 2001.34.00.002765-2 (peças juntadas por cópia ao Cumprimento de Sentença, ev. 1), foi promovida pelo então Sindicato Nacional dos Técnicos da Receita Federal - SINDTTEN.
+Na sentença, constou, expressamente, a condenação da União ao pagamento das diferenças vencidas da gratificação denominada Remuneração Adicional Variável - RAV, no período de janeiro/96 a junho/99, "aos filiados relacionados às fls. 89/304", conforme excerto abaixo transcrito:
+Pelo exposto, JULGO PROCEDENTE o pedido, com fulcro no art. 269, I, do CPC, para, afastando a aplicação das Resoluções CRAV nºs 01 e 02, DECLARAR o direito dos substituídos do Sindicato-autor de perceber a RAV até o limite máximo estabelecido na Medida Provisória nº 831/95 (convertida na Lei nº 9624/98) e CONDENAR a UNIÃO a pagar aos filiados relacionados às fls. 89/304 as diferenças vencidas, referentes ao período de janeiro/96 a junho/99, a serem apuradas em liquidação por artigos, atualizadas monetariamente pela UFIR/IPCAE e acrescidas de juros moratórios, na taxa de 1% (um por cento) ao mês, a partir da citação. (grifei)
+Quando do julgamento do Recurso de Apelação interposto pela União, foi indeferido o pedido de exigência de autorizações específicas e individuais para ajuizamento da lide.
+A questão não mais foi objeto de recursos, transitando em julgado a demanda em 18/06/2016, de sorte que, não tendo havido recurso do Sindicato-autor no ponto, à época, permanece válida a limitação subjetiva.
+(..)
+No caso da ação coletiva em comento, a sentença limitou o direito às diferenças da RAV aos substituídos arrolados com a petição inicial da coletiva, tendo a União apenas recorrido para ver reconhecida a ilegitimidade do Sindicato para a defesa de direitos individuais (ou seja, em nenhum momento buscou ampliar o rol, mesmo porque não houve recurso do Sindicato sobre o ponto).
+Ao final, entendeu-se que não há de se falar em ilegitimidade ativa do Sindicato para a defesa do direito individual, não tendo sido alterada a sentença quanto à limitação ao rol, de sorte que, já tendo havido a formação de coisa julgada, resta inaplicável, in casu, a orientação estabelecida pelo Tema 823/STF.
+Consigne-se que, tendo o título executivo estendido o direito nele reconhecido somente aos servidores/pensionistas constantes do rol que estão presentes nos autos, deve tal limitação ser observada em sede de execução, sob pena de ofensa à coisa julgada.
+(..)
+Conclui-se que, no caso da Ação Coletiva nº 2001.34.00.002765-2 (0002767-94.2001.01.3400) a sentença proferida na fase de conhecimento estabeleceu a limitação do direito reconhecido naquela demanda aos substituídos relacionados pelo Sindicato autor às fls. 89/304 daqueles autos. Ainda, que não foi interposto recurso pelo Sindicato com a finalidade de afastar a limitação determinada na sentença, tendo a União apenas recorrido para ver reconhecida a ilegitimidade do Sindicato para a defesa de direitos individuais (ou seja, em nenhum momento buscou-se ampliar o rol, mesmo porque, como referido, não houve recurso do Sindicato sobre o ponto), de modo que, em que pesem os fundamentos adotados no voto proferido pelo Superior Tribunal de Justiça no AG nº 1.424.442/DF, não houve alteração da sentença quanto à limitação ao rol de substituídos.
+Portanto, expressamente prevista a limitação do direito às diferenças aos substituídos arrolados às fls. 89/304 da petição inicial da Ação Coletiva, e não constando o nome do exequente/agravado ALEX RODRIGO PAULMICHL em tal listagem (Cumprimento de Sentença, ev. 14, OUT5), há de ser reconhecida a sua ilegitimidade para a execução dos valores reconhecidos pelo título executivo, ainda que integre a categoria substituída, de modo que há de ser reformada a decisão de origem.
+(..)
+Ante o exposto, voto por dar provimento ao agravo de instrumento, para declarar a ilegitimidade ativa de ALEX RODRIGO PAULMICHL para a execução do título executivo formado na Ação Coletiva nº 0002767-94.2001.01.3400 (2001.34.00.002765-2), extinguindo o cumprimento de sentença, fulcro no art. 485, VI, do CPC.
+Conforme assentado, há expressa consideração no acórdão recorrido acerca da limitação dos beneficiários da ação coletiva no título executivo transitado em julgado. Assim, o entendimento do Tribunal de origem se encontra em consonância com a jurisprudência do STJ, firme no sentido de que "a entidade sindical tem ampla legitimidade para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada" (AgInt no REsp 1.586.726/BA, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9.5.2016).
+Tendo o Tribunal de origem reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando-se a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado, por força da Súmula 7/STJ.
+Sobre o tema:
+AGRAVO INTERNO. SERVIDOR PÚBLICO. AÇÃO COLETIVA. SINDICATO. TÍTULO EXECUTIVO. LIMITAÇÃO SUBJETIVA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO DESPROVIDO.
+I - Na origem, a parte autora ajuizou ação ordinária para promover o cumprimento de sentença, com valor da causa atribuído em R$ 607.600,08 (seiscentos e sete mil, seiscentos reais e oito centavos) objetivando a execução do título formado na Ação Ordinária n. 0008091-34.2006.4.05.8200, que reconheceu o direito ao pagamento de férias com acréscimo de vantagens àqueles que estavam ou estão afastados para participação em cursos de aperfeiçoamento dentro ou fora do país.
+II - A jurisprudência do STJ é firme no sentido de que a entidade sindical tem ampla legitimidade extraordinária para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem, seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, em observância à orientação do STF (Tema n. 823), à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada.
+III - No caso dos autos, o acórdão recorrido foi expresso quanto à existência de limitação subjetiva no título judicial. Desse modo, não é possível o aproveitamento da condenação por servidores que não estejam abarcados pela coisa julgada. Assim, decidir em sentido contrário, afastando-se a ocorrência de tal limitação, pressupõe o reexame do conjunto fático-probatório, o que é vedado, por força da Súmula n. 7/STJ.
+IV - Agravo interno desprovido.
+(AgInt no REsp n. 1.907.731/PB, relator Ministro Francisco Falcão, Segunda Turma, DJe de 16/8/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) LIMITAÇÃO DO TÍTULO EXECUTIVO. AUSÊNCIA NO ROL DE SUBSTITUÍDOS DO SINDICATO. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. PRECEDENTES. ALCANCE DO TÍTULO EXECUTIVO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Na hipótese, há expressa consideração no acórdão recorrido acerca da limitação dos beneficiários da ação coletiva no título executivo transitado em julgado, razão pela qual o entendimento do Tribunal de origem se encontra em consonância com a jurisprudência desta Corte, firme no sentido de que "a entidade sindical tem ampla legitimidade para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada" (AgInt no REsp 1586726/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 3/5/2016, DJe 9/5/2016).
+3. Não cabe rediscutir as nuances que envolvem dilação proba tória fundamentadas no contexto fático dos autos. Neste quadro, é inviável a nalisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.243.235/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL. SENTENÇA EM AÇÃO COLETIVA. LIMITAÇÃO DO TÍTULO JUDICIAL AOS SUBSTITUÍDOS DO SINDICATO-AUTOR CONSTANTES DE LISTA E DO PEDIDO. EXPRESSA FORMAÇÃO DA COISA JULGADA EM RELAÇÃO AOS NOMINADOS.
+1. Cuida-se de execução individual de sentença coletiva prolatada pelo Juízo da 1ª Vara da Seção Judiciária do Distrito Federal (Processo n. 2007.34.00.028924-5), a qual condenou a União ao pagamento de diferenças relativas à percepção de GDATA e GDPGTAS em favor dos substituídos pelo Sindicato dos Trabalhadores do Serviço Público Federal do Estado do Rio de Janeiro - SINTRASEF/RJ nominalmente relacionados na inicial. Controverte-se quanto à legitimidade ativa de servidor não constante da inicial para propor a execução individual.
+2. A jurisprudência do STJ é firme no sentido de que a entidade sindical tem ampla legitimidade extraordinária para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem, seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, em observância à orientação do STF (Tema n. 823), à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada. Precedentes. Incidência da Súmula n. 83/STJ.
+3. No caso dos autos, tanto a sentença quanto o acórdão recorrido foram categóricos em afirmar que houve a limitação subjetiva no título judicial, e, portanto, não é possível o aproveitamento da condenação por servidores que não estejam abarcados pela coisa julgada.
+4. Para decidir em sentido contrário, afastando a ocorrência da limitação objetiva e subjetiva do título executivo sobre o qual se operou a coisa julgada, seria necessária uma incursão no contexto fático-probatório pelo STJ, o que é vedado, por força da Súmula n. 7/STJ.
+Agravo interno provido.
+(AgInt no REsp n. 2.016.517/SP, Relator Ministro Humberto Martins, Segunda Turma, DJe de 16/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO COLETIVA. LIMITES SUBJETIVOS DO TÍTULO. COISA JULGADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O acórdão recorrido está em consonância com a jurisprudência dominante desta Corte segundo a qual no caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva é indevida a inclusão de servidor que não integrou a listagem, sob pena de ofensa à coisa julgada. Precedentes.
+2. Rever o teor do título executivo para desconstituir a conclusão do Tribunal de origem, nos termos pretendidos no recurso, é providência que esbarra no óbice contido na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.257.270/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. TÍTULO JUDICIAL QUE RESTRINGE A ABRANGÊNCIA. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+2. Segundo a jurisprudência desta Corte, havendo expressa limitação no título executivo quanto aos beneficiários da ação coletiva, é indevida a inclusão de servidor que não integrou a referida listagem, sob pena de ofensa à coisa julgada. Precedentes.
+3. A revisão do entendimento do Tribunal de origem, no que se refere aos limites subjetivos da coisa julgada, a fim de afastar a conclusão pela ilegitimidade da parte recorrente, demandaria necessariamente o reexame do conteúdo fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.056.122/AP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
