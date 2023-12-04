@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada conheceu do agravo para não conhecer do apelo nobre porquanto consignado que a alegação de afronta a preceito constitucional escapa do campo de competência do STJ em recurso especial, a alegação de afronta ao art. 489 do CPC esbarra na Súmula n. 284/STF e que a aferição de ofensa ao art. 11 do CPC se choca com os preceitos da Súmula n. 7/STJ.
+2. O agravo interno não merece conhecimento, visto que, de início, narra premissa de que "não  se  conheceu do agravo em recurso especial", sendo que o agravo fora conhecido, não sendo conhecido apenas o apelo nobre, em razão dos óbices acima delineados, o que evidencia que os argumentos do presente agravo interno estão dissociados dos fundamentos do decisum agravado, inviabilizando o seu conhecimento. Incidência da Súmula n. 284/STF.
+3. Ademais, observa-se que, ao reiterar a alegação de que a ausência de fundamentação "desagua" na violação do texto constitucional (art. 93, IX, da CF), a recorrente não impugna especificamente o fundamento de incompetência do STJ para análise de referida afronta, bem como nada impugnaram as razões do agravo interno a incidência da Súmula n. 284/STF à alegação de afronta ao art. 489 do CPC.
+4. Do simples cotejo entre o decidido e as razões do agravo interno, é possível verificar que a parte agravante não rebateu adequadamente a incidência da Súmula n. 7/STJ, limitando-se a suscitar que a matéria em debate é "somente de direito", cabendo relembrar que "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp n. 1.996.512/SP, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 17/8/2022).
+5. A ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir na espécie os preceitos da Súmula n. 182/STJ e do art. 1.021, § 1º do CPC. Precedentes.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por DECOLANDO TURISMO E REPRESENTACOES LTDA. contra decisão monocrática da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial (fls. 116-119).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fl. 52):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DECISÃO AGRAVADA. FALTA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. MOTIVAÇÃO SUCINTA. Não se verifica vício de nulidade por falta de fundamentação quando a decisão indica motivação concreta, embora sucinta. Precedentes.
+Sem embargos de declaração na origem.
+Nas razões do recurso interno, alega a agravante que cumpriu a devida dialeticidade exigida, não havendo espaço para não conhecimento de seu agravo em recurso especial.
+No mais, argumenta que as disposições contidas nos art. 11 e 489 do CPC, quando inobservadas, "desagua justamente no art. 93, IX, da CF, estabelecendo de forma específico que a questão é de negativa de prestação jurisdicional, violando o dispositivo constitucional, portanto, a discussão da violação constitucional se encontra no bojo do Agravo em Recurso Especial, ou seja, TODOS OS PONTOS FORAM QUESTIONADOS, como se observa do trecho da peça recursal" (fl. 123).
+Pugna, por fim, pelo provimento do recurso.
+A agravada apresentou contrarrazões (fls. 129-135).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada conheceu do agravo para não conhecer do apelo nobre porquanto consignado que a alegação de afronta a preceito constitucional escapa do campo de competência do STJ em recurso especial, a alegação de afronta ao art. 489 do CPC esbarra na Súmula n. 284/STF e que a aferição de ofensa ao art. 11 do CPC se choca com os preceitos da Súmula n. 7/STJ.
+2. O agravo interno não merece conhecimento, visto que, de início, narra premissa de que "não  se  conheceu do agravo em recurso especial", sendo que o agravo fora conhecido, não sendo conhecido apenas o apelo nobre, em razão dos óbices acima delineados, o que evidencia que os argumentos do presente agravo interno estão dissociados dos fundamentos do decisum agravado, inviabilizando o seu conhecimento. Incidência da Súmula n. 284/STF.
+3. Ademais, observa-se que, ao reiterar a alegação de que a ausência de fundamentação "desagua" na violação do texto constitucional (art. 93, IX, da CF), a recorrente não impugna especificamente o fundamento de incompetência do STJ para análise de referida afronta, bem como nada impugnaram as razões do agravo interno a incidência da Súmula n. 284/STF à alegação de afronta ao art. 489 do CPC.
+4. Do simples cotejo entre o decidido e as razões do agravo interno, é possível verificar que a parte agravante não rebateu adequadamente a incidência da Súmula n. 7/STJ, limitando-se a suscitar que a matéria em debate é "somente de direito", cabendo relembrar que "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp n. 1.996.512/SP, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 17/8/2022).
+5. A ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir na espécie os preceitos da Súmula n. 182/STJ e do art. 1.021, § 1º do CPC. Precedentes.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada conheceu do agravo para não conhecer do apelo nobre porquanto expressamente consignado que a alegação de afronta a preceito constitucional escapa do campo de competência do STJ em recurso especial, a alegação de afronta ao art. 489 do CPC esbarra na Súmula n. 284/STF e que a aferição de ofensa ao art. 11 do CPC se choca com os preceitos da Súmula n. 7/STJ.
+Para melhor compreensão, excerto da decisão (fls. 117-119):
+Quanto à controvérsia posta, no que concerne à alegada violação do art. 93, IX, da CF/88, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+ ..
+Já no tocante à alegada violação do art. 489 do CPC, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso ou o parágrafo sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas.
+ ..
+Por fim, quanto à alegada violação do art. 11 do CPC, o Tribunal de origem se manifestou nos seguintes termos:
+Na hipótese dos autos, a recorrente suscitou, em impugnação, a incompetência absoluta do juízo e a r. decisão indeferiu seu pleito indicando que, para o cumprimento da decisão do processo nº 0701424-37.2018.8.07.0001, a competência é daquele Juízo, porquanto foi quem examinou o procedimento de conhecimento, conforme previsão do artigo 516, inciso II, do Código de Processo Penal, que estipula que O cumprimento da sentença efetuar-se-á perante o juízo que decidiu a causa no primeiro grau de jurisdição.
+Dessa maneira, verifica-se que a r. decisão indeferiu o pedido após indicar de forma clara a norma jurídica aplicável e indicou as características do caso concreto que levaram à incidência da disposição normativa. Observa-se, assim, que, apesar de ser contrária aos interesses da parte, a decisão encontra-se, devidamente fundamentada (fl. 54, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Com efeito, o agravo interno não merece conhecimento, visto que, de início, narra premissa de que "não  se  conheceu do agravo em recurso especial" (fl. 123), sendo que o agravo foi sim conhecido, não sendo conhecido apenas o apelo nobre, em razão dos óbices acima delineados, o que evidencia que os argumentos do presente agravo interno estão dissociados dos fundamentos do decisum agravado, inviabilizando o seu conhecimento.
+Neste sentido:
+4. Razões do agravo interno dissociadas dos fundamentos da decisão agravada e que não impugnam os fundamentos invocados na decisão monocrática. Incidência das súmulas 284/STF e 182/STJ, pois em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto da decisão agravada.
+(AgInt no AREsp n. 1.900.138/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/2/2022.)
+1. Não se conhece de agravo regimental cujas razões encontram-se totalmente dissociadas dos fundamentos adotados pela decisão agravada. Incidência das Súmulas n. 182 do STJ e 284 do STJ.
+(AgRg no AREsp n. 1.869.640/MS, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 14/2/2022.)
+1. A utilização de argumentos dissociados dos fundamentos adotados na decisão agravada ou, ainda, cuja generalidade não é capaz de impugná-la de forma específica atrai a incidência das Súmulas 182/STJ e 284/STF. Nesse sentido: AgInt no AgInt no REsp 1.753.805/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 4/5/2020; AgInt nos EDcl no MS 25.472/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 17/4/2020.
+(AgInt no REsp n. 1.867.403/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 2/12/2021.)
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+(AgInt no AREsp n. 866.675/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/5/2016.)
+II. No presente Agravo Regimental, a agravante não impugna, especificamente, os fundamentos da decisão agravada e apresenta fundamentos outros, dela dissociados.
+III. Interposto Agravo Regimental, sem impugnar, especificamente, os fundamentos da decisão agravada, e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte.
+(AgRg no AREsp n. 485.847/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/9/2014, DJe de 16/9/2014.)
+Ademais, observa-se que, ao reiterar a alegação de que a ausência de fundamentação desagua na violação ao texto constitucional, a recorrente não impugna especificamente o fundamento de incompetência do STJ para análise de referida afronta, bem como nada impugnou as razões do agravo interno a incidência da Súmula n. 284/STF à alegação de afronta ao art. 489 do CPC.
+Do mesmo modo, do simples cotejo entre o decidido e as razões do agravo interno, é possível verificar que a parte agravante não rebateu adequadamente a incidência da Súmula n. 7/STJ, limitando-se a suscitar que a matéria em debate é "somente de direito" (fl. 124), cabendo relembrar que "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp n. 1.996.512/SP, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 17/8/2022).
+No mesmo sentido, cito:
+3. No tocante à Súmula n. 7/STJ, foi sustentado genericamente que a matéria seria apenas jurídica, sem se explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas, o que não cumpre o requisito da dialeticidade recursal.
+(AgRg no AREsp n. 2.103.741/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/8/2022.)
+2. No tocante à aplicação da Súmula 7/STJ, a parte agravante traz apenas razões genéricas de inconformismo, o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+(AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2022.)
+Desse modo, forçosa é a incidência do disposto no art. 932, III, e 1.021, § 1º, do CPC, segundo o qual não se conhece do recurso que não ataca especificamente os fundamentos da decisão recorrida, nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ ..
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Assim, a ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir, na espécie, por analogia, os preceitos das Súmulas n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confira-se:
+II - Razões de agravo interno que apresentam combate genérico aos fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+(AgInt no AREsp n. 2.077.483/GO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/9/2022.)
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+(AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/9/2022.)
+1. Segundo previsto no art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante atacar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 2.066.383/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/9/2022.)
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.960.887/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022.)
+Por fim, sem amparo a pretensão da agravada de aplicação da multa prevista no art. 1.021, § 4º, do CPC, visto que o mero manejo do agravo interno não enseja a aplicação automática da referida sanção processual, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Nesse sentido, cito:
+4. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 31/8/2020, DJe de 8/9/2020).
+(AgInt no AREsp n. 2.326.538/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/9/2023.)
+3. Esta Corte Superior tem entendido que o não conhecimento ou a improcedência do pedido não enseja, necessariamente, a imposição da multa disciplinada pelo art. 1.021, § 4º, do CPC/2015, tornando-se imprescindível para tal que seja nítido o descabimento do pedido, o que não se afigura no caso concreto, em que foi necessária a análise de amplo arcabouço probatório para se chegar à improcedência do pleito inicial.
+(AgInt no AREsp n. 2.102.809/PR, relator Ministro Humberto Martins, Terceira Turma, DJe de 13/9/2023.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
