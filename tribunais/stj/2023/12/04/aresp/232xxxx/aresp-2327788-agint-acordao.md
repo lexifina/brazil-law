@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE ACOLHEU OS EMBARGOS DE DECLARAÇÃO, COM EFEITOS INFRINGENTES, PARA EM NOVA ANÁLISE CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. Derruir a conclusão do acórdão recorrido no sentido de se reconhecer a ilegitimidade passiva do recorrente, demandaria o reexame das provas dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO MARCO BUZZI: Cuida-se de agravo interno, interposto por BANCO DO BRASIL SA, contra a decisão monocrática de fls. 1083-1088, e-STJ, da lavra deste signatário, que acolheu os embargos de declaração opostos pelos ora agravados, com efeitos infringentes, para em nova análise do reclamo manejado, conhecer do agravo para negar provimento ao recurso especial do ora insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 936, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO. ALEGAÇÃO DE FALHA NA REGULAÇÃO DE SINISTROS. SENTENÇA DE PROCEDÊNCIA. RECURSO INTERPOSTO PELO RÉU. 1. PRESCRIÇÃO E DENUNCIAÇÃO DA LIDE. MATÉRIAS DECIDIDAS NA DECISÃO DE SANEAMENTO, SEM INSURGÊNCIA RECURSAL EM MOMENTO OPORTUNO (ART. 1.015, II E IX, DO CPC/2015). PRECLUSÃO. NÃO CONHECIMENTO. 2. ILEGITIMIDADE PASSIVA. NÃO CONFIGURAÇÃO. TEORIA DA ASSERÇÃO. CONDIÇÕES DA AÇÃO QUE SÃO IDENTIFICADAS A PARTIR DAS AFIRMAÇÕES CONTIDAS NA INICIAL. ALEGAÇÃO QUE, NESTE MOMENTO, COMPÕE O MÉRITO. 3. AUSÊNCIA DE COMPROVAÇÃO DE QUE OS PROCEDIMENTOS PARA A REGULAÇÃO DOS SINISTROS FORAM CUMPRIDOS. FALHA NA PRESTAÇÃO DE SERVIÇO. DEVER DE INDENIZAR. REQUERIDO QUE IMPUGNOU GENERICAMENTE OS VALORES INDENIZATÓRIOS. MONTANTES MANTIDOS. POSSIBILIDADE DE COMPENSAÇÃO DE QUANTIA DEPOSITADA DURANTE O TRÂMITE PROCESSUAL. 4. DANOS MORAIS CONFIGURADOS. RECUSA NA PRESTAÇÃO DE INFORMAÇÕES QUANTO À REGULAZAÇÃO DOS SINISTROS. AUTORES QUE AGUARDAM PAGAMENTO DESDE 2006. INÉRCIA DO DEMANDADO QUE OBRIGOU OS APELADOS A PACTUAREM ADITIVOS CONTRATUAIS PARA O PAGAMENTO DAS DÍVIDAS. NECESSIDADE DE VENDA DE IMÓVEL PARA QUITAÇÃO. FALHA NA PRESTAÇÃO DE SERVIÇO QUE, NO CASO, ULTRAPASSOU A ESFERA DO MERO DISSABOR. "QUANTUM" INDENIZATÓRIO MINORADO. VALOR QUE DEVE ATENDER AOS PRINCÍPIOS DA RAZOABILIDADE, PROPORCIONALIDADE E AO CARÁTER INIBITÓRIO DA CONDUTA, BEM COMO ÀS PARTICULARIDADES DO CASO CONCRETO. 5. SENTENÇA PARCIALMENTE REFORMADA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELAÇÃO CÍVEL PARCIALMENTE CONHECIDA E, NA EXTENSÃO, PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados (fls. 964-968, e-STJ).
+Nas razões do recurso especial (fls. 971-984, e-STJ), o insurgente alegou que o acórdão recorrido violou os seguintes dispositivos de lei federal: a) artigos 489 e 1022 do CPC, aduzindo omissão no julgado; b) 125, II, do CPC, sustentando sua ilegitimidade passiva para responder aceca das questões referente a indenização de seguro PROAGRO; c) artigos 206, §1º, II e §3º, V, do CC, pois configurada a prescrição; e d) 884 do CC, ao fundamento da ocorrência de enriquecimento sem causa.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 2009-2011, e-STJ), dando ensejo a interposição do agravo (fls. 2014- 2019, e- STJ).
+Foi apresentada contraminuta (fls. 2023-2030, e-STJ).
+Em decisão monocrática (fls. 1059-1062, e-STJ), o agravo foi conhecido para conhecer do agravo e dar parcial provimento ao recurso especial para reformar o acórdão recorrido e declarar a ilegitimidade passiva ad causam do Banco do Brasil.
+Opostos embargos de declaração por MATIAS MAMORU NOGATA E OUTRO foram acolhidos com efeitos infringentes, para, em nova análise do reclamo manejado pelo BANCO DO BRASIL SA, conhecer do agravo para negar provimento ao recurso especial interposto, sob o fundamento de que não se trata de cobrança, propriamente, da indenização securitária, mas sim, de indenização pela falha na prestação do serviço - atribuída, pelas instâncias ordinárias, à instituição financeira ora embargada.
+Daí o presente agravo interno (fls. 518-533, e-STJ), no qual o ora agravante reitera a omissão e negativa de prestação jurisdicional, a ilegitimidade passiva e a responsabilidade do Banco Central do Brasil para responder sobre questões referentes ao seguro Proagro.
+Foi apresentada impugnação (fls. 1106-1114, e-STJ).
+É o relatório.
+AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 2.327.788 - PR (2023/0091287-0)
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE ACOLHEU OS EMBARGOS DE DECLARAÇÃO, COM EFEITOS INFRINGENTES, PARA EM NOVA ANÁLISE CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. Derruir a conclusão do acórdão recorrido no sentido de se reconhecer a ilegitimidade passiva do recorrente, demandaria o reexame das provas dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO MARCO BUZZI (RELATOR): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Consoante assentado, a rejeição da tese de ilegitimidade passiva pelo Tribunal a quo se deu com base na seguinte fundamentação (fls. 941-944, e-STJ, grifou-se):
+O demandado arguiu sua ilegitimidade, mediante o argumento de que é apenas o agente intermediador do Proagro, sendo a administração e o pagamento de responsabilidade do Banco Central do Brasil. Ponderou, assim, que este é o segurador e o responsável pelo repasse do seguro diretamente à instituição financeira.
+Em relação às condições da ação, aí incluída a legitimidade passiva, sua constatação deve ser feita, in status assertionis, isto é, segundo aquilo que foi alegado na inicial (teoria da asserção). Após esse momento, a análise faz parte do mérito.
+(..) No caso, a parte demandante imputa ao réu a responsabilidade pela falha na prestação do serviço de regulação dos sinistros, que teria culminado na ausência de pagamento das indenizações securitárias.
+Logo, ao menos em tese, o demandado é parte legítima, sendo que a ausência de falha na prestação de serviço, na realidade, compõe o mérito, o que será examinado adiante.
+Indenização securitária:
+Restou incontroverso que, entre os anos de 2005 e 2008, as partes firmaram três Cédulas Rurais Pignoratícias, com a finalidade de custeio agrícola: (a) 21/16061- 9: cultura de soja em 363ha (safra 2005/2006) (mov. 1.9, p. 05/11); (b) 40/00602- 6: cultura de milho safrinha em 242ha (safra 2007/2008) (mov. 1.10, p. 02/07); e (c) 40/00603-4: cultura de milho em 242ha (safra 2007/2008) (mov. 1.11, p. 02/07).
+A requerente Eliza pactuou a primeira e a segunda, enquanto o coautor Matias firmou a terceira, sendo ambos agricultores e casados.
+Os contratos estavam segurados pelo Programa de Garantia da Atividade Agropecuária - PROAGRO, cuja administração compete ao Banco Central do Brasil (Lei nº 5.969/73, revogada pela Lei nº 12.058/2009), que realiza o repasse de recurso financeiro ao demandado, a quem compete o acompanhamento da regularidade das safras e a regulação dos sinistros.
+Segundo consta nos autos, com a celebração das Cédulas Rurais Pignoratícias, há um projeto de plantação, que é acompanhado/fiscalizado por um engenheiro agrônomo a pedido do réu ( exemplificativamente: mov. 1.11, p. 08/19).
+Adolar Ivo Schütz, quando ouvido em juízo (mov. 101.2), explicou que foi o engenheiro agrônomo responsável pelo acompanhamento das plantações dos autores, as quais acabaram sendo prejudicadas pela seca. Explicou que, com a comunicação do sinistro (seca) ao requerido, este encaminha um perito para avaliar os danos ocorridos nas lavouras.
+Ricardo Antônio Palma, em seu depoimento (mov. 101.4), afirmou que também é engenheiro agrônomo e foi o perito contratado pelo réu para a regulação dos sinistros envolvendo as plantações dos requerentes. Mencionou que, antes da audiência, leu os laudos que emitiu, já que houve transcurso de significativo lapso temporal desde a emissão, de modo que só sabe dizer o que ali consta.
+É incontroverso que as safras foram prejudicadas pela seca, a qual possui cobertura securitária. À vista disso, houve comunicação ao apelante para dar início ao procedimento de regulação do sinistro, além do envio de notificações sobre o andamento, sem, porém, sucesso.
+Em razão da inércia do demandado, os autores ajuizaram a ação de exibição de documentos nº 0009616-36.2012.8.16.0170 (mov. 1.8, p. 04/09), narrando, em síntese, que o banco se negava a fornecer informações quanto ao procedimento instaurado para o recebimento das indenizações do PROAGRO relativas às Cédulas Rurais Pignoratícias acima mencionadas. Diante disso, pleitearam a apresentação de toda a documentação referente às regulações indenizatórias.
+O requerido apresentou contestação (mov. 1.17, p. 12/17), arguindo, inicialmente, a ausência de interesse de agir diante da inexistência de pedido extrajudicial para o fornecimento de documentos. No mérito, defendeu que não houve negativa de apresentação.
+Foi apresentada réplica (mov. 1.17, p. 23/25, e 1.18, p. 01).
+O pedido foi julgado procedente para determinar à instituição financeira a exibição dos documentos no prazo de trinta dias (mov. 1.18, p. 02/09), o que foi mantido em grau recursal (mov. 1.20, p. 11/18 - Apelação Cível nº 1.137.083-9), ocorrendo o trânsito em julgado em outubro de 2015 (mov. 1.21, p. 23).
+Iniciado o cumprimento de sentença (mov. 1.21, p. 25, e 1.22, p. 01), ao que consta, não houve manifestação do executado (mov. 1.22, p. 15 e 28).
+Em 30.08.2017, houve o ajuizamento desta demanda e o réu, na contestação (mov. 59.1), não apresentou nenhum documento quanto aos procedimentos de regulação dos sinistros.
+Após a audiência de instrução, porém, ele acostou alguns documentos (mov. 103.2/ 103.10), esclarecendo o seguinte:
+(..) Em tempo, informa o requerido que não possui cópia integral do processo de PROAGRO, visto que os documentos são encaminhados ao BACEN, e este não foram devolvidos pelo Banco Central até a presente data, motivo pelo qual justifica-se o requerimento de expedição de ofício ao BANCO CENTRAL DO BRASIL, realizado em audiência de instrução. (mov. 103.2)
+Os demandantes alegaram que a juntada da documentação é intempestiva e, de qualquer forma, está incompleta, porquanto não comprova a regularidade dos pagamentos parciais realizados (mov. 114.1).
+Ora, é incontroverso que o demandado efetuou dois depósitos relativos à Cédula Rural Pignoratícia nº 21/16061-9, nos seguintes valores e datas: (a) R$ 79.522,56, em 20.05.2016 (mov. 1.4); e (b) R$ 123.988,98, em 28.08.2018 (mov. 114.2).
+Ocorre que, mesmo após pedidos da parte autora (mov. 1.6 e 114.3), não houve explicação específica pelo apelante acerca da justificativa para o pagamento de tais montantes, tampouco comprovação de que foi assim determinado pelo Banco Central do Brasil.
+A defesa do demandado é genérica, sendo que foi reconhecida a preclusão quanto ao pedido de expedição de ofício ao BACEN (mov. 101.1), considerando que, desde a ação de exibição de documentos, cabia ao recorrente ter apresentado a documentação em juízo.
+De todo modo, não houve comprovação do regular processamento dos pedidos indenizatórios, limitando-se o requerido a afirmar que enviou os documentos ao BACEN. No entanto, não se sabe o motivo do pagamento das indenizações parciais, pois realizadas de forma unilateral, sem nenhuma explicação.
+Diante disso, restou demonstrada a falha na prestação do serviço do apelante, que culminou na ausência de pagamento das indenizações securitárias.
+(..) De fato, cabia ao demandado comprovar que adotou todas as medidas que estava a seu alcance para a regulação dos sinistros (art. 373, II, do CPC/2015), porém, ele permaneceu inerte.
+Aliás, a título argumentativo, anoto que Ricardo Antônio, em seu depoimento em juízo, relatou que o PROAGRO dos demandantes não foi cadastrado corretamente no sistema devido ("RECOR"), sendo que o réu não comprovou o contrário.
+Diante disso, deve ser mantido o reconhecimento da falha na prestação do serviço do recorrente.
+Assim, como visto, e argumentado pelos ora embargantes, não se trata de cobrança, propriamente, da indenização securitária, mas sim, de indenização pela falha na prestação do serviço - atribuída, pelas instâncias ordinárias, à instituição financeira ora embargada.
+Nesse contexto, a reforma do aresto a quo, para se concluir pela ilegitimidade passiva do então recorrente, ora embargado, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese. Precedentes.
+2. Verificar se o acervo probatório foi suficiente para embasar a decisão, se o autor trouxe aos autos provas robustas para demonstrar o fato constitutivo do seu direito ou se os demandados apresentaram fato impeditivo, modificativo ou extintivo do direito do autor, a fim de desconstituir as conclusões do Tribunal a quo, demandaria o reexame de todo o contexto probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.119.888/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/11/2017, DJe de 21/11/2017)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+ ..  2. Impossibilidade, em sede de recurso especial, de modificação do entendimento do Tribunal de origem no que se refere à legitimidade passiva da insurgente, pois tal análise exige o reexame da matéria de fatos e provas, o que encontra óbice na Súmula 7 do STJ.
+ ..  5. Agravo interno desprovido.(AgInt no AREsp 1324123/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. ILEGITIMIDADE PASSIVA. PRESCRIÇÃO. REDUÇÃO DO VALOR DA CONDENAÇÃO EM DANOS MORAIS. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1282741/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/08/2019, DJe 19/08/2019)
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
