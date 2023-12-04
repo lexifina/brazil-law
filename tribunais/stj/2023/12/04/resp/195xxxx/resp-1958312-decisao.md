@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+RECURSO DE AGRAVO DE INSTRUMENTO - AÇÃO DE INVENTÁRIO - ADIANTAMENTO QUINHÃO HEREDITÁRIO - MEDIDA EXCEPCIONAL - JUSTA CAUSA NÃO COMPROVADA PELAS AGRAVANTES - DISTRATO SOCIAL COM QUITAÇÃO DA COTA PARTE SOCIETÁRIA DA VIÚVA RECORRENTE - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+O adiantamento de quinhão hereditário é medida excepcional dentro do processamento do inventário e partilha, somente cabendo sua admissão quando comprovada a justa causa, além da inexistência de prejuízo às partes interessadas e à Fazenda Pública. Os argumentos de que o valor vindicado pela filha do de cujus (menor impúbere) lhe possibilitará o ingresso em escola particular não constitui motivo emergencial. Além disso, não está comprovado o perigo para a subsistência da criança no período de 1 (um) ano, caso não lhe seja disponibilizada a importância de R$ 50.000,00 (cinquenta mil reais) de imediato. O Distrato Social firmado pela viúva tem plena eficácia jurídica e, até prova em contrário, afasta a alegação de que possui haveres da empresa a receber. Logo, não há falarem adiantamento de quinhão hereditário nesta via estreita.
+Alega-se violação do artigo 647, parágrafo único, do Código de Processo Civil, sob o argumento de que a parte recorrente teria direito à antecipação de seu quinhão hereditário.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do mencionado dispositivo legal, pode o juiz, por decisão fundamentada, "deferir antecipadamente a qualquer dos herdeiros o exercício dos direitos de usar e de fruir de determinado bem (..)."
+O tribunal local, todavia, registrou e concluiu "que o adiantamento de quinhão hereditário é medida excepcional dentro do processamento de inventário e da partilha, somente cabendo sua admissão quando comprovada a justa causa, além da inexistência de prejuízo às partes interessadas e à Fazenda Pública.
+Com efeito, considera-se motivo justificável para o adiantamento da legítima durante o trâmite da Ação de Inventário as situações que representam perigo de vida ou outra que, de maneira alguma, pode aguardar a partilha dos bens. Sob esse aspecto, tenho que os argumentos da Agravante S. G. I. M. não configuram justa causa para a antecipação da quota-parte hereditária, haja vista que a inserção da criança em escola particular não constitui motivo emergencial.
+Ademais, verifica-se que nenhuma prova foi encartada aos autos para justificar o risco à subsistência da criança no período de 1 (um) ano, caso não lhe seja disponibilizado, desde logo, o valor de R$ 50.000,00 (cinquenta mil reais).
+Cabe consignar que a Recorrente possui outros 6 (seis) irmãos, todos maiores e capazes, e entre eles não foi possível a autocomposição, em que pese as várias tentativas de acordo (termos de audiências: ID. 30213026 e 36297804).
+Diante das provas coligidas aos autos, concluo, nesta quadra processual, pela ausência de justa causa apta a ensejar a concessão da tutela pretendida pela criança Recorrente" (e-STJ, fl. 318).
+Inequívoco, portanto, que para modificar as conclusões do acórdão local seria indispensável a incursão nos elementos informativos do processo, o que encontra o óbice de que trata o verbete n. 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
