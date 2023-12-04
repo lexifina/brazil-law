@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. DANOS MORAIS. ACIDENTE DE TRÂNSITO. FALECIMENTO DE GENITOR. GRAVES LESÕES. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais e de danos estéticos exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. Agravo interno desprovido.
+RELATÓRIO
+AMPLA ENERGIA E SERVIÇOS S.A. interpõe agravo interno contra a decisão de fls. 2.633-2.641, que negou provimento ao agravo em recurso especial em razão da inexistência de violação dos arts. 489 e 1.022 do CPC e da incidência da Súmula n. 7 do STJ.
+No presente recurso, a agravante reitera as razões relativas à violação dos arts. 489, II, e 1.022 do CPC.
+Defendendo ser desnecessário o revolvimento fático-probatório dos autos, insiste nas teses de que não foram preenchidos os requisitos configuradores do dano moral e de que o valor arbitrado a título de indenização por danos morais foi exorbitante.
+Requer, assim, o provimento do presente recurso a fim de que do recurso especial se conheça e, nessa extensão, seja provido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. DANOS MORAIS. ACIDENTE DE TRÂNSITO. FALECIMENTO DE GENITOR. GRAVES LESÕES. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais e de danos estéticos exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Reitere-se que, conforme exposto na decisão de fls. 2.633-2.641, foi afastada a alegada ofensa aos arts. 489, II, e 1.022 do CPC, porquanto a Corte de origem examinara e decidira, de modo claro e objetivo, as questões que delimitaram a controvérsia, não ocorrendo nenhum vício que pudesse nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se a tenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Quanto à pretendida indenização por danos morais, o Tribunal de origem manteve a sentença, que concluiu que o acidente de trânsito acarretara dano moral indenizável (fls. 2.132-2.133 e 2.136).
+As instâncias ordinárias basearam-se nas provas dos autos para concluir pela configuração do dano moral. Assim, para decidir em sentido contrário e reconhecer o não preenchimento dos pressupostos para a concessão da indenização pelos danos morais, é necessário o reexame do conjunto probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+O Tribunal de origem concluiu pela condenação da ora agravante ao pagamento dos valores de R$ 100.000,00 e de 150.000,00, respectivamente, a cada parte agravada a título de indenização por danos morais decorrentes do acidente de trânsito que causara sérias lesões aos agravados e ocasionara a morte do genitor da segunda agravada.
+Ainda que o quantum indenizatório fixado na instância ordinária submeta-se ao controle do Superior Tribunal de Justiça, tal providência somente é necessária na hipótese em que o valor da condenação seja irrisório ou exorbitante, distanciando-se, assim, das finalidades legais e da devida prestação jurisdicional no caso concreto.
+Observa-se, com base no conjunto fático delineado no voto condutor do julgado, que o valor indenizatório foi fixado com moderação, visto que não concorreu para o enriquecimento indevido da vítima e que foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e porte socioeconômico do causador dos danos.
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do apelo extremo implicaria reexame de questões fático-probatórias presentes nos autos, o que, no caso, é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+Nesse sentido, confira-se o precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. RECONSIDERAÇÃO. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INDENIZAÇÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DPVAT. DEDUÇÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 246/STJ. COMPROVAÇÃO DE RECEBIMENTO PELA VÍTIMA. DESNECESSIDADE. AGRAVO INTERNO PROVIDO PARA, EM RECONSIDERAÇÃO, CONHECER DO AGRAVO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, DAR-LHE PROVIMENTO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. No caso, o Tribunal de origem concluiu pela culpa concorrente, analisando as provas dos autos, especialmente o laudo pericial realizado pelo Instituto de Criminalística.
+3. No caso, não se mostra excessivo, a justificar sua reavaliação em recurso especial, o montante estabelecido pelo Tribunal de origem em R$ 300.000,00 (trezentos mil reais), a ser partilhado entre as três autoras, sendo proporcional aos danos sofridos (falecimento de E. C. M. (mãe e filha das autoras) em razão do acidente.
+4. O entendimento desta Corte é de que "a interpretação a ser dada à Súmula 246/STJ é no sentido de que a dedução do valor do seguro obrigatório da indenização judicialmente fixada dispensa a comprovação de seu recebimento ou mesmo de seu requerimento" (EREsp 1.191.598/DF, Relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 3/5/2017).
+5. Agravo interno provido, em juízo de reconsideração, a fim de conhecer do agravo para conhecer parcialmente do recurso especial e, na parte conhecida, dar-lhe provimento. (AgInt no AREsp n. 2.092.780/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023, destaquei).
+No caso, o arbitramento das verbas em destaque em R$ 100.000,00 e 150.000,00 não propicia a intervenção deste Tribunal.
+Portanto, a agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
