@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado por IVANI LUCIA RAMBO, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl.436):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO CONCEDIDO. AÇÃOTRABALHISTA. RECONHECIMENTO DE PARCELAS SALARIAIS. DECADÊNCIA.
+1. Definiu o Supremo Tribunal Federal (RE 626489) que a norma processual de decadência decenal incide a todos benefícios previdenciários concedidos, desde o dia primeiro do mês seguinte ao do recebimento da primeira prestação, a partir de 01/08/1997.
+2. O prazo decadencial para revisão de benefício previdenciário em decorrência de diferenças salariais encontradas em demanda trabalhista começa a correr na data do encerramento da ação na Justiça do Trabalho.
+Opostos dois embargos declaratórios, ambos foram rejeitados, com aplicação de multa por litigância de má-fé (fl. 474 e 586).
+Aponta a recorrente, nas razões do recurso especial, além de divergência jurisprudencial, violação dos arts. 80, I, V, e 81, §1º, e 313, do CPC, sustentando que "não restou evidenciado qualquer indício de má-fé por parte da Recorrente em sua conduta processual, .." (fl. 608).
+Defende que "O reconhecimento da litigância de má-fé pressupõe que a conduta da parte seja realizada na intenção de prejudicar ou obter vantagem indevida, o que em momento algum ocorreu no trâmite regular da presente demanda" (fl. 610).
+Afirma que "o momento em que configurado o direito à revisão nasceu com a homologação do acordo entre as partes (em 2005), onde restou consignado quais as diferenças devidas, que inclusive serviram de base de cálculo para os recolhimentos previdenciários, não havendo o que se falar em decadência do direito à revisão, diante do ajuizamento da demanda na origem em 2009" (fl. 617).
+O recurso especial fo negado seguimento nos termos dos arts. 1.030, I, "b" e 1.040, I do CPC, quanto à decadência e não foi admitido em relação à multa aplicada (fls. 648/652). Daí o agravo ora em exame (fls. 660/673).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A Corte de origem, ao julgar segundos embargos de declaração, decidiu por reconhecer a litigância de má-fé por parte da ora recorrente, com aplicação de sanção processual. Observe-se (fls. 589/590)
+Como é fácil perceber, o Tribunal Superior foi induzido em erro pelo segurado. É certo que houve declaração de nulidade do acórdão, mas a sua alegação estava nos autos e era em função dela que a Turma deveria proferir o novo julgamento. Porém, a tentativa de alteração da verdade dos fatos é óbvia.
+Daí a razão pela qual o segurado foi intimado:
+Então, antes de analisar a sua pretensão, defiro o prazo adicional de cinco dias para que ele indique o seu real interesse na apreciação dos embargos (o silêncio será interpretado como desistência). Se, ainda assim, houver insistência, retornem. Neste caso, porém, ele já estará ciente das penas previstas no artigo 81 do CPC (hipótese dos incisos II do artigo 80), em face da qual é irrelevante a concessão da gratuidade. Caso contrário ou no silêncio certifique-se o trânsito em julgado, comunique-se ao Juízo de origem e arquivem-se. Intime-se.
+O segurado embargou e afirmou que a Turma declarou que a demanda trabalhista "tramitou de 1994 a 1997, data final esta que destoa dos documentos juntados" aos autos. Segundo ele, ela teria tramitado pelo menos até 2005, data em que o acordo entre as partes foi homologado. Mas a Turma não afirmou que a fase de execução se encerrou naquela data. Expressamente foi declarado que naquela ocasião ocorreu a extinção da fase de conhecimento, evento a partir do qual o prazo decadencial fluiria, pouco importando o que ocorreu posteriormente.
+O acórdão é absolutamente expresso a esse respeito:
+Na espécie, considerando que a sentença proferida na Reclamatória Trabalhista transitou em julgado em 07/10/1996 (evento 3, anexos pet ini56,fl. 107) e que o ajuizamento da presente ação se deu em 05/08/2009,verifica-se  ..  ter se consumado a decadência ao direito de revisão do ato administrativo, sendo irrelevante, para fins de contagem do prazo, que após o trânsito em julgado tenha se iniciado o processo de execução perante a Justiça do Trabalho.
+Sem dúvida é falsa a alegação, que consta do Recurso Especial do segurado, segundo a qual " o  acórdão recorrido simplesmente ignorou a existência de referida sentença homologatória de acordo, e ao buscar o aclaramento através da oposição dos Embargos de Declaração, o Tribunal de Origem não se pronunciou sobre o ponto necessário para a controvérsia da lide" (grifo).
+Caso de incidência direta do inciso II do artigo 80 do CPC: "Considera-se litigante de má-fé aquele que alterar a verdade dos fatos". Como consequência, incide multa no montante de dois por cento e a indenização prevista no § 3º do artigo 81, arbitrada em vinte por cento (ambas sobre o valor da causa atualizado), em face das quais é irrelevante a concessão da gratuidade.
+Ante o exposto, voto por negar provimento aos embargos de declaração e aplicar multa por litigância de má-fé.
+Nesse contexto, a alteração das premissas que levaram à conclusão adotada pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido, cito os seguintes julgados:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 128 e 535 DO CPC/1973. DIREITO DE RETENÇÃO, NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. REPETIÇÃO DA PROVA PERICIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. COMODATO. EXTINÇÃO. OCUPAÇÃO EXCLUSIVA DE PARCELA DOS CONDÔMINOS. INDENIZAÇÃO. ALUGUÉIS. POSSIBILIDADE. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. MORA. CITAÇÃO. LITIGÂNCIA DE MÁ-FÉ. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+7. Sem incorrer na vedação da Súmula n. 7/STJ, não há como averiguar, em recurso especial, se os recorridos teriam praticado condutas merecedoras de multa por litigância de má-fé.
+ ..
+11. Recurso especial a que se nega provimento.
+(REsp n. 1.953.347/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 16/8/2022)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS RECURSA IS. NÃO CABIMENTO. OMISSÃO CONFIGURADA. DEMAIS VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No tocante à violação do art. 81, caput, e § 2º, do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou
+compreensão de que a litigância de má-fé restou caracterizada, o que resultou na aplicação de multa, nos termos do parágrafo 2º do artigo 81 do Código de Processo Civil de 2015. Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+ ..
+5. Embargos de declaração acolhidos, em parte, para sanar a omissão apontada, sem efeitos infringentes.
+(EDcl no AgInt no AREsp n. 1.355.844/PR, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/8/2019)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
