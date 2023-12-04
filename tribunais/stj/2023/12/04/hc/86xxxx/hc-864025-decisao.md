@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ROOSEVELT MORAES PIRES apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 0004577-46.2023.8.26.050).
+Foi o paciente condenado às penas de 40 anos, 6 meses e 26 dias de reclusão, regime inicial fechado, pela prática de tráfico internacional de entorpecentes, tráfico ilícito de entorpecentes, associação para o tráfico, uso de documento falso e falsidade ideológica.
+Na origem, foi deferido o pedido de progressão do réu ao regime semiaberto.
+Contra essa decisão insurgiu-se a defesa.
+Os desembargadores integrantes da Quarta Câmara de Direito Criminal deram provimento ao recurso para cassar a decisão singular, determinando o retorno do acusado ao regime fechado e a realização de exame criminológico.
+No Superior Tribunal de Justiça, sustenta a defesa que "o Tribunal coator não agiu com o acerto que lhe é peculiar por claras razões, mesmo porque o PACIENTE havia cumprido o requisito objetivo em 05/05/2023, sem o cometimento de falta grave nos últimos 12 (doze meses), bem como não se tratando de crime violento". Além disso, ressaltou o "fato de estar o paciente ordeiramente há 02 (dois) meses cumprindo pena em regime semiaberto, estando em pleno processo de ressocialização" (e-STJ fl. 4).
+Pondera ter o acórdão apontado como coato r se baseado "na gravidade abstrata do delito e no tempo de prisão a cumprir, o que não pode ser permitido, sob pena de se transformar a exceção em regra" (e-STJ fl. 6).
+Assere que o acórdão local "nada trouxe de concreto aos autos para dar sustentáculos à necessidade do pedido de realização do exame criminológico à progressão. Em verdade, foi proferida genericamente, realizando um verdadeiro malabarismo hermenêutico com o fito de justificar o injustificável" (e-STJ fl. 10).
+Diante dessas considerações, pede, em liminar, possa o paciente aguardar no regime semiaberto a realização do exame criminológico.
+No mérito, busca seja cassado do acórdão que determinou o retorno do sentenciado ao regime fechado, restabelecendo-se o regime intermediário, independentemente da realização de exame criminológico.
+Indeferido o pedido de liminar (e-STJ fls. 323/324) e prestadas as informações solicitadas (e-STJ fls. 330/355); o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 357/365).
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à aferição de requisito subjetivo para fins de progressão de regime.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas, como requisitos legais, o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+No caso dos autos, o Tribunal de origem, ao dar provimento ao agravo em execução interposto pelo Ministério Público, entendeu não estar preenchido o requisito subjetivo, com os seguintes fundamentos (e-STJ fls. 318/319):
+De sorte que, toda vez que necessário se faça para a completa elucidação do caso a realização daqueles exames, poderá e deverá o magistrado, ainda à falta de regulamentação pela nova forma do art. 112 da L. E. P., usar-se de elementos obtidos por meio daqueles exames, desde que motivada a decisão.
+Afinal, trata-se de sentenciado cumprindo pena pela prática reiterada de crimes graves, gravíssimos tráfico internacional de entorpecentes e tráfico ilícito de entorpecentes, além de associação para o tráfico, que, indubitavelmente, coloca em desassossego a sociedade.
+Donde a cautela e prudência que devem nortear as decisões que eventualmente concedam progressão a esta espécie de condenado.
+Não se encontra suficientemente esclarecida nos autos a capacitação, em si, do sentenciado, ou seu merecimento, para obtenção do benefício.
+ ..
+Tratando-se de delitos graves, como aqui se trata, alguns deles equiparados a hediondos, com pena alta a descontar, toda prudência será necessária para colocar o cidadão de volta ao convívio social.
+Quando se trata de progressão prisional, mister que se avalie a real e efetiva possibilidade do sentenciado vir a se adaptar a um novo regime.
+Nessas circunstâncias, verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que, ao concluir pelo não preenchimento do requisito subjetivo, o Tribunal de origem extrapolou as exigências legais para criar óbice ao benefício, deixando de invocar elementos concretos recentes do curso da execução que pudessem afastar a decisão do Magistrado de piso.
+Do excerto acima, vê-se que a Corte estadual levou em conta a gravidade abstrata dos delitos praticados e a longa pena a cumprir, o que, segundo a jurisprudência do Superior Tribunal de Justiça, não constitui fundamentação idônea para negar a progressão de regime.
+A propósito, confira-se o seguinte precedente:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO PARA O REGIME SEMIABERTO DEFERIDA PELO JUÍZO DAS EXECUÇÕES PENAIS. CASSAÇÃO PELA CORTE DE ORIGEM COM BASE, TÃO SOMENTE, NA GRAVIDADE ABSTRATA DO DELITO, LONGA PENA A CUMPRIR E REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Na espécie, a progressão do reeducando para o regime aberto foi cassada pelo Tribunal de origem com fundamento, tão somente, na gravidade abstrata do delito pelo qual foi condenado o paciente, longa pena a cumprir e reincidência.
+3. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para, cassando o acórdão proferido no Agravo em Execução Penal n. 9000277-23.2017.8.26.0047, restabelecer a decisão do Juízo da Vara de Execuções Criminais, concessiva do regime semiaberto ao paciente, desde que não existam óbices supervenientes, impeditivos da concessão da benesse.
+(HC n. 444.132/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/5/2018, DJe de 30/5/2018, grifei.)
+Dessa forma, não havendo fundamento que demonstre, efetivamente, o demérito do condenado para afastar o preenchimento do requisito subjetivo, deve ser reconhecida a ilegalidade do acórdão.
+Ante o exposto, concedo a ordem para cassar o acórdão proferido no julgamento do Agravo de Execução Penal n. 0004577-46.2023.826.0509 e, consequentemente, restabelecer a decisão do Juízo das execuções que promoveu o ora paciente ao regime semiaberto.
+Publique-se. Intimem-se.
+EMENTA
