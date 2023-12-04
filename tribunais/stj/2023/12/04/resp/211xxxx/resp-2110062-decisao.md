@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por REGINALDO OLIVEIRA SILVA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fls. 143/144):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA E CONDENATÓRIA. REGISTRO EMCADASTRO DE INADIMPLENTES. DEMONSTRAÇÃO DENOTIFICAÇÃO PRÉVIA. VALIDADE DA NOTIFICAÇÃO REALIZADAPOR E-MAIL. DANO MORAL NÃO CONFIGURADO.
+1) A comunicação prévia ao consumidor acerca da anotação em banco de dados de proteção ao crédito, em virtude de pendência de pagamento de dívida, é essencial para que se possa exercer o direito de purgar a mora, bem assim para evitar as restrições decorrentes do registro
+2) Segundo orientação jurisprudencial consolidada, a inscrição indevida é causa de dano moral in re ipsa, ou seja, independe de comprovação do prejuízo, uma vez presumível a lesão a direito de personalidade. O prejuízo somente se presume afastado quando preexistente legítima inscrição, consoante o verbete nº 385 da súmula de jurisprudência do superior tribunal de justiça.
+3) Não há necessidade de assinatura do devedor em aviso de recebimento de comunicação sobre o registro em órgãos de proteção ao crédito, bastando o envio de correspondência simples (Súmula 404 do STJ).
+4 ) A lei não estabelece a forma pela qual deverá ser realizada a notificação, seja por carta com aviso de recebimento, carta simples, SMS, ou e-mail, mas exige apenas que seja realizada por escrito.
+5) Na hipótese de o credor fornecer endereço/telefone equivocado, ou não comunicar eventual alteração, é dele a responsabilidade pela ausência de veracidade da informação, não do órgão arquivista do cadastro, único demandado.
+6) Considerando a correta a notificação da parte autora acerca das inscrições em seu nome nos bancos de dados da ré, mostra-se regular a disponibilização dos registros por parte do órgão de proteção ao crédito. E, constatada as anotações pertinentes no cadastro restritivo de crédito da demandada, descabido o (e-STJ Fl.143) Documento recebido eletronicamente da origem 5195285-12.2022.8.21.000120004081003. V5pedido de indenização por dano moral.
+NEGARAM PROVIMENTO À APELAÇÃO.
+Em suas razões recursais, a parte recorrente alega ofensa ao arts. 42, §2º, do Código de Defesa do Consumidor e divergência jurisprudencial em relação ao mesmo dispositivo, sustentando, em síntese, que não há que se falar em validade da notificação de inscrição em cadastro de inadimplentes realizada via sms ou e-mail, por entender que não estão atendidos os requisitos formais exigidos pelo supramencionado artigo do CDC.
+É o relatório. Decido.
+A irresignação merece prosperar.
+O Tribunal de origem, analisando as circunstâncias do caso, concluiu pela validade do notificação da inscrição no cadastro de inadimplentes, enviada por e-mail, como se infere do trecho abaixo transcrito (e-STJ, fl. 139):
+"Na espécie, restou demonstrado pela parte requerida que houve notificação do demandante, por e-mail, com relação as cobranças da "LIFTCRED SECURIT CREDFINANCEIROS SA", no valor de R$ 1.770,25, com data de ocorrência 11/05/2018, e do "NUPAGAMENTOS S. A.", no valor de R$ 1.108,40, com data de ocorrência 12/05/2018 (evento 13,NOT2 e NOT3).
+Frisa-se ainda que, no caso em apreciação, foram acostados os comprovantes de envio de todos e-mails (evento 13, NOT4 e  NOT2  , p.3)."
+Ocorre que a jurisprudência desta Corte vem se firmando no sentido de que, "A partir de uma interpretação teleológica do §2º, do art. 43, do CDC, e tendo em vista o imperativo de proteção do consumidor como parte vulnerável, conclui-se que a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva através de e-mail ou mensagem de texto de celular (SMS)." (REsp n. 2.056.285/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 25/4/2023, DJe de 27/4/2023.) Nesse sentido:
+"RECURSO ESPECIAL. CONSUMIDOR. CADASTRO DE PROTEÇÃO AO CRÉDITO. PRÉVIA NOTIFICAÇÃO. NECESSIDADE. NOTIFICAÇÃO POR E-MAIL. IMPOSSIBILIDADE. NECESSIDADE DE CORRESPONDÊNCIA AO ENDEREÇO DO CONSUMIDOR. DANO MORAL. CONFIGURAÇÃO. ARBITRAMENTO. MÉTODO BIFÁSICO.
+(..)
+6. A partir de uma interpretação teleológica do §2º, do art. 43, do CDC, e tendo em vista o imperativo de proteção do consumidor como parte vulnerável, conclui-se que a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva através de e-mail.
+7. Na hipótese dos autos, merece reforma o acórdão recorrido, com o cancelamento da inscrição mencionada na inicial, pois, à luz das disposições do CDC, não se admite a notificação do consumidor, exclusivamente, através de e-mail.
+(..)
+11. Recurso especial conhecido e provido para julgar procedentes os pedidos formulados na presente ação, determinando o cancelamento da inscrição mencionada na exordial e condenando a ré ao pagamento de compensação por danos morais no valor de R$ 10.000,00 (dez mil reais), com juros de mora desde o evento danoso e correção monetária a partir da data do arbitramento."
+(REsp n. 2.069.520/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+Estando a decisão em sentido oposto ao da jurisprudência desta Corte, o recurso especial comporta provimento.
+Ante o exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem, para que julgue a demanda à luz da jurisprudência do STJ.
+Publique-se.
+EMENTA
