@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ADITAMENTO ÀS RAZÕES DE APELAÇÃO. IMPOSSIBILIDADE, PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, " u ma vez interposta a apelação, a prática de novo ato processual com o objetivo de aditar às razões já apresentadas fica obstada em razão da preclusão consumativa, conforme firme orientação jurisprudencial deste Superior Tribunal" (AgRg no AgRg no AREsp n. 1.737.896/SC, relator Ministro Rogerio Schietti, Sexta Turma, , DJe de 22/11/2021.)
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANACREONTE JOSE CORDEIRO agrava da decisão de fls. 32-33, em que indeferi liminarmente o habeas corpus para manter a decisão que determinou o desentranhamento do aditamento oferecido às razões de apelação.
+Para tanto, assere que, " a o contrário do que erroneamente foi assinalado pelo em. Desembargador na origem, quando a Defesa foi intimada para apresentação das razões de apelação, protocolou-se questão de ordem pública e, inclusive, prejudicial à análise de mérito, para que fosse reconhecida, exclusivamente, a ocorrência da prescrição da pretensão punitiva" (fl. 41).
+Requer, assim, "acaso vencido o juízo de retratação, o provimento do presente agravo regimental para conceder a ordem de habeas corpus determinando a i) a juntada das razões de apelação, que foram apresentadas e desentranhadas do processo, determinando-se, por conseguinte, novo julgamento; ou ii) determinar a reabertura do prazo para tal finalidade e, tão somente após cumprido o ato, submeter o feito a julgamento, resguardando o princípio da ampla defesa, do contraditório e do duplo grau de jurisdição" (fl. 46).
+AgRg no HABEAS CORPUS Nº 860.295 - PE (2023/0368249-8)
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ADITAMENTO ÀS RAZÕES DE APELAÇÃO. IMPOSSIBILIDADE, PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, " u ma vez interposta a apelação, a prática de novo ato processual com o objetivo de aditar às razões já apresentadas fica obstada em razão da preclusão consumativa, conforme firme orientação jurisprudencial deste Superior Tribunal" (AgRg no AgRg no AREsp n. 1.737.896/SC, relator Ministro Rogerio Schietti, Sexta Turma, , DJe de 22/11/2021.)
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, Informa a defesa que, " e m 21 de novembro de 2019, o Paciente foi condenado pelo Juízo da Vara dos Crimes Contra a Administração Pública e as Ordem Tributária da Capital /PE pela suposta prática do delito descrito no art. 1º, inciso II, da Lei n.º 8.137/90, em continuidade delitiva (art. 71 do Código Penal).  ..  Inconformado, o Paciente tempestivamente interpôs termo de Recurso de Apelação, pugnando pela apresentação de razões em superior instância" (fl. 4).
+Consoante asseverou o Magistrado de segunda instância, "exarei decisão indeferido pedido da defesa para reabertura do prazo para o oferecimento das razões recursais, considerando que a parte já havia se manifestado nos autos no curso do prazo estabelecido no §4º, do art.600 do CPP, apresentando os fundamentos do seu pleito recursal às fls.623/625, afigurando-se a pretensão defensiva em mera tentativa de aditamento das razões recursais oferecidas. Diante disso, por entender configurada a preclusão consumativa, determinei o prosseguimento do feito, com a sua inclusão em pauta para julgamento,  ..  Ora, não se trata de apresentação extemporânea das razões recursais, como pretende fazer entender os subscritores do petitório em questão, mas sim de mera tentativa em complementar os fundamentos das razões recursais antes apresentadas, o que se mostra incabível, conforme já decidido" (fl. 12, grifei).
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, " u ma vez interposta a apelação, a prática de novo ato processual com o objetivo de aditar às razões já apresentadas fica obstada em razão da preclusão consumativa, conforme firme orientação jurisprudencial deste Superior Tribunal" (AgRg no AgRg no AREsp n. 1.737.896/SC, relator Ministro Rogerio Schietti, Sexta Turma, , DJe de 22/11/2021.)
+À vista do exposto, nego provimento ao recurso.
