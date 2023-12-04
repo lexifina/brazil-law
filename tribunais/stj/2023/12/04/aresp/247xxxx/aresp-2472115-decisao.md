@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por ADRIANO PEREIRA SUBIRA contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional para desafiar acórdão assim ementado (e-STJ fl. 160):
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RAV. AÇÃO COLETIVA Nº 0002767- 94.2001.4.01.3400 (2001.34.00.002765-2). MANDADO DE SEGURANÇA INDIVIDUAL. COISA JULGADA.
+1. Verificada a formação de coisa julgada entre as partes, em ação mandamental individual, sobre a mesma matéria tratada no título coletivo, tendo sido denegada a segurança no processo individual, não há interesse processual da parte exequente em executar o título judicial que embasa o cumprimento de sentença originário.
+2. Versando ambas as demandas sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, é inegável a existência de coisa julgada nos Mandados de Segurança previamente impetrados, restando vedada a execução do título judicial formado na ação coletiva nº 0002767- 94.2001.4.01.3400 (2001.34.00.002765-2), ajuizada pelo Sindicato Nacional dos Técnicos da Receita Federal - SINDTTEN.
+Acolhidos os aclaratórios da executada; rejeitados os do exequente (e-STJ fls. 204/208).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 337, VII, §§ 1º, 2º e 4º, 489, § 1º, VI, 503, § 2º, 505, 508, 927, V, 1.022, I e II, do CPC/2015 e 14, § 4º, da Lei n. 12.016/2009, sustentando negativa de prestação jurisdicional, inexistência de coisa julgada a inviabilizar sua pretensão, bem como que não observado precedente emanado desta Corte Superior.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, destacou a Corte de origem o seguinte (e-STJ fls. 167/168, com destaques no original):
+Inaplicáveis tanto o disposto no art. 104 do CDC, como a renúncia tácita aos efeitos da ação coletiva, resta saber se estaria caracterizada a ofensa ao instituto da coisa julgada.
+Como referido, ambas as demandas, individual e coletiva, têm por objeto diferenças a título de Retribuição Adicional Variável devidas aos Técnicos do Tesouro Nacional, devidas pelo afastamento da Resolução CRAV 001/95.
+Necessário relembrar os períodos postulados nas demandas transitadas em julgado:
+- Mandado de Segurança individual 96.0012381-0, a partir 07/1996.
+- Ação Coletiva: de 01/1996 a 06/1999.
+Esta Corte Regional reconhece a eficácia preclusiva da coisa julgada quando o pedido final das demandas for o mesmo, embora a abordagem/fundamentação possa ser distinta, verbis:
+ ..
+Do relato efetuado no item 1 desta fundamentação, percebe-se que as demandas em comento têm, em última análise, identidade de seu principal fundamento, eis que buscam o direito ao pagamento da RAV nos moldes da MP nº 831/95 como decorrência do afastamento da Resolução CRAV nº 001/95, com manutenção do pagamento da RAV no limite de até oito vezes o equivalente ao vencimento básico dos Técnicos do Tesouro Nacional.
+Destarte, inegável que as demandas em questão versam sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, ainda que com abordagem/fundamentação parcialmente distinta, de maneira que se operou a coisa julgada quanto à matéria, porém apenas em parte, no tocante ao período em comum, ou seja, a partir de 07/1996.
+No que toca à alegada contrariedade aos arts. 927, V, do CPC/2015 e 14, § 4º, da Lei n. 12.016/2009, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, em relação ao apontado art. 927, V, do CPC/2015, percebe-se que esse dispositivo não diz respeito diretamente à tese, desenvolvida no apelo nobre, de inobservância de precedente oriundo de Corte superior, o que revela a deficiência de fundamentação nesse particular, a ensejar o óbice de conhecimento encartado na já referida Súmula 284 do STF.
+No mais, entendeu a Corte a quo, como visto acima, que existente " ..  coisa julgada quando o pedido final das demandas for o mesmo, embora a abordagem/fundamentação possa ser distinta" (e-STJ fls. 168).
+Assim, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b" do RISTJ CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
