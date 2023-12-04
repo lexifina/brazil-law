@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/11/2023 a 04/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. É sabido que "não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (EDcl no AgInt nos EREsp 1.763.376/TO, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/2/2022, DJe 22/2/2022).
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por TECHWASH CENTRO AUTOMOTIVO LTDA. ao acórdão da Terceira Turma desta Corte assim ementado (e-STJ, fl. 784):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. VIOLAÇÃO AOS ARTS. 11, 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. DISPOSITIVOS DE LEI TIDOS COMO VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. AUSÊNCIA DAS CONDIÇÕES. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+2. A ausência de discussão pelo Tribunal local acerca da tese ventilada no recurso especial acarreta a falta de prequestionamento, atraindo a incidência da Súmula n. 211/STJ.
+3. Consoante jurisprudência desta Corte Superior, a "admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC/2015 para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp n. 2.029.476/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+4. Na espécie, a revisão do julgado recorrido, sobretudo em relação à presença de responsabilidade civil da ora recorrente, seja como empregador ou como proprietário do lava-rápido, exigiria o revolvimento de cláusulas contratuais e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas n. 5 e 7 desta Corte.
+5. Agravo interno improvido.
+Em suas razões, a embargante alega violação ao devido processo legal e "ausência de manifestação adequada acerca de relevantes elementos fáticos e probatórios mencionados pela empresa embargante, representando omissões e obscuridades não supridas" (e-STJ, fl. 802).
+Ademais, reitera a argumentação de não ser parte legítima para figurar no polo passivo da demanda, bem como não ter responsabilidade de indenizar regressivamente a seguradora.
+Foi apresentada impugnação ao recurso às fls. 810-817 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. É sabido que "não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (EDcl no AgInt nos EREsp 1.763.376/TO, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/2/2022, DJe 22/2/2022).
+3. Embargos de declaração rejeitados.
+VOTO
+O inconformismo não merece prosperar.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Na hipótese, a embargante suscita vício sem estabelecer a necessária conexão dialética entre o acórdão de desprovimento do seu recurso e estes aclaratórios, alegando omissão em relação aos elementos fáticos e probatórios dos autos.
+No caso, verifica-se que as razões destes embargos não evidenciam nenhum vício referente ao acórdão recorrido, uma vez que o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta a desate, sobretudo ao assentar que a revisão do julgado recorrido, em relação à presença de responsabilidade civil da ora recorrente, seja como empregador ou como proprietário do lava-rápido, exigiria o revolvimento de cláusulas contratuais e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas n. 5 e 7 desta Corte.
+Ademais, destacou-se, ainda, que as matérias alusivas aos arts. 932, III, e 945 do Código Civil; 17 e 485, VI, do Código de Processo Civil, da forma em que foram apresentadas no apelo excepcional, não foram objeto de apreciação pelo Tribunal estadual, caracterizando-se a ausência de prequestionamento - a atrair a incidência da Súmula 211/STJ.
+Em face disso, ressai evidente que a pretensão da embargante não merece guarida.
+O verdadeiro propósito dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa já devidamente decidida. A atribuição de efeito modificativo aos embargos é providência de caráter excepcional, incompatível com hipótese como a dos autos, que revela tão somente o inconformismo da parte com o julgado.
+Assim, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido.
+Ademais, observa-se que "não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (EDcl no AgInt nos EREsp 1.763.376/TO, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/2/2022, DJe 22/2/2022).
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
