@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 46):
+AGRAVO DE INSTRUMENTO. "EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL DE ENCARGOS CONDOMINIAIS". DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE, RECONHECENDO A LEGITIMIDADE ATIVA DO CONDOMÍNIO. RECURSO DA EXECUTADA. ILEGITIMIDADE ATIVA. ANTECIPAÇÃO DO VALOR DAS TAXAS CONDOMINIAIS POR EMPRESA PRESTADORA DE SERVIÇOS. HIPÓTESE DE PAGAMENTO EFETUADO POR TERCEIRO NÃO INTERESSADO. ILEGITIMIDADE ATIVA DO CONDOMÍNIO PARA PLEITEAR A COBRANÇA DAS DESPESAS CONDOMINIAIS CORRESPONDENTES AO PERÍODO DE ADMINISTRAÇÃO PELA EMPRESA. ADMINISTRADORA CONTRATADA PARA ADIANTAR AS COTAS CONDOMINIAIS A PARTIR DE MAIO DE 2017. LEGITIMIDADE DO CONDOMÍNIO PARA COBRAR AS TAXAS CONDOMINIAIS INADIMPLIDAS NO PERÍODO DE NOVEMBRO DE2016 A ABRIL DE 2017. PROCESSO PARCIALMENTE EXTINTO SEM RESOLUÇÃO DE MÉRITO (ART. 485, VI, CPC), APENAS QUANTO ÀS TAXAS CONDOMINIAIS NÃO PAGAS A PARTIR DE MAIO DE 2017. RECURSO CONHECIDO EM PARTE E, NA EXTENSÃO, PARCIALMENTE PROVIDO.
+Em suas razões (e-STJ fls. 53/73), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 12, 22 da Lei n. 4.591/64, 286, 290, 347, I, e 1.345 do CC/2002.
+Defende sua legitimidade ativa para cobrança judicial das taxas condominiais inadimplidas e ressalta que "reconhecer que houve satisfação do crédito por parte da administradora, e que o Condomínio não possui interesse e legitimidade é decisão que merece ser revista, é ofertar tratamento desigual entra as partes, em prejuízo da coletividade, em benefício do devedor inadimplente" (e-STJ fl. 59).
+Afirma que não houve cessão de crédito, pois "a sub-rogação deve vir expressa no ajuste entabulado entre as partes, pois, do contrário, não há falar-se na transferência de direitos, permanecendo o titular originário do crédito como parte legítima para ingressar com a ação de cobrança" (e-STJ fl. 61).
+Ao final, requer o provimento do recurso para "REFORMAR o v. acórdão recorrido, considerando a LEGITIMIDADE ATIVA DO CONDOMÍNIO, condenando-se o Recorrido ao pagamento das taxas de condomínio vencidas" (e-STJ fl. 73).
+Contrarrazões não apresentadas (e-STJ fl. 131).
+O recurso foi admitido na origem (e-STJ fls. 148/150).
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 47/50):
+Pois bem, conforme demonstrado pela executada, e não impugnado pelo Condomínio exequente, em 30 de maio de 2017, houve a contratação da empresa de administração e antecipação de taxas condominiais, Romalevi Cobranças S/C Ltda. pelo Condomínio Mondo Viveiro (mov. 30.4). Conforme consta do instrumento contratual, o objeto do negócio foi "a cobrança de taxas condominiais, mediante o sistema de antecipação de quotas pela Contratada, independente do pagamento do débito pelos condôminos, na forma das cláusulas abaixo pormenorizadas" (sic).
+Assim, é mister reconhecer que o autor sub-rogou seus créditos à empresa garantidora, pois as provas produzidas nos autos comprovam que a terceirizada promovia a antecipação do crédito relativo às despesas condominiais em prol do Condomínio.
+O que se denota é que o sistema de antecipação de contas, por qualquer ótica que se o analise, subtrai do Condomínio legitimidade ativa ad causam para ingressar com demanda de cobrança de taxas condominiais no período de vigência do Contrato firmado com a garantidora.
+(..)
+Depreende-se da Cláusula 8.ª, caput e parágrafo primeiro do instrumento contratual, que a administração é exercida pela empresa desde maio de 2017, tendo prazo determinado de 12 (doze) meses, com renovação automática por iguais períodos sucessivos, salvo seja denunciada, por escrito, por qualquer das partes, com antecedência mínima de 120 dias (cento e vinte) dias do seu vencimento:
+(..)
+Assim, deve ser reconhecida a ilegitimidade ativa da exequente para cobrar as cotas condominiais a partir da celebração do contrato (maio), extinguindo-se parcialmente o mérito, nos termos dos artigos/2017356, inciso I e 485, inciso VI, ambos do Código de Processo Civil.
+O entendimento está em dissonância com o desta Corte, segundo o qual "o condomínio é parte legítima para figurar no polo ativo da ação de cobrança, pois o fato de se valer de empresa especializada para cobrança de taxas de condomínio, mediante sistema de antecipação de pagamento do débito pelos condôminos, não constitui sub-rogação ou cessão de crédito em favor desta, se não expressamente convencionado". (AgInt no REsp n. 1.701.683/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/6/2021, DJe de 17/6/2021.) Eis a ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE CONTRÁRIA. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Esta Corte Superior tem entendimento firmado no sentido de que o condomínio é parte legítima para figurar no polo ativo da ação de cobrança, pois o fato de se valer de empresa especializada para cobrança de taxas de condomínio, mediante sistema de antecipação de pagamento do débito pelos condôminos, não constitui sub-rogação ou cessão de crédito em favor desta, se não expressamente convencionado. 1.1. No caso, os autos informam que o agravado apenas contratou a empresa de cobrança para efetuar a busca do crédito, não havendo prova acerca da existência da cessão de crédito ou da sub-rogação das cotas condominiais inadimplidas, razão pela qual o condomínio tem legitimidade ativa para efetuar a cobrança das despesas condominiais.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.701.683/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/6/2021, DJe de 17/6/2021.)
+Na mesma linha de entendimento, anote-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. COBRANÇA DE COTAS CONDOMINIAIS. LEGITIMIDADE ATIVA. SUB-ROGAÇÃO. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, inexistindo convenção expressa do direito de sub-rogação ou cessão de crédito, a antecipação dos valores referentes às taxas condominiais à empresa garantidora não afasta a legitimidade do condomínio para a cobrança do débito em atraso.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.074.243/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. ART. 6º DA LINDB. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. LEGITIMIDADE DO CONDOMÍNIO PARA COBRANÇA. SUB-ROGAÇÃO. AUSÊNCIA. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Segundo a remansosa jurisprudência desta Corte, a matéria de que trata o art. 6º da Lei de Introdução às Normas do Direito Brasileiro tem índole nitidamente constitucional, razão pela qual sua apreciação desborda dos limites normativos do recurso especial.
+2. " O condomínio é parte legítima para figurar no polo ativo da ação de cobrança, pois o fato de se valer de empresa especializada para cobrança de taxas de condomínio, mediante sistema de antecipação de pagamento do débito pelos condôminos, não constitui sub-rogação ou cessão de crédito em favor desta, se não expressamente convencionado". Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.124.153/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 17/3/2023.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para reconhecer a legitimidade ativa do condomínio recorrente.
+Publique-se e intimem-se.
+EMENTA
