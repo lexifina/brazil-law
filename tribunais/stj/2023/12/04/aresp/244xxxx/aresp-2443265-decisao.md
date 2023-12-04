@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por BOA VISTA SERVICOS S.A. em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA E CONDENATÓRIA.
+DISPONIBILIZAÇÃO DE INSCRIÇÃO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. AUSENTE PROVA DA PRÉVIA NOTIFICAÇÃO. DANOS MORAIS CONFIGURADOS.
+1) A comunicação prévia ao consumidor acerca da anotação em banco de dados de proteção ao crédito, em virtude de pendência de pagamento de dívida, é essencial para que se possa exercer o direito de purgar a mora, bem assim para evitar as restrições decorrentes do registro 2) Segundo orientação jurisprudencial consolidada, a inscrição indevida é causa de dano moral in re ipsa, ou seja, independe de comprovação do prejuízo, uma vez presumível a lesão a direito de personalidade. O prejuízo somente se presume afastado quando preexistente legítima inscrição, consoante o verbete nº 385 da súmula de jurisprudência do superior tribunal de justiça.
+3 ) Não há necessidade de assinatura do devedor em aviso de recebimento de comunicação sobre o registro em órgãos de proteção ao crédito, bastando o envio de correspondência simples (Súmula 404 do STJ).
+4) Caso dos autos em que a apelada não se desincumbiu do ônus que lhe competia, de demonstrar a prévia notificação da autora acerca da inscrição mais antiga impugnada nesta demanda, a teor do disposto no art. 373, II, do CPC c/c art. 6º VIII, do CDC, de forma que deve ser reconhecida a irregularidade da anotação, bem como determinada a sua baixa.
+5) Considerando que as inscrições consideradas regulares, discutidas nesse processo - de jan/15 e out/18 - foram posteriores a declarada irregular, bem assim que inexiste provas acerca da existência de inscrições preexistentes válidas em nome da demandante, descabe a aplicação da Súmula 385 do STJ.
+6) Constatada a irregularidade da anotação pertinente no cadastro restritivo de crédito, cabível a indenização por dano moral.
+7) Analisando as peculiaridades da situação posta em julgamento, somado aos parâmetros adotados nesta Câmara para a fixação de indenização em hipóteses semelhantes, afigura-se adequado o valor indenizatório de R$ 5.000,00.
+NEGARAM PROVIMENTO À APELAÇÃO DA RÉ E DERAM PROVIMENTO AO RECURSO ADESIVO DA AUTOA." (fls. 196-197).
+Os embargos de declaração foram rejeitados (fls. 225-229).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 373, II, do Código de Processo Civil de 2015 e 43, § 2º, do Código de Defesa do Consumidor, bem como divergência jurisprudencial; sustentando, em síntese, a satsfação do ônus probatório a respeito da prévia comunicação à consumidora, ora recorrida, sobre a negativação de seu nome em cadastros de inadimplentes.
+Não foram apresentadas contrarrazões ao apelo nobre (certidão de fl. 291).
+É o relatório.
+O eg. Tribunal de origem consigna que a recorrente "relativamente à inscrição discutida - Banco IBI, de 21/12/2014 -, não aportou nos autos qualquer cópia da carta de notificação, mas apenas prints da tela sistêmica da ré, indicando os dados da inscrição no sistema (Evento 3, Processo Judicial 1, fl. 28). Assim, na medida em que inexiste, no caderno processual, carta ou e-mail com as informações necessárias ao consumidor relativas à dívida do Banco IBI, tenho que a sentença de origem, que determinou a baixa da anotação da respectiva, diante de sua irregularidade, deve ser mantida." (fl. 201).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a ausência de comprovação da notificação prévia da consumidora a respeito da negativação de seu nome, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
