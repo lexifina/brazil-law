@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto por Aldene Alves Lima contra decisão da Corte de origem que inadmitiu o recurso especial ante a incidência das Súmulas 211/STJ, inviabilidade de apreciação de dispositivo e princípios constitucionais, ante a competência do STF e incidência da Súmula 284/STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 705):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PASEP. LEGITIMIDADE DO BANCO DO BRASIL RECONHECIDA NA SENTENÇA. REITERAÇÃO DOS TERMOS DA INICIAL. IRREGULARIDADE FORMAL QUE IMPEDE O CONHECIMENTO DO RECURSO. PRINCÍPIO DA DIALETICIDADE RECURSAL. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DA SENTENÇA. IMPUGNAÇÃO GENÉRICA. APELO NÃO CONHECIDO.
+1-Ao recorrente incumbe o dever de atacar especificamente os pontos que deseja ver reformados na sentença, sob pena de afronta ao art. 1.010, II e III, do Código de Processo Civil.
+2-A mera repetição da inicial com adendos que não desafiam de frente os fundamentos da sentença não preenche a exigência legal, na medida em que a apelação é recurso contra a sentença. Trata-se de clara afronta ao princípio da dialeticidade recursal.
+3-Ademais, a impugnação genérica ao resultado da demanda contido na sentença, por não refletir questionamento aos fundamentos utilizados no decisum atacado, revela a não observância dos requisitos formais exigidos pela lei, pela ausência de regularidade formal, obstando o conhecimento do recurso.
+4-Apelo não conhecido.
+No recurso especial, a recorrente alega violação dos artigos 3º e 4º do Decreto n. 71.618/1972 do Decreto n. 71.618/1972 e 5º da LC n. 8/1970, sob os seguintes argumentos: (a) legitimidade passiva do Banco do Brasil, uma vez que a União é responsável pelos depósitos relativos ao PASEP na instituição bancária, a quem compete a gestão dos recursos, especialmente no que tange à correção monetária e juros; (b) a discussão versa sobre a falta de correção monetária e juros sobre o valor depositado, bem como acerca da realização de saques indevidos; (c) aplicação errônea da Súmula 77 do STJ, a qual incide apenas em demandas que discutem a realização ou não de depósitos pela União e não a correção e atualização de valores; (d) compete ao Banco de Brasil a administração do Programa de Formação do Patrimônio do Servidor Público.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Sobreveio decisão (fls. e-STJ, 875-876) que determinou a suspensão do feito até que ultimado o julgamento do IRDR n. 71/TO.
+Ocorre que a matéria afetada por esta Corte foi julgada pelo STJ, pelo regime dos recursos repetitivos - Tema 1150.
+É o relatório. Decido.
+A questão discutida nos autos foi julgada pelo STJ, através do regime dos recursos repetitivos - Tema 1150, tendo sido firmado precedente com a seguinte tese repetitiva: i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa; ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil; e iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao Pasep.
+Nesse contexto, uma vez julgado o tema pela sistemática dos recursos repetitivos, os recursos que tratem sobre a mesma controvérsia devem retornar ao Tribunal de origem para juízo de conformação, nos termos dos artigos 1.040 do CPC/2015 e 34, XXIV, do RISTJ.
+Nesse sentido:
+PROCESSUAL CIVIL. MATÉRIA OBJETO DE RECURSO ESPECIAL REPETITIVO.
+DEVOLUÇÃO AO TRIBUNAL A QUO.
+1. Julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos sobre a mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõem os arts. 1.040 do CPC/2015 e 34, XXIV, do RISTJ.
+2. Agravo interno não conhecido (AgInt no AREsp 729.327/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 21/11/2017, DJe 5/2/2018).
+Ante o exposto, determina-se a devolução dos autos à origem, com a devida baixa nesta Corte, para que, considerando a publicação do acórdão submetido ao rito dos recursos repetitivos, aprecie o feito na forma dos artigos 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DEFINIÇÃO DA LEGITIMIDADE DO BANCO DO BRASIL PARA FIGURAR NAS AÇÕES QUE DISCUTEM FALHA NA PRESTAÇÃO DOS SERVIÇOS QUANTO À CONTA VINCULADA AO PASEP. TESE JULGADA SOB O RITO DOS RECURSOS REPETITIVOS. TEMA 1.150 DO STJ. DEVOLUÇÃO DOS AUTOS A ORIGEM.
