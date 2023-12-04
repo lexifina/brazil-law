@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) contra acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. LEGITIMIDADE PASSIVA DA CEF. COMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL. RECURSODESPROVIDO.- No que tange ao interesse jurídico da CEF em figurar no polo passivo da ação de cumprimento de contrato, relativo a imóvel financiado pelo regime do SFH, sob o pálio ou não do FCVS - Fundo de Compensação de Variações Salariais, há decisão consolidada pela Segunda Seção do E. Superior Tribunal de Justiça, no julgamento dos EDcl nos EDcl no REsp 1.091.363-SC, no sentido de que, para que tal ocorra, deve-se comprovar documentalmente, não apenas a existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade de Apólice - FESA, colhendo o processo no estado em que se encontrar, sem anulação de nenhum ato processual anterior.-Evidencia-se que os contratos que embasam a ação subjacente foram firmados em data anterior a 02.12.1988, portanto fora do período adrede mencionado.- Apenas em relação ao contrato firmado com a parte Nivaldo Marciano Leite, há informação de que o mesmo foi assinado em 19/09/2001, contudo, não possui cobertura pelo FCVS.- Destarte, à luz das considerações acima expostas, evidencie-se adequada a decisão que reconheceu a ilegitimidade passiva da CEF e, por consequência ad causam determinou o retorno dos autos à Justiça Estadual.- Recurso desprovido.
+Os Embargos de Declaração foram rejeitados (fls. 325-328, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 14 da Lei 4.380/1964; 2º, I, do Decreto-Lei 2.406/1988; 1º, I e II, 1º-A, 2º, 3º e 4º da Lei 12.409/2011; 17, 119, 124, 485, VI e § 3º, 489 e 1.022 do CPC/2015. Alega:
+Ademais, ressalte-se apenas a título de esclarecimento que o risco de prejuízo ao FCVS, mediante o esgotamento do FESA, que, anteriormente, pelo entendimento do STJ, deveria ser demonstrado por esta Empresa Pública, agora passou a ser presumido (art.1º-A, § 2º), em face do elevado número de ações propostas pelos mutuários, como é de notório conhecimento. Por fim, é certo que cabe à Justiça Federal decidir se há interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas, consoante orientação consagrada na Súmula 150 do STJ.
+(..)
+Premente, pois, a correção da decisão no que concerne a este ponto, reconhecendo o interesse do FCVS/CAIXA mesmo nos contratos celebrados antes da promulgação da Lei nº 7.682/88.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.11.2023.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1630265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/12/2016.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016.)
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+Consoante referido julgado, para a configuração do interesse da Caixa Econômica Federal como parte no processo, é necessário que o contrato tenha sido celebrado entre02.12.1988 e 29.12.2009; que o instrumento esteja vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66), bem como a demonstração cabal do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA., da análise dos documentos acostados aos autos, evidencia-se que os contratos que embasam a ação subjacente foram firmados em data anterior a 02.12.1988, portanto fora do período adrede mencionado.
+Apenas em relação ao contrato firmado com a parte Nivaldo Marciano Leite, há informação de que o mesmo foi assinado em 19/09/2001, contudo, não possui cobertura pelo FCVS.
+Destarte, à luz das considerações acima expostas, evidencie-se adequada a decisão que reconheceu a ilegitimidade passiva da CEF e, por consequência determinou o retorno dos autos à Justiça Estadual.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, bem como a interpretação das cláusulas do contra firmado entra as partes. Dessa forma, é inviável a revisão do julgado em Recurso Especial, ante o disposto nas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. SEGURO HABITACIONAL. INTERESSE DA CEF. COMPROMETIMENTO DO FCVS. NÃO DEMONSTRAÇÃO. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. REEXAME DE PROVA E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS NºS 5 E 7/STJ.
+1. Não pode ser conhecido o recurso especial que não traz impugnação específica dos pressupostos do acórdão recorrido, atraindo a incidência, por analogia, da Súmula nº 283/STF.
+2. É evidente a deficiência na fundamentação recursal quando a linha argumentativa invocada pela parte recorrente se mostra divorciada das premissas assentadas pelo acórdão recorrido. Incidência da Súmula nº 284/STF.
+3. A Segunda Seção do STJ, no julgamento de recurso representativo de controvérsia, firmou o entendimento de que o ingresso da CEF na lide somente será possível a partir do momento em que a instituição financeira provar documentalmente o seu interesse jurídico, mediante demonstração não apenas da existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do FESA, colhendo o processo no estado em que este se encontrar no instante em que houver a efetiva comprovação desse interesse, sem anulação de nenhum ato anterior.
+4. Na hipótese, rever a conclusão do tribunal de origem que concluiu que não houve comprovação do comprometimento do FCVS no negócio jurídico em apreço, esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.055.442/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/9/2023, DJe de 29/9/2023.)
+CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO NO RECURSO ESPECIAL. AÇÃO VISANDO COBERTURA SECURITÁRIA POR DANOS ESTRUTURAIS EM IMÓVEIS ADQUIRIDOS PELO SISTEMA FINANCEIRO DA HABITAÇÃO. RECONHECIMENTO DO INTERESSE DA CEF EM RELAÇÃO A TRÊS DEMANDANTES, EM CONFORMIDADE COM A REPERCUSSÃO GERAL DISCUTIDA NO RE 827.966/PR (TEMA N.º 1.011 DO STF). ACÓRDÃO QUE, ENTRETANTO, NÃO VERIFICA INTERESSE DA CEF EM RELAÇÃO A UMA DAS DEMANDANTES. INSTRUMENTO CONTRATUAL QUE NÃO CONTA COM COBERTURA PELO FCVS. DESCONSTITUIÇÃO DE PREMISSAS QUE DEPENDE DE REEXAME DO MATERIAL DE COGNIÇÃO. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O § 1º do art. 1º- A da Lei n.º 13.000/2014 estabelece que a CEF intervirá, em face do interesse jurídico, nas ações judiciais que representem risco ou impacto jurídico ou econômico ao FCVS ou às suas subcontas, na forma definida pelo Conselho Curador do FCVS.
+2. Desde que a ratio essendi do Tema n.º 1.011 do STF objetiva a proteção dos recursos albergados pelo FCVS geridos atualmente pela CEF e repercutindo na competência da Justiça Federal, é imperioso convir que o reconhecimento pelo Tribunal a quo da ausência de reflexos em tal fundo no contrato sub judice afasta por completo o interesse de sua gestora (CEF) no presente caso.
+3. A indicação do interesse em intervir na causa pela CEF ou União, aludida pelo enunciado do Tema n.º 1.011 do STF, não prescinde ao menos da prova do risco de comprometimento do FCVS.
+4. Tendo o Tribunal Federal a quo, ao ensejo da análise das provas, referido à ausência da cobertura do contrato de financiamento pelo FCVS em relação ao mútuo de uma das partes autoras, derruir tal premissa a pretexto de manter também em relação a ela a competência da Justiça Federal requer o reexame de provas, inadmitido neste âmbito recursal. Súmulas n.ºs 5 e 7 do STF.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.508.443/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023.)
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
