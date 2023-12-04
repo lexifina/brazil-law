@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 335):
+APELAÇÃO CÍVEL - Ação de rescisão contratual c.c. devolução de valores ajuizada pelo adquirente de bem imóvel em face da vendedora - Sentença de parcial procedência - Inconformismo da ré - Hipótese em que o fato de o contrato conter cláusula de garantia fiduciária não impede o comprador de desistir do negócio - Comprador que não está inadimplente, tampouco foi constituído em mora - Caso em que não se aplica a tese firmada pelo C. STJ, em sede de recurso repetitivo, Tema 1.095 - Reforma da sentença quanto à base de cálculo do valor a ser devolvido ao autor - Valor pago à título de comissão de corretagem que não deve ser devolvido - Aplicação do entendimento firmado pelo C. STJ, em sede de recursos repetitivos, Tema 938 - Recurso parcialmente provido.
+Nas razões apresentadas (e-STJ fls. 342/355), a recorrente aponta dissídio jurisprudencial e ofensa aos arts. 26 e 27 da Lei n. 9.514/1997 e 421 do CC/2002, afirmando que, na hipótese de rescisão do compromisso de compra e venda com cláusula de alienação fiduciária, a restituição de eventual saldo em favor da parte recorrida deveria observar as disposições da Lei de Alienação Fiduciária, em detrimento do CDC.
+Foram ofertadas contrarrazões (e-STJ fls. 384/389).
+O recurso foi admitido na origem (e-STJ fls. 390/392).
+É o relatório.
+Decido.
+A jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos, é no sentido de que, "em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor" (Recursos Especiais n. 1.891.498/SP e 1.894.504/SP, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 26/10/2022, DJe 19/12/2022).
+O Tribunal de origem, com base nos elementos de prova, concluiu que inexistiu inadimplemento do recorrido a justificar a aplicação da Lei de Alienação Fiduciária no distrato imobiliário (e-STJ fl. 338).
+Para dissentir dessa conclusão, a fim de caracterizar a mora do adquirente, seria necessário revolver o conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor das Súmulas n. 5 e 7 do STJ.
+Diante de tal premissa fática, verifica-se que o acórdão recorrido decidiu em consonância com a jurisprudência pacífica desta Corte Superior, ao aplicar o CDC em detrimento da Lei de Alienação Fiduciária no procedimento de rescisão do compromisso de compra e venda imobiliário.
+A respeito de ausência de mora do comprador recorrido, circunstância que afastou a incidência da Lei da Alienação Fiduciária no distrato imobiliário, a parte recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
