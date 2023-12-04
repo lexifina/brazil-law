@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por FUNBEP - FUNDO DE PENSÃO MULTIPATROCINADO, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (fls. 1188, e-STJ), assim ementado:
+APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. PREVIDÊNCIA COMPLEMENTAR. FUNBEP. AÇÃO DE COBRANÇA DE RESERVA MATEMÁTICA. SENTENÇA DE EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO. PRELIMINAR. COISA JULGADA.
+SENTENÇA MANTIDA POR ESTE COLEGIADO. ACÓRDÃO QUE SE LIMITA A RECONHECER A IMPOSSIBILIDADE DE COBRAR A RECOMPOSIÇÃO DA RESERVA MATEMÁTICA DO BENEFICIÁRIO, EM RAZÃO DA COISA JULGADA NA ESFERA TRABALHISTA.
+QUESTÃO QUE NÃO SE AMOLDA AOS TEMAS 955 E 1.021, JULGADOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO EXERCÍCIO DO JUÍZO DE RETRATAÇÃO.
+Embargos de declaração opostos e rejeitados.
+Nas razões do especial (fls. 1009-1028 e-STJ), a insurgente alega violação aos seguintes dispositivos de lei federal:
+(i) artigos 1022 do CPC/15;
+ii) artigos 489, inc. II, 485, inc. V, e 502 do CPC/15 e 884 e seguintes do Código Civil; e
+iii) artigos 17, 18, 19 e 21, da Lei Complementar nº 109/2001.
+Sustenta, em síntese, além de divergência jurisprudencial, negativa de prestação jurisdicional, por não se tratar a presente ação de complementação de reserva matemática; e, no mérito, aduz não terem sido valoradas corretamente as provas contidas nos autos ao considerar a existência de coisa julgada e que a reserva matemática adicional não se confunde com a fonte de custeio, de modo que não há coisa julgada nos autos.
+Apresentadas contrarrazões (fls. 1035/1065, e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, ressalta-se que o reconhecimento de negativa de prestação jurisdicional pressupõe, nos termos da jurisprudência desta Corte, o preenchimento dos seguintes requisitos: (a) que a questão tenha sido levantada oportunamente ou, ainda, trate de matéria de ordem pública, que possa conhecida a qualquer tempo pelas instâncias ordinárias; (b) a oposição de aclaratórios apontando, em específico, a omissão, contradição, obscuridade ou erro material; (c) a relevância da tese supostamente omitida, ou seja, que sua análise possa modificar a conclusão do julgamento; e (d) a inexistência de fundamento autônomo suficiente para manter o acórdão.
+Nesse sentido: EDcl no AgInt no AREsp 1207830/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/11/2018, DJe 16/11/2018; AgInt no AREsp 1294687/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 18/09/2018; EDcl no AgInt no REsp 1659455/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1497035/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/08/2017, DJe 29/08/2017; EDcl no REsp 1593380/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 24/11/2016.
+Na hipótese, as omissões alegadas pela insurgente, relativas à necessidade de prévio custeio, não se mostram aptas, sequer em tese, a modificar a conclusão do julgado, em razão da existência de fundamento autônomo suficiente para manutenção da decisão - qual seja, o reconhecimento da existência de coisa julgada sobre o tema.
+Afasta-se, portanto, a alegada violação aos artigos 489 e 1022 do CPC/15.
+2. Com relação ao argumento da inexistência de coisa julgada na espécie, verifica-se que o Tribunal a quo, soberano na análise dos elementos fáticos dos autos, conclui pela existência de coisa julgada, afirmando que:
+" O objeto da ação proposta pelo apelante Fundo de Pensão Multipatrociando - FUNBEP é a cobrança de reserva matemática adicional, tendo em vista a majoração do benefício previdenciário do apelante.
+ ..
+Consoante se infere dos autos o apelante 1 ajuizou reclamatória trabalhista (=vs. 25.3 a 25.5), sob o nº 21.643/98, que tramitou perante a 1º Junta de Conci:iação e Julgamento de Curitiba, pleiteando direitos e verbas referentes a diferença de complementação de aposentadoria, pedidos que foram acolhidos na Sentença (mov. 25.6), condenando o ora apelante 2 ao pagamento de diferenças de complementação da aposentadoria do apelante 1, bem como a implantação destas diferenças na folha de pagamento.
+17. Com efeito, como analisado pelo magistrado de primeiro grau, a aposentadoria do apelante 1 ocorreu em 17 de agosto de 1998, ou seja, antes cio advento do Regulamento elaborado em 2008. que ora se pretende a aplicação 18. Para fins de cornplementação de aposentadoria, deve ser considerada a regulamentação da FUNBEP vigente ao tempo em n que preencheu todos os requisitos exigidos para a obtenção do benefício, ou seja, adquiriu o direito à aposentadoria, ressalvando-se apenas a incidércia de normas posteriores mais benéficas, atentando para os princípios da segurança jurídica e da boa-fé.
+ ..
+Da leitura do acórdão proferido por este Colegiado é possível verificar que a questão tratada nos presentes autos não diz respeito a nenhum dos entendimentos firmados pelo c. Superior Tribunal de Justiça, pois não se discute se o participante teria ou não direito à revisão do benefício previdenciário complementar, mas sim os limites da decisão proferida pela Justiça do Trabalho quanto à responsabilidade da Patrocinadora pelo pagamento da Res erva Matemática Adicional." (fls. 1192, e-STJ).
+Assim, a Corte estadual atestou a existência de coisa julgada.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame da existência de coisa julgada - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. OFENDA AOS ARTS. 165, 458 E 535 DO CPC/1973 NÃO CONFIGURADA. DISCUSSÃO ACERCA DE OCORRÊNCIA DA COISA JULGADA SOBRE O TEMA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+PRECEDENTES. NEGADO PROVIMENTO. ..  2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que em ação que tramitou na Justiça do Trabalho foi determinado o recolhimento prévio (contribuição) tanto do empregador quanto da empregada para se majorar o benefício previdenciário, não podendo a apelante FUNBEP querer rediscutir questão atingida pela coisa julgada sob o argumento de nomenclaturas diversas (fonte de custeio ou complementação de reserva matemática).
+3. A inversão do que foi decidido pelo Tribunal de origem, tal como pleiteada nas razões recursais, demandaria novo exame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno ao qual se nega provimento.
+(AgInt no REsp 1635812/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/04/2017, DJe 27/04/2017)
+3. Por fim, salienta-se que este Tribunal Superior entende que a incidência da Súmula 7 do STJ impede igualmente o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+Nesse sentido, confira-se: AgInt no AREsp 1570877/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1850735/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1864691/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020.
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao recurso especial.
+Publique-se. Intimem-se
+EMENTA
