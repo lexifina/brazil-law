@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000764-12.2022.8.08.0007
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SEBASTIANA DE PAULA GOMES
+RECORRIDO: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para as autoras.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANO MORAL. FALTA DE ENERGIA. FORÇA MAIOR. EXCLUDENTE DE RESPONSABILIDADE. DANO MORAL NÃO CONFIGURADO. NARRA A AUTORA QUE NO DIA 27/10/2018 O MUNICÍPIO DE BAIXO GUANDU/ES SOFREU COM VENTOS E CHUVA DE 20MM, SITUAÇÃO CONSIDERADO DE BAIXA MAGNITUDE, EVENTO OCORRIDO NO FINAL DA TARDE DO SÁBADO. OS VENTOS FORTES NÃO ERAM SUFICIENTES PARA SEREM CONSIDERADOS UMA CATÁSTROFE METEOROLÓGICA, OCORRE QUE MESMO SE TRATANDO DE SITUAÇÃO COMUM PARA À ÉPOCA DO ANO, OCORREU DE TELHAS E GALHOS SEREM ARRANCADOS, OCASIONANDO NA FALTA DE ENERGIA ELÉTRICA. A FALTA DE FORNECIMENTO DE UM BEM ESSENCIAL COMO A ENERGIA CAUSOU DIVERSOS PROBLEMAS, AINDA MAIS EM RAZÃO DA PARTE RÉ TER DEMORADO PARA ALÉM DO PRAZO REGULAMENTAR PARA A SOLUÇÃO DO PROBLEMA, TENDO LUGARES QUE CONTINUAVAM SEM ENERGIA 02 DIAS APÓS O INCIDENTE. EM NOTÍCIA REALIZADA A RESPOSTA DADA FOI DE QUE POR ESTAREM COM UM NÚMERO DE PESSOAL REDUZIDO HOUVE A REFERIDA DEMORA. FICANDO A REQUERENTE COM MEDO DA SITUAÇÃO SE ESTENDER AINDA MAIS E SOFRER COM MAIS PREJUÍZOS. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) DANOS MORAIS NO VALOR DE R$ 5.000,00. SENTENÇA DE PISO JULGOU IMPROCEDENTE O PEDIDO DA INICIAL. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR PROCEDENTES OS PEDIDOS DE DANO MORAL.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA NAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
