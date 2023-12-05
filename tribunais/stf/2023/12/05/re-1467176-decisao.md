@@ -1,0 +1,65 @@
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. OPERAÇÕES INTERESTADUAIS DE VENDA DE MERCADORIAS E SERVIÇOS. DESTINATÁRIOS FINAIS NÃO CONTRIBUINTES DO IMPOSTO. COBRANÇA DE DIFERENCIAL DE ALÍQUOTA INTERNA E INTERESTADUAL PELO ESTADO DE DESTINO. DIFAL. NECESSIDADE DE DISCIPLINA POR LEI COMPLEMENTAR. TEMA 1.093 DE REPERCUSSÃO GERAL. ALEGAÇÃO DE EQUÍVOCO NO ACÓRDÃO RECORRIDO, POIS, NO CASO, AS OPERAÇÕES SE DARIAM ENTRE CONTRIBUINTES DO ICMS. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 279 DO STF. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+      “APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. ARTIGO 1.040, II, DO CPC E ARTIGO 109 DO RITJPR. MANDADO DE SEGURANÇA. ICMS-DIFAL. DIFERENCIAL DE ALÍQUOTA EM OPERAÇÕES INTERESTADUAIS DE VENDA DE MERCADORIAS A DESTINATÁRIOS FINAL CONTRIBUINTE. TRIBUTO INSTITUÍDO PELA LEI ESTADUAL 11.580/1996. INEXISTÊNCIA DE LEI COMPLEMENTAR VEICULANDO NORMAS GERAIS. INCONSTITUCIONALIDADE. DECISÃO PROFERIDA PELO STF EM 24.02.2021, NO JULGAMENTO EM CONJUNTO DA ADI 5469/DF E DO RE 1.287.019/DF, COM REPERCUSSÃO GERAL RECONHECIDA (TEMA 1093). MODULAÇÃO DE EFEITOS. RESSALVA ÀS AÇÕES JUDICIAIS EM CURSO. APLICABILIDADE DO TEMA AO CASO.”
+
+    Opostos embargos de declaração, foram rejeitados.
+
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, II, 146, III, a, 150, I, e 155, § 2º, XII, a, d e f, da Constituição da República.
+
+    A parte recorrida apresentou contrarrazões ao recurso extraordinário.
+
+    A Presidência do Tribunal a quo determinou a devolução do feito ao órgão julgador para aplicação da sistemática da repercussão geral. O órgão julgador, em juízo positivo de retratação, adotou o Tema 1.093 da repercussão geral como razão de decidir, e reformou o acórdão anteriormente proferido, motivo pelo qual admitiu-se o recurso extraordinário.
+
+    É o relatório. DECIDO.
+
+    O recurso extraordinário não merece prosperar.
+
+    Destaco do acórdão recorrido o seguinte trecho, in verbis:
+
+    “Extrai-se dos autos que esta Colenda 3ª Câmara Cível, quando do julgamento da apelação interposta por Eletrofrio Refrigeração Ltda., conheceu e negou provimento ao recurso, reconhecendo a possibilidade cobrança da Diferença de Alíquotas do ICMS – DIFAL. Pois bem. Esta Corte, em recentes julgados, vinha reconhecendo que cobrança do DIFAL não requer a edição de prévia lei complementar regulamentadora, nem tampouco de nova lei estadual, pois, a partir das alterações promovidas pela Emenda Constitucional nº 87/2015 no § 2º do art. 155 da Constituição Federal, o legislador constitucional estabeleceu nova sistemática para o recolhimento do tributo de ICMS nas hipóteses em que o bem ou serviço se destine a consumidor final, contribuinte ou não, localizado em outro Estado, passando a Constituição Federal a prever todos os elementos necessários para que os Estados disciplinem, nos limites da autonomia e da competência que lhes são atribuídas, a exigência do DIFAL.
+
+      (...).
+
+      Ocorre que o Supremo Tribunal Federal, em 24.02.2021, ao apreciar, em conjunto, o RE 1.287.019/DF, com repercussão geral (Tema 1093), e a ADI 5469/DF, reconheceu a inconstitucionalidade da cobrança do diferencial de alíquota do imposto sobre circulação de mercadoria e serviços (DIFAL/ICMS), introduzida pela EC 87/2015, sem a edição de lei complementar para regulamentar o mecanismo de compensação.
+
+     Com efeito, o Plenário desta Corte, no julgamento do RE 1.287.019, Rel. Min. Marco Aurélio, Redator do acórdão Min. Dias Toffoli, DJe de 25/5/2021, Tema 1.093, fixou a seguinte tese de repercussão geral:“A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais”. Confira-se a ementa do julgado:
+
+      “Recurso extraordinário. Repercussão geral. Direito tributário. Emenda Constitucional nº 87/2015. ICMS. Operações e prestações em que haja a destinação de bens e serviços a consumidor final não contribuinte do ICMS localizado em estado distinto daquele do remetente. Inovação constitucional. Matéria reservada a lei complementar (art. 146, I e III, a e b; e art. 155, § 2º, XII, a, b, c, d e i, da CF/88). Cláusulas primeira, segunda, terceira e sexta do Convênio ICMS nº 93/15. Inconstitucionalidade. Tratamento tributário diferenciado e favorecido destinado a microempresas e empresas de pequeno porte. Simples Nacional. Matéria reservada a lei complementar (art. 146, III, d, e parágrafo único, da CF/88). Cláusula nona do Convênio ICMS nº 93/15. Inconstitucionalidade.
+
+      1. A EC nº 87/15 criou nova relação jurídico-tributária entre o remetente do bem ou serviço (contribuinte) e o estado de destino nas operações com bens e serviços destinados a consumidor final não contribuinte do ICMS. O imposto incidente nessas operações e prestações, que antes era devido totalmente ao estado de origem, passou a ser dividido entre dois sujeitos ativos, cabendo ao estado de origem o ICMS calculado com base na alíquota interestadual e ao estado de destino, o diferencial entre a alíquota interestadual e sua alíquota interna.
+
+      2. Convênio interestadual não pode suprir a ausência de lei complementar dispondo sobre obrigação tributária, contribuintes, bases de cálculo/alíquotas e créditos de ICMS nas operações ou prestações interestaduais com consumidor final não contribuinte do imposto, como fizeram as cláusulas primeira, segunda, terceira e sexta do Convênio ICMS nº 93/15.
+
+      3. A cláusula nona do Convênio ICMS nº 93/15, ao determinar a extensão da sistemática da EC nº 87/2015 aos optantes do Simples Nacional, adentra no campo material de incidência da LC nº 123/06, que estabelece normas gerais relativas ao tratamento diferenciado e favorecido a ser dispensado às microempresas e às empresas de pequeno porte, à luz do art. 146, inciso III, d, e parágrafo único, da Constituição Federal.
+
+      4. Tese fixada para o Tema nº 1.093: ‘A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais’.
+
+      5. Recurso extraordinário provido, assentando-se a invalidade da cobrança do diferencial de alíquota do ICMS, na forma do Convênio nº 93/15, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte.
+
+      6. Modulação dos efeitos da declaração de inconstitucionalidade das cláusulas primeira, segunda, terceira, sexta e nona do convênio questionado, de modo que a decisão produza efeitos, quanto à cláusula nona, desde a data da concessão da medida cautelar nos autos da ADI nº 5.464/DF e, quanto às cláusulas primeira, segunda, terceira e sexta, a partir do exercício financeiro seguinte à conclusão deste julgamento (2022), aplicando-se a mesma solução em relação às respectivas leis dos estados e do Distrito Federal, para as quais a decisão deverá produzir efeitos a partir do exercício financeiro seguinte à conclusão deste julgamento (2022), exceto no que diz respeito às normas legais que versarem sobre a cláusula nona do Convênio ICMS nº 93/15, cujos efeitos deverão retroagir à data da concessão da medida cautelar nos autos da ADI nº 5.464/DF. Ficam ressalvadas da modulação as ações judiciais em curso.”
+
+     Outrossim, observa-se que para acolher a pretensão da parte recorrente e ultrapassar o entendimento do Tribunal de origem acerca da natureza das operações tributadas, se destinadas a contribuintes ou não contribuintes do ICMS, seria necessário reexaminar o acervo fático-probatório dos autos, providência que esbarra no óbice da Súmula 279 do STF. Nesse sentido:
+
+      “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. DIFERENCIAL DE ALÍQUOTA – DIFAL. OPERAÇÕES INTERESTADUAIS DE AQUISIÇÃO DE MERCADORIAS DESTINADAS AO ATIVO IMOBILIZADO E AO USO E CONSUMO. INAPLICABILDADE DO TEMA 1.093. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. DESPROVIMENTO. 1. O entendimento desta Corte firmado no julgamento do Tema 1.093 da Repercussão Geral (RE 1.287.019), que trata da exigência do DIFAL nas operações interestaduais que destinem mercadorias a consumidores finais não contribuintes do ICMS, não se aplica à presente hipótese, em que se discute a exigência de DIFAL nas aquisições por contribuinte do ICMS de mercadorias destinadas a uso e consumo e ao ativo imobilizado. 2. É inadmissível o recurso extraordinário quando eventual divergência em relação ao entendimento adotado pelo Colegiado de origem demandar a análise prévia da legislação infraconstitucional pertinente à matéria. 3. Agravo regimental a que se nega provimento.” (RE 1418002 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe de 16/8/2023)
+
+      “AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. DIFERENCIAL DE ALÍQUOTAS. ALEGAÇÃO DE NÃO CONTRIBUINTE DE ICMS-DIFAL. CONJUNTO PROBATÓRIO. INOVAÇÃO RECURSAL. ÔNUS DA PROVA. OFENSA REFLEXA. LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. IMPOSSIBILIDADE. ENUNCIADO 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: RE 1.238.165-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 13/2/2020; RE 1.170.253-ED, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/2/19; ARE 1.055.350-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 22/09/2017. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) sobre o valor atualizado da causa (artigo 1.021, § 4º, do CPC/2015), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (RE 1.375.664-ED-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 22/6/2022)
+
+      “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ICMS. DIFAL. AQUISIÇÃO DE PRODUTO OU SERVIÇO POR CONSUMIDOR FINAL. TEMA 1.093 DA RG. INVIABILIDADE. LC 87/96 E LEGISLAÇÃO LOCAL. SÚMULAS 279/STF E 280/STF. 1. É inviável a aplicação do Tema 1.093 da sistemática da repercussão geral no presente caso, tendo em vista que, no paradigma, a controvérsia estava centrada nas operações e prestações a consumidor final não contribuinte do ICMS, hipótese diversa da presente, em que o consumidor final é contribuinte do tributo. 2. Dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF). Precedente. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC.” (RE 1.425.064-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 17/5/2023)
+
+      “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. DIFERENCIAL DE ALÍQUOTAS. ALEGAÇÃO DE NÃO CONTRIBUINTE DE ICMS-DIFAL. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL EM DESFAVOR DA PARTE RECORRENTE, CASO AS INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º E 3º E A EVENTUAL CONCESSÃO DE JUSTIÇA GRATUITA. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.” (ARE 1.319.021-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 14/12/2022)
+
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+
+      Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+
+    Publique-se.
+
+    Brasília, 5 de dezembro de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
