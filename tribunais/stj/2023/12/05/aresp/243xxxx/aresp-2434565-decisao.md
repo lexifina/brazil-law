@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado por Caixa Seguradora S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 210):
+PROCESSUAL CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. SEGUROHABITACIONAL. FCVS. COMPETÊNCIA.
+I - Nos contratos regidos pelas normas do SFH em que se discute a cobertura securitária, a CEF somente possui interesse a respaldar seu ingresso na lide se o contrato foi celebrado entre 02.12.1988 e 29.12.2009,se a apólice for pública, com cobertura do Fundo de Compensação de Variações Salariais - FCVS (Ramo66) e mediante comprovação de comprometimento do FCVS. Recurso Especial n.º 1.091.363/SC.
+II - Hipótese dos autos em que o contrato de financiamento imobiliário foi celebrado antes do advento da Lei 7.682 de 02.12.1988. Intervenção da CEF na lide. Impossibilidade.
+III - A Lei 13.000/14 em nada altera o quadro fixado pela jurisprudência do E. STJ tendo em vista que continua sendo exigida a comprovação de comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, prova esta ausente nos autos.
+IV - Agravo de instrumento desprovido e agravo interno prejudicado.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 223/234).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 3º e 5º da Lei 13.000/2014 e 1º da Lei 12.409/2011. Sustenta, em resumo, que "a Caixa Econômica Federal deve necessariamente intervir nas demandas envolvendo o SH/SFH, na qualidade de administradora do FCVS, fundo responsável pelas obrigações" (fl. 246), o que atrai a competência da Justiça Federal para o julgamento da ação.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, o tema trazido à discussão, relativo à competência do Juízo para o julgamento da ação envolvendo contrato firmado no âmbito do Sistema Financeiro de Habitação, foi objeto de análise e decisão pelo Supremo Tribunal Federal, em sede de repercussão geral, no bojo do RE 827.996/PR - Tema RG 1.011. Confira-se a ementa do referido acórdão do STF:
+Recurso extraordinário. Repercussão geral.
+2. Sistema Financeiro da Habitação (SFH). Contratos celebrados em que o instrumento estiver vinculado ao Fundo de Compensação de Variação Salarial (FCVS) - Apólices públicas, ramo 66.
+3. Interesse jurídico da Caixa Econômica Federal (CEF) na condição de administradora do FCVS.
+4. Competência para processar e julgar demandas desse jaez após a MP 513/2010: em caso de solicitação de participação da CEF (ou da União), por quaisquer das partes ou intervenientes, após oitiva daquela indicando seu interesse, o feito deve ser remetido para análise do foro competente: Justiça Federal (art. 45 c/c art. 64 do CPC), observado o § 4º do art. 1º-A da Lei 12.409/2011. Jurisprudência pacífica.
+5. Questão intertemporal relativa aos processos em curso na entrada em vigor da MP 513/2010. Marco jurígeno. Sentença de mérito. Precedente.
+6. Deslocamento para a Justiça Federal das demandas que não possuíam sentença de mérito prolatada na entrada em vigor da MP 513/2010 e desde que houvesse pedido espontâneo ou provocado de intervenção da CEF, nesta última situação após manifestação de seu interesse.
+7. Manutenção da competência da Justiça Estadual para as demandas que possuam sentença de mérito proferida até a entrada em vigor da MP 513/2010.
+8. Intervenção da União e/ou da CEF (na defesa do FCVS) solicitada nessa última hipótese. Possibilidade, em qualquer tempo e grau de jurisdição, acolhendo o feito no estágio em que se encontra, na forma do parágrafo único do art. 5º da Lei 9.469/1997.
+(RE 827.996, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 29/06/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-208 DIVULG 20-08-2020 PUBLIC 21-08-2020)
+Dessarte, ultimada a análise da questão pelo Supremo Tribunal Federal, revela-se nítido o viés constitucional da controvérsia dirimida nos presentes autos, não se vislumbrando a possi bilidade de seu conhecimento por este Sodalício em sede de recurso especial.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. REPERCUSSÃO GERAL RECONHECIDA PELO STF. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE RETRATAÇÃO/CONFORMAÇÃO. ATO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES. DISTINGUISHING. INEXISTÊNCIA.
+1. O ato judicial que determina o sobrestamento e/ou a devolução dos autos à origem, a fim de que lá seja exercido o competente juízo de retratação/conformação após o julgamento de questão cuja repercussão geral foi reconhecida pelo STF, não possui conteúdo decisório, razão pela qual é irrecorrível. Além disso, nesses casos, revela-se a primazia do viés constitucional do tema em debate.
+2. Afastada a hipótese de distinguishing, é certo que somente com o exaurimento da jurisdição do Tribunal a quo, em observância ao procedimento previsto nos arts. 1.040 e 1.041 do CPC, será definida a existência de questão infraconstitucional residual a ser apreciada por este Sodalício.
+3. Agravo interno não conhecido.
+(AgInt no AgInt no REsp n. 1.802.221/AL, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023)
+PROCESSUAL CIVIL, TRIBUTÁRIO E CONSTITUCIONAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. TEMA 69/STF (RE 574.706). FUNDAMENTAÇÃO CONSTITUCIONAL.
+1. Trata-se de Agravo Interno contra decisão monocrática que não conheceu do Agravo em Recurso Especial por ausência de ofensa ao art.1022 do CPC, confirmando a inadmissibilidade do Recurso Especial, pelo viés constitucional disposto no acórdão.
+2. A Corte de origem apenas aplicou o precedente ao caso concreto, interpretando-o consoante sua compreensão dos parâmetros constitucionais eleitos pelo Supremo Tribunal Federal. A toda evidência, a Corte de origem pode fazê-lo, visto que não tem impedimento algum para exame de matéria constitucional. Já o Superior Tribunal de Justiça, em Recurso Especial, segue lógica outra: a ele não cabe emitir juízo a respeito dos limites do que foi julgado no precedente em Repercussão Geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem Constitucional.
+Nesse sentido: EDcl no REsp. l.l91.640/SC, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe 14.5.2019.
+3. Muito embora a alegação do Recurso Especial seja de contrariedade a dispositivos infraconstitucionais, o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais.
+Nesse contexto, inviável a análise da questão, em Recurso Especial, sob pena de usurpação da competência do STF. Em casos análogos, os seguintes precedentes do STJ: AgInt no REsp 1.562.910/SC, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 28.6.2016; REsp 1.407.283/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14.12.2015; AgRg no REsp 1.130.647/RS, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe de 27.5.2014; AgRg no AREsp 145.316/BA, Rel. Min. Eliana Calmon, Segunda Turma, DJe de 9.4.2013; AgRg no AREsp 35.288/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 17.10.2011.
+4. Relativamente à alegação de afronta aos arts. 13, § 1º, inciso I, 19 e 20 da Lei Complementar 87/1996; 1º da Lei 10.637/2002; 1º da Lei 10.833/2002; 2º da Lei 9.715/89; e 2º da Lei Complementar 70/91, sob o fundamento de que ainda não se definiu em repercussão geral qual parcela do ICMS deve ser excluída da base de cálculo do PIS/COFINS, é possível extrair, tanto do acórdão recorrido quanto das razões do Recurso Especial, que seu deslinde exige interpretação de tese definida pelo Supremo Tribunal Federal em repercussão geral, o que impede a apreciação da matéria em Recurso Especial.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.715.089/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/5/2021, DJe de 1/7/2021)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
