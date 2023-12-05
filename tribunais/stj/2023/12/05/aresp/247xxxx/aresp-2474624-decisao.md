@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra acórdão do Tribunal estadual assim ementado (e-STJ, fls. 495-497):
+PROCEDIMENTO CIRÚRGICO. RECUSA. PRESCRIÇÃO MÉDICA. DANO MORAL DEVIDO.
+O contrato entre as partes está inserido na categoria dos contratos por adesão. Desta forma, não há paridade ao aderente para discutir as cláusulas contratuais, não podendo o princípio do "pacta sunt servanda" ser adotado sem mitigações, prova é tanto que o artigo 424 do Código Civil, dispõe que: "Nos contratos de adesão, são nulas as cláusulas que estipulem a renúncia antecipada do aderente a direito resultante da natureza do negócio".
+Aos planos de saúde, é vedado decidir qual o tipo de medicação ou tratamento que é necessário ao paciente. A responsabilidade do diagnóstico, configuração de urgência e emergência, tratamento e materiais indicados repousa sobre o profissional médico e não do plano saúde. A este, cabe apenas providenciar os meios de prestar integral cobertura do tratamento.
+Quanto aos danos morais, com efeito, ainda que o mero descumprimento contratual não seja causa geradora de dano moral indenizável, o entendimento jurisprudencial assente no Superior Tribunal de Justiça, é no sentido de que a injusta recusa de cobertura de seguro saúde dá direito ao segurado ao ressarcimento dos danos extrapatrimoniais sofridos, tendo em vista que tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Considerando as circunstâncias do caso concreto, tem-se por bem fixar o valor do dano moral em R$ 5.000,00 (cinco mil reais), valor que se revela mais razoável e proporcional, atendendo ainda ao caráter punitivo-pedagógico da indenização e aos patamares habitualmente fixados neste Tribunal para casos assemelhados.
+Nas razões do recurso especial (e-STJ, fls. 575-597), a recorrente alegou violação aos arts. 1022, II do CPC/2015; 10, V e § 4º, da Lei 9.656/98; 186, 188, I, 421, 421-A e 927 do CC.
+Aduziu, em síntese, que o acórdão estadual teria sido omisso em relação a pontos essenciais ao deslinde do feito.
+Sustentou que o tratamento prescrito pelo médico não está previsto no rol da Agência Nacional de Saúde Suplementar - ANS, não havendo, desse modo, nenhuma obrigação legal ou contratual para o seu custeio.
+Defendeu a taxatividade do rol de procedimentos elaborado pela ANS, conforme entendimento do Superior Tribunal de Justiça.
+Ponderou ser indevida condenação para pagamento de indenização por danos morais, por inexistência de ilícito.
+Contrarrazões às fls. 603-617 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência das Súmulas 5 e 7/STJ e 284/STF.
+Foi interposto agravo em recurso especial às fls. 625-631 (e-STJ), e apresentada contraminuta às fls. 634-651 (e-STJ).
+Brevemente relatado, decido.
+Quanto à questão de fundo, a Segunda Seção do Superior Tribunal de Justiça, em julgamento de 8/6/2022, firmou entendimento no sentido de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 3/8/2022 - sem grifo no original).
+Por ocasião do julgamento dos mencionados embargos de divergência, o órgão colegiado estabeleceu os seguintes parâmetros, os quais devem ser observados no julgamento do caso concreto:
+1- o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Todavia, constata-se que, no caso em análise, o julgamento da instância ordinária não avançou para aferir o preenchimento dos requisitos acima elencados, reputando abusiva a limitação, por entender que a escolha do tratamento do paciente é prerrogativa do profissional médico.
+Em face disso, considerando a impossibilidade de reexame das cláusulas contratuais e da base fático-probatória, em virtude dos óbices das Súmulas 5 e 7/STJ, necessário que os autos retornem à instância originária, de modo a possibilitar a análise de tais elementos e a exigência de produção de outras provas, para que se realize novo julgamento à luz da tese firmada pela Segunda Seção desta Corte Superior.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para, cassando o acórdão recorrido, determinar o retorno dos autos à instância originária a fim de que, em novo exame, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela parte segurada - tal como delineados pela Segunda Seção do Superior Tribunal de Justiça -, julgando o pedido inicial como entender de direito.
+Mantêm-se os efeitos de eventual liminar concedida, até nova apreciação pelo magistrado de primeiro grau.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO NÃO LISTADO NO ROL DA ANS. APLICAÇÃO DE PRECEDENTE DA SEGUNDA SEÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
