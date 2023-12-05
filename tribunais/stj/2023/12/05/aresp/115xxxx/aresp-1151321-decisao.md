@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por Maria Jussara da Silva contra da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 139):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. MEDICAMENTOS. ARTIGO 196 DA CONSTITUIÇÃO FEDERAL DE 1988. DIREITO ÀSAÚDE. SOLIDARIEDADE. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO.
+1. Responsabilidade solidária entre os entes federados pelo fornecimento de medicamentos e demais ações de saúde. Entendimento predominante junto ao Egrégio 2º Grupo Cível, a que pertence esta Colenda 4a Câmara Cível.
+2. A Constituição Federal, em seuart.196,assegura que "A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação".
+3. São devidos honorários advocatícios pelo Município ao FADEP, visto que não é o ente municipal quem custeia a Defensoria Pública Estadual, a qual possui autonomia administrativa e financeira alheia às estruturas municipais.
+4. Redução da verba honorária para patamar iterativamente fixado por esta Câmara em demandas da mesma espécie.
+5. Sentença de procedência na origem. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+No recurso especial, a recorrente alega que a Corte local, ao reduzir a condenação da sentença para irrisórios R$ 100,00 (cem reais), acabou por contrariar o artigo 85, §2º e §8º do CPC, "haja vista que o valor decretado não se ajusta com o serviço dispensado à demanda e, principalmente, com a finalidade do FADEP, já que apto para o aparelhamento do relevante trabalho desenvolvido pela Defensoria Pública, entendendo-se, por isso, que é ínfimo" (fls. 151). Aponta, também, dissídio jurisprudencial.
+Com contrarrazões às fls, 180/181.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade.
+No caso, a verba honorária fixada pelo Juízo de primeiro grau, em R$ 788,00 (setecentos e oitenta e oito reais), foi reduzida, em grau de apelação, para R$ 100,00 (cem reais), o que configura a excepcionalidade exigida pela jurisprudência desta Corte, mostrando-se possível a majoração dos honorários pleiteada pela parte ora agravante.
+Assim, considerando os valores fixados em casos análogos, é de se majorar os honorários advocatícios para o montante de R$ 500,00 (quinhentos reais), que se revela compatível com o trabalho desenvolvido e a complexidade da causa, encontrando amparo na jurisprudência, senão vejamos:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DA DEFENSORIA PÚBLICA ESTADUAL. VALOR IRRISÓRIO. REVISÃO. POSSIBILIDADE.
+1. A jurisprudência do STJ admite, em caráter excepcional, a alteração do quantum arbitrado a título de honorários advocatícios, caso o valor se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, a sentença (fl. 226, e-STJ) fixou os honorários advocatícios em desfavor do Município de Caxias do Sul no valor de R$ 500,00 (quinhentos reais) e o Tribunal de origem (fls. 285-287, e-STJ) reduziu a verba honorária para R$ 100,00 (cem reais), o que configura a excepcionalidade exigida pela jurisprudência do STJ, mostrando-se possível a majoração dos honorários.
+3. "A circunstância de a Defensoria Pública estar em juízo é irrelevante para a fixação do montante dos honorários, pois o trabalho desempenhado pelo Defensor não é de menor valia que o do advogado particular. Além disso, deve ser considerada a relevância da discussão jurídica estabelecida nos autos, isto é, o direito à saúde" (REsp 1.549.349/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 23.9.2015).
+4. Recurso Especial provido para restabelecer o valor arbitrado a título de honorários advocatícios pela sentença (REsp n. 1.650.737/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 17/5/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FORNECIMENTO DE TRATAMENTO DE SAÚDE. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DA DEFENSORIA PÚBLICA ESTADUAL. VALOR IRRISÓRIO. REVISÃO. POSSIBILIDADE.
+1. A jurisprudência do STJ admite, em caráter excepcional, a alteração do quantum arbitrado a título de honorários advocatícios, caso o valor se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, o Tribunal de origem manteve a verba honorária fixada na sentença em R$ 200,00 (duzentos reais), o que configura a excepcionalidade exigida pela jurisprudência desta Corte, mostrando-se possível a majoração dos honorários, conforme decidido monocraticamente (R$ 500,00 - quinhentos reais).
+3. Agravo Regimental não provido (AgRg no REsp 1.495.908/AL, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/02/2015).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRATAMENTO DE SAÚDE. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DA DEFENSORIA PÚBLICA ESTADUAL. VALOR IRRISÓRIO. REVISÃO. POSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. A jurisprudência desta Corte admite, em caráter excepcional, a alteração do quantum arbitrado a título de honorários advocatícios, caso o valor se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, o montante arbitrado se mostra compatível com o trabalho desenvolvido e a complexidade da causa.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp n. 765.761/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/11/2015, DJe de 23/11/2015.)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, para fixar os honorários advocatícios em R$ 500,00 (quinhentos reais).
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DA DEFENSORIA PÚBLICA ESTADUAL. VALOR IRRISÓRIO. REVISÃO. POSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
