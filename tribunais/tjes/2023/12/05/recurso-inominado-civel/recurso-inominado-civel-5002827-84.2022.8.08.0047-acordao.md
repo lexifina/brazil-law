@@ -1,0 +1,50 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5002827-84.2022.8.08.0047
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: VALBUZA ENGENHARIA LTDA
+RECORRIDO: ROSEMERE DE ANDRADE LOUZADA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. DANO. REPARAÇÃO DEVIDA. DANO MORAL NÃO CONFIGURADO. NARRA A AUTORA QUE EM 04/05/2022 CONTRATOU OS SERVIÇOS DA RÉ PARA O DESPEJO DE TERRA EM SUA RESIDÊNCIA. NO DIA DA PRESTAÇÃO DO SERVIÇO AO TENTAR ENTRAR NA CASA O EMPREGADO DA REQUERIDA COLIDIU O VEÍCULO COM O TELHADO DE SEU PORTÃO CAUSANDO DANO A ESTRUTURA E DERRUBANDO AS TELHAS. AO TENTAR RESOLVER JUNTO A EMPRESA NÃO OBTEVE ÊXITO. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO A CONDENAÇÃO DA PLEITEADA NO PAGAMENTO DE R$7.000,00. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS DA EXORDIAL PARA CONDENAR A REQUERIDA NO PAGAMENTO DE R$3.300,00 A TÍTULO DE DANOS MATERIAIS. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS DA EXORDIAL E NA PROCEDÊNCIA DOS PEDIDOS CONTRAPOSTOS.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE PLEITO CONSUMERISTA NA QUAL A PARTE RECORRENTE NÃO CONSEGUIU AFASTAR OS FATOS CONSTITUTIVOS DO DIREITO DA ORA RECORRIDA. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA. QUANTO AOS PEDIDOS CONTRAPOSTOS APRESENTADOS, JÁ FOI DEFERIDO EM JUÍZO O EFETIVO PAGAMENTO DA DÍVIDA DA CONSUMIDORA, INEXISTINDO NOS AUTOS QUALQUER INDICATIVO DE DANO À IMAGEM DA EMPRESA REQUERIDA, NÃO SENDO CABÍVEL PORTANTO O DANO MORAL PLEITEADO.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO,
+OU, NÃO HAVENDO, SOBRE O VALOR DA CAUSA.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
