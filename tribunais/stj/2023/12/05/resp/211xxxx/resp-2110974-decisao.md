@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CRISPILIANO LAPINI PORTO e MARIA LUIZA DA SILVA PORTO, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 28/06/2023.
+Concluso ao Gabinete em: 27/11/2023.
+Ação: de rescisão contratual cumulada com reintegração de posse, já em fase de cumprimento de sentença, ajuizada pelos recorrentes, em desfavor de SÉRGIO LUIZ SCHIANO DE SOUZA, em virtude de contrato de compra e venda de imóvel firmado entre as partes.
+Decisão interlocutória: determinou o retorno dos autos "à Contadoria para que se refaça os cálculos nos termos do v. acórdão de fl. 382/388".
+Acórdão: negou provimento ao agravo de instrumento interposto pelos recorrentes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.
+Sustentado excesso na cobrança dos valores. Não acolhimento. Correta incidência dos juros de mora sobre as prestações devidas a título de aluguel (indenização). Matéria expressamente decidida no recurso de Agravo de Instrumento nº 2123572-95.2019.8.26.0000, Rel. Maria Salete Corrêa Dias). Revisão do conteúdo inadmissível.
+AGRAVO DESPROVIDO (e-STJ fl. 101).
+Embargos de declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: apontam violação dos arts. 394 do CC; 371 e 1.022, II, do CPC. Além de negativa de prestação jurisdicional, sustentam a ocorrência de error in judicando por parte do Tribunal de origem, uma vez que fez interpretação equivocada do título exequendo, determinando a incidência de juros de mora, embora esteja cabalmente demonstrado que inexiste impontualidade apta a justificá-los, até mesmo porque o valor a título de aluguel tem sido descontado mês a mês dos créditos que os recorrentes têm a receber. Aduzem a ocorrência de reformatio in pejus, pois houve a imposição de uma situação mais gravosa à parte recorrente do que aquela que gerou a interposição do recurso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do Tribunal de origem residem na alegação de que o TJ/SP, apesar de instado a manifestar-se por meio de embargos declaratórios, quedou-se silente no que concerne aos argumentos dos recorrentes de que: i) sobre o valor dos alugueres a serem descontados do crédito a ser recebido pelos recorrentes não deve haver incidência de juros de mora, uma vez que estes incidem somente em hipóteses de impontualidade no pagamento da cifra, o que não se verifica no caso concreto, tendo em vista o desconto mensal dos valores a este título; e ii) há reformatio in pejus na espécie, pois os recorrentes buscaram esclarecimentos sobre o valor dos alugueres a serem descontados, pugnando que a cifra fosse fixada em cada ano de referência, e não com base no valor atual do imóvel, todavia se depararam com uma situação mais gravosa, qual seja, a imposição do pagamento de 1% (um por cento) a título de alugueres e 1% (um por cento) a título de juros de mora, fato que faz com que a cifra dobre de valor.
+Da análise do processo, contudo, constata-se que o Tribunal de origem - a despeito da determinação desta Corte Superior no bojo do AREsp 2.030.293/SP para que sanasse as omissões constatados -, ao julgar novamente os embargos de declaração opostos pelos recorrente, não analisou - novamente - a questão à luz destes argumentos, limitando-se a fazer afirmações genéricas de que não teria ocorrido reformatio in pejus na espécie e de que os juros de mora seriam cabíveis.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanado o vício suscitado, bem como a remessa dos autos ao TJ/SP, a fim de que este se pronuncie, na esteira do devido processo legal, acerca dos pontos anteriormente elencados.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte em tais razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para: a) anular o acórdão que julgou os embargos de declaração opostos pelos recorrentes; e b) determinar a remessa dos autos ao TJ/SP, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito dos supracitados pontos tidos por omissos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Ação de rescisão contratual cumulada com reintegração de posse, já em fase de cumprimento de sentença, em virtude de contrato de compra e venda de imóvel firmado entre as partes.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questões pertinentes para a resolução da lide.
+3. Recurso especial conhecido e provido.
