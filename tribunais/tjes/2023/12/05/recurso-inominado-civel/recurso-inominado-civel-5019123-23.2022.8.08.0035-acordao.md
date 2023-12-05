@@ -1,0 +1,53 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5019123-23.2022.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ROMILDO ANTUNES ROCHA
+RECORRIDO: LOJAS SIMONETTI LTDA e outros
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da Justiça gratuita à parte recorrente.
+
+EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EM SÍNTESE, ALEGA O RECORRENTE QUE COMPROU UM CELULAR NAS LOJAS SIMONETTI NO VALOR DE R$699,00, OCASIÃO EM QUE ACABOU ADQUIRINDO GARANTIA ESTENDIDA E UM SEGURO DE PROTEÇÃO DE BENS PARA CASO DE PERDA OU ROUBO. RELATA QUE O VENDEDOR INFORMOU QUE EM RAZÃO DO SEGURO EM CASO DE ROUBO OU PERDA SERIA LHE DADO UM OUTRO APARELHO, PAGANDO R$320,67 PELO SEGURO E R$91,54 PELA GARANTIA ESTENDIDA. OCORRE QUE, NO DIA 16/04/2022, APÓS TER SEU CELULAR ROUBADO, LIGOU PARA A SEGURADORA.
+SENTENÇA DE PISO
+QUE JULGOU IMPROCEDENTE OS PEDIDOS AUTORAIS, BEM COMO, EXTINGUIU O PROCESSO SEM RESOLUÇÃO DE MÉRITO.
+RECURSO INOMINADO DA PARTE AUTORA
+PLEITEANDO A REFORMA INTEGRAL DA SENTENÇA.
+RECURSO CONHECIDO E IMPROVIDO
+. O AUTOR FOI DEVIDAMENTE INFORMADO SOBRE A UTILIZAÇÃO DO SERVIÇO, POIS, NO ATO DA CONTRATAÇÃO DO SERVIÇO RECEBEU O BILHETE, DO SEGURO, COM AS INFORMAÇÕES PERTINENTES, ONDE ESTAVA DISCRIMINADO DE FORMA CLARA O PAGAMENTO DA FRANQUIA. NO DOCUMENTO ASSINADO ALÉM DE INFORMAÇÕES, TINHAM TAMBÉM OBRIGAÇÕES QUE O AUTOR DEVERIA REALIZAR, QUAL SEJA, PARA QUE A SEGURADORA PROSSEGUISSE COM A INDENIZAÇÃO, O PAGAMENTO DA FRANQUIA ERA OBRIGATÓRIO. NÃO HÁ NOS AUTOS QUALQUER ELEMENTO QUE INDIQUE QUE O AUTOR TERIA DIREITO A UM CELULAR NOVO OU QUE A REQUERIDA NÃO CUMPRIU COM O CONTRATO PELO AUTOR. DESSE MODO, NÃO VISLUMBRO QUALQUER INDÍCIO DE FALHA NA PRESTAÇÃO DO SERVIÇO PRESTADO PELAS REQUERIDAS. POR ESTES MOTIVOS,
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95.
+
+CONDENADA A PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
