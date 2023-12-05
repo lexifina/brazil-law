@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. TESE DE LEGÍTIMA DEFESA ACOLHIDA PELOS JURADOS. ALEGADA CONTRARIEDADE À PROVA DOS AUTOS. AUSÊNCIA DE DEMONSTRAÇÃO CONCRETA DE DISSOCIAÇÃO DA CONCLUSÃO DOS JURADOS COM AS PROVAS APRESENTADAS. RESTABELECIMENTO DA SENTENÇA ABSOLUTÓRIA. AGRAVO NÃO PROVIDO.
+1. É possível o controle do veredicto absolutório, em sede de apelação ministerial fundada no art. 593, III, "d", do CPP, quando o Tribunal local entender que a decisão dos jurados foi manifestamente contrária às provas dos autos.
+2. Na hipótese, os jurados acolheram a tese de legítima defesa apresentada pelo réu em juízo, versão que encontra amparo, ao menos, no depoimento do acusado, de sorte que não cabe falar em dissociação completa da conclusão do Conselho de Sentença do conjunto fático-probatório dos autos.
+3. A competência para avaliar as provas da culpabilidade ou inocência do réu, nos crimes dolosos contra a vida, é do Tribunal do Júri. A reversão de seu veredicto somente é cabível quando completamente dissociado e contrário às provas dos autos. Se, por outro lado, são apresentadas duas versões em plenário e os jurados optam por uma delas, é inviável o controle judicial com espeque no art. 593, III, "d", do CPP.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO, contra decisão de minha relatoria (e-STJ, fls. 453-457), que conheceu do agravo para dar provimento ao recurso especial interposto pelo ora agravado, a fim de restabelecer a sentença absolutória.
+Em suas razões, o agravante sustenta que (i) é possível a anulação de julgamento proferido pelo Tribunal do Júri nos casos em que a decisão dos Jurados é manifestamente contrária à prova dos autos, como ocorre na hipótese; (ii) foi demonstrado que a versão do réu está isolada das demais provas, não havendo uma testemunha que corrobore os relatos da defesa; (iii) a decisão agravada, ao considerar o interrogatório do acusado como preponderante, criou uma espécie de hierarquia entre as provas.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do agravo ao crivo deste órgão colegiado.
+É o relatório.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 2.335.299 - PE (2023/0101176-7)
+RELATOR
+:
+MINISTRO RIBEIRO DANTAS
+AGRAVANTE
+:
+MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO
+AGRAVADO
+:
+SILVIO RAMOS DA SILVA
+ADVOGADO
+:
+DEFENSORIA PÚBLICA DO ESTADO DE PERNAMBUCO
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. TESE DE LEGÍTIMA DEFESA ACOLHIDA PELOS JURADOS. ALEGADA CONTRARIEDADE À PROVA DOS AUTOS. AUSÊNCIA DE DEMONSTRAÇÃO CONCRETA DE DISSOCIAÇÃO DA CONCLUSÃO DOS JURADOS COM AS PROVAS APRESENTADAS. RESTABELECIMENTO DA SENTENÇA ABSOLUTÓRIA. AGRAVO NÃO PROVIDO.
+1. É possível o controle do veredicto absolutório, em sede de apelação ministerial fundada no art. 593, III, "d", do CPP, quando o Tribunal local entender que a decisão dos jurados foi manifestamente contrária às provas dos autos.
+2. Na hipótese, os jurados acolheram a tese de legítima defesa apresentada pelo réu em juízo, versão que encontra amparo, ao menos, no depoimento do acusado, de sorte que não cabe falar em dissociação completa da conclusão do Conselho de Sentença do conjunto fático-probatório dos autos.
+3. A competência para avaliar as provas da culpabilidade ou inocência do réu, nos crimes dolosos contra a vida, é do Tribunal do Júri. A reversão de seu veredicto somente é cabível quando completamente dissociado e contrário às provas dos autos. Se, por outro lado, são apresentadas duas versões em plenário e os jurados optam por uma delas, é inviável o controle judicial com espeque no art. 593, III, "d", do CPP.
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O recurso não merece prosperar.
+Como destaquei na decisão monocrática, a Terceira Seção deste STJ firmou o entendimento de que é possível o controle do veredicto absolutório, em sede de apelação ministerial fundada no art. 593, III, "d", do CPP, quando o Tribunal local entender que a decisão dos jurados foi manifestamente contrária às provas dos autos. Eis a ementa do acórdão paradigma:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ABSOLVIÇÃO. APELAÇÃO DA ACUSAÇÃO PROVIDA. ART. 593, III, D, DO CPP. SUBMISSÃO DO RÉU A NOVO JULGAMENTO. O JUÍZO ABSOLUTÓRIO PREVISO NO ART. 483, III, DO CPP NÃO É ABSOLUTO. POSSIBILIDADE DE CASSAÇÃO PELO TRIBUNAL DE APELAÇÃO. EXIGÊNCIA DA DEMONSTRAÇÃO CONCRETA DE DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS. SOBERANIA DOS VEREDICTOS PRESERVADA. DUPLO GRAU DE JURISDIÇÃO. MANIFESTA CONTRARIEDADE À PROVA DOS AUTOS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO QUE DEMANDA REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE EM HABEAS CORPUS. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. As decisões proferidas pelo conselho de sentença não são irrecorríveis ou imutáveis, podendo o Tribunal ad quem, nos termos do art. 593, III, d, do CPP, quando verificar a existência de decisão manifestamente contrária às provas dos autos, cassar a decisão proferida, uma única vez, determinando a realização de novo julgamento, sendo vedada, todavia, a análise do mérito da demanda.
+3. A absolvição do réu pelos jurados, com base no art. 483, III, do CPP, ainda que por clemência, não constitui decisão absoluta e irrevogável, podendo o Tribunal cassar tal decisão quando ficar demonstrada a total dissociação da conclusão dos jurados com as provas apresentadas em plenário. Assim, resta plenamente possível o controle excepcional da decisão absolutória do Júri, com o fim de evitar arbitrariedades e em observância ao duplo grau de jurisdição. Entender em sentido contrário exigiria a aceitação de que o conselho de sentença disporia de poder absoluto e peremptório quanto à absolvição do acusado, o que, ao meu ver não foi o objetivo do legislador ao introduzir a obrigatoriedade do quesito absolutório genérico, previsto no art. 483, III, do CPP.
+4. O Tribunal de Justiça local, eximindo-se de emitir qualquer juízo de valor quanto ao mérito da acusação, demonstrou a existência de julgamento manifestamente contrário à prova dos autos amparado por depoimento de testemunha e exame de corpo de delito. Verifica-se que a decisão do conselho de sentença foi cassada, com fundamento de que as provas dos autos não deram respaldo para a absolvição, ante a inexistência de causas excludentes de ilicitude ou culpabilidade, não prevalecendo, atese defensiva da acidentalidade, tendo em vista a demonstração de que o acusado continuou a desferir golpes à vítima já caída ao chão, sendo a causa da sua morte, traumatismos no crânio, pescoço e tórax.
+5. Havendo o acórdão impugnado afirmado, com base em elementos concretos demonstrados nos autos, que a decisão dos jurados proferida em primeiro julgamento encontra-se manifestamente contrária à prova dos autos, é defeso a esta Corte Superior manifestar-se de forma diversa, sob pena de proceder indevido revolvimento fático-probatório, incabível na via estreita do writ. Habeas corpus não conhecido".(HC 313.251/RJ, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 28/02/2018, DJe 27/03/2018)
+Todavia, não é obrigatória esta anulação, cabendo ao Tribunal de origem a tarefa de conferir, motivadamente, se há manifesta contrariedade entre o veredicto e as provas - e é justamente aqui que reside o problema do acórdão recorrido.
+No caso, a sentença absolutória consignou o seguinte (e-STJ, fl. 324):
+"A defesa do acusado requereu a absolvição pela legítima defesa, haja vista que o réu só desferiu as facadas porque foi surpreendido com a vítima vindo em sua direção com um tijolo na mão. Subsidiariamente, requereu a aplicação da causa de diminuição de pena prevista no art. 121, §1º, sob o argumento de que o réu cometeu o crime sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima.
+O Egrégio Conselho de Sentença, respondendo ao questionário proposto, o qual não recebeu qualquer contestação pelas partes, por maioria de votos, acatou a tese defensiva de legítima defesa e, no terceiro quesito, absolveu o réu da acusação que lhe é imposta. "
+Portanto, os jurados acolheram a tese de legítima defesa apresentada pelo réu em juízo, versão que encontra amparo, ao menos, no depoimento do acusado, de sorte que não cabe falar em dissociação completa da conclusão do Conselho de Sentença do conjunto fático-probatório dos autos.
+Com efeito, resta evidente a valoração aprofundada da prova realizada pela Corte Estadual, o que é inadmissível na apelação do art. 593, III, "d", do CPP - até mesmo porque o jurado tem a prerrogativa de acreditar na versão apresentada pelo réu e dela se convencer.
+Afinal, a competência para avaliar as provas da culpabilidade ou inocência do réu, nos crimes dolosos contra a vida, é do Tribunal do Júri. A reversão de seu veredicto somente é cabível quando completamente dissociado e contrário às provas dos autos. Se, por outro lado, são apresentadas duas versões em plenário e os jurados optam por uma delas, é inviável o controle judicial com espeque no art. 593, III, "d", do CPP.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 121, § 2º, III, DO CP. VÍCIO NA QUESITAÇÃO. NÃO ALEGAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. ANÁLISE DO ELEMENTO SUBJETIVO DO TIPO. AFERIÇÃO DA EXISTÊNCIA DE CULPA CONSCIENTE OU DOLO EVENTUAL. COMPETÊNCIA DO TRIBUNAL DO JÚRI. QUALIFICADORA DO PERIGO COMUM. ALEGADO BIS IN IDEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. JULGAMENTO MANIFESTAMENTE CONTRÁRIO À PROVADOS AUTOS. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO. .. 5. A teor do entendimento desta Corte, não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados. ..
+7. Agravo regimental improvido".(AgRg no REsp 1885871/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021)
+Em outras palavras, não basta que o Tribunal aponte elementos de prova favoráveis à argumentação do Parquet; para se cassar um veredicto favorável ao réu, é preciso que os julgadores expliquem que a tese defensiva não corresponde a nenhum elemento de prova, e isso não foi feito pelo TJ/PE.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
