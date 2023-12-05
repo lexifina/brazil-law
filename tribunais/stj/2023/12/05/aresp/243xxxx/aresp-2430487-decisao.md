@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por EMPRESA DE GESTAO DE RECURSOS DO ESTADO DO PIAUI S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+EMENTA: CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECUSA ILEGAL PELA EMGERPI DE TRANSFERIR IMÓVEL QUITADO PARA O NOME DA APELADA POR LAPSO DE TEMPO DESARRAZOADO. RESPONASBILIDADE OBJETIVA DA SOCIEDADE DE ECONOMIA MISTA. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 8º do CPC, sustentando a inobservância dos princípios da razoabilidade e proporcionalidade no tocante à determinação judicial que ordenou a imediata transferência do imóvel objeto da lide, uma vez que é necessário regularizá-los antes, com o desmembramento e averbação dos lotes, bem como a tomada de providências por outros órgãos para, assim, ocorrer a efetivação da transferência, trazendo a seguinte argumentação:
+O v.acórdão entendeu por manter a sentença em todos os seus termos determinando a imediata transferência do imóvel:
+ ..
+No entanto, conforme é sabido o imóvel objeto da lide faz parte do conjunto Renascença I, conjunto esse que o desmembramento e averbação de seus lotes não se encontram realizados.
+A transferência de lotes/casas só poderá acontecer após a individualização das matrículas. Para isso, são necessárias várias etapas e procedimentos, quais sejam: desmembramento do registro original, registro de loteamento, abertura de matrícula por lote, dentre outros.
+Importante destacar ainda que para tal procedimento seja concluído, não depende apenas da Emgerpi, dependendo também de outros órgãos, bem como do cartório.
+Assim, existem várias providências a serem tomadas ainda com o objetivo de regularizar esta questão e tais providências demandam um lapso temporal que se estendem mais do que o esperado pela Emgerpi, devido a necessidade do cumprimento de todas as exigências legais.
+Vale ressaltar que a Emgerpi está tomando todas as providências necessárias para finalizar a regularização do conjunto Renascença I, assim como outros que se encontram na mesma situação.
+ ..
+No v.acórdão ficou mantida a determinação de que todo o procedimento fosse realizado imediatamente, o que se torna inviável, mesmo com o procedimento já iniciado, tendo em vista que a Emgerpi apesar de está tomando todas as medidas necessárias para a regularização do conjunto, é dependente de outros órgãos, bem como do cartório para finalizar todo o procedimento legal.
+Assim, verifica-se que no acórdão não foram observados os princípios da proporcionalidade e da razoabilidade no que diz respeito ao tempo, determinado para realizar a regularização e averbação do imóvel e entregar a documentação necessária para a autora, violando frontalmente o artigo 8º da Lei 13105/15.
+ ..
+Destarte tal princípio não foi observado no acórdão, uma vez que é inviável, mesmo já estando em andamento, a conclusão da regularização e averbação das casas/lotes localizadas no conjunto Renascença I de forma imediata.
+(fls. 354-361).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto a alegação aos princípios da proporcionalidade e razoabilidade, não prospera tal manifestação, haja vista que foram devidamente atendidos, mostrando-se a inobservância dos princípios, vez que a embargada realizou todos os procedimentos necessários para a transferência do imóvel para seu nome, estando a sentença de piso de acordo com as normas processuais.
+(fls. 339).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
