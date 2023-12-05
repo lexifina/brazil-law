@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por CENTAURO VIDA E PREVIDÊNCIA S.A. contra acórdão proferido pela Quarta Turma desta Corte, de relatoria do Ministro Antonio Carlos Ferreira, nos termos da seguinte ementa (fls. 903-904):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA E INVALIDEZ EM GRUPO. DEVER DE INFORMAÇÃO. ÔNUS DA ESTIPULANTE. TEMA REPETITIVO N. 1.112/STJ. ACÓRDÃO RECORRIDO FUNDAMENTADO NA AUSÊNCIA DE INFORMAÇÃO À ESTIPULANTE SOBRE AS CLÁUSULAS LIMITATIVAS. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISTINÇÃO. DECISÃO MANTIDA.
+1. Controvérsia de mérito relativa à cobertura de sinistro em contrato de seguro de vida coletivo grupo pactuado com a cláusula de Invalidez Permanente Total ou Parcial por Doença (IPD).
+2. Segundo o Tema Repetitivo n. 1.112/STJ, "Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre".
+3. O Tribunal de origem concluiu que "não há nos autos qualquer evidência com capacidade de demonstrar a ciência do autor, ou mesmo da estipulante, a respeito das limitações contratuais".
+4. Alterar essa conclusão da Corte local demandaria o reexame das provas, o que é vedado em recurso especial, em virtude da Súmula n. 7/STJ.
+5. A ausência de informação não só ao segurado, mas também à estipulante, autoriza distinção quanto ao Tema Repetitivo n. 1.112/STJ, no caso concreto.
+6. Agravo interno a que se nega provimento.
+Sem embargos de declaração.
+Aduz a embargante, em síntese, que "o equivocado entendimento do Tribunal a quo, de que a responsabilidade pela ciência do segurado também recairia à seguradora, restou mantido pela Quarta Turma na decisão ora embargada, posicionamento que diverge dos julgamentos proferidos pela Terceira Turma acerca da mesma matéria, bem como da própria Tese firmada pelo Tema Repetitivo 1112, conforme restará demonstrado a seguir, mediante o cotejo analítico" (fl. 930).
+Alega, por fim, que, "Conforme restou demonstrado acima, há nítida divergência entre a decisão ora embargada, que acolheu o entendimento do Tribunal a quo no sentido de que a responsabilidade de repasse das informações do seguro ao segurado também recairia sobre a seguradora, e o posicionamento da Terceira Turma dessa Corte, lastreado no Tema Repetitivo1112, no sentido de que compete exclusivamente ao Estipulante o dever de prestar informações prévias aos segurados acerca das disposições contratuais da Apólice" (fl. 934).
+Eis as ementas dos acórdãos apresentados como paradigmas:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. EXCLUSIVIDADE. ESTIPULANTE. INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE (IPA). INDENIZAÇÃO SECURITÁRIA. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE.
+1. O Superior Tribunal de Justiça entende que, no contrato de seguro de vida em grupo, cabe à estipulante - e não à seguradora - o dever de fornecer ao segurado ampla e prévia informação acerca dos contornos contratuais, no que se inserem, em especial, as cláusulas restritivas. Precedentes.
+2. Quando a invalidez for parcial, o valor indenizatório deverá ser proporcional à diminuição da capacidade física sofrida pelo segurado com o sinistro, devendo ocorrer o enquadramento da situação em tabela prevista nas condições gerais e/ou especiais do seguro, a qual segue critérios objetivos. Para cada grau de inutilização definitiva da estrutura física do indivíduo, haverá um percentual adequado do capital segurado máximo, uma fração, apto a indenizá-lo.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.860.584/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DEVER DE INFORMAÇÃO QUANTO ÀS CONDIÇÕES DA APÓLICE QUE DEVEM SER OBSERVADAS PELA ESTIPULANTE. IMPOSSIBILIDADE DE EQUIPARAÇÃO ENTRE DOENÇA PROFISSIONAL E ACIDENTE PESSOAL. LIMITES DA APÓLICE.
+1. Não há falar em negativa de prestação jurisdicional quando o julgador decide a matéria controvertida de forma completa, clara e fundamentada, ainda que contrariamente aos interesses da parte.
+2. Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre (REsp n. 1.874.788/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023).
+3. A jurisprudência desta Corte orienta que a modalidade de seguro invalidez por acidente pessoal não estende sua cobertura à invalidez por doença. Da mesma forma, a cobertura para Invalidez Funcional Permanente Total por Doença (IFPD) não pode ser acionada quando houver incapacidade decorrente de doença que não cause a perda da existência independente do segurado.
+4 . Agravo interno não provido.
+(AgInt no REsp n. 1.923.355/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+É, no essencial, o relatório.
+Após minucioso exame dos presentes embargos de divergência, conclui-se que o recurso não reúne condições de admissibilidade, pois inexiste a necessária similitude fática entre os acórdãos confrontados a ensejar o processamento do recurso.
+O acórdão embargado negou provimento ao agravo interno ao fundamento de que (fl. 903):
+O Tribunal de origem concluiu que "não há nos autos qualquer evidência com capacidade de demonstrar a ciência do autor, ou mesmo da estipulante, a respeito das limitações contratuais".
+Por sua vez, os acórdãos paradigmas afirmam que (fl. 868):
+O Superior Tribunal de Justiça entende que, no contrato de seguro de vida em grupo, cabe à estipulante - e não à seguradora - o dever de fornecer ao segurado ampla e prévia informação acerca dos contornos contratuais, no que se inserem, em especial, as cláusulas restritivas. Precedentes. (AgInt nos EDcl no REsp n. 1.860.584/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre (REsp n. 1.874.788/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023). (AgInt no REsp n. 1.923.355/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+Nota-se que fica evidente a ausência de similitude fático-jurídica entre os acórdãos confrontados, porquanto no acórdão embargado ficou claro que nem o segurando, nem o estipulante tinha conhecimento das limitações do contrato de seguro, o que obsta o processamento dos embargos de divergência.
+A propósito, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ATUALIDADE E CONTEMPORANEIDADE DOS PARADIGMAS. INEXISTÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência pacífica desta Corte deve a parte embargante apontar julgados contemporâneos ao acórdão embargado ou então supervenientes a este. Precedentes: AgInt nos EAREsp n. 1.725.259/RS, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 30/9/2021; AgInt nos EREsp n. 1.892.676/PR, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 17/2/2023; AgInt nos EAREsp n. 1.638.767/GO, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 3/12/2021.
+2. A ausência de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência.
+3. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Agravo interno improvido.
+(AgInt nos EREsp n. 2.017.003/PA, relator Ministro Humberto Martins, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. INDEFERIMENTO DA PETIÇÃO INICIAL SEM POSSIBILIDADE DE EMENDA. IMPOSSIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA. DIVERGÊNCIA NÃO DEMONSTRADA. AGRAVO NÃO PROVIDO.
+1. O cabimento dos embargos de divergência pressupõe a existência de similitude entre os acórdãos postos em cotejo, a ser verificada com base nos fatos processuais neles contidos.
+2. A anulação da sentença que indeferiu a petição inicial sem permitir a emenda decorreu de uma série de fatos processuais, mais amplos e diversos do que os registrados nos paradigmas.
+3. Não foi demonstrada a adoção de soluções jurídicas diversas em casos cujos parâmetros fáticos sejam efetivamente semelhantes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 2.028.386/PA, relator Ministro Og Fernandes, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023.)
+Além disso, verifica-se que o acórdão embargado não teve o mérito recursal
+analisado em decorrência do óbice da Súmula n. 7/STJ
+A jurisprudência pacífica desta Corte é no sentido de que são incabíveis embargos de divergência quando o acórdão embargado não ultrapassa a barreira de admissibilidade recursal, e o paradigma analisa o mérito.
+A propósito, cito os precedentes:
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISSÍDIO PRETORIANO NÃO DEMONSTRADO.
+1. Nos termos dos artigos 1.043 do CPC e 266 do RISTJ, cabem embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro órgão jurisdicional do Tribunal, sendo os acórdãos embargado e paradigma de mérito ou um acórdão de mérito e outro que, embora não conhecendo do recurso, tenha apreciado a controvérsia.
+2. Hipótese em que apontados arestos paradigmas que versam sobre matérias não examinadas no acórdão embargado, razão pela qual evidente a falta de comprovação do dissídio pretoriano autorizador do manejo de embargos de divergência.
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 1.849.029/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 15/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. AUSÊNCIA DE JUNTADA DAS CÓPIAS OU DE REPOSITÓRIO DO INTEIRO TEOR DO ARESTO APONTADO COMO PARADIGMA
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ (AgInt nos EDv nos EREsp 1.792.499/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 2/6/2021, DJe 14/6/2021).
+2. Além disso, o recurso padece de vício formal insanável, consubstanciado na ausência de juntada das cópias ou do repositório do inteiro teor dos arestos apontados como paradigmas. A propósito, a jurisprudência é uníssona no sentido de que tal falha não enseja a abertura de prazo para regularização, afastando a incidência do parágrafo único do art. 932 do CPC/2015 (AgInt nos EAREsp 1.771.636/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 1/9/2021, DJe 13/9/2021).
+3. Agravo interno não provido.
+(AgInt nos EDv nos EAREsp n. 1.632.769/SP, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 18/10/2021.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Deixo de majorar os honorários advocatícios por já terem sido fixados em grau máximo.
+Publique-se. Intimem-se.
+EMENTA
