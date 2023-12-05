@@ -1,0 +1,26 @@
+DECISÃO
+Em exame, agravo de decisão que deixou de admitir recurso especial interposto por ROTA 5 PROMOÇÕES EVENTOS E PUBLICIDADE LTDA em face de acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SUBSTITUIÇÃO PELO FISCO DA CDA APRESENTADA NOS FÓLIOS. ERRO MATERIAL. VÍCIO SANÁVEL. ART 2º, § 8º, DA LEI N. 6830/80. INEXISTÊNCIA DE ALTERAÇÃO DO POLO PASSIVO DA DEMANDA. ENUNCIADO SUMULAR N. 392, DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, aponta-se ofensa aos arts. 141, 492 e 1.022, II, do CPC, alegando que "o acórdão embargado, ao desconsiderar totalmente as alegações da recorrente, incorreu em flagrante erro material, por ter deixado de analisar os fundamentos da inicial acerca da prescrição e proferido decisão extra petita, mesmo após o questionamento de tal erro através dos embargos de declaração interpostos".
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que não merece prosperar.
+Quanto à apontada violação ao art. 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (a) o título executivo apresentado possui equívoco tão somente na primeira página, tratando-se, a toda evidência, de erro material, o que pode ser sanado, (b) verifica-se que a execução em comento fora ajuizada, efetivamente, em face da agravante, não havendo que se falar em alteração do polo passivo, circunstância que afastaria a permissão legislativa quanto à referida substituição e (c) é firme a jurisprudência do Superior Tribunal de Justiça - STJ no sentido de que se mostra prematura a extinção, de ofício, da execução fiscal em virtude da nulidade da Certidão de Dívida Ativa quando se trate de defeitos sanáveis.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo da parte com o julgamento contrário à pretensão não caracteriza falta de prestação jurisdicional.
+Assim, inexiste violação ao art. 1.022, II, do CPC.
+Ademais, convém pontuar que o erro material diz respeito aquele equívoco involuntário, completamente desvinculado da vontade do subscritor da decisão e, portanto, perceptível primo icto oculi da simples leitura da decisão judicial.
+Segundo a doutrina,
+Constitui erro material aquele que pode ser verificado e corrigido a partir de critérios objetivos. Trata-se de defeito "manifesto", "evidente", "reconhecíve l à primeira vista", "patente", "notório". O erro material reside na expressão do julgamento, e não no julgamento em si ou em suas premissas. Trata-se de uma inconsistência que pode ser clara e diretamente apurada e que não tem como ser atribuída ao conteúdo do julgamento - podendo apenas ser imputada à forma (incorreta) como ele foi exteriorizado. (Cf. TOSCAN, Anissara. Preclusão Processual Civil. Estática e Dinâmica. 1ª ed. em e-book. São Paulo: Editora Revista dos Tribunais. 2015).
+Nesses termos, considerando que nenhum erro material, de fato, foi apontado pela recorrente, as razões recursais revelam mero inconformismo com o entendimento firmado no acórdão recorrido.
+Com relação à apontada violação aos arts. 141 e 492 do CPC, o recurso especial não pode ser conhecido, pois, sobre as matérias de que tratam essas normas, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Como se sabe, o prequestionamento da matéria pressupõe o efetivo debate da matéria pelo acórdão recorrido, o que não ocorreu.
+Ademais, exsurge deficiente a fundamentação recursal, pois a recorrente limitou-se a indicar os dispositivos supostamente violados, deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, dando azo à aplicação, por analogia, do óbice da Súmula 284/STF.
+Com efeito, "a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Incidência da Súmula 284 do STF" (AgInt no AREsp 1.025.432/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe de 15/09/2017).
+Por fim, ilidir o afirmado pelas instâncias ordinárias - de que não houve substituição do sujeito passivo da obrigação tributária, tratando-se de mero erro material sanável -, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Isso posto, conheço do agravo para negar provimento ao recurso especial.
+Intime-se.
+EMENTA
