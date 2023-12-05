@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por COPEL DISTRIBUIÇÃO S.A, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 17/05/2023.
+Concluso ao Gabinete em: 30/11/2023.
+Ação: regressiva, ajuizada por HDI SEGUROS S.A, em desfavor da recorrente, por meio da qual objetiva o ressarcimento de valor pago a título de indenização ao seu segurado por danos elétricos ocorridos em decorrência de descarga elétrica.
+Decisão interlocutória: acolheu a preliminar de incompetência do juízo e determinou a remessa dos autos a uma das Varas da Fazenda Pública de Curitiba - PR.
+Acórdão: deu provimento ao agravo de instrumento interposto pela recorrida, a fim de determinar que o processo prossiga na Comarca de São Paulo - SP. O acórdão foi assim ementado:
+Agravo de instrumento. Ação regressiva de ressarcimento de danos intentada pela seguradora contra a empresa concessionária de energia elétrica. Decisão que declarou a incompetência da Comarca de São Paulo, determinando a remessa dos autos para a Comarca de Curitiba, local de domicílio da requerida. Recurso da autora. 1. A seguradora que indeniza o segurado em razão de dano experimentado por defeito ou vício no serviço de fornecimento de energia elétrica se sub-roga nos direitos do consumidor, nos termos do artigo 786, do Código Civil (STJ, AgInt no AREsp nº 1.252.057, relator Ministro Napoleão Nunes Maia Filho, j. em 15.12.2020; AgInt no AREsp nº 1.968.998, relator Ministro Herman Benjamin, j. em 21.20.2022; AgInt no REsp nº 1.865.798, relator Ministro Luis Felipe Salomão, j. em 15.12.2020; REsp nº 1.651.936, relatora Ministra Nancy Andrihi, j. em 05.10.2017). Com a sub-rogação, a seguradora passa a ocupar mesma posição jurídica do segurado, pelo que o sucede na titularidade de todos os seus direitos, seja de direito material, seja de direito processual. Neste sentido, um dos direitos do consumidor consiste na possibilidade de ajuizar ação (envolvendo responsabilidade civil do fornecedor de produto ou serviço) no seu domicílio (artigo 101, I, da Lei nº 8.078/90). Transferido esse direito à seguradora, mercê da sub-rogação, a agravante tem a prerrogativa de aforar a ação no foro de seu domicílio no caso a Comarca de São Paulo. Recurso provido (e-STJ fl. 44).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 46 e 53, III, "a", IV, "a", do CPC; 347, I, e 786 do CC; e 101, I, do CDC. Sustenta que a sub-rogação a que faz jus a seguradora não se estende às prerrogativas de ordem processual, de modo que a presente ação regressiva não poderia ter sido ajuizada no Estado de São Paulo - SP.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+O TJ/SP, ao decidir que "um dos direitos do consumidor consiste na possibilidade de ajuizar ação (envolvendo responsabilidade civil do fornecedor de produto ou serviço) no seu domicílio" e que "Transferido esse direito à seguradora, mercê da sub-rogação, a agravante tem a prerrogativa de aforar a ação no foro de seu domicílio - no caso a Comarca de São Paulo" (e-STJ fl. 49)" (e-STJ fl. 64), divergiu do entendimento do STJ no sentido de que a sub-rogação limita-se aos direitos de natureza material e não aos de natureza processual, como é o caso da definição da competência (AgInt no AREsp 2.036.742/SP , 2ª Turma, DJe 19/08/2022; REsp 1.962.113/RJ , 3ª Turma, DJe 25/03/2022; REsp 1.038.607/SP , 3ª Turma, DJe 05/08/2008; CC 21.829/SP, 1ª Seção, DJ 15/05/2000).
+O acórdão recorrido, portanto, merece reforma.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para para restabelecer a decisão de 1ª grau e declarar competente para processar e julgar o feito a comarca de Curitiba - PR, à qual devem ser redistribuídos os autos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL, CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO REGRESSIVA. INDENIZAÇÃO SECURITÁRIA.
+1. Ação regressiva de indenização securitária.
+2. A sub-rogação limita-se aos direitos de natureza material e não aos de natureza processual, como é o caso da definição da competência.
+3. Recurso especial conhecido e provido.
