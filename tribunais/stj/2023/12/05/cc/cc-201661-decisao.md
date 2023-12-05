@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se  de  conflito  negativo  de  competência  suscitado  pelo  JUÍZO  FEDERAL  DA  2ª  VARA  DO JUIZADO ESPECIAL  DE  SÃO  BERNARDO DO CAMPO  -  SJ/SP  em  face  do  JUÍZO  DE  DIREITO  DA  4ª  VARA  CÍVEL  DE  DIADEMA/SP.
+Ação:  carta  precatória  em ação de indenização  proposta  no foro federal de São Bernardo do Campo  por LUCIA BARBOSA DE ARAUJO em face da CAIXA  ECONÔMICA  FEDERAL e COMERCIAL OSWALDO CRUZ LTDA. , expedida para cumprimento de diligência no Município de Diadema.
+Manifestação  do  Juízo  suscitado:  recusou  o  cumprimento  da  carta  precatória , sob a alegação de que a Subseção Judiciária de São Bernardo do Campo teria jurisdição sobre o local de cumprimento do ato (Diadema). (e-STJ, fls. 83/84)
+Manifestação  do  Juízo  suscitante:  suscitou  o  conflito  de  competência,  argumentando "a impossibilidade de cumprimento por Oficial de Justiça fora do limite do Município em que esteja lotado" (e-STJ, fl. 85).
+Parecer  do  MPF:  manifestou-se  no sentido de que seja  declarada  a  competência  do  juízo  federal  para  cumprimento  da  carta  precatória.
+RELATADO  O  PROCESSO,  DECIDO.
+Conheço  do  conflito  por  se  tratar  de  incidente  instaurado  entre  juízos  vinculados  a  Tribunais  distintos,  com  fulcro  no  art.  105,  inciso  I,  alínea  "d",  da  Constituição  Federal.
+Acerca  do  cumprimento  de  carta  precatória  em  processo  em  curso  na  Justiça  Federal  o  art.  237,  parágrafo  único,  do  CPC/15  assim  dispõe:
+Art.  237.  (..)  Parágrafo  único:  Se  o  ato  relativo  a  processo  em  curso  na  justiça  federal  o u  em  Tribunal  Superior  houver  de  ser  praticado  em  local  onde  não  haja  vara  federal,  a  carta  poderá  ser  dirigida  ao  juízo  estadual  da  respectiva  comarca.
+Depreende-se  dos  autos  que  o  juízo  suscitante  expediu  carta  precatória  à  justiça  estadual  da  Comarca  de  Diadema  com  a  finalidade  de  citar um dos réus da ação indenizatória de que tratam os autos.
+Contudo,  o  juízo  suscitado  rejeitou  o  seu  cumprimento  por  entender  que  a  comarca  faz  parte  da  jurisdição  da  justiça  federal,  determinando  a  competência  desta  e,  por  consequência,  afastando  a  competência  da  justiça  estadual.
+Esta  Corte  Superior  já  apreciou  casos  análogos,  consolidando  o  entendimento  que  as cartas precatórias expedidas pela Justiça Federal devem ser cumpridas pela Justiça Estadual sempre que a comarca não for sede de Vara Federal. Admite-se, todavia, a recusa por parte do juízo deprecado quando evidenciada uma das hipóteses do art. 267 do CPC/15, a saber: a) a carta não estiver revestida dos requisitos legais; b) faltar ao juízo deprecante competência em razão da matéria ou da hierarquia, ou c) o juízo deprecado tiver dúvida acerca da autenticidade da carta.
+Assim, incabível a recusa de cumprimento da carta precatória expedida pelo Juízo Federal, ao argumento de que a subseção de São Bernardo do Campo teria jurisdição sobre o local de cumprimento do ato (Diadema), tendo em vista que não há na Comarca de Diadema vara da Justiça Federal para cumprimento da diligência.
+A propósito:  CC 127.561/PA, Terceira Seção, DJe 20/3/2015;  CC 158.953/SC, Primeira Seção, DJe 29/08/2018; REsp 1.820.682/PR, Segunda Turma, DJe 11/10/2019.
+Dessa  forma,  como  a  comarca  de  Diadema  não  é  sede  da  vara  do  Juízo  Federal  suscitado,  mas  apenas  sobre  ela  é  exercida  a  jurisdição  federal,  aplica-se  à  hipótese,  portanto,  o  disposto  nos  arts.  237,  parágrafo  único,  do  CPC/15 ,  para  concluir  que  compete  ao  Juízo  Estadual  o  cumprimento  da  carta  precatória.
+Forte  nessas  razões,  CONHEÇO  do  conflito  para  declarar  a  competência  do  JUÍZO  DE  DIREITO  DA  4ª  VARA  CÍVEL  DE  DIADEMA/SP.
+Publique-se.  Intimem-se.  Oficie-se.
+EMENTA
+CONFLITO  NEGATIVO  DE  COMPETÊNCIA.  PROCESSO  CIVIL.  CARTA  PRECATÓRIA. JUSTIÇA  FEDERAL.  AUSÊNCIA  DE  VARA  FEDERAL  NO  LOCAL  DO  CUMPRIMENTO  DA  DILIGÊNCIA.  COMARCA  DO  INTERIOR.  CUMPRIMENTO  PELA  JUSTIÇA  ESTADUAL.  INTELIGÊNCIA  DO  ARTIGO  237  DO  CPC/15.
+1.  O  comando  inserto  no  art.  237,  parágrafo  único,  do  CPC/15  determina  que  compete  à  Justiça  Estadual  cumprir  as  cartas  precatórias  expedidas  pela  Justiça  Federal  sempre  que  a  localidade  para  o  cumprimento  da  diligência  não  possuir  sede  de  Vara  Federal.
+2.  Conflito  conhecido. Reconhecida a competência do  JUÍZO  DE  DIREITO  DA  4ª  VARA  CÍVEL  DE  DIADEMA/SP.
