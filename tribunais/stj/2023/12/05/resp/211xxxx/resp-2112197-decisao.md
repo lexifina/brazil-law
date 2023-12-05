@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ASSOCIAÇÃO DE BENEFICÊNCIA E FILANTROPIA SÃO CRISTÓVÃO (ASSOCIAÇÃO), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Desembargador LUIZ ANTONIO COSTA, assim ementado:
+Apelação - Plano de Saúde - Ação de Obrigação de Fazer cc Indenização por Danos Morais - Paciente portador de Transtorno de Síndrome de Down - Prescrição de tratamento pelo método ABA - Sentença de procedência - Aplicação do Código de Defesa do Consumidor - Rol orientador da ANS prevê apenas cobertura mínima obrigatória - Súmula 102 deste Tribunal - Somente ao médico que acompanha o caso é dado estabelecer qual o tratamento adequado para alcançar a cura ou amenizar os efeitos da enfermidade que acomete o paciente - Súmula 96 deste Tribunal- Tratamento indicado por médico responsável pelo atendimento da criança - Entendimento jurisprudencial deste E. Tribunal - Danos morais não configurados - Condenação em maior quantidade no que tange aos honorários advocatícios que não representa "reformatio in pejus" - Entendimento deste E. Tribunal - Sentença parcialmente reformada - Recurso parcialmente provido. (e-STJ, fl. 403).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 52/55).
+Nas razões do presente recurso, ASSOCIAÇÃO alegou a violação aos arts. 10, § 4º, da Lei nº 9.656/98 e 4º, III, da Lei nº 9.961/2000, ao sustentar que, se a própria Agência reguladora, que detém autoridade e controle sobre o mercado de planos de saúde, não determina a cobertura obrigatória para terapias com método ABA e PEDIASUITE, vez que não incluído no rol vigente à época da solicitação, não cabe a cobertura de qualquer despesa neste aspecto.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Do tratamento
+Sobre o tratamento a ser fornecido pelo plano de saúde, os julgadores assim esclareceram:
+O Autor é beneficiário de plano de saúde e foi diagnosticado com "Síndrome de Down", razão pela qual foi-lhe prescrito tratamento multidisciplinar pelo método ABA (fls. 47).
+O relatório do médico prescreve suficientemente o tratamento multidisciplinar pelo método ABA (fls. 47) e, diante da negativa do plano de saúde, o Autor ajuizou a presente ação.
+ ..
+No caso, o Autor é portador de "Síndrome de Down" e necessita de tratamento, não podendo a operadora do contrato, por conta de cláusula contratual limitativa ou ausência de previsão, privar o paciente de submeter-se ao método terapêutico mais moderno disponível.
+ ..
+Ademais, é entendimento deste Tribunal o de que não se pode interferir nas prescrições médicas, de modo que cabe somente ao médico que atende o paciente, prescrever o tratamento mais adequado para o controle da doença. (e-STJ, fls. 404/407).
+Com efeito, é nesse sentido o entendimento desta Corte em relação ao tema. Confiram-se:
+DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. SESSÕES DE FISIOTERAPIA, TERAPIA OCUPACIONAL E FONOAUDIOLOGIA. SÍNDROME DE DOWN. NECESSIDADE. LIMITAÇÃO. RECUSA ABUSIVA. AGRAVO DESPROVIDO.
+1. "A jurisprudência desta Corte entende abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS (AgInt no AgInt no AREsp 1.696.364/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 31/8/2022).
+2. "Segundo a diretriz da ANS, o fato de a síndrome de Down não estar enquadrada na CID F84 (transtornos globais do desenvolvimento) não afasta a obrigação de a operadora cobrir o tratamento multidisciplinar e ilimitado prescrito ao beneficiário com essa condição que apresente quaisquer dos transtornos globais do desenvolvimento" (REsp 2.008.283/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/4/2023, DJe de 14/4/2023).
+3. No caso, o Tribunal a quo consignou expressamente ser incontroversa a necessidade do paciente de ser submetido ao tratamento prescrito pelo médico com sessões de fisioterapia, terapia ocupacional e fonoaudiologia para o tratamento/manejo de síndrome de down, de modo que a recusa do plano de saúde, na hipótese, se mostra abusiva.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.916.147/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.)
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. BENEFICIÁRIO PORTADOR DE SÍNDROME DE DOWN. PRESCRIÇÃO DE TRATAMENTO COM TERAPIAS MULTIDISCIPLINARES INCLUINDO EQUOTERAPIA. SESSÕES ILIMITADAS. COBERTURA OBRIGATÓRIA. ATENDIMENTO POR PROFISSIONAIS FORA DA REDE CREDENCIADA. EXCEÇÃO.
+1. Ação de obrigação de fazer ajuizada em 04/02/2020, da qual foi extraído o presente recurso especial, interposto em 05/11/2021 e concluso ao gabinete em 04/07/2022.
+2. O propósito recursal é decidir sobre a obrigação de a operadora do plano de saúde cobrir as terapias multidisciplinares prescritas para o beneficiário portador de síndrome de Down, sem limites de sessões, com os profissionais escolhidos pela família, fora da rede credenciada.
+3. Ao julgamento realizado pela Segunda Seção, no EREsp 1.889.704/SP, sobrevieram diversas manifestações da ANS, no sentido de reafirmar a importância das terapias multidisciplinares para os portadores de transtorno global do desenvolvimento, e de favorecer, por conseguinte, o seu tratamento integral e ilimitado.
+4. Segundo a diretriz da ANS, o fato de a síndrome de Down não estar enquadrada na CID F84 (transtornos globais do desenvolvimento) não afasta a obrigação de a operadora cobrir o tratamento multidisciplinar e ilimitado prescrito ao beneficiário com essa condição que apresente quaisquer dos transtornos globais do desenvolvimento.
+5. Na linha da manifestação do Conselho Federal de Medicina e do Conselho Federal de Fisioterapia e Terapia Ocupacional, o legislador editou a Lei 13.830/2019, na qual reconheceu a equoterapia como método de reabilitação que utiliza o cavalo em abordagem interdisciplinar nas áreas de saúde, educação e equitação voltada ao desenvolvimento biopsicossocial da pessoa com deficiência (§ 1º do art. 1º), cuja prática está condicionada a parecer favorável em avaliação médica, psicológica e fisioterápica.
+6. A obrigação principal assumida pela operadora é a de disponibilizar, em sua rede credenciada, profissionais aptos a realizar o atendimento do beneficiário; apenas na hipótese de indisponibilidade ou inexistência de prestador credenciado, surge para a operadora o dever de garantir atendimento fora da rede credenciada ou fora do município, nos moldes do que estabelece a Resolução Normativa 566/2022.
+7. Hipótese em que o beneficiário, portador de síndrome de Down, faz jus à cobertura das terapias multidisciplinares prescritas para seu tratamento, em número ilimitado de sessões, sendo-lhe garantido atendimento fora da rede credenciada apenas nas hipóteses de indisponibilidade ou inexistência de prestador apto da rede credenciada.
+8. Recurso especial conhecido e desprovido, com majoração de honorários.
+(REsp n. 2.008.283/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO DE AUTISMO E SÍNDROME DE DOWN. LIMITAÇÃO DE SESSÕES DE PSICOTERAPIA E FONOTERAPIA. NEGATIVA DE COBERTURA. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, à luz do Código de Defesa do Consumidor, "devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no AREsp 1.219.394/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/02/2019, DJe de 19/02/2019).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.662.481/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/10/2020, DJe de 16/11/2020.)
+Incidência da Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ACOS, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. PLANO DE SAÚDE. TRATAMENTO. SÍNDROME DE DOWN. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
