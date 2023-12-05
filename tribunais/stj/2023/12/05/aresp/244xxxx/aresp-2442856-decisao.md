@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por GOLD YELLOW EMPREENDIMENTOS IMOBILIARIOS SPE LTDA E OUTRA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fls. 395/396):
+APELAÇÃO CÍVEL COM REMESSA NECESSÁRIA  AÇÃO DECLARATÓRIA DE NULIDADE DE MULTA ADMINISTRATIVA  PROGRAMA DE PROTEÇÃO E DEFESA DO CONSUMIDOR (PROCON)  PROCESSO ADMINISTRATIVO  ILEGALIDADE  NÃO VERIFICAÇÃO  MULTA  IMPOSIÇÃO  QUANTUM ARBITRADO  ARTIGO 16, § 1º, DO CDC  APLICAÇÃO  CRITÉRIO DA RAZOABILIDADE  OBSERVÂNCIA  RECURSO PROVIDO  SENTENÇA REFORMADA.
+1. Verificada a prática lesiva ao Código de Defesa do Consumidor, por meio de processo administrativo fundamentado, observado o devido processo legal, com a garantia da ampla defesa e do contraditório, a aplicação de multa está no âmbito do poder discricionário da Administração.
+2. Não se pode acoimar de ilegal ou abusiva a multa aplicada pelo órgão de defesa do consumidor em conformidade com os artigos 56, I, e 57, caput, do Código de Defesa do Consumidor, bem como aplicável o artigo 16, § 1º, do mesmo Diploma, quando não apresentado pelo fornecedor o faturamento bruto trimestral da empresa.
+3. Montante fixado dentro do critério da razoabilidade.
+4. Recurso provido e, em reexame, sentença retificada.
+Opostos sucessivos embargos declaratórios, foram ambos acolhidos em parte, sem alteração do resultado (fls. 459/469 e 492/499).
+Nas razões do recurso especial, as partes agravantes apontam, além do dissídio jurisprudencial, violação aos seguintes dispositivos da legislação federal:
+(I) arts. 489, § 1º, IV e VI, e 1.022, parágrafo único, I e II, ambos do CPC, ao argumento de que o Tribunal a quo rechaçou de forma genérica todas as alegações apresentadas;
+(II) art. 272 do CPC, afirmando que os patronos atuais não foram intimados acerca da sentença de parcial procedência, tampouco dos atos posteriores. Acrescentam que mesmo após a constituição de novo patronos, oportunidade na qual foi formulado requerimento para intimação exclusiva, a alteração não foi observada pelo cartório, uma vez que continuaram registrados apenas os primeiros advogados indicados.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Quanto ao mais, observa-se dos autos que o Tribunal de origem, ao afastar a tese de nulidade da intimação, esclareceu o seguinte (fls. 496/498):
+Não obstante haja a possibilidade de que a serventia realize a habilitação, essa situação ocorre de forma subsidiária. Hipótese distinta seria de alguma impossibilidade técnica, o que não há notícia.
+As partes devem movimentar os autos sob o princípio da cooperação processual, com ênfase no Código de Processo Civil:
+ ..
+Portanto, cabia ao patrono a utilização do aludido recurso com intuito de resguardar o recebimento regular dos atos processuais, não podendo o referido causídico, a essa altura, pretender se valer de sua própria inércia para anular os atos processuais.
+Frisa-se que o PJE possui campo próprio para o advogado requerer a habilitação nos autos, permitindo, assim, que as intimações sejam realizadas em nome dos causídicos habilitados, inclusive de forma exclusiva.
+Nesse passo, é obrigação da parte manter informado o Juízo acerca das alterações dos patronos dos interesses em lide".
+Assim, pelo entendimento constante no voto condutor, constitui ônus do advogado providenciar a habilitação nos autos mediante a funcionalidade existente na plataforma PJe, de modo que a conclusão, nesse aspecto, é que a falta da providência não pode ser transposta para anular as intimações feitas
+OrA, a partir da leitura dos julgados citados no acórdão, pode-se perceber que tal orientação encontra-se fundamentada no teor do art. 21 da Resolução nº 03/2018, o qual prevê que o advogado deverá proceder à habilitação em cada processo que pretenda atuar, exclusivamente através da funcionalidade própria existente na plataforma.
+Nesse panorama, ressai nítido que o apelo raro, nos moldes em que apresentado, não ultrapassa a barreira de admissibilidade recursal. Isso porque a eventual violação da lei federal, no caso, é reflexa, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação da referida regulamentação, providência vedada no âmbito do recurso especial, uma vez que tal regramento não se subsume ao conceito de lei federal. Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A decisão embargada foi clara no sentido de que, havendo intimação por via eletrônica, é desnecessária a intimação publicada no Diário de Justiça (e-STJ fl. 5961).
+2. Não se pode falar em omissão quando o tribunal adota outro fundamento que não aquele defendido pela parte, desde que as questões discutidas sejam analisadas de forma fundamentada, como ocorreu in casu.
+3. A questão acerca do art. 196, do CPC configura ofensa reflexa a dispositivo de lei federal, na medida em que a tese a ele vinculada perpassa, necessariamente, pela interpretação da Resolução n. 234/16 do CNJ.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.865.373/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/2/2022, DJe de 2/3/2022.)
+Por fim, resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
