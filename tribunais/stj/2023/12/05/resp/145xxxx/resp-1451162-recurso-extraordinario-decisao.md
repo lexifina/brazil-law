@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão de provimento ao recurso especial do adversário.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 93, IX, 231 e 232 da Constituição Federal.
+Nesse sentido, argumenta ter havido omissão da Primeira Turma do STJ quanto às alegações expostas pela recorrente no agravo interno, além de repetição dos termos da decisão proferida pelo TRF da 5ª Região.
+Afirma a necessidade de apreciação das seguintes teses (fl. 773):
+(1) quanto ao fundamento do agravo interno de que a decisão embargada partiu da falsa premissa de que seria incontroverso que a FUNAI não teria pedido a ligação da energia; (2) quanto ao argumento de que há, sim, legislação - art. 20 da Portaria DNAEE n. 466/1997 - sobre a responsabilidade da FUNAI, por ter pedido a ligação da energia (por isso, inclusive, as faturas eram entregues em nome da FUNAI no seu endereço); (3) e, ainda, quanto à assertiva de que há deficiência de fundamentação da pretensão da FUNAI, a qual indicou como violados (arts. 265 do CC, Art. 7º e 267 VI do CPC/1973) dispositivos estranhos à fundamentação do acórdão originário.
+Defende a responsabilidade da FUNAI pelo pagamento da energia elétrica consumida pelos indígenas, sob o argumento de que a comunidade não seria aculturada e dependeria da tutela legal fixada nos arts. 7º e 8º da Lei n. 6.001/1973.
+Sustenta que os arts. 231 e 232 da CF não resultaram na revogação do regime de tutela legal previsto no Estatuto do Índio, que lhe é anterior.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no julgado recorrido.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (CPC, art. 927, III).
+Ademais, verifica-se que a controvérsia cinge-se à possibilidade de responsabilização da FUNAI por débito relativo a consumo de energia elétrica, estando o acórdão recorrido assim fundamentado (fls. 701-702, grifos acrescidos):
+3. Em que pese ao regime de tutela a ser exercido pela UNIÃO, por intermédio da FUNAI, é necessário diferenciar a responsabilidade civil exercida por esta Fundação da responsabilidade contratual invocada pela autora para justificar a inserção da ora recorrente no polo passivo, a fim de cobrar diretamente dela o pagamento pela energia elétrica supostamente consumida nas comunidades indígenas da região.
+4. A responsabilidade contratual deriva da vontade dos contraentes, manifestada na assinatura do instrumento formalizador do ajuste, estabelecendo obrigações mútuas que, se descumpridas, geram o chamado ilícito contratual, assumindo aquele que não executou a obrigação o dever de reparar o dano. Demanda, portanto, a manifestação de vontade daquele que, diante do descumprimento da obrigação contratual, será acionado para adimplir com a responsabilidade.
+5. Na espécie, não há vínculo da FUNAI com o consumo de energia elétrica na região, sendo fato incontroverso nos autos não ter ela postulado a instalação da unidade consumidora no local da comunidade indígena de Tinqui Boto. Do mesmo modo, não há disposição expressa em lei estabelecendo essa relação obrigacional, a qual não pode ser presumida.
+ ..
+7. Com esteio nessa diretriz, o art. 231 da CF/1988 reconhece aos índios sua organização social, costumes, línguas, crenças e tradições. Por sua vez, o disposto no artigo 232 da Constituição Federal prescreve que uma das consequências do reconhecimento do direito à diferença é a possibilidade de os indígenas serem partes legitimas para ingressar em juízo em defesa de seus direitos e interesses. Dessume-se, portanto, a não recepção do instituto da tutela estabelecida no Estatuto do Índio, visto que, ao prever essa legitimidade, foi reconhecida aos indígenas também a capacidade para o exercício de direitos e assunção de deveres.
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 7º e 8º da Lei n. 6.001/1973, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário no tocante ao art. 93, IX, da Constituição Federal e, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso quanto as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. DIREITO CIVIL. COBRANÇA. CONSUMO DE ENERGIA ELÉTRICA EM ALDEIA INDÍGENA. TUTELA LEGAL DA FUNAI. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
