@@ -1,0 +1,56 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. PRETENDIDA CASSAÇÃO DO VEREDITO PROFERIDO PELO TRIBUNAL DO JÚRI. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal local constatou, motivadamente, que o veredito dos jurados não é manifestamente contrário às provas dos autos, mas encontra suporte na tese e nos dados probatórios apresentados pela defesa em plenário. Assim, a inversão do julgado esbarra na Súmula 7/STJ.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, contra decisão monocrática que não conheceu do recurso especial (e-STJ, fls. 654-657).
+A parte agravante aduz, em síntese, que não incidiria ao caso a Súmula 7/STJ, pois bastaria a "requalificação jurídica de circunstâncias fáticas já sopesadas pelas instâncias ordinárias para anular a decisão do tribunal do júri" (e-STJ, fl. 664). Reitera que o veredito absolutório seria manifestamente contrário às provas dos autos, implicando a submissão do réu a novo julgamento pelos jurados.
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 2.404.397 - RN (2023/0232827-3)
+RELATOR
+:
+MINISTRO RIBEIRO DANTAS
+AGRAVANTE
+:
+MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE
+AGRAVADO
+:
+NIELSON LOPES DE MEDEIROS
+ADVOGADO
+:
+ANESIANO RAMOS DE OLIVEIRA - RN005628
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. PRETENDIDA CASSAÇÃO DO VEREDITO PROFERIDO PELO TRIBUNAL DO JÚRI. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal local constatou, motivadamente, que o veredito dos jurados não é manifestamente contrário às provas dos autos, mas encontra suporte na tese e nos dados probatórios apresentados pela defesa em plenário. Assim, a inversão do julgado esbarra na Súmula 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Como afirmei quando do julgamento monocrático, é cabível em tese a anulação do veredito que responde positivamente ao quesito absolutório genérico. Com efeito, a Terceira Seção firmou o entendimento de que é possível o controle do veredito absolutório motivado por clemência ou outra razão albergada no quesito do art. 483, III, do CPP, em sede de apelação ministerial fundada no art. 593, III, "d", do CPP, quando o Tribunal local entender que a decisão dos jurados foi manifestamente contrária às provas dos autos. Eis a ementa do acórdão paradigma:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ABSOLVIÇÃO. APELAÇÃO DA ACUSAÇÃO PROVIDA. ART. 593, III, D, DO CPP. SUBMISSÃO DO RÉU A NOVO JULGAMENTO. O JUÍZO ABSOLUTÓRIO PREVISO NO ART. 483, III, DO CPP NÃO É ABSOLUTO. POSSIBILIDADE DE CASSAÇÃO PELO TRIBUNAL DE APELAÇÃO. EXIGÊNCIA DA DEMONSTRAÇÃO CONCRETA DE DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS. SOBERANIA DOS VEREDICTOS PRESERVADA. DUPLO GRAU DE JURISDIÇÃO. MANIFESTA CONTRARIEDADE À PROVA DOS AUTOS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO QUE DEMANDA REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE EM HABEAS CORPUS. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. As decisões proferidas pelo conselho de sentença não são irrecorríveis ou imutáveis, podendo o Tribunal ad quem, nos termos do art. 593, III, d, do CPP, quando verificar a existência de decisão manifestamente contrária às provas dos autos, cassar a decisão proferida, uma única vez, determinando a realização de novo julgamento, sendo vedada, todavia, a análise do mérito da demanda.
+3. A absolvição do réu pelos jurados, com base no art. 483, III, do CPP, ainda que por clemência, não constitui decisão absoluta e irrevogável, podendo o Tribunal cassar tal decisão quando ficar demonstrada a total dissociação da conclusão dos jurados com as provas apresentadas em plenário. Assim, resta plenamente possível o controle excepcional da decisão absolutória do Júri, com o fim de evitar arbitrariedades e em observância ao duplo grau de jurisdição. Entender em sentido contrário exigiria a aceitação de que o conselho de sentença disporia de poder absoluto e peremptório quanto à absolvição do acusado, o que, ao meu ver não foi o objetivo do legislador ao introduzir a obrigatoriedade do quesito absolutório genérico, previsto no art. 483, III, do CPP.
+4. O Tribunal de Justiça local, eximindo-se de emitir qualquer juízo de valor quanto ao mérito da acusação, demonstrou a existência de julgamento manifestamente contrário à prova dos autos amparado por depoimento de testemunha e exame de corpo de delito. Verifica-se que a decisão do conselho de sentença foi cassada, com fundamento de que as provas dos autos não deram respaldo para a absolvição, ante a inexistência de causas excludentes de ilicitude ou culpabilidade, não prevalecendo, a tese defensiva da acidentalidade, tendo em vista a demonstração de que o acusado continuou a desferir golpes à vítima já caída ao chão, sendo a causa da sua morte, traumatismos no crânio, pescoço e tórax.
+5. Havendo o acórdão impugnado afirmado, com base em elementos concretos demonstrados nos autos, que a decisão dos jurados proferida em primeiro julgamento encontra-se manifestamente contrária à prova dos autos, é defeso a esta Corte Superior manifestar-se de forma diversa, sob pena de proceder indevido revolvimento fático-probatório, incabível na via estreita do writ.
+Habeas corpus não conhecido".
+(HC 313.251/RJ, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 28/02/2018, DJe 27/03/2018)
+Todavia, não é obrigatória essa anulação, cabendo ao Tribunal de origem a tarefa de conferir se há manifesta contrariedade entre o veredito e as provas. E, no caso dos autos, a Corte de origem constatou, de maneira fundamentada, que não há essa contrariedade, valendo destacar o seguinte trecho de suas conclusões (e-STJ, fl. 552):
+"Não se controverte, consoante arguido pela acusação em suas razões recursais, que há nos autos, depoimentos, na fase investigativa e judicial de Francisco Edivan Fernandes de Sousa e Antônio Zacarias de Araújo (testemunhas), assim como vídeos das câmeras de segurança do local, confirmando que o apelado veio a atirar na vítima.
+Todavia, há igualmente elementos probatórios outros que dão suporte à absolvição do acusado e podem ter impressionado mais os jurados do que aqueles referidos pela acusação, a exemplo do depoimento de Francisco Edivan Fernandes de Sousa (16071350), do qual se depreende que a vítima "quis se levantar na hora que Nielson sacou a arma".
+No mesmo sentido, destaco que o acusado, em sede administrativa (16071277), esclareceu que "chegou ao posto em sua motocicleta, tendo ido comprar cerveja, instante em que se aproximou do local onde estava a vítima (conhecido como MAZINHO), local onde também estavam outros dois conhecidos (não recordando os nomes); Que nesse momento afirma que MAZINHO lhe pediu uma bebida, tendo o interrogado negado; Que devido a negativa do interrogado em fornecer a bebida; MAZINHO prosseguiu e disse "sou cabra homem, matador de gente, quer ver "; Que prosseguindo, MAZINHO colocou a mão na cintura, instante em que o interrogado sacou um revólver e acredita ter disparado por 03 (três) rezes contra MAZINHO; Que não chegou a ver arma ou faca, apenas o movimento de MAZINHO ter posto a mão na cintura; Que em seguida pegou sua motocicleta e foi embora  .. ".
+Todas as provas supra referidas foram apresentadas pelo Ministério Público em sede de Tribunal do Júri, com destaque às provas orais e às filmagens que retratam o momento do homicídio, porém, apesar de conhecerem da autoria e da materialidade, o Conselho de Sentença enxergou elementos suficientes para acolher a tese defensiva da legítima defesa putativa, absolvendo o acusado.
+Portanto, malgrado as assertivas da acusação (julgamento em manifesta contrariedade com o conjunto probatório), o que se observa é que os referidos elementos de prova são suficientes para servir de base para a absolvição do delito de homicídio, uma vez que, conforme posto pela defesa, o acusado teria agido pela sensação de estar com a vida em risco".
+Por conseguinte, a modificação do julgado demandaria reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, como já entendeu este Tribunal Superior:
+"PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. OMISSÃO PELA CORTE DE ORIGEM. NÃO OCORRÊNCIA. NULIDADE POSTERIOR À PRONÚNCIA REJEITADA. "RACHA". DOIS HOMICÍDIOS NA DIREÇÃO DE VEÍCULO. DOLO EVENTUAL. COMPETÊNCIA DO CONSELHO DE SENTENÇA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O Tribunal do Júri é soberano para decidir com fundamento nas provas produzidas no processo judicial, as quais serão submetidas ao crivo do contraditório e da ampla defesa. Dessa forma, o acolhimento pelo Conselho de Sentença de uma das teses existentes não resulta em decisão manifestamente contrária à prova dos autos, quando existente elemento probatório apto a amparar a decisão dos jurados.
+4. No presente caso, a Corte a quo, ao analisar os autos, em decisão devidamente motivada, entendeu que a decisão dos jurados, em condenar o acusado, encontra-se fundamentada na prova dos autos. Assim, concluir que a decisão do Júri mostrou-se dissociada das provas constante dos autos, como requer a parte recorrente, implica o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+5. Agravo regimental não provido".
+(AgRg no AREsp 1819464/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
