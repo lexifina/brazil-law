@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/RS.
+Recurso especial interposto em: 09/03/2023.
+Concluso ao Gabinete em: 01/12/2023.
+Ação: de busca e apreensão, ajuizada pela recorrente, em desfavor de MARCOS VINICIUS CAMARGO VIANA, em virtude de inadimplemento de contrato de financiamento para aquisição de veículo automotor, com garantia de alienação fiduciária.
+Sentença: julgou extinto o processo, sem resolução do mérito, devido à ausência de pressuposto de constituição e desenvolvimento válido e regular do processo (art. 485, IV, do CPC/2015), consistente na inexistência de regular notificação.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE BUSCA E APREENSÃO. NOTIFICAÇÃO POR CORREIO ELETRÔNICO (E-MAIL). INVALIDADE. FALTA DE PRESSUPOSTO PROCESSUAL. EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO.
+Não caracterizada a mora do devedor, diante da falta de comprovação de notificação extrajudicial, cuja tentativa se deu em desacordo com as disposições contidas no Decreto-Lei nº 911/69, porquanto remetida via e-mail, inexiste pressuposto indispensável ao desenvolvimento regular e válido do processo, ensejando a extinção da ação sem julgamento de mérito.
+APELAÇÃO DESPROVIDA (e-STJ fl. 92).
+Recurso especial: sustenta violação dos arts. 2º, caput e § 2º, do DL nº 911/69; 439, 440 e 441 do CPC. Defende que a mora decorre do simples inadimplemento da obrigação no prazo avençado e que a notificação enviada ao endereço eletrônico do devedor é suficiente para comprovação da mora. Refere que a lei de regência sequer exige prova do recebimento da correspondência pelo próprio devedor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do Tema 1132/STJ
+A Segunda Seção deste STJ fixou recentemente a seguinte tese ao julgar o Tema 1132 (DJe 20/10/2023):
+Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+Na hipótese dos autos, o TJ/RS entendeu pela ausência de constituição em mora da recorrida, tendo em vista que "da análise das peças que acompanham a petição inicial, é possível verificar que, frustrada a tentativa de notificação por meio de carta AR, que retornou com a informação "Não procurado" (evento 1, NOT7) o envio de notificação extrajudicial se deu mediante mensagem remetida via correio eletrônico - e-mail (evento 1, NOT6) (e-STJ f. 97).
+Desse modo, tem-se que o Tribunal de origem dissentiu da recente jurisprudência deste STJ no sentido de que o prévio encaminhamento da notificação extrajudicial ao endereço informado no contrato é suficiente para a comprovação da mora, tornando-se desnecessário ao ajuizamento da ação de busca e apreensão que o credor fiduciário demonstre o efetivo recebimento da correspondência pela pessoa do devedor ou por terceiro no endereço indicado.
+Salienta-se, ainda, como mesmo destacado no voto vencedor dos recursos julgados sob o rito dos recursos repetitivos - REsp 1.951.662/RS e REsp 1.951.888/RS - que essa conclusão abarca como consectário lógico situações em que a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato.
+Logo, à luz do disposto na Súmula 568/STJ, o presente recurso especial comporta acolhimento, restando prejudicada a análise acerca da validade da notificação realizada por meio de correio eletrônico (alegada violação dos arts. 439, 440 e 441 do CPC).
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para reconhecer a constituição em mora do recorrido e determinar o regular prosseguimento da ação de busca e apreensão ajuizada pela recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. TEMA 1132/STJ. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Ação de busca e apreensão, em virtude de inadimplemento de contrato de financiamento para aquisição de veículo automotor, com garantia de alienação fiduciária.
+2. Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Aplicação do Tema 1132/STJ.
+3. Recurso especial conhecido e provido.
