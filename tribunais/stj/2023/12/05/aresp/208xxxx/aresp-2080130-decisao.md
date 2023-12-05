@@ -1,0 +1,44 @@
+DECISÃO
+Em análise, agravo de decisão que deixou de admitir recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, sob o fundamento de que o exame da apontada violação aos arts. 80 e 81 do CPC demanda o revolvimento do conjunto probatório, vedado em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+No agravo, o agravante alega que (a) "não é o caso de aplicação da Súmula 7 do STJ, uma vez que a questão debatida no recurso especial é jurídica, não sendo necessário o reexame de fatos/prova" e (b) a questão debatida no recurso especial pode ser resolvida pela mera leitura do acórdão recorrido.
+Sem contraminuta.
+É o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que merece provimento.
+Inicialmente, verifico que o recurso especial cumpriu os requisitos legais e constitucionais exigidos para a sua admissão.
+Contrariamente à decisão agravada, não há necessidade de reapreciação do conjunto fático-probatório dos autos, porque, segundo entendimento jurisprudencial deste Tribunal Superior, é possível a revaloração dos fatos reconhecidos pelas instâncias ordinárias, pois essa requalificação jurídica consiste apenas em atribuir o devido valor jurídico à matéria fática incontroversa (REsp 1.766.261/RS, Rel. MINISTRO PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe 24/05/2021).
+Quanto ao mérito, merece amparo a pretensão recursal no tocante à apontada violação aos arts. 80 e 81 do CPC.
+Colhe-se dos autos que, em razão da rejeição de apenas um recurso de embargos de declaração, o recorrente foi condenado a pagar "multa no montante de dois por cento e a indenização prevista no § 3º do artigo 81, arbitrada em vinte por cento (ambas sobre o valor da causa atualizado)".
+Na fundamentação, o Tribunal de origem se limitou a afirmar o seguinte:
+O conteúdo do relatório, a meu ver, demonstra que não há qualquer omissão, obscuridade, contradição ou erro material. A pretensão é realmente absurda, pois o INSS pretende que se suspenda o processo em face do Tema (e-STJ Fl.957, mas ele só incidiria (fosse o caso) se o processo continuasse a tramitar e ele tivesse provido eventual e futuro recurso aos Tribunais Superiores. A sua atitude caracteriza, na melhor hipótese, o procedimento temerário (inciso V do artigo 80 do CPC).
+A multa e a indenização devem ser afastadas.
+Em primeiro lugar, não caracteriza litigância de má-fé o simples fato do recorrente ter se utilizado de recurso previsto em lei, no caso, apenas um embargos de declaração.
+Isso porque, a simples defesa de teses em petições ou recursos que tenham fundamento minimamente válido não constitui litigância de má-fé.
+Sobre o tema, cita-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. PROVIMENTO NEGADO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem. Por conta disso, consignou-se a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+2. Para ver examinado por esta Corte Superior seu recurso especial, a parte recorrente precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois não é admitida a impugnação tardia, com o objetivo de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ, aplicável por analogia.
+5. Em nova análise do agravo interposto, vê-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência da Súmula 182 do STJ no presente caso.
+6. A jurisprudência desta Corte Superior entende que quando a parte interpõe o recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer, não devem ser aplicadas as multas por litigância de má-fé, porquanto não verificada afronta ou descaso com o Poder Judiciário.
+7. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.979.254/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. PENALIDADE POR LITIGÂNCIA DE MÁ-FÉ E MULTA. ARTS. 79 E 80, VII, DO CPC/2015. DESCABIMENTO, NO CASO. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 23/09/2016, que, por sua vez, julgara recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. A decisão ora agravada, com fundamento no art. 255, § 4º, II, do RISTJ, negou provimento ao Recurso Especial, ante o óbice da Súmula 282/STJ, em relação ao art. 54 da Lei 9.784/1999.
+III. O Agravo interno, porém, não impugna, especificamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt no RMS 46.873/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 19/09/2016; AgInt no RMS 42.182/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 26/08/2016; AgInt no RMS 49.216/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/08/2016.
+IV. Na forma da jurisprudência, o exercício regular do direito constitucional de recorrer não enseja condenação do ora agravante às penalidades por litigância de má-fé e multa, na forma dos arts. 79 e 80, VII, do CPC/2015. Precedentes do STJ (AgInt no AgRg nos EREsp 1.433.658/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 25/11/2016). Descabimento, no caso, de aplicação dos arts. 79 e 80, VII, do CPC/2015.
+V. Agravo interno não conhecido. (AgInt no REsp n. 1.628.702/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/2/2017, DJe de 8/3/2017.)
+Em segundo lugar, a má-fé não pode ser presumida.
+A sanção processual pressupõe a comprovação do comportamento malicioso e doloso da parte com a finalidade de obstar o exercício regular da jurisdição.
+A má-fé, portanto, não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmit e regular do processo, o que não se verifica no caso.
+A propósito:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. MULTA. LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno nas quais não impugnado especificamente o fundamento da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, todos do Código de Processo Civil de 2015.
+III - Inaplicabilidade da multa por litigância de má-fé (arts. 80, IV e VII, e 81 do estatuto processual civil de 2015), porquanto ausente demonstração de que a parte recorrente agiu com culpa grave ou dolo. Precedente do Supremo Tribunal Federal.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido. (AgInt no AREsp n. 2.215.294/PA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 6/3/2023, DJe de 8/3/2023.)
+Com essas considerações, o acórdão recorrido deve ser reformado no ponto.
+Diante do exposto, dou provimento ao recurso especial para afastar a multa por litigância de má-fé, bem como a condenação ao pagamento de indenização.
+Intime-se.
+EMENTA
