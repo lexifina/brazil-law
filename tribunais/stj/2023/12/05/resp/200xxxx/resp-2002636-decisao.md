@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por LORENZETTI S.A. INDÚSTRIAS BRASILEIRAS ELETROMETALÚRGICAS (LORENZETTI), contra CERÂMICA LORENZETTI LTDA. (CERÂMICA), com fundamento no art. 105, III, alíneas a e c, da CF, em oposição ao acórdão proferido pelo Tribunal de Justiça de São Paulo (TJSP), relator RICARDO NEGRÃO, assim ementado:
+SENTENÇA Cerceamento de defesa Ação inibitória Uso de marca de alto renome Pretensão à produção de prova oral para demonstrar a inexistência de confusão entre os consumidores Impertinência Desnecessidade da prova oral, já que a (in)existência de confusão pode ser aferida mediante simples prova documental Cerceamento de defesa inocorrente Nulidade inexistente Apelação desprovida neste tocante.
+PROPRIEDADE INDUSTRIAL Marca "Lorenzetti" Reconhecimento do alto renome pelo INPI quatro anos depois do depósito da marca "Cerâmica Lorenzetti" pela Ré Obtenção do registro da marca "Lorenzetti" pela autora no ano de 1976, antes da constituição da sociedade demandada (no ano de 1980) Inexistência de empecilho, na época, na utilização de idêntica expressão, pois exploravam distintos ramos de atividade Utilização de boa-fé da expressão "Cerâmica Lorenzetti" pela Ré por longos quarenta anos Autorização para continuar usando o nome empresarial, título de estabelecimento e marca Inibitória improcedente Apelação provida para esse fim.
+PROPRIEDADE INDUSTRIAL Marca "Lorenzetti" e "Cerâmica Lorenzetti" Possibilidade de registro do nome civil, desde que seja feito pelo próprio titular (LPI, art. 124, XV e XVI) Hipótese em que autora pretende que ré se abstenha de utilizar seu patronímico ("Lorenzetti") em título de estabelecimento, como nome empresarial e marca Inadmissibilidade Nome é direito da personalidade, pois toda pessoa tem direito à identificação Irrenunciabilidade Conflito entre dois direitos fundamentais (direito à propriedade da marca e à personalidade) Ponderação sobre os interesses, prevalecendo aquele que sobrepuja na proteção da dignidade da pessoa humana Prevalência do direito ao uso do nome civil Direito absoluto, impondo-se à coletividade o dever de respeitá-los Necessária convivência entre os sobrenomes homônimos, respeitando-se o direito da ré a se abster de utilizar os patronímicos de seus sócios Existência de elemento diferenciador junto ao nome civil Impossibilidade de confundir consumidores Coexistência há mais de quarenta anos sem notícia de qualquer confusão do público-alvo Inibitória improcedente Apelação provida para esse fim.
+Dispositivo: deram provimento. (e-STJ, fls. 465/466)
+Os embargos de declaração opostos por LORENZETTI foram rejeitados (e-STJ, fls. 576/584).
+Nas razões do presente recurso, LORENZETTI alega violação dos arts. 124, VI e XIX, 125, 129 e 195, III, da Lei nº 9.279/96 (Lei da Propriedade Industrial - "LPI"), bem como dissídio jurisprudencial afirmando, em síntese, que (1) o uso exclusivo do sinal nasce do registro e não do uso; e que possui direito de uso exclusivo de patronímico como marca quem primeiro requereu e obteve o registro junto ao INPI (e-STJ, fl. 539).
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+(1) uso de marca
+O Tribunal de origem, ao julgar a apelação, entendeu ser cabível a continuidade de utilização da marca pela empresa de cerâmica, assim se pronunciando:
+É certo que a autora Lorenzetti S/A Indústrias Brasileiras Eletrometalúrgias obteve o registro da marca "Lorenzetti" em 1976, antes, portanto, da constituição da sociedade demandada.
+Porém, considerando que se exploravam distintos ramos de atividade, não havia qualquer empecilho na utilização de idêntica expressão.
+Há, portanto, utilização de boa-fé da expressão Cerâmica Lorenzetti pela ora requerente, o que, a princípio, autoriza a continuidade da exploração da marca.
+ ..  a negativa de registro da marca mista Lorenzetti pelo INPI não significa que o patronímico não possa ser usado pela autora. Verifica- se no registro do INPI que a recusa se refere exclusivamente à marca mista, conforme excerto ora destacado  ..
+Não há, portanto, qualquer possibilidade de confundir o público-consumidor e, por isso, improcede o pedido inibitório. (e-STJ, fls. 468/475)
+Da sentença constou:
+ ..  garantida a proteção à marca em todos os ramos de atividade a partir da publicação do reconhecimento da sua condição de alto renome, são irrelevantes os argumentos trazidos pela parte requerida de inexistência de confusão ou associação, de distinção entre as atividades empresariais desenvolvidas e do uso da expressão há quarenta anos, pois sem registro válido concedido pelo INPI. (e-STJ, fl. 320)
+Correta a sentença.
+A conclusão adotada pelo TJSP se encontra em desarmonia com a jurisprudência deste Superior Tribunal de Justiça.
+Esta Corte exige que a empresa que faz uso de marca igual ou parecida com aquela em que reconhecido o alto renome, esteja registrada, de boa-fé, em momento anterior ao reconhecimento. Nessa direção:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE REGISTRO DE MARCA. PRODUTOS. MESMO RAMO COMERCIAL. MARCAS REGISTRADAS. USO COMUM. EXCLUSIVIDADE. NÃO OCORRÊNCIA. ALTO RENOME. EFEITO PROSPECTIVO. AGRAVO INTERNO DESPROVIDO.
+1. As marcas evocativas implicam mitigação da regra da exclusividade de registro marcário, impondo-se a seu titular o dever de suportar a convivência com marcas semelhantes, desde que não se constate, por óbvio, a possibilidade de confusão no público consumidor.
+2. No tocante à expressão "BRIL", esta Corte Superior assentou que o termo marcária consubstancia um radical, revelando-se se enquadrar, de modo evidente, na categoria evocativa. Precedentes.
+3. De fato, "o Superior Tribunal de Justiça decidiu que, a partir do momento que o INPI reconhece uma marca como sendo de alto renome, a sua proteção se dará com efeitos prospectivos (ex nunc). Assim, a marca igual ou parecida que já estava registrada de boa-fé anteriormente não será atingida pelo registro daquela de alto renome, como no caso em apreço". (REsp 1.582.179/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/8/2016, DJe 19/8/2016).
+4. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AgInt no AREsp n. 1.312.191/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2020, DJe de 16/11/2020)
+No caso dos autos, não havendo o registro da empresa de cerâmica, ora recorrida, não há como se permitir a continuidade do uso da marca.
+Nessas condições, DOU PROVIMENTO ao recurso especial para restabelecer a sentença de e-STJ, fls. 318/322.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. MARCAS IGUAIS OU PARECIDAS. ALTO RENOME. RECONHECIMENTO PARA UMA DAS EMPRESAS. CONTINUIDADE DE USO PELA OUTRA EMPRESA. POSSIBILIDADE. EXIGÊNCIA. REGISTRO ANTERIOR DE BOA-FÉ. EFEITO EX NUNC. ACÓRDÃO EM DESARMONIA COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO.
