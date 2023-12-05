@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se  de  recurso  especial  manejado  pela Fazenda Nacional  com  fundamento  no  art.  105,  III,  a,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  Regional  Federal  da  4ª  Região,  assim  ementado  (fl.  275):
+TRIBUTÁRIO.  PIS/COFINS.  EXCLUSÃO  DOS  JUROS  E  CORREÇÃO MONETÁRIA  DECORRENTES  DE  REPETIÇÃO  DE  INDÉBITO  E  DEPÓSITOS  JUDICIAIS  DAS  RESPECTIVAS  BASES  DE  CÁLCULO.
+1.  Os  juros  da  taxa  SELIC  obtidos  na  repetição  do  indébito  tributário (na  via  judicial  ou  administrativa)  não  integram  a  base  de  cálculo  das  contribuições  ao  PIS/COFINS  (sistema  cumulativo  ou  não-cumulativo  de  apuração),  considerada  a  sua  natureza  acessória.
+2.  Os  juros  pela  taxa  SELIC  auferidos  no  levantamento  de  depósitos  judiciais  devem  integrar  a  base  de  cálculo  das  contribuições  ao  PIS/COFINS  apuradas  pelo  sistema  não-cumulativo.
+Opostos  embargos  declaratórios  por  ambas  as  partes recorrente e recorrida,  foram  estes  rejeitados  (fls.  326/329).
+A  parte  recorrente  aponta  violação  aos  arts.  489, § 1º, IV, VI, 1.022, II, do CPC, 1º da Lei n 10.637/2002, 1º da Lei nº 10.833/2003 e 111 do CTN. Sustenta, em resumo,  que: (i) houve omissão no julgado embargado, que não se manifestou acerca das questões postas nos aclaratórios; e (ii) não há que se falar em isenção ou exclusão de PIS/COFINS para a receita financeira decorrente da taxa Selic incidente sobre os valores do indébito tributário (fl. 357).
+Contrarrazões ofertadas às fls. 407/421, sustentando o não conhecimento do apelo raro, em decorrência da ausência de prequestionamento da matéria e ocorrência de inovação recursal no tocante ao art. 109 do CTN. No mérito, pugna pelo desprovimento do recurso.
+Recurso extraordinário interposto por Buhler S.A às fls. 384/394, com juízo negativo de admissibilidade.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, a jurisprudência desta Corte é firme no sentido de que " incidem PIS e COFINS sobre os valores decorrentes da aplicação da taxa SELIC na restituição do indébito tributário" (AgInt no REsp n. 2.022.851/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/4/2023, DJe de 19/4/2023 ).
+No mesmo sentido, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TAXA SELIC. REPETIÇÃO DE INDÉBITO E LEVANTAMENTO DE DEPÓSITOS. PIS/COFINS. INCIDÊNCIA.
+1. Nos termos da jurisprudência de ambas as Turmas que compõem a Primeira Seção desta Corte, incidem PIS e COFINS sobre os valores decorrentes da aplicação da Taxa SELIC nos depósitos judiciais e na repetição de indébito. Precedentes: AgInt nos EREsp n. 1.912.079/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 30/5/2023, DJe de 2/6/2023; AgInt no REsp n. 2.052.035/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/202 3; AgInt no REsp n. 1.969.156/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/5/2022, DJe de 5/5/2022; AgInt no REsp n. 2.052.393/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.072.036/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. DISSÍDIO. DEMONSTRAÇÃO. AUSÊNCIA. ACÓRDÃO COMBATIDO. JURISPRUDÊNCIA DESTA CORTE. CONFORMIDADE 1. Para fins de admissão dos embargos de divergência, compete ao embargante demonstrar o dissenso alegado, por meio da comprovação da existência do aresto paradigma indicado e do devido cotejo analítico entre os julgados comparados, apontando as premissas fáticas e jurídicas que os identifiquem, o que não se verificou na hipótese.
+2. A consonância do aresto embargado com a orientação jurisprudencial desta Corte Superior inviabiliza o acolhimento dos embargos de divergência, nos termos da Súmula 168 do STJ.
+3. Hipótese em que ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça entendem que incidem PIS e COFINS sobre valores decorrentes da aplicação da Taxa SELIC nos depósitos judiciais e na repetição de indébito, o que atrai o óbice contido na Súmula 168 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.912.079/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 30/5/2023, DJe de 2/6/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IRPJ E CSLL SOBRE OS JUROS DA TAXA SELIC NO LEVANTAMENTO DE DEPÓSITOS JUDICIAIS. INCIDÊNCIA, NOS TERMOS DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA, CONSOLIDADA NO RECURSO ESPECIAL 1.138.695/SC, SUBMETIDO AO RITO DOS RECURSOS REPETITIVOS.
+1. O Superior Tribunal de Justiça consolidou, no Tema 504/STJ, o entendimento de que "os juros incidentes na devolução dos depósitos judiciais possuem natureza remuneratória e não escapam à tributação pelo IRPJ e pela CSLL" (REsp 1.138.695/SC).
+2. Não se desconhece a existência do Tema 962 do Supremo Tribunal Federal, julgado em 27.9.2021, no qual se fixou que "é inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário". Constata-se, contudo, que a questão discutida no STF não cuidou da incidência do IRPJ e CSLL sobre os juros de mora e correção monetária quando se trata de devolução de depósito, mas apenas nos casos de repetição de indébito tributário. Desse modo, permanece hígida a tese firmada no Tema 504/STJ.
+3. Esta Corte Superior entende que se incluem na base de cálculo da contribuição ao PIS e da Cofins os valores recebidos a título de juros moratórios e correção monetária (taxa Selic) na repetição de indébito.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.048.949/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DE JUROS E CORREÇÃO MONETÁRIA. TAXA SELIC. REPETIÇÃO DE INDÉBITO. JURISPRUDÊNCIA DO STJ.
+I - Na origem, foi impetrado mandado de segurança objetivando a não incidência de PIS e de COFINS sobre a parcela referente aos juros remuneratórios e à correção monetária, decorrentes da atualização de valores recebidos via repetição de indébito pelo contribuinte.
+II - A jurisprudência desta Corte Superior é pacífica no sentido de que, no âmbito da repetição do indébito tributário, os valores da Taxa Selic (correção monetária e juros de mora) integram a base de cálculo do PIS e da COFINS, entendimento que não sofreu alteração em virtude do julgamento do Tema n. 962/STF. Precedentes.
+III - Recurso especial improvido.
+(REsp n. 2.018.256/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. INAPLICABILIDADE DO ENTEDIMENTO FIRMADO PELA SUPREMA CORTE NO TEMA 962. AGRAVO INTERNO DESPROVIDO.
+1. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. É pacífica a orientação desta Corte Superior de Justiça quanto à incidência da contribuição ao PIS e da COFINS sobre os valores decorrentes da aplicação da taxa Selic (juros e correção) na repetição, isso, porque as bases de cálculo das referidas exações são compostas pelo total das receitas auferidas pela pessoa jurídica, independentemente da denominação ou classificação contábil .
+3. A tese firmada pela Suprema Corte no Tema 962, quanto à inconstitucionalidade da incidência do IRPJ e da CSLL sobre os valores atinente à taxa Selic recebidos em razão de repetição de indébito tributário, não interfere no entendimento acima, pois a natureza de danos emergentes conferida aos juros moratórios afeta apenas o conceito de renda (base de cálculo do IRPJ) e não o de receita (base de cálculo do PIS e da COFINS).
+4. Precedentes: AgInt no REsp n. 1.921.174/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022; e AgInt no REsp n. 1.908.789/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 28/6/2022.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.960.912/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. TAXA SELIC. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que incide o PIS e a COFINS sobre os valores decorrentes da incidência da taxa SELIC na restituição do indébito tributário.
+2. A conformidade do acórdão recorrido com a orientação jurisprudencial desta Corte Superior atrai a aplicação do óbice estampado na Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.956.214/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022.)
+Por estar em dissonância com a jurisprudência desta Corte, o aresto impugnado deve ser reformado.
+ANTE O EXPOSTO, dou parcial provimento ao recurso especial, nos termos da fundamentação, para reconhecer a incidência do PIS e da COFINS sobre os valores decorrentes da aplicação da taxa SELIC na repetição do indébito tributário.
+Publique-se.
+EMENTA
