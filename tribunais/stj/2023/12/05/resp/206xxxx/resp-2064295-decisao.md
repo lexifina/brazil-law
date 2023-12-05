@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ADENILTON CONCEIÇÃO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: indenizatória por danos morais e materiais decorrentes do dano ambiental causado pela UHE de Pedra do Cavalo.
+Acórdão: fixou a competência do Juízo de Direito da 3ª Vara Cível e Comercial da Comarca de Salvador para processar e julgar o feito de origem, nos termos assim ementados:
+CONFLITO NEGATIVO DE COMPETÊNCIA - AÇÃO DE INDENIZAÇÃOPOR DANOS MATERIAIS E MORAIS - DANO AMBIENTAL - PREJUÍZOSA TERCEIROS - PESCADORES - INEXISTÊNCIA DE RELAÇÃO DECONSUMO - PRECEDENTES DESTA CORTE DE JUSTIÇA.1.É entendimento assente neste Tribunal de Justiça que, por inexistir uma relação de consumo base, os demandantes da ação de referência não podem ser enquadrados como consumidores por equiparação, afastando-se, portanto, a competência do juízoespecializado.2. Conflito Negativo de Competência improcedente, fixando-se a competência do Juízo de Direito da 3ª Vara Cível e Comercial da Comarca de Salvador para processar e julgar o feito de origem (fl. 374, e-STJ - destaques não originais).
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação ao art. 11 da Lei 9.074/95; arts. 2º, 3º, 7º parágrafo único e 17º da Lei Federal nº 8.078; arts. 489 do CPC por omissão quanto à condição de consumidores por equiparação dos recorrentes.
+Alega que existe uma relação de consumo entre a fornecedora de energia e todos aqueles que consomem a energia fornecida e que, na condição de pescadores, são atingidos pelo acidente ambiental causada pela UHE de Pedra do cavalo. Por conseguinte, o juízo competente deve ser a vara especializada em direito do consumidor.
+Parecer do MPF: o Ministério Público Federal opina pelo parcial provimento do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+A Segunda Seção dessa Corte Superior de Justiça admitiu, por unanimidade, o enquadramento dos então autores/demandantes como consumidores por equiparação (bystander - art. 17 do CDC),considerando-os potenciais vítimas de acidente de consumo, em razão de atividade de exploração na usina denominada "Pedra do Cavalo", mesmo complexo hidroelétrico abarcado na hipótese sob julgamento. (REsp 2.018.386/BA, Segunda Seção, Publicação: DJe de 12/05/2023)
+No referido julgamento restou determinado que era competente o Juízo da 20ª Vara de Relações de Consumo da Comarca de Salvador. Tendo em vista que o acórdão recorrido decidiu em sentido diametralmente contrário, fixando a competência da 3ª Vara Cível da Comarca de Salvador, necessária a reforma do entendimento para que se adeque à jurisprudência desta Corte Superior.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para anular o acórdão recorrido e determinar a competência da 10ª Vara de Relações de Consumo da Comarca de Salvador/BA para apreciação da demanda.
+Incabível a majoração de honorários, ante a ausência simultânea dos requisitos elencados pela Segunda Seção no julgamento do AgInt nos EREsp 1.539.725/DF, (julgado em 09/08/2017, DJe 19/10/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL E CONSUMIDOR. DANO AMBIENTAL. DANOS INDIVIDUAIS. IMPACTO DA ATIVIDADE PESQUEIRA E DE MARISCAGEM. CONSUMIDOR POR EQUIPARAÇÃO. CARACTERIZAÇÃO. RELAÇÃO DE CONSUMO. COMPETÊNCIA DO JUÍZO DA VARA ESPECIALIZADA.
+1. Cuida-se de ação indenizatória.
+2. Na hipótese de danos individuais decorrentes do exercício de atividade de exploração de potencial hidroenergético causadora de impacto ambiental, é possível, em virtude da caracterização do acidente de consumo, o reconhecimento da figura do consumidor por equiparação, o que atrai a incidência das disposições do Código de Defesa do Consumidor.
+3. Recurso especial parcialmente provido para declarar a competência do juízo da 10ª Vara de Relações de Consumo da Comarca de Salvador para o julgamento da presente demanda.
