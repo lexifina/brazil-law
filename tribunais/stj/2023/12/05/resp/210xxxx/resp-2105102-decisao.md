@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAO PAULO PREVIDENCIA - SPPREV e pela FAZENDA DO ESTADO DE SÃO PAULO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SERVIDOR ESTADUAL
+Sexta parte - Base de cálculo - Revisão - Competência - Interesse coletivo - Vara da Fazenda Pública Possibilidade:
+As demandas que envolvem fundamento de interesse da coletividade de servidores não estão incluídas na competência do Juizado Especial da Fazenda Pública.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violados os arts. 2º, § 4º, da Lei n. 12.153/2009. Sustenta, em síntese, nos casos de litisconsórcio ativo facultativo, o valor atribuído à causa deve ser dividido entre todos os postulantes, para fins de fixação da competência do Juizado Especial da Fazenda Pública.
+É o relatório. Decido.
+O acórdão objurgado está em confronto com o entendimento desta Corte Superior, no sentido de que, em se tratando de litisconsórcio ativo facultativo, a fixação da competência dos Juizados Especiais deve levar em consideração o valor da causa de cada autor, de forma individual, não importando se a soma ultrapassar o limite dos 60 (sessenta) salários mínimos.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO CONFIGURADA. MATÉRIA FIRMADA EM IRDR. DESNECESSIDADE DO TRÂNSITO EM JULGADO PARA SUA APLICAÇÃO. LITISCONSÓRCIO ATIVO FACULTATIVO. VALOR DA CAUSA INFERIOR A SESSENTA SALÁRIOS MÍNIMOS. VALOR INDIVIDUAL DE CADA LITISCONSORTE. COMPETÊNCIA DO JUIZADO ESPECIAL. EVENTUAL NECESSIDADE DE CÁLCULO PRÓPRIO ACERCA DE PARCELAS VINCENDAS NÃO INDICA QUE SE ESTÁ DIANTE DE DEMANDA ILÍQUIDA IMPEDITIVA DE TRAMITAÇÃO NOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Em relação ao mérito, o Tribunal de origem julgou em consonância com a orientação jurisprudencial do Superior Tribunal de Justiça, segundo a qual, "em se tratando de litisconsórcio ativo facultativo, a fixação da competência dos Juizados Especiais deve observar o valor de cada autor, individualmente, e não o valor global da demanda." (AgRg no AREsp 472.074/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 3.2.2015).
+4. Nos termos da jurisprudência do STJ, a mera necessidade de efetuar cálculo acerca de parcelas vincendas não implica existência de demanda ilíquida impeditiva de tramitação nos Juizados Especiais da Fazenda Pública.
+5. Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto é evidente que alterar as conclusões adotadas pela Corte de origem a respeito do valor da causa e da iliquidez da obrigação, como defendido nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.983.344/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/5/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO ESTADUAL. AGRAVO DE INSTRUMENTO. LITISCONSÓRCIO ATIVO. VALOR DA CAUSA INFERIOR A SESSENTA SALÁRIOS MÍNIMOS. VALOR INDIVIDUAL DE CADA LITISCONSORTE. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. PRECEDENTES. COMPLEXIDADE DA DEMANDA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. A orientação jurisprudencial desta Corte é que, em se tratando de litisconsórcio ativo facultativo, a fixação da competência dos Juizados Especiais deve observar o valor da causa de cada autor, individualmente, e não o valor global da demanda. Precedentes.
+4. A alteração das conclusões adotadas pelo Tribunal a quo, para o fim de reconhecer-se a complexidade da demanda originária, na forma pretendida pelos recorrentes, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.941.024/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. REDISTRIBUIÇÃO DE AÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. VALOR DA CAUSA. LITISCONSÓRCIO ATIVO. VALOR INDIVIDUAL DE CADA LITISCONSORTE. PRECEDENTES DO STJ. ILIQUIDEZ DA SENTENÇA. MEROS CÁLCULOS ARITMÉTICOS. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+V. Consoante a jurisprudência desta Corte, em se tratando de litisconsórcio ativo facultativo, a fixação da competência dos Juizados Especiais leva em consideração o valor da causa de cada autor, de forma individual, não importando se a soma ultrapassa o limite dos 60 (sessenta) salários mínimos. A propósito: STJ, REsp 1.658.347/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017; AgRg no REsp 1.503.716/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 11/03/2015.
+VI. De igual modo, como cediço, a competência dos Juizados Especiais da Fazenda Pública decorre do valor arbitrado à causa e não do valor do cumprimento de sentença. Além disso, esta Corte é firme na compreensão de que a mera necessidade de a parte ter que efetuar cálculos próprios acerca de parcelas vincendas não implica a existência de demanda ilíquida. Nesse sentido, em hipóteses análogas: STJ, AgInt no TutPrv no AREsp 1.680.259/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 02/12/2020; AgInt no AREsp 1.840.518/SP, Rel. Ministro MANOEL ERHARDT (Desembargador Federal convocado do TRF da 5ª Região), PRIMEIRA TURMA, DJe de 27/10/2021;
+AgInt no AREsp 1.682.032/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/03/2021.
+VII. Ao que se tem, portanto, a pretensão recursal esbarra no óbice da Súmula 83 do STJ.
+VIII. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.688.882/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar a competência do Juizado Especial da Fazenda Pública para julgamento da causa.
+Publique-se. Intimem-se.
+EMENTA
