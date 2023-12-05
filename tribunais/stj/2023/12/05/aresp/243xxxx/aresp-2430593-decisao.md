@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por EDUARDO PINHEIRO STREHLER, contra decisão interlocutória que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: de indenização por danos materiais e compensação por danos morais, calcada na responsabilidade civil do tabelião, ajuizada por JOAO CARLOS LIMA DE OLIVEIRA e ROSELI JIMENEZ SANCHEZ DE OLIVEIRA, em face do agravante, decorrente de lavratura de escritura mediante documentação falsa.
+Sentença: julgou parcialmente procedente o pedido, para condenar o agravante ao pagamento dos danos materiais comprovados e de R$ 30.000,00 (trinta mil reais) para compensar os danos morais.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+AÇÃO DE INDENIZAÇÃO, CALCADA EM RESPONSABILIDADE CIVIL DE TABELIÃO. LAVRATURA DE ESCRITURA MEDIANTE DOCUMENTAÇÃO FALSA. Pleito de reparação por danos materiais e morais julgado parcialmente procedente. Legitimidade passiva do tabelião que se mostra indubitável, no presente caso. Precedentes. Arguição de prescrição. Inocorrência. Surgimento da pretensão ressarcitória/indenizatória com o reconhecimento judicial do vício que inquinava a escritura, dotada de fé pública e presunção de validade. Prazo prescricional que passou a fluir a partir do trânsito em julgado da ação anulatória da escritura pública. Precedentes. Responsabilidade direta e pessoal do notário, nos termos do artigo 22 da Lei nº 8.935/94. Inaplicabilidade do parágrafo único do artigo 22 desse diploma legal, com a redação dada pela Lei nº 13.286/16, pois o ato viciado foi praticado em 2014,anteriormente à vigência dessa novel legislação, que alterou referido dispositivo legal. Danos morais comprovados diante dos transtornos e insegurança causados. Indenização fixada em R$ 30.000,00, apta a compensara vítima, sem constituir fonte de enriquecimento sem causa, observados, ainda, os princípios da proporcionalidade e da razoabilidade. Sentença mantida - RECURSO DESPROVIDO.
+Recurso especial: alega violação de dispositivos legais.
+Decisão de admissibilidade: inadmitiu o recurso especial, com fundamento na ausência de violação de dispositivos legais e na incidência do óbice da Súmula 7/ STJ.
+Agravo em recurso especial: reitera a violação de dispositivos legais e aduz, genericamente, a inaplicabilidade do óbice da Súmula 7/ STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que o agravante se limitou a trazer alegações genéricas, mas não demonstrou, de maneira consistente e específica, que a análise da violação dos arts. 22 da Lei 8. 935/94 e 206, §3º, V do CC não demandaria o reexame de fatos e provas.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% do valor da condenação (e-STJ fl. 339) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
