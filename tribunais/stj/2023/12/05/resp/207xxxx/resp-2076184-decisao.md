@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 179):
+TRIBUTÁRIO. FATO GERADOR DO IRPJ E DA CSLL. CRÉDITO COMPENSÁVEL ILÍQUIDO DECORRENTE DE DECISÃO JUDICIAL. FATO GERADOR DOS TRIBUTOS. NECESSIDADE DE HOMOLOGAÇÃO PELO FISCO DA COMPENSAÇÃO DO CONTRIBUINTE. CONCESSÃO DO MANDADO DE SEGURANÇA.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 210/212).
+A parte recorrente aponta violação aos arts. 489, § 1º, e 1.022 do CP C, 43 do CTN, 44, III, da Lei 4.506, de 1964, 177, caput, e 187, § 1º, da Lei 6.404/76, 6º, §1º, 7º, caput e 67, XI do Decreto-Lei 1.598/77, 74 da Lei 9.430/96, 441, II, do Regulamento do Imposto sobre a Renda (RIR/2018), aprovado pelo Decreto 9.580, de 2018; 1º, 2º, caput e § 1º,"c", da Lei 7.689, de 1988. Sustenta, em síntese, que: (i) apesar da oposição de embargos de declaração, o Tribunal de origem manteve-se omisso quanto a questões relevantes ao deslinde da controvérsia; e (ii) no regime competência, no qual a contribuinte está submetida, a tributação sobre a renda ocorre no momento da disponibilidade da receita, sendo irrelevante a realização dos ganhos em moeda.
+Contrarrazões apresentadas às fls. 247/253.
+Parecer do Ministério Público Federal às fls. 274/280.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso especial não comporta conhecimento.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma DJe 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Primeira Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019. Confiram-se, ademais:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PECÚLIO POST MORTEM. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ACÓRDÃO A QUO FUNDADO EM LEI ESTADUAL. SÚMULA 280/STF. CONFLITO ENTRE LEI LOCAL E LEI FEDERAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A alegação genérica de violação do artigo 535 do CPC/1973, sem demonstrar qual questão de direito não foi abordada no acórdão recorrido e a sua efetiva relevância para fins de novo julgamento pelo Tribunal de origem, atrai a aplicação do disposto na Súmula 284/STF.
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp 1.774.161/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 30/04/2019) (grifou-se).
+PROCESSUAL CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. SÚMULA 284 DO STF. ART. 557, CAPUT, DAQUELE DIPLOMA LEGAL. OFENSA. JULGAMENTO COLEGIADO POSTERIOR. NULIDADE. INEXISTÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Incide a Súmula 284 do STF quando a parte aponta violação do art. 535, II, do CPC/1973 de forma genérica, sem explicitar qual a efetiva ausência de pronunciamento e sua relevância para a solução da controvérsia.
+3. Não há contrariedade ao art. 557, caput, do CPC/1973 quando o julgamento pelo órgão colegiado, via agravo regimental, corrobora a decisão singular.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.087.924/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 24/04/2018, DJe 29/05/2018)
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. MATÉRIA QUE, APESAR DA OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS, NÃO FOI ANALISADA PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INTIMAÇÃO EM NOME DE PROCURADOR DE ESTADO. VALIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. O Tribunal de origem, efetivamente, não emitiu juízo sobre a tese veiculada no recurso especial relativa à suposta violação ao art. 1º-F da Lei nº 9.494/97, não obstante tenha sido compelido por meio dos competentes embargos de declaração.
+3. A fundamentação deficiente do especial não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo, porquanto remanesce ausente o indispensável prequestionamento.
+4. O acórdão recorrido mostra-se alinhado ao posicionamento firmado na Corte Especial de que: "havendo a atuação de mais de um Procurador e não existindo indicação prévia em nome de qual deveria ocorrer a intimação, correta seria a publicação com o nome de qualquer dos Procuradores atuantes" (EREsp 131.900/RJ, Rel. Ministro Gilson Dipp, Corte Especial, julgado em 20/10/2004, DJ 6/12/2004).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.305.650/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 26/09/2017, DJe 06/10/2017)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO (ART. 544 DO CPC/73) - AGRAVO DE INSTRUMENTO NA ORIGEM - AUSÊNCIA DE PEÇA OBRIGATÓRIA - DEFICIÊNCIA NA FORMAÇÃO DO INSTRUMENTO APRESENTADO - EXIGÊNCIA PREVISTA NO ART. 525, INCISO I, DO CPC/73 - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+1. No tocante à alegada violação ao art. 535 do CPC/73, a parte agravante alega genericamente violação ao dispositivo citado sem demonstrar, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado. Incidência, por analogia, da Súmula 284 do STF. Precedentes.
+2. Não há usurpação de competência do STJ quando o Tribunal a quo, no exame de admissibilidade do recurso especial, analisa os pressupostos processuais específicos e constitucionais do apelo extremo. Incidência da Súmula 123 do STJ. Precedentes.
+3. A ausência de peça obrigatória prevista no art. 525, inciso I, do CPC/73 enseja o não conhecimento do recurso. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 307.151/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 02/02/2017, DJe 09/02/2017) (grifou-se).
+PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 535 DO CPC. SÚMULA 284/STF. MANDADO DE SEGURANÇA. LIMINAR. IRREVERSIBILIDADE E SATISFAÇÃO DA MEDIDA. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Considera-se genérica a alegação de ofensa ao art. 535 do CPC consubstanciada na afirmação de que não foram analisados determinados dispositivos de Lei, uma vez que esta é incapaz de individualizar a omissão ocorrida no acórdão recorrido, bem como tornar clara sua relevância para a solução da controvérsia apresentada nos autos.
+ ..
+Agravo regimental improvido.
+(AgRg no REsp 1.318.004/AM, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 21/3/2013, DJe 2/4/2013) (grifou-se).
+Com efeito, a parte recorrente, em suas razões de recurso especial, deixou de explicitar os pontos em que o julgado recorrido teria incorrido em omissão, contradição ou obscuridade, limitando-se a apontar ofensa genérica a uma série de dispositivos legais, sem a demonstração exata e específica dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como sua relevância para a solução da controvérsia apresentada nos autos, sendo certo que não se presta a tal desiderato a mera transcrição da petição dos referidos aclaratórios. Incidência, à espécie, por analogia, da Súmula nº 284/STF.
+Por outro lado, ressalta-se que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da tese de defesa que sustenta o apelo raro, em que a empresa submetida ao recolhimento do IRPJ/CSLL com base no lucro real, como no caso dos autos, deve apurar o lucro líquido pelo regime de competência, no qual as despesas e receitas são computadas com o simples direito ao rendimento ou a obrigação de pagar, independente de sua realização em moeda (cf fl.238).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
