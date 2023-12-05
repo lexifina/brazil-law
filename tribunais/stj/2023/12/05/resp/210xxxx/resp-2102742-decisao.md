@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED REGIONAL DA BAIXA MOGIANA COOPERATIVA DE TRABALHO MÉDICO (UNIMED), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Desembargador JOSÉ JOAQUIM DOS SANTOS , assim ementado:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. Ação de obrigação de fazer c. c. pedido de indenização por danos morais. Reapreciação determinada pelo C. Superior Tribunal de Justiça. Autor portador de tumor cerebral. Necessidade da cirurgia incontroversa diante de relatório médico. Não cabe à operadora escolher o tipo de procedimento a ser realizado, mas ao corpo clínico responsável pelo tratamento. Recusa da ré em custear o procedimento sob a alegação de que este não possui cobertura contratual, por não constar no rol dos procedimentos obrigatórios instituídos pela ANS. Inadmissibilidade. Recentíssima alteração legislativa, que estabeleceu a obrigatoriedade de autorização de tratamentos e procedimentos, ainda que não incluídos no rol da ANS, quando exista comprovada eficácia. Rol que prevê somente a cobertura mínima obrigatória, sendo meramente exemplificativo. Dano moral. Ocorrência. Quantum indenizatório mantido. Recurso improvido. (e-STJ, fl. 317).
+Nas razões do presente recurso, UNIMED alegou a violação aos arts. 10, §4º, da Lei nº 9.656/98, 1º e 4º da Lei nº 9.961/00 e 188, inciso I, do CC, ao sustentar que (1) é taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista, não havendo ofensa ao CDC. (2) Defende que a negativa de cobertura se deu em exercício regular de um direito, não havendo danos morais, ou então deve ser o valor reduzido.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da cobertura da doença
+A demanda, no caso, foi de obrigação de fazer alegando, em síntese, que foi diagnosticado com tumor cerebral, necessitando de neuronavegador para realização de cirurgia para retirada do tumor (e-STJ, fls. 318/319). A UNIMED negou a cobertura.
+Esta Corte entende que a natureza taxativa ou exemplificativa do aludido rol da ANS não se aplica à análise do dever de cobertura de medicamentos/procedimentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS, devendo o procedimento ser concedido.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. PROVA PERICIAL. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. PLANO DE SAÚDE. CÂNCER. PRÓTESE CUSTOMIZADA. CUSTEIO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+ ..
+3. De acordo com a jurisprudência desta Corte, "o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Contudo, a natureza taxativa ou exemplificativa do aludido rol não se aplica à análise do dever de cobertura de medicamentos/procedimentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no AREsp n. 2.210.504/RJ, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 18/9/2023, DJe de 20/9/2023).
+3.1. O Tribunal de origem determinou o custeio, pelo plano de saúde, da prótese personalizada integrante do tratamento oncológico da parte agravada, o que não destoa da jurisprudência desta Corte Superior.
+3.2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.076.227/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/11/2023, DJe de 20/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE PROCEDIMENTO DE RADIOTERAPIA PARA TRATAMENTO DE CÂNCER. RECUSA ABUSIVA. PRECEDENTES DO STJ. DANOS MORAIS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. VALOR. RAZOABILIDAE E PROPORCIONALIDADE.
+1. Nos termos da jurisprudência pacífica desta corte, o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Contudo, a natureza taxativa ou exemplificativa do aludido rol não se aplica à análise do dever de cobertura de medicamentos/procedimentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+2. No caso, trata-se de procedimentos para tratamento de câncer (Radioterapia conformada com as técnicas IMRT associado ao IGRT), hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Precedentes.
+3. A jurisprudência desta corte é firme no sentido de que "a recusa injustificada de cobertura de tratamento de saúde enseja danos morais em razão do agravamento da aflição e angústia do segurado que já se encontra com sua higidez físico-psicológica comprometida em virtude da enfermidade"(AgInt nos EDcl no REsp n. 1.963.420/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022 ).
+4. Hipótese em que o Tribunal de origem concluiu pela existência de danos morais indenizáveis. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial por esbarrar no óbice da Súmula n. 7/STJ.
+5. Não se mostra exorbitante o quantum indenizatório fixado pelo TJRJ em R$ 6 .000,00.
+Agravo interno improvido.
+(AgInt no REsp n. 2.090.381/PB, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANOS DE SAÚDE. FORNECIMENTO DE MEDICAMENTO ANTINEOPLÁSICO OBRIGATÓRIO. RECUSA. ABUSIVIDADE. GRAVIDADE DO QUADRO DE SAÚDE. PRODUÇÃO DE PROVAS. SÚMULA N. 7 DO STJ. TRATAMENTO DE CÂNCER. NATUREZA TAXATIVA OU EXEMPLIFICATIVA DO ROL DA ANS. IRRELEVÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. As operadoras de planos de saúde podem limitar as doenças a serem cobertas pelo contrato, mas não podem limitar os tipos de procedimentos a serem prescritos para o tratamento da enfermidade.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. As operadoras de plano de saúde têm o dever de cobertura de fármacos antineoplásicos utilizados para tratamento contra o câncer, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.036.547/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+Incidência da Súmula nº 568 do STJ.
+(2) Do dano moral
+Em relação ao dano moral, os julgadores assim reconheceram:
+No mais, o dano moral restou configurado na espécie, eis que se trata de negativa de tratamento para patologia grave e de grandes proporções, sendo que a demora na sua realização poderia acarretar serias consequências ao paciente, o que sem dúvida causou abalo psicológico no beneficiário (e-STJ, fl. 320).
+Sobre o tema, a jurisprudência do STJ firmou-se no sentido de que o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento médico-hospitalar, enseja compensação por dano moral quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada da paciente, como afirmado pelo Tribunal de origem, na hipótese (REsp n. 2.097.812/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/11/2023, DJe de 23/11/2023).
+No que se refere ao montante arbitrado pelos danos morais, a lei não fixa valores ou critérios para a sua quantificação que, entretanto, deve ter assento na regra do art. 944 do CC. Por isso, esta Corte tem se pronunciado reiteradamente que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Dessa forma, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+No caso dos autos, o valor fixado para a indenização por danos morais, qual seja, R$ 2.000,00 (dois mil reais), não se mostra exagerado a justificar a excepcional intervenção desta Corte no presente feito.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA. AQUISIÇÃO DE SALAS COMERCIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RESCISÃO. LUCROS CESSANTES. NÃO CABIMENTO. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. FIXAÇÃO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. SÚMULA N. 7/STJ. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. EQUIDADE. IMPOSSIBILIDADE NA HIPÓTESE. PARÂMETROS DO ART. 85, § 2º, DO CPC/2015. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. FALTA DE PREQUESTIONAMENTO DO DISPOSITIVO INVOCADO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. Concernente ao valor da indenização, "a intervenção desta egrégia Corte para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais somente se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes" (AgRg na Rcl n. 4.847/SE, Rel. Min. Raul Araújo, Segunda Seção, DJe 17/2/2011).
+3.1. No caso dos autos, a quantia fixada não se afigura exorbitante, tendo sido observados os postulados da proporcionalidade e da razoabilidade de acordo com as particularidades do caso vertente, o que torna inviável o recurso especial, nos termos da Súmula n. 7/STJ.
+ ..
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.130.583/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DANO MORAL. "QUANTUM" INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal analisou a prova dos autos para concluir que havia cobertura contratual e danos morais. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.022.722/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de MARCELO , limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CÂNCER. NECESSIDADE DE COBERTURA DO PROCEDIMENTO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. DANO MORAL. OCORRÊNCIA. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
