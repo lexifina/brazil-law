@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANDRE ALVES DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o Recorrente foi condenado à pena de 16 (dezesseis) anos e 6 (seis) meses de reclusão em razão de ter sido pronunciado nas sanções do artigo 121, § 2.º, I e IV, do Código Penal; negado o direito de recorrer em liberdade. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem; constando no acórdão hostilizado:
+"Em sentença condenatória, ressaltara a d. autoridade, ora apontada como coatora, a necessidade da custódia do acusado para garantia da ordem pública, mormente se considerando a gravidade do delito por ele praticado e o fato de este encontrar-se em cumprimento de pena por outros delitos.
+ ..
+Ora, dos elementos coligidos aos autos, bem como das circunstâncias depreendidas do dispositivo sentencial, extrai-se que a prisão preventiva do acusado é medida de rigor, mormente em se considerando a reiteração delitiva do paciente (CAC e FAC à ordem 16/17)" (fls. 108-109).
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a prisão cautelar determinada em desfavor do Recorrente.
+Aduz que:
+"não se encontram presentes os requisitos necessários para a decretação/manutenção da prisão preventiva do Recorrente, estando ele preso exclusivamente em razão da sua vida pregressa, o que é rechaçado pelo modelo constitucional de processo" (fl. 122).
+Requer a revogação da segregação cautelar do Recorrente e, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão.
+Liminar indeferida, às fls. 163-164.
+Informações prestadas, às fls. 166-167 e 174-175. O Ministério Público Federal em parecer, às fls. 177-183, opinou pelo "parcial conhecimento do recurso para, no mérito, negar-lhe provimento".
+É o relatório. DECIDO.
+Pretende o Recorrente o reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a sua prisão cautelar.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, haja vista que; além da prática de homicídio qualificado que lhe resultou substancial reprimenda de 16 (dezesseis) anos e 6 (seis) meses de reclusão, no regime fechado; o ora Recorrente cumpre pena por outros delitos.
+No ponto, consta na sentença condenatória:
+"Assim, em vista do montante de pena fixado (acima de 08 anos), levando em conta a gravidade concreta do crime, praticado mediante violência contra a pessoa, em atendimento aos artigos 59, inciso III, e 33, parágrafo 2º, alínea A, e § 3º, do Código Penal, fixo regime inicial FECHADO para cumprimento da pena.
+Pelos motivos evidenciadores da gravidade diferenciada do crime, bem como pelo elevado montante de pena, revelam-se descabidos os benefícios descarcerizadores da substituição da pena reclusiva por restritivas de direito (art. 44 do CP) e da suspensão condicional da execução da pena (art. 77 do CP), mostrando -se indispensável para suficiente reprovação e prevenção do delito a imposição de pena privativa de liberdade.
+Para se evitar a reiteração delitiva e garantir a ordem pública, considerando que o réu cumpre pena por outros delitos, decreto sua prisão cautelar, determinando a expedição de guia de execução provisória" (fl. 25).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do Recorrente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+"Agravante condenado pelo Tribunal do Júri pela prática do crime de homicídio qualificado e porte de arma de fogo, à pena de 21 (vinte e um) anos e 3 (três) meses de reclusão, em regime inicial fechado, sendo decretada na sentença a sua prisão preventiva. 2. A negativa do apelo em liberdade apresentou fundamentação idônea, pois asseverou que, respondendo solto ao processo originário, o Réu foi condenado também pelo crime de porte ilegal de arma, em sentença transitada em julgado, o que demonstra a necessidade da segregação cautelar como garantia da ordem pública. 3. A jurisprudência desta Corte Superior se orienta no sentido de que o fato de o réu se encontrar condenado por outro crime constitui fundamento idôneo para respaldar a prisão preventiva, porquanto denota a habitualidade e o risco concreto de reiteração delitiva" (AgRg no HC n. 712.636/PR, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 14/3/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, " b", do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
