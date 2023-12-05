@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fulcro na alínea a, do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 31):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONSECTÁRIOS DIFERIDOS PARA A FASE EXECUTIVA. TEMA 810 DO STF. REABERTURA DA EXECUÇÃO. POSSIBILIDADE. EXECUÇÃO COMPLEMENTAR AO CUMPRIMENTO DE SENTENÇA QUE ENSEJOU EXPEDIÇÃO DE PRECATÓRIO. SALDO REMANESCENTE DENTRO DO LIMITE DO PAGAMENTO POR RPV. HONORÁRIOS ADVOCATÍCIOS.
+1. Nas situações em que o título executivo diferiu para a fase executiva a definição dos consectários legais, é admissível o pedido de execução complementar quanto às diferenças relativas à correção monetária, com fundamento no Tema 810 do STF.
+2. Tratando-se de montante que não poderia ter sido reivindicado anteriormente, não se cogita de preclusão. Ainda que a fase de cumprimento já tenha sido extinta, é possível a sua reabertura para processar o pedido de pagamento do saldo remanescente que decorre da aplicação do Tema 810 do STF, desde que a fixação da tese tenha ocorrido após o trânsito em julgado da sentença que extinguiu a execução.
+3. A execução complementar deve seguir o regramento das execuções sujeitas a RPVs, na hipótese em que o saldo remanescente enquadra-se nesse regime de pagamento, ainda que o valor principal tenha ensejado a expedição de precatório.
+4. Agravo de instrumento desprovido.
+Opostos embargos declaratórios foram parcialmente providos (fls. 95/126).
+Aponta o recorrente violação dos arts. 316, 502, 503, 505, 924, II e 925 do CPC., sustentando que nos termos do Tema 289/STJ, não é possível a reabertura do processo executivo, para finalidade de cobrança de valores complementares, quando a execução foi extinta por sentença.
+Afirma que "O acórdão recorrido acolheu a pretensão da parte autora para execução de valores complementares, mesmo após o feito ter sido extinto por sentença que reconheceu o cumprimento da obrigação (pagamento), a qual já transitou em julgado" (fl. 48).
+Alega que "O acórdão recorrido reconheceu a possibilidade da parte autora cobrar as diferentes decorrentes de diferença de correção monetária sobre os valores pagos em atraso - Tema nº 810 do STF, muito embora já tenha sido satisfeita a obrigação e extinto o processo de execução" (fls.48/49) .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação comporta acolhida
+Isso porque, o acórdão recorrido destoou do entendimento firmado neste Superior Tribunal, no julgamento do Recurso Especial Representativo de Controvérsia nº 1.143.471/PR, que se posicionou no sentido de que, transitada em julgado a sentença de extinção da execução, não é possível sua reabertura.
+Confira-se, a propósito, a ementa do referido julgado:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C, DO CPC. EXECUÇÃO DE SENTENÇA. EXTINÇÃO DO PROCESSO. INÉRCIA DO EXEQÜENTE. PRESUNÇÃO DE QUITAÇÃO DA DÍVIDA. ARTIGO 794, I, DO CPC. ERRO NO CÁLCULO DO VALOR EXECUTADO (EXCLUSÃO DE PARCELA CONSTANTE DA SENTENÇA EXEQÜENDA). COISA JULGADA. OCORRÊNCIA. ARTIGO 463, I, DO CPC. RENÚNCIA TÁCITA AO SALDO REMANESCENTE QUE NÃO FOI OBJETO DA EXECUÇÃO. CONFIGURAÇÃO.
+1. A renúncia ao crédito exequendo remanescente, com a consequente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita.
+2. A extinção da execução, ainda que por vício in judicando e uma vez transitada em julgado a respectiva decisão, não legitima a sua abertura superveniente sob a alegação de erro de cálculo, porquanto a isso corresponderia transformar simples petitio em ação rescisória imune ao prazo decadencial.
+3. Deveras, transitada em julgado a decisão de extinção do processo de execução, com fulcro no artigo 794, I, do CPC, é defeso reabrí-lo sob o fundamento de ter havido erro de cálculo.
+4. É que, in casu: "Trata-se de agravo de instrumento, interposto contra decisão que, tendo em conta a extinção por pagamento de execução de título judicial relativo aos expurgos de poupança (com trânsito em julgado ainda em 02.02.2005), indeferiu requerimento de cumprimento de sentença (protocolado em 02.06.2008), relativo a juros de mora no período de jan/94 a mar/99 . Argumenta o agravante que à época da propositura da Execução de Sentença nº 94.00.00710-8/PR, por mero erro material foram incluídos juros só a partir de abr/99, data da citação da CEF na ACP nº 98.0016021-3/PR, quando na verdade os juros deveriam ser cobrados desde jan/94, pois a Execução era relativa à sentença proferida na Ação de Cobrança nº 94.00.00710-8/PR, ajuizada na referida data.
+(..) A decisão recorrida não merece qualquer reforma pois, com efeito, a inexistência de manifestação acerca da satisfação dos créditos, dando ensejo à sentença extintiva da execução, fundada na satisfação da obrigação (art. 794, I, do CPC), impossibilita a inovação da pretensão executória, sob o argumento do erro material, sob
+pena de o devedor viver constantemente com a espada de Dâmocles sob sua cabeça. Não se trata, in casu, de erro de cálculo, como argumenta
+o recorrente, mas de renúncia, ainda que tácita, a eventual remanescente, pois embora os cálculos estejam corretos, houve uma restrição no período executado relativo aos juros (por culpa exclusiva do exequente), questão que poderia mesmo ter sido objeto de controvérsia em embargos. Sob este prisma, a aceitação desta inovação no objeto da execução poderia implicar, mesmo, num indevido cerceamento de defesa do executado, que a toda hora poderia estar sendo reacionado, mormente, face aos mais de 5 (cinco) anos que passaram entre a inicial da execução e o requerimento ora indeferido (e 3 anos do trânsito em julgado da sentença extintiva da execução)."
+5. Recurso especial desprovido. Acórdão submetido ao regime do artigo 543-C, do CPC, e da Resolução STJ 08/2008.
+(REsp n. 1.143.471/PR, relator Ministro Luiz Fux, Corte Especial, julgado em 3/2/2010, DJe de 22/2/2010.)
+No mesmo sentido, anote-se o seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREVIDENCIÁRIO. EXECUÇÃO. EXTINÇÃO. SENTENÇA. REABERTURA. IMPOSSIBILIDADE. PRECEITOS CONSTITUCIONAIS. VIOLAÇÃO. EXAME. VIA ESPECIAL. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. DECISÃO AGRAVADA. FUNDAMENTOS NÃO AFASTADOS.
+1. Afigura-se inviável a apreciação de ofensa a dispositivo constitucional, ainda que a título de prequestionamento, pois não cabe a esta Corte, em sede de recurso especial, o exame de matéria constitucional cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+2. A ausência de discussão da matéria contida nos preceitos legais indicados como ofendidos impede o conhecimento do recurso especial, em razão do óbice representado pela Súmula 211/STJ.
+3. A extinção da execução, uma vez transitada em julgado a decisão, impede sua reabertura posterior, por simples petição, sob pena de transformar tal requerimento em verdadeira ação rescisória.
+Precedente.
+4. Agravo regimental a que se nega provimento
+(AgRg no AREsp 392.505/PR, Rel. Min. OG FERNANDES, DJe de 02/05/2014).
+Destaquem-se, ainda, as seguintes decisões: AgInt no AREsp 1.813.592/SC, Rel. Min. HERMAN BENJAMIN, DJe de 29/06/2021 e REsp 1.435.069/RJ, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 19/05/2020.
+ANTE O EXPOSTO, dou provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se.
+EMENTA
