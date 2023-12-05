@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar impetrado em favor de JOÃO HENRIQUE CAIRES BACHEGA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1000043-23.2022.8.26.0559.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos de reclusão, em regime inicial fechado, além de 500 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 23/27).
+Irresignada, a defesa apelou e o Tribunal estadual negou provimento ao recurso (e-STJ fls. 12/22), em acórdão assim ementado:
+APELAÇÃO. TRÁFICO DE DROGAS - (ARTIGO 33, CAPUT, DA LEI 11343/06) - Provas seguras de autoria e materialidade - Palavras coerentes e seguras das testemunhas - Validade - Responsabilização inevitável - Legalidade e compatibilidade evidenciadas - Conjunto probatório seguro e coeso - Traficância caracterizada - Pena-base no mínimo - Atenuante da confissão aplicada, porém sem reflexos na pena em razão da Súmula 231 do STJ - Impossibilidade de redução da pena aquém do mínimo legal - Incabível o reconhecimento da causa de diminuição prevista no § 4º, do artigo 33, da Lei 11343/06 - Réu que se dedica a atividades criminosas - Fixação de regime prisional inicial fechado - Viabilidade Regime prisional inicial fechado único possível - Apelo desprovido.
+Em consulta ao sistema Justiça, verifico que o HC n. 808.849/SP, anteriormente impetrado nesta Corte, teve a ordem concedida, de ofício, para fixar o regime inicial semiaberto ao paciente.
+Na sequência, a defesa informou que o paciente já havia sido progredido para o semiaberto e solicitou a concessão do regime aberto. O Juízo da Execução foi, então, oficiado para que analisasse a possibilidade de progressão ao regime aberto.
+No presente writ (e-STJ fls. 3/11), o impetrante afirma que o paciente sofre constrangimento ilegal na terceira fase da dosimetria de sua pena. Para tanto, alega que ele faz jus à minorante prevista no § 4º do art. 33 da LAD, haja vista o preenchimento de todos os requisitos para a obtenção do benefício.
+Argumenta, ainda, que com o desconto do período de mais de um ano em que esteve preso preventivamente, o paciente fará jus à fixação do regime inicial aberto, já que a pena a ser cumprida é inferior a 4 anos, o réu é primário e as circunstâncias judiciais lhe são favoráveis.
+Diante disso, requer, liminarmente e no mérito, a concessão da ordem para que seja aplicada a redutora do tráfico privilegiado e fixado o regime inicial aberto ao paciente.
+É o relatório. Decido.
+Verifico que a irresignação manifestada no presente habeas corpus tem por objeto os mesmos temas suscitados no HC n. 808.849/SP, anteriormente impetrado pela defesa do paciente. Naquela oportunidade, como relatado, esta Corte concluiu pela descabimento da aplicação do redutor do tráfico privilegiado, fixou o regime inicial semiaberto, e submeteu ao Juízo da Execução a análise sobre a possibilidade de progressão para o regime aberto.
+Assim, trata-se de mera reiteração de insurgência já devidamente apreciada, revelando-se incabível nova impetração para reexame do tema. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT.
+3. Agravo regimental não conhecido (AgRg no RHC 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem. (HC 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
