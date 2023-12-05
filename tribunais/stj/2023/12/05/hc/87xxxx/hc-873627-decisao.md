@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Jair Nau  condenado como incurso no crime de adulteração de sinal identificador de veículo automotor  , em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 5005325-57.2021.8.24.0011), não comporta processamento.
+Com efeito, busca a impetração a readequação das penas alternativas aplicadas ao paciente, pois estabelecida a pena privativa de liberdade em patamar superior a 1 ano (3 anos de reclusão), caberia ao Juízo sentenciante substituí-la por multa e por uma restritiva de direitos ou por duas restritivas de direitos, nos termos da segunda parte 2 do § 2.º do art. 44 do Código Penal. O Juízo sentenciante optou pela segunda alternativa  substituição por duas restritivas de direito, consistentes em prestação pecuniária e prestação de serviços à comunidade  sem fundamentação concreta (fl. 5).
+Ocorre que, além de ser inviável a utilização da via eleita como espécie de segunda apelação criminal, como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, não cabe a este Superior Tribunal intervir na discricionariedade regrada do Juízo sentenciante , no tocante à escolha das restritivas de direitos, devendo ser preservada a convicção do Magistrado singular, mais próximo das partes, dos fatos e da ação penal (Princípio da Confiança no Juiz do processo).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. DOSIMETRIA DA PENA. PRETENSÃO DE REVISÃO DA SUBSTITUIÇÃO REALIZADA PEL O MAGISTRADO SINGULAR. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. INVIABILIDADE DE INTERVENÇÃO DESTE SUPERIOR TRIBUNAL. INEXISTÊNCIA DE ILEGAL CONSTRANGIMENTO.
+Inicial indeferida liminarmente.
