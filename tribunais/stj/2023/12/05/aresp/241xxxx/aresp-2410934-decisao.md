@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO DO BRASIL SA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/02/2023.
+Concluso ao gabinete em: 18/10/2023.
+Ação: cumprimento de sentença proposto por ESPÓLIO DE JOEL REIS GUIMARÃES em face da agravante.
+Decisão interlocutória: determinou o cancelamento da distribuição da impugnação ao cumprimento de sentença.
+Acórdão: negou provimento ao agravo de instrumento da agravante, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. PRESSUPOSTOS PRESENTES. PRELIMINAR REJEITADA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO CONTRA DECISÃO TERMINATIVA. ERRO GROSSEIRO. MATÉRIA NÃO IMPUGNADA OPORTUNAMENTE. IMPOSSIBILIDADE DE ANÁLISE EM FACE DA OCORRÊNCIA DE PRECLUSÃO. IDEC. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. IMPUGNAÇÃO APRESENTADA NA ÉGIDE DO CPC DE 1973. AUSÊNCIA DO RECOLHIMENTO DE CUSTAS. DISTRIBUIÇÃO CANCELADA. INTELIGÊNCIA DO ART. 257, DO CPC DE 1973, ENTÃO VIGENTE. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO DA PARTE LITIGANTE PARA A PRÁTICA DO ATO. DECISÃO EM CONSONÂNCIA COM ENTENDIMENTO SEDIMENTADO NO STJ EM SEDE DE RECURSO REPETITIVO - RESP Nº 1.361.811 -RSIRRESIGNAÇÃO IMOTIVADA. RECURSO IMPROVIDO. (e-STJ fls. 522/523)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 14, 290, 489, § 1º, IV, 1.022, II, e 1.046 do CPC.
+Além de negativa de prestação jurisdicional, insurge-se contra decisão que determinou o cancelamento da distribuição da impugnação ao cumprimento de sentença, sob a justificativa de não haver recolhimento de custas.
+Argumenta que a decisão questionada fora proferida sob a égide do CPC de 2015 e, portanto, a parte deveria ser previamente intimada para o recolhimento das custas. Outrossim, o Tribunal a quo não teria se manifestado sobre as insurgências acerca da aplicação da norma processual no tempo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Relevância da questão de direito federal infraconstitucional
+O art. 105, § 2º, da CRFB exige que a relevância seja demonstrada "nos termos da lei" e o Pleno do STJ aprovou, em 19/10/2022, o Enunciado Administrativo nº 8, segundo o qual "a indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal".
+Logo, como ainda nem sobreveio a referida lei regulamentadora, não se exige, também por esse motivo, a demonstração da relevância da questão de direito federal na hipótese em julgamento.
+- Da violação dos arts. 489 e 1.022 do CPC e da Jurisprudência do STJ
+Devidamente analisadas e discutidas as questões de mérito e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC quando o Tribunal de origem examina "de forma fundamentada a questão submetida à apreciação judicial, na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO,3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+Da mesma forma, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC, quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o Tribunal a quo manifestou-se, motivada e expressamente, sobre o cancelamento da impugnação ao cumprimento de sentença, mormente ante o entendimento consolidado por esta Corte Superior sobre a temática. Na ocasião, fora elucidado que aludida impugnação foi protocolada sob a égide do CPC de 1973:
+O Superior Tribunal de Justiça, inclusive, reiteradamente, vinha decidindo no sentido de que a distribuição da impugnação ao cumprimento de sentença deveria ser cancelada se não recolhidas as custas processuais correlatas, no prazo de 30 (trinta) dias, independentemente de intimação da parte. Não obstante a pacificação da jurisprudência desta Corte Superior, tornou-se necessário, afetar a matéria ao rito do art. 543-C do Código de Processo Civil de 1973, restando consolidada duas teses:
+"Cancela-se a distribuição da impugnação ao cumprimento de sentença ou dos embargos à execução na hipótese de não recolhimento das custas no prazo de 30 dias, independentemente de prévia intimação da parte". "Não se determina o cancelamento da distribuição se o recolhimento das custas, embora intempestivo, estiver comprovado nos autos.".
+Assim, nos termos do que restou decidido no julgamento do REsp. nº 1.361.811, submetido a sistemática de recursos repetitivos necessário, o pagamento das custas judiciais dentro do prazo de 30 (trinta) dias, independentemente de prévia intimação do executado, não sendo, no entanto, desconsiderado tal recolhimento, se efetivado após o prazo legal, porém, antes da decisão judicial determinando o cancelamento da distribuição.
+In casu protocolada a impugnação em janeiro de 2015, ainda na vigência do Código de Processo Civil de 1973, acertada a decisão do juízo a quo de cancelamento da distribuição da impugnação ao cumprimento de sentença por falta de recolhimento das custas em atenção a tese adotada pelo Superior Tribunal de Justiça no julgamento do REsp. nº10361.811 representativo de controvérsia in verbis.
+ ..
+Por tais razões nega-se provimento ao agravo. (e-STJ fls. 528/529)
+Assim, os embargos de declaração opostos, de fato, não comportavam acolhimento.
+Observados os entendimentos dominantes desta Corte acerca dos temas, não há que se falar em violação dos arts. 489 e 1.022 do CPC.
+De mais a mais, o entendimento proferido pelo Tribunal de origem é consentâneo com a jurisprudência prevalecente nesta Corte Superior sobre a temática, notadamente consolidados os Temas Repetitivos 674, 675 e 676 do STJ. Dessarte, aplica-se, à hipótese, a Súmula 568 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568 do STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência, conforme determina o art. 85, §11 do CPC, pois o recurso especial desafia decisão interlocutória sem fixação dos mesmos na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. RELEVÂNCIA DA QUESTÃO DE DIREITO AINDA PENDENTE DE REGULAMENTAÇÃO. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OBSERVADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. JURISPRUDÊNCIA DO STJ. TEMA 674. SÚMULA 568 DO STJ.
+1. Cumprimento de sentença.
+2. A indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal.
+3. Devidamente analisadas e discutidas as questões de mérito e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC.
+4. Cancela-se a distribuição da impugnação ao cumprimento de sentença ou dos embargos à execução na hipótese de não recolhimento das custas no prazo de 30 dias, independentemente de prévia intimação da parte. Tema 674 do STJ.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
