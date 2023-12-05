@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA CIRENE ALBANO, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO nos termos da seguinte ementa (fls. 498-499):
+CONSUMIDOR, CIVIL E PROCESSUAL CIVIL. INDENIZAÇÃO SECURITÁRIA. SÚMULA 609 DO STJ. PROVA DE DOENÇA PREEXISTENTE. MÁ-FÉ CARACTERIZADA. APELAÇÃO NÃO PROVIDA.
+1. O tema aqui tratado foi pacificado pelo C. Superior Tribunal de Justiça por meio da Súmula 609, que assim estipula: A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado.
+2. No caso dos autos, em que pese o fato de as corrés não terem exigido exames médicos da ora apelante antes da assinatura do contrato de seguro, a documentação acostada aos autos permite concluir pela má-fé da segurada, diante da omissão intencional de doença preexistente.
+3. O contrato foi assinado em 2017. Conforme atestado médico do reumatologista que a atende (ID 140974764), a autora possui diagnóstico de artrite reumatoide desde o ano de 2005, realizando tratamento contínuo para o manejo e minoração dos efeitos deletérios da doença.
+4. Como se não bastasse, e conforme admitido pela própria apelante em suas razões recursais, o campo do formulário referente ao contrato de seguro, no qual deveria ser informado pela beneficiária o conhecimento de qualquer doença incapacitante, não foi preenchido (ID140975044 fl. 08) com a necessária informação sobre a artrite que a parte autora sabia possuir, frise-se, desde o ano de 2005.
+5. Assim, nítido está que no momento da contratação a apelante tinha plena consciência da doença com potencial incapacitante que a acometia, e deliberadamente deixou de informar o fato à seguradora, restando configurada a má-fé e, portanto, sendo plenamente justificada a negativa de cobertura por parte das rés. Não se pode olvidar do que dispõe o artigo 766 do Código Civil.
+6. Em arremate, saliento que alegações genéricas, feitas pela apelante, acerca da abusividade das cláusulas contratuais que preveem a exclusão da cobertura securitária não merecem guarida, de vez que não houve demonstração, em concreto, da ilegalidade aventada.
+7. A aplicação da Lei nº 8.078/1990 - Código de Defesa do Consumidor aos contratos bancários é questão superada no âmbito dos Tribunais Superiores. Não obstante, essa proteção não é absoluta e deve ser invocada de forma concreta, comprovando o interessado, efetivamente, a existência de abusividade das cláusulas contratuais ou de excessiva onerosidade da obrigação pactuada.
+8. Mesmo em se tratando de contrato de adesão, não basta a invocação genérica da legislação consumerista, pois é necessária a demonstração de que o contrato viola, concretamente, as normas previstas no Código de Defesa do Consumidor - o que não foi feito no caso dos autos.
+9. Apelação não provida.
+Sem embargos de declaração.
+No presente recurso especial, a parte recorrente sustenta violação das disposições contidas nos arts. 31 e 51, inciso IV e § 1º, incisos II e III, do CDC, tendo em vista que a má-fé não se presume e que o preenchimento incorreto da declaração de saúde não pode ser interpretado como má-fé ou omissão espontânea em declarar a doença de que a segurada era portadora.
+Requer a aplicação da Súmula n. 609/STJ, "pois, do cotejo entre as datas, de assinatura do contrato de financiamento e da apólice de seguro, de concessão da aposentadoria por invalidez e do termo inicial de tal incapacidade não é possível concluir pela má-fé da Recorrente" (fl. 527).
+Por fim, alega divergência jurisprudencial com arestos de outros tribunais.
+Apresentadas contrarrazões (fls. 548-550), sobreveio o juízo de admissibilidade positivo da instância de origem (fl. 573-576).
+É, no essencial, o relatório.
+Consoante se infere dos autos, cuida-se de ação de obrigação de fazer interposta por MARIA CIRENE ALBANO contra CAIXA ECONÔMICA FEDERAL e CAIXA SEGURADORA S.A., objetivando a quitação do saldo devedor do financiamento habitacional, desde a comunicação do sinistro, com a devolução dos valores das parcelas pagas no curso do processo, bem como a emissão de termo de quitação do financiamento habitacional e da garantia fiduciária que recai sobre o bem imóvel financiado.
+O Juízo de primeiro grau julgou improcedentes os pedidos autorais (fls. 399-402). O Tribunal de origem negou provimento à apelação (fls. 488-499), o que ensejou a interposição de recurso especial por MARIA CIRENE ALBANO.
+A irresignação recursal não merece prosperar.
+De início, salienta-se que a jurisprudência sumulada desta Corte é no sentido de que "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado" (Súmula n. 609/STJ).
+Com efeito, observa-se que o Tribunal de origem, ao abordar a má-fé da segurada e a legitimidade da recusa de cobertura securitária, manifestou-se nos seguintes termos (fl. 490):
+No caso dos autos, em que pese o fato de as corrés não terem exigido exames médicos da ora apelante antes da assinatura do contrato de seguro, a documentação acostada aos autos permite concluir pela má-fé da segurada, diante da omissão intencional de doença preexistente.
+O contrato foi assinado em 2017. Conforme atestado médico do reumatologista que a atende (ID140974764), a autora possui diagnóstico de artrite reumatoide desde o ano de 2005, realizando tratamento contínuo para o manejo e minoração dos efeitos deletérios da doença.
+Como se não bastasse, e conforme admitido pela própria apelante em suas razões recursais, o campo do formulário referente ao contrato de seguro, no qual deveria ser informado pela beneficiária o conhecimento de qualquer doença incapacitante, não foi preenchido (ID 140975044 fl. 08) com a necessária informação sobre a artrite que a parte autora sabia possuir, frise-se, desde o ano de 2005.
+Assim, nítido está que no momento da contratação a apelante tinha plena consciência da doença com potencial incapacitante que a acometia, e deliberadamente deixou de informar o fato à seguradora, restando configurada a má-fé e, portanto, sendo plenamente justificada a negativa de cobertura por parte das rés.
+Isso posto, alterar as conclusões do acórdão recorrido quanto à caracterização da má-fé da segurada quanto ao conhecimento da doença preexistente à celebração do contrato de seguro demandaria a reanálise não apenas de cláusulas contratuais, mas também dos fatos e das provas constantes nos autos, o que é defeso a esta Corte nos termos das Súmulas n. 5 e 7/STJ. A propósito, confiram-se precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+ ..
+2. De acordo com a jurisprudência desta Corte Superior, consolidada na Súmula 609/STJ, "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado." Incidência da Súmula 83/STJ.
+2.1. Para derruir a convicção a que chegou o Tribunal estadual acerca da comprovação da má-fé do insurgente na contratação do seguro, seria necessário o reexame do contexto fático-probatório dos autos, de modo que reformar tal entendimento encontra óbice no enunciado da Súmula n. 7 desta Corte.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.033.791/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023, grifo meu.)
+CIVIL E PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO DE VIDA. MÁ-FÉ DA SEGURADA. DOENÇA PREEXISTENTE AO CONTRATO. SÚMULA N. 518/STJ. SÚMULA N. 284/STF. SÚMULA N. 7/STJ.
+1. Em síntese, cuida-se de ação de obrigação de fazer, objetivando o pagamento de indenização a título de seguro de vida.
+ ..
+5. É pacífico nesta Corte o entendimento de que alterar as conclusões do acórdão recorrido quanto à má-fé do segurado no momento da contratação importa no revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.335.336/RN, de minha relatoria, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023, grifo meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. COMORBIDADE PREEXISTENTE. OMISSÃO INTENCIONAL DE DOENÇA GRAVE NO ATO DA CONTRATAÇÃO. MÁ-FÉ RECONHECIDA. DEVER DE INDENIZAR AFASTADO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVA E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o enunciado da Súmula 609/STJ, "a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado".
+2. É lícita a recusa de cobertura securitária, por motivo de doença preexistente à celebração do contrato, se comprovada a má-fé do segurado, hipótese que não depende da exigência pela seguradora de exames prévios à contratação. Precedentes.
+3. No caso, o eg. Tribunal de origem concluiu expressamente pela ocorrência de má-fé, decorrente da omissão deliberada quanto ao real estado de saúde do segurado, quando da contratação do seguro, de modo que a modificação desse entendimento implicaria reexame de fatos e provas e análise de cláusulas contratuais, providências obstadas na via estreita do recurso especial, pelas Súmulas 5 e 7 do STJ. Precedentes.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.778.429/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022, grifo meu.)
+Por fim, inviável a análise da divergência jurisprudencial, tendo em vista que a tese trazida pela parte recorrente foi inteiramente afastada em relação à alínea "a" do permissivo constitucional, com a incidência da Súmula n. 7/STJ. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. SERVIÇO DE TRANSPORTE METROVIÁRIO. CULPA DE TERCEIRO. NEXO DE CAUSALIDADE. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A aplicação da Súmula n. 7 do STJ quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede o conhecimento do recurso especial também pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.044.058/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022, grifo meu.)
+Ante o exposto, não conheço do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
