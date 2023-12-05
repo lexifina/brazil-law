@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por Marcelo Henrique Ventura da Silva, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais na Apelação Criminal n. 1.0024.17.041885-9/001, assim ementado (fl. 732):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - AUTORIA E MATERIALIDADE - DEMONSTRAÇÃO - ROMPIMENTO DE OBSTÁCULO -PERÍCIA - DESNECESSIDADE - COMPROVAÇÃO POR OUTROS MEIOS DE PROVA - CONCURSO DE PESSOAS - DEMONSTRAÇÃO DO LIAME SUBJETIVO PARA A PRÁTICA DO CRIME - CAUSA DE AUMENTO REFERENTE AO REPOUSO NOTURNO - IMPOSSIBILIDADE DE INCIDÊNCIA DIANTE DO CRIME NA FORMA QUALIFICADA - SEMI-IMPUTABILIDADE - FRAÇÃO DE REDUÇÃO - MANUTENÇÃO - REDUÇÃO DA PENA - CABIMENTO - RECURSO PARCIALMENTE PROVIDO. - Evidenciadas a autoria e materialidade do crime de furto, notadamente diante da prova oral produzida nos autos, deve ser mantida a condenação do acusado como incurso nas sanções do art. 155 do Código Penal. -A falta de perícia visando à constatação do rompimento de obstáculo para alcançar a res furtiva não é motivo para afastamento da qualificadora, visto que a circunstância foi demonstrada por outro meio de prova. -Havendo demonstração de que o delito foi cometido em concurso de pessoas, deve ser mantida a valoração negativa das circunstâncias do crime. - A majorante do repouso noturno, prevista no art. 155, § 1º, do Código Penal, é incompatível com o furto qualificado, conforme tese firmada pelo Colendo Superior Tribunal de Justiça em Recurso Especial Representativo de Controvérsia. - Sendo a pena-base, em razão de circunstância negativa, majorada em inobservância aos princípios da razoabilidade e proporcionalidade , mostra-se cabível a sua redução. - A pena de multa deve guardar proporcionalidade com a pena corporal, cabendo sua redução quando não observada a adequação.
+No recurso especial, a defesa aponta violação dos arts. 155, § 4º, I, do Código Penal, e 158 do Código de Processo Penal, sob a tese de que a prova pericial é imprescindível para a incidência da qualificadora do rompimento de obstáculo.
+Afirma que, de acordo com a norma, o exame de corpo de delito é indispensável quando o crime deixa vestígios (cf. art.158, CPP) - fl. 768.
+Ressalta que, no caso em estudo, era plenamente possível a realização, pela autoridade policial, do referido exame, por se tratar de crime cometido à beira de via pública (estabelecimento comercial) e tendo o recorrente sido preso em flagrante delito, de posse da res futivae no local dos fatos (fl. 768).
+Ao final da peça recursal, requer o provimento da insurgência, para decotar a qualificadora do rompimento de obstáculo, diante da ausência do laudo pericial, com a consequente redefinição da pena-base, para que seja fixada no mínimo legal (fl. 772).
+Oferecidas contrarrazões (fls. 776/779), o recurso especial foi admitido na origem (fls. 782/784).
+O Ministério Público Federal opina pelo provimento da insurgência, nos termos da seguinte ementa (fl. 797):
+PROCESSUAL PENAL. FURTO QUALIFICADO PELA DESTRUIÇÃO DE OBSTÁCULO À SUBTRAÇÃO DA COISA. AUSÊNCIA DE PERÍCIA. POSSIBILIDADE DE COMPROVAÇÃO DA QUALIFICADORA POR OUTROS MEIOS DE PROVA SOMENTE QUANDO IMPOSSÍVEL A REALIZAÇÃO DA PERÍCIA, CONDIÇÃO NÃO OBSERVADA NO CASO.
+- Pelo provimento.
+É o relatório.
+Para melhor elucidação do quanto requerido, do acórdão recorrido extraem-se os seguintes fundamentos a respeito da incidência da qualificadora do rompimento de obstáculo (fls. 739/741 - grifo nosso):
+ ..  A defesa dos acusados pleiteou o decote da qualificadora de rompimento de obstáculo prevista no art. 155, § 4º, inciso I, do Código Penal, o que não merece prosperar.
+Isso porque, empese não constar dos autos o laudo pericial para comprovar o rompimento de obstáculo, tal circunstância não afasta a incidência da qualificadora, se a prova existente é bastante para comprová-la.
+É que, embora o art. 158 do Código de Processo Penal exija a necessidade de realização de perícia nos delitos que deixam vestígios, o art. 167 também da mesma legislação processual permite que a prova testemunhal supra a falta do exame pericial.
+Conforme leciona Guilherme de Souza Nucci, dispensa-se a realização de exame pericial no local do furto, quando o rompimento de obstáculo é atestado por outros meios probatórios:
+ ..
+No caso dos autos, verifico que, além de constar no Boletim de Ocorrência que o furto foi cometido por meio de arrombamento, a vítima ouvida em juízo relatou que (documento eletrônico de ordem n. 8 -páginas 82):
+ ..
+O policial militar que participou da ocorrência também confirmou o arrombamento, nos seguintes termos (documento eletrônico de ordem nº 09 -página 14):
+ ..
+O acusado Washington Gomes Campos, em seu interrogatório em juízo, afirmou que (documento eletrônico de ordem n. 9 -página 17):
+ ..
+Dessa forma, diante do contexto probatório dos autos, a falta de perícia visando à constatação de rompimento de obstáculo para alcançar a res furtiva não é motivo para afastamento da qualificadora, visto que a circunstância pode ser provada por outros meios, como ocorreu no caso em exame. Sobre o tema o Colendo Superior Tribunal de Justiça já decidiu:
+ ..
+Observa-se, do trecho acima, que a Corte de origem manteve a incidência da qualificadora do rompimento de obstáculo mesmo diante da inexistência de exame pericial demonstrando sua ocorrência, pois concluiu que os depoimentos testemunhais da vítima e dos policiais que atenderam a ocorrência de furto são suficientes para sua comprovaç ão.
+Com efeito, segundo Guilherme de Souza Nucci, se o crime deixa vestígios, é indispensável o exame de corpo de delito (art. 158 do CPP), não podendo supri-lo a prova testemunhal. Essa somente será admitida, em lugar do exame, caso os vestígios tenham desaparecido, conforme preceitua o art. 167 do Código de Processo Penal (Código Penal comentado. 9ª ed., RT, 2009, pág. 729).
+Ou seja, as qualificadoras da destruição ou rompimento de obstáculo e da escalada só podem ser aplicadas ao crime de furto mediante realização de exame pericial, tendo em vista que, por ser infração que deixa vestígio, é imprescindível a realização de exame de corpo de delito direto, por expressa imposição legal.
+A substituição do laudo pericial por outros meios de prova apenas pode ocorrer se o delito não deixar vestígios, se esses tiverem desa parecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que não foi demonstrado no presente caso.
+Nesse sentido, colaciono precedentes de ambas as Turmas que compõem a Terceira Seção desta Corte de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELA ESCALADA. AGRAVO EM RECURSO ESPECIAL ADMISSÍVEL. AFASTADA A APLICAÇÃO DA SÚMULA N. 182/STJ. DECISÃO REFORMADA. QUALIFICADORA DA ESCALADA. COMPROVAÇÃO POR CONFISSÃO E PROVA TESTEMUNHAL. IMPOSSIBILIDADE. EXAME PERICIAL. IMPRESCINDIBILIDADE. AFASTAMENTO DA QUALIFICADORA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RECONHECIMENTO DE OFÍCIO.
+ ..
+2. "Nos termos da jurisprudência desta Corte Superior, no crime de furto, o reconhecimento da qualificadora da escalada exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo. No caso, a Corte de origem não apresentou qualquer justificativa para a não realização do exame pericial a fim de verificar os vestígios da infração". (AgRg no REsp 1794040/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/12/2019, DJe 3/2/2020).
+ ..
+5. Provimento do agravo regimental. Conhecimento do agravo.
+Provimento ao recurso especial, aplicando ao recorrente a pena de 10 dias-multa, com o reconhecimento de ofício da extinção da punibilidade pela prescrição da pretensão punitiva.
+(AgRg no AREsp n. 2.061.101/MG, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 5/8/2022 - grifo nosso).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO PRATICADO MEDIANTE ESCALADA. AUSÊNCIA DE PERÍCIA. IMPRESCINDIBILIDADE. AGRAVO NÃO PROVIDO.
+1. No que tange à imprescindibilidade da prova técnica para o reconhecimento do furto qualificado pela escalada, a jurisprudência desta Corte Superior de Justiça tem-se orientado pela possibilidade de substituição do laudo pericial por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+2. As instâncias ordinárias, ao apreciarem a questão, não apresentaram justificativas para a não realização da perícia. Assim, deve ser afastada a qualificadora referente à escalada, tendo em vista a ausência de laudo pericial.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.000.227/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/6/2022 - grifo nosso).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO MINISTERIAL. MANUTENÇÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. IMPRESCINDIBILIDADE.
+I - A jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta apenas nas hipóteses de não existirem vestígios ou em caso de desaparecimento deles.
+II - Tendo as instâncias ordinárias optado deliberadamente por desconsiderar a imprescindibilidade do exame pericial para caracterização da qualificadora do rompimento de obstáculo no crime de furto, imperioso reconhecer o confronto com a jurisprudência desta Corte.
+Agravo regimental não provido.
+(AgRg no AResp n. 1.134.043/RS, Ministro Félix Fischer, Quinta Turma, DJe 1º/12/2017 - grifo nosso).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PELA ESCALADA E PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL. IMPRESCINDIBILIDADE. AFASTAMENTO DAS QUALIFICADORAS.
+1. Este Tribunal Superior firmou orientação de ser imprescindível, nos termos dos artigos 158 e 167 do CPP, a realização de exame pericial para o reconhecimento das qualificadoras de escalada e arrombamento no caso do delito de furto (art. 155, § 4º, II, do CP), quando os vestígios não tiverem desaparecido e puderem ser constatados pelos peritos. Precedentes.
+2. No caso dos autos, não consta do acórdão recorrido fundamentos aptos a justificar a ausência do exame técnico, razão pela qual as mencionadas qualificadoras devem ser afastadas.
+3. Agravo regimental a que se nega provimento.
+(AgInt no REsp n. 1.602.259/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/12/2017 - grifo nosso).
+Por conseguinte, impõe-se o afastamento da qualificadora do art. 155, § 4º, I, do Código Penal, e o refazimento da dosimetria.
+Persistindo a qualificadora do concurso de pessoas, que foi utilizada pela instância de origem para aumentar a pena-base (fl. 751), e ainda havendo a circunstância judicial negativa dos antecedentes, reduzo a pena-base a 2 anos e 6 meses de reclusão, e 11 dias-multa. Na segunda fase, foi reconhecida a atenuante da confissão, razão pela qual a pena foi reduzida em 1/6, perfazendo 2 anos de reclusão e 10 dias-multa. Finalmente, foi aplicado o redutor previsto no art. 26, parágrafo único, do Código Penal, em 1/3, perfazendo uma pena total de 1 ano e 4 meses de reclusão, e 7 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para decotar a qualificadora prevista no art. 155, § 4º, I, do Código Penal, redimensionando a pena do recorrente para 1 ano e 4 meses de reclusão, e 7 dias-multa.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. VIOLAÇÃO DOS ARTS. 155, § 4º, I, DO CP, E 158 DO CPP. PLEITO DE EXCLUSÃO DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. CRIME QUE DEIXA VESTÍGIO. PERÍCIA DIRETA. IMPRESCINDIBILIDADE. DECOTE DE RIGOR. PENA REDIMENSIONADA.
+Recurso especial provido nos termos do dispositivo.
