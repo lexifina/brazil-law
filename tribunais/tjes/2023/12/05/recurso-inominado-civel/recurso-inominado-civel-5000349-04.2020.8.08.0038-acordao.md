@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000349-04.2020.8.08.0038
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: BRUNO BREDA FREITAS
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO ANULATÓRIA DE DÉBITO C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. TERMO DE OCORRÊNCIA E INSPEÇÃO – TOI. COBRANÇA DE DÉBITO PROVENIENTE DE SUPOSTA ADULTERAÇÃO DO MEDIDOR. ANÁLISE UNILATERAL DO MEDIDOR REALIZADO PELA PRÓPRIA CONCESSIONÁRIA QUE APONTOU A IRREGULARIDADE, SEM OPORTUNIZAR O CONTRADITÓRIO. SUPOSTA VIOLAÇÃO FLAGRADA POR PREPOSTOS DA RECORRENTE, A QUAL EM TESE NÃO SE PODE SEQUER SER TIDA COMO CONSUMADA PELO OU A MANDO DO CONSUMIDOR.
+SENTENÇA DE PISO
+:
+“JULGO PROCEDENTE EM PARTE OS PEDIDOS PARA: 1 - ANULAR O PROCEDIMENTO E DECLARAR INEXISTENTE A DÍVIDA ATRIBUÍDA À PARTE AUTORA, REFERENTE AO TOI Nº 3290176 E O DÉBITO DELE DECORRENTE, BEM COMO PARA CONDENAR A REQUERIDA A RESTITUIR, JÁ EM DOBRO, QUANTIA DE R$4.013,54, COM INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS LEGAIS DESDE A CITAÇÃO”.
+
+RECURSO INOMINADO DA PARTE REQUERIDA ALEGANDO INCOMPETÊNCIA DO JUIZADO ESPECIAL E BUSCANDO A REFORMA TOTAL DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS DA INICIAL E SUBSIDIARIAMENTE A REDUÇÃO DO DANO MORAL.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA. PROCEDIMENTO UNILATERAL REALIZADO PELA CONCESSIONÁRIA. INEXIGIBILIDADE DAS COBRANÇAS DISCUTIDAS NOS AUTOS. IRREGULARIDADE DA LAVRATURA DO TOI Nº 9162583. EXEGESE DO §7º, ART. 129, DA RESOLUÇÃO 414/2010 DA ANEEL. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE DÍVIDA ENTRE AS PARTES.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO, OU SE NÃO HOUVER, DO VALOR DA CAUSA.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
