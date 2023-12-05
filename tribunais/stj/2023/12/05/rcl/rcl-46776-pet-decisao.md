@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, reclamação proposta pelo MUNICÍPIO DE BORBOREMA/SP, com pedido liminar, em face do acórdão exarado pela 3ª Turma Cível do Colégio Recursal de Araraquara (e-STJ Fl. 18) que, ao julgar seu recurso inominado (nº 1000941-57.2022.8.26.0067), negou-lhe provimento para manter a sentença que reconheceu o direito das autoras à percepção mensal do adicional de insalubridade em 20%, desde seu ingresso na função de trabalho.
+A reclamante alega que o acórdão decidiu de forma contrária à tese "já fixada por este C. STJ - PUIL 413/RS e PUIL 1954/SC, devidamente ratificado pelo PUIL 3693/SP proposto pela Reclamante", sobre a impossibilidade de pagamento de adicional de insalubridade antes da elaboração de Laudo Técnico das Condições do Ambiente de Trabalho - LTCAT.
+É o relatório.
+A reclamação é instituto processual previsto constitucionalmente (art. 105, I, "f") e no CPC (art. 988), para garantir a preservação da competência dos tribunais e as autoridades de suas decisões, não podendo servir como sucedâneo recursal. É admissível desde que não transitada em julgado a decisão reclamada ou que ainda em trâmite a ação originária quando proposta em observância a RE com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos (art. 988, §5º, I e II do CPC).
+Em consulta processual ao recurso inominado já julgado, verifica-se que proposto Pedido de Uniformização de Jurisprudência (0000055-45.2023.8.26.9022), com fulcro no art. 18, §3º da Lei nº 12.153/09, a ser distribuído neste STJ.
+Desde 08/04/2016, com a edição da Resolução nº 3 pela Corte Especial deste Superior Tribunal de Justiça, definiu-se que, às reclamações distribuídas a partir de então, caberia o processamento e julgamento pelas "Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça", nos seguintes termos:
+Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes.
+Art. 2º Aplica-se, no que couber, o disposto nos arts. 988 a 993 do Código de Processo Civil, bem como as regras regimentais locais, quanto ao procedimento da Reclamação.
+Art. 3º O disposto nesta resolução não se aplica às reclamações já distribuídas, pendentes de análise no Superior Tribunal de Justiça.
+Art. 4º Esta resolução entra em vigor na data de sua publicação.
+Trata-se de jurisprudê ncia pacificada deste STJ a aplicação da referida resolução, à qual já me curvei. Carece este órgão, portanto, de competência para processar e julgar a presente reclamação, considerando ter a decisão reclamada sido prolatada por turma recursal do juizado especial cível.
+Isso posto, não conheço da reclamação, com fundamento no art. 34, XVIII, "a", do RISTJ e no art. 1º da Resolução nº 3 do STJ.
+Assim, determino a remessa dos autos ao Tribunal de Justiça do Estado de São Paulo, com a respectiva baixa, para análise do feito.
+Publique-se.
+EMENTA
