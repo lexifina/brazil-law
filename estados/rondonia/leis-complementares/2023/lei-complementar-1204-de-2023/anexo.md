@@ -1,0 +1,187 @@
+ANEXO I
+
+“ANEXO II CARGOS DE PROVIMENTO EM COMISSÃO, FUNÇÕES GRATIFICADAS E TEMPORÁRIAS
+
+PARTE I CARGOS EM COMISSÃO
+
+CARGO REFERÊNCIA QUANTIDADE
+
+ASSESSOR DE AQUISIÇÕES E CONTRATOS MP-DAS-05 1 ASSESSOR DE CERIMONIAL MP-DAS-07 1 ASSESSOR DE COMUNICAÇÃO E PUBLICIDADE
+
+INSTITUCIONAL MP-DAS-07 1
+
+ASSESSOR DE ESTRATÉGIA E PROJETOS MP-DAS-05 1 ASSESSOR DE GOVERNANÇA DA SG MP-DAS-07 1 ASSESSOR DE INFRAESTRUTURA DE TI MP-DAS-05 2 ASSESSOR DE PLANEJAMENTO E GESTÃO MP-DAS-07 4 ASSESSOR DE PROTEÇÃO DE DADOS PESSOAIS,
+
+TRANSPARÊNCIA E DESBUROCRATIZAÇÃO MP-DAS-07 1
+
+ASSESSOR DE SERVIÇOS DE TI MP-DAS-05 1 ASSESSOR DE SISTEMAS DE INFORMAÇÃO MP-DAS-05 2 ASSESSOR EXECUTIVO DO PGJ MP-DAS-06 1 ASSESSOR JURÍDICO MP-DAS-06 26 ASSESSOR JURÍDICO MP-DAS-07 67 ASSESSOR LEGISLATIVO MP-DAS-07 1 ASSESSOR TÉCNICO MP-DAS-01 10 ASSESSOR TÉCNICO MP-DAS-02 15 ASSESSOR TÉCNICO MP-DAS-03 24 ASSESSOR TÉCNICO MP-DAS-04 13 ASSESSOR TÉCNICO MP-DAS-05 11 ASSISTENTE JURÍDICO MP-DAS-03 216 CHEFE DA SEÇÃO DE ADMINISTRAÇÃO DE BANCO DE
+
+DADOS MP-DAS-06 1
+
+CHEFE DA SEÇÃO DE ADMINISTRAÇÃO DE PESSOAL MP-DAS-06 1 CHEFE DA SEÇÃO DE ALMOXARIFADO E PATRIMÔNIO MP-DAS-06 1 CHEFE DA SEÇÃO DE ATENDIMENTO AO USUÁRIO MP-DAS-06 1
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=45279226&in… 4/7
+
+CHEFE DA SEÇÃO DE CONTABILIDADE E PRESTAÇÃO DE
+
+CONTAS MP-DAS-06 1
+
+CHEFE DA SEÇÃO DE DESENVOLVIMENTO MP-DAS-06 1 CHEFE DA SEÇÃO DE DOCUMENTAÇÃO MP- DAS-06 1 CHEFE DA SEÇÃO DE EXECUÇÃO ORÇAMENTÁRIA E
+
+FINANCEIRA MP-DAS-06 1
+
+CHEFE DA SEÇÃO DE INDICADORES DE DESEMPENHO MP-DAS-06 1 CHEFE DA SEÇÃO DE INFRAESTRUTURA MP-DAS-06 1 CHEFE DA SEÇÃO DE SEGURANÇA DA INFORMAÇÃO E
+
+REDES MP-DAS-06 1
+
+CHEFE DA SEÇÃO DE SEGURANÇA MP-DAS-06 1 CHEFE DA SEÇÃO DE SERVIÇOS GERAIS MP-DAS-06 1 CHEFE DA SEÇÃO DE TRANSPORTES MP-DAS-06 1 CHEFE DA SEÇÃO GRÁFICA MP-DAS-06 1 CHEFE DE CARTÓRIO JUDICIAL E EXTRAJUDICIAL MP-DAS-05 24 CHEFE DE DEPARTAMENTO CONTÁBIL MP-DAS-07 1 CHEFE DE DEPARTAMENTO DE APOIO ADMINISTRATIVO MP-DAS-07 1 CHEFE DE DEPARTAMENTO DE MATERIAL E
+
+PATRIMÔNIO MP-DAS-07 1
+
+CHEFE DE DEPARTAMENTO DE ORÇAMENTO E
+
+FINANÇAS MP-DAS-07 1
+
+CHEFE DE DEPARTAMENTO DE SUPORTE
+
+ADMINISTRATIVO MP-DAS-07 1
+
+CHEFE DE GABINETE DA SECRETARIA-GERAL MP-DAS-07 1 CHEFE DE MANUTENÇÃO MP-DAS-03 1 CHEFE DO CARTÓRIO ADMINISTRATIVO DA CGMP MP-DAS-08 1 CHEFE DO CARTÓRIO ADMINISTRATIVO DA PGJ MP-DAS-08 1 CHEFE DO DEPARTAMENTO DE ADMINISTRAÇÃO DE
+
+SERVIÇOS DE TI MP-DAS-07 1
+
+CHEFE DO DEPARTAMENTO DE APOIO TÉCNICO
+
+OPERACIONAL MP-DAS-07 1
+
+CHEFE DO DEPARTAMENTO DE GESTÃO PROCESSUAL E
+
+CONTROLE DE INFORMAÇÕES MP-DAS-07 1
+
+CHEFE DO DEPARTAMENTO DE INFRAESTRUTURA DE TI MP-DAS-07 1 CHEFE DO DEPARTAMENTO DE SISTEMAS DE
+
+INFORMAÇÃO MP-DAS-07 1
+
+CHEFE DO ESCRITÓRIO DE MODERNIZAÇÃO E
+
+INOVAÇÃO MP-DAS-08 1
+
+CHEFE DO SETOR DE ATENÇÃO À SAÚDE MP-DAS-05 1 CHEFE DO SETOR DE FOLHA DE PAGAMENTO MP-DAS-05 1 CHEFE DO SETOR DE PREGÕES MP-DAS-04 1 COORDENADOR DE AUDITORIA E CONTROLE INTERNO MP- DAS-09 1 DIRETOR ADMINISTRATIVO MP-DAS-09 1 DIRETOR DE ORÇAMENTO E FINANÇAS MP-DAS-09 1 DIRETOR DE TECNOLOGIA DA INFORMAÇÃO MP-DAS-09 1 DIRETOR EXECUTIVO DA ESCOLA SUPERIOR DO
+
+MINISTÉRIO PÚBLICO MP-DAS-08 1
+
+GERENTE DE COMUNICAÇÃO INTEGRADA MP-DAS-08 1 GERENTE DE RECURSOS HUMANOS MP-DAS-08 1 OFICIAL DE GABINETE DA PGJ MP-DAS-07 1
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=45279226&in… 5/7
+
+OFICIAL DE GABINETE DA CGMP MP-DAS-07 1 PRESIDENTE DA COMISSÃO DE LICITAÇÃO MP-DAS-07 1
+
+ANEXO I
+
+ANEXO II CARGOS DE PROVIMENTO EM COMISSÃO, FUNÇÕES GRATIFICADAS E TEMPORÁRIAS
+
+PARTE II FUNÇÕES GRATIFICADAS
+
+FUNÇÃO REFERÊNCIA QUANTIDADE
+
+ASSESSOR TÉCNICO MP-FG-01 18
+
+ASSESSOR TÉCNICO MP-FG-02 12
+
+ASSESSOR TÉCNICO MP-FG-03 2
+
+CHEFE DO SETOR DE ALMOXARIFADO E CONTROLE
+
+PATRIMONIAL MP-FG-01 1
+
+MOTORISTA DE GABINETE MP-FG-02 4
+
+SECRETÁRIO DE GABINETE MP-FG-02 4
+
+ANEXO I
+
+ANEXO II CARGOS DE PROVIMENTO EM COMISSÃO, FUNÇÕES GRATIFICADAS E TEMPORÁRIAS
+
+PARTE III FUNÇÕES TEMPORÁRIAS
+
+FUNÇÃO REFERÊNCIA QUANTIDADE
+
+PROCURADOR-GERAL DE JUSTIÇA MP-FTM-06 1
+
+CORREGEDOR-GERAL DO MINISTÉRIO PÚBLICO MP-FTM-05 1
+
+SUBPROCURADOR-GERAL DE JUSTIÇA
+
+ADMINISTRATIVO MP-FTM-05 1
+
+SUBPROCURADOR-GERAL DE JUSTIÇA JURÍDICO MP-FTM-05 1
+
+SECRETÁRIO-GERAL MP-FTM-04 1
+
+DIRETOR DO NÚCLEO RECURSAL MP-FTM-03 1
+
+OUVIDOR DO MINISTÉRIO PÚBLICO MP-FTM-03 1
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=45279226&in… 6/7
+
+CHEFE DE GABINETE DA PROCURADORIA-GERAL MP-FTM-03 1
+
+CHEFE DE GABINETE DA CORREGEDORIA-GERAL MP-FTM-03 1
+
+CONSELHEIRO DO CSMP MP-FTM-03 7
+
+DIRETOR DO CENTRO DE ATIVIDADES EXTRAJUDICIAIS MP-FTM-03 1
+
+DIRETOR DO CENTRO DE ATIVIDADES JUDICIAIS MP-FTM-03 1
+
+DIRETOR DO CENTRO DE CONTROLE DISCIPLINAR MP-FTM-03 1
+
+DIRETOR DO CENTRO DE CONTROLE INSTITUCIONAL MP-FTM-03 1
+
+DIRETOR-GERAL DA EMPRO MP-FTM-03 1
+
+COORDENADOR DE PLANEJAMENTO E GESTÃO MP-FTM-03 1
+
+COORDENADOR DE GRUPO DE ATUAÇÃO ESPECIAL MP-FTM-02 7
+
+COORDENADOR DE PROMOTORIA DE JUSTIÇA MP-FTM-02 24
+
+COORDENADOR DE PROTEÇÃO DE DADOS PESSOAIS,
+
+TRANSPARÊNCIA E DESBUROCRATIZAÇÃO MP-FTM-02 1
+
+COORDENADOR DO NÚCLEO DE POLÍTICAS DE TI MP-FTM-02 1
+
+DIRETOR DE CENTRO DE APOIO OPERACIONAL MP-FTM-02 1
+
+SECRETÁRIO-GERAL DO CIRA MP-FTM-02 1
+
+COORDENADOR DE NÚCLEO DE ATUAÇÃO
+
+ESPECIALIZADA MP-FTM-01 10
+
+SECRETÁRIO DO CONSELHO SUPERIOR MP-FTM-01 1
+
+SECRETÁRIO DO COLÉGIO DE PROCURADORES DE
+
+JUSTIÇA MP-FTM-01 1
+
+ANEXO II
+
+ANEXO VII ATRIBUIÇÕES GERAIS DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS
+
+PARTE I ATIVIDADES DE DIREÇÃO E ASSESSORAMENTO SUPERIOR
+
+Assistente Jurídico - executar, sob supervisão dos Membros do Ministério Público do Estado de Rondônia, tarefas relacionadas à atividade-meio e à atividade-fim do Ministério Público, especialmente
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=45279226&in… 7/7
+
+na atuação extrajudicial, relacionadas ao planejamento, à organização e à execução de tarefas que envolvam a função de suporte técnico e administrativo, através da realização de diligências internas e externas, levantamento de dados para elaboração de relatórios estatísticos, instrução de processos, pesquisa de legislação, doutrina e jurisprudência, relatórios técnicos e informações em processos; elaboração e conferência de cálculos diversos, digitação, revisão, reprodução, expedição e arquivamento de documentos e correspondências, prestação de informações gerais ao público, consulta a banco de dados e outras atividades, elaboração de peças processuais; executar outras atividades correlatas dentro de sua área de competência que lhe forem atribuídas.
+
+.............................................................................................................................................. Assessor Jurídico - Assessorar Procuradorias de Justiça, Grupos de Atuação Especial e outras unidades vinculadas à Administração Superior e à Secretaria-Geral nas ações em que o Ministério Público for interessado, acompanhando o andamento de processos; elaborar minutas de despachos, pareceres e demais peças inerentes a processos judiciais e administrativos, além de efetuar pesquisas e formalizar estudos técnicos de natureza jurídica; proceder a estudos sobre matéria que for indicada, consultando códigos, leis, doutrinas, jurisprudências e outros documentos, buscando adequar os fatos à legislação aplicável; prestar orientação normativa para assegurar o cumprimento de leis e regulamentos; executar outras atividades correlatas dentro de sua área de competência que lhe forem atribuídas.
+
+Documento assinado eletronicamente por Sérgio Gonçalves da Silva, Vice Governador, em 06/12/2023, às 11:13, conforme horário oficial de Brasília, com fundamento no artigo 18 caput e seus §§ 1º e 2º, do Decreto nº 21.794, de 5 Abril de 2017.
+
+A autenticidade deste documento pode ser conferida no site portal do SEI, informando o código verificador 0044163367 e o código CRC 568911E0.
+
+Referência: Caso responda esta Lei Complementar, indicar expressamente o Processo nº 0005.005886/2023-32 SEI nº 0044163367
