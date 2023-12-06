@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência, com pedido de liminar, suscitado por JOB RECURSOS HUMANOS LTDA - MASSA FALIDA, representada por sua administradora judicial, CLAUDETE ROSIMARA DE OLIVEIRA FIGUEIREDO, em que aponta como suscitados o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE CACHOEIRINHA-RS (Processo n. 5002048-54.2019.8.21.0086 - falência) e o JUÍZO DA 2ª VARA DO TRABALHO DE SANTA CRUZ DO SUL-RS (processo n. 0021246-61.2017.5.04.0732 - execução trabalhista).
+Afirma a suscitante que foi decretada sua falência em 12/4/2021, tendo a sentença determinado a indisponibilidade dos bens dos sócios gerentes e administradores. Aduz que, nos autos da execução trabalhista, foi levado a leilão bem de um sócio, na data de 8/11/2023, e o Juízo laboral indeferiu o pleito de remessa dos valores para o juízo universal.
+Sustenta a competência do juízo falimentar para decidir sobre a execução de bens da massa falida e dos sócios, inclusive para manter o tratamento isonômico entre os credores, e requer a concessão de liminar para suspender a decisão que negou a transferência de valores para o juízo falimentar, ante a iminente possibilidade de liberação dos valores à credora trabalhista.
+À fl. 81, foi deferida a gratuidade da justiça pela Ministra Presidente deste STJ.
+É o relatório. Decido.
+Conquanto a suscitante alegue que o juízo falimentar teria determinado a indisponibilidade dos bens dos sócios da falida, a decisão carreada aos autos, às fls. 65-66, não comprova que o juízo universal tenha estendido os efeitos da quebra em relação ao patrimônio pessoal dos sócios.
+Por sua vez, no âmbito do juízo trabalhista, foi julgado procedente incidente de desconsideração da personalidade jurídica e levado à hasta bem imóvel de um dos sócios. Requerida a remessa dos valores auferidos para o juízo universal, o juízo trabalhista indeferiu o pleito porque o bem não integra o patrimônio da falida.
+Com efeito, não estando comprovada a extensão dos efeitos da quebra em relação ao patrimônio pessoal dos sócios, não é configurado o conflito de competência. Nesse sentido, tem se posicionado a jurisprudência deste Superior Tribunal de Justiça, conforme os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO UNIVERSAL. EXECUÇÃO. BENS DOS SÓCIOS. CONFLITO. NÃO OCORRÊNCIA.
+1. A constrição de bens dos sócios da empresa falida, realizada após terem sido estes responsabilizados no âmbito da execução trabalhista, não caracteriza conflito de competência, se não houve a comprovação de que o juízo concursal estendeu os efeitos da quebra em relação a seu patrimônio pessoal.
+2. O conflito de competência não pode ser utilizado como sucedâneo recursal.
+3. Agravo Interno não provido. (AgInt no CC 183.377/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 6/12/2021, DJe de 9/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO DA RECUPERAÇÃO JUDICIAL. INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EXECUÇÃO PROVISÓRIA EM FACE DOS SÓCIOS. INEXISTÊNCIA DE CONFLITO. DECISÃO MANTIDA.
+1. Não caracteriza conflito de competência a determinação feita pelo Juízo do Trabalho de instauração de incidente de desconsideração da personalidade jurídica da empresa em recuperação judicial ou falida, direcionando os atos de execução provisória para os sócios da suscitante. Isso porque, em princípio, salvo decisão do Juízo universal em sentido contrário, os bens dos sócios ou de outras sociedades do mesmo grupo econômico da devedora não estão sujeitos à recuperação judicial ou à falência. Precedentes.
+2. Atuando as autoridades judiciárias no âmbito de sua competência, não se configura conflito positivo.
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no CC n. 172.193/MT, relatora Ministra Isabel Gallotti, Segunda Seção, julgado em 30/03/2021, DJe de 14/04/2021.)
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA A PRÁTICA DE ATOS DE EXECUÇÃO.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o juízo universal para prosseguimento de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+2. Os bens dos sócios e dos coobrigados solidários das sociedades recuperandas/falidas estão sob a tutela do juízo universal quando há determinação expressa nesse sentido. Interpretação a contrario senso da Súmula 480/STJ.
+3. Agravo interno não provido. (AgInt no CC n. 164.903/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 5/5/2020, DJe de 12/5/2020.)
+Ante o exposto, com fundamento no art. 955, parágrafo único do CPC c/c Súmula n. 568 do STJ, não conheço do conflito de competência .
+Publique-se. Intimem-se.
+EMENTA
