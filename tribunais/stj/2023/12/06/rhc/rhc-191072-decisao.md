@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Thiago Teixeira de Oliveira contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios que denegou o HC n. 07400851520238070000 (fl. 292):
+HABEAS CORPUS. HOMICÍDIO. NULIDADE DE PROVA. NÃO COMPROVAÇÃO. DECISÃO FUNDAMENTADA. ORDEM DENEGADA.
+I - Se a suposta edição dos vídeos periciados não restou comprovada e a questão demanda amplo e aprofundado revolvimento fático-probatório, incompatível com a via estreita do habeas corpus, que não admite dilação probatória, incabível o reconhecimento de eventual nulidade da prova.
+II - Ordem denegada.
+Nesse sentido, examinando detidamente a gravação foi possível constatar a supressão de imagens e momentos indispensáveis para o esclarecimento dos fatos, antes, durante e depois, o que levou à suspeita de que houve corte, supressão ou edição da mídia (fl. 322).
+Alega-se que as conclusões periciais contidas no Laudo n. 52.757 (DOC. 7) atestam a completa imprestabilidade dos registros audiovisuais juntados aos autos. Como se verifica, concluíram os peritos que houve adulteração do conteúdo dos registros audiovisuais, por meio da supressão, o que constitui indícios de edição (fls. 324). Afirma-se, assim, que está tecnicamente comprovado que há diversos "saltos "ao longo dos arquivos 2 e 3; e, conforme constatou a perícia, os arquivos 2 e 3 tiveram trechos suprimidos, o que revela indícios de edição (fl. 326).
+Requer-se, em liminar, a suspensão da ação penal, cuja sessão plenária está agendada para o dia 14/12/2023; e, no mérito, seja conhecido e provido o recurso para os fins de conceder a ordem de habeas corpus para reconhecer a ilicitude das mídias acostadas ao processo como "arquivo 2" e "arquivo 3", cuja adulteração está consignada no laudo pericial que instrui os autos, determinando-se, na forma do art. 157 do CPP, o imediato desentranhamento das provas declaradas inadmissíveis (fl. 334).
+É o relatório.
+Não visualizo a existência de ilegalidade apta a ser sanada por meio do recurso ordinário.
+O acórdão impugnado, assim dispôs (fl. 297):
+ ..  verifica-se que a decisão resistida não está eivada de qualquer ilegalidade patente.
+Isso porque o Laudo de Exame de Registros Audiovisuais n. 52.757/2022 (fls. 49/59) não descartou a possibilidade de que os pontos de descontinuidade constatados sejam decorrentes do mau funcionamento ou configuração inadequada do sistema de circuito fechado de televisão - CFTV durante a captura e/ou exportação dos arquivos de vídeo examinados, não havendo que se falar, a princípio, em nulidade ou em cerceamento de defesa.
+Além disso, conforme apontado no referido laudo (fls. 49/59): "verificou-se que o intervalo de tempo entre 5:51:15 e 5:55:01 foi registrado tanto pelo Arquivo 2 quanto pelo Arquivo 3. Porém, os trechos suprimidos em ambos os arquivos são diferentes, enfraquecendo a hipótese de que um mesmo fraudador tenha alterado os dois arquivos com a intenção de suprimir eventos específicos que teriam sido capturados em vídeo".
+Nestes termos, considerando que a suposta edição dos vídeos periciados não restou comprovada e que a questão demanda amplo e aprofundado revolvimento fático-probatório, incompatível com a via estreita do habeas corpus, que não admite dilação probatória, incabível o reconhecimento de eventual nulidade da prova.  ..
+Com efeito, a pretensão do recorrente enseja o amplo revolvimento de fatos e provas, o que não se mostra possível na via eleita, de cognição sumária. Reitero os precedentes desta Corte, mencionados no acórdão impugnado:
+As instâncias ordinárias, soberanas na análise fático-probatória, consignaram que não há nenhum elemento que indique violação da preservação da idoneidade da prova, constando que todos os telefones foram identificados e embalados contendo lacre, assim como estavam bloqueados e desligados, bem como não houve manipulação pelos policiais, de forma a evitar eiva de vício que pudesse macular as provas, de modo que é inviável a alteração de tais conclusões nesta oportunidade, por demandarem a análise fático-probatória, o que é vedado na via do habeas corpus.
+(AgRg no HC n. 782.868/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe 2/10/2023).
+Ademais, não houve comprovação por parte da defesa de qualquer adulteração no iter probatório. Ademais, não foi trazido nenhum elemento que demonstre que houve adulteração da prova. Assim, não se verifica a alegada "quebra da cadeia de custódia", pois nenhum elemento veio aos autos a demonstrar que houve adulteração da prova, alteração na ordem cronológica dos diálogos ou mesmo interferência de quem quer que seja, a ponto de invalidar a prova (HC 574.131/RS, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 25/8/2020, DJe 4/9/2020).
+(HC n. 796.338/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe 18/9/2023).
+Ante o exposto, nego seguimento ao recurso ordinário.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO. NULIDADE DE PROVA. AMPLA DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+Recurso a que se nega seguimento.
