@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDISON LEOCADIO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1512971-69.2022.8.26.0228.
+Consta nos autos que o Paciente foi condenado às penas de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e 729 (setecentos e vinte e nove) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 238kg de maconha.
+O Sentenciado e o Ministério Público interpuseram recursos de apelação. O Tribunal estadual negou provimento ao recurso defensivo e deu provimento ao apelo ministerial para "majorar as penas de Edison Leocadio da Silva para 8 (oito) anos e 9 (nove) meses de reclusão e 875 (oitocentos e setenta e cinco) dias-multa, à razão mínima ao dia-multa" (fl. 26).
+Neste writ, o Impetrante alega que não houve fundamentação idônea para o afastamento da causa de diminuição da pena prevista no § 4.º do art. 33 da Lei de Drogas.
+Requer, liminarmente e no mérito, a concessão da minorante do tráfico privilegiado, com fixação do regime aberto e substituição da pena privativa de liberdade por sanções restritivas de direitos.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC n. 856.046/SP, relator Ministro REYNALDO SOARES DA FONSEC A, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Tribunal de origem, ao manter o afastamento da incidência da minorante, destacou que " o  acusado, reincidente, não faz jus à redução das penas com fundamento no § 4º do art. 33 da Lei 11.343/06" (fl. 32).
+São condições para que o condenado faça jus à aplicação da causa de diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+No caso, incide a jurisprudência desta Corte "no sentido de que o reconhecimento da reincidência do réu é elemento suficiente para impedir a aplicação do redutor, por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas, sendo certo que a utilização de tal vetor concomitantemente na segunda e terceira fase da dosimetria não enseja bis in idem" (AgRg no HC 630.337/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020). No mesmo sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4.º, DA LEI N. 11.343/2006. RÉU REINCIDENTE E COM ANTECEDENTES. REQUISITOS NÃO PREENCHIDOS. AFASTAMENTO. AGRAVO PROVIDO.
+1. A reincidência e a existência de antecedentes obstam a aplicação da causa especial de diminuição de pena do art. 33, § 4.º, da Lei n. 11.343/2006, pois expressamente previsto em tal norma que tal benefício somente pode ser aplicado a agente primário, de bons antecedentes.
+2. Agravo regimental provido para denegar a ordem de habeas corpus." (AgRg no HC n. 761.656/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, relatora para acórdão Ministra LAURITA VAZ, Sexta Turma, julgado em 14/2/2023, DJe de 22/2/2023; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. PACIENTE REINCIDENTE. REQUISITOS NÃO PREENCHIDOS. ORDEM DENEGADA .
