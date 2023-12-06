@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por Amil Assistência Médica Internacional S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 449):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PLANO DE SAÚDE COLETIVO. CANCELAMENTO DE CNPJ DE EMPRESÁRIO INDIVIDUAL. MIGRAÇÃO PARA PLANO INDIVIDUAL/FAMILIAR. PERTINÊNCIA DA PRETENSÃO. ADEQUAÇÃO DAS MENSALIDADES. INEXISTÊNCIA DE CONTROVÉRSIA.
+- Nos termos do art. 1º, da Resolução nº 19, de 1999, do Conselho de Saúde Suplementar - Consu, "as operadoras de planos ou seguros de assistência à saúde, que administram ou operam planos coletivos empresariais ou por adesão para empresas que concedem esse benefício a seus empregados, ou ex-empregados, deverão disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários, no caso de cancelamento desse benefício, sem necessidade de cumprimento de novos prazos de carência".
+Por força de disposição legal e contratual, a operadora de plano de saúde que oferece plano corporativo, também deve possuir como alternativa ao consumidor, plano ou seguro de assistência à saúde na modalidade individual ou familiar.
+Os embargos de declaração foram rejeitados.
+Nas razões do apelo especial, a recorrente alega violação dos arts. 1.022, II, do Código de Processo Civil de 2015; 421 e 421-A do Código Civil; e 51, IV, do Código de Defesa do Consumidor.
+Sustenta a existência de omissões no aresto relevantes ao julgamento da lide, notadamente quanto à sua condenação ao fornecimento de negócio jurídico que não comercializa.
+Assevera a impossibilidade de ser compelida a firmar negócio jurídico que não comercializa, haja vista que não disponibiliza no mercado o plano de saúde individual.
+Contrarrazões às fls. 931-945 (e-STJ), com pedido de majoração da verba sucumbencial.
+O apelo extremo foi admitido na origem (fls. 953-954, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+De fato, verifica-se, das razões de embargos de declaração, que a recorrente suscitou omissões no julgado, conforme se observa do trecho a seguir transcrito (e-STJ, fls. 462-467):
+III - Das omissões constantes, d. v., do v. decisum embargado:
+a) Da Liberdade Contratual - da impossibilidade de compelir a parte Embargante a firmar negócio jurídico a qual não comercializa. Art. 421 e 421-A do CC
+É de causar espanto, a determinação de que o Plano de Saúde Embargante deve oferecer contrato na modalidade individual, isto porque tal determinação viola o direito de liberdade contratual e criar a estranha figura do contrato coletivo de apenas duas (02) pessoas - a autora e sua dependente -, o que é um verdadeiro absurdo, data venia.
+Além disso, não está entre os produtos comercializados pela operadora o contrato individual de plano de saúde, assim compelir a Embargante a vender um produto que não comercializa é o mesmo que obrigar um produtor de limão vender laranjas, mesmo ele não produzindo laranja.
+Além disso, estar-se-ia autorizando, como dito, a manutenção de um contrato coletivo para apenas dois segurados, o que certamente não está nenhuma operadora obrigada a fazer, até mesmo para não tornar inviável o setor.
+A confirmar esse entendimento, registre-se precedente julgado pela col. Terceira Turma do egrégio Superior Tribunal de Justiça, no qual ficou assentado não é possível compelir o plano de saúde comercializar plano de saúde individual se não comercializa esse tipo de produto:
+(..)
+Veja o v. aresto, data venia, deixou de apreciar argumentação trazida pela ora embargante ao longo dos autos, no sentido de que a embargante não comercializa planos individuais, conforme Resolução CONSU 19/99, art. 3º e que ao aplicar o Código de Defesa do Consumidor, seria obrigatoriedade da empresa fornecer o plano dessa modalidade, mesmo inexistindo:
+Agência Nacional de Saúde Suplementar
+ABSORÇÃO DE BENEFICIÁRIOS NO ENCERRAMENTO DE PLANOS COLETIVOS ADMINISTRADOS OU OPERADOS POR TERCEIROS Resolução CONSU n.º 19, de 23 de março de 1999.
+Dispõe sobre a absorção do universo de consumidores pelas operadoras de planos ou seguros de assistência à saúde que operam ou administram planos coletivos que vierem a ser liquidados ou encerrados.
+O Conselho de Saúde Suplementar - CONSU, instituído pela Lei n.º 9.656 de 03 de junho de 1998, no uso de suas atribuições legais e regimentais, de acordo com a competência normativa que lhe foi conferida, para dispor sobre a regulamentação do regime de contratação e prestação de serviços de saúde suplementar, CONSIDERANDO a importância da manutenção da assistência à saúde aos consumidores de planos coletivos, RESOLVE:
+Art. 1.º As operadoras de planos ou seguros de assistência à saúde, que administram ou operam planos coletivos empresariais ou por adesão para empresas que concedem esse benefício a seus empregados, ou ex-empregados, deverão disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários, no caso de cancelamento desse benefício, sem necessidade de cumprimento de novos prazos de carência.
+§ 1.º - Considera-se, na contagem de prazos de carência para essas modalidades de planos, o período de permanência do beneficiário no plano coletivo cancelado.
+§ 2.º - Incluem-se no universo de usuários de que trata o caput todo o grupo familiar vinculado ao beneficiário titular.
+Art. 2.º Os beneficiários dos planos ou seguros coletivos cancelados deverão fazer opção pelo produto individual ou familiar da operadora no prazo máximo de trinta dias após o cancelamento.
+Parágrafo único - O empregador deve informar ao empregado sobre o cancelamento do benefício, em tempo hábil ao cumprimento do prazo de opção de que trata o caput.
+Art. 3.º Aplicam-se as disposições desta Resolução somente às operadoras que mantenham também plano ou seguro de assistência à saúde na modalidade individual ou familiar.
+Logo, sob essa previsão normativa, depreende-se que a embargante não pode ser compelida a ofertar aos apelados um plano de saúde desprovido de registro perante a Agência Nacional de Saúde Suplementar, até mesmo porque as atividades praticadas pelas operadoras fora dos planos registrados são passíveis de punição através de multa (Resolução Normativa nº 124/2006 da ANS, art. 19).
+(..)
+Portanto, mister a manifestação dessa Colenda Turma acerca do ponto, não havendo que se falar em falha por não disponibilização de plano individual, pois, repisa-se, a ora embargante não comercializa tal modalidade, devendo a embargada, se for o caso, realizar portabilidade para outra Operadora de Saúde ou seguir com todo o grupo associativo.
+Destarte, imperioso que os presentes embargos de declaração sejam acolhidos para que o v. aresto embargado, com a devida vênia, aprecie a presente controvérsia à luz dos dispositivos legais acima citados, tendo em vista os contornos fáticos estabelecidos no próprio acórdão aqui impugnado.
+Salienta-se que para a realização de negócio jurídico é imprescindível o requisito volitivo de firmar o contrato, não podendo o Poder Judiciário compelir a realização de negócio jurídico, haja vista desrespeitará flagrantemente os dispostos nos art. 421 e 421-A do CC.
+Contudo, o acórdão que julgou os referidos embargos não se manifestou sobre tais questões.
+Assim, tendo em vista que as matérias foram oportunamente suscitadas pela recorrente, o Tribunal local deveria ter examinado as alegações que, a esse respeito, foram-lhe submetidas. A recusa, amparada em inadequados fundamentos, resultou em indevida omissão sobre relevantes matérias, razão pela qual a rejeição dos embargos de declaração importou em inequívoca violação do art. 1.022 do CPC/2015.
+Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das questões jurídicas suscitadas.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO PROFERIDO EM APELAÇÃO. OMISSÃO VERIFICADA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Recurso especial provido.
+(REsp n. 2.005.719/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/2/2023, DJe de 2/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO DE CONTRADIÇÃO. CERCEAMENTO DE DEFESA. OMISSÃO CONFIGURADA. AGRAVO DESPROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Hipótese em que o Tribunal de origem, não obstante provocado pela parte, não se manifestou sobre a alegação de contradição no acórdão recorrido, que, por um lado, assentou que o indeferimento do pedido de provas não acarretou cerceamento de defesa e, de outro lado, concluiu não haver a agravada comprovado a ocorrência de simulação e "venda casada" referentes aos contratos em discussão. Configurada, portanto, contradição relevante.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.056.779/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp n. 1.908.213/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/5/2021, DJe de 20/5/2021.)
+Diante do exposto, dou provimento ao recurso especial a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevant es questões que lhe foram submetidas pela parte embargante.
+Ante o provimento do recurso deixo de majorar os honorários sucumbenciais nos termos do art. 85, § 11, do CPC/2015.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. CANCELAMENTO DE CNPJ DE EMPRESÁRIO INDIVIDUAL. MIGRAÇÃO PARA PLANO INDIVIDUAL/FAMILIAR. MATÉRIAS RELEVANTES ARGUIDAS E REITERADAS. FALTA DE DELIBERAÇÃO. RECONHECIMENTO. RECURSO ESPECIAL PROVIDO.
