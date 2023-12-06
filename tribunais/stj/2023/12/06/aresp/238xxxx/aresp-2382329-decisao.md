@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Mateus Gamba Berlanda, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 169):
+AGRAVO DE INSTRUMENTO. Contrato de compra e venda de sacas de soja. Ação de execução para entrega de coisa incerta. Insurgência do executado contra a decisão que manteve a multa fixada por descumprimento da liminar anteriormente deferida, que havia determinado a entrega da soja contratada, na quantidade e qualidade estabelecidas. O agravante não nega o inadimplemento da entrega da soja objeto do contrato de compra e venda, o que impôs a concessão de liminar e imposição de multa em caso de descumprimento. Multa diária de R$ 10.000,00 até o limite do valor global do contrato, para dar efetividade ao comando judicial. Decisão mantida. RECURSO IMPROVIDO.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente indicou ofensa aos arts. 537, § 1º e seus incisos I e II, e 806, § 1º, do CPC/2015.
+Sustentou a necessidade de revogação da multa cominatória e, subsidiariamente, de redução do montante arbitrado, sob as seguintes assertivas: (i) a parte adversa não teria pagado o valor referente às sacas que foram entregues, que corresponde a mais da metade do que foi acordado; (ii) o descumprimento do contrato ocorrera por culpa da agravada, tendo se tornado impossível a entrega do produto; (iii) haveria desinteresse da parte contrária em receber o produto, diante do pedido de conversão da obrigação em perdas e danos; (iv) seria desproporcional e desarrazoado o valor atingido a título de astreintes; e (v) já haveria, no pacto firmado, a previsão de multa para o descumprimento contratual.
+O processamento do apelo especial não foi admitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+O Tribunal de origem, ao analisar a controvérsia, concluiu que o descumprimento do contrato pelo ora insurgente seria injustificado, salientando, ainda, que o arbitramento da multa se deu em observância aos parâmetros da razoabilidade e da proporcionalidade.
+Para derruir a convicção formada, seria necessário o revolvimento do acervo fático-probatório, providência obstada na via eleita, ante a previsão contida no enunciado n. 7 da Súmula desta Casa.
+No tocante ao argumento de que a parte adversa não teria pagado o valor referente às sacas que já foram entregues, constata-se que não houve pronunciamento do Colegiado a quo sobre a referida matéria.
+Com efeito, apesar da oposição dos embargos de declaração, buscando viabilizar o requisito do prequestionamento, necessário ao conhecimento do recurso, a segunda instância não decidiu acerca da questão jurídica suscitada, incidindo, assim, o enunciado n. 211 da Súmula desta Casa.
+Oportunamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AFRONTA AOS ARTS. 371 DO CPC/2015, 884 DO CÓDIGO CIVIL E 2º DA LEI 9.784/99. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+ ..
+VI. Agravo interno improvido.
+(AgInt no AREsp n. 2.080.529/ES, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Quanto às alegações de desinteresse da parte adversa em receber o produto e de que já haveria a previsão de multa contratual para o caso de descumprimento da avença, é certo que não houve manifestação estadual sobre os referidos temas, os quais nem sequer foram suscitados nos embargos de declaração opostos na origem, revelando a ausência de prequestionamento, a ensejar a aplicação dos enunciados n. 282 e 356 da Súmula da Suprema Corte.
+A título exemplificativo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. ARTIGO 1022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO PER RELATIONEM. ACRÉSCIMO DE FUNDAMENTOS NO ACÓRDÃO RECORRIDO. VÍCIO DE PROCEDIMENTO DESCARACTERIZADO. CÓPIA DE TÍTULO EXECUTIVO. DOCUMENTO HÁBIL À PROPOSITURA DE AÇÃO MONITÓRIA. PRECEDENTES. SÚMULA 83/STJ. TAXA DE JUROS REMUNERATÓRIOS ANUAL INFERIOR A 12%. REEXAME VEDADO. SÚMULAS 5 E 7/STJ. PREVISÃO EM DESTAQUE DA TAXA DE JUROS CONTRATADA. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NÃO PROVIDO.
+ ..
+4. Inexistente prequestionamento acerca da previsão de cláusula contratual em destaque acerca dos juros remuneratórios, não há como examinar a controvérsia de modo originário em recurso especial, em razão do óbice do prequestionamento, atraindo a aplicação das Súmulas 282 e 356/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.038.866/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. DESCUMPRIMENTO CONTRATUAL INJUSTIFICADO E RAZOABILIDADE E PROPORCIONALIDADE DO MONTANTE ARBITRADO A TÍTULO DE MULTA COMINATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. FALTA DE PAGAMENTO DAS SACAS JÁ ENTREGUES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. DESINTERESSE NO RECEBIMENTO DO PRODUTO E EXISTÊNCIA DE MULTA CONTRATUAL. TEMAS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356/STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
