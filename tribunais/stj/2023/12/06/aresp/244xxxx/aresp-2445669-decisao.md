@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/07/2023.
+Concluso ao gabinete em: 24/11/2023.
+Ação: de busca e apreensão, ajuizada pelo agravante, em face do agravado, na qual se insurge o agravante contra a decisão que indeferiu a petição inicial e julgou extinto o processo, sem resolução de mérito.
+Sentença: indeferiu a petição inicial e julgou extinto o processo, sem resolução de mérito, nos termos do art. 485, I, do CPC.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - ALIENAÇÃO FIDUCIÁRIA - NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA PARA O ENDEREÇO INDICADO NO CONTRATO - DEVOLUÇÃO DO AR COM O MOTIVO "ENDEREÇO INSUFICIENTE" - PROTESTO DO TÍTULO NÃO REALIZADO - MORA NÃO COMPROVADA - AUSÊNCIA DE PRESSUPOSTO PARA O DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Nos termos do Decreto Lei nº. 911 /69, exige-se como requisito para a propositura da ação de busca e apreensão a comprovação da mora do devedor, que pode ser feita através de correspondência, com aviso de recebimento, para o endereço constante do contrato, ou pelo protesto do título com intimação por edital.
+Considerando que a notificação extrajudicial enviada pelo credor para o endereço do devedor, ainda que constante do contrato, retornou com resultado negativo pelo motivo "endereço insuficiente", em rigor, deveria ter a parte credora, não localizando o devedor, ter providenciado o protesto do título, com respectiva notificação por edital, mas assim não o fez, motivo pelo qual a manutenção do decisum que bem julgou extinto o feito por ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo deve ser mantido. (e-STJ Fls. 176/177)
+Recurso especial: alega violação dos arts. 2, § 2º, e 3º do Decreto-Lei nº 911/69. Afirma que, se o devedor não pode ser encontrado no endereço fornecido ao credor, deve ser considerada válida a notificação expedida no endereço do contrato, para fins de sua constituição em mora e consequente seguimento da ação de busca e apreensão, em razão da boa-fé objetiva, que deve reger as relações contratuais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da constituição em moro do devedor em ação de busca e apreensão fundada
+em contrato garantido com alienação fiduciária
+O TJ/MT, ao decidir que "a notificação extrajudicial acerca da mora foi encaminhada ao endereço da recorrida indicado no contrato, que, no entanto, retornou sem o devido cumprimento, pelo motivo "endereço insuficiente", conforme documento de Id. 156091999. Nada obstante tenha sido frustrada a tentativa de entrega da notificação extrajudicial no endereço da devedora, não se observa na documentação coligida na inicial que tenha o credor realizado o competente protesto do título por edital, conforme lhe cabia na hipótese, a fim de que se pudesse considerar notificado o devedor pela via editalícia, e, assim, comprovada a mora" (e-STJ Fl. 180), contrariou o entendimento do STJ no sentido de que "em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros". Nesse sentido: REsp n. 1.951.662/RS, Segunda Seção, DJe de 20/10/2023.
+Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para anular o acórdão recorrido e determinar a devolução dos autos ao juízo de origem a fim de que se processe a ação de busca e apreensão.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC, em razão do provimento do apelo especial (EDcl no AgInt no REsp 1573573/RJ, Terceira Turma, DJe de 08/05/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Ação de busca e apreensão.
+2. Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Agravo conhecido. Recurso especial conhecido e provido.
