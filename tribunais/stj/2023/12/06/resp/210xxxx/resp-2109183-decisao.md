@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, a, da Constituição Federal.
+Consta dos autos que o recorrente foi condenado, em sentença confirmada pela Corte a quo, à pena de 2 anos, 8 meses e 20 dias de reclusão, no regime inicialmente aberto, substituída a sanção corporal por penas restritivas de direitos, além de 155 dias-multa, em razão da prática do crime previsto no art. 171, § 3º, do Código Penal.
+Alega a defesa violação do art. 59 do Código Penal, ao fundamento de que a pena básica foi inidoneamente fixada acima do mínimo legal com fulcro em motivação ínsita ao delito praticado.
+Destaca que "não há qualquer motivo idôneo para que tenha sido ultrapassado o mínimo legal, inexistindo qualquer elemento concreto apto à valoração negativa. Além de que, é inegável que todos os aspectos valorados são inerentes ao próprio tipo penal abstrato" (fl. 463).
+Subsidiariamente, pugna pela redução da fração de aumento aplicada na primeira fase.
+Requer, em suma, a redução da pena-base.
+O Ministério Público Federal manifestou-se pelo conhecimento e desprovimento do recurso especial (fls. 500/503).
+Relativamente à dosimetria da pena, a Corte local pontuou que (fls. 443/444):
+Quanto a valoração negativa das duas circunstâncias judiciais, a sentença não merece reparo. Apesar de relacionadas, as circunstâncias judiciais previstas no art. 59 do CP não se confundem de modo que a valoração negativa de ambas não implica em bis in idem pois possuem elementos de análise diversos. As circunstâncias do crime são os fatores de tempo, lugar, modo de execução, o modus operandi empregado na prática do delito sendo que no presente caso tal circunstância foi valorada negativamente em razão do longo período de recebimento indevido do benefício (por quase 4 anos).
+Na consequência do crime devem ser apurados os danos que excedam o normalmente produzido pela prática criminosa, extrapolando o resultado típico esperado e sendo anormais à espécie delitiva. No presente caso, a consequência do crime foi valorada negativamente em razão do prejuízo ao erário no elevado valor de R$ 93.096,12 (noventa e três mil, noventa e seis reais e doze centavos). Apesar do elevado valor a defesa sustentou se tratar de prejuízo patrimonial normal para a espécia delitiva, sem apresentar qualquer julgado ratificando tal tese.
+Em que pese o prejuízo ao erário ser uma decorrência natural da prática do delito ora analisado, quando o valor total do prejuízo se dá em patamares elevados acaba por destoar da normalidade própria do tipo e autoriza uma reprimenda estatal maior sobre o infrator. A obtenção de vantagem patrimonial, via de regra, é algo normal e esperado à espécie delitiva em análise. Porém, caso constatado se tratar de uma vantagem em valor elevado ela transborda a normalidade do tipo penal e pode ser valorada negativamente na dosimetria da pena.
+Com o mesmo raciocínio foi valorada negativamente a consequência de um crime de roubo pelo STJ em razão do elevado valor do bem roubado, em que pese o tipo penal já reprimir a violação ao patrimônio de outrém e prever a obteção da vantagem econômica como um resultado esperado dessa prática delitiva:
+ ..
+Por fim, não há critério legal estabelecendo a fração a ser adotada quando da valoração das circunstâncias judiciais, devendo o magistrado efetuar a individualização da pena (art. 5º, XLVI, da CF/88) com base nas circunstâncias do caso concreto. Nesse sentido há certa maleabilidade para a dosimetria da pena-base, a depender das peculiaridades do caso sub judice.
+Segundo o STJ, a divisão do intervalo entre o mínimo e o máximo da pena em abstrato pelas oito circunstâncias judiciais previstas no art. 59 do CP é um dos critérios que podem ser utilizados na fixação da pena- base, entre outros possíveis:
+ ..
+Dessa forma, a quantidade de pena atribuída para cada circunstância judicial valorada negativamente encontra-se razoável e devidamente fundamentada, não merecendo reforma.
+Consoante bem apontado no acórdão recorrido, o fato de ter o réu usufruído de benefício indevido durante longo período (4 anos), causando vultuoso prejuízo ao INSS, são circunstâncias que extrapolam as elementares do tipo penal e, de acordo com a jurisprudência desta Corte, idoneamente justificam a exasperação da pena-base:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO CONTRA O INSS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. JUSTIFICATIVA IDÔNEA PARA A EXASPERAÇÃO DA PENA-BASE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena é sujeita a certa discricionariedade, porquanto se adequada às particularidades de cada caso concreto. Por isso, sua revisão no âmbito dos reclamos endereçados a esta Corte somente é cabível quando verificada a inobservância de parâmetros legais ou manifesta desproporcionalidade.
+2. A exasperação da pena-base em razão da culpabilidade, das circunstâncias do estelionato previdenciário e de suas consequências foi justificada de forma concreta, com lastro em dados não inerentes à estrutura do tipo penal.
+3. Não há que se falar em violação do art. 59 do CP, pois as instâncias ordinárias fizeram referência ao profissionalismo na prática delitiva e ao longo período em que a ré usufruiu o benefício indevido (maior censurabilidade), além de destacar a inserção de declarações falsas não somente na carteira de trabalho, mas em outros documentos (dados acidentais mais graves da conduta) e o vultoso prejuízo causado à autarquia pública (resultado mais nocivo do crime patrimonial).
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.951.899/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/2/2022, DJe de 21/2/2022.)
+Aponto que o aumento operado na primeira fase de dosimetria da pena não se mostrou desarrazoado ou excessivo, sobretudo considerando-se que duas circunstâncias judiciais foram desvaloradas, além do fato de que a pena mínima e máxima abstratamente cominadas ao delito constante do art. 171 do CP variam de 1 a 5 anos de reclusão.
+A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula n. 83 do STJ, o que inviabiliza o conhecimento do recurso especial pelas alíneas a e c do permissivo constitucional.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
