@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ, fls. 378-384):
+"APELAÇÃO CRIME - SENTENÇA CONDENATÓRIA PELA PRÁTICA DO CRIME PREVISTO NO ART. 14, CAPUT, DA LEI NQ 10.826/2003 - IRRESIGNAÇÃO DA DEFESA. 1) PLEITO DE CONCESSÃO DOS BENEFÍCIOS DA ASSISTÊNCIA JUDICIÁRIA GRATUITA - NÃO CONHECIMENTO - MATÉRIA QUE COMPETE AO JUÍZO DA EXECUÇÃO. 2) PEDIDO DE ABSOLVIÇÃO, SOB ARGUMENTO DE QUE INEXISTEM PROVAS SUFICIENTES PARA EMBASAR A CONDENAÇÃO - PROVIMENTO - MATERIALIDADE DELITIVA QUE NÃO RESTOU COMPROVADA - LAUDO DE CONSTATAÇÃO PROVISÓRIO E LAUDO PERICIAL DE PRESTABILIDADE E EFICIÊNCIA QUE NÃO FORAM REALIZADOS - DEPOIMENTOS DOS AGENTES PÚBLICOS E CONFISSÃO DO APELANTE QUE NÃO SUPREM A NECESSÁRIA PROVA DA MATERIALIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO".
+Em suas razões recursais, a parte recorrente aponta violação do art. 14 da Lei 10.826/2003. Aduz para tanto, em síntese, que o delito tipificado na norma penal seria de perigo abstrato, "de forma que a inequívoca posse de armas de fogo e munições materializa a prática delitiva, sendo prescindível a comprovação do potencial ofensivo do material apreendido" (e-STJ, fl. 397). Alega ser "notório" (e-STJ, fl. 400), então, que o acórdão teria violado o texto legal e a jurisprudência deste Tribunal.
+Com contrarrazões (e-STJ, fls. 415-439), o recurso especial foi admitido na origem (e-STJ, fls. 444-446).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 459-461).
+É o relatório.
+Decido.
+A insurgência não ultrapassa o juízo de admissibilidade.
+Com efeito, a argumentação recursal está pautada na natureza de perigo abstrato do crime do art. 14 da Lei 10.826/2003, o que leva o Parquet a concluir pela prescindibilidade do exame pericial para constatar a potencialidade lesiva da arma de fogo. Não foi exatamente essa, entretanto, a matéria discutida na origem. Para o Tribunal local, não há sequer a comprovação de que o objeto apreendido com o réu seria uma arma de fogo, como se colhe do acórdão recorrido (e-STJ, fl. 382):
+"Após o recebimento da denúncia, o juízo de Origem oficiou o Instituto de Criminalística, a fim de que fosse encaminhado aos autos o Exame de Prestabilidade da arma de fogo apreendida, (mov. 43.1 - Io Grau de Jurisd.), o qual não foi encaminhado pelo referido instituto. Em que pese o laudo não ter sido juntado aos autos, houve a prolação da sentença condenatória.
+À vista disso, não houve a realização do Laudo de Constatação Provisória, tampouco do Laudo Pericial Definitivo.
+Apesar da confissão do réu, e dos depoimentos dos agentes públicos, não há elementos idôneos a comprovar que, de fato, o objeto apreendido se tratava de arma de fogo".
+Veja-se, então, que a Corte de origem não debateu a necessidade de perícia para comprovar a potencialidade lesiva, ao contrário do que se diz no recurso especial, mas sim a própria dúvida quanto à existência de uma arma de fogo em posse do réu. As razões recursais estão, pois, dissociadas daquilo que foi efetivamente julgado em segunda instância, o que configura a deficiência na fundamentação recursal tratada pela Súmula 284/STF:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONFISSÃO INFORMAL. DECLARAÇÕES NÃO UTILIZADAS PARA FUNDAMENTAR A CONDENAÇÃO. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DA SÚMULA 284/STF.
+Agravo regimental não conhecido".
+(AgRg no HC n. 622.674/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/9/2022, DJe de 22/9/2022.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DE AGRAVO REGIMENTAL DISSOCIADAS DOS OBJETOS DA DECISÃO AGRAVADA. SÚMULA 284/STF. PRESCRIÇÃO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+1. As razões apresentadas no presente agravo regimental (tempestividade do recurso especial apresentado; não incidência da Súmula 7/STJ, teses de mérito do recurso especial) apresentam-se desconexas e dissociadas do que foi decidido na decisão monocrática, circunstância que caracteriza deficiência na fundamentação e atrai, por analogia, o óbice da Súmula 284/STF.
+ ..
+3. Agravo regimental parcialmente conhecido e, nessa parte, não provido".
+(AgRg nos EDcl na PET no AREsp n. 1.768.922/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+Na verdade, a matéria desenvolvida pelo MP/PR no recurso especial nem chegou a ser examinada pelo acórdão recorrido; tampouco foram opostos embargos de declaração para buscar o pronunciamento do Tribunal local sobre o tema, o que atrai a incidência também das Súmulas 282 e 356/STF. Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem públic a exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
