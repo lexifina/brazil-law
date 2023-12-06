@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que inadmitiu recurso especial por não ter sido demonstrada a violação do art. 1.022 do CPC e a não vulneração dos arts. 421, 421-A e 478 do CC, bem como a incidência da Súmula n. 7 do STJ quanto aos mesmos dispositivos legais.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Aduz que houve violação do art. 1.022, II, do CPC, pois, mesmo com a oposição de embargos de declaração, o Tribunal a quo deixou de se manifestar sobre pontos essenciais ao deslinde da controvérsia.
+Sustenta que nas razoes do recurso especial deixou evidente a alegada ofensa aos arts. 421, 421-A e 478 do CC especificando que a intenção do recurso não é a revisão da cláusula, mas, sim, a ausência de índice de correção e a impossibilidade de aplicação dos índices estabelecidos pela ANS para planos individuais e familiares.
+Afirma não ser caso de incidência da Súmula n. 7 do STJ pelas seguintes razões (fls. 699-700):
+Isso porque entendeu que magistrado que a corte pacificou o tema no sentido de que ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+Todavia, tal entendimento não se aplica ao caso, eis que a divergência aqui apresentada é baseada na legitimidade contratual especial dos dependentes continuarem como beneficiários do plano, enquanto não há cláusula garantindo esse direito.
+ ..
+Repare que em nenhum momento, a lei permitiu que com a morte do titular do plano seus dependentes assumiriam a condição de legitimados para figurar como titular do contrato. Logo, ao estabelecer no acórdão que deve a Agravada permanecer no contrato com os mesmos benefícios acaba-se por violar frontalmente o art. 30, caput, §1º e 3º, da Lei de Regência.
+Além disso, em nenhum momento se discutiu a possibilidade de a parte adversa assumir a ônus de figurar como titular do plano. Logo, se valer de tal situação é apresenta uma decisão surpresa, figura inteiramente repudiada pelo ordenamento jurídico.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na não demonstrada a violação do art. 1.022 do CPC, por não ter sido demonstrada a ofensa aos arts. 421, 421-A e 478 do CC e pela incidência da Súmula n. 7 do STJ quanto aos mesmos dispositivos legais.
+Nas razões recursais, porém, a parte agravante para afastar a incidência da Súmula n. 7 do STJ alega não ser caso de aplicação do referido enunciado nos casos de multa de astreintes e que na espécie não se aplica o entendimento de que ante o falecimento do titular os dependentes dispõem do direito de continuar no plano de saúde, violando o art. 30, caput, §§ 3º e 11, da Lei n. 9.656/1998, portanto referindo-se à matéria não versada no recurso especial e nem no acórdão recorrido, apontando razões dissociadas da presente demanda.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
