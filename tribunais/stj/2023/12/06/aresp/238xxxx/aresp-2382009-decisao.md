@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por ANTONIA ADELINA PALMA DE ALMEIDA em face de decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que negou admissibilidade a recurso contra acórdão assim ementado:
+SERVIDOR. PENSÃO VITALÍCIA. Hipótese de meras alegações de suposto cancelamento abrupto e indevido de benefício, sem apresentação de documentos comprobatórios de fatos narrados. Sentença de improcedência do pedido mantida. - Recurso desprovido
+Os embargos de declaração opostos contra o acórdão a quo foram rejeitados.
+No especial, sustenta-se que, em síntese, que "a ação foi julgada improcedente por falta de provas, entretanto quem não se desincumbiu do ônus da prova foi a União que alegou fato impeditivo".
+Após juízo negativo de admissibilidade sobreveio o presente agravo.
+É o relatório. Decido.
+O conhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata aqui de discussão sobre o resultado jurídico da aplicação de normas federais (quaestio iuris), senão da revisão das premissas subjacentes (quaestio facti).
+Cediço é que "o chamado erro na valoração ou valorização das provas somente pode ser o erro de direito quanto ao valor da prova abstratamente considerado." Se "o julgado local, apreciando o poder de convicção  da prova , conclua (bem ou mal) sobre estar provado, ou não, um fato, aí não se tem ofensa ao direito federal: pode ocorrer ofensa (se mal jugada a causa) ao direito da parte" (cf. RE 84699, Rel. p/ Acórdão RODRIGUES ALCKMIN, Primeira Turma, DJ 03/06/1977, pp 3645).
+O pedido de revaloração, em caso tal, deve conter, necessariamente, a demonstração de duas coisas: (a) o quadro fático, tal como delineado no decisum objurgado (ou seja, a apresentação da quaestio facti tal como interpretada, bem ou mal, pela Corte a quo); (b) o resultado jurídico resultante de má aplicação do direito federal (a apresentação da quaestio iuris). O pedido genérico de valoração das provas (ou de simples afastamento da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial") constitui defeito grave de fundamentação recursal, que leva ao não conhecimento da matéria arguida.
+Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAREsp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo, adverte Araken de Assis (in Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
