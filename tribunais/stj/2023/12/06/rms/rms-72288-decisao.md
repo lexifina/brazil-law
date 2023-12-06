@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ROSA MARIA DA SILVA SANTOS , com fundamento no art. 105, II, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado contra ato ilegal imputado ao Governador e Secretário de Administração, ambos do Estado da Bahia, consubstanciado na suposta redução do valor pago a título de horas extras dos seus proventos de aposentadoria.
+Deu-se, à causa, o valor de R$ 1.000,00 (um mil reais).
+O Tribunal de Justiça do Estado da Bahia denegou a segurança pleiteada.
+O referido acórdão foi assim ementado, in verbis :
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. PRELIMINAR DE ILEGITIMIDADE DO GOVERNADOR. ACOLHIMENTO. PRELIMINARES DE DECADÊNCIA E PRESCRIÇÃO. SÚMULA 85 DO STJ. PRESTAÇÃO DE TRATO SUCESSIVO. REJEIÇÃO. MÉRITO. HORAS EXTRAS INCORPORADAS. REAJUSTES SALARIAS. ALEGADA FALTA DE REPASSE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. SEGURANÇA DENEGADA.
+1. No caso concreto, tem-se que compete a Secretaria de Administração do Estado da Bahia o reconhecimento de direitos dos servidores públicos militares e civis do Poder Executivo, sem que haja, ao fim e ao cabo, qualquer participação do Excelentíssimo Governador, razão porque acolhe-se a preliminar de ilegitimidade passiva para exclui-o da liça.
+2. Descabida a alegada decadência, nos moldes do art. 23 da Lei nº 12.016/2009, uma vez que o ato imputado como coator se trata de conduta omissiva das autoridades, renovando-se mês a mês o prazo da impugnação. Da mesma forma, não há que se falar em prescrição do fundo do direito, uma vez que, estando ausente o ato de negativa do próprio direito, somente são atingidas as parcelas vencidas no quinquênio anterior à propositura da demanda, conforme enunciado 85 da Súmula do STJ. Prefaciais rejeitadas.
+3. Mérito. Na hipótese, assegura a autora fazer jus a percepção, a título de horas extras incorporadas, no percentual de 40,60% sobre o seu vencimento base, contudo o Estado da Bahia não teria feito incidir sobre a referida verba o reajuste de 26,31%, deferido entre junho de 2020 a junho de 2021.
+4. Com efeito, não restou previamente demonstrado o quantitativo percebido pela impetrante nos meses anteriores ao reajuste concedido pela Administração Pública aos funcionários públicos estaduais entre junho de 2020 e junho de 2021, tampouco ficou evidenciado que não houve repasse dos referidos reajustes em relação as horas extras incorporadas aos vencimentos da autora.
+5. Conforme jurisprudência do STJ "A opção pela via do mandado de segurança oferece aos impetrantes o bônus da maior celeridade processual, da prioridade na tramitação em relação às ações ordinárias e o foro constitucionalmente privilegiado para apreciar originariamente ação ou omissão atribuída a Ministro de Estado. Todavia, essa opção cobra o preço da prévia, cabal e incontestável demonstração dos fatos alegados, mediante prova documental idônea, a ser apresentada desde logo com a inicial, evidenciando a liquidez e certeza do direito afirmado."( AgRg no MS n. 19.025/DF)
+No presente recurso ordinário, a recorrente alegou, em síntese, que no ato de sua aposentação lhe foi assegurado pelo TCE o recebimento de 40,60% do vencimento a título de horas extras incorporadas, contudo, sem que saiba a razão, a Administração Pública reduziu o quantitativo, causando-lhe lesão a direito adquirido.
+Discorreu sobre a natureza da ação mandamental, a não ocorrência da decadência devido a natureza continuada da prestação de caráter alimentar, refutando, inclusive, eventual prescrição quinquenal.
+O Ministério Público Federal opina pelo provimento parcial do recurso.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Consoante cediço, o mandado de segurança possui como requisito inarredável a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para a dilação probatória. Para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido. Nesse sentido: AgInt no RMS n. 34.203/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 6/2/2018, DJe 16/2/2018 e AgInt no RMS n. 48.586/TO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+Compulsando os autos, verifica-se que, assim como consignado na instância de origem, a Impetrante não logrou em juntar, de plano, prova suficiente para comprovar seu alegado direito líquido e certo, de modo que se mostra inviável o manejo do presente mandamus.
+Dessa forma, é de rigor a manutenção do acórdão recorrido.
+No mesmo sentido, mutatis mutandis:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA. VÍCIO NA DIGITALIZAÇÃO. COMPROVAÇÃO. ÔNUS DA PARTE. PROCESSO ADMINISTRATIVO DISCIPLINAR. COMISSÃO PROCESSANTE. IMPEDIMENTO. NÃO OCORRÊNCIA. REVISÃO DA SANÇÃO. IMPOSSIBILIDADE.
+1. A concessão da ordem em mandado de segurança está condicionada à comprovação de direito líquido e certo, assim considerado o que pode ser demonstrado de plano, por meio de prova pré-constituída, não se admitindo nesse procedimento especial dilação probatória.
+Precedentes.
+ ..
+9. Agravo interno não provido.
+(AgInt no RMS n. 61.027/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. MAGISTRADO ESTADUAL. PAD. APOSENTADORIA COMPULSÓRIA. ALEGAÇÃO DE 35 (TRINTA E CINCO NULIDADES). AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Consoante a jurisprudência desta Corte, "o direito líquido e certo é aquele que se apresenta manifesto de plano, desde a impetração, impondo-se a sua comprovação mediante prova pré-constituída, contemporânea à petição inicial, não se admitindo a juntada posterior de documentos a fim de comprovar o direito alegado, já que, diante da natureza célere do Mandado de Segurança, não se comporta dilação probatória, devendo todos os elementos de prova serem acostados à inicial, não se admitindo a sua juntada posterior, conforme já decidiu esta Corte Superior" (STJ, AgInt no RMS 35.231/PA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 01/09/2022), sendo inadmissível a dilação probatória. A propósito, ainda: STJ, MS 18.106/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 04/05/2012; MS 21.666/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 19/12/2016.
+ ..
+VIII. Agravo interno improvido.
+(AgInt no RMS n. 44.487/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+ EMENTA
