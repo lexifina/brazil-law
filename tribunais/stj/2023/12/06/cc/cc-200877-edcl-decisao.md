@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SUPERMERCADO CASA AUROA LTDA. contra decisão, da lavra deste signatário, acostada às fls. 326/327, que não conheceu do presente incidente.
+Em suas razões, a embargantes aponta, em síntese, que "(..) ficou comprovado que se está diante de um credor detentor de valores que se submetem aos efeitos do plano de recuperação apresentado, aprovado e homologado junto ao Juízo Universal". Acrescenta que"(..)se a decisão embargada não for revista, os atos de constrição serão realizados pelo Juízo Laboral e pode-se afirmar que em total desacordo com os ditames estabelecidos no referido plano de recuperação e nesse ponto importante trazer a lume o aresto do Resp n. 1.655.705-SP1, de onde se extrai que o crédito não perde a sua submissão ao procedimento de soerguimento mesmo depois do mesmo ser encerrado."
+Requer o acolhimento da insurgência. (fls. 332/339)
+Sem impugnação.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do art. 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Com esse norte hermenêutico, na hipótese em tela, não há omissão e/ou obscuridade no julgado ora embargado porquanto, restou claro que o próprio juízo da recuperação judicial esclareceu que "Em 18/11/2022 foi determinado o encerramento da recuperação judicial, com a autorização deste juízo quanto à desprocessualização dos incidentes de habilitações de crédito, determinando que o administrador judicial faça o crivo e inclusão no quadro geral de credores dos pedidos de habilitação de crédito", estando o processo arquivado definitivamente desde 18/05/2023"
+Ademais, a decisão que encerrou o processo de soerguimento transitou em julgado em 17/02/2023, valendo destacar que a suscitante poderá se valer de eventuais recursos cabíveis contra deliberações das instâncias ordinárias porquanto o conflito de competência, como cediço, não é sucedâneo recursal.
+Nessa linha: AgRg no CC 126.379/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 21/08/2013; AgRg no CC 122.832/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 17/04/2013, DJe 24/04/2013.
+Vale destacar, finalmente, consoante o enunciado da Súmula 59/STJ, aplicável à hipótese dos autos, segundo o qual "(..)Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes."
+Finalmente, v ale ressaltar, ante a recalcitrância da embargante tendo em conta o trânsito em julgado do CC 196689/MT, aforado pela insurgente, a possibilidade de aplicação de multa, a teor do art. 1026, §2º, do CPC/15.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
