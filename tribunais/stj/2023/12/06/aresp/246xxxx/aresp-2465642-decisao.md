@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por João Maria Sutil contra a decisão de fls. 546-555 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio ao acórdão de fls. 425-431 (e-STJ), prolatado pelo Tribunal de Justiça de Estado de Mato Grosso, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL - EMPRÉSTIMO BANCÁRIO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO - MULTIPLICIDADE DE DEMANDAS - ABUSO DO DIREITO DE DEMANDAR - OFENSA AO ART. 187 DO CÓDIGO CIVIL - CONDENAÇÃO DO ADVOGADO EM LITIGÂNCIA DE MÁ-FÉ, DE FORMA SOLIDÁRIA COM O AUTOR - IMPOSSIBILIDADE - SENTENÇA REFORMADA NO PONTO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. O fracionamento das ações, como a do presente caso, consiste em um verdadeiro abuso do direito de demandar, na medida em que a autora ajuizou outra ação contra a mesma parte e causa de pedir, configurando conduta processual temerária e abusiva, a qual o Judiciário não pode dar guarida. Configura litigância de má-fé a conduta da parte autora que promove o fracionamento das ações como manobra para ampliar as possibilidades de ganhos sucumbenciais e indenizatórios. Todavia, a condenação deve ficar adstrita aos litigantes, não alcançado de forma solidária o advogado, em atenção ao que dispõe o art. 79 do CPC.
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; b) incidência da Súmula 7/STJ; e c) prejudicialidade da análise do dissídio jurisprudencial em razão da incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual o insurgente defende o seguimento do recurso especial.
+Contraminuta às fls. 572-575 (e-STJ).
+Brevemente relatado, decido.
+Conforme constante do relatório, a Corte de origem negou seguimento ao recurso especial sob os seguintes fundamentos: não ocorrência de negativa de prestação jurisdicional; incidência da Súmula 7/STJ; e prejudicialidade da análise do dissídio jurisprudencial em razão da incidência da Súmula 7/STJ.
+Todavia, da análise das razões do presente agravo não se extrai impugnação a um dos fundamentos, a saber, a não ocorrência de negativa de prestação jurisdicional.
+A jurisprudência desta Corte é no sentido de que a ausência de impugnação específica de algum dos fundamentos utilizados pela Corte de origem para inadmitir o recurso impede o conhecimento do agravo em recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 15/12/2021.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, para manter decisão que não conheceu do Agravo em Recurso Especial, em razão da aplicação do disposto no art. 932, III, do CPC/2015, bem como da Súmula 182 do STJ, tendo em vista a ausência de impugnação específica dos fundamentos da decisão que, em 2º Grau, inadmitiu o Recurso Especial.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp 1.948.103/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 28/03/2022, DJe 30/03/2022).
+Vale ressaltar ainda que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, devendo ser impugnados todos os óbices apontados da decisão de inadmissibilidade.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. VIOLAÇÃO DOS ARTS. 385 E 492, I, B, DO CPP. HOMICÍDIO. TRIBUNAL DO JÚRI. PLEITO DE RESTABELECIMENTO DA AGRAVANTE PREVISTA NO ART. 61, II, F, DO CP. TRIBUNAL QUE DECOTOU A AGRAVANTE POR NÃO ESTAR DESCRITA NA DENÚNCIA E POR NÃO TER SIDO QUESITADA AOS JURADOS. DESNECESSIDADE. DEBATE EM PLENÁRIO SUFICIENTE. RECONHECIMENTO PELO JUIZ TOGADO. PRECEDENTES.
+1. Agravo regimental interposto contra a decisão que não conheceu do agravo em recurso especial da defesa e contra a decisão que deu provimento ao recurso especial da acusação.
+2. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2.1. No caso, a defesa do agravante não impugnou todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+3. É cediço neste Sodalício que no procedimento do Tribunal do Júri, após a reforma promovida pela Lei n. 11.689/2008, as agravantes e atenuantes passaram a ser reconhecidas diretamente pelo juiz togado, sem necessidade de indagação aos jurados, bastando que sejam debatidas em plenário.
+3.1. No caso, a agravante relativa à coabitação foi sustentada pela acusação, conforme Ata da Sessão de Julgamento, razão pela qual correto o restabelecimento de sua incidência.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.946.263/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Diante do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% (três por cento) sobre o valor atualizado da causa, devendo ser observada a gratuidade de justiça deferida ao recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO BANCÁRIO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. AÇÃO REVISIONAL. NÃO IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
