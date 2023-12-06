@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por HENRIQUE ERNESTO GONCALVES ZARZUR, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/05/2023.
+Concluso ao gabinete em: 13/11/2023.
+Ação: de reembolso de despesas médico hospitalares, ajuizada pelo agravante em face de OMINT SERVIÇOS DE SAÚDE LTDA, na qual requer o reembolso integral de despesas realizadas fora da rede credenciada. Aduz que a cláusula limitativa é de difícil compreensão e está em desacordo com as normas do CDC.
+Sentença: julgou procedente o pedido o pedido para condenar a agravada a ressarcir ao autor o valor de R$ 30.012,54.
+Acórdão: deu provimento à apelação interposta pela agravada, para julgar improcedente o pedido, nos termos da seguinte ementa:
+SEGURO SAÚDE Reembolso - Autor submetido a procedimento cirúrgico de varicocelectomia esquerda Realização por profissionais não referenciados pela operadora Reembolso devido nos limites contratuais consoante tabela própria e fórmula contratual Cláusula de reembolso que não é ininteligível e o beneficiário poderia e deveria consultar previamente o valor do reembolso - Recurso provido.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 373, II, 1.022, I, do CPC, 6º, III, 39, I e V, 47, 51, IV e § 1º, I, II e III, do CDC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que "as informações inerentes ao cálculo não são disponibilizadas ao consumidor, mantendo a dúvida acerca da variável do coeficiente, o que, por si só, evidencia a abusividade da Operadora em efetuar o reembolso de forma obscura e unilateral, impondo ao consumidor desvantagem exagerada." (e-STJ, fls. 331).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da legalidade da cláusula contratual, conforme se verifica:
+Constou expressamente do Acórdão que, a cláusula contratual em questão, prevê a fórmula: Quantidade de USO x Coeficiente de Reembolso (fls. 38), embora não disponha de valor fixo de reembolso, não impede a verificação pelo segurado por mera operação aritmética dos valores utilizados pela Operadora para alcançar o montante devido, não sendo ininteligível, não se verificando assim a alegada abusividade, estando em conformidade com os contratos de seguro em geral, e, como é corriqueiro o segurado poderia e deveria ter consultado antecipadamente a Operadora sobre o valor do reembolso, não comportando a inversão do ônus da prova, por não se vislumbrar verossimilhança da alegação ou hipossuficiência técnica do autor, que é advogado e na sua atividade profissional tem plenas condições de informar-se, compreender e conferir a fórmula de reembolso. Não se pode falar por sua deliberada omissão em enriquecimento sem causa pela Operadora.
+No mais, nota-se que o questionamento se deu a posteriori, ou seja, mesmo sabendo que o reembolso não seria integral, não há evidências de que procurou saber de antemão qual seria o valor a ser reembolsado, não comprovando a eventual dificuldade na obtenção das tabelas que contém os fatores a serem multiplicados.
+Saliente-se que não há indícios de que a cirurgia tenha ocorrido em situação de urgência ou emergência, consoante definido nos incisos I e II do art. 35-C da Lei n. 9.656/98, havendo sido eletiva. (e-STJ, fls. 319)
+Dessa forma, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/SP ao analisar o recurso interposto pelo agravado, concluiu o seguinte (e-STJ fls. 301/306):
+Ressalte-se que a cláusula contratual em questão, prevê a fórmula: Quantidade de USO x Coeficiente de Reembolso (fls. 38),embora não disponha de valor fixo de reembolso, não impede a verificação pelo segurado por mera operação aritmética dos valores utilizados pela Operadora para alcançar o montante devido, não sendo ininteligível, não se verificando assim a alegada abusividade, estando em conformidade com os contratos de seguro em geral, e, como é corriqueiro o segurado poderia e deveria ter consultado antecipadamente a Operadora sobre o valor do reembolso, não comportando a inversão do ônus da prova, por não se vislumbrar verossimilhança da alegação ou hipossuficiência técnica do autor, que é advogado e na sua atividade profissional tem plenas condições de informar-se, compreender e conferir a fórmula de reembolso.
+No mais, nota-se que o questionamento se deu a posteriori, ou seja, mesmo sabendo que o reembolso não seria integral, não há evidências de que procurou saber de antemão qual seria o valor a ser reembolsado, não comprovando a eventual dificuldade na obtenção das tabelas que contém os fatores a serem multiplicados.
+(..)
+Saliente-se que não há indícios de que a cirurgia tenha ocorrido em situação de urgência ou emergência, consoante definido no incisos I e II do art. 35-C da Lei n. 9.656/98, havendo sido eletiva.
+Alterar o decidido no acórdão impugnado, no que se refere a legalidade da cláusula contratual do reembolso bem como a clareza de sua informação, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 306) para 18%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REEMBOLSO DE DESPESAS MÉDICO HOSPITALARES. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação de reembolso de despesas médico hospitalares.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
