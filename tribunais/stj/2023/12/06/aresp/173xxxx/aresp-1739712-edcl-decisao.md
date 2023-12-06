@@ -1,0 +1,14 @@
+DECISÃO
+JOSÉ WAGNER SANCHO FERNANDES e RENATA DANZI MORAIS DE OLIVEIRA opõem embargos de declaração contra a decisão de fls., em que conheci do agravo em recurso especial para não conhecer do recurso especial.
+A defesa sustenta que, "por se tratar de questão já descartada no Acórdão do TRF1, essa matéria (da paraestatalidade) não foi objeto de argumentação dos Recorrentes no Recurso Especial, pelo que a defesa restou prejudicada e surpreendida pelo não conhecimento do RESP com base nesse fundamento" e que "terminou não sendo examinada a argumentação efetivamente desenvolvida no Recurso Especial (quanto à impossibilidade de se considerar a atividade desenvolvida pelo IH como típica da administração pública)".
+Decido.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+Com efeito, a decisão embargada não usou como ratio decidendi a paraestatalidade da OSCIP, apenas afirmou que o entendimento do STJ de que "as organizações da sociedade civil de interesse público (OSCIP)  ..  se caracterizam como entidades paraestatais".
+O que a decisão ora embargada fez foi afirmar que esta Corte Superior entende que dirigentes e prestadores de serviço de OSCIP são equiparados a funcionário público para efeito penal, evidenciando-se, assim, a incidência da Súmula n. 83 do STJ". Nesse sentido: AgRg no REsp 1816588/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 19/12/2019)
+Portanto, se a Corte de origem afastou a paraestatalidade da OSCIP não muda a percepção de que os "dirigentes e prestadores de serviço  são  equiparados a funcionário público para efeito penal", pois, como o próprio acórdão impugnado aduziu, "explorar economicamente o turismo é uma atividade privada, no entanto, promover ou incentivar essa atividade é uma atividade típica da Administração Pública",  de modo que  a promoção do turismo e o incentivo ao turismo constituem "atividade típica da Administração Pública" (fl. 530).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
