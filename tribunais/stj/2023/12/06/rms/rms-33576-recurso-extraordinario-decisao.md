@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MUNICÍPIO DE CUIABÁ, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 326):
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SEQUESTRO DE VERBAS PÚBLICAS. CRÉDITO SUJEITO À MORATÓRIA DO ART. 78 DO ADCT. VENCIMENTO DO PRAZO PARA PAGAMENTO. POSSIBILIDADE DE SEQUESTRO.
+1. O sequestro de verbas públicas para pagamento de precatórios está previsto nas seguintes hipóteses: a) preterição ao direito de precedência do credor (art. 100, § 2º, da CF/88), de aplicação irrestrita aos créditos submetidos a pagamento mediante precatório; b) vencimento do prazo ou omissão no orçamento ou preterição ao direito de precedência do credor (art. 78, § 4º, do ADCT), para os precatórios pendentes de pagamento na data de promulgação da EC 30/2000 e os que decorressem de ações iniciais ajuizadas até 31 de dezembro de 1999.
+2. A omissão do ente público em sujeitar o crédito do precatório à moratória constitucional, prevista no art. 78 do ADCT, implica na sua submissão ao regime ali previsto, salvo se realizado o pagamento no prazo e na forma do art. 100 da Constituição Federal. Precedentes da Primeira Turma.
+3. Recurso ordinário em mandado de segurança não provido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 60, § 4º, da CF e 78 do ADCT.
+Nesse sentido, argumenta que a constrição judicial foi realizada antes da promulgação da Emenda Constitucional n. 62/2009, ocasião na qual o parcelamento previsto no art. 78 do ADCT consistia em mera faculdade atribuída ao ente público.
+De acordo com a parte ora insurgente (fl. 349):
+O Município de Cuiabá, com fulcro no seu poder de auto-gestão, JAMAIS optou pelo Parcelamento previsto no Art. 78 do ADCT. Dessa forma, não há que se falar em parcelas vencidas e, muito menos, em deferimento de pedido de seqüestro à época com base em atraso de pagamento de tais parcelas.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+É o relatório.
+O Supremo Tribunal Federal, ao apreciar o RE n. 597.092-RG/RJ, submetido ao regime da repercussão geral, firmou a seguinte tese (Tema n. 231):
+É constitucional o sequestro de verbas públicas pela autoridade judicial competente nas hipóteses do § 4º do art. 78 do ADCT, cuja normatividade veicula regime especial de pagamento de precatórios de observância obrigatória por parte dos entes federativos inadimplentes na situação descrita pelo caput do dispositivo.
+Confira-se, a propósito, a ementa do acórdão em referência:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRECATÓRIO. PARCELAMENTO DO ART. 78 DO ADCT, INCLUÍDO PELA EC 30/2000. POSSIBILIDADE DE O ENTE PÚBLICO OPTAR PELA REALIZAÇÃO DO PAGAMENTO DOS PRECATÓRIOS DE MANEIRA INTEGRAL (ART. 100 DA CONSTITUIÇÃO) OU DE FORMA PARCELADA (ART. 78 DO ADCT). SEQUESTRO DE RECURSOS FINANCEIROS: HIPÓTESES DE CABIMENTO (ART. 78, § 4º, DO ADCT).
+1. A partir da Emenda Constitucional n. 30/2000, todas as demais modificações da sistemática dos precatórios admitiram o sequestro de verbas em razão da não alocação orçamentária para satisfação dos débitos com precatórios, como se extrai, por exemplo, do art. 103 do ADCT, incluído pela EC 95/2017.
+2. No caso do regime especial do art. 78 do ADCT, não se compreende a facultatividade almejada, haja vista que os precatórios encontram-se vencidos, desrespeitando a normatividade geral do art. 100 do corpo dogmático da Constituição.
+3. O descumprimento do regime geral e a recusa em aderir ao regime especial geraria uma terceira hipótese constitucional, que pode ser traduzida no inadimplemento sine die, materializada no pleito para o Estado pagar, conforme a ordem cronológica de pagamentos, com atraso e na medida de sua capacidade financeira.
+4. A imperatividade do sequestro de verbas pela autoridade judicial, no caso de descumprimento ao regime especial de pagamento de precatório, previsto no art. 2º da EC 30/2000, é de aderência obrigatória aos entes federativos inadimplentes na situação descrita no caput do art. 78 do ADCT.
+5. Fixação da seguinte tese de julgamento ao presente Tema da sistemática da repercussão geral: "É constitucional o sequestro de verbas públicas pela autoridade judicial competente nas hipóteses do §4º do art. 78 do ADCT, cuja normatividade veicula regime especial de pagamento de precatórios de observância obrigatória por parte dos entes federativos inadimplentes na situação descrita pelo caput do dispositivo."
+6. Recurso extraordinário a que nega provimento.
+(RE n. 597.092, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 26/6/2023, Repercussão Geral - Mérito, DJe 29/9/2023.)
+Destaca-se, ainda, o seguinte excerto do voto proferido pelo Ministro Edson Fachin, que conduziu o acórdão ora indicado como paradigma:
+Nesse sentido, no caso do regime especial do art. 78 do ADCT, não se compreende a facultatividade almejada, haja vista que os precatórios encontram-se vencidos, desrespeitando a normatividade geral do art. 100 do corpo dogmático da Constituição.
+Logo, o descumprimento do regime geral e a recusa em aderir o especial geraria uma terceira hipótese constitucional que pode ser traduzida no inadimplemento sine die, materializada no pleito de o Estado pagar, conforme a ordem cronológica de pagamentos, em atraso e na medida de sua capacidade financeira.
+No caso, o julgado recorrido reconheceu a possiblidade de ser realizado o sequestro de verbas públicas para o pagamento de precatório submetido ao regime de moratória constitucional, diante da caracterização de uma das situações descritas no art. 78, § 4º, do ADCT (vencimento do prazo estabelecido para pagamento).
+Nesse contexto, a tese consagrada pelo acórdão impugnado está alinhada com o entendimento firmado pela Suprema Corte, sob a sistemática dos precedentes qualificados, de modo que a pretensão recursal deve ser obstada.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. SEQUESTRO DE VERBAS PÚBLICAS. PRECATÓRIO SUBMETIDO AO REGIME DE MORATÓRIA CONSTITUCIONAL. CARACTERIZAÇÃO DAS SITUAÇÕES DESCRITAS NO ART. 78, § 4º, DO ADCT. CABIMENTO. TEMA N. 231/STF. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL FIRMADO SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
