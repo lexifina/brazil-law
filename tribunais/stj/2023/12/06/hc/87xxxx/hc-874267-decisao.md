@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de hab eas corpus, com pedido liminar, impetrado em favor de TIAGO APARECIDO BENTO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0013 532-56.2015.8.26.0506) que negou provimento ao recurso da acusação da defesa.
+Consta dos autos que o paciente foi condenado pela prática do delito de organização criminosa, à pena de 9 anos de reclusão e 30 dias-multa e pela prática do delito de tráfico (por três vezes) à pena de 6 anos e 8 meses de reclusão e 666 dias-multa para cada delito. O Tribunal de origem deu provimento, em parte, ao recurso interposto pela defesa, para reduzir as penas do réu para 19 anos e 10 meses de reclusão e 1113 dias-multa.
+No presente writ, sustenta a defesa ilegalidade das interceptações telefônicas. Afirma que uma vez decretada a interceptação, foram formulados mais dezenove pedidos de prorrogações e de novas interceptações, deferidas mediante idênticas decisões, carentes de fundamentação, porquanto não fez referência concreta aos argumentos mencionados na representação da autoridade policial, tampouco demonstrou, ainda que sucintamente, o porquê da imprescindibilidade da medida invasiva da intimidade (e-STJ fl. 8).
+Requer, liminarmente, seja suspensa a execução da pena nos autos n. 0002514-90.2016.8.26.0154 até decisão final do presente writ. No mérito, que seja reconhecida a ilegalidade da decisão que decretou as interceptações telefônicas, com a consequente absolvição do paciente.
+Às e-STJ fls. 422/423 a defesa afirma não ser o caso de prevenção deste relator, pugnando pela distribuição dos autos por sorteio.
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não merece prosseguimento.
+Como é de conhecimento, o art. 210 do Regimento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Busca-se, no caso, o reconhecimento de ilegalidade das decisões que decretaram medidas de interceptação telefônica, diante da ausência de fundamentação adequada.
+Não obstante, verifica-se do acórdão de e-STJ fls. 335/357 que o tema que ora se impugna não foi suscitado perante o Tribunal de origem, de forma que a Corte estadual não examinou a matéria versada no presente mandamus.
+Não demonstrado pela defesa, por meio documental ou mesmo nas razões da impetração, que o tema relativo à nulidade das decisões que decretaram as interceptações telefônicas foi tratado na Corte de origem, afigura-se inviável e vedada a análise pretendida, sob pena de indevida supressão de instância.
+Como é cediço, Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 6/04/2017, DJe 20/4/2017).
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. "OPERAÇÃO ALÉM-MAR". ORGANIZAÇÃO CRIMINOSA. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. LAVAGEM DE DINHEIRO. DECISÃO MONOCRÁTICA DE NEGATIVA DE SEGUIMENTO. MANIFESTAMENTE INADMISSÍVEL. MATÉRIAS NÃO ENFRENTADAS PELO TRIBUNAL DE ORIGEM. NEGATIVA DE AUTORIA. INADEQUAÇÃO DA VIA ELEITA. FUNDAMENTAÇÃO DA PRISÃO E EXTENSÃO DE BENEFÍCIO. REITERAÇÃO DE PEDIDOS. FORAGIDO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A defesa se insurge contra a decisão monocrática desta relatoria que não conheceu do recurso mas recomendou, ao Magistrado de primeiro grau, a revisão da necessidade da manutenção da prisão preventiva do agravante, nos termos do que determina o art. 316 do Código de Processo Penal, com as alterações promovidas pela Lei n. 13.964/2019.
+2. "Matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+3. A questão da legalidade da fundamentação da prisão preventiva do agravante (inclusive em relação ao fato de que os outros corréus se encontravam em liberdade) não foi enfrentada pelo Tribunal de origem no acórdão impetrado porque representava reiteração de pedidos já analisados em outro habeas corpus (HC n 0812043-22.2021.4.05.0000/TRF 5a Região).
+ .. .
+9. Agravo regimental desprovido.
+(AgRg no RHC n. 169.023/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.)
+Por fim, a aventada inexistência de prevenção para o julgamento do presente feito deve ser afastada, nos termos do que preceitua o art. 71 do RISTJ, uma vez que é o mesmo o feito da origem que ensejou a interposição do Agravo em Recurso Especial n. 1.746.682 e esta impetração, qual seja, Ação Penal n. 0013532-56.2015.8.26.0506, verificando-se, ainda, similitude da parte.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
