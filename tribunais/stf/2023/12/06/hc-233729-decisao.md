@@ -1,0 +1,97 @@
+Trata-se de habeas corpus com pedido de liminar, impetrado por Gilmar Antônio Camargo de Oliveira, em causa própria, contra decisão monocrática de Ministro do Superior Tribunal de Justiça que não conheceu do HC 834.007/RS, nos seguintes termos:
+
+    “Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em causa própria por GILMAR ANTÔNIO CAMARGO DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+
+    Consta dos autos que o paciente foi condenado como incurso como nas sanções dos artigos 312 [peculato], § 1º [aplica-se a mesma pena, se o funcionário público, embora não tendo a posse do dinheiro, valor ou bem, o subtrai, ou concorre para que seja subtraído, em proveito próprio ou alheio, valendo-se de facilidade que lhe proporciona a qualidade de funcionário], com incidências na forma do art. 71 [crime continuado], ambos do Código Penal, por dezesseis vezes, c/c o artigo 327, § 2º [funcionário público], do mesmo Diploma legal; artigo 305 [supressão de documento], na forma do art. 71, ambos do Código Penal, por dez vezes, à pena de 21 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado (e-STJ, fls. 21-98).
+
+    Inconformada, a defesa apelou ao Colegiado de origem, que deu parcial provimento ao recurso, a fim de reduzir a reprimenda para 8 anos, 7 meses e 10 dias de reclusão e 66 dias-multa. O aresto foi assim ementado:
+
+    ‘APELAÇÃO-CRIME. DELITO DE PECULATO FURTO. Agente que, valendo-se de facilidade que lhe proporciona a qualidade de funcionário, subtrai valores depositados em contas judiciais referentes ao fundo de reaparelhamento do consumidor. Para tanto, falsifica alvarás com dados de processos destinados ao arquivo judicial e os entrega aos demais acusados para que realizem o levantamento dos valores na agência bancária. Condenações mantidas. Penas alteradas. ART. 305 DO CÓDIGO PENAL. SUPRESSÃO DE DOCUMENTO PÚBLICO. MATERIALIDADE E AUTORIA DEMONSTRADAS. Contexto probatório suficiente para manter juízo condenatório. Condenação mantida. Pena alterada. Apelação de F. C. D. não conhecida. Punibilidade extinta. Prescrição. Ausência de interesse recursal. Unânime. Apelos parcialmente providos’. (e-STJ, fl. 99)
+
+    Neste mandamus, o impetrante sustenta, em síntese, constrangimento ilegal decorrente: a) da incidência da causa de aumento prevista no § 2º do art. 327 do Código Penal, uma vez que não houve pedido expresso na denúncia e a função que o paciente exercia (função gratificada – FG) não está prevista no rol taxativo do citado dispositivo; b) da indevida elevação da pena-base do crime do art. 305 do CP, tendo em vista que ‘não há fundamentação que justifique e especifique que extrapole os elementos inerentes ao tipo penal’ (e-STJ, fl. 16).
+
+    Pugna, assim, pela concessão da ordem a fim de que seja afastada a causa de aumento reconhecida no crime de peculato (art. 327, § 2º, do CP) e seja excluído o aumento da pena-base quanto ao delito do art. 305 do CP, readequando-se a pena final e o regime de cumprimento de pena para o semiaberto.
+
+    Indeferido o pedido de liminar (e-STJ, fl. 141), a Subprocuradoria-Geral da República manifestou-se pelo não conhecimento da impetração e, se conhecido, pela denegação da ordem (e-STJ, fls. 290-297).
+
+    É o relatório.
+
+    Decido.
+
+    Esta Corte – HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 – e o Supremo Tribunal Federal – AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 –, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+
+    De início, constata-se que a alegação relativa ao indevido reconhecimento da causa de aumento do art. 327, § 2º, do Código Penal não foi debatida pelo Tribunal de origem no julgamento da apelação, o que impede o seu conhecimento por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância, consoante pacífico entendimento desta Corte: [...].
+
+    Ainda que assim não fosse, cabe esclarecer que analisar o nexo de causalidade entre a função ocupada pelo paciente e a prática do delito, a fim afastar o aumento de pena do § 2º do art. 327 do CP reconhecido pelas instâncias ordinárias, demandaria necessariamente o exame de fatos e provas dos autos, providência inviável na estreita via do habeas corpus.
+
+    Nesse sentido: [...].
+
+    Prosseguindo-se, a individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+
+    Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+
+    No caso, ao refazer a dosimetria da pena do paciente pelo crime do art. 305 do Código Penal, o Tribunal a quo assim procedeu:
+
+    ‘Gilmar Antônio Camargo de Oliveira – art. 312, § 1º, do Código Penal: A pena-base foi afastada em quatro anos do mínimo legal, examinados os operadores do art. 59 do Código Penal, consideradas negativamente a culpabilidade (acentuada, com elevado grau de reprovabilidade, com sérias e diretas consequências na própria credibilidade do Poder Judiciário, quando o acusado era à época dos fatos Servidor Público integrante de quadro próprio judiciário, mentor e idealizador do delito, aproveitando-se na confiança nele depositada e da liberdade que o acesso ao sistema e aos processos permitia, bem como da fragilidade de segurança, até então, para deliberadamente fraudar a emissão de alvarás judiciais, locupletando-se ilicitamente), as circunstâncias (especialmente graves, pela forma como executado o delito, no interior da Vara do Juizado Especial Cível de Caxias do Sul, valendo-se da facilidade do cargo, utilizando-se para tento de auxilio de Advogados, que conhecia em razão do longo tempo de convivência e experiência, aproveitando-se da boa relação de confiança estabelecida para perpetrar o crime com a colaboração e efetiva ajuda destes) e as consequências (igualmente graves, visto que o prejuízo em valores da época, não reajustados, ultrapassa o montante de R$ 200.000,00 destinados ao fundo de reaparelhamento do consumidor, não foram recuperados, visto que não houve qualquer ressarcimento). Contudo, a culpabilidade e as circunstâncias, como expostas, mostram-se inerentes ao tipo penal e confundem-se com as elementares, bem como com a agravante e a majorante aplicadas nas demais fases da dosimetria da pena. Com efeito, mantido o afastamento somente pelo vetor consequência, vez que corretamente fundamentado. Contudo, o aumento de 01 ano e 06 meses mostra-se exacerbado. Assim, reduzo para 06 meses.
+
+    [...]
+
+    Gilmar Antônio Camargo de Oliveira – art. 305 do Código Penal: A pena base foi afastada em 02 anos do mínimo legal (diante das circunstâncias judiciais acima analisadas, tratando-se de crime conexo, cometido nas mesmas condições do crime de peculato). Contudo, as consequências, como expostas, não dizem respeito ao delito de supressão de documento. Já a culpabilidade e as circunstâncias estão corretamente consideradas, tendo em vista que o acusado era servidor público, bem como prevaleceu-se de função para cometer o delito em razão de possuir função gratificada. Entretanto, o afastamento de 08 meses para cada vetor mostra-se elevado. Assim, reduzo para 03 meses para cada um, fixado a pena-base em 02 anos e 06 meses’. (e-STJ, fl. 129)
+
+    Conforme se observa, a pena-base do paciente pelo crime de supressão de documento foi exasperada pelo Tribunal a quo em 6 meses pela análise desfavorável da culpabilidade e das circunstâncias do crime.
+
+    Acerca da culpabilidade, para fins do art. 59 do Código Penal, entende-se que deve ser compreendida como o juízo de reprovabilidade da conduta, apontando maior ou menor censura do comportamento do réu.
+
+    Não se trata de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito, mas, sim, do grau de reprovação penal da conduta do agente, mediante demonstração de elementos concretos do delito.
+
+    Na hipótese, as instâncias ordinárias destacaram que o paciente era à época dos fatos servidor público integrante de quadro próprio do Judiciário, tendo sido o mentor e idealizador do delito, aproveitando-se na confiança nele depositada e da liberdade que dispunha para o acesso ao sistema e aos processos, bem como da fragilidade de segurança até então. Tais elementos concretos desbordam da gravidade própria do delito e denotam uma maior reprovabilidade da conduta apta a justificar a elevação da reprimenda.
+
+    A corroborar: [...].
+
+    No que toca às circunstâncias do crime, não se infere ilegalidade na primeira fase da dosimetria, pois as instâncias ordinárias demonstraram que o modus operandi do delito revela gravidade concreta superior à ínsita ao crime em questão, destacando que o delito foi cometido no interior da Vara do Juizado Especial Cível de Caxias do Sul, valendo-se o paciente do auxílio de Advogados. Referidas circunstâncias são concretas e permitem a exasperação da basilar nos termos do reconhecido no acórdão impugnado.
+
+    A propósito: [...].
+
+    Portanto, não se constata qualquer ilegalidade a ser sanada, de ofício, nessa via. Ante o exposto, não conheceu do writ.” (documento eletrônico 3)
+
+    Neste writ, o impetrante requer:
+
+    “1) AFASTAR, NA CONDENAÇÃO PELO DELITO DE PECULATO, O RECONHECIMENTO da causa de aumento de 1/3 prevista no art. 327, § 2º, do Código Penal, por não expresso na denúncia e aditamento, e porque o paciente não exercia função do rol expresso no referido dispositivo;
+
+    2) AFASTAR, NA CONDENAÇÃO PELO DELITO DE SUBTRAÇÃO DE DOCUMENTOS dos aumentos em 3 meses para cada vetor – culpabilidade e circunstâncias -, fixando a condenação pelo delito do art. 305 do CP, em razão das circunstâncias judiciais favoráveis, no mínimo legal;
+
+    3) ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA PENA, passando para o SEMIABERTO, em razão do recálculo da pena ora pretendido, somando-se a consideração do tempo de custódia cautelar, nos termos do art. 387, § 2º, do Código de Processo Penal.” (documento eletrônico 1, pp. 18-19)
+
+    É o relatório necessário. Decido.
+
+    O art. 102, I, i, da Constituição Federal prescreve que a competência desta Suprema Corte para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância.
+
+    Com efeito, este habeas corpus foi impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça (documento eletrônico 3). Assim, no caso, a ausência da análise dos fundamentos constantes do ato coator por colegiado daquele Superior Tribunal impede o prosseguimento deste writ.
+
+    Nessa mesma direção:
+
+    “AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INVIABILIDADE. INEXISTÊNCIA DE TERATOLOGIA, FLAGRANTE ILEGALIDADE OU ABUSO DE PODER. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O art. 102, I, i, da Constituição Federal estabelece que a competência deste Supremo Tribunal Federal – STF para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do STF, ou se trate de crime sujeito à mesma jurisdição em uma única instância. II – A não interposição de agravo regimental no Superior Tribunal de Justiça ou a ausência da análise da decisão monocrática pelo Colegiado daquela Corte impedem o conhecimento do habeas corpus pelo Supremo Tribunal Federal, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer. Precedentes. III – Não há teratologia, flagrante ilegalidade ou abuso de poder que possa abrandar a impossibilidade de superação do óbice aqui reconhecido, a permitir a análise das questões trazidas neste habeas corpus. IV – Agravo regimental a que se nega provimento.” (HC 232.190 AgR/SP, da minha relatoria, Primeira Turma, DJe 16/10/2023)
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. 1. Incidência de óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022; HC 219.672-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/10/2022; HC 216.953-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022; RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022). 2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Rel. p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019). 3. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal. 4. Agravo Regimental a que se nega provimento.” (HC 228.736 AgR/BA, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 27/6/2023).
+
+    Para além disso, este Supremo Tribunal Federal consolidou entendimento no sentido de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59, do Código Penal, consideradas na sentença condenatória.
+
+    Faz-se possível, nesta oportunidade, “[...] apenas o controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 129.920 AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma, DJe 18/12/2015), iniquidades que não se verificam no caso.
+
+    Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. DOSIMETRIA DA PENA. ANÁLISE DE FATOS E PROVAS. INEXISTÊNCIA DE ILEGALIDADE. PEDIDO SUCEDÂNEO DE REVISÃO CRIMINAL. 1. A dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades, o que não ocorreu no caso. 2. Atenuante da confissão espontânea afastada pelas instâncias ordinárias. Torna-se, portanto, inviável proceder ao revolvimento de fatos e provas com vistas a emprestar ao relato do paciente o grau de valoração exigido para qualificá-lo como atenuante prevista no art. 65, III, d, do Código Penal (HC 129920 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje de 18/12/2015). 3. Além disso, é inviável a utilização de Habeas Corpus como sucedâneo de Revisão Criminal (HC 134691 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 1º/8/2018; HC 136.898-AgR, Rel. Min. LUIZ FUX, Tribunal Pleno, DJe de 5/9/2017; HC 149.653-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 6/2/2018). Até porque a matéria foi amplamente enfrentada pelas instâncias antecedentes mediante estreita observância do suporte probatório revelado nos autos. 4. Agravo Regimental a que se nega provimento.” (HC 228.475 AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 27/6/2023)
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ESTELIONATO PREVIDENCIÁRIO. CONDENAÇÃO PENAL COM TRÂNSITO EM JULGADO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO CONCRETA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. FRAÇÃO DE DIMINUIÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Inviável o exame das teses defensivas não analisadas pelas instâncias anteriores, sob pena de indevida supressão de instâncias. Precedentes. 3. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Precedentes. 4. Exasperação da pena-base estabelecida dentro da margem de discricionariedade permitida ao julgador e cuja resultante não teve desfecho flagrantemente desproporcional. 5. Para concluir em sentido diverso quanto à exasperação da pena-base e incidência da atenuante da confissão espontânea, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 6. Agravo regimental conhecido e não provido.” (HC 216.578 AgR/RJ, Rel. Min. Rosa Weber, Primeira Turma, DJe 31/8/2022)
+
+“AGRAVO INTERNO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PRETENDIDA INCIDÊNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. DISCRICIONARIEDADE DA DOSIMETRIA. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. RECURSO ORDINÁRIO DESPROVIDO. 1. A dosimetria da pena é matéria sujeita a certo grau de discricionariedade, vinculada às particularidades fáticas do caso concreto, cabendo aos Tribunais Superiores tão somente o controle de legalidade e constitucionalidade dos critérios e da motivação utilizados na fixação da pena. 2. Não se admite, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas à incidência da atenuante da confissão espontânea, do conjunto fático-probatório produzido nas instâncias ordinárias. 3. Agravo interno desprovido.” (RHC 224.811 AgR/MS, Rel. Min. Nunes Marques, Segunda Turma, DJe 5/5/2023)
+
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, 1º, do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 6 de dezembro de 2023.
+
+    Ministro Cristiano Zanin
+
+    Relator
