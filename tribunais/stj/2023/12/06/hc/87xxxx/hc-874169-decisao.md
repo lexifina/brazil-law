@@ -1,0 +1,8 @@
+DECISÃO
+ANTONIO ARAÚJO XAVIER, condenado por homicídio qualficado, alega ser vítima de constrangimento ilegal em decorrência da demora no julgamento da apelação interposta perante o Tribunal de Justiça do Estado de Pernambuco.
+Embora o impetrante pleiteie a nulidade da pronúncia e a desconstituição da preventiva, observo que o habeas corpus não se encontra suficientemente instruído, visto que a defesa não se desincumbiu de juntar a cópia de documentos essenciais para a análise do pedido, como, por exemplo, a cópia da sentença condenatória.
+Saliento, ainda, que, conquanto o habeas corpus seja uma ação mandamental caracterizada pela ausência de maiores formalidades (a par dos requisitos mínimos exigidos pelo art. 654, § 1º, do Código de Processo Penal), sua utilização deve ser acompanhada de todos os documentos essenciais para o deslinde da controvérsia suscitada pelo impetrante - notadamente quando se tratar de peça processual produzida por advogado -, sob pena de indeferimento in limine do writ.
+Nesse sentido, "a jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus a fim de que seja possível identificar o alegado constrangimento ilegal" (AgRg no HC n. 439.162/SP, Rel. Ministro Felix Fischer, DJe 24/5/2018).
+Logo, levando-se em consideração que "não consta cópia do acórdão impugnado, peça imprescindível à análise do apontado constrangimento ilegal" (AgInt no HC n. 410.622/SP, Rel. Ministro Sebastião Reis Júnior, DJe 13/9/2017, grifei), com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
+EMENTA
