@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por VINICIUS BERNARDO ARAUJO DE ALMEIDA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento da Apelação Criminal n. 1.0000.22.174819-7/001.
+Nas razões do recurso especial, aponta-se ofensa ao art. 33, § 4.º, da Lei de Drogas, defendendo-se a aplicação da minorante do tráfico privilegiado ao caso em apreço, pois, "a partir das provas colacionadas aos autos, é impossível inferir que o recorrente estivesse envolvido habitualmente com o tráfico de drogas." (fl. 1025).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial, em razão do óbice da Súmula n. 7/STJ (fls. 1245-1249).
+É o relatório. Decido.
+O tema tratado no recurso especial já foi objeto de exame por esta Corte Superior no julgamento do AGRG no HC n. 802.725/MG, cujo acórdão recebeu a seguinte ementa:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. APLICAÇÃO DA PENA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA RECONHECIDA PELA INSTÂNCIA DE ORIGEM. ELEMENTOS CONCRETOS. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DO CONTEXTO FÁTICO-PROBATÓRIO. APLICAÇÃO DO ART. 580 DO CPP. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. No caso, a instância ordinária faz menção às circunstâncias da aquisição dos quarenta tabletes de haxixe (quase 2 kg), em outra Unidade da Federação para, desse modo, concluir que o Agravante se dedicava às atividades criminosas. Logo, tendo sido declinados elementos idôneos e concretos indicadores de envolvimento habitual com o esquema criminoso, não há ilegalidade no afastamento da minorante.
+2. Conforme cediço, a elevada quantidade de drogas apreendidas, aliada às circunstâncias fáticas do delito, permite aferir o grau de envolvimento do Réu com a criminalidade organizada e/ou a sua dedicação às atividades delituosas e, por consequência, obstar o reconhecimento do tráfico privilegiado.
+3. Constatada pelas instâncias ordinárias a ausência dos requisitos para a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006, a modificação desse entendimento exigiria, na hipótese, aprofundado reexame probatório, o que não é possível na via do habeas corpus.
+4. O Tribunal local analisou a apelação criminal sem fazer qualquer menção à possível aplicação do art. 580 do Código de Processo Penal, em relação ao ora Agravante, de modo que tal questão não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância. Ademais, a análise de pedido de extensão compete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende.
+5. Agravo regimental desprovido."
+Desse modo, encontra-se prejudicada a análise do recurso especial, pois "a análise anterior das matérias objeto do recurso especial nos autos de habeas corpus impetrado com idênticos fundamentos e pedidos implica perda de interesse recursal e prejudicialidade da pretensão recursal" (AgRg no AREsp n. 2.186.312/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/09/2022, DJe 04/10/2022).
+Ante o exposto, JULGO PREJUDICADO o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. MATÉRIA DECIDIDA NO JULGAMENTO DO HC N. 802.725/MG. RECURSO ESPECIAL PREJUDICADO.
