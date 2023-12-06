@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interno interposto por ZHM EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (ZHM), contra decisão da Presidência desta Corte, assim redigida:
+Mediante análise do recurso de ZHM EMPREENDIMENTOS IMOBILIÁRIOS LTDA, a parte recorrente foi intimada do acórdão recorrido em 17/04/2020, sendo o recurso especial interposto somente em 03/06/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, §5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Ainda, a parte recorrente foi intimada da decisão agravada em 15/07/2020, sendo o agravo somente interposto em 17/08/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, §5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil. (e-STJ, fl. 734)
+Nas razões do presente agravo interno, ZHM alega que EQUATORIAL combate a aplicação da Súmula nº 7/STJ alegando que (1) tempestivos o recurso especial, em razão das suspensões de prazo ocorridas em razão da pandemia de COVID-19 e o agravo em recurso especial, razão da intimação eletrônica ocorrida em 27.7.2020 (e-STJ, fl. 766).
+Foi apresentada impugnação (e-STJ, fls. 770/774).
+É o relatório.
+Reconsideração da decisão agravada
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 734/735 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 701/705, pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça do Rio de Janeiro (TJRJ), assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR.
+EMPREENDIMENTO IMOBILIÁRIO. COMPROMISSO DE COMPRA E VENDA. RESCISÃO DA AVENÇA. SENTENÇA DE TOTAL IMPROCEDÊNCIA DA DEMANDA PRINCIPAL E DE PARCIAL PROCEDÊNCIA DA RECONVENÇÃO, PARA DECLARAR A RESCISÃO DO CONTRATO POR CULPA DOS COMPRADORES, O PERDIMENTO DAS ARRAS E A RETENÇÃO DE 20% DOS DEMAIS VALORES PAGOS.
+APELO DOS AUTORES, PUGNANDO, EM PRELIMINAR, PELA REJEIÇÃO DA IMPUGNAÇÃO AO VALOR DA CAUSA.
+NO MÉRITO, DEFENDEM A MORA DA RÉ NA ENTREGA DAS CHAVES, ANTE A EXISTÊNCIA DE CLÁUSULAS CONTRATUAIS CONFLITANTES ACERCA DO PRAZO PARA CONCLUSÃO DAS OBRAS. REQUEREM O RECONHECIMENTO DO DIREITO À RESCISÃO DO CONTRATO, IMPUTANDO-SE À RÉ A CULPA PELA RESCISÃO E, COMO CONSEQUÊNCIA, A DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS. AFIRMAM QUE O PERCENTUAL DE RETENÇÃO FIXADO EM 20% EM CUMULO COM O PERDIMENTO DAS ARRAS PERFAZ UMA RETENÇÃO QUE ULTRAPASSA 40% DOS VALORES PAGOS. PLEITEIAM A REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. APELA DA RÉ PUGNANDO PELA CONDENAÇÃO DOS AUTORES AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, EM RELAÇÃO À RECONVENÇÃO, ANTE A TOTAL PROCEDÊNCIA DOS PEDIDOS. ACOLHIDA A PRELIMINAR DE APELAÇÃO TRAZIDA PELOS AUTORES.
+IMPUGNAÇÃO AO VALOR DA CAUSA QUE SE REJEITA.
+IMPOSSIBILIDADE DE QUE SE CONSIDERE O VALOR DO CONTRATO COMO PARÂMETRO PARA FIXAÇÃO DO VALOR DA CAUSA, UMA VEZ QUE A JURISPRUDÊNCIA ENTENDE QUE ESTA DEVE SER MENSURADA CONFORME O PROVEITO ECONÔMICO. NO MÉRITO, MERECE PARCIAL REFORMA A SENTENÇA. POSSIBLIDADE DE RESCISÃO DA AVENÇA, ANTE A MANIFESTA VONTADE DOS AUTORES EM NÃO MAIS PROSSEGUIR COM A RELAÇÃO JURÍDICA. IMPOSSIBILIDADE DE SE COMPELIR AS PARTES A PERMANECER CONTRATADAS. DIREITO À RESCISÃO DO CONTRATO PELA PARTE AUTORA QUE DEVE SER RECONHECIDO. MORA DA RÉ NÃO CONFIGURADA. ÚNICA DISPOSIÇÃO CONTRATUAL DIRECIONADA À ESTIPULAÇÃO DO PRAZO PARA ENTREGA DAS CHAVES QUE PREVÊ COMO ABRIL DE 2014, ACRESCIDO DE 180 DIAS, O LIMITE PARA CONCLUSÃO DO EMPREENDIMENTO. VALIDADE DA CLÁUSULA DE TOLERÂNCIA. INCONTROVERSO QUE EM OUTUBRO DE 2014 AS CHAVES SE ENCONTRAVAM DISPONÍVEIS AOS AUTORES. OBSERVÂNCIA PELA RÉ DO PRAZO CONTRATUALMENTE PREVISTO PARA ENTREGA DAS CHAVES. RESCISÃO DO CONTRATO POR INICIATIVA DOS COMPRADORES, SEM CULPA DA VENDEDORA.
+BOA-FÉ OBJETIVA QUE DEVE PERMEAR TODAS AS FASES CONTRATUAIS. A BOA-FÉ OBJETIVA SERVE COMO LIMITAÇÃO CONTRA OS ABUSOS DE DIREITO E IMPÕE A ADOÇÃO DE CONDUTA COMPATÍVEL COM PADRÕES SOCIAIS DE LISURA, HONESTIDADE E CORREÇÃO.
+APLICÁVEL À ESPÉCIE ENTENDIMENTO DO STJ DE QUE A DESISTÊNCIA DO COMPRADOR RENDE AO PROMITENTE VENDEDOR O DIREITO DE RETER ATÉ 25% DOS VALORES PAGOS. EXAMINANDO O CONTEXTO FÁTICO- PROBATÓRIO DOS AUTOS E UTILIZANDO ESSES PARÂMETROS DE RESTITUIÇÃO QUE VÊM SENDO ESTABELECIDOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA E POR ESTE TRIBUNAL DE JUSTIÇA TEM-SE COMO RAZOÁVEL E PROPORCIONAL A RETENÇÃO DE 20% SOBRE A IMPORTÂNCIA EFETIVAMENTE PAGA PELOS CONSUMIDORES, REVELANDO-SE ABUSIVA CLÁUSULA CONTRATUAL DISPONDO EM SENTIDO CONTRÁRIO, PRECEDENTE. IMPOSSIBILIDADE DE RETENÇÃO INTEGRAL DAS ARRAS, DIANTE DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. O PERCENTUAL A SER DEVOLVIDO TEM COMO BASE DE CÁLCULO TODO O MONTANTE VERTIDO PELO PROMITENTE-COMPRADOR (RESP 1056704/MA. RELATOR MINISTRO MASSAMI UYEDA, TERCEIRA TURMA. DJ 28/04/2009 DJE 04/08/2009). SUCUMBÊNCIA RECÍPROCA RECONHECIDA NA DEMANDA PRINCIPAL. INABALADA A CONDENAÇÃO DA RÉ RECONVINTE NAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, NO QUE TOCA À RECONVENÇÃO, EM RAZÃO DOS PRINCÍ PIOS DA SUCUMBÊNCIA E DA CAUSALIDADE. A REFERIDA CONDENAÇÃO É A CONSEQUÊNCIA IMPOSTA À PARTE VENCIDA OU ÀQUELE QUE DEU CAUSA À PROPOSITURA DA DEMANDA. NEGATIVA DA RÉ EM RESCINDIR O CONTRATO E DEVOLVER PARCIALMENTE OS VALORES VERTIDOS PELOS COMPRADORES. RECURSO DA RÉ DESPROVIDO. PARCIAL PROVIMENTO AO APELO DOS AUTORES. (e-STJ, fls. 603/605)
+Os embargos de declaração opostos por ZHM foram rejeitados (e-STJ, fls. 631/633 e 635/643).
+Irresignada, ZHMJSL interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação do art. 492, afirmando que (1) houve julgamento ultra/extra petita, porque a rescisão contratual requerida amparava-se no seu inadimplemento, o que não comprovado.
+O recurso não foi admitido pelo Tribunal estadual.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) julgamento ultra/extra petita
+O Tribunal de origem, ao julgar os embargos de declaração, concluiu que não caracterizado julgamento ultra ou extra petita, afirmando que:
+A leitura da exordial revela patente a pretensão da parte autora de rescindir o contrato de promessa de compra e venda objeto da demanda, a qual, inclusive, intitulou "ação de rescisão contratual c/c devolução de quantias pagas e indenizatória com pedido de tutela antecipada".
+ ..
+Nesse diapasão, formulou a parte autora pedido expresso de rescisão do contrato de promessa de compra e venda, sem que se veja limitação quanto ao desejo de rescindir a avença apenas na hipótese de restar reconhecido inadimplemento por parte da ré.
+ ..
+Ademais, não se vislumbra da narrativa constante da inicial intenção da parte autora de prosseguir no negócio jurídico, ainda que não verificada culpa da ré pelo desfazimento do contrato. Ao revés, a parte autora, seguramente com receio de não obter o provimento rescisório, utiliza como argumento de reforço fato que entende caracterizar a mora da ré na entrega do empreendimento imobiliário, o que, igualmente, fundamenta o pedido de ressarcimento integral dos valores pagos.
+Destarte, não há falar em inexistência de pedido de rescisão desvinculado do reconhecimento do inadimplemento contratual por parte da ré.
+Isso porque, o princípio da boa-fé na interpretação do pedido impõe a conclusão de que os autores, acima de tudo, não desejavam prosseguir na avença. (e-STJ, fls. 640/641)
+Acrescente-se, ademais, que a conclusão adotada na origem se encontra em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que não configurado julgamento citra, extra ou ultra petita quando o julgador examina pedido apresentado pelo autor e, mediante intepretação lógico-sistemática do recurso, o decide. Nessa direção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. ART. 833, X, DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. SUBSISTÊNCIA DIGNA. JULGAMENTO ALÉM O PEDIDO. INOCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A impenhorabilidade da verba de natureza salarial ou remuneratória é restrita à parcela suficiente à preservação da dignidade do devedor e de sua família.
+2. Não há julgamento extra, infra ou ultra petita quando o órgão julgador decide, a partir de uma interpretação lógico-sistemática dos pedidos, dentro dos limites objetivos da pretensão inicial, respeitando o princípio da congruência (AgInt no REsp n. 1.329.383/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022).
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.149.395/SP, de minha relatoria, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula 568 do STJ.
+Nessas condições, CONHEÇO o agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ELISA ELBA CARRANZA DE REARTE e outro, limitados a 20%, nos termos do art. 85, § 11, do CPC, ficando suspensa a exigibilidade em caso de gratuidade da justiça (artigo 98, § 3º, CPC)
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESIDÊNCIA. NÃO CONHECIMENTO. RECONSIDERAÇÃO. RECURSO ESPECIAL. JULGAMENTO ULTRA/EXTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. NÃO PROVIMENTO.
