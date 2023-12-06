@@ -18,8 +18,8 @@ III - integrantes de áreas de interesse turístico, incluídas cidades litorân
 § 2º Nos Municípios sem sistema de transporte público coletivo ou individual, o Plano de Mobilidade Urbana deverá ter o foco no transporte não motorizado e no planejamento da infraestrutura urbana destinada aos deslocamentos a pé e por bicicleta, de acordo com a legislação vigente.
 § 3º (Revogado).
 § 4º O Plano de Mobilidade Urbana deve ser elaborado e aprovado nos seguintes prazos:
-I - até 12 de abril de 2022, para Municípios com mais de 250.000 (duzentos e cinquenta mil) habitantes;
-II - até 12 de abril de 2023, para Municípios com até 250.000 (duzentos e cinquenta mil) habitantes.
+I - até 12 de abril de 2024, para Municípios com mais de 250.000 (duzentos e cinquenta mil) habitantes; e
+II - até 12 de abril de 2025, para Municípios com até 250.000 (duzentos e cinquenta mil) habitantes.
 § 5º O Plano de Mobilidade Urbana deverá contemplar medidas destinadas a atender aos núcleos urbanos informais consolidados, nos termos da Lei nº 13.465, de 11 de julho de 2017.
 § 6º (VETADO).
 § 7º A aprovação do Plano de Mobilidade Urbana pelos Municípios, nos termos do § 4º deste artigo, será informada à Secretaria Nacional de Mobilidade e Serviços Urbanos do Ministério do Desenvolvimento Regional.
