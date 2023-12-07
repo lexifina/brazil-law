@@ -1,0 +1,18 @@
+DECISÃO
+MARCOS ANTONIO SILVA DE ARAUJO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Execução Penal n. 0004354-91.2023.8.26.0154.
+Neste writ, a defesa requer, liminarmente e no mérito, o afastamento da necessidade de realização de exame criminológico para o deferimento do livramento condicional. Para tanto, aponta violação da Súmula n. 439 do STJ.
+Decido.
+O Juízo de origem, assim deferiu o pedido:
+Neste caso, conforme cálculo às fls. 155/156, o sentenciado alcançou, objetivamente, direito ao livramento condicional, e não recebeu parecer desfavorável na avaliação realizada, conforme boletim informativo, atestado comprobatório de comportamento carcerário e atestado firmado, em especial, pelo diretor da unidade, dando conta de boa conduta carcerária (fl. 20, grifei).
+A Corte deu provimento ao agravo ministerial, nos seguintes termos:
+De outra parte, a prévia submissão do sentenciado a exames busca a comprovação da cessação ou atenuação de periculosidade. É medida de bom senso, ainda que a legislação fosse omissa, porque ninguém irá colocar na sociedade indivíduo perigoso, apenas porque tem bom comportamento no estabelecimento prisional.
+E, no caso concreto, o exame criminológico era necessário porque o sentenciado ostenta claríssima periculosidade. Verifica-se que ele foi condenado pela prática de crime de roubo majorado, oportunidade em que se uniu a outros dois indivíduos para, com divisão de tarefas, subtrair um veículo mediante grave ameaça exercida com emprego de objeto que aparentava ser uma arma de fogo (páginas 69/79 do processo nº 0002734-78.2022.8.26.0154). (fl. 30, destaquei).
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, sem a demonstração de prática de falta grave recente. A propósito, da leitura da guia de execução do paciente, não consta a prática de falta grave (fl. 17).
+Sobre a matéria suscitada, o entendimento desta Corte Superior é firme no sentido de que " a  decisão que retarda a concessão do livramento condicional ao paciente, condicionando a benesse à realização de exame complementar, com laudo psiquiátrico, configura constrangimento ilegal, sobretudo porque existe no exame já realizado, parecer favorável. Precedentes" (HC n. 399.139/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 30/10/2017, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de restabelecer a decisão de primeiro grau, que deferiu o livramento condicional.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
