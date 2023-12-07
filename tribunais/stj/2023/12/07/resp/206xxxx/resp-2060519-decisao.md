@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial manejado por LUZIA PEREIRA GAMA DA CRUZ, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 333):
+PREVIDENCIÁRIO. CONSTITUCIONAL. REVISÃO DE BENEFÍCIO. DECADÊNCIA E PRESCRIÇÃO. ALTERAÇÃO DO TETO DE CONTRIBUIÇÃO. APLICAÇÃO RETROATIVA AOS BENEFÍCIOS CONCEDIDOS ANTES DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. POSSIBILIDADE. JURISPRUDÊNCIA DO STF EM SEDE DE REPERCUSSÃO GERAL. COMPLEMENTAÇÃO DE APOSENTADORIA. FUNDAÇÃO PETROS DE SEGURIDADESOCIAL. APURAÇÃO DAS DIFERENÇAS DEVIDAS. RESSALVA DA POSSIBILIDADE DE EXECUÇÃO VAZIA. CORREÇÃO MONETÁRIA. APELAÇÃO PARCIALMENTE PROVIDA.
+1. A sentença foi proferida sob a égide do NCPC e, assim, a hipótese não enseja o reexame obrigatório (art. 496, § 3º, I), tendo em vista que a condenação imposta ao INSS não tem o potencial de ultrapassar 1.000 (mil) salários-mínimos. De consequência, a controvérsia remanescente nos autos fica limitada à matéria objeto do recurso.
+2. Não se discutindo o critério de cálculo ou de revisão do ato concessório do benefício, mas sim o limitador a incidir sobre o cálculo incontroverso, a natureza da causa é meramente declaratória e condenatória, e não (des)constitutiva, de modo que incide, na espécie, apenas o prazo prescricional e não decadencial.
+3. A prescrição atinge as prestações anteriores ao quinquênio que antecedeu o ajuizamento da ação, nos termos do enunciado da Súmula 85 do STJ. Hipótese de não incidência do tema 1005do STJ (já decidido, em 23/06/2021, DJe 01/07/2021, e aguardando o trânsito em julgado).
+4. A pretensão de se obter o reajuste do benefício concedido antes da EC 20/98 e da EC 41/03,de acordo com os novos tetos nelas estabelecidos, encontra-se em perfeita sintonia com a jurisprudência dos Tribunais e do colendo Supremo Tribunal Federal.
+5. O Pleno do Supremo Tribunal Federal, em sede de repercussão geral, quando do julgamento
+do RE nº 564.354, reconheceu que "não ofende o ato jurídico perfeito a aplicação imediata do art.14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional". (RE nº564354, Relatora Ministra Carmen Lúcia, Tribunal Pleno, DJe 15/02/2011)
+6. Posteriormente, o Plenário Virtual do STF, no RE 937.595, também em sede de repercussão geral, decidiu que a readequação e/ou recomposição dos tetos pelas emendas Constitucionais nºs 20/98 e 41/03 deve ser realizada de acordo com o caso concreto, de modo a não excluir benefícios deferidos no período do buraco negro. (RE 937595 RG, Relator(a): ROBERTOBARROSO, Tribunal Pleno, julgado em 02/02/2017, PROCESSO ELETRÔNICOREPERCUSSÃO GERAL - MÉRITO DJe-101 DIVULG 15-05-2017 PUBLIC 16-05-2017)
+7. Somente após a elaboração de cálculos específicos, que devem seguir os parâmetros já definidos pelo Supremo Tribunal Federal, no julgamento do RE 564.354, poder-se-á verificar eventual alteração nos valores.
+8. Os efeitos da declaração do direito ora reconhecido somente terão repercussão de cunho condenatório se na execução da sentença ficar demonstrado que, após as correções efetivadas no valor do benefício, ele ainda superava o teto existente quando da edição da EC 20/98 e da EC41/2003, podendo, se for o caso, não gerar atrasados.
+9. Considerando que a parte apelada recebe complementação de benefício paga pela PETROS -Fundação Petrobrás de Seguridade Social, qualquer incremento que venha a receber no benefício previdenciário de que é titular, em decorrência de eventual determinação judicial de revisão, importará, como consequência lógica, na redução, em valores correspondentes, da complementação paga pela entidade de previdência privada.
+10. Nestes termos, "a parte autora só terá direito às diferenças decorrentes da revisão ora reconhecida se, após a sua implantação com a elaboração dos cálculos correspondentes, ficar comprovado que o benefício previdenciário revisado resultará, por si só, em valor superior ao que vem sendo pago com a inclusão da complementação devida pela PETROS - Fundação Petrobrás de Seguridade Social, e, nesse caso, eventual acerto de contas entre o INSS e a entidade privada deverá ser realizado na via própria". Precedentes desta Turma: AC 0035245-76.2015.4.01.3300,Rel. convocado: Juiz Federal Hermes Gomes Filho. SEGUNDA TURMA, PJe 05/03/2020 PAG.
+11. Atrasados: a correção monetária deve observar o novo regramento estabelecido pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do RE870.947/SE. Juros e correção monetária conforme Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+12. Os honorários de advogado ficam majorados em 1% (um por cento), a teor do disposto no art.85, §§ 2º, 3º e 11, do NCPC.
+13. Apelação do INSS parcialmente provida (item 10).
+Opostos embargos de declaração, foram rejeitados (fl. 403)
+Aponta a recorrente, além de divergência jurisprudencial, violação ao art. 926 do CPC, na medida em que o " Acórdão condicionou a apuração de futuros valores devidos pelo Recorrido, compensando estes, com supostos complementos de pagamentos que por ventura teriam sido efetuados por algum plano de previdência privada para a Recorrente" (fl. 442).
+Aduz que, "Considerando que na presente ação se busca a revisão do benefício previdenciário, cuja relação jurídica se restringe apenas a Recorrente e ao INSS, não se tratando, em momento algum, da complementação da Petros, eventual acerto de contas entre o INSS e a referida entidade de previdência privada deverá ocorrer, se for o caso, na via processual própria e não em um futuro cumprimento de sentença neste processo" (fl. 443).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Observa-se que, o Tribunal de origem não examinou a controvérsia sob o enfoque do dispositivo legal apontado como violado, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017)
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA
+DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em
+09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para
+desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º,
+do Código de Processo Civil de 2015 em razão do mero desprovimento do
+Agravo Interno em votação unânime, sendo necessária a configuração da
+manifesta inadmissibilidade ou improcedência do recurso a autorizar sua
+aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1682293/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
