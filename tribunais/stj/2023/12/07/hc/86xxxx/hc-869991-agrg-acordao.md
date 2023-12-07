@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS, POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO, RESISTÊNCIA E LESÃO CORPORAL. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE TERATOLOGIA OU DE MANIFESTA ILEGALIDADE. MANUTENÇÃO DA DECISÃO INDEFERITÓRIA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática em que se indefere liminarmente o writ impetrado contra decisão monocrática de relator que indeferiu medida de urgência em habeas corpus originário, quando não evidenciada teratologia ou ilegalidade manifesta.
+2. No caso, o Desembargador relator do writ originário simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal.
+3. Agravo regimental improvido.
+RELATÓRIO
+Por intermédio de decisão monocrática, a Presidência desta Corte indeferiu liminarmente o habeas corpus impetrado em favor de Wesley dos Santos Schmith - preso preventivamente pela suposta prática dos delitos previstos no art. 33, caput, da Lei n. 11.343/2006, art. 12 da Lei n. 10.826/2003, art. 129, § 12, e art. 329, § 2º, ambos do Código Penal (Autos n. 0000880-52.2023.8.08.0045) -, ao fundamento de que não há ilegalidade flagrante na decisão proferida na origem, circunstância indispensável à superação do enunciado Sumular 691/STF.
+Inconformada, a defesa interpôs agravo regimental, reiterando as alegações apresentadas na inicial do writ.
+Aduz, inicialmente, a possibilidade de afastar a incidência da Súmula 691/STF, apontando a ausência de fundamentação idônea para a decretação da prisão preventiva, que estaria baseada na gravidade abstrata do delito.
+Argumenta que não estão presentes os requisitos para a constrição cautelar, destacando que a quantidade de droga apreendida não é expressiva e que o paciente possui condições pessoais favoráveis.
+Postula, então, a reconsideração da decisão ou a submissão do recurso à apreciação do colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS, POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO, RESISTÊNCIA E LESÃO CORPORAL. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE TERATOLOGIA OU DE MANIFESTA ILEGALIDADE. MANUTENÇÃO DA DECISÃO INDEFERITÓRIA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática em que se indefere liminarmente o writ impetrado contra decisão monocrática de relator que indeferiu medida de urgência em habeas corpus originário, quando não evidenciada teratologia ou ilegalidade manifesta.
+2. No caso, o Desembargador relator do writ originário simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal.
+3. Agravo regimental improvido.
+VOTO
+A despeito das alegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Reitere-se que as Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado no enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo as hipóteses de inquestionável teratologia ou de ilegalidade manifesta.
+Ora, o relator do prévio writ, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal.
+No caso, inclusive, o decisum singular prolatado pelo eminente Relator explicitou o seguinte (fls. 33/34 - grifo nosso):
+Como se sabe, necessário se faz para o acolhimento da liminar pretendida que estejam presentes os requisitos autorizadores da medida, quais sejam, o fumus boni iuris e o periculum in mora, sendo certo que a ausência de apenas um deles, haja vista serem necessariamente cumulativos, importa a invariável rejeição do pleito.
+Diante disso, entendo que, em sede de cognição sumária, com base nos elementos constantes dos autos, o deferimento da medida liminar não se mostra a medida mais adequada e prudente. No caso em apreço, o Paciente foi preso em flagrante, após policiais militares, em cumprimento de mandado de busca e apreensão, encontrarem o paciente no imóvel objeto da diligência que empreendeu fuga, empurrando os agentes policiais, iniciando uma perseguição.
+Narram os autos, ainda, que o acusado entrou em luta corporal com os militares para retirar sua arma e acabou lesionando um agente policial. Foram encontrados no local dos fatos uma porção de substância análoga a maconha, balança de precisão, um revólver de marca Taurus calibre .38,nº de série 281749, municiado com 06 cartuchos intactos e 03 munições do mesmo calibre intactas.
+Assim, longe de pretender avançar no mérito da ação penal originária, estando presentes a provada materialidade e indícios suficientes de autoria, não é viável, neste momento, imiscuir na questão da alegada negativa de autoria, uma vez que "a via estreita ora tratada não é adequada para debater de forma aprofundada as questões relacionadas ao mérito da ação penal, como a autoria delitiva do crime imputado ao paciente na peça acusatória" (TJES, Classe: Habeas Corpus Criminal, 100210046890, Relator: ELISABETH LORDES, Órgão julgador: PRIMEIRACÂMARA CRIMINAL, Julgamento: 27/10/2021, Publicação: 08/11/2021).
+Ademais, a referida prisão cautelar é necessária para garantir a ordem pública, diante da gravidade concreta do delito, considerando que foram apreendidas junto ao entorpecente, balança de precisão, arma de fogo e munições, o que poderia indicar que o paciente se dedica à atividade criminosa, consoante a jurisprudência do C. STJ (AgRg no AgRg no HC n. 613.653/MS,relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de30/9/2022).
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+Ante o expo sto, nego provimento ao agravo regimental.
