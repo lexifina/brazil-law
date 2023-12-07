@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LÚCIO SANTANA ESTEVAM MACHADO à decisão de fls. 1260/1261 , que não conheceu do recurso.
+Sustenta a parte embargante que:
+Caracteriza-se contradição na Decisão, uma vez que, o pedido de gratuidade foi formulado no recurso especial, em fls. 890/914. Logo, o embargante está dispensado do recolhimento do preparo, é o que diz o art. o art. 99, §7º  ..
+ ..
+Como se vê, a Decisão que não conhece o agravo em recurso especial, em razão do embargante não ter recolhido o preparo, afronta o art. 99, §7º do CPC, já que há pedido de gratuidade de justiça formulado no respectivo recurso, cuja atribuição pertence ao ministro relator, que irá apreciar o requerimento e, se indeferi-lo, irá intimar o recorrente/ embargante para o recolhimento (fl. 1266)
+ ..
+Dessa forma, não cabe ao Tribunal Local, em sede de admissibilidade, apreciar pedido de gratuidade de justiça formulado no recurso especial, cuja atribuição pertence ao relator (Ministro) do recurso (especial) conforme parte final do §7º, art. 99 do CPC.
+ ..
+Outro ponto controvertido da Decisão, é no que tange a Súmula 187 do STJ.  ..  Se diz que há contradição neste ponto da Decisão, uma vez que, trata-se de processo eletrônico. Logo é dispensado o pagamento das despesas de remessa e retorno dos autos. Base Legal: Art. 1.007, §3º do CPC. (fl. 1267).
+ ..
+ ..  há omissão na decisão, pois não houve pronunciamento desta respeitável relatoria, a respeito do pedido de suspensão do agravo em recurso especial, em razão do TEMA nº 1.178 do STJ, REsp: 1.988687/RJ, que trata dos critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça (fl. 1268).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se inicialmente, que ao contrário do alegado pela parte, a análise do pedido de gratuidade de justiça se insere na competência do tribunal de origem. Esse, inclusive, é o entendimento desta Corte Superior.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DA COMPETÊNCIA DO STJ. NÃO OCORRÊNCIA. RECONHECIMENTO, IN LIMINE. PEDIDO DE BENEFÍCIO DA GRATUIDADE DE JUSTIÇA, FEITO POR OCASIÃO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. INDEFERIMENTO, PELA PRESIDÊNCIA DA CORTE ESTADUAL, DETERMINANDO QUE A PARTE RECORRENTE APRESENTE O PREPARO NO PRAZO DE 5 (CINCO) DIAS, SOB PENA DE DESERÇÃO. INTERPOSIÇÃO DE RECURSO, DENOMINADO DE AGRAVO EM RECURSO ESPECIAL, NÃO CONHECIDO NA ORIGEM. INDEFERIMENTO DO PEDIDO DA GRATUIDADE DE JUSTIÇA QUE SE INSERE NA COMPETÊNCIA DO TRIBUNAL DE ORIGEM, AO RECEBER O RECURSO ESPECIAL. AUSÊNCIA DE DECISÃO, POR ORA, QUE NÃO ADMITA O RECURSO ESPECIAL, A AUTORIZAR O MANEJO DE AGRAVO EM RECURSO ESPECIAL DA COMPETÊNCIA DESTA CORTE DE JUSTIÇA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. PRETENSÃO DE APLICAÇÃO AUTOMÁTICA DA MULTA PREVISTA NO ART. 1.021, § 4º, do NCPC. DESCABIMENTO. GRAVO INTERNO IMPROVIDO. - grifo nosso.
+(AgInt nos EDcl na Rcl 39.616/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 03/08/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA. GRATUIDADE DE JUSTIÇA. PEDIDO DE CONCESSÃO.INDEFERIMENTO. PREPARO. ABERTURA DE PRAZO. DESERÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta do recolhimento do preparo não autoriza o tribunal local a decretar a deserção do recurso sem que haja prévia manifestação acerca do pedido de gratuidade de justiça. Na hipótese de denegação do pedido, deve ser possibilitada a abertura de prazo para o recolhimento do preparo.
+3. No caso concreto, a recorrente requereu o benefício e não realizou o devido preparo, mesmo após o indeferimento do pedido e a concessão do prazo de 5 (cinco) dias para sua regularização. Dessa forma, não há como conhecer do recurso especial ante a ocorrência de deserção (Súmula nº 187/STJ).
+4. Agravo interno não provido. (AgInt no AREsp 1523905/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 06/12/2019.)
+Outrossim, não se exigiu do recorrente o recolhimento do porte de remessa e retorno dos autos, pois conforme preceitua o art. 1.007, §3º do CPC, essa verba não será exigida nos processos eletrônicos. A única verba exigida, na hipótese, foram as custas devidas ao STJ.
+No mais, verifica-se que o mérito do recurso especial de fls. 890/914, recurso a ser analisado por esta Corte Superior, ao contrário do que sugere a parte embargante, não é a gratuidade de justiça, e sim a Lei de Inquilinato, assim não há que se falar na suspensão do processo em razão do Tema 1.178 do STJ.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
