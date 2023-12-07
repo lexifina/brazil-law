@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. AUSÊNCIA DE DIREITO SUBJETIVO DO RÉU EM OPTAR POR MODALIDADE DE PENA ALTERNATIVA. OMISSÃO INEXISTENTE. MERA REDISCUSSÃO DA CAUSA. PEDIDO DE SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando no julgado houver ambiguidade, obscuridade, contradição ou omissão.
+2. Não há falar em omissão na decisão embargada, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que, conforme a jurisprudência desta Corte, não existe direito subjetivo do réu em optar, na substituição da pena privativa de liberdade, se prefere duas penas restritivas de direitos ou uma restritiva de direitos e uma multa, bem como no sentido de que, se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal, como no caso.
+3. Outrossim, conforme pontuou a Corte de origem no julgamento dos embargos de declaração, "em que pese a defesa tenha alegado que tal pena o prejudicaria, pois tem que sair aos finais de semana para trabalhar, não colacionou aos autos qualquer documento que o comprove" (fl. 315).
+4. "O cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994" (EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe 28/6/2022)" (AgRg no AREsp n. 2.144.230/MG, Quinta Turma, rel. Min. Reynaldo Soares da Fonseca, DJe de 19/9/2022.)
+5. Não se prestam os embargos de declaração à rediscussão do julgado com o fim de modificar a sua conclusão.
+6. Embargos de declaração rejeitados.
+A parte recorrente alega a ocorrência de ofensa ao art. 5º, XXXV, LIV, e LV, da Constituição Federal e afirma que a matéria debatida seria dotada de repercussão geral.
+Sustenta, em suma, que o julgado combatido teria incorrido em cerceamento de defesa em razão da não oportunização de sustentação oral do patrono.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Foram apresentadas contrarrazões.
+É o relatório.
+Vale consignar, inicialmente, que o Supremo Tribunal Federal pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+É a compreensão vinculante da Suprema Corte, estabelecida em regime de repercussão geral, no Tema n. 660:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Outrossim, ao apreciar o Tema de Repercussão Geral n. 895, o STF fixou a seguinte tese de observância obrigatória:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, relatora Ministra Ellen Gracie, DJe de 13/3/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso, a aferição da existência da apontada ofensa aos incisos XXXV, LIV e LV do art. 5º da Constituição Federal depende da análise do Regimento Interno do Superior Tribunal de Justiça sobre as circunstâncias discutidas no acórdão recorrido, motivo pelo qual incidem, na espécie, os Temas n. 660 e 895 do STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. AFRONTA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. EXISTÊNCIA DE ÓBICE AO EXAME DE MÉRITO, DEBATE FÁTICO OU OFENSA CONSTITUCIONAL INDIRETA. TEMA N. 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
