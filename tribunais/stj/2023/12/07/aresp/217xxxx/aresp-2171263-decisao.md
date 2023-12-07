@@ -1,0 +1,35 @@
+DECISÃO
+Em exame, agravo interposto pelo MUNICIPIO DE ITAJA em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (e-STJ, Fl. 157):
+REMESSA NECESSÁRIA. AÇÃO ORDINÁRIA. INEXISTÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. PRESTAÇÃO DE TRATO SUCESSIVO. PREJUDICIAL QUE ATINGE APENAS AS PARCELAS VENCIDAS NO QUINQUÊNIO ANTERIOR AO AJUIZAMENTO DA DEMANDA. SERVIDORA PÚBLICA DO MUNICÍPIO DE ITAJÁ/RN. OCUPANTE DE CARGO EFETIVO DE PROFESSORA APÓS APROVAÇÃO EM CONCURSO PÚBLICO. PROGRESSÃO FUNCIONAL. PREENCHIMENTO DOS REQUISITOS LEGAIS. AVALIAÇÃO DE DESEMPENHO. INÉRCIA DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE PREVISÃO LEGAL ACERCA DE VINCULAÇÃO DA PROMOÇÃO À EXISTÊNCIA DE CARGOS VAGOS. DIFERENÇAS REMUNERATÓRIAS PRETÉRITAS DEVIDAS. SENTENÇA MANTIDA. CONHECIMENTO E DESPROVIMENTO DA REMESSA NECESSÁRIA.
+Os embargos de declaração opostos não foram conhecidos ante sua intempestividade (e-STJ, Fls. 195-198).
+Nas razões do recurso especial, a parte recorrente aponta violação aos artigos 75, III, c/c 183, §1º, do CPC/2015 e 2º, §1º, do Decreto-Lei n. 4.657/42.
+Sustenta, preliminarmente, a nulidade do acórdão proferido em embargos de declaração, ante a ausência de intimação válida do Município ora recorrente.
+No mérito, defende a inaplicabilidade de dispositivos já revogados pelo atual Plano de Cargos, Carreira e Remuneração dos Profissionais do Magistério do Sistema Público Municipal de Itajá/RN e, ignoraram a obrigatoriedade de requerer previamente a instação da comissão e sua promoção (e-STJ, Fl. 205).
+Sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (e-STJ, fls. 247-262).
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Com efeito, da atenta leitura do acórdão ora combatido, extrai-se que os dispositivos de lei apontados como supostamente ofendidos, não foram objeto de análise pela Corte Estadual. Portanto, em face da ausência de prequestionamento, revela-se inviável o seu conhecimento, nos termos das Súmulas 211 deste Superior Tribunal de Justiça e 282 e 356 do Supremo Tribunal Federal, aplicáveis por analogia.
+Ressalte-se que este Superior Tribunal de Justiça, ao interpretar o que estabelece o art. 1.025 do Código de Processo Civil de 2015, possui a orientação de que a configuração do prequestionamento ficto ocorre apenas nas hipóteses em que a parte recorrente, após opor embargos de declaração em face do acórdão recorrido, aponte, nas razões do recurso especial, ofensa ao art. 1.022 do mesmo diploma legal, de forma a viabilizar o exame da eventual existência de vício no acórdão recorrido e a averiguação da possibilidade de supressão da manifestação sobre a matéria pelo Tribunal de origem.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. SEGURO-GARANTIA. INEXECUÇÃO DO CONTRATO GARANTIDO. COBERTURA SECURITÁRIA. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E NA ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. TESE RECURSAL SOBRE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. (..)
+3. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o prequestionamento ficto previsto no art. 1025 do CPC/2015, pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial a violação ao art. 1022 do CPC/2015 por negativa de prestação jurisdicional, pois, somente dessa forma, é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Não cumpridos os requisitos exigidos para o reconhecimento do prequestionamento ficto, permanece perfeitamente aplicável, ainda na vigência do CPC/15, o óbice da Súmula n. 211/STJ.
+4. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.233.923/PE, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/4/2023, DJe de 17/4/2023, grifos nossos);
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AMBIENTAL. MULTA SIMPLES. PRÉVIA ADVERTÊNCIA. INEXISTÊNCIA DE OBRIGATORIEDADE. VIOLAÇÃO À LEI. PREQUESTIONAMENTO. INDISPENSABILIDADE. SÚMULA 211/STJ.
+AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015.
+PREQUESTIONAMENTO FICTO NÃO CARACTERIZADO.
+1. De acordo com a jurisprudência desta Corte Superior, para a validade da aplicação das multas administrativas previstas na Lei n. 9.605/1998, não há obrigatoriedade da prévia imposição de advertência.
+2. O Tribunal de origem não examinou a controvérsia sob o enfoque do art. 50 da Lei n. 9.784/1999, apontado como violado, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+3. Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1830188/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/12/2019, DJe 12/12/2019, grifos nossos).
+Contudo, no caso sob apreciação, a recorrente deixou de indicar eventual ofensa ao art. 1.022 do CPC/2015 no recurso especial, razão pela qual a análise da matéria permanece inviabilizada, por ausência de prequestionamento, requisito indispensável mesmo no que tange ao conhecimento das matérias de ordem pública.
+Portanto, inviável a pretensão da parte recorrente.
+Isso posto , CONHEÇO DO AGRAVO para, NÃO CONHECER DO RECURSO ESPECIAL.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. PREENCHIMENTO DOS REQUISITOS. INOCORRÊNCIA DE CITAÇÃO VÁLIDA DO ENTE PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS APONTADOS COMO OFENDIDOS. SÚMULAS 211/STJ E 282/STF. INCIDÊNCIA. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC/2015. NÃO CONFIGURAÇÃO. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015 NAS RAZÕES DO RECURSO ESPECIAL.
+AGRAVO CONHECIDO PARA, CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
