@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Lorena Ferreira de Souza contra o acórdão proferido pela Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo que denegou o Habeas Corpus n. 5009626-56.2023.8.08.0000, mantendo a prisão da recorrente, em razão de sentença condenatória proferida pelo Juízo da 3ª Vara C riminal de Vila Velha/ES pela prática do crime de tráfico de drogas.
+Neste recurso, sustenta a defesa, em síntese, a ausência de fundamentos para manter a prisão da recorrente.
+Pede, assim, o provimento do recurso para revogar a prisão, com a expedição do respectivo alvará de soltura.
+É o relatório.
+Busca a recorrente a revogação da prisão preventiva, mantida em razão de sentença condenatória proferida a seu desfavor pela prática do crime de tráfico de drogas.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+E, segundo o art. 387, § 1º, do Código de Processo Penal, o Juiz deve fundamentar a decretação ou a manutenção da custódia por ocasião da sentença condenatória. Dessa forma, deve ser demonstrada, nessa fase, com fundamento em dados concretos dos autos, a existência de pelo menos um dos fundamentos da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+No caso, o Juízo de primeiro grau, ao proferir a sentença condenatória, negou à recorrente o direito de recorrer em liberdade, nestes termos (fl. 37):
+ ..
+Considerando que a acusada esteve presa durante toda a instrução processual, por verificar ainda presentes os requisitos da custódia cautelar, eis que ausentes quaisquer alterações fáticas hábeis a infirmar a decisão que a decretou, bem como face o regime inicial de pena aplicado, não permito que recorra em liberdade, recomendando-a a estabelecimento prisional congênere ao regime inicial fixado para cumprimento da pena definitiva.
+O acórdão impugnado manteve tal entendimento, sob a seguinte fundamentação (fl. 119):
+ ..  A pretensão punitiva estatal foi julgada procedente na sentença ora impugnada, oportunidade em que o magistrado a quo manteve o cárcere preventivo "considerando que  a requerente  esteve presa durante toda a instrução processual,  e que  ainda presentes os requisitos da custódia cautelar, eis que ausentes quaisquer alterações fáticas hábeis a infirmar a decisão que a decretou".
+Em cotejo aos argumentos empregados, destaco que a medida em apreço é regida pela cláusula rebus sic stantibus, ou seja, inexistindo fato novo superveniente ao decreto da constritiva, deve-se optar por sua manutenção.
+Ademais, este E. Tribunal possui firme jurisprudência no sentido de que cabe mantê-la, em sentença condenatória, no caso de ré que permaneceu reclusa durante toda a instrução processual.
+Como se vê, o Juízo de primeiro grau, ao proferir a sentença condenatória, manteve a custódia, asseverando, tão somente, que persistiam os motivos e requisitos da preventiva (fl. 37), tendo o Tribunal local destacado que inexistindo fato novo superveniente ao decreto da constritiva, deve-se optar por sua manutenção (fl. 119).
+De mais a mais, infere-se dos autos que se trata de acusada primária, além da quantidade de droga apreendida - 85 buchas de "maconha", 131 pinos e 12 papelotes de "cocaína", 92 pedras de "crack" e 13 unidades de "haxixe" - , apesar de não ser considerada ínfima, não é expressiva a ponto de justificar a manutenção da segregação cautelar da recorrente.
+Ora, conforme reiteradamente decidido pelo Superior Tribunal de Justiça, ao decretar ou manter a prisão preventiva, cabe ao julgador vincular o seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie, como se vê dos trechos supratranscritos.
+Ante o exposto, dou provimento ao recurso para revogar a prisão preventiva decretada em desfavor da recorrente, na Ação Penal n. 0002325-96.2023.8.08.0048, em trâmite na 3ª Vara Criminal da comarca de Vila Velha/ES, determinando sua substituição por outras medidas cautelares previstas no art. 319 do Código de Processo Penal, a serem estabelecidas pelo Juízo de primeiro grau, a quem incumbirá a fiscalização e também a eventual decretação de nova prisão, em caso de descumprimento de qualquer uma das obrigações impostas ou por superveniência de motivos novos e concretos para tanto, nos termos do art. 312 do Código de Processo Penal.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. AUSÊNCIA DE FUNDAMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. CONSTRANGIMENTO ILEGAL NO PONTO.
+Recurso provido nos termos do dispositivo.
