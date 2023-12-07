@@ -1,0 +1,33 @@
+DECISÃO
+LEANDRO GONÇALVES DE OLIVEIRA opõe embargos de declaração contra o despacho de fl. 559.
+Aduz que o decisum é omisso, pois não houve prévia análise da tutela de urgência, tampouco foram apreciados os pedidos incidentais do writ.
+Requer seja sanado o vício indicado e concedida a liminar no habeas corpus, com a fixação de medidas cautelares diversas da prisão ao réu.
+Decido.
+Preambularmente, convém esclarecer que os embargos declaratórios são cabíveis tão somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão na decisão embargada. São inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do decisum, objetivam, em essência, o novo julgamento do caso.
+Na espécie, observo a existência de erro material no despacho ora impugnado, porquanto a petição de fls. 540-541 ainda não foi analisada.
+Passo, pois, ao exame da referida pretensão.
+Postula a defesa a concessão da tutela provisória de urgência, a fim de que seja substituída a custódia preventiva do paciente por providências alternativas, tal qual a decisão que concedeu a ordem, no mandamus conexo, em favor do coacusado Ivan Cláudio Cordeiro.
+Alega, em síntese, que há tempo excessivo de tramitação do feito, uma vez que "o paciente  foi  preso preventivamente em 30/03/23, denúncia oferecida em 03/07/23, defesas prévias (art. 55 da lei 11343) apresentadas em 14/10/23 (sem acesso à integralidade das provas) e denúncia recebida em 30/10/23" (fl. 540).
+Expõem os autos que, em 22/3/2023, o Magistrado da 22ª Vara Federal de Porto Alegre decretou a prisão preventiva de 15 investigados, no âmbito da Operação Hinterland (fls. 162-207).
+A ordem foi concedida, no HC n. 851.594/RS, em favor do corréu Ivan (fls. 530-535). Especificou o decisum que "IVAN CLAUDIO CORDEIRO  era o  contador responsável pela criação e manutenção de empresas, controle e realização de pagamentos, além de servir de "laranja" em algumas aquisições patrimoniais" (fl. 531, grifei). Ato seguinte, explicitou que IVAN "constituiu e gerenciou empresas fantasmas, ou de fachada, que tiveram suas contas utilizadas para movimentar valores ilícitos e adquirir bens para o traficante RODRIGO" (fl. 531). Ressaltou, "como fator determinante" daquela análise, que a "participação  de Ivan Claudio Cordeiro  no grupo criminoso não seria de destacada importância" (fl. 533, destaquei).
+Ao revés, em avaliação perfunctória - inerente a esta fase processual -, noto que a decisão prisional aponta o ora requerente, LEANDRO GONÇALVES DE OLIVEIRA, irmão de CÉSAR OLIVEIRA DE OLIVEIRA JÚNIOR, como um dos "responsáveis pelo transporte da droga a partir do complexo das empresas de CESAR" (fl. 165, grifei). Indica o Juízo singular que CÉSAR "é gerente executivo das operações de logística portuária" e, junto com os investigados RODRIGO e ANDRÉ, "capitane ia  a organização criminosa, compondo o primeiro escalão" (fl. 165).
+Ao que se observa, em um primeiro olhar, no caso 1, o decreto preventivo evidencia que LEANDRO foi uma das pessoas incumbidas de "acondicionar" os 316 kg de cocaína "e colocar a droga no contêiner", para posterior envio à Europa. Apesar da apreensão de somente 316 kg de substâncias ilícitas, em Hamburgo, pela polícia alemã, "Estima-se que o montante de droga enviado correspondia a 1,7 toneladas de cocaína" (fl. 170, destaquei).
+Em seguida, afirma o Magistrado que LEANDRO está envolvido, no caso 2, com a remessa da "carga de 2 toneladas de cocaína para a Holanda,  ..  acondicionada na carga lícita de carvão" mineral (fl. 171, grifei). Segundo o decisum, a operação logística, realizada no complexo CTIL/INTERSUL, de recebimento, guarda e preparo do entorpecente contou com LEANDRO para execução.
+O decreto ainda menciona o envolvimento de LEANDRO, em outras oportunidades, na preparação da droga para remessa à Europa. O caso 3 trata do destino de entorpecente à Holanda (fl. 172). Os casos 4 e 5 se referem ao encaminhamento à Bélgica de um contêiner com 13.600 kg e bolsas de viagem com 1.113 kg de cocaína - carga que "fazia parte de um total aproximado de 4 toneladas de cocaína", mas foi interceptada antes do envio (fls. 173-174, destaquei). O caso 6 "aborda a apreensão de 2.715 kg de cocaína, 250 kg de cafeína e 125 kg de lidocaína, no Município de Pelotas", que seriam enviados ao exterior (fl. 175, grifei). O caso "SKY ECC B" refere-se à "remessa de cocaína para Holanda, oculta em carga de tanino" (fl. 181, destaquei).
+Ao que se vê, portanto, em cognição sumária, a ordem prisional apresenta distinção entre as participações dos acusados, na prática delitiva. As atuações específicas de cada um no esquema criminoso afastam, ao menos por ora, a aplicação do disposto no art. 580 do CPP, in casu.
+Nesse sentido:
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE SIMILITUDE FÁTICA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 580 DO CPP. PEDIDO DE EXTENSÃO INDEFERIDO.
+1. A teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. A extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter fático e fundamentação idênticos.
+2. Ausente essa similitude, o atalho processual não pode ser usado com o propósito de obter a transcendência dos motivos determinantes da decisão, como se o julgado tivesse força vinculante similar à de um leading case.
+ ..
+4. Em relação ao interessado, os contornos da conduta são diferentes, pois há registro de apreensão de balança de precisão e quantidade substancial de cocaína em sua forma pura, de alto valor, maior potencial de dano à saúde e destinada à diluição, para posterior fracionamento.
+5. Ausente a similitude fática, o interessado deve deduzir a pretensão e buscar a revogação ou a substituição de sua prisão preventiva em impetração própria.
+6. Pedido de extensão indeferido.
+(PExt no RHC n. 185.641/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe de 13/11/2023.)
+Também não identifico, em averiguação preliminar, pelas razões expostas, manifesto constrangimento ilegal, a ser, de pronto, corrigido, salvo mais acurada avaliação no exame definitivo do habeas corpus.
+À vista do exposto, acolho os embargos de declaração, tão somente para sanar o erro material do despacho de fl. 559, e indefiro a tutela de urgência e o pedido liminar.
+Encaminhe-se cópia de ste decisum ao Juízo de primeiro grau. À ocasião, solicitem-se informações atualizadas da demanda e a eventual senha necessária à consulta dos andamentos processuais.
+Vindas as notícias, manifeste-se o Parquet Federal.
+Após, voltem conclusos.
+Publique-se e intimem-se.
+EMENTA
