@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por INDÚSTRIA E COMÉRCIO DE MÓVEIS BENTO B DA SILVA LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de INDÚSTRIA E COMÉRCIO DE MÓVEIS BENTO B DA SILVA LTDA, o recurso especial foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, as custas devidas ao Superior Tribunal de Justiça foram recolhidas a menor.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não o fez, limitando-se a apresentar à fl. 202 apenas um comprovante de pagamento, desacompanhado da respectiva guia de recolhimento.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Registre-se ainda que não cabia ao Tribunal de origem dar nova oportunidade para regularização desse vício decorrente da tentativa de regularização do vício anterior, uma vez que não há previsão legal nos termos do art. 1.007, § 2º do CPC.
+Ainda, constata-se que, contra uma mesma decisão, a parte recorrente apresentou embargos de declaração; e, posteriormente, recurso especial.
+Dessa forma, impõe-se o não conhecimento do segundo recurso, no caso, do recurso especial, tendo em vista a preclusão consumativa, bem como o princípio da unicidade recursal. Nesse sentido, EDcl no AgInt no AREsp 1832666/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/03/2022; EDcl no AgInt no REsp 1905229/PR, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 22/03/2022.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
