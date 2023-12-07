@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCUS VINICIUS REIS DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que, em primeiro grau, o paciente foi beneficiado com a progressão de regime do fechado para o semiaberto.
+Inconformado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, que deu provimento ao agravo, para cassar a decisão concessiva da progressão, nos termos do acórdão juntado às fls. 20-24, com a seguinte ementa:
+AGRAVO DE EXECUÇÃO PENAL. RECURSO MINISTERIAL. PROGRESSÃO DE REGIME. DEFERIMENTO. ALEGADA AUSÊNCIA DO REQUISITO SUBJETIVO PREVISTO NO INCISO III DO ART. 123 DA LEP. JUÍZO DAS EXECUÇÕES CRIMINAIS QUE DEVE AVALIAR, EM CADA CASO CONCRETO, A PERTINÊNCIA E A RAZOABILIDADE EM DEFERIR A PRETENSÃO, PARA QUE POSSA COMPATIBILIZAR A BENESSE COM OS OBJETIVOS DA PENA, COMO REZA O ARTIGO. 123, III DA LEP. CASO DOS AUTOS QUE REQUER CAUTELA, POIS TRATA DE APENADO CONDENADO MAIS DE UMA VEZ POR CRIMES HEDIONDOS E COM TÉRMINO DE CUMPRIMENTO DA PENA PREVISTO PARA 18/02/2039. APENADO QUE, AO SER COLOCADO EM LIBERDADE CONDICIONAL, APROVEITOU PARA PRATICAR NOVO DELITO, VOLTANDO A SER PRESO. PREMATURA A CONCESSÃO DE PROGRESSÃO AO AGRAVANTE NESSE MOMENTO DO CUMPRIMENTO DA EXPIAÇÃO. AUSÊNCIA DO REQUISITO SUBJETIVO. RECURSO A QUE SE DÁ PROVIMENTO PARA CASSAR A DECISÃO ATACADA E DETERMINAR O RETORNO DO APENADO AO STATUS QUO ANTE.
+No presente writ, sustenta o impetrante, em síntese, que a longevidade da pena e a gravidade abstrata dos delitos praticados não podem ser invocadas como fundamento para negar o benefício.
+Argumenta que, além de preenchido o requisito temporal, o reeducando possui excelente conduta carcerária, de modo que também satisfeito o requisito subjetivo.
+Requer, no mérito, o restabelecimento da decisão de primeiro grau, concedendo-se ao apenado o direito de progredir para o regime semiaberto.
+O pedido de liminar foi indeferido às fls. 520-521.
+As informações foram prestadas às fls. 523-525.
+O Ministério Público Federal, às fls. 532-534, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NÃO CUMPRIMENTO DE REQUISITOS ESSENCIAIS. REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o breve relatório.
+Decido.
+Sustenta o impetrante, em síntese, que a longevidade da pena e a gravidade abstrata dos delitos praticados não podem ser invocadas como fundamento para negar o benefício.
+Argumenta que, além de preenchido o requisito temporal, o reeducando possui excelente conduta carcerária, de modo que também satisfeito o requisito subjetivo.
+No que se refere à controvérsia, o Tribunal de origem consignou (fls. 22-24):
+Insurge-se o Ministério Público contra a decisão que deferiu ao Agravante o benefício de progressão de regime, alegando ausência do requisito subjetivo previsto no inciso III do art. 123 da Lei de Execuções Penais.
+Assiste razão ao agravante.
+Como é cediço, a execução penal objetiva efetivar as disposições da sentença e proporcionar condições para reinserção social do apenado.
+Não obstante ter ocorrido lapso temporal suficiente para a concessão do benefício, resta ao apenado ainda uma longa pena a cumprir, devendo o Juízo das Execuções Criminais avaliar, em cada caso concreto, a pertinência e a razoabilidade em deferir a pretensão, para que possa compatibilizar tais saídas com os objetivos da pena, como reza o art. 123, III da Lei de Execuções Penais.
+Destarte, a progressão não constitui um direito absoluto do penitente, sendo necessário o preenchimento dos requisitos subjetivos, não se podendo concedê-lo de forma indiscriminada.
+Cumpre salientar que o caso dos autos requer cautela, pois trata de apenado condenado a 21 (vinte e um) anos de reclusão, pela prática dos crimes de organização criminosa e lavagem de capitais, uma vez que integrava uma milícia atuante na zona oeste do Rio de Janeiro e com término de cumprimento da pena previsto para a longínqua data de 18/02/2039. Desta forma, resta claro ser prematura a concessão da progressão nesse momento do cumprimento da expiação, pois ainda faltam 76% (setenta e seis por cento) do total de sua pena a serem cumpridos.
+Com efeito, a Lei das Execuções Penais (Lei nº 7.210/84), ao introduzir no sistema prisional um conjunto de direitos assistenciais ao condenado, objetivou sua reintegração gradual à sociedade, que se fortalece no processo de progressão da pena. Nesse contexto, os benefícios regidos por esta lei, constituem-se em benefícios importantes para dar mais eficácia a esse processo gradativo.
+Entretanto, temos que ora agravante ao ser beneficiado com o Livramento Condicional em 22/02/2022, aproveitou para praticar novo crime, sendo preso em 11/03/2022. Desta feita, resta cristalino que não foram preenchidos os requisitos dispostos no artigo 123, III da Lei de Execuções Penais pelo ora agravante, no caso concreto.
+Com efeito, é preciso que, sua ressocialização seja levada a efeito de forma mais gradual e lenta, de forma que durante o período de cumprimento de pena, possa demonstrar ao Juízo e à sociedade, que é merecedor de credibilidade e que atingiu o senso de autodisciplina necessário à concessão da benesse, o que não ocorreu no presente caso.
+ ..
+Pelo exposto, dirijo meu voto no sentido de DAR PROVIMENTO ao recurso Ministerial, para cassar a decisão que concedeu a progressão de regime ao apenado, determinando o retorno ao status quo ante. Oficie-se.
+Sobre o tema, a jurisprudência desta Corte Superior é assente no sentido de que o cometimento de faltas graves ou de novos crimes no curso da execução da reprimenda constitui fundamento idôneo para negar a progressão de regime, ante a ausência de preenchimento do requisito subjetivo. Confira-se: AgRg no HC n. 648.567/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 13/4/2021.
+No caso, o Tribunal de origem apresentou fundamento válido para afastar a progressão de regime, em razão da falta do preenchimento do requisito subjetivo pelo apenado, pois executou novo crime, sendo preso em 11/03/2022, enquanto se encontrava beneficiado com o livramento condicional em 22/2/2022.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA DE NOVO CRIME DURANTE A EVASÃO DO SISTEMA PRISIONAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal manifesto à liberdade de locomoção do apenado.
+2. Hipótese em que a progressão de regime prisional foi indeferida não só com base na gravidade abstrata dos crimes pelos quais o apenado cumpre pena nem da longa reprimenda aplicada, mas em razão da notícia da reiteração praticada durante a evasão do sistema prisional.
+3. No caso dos autos, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do requisito subjetivo, em face do histórico prisional conturbado (cometimento de falta disciplinar de natureza grave), de modo que não se verifica constrangimento ilegal no indeferimento do pedido de progressão de regime.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 711.863/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. INDEFERIMENTO. AUSÊNCIA DE REQUISITO SUBJETIVO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - A jurisprudência desta Corte Superior é uníssona no sentido de que o cometimento de faltas graves ou de novos crimes no curso da execução da reprimenda constitui fundamento idôneo para negar a progressão de regime, ante a ausência de preenchimento do requisito subjetivo.
+III - In casu, a progressão prisional foi negada com base no histórico prisional do paciente, tendo a eg. Corte local consignado, ainda, que o sentenciado, "anotação de faltas disciplinares de natureza grave praticadas durante o cumprimento da pena (abandonos, tentativas de fuga, danos ao patrimônio público, posse de aparelho celular e subversão à ordem)" (fl. 185 - grifei), concluindo, portanto, que carece do requisito subjetivo para a concessão do referido benefício.
+IV - Ademais, é também firme o posicionamento deste Superior Tribunal de Justiça no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a concessão de progressão de regime, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+V - Desta forma, verifica-se que o v. acórdão combatido está em consonância com a jurisprudência desta Corte Superior de Justiça, não restando configurada a ilegalidade apontada.
+Agravo regimental desprovido.
+(AgRg no HC n. 665.982/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 17/8/2021, DJe de 24/8/2021.)
+Ante o exposto, denego o habeas corpus.
+P. e I.
+EMENTA
