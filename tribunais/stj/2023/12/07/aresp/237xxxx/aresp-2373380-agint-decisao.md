@@ -1,0 +1,44 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de fls. 685/707 (e-STJ), reconsidero a decisão de fls. 587/589 (e-STJ) proferida pela Ministra Presidente e passo a novo exame do agravo em recurso especial interposto por TERMOPERNAMBUCO S/A e OUTRAS contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 1º/10/2023
+Concluso ao gabinete em: 07/11/2023.
+Ação: de indenização cumulada com pedido de anulação de cláusula de confidencialidade ajuizada pelas agravantes em face de CHUBB SEGUROS BRASIL S/A.
+Decisão interlocutória: julgou parcialmente o mérito da ação, reconhecendo a prescrição da pretensão das agravantes em relação à agravada.
+Acórdão: negou provimento ao agravo de instrumento das agravantes, nos termos da seguinte ementa:
+Ação de indenização cumulada com anulatória de cláusula de confidencialidade. Decisão agravada que julgou parcialmente o mérito da ação por entender prescrita a pretensão das autoras em face da corré Chubb Seguros Brasil S/A, extinguindo o processo em relação a ela, com resolução do mérito, nos termos do art.487, II do CPC. Contrato de seguro garantia com cobertura de prejuízos por eventual inadimplemento. Prazo prescricional ânuo, com termo a quo a partir do fato gerador da pretensão. Aplicação do art. 206, §1º, II, "b" do Código Civil. Suspensão do prazo prescricional entre a comunicação do sinistro e a ciência da recusa de pagamento pela seguradora, de acordo com a Súmula 229 do E. STJ. Manutenção da r. decisão. Recurso desprovido. (e-STJ fl. 292)
+Embargos de declaração: opostos pelas agravantes, foram rejeitados. Opostos pela agravada, foram acolhidos.
+Recurso especial: alega violação dos arts. 189 e 206, § 1º, II, do CC; 926 do CPC, bem como dissídio jurisprudencial.
+Insurge-se contra decisão que reconheceu a prescrição da pretensão das agravantes. Justifica que o termo inicial para sua incidência, em consonância com a teoria da "actio nata", só começaria a fluir a partir da recusa por parte da seguradora.
+Nesse sentido, considerando que a ciência inequívoca do fato gerador da pretensão securitária é a confirmação da impossibilidade de cumprimento contratual por parte da recorrida, restaria evidenciado não haver prescrição a ser reconhecida. Argumenta que antes da comunicação da recusa do pagamento pelo segurador, sequer haveria violação do direito das recorrentes.
+Argui não haver incidência da Súmula 229 do STJ, na medida em que anterior ao CC de 2002.
+Decisão monocrática: proferida pela Ministra Presidente, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ.
+Agravo Interno: a parte agravante aduz que impugnou todos os fundamentos da decisão agravada e requer a reconsideração.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da jurisprudência do STJ
+A Súmula 229 do STJ, aprovada sob a égide do CC/1916, determinava que "o pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão".
+Contudo, passou a jurisprudência do STJ a perfilhar a tese segundo a qual o termo inicial do prazo prescricional seria o momento da recusa de cobertura pela seguradora, ao fundamento de que só então nasceria a pretensão do segurado em face do segurador.
+Nesse sentido: REsp 207.789/RJ, Segunda Seção, DJe 24/09/2001, p. 234; REsp 227.792/SP, Quarta Turma, DJe 21/08/2000, p. 143; REsp 305.746/MG, Quarta Turma, DJe 08/09/2003, p. 333; REsp 492.821/SP, Quarta Turma, DJe 23/06/2003, p. 386; REsp 462.876/SP, Terceira Turma, DJe 19/12/2002, p. 363; REsp 470.240/DF, Quarta Turma, DJe 18/08/2003, p. 211.
+O Código Civil de 2002, por sua vez, muito embora tenha mantido o prazo prescricional ânuo, promoveu importantes alterações na regulação da matéria, como se infere do inciso II do § 1º do art. 206, que prevê:
+Art. 206. Prescreve: § 1º Em um ano:
+ ..
+II - a pretensão do segurado contra o segurador, ou a deste contra aquele, contado o prazo:
+a) para o segurado, no caso de seguro de responsabilidade civil, da data em que é citado para responder à ação de indenização proposta pelo terceiro prejudicado, ou da data que a este indeniza, com a anuência do segurador;
+b) quanto aos demais seguros, da ciência do fato gerador da pretensão;
+Alterou-se a redação da alínea "b", estabelecendo como termo inicial do prazo prescricional a data da ciência do "fato gerador da pretensão". Com efeito, a alínea "b", do inciso II, do §1º, do art. 206 do CC/2002, diferentemente da lei anterior, estipula o termo inicial do prazo prescricional em função do "fato gerador da pretensão".
+Ora, a pretensão é o poder de exigir. Sendo assim, antes da regulação do sinistro e da recusa de cobertura nada pode exigir o segurado do segurador. Afinal, aquele não titulariza, ainda, uma pretensão, motivo pelo qual não se pode considerar iniciado o transcurso do prazo prescricional tão somente com a ciência do sinistro. De fato, "antes que
+exista uma pretensão exercitável, não pode correr a prescrição" (REsp 949.434/MT, TERCEIRA TURMA, julgado em 18/05/2010, DJe 10/06/2010).
+Desse modo, é imperioso concluir que, com o sinistro, atribui-se ao segurado, tão somente, o direito à indenização, o crédito, mas ainda desprovido de exigibilidade. Nos termos da alínea "b", do inciso II, do §1º, do art. 206 do CC/2002, é, em regra, a ciência do segurado a respeito da recusa da cobertura securitária pelo segurador que representa o "fato gerador da pretensão", devendo, a partir deste instante, portanto, iniciar-se o transcurso do prazo prescricional.
+Entendimento diverso representaria verdadeiro estímulo a que os segurados ajuizassem demandas em face dos seguradores antes mesmo de haver comunicado a ocorrência do sinistro ou antes de qualquer recusa manifestada pelo segurador, porquanto o prazo prescricional já estaria em curso.
+Em âmbito jurisprudencial, há precedentes desta Corte Superior reconhecendo que, na hipótese de contrato de seguro, o transcurso do prazo prescricional tem início na data da recusa de cobertura pelo segurador.
+Exemplificativamente: AgRg no Ag 1156556/PR, Quarta Turma, DJe 09/08/2011; REsp 450.290/CE, Quarta Turma, DJe 20/10/2003; REsp 590.489/RJ, Quarta Turma, DJe 14/06/2004; REsp 726.133/RJ, Quarta Turma, DJe 27/06/2005; REsp 655.155/MG, Quarta Turma, DJe 12/09/2005; REsp 305.746/MG, Quarta Turma, DJe 08/09/2003; REsp 364.864/PR, Terceira Turma, DJe 04/11/2002; REsp 227.792/SP, Quarta Turma, DJ 21/08/2000.
+Dessarte, a Terceira Turma do Superior Tribunal de Justiça, ao interpretar a norma do art. 206, § 1º,II, "b", do Código Civil, firmou o entendimento de que o transcurso do prazo prescricional não se inicia com a simples ciência do segurado acerca da ocorrência do sinistro, mas somente após a sua ciência a respeito da recusa da cobertura securitária procedida pelo ente segurador (aplicação da teoria da actio nata). A propósito: REsp n. 2.063.132/SP, Terceira Turma, DJe de 19/6/2023; REsp nº 1.970.111/MG, Terceira Turma, DJe de 30/3/2022.
+Nada obstante, a verificação do atendimento ao prazo prescricional, segundo às especificidades da demanda, demandaria desta Corte a análise de fatos e provas, o que é vedado pela Súmula 7/STJ.
+Forte nessas razões, reconsidero a decisão de e-STJ fls. 587/589 e com fundamento no art. 932, V, "a", do CPC - bem como na Súmula 568/STJ - CONHEÇO parcialmente do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO.
+Por conseguinte, determino o retorno dos autos ao Tribunal de origem a fim de que proceda novo julgamento do agravo de instrumento interposto, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO CUMULADA COM PEDIDO DE ANULAÇÃO DE CLÁUSULA DE CONFIDENCIALIDADE. AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA RECONSIDERADA. TERMO INICIAL. PRAZO PRESCRICIONAL. SEGURO. RECUSA DA INDENIZAÇÃO.
+1. Ação de indenização cumulada com pedido de anulação de cláusula de confidencialidade.
+2. A Terceira Turma do Superior Tribunal de Justiça, ao interpretar a norma do art. 206, § 1º,II, "b", do Código Civil, firmou o entendimento de que o transcurso do prazo prescricional não se inicia com a simples ciência do segurado acerca da ocorrência do sinistro, mas somente após a sua ciência a respeito da recusa da cobertura securitária procedida pelo ente segurador (aplicação da teoria da actio nata). Precedentes.
+3. Reconsiderada a decisão de e-STJ fls. 587/589. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido para determinar o retorno dos autos ao Tribunal de origem.
