@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ALEGADA OMISSÃO E CONTRADIÇ ÃO. INTEMPESTIVIDADE DO RECURSO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos do art. 619 do CPP, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência. Não constituem, portanto, recurso de revisão.
+2. Consta dos autos que o acórdão concessivo do mandamus foi objeto de intimação ao Ministério Público Federal em 18/8/2023 (sexta-feira), conforme certidão de fl. 343. O prazo legal de dois dias corridos se iniciou em 21/8 e teve seu termo final em 22/8/2023. Contudo, os presentes embargos somente foram interpostos em 23/8/2023 (fl. 344) sendo manifesta, por conseguinte, a sua intempestividade.
+3. Cumpre ressaltar que, nos termos do arts. 619 do CPP e 263 do RISTJ o prazo para interposição de embargos de declaração, em matéria criminal, é de dois dias, inclusive para o Parquet, que neste caso não conta com prazo em dobro. Precedente.
+4. Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos pelo MINISTÉRIO PÚBLICO FEDERAL, contra v. acórdão de fls. 333-340, que concedeu o habeas corpus, na forma da seguinte ementa:
+HABEAS CORPUS. TRÁFICO DE DROGAS. GUARDAS MUNICIPAIS. BUSCA PESSOAL. PRISÃO EM FLAGRANTE. ATUAÇÃO DESVINCULADA DA SUAS ATRIBUIÇÕES CONSTITUCIONAIS. RECONHECIMENTO DA ILICITUDE DAS PROVAS. ABSOLVIÇÃO.
+1. No julgamento do REsp n. 1.977.119/SP, em 16/8/2022, decidiu a Sexta Turma desta Corte, à unanimidade, que " n ão é das guardas municipais, mas sim das polícias, como regra, a competência para patrulhar supostos pontos de tráfico de drogas, realizar abordagens e revistas em indivíduos suspeitos da prática de tal crime ou ainda investigar denúncias anônimas relacionadas ao tráfico e outros delitos cuja prática não atinja de maneira clara, direta e imediata os bens, serviços e instalações municipais".
+2. No presente feito, consta do autos que os guardas municipais avistaram um motociclista estacionar e conversar com o réu, que estava parado na via pública, o qual, ao perceber a aproximação da viatura, arremessou um pacote num matagal, resultando na apreensão de 16,58g de cocaína.
+3. Não se constatou, entretanto, "relação clara, direta e imediata com a necessidade de proteger a integridade dos bens e instalações ou assegurar a adequada execução dos serviços municipais". Destarte, considerando que houve indevida atuação por parte da guarda municipal, totalmente desvinculada das suas atribuições consistentes em proteger o patrimônio municipal, deve-se reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram.
+4. Habeas corpus concedido para, reconhecendo a ilicitude das provas obtidas mediante a indevida atuação da guarda municipal, bem como das provas derivadas, absolver o paciente da imputação trazida na denúncia (art. 386, VII, do CPP), determinando a soltura incontinenti (se encarcerado), se por outro motivo não estiver preso.
+Nas razões dos aclaratórios, o embargante sustenta, em síntese, que o acórdão embargado conteria omissão e contradição, ao argumento de que o aresto não teria analisado a controvérsia à luz das garantias constitucionais e legais que regem a matéria, notadamente diante da possibilidade de qualquer do povo poder prender em flagrante quem quer se seja, quanto mais autoridades integrantes do sistema de segurança pública.
+Requer, ao final, o acolhimento dos presentes aclaratórios, com efeitos infringentes, a fim de que seja prequestionada a matéria em sede de matéria constitucional.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ALEGADA OMISSÃO E CONTRADIÇ ÃO. INTEMPESTIVIDADE DO RECURSO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos do art. 619 do CPP, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência. Não constituem, portanto, recurso de revisão.
+2. Consta dos autos que o acórdão concessivo do mandamus foi objeto de intimação ao Ministério Público Federal em 18/8/2023 (sexta-feira), conforme certidão de fl. 343. O prazo legal de dois dias corridos se iniciou em 21/8 e teve seu termo final em 22/8/2023. Contudo, os presentes embargos somente foram interpostos em 23/8/2023 (fl. 344) sendo manifesta, por conseguinte, a sua intempestividade.
+3. Cumpre ressaltar que, nos termos do arts. 619 do CPP e 263 do RISTJ o prazo para interposição de embargos de declaração, em matéria criminal, é de dois dias, inclusive para o Parquet, que neste caso não conta com prazo em dobro. Precedente.
+4. Embargos de declaração não conhecidos.
+VOTO
+Os presentes embargos de declaração não comportam conhecimento, dada a sua manifesta intempestividade, senão vejamos.
+Consta dos autos que o acórdão concessivo do mandamus foi objeto de intimação ao Ministério Público Federal em 18/8/2023 (sexta-feira), conforme certidão de fl. 343. O prazo legal de dois dias corridos se iniciou em 21/8 e teve seu termo final em 22/8/2023. Contudo, os presentes embargos somente foram interpostos em 23/8/2023 (fl. 344) sendo manifesta, por conseguinte, a sua intempestividade.
+Cumpre ressaltar que, nos termos do arts. 619 do CPP e 263 do RISTJ o prazo para interposição de embargos de declaração, em matéria criminal, é de dois dias, inclusive para o Parquet, que neste caso não conta com prazo em dobro.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. INOBSERVÂNCIA DO PRAZO DE 2 (DOIS) DIAS PARA OPOSIÇÃO DOS ACLARATÓRIOS. INTEMPESTIVIDADE PATENTE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. A teor do disposto nos arts. 619 do Código de Processo Penal e 263 do Regimento Interno do Superior Tribunal de Justiça, o prazo para a oposição dos embargos de declaração, em matéria criminal, é de 2 (dois) dias, inclusive para o Ministério Público, que não goza de prerrogativa de prazo em dobro.
+2. Conforme posicionamento firmado no âmbito do Supremo Tribunal Federal e do Superior Tribunal de Justiça, embora os Ministérios Públicos dos Estados e do Distrito Federal possuam legitimidade para impugnar decisões judiciais desta Corte Superior, nas ações em que não são parte, é suficiente a intimação da Procuradoria-Geral da República, na qualidade de custos legis.
+3. Na hipótese, os embargos de declaração são intempestivos, porque o acórdão embargado foi disponibilizado no Diário da Justiça Eletrônico em 30/09/2022 e considerado publicado no primeiro dia útil seguinte, isto é, 03/10/2022, mesma data em que o Ministério Público Federal tomou ciência do julgado. Entretanto, o recurso integrativo oposto pelo Ministério Público do Estado do Rio Grande do Sul somente foi recebido nesta Corte Superior de Justiça, por meio de petição eletrônica, em 13/10/2022, quando já escoado o prazo legal de dois dias.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgRg no HC n. 708.908/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023.)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
