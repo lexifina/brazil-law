@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIRECIONAL ENGENHARIA S.A. e RPS ENGENHARIA LTDA contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 do STJ e 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1002078-23.2021.8.26.0451) assim ementado (fl. 547):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - Vícios de construção - Autora que pretende a reparação de danos materiais e morais decorrentes de divergências em relação ao apartamento decorado que serviu de base para a compra e defeitos construtivos - Sentença de procedência para condenar as rés, solidariamente, ao pagamento dos danos materiais consubstanciados nos reparos dos vícios de construção comprovados nos autos, nos moldes do laudo pericial, além do pagamento de indenização por danos morais fixada em R$ 10.000,00 - Irresignação das rés - Parcial acolhimento - Hipótese em que ficou comprovada pela prova pericial a existência de vícios construtivos relativos ao desalinhamento acima do tolerável em algumas paredes, empolamentos próximos às janelas, desalinhamento dos pisos do banheiro, falha na caída e alojamento de água abaixo do esmalte -Responsabilidade solidária de ambas as rés pela reparação dos danos materiais - Eventual divergência em relação a material publicitário ilustrativo que configura mero inadimplemento contratual - Dano moral não configurado -Inexistência de ofensa a direitos da personalidade - Sentença reformada em parte, apenas para afastar a condenação ao pagamento de indenização por danos morais - Fixação de sucumbência recíproca - Recurso parcialmente provido.
+Os embargos de declaração opostos por ambas as partes foram rejeitados (fls. 638-640 e 651-653).
+Nas razões do recurso especial (fls. 625-631), a parte recorrente aponta a violação do art. 20 do Código de Defesa do Consumidor, que dispõe acerca de quem irá realizar os reparos necessários no imóvel da parte adversa, defendendo o seguinte (fl. 629):
+ ..  a parte Recorrente já dispõe de mão-de-obra e insumos contratados, sendo desarrazoado que seja apenada duplamente, sendo obrigada a pagar por quantia que inclui tanto a contratação de profissionais, quanto a compra de materiais e o lucro de empresa terceira.
+Existe ainda a probabilidade de a parte Recorrida jamais operar os reparos e acionar o setor de manutenção para realizá-los futuramente.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 658-666).
+É o relatório. Decido.
+O recurso não deve prosperar.
+No julgamento dos embargos de declaração, a Corte de origem analisou as questões apresentadas e decidiu nestes termos (fls. 640-103):
+A fls. 549 e ss. restou consignado que o laudo pericial de fls. 300/353, constatou que, embora os "shafts" e a tubulação hidráulica parcialmente expostas estejam em conformidade com os projetos e memorial descritivo, se verificou que algumas paredes do apartamento estão fora do limite de tolerância de desalinhamento vertical e horizontal, além de apresentar empolamentos nas paredes vistoriadas principalmente próximos às janelas, e que o piso do banheiro não foi assentado de forma alinhada, inexistindo inclinação em relação ao ralo, além de alteração de tonalidade dos pisos decorrentes do alojamento de água ou agentes corante abaixo da camada esmaltada, conforme conclusão em fls. 337/338. Sendo assim, ficou caracterizada a responsabilidade solidária de ambas as rés, devendo elas responder pelo ressarcimento dos valores relativos as obras necessárias para a correção dos vícios indicados na perícia, tal como consignado na r. sentença, não se justificando o pedido subsidiário para que as rés realizem as obras necessárias.
+No que se refere à alegada  violação  do art. 20 do Código de Defesa do Consumidor, o Tribunal de origem consignou que, diante do que foi decidido na sentença, não se justifica "o pedido subsidiário para que as rés realizem as obras necessárias" (fl. 640).
+Todavia, a parte agravante em momento algum rebateu os fundamentos do acórdão recorrido, suficientes para a manutenção do julgado, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. BAIXA NA JUNTA COMERCIAL. PERSONALIDADE JURÍDICA. EXTINÇÃO. LEGITIMIDADE PASSIVA. INEXISTÊNCIA. SÚMULAS N. 7 E 83 DO STJ. LIQUIDAÇÃO COMPLETA DA EMPRESA. SÚMULAS N. 282 E 356 DO STF. FUNDAMENTO NÃO OBJETADO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+ ..
+4. A subsistência de fundamento jurídico não objetado obsta o conhecimento do recurso especial, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.080.338/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL. INCLUSÃO DE PARCELAS DEVIDAS A EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COISA JULGADA. TRANSCURSO DO PRAZO DECADENCIAL PARA DESCONSTITUIR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+ ..
+4. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido. (AgInt no REsp n. 2.016.002/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 20% sobre o valor arbitrado pela instância de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
