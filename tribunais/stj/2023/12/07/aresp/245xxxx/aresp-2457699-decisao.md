@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por DL ROSENFIELD ASSESSORIA E INCORPORADORA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DECLARATÓRIA DE NULIDADE DE DUPLICATA MERCANTIL. AUSÊNCIA DE PROVA DE QUE HAJA O RÉU SACADO TAL TÍTULO, O PROTESTO REALIZADO PELO DEMANDADO FOI DA PRÓPRIA DÍVIDA CONDOMINIAL, A QUAL, ATÉ JULGAMENTO EM CONTRÁRIO NOS AUTOS DOS EMBARGOS À EXECUÇÃO EM QUE ESTÁ SENDO DEBATIDA, É HÍGIDA. PROTESTO REGULAR. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTE A AÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1º da Lei n. 5.474/1968, no que concerne à impossibilidade de emissão de duplicata para cobrança de dívida condominial e a consequente nulidade do protesto do referido título cambial, trazendo a seguinte argumentação:
+Como visto, o acórdão recorrido entendeu que não haveria nulidade no protesto em questão, oriundo de uma duplicata cujos valores estão calcados em suposta dívida condominial.
+Ora, é sabido que apenas os negócios jurídicos sinalagmáticos (contratos) podem dar suporte à emissão de uma duplicata, pois o referido título tem natureza eminente mercantil.
+ ..
+Como se vê, a Duplicata somente pode ser expedida para instrumentalizar contratos de compra e venda mercantis ou prestação de serviços. Estes são os negócios subjacentes que podem ensejar a emissão deste título de crédito, que é necessariamente causal.
+ ..
+Portanto, há de existir um contrato de compra e venda mercantil, ou prestação de serviços, o qual é pressuposto para a emissão da fatura. Logo, ao contrário do acórdão recorrido, não é possível o saque de duplicata para fins de cobrança de cota condominial, já que inexiste relação mercantil a suportar a emissão da duplicata.
+Ou seja, é premissa para a emissão de uma duplicata a existência de um contrato de compra e venda mercantil ou de prestação de serviços. Fora destas hipóteses, é inadmissível o saque de duplicata.
+ ..
+Frise-se: por tratar-se de título de crédito causal  que representa a efetiva realização de uma compra venda mercantil, ou prestação de serviços  a duplicata não pode ser usada (ou emitida) para a cobrança de dívidas de outra natureza, especialmente de despesas condominiais, como pretendeu o recorrido.
+ ..
+Resta claro que o que se pretende discutir no presente recurso especial é a (im)possibilidade de emissão de duplicata para cobrança de dívida condominial e a consequente nulidade do protesto do referido título cambial, forte no disposto no art. 1º da Lei nº 5.474/68 (fls. 305-308).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Assim sendo, não há prova de que o réu tenha sacado duplicata mercantil a ser declarada nula nesta ação. Há claro erro na notificação encaminhada à autora, mas a simples consulta no protesto propriamente dito já seria o suficiente para observar que foi protestada a dívida condominial.
+Logo, não havendo duplicata a ser declara nula, a improcedência do pedido autoral nesse sentido é medida que se impõe (fls. 291-292).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Contextualizando, a autora narra que foi notificada acerca de protesto de duplicata mercantil realizado pelo demandado, no valor de R$26.793,72, com vencimento em 10/07/2019, o qual sustenta ser indevido, ao argumento de que inexistente relação mercantil a sustentar o saque da duplicata.
+Por seu turno, o requerido afirma que não emitiu duplicata, mas sim protestou a própria dívida condominial, a qual é hígida.
+Dito isso, necessário destacar que, embora a autora alegue que nada deve à título de condomínio, verifico que este não é objeto dos autos, mas sim dos embargos à execução de nº 5001430-75.2018.8.21.0141 que estão pendentes de julgamento. A causa de pedir da presente ação cinge-se ao argumento de que a duplicata mercantil sacada pelo réu é nula, diante da inexistência de causa subjacente como compra e venda de mercadorias ou prestação de serviço.
+Ocorre que, a bem da verdade, não há discussão nos autos sobre a circunstância de que inexiste relação mercantil a lastrear o saque da duplicata supostamente protestada.
+A controvérsia reside no fato de que o réu alega que não protestou tal título, mas sim a própria dívida condominial.
+Assentadas tais premissas, respeitosamente ao entendimento de origem, tenho que o quanto define merece ser revisto.
+Isso porque, efetivamente, constou na notificação de protesto encaminhado à autora (evento 01, OUT3) que foi indicado para protesto o título duplicata mercantil.
+Ocorre que este não foi o título efetivamente levado à protesto pelo réu.
+É o que se extrai da certidão de evento 32, OUT9 e da cópia do próprio protesto (evento 32, OUT8), os quais fazem prova de que fora protestada a própria dívida condominial.
+Assim sendo, não há prova de que o réu tenha sacado duplicata mercantil a ser declarada nula nesta ação. Há claro erro na notificação encaminhada à autora, mas a simples consulta no protesto propriamente dito já seria o suficiente para observar que foi protestada a dívida condominial.
+Logo, não havendo duplicata a ser declara nula, a improcedência do pedido autoral nesse sentido é medida que se impõe (fls. 291-292).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
