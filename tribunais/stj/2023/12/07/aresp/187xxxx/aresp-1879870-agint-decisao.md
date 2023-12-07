@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto por ITARUMÃ PARTICIPAÇÕES S.A. (ITARUMÃ), contra decisão da Presidência desta Corte, que não conheceu o agravo em recurso especial, nos seguintes termos:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC, Súmula 83/STJ, ausência de prequestionamento, Súmula 5/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. (e-STJ, fl. 2.053)
+Nas razões do presente agravo interno, ITARUMÃ alegou que (1) devidamente combatidos os fundamentos da admissibilidade, devendo ser afastada a incidência da Súmula nº 182 do STJ.
+A impugnação foi apresentada (e-STJ, fls. 937/943).
+É o relatório.
+Reconsideração da decisão agravada
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 20.53/2.055 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 1.944/1.966, pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça do Rio de Janeiro (TJRJ), assim ementado:
+Apelação cível. Sentença Arbitral Parcial. Decretação de nulidade. Ausência de expressa manifestação de se submeter à jurisdição arbitral. O negócio jurídico onde está estabelecida a cláusula compromissória não foi assinado pela autora, conforme reconhecido na própria sentença arbitral parcial que -se pretende ver declarada nula. Portanto, não há declaração de vontade dirigida à realização de um objeto, no caso, a submissão da demandante à jurisdição privada, manifestada na forma exigida na Lei de Arbitragem. Inexiste, pois, negócio jurídico no qual a apelada tenha consentido em se submeter à arbitragem, na hipótese em lide. Certamente a defesa no processo arbitral teve como finalidade evitar a revelia, em razão do princípio da eventualidade, não se limitando a se insurgir contra a jurisdição privada, de modo que não se pode considerar tais atitudes como declaração de vontade em aderir àquela jurisdição. Manutenção da sentença. (e-STJ, fl. 967)
+Os primeiros embargos de declaração opostos por ITARUMÃ foram acolhidos sem efeitos infringentes (e-STJ, fls. 1.284/1.290) e rejeitados os segundos (e-STJ, fls. 1.470/1.477).
+Irresignada, ITARUMÃ interpôs recurso especial, com base no art. 105, III, alíneas a e c, da CF, apontando violação dos arts. 85, §1º e 11, e 1.022, II, do CPC; 107 e 422 do CC; e 1º, 3º, 4º, § 1º, 8º, 10 e 32, IV, da Lei de Arbitragem, bem como dissídio jurisprudencial, afirmando que (1) houve omissão acerca da arguição de que a Petrobras está vinculada a todo litígio arbitrai que se referir ao projeto CBio (e-STJ, fl. 496) e das demonstrações de que as recorridas celebraram compromisso arbitral (2) todas as partes concordaram em submeter à arbitragem, voluntariamente, mediante a assinatura de documento autônomo (e-STJ, fl. 1.507), não havendo que se exigir que a cláusula compromissória seja assinada (3) descabido o arbitramento de honorários advocatícios recursais na mesma instância e, portanto, descabido os honorários arbitrados nos embargos de declaração de fls. 1.236/1.242.
+O recurso não foi admitido pelo Tribunal estadual.
+Foi apresentada contraminuta.
+É o relatório.
+Tendo em vista as razões expostas junto à origem e a necessidade de maiores esclarecimentos a respeito da matéria trazida no especial, CONVERTO o agravo em recurso especial, para melhor análise da controvérsia.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO. PRESIDÊNCIA. AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. RECONSIDERAÇÃO. AGRAVO EM RECURSO ESPECIAL. SENTENÇA ARBITRAL PARCIAL. AUTO NOMIA DA VONTADE DAS PARTES. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
