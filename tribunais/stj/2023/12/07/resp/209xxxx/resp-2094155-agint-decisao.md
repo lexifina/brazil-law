@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Fls. 457/465e - Trata-se de Agravo Interno interposto contra decisão que não conheceu do Recurso Especial, fundamentada na incidência do Tema 995/STJ, no tocante ao termo inicial dos juros de mora.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Em juízo de retratação, consoante o disposto no art. 1.021, § 2º, do Código de Processo Civil de 2015, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, a fim de que o recurso seja novamente analisado.
+Passo ao novo exame do Recurso Especial.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+A parte recorrente sustenta que há omissão no julgado de origem no que tange às seguintes alegações:
+a) ausência de requisito essencial para documentar a relação jurídica, uma vez que as notas fiscais e de empenho apresentadas não contém as assinaturas necessárias;
+b) necessidade de incidência de correção monetária a partir do ajuizamento da ação; e
+c) os honorários advocatícios deveriam ser reduzidos.
+Com efeito, no julgamento dos Embargos de Declaração no Recurso Especial 1.727.063/SP, sob a sistemática do art. 1.036 do Código de Processo Civil (Tema 995/STJ), a Primeira Seção do STJ sedimentou o entendimento de que os juros de mora, nos casos de reafirmação da Data de Entrada do Requerimento - DER para data posterior ao ajuizamento da ação, somente incidem a partir do prazo de 45 (quarenta e cinco) dias fixado pelo juízo para a implantação do benefício.
+No entanto, no caso dos autos, o implemento dos requisitos do benefício se deu me momento anterior ao ajuizamento da ação.
+Nessas hipótese, em sede de Embargos de Declaração, a Primeira Seção deliberou pela impossibilidade de reafirmação da DER para a data de implemento dos requisitos de concessão quando o fato superveniente for posterior à propositura da ação, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. PRIMEIROS EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO. SEGUNDOS EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir. Tese firmada em recurso especial repetitivo.
+2. A assertiva de que não são devidas parcelas anteriores ao ajuizamento da ação reforça o entendimento firmado de que o termo inicial para pagamento do benefício corresponde ao momento processual em que reconhecidos os requisitos do benefício; não há quinquênio anterior a ser pago. Se preenchidos os requisitos antes do ajuizamento da ação, não ocorrerá a reafirmação da DER, fenômeno que instrumentaliza o processo previdenciário de modo a garantir sua duração razoável, tratando-se de prestação jurisdicional de natureza fundamental.
+3. O vício da contradição ao se observar a Teoria do Acertamento no tópico que garante efeitos pretéritos ao nascimento do direito também não ocorre. A Teoria foi observada por ser um dos fundamentos adotados no acórdão embargado, para se garantir o direito a partir de seu nascimento, isto é, a partir do preenchimento dos requisitos do benefício. A reflexão que fica consiste em que, no caso de se reafirmar a data de entrada do requerimento não se tem o reconhecimento tardio do direito, mas seu reconhecimento oportuno no decorrer do processo, para não se postergar a análise do fato superveniente para novo processo.
+4. Embargos de declaração do IBDP rejeitados.
+(EDcl nos EDcl no REsp n. 1.727.063/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 26/8/2020, DJe de 4/9/2020.)
+Desse modo, impõe-se a fixação do termo inicial do juro, na data da citação válida do INSS, como estampam os precedentes de ambas as Turmas de Direito Público desta Corte Superior:
+PREVIDENCIÁRIO. AGRAVO INTERNO NA DESISTÊNCIA NO RECURSO ESPECIAL. PROCESSUAL CIVIL. JUROS DE MORA. TERMO INICIAL: CITAÇÃO VÁLIDA. ORIENTAÇÃO PACIFICADA NESTA CORTE. HONORÁRIOS FIXADOS EM 15%. AUSÊNCIA DE RAZÕES QUE JUSTIFIQUEM A SUA MAJORAÇÃO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O entendimento pacífico do Superior Tribunal de Justiça em relação ao termo inicial dos juros de mora nas ações previdenciárias, expresso na Súmula 204/STJ, é de que os juros de mora nas ações relativas a benefícios previdenciários incidem a partir da citação válida da Autarquia.
+2. A orientação desta Corte Superior é de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor revelar-se manifestamente irrisório ou excessivo, por demandar, em tese, a averiguação e a avaliação do contexto fático-probatório dos autos.
+3. Na hipótese dos autos, a verba honorária foi arbitrada em 15% sobre o valor da condenação, não se revelando qualquer particularidade que justifique a sua majoração.
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp n. 1.776.083/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 21/10/2019, DJe de 8/11/2019.)
+PROCESSO CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL. CONCESSÃO DE BENEFÍCIO ASSISTENCIAL. CORREÇÃO MONETÁRIA. TERMO INICIAL. VENCIMENTO DAS PARCELAS. SÚMULA 43/STJ. OBSERVÂNCIA. JUROS DE MORA A PARTIR DA CITAÇÃO. SÚMULA 240/STJ.
+1. As parcelas dos débitos previdenciários não prescritas e vencidas após a vigência da Lei n. 6.899/1981, devem ser atualizadas monetariamente a partir de seus vencimentos (Súmula 43/STJ).
+2. Nas ações que tratam de concessão de benefícios previdenciários, os juros de mora incidem a partir da citação válida (Súmula 204/STJ).
+3. Recurso especial provido.
+(REsp n. 1.727.337/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/9/2019, DJe de 20/9/2019.)
+Posto isso, nos termos do art. 1.021, § 2º, do Código de Processo Civil de 2015, RECONSIDERO a decisão de fls. 448/451e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 444/465e e, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, CONHEÇO do Recurso Especial e DOU-LHE PROVIMENTO, para fixar os juros na data da citação do INSS.
+Publique-se e intimem-se.
+EMENTA
