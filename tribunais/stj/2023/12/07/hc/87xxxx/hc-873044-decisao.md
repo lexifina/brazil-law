@@ -1,0 +1,11 @@
+DECISÃO
+O paciente pede a reconsideração da decisão que indeferiu liminarmente o habeas corpus. O advogado emenda a inicial, para esclarecer que a matéria relacionada à remição foi decidida no HC 844.048/SP, mas houve mudança na jurisprudência e, atualmente, considera possível ao apenado remir o tempo da execução da pena por estudo do ensino médio "completado antes do início do cumprimento da pena" (fl 190). Basta, para tanto, a participação no Enem, pois obteve pontuação mínima em três matérias.
+Decido.
+Reconsidero a decisão de fls. 184-185, mas mantenho o indeferimento liminar do habeas corpus, pois, nos "termos do art. 210 do RISTJ, o habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ" (AgRg nos EDcl no HC 722.511/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 29/4/2022).
+No HC n. 844.048/SP, consignou-se que o pedido de remição parcial por aprovação no ENEM é cabível, em regra, mas pode ser indeferido se houver nos autos prova de conclusão do ensino médio antes do início da execução.
+Consignou-se ao jurisdicionado que a jurisprudência admite a remição do art. 126 da LEP quando a pessoa privada de liberdade estudar por conta própria para concluir os ensinos fundamental ou médio, logrando, com isso, êxito em exames nacionais dos graus de escolaridade, o que comprova o aprendizado autodidata. Essa é a regra, que comporta exceção quando existir fato impeditivo, modificativo ou extintivo do direito alegado pelo apenado.
+Se o ensino médio foi finalizado antes da execução penal, chega-se à conclusão lógica que o Enem não comprova, nesse caso, o aprendizado do grau de escolaridade desenvolvido na unidade penal, por esforço da pessoa privada de liberdade. As provas do exame nacional podem ser realizadas, anualmente, como espécie de vestibular, mas para ingresso no nível superior de ensino, quando o apenado poderá remir o tempo de execução da pena por aprendizado da graduação escolhida.
+No caso, a parte reitera o mesmo pedido de abatimento da condenação por "estudos completados antes do início do cumprimento da pena" (fl. 190). Não há fatos novos que permitam novo exame da controvérsia neste âmbito superior.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
