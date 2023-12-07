@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Roberto Rivelino Dolce - condenado como incurso nos crimes de tráfico de drogas e posse de munição de arma de fogo de uso permitido -, em que se aponta como autoridade coatora o Tribunal de Justiça do Paraná (Habeas Corpus n. 0041932-44.2023.8.16.0000), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 1ª Vara Criminal e Tribunal do Júri da comarca de Apucarana/PR (Autos n. 008656-31.2016.8.16.0044), ao argumento de nulidade das provas colhidas em Juízo, em razão da invasão ao domicílio. Subsidiariamente, alega exasperação indevida da pena-base, em razão da natureza da droga apreendida, bem como da não incidência da minorante do tráfico privilegiado. Por fim, sustenta a atipicidade do crime de posse de arma de fogo, tendo em vista que foi condenado pela apreensão de uma munição calibre .38.
+Ocorre que, além de a ação penal ter transitado em julgado em 6/2/2017 sem sequer ter sido interposto recurso de apelação , quando este Superior Tribunal ainda não havia fixado as nuances para a consideração das questões trazidas pela defesa, para tanto existe a via da revisão criminal, fundamentada no art. 621, I, do CPP.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS E POSSE DE MUNIÇÃO DE ARMA DE FOGO DE USO PERMITIDO. NULIDADE. INVASÃO DOMICILIAR. JUSTA CAUSA. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE E AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. ABSOLVIÇÃO DO DELITO DE POSSE DE MUNIÇÃO. PRETENSÃO DE REVISAR A CONDENAÇÃO. TRÂNSITO EM JULGADO EM 6/2/2017. VIA ELEITA INADEQUADA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
