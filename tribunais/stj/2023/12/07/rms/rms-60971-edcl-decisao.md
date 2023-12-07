@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Fernanda Rodrigues Guimarães Andrade e outros contra decisão que deu provimento ao recurso em mandado de segurança, assim ementado (fls. 326):
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA JUIZ DE DIREITO DO ESTADO DO RIO GRANDE DO SUL. AUSÊNCIA DE MOTIVAÇÃO DA BANCA EXAMINADORA ACERCA DOS CRITÉRIOS DE AVALIAÇÃO UTILIZADOS PARA A CORREÇÃO DA PROVA DE SENTENÇA. VIOLAÇÃO DO ART. 50 DA LEI 9.784/1999 E AOS PRINCÍPIOS DA PUBLICIDADE, TRANSPARÊNCIA E MOTIVAÇÃO. PRECEDENTE DA PRIMEIRA TURMA. RECURSO PROVIDO.
+Em suas razões, os embargantes sustentam haver erro material no conteúdo da decisão atacada, na medida em que se referiu à prova de sentença civil e penal do concurso de Juiz de Direito do Tribunal de Justiça do Estado do Rio Grande do Sul, enquanto o correto seria prova de sentença penal do Juiz Federal Substituto vinculado ao Tribunal Regional Federal da 4ª Região.
+Não obstante tal erro material, informam que discutem a mesma causa de nulidade (ausência de espelhos) do concurso do TJ/RS, razão pela qual o precedente relacionado a este Tribunal deve também ser aplicado nos presentes autos.
+Com impugnação às fls. 357/360.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, merece acolhimento o recurso, tendo em vista que, de fato, há erro material na decisão embargada em relação ao tipo de prova impugnada nos autos e ao concurso público a que se refere.
+Da decisão embargada, especificamente no primeiro parágrafo que relata as razões trazidas no recurso em mandado de segurança, é possível perceber que há referência às provas de sentença civil e penal do concurso de Juiz de Direito do Tribunal de Justiça do Estado do Rio Grande do Sul, enquanto que a presente controvérsia diz respeito tão somente à prova de sentença penal do concurso para Juiz Federal Substituto vinculado ao Tribunal Regional Federal da 4ª Região.
+Por conseguinte, é caso de acolhimento dos presentes aclaratórios, para sanar o apontado erro material, sem efeitos infringentes , e direcionar o dispositivo da decisão à prova de sentença penal do concurso em análise, qual seja, XVII Concurso para Provimento de Cargos de Juiz Federal Substituto vinculado ao Tribunal Regional Federal da 4ª Região.
+Ante o exposto, acolho os embargos de declaração, sem efeitos modificativos, tão somente para corrigir erro material, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
