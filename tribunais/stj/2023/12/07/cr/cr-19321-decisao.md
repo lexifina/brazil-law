@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a justiça portuguesa (Tribunal Judicial da Comarca de Lisboa Oeste - Juízo Local Criminal de Oeiras - Juiz 1) solicita a localização e intimação de DANIEL SILVA SENA para tomar ciência da sentença de penalidades impostas em razão da prática dos crimes de condução de veículo sem habilitação legal e condução em estado de embriaguez, bem como do prazo para apresentar recurso (fl. 8-28).
+A justiça estrangeira não apontou o endereço do interessado, de modo que o feito foi inicialmente remetido ao Ministério Público Federal, o qual forneceu duas possíveis localizações, ambas no Estado de Rondônia (fls. 36-37). A intimação foi frustrada em três oportunidades, conforme documentos acostados às fls. 47-48, 51-52 e 59-60.
+Tendo decorrido o prazo para manifestação da parte, a Defensoria Pública da União o representou na condição de curadora especial e impugnou a carta rogatória ao argumento de que deve haver a intimação pessoal da parte, consoante previsão do Código de Processo Penal brasileiro. Asseverou, ainda, que "houve violação tanto da Convenção entre os países envolvidos quanto da norma nacional aplicável (Código de Processo Penal), bem como dos postulados da ampla defesa e contraditório, insertos na Constituição Federal, pois não houve a intimação do acusado tal qual solicitado - notificação pessoal." (fl. 76).
+O Ministério Público Federal opinou pela concessão do exequatur para notificar a parte interessada (fls. 83-85).
+É o relatório.
+Decido.
+Não prospera a impugnação da Defensoria Pública quanto à imprescindibilidade da intimação pessoal do interessado. Com efeito, a parte ainda poderá impugnar os termos da rogatória quando do cumprimento do ato rogado pelo juízo federal. Nesse sentido, já se decidiu:
+AGRAVO REGIMENTAL NA CARTA ROGATÓRIA. INTIMAÇÃO PRÉVIA, VIA POSTAL, FRUSTRADA. DECURSO DO PRAZO PARA APRESENTAR IMPUGNAÇÃO. NOMEAÇÃO DE CURADOR ESPECIAL. INTERPRETAÇÃO EXTENSIVA DO ART. 216-R DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. APÓS O EXEQUATUR, ENVIO DA COMISSÃO À JUSTIÇA FEDERAL PARA CITAÇÃO POR INTERMÉDIO DE OFICIAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A intimação prévia constitui procedimento preliminar à concessão da ordem, podendo ser realizada via postal, pois o escopo é oportunizar o contraditório ao Interessado.
+2. Esta Corte Superior de Justiça deu uma interpretação extensiva ao art. 216-R do Regimento Interno para garantir o direito de defesa prévia do Interessado não localizado. Assim, após o decurso do prazo para a impugnação, nomeia-se curador especial (AgRg na CR n.º 9.556/EX, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 2/12/2015, DJe 18/12/2015).
+3. De qualquer forma, a comissão foi remetida à Justiça Federal para o devido cumprimento, e, nos termos dos arts. 216-V e 216-W do Regimento Interno desta Corte, notificar a parte Interessada por intermédio de oficial de justiça.
+4. Agravo regimental desprovido.
+(AgInt na CR n. 11.225/EX, relatora Ministra Laurita Vaz, Corte Especial, julgado em 20/11/2017, DJe de 27/11/2017.)
+De se notar que a finalidade desta carta rogatória é, tão somente, dar ciência ao interessado dos termos da decisão proferida pela Justiça estrangeira, não se tratando, portanto, de execução do que ali foi deliberado. Aliás, a intimação, na hipótese, torna-se necessária para que a parte tome ciência das deliberações lá proferidas, o que representa pressuposto essencial para o exercício da ampla defesa.
+Nessa linha de intelecção, o objeto da presente carta rogatória não atenta contra os requisitos legais (ofensa à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos e inteligência da decisão), razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Determino a remessa dos autos à Justiça Federal, Seção Judiciária do Estado de Rondônia, para as providências cabíveis e diligências que se fizerem necessárias a fim de encontrar o endereço atualizado da parte interessada.
+Cumpra-se em 60 dias.
+Após, retornem os autos ao STJ para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se. Intimem-se.
+EMENTA
