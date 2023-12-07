@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUELI NAMIKO YAMASHIRO, com amparo no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 361):
+LOCAÇÃO DE IMÓVEL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C. C. COBRANÇA - PROCEDÊNCIA - CUMPRIMENTO DE SENTENÇA - INDEFERIMENTO DE PESQUISA AOS SISTEMAS DECRED, DIMOF E E-FINANCEIRA - PESQUISAS QUE SE DESTINAM À OBTENÇÃO DE INFORMAÇÕES REFERENTES À OPERAÇÕES PRETÉRITAS E INEFICAZES PARA A LOCALIZAÇÃO DE BENS E/OU VALORES PASSÍVEIS DE PENHORA - DILIGÊNCIA QUE NÃO SE JUSTIFICA - RECURSO NÃO PROVIDO.
+Considerando-se que as pesquisas junto aos sistemas da Receita Federal DECRED, DIMOB e E-FINANCEIRA se mostram ineficazes para o encontro de bens penhoráveis, por dizerem respeito a operações pretéritas, inaptas à satisfação da obrigação, de rigor a manutenção da r. decisão agravada.
+Os embargos de declaração foram rejeitados (fls. 371/374).
+Nas razões do especial, aponta a recorrente violação dos artigos 3º, 4º, 5º 6º, 8º, 139, inciso IV, 789, 797, 831, todos, do Código de Processo Civil; argumentando, em síntese, que deve ser deferida a consulta aos sistemas DECRED, DIMOB e E-FINANCEIRA, uma vez que, além de ser menos onerosas ao devedor, viabilizariam a satisfação do crédito executado.
+Ressalta, ainda, que a medida requerida estaria inclusa no poder geral de cautela, justificando o provimento, a fim de resguardar a satisfação do provimento principal.
+Aberto prazo para contrarrazões, não foram apresentadas (fl. 404); e o recurso especial, admitido na origem (fls. 405/407).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem indeferiu a consulta aos sistemas DECRED, DIMOB e E-FINANCEIRA, por considerar que seria ineficaz para encontrar bens passíveis de constrição do executado, tendo em vista os outros meios executórios disponíveis ao exequente.
+A propósito (fls. 362/363):
+Com efeito, não se desconhece que a execução deva ser realizada no interesse do credor, nos termos que dispõe o art. 797 do CPC, contudo, como bem ressaltou o juízo a quo, a expedição de ofícios à Receita Federal, para consulta aos sistemas DECRED, DIMOF e E-FINANCEIRA, não se revela adequada, porquanto os dados ali constantes se referem a transações pretéritas, portanto, ineficazes à localização de eventuais bens e/ou valores penhoráveis, os quais podem ser obtidos por outros meios das ferramentas de buscas postos à disposição do credor, sobretudo os sistemas Bacenjud, Infojud e Renajud, assim como novos sistemas recentemente implementados por esta E. Corte, que se mostram mais apropriadas e proporcionais.
+Deste modo, por ora, não há elementos suficientes nos autos a autorizar a diligência pretendida pela exequente. (grifo acrescido)
+Como se vê, o Tribunal de origem não analisou a controvérsia referente à viabilidade de uso dos sistemas DECRED, DIMOF e E-FINANCEIRA, senão que os considerou, a partir da análise do contexto fático-probatório, menos eficazes que outros meios disponíveis ao exequente.
+Por conta disso, a controvérsia referente ao mérito das medidas requeridas (DECRED, DIMOF e E-FINANCEIRA) não pode ser analisada de modo originário na via do recurso especial, em razão do óbice do prequestionamento.
+Ressalte-se que, na linha da jurisprudência consolidada no âmbito desta Corte Superior: "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. BEM DE FAMÍLIA. IMPENHORABILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4.4.2017, DJe 10.4.2017).
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.145.317/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+De toda forma, para rever o provimento adotado no acórdão recorrido quanto à ineficácia da medida executória requerida, em relação às demais disponíveis ao exequente, seria imprescindível o reexame do contexto fático-probatório; providência vedada em sede de recurso especial, em razão da Súmula 7/STJ.
+Em face do exposto, não conheço do recurso especial.
+Deixo de arbitrar honorários de recurso, pois inexistente condenação a respeito na origem, vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do artigo 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
