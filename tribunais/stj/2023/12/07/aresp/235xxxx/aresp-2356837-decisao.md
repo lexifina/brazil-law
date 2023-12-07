@@ -1,0 +1,20 @@
+DECISÃO
+Em exame, agravo de decisão que deixou de admitir recurso especial interposto por CARMEM NATALINA GUESSO MENEZES, sob o fundamento de que (a) a parte não comprovou, no ato da interposição do recurso, conforme dispõe o artigo 1.003, § 6º, do CPC, a suspensão do expediente nas repartições judiciárias do Estado do Paraná no dia 19.12.2022, e (b) o print da tela de detalhamento do cálculo do prazo do Sistema Projudi não possui caráter oficial para fins de comprovação da tempestividade.
+A agravante alega que a decisão agravada não merece prosperar, porque (a) a suspensão de prazo no dia 19/12/2022 é fato notório e prescindível de prova, sobretudo quando há Decreto Judiciário noticiando os dias reputados como não úteis e (b) o sistema PROJUDI lança automaticamente os prazos e no cálculo dos prazos eficientemente computa os feriados e os dias não úteis.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+O agravo não merece prosperar.
+Inicialmente, convém rememorar que à e-STJ Fl. 728, a recorrente afirmou a tempestividade do recurso especial procedendo, tão-somente, à colação do print da tela do sistema PROJUDI do TJPR.
+Assim sendo, a pretensão recursal não merece amparo, pois a Corte Especial decidiu que (a) em se tratando de interposição de recurso em datas que não se referem ao feriado de carnaval, é aplicável a jurisprudência desta Corte no sentido da impossibilidade de comprovação da tempestividade após a interposição do recurso e (b) a prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo, sendo que não atende a tal finalidade o mero colacionamento no corpo do recurso de print de tela de computador sem que se possa, até mesmo, vinculá-lo a feito específico (AgInt nos EAREsp n. 2.009.812/PR, relator Ministro Francisco Falcão, Corte Especial, julgado em 25/4/2023, DJe de 28/4/2023).
+Por estar em sintonia com esse entendimento, não merece reparos a decisão agravada.
+Em arremate, esclareça-se que ao caso dos autos não se aplica o entendimento firmado pela Corte Especial assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. JUNTADA DE CALENDÁRIO JUDICIAL. DISPONIBILIZAÇÃO NO SITE DO TRIBUNAL DE ORIGEM. IDONEIDADE. CARÁTER OFICIAL. PRECEDENTE DO STF EM MANDADO DE SEGURANÇA. ADEQUAÇÃO DA JURISPRUDÊNCIA DO STJ. EMBARGOS PROVIDOS.
+1. O eg. Supremo Tribunal Federal, reformando acórdão deste Tribunal Superior no julgamento do MS 23.896/AM, reconheceu a idoneidade do calendário judicial do Tribunal de origem, divulgado no site oficial na internet e juntado aos autos pela parte, como meio de comprovação da tempestividade recursal (RMS 36.114/AM, Primeira Turma, Rel. Min. MARCO AURÉLIO; Julgamento: 22/10/2019; Publicação: 12/12/2019).
+2. À luz da Lei 11.419/2006, que dispõe sobre a informatização do processo judicial, as informações processuais disponibilizadas por meio da internet, na página eletrônica de Tribunal de Justiça ou de Tribunal Regional Federal, ostentam natureza oficial, gerando para as partes que as consultam a presunção de correção e confiabilidade.
+Desse modo, uma vez lançada a informação, no calendário judicial, disponibilizado pelo site do Tribunal de origem, da existência de suspensão local de prazo, deve ser considerada idônea a juntada desse documento pela parte para fins de comprovação do feriado local.
+3. Embargos de divergência providos, reconhecendo-se a tempestividade do recurso especial, com o consequente retorno dos autos à eg. Segunda Turma para apreciação do recurso como entender de direito. (EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023, DJe de 15/5/2023.)
+Isso posto , nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% os ho norários advocatícios arbitrados em favor dos advogados da parte contrária, observados, se aplicáveis, os limites percentuais previstos no § 3º do referido dispositivo legal, bem como a concessão de eventual justiça gratuita.
+Intime-se.
+EMENTA
