@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei contra acórdão oriundo da 2a Turma recursal da fazenda pública do RS, assim ementado:
+RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DAFAZENDA PÚBLICA.. DESERÇÃO. PEDIDO DE CONCESSÃODA ASSISTÊNCIA JUDICIÁRIA GRATUITA INDEFERIDO. RENDIMENTOS QUE SUPERAM 05 SALÁRIOS MÍNIMOS. JURISPRUDÊNCIA DAS TURMAS RECURSAIS QUE PASSOUA DEFINIR O QUE SE ENTENDE POR NECESSITADO COMOAQUELE QUE PERCEBE ATÉ 05 (CINCO) SALÁRIOSMÍNIMOS. CASO CONCRETO EM QUE OS RENDIMENTOSDA RECORRENTE SUPERAM ESSA QUANTIA. INTIMADA,NÃO PROCEDEU NO RECOLHIMENTO DO PREPARO. DESERÇÃO. NEGADO SEGUIMENTO AO RECURSO INOMINADO EMDECISÃO MONOCRÁTICA
+O contexto processual do presente pedido está bem delimitado no seguinte trecho da petição (fl. 5):
+Inconformado com a referida condenação, uma vez que não havia ocorrido a angularização processual e entendendo não ter sido considerado como vencido no recurso, vez que havia sido julgado deserto, interpôs agravo interno, o qual, igualmente, por maioria, foi julgado improcedente, mantendo-se a condenação, sendo vencida a juíza Rute dos Santos Rossato.
+Todavia, compulsando a jurisprudência dos demais Tribunais do país, a parte verificou que estão sendo dadas interpretações diversas ao que dispõe o art. 55 da lei 9.099/95, especificamente em casos idênticos ao do processo em tela.
+Isto é, quando existe a deserção e o consequente não conhecimento do recurso inominado interposto, alguns tribunais entendem pela condenação em custas e honorários de sucumbência e outros tribunais entendem pela impossibilidade, configurando, portanto, interpretações diversas ao mesmo dispositivo legal (Art. 55 da Lei 9.099/95).
+O requerente aponta acórdãos paradigmas oriundos das Turmas Recursais dos Tribunais de Justiça de São Paulo, Santa Catarina, Bahia, Mato Grosso, Minas Gerais, Paraná (fls. 7 em diante).
+Ao final, o requerente pede a retirada da condenação no pagamento das custas processuais e honorários advocatícios.
+É o relatório. Passo a decidir.
+A Lei n. 10.259/2001, ao possibilitar o ajuizamento de incidente de uniformização de jurisprudência, assim estabelece:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+ ..
+§ 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça -STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Da análise dos autos, constata-se que o objeto central do presente pedido está centrado em questões processuais (condenação em custas e honorários, na deserção recursal).
+Dessa forma, verifica-se incabível o Pedido de Uniformização de Interpretação de Lei na presente hipótese, na medida em que o tema em comento diz respeito à questão de cunho processual, em desconformidade com o art. 14, § 4º, da Lei 10.259/2001, mencionado anteriormente.
+A propósito:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DE PREPARO. DIREITO PROCESSUAL.
+1. Trata-se de Agravo Interno contra decisão do Relator que rejeitou liminarmente o processamento do Pedido de Uniformização de Interpretação de Lei sob o argumento de que o acórdão na origem foi inadmitido pelo relator por falta de preparo, tendo em vista não ser a parte beneficiária da justiça gratuita, não se tratando de matéria apta à abertura desta via processual excepcional somente cabível para dirimir questões de direito material.
+2. O Pedido de Uniformização somente é cabível para questões de direito material, e a decisão impugnada da origem é de índole processual. De acordo com o art. 14, § 4º, da Lei 10.259/2001, "quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+3. O § 3º, artigo 18 da Lei 12.153/2009 estabelece "§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado".
+4. Verifica-se ser incabível o Pedido de Uniformização de Interpretação de Lei Federal na presente hipótese, já que, além de buscar a reforma de acórdão da origem inadmitido pelo Relator por falta de preparo, o que não caracteriza discussão sobre direito material, para aferir a existência ou não da hipossuficiência econômica que justifique a concessão da Assistência Judiciária Gratuita haveria a Corte que analisar a matéria fático-probatória que emerge do caso concreto, o que resulta na impossibilidade de realizar o cotejo analítico entre supostas decisões judiciais conflitantes com julgados do STJ. Nesse sentido: AgInt no PUIL 196/RN, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 22/8/2018; AgInt no PUIL 153/RO, Rel. Ministro Francisco Falcão, Primeira Seção; AgInt no PUIL 44/RO, Rel. Ministra Assusete Magalhães, Primeira Seção, julgado em 23/11/2016.
+5. Agravo Interno não provido (AgInt no PUIL 795/RN, relator Ministro Herman Benjamin, Primeira Seção, DJe 26/2/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. CONHECIMENTO DE RECURSO INOMINADO DESERTO. ANÁLISE DE QUESTÕES PROCESSUAIS. VEDAÇÃO LEGAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Hipótese em que a requerente interpôs recurso inominado sem preparo em face de sentença que não concedeu benefício da Assistência Judiciária Gratuita.
+2. A questão em exame se refere ao conhecimento de recurso inominado que foi declarado deserto por Turma Recursal de Juizado Especial.
+3. No caso dos autos, eventual pronunciamento de direito material teria caráter estritamente incidental. Embora a recorrente argumenta que a concessão prévia de assistência judiciária gratuita é de direito material, o objeto dos autos se refere à observação de requisitos de admissibilidade de recursos, cuja natureza é de direito processual.
+4. O objeto do pedido de uniformização se restringe a questões de direito material.
+5. Agravo interno não provido (AgInt no PUIL 196/RN, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe 28/8/2018).
+Ante o exposto, com fulcro no artigo 34, XVIII, "a", do RISTJ, não conheço do Pedido de Uniformização de Interpretação de Lei.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. QUESTÃO DE ORDEM PROCESSUAL. AUSÊNCIA DE EXAME DO DIREITO MATERIAL. PEDIDO NÃO CONHECIDO.
