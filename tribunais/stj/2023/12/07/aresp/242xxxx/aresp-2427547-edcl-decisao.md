@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAO BATISTA DA SILVA à decisão de fls. 442/443, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O embargante interpôs agravo em recurso especial, pugnando pela conhecimento e provimento do recurso especial interposto em outrora.
+Ocorre, Excelência, que ao apreciar aludido pedido, o E. Ministro relator da 2º turma do STJ, julgou deserto o pleito, com fundamento na irregularidade da realização do preparo, visto o incorreto preenchimento da guia de recolhimento das custa recursais.
+Nesse sentido, entende o ora embargante que tem direito ao contraditório e ampla defes, princípios estes, consagrados constitucionalmente, restando referida guia de recolhimento com erro meramente formal de preenchimento, sendo que os valores foram devidamente recolhidos, sendo este o objetivo legal do preparo.
+Ante o exposto, requer seja conhecido e provido os presentes embargos de declaração com efeitos infrigentes, devolvendo o prazo para que o ora embargante sane o vício formal apontado, com a consequente admissão e provimento do agravo em recurso especial interposto (fls. 447/448).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão ora embargada, que agora se repete, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista o pedido de gratuidade de justiça realizado às fls. 376/384.
+Antes de o Tribunal de origem apreciar o referido pedido, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento; no entanto, de forma simples, quando era devido em dobro.
+No caso, mesmo após a intimação da parte, nesta Corte, para sanear o vício, não houve a devida regularização, uma vez que apresentou a guia de recolhimento (fl. 438) com a indicação incorreta do "Número do Processo que consta no Acórdão Recorrido".
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no REsp 1587322/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 28/11/2019; AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019; e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+Veja-se que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade do preparo era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Ainda, cumpre consignar que intimada a parte nos termos do art. 1.007, §§ 2º, 4º ou 7º, do CPC, não há previsão para que uma nova intimação seja realizada. Logo se a parte foi intimada nesta Corte e não providenciou a devida regularização, não há como dar nova oportunidade de sanar o óbice.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
