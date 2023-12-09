@@ -1,0 +1,73 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. CONTAGEM EM DOBRO DE TEMPO DE SERVIÇO AOS PIONEIROS DO TOCANTINS PARA FINS PREVIDENCIÁRIOS (TEMPO FICTO). DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 20/1998. PRECEDENTES. PREENCHIMENTO DOS REQUISITOS LEGAIS PARA A CONTAGEM DE TEMPO DE SERVIÇO: SÚMULAS NS. 279 E 280 DESTE SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Tocantins:
+
+    “APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE AVERBAÇÃO DE TEMPO DE SERVIÇO E REVISÃO PROVENTOS DE INATIVIDADE. SERVIDOR PÚBLICO ESTADUAL. PIONEIRO DO TOCANTINS. PERÍODO TRABALHADO ENTRE 1989 E 1990. FINS PREVIDENCIÁRIOS. CONTAGEM EM DOBRO. LIMITAÇÃO POSTERIOR À CRIAÇÃO DO BENEFÍCIO. DIREITO ADQUIRIDO. AVERBAÇÃO. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA. 1. A contagem em dobro do período trabalhado pelos servidores públicos tocantinenses entre 1989 e 1990, ao ser instituída, aplicava-se ampla e indistintamente, sem qualquer limitação a todos aqueles que, ao optarem pela recém-criada Unidade da Federação, receberam o título de Pioneiro do Tocantins. 2. A limitação da aplicação do benefício de contagem em dobro àqueles que se aposentaram até dezembro de 1998, instituída dez anos após a criação do título e concessão indistinta da vantagem, ofende o direito adquirido. 3. A existência de vedação constitucional ao cômputo de tempo de contribuição fictício (art. 40, §10, CF/88), implementado pela Emenda Constitucional 20/1998, muitos anos após a instituição do benefício referente ao título de Pioneiros de Tocantins não atinge o período laborado e direito adquirido antes da vedação (1989/1990). 4. Recurso conhecido e provido. Sentença reformada” (fl. 1, e-doc. 14).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 20).
+
+    2. No recurso extraordinário, os agravantes alegam ter o Tribunal de origem contrariado o inc. XXXVI do art. 5º da Constituição da República. Argumentam não ser possível a “contagem fictícia de tempo de serviço para os detentores do título de ‘Pioneiro do Tocantins’, para aqueles servidores que deixaram de atingir os requisitos necessários à aposentadoria antes da vigência da supramencionada emenda [Emenda Constitucional n. 20/1998]” (fl. 2, e-doc. 22).
+
+    3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279 e 280 deste Supremo Tribunal (e-doc. 24).
+
+    4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, os agravantes sustentam “o presente caso apresenta interesses muito além de reexame de provas e ofensa a legislação estadual, uma vez que o que se pretende realmente na demanda é a apreciação, pela Corte Constitucional, do direito dos servidores gozarem do tempo ficto de contribuição previdenciária em dobro, mesmo aqueles que só vieram a cumprir com os requisitos necessários para tanto após a entrada em vigor da Emenda Constitucional nº 20/1998, a qual alterou o sistema previdenciário, em especial a aposentadoria, incluindo o §10 no art. 40” (fl. 5, e-doc. 26).
+
+    Enfatizam que, “ao contrário do que fora levantado pelo n. relator ao proferir a decisão ora objurgada, a presente demanda não versa sobre legislação constitucional e nem mesmo se finda em reexame de matéria probatória, mas baseia-se no questionamento do suposto direito dos servidores perante à matéria constitucional suscitada, visto que haverá impactos financeiros imensuráveis caso o entendimento do Tribunal de Justiça local prevaleça” (fls. 6-7, e-doc. 26).
+
+    Pedem o “conhecimento e provimento do presente Agravo em Recurso Extraordinário, nos termos do art. 1.042, § 5º, do CPC, conjuntamente com o Recurso Extraordinário interposto, culminando na reforma/cassação do acórdão objurgado” (fl. 7, e-doc. 26).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste aos agravantes.
+
+    6. No voto condutor do acórdão recorrido, o Desembargador relator assentou:
+
+    “Encontra-se pacificado pela jurisprudência que a vedação ao cômputo de tempo de contribuição fictício, imposta pela Emenda Constitucional nº 20/1998 (art. 40, § 10), não atinge os períodos anteriores à vigência da referida emenda. Assim, uma vez que o direito à contagem em dobro do tempo de serviço do servidor público foi alcançado na vigência da lei instituidora, à época de sua prestação, não se aplica de forma retroativa norma ulterior em sentido contrário, uma vez que se está a tratar na espécie de direito adquirido.
+
+    Nesse sentido, já se manifestou o STF para quem a referida previsão de contagem fictícia, ao cuidar de tempo de serviço, subsume-se ao momento da prestação deste. Portanto, tendo-se em conta que o intervalo considerado se deu em período anterior à novel vedação constitucional, adquiriu o recorrente o direito à fruição dos efeitos dele decorrentes (RE 364917/TO, Relator Min. Dias Toffoli, Data de Julgamento: 18/12/2009, DJe 24/02/2010).
+
+    Portanto, conclui-se que o apelante faz jus ao reconhecimento do direito de que seja considerada a contribuição ficta referente ao período de 1989 a 1990, decorrente do título de pioneiros do Tocantins, devendo tal período ser contado em dobro para fins de aposentadoria, em consonância com a jurisprudência emanada pelo STF e ao entendimento pacificado pelo Tribunal de Justiça do Estado do Tocantins. Por consequência, em sendo computado em dobro o período alhures mencionado, os autores fazem jus a revisão do ato de aposentadoria, assim como dos proventos decorrentes” (fl. 4, e-doc. 14).
+
+    No julgamento do Agravo Regimental no Agravo de Instrumento n. 540.075, de minha relatoria, questão análoga à vertente, este Supremo Tribunal assentou:
+
+    “Mesmo que o pedido de aposentadoria tenha sido formulado em data posterior a vigência da Emenda Constitucional nº 20/98, é viável o aproveitamento, em data posterior, das licenças-prêmio não gozadas para efeito de contabilizar o tempo de serviço respectivo, nos termos previstos na lei de regência, considerando-se apenas o período que inexistia aquela vedação constitucional” (DJe 9.2.2007).
+
+    Nesse mesmo sentido, por exemplo, os seguintes julgados específicos sobre o direito adquirido à contagem de tempo de serviço de “pioneiros do Tocantins”:
+
+    ”AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA. CONTAGEM EM DOBRO DE TEMPO DE SERVIÇO AOS PIONEIROS DO TOCANTINS PARA FINS PREVIDENCIÁRIOS (TEMPO FICTO). DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 20/1998. ACÓRDÃO RECORRIDO CONSOANTE JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 858.549-AgR, de minha relatoria, Segunda Turma, DJe 30.3.2015).
+
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. SERVIDOR PÚBLICO DO ESTADO DO TOCANTINS. TEMPO DE SERVIÇO. CONTAGEM EM DOBRO PARA FINS PREVIDENCIÁRIOS. TÍTULO DE ‘PIONEIRO DO TOCANTINS’. DIREITO ADQUIRIDO ANTES DA PROMULGAÇÃO DA EMENDA CONSTUCIONAL N. 20/1998. POSSIBILIDADE. PRECEDENTE. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO. 1. A Emenda Constitucional n. 20/1998, mesmo incluindo o § 10 no art. 40 da Constituição Federal, de modo a vedar qualquer forma de contagem de tempo de contribuição fictício, ressalvou a manutenção de todos os direitos e garantias assegurados nas disposições constitucionais vigentes à data de sua publicação aos servidores e militares, inativos e pensionistas, aos anistiados e aos ex-combatentes, bem como aos que já cumpriram, até aquela data, os requisitos para usufruírem tais direitos (art. 3º, § 3º). 2. Daí por que, na espécie, o pleito de averbação, pelo servidor estadual detentor do título de ‘Pioneiro do Tocantins’, do período trabalhado – 5 de junho de 1989 a 31 de dezembro de 1990 – com contagem em dobro coaduna-se com a referida Emenda, já que adquirido antes de sua promulgação, bem assim encontra-se em conformidade com precedente desta Corte (RE 858.549 AgR/TO). 3. Nos termos do § 11 do art. 85 do Código de Processo Civil, a verba honorária fixada pelas instâncias de origem é majorada em 1%, observados os limites previstos nos §§ 2º e 3º. 4. Agravo interno ao qual se nega provimento” (RE n. 1.309.970-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 23.9.2021).
+
+    “Agravo regimental no recurso extraordinário. Licença-prêmio não gozada. Conversão. Aposentadoria. Contagem em dobro. Requisitos preenchidos antes da vigência da Emenda Constitucional nº 20/98. Possibilidade. Precedentes. 1. É pacífica a jurisprudência desta Corte no sentido de que o servidor público tem direito à conversão em tempo de serviço, em dobro, da licença-prêmio não gozada correspondente a serviço prestado até o advento da Emenda Constitucional nº 20/98. 2. Agravo regimental não provido” (RE n. 364.917-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 30.3.2012).
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ‘PIONEIRO DO TOCANTINS’. CONTAGEM EM DOBRO DO TEMPO DE SERVIÇO PARA FINS DE APOSENTADORIA: POSSIBILIDADE. DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL Nº 20, DE 1998. NEGATIVA DE PROVIMENTO” (ARE n. 1.414.917, Relator o Ministro André Mendonça, decisão monocrática transitada em julgado, DJe 19.1.2023).
+
+    O acórdão recorrido harmoniza-se com essa orientação jurisprudencial.
+
+    7. Na espécie vertente, o Tribunal de origem assinalou que, “do que se colhe dos documentos e informações dos autos originários, vislumbra-se que a parte autora, ora apelante, ingressou na PM/GO, tendo optado por ficar no estado do Tocantins com a sua criação, em 15.07.1983, ou seja, dentro do lapso temporal estabelecido no artigo 25 da Lei Estadual nº 157/1990, que criou o Título de ‘Pioneiros do Tocantins’, o qual foi mantido pelo artigo 158, da lei nº 255/1991 – Estatuto dos Servidores Públicos do Estado do Tocantins” (fls. 2-3, e-doc. 14).
+
+    Para rever o entendimento adotado pelas instâncias de origem seria necessário o reexame da matéria fático-probatória e da legislação infraconstitucional local aplicável ao processo (Leis estaduais ns. 157/1990 e 255/1991). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MAGISTÉRIO. CONTAGEM DE TEMPO PARA CONCESSÃO DE BENEFÍCIOS E ADICIONAIS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (ARE n. 1.379.591-AgR, de minha relatoria, Primeira Turma, DJe 14.6.2022).
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MAGISTRADOS. ALTERAÇÃO DE REGIME JURÍDICO PREVIDENCIÁRIO. EFICÁCIA DO § 3º DO ART. 8º DA EC Nº 20/1998. DIREITO ADQUIRIDO À APLICAÇÃO DA REGRA DE TRANSIÇÃO COMPENSATÓRIA DE ACRÉSCIMO DE 17% AO TEMPO DE SERVIÇO PRESTADO ATÉ A DATA DA VIGÊNCIA DA EC Nº 20/1998. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que “o § 3º do art. 8º da EC 20/1998 tem por fim equalizar uma situação jurídica ‘passada’ criada pela própria EC 20 e, por isto, produziu seus efeitos de acréscimo na contagem do tempo passado de forma concreta, não se exigindo, para a contagem do tempo, a integração de qualquer outro elemento ou fato jurídico, o que se traduz em aquisição do próprio direito à contagem diferenciada” (Rcl 10.823-AgR, Rel. Roberto Barroso, Rel. P/ Ac: Alexandre de Moraes, Tribunal Pleno, DJe 11.3.2021). Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça 4. Agravo interno conhecido e não provido” (RE n. 1.309.240-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 20.9.2021).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. EXAME DE DIREITO LOCAL. INVIABILIDADE. SÚMULA 280/STF. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. A solução da controvérsia depende do exame de legislação local e do contexto fático-probatório dos autos, providências incabíveis nesta sede recursal, conforme consubstanciado nas Súmulas 280 (Por ofensa a direito local não cabe recurso extraordinário) e 279 (Para simples reexame de prova não cabe recurso extraordinário) do STF. 2. Agravo interno a que se nega provimento” (ARE n. 1.404.626-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 21.11.2022).
+
+    Nada há a prover quanto às alegações dos agravantes.
+
+    8. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 9 de dezembro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
