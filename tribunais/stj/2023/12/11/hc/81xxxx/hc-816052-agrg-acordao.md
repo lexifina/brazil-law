@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. AMEAÇA. DISPARO DE ARMA DE FOGO EM VIA PÚBLICA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. MAUS ANTECEDENTES E REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE NÃO CONSTATADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O Superior Tribunal de Justiça consolidou entendimento no sentido de que "inexiste violação ao art. 44, § 3º, do CP, pois negada a substituição da pena privativa de liberdade em restritiva de direitos por não ser socialmente recomendável, eis que o recorrente possui maus antecedentes e é reincidente" (AgRg no REsp n. 2.049.982/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023), tal qual ocorreu no presente caso.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JADILSON PETROCINIO DA SILVA contra a decisão que denegou a ordem de habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o agravante foi condenado às penas de 04 (quatro) meses e 25 (vinte e cinco) dias de detenção, e de 02 (dois) anos e 08 (oito) meses e 20 (vinte) dias de reclusão, em regime semiaberto, além de 12 (doze) dias multa, por infração aos artigos 129, caput, e 147, caput, ambos do Código Penal, e ao artigo 15 da Lei 10.826/2003, na forma do artigo 69 do Código Penal, conforme sentença de fls. 19-22.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, consoante acórdão juntado às fls. 23-32.
+No respectivo writ, impetrado nesta Corte, a defesa requereu a concessão da ordem para substituir a pena privativa de liberdade por restritivas de direitos.
+A ordem de habeas corpus foi denegada (fls. 70-72).
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando a ilegalidade do acórdão impugnado, em razão da negativa à substituição da pena corporal por restritivas de liberdade, ao argumento de que "A Terceira Seção do STJ no julgamento do AREsp nº 1.716.664/SP fixou o entendimento de que, somente a condenação por CRIME IDÊNTICO impede em absoluto a substituição da pena privativa de liberdade por restritiva de direitos", o que não ocorreu no presente caso.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 77-84).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. AMEAÇA. DISPARO DE ARMA DE FOGO EM VIA PÚBLICA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. MAUS ANTECEDENTES E REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE NÃO CONSTATADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O Superior Tribunal de Justiça consolidou entendimento no sentido de que "inexiste violação ao art. 44, § 3º, do CP, pois negada a substituição da pena privativa de liberdade em restritiva de direitos por não ser socialmente recomendável, eis que o recorrente possui maus antecedentes e é reincidente" (AgRg no REsp n. 2.049.982/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023), tal qual ocorreu no presente caso.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Presentes os requisitos legais, conheço do agravo regimental.
+Como relatado, a defesa repisa os argumentos de mérito, sustentando a possibilidade de substituição da pena privativa de liberdade por restritivas de direitos.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Assinalo, quanto ao ponto, que o artigo 44, II e III, do Código Penal, dispõe que "As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando" "II - o réu não for reincidente em crime doloso" e "III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente".
+No presente caso, verifico que a Corte de origem manteve o afastamento da substituição da pena corporal por penas restritivas de direitos em razão não apenas da reincidência do paciente, tal qual sustentado pela defesa, mas por ostentar, também, maus antecedentes, fatores que, consoante a jurisprudência deste STJ, mormente quando valorados em conjunto, são aptos a afastar o benefício pleiteado pela defesa.
+Por esse motivo, não há que se falar em semelhança entre os precedentes colacionados pelo agravante, os quais não refletem a mesma situação fático-processual dos presentes autos, até porque dizem respeito a pacientes que não ostentam maus antecedentes, apenas reincidência.
+Em suma, "inexiste violação ao art. 44, § 3º, do CP, pois negada a substituição da pena privativa de liberdade em restritiva de direitos por não ser socialmente recomendável, eis que o recorrente possui maus antecedentes e é reincidente" (AgRg no REsp n. 2.049.982/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023).
+Em reforço, os seguintes julgados: AgRg no AREsp n. 2.288.780/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/6/2023; AgRg no HC n. 773.381/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 23/3/2023; AgRg no HC n. 799.902/SP, Quinta Turma, de minha relatoria, DJe de 23/8/2023; e AgRg no HC n. 814.038/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/10/2023.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
