@@ -1,0 +1,107 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5025872-17.2022.8.08.0048
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: DANIEL JUNIO CALSAVARA PEREIRA
+
+RECORRIDO: MULTIPLUS PROTECAO VEICULAR
+
+RELATOR(A):
+THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+RECURSO INOMINADO Nº
+5025872-17.2022.8.08.0048
+
+RECORRENTE:
+DANIEL JUNIO CALSAVARA PEREIRA
+
+RECORRIDA:
+MULTIPLUS PROTEÇÃO VEICULAR
+
+RELATORA:
+Dra.
+
+THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE:
+DEJAIRO XAVIER CORDEIRO
+
+EMENTA:
+JUIZADO ESPECIAL CÍVEL. AÇÃO DE COBRANÇA. DESCUMPRIMENTO CONTRATUAL NÃO DEMONSTRADO. QUITAÇÃO DA OBRIGAÇÃO.
+RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+VOTO
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro pedido de assistência judiciária gratuita.
+
+JUIZADO ESPECIAL CÍVEL. AÇÃO DE COBRANÇA. DESCUMPRIMENTO CONTRATUAL NÃO DEMONSTRADO. QUITAÇÃO DA OBRIGAÇÃO.
+NARRA A PARTE AUTORA QUE REALIZOU A CONTRATAÇÃO DE PLANO DE PROTEÇÃO VEICULAR JUNTO A REQUERIDA. EM 19/03/2022 O AUTOR FOI VÍTIMA DE FURTO DE SUA MOTOCICLETA, CONFORME REGISTRO POLICIAL, TENDO DADO INÍCIO A ABERTURA DE EVENTO JUNTO A REQUERIDA, COM O ENVIO DE TODA A DOCUMENTAÇÃO EXIGIDA PELA MESMA. ENTRETANTO O VALOR DA MOTOCICLETA ERA DE R$ 14.877,00 (QUATORZE MIL OITOCENTOS E SETENTA E SETE REAIS) SENDO QUE O VALOR DE PAGAMENTO INFORMADO PELA REQUERIDA SERIA DE R$ 12.635,00 (DOZE MIL SEISCENTOS E TRINTA E CINCO REAIS) REQUER COMPENSAÇÃO FINANCEIRA CONFORME AVENÇADO EM CONTRATO, BEM COMO A DEVIDA COMPENSAÇÃO MORAL
+.
+SENTENÇA JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS
+
+DIANTE DA INEXISTÊNCIA DE INTERESSE DE AGIR E DE QUALQUER VÍCIO QUE POSSA MACULAR A MANIFESTAÇÃO DE VONTADE.
+
+RECURSO INOMINADO DA PARTE AUTORA.
+EM SUAS RAZÕES, ALEGA A EXISTÊNCIA DO DÉBITO, E QUE O RECIBO APRESENTADO PELA RECORRIDA DEVE SER INTERPRETADO DE MODO RESTRITIVO, SEM OBSTAR A PROPOSITURA DA AÇÃO. PUGNA PELA REFORMA DA SENTENÇA PARA QUE SEJAM JULGADOS PROCEDENTES OS PEDIDOS AUTORAIS.
+CONTRARRAZÕES
+APRESENTADAS PELA
+PARTE REQUERIDA, PELA QUAL REQUER MANUTENÇÃO INTEGRAL DA SENTENÇA ORA GUERREADA.
+RECURSO CONHECIDO E IMPROVIDO
+.
+ANALISANDO DETIDAMENTE O ACERVO FÁTICO PROBATÓRIO DOS AUTOS, COADUNO COM O ENTENDIMENTO DO JUÍZO DE PISO NO SENTIDO DE QUE HOUVE INTEGRAL QUITAÇÃO DA OBRIGAÇÃO RELATIVOS AOS DANOS MATERIAIS, MORAL E LUCRO CESSANTE, ALÉM DA INEXISTÊNCIA DE QUALQUER VÍCIO PRESENTE NO CONTRATO REALIZADO ENTRE AS PARTES. PORTANTO, ANTE A DEMONSTRAÇÃO DE QUITAÇÃO EXTRAJUDICIAL PLENA DO REFERIDO CONTRATO, VERIFICA-SE A INEXISTÊNCIA DE UMA DAS CONDIÇÕES DA AÇÃO, QUAL SEJA, O INTERESSE PROCESSUAL.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+,
+NOS TERMOS DO ART. 46 DA LEI 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 20% DO VALOR ATUALIZADO DA CAUSA, ANTE A AUSÊNCIA DE VERBA CONDENATÓRIA.
+
+DISPOSITIVO
+
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO
+, mantendo a sentença intocada, por seus próprios fundamentos. Condeno o recorrente ao pagamento de custas processuais e honorários advocatícios, fixados em 20% sobre o valor da condenação ou, na ausência desta, sobre o valor da causa, nos termos do art. 55 da Lei 9.099/95 e art. 85, §2º do CPC. Suspensa a exigibilidade ante a concessão de gratuidade de justiça à parte.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
