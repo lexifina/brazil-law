@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por J G BARBOSA & CIA LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE DESPEJO C/C COBRANÇA. LOCAÇÃO DE IMÓVEL. Autora que requer o despejo da locatária e a cobrança dos aluguéis em atraso. Celebração de acordo entre locadora e locatária, sem anuência dos fiadores. Sentença de improcedência em relação ao réu-fiador A., e de procedência em relação à ré-fiadora R. Apelos da autora e da ré-fiadora R. Ilegitimidade passiva da fiadora mantida. Teoria da asserção. Condições da ação aferidas à luz dos fatos narrados na exordial. Precedentes do E. STJ. Prorrogação do contrato de locação que não configura aditamento à relação jurídica. Precedentes. Responsabilidade dos fiadores até a efetiva entrega das chaves. Art. 39 da Lei nº 8.245/91. Carência da ação não configurada. Mérito. Acordo firmado sem consentimento dos fiadores, reconhecendo a dívida e estabelecendo parcelamento e prazo para pagamento. Hipótese legal de exoneração dos fiadores. Art. 838, inciso I, e art. 844, §1º, do Código Civil. Precedentes do E. STJ. Em vista da alteração superveniente do objeto da demanda, para abarcar somente a apuração de eventual responsabilidade dos fiadores, de rigor a improcedência da ação. Sentença reformada. Recurso da autora não provido e recurso da ré-fiadora parcialmente provido" (fl. 349 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 372-380 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 5º, XXVI, da Constituição Federal, 489 e 1.022 do Código de Processo Civil e 265, 421 e 838 do Código Civil.
+Sustenta a tese de negativa de prestação jurisdicional.
+Defende a inaplicabilidade do disposto no artigo 838, I, do CC, visto que os fiadores, ora recorridos, por meio da petição de fls. 94/95, tomaram ciência e concordaram expres samente do acordo firmado entre locador e locatário.
+Afirma que os recorridos são solidariamente responsáveis pelos débitos.
+Com as contrarrazões (fls. 408-430 e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Quanto ao art. 5º, XXVI, da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+De outro lado, registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Com relação à responsabilidade da parte fiadora pelo descumprimento do acordo judicial celebrado, oportuno transcrever os seguintes trechos do acórdão recorrido:
+"(..)
+Desta forma, a assertividade e os documentos da inicial são suficientes para constituir, ao menos em tese, a legitimidade passiva dos fiadores para responder aos termos da demanda, snedo que a apuração de provas para a apuração de eventual responsabilidade dos réus é questão atinente ao mérito da causa, cujo provimento jurisdicional será abarcado pela coisa julgada.
+Por outro lado, se não é possível reconheccer a carência da ação pela ilegitimidade passiva dos requeridos-fiadores, há de se observa que, no decurso do feito, foi celebrado acordo entre locadora e locatária, no qual houve reconhecimento do inadimplemento dos encargos locatícios e proposta pagamento da dívida.
+Com efeito, a elaboração do referido instrumento particular de confissão de dívida sem anuência dos fiadores é suficiente para exonerar estes da responsabilidade pelo pagamento dos débitos oriundos do contrato de locação e da solidariedade em relação à locatária, nos termos do art. 838, inciso I, e art. 844, § 1 º, do Código Civil, in verbis:
+(..)
+Destarte, ocorrendo a homologação do acordo moratório celebrado às fls. 75/78 entre a locadora e a locatária, com expressa discordância dos fiadores, a presente demanda, cujo objetivo foi supervenientemente alterado para abarcar somente a apuração de eventual responsabilidade dos fiadores, deve ser julgada improcedente, julgando prejudicadas as demais questões suscitadas pelas partes" (fls. 358-362 e-STJ).
+Assim, rever a conclusão do tribunal local como pretende a parte ora recorrente, no sentido de que os fiadores estavam cientes e concordaram expressamente com o acordo celebrado, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Quanto ao pedido formulado nas contrarrazões, por não se verificar, neste momento, o caráter protelatório do recurso, torna-se desnecessária a aplicação da reprimenda por litigância de má-fé.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
