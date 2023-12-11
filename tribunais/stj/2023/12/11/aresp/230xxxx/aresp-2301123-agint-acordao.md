@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS PARA DEFERIMENTO DA TUTELA DE URGÊNCIA. SÚMULAS N. 735/STF E 7/STJ.
+1. O Tribunal de origem deferiu a tutela de urgência, determinando a retirada do nome das ora agravadas do cadastro restritivo de crédito, por entender preenchidos os requisitos para concessão da referida tutela.
+2. Conforme verificado pela decisão agravada, o provimento judicial que se busca ver reformado, portanto, é precário e ainda fora pautado em juízo de verossimilhança, com base nas provas coligidas, não configurando o pressuposto de causa decidida para os termos do art. 105, III, da Constituição Federal. Incidência das Súmulas n. 735/STF e 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por COMPANHIA ULTRAGAZ S.A. contra decisão monocrática de minha relatoria, em que conheci do agravo para não conhecer do recurso especial em razão da incidência das Súmulas n. 735/STF e 7/STJ (fls. 854-864).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 754):
+AGRAVO DE INSTRUMENTO - DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - TUTELA DE URGÊNCIA - INSCRIÇÃO INDEVIDA - TUTELA DE URGÊNCIA. Conforme dispõe o art. 300, do novo Código de Processo Civil, são dois os requisitos, cumulativos, para a concessão da tutela de urgência, quais sejam: quando houver elementos nos autos que evidenciem a probabilidade do direito reclamado (fumus boni iuris) e/ou houver perigo de dano ou risco ao resultado útil do processo (periculum in mora). A multa cobrada a título de suposto descumprimento do contrato, não é uma dívida líquida, certa e exigível, uma vez que paira discussões acerca da validade de assinatura do contrato, portanto, diante da probabilidade do direito, bem como o risco de dano, o deferimento da tutela de urgência é medida que se impõe.
+Rejeitados os embargos de declaração opostos (fl. 781).
+Alega a agravante que "no recurso inicial, nos embargos de declaração, no recurso especial e no agravo em recurso especial, a agravante demonstrou que questionou a omissão/contradição quanto a diversos pontos nas decisões" (fl. 871)
+Aduz, ainda, que "a agravante ressaltou que o acórdão violou o artigo 300 do CPC, pois conforme demonstrado na peça recursal, não houve preenchimento dos requisitos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo" (fl. 871).
+Sustenta, outrossim, que "não há que se falar em afronta à súmula 7 do STJ, pois várias questões discutidas no Recurso Especial não possuem nem mesmo natureza fática, mas são questões de direito" (fl. 872).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada apresentou contrarrazões (fls. 877-879).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS PARA DEFERIMENTO DA TUTELA DE URGÊNCIA. SÚMULAS N. 735/STF E 7/STJ.
+1. O Tribunal de origem deferiu a tutela de urgência, determinando a retirada do nome das ora agravadas do cadastro restritivo de crédito, por entender preenchidos os requisitos para concessão da referida tutela.
+2. Conforme verificado pela decisão agravada, o provimento judicial que se busca ver reformado, portanto, é precário e ainda fora pautado em juízo de verossimilhança, com base nas provas coligidas, não configurando o pressuposto de causa decidida para os termos do art. 105, III, da Constituição Federal. Incidência das Súmulas n. 735/STF e 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não deve ser provido, pois as razões da parte agravante não são capazes de refutar a decisão agravada.
+Na origem, trata-se de agravo de instrumento interposto contra decisão que indeferiu pedido de tutela de urgência.
+O Tribunal de origem reformou a referida decisão e deferiu a tutela de urgência, determinando a retirada do nome parte ora agravada do cadastro restritivo de crédito, por entender preenchidos os requisitos para tanto (fls. 757-758):
+Conforme se observa, a grande maioria das negativações se fazem por escritos ilíquidos (contratos), faturas (de serviços), ou seja, por meio de documentos despidos das características dos artigos 783 e 784 do Código de Processo Civil e expõem o credor antes que a dívida esteja constituída para ser discutida com observância do devido processo legal.
+E exatamente por não terem estas características que também são imprestáveis para justificar o exercício regular de um direito reconhecido, pelo que se torna um ilícito na forma preconizada no artigo 187 do Código Civil.
+No presente caso, a multa cobrada a título de suposto descumprimento do contrato, não é uma dívida líquida, certa e exigível, uma vez que paira discussões acerca da validade de assinatura do contrato.
+Em razão disso, vislumbro a probabilidade do direito, bem como o risco de dano uma vez que a negativação restringe o poder de compra das recorrentes.
+Em suas razões, a parte recorrente sustenta que na apelação, nos embargos de declaração e no recurso especial questionou as violações das questões federais quanto a diversos pontos nas decisões, como, por exemplo, as normas do art. 1.022, II, do CPC e do art. 489, § 1º, IV e VI, do CPC. Argumenta que houve violação do artigo 300 do CPC, pois não houve preenchimento dos requisitos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. Aduz que o que se pretende discutir é eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015), e não violação de norma que diga respeito ao mérito da liminar.
+O acórdão recorrido limitou-se ao deferimento de provimento liminar, determinando a retirada do nome da parte agravada dos cadastros restritivos de crédito, no bojo de ação de declaração de nulidade de cobrança de multa contratual, no importe total de R$ 4.003.200,00 (quatro milhões e três mil e duzentos reais), por alegado descumprimento contratual, porque não reconhecem a finalização e assinatura do contrato eletrônico que gerou pretensa dívida.
+Conforme verificado pela decisão agravada, o provimento judicial que se busca ver reformado, portanto, é precário e ainda fora pautado em juízo de verossimilhança, com base nas provas coligidas, não configurando o pressuposto de causa decidida para os termos do art. 105, III, da Constituição Federal.
+Incide no caso, por analogia, a Súmula n. 735/STF, segundo a qual "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Nesse sentido:
+2. O acórdão recorrido na origem teve como finalidade analisar os pressupostos processuais para a concessão da tutela provisória de urgência, como o próprio Tribunal de origem expressamente registra à fl. 134, e-STJ. Nesse contexto, na decisão ora agravada, aplicou-se a Súmula 735/STF para inadmitir o Recurso Especial, pois descabe, nesta via, reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Em virtude da sua natureza precária, sujeita a modificação a qualquer tempo, a decisão deve ser confirmada ou revogada pela sentença de mérito. Com efeito, é preciso que o enfrentamento da questão federal tenha se dado em decisão definitiva, e não provisória. Só assim é possível afirmar que se trata de "causa decidida em única ou última instância" (art. 105, III, da CF).
+(AgInt no AREsp n. 2.332.366/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DEFERIMENTO DE MEDIDA CAUTELAR DE ARRESTO DE BEM IMÓVEL. INDÍCIO DE GRUPO ECONÔMICO. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. SÚMULA 735 DO STF. ART. 50 DO CC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS NÃO ANALISADOS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedente.
+2. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+3. Não se conhece do recurso especial quando a deficiência de sua fundamentação impedir a exata compreensão da controvérsia. Súmula 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.826.601/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Ademais, rever a conclusão a respeito do preenchimento dos requisitos da tutela de urgência demandaria o revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
