@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PEDIDO DE GRATUIDADE DA JUSTIÇA REQUERIDA EM SEDE RECURSAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 98, 99, 101 E 102 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. COMANDOS NORMATIVOS QUE NÃO CUIDAM DA MATÉRIA IMPUGNADA. SÚMULA 284/STF. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, entendeu que não houve emissão de juízo pelo acórdão recorrido acerca dos arts. 98, 99, 101 e 102 do CPC, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ. Consignou, ainda, que o recurso especial fora deficientemente fundamentado, pois os conteúdos normativos insertos nos dispositivos legais apontados não guardam pertinência temática com o caso julgado, a atrair o óbice da Súmula 284/STF.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos pelo MANANCIAL DOURADOS LTDA. contra acórdão desta Terceira Turma que manteve decisão do Ministro Paulo de Tarso Sanseverino, que conheceu do agravo e negou provimento ao recurso especial .
+O aresto embargado tem a seguinte ementa (fl. 1.731):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PEDIDO DE GRATUIDADE DA JUSTIÇA REQUERIDA EM SEDE RECURSAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 98, 99, 101 E 102 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. COMANDOS NORMATIVOS QUE NÃO CUIDAM DA MATÉRIA IMPUGNADA. SÚMULA 284/STF. AUSÊNCIA DE PREVISÃO LEGAL QUANTO À INTERRUPÇÃO DO PRAZO PARA O RECOLHIMENTO DO PREPARO RECURSAL - ART. 99, § 7º, DO CPC - EM RAZÃO DA INTERPOSIÇÃO DE AGRAVO INTERNO. PRETENSÃO RECURSAL QUE, ADEMAIS, CONTRARIA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO QUE DÃO CONTA DA INEXISTÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA DA AGRAVANTE.
+Agravo interno improvido.
+Alega que o acórdão apresenta obscuridade ao aplicar a Súmula n. 211/STJ, visto que houve o cotejo analítico e "por não se atentar a esse detalhe e dar interpretação divergente ao que consta dos autos, carecente assim de aclaramento, a fim de que seja ele aperfeiçoado promova a avaliação do recurso sob o aspecto acima indicado, ou seja, que a matéria foi ventilada após a violação pelo próprio acórdão e, que, se este não esgotou a questão em sede de embargos, deve o acórdão ora embargado dizer se isso gera ou não violação aos referidos artigos" (fl. 1.745).
+Sustenta a parte embargante que, "ao dizer que o especial não guarda pertinência temática o caso julgado, o acórdão simplesmente incorre em omissão ao não considerar que o cotejo analítico evidenciado se deu com base em tese lançada pelo próprio Sodalício" (fl. 1.747).
+Requer, ao final, o acolhimento dos embargos declaratórios.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PEDIDO DE GRATUIDADE DA JUSTIÇA REQUERIDA EM SEDE RECURSAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 98, 99, 101 E 102 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. COMANDOS NORMATIVOS QUE NÃO CUIDAM DA MATÉRIA IMPUGNADA. SÚMULA 284/STF. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, entendeu que não houve emissão de juízo pelo acórdão recorrido acerca dos arts. 98, 99, 101 e 102 do CPC, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ. Consignou, ainda, que o recurso especial fora deficientemente fundamentado, pois os conteúdos normativos insertos nos dispositivos legais apontados não guardam pertinência temática com o caso julgado, a atrair o óbice da Súmula 284/STF.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Verifica-se que o acórdão embargado, de maneira clara e fundamentada, consignou que não houve emissão de juízo pelo acórdão recorrido acerca dos arts. 98, 99, 101 e 102 do CPC, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Consignou, ainda, que o recurso especial fora deficientemente fundamentado, pois os conteúdos normativos insertos nos dispositivos legais apontados não guardam pertinência temática com o caso julgado, a atrair o óbice da Súmula 284/STF, ou seja, o art. 101 do CPC cuida da previsão de interposição de agravo de instrumento contra decisão do Juízo de primeiro grau que indefere a gratuidade da justiça ou que acolhe o pedido de sua revogação, também previsto no art. 1.015, V, do CPC. Já o art. 102 do CPC cuida das consequências jurídicas da revogação da gratuidade da justiça, reafirmando tão somente o disposto no art. 100, parágrafo único, do CPC.
+Na verdade, a parte embargante não se conforma com o não conhecimento do recurso especial e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022)
+No mesmo sentido, cito os EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022, e os EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
