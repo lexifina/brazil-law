@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PRISMA CONSTRUCOES LTDA à decisão de fls. 1284/1285, que não conheceu do recurso.
+Sustenta a parte embargante que "a certidão de fls. 1250, posterior a certidão de fls., 1245 atesta O REGULAR RECOLHIMENTO DAS CUSTAS PROCESSUAIS, fato que não foi observado e que requer seja sanado, com a reformada decisão ora atacada para o devido processamento do agravo interposto" (fl. 1289).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem a comprovação do recolhimento das custas judiciais devidas ao STJ, apesar de constar o recolhimento das custas locais (fls. 1236/1240)
+No caso, mesmo após a intimação da parte, na origem (fl. 1241), para sanear o vício, não houve a devida regularização, uma vez que a parte juntou novamente as custas locais.
+Registre-se que conforme § 2º do art. 1.007 do CPC, in verbis, "A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias".
+Assim, não suprido o vício quando intimada a parte, não cabia nova oportunidade para regularização, por isso foi desconsiderada a apresentação das custas às fls. 1250/1253 (preclusão consumativa).
+Veja que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Do mesmo modo, certidão do Tribunal de origem, lavrada por servidor público nos autos do processo, atestando a regularidade do preparo do recurso, além de não impedir o reexame desse requisito pelo Superior Tribunal de Justiça, é insuficiente para o fim proposto, pois "a jurisprudência desta Corte Superior é iterativa no sentido de que a regularidade do preparo deve ser demonstrada mediante juntada de cópia das Guias de Recolhimento de Custas e de Porte de Remessa e Retorno (GRU), acompanhada do respectivo comprovante de pagamento, sob pena de deserção". (AgRg no AREsp 662.713/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/11/2015.)
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
