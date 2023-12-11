@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. PIS. COFINS. NÃO CUMULATIVIDADE. LEIS N. 10.637/2002 E 10.833/2003. RESTRIÇÕES AO APROVEITAMENTO DE CRÉDITOS. ABRANGÊNCIA DO TERMO "INSUMOS". NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+TRIBUTÁRIO. PIS. COFINS. NÃO-CUMULATIVIDADE. LEIS Nº10.637/2002 E 10.833/2003. RESTRIÇÕES AO APROVEITAMENTO DECRÉDITOS. ABRANGÊNCIA DO TERMO "INSUMOS". IN/SRF Nº 247/02. IN/SRF Nº 404/2004.1. A nova sistemática de tributação não-cumulativa do PIS e da COFINS, prevista nas Leis nº 10.637/2002 e 10.833/2003, confere ao sujeito passivo do tributo o aproveitamento de determinados créditos previstos na legislação, excluídos os contribuintes sujeitos à tributação pelo lucro presumido.2. A aplicação do princípio da não-cumulatividade do PIS e da COFINS em relação aos insumos utilizados na fabricação de bens e serviços não implica estender sua interpretação, de modo a permitir que sejam deduzidos, sem restrição, todos e quaisquer custos da empresa despendidos no processo de industrialização e comercialização do produto fabricado.3. O conceito de insumo, para fins de creditamento no regime não cumulativo das contribuições PIS e COFINS, abrange os elementos que se relacionam diretamente à atividade da empresa, com rest rições.4. A IN/SRF nº 247/02 e a IN/SRF nº 404/2004 não ampliam o conteúdo legal, apenas reforçam o modo legalmente previsto de aproveitamento dos créditos no sistema não cumulativo do PIS e da COFINS, de modo que não incorrem em vícios de ilegalidade ou de inconstitucionalidade.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida, confiram-se:
+ ..
+Por entender que a decisão continha erro material, uma vez que o recurso especial não foi interposto com base na alínea c, do inciso III, do art. 105 da Constituição Federal, mas tão somente com base alínea a do referido dispositivo legal, bem como havia sido omissa, pois o Nobre Relator não observou que na decisão de fls. 333-336 e-STJ foi determinada a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após o pronunciamento no Tema 779, o recurso suspenso fosse analisado, na forma prevista nos §§ 7º e 8º do art. 543-C do CPC/73, a embargante opôs embargos de declaração. No entanto, seu recurso foi rejeitado.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. PIS. COFINS. NÃO CUMULATIVIDADE. LEIS N. 10.637/2002 E 10.833/2003. RESTRIÇÕES AO APROVEITAMENTO DE CRÉDITOS. ABRANGÊNCIA DO TERMO "INSUMOS". NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+ ..
+Insumo, por isso, deve ser entendido como cada um dos elementos imprescindíveis para a produção de mercadorias ou para a prestação de serviços. Logo, não pode ser considerado "insumo" as despesas operacionais, em especial os valores gastos, com: exportação, importação, viagens e estadias, propaganda e publicidade, feiras e exposições, aquisição e manutenção de softwares e equipamentos, cursos e treinamentos, com serviços profissionais contratados, assistência médica e social, alimentação do trabalhador, transporte de empregados, trabalho temporário, equipamentos de proteção, uniformes, comissões, telefonia, correios e malotes, dentre outras despesas com comerciais. Não se desconsidera que essas despesas façam parte de certo modo da atividade comercial da empresa, o que não se reconhece é que ela esteja intrinsecamente vinculada ao processo produtivo.
+ ..
+A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
