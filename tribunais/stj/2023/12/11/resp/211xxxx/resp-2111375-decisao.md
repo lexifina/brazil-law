@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa no Agravo em Execução Penal n. 0001084-12.2022.8.26.0278.
+Consta nos autos que o Juízo das Execuções Penais declarou extinta a punibilidade do Recorrido sem o pagamento da pena de multa (fls. 75-78).
+Irresignado, o Ministério Público estadual recorreu ao Tribunal de origem, que negou provimento ao agravo em execução (fls. 31-40).
+Nas razões do recurso especial, aponta-se a existência de divergência jurisprudencial e ofensa ao art. 51 do Código Penal, pois "o simples fato de ser o sentenciado assistido pela Defensoria Pública não permite presumir sua hipossuficiência para fim de autorizar a extinção de sua punibilidade em relação à pena de multa inadimplida" (fl. 107).
+Contrarrazões às fls. 141-148.
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 160-162).
+É o relatório. Decido.
+O Tribunal de origem decidiu nos seguintes termos:
+" ..  caso o reeducando comprove a impossibilidade de cumprimento da sanção pecuniária junto ao juízo da execução penal, deverá ser prontamente declarada extinta a punibilidade.
+Ademais, no presente caso, respeitado o entendimento da e. Relatora, entendo que se inverte o ônus probatório, na medida em que o reeducando é assistido pela Defensoria Pública, podendo-se presumir sua hipossuficiência econômica. Por sua vez, o parquet não trouxe aos autos qualquer prova capaz de desconstituir a presunção.
+Portanto, a fim de evitar desnecessária e dispendiosa execução natimorta da sanção pecuniária, entendo que acertou o juízo de primeiro grau ao indeferir a inicial e declarar extinta a punibilidade do agravante em relação à pena de multa." (Fl. 96, sem grifos no original).
+Acerca do tema, a Terceira Seção desta Corte Superior, no julgamento do REsp 1.785.861/SP (Tema n. 931/STJ), submetido à sistemática dos recursos repetitivos, consolidou a compreensão de que "na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade".
+Extrai-se do referido precedente obrigatório que, ao contrário do que consta no acórdão recorrido, o condenado deve comprovar a impossibilidade de realizar o pagamento da sanção pecuniária para fins de extinção da punibilidade, não se podendo presumir esta condição.
+De fato, nos termos da jurisprudência desta Corte Superior, o condenado deve ser intimado para comprovar a hipossuficiência, condição indispensável para o acolhimento do pedido de extinção da punibilidade, não sendo possível presumir a carência de recursos financeiros exclusivamente em razão da assistência pela Defensoria Pública.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE E DE MULTA IMPOSTAS CUMULATIVAMENTE. DECISÃO QUE EXTINGUIU O PROCESSO DE EXECUÇÃO DA PENA DE MULTA, EM RAZÃO DO VALOR SER INFERIOR A UM SALÁRIO MÍNIMO. EXTINÇÃO DA PUNIBILIDADE. NECESSIDADE DE COMPROVAÇÃO DA IMPOSSIBILIDADE DE PAGAMENTO DA SANÇÃO PECUNIÁRIA. AGRAVO DESPROVIDO.
+1. Segundo orientação desta Corte, na hipótese de condenação concomitante a pena privativa de liberdade e multa, não se pode mais declarar a extinção da punibilidade pelo cumprimento integral da pena privativa de liberdade quando pendente o pagamento da multa criminal.
+2. O fato de o reeducando ser assistido pela Defensoria Pública não faz presumir, por si só, a sua completa e absoluta impossibilidade de adimplir a sanção pecuniária. A demonstração da incapacidade econômica de pagamento da multa criminal, como requisito para a extinção da punibilidade, deve ser comprovada.
+3. Agravo regimental desprovido." (AgRg no HC n. 823.580/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 21/08/2023, DJe 24/08/2023, sem grifos no original.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 51 DO CP. INADIMPLEMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. RÉU ASSISTIDO PELA DEFENSORIA PÚBLICA. HIPOSSUFICÊNCIA PRESUMIDA. IMPOSSIBILIDADE. NECESSIDADE DE COMPROVAÇÃO.
+I - A 3ª Seção do Superior Tribunal de Justiça, durante o julgamento dos Recursos Especiais Representativos da Controvérsia n. 1.785.383/SP e 1.785.861/SP (Terceira Seção, Rel. Min. Rogerio Schietti, DJe de 21/9/2021), revisitou o Tema 931/STJ e estabeleceu a seguinte tese: "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade".
+II - Esta Corte Superior firmou entendimento de que a simples circunstância do patrocínio da causa pela Defensoria Pública não faz presumir a hipossuficiência econômica do representado. Precedentes.
+Agravo regimental desprovido." (AgRg no AREsp n. 2.289.674/SC, Relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 08/08/2023, DJe 16/08/2023, sem grifos no original.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para cassar a sentença que declarou extinta a punibilidade do Recorrido e determinar que o Juízo de origem analise a impossibilidade de pagamento da pena de multa à luz das provas dos autos, após prévia intimação do Recorrido para apresentar os elementos comprobatórios que entender pertinentes.
+Comunique-se ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. INADIMPLEMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. COMPROVAÇÃO DA CARÊNCIA DE RECURSOS. TEMA N. 931/STJ. RÉU ASSISTIDO PELA DEFENSORIA PÚBLICA. HIPOSSUFICÊNCIA PRESUMIDA. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
