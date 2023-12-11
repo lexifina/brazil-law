@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WILLIAM JOSE DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva pela suposta prática do crime previsto no art. 33, da lei 11.343/2006 - apreensão de 186,05g de maconha. O juízo a quo fundamentou a prisão preventiva - "examinando as CAC"s dos autuados, verificam-se ostentar conduta voltada para a prática criminosa"- fl. 47.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão preventiva e denegou a ordem, em acórdão de fls. 62-79.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado: a) falta de fundamentação da decisão que decretou a segregação cautelar; b) ausência dos requisitos ensejadores da prisão preventiva, aduzindo que está privado da liberdade por mais de 190 dias sem que novos fundamentos concretos autorizem a manutenção da medida extrema.
+Salienta que ostenta condições pessoais favoráveis e pondera a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 82-83.
+Petição de agravo regimental às fls. 89-93.
+As informações foram prestadas às fls. 95-119 e 120-143. O Ministério Público Federal, às fls. 149-152, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A preservação da ordem pública justifica a imposição da custódia cautelar quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações mesmo penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de conseqüência, sua periculosidade" (RHC n. 113422 / MG, Rei. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, j. 15/10/2019, DJe 23/10/2019). 3. Parecer pelo não conhecimento do writ. Caso assim não se entenda, pela denegação da ordem" -fl. 149.
+É o relatório. DECIDO.
+Primeiramente, julgo prejudicado o agravo regimental contra decisão que indeferiu a liminar em razão da análise do mérito do presente writ
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da contumácia delitiva do ora paciente, porquanto, consoante se depreende dos autos, a conduta, em tela, não é fato isolado na sua vida, restando consignado na decisão hostilizada que: "examinando as CAC"s dos autuados, verificam-se ostentar conduta voltada para a prática criminosa" - fl. 47.
+Tais circunstâncias indicam a periculosidade concreta do agente, além da probabilidade de repetição de condutas tidas por delituosas e revelam a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva.
+No ponto, impende destacar que, conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Por fim, condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
