@@ -1,0 +1,87 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001732-34.2021.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TATIANE RODRIGUES PREMOLE ALVES
+RECORRIDO: VIACAO AGUIA BRANCA S A
+RELATOR(A):
+THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO:
+5001732-34.2021.8.08.0021
+
+RECORRENTE: TATIANE RODRIGUES PREMOLE
+
+RECORRIDO: VIACAO AGUIA BRANCA S A
+
+RELATORA: Dra. THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE:
+OLINDA BARBOSA BASTOS PUPPIM
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE FALHA NA PRESTAÇÃO DE SERVIÇO. RECUSA TROCA DE PASSAGEM. DANOS MORAIS NÃO CONFIGURADOS. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+
+RELATÓRIO / VOTO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de Assistência Judiciária Gratuita à parte recorrente.
+
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE FALHA NA PRESTAÇÃO DE SERVIÇO. RECUSA TROCA DE PASSAGEM. DANOS MORAIS NÃO CONFIGURADOS.
+ADUZ A AUTORA QUE POSSUÍA UM BILHETE DA RÉ PARA A VIAGEM NO DIA 17/11/2019 NO VALOR DE R$ 49,73 (QUARENTA E NOVE REAIS E SETENTA E TRÊS CENTAVOS), MAS POR MOTIVOS PESSOAIS NÃO PODE EMBARCAR, E NO DIA SEGUINTE AO TENTAR TROCAR O BILHETE, TEVE A NOTÍCIA DE QUE A AUTORA TERIA JÁ UTILIZADO A PASSAGEM, MOTIVO PELO QUAL TEVE QUE REALIZAR NOVA COMPRA. ASSIM, A AUTORA ALEGA QUE FEZ A RECLAMAÇÃO PERANTE O PROCON ONDE FICOU RECONHECIDO PELA RÉ O SEU ERRO, DANDO À AUTORA O DIREITO DE TROCA, O QUE JÁ NÃO ERA MAIS DE INTERESSE DA REQUERENTE. PORTANTO, REQUER A RESTITUIÇÃO DO VALOR DA PASSAGEM NA QUANTIA DE R$ 49,73 (QUARENTA E NOVE REAIS E SETENTA E TRÊS CENTAVOS) E A INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 5.000,00 (CINCO MIL REAIS).
+SENTENÇA DE PISO JULGOU IMPROCEDENTE
+A PRETENSÃO AUTORAL.
+RECURSO INOMINADO DA PARTE AUTORA.
+EM SUAS RAZÕES, ADUZ A MÁ PRESTAÇÃO DO SERVIÇO QUE GEROU DANO MORAL NA ORA RECORRENTE. NÃO FORAM APRESENTADAS
+CONTRARRAZÕES
+PELA RECORRIDA.
+RECURSO CONHECIDO E IMPROVIDO.
+CONFORME MENCIONADO PELO MAGISTRADO
+A QUO,
+NÃO HÁ PROVA QUE DEMONSTRE QUALQUER OFENSA A DIREITOS DA PERSONALIDADE DA CONSUMIDORA; POIS MERO DESCUMPRIMENTO CONTRATUAL, POR SI SÓ, NÃO CONFIGURA DANOS MORAIS.
+
+DESTA FEITA, COADUNO COM O JUÍZO DE PISO E ENTENDO QUE A SITUAÇÃO NÃO ULTRAPASSA O LIMITE DE MEROS DISSABORES DO COTIDIANO, NÃO RESTANDO CONFIGURADOS OS DANOS MORAIS PLEITEADOS.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI No 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS
+FIXADOS EM 10% SOBRE O VALOR DA CAUSA, ANTE A AUSÊNCIA DE VERBA CONDENATÓRIA, NA FORMA DO ART. 55 DA LEI 9.099/95, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3o, DO ART. 98, DO CPC/15.
+
+DISPOSITIVO
+
+Em face do exposto,
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO
+.
+Condeno o recorrente ao pagamento de custas processuais e honorários advocatícios no percentual de 10%
+sobre o valor da causa, na ausência de verba condenatória, nos moldes do art. 55 da Lei 9.099/95, estando suspensa sua exigibilidade ante a concessão de assistência judiciária gratuita, conforme preleção do art. 98, §3º do CPC.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
