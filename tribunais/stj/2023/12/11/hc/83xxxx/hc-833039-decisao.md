@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão que deu parcial provimento ao recurso de apelação da defesa, assim ementado (fl. 42):
+PENAL E PROCESSO PENAL. ROUBO CIRCUNSTANCIADO. ASSALTO À AGÊNCIA DO BANCO DE BRASÍLIA NA EQS 410/411 SUL RECONHECIMENTO FOTOGRÁFICO. COLABORAÇÃO DE COMPARSA NOUTRA AÇÃO PENAL. PROVA EMPRESTADA. REGULARIDADE, DEPOIMENTOS ELUCIDATIVOS. IMPRESSÃO DIGITAL ÁLIBI NÃO COMPROVADO: CONDENAÇÃO. ADEQUAÇÃO. PENA. INJUSTIÇA. CONDUTA SOCIAL OCUPAÇÃO LÍCITA. NÃO EXERCÍCIO. PENA REDUÇÃO. PROVIMENTO PARCIAL.
+1. A confissão de. corréu, com riqueza de detalhes, em ação penal instaurada para apuração do crime de quadrilha, envolvendo os. acusados da pratica de assalto a agência bancária do BRB  Banco de Brasília Agência da Asa Sul, serve de prova emprestada para solução da lide pertinente ao roubo circunstanciado.
+2. A detecção de impressões digitais de réu de nacionalidade chilena, radicado no Rio de Janeiro-RJ, em porção de massa de vidraceiro, utilizada para tapar a sirene do alarme da agência bancária, é prova suficiente da presença do réu no palco dos eventos delitivos.
+3. Nenhuma mácula no reconhecimento fotográfico cercado das formalidades legais, levado a efeito pela autoridade policial, mormente se ele é feito por integrante da mesma quadrilha.
+4. Da mesma forma, mostrou-se irrepreensível o trabalho da polícia investigativa, a qual, atuou com o respaldo da autoridade Judiciária competente no tocante às escutas telefônicas realizadas.
+5. A comprovação do álibi suscitado incumbe àquele que alega.
+6: Sopesadas fundamentadamente as circunstâncias judiciais e a situação econômica dos réus, nenhuma vedação à aplicação das Penas privativa de liberdade e pecuniária em patamares mais drásticos.
+7. A assertiva de que os réus apresentam conduta social, deturpada, porque não trabalham, embora reúnam condições para tal não encontra amparo na jurisprudência, dado ser de caráter genérico, não podendo prevalecer, exigindo novo redimensionamento da pena base.
+Recursos parcialmente providos para redução da pena corporal.
+Consta dos autos que o paciente foi condenado à pena de 12 (doze) anos de reclusão, em regime inicial fechado, e 60 (sessenta) dias-multa, como incursos no art. 157, § 2º, I, II, c.c. art. 70, c.c. art. 29 e art. 70, todos do Código Penal (fls. 26-41).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que deu parcial provimento ao recurso para reduzir a pena do paciente para 10 anos e 8 meses de reclusão, mantidos os demais termos da sentença (fl. 42-65).
+Neste writ, alega a impetrante, em síntese, a existência de constrangimento ilegal, uma vez que a condenação do ora paciente está embasa somente em reconhecimento realizado na fase inquisitorial, sem as formalidades do art. 226 do Código de Processo Penal.
+Sustenta que "Não houve reconhecimento válido em juízo. Não há como se manter condenação com base única e exclusivamente em reconhecimento realizado na delegacia de polícia" (fl. 6).
+Requer a concessão da ordem para "ABSOLVER O PACIENTE do crime de assalto, lastreado única e exclusivamente em reconhecimento fotográfico realizado em delegacia de policia, não corroborado em juízo e não confirmado por nenhuma prova produzida sob o crivo do contraditório" (fl. 11).
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 118-128).
+Extrai-se da denúncia que, "e de forma voluntária, mediante a utilização de variadas armas de fogo, subtraíram para o grupo, através de grave ameaça empregada ao vigilante , diversos bens pertencentes ao banco e às vítimas" (fl. 15).
+Acerca da controvérsia trazida no mandamus, "Em revisão à anterior orientação jurisprudencial, ambas as Turmas Criminais que compõem esta Corte, a partir do julgamento do HC n. 598.886/SC (Rel. Ministro Rogerio Schietti Cruz, julgado em 27/10/2020, DJe de 18/12/2020), passaram a dar nova interpretação ao art. 226 do CPP, segundo a qual a inobservância do procedimento descrito no mencionado dispositivo legal torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado em juízo" (AgRg no AREsp n. 2.109.968/MG, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+Por outro lado, a jurisprudência desta Corte é firme no sentido de que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+No caso, a denúncia descreve fatos supostamente ocorridos em 2/11/2001 (fls. 13-25), cuja condenação transitou em julgado em 7/4/2011, antes, portanto, do julgado que deu nova interpretação ao art. 226 do CPP (DJe 18/12/2020), de modo que não há como se reconhecer a apontada nulidade.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
