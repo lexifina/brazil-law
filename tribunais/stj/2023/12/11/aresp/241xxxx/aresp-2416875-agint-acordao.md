@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER CUMULADA COM PERDAS E DANOS. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA EXECUTADA. ASTREINTES. OFENSA AOS ARTS. 489, § 1º, VI E 1.022, I E II, DO CPC. NÃO VERIFICADA. AGRAVO INTERNO DESPROVIDO.
+1.Inexiste ofensa aos arts. 489, § 1º, VI e 1.022, I e II, do CPC quando a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. O órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+3. A jurisprudência desta Corte Superior firmou-se no sentido de ser necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, nos termos da Súmula n. 410/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por INDÚSTRIA E COMÉRCIO DE ALIMENTOS DESIDRATADOS ALCON LTDA. contra a decisão de fls. 394-399, que conheceu do agravo para conhecer em parte do recurso especial e dar-lhe provimento a fim de reconhecer a necessidade da intimação pessoal em relação à incidência de astreintes no caso de descumprimento da ordem judicial.
+Em suas razões, a parte agravante alega que a decisão agravada merece ser reformada, pois (fl. 410):
+O Órgão Colegiado de origem entendeu por dar provimento ao Agravo de Instrumento interposto, reconhecendo que, embora não fosse possível proceder à cobrança das astreintes desde 30 dias depois do trânsito em julgado da sentença proferida na fase de conhecimento, tampouco seria necessário proceder à intimação pessoal da parte então Executada (aqui Recorrente) para que, somente depois de escoado o prazo de cumprimento da obrigação de entrega de coisa certa, tivesse incidência a multa diária imposta.
+Isso porque, segundo entendeu a Segunda Câmara de Direito Comercial do TJSC, com o comparecimento espontâneo da então Executada/Agravada, Max Travel, nos autos de origem em 28/02/2019, a intimação pessoal estaria suprida - o que relativizaria, com isso, a aplicabilidade, ipsis litteris, do conteúdo da Súmula 410 do STJ e permitiria a reforma da decisão de 1º grau, para o fim de ver rejeitada a impugnação ao cumprimento de sentença interposta na origem.
+Sustenta ainda que (fl. 419):
+Assim, se a própria parte Agravada, na pessoa de sua representante legal (e não na pessoa de seu advogado), comparece na Vara onde tramita o feito para "entregar" o vídeo de treinamento, é óbvio, evidente e ululante que, AO MENOS A PARTIR DESSA DATA, TOMOU CONHECIMENTO, INEQUÍVOCO, DA OBRIGAÇÃO QUE LHE FOI IMPOSTA E DAS CONSEQUÊNCIAS DE SEU NÃO CUMPRIMENTO!
+Logo, a necessidade de cientificação pessoal da parte devedora a que alude a famigerada Súmula 410 do STJ foi cumprida quando do comparecimento da parte Agravada (Max Travel) aos autos -o qual, repita-se, não se deu por meio do advogado por ela constituído, mas, sim, por meio de sua representante legal, que entregou o vídeo de treinamento que, segundo ela, atenderia ao que fora contratado!
+Esclarece que (fl. 420):
+ ..  a finalidade para a qual se exige a intimação pessoal da parte devedora (nos termos da Súmula 410 do STJ) restou atingida, no caso, quando do comparecimento PESSOAL da parte Agravada (Max Travel), nos autos de origem, em 28/02/2019, tal como reconhecido pelo Tribunal de Justiça do estado de Santa Catarina.
+Requer o provimento do agravo interno para que seja negado provimento ao recurso especial.
+Impugnação pela parte agravada às fls. 482-485.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER CUMULADA COM PERDAS E DANOS. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA EXECUTADA. ASTREINTES. OFENSA AOS ARTS. 489, § 1º, VI E 1.022, I E II, DO CPC. NÃO VERIFICADA. AGRAVO INTERNO DESPROVIDO.
+1.Inexiste ofensa aos arts. 489, § 1º, VI e 1.022, I e II, do CPC quando a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. O órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+3. A jurisprudência desta Corte Superior firmou-se no sentido de ser necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, nos termos da Súmula n. 410/STJ.
+4. Agravo interno desprovido.
+VOTO
+A decisão agravada deve ser mantida pelos seus próprios fundamentos (fls. 395-398):
+O recurso merece prosperar.
+No presente caso, o Tribunal de origem analisou as questões e assim decidiu (fls. 117-118):
+Na espécie, sobreleva do processado o comparecimento da recorrida após o trânsito em julgado da sentença e intimação de seu procurador, com o depósito da mídia junto ao Cartório da 3ª Vara Cível da Comarca de Balneário Camboriú, em 28/02/2019, conforme informação constante no evento 6 (autos originários)
+Todavia, o apresentado deixou de contemplar o objeto estabelecido na avença, porquanto, segundo informações apresentadas pela insurgente e consignadas na decisão agravada:
+ ..
+Dessa forma, embora não observado satisfatoriamente o encargo, o comparecimento da executada em Cartório após o trânsito em julgado da sentença condenatória, supriu a necessidade da intimação pessoal, a implicar na relativação, no caso concreto, dos ditames da súmula 410 da Corte de Cidadania.
+Por ocasião do julgamento dos embargos de declaração, o Tribunal estadual ainda decidiu o seguinte (fls. 257-259):
+No caso concreto, como visto, após o trânsito em julgado da sentença, promoveu-se a intimação do causídico da parte devedora, com o depósito da mídia junto ao Cartório da 3ª Vara Cível da Comarca de Balneário Camboriú, após iniciada a fase de cumprimento de sentença.
+Todavia, demonstrada a ciência inequívoca da executada neste momento processual (entrega da mídia deficiente - 28/02/2019) tal data merece ser considerada como termo a "quo" das astreintes, nos termos do decisório embargado.
+A propósito, vale extrair excerto do acórdão impugnado no que mais releva:
+ ..
+Assim em virtude da mídia entregue ser desprovida de qualidade e munida de erros grosseiros, a obrigação não foi satisfeita" (evento 20, origem).
+Dessa forma, embora não observado satisfatoriamente o encargo, o comparecimento da executada em Cartório após o trânsito em julgado da sentença condenatória, supriu a necessidade da intimação pessoal, a implicar na relativação, no caso concreto, dos ditames da súmula 410 da Corte de Cidadania.
+ ..
+Desta feita, observa-se que, acertadamente, o decisum objurgado, observou o comparecimento da recorrida aos autos, com o depósito de mídia junto ao Cartório da 3ª Vara Cível da Comarca de Balneário Camboriú, em 28/02/2019, momento o qual deve ser considerado como a data da ciência inequívoca da parte quanto a obrigação de entrega do material, como dito.
+No tocante à alegada contrariedade ao art. 489, § 1º, VI, 1.022, I, II, do Código de Processo Civil, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e concluiu que (fl. 118):
+ ..  o comparecimento da executada em Cartório após o trânsito em julgado da sentença condenatória, supriu a necessidade da intimação pessoal, a implicar na relativação, no caso concreto, dos ditames da súmula 410 da Corte de Cidadania.
+Desse modo, restou claro e objetivo que as questões que delimitam a controvérsia foram analisadas pela Corte de origem, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Quanto à alegação de ofensa aos arts. 537 e 927, IV, do Código de Processo Civil, a Corte de origem entendeu que (fl. 118):
+ ..  o comparecimento da executada em Cartório após o trânsito em julgado da sentença condenatória, supriu a necessidade da intimação pessoal, a implicar na relativação, no caso concreto, dos ditames da súmula 410 da Corte de Cidadania.
+Contudo a decisão da Corte estadual não guarda amparo na jurisprudência desse Superior Tribunal de Justiça que é no sentido de que o comparecimento espontâneo aos autos não afasta a necessidade de intimação pessoal do devedor sobre a incidência de astreintes em caso de descumprimento da ordem judicial.
+A propósito da matéria, confiram-se precedentes:
+RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO CIVIL PÚBLICA EM FASE DE EXECUÇÃO. ASTREINTES. AUSÊNCIA DE INTIMAÇÃO PESSOAL. INEXIGIBILDADE. SÚMULA 410/STJ. EXECUÇÃO COLETIVA DO ART. 98 DO CDC. DIREITOS INDIVIDUAIS HOMOGÊNEOS. AUSÊNCIA DE LEGITIMIDADE DO MINISTÉRIO PÚBLICO.
+ ..
+5. Existência de julgado específico desta Turma no sentido de que o comparecimento espontâneo aos autos não supre a necessidade de intimação pessoal do devedor sobre a cominação de astreintes.
+ ..
+9. Julgado específico da QUARTA TURMA nesse sentido.
+10. RECURSO ESPECIAL PROVIDO. (REsp n. 1.801.518/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/12/2021, DJe de 16/12/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA AFASTAR A COBRANÇA DE MULTA DIÁRIA ANTE A AUSÊNCIA DE PRÉVIA INTIMAÇÃO DO DEVEDOR - INSURGÊNCIA RECURSAL DO AGRAVADO.
+1. Conforme entendimento desta Corte é necessária "a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil" (EREsp 1.360.577/MG, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2018, DJe 07/03/2019).
+2. Agravo interno desprovido. (AgInt no REsp n. 1.942.092/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2022, DJe de 6/3/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e dar-lhe provimento a fim de reconhecer a necessidade da intimação pessoal em relação a incidência de astreintes no caso de descumprimento da ordem judicial.
+No recurso especial (fl. 272-283), a parte agravante aduz violações dos arts. 489, § 1º, VI, 537, 927, IV, e 1.022, I, II, do Código de Processo Civil.
+Reitere-se que, da análise dos fundamentos do acórdão de origem, bem se vê que a sugerida contrariedade aos arts. 489, § 1º, VI, e 1.022, I e II, do CPC não haveria mesmo de prosperar, visto que as questões essenciais à solução da demanda foram devidamente apreciadas pela Corte de origem, com a correspondente emissão de juízo objetivo e motivado, sem incorrer em nenhum dos vícios previstos nas referidas normas processuais.
+Mesmo porque o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Repise-se que o entendimento do Tribunal de origem no tocante às alegações de ofensa aos arts. 537 e 927, IV, do CPC - de que o comparecimento da executada no Cartório, após o trânsito em julgado da sentença condenatória, supriu a aplicação do enunciado da Súmula n. 410 do STJ - não encontra amparo na jurisprudência do Superior Tribunal de Justiça de que o comparecimento espontâneo aos autos não afasta a necessidade de intimação pessoal do devedor sobre a incidência de astreintes em caso de descumprimento da ordem judicial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ASTREINTES. INTIMAÇÃO PESSOAL DO DEVEDOR PARA CUMPRIMENTO DE OBRIGAÇÃO DE FAZER. NECESSIDADE. SÚMULA 410/STJ. PRECEDENTES. ACÓRDÃO EM DESARMONIA À JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, N A ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. A iterativa jurisprudência desta Corte Superior firmou-se no sentido de ser necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, nos termos da Súmula n. 410/STJ.
+1.1. O envio de e-mail ao departamento jurídico da instituição financeira e aos seus patronos não substitui a intimação pessoal.
+2. As questões afetas à regularidade e exigibilidade da multa cominatória constituem matéria de ordem pública e, por isso, nas instâncias originárias, não se sujeitam à preclusão e são passíveis de conhecimento de ofício.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno improvido. (AgInt no REsp n. 2.079.082/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. CLÁUSULAS ABUSIVAS. AÇÃO CIVIL PÚBLICA. INCIDÊNCIA DO CDC. LIMITAÇÃO. RELAÇÃO DE CONSUMO. CAPITALIZAÇÃO MENSAL DE JUROS. PACTUAÇÃO EXPRESSA. REDUÇÃO DA MULTA MORATÓRIA. CONTRATOS CELEBRADOS A PARTIR DA LEI 9.298/96. TAXA SELIC. CUMULAÇÃO COM CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. MULTA DIÁRIA. INTIMAÇÃO PESSOAL. IMPRESCINDIBILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Nos termos da jurisprudência do STJ, em regra, com base na Teoria Finalista, não se aplica o CDC aos contratos de empréstimo tomados por sociedade empresária para implementar ou incrementar suas atividades negociais, uma vez que a contratante não é considerada destinatária final do serviço e não pode ser considerada consumidora, limitando-se a revisão automática das cláusulas contratuais aos casos em que constatada a existência de relação de consumo, afastada a revisão em contratos relativos a relações de insumo.
+2. "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP 1.963-17/00, reeditada como MP 2.170-36/01), desde que expressamente pactuada".
+3. Nos termos da Súmula 285/STJ, "A redução da multa para 2%, tal como definida na Lei nº 9.298, de 01.08.1996, somente é possível nos contratos celebrados após sua vigência".
+4. Conforme entendimento pacificado no STJ, é vedada a incidência cumulativa da taxa SELIC com outro índice de atualização monetária, devendo ser afastada a correção monetária pelo índice do INPC no que tange aos valores a serem devolvidos pela instituição bancária.
+5. "É necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil" (EREsp 1.360.577/MG, Relator para o acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2018, DJe de 07/03/2019).
+6. Recurso especial a que se dá parcial provimento. (REsp n. 1.497.574/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/10/2023, DJe de 3/11/2023.)
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
