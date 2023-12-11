@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por ROGERIO FEITOSA FERREIRA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+A defesa aponta violação dos arts. 156 e 386 do Código de Processo Penal, pugnando pela absolvição, ante a ausência de provas concretas de que o recorrente tenha praticado o crime previsto no artigo 33, caput, da Lei n.º 11.343/2006.
+Alega que ele é motorista de Uber e os sacos com as drogas pertenciam a um cliente, passageiro este que já conhecia seus serviços e, por já o conhecer, acionou-o fora do aplicativo. Sustenta, ademais, que não se pode exigir dos motoristas de aplicativo que questionem ou revistem as malas ou objetos dos passageiros.
+Aponta, também, violação ao art. 42 da Lei 11.343/2006 e aos arts. 59 e 63 do Código Penal, sustentando que a quantidade de entorpecente apreendida não justifica uma reprimenda maior.
+Afirma, ainda, que a condenação valorada a título de maus antecedentes refere-se a fatos que ocorreram em 19 de outubro de 2012, enquanto os fatos tratados na denúncia teriam ocorrido, em tese, em 23 de junho de 2020, ou seja, quase 8 anos depois.
+Defende, assim, que as condenações já atingidas pelo período depurador de 5 anos, mencionado no artigo 64, I, do Código Penal, não configuram reincidência ou maus antecedentes.
+Por fim, alega que, mesmo em se tratando de condenações distintas, o reconhecimento, concomitantemente, de maus antecedentes e reincidência, configura bis in idem (e-STJ, fls. 758-781).
+Foram apresentadas as contrarrazões (e-STJ, fls. 785-800).
+O recurso foi inadmitido (e-STJ, fls. 803-804). Daí este agravo (e-STJ, fls. 809-814).
+O Ministério Público Federal manifestou-se pelo provimento parcial do agravo, para conhecer parcialmente o recurso especial e, na parte conhecida, negar-lhe provimento (e-STJ, fls. 844-847).
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o réu foi condenado, em primeiro grau de jurisdição, como incurso no artigo 33, caput, da Lei n.º 11.343/2006, às penas de 07 anos, 03 meses e 15 dias de reclusão, no regime inicial fechado, e a pagar 729 dias-multa, por ter sido apreendido em seu veículo 1 invólucro grande e 117 invólucros plásticos de cannabis sativa, pesando respectivamente 2.807g e 192,1g, e 1 invólucro plástico, com crack, substância derivada da cocaína, pesando 174,6g.
+Irresignada, a defesa recorreu, tendo a 8ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, por maioria de votos, mantido a condenação.
+Feitas essas considerações, verifica-se que o pedido de absolvição por insuficiência de provas, bem como o de reconhecimento de violação do art. 42 da Lei 11.343/2006 e dos arts. 59 e 63 do Código Penal, sob o argumento de que a quantidade de entorpecente apreendida não justifica a exasperação da reprimenda, já foram apreciados por este Relator, por ocasião do julgamento do HC 814.656/SP, estando, portanto, prejudicados.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. IMPUGNAÇÃO SUFICIENTE. RECONSIDERAÇÃO. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI 11.343/2006. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS E DIREITO. TEMAS ANALISADOS NESTA CORTE NO HC 378.845/SP. REITERAÇÃO DE PEDIDO. AGRAVO CONHECIDO PARA JULGAR PREJUDICADO O RECURSO ESPECIAL.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial, deve ser conhecido o agravo.
+2. A controvérsia recursal configura mera reiteração do HC 378.845/SP, em que denegada a ordem de habeas corpus.
+3. Agravo regimental provido para conhecer do agravo, julgando prejudicado o recurso especial." (AgRg no AREsp 1649191/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTOS EM CONTINUIDADE DELITIVA. PRINCÍPIO DA INSIGNIFICÂNCIA E ABRANDAMENTO DO REGIME PRISIONAL. REITERAÇÃO DE PEDIDOS. MATÉRIAS JÁ DEBATIDAS NO ÂMBITO DE HABEAS CORPUS. INSURGÊNCIA DESPROVIDA.
+1. Os pleitos de absolvição pela aplicação do princípio da insignificância e de mitigação do regime inicial de cumprimento de pena já foram analisados na anterior impetração do HC n. 532.742/SP.
+2. Verificada a reiteração de pedidos e não tendo o recorrente trazido qualquer fato capaz de dar ensejo a nova análise por este Tribunal das questões deduzidas, conclui-se, portanto, pela inadmissibilidade do presente recurso.
+3. Agravo regimental desprovido." (AgRg no AREsp 1662272/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/05/2020, Dje 29/05/2020).
+De outra parte, em relação à questão amparada no artigo 64, I, do Código Penal, essa não se encontra prejudicada, razão pela qual passo à sua análise.
+Sobre o tema, este STJ entende que condenações cujas penas definitivas foram extintas há mais de 05 anos, conquanto não configurem reincidência, podem ser valoradas na primeira fase da dosimetria da pena. Isso porque o período do art. 64, I, do Código Penal somente se aplica à reincidência, mas não aos maus antecedentes.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. DOSIMETRIA. TRÁFICO DE DROGAS (1,995 KG DE MACONHA). PRIMEIRA FASE. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES E QUANTIDADE DE ENTORPECENTE APREENDIDO. WRIT INDEFERIDO LIMINARMENTE. EMBARGOS DE DECLARAÇÃO. PARECER MINISTERIAL PELO ACOLHIMENTO DOS EMBARGOS E NÃO CONHECIMENTO DO WRIT. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA CONHECER PARCIALMENTE DO WRIT E, NA PARTE CONHECIDA, DENEGAR A ORDEM. ALEGAÇÃO RECURSAL. DOSIMETRIA. ANTECEDENTES. TRANSCURSO DO PERÍODO DEPURADOR. VALORAÇÃO NEGATIVA DA VETORIAL. POSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. ILEGALIDADE MANIFESTA. AGRAVO IMPROVIDO.
+ ..
+2. No mais, também sem razão o agravo, pois prevalece nesta Casa a orientação de que condenações anteriores transitadas em julgado há mais de 5 (cinco) anos, apesar de não espelharem a reincidência, pois alcançadas pelo período depurador previsto no art. 64, inciso I, do Código Penal, podem ser utilizadas para caracterizar os maus antecedentes do réu (AgRg no HC n. 626.768/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, Dje 10/3/2021). Precedentes.
+ ..
+4. Agravo regimental de fls. 113/124 (Petição n. 377.415/2021) improvido e agravo regimental de fls. 127/138 (Petição n. 388.931/2021) não conhecido".
+(AgRg no AgRg nos EDcl no HC 603.494/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/06/2021, DJe 08/06/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. FURTO QUALIFICADO TENTADO. ANOTAÇÃO CRIMINAL ALCANÇADA PELO PERÍODO DEPURADOR DE 5 ANOS. MAUS ANTECEDENTES. POSSIBILIDADE. TENTATIVA. RECONHECIMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME FECHADO. ACUSADO REINCIDENTE E COM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE OFENSA À SÚMULA N. 269 DESTA CORTE. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - A jurisprudência desta Corte tem posicionamento firme no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo o aumento da pena- base acima do mínimo legal e a devida individualização das penas.
+ ..
+Agravo regimental desprovido".
+(AgRg no HC 653.878/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/04/2021, DJe 27/04/2021)
+Por fim, também merece ser conhecida a alegação de que o reconhecimento, concomitantemente, de maus antecedentes e reincidência, mesmo quando se tratar de condenações distintas, configura bis in idem, uma vez que a tese não foi objeto de apreciação pelo HC 814-656/SP.
+Acerca do tema, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que, constatada a existência de 2 (duas) condenações distintas transitadas em julgado e sendo utilizada uma delas para valorar negativamente a circunstância judicial dos antecedentes e a outra para agravar a pena a título de reincidência, não se verifica a ocorrência de bis in idem. Isso porque o entendimento desta Corte é pacífico no sentido de que a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que aquelas que foram utilizadas na primeira fase sejam distintas daquelas valoradas na segunda etapa.
+Nesse sentido:
+" ..
+1. A jurisprudência desta Corte Superior admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, da conduta social e da personalidade do agente, ficando apenas vedado o bis in idem.
+2. Considerando a existência de três condenações transitadas em julgado não valoradas na segunda etapa da dosimetria a título de reincidência, não se vislumbra ilegalidade na exasperação da pena-base pelos maus antecedentes da ré.
+3. Ocorre que o aumento determinado pela instância ordinária a título de maus antecedentes, ainda que levado em consideração tratar-se de três condenações, mostra-se desproporcional. Note-se que, muito embora a lei não estabeleça o patamar mínimo e o máximo para incidência de cada circunstância judicial, sedimentou-se nesta Corte Superior de Justiça a orientação de que o acréscimo superior a 1/6 (um sexto) para cada circunstância judicial desfavorável deve ser devidamente justificado.
+4. Assim, havendo três condenações para caracterização dos maus antecedentes, está autorizada a fixação da pena-base em patamar acima do mínimo, mostrando-se adequado e suficiente para reprovação e prevenção do delito o acréscimo em 1/2 (metade) na pena-base pelo reconhecimento dos maus antecedentes (três condenações transitadas).
+5. Agravo regimental não provido." (AgRg no AREsp 1.116.974/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1/9/2017).
+" ..
+2. As instâncias de origem apontaram diferentes anotações penais com trânsito em julgado para majorar a reprimenda básica à conta de maus antecedentes e personalidade do agente, além daquela utilizada na segunda etapa do cálculo da sanção para a configuração da reincidência. Desse modo, adequada a fundamentação apresentada, não se verificando a ocorrência do vedado bis in idem.
+3. De acordo com a jurisprudência desta Casa, a prática do crime por réu foragido ou q uando em gozo de saída temporária demonstram desvio de caráter comportamental, justificando a exasperação da reprimenda básica. Precedentes.
+4. Habeas corpus denegado." (HC 447.340/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 28/5/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheço em parte do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
