@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por CARLOS HENRIQUE PEREIRA contra decisão do Desembargador Relator do Habeas Corpus n. 5049692-68.2022.8.24.0000/SC, que não conheceu do pedido.
+Consta nos autos que o Recorrente foi denunciado como incurso nos arts. 329 e 330 do Código Penal, e no art. 306, § 2.º, do Código de Trânsito Brasileiro, na forma do art. 69 do Código Penal.
+Sob a alegação de cerceamento de defesa, porque não teriam sido intimadas todas as testemunhas indicadas, foi impetrado habeas corpus perante o Tribunal de origem, mas o pedido não foi conhecido.
+Nas razões recursais , busca-se, em síntese, a suspensão do feito, com a "intimação de todas as testemunhas e marcação de nova data para oitiva" (fl. 39).
+O Ministério Público Federal manifestou-se às fls. 71-74, opinando pelo não conhecimento e desprovimento do recurso.
+É o breve relatório. Decido.
+O presente recurso ordinário impugna decisão monocrática de Relator, contra a qual não foi interposto agravo regimental. A jurisprudência do Superior Tribunal de Justiça não tem admitido recurso ordinário manejado antes do exaurimento das instâncias antecedentes.
+Exemplificativamente:
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O RECURSO. INTERPOSIÇÃO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NÃO ESGOTAMENTO DE INSTÂNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente recurso em habeas corpus se impugna decisão singular do Desembargador Relator do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao writ impetrado na origem, por se tratar de mera reiteração. Contra essa decisão seria cabível agravo regimental ao colegiado competente, o qual não foi interposto, o que impossibilita o conhecimento do recurso ordinário.
+2. O princípio da fungibilidade recursal tem aplicação quando se verifica a existência de dúvida objetiva a respeito de qual seria o recurso cabível em determinada hipótese. O equívoco da defesa em interpor o recurso adequado não se enquadra na categoria de dúvida objetiva, o que impossibilita a incidência do referido princípio na espéc ie.
+3. No caso, deveria ter sido interposto agravo regimental contra a decisão monocrática do relator na origem, a fim de submeter os argumentos defensivos à análise pelo colegiado competente daquela Corte. O recurso ordinário em habeas corpus mostra-se manifestamente incabível, tendo em vista a previsão constitucional de seu cabimento contra decisão denegatória de habeas corpus por Tribunal de Justiça (art. 105, inciso II, alínea "a", da CF), ou seja, contra aquela decisão que adentra o mérito da impetração e esgota seu exame naquela instância, para, assim, inaugurar a competência do Superior Tribunal de Justiça.
+4. Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questão não apreciadas pela Corte de origem, sob pena de indevida supressão de instância (AgRg no HC n. 325.124/RJ, rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. 9/6/2015, DJe 22/6/2015).
+5. Agravo regimental desprovido." (AgRg no RHC 118.447/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/10/2019, DJe 18/10/2019.)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, NÃO CONHEÇO do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. EXAURIMENTO DA JURISDIÇÃO PRÉVIA. AUSÊNCIA. PETIÇÃO RECURSAL NÃO CONHECIDA.
