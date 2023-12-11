@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL EM AÇÃO RESCISÓRIA. RESCISÓRIA JULGADA PROCEDENTE NA ORIGEM PARA DEFERIR BENEFÍCIO PREVIDENCIÁRIO. TERMO INICIAL DO BENEFÍCIO. DATA QUE OBSERVA O PEDIDO FORMULADO NA PETIÇAO INICIAL EM RESPEITO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA CONGRUÊNCIA. PRETENSÃO DE ALTERAÇÃO PARA A DATA DO REQUERIMENTO ADMINISTRATIVO. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação rescisória julgada procedente na origem para reconhecer benefício previdenciário ao obreiro, fixando como data de início do benefício a data requerida na petição inicial.
+2. A questão controversa dos autos diz respeito à data inicial do benefício, porquanto o obreiro pretende que o benefício seja devido desde a DER, aduzindo que indicou equivocadamente a data de início de benefício na inicial, pretensão essa que não foi acolhida pelo Tribunal a quo em razão dos princípios da congruência e do contraditório.
+3. No recurso especial, por sua vez, a parte recorrente não impugnou o fundamento do acórdão recorrido, se limitando a reiterar genericamente a sua tese de insurgência no sentido de que é o requerimento administrativo o marco inicial sobre o qual é devido seu benefício previdenciário.
+4. Incide, na espécie, o óbice da Súmula 283/STF:É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LAZARO DOS REIS VAZ, contra decisão proferida por esta Relatoria, ementada no seguinte sentido (fl. 901):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL EM AÇÃO RESCISÓRIA. RESCISÓRIA JULGADA PROCEDENTE NA ORIGEM PARA DEFERIR BENEFÍCIO PREVIDENCIÁRIO. TERMO INICAL DO BENEFÍCIO. DATA QUE OBSERVA O PEDIDO FORMULADO NA PETIÇAO INICIAL EM RESPEITO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA CONGRUÊNCIA. PRETENSÃO DE ALTERAÇÃO PARA A DATA DO REQUERIMENTO ADMINISTRATIVO. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Para melhor compreensão da controvérsia, cabe esclarecer que o ora agravante ajuizou ação rescisória visando desconstituir acórdão transitado em julgado que, embora tenha reconhecido o tempo de serviço, deixou de conceder o benefício de aposentadoria equivalente.
+No acórdão proferido na instância ordinária a ação rescisória foi julgada procedente, fixando a data de início do benefício em 17/12/2003, tal como foi solicitado na inicial, sem acolher a pretensão do obreiro que pretendia ver o benefício devido desde a DER em 27/01/2023.
+E o Tribunal a quo indeferiu a pretensão ao argumento de que alterar a data do benefício, tal como solicitado na petição inicial, afrontaria os limites da lide, ofendendo os princípios do contraditório e da congruência.
+No Recurso Especial se alegou violação aos artigos 54 e 49 da Lei 8.213/91, insistindo na tese de que o benefício deve ser concedido a contar da DER, em 27/01/2023, na forma dos dispositivos tidos por violados.
+Na decisão monocrática ora agravada, o Recurso Especial não foi conhecido ao entendimento de que o fundamento do acórdão recorrido não foi enfrentado no Recurso Especial, motivo pelo qual houve a aplicação da Súmula 283/STF.
+Nas razões do agravo interno o segurado aduz não ser aplicável a Súmula 283/STF, porquanto ao não deferir o benefício a partir da data da entrada do requerimento houve a violação dos arts. 54 e 49 da Lei 8.213/91
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL EM AÇÃO RESCISÓRIA. RESCISÓRIA JULGADA PROCEDENTE NA ORIGEM PARA DEFERIR BENEFÍCIO PREVIDENCIÁRIO. TERMO INICIAL DO BENEFÍCIO. DATA QUE OBSERVA O PEDIDO FORMULADO NA PETIÇAO INICIAL EM RESPEITO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA CONGRUÊNCIA. PRETENSÃO DE ALTERAÇÃO PARA A DATA DO REQUERIMENTO ADMINISTRATIVO. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação rescisória julgada procedente na origem para reconhecer benefício previdenciário ao obreiro, fixando como data de início do benefício a data requerida na petição inicial.
+2. A questão controversa dos autos diz respeito à data inicial do benefício, porquanto o obreiro pretende que o benefício seja devido desde a DER, aduzindo que indicou equivocadamente a data de início de benefício na inicial, pretensão essa que não foi acolhida pelo Tribunal a quo em razão dos princípios da congruência e do contraditório.
+3. No recurso especial, por sua vez, a parte recorrente não impugnou o fundamento do acórdão recorrido, se limitando a reiterar genericamente a sua tese de insurgência no sentido de que é o requerimento administrativo o marco inicial sobre o qual é devido seu benefício previdenciário.
+4. Incide, na espécie, o óbice da Súmula 283/STF:É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+5. Agravo interno não provido.
+VOTO
+A pretensão não merece acolhida.
+A respeito do termo inicial do benefício reconhecido na ação rescisória, o Tribunal a quo se manifestou in verbis (fls. 727):
+Por outro lado, no que tange aos embargos de declaração opostos pela parte autora, anoto que na petição inicial da presente ação rescisória constou expressamente, como termo inicial do benefício, a data de 17.12.2003, grafada com destaque (em negrito),conforme se vê do item 02 (id. 123628378 - pág. 06).
+Assim sendo, a despeito da data de entrada do requerimento administrativo ser anterior (27.01.2003), há que se atentar para os limites do pedido contidos na inicial, que define a própria matéria objeto do contraditório, de modo que não é possível ao julgador dispor de forma diversa, sob pena de incorrer em julgamento ultra petita, vedado pelo art. 492 do CPC.
+Verifica-se, portanto, que o Tribunal de origem entendeu que a data do início do benefício deveria corresponder à data correspondente ao pedido formulado na inicial, em respeito aos princípios do contraditório e da congruência.
+Embora em sede de agravo o ora agravante alegue que impugnou corretamente o fundamento da decisão recorrida, a qual não teria aplicado corretamente as normas relacionadas à data do início do benefício, o fato é que o fundamento da decisão recorrida, qual seja, de que a delimitação da lide é feita conforme a petição inicial e que a alteração da data lá fixada afrontaria os princípios da congruência e do contraditório, não foi enfrentado.
+Com efeito, se limitou em sede de Recurso Especial a reiterar genericamente a sua tese de insurgência no sentido de que é o requerimento administrativo o marco inicial sobre o qual é devida seu benefício previdenciário. Dessa forma, se verifica que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, incidindo, ao caso, o óbice da Súmula 283/STF:É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+DIREITO PROCESSUAL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRANQUIA. AÇÃO DE RESCISÃO. RESPONSABILIDADE CONTRATUAL CARACTERIZADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS E DO CONTRATO FIRMADO. SÚMULAS 5 E 7/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno desprovido.(AgInt no AREsp n. 1.954.803/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
