@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DJANIRA NEPOMUCENO LOPES DE SOUSA, com amparo no artigo 105, inciso III, alínea "a" da Constituição Federal, em desafio a acórdão proferido em apelação cível pelo Tribunal de Justiça do Estado de Tocantins, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CITAÇÃO DOS EXECUTADOS. REGULARIDADE. AUSÊNCIA DE INTIMAÇÃO DE UM DOS EXECUTADOS ACERCA DA PENHORA. PROVIDÊNCIA A SER TOMADA MEDIANTE INTIMAÇÃO DOSHERDEIROS HABILITADOS NA EXECUÇÃO. 1. Depreende-se do trâmite da ação de execução que todos os executados foram regularmente citados, haja vista que o sócio-proprietário foi pessoalmente citado, mediante Carta Precatória, sendo até mesmo ilógico pretender que fossem expedidos dois mandados de citação diferentes direcionados à mesma pessoa, considerando que era representante legal da empresa e seu avalista no débito executado. 2. A executada/avalista Djanira Nepomuceno Lopes Souza também foi devidamente citada, uma vez que o Oficial de Justiça apresentou-lhe o mandado de citação erroneamente na qualidade de representante da empresa Madeireira Tasmânia, mas também enquanto avalista da empresa. 3. O executado Ildemar Vieira de Sousa não chegou a ser intimado da penhora dos bens indicados, vindo a falecer antes da consumação deste ato processual, o qual deverá ser implementado através de seus herdeiros já habilitados nos autos da execução de título extrajudicial. 4. Recurso parcialmente provido.
+Nas razões do recurso especial (fls. 112-118), alega a insurgente ofensa ao art. 213 do Código de Processo Civil de 1973 (art. 238, do CPC/2015), afirmando não ter sido citada.
+Aduz que o ato de citação é pressuposto processual para o regular prosseguimento da execução, sendo inviável qualquer ato de constrição patrimonial dado o seu não ingresso adequado na lide, o que violou o direito da ampla defesa, do contraditório e do devido processo legal.
+Assevera que a pessoa jurídica não se confunde com os seus sócios na condição de pessoa física, logo, o ingresso na relação jurídica processual depende de citação individualizada, devendo, portanto, ser reconhecida a nulidade da execução pela ausência de citação pessoal da recorrente na condição de avalista, com o reconhecimento de que a relação processual não se constituiu quanto à sua pessoa.
+Sem contrarrazões.
+O reclamo foi admitido na origem, tendo os autos ascendido a esta Corte Superior.
+É o relatório.
+Decido.
+O reclamo não merece prosperar.
+1. A Corte local, com amparo nos elementos de convicção dos autos, afirmou, categoricamente, que a recorrente fora devidamente citada na execução enquanto avalista da empresa.
+Confira-se o trecho do julgado:
+A executada/avalista Djanira Nepomuceno Lopes Souza também foi devidamente citada, uma vez que o Oficial de Justiça apresentou-lhe o mandado de citação erroneamente na qualidade de representante da empresa Madeireira Tasmânia, mas também enquanto avalista da empresa. Destarte, ressai claramente dos autos que foi efetivada a citação regular de todos os executados.
+A despeito de constar que tenha lhe sido apresentado o mandado erroneamente na qualidade de representante da empresa, constatou a Corte local que também o fora enquanto avalista da sociedade executada.
+Assim, para acolher a tese de que "em nenhum momento foi expedido mandado de citação em nome expresso da recorrente na condição de avalista", seria imprescindível revolver o acervo fático-probatório dos autos, procedimento inviável nessa sede extraordinária ante o óbice da súmula 7/STJ.
+2. Ademais, mesmo que assim não fosse, verifica-se que não se depreende tenha havido prejuízo à insurgente dado que, conforme expressamente consignado, "a empresa compareceu aos autos, indicou bens à penhora, representada por seu sócio e assistida por advogado regularmente constituído nos autos, sendo certo que teve inequívoca ciência da existência e finalidade da execução".
+Assim, não estando em debate eventual penhora que tenha recaído sobre seus bens particulares, não há falar em prejuízo patrimonial até o momento.
+Ressalte-se ter ficado consignado a necessidade de suspensão do leilão dos imóveis em virtude de não ter sido o falecido executado Ildemar intimado da penhora realizada, a qual somente se perfectibilizará com a intimação de todos os herdeiros já habilitados no feito.
+3. Do exposto, com amparo no artigo 932 do CPC c/c a súmula 568/STJ, nego provimento ao recurso especial.
+Dada a sucumbência recíproca na proporção de 50% para cada parte, cada qual arcando com o pagamento dos honorários de seus patronos, deixo de majorar a verba honorária nos termos do artigo 85, § 11 do CPC.
+Publique-se. Intimem-se.
+EMENTA
