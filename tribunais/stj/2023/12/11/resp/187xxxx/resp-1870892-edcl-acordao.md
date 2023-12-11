@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por IARA BEATRIZ TAUBER DA SILVA desafiando acórdão de minha relatoria, assim ementado (fls. 488/489):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 489, § 1º, E 1.022 DO CPC. RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. TELEFONISTA. JORNADA DE TRABALHO. MAJORAÇÃO PARA QUE SE CUMPRA A LEI DE REGÊNCIA. DECADÊNCIA ADMINISTRATIVA. INAPLICABILIDADE. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME REMUNERATÓRIO.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP(relator Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante insiste na tese de contrariedade aos arts. 489, § 1º, e 1.022 do CPC, sem, contudo, impugnar especificamente os fundamentos lançados na decisão atacada no sentido de que o Tribunal de origem não incorreu em negativa de prestação jurisdicional, na medida em que decidiu a controvérsia de forma clara, precisa e congruente. Incidência da Súmula 182/STJ.
+3. "O acórdão recorrido está em sintonia com a jurisprudência dominante no âmbito desta Corte superior acerca da matéria, no sentido de que "à míngua de lei prevendo como especial a atividade profissional de telefonista, nada impede que a Administração, pautada pela conjugação dos critérios de conveniência e oportunidade, modifique a jornada de trabalho em relação ao referido cargo, desde que respeitados os limites estabelecidos em lei mínimo de seis e máximo de oito horas diárias", bem como quanto a inaplicabilidade do prazo decadencial previsto no art. 54 da Lei n. 9.784/1999 ao caso dos autos. Nesse sentido: AgRg no REsp 1529146/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 14/09/2015 e AgRg no REsp 1147431/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 02/06/2015" (AgInt no REsp n. 1.600.810/RS, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/11/2016).
+4. Agravo interno desprovido.
+Sustenta a embargante a existência de omissões no julgado, a saber: (a) "no tocante à adoção do entendimento consolidado pela Suprema Corte no ARE nº 660.110/PR quanto à impossibilidade de aumentar a jornada de trabalho sem a correspondente retribuição remuneratória" (fl. 511); (b) "ao considerar não impugnado o fundamento adotado na r. decisão então agravada no tocante à preliminar de afronta aos artigos 489 e 1.022, do CPC" (fl. 512); (c) "ao não se manifestar quanto ao fato de que, por mais de 30 anos, a Autora teve assegurada uma jornada laboral. Desta forma, busca a parte demonstrar que a atuação administrativa se encontra afetada pela decadência, uma vez que pretende invalidar o ato que, há décadas, concedeu a jornada mais benéfica à servidora" (fl. 512); (d) necessidade de respeito à tese firmada pelo STF no Tema n. 514.
+Requer, assim, o acolhimento dos aclaratórios.
+Sem impugnação (fl. 529).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, o não conhecimento do agravo interno no que tange à tese de ofensa aos arts. 489, § 1º, e 1.022 do CPC, deu-se de forma clara, precisa e congruente. Senão, vejamos (fl. 498):
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, ao julgar os EREsp 1.424.404/SP(relator Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+In casu, a parte agravante limita-se a afirmar genericamente a existência de contrariedade aos arts. 489, § 1º, e 1.022 do CPC, sem, contudo, impugnar especificamente os fundamentos lançados na decisão atacada no sentido de que o Tribunal de origem não incorreu em negativa de prestação jurisdicional, na medida em que decidiu a controvérsia de forma clara, precisa e congruente. Assim, nesse ponto, incide na espécie o óbice da Súmula 182/STJ.
+Da mesma forma, a teses de decadência administrativa e enriquecimento ilícito da Administração foram afastadas de forma fundamentada, nos seguintes termos (fls. 498/499):
+Como consignado na decisão atacada, a ora agravante- servidora pública federal, vinculada ao Núcleo Estadual do Ministério da Saúde no Rio Grande do Sul, ocupante do cargo de telefonista- ajuizou a subjacente ação ordinária em desfavor da UNIÃO, objetivando anular o ato administrativo que promoveu a ampliação de sua jornada de trabalho de 30 (trinta) horas semanais para 40 (quarenta) horas semanais, bem como receber o pagamento de horas extras correspondentes às que ultrapassaram o limite de 6 (seis) horas diárias de trabalho.
+De se ver, portanto, que a autora, ora agravante, não se insurge contra eventual anulação de ato administrativo pela Administração, do qual decorreria efeitos benéficos, mas contra decisão administrativa exarada com a finalidade de fazer cumprir a jornada de trabalho prevista no art. 19 da Lei 8.112/1990.
+Logo, não procede a tese de decadência administrativa.
+Impende observar que, na forma da jurisprudência desta Corte, "a previsão da parte final do art. 2º, parágrafo único, XIII, da Lei n. 9.784/1999, que veda a aplicação retroativa de nova interpretação, incide apenas sobre a interpretação de norma administrativa, como indica a primeira parte do inciso" (MS n. 18.802/DF, relatora Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 20/12/2022 - Grifo nosso).
+Desse modo, considerando-se que a hipótese não versa a respeito de interpretação de norma administrativa, mas acerca da determinação de cumprimento de regra legal (art. 19 da Lei 8.112/1990) que vinha sendo sistematicamente descumprida, também não tem incidência na espécie o art. 2º, parágrafo único, XIII, da Lei n. 9.784/1999.
+Também não resta evidenciada nenhuma contrariedade aos princípios elencados no art. 2º, caput, da Lei 9.784/1999, haja vista que, como asseverado pela Corte regional, não há direito subjetivo em favor do servidor contra o regime jurídico que estabelece sua jornada de trabalho.
+Sobreleva pontuar, nessa toada, que eventual falha da Administração em exigir da agravante o cumprimento de sua jornada de trabalho não lhe assegura o direito de se manter em erro, mormente considerando-se que, de acordo com a "tese fixada pelo Supremo Tribunal Federal em julgamento de repercussão geral (RE 563.708, relatora Ministra Cármen Lúcia, DJe 2/5/2013, Tema 24),  ..  não há direito adquirido a regime jurídico" (REsp n. 1.997.556/PE, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 27/4/2023).
+Especificamente no que concerne à tese segundo a qual a majoração da jornada de trabalho imposta pela Administração implicaria enriquecimento ilícito desta, diante da ausência do respetivo aumento da remuneração, observa-se que a aplicação da Súmula 284/STF foi equivocada.
+Nada obstante, à luz dos fundamentos já lançados acima, especialmente no que tange ao fato de que a hipótese não versa a respeito de aumento da jornada de trabalho da agravante, mas simplesmente em fazer cumprir aquela prevista em lei, não há falar em enriquecimento ilícito da Administração, o que aconteceria, em verdade, acaso se permitisse à servidora cumprir jornada inferior à prevista na legislação e sobre a qual foi fixada sua remuneração.
+Destarte, observa-se que a decisão agravada deu à controvérsia solução que está em harmonia com a jurisprudência deste Superior Tribunal. Senão vejamos:
+ ..
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no aresto embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, relator Ministro OG FERNANDES,
+PRIMEIRA SEÇÃO, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+É como voto.
