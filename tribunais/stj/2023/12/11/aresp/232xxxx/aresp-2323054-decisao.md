@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento do habeas corpus n. 202200313762.
+Consta dos autos que o Ministério Público Estadual ofereceu denúncia criminal contra o agravado, imputando-lhe a prática do delito tipificado no art. 157, § 2º, II, do Código Penal - CP (roubo majorado). Foi decretada a prisão preventiva do acusado.
+Foi impetrado habeas corpus pela defesa, em que foi concedida a ordem para revogar a prisão preventiva (fl. 87). O acórdão ficou assim ementado:
+"HABEAS ROUBO CORPUS. CIRCUNSTANCIADO. ART. 157, §2", II, DO CP. AUSÊNCIA DE FUMUS COMISSI INDÍCIOS DELICTI. DE AUTORIA NÃO NÃO PRESENTES. APREENSÃO DA RES FURTIVA EM PODER DO PACIENTE. AUSÊNCIA DE RECONHECIMENTO DO PACIENTE PELA VÍTIMA. DECLARAÇÕES EM JUÍZO DA OFENDIDA DE QUE NÃO RECONHECE O PACIENTE COMO CRIME. AUTOR N Ã O DO PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS À PRISÃO PREVENTIVA. ART. 312 E ART. 313 DO CPP. REVOGAÇÃODA SEGREGAÇÃO CAUTELAR EM SEDE LIMINAR. MANUTENÇÃO. ORDEM CONCEDIDA EM DEFINITIVO. À UNANIMIDADE." (fls. 81/82)
+Em sede de recurso especial (fls. 90/98), o MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE apontou violação ao art. 312 do Código de Processo Penal - CPP, requerendo, em síntese, o restabelecimento da prisão preventiva do agravado.
+Contrarrazões de JACKSON LUIZ DE FRANCA (fls. 101/106).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 109/112).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 118/127).
+Contraminuta do Ministério Público (fls. 130/139).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 154/156).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE revogou a prisão preventiva nos seguintes termos do voto do relator (fls. 86/87):
+"Como cediço, a decretação da prisão preventiva exige a presença concomitante de uma das condições de admissibilidade previstas nos incisos I, II, e III, do artigo 313, e seu parágrafo único, do Código de Processo Penal, além dos dois pressupostos que integram o chamado "fumus comissi delicti" (prova da materialidade e indícios de autoria - art. 312, última parte, do Código de Processo Penal - e de pelo menos uma das justificativas do periculum libertatis do paciente - previstas na primeira parte do art. 312 do CPP, quais sejam: a garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+Ressalte-se que, com a entrada em vigor da Lei nº 13.964/19, o dispositivo referido (art. 312 do CPP) trouxe mais um requisito ao decreto prisional, consistente na demonstração do perigo gerado pelo estado de liberdade do imputado.
+No mais, o parágrafo segundo desse mesmo artigo 312 do Código de Processo Penal também exigiu que a decisão demonstre a existência concreta de fatos novos ou contemporâneos que justifiquem a aplicação da medida extrema.
+Pois bem. No caso em espeque, a despeito de a vítima, em suas declarações prestadas na fase inquisitorial, tenha afirmado que um dos indivíduos tenha lhe ameaçado, dizendo que estava armado; que passou um amigo seu, de nome Márcio, e perseguiu os criminosos; e que, passados alguns instantes, policiais militares foram a sua procura e lhe apresentaram um indivíduo, o qual reconheceu, sem dúvidas, como sendo um dos autores do crime, que seria o paciente, quando foi ouvida em Juízo, negou tudo isso, dizendo que estava nervosa; que jamais teria condições de reconhecer quaisquer dos dois elementos; que não sabe quem é Márcio; que os policiais não voltaram para lhe mostrar nenhum suspeito, e que nem mesmo na Delegacia reconheceu ninguém como autor do crime que sofreu seu filho.
+Diante disso, não há como se sustentar a presença do fumus comissi delicti necessário à prisão preventiva do paciente em tela, por ausência de indícios suficientes a apontarem que foi realmente o autor do crime, tendo se estabelecido, com as declarações da vítima em Juízo, sérias dúvidas nesse sentido.
+Portanto, não obstante a fundamentação apresentada, inexistem indícios suficientes, por hora, da participação do paciente no crime de roubo em voga e, nessa perspectiva, não há como se manter a sua preventiva, por ausência dos requisitos exigidos pela lei, em especial, pelo art. 312 do CPP.
+Assim, concedo em definitivo a ordem pleiteada no presente Habeas Corpus, mantendo a revogação da prisão preventiva do paciente, Jackson Luiz de França, conforme outrora decidido em âmbito de análise do pedido liminar, cujo deferimento se confirma no presente momento."
+Para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela presença dos requisitos autorizadores da prisão preventiva seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 312 E 313, AMBOS DO CPP. FUNDAMENTOS DA PRISÃO PREVENTIVA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar se estão presentes os requisitos para que se decrete, mantenha ou que se revogue a constrição cautelar do acusado. Incidência da Súmula 7 deste Tribunal.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1406878/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 04/08/2014).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. 1. CONCESSÃO DE HABEAS CORPUS PELA CORTE LOCAL. PLEITO DE RESTABELECIMENTO DA PRISÃO CAUTELAR. VIOLAÇÃO AO ART. 312 DO CPP. DIVERGÊNCIA JURISPRUDENCIAL. FUNDAMENTOS DA PRISÃO PREVENTIVA. REEXAME DAS PROVAS DO PROCESSO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise da violação do art. 312 do Código de Processo Penal, nos termos em que pleiteado pelo recorrente, demandaria, inevitavelmente, o reexame do arcabouço carreado aos autos, porquanto assentado pelo Tribunal de origem ser insustentável a manutenção da prisão preventiva, ante a carência de motivação e de amparo nos fatos e nas provas constantes dos autos.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 345.966/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 25/11/2013).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
