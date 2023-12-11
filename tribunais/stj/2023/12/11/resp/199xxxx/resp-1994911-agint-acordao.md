@@ -1,0 +1,114 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INFRINGÊNCIA AOS ARTS. 189 DO CÓDIGO CIVIL/2002, 85, § 4º, III, e 329, III, DO CÓDIGO DE PROCESSO CIVIL/2015. TESES RECURSAIS NÃO PREQUESTIONADAS. SÚMULA 211/STJ. PERDA SUPERVENIENTE DE OBJETO. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que as teses recursais vinculadas aos artigos 189 do Código Civil/2002, 85, § 4º, III, e 329, III, do CPC/2015 não foram apreciadas, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+III. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual a parte recorrente não indicou, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015.
+IV. O acórdão recorrido fixou os honorários advocatícios com base no princípio da causalidade, portanto, para rever tal entendimento demandaria o reexame de todo o contexto fático-probatório existente nos autos, o que é defeso a esta Corte, em vista do óbice da Súmula 7/STJ.
+V. Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+VI. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que não conheceu do Recurso Especial, pela incidência das Súmulas 7 e 211/STJ.
+Inconformada, sustenta a parte agravante que "a tese recursal contida nos artigos 189 do Código Civil, 85, § 10, do Código de Processo Civil, foi suficientemente apreciada pelo Tribunal de origem, não havendo se falar no óbice da Súmula 211/STJ" (fl. 543e). Alega, também, que o único responsável pelo ajuizamento do processo de cobrança foi o Agravado que estava inadimplente no momento do ajuizamento (..), donde exsurge patente a violação aos artigos 189 do CC e 85, § 10, do CPC" (fl. 543e).
+Afirma, ainda, que "não há se falar na necessidade de reexame de provas e fatos para constatação de quem efetivamente deu causa ao processo porque o Tribunal de origem extinguiu a ação em razão da perda do objeto por fato superveniente não imputável a Agravante, mas simplesmente porque o direito foi reconhecido administrativamente pelo Agravado" (fls. 543/544e).
+Requer, subsidiariamente, a adequação da condenação em honorários advocatícios ao Tema 1076/STJ.
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 1.994.911 - DF (2022/0093503-0)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+20/20 SERVICOS MEDICOS S/S
+ADVOGADO
+:
+CESAR AUGUSTO DA COSTA - SP148429
+AGRAVADO
+:
+DISTRITO FEDERAL
+ADVOGADA
+:
+TATIANA BARBOSA DUARTE - DF014459
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INFRINGÊNCIA AOS ARTS. 189 DO CÓDIGO CIVIL/2002, 85, § 4º, III, e 329, III, DO CÓDIGO DE PROCESSO CIVIL/2015. TESES RECURSAIS NÃO PREQUESTIONADAS. SÚMULA 211/STJ. PERDA SUPERVENIENTE DE OBJETO. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que as teses recursais vinculadas aos artigos 189 do Código Civil/2002, 85, § 4º, III, e 329, III, do CPC/2015 não foram apreciadas, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+III. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual a parte recorrente não indicou, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015.
+IV. O acórdão recorrido fixou os honorários advocatícios com base no princípio da causalidade, portanto, para rever tal entendimento demandaria o reexame de todo o contexto fático-probatório existente nos autos, o que é defeso a esta Corte, em vista do óbice da Súmula 7/STJ.
+V. Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+VI. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os argumentos da parte agravante, as razões deduzidas neste recurso não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+De início, registra-se que, a respeito da vigência do novel diploma processual, o Plenário do Superior Tribunal de Justiça, na sessão realizada dia 02/03/2016 (Ata de Julgamento publicada em 08/03/2016), por unanimidade, aprovou o Enunciado Administrativo 1, firmando a posição de que a vigência do novo Código de Processo Civil, instituído pela Lei 13.105, de 16/03/2015, iniciou-se em 18 de março de 2016.
+De igual modo, na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ também sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater.
+Tal entendimento, restou assim firmado:
+"Enunciado Administrativo nº 2:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+"Enunciado Administrativo nº 3:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso, o presente Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/2015.
+Ao que se tem, de fato, quanto à tese de ofensa aos artigos 189 do Código Civil/2002, 85, § 4º, IIIe 329, III, do CPC/2015, o Recurso Especial não ultrapassa o exame da admissibilidade, ante o óbice da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva o exame da questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada como violada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e dos fundamentos do acórdão, percebe-se que as teses recursais não foram apreciada, pela Corte de origem, não tendo servido de fundamento à conclusão adotada pelo Tribunal a quo. A propósito, a reiterada jurisprudência desta Corte:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PENSÃO POR MORTE. ESTUDANTE UNIVERSITÁRIO. PRORROGAÇÃO DO BENEFÍCIO ATÉ 24 ANOS DE IDADE. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280/STF. DISPOSITIVOS DA LEI N. 8.213/91 NÃO PREQUESTIONADOS. SÚMULA N. 211/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súmula n. 211/STJ.
+3. Agravo regimental não provido" (STJ, AgRg nos EDcl no AREsp 726.546/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 04/11/2015).
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. ENRIQUECIMENTO ILÍCITO. NÃO OCORRÊNCIA. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+(..)
+3. Incide a Súmula n. 211/STJ quando a questão suscitada no recurso especial, não obstante a oposição de embargos declaratórios, não foi apreciada pela Corte a quo.
+4. O acesso à via excepcional, nos casos em que o Tribunal a quo, a despeito da oposição de embargos de declaração, não regulariza a omissão apontada, depende da veiculação, nas razões do recurso especial, de ofensa ao art. 535 do CPC.
+5. Agravo regimental desprovido" (STJ, AgRg no AREsp 750.119/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 03/11/2015).
+Registre-se, ainda, por oportuno, que a exigência de prequestionamento encontra respaldo no próprio permissivo constitucional:
+"Art. 105. Compete ao Superior Tribunal de Justiça:
+(..)
+III - julgar, em Recurso Especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+b) julgar válida lei ou ato de governo local contestado em face de lei federal;
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+Vale, a propósito, conferir a lição de NELSON NERY JÚNIOR, no sentido de que "(..) a locução causas decididas, autoriza a exigência do denominado prequestionamento da questão constitucional ou federal, exigência feita nos verbetes ns. 282 e 356 da Súmula da jurisprudência predominante no STF, aplicáveis ao RE e também ao REsp. A questão objeto dos recursos deve ter sido decidida pelo órgão judicial inferior, sem o que não se terá cumprido o requisito constitucional para a admissibilidade desses recursos" (in Princípios Fundamentais - Teoria Geral dos Recursos, 5ª edição, RT, p. 252).
+Por fim, esclareça-se que a parte deixou de indicar, nas razões de seu Recurso Especial, ofensa ao art. 1.022 do CPC/2015. Ocorre que, nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO, FUNDAMENTADA, DE OFENSA AO ART. 1.022 DO CPC. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Para que seja admitido o prequestionamento ficto, em recurso especial, impõe-se à Recorrente alegar violação ao art. 1.022 do mesmo Código e demonstrar, efetivamente, a existência de omissão no acórdão prolatado pelo tribunal a quo, e a relevância da necessidade de exame da matéria suficiente para ensejar a supressão de grau que o dispositivo legal faculta, o que não ocorreu.
+IV - Não apresentados argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido" (STJ, AgInt no REsp 1.727.691/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 25/06/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PRETENSÃO DE RECONHECIMENTO DE SUPOSTA OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. ALEGADA VIOLAÇÃO DE DISPOSITIVO SEM COMANDO NORMATIVO PARA TANTO. ALEGADA PRECLUSÃO QUANTO AO TEMA DA PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO DE DISPOSITIVO TIDO COMO VIOLADO, EMBORA OPOSTOS EMBARGOS DE DECLARAÇÃO. NÃO ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA 211/STJ.
+1. A pretensão de reconhecimento de omissão no acórdão recorrido não retificada em sede de embargos de declaração só é viável caso apontada a violação de dispositivo específico referente aos aclaratórios, ou seja, o art. 1.022 do CPC/2015.
+2. O dispositivo alegadamente violado pelo recorrente não dispõe do devido comando normativo para impulsionar a averiguação de ocorrência de omissão. Incide, pois, o óbice da Súm. 284/STF.
+3. O acórdão recorrido não discutiu acerca da ocorrência de preclusão quanto ao tema da prescrição. Nas razões do recurso especial não foi alegada ofensa ao art. 1.022, do CPC/2015 (vigente à época da interposição). O reconhecimento do prequestionamento ficto exige que seja indicada a violação do referido dispositivo. Incide a Súm. 211/STJ a inviabilizar o conhecimento da insurgência.
+4. Agravo interno não provido" (AgInt no AREsp 1.230.446/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/05/2018).
+Ademais, o Tribunal a quo, com base no exame dos elementos fáticos dos autos, acerca do pagamento de honorários de sucumbência, na forma do art. 85 do CPC, decidiu nos seguintes termos:
+"In casu, as partes noticiam (ids nº 25224272 e nº 25834173) o pagamento do crédito litigioso na via administrativa.(..)
+Por outro lado, entendo que a realização do pagamento do crédito litigioso na via administrativa, sem qualquer interferência do Poder Judiciário para tanto, impede o prosseguimento da ação como um todo pela perda superveniente do interesse processual.
+Por conseguinte, compreendo que a propositura da presente ação foi, de fato, realizada de forma prematura, uma vez que a ação foi desnecessária para obtenção do provimento inaugural vindicado que foi obtido por meio de processo administrativo, razões pelas quais deve a parte autora, ora apelada, arcar com os honorários advocatícios por força do princípio da causalidade que orienta que as verbas sucumbenciais serão arcadas por quem deu causa ao processo" (fls. 402/403e)
+No caso, cabe destacar, ainda, que a própria parte recorrente esclarece em suas razões recursais que:
+"No momento do ajuizamento da ação de cobrança o Distrito Federal estava inadimplente e não tinha nenhum interesse em pagar a dívida cobrada porque estava se beneficiando de decisão liminar concedida em dezembro de 2014 na Ação de Improbidade Administrativa movida pelo MPDFT, que suspendeu os pagamentos a Recorrente (ID 14198414, págs. 22/28), a qual só foi revogada pelo Tribunal de Justiça do Distrito Federal quando do julgamento do recurso de apelação em 10/04/2019 (ID 14198414, págs. 44/79)" (fls. 469/470e).
+Como visto, o acórdão recorrido entendeu pelo não cabimento de honorários advocatícios em favor da parte autora, com base no princípio da causalidade, portanto, para rever tal entendimento demandaria o reexame de todo o contexto fático-probatório existente nos autos, o que é defeso a esta Corte, em vista do óbice da Súmula 7/STJ.
+A propósito:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. EXTINÇÃO DO FEITO SEM EXAME DO MÉRITO. PERDA DE OBJETO. VERIFICAÇÃO DE QUEM DEU CAUSA À INSTAURAÇÃO DO PROCESSO. EXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. APLICAÇÃO.
+1. O acórdão encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça sobre o tema, segundo a qual, à luz do princípio da causalidade, sendo hipótese de extinção do feito sem resolução do mérito em decorrência da perda superveniente do objeto da demanda, não há que se falar em condenação em honorários advocatícios a quem não deu causa à instauração do processo.
+2. Ademais, a alteração das conclusões adotadas pela Corte de origem, quanto à verificação de que a recorrida teria dado causa à instauração do feito, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido" (STJ, AgInt no AgInt no AREsp n. 2.090.512/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 31/8/2023).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. PERDA DO OBJETO. CABIMENTO. ENTENDIMENTO EM CONSONÂNCIA COM O STJ. SITUAÇÃO FÁTICA. REVISÃO. SÚMULA 7/STJ.
+1. Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+2. À luz do princípio da causalidade, extinto o processo sem julgamento do mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação, a parte que deu causa à extinção do feito deverá suportar o pagamento dos honorários advocatícios.
+3. A revisão da conclusão a que chegou o Tribunal de origem demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidência no caso da Súmula 7/STJ.
+4. Agravo interno não provido" (STJ, AgInt no REsp n. 2.004.646/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/11/2022.)
+"ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DECRETAÇAO DE PRISÃO. RETRATAÇAO DA VÍTIMA. ABSOLVIÇÃO. TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO FÁTICO DA CAUSA, ENTENDEU NÃO TER OCORRIDO ERRO JUDICIÁRIO, AFASTANDO A RESPONSABILIDADE CIVIL DO ESTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Hipótese em que o Tribunal de origem consignou que "o conjunto probatório produzido permite concluir que o Estado, ao decretar a prisão do autor, agiu com os elementos que estavam à sua disposição, como prova testemunhal e demais elementos da materialidade e índicos suficientes da autoria, em decisão devidamente fundamentada, guardando pertinência com a legislação aplicável. A segregação realizada se encontrava respaldada no sistema jurídico, face à confirmação, em segundo grau, da sentença penal condenatória (fls. 105/111). De outra banda, a absolvição do demandante aconteceu em face da retratação da vítima que, posteriormente, veio a reconhecer que teria se equivocado no momento do reconhecimento de ser Rogério o autor do fato delituoso" (fl. 352, e-STJ).
+2. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, visto que suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo Interno não provido" (STJ, AgInt nos EDcl no AREsp 1.649.945/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/12/2020).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Por fim, incabível o acolhimento do pedido de adequação do julgado ao Tema 1076/STJ, ante a falta de prequestionamento do disposto no art. 84, § 4º, do CPC/2015, como já consignado anteriormente.
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
