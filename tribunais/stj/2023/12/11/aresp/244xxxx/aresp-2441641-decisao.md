@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED NORTE MATO GROSSO COOPERATIVA TRABALHO MÉDICO contra decisão que inadmitiu o recurso especial com base na incidência das Súmulas n. 283 e 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do mato Grosso, em sede de apelação, assim ementado (fls. 374-375):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE - PACIENTES DIAGNOSTICADOS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) - INDICAÇÃO DE TRATAMENTO MULTIDISCIPLINAR PRESCRITO POR MÉDICO ESPECIALISTA - RESOLUÇÃO ANS Nº 469 /2021 E 539/2022 - NOVAS DIRETRIZES PARA COBERTURA - RECUSA INDEVIDA - DIREITO CONSTITUCIONAL À VIDA E À SAÚDE - DANO MORAL CONFIGURADO - DEVER DE INDENIZAR - SENTENÇA REFORMADA EM CONSONÂNCIA COM O PARECER MINISTERIAL - RECURSO PROVIDO.
+A Agência Nacional de Saúde - ANS, por meio da Resolução Normativa nº 539/2022, acrescentou o §4º no artigo 6º da Resolução Normativa nº 465/2021, a fim de tornar obrigatória a cobertura dos procedimentos que envolvam o tratamento dos beneficiários portadores de transtornos globais de desenvolvimento, incluindo o transtorno do espectro autista, de modo que a operadora de saúde deverá oferecer atendimento por prestador apto a executar o método ou técnica indicados pelo médico assistente para tratar a doença do paciente.
+Assim, havendo previsão para cobertura dos procedimentos que envolvam os beneficiários portadores do espectro autista por qualquer método ou abordagem, é abusiva a recusa de custeio dos tratamentos indicados pelo médico que assiste o paciente.
+Incorre em ato ilícito a indevida recusa de cobertura do atendimento médico-hospitalar. Há nexo de causalidade entre a conduta de recusar a cobertura e o resultado suportado pelo beneficiário, quais sejam, transtornos, angústia, abalo psicológico de monta imensurável, mormente por se tratar da própria saúde.
+O arbitramento do valor da indenização decorrente de dano moral deve ser feito de acordo com os aspectos do caso, sempre com bom senso, moderação e razoabilidade, atentando-se à proporcionalidade com relação ao grau de culpa, extensão e repercussão dos danos e à capacidade econômica das partes.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 186 e 187 do CC. Sustenta a inocorrência de ilícito apto a ensejar reparação, ante o exercício regular de seu direito.
+Defende, assim, que a negativa de cobertura do tratamento foi baseada nas disposições legais então vigentes.
+Requer seja conhecido e provido o recurso especial para afastar a obrigatoriedade de indenização moral.
+É o relatório. Decido.
+A irresignação não reúne condições de prosperar.
+É que, a despeito das alegações de violação dos arts. 186 e 187 do CC e inocorrência de ilícito apto a ensejar reparação, como disposto pelo Tribunal de origem, restou devida a cobertura do tratamento pleiteado, tendo ocorrido ilícito em razão da indevida recusa.
+Confira-se (fls. 380-381, destaquei):
+In casu, considerando a documentação acostada nos autos, constata-se que os autores são beneficiários do plano de saúde, e comprovaram o transtorno psíquico que os acomete, documentos esses aptos a subsidiarem a necessidade da realização do tratamento.
+Isso porque, consta no laudo acostado no id.155841873, que ambos os autores possuem o diagnóstico Transtorno do Espectro Autista, apresentando atraso no desenvolvimento verbal, pouco contato visual, alterações sensoriais, dificuldade em socialização, dentre outros sinais, tendo solicitado além de outras terapias, a terapia de Psicomotricidade.
+Todavia, a referida solicitação fora negada pela parte requerida, ora apelada, sob o argumento de ausência de previsão no rol da ANS, o que se mostra indevido, porquanto diante da nova normativa tem-se que a operadora deverá oferecer atendimento por prestador apto a executar o método ou técnica indicados pelo médico assistente para tratar a doença ou agravo do paciente, quando se tratar de beneficiários portadores de transtornos globais do desenvolvimento, incluindo o transtorno do espectro autista.
+ ..
+Ademais, a Unimed cometeu ato ilícito, uma vez que negou indevidamente a cobertura de tratamento almejado pelos apelantes.
+Assim, há nexo de causalidade entre a conduta da Unimed em recusar a cobertura e o resultado suportado pelos autores com transtorno, angústia e abalo psicológico. Assim, não se trata de mero dissabor suportado em face da negativa da Unimed em arcar com as despesas do procedimento, mas em angústia pelo agravamento da saúde ante a recusa injustificada do tratamento médico.
+Nesse cenário fático, restaram caracterizados os danos morais.
+Sendo assim, acolher o pleito da ora agravante, para reconhecer a não ocorrência de ilícito indenizável e afastar a condenação por danos morais, demandaria necessário reexame fático, providência vedada pelo óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPRA E VENDA. IMÓVEL. CONTRATO. DESCUMPRIMENTO. DANOS MORAIS. INDENIZAÇÃO AFASTADA. AUTOR. SUCUMBÊNCIA MÍNIMA. ARTIGO 86 DO CPC. ENTREGA DO BEM. ATRASO INJUSTIFICADO. DANOS MORAIS. REEXAME. SÚMULAS NºS 5 E 7/STJ. COMISSÃO DE CORRETAGEM. RECURSO REPETITIVO. TEMA Nº 938. INFORMAÇÃO AO CONSUMIDOR. AUSÊNCIA. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça preleciona que o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é suficiente, por si só, para acarretar dano moral indenizável, sendo necessária a comprovação de circunstâncias excepcionais que possam configurar lesão extrapatrimonial.
+2. De acordo com o art. 86 do Código de Processo Civil, se um litigante sucumbir em parte mínima do pedido, o outro arcará integralmente com o ônus da sucumbência.
+3. Na hipótese, dos quatro pedidos formulados pelo autor em sua petição inicial, apenas um não foi atendido - indenização por danos morais -, tendo, por isso, sucumbido em parte mínima na ação.
+4. No caso em apreço, rever os fundamentos do acórdão estadual para afastar a ocorrência dos danos morais a partir da tese de que teria havido mero inadimplemento contratual exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+5. O acórdão recorrido não destoou do entendimento firmado por esta Corte Superior no sentido de que a validade da cláusula contratual que transfere ao promitente comprador a obrigação de pagar a taxa de corretagem exige a ciência inequívoca do consumidor quanto ao valor da comissão, o que não ocorreu no caso concreto. Precedente.
+6. Na hipótese, rever a conclusão do tribunal local demandaria a análise do contrato e o reexame de matéria fático-probatória, procedimentos inadmissíveis em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ.
+7. Agravo interno não provido. (AgInt nos EDcl no REsp n. 1.949.627/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/10/2023, DJe de 27/10/2023, destaquei.)
+Portanto, inviável a pretensão.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
