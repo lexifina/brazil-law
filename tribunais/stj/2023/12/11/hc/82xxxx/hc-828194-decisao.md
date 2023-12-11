@@ -1,0 +1,17 @@
+DECISÃO
+PAULO FERNANDO DE LIMA JUNIOR, acusado de femicídio, alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal a quo, que denegou o pedido de relaxamento de sua prisão cautelar, ante o excesso de prazo para a formação da culpa, objetivo que reitera a esta Corte.
+A Defensoria Pública explica que o réu está preso provisoriamente desde 16/6/2019, sem que tenha sido encerrada a primeira fase do Júri, excedido em muito o prazo razoável de qualquer cautelar.
+Requer a expedição de alvará de soltura.
+Indeferida a liminar, os autos foram encaminhados ao Ministério Público Federal, que opinou pela denegação da ordem.
+Decido.
+O paciente foi denunciado por suposta incursão no art. 121, § 2º, I, III e VI, do CP,. Ao que se tem, e será apurado mediante o devido processo legal, aos 29/8/2018, o réu teria asfixiado a vítima, sua namorada, por motivo de ciúme, por acreditar que "a mesma nutrisse um relacionamento amoroso com o ex-companheiro dela" (fl. 14).
+O habeas corpus comporta avanço para pronta solução. Segundo a jurisprudência desta Corte, os prazos previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Identifica-se o constrangimento ilegal se houver prova de "(i) evidente desídia do órgão judicial; (ii) exclusiva atuação da parte acusadora; ou (iii) outra situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal" (STF, HC n. 216752 AgR, Rel. Ministro Ricardo Lewandowski, 2ª T., DJe 8/9/2022).
+No caso, em 28/09/2018, o Juiz proferiu decisão recebendo a denúncia e decretou a prisão preventiva do réu. O mandado foi cumprido apenas em 16/6/2019, pois ele estava foragido.
+Desde a segregação do denunciado, houve citação, resposta à acusação, designação de audiências de instrução, aditamento à denúncia e nova abertura das fases seguintes. O Juiz não se encontra inerte. Trata-se de processo complexo, em que foi necessária a oitiva de diversas testemunhas, algumas mediante expedição de carta precatória, com notícia de audiência mais recente designada para 15/5/2023, com a participação do acusado por videoconferência. Entre 2020 e 2021, dois atos não foram realizados em razão da ausência das testemunhas. Ainda, deve-se levar em consideração que o ano de 2020 foi atípico em razão da pandemia do coronavírus,
+De todo modo, o Juiz informou a esta Corte que a instrução já foi encerrada, com envio do processo à Defensoria Pública para oferecimento de alegações finais.
+O prazo da prisão preventiva impressiona, mas o réu é acusado de crime extremamente grave, apenado com reclusão, de 12 a 30 anos. Assim, por agora, fica afastada a alegação de excesso de prazo, principalmente porque a delonga do processo foi justificada por sua complexidade. Além disso, os recentes andamentos processuais demonstram o encerramento da instrução, a atrair a incidência da Súmula n. 52 do STJ.
+O término da primeira fase do Júri está próximo, sendo recomendável, num primeiro momento, que esta Corte recomende a celeridade do feito, a fim de que o Juiz imprima maior rapidez ao procedimento escalonado do Tribunal do Júri.
+À vista do exposto, denego o habeas corpus, recomendando ao Juízo de primeiro grau a máxima celeridade no processamento e conclusão da ação penal.
+Publique-se e intimem-se.
+EMENTA
