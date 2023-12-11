@@ -1,0 +1,23 @@
+LEI Nº 4.287 DE 6 DE DEZEMBRO DE 2023.
+Publicado no Diário Oficial nº 6.467 de 11/12/2023.
+Autoriza transferências de recursos públicos a título de
+subvenções sociais, auxílios ou contribuições correntes e de
+capital, por meio de emendas parlamentares, ao Instituto de
+Gestão e Apoio a Saúde dos Municípios Tocantinenses -
+IGAS.
+O VICE- GOVERNADOR DO ESTADO DO TOCANTINS, no exercício do cargo de
+GOVERNADOR DO ESTADO
+Faço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTINS
+decreta e eu sanciono a seguinte Lei:
+Art. 1º Ficam autorizadas as transferências de recursos públicos a título de subvenções
+sociais, auxílios ou contribuições correntes e de capital, por meio de emendas individuais
+parlamentares, ao Instituto de Gestão e Apoio a Saúde dos Municípios Tocantinenses - IGAS,
+situado em Palmas - TO, sem fins lucrativos, condicionada ao compromisso da entidade de
+cumprir os requisitos vigentes dispostos na Lei de Diretrizes Orçamentárias e demais atos
+normativos atinentes à perfeita realização das transferências de recursos públicos e aplicação
+em suas finalidades essenciais.
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Palácio Araguaia Governador José Wilson Siqueira Campos, em Palmas, aos 6 dias do
+mês de dezembro de 2023, 202º da Independência, 135º da República e 35º do Estado.
+LAUREZ DA ROCHA MOREIRA
+Governador do Estado, em exercício
