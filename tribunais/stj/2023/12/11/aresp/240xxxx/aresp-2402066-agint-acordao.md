@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DESRESPEITO À COISA JULGADA. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ. 1. O Tribunal de origem concluiu: "Enfim, o acórdão que julgou procedente o mandado de segurança coletivo não mais existe, substituído que foi por nova manifestação desta Egrégia Câmara, oportunidade em que o órgão colegiado julgou improcedente a pretensão da Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo (AORRPM), razão pela qual, inexistente o direito que servira de fundamento à cobrança, ilegítima se mostra a pretensão. Não por outro motivo, operando-se fato extintivo, segue-se também a extinção do cumprimento do julgado, cabendo dizer que nulla executio sine titulo. (..) E nem venham os autores, ora apelantes, argumentar com passagem, que se encontra no acórdão que julgou a apelação interposta na ação de cobrança, pois o fato de inexistir a tríplice identidade, pressuposto da coisa julgada, não implica dizer, que alterado o desfecho do mandado de segurança coletivo, isto não venha a repercutir na coisa julgada que se formou na ação de cobrança, valendo aqui invocar, a contrário senso, o fragmento que se segue à parte destacada pelos recorrentes com negrito, sublinhado e cor amarela. Dito de outra forma, cuida-se de reconhecer que, como a pretensão de cobrança tinha como pressuposto a ordem mandamental objeto da ação coletiva, desconstituída aquela ordem, desaparece o direito às parcelas imprescritas porque arrimado no noticiado reconhecimento, cabendo invocar, neste passo, a regra dos artigos 493, 771 e parágrafo único, ambos do Código de Processo Civil" (fls. 219-221, e-STJ).
+2. A pretensão recursal de rever premissa fática assentada pela Corte a quo, no que diz respeito à presença ou ausência de identidade dos elementos da ação (partes, causa de pedir e pedido), para efeito de análise de ofensa à coisa julgada, esbarra na inviabilidade de se reexaminar aspectos concretos da causa na via especial, conforme dispõe a Súmula 7 do STJ. A apreciação do conteúdo das causas relacionadas, a fim de aferir a identidade dos pedidos, da causa de pedir ou das partes, é verificada por juízo de matéria de fato, atribuído soberanamente às instâncias ordinárias, conforme reiteradamente tem decidido esta Corte.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto da decisão de fls. 440-444, e-STJ, proferida pela Presidência do Superior Tribunal de Justiça, que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante sustenta, em suma (fl. 460, e-STJ):
+Vejam as razões do v. acórdão recorrido em cotejo com os argumentos apresentados no recurso especial, e se perceberá que toda controvérsia foi tratada a partir dos elementos de fato reconhecidos no r. decisum, porque bastaria trabalhar a partir do cenário processual que a própria origem estabeleceu, sobretudo a respeito da formação da coisa julgada nestes autos de ação de cobrança e o reconhecimento da ausência de tríplice identidade entre esta demanda individual e o mandado de segurança coletivo, para permitir a conclusão absolutamente lícita da peça recursal no sentido de que os desdobramentos que atingiram uma das demandas (Rcl n.º 14.786/SP) não poderia se estender de forma automática para prejudicar a coisa julgada (art. 502, CPC) formada na outra.
+Postula a reconsideração da decisão agravada ou provimento, pelo Colegiado, do Agravo Interno.
+Sem impugnação.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.402.066 - SP (2023/0218419-4)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+ANTONIA ABIGAIL DOS SANTOS
+AGRAVANTE
+:
+ANTONIO JOAO MOREIRA
+AGRAVANTE
+:
+BRASILINA VIEIRA RAMOS
+AGRAVANTE
+:
+ERNESTO DA SILVA
+AGRAVANTE
+:
+JAIRO ARAUJO DE SIQUEIRA
+AGRAVANTE
+:
+JOSE SANCHEZ QUIRANTE
+AGRAVANTE
+:
+LUIZ SPOSITO
+AGRAVANTE
+:
+MAURO DE ANDRADE
+AGRAVANTE
+:
+NEWTON ANTONIO GALINDO
+AGRAVANTE
+:
+NIVALDO ARAUJO DE SIQUEIRA
+ADVOGADOS
+:
+WELLINGTON DE LIMA ISHIBASHI - SP229720
+WELLINGTON NEGRI DA SILVA - SP237006
+AGRAVADO
+:
+SAO PAULO PREVIDENCIA - SPPREV
+AGRAVADO
+:
+FAZENDA DO ESTADO DE SÃO PAULO
+ADVOGADO
+:
+CÉSAR CARVALHO DE PAULA CÔRTES - SP430340
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DESRESPEITO À COISA JULGADA. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ. 1. O Tribunal de origem concluiu: "Enfim, o acórdão que julgou procedente o mandado de segurança coletivo não mais existe, substituído que foi por nova manifestação desta Egrégia Câmara, oportunidade em que o órgão colegiado julgou improcedente a pretensão da Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo (AORRPM), razão pela qual, inexistente o direito que servira de fundamento à cobrança, ilegítima se mostra a pretensão. Não por outro motivo, operando-se fato extintivo, segue-se também a extinção do cumprimento do julgado, cabendo dizer que nulla executio sine titulo. (..) E nem venham os autores, ora apelantes, argumentar com passagem, que se encontra no acórdão que julgou a apelação interposta na ação de cobrança, pois o fato de inexistir a tríplice identidade, pressuposto da coisa julgada, não implica dizer, que alterado o desfecho do mandado de segurança coletivo, isto não venha a repercutir na coisa julgada que se formou na ação de cobrança, valendo aqui invocar, a contrário senso, o fragmento que se segue à parte destacada pelos recorrentes com negrito, sublinhado e cor amarela. Dito de outra forma, cuida-se de reconhecer que, como a pretensão de cobrança tinha como pressuposto a ordem mandamental objeto da ação coletiva, desconstituída aquela ordem, desaparece o direito às parcelas imprescritas porque arrimado no noticiado reconhecimento, cabendo invocar, neste passo, a regra dos artigos 493, 771 e parágrafo único, ambos do Código de Processo Civil" (fls. 219-221, e-STJ).
+2. A pretensão recursal de rever premissa fática assentada pela Corte a quo, no que diz respeito à presença ou ausência de identidade dos elementos da ação (partes, causa de pedir e pedido), para efeito de análise de ofensa à coisa julgada, esbarra na inviabilidade de se reexaminar aspectos concretos da causa na via especial, conforme dispõe a Súmula 7 do STJ. A apreciação do conteúdo das causas relacionadas, a fim de aferir a identidade dos pedidos, da causa de pedir ou das partes, é verificada por juízo de matéria de fato, atribuído soberanamente às instâncias ordinárias, conforme reiteradamente tem decidido esta Corte.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.11.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme ficou consignado no decisum agravado, ao dirimir a controvérsia, a Corte local consignou (fls. 219-221, e-STJ):
+Enfim, o acórdão que julgou procedente o mandado de segurança coletivo não mais existe, substituído que foi por nova manifestação desta Egrégia Câmara, oportunidade em que o órgão colegiado julgou improcedente a pretensão da Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo (AORRPM), razão pela qual, inexistente o direito que servira de fundamento à cobrança, ilegítima se mostra a pretensão. Não por outro motivo, operando-se fato extintivo, segue-se também a extinção do cumprimento do julgado, cabendo dizer que nulla executio sine titulo.
+(..)
+E nem venham os autores, ora apelantes, argumentar com passagem, que se encontra no acórdão que julgou a apelação interposta na ação de cobrança, pois o fato de inexistir a tríplice identidade, pressuposto da coisa julgada, não implica dizer, que alterado o desfecho do mandado de segurança coletivo, isto não venha a repercutir na coisa julgada que se formou na ação de cobrança, valendo aqui invocar, a contrário senso, o fragmento que se segue à parte destacada pelos recorrentes com negrito, sublinhado e cor amarela.
+Dito de outra forma, cuida-se de reconhecer que, como a pretensão de cobrança tinha como pressuposto a ordem mandamental objeto da ação coletiva, desconstituída aquela ordem, desaparece o direito às parcelas imprescritas porque arrimado no noticiado reconhecimento, cabendo invocar, neste passo, a regra dos artigos 493, 771 e parágrafo único, ambos do Código de Processo Civil.
+Nessa toada, impertinente, com a devida vênia, a alegação de que nada impede a propositura de ação de cobrança na hipótese de anterior impetração de mandado de segurança coletivo, pois, desta afirmação não resulta que, havendo mandado de segurança em que se reconheça o direito que é pressuposto da ação de cobrança, e uma vez desconstituído o título em que esta se funda, possa subsistir a exigibilidade das parcelas, precisamente porque estão umbilicalmente ligadas à solução do mandamus.
+A pretensão recursal de rever premissa fática assentada pelo Tribunal estadual, no que diz respeito à presença ou ausência de identidade dos elementos da ação (partes, causa de pedir e pedido), para efeito de análise de ofensa à coisa julgada, esbarra na inviabilidade de se reexaminar aspectos concretos da causa na via especial, conforme dispõe a Súmula 7 do STJ. A apreciação do conteúdo das causas relacionadas, a fim de aferir a identidade dos pedidos, da causa de pedir ou das partes, é verificada por juízo de matéria de fato, atribuído soberanamente às instâncias ordinárias, conforme reiteradamente tem decidido esta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) TRIBUNAL QUE AFIRMA A IMPOSSIBILIDADE DE REVISÃO DOS CRITÉRIOS DE INCIDÊNCIA DOS JUROS REMUNERATÓRIOS, EM SEDE DE CUMPRIMENTO DE SENTENÇA, SOB PENA DE OFENSA À COISA JULGADA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. (..)
+1. Tendo sido discutida na fase de conhecimento a forma de devolução do empréstimo compulsório de energia elétrica, incluindo-se a correção monetária, os juros remuneratórios e os juros moratórios, descabe reabrir tal discussão em sede de execução ou cumprimento de sentença, sob pena de ofensa à coisa julgada. Precedentes: AgRg no AREsp 788.065/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 8/3/2016, DJe 17/3/2016; AgRg no AREsp 806.860/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/2/2016, DJe 26/2/2016; AgInt nos EDcl no AgInt no AREsp 917.812/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 16/5/2017, DJe 23/5/2017.
+2. Esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ. Precedentes: AgRg no AREsp 791.248/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 18/2/2016, Dje 24/2/2016; AgRg no AgRg no Ag 1.354.963/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/4/2016, DJe 12/4/2016; AgRg no REsp 1.314.842/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2012, DJe 27/8/2012.
+(..)
+4. Agravo interno não provido. (AgInt no AREsp 770.444/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019.)
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. COISA JULGADA. NÃO OCORRÊNCIA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. (..) AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das premissas fáticas adotadas pelo TJPB, no tocante a coisa julgada demandaria, necessariamente, o reexame de matéria fático-probatória dos autos, providência vedada no recurso especial pela Súmula n.º 7 do STJ
+(..) (AgInt no REsp 1.979.608/PB, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 24/5/2023.)
+Os fatos são aqui recebidos como estabelecidos pelo Tribunal a quo, senhor da análise probatória. E, se o exame da violação do dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
