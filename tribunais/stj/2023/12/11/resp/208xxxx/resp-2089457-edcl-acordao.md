@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CALIXTO - ASSESSORIA E CONSULTORIA S/S. LTDA. e ODUWALDO DE SOUZA CALIXTO ao acórdão assim ementado (e-STJ, fl. 933):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRETAÇÃO DE CONTAS. PRESCRIÇÃO. PRETENSÃO DE EXIGIR CONTAS. QUESTÃO DECIDIDA NA PRIMEIRA FASE. PRECLUSÃO CONSUMATIVA, A DESPEITO DE SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA. ART. 205 DO CÓDIGO CIVIL; ARTS. 173 E 174 DO CÓDIGO TRIBUTÁRIO NACIONAL; E AO ART. 25-A DA LEI N. 8.906/1994. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS 282 e 356/STF. VIOLAÇÃO AO ART. 1.026, § 2º, DO CPC/2015. MULTA. MATÉRIA NÃO PREQUESTIONADA NO ACÓRDÃO DO AGRAVO INTERNO. APLICAÇÃO DA SÚMULA 211/STJ. AGRAVO DESPROVIDO.1. Esta Corte Superior admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.2. Segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, mesmo as questões de ordem pública, como a prescrição, estão sujeitas ao cumprimento do requisito do prequestionamento.3. Agravo interno desprovido.
+Sustentam os embargantes a existência de obscuridade e contradição, pois "embora a ementa esclareça que a Corte Superior admite o prequestionamento implícito, desde que as teses debatidas sejam expressamente discutidas no Tribunal de origem, em sua fundamentação entendeu que não houve julgamento dos artigos na instância inferior, portanto, não configura prequestionamento" (e-STJ, fl. 946).
+Defendem que o "acórdão recorrido, diferente do entendimento esposado na decisão embargada, mesmo sem mencionar os dispositivos de lei tido por violado, enfrentou a tese jurídica do tema da prescrição quinquenal e decenal" (e-STJ, fl. 948).
+A impugnação foi apresentada (e-STJ, fls. 953-955), requerendo a multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, forem detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, o decisum prolatado.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. HOME CARE. NEGATIVA DE COBERTURA. ABUSIVIDADE. LIMITAÇÃO DE SESSÕES. IMPOSSIBILIDADE. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. A taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção ao examinar os EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, por não configurar procedimento, evento ou medicamento diverso daqueles já previstos pela agência.
+4.A jurisprudência desta Corte entende abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS (AgInt no AgInt no AREsp n. 1.696.364/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 31/8/2022)
+5. Ante a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula 283 do STF. 6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.021.667/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022 - sem destaque no original)
+Na hipótese dos autos, os embargantes alegam a existência de contradição no acórdão proferido por esta Terceira Turma, afirmando que a matéria foi devidamente prequestionada, ainda que de modo implícito.
+Todavia, examinando o acórdão recorrido, verifica-se não haver vício passível de ser sanado por meio do julgamento dos embargos de declaração em análise, visto que ficou devidamente fundamentada no decisum impugnado que o teor dos referidos dispositivos violados - art. 205 do Código Civil; arts. 173 e 174 do Código Tributário Nacional; e art. 25-A da Lei n. 8.906/1994 - não foi examinado no acórdão recorrido, que não conheceu do recurso em virtude da ausência de impugnação dos fundamentos da sentença, bem como reconheceu a inovação recursal das matérias.
+Dessa forma, estando ausente o prequestionamento, é inafastável o óbice das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Além disso, na hipótese, a questão relacionada à prescrição da pretensão de exigir contas foi examinada na primeira fase da presente prestação de contas, inclusive com a interposição de recurso especial e agravo em recurso especial, tendo sido a matéria, pois, previamente enfrentada no processo.
+Conforme jurisprudência pacificada no âmbito desta Corte "sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio" (REsp 1.745.408/DF, Relator Ministro Ricardo Villas Bôas Cueva, Relator p/ Acórdão Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 12/4/2019), como devidamente reconhecido pelo Tribunal de origem.
+Portanto, o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Desse modo, constata-se que a irresignação nada mais é do que mero inconformismo do recorrente com o deslinde da controvérsia, não servindo os embargos de declaração como instrumento de reforma do julgado combatido.
+Por fim, é descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, d o CPC/2015, na hipótese, porquanto inexistente, por ora, o caráter protelatório apontado.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
