@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO DO BRASIL SA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/08/2023.
+Concluso ao gabinete em: 27/11/2023.
+Ação: de cumprimento individual de sentença coletiva, ajuizada pela agravado, em face do agravante, na qual se insurge o agravante contra a decisão que indeferiu o pleito de sobrestamento do feito, bem como a impugnação ao benefício de assistência judiciária gratuita, e, ainda, afastou a tese de incompetência da Justiça Estadual e da inépcia da inicial.
+Decisão interlocutória: indeferiu o pleito de sobrestamento do feito, bem como a impugnação ao benefício de assistência judiciária gratuita, e, ainda, afastou as teses de incompetência da Justiça Estadual e da inépcia da inicial.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM FACE DO BANCO DO BRASIL. AÇÃO CIVIL PÚBLICA N. 94.0008514-1DA 3ª VARA FEDERAL DO DISTRITO FEDERAL. CÉDULA DECRÉDITO RURAL. I - EXIBIÇÃO DE DOCUMENTOS. APLICAÇÃO DO ART. 400 DO CPC. NÃO CONHECIMENTO. AUSÊNCIA DE INTERESSE RECURSAL. MATÉRIA NÃO ANALISADA NA DECISÃO ATACADA. II - INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. LITISCONSÓRCIO PASSIVO NECESSÁRIO. TEMAS ANALISADOS EM DECISÃO ANTERIOR. PRECLUSÃO. III - IMPUGNAÇÃO AO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA. AUSÊNCIA DE INDÍCIOS DA MODIFICAÇÃO DO ESTADO ECONÔMICO DO BENEFICIÁRIO. BENEFÍCIO MANTIDO. IV - INÉPCIA DA INICIAL. NÃO VERIFICADA. EXECUÇÃO DEVIDAMENTE INSTRUÍDA COM OS DOCUMENTOS NECESSÁRIOS. V - PLEITO DE AFASTAMENTO DA APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DA INVERSÃO DO ÔNUS DA PROVA. REQUISITOS PREENCHIDOS. HIPOSSUFICIÊNCIA TÉCNICA OU ECONÔMICA E VEROSSIMILHANÇA DAS ALEGAÇÕES FORMULADAS PELA PARTE AUTORA.
+I - Não comporta conhecimento o recurso que se insurge acerca de temas que não foram analisados na decisão atacada, configurando a sua falta de interesse recursal.
+II - A ausência de interposição de recurso cabível contra a decisão que declinou a competência da Justiça Federal, faz com que se opere a preclusão dos argumentos que a parte pretendia que fossem analisados.
+III - Não havendo sido trazidos elementos suficientes para infirmar a modificação do estado econômico do beneficiário da Assistência Judiciária gratuita pela parte contrária, a manutenção do benefício é medida que se impõe.
+IV - Tendo a parte exequente acostado ao feito o título executado, bem como do instrumento de contratação, não fica configurada a inépcia da inicial pela ausência de documentação.
+V - "Para que seja possível a inversão do ônus da prova, nos termos do artigo 6º, VIII, do Código de Defesa do Consumidor, é preciso que fique demonstrada a hipossuficiência do consumidor ou a sua vulnerabilidade perante o fornecedor, requisitos presentes na hipótese em tela" (TJPR - 15ª C. Cível - 0022914-42.2020.8.16.0000 - Ibiporã - Rel.: Desembargador Jucimar Novochadlo - J.20.07.2020).
+AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E,NESTA PARTE, NÃO PROVIDO. (e-STJ Fls. 71/72)
+Recurso especial: alega violação dos arts. 9º, 10, 130, 131 e 132 do CPC. Sustenta a competência da Justiça Federal para processar e julgar o presente processo em razão do litisconsórcio passivo necessário e do chamamento ao processo dos devedores solidários: UNIÃO e BACEN.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 9º e 10 do CPC, indicados como violados, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+Relativamente à alegação de chamamento ao processo dos demais devedores
+solidários, a conclusão do acórdão recorrido está em consonância com o entendimento desta Corte, no sentido de que o reconhecimento, na ação coletiva, de solidariedade entre o Banco do Brasil, a União e o Banco Central, não acarreta o deslocamento da competência para a Justiça Federal, pois inexiste litisconsórcio passivo necessário entre ambos, mas facultativo, já que todos respondem pela integralidade do débito.
+Outrossim, em se tratando de obrigação solidária, pode o credor requerer o cumprimento da prestação de todos ou apenas de um dos devedores, como ocorre na presente hipótese, em que o autor optou por instaurar a fase de cumprimento apenas contra o Banco do Brasil, inexistindo, assim, circunstância a ensejar o deslocamento da competência para a Justiça Federal, ou mesmo a autorizar o pretendido chamamento dos devedores solidários ao processo. Inexiste, portanto o alegado litisconsórcio passivo necessário.
+Nesse sentido, os seguintes precedentes desta Corte: REsp n. 1.753.295/RS, Terceira Turma, DJe de 27/10/2022; REsp n. 1.948.316/SP, Terceira Turma, julgado em 25/11/2021, DJe de 29/11/2021; AgInt no AREsp n. 1.878.338/RS, Quarta Turma, DJe de 22/9/2022; AgInt no AREsp n. 1.898.289/RS, Quarta Turma, DJe de 17/12/2021 e AgInt nos EDcl no AREsp n. 1.769.719/RS, Quarta Turma, DJe de 24/6/2021.
+Ademais, quanto ao tema, esta Corte firmou o entendimento, sob o rito dos recursos repetitivos (Tema 315), segundo o qual "a parte autora pode eleger apenas um dos devedores solidários para figurar no polo passivo da demanda. (. ..) A possibilidade de escolha de um dos devedores solidários afasta a figura do litisconsórcio compulsório ou necessário."
+Desse modo, o entendimento do Tribunal de regional, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 568 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. LITISCONSÓRCIO PASSIVO. CHAMAMENTO AO FEITO. DESNECESSIDADE. SÚMULA 568/STJ.
+1. Ação de cumprimento individual de sentença coletiva.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. O Tribunal de origem alinhou-se à jurisprudência desta Corte ao decidir que, em se tratando de obrigação solidária, pode o credor requerer o cumprimento da prestação de qualquer dos devedores, não havendo que se falar em litisconsórcio passivo necessário. Precedentes.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
