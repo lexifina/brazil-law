@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. VÍCIO DE INTEGRAÇÃO. INOCORRÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma cla ra e objetiva, os motivos da decisão ora agravada.
+3. Inexiste violação do art. 1.022 do CPC/2015 quando o Tribunal de origem externa fundamentação adequada e suficiente à correta e completa solução da lide.
+4. Agravo interno parcialmente conhecido e desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE VITÓRIA para desafiar decisão proferida às e-STJ fls. 251/257, em que conheci do agravo para conhecer parcialmente do recurso especial do ente político e, nessa extensão, negar-lhe provimento, em face da ausência de vício de integração e incidência das Súmulas 280 e 284 do STF, e dei provimento ao apelo nobre da ora agravada, determinando o retorno dos autos ao Tribunal de origem para a fixação de honorários advocatícios pelo parcial provimento da exceção de pré-executividade.
+Sustenta a parte agravante, inicialmente, que persiste o vício de integração, uma vez que não houve manifestação expressa sobre o art. 2º, §§ 1º e 2º, da Lei n. 6.830/1980, que possibilita a aplicação de multa moratória também aos créditos de natureza não tributária.
+Afirma que não se aplicam os referidos enunciados ao caso, uma vez que a pretensão do Município não está fundada em lei local, e a tese está devidamente fundamentada, no sentido de que é preciso indicar fundamento constitucional para se afastar a aplicação de Lei de Execuções Fiscais.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 282/289.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. VÍCIO DE INTEGRAÇÃO. INOCORRÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma cla ra e objetiva, os motivos da decisão ora agravada.
+3. Inexiste violação do art. 1.022 do CPC/2015 quando o Tribunal de origem externa fundamentação adequada e suficiente à correta e completa solução da lide.
+4. Agravo interno parcialmente conhecido e desprovido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1 .424.404/SP (Rel. Ministra Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/1 1/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido, em parte.
+No decisum ora recorrido, no que interessa, conheci do agravo para conhecer parcialmente do recurso especial do ente político e, nessa extensão, negar-lhe provimento, havendo os seguintes capítulos autônomos:
+a) ausência de vício de integração; e
+b) a questão referente á aplicação da multa moratória estabelecida em lei municipal à hipótese foi decidida com base na legislação local (Súmula 280 do STF) e o dispositivo apontado como contrariado, por si só, não possui comando normativo para sustentar a tese de que é necessária a indicação de fundamento constitucional no sentido de que a legislação municipal é incompatível com a nacional para afastar a sua incidência (Súmula 284 do STF).
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar efetivamente o fundamento da Súmula 284 do STF do segundo capítulo (insuficiência do comando normativo do dispositivo alegado como violado para sustentar a tese), limitando-se a repetir a tese e alegar que está devidamente fundamentada, conforme se observa no seguinte trecho (e-STJ fl. 276):
+Ocorre que, concessa maxima venia, ao contrário do entendimento consignado na v. decisão agravada, para afastar a aplicação da multa moratória aplicável aos créditos públicos inscritos em dívida ativa, tributários ou não, na forma prevista no art. 2.º, §§ 1.º e 2.º da Lei n.º 6.830/1980, é preciso indicar o fundamento constitucional que seria incompatível com a legislação municipal e nacional que disciplina a matéria e que autorizaria o afastamento de sua incidência, de modo que a referida tese está devidamente fundamentada, o que afasta a incidência, in casu, da Súmula de n.º 284 do E. STF.
+Desse modo, forçosa se apresenta, no ponto, a observância do contido no art. 1.021, §1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Relativamente à parte conhecida, melhor sorte não socorre a agravante.
+Segundo explicitado na decisão agravada, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No caso, o Tribunal de origem asseverou que, apesar de a sanção administrativa aplicada pelo Procon constituir dívida ativa de natureza não tributária, que observa o rito da execução fiscal, a multa moratória que se objetiva aplicar, prevista no Código Tributário Municipal da Vitória, incide apenas sobre crédito de natureza tributária, consoante a jurisprudência daquela Corte (e-STJ fls. 101/102).
+Ao julgar os aclaratórios, ressaltou que (e-STJ fls. 148/149):
+Em relação aos embargos declaratórios opostos pelo Município de Vitória anoto que o aresto embargado na verdade ultimou a interpretação da legislação municipal aplicável ao caso concluindo pela não incidência da multa de 30% (trinta por cento) prevista no §1º do 25 do Código Tributário Municipal de Vitória, conforme precedentes desse próprio sodalício (TJES, Classe: Agravo de Instrumento 5000119-76.2020.8.08.0000, Relatora: Desembargadora Janete Vargas Simões, Órgão Julgador: PRIMEIRA CÂMARA CÍVEL, Data de julgamento 06/10/2020).
+Assim, também de acordo com a orientação jurisprudencial proveniente da Corte Uniformizadora, " ..  não há violação do preceito constitucional previsto no art. 97 da CF, relativo à cláusula de reserva de plenário, tampouco da Súmula vinculante n. 10 do STF, quando a decisão agravada procedeu à mera interpretação sistemática do ordenamento pátrio, sem a declaração de inconstitucionalidade da norma questionada. .. " (AgInt no RMS 43.999/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/09/2019, DJe 25/09/2019)
+Com efeito, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente vício de integração, não se podendo confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+E como voto.
