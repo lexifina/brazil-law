@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de ação ordinária referente a multa administrativa aplicada pelo PROCON estadual. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 1.033.600,00 (Um milhão, trinta e três mil e seiscentos reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, contra acórdão com o seguinte resumo de ementa:
+RECURSO DE APELAÇÃO. AÇÃO ANULATÓRIA DE AUTOS DE INFRAÇÃO. BANCO BRADESCO. INFRAÇÕES POR DESCUMPRIMENTO DO TEMPO MÍNIMO PARA O ATENDIMENTO DE CLIENTES NAS AGÊNCIAS BANCÁRIAS. COMPETÊNCIA DOS MUNICÍPIOS PARA LEGISLAR SOBRE A MATÉRIA. TEMA 272 DE REPERCUSSÃO GERAL DO STF. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL QUE NÃO PROCEDE. CONTRADITÓRIO E AMPLA DEFESA REGULARMENTE ASSEGURADO. ALEGAÇÃO DE DESPROPORCIONALIDADE DAS MULTAS QUE NÃO MERECE GUARIDA. SANÇÕES DEVIDAMENTE FUNDAMENTADAS E EM CONSONÂNCIA COM OS PARÂMETROS LEGAIS. AUSÊNCIA DE ARGUMENTOS CONCRETOS APTOS A JUSTIFICAR A INTERVENÇÃO EXCEPCIONAL DO PODER JUDICIÁRIO NO PARTICULAR. PRECEDENTES DESTA EG. CORTE DE JUSTIÇA. SENTENÇA MANTIDA. HONORÁRIOS MAJORADOS. ART. 85, §11, DO CPC. RECURSO IMPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Da leitura dos processos administrativos colacionados aos autos, verifica-se que as penalidades ora impugnadas foram aplicadas com fulcro nos arts.1º e 2º da Lei Municipal n.5.978/01 de Salvador e 1º e 2º da Lei Municipal n.413/2013 de Dias D "ávila, bem assim com fundamento no art. 18, I, do Decreto2.181/97, com fundamento nos arts. 4º; e 6º, IV, do CDC.
+(..)
+No particular, anota-se que a competência dos Municípios para dispor sobre medidas que propiciem segurança, conforto e rapidez aos usuários de serviços bancários, tais como, o tempo de espera na fila dos bancos, é matéria há muito pacificada pela jurisprudência do Supremo Tribunal Federal, firmada, inclusive, sob a sistemática da repercussão geral, no julgamento do Re 610.221(Tema n. 272).
+(..)
+Corroborando se tratar de entendimento ainda hígido, confira-se:
+(..)
+(STF - AgR ARE: 932241 RJ - RIO DE JANEIRO 0005115-48.2006.8.19.0014, Relator: Min. EDSON FACHIN, Data de Julgamento: 26/05/2017, Segunda Turma, Data de Publicação:DJe-121 09-06-2017)
+Nesse panorama, entendo que o Apelante não trouxe à baila argumentos concretos aptos a justificar a excepcional possibilidade de o Poder Judiciário redefinir o valor de multas administrativas, tampouco a derruir a conclusão do magistrado singular no sentido de que "as multas aplicadas se mostraram razoáveis e proporcionais, levando-se em conta a condição do ofensor e o bem jurídico lesado, qual seja, o direito do consumidor".
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação do art. 2º da Lei n. 9.784/1999, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Por outro lado, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
