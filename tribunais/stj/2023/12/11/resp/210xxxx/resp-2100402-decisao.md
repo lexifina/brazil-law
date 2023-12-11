@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  RONALDO  JOSÉ  BERTACO  POLTRONIERI,  com  fundamento  no  artigo  105,  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado:
+
+"APELAÇÃO.  Ação  declaratória  de  inexistência  de  débito.  Responsabilidade  civil.  Prescrição  da  dívida.  Reconhecimento  da  impossibilidade  de  cobrança  judicial  e  extrajudicial  da  dívida.  Pedido  declaratório  de  inexigibilidade  de  débito  que  deve  ser  deferido.  Dano  moral,  no  entanto,  não  caracterizado.  Não  houve  o  envio  do  nome  da  parte  autora  ao  cadastro  de  inadimplentes,  pois  a  plataforma  "SERASA  LIMPA  NOME"  não  tem  esta  natureza.  Precedentes.  Não  há  prova,  por  outro  lado,  de  que  as  cobranças  da  dívida  se  deram  de  maneira  abusiva  ou  constrangedora.  Também  inexiste  prova  de  que  houve  diminuição  de  pontuação  de  score  da  autora  junto  à  SERASA,  hipótese  alheia  à  ré.  Sentença  mantida  para  declarar  inexigível  a  dívida  discutida  nos  autos.  Recursos  improvidos"  (fls.  362/363  e-STJ).
+Os  embargos  de  declaração  foram  rejeitados,  com  correção  de  erro  material  (fls.  457/462  e-STJ).
+No  recurso  especial,  o  recorrente  aponta,  além  de  divergência  jurisprudencial,  violação  do  artigo  1.022  do  Código  de  Processo  Civil,  pois  o  "acórdão  recorrido  foi  omisso  em  relação  ao  pedido  de  arbitramento  de  honorários  advocatícios  na  porcentagem  legal  e  sobre  o  valor  da  causa"  (fl.  382  e-STJ).
+Defende  a  existência  de  contradição,  visto  que  o  valor  da  causa  é  de  R$  28.190,21  (vinte  e  oito  mil  cento  e  noventa  reais  e  vinte  e  um  centavos)  e  o  montante  arbitrado  a  título  de  honorários  advocatícios  -  R$  1.000,00  (um  mil  reais)  -  é  inferior  ao  percentual  mínimo  estabelecido  em  lei.
+Sustenta,  ainda,  violação  dos  artigos  85,  §§  2º,  6º-A,  8º  e  14,  do  Código  de  Processo  Civil  -  porque  não  seria  o  caso  de  utilização  do  critério  de  equidade,  tendo  em  vista  que  o  valor  da  causa  não  é  baixo.
+Não  houve  contrarrazões  (fl.  477  e-STJ).
+É  o  relatório.
+DECIDO.
+A  insurgência  não merece  prosperar.
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Observa-se que a pretensão de revisão da base de cálculo da verba honorária foi afastada pelo Tribunal de origem sob os seguintes fundamentos:
+"Tendo em vista que houve sucumbência recíproca e com condenação em verba honorária advocatícia a favor dos patronos de ambas as partes e no mesmo valor, o pedido do embargante-pessoa física nestes aclaratórios pelo aumento desta verba representaria um aumento também da própria verba honorária em desfavor do embargante-pessoa física, sendo, mesmo, o objeto destes embargos declaratórios uma verdadeira reformatio in pejus quanto ao próprio embargante-pessoa física, matéria vedada ex vi legis" (fls. 459/460 e-STJ).
+Tais fundamentos, entretanto, não foram objeto de impugnação pela parte recorrente, atraindo a incidência, por analogia, da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confiram-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.157.654/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelo ora recorrente, devem ser majorados para R$ 2.000,00 (dois mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
