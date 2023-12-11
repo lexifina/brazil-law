@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAFAEL SCHULTZ RODRIGUES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal 5021874-66.2020.8.21.0010).
+O paciente foi condenado à pena de 3 anos de reclusão em regime aberto, além do pagamento de 15 dias-multa, substituída por duas restritivas de direitos, pela prática do crime previsto no art. 16, caput, da Lei 10.826/2003; e extinta a punibilidade em relação ao crime do art. 28, caput, da Lei 11.343/06, com base na prescrição em abstrato, nos termos do art. 107, IV, do CP.
+A apelação interposta pela defesa foi desprovida por unanimidade.
+A defesa alega possibilidade de incidência do princípio da insignificância, haja vista a quantidade inexpressiva de munições apreendidas desacompanhadas de arma de fogo (22 munições) na residência do paciente.
+Requer, liminar e definitivamente, deferimento da ordem para absolver o paciente.
+É o relatório.
+Decido.
+As alegações deduzidas no pedido de liminar se confundem-se com as da pretensão definitiva da impetração. Estando o processo instruído corretamente é possível passar ao exame mais aprofundado dos elementos constantes dos autos, seguindo, pois, ao julgamento final.
+Em que pese o fato de a posse de munição, mesmo desacompanhada de arma apta a deflagrá-la, continuar preenchendo a tipicidade penal, esta Corte, acompanhando entendimento do Supremo Tribunal, passou a admitir a incidência do princípio da insignificância quando se tratar de posse de pequena quantidade de munição, desacompanhada de armamento capaz de deflagrá-la, uma vez que ambas as circunstâncias conjugadas denotam a inexpressividade da lesão jurídica provocada.
+Portanto, assentada a possibilidade de incidência do princípio da insignificância, deve-se aferir se a situação concreta trazida nos autos autoriza sua incidência.
+Da leitura da denúncia, foi imputada ao paciente a seguinte conduta (e-STJ fl. 13-18):
+"1º FATO - POSSE DE DROGAS PARA USO PRÓPRIO
+No dia 13 de setembro de 2020, por volta das 16h30min, em frente a sua residência, situada na Rua Paralela José Perini, nº 88, Bairro Charqueadas, nesta cidade de Caxias do Sul/RS, o denunciado, RAFAEL SCHULTZ RODRIGUES, trazia consigo, para consumo pessoal, drogas, sem autorização e em desacordo com determinação legal ou regulamentar. "
+2º FATO - POSSEI LEGAL DE MUNIÇÕES DE USO PERMITIDO E RESTRITO
+Nas mesmas circunstâncias de tempo, no interior da residência situada na Rua Paralela José Perini, nº 88, Bairro Charqueadas, nesta cidade de Caxias do Sul/RS, o denunciado, RAFAEL SCHULTZ RODRIGUES, tinha em depósito, munições, de uso permitido e restrito, sem autorização e em desacordo com determinação legal ou regulamentar.
+(..)
+Em razão da apreensão da droga, os integrantes da Brigada Militar identificaram o denunciado, que estava parado em frente à garagem aberta de sua residência e realizaram buscas no interior do imóvel, onde foram encontradas 16 (dezesseis) munições de calibre .22, 05 (cinco) munições de calibre provável 7.62 ou 308 e 01 (uma) munição de calibre .36. Diante dos fatos, foi dada voz de prisão em flagrante ao acusado, e apreendidos os materiais encontrados."
+O que se verifica da denúncia é que foram encontrados com o paciente 22 munições, desacompanhadas de arma de fogo.
+Nesse sentido a jurisprudência:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POSSE DE MUNIÇÃO. 9 CALIBRES 38 DESACOMPANHADOS DE ARMA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. 1. Permanece hígida a jurisprudência do Superior Tribunal de Justiça, bem como do Supremo Tribunal Federal, no sentido de que a posse de munição, mesmo desacompanhada de arma apta a deflagrá-la, continua a preencher a tipicidade penal, não podendo ser considerada atípica a conduta. 2. Esta Corte, todavia, acompanhando entendimento do Supremo Tribunal Federal, passou a admitir a incidência do princípio da insignificância quando se tratar de posse de pequena quantidade de munição, desacompanhada de armamento capaz de deflagrá-la, uma vez que ambas as circunstâncias conjugadas denotam a inexpressividade da lesão jurídica provocada. 3. Assentada a possibilidade de incidência do princípio da insignificância, a situação concreta trazida nos autos autoriza sua incidência, pois o acusado possuía em sua residência, apenas, nove munições de uso permitido, calibre 38. 4. Agravo regimental a que se nega provimento. (STJ - AgRg no REsp: 1793475 SP 2019/0025527-2, Relator: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 07/05/2019, T5 - QUINTA TURMA, Data de Publicação: DJe 20/05/2019)"
+Ante o exposto, a situação apresentada autoriza a incidência do princípio da insignificância, concedo o habeas corpos, para absolver o paciente do delito capitulado no artigo 12 , da lei 10.826/03.
+Publique-se. Intimem-se.
+ EMENTA
