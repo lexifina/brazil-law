@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Kewin Vinicios Macedo de Oliveira contra o ato coator proferido pela Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos da Apelação criminal n. 1524846-36.2022.8.26.0228, negou provimento à insurgência defensiva, mantendo o paciente condenado à pena de 10 anos, 4 meses e 20 dias, no regime fechado, e 22 dias-multa, à razão mínima, pela prática de condutas descritas no art. 157, §§ 2º, II, e 2º-A, I, c/c o art. 70, ambos do Código Penal.
+A impetrante alega, em síntese, que a aplicação sucessiva de causas de aumento da pena, descritas nos § 2º, II, e § 2º-A do art. 157, viola o art. 68, todos do Código Penal.
+Pede a retificação da pena (fls. 3/13).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Juízo de primeiro grau fixou a pena aos seguintes termos (fls. 22/23):
+ ..  Por fim, em terceira fase, majoro as penas em 1/3, visto que atestado o concurso de agentes, chegando ao total de 5 anos e 4 meses de reclusão e pagamento de 13 dias-multa para os três réus. Não suficiente, diante do emprego de arma de fogo, majoro a pena na fração de 2/3, de modo que esta passa a perfazer 8 anos, 10 meses e 20 dias de reclusão, bem como pagamento de 22 dias-multa, para cada um dos réus.  ..
+O Tribunal local manteve as causas de aumento aos seguintes termos (fl. 37):
+i) no derradeiro degrau da apenação a nobre Juíza a quo elevou as reprimendas em 1/3 e em 2/3, sucessivamente, diante das majorantes relativas ao concurso de agentes e emprego de arma de fogo.
+Esta Relatoria já chegou a esposar o entendimento segundo o qual, a despeito de o delito patrimonial ter sido praticado em comparsaria e mediante emprego de artefato vulnerante já sob a égide da Lei n. 13.654/2018, dever-se-ia conservar apenas a majoração de 2/3 pela causa de aumento prevista no § 2º-A do inciso I do art. 157 do Código Penal, observando-se os termos do art. 68, parágrafo único, do estatuto repressivo, em respeito aos valores da adequação e proporcionalidade.
+Todavia, fundada reflexão nos leva a adotar tese que prestigia a individualização de pena tal como procedida em primeiro grau de jurisdição. É que nos parece ter sido essa a declarada e resoluta intenção do legislador ao modificar o tratamento retributivo para o roubo qualificado - tanto que, sob outro aspecto, a deliberação do Congresso Nacional acabou por arrefecer punição - referimo-nos ao roubo praticado com o emprego de arma branca.
+De pronto, é cediço que esta Corte Superior considera legítima a aplicação cumulada das majorantes relativas ao concurso de pessoas e ao emprego de arma de fogo, no crime de roubo, quando as circunstâncias do caso concreto demandarem uma sanção mais rigorosa, especialmente diante do modus operandi do delito (AgRg no HC n. 520.094/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/3/2020).
+No caso, não foi apresentada nenhuma motivação concreta para o acúmulo das causas de aumento, o que não encontra aporte na jurisprudência desta Corte Superior.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. JULGAMENTO MONOCRÁTICO DO WRIT. POSSIBILIDADE. CERCEAMENTO DE DEFESA. NÃO CARACTERIZAÇÃO. COMPENSAÇÃO PARCIAL DA DUPLA REINCIDÊNCIA COM A CONFISSÃO. POSSIBILIDADE. ELEVAÇÃO DA PENA PELA MAJORANTE DO CONCURSO DE AGENTES NO CRIME DE ROUBO EM PATAMAR INFERIOR AO DEFINIDO NO CÓDIGO PENAL - CP. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. AUMENTO CUMULATIVO NA TERCEIRA FASE DA DOSIMETRIA. DEVIDAMENTE FUNDAMENTADO. ELEVADO NÚMERO DE AGENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. ""A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019)" (AgRg no HC n. 796.496/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023).
+2. Em face da dupla reincidência do apenado , não há flagrante ilegalidade na compensação parcial com a atenuante da confissão, haja vista que a compensação integral afrontaria o princípio da individualização da pena. Precedentes.
+3. Resta configurada a impossibilidade jurídica do pedido da defesa referente à aplicação da fração de aumento de 1/6 para a majorante do concurso de agentes no crime de roubo, tendo em vista que o Código Penal prevê o patamar mínimo de 1/3 de elevação (157, § 2º, II).
+4. No tocante à regra inscrita no art. 68, parágrafo único, do Código Penal, esta Corte Superior possui entendimento no sentido de que a majoração decorrente das causas de aumento depende de fundamentação específica, com referência à gravidade concreta do crime. No caso, a majoração da pena em razão da utilização de arma de fogo (art. 157, § 2º-A, I, do CP) e do concurso de agentes (art. 157, §2º, inciso II, do CP) restou devidamente fundamentada, tendo em vista o número de agentes envolvidos (três) na empreitada criminosa e o emprego de revólver no delito. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 827.752/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 23/8/2023).
+Passo à dosimetria.
+Mantida a pena provisória em 4 anos e 10 dias-multa, diante da ausência de fundamento concreto, permanece apenas a causa de aumento que mais aumenta a pena, no caso 2/3 em razão do § 2º-A, I, do art. 157 do Código Penal, ficando a pena em 6 anos e 8 meses de reclusão, e 16 dias-multa. Incidindo, ainda, a fração de 1/6 pelo concurso formal, fica a pena definitiva em 7 anos, 9 meses e 10 dias de reclusão, em regime semiaberto, e 18 dias-multa.
+Verifico, ainda, que os corréus foram submetidos à mesma dosimetria, devendo alcançá-los essa retificação.
+Ante o exposto, concedo liminarmente a ordem para retificar a pena, fixando-a em 7 anos, 9 meses e 10 dias de reclusão, em regime semiaberto, e 18 dias-multa.
+Estendo os efeitos desta decisão aos corréus Cesar Henrique Oliveira Mariano e Daniel Guilhermino Pereira Costa, fixando-lhes a pena no mesmo patamar.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES. ART. 157, § 2º, II, E § 2º-A, I, DO CP. DOSIMETRIA. TERCEIRA FASE. PRESENÇA DE DUAS CAUSAS DE AUMENTO. POSSIBILIDADE. ART. 68, PARÁGRAFO ÚNICO, DO CP. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente, com extensão aos corréus Cesar Henrique Oliveira Mariano e Daniel Guilhermino Pereira Costa, nos termos do dispositivo.
