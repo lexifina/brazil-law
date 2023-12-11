@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de compensação por danos morais.
+2. O agravo interno que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido.
+3. Agravo interno não conhecido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por RENATA DAYANE LOPES MARTINS.
+Ação: compensação pelos danos morais, ajuizada por RENATA DAYANE LOPES MARTINS, em face de CONCREMAX CONCRETO ENG E SANEAMENTO LTDA.
+Sentença: julgou improcedente o pedido inicial e condenou RENATA DAYANE LOPES MARTINS ao pagamento das custas e dos honorários, estes arbitrados em 10% sobre o valor da causa, suspendendo-se a exigibilidade por ser a agravada beneficiária da justiça gratuita.
+Acórdão: deu parcial provimento à Apelação interposta por RENATA DAYANE LOPES MARTINS, nos termos da seguinte ementa:
+"Apelação Cível - Ação de indenização por danos materiais e morais - Atraso na entrega do imóvel - Responsabilidade objetiva da construtora - Inocorrência de caso fortuito ou força maior - Obras de saneamento básico que se inserem nos riscos do empreendimento - Circunstâncias do caso que ultrapassam o mero aborrecimento por descumprimento contratual - Dano material não comprovado - Dano moral caracterizado - Juros de mora a partir da citação (Sum. 362 do STJ) - Correção monetária - Desde o arbitramento (artigo 405 do CCB) - Sentença reformada - Recurso parcialmente provido.
+1. Os fatores alegados pela Construtora/ré como motivo de atraso na entrega da obra relacionam-se com o risco do empreendimento, sendo defeso dividi-lo com o consumidor/autor ou, então, eximir-se de responsabilidade ao atribuí-los a terceiros, afinal, inerentes ao ramo da atividade profissional exercida pela fornecedora de serviço, de modo que, ao estipular os termos do contrato, já deveria ter levado em conta a possibilidade de ocorrência de contratempos.
+2. A situação enfrentada pelos autores não ficou no plano do mero aborrecimento em decorrência de simples inadimplemento contratual, já que o atraso injustificado na entrega do imóvel por quase dois anos invariavelmente gerou ansiedade, sentimento de ludibrio e frustração, especialmente por ver atingindo o sonho da aquisição da casa própria, aspectos que, por si só, bastam à caracterização do dano extrapatrimonial.
+3. Havendo a condenação ao pagamento de indenização pelos danos morais decorrente de responsabilidade contratual, a atualização só é contabilizada a partir do arbitramento (Súmula nº. 362 do STJ), e os juros de mora incidem a partir da citação, por força do art. 405 do Código Civil." (e-STJ fl. 375/376)
+Embargos de Declaração: opostos, por RENATA DAYANE LOPES MARTINS, foram rejeitados. (e-STJ fl. 410/418)
+Recurso especial: alega violação dos arts. 186, 927, 944, CC/02, 373, I, 1.022, CPC/15. Além de negativa de prestação jurisdicional, sustenta que: i) ao contrário do entendimento exarado pela Corte local, não se trata de dano in re ipsa, e se não restaram caracterizados os requisitos da responsabilidade civil a embasar o dano moral, via de consequência, também não há que se falar em danos materiais, eis que os casos fortuitos e de força maior que culminaram na prorrogação contratual são os mesmos, qual seja o descumprimento por parte da CAB Cuiabá em cumprir a obrigação assumida perante a Prefeitura de Cuiabá; e, ii) o motivo do caso fortuito/força maior somente foi solucionado, após a intervenção, pedido de providências e cobrança de várias Construtoras que possuíam empreendimentos na Região do Tijucal/Pedra 90 junto à diretoria da CAB/Águas CUIABÁ, que culminou com a assinatura de Contrato de Construção por Administração, onde essas Construtoras se comprometeram a arcar com os custos da ampliação da ETE Tijucal e implantação do sistema de abastecimento de água e esgoto nessa região; e, iii) ante a inércia do poder público em realizar a sua obrigação, evidente se mostra a ocorrência de caso fortuito/força maior, o que caracteriza o justo motivo da prorrogação do prazo da obra; e, iv) não há que se falar em compensação pelos danos morais sofridos por RENATA DAYANE LOPES MARTINS.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe provimento, para afastar a compensação pelos danos morais.
+Razões do agravo interno: sustenta a aplicabilidade do óbice sumular 7 desta Corte ao caso, uma vez que a fundamentação narrada no v. acórdão, que embasou a condenação quanto aos danos morais, está correlacionada à análise subjetiva das provas dos autos dos eventos aptos a ensejar a lesão extrapatrimonial, que foram submetidas à jurisdição e sob as quais se entendeu que a dignidade da parte agravante foi ferida de forma a justificar a devida reparação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de compensação por danos morais.
+2. O agravo interno que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por RENATA DAYANE LOPES MARTINS, contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe provimento, para afastar a compensação pelos danos morais.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Cabe observar que a decisão agravada se pautou nos seguintes argumentos: i) ausência de negativa de prestação jurisdicional; e, ii) ausência de dano moral compensável (Súmula 568/STJ).
+Observa-se, pelas razões expostas no agravo interno, que a parte agravante deixou de impugnar especificamente a ausência de dano moral compensável, incidência da Súmula 568/STJ.
+Assim, como esse ponto não foi objeto de insurgência da parte agravante e o entendimento pacífico desta Corte é o de que não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182/STJ, a qual se subsome perfeitamente ao presente recurso, é o caso de não se conhecer do agravo interno.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
