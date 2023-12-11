@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ATALIBA MUSTAFA e TOPOGRAF A GRIMENSURA LTDA contra decisão da lavra deste signatário que conheceu do agravo para negar provimento ao agravo em recurso especial (e-STJ, fls. 1760-1767).
+Nas razões do presente recurso (e-STJ, fls. 1770-1793), a parte embargante aponta omissão no julgado, em especial quanto (i) à ausência de manifestação judicial no tocante às teses/pedidos das embargantes, sendo certo que a as matérias não analisadas são plenamente capazes de alterar o desfecho da causa, redundando em nulidade do julgado por afronta aos artigos 11, 489, 1.022, do NCPC e artigo 93, inciso IX, da Carta Magna; (ii) a extemporaneidade dos documentos apresentados pela embargada; (iii) o não cumprimento de obrigação de fazer vencida primeiramente; o o dever embargada de entregar o imóvel livre e desembaraçado de todo e qualquer ônus e responsabilidades; dever de pagamento dos tributos, taxas e demais encargos sobre a gleba; impossibilidade da exigência de obrigação posterior dos empreendedores. Aduz, ao final, a improcedência da rescisão contratual.
+Impugnação às fls. 1.796-1.800 e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Sabe-se que os embargos de declaração têm a finalidade de completar, aclarar, esclarecer ou corrigir uma decisão omissa, obscura, contraditória ou que contenha erro material, afirmação que se depreende dos incisos do próprio artigo 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973).
+Não se prestam os embargos de declaração para adequar a decisão ao entendimento do embargante, nem para o acolhimento de pretensões que refletem mero inconformismo.
+Dessa forma, verifica-se que não há como serem acolhidos os presentes embargos de declaração porque o agravo foi decidido e suficientemente analisado à luz da jurisprudência deste Superior Tribunal Justiça, não estando presentes os vícios elencados no art. 1022 do Código de Processo Civil de 2015.
+Com efeito, a decisão embargada afastou a existência de omissão e/ou falta de fundamentação no acórdão recorrido, conforme se vê a seguir:
+1. De início, em relação à violação aos artigos 489 e 1.022 do CPC/15, ante a negativa de prestação jurisdicional, não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. Leia-se, a propósito, o seguinte trecho do acórdão proferido em apelação (fls. 1356-1367 e-STJ):
+De acordo com o parágrafo quarto, caberia às Apelantes, em suma, a realização dos estudos, elaboração dos projetos e aprovação perante o órgão público, com o registro do loteamento no Cartório de Registro de Imóveis de Votorantim, além da execução dos serviços e obras necessárias à concretização do loteamento.
+Percebe-se, assim, que no contrato de parceria, ficava a Apelada basicamente responsável pela entrega do terreno, sendo que todo o procedimento necessário para a implantação do loteamento ficaria a cargo dos Apelantes.
+Segundo revela o contrato a parceria seria desenvolvida em três fases. Na primeira, seria realizado estudo preliminar do traçado geométrico com a elaboração e aprovação dos projetos e sua legalização perante o poder público municipal. Na segunda etapa, seriam realizadas as obras de infraestrutura.
+Já na fase final, os lotes seriam comercializados. Ainda, de acordo com o contrato, a primeira fase teria início coma assinatura do contrato e terminaria no prazo de 2 anos após a assinatura.
+A segunda fase iniciaria com a certidão de registro do loteamento.
+E a última fase começaria com a assinatura do contrato até o recebimento da última parcela do preço de venda dos lotes comercializados.
+ ..
+O contrato foi assinado em 11 de janeiro de 2013, sendo que até 11 de janeiro de 2016 o empreendimento tinha que mostrar viabilidade sob pena de resolução do contrato, sem qualquer pagamento de multa ou indenização por parte da Apelada.
+Do documento acostado às fls 77/78, porém, mostra-se que em 2017, ou seja, após o prazo de viabilidade (11/01/2016) o empreendimento não havia instalado rede de água e esgoto. É óbvio que a viabilidade do empreendimento necessita de rede de esgotamento e água, eis que são obras de infraestrutura básica do parcelamento, nos termos do § 5º do art.2º da Lei 6.766/79:
+"§ 5º A infraestrutura básica dos parcelamentos é constituída pelos equipamentos urbanos de escoamento das águas pluviais, iluminação pública, esgotamento sanitário, abastecimento de água potável, energia elétrica pública e domiciliar e vias de circulação".
+Nota-se, também, que o empreendimento não teve seu projeto aprovado, tampouco registrado nos órgãos públicos competentes, o que evidencia a não implantação integral do loteamento, em conformidade com a lei de regência (Lei nº 6.766/79).
+E conforme bem observou a sentença, ficou demonstrado a ausência de loteamento em toda área, com o desmembramento de 10 lotes, sendo que o restante da área ficou sem lotes desmembrados ou loteados. De outra sorte, os Apelantes não conseguiram refutar os argumentos lançados na exordial.
+Não demonstraram que conseguiram realizar os projetos, obras e registros dentro dos prazos estabelecidos em contrato, nem opuseram justificativas legítimas ao atraso verificado.
+A alegação de contrato não cumprido não deve ser levada a efeito, uma vez que não se pode considerar a Apelada inadimplente em razão de parcela ínfima de IPTU em aberto. Tal mora não impediu a realização das obrigações contratuais dos Apelantes. Ademais, a ausência de pagamento de parcela de IPTU era de fácil regularização.
+Assim, em razão dos princípios que informam a relação contratual, notadamente os princípios da preservação do contrato e da boa-fé objetiva, entendo que a ausência de pagamento de parcela de tributo não é óbice para o inadimplemento substancial praticado pelos Apelantes.
+Assim, ainda que os Apelantes aleguem a injustiça na resolução do contrato, sem imposição de indenização pela Apelada, é de rigor esclarecer que tal condição ficou expressamente prevista no contrato, não havendo que se falar em abusividade, eis que se trata de relação paritária, sem qualquer vulnerabilidade entre os componentes da relação de direito material.
+Os Apelantes expressamente anuíram com o risco da resolução do contrato em virtude da inadimplência, não havendo que se falar na justiça do provimento judicial, que apenas aplicou o que o contrato disciplinava. (fls. 1357-1351, e-STJ).
+Diante da nova insurgência do ora embargante, a Corte estadual rejeitou, naquela oportunidade, os segundos embargos apresentados, tendo destacado o seguinte (fls. 1516-1517):
+Há inconformismo quanto ao resultado do julgamento, pretendendo a parte recorrente o reexame da matéria, o que não se apresenta pela via dos declaratórios que visam, apenas, corrigir vícios de omissão, contradição ou obscuridade.
+A insurgência em relação ao resultado do julgamento há de ser exercida pela via recursal adequada, anotando-se que tem sido comum a interposição de declaratórios pugnando-se pela expressa manifestação da Turma Julgadora sobre determinados temas ou sobre dispositivos legais.
+No caso dos autos, toda a matéria necessária e pertinente foi analisada e decidida, não se revelando qualquer vício de omissão, contradição ou obscuridade.
+Ausente, portanto, as apontadas omissões, não se revelam os embargos de declaração como a via adequada à revisão do julgado, em manifesta pretensão infringente.
+Com efeito, a jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/15.
+Nesse sentido, colhe-se o precedente:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil de 1973, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp n. 993.078/SP, Relator o Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)  grifou-se .
+Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou de caráter protelatório poderá ensejar, conforme o caso, a aplicação de multa (arts. 1.021, § 4º e/ou 1.026, § 2º, CPC/15).
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
