@@ -1,0 +1,42 @@
+DECISÃO
+ Trata-se  de  habeas  corpus , com pedido liminar, impetrado em favor de  JEAN KLEBER NOGUEIRA DE FREITAS  contra  decisão  proferida  pelo  Desembargador  Relator  do  HC  n.  0800453-26.2023.8.20.5400,  que  tramitou  no  Tribunal  de  Justiça  do  Estado  do Rio Grande do Norte.
+Consta dos autos que o  Apenado encontra-se em cumprimento de pena de  10 (dez) anos de reclusão, pelo cometimento do crime de homicídio qualificado, atualmente no regime aberto. Relata a Defesa que, em 26/07/2023, formulou pedido de livramento condicional, que ainda se encontra pendente de análise pelo Juízo da Vara da 2.ª Vara Regional de Execução Penal do Rio Grande do Norte (fls. 3-8).
+Inconformada com a demora na apreciação do pleito defensivo,  impetrou-se  habeas  corpus  na  Corte  local,  tendo o Desembargador relator,  em  decisão  monocrática,  não conhecido do pedido, julgando  extinto o feito  (fls.  14-17).
+Nas  razões  do  presente  writ,  insiste-se  na  ocorrência de constrangimento ilegal consistente no excesso de prazo para a apreciação do benefício executório, pois transcorridos mais de 3 (três) meses do pedido.
+Requer, em liminar, seja determinado "prazo de 48 horas para o juízo da 2ª Vara Regional de Execução Penal implementar o benefício do livramento condicional ao réu".
+No mérito, pleiteia a concessão da ordem para "aplicar definitivamente o benefício do livramento condicional ao paciente" (fls. 7-8).
+É  o  relatório.  Decido.
+Observo  que  a  presente  impetração  foi  manejada  contra  decisão  singular  proferida  por  Desembargador  de  Tribunal  de  Justiça  do  Estado  do Rio Grande do Norte,  ato  decisório  proferido  no  HC  n.  0800453-26.2023.8.20.5400,  que não conheceu do habeas corpus (fls. 15-17):
+"No caso, vejo, inicialmente, que os autos não estão instruídos de modo a demonstrar o apontado constrangimento ilegal, pois não foi acostada nenhuma decisão judicial ao processo em relação à atual situação do paciente, restando, assim, impossibilitado o contraponto com as alegações do impetrante.
+Como se sabe, constitui ônus processual do impetrante do habeas corpus produzir elementos documentais consistentes e pré-constituídos, destinados a comprovar os argumentos veiculados no writ, o qual possui rito sumaríssimo e não comporta, portanto, maior dilação probatória nesta via de exceção.
+In casu, não consta do feito documento algum apto a propiciar a análise da decisão combatida ou a necessidade de sua permanência, nem documento que possibilite a averiguação do suposto constrangimento ilegal.
+ ..
+Ainda assim, importante mencionar que o habeas corpus não é a via adequada para combater decisão que pedidos no âmbito da execução penal, tendo em vista a vedação de utilização do writ como sucedâneo recursal. A Câmara Criminal deste TJRN já se posicionou sobre a matéria:
+ ..
+Do mesmo modo, o paciente deixou de trazer provas que demonstrem a evidência da ilegalidade praticada pelo juízo coator acerca do indeferimento ao pedido do benefício do livramento condicional.
+Assim, não constando do feito documentos aptos para fins de verificar o alegado na inicial, não deve ser conhecido o presente habeas corpus."
+Ocorre  que,  consoante  pacífica  jurisprudência  desta  Corte,  é incabível a impetração de habeas corpus no Superior Tribunal de Justiça contra decisão monocrática de Desembargador do Tribunal de Justiça, pois o decisum singular desafia a interposição de agravo regimental no âmbito da própria Corte de origem, a fim de que haja a manifestação do colegiado local.
+Tal  entendimento  encontra-se  consolidado  no  âmbito  das  duas  Turmas  que  compõem  a  Terceira  Seção  desta  Corte,  como  demonstram  os  seguintes  precedentes,  a  título  ilustrativo:
+"AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  MANDAMUS  CONTRA  DECISÃO  MONOCRÁTICA  DO  TRIBUNAL  QUE  RESTABELECEU  PRISÃO  PREVENTIVA.  NÃO  INTERPOSIÇÃO  DO  RECURSO  AO  COLEGIADO  NA  ORIGEM.  WRIT  INDEFERIDO  LIMINARMENTE.  AUSÊNCIA  DE  ILEGALIDADE  FLAGRANTE.  DECISÃO  MANTIDA.  AGRAVO  REGIMENTAL  IMPROVIDO.
+1.  A  jurisprudência  desta  Corte  é  pacífica  no  sentido  de  que,  não  tendo  a  parte  recorrente  interposto  agravo  regimental  para  esgotamento  da  instância  anterior,  com  vistas  a  atender  os  ditames  do  art.  105,  II,  da  Constituição  Federal,  é  incabível  a  impetração  do  habeas  corpus,  só  se  flexibilizando  esse  entendimento  quando  constatada  ilegalidade  flagrante.  Precedentes.
+2.  Agravo  regimental  improvido."  (AgRg  no  HC  503.168/DF,  Rel.  Ministro  NEFI  CORDEIRO,  SEXTA  TURMA,  julgado  em  16/05/2019,  DJe  04/06/2019;  sem  grifos  no  original.)
+"PEDIDO  DE  RECONSIDERAÇÃO  NO  HABEAS  CORPUS.  QUADRILHA,  PORTE  ILEGAL  DE  ARMA  DE  FOGO  E  DE  MUNIÇÃO.  REVOGAÇÃO  DA  PRISÃO  PREVENTIVA  OU  SUBSTITUIÇÃO  POR  MEDIDAS  CAUTELARES.  PETIÇÃO  RECEBIDA  COMO  AGRAVO  REGIMENTAL.  WRIT  CONTRA  DECISÃO  MONOCRÁTICA  DE  DESEMBARGADOR.  SÚMULA  691/STF.  INCOMPETÊNCIA  DESTE  TRIBUNAL  SUPERIOR.  JURISDIÇÃO  AINDA  NÃO  INAUGURADA.  SUPRESSÃO  DE  INSTÂNCIA.  AGRAVO  NÃO  PROVIDO.
+1.  O  entendimento  consolidado  por  esta  Corte  Superior  é  no  sentido  de  que  o  pedido  de  reconsideração,  interposto  no  prazo  recursal  de  5  dias,  deve  ser  recebido  como  agravo  regimental,  nos  termos  dos  arts.  258  e  259  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+2.  Hipótese  em  que  o  ato  indicado  como  coator  e  impugnando  na  impetração,  praticado  por  Desembargadora  do  TJRJ,  deve  ser  submetido  à  análise  do  órgão  julgador  competente,  por  meio  de  agravo  interno,  não  estando  inaugurada,  portanto,  a  jurisdição  desta  Corte  Superior,  consoante  determinado  no  art.  105,  II,  a,  da  CF.  Assim,  a  matéria  não  pode  ser  examinada,  sob  pena  de  supressão  de  instância.
+3.  Agravo  regimental  não  provido."  (AgRg  no  HC  507.396/RJ,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  14/05/2019,  DJe  20/05/2019;  sem  grifos  no  original.)
+Cito,  ainda,  julgados  proferidos  pelas  Primeira  e  Segunda  Turmas  do  Supremo  Tribunal  Federal,  aplicáveis  ao  caso,  mutatis  mutandis:
+"AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  IMPETRAÇÃO  CONTRA  DECISÃO  MONOCRÁTICA  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  NÃO  ESGOTAMENTO  DE  JURISDIÇÃO.  HOMICÍDIO  QUALIFICADO.  PRISÃO  TEMPORÁRIA.  SUPRESSÃO  INSTÂNCIA.
+1.  Há  óbice  ao  conhecimento  de  habeas  corpus  impetrado  contra  decisão  monocrática  do  Superior  Tribunal  de  Justiça,  cuja  jurisdição  não  se  esgotou.  Precedentes.
+ ..
+3.  Agravo  regimental  conhecido  e  não  provido."  (HC  171.614  AgR,  Rel.  Ministra  ROSA  WEBER,  PRIMEIRA  TURMA,  DJe  03/09/2019  .)
+"AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  2.  Penal  e  Processual  Penal.  3.  Sequestro  e  cárcere  privado,  extorsão  e  corrupção  passiva  (arts.  148,  158,  §  1º,  c/c  o  art.  29,  e  art.  317,  §  3º  e  4º,  "a"  e  "c",  da  Lei  4.898/1965).
+4.  Retirada  do  monitoramento  eletrônico.
+5.  Habeas  corpus  impetrado  contra  decisão  monocrática  do  STJ.  Impossibilidade.  Esgotamento  das  vias  recursais.  Precedentes.
+6.  Agravo  regime  ntal  a  que  se  nega  provimento."  (HC  170.091  AgR,  Rel.  Ministro  GILMAR  MENDES,  SEGUNDA  TURMA,  DJe  03/09/2019;  grifos  diversos  do  original.)
+Além disso, conforme se observa da decisão transcrita, a decisão monocrática atacada não analisou a questão em razão da deficiente instrução do feito, o que impede também a análise por este Tribunal, sob pena de supressão de instância.
+Por  esses  fundamentos,  é  manifesto  o descabimento  do  presente  mandamus.
+Ante  o  exposto,  com  fundamento  nos  arts.  34,  inciso  XX,  e  210 ,  ambos  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  INDEFIRO LIMINARMENTE o presente habeas corpus, com recomendação ao Juízo da Execução Penal para que imprima celeridade na apreciação do benefício executório requerido pelo Reeducando .
+Publique-se.  Intimem-se.
+
+EMENTA
+ HABEAS  CORPUS.  EXECUÇÃO  PENAL.  ALEGAÇÃO DE EXCESSO DE PRAZO PARA APRECIAÇÃO DE BENEFÍCIOS EXECUTÓRIOS.  IMPETRAÇÃO  MANEJADA  CONTRA  DECISÃO  MONOCRÁTICA  PROFERIDA  PELO  DESEMBARGADOR  RELATOR  NO  TRIBUNAL  DE  ORIGEM.  DESCABIMENTO.  AUSÊNCIA  DE  EXAURIMENTO  DA  INSTÂNCIA  ANTECEDENTE.  PRECEDENTES.  PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE, COM RECOMENDAÇÃO.
