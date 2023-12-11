@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ORIVALDO CORINGA DA FONSECA FILHO contra a decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 735 do STF.
+Nas razões do agravo em recurso especial, o recorrente afasta a incidência da Súmula n. 735 do STF. Destaca que o recurso não foi interposto contra decisão que indefere provimento liminar, e, sim, contra decisão de indeferimento do pedido de cancelamento de indisponibilidade irregular e a consequente liberação do bloqueio efetuado na conta de sua titularidade, na forma do art. 833, IV, c/c o art. 854, § 3º, I, e § 4º, todos do CPC.
+Requer o provimento do agravo em recurso especial.
+É o relatório. Decido.
+O Tribunal de origem decidiu que, em razão dos vários contratos de locação carreados aos autos na origem e a este recurso não trazerem, em seu bojo, cláusula que verse sobre eventual comissão de corretagem ou taxa de administração em favor do agravante, não estaria configurada a probabilidade do direito, nos termos do art. 300 do CPC.
+Com efeito, em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Dessa forma, constata-se que, em razão da natureza instável da decisão, a qual pode ser ou não confirmada em julgado definitivo, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+A propósito, vejam-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula nº 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido. (AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CLÁUSULA COMPROMISSÓRIA. JUÍZO ARBITRAL. INCOMPETÊNCIA. LEGITIMIDADE. REEXAME. SÚMULA N. 7/STJ. TUTELA DE URGÊNCIA. SÚMULAS N. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1. Mesmo em contrato que preveja a arbitragem, é possível a execução judicial de confissão de dívida certa, líquida e exigível que constitua título executivo nos termos do art. 585, inciso II, do Código de Processo Civil, haja vista que o juízo arbitral é desprovido de poderes coercitivos. Precedente do STJ.(REsp n. 1.373.710/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe de 27/4/2015.)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
