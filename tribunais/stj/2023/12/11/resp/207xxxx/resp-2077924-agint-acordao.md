@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS. TAXA SELIC. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA.
+1. Ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça entendem que incidem PIS e COFINS sobre valores decorrentes da aplicação da Taxa Selic nos depósitos judiciais e na repetição de indébito (AgInt nos EREsp 1.912.079/SC, de minha relatoria, Primeira Seção, julgado em 30/5/2023, DJe de 2/6/2023). Incidência do óbice da Súmula 83 do STJ.
+2 . Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno da LUDOVICO J. TOZZO LTDA, DISTRIBUIDORA TOZZO LTDA. e TRANSPORTES LUDOVICO TOZZO LTDA. contra decisão em que dei provimento ao recurso especial da Fazenda Nacional para restabelecer a sentença denegatória da segurança, mantendo a incidência do PIS e da COFINS sobre os valores decorrente da aplicação da taxa SELIC sobre a repetição de indébito.
+A parte agravante sustenta que (e-STJ fl. 836):
+(..) a matéria ainda merece um maior aprofundamento, principalmente no que tange à violação ao art. 1º das Leis nº 10.637/02 e 10.833/03 e a limitação do conceito de "receita" previsto nos citados artigos, de acordo com a característica da taxa SELIC definida no Tema 962 do STF.
+Ademais, é importante demonstrar que o assunto ainda será tema de longos debates perante esta Nobre Corte, principalmente porque o TRF4, quando do julgamento do Recurso de Apelação nº 5050894-48.2021.4.04.7100/RS, relatado pelo ilustre Desembargador Federal e eminente tributarista Leandro Paulsen, afastou a SELIC da base de cálculo do PIS e da COFINS, sendo novamente notória a discussão pelo prisma infraconstitucional.
+Afirma que "o termo Receita Bruta, definido pelos art. 1º das Leis n. 10.637/02 e 10.833/2003 c/c com o art. 12 do Decreto-lei n. 1.598/1977, em nada muda a não incidência do PIS e da COFINS sobre a Taxa Selic, pois a característica deste indexador (de natureza indenizatória), não se altera na repetição do indébito tributário reconhecido judicialmente, sendo que, de nenhuma forma, poderia ser levado a tributação" (e-STJ fl. 838).
+Sem impugnação (e-STJ fl. 846).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS. TAXA SELIC. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA.
+1. Ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça entendem que incidem PIS e COFINS sobre valores decorrentes da aplicação da Taxa Selic nos depósitos judiciais e na repetição de indébito (AgInt nos EREsp 1.912.079/SC, de minha relatoria, Primeira Seção, julgado em 30/5/2023, DJe de 2/6/2023). Incidência do óbice da Súmula 83 do STJ.
+2 . Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+Na origem, cuida-se de mandado de segurança em que se pleiteia o reconhecimento do direito à não incidência do PIS/COFINS, IRPJ/CSLL sobre valores atinentes à taxa Selic incidentes na repetição de indébito tributário.
+A sentença julgou parcialmente procedente o pedido, para (e-STJ fl.
+570):
+(i) Determinar à autoridade impetrada que se abstenha de exigir das empresas impetrantes o recolhimento da CSLL e do IRPJ sobre os valores recebidos a título de correção monetária e juros de mora (taxa SELIC) incidentes sobre indébitos tributários reconhecidos judicialmente, inclusive aqueles objeto dos Mandados de Segurança nºs. 5004209-04.2017.4.04.7203 e 5001057- 45.2017.4.04.7203; (ii) Declarar o direito das empresas impetrantes de reconstituírem seus registros contábeis, em consonância com o "item i", e de compensarem ou requererem administrativamente ou por meio de ação própria a restituição dos valores indevidamente recolhidos a título de IRPJ e CSLL a partir dos cincos anos que antecederam à impetração deste writ, nos termos da fundamentação.
+A Corte regional deu provimento ao apelo da impetrante e negou provimento ao recurso da Fazenda Pública e à remessa necessária.
+Pois bem.
+Conforme exposto na decisão agravada, a conclusão alcançada pela Corte de origem destoou do entendimento do Superior Tribunal de Justiça de que incide o PIS e a COFINS sobre os valores decorrentes da aplicação da taxa Selic na restituição do indébito tributário.
+Sobre o tema, cito os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. DISSÍDIO. DEMONSTRAÇÃO. AUSÊNCIA. ACÓRDÃO COMBATIDO. JURISPRUDÊNCIA DESTA CORTE. CONFORMIDADE
+1. Para fins de admissão dos embargos de divergência, compete ao embargante demonstrar o dissenso alegado, por meio da comprovação da existência do aresto paradigma indicado e do devido cotejo analítico entre os julgados comparados, apontando as premissas fáticas e jurídicas que os identifiquem, o que não se verificou na hipótese.
+2. A consonância do aresto embargado com a orientação jurisprudencial desta Corte Superior inviabiliza o acolhimento dos embargos de divergência, nos termos da Súmula 168 do STJ.
+3. Hipótese em que ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça entendem que incidem PIS e COFINS sobre valores decorrentes da aplicação da Taxa SELIC nos depósitos judiciais e na repetição de indébito, o que atrai o óbice contido na Súmula 168 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.912.079/SC, minha relatoria, Primeira Seção, julgado em 30/5/2023, DJe de 2/6/2023.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. AGRAVO INTERNO DESPROVIDO.
+1. De início, indefere-se o pedido de sobrestamento do feito, tendo em vista que a questão jurídica debatida nos autos não coincide com a matéria decidida pelo STF no julgamento do Tema 962 - "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário". A propósito: EDcl no REsp 1.912.090/RS, relator Ministro SÉRGIO KUKINA, DJe 10/11/2021; e AgInt no REsp 1.582.170/RS, relator Ministro GURGEL DE FARIA, DJe 08/06/2021.
+2. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+3. Consoante entendimento do Superior Tribunal de Justiça, os valores decorrentes da aplicação da taxa Selic na restituição do indébito tributário devem compor a base de cálculo do PIS e da COFINS. Precedentes: AgInt no REsp 1.973.486/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 09/05/2022, DJe de 12/05/2022; e AgInt nos EDcl no REsp 1.949.800/SC, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/04/2022, DJe 25/04/2022.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.983.647/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022).
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. RECONHECIMENTO DO DIREITO DE NÃO INCLUIR NA BASE DE CÁLCULO DO IRPJ. ENTENDIMENTO JÁ CONSOLIDADO PELO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA
+I - Na origem, trata-se de mandado de segurança objetivando o reconhecimento do direito de não incluir na base de cálculo do IRPJ, da CSLL e PIS/COFINS os valores decorrentes de repetição de indébito tributário e depósito judicial, bem como lhe seja assegurada a restituição dos valores indevidamente recolhidos a tal título nos cinco anos anteriores à impetração, devidamente corrigidos pela Taxa SELIC. Na sentença foi concedida parcialmente a segurança pleiteada.
+No Tribunal a quo, a sentença foi mantida.
+II - Trata-se de entendimento consolidado nesta Corte, segundo o qual, " ..  tratando-se os juros de mora de lucros cessantes, adentram também a base de cálculo das contribuições ao PIS e COFINS na forma do art. 1º, § 1º das Leis n. 10.637/2002 e 10.833/2003, que compreendem "a receita bruta da venda de bens e serviços nas operações em conta própria ou alheia e todas as demais receitas auferidas pela pessoa jurídica". Quanto aos demais encargos moratórios, existindo notícia nos autos de que já há correção monetária contratualmente prevista para reparar os danos emergentes, à toda evidência também ostentam a mesma natureza de lucros cessantes (AgRg no REsp 1.271.056/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2013, DJe 11/09/2013)."
+III - No mesmo sentido: AgInt no REsp 1.925.578/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/11/2021, DJe 8/11/2021; AgInt no REsp 1.938.511/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/10/2021, DJe 14/10/2021.
+IV - No tocante ao modo de restituição, entendeu a Corte regional o seguinte (fl. 216): "Repetição do indébito Reconhecida a ocorrência de indébito tributário, faz jus a parte autora à compensação dos tributos recolhidos a maior, condicionada ao trânsito em julgado da presente decisão judicial (art. 170-A do CTN), nos termos do art. 74 da Lei n.º 9.4330/1996. A compensação de indébitos tributários em geral deverá ocorrer (a) por iniciativa do contribuinte, (b) entre quaisquer tributos administrados pela Secretaria da Receita Federal, (c) mediante entrega de declaração contendo as informações sobre os créditos e débitos utilizados, cujo efeito é o de extinguir o crédito tributário, sob condição resolutória de sua ulterior homologação."
+V - Também nesse ponto, a rigor, o acórdão recorrido não destoa do entendimento desta Corte.
+VI - Saliente-se que, conforme a jurisprudência do Superior Tribunal de Justiça, em mandado de segurança, a opção pela compensação ou restituição do indébito se refere à restituição administrativa do indébito e não à via do precatório ou requisitório. Isso porque a pretensão de restituição direta de tributo indevidamente pago, pela via do precatório, significaria a utilização do mandado de segurança como substitutivo da ação de cobrança, o que não é cabível. Nesse sentido: AgInt no REsp 1.895.331/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/5/2021, DJe 11/6/2021; REsp 1.864.092/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/3/2021, DJe 9/4/2021.
+VII - Agravo interno improvido.
+(AgInt no REsp 1.970.575/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/8/2022, DJe de 10/8/2022).
+A desconformidade do acórdão recorrido com a jurisprudência desta Corte Superior atraiu o provimento do apelo nobre fazendário, a fim de que fosse restabelecida a sentença.
+Deve, pois, ser mantida a decisão agravada.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
