@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por JOSENNY BAPTISTA CRUZEIRO e MARIO DE PAULA BAPTISTA (JOSENNY e outro) na demanda em que contendem com ALZIREA BAPTISTA DE ALVARENGA MAFRA e MYRIAM JULIA BAPTISTA DE LACERDA (ALZIREA e outro), contra o acórdão da Quarta Turma, da Relatoria do Ministro RAUL ARAÚJO, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RITO COMUM. ANULAÇÃO DE VENDA DE ASCENDENTE PARA DESCENDENTE C/C PEDIDO DE RESTITUIÇÃO DE COTAS EMPRESARIAIS CEDIDAS. PRIMEIRO JULGAMENTO PELA PROCEDÊNCIA PARCIAL DA DEMANDA. INTERPOSIÇÃO DE RECURSO ESPECIAL PERANTE ESTA CORTE. PROVIMENTO EM RAZÃO DE OFENSA À JURISPRUDÊNCIA DESTA CORTE. DETERMINAÇÃO DE RETORNO DOS AUTOS. NOVA APRECIAÇÃO, PELO TRIBUNAL DE ORIGEM. OFENSA À COISA JULGADA E REFORMATIO IN PEJUS . AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem, por ocasião do novo julgamento da controvérsia, após o provimento parcial de recurso especial em razão da inobservância de jurisprudência sedimentada nesta Corte, procedeu ao reexame de matéria já acobertada pela coisa julgada, prejudicando a situação jurídica já obtida pelos réus quando do primeiro julgamento da apelação. Decisum que importa em ofensa ao art. 467 do CPC/73 (art. 502 do CPC/2015) e em reformatio in pejus.
+2. Agravo interno provido para, em novo julgamento, dar provimento ao recurso especial. (e-STJ, fl. 1.069)
+O dissenso submetido à análise da Segunda Seção diz respeito a impossibilidade de declaração de anulabilidade do negócio jurídico celebrado entre ascendente e descendente quando inexiste a demonstração de efetivo prejuízo a outra parte interessada.
+Os embargantes citaram como paradigma julgado da Terceira Turma prolatado no REsp nº 918.794/MT, relatora Ministra Nancy Andrighi, j. 18/9/2007, DJ de 22/10/2007, p. 265, e acórdão da Segunda Seção prolatado no EREsp nº 661.858/PR, relator Ministro FERNANDO GONÇALVES, j. 26/11/2008, DJe de 19/12/2008.
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+Cinge-se a controvérsia em dirimir suposto dissenso quanto a impossibilidade de declaração de anulabilidade do negócio jurídico celebrado entre ascendente e descendente quando inexiste a demonstração de efetivo prejuízo a outra parte interessada.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+A divergência viabilizadora dos embargos não está configurada diante da ausência de similitude fática entre os acórdãos confrontados.
+Com efeito, o acórdão embargado considerou que o Tribunal estadual, por ocasião do novo julgamento da controvérsia, após o provimento parcial de recurso especial em razão da inobservância de jurisprudência sedimentada nesta Corte, procedeu ao reexame de matéria já acobertada pela coisa julgada, prejudicando a situação jurídica já obtida pelos réus quando do primeiro julgamento da apelação, em evidente reformatio in pejus e violação do art. 467 do CPC/73 (art. 502 do CPC/2015).
+Os acórdãos paradigmas, por sua vez, analisaram questão diversa, no sentido de que a venda de ascendente a descendente, sem a anuência dos demais, é anulável e depende da demonstração de prejuízo pela parte interessada.
+No acórdão embargado, portanto, a situação fática era diversa, consignando a Quarta Turma sobre a impossibilidade de reformatio in pejus e da análise de questões já acobertadas pela coisa julgada.
+Desse modo, permanece hígido o entendimento da Corte Especial de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de similitude fática entre os julgados indicados.
+Nessas condições, nos termos do art. 266, do RISTJ, INDEFIRO LIMINARMENTE os presentes embargos de divergência.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. EMBARGOS REJEITADOS LIMINARMENTE.
