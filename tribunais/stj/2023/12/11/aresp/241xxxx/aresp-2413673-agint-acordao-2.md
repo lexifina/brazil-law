@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização e compensação - respectivamente - por danos materiais e morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ANDRE BELARMINO ALVES e OUTROS contra decisão unipessoal prolatada pela Ministra Presidente do STJ.
+Ação: de indenização e compensação - respectivamente - por danos materiais e morais, ajuizada pelos agravantes, em face de UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO (agravada) e de ASSOCIACAO EVANGELICA BENEFICENTE DE CAMPINAS (agravada), na qual alegam - em síntese - que seu esposo/genitor faleceu em virtude de falha no atendimento médico-hospitalar prestado pelas rés, que deixaram de oferecer tempestivo tratamento para combate à meningite.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar as agravadas UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO e ASSOCIACAO EVANGELICA BENEFICENTE DE CAMPINAS, solidariamente, ao pagamento de R$ 100.000,00 a título de compensação por danos morais, a cada um dos agravantes/autores (ANDRE BELARMINO ALVES e OUTROS), com juros e correção a partir da prolatação da decisão.
+Acórdão: deu parcial provimento à apelação interposta pela agravada UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO, para reduzir o montante compensatório a título de danos morais ao patamar de R$ 60.000,00 a cada agravante/autor (ANDRE BELARMINO ALVES e OUTROS); deu parcial provimento à apelação interposta pelos agravantes/autores (ANDRE BELARMINO ALVES e OUTROS), para determinar a incidência de juros moratórios a partir do falecimento do Sr. GILBERTO.
+Nesse sentir, é a ementa dos julgados:
+ERRO MÉDICO. Não se deve confundir ausência de fundamentação da decisão com discordância ao entendimento firmado pelo julgador. Sentença devidamente fundamentada e que observou o limite objetivo da lide (pretensão indenizatória em virtude do atendimento médico-hospitalar prestado ao esposo/genitor dos autores). Legitimidade passiva da operadora de saúde, porquanto atuante direta na cadeia de consumo, visto que o nosocômio réu somente foi procurado pelo paciente em virtude de ser credenciado à sua rede. Prova pericial que concluiu que o atendimento prestado ao paciente não foi adequado e, o diagnóstico de meningococcemia retardado, culminando com o óbito; apesar do quadro clínico grave instalado e sugestivo da doença, desde as 19 horas do dia 17/07/2005. Em que pese o intempestivo diagnóstico, não há como se afirmar, categoricamente, que o atraso na administração dos antibióticos foi fatal ao paciente, em virtude da alta letalidade da doença meningocócica. Certo é que o atraso é circunstância que inviabilizou a chance do paciente iniciar, de pronto, o tratamento médico à sua moléstia. Aplicação da teoria da perda de uma chance. Precedentes. Dever de indenizar o seu equivalente econômico. Quantum que deve ser reduzido proporcionalmente. Dano moral reduzido ao patamar de R$ 60.000,00, para cada autor. Danos materiais incabíveis, porquanto não há comprovação de que o óbito do paciente, efetivamente, derivou do atendimento médico-hospitalar em análise. Responsabilidade solidária das rés. Juros moratórios. Nos casos de responsabilidade civil por erro médico, ocorrendo a morte da vítima, a reparação por danos morais é pleiteada pelos respectivos familiares, possuindo natureza extracontratual e, portanto, o termo inicial dos juros de mora é a data do evento danoso. Apelos parcialmente providos. (e-STJ, fl. 1.073)
+Embargos de declaração de fls. 1.101/1.104 (e-STJ): opostos pelas agravadas UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO e ASSOCIACAO EVANGELICA BENEFICENTE DE CAMPINAS, foram rejeitados.
+Embargos de declaração de fls. 1.131/1.136 (e-STJ): opostos pelos agravantes/autores (ANDRE BELARMINO ALVES e OUTROS), foram rejeitados.
+Decisão monocrática: não conheceu do agravo em recurso especial, nos termos do art. 21-E, V, c/c 253, parágrafo único, ambos do RISTJ, em razão da ausência de impugnação de todos os fundamentos constantes da decisão que negou seguimento ao recurso especial (e-STJ, fls. 1.377/1.380)
+Agravo interno: alega, em síntese, a ilegalidade e a inconstitucionalidade da decisão prolatada pelo Tribunal de origem que inadmitiu o recurso especial interposto, bem como reitera as razões constantes no apelo nobre (e-STJ, fls. 1.391/1.402).
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização e compensação - respectivamente - por danos materiais e morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial ante a incidência da Súmula 182/STJ, haja vista que, naquele recurso, não foram impugnados todos os fundamentos utilizados pelo TJ/SP para negar seguimento ao recurso especial.
+A despeito das alegações aduzidas neste recurso, percebe-se que as partes agravantes não trouxeram qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+Examinando-se os autos, verifica-se que o Tribunal de origem, nos termos da decisão de fls. 1.331/1.332 (e-STJ), negou seguimento ao recurso especial diante da ausência de similitude fática.
+Todavia, nas razões do agravo em recurso especial (e-STJ, fls. 1.344/1.356), as partes agravantes não impugnaram, de forma consistente, o seguinte óbice: ausência de similitude fática.
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo em recurso especial, tendo em vista a ausência de impugnação específica de todos os fundamentos contidos na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
