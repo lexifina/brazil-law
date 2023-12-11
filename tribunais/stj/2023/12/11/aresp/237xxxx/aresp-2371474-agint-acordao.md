@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RECURSO ESPECIAL. PREQUESTIONAMENTO. DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada ao dispositivo de lei supostamente violado, mesmo após opostos embargos de declaração.
+4. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+5. Idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014).
+6. A análise da divergência jurisprudencial fica prejudicada quando a tese sustentada no exame do recurso especial pela alínea "a" do permissivo constitucional esbarra em óbice sumular.
+7. Agravo interno conhecido parcialmente e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FERNANDO GUERRERO GRACIA contra decisão proferida pela Presidência desta Corte, às e-STJ fls. 276/281, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, considerando a incidência das Súmulas 283 e 284 do STF e 211 do STJ, e a ausência de demonstração de dissídio jurisprudencial.
+A parte agravante alega, em síntese, que não incidem os mencionados óbices, tendo que vista que a peça do recurso especial seguiu os requisitos legais, indicando expressamente os artigos violados; que houve o prequestionamento da matéria; e que o acórdão decidiu em contrariedade com o entendimento dos Tribunais pátrios.
+Impugnação às e-STJ fls. 305/311, em que a parte adversa pugna pelo não conhecimento do agravo e, subsidiariamente, pelo seu desprovimento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RECURSO ESPECIAL. PREQUESTIONAMENTO. DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada ao dispositivo de lei supostamente violado, mesmo após opostos embargos de declaração.
+4. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+5. Idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014).
+6. A análise da divergência jurisprudencial fica prejudicada quando a tese sustentada no exame do recurso especial pela alínea "a" do permissivo constitucional esbarra em óbice sumular.
+7. Agravo interno conhecido parcialmente e, nessa extensão, desprovido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno merece ser conhecido apenas parcialmente.
+Na decisão ora recorrida, conheceu-se do agravo para não se conhecer do recurso especial, havendo os seguintes capítulos autônomos:
+i) em relação à primeira controvérsia destacada na decisão recorrida, incidiu a Súmula 283 do STF, a falta de prequestionamento sob o viés pretendido pela parte recorrente e a ausência de comprovação do dissídio jurisprudencial, tendo em vista a deficiência do cotejo analítico; e
+ii) no que tange à controvérsia de inexistência de preclusão, aplicou-se a Súmula 284 do STF - em relação às alíneas "a" e "c" do permissivo constitucional -, diante da ausência de indicação de dispositivo legal violado e objeto da divergência, a Súmula 211 do STJ, tendo em vista a ausência de prequestionamento da matéria, mesmo com a oposição de embargos de declaração na origem, e a ausência de comprovação do dissídio jurisprudencial, tendo em vista a deficiência do cotejo analítico.
+Contudo, da leitura das razões do agravo interno, observa-se que, em relação ao item "i", a parte agravante deixou de atacar devidamente o fundamento do óbice da Súmula 283 do STF.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Quanto às demais questões, o agravo não merece provimento.
+Observa-se, em primeiro lugar, que o presente apelo nobre carece do requisito constitucional do prequestionamento relativo à tese de que não há que se falar em preclusão quando a matéria tiver sido decidida em sede de decisão interlocutória.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento, sendo necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC/2015, sob pena de perseverar o referido óbice. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ainda com relação à tese de que não há que se falar em preclusão quando a matéria tiver sido decidida em sede de decisão interlocutória, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Registre-se que a ausência de indicação do dispositivo infraconstitucional tido por violado impede o conhecimento do recurso especial tanto pela alínea "a", quando pela alínea "c" do permissivo constitucional.
+Convém registrar, ainda, que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO PARCIALMENTE DO AGRAVO INTERNO e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
