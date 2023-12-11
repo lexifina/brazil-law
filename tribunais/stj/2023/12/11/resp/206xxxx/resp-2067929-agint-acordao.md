@@ -1,0 +1,112 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO. ALEGAÇÕES GENÉRICAS. VIOLAÇÃO DO ART. 1.021, § 1º, DO CPC/2015. INCIDÊNCIA DAS SÚMULAS 182/STJ, 283/STF E 284/STF.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por Viação Curuçá Ltda. em face de ato a ser praticado pelo Delegado da Receita Federal do Brasil em Santo André, consistente na cobrança de contribuição previdenciária incidente sobre o pagamento de férias e do adicional de 1/3 sobre ela, sobre o salário-maternidade e sobre pagamento dos primeiros quinze dias do empregado acidentado ou doente. Entende a impetrante que tal verba não se reveste de caráter salarial e, portanto, sobre ela não deve incidir contribuição sobre folha de salários prevista no art. 22, I, da Lei 8.212/1991.
+2. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada. Incidência da Súmula 182/STJ.
+3. A decisão agravada não conheceu do Recurso Especial, com suporte na aplicação das Súmulas 7 e 211/STJ, 284/STF, bem como pela ausência de violação do art. 1.022 do CPC/2015 (fls. 612-617, e-STJ).
+4. A recorrente, nas razões do Agravo Interno, combate apenas a aplicação da Súmula 211/STJ, alegando que devem ser observados para a admissão do Apelo Especial os requisitos exigidos pelo CPC/1973. Nesse sentido, aduz: "Compulsando os autos do Processo de origem nº 0002575-62.2010.4.03.6126, verifica-se que o Recurso Especial em epígrafe foi interposto em 03 de julho de 2015,antes da Lei nº 13.105/2015 entrar em vigor, o qual ocorreu em 18/03/2016, sendo o Recurso Especial interposto com base do Código de Processo Civil de 1973. Nesse raciocínio, verifica-se que o presente recurso apesar deve ser apreciado à luz do Código de Processo Civil de 1973, ainda que o Recurso Especial tenha sido remetido ao Superior Tribunal de Justiça em 2023, uma vez que a razão para sua remessa tardia ocorreu pelo sobrestamento dos autos após sua interposição em 2015. (..) Em face ao demonstrado, observa-se que a Agravante agiu corretamente no Recurso Especial interposto, observando os dispositivos legais vigentes à época de sua interposição. Não obstante, observa-se que à época da interposição do respectivo recurso, não se encontrava vigente o art. 1.025 do CPC/2015, bem como não havia um dispositivo legal correspondente no antigo Código de Processo Civil. (fls. 627-629, e-STJ).
+5. As razões do Recurso devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do decisum, o que não ocorreu no caso.
+6. Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+7. A falta de impugnação aos pontos acima mencionados repercute na inadmissibilidade do Recurso, visto que o STJ tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal, que tratam de pressupostos genéricos de admissibilidade recursal, aplicáveis também ao presente caso.
+8. Agravo Interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática que não conheceu do Recurso Especial, haja vista a aplicação das Súmulas 7 e 211/STJ e da Súmula 284/STF, bem como pela ausência de violação do art. 1.022 do CPC/2015 (fls. 612-617, e-STJ).
+A parte insurgente, nas razões do Agravo Interno, ataca apenas a Súmula 211/STJ, ficando silente quanto aos demais pontos que impediram o trânsito recursal.
+Afirma, em síntese, que "(..) o presente recurso apesar deve ser apreciado à luz do Código de Processo Civil de 1973, ainda que o Recurso Especial tenha sido remetido ao Superior Tribunal de Justiça em 2023, uma vez que a razão para sua remessa tardia ocorreu pelo sobrestamento dos autos após sua interposição em 2015". (fl. 627).
+Ao final, pugna pela reconsideração do decisum ou a remessa do feito para o Órgão Colegiado.
+Sem contraminuta.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.067.929 - SP (2023/0133597-7)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+VIACAO CURUÇÁ LTDA
+ADVOGADO
+:
+NELSON WILIANS FRATONI RODRIGUES - SP128341
+AGRAVADO
+:
+FAZENDA NACIONAL
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO. ALEGAÇÕES GENÉRICAS. VIOLAÇÃO DO ART. 1.021, § 1º, DO CPC/2015. INCIDÊNCIA DAS SÚMULAS 182/STJ, 283/STF E 284/STF.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por Viação Curuçá Ltda. em face de ato a ser praticado pelo Delegado da Receita Federal do Brasil em Santo André, consistente na cobrança de contribuição previdenciária incidente sobre o pagamento de férias e do adicional de 1/3 sobre ela, sobre o salário-maternidade e sobre pagamento dos primeiros quinze dias do empregado acidentado ou doente. Entende a impetrante que tal verba não se reveste de caráter salarial e, portanto, sobre ela não deve incidir contribuição sobre folha de salários prevista no art. 22, I, da Lei 8.212/1991.
+2. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada. Incidência da Súmula 182/STJ.
+3. A decisão agravada não conheceu do Recurso Especial, com suporte na aplicação das Súmulas 7 e 211/STJ, 284/STF, bem como pela ausência de violação do art. 1.022 do CPC/2015 (fls. 612-617, e-STJ).
+4. A recorrente, nas razões do Agravo Interno, combate apenas a aplicação da Súmula 211/STJ, alegando que devem ser observados para a admissão do Apelo Especial os requisitos exigidos pelo CPC/1973. Nesse sentido, aduz: "Compulsando os autos do Processo de origem nº 0002575-62.2010.4.03.6126, verifica-se que o Recurso Especial em epígrafe foi interposto em 03 de julho de 2015,antes da Lei nº 13.105/2015 entrar em vigor, o qual ocorreu em 18/03/2016, sendo o Recurso Especial interposto com base do Código de Processo Civil de 1973. Nesse raciocínio, verifica-se que o presente recurso apesar deve ser apreciado à luz do Código de Processo Civil de 1973, ainda que o Recurso Especial tenha sido remetido ao Superior Tribunal de Justiça em 2023, uma vez que a razão para sua remessa tardia ocorreu pelo sobrestamento dos autos após sua interposição em 2015. (..) Em face ao demonstrado, observa-se que a Agravante agiu corretamente no Recurso Especial interposto, observando os dispositivos legais vigentes à época de sua interposição. Não obstante, observa-se que à época da interposição do respectivo recurso, não se encontrava vigente o art. 1.025 do CPC/2015, bem como não havia um dispositivo legal correspondente no antigo Código de Processo Civil. (fls. 627-629, e-STJ).
+5. As razões do Recurso devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do decisum, o que não ocorreu no caso.
+6. Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+7. A falta de impugnação aos pontos acima mencionados repercute na inadmissibilidade do Recurso, visto que o STJ tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal, que tratam de pressupostos genéricos de admissibilidade recursal, aplicáveis também ao presente caso.
+8. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14 de setembro de 2023.
+Cuida-se, na origem, de Mandado de Segurança impetrado por Viação Curuçá Ltda. em face de ato a ser praticado pelo Delegado da Receita Federal do Brasil em Santo André, consistente na cobrança de contribuição previdenciária incidente sobre o pagamento de férias e do adicional de 1/3 sobre ela, sobre o salário-maternidade e sobre pagamento dos primeiros quinze dias do empregado acidentado ou doente. Entende a impetrante que tal verba não se reveste de caráter salarial e, portanto, sobre ela não deve incidir contribuição sobre folha de salários prevista no art. 22, I, da Lei 8.212/1991.
+A decisão agravada não conheceu do Recurso Especial, com suporte na aplicação das Súmulas 7 e 211/STJ, 284/STF, bem como pela ausência de violação do art. 1.022 do CPC/2015 (fls. 612-617, e-STJ).
+A recorrente, nas razões do Agravo Interno, combate apenas a aplicação da Súmula 211/STJ, alegando que devem ser observados para a admissão do Apelo Especial os requisitos exigidos pelo CPC/1973. Nesse sentido, aduz (fls. 627-629, e-STJ):
+Compulsando os autos do Processo de origem nº 0002575-62.2010.4.03.6126, verifica-se que o Recurso Especial em epígrafe foi interposto em 03 de julho de 2015,antes da Lei nº 13.105/2015 entrar em vigor, o qual ocorreu em 18/03/2016, sendo o Recurso Especial interposto com base do Código de Processo Civil de 1973.
+Nesse raciocínio, verifica-se que o presente recurso apesar deve ser apreciado à luz do Código de Processo Civil de 1973, ainda que o Recurso Especial tenha sido remetido ao Superior Tribunal de Justiça em 2023, uma vez que a razão para sua remessa tardia ocorreu pelo sobrestamento dos autos após sua interposição em 2015.
+(..)
+Em face ao demonstrado, observa-se que a Agravante agiu corretamente no Recurso Especial interposto, observando os dispositivos legais vigentes à época de sua interposição. Não obstante, observa-se que à época da interposição do respectivo recurso, não se encontrava vigente o art. 1.025 do CPC/2015, bem como não havia um dispositivo legal correspondente no antigo Código de Processo Civil.
+Pelos fundamentos utilizados para não conhecer o recursos interposto, acaba o I. Ministro Relator equivocando-se na aplicação do Código de Processo Civil de 2015, visto que, em seu juízo de admissibilidade, o qual , enfatiza-se, foi admitido pelo egrégio Tribunal a quo, assevera que a ora Agravante deveria ter enfatizado a infringência do art. 1.022 do CPC/15, não bastando o prequestionamento do art. 1.025 do mesmo diploma legal.
+Contudo, segundo o exaustivamente demonstrado, a Agravante justificou a ofensa ao art. 535 do CPC/1973, o qual corresponde ao art. 1.022 do novo Código de Processo Civil. Nestes termos, constata-se que a matéria foi devidamente prequestionada, sendo justificado os artigos infringidos na decisão atacada,lembrando que o determinação do art. 1.025 do CPC/15 não existia à época da interposição do recurso à Colenda Corte da Cidadania, não sendo pertinente sua aplicação ao presente caso.
+As razões do Recurso devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do decisum, o que não ocorreu no caso.
+Ressalte-se, porém, que os óbices apontados constituem pressupostos recursais genéricos, passíveis de apreciação no juízo de admissibilidade inaugural.
+A jurisprudência desta Corte aplicava, por analogia, a Súmula 182/STJ ao Agravo de Instrumento que não rejeitasse, de modo específico, os fundamentos do decisum de inadmissão do Recurso Especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. DECISÃO AGRAVADA. FUNDAMENTOS INATACADOS. SÚMULA 182/STJ.
+(..)
+2. Não basta ao recorrente afirmar o desacerto da decisão agravada, mas, pelo princípio da dialeticidade, é indispensável confrontar os argumentos nela desenvolvidos com aqueles que entende corretos.
+3. A ausência de efetiva impugnação a todos os fundamentos da decisão agravada obsta o conhecimento do agravo, consoante entendimento consolidado na Súmula 182/STJ.
+4. Agravo regimental não provido.
+(AgRg no Ag 1.215.526/BA, Rel. Min. Castro Meira, Segunda Turma, DJ de 15.12.2009).
+Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+Finalmente, ressalto que esta Corte perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento, ante a incidência da Súmula 182/STJ.
+A Corte Especial reafirmou tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe de 30.11.2018.
+Nessa linha de raciocínio:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. EXECUÇÃO. ERRO DE CÁLCULO E ERRO DE DIREITO. COISA JULGADA. CRITÉRIOS UTILIZADOS NA LIQUIDAÇÃO DA SENTENÇA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. SÚMULA Nº 83/STJ. SÚMULA Nº 283/STF. AGRAVO IMPROVIDO.
+(..)
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC).
+3. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que reconheceu a preclusão decorrente da coisa julgada, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ.
+(..)
+6. A ausência de impugnação dos fundamentos do acórdão recorrido, mormente quanto à juntada de substabelecimento pela advogada, conferindo-lhe poderes, e à procrastinação do feito, suficiente para a aplicação da multa, enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+7. Agravo regimental não conhecido.
+(AgRg no AREsp 16.627/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 11/9/2012).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL. HORAS EXTRAS. DIFERENÇAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. A análise da controvérsia esbarra no óbice da Súmula 7/STJ, pois o Tribunal de origem, com base na análise de fatos e provas dos autos, concluiu pela inexistência de comprovação de horas extras trabalhadas.
+2. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 925.488/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 14/6/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+(..)3. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à agravante, na petição do seu Agravo Interno, impugnar especificamente os fundamentos da decisão agravada. Era indispensável que a agravante, analiticamente, contrastasse todas as conclusões da decisão combatida, especificamente.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ.
+5. No mesmo sentido: AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgRg no AREsp 807.252/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/10/2017, DJe 23/10/2017; AgInt no AREsp 1.003.118/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2017, DJe 24/10/2017; AgInt no PUIL 318/MS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2017, DJe 18/10/2017; AgInt no AREsp 973.101/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017; AgInt no REsp 1.685.023/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2017, DJe 16/10/2017; AgInt no AREsp 1.077.966/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+6. Agravo Interno não conhecido. (AgInt na Pet 10.274/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19/12/2017).
+PROCESSUAL CIVIL. CONTROVÉRSIA 101 CANCELADA. AGRAVO INTERNO. RAZÕES DE RECURSO DISSOCIADAS DOS FUNDAMENTOS SUFICIENTES CONTIDOS NA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015 E SÚMULAS 283 E 284/STF.
+1. Na hipótese dos autos, inicialmente, cumpre salientar que a controvérsia relativa à legitimidade ativa de servidor autárquico para executar a Sentença coletiva n. 0025519-49.2002.8.26.0602, proferida pela 6ª Vara Cível de Sorocaba/SP - que condenou o Município de Sorocaba a realizar o enquadramento funcional de agentes públicos -, foi cancelada devido ao disposto no art. 256-E, I, do RISTJ, que prevê hipótese de rejeição, de forma fundamentada, da indicação do Recurso Especial representativo da controvérsia devido à ausência dos pressupostos recursais genéricos ou específicos e ao não cumprimento dos requisitos regimentais (Controvérsia 101).
+2. Extrai-se do decisum vergastado que o recurso foi inadmitido em virtude dos óbices das Súmulas 284/STF e 211/STJ, bem como da ausência de comprovação da divergência jurisprudencial. Todavia, nas razões do Agravo Interno, verifica-se que a parte agravante deixou de impugnar a decisão recorrida, limitando-se a reafirmar os argumentos do Recurso Especial, sem contrapor especificamente os fundamentos que dão supedâneo ao decisum hostilizado.
+3. Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+4. Outrossim, tal atitude fere os óbices das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+5. Agravo Interno não conhecido.
+(AgInt no AREsp n. 1.841.126/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2021, DJe de 17/12/2021.)
+Além do mais, a falta de impugnação aos pontos acima mencionados repercute na inadmissibilidade do Recurso, visto que o STJ tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal, que tratam de pressupostos genéricos de admissibilidade recursal, aplicáveis também ao presente caso:
+Súmula 283/STF É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Na mesma linha, destacam-se os julgados do STJ:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA COLETIVA. PRESTAÇÃO CONTINUADA. FAZENDA PÚBLICA. PRESCRIÇÃO. OCORRÊNCIA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DOS ENUNCIADOS N. 283 E 284, AMBOS DO STF.
+(..) III - O fundamento do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+IV - Esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+V - Confiram-se ainda os seguintes julgados: AgInt no REsp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+VI - Agravo interno improvido. (AgInt no AREsp 1.775.664/RJ, rel. Min. Francisco Falcão, Segunda Turma, DJe de 10/6/2021.)
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RAZÕES. DEFICIÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. "A apresentação de razões recursais dissociadas da fundamentação adotada na decisão agravada configura fundamentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Aplicação da Súmula 284 do STF, por analogia. Precedentes." (AgInt no REsp 1.888.452/RS, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 18/11/2021).
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.903.995/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 30/3/2022.)
+Dessa maneira, não tendo sido infirmadas adequadamente as razões que nortearam o decisum impugnado, não se pode acolher a irresignação.
+Diante do exposto, não conheço do Agravo Interno.
+É como voto.
