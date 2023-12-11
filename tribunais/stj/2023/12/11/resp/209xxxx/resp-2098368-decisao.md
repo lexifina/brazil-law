@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/SP, assim ementado (e-STJ fl. 483):
+APELAÇÃO  Execução Fiscal  IPTU  Exercício de 2010  Sentença de extinção, com fulcro no art . 26 da LEF  Condenação da Fazenda Pública ao pagamento dos honorários advocatícios, fixados em 10% sobre o valor da execução fiscal, limitados a R$ 10.000,00 (dez mil reais), nos termos do art. 85, §§ 2º e 8º, CPC  Inadmissível o arbitramento dos honorários advocatícios por equidade nas hipóteses em que o valor da condenação, proveito ó econômico ou valor da causa forem elevados  Observância às teses fixadas no Tema 1076 do STJ  Sentença reformada ó para que os honorários advocatícios sejam fixados nos percentuais mínimos de cada faixa escalonada sobre o valor da causa (art. 85, §3º, I e II, § 5º, CPC)  Recurso provido.
+O recorrente sustenta ofensa aos artigos 26 da LEF, 85, §8º e 9º, do CPC/15, e dissídio jurisprudencial, sob o argumento de que a execução fiscal foi extinta pelo cancelamento da CDA, permitindo, dessa forma, o arbitramento da verba honorário sucumbencial de forma equitativa.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 543-545.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito aos artigos 26 da LEF, 85, §8º e 9º, do CPC/15, e sua respectiva tese de que, como houve a extinção da execução pelo cancelamento da CDA, deve ser afastado o ônus sucumbencial que fora fixado, ou, caso se mantenha a verba honorária, ser fixada por equidade, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que não foram opostos embargos de declaração na origem, a fim de sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
