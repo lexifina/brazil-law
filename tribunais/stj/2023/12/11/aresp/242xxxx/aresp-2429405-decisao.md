@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO SAFRA (SAFRA) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, SAFRA alegou a violação dos arts. 66-B, §3º, da Lei n. 4.728/1965; arts. 6º, §7º-A e 49, §3º, da Lei n. 11.101/2005, ao sustentar que (1) houve erro material/de fato ao concluir que o crédito do BANCO SAFRA é garantido por Alienação Fiduciária de veículos, tendo em vista que deveria ter sido reconhecido como Cessão Fiduciária de Aplicações Financeiras e estas não se enquadram na modalidade de "bem de capital essencial" (2) limitação temporal da competência do juízo da recuperação judicial para a suspensão dos atos de constrição que recaiam sobre bens de capital essenciais. Medidas de expropriação pelo credor não sujeito que poderão ser retomadas logo após o decurso do prazo de suspensão (3) necessidade de afastamento da qualificação de bens de capital essenciais conferida ao estoque e aos itens como grãos, fertilizantes e defensivos agrícolas, entre outros semelhantes. Bens perecíveis e consumíveis. Análise da essencialidade que deve se dar em termos concretos e específicos, após a construção de campo dialético-probatório.
+Foram apresentadas contrarrazões (e-STJ, fls. 901/903).
+(1) Da prestação jurisdicional
+SAFRA alegou violação ao art. 1.022, II e III, do CPC, pois sustentou que o acórdão estadual possui erro de fato/material e foi omisso em pontos relevantes ao julgamento do processo.
+Quanto ao erro material, alegou que o crédito não trata de alienação fiduciária, mas, sim, de cessão fiduciária de aplicações financeiras, nos termos do art. 66-B, §3º, da Lei n. 4.728/1965.
+Inicialmente, cumpre esclarecer que é pacífica a jurisprudência desta Corte Superior ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes.
+No entanto, verifica-se que o r. acórdão estadual concluiu que:
+Como já adiantado por ocasião da análise do pedido de efeito suspensivo, entendo que os créditos decorrentes do ACC - Adiantamento do Contrato de Câmbio devem ser integralmente excluídos da recuperação judicial.
+A discussão trazida neste grau recursal diz respeito ao Contrato de Adiantamento de Câmbio n. 237947787 (doc. 5), garantido por cessão fiduciária de aplicações financeiras, nos moldes extraídos do evento 1-CONTR6, através do qual o banco agravante adiantou a quantia à recuperanda de USD 500.000,00 (..), destinado à exportação de mercadorias, o qual, utilizando-se a taxa cambial de 5.495, resultava na quantia, em moeda nacional, de R$ 2.747.500,00 (..).
+ ..
+Outrossim, nos casos em que os bens dados em garantia são essenciais à atividade da empresa, confere-se à empresa recuperanda a posse de tais bens ainda que transcorrido o prazo de 180 dias (stay period - art. 6º, §4º, da Lei n. 11.101/2005).
+No caso em apreço, pode-se concluir, sem resquício de dúvida, que os bens dados em garantia dos contratos firmados com o Banco são essenciais a sua atividade, uma vez que a recuperada tem atuação no agronegócio, por meio de atividades de compra e venda de commodities, em especial soja, milho e trigo, além de comercialização de insumos agrícolas, assistência técnica e logística de campo, logo, os veículo objeto das garantias (caminhões e semi-reboques) são instrumento essenciais para transporte de mercadoria e atividade no campo, fundamentais a sua atividade. (e-STJ, fls. 709/715 - sem destaque na original)
+Verifica-se, portanto, que o Tribunal estadual concluiu que os bens dados em garantia são essenciais a sua atividade, pois dizem respeito ao transporte de mercadoria e atividade no campo. Entretanto, o BANCO SAFRA afirma categoricamente que o seu crédito é garantido por aplicações financeiras cedidas fiduciariamente e, portanto, não se enquadram na modalidade de "bem de capital essencial" à atividade de JOSÉ DINON E CIA LTDA.
+Opostos os embargos de declaração para esclarecimento, a Corte estadual não esclareceu tal questão.
+Sendo assim, é de rigor o retorno dos autos à instância ordinária para sanar se a garantia são aplicações financeiras ou se são bens móveis/imóveis, bem como se é bem de capital essencial para sua atividade empresarial.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nesta extensão, DAR PROVIMENTO, a fim de determinar o retorno dos autos ao Tribunal de Justiça do Rio Grande do Sul para que se analise a questão acima pontuada, como entender de direito, ficando prejudicadas os demais temas deduzidos.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE ACORDO DE CÂMBIO - ACC. GARANTIA. CESSÃO FIDUCIÁRIA DE APLICAÇÕES FINANCEIRAS. ARTIGO 1.022 DO NCPC. ERRO DE FATO/MATERIAL. CONFIGURAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, PROVIDO.
