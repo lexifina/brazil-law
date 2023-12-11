@@ -1,0 +1,48 @@
+DECISÃO
+WILLIAN KRAWULSKI alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Santa Catarina (HC n. 5061011-96.2023.8.24.0000).
+Nesta Corte, sustenta a defesa a ausência de fundamentação idônea e proporcionalidade para a mantença da prisão processual do acusado, pela suposta prática do delito previsto no art. 157, § 2º-A, I, do Código Penal. Aduz que falta "qualquer indício mínimo capaz de comprovar a narrativa que o Paciente WILLIAN estava armado na data dos supostos fatos" (fl. 7). Afirma que a circunstância de figurar no polo passivo de outra demanda criminal não justifica a segregação cautelar, sob pena de violação ao princípio da presunção de inocência.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pelo não conhecimento do writ (fls. 223-225; 231-233; 238-247).
+Decido.
+Expõem os autos que, em 19/9/2023, o Magistrado de primeiro grau impôs a constrição preventiva do acusado, sob estes motivos (fls. 59-60):
+No particular, registro que, de conformidade com as informações prestadas pela autoridade policial, em 11/05/2023, teria o investigado adentrado no comércio, pegado uma bebida e se dirigido até o caixa de pagamento, momento que anunciou o assalto dizendo que "iria descarregar o revólver" na cabeça da atendente. Em posse do numerário subtraído, o investigado se evadiu por uma rua lateral. Logo na sequência, os policiais militares, em análise das imagens das câmeras de segurança do local, identificaram a figura de WILLIAN KRAWULSKI como sendo o autor do crime, mas em buscas nas redondezas não obtiveram êxito em localizá-lo. Inclusive, a atendente Edineia identificou o denunciado na delegacia de polícia por meio de fotografias. No mais, a autoridade policial apontou que o investigado vem, desde o ano de 2018, se envolvendo em práticas criminosas.
+Assentado isso - e considerando o grau de cognição sumária inerente a esta fase da persecução criminal -, tem-se que há fundados elementos sobre a materialidade delitiva e indícios suficientes de autoria do investigado WILLIAN KRAWULSKI.
+ ..
+Nesse sentido, anoto que a gravidade concreta do delito supera as circunstâncias habituais do tipo penal, uma vez que demonstrado o risco a ordem pública, considerando que o réu voltou a delinquir após estar sendo processado nos autos n. 0014342-29.2018.8.24.0038, evidenciando-se verdadeira habitualidade criminosa, além da gravidade concreta do delito agora apurado, executado com grave ameaça à pessoa, desbordando do tipo penal básico.
+Com isso, tal preponderação denota periculosidade do investigado e permite antever que a sua permanência em liberdade ameaça a ordem pública pelo risco concreto de reiteração delitiva - seja contra a vítima, seja contra qualquer outra pessoa, inclusive porque o crime foi cometido mediante grave ameaça à pessoa - ameaçando descarregar um revólver na cabeça da vítima.
+Tudo a evidenciar a adequação da medida e a insuficiência, no caso dos autos, de cautelar diversa da prisão, eis que, deixando em liberdade o investigado, pressupõe o autocontrole para que surta o efeito cautelar esperado.
+Pelo exposto, decreto a prisão preventiva de WILLIAN KRAWULSKI.
+O Tribunal a quo denegou o mandamus originário (fls. 203-208).
+Noticiou o Juízo da 1ª Vara Criminal da Comarca de Joinville que há audiência de instrução designada para o dia 15/12/2023 (fl. 234).
+Feitos esses registros, passo ao exame do habeas corpus.
+De início, noto, na espécie, que as instâncias ordinárias, após a análise das informações amealhadas aos autos, concluíram pela existência de materialidade delitiva e demonstração da autoria. A pretensa inidoneidade dos julgados não pode ser constatada de plano.
+Para entender de forma diversa e afastar a compreensão dos Juízos de origem quanto ao emprego de arma de fogo pelo réu, necessário seria o revolvimento do acervo fático-probatório, providência vedada na via estreita do habeas corpus.
+Ilustrativamente:
+ ..  3. Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva.  ..
+(AgRg no HC n. 651.827/MS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 16/8/2021.)
+Ao que se vê, os fatores indicados na demanda são bastantes, ao menos por ora, nos termos da orientação desta Corte de Justiça, para a preservação da custódia cautelar do acusado e, dadas as particularidades da hipótese, para a insuficiência das medidas alternativas (art. 282 c/c art. 319 do CPP).
+A propósito, observo que foi devidamente descrito o periculum libertatis, evidenciado pelo modus operandi empregado na ação delituosa pelo réu, que "ameaç ou  descarregar um revólver na cabeça da vítima" (fl. 59).
+Outrossim, a jurisprudência deste Tribunal Superior é firme em proclamar a possibilidade de se atentar aos processos em tramitação para reputar o perigo novas práticas criminosas e a imperiosidade do cárcere preventivo.
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO MEDIANTE CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. REITERAÇÃO DELITIVA. ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES. INVIABILIDADE. RECURSO DESPROVIDO.
+ ..
+2. No caso, a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do recorrente, consistente na prática, em tese, de crime de roubo circunstanciado pelo concurso de agentes e emprego de arma de fogo.
+Foi destacado nos autos que o recorrente e outros dois corréus, de forma premeditada, abordaram todos os membros de uma família de feirantes, que voltavam do trabalho, e levaram todo valor monetário que eles arrecadaram durante o dia e seus pertences.
+3. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+4. Consoante o disposto nos autos, o acusado responde a outros dois processos em andamento, o que evidencia a prática reiterada de delitos, demonstrando o risco de que, solto, perpetre novas condutas ilícitas.
+5. As condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+6. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública, notadamente diante da gravidade concreta da conduta imputado ao recorrente e da possibilidade de reiteração delitiva.
+7. Recurso ordinário a que se nega provimento.
+(RHC n. 173.018/BA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 19/5/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PORTE DE ARMA. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICU LUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, diante do risco de reiteração delitiva, pois "consta na certidão acostada ao evento 16 que o custodiado responde a ações penais, que denota sua contumácia e, por consequência, o risco concreto de que continuará a praticar crimes caso seja solto".
+3. No que tange à tese de que os registros criminais indicados pelo decreto preventivo não são idôneos para justificar a custódia preventiva, forçoso consignar que a jurisprudência desta Corte Superior é firme em assinalar que processos penais em andamento, não obstante não sejam fundamento idôneo para a fixação da pena-base acima do mínimo legal, nos termos da Súmula n. 444 do STJ, tem o condão de revelar risco concreto de reiteração delitiva, a justificar a decretação ou a manutenção da prisão preventiva.
+4. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+5. Agravo regimental não provido.
+(AgRg no HC n. 802.065/TO, Rel. Ministro Rogerio Schietti, 6ª T., DJe de 26/4/2023.)
+Quanto à alegada desproporcionalidade da prisão em cotejo à futura pena a ser aplicada ao agente, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no HC n. 826.707/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 16/8/2023).
+Ademais, consoante a orientação jurisprudencial, "5. Não há ofensa ao princípio da presunção de inocência quando a prisão preventiva é decretada com fundamento em indícios concretos de autoria e materialidade delitiva extraídos dos autos da ação penal, como no caso em apreço" (AgRg no RHC n. 171.320/MT, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
