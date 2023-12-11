@@ -1,0 +1,12 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. DEFICIÊNCIA NA INSTRUÇÃO. EXCESSO DE PRAZO. TESE NÃO ENFRENTADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DETRAÇÃO. PLEITO DE FIXAÇÃO DO REGIME SEMIABERTO. DISCUSSÃO INÓCUA. REINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A defesa não juntou aos autos a íntegra do decreto prisional, documento necessário à análise do pleito de revogação da medida extrema, sobretudo porque citado na sentença para manter a prisão preventiva por seus próprios fundamentos. Portanto, inviável a análise da referida alegação.
+2. "Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente." (AgRg no HC n. 353.292/TO, Sexta Turma, rel. Min. Sebastião Reis Júnior, DJe 18/5/2016.)
+3. Quanto à alegação de excesso de prazo na fase recursal, de fato, a questão não foi analisada pelo Tribunal de origem, o que inviabiliza a análise pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+4. Quanto à fixação do regime inicial de cumprimento de pena, no caso, o Juízo a quo não aplicou a detração porque a reincidência autorizaria a fixação do regime inicial mais gravoso, ainda que a pena final fosse menor do que 8 anos de reclusão, o que constitui fundamentação válida, conforme a jurisprudência desta Corte Superior.
+5. "É inócua, no caso, a discussão acerca da detração penal, pois o registro de circunstância judicial desfavorável e a reincidência do réu continuariam a justificar a fixação do regime inicial mais gravoso mesmo após o desconto do período de prisão provisória. Agravo regimental não provido." (AgRg no HC n. 635.541/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 16/3/2021, DJe 23/3/2021.)
+6. Agravo regimental desprovido.
