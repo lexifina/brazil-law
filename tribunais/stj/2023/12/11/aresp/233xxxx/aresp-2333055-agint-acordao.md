@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DUPLICATA. AÇÃO DECLARATÓRIA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. CANCELAMENTO DA RELAÇÃO SUBJACENTE. INEXIGIBILIDADE DO TÍTULO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Inexiste a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Inviável a revisão do entendimento do Tribunal de origem, com base no conjunto fático-probatório dos autos, de inexigibilidade do título em questão, que não poderia ter sido levado a protesto. Rever o entendimento implicaria revisão de matéria fática, o que é vedado em recurso especial nos termos da Súmula 7 desta Corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso interposto pela alínea "c" do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ABC SECURITIZADORA S.A. contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para conhecer em parte do recurso especial e negar-lhe provimento, em razão de ausência de ofensa ao art. 1.022 do Código de Processo Civil e de aplicação da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante de revisão do entendimento do Tribunal de origem de inexigibilidade do título em questão, que não poderia ter sido levado a protesto (fls. 712-716).
+Opostos embargos de declaração foram rejeitados (fls. 736-738).
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 566):
+Duplicata. Ação declaratória. Cancelamento da relação subjacente, com a devolução das mercadorias. Cessão. Inexistência de comprovação sobre aceite do título. Sujeição da corré ABC Securitizadora às exceções pessoais ligadas à relação jurídica subjacente. Necessidade de ressalva dos direitos cambiais da corré ABC Securitizadora em relação à cedente da cártula. Ação procedente em parte. Recurso parcialmente provido.
+Embargos de declaração rejeitados (fls. 588-593).
+No presente agravo interno, reitera a parte agravante a alegação do recurso especial de existência de omissão no acórdão regional, em ofensa ao art. 1.022, II, do Código de Processo Civil, ao defender que persiste a omissão suscitada no acórdão do Tribunal de origem acerca dos arts. 7º e 15, II, da Lei das Duplicatas.
+Sustenta, ainda, que é inaplicável o óbice da Súmula 7/STJ, porquanto desnecessário o reexame de fatos e provas, porquanto não há controvérsia acerca do recebimento da mercadoria, quando consta da sentença que esta foi recebida em "novembro de 2017 e apenas devolvida em março de 2018".
+Aduz que a "questão fática já foi delimitada: a mercadoria foi recebida sem oposição pela Recorrida, mas, segundo argumenta, teve de devolvê-la em período muitíssimo superior ao prazo legal, sob a justificativa de que eram impróprios para os fins pretendidos" (fl 746).
+Alega que a divergência não diz respeito aos fatos, mas ao direito aplicável, e que há similitude entre os casos confrontados a configurar o dissídio jurisprudencial suscitado.
+Pugna, por fim, pelo encaminhamento do feito à apreciação da Turma e pelo seu provimento.
+A parte agravada, instada a manifestar-se, silenciou (fls. 754-755).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DUPLICATA. AÇÃO DECLARATÓRIA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. CANCELAMENTO DA RELAÇÃO SUBJACENTE. INEXIGIBILIDADE DO TÍTULO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Inexiste a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Inviável a revisão do entendimento do Tribunal de origem, com base no conjunto fático-probatório dos autos, de inexigibilidade do título em questão, que não poderia ter sido levado a protesto. Rever o entendimento implicaria revisão de matéria fática, o que é vedado em recurso especial nos termos da Súmula 7 desta Corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso interposto pela alínea "c" do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso dos autos, entendeu a Corte de origem pela inexigibilidade do título em questão, duplicata, que não poderia ter sido levado a protesto no caso dos autos.
+Consoante relatado, por meio da decisão agravada, o agravo em recurso especial foi conhecido para se conhecer em parte do recurso especial e negar-lhe provimento, em razão do entendimento assentado de ausência de ofensa ao art. 1.022 do Código de Processo Civil e de aplicação da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante.
+Não merece prosperar o recurso.
+De início, consoante assentado na decisão agravada, inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+Com efeito, o Tribunal de origem apreciou as vária alegações da agravante acerca da regularidade da duplicata no caso e, expressamente, afastou a pretensão, ao entender pela inexigibilidade do título que não poderia ter sido levado a protesto. Confira-se o seguinte excerto do voto condutor (fls. 573-574):
+Restou demonstrado nos autos que a duplicata em questão não poderia ter sido enviada a protesto, ante o cancelamento da transação que lhe deu origem.
+A nota de devolução dos produtos está datada de 02/04/2018 (fl. 21), ao passo que o título foi protocolado junto ao cartório de protestos em 18/04/2018 (fl. 17), com data limite para pagamento em 24/04/2018.
+Conforme documento de fls. 17, constata-se que o título encaminhado a protesto é duplicata mercantil por indicação, ou seja, não há comprovação de aceite da autora. E sem o aceite, inexiste qualquer vinculação, de natureza cambial, do sacado em relação ao título.
+Isto quer dizer que, em se tratando de duplicata sem aceite, inviável a aplicação do princípio cambial relativo à inoponibilidade de exceções pessoais em face ao terceiro de boa-fé, no caso de circulação do título.
+Em tais circunstâncias, o endossatário e portador do título está sujeito às exceções de caráter pessoal ligadas ao negócio de direito material arguido pelo sacado.
+Na espécie, como visto, não se justificava o envio da cártula a protesto, vez que a relação comercial foi desfeita.
+Assim, em se tratando de título causal, não mais subsistindo o negócio jurídico subjacente, deve ser acolhida a pretensão de declaração de inexigibilidade do título, que não poderia ter sido levada a protesto.
+Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora agravante.
+Ademais, nos termos da jurisprudência desta Corte, não incorre em omissão o julgado em que foram apreciadas as questões relevantes e imprescindíveis à sua resolução da causa.
+Nesse sentido, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSTO DE RENDA DAS PESSOAS FÍSICAS. RENDIMENTOS RECEBIDOS DE ENTIDADE DE PREVIDÊNCIA PRIVADA. PRETENSÃO DE SER CONSIDERADO SOMENTE O LÍQUIDO. DESCABIMENTO. INCIDÊNCIA DO IMPOSTO SOBRE A TOTALIDADE DOS RENDIMENTOS. POSSIBILIDADE APENAS DE DEDUÇÃO DA BASE DE CÁLCULO FORMADA POR TODOS OS RENDIMENTOS TRIBUTÁVEIS DAS CONTRIBUIÇÕES À ENTIDADE, OBSERVADO O LIMITE LEGAL DE 12% DO TOTAL DE RENDIMENTOS TRIBUTÁVEIS.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal Regional não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte a quo examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Observo que o Tribunal Regional não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. A pretensão da entidade autora é incluir na base de cálculo do imposto de renda somente o valor líquido recebido da entidade privada.
+5. Os benefícios recebidos de entidades de previdência privada compõem a base de cálculo do imposto de renda, por se enquadrarem na regra geral do art. 8º, I, da Lei 9.250/95 e expressa previsão específica do art. 33 da mesma lei.
+6. Os rendimentos tributáveis são incluídos na base de cálculo do imposto de renda pelo seu valor bruto (art. 8º, I, da Lei 9.250/95 c/c art. 3º da Lei 7.713/88).
+7. Inexiste fundamento legal para os benefícios serem considerados pelo seu líquido, ou seja, deduzidos das contribuições à própria entidade de previdência privada.
+8. Redução da base de cálculo sem previsão legal seria inconstitucional, a teor do art 150, § 6º, da Constituição:
+"qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no art. 155, § 2º, XII, g".
+9. Uma vez somados os benefícios da entidade de previdência privada aos demais rendimentos tributáveis, a base de cálculo do imposto de renda poderá ser reduzida pela dedução das contribuição a entidades de previdência privada, nos termos do art. 8º, II, "e", da Lei 7.713/88, desde que respeitado o limite de 12% dos rendimentos computados na base de cálculo (art. 11 da Lei 9.532/97).
+10. Agravos Internos não providos.
+(AgInt nos EDcl no REsp n. 1.998.278/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Outrossim, conforme também assentado na decisão agravada, inviável a apreciação das demais alegações da recorrente, considerando que a Corte de origem, ao entender pela inexigibilidade do título que não poderia ter sido levado a protesto, firmou entendimento com base no conjunto probatório dos autos.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÕES DECLARATÓRIAS DE INEXIGIBILIDADE DE TÍTULOS DE CRÉDITO. PREMISSAS FIXADAS NO ACÓRDÃO RECORRIDO ACERCA DA AUSÊNCIA DE RESPONSABILIDADE DA RECORRIDA PELOS PAGAMENTOS IMPUTADOS PELA RECORRENTE. CONTRATO DE PRESTAÇÃO DE SERVIÇOS CELEBRADO COM TERCEIRO. ALEGAÇÃO DE MÁ-FÉ DA RECORRIDA E CELEBRAÇÃO TÁCITA DE CONTRATO ENTRE AS PARTES. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.474.737/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/9/2020, DJe de 2/10/2020.)
+Por fim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
