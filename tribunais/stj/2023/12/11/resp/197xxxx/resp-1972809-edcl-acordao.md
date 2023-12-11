@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. A USÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. Ausente qualquer dos vícios mencionados, incabível a utilização de embargos de declaração para fins de prequestionamento de matéria constitucional, com o objetivo de permitir a interposição de recurso extraordinário.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 2.412/2.417) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fls. 2.395/2.396):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVOCATÓRIA. LITISCONSÓRCIO NECESSÁRIO. PERÍCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. COISA JULGADA. IDENTIDADE DE PEDIDO E CAUSA DE PEDIR. INEXISTÊNCIA. DECADÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO SURPRESA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONA L. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+1.2. No caso concreto, afirmar que o sócio foi protagonista das relações negociais em litígio, para afastar o entendimento da Corte estadual de autonomia da personalidade jurídica da sociedade empresária, a fim de reconhecer o litisconsórcio necessário, demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+1.3. Eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias - desnecessidade de fixação dos pontos controvertidos para perícia e pedido nitidamente protelatório - exigiria incursão no campo fático-probatório.
+2. Segundo a jurisprudência desta Corte, para o reconhecimento da coisa julgada, faz-se necessária a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido -, o que não ocorreu.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+5. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante informa que "o v. acórdão proferido no Agravo de Instrumento em questão, dispôs que: (i) a venda realizada em 14 de janeiro de 2002 não está sujeita à eficácia em relação à Massa Falida porque anterior à data da distribuição da concordata (18 de janeiro de 2002); (ii) a venda realizada em 18 de janeiro de 2002 poderia, em tese, estar sujeita à ineficácia em relação à Massa Falida, mas isso foi expressamente rechaçado porque os imóveis não integravam o ativo permanente da Falida e, sendo assim, não havia restrições para a alienação. Esta decisão, conforme ressabido, TRANSITOU EM JULGADO, impedindo, por conseguinte, qualquer discussão em torno dos temas acima referidos, motivo pelo qual a ação originária, que objetiva uma vez mais a declaração da ineficácia dos mesmos bens imóveis discutidos no bojo daquele decisum e sob igual fundamento, à toda evidência, não reúne qualquer condição de prosperar, ainda que no voto proferido pelo 2º Juiz no v. acórdão do Agravo de Instrumento tivesse aventado a possibilidade de ajuizamento de ação revocatória, nos moldes do art. 130 da Lei n. 11.101/2005" (e-STJ fl. 2.414).
+Sustenta que, "ainda que a r. decisão agravada tenha partido do pressuposto de que o v. acórdão proferido no Agravo de Instrumento nº 560.668-4/7-00 teria concluído pela não incidência do art. 129, inciso VI, da Lei 11.101/2005, na verdade, o mesmo fundamentou-se na inexistência de fraude diante da ausência de comprovação de que a venda do imóvel havida anteriormente à concordata pertenceria ao ativo permanente (imobilizado) da falida" (e-STJ fls. 2.414/2.415).
+Ao final, pede o acolhimento dos aclaratórios, para que sejam supridos os vícios apontados.
+Impugnação não apresentada (e-STJ fl. 2.421).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. A USÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. Ausente qualquer dos vícios mencionados, incabível a utilização de embargos de declaração para fins de prequestionamento de matéria constitucional, com o objetivo de permitir a interposição de recurso extraordinário.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez comprovada a existência de algum dos vícios elencados no art. 1.022 do CPC/2015, o que não se evidencia no caso em exame.
+No caso concreto, a parte pleiteia nova análise do recurso anteriormente interposto, repisando as mesmas alegações apresentadas previamente.
+O recurso anterior foi devidamente examinado no acórdão ora embargado, nos seguintes termos (e-STJ fls. 2.405/2.406):
+Conforme consignado na decisão agravada, afirmar que o sócio foi protagonista das relações negociais em litígio, para afastar o entendimento da Corte estadual de autonomia da personalidade jurídica da sociedade empresária, a fim de reconhecer o litisconsórcio necessário, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Em relação à tese de coisa julgada, não foi verificada identidade de pedido e causa de pedir com o decidido no Agravo de Instrumento nº 560.668.4/7-00, em que, inclusive, foi afirmada a possibilidade de declaração de ineficácia em ação revocatória, nos termos do art. 130 da Lei n. 11.101/2005, que é o caso dos autos.
+No mais, o TJSP esclareceu que "há coisa julgada apenas com relação ao pedido de ineficácia objetiva, caso do art. 129 da LRF, que, por sua natureza, independe de prova e, por isso, pode ser declarada nos próprios autos da falência. Diversamente, quanto ao pedido com arrimo na ineficácia subjetiva (ato revogável), caso do artigo seguinte e que exige a produção de prova sobre o consilium fraudis, ainda é permitida a condução do processo judicial" (e-STJ fls. 2.234/2.235).
+Assim, segundo a jurisprudência desta Corte, para o reconhecimento da coisa julgada, faz-se necessária a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido -, o que não ocorreu na circunstância em exame.
+O Tribunal de origem entendeu que, havendo previsão na lei especial sobre o prazo decadencial, não se aplica a regra geral do Código Civil.
+No entanto, a parte agravante não refutou tal argumento no recurso especial, razão pela qual foi correta a aplicação da Súmula n. 283/STF. Ressalte-se que a impugnação apenas em sede de agravo interno não é suficiente para afastar o óbice verificado.
+Eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias - desnecessidade de fixação dos pontos controvertidos para perícia e pedido nitidamente protelatório - exigiria incursão no campo fático-probatório, providência vedada na via especial, conforme o enunciado n. 7 da Súmula do STJ.
+Por fim, a alegação de decisão surpresa e violação de direitos constitucionais não foi analisada previamente pelo Tribunal de origem, apesar da oposição de embargos declaratórios. Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Com a oposição dos aclaratórios, a parte busca somente rediscutir à falta da tríplice identidade para o reconhecimento da coisa julgada.
+Conforme constou na decisão embargada, não se constatou a identidade de pedido e causa de pedir em relação ao decidido no Agravo de Instrumento nº 560.668.4/7-00. Nesse agravo, inclusive, foi afirmada a possibilidade de declaração de ineficácia em ação revocatória, conforme o art. 130 da Lei n. 11.101/2005, o que se aplica ao presente caso.
+Ausentes os mencionados vícios, não compete a esta Corte o exame de suposta ofensa a dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Ademais, é incabível a utilização de embargos de declaração para prequestionar matéria constitucional, a fim de permitir a interposição de recurso extraordinário. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. EXAME DE TEMA CONSTITUCIONAL, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. INVIABILIDADE. RECURSO DE CARÁTER MERAMENTE INFRINGENTE. AUSÊNCIA DOS REQUISITOS DO ART. 1.022 DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. No presente caso, verifica-se a ausência dos vícios previstos no art. 1.022 do CPC, revelando, a interposição dos presentes embargos de declaração, mero inconformismo da parte embargante.
+2. A ocorrência de um dos vícios previstos no art. 1.022 do CPC/2015 é requisito de admissibilidade dos embargos de declaração, razão pela qual a mera pretensão de prequestionamento de matéria constitucional não possibilita a sua oposição" (EDcl no REsp n. 1.610.728/RS, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 18/2/2020, DJe 20/2/2020).
+3. Não cabe a esta Corte Superior manifestar-se, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.829.006/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Dessa forma, não se constata nenhuma das hipóteses de cabimento dos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+É como voto.
