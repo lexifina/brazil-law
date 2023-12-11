@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"Ação rescisória. Previdência privada. Parcela cesta alimentação. Prefaciai de inépcia da inicial rejeitada. Mérito. Alteração de posicionamento. Alegação de erro de fato e de violação à literal dispositivo de lei. Inocorrência. Ausência das hipóteses autorizadoras da ação rescisória. Mudança de entendimento jurisprudencial não dá azo ao ajuizamento da rescisória. Impossibilidade de violação à coisa julgada e à segurança jurídica. Inteligência do art. 966 do CPC. Entendimento do STJ firmado no julgamento, pela Corte Especial, do EAResp nº 397.326/MG, assim como no julgamento da AR 5849. Ação rescisória improcedente" (fl. 361, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 390/399 e 401/409, e-STJ).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 485, V, do Código de Processo Civil de 1973 (artigo 966, V, do CPC)- porque no momento em que transitou em julgado o processo de conhecimento, 11.12.2014, a jurisprudência do Superior Tribunal de Justiça já estava consolidada em sentido diverso, tendo o julgamento do REsp nº 1.425.326/RS, submetido ao rito dos recursos repetitivos, se dado em 31.7.2014. Cita julgados em abono a sua tese, e
+(ii) art. 485, IX, do CPC/1973 (966, VIII, do CPC) - porque o acórdão rescindendo incorreu em erro de fato, afirmando que a verba cesta-alimentação teria natureza indenizatória, quando, na realidade, tem caráter remuneratório.
+Requer o provimento do recurso especial para que a ação rescisória seja julgada procedente.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Cumpre assinalar, em primeiro lugar, que no acórdão recorrido não está consignada a data em que foi julgado o aresto rescindendo, marco para definição da incidência da Súmula nº 343/STJ, não tendo a recorrente apontado violação do artigo 1.022 do CPC, o que atrai a incidência da Súmula nº 211/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. AUXÍLIO-CESTA-ALIMENTAÇÃO. TEMA PACIFICADO À ÉPOCA. ENTENDIMENTO. ALTERAÇÃO. VIOLAÇÃO LITERAL DE LEI. AFASTAMENTO. SÚMULA Nº 343/STF. ADVOGADOS. LEGITIMIDADE PASSIVA AD CAUSAM. INEXISTÊNCIA.
+1. A violação de literal disposição de lei que autoriza o ajuizamento de ação rescisória é aquela que enseja flagrante transgressão do direito em tese. A pacificação da jurisprudência em sentido contrário e em momento posterior à prolação do acórdão rescindendo não afasta a incidência da Súmula nº 343/STF.
+Precedentes.
+2. O momento a ser considerado como de pacificação jurisprudencial, para efeito de incidência da Súmula nº 343/STF, é o da publicação da decisão rescindenda, não do seu trânsito em julgado.
+3. A Segunda Seção do Superior Tribunal de Justiça, ao julgar a AR nº 5.160/RJ, adotou o entendimento de que os advogados não possuem legitimidade passiva para integrar ação rescisória, pois não detêm vínculo jurídico com o objeto litigioso do processo do qual se originou a sentença rescindenda, ostentando apenas interesse reflexo na sua manutenção.
+4. Agravo interno não provido".
+(AgInt no AgInt no AREsp nº 2.223.699/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA FUNDADA EM VIOLAÇÃO LITERAL A ARTIGO DE LEI E EM ERRO DE FATO. AUXÍLIO-CESTA-ALIMENTAÇÃO. EXTENSÃO AOS INATIVOS. CONVENÇÃO COLETIVA DE TRABALHO. COMPLEMENTAÇÃO DE APOSENTADORIA. ORIENTAÇÃO DO STJ PACIFICADA NOS TERMOS DO ART. 543-C DO CPC/1973. NATUREZA INDENIZATÓRIA. NÃO INCORPORAÇÃO. IMPOSSIBILIDADE DE RESCISÃO DO ACÓRDÃO QUE DETERMINOU A INCLUSÃO DESSA VERBA NO BENEFÍCIO PREVIDENCIÁRIO DOS ORA RECORRIDOS. PACIFICAÇÃO APÓS A PUBLICAÇÃO DO ARESTO RESCINDENDO. DESCABIMENTO DA AÇÃO RESCISÓRIA. SÚMULA 343/STF. ERRO DE FATO NÃO EVIDENCIADO. ILEGITIMIDADE PASSIVA DO ADVOGADO DA PARTE NO FEITO ORIGINÁRIO. AUTONOMIA DA VERBA HONORÁRIA EM RELAÇÃO AO MÉRITO DA DEMANDA. AGRAVO INTERNO IMPROVIDO.
+1. A atual jurisprudência da Segunda Seção está consolidada no sentido de não admitir o ajuizamento de ação rescisória se, no momento da prolação do acórdão rescindendo, havia divergência jurisprudencial a respeito da interpretação da referida legislação, nos estritos limites da Súmula n. 343/STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais".
+2. Nesse contexto, para fins da incidência da Súmula n. 343/STF, o momento a ser considerado como de pacificação jurisprudencial é aquele em que proferida a decisão rescindenda, e não a data de seu trânsito em julgado. Assim sendo, considerando que, no caso, a alteração do posicionamento jurisprudencial a respeito do tema controvertido - impossibilidade da inclusão do auxílio cesta-alimentação na complementação de aposentadoria - foi posterior à manifestação judicial que se pretende modificar, não é viável o manejo da rescisória.
+2.1. Não há erro de fato capaz de justificar a propositura de ação rescisória quando a questão foi devidamente debatida na ação originária.
+3. O advogado em favor de quem foram arbitrados honorários sucumbenciais na ação rescindenda é parte ilegítima para figurar no polo passivo da ação rescisória.
+4. Agravo interno improvido"
+(AgInt no AREsp nº 1.857.848/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/10/2021, DJe de 14/10/2021 - grifou-se)
+De todo modo, a data do trânsito em julgado da decisão na fase de conhecimento não é relevante para verificar o cabimento da ação rescisória sob a alegação de prévia consolidação do entendimento jurisprudencial, conforme alega a recorrente.
+Acrescente-se a isso, que o erro de fato que autoriza a rescisão do julgado é aquele acerca do qual não houve controvérsia, nem pronunciamento judicial (artigo 966, § 1º, do CPC).
+Nessa linha:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI. ERRO DE FATO. NÃO CONFIGURAÇÃO. EFETIVA DISCUSSÃO A RESPEITO DA NATUREZA DA VERBA NO PROCESSO ORIGINÁRIO. INCIDÊNCIA DO ARTIGO 966, INCISO V E VIII DO CPC. PRECEDENTES. ILEGITIMIDADE PASSIVA DO ADVOGADO DO AUTOR DA SENTENÇA RESCINDENDA. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Não é cabível ação rescisória fundada no art. 966, V e VIII, do CPC, em decorrência de alteração jurisprudencial posterior, quanto à inviabilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria pagos por entidade previdência privada.
+2. Para que a ação rescisória, fundada no art. 966, V e VIII, do CPC, ou seja, violação literal de disposição de lei ou erro de fato, seja cabível é necessário que a decisão tenha admitido um fato inexistente ou tenha o tenha considerado efetivamente ocorrido, e também que não tenha havido controvérsia nem pronunciamento judicial quanto à sua natureza.
+3. Havendo efetiva discussão sobre a natureza jurídica do auxílio denominado cesta-alimentação, quanto a se seu caráter era de natureza remuneratória ou indenizatória, há que se afastar a alegação de que houve "erro de fato", para fins da aplicação do art. 966, VIII, do CPC.
+4. No julgamento da Ação Rescisória n. 5.160/RJ, a Segunda Seção do STJ perfilhou o entendimento de que advogados não têm legitimidade passiva para integrar ação rescisória, pois não têm vínculo jurídico com o objeto litigioso do processo do qual se originou a sentença rescindenda. Logo, ostentam interesse apenas reflexo na manutenção daquela decisão.
+5. Agravo interno não provido"
+(AgInt no AREsp n. 2.038.299/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 6/4/2022 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. AUXÍLIO CESTA-ALIMENTAÇÃO. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI. SÚMULAS N. 343 DO STF E 83 DO STJ. ERRO DE FATO. ART. 966, § 1º, DO CPC. NÃO CARACTERIZAÇÃO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência do STJ adota o entendimento consolidado na Súmula n. 343 do STF, segundo a qual, "não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais". E, para aferir se a matéria era controvertida ao tempo do julgamento, a data a ser considerada é a de sua prolação - não a do trânsito em julgado. Aplicação da Súmula n. 83 do STJ.
+2. Os fundamentos do acórdão recorrido apontam o anterior exame da natureza jurídica do auxílio cesta-alimentação, o que se afigura suficiente para obstar o conhecimento da ação rescisória por erro de fato, ante a previsão do § 1º do art. 966 do CPC/2015. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos".
+(AgInt no AREsp n. 1.803.649/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/5/2021, DJe de 28/5/2021)
+No caso do pagamento do benefício cesta-alimentação, a verificação acerca da sua natureza era o objeto central do debate nas lides em que se buscava o seu recebimento, de modo que não é possível falar em erro de fato no ponto.
+Incide, na espécie, a Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 2.500,00 (dois mil e quinhentos reais) para cada procurador distinto, atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
