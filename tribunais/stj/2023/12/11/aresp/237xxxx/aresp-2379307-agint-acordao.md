@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  182/STJ.
+1.  O  recurso  foi  interposto  sob  a  vigência  do  Código  de  Processo  Civil  de  2015,  razão  por  que  deve  ser  observado  o  Enunciado  Administrativo  n.  3/STJ:
+"Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  Novo  CPC".
+2.  Caso  no  qual  a  decisão  agravada não conheceu do agravo em razão do óbice contido na Súmula n. 284/STF. Contudo, nas razões do agravo interno, o agravante não impugnou, de forma específica, o fundamento da decisão agravada.
+3.  A  falta  de  impugnação  específica  dos  fundamentos  da  decisão  agravada  inviabiliza  o  conhecimento  do  agravo  interno,  nos  termos  do  art.  1021,  §  1º,  do  CPC/2015.  Incidência  da  Súmula  182/STJ:  "É  inviável  o  agravo  do  art. 545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada."
+4.  Agravo  interno  não  conhecido.
+RELATÓRIO
+O  EXMO.  SENHOR  MINISTRO  BENEDITO  GONÇALVES  (Relator):  Trata-se  de  agravo  interno  interposto  contra  decisão  da Presidência desta Corte,  que  não conheceu do agravo em razão do óbice contido na Súmula n. 284/STF (e-STJ fls. 266-267).
+O  agravante  alega  o  que  segue (fls.  272-274):
+Ao longo de toda a tramitação do processo, desde sua primeira intervenção, a agravante vem arguindo a questão relativa ao interesse jurídico da CEF, empresa pública federal, a quem incumbe a administração do Fundo de Variação de Compensações Salariais, sub conta que responde pelas apólices públicas do seguro habitacional do Sistema Financeiro da Habitação (SH/SFH).
+Em todas as manifestações da agravante no que concerne à competência do juízo, foram abordados os temas das leis 12.409 de 2011 e 13.000 de 2014, referidas normas obrigaram a CEF a intervir em todas as ações que tem como causa de pedir, o seguro habitacional do sistema financeiro da habitação.
+Não obstante, prevaleceu a jurisprudência dessa Corte, repetitivo RESP 1.091.363-SC, já superada pelo TEMA 1011, do STF.
+Não há, mais a necessidade de comprovação de comprometimento do FCVS, se a apólice for pública (e ela é) e a CEF requerer seu ingresso, a competência será da Justiça Federal (art. 109, I, da CF).
+Essa, portanto, é a premissa, as leis supracitadas dispõem sobre a intervenção obrigatória de CEF e, por corolário, a competência da justiça federal, mas o Tribunal assim não entendeu, de modo que restou completamente demonstrada e fundamentada, nas razões de recurso especial, em que termos se deu a negativa de vigência à lei federal.
+Somente em caso de falência irremediável das sinapses, se poderia cogitar que a fundamentação do recurso foi deficitária. Posto isto, tem-se que o presente recurso reúne os requisitos necessários para admissão e provimento.
+Assim, à vista das razões que vieram de ser expendidas, pugna a agravante pelo integral provimento recurso, a fim de que o mesmo seja conhecido, regularmente processado e, ao final provido, por deliberação colegiada, para os fins de reformar a decisão para que seja reconhecida a competência da Justiça Federal e ingresso da CEF na lide, por ser esta medida de direito que se impõe.
+Ao final, requer seja reconsiderada a decisão agravada ou,  caso assim não se entenda, seja o agravo interno apreciado no âmbito do órgão colegiado.
+Sem  impugnação.
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  182/STJ.
+1.  O  recurso  foi  interposto  sob  a  vigência  do  Código  de  Processo  Civil  de  2015,  razão  por  que  deve  ser  observado  o  Enunciado  Administrativo  n.  3/STJ:
+"Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  Novo  CPC".
+2.  Caso  no  qual  a  decisão  agravada não conheceu do agravo em razão do óbice contido na Súmula n. 284/STF. Contudo, nas razões do agravo interno, o agravante não impugnou, de forma específica, o fundamento da decisão agravada.
+3.  A  falta  de  impugnação  específica  dos  fundamentos  da  decisão  agravada  inviabiliza  o  conhecimento  do  agravo  interno,  nos  termos  do  art.  1021,  §  1º,  do  CPC/2015.  Incidência  da  Súmula  182/STJ:  "É  inviável  o  agravo  do  art. 545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada."
+4.  Agravo  interno  não  conhecido.
+VOTO
+O  EXMO.  SENHOR  MINISTRO  BENEDITO  GONÇALVES  (Relator):  O  recurso  foi  interposto  sob  a  vigência  do  Código  de  Processo  Civil  de  2015,  razão  por  que  deve  ser  observado  o  Enunciado  Administrativo  n.  3/STJ:  "Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  Novo  CPC".
+A  Presidência  desta  Corte  Superior não conheceu do agravo do agravo com supedâneo na Súmula n. 284/STF,  tendo  por  base  a  seguinte  fundamentação:  (e-STJ fl.  266):
+Mediante análise do recurso de BRADESCO SEGUROS S/A, verifica-se que incide o óbice da Súmula n. 284/STF uma vez que há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/3/2020.)
+Como  se  verifica,  o  agravante  não  impugnou,  especificamente,  os  fundamentos  da  decisão  agravada,  visto  que  se  limitou  a  devolver argumentação voltada para a questão de fundo.
+Assim,  aplica-se  ao  caso  o  disposto  no  art.  1.021,  §  1º,  do  CPC/2015,  ante  o  descumprimento  do  ônus  da  dialeticidade,  de  forma  que  incide  à  hipótese  a  Súmula  182/STJ:  "É  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".
+Nesse sentido:
+ADMINISTRATIVO.  AGRAVO  INTERNO  EM  EMBARGOS  DE  DIVERGÊNCIA  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  VIOLAÇÃO  AO  ART.  1021,  §  1º  DO  CPC/2015.  SÚMULA  182  DO  STJ.
+1.  A  decisão  agravada  indeferiu  liminarmente  os  embargos  de  divergência,  à  consideração  de  que  o  acórdão  embargado  concluiu  pela  impossibilidade  de  se  analisar  o  mérito  do  recurso  especial  em  razão  da  ausência  de  impugnação  específica  a  todos  os  fundamentos  da  decisão  agravada.  Tal  situação  impede,  por  si  só,  o  conhecimento  desta  via  de  impugnação,  pois  não  se  admite  a  interposição  de  embargos  de  divergência  na  hipótese  de  não  ter  sido  analisado  o  mérito  do  recurso  especial,  a  teor  da  Súmula  n.  315  desta  Corte  Superior:  "Não  cabem  embargos  de  divergência  no  âmbito  do  agravo  de  instrumento  que  não  admite  recurso  especial"  (fl.  1164  e-  STJ).
+2.  No  presente  agravo  interno,  por  sua  vez,  o  agravante  se  limitou  a  reiterar  a  tese  articulada  nos  embargos  de  divergência  opostos.
+3.  A  falta  de  impugnação  específica  dos  fundamentos  da  decisão  agravada  inviabiliza  o  conhecimento  do  agravo  interno,  nos  termos  do  art. 1021,  §  1º,  do  CPC/2015.  Incidência  da  Súmula  182/STJ:  "É  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada."
+4.  Agravo  interno  não  conhecido (AgInt  nos  EAREsp  n.  1.898.298/RJ,  relator  Ministro  Mauro  Campbell  Marques,  Corte  Especial,  DJe  de  28/4/2023).
+ PROCESSUAL  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.AGRAVO  INTERNO.  AUSÊNCIA  DE  IMPUGNAÇÃO  À  FUNDAMENTAÇÃO.  SÚMULA  N.  182  DO  STJ.
+I  -  Na  origem,  trata-se  de  recurso  de  apelação  objetivando  a  majoração  dos  honorários  advocatícios  fixados  por  sentença.  No  Tribunal  de  origem,  negou-se  provimento  ao  recurso.
+Nesta  Corte,  não  se  conheceu  do  recurso  especial  ante  a  incidência  do  Enunciado  n.  7  da  Súmula  do  STJ,  bem  como  foi  negado  provimento  ao  agravo  interno.
+Os  embargos  de  divergência  foram  liminarmente  indeferidos.
+II  -  A  decisão  recorrida,  que  indeferiu  liminarmente  os  embargos  de  divergência,  considerou  o  entendimento  jurisprudencial  desta  Corte  no  sentido  de  ser  inadmissível  o  referido  recurso,  quando  existente  apenas  diferenças  casuísticas  na  fixação  do  valor  dos  honorários  advocatícios.
+III  -  Por  outro  lado,  em  seu  agravo  interno,  a  parte  agravante  traz  alegações  dissociadas  da  decisão  recorrida,  referentes  à  matéria  de  mérito  do  recurso  especial,  que  nem  sequer  chegou  a  ser  analisada.
+IV  -  É  entendimento  desta  Corte  que  não  se  conhece  do  agravo  interno  que  não  impugna  os  fundamentos  da  decisão  recorrida.  Incidência  do  enunciado  n.  182  da  Súmula  do  STJ.
+V  -  Agravo  interno  não  conhecido  (AgInt no EAREsp 1198210/DF,  relator Ministro Francisco  Falcão,  Corte  Especial,  DJe  26/3/2021).
+Ante  o  exposto,  não conheço conheço do agravo interno.
+É  como  voto.
