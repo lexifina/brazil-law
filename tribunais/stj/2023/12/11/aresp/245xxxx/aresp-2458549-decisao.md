@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CONDOMÍNIO JARDINS DA CIDADE CONDOMINIO CLUBE, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/02/2023.
+Concluso ao gabinete em: 14/11/2023.
+Ação: de obrigação de fazer ajuizada por CONDOMÍNIO JARDINS DA CIDADE CLUBE, ora agravante, em face de CONSTRUTORA E INCORPORADORA FALEIROS LTDA, KALLAS INCORPORAÇÕES E CONSTRUÇÕES S/A e STAN INCORPORADORA.
+Sentença: julgou parcialmente procedentes os pedidos formulados na inicial.
+Acórdão: deu parcial provimento à apelação das agravadas KALLAS/STAN e negou provimento à apelação da agravada FALEIROS, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE FAZER.
+1.- Recurso da KALLAS/STAN. Ilegitimidade passiva. Não acolhimento. Incorporadora que está na cadeia de consumo. Precedentes. Inépcia da petição inicial. Inexistentes vícios indicados. Peça, ainda, incluída do levantamento técnico, permitindo-se o exercício da ampla defesa e do contraditório. Prescrição. Decurso do prazo do art. 205 do Código Civil não operado. Superação do prazo de garantia para a correção dos vícios. Decurso que não impede a pretensão, bastando a comprovação dos danos indicados. Conteúdos que interessam, apenas, pela análise do ônus probatório. Renúncia à reparação dos defeitos construtivos. Inexistência. Aceitação do imóvel que não impede o questionamento subsequente. Condenação solidária de todas as empresas. Necessária correção do mencionado decreto. Kallas e Stan, construtora e incorporadora, que respondem solidariamente. Precedentes. Empresas, no entanto, solidariamente responsáveis pela fase 2, não respondendo pelos danos encontrados nas torres edificadas pela corré Faleiros (fase 1). Efetiva separação dos imóveis, não importando em solidariedade quando os danos de alguns não são resultantes da atividade construtiva estabelecida em outros. Falta, neste caso, de necessária concorrência para os danos de cada imóvel/fase, ainda que indiretamente.
+2.- Recurso da FALEIROS. Cerceamento de defesa. Possibilidade, no entanto, do julgamento da demanda sem a dilação probatória. Demanda instruída com o laudo pericial estabelecido em medida judicial preparatória. Questionamentos do trabalho que não são prevalecentes. Falta de manutenção. Reportada culpa exclusiva do condomínio. Não acolhimento. Conteúdo esclarecido no levantamento técnico. Sentença, ainda, que se limitou à condenação segundo os danos atribuídos às empresas, afastando-se aqueles próprios à desídia do apelado. Verbas de sucumbência. Correta atribuído do ônus às corrés. Emprego do art. 86, par. único, do CPC. Honorários de sucumbência arbitrados em 15% do valor atribuído à causa. Preservação. Percentual previsto no art. 85 do CPC. Falta de projeção econômica, a esta altura, superada.
+RECURSO DA KALLAS/STAN PARCIALMENTE ACOLHIDO, DESPROVENDO-SE O APELO DA FALEIROS. (e-STJ fls. 3135/3136)
+Embargos de Declaração: opostos pela agravada FALEIROS e pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.007, § 2º, 1.022, I e II, do CPC; 7º, parágrafo único, 25, § 1º e 34 do CDC; 31, § §2º e 3º, da Lei n. 4.591/64.
+Além de negativa de prestação jurisdicional, sustenta insuficiência do preparo recolhido sem que as recorridas tenham sido intimadas para supri-lo. Dessa forma, não poderia ter sido proferido julgado sem a satisfação do requisito de admissibilidade recursal.
+Aduz solidariedade da agravada STAN com as construtoras arroladas no polo passivo da demanda (Faleiros e Kallas). Justifica que, sendo incorporadora, estaria no topo da cadeia de fornecimento. Ademais, haveria determinação expressa de solidariedade do responsável pelos atos de incorporação. Portanto, a agravada STAN responderia ainda que não tenha assumido diretamente a execução da obra.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do preparo insuficiente
+Na hipótese, o Tribunal a quo consignou:
+Vale dizer, ainda, que a petição promoveu referência ao trabalho técnico elaborado na ação judicial anterior, cujo conhecimento é de todos os litigantes, dele se permitindo, assim, o detalhamento fático inerente à demanda, razão pela qual se permitiu o exercício da ampla defesa e do contraditório, não havendo os vícios apresentados.
+Exige-se das apelantes, depois, a complementação do preparo recolhido, observando-se, para tanto, a certidão de fls. 3125/3126. Superadas estas questões, acolhe-se, em pequena parte, o recurso da KALLAS e STAN. (e-STJ fl. 3140)
+E ainda em julgamento dos embargos de declaração:
+2.- Nada a prover.
+Com efeito.
+O embargante, quando reivindica na nulidade do julgado, não se conforma com a autorização para que a parte embargada complemente o preparo. Isso porque, tratando-se de diferença que o embargante sequer fez referência em suas contrarrazões, necessário considerar a boa-fé da parte embargada, observando-se que a diferença entre o preparo devido e aquele efetivamente recolhido é resultante de simples correção monetária, o que torna plenamente possível a complementação as quantias, na forma decidida às fls. 3140: "Exige-se das apelantes, depois, a complementação do preparo recolhido, observando-se, para tanto, a certidão de fls. 3125/3126". (e-STJ fl. 3234)
+In casu, constata-se que as agravadas recolheram a menor o preparo vinculado às apelações que interpuseram, no entanto o feito teria sido julgado antes que fosse oportunizada a complementação dos valores devidos. Por conseguinte, haveria o descumprimento do requisito de admissibilidade do recurso.
+Nos termos do art. 1.007, caput e § 2º, do CPC:
+No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias.
+Dessarte, se o valor recolhido foi insuficiente, como na hipótese, a lei prevê aos recorrentes que seja oportunizada a complementação, no prazo de 5 dias, sob pena de deserção.
+Ressalta-se que, sendo vício formal, não pode ser suprido pelo julgamento do recurso. Em outras palavras, não se pode admitir que a apelação seja julgada para só então se exigir dos recorrentes o complemento do respectivo preparo.
+Ante o exposto, com base no disposto no art. 1.007, caput e § 2º, do CPC, o acórdão recorrido deve ser anulado, na medida em que não foram observadas a contento as exigências legais para admissão da peça recursal.
+Ficam, em consequência, prejudicadas as demais questões deduzidas pelo recorrente, bem como o exame do agravo em recurso especial interposto por CONSTRUTORA E INCORPORADORA FALEIROS (e-STJ fls. 3387/3409).
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja viabilizada a regularidade do preparo antes do julgamento de recurso interposto.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.007,CAPUT e 2º, DO CPC. PREPARO INSUFICIENTE. JULGAMENTO DO RECURSO. ACÓRDÃO ANULADO. RETORNO DOS AUTOS À ORIGEM.
+1. Ação de obrigação de fazer.
+2. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+3. A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido para determinar o retorno dos autos ao Tribunal de origem.
