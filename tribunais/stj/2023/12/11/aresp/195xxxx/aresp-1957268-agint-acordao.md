@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  RESCISÓRIA.  PREVIDÊNCIA  PRIVADA.  AUXÍLIO-CESTA-ALIMENTAÇÃO.  TEMA  PACIFICADO  À  ÉPOCA.  ENTENDIMENTO.  ALTERAÇÃO.  VIOLAÇÃO  LITERAL  DE  LEI.  AFASTAMENTO.  SÚMULA  Nº  343/STF.
+1.  A  violação  de  literal  disposição  de  lei  que  autoriza  o  ajuizamento  de  ação  rescisória  é  aquela  que  enseja  flagrante  transgressão  do  direito  em  tese.  A  pacificação  da  jurisprudência  em  sentido  contrário  e  em  momento  posterior  à  prolação  do  acórdão  rescindendo  não  afasta  a  incidência  da  Súmula  nº  343/STF.  Precedentes.
+2.  O  momento  a  ser  considerado  como  de  pacificação  jurisprudencial,  para  efeito  de  incidência  da  Súmula  nº  343/STF,  é  o  da  publicação  da  decisão  rescindenda.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CAIXA  DE  PREVIDÊNCIA  DOS  FUNCIONÁRIOS  DO  BANCO  DO  BRASIL  contra  a  decisão  que,  em  juízo  de  reconsideração,  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial  com  base  nos  seguintes  fundamentos  ( e-STJ  fls.  752/756):
+(i)  incidência  da  Súmula  nº  343/STF,  visto  que  a  alteração  jurisprudencial  quanto  à  impossibilidade  de  inclusão  do  auxílio-cesta-alimentação  nos  proventos  de  complementação  da  aposentadoria  pagos  por  entidade  fechada  de  previdência  privada  não  autoriza  a  propositura  de  ação  rescisória,  e
+(ii)  se  houve  controvérsia  acerca  do  fato  na  demanda  primitiva,  a  hipótese  é  de  erro  de  julgamento,  e  não  de  erro  de  fato.
+Nas  presentes  razões  (e-STJ  fls.  758/764),  a  agravante  alega  a  inexistência  de  entendimento  consolidado  a  respeito  da  viabilidade  da  ação  rescisória  como  no  presente  caso.
+Sustenta  que  a  Súmula  nº  343/STF  deve  ser  relativizada  a  fim  de  admitir  a  ação  rescisória,  sob  pena  de  se  prestigiar  entendimento  diverso  à  jurisprudência  pacificada  nas  Cortes  Superiores,  sobretudo  se  houver  precedente  qualificado  quanto  ao  tema.
+Afirma  ser  irrelevante  verificar  a  data  de  prolação  da  decisão  rescindenda  ou  a  data  de  seu  trânsito  em  julgado,  pois  "(..)  eventual  argumento  temporal  (..)  afasta  a  precípua  função  desta  Corte,  no  sentido  da  Uniformização  da  Jurisprudência  versando  sobre  matéria  infraconstitucional"  (e-STJ  fl.  764).
+Defende  que  no acórdão  rescindendo não houve discussão  acerca  da  natureza  do  auxílio-cesta-alimentação.
+Ao  final,  requer  o  provimento  do  recurso.
+Devidamente  intimada,  a  parte  contrária  não  apresentou  impugnação  (e-STJ  fl.  769).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  RESCISÓRIA.  PREVIDÊNCIA  PRIVADA.  AUXÍLIO-CESTA-ALIMENTAÇÃO.  TEMA  PACIFICADO  À  ÉPOCA.  ENTENDIMENTO.  ALTERAÇÃO.  VIOLAÇÃO  LITERAL  DE  LEI.  AFASTAMENTO.  SÚMULA  Nº  343/STF.
+1.  A  violação  de  literal  disposição  de  lei  que  autoriza  o  ajuizamento  de  ação  rescisória  é  aquela  que  enseja  flagrante  transgressão  do  direito  em  tese.  A  pacificação  da  jurisprudência  em  sentido  contrário  e  em  momento  posterior  à  prolação  do  acórdão  rescindendo  não  afasta  a  incidência  da  Súmula  nº  343/STF.  Precedentes.
+2.  O  momento  a  ser  considerado  como  de  pacificação  jurisprudencial,  para  efeito  de  incidência  da  Súmula  nº  343/STF,  é  o  da  publicação  da  decisão  rescindenda.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Como  consignado  na  decisão  atacada,  a  Segunda  Seção  deste  Tribunal  Superior  adotou  o  entendimento  de  que  a  pacificação  da  jurisprudência  em  sentido  contrário  e  em  momento  posterior  à  prolação  do  acórdão  rescindendo  não  afasta  a  incidência  da  Súmula  nº  343/STF,  sendo  descabida,  nessas  hipóteses,  a  ação  rescisória  ajuizada  com  base  na  violação  de  literal  disposição  de  lei.
+A propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  AGRAVO  EM  RECURSO  ESPECIAL.  PREVIDÊNCIA  PRIVADA  COMPLEMENTAR.  AÇÃO  RESCISÓRIA.  ACÓRDÃO  RESCINDENDO  PROFERIDO  QUANDO  HAVIA  DIVERGÊNCIA  JURISPRUDENCIAL  QUANTO  À  MATÉRIA.  SÚMULA  Nº  343  DO  STF.  ACÓRDÃO  EMBARGADO  NO  MESMO  SENTIDO  DA  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  Nº  168  DO  STJ.  AGRAVO  NÃO  PROVIDO.
+1.  Os  embargos  de  divergência  visam  harmonizar  precedentes  conflitantes  proferidos  em  Turmas  distintas  em  julgamentos  de  recurso  especial  ou  em  agravo  que  tenham  analisado  o  mérito  do  recurso  inadmitido  pelo  Tribunal  de  origem.
+2.  O  acórdão  embargado  está  em  consonância  com  a  jurisprudência  atual  do  STJ  no  sentido  de  ser  inviável  a  ação  rescisória  com  o  objetivo  de  desconstituir  a  coisa  julgada  a  fim  de  supostamente  adequá-la  à  nova  orientação  jurisprudencial  sobre  a  inclusão  de  auxílio  cesta-alimentação  nos  proventos  de  complementação  de  aposentadoria  pagos  por  entidade  fechada  de  previdência  privada.
+3.  Essa  nova  orientação  jurisprudencial  foi  firmada  pela  Corte  Especial  no  julgamento  do  EAREsp  397.326/MG,  na  sessão  de  julgamento  de  19/10/2016  e,  desde  então,  vem  sendo  observada  por  todas  as  Turmas  do  Superior  Tribunal  de  Justiça.
+4.  Agravo  interno  não  provido".
+(AgInt  nos  EAREsp  2.149.969/RS,  Relator  Ministro  MOURA  RIBEIRO,  Segunda  Seção,  julgado  em  20/6/2023,  DJe  de  22/6/2023).
+Também  não  prospera  a  alegação  de  que  deveria  ser  relativizada  a  incidência  da  Súmula  nº  343/STF.
+De  fato,  o  Supremo  Tribunal  Federal  firmou  entendimento  no  sentido  da  aplicabilidade  da  Súmula  nº  343/STF,  inclusive  quando  a  controvérsia  se  basear  na  aplicação  de  norma  constitucional,  não  servindo  a  ação  rescisória  como  instrumento  voltado  à  uniformização  de  jurisprudência  (AR  1.959  AgR,  Rel.  Ministro  Luiz  Fux,  DJe  25/3/2015  e  RE  nº  590.809/RS,  Repercussão  Geral,  Rel.  Ministro  Marco  Aurélio,  Tribunal  Pleno,  DJe  24/11/2014).
+No  caso,  conforme  destacado  na  origem,  a  decisão  rescindenda  interpretou  os  fatos  em  conformidade  com  a  jurisprudência  e  a  legislação  em  vigor  na  época,  isto  é,  seguiu  uma  dentre  as  interpretações  possíveis  para  a  legislação  apontada  como  violada,  de  modo  que  é  inviável  a  ação  rescisória  (Súmula  nº  343/STF).
+Ademais,  cumpre  assinalar  que  o  momento  a  ser  considerado  como  de  pacificação  jurisprudencial,  para  efeito  de  incidência  da  Súmula  nº  343/STF,  é  o  da  publicação  da  decisão  rescindenda.
+Nesse sentido :
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  RESCISÓRIA  FUNDADA  EM  VIOLAÇÃO  LITERAL  A  ARTIGO  DE  LEI  E  EM  ERRO  DE  FATO.  AUXÍLIO-CESTA-ALIMENTAÇÃO.  EXTENSÃO  AOS  INATIVOS.  CONVENÇÃO  COLETIVA  DE  TRABALHO.  COMPLEMENTAÇÃO  DE  APOSENTADORIA.  ORIENTAÇÃO  DO  STJ  PACIFICADA  NOS  TERMOS  DO  ART.  543-C  DO  CPC/1973.  NATUREZA  INDENIZATÓRIA.  NÃO  INCORPORAÇÃO.  IMPOSSIBILIDADE  DE  RESCISÃO  DO  ACÓRDÃO  QUE  DETERMINOU  A  INCLUSÃO  DESSA  VERBA  NO  BENEFÍCIO  PREVIDENCIÁRIO  DOS  ORA  RECORRIDOS.  PACIFICAÇÃO  APÓS  A  PUBLICAÇÃO  DO  ARESTO  RESCINDENDO.  DESCABIMENTO  DA  AÇÃO  RESCISÓRIA.  SÚMULA  343/STF.  ERRO  DE  FATO  NÃO  EVIDENCIADO.  ILEGITIMIDADE  PASSIVA  DO  ADVOGADO  DA  PARTE  NO  FEITO  ORIGINÁRIO.  AUTONOMIA  DA  VERBA  HONORÁRIA  EM  RELAÇÃO  AO  MÉRITO  DA  DEMANDA.  AGRAVO  INTERNO  IMPROVIDO.
+1.  A  atual  jurisprudência  da  Segunda  Seção  está  consolidada  no  sentido  de  não  admitir  o  ajuizamento  de  ação  rescisória  se,  no  momento  da  prolação  do  acórdão  rescindendo,  havia  divergência  jurisprudencial  a  respeito  da  interpretação  da  referida  legislação,  nos  estritos  limites  da  Súmula  n.  343/STF:  "Não  cabe  ação  rescisória  por  ofensa  a  literal  disposição  de  lei,  quando  a  decisão  rescindenda  se  tiver  baseado  em  texto  legal  de  interpretação  controvertida  nos  Tribunais".
+2.  Nesse  contexto,  para  fins  da  incidência  da  Súmula  n.  343/STF,  o  momento  a  ser  considerado  como  de  pacificação  jurisprudencial  é  aquele  em  que  proferida  a  decisão  rescindenda,  e  não  a  data  de  seu  trânsito  em  julgado.  Assim  sendo,  considerando  que,  no  caso,  a  alteração  do  posicionamento  jurisprudencial  a  respeito  do  tema  controvertido  -  impossibilidade  da  inclusão  do  auxílio  cesta-alimentação  na  complementação  de  aposentadoria  -  foi  posterior  à  manifestação  judicial  que  se  pretende  modificar,  não  é  viável  o  manejo  da  rescisória.
+2.1.  Não  há  erro  de  fato  capaz  de  justificar  a  propositura  de  ação  rescisória  quando  a  questão  foi  devidamente  debatida  na  ação  originária.
+3.  O  advogado  em  favor  de  quem  foram  arbitrados  honorários  sucumbenciais  na  ação  rescindenda  é  parte  ilegítima  para  figurar  no  polo  passivo  da  ação  rescisória.
+4.  Agravo  interno  improvido".
+(AgInt  no  AREsp  1.857.848/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  11/10/2021,  DJe  de  14/10/2021).
+Desse  modo,  verifica-se  que  o  acórdão  recorrido  está  em  harmonia  com  a  orientação  jurisprudencial  pacífica  e  mais  recente  desta  Corte  Superior.
+Não  prosperam,  portanto,  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
