@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por JULIET TOME GOMES e DANILO CARLOS DOWNSELY SILVA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 002207645.2015.8.17.0001.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo (fls. 485-488).
+É o relatório. Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre, pois o aresto atacado estaria em descompasso com a jurisprudência desta Corte Superior de Justiça (Súmula n. 83/STJ) e implicaria em reexame de prova (Súmula n. 7/STJ).
+Todavia, a parte Agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência atual do Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+Na espécie, a parte Agravante cingiu-se a sustentar que "a jurisprudência dessa Corte Superior de Justiça é no sentido de que, à luz do art. 158, c/c art. 564, III, do CPP, nos crimes materiais, é indispensável a realização de exame de corpo delito, exceto quando, por haverem desparecido, não puder ser realizado, conforme dispõe o art. 167 do CPP", trazendo, para tanto, dois precedente: AgRg no MC 511.824/RJ, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 05/11/2019, Die 26/11/2019; MC 465.009/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/10/2018, DJe 08/11/2018.
+Contudo, o Tribunal de origem trouxe um julgamento mais recente, que segundo a Corte de origem, seria apto a fulminar a investida recursal: AgRg no AREsp 1642040 SP AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL 2020/0002393-0, Relator(a) Ministro RIBEIRO DANTAS (1181), Órgão Julgador, T5 - QUINTA TURMA, Data da Publicação/Fonte DJe 15/06/2020.
+A propósito:
+" ..
+3. Inadmitido o recurso especial com base na incidência da Súmula 83/STJ, incumbe à parte apontar julgados, deste Superior Tribunal, contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte Superior é diversa da do Tribunal a quo ou que não se encontra pacificada, ou mesmo demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+4. Agravo regimental improvido." (AgRg no AREsp n. 2.253.769/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+" ..
+3. Nos termos da jurisprudência desta Corte, "para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula" (AgInt no AREsp n. 2.224.460/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Dessa forma, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+5. Agravo regimental desprovido." (AgRg no AREsp n. 2.223.178/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+Por fim, esta Corte Superior de Justiça possui entendimento no sentido de que "a Súmula n. 83 do STJ se aplica tanto ao recurso especial fundado na alínea "c" quanto na "a", ambas do permissivo constitucional" (AgRg no AgRg no AREsp n. 1.600.882/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/5/2023, DJe de 31/5/2023.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE CONTEMPORANEIDADE DO PRECEDENTE. SÚMULA 83/STJ. AGRAVO NÃO CONHECIDO.
