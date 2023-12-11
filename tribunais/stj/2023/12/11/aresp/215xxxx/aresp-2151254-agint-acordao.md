@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  BEM  IMÓVEL.  LEILÃO.  AUTO  DE  AVALIAÇÃO.  CARTA  PRECATÓRIA.  INTIMAÇÃO.  CIÊNCIA  INEQUÍVOCA.  NULIDADE  PROCESSUAL.  AFASTAMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  AGRAVO  DE  INSTRUMENTO.  INOVAÇÃO.  IMPOSSIBILIDADE.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  No  caso  em  apreço,  não  subsiste  a  alegada  ofensa  ao  artigo  1.022  do  Código  de  Processo  Civil,  pois  o  tribunal  de  origem  enfrentou  as  questões  postas,  não  havendo  no  aresto  recorrido  omissão,  contradição,  obscuridade  ou  erro  material.
+2.  Na  hipótese  ,  rever  a  conclusão  do  acórdão  recorrido  quanto  à  validade  da  intimação  acerca  do  auto  de  avaliação  do  imóvel e à  impossibilidade  de  inovação  em  agravo  de  instrumento  demandaria  a  apreciação  do  conjunto  fático-probatório  do processo,  procedimento  inviável  em  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  de COROL  COOPERATIVA  AGROINDUSTRIAL  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento  (fls.  226/230  e-STJ).
+Em  suas  razões,  a  agravante  reitera  a  negativa  de  prestação  jurisdicional  na  origem  e  defende  a inaplicabilidade da  Súmula  nº  7/STJ.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Sem  impugnação  (fl.  259  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  BEM  IMÓVEL.  LEILÃO.  AUTO  DE  AVALIAÇÃO.  CARTA  PRECATÓRIA.  INTIMAÇÃO.  CIÊNCIA  INEQUÍVOCA.  NULIDADE  PROCESSUAL.  AFASTAMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  AGRAVO  DE  INSTRUMENTO.  INOVAÇÃO.  IMPOSSIBILIDADE.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  No  caso  em  apreço,  não  subsiste  a  alegada  ofensa  ao  artigo  1.022  do  Código  de  Processo  Civil,  pois  o  tribunal  de  origem  enfrentou  as  questões  postas,  não  havendo  no  aresto  recorrido  omissão,  contradição,  obscuridade  ou  erro  material.
+2.  Na  hipótese  ,  rever  a  conclusão  do  acórdão  recorrido  quanto  à  validade  da  intimação  acerca  do  auto  de  avaliação  do  imóvel e à  impossibilidade  de  inovação  em  agravo  de  instrumento  demandaria  a  apreciação  do  conjunto  fático-probatório  do processo,  procedimento  inviável  em  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Conforme  consta  da  decisão  atacada,  no  tocante  à  alegada  negativa  de  prestação  jurisdicional,  agiu  corretamente  o  tribunal  de  origem  por  inexistir  omissão,  contradição,  obscuridade  ou  erro  material  no  acórdão  embargado,  ficando  patente,  em  verdade,  o  intuito  infringente  da  irresignação,  que  objetivava  a  reforma  do  julgado  por  via  inadequada.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  ACIDENTE  DE  TRÂNSITO.  ARTIGO  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  VIOLAÇÃO.  AUSÊNCIA.  VALOR.  INDENIZAÇÃO.  NECESSIDADE.  REEXAME.  SÚMULA  Nº  7/STJ.  DISSÍDIO.  NÃO  CONFIGURAÇÃO.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  quanto  ao  valor  da  indenização  por  danos  morais  sem  a  análise  de  fatos  e  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+4.  A  aplicação  da  súmula  do  Superior  Tribunal  de  Justiça  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  matéria  indicada  no  dissídio  jurisprudencial.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.089.520/SC,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  12/12/2022,  DJe  de  16/12/2022).
+
+No  que  diz  respeito  à  alegação de  ausência  de  intimação,  a  Corte  local  assim dispôs:
+"(..)
+Como  se  pode  observar,  da  análise  do  andamento  do  feito  no  âmbito  dos  autos  da  carta  precatória,  observa-se  que  somente  deste  ato  é  que  houve  a  expedição  de  intimação  em  favor  da  executada  (mov.  26),  (mov.  31),  o  que  ensejou  a  oposição  dos  embargos  de  declaração  em  cuja  leitura  ocorreu  em  27/11/2019  04/12/2019  (mov.  35)  e  o  pronunciamento  judicial  de  mov.  46  que,  embora  tenha  rejeitado  os  aclaratórios,  acabou  por  apreciar  a  questão  da  nulidade.
+De  outro  lado,  no  entanto,  da  análise  dos  autos  de  origem,  sob  nº  5502-77.2014.8.16.0075,  observa-se  que  a  executada  teve  ciência  ainda  em  momento  anterior  acerca  do  auto  de  avaliação.
+Neste  feito,  a  referida  avaliação  foi  acostada  no  mov.  350.  Somente  houve  expedição  de  intimação  ao  exequente  (mov.  351),  que  se  pronunciou  pela  designação  de  leilão  (mov.  353.1).
+Antes  de  apreciar  o  pedido,  o  Magistrado  determinou  que  se  aguardasse  o  decurso  do  prazo  da  parte  executada  para  se  manifestar  sobre  a  avaliação  (mov.  355.1),  em  que  pese  não  ter  sido  expedida  intimação.
+Outro  ofício  referente  a  leilão  de  bens  móveis  foi  juntado  no  mov.  357,  ocasião  em  que  foi  expedida  intimação  tanto  para  o  exequente,  quanto  executada  (mov.  360),  cuja  leitura  por  esta  se  deu  em  01/03/2019  (mov.  369).  Nesta  ocasião,  portanto,  tem-se  que  a  executada  teve  ciência  inequívoca  de  todos  os  atos  processuais  praticados  até  o  momento,  inclusive  a  juntada  do  auto  de  avaliação  no  mov.  350,  em  01/02/2019,  o  que  supre  eventual  nulidade  ou  ausência  de  intimação  do  auto  de  avaliação.
+(..)
+Ademais,  para  complementar,  verifica-se  que  no  mov.  381.1  o  douto  Magistrado  deferiu  o  pedido  de  designação  de  leilão  do  bem  imóvel  (cf.  petição  de  mov.  353.1),  determinando  a  expedição  de  "carta  precatória  para  a  Comarca  de  Arapongas/PR,  a  fim  de  proceder  a  alienação  judicial  do  bem  imóvel  de  .  matrícula  nº  1.753,  em  observância  ao  regramento  disposto  no  artigo  879  e  seguintes  do  CPC"  Desta  decisão  a  executada  também  teve  ciência,  conforme  leitura  de  intimação  ocorrida  em  29/03/2019  (mov.  386).
+Nada  obstante,  manifestou-se  apenas  em  04/12/2019,  nos  autos  da  carta  precatória,  quando  designado  o  leiloeiro,  conforme  já  visto.
+Diante  disso,  não  há  que  se  falar  em  nulidade  da  intimação  da  executada  do  auto  de  avaliação  do  imóvel,  ainda  que  tenha  sido  realizada  junto  à  funcionário  da  arrendatária  do  imóvel,  que  não  faz  parte  do  quadro  de  seus  funcionários,  uma  vez  que  já  tivera  ciência  inequívoca  daquele  documento  cerca  de  nove  (9)  meses  antes""  (fls.  62-63,  e-STJ  -  grifou-se).
+Quando  do  julgamento  dos  embargos  de  declaração  opostos  ao  acórdão  recorrido,  o  tribunal  de  origem  consignou  que
+"(..)
+O  decisum  foi  claro  no  sentido  de  que  houve  ciência  inequívoca  da  executada  acerca  do  auto  de  avaliação,  quando  da  leitura  da  intimação  expedida  no  mov.  360,  que  se  deu  no  mov.  369,  em  01/03/2019,  nos  autos  de  origem,  o  que  ensejou  o  afastamento  de  sua  tese  de  nulidade.
+(..)
+Nota-se,  portanto,  que  ao  afirmar  que  a  intimação  deveria  ter  ocorrido  nos  autos  da  carta  precatória  e  não  nos  autos  de  origem,  e  que  o  juízo  competente  para  analisar  impugnação  à  avaliação  seria  o  deprecado,  nada  mais  faz  do  que,  como  já  dito,  externar  sua  pretensão  modificativa.  Não  houve  qualquer  contradição,  uma  vez  que  tanto  os  autos  do  feito  originário  quanto  os  autos  da  carta  precatória  foram  objeto  de  análise,  tendo  este  relator  deixado  claros  os  motivos  e  elementos  dos  autos  que  formaram  seu  convencimento"  (fls.  99-100,  e-STJ  -  grifou-se).
+Com  efeito,  se  diante  das  provas  dos  autos  , o  tribunal  de  origem  constata  que  a  recorrente  foi  devidamente  intimada  acerca  do  auto  de  avaliação  do  imóvel,  não  há  como  modificar  essa  conclusão,  pois  a  revisão  de  tais  premissas  demanda  o  reexame  do  conjunto  fático-probatório  ,  providência  vedada  em  recurso  especial  pela  Súmula  nº  7/STJ.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NA  PETIÇÃO.  EFEITO  SUSPENSIVO  A  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  FUMUS  BONI  IURIS.
+1.  A  concessão  de  efeito  suspensivo  a  recurso  especial  demanda  o  preenchimento  cumulativo  de  dois  requisitos:  fumus  boni  iuris  e  periculum  in  mora.  A  plausibilidade  do  direito  será  pautada  pela  probabilidade  de  êxito  do  recurso.
+2.  Na  espécie,  todavia,  a  modificação  do  entendimento  consignado  no  aresto  prolatado  pelo  TJ/PR,  no  sentido  de  que  o  advogado  foi  devidamente  intimado  do  leilão  e  não  impugnou,  no  momento  oportuno,  o  valor  da  avaliação  do  imóvel,  exigiria  não  mera  revaloração  jurídica,  mas  sim  reexame  do  acervo  fático  probatório  (Súmula  7/STJ).
+3.  Agravo  interno  não  provido"  (AgInt  na  Pet  14.573/PR,  Relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  22/11/2021,  DJe  de  25/11/2021).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  ARREMATAÇÃO.  NULIDADE  DA  ARREMATAÇÃO,  PELA  AUSÊNCIA  DE  INTIMAÇÃO  DOS  CONDÔMINOS.  SÚMULA  284/STF.  NULIDADE  DO  EDITAL  DE  HASTA  PÚBLICA  E  AFASTAMENTO  DA  MULTA  DO  ART.  18,  CAPUT,  E  §  2º,  DO  CPC/1973.  REEXAME  DO  CONTEXTO  PROBATÓRIO.  SÚMULA  7/STJ.
+1.  Relativamente  à  alegação  dos  agravantes  de  nulidade  do  procedimento  por  ausência  de  intimação  dos  condôminos,  os  agravantes  deixaram  de  atacar  o  fundamento  do  acórdão  estadual  no  sentido  de  que  não  possuíam  legitimidade  para  deduzir  a  pretensão,  eis  que  não  lhes  foi  reconhecida  a  condição  de  condôminos,  restando,  pois,  inafastável  a  aplicação,  por  analogia,  da  Súmula  284/STF.
+2.  Quanto  à  suposta  nulidade  do  edital  de  hasta  pública,  bem  como  à  aventada  possibilidade  de  ocorrência  de  adjudicação,  e  não  de  arrematação  do  bem,  seria  necessário  o  reexame  do  próprio  edital,  dos  documentos  que  particularizassem  o  imóvel,  assim  como  da  avaliação  dos  aspectos  subjetivos  do  imóvel  arrematado,  o  que  se  demonstra  inviável  ante  a  Súmula  7/STJ.
+3.  Igualmente  aplicável  a  Súmula  7/STJ  no  tocante  ao  pedido  de  afastamento  da  aplicação  da  multa  e  da  indenização  por  litigância  de  má-fé,  previstas  no  art.  18,  caput,  e  §  2º,  do  CPC/1973.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  169.828/SP,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  18/5/2017,  DJe  de  23/5/2017).
+Quanto  à  alegada  necessidade  de  nova  avaliação  do  imóvel,  o  Tribunal  paranaense  assim  decidiu:
+"(..)
+No  tópico  seguinte,  sustenta  a  embargante  a  existência  de  omissão,  posto  que  não  foi  analisado  pedido  sucessivo  de  nova  avaliação  decorrente  do  lapso  temporal  desde  aquela  realizada.
+Da  petição  recursal  de  agravo  de  instrumento,  denota-se  que  a  parte  formulou  pedido  sucessivo  no  item  "b",  para  que  fosse  determinada  nova  avaliação,  vez  que  aquela  constante  nos  autos  se  deu  em  29/01/2019.
+O  requerimento  não  foi  analisado,  no  que  resta  configurada  a  apontada  omissão.
+Nada  obstante,  verifica-se  que,  o  pleito  não  merece  ser  conhecido,  uma  vez  que  não  houve  pedido  e  consequente  decisão  acerca  da  necessária  realização  de  nova  avaliação  do  bem  imóvel.
+Ao  final  da  decisão  de  primeiro  grau  objeto  do  agravo  de  instrumento  (mov.  46.1),  o  douto  Magistrado  determinou  que  o  leiloeiro  observasse  a  necessidade  de  atualização  monetária  do  valor  da  avaliação,  conforme  apontado  pela  executada  em  embargos  de  declaração  opostos  no  mov.  35.1.
+Nota-se  que  nesta  manifestação  a  executada  não  formulou  pedido  de  nova  avaliação  do  imóvel  conforme  mercado  imobiliário,  mas  apenas  de  atualização  monetária,  além  do  pleito  de  nulidade  dos  atos  processuais.
+Destarte,  não  tendo  a  questão  sido  submetida  ao  juízo  de  primeira  instância,  não  há  que  se  falar  em  conhecimento  do  pedido  em  segundo  grau,  sob  pena  de  ofensa  ao  duplo  grau  de  jurisdição"  (fl.  100,  e-STJ  -  grifou-se).
+De  fato,  consoante  a  jurisprudência  do  STJ,  "Não  é  possível  a  inovação  da  argumentação  do  recurso  em  sede  de  agravo  em  agravo  de  instrumento"  (AgRg  no  Ag  752.388/SP,  Relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  28/6/2006,  DJ  de  1º/8/2006), atraindo a i ncidência  da  Súmula  nº  83/STJ.
+Ressalta-se  que  a  modificação  da  conclusão  no  sentido  de  que  a  parte  inovou  em  seu  recurso  de  agravo  de  instrumento  é  providência  que  esbarra  na  Súmula  nº  7/STJ.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
