@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de embargos de declaração opostos por MADALENA ROSA FERNANDES, contra acórdão que, por unanimidade, negou provimento ao agravo interno interposto pela parte embargante, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 284/STF. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação indenizatória.
+2. A insurgência da parte agravante quanto à incidência da Súmula 284/STF, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo interno não provido.
+Em suas razões recursais, a parte embargante defende que o v. acórdão é omisso, uma vez que o Colegiado não apreciou o pedido sucessivo trazido na petição de recurso especial, bem como que está presente o dissídio jurisprudencial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de embargos de declaração opostos por MADALENA ROSA FERNANDES, contra acórdão que, por unanimidade, negou provimento ao agravo interno interposto pela parte embargante.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+A parte embargante defende que o v. acórdão é omisso, porquanto o Colegiado não apreciou o pedido sucessivo feito pela parte embargante quando da interposição do recurso especial, bem como que está presente o dissídio jurisprudencial.
+Malgrado o inconformismo da parte embargante, da leitura dos embargos opostos, conclui-se que razão não lhe assiste.
+As alegações da parte embargante não demonstram que o acórdão embargado padeça de omissão, mas, ao contrário, percebe-se nitidamente que o desejo da parte embargante é que seja dado provimento aos aclaratórios para que haja uma modificação do julgado.
+No entanto, restou clara a análise das razões do agravo interno, que ora se embarga, e os fundamentos apresentados nos aclaratórios revelam apenas inconformidade e o nítido desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza deste recurso.
+Assim, no tocante à alegada omissão quanto ao pedido sucessivo, é de se observar que omissão não há, uma vez que a Corte local reconheceu a ocorrência da prescrição intercorrente sobre a demanda, integralmente, por isso não há como se atender ao pedido da parte embargante no sentido de se reconhecer que apenas a parte ilíquida do julgado foi atingida pela prescrição, de modo que a execução prosseguisse quanto à parte líquida, eis que, quanto a esta, não haveria dúvida de que houve tramitação e que o período de eventual suspensão do andamento não ultrapassou o prazo prescricional aplicável.
+No mais, o Voto que julgou o agravo interno interposto pela parte embargante foi objetivo e consignou que:
+"A parte agravante se insurge contra a aplicação da Súmula 284/STF ao caso, sustentando que, ao contrário do que decidiu a Ilustre Relatora, Presidente desta Corte, o recurso especial e o agravo em recurso especial contêm identificação clara da divergência jurisprudencial que demanda a apreciação deste Colendo Tribunal.
+Malgrado o inconformismo da parte agravante, é de se observar que razão não lhe assiste.
+Da leitura mais apurada das razões expostas no recurso especial, percebe-se que ela alega que nunca foi intimada a dar andamento ao feito, insurgindo-se, assim, contra o entendimento da Corte local que entendeu ser o caso de reconhecimento da prescrição intercorrente.
+No ponto, das razões trazidas em sede de recurso especial, verifica-se que a parte agravante deixou de indicar especificamente qual dispositivo legal foi violado pelo acórdão recorrido e, nesse caso, a decisão agravada não merece reforma, devendo permanecer hígido o entendimento nela exarado."
+Já quanto à ocorrência do alegado dissídio jurisprudencial, melhor sorte não socorre a parte embargante, pois, no ponto, colhe-se passagem do Voto que julgou o agravo interno interposto pela parte embargante, nos seguintes termos:
+"Lado outro, quanto ao dissídio jurisprudencial, aduz a parte agravante que está provada a divergência com arestos deste Colendo Superior Tribunal de Justiça, bem como a pertinência temática dos acórdãos transcritos, de modo que deve ser dado provimento ao presente agravo interno para que seja recebido o recurso especial.
+Em que pese a argumentação apresentada, restou evidente que a parte agravante deixou de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: REsp 1.622.498/DF, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 1.905.340/RJ, 4ª Turma, DJe 16/03/2023; AgInt no REsp 1.975.965/PE, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 1.999.599/SP, 1ª Turma, DJe 10/03/2023; AgInt nos EDcl no AREsp 1.732.159/SP, 4ª Turma, DJe 10/03/2023; AgRg no AREsp 2.196.188/SC, 5ª T urma, DJe 06/03/2023.
+Ainda, quanto ao dissídio jurisprudencial, é entendimento desta Corte que a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações. Nesse sentido: AgInt no AREsp 2.188.680/PR, 3ª Turma, DJe 16/03/2023; AgInt no AREsp 2.004.758/PR, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 2.024.233/DF, 3ª Turma, DJe 10/03/2023; AgInt no AREsp 2.181.215/PR, 4ª Turma, DJe 10/03/2023; AgInt no AREsp 2.148.058/PR, 2ª Turma, DJe 10/03/2023; AgInt no AREsp 2.094.099/RJ, 4ª Turma, DJe 16/02/2023."
+Desta forma, conclui-se que o presente recurso não reúne os pressupostos específicos para o seu acolhimento.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
