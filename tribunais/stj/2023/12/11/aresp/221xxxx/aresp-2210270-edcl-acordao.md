@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENDÊNCIA DE JULGAMENTO DE RECURSO REPRESENTATIVO DE CONTROVÉRSIA. TEMA 1.209/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. ARTS. 1.039 A 1.041 DO CPC/2015. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Verifica-se que a matéria tratada nos autos foi submetida a julgamento no rito dos Recursos Repetitivos, Tema 1.209/STJ: "Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório.".
+2. Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015.
+3. Embargos de Declaração acolhidos para tornar sem efeito as decisões anteriores com determinação de devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.039 a 1.041 do CPC/2015 e após a publicação do acórdão proferido no respectivo Recurso excepcional representativo da controvérsia: a) denegue seguimento ao Recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. FORMAÇÃO DE GRUPO ECONÔMICO DE FATO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESNECESSIDADE. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7/STJ. ANÁLISE PREJUDICADA PELA FALTA DE IDENTIDADE ENTRE PARADIGMAS E FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO.
+1. Conforme constou no decisum monocrático, não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia.
+2. Não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+3. O acórdão recorrido consignou: "O pedido de efeito suspensivo foi analisado nos seguintes termos: (..) Inicialmente, cumpre referir que, para fins de reconhecimento de grupo econômico em execução fiscal de dívida tributária, é desnecessária a desconsideração da personalidade jurídica e, por consequência, a distribuição do incidente previsto nos artigos 133 a 137 do Código de Processo Civil. (..) No que tange à alegação de prescrição e decadência, convém destacar que se trata de matéria sobre a qual não dispôs a decisão agravada, razão pela qual o pronunciamento acerca da matéria importa em supressão de instância. Da inclusão da agravante no polo passivo À falta de norma específica, a jurisprudência extrai do disposto no art. 2º, §2º, da CLT, algumas diretrizes para o conceito de grupo econômico. Para tanto, dispõe o referido dispositivo legal que grupo econômico se caracteriza "sempre que uma ou mais empresas, tendo, embora, cada uma delas, personalidade jurídica própria, estiverem sob a direção, controle ou administração de outra, constituindo grupo industrial, comercial ou de qualquer outra atividade econômica, serão, para os efeitos da relação de emprego, solidariamente responsáveis a empresa principal e cada uma das subordinadas". Conforme já assentado em inúmeros julgados desta Corte, a formação de grupo econômico, por si só, não enseja a responsabilidade solidária. A rigor, as empresas respondem de forma autônoma por suas próprias obrigações tributárias. No entanto, a ruptura da autonomia patrimonial e organizacional fica caracterizada pela adoção de manobras e práticas em detrimento da satisfação de obrigações tributárias. Nestes casos, a responsabilização estender-se-á a todas as pessoas jurídicas pela existência de interesse comum na situação que constitui o fato gerador da obrigação tributária, de acordo com o preconizado no art. 124, I, do CTN. Consoante se extrai dos autos, a União Federal identificou, após aprofundado trabalho no âmbito da Procuradoria da Fazenda Nacional, a existência de grupo econômico com atuação voltada ao cometimento de fraudes e sonegações. Detalhando o intrincado esquema de ocultação patrimonial, a exequente levou a conhecimento do juízo que algumas empresas do grupo contraem vultosas dívidas, enquanto os sócios acumulam patrimônio (ali incluídos veículos, imóveis, embarcações e até mesmo aeronaves). Em síntese, apontou que as empresas AMETISTA, SOLARE, SOLAR e BELAFLEX atuam no ramo de indústria e comércio de moveis estofados, a ENTREGA RÁPIDA atua na atividade de transporte de cargas, também relacionado ao grupo, ao passo que a ATHOS ADMINISTRADORA DE BENS S/S LTDA, STAR e P.J.W. atuam como braço patrimonial do grupo, adquirindo patrimônio em benefício do grupo e de seus sócios. Consta que a devedora originária AMETISTA ESTOFADOS LTDA (antes denominada GRALHA AZUL INDUSTRIA E COMÉRCIO DE ESTOFADOS LTDA) teria encerrado irregularmente suas atividades, deixando passivo fiscal de aproximadamente R$ 50 milhões, prosseguindo em suas atividades por intermédio de outras empresas do grupo. Segundo a exequente, após o início do processo de dissolução irregular da executada AMETISTA, com a inclusão de "laranjas" no quadro societário e alterações fraudulentas de endereço (início de 2013), DIOGENYS e RICARDO CARANDINA, com o fim de blindagem patrimonial, transferiram, em meados de 2013, diversos bens imóveis para as demais empresas. Com efeito, os elementos contidos nos autos desvelam fortes indícios da prática de fraudes e simulações na condução das atividades desempenhadas pelo grupo empresarial, bem como o liame entre as empresas envolvidas, estando justificado o reconhecimento de responsabilidade solidária, sem embargo de que tal questão seja discutida na via adequada. Nesta perspectiva, não se reconhece, em juízo de cognição sumária como ora se procede, a plausibilidade do direito a ensejar a suspensão da decisão agravada. Por fim, cumpre esclarecer que a alegação de existência de acórdão (Agravo de Instrumento nº 0003869610.2010.4.04.0000) no qual reconhecida a ilegitimidade passiva dos sócios não aproveita à recorrente, por se tratar de execução diversa. Além disso, o fundamento do referido julgado se assentou precipuamente no reconhecimento de inconstitucionalidade do artigo 13, da Lei nº 8.620/93 (inclusão do nome dos sócios na CDA), não tendo adentrado no exame particularizado da matéria. Ante o exposto, indefiro o pedido de efeito suspensivo. À parte agravada para contrarrazões. Intimem-se, inclusive as partes interessadas. Ausentes novos elementos a alterar o entendimento adotado, voto por negar provimento ao agravo de instrumento." (fls. 1.795-1.797, e-STJ).
+4. A jurisprudência da Segunda Turma do STJ é no sentido de que não é condição para o redirecionamento da Execução Fiscal, quando fundada nos arts. 124, 133 e 135 do CTN, a instauração do incidente de desconsideração da personalidade jurídica.
+5. Há verdadeira incompatibilidade entre a instauração desse incidente e o regime jurídico da Execução Fiscal, considerando que se deve ser afastar a aplicação da lei geral.
+6. O acórdão recorrido consignou que, no que tange à alegação de prescrição e decadência, convém destacar que se trata de matéria sobre a qual não dispôs a decisão agravada, razão pela qual o pronunciamento acerca da matéria importa em supressão de instância e que os elementos contidos nos autos desvelam fortes indícios da prática de fraudes e simulações na condução das atividades desempenhadas pelo grupo empresarial, bem como o liame entre as empresas envolvidas, estando justificado o reconhecimento de responsabilidade solidária, sem embargo de que tal questão seja discutida na via adequada.
+7. Rever o entendimento do Tribunal de origem demanda revolvimento do conjunto fático-probatório, inviável em Recurso Especial ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+8. Em relação à alegada divergência jurisprudencial, observa-se que a incidência da referida súmula impede o exame do dissídio, por faltar identidade entre os paradigmas apresentados e o acórdão recorrido.
+9. Agravo Interno não provido.
+A parte embargante sustenta:
+Contudo, Excelência, recentemente, um dia após a prolação do Acórdão embargado, foi prolatado na Primeira Turma deste Superior Tribunal de Justiça, o Acórdão do REsp nº 2039132, que determinou a afetação do Recurso Especial ao rito dos recursos repetitivos com o intuito de apreciar a presente tese aqui discutida: "Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório. "
+Em virtude da afetação, o Min. Relator, com base no art. 1.037, II, CPC , determinou a suspensão de todos os processos que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na Segunda Instância, ou que estejam em tramitação perante o Superior Tribunal de Justiça, com base no art. 256, I, do Regimento Interno deste STJ . (fls. 2.157-2.158, e-STJ)
+Sem impugnação.
+É o relatório.
+EDcl no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.210.270 - RS (2022/0290826-1)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+EMBARGANTE
+:
+ENTREGA RAPIDA TRANSPORTES LTDA
+ADVOGADOS
+:
+RICARDO COSTA BRUNO - PR026321
+JULIANA CRISTINA MARTINELLI RAIMUNDI - PR032467
+EMBARGADO
+:
+FAZENDA NACIONAL
+INTERES.
+:
+AMETISTA ESTOFADOS LTDA
+INTERES.
+:
+ATHOS ADMINISTRADORA DE BENS S/S LTDA
+INTERES.
+:
+BELAFLEX - INDUSTRIA E COMERCIO DE MOVEIS E ESTOFADOS LTDA
+INTERES.
+:
+DIOGENYS MARCELO CARANDINA
+INTERES.
+:
+FABIANI RODRIGUES CARANDINA
+INTERES.
+:
+P.J.W. ADMINISTRACAO DE BENS, EMPREENDIMENTOS E PARTICIPACOES LTDA
+INTERES.
+:
+RICARDO CARANDINA
+INTERES.
+:
+SOLAR MOVEIS EIRELI
+INTERES.
+:
+SOLARE MOVEIS LTDA
+INTERES.
+:
+STAR ADMINISTRADORA DE BENS S/S LTDA
+INTERES.
+:
+VIVIANE LEONEL CARANDINA
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENDÊNCIA DE JULGAMENTO DE RECURSO REPRESENTATIVO DE CONTROVÉRSIA. TEMA 1.209/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. ARTS. 1.039 A 1.041 DO CPC/2015. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Verifica-se que a matéria tratada nos autos foi submetida a julgamento no rito dos Recursos Repetitivos, Tema 1.209/STJ: "Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório.".
+2. Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015.
+3. Embargos de Declaração acolhidos para tornar sem efeito as decisões anteriores com determinação de devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.039 a 1.041 do CPC/2015 e após a publicação do acórdão proferido no respectivo Recurso excepcional representativo da controvérsia: a) denegue seguimento ao Recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.10.2023.
+Verifica-se que a matéria tratada nos autos foi submetida a julgamento no rito dos Recursos Repetitivos, Tema 1.209/STJ: "Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório.".
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015.
+Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO REPRESENTATIVO DE CONTROVÉRSIA. EXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. O Plenário do STF, aos 5/10/2018, por maioria, nos autos do RE 827.996/DF, reconheceu a existência de repercussão geral da matéria relativa a possível interesse da CEF nas ações que envolvam seguros de mútuo habitacional no âmbito do SFH, o que acaba por influenciar diretamente na discussão acerca da competência para processar e julgar os feitos desta natureza (justiça federal ou estadual), obstando por ora a apreciação, por esta Corte, dos recursos que versam sobre tal controvérsia.
+2. Dessarte, verifica-se que a matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos no RE 827.996/DF.
+3. Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que faculte às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC/1973; e 10.40 e seguintes do CPC/2015, conforme o caso.
+4. Agravo Interno julgado prejudicado com determinação de devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada dos tribunais superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+(AgInt no REsp 1.640.499/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14/9/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À EDUCAÇÃO. MATRÍCULA EM CRECHE PÚBLICA. RECONHECIMENTO DE REPERCUSSÃO GERAL DA MATÉRIA, PELO STF, NO RE 1.008.166/SC. RECURSO EXTRAORDINÁRIO, SOBRESTADO, NO PRESENTE PROCESSO. ENTENDIMENTO DO STF PREJUDICIAL AO RESP. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 03/05/2017, que, por sua vez, julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Trata-se, na origem, de ação de obrigação de fazer, proposta em face do Distrito Federal, objetivando a matrícula de criança em creche pública.
+III. A tese sustentada pelo recorrente teve repercussão geral reconhecida, pelo Plenário do STF, nos autos do AI 761.908/SC - reautuado como RE 1.008.166/SC -, Relator o Ministro LUIZ FUX, em que se discute o "dever estatal de assegurar o atendimento em creche e pré-escola às crianças de zero a 5 (cinco) anos de idade". Diante desse quadro, deve-se considerar que, in casu, a conclusão do julgamento, pelo STF, do aludido RE 1.008.166/SC, poderá influir no julgamento do presente caso, circunstância que justifica o sobrestamento do feito, sob esse fundamento, sobretudo considerando-se que há, nos autos, Recurso Extraordinário interposto contra o acórdão recorrido, sobrestado, na origem.
+IV. Tendo em vista que a questão controvertida nestes autos diz respeito a tema cuja repercussão geral foi reconhecida, pelo STF, o julgamento imediato do Recurso Especial seria prematuro, e, sendo assim, os autos devem ser devolvidos ao Tribunal de origem, para que, uma vez publicado o acórdão a ser proferido pelo STF, no RE 1.008.166/SC, seja o inconformismo apreciado, na forma da lei (art. 1.039 do CPC/2015). Precedentes do STJ (AgInt no REsp 1.366.363/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 23/08/2017; AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/06/2017).
+V. Agravo interno improvido.
+(AgInt no AREsp 1.071.410/DF, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/11/2017)
+Ante o exposto, acolho os Embargos de Declaração para tornar sem efeito as decisões anteriores.
+Determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.039 a 1.041 do CPC/2015 e após a publicação do acórdão proferido no respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao Recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+É como voto.
