@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. BUSCA PESSOAL E DOMICILIAR. ALEGAÇÃO DE NULIDADE DA PROVA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a liminar indeferida na origem encontra-se devidamente fundamentada. Ademais, a questão posta em exame demanda averiguação mais profunda pela Corte de origem, que ocorrerá no julgamento do mérito da impetração. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADELMO FERREIRA DE ALMEIDA contra decisão da lavra da Presidência deste Superior Tribunal de Justiça que, com apoio no enunciado sumular 691/STF, indeferiu liminarmente o habeas corpus (e-STJ fls. 43/45).
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 155, § 4º, incisos II e IV, do Código Penal.
+Nas razões da impetração, sustentaram os impetrantes a ocorrência de constrangimento ilegal, em razão da nulidade do flagrante em razão das buscas pessoal e domiciliar realizadas sem fundadas razões e sem autorização judicial, sendo ilícitas as provas delas derivadas.
+Requereram, assim, liminarmente, a substituição da prisão preventiva do paciente pelas medidas cautelares diversas da prisão. No mérito, pleitearam a concessão da ordem, ainda, que de ofício, para reconhecer a ilicitude da busca pessoal e domiciliar; revogar a prisão preventiva do paciente e trancar a ação penal em apreço.
+Indeferido liminarmente o habeas corpus (e-STJ fls. 43/45), a defesa, em agravo regimental, renovou os argumentos do mandamus e requereu a reconsideração do decisum ou o provimento do regimental no colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. BUSCA PESSOAL E DOMICILIAR. ALEGAÇÃO DE NULIDADE DA PROVA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a liminar indeferida na origem encontra-se devidamente fundamentada. Ademais, a questão posta em exame demanda averiguação mais profunda pela Corte de origem, que ocorrerá no julgamento do mérito da impetração. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.
+VOTO
+A decisão deve ser mantida por seus fundamentos.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, disse o Relator ao indeferir a liminar no habeas corpus lá impetrado (e-STJ fls. 38/39):
+Constato que se trata do segundo Habeas Corpus impetrado pelos ora impetrantes em face do mesmo paciente, em virtude da mesma decisão.
+No HC Crim 0745668-78.2023, impetrado em 24/10/2023, os impetrantes se insurgiram contra a conversão da prisão em flagrante em preventiva pelo Juízo do Núcleo de Audiências de Custódia. Naquela mesma petição, postularam a aplicação das medidas cautelares diversas da prisão.
+Desse modo, como esse objeto é idêntico ao lá descrito, cuja liminar restou indeferida, deixo de examiná-lo nesses autos.
+Verifica-se pelo Auto de Prisão em Flagrante (Id 53123201) que o paciente foi indiciado como incurso nas penas do art. 155, § 4º, II e IV, do Código Penal.
+De acordo com o Auto de Prisão em Flagrante, os policiais receberam informações deque um grupo de pessoas teria aplicado golpes contra clientes do Banco do Brasil nas agências do Guará e Jardim Botânico e que eles estariam em um automóvel VW Virtus, de cor Branca, placa PBN-9J68. Diante disso, uma equipe no helicóptero da Polícia Militar conseguiu localizar o veículo mencionado e, ao perceber que estava sendo acompanhado, esse veículo imprimiu velocidade acima de 200km/h. Apesar disso, a equipe de helicóptero logrou êxito em abordar os indivíduos que estavam no automóvel e essa equipe realizou busca pessoal em cada um deles.
+O condutor do flagrante esclareceu que cada uma das pessoas abordadas apresentou versões diferentes, no entanto todos disseram estar hospedados no Hotel Riacho. Em seguida, uma equipe policial se dirigiu ao referido Hotel, onde encontraram quatro máquinas de cartão de crédito e um equipamento para prender cartões bancários (chupacabra).
+Depreende-se do Auto de Prisão em Flagrante, ainda, que o gerente da Agência do Banco do Brasil, na qualidade de testemunha, e a vítima confirmaram a versão apresentada pelo condutor do flagrante, de que três pessoas teriam entrado na agência e trocado o cartão da vítima, por meio de um equipamento que reteve o cartão daquela no caixa eletrônico.
+Apesar do argumento dos impetrantes de ausência de fundada suspeita para a busca pessoal, o paciente estava no veículo em que supostamente as três pessoas que teriam ludibriado a vítima ingressaram e tal veículo, ao ser localizado pelo helicóptero da Polícia Militar, empreendeu fuga, com velocidade acima de 200km/h.
+Assim, em tese, não há que se falar em irregularidade de busca pessoal. Nessa esteira, o seguinte aresto:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. Precedentes. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+2. Hipótese na qual é incabível a concessão de ordem de ofício, porque, mesmo sanada a deficiência na instrução da inicial, não há como aferir patente ilegalidade apta a superar o óbice ao conhecimento da ação constitucional, por ser vedada a reapreciação de provas para absolver o Réu em sede de habeas corpus.
+3. Consoante narra o acórdão impugnado, ao contrário do afirmado, a abordagem foi precedida da averiguação que o Réu estava em veículo produto de roubo, o que configura fundada suspeita. Ademais, a revista pessoal dos Réus só foi possível após perseguição, visto que após perceberem a presença da viatura policial, empreenderam fuga, em alta velocidade, ratificando as suspeitas narradas aos policiais. Tais circunstâncias afastam a alegação de nulidade da busca pessoal.
+4. Agravo regimental desprovido." (STJ, AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+No tocante à busca domiciliar, o Auto de Prisão em Flagrante não narra de forma minuciosa como se deu referido ingresso, o que deve ser objeto de exame de prova pelo Juízo de origem, incabível na via estreita do Habeas Corpus.
+Ante o exposto, INDEFIRO a liminar, até o julgamento deste processo.
+Como visto, a liminar indeferida na origem encontra-se devidamente fundamentada. Ademais, a questão posta em exame demanda averiguação mais profunda pela Corte de origem, que ocorrerá no julgamento do mérito da impetração.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
