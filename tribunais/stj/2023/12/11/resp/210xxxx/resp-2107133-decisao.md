@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado:
+"APELAÇÃO. AÇÃO DECLARATÓRIA. PROCEDÊNCIA PARCIAL. PREJUDICIAL DE PRESCRIÇÃO. INOCORRÊNCIA. INTELIGÊNCIA DO ART. 205, DO CÓDIGO CIVIL. RELAÇÃO OBRIGACIONAL DE DIREITO PESSOAL. PRAZO DECENAL. PRELIMINAR. COISA JULGADA. NÃO CONFIGURAÇÃO. CAUSA DE PEDIR E PEDIDO DIVERSOS. MÉRITO. RESTITUIÇÃO DE JUROS REMUNERATÓRIOS INCIDENTES SOBRE TARIFAS DECLARADAS ILEGAIS EM PRETENSÃO DEDUZIDA EM SEDE DO JUIZADO ESPECIAL CÍVEL. CABIMENTO. DEVOLUÇÃO NA FORMA SIMPLES. MÁ-FÉ NÃO CARACTERIZADA. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO.
+- Tratando-se a relação obrigacional de cunho de direito pessoal, o prazo prescricional, para o ajuizamento de ação revisional de contrato, é decenal, nos moldes do art. 205, do Código Civil.
+- Caracteriza-se coisa julgada quando se reproduz ação idêntica a outra que já foi decidida por sentença de mérito que não caiba mais recurso, o que não é a hipótese dos autos.
+- Reconhecida a ilegalidade da obrigação principal, indevida também, a incidência das obrigações acessórias atreladas as obrigações principais, ou seja, dos juros remuneratórios cobrados sobre as tarifas bancárias.
+- Não há que se falar em reforma da sentença, no tocante à repetição do indébito, pois já concedida na forma simples" (fls. 170/171 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 207/222 e-STJ).
+Em suas razões, o recorrente alega, além de dissídio jurisprudencial, violação dos seguintes dispositivos e suas respectivas teses:
+(i) art. 1.022, II, do Código de Processo Civil, aduzindo a nulidade do acórdão por não suprir as omissões apontadas nos aclaratórios, e
+(ii) arts. 337, §§ 1º, 2º e 4º, do Código de Processo Civil, sob o fundamento de violação à coisa julgada, pois a demanda em apreço objetiva a cobrança de juros remuneratórios sobre tarifas bancárias declaradas nulas em ação pretérita, na qual foi determinada a sua repetição com juros e demais consectários.
+Afirma que a pretensão da parte recorrida está abrangida pela coisa julgada pois o acessório (juros incidentes sobre a tarifa afastada) segue a sorte do principal.
+Defende que a coisa julgada abrange não somente as matérias expressamente deduzidas na ação pretérita, mas também as que deveriam ter sido alegadas e não o foram.
+Após a apresentação das contrarrazões (fls. 266/269 e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido."
+(AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se)
+Na  origem,  trata-se de  ação  objetivando a restituição dos  juros  que  foram  pagos  por  tarifas  declaradas  ilegais na  seara  do  Juizado  Especial.
+O  tribunal  local,  em  relação  ao  argumento  de  violação  à  coisa  julgada,  dirimiu  a  controvérsia  nos  seguintes  termos:
+"(..)
+De bom alvitre, esclarecer que, não se está discutindo aqui a ilegalidade das tarifas bancárias, tampouco, a restituição em dobro dos valores pagos a este título, posto que tal pretensão já foi acolhida em decisão transitada em julgado pelo Juizado Especial Cível.
+Por tais razões, entendo não restar caracterizado o instituto jurídico da coisa julgada" (fl. 174 e-STJ).
+O posicionamento mais recente da Terceira Turma desta Corte Superior, adotado no julgamento do REsp 2.000.231/PB, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 18/4/2023, DJe de 5/5/2023, é no sentido de que o reconhecimento e execução de juros remuneratórios demandam pedido e condenação de forma expressa, não podendo ser conhecido de ofício pelo magistrado.
+Esta é a ementa do referido julgado:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. LIMITES DA COISA JULGADA. QUESTÃO EXPRESSAMENTE DECIDIDA NO DISPOSITIVO DA DECISÃO. CONDENAÇÃO IMPLÍCITA. POSSIBILIDADE EM HIPÓTESES EXCEPCIONAIS. JUROS REMUNERATÓRIOS. NECESSIDADE DE PEDIDO E CONDENAÇÃO DE FORMA EXPRESSA. EFICÁCIA PRECLUSIVA DA COISA JULGADA. IMPOSSIBILIDADE APENAS DE REDISCUSSÃO, COM BASE EM NOVAS ALEGAÇÕES, DE PEDIDO JÁ APRECIADO. REQUISITOS PARA A FORMAÇÃO DE COISA JULGADA. SENTENÇA PROFERIDA EM AÇÃO ANTERIOR QUE DETERMINOU A RESTITUIÇÃO DE TARIFAS ABUSIVAS. NOVA AÇÃO PLEITEANDO A RESTITUIÇÃO DE JUROS REMUNERATÓRIOS SOBRE ESSAS TARIFAS. POSSIBILIDADE. QUESTÃO NÃO APRECIADA NA DECISÃO TRANSITADA EM JULGADO. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA.
+1. Ação declaratória c/c indenização por danos materiais, ajuizada em 15/4/2015, da qual foi extraído o presente recurso especial, interposto em 28/8/2020 e concluso ao gabinete em 18/5/2022.
+2. O propósito recursal é definir se é possível o ajuizamento de nova ação para pleitear, exclusivamente, a restituição de juros remuneratórios não requerida em anterior ação, na qual foi proferida sentença transitada em julgado determinando a restituição de tarifas reconhecidas como abusivas.
+3. Nos termos do art. 503 do CPC/2015, "a decisão que julgar total ou parcialmente o mérito tem força de lei nos limites da questão principal expressamente decidida".
+4. A jurisprudência desta Corte, admite a condenação implícita em hipóteses excepcionais, de modo que verbas como juros moratórios e a correção monetária, sejam incluídas na fase de liquidação ou de cumprimento de sentença, apesar desta ter sido omissa.
+5. A qualidade de imutabilidade e indiscutibilidade da coisa julgada somente se agrega à parte dispositiva do julgado, não alcançando os motivos e os fundamentos da decisão judicial. Precedentes.
+6. A eficácia preclusiva da coisa julgada (art. 508 do CPC/2015) impede a rediscussão de um pedido apreciado por decisão de mérito transitada em julgado, ainda que a parte interessada sustente teses jurídicas que podiam, mas não foram alegadas no processo. Nada impede, contudo, que a parte formule, em nova ação, pedido distinto e autônomo, ainda que guarde relação com os fatos discutidos em ação anterior, desde que, evidentemente, não viole as questões acobertadas pela coisa julgada material.
+7. Assim, haverá formação de coisa julgada sobre determinada questão quando (I) estiver expressa no dispositivo de decisão judicial proferida anteriormente ou, ao menos, nos pedidos formulados na inicial, se o dispositivo for indireto; ou (II) estiver implícita na decisão, nas hipóteses admitidas. Cuida-se de uma análise a ser feita em cada hipótese concreta.
+8. Conforme a jurisprudência desta Corte, o reconhecimento e execução de juros remuneratórios - que, em regra, são pactuados entre as partes -, demandam pedido e condenação de forma expressa, não podendo ser conhecido de ofício pelo Juiz, diferentemente dos juros moratórios.
+9. Desse modo, não existindo pedido e condenação, de forma expressa, acerca dos juros remuneratórios, não é possível concluir que foram abarcados, de forma implícita, por decisão proferida em ação anterior, a qual discutiu apenas a abusividade e a necessidade de restituição de outras verbas.
+10. Hipótese em que, ao analisar os pedidos formulados e as sentenças proferidas nas duas ações ajuizadas pelo recorrido contra o recorrente, conclui-se que tiveram objetos distintos: I) na primeira, a sentença condenou o recorrente a restituir o valor de R$ 1.496,00, "correspondente ao dobro do valor pago a título de TC, tarifa de avaliação de bens e serviços de terceiros"; II) na segunda, o autor se limitou a pedir a restituição dos juros remuneratórios incidentes sobre essas tarifas, o que foi concedido pela sentença. Portanto, no particular, o pedido de restituição do valor pago a título de juros remuneratórios não foi formulado na ação anterior e, tampouco, foi objeto de decisão judicial, de modo que a sua formulação em nova ação não caracteriza ofensa à coisa julgada.
+11. Recurso especial conhecido e não provido."
+Constata-se, portanto, que a decisão combatida está alinhada à jurisprudência mais recente desta Corte, não merecendo  acolhida  a  insurgência  do recorrente no  tocante  à  alegada  ofensa  à  coisa  julgada  (violação  do  art.  337,  §§  1º  e  4º,  do  CPC)
+Logo, não merece reparos o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante  o  exposto,  nego provimento ao  recurso  especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
