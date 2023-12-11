@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANA RITA GOMES BERNARDES (ANA), FABIANO GOMES BERNARDES (FABIANO), MARIA CARMEM DE ANDRADE BERNARDES (MARIA), WALDIR BERNARDES FILHO (WALDIR) e MIRTES AMIN FONSECA (MIRTES) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.133/1.135).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ANA e OUTROS alegaram a violação dos arts. 489, 505, II, 1.022, ao sustentarem que (1) houve omissão; (2) a matéria de ordem pública não impede o reconhecimento da preclusão; (3) a decisão que reconheceu a litispendência foi reconsiderada, por entender o juízo monocrático que era o caso de prejudicialidade externa, ocorrendo a preclusão da matéria; (4) não há litispendência entre os embargos à execução e a ação revisional, ainda que tratassem da mesma matéria, por terem pedidos diversos; (5) a ação revisional foi proposta antes da execução, sendo de rigor o reconhecimento da conexão, continência ou prejudicialidade externa, com a consequente suspensão dos embargos; (6) a decisão que reconhece a litispendência e extingue os embargos impede o exercício da defesa na execução, configurando negativa de prestação jurisdicional; (7) os embargos somente foram opostos para afastar as ilegalidades praticadas na execução, o que autoriza a inversão dos ônus sucumbenciais pelo principio da causalidade.
+É o relatório.
+De início, não obstante o despacho de e-STJ, fls. 1.222 tenha intimado as partes para se manifestarem sobre o pedido de substituição do polo passivo feito por TRAVESSIA SECURTIZADORA DE CRÉDITOS FINANCEIROS S/A (TRAVESSIA), em uma análise mais acurada dos autos foi possível constatar que o Tribunal estadual já tinha constatado o deferimento do pedido, conforme trecho que ora se transcreve:
+Diante da manifestação do Banco Bradesco S.A.(f.50/59), e após oitiva da parte recorrente (f.63/64), foi reconhecida a substituição processual, em razão da cessão dos direitos de crédito em favor de Travessia Securitizadora de Créditos Financeiros VIII S. A., que passou a integrar o polo passivo, nos termos do art. 778,§1º,III, do Código de Processo Civil (conforme despacho às f. 66/67, termo de correção às f. 81/82, e manifestação do substituto às f.83/84).
+Considerando que a questão já foi decidida anteriormente, fica prejudicada a análise das alegações constantes da petição de e-STJ, fls. 1.225/1.227.
+(1) Da omissão
+Nas razões do seu recurso, ANA e OTUROS alegaram a violação dos arts. 489 e 1.022, do NCPC em virtude da omissão no tocante ao argumento de que a prolação de nova decisão acerca de matéria decidida anteriormente ofende o princípio da segurança jurídica, sendo de rigor o reconhecimento da preclusão.
+Contudo, verifica-se que o Tribunal do Mato Grosso do Sul se pronunciou sobre os temas consignando expressamente que:
+Outrossim, não comporta guarida a alegação de preclusão projudicato, na medida que encontra-se consolidado na jurisprudência do STJ que não se aplica nas hipóteses em que a matéria objeto da decisão for de ordem pública, tal qual a litispendência, ou versar sobre direito indisponível, por força da exceção prevista no art.505, inciso II, do CPC (e-STJ, fls. 980).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE URGÊNCIA OU EMERGÊNCIA A FIM DE ENSEJAR A ANULAÇÃO DA CLÁUSULA PREVENDO O PERÍODO DE CARÊNCIA. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. Analisando o acervo fático-probatório e os termos do contrato do plano de saúde, a segunda instância concluiu não ser caso de cobertura securitária. Nesse contexto, firmou o decisum a ausência de situação de urgência ou emergência após o atendimento realizado no pronto-socorro. Essas ponderações atraem os textos das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.077.212/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022, sem destaque no original.)
+Afasta-se, portanto, a alegada violação.
+(2) Da preclusão
+Como emana dos autos, BANCO BRADESCO S/A (BRADESCO) propôs execução de título extrajudicial (nº 0842571-18.2015.8.12.0001), com lastro na cédula rural com garantia hipotecária nº 201305577(46/8441902), em face de ANA e OUTROS.
+Os devedores opuseram os presentes embargos à execução (nº 0829665-59.2016.8.12.0001), informando que já tinham proposto anteriormente ação revisional (nº 0807826-12.2015.8.12.0001), cujo objeto inclui o contrato executado.
+O juízo monocrático reconheceu a existência de litispendência parcial entre a ação revisional e os embargos à execução, rejeitando o pedido de efeito suspensivo (e-STJ, fls. 834/836).
+Em juízo de retratação, referida decisão foi reformada para reconhecer a existência de prejudicialidade externa, com a consequente suspensão dos embargos à execução, nos termos do art. 313, V, "a", do CPC, até que seja prolatada decisão na ação revisional ou que transcorra o prazo de um ano estabelecido no art. 313, § 4º, do CPC (e-STJ, fls. 871/872).
+Após a prática de alguns atos processuais, o feito foi chamado à ordem, em razão da modificação de entendimento do juízo, para reconhecer a existência de litispendência entre a ação revisional e os embargos de declaração, com extinção destes últimos, sem resolução do mérito, nos termos do art. 485, V, do CPC, além da condenação dos embargantes ao pagamento das custas processuais e dos honorários advocatícios fixados em 12% sobre o valor atualizado da causa (e-STJ, fls. 912/916).
+Interposta apelação, o Tribunal do Mato Grosso do Sul manteve a sentença de extinção do processo, confirmando a existência de litispendência. Afastou ainda a alegação de preclusão, por entender que o instituto não se aplica nos casos de matéria de ordem pública (e-STJ, fls. 976/981).
+Entretanto, não há como ignorar que as questões relativas ao afastamento da litispendência e ao reconhecimento da prejudicialidade externa já foram decididas anteriormente, inexistindo qualquer informação de impugnação desta decisão.
+Esta Corte Superior é pacífica em não admitir novo exame das questões já decididas, ainda que de ordem pública, conforme ilustram os precentes abaixo transcritos:
+AGRAVO INTENO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSO CIVIL. ART. 942, CAPUT, DO CPC/2015. APELAÇÃO. DECISÃO UNÂNIME. TÉCNICA DE AMPLIAÇÃO DO COLEGIADO. NÃO CABIMENTO.
+1. Diante da ocorrência de unanimidade no julgamento da apelação, não há se falar em aplicação da técnica prevista no art. 942 do CPC/2015, a fim de ampliar o colegiado com a convocação de outros desembargadores.
+2. As matérias de ordem pública não estão sujeitas à preclusão temporal, porém, uma vez arguidas e apreciadas, submetem-se à preclusão consumativa, não podendo ser reapreciadas.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl nos EDcl nos EDcl no REsp n. 1.837.202/RS, Relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 14/2/2022, DJe de 16/2/2022, sem destaque no original.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA E ARRESTO DE ALUGUÉIS DE IMÓVEIS GRAVADOS COM CLÁUSULAS DE INCOMUNICABILIDADE, INALIENABILIDADE E IMPENHORABILIDADE. ALEGAÇÃO DE NULIDADE ABSOLUTA. QUESTÃO JÁ DECIDIDA PELO JUÍZO A QUO. MATÉRIA PRECLUSA. AGRAVO DESPROVIDO.
+1. Na linha da jurisprudência desta Corte Superior, embora a matéria de ordem pública seja passível de arguição em qualquer fase do processo, no caso de haver decisão anterior apreciando a questão, não se revela possível novo exame da matéria, em razão da preclusão consumativa.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.054.736/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/12/2017, DJe de 19/12/2017, sem destaque no original.)
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, reconhecendo a ocorrência da preclusão no tocante à analise da litispendência.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. 1. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. NÃO CONFIGURAÇÃO. 2. PROPOSITURA ANTERIOR DE AÇÃO REVISIONAL. LITISPENDÊNCIA AFASTADA. NOVA DISCUSSÃO DA MATÉRIA. INADMISSIBILIDADE, AINDA QUE SE TRATE DE MATÉRIA DE ORDEM PÚBLICA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
