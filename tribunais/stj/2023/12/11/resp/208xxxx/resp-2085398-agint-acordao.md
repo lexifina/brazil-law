@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. FUNDAMENTAÇÃO SUFICIENTE DO TRIBUNAL DE ORIGEM. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra ato do Superintendente de Administração Tributária do Estado do Tocantins. Na sentença a segurança foi concedida para assegurar direito da impetrante à isenção de ICMS para aquisição de veículo novo. O Tribunal a quo extinguiu o mandamus sem resolução do mérito por inadequação da via eleita. Agravo interno interposto contra decisão que negou provimento ao recurso especial.
+II - Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese: AgInt nos EAREsp n. 731.395/SP, relator Ministro Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp n. 1.679.519/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp n. 1.527.216/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 13/11/2018.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de mandado de segurança contra ato do Superintendente de Administração Tributária do Estado do Tocantins. Na sentença a segurança foi concedida para assegurar direito da impetrante à isenção de ICMS para aquisição de veículo novo. O Tribunal a quo extinguiu o mandamus sem resolução do mérito por inadequação da via eleita.
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Data máxima vênia, em que pese o notório saber jurídico do Eminente Ministro e o costumeiro acerto, a r. decisão merece reforma consoante às razões a seguir expostas.
+O Acórdão que julgou os embargos de declaração perante o Tribunal a quo não manifestou adequadamente sobre a questão, posto que no julgado não foi abordada a controvérsia de forma completa. Assim, o TJTO falhou na prestação jurisdicional. A propósito, vejamos o voto condutor dos embargos declaratórios:
+ ..
+Nota-se que a matéria foi tratada de forma superficial. Assim, resta violado o artigo 1.022, do Código de Processo Civil. A propósito nesse sentido, vejamos:
+ ..
+Data vênia, mesmo que a decisão rejeite o recurso, deve enfrentar os argumentos expor as razões de rejeição, o que não ocorreu no caso em testilha.
+Além disso, os embargos de declaração não são a mera reiteração do recurso de apelação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. FUNDAMENTAÇÃO SUFICIENTE DO TRIBUNAL DE ORIGEM. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra ato do Superintendente de Administração Tributária do Estado do Tocantins. Na sentença a segurança foi concedida para assegurar direito da impetrante à isenção de ICMS para aquisição de veículo novo. O Tribunal a quo extinguiu o mandamus sem resolução do mérito por inadequação da via eleita. Agravo interno interposto contra decisão que negou provimento ao recurso especial.
+II - Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese: AgInt nos EAREsp n. 731.395/SP, relator Ministro Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp n. 1.679.519/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp n. 1.527.216/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 13/11/2018.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese: AgInt nos EAREsp n. 731.395/SP, relator Ministro Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp n. 1.679.519/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp n. 1.527.216/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 13/11/2018.
+Ademais, conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
