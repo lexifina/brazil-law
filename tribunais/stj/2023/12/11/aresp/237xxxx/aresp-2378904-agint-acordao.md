@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/12/2023 a 11/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. NOMEAÇÃO DE IMÓVEL À PENHORA. NÃO OBSERVÂNCIA DA ORDEM LEGAL DE PENHORA E NÃO DEMONSTRAÇÃO DE IMPOSSIBILIDADE. BEM SITUADO EM FORO DIVERSO DO FORO DA EXECUÇÃO FISCAL. RECUSA LEGÍTIMA. ACOLHIMENTO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. NOMEAÇÃO DE IMÓVEL À PENHORA. NÃO OBSERVÂNCIA DA ORDEM LEGAL DE PENHORA E NÃO DEMONSTRAÇÃO DE IMPOSSIBILIDADE. BEM SITUADO EM FORO DIVERSO DO FORO DA EXECUÇÃO FISCAL. RECUSA LEGÍTIMA. ACOLHIMENTO.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida, confiram-se:
+ ..
+No caso concreto, a Agravante opôs Embargos de Declaração com fundamento no artigo 1.022, inciso II, do CPC para sanar omissão do Acórdão que não analisou o ocorrido nos autos de origem, tampouco os argumentos da parte, simplesmente concluindo pela rejeição dos Aclaratórios e mantendo entendimento no sentido de que a contribuinte não teria justificado a impossibilidade de garantir o débito em dinheiro, razão pela qual a Agravada poderia recusar a penhora do bem indicado.
+Todavia, deixou de considerar que a União em momento algum recusou a penhora do imóvel matriculado sob o nº 65.239. Pelo contrário: a própria Fazenda Nacional sugeriu utilizar avaliação judicial já realizada em outra Execução Fiscal.
+ ..
+Contudo, não se pode coadunar com tal entendimento, pois o fundamento colacionado no decisum que não admitiu o Apelo Especial da contribuinte foi devidamente atacado e rebatido nas razões do AREsp interposto, ainda que de forma implícita e não expressa.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. NOMEAÇÃO DE IMÓVEL À PENHORA. NÃO OBSERVÂNCIA DA ORDEM LEGAL DE PENHORA E NÃO DEMONSTRAÇÃO DE IMPOSSIBILIDADE. BEM SITUADO EM FORO DIVERSO DO FORO DA EXECUÇÃO FISCAL. RECUSA LEGÍTIMA. ACOLHIMENTO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+V - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+ ..
+Ainda que seja admissível a penhora sobre o bem imóvel oferecido em garantia da execução pela parte executada, fato é que o oferecimento de bem em inobservância da ordem legal de penhora deve ser justificado pelo executado, não bastando a simples menção genérica ao art. 805 do Código de Processo Civil. Assim decidiu o Superior Tribunal de Justiça em julgamento submetido ao rito dos recursos repetitivos, reconhecendo que o credor tem direito de que a penhora se dê conforme a ordem legal de nomeação (cf. STJ, Recurso Especial nº 1.337.790 - PR (2012/0166676-6), Primeira Seção, unanimidade, DJe 07-10-2013).
+No caso dos autos, a executada nomeia imóvel à penhora sem qualquer justifica para a inobservância da ordem legal prevista no art. 11 da Lei nº 6.830, de 1980 (cf. evento 4 do processo originário), o que por si só já seria suficiente para justificar a recusa da exequente.
+ ..
+Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
