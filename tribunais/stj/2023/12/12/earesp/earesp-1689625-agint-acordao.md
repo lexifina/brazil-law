@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 06/12/2023 a 12/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  AGRAVO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DISSÍDIO  JURISPRUDENCIAL.  DEMONSTRAÇÃO.  AUSÊNCIA.  SIMILITUDE  FÁTICA  E  JURÍDICA.  INEXISTÊNCIA.  JUROS  DE  MORA.  RESPONSABILIDADE  CONTRATUAL.  OBRIGAÇÃO  ILÍQUIDA.  TERMO  INICIAL.  CITAÇÃO.  SÚMULA  Nº  168/STJ.
+1.  A  teor  do  que  dispõem  os  artigos  1.043  do  Código  de  Processo  Civil  e  266  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  são  cabíveis  embargos  de  divergência,  recurso  cujo  objetivo  é  a  uniformização  da  jurisprudência  desta  Corte,  com  a  eliminação  de  dissidências  internas  quanto  à  interpretação  do  direito  em  tese,  quando  determinado  órgão  fracionário,  julgando  recurso  especial,  dissente  de  julgamento  atual  de  qualquer  outro  órgão  do  mesmo  tribunal.
+2.  No  caso,  não  está  configurada  a  divergência  afirmada  pela  embargante  quanto  ao  termo  inicial  dos  juros  de  mora,  tendo  em  vista  não  haver  identidade  fática  e  jurídica  entre  o  julgado  recorrido  e  o  acórdão  indicado  como  paradigma.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  tem  orientação  firme  no  sentido  de  que  o  termo  inicial  dos  juros  moratórios,  quando  se  tratar  de  relação  contratual,  é  a  citação  na  fase  de  conhecimento  da  ação  judicial,  ainda  que  se  trate  de  obrigação  ilíquida.  Precedentes.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CYRELA  EMPREENDIMENTOS  IMOBILIÁRIOS  COMERCIAL,  IMPORTADORA  E  EXPORTADORA  LTDA.  contra  a  decisão  que  indeferiu  liminarmente  os  embargos  de  divergência  em  virtude  da  incidência  da  Súmula  nº  168/STJ  (fls.  1.007-1.009,  e-STJ).
+Em  suas  razões  (fls.  1.012-1.030,  e-STJ),  a  agravante  alega  que  há  divergência  entre  as  Turmas  desta  Seção  quanto  à  "(..)  contagem  de  juros  moratórios  da  definição  do  valor  da  indenização  em  liquidação  por  arbitramento"  (fl.  1.014,  e-STJ).
+ Sustenta  que  os  juros  moratórios  devem  ser  fixados  a  partir  do  laudo  pericial,  não  da  citação.
+Impugnação  às  fls.  1.033-1.061  (e-STJ).
+Manifestações  das  partes  às  fls.  1.063/1.083  e  1.089/1.109  (e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  AGRAVO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DISSÍDIO  JURISPRUDENCIAL.  DEMONSTRAÇÃO.  AUSÊNCIA.  SIMILITUDE  FÁTICA  E  JURÍDICA.  INEXISTÊNCIA.  JUROS  DE  MORA.  RESPONSABILIDADE  CONTRATUAL.  OBRIGAÇÃO  ILÍQUIDA.  TERMO  INICIAL.  CITAÇÃO.  SÚMULA  Nº  168/STJ.
+1.  A  teor  do  que  dispõem  os  artigos  1.043  do  Código  de  Processo  Civil  e  266  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  são  cabíveis  embargos  de  divergência,  recurso  cujo  objetivo  é  a  uniformização  da  jurisprudência  desta  Corte,  com  a  eliminação  de  dissidências  internas  quanto  à  interpretação  do  direito  em  tese,  quando  determinado  órgão  fracionário,  julgando  recurso  especial,  dissente  de  julgamento  atual  de  qualquer  outro  órgão  do  mesmo  tribunal.
+2.  No  caso,  não  está  configurada  a  divergência  afirmada  pela  embargante  quanto  ao  termo  inicial  dos  juros  de  mora,  tendo  em  vista  não  haver  identidade  fática  e  jurídica  entre  o  julgado  recorrido  e  o  acórdão  indicado  como  paradigma.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  tem  orientação  firme  no  sentido  de  que  o  termo  inicial  dos  juros  moratórios,  quando  se  tratar  de  relação  contratual,  é  a  citação  na  fase  de  conhecimento  da  ação  judicial,  ainda  que  se  trate  de  obrigação  ilíquida.  Precedentes.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Nos  termos  do  que  dispõem  os  artigos  1.043  do  Código  de  Processo  Civil  e  266  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  são  cabíveis  embargos  de  divergência,  recurso  cujo  objetivo  é  a  uniformização  da  jurisprudência  desta  Corte,  com  a  eliminação  de  dissidências  internas  quanto  à  interpretação  do  direito  em  tese,  quando  determinado  órgão  fracionário,  julgando  recurso  especial,  dissente  de  julgamento  atual  de  qualquer  outro  órgão  do  mesmo  tribunal.
+Para  a  configuração  do  dissídio,  é  imprescindível  que  se  demonstre  a  similitude  fática  e  jurídica  entre  os  acórdãos  em  confronto,  de  acordo  com  os  mencionados  dispositivos.
+No  caso,  entretanto,  a  divergência  afirmada  pela  embargante  quanto  ao  termo  inicial  dos  juros  de  mora  incidentes  na  hipótese  não  está  configurada,  visto  não  haver  identidade  fática  e  jurídica  entre  o  julgado  recorrido  e  o  acórdão  indicado  como  paradigma (REsp  nº  1.628.161/SP,  Terceira  Turma,  Relatora  Ministra  Nancy  Andrighi,  DJe  de  17/11/2016).
+A  Quarta  Turma  apreciou  o  recurso  especial  interposto  em  ação  de  cumprimento  de  obrigação  de  fazer  combinada  com  perdas  e  danos  devido  a  defeitos  no  isolamento  acústico  dos  apartamentos  adquiridos  pelos  autores.  A  pretensão  inicial  foi  julgada  procedente,  tendo  todos  os  exequentes  optado  pela  indenização  em  dinheiro,  que  foi  objeto  de  liquidação.  Ao  negar  provimento  ao  apelo,  a  referida  Turma  aplicou  o  entendimento  consagrado  pela  Segunda  Seção,  segundo  o  qual,
+"(..)  buscando  a  parte  o  cumprimento  de  obrigação  contratual  e  verificada  a  impossibilidade  desse  adimplemento,  a  conversão  em  perdas  e  danos,  nos  termos  do  art.  461,  §1º,  do  CPC,  não  perde  o  caráter  de  indenização  em  virtude  de  responsabilidade  contratual,  devendo  os  juros  moratórios  incidirem  a  partir  da  citação  no  processo  de  conhecimento  (..)".
+De  outro  lado,  no  julgado  da  Terceira  Turma,  debateu-se  acerca  do  marco  inicial  da  fluência  dos  juros  de  mora  em  demanda  reparatória  ajuizada  em  decorrência  de  acidente  com  composição  ferroviária  que  causou  a  amputação  de  membros  inferiores  da  parte  autora.  Ação  fundada  em  responsabilidade  extracontratual,  portanto.  Ademais,  a  discussão  em  relação  ao  termo  inicial  dos  juros  se  referia  a  obrigação  (necessidade  do  custeio  da  substituição  de  próteses  articuladas)  surgida  apenas  no  trâmite  do  cumprimento  de  sentença,  após  a  realização  de  perícia  médica.  Circunstância  especialíssima  que,  por  si  só,  já  diferencia  os  casos  confrontados.
+Observa-se,  assim,  que  o  precedente  colacionado,  por  não  se  referir  às  mesmas  circunstâncias  fáticas  e  jurídicas,  não  infirma  a  orientação  adotada  pelo  acórdão  proferido  pela  Quarta  Turma.
+Além  disso,  conforme  ponderado  pela  decisão  atacada ,  o  entendimento  desta  Corte  é  no  sentido  de  que  o  termo  inicial  dos  juros  moratórios,  quando  se  tratar  de  relação  contratual,  é  a  citação  na  fase  de  conhecimento  da  ação  judicial,  ainda  que  se  trate  de  obrigação  ilíquida.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ACIDENTE  DE  TRÂNSITO.  ATROPELAMENTO  DA  VÍTIMA  POR  ÔNIBUS.  EMPRESA  PRIVADA  PRESTADORA  DE  SERVIÇO  PÚBLICO.  RESPONSABILIDADE  CIVIL  CONFIGURADA.  OMISSÃO.  NÃO  OCORRÊNCIA.  PRELIMINAR  DE  CERCEAMENTO  DE  DEFESA  REJEITADA.  CULPA  EXCLUSIVA  DA  VÍTIMA.  NÃO  COMPROVAÇÃO.  REDUÇÃO  DA  COMPENSAÇÃO  POR  DANOS  MORAIS.  IMPOSSIBILIDADE.  OBSERVÂNCIA  AOS  PRINCÍPIOS  DA  RAZOABILIDADE  E  PROPORCIONALIDADE.  JUROS  DE  MORA.  RESPONSABILIDADE  CONTRATUAL.  TERMO  INICIAL.  CITAÇÃO.  VINCULAÇÃO  DA  PENSÃO  AO  SALÁRIO  MÍNIMO.  POSSIBILIDADE.  PRECEDENTES.  AUSÊNCIA  DE  IMPUGNAÇÃO  A  FUNDAMENTO  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  283/STF.  AGRAVO  NÃO  PROVIDO.
+(..)
+4.  Os  juros  de  mora  incidem  desde  a  citação  nos  casos  de  responsabilidade  contratual.  Precedentes.
+5.  Os  fundamentos  do  acórdão  proferido  pelo  Tribunal  de  origem  não  foram  devidamente  impugnados,  o  que  atrai  a  incidência  da  Súmula  283  do  Supremo  Tribunal  Federal.
+6.  Agravo  interno  a  que  se  nega  provimento."
+(AgInt  no  AgInt  no  AREsp  nº  1.723.304/DF,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  4/4/2022,  DJe  de  7/4/2022).
+
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  REQUERENTE.
+(..)
+2.  Os  juros  moratórios,  após  a  conversão  da  obrigação  de  entrega  de  coisa  incerta  em  dinheiro,  tornando  líquida  a  dívida  pecuniária,  devem  ser  contados  a  partir  da  citação,  nos  termos  dos  artigos  405  e  407,  do  Código  Civil.  Precedentes.
+3.  Agravo  interno  desprovido."
+(AgInt  nos  EDcl  no  REsp  nº  1.821.339/MT,  Relator  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  28/9/2020,  DJe  de  1º/10/2020).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  CIVIL  E  PROCESSUAL  CIVIL.  AÇÃO  DE  ARBITRAMENTO  DE  HONORÁRIOS  SUCUMBENCIAIS.  DEMANDA  AUTÔNOMA.  MANDATO.  REVOGAÇÃO.  OBRIGAÇÃO  ILÍQUIDA.  JUROS  DE  MORA.  TERMO  INICIAL.  CITAÇÃO.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Os  juros  moratórios  fluem  a  partir  da  citação  do  devedor  em  ação  de  arbitramento  de  honorários  sucumbenciais,  caso  não  haja  a  constituição  da  mora  em  momento  anterior,  conforme  redação  dos  artigos  405  do  Código  Civil  e  240  do  Código  de  Processo  Civil  de  2015.
+3.  A  iliquidez  da  obrigação  não  é  capaz  de  deslocar  o  termo  inicial  dos  juros  moratórios  para  a  data  da  intimação  do  cumprimento  de  sentença.  Precedentes.
+4.  Agravo  interno  não  provido."
+(AgInt  no  REsp  nº  1.752.562/SP,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  16/3/2020,  DJe  de  19/3/2020).
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  BRASIL  TELECOM  S.A.  CONTRATO  DE  PARTICIPAÇÃO  FINANCEIRA.  PAGAMENTO  DOS  RENDIMENTOS  DAS  AÇÕES.  JUROS  MORATÓRIOS.  TERMO  INICIAL.  DATA  DA  CITAÇÃO.  INCIDÊNCIA  SÚMULA  83/STJ.  RECURSO  MANIFESTAMENTE  IMPROCEDENTE.
+1.  É  assente  o  entendimento  na  Segunda  Seção  que  a  cobrança  de  valor  decorrente  da  conversão  da  obrigação  de  entregar  ações  em  indenização  pecuniária,  os  juros  de  mora  fluem  a  partir  da  citação  para  responder  à  ação  de  conhecimento,  nos  moldes  preconizados  pela  Súmula  n.  163/STF.  Incidência  da  Súmula  83/STJ.
+2.  Agravo  regimental  improvido."
+(AgRg  no  AREsp  nº  676.555/RS,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  24/10/2017,  DJe  de  30/10/2017).
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  BRASIL  TELECOM  S.A.  CONTRATO  DE  PARTICIPAÇÃO  FINANCEIRA.  CONVERSÃO  DE  OBRIGAÇÃO  DE  FAZER  EM  PERDAS  E  DANOS.  JUROS  MORATÓRIOS.  TERMO  INICIAL.  CITAÇÃO.  RECURSO  MANIFESTAMENTE  IMPROCEDENTE.  IMPOSIÇÃO  DE  MULTA.  ART.  557,  §  2º,  DO  CPC.
+1.  A  Segunda  Seção,  ao  examinar  a  cobrança  de  valor  decorrente  da  conversão  da  obrigação  de  entregar  ações  em  indenização  pecuniária,  decidiu  que  os  juros  de  mora  fluem  a  partir  da  citação  para  responder  à  ação  de  conhecimento,  nos  moldes  preconizados  pela  Súmula  n.  163/STF.
+2.  A  interposição  de  recurso  manifestamente  inadmissível  ou  infundado  autoriza  a  imposição  de  multa  com  fundamento  no  art.  557,  §  2º,  do  CPC.
+3.  Agravo  regimental  não  provido  com  aplicação  de  multa."
+(AgRg  no  AREsp  nº  427.997/PR,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  20/2/2014,  DJe  de  26/2/2014).
+"RECURSO  ESPECIAL  -  CONTRATO  BANCÁRIO  -  SENTENÇA  QUE  LIMITOU  OS  JUROS  -  DECISÃO  ILÍQUIDA  -  EXECUÇÃO  DO  JULGADO  -  JUROS  DE  MORA  -  TERMO  INICIAL  -  CITAÇÃO  NA  FASE  DE  CONHECIMENTO  -  REFORMATIO  IN  PEJUS  -  IMPOSSIBILIDADE  -  RECURSO  IMPROVIDO.
+1.  O  termo  a  quo  dos  juros  moratórios,  quando  se  tratar  de  relação  contratual,  é  a  citação  na  fase  de  conhecimento  da  ação  judicial,  ainda  que  se  trate  de  obrigação  ilíquida.
+2.  Recurso  improvido."
+(REsp  nº  986.647/RS,  Relator  Ministro  MASSAMI  UYEDA,  TERCEIRA  TURMA,  julgado  em  19/5/2011,  DJe  de  31/5/2011).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+  Fica  indeferido  o  pedido  de  majoração  dos  honorários  advocatícios  prevista  no  art.  85,  §  11,  do  Código de Processo Civil ,  formulado  pelos  agravados  em  contrarrazões,  pois  o  recurso  especial  tem  origem  em  decisão  interlocutória,  sem  a  prévia  fixação  de  honorários.
+É  o  voto.
