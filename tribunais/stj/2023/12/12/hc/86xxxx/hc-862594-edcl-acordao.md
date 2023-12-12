@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AUSÊNCIA DE OMISSÃO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. 2. SUPRESSÃO DE INSTÂNCIA. 3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+2. Não há falar em omissão em relação à análise da tese de nulidade por inobservância do procedimento previsto no art. 226, do Código de Processo Penal, para o reconhecimento fotográfico. É inviável a análise originária de tese não submetida ao crivo da Corte de origem, sob pena de indevida supressão de instância.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOABI ALVES DA SILVA contra acórdão, da minha relatoria, que negou provimento ao agravo regimental, nos termos da seguinte ementa (e-STJ Fl.155):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 157, § 2.º, INCISOS I E II, DO CÓDIGO PENAL (DUAS VEZES) C. C. ART. 70, DO MESMO DIPLOMA LEGAL. RECONHECIMENTO PESSOAL / FOTOGRÁFICO REALIZADO EM DESACORDO COM O ART. 226, DO CÓDIGO DE PROCESSO PENAL. TEMA NÃO EXAMINADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXISTÊNCIA DE PROVA JUDICIALIZADA PARA SUSTENTAR A CONDENAÇÃO. SUFICIÊNCIA DO ACERVO PROBATÓRIO. MATÉRIA NÃO AFERÍVEL EM HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+- O Tribunal local não se pronunciou acerca da tese de nulidade por inobservância do procedimento previsto no art. 226, do Código de Processo Penal, para o reconhecimento fotográfico. Assim, não pode este Superior Tribunal de Justiça decidir, originariamente, acerca do tema, em supressão de instância.
+- A condenação deve estar respaldada, necessariamente, em prova produzida sob o crivo do contraditório judicial, a qual pode ser cotejada com os elementos de informação colhidos na fase inquisitiva
+.- No caso, existe prova judicializada para condenar o agravante, notadamente, as declarações judiciais das vítimas e o depoimento em juízo da testemunha policial, as quais foram corroboradas pelo interrogatório dos corréus perante a autoridade policial. Assim, não há nulidade por violação do art. 155, do Código de Processo Penal.
+- O habeas corpus, via estreita, de cognição sumária, não se presta ao exame da suficiência, ou não, do acervo probatório para respaldar a condenação.
+- Agravo regimental desprovido.
+O embargante alega que o acórdão é omisso pois: a) deixou de examinar a tese de nulidade do reconhecimento fotográfico, matéria que em seu entendimento seria cognoscível, independente de provocação, não sendo o caso de supressão de instância; e b) não se pronunciou sobre o pedido de desentranhamento das provas ilícitas dos autos.
+Pugna, assim, pelo acolhimento dos presentes aclaratórios.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AUSÊNCIA DE OMISSÃO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. 2. SUPRESSÃO DE INSTÂNCIA. 3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+2. Não há falar em omissão em relação à análise da tese de nulidade por inobservância do procedimento previsto no art. 226, do Código de Processo Penal, para o reconhecimento fotográfico. É inviável a análise originária de tese não submetida ao crivo da Corte de origem, sob pena de indevida supressão de instância.
+3. Embargos de declaração rejeitados.
+VOTO
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que o acórdão embargado se mostrou ambíguo, obscuro, contraditório ou omisso, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide". (EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021).
+Acerca da matéria impugnada o acórdão consignou que (e-STJ Fl.158 ):
+Observa-se, da cópia do acórdão impugnado que instrui essa impetração, que o Tribunal local não se pronunciou acerca da tese ora aventada de nulidade por inobservância do procedimento previsto no art. 226, do Código de Processo Penal, para o reconhecimento fotográfico.
+Assim, não pode este Superior Tribunal de Justiça decidir, originariamente, acerca do tema, em supressão de instância.
+Na presente hipótese, constata-se de forma manifesta que a irresignação do embargante diz respeito apenas à conclusão do acórdão embargado. Constata-se, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal, o que inviabiliza a utilização dos embargos de declaração.
+Por fim, não há falar em omissão em relação à análise da tese de nulidade por inobservância do procedimento previsto no art. 226, do Código de Processo Penal, para o reconhecimento fotográfico. É inviável a análise originária de tese não submetida ao crivo da Corte de origem, sob pena de indevida supressão de instância.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E EXTORSÃO (15 VEZES). CONDENAÇÃO. PENA DE 99 ANOS, 2 MESES E 23 DIAS DE RECLUSÃO. MANUTENÇÃO DA PRISÃO PREVENTIVA. AVENTADAS NULIDADES (INCOMPETÊNCIA E RECONHECIMENTO FOTOGRÁFICO VICIADO). MATÉRIAS NÃO APRECIADAS PELO EG. TRIBUNAL DE ORIGEM NOS AUTOS DO WRIT ORIGINÁRIO. SUPRESSÃO DE INSTÂNCIA. RECURSO DE APELAÇÃO PENDENTE DE JULGAMENTO. ALEGAÇÕES DE INIDONEIDADE DA PRISÃO PREVENTIVA E AUSÊNCIA DE CONTEMPORANEIDADE. MERA REITERAÇÃO.
+APRECIAÇÃO ANTERIOR NOS AUTOS DOS RHCS n. 122.754/RO, n. 137.439/RO e n. 125.153/RO. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - No caso, o v. acórdão ora impugnado não padece do vício apontado, uma vez que as aventadas nulidades (incompetência e reconhecimento fotográfico viciado) não foram analisadas pelo eg. Tribunal a quo pela inadequação da via, utilizada como sucedâneo recursal, a considerar a pendência de análise do recurso de apelação, de modo que, por sua vez, esta eg. Corte Superior fica impedida de analisar as questões, sob pena de indevida supressão de instância.
+III - A ausência de apreciação de matéria pela instância anterior impede a análise por aquela que a sucede, em observância ao devido processo legal, o que, de outro modo, caracterizaria supressão de instância, o que também se verifica quanto ao alegado excesso de prazo.
+IV - Ainda que a matéria tenha sido deduzida na impetração originária, não será possível sua análise nesta instância, uma vez que não examinada pela Corte de origem. Relembra-se que os embargos declaratórios destinam-se a sanar eventuais omissões, mas não foram opostos pela defesa.
+V - Em que pesem os argumentos expendidos pelo embargante de negativa da devida tutela jurisdicional, que caracterizaria nulidade pela ofensa ao devido processo legal, não está demonstrada a existência de eiva, devendo-se atentar, mais uma vez, a inadequação do writ para discussão de matérias que demandam profunda cognição e que, segundo o estatuto processual penal, devem ser tratadas por meio do recurso de apelação.
+VI - Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no HC n. 705.129/RO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 22/3/2022, DJe de 29/3/2022).
+Pelo exposto, rejeito os aclaratórios.
+É como voto.
