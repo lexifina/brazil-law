@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 1.495):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS. CAUSA DE PEQUENO VALOR.
+- Segundo entendimento do STF, existem três situações distintas que podem surgir acerca da fixação de honorários em execução movidas contra a Fazenda Pública, quais sejam: a) são devidos honorários advocatícios nas execuções contra a Fazenda Pública ajuizadas antes da publicação da MP nº 2.180/35; b) não são devidos honorários para as execuções contra a Fazenda Pública não embargadas e ajuizadas após a publicação da referida MP, nos casos em que o pagamento venha a ser efetuado por meio de precatório, ou seja, em que o valor da condenação seja superior ao equivalente a 60salários mínimos; c) são devidos honorários nas execuções, inclusive não embargadas, cujo pagamento se efetue por rpv (valor até o equivalente a 60 salários mínimos).
+Os embargos de declaração opostos foram acolhidos parcialmente apenas para fins de prequestionamento (fl. 1.532).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 1.022 do Código de Processo Civil (CPC) e 20, caput, do CPC/1973. Sustenta, além de negativa de prestação jurisdicional, o não cabimento da verba honorária contra si imposta, pois a execução da obrigação de dar foi proposta apenas contra a União.
+A parte adversa apresentou contrarrazões (fls. 1.599/1.608).
+O recurso foi admitido na origem (fl. 1.619).
+É o relatório.
+A insurgência merece prosperar quanto à preliminar de negativa de prestação jurisdicional.
+A parte recorrente pretende que seja anulado o acórdão proferido pelo Tribunal de origem nos embargos de declaração ao argumento de que remanesce omisso o julgamento da controvérsia.
+Analisando os autos, verifico que a parte recorrente requereu a manifestação expressa do órgão julgador a respeito da sua ilegitimidade passiva para responder pelos honorários advocatícios, uma vez que a execução da obrigação de dar foi proposta apenas contra a União.
+O Tribunal de origem, mesmo após a oposição dos embargos de declaração, deixou de apreciar a alegação suscitada. Transcrevo (fl. 1.530):
+Ao contrário do que afirmam os embargantes, não houve falta de enfrentamento da matéria levantada em sede de embargos de declaração. Foi aplicada na decisão exarada por esta Corte a legislação pertinente ao tema, de acordo com o entendimento da Turma.
+O que se afigura nestes embargos, é que a pretensão dos embargantes não é esclarecer omissão; o que se quer, à guisa de declaração, é, efetivamente, a modificação da decisão atacada. Então, os efeitos de infringência que se quer emprestar aos embargos de declaração, não podem ser aceitos, já que visam modificar a decisão que, conforme fundamentação supra, foi devidamente clara e explícita.
+Quanto ao prequestionamento, observo que o enfrentamento da matéria através do julgamento proferido pelo Tribunal justifica o conhecimento de eventual recurso pelos Tribunais Superiores (STJ, EREsp nº 155.621-SP, Corte Especial, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 13-09-99).
+De qualquer sorte, registro que o acórdão não vulnerou os arts. artigos 1º-D da Lei 9.494/97, 741 do CPC e 100 da CF.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022, II, do CPC, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável um novo julgamento dos aclaratórios.
+Cito os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Público Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 23/8/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+ ..
+2. "Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada" (REsp 1.187.583/RS, Relator o Ministro Castro Meira, julgado em 6/5/2010, DJe 17/5/2010).
+3. Embargos de declaração parcialmente acolhidos, com efeitos infringentes. (EDcl no AgRg nos EDcl no REsp n. 1.556.587/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/3/2017.)
+Diante do exposto, dou provimento ao recurso especial para anular o acórdão proferido no julgamento dos embargos de declaração; determino a devolução dos autos a fim de que o Tribunal de origem aprecie as matérias articuladas nos aclaratórios como entender de direito.
+Publique-se. Intimações necessárias.
+EMENTA
