@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RÉU AO FINAL CONDENADO PELO DELITO DO ART. 129, CAPUT, DO CP. PLEITO DE CONDENAÇÃO DO AGRAVADO COMO INCURSO NO ART. 129, § 2º, IV, DO CP. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7/STJ E 279/STF.
+1. O Tribunal de origem, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela comprovação da autoria e da materialidade do delito do art. 129, caput, do Código Penal. Desse modo, a mudança da conclusão alcançada no acórdão impugnado, para entender-se configuradas a autoria e a materialidade relativas ao delito de lesão corporal gravíssima, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão da lavra da Presidência desta Corte Superior que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 408/410).
+Depreende-se dos autos que o agravado foi condenado, em juízo de primeiro grau, como incurso no art. 129, § 2º, IV, do Código Penal, à pena de 3 anos e 6 meses de reclusão, em regime inicial semiaberto (e-STJ fls. 216/225).
+Irresignada, apelou a defesa. O Tribunal de origem deu parcial provimento ao recurso para desclassificar a conduta do art. 129, § 2º, inciso IV, do CP, para o tipo do caput do mesmo artigo, conforme a seguinte ementa (e-STJ fl. 315):
+EMENTA - APELAÇÃO CRIMINAL. LESÃO CORPORAL GRAVÍSSIMA. LEGÍTIMA DEFESA. AFASTADA. DEFORMIDADE PERMANENTE. NÃO RECONHECIDA. DESCLASSIFICAÇÃO. LESÃO CORPORAL. PENA. REDUÇÃO. OFÍCIO. JUSTIÇA GRATUITA. CONCESSÃO. - 1 - Ausente comprovação dos requisitos, não se há falar em legítima defesa. 2 - Desclassifica-se a conduta para leve se não há comprovação de lesão qualificada. 3 - Levando-se em conta que o réu durante toda a instrução processual foi assistido por advogado nomeado, cabível a justiça gratuita. Apelação parcialmente provida. De ofício, desclassificada a conduta.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 332/339).
+Nas razões do recurso especial (e-STJ fls. 344/353), interposto com fundamento na alínea "a" do permissivo constitucional, o Parquet alegou que "danos estéticos sofridos pela vítima configuram deformidade permanente e, por conseguinte, a conduta do agente que os causou amolda-se à figura qualificada da lesão corporal prevista no art. 129, § 2º, inciso IV, do Código Penal (lesão corporal gravíssima)" (e-STJ fl. 346).
+Contrarrazões às e-STJ fls. 364/377. O recurso especial não foi admitido (e-STJ fls. 380/381). A defesa interpôs agravo (e-STJ fls. 388/395).
+Conclusos os autos nesta Corte, foi proferida decisão conhecendo do agravo para não conhecer do recurso especial, ante a incidência da Súmula n. 7/STJ (e-STJ fls. 408/410).
+Contra a decisão o Parquet interpõe o presente agravo regimental (e-STJ fls. 413/422). Em suas razões, argumenta que não pretende o reexame de provas.
+No mais, repisa as razões do apelo nobre.
+Assim, requer seja reconsiderada a decisão agravada ou seja levado o presente recurso para apreciação da Turma competente.
+O Ministério Público Federal opinou pelo não provimento do agravo regimental (e-STJ fls. 432/434).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RÉU AO FINAL CONDENADO PELO DELITO DO ART. 129, CAPUT, DO CP. PLEITO DE CONDENAÇÃO DO AGRAVADO COMO INCURSO NO ART. 129, § 2º, IV, DO CP. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7/STJ E 279/STF.
+1. O Tribunal de origem, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela comprovação da autoria e da materialidade do delito do art. 129, caput, do Código Penal. Desse modo, a mudança da conclusão alcançada no acórdão impugnado, para entender-se configuradas a autoria e a materialidade relativas ao delito de lesão corporal gravíssima, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não se credencia ao provimento, ante a inexistência de fundamento capaz de infirmar as bases da decisão agravada, que deve ser mantida em todos os seus termos.
+Conforme asseverado na decisão ora agravada, o Tribunal de origem, soberano na análise de questões fático-probatórias dos autos, concluiu pela desclassificação do delito de lesão corporal gravíssima para lesão corporal.
+No ponto, a Corte originária assim se manifestou (e-STJ fl. 313):
+Por outro lado, a conduta deve ser desclassificada, de ofício, para a do artigo 129 do Código Penal.
+Conforme remansosa jurisprudência, a lesão estética deve ser capaz de produzir desgosto, desconforto a quem vê ou humilhação ao portador, não sendo qualquer dano estético ou físico. Embora se entenda que a deformidade não perde o caráter de permanente se pode ser dissimulada por meios artificiais, ela precisa ser relevante (STJ, (REsp 1220094/MG, Rel. Ministro GILSON DIPP, 5ª TURMA, DJe 09/03/2011).
+Segundo Júlio Fabbrini Mirabete, a deformidade permanente deve ser positivada por meio de exame pericial, e indispensável que seja o laudo instruído com fotos da vítima para apreciação das partes e do julgador (Código Penal Interpretado. 7ª ed. São Paulo: Atlas, 2011. p. 743/744).
+Na hipótese, fica evidenciado que a deformidade permanente mencionada no laudo é de ordem estética, não causando limitações à vida da vítima ou de suas atividades rotineiras.
+Não se pode negar que em decorrência dos golpes sofridos a vítima ficou com uma cicatriz, entretanto não pode ser considerada como deformidade permanente para fins de reconhecimento de lesão corporal gravíssima, prevista no artigo 129, §2º, IV, CP, sobretudo porque deveria ter sido demonstrar em que medida o dano à sua incolumidade física traz-lhe incômodo, tristeza ou dissabores. E, neste aspecto, inexistem provas nestes autos.
+No caso, o laudo pericial de fls. 89/91, respondeu afirmativamente para o sexto quesito (quanto a deformidade permanente), informando que a agressão resultou "deformidade estética em supercílio direito".
+Desse modo, tenho que, de fato, a mudança da conclusão alcançada no acórdão impugnado, para entender-se configuradas a autoria e a materialidade relativas ao delito de lesão corporal gravíssima, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ASSISTENTE DA ACUSAÇÃO. AMPUTAÇÃO PARCIAL DA FALANGE DO DEDO. DEBILIDADE PERMANENTE. RECAPITULAÇÃO DO CRIME DE LESÃO CORPORAL GRAVE PARA GRAVÍSSIMA. IMPOSSIBILIDADE. DENUNCIAÇÃO CALUNIOSA. ABSOLVIÇÃO EM SEGUNDA INSTÂNCIA. AUSÊNCIA DE DOLO. EXAME APROFUNDADO DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. NEGADO PROVIMENTO.
+1. A amputação parcial da falange do 3º quirodácito direito configura debilidade permanente a caracterizar o crime de lesão corporal de natureza grave (art. 129, §1º, III, do CP) e não gravíssima (art. 129, §2º, III e IV, do CP).
+2. Como bem leciona Guilherme de Souza Nucci, os membros do corpo humano são os braços, as mãos, as pernas e os pés. Os dedos são apenas partes dos membros, de modo que a perda de um dos dedos constitui-se em debilidade permanente da mão ou do pé. (in Código Penal Comentado, 19ª edição, pág. 797).
+3. Na jurisprudência, A deformidade permanente apta a caracterizar a qualificadora no inciso IV do § 2º do art. 129 do Código Penal, segundo parte da doutrina, precisa representar lesão estética de certa monta, capaz de produzir desgosto, desconforto a quem vê ou humilhação ao portador, não sendo qualquer dano estético ou físico. Embora se entenda que a deformidade não perde o caráter de permanente quando pode ser dissimulado por meios artificiais, ela precisa ser relevante. (REsp 1220094/MG, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 22/02/2011, DJe 09/03/2011).
+4. O acórdão recorrido, sob este aspecto, está em consonância com a doutrina e a jurisprudência dominantes não havendo que se falar em afronta ao art. 129, §2º, III e IV, CP, valendo acrescentar que concluir de forma diversa alterando a classificação da lesão corporal pela qual foi condenada o recorrido implica em exame aprofundado de prova, vedado em recurso especial a teor da Súm. n. 7/STJ.
+5. Para a caracterização do delito de denunciação caluniosa é necessário o dolo específico, consistente na vontade de induzir o julgador em erro, prejudicando a administração da Justiça.
+6. No caso, os fatos noticiados ocorreram em um contexto de agressões recíprocas, onde ambos os envolvidos foram lesionados. E, de acordo com o acórdão recorrido, o acusado, a fim de encobrir ou desvirtuar o crime de lesão corporal por ele praticado, registrou uma ocorrência policial. Pretendia, na verdade, livrar-se de futura acusação, desviando, assim, a atenção da autoridade policial.
+7. Inviável, nesta oportunidade, a reforma do entendimento da instância a quo relativo à ausência de dolo, por demandar o exame aprofundado do material fático-probatório, vedado em recurso especial, a teor da Súm. n. 7/STJ.
+8. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 1.895.015/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe de 20/8/2021, grifei.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RÉU CONDENADO PELO DELITO DO ART. 129, § 1º, I E III, DO CÓDIGO PENAL. PLEITO DE CONDENAÇÃO DO AGRAVADO COMO INCURSO NO ART. 129, § 2º, IV, DO CÓDIGO PENAL. REEXAME DE MATERIAL FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Se as instâncias ordinárias, soberanas na análise dos fatos e provas coligidos aos autos, chegaram à conclusão de que o réu não cometeu o delito previsto no art. 129, § 2º, IV, do Código Penal, mas o do art. 129, § 1º, I e III, do mesmo Código, fizeram-no tendo por base o acervo probatório da causa.
+II. A inversão dessa conclusão, para entender-se configuradas a autoria e a materialidade relativas ao referido delito de lesão corporal gravíssima, exigiria, inevitavelmente, o reexame dos contexto fático dos autos, o que encontra óbice na Súmula 7/STJ.
+III. Agravo Regimental improvido. (AgRg no AREsp n. 261.615/MG, relatora Ministra Assusete Magalhães, Sexta Turma, julgado em 17/10/2013, DJe de 25/11/2013.)
+Assim, como visto, a decisão agravada não enseja retratação ou reforma.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
