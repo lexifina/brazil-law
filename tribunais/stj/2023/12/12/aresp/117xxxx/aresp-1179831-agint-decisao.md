@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se  de  agravo  interno  interposto  por ELEKTRO REDES S.A. contra  decisão  monocrática  do Ministro Napoleão Nunes Maia Filho assim ementada (fl. 1.704):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APELO RARO QUE TEVE SEU TRÂMITE DENEGADO ANTE A APLICAÇÃO DAS SÚMULAS 7/STJ E 280/STF. ACÓRDÃO LOCAL QUE MERAMENTE ENTENDEU INCOMPETENTE AQUELA CÂMARA JULGADORA ANTE A EXISTÊNCIA DE PREVENÇÃO POR CONEXÃO DE RECURSO JÁ APRECIADO POR OUTRO ÓRGÃO FRACIONÁRIO DO MESMO TRIBUNAL. RECURSO QUE PRETENDE DESCONSTITUIR A DECLARAÇÃO DE CONEXÃO ENTRE A PRESENTE DEMANDA E O PARADIGMA APONTADO CAUSADOR DA PREVENÇÃO. PROVIDÊNCIA QUE DEMANDA, NECESSARIAMENTE, A REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS, VEDADA, A PRINCÍPIO, NESTA SEARA RECURSAL. AGRAVO EM RECURSO ESPECIAL DA ELEKTRO REDES S. A. A QUE SE NEGA PROVIMENTO.
+A  parte  agravante, nas  razões  do  agravo  interno  , refuta  os  fundamentos  da  decisão  agravada,  alegando a não incidência da Súmula 7/STJ, uma vez que o pedido não é sobre a análise dos elementos de conexão de duas ações, e sim sobre o erro de direito no acórdão que não considerou que a demanda anterior já havia sido julgada, não havendo que se falar em conexão.
+Afirma que (fl. 1.713):
+5. Conforme afirmado acima, as rr. decisões recorridas fizeram o incurso, sim, no mérito da Súm. 235/STJ, segundo a qual "a conexão não determina a reunião dos processos, se um deles já foi julgado".
+6. Conforme passagem abaixo, ao reconhecer que a outra demanda já teria sido julgada (inclusive afirmando já ter transitado em julgado), mas, mesmo assim, determinando-se a remessa do processo para outra Câmara do Tribunal, o E. Tribunal Local incorreu em direto erro de Direito, haja vista que a solução seria conhecer do recurso e julgar o seu mérito, e não reencaminhando a outro órgão julgador. Veja-se da passagem das rr. decisões recorridas (fl. 1.569):
+"Com efeito, apesar das alegações da agravante, o objeto da presente demanda e o daquela já transitada em julgado, cujo Relator do v. acórdão foi o Eminente Desembargador Guerrieri Rezende, é o mesmo, ou seja, a possibilidade de cobrança pelo uso da faixa de domínio sob administração da concessionária". (grifamos)
+ Postula, ao final, o provimento do agravo interno para que seja provido o recurso especial nos termos pleiteados.
+Impugnação às fls. 1.720/1.734.
+ É  o  relatório.
+Trata-se na origem de ação de cobrança pelo uso de faixa de domínio, em razão de ocupação de bem público.
+O Juízo de primeiro grau julgou a ação improcedente, porquanto entendeu "não haver lastro na cobrança pela exploração de espaço público de uso comum, como no caso das faixas de domínio de rodovias, delegada ou não tenha sido sua exploração" (fl. 1.248).
+Inconformada, a parte ora agravante apelou e a 6ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso ao argumento de que:
+Exatamente como ficou consignado na decisão, ora agravada, há prevenção da Colenda 7ªCâmara de Direito Público para o julgamento da apelação.
+Com efeito, apesar das alegações da agravante, o objeto da presente demanda e o daquela já transitada em julgado, cujo Relator do v. acórdão foi o Eminente Desembargador Guerrieri Rezende, é o mesmo, ou seja, a possibilidade de cobrança pelo uso da faixa de domínio sob administração da concessionária.
+Portanto, forçoso reconhecer que as duas demandas guardam relação de conexão entre si, nos termos do art. 103 do Código de Processo Civil.
+Nesse sentido, ainda que seja discutível a hipótese de coisa julgada e exista a possibilidade de aplicação do artigo 471, I, do Código de Processo Civil, o juízo competente para proceder à revisão daquilo que já foi previamente estatuído é justamente aquele que a apreciou anteriormente.
+Dessa forma, impõe-se o reconhecimento de incompetência desta 6ª Câmara de Direito Público para apreciar a apelação.
+Opostos embargos de declaração (fls. 1.600/1.604) a fim de provocar a Corte de origem a se manifestar sobre a não conexão e não prevenção das ações, o Tribunal a quo rejeitou os declaratórios sem apreciar o questionamento a ele feito.
+Interposto recurso especial, a parte agravante sustenta contrariedade aos arts. 103, 104, 105 e 106 do CPC/1973, atuais arts. 54, 55, 56 e 58 do CPC, bem como do art. 1.022 do CPC.
+Afirma que (fl. 1.616):
+No presente caso, conforme se infere da petição inicial ajuizada pela ora Recorrida, alega-se a existência de continência com a ação judicial proposta pela ELEKTRO (processo nº 05301019036-0), que, frise-se, já transitou em julgado. Veja-se, portanto, que apenas sob este aspecto não se poderia falar em conexão de ações, haja vista o trânsito em julgado, tendo se esgotado o provimento jurisdicional a ela correspondente.
+Razão assiste à parte recorrente.
+Inicialmente, observo que, ao contrário do decidido pela Corte estadual, o Superior Tribunal de Justiça tem o entendimento, sumulado sob enunciado 235, de que "A conexão não determina a reunião dos processos, se um deles já foi julgado."
+Verifico a existência de omissão no julgado, nos termos do art. 1.022 do Código de Processo Civil, notadamente em razão da regência legal da matéria e da jurisprudência desta Corte Superior, pelo fato de que Tribunal de origem não se pronunciou explicitamente sobre a não prevenção.
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação ao art. 1.022 do CPC, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, reconsidero a decisão de fls. 1.704/1.707 e conheço do agravo em recurso especial para dar provimento ao recurso especial, a fim de anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimações necessárias.
+EMENTA
