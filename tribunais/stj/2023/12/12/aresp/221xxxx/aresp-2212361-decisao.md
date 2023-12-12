@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SAO FRANCISCO SAUDE OCUPACIONAL LIMITADA contra decisão que inadmitiu recurso especial por não ter sido demonstrada a alegada ofensa aos arts. 489 e 1.022 do CPC.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em apelação.
+O julgado foi assim ementado (fls. 303-304):
+PRELIMINARES. AFRONTA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. INOCORRÊNCIA. APELANTE QUE, EM SUAS RAZÕES RECURSAIS, ATACA FUNDAMENTADAMENTE A SENTENÇA GUERREADA, BUSCANDO SEU AFASTAMENTO. NULIDADE DA SENTENÇA, POR SUPOSTA FUNDAMENTAÇÃO INSUFICIENTE. INOCORRÊNCIA. SENTENÇA QUE EXPÔS, DE FORMA EXPRESSA, EMBORA SUCINTA, AS RAZÕES DA PROCEDÊNCIA DA AÇÃO. MATÉRIAS REJEITADAS. PLANO DE SA ÚDE. CONTRATO INDIVIDUAL. RESCISÃO UNILATERAL PELA OPERADORA DO PLANO DE SAÚDE, PELO SUPOSTO INADIMPLEMENTO, POR PARTE DO AUTOR, DA MENSALIDADE COM VENCIMENTO EM SETEMBRO DE 2018. CASO, CONTUDO, EM QUE O AUTOR DEMONSTROU O PAGAMENTO DO RESPECTIVO BOLETO, AINDA NO MÊS DE SEU VENCIMENTO. RÉ, ADEMAIS, QUE DEIXOU DE ENVIAR NOTIFICAÇÃO AO AUTOR ATÉ O QUINQUAGÉSIMO DIA DO INADIMPLEMENTO, NOS TERMOS DO ARTIGO 13, PARÁGRAFO ÚNICO, INCISO II DA LEI N. 9.656/1998. NOTIFICAÇÃO ENVIADA APENAS EM ABRIL DE 2019, FAZENDO-SE REFERÊNCIA, POR APARENTE EQUÍVOCO, À MENSALIDADE DE JANEIRO DE 2019 IGUALMENTE PAGA PELO DEMANDANTE, CONSOANTE COMPROVANTE COLACIONADO AOS AUTOS. AUTOR, ADEMAIS, QUE VEM PAGANDO, DESDE ENTÃO, COM PONTUALIDADE, TODAS AS MENSALIDADES DO PLANO DE SAÚDE. RESTABELECIMENTO DO CONTRATO QUE SE REVELOU ACERTADO. DANOS MORAIS. INOCORRÊNCIA. MERO INADIMPLEMENTO CONTRATUAL QUE NÃO ENSEJA DANOS MORAIS INDENIZÁVEIS, CONSUBSTANCIANDO ABORRECIMENTO COTIDIANO. SENTENÇA REFORMADA EM PARTE, APENAS PARA AFASTAR-SE OS DANOS MORAIS. RECURSO DA RÉ PARCIALMENTE PROVIDO. RECURSO DO AUTOR, QUE PLEITEAVA A MAJORAÇÃO DA INDENIZAÇÃO POR DANOS MORAIS, QUE, PREJUDICADO, NÃO PODE SER CONHECIDO.
+Nas razões do recurso especial, o ora agravante aponta violação do arts. 489 e 1.022, II, do Código de Processo Civil.
+Afirma que, não obstante ser incontroverso que a mensalidade que gerou a rescisão do plano de saúde é referente ao mês de setembro de 2018, o Tribunal de origem foi omisso ao não se manifestar sobre tal questão, deixando de fundamentar a decisão a respeito de pontos essenciais devidamente suscitados.
+Alega que demonstrou que a notificação de inadimplência é um comunicado encaminhado acerca da existência de débito referente à mensalidade do mês de setembro de 2018, com prorrogação de vencimento para o dia 26/1/2019, razão pela qual não se trata de equívoco cometido pela recorrente, mas sim de notificação de inadimplência.
+Aduz que o recorrido confessa na inicial a rescisão do plano de saúde em razão da mensalidade do mês de setembro e admitiu que fora notificado da inadimplência.
+Requer o provimento do recurso para reforma do acórdão recorrido.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Descabe a apontada negativa de vigência dos arts. 489 e 1.022, II, do Código de Processo Civil, uma vez que nem sequer foram opostos embargos de declaração ao acórdão proferido pela Corte a quo.
+Incide na espécie o óbice inscrito na Súmula n. 284 do STF.
+Ante o exposto, conheço do agravo em recurso especial para não conhecer do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
