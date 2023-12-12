@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/12/2023 a 12/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181 do STF).
+4. Aplica-se de forma vinculante o Tema n. 181 do STF quando o recurso extraordinário queira discutir: i) os fundamentos que impediram o conhecimento do recurso anteriormente julgado; ii) os fundamentos que impediriam esse conhecimento; ou iii) o mérito da causa, quando a insurgência anterior não ultrapassou a barreira da admissibilidade.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário assim ementada:
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega a inaplicabilidade do Tema n. 339 do Supremo Tribunal Federal ao caso dos autos, pois, apesar da oposição dos embargos de declaração, este Tribunal Superior não teria apreciado minimamente a questão prejudicial suscitada pela defesa, relativa à " ..  nulidade do processo administrativo, ante a inobservância do contraditório, pois não teria sido permitido o acompanhamento da perícia técnica realizada no sistema de alarme" (fl. 2.094).
+Sustenta que o Tema n. 181 do STF também não seria aplicável à espécie, porquanto não se trataria de matéria infraconstitucional acerca do cabimento de recursos da competência de outros tribunais, mas de ofensa direta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal, " ..  tendo repercussão geral a discussão, ainda que se trate de admissibilidade de recurso" (fl. 2.098).
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181 do STF).
+4. Aplica-se de forma vinculante o Tema n. 181 do STF quando o recurso extraordinário queira discutir: i) os fundamentos que impediram o conhecimento do recurso anteriormente julgado; ii) os fundamentos que impediriam esse conhecimento; ou iii) o mérito da causa, quando a insurgência anterior não ultrapassou a barreira da admissibilidade.
+5. Agravo interno a que se nega provimento.
+VOTO
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de reputar a parte recorrente as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no acórdão impugnado, que examinou expressamente a matéria invocada pela parte recorrente, consoante se observa na seguinte transcrição (fls. 1.997-1.999):
+ ..  não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+ ..
+No caso, o Tribunal de origem decidiu integralmente a controvérsia, manifestando-se de modo suficientemente motivado acerca da alegação de cerceamento de defesa no processo administrativo, inclusive no acórdão integrativo (e-STJ fls. 1.773/1.779).
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+No mérito, os autos versam sobre ação declaratória de nulidade de processo administrativo instaurado para apurar falha na prestação de serviço de segurança de agência bancária, em cujo bojo houve a imposição de multa à contratante, ora agravante, por descumprimento de obrigação contratual, no importe de R$ 10.642,06 (dez mil, seiscentos e quarenta e dois reais e seis centavos).
+O Tribunal Distrital manteve a sentença de improcedência do pedido e, acerca da alegação de cerceamento de defesa no bojo do processo administrativo, consignou que, "nos autos do processo administrativo, a autora protocolou defesa e apresentou documentos, buscando defender a tese de que não era culpada pelos fatos ocorridos" (e-STJ fl. 1.472):
+ ..
+Nesse contexto, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 2.029-2.030):
+ ..  cumpre chamar atenção para o fato de estar expresso e claro, no voto condutor do acórdão embargado, que o aresto recorrido não incorreu em nulidade por negativa de prestação jurisdicional, porquanto a Corte de origem apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, inclusive no tocante à alegação de cerceamento de defesa no processo administrativo.
+ ..
+Destacou-se, ainda, que o Tribunal Distrital rejeitou a alegação de cerceamento de defesa no bojo do processo administrativo por constatar que a autora, ora embargante, "protocolou defesa e apresentou documentos, buscando defender a tese de que não era culpada pelos fatos ocorridos" (e-STJ fl. 1.472), conclusão que não pode ser revista na via especial, em face do óbice da Súmula 7 desta Corte.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (Código de Processo Civil, art. 927, III).
+Além disso, conforme orientação vinculante do STF, nos casos em que a insurgência anterior não ultrapassou a barreira de admissibilidade, a discussão suscitada no recurso extraordinário não é dotada de repercussão geral, ainda que nele se busque debater o mérito.
+A compreensão é igualmente aplicável quando a parte recorrente do recurso extraordinário defende a ausência dos pressupostos de conhecimento do recurso de competência do Superior Tribunal de Justiça.
+Esse é o entendimento fixado pela Suprema Corte no regime de repercussão geral, como se verifica na seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, o acolhimento da irresignação pressupõe a análise dos requisitos de admissibilidade do recurso anteriormente dirigido a esta Corte Superior.
+Isso porque, quanto às alegações de nulidade do processo administrativo e de cerceame nto de defesa, o acórdão recorrido entendeu que a conclusão não poderia ser revista em face do óbice da Súmula n. 7/STJ.
+Portanto, eventual afronta à Carta Magna, se existente, seria apenas indireta ou reflexa, na linha da compreensão do STF de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória, o recurso extraordinário não prospera.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a formalização de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
