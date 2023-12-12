@@ -1,0 +1,99 @@
+DECISÃO
+Trata-se de recurso especial interposto por Confernet Produtos e Serviços Ltda., com base no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fls. 2.054-2.056):
+TELEFONIA - CONTRATO DE PA RCERIA - SERVIÇOS BREW - DOWNLOAD DE APLICATIVOS - SISTEMA CDMA - MIGRAÇÃO PARA SISTEMA GSM - OBSOLESCÊNCIA GRADATIVA DA PLATAFORMA DESENVOLVIDA - QUEDA DA RECEITA - SINCRONISMO DE DADOS DE COBRANÇA - AUSÊNCIA DE PREJUÍZOS À PRESTADORA - REMUNERAÇÃO CONTRATADA SOBRE VALORES RECEBIDOS PELA OPERADORA - QUEDA DA RECEITA DECORRENTE DO FIM DO SISTEMA CDMA.
+Apelação Cível. Ação de Cobrança. Contrato de parceria para oferta de downloads de softwares da autora através dos serviços da ré que faturava e cobrava dos clientes. Alegação de que a ré não remunerou corretamente a empresa.
+A sentença julgou procedente o pedido autoral para condenar a ré a pagar à parte autora o valor correspondente aos percentuais que lhe são devidos pelos downloads produzidos dos softwares criados pela demandante e disponibilizados pela ré, com a dedução do que já foi pago, observando-se a retenção de impostos, quando incidentes, com correção monetária e juros legais de 1% desde a citação; fixando honorários em 15% sobre o valor da condenação.
+Inconformada a ré apela esperando pela reforma do julgado para que seja anulada a sentença em razão do cerceamento defesa decorrente da incompletude da prova oral; destacando ausência de manifestação quanto ao pedido de redesignação de audiência e realização de nova perícia técnica. Alternativamente, requer a improcedência dos pedidos ao argumento de que não houve falha de cobrança. Ou, ainda, caso confirmada a condenação requer que seja expressamente consignado que a condenação restringe-se aos downloads não-cobrados, mantendo-se, em qualquer hipótese, o regime de retenção tributária aplicado no curso da relação contratual e afastando-se a isenção tributária mencionada na sentença.
+Inocorrência de necessidade de produção de outras provas. Perícia que esclarece os fatos. Depoimento pessoal que fornece elementos suficientes de convicção.
+Desde o início da relação contratual, a autora tem ciência de que o sistema de remuneração compartilhada obedece ao binômio arrecadação repasse, deduzidos, ainda, os impostos suportados pela ré na qualidade de substituta tributária.
+O que se tem é um revés financeiro enfrentado pela autora em razão da mudança do padrão de tecnologia, mudança de CDMA (no qual estavam baseados o aplicativos da apelada) para o padrão GSM por volta de 2007 ocasionado a perda de receita provocada pela obsolescência; somente a autora se insurgindo a partir deste momento.
+Ausência de falha no sistema de cobrança dos clientes a imputar prejuízos à autora. Remuneração contratada sobre o valor arrecadado. Queda da receita ocorrida após o sincronismo que denota ter inclusive a autora se beneficiado de eventuais falhas.
+Sentença que merece reforma
+Recurso provido.
+Os embargos de declaração foram rejeitados, com aplicação de multa de 1% sobre o valor da causa (e-STJ, fls. 2.108-2.124).
+Nas razões do recurso especial (e-STJ, fls. 2.126-2.150), a parte insurgente aponta como violados os arts. 1.022 , 1.025 e 1.026, § 2º, do CPC/2015; 422 e 1.056 do CC/2002.
+Afirma que o Órgão Julgador respondeu de forma lacônica os embargos de declaração, resultando em negativa de prestação jurisdicional, nada obstante o prequestionamento ficto da matéria.
+Insurge-se contra a multa aplicada na origem, pois seria aplicável ao caso a o entendimento segundo a qual "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula n. 98/STJ).
+No mérito, afirma ter estabelecido "Contrato Geral de Prestação de Serviços de Valor Agregado" com a empresa telefonia acionada, consubstanciado na disponibilização de softwares aos assinantes de aplicativos para processamento de dados (som, imagens, etc.). De acordo com o referido contrato, a operadora recorrida comercializaria junto aos seus clientes os aplicativos para telefones celulares desenvolvidos pela recorrente, que, em contrapartida seria remunerada à base de 43% (no caso da marca VIVO) ou de 50% (no caso de marca de terceiro, pela VIVO autorizada) sobre a receita liquida de downloads efetuados pelos clientes da operadora telefônica.
+Segundo a recorrente, o acordão recorrido reconhecer que ré deixou de cobrar pelos serviços na forma avençada, mas isenta a ré da responsabilidade pelos prejuízos decorrentes da sua conduta.
+Argumenta que, "se o problema derivou de mudança de tecnologia e migração de padrão CDMA para GSM por volta de 2007 tal fato não guarda vínculo algum com o subfaturamento ocorrido em anos anteriores abrangendo, como registrou a irrepreensível sentença, o período que compreende janeiro de 2004 a abril de 2009" (e-STJ, fl. 2.148).
+Conclui que "a VIVO frustrou a confiança de sua parceira, descumprindo a obrigação de cobrar de seus clientes os serviços agregados pela recorrente assim como de haver procedido descontos de impostos indevidos, afetando a base sobre a qual se aplicaria o percentual devido no período" (e-STJ, fl. 2.148).
+Pede o provimento do recurso para o fim de se "julgar procedente a ação, restabelecendo os precisos termos da r. sentença a quo, com os consectários da sucumbência" (e-STJ, fl. 2.150).
+Contraminuta às fls. 534-544 (e-STJ).
+Brevemente relatado, decido.
+As questões deduzidas no processo foram resolvidas satisfatoriamente, não
+se identificando vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se
+configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Com efeito, no presente caso, o Tribunal de origem, ao dirimir a controvérsia, considerou indevida a indenização pleiteada pela parte recorrente, sob os seguintes fundamentos (e-STJ, fls. 2.079-2.095):
+E quanto ao mérito, merece reparo a sentença vergastada, senão vejamos:
+O juiz sentenciante, apontando como o ponto controvertido o cumprimento os contatos celebrados e considerando o conjunto probatório, concluiu que a ré incorreu em dois desacertos, falhas ou descumprimentos: quanto ao cumprimento do contrato: i) não COBROU dos clientes o que era devido; (ii) fez descontos relativos aos tributos de forma indevida.
+Todavia, a premissa que lastreou a sentença revela-se equivocada.
+A autora sempre teve sua remuneração vinculada aos valores EFETIVAMENTE RECEBIDOS.
+O primeiro contrato, que gerou os demais aditamentos, estabeleceu quanto à cobrança, na cláusula 4.2 ALINEA H:
+(..)
+Tal contrato (Contrato Geral de Prestação de Serviços de Valor Agregado) data de 07/08/2003, havendo Anexo que dispõe acerca do sistema remuneração compartilhada "revenue-share" por "download" e por "assinatura"; bem como regramento no sentido de que a EMPRESA, ora autora, SERÁ REMUNERADA PELOS VALORES LÍQUIDOS COBRADOS E EFETIVAMENTE RECEBIDOS, (index 26 - fls. 27 ):
+(..)
+Frisando-se por oportuno que o repasse à ré está vinculado ao pagamento integral do serviço. Também consta pacto para o caso de, se inviabilizada a arrecadação de valores originados pela inadimplência em até 90 dias, com expressa previsão contratual de não repasse e objeto de dedução (cláusulas 2.1 - 2.2 ).
+Em igual sentido consta a cláusula 07 do termo firmado em 08.08.2004, que dispõe sobre preço e condições de repasse, inclusive com a previsão de retenção do tributo pela ré quando previsto em legislação tributária a qualidade de substituta:
+(..)
+Acrescente-se haver previsão expressa de isenção de reponsabilidade da ré quanto ao não recebimento do serviço fulcrado em ausência ou degradação de cobertura, permanente ou temporária, falta de equipamentos, falha de energia e transmissão, bloqueio de serviços e outras situações (index 26 - fls37 ):
+(..)
+No Termo de Aditamento Contratual de 09/08/2005, quando o contrato foi prorrogado até 08/08/2006; as cláusulas são ratificadas: (index 26 - fls. 44 ):
+(..)
+Já o aditivo de 01/04/2007, prorroga o Contrato para 08/07/2007, index 26, fls. 47/ 48 e altera a Cláusula de Preço e Condições de Repasse quanto aos prazos para encontro de contas. Todavia, reproduz e destaca a vinculação do repasse ao valor líquido arrecadado, tal como no termo anterior
+(..)
+Verifica-se que a alteração decorreu do aperfeiçoamento do sistema de sincronismo dos dados, MAS NÃO ALTEROU A BASE DE CÁLCULO SOBRE A QUAL SEMPRE INCIDIU A REMUNERAÇÃO DA AUTORA.
+Sobreveio o Termo datado de 10/10/2007 (index 26 - fls. 52 ) que tão somente altera o prazo de vigência e Ratifica as demais Cláusulas.
+Forçoso reconhecer que desde o início da relação contratual, a autora tem ciência de que o sistema de remuneração compartilhada obedece ao binômio arrecadação-repasse, deduzidos, ainda, os impostos suportados pela ré na qualidade de substituta tributária.
+No que diz respeito à alegação de que a ré, ora apelante, acolhida pela sentença, no que se refere a falha no controle da arrecadação, causando pagamento a menor à autora, a tese não prospera.
+Tal se liga diretamente com os acessos efetuados através de linhas pré-pagas, que, inicialmente, conseguiam efetuar download mesmo sem haver crédito.
+A irresignação da autora não vinga, posto que nos primeiros anos de contrato, quando a Vivo autorizava esses downloads, nenhuma reclamação por parte da autora se deu, em que pesem tratar-se de valores NÃO ARRECADADOS pela VIVO, e que, via de consequência, não ensejariam direito à remuneração da autora.
+Lembre-se que sendo a autora empresa desenvolvedora de tecnologia, tem plena ciência das ferramentas operacionais técnicas utilizadas.
+Apenas quando a VIVO alterou seu sistema, permitindo o acesso a download apenas após confirmado haver crédito, é que a ré inicia sua reclamação.
+Com efeito, até então o sistema efetivamente era passível de falhas, mas em desproveito da VIVO, e não da autora. Isto porque nos termos contratuais a autora somente deve receber percentual sobre VALORES RECEBIDOS pela VIVO. Se o sistema era falho, e com seu aperfeiçoamento a autora identificou perda de receita, é porque antes recebia mesmo quando a VIVO não auferia o valor do consumidor, em razão do sistema de faturamento:
+(..)
+Desta forma, não aproveita à autora o fato de não haver sincronismo até março de 2007. Isto porque o que se extrai dos autos, e pelo próprio histórico das reclamações, até então a autora possuía receita maior. Assim, a única conclusão a que se chega é que parte dos clientes que tinham efetuado download sem créditos, foi efetuado repasse à autora, apesar de a VIVO não ter recebido dos mesmos.
+Assim, não se identifica que o sistema de faturamento era prejudicial à autora, sendo que a sincronização dos dados deu ensejo a apuração imediata e REAL dos valores referentes aos downloads.
+Repita-se, porém, que os termos contratuais, a autora somente tinha direito a receber por VALOR ARRECADADO pela VIVO, não sendo leiga no assunto e ciente, desde a contratação, de como se operariam os cálculos.
+Mesmo que tenha havido período em que ocorressem downloads gratuitos, o que somente foi sanado em março de 2007, o contrato, não deixa dúvidas: A AUTORA SOMENTE TERIA DIREITO A PERCEBER PERCENTAGEM SOBRE VALOR EFETIVAMENTE RECEBIDO PELA VIVO.
+A relação comercial entre as empresas, finalmente, chega a patamar litigioso com o fim do contrato, mas se verifica que a indignação da autora surgiu com a redução dos acessos.
+Porém, como já explicitado, tal decorreu da necessidade de abandono da tecnologia CDMA.
+O que se tem, portanto, é um revés financeiro enfrentado pela autora em razão da mudança do padrão de tecnologia, mudança de CDMA (no qual estava baseada a plataforma para download de aplicativos desenvolvida pela apelada) para o padrão GSM por volta de 2007 ocasionado a perda de receita provocada pela obsolescência.
+Todavia, o abandono da tecnologia CDMA, para adotar o padrão TDMA, na plataforma GSM, fazia-se imperativa, à vista do advento dos celulares de 3ª geração.
+Neste sentido, bem esclarece o laudo pericial:
+(..)
+Note-se, pois, que o fator causador da diminuição de receita foi a migração para a tecnologia GSM. Tanto assim o é que apenas a partir de tal marco temporal a autora inicia sua insurgência.
+Neste sentido, consta no laudo pericial - index 464 :
+(..)
+Finalmente, observe-se que o laudo pericial também refuta as alegações de que a apelante estava desenvolvendo, de forma sub-reptícia, plataformas a fim de canibalizar os serviços da apelada:
+(..)
+Ademais, a pretensão da ré de afastar um regramento vigente no curso da relação contratual e com o qual sempre aquiesceu viola a boa-fé. Com efeito, de todas as provas verifica-se que a queda da participação da autora nos serviços operados pela ré decorre de imperativo tecnológico.
+Portanto, merece reparo a sentença hostilizada, sendo impositiva a improcedência dos pedidos autorais.
+Assim sendo, voto pelo PROVIMENTO do apelo, julgando- se improcedentes os pedidos autorais, condenando a autora ao pagamento de custas e honorários advocatícios, fixados em 15% sobre o valor da causa.
+Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. USO ILEGAL DE SOFTWARE. INDENIZAÇÃO. NÃO COMPROVAÇÃO. SÚMULA Nº 7/STJ. OMISSÃO. NÃO CONFIGURAÇÃO.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+2. Tendo o tribunal de origem constatado, com base nas provas carreadas aos autos, não ter ficado demonstrado a suposta utilização indevida do software, não há como este Tribunal Superior rever o entendimento, sob pena de esbarrar no óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 563.168/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/8/2016, DJe de 5/9/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DO PROTOCOLO DE INTERPOSIÇÃO DO AGRAVO. FALHA NO PROCESSAMENTO DOS AUTOS ELETRÔNICOS. RECONSIDERAÇÃO DA DECISÃO. AÇÃO DE COBRANÇA. CONTRATO DE CESSÃO DE USO DE SOFTWARE. ENSINO A DISTÂNCIA. USO NÃO AUTORIZADO POR SOCIEDADE EDUCACIONAL DIVERSA. OMISSÃO. INEXISTÊNCIA. UTILIZAÇÃO INDEVIDA, POR ENTIDADE NÃO LICENCIADA, RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL IMPROVIDO. 1. O acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, não se verificando ofensa aos arts. 535 e 458, II, do CPC/1973. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. O Tribunal de origem, examinando as circunstâncias da causa e o contrato de uso de software da autora, reconheceu a responsabilidade da sociedade recorrente, consignando que houve o efetivo uso indevido do software de propriedade da autora pela instituição de ensino, especialmente para possibilitar a oferta de serviços de educação a distância por meio de ferramentas de internet. Nesses termos, a modificação do acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, bem como a interpretação de cláusula contratual, o que é inviável em sede de recurso especial, a teor das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 170.280/RN, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/12/2019, DJe de 19/12/2019.)
+Por fim, no que tange à multa aplicada no julgamento dos embargos de declaração, com razão a recorrente, pois a multa não será cabível quando os embargos de declaração têm o objetivo prequestionatório, consoante dispõe a Súmula 98/STJ.
+Nessa esteira:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FRAUDE À EXECUÇÃO. NÃO OCORRÊNCIA. BEM DE FAMÍLIA. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM QUANTO À IMPENHORABILIDADE DO IMÓVEL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu ter ficado demonstrado nos autos que o imóvel alienado constituía bem de família impassível de responder pela obrigação exequenda. Além disso, consignou que, ao contrário do que faz crer a recorrente, não ficou caracterizada fraude à execução, motivo pelo qual determinou fosse desconstituída a penhora realizada sobre o bem.
+2. Verifica-se que a inversão do julgado quanto à impenhorabilidade do bem imóvel exige a revisão dos elementos fático-probatórios dos autos, procedimento inviável na via especial, nos termos da Súmula 7/STJ.
+3. No que se refere à multa do art. 1.026 do CPC/2015, o recurso prospera, consoante a orientação contida na Súmula 98/STJ ("Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório").
+4. Recurso Especial parcialmente provido, somente para afastar a multa fixada no julgamento dos Embargos Declaratórios na origem. (REsp 1.765.723/DF, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 6/11/2018, DJe 19/11/2018)
+No caso dos autos, vê-se que os embargos de declaração não possuíam o nítido caráter protelatório capaz de ensejar a aplicação da sanção processual, sobretudo porque sua pretensão era buscar um maior esclarecimento sobre o tema referente à competência e o prequestionamento da matéria.
+Assim, ausente o flagrante caráter protelatório dos embargos de declaração, torna-se necessário o afastamento da multa aplicada na origem.
+Ante o exposto, conheço do recurso especial para dar-lhe parcial provimento, apenas para afastar a multa aplicada com base no 1.026, § 2º, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO IDENTIFICADA. TELEFONIA. CONTRATO DE PARCERIA. SOFTWARE. PERCENTUAL SOBRE DOWNLOADS. PROVA DO DESCUMPRIMENTO DAS REGRAS ESTABECIDAS ENTRE AS PARTES. REVISÃO DAS CONCLUSÕES CONSIGNADAS NO ACÓRDÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO PREJUDICADO. MULTA DO ART. 1.026, § 2º, do CPC/2015. AFASTAMENTO. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
