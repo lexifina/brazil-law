@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se, na origem, de ação civil pública ajuizada pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA em função das atividades desenvolvidas pela Librelato S.A. Implementos Rodoviários nas margens do Rio Tubarão/SC.
+O Tribunal Regional Federal da 4ª Região manteve a sentença de parcial procedência, nos termos da seguinte ementa (fl. 733):
+ADMINISTRATIVO. ÁREA DE PRESERVAÇÃO PERMANENTE. DANO. RESPONSABILIDADE. RECUPERAÇÃO AMBIENTAL. PRAD. INDENIZAÇÃO. VERBA HONORÁRIA.
+1. Mantém-se sentença que determinou a recuperação da área degradada, segundo PRAD a ser elaborado, de acordo com a prova pericial, devendo ser excluída da condenação a indenização a título de danos morais coletivos.
+2. Ainda que o princípio da reparação total se aplique ao dano ambiental, de tal maneira que a obrigação de recuperar o meio ambiente degradado seja compatível com a indenização pecuniária por eventuais prejuízos, até sua restauração plena, há de se estabelecer que, se houver restauração imediata e completa do bem lesado, em regra, não se fala em indenização.
+3. Mantida a sentença nos seus ulteriores termos, inclusive no que diz com a verba sucumbencial, porquanto a ora apelante decaiu de parte considerável do pedido.
+Opostos embargos declaratórios, foram providos, nos seguintes termos (fl. 762):
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO E CONTRADIÇÃO NO JULGADO REFERENTE À QUESTÃO DE FUNDO. EXPLICITAÇÃO DE QUESTÃO REFERENTE À PUBLICAÇÃO DA SENTENÇA EM JORNAL DE CIRCULAÇÃO REGIONAL. PREQUESTIONAMENTO.
+1. Ao ser mantida em parte a sentença que condenou a ré na obrigação de fazer, consistente na recuperação plena da área degradada, mas sem a condenação por danos ambientais coletivos, conforme jurisprudência do E. STJ e também desta Terceira Turma, foram adotados os fundamentos do juízo monocrático no tocante reparação do bem lesado pela via do PRAD com a ressalva feita quanto à condenação pecuniária e, ressaltando-se, inclusive, a necessidade de ajuste quanto ao pedido inicial, ou seja, de publicação da sentença em jornal de divulgação regional, sem a pretendida condenação em danos morais coletivos.
+2. Não se verifica as demais alegações de contradição e omissão apontadas, sendo que não se admite a interposição de embargos declaratórios para fins de rediscussão da matéria.
+3. Embora não tenham sido violados nem se lhes tenha negado vigência na decisão embargada, dá-se por prequestionados os dispositivos legais e/ou constitucionais apontados pelas partes embargantes, que tenham expressa ou implicitamente pertinência com as questões examinadas no julgamento do recurso.
+Contra esta decisão, o IBAMA interpôs recurso especial, em que apontou violação aos seguintes dispositivos da legislação federal:
+(I) art. 535, II, do CPC/73, porque houve omissão quanto ao argumento de que há pedido expresso na petição inicial para que a ré seja condenada ao pagamento de indenização a título de danos ambientais intercorrentes, os quais foram devidamente enumerados na petição de embargos;
+(II) art. 1º, caput, I, art. 3º da Lei nº 7.347/85, I, e art. 6º, VI e VII, da Lei nº 8.078/90, os quais amparam a indenização pecuniária dos danos ambientais intercorrentes, justificada pelo déficit temporal inerente à perda ambiental da mata ciliar ilegalmente suprimida (interregno em que o meio ambiente restou privado do patrimônio florestal e genético resultante da supressão de mata ciliar dentro do bioma de Mata Atlântica). Conclui, então, que, na hipótese em tela, a recuperação da área degradada mediante apresentação de PRAD, não terá como reparar os danos intercorrentes;
+(III) arts. 126 e 335, ambos do CPC/73, a fim de que seja reestabelecida a sentença, a qual arbitrou a indenização em R$ 250.000,00 com amparo nas regras de experiência comum.
+Processado o recurso especial, ele foi autuado como REsp 1.545.834/SC e distribuído a este Relator, que o proveu por afronta ao art. 535 do CPC/73, a fim de que o Tribunal de origem, apreciando novamente os embargos de declaração, se manifestasse expressamente sobre (I) a existência de pedido expresso na petição inicial para a condenação da ré ao pagamento de indenização; e (II) se há danos ambientais intercorrentes decorrentes da supressão de mata ciliar.
+Após retornar à origem, os aclaratórios de fls. 742/747 foram reapreciados, conforme a seguinte ementa (fl. 935):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. RETORNO DOS AUTOS DO STJ. PREQUESTIONAMENTO. DISCIPLINA DO ARTIGO 1025 DO CÓDIGO DE PROCESSO CIVIL.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1022 do Código de Processo Civil.
+2. Sanada contradição/omissão para reconhecer a existência de pedido indenizatório pecuniário explícito, mantida entretanto a fundamentação do acórdão originário no qual o Colegiado entendeu unanimemente que no caso dos autos a recuperação ambiental total é possível e, portanto, afastou motivadamente indenização em pecúnia.
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão encontra disciplina no artigo 1025 do Código de Processo Civil, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração.
+Ratificado o recurso especial pelo IBAMA (fl. 950), este foi admitido (fl. 959/960).
+O Ministério Público Federal, no parecer de fls. 994/998, opinou pelo conhecimento e provimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Como indicado no relatório, o recurso especial de fls. 785/812 já foi apreciado por esta Corte, no julgamento do REsp 1.545.834/SC, ocasião em que foi conhecido e provido (919/922), com trânsito em julgado em 22/05/2019 (fl. 927).
+Frente à nova apreciação dos embargos de declaração, e seu parcial acolhimento, houve a reabertura do prazo recursal, com a devolução de toda a matéria, não se mostrando cabível a mera ratificação de anterior recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EMBARGOS DE DECLARAÇÃO. OMISSÕES SUPRIDAS SEM EFEITOS MODIFICATIVOS. MERA RATIFICAÇÃO DO RECURSO ESPECIAL TIDO POR PREJUDICADO. INSUFICIÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem, à vista do provimento de Recurso Especial por ofensa ao art. 535 do estatuto processual de 1973, por unanimidade, supriu as omissões, sem efeitos modificativos.
+III - Em face do novo acórdão, o Recorrente não interpôs novo Recurso Especial, limitando-se a, genericamente, peticionar a ratificação do recurso outrora julgado prejudicado, providência essa insuficiente. Precedentes.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.971.858/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023)
+ANTE O EXPOSTO, n ão conheço do recurso especial.
+Publique-se.
+EMENTA
