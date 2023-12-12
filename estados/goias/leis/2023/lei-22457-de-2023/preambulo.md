@@ -1,0 +1,3 @@
+# LEI Nº 22.457, DE 12 DE DEZEMBRO DE 2023
+Altera a Lei nº 14.237, de 08 de julho de 2002, que institui o Grupo Operacional de Serviços de Segurança da Agência Goiana do Sistema Prisional e dá outras providências; a Lei nº 17.090, de 02 de julho de 2010, que dispõe sobre a criação de classes e padrões de subsídios nas carreiras dos servidores integrantes do órgão gestor do Sistema de Execução Penal do Estado de Goiás e dá outras providências; e a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:
