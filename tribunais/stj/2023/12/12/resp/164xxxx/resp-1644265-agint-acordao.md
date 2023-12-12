@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/12/2023 a 12/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. OFENSA AOS LIMITES DA COISA JULGADA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660/STF.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181 do STF).
+2. Aplica-se de forma vinculante o Tema n. 181 do STF quando o recurso extraordinário queira discutir: i) os fundamentos que impediram o conhecimento do recurso anteriormente julgado; ii) os fundamentos que impediriam esse conhecimento; ou iii) o mérito da causa, quando a insurgência anterior não ultrapassou a barreira da admissibilidade.
+3. A suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema n. 660 do STF).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MUNICÍPIO DO RIO DE JANEIRO contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 956):
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. OFENSA AOS LIMITES DA COISA JULGADA. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. ART. 11 DA LEI N. 7.498/1986. ROL EXAUSTIVO. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
+A parte agravante sustenta a inaplicabilidade do Tema n. 660 do STF, uma vez que, ao contrário do que constou na decisão agravada, a controvérsia acerca da coisa julgada teria violado diretamente a Constituição Federal, tendo sido prequestionada ao longo de toda a demanda.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.241-1.244.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. OFENSA AOS LIMITES DA COISA JULGADA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660/STF.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181 do STF).
+2. Aplica-se de forma vinculante o Tema n. 181 do STF quando o recurso extraordinário queira discutir: i) os fundamentos que impediram o conhecimento do recurso anteriormente julgado; ii) os fundamentos que impediriam esse conhecimento; ou iii) o mérito da causa, quando a insurgência anterior não ultrapassou a barreira da admissibilidade.
+3. A suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema n. 660 do STF).
+4. Agravo interno a que se nega provimento.
+VOTO
+No pronunciamento impugnado pelo recurso extraordinário, acerca da coisa julgada, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque a matéria não foi discutida na origem e, ainda, demandaria exame direto de fatos e provas na instância especial. Confira-se, no ponto, o voto do juízo integrativo (fl. 795):
+Ressalta-se, também, que a arguição do embargante no sentido da existência de coisa julgada a obstar a procedência do pleito autoral não foi objeto de discussão no acórdão a quo, além do que a apreciação dessa tese por este Sodalício esbarra na vedação da Súmula 7/STJ, ante a impossibilidade de reexaminar o acervo fático-probatório dos autos.
+Nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo a Suprema Corte que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (Código de Processo Civil, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ademais, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660 do STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta ofensa ao princípio da coisa julgada depende da análise direta de matéria fática não prequestionada, motivo pelo qual incide o Tema n. 660 do STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
