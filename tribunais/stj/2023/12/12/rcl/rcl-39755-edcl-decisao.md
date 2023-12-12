@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 124/126) opostos por ALFONS GARDEMANN contra a decisão monocrática de minha relatoria, de fls. 115/119, em que não conheci da reclamação por ser manifestamente incabível.
+Afirma a parte embargante que "a decisão embargada apresenta contradição decorrente do conflito de entendimento contraposto à decisão de fls. 86/88 que havia admitido o processamento da presente reclamação, nos termos do art. 988, §1º do CPC, em razão de flagrante desrespeito ao entendimento já pacificado no âmbito dos recursos especiais repetitivos, que autoriza a discussão dos aspectos jurídicos da obrigação tributária, mesmo diante da adesão a parcelamento" (fl. 125).
+Impugnação não apresentada (fl. 135).
+É o relatório.
+Da análise dos autos, constato que a presente reclamação, em um primeiro momento, havia sido admitida, conforme a decisão monocrática de fls. 86/88, proferida pelo Ministro Napoleão Nunes Maia Filho.
+Posteriormente, o Ministério Público Federal apresentou seu parecer (fls. 100/102) e, após, diante da aposentadoria do Ministro Napoleão Nunes Maia Filho, os autos foram distribuídos a este relator.
+Na hipótese em exame, não há nenhuma contradição na decisão ora embargada, cabendo ressaltar que inexiste obstáculo para que o relator realize novo exame do cabimento da reclamação, situação que ocorreu neste caso.
+A presente reclamação foi ajuizada com o intuito de que esta Corte Superior aferisse a existência de eventual contrariedade do julgado reclamado com acórdão do STJ proferido sob o rito dos recursos repetitivos, REsp 1.133.027/SP (Tema 375/STJ).
+A propósito, a reclamação não é a via adequada para preservar a jurisprudência do STJ, e sim a autoridade de decisão tomada em caso concreto, envolvendo as partes postas no litígio do qual ela se origina, sob pena de tornar o instrumento processual mero sucedâneo recursal.
+Ainda, conforme exposto na decisão embargada, é incabível o uso da reclamação para o exame da correta aplicação de entendimento firmado em recurso especial repetitivo. O art. 988, IV, do CPC/2015, ainda no período da vacatio legis, foi alterado pela Lei 13.256/2016 para excluir a previsão de cabimento de reclamação em tal hipótese.
+Nos exatos termos da decisão embargada, reputei a presente reclamação inadmissível com amparo nos seguintes fundamentos:
+Na vertente hipótese, observo que a reclamação foi ajuizada com intuito de reformar decisão proferida pelo Tribunal Regional Federal da 1ª Região que havia negado provimento à apelação interposta pelo reclamante. Dessa forma, não está caracterizado o cabimento da presente ação.
+Isso, porque a reclamação não tem acolhida como sucedâneo recursal, nem é adequada à preservação da jurisprudência do Superior Tribunal de Justiça, mas visa a preservar a autoridade de decisão tomada no caso concreto e envolvendo as partes postas no litígio do qual ela é originada (Rcl 37.168/RJ, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/8/2019, DJe de 2/9/2019).
+Além disso, segundo orientação consolidada do Superior Tribunal de Justiça, é incabível reclamação para controle da aplicação pelos tribunais de tese posta em enunciado de súmula ou de precedente qualificado deste Tribunal adotado em julgamento de recurso especial repetitivo, sendo considerado indevido o uso da reclamação- ação autônoma que inaugura nova relação processual- em vez do sistema recursal, "ressalvada a via excepcional da ação rescisória". A propósito, cito os seguintes julgados (..) (fl. 116).
+Constato, neste momento, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro mate rial, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Nesse cenário, diante do manifesto descabimento da presente reclamação, a decisão embargada não merece reparos.
+Ante o exposto, rejeito os embargos de declaração opostos.
+Publique-se. Intimações necessárias.
+EMENTA
