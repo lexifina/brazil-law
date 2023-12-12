@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+AÇÃO DE INDENIZAÇÃO SECURITÁRIA. Decreto de extinção sem resolução do mérito, por reconhecimento de ilegitimidade passiva.
+Apelam os autores sustentando que a ré faz parte de um pool de seguradoras que atuam no mercado; a escolha da seguradora é feita por atribuição da própria CDHU; a ré é parte legítima para figurar no polo passivo da demanda; a exigência de que a falha do projeto deveria estar prevista no contrato para caracterização do sinistro é excessiva ao mutuário; o entendimento do STJ é no sentido de que há responsabilidade da seguradora quando presentes vícios decorrentes da construção. Cabimento e conversão em diligência. A legitimidade passiva já havia sido reconhecida e firmada em sede de despacho saneador.
+Legitimidade passiva caracterizada. Reconhecimento da solidariedade entre o pool de seguradoras operantes no ramo de seguro habitacional junto ao SFH. Há, portanto, responsabilidade pelos sinistros, cuja existência nem sequer é controvertida. Antes, porém, de condenar à seguradora ao pagamento de indenização no valor estimado por laudo pericial, pertinente a conversão do feito em diligência para oportunizar a ré manifestar-se, sob pena de cerceamento de defesa. Recurso provido.
+A recorrente afirma que a legislação federal foi ofendida:
+ILEGITIMIDADE PASSIVA - VIOLAÇÃO AOS ARTIGOS 17 C/C 485, VI, DO CÓDIGO DE PROCESSO CIVIL
+(..)
+Compulsando os autos, verifica-se que o acórdão recorrido reconheceu a legitimidade passiva da ora recorrente, por entender que à época da propositura da demanda existia um pool de seguradoras escolhidas como habilitadas a operar o seguro habitacional no Sistema Financeiro da Habitação. Consequentemente, foi declarada legitimidade passiva da ora recorrente, anulando a sentença proferida pelo juízo a quo.
+Todavia, tal determinação nega vigência as disposições contidas em lei federal, nomeadamente, aos artigos 17, bem como 485, VI do Código de Processo Civil.
+Cumpre transcrever as disposições supracitadas:
+(..)
+Ao contrário do entendimento exarado, não há como estabelecer vínculo entre a seguradora ora recorrente e os recorridos, tendo em vista a necessidade de garantia do equilíbrio de mercado no trato do referido seguro, em que foi estabelecido um rodízio entre as seguradoras eleitas para tais coberturas, administrando cada uma temporariamente (pelo prazo de um ano) o seguro, conforme determinado agente financeiro, nos termos determinados pelo artigo 5º da Resolução do Conselho Nacional de Seguros Privados CNSP-040, de 28.10.1993.
+Convém ressaltar que restou devidamente demonstrado nos autos que a Seguradora ora recorrente não é responsável pelos vícios construtivos alegados na inicial, em que a Excelsior Seguros figura como seguradora responsável.
+Assim, não há que falar em pool de seguradoras, uma vez individualizada nos autos qual a Seguradora responsável pela cobertura da apólice objeto da lide.
+Realizada a opção por determinada seguradora, no caso dos autos a Companhia Excelsior de Seguros, que opera junto ao agente financeiro descrito na inicial, não existe a possibilidade de sua modificação ou dos autores elegerem acionar aquela que melhor lhes aprouver, salvo pelo cumprimento do prazo previsto no subitem 2.2.4 das Normas e Rotinas do SH/SFH (Circular Susep nº 111/99).
+Portanto, a seguradora ora requerida jamais atuou como líder do consórcio de seguros ajustados com o agente financeiro em questão nestes autos, pelo que deve ser mantida a sentença proferida pelo juízo primevo, devendo o feito ser extinto, na forma do artigo 485, VI, do CPC c/c art. 17 do mesmo diploma legal.
+Diante disso, resta evidente que o v. acórdão ora recorrido negou vigência aos artigos. 17 e 485, VI do Código de Processo Civil.
+(..)
+4.1. NEGATIVA DE VIGÊNCIA - ALÍNEA A DO INCISO II, §1º DO ART. 206 DO CÓDIGO CIVIL - PRESCRIÇÃO - PRETENSÃO ENTRE SEGURADO E SEGURADORA: PRAZO ÂNUO
+(..)
+Nitidamente, vê-se que a pretensão veiculada na inicial é constituída entre segurado e seguradora, razão pela qual se aplica, sem sombra de dúvida, o prazo prescricional de um ano, previsto no art. 206, §1º, II, a, do Código Civil atual e no artigo 178, §6º, II, do antigo Diploma, bem como na súmula 101 do STJ. Com efeito, segundo esse mencionado dispositivo legal, prescreve em um ano a.. a pretensão do segurado contra o segurador, ou a deste contra aquele, contado o prazo (..) da ciência do fato gerador da pretensão".
+Ainda, imperioso ressaltar que as alegações dos próprios autores dão conta de que os danos eram de fácil constatação. Ou seja, a partir do momento do conhecimento do dano, inicia-se o prazo prescricional, consoante dispõe o art. 189 do Código Civil, in verbis:
+(..)
+Ademais, o r. acórdão ora vergastado, sustenta que os danos teriam ocorridos de maneira sucessiva e, assim, ocorridos vários sinistros, renovando-se, assim, o prazo prescricional.
+Com a devida venia, entendimento diverso a de ser aplicado, pois, no caso em questão, os autores tiveram ciência dos sinistros citados na inicial a partir do término da construção dos respectivos imóveis, do habite-se, da data do financiamento habitacional, ou, no máximo, de sua imissão na posse dos seus bens, derivada da celebração dos contratos em apreço, o que ocorreu desde há muito, sendo inequívoca a prescrição.
+(..)
+Note-se que, mesmo admitindo-se a hipótese de haver vícios de construção e que esses sejam cobertos pela apólice de seguros em objeto, tais somente poderiam ter ocorrido até a liquidação dos referidos contratos. A partir desta data não mais se pode falar em cobertura securitária, pela extinção do contrato principal ao contrato acessório de seguro.
+Assim, para cobrança de danos nos imóveis garantidos pelo seguro, tais deveriam ter ocorrido antes da liquidação dos contratos. Como ocorreram as liquidações nas datas referidas, a prescrição quanto aos contratos operou-se um ano após tal marco, eis que somente se pode falar em indenização securitária até a liquidação ou renegociação dos pactos.
+(..)
+Ainda que se considerasse para as ações de indenização por danos de vícios de construção nos contratos envolvendo mutuários do SFH o prazo vintenário previsto no Código Civil de 1916 (art. 177), ou o prazo decenal do Código Civil vigente (art. 205), conforme a regra de direito intertemporal estabelecida no art. 2.028 do atual Código Civil, mesmo assim teria ocorrido a prescrição no caso. Deve-se também destacar o prazo ânuo de prescrição para ações do segurado contra a seguradora já previsto pelo artigo 178 do antigo Código Civil.
+Desse modo, toda e qualquer pretensão relativa à indenização por suposto vício na construção aduzido pela parte autora está, inegavelmente, fulminada pela prescrição, mesmo considerando a máxima possibilidade de verificação de prazos prescricionais, independente da data em que tenham sido celebrados os contratos.
+Assim, torna-se fundamental a reforma do v. acórdão recorrido, com a adoção do prazo prescricional de um ano previsto no art. 206, §1º, II, a, do Código Civil atual, reconhecendo-se desta forma a prescrição da pretensão dos autores, com a consequente extinção do processo, com resolução do mérito, nos termos do art. 487, II, do Código de Processo Civil.
+4.2. VIOLAÇÃO AO ARTIGO 784 DO CÓDIGO CIVIL - AUSÊNCIA DE COBERTURA - VÍCIO DE CONSTRUÇÃO
+(..)
+Ressalte-se que essa exclusão, além de decorrer do contrato de seguro e da regulamentação, tem como base legal a regra contida no art. 784 do Código Civil, segundo o qual "não se inclui na garantia o sinistro provocado por vício intrínseco da coisa segurada". Trata-se, portanto, de uma exclusão de cobertura feita pela própria lei, cuja licitude, portanto, é inquestionável.
+(..)
+É o relatório.
+Decido.
+Acerca da legitimidade passiva, a Corte local consignou:
+A ação foi extinta sem resolução do mérito uma vez reconhecida a ilegitimidade passiva da ré, por considerar o juízo de origem que a responsabilidade da seguradora não excede ao financiamento dos recursos necessários para aquisição do imóvel.
+Ocorre, porém, que a questão da legitimidade passiva já havia sido objeto de apreciação em sede de despacho saneador, onde se confirmou a responsabilidade da ré para integrar o polo passivo da seguradora (f.8201823).
+A sentença poderia, no máximo, portanto, reconhecer a ausência de responsabilidade, mas não a ilegitimidade passiva.
+Outrossim, a legitimidade passiva da ré está embasada no art. 7º , parágrafo único, do Código de Defesa do Consumidor, aplicável à espécie em razão da genuína relação de consumo estabelecida.
+Com efeito, a ré faz parte de um grupo de seguradoras autorizadas a operar no ramo de seguro habitacional junto ao Sistema Financeiro da Habitação.
+Segundo se depreende, existe a possibilidade de transferência da seguradora, por mera liberalidade do agente financiador, ficando a seguradora líder da época do sinistro responsável pelo pagamento do sinistro.
+Assim, ainda que a apólice do autor tenha sido firmada com a Companhia Excelsior de Seguros, isso não implica em sua legitimidade para responder pelo pagamento, cabendo ao segurado eleger contra quem proporá a demanda, diante da solidariedade estabelecida entre as seguradoras, na medida em que não há demonstração de que lhe tenha sido dado conhecimento ao segurado acerca da mudança da responsabilidade de pagamento do sinistro ao longo dos anos.
+Entretanto, a recorrente não infirma os argumentos de que a responsabilidade solidária da seguradora está embasada no art. 7º, parágrafo único do CDC e de que não foi demonstrada a cientificação do consumidor a respeito da mudança da responsabilidade de pagamento do sinistro ao longo dos anos. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se, na espécie, por analogia, as Súmulas 284 e 283 do STF.
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA COLETIVA. PRESTAÇÃO CONTINUADA. FAZENDA PÚBLICA. PRESCRIÇÃO. OCORRÊNCIA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DOS ENUNCIADOS N. 283 E 284, AMBOS DO STF.
+(..)
+III - O fundamento do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+IV - Esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+V - Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+VI - Agravo interno improvido.
+(AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 10/6/2021.)
+Não se pode conhecer da irresignação contra a ofensa ao art. 206, § 1º, II, "a" do CC/2002, pois esse dispositivo legal e os temas a eles relacionados não foram analisados na origem. Ausente, portanto, o prequestionamento, o que atrai, também por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." Cabe observar que tal matéria sequer foi suscitada em Embargos de Declaração.
+Sobre o direito de indenizar, o Tribunal a quo registrou:
+A produção de laudo pericial não deixa dúvidas acerca da existência dos vícios construtivos destacados, inclusive, confirmados pela sentença.
+Incumbe à ré, portanto, a indenização pelos danos materiais existentes no imóvel e apontados em laudo pericial (f.93511302).
+Antes, porém, de condenar a seguradora ao pagamento do valor apontado pelo perito (f.1.302), convém a conversão do feito em diligência como forma de oportunizar a ré a se manifestar quanto ao valor apurado, sob pena de cerceamento de defesa.
+A apreciação da tese veiculada no Recurso Especial de que a cobertura da apólice de seguro habitacional não inclui vícios intrínsecos contidos nos imóveis objeto da lide é inviável em instância especial, porquanto implica revolvimento do acervo fático-probatório dos autos e interpretação de cláusulas contratuais do acordo celebrado entre as partes. É inadmissível o Recurso Especial cuja pretensão seja o simples reexame de prova ou mera interpretação de contrato firmado, conforme dispõem as Súmulas 7 e 5 do STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE SEGURO. MÚTUO
+HABITACIONAL. ABUSIVIDADE DAS CLÁUSULAS CONTRATUAIS. RESSALVA QUANTO À EXCLUSÃO DE VÍCIOS INERENTES À CONSTRUÇÃO. LAUDO PERICIAL. AUSÊNCIA DE RISCO DE DESMORONAMENTO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS E DO CONTRATO FIRMADO ENTRE AS PARTES. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão proferido na vigência do CPC/2015.
+II. Na forma da jurisprudência do STJ, ""à luz dos parâmetros da boa-fé objetiva e da proteção contratual do consum idor, conclui-se que os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto)." (REsp 1717112/RN, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/09/2018, DJe 11/10/2018)" (STJ, AgInt no REsp 1.707.717/RN, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 25/06/2019).
+III. O Tribunal de origem, à luz do contexto fático-probatório dos autos, concluiu que "o laudo não constatou a existência de risco - seja atual, seja iminente seja futuro - de desmoronamento parcial ou total, não obstante se tratem de construções de baixo custo". Nesse contexto, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa e do contrato firmado entre as partes, o que é vedado, no âmbito do Recurso Especial, pelas Súmulas 5 e 7 desta Corte. Precedentes do STJ.IV.
+Agravo interno improvido.
+(AgInt no REsp 1.614.941/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 5/10/2023.)
+Dia nte do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
