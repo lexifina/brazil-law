@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 06/12/2023 a 12/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Messod Azulay Neto, Teodoro Silva Santos, Daniela Teixeira e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO ESPECIFICAMENTE NO AGRAVO REGIMENTAL. INCIDÊNCIA POR ANALOGIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ E DO ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL - CPC. HABEAS CORPUS DE OFÍCIO EM FACE DE ACÓRDÃO PROFERIDO PELA TURMA. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica dos fundamentos da decisão agravada utilizados para indeferir liminarmente os embargos de divergência é requisito para o conhecimento do agravo regimental.
+1.1. No caso em tela, os embargos de divergência foram indeferidos liminarmente pelo óbice da Súmula n. 315 desta Corte, sendo certo que na peça do agravo regimental o referido fundamento não foi atacado.
+2. Para a pretensão de concessão de habeas corpus de ofício, registra-se que a Terceira Seção deste Tribunal Superior não tem competência para sanar eventual flagrante ilegalidade de acórdão proferido pela Turma da própria Corte.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental de folhas 328/335 interposto por VALDIR VICENTE FERREIRA DA CRUZ em face de decisão de folhas 322/323 da Ministra Presidente do Superior Tribunal de Justiça - STJ que, com base nos artigos 21-E, V, e 266-C, ambos do Regimento Interno do STJ, indeferiu liminarmente os seus embargos de divergência.
+A defesa do agravante sustenta que os embargos de divergência são cabíveis porque há clara violação a texto de lei federal e divergência pretoriana, nos termos do art. 105, III, "a" e "c", da Constituição Federal - CF, situação que comporta até mesmo a concessão de ordem de habeas corpus de ofício.
+Argumenta, então, pela violação ao art. 427 do Código de Processo Penal - CPP, em razão da demonstração de imparcialidade dos jurados, eis que o delito acarretou grande comoção na pequena e pacata cidade de Prados/MG. Destaca fundamentos da prisão preventiva e das alegações finais da acusação; manifestação de populares na porta do fórum quando da audiência de instrução e decreto de luto oficial do executivo municipal. Invoca dissídio jurisprudencial, tendo como paradigma o recurso especial n. 904.389/RN julgado pela 5ª Turma.
+Requer o provimento do agravo regimental ou a concessão de ordem de ofício.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO ESPECIFICAMENTE NO AGRAVO REGIMENTAL. INCIDÊNCIA POR ANALOGIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ E DO ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL - CPC. HABEAS CORPUS DE OFÍCIO EM FACE DE ACÓRDÃO PROFERIDO PELA TURMA. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica dos fundamentos da decisão agravada utilizados para indeferir liminarmente os embargos de divergência é requisito para o conhecimento do agravo regimental.
+1.1. No caso em tela, os embargos de divergência foram indeferidos liminarmente pelo óbice da Súmula n. 315 desta Corte, sendo certo que na peça do agravo regimental o referido fundamento não foi atacado.
+2. Para a pretensão de concessão de habeas corpus de ofício, registra-se que a Terceira Seção deste Tribunal Superior não tem competência para sanar eventual flagrante ilegalidade de acórdão proferido pela Turma da própria Corte.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo não merece conhecimento.
+A decisão agravada indeferiu liminarmente os embargos de divergência em razão do óbice da Súmula n. 315 do STJ:
+"Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas 283/STF e 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."" (fl. 322)
+No presente agravo regimental, o agravante não refuta especificamente o referido óbice.
+Dessa forma, considerando que o fundamento do indeferimento liminarmente não foi impugnado, aplicável por analogia a Súmula n. 182 do STJ que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada", bem como o art. 1.021, § 1º, do Código de Processo Civil - CPC. Ness e sentido, precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO ESPECIFICAMENTE. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ANÁLISE DAS TESES MERITÓRIAS DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. No caso em tela, os embargos de divergência foram indeferidos liminarmente com lastro no óbice da Súmula n. 315 do Superior Tribunal de Justiça, sendo certo que nas razões do agravo regimental o referido fundamento não foi atacado.
+3. Nos termos da jurisprudência desta Corte, "o pleito de concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do apelo especial ou de seus posteriores recursos, é descabido (AgRg no REsp 1706035/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018)" (EDcl no AgRg no AgRg no AREsp 1363476/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 8/3/2019).
+4. Além disso, " a  concessão de Habeas Corpus de ofício, no bojo de embargos de divergência, encontra óbice tanto no fato de que o Relator não tem autoridade para conceder a ordem por meio de decisão monocrática, desconstituindo, na prática, o resultado de acórdão proferido por outra Turma julgadora, como, tampouco a Seção detém competência constitucional para conceder Habeas Corpus contra acórdão de Turma do próprio Tribunal" (AgRg nos EAREsp n. 971.629/PR, Terceira Seção, Rel. Min. Reynaldo Soares Fonseca, DJe de 22/5/2017).
+5. Agravo regimental não conhecido.
+(AgRg nos EAREsp n. 2.170.521/SC, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 14/6/2023, DJe de 16/6/2023).
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR PELA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS SUFICIENTES DO DECISUM. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Do cotejo entre a decisão agravada e as razões do agravo regimental, verifica-se que a insurgência esbarra em óbice formal intransponível, qual seja, a ausência de impugnação específica de um dos fundamentos suficientes adotados para o indeferimento liminar dos embargos de divergência.
+2. A decisão agravada adotou dois fundamentos para indeferir liminarmente o recurso uniformizador: óbice da Súmula n. 315/STJ, por não ter ocorrido no aresto embargado a solução do mérito da controvérsia, ante a aplicação pela Quinta Turma das Súmulas n. 7/STJ e 284/STF, bem como a ausência de caracterização da similitude fática, por limitar-se a parte à transcrição do número e da ementa dos acórdãos apontados como paradigmas.
+3. Ao recorrer, a parte deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção. Incide à hipótese, por analogia, a Súmula n. 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Nos termos do art. 932, III, do Código de Processo Civil, aplicável à hipótese (art. 3º do Código de Processo Penal), não se conhece do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+5. É assente o entendimento desta Terceira Seção acerca da impossibilidade, em regra, da concessão de habeas corpus de ofício em sede de embargos de divergência, em especial quando o hipotético constrangimento ilegal invocado pelo embargante confunde-se com a própria razão de mérito dos embargos de divergência, qual seja, a alegada prevalência de questões formais - aplicação no recurso especial dos óbices das Súmulas n. 7/STJ e 284/STF - sobre o mérito das razões recursais.
+6. Agravo regimental não conhecido.
+(AgRg nos EAREsp n. 1.961.910/PR, relator Ministro Jorge Mussi, Terceira Seção, julgado em 14/12/2022, DJe de 16/12/2022).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Não se conhece de agravo regimental quando o agravante deixa de impugnar os fundamentos da decisão proferida, nos termos do que dispõe a súmula 182/STJ.
+Agravo regimental não conhecido.
+(AgRg nos EDv nos EREsp n. 1.511.784/RN, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Terceira Seção, julgado em 9/10/2019, DJe de 14/10/2019).
+Por fim, no tocante ao pleito de concessão de habeas corpus de ofício, temos óbice de competência:
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INSURGÊNCIA DEFENSIVA. DETRAÇÃO. ART. 387, § 2º, CPP. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS COMPARADOS. AUSÊNCIA DE PREJUÍZO AO RÉU EM DECORRÊNCIA DA EVENTUAL REALIZAÇÃO DE DETRAÇÃO PELO JUÍZO DE EXECUÇÃO. INVIABILIDADE DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO CONTRA ATOS DOS PRÓPRIOS MEMBROS DESTA CORTE. COMPETÊNCIA DO STF (ART. 102, INCISO I, ALÍNEA "I", DA CF). AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. A concessão de habeas corpus de ofício, no bojo de embargos de divergência, encontra óbice tanto no fato de que nem o Relator tem autoridade para, em decisão monocrática, conceder ordem que, na prática, desconstituiria o resultado de acórdão proferido por outra Turma julgadora, como tampouco a Seção detém competência constitucional para conceder habeas corpus contra acórdão de Turma do próprio tribunal. Precedentes.
+6. Agravo regimental desprovido.
+(AgRg nos EREsp n. 2.045.028/MG, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 23/8/2023, DJe de 25/8/2023).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. OMISSÃO. INOCORRÊNCIA. INTIMAÇÃO DA DEFESA ACERCA DA SESSÃO DE JULGAMENTO DO AGRAVO REGIMENTAL. DESNECESSIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+3. Em relação à suscitada omissão do julgado ao não avaliar a possibilidade de concessão de habeas corpus de ofício, assinala-se que a Terceira Seção deste Tribunal Superior não tem competência para sanar eventual flagrante ilegalidade de acórdão proferido pela Turma da própria Corte.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp n. 2.209.043/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 14/6/2023, DJe de 16/6/2023).
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
