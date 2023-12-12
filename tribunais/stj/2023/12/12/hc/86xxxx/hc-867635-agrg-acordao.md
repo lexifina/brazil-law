@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Teodoro Silva Santos, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. MANUTENÇÃO NA SENTENÇA. COMPATIBILIDADE COM O REGIME SEMIABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A fixação do regime inicial semiaberto não é suficiente, por si só, para ensejar a revogação da prisão preventiva, a qual pode ser compatibilizada com o modo intermediário de cumprimento de pena.
+2. "A insurgência acerca da incompatibilidade do regime imposto na condenação e o cumprimento da prisão preventiva deve ser sanada após a expedição de guia de execução provisória da pena, pelo Juízo das Execuções" (AgRg no RHC n. 167.060/SC, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 21/10/2022).
+3. O Juízo de primeira instância, ao condenar o réu a 4 anos, 4 meses e 15 dias de reclusão, em regime inicial semiaberto, indeferiu-lhe o direito de recorrer em liberdade. O Tribunal de origem, a seu turno, determinou a compatibilização da custódia cautelar do acusado com o modo de cumprimento de pena fixado na sentença, o que afasta o alegado constrangimento ilegal. A discussão sobre as condições concretas do estabelecimento prisional deve ser levada ao Juízo da Vara de Execuções Penais.
+4. Não há comprovação de que a defesa haja pleiteado benefícios executórios atinentes ao regime intermediário, tais como saída temporária e trabalho externo, tampouco que eles foram negados ao ora agravante.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+KADU CEZAR MACHADO DA SILVA interpõe agravo regimental contra a decisão de fls. 89-95, em que indeferi liminarmente o habeas corpus impetrado em seu favor.
+A defesa reafirma que o regime semiaberto é incompatível com a custódia cautelar.
+Alega que "o estabelecimento prisional em que o ora Paciente é exatamente o mesmo presídio no qual se encontra preso desde o começo, em virtude do flagrante: É UM PRESÍDIO DE REGIME FECHADO" (fl. 105), "não se tendo notícia da implementação de quaisquer dos benefícios inerentes ao regime, tais como, saída temporária e trabalho externo" (fl. 107).
+Pleiteia, portanto, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+AgRg no HABEAS CORPUS Nº 867.635 - SC (2023/0405238-0)
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. MANUTENÇÃO NA SENTENÇA. COMPATIBILIDADE COM O REGIME SEMIABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A fixação do regime inicial semiaberto não é suficiente, por si só, para ensejar a revogação da prisão preventiva, a qual pode ser compatibilizada com o modo intermediário de cumprimento de pena.
+2. "A insurgência acerca da incompatibilidade do regime imposto na condenação e o cumprimento da prisão preventiva deve ser sanada após a expedição de guia de execução provisória da pena, pelo Juízo das Execuções" (AgRg no RHC n. 167.060/SC, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 21/10/2022).
+3. O Juízo de primeira instância, ao condenar o réu a 4 anos, 4 meses e 15 dias de reclusão, em regime inicial semiaberto, indeferiu-lhe o direito de recorrer em liberdade. O Tribunal de origem, a seu turno, determinou a compatibilização da custódia cautelar do acusado com o modo de cumprimento de pena fixado na sentença, o que afasta o alegado constrangimento ilegal. A discussão sobre as condições concretas do estabelecimento prisional deve ser levada ao Juízo da Vara de Execuções Penais.
+4. Não há comprovação de que a defesa haja pleiteado benefícios executórios atinentes ao regime intermediário, tais como saída temporária e trabalho externo, tampouco que eles foram negados ao ora agravante.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito do esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+Tal como registrei às fls. 89-95, o Juízo de primeiro grau condenou o acusado a 4 anos, 4 meses e 15 dias de reclusão, em regime inicial semiaberto, mais multa, pelos crimes previstos nos arts. 12 e 16, caput e § 1º, IV, da Lei n. 10.826/2003. Foi indeferido ao réu o direito de recorrer em liberdade, por subsistirem os motivos do decreto primevo, cuja idoneidade já foi reconhecida por esta Corte Superior no HC n. 854.137/SC.
+Acerca da compatibilidade da prisão cautelar com o modo intermediário de cumprimento de pena, a Corte estadual assim decidiu (fl. 23, grifei):
+Por fim, tem-se que a Magistrada determinou, na sentença, a expedição de PEC provisório e, após a concessão parcial de liminar, por este relator, reiterou o comando e determinou "a expedição de oficio ao estabelecimento prisional para que o ergástulo proceda a adequada alocação/transferência dos condenados Kadu Cezar Machado da Silva e Julio Javier Benitez Silva ao regime semiaberto imposto na sentença".
+O que está sendo devidamente cumprido, uma vez que houve expedição da guia de recolhimento provisório (evento 258, GUIARECPRES01, dos autos de origem), bem como do PEC provisório - SEEU n. 8001157-21.2023.8.24.0033.
+Por fim, quanto aos documentos juntados no evento 19 dando conta de que "os reeducandos em regime semiaberto são alocados em celas de coabitação exclusiva com internos do mesmo regime de cumprimento, e não há ala especifica para o regime semiaberto" não demonstram, por si só, que a decisão desta Corte não está sendo cumprida.
+Ao contrário, ao que parece apesar de o presidio não ter ala especifica para o regime semiaberto o paciente está alocado em cela de coabitação exclusiva com os internos do mesmo regime. Assim, qualquer pleito sobre tal situação deve ser dirigido ao Juizo competente da Execução Penal.
+Ante o exposto, entendo ser devido a manutenção da concessão liminar para colocação imediata do paciente no regime fixado na sentença.
+Voto por conhecer do habeas carpis e conceder parcialmente a ordem para manter a determinação liminar de colocação imediata do paciente no regime fixado na sentença
+Na inicial do habeas corpus, a defesa pleiteou a revogação da prisão preventiva, com a expedição de alvará de soltura. Todavia, consoante a jurisprudência desta Corte de Justiça, a fixação do modo intermediário de cumprimento de pena não é suficiente para, por si só, motivar a revogação da custódia ante tempus, por ser plenamente compatível com a providência cautelar, máxime quando a medida extrema foi mantida por motivação concreta e idônea.
+Nesse sentido:
+ ..
+1. Deve ser mantida a decisão que indeferiu liminarmente a inicial, mantendo a negativa de recorrer em liberdade, proferida na sentença que impôs ao agravante o regime inicial semiaberto, uma vez foi determinada a compatibilização da prisão cautelar ao regime previsto na sentença, nos termos do entendimento desta Corte Superior.
+2. Agravo regimental improvido.
+(AgRg no HC n. 827.560/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 31/8/2023)
+ ..
+4. No mais, a compreensão desta Casa é de não haver incompatibilidade entre a negativa do recurso em liberdade e a fixação do regime semiaberto, sendo apenas necessária a compatibilização da custódia com o regime imposto, o que já foi determinado na decisão agravada.
+5. Veja-se que, " e mbora o Supremo Tribunal Federal tenha firmado o entendimento de que a prisão preventiva é incompatível com a fixação do regime inicial semiaberto, tal regra comporta exceções, como situações de reiteração delitiva ou violência de gênero" (AgRg no HC n. 223.529 , relator o Ministro Edson Fachin, Segunda Turma, DJE 19/4/2023), o que se enquadra exatamente ao caso dos autos, diante da tripla reincidência e maus antecedentes ostentados pelo ora agravante.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 829.686/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 28/9/2023)
+ ..
+III - A jurisprudência deste Superior Tribunal de Justiça se firmou no sentido da possibilidade de compatibilização entre a segregação cautelar e o regime menos gravoso estabelecido na sentença, desde que adequadas as condições da prisão provisória às regras do regime imposto, exatamente como ocorre na hipótese, em que prisão preventiva da agravante foi devidamente compatibilizada com o regime semiaberto imposto na sentença com a expedição da guia de execução provisória que lhe permite usufruir dos benefícios de execução penal, razão pela qual não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela presente via.
+Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 844.745/SC, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 1º/12/2023.)
+Tal como afirmou a Corte local, foi determinada a compatibilização da custódia cautelar do réu com o regime semiaberto. A discussão sobre as condições concretas do estabelecimento prisional deve ser levada ao Juízo da Vara de Execuções Penais. Ilustrativamente: "A insurgência acerca da incompatibilidade do regime imposto na condenação e o cumprimento da prisão preventiva deve ser sanada após a expedição de guia de execução provisória da pena, pelo Juízo das Execuções" (AgRg no RHC n. 167.060/SC, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 21/10/2022).
+Não há comprovação, ainda, de que a defesa pleiteou benefícios de execução penal atinentes ao regime intermediário, tais como saída temporária e trabalho externo, tampouco que eles foram negados ao réu.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+Por fim, o agravante pleiteou o seguinte: "determinar o Juízo da Execução Penal (no processo 8001157-21.2023.8.24.0033) insira o paciente em estabelecimento de regime semiaberto, no prazo máximo de (5) cinco dias e, na sua falta, seja realizada a transferência para regime domiciliar até o surgimento da vaga no regime intermediário. Alternativamente, sejam ministradas medidas cautelares diversas do cárcere, a teor do artigo 319 do Código de Processo Penal" (fl. 109, sic).
+Contudo, os pedidos foram formulados ineditamente neste regimental, a caracterizar inadmissível inovação recursal, o que impossibilita o seu conhecimento. Ilustrativamente: "A jurisprudência desta Corte Superior é firme em assinalar a impossibilidade de serem alegadas novas teses em agravo regimental ou em embargos declaratórios, por constituir indevida inovação recursal" (AgRg no REsp n. 1.648.439/SP, Rel. Ministro Rogerio Schietti, DJe 21/8/2018).
+À vista do exposto, nego provimento ao agravo regimental.
