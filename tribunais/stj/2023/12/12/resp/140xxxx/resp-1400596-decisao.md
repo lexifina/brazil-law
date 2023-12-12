@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pela Sul América Companhia Nacional de Seguros, com fundamento nos arts. 1.021 e 1.030, §2º, do CPC de 2015, contra decisão monocrática de fls. 1.718-1.722, ementado nos seguintes termos:
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões neles articuladas.
+Em seu agravo interno, a Sul América Companhia Nacional de Seguros alega a prescrição da pretensão indenizatória decorrente de vícios de construção verificados em imóveis objeto de contrato de mútuo, adquiridos pelo Sistema Financeiro de Habitação, tendo em vista o prazo ânuo para que o segurado promova a ação contra a seguradora, contado da data em que tenha tomado ciência do fato.
+Aponta, ainda, a necessidade de suspensão do feito, tendo em vista a afetação dos Recursos Especiais ns. 1.799.288/PR e 1.803.225/PR - Tema 1039/STJ.
+Ofertadas contrarrazões ao agravo interno às fls. 1.764-1.768.
+É o relatório. Decido.
+Inicialmente é forçoso consignar que, de fato, a controvérsia acerca do termo inicial do prazo prescricional para as demandas indenizatórias ajuizadas contra seguradoras nos contratos, ativos ou liquidados, foi afetada pela Segunda Seção desta Corte Superior ao rito dos recursos repetitivos, Tema 1.039/STJ, de relatoria da Ministra Isabel Gallotti, cuja tese foi assim delimitada:
+Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após o julgamento do Tema 1039/STJ, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015: a) na hipótese da decisão recorrida coincidir com a orientação do Superior Tribunal de Justiça, seja negado seguimento ao recurso especial ou encaminhado a esta Corte Superior para a análise das questõe s que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação do Superior Tribunal de Justiça, seja exercido o juízo de retratação e considerado prejudicado o recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas, ou c) finalmente, mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
