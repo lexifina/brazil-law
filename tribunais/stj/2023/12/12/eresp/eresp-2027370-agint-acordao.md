@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/12/2023 a 12/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+1. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto contra decisão deste Relator que indeferiu liminarmente os embargos de divergência, por entender não configurada similitude entre os acórdãos confrontados.
+Em suas razões, a ora agravante alega que: (i) houve o devido cotejo analítico entre o acórdão embargado da Terceira Turma e os paradigmas da Primeira e da Segunda Turmas (AgInt no REsp 1.295.463/SC; REsp 1.593.819/SP, respectivamente); (ii) foi devidamente demonstrada a divergência quanto à alegada impossibilidade de emendar à inicial, após a apresentação de contestação, sem a anuência da parte adversa, porquanto isso modifica a causa de pedir; (iii) a ausência de consentimento da Norte Energia S/A quanto à modificação do pedido ou da causa de pedir é incompatível com o disposto no art. 329, II do Código de Processo Civil.
+Devidamente intimada, a parte agravada apresentou impugnação.
+É o relatório.
+AgInt nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 2.027.370 - PA (2022/0293258-0)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+NORTE ENERGIA S/A
+ADVOGADOS
+:
+ARLEN PINTO MOREIRA - PA009232
+MARCELO AUGUSTO TEIXEIRA DE BRITO NOBRE - PA011260
+THIAGO REIS CORAL - PA018733
+ROMILDO OLGO PEIXOTO JUNIOR - DF028361
+ENRIQUE DORADO DE OLIVEIRA - DF054377
+VANESSA DE CASSIA PINHEIRO DE MACEDO - PA021806
+AGRAVADO
+:
+JOSE ELIAS DE FIGUEIREDO
+ADVOGADOS
+:
+CLOVIS CUNHA DA GAMA MALCHER FILHO - PA003312
+OMAR ELIAS GEHA - PR023204
+RENAN VIEIRA DA GAMA MALCHER - PA018941
+RICARDO AUGUSTO CHADY MEIRA - PA020201
+OMAR ELIAS GEHA - PA019432A
+INTERES.
+:
+CONSÓRCIO CONSTRUTOR BELO MONTE - CCBM
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+1. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+2. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de divergência foram opostos contra acórdão da colenda Terceira Turma, o qual concluiu que "o indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC".
+Em suas razões recursais, a embargante alegou que o aludido aresto divergiu dos seguintes precedentes desta Corte de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 535 DO CPC/73. OFENSA. NÃO OCORRÊNCIA. POSSIBILIDADE DE QUANTIFICAÇÃO DOS PREJUÍZOS NA FASE DE LIQUIDAÇÃO. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PEDIDO GENÉRICO. EMENDA À INICIAL APÓS A CONTESTAÇÃO. IMPOSSIBILIDADE.
+1. Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela Corte de origem, a fim de aferir se os alegados danos poderiam ser quantificados na fase de liquidação da sentença, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, conforme a Súmula 7/STJ.
+3. O Superior Tribunal de Justiça trilha o entendimento de que, em se tratando de pedido genérico, não cabe determinar a emenda à inicial após o recebimento da contestação, por implicar modificação do pedido e da causa de pedir.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.295.463/SC, Relator Ministro Sérgio Kukina, PRIMEIRA TURMA, DJe de 24/2/2017)
+PROCESSUAL CIVIL. EMENDA À INICIAL. MODIFICAÇÃO DA CAUSA DE PEDIR E DO PEDIDO, APÓS OFERECIDA A CONTESTAÇÃO. IMPOSSIBILIDADE. DETERMINAÇÃO, EX OFFICIO, DE QUE O AUTOR PROMOVA A CITAÇÃO DO LITISCONSORTE PASSIVO NECESSÁRIO. POSSIBILIDADE. ART. 47 DO CPC/1973. NORMA DE CARÁTER DE ORDEM PÚBLICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ não se admite a emenda da inicial após o oferecimento da contestação quando tal diligência ensejar a modificação do pedido ou da causa de pedir. Isso porque a regra prevista no art. 284 do CPC/1973 deve ser compatibilizada com o disposto no art. 264 do CPC/1973, que impede ao autor, após a citação, modificar o pedido ou a causa de pedir, sem o consentimento do réu; e, em nenhuma hipótese, permite a alteração do pedido ou da causa de pedir após o saneamento do processo.
+2. In casu, a emenda da inicial para possibilitar a inclusão no polo passivo da demanda de litisconsorte necessário não enseja modificação do pedido ou da causa de pedir.
+3. Ademais, é assente o entendimento do STJ de que o litisconsórcio necessário é regido por norma de ordem pública, cabendo ao juiz determinar, de ofício ou a requerimento de qualquer das partes, a integração à lide do litisconsorte passivo.
+4. Nos termos do art. 47 do Código de Processo Civil de 1973 há o litisconsórcio necessário quando, por disposição de lei ou pela natureza da relação jurídica, o juiz tiver de decidir a lide de modo uniforme para todas as partes.
+5. O litisconsórcio necessário, à exceção das hipóteses de imposição legal, encontra sua razão de ser na natureza da relação jurídica de direito material deduzida em juízo, que implica produção dos efeitos da decisão de mérito de forma direta na esfera jurídica de todos os integrantes dessa relação.
+6. Agravo Interno não provido.
+(AgInt no REsp 1.593.819/SP, Relator Ministro Herman Benjamin, SEGUNDA TURMA, DJe de 8/11/2016)
+Da análise do inteiro teor dos acórdãos em confronto, verifica-se que, realmente, os paradigmas não encerram hipóteses semelhantes à dos presentes autos.
+No acórdão embargado, a colenda Terceira Turma, apreciando controvérsia que envolvia ação de indenização ajuizada contra Norte Energia S/A - na qual a causa de pedir guardava relação com suposto dano material causado individualmente à parte autora (pescadora artesanal), em virtude da possível diminuição de peixes na região após a construção da Usina Hidrelétrica de Belo Monte -, aplicou o entendimento consagrado pela eg. Segunda Seção, no julgamento do REsp 2.013.351/PA, similar ao presente feito, no sentido de que "o indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC" (REsp 2.013.351/PA, Relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 19/9/2022).
+Por sua vez, nos v. acórdãos paradigmas, as Primeira e Segundas Turmas, analisando demandas diversas da presente, debateu acerca da interpretação a ser dada aos arts. 264 e 284 do CPC/1973, vigentes à época, concluindo que, havendo alteração do pedido ou da causa de pedir, não seria cabível autorizar a emenda à inicial após o recebimento da contestação.
+Tal tema, de caráter processual, não foi objeto de debate e decisão no aresto embargado, o qual frisou que a discussão, no presente feito, não se deu em torno da incidência do art. 329, II, do CPC/2015, mas tão-somente do direito previsto no art. 321 do CPC.
+Como se vê, as questões jurídicas trazidas nos acórdãos embargado e paradigmas são diversas, não havendo o indispensável dissenso a respeito da solução da questão processual controvertida. Assim, os paradigmas apresentados não são passíveis de caracterizar a divergência jurisprudencial suscitada pela parte embargante.
+A jurisprudência deste Tribunal Superior já pacificou entendimento de que somente "são cabíveis os Embargos de Divergência quando os arestos trazidos à colação firmaram posição antagônica sobre os mesmos fatos e questões jurídicas deduzidos no acórdão embargado. Ao contrário, devem ser indeferidos os embargos quando, considerando as peculiaridades de cada caso concreto, foram dadas soluções diferentes para as hipóteses confrontadas" (EREsp 443.095/SC, Segunda Seção, Rel. Min. CASTRO FILHO, DJ de 2/2/2004).
+Em reforço, confiram-se:
+PROCESSO CIVIL. DIREITO CIVIL. OBRIGAÇÕES. ESPÉCIES DE CONTRATOS. PREVIDÊNCIA PRIVADA. SIMILITUDE FÁTICA. IDENTIDADE ENTRE ACÓRDÃOS EM CONFRONTO. NÃO DEMONSTRADOS. INCIDÊNCIA DOS ARTS. 1.043 DO CPC/15 E 266 DO RISTJ. INCIDÊNCIA DO ART. 1.040 DO CPC/15. RESOLUÇÃO N.
+8/2008 DO STJ. RETORNO DO FEITO. SOBRESTAMENTO. DIVERGÊNCIA. AUSÊNCIA. SUSPENSÃO DOS AUTOS. IMPOSSIBILIDADE. DEVOLUÇÃO DOS AUTOS À ORIGEM. CONTROVÉRSIA. DIVERGÊNCIA NÃO EVIDENCIADA.
+I - Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento.
+II - Para a configuração do dissídio jurisprudencial, é imprescindível que se demonstrem a similitude fática e a identidade entre os acórdãos em confronto, nos termos dos arts. 1.043 do CPC/2015 e 266, § 4º, do RISTJ.
+III - Na hipótese, o acórdão embargado, com base nos termos do art. 1.040 do CPC/15 e invocando a Resolução n. 8/2008 do STJ, determinou o retorno do feito à origem em razão da controvérsia delineada nos autos estar sob análise de recurso sob o rito repetitivo - Tema 907.
+IV - O acórdão paradigma, a seu turno, cujo entendimento foi proferido em 2016, considerou que a " ..  devolução dos autos à Corte de origem é uma possível consequência da determinação de sobrestamento do recurso especial neste Superior Tribunal de Justiça  .. ".
+V - Não se verifica a divergência para os fins consignados pela embargante, com o intuito de driblar o sobrestamento do feito, objetivando o julgamento da matéria de mérito, cuja controvérsia encontra-se sob análise em feito de âmbito repetitivo.
+VI - Veja-se que a real pretensão da embargante é que os autos não sejam suspensos, reformando-se o acórdão embargado para que prevaleça a atual jurisprudência desta Corte em relação ao tema de mérito, a despeito da existência do representativo da controvérsia ainda não julgado.
+VII - Ora, a única eventual controvérsia entre o acórdão embargado e o apontado como paradigma está no fato da devolução ou não dos autos à origem. Enquanto o primeiro decidiu pela devolução, o segundo considerou que apenas o sobrestamento do recurso especial no STJ seria suficiente, e que a devolução dos autos à origem seria " ..  uma possível consequência da determinação de sobrestamento do recurso especial  .. ".
+VIII - Não evidenciada a divergência apontada, a hipótese se amolda ao seguintes precedente: EREsp n. 1.415.390/CE, Rel. Ministro Benedito Gonçalves, Corte EspeciaL, julgado em 21/6/2017, DJe 29/6/2017.
+IX - Agravo interno improvido.
+(AgInt nos EREsp 1.703.788/SE, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 20/03/2019, DJe 26/03/2019)
+EMBARGOS DE DIVERGÊNCIA. PROCESSO CIVIL. CORTE ESPECIAL. RECURSO INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO ALTERAÇÃO DA DECISÃO EMBARGADA. DESNECESSIDADE DE RATIFICAÇÃO. INSTRUMENTALISMO PROCESSUAL. CONHECIMENTO DO RECURSO. INTERPRETAÇÃO DA SÚMULA 418 DO STJ QUE PRIVILEGIA O MÉRITO DO RECURSO E O AMPLO ACESSO À JUSTIÇA.
+1. Segundo dispõe a Súmula 418 do STJ "é inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação".
+2. A Corte Especial do STJ, no julgamento da Questão de Ordem no REsp n. 1.129.215/DF, rel. Min. Luis Felipe Salomão, firmou o entendimento de que "a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior".
+3. "O cabimento dos embargos de divergência pressupõe a existência de discrepância de entendimentos entre Turmas do STJ a respeito da mesma questão de direito federal. Tratando-se de divergência a propósito de regra de direito processual não se exige haja identidade de questões de direito material decididas nos acórdãos em confronto. O que interessa para ensejar o cabimento dos embargos de divergência em matéria processual é que a mesma questão processual, em conjuntura semelhante, tenha recebido tratamento divergente". (EREsp 1080694/RJ, Rel. Min. Maria Isabel Gallotti, Segunda Seção, julgado em 08/05/2013, DJe 27/06/2013).
+4. Na hipótese, em se tratando de embargos de divergência sobre regra de direito processual (interpretação a ser conferida ao art. 508 do CPC), bem como em se reconhecendo não ter havido alteração do acórdão dos embargos de declaração na apelação, deve haver o processamento normal do recurso (principal), que não poderá mais ser alterado.
+5. Agravo regimental provido para dar provimento aos embargos de divergência.
+(AgRg nos EAREsp 300.967/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 16/09/2015, DJe 20/11/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. LIMITAÇÃO TEMPORAL. LEI 10.355/2001. POSSIBILIDADE DE ALEGAÇÃO EM SEDE DE EMBARGOS À EXECUÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS JULGADOS CONFRONTADOS. NECESSIDADE. PRECEDENTES DA CORTE ESPECIAL DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece da divergência interna corpus quando os julgados confrontados não guardam similitude fático-jurídica, o que é indispensável para o seu exame, já que os embargos de divergência constituem recurso que tem por finalidade exclusiva a uniformização da jurisprudência interna, cabível nos casos em que, embora a situação fática dos julgados seja a mesma, há dissídio jurídico entre as Turmas que compõem o Superior Tribunal de Justiça acerca da interpretação de uma mesma norma federal, o que não ocorre no presente casu.
+2. Agravo regimental não provido.
+(AgRg nos EAREsp 242.938/RS, CORTE ESPECIAL, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 29/9/2014)
+Diante do exposto, não tendo a ora agravante conseguido infirmar os fundamentos da decisão agravada, nega-se provimento ao agravo interno.
+É como voto.
