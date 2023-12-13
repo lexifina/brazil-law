@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MISAEL MARINHO CUSTODIO contra acórdão do Tribunal de Justiça do Estado do Amazonas.
+Consta dos autos que o paciente, submetido à julgamento perante o Tribunal do Júri, foi condenado à pena de 15 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, tendo sido determinada a execução provisória da pena, em atenção ao art. 492, I, "e", do Código Penal.
+Impetrado o habeas corpus originário, o Tribunal de origem denegou a ordem, em acórdão assim ementado:
+" . HOMICÍDIO PRIVILEGIADO. CONDENAÇÃO PELO TRIBUNAL. PENA IGUAL OU SUPERIOR A 15 ANOS. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA. LEGALIDADE. ART. 492, I, "E" DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Examinando os autos, a par desses argumentos, convém esclarecer, inicialmente, que, ao que consta da decisão apontada pela autoridade coatora, a prisão do Paciente decorre de determinação de execução provisória da pena, que tem por respaldo legal o art. 492, I, alínea "e" do Código de Processo Penal.
+2. Como se percebe, a regra acima transcrita, introduzida pela Lei n.º 13.964/19, autoriza ao Juiz presidente do Tribunal do Júri, em caso de condenação igual ou superior a 15 (quinze) anos de reclusão, determinar, desde logo, a execução provisória da pena.
+3. Não se desconhece que tal tema tem oscilado nos Tribunais, sendo que o atual posicionamento do Supremo Tribunal Federal aponta para a inconstitucionalidade do cumprimento antecipado da reprimenda penal imposta pelo Juiz ou pelo Tribunal, antes do trânsito em julgado. É o que ficou decidido na Ação Declaratória de Constitucionalidade nº 43, que afirmou a higidez do artigo 283 do Código de Processo Penal.
+4. Sendo assim, as alegações do impetrante no sentido de que a coação ilegal derivaria da ausência dos requisitos autorizadores da prisão preventiva não merecem guarida, dado que o título executivo encontra seu fundamento unicamente no art. 492, I, "e" do Código de Processo Penal, sendo irrelevante, nesse caso, a análise de qualquer um dos pressupostos da prisão cautelar ou, ainda, das condições subjetivas do paciente.
+5.ORDEM DE HABEAS CORPUS DENEGADO." (e-STJ, fls. 507-508).
+Neste habeas corpus, a defesa sustenta, em suma, a ocorrência de constrangimento ilegal na determinação de expedição de mandado prisional em desfavor do paciente, eis que, além de ele ter respondido ao processo em liberdade, "o dispositivo do artigo 492, I, "e", do Código de Processo Penal, inserido pelo pacote anticrime fere a presunção de inocência, à medida que, após a sentença do júri, passa o réu a ser considerado culpado, antecipando-se o imediato cumprimento de sua pena, sem respeitar o marco constitucional do trânsito em julgado, matéria já pacificada pelo pleno STF" (e-STJ, fl. 8).
+Requer, liminarmente e no mérito, a concessão da ordem para que seja expedido alvará de soltura ao paciente, permitido que ele aguarde em liberdade o trânsito em julgado da condenação, ainda que mediante aplicação de medidas cautelares do art. 319 do CPP.
+É o relatório.
+Decido.
+Em consulta à base de dados processuais desta Corte, verifica-se que este habeas corpus traz pedido igual ao deduzido no HC860757/AM e se insurge contra o mesmo acórdão do Tribunal de Justiça do Estado do Amazonas (HC 4005107-66.2023.8.04.0000).
+No referido habeas corpus foi concedida ordem de ofício, para suspender, até o trânsito em julgado da condenação, a execução provisória da pena impostas ao paciente na Ação Penal 0203786-58.2015.8.04.0001.
+Interposto agravo regimental pelo Ministério Público do Estado do Amazonas, o recurso foi provido, para reconsiderar a decisão e não conhecer do habeas corpus, mantendo-se, portanto, a decisão que determinou a execução imediata da condenação imposta ao paciente.
+Desse modo, tratando-se de reiteração de processo anteriormente impetrado perante esta Corte, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
