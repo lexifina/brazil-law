@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ADRIANA CONCEICAO DO CARMO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+A decisão monocrática é contraditória eis que não se trata de situação da súmula 284, nem mesmo situação de súmula 7.
+Aliás, súmula 7, resultaria em reanálise, o que, no presente caso, seria inadmissível, tendo em vista que, nem análise houve, não havendo o que reanalisar.
+Com relação à súmula 284, do STF, não há nenhuma deficiência na fundamentação.
+Todos os fatos restaram evidenciados, sendo impedido a produção da prova ora, as ofensas verbais são reais, o que houve foi óbice na produção da prova oral, e, desta forma, cerceado o direito previsto no Código de Processo Civil, o que foi muito bem apontado no Recurso Interposto.
+Além da ofensa à Constituição Federal, o que já restou definido pelo Supremo Tribunal Federal, que tais ocasiões podem ser resolvidas em sede de Recurso Especial, também restaram processadas as ofensas, à Lei Federal nos artigos 145, incisos I e IV, em razão da inimizade, bem como no interesse no julgamento de processo, com a nítida finalidade de causar prejuízo ao desafeto, o que evidencia a suspeição.
+Ofensa ao artigo 146 do Código de Processo Civil, que foi seguido rigorosamente, no procedimento, bem como as ofensas expostas nestes autos, e no Recurso Extraordinário, interposto, concomitantemente ao Recurso Especial, conforme pode se ver nestes autos à fls., 206/217.
+Há também explicitamente ofensa à Constituição Federal ao artigo 5º, LV, pois há possibilidade de ser reconhecida neste Recurso, ofensas às situações constitucionais dispostas no artigo 5º da Carta Magna, por ser situações de cláusulas pétreas e direitos e garantias constitucionais, conforme previsão do STF (fl. 861).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
