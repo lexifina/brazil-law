@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDIA REGINA QUEIROZ contra decisão que negou admissibilidade a recurso contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ fl. 451):
+AGRAVO INTERNO - DECISÃO QUE RECONHECE A COMPETÊNCIA DA TURMA RECURSAL DOS JUIZADOS ESPECIAIS PARA JULGAMENTO DO RECURSO - RECONHECIMENTO DO DIREITO A PENSÃO POR MORTE - INCAPACIDADE E INVALIDEZ - AÇÃO AJUIZADA APÓS 23/06/2015 - VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS - PROVA TÉCNICA SEM COMPLEXIDADE.
+- Ressalvadas as exceções contidas §1º do art. 2o, da Lei Federal 12.153/2009, todas as causas distribuídas após 23/06/2015, cujo valor seja inferior a 60 (sessenta) salários mínimos e não sejam de grande complexidade, devem obrigatoriamente tramitar nos Juizados Especiais da Fazenda Pública.
+- Em que pese o entendimento firmado por este eg. Tribunal de Justiça quando do julgamento do IRDR nº 1.0000.17.016595-5/001, não sendo o caso de realização de prova pericial complexa apta a afastar a competência dos Juizados Especiais da Fazenda Pública, deve ser reconhecida a competência do Juízo suscitante.
+Os embargos de declaração foram rejeitados (e-STJ fls. 479/482).
+Interposto recurso especial, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, defendeu a necessidade de produção de prova pericial. Afirmou que, à época do ajuizamento da ação, não havia sido instalada a Vara da Fazenda Pública no Juizado Especial. Acrescenta que houve negativa de vigência ao artigo 2º da Lei n. 12.153/2009, pois (e-STJ fl. 529):
+ ..  restou vulnerada a Lei Federal nº 12.153/2009 em seu art. 2º, cuja melhor interpretação pretoriana mostra que o Juizado é incompatível com a prova pericial mais complexa, ficando demonstrado o enquadramento deste recurso na previsão do art. 105, III, letra a, da CF-88. Por outro lado, demonstrou-se, também, que o valor em litígio é superior ao teto dos juizados, consideradas todas as pensões almejadas pela autora.
+Afirma que (e-STJ fl. 534):
+A decisão monocrática recorrida considerou pura e simplesmente o valor da causa atribuído na petição inicial, sem considerar o real conteúdo econômico da demanda, que supera o teto dos juizados, sendo que neste caso não se aplica a definição da competência tão-somente pelo valor da causa.
+Dessa forma, e considerando que não havia juizado instalado na época do ajuizamento, não estava a autora obrigada a se preocupar com o valor da causa em relação ao teto dos juizados.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso especial por verificar que a recorrente não impugnou devidamente os fundamentos adotados pelo acórdão recorrido. Aplicou, por conseguinte, o entendimento firmado na Súmula 283/STF. Consignou que a divergência jurisprudencial com julgados do STF não é apto para o conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional.
+Interposição de agravo (e-STJ fls. 602/608).
+Contraminuta (e-STJ fls. 614/322).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os pressupostos recursais do agravo e tendo a agravante impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A controvérsia do recurso especial não merece ser conhecida. É que as teses defendidas pela recorrente estão intrinsecamente ligadas a conteúdo fático-probatório, pois defende que o presente feito necessita de produção de prova pericial assim como o reexame do valores envolvidos para afirmar que o processo não seja deslocado para os Juizados Especiais Federais. Destaca-se que o Tribunal de origem destacou não haver complexidade na causa, nestes termos (e-STJ fl. 454):
+Todavia, não se infere, do caso concreto, a efetiva necessidade de realização de prova pericial de tal complexidade que extrapole os limites permitidos para o trâmite da demanda junto aos Juizados Especiais, na esteira, inclusive, da jurisprudência deste eg. Tribunal de Justiça  ..
+E, quanto ao valor da causa, assim se manifestou o colegiado (e-STJ fls. 452/453):
+Compulsando novamente os autos do processo principal, em que proferida a decisão agravada, verifica-se que tem por objeto o eventual direito da parte recorrida ao recebimento de pensão por morte de servidora estadual, ao argumento de incapacidade e invalidade para o trabalho e sustento próprio.
+Nota-se que foi atribuída à causa o valor de R$ 20.000,00 (vinte mil e reais).
+Assim, aplica-se à espécie a integralidade do que estabelece o art. 2º, §4º, da Lei n. 12.153/09, porque o valor da causa é inferior aos 60 (sessenta) salários mínimos exigidos pela lei.
+Aliás, a presente demanda não se enquadra em nenhuma das exceções contidas no §1º do mesmo dispositivo, as quais afastariam a competência ora mencionada.
+Portanto, para conhecer da controvérsia, necessário a revisão de conteúdo fático-probatório, vedado em sede de recurso especial, a teor do entendimento firmado na Súmula 7/STJ.
+Acrescenta-se que o dissídio jurisprudencial apresentado nas razões recursais aponta julgados do Supremo Tribunal Federal. Essa circunstância também obsta o conhecimento do presente recurso, porquanto não cabe ao Superior Tribunal de Justiça, em recurso especial, a interpretação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PENSÃO POR MORTE. COMPETÊNCIA DO JUIZADO DA FAZENDA PÚBLICA. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO COHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
