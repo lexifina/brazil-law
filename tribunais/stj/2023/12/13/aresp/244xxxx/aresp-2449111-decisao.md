@@ -1,0 +1,42 @@
+DECISÃO
+PEDRO HENRIQUE ELOY DE CASTRO agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500984-92.2021.8.26.0544.
+Depreende-se dos autos que o réu foi condenado a 1 ano de reclusão, em regime aberto, mais 10 dias-multa, pela prática do crime previsto no art. 155, caput, do CP.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de ajustar a pena para 6 meses de reclusão mais 5 dias-multa. Os embargos infringentes defensivos foram rejeitados.
+Nas razões do especial, alegou a defesa a violação do art. 155, caput, do CP, ao argumento de que, apesar de restituídos os bens subtraídos à vítima, não foi reconhecida a bagatela. Sustentou afronta ao art. 17 do CP, uma vez que o monitoramento da conduta pelos seguranças do estabelecimento vítima implica o reconhecimento do crime impossível. Aduziu a contrariedade ao art. 155, § 2º, do CP, pois não foi aplicada a privilegiadora.
+Requereu fosse "provido o presente Recurso Especial, interposto com fundamento na alínea "a" e "c" do texto constitucional, nos termos acima expostos" (fl. 295).
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+Colhe-se da denúncia que, em 19 de abril de 2021, por voltadas 13h50min, na Rua Bom Jesus de Piraporã, nº 2881, nas dependências do Supermercado "Boa", PEDRO HENRIQUE ELOY DE CASTRO subtraiu seis peças de picanha, avaliadas em R$ 429,42, de propriedade do estabelecimento vítima.
+ ..
+Ao contrário do que alega a defesa, não é hipótese de crime impossível, mesmo porque o réu conseguiu deixar o interior do estabelecimento comercial com a mercadoria em mãos, sendo detido na parte externa do local, não se havendo falar em absoluta ineficácia do meio. Inclusive, ele poderia ter empreendido fuga em poder da res furtiva, demonstrando que a subtração poderia, sim, ter se concretizado.
+Nesses termos, é certo dizer que a vigilância da conduta do acusado por funcionários não exclui a potencialidade delitiva, sobretudo porque,in casu, o réu chegou a apropriar-se das mercadorias e deixar o interior do supermercado, sendo abordado já no estacionamento.
+Também não é o caso de se reconhecer a atipicidade materialda conduta.
+Em primeiro lugar, verifica-se que o réu subtraiu objetos cujo valor não pode ser considerado desprezível (cf. auto de exibição e apreensão e cupomfiscal fls. 12/13), consistentes em peças de picanha avaliadas em aproximadamente R$ 430,00.
+ ..
+Também não se vislumbra a hipótese de desclassificação para furto privilegiado, porquanto o valor da res furtiva não pode ser considerado inexpressivo ao ponto de se aplicar o artigo 155, §2º, do Código Penal.
+(fls. 254-256, destaquei)
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o próprio legislador penal confere importância aos registros na folha de antecedentes para o cômputo da reprimenda, como ocorre na privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses para agentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade de individualizar a pena.
+Na espécie, o réu foi condenado por haver tentado subtrair de estabelecimento comercial peças de picanha, avaliadas em R$ 430,00, equivalentes a 39% do salário mínimo vigente na época dos fatos.
+Em que pese primariedade do agente, o valor dos bens subtraídos justificam o prosseguimento da atividade punitiva estatal.
+Por oportuno, destaco que, "a restituição dos bens subtraídos não conduz, necessariamente, à incidência do princípio da insignificância" (AgRg no HC n. 696.351/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 18/2/2022).
+No que tange à alegação de violação do art. 17 do Código Penal, não há falar em impossibilidade de consumação do delito pelo simples fato de o iter criminis haver sido monitorado pelos seguranças do estabelecimento.
+Essa circunstância não configura, por si só, crime impossível, que é identificável pela absoluta inidoneidade dos meios ou do objeto, a teor da Súmula n. 567 do STJ.
+Neste processo, o réu tentou subtrair as res furtivae e só foi detido depois de ultrapassar a área dos caixas do mercado, apesar da vigilância pelos fiscais do estabelecimento comercial.
+Assim, observa-se que, consoante entendimento consolidado deste Tribunal, a simples existência de vigilância no estabelecimento comercial não caracteriza crime impossível.
+Em casos similares ao dos autos, a jurisprudência desta Corte Superior tem registrado que "A existência de sistema de monitoramento eletrônico ou a observação dos passos do praticante do furto pelos seguranças da loja não rende ensejo, por si só, ao automático reconhecimento da existência de crime impossível, porquanto, mesmo assim, há possibilidade de o delito ocorrer. (HC n. 216.114/RJ, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 20/11/2013)
+Quanto à forma privilegiada do furto, o art. 155, § 2º, do Código Penal estabelece que, "Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa".
+Como se vê, constitui direito subjetivo do acusado o reconhecimento da figura privilegiada do furto, se forem atendidos os requisitos legais (primariedade e pequeno valor do bem furtado), o que se verifica nestes autos.
+O gradiente para a fração de redução (1/3 a 2/3 da pena) deve ser particularizado mediante a identificação de circunstâncias concretas que apontem maior reprovabilidade da conduta, como os maus antecedentes e demais vetoriais do art. 59 do CP, os quais podem ser utilizados para fundamentar a aplicação da fração mínima de redução da reprimenda.
+Assim, haja vista o afastamento da exasperação da pena-base pelo Tribunal de Justiça, deve ser aplicada redução de 2/3 em nova dosimetria, em decorrência do reconhecimento do privilégio.
+Fixada a reprimenda intermediária em 1 ano de reclusão mais 10 dias-multa, mantenho a redução de 1/2 decorrente da tentativa e aplico a de 2/3, referente à privilegiadora, com o que torno definitiva a sanção em 2 meses de reclusão mais 1 dia-multa.
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, com a finalidade de reduzir a reprimenda para 2 meses de reclusão mais 1 dia-multa, mantidos os demais termos do acórdão atacado.
+Publique-se e intimem-se.
+EMENTA
