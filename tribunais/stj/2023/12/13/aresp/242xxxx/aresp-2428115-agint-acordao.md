@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/12/2023 a 13/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. 2. AGRAVO IMPROVIDO.
+1. Cabe à parte recorrente, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecim ento do agravo, nos termos do art. 932, III, do CPC/2015.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Centro Trasmontano de São Paulo contra decisão da Presidência deste Superior Tribunal que não conheceu do recurso, por falta de impugnação de todos os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 377-379).
+Em suas razões, o insurgente postula a reforma da decisão agravada.
+Para tanto, defende que impugnou, de forma específica, todos os fundamentos do decisum agravado.
+Ressalta ainda que "a decisão negou provimento ao agravo não observou os requisitos formais estabelecido pela legislação, de modo que deixou de apresentar a sua devida fundamentação, trazendo ilações genéricas, em afronta direta à legislação, tal como lançado nas razões do recurso" (e-STJ, fl. 386).
+Impugnação apresentada às fls. 392-396 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. 2. AGRAVO IMPROVIDO.
+1. Cabe à parte recorrente, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecim ento do agravo, nos termos do art. 932, III, do CPC/2015.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento.
+Com efeito, é assente o entendimento desta Corte Superior no sentido de que o agravo que visa conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para sua negativa, consoante expressa previsão contida nos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ (AgInt no AREsp 1.827.867/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe 26/8/2021).
+Compulsando os autos, percebe-se que, de fato, na petição de fls. 360-370 (e-STJ), o agravante não rebateu todos os fundamentos utilizados na decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de Justiça do Estado de São Paulo. Isso porque, em suas razões de inconformismo, não indicou especificamente de que maneira não caberia a incidência da Súmula 7/STJ, conforme indicado às fls. 355-357 (e-STJ).
+Em face disso, à luz do princípio da dialeticidade, a parte recorrente deveria ter impugnado todos os fundamentos da decisão de inadmissibilidade do apelo especial, sob pena de seu não conhecimento.
+Importante ressaltar que a necessidade de impugnação a todos os fundamentos da decisão que inadmitiu o recurso especial foi ratificada no julgamento dos EAREsp n. 746.775/PR (da relatoria do Ministro João Otávio de Noronha, sendo relator para acórdão o Ministro Luis Felipe Salomão), proferido pela Corte Especial em 19/9/2018.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de agravo interno contra decisão da presidência que não conheceu do agravo em recurso especial em virtude da ausência de impugnação de todos os fundamentos da decisão de admissibilidade, mais especificamente, da Súmula n. 83/STJ.
+2. É cediço nesta Corte que a impugnação da aplicação da Súmula n. 83/STJ pelo juízo negativo de admissibilidade recursal demanda, além de pedido explícito de afastamento do óbice processual, a apresentação de jurisprudência contrária à apresentada na decisão que inadmite o apelo especial ou ainda o devido distinguishing entre o precedente apontado e o caso concreto.
+3. No ponto, a parte limitou-se a argumentar a necessidade de superação da jurisprudência atual deste e.STJ, sem apontar a existência de precedente apto a amparar a pretensão recursal.
+4. Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado específica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.260.230/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023)
+AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182/STJ.
+1. Inexistindo impugnação específica, como seria de rigor, de todos os fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide, na espécie, o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015, bem como a Súmula 182/STJ.
+2. Além disso, observa-se tumulto processual decorrente de uma gama de recursos idênticos protocolados no âmbito desta Corte, todos manifestamente inadmissíveis.
+3. Agravo interno não conhecido, com aplicação de multa em 5% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito prévio da respectiva quantia. (AgInt no AREsp 1.827.919/SP, Rel. Ministro Luis Felipe Salomão, QUARTA TURMA, julgado em 28/6/2021, DJe 1º/7/2021 - sem grifo no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE REALIZADO COM BASE NO ART. 1.030, I, "B", DO CPC/2015. RECURSO INADEQUADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DE QUE NÃO FOI DEMONSTRADA DIVERGÊNCIA JURISPRUDENCIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO PROVIDO.
+1. Dentre os fundamentos invocados pelo Tribunal de origem para inadmitir o recurso especial manejado pelo ora agravante, um deles foi a adequação do acórdão recorrido às teses firmadas nos Temas 905/STJ e 810/STF.
+2. Portanto, nesse fundamento, o juízo de admissibilidade foi realizado com base no art. 1.030, I, "b", do CPC/15 ("negar seguimento:  ..  b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos).
+3. Contra decisão fundada em tal dispositivo, o Código de Ritos prevê a possibilidade de interposição de agravo interno, consoante o § 2º do supramencionado artigo legal ("§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021").
+4. O presente agravo não merece ser conhecido pela notória inadmissibilidade. Ademais, não se cabe falar em fungibilidade no caso, ante a ausência de dúvida objetiva diante da previsão expressa no código processual. Precedentes.
+5. Por outro lado, o fundamento da decisão agravada de que não foi demonstrada, no recurso especial, a divergência jurisprudencial através do cotejo analítico entre os julgados não foi objeto de impugnação no agravo em recurso especial.
+6. Diante da ausência de impugnação adequada e específica a dois dos fundamentos, forçosa é a incidência do disposto no art. 932, III, do CPC (correspondente ao art. 544, § 4º, I, do CPC/1973), segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada. Precedentes.
+7. Agravo interno a que se nega provimento. (AgInt no AREsp 1.757.719/SC, Rel. Ministro Og Fernandes, SEGUNDA TURMA, julgado em 17/5/2021, DJe 1º/6/2021 - sem grifo no original)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 518 do STJ).
+3. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+4. Agravo interno não provido. (AgInt no AREsp n. 1.727.212/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020)
+Assim sendo, como a parte agravante não se desincumbiu de tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+Desse modo, não há razões que justifiquem o acolhimento da pretensão recursal, motivo pelo qual permanece incólume o entendimento firmado na decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
