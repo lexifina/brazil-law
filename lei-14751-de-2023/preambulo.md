@@ -1,0 +1,2 @@
+Institui a Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados, do Distrito Federal e dos Territórios, nos termos do inciso XXI do caput do art. 22 da Constituição Federal, altera a Lei nº 13.675, de 11 de junho de 2018, e revoga dispositivos do Decreto-Lei nº 667, de 2 de julho de 1969.
+O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
