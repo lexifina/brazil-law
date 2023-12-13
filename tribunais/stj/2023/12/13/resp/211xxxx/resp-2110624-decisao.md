@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJPR assim ementado (fls. 492-493):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. DIFERENCIAL DE ALÍQUOTA DE ICMS - DIFAL. SENTENÇA QUE CONCEDEU A SEGURANÇA,AFASTANDO A EXIGIBILIDADE DO DIFERENCIAL DE ALÍQUOTA DO ICMS EM OPERAÇÃO INTERESTADUAL ENVOLVENDO MERCADORIA DESTINADA A CONSUMIDOR FINAL NÃO CONTRIBUINTE DO IMPOSTO.
+ILEGITIMIDADE PASSIVA DA AUTORIDADE IMPETRADA. NÃO ACOLHIMENTO, POSTO QUE DETÉM COMPETÊNCIA PARA PROMOVER OS ATOS QUE A IMPETRANTE PRETENDE COIBIR.
+DECADÊNCIA. NÃO OCORRÊNCIA. EFEITOS CONCRETOS DA ALTERAÇÃO NORMATIVA QUE TÊM REPERCUSSÃO CONTINUADA NA ATIVIDADE DA IMPETRANTE. MANDADO DE SEGURANÇA MANEJADO CONTRA LEI EM TESE. PRETENSÃO MANDAMENTAL VOLTADA CONTRA EFEITOS CONCRETOS DA LEI ESTADUAL Nº 18.573/2015. REPETIÇÃO DO INDÉBITO. IMPERTINÊNCIA DA SÚMULA 266, STF. AUSÊNCIA DE PEDIDO.
+REEXAME NECESSÁRIO. REMÉDIO CONSTITUCIONAL IMPETRADO PARA RECONHECIMENTO DA INCONSTITUCIONALIDADE DA COBRANÇA DO ICMS-DIFAL. TEMA 1093 DO STF. APLICAÇÃO DA TESE FIXADA PELA SUPREMA CORTE. NECESSIDADE DE REGULAMENTAÇÃO POR LEI COMPLEMENTAR. EFICÁCIA A PARTIR DA DATA DE JULGAMENTO (24/02/2021). WRIT IMPETRADO EM 07/05/2020. AÇÃO AJUIZADA ANTES DO JULGAMENTO E RESSALVADA DA MODULAÇÃO DOS EFEITOS. DIREITO LÍQUIDO E CERTO CONFIRMADO.
+SENTENÇA MANTIDA, EM REEXAME NECESSÁRIO.
+NEGADO PROVIMENTO AO RECURSO DE APELAÇÃO.
+Embargos de declaração rejeitados às fls. 554-557.
+O recorrente alega, além de divergência jurisprudencial, violação do art. 23 da Lei 12.016/2009, argumentando, à fl. 576, que desde 2015 a impetrante sujeitava-se aos concretos efeitos da alíquota diferenciada do ICMS, no entanto, apenas em 2020 impetrou o mandado de segurança, ou seja, quando já não poderia fazê-lo, devido à decadência, consumada em 120 dias após a entrada em vigor da EC 87/2015 e da Lei Estadual n. 18.573/15. Diante disto, irrelevante que a recorrida tenha nomeado "preventivo" seu writ.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 622-624.
+Parecer do MPF às fls. 656-674.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Havendo obrigação de trato sucessivo, que se renova periodicamente, o Mandado de Segurança possui natureza preventiva, de modo que não se aplica a decadência do art. 23 da Lei 12.016/2009. Nesse sentido: RMS 68.200/RJ, Rel Ministra Assusete Magalhães, Segunda Turma, DJe de 15.3.2022. (AgInt no AgInt no AREsp n. 1.864.970/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2023, DJe de 28/6/2023).
+Com efeito, o mandado de segurança preventivo, em regra, não se subsome ao prazo decadencial de 120 (cento e vinte) dias, na forma da jurisprudência desta Corte, porquanto o "justo receio" renova-se enquanto o ato inquinado de ilegal pode vir a ser perpetrado.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. ATO COTEPE ICMS 33/2015. ATO DE EFEITOS CONCRETOS. DECADÊNCIA CONFIGURADA. PEDIDO DE AFASTAMENTO DA DECADÊNCIA. RECURSO NÃO PROVIDO.
+1. Havendo obrigação de trato sucessivo, que se renova periodicamente, o Mandado de Segurança possui natureza preventiva, de modo que não se aplica a decadência do art. 23 da Lei 12.016/2009. Nesse sentido: RMS 68.200/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 15.3.2022.
+(..)
+7. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+8. Agravo Interno não provido.
+(AgInt no AgInt no AREsp 1.864.970/PE, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 28/6/2023, grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. MANDADO DE SEGURANÇA PREVENTIVO. TRIBUTÁRIO. INEXISTÊNCIA DE AMEAÇA CONCRETA CONTEMPORÂNEA A IMPETRAÇÃO. AUSÊNCIA DE PROVA. DECADÊNCIA.
+1. O mandado de segurança preventivo, em regra, não se subsume ao prazo decadencial de 120 (cento e vinte) dias, na forma da jurisprudência desta Corte, porquanto o "justo receio" renova-se enquanto o ato inquinado de ilegal pode vir a ser perpetrado (Precedentes: REsp n. 539.826/RS, Rel. Min. Teori Albino Zavascki, DJU de 11/1/2004; REsp n. 228.736/SP, Rel. Min. Milton Luiz Pereira, DJU de 15/4/2002; e RMS n.º 11.351/RN, Primeira Turma, Rel. Min. Garcia Vieira, DJ 20/8/2001).
+(..)
+4. Agravo interno não provido.
+(AgInt no RMS 57.828/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 29/4/2019, grifo nosso)
+No caso, retira-se do assentado no acórdão estadual (fl. 494):
+"O apelante também argui questão prejudicial de mérito, vale dizer, a decadência para a impetração de mandado de segurança, uma vez decorridos 120 (cento e vinte) dias da vigência da Lei Estadual nº 18.573/2015, porém, sem razão.
+Observa-se que o mandado de segurança busca o afastamento da cobrança do ICMS sobre operações específicas da empresa impetrante, a partir da declaração de inconstitucionalidade pelo Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 1.287.019 - Tema1093, e ADI 5469.
+Com efeito, a entrada em vigor da Lei Estadual nº 18.573/2015 não é o marco inicial do prazo decadencial, pois esta norma surte efeitos concretos e contínuos, incidentes sobre o patrimônio da contribuinte, não se aplicando o prazo decadencial do art. 23 da Lei nº 12.016/2009."
+Assim, rever tal entendimento, com o objetivo de acolher a pretensão recursal de afastar o caráter preventivo do mandamus, porquanto impetrado contra lei estadual em tese, demandaria necessário revolvimento de matéria fática e interpretação de norma de direito local, o que é inviável em sede de recurso especial, à luz do óbice contido nas Súmula 07 desta Corte e 280 do STF, respectivamente.
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ICMS. MANDADO DE SEGURANÇA PREVENTIVO. CONFIGURAÇÃO DO JUSTO RECEIO CAPAZ DE ENSEJAR A CONCESSÃO DA SEGURANÇA. ACÓRDÃO EMBASADO NO EXAME DE ELEMENTO FÁTICOS E NA INTERPRETAÇÃO DE LEI ESTADUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 7/STJ E 280/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - É cabível o mandado de segurança preventivo, não sujeito ao prazo decadencial, quando a situação de fato que ensejaria a pratica do ato tido por ilegal existe, ou esteja na eminência de surgir, havendo o justo receio de que tal ato venha a ser praticado. Precedentes.
+III - O Tribunal a quo, a partir da interpretação da legislação estadual, Lei n. 18.573/2015, e do exame dos elementos fáticos/probatórios contidos nos autos, assentou que a petição inicial se reveste de reveste de caráter preventivo e, por conseguinte, não se subsome ao prazo decadencial previsto no artigo 23, da Lei n, 12.016/2019
+III - In casu, rever o entendimento da Corte de origem, com o objetivo de acolher a pretensão recursal de afastar o caráter preventivo do mandamus e, por conseguinte, reconhecer configurada a decadência, demandaria necessário revolvimento de matéria fática e interpretação de norma de direito local, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 7/STJ. e 280/STF.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.084.033/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/11/2023, DJe de 29/11/2023, grifo nosso)
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA PREVENTIVO. ART. 23 DA LEI 12.016/2009. DECADÊNCIA. INAPLICABILIDADE. CONFIGURAÇÃO DO JUSTO RECEIO CAPAZ DE ENSEJAR A CONCESSÃO DA SEGURANÇA. ACÓRDÃO EMBASADO NO EXAME DE ELEMENTO FÁTICOS E NA INTERPRETAÇÃO DE LEI ESTADUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 7/STJ. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
