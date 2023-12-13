@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado de próprio punho por RAFAEL ALESSANDRO CABRAL HORACIO ALVES, condenado, ao lado de outra pessoa, por infração ao art. 157, § 2º, I e II, do Código Penal, por três vezes, à pena de 25 anos e 8 meses de reclusão, em regime prisional fechado, e 57 dias-multa em seu mínimo unitário (Processo n. 0001928-57.2014.8.26.0531, da Vara Única da comarca de Santa Adélia/SP).
+O impetrante/paciente pede a absolvição e aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Ali, em 28/3/2017, a Terceira Câmara Criminal negou provimento à apelação defensiva (fls. 35/40). E, em 30/6/2021, o Quinto Grupo de Direito Criminal julgou improcedente a Revisão Criminal n. 0042023-97.2019.8.26.0000, do corréu (fls. 41/48).
+Em suma, ele sustenta que não houve apreensão da arma de fogo para comprovação real de roubo majorado; que, nessa linha, não houve perícia; que ele estava foragido na data dos fatos, circunstância reveladora da não participação nos delitos; que foi acusado por ser reincidente.
+A Defensoria Pública da União, instada a se manifestar, disse simplesmente o seguinte (fls. 56/57):
+O peticionário endereçou ao "sr. Dr. Presidente Ministro do STJ" uma "revisão criminal". A carta foi recebida no protocolo do Superior Tribunal de Justiça em 26/05/2023. Em razão do acordo firmado entre DPU e STJ, referida missiva aportou nesta Instituição em 05/07/2023.
+Após, o registro e processamento da carta, foram solicitados na origem documentos para instrução do pedido. Constatou-se assim que já havia sido julgada revisão criminal pelo TJ/SP.
+Dessa forma, embora a petição endereça a esta Corte Superior tenha sido denominada de "revisão criminal", em realidade, o preso pretende impetrar uma ordem de habeas corpus contra a decisão proferida pelo tribunal na origem no julgamento da referida revisão criminal.
+Ante ao exposto, requer seja o pleito processado e julgado como habeas corpus.
+Estes autos foram a mim distribuídos por prevenção de Turma.
+É o relatório.
+Este writ não tem cabimento.
+Primeiro, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, é cediço que não cabe ampla análise de fatos e provas nos autos de habeas corpus, de cognição sumária, o que torna totalmente inadmissível a análise do pedido de absolvição. Com efeito, em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (AgRg no HC n. 836.836/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/11/2023). Da Sexta Turma, entre inúmeros outros, AgRg no HC n. 742.228/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 31/5/2023.
+Terceiro, a ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, porquanto a linha de entendimento adotada pelo Tribunal local no acórdão ora impugnado quanto à desnecessária apreensão e perícia da arma de fogo encontra respaldo na firme jurisprudência do STJ. Por todos, este precedente: EREsp n. 961.863/RS, Relator para o acórdão Ministro Gilson Dipp, Terceira Seção, DJe 6/4/2011.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS DE PRÓPRIO PUNHO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. NEGATIVA DE AUTORIA. APROFUNDADO EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. DOSIMETRIA DA PENA. FALTA DE APREENSÃO/PERÍCIA DA ARMA DE FOGO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Petição inicial indeferida liminarmente.
