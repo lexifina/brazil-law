@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por UNIMED DE SÃO CARLOS - COOPERATIVA DE TRABALHO MÉDICO (UNIMED SÃO CARLOS), na demanda em que contende com I M (I M), contra o acórdão da Quarta Turma, da Relatoria do Ministro RAUL ARAÚJO, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PACIENTE DIAGNOSTICADO COM TRANSTORNO DO ESPECTRO AUTISTA. TRATAMENTO MULTIDISCIPLINAR. RECUSA. IMPOSSIBILIDADE. DANO MORAL. CARACTERIZAÇÃO. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. "A Segunda Seção desta Corte, no julgamento dos EREsp n.º 1.889.704/SP, relator Ministro Luis Felipe Salomão, julgado aos 8/6/2022, reafirmou o dever da operadora do plano de saúde em custear, de forma ilimitada, as sessões de tratamento para os beneficiários com diagnóstico de "Transtorno do Espectro Autista" (AgInt no AgInt no AREsp 1.696.364/SP, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+2. Nas hipóteses em que há recusa injustificada de cobertura, por parte da operadora do plano de saúde, para o tratamento do segurado, causando-lhe abalo emocional, esta Corte Superior admite a caracterização do dano moral, não se tratando de mero aborrecimento. Precedentes.
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado, em sede de recurso especial, quando irrisório ou exorbitante. No caso, o montante fixado em R$ 7.000,00 (sete mil reais) mostra-se proporcional e adequado, pois o sofrimento e a angústia da paciente foram sobremaneira agravados pela conduta da operadora de plano de saúde, em razão da impossibilidade da continuidade do tratamento já iniciado, ante a limitação do número de sessões para a terapêutica multidisciplinar.
+4. Agravo interno desprovido. (e-STJ, fl. 912)
+O dissenso submetido à análise da Segunda Seção diz respeito a possibilidade de afastar a presunção de dano moral na hipótese em que a recusa de cobertura pelo plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual.
+Sustentou a embargante que a mera recusa à cobertura de tratamentos não previstos no rol de procedimentos da ANS quando derivada de interpretação razoável do contrato trata-se de mero exercício regular de direito da operadora de planos de saúde, não ensejando o dever de indenizar (e-STJ, fls. 931/969).
+O embargante citou como paradigma julgados da Terceira Turma prolatados no REsp nº 1.886.178/SP, j. 25/11/2021, DJe de 29/11/2021 e no AgInt no REsp nº 2.058.134/SE, j. 19/6/2023, DJe de 22/6/2023, ambos de relatoria da Ministra NANCY ANDRIGHI.
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+Cinge-se a controvérsia em dirimir suposto dissenso quanto a possibilidade de afastar a presunção de dano moral na hipótese em que a recusa de cobertura pelo plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+A divergência viabilizadora dos embargos não está configurada diante da ausência de similitude fático-jurídica entre os acórdãos confrontados.
+Com efeito, o acórdão embargado da Quarta Turma manteve a decisão do Tribunal estadual de que o sofrimento e a angústia da paciente foram sobremaneira agravados pela conduta da operadora de plano de saúde, em razão da impossibilidade da continuidade do tratamento já iniciado.
+Os acórdãos paradigmas, por sua vez, entenderam pela possibilidade de, em determinadas situações fáticas, afastar a presunção de dano moral na hipótese em que a recusa de cobertura pelo plano de saúde decorrer de dúvida razoável na interpretação do contrato e não há o agravamento da situação do paciente.
+Nesse contexto, não se afigura possível extrair do acórdão paradigma a interpretação pretendida pelo embargante, de que era o caso de excluir a condenação por dano moral.
+Aliás, muito pelo contrário, o acórdão embargado concluiu que o sofrimento e a angústia da paciente foram sobremaneira agravados pela conduta da operadora de plano de saúde. Por seu turno, os acórdãos paradigmas admitem a condenação por dano moral se há o agravamento da situação do paciente.
+Assim, não foi demonstrada a discrepância de entendimento entre os acórdãos confrontados, constatando-se, na verdade, a convergência entre os acórdãos.
+Desse modo, permanece hígido o entendimento da Corte Especial de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de similitude fática entre os julgados indicados.
+Nessas condições, nos termos do art. 266, do RISTJ, INDEFIRO LIMINARMENTE os presentes embargos de divergência.
+MAJORO os honorários advocatícios anteriormente fixados em favor de I M em 5% sobre o valor já arbitrado pela origem, nos termos do art. 85, § 11, do NCPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º 11 do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça (art. 98, § 3º do NCPC).
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. EMBARGOS REJEITADOS LIMINARMENTE.
