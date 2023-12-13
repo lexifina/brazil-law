@@ -1,0 +1,2 @@
+Altera as Leis nºs 12.608, de 10 de abril de 2012, e 12.340, de 1º de dezembro de 2010, para aprimorar os instrumentos de prevenção de acidentes ou desastres e de recuperação de áreas por eles atingidas, as ações de monitoramento de riscos de acidentes ou desastres e a produção de alertas antecipados.
+O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
