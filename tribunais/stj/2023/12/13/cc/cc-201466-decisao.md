@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUIZO FEDERAL DA 33ª VARA DE RECIFE - SJ/PE em face do JUIZO FEDERAL DA VARA CIVEL E CRIMINAL DE ALTAMIRA - SJ/PA.
+O suscitante afirma, em suma, que a modificação do domicílio do devedor não induz a mudança de competência.
+Por sua vez o suscitado argumenta, em resumo, que havendo modificação de domicílio é de rigor o reconhecimento da incompetência.
+Parecer do MPF pela competência do Juízo Federal da Vara cível e Criminal de Altamira - SJ/PA.
+É o relatório. Decido.
+A incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício.
+Nesse diapasão, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA NEGATIVO. SERVIDOR PÚBLICO. REVISÃO DE BENEFÍCIO DE PENSÃO POR MORTE. AÇÃO PROPOSTA POR PENSIONISTA EM FORO DO ÓBITO DO EX-SERVIDOR. DOMICÍLIO DA AUTORA EM OUTRA LOCALIDADE. DECLINAÇÃO DE OFÍCIO DE COMPETÊNCIA. CRITÉRIO TERRITORIAL. IMPOSSIBILIDADE.
+1. Na inicial, a requerente afirma ser filha de ex-servidor público estadual falecido. Aduz que recebeu pensão por morte até completar seus 21 anos por não mais preencher os requisitos previstos na Lei Estadual do Paraná n. 12.398/1998. Contudo, afirma que essa Lei estadual determina o pagamento da pensão até os 25 anos, desde que solteira, sem renda e universitária. Visa ao restabelecimento do pagamento do benefício previdenciário.
+2. O Juízo suscitado declinou da competência por reconhecer que não é foro: do domicílio da autora, do local das sedes dos requeridos e nem do local em que a obrigação será cumprida. Assim determinou a remessa dos autos ao Juízo da Comarca de Ponta Porã/MS, por ser o foro do domicílio da requerente. O Juízo suscitante ressaltou que o critério de competência territorial não é absoluto, razão pela qual eventual incompetência não poderia ser suscitada de ofício.
+3. A requerente informa que reside em Ponta Porão/MS e que a parte requerida possui sede em Curitiba/PR. Porém, alega que o Juízo da Vara da Fazenda Pública da cidade de Umuarama/PR deve ser considerado competente nos termos do art. 52 do CPC/2015. Para tanto, assevera que um dos réus é o "Estado do Paraná", de modo que pode escolher onde a ação será proposta dentre as opções legais, dentre elas: a postulação no local de ocorrência do ato ou fato que originou a demanda. A esse respeito, aduz que o seu genitor faleceu na cidade de Umuarama/PR.
+4. O cancelamento do pagamento da pensão por morte é o fato que deu causa à presente demanda. Logo, o (eventual) restabelecimento da pensão não passa por novo exame do óbito do ex-servidor, mas sim pela anulação de um ato administrativo posterior (ou pela correção de uma omissão administrativa de não pagar). Ademais, conforme se observa pelas declarações da própria requerente, o Foro do Juízo Suscitado não é domicílio nem da parte autora nem da parte ré da ação. Portanto, a competência do Juízo Suscitado não pode ser determinada à luz do art. 52, parágrafo único, do CPC/2015.
+5. Ademais, no caso dos autos, a definição de competência territorial não está vinculado a critérios absolutos. Portanto, não poderia ter sido suscitado de ofício nos termos da Súm. n. 33/STJ, que assim dispõe: "A incompetência relativa não pode ser declarada de ofício."
+6. Conflito conhecido para declarar a competência do Juízo suscitado.
+(CC n. 167.566/MS, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 14/10/2020, DJe de 28/10/2020.)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL PROPOSTA NA 18ª VARA FEDERAL DE SALVADOR/BA. COMPETÊNCIA RELATIVA. IMPOSSIBILIDADE DE DECLARAÇÃO DA INCOMPETÊNCIA DO JUÍZO DE OFÍCIO.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+2. A Ação de Execução Fiscal foi proposta na Seção Judiciária do Estado da Bahia, contudo o Juiz da 18ª Vara Federal de Salvador/BA declinou de sua competência para a Seção Judiciária do Paraná, visto que o domicílio da parte executada se encontra "sob a jurisdição de outro TRF, desde antes do ajuizamento da ação." Além disso, asseverou o magistrado em sua decisão, que seria evitada a expedição de "diversos ofícios e cartas precatórias para viabilizar o cumprimento de todos os atos pertinentes á persecução executiva."
+3. O Juiz suscitante não aceitou sua competência, tendo em vista o teor do enunciado na Súmula 58 desta Corte.
+4. Com razão o Juízo suscitante, porquanto a incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício, como fez o Juízo suscitado.
+5. Conflito de Competência conhecido a fim de declarar competente para processar o feito o Juízo da 18ª Vara Federal de Salvador/BA.
+(CC n. 167.679/PR, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/11/2019, DJe de 7/5/2020.)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o JUIZO FEDERAL DA VARA CIVEL E CRIMINAL DE ALTAMIRA - SJ/PA.
+Publique-se. Intimem-se.
+EMENTA
