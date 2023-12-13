@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RICARDO JUNIOR DA SILVA HARTZ, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime semiaberto, mais pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem proveu o recurso da acusação para reconhecer a majorante do art. 40, III, da Lei n. 11.343/2006, bem como para aplicar o redutor do tráfico privilegiado, mantidos, no entanto, a sanção e o regime prisional estabelecidos na sentença. Os embargos de declaração foram acolhidos para corrigir a pena aplicada, reduzindo-a para 3 anos e 1 mês de reclusão, em regime aberto, substituída por duas restritivas de direitos.
+Neste habeas corpus, alega o impetrante que a ínfima quantidade de entorpecente apreendida não constitui elemento idôneo e suficiente para deixar de aplicar o redutor do tráfico privilegiado na fração máxima.
+Requer, assim, a incidência da minorante do art. 33, § 4º, da Lei de Drogas na fração de 2/3, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A Corte de origem aplicou a redutora do tráfico privilegiado na fração de 1/3 com base nos seguintes fundamentos:
+"No mérito, voto por acolhê-los.
+De fato, não constou na decisão as frações que foram utilizadas a partir do reconhecimento da minorante e da majorante previstas, respectivamente, no art. 33, §4º, e art. 40, inc. III, ambos da Lei 11.343/06, o que mitiga o exercício da ampla defesa.
+Dessa forma, passo a sanar a omissão acima descrita.
+A pena-base foi fixada no mínimo legal (05 anos), visto que o Juízo Singular entendeu que não existiam circunstâncias que desabonassem o réu.
+Na segunda fase da dosimetria, não havia atenuantes ou agravantes que modificassem a pena provisória, motivo pela qual foi mantida em 05 anos.
+Quanto à majorante prevista no art. 40, inc. III, da lei de Drogas, entendo ser adequado o incremento de 1/6, o que eleva a pena para 05 anos e 10 meses.
+Considerando a variedade de droga apreendida (crack e cocaína), aplico a redutora do art. 33, §4º, da Lei 11.343/06 no patamar de 1/3, o que resulta numa pena definitiva de 03 (três) anos e 01 (um) mês.
+Em atenção à proporcionalidade, reduzo também a pena de multa para 380 dias-multa, à razão de 1/30 sobre o valor do salário-mínimo vigente ao tempo do fato" (e-STJ, fls. 22-24)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Quanto o tema, cabe destacar que a Terceira Seção, nos autos do HC n. 725.534/SP, de minha relatoria, julgado em 27/4/2022, DJe 1º/6/2022, reafirmou seu posicionamento anterior, conforme estabelecido no ARE 666.334/AM, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena.
+Portanto, embora os vetores do art. 42 da Lei de Drogas, isoladamente, não sejam suficientes para afastar a redutora do tráfico privilegiado, conforme posicionamento firmado pelo Supremo Tribunal Federal e mais recentemente por este Tribunal Superior, constituem elementos idôneos para modular a referida causa de diminuição, quando não valoradas na primeira etapa da dosimetria, sob pena de incorrer em bis in idem.
+In casu, observa-se que a instância antecedente, tendo reconhecido o preenchimento dos requisitos legais, fixou o patamar de redução da pena em 1/3, diante da diversidade e da natureza das drogas apreendidas - 22 pinos de cocaína (17 g) e 35 porções de crack (2,8 gramas).
+Entretanto, embora a Corte de origem tenha apresentado fundamento válido, é de rigor a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo, por ser o paciente primário, de bons antecedentes e não ser expressiva a quantidade dos entorpecentes apreendidos.
+A propósito:
+"REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. APLICAÇÃO DA FRAÇÃO MÁXIMA. POSSIBILIDADE.
+1. Tendo o legislador previsto apenas os pressupostos para a incidência do art. 33, § 4º, da Lei n. 11.343/2006, deixando, contudo, de estabelecer os parâmetros para a escolha entre a menor e a maior frações indicadas para a mitigação da reprimenda, devem ser consideradas as circunstâncias judiciais previstas no art. 59 do Código Penal, e, especialmente, a natureza e a quantidade de droga, a teor do disposto no artigo 42 da Lei n. 11.343/2006.
+2. Ainda que o crack tenha um alto poder de lesividade, a inexpressiva quantidade de tóxicos apreendidos, aliados à favorabilidade das outras circunstâncias judiciais, recomenda a aplicação da causa de diminuição em seu grau máximo, ou seja, 2/3 (dois terços).
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1.044.533/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/4/2017, DJe 5/5/2017);
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. APLICABILIDADE DA CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 NO PATAMAR MÁXIMO. QUANTIDADE DE DROGA INEXPRESSIVA. AUSÊNCIA DE ELEMENTOS A DEMONSTRAR QUE A PACIENTE NÃO SEJA PEQUENA TRAFICANTE. REGIME PRISIONAL FECHADO FIXADO COM BASE NA GRAVIDADE ABSTRATA DO DELITO E NA QUANTIDADE DE DROGA. FUNDAMENTAÇÃO AFASTADA. PRIMARIEDADE E MONTANTE DA PENA QUE ENSEJAM O REGIME INICIAL ABERTO.
+1. De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de um sexto a dois terços da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. Na hipótese dos autos, a Corte a quo, embora tenha reconhecido a primariedade da paciente, a ausência de maus antecedentes e evidências de que integrasse organização criminosa, reformou a sentença, aplicando o supracitado redutor na fração mínima, com base na quantidade da droga apreendida, concluindo não se tratar de pequeno traficante. Contudo, a quantidade de entorpecente apreendida, 17 porções de cocaína, não se mostra suficiente para se chegar a tal conclusão, à míngua de elementos concretos.
+ ..
+5. Agravo regimental desprovido."
+(AgRg no HC 381.399/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/4/2017, DJe 8/5/2017).
+Passo à dosimetria da pena.
+A pena-base foi estabelecida em 5 anos de reclusão e pagamento de 500 dias-multa, nos termos do art. 59 do Código Penal, a qual permaneceu inalterada na segunda fase da dosimetria, por inexistirem atenuantes ou agravantes. Na terceira etapa, elevo a sanção em 1/6 pela majorante do art. 40, III, da Lei n. 11.343/2006 e, preenchidos os requisitos do art. 33, § 4º, da referida norma , reduzo-a na fração de 2/3, resultando a final em 1 ano, 11 meses e 10 dias de reclusão e pagamento de 194 dias-multa.
+Fixado o regime aberto e substituída a pena privativa de liberdade por restritivas de direitos, não há considerações a serem feitas quanto ao modo prisional e à permuta legal.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima, resultando a sanção final do paciente em 1 ano, 11 meses e 10 dias de reclusão e pagamento de 194 dias-multa.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
