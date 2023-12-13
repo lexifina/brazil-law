@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S/A e JOSÉ CARLOS DOMINGUES JÚNIOR contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+MANDADO DE SEGURANÇA. LICITAÇÃO. INTERPRETAÇÃO DO ITEM 8.3.8 DO EDITAL PARA CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA. IMPETRANTE OBTEVE O VISTO DO CREA/SP PARA A FINALIDADE ESPECÍFICA DE PARTICIPAÇÃO EM LICITAÇÕES. APENAS SE VENCER A CONCORRÊNCIA É QUE DEVERÁ, ANTES DE INICIAR OS SEUS TRABALHOS, PROVIDENCIAR VISTO AO REGISTRO DA PESSOA JURÍDICA ORIGINÁRIO DEOUTRO CONSELHO REGIONAL.
+A parte recorrente alega, em síntese (fls. 2535/2549):
+restabelecimento da vigência das Normas Federais aplicáveis e violadas, a saber, aos artigos 3º, 41 e 55, XI, da Lei Federal 8.666/93, e aos artigos 3º, 58, 65 e 69 da Lei Federal nº 5.194/1966  ..  Na hipótese dos autos, a impetrante teve ciência do teor do Edital, mas não impugnou o item 8.3.8, o qual exige "Em atenção à Lei 5.194/1966, prova de que possui inscrição ou visto no Conselho Regional Profissional da (s) Unidade(s) Federativa(s) em que será executado o objeto deste Edital", o que implica em concordância com os seus termos, não se podendo alegar desconhecimento  ..  por essa razão, inaplicável o entendimento expressado pelo Tribunal a quo quanto a pretensa ilegalidade do art. 65 da Lei 5.194/1966, posto que o registro no Conselho Regional da Unidade Federativa em que será executado o contrato é questão legal e que busca a obtenção de maior eficiência e produtividade
+Sem contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice nas Súmulas 7 do STJ e 282 do STF (fls. 2566/2570), o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende a desnecessidade do exame de provas para análise de sua pretensão recursal (fls. 2574/2588).
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que interessa ao objeto do recurso especial, vejamos o que consignou o órgão julgador a quo:
+No caso, como claramente comprovado, a impetrante obteve o visto do CREA/SP para a finalidade específica de participação em licitações, exarado em certidão de registro expedida pelo CREA/SC, conforme formalidades determinadas na Resolução 413/97 do CONFEA.
+Reporto-me aos fundamentos da r. sentença: "portanto, apenas se vencer a concorrência é que deverá a impetrante, antes de iniciar os seus trabalhos, providenciar o visto do item I. Trata-se, assim, de um encargo a ser exigido apenas por ocasião da contratação e não na fase habilitatória.
+Assim, atendeu a impetrante o disposto no item 8.3.8 do edital, sendo ilegítima, portanto, a sua desclassificação, pois as exigências impostas pelo impetrado extrapolam o previsto no edital e na legislação que regulamenta as atividades profissionais da impetrante".
+Pois bem.
+Do que se observa, forçoso o não conhecimento do recurso, pois, além de parte dos dispositivos tidos por violados não terem sido prequestionados, verifica-se que eventual conclusão em sentido contrário àquela do acórdão recorrido dependeria do reexame do acervo probatório, providência inadequada na via do especial. Observância das Súmulas 7 do STJ e 282 do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
