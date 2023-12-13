@@ -1,0 +1,6 @@
+Art. 12-D. Sem prejuízo dos requisitos estabelecidos em legislação específica, o plano de contingência ou o documento correlato, a ser elaborado e implantado pelo empreendedor, deve conter, no mínimo:
+I - a delimitação das áreas potencialmente atingidas, com indicação daquelas que devem ser submetidas a controle especial e vedadas ao parcelamento, ao uso e à ocupação do solo urbano;
+II - o sistema de alerta à população potencialmente atingida, as rotas de fuga e os pontos seguros a serem alcançados no momento do acidente ou desastre;
+III - a descrição das ações de resposta a serem desenvolvidas e a organização responsável por cada uma delas, incluídos o atendimento médico hospitalar e psicológico aos atingidos, a estratégia de distribuição de doações e suprimentos e os locais de abrigo; e
+IV - a organização de exercícios simulados, com a participação da população e dos órgãos do Sinpdec, realizados periodicamente e sempre que houver alteração do plano de contingência ou do documento correlato.
+Parágrafo único. Sem prejuízo dos requisitos estabelecidos em legislação específica, o plano de contingência ou o documento correlato deverá ser revisto periodicamente, conforme estabelecido pelo órgão fiscalizador, e sempre que alterações das características do empreendimento implicarem novos riscos ou elevação do grau de risco de acidente ou desastre.

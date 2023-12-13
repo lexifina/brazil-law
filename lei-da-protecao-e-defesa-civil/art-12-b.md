@@ -1,0 +1,1 @@
+Art. 12-B. A emissão de licença ambiental de instalação, prevista na Lei nº 6.938, de 31 de agosto de 1981, para empreendimentos que envolvam risco de desastre, fica condicionada à elaboração de plano de contingência ou de documento correlato pelo empreendedor.
