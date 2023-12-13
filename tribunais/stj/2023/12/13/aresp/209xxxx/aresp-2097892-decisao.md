@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por LILIAN MARIA SCAVARIELLO ESPANHOLETO contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, proposto contra acórdão proferido na Apelação Criminal n. 0000057-28.2011.8.26.0650.
+Nas razões do recurso especial, a Defesa aponta violação ao art. 110, e seus parágrafos, do Código Penal, na redação anterior à Lei n. 12.234/2010, sob o argumento de prescrição retroativa com termo inicial em data anterior ao recebimento da denúncia, já que os fatos ocorreram antes da edição da referida lei.
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo (fl. 785).
+É o relatório. Decido.
+Nos termos da jurisprudência desta Corte Superior, os crimes tributários de natureza material somente se consumam na data da constituição definitiva do crédito tributário, o que ocorreu, in casu, em 13/08/2010.
+Assim, incide a vedação ao reconhecimento da prescrição da pretensão punitiva, pela pena concreta, entre a data da consumação do delito e o recebimento da denúncia, introduzida pela Lei n. 12.234/2010.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO NO HABEAS CORPUS. CRIME TRIBUTÁRIO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO COMO MOMENTO DE CONSUMAÇÃO DO DELITO. IMPOSSIBILIDADE DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO RETROATIVA. INCIDÊNCIA DA LEI N. 12.234/2010. AGRAVO DESPROVIDO.
+1. "Nos termos da jurisprudência desta Corte Superior, os crimes tributários de natureza material somente se consumam na data da constituição definitiva do crédito tributário, o que ocorreu, no caso concreto, em 26/4/2011. Assim, incide a vedação ao reconhecimento da prescrição da pretensão punitiva, pela pena concreta, entre a data dos fatos e o recebimento da denúncia, introduzida pela Lei n. 12.234/2010." (AgRg no REsp n. 1.965.366/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/5/2022, DJe de 20/5/2022).
+2. Agravo regimental desprovido.""(AgRg no HC n. 743.123/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/9/2022, DJe de 21/9/2022.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, II, C/C O ART. 11, AMBOS DA LEI N. 8.137/1990). PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MARCO INICIAL. SÚMULA VINCULANTE N. 24 DO STF. CONSTITUIÇÃO DO CRÉDITO FISCAL APÓS A ENTRADA EM VIGOR DA LEI 12.234/2010.
+1. Nos termos da jurisprudência desta Corte Superior, os crimes tributários de natureza material somente se consumam na data da constituição definitiva do crédito tributário, o que ocorreu, no caso concreto, em 26/4/2011. Assim, incide a vedação ao reconhecimento da prescrição da pretensão punitiva, pela pena concreta, entre a data dos fatos e o recebimento da denúncia, introduzida pela Lei n. 12.234/2010.
+2. Levando-se em consideração os marcos interruptivos da prescrição, que se deram com o recebimento da denúncia (10/12/2018) e com as publicações da sentença condenatória (5/4/2019) e do acórdão confirmatório da condenação (28/5/2020), não se pode reconhecer a prescrição da pretensão punitiva, visto que entre esses marcos interruptivos não transcorreu período superior a 4 anos.
+3. Agravo regimental improvido." (AgRg no REsp n. 1.965.366/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMEN TO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 1º, INCISO II, DA LEI N. 8.137/1990. CONSUMAÇÃO DELITIVA. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. DATA POSTERIOR À LEI N. 12.234/2010. PRESCRIÇÃO RETROATIVA PE LA PENA CONCRETA. INAPLICABILIDADE. VEDAÇÃO LEGAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
