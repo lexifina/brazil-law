@@ -12,6 +12,7 @@ Seção I
 Disposições Gerais
 Seção II
 Do Conselho Nacional de Proteção e Defesa Civil - CONPDEC
+CAPÍTULO III-A
 DA GESTÃO DE ACIDENTES E DESASTRES INDUZIDOS POR AÇÃO HUMANA
 CAPÍTULO IV
 DISPOSIÇÕES FINAIS
