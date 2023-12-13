@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interno interposto por TRILPC CONSULTORIA E PARTICIPAÇÕES LTDA. contra decisão de fls. 631-635 (e-STJ) que conheceu do agravo para negar provimento ao provimento ao recurso especial da agravante.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado (fl. 420, e-STJ):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - JULGAMENTO CONJUNTO DE PROCESSOS DIVERSOS EM RAZÃO DA CONEXÃO - PRAZO RECURSAL PRÓPRIO PARA CADA UM - OPOSIÇÃO DE EMBARGOS EM UM PROCESSO QUE NÃO INTERROMPE O PRAZO PROCESSUAL DO OUTRO - TRÂNSITO EM JULGADO - VALIDADE DA CERTIFICAÇÃO PELA SECRETARIA JUDICIÁRIA - RECURSO DESPROVIDO.
+1. No caso de processos sentenciados no mesmo ato, dada a conexão existente entre eles, os prazos recursais transcorrem de forma autônoma, de modo que a oposição de embargos declaratórios em um deles não interrompe o prazo recursal do outro, restando acertada a certificação do trânsito em julgado deste e devolução ao juízo de origem.
+2. Recurso desprovido.
+Nas razões do recurso especial (fls. 427-454, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 55, 489, 1.022 e 1.026 do Código de Processo Civil de 2015.
+Sustentou a ocorrência de negativa de prestação jurisdicional, ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão recorrida.
+Apontou que, como os processos em análise foram julgados em conjunto, em virtude do reconhecimento da conexão, os embargos de declaração opostos em apenas um deles suspenderia o prazo recursal em ambos, não havendo falar em trânsito em julgado do outro processo conexo.
+Em razão do juízo prévio negativo de admissibilidade, a insurgente interpôs agravo, do qual se conheceu para negar provimento ao recurso especial, pelos seguintes fundamentos: a) não configuração da alegada violação dos arts. 489 e 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas, de forma fundamentada; e b) incidência da Súmula 7/STJ para revisão das conclusões do acórdão recorrido.
+Neste agravo interno (fls. 639-667, e-STJ), a agravante: 1) pugna pela inaplicabilidade dos óbices apontados para o desprovimento de seu reclamo, ao tempo que repisa as mesmas razões trazidas no recurso especial; e 2) aponta prevenção para julgamento deste feito para o Ministro Antônio Carlos Ferreira, Quarta Turma, a quem foi anteriormente distribuído, em 24/10/2022, o AREsp 2.211.340/MS, ainda pendente de julgamento; tendo os autos em apreço sido distribuídos a este signatário em 19/5/2023.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 671-679 (e-STJ).
+Brevemente relatado, decido.
+Diante dos argumentos apresentados no agravo interno, constata-se assistir razão à agravante no tocante à inaplicabilidade da Súmula 7 do STJ.
+Assim, mediante juízo de retratação, nos termos do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 631-635 (e-STJ) e passo a novo exame do agravo em recurso especial (e-STJ, fls. 481-494).
+Considerando a relevância da matéria controvertida e os fundamentos trazidos no agravo, mediante juízo de reconsideração, determino a sua conversão em recurso especial, a fim de que a matéria seja mais bem examinada, sem prejuízo de posterior análise dos pressupostos de admissibilidade do recurso.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JULGAMENTO CONJUNTO DE PROCESSOS DIVERSOS EM RAZÃO DA CONEXÃO. PRAZO RECURSAL. OPOSIÇÃO DE EMBARGOS EM APENAS UM PROCESSO. SUSPENSÃO DO PRAZO RECURSAL. RECONSIDERAÇÃO DA DECISÃO. AGRAVO PROVIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
