@@ -1,0 +1,1 @@
+Art. 24-J. O tempo de serviço militar e o tempo de contribuição ao Regime Geral de Previdência Social ou a regime próprio de previdência social terão contagem recíproca para fins de inativação militar ou aposentadoria, e a compensação financeira será devida entre as receitas de contribuição referentes aos militares e as receitas de contribuição referentes aos demais regimes.

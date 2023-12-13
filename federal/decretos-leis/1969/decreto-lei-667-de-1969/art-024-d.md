@@ -1,0 +1,2 @@
+Art. 24-D. Lei específica do ente federativo deve dispor sobre outros aspectos relacionados à inatividade e à pensão militar dos militares e respectivos pensionistas dos Estados, do Distrito Federal e dos Territórios que não conflitem com as normas gerais estabelecidas nos arts. 24-A, 24-B e 24-C, vedada a ampliação dos direitos e garantias nelas previstos e observado o disposto no art. 24-F deste Decreto-Lei.
+Parágrafo único. Compete à União, na forma de regulamento, verificar o cumprimento das normas gerais a que se refere o caput deste artigo.

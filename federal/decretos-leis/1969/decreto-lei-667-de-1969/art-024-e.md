@@ -1,0 +1,2 @@
+Art. 24-E. O Sistema de Proteção Social dos Militares dos Estados, do Distrito Federal e dos Territórios deve ser regulado por lei específica do ente federativo, que estabelecerá seu modelo de gestão e poderá prever outros direitos, como saúde e assistência, e sua forma de custeio.
+Parágrafo único. Não se aplica ao Sistema de Proteção Social dos Militares dos Estados, do Distrito Federal e dos Territórios a legislação dos regimes próprios de previdência social dos servidores públicos.

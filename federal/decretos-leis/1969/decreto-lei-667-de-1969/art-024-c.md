@@ -1,0 +1,3 @@
+Art. 24-C. Incide contribuição sobre a totalidade da remuneração dos militares dos Estados, do Distrito Federal e dos Territórios, ativos ou inativos, e de seus pensionistas, com alíquota igual à aplicável às Forças Armadas, cuja receita é destinada ao custeio das pensões militares e da inatividade dos militares.
+§ 1º Compete ao ente federativo a cobertura de eventuais insuficiências financeiras decorrentes do pagamento das pensões militares e da remuneração da inatividade, que não tem natureza contributiva.
+§ 2º Somente a partir de 1º de janeiro de 2025 os entes federativos poderão alterar, por lei ordinária, as alíquotas da contribuição de que trata este artigo, nos termos e limites definidos em lei federal.

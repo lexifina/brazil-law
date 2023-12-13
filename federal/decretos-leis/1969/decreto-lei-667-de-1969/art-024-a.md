@@ -1,0 +1,8 @@
+Art. 24-A. Observado o disposto nos arts. 24-F e 24-G deste Decreto-Lei, aplicam-se aos militares dos Estados, do Distrito Federal e dos Territórios as seguintes normas gerais relativas à inatividade:
+I - a remuneração na inatividade, calculada com base na remuneração do posto ou da graduação que o militar possuir por ocasião da transferência para a inatividade remunerada, a pedido, pode ser:
+a) integral, desde que cumprido o tempo mínimo de 35 (trinta e cinco) anos de serviço, dos quais no mínimo 30 (trinta) anos de exercício de atividade de natureza militar; ou
+b) proporcional, com base em tantas quotas de remuneração do posto ou da graduação quantos forem os anos de serviço, se transferido para a inatividade sem atingir o referido tempo mínimo;
+II - a remuneração do militar reformado por invalidez decorrente do exercício da função ou em razão dela é integral, calculada com base na remuneração do posto ou da graduação que possuir por ocasião da transferência para a inatividade remunerada;
+III - a remuneração na inatividade é irredutível e deve ser revista automaticamente na mesma data da revisão da remuneração dos militares da ativa, para preservar o valor equivalente à remuneração do militar da ativa do correspondente posto ou graduação; e
+IV - a transferência para a reserva remunerada, de ofício, por atingimento da idade-limite do posto ou graduação, se prevista, deve ser disciplinada por lei específica do ente federativo, observada como parâmetro mínimo a idade-limite estabelecida para os militares das Forças Armadas do correspondente posto ou graduação.
+Parágrafo único. A transferência para a reserva remunerada, de ofício, por inclusão em quota compulsória, se prevista, deve ser disciplinada por lei do ente federativo.
