@@ -1,0 +1,14 @@
+DECISÃO
+HIGOR AUGUSTO DOS SANTOS RODRIGUES alega sofrer constrangimento ilegal diante de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo na Apelação n.1500184-81.2020.8.26.0097.
+A defesa postula, em liminar e no mérito, a fixação do regime aberto para início do cumprimento de pena.
+Decido.
+O recorrente foi condenado, em primeiro grau, à pena de 3 anos, 4 meses e 20 dias de reclusão, em regime inicialmente semiaberto, pela suposta prática dos crimes descritos nos arts. 129, § 9º e 147, ambos do Código Penal. Sobre o regime, o juiz assim se manifestou:
+Regime inicial Tendo em vista a quantidade da pena aplicada e as circunstâncias judiciais antes analisadas, fixo, com base no art. 33, § 2º e §3º Código Penal, o inicial semiaberto para o início cumprimento da pena. Isto porque, a despeito da pena fixada em patamar inferior a 4 anos, foram reconhecidas muitas circunstâncias judiciais negativas, devendo haver a fixação de regime inicial mais rigoroso do que o aberto.
+Inconformada, a defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem, in verbis (fl. 36):
+O regime inicial semiaberto é igualmente adequado e não merece abrandamento. Isso porque as circunstâncias judiciais são amplamente desfavoráveis ao recorrente e devem refletir na escolha do regime prisional, cabendo sopesar, ademais, que houve a aplicação de agravantes para ambos os crimes, o que igualmente externa a maior reprovabilidade da conduta praticada, conforme preceitua o art.33, §§ 2º e 3º, do Código Penal.
+Depreende-se dos trechos transcritos que a pena-base foi fixada acima do mínimo legal em virtude da valoração negativa das circunstâncias judiciais. Nesse contexto, observo que a decisão da Corte de origem está em consonância com o art. 33, § 3º, do Código Penal, que estabelece que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+A jurisprudência desta Corte é firme em legitimar a fixação do regime prisional semiaberto quando as circunstâncias judiciais não são integralmente favoráveis ao acusado, ainda que a sanção seja fixada em patamar inferior a 4 anos. Exemplificativamente: "A pena-base foi aplicada acima do mínimo, diante da presença dos maus antecedentes do agravante, o que justifica, adequadamente, o regime prisional semiaberto" (AgRg no AREsp n. 1.758.292/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 18/12/2020); "Quanto ao regime prisional, estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admitese a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu" (HC n. 613.453/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/11/2020).
+Assim, inexiste ilegalidade a ser sanada.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
