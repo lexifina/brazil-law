@@ -1,0 +1,3 @@
+# LEI Nº 22.466, DE 12 DE DEZEMBRO DE 2023
+Altera a Lei nº 20.358, de 05 de dezembro de 2018, que dispõe sobre a adoção de medidas de prevenção e de combate ao abuso sexual nos meios de transporte coletivo que especifica; e a Lei nº 21.755, de 29 de dezembro de 2022, que dispõe sobre penalidades e procedimentos administrativos a serem aplicados e observados em razão da prática de atos de discriminação racial, para alterar o regime sancionatório previsto nestas Leis, nos termos que especifica.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
