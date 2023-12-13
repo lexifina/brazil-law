@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de SALVIANO MARTINS PINHEIRO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim ementado:
+AGRAVO DE EXECUÇÃO DE PENA. VIOLAÇÃO DAS REGRAS DO MONITORAMENTO ELETRÔNICO. FALTA GRAVE. RECONHECIMENTO. DIRETOR-GERAL DA UNIDADE. APLICAÇÃO.
+1. O reeducando que viola a zona de inclusão do monitoramento eletrônico deixa de cumprir os deveres dos quais foi devidamente cientificado, o que configura falta grave, de modo que devem ser aplicados os consectários legais previstos nos arts. 118, I, e 127, ambos da LEP. Precedentes STJ.
+2. Cabe ao diretor da unidade prisional o reconhecimento da falta grave por meio de procedimento administrativo disciplinar, e não compete ao Poder Judiciário a análise do mérito, mas tão somente dos requisitos formais e aplicação dos consectários legais decorrentes da infração disciplinar.
+3. Recurso provido.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que não há previsão legal que enquadre a violação de perímetro em monitoramento eletrônico como falta disciplinar de natureza grave.
+Requer, em suma, a absolvição do apenado quanto ao cometimento de falta disciplinar, bem como a determinação do seu retorno ao regime semiaberto.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+É importante ressaltar que o apenado, ao ser submetido ao sistema de monitoramento eletrônico, foi devidamente cientificado dos deveres, sobretudo o de cumprir todas as regras impostas judicialmente, em relação às zonas estabelecidas, rotas, horários e demais imposições judiciais, sob pena de revogação do benefício.
+Com isso, resultou claro que o agravado descumpriu ordens recebidas, conforme prevê o art. 39, V, da LEP e, consequentemente, praticou a falta grave descrita no art. 50, VI, da LEP, o qual estabelece qu e comete falta grave quem não observar os deveres previstos nos incisos II e V do art. 39 da mencionada Lei (fl. 11).
+Segundo entendimento firmado nessa Corte, a violação da tornozeleira eletrônica, ou seu descarregamento total ou perda da comunicação com o sistema, bem como desrespeito ao perímetro fixado, constituem falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. VIOLAÇÃO DA TORNOZELEIRA ELETRÔNICA. PERDA DA COMUNICAÇÃO. FUGA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A teor dos precedentes desta Corte, a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema configura falta grave, nos termos dos arts. 50, II da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor responsável pela monitoração e impede a fiscalização da execução da pena.
+2. As instâncias ordinárias consideraram inacreditáveis as alegações de que houve perda de sinal de GPS do aparelho de monitoramento eletrônico. A modificação desse entendimento demandaria aprofundado exame do acervo fático-probatório do processo de execução, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental desprovido. (AgRg no HC n. 821.741/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DO PERÍMETRO DE PERMANÊNCIA. FALTA GRAVE. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a violação do perímetro estabelecido na decisão que concede a prisão domiciliar mediante monitoramento eletrônico configura falta grave.
+2. O afastamento da falta grave praticada pelo ora agravante demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023.)
+De igual sorte: AgRg no HC n. 785.238/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 20/4/2023; AgRg no HC n. 758.317/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/12/2022; AgRg no HC n. 750.743/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/8/2022; HC n. 517.455/SC, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 16/10/2019.
+Nessa linha, para modificar a decisão de origem a fim de absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+Vale citar os seguintes julgados nesse sentido: AgRg no HC n. 839.334/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/9/2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 21/8/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023; AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 770.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/4/2023; AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/2/2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
