@@ -1,0 +1,2 @@
+Altera a Medida Provisória nº 2.199-14, de 24 de agosto de 2001, para fixar novo prazo para a aprovação de projetos beneficiados com incentivos fiscais de redução e reinvestimento do imposto sobre a renda e adicionais nas áreas de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene) e da Superintendência do Desenvolvimento da Amazônia (Sudam).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
