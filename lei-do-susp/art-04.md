@@ -7,7 +7,7 @@ V - eficiência na repressão e na apuração das infrações penais;
 VI - eficiência na prevenção e na redução de riscos em situações de emergência e desastres que afetam a vida, o patrimônio e o meio ambiente;
 VII - participação e controle social;
 VIII - resolução pacífica de conflitos;
-IX - uso comedido e proporcional da força;
+IX - uso comedido e proporcional da força pelos agentes da segurança pública, pautado nos documentos internacionais de proteção aos direitos humanos de que o Brasil seja signatário;
 X - proteção da vida, do patrimônio e do meio ambiente;
 XI - publicidade das informações não sigilosas;
 XII - promoção da produção de conhecimento sobre segurança pública;
