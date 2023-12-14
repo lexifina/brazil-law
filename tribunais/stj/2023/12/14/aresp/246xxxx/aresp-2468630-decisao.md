@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO SEMEAR S.A. (e-STJ fls. 510-519) contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/08/2023.
+Concluso ao gabinete em: 06/12/2023.
+Ação: de rescisão contratual c/c restituição de quantia paga c/c danos materiais e morais, ajuizada pela parte agravada em face da Construtora Gran Viver Urbanismo Ltda. e do Banco Semear S.A., ora agravante.
+Sentença: julgou parcialmente procedente o pedido de rescisão do contrato, bem como a restituições das parcelas pagas, além do pagamento de indenização por danos morais no valor de R$ 7.000,00 (sete mil reais).
+Acórdão: negou provimento à apelação dos réus/agravantes, nos termos da ementa a seguir transcrita:
+"APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIA PAGA E DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DAS OBRAS. CULPA EXCLUSIVA DO VENDEDOR/CONSTRUTOR. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS. PROPOSITURA CONTRA A CONSTRUTORA E O CREDOR FIDUCIÁRIO. RESPONSABILIDADE SOLIDÁRIA. JUROS DE MORA. TERMO INICIAL. DANOS MORAIS. VALOR. - A promitente vendedora que der causa exclusiva e injustificada à rescisão do contrato, em virtude do atraso na entrega do imóvel, deverá responder pelos prejuízos ocasionados ao promissário comprador, procedendo à devolução integral dos valores pagos. - Responsabilidade solidária de todos os envolvidos na cadeia de serviços em face do consumidor. O Banco Semear S/A como credor fiduciário se confunde com a incorporadora/loteadora, o que lhe vincula às obrigações. - O termo inicial para incidência dos juros moratórios envolvendo responsabilidade civil contratual é a data da citação. - A jurisprudência prevalente é no sentido de que o atraso injustificado e exagerado na entrega do imóvel enseja abalos na esfera psíquica do comprador, diante da expectativa gerada com a aquisição de um imóvel.
+- O arbitramento do dano moral deve ser realizado com moderação, em atenção à realidade da vida e às peculiaridades de cada caso, proporcionalmente ao grau de culpa e ao porte econômico das partes. - Sentença mantida" (e-STJ fls. 367).
+Recurso especial: a instituição bancária alega violação dos arts. 186 e 927 do CC, sob o argumento de que não existe nexo causal, bem como o dever de indenizar o promitente-comprador pelo danos causados. Isso porque, segundo afirma, a Instituição bancária atuou na condição de agente financeiro e credor fiduciário.
+Aponta, ainda, dissídio jurisprudencial insurgindo-se contra a legitimidade do credor fiduciário para figurar no polo passivo da demanda.
+Afirma, ainda, que "comprovou a sua ausência de responsabilidade na entrega da obra, não sendo a responsável pelos eventuais prejuízos decorrentes de seu atraso" (e-STJ fls. 393).
+RELATADO O PROCESSO, DECIDE-SE.
+Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+No tocante às teses atinentes à legitimidade passiva do agravante (BANCO SEMEAR S.A.), bem como de sua responsabilidade solidária por integrar e se beneficiar da cadeia de consumo, o acórdão recorrido assim se pronunciou:
+"Assim, correta a decisão que reconhece a culpa dos réus, e não a culpa exclusiva dos autores, como querem fazer crer os apelantes.
+Na espécie vertente, o contrato de compra e venda por meio de financiamento imobiliário (SFI), concedido pelo credor fiduciário (doc. ordem nº 9), prevê prazo para a execução das obras de infraestrutura do loteamento, o que, segundo a d. Sentenciante, não foi cumprido.
+Em que pese ambos os apelantes atribuírem a culpa aos promitentes compradores pela resolução contratual, pretendendo, com isso, a retenção de 25% dos valores pagos, não fizeram prova do alegado, não se desincumbindo, pois, dos ônus do art. 373, II, do CPC.
+Neste ponto, é inconteste o descumprimento da parte requerida em relação ao empreendimento imobiliário. Portanto, inequívoca a culpa exclusiva dos réus pela rescisão do contrato de compra e venda.
+Registro que a responsabilidade também se estende ao Banco financiador/credor fiduciário, isto porque, por se tratar de típica relação de consumo, todos os agentes envolvidos na contratação respondem em caráter solidário, por força do art. 7º, parágrafo único, do CDC: "Tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo".
+Com a transmissão da propriedade e o registro da garantia fiduciária, a relação jurídica entre comprador e vendedor é substituída.
+O credor fiduciário se confunde com o vendedor, o que vincula as obrigações, ademais houve cessão fiduciária dos direitos creditórios decorrentes de contratos de alienação de imóveis, não se podendo perder de vista que a titularidade dos créditos se dá sob uma condição resolutiva. A quantia recebida é creditada pelo cessionário ao cedente." (e-STJ fls. 372-373).
+Alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Da divergência jurisprudencial
+Além disso, a incidência das Súmulas 5 e 7 desta Corte acerca do tema que se supõe divergente (legitimidade passiva do agravante e a responsabilidade solidária para integrar a cadeia de consumo), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Da Súmula 568/STJ
+Além disso, ao concluir pela legitimidade do banco para responder solidariamente devido os prejuízos causados aos agravados pela rescisão da promessa de compra e ve nda, o TJ/MG aplicou corretamente a jurisprudência do STJ no sentido de que é solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de consumo na compra e venda de imóvel (AgInt no AREsp n. 2.092.549/RJ, 4ª Turma, DJe de 29/9/2022; e AgInt no AREsp n. 2.060.429/SP, 3ª Turma, DJe de 25/5/2022).
+Logo, o recurso especial não merece provimento, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO parcialmente do recurso interposto pelo BANCO SEMEAR S.A. e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 377) para 18%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. CULPA EXCLUSIVA DA CONSTRUTORA. REEXAME FÁTICO PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ. DISSÍDIO PREJUDICADO. CREDOR FIDUCIÁRIO. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. INTEGRANTES DA CADEIA DE CONSUMO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de resolução contratual cumulada com indenização por danos materiais e morais devido o atraso na entrega de imóvel.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. É solidária a responsabili dade de todos os fornecedores que se beneficiem da cadeia de consumo na compra e venda de imóvel.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
