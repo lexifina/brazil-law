@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso especial e que desafia acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃ ORIDINÁRIA PARA O RECONHECIMENTO DA PARIDADE. SENTENÇA DE IMPROCEDÊNCIA SOB O FUNDAMENTO DE QUE O Ó BITO DO SERVIDOR E A CONCESS Ã O DA APOSENTADORIA OCORRERAM EM 09/2004 E 11/2004.
+A PARTE AUTORA N Ã O COMPROVOU QUE OS REQUISITOS DA REGRA DE TRANSI ÇÃ O PREVISTOS NO ART. 3º, DA EC N. 47/2005 FORAM ANTENDIDOS.
+APELAÇÃO DA PARTE AUTORA DEFENDENDO QUE A LEI COMPLEMENTAR ESTADUAL É DE 2005 E O Ó BITO OCORREU 2004.
+EC EM 4 7 /05 RESTABELECEU A REGRA DA PARIDADE PARA SOMENTE OS SERVIDORES QUE, À É POCA DA EC 41/03, JÁ TIVESSEM PREENCHIDOS AS CONDIÇÕES PARA SE APOSENTAREM. O SUPREMO TRIBUNAL FEDERAL, EM REGIME DE REPERCUSS Ã O GERAL, FIRMOU O ENTENDIMENTO DE QUE "OS SERVIDORES QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003, MAS QUE SE APOSENTARAM APÓS A REFERIDA EMENDA, POSSUEM DIREITO À PARIDADE REMUNERATÓRIA E À INTEGRALIDADE NO CÁLCULO DE SEUS PROVENTOS, DESDE QUE OBSERVADAS AS REGRAS DE TRANSIÇÃO ESPECIFICADAS NOS ARTS. 2º E 3º DA EC 47/2005". PRINCÍPIO DA DIALETICIDADE.
+APELANTE QUE DEIXA DE APRESENTAR IMPUGNAÇÃO ESPECÍFICA E CONCRETA DO TEOR D A SENTENÇA RECORRIDA. NÃO CONHECIMENTO DO RECURSO.
+DECISÃO UNÂNIME.
+No recurso obstaculizado, a parte recorrente aponta ofensa dos arts. 6º, §§ 1º e 2º, da LINDB, 1.013, § 1º, do CPC/2015, 18, 25, 60, § 4º da CF, da Lei Complementar Estadual n. 35/2005, tendo em vista: (a) "restabelecendo a regra da paridade não podia e nem pode retroagir diante da situação consolidada da recorrente e houvera integrada ao patrimônio, afastando, pois, fase de transição em relação á recorrente nos termos dos arts. 18 e 25 da C.F"; (b) que a regra de paridade foi discutida "na causa de pedir, na apelação, nos embargos declaratórios, valendo ressaltar objeto da instância monocrática, razão do efeito translativo na instância recursal, portanto ofendeu o art. 1031 § 1º do CPC".
+Contrarrazões apresentadas.
+Passo a decidir.
+O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Deve-se destacar ser notório que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência a lei local, conforme a inteligência da Súmula 280 do STF.
+Noutra quadra, da leitura do texto do artigo, supostamente violado - 1.013, § 1º, do CPC/2015 -, conclui-se pela ausência de comando normativo apto a propiciar o acolhimento da pretensão posta no recurso especial.
+Dessa forma, não se há de conhecer do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. DANOS MORAIS. VALOR DA CONDENAÇÃO. OBSERVÂNCIA DOS PRICNCÍPIO DA RAZOABILIDADE E DA PROPORCIONALIDADE. ALEGADA OFENSA AO ART. 8º DO CPC . AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. REVISÃO DO VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Com relação ao art. 8º do CPC, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+4. Agravo interno não provido. (AgInt no AREsp 2.138.102/AP, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 16/03/2023).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. FALHA NA PRESTAÇÃO DE SERVIÇO DE FORNECIMENTO DE ÁGUA. ALEGADA VIOLAÇÃO AO ART. 944 DO CÓDIGO CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Nas razões do Recurso Especial, a parte recorrente aponta violação ao art. 994 do Código Civil, dispositivo que, por si só, não possui comando normativo capaz sustentar a tese recursal de inexistência de responsabilidade de indenizar. Nesse sentido: STJ, AgInt no AREsp 1.580.456/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 18/2/2020.
+ ..
+V. Agravo interno improvido. (AgInt no AREsp 2.190.716/RO, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 21/03/2023).
+Soma-se a isso o fato de que não deve ser conhecido o apelo nobre quando a fundamentação não permite a exata compreensão da controvérsia, como na hipótese dos autos. Incidência da Súmula 284 do STJ.
+É notório que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência a lei local, conforme a inteligência da Súmula 280 do STF.
+Em outra quadra, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio.
+Soma-se a isso o fato de que a parte recorrente deixou de realizar o cotejo analítico, visto que nem sequer transcreveu julgado tido como paradigma, nem especificou as nuances que envolveriam o caso concreto, não atendendo, portanto, aos pressupostos específicos necessários à configuração do dissenso jurisprudencial, previstos nos arts. 541, parágrafo único, do Código de Processo Civil e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
