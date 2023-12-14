@@ -1,0 +1,65 @@
+DECISÃO:
+
+    1. Trata-se de embargos de declaração opostos contra decisão monocrática assim fundamentada:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. SINDICATO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AGRAVO DE INSTRUMENTO DESPROVIDO.
+
+    1. Trata-se de agravo de instrumento interposto contra decisão proferida em cumprimento de sentença, que condenou o sindicato no pagamento de honorários advocatícios.
+
+    2. Cumpre ressaltar que não se pode aplicar a legislação especial (art. 87 do CDC ou art. 18 da Lei de Ação Civil Pública), prevista para facilitar a defesa dos direitos dos substituídos/representados naquelas hipóteses peculiares, às demandas ordinárias, ainda que coletivas, propostas por sindicato, eis que submetidas às regras do Código de Processo Civil (Precedente do STJ).
+
+    3. Tendo o próprio sindicato instaurado a fase executiva, inclusive apresentando cálculos excessivos, deve se responsabilizar pelo pagamento da verba honorária, em observância ao princípio da causalidade.
+
+    4. Agravo de instrumento desprovido.
+
+    Opostos os embargos de declaração, foram acolhidos sem efeitos infringentes.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXVI, XXXVI, LIV e LV; e 8º da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/02/2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 06/12/2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 07/04/2016).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    [...].
+
+    2. A parte embargante sustenta, em síntese, que a decisão embargada foi obscura e reitera os argumentos do recurso extraordinário no sentido de que, no caso, haveria violação aos arts. 5º, XXVI, XXXVI, LIV e LV, e 8º, da CF.
+
+    3. O recurso não merece acolhida, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão embargada, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+
+    4. Estes embargos veiculam pretensão meramente infringentes. E os embargos não podem conduzir à renovação de um julgamento que não ressente de nenhum vício e, muito menos, à modificação do julgado.
+
+    5. A parte recorrente limita-se a postular uma nova apreciação do mérito de um julgamento que transcorreu de forma regular. Incide, no caso, a jurisprudência do Supremo Tribunal Federal (STF) que afasta o cabimento dos declaratórios com essa finalidade.
+
+    6. O STF já firmou o entendimento de que não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objeto de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Rel. Min. Celso de Mello).
+
+    7. Restou claro na decisão embargada que a controvérsia se insere no âmbito infraconstitucional.
+
+    8. Ademais, tal como assentado, o Plenário do Supremo Tribunal Federal já afastou a existência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada, do direito adquirido, do ato jurídico perfeito, da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes - Tema 660).
+
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, rejeito os embargos de declaração.
+
+    Publique-se.
+
+    Brasília, 14 de dezembro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
