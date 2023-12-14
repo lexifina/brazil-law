@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Juliana Correa Fernandes à decisão monocrática proferida por este signatário, assim ementada (e-STJ, fl. 661):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS CUMULADA COM OBRIGAÇÃO DE NÃO FAZER. COBRANÇA PELA INSTITUIÇÃO DE ENSINO DE VALOR DE ENCARGOS EDUCACIONAIS ACIMA DO PERCENTUAL FINANCIADO. VALIDADE. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a embargante alega a existência de contradição, tendo em conta que o recurso não requer a análise de fatos e provas, razão pela qual não incide a Súmula n. 7/STJ, e omissão na decisão embargada, haja vista a ausência de fundamentação quanto a aplicação do óbice sumular.
+Assevera ainda a falta de análise do fundamento, no juízo de admissibilidade feito na origem, de não prequestionamento dos arts. 4º, caput, e 4º-B do CC e 14, § 1º, II, 46 e 47 do CDC.
+Não houve impugnação (e-STJ, fl. 675).
+Brevemente relatado, decido.
+Inicialmente, observa-se que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+A decisão embargada dirimiu a causa com base em fundamentação sólida, sem omissões ou contradições, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte insurgente.
+Em relação à alegada contradição, há que se esclarecer que a contradição que autoriza embargos de declaração é a contradição interna, isto é, aquela existente no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis, situação de nenhuma forma depreendida no julgado embargado.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA C/C DECLARATÓRIA. RECONSIDERAÇÃO. PLANO DE PREVIDÊNCIA PRIVADA. PRESCRIÇÃO QUINQUENAL. PRESTAÇÕES DE TRATO SUCESSIVO. COMPLEMENTAÇÃO DE APOSENTADORIA. EQUIPARAÇÃO COM SERVIDORES DA ATIVA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não se configura ofensa ao art. 535 do CPC/1973, porque o acórdão recorrido indicou, de forma clara e coerente, todos os fundamentos adotados como razões de decidir, não se podendo cogitar de omissão, contradição ou obscuridade.
+2. A contradição que vicia o julgado de nulidade é a interna, em que se constata inadequação lógica entre a fundamentação desenvolvida e a conclusão adotada, o que não se alega no caso dos autos.
+3. A pretensão de complementação de previdência privada possui natureza jurídica de trato sucessivo, sujeitando-se à prescrição quinquenal apenas das prestações anteriores aos cinco anos antecedentes à propositura da demanda.
+4. No que tange ao direito subjetivo ao recálculo do benefício complementar, é imperioso asseverar que o Tribunal a quo decidiu com fundamento na análise do plano de previdência, bem como nos fatos e provas carreados aos autos, mormente quanto ao rompimento da paridade anos após a concessão do benefício em contradição com as condições do plano. Nesse cenário, modificar a conclusão do acórdão recorrido importaria a interpretação de cláusulas contratuais, bem como o reexame de fatos e provas, o que, em regra, desborda os limites do recurso especial (Súmulas 5 e 7 do STJ).
+5. Agravo interno provido para reconsiderar a decisão e, em novo julgamento, conhecer do agravo para não conhecer do recurso especial.
+(AgInt nos EDcl no AREsp n. 1.850.736/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. 1. MORTE DO AUTOR. AUSÊNCIA DE REGULARIZAÇÃO PROCESSUAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. EXEGESE DO ART. 313, § 2º, II, DO CPC. 2. VIOLAÇÃO DO ART. 1.022 DO NCPC. HIGIDEZ DO ACÓRDÃO IMPUGNADO. CONTRADIÇÃO INEXISTENTE. 3. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. REDIMENSIONAMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de regularização processual enseja a extinção do processo sem resolução de mérito, nos termos do art. 313, § 2º, II, do CPC.
+2. A contradição remediável por embargos de declaração é a interna ao julgado embargado, devida à desarmonia entre a fundamentação e as conclusões da própria decisão, e não aquela externa entre o julgado impugnado e o entendimento da parte, ou entre este e outras decisões judiciais.
+3. Rever as conclusões quanto ao pagamento dos honorários demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.161.641/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Por oportuno, importa esclarecer que segundo o entendimento jurisprudencial desta Corte, "a decisão de admissibilidade oriunda do Tribunal local não vincula o STJ, tendo em vista que o juízo de admissibilidade do recurso especial está submetido a duplo controle, cabendo a esta Corte nova apreciação dos pressupostos do recurso a ela remetido" (AgInt no REsp 1.629.962/AM, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 18/5/2020, DJe 25/5/2020).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO COM RECOLHIMENTO EM DOBRO DAS CUSTAS. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA N. 187 DO STJ. AGRAVO DESPROVIDO. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o art. 1.007, caput e § 4º, do CPC.
+3. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ).
+4. A decisão de admissibilidade na origem não vincula o Superior Tribunal de Justiça, que promoverá nova análise dos pressupostos recursais dos casos que lhe são submetidos.
+5. Documento sem a sequência numérica do código de barras ou com o código de barras ilegível não é apto para comprovar o pagamento das custas devidas ao STJ, tendo em vista a impossibilidade de comparação com os dados constantes da guia de recolhimento apresentada.
+6. Agravo interno d esprovido e prejudicado o agravo interno de fls. 252-272.
+(AgInt no REsp n. 2.067.074/SE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. OBRIGAÇÃO DE RESULTADO. CONCLUSÃO DO NEGÓCIO. PARTICIPAÇÃO. INEXISTÊNCIA.
+1. Não é devido o pagamento de comissão de corretagem no contrato de compra e venda de imóveis quando o corretor apenas realiza a aproximação das partes. Precedentes.
+2. O juízo prévio de admissibilidade do recurso especial não vincula o Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.239.381/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. O RECURSO ESPECIAL POSSUI JUÍZO BIFÁSICO DE ADMISSIBILIDADE. DECISÃO DO TRIBUNAL ESTADUAL NÃO VINCULA O SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. ART 90 § 4º DO CPC/15. IMPOSSIBILIDADE DE APLICAÇÃO. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO DESPROVIDO.
+1. "O juízo de admissibilidade feito pelo Tribunal de origem não vincula esta Corte por se tratar de procedimento bifásico." (AgInt no REsp 1800322/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/04/2020, DJe 24/04/2020).
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicando-se, por analogia, as Súmulas 282 e 356 do STF.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Esta Corte Superior entende que "O art. 90, § 4º, do CPC/2015 insere, em nosso ordenamento jurídico, medida de estímulo à solução célere e efetiva das demandas judiciais, beneficiando o réu com a redução da verba honorária pela metade, sempre que reconheça a procedência do pedido e cumpra integralmente a obrigação, o que não é a hipótese dos autos." (AgInt no REsp n. 1.667.678/RS, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/4/2021, DJe de 5/5/2021).
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.998.786/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+Importante frisar, inclusive, que se observa inconformismo reiterado da parte com o teor do julgad o.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Diante dessas considerações, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
