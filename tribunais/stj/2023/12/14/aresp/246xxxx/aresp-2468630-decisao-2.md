@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo em recurso especial (e-STJ fls. 491-497) interposto por GRAN VIVER URBANISMO S.A. contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/08/2023.
+Concluso ao gabinete em: 06/12/2023.
+Ação: de rescisão contratual c/c restituição de quantia paga c/c danos materiais e morais, ajuizada pela agravada em face da Construtora Gran Viver Urbanismo Ltda. e do Banco Semear S.A., ora agravante.
+Sentença: julgou parcialmente procedente o pedido de rescisão do contrato, bem como a restituições das parcelas pagas, além do pagamento de indenização por danos morais no valor de R$ 7.000,00 (sete mil reais).
+Acórdão: negou provimento à apelação dos réus/agravantes, nos termos da ementa a seguir transcrita:
+"APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIA PAGA E DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DAS OBRAS. CULPA EXCLUSIVA DO VENDEDOR/CONSTRUTOR. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS. PROPOSITURA CONTRA A CONSTRUTORA E O CREDOR FIDUCIÁRIO. RESPONSABILIDADE SOLIDÁRIA. JUROS DE MORA. TERMO INICIAL. DANOS MORAIS. VALOR. - A promitente vendedora que der causa exclusiva e injustificada à rescisão do contrato, em virtude do atraso na entrega do imóvel, deverá responder pelos prejuízos ocasionados ao promissário comprador, procedendo à devolução integral dos valores pagos. - Responsabilidade solidária de todos os envolvidos na cadeia de serviços em face do consumidor. O Banco Semear S/A como credor fiduciário se confunde com a incorporadora/loteadora, o que lhe vincula às obrigações. - O termo inicial para incidência dos juros moratórios envolvendo responsabilidade civil contratual é a data da citação. - A jurisprudência prevalente é no sentido de que o atraso injustificado e exagerado na entrega do imóvel enseja abalos na esfera psíquica do comprador, diante da expectativa gerada com a aquisição de um imóvel.
+- O arbitramento do dano moral deve ser realizado com moderação, em atenção à realidade da vida e às peculiaridades de cada caso, proporcionalmente ao grau de culpa e ao porte econômico das partes. - Sentença mantida" (e-STJ fls. 367).
+Recurso especial: a recorrente GRAN VIVER URBANISMO S.A. alega além de dissídio jurisprudencial, violação dos arts. 421, 422, 475 e 884 do CC, sob o argumento de que a rescisão contratual ocorreu por culpa exclusiva do agravado, razão pela qual não deveria haver a condenação de restituir de forma integral dos valores pagos.
+Sustenta que em caso de rescisão, a restituição de valores superiores ao contratualmente ajustado, enseja enriquecimento indevido do recorrido. Aduz que, os valores despendidos a título de comissão de corretam é devido porque os corretores efetuaram a intermediação do negócio, conforme prevê o art. 725 do CC.
+Defende, ainda, que o termo inicial dos juros de mora é do trânsito em julgado porque a rescisão contratual ocorreu por iniciativa dos compradores.
+Por fim, que não tem cabimento a condenação fixada na origem a título de danos morais sob o argumento de que, na espécie, ocorreu apenas meros dissabores. Ressalta que o valor fixado na origem mostra-se excessivo se comparado aos fixados nos Tribunais de Justiça estaduais, sendo imperioso, no mínimo, a revisão do quantum indenizatório.
+RELATADO O PROCESSO, DECIDE-SE.
+Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 421, 422 e 725 do CC, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+No tocante à alegada culpa do promitente-comprador pela rescisão do contrato, o acórdão recorrido assim se pronunciou:
+"Assim, correta a decisão que reconhece a culpa dos réus, e não a culpa exclusiva dos autores, como querem fazer crer os apelantes.
+Na espécie vertente, o contrato de compra e venda por meio de financiamento imobiliário (SFI), concedido pelo credor fiduciário (doc. ordem nº 9), prevê prazo para a execução das obras de infraestrutura do loteamento, o que, segundo a d. Sentenciante, não foi cumprido.
+Em que pese ambos os apelantes atribuírem a culpa aos promitentes compradores pela resolução contratual, pretendendo, com isso, a retenção de 25% dos valores pagos, não fizeram prova do alegado, não se desincumbindo, pois, dos ônus do art. 373, II, do CPC.
+Neste ponto, é inconteste o descumprimento da parte requerida em relação ao empreendimento imobiliário. Portanto, inequívoca a culpa exclusiva dos réus pela rescisão do contrato de compra e venda.
+(..)
+Assim, a rescisão do compromisso de compra e venda impõe a devolução das partes ao status quo ante, restituindo os compradores o imóvel, enquanto os promitentes vendedores devolvem o preço pago." (e-STJ fls. 372-374).
+Alterar o decidido no acórdão impugnado, nesse ponto, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da restituição integral das parcelas pagas pelo promitente comprador (Súmula 568/STJ)
+Na hipótese, o Tribunal de origem decidiu que o inadimplemento contratual ocorreu por culpa dos agravantes (e-STJ fls. 374).
+Cumpre anotar, que esta Corte Superior possui entendimento firmado no sentido de que:
+" ..  na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ) (REsp n. 1.300.418/SC, 2ª Seção, DJe de 10/12/2013).
+Ainda nesse sentido: AgInt no AgInt no AREsp n. 1.739.527/RJ, 4ª Turma, DJe de 27/10/2022; e AgInt no REsp n. 1.837.228/RJ, 3ª Turma, DJe de 12/2/2020.
+Portanto, o acórdão recorrido encontra-se em consonância com o entendimento dominante sobre o tema nesta Corte.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+- Do cabimento de compensação por dano moral
+O Tribunal estadual entendeu estar caracterizado o dano extrapatrimonial, diante das peculiaridades da hipótese concreta, verbis:
+"Quanto à compensação pelo abalo moral experimentado pelos autores, ora apelados, é assente na jurisprudência o entendimento de que o atraso exacerbado na entrega d o imóvel enseja abalos na esfera psíquica do comprador diante da expectativa gerada, especialmente quanto adquirido para fins residenciais, como é o caso destes autos.
+ ..
+Na hipótese vertente, é inegável que a demora na entrega do lote ocasionou mais do que meros dissabores, pois os recorridos se programaram para usufruir do lote, onde seria construída uma moradia. " (e-STJ fls. 375-376).
+Nesse contexto, não merece reforma o acórdão recorrido, pois esta Corte Superior perfilha o entendimento de que o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. ATRASO EXCESSIVO NA ENTREGA DE IMÓVEL. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas caracterizadoras de lesão extrapatrimonial.
+2. Na hipótese, o atraso de mais de 22 meses, após o período de tolerância, na entrega do imóvel, supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais. Precedentes.
+3. No caso, mostra-se razoável o quantum fixado pela instância ordinária, a título de danos morais, correspondente a R$ 5.000,00 (cinco mil reais). Não há que se falar em condenação desproporcional com relação à extensão dos danos sofridos pela parte recorrida, em razão do atraso de mais de 22 (vinte e dois) meses na entrega do imóvel em questão.
+4. Agravo interno a que se nega provimento." (AgInt no REsp n. 1.917.023/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023 - grifou-se).
+No mesmo sentido: AgInt no AREsp n. 2.207.246/RJ, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023; AgInt no AREsp n. 2.260.228/RJ, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023; AgInt no AREsp n. 2.034.823/PR, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.
+Nesse ponto, portanto, também não merece reforma o acórdão recorrido.
+- Do pedido de revisão do valor da compensação por danos morais
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 06/09/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/09/2016.
+Além disso, alterar o decidido no acórdão impugnado, no que se refere à revisão dos valores fixados a título de compensação por danos morais devidos às parte ora agravadas, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+- Do termo inicial dos juros de mora
+O acórdão recorrido encontra-se em harmonia com o entendimento do STJ firmado no sentido de que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação (AgInt no AREsp 1.935.521/RJ, Quarta Turma, D Je 9/3/2022; AgInt no AREsp 1.804.500/SP, Quarta Turma, DJe 21/6/2021; AgInt no REsp 1.733.026/RJ, Terceira Turma, DJe 10/6/2020).
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO parcialmente do recurso interposto por GRAN VIVER URBANISMO S.A. e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 377) para 18%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. CULPA EXCLUSIVA DA CONSTRUTORA. PREQUESTIONAMENTO. DISPOSITIVOS LEGAIS. SÚMULA 282/STF. REEXAME FÁTICO PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS. SÚMULA N. 543/STJ. DANO MORAL CARACTERIZAÇÃO. ALTERAÇÃO DO VALOR FIXADO. SÚMULA 7/STJ. JUROS DE MORA. CITAÇÃO.
+1. Ação de resolução contratual cumulada com indenização por danos materiais e morais devido o atraso na entrega de imóvel.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Afastar a conclusão do Tribunal de origem no sentido de restou comprovado o inadimplemento das recorrentes em virtude do atraso na entrega do imóvel, demandaria o reexam e de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado pelo óbice das Súmulas 5 e 7/STJ.
+4. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento. Precedentes. Incidência da Súmula 568/STJ
+5. A jurisprudência desta Corte Superior é firme no sentido de que o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial. Precedentes.
+6. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada. O que, na espécie, não ocorreu.
+7. Na hipótese, a rescisão de contrato de compra e venda de imóvel ocorreu por culpa da promitente-vendedora, razão pela qual os juros de mora sobre o valor a ser restituído incidem a partir da citação.
+8. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
