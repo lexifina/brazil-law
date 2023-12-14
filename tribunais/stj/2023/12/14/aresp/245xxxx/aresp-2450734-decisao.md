@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pela Companhia Publica Municipal Pro-embu, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 137):
+EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. VALOR DA CAUSA QUE NÃO SUPERA O LIMITE ESTABELECIDO NO ART. 34 DA LEI N. 6.830/80. RECURSO NÃO CONHECIDO.
+Se o valor da causa está aquém do limite estabelecido no art. 34 da Lei Federal n. 6 .830/80, é incognoscível agravo de instrumento.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 34 da LEF. Sustenta que: (I) é cabível agravo de instrumento contra decisões interlocutórias proferidas em execuções fiscais em que o valor de alçada é inferior ao limite estabelecido no art. 34 da LEF; (II) deve ser reconhecida a ilegitimidade da Companhia "uma vez que a mesma consiste em uma sociedade de economia mista, que tem como sócio majoritário a Municipalidade de Embu das Artes, a qual está cobrando débito imobiliário, mesmo sabendo que o imóvel não está na posse da Companhia bem como que esta e isenta do pagamento cm razão da incidência da Lei 1696/97, art. 221 da Lei Complementar Municipal 101/2017" (fl. 149); (III) goza de imunidade em razão do serviço social desempenhado e (IV) defende a gratuidade da justiça.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. No caso, aduz o agravante, em suma, que (II) deve ser reconhecida a ilegitimidade da Companhia "uma vez que a mesma consiste em uma sociedade de economia mista, que tem como sócio majoritário a Municipalidade de Embu das Artes, a qual está cobrando débito imobiliário, mesmo sabendo que o imóvel não está na posse da Companhia bem como que esta e isenta do pagamento cm razão da incidência da Lei 1696/97, art. 221 da Lei Complementar Municipal 101/2017" (fl. 149); (III) goza de imunidade em razão do serviço social desempenhado e (IV) deve ser acolhida a gratuidade da justiça. Contudo, o Tribunal a quo decidiu por não conhecer do agravo de instrumento em razão do valor da causa não ultrapassar a 50 ORTNs.
+Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Adiante, o Superior Tribunal de Justiça possui firme entendimento em que não se admite apelação e nem agravo de instrumento quando o valor da execução fiscal não ultrapassar 50 ORTNs. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VALOR DA CAUSA INFERIOR A 50 ORTNS. ALÇADA. RECURSO DE AGRAVO DE INSTRUMENTO. APLICAÇÃO.
+1. A execução judicial para cobrança da Dívida Ativa da União, dos Estados, do Distrito Federal, dos Municípios e respectivas autarquias é regida pela Lei n. 6.830/1980 e, subsidiariamente, pelo Código de Processo Civil, conforme dispõe o art. 1º da referida Lei de Execução Fiscal.
+2. O art. 34 da LEF estabelece o valor de alçada para eventual acesso ao segundo grau de jurisdição no montante de 50 (cinquenta) Obrigações Reajustáveis do Tesouro Nacional - ORTNs.
+3. Em interpretação sistemática do regramento legal, conclui-se pelo não cabimento do agravo de instrumento contra decisões interlocutórias na hipótese de a execução fiscal não alcançar o valor de alçada do art. 34 da Lei n. 6.830/1980, conforme antigo entendimento jurisprudencial sedimentado na Súmula 259 do ex-TFR.
+4. Hipótese em que não é cabível a interposição do agravo de instrumento, tendo em vista que o IBAMA pretende a revisão de decisão interlocutória a respeito da utilização do BACENJUD/RENAJUD, em execução fiscal de baixo valor.
+5. Recurso especial não provido.
+(REsp 1.743.062/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/8/2018, DJe 12/9/2018)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. VALOR DA CAUSA INFERIOR A 50 ORTNS. ALÇADA. AGRAVO DE INSTRUMENTO. APLICAÇÃO.
+1. A execução judicial para cobrança da Dívida Ativa da União, dos Estados, do Distrito Federal, dos Municípios e respectivas autarquias é regida pela Lei n. 6.830/1980 e, subsidiariamente, pelo Código de Processo Civil, conforme dispõe o art. 1º da referida Lei de Execução Fiscal.
+2. O art. 34 da LEF estabelece o valor de alçada para eventual acesso ao segundo grau de jurisdição no montante de 50 (cinquenta) Obrigações Reajustáveis do Tesouro Nacional - ORTNs.
+3. Em interpretação sistemática do regramento legal, conclui-se pelo não cabimento do agravo de instrumento contra decisões interlocutórias na hipótese de a execução fiscal não alcançar o valor de alçada do art. 34 da Lei n. 6.830/1980, conforme antigo entendimento jurisprudencial sedimentado na Súmula 259 do ex-TFR.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.831.509/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/9/2021, DJe de 7/10/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VALOR DA CAUSA INFERIOR A 50 ORTNS. ALÇADA. RECURSO DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em processo de execução fiscal, determinou a intimação da municipalidade para o recolhimento das despesas de citação postal, sob pena de extinção da ação executiva. No Tribunal a quo, não se conheceu do recurso.
+II - Não havendo, no acórdão recorrido, omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC/2015.
+III - A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que não há recurso para a segunda instância quando o valor executado for inferior ao valor de alçada, de modo que, estando o valor da execução abaixo do estipulado, haverá exceção ao duplo grau de jurisdição, seja para a Fazenda Pública, seja para o executado.
+Confiram-se: AgInt nos EDcl no AREsp 1.700.964/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020 e AgInt no AREsp 1.831.509/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/9/2021, DJe 7/10/2021.
+IV - Recurso especial improvido.
+(AREsp n. 1.751.847/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.,
+EMENTA
