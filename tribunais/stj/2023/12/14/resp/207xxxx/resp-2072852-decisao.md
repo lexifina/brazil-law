@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DNIT com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 435):
+APELAÇÃO E REEXAME NECESSÁRIO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. LIBERDADE DE ASSOCIAÇÃO PROFISSIONAL OU SINDICAL. CONTRIBUIÇÃO SINDICAL FACULTATIVA (OU CONFEDERATIVA). EXIGÊNCIA DE EXPRESSA AQUIESCÊNCIA PELO EMPREGADO SINDICALIZADO E MECANISMO DE COBRANÇA PELOS SINDICATOS PROFISSIONAIS. CONDENAÇÃO COM BASE EM EVENTO FUTURO E INCERTO. SENTENÇA CONDICIONAL. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA SIMETRIA. OBSERVÂNCIA.
+1. O direito à livre associação sindical/profissional está prevista no artigo 8º, caput, da Constituição de 1988, sendo inerente a contribuição sindical facultativa.
+2. A MP 873/2019 não possuía força normativa para suprimir o desconto em folha das mensalidades sindicais, visto que previstas constitucionalmente. Ademais, a MP nº 873/2019 perdeu a eficácia em 28/06/2019, visto que não convertida em lei no prazo fixado no artigo 62, §3º, da Constituição.
+3. Consoante o disposto no parágrafo único do artigo 492 do CPC, é vedado a prolação de sentença condicional.
+4. O Superior Tribunal de Justiça possui entendimento consolidado, ao interpretar o artigo 18 da Lei nº 7.347/1985, no sentido de que, por critério de simetria, não cabe a condenação do réu, em ação civil pública, ao pagamento de honorários advocatícios, salvo comprovada má-fé, destacando- se que referido entendimento deve ser aplicado tanto para o autor - Ministério Público, entes públicos e demais legitimados para a propositura da Ação Civil Pública -, quanto para o réu.
+Embargos de declaração do DNIT rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015 ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: "o Tribunal a quo se negou a analisar a questão acerca do alcance do pedido da parte autora, que demandaria na ilegitimidade da entidade autárquica recorrente, bem como ao se negar a justificar a decisão prolatada com base nos artigos suscitados para fins expresso de prequestionamento" (fl. 517).
+Quanto à questão de fundo, sustenta ofensa aos artigos 45, § 1º e 240, "c", da Lei n. 8.112/90; 545, da CLT, 2º, II, e 4º, I, III, V-A, VI e VII e 1º, do Decreto n. 8.690/16 e 2º, II, 9º e 21, III, da Portaria ME n. 209/2020, aduzindo argumentação no sentido de que a contribuição sindical possui natureza de contribuição facultativa, em função da alteração das normas instituídas pela Lei 13.467/2017 e que, em razão disso, não existe compulsoriedade em seu desconto no vencimento do Servidor.
+Defende que "a sistemática adotada pela Administração em relação a questão encontra consonância com as normas legais aplicáveis na espécie" (fl. 524) e "a regulamentação que prevê o cancelamento do desconto por ato unilateral do servidor não apresenta qualquer ilegalidade ou ofensa ao exercício da atividade sindical" (fl. 531).
+Aduz que deve ser preservada "a higidez legal do Decreto no 10.328, de 28 de abril de 2020, que altera o Decreto no 8.690, de 11 de março de 2016, em matéria de gestão das consignações em folha de pagamento no âmbito do sistema de Gestão de Pessoas do Poder Executivo Federal, dado que atendem aos parâmetros legais" (fl. 538).
+Por fim, sustenta que "a declaração judicial de ilegalidade do art. 8º-A do Decreto n. 6.890, de 2016, na redação dada pelo Decreto n. 10.328, de 2020, e do art. 27 da Portaria n. 209, de 2020, do Ministério da Economia são impróprias e afrontam aos dispositivos legais aplicáveis na espécie, notadamente os artigos 45 e 240 da Lei nº 8.112/90" (fl. 539) .
+Com contrarrazões (fls. 554-586).
+Juízo positivo de admissibilidade às fls. 589-590.
+Parecer do MPF, em que opina pelo parcial conhecimento e, nessa extensão, pelo desprovimento do recurso especial (fls. 611-621).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Na origem, cuida-se de ação civil pública ajuizada pelo Sindicato dos Trabalhadores no Serviço Público Federal no Estado de Santa Catarina contra o Departamento Nacional de Infra-estrutura de Transportes - DNIT objetivando a manutenção do desconto das remunerações, proventos ou pensões de seus filiados, do valor correspondente às mensalidades associativas/sindicais, mediante expressa autorização, bem como seja declarado o direito das entidades a servirem-se desta mesma folha de pagamento para o recebimento das referidas mensalidades, conforme já vinha ocorrendo desde a edição da Lei 8.112/1990.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+Dito isso, a controvérsia relativa a que a contribuição sindical passou a ser facultativa no serviço público e que, em razão disso, não existe compulsoriedade de seu desconto no vencimento do Servidor, foi dirimida com fundamento constitucional, especificamente com base no artigo 8º, caput e inciso IV, da Constituição Federal, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE.
+1. A Corte de origem dirimiu a controvérsia, relativa à incidência de ICMS na nacionalização de bem móvel, à luz de fundamento eminentemente constitucional, sendo inviável, por meio da via eleita, a revisão de tal entendimento, sob pena de usurpação da competência do STF.
+2. Agravo interno desprovido.
+(AgInt no AREsp 2040636/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 05/12/2022, Dje de 27/01/2023)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. REPERCURSSÃO GERAL. DISTINÇÃO. SOBRESTAMENTO. INVIABILIDADE.
+1. Conforme o art. 105, III, da CF/1988, o recurso especial não serve à pretensão de revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+2. A questão jurídica a ser tratada no julgamento do Tema 536, submetido ao rito da repercussão geral pelo STF, não se amolda ao presente caso, razão pela qual se mostra inviável o sobrestamento dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp 1933662/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 03/10/2022, Dje de 20/10/2022)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. CONTRIBUIÇÃO SINDICAL. COBRANÇA DOS VALORES. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
