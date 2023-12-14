@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto pelo DISTRITO FEDERAL contra decisão que não admitiu recurso especial que desafia acórdão assim ementado (e-STJ fls. 363/364):
+CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SINDIRETA. EXPURGOS INFLACIONÁRIOS. PLANO COLLOR. PERDAS SALARIAIS. AJUIZAMENTO EXECUÇÃO COLETIVA. INTERRUPÇÃO. PRESCRIÇÃO. LITISPENDÊNCIA. NÃO OCORRÊNCIA.
+1. Apesar da coincidência de partes e da semelhança quanto à causa de pedir, não há identidade de pedido entre o presente cumprimento de sentença e o mandado de segurança anteriormente impetrado, portanto, não se trata de ações idênticas, art. 337, inc. VI, §§ 1º e 2º, do CPC.
+2. Não há litispendência entre as mencionados ações, pois, apesar da coincidência de uma das partes e da semelhança quanto à causa de pedir, o presente cumprimento de sentença não é idêntico ao da ação de cobrança (0025155-94.2004.8.07.0001), uma vez que os pedidos são distintos.
+3. O prazo prescricional é de cinco anos para a execução contra a Fazenda Pública, art. 1º, Decreto 20.910/32 e Súmula 150 do STF.
+3. O cumprimento de sentença coletiva ajuizada pelo Sindicato da categoria interrompe o prazo prescricional, art. 202, inc. I, do CC, que volta a fluir, pela metade, após o último ato processual da causa interruptiva, art. 9º do Decreto 20.910/32.
+4. Na espécie, não há prescrição a ser reconhecida, pois o credor ajuizou o cumprimento de sentença individual antes de transcorrido o prazo de dois anos e meio, contados da decisão proferida no cumprimento de sentença que determinou a liquidação para a individualização do crédito.
+5. Negou-se provimento ao recurso.
+Embargos de declaração rejeitados (e-STJ fls. 412/430).
+No recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega afronta aos arts. 489, §1º, IV, V e VI, e 1.022, I e II, do CPC/2015, por negativa de prestação jurisdicional, e violação do art. 337, VI e §1º, do CPC e dos arts. 884 do CC, por configuração de litispendência, uma vez que "tal direito, também discutido pelo mesmo Sindicato por meio da ação pelo rito ordinário, sob o n.º 39376/94 ao juízo da 3ª Varada Fazenda Pública do Distrito Federal, já foi deferido e executado em outra ação" (e-STJ fl. 449). Suscita divergência jurisprudencial.
+Contrarrazões (e-STJ fls. 492/501).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Em relação à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 15/9/2022).
+No caso, o Tribunal de origem decidiu integralmente a controvérsia nos seguintes temos (e-STJ fls. 372/373):
+Da litispendência/coisa julgada
+O agravante aponta litispendência em nome do agravado HAROLDO ALBERTO DE MATOS PEREIRA, relativa à ação n. 0025155-94.2004.8.07.0001 e o cumprimento de sentença n. 0703404- 26.2022.8.07.0018.
+Contudo, razão não lhe assiste.
+Há litispendência em caso de repetição de demanda anteriormente ajuizada. Isto é, quando se verificam demandas com os mesmos elementos, quais sejam, mesmas partes, pedido e causa de pedir (art. 337, § 2º, do Código de Processo Civil).
+Mesmo havendo identidade entre partes e causa de pedir, em caso de distinção entre os pedidos de duas demandas afasta-se a identidade entre elas, não havendo falar, portanto, em litispendência.
+No caso, não se constata a litispendência alegada. Isso porque, o cumprimento de sentença n. 0025155-94.2004.8.07.0001 teve por objeto a obrigação de pagar reajuste salarial instituído pela Lei 38/89, correspondente a 84,32% (inflação apurada no período de 16/02/1990 a 15/03/1990), enquanto que o cumprimento de sentença originário (0703404-26.2022.8.07.0018), tem por fim promover o reajuste dos vencimentos, proventos e pensões dos filiados nos percentuais do e 84,32%, 39,80%, 2,87% e 28,44%.
+Mesmo havendo identidade entre partes e causa de pedir, em caso de distinção entre os pedidos de duas demandas afasta-se a identidade entre elas, não havendo falar, portanto, em litispendência.
+Desta feita, não há litispendência entre as mencionados ações, pois, apesar da coincidência de uma das partes e da semelhança quanto à causa de pedir, o presente cumprimento de sentença não é idêntico ao da ação de cobrança (0025155-94.2004.8.07.0001), uma vez que os pedidos são distintos.
+No mérito, tampouco assiste razão à parte insurgente.
+No que se refere ao art. 884 do CC, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Incide, na espécie, os óbices das Súmula 282 e 356 do STF.
+Além disso, o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório con stante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Com efeito, a verificação acerca da identidade de pedidos pressupõe o reexame do requerimento deduzido na outra demanda, que, nos presentes autos, representa elemento probatório. A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO RÉU.
+1. A litispendência reclama a verificação de identidade das partes, causa de pedir e do pedido, de modo que havendo distinção das causas de pedir, não há falar em litispendência. Incidência da Súmula 83/STJ.
+1.1. Para acolher a pretensão recursal acerca da existência de litispendência entre as ações de revisão e monitória, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.939.370/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.).
+Nesse mesmo sentido: AgInt no AREsp 1.446.080/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 8/6/2020, DJe de 17/6/2020; REsp 1.804.582/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/5/2019, DJe de 21/5/2019.
+Convém registrar, por fim, que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO. Fica PREJUDICADO o pleito de concessão de efeito suspensivo.
+Caso exista nos autos prévia fixação de honorários suc umbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
