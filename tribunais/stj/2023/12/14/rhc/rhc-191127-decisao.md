@@ -1,0 +1,13 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Washington Daniel da Silva - contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (HC n. 1.0000.23.278160-9/000 - fls. 124/135) que manteve a prisão preventiva do recorrente, decretada em 20/10/2023, pela prática, em tese, do crime de tráfico de drogas (4,53 g de maconha, 97,11 g de cocaína e 20,58 g de crack - fl. 59), nos Autos n. 5044137-92.2023.8.13.0145 (fls. 17/34), da 4ª Vara Criminal da comarca de Juiz de Fora/MG -, comporta provimento.
+Com efeito, busca o recurso a revogação da segregação cautelar, ao argumento de deficiência de fundamentação: o recorrente é primário e portador de bons antecedentes, tendo sido a sua prisão declarada de forma abstrata pelo Eg. TJMG (fl. 147).
+Da atenta análise dos autos observa-se que o decreto prisional não demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, apenas justificando a medida extrema na quantidade de entorpecente apreendido - apreendidos: uma balança de precisão; R$ 373,00; 2 buchas de maconha; diversos sacolés; 90 pinos e um invólucro plástico, todos com cocaína; 39 pedras de crack (fl. 33) - e a reiteração delitiva - o autuado responde a outro processo criminal, conforme consta de sua CAC de ID 10094095431.  ..  Mesmo estando a responder por outro processo, parece ter o autuado optado por desafiar a lei novamente, demonstrando que, solto, não faz jus ao direito de liberdade (fl. 33) -, carecendo, entretanto, de fundamento apto a consubstanciar a prisão, especialmente por se tratar de quantidade de droga não expressiva e acusado primário.
+Isso por que a situação demonstra a suficiência de medidas alternativas à prisão, consistentes em:
+a) comparecimento mensal em juízo para informar e justificar suas atividades;
+b) proibição de se ausentar da comarca sem autorização judicial; e
+c) recolhimento domiciliar no período noturno e nos dias de folga.
+Em razão disso, dou provimento ao recurso para substituir a prisão preventiva imposta ao recorrente nos Autos n. 5044137-92.2023.8.13.0145, da 4ª Vara Criminal da comarca de Juiz de Fora/MG, por medidas alternativas à prisão, previstas no art. 319, I, IV e V, do Código de Processo Penal, a serem implementadas e fiscalizadas pelo Magistrado singular.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (4,53 G DE MACONHA, 97,11 G DE COCAÍNA E 20,58 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA NÃO EVIDENCIADO. AUSÊNCIA DE ELEMENTOS CONCRETOS. QUANTIDADE NÃO EXPRESSIVA DE ENTORPECENTE APREENDIDO. RECORRENTE PRIMÁRIO. FUNDAMENTAÇÃO INSUFICIENTE. SUFICIÊNCIA DE MEDIDAS ALTERNATIVAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
