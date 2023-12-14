@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR DE MORAES PRADO VIEIRA contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos condenação do agravante à pena de 12 (doze) anos e 6 (seis) meses de reclusão, em regime fechado, pela prática do crime de roubo majorado (fls. 695-719 e 768-772), édito reformado pelo Tribunal de origem que negou provimento ao apelo ministerial e deu parcial provimento ao recurso defensivo para reduzir a pena para 12 (doze) anos, 4 (quatro) meses e 10 (dez) dias de reclusão (fls. 1020-1045).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, a defesa sustenta ofensa aos arts. 14, inciso II, 71, 157, § 2º, inciso II, e 329 do Código Penal, 386, incisos III, V e VII, do Código de Processo Penal, 98 e 99, caput e § 4º, do Código de Processo Civil, aduzindo, para tanto, caso de incidência da minorante da tentativa, na fração máxima; configuração do crime continuado entre os delitos de roubo e resistência; não demonstração do liame psicológico entre agentes; insuficiência probatória para condenação pelo crime de resistência; atipicidade pela ausência de dolo do crime de resistência; configuração da tentativa e da hipótese de isenção da pena de multa. Ainda, postula a concessão da gratuidade da justiça.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado: (a) no tema 916; (b) na ausência de interesse recursal (arts. 806, caput, do CPP; 7º da Lei n. 11.636/2007); (c) Súmula 284, STF (ausência de indicação do dispositivo quanto à isenção da pena de multa); (d) Súmula 7, STJ (quanto à não demonstração do liame psicológico, prova e atipicidade do crime de resistência e modalidade tentada); e (e) 83, STJ quanto ao crime continuado.
+Nas razões do agravo, a Defesa repisou as razões do recurso especial.
+O Ministério Público Federal apresentou parecer pelo não conhecimento ou pelo desprovimento do recurso.
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem, porquanto limitou-se, nas razões de fls. 1150-1161, a reiterar as razões do recurso especial.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
