@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADRIANA BARREIRA PANATTONI contra decisão que inadmitiu recurso especial pela ausência de demonstração da alegada violação dos arts. 6º VIII, do CDC e 186 e 927 do CC e pelo óbice da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de obrigação de fazer e indenização por danos morais.
+O julgado foi assim ementado (fl. 426):
+Plano de saúde Ação de obrigação de fazer e indenização de danos morais Paciente portadora de câncer que optou por contratar médico e hospital fora da rede credenciada Ausência de prova da recusa da ré em prestar atendimento por serviço conveniado - Impossibilidade de se compelir a operadora do plano de saúde ao custeio das despesas com o tratamento em caráter particular, à ausência de qualquer prova de que ela não dispõe de serviço adequado para a sua realização Ação julgada improcedente Recurso da ré provido.
+Nas razões do recurso especial, a parte ora recorrente aponta violação dos arts. 186 e 927 do CC, por ter o acórdão recorrido afastado a ocorrência de danos morais. Pondera que a negativa de tratamento de grave neoplasia configura ato ilícito indenizável, pois os aborrecimentos causados ultrapassaram os "transtornos naturais e comumente surgidos na vida das pessoas" (fl. 442).
+Aponta divergência jurisprudencial.
+Alega também violação do art. 6º, VIII, do CPC. Defende que cabia a recorrida comprovar que possuía condições de fornecer o tratamento necessário a recorrente.
+Requer o provimento do recurso para que seja a operadora de saúde condenada a custear o tratamento prescrito e também a indenizar a recorrente pelos danos morais causados.
+Contrarrazões apresentadas às fls. 496-503.
+É o relatório. Decido
+De fato, o recurso especial não atende aos pressupostos de admissibilidade.
+As questões infraconstitucionais relativas à violação dos arts. 6º do CDC e 186 e 927 do CC não foram objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema.
+Caso, pois, de aplicação da Súmula n. 282 do STF, neste ponto.
+A respeito julgado que corrobora o entendimento: AgInt no AREsp n. 2.227.875/RO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023.
+Ademais, ainda que fosse possível superar o referido óbice para análise da alegada violação dos arts. 186 e 927 do CC, verifica-se que o Tribunal de origem (fls. 425-428), com base na análise do acervo fático-probatório e nas especificidades do caso, deu provimento ao recurso interposto pela recorrida e afastou a obrigatoriedade da operadora do plano de saúde de custear tratamento realizado fora de rede credenciada, tendo em vista não ter sido demonstrada a negativa do atendimento e o plano de saúde não possuir profissionais habilitados em sua rede credenciada para realização do tratamento, não sendo possível a comprovação da falha na prestação do serviço.
+Ressaltou também o acórdão recorrido que "o relatório médico de fls. 19 não esclarece sobre a real necessidade de que o tratamento seja realizado exclusivamente pelo médico que o subscreve e no mesmo hospital indicado na inicial, não credenciados, mas apenas que o profissional que o subscreve já vinha acompanhando o progresso da doença há mais de dez anos e que seria conveniente a manutenção desta situação" (fl. 428).
+Assim, para acatar a tese da recorrente referente à ocorrência de falha na prestação do serviço oferecido pelo plano de saúde e que, por isso, deveria ser indenizada por danos morais, seria necessário o revolvimento fático probatório dos autos, o que não é possível na via do recurso especial ante o óbice da Súmula n. 7 do STJ.
+Nesse sentido: AgInt no AREsp n. 2.310.797/AM, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023 e AgInt no AREsp n. 2.312.233/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.
+Quanto à alínea c do permissivo constitucional, melhor sorte não socorre à parte recorrente, uma vez que a incidência das Súmulas n. 282 do STF e 5 do STJ implica a inviabilidade do recurso fundado na divergência jurisprudencial, por impossibilidade de se verificar a similitude fática entre os acórdãos paradigmas e o recorrido.
+A esse respeito: AgInt nos EDcl no AREsp n. 2.038.519/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022 e AgInt no REsp n. 1.931.678/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/11/2023, DJe de 23/11/2023.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem -se.
+ EMENTA
