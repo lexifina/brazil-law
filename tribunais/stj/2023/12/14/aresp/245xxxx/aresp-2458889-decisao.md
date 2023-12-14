@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela ASSOCIAÇÃO DE BENEFICÊNCIA E FILANTROPIA SÃO CRISTÓ VÃO contra decisão que inadmitiu recurso especial por estar o acórdão recorrido em consonância com a nova disposição legal da matéria.
+Alega a parte agravante, em síntese, que os pressupostos do recurso especial foram atendidos.
+Sustenta também que o órgão de interposição do recurso, ao emitir juízo prévio de admissibilidade, ultrapassou os limites de sua competência, adentrando indevidamente o mérito do recurso especial.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial.
+É o relatório. Decido.
+Inicialmente, ressalte-se que, em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, aliás, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais".
+Verifica-se também que a decisão que inadmitiu o recurso especial fundamentou-se no fato de estar o acórdão recorrido em harmonia com a nova disposição legal a respeito dos casos excepcionais que exijam a cobertura de tratamento fora do rol da ANS.
+Nas razões recursais, porém, a parte agravante deixou de impugnar o referido óbice, limitando-se a alegar que não cabe ao TJSP analisar a ocorrência ou não de afronta a dispositivo legal por se tratar de mérito do recurso e a reiterar as razões do recurso especial (fl. 318 ).
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
