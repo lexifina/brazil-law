@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ EDIVALDO DOS SANTOS E OUTROS contra decisão de inadmissão de recurso especial proferida pelo Presidente do Tribunal de Justiça do Distrito Federal e dos Territórios com fundamento no Enunciado n. 7 da súmula do Superior Tribunal de Justiça.
+Nas razões recursais, os agravantes sustentam que "A matéria versada no apelo nobre possui cunho estritamente jurídico, cuja apreciação prescinde totalmente de qualquer análise de cláusula contratual ou das provas existentes nos autos" (fl. 418).
+É o relatório. Decido.
+A questão discutida no recurso especial interposto contra acórdão prolatado no julgamento de agravo de instrumento extraído de incidente de cumprimento de sentença foi assim decidida no aresto recorrido (fl. 325):
+Da análise dos autos, tem-se que a decisão agravada não se mostra passível de reforma. Como se vê, após a apresentação dos cálculos pela Contadoria Judicial (ID nº 926722), p. 1/5), houve concordância da parte credora, ora agravante, em relação a eles, razão pela qual os cálculos foram homologados pela decisão de ID nº 926704, não tendo havido impugnação do recorrente em relação a ela.
+Ora, tendo a parte concordado com os cálculos apresentados pela Contadoria Judicial, revela-se defesa e incompatível sua posterior pretensão de recorrer da decisão que homologa a conta, a fim de incluir honorários advocatícios, dada a ocorrência de preclusão lógica  .. .
+No recurso especial inadmitido, os ora agravantes sustentam a violação dos arts. 85, § 13, 494, I, e 485, § 3º, todos do Código de Processo Civil,
+Não procede o inconformismo.
+Conquanto, no caso concreto, se possa afastar o óbice da Súmula n. 7 do STJ, o fato é que a conclusão do acórdão não merece reparos, uma vez que a parte recorrente expressamente concordou com os cálculos realizados pela Contadoria Judicial, os quais foram homologados, não se podendo posteriormente recorrer da decisão homologatória, sob o argumento de que os cálculos mereceriam correção.
+A jurisprudência do Superior Tribunal de Justiça reconhece a ocorrência de preclusão em casos assemelhados. Confiram-se:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO. JUROS MORATÓRIOS. COMPLEMENTAÇÃO. APRESENTAÇÃO DE NOVOS CÁLCULOS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. ACÓRDÃO ALINHADO AO ENTENDIMENTO DESTA CORTE SUPERIOR.
+I - Na origem, trata-se de cumprimento de sentença ajuizado contra a União objetivando a cobrança de honorários sucumbenciais e parcelas não pagas em decorrência da execução de sentença coletiva. Na sentença, determinou-se o pagamento das diferenças de juros de mora, através de requisitórios complementares, após homologação do valor a ser apurado pela Contadoria Judicial, extinguindo-se a execução. No Tribunal a quo, a sentença foi mantida. Nesta Corte, deu-se provimento ao recurso especial para extinguir a execução pela ocorrência da preclusão.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+III - A parte exequente concordou com as RPV"s expedidas em seu favor, de modo que é incabível o pedido posterior de complementação do valor, dada a preclusão. No mesmo sentido, mutatis mutandis: AgInt nos EDcl no AREsp 713.282/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2019, DJe 19/12/2019).
+IV - Agravo interno improvido (AgInt no REsp n. 1.939.917/PE, relator Ministro Francisco Falcão, Segunda Turma, DJe 18/4/2022, destaquei.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DA OBRIGAÇÃO. DEPÓSITO JUDICIAL. AUSÊNCIA DE IMPUGNAÇÃO PELO CREDOR. REDISCUSSÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. ENTENDIMENTO DOMINANTE NESTA CORTE. SÚMULA 83/STJ. ERRO MATERIAL. INEXISTÊNCIA. REEXAME FÁTICO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência de preclusão.
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidência da Súmula n. 83 do STJ.
+3. "Só se considera erro de cálculo aquele derivado de simples cálculo aritmético ou inexatidão material, o que não se amolda ao caso dos autos, em que a Corte de origem afirma a existência de erro acerca dos critérios de cálculo utilizados" (AgInt nos EDcl no REsp 1.518.739/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 19/12/2019).
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+5. Agravo interno a que se nega provimento (AgInt nos EDcl no REsp n. 1.972.969/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 9/6/2023, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. ADMINISTRATIVO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DE CÁLCULOS E A EXPEDIÇÃO DA RESPECTIVA ORDEM DE PAGAMENTO. PRECLUSÃO. OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Segundo a jurisprudência desta Corte, a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+2. Agravo interno a que se nega provimento (AgInt no REsp n. 1.989.971/PE, relator Ministro Pa ulo Sérgio Domingues, Primeira Turma, DJe 20/9/2023, destaquei.)
+Tendo em vista que a Corte de origem aplicou ao caso em espécie a orientação dominante no Superior Tribunal de Justiça, é de rigor a incidência da Súmula n. 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", óbice aplicável também aos recursos especiais interpostos pela alínea a do permissivo constitucional.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
