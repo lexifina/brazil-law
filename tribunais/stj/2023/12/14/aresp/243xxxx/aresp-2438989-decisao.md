@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE MANAUS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 386):
+APELAÇÃO CÍVEL. SENTENÇA DE DESISTÊNCIA. CONDENAÇÃO DA APELANTE EM HONORÁRIOS ADVOCATICIOS. CABÍVEL. ENTENDIMENTO DO ART. 90 DO CPC. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Conforme se observa às fls. 193/194, que trata do termo de audiência de conciliação, ocorrida em 07/05/21, bem como a petição de fl. 216, datada de 10/05/19, a apelada compareceu aos autos antes do pedido de desistência, configurando assim a triangulação processual, devendo, portanto, a Apelante ser condenada ao pagamento de honorários sucumbenciais, nos moldes do art. 90 do CPC.
+2. Recurso conhecido e não provido.
+Embargos de declaração rejeitados (e-STJ fls. 411/413).
+Agravo interno desprovido (e-STJ fl. 448/450).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 90 e 1.022, II, do CPC/2015.
+Defende negativa de prestação jurisdicional, bem como que é incabível a fixação de honorários no caso concreto.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa do art. 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Por outro lado, o Superior Tribunal de Justiça entende que o autor responde pelo pagamento de honorários advocatícios se o pedido de desistência tiver sido protocolizado após a ocorrência da citação, ainda que em data anterior ao oferecimento da contestação.
+A propósito do tema:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. DESISTÊNCIA DE REDIRECIONAMENTO ANTES DA APRESENTAÇÃO DA DEFESA, MAS APÓS EFETIVADAS A CITAÇÃO E A PENHORA ONLINE. EXTINÇÃO DO PROCESSO. ÔNUS SUCUMBENCIAIS DEVIDOS AOS EXECUTADOS. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. A fixação dos honorários advocatícios é devida mesmo em casos de extinção do processo sem resolução do mérito, mediante a verificação da sucumbência e aplicação do princípio da causalidade. Nessa direção, desimporta se o feito foi extinto por ato de ofício do juiz ou a pedido da parte (REsp. 1.719.335/RS, Rel. Min. OG FERNANDES, DJe 9.4.2018).
+2. Efetivamente, já tendo ocorrido a citação do executado, é cabível a condenação da Fazenda Pública, em honorários advocatícios na hipótese de desistência da Execução Fiscal, ainda que anterior à apresentação de defesa. Nesse sentido: REsp. 1.648.213/RS, Rel. Min. HERMAN BENJAMIN, DJe 20.4.2017; REsp. 963.782/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 5.11.2008.
+3. Hipótese em que o Tribunal de origem divergiu da jurisprudência desta Corte ao - a despeito de os executados terem sido citados e suas contas bancárias sofrido penhora online, após o deferimento do pedido de redirecionamento feito pela exequente - não condenar a Fazenda Nacional em honorários de Advogado, ao fundamento de que a extinção da Execução Fiscal não decorreu da defesa, mas da desistência da União anterior à apresentação da Exceção de Pré-Executividade.
+4. Agravo Interno da FAZENDA NACIONAL desprovido. (AgInt no REsp n. 1.825.943/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/12/2020, DJe de 18/12/2020)  Grifos acrescidos .
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DESISTÊNCIA DA AÇÃO. CITAÇÃO EFETIVADA. CONTESTAÇÃO APRESENTADA. DEVER DE PAGAR HONORÁRIOS ADVOCATÍCIOS.
+1. É cabível a condenação em honorários advocatícios na hipótese de o pedido de desistência da ação ter sido protocolado após a ocorrência da citação da ré, ainda que em data anterior à apresentação da contestação. Precedentes do STJ.
+2. Agravo regimental não provido. (AgRg no REsp n. 867.732/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/4/2010, DJe de 5/5/2010)  Grifos acrescidos .
+Dessa orientação não divergiu o Tribunal de origem, de modo que inexiste ensejo para o acolhimento do recurso. Incide, nesse aspecto, como óbice ao recurso especial, a Súmula 83 do STJ.
+Ademais, o Regional foi categórico ao asseverar que, "conforme se observa às fls. 193/194, que trata do termo de audiência de conciliação, ocorrida em 07/05/21, bem como a petição de fl. 216, datada de 10/05/19, a apelada compareceu aos autos antes do pedido de desistência, configurando assim a triangulação processual, devendo, portanto, a Apelante ser condenada ao pagamento de honorários sucumbenciais, nos moldes do art. 90 do CPC" (e-STJ fl. 386).
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CITAÇÃO E OS EMBARGOS DO RÉU. AÇÃO. DESISTÊNCIA POSTERIOR. REVISÃO. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. SÚMULA Nº 568/STJ.
+1. Na hipótese, rever o entendimento da Corte local, no sentido de que a parte autora desistiu da ação somente após a citação e os embargos do réu demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+2. O autor responde pelo pagamento de honorários advocatícios se o pedido de desistência tiver sido protocolizado após a ocorrência da citação, ainda que em data anterior ao oferecimento da contestação. Precedentes.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.250.636/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/6/2023, DJe de 30/6/2023)  Grifos acrescidos .
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
