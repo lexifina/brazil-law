@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCIJANE COELHO COUTO DA SILVA e FABIO CESAR MATOS DA SILVA (LUCIJANE e outro) contra decisão de e-STJ, fls. 81/82, que indeferiu seu pedido de atribuição de efeito suspensivo ao recurso especial.
+Apontam a ocorrência de omissão da decisão embargada porquanto delinearam considerações pertinentes quanto à probabilidade do seu direito e o risco de dano de difícil ou impossível reparação (e-STJ, fl. 85), e contradição porque trouxeram-se arestos quanto à admissão em caráter excepcional, do "abrandamento da incidência das súmulas n; 634 e 635 do STF, e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia da decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte" (e-STJ, fl. 86).
+Requerem, ao final, o acolhimento dos aclaratórios, com efeitos infringentes, para correção dos vícios apontados e concessão do efeito suspensivo ativo da tutela provisória.
+É o relatório.
+Decido.
+De acordo com a jurisprudência pacífica desta Corte, a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Na linha dos precedentes do STJ, a contradição remediável por embargos de declaração é aquela interna ao julgado embargado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão (art. 1.022, I, do CPC).
+LUCIJANE e outro apontaram omissão e contrariedade na decisão objurgada por não terem sido considerados os argumentos relativos à probabilidade de provimento do seu direito e o risco de dano de difícil ou impossível reparação, e porque não foram admitidos os argumentos relativos ao abrandamento da incidência das Súmulas n.ºs 634 e 635, ambas do STF, para processamento da tutela provisória.
+Todavia, a decisão objurgada não foi omissa, pois consignou clara e fundamentadamente que a competência do STJ para apreciar o pedido de tutela provisória com o objetivo de suspender o processo na origem somente se verifica após o processamento do recurso especial pelo tribunal de origem.
+Tampouco se verifica contradição na decisão objurgada porque ainda não ocorreu o juízo de admissibilidade pela Corte a quo, razão pela qual o Superior Tribunal de Justiça não é competente para processar o pedido de tutela.
+Veja-se:
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo tribunal de origem.
+O STJ apenas excepcionalmente admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020).
+ ..
+No caso, ao que se tem, não ocorreu, ainda, o juízo de admissibilidade do recurso especial interposto, e a decisão não se revela teratológica, ao menos a partir das articulações trazidas pelo recorrente, motivo pelo qual, conforme preceituam as mencionadas súmulas do STF, não é competente o STJ para processar o pedido de tutela provisória (e-STJ, fls. 81/82).
+Assim, não há que se falar em omissão ou contradição no decisum embargado, e os argumentos suscitados nas razões dos presentes embargos visam a rediscussão da matéria para reformar a conclusão adotada pelo julgado combatido, o que é inviável nesta via estreita.
+Nessas condições, REJEITO os presentes embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. FALTA DE PROCESSAMENTO DO RECURSO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPETÊNCIA DO STJ. JUÍZO DE ADMISSIBILIDADE NÃO COMPROVADO. SÚMULAS N.ºS 634 E 635, AMBAS DO STF. EMBARGOS REJEITADOS.
