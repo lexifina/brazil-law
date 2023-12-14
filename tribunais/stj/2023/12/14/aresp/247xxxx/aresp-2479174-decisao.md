@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls .435/436):
+PREVIDENCIÁRIO. TEMPO ESPECIAL. TRABALHADOR NA AGROPECUÁRIA. TAREFEIRO. ENQUADRAMENTO POR CATEGORIA PROFISSIONAL. EXPOSIÇÃO A RUÍDOS. LAUDO EXTEMPORÂNEO. IRRELEVÂNCIA. REVISÃO DE BENEFÍCIO PARA INCLUSÃO DE VERBAS TRABALHISTAS. TERMO INICIAL DOS EFEITOS FINANCEIROS.
+1. O entendimento desta Corte é no sentido de que não se exige a prática concomitante da agricultura e da pecuária para fins de cômputo diferenciado de tempo de serviço.
+2. Ainda que o cargo inscrito na Carteira Profissional não seja de agricultor, o Ministério do Trabalho e Emprego relaciona a função de tarefeiro como sinônimo para trabalhador volante rural (CBO 6220-20), o que permite a equiparação à categoria profissional.
+3. Comprovada a exposição a níveis de ruído superiores aos limites de tolerância previstos nos decretos regulamentadores, há que ser reconhecida a especialidade da atividade.
+4. O fato de o laudo pericial não ser contemporâneo ao exercício das atividades laborativas não é óbice ao reconhecimento do tempo de serviço especial, visto que, se em data posterior ao labor despendido, foi constatada a presença de agentes nocivos, mesmo com as inovações tecnológicas e de medicina e segurança do trabalho que advieram com o passar do tempo, reputa-se que, à época do labor, a agressão dos agentes era igual, ou até maior, dada a escassez de recursos materiais existentes para atenuar sua nocividade e a evolução dos equipamentos utilizados no desempenho das tarefas
+5. O disposto no § 3º do art. 55 da Lei 8.213/1991 refere-se à necessidade de apresentação de início de prova material em relação à comprovação de tempo de serviço, não havendo previsão legal no caso de mero reconhecimento de verbas inadimplidas pelo empregador durante vínculo empregatício.6. O termo inicial dos efeitos financeiros, quando inexistente requerimento administrativo anterior à lide, deve ser fixado na datado ajuizamento da ação, nos termos do RE 631.240 do Supremo Tribunal Federal.
+Opostos embargos declaratórios, foram rejeitados (fl. 489).
+Aponta o recorrente, nas razões do recurso especial, violação aos arts. 1.022, II, do CPC, 31 da Lei n. 3.807/60, 9º da Lei 5.890/73; item 2.2.1 do Quadro Anexo ao Decreto n. 53.831/64 , sustentando, além de negativa de prestação jurisdicional, que "a atividade rural, vale dizer, a agricultura, a pecuária em seu sentido amplo, não estava prevista como atividade especial, limitando-se o enquadramento da modalidade de ocupação de trabalhadores na agropecuária" (fl.500) .
+Afirma que "a jurisprudência do E. STJ já firmou compreensão de que a atividade rural exercida exclusivamente na lavoura ou na pecuária, separadamente, não está contemplada no rol do item 2.2.1 do Decreto nº 53.831/64" (fl.502) .
+Ao final, requer o "provimento ao presente recurso, nos termos da fundamentação, julgando improcedente o pedido para reconhecimento da especialidade do tempo de serviço exercido como trabalhador rural" (fl. 502).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação comporta acolhida.
+Com efeito, antes da edição da Lei n. 9.032/95, o reconhecimento de trabalho em condições especiais ocorria por enquadramento. Assim, os anexos dos Decretos 53.831/64 e 83.080/79 listavam as categorias profissionais que estavam sujeitas a agentes físicos, químicos e biológicos, considerados prejudiciais à saúde ou à integridade física do
+segurado.
+A teor do entendimento consolidado nesta Corte, o anexo do Decreto n. 53.831/64, no seu item 2.2.1, considera como insalubre os serviços e atividades profissionais desempenhados na agropecuária (lavoura e pecuária cumulativamente).
+Entretanto, o Tribunal de origem, com base no conjunto probatório dos autos, Ao solucionar a controvérsia, adotou as seguintes razões de decidir (fl. 428):
+Do Caso Concreto
+Os pontos controvertidos nos presentes autos dizem respeito ao reconhecimento da especialidade nos seguintes intervalos:
+a) Recurso da Parte Autora
+17/12/1985 a 13/05/1986
+O autor manteve vínculo de emprego junto à empresa Usina Central do Paraná S. A. - Agricultura, Indústria e Comércio, no cargo de tarefeiro. Não foi apresentado formulário comprobatório das condições laborais, apesar de o terem sido em relação aos demais vínculos mantidos coma mesma empresa.
+O juízo a quo entendeu que não é possível o enquadramento da atividade rural exercida pelo autor, como especial, porquanto, a atividade de trabalhador rural (cortador de cana) não está elencada como especial no Decreto n.º 53.831/1964, eis que o código 2.2.1, se refere apenas a trabalhadores em agropecuária.
+Nos termos da fundamentação já referida, o entendimento desta Corte é no sentido de que não se exige a prática concomitante da agricultura e da pecuária para fins de cômputo diferenciado de tempo de serviço.
+Ainda que o cargo inscrito na Carteira Profissional não seja de agricultor, o Ministério do Trabalho e Emprego relaciona a função de tarefeiro como sinônimo para trabalhador volante rural (CBO 6220-20), o que é comprovado por meio de laudo técnico (evento 1, OUT21).
+Desta forma, possível o enquadramento como tempo especial por equiparação à categoria profissional.
+Ao que se observa, o Tribunal de origem destoou da orientação firmada na Primeira Seção deste STJ que, ao enfrentar caso análogo ao dos presentes autos, acolheu o pleito de uniformização de jurisprudência para fazer prevalecer o entendimento jurisprudencial pacífico deste STJ no sentido de que "o trabalhador rural (seja empregado rural ou segurado especial) que não demonstre o exercício de seu labor na agropecuária, nos termos do enquadramento por categoria profissional vigente até a edição da Lei 9.032/1995, não possui o direito subjetivo à conversão ou contagem como tempo especial para fins de aposentadoria por tempo de serviço/contribuição ou aposentadoria especial".
+Confira-se:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. EMPREGADO RURAL. LAVOURA DA CANA-DE-AÇÚCAR. EQUIPARAÇÃO. CATEGORIA PROFISSIONAL. ATIVIDADE AGROPECUÁRIA. DECRETO 53.831/1964. IMPOSSIBILIDADE. PRECEDENTES.
+1. Trata-se, na origem, de Ação de Concessão de Aposentadoria por Tempo de Contribuição em que a parte requerida pleiteia a conversão de tempo especial em comum de período em que trabalhou na Usina Bom Jesus (18.8.1975 a 27.4.1995) na lavoura da cana-de-açúcar como empregado rural.
+2. O ponto controvertido da presente análise é se o trabalhador rural da lavoura da cana-de-açúcar empregado rural poderia ou não ser enquadrado na categoria profissional de trabalhador da agropecuária constante no item2.2.1 do Decreto 53.831/1964 vigente à época da prestação dos serviços.
+3. Está pacificado no STJ o entendimento de que a lei que rege o tempo de
+serviço é aquela vigente no momento da prestação do labor. Nessa mesma
+linha: REsp 1.151.363/MG, Rel. Ministro Jorge Mussi, Terceira Seção, DJe
+5.4.2011; REsp 1.310.034/PR, Rel. Ministro Herman Benjamin, Primeira
+Seção, DJe 19.12.2012, ambos julgados sob o regime do art. 543-Cdo CPC (Tema 694 - REsp 1398260/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 5/12/2014).
+4. O STJ possui precedentes no sentido de que o trabalhador rural (seja empregado rural ou segurado especial) que não demonstre o exercício de seu labor na agropecuária, nos termos do enquadramento por categoria profissional vigente até a edição da Lei 9.032/1995, não possui o direito subjetivo à conversão ou contagem como tempo especial para fins de aposentadoria por tempo de serviço/contribuição ou aposentadoria especial, respectivamente. A propósito: AgInt no AREsp 928.224/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 8/11/2016; AgInt no AREsp 860.631/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/6/2016; REsp1.309.245/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/10/2015;AgRg no REsp 1.084.268/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 13/3/2013; AgRg no REsp 1.217.756/RS, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 26/9/2012; AgRg nos EDcl no AREsp 8.138/RS, Rel. Ministro Og Fernandes, Sexta Turma, DJe 9/11/2011; AgRg no REsp1.208.587/RS, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 13/10/2011;AgRg no REsp 909.036/SP, Rel. Ministro Paulo Gallotti, Sexta Turma, DJ12/11/2007, p. 329; REsp 291.404/SP, Rel. Ministro Hamilton Carvalhido, Sexta Turma, DJ 2/8/2004, p. 576.
+5. Pedido de Uniformização de Jurisprudência de Lei procedente para não
+equiparar a categoria profissional de agropecuária à atividade exercida
+pelo empregado rural na lavoura da cana-de-açúcar.
+(PUIL 452/PE, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em08/05/2019, DJe 14/06/2019)
+Portanto, o acórdão recorrido, em desarmonia com o entendimento jurisprudencial acima demonstrado, impondo-se a sua reforma.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial do INSS, para afastar a equiparação da categoria profissional de agropecuária à atividade exercida pelo autor.
+Publique-se.
+EMENTA
