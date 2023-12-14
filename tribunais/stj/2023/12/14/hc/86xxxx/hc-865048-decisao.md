@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Pedro Luiz Albuquerque da Cunha contra o ato coator proferido pelo Tribunal de Justiça de São Paulo que, nos autos do Agravo em Execução Penal n. 0003526-81.2023.8.26.0482, negou provimento ao recurso defensivo, mantendo a decisão do Juízo de Direito da 2ª Vara de Execuções Penais da comarca de Presidente Prudente/SP (PEC n. 7004316-44.2015.8.26.0637) que indeferiu o pedido de progressão de regime por ausência do requisito subjetivo.
+Alega o impetrante que, além de o apenado possuir bom comportamento carcerário, o exame criminológico realizado considerou oportuna a concessão do regime intermediário. Defende, ainda, que, diferentemente da argumentação lançada pelas instâncias antecedentes, a psicóloga também assinalou positivamente para a progressão do ora paciente.
+Requer, ao final, inclusive em caráter liminar, seja concedida a progressão de regime semiaberto ao reeducando.
+Liminar indeferida (fls. 52/53).
+Informações prestadas (fls. 58/61), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 63/67).
+É o relatório.
+O Tribunal a quo manteve o indeferimento do pedido de progressão de regime asseverando que (fls. 19/24):
+ ..
+De se obtemperar que a observância à condutado executado, incluindo faltas disciplinares, durante todo o período de cumprimento do escarmento, é de suma importância, revelando-se manifestação concreta do princípio da individualização da pena. Logo, independentemente de o executado já haver reabilitado sua conduta, em caso de cometimento de ilícitos administrativos, ela deve ser sopesada.
+ ..
+O executado, reincidente, portador da matrícula nº 519.929, cumpre pena de 22 (vinte e dois) anos, 4 (quatro) meses e 5 (cinco) dias de reclusão, pela prática de dois roubos majorados, atualmente no regime fechado na Penitenciária de Marabá Paulista - SP, cujo início se deu em 14.05.2015, com término previsto para o dia 18.09.2037 (fls. 11/17).
+Ao que se verifica, o sentenciado ingressou no sistema prisional pela primeira vez em 2008, oportunidade em que cumpriu pena pela prática de outros dois crimes de roubo majorado, e, malgrado atualmente registre bom comportamento carcerário, possui histórico de 3 (três) faltas disciplinares de natureza grave cometidas por ocasião de seu ingresso no sistema prisional, sendo uma delas consistente em abandono do cumprimento de pena (cometida em 02.01.14), oportunidade em que tornou a delinquir, reiterando na prática de um crime de roubo (fato em04.04.2014), pelo qual atualmente se encontra recolhido.
+Além disso, em que pese a manifestação favorável da equipe multidisciplinar (fl. 22), o psicólogo responsável pela avaliação do sentenciado bem ponderou que Pedro, "Demonstra sofrimento interno, aparentemente está iniciando fase de reflexão sobre seus atos e consequências, buscando também o apoio em aspectos religiosos para aceitar melhor seus limites e aumentar seu limiar de tolerância a frustração. Assume os delitos, apresenta crítica em desenvolvimento pelas consequências punitivas da prisão, mas aparenta noção da extensão negativa de seus atos" (fls. 26/27).
+Tal conduta indisciplinada, indubitavelmente evidencia fortemente a não assimilação da terapêutica reeducacional, merecendo maior cautela na análise de pedido de progressão ao regime intermediário ou concessão de livramento condicional, em atendimento aos princípios da individualização e dos objetivos gerais e individuais da pena.
+ ..
+Pois bem, verifica-se dos trechos do aresto impugnado que a fundamentação utilizada para negar ao paciente o benefício da progressão de regime teve como base a ausência de requisitos subjetivos, por fatos ocorridos durante a execução penal.
+Com efeito, segundo a orientação jurisprudencial desta Corte, a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime; a circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (AgRg no HC n. 791.487/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/5/2023, DJe 25/5/2023).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. FALTA DE REQUISITO SUBJETIVO. FALTAS GRAVES (EVASÃO E PRÁTICA DE DOIS FATOS DEFINIDOS COMO CRIMES DOLOSOS). AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há limite temporal estabelecido na Lei de Execução Penal para o preenchimento do requisito subjetivo para progressão de regime, devendo ser considerado todo o período de execução da pena, a fim de se aferir o mérito do apenado, ainda que haja atestado de boa conduta carcerária. Precedentes do STJ.
+2. "O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional" (AgRg no HC n. 477.887/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/3/2019, DJe 25/3/2019).
+3. Sem embargo, tem-se que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e faltas graves muito antigas, isoladamente, não constituem fundamentos idôneos para indeferir o benefício.
+4. Na hipótese em apreço, conforme decidido monocraticamente, o indeferimento da progressão de regime é válido, pois amparado na prática de faltas disciplinares de natureza grave - abandono do cumprimento de regime semiaberto anteriormente concedido (evasão) e prática de dois fatos definidos como crimes dolosos (roubos majorados) - ocorridas no curso da execução que se pretende a concessão do benefício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 494.742/SP, Ministra Laurita Vaz, Sexta Turma, DJe 14/6/2019 - grifo nosso).
+Desse modo, destacado o histórico de faltas graves - praticou novo delito (Execução n. 4) durante cumprimento de pena em regime aberto (fl. 49) -, não há falar em flagrante ilegalidade a ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL CONTURBADO. FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
