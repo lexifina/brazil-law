@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ JULBERTO MEIRA JÚNIOR contra decisão de minha lavra em que reconsiderei a decisão de e-STJ fls. 932/938 e julguei prejudicado o agravo em recurso especial, com fundamento no art. 34, XI, do Regimento Interno do STJ, em razão da extinção da execução pelo reconhecimento da perda superveniente do objeto do recurso originário de embargos à execução fiscal (e-STJ fls. 968/972).
+O embargante sustenta que o julgado padece de omissão e erro material, visto que a extinção da execução fiscal não decorreu da não localização de bens, mas sim da inatividade do feito executivo em decorrência de inércia da Fazenda Pública.
+Diz, ainda, omisso o julgado no tocante ao Tema 587 do STJ e afirma que "extrai-se do referido enunciado que a demanda dos embargos à execução possui natureza relativamente autônoma, a qual é limitada somente quanto a soma dos honorários fixados no pleito executivo e no pleito de defesa" (e-STJ fl. 977).
+Argumenta que a fixação da verba honorária deve se respaldar no princípio da causalidade, uma vez que a Fazenda Pública deu causa ao ajuizamento dos presentes embargos.
+Sem apresentação de resposta.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão, o que não se observa na hipótese.
+Os vícios invocados pelo embargante manifestam o seu inconformismo com a decisão embargada e repisam argumentos dantes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURADO. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata a omissão alegada pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração parcialmente acolhidos, para sanar erro material.
+(EDcl no AgInt nos EDcl no AREsp n. 1.960.434/PR, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+De toda sorte, cumpre chamar atenção para os dados ofertados pelo próprio embargante, de que a execução fiscal foi extinta em razão da ocorrência da prescrição intercorrente.
+Do teor do julgado anexado à petição dos primeiros embargos de declaração, de e-STJ fls. 952/956, é possível extrair: (i) a Fazenda Nacional "reconheceu de ofício a prescrição intercorrente" (e-STJ fl. 952); (ii) "No caso concreto, transcorreram mais de seis anos desde a intimação da parte exequente acerca da não localização do devedor/constatação de inexistência de bens penhoráveis, sem qualquer diligência com resultado útil ao processo, de modo que se consumou a prescrição intercorrente" (e-STJ fl. 955 - Grifos acrescidos).
+Diante desse panorama, e de acordo com o consignado na decisão embargada, não há falar em condenação da exequente ao pagamento da verba honorária. Em reforço, destaco o seguinte julgado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO EM CONSONÂNCIA COM PRECEDENTE DA CORTE ESPECIAL DO STJ.
+1. A jurisprudência desta Corte Superior é firme no sentido de que o reconhecimento da ocorrência de prescrição intercorrente não autoriza a condenação da Fazenda Pública ao pagamento de honorários sucumbenciais do advogado, ainda que oferecida exceção de pré-executividade, sendo, outrossim, desinfluente investigar se houve resistência da exequente, porquanto o que importa, para a não incidência de honorários, radica no princípio da causalidade, ou seja, saber-se quem deu causa ao ajuizamento do executivo fiscal.
+Nessa linha: AgInt nos EAREsp n. 1.667.204/SP, relator Ministro Benedito Gonçalves, DJe de 16/2/2022.
+2. O "reconhecimento da prescrição intercorrente não infirma a existência das premissas que autorizavam o ajuizamento da execução, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, de modo que é inviável atribuir ao credor os ônus sucumbenciais com fundamento no princípio da causalidade, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação" (AgInt no AREsp n. 1.572.455/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/5/2021).
+3. Outros precedentes: AgInt no REsp 2.021.308/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe 16/8/2023; AgInt no REsp n. 1.947.854/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 29/5/2023; AgInt no REsp n. 2.043.671/SE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 4/5/2023; AgInt no REsp 1.929.415/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 22/9/2021; AgInt nos EDcl no AgInt no REsp 1.733.227/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 14/6/2021;
+AgInt nos EDcl nos EAREsp n. 957.460/PR, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 20/2/2020.
+4. Agravo interno da contribuinte não provido.
+(AgInt nos EDcl no REsp n. 2.004.108/AL, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/10/2023, DJe de 3/11/2023.)
+Em atenção aos argumentos do embargante, registro, ainda, que a situação dos autos não guarda relação de pertinência com o Tema 587 do STJ, que trata da possibilidade de cumulação da verba honorária fixada nos embargos à execução com a arbitrada na própria execução fiscal, pois, aqui, houve a extinção da execução fiscal em razão da ocorrência de prescrição intercorrente, peculiaridade que afasta o referido precedente obrigatório.
+Por fim, advirto o recorrente que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
