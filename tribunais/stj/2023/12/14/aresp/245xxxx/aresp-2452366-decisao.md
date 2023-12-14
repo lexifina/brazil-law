@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por THAYNÁ COTRIM DA SILVA, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 243):
+APELAÇÃO. Prestação de serviços educacionais. Ação declaratória de inexigibilidade de débito cumulada com condenatória de repetição de indébito e de indenização por danos morais. Cobrança por parte da instituição de ensino em face do aluno, sem a inclusão de desconto proveniente de bolsa de estudos. Inclusão do nome da autora no cadastro de inadimplentes. Sentença de improcedência. INSURGÊNCIA DA AUTORA. Alegação de concessão de desconto de 50% nas mensalidades até o final do curso, que não foi honrada pela instituição de ensino. Não acolhimento. A autora não demonstrou que qualquer indício de negociação em que a ré tenha garantido referido desconto até o final do curso. Publicidade encartada nos autos que aponta a possibilidade de descontos, com a seguinte ressalva "Consulte condições comerciais". Sentença mantida. RECURSO IMPROVIDO.
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 341 do CPC; 122,187, 421 e 422 do CC; e 47 e 51, IV, X e XIII, do CDC.
+Esclareceu que se opôs ao acórdão por manter a sentença que havia conferido validade à retirada de desconto na mensalidade paga pela insurgente para custear seu curso superior.
+Afirmou ter sido equivocada a conclusão no sentido de não existirem provas firmes da concessão do benefício à discente por todo o restante da avença, tendo em vista que ficou demonstrada a incidência do desconto por 2 (dois) semestres letivos.
+Destacou a necessidade de respeito ao acordado entre as partes, a fim de conferir validade aos dispositivos citados. Aventou que decidir pela possibilidade de cessação de desconto/bolsa de estudo por mera liberalidade da instituição de ensino é verdadeira afronta ao art. 51 do CDC.
+Frisou que a manutenção desse arbítrio desrespeita a boa-fé, coloca o consumidor em desvantagem exagerada e permite ao fornecedor a variação do preço de maneira unilateral, o que é inadmissível. Requereu o provimento do recurso especial (e-STJ, fls. 249-257).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 274-282).
+Contraminuta apresentada (e-STJ, fls. 285-291).
+Brevemente relatado, decido.
+Apreciando o contexto fático-probatório, termos do contrato de serviços educacionais e publicidade relativa à concessão de descontos na mensalidade do curso superior, entendeu a segunda instância pela ausência de prova do direito à manutenção do benefício na forma pretendida pela ora insurgente.
+Entendeu o aresto que ela não trouxe nenhum elemento apto a demonstrar suas assertivas, no sentido de que lhe havia sido prometida a concessão de bolsa de 50% (cinquenta por cento) do valor da mensalidade até o final do curso, motivo a viabilizar a cobrança praticada pela instituição de ensino.
+Veja-se (e-STJ, fls. 245-247):
+Malgrado a insistência da parte apelante, a r. decisão deve ser confirmada por seus próprios e jurídicos fundamentos, entretanto, devem ser acrescentadas algumas considerações.
+Restou incontroversa a relação de prestação de serviços educacionais mantida entre as partes. A discussão versa sobre a eventual concessão de bolsa de 50% de desconto nas mensalidade até o final do curso. Nesse tocante, a apelada manifestou-se nos autos ressalvando que a concessão de bolsas de estudo está prevista expressamente no contrato de prestação de serviços, que são semestrais, e não se estendem à dependência ou adaptações, tratando-se de prerrogativa sua renovar ou não o benefício para o semestre seguinte.
+Do que se extrai nos autos, não há provas firmes na concessão do benefício ao discente, na forma como alega a autora.
+Os documentos referentes a publicidade dos descontos de 50% ou até 70% durante todo o curso (fls. 43/52), trazem expressamente a ressalva "Consulte condições comerciais" ou ainda "Consulte o regulamento emhttp://maisfmu. br/regulamentovolteaestudar".
+Evidente, portanto, que existem condições a serem observada para a concessão do desconto. A autora não trouxe qualquer elemento apto a demonstrar suas assertivas no sentido de que lhe havia sido prometida a concessão de bolsa de 50% até o final do curso.
+Nessa toada, deve ser prestigiada a r. sentença, inclusive, no seguinte trecho:
+ ..
+Assim, não há que se cogitar direito adquirido a ensejar a concessão da referida bolsa de estudos, tal como mencionado na inicial.
+Por sua vez, havendo inadimplemento pela autora no que se refere ao pagamento das mensalidades, lícita se mostra a cobrança praticada pela apelada e inexistentes a responsabilidade civil desta, pelo que sentença deve ser confirma este E. Tribunal.
+Essas ponderações sobre a carência de prova do direito ao desconto até o final do curso e existência de inadimplência da recorrente, portanto, atraem a aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da causa, observada eventual gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. CONCLUSÃO NO SENTIDO DA CARÊNCIA DE PROVA DO DIREITO AO BENEFÍCIO DE DESCONTO NA MENSALIDADE ATÉ O FINAL DO CURSO E VIABILIDADE DA COBRANÇA. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
