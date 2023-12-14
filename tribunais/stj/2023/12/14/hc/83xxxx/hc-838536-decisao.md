@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+DUPLICATA SIMULADA - art. 172, CP - títulos emitidos sem lastro em operações comerciais - autoria e materialidade comprovadas - defesa que não logrou produzir qualquer contraprova suficiente para afastar a ré da condenação. Pena corporal corrigida para detenção, conforme prevê o artigo legal - Recurso parcialmente provido.
+Consta nos autos que a paciente foi condenada à pena de 2 anos e 4 meses de detenção, em regime inicial aberto, além de 11 dias-multa, por incursa no delito do art. 171, caput, c/c 71, caput, do Código Penal.
+Sustenta a defesa a existência de constrangimento ilegal uma vez que ausente representação da vítima para o prosseguimento da ação pelo delito de estelionato.
+Afirma ainda que somente interpretação demasiadamente elástica do texto legal poderia conduzir o magistrado à conclusão de incidência da continuidade delitiva, expondo que no presente caso, a emissão de duplicatas foi um ato único de faturamento dividido em parcelas de pagamento.
+Aduz que a própria vítima admitiu o negócio, todavia informou que nada devia à empresa da recorrente e por esta razão os protestos eram indevidos.
+Requer, liminarmente, a suspensão do feito. No mérito, a concessão da ordem.
+A liminar foi indeferida. Foram prestadas informações e o Ministério Público Federal opina pela denegação da ordem.
+No que se refere ao tema da ausência de representação da vítima, verifica-se que o Tribunal a quo nada dispôs a respeito. Assim, a análise pretendida não pode ser conhecida por esta Corte Superior, uma vez que a questão não foi previamente apreciada pelo Tribunal de origem.
+Sabe-se que não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Relativamente à continuidade delitiva, consta da sentença (fl. 11):
+Por outro lado, tendo praticado três delitos de duplicada simulada, que contaram com o mesmo modus operandi, separados por pequeno intervalo de tempo, reconheço a continuidade delitiva.
+O Tribunal de origem manteve o entendimento, afirmando que "necessária a manutenção da condenação da ré pelo crime de duplicata simulada de forma continuada, pois houve a emissão de mais de um título de crédito" (fl. 19).
+Verifica-se que as instâncias ordinárias concluíram que houve a prática de três delitos de emissão de duplicatas simuladas, utilizando-se do mesmo "modus operandi", separadas por pequeno intervalo de tempo, de modo a reconhecer a incidência da continuidade delitiva.
+Desse modo, a via estreita do habeas corpus não é meio adequado para a revisão da conclusão, uma vez que tal providência requer aprofundado análise dos elementos fático-probatórios contidos nos autos. Neste sentido, a contrario sensu:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ROUBOS MAJORADOS. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. REQUISITOS AUSENTES. INEXISTÊNCIA DE HOMOGENEIDADE NA MANEIRA DE EXECUÇÃO DOS DELITOS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, ao interpretar o art. 71 do Código Penal, adotou a teoria mista, pela qual a ficção jurídica do crime continuado exige, além da comprovação dos requisitos de ordem subjetiva, a unidade de desígnios, ou seja, o liame volitivo entre os delitos, a demonstrar que os atos criminosos se apresentam entrelaçados, isto é, que a conduta posterior constitui um desdobramento da anterior.
+2. No caso em exame, embora sejam crimes de mesma espécie, os delitos não guardam entre si um elo de continuidade, visto que o Tribunal de origem foi taxativo no afastamento do requisito subjetivo, afirmando que os delitos em discussão foram praticados com modus operandi diversos, cidades distintas e desígnios autônomos, a revelar traços que não correspondem à continuidade delitiva, mas sim à reiteração criminosa.
+3. Não é possível, na via exígua do habeas corpus, proceder ao amplo reexame dos fatos e das provas para reconhecer a continuidade delitiva, sobretudo se a instância a quo, soberana na análise da matéria fática dos autos, ficou convicta quanto à existência de reiteração na prática criminosa, como verificado no caso em apreço.
+4. Agravo regimental desprovido. (AgRg no HC n. 755.624/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EVASÃO DE DIVISAS. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE LITISPENDÊNCIA. TRÍPLICE IDENTIDADE NÃO CONSTATADA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de trancamento da ação penal se sustenta na alegação de que os fatos apurados no âmbito da Ação Penal n. 5054865-41.2021.4.04.7100 foram cometidos em continuidade delitiva com aqueles já sancionados nos autos da Ação Penal n. 5053073-57.2018.4.04.7100.
+2. Para o reconhecimento de litispendência é necessário que haja tríplice identidade entre os feitos. Em outras palavras, é indispensável que sejam coincidentes as partes, a causa de pedir e o pedido em ambas as ações.
+3. Neste caso, muito embora se esteja diante de crimes assemelhados, praticados com o mesmo modus operandi, os fatos narrados na primeira ação penal foram cometidos em 2013 e os da segunda ação, em 2014. As pessoas envolvidas nas transações também são diversas, de maneira que não há que se falar em tríplice identidade neste caso.
+4. Eventual reversão das conclusões das instâncias antecedentes para reconhecer a continuidade delitiva ou a litispendência, nos termos pretendidos pelo agravante, esbarra na impossibilidade de exame verticalizado de fatos e provas pela via do habeas corpus, conforme entendimento jurisprudencial consolidado nesta Corte Superior.
+5. Agravo regimental não provido. (AgRg no HC n. 719.191/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
