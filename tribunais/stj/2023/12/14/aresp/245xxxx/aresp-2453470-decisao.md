@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 465 e-STJ):
+APELAÇÃO. Plano de saúde. Sentença de procedência. Inconformismo das rés. Preliminar de ilegitimidade passiva afastada. Extinção do contrato após o falecimento do titular do plano. Direito de permanecer no convênio médico, em caso de morte do titular, nas mesmas condições contratuais, com a assunção das obrigações daí decorrentes. Irrelevância de se tratar de plano coletivo. Aplicação do artigo 30, § 3o, da Lei nº 9.656/98 e da Súmula 13 da ANS. Sentença mantida. Recursos a que se nega provimento.
+Opostos embargos de declaração, esse foram rejeitados (fls. 503-506 e-STJ).
+Em suas razões de recurso especial (fls. 475-493 e-STJ), a parte recorrente aponta violação aos artigos 30, § 3º, da Lei n. 9.656/98; 421 do Código Civil; e Súmula Normativa 13/10, sustentando, em suma, o não cabimento da manutenção de dependente em plano de saúde coletivo após a morte do titular, tendo em vista a ocorrência da extinção do contrato entre as partes.
+Contrarrazões apresentadas às fls. 510-519 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 520-521 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) não ter sido demonstrada a alegada vulneração aos dispositivos arrolados; e b) aplicação dos óbices das Súmulas 5 e 7 do STJ.
+Daí o agravo (fls. 524-542 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 545-554 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal à verificação acerca da possibilidade de manutenção do dependente em plano de saúde após o falecimento do titular.
+O Tribunal de origem, ao analisar a questão, manteve a sentença de procedência do pedido inicial, condenando a operadora do plano de saúde requerida na manutenção da parte autora como beneficiária da apólice em questão, pronunciando-se nos seguintes termos (fls. 467 e-STJ):
+No mais, o direito da autora em permanecer no seguro em caso de morte do titular é assegurado pela Lei nº 9.656/98, em seu artigo 30, §3º: "Ao consumidor que contribuir para plano ou seguro privado coletivo de assistência à saúde, decorrente de vínculo empregatício, no caso de rescisão ou exoneração do contrato de trabalho sem justa causa, é assegurado o direito de manter sua condição de beneficiário, nas mesmas condições de que gozava quando da vigência do contrato de trabalho, desde que assuma também o pagamento da parcela anteriormente de responsabilidade patronal. (..) § 3º. Em caso de morte do titular, o direito de permanência é assegurado aos dependentes cobertos pelo plano ou seguro privado coletivo de assistência à saúde, nos termos do disposto neste artigo (..)".
+E pela regulamentação da Agência Nacional de Saúde ANS, por meio da sua Súmula 13: "O término da remissão não extingue o contrato de plano familiar, sendo assegurado aos dependentes já inscritos o direito à manutenção das mesmas condições contratuais, com a assunção das obrigações decorrentes, para os contratos firmados a qualquer tempo".
+Com efeito, o acórdão recorrido amolda-se à jurisprudência desta Corte Superior sobre o tema, no sentido de que, após o óbito do beneficiário titular, os dependentes possuem o direito de permanecer no plano de saúde coletivo, mantidas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+Nesse sentido, confira-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. 1. ÓBITO DO BENEFICIÁRIO TITULAR. MANUTENÇÃO DO DEPENDENTE. POSSIBILIDADE. PRECEDENTES. 2. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 3. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. 4. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes.
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Segundo orientação desta Corte, não haverá a majoração de honorários de sucumbência prevista no art. 85, §11, do CPC/2015, quando do julgamento de agravo interno ou embargos de declaração. Precedentes.
+4. Agravo interno improvido. (AgInt no AgInt no AREsp 1839311/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/10/2021, DJe 06/10/2021)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. FALECIMENTO DO TITULAR. DIREITO DE MANUTENÇÃO DOS DEPENDENTES. SÚMULA N. 83 DO STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO ESPECÍFICA NECESSÁRIA. DECISÃO MANTIDA.
+1. "(..) Com a morte do titular, permitida a permanência de seus dependentes no plano de saúde com a manutenção das mesmas condições, desde que assumam as obrigações dele decorrentes" (AgInt no REsp n. 1.765.995/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/6/2020, DJe 12/6/2020). Súmula n. 83 do STJ.
+2. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Súmula n. 211 do STJ.
+3. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 1 0/4/2017), o que não ocorreu no caso.
+4. Agravo interno a que se nega provimento (AgInt no REsp 1931064/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)  grifou-se
+Inviável, portanto, o provimento do recurso especial, diante da incidência do óbice da Súmula 83/STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
