@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Agravos interpostos contra a inadmissão dos Recursos Especiais de José Antônio Mendes, por incidência da Súmula 126/STJ e descumprimento do art. 1.029, § 1º, do CPC, e do Estado do Maranhão, por ausência de violação ao art. 1.022 do CPC no acórdão recorrido e aplicação das Súmulas 7 e 83/STJ.
+Destaco a ementa do julgado de fls. 44-63, e-STJ, proferido pelo Tribunal de Justiça do Estado do Maranhão:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA Nº 6.542/2005. SINTSEP. URV. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REJEIÇÃO. REESTRUTURAÇÃO DA CARREIRA. LIMITAÇÃO TEMPORAL. OCORRÊNCIA. PGCE. ENQUADRAMENTO. RECURSO PARCIALMENTE PROVIDO.
+I - A propositura da execução coletiva pelo Sindicato autor da demanda originária é causa de interrupção do prazo prescricional, tal como no caso dos autos, no qual, ao contrário do que pretende o Estado do Maranhão, após iniciada a liquidação coletiva, o cálculo somente foi homologado em 15/10/2018, iniciando, neste momento, a nova contagem do prazo prescricional, por 2 (dois) anos e meio (14/04/2021). E tendo sido a ação de cumprimento de sentença individual ajuizada em 07/02/2020, ou seja, antes de abril de 2021, não se encontra prescrita a pretensão executória.
+II - A Lei n.º 9.664/2012, publicada em 17.07.2012, reestruturou o quadro de servidores do Poder Executivo do Estado do Maranhão, implicando em reajuste do vencimento básico do cargo do agravante, extinguindo-se, assim, o direito à recomposição e à implantação de percentual de reajuste salarial, com a vigência do PGCE.
+III - Embora referida Lei tenha possibilitado ao servidor, através do § 2º, do art. 36, optar pelo enquadramento, verifico no presente caso, conforme alegado pelo Estado do Maranhão, o incremento salarial ocorrido na remuneração do servidor/agravante nos termos da Lei 9.664/2012, conforme a planilha e ficha financeira, ambas nos autos originários, demonstra a sua inequívoca adesão ao novo regime jurídico.
+III - Agravo de Instrumento conhecido e parcialmente provido.
+Os Embargos de Declaração foram rejeitados fls. 119-138, e-STJ e os Recursos Especiais não foram admitidos ( fls 260-265, e-STJ)
+Sustenta o Estado do Maranhão:
+Na origem, a DEMANDA consiste em ação individual de cumprimento de sentença coletiva proferida nos autos da Ação Coletiva nº 6.542/2005, ajuizada pelo SINTSEP. O referido título transitou em julgado em 05/11/2008, condenando o Estado a implantação de índices correspondentes às diferenças de URV"s (obrigação de fazer), bem como ao pagamento dos valores retroativos (obrigação de pagar). Após o trânsito em julgado do título, o sindicato autor manejou apenas uma Liquidação Coletiva nos próprios autos, visando apurar os índices de URV devidos, liquidação esta, realizada através de simples remessa dos autos à contadoria do juízo para que apurasse os índices correspondentes à conversão das URV"s com base nas datas dos efetivos pagamentos nos períodos de nov/1993 a fev/1994, constituindo-se, portanto, em mera atividade aritmética desempenhada pela contadoria do juízo. Ao fi m, tais cálculos vieram a ser homologados por decisão transitada em 15/10/2018.
+(..)
+O Estado do Maranhão apresentou RECURSO ESPECIAL, nos termos do art. 105, inciso III, alíneas "a" da Constituição Federal, arguindo violação aos art. 1º e 9º, Dec. 20.910/32, bem como art. 1.022, § único, II c/c art. 489, § 1º, IV CPC, sob o fundamento de que, em se tratando de execução de sentença coletiva, o termo inicial da prescrição é o trânsito em julgado do título coletivo (conforme Tema Repetitivo nº 877 - REsp nº 1.388.000/PR e no Tema Repetitivo 515 - REsp 1.273.643), e que o "prazo prescricional  é  referente à Ação de Cumprimento, a qual abrange liquidação e Execução (..)", e que "A necessidade de liquidação para o adimplemento do reajuste (obrigação de fazer) não interfere no curso do prazo prescricional da Ação de Cumprimento da obrigação de pagar", conforme assentado no REsp 1.340.444/RS pela Corte Especial.
+(..)
+Dessa forma, é o caso de conhecimento do recurso especial pela alínea "a", visto que não incide no óbice da Súmula 7.
+SEGUNDO, no que tange à indicação da Súmula 83, STJ (por afirmar ser pacífico o entendimento de que " Tribunal "não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram""), é de se destacar referido entendimento se aplica apenas aos fundamentos que são incapazes de infirmar em tese a conclusão adotada . Noutro giro, quanto aos argumentos capazes de infirmar em tese a conclusão adotada, é necessário o enfrentamento, conforme impõe expressamente o art. 489, §1º, IV, CPC.
+E no presente caso, conforme exposto acima, o precedente da Corte Especial e demais temas repetitivos suscitados são capazes de infirmar em tese a conclusão adotada , visto que alteram o termo inicial adotado pelo acórdão recorrido para o cômputo da prescrição, alteração esta que implica na consumação da mesma para o caso dos autos, inclusive como bem reconheceu o próprio STJ no supracitado AREsp 1.976.928/MA, de modo que o seu não enfrentamento pelo acórdão recorrido implica sim, em violação ao dispositivo processual referido.
+Jose Antônio Mendes, por sua vez, afirma:
+O Referido TÍTULO EXECUTIVO JUDICIAL transitou em julgado no ano de 2008, porém, sem liquidez, e nele ficou consignado o seguinte (acórdão em sede de apelação):
+(..)
+Em 2019 foi expedida Certidão de trânsito em julgado da decisão que homologou os percentuais apurados pela Contadoria Judicial (10 anos de liquidação).
+(..)
+O RECONHECIMENTO DE LIMITAÇÃO TEMPORAL NÃO ENSEJA A DECLARAÇÃO DE PRESCRIÇÃO, MAS ENSEJA A SUA CONTINUIDADE, RESTANDO PREJUDICADO SOMENTE O PLEITO DE IMPLANTAÇÃO, PORÉM EQUIVOCADAMENTE A CORTE ESTADUAL JULGOU PELA PRESCRIÇÃO.
+O CUMPRIMENTO DE SENTENÇA DEVE TER SEU PROSSEGUIMENTO SOBRE OS VALORES RETROATIVOS, E NÃO SUA PRESCRIÇÃO DECLARADA.
+(..)
+Ocorre que este não é o objeto do recurso. Não se pretende que a Corte Superior reveja fundamento constitucional, mas que a corte estadual realize novo julgamento, enfrentando as teses recursais de violação ao estreito efeito devolutivo do agravo de instrumento, marcos prescricionais da ação coletiva e necessidade de prosseguimento do feito sobre valores retroativos.
+Contrarrazões às fls. 278-285, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23 de outubro de 2023.
+Não conheço do recurso do particular em virtude da ausência do interesse de agir.
+Dessume-se dos autos que a pretensão executória não foi obstada pela Corte local - que, no ponto em que deu ganho de causa ao particular, declarou que "não se encontra prescrita a pretensão executória". No mais, destaco a ausência de impugnação específica aos motivos que levaram à incidência da Súmula 126/STJ e o descumprimento do art. 1.029, § 1º, do CPC. Desse modo, incide na espécie a Súmula 182/STJ.
+Quanto ao pleito do Estado do Maranhão, destaca-se que o Colegiado originário não se olvidou de justificar que "a propositura da execução coletiva pelo Sindicato autor da demanda originária é causa de interrupção do prazo prescricional, tal como no caso dos autos, no qual, ao contrário do que pretende o Estado do Maranhão, após iniciada a liquidação coletiva, o cálculo somente foi homologado em 15/10/2018, iniciando, neste momento, a nova contagem do prazo prescricional, por 2 (dois) anos e meio (14/04/2021). E tendo sido a ação de cumprimento de sentença individual ajuizada em 07/02/2020, ou seja, antes de abril de 2021, não se encontra prescrita a pretensão executória".
+No acórdão integrativo, o órgão julgador consignou:
+Dada a sua natureza essencialmente reparadora, os Embargos de Declaração, a teor do disposto no art. 1.022 do CPC, somente podem ser opostos contra julgado eivado de obscuridade, contradição ou omissão, e para correção de erro material, sendo imprestáveis à rediscussão de questão já decidida ou para o fim único de prequestionamento.
+Em observância à orientação do Superior Tribunal de Justiça, que reforça o entendimento acima transcrito, o Juízo prelibador fez incidir a Súmula 83/STJ.
+A jurisprudência desta Corte estabelece ser deficiente a argumentação quando a parte deixa de refutar fundamento suficiente para manter o aresto impugnado e apresenta razões dele dissociadas. Assim, aplicam-se, por analogia, as Súmulas 283 e 284/STF.
+O Estado agravante tampouco combateu a aplicação da Súmula 83/STJ - com relação à incidência da Súmula 7/STJ por ter o Tribunal a quo concluído que "o prazo prescricional se iniciou com o trânsito em julgado da ação de conhecimento" e por considerar que "a sentença coletiva era ilíquida".
+Nesses termos, o Recurso Especial não pode ser conhecido ante o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. ISS. REPETIÇÃO DE INDÉBITO. ILEGITIMIDADE ATIVA. REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS VEDADO. SÚMULA 7/STJ. RAZÕES DISSOCIADAS. SÚMULAS 283 E 284 DO STF.
+(..)
+4. A parte, além disso, apresenta razões recursais dissociadas dos fatos fixados nos acórdãos, além de que se olvida de questionar exatamente o ponto decisório atinente à previsão contratual, o qual se revelou crucial para o entendimento do TJSP. Diante disso, incide o óbice das Súmulas 283 e 284 do STF, por dissociação argumentativa e ausência de impugnação ao cerne decisório. Precedentes do STJ.
+(..)
+(AgInt no AREsp 1.903.558/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/3/2022)
+O posicionamento do Superior Tribunal de Justiça também se firmou no sentido de que a interposição do Recurso Especial pela alínea "c" do permissivo constitucional está sujeita aos requisitos previstos no art. 541 do CPC/1973 (art. 1.029, § 1º, do CPC/2015), e no art. 255, § 1º, do RISTJ. (AgInt no AREsp 1.885.754/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24.3.2022)
+Portanto, não há motivos para a reforma do decisum controvertido, o que fica corroborado pelas considerações acima explicitadas .
+Diante do exposto, não conheço dos Agravos em Recurso Especial.
+Condeno as partes recorrentes ao pagamento de honorários recursais correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se eventual concessão do benefício da justiça gratuita deferida nos autos.
+Publique-se.
+Intimem-se.
+EMENTA
