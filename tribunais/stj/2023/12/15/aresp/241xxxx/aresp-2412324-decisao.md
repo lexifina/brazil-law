@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão assim ementado:
+Apelação Cível Ação anulatória de auto de débito fiscal AIIM - Aquisição de mercadoria com notas fiscais emitidas por empresas declaradas inidôneas pelo fisco estadual Credito de ICMS indevido - Alegação de boa fé Inadmissibilidade - O artigo 136 do Código Tributário Nacional, determina que o ônus da prova, cabe a quem alega, o que a apelante não se desincumbiu Sentença que julgou improcedente o pedido que será reformada julgando-se parcialmente procedente a ação, apenas quanto à multa e juros de mora.
+Recursos parcialmente providos.
+Os Embargos de Declaração foram rejeitados (fls. 4.282-4.285, e-STJ).
+A parte agravante, em Recurso Especial, sustenta violação, em preliminar, dos arts. 489, § 1º, IV e V, e 1.022, II, do CPC/2015, e, no mérito, do art. 85, §§ 2º, 3º e 8º do CPC.
+Apresentadas as contrarrazões (fls. 4.336-4.346, e-STJ), sobreveio o juízo de admissibilidade negativo (fls. 4.456-4.457, e-STJ) nos seguintes termos:
+No que se refere à apreciação equitativa dos honorários advocatícios, observa-se que a decisão proferida está em harmonia com o julgamento do mérito do REsp nº 1.850.512/SP, Tema nº 1076, STJ, DJe 31.5.2022, razão pela qual nego seguimento ao exame desta questão.
+Quanto ao mais, consigne-se que a apregoada afronta aos artigos 489 e 1022 do Código de Processo Civil não enseja a abertura da via especial porque o acórdão não está desprovido de fundamentação.
+Agravo em Recurso Especial às fls. 4.463-4.473, e-STJ.
+Contraminuta às fls. 4.485-4.487, e-STJ.
+É o relatório.
+Decido.
+Em relação à alegada violação dos arts. 489 e 1.022, ambos do CPC/2015, não vislumbro omissões ou contradições a serem sanadas, dado que a Corte a quo analisou e refutou os argumentos aviados.
+Com efeito, no tocante ao exame do conjunto probatório produzido nos autos referente à autuação, assentou o Tribunal de origem (fls. 4.187-4.191, e-STJ):
+Alega o autor na exordial, que agiu de boa fé, e que a declaração de inidoneidade da empresa vendedora ocorreu apenas depois de ter entabulado negociações, e que não poderia saber que as empresas eram inidôneas na época das compras.
+Alegou ainda que tinha comprovação da correta escrituração das notas fiscais das quais se creditou do ICMS, conforme documentos juntados aos autos.
+Todavia, tais escriturações não tem o condão de comprovar a boa fé da apelante, porque o simples fato de haver escriturações não comprova a autenticidade da operação, inexistindo ainda qualquer documento que comprovasse o efetivo contato com as empresas declaradas inidôneas.
+O laudo pericial de fls. 3995/4048, aponta em suas considerações finais, às fls. 4036 que:
+"Inexistem provas materiais, tais como registros de portaria ou anotações no corpo das Notas Fiscais que comprovem a efetiva entrada da mercadoria e inexistem nas Notas Fiscais informações especificas sobre transporte da mercadoria nos campos específicos das Notas Fiscais Autuada. Consta apenas que o transporte das mercadorias se deu por conta do EMITENTE."
+Embora o laudo pericial tenha também apontado que havia regularidade fiscal dos fornecedores através de consulta ao Sintegra, e pedidos de compras com valores coerentes às Notas autuadas e comprovantes de pagamentos além de extratos bancários, a realidade é que o autor não comprovou efetivamente que os materiais saíram dos fornecedores e entraram em seu estabelecimento. Meras operações contábeis não são suficientes à efetiva comprovação de entrada dos materiais no estabelecimento do autor, não lhe socorrendo a afirmação de que o transporte era por conta dos vendedores, porque mesmo assim deveria haver, no mínimo, conhecimento de transporte como exige a legislação estadual.
+Ademais, o fisco constatou que no endereço dos fornecedores, em um deles inexistia qualquer estoque de produtos, sendo que ali somente se emitiam Notas Fiscais, e no outro o estabelecimento estava vazio, mais uma vez comprovando a efetiva inexistência das mercadorias constantes das notas fiscais autuadas.
+Vale citar ainda que as consultas ao Sintegra são informações que os próprios contribuintes fornecem, e há clara advertência sobre isso, não se podendo citar a consulta como efetiva existência das empresas fornecedoras.
+(..) Nesse sentido, caberia à apelante comprovar, de maneira concreta e efetiva, que o creditamento de ICMS se deu com observância da legislação tributária, que contém princípios e normas vetoras específicas quanto à fiscalização e dinâmica das relações tributárias. O crédito só seria possível se a mercadoria entrasse na empresa devidamente acompanhada de documento hábil e emitido por contribuinte em situação regular perante o Fisco, nos termos da regra do artigo 59, caput, do RICMS/00.
+E os documentos trazidos pela apelante, representados por notas fiscais, são exatamente aqueles considerados inidôneos no procedimento administrativo iniciado com a lavratura do AIIM.
+Diga-se ainda que o ato administrativo que declara a inidoneidade fiscal de contribuinte tem presunção de publicidade, como todo e qualquer outro, não demandando publicação no Diário Oficial para operar efeitos jurídicos, mesmo que retroativos. Não bastasse, a decisão que reconhece a inidoneidade fiscal tem caráter declaratório, naquilo que interfere na relação entre o contribuinte e o suposto fornecedor. (..)
+Assim, é o caso de se reformar, neste ponto, a r. sentença monocrática mantendo a validade do AIIM quanto á autuação.
+Portanto, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o decisum recorrido se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia.
+Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido. (AgInt no AREsp 1.795.771/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/8/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ART. 1022 DO CPC/2015. OFENSA NÃO VERIFICADA. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+3. Agravo interno desprovido. (AgInt no REsp 1.643.573/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 16/11/2018)
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
