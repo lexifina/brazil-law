@@ -1,0 +1,64 @@
+DECISÃO
+1. Trata-se de agravo de decisão que inadmitiu recurso especial interposto por IVALDO JOÃO FACCIOLO fundado no art. 105, III, alínea "a" da Constituição Federal contra v. acórdão do TJSP, assim ementado:
+AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PENHORA DE QUOTAS SOCIAIS DE SOCIEDADE LIMITADA - POSSIBILIDADE - Inexistência de outros bens passíveis de penhora - A quota social representa e corresponde a uma parte do capital da sociedade, cuja titularidade é do sócio executado - No caso em tela, a penhora está incidindo sobre "quotas" de titularidade do executado, que figura como sócio de sociedade limitada - Leitura dos arts. 835 e 861, do CPC/2015, e 1.026 do Código Civil O princípio da preservação da empresa não é absoluto, não podendo servir como permissivo de inadimplência, havendo que ser compatibilizado com a satisfação da obrigação Executado, ademais, que não ofereceu qualquer outro bem à penhora Penhora de quotas sociais mantida - RECURSO DESPROVIDO.
+(fls. 294-299)
+Opostos aclaratórios, foram rejeitados (fls. 329-332).
+Em suas razões recursais, as agravantes alegam violação aos arts. 1.022, parágrafo único, II do CPC c/c 489, §1º, IV e VI do CPC, bem como aos artigos 805 e 1.057 do Código Civil e 835 do Código de Processo Civil.
+Sustenta, em síntese, que:
+i) o acórdão foi omisso;
+ii) "o processo se encontrava em momento prematuro para que haja penhora das cotas sociais de empresa estranha ao feito, conforme disposição do artigo 835 do Código de Processo Civil, que estabelece ordem de preferência para satisfação da execução".
+iii) "no art. 1.057 do Código Civil há disposição de que o sócio pode ceder sua cota, porém apenas se não houver oposição de titulares de mais de um quarto do capital social, ou seja, demonstrando a natureza da sociedade limitada, que deve ser levada em consideração".
+iv) "a doutrina considera as quotas de sociedades que foram constituídas intuitu personae, como no caso (sendo previsto pelo contrário social inclusive que a inexistência de interesse dos sócios remanescentes impede a entrada até mesmo dos herdeiros na sociedade em caso de falecimento de um dos sócios - cláusula quarta do contrato social), impenhoráveis".
+v) " não é possível a penhora de cotas sociais da sociedade limitada".
+Contrarrazões apresentadas às fls. 337-349.
+O recurso recebeu crivo de admissibilidade negativo na origem (fls. 355-356).
+É o relatório. Passo a decidir.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+Na espécie, verifica-se que o acórdão recorrido decidiu fundamentadamente sobre a possibilidade de penhora das cotas social do agravante, de maneira que os embargos de declaração opostos pela agravantes, de fato, não comportavam acolhimento.
+Assim, não há falar em omissão do julgado.
+3. O Tribunal de origem decidiu que:
+Depreende-se dos autos que, em 17/07/2012, REDFACTOR FACTORING E FOMENTO COMERCIAL S/A propôs ação de execução contra KENPACK SOLUÇÕES EM EMBALAGENS LTDA., IVALDO JOÃO FACCIOLO e SWAP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. para receber a quantia de R$ 231.617,08, fundada em instrumento particular de confissão de dívida (fls. 29/32 e 58/61).
+Citados os executados, não houve pagamento nem oposição de embargos à execução. Assim, a exequente deu prosseguimento aos atos executórios, requerendo: i) a penhora das quotas sociais do executado IVALDO junto à empresa SYRUS WEGA CORRETORA DE SEGUROS E ASSESSORIA EM NEGÓCIOS LTDA; ii) penhora de direitos do executado IVALDO no processo de inventário nº 1030934-22.2017.8.26.0100; iii) penhora de bens e ativos financeiros dos executados e expedição de ofício, por meio do sistema INFOJUD, à Receita Federal, a fim de que forneça as últimas três declarações de imposto de renda do executado IVALDO (fls. 246/247).
+Adveio, então, decisão, objeto do presente recurso, a qual deferiu os pedidos de bloqueio "on line", pesquisa de bens dos executados e penhora das quotas sociais do executado IVALDO, ora agravante, junto à empresa SYRUS WEGA CORRETORA DE SEGUROS E ASSESSORIA EM NEGÓCIOS LTDA (fls. 272/273).
+Nesse contexto, o recurso não comporta guarida.
+Malgrado a execução deva prosseguir de forma menos onerosa ao devedor, também deve atender os interesses do credor (art. 797 do CPC/2015).
+Na hipótese em tela, a exequente, mesmo após diversas diligências, não logrou êxito em localizar outros bens penhoráveis, permitindo-se assim a penhora de quotas sociais de empresa pertencente ao executado IVALDO como forma de se buscar a satisfação da execução.
+É preciso lembrar que as quotas sociais pertencem ao executado (pessoa física), na qualidade de sócio da empresa SYRUS WEGA CORRETORA DE SEGUROS E ASSESSORIA EM NEGÓCIOS LTDA. E a respeito, o art. 1.055 do Código Civil reza que "o capital social divide-se em quotas, iguais ou desiguais, cabendo uma ou diversas a cada sócio".
+A penhora de quotas é constrição como outra qualquer, uma vez que é representativa de valores. O art. 835, IX, CPC/2015, é expresso em autorizar a penhora: "A penhora observará, preferencialmente, a seguinte ordem (IX) ações e quotas de sociedades simples e empresárias".
+Como escreve ARNALDO RIZZARDO, "A quota corresponde a uma parte do capital da sociedade, cuja titularidade pertence sócio. Envolve uma relação contratual, que se concretiza em direitos e obrigações. (..) A quota constitui-se de um título apto ao exercício de direitos e obrigações que decorre do contrato de sociedade. Expressa o valor numérico, o significado econômico. Os direitos e obrigações originam- se do contrato, que é sua fonte única e constitutiva. Traduz, pois, uma cifra quantitativa da participação social, permitindo a procura da satisfação do valor econômico que representa" ("Direito de Empresa", Forense, 2007, p. 206, n. 10).
+Além disso, o art. 861 do CPC/2015 dispõe sobre o procedimento relativo à penhora de quotas sociais.
+Corroborando a ideia da transmissibilidade das quotas sociais, o art. 1.057 do Código Civil estabelece que "Na omissão do contrato, o sócio pode ceder sua quota, total ou parcialmente, a quem seja sócio, independentemente de audiência dos outros, ou a estranho, se não houver oposição de titulares de mais de um quarto do capital social" (g/n).
+Em harmonia, o art. 1.026, Código Civil, dispõe que "O credor particular de sócio pode, na insuficiência de outros bens do devedor, fazer recair a execução sobre o que a este couber nos lucros da sociedade, ou na parte que lhe tocar em liquidação".
+Cabe sublinhar, ainda, que o princípio da preservação da empresa, arguido pelo agravante, não é absoluto, devendo, de acordo com as circunstâncias do caso concreto, ser compatibilizado com a potencialidade de satisfação do crédito e, como bem observou o douto magistrado, "a alegada preservação da empresa não pode ser escudo para se tornar inadimplente" (fls. 407 dos autos de origem).
+Ademais, o parágrafo único do art. 805 do CPC/2015 estabelece que "Ao executado que alegar ser a medida executiva mais gravosa incumbe indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados".
+No caso em apreço, é de se ressaltar que sequer houve indicação, pelo agravante, de outros bens à penhora, ou qualquer outro meio menos gravoso e igualmente idôneo para a satisfação da execução, de modo que é de rigor a manutenção da penhora sobre suas quotas sociais, nos termos enunciados.
+Do exposto, pelo meu voto, nego provimento ao recurso.
+(fls. 294-299)
+Dessarte, verifica-se que o agravante deixou de impugnar fundamentos suficientes utilizados pelo TJSP , qual seja, de que, "o parágrafo único do art. 805 do CPC/2015 estabelece que "Ao executado que alegar ser a medida executiva mais gravosa incumbe indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados". No caso em apreço, é de se ressaltar que sequer houve indicação, pelo agravante, de outros bens à penhora, ou qualquer outro meio menos gravoso e igualmente idôneo para a satisfação da execução, de modo que é de rigor a manutenção da penhora sobre suas quotas sociais, nos termos enunciados".
+Incidência, na hipótese, a Súmula 283/STF.
+4. E, ainda que assim não fosse, o entendimento do acórdão recorrido está em sintonia com a jurisprudência do STJ, no sentido de que é cabível a penhora de quotas sociais de sócio por dívida particular por ele contraída sem que isso implique abalo na affectio societatis.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. SÓCIO. PENHORA DE QUOTAS. POSSIBILIDADE.
+1. A jurisprudência desta Corte se firmou no sentido de que a penhora de quotas sociais não encontra vedação legal e nem afronta o princípio da affectio societatis, já que não enseja, necessariamente, a inclusão de novo sócio.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.221.579/MS, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 1/3/2016, DJe de 4/3/2016.)
+________________
+RECURSO ESPECIAL. EMPRESARIAL E PROCESSUAL CIVIL. PENHORA DE QUOTAS SOCIAIS. CREDORES PARTICULARES DO DEVEDOR TITULAR DE EIRELI. TRANSFORMAÇÃO LEGAL EM SOCIEDADE LIMITADA UNIPESSOAL. POSSIBILIDADE DE PENHORA DA PARTICIPAÇÃO SOCIETÁRIA DO SÓCIO DEVEDOR. NECESSIDADE DE OBSERVÂNCIA À UNIPESSOALIDADE DA ENTIDADE EMPRESARIAL E À SUBSIDIARIEDADE DA CONSTRIÇÃO. RECURSO ESPECIAL DESPROVIDO.
+1. A Eireli surgiu no ordenamento pátrio através da Lei n. 12.441/2011, a qual incluiu os arts. 44, VI, e 980-A no Código Civil, admitindo a constituição de uma pessoa jurídica apenas por uma pessoa natural. Com o advento da Lei n. 14.195/2021 (art. 41), operou-se a transformação automática, ex lege, das Eirelis já constituídas em sociedades limitadas unipessoais, implicando sua revogação tácita, segundo a doutrina majoritária. Sobrevindo a Lei n. 14.382/2022, foram expressamente revogados os dispositivos legais regentes da Eireli.
+2. Na sociedade limitada unipessoal, os direitos e obrigações provenientes do capital social (ou seja, a participação societária) concentrar-se-ão todos na pessoa do único sócio, integrando o patrimônio deste. A despeito de a divisão do capital social em quotas pressupor, a princípio, a pluralidade de sócios, inexiste vedação legal a que igualmente se proceda em relação à sociedade limitada unipessoal, afigurando-se cabível, em tese, esse fracionamento.
+3. É possível a penhora, no todo ou em parte, da participação societária do devedor sócio de sociedade limitada unipessoal (independentemente de o capital social estar dividido ou não em quotas) para o adimplemento de seus credores particulares, mediante a liquidação parcial, com a correspondente redução do capital social, ou total da sociedade (arts. 1.026 e 1.031 do CC e 861 a 865 do CPC/2015), desde que mantida a unipessoalidade societária constante do respectivo ato constitutivo e a subsidiariedade dessa espécie de penhora disposta nos arts. 835, IX, e 865 do CPC/2015.
+4. A coexistência da penhora de quotas sociais (isto é, da participação societária do sócio da sociedade unipessoal) e da desconsideração inversa da personalidade jurídica afigura-se salutar ao procedimento executivo, pois apresenta meios alternativos - atendidos os respectivos pressupostos legais - de satisfação do direito do credor, que é o fim precípuo da execução positivado no art. 797 do CPC/2015.
+5. Recurso especial desprovido.
+(REsp n. 1.982.730/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 21/3/2023, DJe de 23/3/2023.)
+______________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ARTIGO 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. PENHORA. QUOTAS SOCIETÁRIAS. POSSIBILIDADE. MENOR ONEROSIDADE. REEXAME DE PROVAS. INVIABILIDADE.
+SÚMULA Nº 7/STJ. 1. Não viola o art. 535 do CPC/1973 o acórdão que motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+2. É possível a penhora de quota social, inclusive quando há previsão contratual de proibição à livre alienação.
+3. Verificar se houve afronta ao princípio da menor onerosidade, previsto no artigo 620 do CPC/1973, encontra óbice nas disposições da Súmula nº 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 636.875/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/6/2017, DJe de 29/6/2017.)
+Incidência da Súm 83 do STJ.
+5. Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Publique-se.
+EMENTA
