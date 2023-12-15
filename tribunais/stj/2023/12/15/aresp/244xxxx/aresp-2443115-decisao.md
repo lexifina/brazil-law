@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Goiás cuja ementa é a seguinte (fl. 620, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. PENALIDADE APLICADA PELO PROCON. INFRAÇÃO À LEGISLAÇÃO CONSUMERISTA. LEGALIDADE DO PROCESSO ADMINISTRATIVO. VALOR DA MULTA IMPOSTA. FATURAMENTO BRUTO PRESUMIDO. RESPEITO ÀS BALIZAS LEGAIS. INVERSÃO DO ÔNUS SUCUMBENCIAL. SENTENÇA REFORMADA.
+1. Não se vislumbra qualquer irregularidade na condução do procedimento administrativo que culminou com a multa ora impugnada, sendo que, como se sabe, o controle judicial sobre os atos da Administração Pública devem restringir-se à legalidade, não se admitindo que o Poder Judiciário interfira no campo da conveniência e oportunidade, como pretende a recorrente.
+2. É da empresa infratora o ônus de comprovar, no prazo para apresentação da defesa no processo administrativo, o seu faturamento bruto, sob pena de estar o órgão de fiscalização autorizado a classificar a categoria da pessoa jurídica em conformidade com as informações constantes na sua base de dados, e ter o seu faturamento presumido para fins de cálculo da sanção devida.
+3. A redução da multa pelo Judiciário somente é possível quando a sua fixação acontecer de forma desarmônica aos princípios da razoabilidade e da proporcionalidade, porquanto esse juízo valorativo insere-se na legalidade do ato administrativo.
+4. Por força do artigo 57 do Código de Defesa do Consumidor, o valor da multa deve ser graduado de acordo com a gravidade da infração, vantagem auferida e a condição econômica do fornecedor, com a finalidade de atender sua função inibitória, punitiva e educativa, não podendo ser fixada em valor módico.
+5. Desse modo, deve ser reformada a sentença de primeiro grau, para manter o valor da multa aplicada pelo Procon, pois em consonância com os princípios da razoabilidade e da proporcionalidade.
+6. Por força da reforma da sentença, cumpre inverter o ônus sucumbencial, para condenar a parte vencida ao pagamento de custas processuais e honorários advocatícios.
+7. APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+Os Embargos de Declaração foram rejeitados (fl. 644, e-STJ).
+No Recurso Especial, a agravante alega que ocorreu divergência jurisprudencial quanto à interpretação dada pelo Tribunal a quo ao art. 57 do CDC. Afirma que a multa foi aplicada com base em "faturamento irreal" (fl. 671, e-STJ) e que os princípios da proporcionalidade e da razoabilidade deixaram de ser observados. Por fim, requer seja restabelecida a sentença de primeiro grau.
+Contrarrazões às fls. 725-730, e-STJ.
+Inadmitiu-se a irresignação (fls. 733-736, e-STJ), o que ensejou a interposição do Agravo de fls. 741-755, e-STJ.
+Contraminuta às fls. 759-765, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28.11.2023.
+No enfrentamento da matéria, o Colegiado originário consignou (fls. 605-620, e-STJ; grifos acrescidos):
+Nota-se, dessa forma, que a realização do cálculo da multa se deu em conformidade com as diretrizes traçadas pela Portaria nº 01, de 20 de janeiro de 2014, do PROCON GOIÁS, não havendo ilegalidade ou incorreção no valor apurado.
+O cerne da questão, todavia, gira em torno do argumento da empresa recorrida de que o seu faturamento bruto presumido está equivocado.
+Todavia, analisando cuidadosamente os autos, verifica-se que o real faturamento da empresa só foi apresentado por ela na presente ação, após já ter sido apresentada defesa regular e o recurso administrativo pertinente.
+Ora, havendo imposição legal no sentido de que o faturamento bruto da empresa deve ser apresentado com a defesa, na fase inicial do processo administrativo, não pode a interessada, somente no final do procedimento, anexar documentação que tinha condições de ter acesso desde o início da demanda.
+Desse modo, entendo que a realização do cálculo da multa levando em conta o faturamento bruto presumido da empresa decorreu da desídia da própria recorrida que, mesmo após ter sido devidamente notificada para apresentar os documentos necessários, manteve-se inerte.
+Assim, considerando que a autora/apelada somente trouxe o faturamento bruto real da empresa tardiamente, quando não mais cabia discussão acerca do enquadramento e do cálculo realizado pelo PROCON GOIÁS, inexiste qualquer aspecto que macule o processo administrativo objeto da presente contenda, razão pela qual não vislumbro razões para a redução da multa arbitrada pelo órgão consumerista.
+No caso dos autos, verifico que o valor da multa condiz com os critérios da razoabilidade e proporcionalidade, o qual entendo atingir a finalidade proposta pelo legislador, qual seja, repreender a conduta do ofensor, garantindo-se o caráter educativo da medida.
+Como se não bastasse, tenho como sendo de conhecimento notório a existência de inúmeras outras demandas, no âmbito deste Sodalício, em que a ora apelada discute a legalidade de procedimentos idênticos, nos quais lhe foram impostas multas pelas mesmas razões aqui discutidas, o que demonstra a nítida reincidência da empresa autuada, na prática que lhe foi, novamente, imputada.
+Tenho que a aludida reincidência deve ser valorada, porquanto as penalidades que lhe foram aplicadas em outros procedimentos não alcançaram o objetivo de inibir tais práticas atentatórias ao consumidor, restando evidenciada a sua despreocupação em se adequar aos preceitos legais.
+Ademais, é certo que a comercialização de produtos vencidos e/ou sem data de validade não pode ser considerada simples irregularidade, porquanto tal conduta traz sérios riscos à saúde do consumidor.
+(..) À luz desses fundamentos, entendo que não há ilegalidade no processo administrativo, bem com na multa aplicada, mormente porque arbitrada respeitando as balizas e os critérios definidos pelo artigo 57 do Código de Defesa do Consumidor e pela Portaria nº 01, de 20 de janeiro de 2014, do PROCON GOIÁS.
+(..)
+Nota-se que o órgão julgador amparou-se no suporte fático-probatório da causa para concluir que o valor da multa aplicada pelo Procon atende aos princípios da razoabilidade e da proporcionalidade. Com efeito, rever esse entendimento demandaria o revolvimento do acervo documental dos autos, inadmissível na via especial ante o óbice da Súmula 7/STJ. Afasta-se, assim, a ideia de simples valoração da prova. A propósito :
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 489 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CONSUMIDOR. PROCON. MULTA. LEGALIDADE DO PROCEDIMENTO E RAZOABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. MÉRITO DO ATO ADMINISTRATIVO. REVISÃO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. PROVIMENTO NEGADO.
+1. É deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 489 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide, assim, no caso em questão, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. O Tribunal de origem reconheceu a obediência ao devido processo legal, bem como a razoabilidade do valor fixado a título de multa. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Esta Corte Superior possui orientação consolidada segundo a qual é vedado ao Poder Judiciário o exame do mérito do ato administrativo. A conclusão veiculada no acórdão prolatado pelo Tribunal de origem está em harmonia com a orientação do Superior Tribunal de Justiça sobre o tema, incidindo na hipótese o disposto na Súmula 83/STJ ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.017.136/GO, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 24/8/2023)
+Ademais, a recorrente não impugnou o argumento de que "o faturamento bruto presumido da empresa decorreu da desídia da própria recorrida que, mesmo após ter sido devidamente notificada para apresentar os documentos necessários, manteve-se inerte" (fl. 612, e-STJ) - que é apto, por si só, a manter o decisum combatido. Portanto, aplica-se à espécie, por analogia, o disposto na Súmula 283/STF: "É inadmissível o Recurso Extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MORAIS E MATERIAIS.(..) FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+(..)
+4. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 1701653/SP, Rel. Ministro Ricardo Villas Boas Cueva, Terceira Turma, DJe 25/3/2021)
+Por fim, registre-se que a impossibilidade de reexame de fatos e provas, bem como a existência do óbice sumular acima referido, impedem o reconhecimento da divergência jurisprudencial baseada nas mesmas questões de direito.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
