@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra decisão que entendeu não violados os arts. 489 e 1022 do CPC e incidente a Súmula 7/STJ. Apontou a harmonia com o Tema 444/STJ.
+Defende Adilson Paulo Dinnies Henning e Angel Luiz Ibanez Rabanaque:
+Como consta dos embargos de declaração, no que diz respeito à prescrição, foi destacado que foi argüida a prescrição da cobrança e não a prescrição intercorrente para o redirecionamento aos sócios sendo inclusive prequestionado o artigo 219, § 4º do CPC/73.
+Já no que diz respeito à inclusão de sócios no pólo passivo foi solicitado um pronunciamento que indicasse a infração à Lei que autorizaria o redirecionamento e o respectivo auto de infração, prequestionando também artigos de Lei Federal.
+Por fim, no que diz respeito ao encargo legal foi solicitado um pronunciamento para análise da questão considerando que o encargo não foi inscrito em dívida ativa.
+Em que pese tais pedidos nos embargos de declaração, notadamente para apreciação de matérias relevantes, não houve pronunciamento à respeito, o v. acórdão manteve a negativa de prestação jurisdicional.
+ ..
+Com o devido respeito, o v. Acórdão recorrido nega vigência aos artigos 202 e 203 do CTN e artigo 2º,§5º da Lei 6.830/80 ao admitir que a CDA possui todos os requisitos legais.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22 de novembro de 2023.
+Revela-se imprópria a afirmação do agravante de que seria indevida a análise de mérito realizado pela Corte de origem.
+A jurisprudência do Superior Tribunal de Justiça é uníssona em afirmar que constitui atribuição do Tribunal a quo, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123/STJ, sem que isso interfira na competência desta STJ. Também é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Faço breve digressão. A Exceção de pré-executividade foi rejeitada. Afirmou-se que a dissolução irregular da sociedade e a determinação de inclusão dos sócios no polo passivo se deu de forma regular. Apontou-se que não houve a fluência de mais de cinco anos entre a verificação da dissolução irregular da pessoa jurídica e a citação dos codevedores. Destacou-se jurisprudência a respeito do Decreto-Lei 1.025/1969.
+A Sentença integrativa acolheu parcialmente os Embargos de Declaração para declarar legitima a cobrança da mora e encargos legais. Declarou não ocorrida a prescrição detalhando a cronologia dos fatos.
+A Apelação não foi provida.
+O Tribunal a quo rejeitou os Embargos de Declaração. No aresto integrativo de fls. 210-222, e-STJ, afirmou anterior manifestação sobre as questões alegadas. Veja-se (fls. 183-196, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL PROPOSTA DIRETAMENTE CONTRA OS SÓCIOS. ART.13 DA LEI Nº 8.620/93. INCONSTITUCIONALIDADE. HIPÓTESES DO ART. 135, III, DO CTN CONSUMADA. PRESCRIÇÃO INTERCORRENTE. LEGITIMIDADE RECONHECIDA. ENCARGO LEGAL DO DECRETO-LEI Nº 1.025/69. RECURSO DESPROVIDO
+- Com fulcro no art. 13 da Lei nº 8620/93, era possível a responsabilização solidária dos sócios pelos débitos da empresa junto a Seguridade Social. Contudo, a partir da declaração de inconstitucionalidade do artigo 13 da Lei nº 8620/93 conforme o RE n.º 562.276/RS, apreciado sob o regime da repercussão geral (art. 543-B do Código de Processo Civil), para a responsabilização do sócio pelo inadimplemento de débitos contraídos pela empresa executada, não basta que seu nome conste do título executivo cabendo ao Fisco demonstrar a presença de um dos requisitos do artigo 135 do Código Tributário Nacional.
+- A documentação dos autos (fls. 34/48) aponta que a execução foi promovida, desde o início, contra a empresa e os sócios como responsáveis solidários.
+- No caso de responsabilidade dos sócios gerentes de pessoa jurídica (CTN, artigo 121, § único, inciso II, c.c. artigo 135, inciso III), a qual é subsidiária, está assentado na jurisprudência que somente é possível a execução inicial contra o contribuinte (a pessoa jurídica), que é o devedor principal, somente sendo permitido o redirecionamento da execução para a pessoa dos sócios/administradores se evidenciada nos autos, pela Exequente, a responsabilidade nos termos do artigo 135, III, do CTN, dentre as quais a hipótese de dissolução irregular da empresa.
+- Na hipótese em tela, a documentação dos autos (fls. 21/31) aponta que a execução foi promovida, desde o início, contra a empresa e os sócios, como responsáveis solidários. Neste sentido, o simples fato de constarem os nomes dos agravantes na CDA não justifica a sua responsabilização pessoal pelo débito, dada a inconstitucionalidade do artigo 13 da Lei n. 8.620/93, conforme o RE n.º 562.276/RS. Tampouco é possível responsabiliza-los pelo mero inadimplemento de débitos contraídos pela empresa executada.
+- Consumada a citação da empresa devedora (15/08/2014- fls. 49) e havendo nos autos indícios de que ela foi irregularmente encerrada, conforme certidão do oficial de justiça de fls. 88, bem como tendo sido efetivada a citação dos sócios, em 09/03/2016, os quais detinham poderes de gestão quando do fato gerador e quando da dissolução irregular, de rigor o afastamento da prescrição intercorrente e a manutenção dos mesmos no polo passivo do executivo fiscal.
+- Consoante julgamento submetido ao rito dos Recursos Repetitivos, art. 543-C, CPC, pelo E. Superior Tribunal de Justiça é legítima a incidência do encargo de 20% previsto pelo Decreto-Lei n." 1.025/69.
+- Recurso desprovido.
+Observa-se que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão. Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos arts. 489 e 1.022 do CPC/2015.
+É inviável, analisar a tese defendida no Apelo Nobre, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo decisum recorrido e apontar outros termos para configuração da prescrição ou a distinção do Tema 444/S TJ. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Majoro em 10% (dez por cento) o valor dos encargos sucumbenciais já fixados na origem em desfavor da ora recorrente, nos termos do art. 85, § 11, do CPC.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
