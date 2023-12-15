@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus, impetrado em favor de CONCEIÇÃO CARVALHO DA CRUZ contra decisão proferida por em. Des do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que a paciente foi presa temporariamente como incursa, em tese, nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que indeferiu o pedido liminar e ainda não julgou o mérito da impetração.
+No presente writ, o impetrante alega a inexistência dos requisitos ensejadores da decretação da prisão temporária , sob a premissa de que a paciente ostenta condições pessoais favoráveis.
+Nesse sentido, sustenta que as instâncias originárias se lastrearam em fundamentações genéricas, para fundamentar os requisitos da custódia.
+Requer, ao final, a concessão da liminar, para revogar a segregação temporária do paciente.
+É o breve relatório.
+Decido.
+Ab initio, verifica-se que o presente writ investe contra decisão proferida por em. Desembargador, que indeferiu o pedido liminar em habeas corpus, e ainda não julgou o mérito da impetração. Nesse diapasão, considerando que o Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado nº 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Em hipóteses excepcionais, que se caracterizam pela flagrante ilegalidade, verificável icto oculi, vale dizer, evidenciada teratologia ou deficiência de fundamentação na decisão impugnada, esta Corte tem admitido a suplantação do versado óbice.
+A prisão cautelar deve ser considerada exceção, já que, por meio desta medida, priva-se o réu de seu jus libertatis antes do pronunciamento condenatório definitivo, consubstanciado na sentença transitada em julgado. É por isso que tal medida constritiva só justifica caso demonstrada sua real indispensabilidade quando imprescindível para as investigações do inquérito policial, quando o indicado não tiver residência fixa ou não fornecer elementos necessários ao esclarecimento de sua identidade e quando houver fundadas razões, de acordo com qualquer prova admitida na legislação penal, de autoria ou participação do indiciado, ex vi do artigo 1º da Lei n. 7.960/1989.
+No caso, não estão configurados os requisitos para a superação do enunciado sumular e a concessão da ordem requestada, uma vez que o Juízo bem fundamentou a custódia temporária, pois existem fortes evidências de que drogas e dinheiro proveniente das atividades ilícitas ficam em posse dos representados até que sejam repassados à genitora de Ozanam, Conceição Carvalho da Cruz, evidenciando a necessidade da medida aqui requerida.
+Nesse diapasão, observa-se que a segregação temporária está devidamente fundamentada em dados concretos extraídos dos autos, que demonstram a necessidade da prisão, para fins da elucidação do esquema criminoso imputado e encerramento das investigações.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE CONTINUIDADE DAS INVESTIGAÇÕES E INDIVIDUALIZAÇÃO DAS CONDUTAS DE CADA ENVOLVIDO. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. AUSENTE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. "O art. 1º da Lei n. 7.960/1989 evidencia que o objetivo primordial da prisão temporária é o de acautelar o inquérito policial, procedimento administrativo voltado a esclarecer o fato criminoso, a reunir meios informativos que possam habilitar o titular da ação penal a formar sua opinio delicti e, por outra angulação, a servir de lastro à acusação" (RHC n. 77.265/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2017, DJe 2/10/2017.) 2. Apresentada fundamentação concreta, no tocante aos requisitos da prisão temporária, evidenciada na necessidade de identificar e individualizar a conduta de todos os coautores no caso de homicídio qualificado praticado durante a noite e pluralidade de agentes, existindo medidas investigativas determinadas com contemporaneidade à decretação da custódia (busca e apreensão e quebra de sigilo telefônico), não há que se falar em ilegalidade.
+3. Incabível a substituição por prisão domiciliar, pois, além de o menor possuir 12 anos completos, o caso trata da prática de homicídio qualificado, circunstância que atrai a incidência do art. 318-A, I, do CP.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 181.711/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus, nos termos dos arts. 34, XX e 210, ambos do RISTJ.
+Cientifique-se o M inistério Público Federal.
+P. e I.
+EMENTA
