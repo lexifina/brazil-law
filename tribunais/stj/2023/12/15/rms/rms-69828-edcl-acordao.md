@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CRIMES CONTRA O PATRIMÔNIO. OMISSÃO INEXISTENTE. ESTELIONATO. INQUÉRITO POLICIAL. ARQUIVAMENTO A PEDIDO DO MINISTÉRIO PÚBLICO. PEDIDO DE DESARQUIVAMENTO PELO OFENDIDO. IMPOSSIBILIDADE. AÇÃO PENAL PÚBLICA.
+1. Não há omissão no acórdão impugnado, pois nele consta claramente que não há direito líquido e certo, tampouco ilegalidade ou abuso de poder, porque "o crime que supostamente os impetrantes foram vítimas (estelionato) é de ação penal pública, razão pela qual o seu titular é o Ministério Público. E, assim, ao entender pela ausência de justa causa para o ajuizamento da ação penal e consequente arquivamento dos autos, o MM. Juízo, ora apontado como autoridade coatora, homologou o requerimento ofertado pelo Órgão Ministerial" (fl. 1.281).
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra o acórdão assim ementado (fls. 1.363-1.364):
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CRIMES CONTRA O PATRIMÔNIO. ESTELIONATO. INQUÉRITO POLICIAL. ARQUIVAMENTO A PEDIDO DO MINISTÉRIO PÚBLICO. PEDIDO DE DESARQUIVAMENTO PELO OFENDIDO. IMPOSSIBILIDADE. AÇÃO PENAL PÚBLICA. NOVA REDAÇÃO DO ART. 28 SUSPENSA PELO STF.
+1. A decisão do Tribunal de origem corrobora a jurisprudência do STJ, pois o arquivamento do inquérito policial é formulado pelo destinatário do resultado das investigações que, na hipótese de crimes de ação penal pública, é o Ministério Público, na condição de titular do direito de ação, não havendo direito líquido e certo de supostas vítimas na continuidade das investigações, desarquivamento, ou ainda propositura da ação penal.
+2. O Supremo Tribunal Federal (STF), por meio das decisões proferidas nos autos das Ações Diretas de Inconstitucionalidade (ADI) n. 6.298, 6.299, 6.300 e 6.305, determinou a suspensão dos efeitos da alteração legal provida pela Lei n. 13.964/2019 no art. 28 do CPP, isto é, continua em vigor a redação antiga, segundo a qual, "se o órgão do Ministério Público, ao invés de apresentar a denúncia, requerer o arquivamento do inquérito policial ou de quaisquer peças de informação, o juiz, no caso de considerar improcedentes as razões invocadas, fará remessa do inquérito ou peças de informação ao procurador-geral, e este oferecerá a denúncia, designará outro órgão do Ministério Público para oferecê-la, ou insistirá no pedido de arquivamento, ao qual só então estará o juiz obrigado a atender".
+3. Agravo regimental improvido.
+O embargante afirma que o acórdão é omisso, pois não se pretende impedir o arquivamento do inquérito policial, mas sim a retomada das investigações, haja vista a descoberta de novas provas.
+Portanto, requer o acolhimento dos embargos de declaração, a fim de determinar a reabertura do inquérito policia.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CRIMES CONTRA O PATRIMÔNIO. OMISSÃO INEXISTENTE. ESTELIONATO. INQUÉRITO POLICIAL. ARQUIVAMENTO A PEDIDO DO MINISTÉRIO PÚBLICO. PEDIDO DE DESARQUIVAMENTO PELO OFENDIDO. IMPOSSIBILIDADE. AÇÃO PENAL PÚBLICA.
+1. Não há omissão no acórdão impugnado, pois nele consta claramente que não há direito líquido e certo, tampouco ilegalidade ou abuso de poder, porque "o crime que supostamente os impetrantes foram vítimas (estelionato) é de ação penal pública, razão pela qual o seu titular é o Ministério Público. E, assim, ao entender pela ausência de justa causa para o ajuizamento da ação penal e consequente arquivamento dos autos, o MM. Juízo, ora apontado como autoridade coatora, homologou o requerimento ofertado pelo Órgão Ministerial" (fl. 1.281).
+2. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 619 do CPP, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência. Não constituem, portanto, recurso de revisão.
+Não há omissão no acórdão impugnado, pois nele consta claramente que não há direito líquido e certo, tampouco ilegalidade ou abuso de poder, porque "o crime que supostamente os impetrantes foram vítimas (estelionato) é de ação penal pública, razão pela qual o seu titular é o Ministério Público. E, assim, ao entender pela ausência de justa causa para o ajuizamento da ação penal e consequente arquivamento dos autos, o MM. Juízo, ora apontado como autoridade coatora, homologou o requerimento ofertado pelo Órgão Ministerial" (fl. 1.281).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
