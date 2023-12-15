@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por RODRIGO GALVAO CARDOSO e outro, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (fls. 736-756 e-STJ), assim ementado:
+EMENTA: AÇÃO DE COBRANÇA - SENTENÇA - NULIDADE - CENTRO MÉDICO ESPECIALIZADO - SALA - USUÁRIOS - DESPESAS DE MANUTENÇÃO - PAGAMENTO. A sentença conforme ao pedido não padece de nulidade. Os usuários de sala comercial de Centro Clínico Especializado, ainda que não locatários, devem custear as despesas inerentes de manutenção do ambiente de exercício profissional, respeitadas as peculiaridades do caso.
+Nas razões do especial (fls. 759-770 e-STJ), os insurgentes alegam violação aos seguintes dispositivos de lei federal: arts. 92, 412, 579, 1.228 e 1.314 do CC.
+Aduz, em síntese, que o recorrente Rodrigo Galvão é coproprietário do condomínio - não locatário - e, por isso, não teria obrigação de pagar as despesas condominiais.
+Contrarrazões às fls. 792-798 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre por aplicação da súmulas 5 e 7/STJ.
+Inconformado, interpuseram agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 803-808 e-STJ, por meio do qual pretendia ver admitido o recurso especial.
+Contraminuta às fls. 841-846 e-STJ.
+Em decisão de fls. 854-855 e-STJ, houve provimento do agravo para determinar a reautuação dos autos como recurso especial, para melhor exame da controvérsia.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. O Tribunal local ao analisar o acervo fático-probatório dos autos delineou que os usuários de sala comercial do Centro Clínico Especializado, ainda que não locatários, devem custear as despesas inerentes de manutenção do ambiente de exercício profissional, conforme se depreende do seguinte excerto:
+O uso da sala 01 pelos apelados era sabido de todos, inclusive por parte da esposa do sócio Angelo, representante da primeira apelante (f. 543), pelo que de todo justo e razoável a imposição de rateio das despesas próprias de condomínio.
+Dessa maneira, a sentença não carece de ajuste técnico quanto à condenação imposta aos apelados de pagamento somente das despesas do item 12.1, no período de janeiro de 2009 a 31 de dezembro de 2014 (f. 558-558 v.).
+A determinação de pagamento de 50% das despesas do item12.1 não carece de modulação para maior, tendo em vista que o uso da sala 01 era feito por sócio do empreendimento e pessoa jurídica a ele pertencente. Assim, de todo razoável que a sua colaboração com as despesas próprias de locatário fosse em parte diferenciada, inclusive porquanto provado que também atuava na administração da primeira apelante (f. 543).
+A sentença não contém outra condenação que extrapole o pedido e causa de pedir (f. 558-558 v.), de tal sorte que as demais questões recursais se mostram fora do contexto técnico devolutivo e não desafiam exame aprofundado. Aliás, nelas adentrar significaria fugir do limite técnico da sentença e único passível de combate adequado, e que por certo levaria a fazer surgir uma prestação jurisdicional de segundo grau desconforme com o pedido e a causa de pedir, e real tutela jurídica concedida, única passível de combate em seus limites técnicos verdadeiros resolutivos.
+(..)
+Também não vale a proposição recursal no sentido de que reconhecida a impossibilidade de se cobrar parcelas referentes a aluguéis, em razão do direito de uso assegurado aos proprietários, não haveria que se falar em subsistência daquelas referentes a prestações de serviços, notadamente por se tratar de objeto acessório ao contrato de locação, que foi considerado inaplicável, pouco importando o entendimento de que houve outorga de poderes de administração à apelada por intermédio de mandado verbal. É que a prestação de serviços médicos, que decorre do uso efetivo de uma sala comercial num centro clínico edificado para esse fim, faz do usuário de sala, locatário ou não, contribuinte dos serviços postos à disposição e deque fez uso, sobretudo quando inexistente elemento de prova ou indicio suficiente que diga o contrário nos autos.
+A assertiva de que a sociedade empresária ré não presta serviços na sala 01, apesar de endereço indicado no seu contrato social, sendo a prestação de serviço para o sócio Rodrigo, que eventualmente atende pacientes no local, onde também exerce atividades de gestão e administração da sociedade empresária apelada, da qual é sócio, em nada prejudica a sentença. Tal fato decorre do dever de contribuir os segundos apelantes para as despesas dos serviços postos à disposição e de que fizeram uso, pelo exercício de profissão e empresa na sala 01 de centro clínico.
+Parra derruir as conclusões da Corte mineira seria imprescindível o revolvimento do acervo fático-probatório, bem como a análise dos instrumentos particulares relativos às relações jurídicas entre as partes, providências incabíveis em sede de recurso especial ante o óbice das Súmulas 5 e 7 do STJ. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO APLICAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. CLÁUSULA PENAL. ANÁLISE DO CONTRATO E AVALIAÇÃO DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+(..)
+5. Rever a conclusão do Tribunal de origem quanto à incidência da cláusula penal demandaria reavaliação do contrato e incursão no campo fático-probatório, providências vedadas na via especial, conforme as Súmulas n. 5 e 7 do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.771.130/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Corroborando este entendimento: AgInt no AREsp n. 2.146.824/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023; AgInt no REsp n. 2.060.578/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023; AgInt no REsp n. 2.013.552/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.
+Portanto, não prospera a insurgência.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
