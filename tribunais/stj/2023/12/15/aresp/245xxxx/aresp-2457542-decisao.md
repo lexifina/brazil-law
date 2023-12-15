@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por UP BRASIL ADMINISTRAÇÃO E SERVIÇOS LTDA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (e-STJ Fl.502):
+DIREITO CIVIL E DO CONSUMIDOR. APELAÇÕES CÍVEIS EM REVISIONAL DE CONTRATO. SENTENÇA DE PROCEDÊNCIA PARCIAL. PRELIMINAR DE NULIDADE DA SENTENÇA POR FUNDAMENTAÇÃO DEFEITUOSA. REJEITADA. MÉRITO. PRESCRIÇÃO. AÇÃO PESSOAL. DECENAL SOB A ÉGIDE DO CC/2002. TERMO INICIAL QUE SE INICIA A PARTIR DA CELEBRAÇÃO DO PACTO. RECONHECIMENTO DE ABUSIVIDADE DAS CLÁUSULAS CONTRATUAIS. AUSÊNCIA DE AJUSTES E/OU PROVAS CAPAZES DE DEMONSTRAR A POSSIBILIDADE DE CAPITALIZAÇÃO DE JUROS, MALGRADO OS ARGUIDOS REFINANCIAMENTOS E NOVAÇÕES. PRESUNÇÃO DA FALTA DE PACTUAÇÃO EXPRESSA NAS AVENÇAS. INTELIGÊNCIA DO ART. 6º, VIII, DO CDC C/C ART. 359, I, DO CPC. ANATOCISMO NÃO PERMITIDO (SÚMULA 530 DO STJ). APLICABILIDADE DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PRATICADA NAS OPERAÇÕES DA MESMA ESPÉCIE, COM RECÁLCULO PELO MÉTODO GAUSS. MANTENÇA DA REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. SENTENÇA MANTIDA. PRECEDENTES. CONHECIMENTO E DESPROVIMENTO DOS APELOS.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo violou o art. 51, §1º, do CDC, ao reconhecer abuso no tocante à capitalização dos juros.
+Reforça que não se mostra cabível a intervenção do Poder Judiciário em relação aos contratos firmados, pois a aplicação de juros se deu em estrito cumprimento legal, não havendo qualquer abuso ou demonstração de situação excepcional capaz de colocá-la em posição de desvantagem.
+Entende que a aplicação do Método Gauss implica enriquecimento ilícito da outra parte, na melhor interpretação do art. 884 do Código Civil.
+As contrarrazões ao recurso especial foram apresentadas a fls. 547/558.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 83/STJ.
+Dai porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação revisional de contrato de mútuo, ajuizada pela parte ora agravada em face da ora agravante, cujo pedido foi julgado procedente em parte, para declarar nula a capitalização e restituir à autora o valor pago a maior, determinando-se a aplicação do método GAUSS (Método Linear Ponderado) para recalcular os juros na forma simples.
+A principal tese do recurso especial consiste em afastar o entendimento de que os juros cobrados se mostram abusivos.
+Acerca da temática recursal, assim dispôs o Tribunal a quo (e-STJ Fls.507/508):
+"Ocorre que, no caso concreto, as transações foram estabelecidas por telefone e a instituição financeira ré não trouxe a este caderno processual cópias dos contratos firmados que contivessem cláusula expressa permitindo a capitalização ou indicasse as taxas de juros mensais e anuais, ou outros elementos capazes de possibilitar a identificação do anatocismo mediante a multiplicação por 12 meses, consoante entendimento consolidado no STJ.
+É dizer, elementos trazidos não foram suficientes para garantir o efetivo conhecimento dos termos contratuais, principalmente no respeitante à temática complexa da eleição de taxas de juros (para cálculo do montante devido a longo prazo) e capitalização.
+(..)
+Em sendo assim, , a instituição financeira ré não demonstrou, em Juízo, que in casu houve esclarecimento e/ou previsão expressa nos contratos da contagem dos juros sobre os juros e, não o fazendo, deve ser mantida a declaração da ilegalidade da capitalização dos juros conforme pronunciamento exarado na sentença recorrida e em relação às avenças ali indicadas."
+Há entendimento no âmbito da Segunda Seção do STJ no sentido de ser imprescindível à validade da cláusula de capitalização diária dos juros remuneratórios a previsão expressa da taxa diária de juros, caracterizando cláusula contratual abusiva na parte em que, apesar de pactuar as taxas efetivas anual e mensal, se omite acerca do percentual da capitalização diária, conforme decidido pelo Tribunal a quo.
+Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CAPITALIZAÇÃO DIÁRIA DE JUROS. POSSIBILIDADE. EXPRESSA INFORMAÇÃO AO CONSUMIDOR DA TAXA DIÁRIA. IMPRESCINDIBILIDADE. INOBSERVÂNCIA. NULIDADE. PRECEDENTES.
+1. Há entendimento no âmbito da Segunda Seção do STJ no sentido de ser imprescindível à validade da cláusula de capitalização diária dos juros remuneratórios a previsão da taxa diária de juros, havendo abusividade na cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, se omite acerca do percentual da capitalização diária.
+2. A informação acerca da capitalização diária, sem indicação da respectiva taxa diária, subtrai do consumidor a possibilidade de estimar previamente a evolução da dívida, e de aferir a equivalência entre a taxa diária e as taxas efetivas mensal e anual.
+Agravo interno improvido."
+(AgInt no REsp 2.033.354/RS, Rel. Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 13/11/2023, DJe de 17/11/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Segundo o entendimento firmado pela jurisprudência desta Corte, por meio da Segunda Seção, a cláusula que prevê a capitalização diária, sem a indicação expressa da respectiva taxa diária dos juros, revela-se abusiva, uma vez que subtrai do consumidor a possibilidade de estimar previamente a evolução da dívida, e de aferir a equivalência entre a taxa diária e as taxas efetivas mensal e anual, em descumprimento ao dever de informação, nos termos do art. 46 do CDC - incidência do enunciado contido na Súmula 83/STJ.
+2. De acordo com a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, o reconhecimento de cobrança de encargos abusivos no período da normalidade contratual traz, como consectário lógico, a descaracterização da mora do devedor - incidência do enunciado contido na Súmula 83/STJ.
+3. O referido enunciado sumular é aplicável ao recurso especial interposto tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno desprovido."
+(AgInt no REsp 2.008.833/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/05/2023, DJe de 01/06/2023)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS. CAPITALIZAÇÃO DOS JUROS. JUROS COMPOSTOS. MORA NÃO CONFIGURADA. ALEGAÇÃO DE DECISÃO CITRA PETITA. LITISPENDÊNCIA. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. A eventual redução da taxa de juros, somente pelo fato de estar acima da média de mercado, sem que seja mencionada circunstância relacionada ao custo da captação dos recursos, à análise do perfil de risco de crédito do tomador e ao spread da operação, apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pelo julgador em relação à taxa média divulgada pelo Bacen - estaria em confronto com a orientação firmada na Segunda Seção desta Corte, nos autos do REsp. 1.061.530/RS.
+2. A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+3. "Consoante pacífica jurisprudência desta Corte Superior de Justiça, a mora do devedor é descaracterizada tão somente quando a índole abusiva decorrer da cobrança dos chamados encargos do "período da normalidade", juros remuneratórios e capitalização dos juros" (AgInt no AREsp 800.605/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16.9.2019, DJe de 19.9.2019).
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas n. 5 e 7/STJ).
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.007.281/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/09/2022, DJe de 19/09/2022)
+No tocante à observância do critério econômico GAUSS, cuja consequência seria o enriquecimento ilícito da parte contratante, ora agravada, impõe-se afirmar que o tema não foi prequestionado, não tendo sido opostos embargos de declaração, recaindo ao recurso especial, quanto ao ponto, a inteligência da Súmula 282/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. 1. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 2. CONTRATAÇÃO DE EMPRÉSTIMO COMPROVADA. CONVERSÃO, SOBRE PENA DE ENRIQUECIMENTO ILÍCITO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS N. 5 E 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282/STF e 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento ficto/implícito.
+2. Ademais, a desconstituição do entendimento do acórdão estadual recorrido (acerca comprovação da contratação do empréstimo e da necessidade de conversão do empréstimo a fim de evitar enriquecimento ilícito da parte) é procedimento vedado na via eleita do recurso especial, por exigir o reexame de fatos e provas e termos contratuais, em virtude do óbice contido nas Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp 2169902/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/03/2023, DJe de 13/03/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AÇÃO RESSARCITÓRIA DE DANOS. PAGAMENTO DE HORAS EXTRAORDINÁRIAS. CARGO EM COMISSÃO. REVISÃO DA VERBA HONORÁRIA.FUNDAMENTAÇÃODEFICIENTE. SÚMULA 284/STF. ENRIQUECIMENTOILÍCITO.AUSÊNCIADEPREQUESTIONAMENTO. SÚMULA 282/STF. FALTA DE INDICAÇÃO DO DISPOSITIVO FEDERAL SOBRE O QUAL RECAI A SUPOSTA DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 282/STF. PRECEDENTES DO STJ.
+ ..
+3. Os temas insertos nos arts. 884 e 927 do CCB não foram debatidos pela instância ordinária, tampouco foram objeto dos aclaratórios opostos. Ausente o requisito do prequestionamento, incide o óbice da Súmula 282/STF.
+ ..
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 938.300/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/09/2016, DJe de 22/09/2016)
+Dessa forma, entende-se que o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para conhecer do recurso especial em parte e, nessa parte, negar-lhe provimento. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+Publique-se.
+EMENTA
