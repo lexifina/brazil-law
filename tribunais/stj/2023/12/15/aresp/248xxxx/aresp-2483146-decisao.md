@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL - PROCESSUAL CIVIL - EXECUÇÃO FISCAL - PEDIDO DE EXTINÇÃO DO PROCESSO POR NÃO CONSTAR MAIS DÉBITOS PENDENTES DE PAGAMENTO -PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL RECONHECIDA DE OFÍCIO - PAGAMENTO DA DÍVIDA NA VIA ADMINISTRATIVA QUE ESVAZIA O OBJETO DA AÇÃO - INCIDÊNCIA DO DISPOSTO NO INCISO III, DO ARTIGO 924, DO CÓDIGO DE PROCESSO CIVIL - MANTIDA A CONDENAÇÃO DA FAZENDA PÚBLICA MUNICIPAL AO PAGAMENTO DE CUSTAS PROCESSUAIS - TAXA JUDICIÁRIA - ISENÇÃO JÁ CONCEDIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega interpretação divergente do art. 90 do CPC, no que concerne à necessidade de se atribuir ao executado a responsabilidade pelo pagamento das custas processuais, em razão do princípio da causalidade, visto que o pagamento do tributo foi realizado administrativamente em momento posterior ao ajuizamento da execução fiscal, trazendo a seguinte argumentação:
+Os trechos transcritos a seguir demonstram que há divergência jurisprudencial entre o acórdão paradigma e o acórdão recorrido.
+No acórdão paradigma, o STJ entende que quem deu causa à execução deve responder por custas e honorários, mesmo que sem a efetivação da citação do executado.
+A decisão recorrida, por outro lado, aponta para a necessidade de pagamento de custas pelo exequente em casos que não ocorram a citação, mesmo com o reconhecimento da dívida em razão do pagamento da obrigação tributária. Veja-se:  ..  (fl. 42).
+Dessa forma, resta demonstrado que o STJ entende que cabe ao executado o pagamento das custas processuais, tendo em vista o princípio da causalidade e em observância ao art. 90 do CPC.
+No caso dos autos, ao contrário de como constou na r. decisão recorrida, existe comprovação de que o pagamento do débito ocorreu em após o ajuizamento da execução fiscal, proposta em 29/11/2022.
+O acordo de pagamento no montante de R$ 2.680,93 (dois mil seiscentos e oitenta reais e noventa e três centavos) foi realizado em 13/12/2022 em uma única parcela em nome da contribuinte (mov. 7.1  autos da execução).
+Além disso, consoante  TERMO DE CIÊNCIA DE EXECUÇÕES FISCAIS E RECONHECIMENTO DA OBRIGAÇÃO DE PAGAMENTO DAS CUSTAS PROCESSUAIS  , as fls. 02 do mov. 7.1, a contribuinte ficou ciente quanto a sua obrigação ao pagamento das custas processuais (fl. 43).
+Dessa forma, em razão da inércia da contribuinte, o Município não teve opção, senão ajuizar a execução fiscal para a satisfação de seu crédito.
+O débito é do ano de 2021 e somente após o ajuizamento da execução fiscal é que a contribuinte procurou o Município para realizar acordo de parcelamento para o adimplemento da dívida.
+O processo visa assegurar o direito das partes e não causar danos àquele que tem razão para instaurar o processo.
+Além disso, não há se falar em desistência por parte do Exequente haja vista que o comparecimento espontâneo do executado para o pagamento do débito na esfera administrativa implica o reconhecimento do pedido, atraindo a aplicação do art. 90 do CPC (fl. 44).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática e identidade jurídica entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.) ;
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
