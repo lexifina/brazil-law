@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão assim ementado:
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. DECISÃO QUE RECEBEU A INICIAL. PRETENSÃO DE EXTINÇÃO OU SUSPENSÃO DO PROCESSO, ALEGAÇÃO DE LITISPENDÊNCIA (AÇÃO POPULAR) E PREJUDICIALIDADE EXTERNA. INOCORRÊNCIA. OBJETO DAS AÇÕES QUE NÃO SE CONFUNDEM. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. MANUTENÇÃO DA DECISÃO. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Na origem, cuida-se de Agravo de Instrumento contra decisão que, afastando a alegação de litispendência, recebeu petição inicial de Ação Civil Pública por atos de Improbidade Administrativa
+O agravante, em seu Recurso Especial, alega violação dos arts. 337, VI e § 1º, e 313, V, do CPC/2015.
+O juízo de admissibilidade negativo, por incidência das Súmulas 7 do STJ e 284 do STF, deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 280-286, e-STJ.
+O Ministério Público Federal emitiu parecer às fls. 300-302, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.9.2023.
+A irresignação não comporta conhecimento.
+Com efeito, conquanto o agravante debata a incidência da Súmula 284/STF, não impugna adequadamente a Súmula 7/STJ, à qual não faz qualquer referência. Para afastar o óbice desta, caberia à parte desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever a prova, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a referidos fatos. Sequer bastaria sustentar que o julgamento do seu Apelo demanda apenas a revaloração jurídica (AgInt no AREsp 2.234.624/SP; Rel. Min. Herman Benjamin; Segunda Turma; DJe 26.6.2023).
+Os argumentos apresentados no presente Apelo não têm o condão de demonstrar desnecessidade de acesso à instrução probatória, de modo que não se vislumbram motivos para a reforma da decisão recorrida, o que atrai a aplicação da Súmula 182 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182 DO STJ.
+1. Nos termos dos arts. 932, III, e 1.021, § 1º, do CPC, deve a parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão recorrida, o que, na hipótese dos autos, não foi atendido.
+2. No caso, a parte insurgente não combateu a aplicação do Tema n. 181/STF.
+3. Incidência da Súmula n. 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+4. A título de esclarecimento, faz-se necessária manifestação desta Corte a respeitos dos impactos da decisão vinculante exarada pelo Supremo Tribunal Federal sobre a presente demanda, especialmente em razão da superveniência do julgamento proferido no Tema n. 1.199, sob o regime da repercussão geral.
+5. No tocante à aplicação da Lei n. 14.230/2021, o Pretório Excelso firmou teses segundo as quais (i) é necessária a comprovação de responsabilidade subjetiva dolosa na tipificação dos atos de improbidade administrativa; (ii) a revogação da modalidade culposa de improbidade administrativa é, em regra, irretroativa; (iii) no caso de atos culposos praticados na vigência do texto anterior, porém sem condenação transitada em julgado, deve ser feita nova análise do elemento subjetivo; e (iv) o novo regime prescricional não retroage, aplicando-se os novos marcos temporais apenas após a publicação da nova lei.
+6. Hipótese em que as instâncias ordinárias consignaram a presença do elemento subjetivo dolo.
+7. Agravo interno não conhecido.
+(AgInt no RE no AgInt nos EREsp n. 1.668.641/RJ, relator Ministro Og Fernandes, Corte Especial, julgado em 27/6/2023, DJe de 3/7/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS ARGUMENTOS DA DECISÃO DENEGATÓRIA. SÚMULA 182 DO STJ. INCIDÊNCIA. REVISÃO DA DOSIMETRIA DA PENA APLICADA. ART. 12 DA LEI 8.429/92. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Recurso Especial do recorrente não foi admitido com base nos seguintes argumentos: i) adoção da Súmula 284 do STF e ii) incidência da Súmula 83 do STJ. Contudo, a parte agravante deixou de impugnar especificamente a incidência da Súmula 83 do STJ.
+2. O Superior Tribunal de Justiça entende que nos casos em que foi aplicado o não conhecimento do Recurso Especial com base no Enunciado 83 do STJ, incumbe à parte, no Agravo em Recurso Especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. No caso em questão, enquanto a Decisão Denegatória utilizou-se de precedente de 2020, o agravante apresentou precedente de 2017 (fl. 2.212-2.214, e-STJ), o qual nem sequer contém entendimento contrário ao acórdão recorrido.
+Desse modo, o seu Agravo em Recurso Especial não se presta a infirmar os fundamentos da decisão denegatória de origem.
+3. O Superior Tribunal de Justiça perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+4. Não há falar em ofensa ao art. 1.035, §5º do CPC, uma vez que o Tema 576 do STF já foi julgado desde 2019, de modo que o feito não deveria ser suspenso.
+5. Em relação ao pedido de revisão da dosimetria da pena aplicada (art. 12, da Lei 8.429/92), é pacífica "a jurisprudência desta Corte de que a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, encontrando óbice na Súmula 7/STJ, salvo se, da leitura do julgado recorrido, exsurge a desproporcionalidade na aplicação das sanções, o que não é a hipótese dos autos. Precedentes: AgRg no REsp 1.307.843/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 10/8/2016; REsp 1.445.348/CE, Rel. Min. Sergio Kukina, Primeira Turma, DJe 11/5/2016; AgInt no REsp 1.488.093/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje 17/3/2017" (AgInt no REsp 1.702.930/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20.10.2020).
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.934.515/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/3/2022.)
+Com vistas a evitar nova insurgência, registre-se que, ainda que se pudesse conhecer do AREsp, o Apelo Nobre também não ultrapassaria a barreira do conhecimento, uma vez que as razões recursais estão dissociadas da ratio decidendi, sendo certo que os argumentos utilizados na decisão guerreada não estão impugnados a contento. Com efeito, o Colegiado estadual faz expressa referência aos precedentes deste Tribunal Superior, deixando clara a convergência havida entre o teor decido e a jurisprudência desta Corte, o que, em nenhum momento, é atacado pelo agravante, em franca atração das Súmulas 283 e 284 do STJ (AgInt no REsp n. 2.005.884/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 14/11/2022).
+Por todo o exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
