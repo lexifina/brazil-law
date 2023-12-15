@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. JULGADO QUE OSTENTA FUNDAMENTAÇÃO CLARA E SUFICIENTE PARA AFIRMAR A CONCLUSÃO NELE ESTABELECIDA. MERO INCONFORMISMO. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Mikail Reimberg Rocha ao acórdão da Sexta Turma, assim ementado (fl. 980):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DOS DISPOSITIVOS TIDOS COMO VIOLADOS E OBJETOS DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. INDICAÇÃO ESPARSA NO CORPO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. RECURSO DE FUNDAMENTAÇÃO VINCULADA.
+Agravo regimental improvido.
+Nas razões, a defesa do embargante alega que há vício de omissão (fl. 987).
+Sustenta que pela redação do art. 1.029, § 3º, do Código de Processo Civil, o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave (fl. 987), porém, não foi oportunizado ao Embargante a possibilidade de demonstração dos dispositivos legais infringidos (fl. 988).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. JULGADO QUE OSTENTA FUNDAMENTAÇÃO CLARA E SUFICIENTE PARA AFIRMAR A CONCLUSÃO NELE ESTABELECIDA. MERO INCONFORMISMO. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos são manifestamente improcedentes.
+Entende a defesa que a decisão agravada contém omissão na medida em que deixou de aplicar o regramento próprio atinente aos recursos extraordinários (lato sensu), não oportunizando ao Embargante a possibilidade de demonstração dos dispositivos legais infringidos (fl. 988).
+Ora, a pretexto de suposta omissão, busca o embargante, a bem da verdade, a rediscussão dos fundamentos do acórdão, medida que é descabida em sede de aclaratórios (EDcl nos EDcl no AgRg no REsp n. 1.270.282/RS, Ministro Moura Ribeiro, Quinta Turma, DJe 12/8/2014).
+Com efeito, os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). Não se enquadram, portanto, como meio para o suposto exame do inconformismo da parte, por tratar-se de recurso cabível somente nas restritas hipóteses legalmente previstas.
+In casu, a Sexta Turma negou provimento ao agravo regimental por considerar que nas razões do especial a defesa não indicou, de forma clara e específica, quais dispositivos de lei federal foram violados ou objetos de interpretação divergente, circunstância apta a atrair a incidência da Súmula 284/STF. Tendo-se ressaltado, ainda, que a menção a normas infraconstitucionais, de forma esparsa, no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a delimitação da controvérsia (fl. 982).
+Não há, portanto, qualquer omissão, como quer fazer crer o embargante, pois o acórdão ora embargado ostenta fundamentação clara e suficiente para concluir pelo desprovimento do agravo regimental, dada a ausência de indicação precisa dos dispositivos infraconstitucionais supostamente violados (Súmula 284/STF).
+Em arremate, ressalto que o art. 1.029, § 3º, do Código de Processo Civil só viabiliza a correção de vício estritamente formal, ou seja, extrínseco, tal como ausência de assinatura ou de procuração, não possibilitando a correção de vício de fundamentação, como verificado no caso.
+A propósito, confira-se o Enunciado Administrativo n. 6/STJ:
+Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+Sobre o tema, destaco os seguintes precedentes:
+ ..
+3. "Somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do CPC, para que a parte sane vício estritamente formal (extrínseco), pois é inviável a correção de vício de fundamentação verificado no recurso". (AgRg nos EDcl no AREsp 1431370/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/09/2019, DJe 02/10/2019)
+ ..
+12. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.507.688/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2020, DJe de 27/5/2020 - grifo nosso).
+ ..  3. O prazo referido no art. 932, parágrafo único, do CPC/2015 há de ser oferecido para o recorrente sanar vício de natureza estritamente formal, sendo diversa a hipótese dos autos, em que pretendia a agravante a concessão de lapso para complementar a fundamentação do seu recurso, que não impugnou especificamente todos os fundamentos da decisão que inadmitiu o apelo nobre.  ..
+(AgInt no AREsp n. 692.495/ES, Ministro Gurgel de Faria, Primeira Turma, DJe 18/8/2016 - grifo nosso).
+Não é outra a orientação do Supremo Tribunal Federal, conforme se extrai da notícia do Informativo n. 829 daquela Corte (grifo nosso):
+ ..  O prazo de cinco dias previsto no parágrafo único do art. 932 do CPC/2015  Art. 932. Incumbe ao relator: .. III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente. .. Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível  só se aplica aos casos em que seja necessário sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação. Com base nessa orientação, a Primeira Turma, por maioria, negou provimento a agravo regimental e condenou a parte sucumbente ao pagamento de honorários advocatícios. Inicialmente, a Turma rejeitou proposta do Ministro Marco Aurélio de afetar a matéria ao Plenário para analisar a constitucionalidade do dispositivo, que, ao seu ver, padeceria de razoabilidade. Na sequência, o Colegiado destacou que, na situação dos autos, o agravante não atacara todos os fundamentos da decisão agravada. Além disso, estar-se-ia diante de juízo de mérito e não de admissibilidade. O Ministro Roberto Barroso, em acréscimo, afirmou que a retificação somente seria cabível nas hipóteses de recurso inadmissível, mas não nas de prejudicialidade ou de ausência de impugnação específica de fundamentos. Vencido o Ministro Marco Aurélio, que provia o recurso. ARE 953221 AgR/SP, rel. Min. Luiz Fux, 7.6.2016. (ARE-953221).
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o Supremo Tribunal Federal (na hipótese de remanescer recurso pendente de competência daquela Corte).
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018).
+Ante o exposto, rejeito os embargos de declaração.
