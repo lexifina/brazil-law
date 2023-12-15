@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+Agravo de Instrumento - Cumprimento de sentença - Ação coletiva que reconheceu o direito de inclusão do PIQ na base de cálculo dos adicionais temporais - Ação declaratória com atributos de título executivo - Execução nos próprios autos - Possibilidade - Exequibilidade de sentença não condenatória reconhecida no REsp nº 1.324.152/SP, Tema nº 889 do STJ - Inexistência de ofensa à coisa julgada - Decisão mantida.
+Os Embargos de Declaração não foram providos.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 535, III, 783, 786 e 803, I, do CPC/2015. Aduz:
+No presente caso, consoante aduzido pela Fazenda Estadual desde a apresentação de sua impugnação, nos autos da Ação Ordinária Coletiva Nº. 0005939-16.2011.8.26.0053, foi requerida a procedência do pedido formulado na respectiva petição inicial apenas para "declarar a natureza de verba efetiva do Prêmio de Incentivo à Qualidade (PIQ)", bem como "sua inclusão definitiva nos vencimentos dos filiados da autora para todos os fins, inclusive para o cálculo dos adicionais temporais (quinquênio e sexta-parte)." Nesse cenário, observa-se que não houve, em relação ao Ente Público, qualquer pedido condenatório em obrigação de pagar ou que declarasse a existência de tal modalidade de obrigação relativa a eventuais diferenças pretéritas para o caso de ser acolhido o pedido então formulado.
+Em outras palavras, o pedido constante da petição inaugural da referida Ação Ordinária Coletiva limitou-se a dois provimentos jurisdicionais:
+A) um de natureza declaratória, a saber,"declarar a natureza de verba efetiva do Prêmio de Incentivo à Qualidade (PIQ)";
+B) outro de cunho condenatório, relativo a uma obrigação de fazer, qual seja: determinar a inclusão definitiva da sobredita verba nos vencimentos dos filiados da autora para todos os fins, inclusive para o cálculo dos adicionais temporais (quinquênio e sexta-parte).
+Portanto, os autores do Feito Coletivo não formularam, em face da Fazenda Estadual, qualquer pedido de condenação em obrigação de pagar ou de declaração de existência de obrigação de pagamento em quantia certa ou determinável.
+Dessa forma, em respeito ao princípio da adstrição, o Acórdão proferido nos autos da referida Ação Ordinária Coletiva limitou-se a declarar o direito então pleiteado, bem como a determinar a integração do PIQ nos vencimentos para fins de cálculos de adicionais temporais.
+(..)
+Dessa forma, forçoso concluir que não foi reconhecida em favor dos beneficiados pelo título coletivo a existência ou exigibilidade de qualquer saldo a pagar referente a valores pretéritos, de maneira que não há que se falar em obrigação de pagar a ser cumprida pelo Ente Público.
+Mencione-se, no ponto, que a jurisprudência do STJ é pacífica com relação ao entendimento de que, não reconhecida expressamente a existência de obrigação de pagar no bojo do título executivo, não há que se falar em procedimento de cumprimento de sentença visando à execução de tal obrigação, vez que inexistente.
+(..)
+Ademais, ainda que se admitisse que o Acórdão proferido nos autos da referida Ação Ordinária Coletiva Nº. 0005939-16.2011.8.26.0053 constitui título executivo apto à instauração de cumprimento de sentença visando à execução de obrigação de pagar, seria necessário, conforme acima exposto, que o provimento jurisdicional em questão contivesse todos os elementos capazes de conferir certeza, exigibilidade e liquidez à referida modalidade de obrigação, o que também não é o caso dos autos.
+Contrarrazões não apresentadas.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.10.2023.
+No enfrentamento da matéria, o Tribunal de origem apresentou os seguintes fundamentos:
+Como se vê, o título judicial formado reconheceu a obrigação da Fazenda do Estado no pagamento correto do Prêmio Incentivo à Qualidade aos servidores filiados ao SINDIFESP, e, por conseguinte, o direito aos valores não pagos decorrentes da não incorporação do prêmio, bem como da base incorreta utilizada no cálculo dos adicionais por tempo de serviço , possuindo todos os atributos de título executivo judicial: sujeito, prestação, liquidez e exigibilidade, sendo, portanto, permitido o cálculo direto pelos exequentes na forma declinada pelo Magistrado de Primeiro Grau.
+Esse é o entendimento firmado pelo Superior Tribunal de Justiça em sede de Recurso Repetitivo REsp nº 1.324.152/SP, Tema nº 889, verbis:
+(..)
+Assim encontrando-se presentes a certeza e a exigibilidade da obrigação, e, garantindo-se o contraditório e a ampla defesa do executado, não há motivos para impedir a execução de sentença judicial de cunho declaratório.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado, a respeito do título executivo apresentado possuir todos os atributos de título executivo judicial, quais sejam, sujeito, prestação, liquidez e exigibilidade, passa por revisitar o acervo probatório, o que é vedado na via eleita ante a Súmula 7 do Superior Tribunal de Justiça. Em igual sentido, as seguintes decisões proferidas no exame de idêntica controvérsia: AREsp 2.337.217/SP, Rel. Ministro Mauro Campbell Marques, DJe 9/8/2023; AREsp 2.317.214/SP, Rel. Ministro Mauro Campbell Marques, DJe 7/6/2023; AREsp 2.278.794/SP, Rel. Ministro Francisco Falcão, DJe 12/5/2023; AREsp 2.250.844/SP, Rel. Ministra Maria Thereza de Assis Moura, DJe 6/2/2023; AREsp 2.164.943/SP, Rel. Ministro Manoel Erhardt, DJe 25/10/2022; AREsp 2.162.427/SP, Rel. Ministra Assusete Magalhães, DJe 22/9/2022; AREsp 2.086.252/SP, Rel. Ministro Gurgel de Faria, DJe 15/6/2022.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino, contra a parte recorrente, a majoração no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
