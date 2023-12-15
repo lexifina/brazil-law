@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL - PROCESSUAL CIVIL - EXECUÇÃO FISCAL - PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL RECONHECIDA DE OFÍCIO - PAGAMENTO DA DÍVIDA NA VIA ADMINISTRATIVA QUE ESVAZIA O OBJETO DA AÇÃO - INCIDÊNCIA DO DISPOSTO NO INCISO III, DO ARTIGO 924, DO CÓDIGO DE PROCESSO CIVIL - CUSTAS PROCESSUAIS - ISENÇÃO DA TAXA JUDICIÁRIA JÁ CONCEDIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 90 do CPC, no que concerne à necessidade de se atribuir ao executado a responsabilidade pelo pagamento das custas processuais, em razão do princípio da causalidade, visto que o pagamento do tributo foi realizado administrativamente em momento posterior ao ajuizamento da execução fiscal, trazendo a seguinte argumentação:
+Mesmo constatando que a execução foi extinta em virtude do pagamento, o juízo a quo condenou o Município ao pagamento de custas processuais.
+Ocorre que, data máxima vênia, tal decisão carece totalmente de fundamento legal. Isso porque não cabe ao ente municipal fiscalizar o pagamento de custas processuais.
+Tendo o pagamento sido realizado administrativamente posteriormente ao ajuizamento da execução fiscal, cabe ao executado arcar com as custas processuais, tendo em vista que foi ele que deu causa a instauração da execução fiscal, ao não pagar o débito por ele devido.
+ ..
+No presente caso, ao pagar a dívida, o executado reconheceu a existência do débito. Por outro lado, por não ter pago o débito dentro do prazo, o apelado deu causa ao ajuizamento da demanda.
+Assim, segundo o princípio da causalidade as despesas processuais devem ser arcadas por aquele que se comportou de forma a tornar necessária a instauração do processo, ou seja, por aquele que, agindo ou se omitindo, causou a formação da relação processual (fl. 43).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Após o despacho inicial (mov. 6.1), sem que tenha se realizado a citação do executado, o Município de Curitiba, em 18 de agosto de 2022, informou "não mais constar débito na presente ação" - observando-se, contudo, que nada juntou para comprovar tal afirmação. Neste contexto, requereu arquivamento dos autos, nos termos do disposto no artigo 924, inciso II, do Código de Processo Civil, com o cancelamento da distribuição (mov. 13.1).
+ ..
+Logo, não há falar-se em extinção do processo de execução fiscal ao fundamento de satisfação da obrigação (inciso II, do artigo 924, do Código de Processo Civil), pois o executado não compareceu ao Juízo e nem foi apresentado qualquer acordo por ele assinado para submissão a homologação. Além disso, o pagamento do débito ocorreu na via administrativa, sem qualquer interferência do Judiciário, e não nos autos de processo em si (fls. 32-34, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
