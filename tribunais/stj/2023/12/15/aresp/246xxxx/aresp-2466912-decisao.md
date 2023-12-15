@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+APELAÇAO CÍVEL. AÇAO DE INDENIZAÇAO POR DANOS MATERIAIS. APLICABILIDADE DO CDC . RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. NEXO DE CAUSALIDADE VERIFICADO. RESSARCIMENTO DEVIDO. BIS IN IDEM DOS CONSECTÁRIOS LEGAIS. CONDENAÇÃO DO VALOR PRINCIPAL PLEITEADO ACRESCIDO DOS ENCARGOS LEGAIS. HONORÁRIOS RECURSAIS. SENTENÇA PARCIALMENTE REFORMADA.
+1. As concessionárias de serviço público têm o dever de ressarcir os danos a que deram causa ou deveriam evitar, em razão de sua responsabilidade objetiva (art. 37, §6º, da CF) , que somente pode ser excluida ou atenuada mediante culpa exclusiva do consumidor, caso fortuito, força maior e fato exclusivo de terceiros.
+2. Os documentos colacionados aos autos e o depoimento do médico veterinário que examinou os animais demonstram, de forma inequívoca, que a morte dos semoventes (vacas matrizes prenhas) decorreu de choque elétrico por contato com o fio de alta-tensão enquanto ainda aberto o protocolo de atendimento para reparo de emergência por falta de energia.
+3. Os documentos que instruíram o pedido inicial são suficientes para constituir o direito da parte autora (art. 373, inciso I, do CPC) , uma vez que comprovam o fato, dano e nexo causal, razão pela qual caberia à concessionária apelante a produção das provas necessárias para desconstituir as afirmações feitas (art. 373, inciso II, do CPC) 4. No que se refere ao valor do dano material, não há falar-se em aplicar os valores pautados pela Secretaria de Estado da Fazenda de Goiás (atual Secretaria da
+Economia), já que aqueles servem como referência minima para a base de cálculo do ICMS e, ainda, porquanto restou suficientemente comprovado nos autos que as vacas matrizes estavam prenhas.
+5. Outrossim, razão assiste à apelante no que se refere ao bis in idem dos consectários legais, dado que a planilha anexada pela apelada junto à exordial já havia acrescido ao valor principal vindicado os juros de mora e correção monetária.
+6. Nesse contexto, a condenação da apelante em danos materiais deve recair apenas sobre o valor principal pleiteado pela apelada, acrescido de juros moratórios de 1% (um por cento) ao mês, desde a data do evento danoso (súmula 54, do STJ), além de correção monetária pelo INPC, a partir do efetivo prejuizo (súmula 43, do STJ).
+7. Ante o parcial provimento da insurgência não há se falar em majoração dos honorários advocaticios recursais. Precedente do STJ.
+RECURSO DE APELAÇÃO CÍVEL CONHECIDO E PARCIALMENTE
+PROVIDO. (FLS. 743-744)
+Nas razões do recurso especial, a agravante alega violação ao art. 373 do NCPC, sustentando, em síntese, que "no presente caso, era necessário que a autora/recorrida
+tivesse comprovado o nexo causal entre a conduta da Celg Distribuição S/A - CELG D e o dano alegado. Ou seja, para condenar a empresa fornecedora de energia elétrica era necessário demonstrar alguma ilegalidade cometida pela recorrente, o que não ficou evidenciado no caso concreto."
+É o relatório.
+Decido.
+A irresignação não prospera.
+Na hipótese, o col. Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu pela responsabilidade civil da recorrente, nos seguintes termos:
+Nesse contexto, ao contrário do que faz crer a apelante, por ocasião da impugnação à contestação, a apelada jungiu aos autos a certidão de matricula do imóvel com o intuito de comprovar a propriedade do imóvel rural e sua legitimidade ativa, bem como atestado de diagnóstico de gestação emitido por Carlos Manoel da S. Borges, médico veterinário inscrito no CRMV/GO n.º 8304 e cadastro na AGRODEFESA n.º 2491, a fim de comprovar a propriedade dos semoventes e a prenhez das vacas matrizes, conforme registrado no boletim de ocorrência (movimento 20, arquivo 9 .
+Os documentos colacionados aos autos e o depoimento do médico veterinário que examinou os animais demonstram, de forma inequívoca, que a morte dos semoventes (vacas matrizes prenhas) decorreu de choque elétrico por contato com o fio de alta-tensão enquanto ainda aberto o protocolo de atendimento para reparo de emergência por falta de energia.
+Dessa forma, o arcabouço probatório dos autos atesta os fundamentos expostos na inicial, suficientemente para constituir o direito da parte apelada, conforme exegese do artigo 373, inciso I, do Código de Processo Civil, porquanto comprova o fato, o dano e o nexo causal.
+Noutro giro, com o objetivo de se elidir de sua responsabilidade, a apelante sustentou a ausência de comprovação do nexo causai entre a falha na prestação do serviço e os danos, sem, contudo, apresentar nenhum documento hábil a comprovar suas alegações.
+Assim, a apelada não desconstitui os documentos apresentados pelo recorrente, ônus que lhe competia, nos termos do artigo 373, inciso II, do diploma processual civil. (fls. 748-749)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulado, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 10% para 11% sobre o valor atualizado da condenação.
+Publique-se.
+EMENTA
