@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CONSTRUTORA AVENIDA LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/09/2023.
+Concluso ao gabinete em: 13/12/2023.
+Ação: rescisória, ajuizada por CONSTRUTORA AVENIDA LTDA., em face de CARLOS HEITOR PINTO TAVARES RIBEIRO, FABRÍCIO PINTO TAVARES SANTOS RIBEIRO e PATRÍCIA PINTO TAVARES RIBEIRO.
+Acórdão: indeferiu a petição inicial e extinguiu o feito, nos termos da seguinte ementa:
+"Ação Rescisória. Pretensão de desconstituição de Acórdão prolatado pela E. 24ª Câmara Cível deste Tribunal de Justiça, nos autos de ação indenizatória. Alegação de que houve violação ao contraditório e à ampla defesa, visto que não lhe foi oportunizada a produção de prova pericial, com vistas a rechaçar as afirmações das testemunhas que serviram de base para a sua condenação, o que faria caracterizar a ocorrência de manifesta violação à norma jurídica, na forma do art. 966, inciso V, do CPC. Julgado impugnado que cuidou de interpretar e aplicar a legislação pertinente, com base no princípio do livre convencimento, sem incorrer em qualquer vício que pudesse ocasionar a sua invalidação. Irresignação da demandante com o resultado do julgamento do feito. Reprodução dos mesmos fundamentos de fato e de direito suscitados na ação originária. Descabida a utilização da ação rescisória como se recurso fosse, a pretexto de reavaliação de questões suscitadas, discutidas e examinadas na lide originária, tratando-se de ação autônoma de impugnação que não se destina a revisar a justiça da decisão. Inexistência das hipóteses de rescisão do acórdão, motivo pelo qual impossível a realização do rejulgamento da causa. Indeferimento da inicial. Extinção do processo." (e-STJ fl. 149)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados. (e-STJ fl. 175/176)
+Recurso especial: alega violação do art. 966, V, CPC, sustentando que, para o deslinde do processo originário, fazia-se necessária a produção de prova pericial, para a certificação da responsabilidade da recorrente, meio de prova este devidamente requerido quando do oferecimento da contestação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a pretensão da agravante está assentada em um único fundamento, qual seja, o cerceamento de defesa, por violação ao contraditório e à ampla defesa, mas tal alegação se revela absolutamente descabida, na medida em que, no feito matriz foi expressamente debatida essa questão, conforme se constata facilmente pela leitura do julgado rescindendo", bem como de que "da análise do trecho do acórdão reproduzido pode-se constatar, com cristalina clareza, a impossibilidade de se acolher a tese de que o acórdão rescindendo deixou de aplicar corretamente a legislação e principiologia adequados ao caso concreto", assim também de que "dúvida não pode existir de que o acórdão solveu a lide à luz das normas de direito material aplicáveis ao direito postulado e com base em fartos elementos de prova (testemunhal e documental)", além de que "inexistindo fundamento válido para o desenvolvimento regular da ação rescisória observa-se que a agravante carece de interesse processual para buscar a rescisão do julgado que lhe foi desfavorável", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AÇÃO RESCISÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação rescisória.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
