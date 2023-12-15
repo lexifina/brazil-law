@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Teodoro Silva Santos, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA COMPROVADAS. DOSIMETRIA DA PENA. MINORANTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. No caso, o animus associativo e a estabilidade do vínculo foram demonstrados pelas instâncias ordinárias, sobretudo pela função desenvolvida pelo paciente - de liderança da atividade -, responsável pela fabricação do entorpecente e por manter o laboratório para produção e distribuição da droga.
+3. Para entender de forma diversa e afastar a compreensão das instâncias de origem de que o recorrente se associou, com estabilidade e permanência, para o fim de praticar o crime de tráfico de drogas, seria necessário o revolvimento do acervo fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus.
+4. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico. Precedentes.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JEORGE LUIS PEREIRA interpõe agravo regimental contra decisão de minha relatoria (fls. 88-91) em que deneguei a ordem do habeas corpus e, por conseguinte, mantive inalterada a reprimenda de 11 anos, 3 meses e 10 dias de reclusão, em regime fechado, mais multa, imposta pela prática dos delitos de tráfico de drogas e de associação para o tráfico.
+A defesa reafirma a tese apresentada no writ, de ausência de elementos concretos que demonstrem a estabilidade e a permanência para configuração do delito de associação para o tráfico de drogas. Subsidiariamente, requer o reconhecimento do tráfico privilegiado.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA COMPROVADAS. DOSIMETRIA DA PENA. MINORANTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. No caso, o animus associativo e a estabilidade do vínculo foram demonstrados pelas instâncias ordinárias, sobretudo pela função desenvolvida pelo paciente - de liderança da atividade -, responsável pela fabricação do entorpecente e por manter o laboratório para produção e distribuição da droga.
+3. Para entender de forma diversa e afastar a compreensão das instâncias de origem de que o recorrente se associou, com estabilidade e permanência, para o fim de praticar o crime de tráfico de drogas, seria necessário o revolvimento do acervo fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus.
+4. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico. Precedentes.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+I. Delito de associação para o tráfico
+No delito do art. 35 da Lei 11.343/20069, a expressão empregada pelo legislador se refere à associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas. Nesse sentido, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo. Para tanto, salientou o Tribunal de origem (fl. 52, grifei):
+A condenação dos réus pelo delito de associação para o tráfico também é incontestável.
+Com efeito, verifica-se que os acusados, para adquirir e transportar significativa quantidade de maconha (quase 110 quilos) de um Estado da Federação para outro, se associaram de forma estável e permanente, e não de maneira eventual.
+A quantidade de maconha apreendida e o grande número de criminosos envolvidos na transação ilícita, e a intensa atividade criminosa bem revelam a temibilidade deles e a estreita vinculação com o crime organizado, deixando clara a estabilidade da associação envolvendo diferentes pessoas, em ocasiões distintas, tudo a evidenciar que a atuação conjunta deles não era um fato isolado, mas constante e permanente, única forma de se realizar o tráfico de drogas de maneira efetiva entre Estados da Federação, o que pequenos e eventuais traficantes jamais realizaram com êxito.
+Acrescentem-se a isso os depoimentos dos policiais militares, que descreveram com detalhes as diligências realizadas, as quais culminaram na identificação dos acusados e na individualização das condutas de cada um deles na organização criminosa, comprovando-se, deste modo, o vínculo associativo intenso, que permitiu a aquisição e o transporte de significativa quantidade de entorpecente.
+Por fim, o depoimento de Carlos Edvan em juízo, em que ele afirmou conhecer Gislaine desde o ano de 2001, quando ambos foram presos e condenados por tráfico de drogas e associação para o tráfico, reforça ainda mais a certeza da atividade ilícita desenvolvida há tempos pelo acusados (mídia).
+Relembro, uma vez mais, que o animus associativo e a estabilidade do vínculo estão demonstrados, pois, conforme descreveu a sentença, ficou "evidenciado que existia acordo prévio para estabelecimento de um núcleo associativo", com "o estabelecimento da função de cada um" (fl. 40).
+Por fim, qualquer outra solução que não a adotada pelas instâncias de origem implicaria o revolvimento do material fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus. Nesse sentido, menciono, mutatis mutandis:
+ ..
+1. O acórdão recorrido concluiu pela consistência do conjunto probatório para amparar a condenação, bem como pela comprovação da estabilidade e permanência para o delito de associação para o tráfico, para se chegar à conclusão diversa, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado em recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+ ..
+(AgRg no AREsp n. 1.593.941/TO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 29/9/2020).
+II. Minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Consequentemente, porque mantida a condenação do agravante pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+A Terceira Seção deste Superior Tribunal tem o entendimento de que é inviável a aplicação da causa especial de diminuição da pena quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico. Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental .
