@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo e m recurso especial, interposto por BANCO DO BRASIL SA, contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a", do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. Crédito decorrente de cédula de crédito industrial garantido por hipoteca sobre bens de terceiro e gravado com alienação fiduciária de bens pertencentes à recuperanda. Discussão quanto à classificação do crédito em quirografário ou extraconcursal. GARANTIA PRESTADA POR TERCEIROS.
+Ausência de vinculação dos bens da recuperanda.
+Inaplicabilidade do §3" do art. 49 da LREF. Privilégio que se exerce apenas em relação aos prestadores da garantia real (§1").
+GARANTIA PARCIAL. Bens da recuperanda que foram alienados fiduciariamente em garantia. Valor inferior ao crédito. Extraconcursalidade que se reconhece apenas sobre a parcela coberta pela garantia. Natureza quirografária do saldo remanescente. Decisão reformada. Recurso provido."
+Embargos de declaração rejeitados às fls. 87/90.
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 1.022, II, do Código de Processo Civil; e 49, §3º da Lei nº 11.101/2005.
+Sustenta haver negativa de prestação jurisdicional por parte do Tribunal a quo, quanto à tese de inovação recursal apresentada em contraminuta e quanto ao pedido subsidiário, no caso de acolhimento do recurso.
+Afirma, ainda, que "não há como permitir a exclusão parcial do crédito submetidos a recuperação judicial, na medida que não há previsão legal nesse sentido" (fl. 101).
+Contrarrazões às fls. 110/119.
+É o relatório. Decido.
+Quanto à suposta negativa de prestação jurisdicional, tendo em vista as omissões alegadas, não assiste razão à parte recorrente.
+Com efeito, da análise acurada dos autos, verifica-se que o Tribunal a quo apreciou toda a matéria levada à sua análise, sobretudo o pedido subsidiário e a tese de inovação recursal, in verbis:
+"O embargante assevera que houve omissão quanto à sua tese trazida em contrarrazões, na qual afirmava a inovação recursal quanto à hipoteca apresentada.
+(..)
+O v. acórdão foi claro ao analisar que a questão não trata da cédula de crédito industrial n. 333.601.907 estar garantida em parte por hipoteca, e sim dessa garantia não excluir o crédito dos efeitos da recuperação judicial, como visto em fs. 74.
+Sendo assim, não houve inovação recursal ao afirmar que a CCI emitida não só estava garantida por alienação fiduciária, como também por hipoteca prestada pela empresa Ameribras Empreendimentos e Participações Ltda., pois se trata de um fato constatado em análise aos documentos apresentados a fs. 30/48.
+Sustenta omissão também no tocante ao pedido subsidiário feito em contraminuta.
+O que o v. acórdão fez foi somente definir a questão sobre a cédula de crédito garantida por terceiros e determinar a exclusão do crédito garantido por alienação fiduciária. O total do crédito concursal deverá ser discutido e analisado perante o Juízo de 1º Grau, motivo pelo qual inexiste omissão quanto a este ponto." (fl. 88/90).
+Assim, realmente, não prospera a alegada ofensa aos arts. 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no REsp n. 2.009.408/AM, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 3/4/2023; AgInt no AgInt no AgInt no REsp n. 1.963.364/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/3/2023; AgInt no AgInt no AREsp n. 2.040.618/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 23/3/2023; AgInt no REsp n. 1.896.188/AM, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/3/2023; e AgInt no AREsp n. 2.121.287/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 16/3/2023.
+No mérito, a parte recorrente argumenta que "é de rigor o reconhecimento de que a exclusão do crédito se dá única e exclusivamente pela existência de alienação fiduciária de bens, o que inequivocamente é razão para a exclusão total crédito, na medida em que a lei não prevê a exclusão parcial" (fl. 101).
+Em complemento, sustenta que "tratando-se de crédito garantido por alienação fiduciária de bens, deve ser reconhecida a extraconcursalidade de todo o crédito, independentemente do valor dos be ns vinculado" (fl. 102).
+Ao dirimir a controvérsia, o Tribunal de origem consignou que a extraconcursalidade recai apenas sobre a parcela coberta pela garantia prestada, sendo de natureza quirografária o saldo remanescente, in verbis:
+"Uma vez reconhecido que a existência de garantia prestada por terceiro não implica na extraconcursalidade do crédito, cabe analisar o segundo ponto da controvérsia, qual seja:
+se a existência de garantia prestada pela própria recuperanda, ainda que parcial, teria esse efeito.
+Como já adiantado pelo trecho do acórdão destacado, a parcela do crédito que ultrapassa o valor da garantia remanesce como quirografária.
+Significa, portanto, que em se tratando de garantia inferior ao total do crédito (parcial), a exclusão dos efeitos da recuperação judicial, determinada pelo §32 do art. 49 da LREF, fica limitada à parcela coberta pela garantia, sujeitando-se a excedente.
+Esse é o teor do Enunciado n. 51 da 1ª Jornada de Direito Comercial: "O saldo do crédito não coberto pelo valor do bem e/ ou da garantia dos contratos previstos no §32 do art. 49 da Lei 11.101/ 2005 é crédito quirografário, sujeito à recuperação judicial".
+(..)
+Como no caso foi expressamente previsto que os bens da agravante alienados fiduciariamente à instituição agravada perfaziam o total de R$ 2.350.000,00, de rigor reconhecer que somente o crédito decorrente da CCI deve ser mantido na classe dos quirografários, habilitando-se como extraconcursal apenas o correspondente ao valor da garantia prestada pela recuperanda.
+(..)
+Nessas condições, reforma-se a r. decisão agravada para que seja mantida a habilitação do crédito decorrente da cédula de crédito industrial n. 333.601.907, excluindo-se dos efeitos da recuperação judicial apenas a parte coberta pela garantia sobre bens da recuperanda." (Fls. 76/78).
+Verifica-se, pois, que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido de que "A extraconcursalidade do crédito acobertado por alienação fiduciária limita-se ao valor do bem dado em garantia, sobre o qual se estabelece a propriedade resolúvel. Eventual saldo devedor que extrapole tal limite deve ser habilitado na classe dos quirografários" (REsp n. 1.933.995/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/11/2021, DJe de 9/12/2021). A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. GARANTIA PRESTADA POR TERCEIRO. ALIENAÇÃO FIDUCIÁRIA. PRECEITO CONSTITUCIONAL. EXAME. INVIABILIDADE. ENTENDIMENTO DOMINANTE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É extraconcursal o crédito garantido por alienação fiduciária, embora oferecido o bem por terceiros, não sendo necessária a identificação pessoal do fiduciante ou fiduciário com o bem imóvel ofertado em garantia ou com a própria recuperanda.
+2. No REsp nº 1.953.180/SP não houve a modificação do entendimento jurisprudencial de que o crédito garantido por alienação fiduciária detém natureza extraconcursal. Na verdade, a Terceira Turma consignou que será extraconcursal, nos limites do valor do bem objeto da garantia, de modo que eventual saldo devedor superior ao montante do bem terá natureza concursal.
+3. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+4. Malgrado a literalidade da dicção legal do art. 932, V, do NCPC, esta Corte Superior já se manifestou no sentido de que a interpretação sistêmica do Código recomenda uma exegese ampliativa da norma, de modo a autorizar o julgamento monocrático dos recursos com amparo na existência de orientação jurisprudencial dominante.
+5. A apreciação do tema pelo órgão colegiado no agravo interno supera eventual nulidade da decisão singular.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido."
+(AgInt no AREsp n. 1.810.708/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/5/2023, DJe de 17/5/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - RECUPERAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO - INSURGÊNCIA DA AGRAVANTE.
+1. A extraconcursalidade do crédito acobertado por alienação fiduciária limita-se ao valor do bem dado em garantia, sobre o qual se estabelece a propriedade resolúvel. Eventual saldo devedor que extrapole tal limite deve ser habilitado na classe dos quirografários.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.078.718/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/3/2023, DJe de 23/3/2023)
+"CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL. JUÍZO DA EXECUÇÃO DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DEVEDOR FIDUCIANTE EM RECUPERAÇÃO JUDICIAL. CONSOLIDAÇÃO DA PROPRIEDADE PELO FIDUCIÁRIO. VENDA DO BEM. EXTINÇÃO DA PROPRIEDADE FIDUCIÁRIA. VALOR ARRECADADO INSUFICIENTE PARA O PAGAMENTO DA DÍVIDA. SALDO DEVEDOR. NATUREZA QUIROGRAFÁRIA. SATISFAÇÃO DO REMANESCENTE DA DÍVIDA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. A princípio, o credor titular da posição de proprietário fiduciário de bem móvel ou imóvel não se submete aos efeitos da recuperação judicial, consoante disciplina o art. 49, § 3º, da Lei 11.101/2005.
+2. Porém, no caso dos autos, o bem alienado fiduciariamente em garantia já foi objeto de apreensão judicial e adjudicado ao exequente, com a consolidação da propriedade e sua posterior alienação.
+3. Desse modo, o presente conflito de competência é circunscrito à definição do Juízo perante o qual devem prosseguir os atos tendentes à satisfação do remanescente do crédito derivado de contrato de alienação fiduciária em garantia, visto que a consolidação da propriedade do bem dado em garantia, e sua consequente e necessária alienação, não foi suficiente para a quitação integral da dívida.
+4. Segundo a doutrina e os precedentes específicos desta Corte, no caso de alienação fiduciária em garantia, consolidada a propriedade e vendido o bem, o credor fiduciário ficará com o montante arrecadado, desaparecendo a propriedade fiduciária. Eventual saldo devedor apresenta natureza de dívida pessoal, devendo ser habilitado na recuperação judicial ou falência na classe dos credores quirografários.
+5. Conflito conhecido para declarar competente o Juízo da Recuperação Judicial."
+(CC 128.194/GO, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 28/6/2017, DJe 1º/8/2017)
+Como se vê, a orientação do Tribunal de origem está em consonância ao entendimento do Superior Tribunal de Justiça, o que atrai a incidência do verbete 83/STJ.
+Assim, ante da ausência de qualquer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o presente apelo nobre.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
