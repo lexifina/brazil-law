@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por LUCIMARA MAGALHAES MACHADO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ Fl.130):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL.
+JUROS REMUNERATÓRIOS. MOSTRA-SE POSSÍVEL A LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA DO MERCADO AFERIDA PELO BACEN À ÉPOCA DA CONTRATAÇÃO QUANDO VERIFICADA SIGNIFICATIVA DISCREPÂNCIA NA TAXA PACTUADA.
+REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES.
+CABIMENTO DA REPETIÇÃO DO INDÉBITO, NA SUA FORMA SIMPLES, E DA COMPENSAÇÃO DE VALORES PAGOS A MAIOR, MEDIANTE OPERAÇÃO DE REVISÃO JUDICIAL DAS CLÁUSULAS CONTRATUAIS ABUSIVAS.
+SUCUMBÊNCIA. DETERMINADA A MINORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS DEVIDOS AO PATRONO DA PARTE APELADA.
+DERAM PARCIAL PROVIMENTO AO APELO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o acórdão proferido pelo Tribunal a quo merece reforma no tocante à base de cálculo para fixação dos honorários de advogado sucumbenciais, pois o §8º do art. 85 foi aplicado em detrimento do §2º.
+As contrarrazões ao recurso especial foram apresentadas a fls. 375/384.
+O referido recurso especial foi admitido por se entender incidente na espécie, essencialmente, a Súmula 83/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+Quanto à alegada ofensa ao art. 85, § 2º, do CPC/2015, defende-se a tese de que houve adoção do valor da causa para fixação dos honorários de advogado sucumbenciais, no âmbito do primeiro grau de jurisdição, tendo o Tribunal a quo alterado o critério, adotando a equidade prevista no §8º do dispositivo em comento, e, portanto, os honorários advocatícios sucumbenciais devem ser fixados em favor do advogado do autor com base no valor da causa, conforme a sentença.
+Sobre o tema, a jurisprudência desta Corte se firmou no sentido de que "a atual redação do diploma processual impõe que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo" (REsp 1.746.072/PR, Rel. p/ acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/02/2019, DJe de 29/03/2019).
+Somente na impossibilidade de se mensurar o proveito econômico direto, deve-se observar a ordem obrigatória de preferência, a fim de adotar como critério de fixação dos honorários advocatícios (a) o valor atualizado da causa e, (b) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º, do Código de Processo Civil).
+Nesse sentido:
+"RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. CÉDULA DE CRÉDITO BANCÁRIO. CESSÃO FIDUCIÁRIA. DUPLICATAS MERCANTIS. DIREITOS CREDITÓRIOS. DISCRIMINAÇÃO E ESPECIFICAÇÃO DOS TÍTULOS. DESNECESSIDADE. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. EQUIDADE. CABIMENTO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido da desnecessidade de discriminação individualizada de todos os títulos representativos do crédito para perfectibilizar o negócio fiduciário, haja vista a inexistência de previsão legal e a impossibilidade de determinação de títulos que não tenham sido emitidos no momento da cessão fiduciária. Precedentes.
+3. Nos casos em que o objeto do incidente de impugnação de crédito limita-se a verificar se o crédito estaria ou não submetido aos efeitos da recuperação judicial, o proveito econômico direto não se confunde com o valor do crédito impugnado.
+4. Na impossibilidade de se mensurar o proveito econômico direto, deve-se observar a ordem obrigatória de preferência, a fim de adotar como critério de fixação dos honorários advocatícios (a) o valor atualizado da causa e, (b) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º, do Código de Processo Civil).
+5. No caso, ausente a atribuição de valor da causa ao incidente, a hipótese é de apreciação equitativa, nos termos do art. 85, § 8º, do Código de Processo Civil.
+6. Na hipótese em apreço, o crédito da recorrente não está sujeito à recuperação judicial, nos termos do art. 49, § 3º, da Lei nº 11.101/2005.
+7. Recurso especial provido."
+(REsp 1.815.823/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/11/2023, DJe de 17/11/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. FALTA DE QUANTIFICAÇÃO DO VALOR POSTULADO A TÍTULO DE DANOS MORAIS. POSTERIOR ACORDO COM A PRIMEIRA REQUERIDA, REMANESCENDO COMO OBJETO DA LIDE UNICAMENTE O PEDIDO DE INDENIZAÇÃO EM FACE DA SEGUNDA REQUERIDA. IMPROCEDÊNCIA DA AÇÃO, NESSA PARTE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR ELEVADO DA CAUSA INCOMPATÍVEL COM O OBJETO REMANESCENTE DA LIDE. READEQUAÇÃO DO VALOR DA CAUSA E FIXAÇÃO DOS HONORÁRIOS COM BASE NO CPC, ART. 85, § 8º. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, não houve condenação e o proveito econômico obtido pela segunda ré, com a improcedência do pedido remanescente de indenização por danos morais, não quantificado na inicial, revela-se incompatível com aquele valor da causa apontado inicialmente, afetado por superveniente alteração do objeto da ação, decorrente de acordo entre a autora e uma das rés, reduzindo substancialmente o conteúdo econômico da lide.
+2. Portanto, o valor elevado da causa, constante da inicial, já não pode ser adotado como parâmetro para a fixação dos honorários advocatícios sucumbenciais, pois não reflete o conteúdo econômico remanescente da ação, englobando outros pedidos que perderam o objeto após o acordo formulado com a primeira demandada, tendo dimensão econômica substancialmente mais elevada.
+3. Equivocado, pois, o acórdão recorrido, por ofensa à norma do art. 292, § 3º, do CPC/2015, também indicada como violada nas razões do recurso especial.
+4. Com o provimento do recurso para fixar novo valor da causa em seu objeto remanescente, agora por apreciação equitativa, dado inexistir valor da condenação, proveito econômico certo ou valor determinado da causa, mostra-se cabível a fixação equitativa dos honorários advocatícios em R$10.000,00 (dez mil reais), nos termos do art. 85, § 8º, do CPC/2015, tal como decidira o juiz de primeira instância.
+5. Agravo interno desprovido."
+(AgInt no AREsp 2.263.172/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/10/2023, DJe de 26/10/2023)
+Dessa forma, entende-se que o acórdão merece ser reformado no ponto relativo à sucumbência.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de fixar os honorários de advogado sucumbenciais no percentual de 12% sobre o valor da causa, conforme a sentença.
+Publique-se.
+EMENTA
