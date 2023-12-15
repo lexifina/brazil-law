@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+HABEAS CORPUS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - Inexiste constrangimento ilegal em decisão que converte a prisão em flagrante em preventiva ou denega liberdade provisória, diante da demonstração da materialidade do delito e da existência de indícios da autoria, fundamentada em fatos indicadores da real necessidade da prisão cautelar do Paciente. PRETENDIDO O TRANCAMENTO DO INQUÉRITO POLICIAL POR FALTA DE JUSTA CAUSA PARA O SEU PROSSEGUIMENTO - INADMISSIBILIDADE - Havendo indícios da prática do delito, bem como de sua autoria, não há que se falar em trancamento do inquérito policial.
+Necessidade de exame de provas, inviável na estrita via do writ. Ordem denegada.
+Narram os autos que o paciente foi preso em flagrante, convertido em preventiva, pela suposta prática dos crimes de tráfico e associação ao tráfico de drogas.
+Sustenta a defesa, em suma, ausência de fundamentação idônea no decreto prisional, requerendo, liminarmente e no mérito, a revogação da prisão preventiva.
+Deferida a liminar, formulado pedido de extensão em favor do corréu, foram prestadas as informações, manifestando-se o MPF pela revogação da custódia e deferimento do pedido de extensão.
+Por meio da PEXT 00475696/2023, pugna o corréu GUILHERME FERREIRA AMELIO pela extensão da liminar concedida ao ora paciente.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi assim decretada (fls. 42-43):
+Vistos.
+Trata-se de comunicação de prisão em flagrante de MAICON RUAN FERREIRA DE LIMA, CAIO GERMANO FERREIRA DA SILVA e GUILHERME FERREIRA AMELIO, por infração, in thesi, aos arts. 33, caput e 35 da Lei n. 11.343/2006, em que sobreveio manifestação do órgão ministerial pela mantença da custódia cautelar, com conversão em prisão preventiva, e da Defensa, pela concessão de liberdade provisória.
+É a síntese do necessário.
+Encontrando-se o flagrante formalmente em ordem, posto que iniciada em tese a ação policial na via pública, prosseguindo ao interior da residência dos autuados, não se verifica hipótese de relaxamento.
+De outra parte, tampouco se mostra recomendável, ao menos nesta fase do procedimento, em que sequer concluídas as diligências típicas da atividade de polícia judiciária, a concessão de liberdade provisória, porque presentes os requisitos da prisão preventiva.
+Com efeito, os elementos de convicção colhidos até o presente indicam a existência de prova segura da materialidade (apreensão de plástico filme, embalagens plásticas, lâminas de aço - insumos comumente usados para embalagens de drogas - , 97 microtubos tipo eppendorf, uma balança de precisão digital Wincy, R$ 541,90 em moeda de contado, 491g de maconha acondicionados em 37 trouxinhas de papel e 107g de crack em forma de 34 pedras), e de indícios bastantes de autoria (os depoimentos de João Paulo Rosman e Clésio Leão dos Santos), pese a negativa dos autuados.
+De outra parte, a mantença da segregação cautelar atende a necessidade de garantia da ordem pública, - pois trata-se de crime de inegável perigosidade social - mostra-se conveniente à instrução criminal - pois notória a intimidação difusa em caso de crime de tráfico ilícito de entorpecentes - e assegura, ainda, a final aplicação da lei penal.
+Há que se considerar, ainda, a pregressidade de CAIO, que registra condenação anterior por tráfico ilícito de entorpecentes (fls. 42/50), circunstância fática que atrai a incidência da vedação inserta no § 2º, do art. 310, do CPP, acrescentado pela Lei n. 13.964/2019, à concessão de liberdade provisória.
+Inviável, portanto, a concessão de medida cautelar alternativa, tendo em vista à pena corporal máxima cominada em abstrato para os delitos, e presentes os requisitos da custódia cautelar (CPP, arts. 311, 312 e 313, I), converto a prisão em flagrante em prisão preventiva, nos termos do art. 310, II, do CPP, expedindo-se mandados de prisão.
+Como já salientado na decisão anterior, consta do decreto prisional fundamentação, em tese, concreta, baseada na quantidade de droga apreendida, destacando-se que "os elementos de convicção colhidos até o presente indicam a existência de prova segura da materialidade (apreensão de plástico filme, embalagens plásticas, lâminas de aço - insumos comumente usados para embalagens de drogas - , 97 microtubos tipo eppendorf, uma balança de precisão digital Wincy, R$ 541,90 em moeda de contado, 491g de maconha acondicionados em 37 trouxinhas de papel e 107g de crack em forma de 34 pedras), e de indícios bastantes de autoria (os depoimentos de João Paulo Rosman e Clésio Leão dos Santos), pese a negativa dos autuados".
+Contudo, ao analisar as circunstâncias do caso, verifica-se que o decreto prisional está fundamentado exclusivamente na quantidade de droga, elementar do tipo penal, sem se demonstrar de maneira objetiva outras circunstâncias que justificassem a constrição cautelar.
+Sendo assim, apesar de a quantidade de droga aprendida não ser irrelevante, também não é expressiva, não se verificando, ainda, nenhum outro elemento no caso concreto que justificasse a medida extrema, o que evidencia a ausência de fundamentos para o decreto prisional, em se considerando tratar-se de delito cometido sem violência ou grave ameaça a pessoa.
+Ante o exposto, defiro a liminar para determinar a soltura do paciente, se por outro motivo não estiver preso, ficando a critério do Juízo de origem a fixação de medidas cautelares alternativas, com extensão do benefício ao corréu GUILHERME FERREIRA AMÉLIO , nos termos do art. 580 do CPP.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
