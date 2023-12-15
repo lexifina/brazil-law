@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HELIO ANTONIO RAMOS, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução interposto pelo órgão ministerial para cassar a decisão de extinção da punibilidade do reeducando, cuja ementa teve o seguinte teor (fl. 11):
+"AGRAVO EM EXECUÇÃO - REGIME ABERTO - PLEITO MINISTERIAL PARA CASSAR A EXTINÇÃO DA PUNIBILIDADE PELO CUMPRIMENTO, COM APURAÇÃO DA FALTA GRAVE PRATICADA E EVENTUAL REGRESSÃO DE REGIME - NECESSIDADE - DESCUMPRIMENTO DAS CONDIÇÕES DO REGIME ABERTO - IMPOSSIBILIDADE DE CUMPRIMENTO FICTO DA PENA - HIPÓTESE DE COMETIMENTO DE FALTA GRAVE, NOS TERMOS DO ART. 50, V, DA LEP - DECISÃO REFORMADA - AGRAVO MINISTERIAL PROVIDO."
+Neste writ, o impetrante alega que a referida regressão de regime ocorreu indevidamente uma vez que já teria havido a extinção da punibilidade pelo término de cumprimento da pena em 24/06/2023.
+Aduz, ainda, que "que não houve sustação cautelar do benefício, e ainda que houvesse, não haveria que se falar em expedição de mandado de prisão, haja vista que o Regime Aberto é diferente de livramento condicional" (fl. 8).
+Requer, liminarmente, seja imediatamente concedido ao Paciente o restabelecimento ao regime aberto, até julgamento final do writ e, no mérito, seja decretada a extinção da punibilidade por cumprimento de pena.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+O Tribunal de origem cassou a decisão que extinguiu a pena do reeducando, nos seguintes termos (fls. 13-15):
+"Com inteira razão a irresignação ministerial.
+Tal porque, não se pode admitir cumprimento ficto da pena. O descumprimento das condições impostas implica na interrupção do cumprimento da pena.
+Como bem pontuou o Parquet, "não se tem dúvidas de que as condições fixadas para o regime aberto se relacionam com o seu efetivo cumprimento, não possuindo mero caráter acessório, sob pena de restringi-lo ao mero decurso do tempo. Ora, o cumprimento das condições impostas na fixação do regime aberto revela-se imprescindível para que a pena seja considerada cumprida".
+Por certo que o não comparecimento em Juizo e a não localização do reeducando, caracterizam verdadeiro abandono do cumprimento da pena, sendo incabível considerar o simples decurso do lapso temporal como pena efetivamente cumprida, sob pena de se frustrar os fins da execução e sua finalidade ressocializadora.
+ ..
+Ademais, tal conduta configura, em tese, falta disciplinar de natureza grave, nos termos do art. 50, V, da LEP, que dispõe: "Comete falta grave o condenado à pena privativa de liberdade que: V descumprir, no regime aberto, as condições impostas". É mister, portanto, que o efetivo cumprimento da pena esteja vinculado à satisfação das condições impostas, sem o que não se pode declarar a extinção da pena.
+No mais, anota-se que é irrelevante a inocorrência da sustação cautelar do regime pelo Juízo das Execuções.
+ ..
+Por fim, compulsando o sistema informatizado .2 desta Corte de Justiça, verifica-se que o agravado foi preso em flagrante delito, na data recente de 21/05/2023, fato este que vem a corroborar o desacerto da decisão hostilizada, data venha.
+Diante do exposto, pelo meu voto, dá-se provimento ao agravo ministerial, para cassar a r. decisão que julgou extinta a pena privativa de liberdade de Fl2LIO ANTONIO RAMOS, determinando a instauração de incidente para apuração de falta grave e eventual necessidade de regressão para regime prisional mais gravoso."
+Com efeito, o não comparecimento do réu em juízo e a sua não localização no endereço informado evidenciam o efetivo descumprimento das condições impostas no regime aberto, ou seja, nesse período a pena não foi cumprida pelo reeducando, portanto, não deve ser computada, sendo incabível a extinção da punibilidade pelo simples decurso do lapso temporal no regime aberto.
+No caso, o Tribunal de origem adotou o posicionamento desta Corte Superior no sentido de que "se o Paciente não compareceu em Juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida" (HC n. 207.698/SP, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 16/10/2012, DJe de 23/10/2012).
+Nessa linha de raciocínio, confiram-se:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS NO REGIME ABERTO. NÃO COMPARECIMENTO EM JUÍZO. PERÍODO DE PENA NÃO COMPUTADO COMO PENA CUMPRIDA. FRUSTRAÇÃO DA EXECUÇÃO. EXTINÇÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Se o paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida. Sendo assim, não há falar em extinção da pena pelo cumprimento da pena remanescente.
+2. Outrossim, a situação posta nos autos refere-se ao descumprimento de condições impostas ao apenado em regime aberto, situação distinta daquelas que justificam a aplicação do verbete sumular n. 617/STJ, específico para as hipóteses de concessão de livramento condicional, o que impede a sua incidência.
+3. Agravo regimental improvido." (AgRg no HC n. 606.027/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/2/2021, DJe de 10/2/2021).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO DA PENA. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS NO REGIME ABERTO. NÃO COMPARECIMENTO EM JUÍZO. PERÍODO DE PENA NÃO COMPUTADO COMO PENA CUMPRIDA. FRUSTRAÇÃO DA FINALIDADE DA EXECUÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos. Precedente do STJ. (HC 380.077/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017).
+3. No caso, o paciente descumpriu uma das condições que lhe foi imposta para cumprimento no regime aberto, qual seja, o comparecimento trimestral, tendo ficado foragido desde 30/6/2016 até 23/5/2017, dia em que foi preso em flagrante. Dessa forma, não só cometeu falta grave (art. 50, V, LEP), como também crime, tendo frustrado, assim, por duas vezes, os fins da execução, demonstrando que a autodisciplina e a reponsabilidade exigidas no regime aberto não foram atendidas pelo paciente, como mencionou o Tribunal coator.
+4. Habeas corpus não conhecido." (HC n. 482.915/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2019, DJe de 27/6/2019).
+Nesse contexto, não se verifica flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
