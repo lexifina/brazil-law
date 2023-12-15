@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Embargos de Divergência opostos a acórdão da Primeira Turma do Superior Tribunal de Justiça assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. EXTINÇÃO DA RELAÇÃO JURÍDICA TRIBUTÁRIA. SENTENÇA QUE JÁ CONSIDEROU O PROVEITO ECONÔMICO PARA ARBITRAR HONORÁRIOS SUCUMBENCIAIS COM BASE EM PERCENTUAL SOBRE O VALOR DA CAUSA. AÇÃO CONEXA. VANTAGEM ECONÔMICA OBTIDA. VALOR INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS POR EQUIDADE. POSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Prevalece nesta Primeira Turma o entendimento de que é cabível o arbitramento de honorários advocatícios por equidade nos casos de extinção, sem resolução de mérito, de execução fiscal de crédito cuja higidez foi impugnada pelo devedor em ação conexa, nos casos em que a validade do crédito exequendo foi objeto de embargos cuja sentença já considerou o proveito econômico para arbitrar honorários sucumbenciais com base em percentual sobre o valor da causa (art. 85, § 3º, do CPC/2015), de modo que deve ser considerada como inestimável economicamente a vantagem obtida com a extinção da correlata execução fiscal, a ensejar a aplicação do juízo de equidade previsto no art. 85, § 8º, do CPC/2015. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno improvido.
+A embargante afirma que há dissídio com o entendimento firmado pela Corte Especial do STJ no julgamento do REsp 1.906.618/SP sob o rito dos Repetitivos. Defende que deve prevalecer a orientação estabelecida no acórdão paradigma - isto é, de que a baixa complexidade do caso concreto não pode ser considerada como elemento para afastar os percentuais previstos na lei e que "a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados".
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 10 de outubro de 2023.
+O recurso é manifestamente inadmissível.
+Com efeito, a parte embargante não demonstrou a similitude fática e jurídica.
+Ao contrário do que foi por ela narrado, o fundamento central adotado para justificar o arbitramento dos honorários fora dos parâmetros do art. 85, § 3º, do CPC não foi o suposto valor elevado da causa nem a complexidade da matéria - observo, a esse respeito, que o aresto embargado sequer especifica qual seria o valor da causa ou descreve detalhadamente os parâmetros que evidenciariam a complexidade (alta ou baixa) da demanda.
+O que lá foi dito - e absolutamente não consta como apreciado no indicado paradigma, bem como certamente não foi realizado o cotejo analítico pela embargante - é que o proveito econômico já foi utilizado para arbitramento dos honorários advocatícios em Ação Ordinária conexa, cuja sentença resultou no esvaziamento do proveito econômico da Execução Fiscal, sob pena de utilização do mesmo parâmetro em duplicidade (non bis in eadem).
+O dissídio somente estaria demonstrado em sua dupla dimensão (similitude fática e jurídica) se o decisum paradigma tivesse enfrentado a questão no mesmo contexto, ou seja, concluindo ser possível a utilização, por duas vezes, do mesmo critério (valor do proveito econômico), ainda que ambas as demandas (Execução Fiscal e Ação Ordinária a ela conexa) discutissem um único e idêntico débito.
+Diante do exposto, indefiro liminarmente os Embargos de Divergência.
+Publique-se.
+Intimem-se.
+EMENTA
