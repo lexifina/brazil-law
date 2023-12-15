@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte (fl. 635, e-STJ):
+DIREITO PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO INTERNO. TEMA 962/STF. IRPJ/CSL. SELIC. EMBARGOS DE DECLARAÇÃO NO RE 1.063.187. DELIMITAÇÃO DOS RESPECTIVOS EFEITOS. ALCANCE TEMPORAL E MATERIAL DA INCONSTITUCIONALIDADE.
+1. A decisão agravada destacou, em primeiro plano, a interpretação da Corte Superior sobre o alcance do disposto no artigo 932, CPC, ressaltando o cabimento da apreciação monocrática, a partir de tal permissivo, também em caso de jurisprudência dominante de Tribunal Superior, sem prejuízo da impugnação à decisão do relator através de agravo interno para exame colegiado da pretensão, não subsistindo, assim, vício capaz de anular o julgamento por tal fundamento. Assim, tendo a decisão agravada demonstrado encontrar-se respaldada em entendimento jurisprudencial consolidado na Corte Superior, não tem espaço nem relevância eventual impugnação à aplicação do artigo 932, CPC, mesmo porque a controvérsia, com o agravo interno, foi integralmente devolvida à apreciação da Turma.
+2. No julgamento do RE 1.063.187 fixou-se tese jurídica vinculante de que "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa (Tema 962). Selic recebidos em razão de repetição de indébito tributário"
+3. Em embargos de declaração, acolhidos em parte, a Suprema Corte decidiu que: (1) o RE 1.063.187, Tema 962, não abrange senão a taxa SELIC, de modo que outros índices, ainda que a título de juros no ressarcimento de indébito fiscal, encontram-se fora do alcance do paradigma vinculante; (2) o paradigma não alcança casos de SELIC aplicada em outras situações como, por exemplo, saldos de depósitos judiciais levantados pelo contribuinte em demandas tributárias; e (3) os efeitos da declaração judicial de inconstitucionalidade da incidência de IRPJ/CSL sobre taxa SELIC em ressarcimento de indébito fiscal, foram assim modulados: "seus efeitos serão ex nunc a partir de 30/9/2021 (data da publicação da ata de julgamento do mérito), ficando ressalvados: a) as ações ajuizadas até 17/9/21 (data do início do julgamento do mérito); b) os fatos geradores anteriores a 30/9/21 em relação aos quais não tenha havido o pagamento do IRPJ ou da CSLL a que se refere a tese de repercussão geral, nos termos do voto do Relator.".
+4. Quanto ao PIS/COFINS, não se aplica, dada a especificidade da tributação discutida em seus variados aspectos, inclusive constitucional, o entendimento deduzido para o IRPJ/CSL, pois aquela incidência tem como matriz constitucional não o lucro ou acréscimo patrimonial, mas, especificamente, receita ou faturamento, que se definem como o resultado auferido pelo contribuinte, independentemente do caráter indenizatório ou remuneratório do respectivo valor, não sendo alcançado, pois, pela exegese dada pela Suprema Corte no paradigma aplicado ao IRPJ/CSL. Tampouco cabe cogitar da pertinência do RE 574.706, pois a exclusão do ICMS da base de cálculo do PIS/COFINS decorreu, essencialmente, do entendimento de que se trata de valor repassado ao Estado e que, embora transite pela contabilidade empresarial, não configura receita própria do contribuinte, bem ao contrário do valor relativo à SELIC paga em repetição de indébito fiscal, compensação, pedido de restituição ou levantamento de depósito judicial em ação tributária vencida pelo contribuinte.
+5. Agravo interno desprovido.
+Os Embargos de Declaração foram rejeitados (fl. 695, e-STJ).
+No Recurso Especial, as agravantes sustentam que ocorreu, além de divergência jurisprudencial, ofensa aos arts. 489, § 1º, IV e V, e 1.022, II, do CPC; 3º e 9º da Lei 9.718/1998; 97, 110, 161, 165 e 167 do CTN; e 74 da Lei 9.430/1996. Afirmam que houve negativa de prestação jurisdicional. Alegam a não incidência de PIS/Cofins sobre os valores percebidos a título de taxa Selic (correção monetária e juros de mora), decorrentes da repetição de tributos indevidamente recolhidos.
+Contrarrazões às fls. 787-795, e-STJ.
+Inadmitiu-se a irresignação (fls. 802-808, e-STJ), o que deu ensejo à interposição do Agravo de fls. 810-817, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.11.2023.
+O presente apelo não ultrapassa a barreira de admissibilidade.
+O Recurso Especial foi inadmitido por: a) inexistência de violação dos arts. 489 e 1.022 do CPC no acórdão recorrido; e b) aplicação da Súmula 83/STJ (fls. 802-808, e-STJ).
+Em que pese o caráter sucinto da decisão agravada, verifica -se que as recorrentes não rebateram efetivamente os tópicos acima evidenciados. Relativamente ao item "b", limitaram-se a afirmar genericamente que "não há posicionamento consolidado"(fl. 817, e-STJ), sem, contudo, apontar nenhum julgado desta Corte Superior em sentido contrário ao entendimento adotado pela Corte regional.
+Com efeito, caberia às partes recorrentes demonstrar efetivamente que os precedentes indicados no decisum combatido não se aplicam à hipótese dos autos ou que o tema não está pacificado, providência da qual não se desincumbiram.
+Ilustrativamente, cito:
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP).
+2. Como o apelo nobre foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial nesta Corte não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP (Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.579.338/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1º/7/2020)
+Conforme a inteligência do art. 932, III, do CPC/2015 e a orientação jurisprudencial consagrada na Súmula 182/STJ, é necessário impugnar especificamente todos os fundamentos que embasaram a inadmissão do Recurso Especial, sob pena de não conhecimento do Agravo. A Corte Especial reafirmou tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, publicado em 30.11.2018.
+Nessa esteira:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+(AgInt no AREsp 2.061.874/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 8/6/2022)
+Desse modo, ante a impugnação deficiente, aplicam-se à espécie a Súmula 182/STJ e o art. 932, III, do CPC.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
