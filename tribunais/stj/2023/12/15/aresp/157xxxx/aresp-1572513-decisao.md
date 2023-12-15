@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo e m recurso especial, interposto por USINA RIO VERDE LTDA EM RECUPERACAO JUDICIAL, contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c", do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO RETARDATÁRIA. REJEIÇÃO POR INTEMPESTIVIDADE. DISCUSSÃO SOBRE O DÉBITO ATRIBUÍDO PELO ADMINISTRADOR. POSSIBILIDADE. ÓBICE AFASTADO. 1. A Lei de Falê ncias e Recuperação Judicial prevê a possibilidade de habilitação retardatária de créditos (Lei nº 11.101/2005, art. 10), admitida inclusive após a homologação do quadro geral de credores (§ 6º). 2. Se mesmo a habilitação tardia é possível, também o é a discussão sobre o valor já incluído desde o início na lista geral de credores pelo administrador, pois Cui licet quod est plus, licet utique quod est minus (quem pode o mais, pode o menos). 3. AGRAVO CONHECIDO E PROVIDO. DECISÃO REFORMADA." (Fl. 1107).
+Embargos de declaração rejeitados às fls. 1155/1167.
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 8º da Lei nº 11.101/05 e 218, 223, e 1.022, II, do CPC..
+Sustenta haver negativa de prestação jurisdicional por parte do Tribunal a quo, ao afirmar que "é ululante a omissão em não se manifestar sobre a aplicação da regra dos arts. 8º da Lei nº 11.101/05 e 218 e 223 do CPC" (fl. 1190).
+Afirma, ainda, que a impugnação de crédito apresentada intempestivamente não pode ser recebida como incidente retardatário, já que não cabe a aplicação analógica do que é disciplinado para a habilitação de crédito.
+Contrarrazões às fls. 1244/1257.
+É o relatório. Decido.
+Quanto à suposta negativa de prestação jurisdicional, tendo em vista as omissões alegadas, não assiste razão à parte recorrente.
+Com efeito, da análise acurada dos autos, verifica-se que o Tribunal a quo apreciou toda a matéria levada à sua análise, sobretudo o conteúdo normativo dos dispositivos legais indicados como violados, in verbis:
+"A controvérsia posta nos presentes autos cinge-se a definir se correta ou não a decisão, ao entender pela intempestividade da impugnação de crédito ajuizada pelo ora agravante, nos termos dos artigos 7º, 8º e 10º da Lei nº 11.101/2005.
+Da acurada análise dos autos, verifica-se que razão assiste ao banco agravante.
+Isso porque o artigo 10 da LF prevê a possibilidade de habilitação retardatária dos créditos, acaso fluído o prazo descrito no § 1º do art. 7º
+(..)
+Como se vê, a fluência do prazo regular de habilitação não obsta o exercício da pretensão de recebimento, sujeitando entretanto o retardatário às consequências de sua desídia.
+Na recuperação judicial, os titulares de créditos retardatários, excetuados os titulares de créditos derivados da relação de trabalho, não terão direito a voto nas deliberações da assembleia geral de credores. O mesmo se aplica à falência, salvo se, na data da realização da assembleia geral, já houver sido homologado o quadro geral de credores contendo o crédito retardatário.
+Na falência, embora possam pleitear reserva de valores, os créditos retardatários perderão o direito a rateios eventualmente realizados e ficarão sujeitos ao pagamento de custas, não se computando os acessórios compreendidos entre o término do prazo e a data do pedido de habilitação.
+Nem mesmo a homologação do quadro geral de credores impede o exercício posterior da pretensão a créditos eventualmente não incluídos pelo administrador, como demonstra o § 6º do art. 10, transcrito acima.
+Assim, se nem mesmo o exercício da pretensão ao recebimento é obstado pela fluência do prazo legalmente previsto, creio igualmente não se aplicar tal restrição à discussão dos créditos já incluídos na lista de credores, pois, conforme brocardo amplamente difundido na ciência do Direito, Cui licet quod est plus, licet utique quod est minus (quem pode o mais, pode o menos).
+(..)
+Nesse contexto, conclui-se que seria ilógico e injusto garantir ao credor que não atendeu ao primeiro edital provocar serodiamente a atuação do juízo para retificar o quadro geral de credores e não assegurar isonomicamente a mesma oportunidade àquele que, como aqui, atendeu ao prazo de habilitação e apresentou a documentação lastreadora de sua divergência ao primeiro edital, sem, contudo, prosseguir na tempestiva continuidade de sua manifestação no prazo da impugnação." (Fls. 1100/1104).
+Assim, realmente, não prospera a alegada ofensa ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no REsp n. 2.009.408/AM, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 3/4/2023; AgInt no AgInt no AgInt no REsp n. 1.963.364/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/3/2023; AgInt no AgInt no AREsp n. 2.040.618/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 23/3/2023; AgInt no REsp n. 1.896.188/AM, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/3/2023; e AgInt no AREsp n. 2.121.287/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 16/3/2023.
+Contudo, o acórdão recorrido está em confronto com os entendimentos firmados por este Superior Tribunal de Justiça.
+Como visto, o Tribunal de origem concluiu pela possibilidade de recebimento da impugnação de crédito intempestiva como habilitação retardatária.
+Conforme entendimento desta Corte Superior, "é intempestiva a impugnação de crédito apresentada fora do prazo de 10 (dez) dias previsto no caput do art. 8º da Lei n. 11.101/2005, não sendo possível recebê-la como impugnação retardatária, considerando o caráter peremptório específico do prazo expressamente estipulado pela lei de regência" (AgInt no REsp n. 1.822.979/AC, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/4/2023, DJe de 20/4/2023). A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. INTEMPESTIVIDADE. PRAZO. INOBSERVÂNCIA. PRECLUSÃO. SÚMULA Nº 83/STJ. FUNDAMENTO NÃO ATACADO. SÚMULAS NºS 283 E 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou jurisprudência no sentido de que é intempestiva a impugnação de crédito apresentada fora do prazo de 10 (dez) dias previsto no caput do art. 8º da Lei nº 11.101/2005, não sendo possível recebê-la como impugnação retardatária, nos moldes em que é facultada a habilitação do credor.
+Súmula nº 83/STJ.
+3. A ausência de impugnação de fundamento suficiente para manter incólume o acórdão recorrido atrai o óbice das Súmulas nºs 283 e 284/STF.
+4. Agravo interno não provido."
+(AgInt nos EDcl no AREsp n. 1.822.364/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/11/2022, DJe de 9/12/2022)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. ACÓRÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos.
+2. Segundo entendimento jurisprudencial desta Corte, é intempestiva a impugnação de crédito apresentada fora do prazo de 10 (dez) dias previsto no caput do art. 8º da Lei n. 11.101/2005.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.459.731/RS, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/8/2022, DJe de 18/8/2022)
+"DIREITO EMPRESARIAL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO APRESENTADA APÓS O PRAZO DE 10 DIAS. RECEBIMENTO COMO IMPUGNAÇÃO RETARDATÁRIA. IMPOSSIBILIDADE. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "A Lei de Recuperação e Falência (Lei nº 11.101/2005) prevê um microssistema próprio em que a celeridade e a efetividade se impõem, com prazos próprios e específicos, que, via de regra, devem ser breves, peremptórios, inadiáveis e, dessa forma, contados de forma contínua" (AgInt no AREsp 1.548.027/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe de 31/08/2020).
+2. "É intempestiva a impugnação de crédito apresentada fora do prazo de 10 dias previsto no caput do art. 8º da Lei nº 11.101/05. Referida norma contém regra de aplicação cogente, que revela, sem margem para dúvida acerca de seu alcance, a opção legislativa a incidir na hipótese concreta. Trata-se de prazo peremptório específico, estipulado expressamente pela lei de regência" (REsp 1.704.201/RS, Rel. p/ acórdão Ministra NANCY ANDRIGHI, Terceira Turma, j. 7/5/2019, DJe de 24/5/2019).
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.031.584/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/6/2022, DJe de 29/6/2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. LEI Nº 11.101/2005. CONTAGEM DE PRAZOS. CÔMPUTO EM DIAS CORRIDOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Lei de Recuperação e Falência (Lei nº 11.101/2005) prevê um microssistema próprio em que a celeridade e a efetividade se impõem, com prazos próprios e específicos, que, via de regra, devem ser breves, peremptórios, inadiáveis e, dessa forma, contados de forma contínua. Precedentes.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 1.548.027/MT, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/8/2020, DJe de 31/8/2020)
+Diante do entendimento desta Corte Superior, é de rigor o provimento do recurso especial, a fim de adequar o julgamento do caso concreto ao entendimento do Superior Tribunal de Justiça.
+Com esses fundamentos, conheço do agravo para conhecer e dar provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que proceda a um novo julgamento da causa à luz da jurisprudência desta Corte.
+Publique-se.
+EMENTA
