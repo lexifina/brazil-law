@@ -1,0 +1,40 @@
+DECISÃO
+Na origem, trata-se de "embargos à execução" propostos por PROVAR NEGÓCIOS DE VAREJO LTDA. contra o MUNICÍPIO DE UBERLÂNDIA, em sede de execução fiscal, que tem por objeto a CDA nº 130.455/2014, oriunda de cobrança de multa aplicada no valor de R$ 19.330,24 (dezenove mil, trezentos e trinta reais e vinte e quatro centavos), originada do processo administrativo nº 409/09, instaurado pelo Procon do Município de Uberlândia/MG, em razão de suposta infração consumerista.
+A sentença julgou procedentes "os embargos à execução ajuizado por PROVAR NEGÓCIOS DE VAREJO LTDA. face da execução fiscal promovida pelo MUNICÍPIO DE UBERLÂNDIA, julgando extinto o processo com resolução do mérito, nos termos do art. 487, I do CPC, para declarar nula a Certidão de Dívida Ativa nº 130.455/2014" (fl. 426).
+O Tribunal de Justiça do Estado de Minas Gerais, por maioria, não conheceu da apelação do Município de Uberlândia, nos seguintes termos:
+EMENTA: APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - DEFEITO NA REPRESENTAÇÃO PROCESSUAL - ART. 76, §2º, INCISO I DO CPC/15 - RECURSO NÃO CONHECIDO.
+Conforme art. 76 do CPC/15, verificada a incapacidade processual ou a irregularidade da representação da parte, o Juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício.
+Não cumprida a determinação em fase recursal o não conhecimento do recurso é medida que se impõe, nos termos do art. 76, §2º, inciso I do CPC/15.
+(v.v) EMENTA: APELAÇÃO CÍVEL - PROCESSUAL CIVIL - EMBARGOS À EXECUÇÃO - REPRESENTAÇÃO PROCESSUAL: MUNICÍPIO. A representação processual de Município dispensa a exibição de instrumento de mandato de procuradores investidos na condição de servidores municipais. (fl. 461).
+Nas razões do recurso especial, interposto por ambas as alíneas do permissivo constitucional, o município apontou violação ao art. 75, III, do CPC, ao fundamento de que "o acórdão ignorou a representação processual do Município por meio da procuradora municipal devidamente qualificada na peça recursal protocolada, com a indicação de seu número de matrícula. A orientação jurisprudencial deste Egrégio Tribunal Superior já decidiu, no AgRg no Recurso Especial nº 1.099.741 - SP, "a representação processual de município independe de instrumento de mandato, desde que seus procuradores estejam investidos na condição de servidores municipais, por se presumir conhecido o mandato pelo seu título de nomeação ao cargo". Assim, a teor do art. 105, III, "a" e "c" da Carta Magna, o Apelo Especial surge como o único instrumento posto à disposição do recorrente para modificar a decisão do Tribunal a quo e restabelecer o correto sentido da legislação acima elencada" (fl. 469).
+Recurso contrarrazoado e admitido.
+É o relatório. Decido.
+A pretensão merece prosperar.
+Com efeito, não se olvida que a jurisprudência desta Corte é firme no sentido de que a representação processual de Município independe de instrumento de mandato, desde que seus procuradores estejam investidos na condição de servidores municipais, por se presumir conhecido o mandato pelo seu título de nomeação ao cargo.
+A propósito:
+PROCESSUAL CIVIL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. AÇÃO DE RESTITUIÇÃO DE VALORES. REPRESENTAÇÃO JUDICIAL. PROCURADOR MUNICIPAL. AUSÊNCIA DE PROVA DA CONDIÇÃO DE SERVIDOR. NECESSIDADE DE INTIMAÇÃO PARA REGULARIZAÇÃO DO VICIO.
+1. Hipótese em que a Corte de origem deu provimento ao recurso de Apelação da ora agravada para determinar que os autos retornassem ao Juízo da primeira instância, a fim de proceder à intimação do Município de Manaus, para determinar que este comprove a condição de servidora pública da Procuradora que o representa judicialmente.
+2. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, a representação processual dos entes públicos independe de instrumento de mandato, desde que seus procuradores estejam investidos na condição de servidores públicos, por se presumir conhecido o mandato pelo seu título de nomeação ao cargo.
+(..)
+5. Agravo Interno não provido.
+(AgInt no REsp nº 1.888.715/AM, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 01/03/2021 - grisou-se)
+PROCESSUAL CIVIL. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. NÃO OCORRÊNCIA. REPRESENTAÇÃO JUDICIAL DO MUNICÍPIO. SUBSCRITOR DO APELO NOBRE. AUSÊNCIA DE PROVA DE QUE INTEGRA O QUADRO DA PROCURADORIA. SÚMULA 115 DO STJ. INCIDÊNCIA.
+ ..
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, a representação processual dos entes públicos independe de instrumento de mandato, desde que seus procuradores estejam investidos na condição de servidores públicos, por se presumir conhecido o mandato pelo seu título de nomeação ao cargo.
+4. Hipótese em que o subscritor do recurso especial se identificou apenas pelo registro de sua inscrição na OAB/MG, não constando nos autos o número de sua matrícula nem documento comprobatório de que integra o quadro da procuradoria municipal, tampouco utilizou-se de papel timbrado do ente público para peticionar, mas sim do escritório de advocacia.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp nº 940.211/MG, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 09/03/2017 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTARQUIA MUNICIPAL. AUSÊNCIA DE QUADRO PRÓPRIO DE PROCURADORES. JUNTADA DE PROCURAÇÃO. IMPRESCINDIBILIDADE. RECURSO ESPECIAL E AGRAVO NÃO CONHECIDOS, PELA APLICAÇÃO DA SÚMULA 115/STJ. INAPLICABILIDADE DOS ARTS. 13 E 37 DO CPC, NA INSTÂNCIA ESPECIAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Consoante entendimento jurisprudencial desta Corte, é dispensável a exibição, pelos procuradores de Município, do instrumento de procuração, desde que estejam eles investidos da condição de servidores municipais, por se presumir conhecido o mandato, pelo seu título de nomeação. Precedentes do STJ: EDcl no AgRg no Ag 1.385.162/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/10/2011; AgRg no Ag 1.338.172/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 04/02/2011, AgRg no Ag 1.252.853/DF, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, DJe de 15/06/2010.
+(..)
+III. É pacífico nesta Corte o entendimento no sentido de que a regularidade da representação processual deve ser comprovada no ato da interposição do recurso, considerando-se inexistente a irresignação apresentada por advogado sem procuração nos autos, sendo impossível a "aplicação dos arts. 13 e 37, segunda parte, ambos do Código de Processo Civil, a fim de que o defeito seja sanado, porquanto tal providência revela-se incompatível com a instância especial" (STJ, AgRg no AREsp 321.374/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 07/04/2015).
+IV. Agravo Regimental improvido.
+(AgRg no AREsp n. 763.333/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 3/11/2015, DJe de 17/11/2015 - grifou-se)
+No caso, ao que consta dos autos, a subscritora da apelação - e, agora, do apelo nobre - trata-se, na verdade, de advogada municipal, procuradora pertencente ao quadro da municipalidade, tendo constado, além de sua OAB, o número de sua matrícula, com a utilização, inclusive, de papel timbrado da Procuradoria Geral do Município, sendo dispensável sua procuração (fl. 431-436).
+Outra, a propósito, não foi a compreensão firmada no voto-vencido, in verbis:
+Senhor Presidente, divirjo do voto do Relator, quanto à PRELIMINAR DE IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL suscitada de ofício, haja vista que a representação processual do MUNICÍPIO dispensa a exibição de instrumento de mandato de procuradores investidos na condição de servidores municipais, como se verifica no caso ora sob julgamento. (fls. 463-464)
+Diante do exposto, dou provimento ao recurso especial, para, afastando a nulidade da representação processual, determinar o retorno dos autos ao Tribunal de origem, para que prossiga no julgamento da apelação, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
