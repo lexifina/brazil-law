@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED DE PINDAMONHANGABA COOPERATIVA DE TRABALHA MÉDICO contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acordão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Plano de saúde coletivo empresarial. Pleito de manutenção de ex-beneficiário no plano de saúde coletivo, nas mesmas condições anteriores ao seu desligamento da empresa estipulante, na qual trabalhava como estagiário. Plano de saúde coletivo custeado exclusivamente pelo empregador. Segurado que não contribui com o efetivo custeio de parcelas do seguro. Fato incontroverso. Orientação pacificada pelo C. Superior Tribunal de Justiça, quando do julgamento dos Recursos Especiais nºs 1.680.318/SP e 1.708.104/SP. Requisitos do artigo30 da Lei nº 9.656/98 não preenchidos. Operadora de saúde que, no entanto, não oportunizou a migração do autor para apólice de seguro familiar ou individual sem cumprimento de carências. Inobservância do art. 1º da Resolução nº 19/99 do CONSU. Beneficiário, ademais, que sofreu grave acidente na vigência da apólice de seguro. Sequelas neurológicas gravíssimas decorrentes de politraumatismo craniano. Internação domiciliar com uso de sonda gastrostomica e enteral, uso contínuo de medicamentos e respiração mecânica BIPAP. Necessidade de tratamento médico contínuo (art. 35-E, inciso IV, da Lei nº 9.656/98). Parte hipossuficiente que não pode ser surpreendida com a abrupta ruptura da cobertura securitária. Admissibilidade que deve ser conjugada com a relevância do objeto e do negócio quando seus efeitos alcançam idosos e enfermos. Princípio da função social do contrato. Precedentes. Sentença parcialmente reformada. Recurso parcialmente provido" (fl. 523 e-STJ).
+Os embargos de declaração foram acolhidos sem efeito modificativo (fls. 609/614 e-STJ).
+Em suas razões, a operadora recorrente alegou violação dos artigos 30, caput e §6º, da Lei nº 9.656/1998, 2 e 6, §2º, da RN 279 da ANS e 458, §2º, da Consolidação das Leis Trabalhistas.
+Defende que o recorrido não preenche os requisitos para manutenção do plano, pois tem contrato de estágio com prazo determinado e não adimpliu nenhuma contribuição relativa ao plano de saúde.
+Contrarrazões às fls. 619/640 (e-STJ).
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+Por meio da petição de fls. 688/690, foi comunicado o óbito do recorrido, autor da ação.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O presente recurso encontra-se prejudicado.
+Conforme consta na petição inicial, o pedido formulado diz respeito à obrigação de fazer abaixo descrita:
+"A PROCEDÊNCIA da presente ação, condenando a requerida à manutenção do plano médico ao Requerente, nos mesmos moldes da cobertura assistencial de que usufruía durante a vigência do contrato de trabalho, pelo mesmo valor, com os pagamentos do valor total ao encargo do autor, ATÉ O FIM DE SUA CONVALESCÊNÇA" (fl. 10 e-STJ)
+De fato, o pedido trata-se de obrigação personalíssima, intransmissível aos herdeiros/sucessores do demandante/recorrido.
+Nessa hipótese, a jurisprudência desta Corte Superior uniformizou entendimento pela efetiva prejudicialidade do recurso, independentemente da eventual alegação de dano processual decorrente do cumprimento de tutela provisória.
+Nesse sentido:
+"EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. APONTADA DIVERGÊNCIA ENTRE O ACÓRDÃO DA QUARTA TURMA COM ACÓRDÃOS DA PRIMEIRA, SEGUNDA E TERCEIRA TURMAS. CISÃO DE JULGAMENTO. DESNECESSIDADE. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRETENSÃO DE COBERTURA DE TRATAMENTO MÉDICO. DEFERIMENTO DA TUTELA ANTECIPADA. FALECIMENTO DA PARTE AUTORA NO CURSO DO PROCESSO. DIREITO PERSONALISSÍMO. INTRANSMISSIBILIDADE DA OBRIGAÇÃO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Ação de obrigação de fazer ajuizada em 05/11/2015, da qual foram extraídos os embargos de divergência, opostos em 14/12/2010 e conclusos ao gabinete em 22/07/2021.
+2. O propósito recursal consiste em dirimir divergência sobre a extinção do processo, sem resolução do mérito, na hipótese de falecimento da parte autora, no curso do processo em que se deduz pretensão de custeio de tratamento de saúde, quando a parte ré pleiteia a reparação dos eventuais danos processuais suportados com o deferimento da antecipação dos efeitos da tutela.
+3. A jurisprudência do STJ orienta que não há necessidade da cisão de julgamento dos embargos de divergência na Corte Especial, com remessa à Seção, quando a parte embargante sustenta uma única tese e a suposta divergência também ocorre em relação a julgados de outras Seções. Precedente da Corte Especial.
+4. Esta Corte já decidiu que, nas ações relativas a fornecimento de medicação ou custeio de tratamento médico hospitalar, o óbito da parte autora no curso do processo enseja a sua extinção sem resolução de mérito, diante da natureza intransmissível e personalíssima do direito à saúde.
+5. A morte da parte autora torna inservível o cumprimento da decisão que deferiu a antecipação dos efeitos da tutela, porquanto a ninguém mais aproveitará o tratamento pleiteado, a cuja cobertura foi obrigada a operadora do plano de saúde.
+6. Há diferença entre o pedido de simples reembolso de despesas com saúde - obrigação de pagar, de natureza eminentemente patrimonial e, portanto, transmissível - e o pedido de cobertura de tratamento médico - obrigação de fazer, de natureza personalíssima, que, embora tenha expressão econômica, é intransmissível e, portanto, não admite a sucessão processual.
+7. Hipótese em que, ocorrida a morte da parte autora e reconhecida a intransmissibilidade do direito em litígio, deve ser extinto o processo sem resolução do mérito, não se admitindo o seu prosseguimento, sobretudo com a reabertura da instrução probatória, apenas para apuração de eventual dano processual sofrido pela ré em decorrência do cumprimento da decisão que deferiu a antecipação dos efeitos da tutela.
+8. Embargos de divergência conhecidos e acolhidos" (EAREsp 1.595.021/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 15/2/2023, DJe de 25/4/2023 - grifou-se).
+Assim, imperiosa a extinção do processo, ficando prejudicado o recurso especial.
+Ante o exposto, julgo extinto o processo, sem resolução do mérito, por perda superveniente de objeto, nos termos do art. 485, IX, do CPC, ficando PREJUDICADO o recurso especial.
+Custas e honorários advocatícios pela ora recorrente, arbitrados em R$ 5.000,00 (cinco mil reais), nos termos do art. 85, §§2º e 8º, do CPC, tendo em vista o baixo valor da causa.
+Publique-se.
+Intimem-se.
+EMENTA
