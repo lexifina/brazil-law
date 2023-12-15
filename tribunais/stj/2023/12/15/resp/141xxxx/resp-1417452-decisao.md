@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+EMBARGOS À EXECUÇÃO. IPSEMG. PENSÃO POR MORTE. DEFASAGEM. REAJUSTE. PAGAMENTO A MENOR E SENTENÇA CONDENATÓRIA. PERÍODO ANTERIOR A JUNHO DE 2009. NÃO INCIDÊNCIA DO SISTEMÁTICA DE JUROS E CORREÇÃO FIXADA PELO ART. 1º-F, DA LEI 9497/97. APLICAÇÃO IMEDIATA QUE NÃO SE CONFUNDE COM EFEITOS RETROATIVOS.
+-Se tanto a condenação proferida contra o IPSEMG, como o pagamento a menor das parcelas de pensão por morte a que se refere, são anteriores a junho de 2009, não há falar na incidência do art. 1º - F, da Lei 9497/97, na redação que lhe conferiu a Lei 11.960/2009.
+-A natureza instrumental das regras versando sobre a incidência de juros e correção monetária conferem-lhe aplicabilidade imediata, alcançando os processos já em curso quando de sua entrada em vigor. Contudo, sendo referidas normas balizadas pelo principio do "tempus regit actum", se afiguram destituídas de efeitos retroativos, de modo que não incidem quando se trata de condenações proferidas em momento anterior à sua vigência.
+Em juízo prévio de admissibilidade, o STJ determinou o retorno dos autos ao Tribunal de origem para que houvesse a adequação do seu posicionamento ao Tema 905/STJ, se fosse o caso.
+Após o julgamento de readequação, a Vice-Presidência da Corte a quo posicionou-se no seguinte sentido:
+Trata-se de recurso especial interposto pelo Instituto de Previdência dos Servidores do Estado de Minas Gerais (lpsemg), em que se discute a aplicabilidade do disposto no art. 1 º-F da Lei nº9.494/97, com redação dada pela Lei nº 11.96012009, em relação às condenações impostas á Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora.
+Admitido o recurso por esta Vice-Presidência, foram os autos remetidos ao " Superior Tribunal de Justiça (STJ), que determinou sua devolução para observância da sistemática dos recursos repetitivos relativamente ao Tema nº 905 - REsp nº 1.492.221/PR, REsp nº 1.495.144/RS e REsp nº 1.495.146/MG.
+Em seguida, foram os autos encaminhados ao Órgão Julgador para fins do disposto nos arts. 1.030, II, e 1.040, II, do Código de Processo Civil, tendo o Colegiado, no exercício do juízo de retratação, se reposicionado, modificando o acórdão recorrido quanto à incidência da correção monetária e dos juros de mora no caso e adotando critérios próprios das condenações impostas à Fazenda Pública de natureza previdenciária (fis. 129-1 33).
+Esse posicionamento, no entanto, parece destoar do entendimento firmado pelo STJ no julgamento do Tema nº 905, notadamente quanto à conclusão sobre a natureza previdenciária da condenação, cujo tópico correspondente da tese repetitiva parece restringir-se às condenações relacionadas ao regime geral de previdência social, enquanto o presente caso discute verbas remuneratórias devidas à pensão por morte de servidor público.
+Tendo, pois, sido os consectários legais estipulados, ao que parece, em dissonância com o estabelecido em precedente da sistemática dos recursos repetitivos, a ascensão do recurso é medida que se impõe.
+Tendo, pois, sido os consectários legais estipulados, ao que parece, em dissonância com o estabelecido em precedente da sistemática dos recursos repetitivos, a ascensão do recurso é medida que se impõe.
+Dessarte, esgotada a aplicação da sistemática dos recursos repetitivos no Tribunal de origem e já tendo sido proferido juízo positivo de admissibilidade quanto ao recurso especial, determino a devolução dos autos ao Superior Tribunal de Justiça.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.10.2023.
+Na hipótese dos autos, a questão se amolda à orientação firmada por ocasião do julgamento do Tema 905/STJ, ratificando-se que, nas condenações judiciais de natureza previdenciária - como é o caso dos autos - deve ser aplicado o que estabelece o item 3.2 do acórdão paradigma firmado no REsp 1.495.146/MG - Tema 905, de forma que, no período posterior à vigência da Lei n. 11.430/2006, que incluiu o art. 41-A na Lei n. 8.213/1991, deverá ser aplicado o INPC a título de correção monetária, índice que deverá ser mantido mesmo após a vigência da Lei n. 11.960/2009. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AÇÃO DE NATUREZA PREVIDENCIÁRIA. PRESTAÇÕES VENCIDAS. CORREÇÃO MONETÁRIA. ADEQUAÇÃO AO RESP N. 1.495.146/MG (TEMA 905), JULGADO SOB O RITO DOS RECURSOS REPETITIVOS.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Ratifica-se, nas condenações judiciais de natureza previdenciária, deve ser aplicado o que estabelece o item 3.2 do acórdão paradigma firmado no REsp 1.495.146/MG - Tema 905, de forma que, no período posterior à vigência da Lei n. 11.430/2006, que incluiu o art. 41-A na Lei n. 8.213/1991, deverá ser aplicado o INPC a título de correção monetária, índice que deverá ser mantido mesmo após a vigência da Lei n. 11.960/2009.
+3. A decisão recorrida está em sintonia com o atual entendimento do STJ, motivo pelo qual não merece ser acolhida a postulação.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.992.472/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/8/2022, DJe de 24/8/2022.)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RI STJ e da Súmula 568/STJ, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
