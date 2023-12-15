@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MATÉRIA DE ORDEM PÚBLICA. PRESCRIÇÃO INTERCORRENTE. ALEGAÇÃO DE IMPENHORABILIDADE. NÃO COMPROVAÇÃO. DECISÃO MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+1-A rejeição da exceção de pré-executividade pelo juízo da origem se deu pelo fato de que o bloqueio judicial nas contas bancarias dos sócios foi realizado em 12/01/2022, os extratos bancários juntados pelo sócio André Luis Vilela no evento 93 fazem menção aos meses de novembro e dezembro do ano de 2021 e janeiro do ano de 2022 registrando intensa movimentação financeira, com entradas e saídas de valores em sua conta bancária perante o Banco Itaú.
+2- Do extrato do mês de janeiro, verifico que no dia 03/01/2022 havia saldo bancário no montante de R$ 1.691,36 (um mil, seiscentos e noventa e um reais e trinta e seis centavos). No dia 07/01/2022 foi creditado em sua conta bancaria o montante de R$ 1.189,00 (um mil, cento e oitenta e nove reais) valor alegado de seu seguro desemprego, contudo, não há comprovação nos autos da sua origem. O valor total bloqueado perfaz a monta de R$ 2.243,77 (dois mil, duzentos e quarenta e três reais e setenta e sete centavos).
+3- Neste esteio, verifico que em razão do acima exposto, não há como definir com exatidão que os valores constritos perante a conta bancária do Itaú pertencente ao sócio André Luis Vilela é impenhorável. Portanto, imperioso o indeferimento do pedido formulado (sic).
+4- Decisão mantida. Recurso conhecido e improvido.
+No Recurso Especial, os agravantes apontam violação, em preliminar, do art. 489 do CPC; no mérito, dos arts. 833 e 927 do CPC. Alegam que são impenhoráveis os valores poupados pelos devedores, seja em caderneta de poupança, conta corrente, fundo de investimentos ou em papel moeda até o limite de quarenta salários mínimos. Destacam a redação do inciso IV do art. 833 do CPC, no qual se frisa que o executado não pode sofrer a constrição de bens de cunho degradante e desumano que possa inviabilizar suas condições existenciais mínimas para uma vida saudável.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3 de dezembro de 2023.
+A irresignação esbarra no óbice da Súmula 7 do STJ.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido:
+Nesse contexto, consoante assinalado na decisão ora combatida, a rejeição da exceção de pré-executividade pelo juízo da origem se deu pelo fato de que o bloqueio judicial nas contas bancarias dos sócios foi realizado em 12/01/2022, os extratos bancários juntados pelo sócio André Luis Vilela no evento 93 fazem menção aos meses de novembro e dezembro do ano de 2021 e janeiro do ano de 2022 registrando intensa movimentação financeira, com entradas e saídas de valores em sua conta bancária perante o Banco Itaú. Do extrato do mês de janeiro, verifico que no dia 03/01/2022 havia saldo bancário no montante de R$ 1.691,36 (um mil, seiscentos e noventa e um reais e trinta e seis centavos). No dia 07/01/2022 foi creditado em sua conta bancaria o montante de R$ 1.189,00 (um mil, cento e oitenta e nove reais) valor alegado de seu seguro desemprego, contudo, não há comprovação nos autos da sua origem. O valor total bloqueado perfaz a monta de R$ 2.243,77 (dois mil, duzentos e quarenta e três reais e setenta e sete centavos).
+Neste esteio, verifico que em razão do acima exposto, não há como definir com exatidão que os valores constritos perante a conta bancária do Itaú pertencente ao sócio André Luis Vilela é impenhorável. Portanto, imperioso o indeferimento do pedido formulado (sic).
+Desse modo, alterar o entendimento adotado pela Corte local - que afastou a impenhorabilidade da conta do recorrente - demandaria nova incursão no acervo fático-probatório dos autos, providência inviável na via eleita ante o óbice imposto pela Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, ressalte-se que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1.472.530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/10/2014)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à contrariedade ao art. 489 do CPC, e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
