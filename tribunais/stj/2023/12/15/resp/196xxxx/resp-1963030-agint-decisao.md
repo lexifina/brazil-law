@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno manejado por Lilia da Conceição Albuquerque contra decisão de fls. 365/368, que deu provimento ao recurso especial da União.
+Sustenta-se a incidência da tese repetitiva fixada no Tema 1.142/STJ, segundo a qual "o art. 47 da Lei n. 9.636/1998 rege toda a matéria relativa a decadência e prescrição das receitas patrimoniais não tributárias da União Federal, não havendo razão jurídica para negar vigência à parte final do § 1º do art. 47 do aludido diploma legal quanto à inexigibilidade do laudêmio devido em casos de cessões particulares, relativas a período anterior ao conhecimento do fato gerador, visto que o legislador não diferenciou receitas patrimoniais periódicas (como foro e taxa) das esporádicas (como o laudêmio)" (fl. 392).
+Segundo defende, a cessão de direitos ocorreu em 2004 e a ciência da União quanto à transferência do domínio útil do imóvel efetuou-se em 17/7/2019, devendo a decisão ser reconsiderada ou a submissão do feito ao julgamento colegiado.
+A União deixou transcorrer o prazo sem apresentação de resposta (fl. 445).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O presente agravo interno aponta discordância da decisão atacada com o REsp 1.952.093/SP, relator Ministro Gurgel de Faria, apreciado pela Primeira Seção sob o rito do recurso especial repetitivo.
+Assim, exerço o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259 do RISTJ, e reconsidero a decisão agravada, tornando-a sem efeito.
+Em novo exame, o recurso especial da União não prospera.
+Como indicado na decisão anterior, a parte recorrente aponta violação ao art. 47, I, § 1º, da Lei 9.636/98, ao argumento de que o laudêmio, como receita episódica, "é exigível apenas na hipótese de haver transferência do domínio útil ou a cessão de direitos, cujo conhecimento pela União depende de comunicação expressa pelo adquirente, conforme imposição legal" (fl. 306).
+Acrescenta, ainda: "Pondere-se que a prevalecer a interpretação defendida no aresto recorrido, no sentido de se aplicara inexigibilidade de fatos geradores anteriores a cinco anos para o laudêmio, o prazo decadencial de dez anos para a constituição do crédito fica esvaziado e se reduz à metade" (fl. 307).
+Parecer Ministerial às fls. 354/363, pelo provimento do recurso especial.
+Sobre a controvérsia em questão, a Primeira Seção, no julgamento do REsp 1.952.093/SP, chancelou a compreensão de que o fato gerador para a incidência do laudêmio é a celebração do contrato de compra e venda, mesmo que inexista registro imobiliário da transação.
+Já o prazo decadencial para a constituição do crédito relativo ao laudêmio é regido pelo art. 47 da Lei n. 9.636/1998 (com a redação dada pela Lei n. 10.852/2004), tendo como termo inicial o momento em que a União toma conhecimento do negócio jurídico.
+Eis o que diz a norma indicada:
+Art. 47. O crédito originado de receita patrimonial será submetido aos seguintes prazos:
+I - decadencial de dez anos para sua constituição, mediante lançamento; e
+II - prescricional de cinco anos para sua exigência, contados do lançamento.
+§ 1º O prazo de decadência de que trata o caput conta-se do instante em que o respectivo crédito poderia ser constituído, a partir do conhecimento por iniciativa da União ou por solicitação do interessado das circunstâncias e fatos que caracterizam a hipótese de incidência da receita patrimonial, ficando limitada a cinco anos a cobrança de créditos relativos a período anterior ao conhecimento.
+Assim, conforme indicado no inciso I, a União terá 10 anos para constituir o crédito, com 5 anos para cobrá-lo (inciso II), desde que conciliado com o § 1º, segundo o qual o fato gerador do tal crédito deve ter ocorrido no quinquênio que antecedeu o conhecimento do ente público a respeito dele.
+A partir daí, estas foram as teses firmadas no Tema 1.142/STJ:
+a) a inexistência de registro imobiliário da transação (contratos de gaveta) não impede a caracterização do fato gerador do laudêmio, sob pena de incentivar a realização de negócios jurídicos à margem da lei somente para evitar o pagamento dessa obrigação pecuniária;
+b) o termo inicial do prazo para a constituição dos créditos relativos ao laudêmio tem como data-base o momento em que a União toma conhecimento, por iniciativa própria ou por solicitação do interessado, da alienação do imóvel, consoante exegese do § 1º do art. 47 da Lei n. 9.636/1998, com a redação dada pela Lei n. 9.821/1999, não sendo, portanto, a data em que foi consolidado o negócio jurídico entre os particulares o marco para a contagem do prazo decadencial, tampouco a data do registro da transação no cartório de imóvel;
+c) o art. 47 da Lei n. 9.636/1998 rege toda a matéria relativa a decadência e prescrição das receitas patrimoniais não tributárias da União Federal, não havendo razão jurídica para negar vigência à parte final do § 1º do art. 47 do aludido diploma legal quanto à inexigibilidade do laudêmio devido em casos de cessões particulares, relativas a período anterior ao conhecimento do fato gerador, visto que o legislador não diferenciou receitas patrimoniais periódicas (como foro e taxa) das esporádicas (como o laudêmio).
+Pois bem, depreende-se dos autos que, no caso em exame, a União tomou conhecimento de que houve a transferência do domínio útil do imóvel em questão em 17/7/2019, momento em que foi protocolizado pedido na SPU para realização de transferência em nome dos compradores. Já o laudêmio teve como fato gerador a alienação, que ocorreu em 2004.
+Dessa forma, nos termos da tese repetitiva firmada, impõe-se a manutenção do acórdão recorrido.
+ANTE O EXPOSTO, em juízo de retratação, torno sem efeito a decisão de fls. 792/794, e julgo prejudicado o agravo interno de fls. 365/368. Na sequência, conheço do recurso especial e nego-lhe provimento.
+Publique-se.
+EMENTA
