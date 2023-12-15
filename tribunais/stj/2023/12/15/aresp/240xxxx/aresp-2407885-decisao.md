@@ -1,0 +1,42 @@
+DECISÃO
+A controvérsia foi bem sumariada pelo Parquet Federal, cujo excerto do parecer transcrevo a seguir (e-STJ fls. 254/255):
+Trata-se de agravo em recurso especial interposto por ,KAROLINE MENDONÇA DE SOUZA, contra decisão do Vice-Presidente do Tribunal de Justiça do Estado de Goiás, que inadmitiu o recurso especial, sob o fundamento de incidência da Súmula 7/STJ.
+No recurso especial interposto com fundamento nas alíneas "a" do permissivo constitucional, a recorrente apontou violação ao art. 120 do Código de Processo Penal.
+Irresignado com o despacho que negou seguinte ao recurso especial o agravante sustenta a inaplicabilidade do verbete da Súmula 7/STJ. Contraminuta foram apresentadas pelo Ministério Público goiano.
+Ao se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 254/260).
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço do agravo.
+Passo à análise do recurso especial.
+No hipótese vertente, assim consignou o aresto vergastado (e-STJ fls. 183/185):
+Conforme relatado, trata-se de recurso de Apelação Criminal interposto por KAROLINE MENDONÇA DE SOUZA, em face da decisão proferida pelo Juiz de Direito da Comarca de Firminópolis, Dr. Eduardo Cardoso Gerhardt, que indeferiu o pedido de restituição de dois aparelhos celulares e um notebook apreendidos em investigação criminal que apura delitos de responsabilidade, peculato, associação criminosa, corrupção passiva e crimes envolvendo licitação.
+KAROLINE apelou e pediu a reforma da decisão, para que lhe sejam restituídos os celulares e o notebook.
+A respeito da devolução de bens apreendidos no curso da persecução penal, preconiza o artigo 118 do Código de Processo Penal que "antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo".
+No presente caso, observa-se o magistrado indeferiu o pedido de restituição sob o fundamento de que os bens visados ainda interessariam ao feito.
+ ..
+Assim, não há dúvida de que a decisão atacada está correta, pois, pelas palavras do delegado de polícia, fácil concluir que os dois celulares e o notebook visados pela apelante, são relevantes para a investigação.
+ ..
+Ademais, ainda de acordo com o entendimento desta Corte, "o espelhamento dos objetos apreendidos é medida que deve ser adotada no interesse da investigação e não do investigado" (v.g. TJGO, PROCESSO CRIMINAL -> Recursos -> Apelação Criminal 5248491-86.2020.8.09.0051, Rel. Des(a). Adegmar José Ferreira, 2ª Câmara Criminal, julgado em 05/09/2022, DJe de 05/09/2022).
+O recurso especial revela-se deficiente quanto à fundamentação, visto que o dispositivo invocado (art. 120 do Código de Processo Penal) não contém comando normativo suficiente para embasar a tese recursal e reformar os fundamentos do acórdão recorrido, razão pela qual mister é a incidência do óbice da Súmula n. 284/STF.
+Segundo a jurisprudência do Superior Tribunal de Justiça, "o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais. Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente" (AREsp n. 2.319.383/MG, Ministra Maria Thereza de Assis Moura, DJe de 10/5/2023, grifei).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A PAZ PÚBLICA E O PATRIMÔNIO. ASSOCIAÇÃO CRIMINOSA E RECEPTAÇÃO QUALIFICADA. RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO COMO VIOLADO. INCIDÊNCIA DA SÚMULA N. 284/STF. PRECLUSÃO CONSUMATIVA.
+I - A ausência de indicação do dispositivo legal que teria sido supostamente violado inviabiliza o conhecimento do recurso especial, incidindo à espécie, por analogia, a Súmula n. 284/STF. Precedentes.
+II - "Segundo o entendimento consolidado nesta Corte, "a complementação da fundamentação deficiente do recurso especial não é possível, por meio de agravo, por se tratar de indevida inovação recursal, a qual é vedada, haja vista a preclusão consumativa". Precedentes." (AgRg no AREsp n. 2.209.048/SP, relator Ministro João Batista Moreira (Desembargador convocado do TRF1), Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023).
+III - Agravo regimental desprovido.
+(AgRg no AREsp n. 2.224.425/SC, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. OFENSA AO ART. 59 DO CP. DISCUSSÃO EXISTENTE NO JULGAMENTO DA APELAÇÃO. DIVERGÊNCIA COM O VOTO ESCRITO. FUNDAMENTAÇÃO DEFICIENTE. DISPOSITIVO QUE NÃO ALBERGA A DISCUSSÃO JURÍDICA. SÚMULA 284/STF. 2. VIOLAÇÃO DOS ARTS. 49 E 59 DO CP. VALOR DO DIA MULTA. FUNDAMENTAÇÃO DEFICIENTE. EXISTÊNCIA DE DISPOSITIVO ESPECÍFICO. NÃO INDICAÇÃO. SÚMULA 284/STF. 3. AFRONTA AO ART. 317, § 1º, DO CP. NÃO INCIDÊNCIA DA CAUSA DE AUMENTO. FATOS E PROVAS EM SENTIDO CONTRÁRIO. IMPOSSIBILIDADE DE REVOLVIMENTO. SÚMULA 7/STJ. 4. OFENSA AO ART. 92, P. ÚNICO, DO CP. PERDA DO CARGO PÚBLICO. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. MOTIVAÇÃO CONCRETA E SUFICIENTE. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não é possível conhecer do recurso especial no ponto em que se indica ofensa ao art. 59 do Código Penal, o qual trata das circunstâncias judiciais que são valoradas na fixação da pena-base, ao argumento de que há divergência entre "o que efetivamente ficou decidido durante a sessão de julgamento do recurso de apelação e o que está escrito no voto condutor", haja vista a manifesta deficiência da fundamentação. Como é de conhecimento, "a indicação de preceito legal federal que não consigna em seu texto comando normativo apto a sustentar a tese recursal e a reformar o acórdão impugnado padece de fundamentação adequada, a ensejar o impeditivo da Súmula 284/STF" (REsp n. 1.715.869/SP, Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 7/3/2018).
+2. No que diz respeito à alegada violação dos arts. 49 e 59 do Código Penal, por considerar que a redução da quantidade de dias-multa implica na redução do valor do dia-multa, constato que mais uma vez o dispositivo indicado como violado não abrange a controvérsia apresentada pelos recorrentes. Oportuno assentar que o Código Penal possui dispositivo específico que disciplina a forma de fixação do valor do dia-multa. Dessarte, diante da deficiência na fundamentação, reitero que o recurso atrai, mais uma vez, a incidência do enunciado 284 da Súmula do Supremo Tribunal Federal.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp n. 1.610.254/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/2/2021, DJe de 1/3/2021.)
+Ademais, como bem pontuado pelo parecer ministerial, "para se concluir de modo diverso da instância ordinária e restituir os bens à agravante, seria imprescindível a incursão no conjunto fático- probatório, providência vedada por força do enunciado da Súmula 7/STJ" (e-STJ fl. 260).
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
