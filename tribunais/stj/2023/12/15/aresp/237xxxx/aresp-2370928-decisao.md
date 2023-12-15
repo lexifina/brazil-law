@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por CASSIANO DE FREITAS VIDAL contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos condenação do agravante à pena de 26 (vinte e seis) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime fechado, pela prática dos crimes de organização criminosa, homicídio qualificado e corrupção de menor, édito reformado pelo Tribunal de origem que deu parcial provimento ao apelo defensivo para redimensionar a pena para 19 (dezenove) anos e 2 (dois) meses de reclusão.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, o insurgente alegou divergência jurisprudencial e violação ao art. 59 do CP, diante da configuração do bis in idem quanto à vetorial circunstâncias do crime, porquanto utilizada a premeditação - elementar do tipo penal - para fundamentar a exasperação. Como paradigma da divergência foi apontado o julgado nos autos do AgRg no Resp nº 1.850.898/MT
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas 282 e 356, STF.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo e não conhecimento do recurso especial.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se à caracterização do bis in idem ao se considerar a premeditação como circunstância do crime.
+Da leitura atenta do voto condutor do acórdão, verifica-se que a tese defensiva, da forma como foi posta no apelo raro, não foi alvo de debate no Tribunal de origem, sequer suscitada a sua análise nas razões de apelação (fls. 2287-2309).
+Ademais, a Defesa não atuou de forma a viabilizar o conhecimento do recurso especial, vez que sequer opôs embargos de declaração, acarretando a incidência dos óbices contidos nas das Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Ademais, adentrar na análise sobre a referida matéria, sem que se tenha explicitado no acórdão vergastado a tese jurídica de que ora se controverte, após o devido debate em contraditório, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Ressalto que para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, indicadas no recurso analisado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorre no caso.
+Nesse sentido: AgRg no AREsp 1394756/PR, Sexta Turma, Rel. Ministra Laurita Vaz, DJe 03/04/2019; e AgRg no REsp 1853865/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 23/06/2020.
+Assim, diante da ausência de prequestionamento, o recurso não ultrapassa a barreira do conhecimento, seja pela alínea "a", seja pela alínea "c" do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E OUTROS. DOSIMETRIA DA PENA. BIS IN IDEM. PREMEDITAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356, STF. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
