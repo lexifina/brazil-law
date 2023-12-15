@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WESLEY TAINAN LOURENCO CORREIA contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, c.c art. 40, III, ambos da Lei n. 11.343/2006, às penas de 9 (nove) anos e 14 (quatorze) dias de reclusão, regime inicial fechado, e 900 (novecentos) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento para reduzir a sanção ao patamar de 7 (sete) anos, 11 (onze) meses e 8 (oito) dias de reclusão, regime inicial fechado, mais 793 (setecentos e noventa e três) dias-multa, mantido o regime inicial fechado, nos termos do acórdão juntado às fls. 18-29, com a seguinte ementa:
+APELAÇÃO CRIMINAL - Tráfico de entorpecentes - Autoria e materialidade delitiva comprovadas readequação da pena - afastamento da agravante do crime cometido em estado de calamidade pública por não guardar relação com o caso - recurso da defesa provido em parte.
+No presente writ, o impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base, pois a quantidade de entorpecentes apreendidas não se monstra significativa a justificar a majoração.
+Alega, por fim, a existência de constrangimento ilegal pois que se faz cabível o reconhecimento da atenuante da confissão "mesmo que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar." (fl. 13), conforme jurisprudência predominante desta corte.
+Requer, ao final, a concessão da ordem, para reduzir a pena-base ao mínimo legal e reconhecer a atenuante de confissão na segunda fase da dosimetria.
+O pedido de liminar foi indeferido.
+As informações foram prestadas às fls. 80-101.
+O Ministério Público Federal, à fl. 105, manifestou-se pelo:
+"não conhecimento do presente habeas corpus, por se tratar de writ substitutivo recursal. Ademais, não se vislumbra flagrante ilegalidade, a ensejar a concessão da ordem de ofício, uma vez que os pleitos formulados na impetração, todos voltados à revisão da dosimetria penal, não encontram amparo nas decisões proferidas pelas instâncias ordinárias, assim como exigem o revolvimento do conjunto fático-probatório dos autos, providência inadmissível na presente via estreita."
+É o breve relatório.
+Decido.
+O impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base, pois a quantidade de entorpecentes apreendidas não se monstra significativa a justificar a majoração.
+Alega, por fim, a existência de constrangimento ilegal pois que se faz cabível o reconhecimento da atenuante da confissão "mesmo que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar." (fl. 13), conforme jurisprudência predominante desta corte.
+No tocante à aplicação da sanção, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No presente caso, há desproporção no aumento da pena-base, pois, o fundamento exarado, qual seja, a natureza dos entorpecentes apreendidos, considerando a quantidade que foram apreendidos - 131 eppendorfs de cocaína, pesando, aproximadamente, 57,76 gramas - fl. 38, refletem elementos ínsitos ao dispositivo violado.
+A jurisprudência desta Corte é firme no sentido de que considerações genéricas e desvinculadas do contexto fático dos autos, assim como elementos inerentes ao próprio tipo penal, não servem para a exasperação da pena.
+Nesse compasso, fixo a pena-base no mínimo legal.
+A propósito: "Em apreensões de não relevante quantidade isolada de maconha, cocaína ou crack, embora não excluída a tipicidade do crime de tráfico de drogas, tampouco pode ser esse fato justificador de tratamento anormalmente gravoso - seja como critério da pena definitiva (na valoração da pena-base, na incidência da minorante do tráfico eventual, na fixação do regime prisional ou na definição de penas substitutivas), seja como valor para a prisão processual, então desnecessária. 3. Agravo Regimental provido para redimensionar a pena do paciente para 5 anos de reclusão e 500 dias-multa, mantidos os demais termos do édito condenatório." (AgRg no HC 372.899/SC, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 15/03/2017).
+O pleito relativo ao reconhecimento da atenuante da confissão não foi oportunamente apreciado pela Corte a quo, não cabendo a este Tribunal Superior a análise inaugural da controvérsia, sob pena de incursão em vedada supressão de instância.
+Ante o exposto, concedo a ordem de habeas corpus, para estabelecer a sanção em 06 (seis) anos, 0 9 (nove) meses e 20 dias de reclusão, e 680 dias-multa.
+P. e I.
+EMENTA
