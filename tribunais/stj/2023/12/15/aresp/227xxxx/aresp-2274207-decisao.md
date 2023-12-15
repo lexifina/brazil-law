@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS PEREIRA DE CAMARGO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ fl. 677):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O ARTIGO 28, DA LEI 11.343/06. DESCABIMENTO. SENTENÇA MANTIDA. Evidenciada a existência material do fato e divisada a autoria, pelos depoimentos judiciais colhidos nos autos, mantém-se a condenação pelo tráfico de drogas (art. 33, Lei 11.343/06) sendo impossível desclassificação quando os elementos de prova são suficientes para a convicção da prática do precitado ilícito penal. APELO CONHECIDO E IMPROVIDO.
+Interpostos embargos de declaração, esses foram rejeitados.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a defesa violação do art. 619 do Código de Processo Penal, porque o Tribunal de origem teria deixado de apreciar as seguintes teses: provas ilícitas decorrentes de interrogatório informal, invasão de domicílio sem justa causa e com suposta autorização do morador não documentada, além da devassa de dados telemáticos sem autorização judicial.
+Apresentadas contrarrazões e contraminuta, o Tribunal a quo não admitiu o recurso especial. O Ministério Público Federal, instado a se manifestar, opinou pelo provimento do recurso.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Inexiste a apontada violação do art. 619 do CPP, ao argumento de que o Tribunal a quo não teria se manifestado sobre a tese de ilicitude de provas ilícitas decorrentes de interrogatório informal, invasão de domicílio sem justa causa e com suposta autorização do morador não documentada, além da devassa de dados telemáticos sem autorização judicial.
+Ao contrário do que sustenta a defesa, o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+No caso, ao rejeitar os embargos de declaração, asseverou (e-STJ fls. 741/742):
+Ao contrário do que alega o embargante, no sentido de que o decisum teria sido omisso, na medida em que não se manifestou acerca das provas ilícitas, assim entendidas as obtidas em violação a normas constitucionais ou legais, há que registrar-se que o acórdão objurgado tratou da matéria posta no recurso de apelação, assim decidindo, em 10.03.2020 (ev. 3, fls. 168/175 - PDF), verbis:
+ ..
+De registrar, contudo, que o pleito que ora enseja a oposição dos embargos de declaração,consubstanciado na "ilicitude das provas", questionando o adentramento policial na casa do embargante após tê-lo flagrado na posse de pequena quantidade de substância entorpecente, assim como por suposta violação o aparelho de celular e entrevista do embargante, não fora objeto de insurgência no recurso de apelação interposto em desprestígio da sentença de Primeiro grau.
+Destarte, não há que falar em omissão de uma matéria que sequer fora abordada no recurso anteriormente interposto pelo apelante/ora embargante.
+Demais disso, importante relembrar que, quando da análise do recurso anterior, interposto pelo ora embargante, a Defesa limitou-se a requerer a desclassificação do delito de tráfico de entorpecentes para a conduta de uso próprio. Em momento algum fora arguida a ilicitude das provas colhidas, inexistindo, portanto, o vício apontado.
+Não há falar em omissão e/ou integração, visto que a Relatoria cuidou de analisar detidamente todos os temas postos pela defesa técnica do apelante, ora embargante, examinando todas as provas, e, utilizando-se de seu livre convencimento motivado (artigo 93, inciso IX, da Constituição Federal), enfrentou todas as teses discutidas pelo recorrente e entendeu adequada a motivação exposta alhures.
+Com efeito, ressai do lineamento recursal inconformismo do embargante, pretendendo a rediscussão da matéria meritória, para o que não presta o presente recurso.
+Verifica-se, portanto, que, diferentemente do que alega o recorrente, a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, notadamente esclarecendo que as teses apresentadas no recurso de embargos não foram objeto do apelo defensivo, configurando inovação incompatível com a via dos declaratórios.
+Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+Nesse contexto, tem-se que o fato de não ter sido acolhida a irresignação da parte, apresentando a Corte local fundamentação em sentido contrário, por certo não revela violação do art. 619 do CPP.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC c/c o art. 253, parágrafo único, II, "b", do RISTJ e da Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
