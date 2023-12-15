@@ -1,0 +1,7 @@
+DECISÃO
+Paciente que alega sofrer constrangimento ilegal em decorrência de prisão preventiva.
+Observo que este mandamus foi deficientemente instruído, pois o impetrante juntou aos autos apenas a cópia da decisão que deferiu "o pleito liminar ministerial e conced eu  efeito suspensivo ativo ao recurso em sentido estrito, determinando-se a prisão preventiva de Djonatan Silvestrin, com arrimo no art. 312 do Código de Processo Penal".
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
