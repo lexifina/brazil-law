@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática (fls. 766-768, e-STJ) que não conheceu do Recurso Especial com base nas Súmulas 7 e 211 do STJ e na Súmula 284 do STF.
+Em síntese, o embargante alega:
+Com as mais respeitosas vênias, a r. decisão prolatada, que não poderia ser mais genérica e não analisou nenhuma das negativas de vigência suscitadas, está absolutamente equivocada.
+5. Em primeiro lugar, ao afirmar que os "artigos tidos por contrariados não foram examinados na origem.. incide na espécie a Súmula 211/STJ", a r. decisão foi omissa ao fato de que a matéria foi prequestionada na origem, ainda que não numericamente!
+6. Isso porque o v. acórdão recorrido assentou que "embora o nome do exequente conste na lista juntada nos autos da ação coletiva, não se trata de substituído que tenha se aposentado ou implementado as condições para a aposentadoria na vigência da Lei nº 6.903/81.. a parte exequente exerceu o cargo de juiz classista até 03/02/2000. Contudo, não se aposentou como juiz classista sob o regime da Lei nº 6.903/81. Portanto, deve ser reconhecida a sua ilegitimidade ativa para o cumprimento de sentença com base no título executivo formado na ação coletiva nº 0006306- 43.2016.4.01.3400". Ou seja, o acórdão versou sobre legitimidade e sobre coisa julgada, não havendo que se falar na aplicação da Súmula 211/STJ!
+Além disso, ao afirmar que "A via estreita do Recurso Especial exige a demonstração inequívoca da afronta ao dispositivo infraconstitucional inquinado como ofendido, bem como a sua particularização, a fim de possibilitar a sua análise em conjunto com o decidido nos autos. A falha nesse procedimento caracteriza deficiência de fundamentação, em conformidade com a Súmula 284 do STF", a r. decisão está sendo omissa que a questão de direito trazida no recurso especial é muito simples e foi didaticamente explicada no recurso especial: cabe a este Superior Tribunal de Justiça decidir se o v. acórdão de origem poderia reconhecer a ilegitimidade ativa do exequente, mesmo este constando no rol de beneficiários da ação coletiva!
+8. Nesse ínterim, ao afirmar que "a Corte regional decidiu a questão com base no suporte fático- probatório dos autos, cuja revisão é inviável no Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ", a r. decisão foi omissa ao fato de que na origem foi reconhecida a legitimidade ativa do ora recorrente, e, pois, "o restabelecimento do decisum de 1º Grau não pressupõe o reexame de fatos ou provas, porquanto o juízo que se impõe restringe-se ao enquadramento jurídico dos fatos, tal como delineados no acórdão e na decisão de 1º Grau, impugnada no Agravo de Instrumento" (AgRg no AgRg no AREsp 558.920/MG, Rel. Min. Assusete Magalhães, 2ª. T., DJe 13/10/2016).
+9. Além disso, a r. decisão está sendo omissa ao fato incontroverso de que o embargante está listado no rol da ação coletiva e ao fato incontroverso de que o título executivo assentou que "deve se beneficiar do título executivo apenas o demandante que constar no rol apresentado na petição inicial desta demanda" (abaixo reproduzido).
+Houve impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15 de novembro de 2022.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1022 do CPC. A vexata quaestio foi decidida de forma estreme de dúvidas, não havendo falar em omissão, contradição ou obscuridade.
+No caso, a decisão embargada decidiu a controvérsia dos autos com base na aplicação das Súmulas 7 e 211 do STJ e da Súmula 284 do STF. Assim, a alegação da parte embargante denota o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 9/9/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da matéria, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC e que os EDcl não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
