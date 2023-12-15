@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 182-186):
+" RECURSO EM SENTIDO ESTRITO - ESTELIONATO - LEI 13.964/19 - REJEIÇÃO DA DENÚNCIA - AUSÊNCIA DE CONDIÇÃO DE PROCEDIBILIDADE - DECISÃO MANTIDA- RECURSO MINISTERIAL NÃO PROVIDO".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 209-213).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 171, § 5º, do CP e 387, IV, do CPP. Aduz para tanto, em síntese, que estaria presente a condição de procedibilidade da ação penal pública condicionada, pois a vítima teria representado contra o réu. Alega que o ato de representação prescinde de formalidades, sendo que "a circunstância de ter a vítima registrado no boletim de ocorrência que o fazia "a fim de evitar o prejuízo" também, em nada afasta, o interesse na deflagração da ação penal" (e-STJ, fl. 233).
+Com contrarrazões (e-STJ, fls. 242-247), o recurso especial foi admitido na origem (e-STJ, fls. 251-253).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 269-274).
+É o relatório.
+Decido.
+A insurgência não ultrapassa o juízo de admissibilidade.
+Inicialmente, não há prequestionamento do art. 387, IV, do CPP. Com efeito, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, o que atrai a incidência da Súmula 211/STJ. Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não demonstrou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local. A propósito:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido".
+(AgRg no REsp 1902294/SP, de minha relatoria, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Quanto ao art. 171, § 5º, do CP, este STJ entende que a representação não é necessariamente um ato formal, bastando que dela se extraia a vontade inequívoca da vítima em ver processado o suposto autor da infração. Nessa perspectiva de informalidade, o boletim de ocorrência registrado junto à autoridade policial pode, de fato, ser uma das maneiras de exteriorização da vontade do ofendido.
+No caso dos autos, entretanto, o Tribunal local examinou detidamente as declarações da vítima no sobredito boletim de ocorrência e concluiu que ali não restou demonstrada sua intenção de processar o acusado. Ademais, uma vez intimada pelo próprio Parquet especificamente para oferecer a representação, a vítima não o fez. Eis o que disse o acórdão recorrido (e-STJ, fl. 185):
+"Contudo, no caso em tela, resta configurada a distinção ao aresto ora compilado, por constar no Boletim de Ocorrência: "Diante dos fatos, mediante a fraude aplicada por Danilo, Luiz solicitou a providencia policial a fim de evitar o prejuízo" (f. 28 de documento de ordem 02).
+Entendo que não pode tal menção ser considerada como representação, ainda que dispensada qualquer formalidade para o ato, em se considerando ainda, a ausência de declarações do ofendido.
+Ademais, o ilustre representante do Ministério Público requerera expressamente a representação da vítima, na forma do art. 171, parágrafo 5º, com a redação dada pela Lei 13.964/19, inexistindo, todavia, manifestação desta (vide ID 3983123130).
+Isso posto, entendo afigurar-se ausente a condição de procedibilidade, motivo pelo qual há de ser mantida a decisão de rejeição da denúncia, com fundamento no disposto no art. 395, II, do CPP".
+Em tal cenário, a Súmula 7/STJ veda o conhecimento da pretensão recursal. Afinal, somente com o reexame dos fatos e provas da causa é que se poderia aferir se foi ou não correta a interpretação dada pelo TJ/MG às palavras do registro policial, bem como se a omissão da vítima em atender à intimação do Ministério Público seria (in)suficiente para demonstrar seu desinteresse na persecução penal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
