@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte (fl. 221):
+AÇÃO DECLARATÓRIA. PRAZO PARA ANÁLISE DE PROCESSO ADMINISTRATIVO. VERBA HONORÁRIA.
+1. A União afirma em sua apelação que concordou com o pedido da autora e logo o resolveu, sendo o processo administrativo analisado e concluído antes da prolação da sentença. Na verdade, o Juiz deferiu a tutela de urgência em 16/05/2016 para determinar que a ré analisasse e concluísse as manifestações apresentadas no PA 19679.720561/2013-15 em 15 dias. Verifica-se correta a condenação da União em verba honorária, pois sucumbente na demanda.
+2. Em que pese a sentença tenha sido proferída na vigência do NCPC, não se mostra razoável que ao caso em análise sejam aplicados os critérios previstos no artigo 85,§ 3º, pois tanto no CPC/73 como no NCPC mostra-se evidente a intenção do legislador de estabelecer critérios para fixação de honorários de acordo com o trabalho realizado pelo advogado e o tempo exigido para seu esforço. É o que estava previsto pelo artigo 20, § 3º, "c" do CPC/73 e atualmente pelo artigo 85, § 2º, IV do NCPC.
+3. Registre-se que a sentença proferida não tem cunho condenatório, revelando-se declaratório-constitutiva, o que desautoriza falar-se em proveito econômico, sentido amplo, como exigido pelo artigo 85, §3º, do CPC, aplicando-se, portanto, ao caso concreto, a inteligência do artigo 85, § 8º, do CPC.
+4. Parcial provimento à apelação e ao reexame necessário, somente para alterar os honorários advocatícios fixados na sentença para o valor de R$5.000,00 (cinco mil reais).
+Os Embargos de Declaração foram rejeitados.
+A recorrente aponta violação do art. 85, §§ 3º e 4º, do CPC/2015.
+Contrarrazões às fls. 249-258.
+É o relatório.
+Decido.
+Verifica-se que a matéria versada no Recurso Especial tem correspondência com o Tema 1.255 do Supremo Tribunal Federal, o qual possui a seguinte descrição: "Recurso extraordinário em que se discute, à luz dos artigos 2º, 3º, I e IV, 5º, caput, XXXIV e XXXV, 37, caput, e 66, § 1º, da Constituição Federal, a interpretação conferida pelo Superior Tribunal de Justiça ao art. 85, §§ 2º, 3º e 8º, do Código de Processo Civil, em julgamento de recurso especial repetitivo, no sentido de não ser permitida a fixação de honorários advocatícios por apreciação equitativa nas hipóteses de os valores da condenação, da causa ou o proveito econômico da demanda serem elevados, mas tão somente quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo (Tema 1.076/STJ)".
+Em tal circunstância, deve ser prestigiado o disposto na legislação processual - isto é, a criação de mecanismo que oportunize às instâncias de origem a revisão do caso à luz da ratio decidendi dos precedentes qualificados dos Tribunais Superiores após o julgamento do Tema 1.255/STF, com eventual juízo de retratação, na forma dos arts. 1.040 e seguintes do CPC/2015.
+Cumpre esclarecer que somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o apelo nobre deverá ser encaminhado, em sua totalidade, a este Tribunal Superior, a fim de que aqui possam ser analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte regional .
+Diante do exposto, determino de ofício a devolução dos autos ao Tribunal a quo, com a devida baixa, para que este, em observância aos arts. 1.040 e seguintes do CPC/2015: a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
+EMENTA
