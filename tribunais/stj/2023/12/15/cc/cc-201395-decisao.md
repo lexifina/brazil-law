@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o Juízo de Direito da 16ª Vara Cível e de Fazenda Estadual de Maceió - AL e o Juízo de Direito da 2ª Vara da Fazenda Pública de São Paulo nos autos do Mandado de Segurança impetrado por Kiyo Saito contra atos do Diretor do Departamento Estadual de Trânsito de São Paulo - DETRAN/SP e do Diretor do Departamento Estadual de Trânsito de Alagoas - DETRAN/AL.
+O Juízo de São Paulo declarou-se incompetente por reconhecer a ilegitimidade passiva do Diretor do DETRAN/SP (fls. 90-91, e-STJ).
+Por sua vez, o Juízo de Alagoas suscitou o presente Conflito, sob o argumento:
+Assim, pelos motivos supra, este Juízo discorda do referido reconhecimento de ilegitimidade do Diretor do Detran/SP para figurar no polo passivo da presente ação de Mandado de Segurança.
+É de se registrar que o declínio de competência pelo juízo originário fora decorrente da suposta ilegitimidade, pois, havendo legitimidade tanto do Diretor do Detran/SP quanto do Detran/AL, o ajuizamento da ação no domicílio autoral (São Paulo) estaria em conformidade com a lei processual. (fl. 98, e-STJ)
+O Ministério Público Federal opinou pelo conhecimento do Conflito para declarar a competência do Juízo de Direito da 2ª Vara da Fazenda Pública de São Paulo, o suscitado.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.12.2023.
+O Conflito deve ser conhecido, pois há controvérsia instaurada entre juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, "d", da CF/1988.
+Cuida-se de Mandado de Segurança, com pedido de liminar, por suposto ato ilegal praticado pelo Diretor do DETRAN/SP e o Diretor do DETRAN/AL.
+Cinge-se a lide, conforme consignou o juiz suscitado:
+Narra a parte impetrante, em suma, que ao tentar promover o licenciamento de veículo automotor de sua propriedade, registrado perante o Detran-SP, foi surpreendida com o licenciamento e registro do veículo perante o Detran-AL. Aponta que realizou perícia que atestou a idoneidade do veículo, mas mesmo assim o Detran-AL não promoveu a regularização do veículo, conforme resposta encaminhada pela Ouvidoria.
+Pleiteia a concessão da segurança, inclusive em caráter liminar, a fim de que seja determinada a regularização do veículo em seu nome.
+Veio a inicial instruída por documentos. (fl. 65, e-STJ)
+Esta Corte Superior entende que "não se pode confundir competência com legitimidade ou com o mérito da causa. O juízo sobre competência para a causa se estabelece levando em consideração os termos da demanda. Para efeito de mandado de segurança, o que se considera é a autoridade impetrada indicada na petição inicial. Saber se tal autoridade é legítima, ou se o ato por ela praticado é realmente de sua competência, ou se é ato decorrente de delegação, ou se é ato de autoridade ou de simples gestão particular, são questões relacionadas com o próprio juízo sobre o cabimento da impetração ou o mérito da causa, a serem resolvidas em fase posterior (depois de definida a competência), pelo juiz considerado competente, e não em sede de conflito de competência" (CC 91.277/SC, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 13/2/2008, DJe 3/3/2008).
+No caso, impende considerar que a declinação de competência ocorreu por decisão ex officio proferida pelo Juízo suscitado. Todavia, trata-se de competência relativa, sendo defeso ao juízo declará-la de ofício. Com base nessa orientação, o STJ pacificou o entendimento de que a incompetência relativa não pode ser declarada de ofício (Súmula 33/STJ). Nessa linha:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ALVARÁ JUDICIAL. LEVANTAMENTO DE VALORES DEPOSITADOS NO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. MORTE DO TITULAR DA CONTA. INCOMPETÊNCIA RELATIVA. PRINCÍPIO DA PERPETUATIO JURISDICTIONIS. AUSÊNCIA DA OPOSIÇÃO DA EXCEÇÃO DECLINATÓRIA DO FORO. SÚMULA 33 DO STJ.
+1. O conflito negativo de competência ocorre no momento em que dois ou mais juízes declaram-se incompetentes em ato jurisdicional válido. Desta sorte, é mister verificar se a lei admite que o Juiz se declare incompetente.
+2. A incompetência relativa deve ser arguida por meio de exceção, não podendo ser declarada de ofício. Incidência da Súmula 33/STJ, segundo a qual: "a incompetência relativa não pode ser declarada de ofício".
+3. Na hipótese, a ação foi proposta no foro de domicílio dos sucessores do instituidor da conta vinculada do PIS/Pasep.
+4. Conflito conhecido para declarar competente o Juízo de Direito da 5ª Vara de Família e Sucessões de Santo Amaro/SP.
+(CC 102.965/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe 6/4/2009)
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO FISCAL AJUIZADA NA SEÇÃO JUDICIÁRIA DA JUSTIÇA FEDERAL EM QUE A AUTARQUIA FEDERAL EXEQUENTE POSSUI DOMICÍLIO, APÓS A REVOGAÇÃO DO INCISO I DO ART. 15 DA LEI 5.010/66, PELA LEI 13.043/2014, CONTRA DEVEDOR DOMICILIADO EM LOCALIDADE DIVERSA, TAMBÉM SEDE DE VARA FEDERAL. COMPETÊNCIA RELATIVA. DECLINAÇÃO DA COMPETÊNCIA, DE OFÍCIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 33/STJ. PRECEDENTES DO STJ. CONFLITO DE COMPETÊNCIA CONHECIDO, PARA DECLARAR COMPETENTE O JUÍZO FEDERAL PERANTE O QUAL FOI PROPOSTA A EXECUÇÃO FISCAL. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. Nos termos da Súmula 33/STJ, "a incompetência relativa não pode ser declarada de ofício". Analisando hipóteses análogas, envolvendo Conflitos Negativos de Competência entre Juízes Federais, na vigência do CPC/2015 e após a revogação, pela Lei 13.043/2014, da competência delegada federal, prevista no art. 15, I, da Lei 5.010/66, a Primeira Seção do STJ não tem aplicado o REsp repetitivo 1.146.194/SC, concluindo que, tratando-se de execução fiscal ajuizada perante Juízo Federal de localidade diversa da do domicílio do executado, sede de Vara da Justiça Federal, a competência é relativa, na forma dos arts. 64 e § 1º, e 65 do CPC/2015 e da Súmula 33/STJ, não podendo ser declarada, de ofício, pelo Juiz (STJ, CC 167.679/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 07/05/2020; AgInt no CC 139.278/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe de 28/03/2019; CC 166.952/MT, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe de 02/09/2019. Em igual sentido, em situação análoga à do presente Conflito: STJ, CC 171.731/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 27/04/2020; CC 147.532/PA, Rel. Ministro BENEDITO GONÇALVES, DJe de 23/08/2016; CC 159.859/SP, Rel. Ministro GURGEL DE FARIA, DJe de 21/11/2018; CC 163.499/CE, Rel. Ministra REGINA HELENA COSTA, DJe de 17/09/2019; CC 171.227/CE, Rel. Ministro SÉRGIO KUKINA, DJe de 02/04/2020; CC 163.453/BA, Rel. Ministro OG FERNANDES, DJe de 14/02/2019.
+(..) VI. Agravo interno improvido, mantendo-se a decisão agravada, que declarou competente o Juízo suscitado.
+(AgInt no CC 170.216/MG, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe 18/12/2020)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL PROPOSTA NA 18ª VARA FEDERAL DE SALVADOR/BA. COMPETÊNCIA RELATIVA. IMPOSSIBILIDADE DE DECLARAÇÃO DA INCOMPETÊNCIA DO JUÍZO DE OFÍCIO.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no
+art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+(..) 4. Com razão o Juízo suscitante, porquanto a incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício, como fez o Juízo suscitado.
+5. Conflito de Competência conhecido a fim de declarar competente para processar o feito o Juízo da 18ª Vara Federal de Salvador/BA.
+(CC 167.679/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 7/5/2020)
+Ante o exposto, conheço do Conflito e declaro competente o Juízo de Direito da 2ª Vara da Fazenda Pública de São Paulo, o suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
