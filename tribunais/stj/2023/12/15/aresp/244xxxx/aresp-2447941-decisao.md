@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo desafiando decisão que inadmitiu recurso especial, interposto por GAFISA S/A, com fundamento no art. 105, inciso III, "a" da CFRB, contra acórdão assim ementado:
+Agravo de Instrumento. Cumprimento de sentença. Penhora. Alegação de que o bem penhorado pertence a terceiro. Impossibilidade de defesa em nome próprio de direito de terceiro. Manutenção da penhora. Recurso improvido.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte agravante alega ofensa ao art. 506 do NCPC, afirmando, em síntese, que é possível admitir embargar de terceiro com compromisso de compra e venda não registrado. Para tanto, afirma, que "nestes casos, não há necessidade de escritura pública de venda e compra como requisito de validade do negócio jurídico: basta, tão somente, demonstração do efetivo exercício de posse antes da constrição. E, uma vez comprovada a alienação do imóvel, a penhora se tornou inócua, haja vista que não atingirá o fim colimado, isto é, conversão em dinheiro. Destaca-se, Excelências, que é conhecimento comum, que a decisão judicial não pode prejudicar terceiros, porquanto, possuem limites subjetivos e não podem atingir estranhos à relação processual (inteligência do artigo 506, do CPC - aplicável por analogia)" (e-STJ, fl. 41).
+É o relatório. Decido.
+No que tange à alegação de ofensa ao art. 506 do NCPC, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor do dispositivo legal citado, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja, o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C. STF). Por oportuno, leiam-se estes julgados:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. IMPENHORABILIDADE DE IMÓVEL. BEM PROFISSIONAL. EXCEPCIONALIDADE DA CONSTRIÇÃO JUDICIAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. Não há falar em violação dos arts. 458, II, e 535, II, do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. De acordo com a jurisprudência desta Corte, é possível a penhora em caráter excepcional de imóvel comercial, no qual se localiza empresa do executado, desde que não seja utilizado para a residência de sua família e não haja outros bens livres e desembaraçados, passíveis de serem constritos. (REsp 1.114.767/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, DJe 04/02/2010).
+4. Agravo regimental não provido, com aplicação de multa."
+(AgRg no AREsp 490.801/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/09/2014, DJe 17/09/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
