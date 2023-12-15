@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+O 2º Vice-Presidente do Tribunal de origem inadmitiu o recurso especial pela sua intempestividade, considerando que o "reclamo encontra óbice na preclusão, visto que foi interposto extemporaneamente, pois, ao contrário do que se baseou a defesa, deveria ter sido observado o prazo a contar da intimação do julgamento do Recurso de Apelação, e não dos Embargos Infringentes" (e-STJ fl. 1.266).
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls.1.336/1.338.
+É o relatório. Decido.
+Não merece conhecimento o agravo.
+A decisão agravada não admitiu o recurso especial pela sua intempestividade, considerando que o "reclamo encontra óbice na preclusão, visto que foi interposto extemporaneamente, pois, ao contrário do que se baseou a defesa, deveria ter sido observado o prazo a contar da intimação do julgamento do recurso de apelação, e não dos embargos infringentes."
+Contudo, o agravante, nas razões do presente inconformismo, não impugnou o referido fundamento, alegando de forma genérica que o recurso é tempestivo.
+Nesse contexto, aplica-se, por analogia, o disposto no enunciado n. 182 da Súmula do STJ. Nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+ ..
+3. Agravo regimental a que se nega provimento. Concedido habeas corpus, de ofício, para declarar a prescrição da pretensão executória do agravante quanto ao crime do art. 90 da Lei n. 8.666/1993 (AgRg no Ag 1.378.279/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/3/2017).
+No caso, caberia às partes interessadas, após a intimação do julgado proferido em apelação criminal (24/3/2023) interpor, no prazo legal, o cabível recurso especial contra a parte unânime do decisum, o que não ocorreu, culminando na intempestividade do apelo nobre. O presente recurso especial somente foi interposto em 27/6/2023, após o julgamento dos embargos infringentes. A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. EMBARGOS INFRINGENTES PARCIAIS. EXCEÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. SÚMULAS 354 E 355 DO STF. PRAZOS PROCESSUAIS PENAIS CONTÍNUOS E PEREMPTÓRIOS. INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO AGRAVA DA. AGRAVO REGIMENTAL DESPROVIDO.
+I - No caso, caberia à parte interessada, após a publicação do julgado proferido em Embargos de Declaração na Apelação Criminal, o que ocorreu em 20.07.2020 (fl. 1.861), no prazo legal, interpor o cabível Recurso Especial contra a parte unânime do decisum, sob pena de configurar-se a preclusão temporal.
+II - Vale destacar que não obstante seja necessária a extinção das vias recursais ordinárias para o conhecimento dos recursos excepcionais - ao teor das Súmulas 207/STJ e 281/STF -, isso não desobriga à parte de interpor, concomitantemente ao infringentes, o cabível Recurso Especial contra a parte unânime do acórdão apelatório. A corroborar esse entendimento é a 355/STF: "Em caso de embargos infringentes parciais, é tardio o recurso extraordinário interposto após o julgamento dos embargos, quanto à parte da decisão embargada que não fora por eles abrangida". É exatamente nesse sentido que dispõe a Súmula 354/STF: "Em caso de embargos infringentes parciais, é definitiva a parte da decisão embargada em que não houve divergência na votação". Precedente.
+Agravo regimental desprovido. (AgRg no AREsp n. 1.912.195/SC, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT -, Quinta Turma, julgado em 7/12/2021, DJe de 16/12/2021)
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
