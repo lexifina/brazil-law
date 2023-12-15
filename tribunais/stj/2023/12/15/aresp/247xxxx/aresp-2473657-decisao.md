@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por REGINA MERLO PAIVA DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DE BENS PENHORÁVEIS. PEDIDO DE SUSPENSÃO DA EXECUÇÃO. IMPOSSIBILIDADE. MEDIDA QUE DEVE SER REQUERIDA PELO CREDOR.
+1. Tendo em vista que a execução deve ser realizada no interesse do credor, nos termos do art. 797 do CPC, quando não localizados bens penhoráveis, a suspensão de que trata o art. 921, III, §1º do CPC deve ser requerida pelo próprio exequente.
+3. Recurso improvido.
+Quanto à controvérsia, a parte recorrente alega violação do art. 921, III e §§ 1º e 4º, do CPC, no que concerne à obrigatoriedade de suspensão do processo de execução quando não localizados bens penhoráveis do executado, independentemente de pedido ou vontade do credor, em razão de expressa previsão lega l, devendo se a plicar o entendimento relativo à execução fiscal segundo o qual a suspensão do processo ocorre com a intimação do exequente a respeito da inexistência de bens penhoráveis, trazendo a seguinte argumentação:
+O acórdão recorrido dispõe que, quando não localizados bens penhoráveis do executado, a suspensão de que trata o art. 921, III, §1º do CPC deve ser requerida pelo próprio exequente, tendo em vista que a execução deve ser realizada no interesse do credor.
+Essa, contudo, não é a interpretação adequada do dispositivo legal em questão.
+A Lei nº 14.195/21 alterou a sistemática da prescrição no âmbito da execução, de modo que o art. 921 do CPC passou à seguinte redação:
+ ..
+As modificações trazidas pela Lei 14.195/21 não deixam dúvida de que a intenção do legislador foi acabar com a corriqueira eternização de execuções infrutíferas, que abarrotam desnecessariamente os escaninhos do Poder Judiciário, comprometendo a eficiência da justiça e a dignidade dos devedores.
+Da leitura do texto legal, constata-se que a suspensão do processo prevista pelo art. 921, III, independe da vontade ou do requerimento do exequente, tratando-se de medida compulsória, a ser determinada pelo Juízo quando não encontrados bens do executado.
+Essa conclusão se extrai não apenas da opção redacional feita pelo legislador no § 1º do referido artigo ( o juiz suspenderá a execução ), mas também da própria leitura conjugada desse dispositivo com o § 4º do art. 921:  o termo inicial da prescrição no curso do processo será a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, e será suspensa, por uma única vez, pelo prazo máximo previsto no § 1º deste artigo .
+Sendo assim, intimado o exequente da primeira tentativa infrutífera de localização de bens penhoráveis, o feito deverá, obrigatoriamente, ser suspenso por 1 ano, e, uma vez findo esse prazo, deve se iniciar o lapso temporal para a prescrição intercorrente.
+Vale ressaltar, ainda, que a sistemática da prescrição intercorrente do CPC após as alterações da Lei nº 14.195, de 2021 muito se assemelhou à da execução fiscal, prevista no art. 40 da Lei nº 6.830/80:
+ ..
+Diante disso, é razoável admitir-se a aplicação supletiva e subsidiária dos entendimentos firmados no âmbito desse procedimento especial à execução em geral.
+ ..
+Desse modo, o entendimento relativo à execução fiscal  segundo o qual a suspensão do processo se dá com a intimação do exequente a respeito da inexistência de bens penhoráveis  deve ser aplicado também à execução comum.
+No caso em espécie, verifica-se que, 24/11/2017 (evento 51 dos autos nº 50149800520164047000), a ora recorrida requereu a pesquisa de bens penhoráveis da recorrente em diversos sistemas de busca. Em 16/03/2018 (evento 58 dos autos nº 50149800520164047000), a exequente foi intimada da ausência de bens penhoráveis (vide eventos 53, 54 e 56 dos autos nº 50149800520164047000), devendo ser este, portanto, o marco inicial da prescrição intercorrente e da suspensão da presente execução, nos termos dos dispositivos legais acima referidos.
+E, mesmo que se desconsidere esse marco temporal  o que se afirma apenas para fins de argumentação -, após o advento da Lei nº 14.195/21, a agravada foi informada, após requerimento por ela formulado (evento 162), da inexistência de veículos em nome da embargante (evento 164).
+Diante disso, é imperativo o conhecimento e o provimento do presente recurso especial para o fim de se reformar a decisão recorrida, de modo a determinar-se a suspensão do cumprimento de sentença, nos termos do art. 921, inciso III e § 1º, do CPC (fls. 48/52).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Por ocasião da apreciação do pedido liminar, assim foi decidido:
+ ..
+A decisão agravada está alinhada ao entendimento desta Corte. Ademais, compulsando os autos de origem, observo que a CEF continua diligenciando na busca de bens da agravante.
+Não vejo razão para alteração da decisão agravada.
+Com efeito, por não haver novos elementos capazes de ensejar a alteração do entendimento acima esboçado, deve ser mantida a decisão, por seus próprios e jurídicos fundamentos (fls. 32/35).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
