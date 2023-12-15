@@ -1,0 +1,45 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fl. 663):
+O Tribunal de Justiça do Estado do Paraná deu parcial provimento ao apelo defensivo interposto por PAULO CÉSAR DA SILVA para fixar a pena em 8 (oito) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, além de multa, pela prática do crime de tráfico de drogas (art. 33, caput. da Lei 11.343/06); porquanto tinha em depósito e guardava, para fins de entrega a consumo de terceiros, sem autorização e em desacordo com determinação legal ou regulamentar, 58 gramas da substância entorpecente vulgarmente conhecida como "crack", dividida em 02 (duas) pedras maiores, 30 pedras pequenas e uma parte em farelo.
+Daí o presente recurso especial interposto pelo réu, com esteio no art. 105, III, alínea "a", da Constituição Federal sustentando, em síntese, nulidade em razão da incompetência da polícia militar para cumprir o mandado de busca e apreensão, bem como pugna pela revisão da dosimetria da pena
+O Parquet Federal manifestou-se pelo parcial provimento do recurso (e-STJ fls. 662/671).
+É o relatório.
+Decido.
+Não prospera a alegação de nulidade do cumprimento do mandado de busca e apreensão pela Polícia Militar, porquanto em consonância com o entendimento do Superior Tribunal de Justiça. Confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. MANDADO DE BUSCA E APREENSÃO. CUMPRIMENTO PELA POLÍCIA MILITAR. POSSIBILIDADE. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 144 da Constituição Federal, à polícia federal e às polícias civis compete, com exclusividade, unicamente o exercício das funções de polícia judiciária, o que não se estende à atividade de polícia investigativa. Assim, embora não seja atividade típica da polícia militar, não consiste em ilegalidade - muito menos nulidade - eventual cumprimento de mandado de busca e apreensão pela instituição. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 752.547/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+Já no que se refere à dosimetria, merece parcial provimento o recurso da defesa.
+De plano, não há de se afastar o aumento da pena-base em relação à nocividade da droga apreendida - qual seja, crack -, porquanto em consonância com julgados desta Corte.
+Veja-se, por oportuno:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PEDIDO DE DESCLASSIFICAÇÃO PARA O DELITO DE USO PRÓPRIO. SÚMULA 7/STJ. EXACERBAÇÃO DA PENA-BASE. NATUREZA DA DROGA. "CRACK". FUNDAMENTO VÁLIDO. ART. 42 DA LEI N. 11.343/2006. REGIME MAIS GRAVE. CIRCUNSTÂNCIAS DESFAVORÁVEIS. RÉU REINCIDENTE. AGRAVO NÃO PROVIDO.
+1. O acolhimento do pedido de desclassificação para a conduta descrita no art. 28 da Lei n. 11.343/2006, necessariamente, demanda o revolvimento do conteúdo fático probatório, o que é vedado em recurso especial (Sum. 7/STJ).
+2. O aumento da pena-base com fundamento na alta nocividade do entorpecente apreendido (crack) atende os critérios estabelecidos no art. 42 da Lei n. 11.343/2006. Precedentes.
+3. O regime inicial fechado é o adequado, diante do quantum da pena fixada (7 anos e 6 meses de reclusão) e da aferição desfavorável das circunstâncias judicias, nos termos do art. 33, § 2º,"a", e § 3º, c/c o art. 59, ambos do Código Penal.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.517.548/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2017, DJe de 18/8/2017.)
+Entretanto, a jurisprudência desta Corte Superior tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou, ainda, a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas, neste último caso, que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+No caso, portanto, a valoração negativa de tal circunstância judicial justifica a exasperação da pena-base em apenas 10 meses, porquanto não exacerbada a quantidade de drogas apreendidas - a saber, 58g (cinquenta e oito gramas).
+Da mesma forma, prevalece a reprovabilidade pelas circunstâncias do delito em razão da prática de tráfico de drogas na própria residência onde moravam seus dois filhos, de 8 e 10 anos de idade.
+De outra sorte, sobre a valoração dos maus antecedentes, esta Corte tem desconsiderado condenações deveras antigas com o fito de evitar penas de caráter perpétuo, conforme se extrai do seguinte julgado:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÕES PRETÉRITAS ALCANÇADAS PELO PERÍODO DEPURADOR DO ART. 64, I, DO CÓDIGO PENAL. CONFIGURAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. EXCEÇÃO NO CASO DE LONGO PERÍODO DECORRIDO DESDE AS CONDENAÇÕES.
+1. Excepcionalmente, "quando os registros da folha de antecedentes do réu são muito antigos, como no presente caso, admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento. Não se pode tornar perpétua a valoração negativa dos antecedentes, nem perenizar o estigma de criminoso para fins de aplicação da reprimenda, pois a transitoriedade é consectário natural da ordem das coisas. Se o transcurso do tempo impede que condenações anteriores configurem reincidência, esse mesmo fundamento - o lapso temporal - deve ser sopesado na análise das condenações geradoras, em tese, de maus antecedentes" (REsp n. 1.707.948/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/4/2018, DJe de 16/4/2018).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.463.495/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/8/2019, DJe de 13/8/2019.)
+Na presente hipótese, a pena que ensejou o reconhecimento dos maus antecedentes foi extinta há mais de 10 anos (e-STJ fl. 363).
+Logo, a pena-base é fixada em 6 anos e 8 meses.
+Pelo mesmo motivo acima exposto, de rigor a aplicação da minorante
+Confira-se, por oportuno, julgado nesse sentido do Supremo Tribunal Federal:
+Habeas corpus. 2. Tráfico de entorpecentes. Condenação. 3. Aumento da pena-base. Não aplicação da causa de diminuição do § 4º do art. 33, da Lei 11.343/06. 4. Período depurador de 5 anos estabelecido pelo art. 64, I, do CP. Maus antecedentes não caracterizados. Decorridos mais de 5 anos desde a extinção da pena da condenação anterior (CP, art. 64, I), não é possível alargar a interpretação de modo a permitir o reconhecimento dos maus antecedentes. Aplicação do princípio da razoabilidade, proporcionalidade e dignidade da pessoa humana. 5. Direito ao esquecimento. 6. Fixação do regime prisional inicial fechado com base na vedação da Lei 8.072/90. Inconstitucionalidade. 7. Ordem concedida.
+(HC 126315, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 15-09-2015, PROCESSO ELETRÔNICO DJe-246 DIVULG 04-12-2015 PUBLIC 07-12-2015)
+Portanto, aplicada a minoran te em 2/3, a pena retorna ao montante de 2 anos, 2 meses e 20 dias, no regime semiaberto, em razão do aumento da pena-base.
+Ante o exposto, dou parcial provimento ao recurso especial para reduzir a pena-base e aplicar a minorante em sua fração máxima, resultando na pena de 2 anos, 2 meses e 20 dias, no regime inicial semiaberto.
+Publique-se. Intimem-se.
+EMENTA
