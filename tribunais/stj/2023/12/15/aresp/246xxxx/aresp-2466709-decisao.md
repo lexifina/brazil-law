@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+PENSÃO POR MORTE. ÓBITO DE GENITOR APÓS A LEI Nº 8.213/91, COM A REDAÇÃO DADA PELA LEI Nº 9.528/97. FILHO MAIOR E INVÁLIDO. INCAPACIDADE DO BENEFICIÁRIO ANTERIOR AO ÓBITO DO INSTITUIDOR. DEPENDÊNCIA ECONÔMICA DEMONSTRADA. PREENCHIMENTO DOS REQUISITOS LEGAIS. CORREÇÃO MONETÁRIA. CUMULAÇÃO DE PENSÕES. POSSIBILIDADE.
+I- Os requisitos para a concessão de pensão por morte prevista na Lei nº 8.213/91, com a redação dada pela Lei nº 9.528/97, decorrente do falecimento de genitor compreendem a dependência dos beneficiários e a qualidade de segurado do instituidor da pensão.
+II- No que tange à dependência econômica, a teor do disposto no art. 16, inciso I, da Lei nº 8.213/91, é beneficiário do Regime Geral de Previdência Social, na condição de dependente do segurado, entre outros, o filho inválido, cuja dependência é presumida, nos termos do § 4º do mesmo artigo.
+III- Quadra ressaltar que a Lei de Benefícios não exige, para fins de concessão de pensão por morte, que a incapacidade do dependente seja anterior à data em que completou 21 anos de idade, bastando comprovar que a sua invalidez precede a data do óbito do instituidor. Demonstrada, assim, a dependência econômica.
+IV- Não merece prosperar a alegação de impossibilidade de cumulação de pensões em decorrência do falecimento de genitores, vez que o art. 124, inciso VI, da Lei nº 8.213/91 dispões acerca de pensão deixada por cônjuge ou companheiro.
+V- Consoante jurisprudência pacífica do C. Superior Tribunal de Justiça, as questões referentes à correção monetária e juros moratórios são matérias de ordem pública, passíveis de apreciação até mesmo de ofício.
+VI- A correção monetária deve incidir desde a data do vencimento de cada prestação e os juros moratórios a partir da citação, momento da constituição do réu em mora. Com relação aos índices de atualização monetária, devem ser observados os posicionamentos firmados na Repercussão Geral no Recurso Extraordinário nº 870.947 (Tema 810) e no Recurso Especial Repetitivo nº 1.492.221 (Tema 905), adotando-se, dessa forma, o IPCA-E nos processos relativos a benefício assistencial e o INPC nos feitos previdenciários. A partir de 9/12/21, data da publicação da Emenda Constitucional nº 113, de 8/12/21, deve ser observado o disposto em seu art. 3º: " Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial "de Liquidação e de Custódia (Selic), acumulado mensalmente.
+VII- Apelação do INSS improvida.
+Os Embargos de Declaração foram rejeitados (fls. 326-332, e-STJ).
+No Recurso Especial, o agravante aponta violação do art. 1.022 do CPC e dos arts. 16, I e § 4º, 74 e 77, § 2º, II, da Lei 8.213/1991. Aduz:
+De fato, a dependência econômica para o filho inválido tem presunção relativa, admitindo prova , nos termos do parágrafo 4º do artigo 16 da Lei nº 8.213/91, e se a parte autora é titular de em sentido contrário benefício previdenciário, não depende economicamente do(a) segurado(a) falecido(a).
+Ademais, o fato de a parte autora já receber benefício previdenciário anteriormente concedido afasta a financeira em relação ao segurado(a) falecido(a). presunção de dependência.
+Sem contrarrazões.
+A inadmissão do Recurso Especial (fls. 356-360, e-STJ) ensejou a interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.11.2023.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil. O Colegiado originário examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando os pontos relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca modificar o julgado ao asseverar que o Tribunal a quo não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem embasado, sem quaisquer dos vícios previstos no aludido dispositivo legal.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos Declaratórios, que servem ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida.
+No caso, verifico que o aresto recorrido está em sintonia com a orientação consolidada no Superior Tribunal de Justiça segundo a qual é irrelevante se a invalidez ocorreu antes ou depois do advento da maioridade, desde que tenha ocorrido antes do óbito do segurado. Porquanto, de acordo com o art. 16, I, da Lei 8.213/1991, será dependente o filho maior inválido, presumindo-se, nessa condição, a sua dependência econômica.
+Ademais, o TRF da 3ª Região concluiu que a parte autora preenche todos os requisitos para receber o benefício de pensão por morte, sobretudo no que se refere à dependência econômica do filho maior inválido, e a adoção de entendimento diverso, conforme pretendido, implicaria o reexame do acervo fático-probatório. Tal circunstância redundaria em novo juízo acerca dos documentos constantes dos autos e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial ante o óbice da Súmula 7/STJ.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHO MAIOR DE 21 ANOS INVÁLIDO. CUMULAÇÃO COM APOSENTADORIA POR INVALIDEZ. ALEGAÇÃO DE DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO RELATIVA. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE. SÚMULA N. 7/STJ.
+1. A incapacidade superveniente à maioridade não impede a percepção da pensão por morte, desde que seja anterior ao óbito.
+2. O acórdão recorrido está de acordo com o entendimento desta Corte no sentido de que a percepção de aposentadoria por invalidez, por si só, não impede que se configure a dependência econômica, permitindo-se a demonstração desta pela parte, ainda que elidida a presunção relativa.
+3. Para alterar essa conclusão, afastando-se a dependência econômica, seria necessária a análise do contexto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.891.845/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 15/8/2022.)
+Ressalte-se, ainda , que a cumulação de pensão por morte com aposentadoria por invalidez é possível, pois possuem naturezas distintas, com fatos geradores diversos.
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à infringência ao art. 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
