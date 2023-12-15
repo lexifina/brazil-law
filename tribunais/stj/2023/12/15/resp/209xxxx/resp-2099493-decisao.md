@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUELI APARECIDA BIZELLO COZER com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO EXECUÇÃO BLOQUEIO DE ATIVOS FINANCEIROS Alegação de impenhorabilidade Conta corrente Inadmissibilidade Proteção prevista no art. 833, X, do CPC, conferida apenas à caderneta de poupança Norma que possui interpretação restritiva, não se podendo estender a impenhorabilidade a recursos aplicados em qualquer outro tipo de conta, aplicação financeira ou fundo de investimentos Demais, não comprovado caráter alimentar Inaplicabilidade, também, do art. 833, IV, do referido Código Decisão mantida Recurso desprovido." (e-STJ, fl. 86)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 102/105).
+Em suas razões recursais, a recorrente aponta violação ao art. 833, inciso X do Código de Processo Civil de 2015 e divergência jurisprudencial, sustentando, em síntese que os valores bloqueados compõem sua poupança e devem ser imediatamente desbloqueados por serem impenhoráveis, independentemente de estarem depositados em contas correntes, aplicações financeiras ou fundos de investimentos.
+É o relatório. Passo a decidir.
+A Corte de origem afirmou que o valor bloqueado nas contas correntes da recorrente são penhoráveis e preferenciais, in verbis:
+"Recurso infundado. Não se desconhece o disposto no art. 833, X, do CPC, no sentido de que a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos, é impenhorável.
+Todavia, referida norma tem interpretação restritiva, de forma que só pode ser suscitada em hipóteses em que os valores, até o limite de quarenta salários-mínimos, estejam depositados em caderneta de poupança, não se podendo estender a impenhorabilidade a recursos aplicados em qualquer outro tipo de conta, seja ela conta corrente, aplicação financeira ou fundo de investimento.
+No caso, verifica-se que o bloqueio de R$ 5.000,00 na conta poupança já foi liberado pela juíza (fl. 68) e nem é objeto do recurso. A insurgência recursal, portanto, diz respeito às constrições de R$ 8.406,09 junto à Caixa Econômica Federal e R$ 82.473,41 junto ao Banco Bradesco, descontado o referido montante da poupança (vide fl. 05) ambas em conta corrente (cf. extratos de fls. 56/57 e informado pela própria agravante nas razões recursais, fl. 05).
+Os valores em discussão, pois, são ativos financeiros penhoráveis e, ainda, preferenciais (artigos 835, I e 854 do CPC).
+Inaplicável, portanto, o art. 833, X, do CPC, restrito à caderneta de poupança, que possui caráter alimentar. " (e-STJ, fls. 87/88)
+Nesse ponto, a decisão de origem está em confronto com a orientação jurisprudencial da Segunda Seção deste Superior Tribunal de Justiça que considera impenhorável a quantia de até 40 (quarenta) salários mínimos, seja ela mantida em poupança, em conta corrente, em fundo de investimentos ou em espécie, salvo comprovação de abuso de direito, má-fé ou fraude verificados no caso concreto (cf. REsp 1.230.060/PR, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 13/8/2014, DJe de 29/8/2014).
+Nesse mesmo sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. ART. 833, X, DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. A jurisprudência desta Corte Superior entende que é impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, sendo ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.139.117/SC, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Nos termos da jurisprudência deste Tribunal Superior, a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada para pagamento de prestação alimentícia, desde que seja preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família. Incidência da Súmula 83/STJ.
+Precedentes.
+1.1. A jurisprudência desta Corte estende a abrangência do art. 649, inciso X, do CPC/73 - correspondente ao art. 833, inciso X, do CPC/2015 -, a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, em conta-corrente, fundos de investimento ou guardados em papel-moeda. No entanto, autoriza as instâncias ordinárias a identificarem, no caso concreto, eventual abuso do direito, má-fé ou fraude, a afastar a garantia da impenhorabilidade.
+2. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.127.446/PR, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Diante do exposto, dou provimento ao recurso especial para reconhecer a impenhorabilidade da quantia de até 40 (quarenta) salários mínimos encontrados nas contas correntes da ora recorrente.
+Publique-se.
+EMENTA
