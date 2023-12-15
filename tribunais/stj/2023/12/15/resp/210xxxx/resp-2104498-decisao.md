@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República de 1988 ) interposto do acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. NÍVEIS DE CONCENTRAÇÃO DOS AGENTES QUÍMICOS. EPIS. TEMPO DE SERVIÇO ESPECIAL DO CONTRIBUINTE INDIVIDUAL. ART. 57, §8º, DA LEI N. 8.213/91. EXECUÇÃO INVERTIDA. POSSIBILIDADE.
+Os Embargos de Declaração não foram provido.
+A parte recorrente aponta violação, em preliminar, do art. 1.022 do CPC/2015; e, no mérito, dos arts. 22, II, da Lei 8.212/1991 e 11, V, "h", 14, I, parágrafo único, 57, caput, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei 8.213/1991. Aduz:
+Atualmente, o que determina a contagem de tempo de serviço como especial, em observância ao comando constitucional previsto no artigo 201, parágrafo 1º, inciso II, da CF é a efetiva exposição, permanente, não ocasional, nem intermitente, a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação, segundo critérios estabelecidos pelo Ministério da Previdência Social e constantes de relação definida pelo Poder Executivo, sendo devida a aposentadoria especial ao segurado que tenha laborado durante, 15, 20 ou 25 anos em condições especiais, como determinam o caput e §§3º, 4º e 5º do artigo 57 da Lei 8.213/91, na redação da Lei 9.032/95.
+(..)
+A primeira restrição que se verifica com relação ao contribuinte individual, diz respeito à comprovação da exposição do segurado ao agente nocivo, a qual deve ocorrer por formulário emitido pela empresa ou seu preposto, assim, sem trabalhar com subordinação para uma empresa não será possível emitir o formulário.
+(..)
+Como se vê, a Lei 9.732/98, oriunda da MP 1.729/98, atendendo aos princípios constitucionais da prévia fonte de custeio, da seletividade e do equilíbrio financeiro e atuarial (art. 194, II, 195, §5º, e 201, caput, da Constituição Federal), criou uma contrapartida à redução do tempo de contribuição que ordinariamente se exige para a aposentadoria, ao prever que a aposentadoria especial seria financiada com os recursos da contribuição fixada pelo inciso II do art. 22, da Lei 8.212/91. Assim, a incidência dessa contribuição estaria restrita às remunerações pagas ou creditadas, no decorrer do mês, aos segurados empregados e trabalhadores avulsos.
+Portanto, a contribuição adicional para custeio da aposentadoria especial, prevista no art. 57, §§ 6º e 7º da Lei nº 8.213/91, excluiu de seu campo de incidência os contribuintes individuais.
+(..)
+Portanto, como o contribuinte individual não contribui para o financiamento do benefício de aposentadoria especial, não faz jus ao mesmo e nem à conversão de tempo especial para comum. O raciocínio se baseia no equilíbrio atuarial que caracteriza todo sistema de Previdência (pública ou privada, de qualquer país): sem fonte de custeio, não há como pagar benefício.
+Contrarrazões não apresentadas.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 9.11.2023.
+Inicialmente, constato que não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRESA ARRENDATÁRIA EM ÁREA PORTUÁRIA. PROPRIEDADE DA UNIÃO. IMÓVEL DE PESSOA JURÍDICA DE DIREITO PÚBLICO CEDIDO A PESSOA JURÍDICA DE DIREITO PRIVADO. INCIDÊNCIA DE IPTU. MATÉRIA PACIFICADA PELO STF, EM REPERCUSSÃO GERAL - RE 594.015 E RE 601.720.
+1. Não configurada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da recorrente. Considere-se, ainda, que nas razões recursais apresentadas (fls. 570-572, e-STJ) a recorrente não indica especificamente qual seria a omissão, contradição ou obscuridade - objeto dos prévios aclaratórios - comprometedora da intelecção do julgado, que não teria seria apreciada pela Corte de origem. O que prejudica, sobremaneira, a tese de violação do dispositivo citado.
+(..)
+14. Recurso Especial conhecido apenas em relação à alegação de violação ao art. 1.022 do CPC/15 e, nessa extensão, não provido.
+(REsp 1.849.974/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/12/2021.)
+No enfrentamento da matéria inerente à efetiva exposição, permanente, não ocasional, nem intermitente, a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, o Tribunal de origem concluiu:
+Por conseguinte, considerando que a caracterização da especialidade do labor em decorrência da exposição do segurado a agentes químicos prescinde de análise quantitativa, bem como demonstrada a impossibilidade de total neutralização dos efeitos de tais agentes pelo uso dos EPIs fornecidos à parte autora, é cabível o reconhecimento da natureza especial do labor.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, e é certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado passa por revisitar o acervo probatório, o que é vedado em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça.
+Quanto à tese do INSS de ausência de fonte de custeio para pagamento do benefício pleiteado, o Tribunal a quo consignou:
+Em seu recurso de apelação, o INSS defende que não é possível reconhecer a atividade especial de contribuinte individual, porquanto não colabora para o financiamento da aposentadoria especial.
+A lei, entretanto, não nega ao contribuinte individual a possibilidade de obter aposentadoria especial, não se podendo fazer a distinção onde a lei não fez.
+Ao prever o direito à aposentadoria especial, a Lei 8.213/91 é clara ao estabelecer que será devida, uma vez cumprida a carência, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física. Como é sabido, a categoria segurado contempla não apenas o empregado, mas também, entre outros, o contribuinte individual.
+A circunstância de a lei 8.212/91 não trazer norma específica sobre o custeio da aposentadoria especial do contribuinte individual não afasta o direito ao benefício, que decorre, como visto, de expressa disposição da lei de benefícios.
+Não se está a instituir benefício novo, sem a correspondente fonte de custeio. Trata-se de benefício já existente passível de ser auferido por segurado que implementa as condições previstas na lei de benefícios.
+A Seguridade Social, ademais, como dispõe a Constituição, será financiada com recursos que não provêm especificamente de contribuições sobre as remunerações, mas também e em larga medida, de toda a sociedade e de contribuições das empresas sobre outras bases imponíveis. Trata-se da aplicação do princípio da solidariedade.
+Assim, fica mantida a sentença.
+Não obstante as razões explicitadas pelo Colegiado originário, a recorrente não impugnou suficientemente os pontos acima destacados, os quais são aptos, por si sós, para manter o decisum combatido.
+Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os argumentos fornecidos pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF.
+Em igual sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL, INTERPOSTO CONTRA DECISÃO SINGULAR PROFERIDA POR MINISTRO DO STJ. POSSIBILIDADE DE IMPUGNAÇÃO PARCIAL DE CAPÍTULOS AUTÔNOMOS. ART. 1.002 DO CPC/2015. PRECEDENTES DA CORTE ESPECIAL DO STJ. ERESP 1.424.404/SP E ERESP 1.738.541/RJ. SERVIDOR. APOSENTADORIA ESPECIAL. TEMPO DE SERVIÇO SOB CONDIÇÕES NOCIVAS. CONTAGEM RECÍPROCA. CONTRIBUINTE INDIVIDUAL. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+(..)
+V. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+VI. Ademais, a parte agravante, nas razões do Recurso Especial, limitou-se a afirmações genéricas, sobre as regras dos regimes previdenciários e de contagem de tempo de serviço, a atrair, na hipótese, por analogia, o óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+VII. Agravo interno improvido.
+(AgInt no REsp 1.953.266/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 28/10/2022).
+Por tudo isso, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
