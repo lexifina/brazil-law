@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 182):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA -GARANTIA DA ORDEM PÚBLICA - APREENSÃO DE 480G DE MACONHA, 29,6G DE CRACK, 363G DE COCAÍNA E BALANÇA DE PRECISÃO - IMPOSIÇÃO DE REGIME MAIS BRANDO EM CASO DE EVENTUAL CONDENAÇÃO -INVIABILIDADE DE ANÁLISE.
+1. A Prisão Preventiva encontra-se fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de relevante quantidade e variedade de drogas (480g de maconha, 29,6g de crack e 363g de cocaína), inclusive de alto poder lesivo, juntamente a balança de precisão, impondo-se a manutenção da segregação cautelar.
+2. A garantia da ordem pública e o perigo gerado pelo estado de liberdade são requisitos que, quando presentes, indicam a insuficiência e inadequação de Medidas Cautelares Diversas da Prisão.
+3. A desproporcionalidade da medida, em razão de provável imposição de regime menos gravoso, em eventual édito condenatório, não há como ser analisada no writ, porquanto a dosagem sancionatória é baseada em circunstâncias judiciais, a serem analisadas após a instrução criminal.
+Consta dos autos que o recorrente foi preso em flagrante em 5/7/2023, custódia essa convertida em prisão preventiva, pela suposta prática do delito previsto no art. 33 da Lei 11.343/2006.
+Impetrado habeas corpus no Tribunal de origem, foi a ordem denegada.
+Nas razões recursais, alega a defesa, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Destaca as condições pessoais do recorrente, primário, com bons antecedentes, endereço fixo e trabalho lícito e aventa a possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+A liminar foi deferida e prestadas as informações, manifestou-se o Ministério Público de Federal pelo desprovimento do recurso em habeas corpus.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Da decisão que converteu a prisão em flagrante em preventiva, colhe-se os seguintes trechos (fls. 117-118):
+Entrevistados pelos militares, o flagranteado e o adolescente informaram que estavam no local para realizarem a mercancia de entorpecentes, e que o plantão deles teria se iniciado às 07:00 h da manhã daquela data do evento.
+As substâncias entorpecentes apreendidas durante as diligências totalizaram 03 (três) invólucros e 04 (quatro) barras prensadas de maconha, pesando 480,0g (2,0g  478,0g), 119 (cento e dezenove) (59  60) pedras de crack, subproduto da cocaína, pesando 29,6g (14,9g  14,7g) e 42 (quarenta e dois) papelotes e 197 (cento e noventa e sete) pinos de cocaína, pesando 363,0g (63,0g  300,0g), parte delas acondicionadas em porções embaladas, divisadas e prontas para a venda, denotando a presença veemente de indícios da mercancia ilícita dos entorpecentes. As drogas foram submetidas a exame preliminar, constatando-se que se tratavam de substâncias entorpecentes, de uso e comércio proscrito, demonstrando a materialidade delitiva.
+Nos termos do artigo 313, I, do CPP, a prisão preventiva pode ser decretada quando a conduta praticada se tratar de crime doloso punido com pena privativa de liberdade máxima cominada em abstrato superiora 4 anos, tal qual ocorre no caso em apreço, nos termos do preceito secundário do artigo 33 da Lei de Tóxicos, que comina pena de reclusão de cinco a quinze anos.
+A gravidade concreta dos fatos corrobora a necessidade da conversão da prisão em flagrante em preventiva, para a garantia da ordem pública e da instrução criminal, apesar da primariedade do autuado.
+ ..
+Diante do exposto, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA DO AUTUADO PEDRO HENRIQUE SANTOS DE OLIVEIRA, nascido em 02/02/2003, nos termos do artigo 313, I d o CPP.
+Consoante disposto na análise inicial, apesar de ter sido acusado o recorrente da prática de crime de tráfico de drogas, nos termos do art. 33, caput, da Lei 11.343/2006, crime de natureza grave, não se verificam elementos que indiquem a necessidade da custódia cautelar, seja para resguardar a ordem pública, a apuração judicial dos fatos, ou ainda para assegurar a aplicação de eventual pena, o que revela a ausência de fundamentação concreta para justificar a manutenção da cautelar extrema, pois a motivação da prisão resumiu-se à gravidade genérica e abstrata do delito.
+Ressalte-se que apesar da apreensão de substâncias entorpecentes, consistentes em "maconha, pesando 480,0g (2,0g  478,0g), 119 (cento e dezenove) (59  60) pedras de crack, subproduto da cocaína, pesando 29,6g (14,9g  14,7g) e 42 (quarenta e dois) papelotes e 197 (cento e noventa e sete) pinos de cocaína, pesando 363,0g", vemos que tal quantidade não pode ser considerada tão relevante, a ponto de justificar por si só a manutenção da prisão preventiva.
+A Sexta Turma desta Corte tem entendido que o tráfico flagrado de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social, de modo que a medida de prisão é desproporcional.
+Ademais, na hipótese, além de ser o crime cometido sem violência ou grave ameaça à pessoa, o decreto prisional aponta ser o recorrente primário.
+Ante o exposto, dou provimento ao recurso em habeas corpus para a soltura do acusado, se por outro motivo não estiver preso, ficando a critério do juízo de primeiro grau a fixação de outras medidas cautelares diversas da prisão (art. 319 do CPP) .
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
