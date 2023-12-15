@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL DOCONTRIBUINTE INDIVIDUAL. EPIS. HONORÁRIOS ADVOCATÍCIOS. APLICABILIDADE DA SÚMULA 111 DO STJ. DIFERIMENTO.
+1. A lei não faz distinção entre o segurado empregado e o contribuinte individual para fins de concessão de aposentadoria especial. O reconhecimento do direito não configura instituição de benefício novo, sem a correspondente fonte de custeio. Incidência, ademais, do princípio da solidariedade.
+2. Não havendo provas consistentes de que o uso de EPIs neutralizava os efeitos dos agentes nocivos a que foi exposto o segurado durante o período laboral, deve-se enquadrar a respectiva atividade como especial. A eficácia dos equipamentos de proteção individual não pode ser avaliada a partir de uma única via de acesso do agente nocivo ao organismo, como luvas, máscaras e protetores auriculares, mas a partir de todo e qualquer meio pelo qual o agente agressor externo possa causar danos à saúde física e mental do segurado trabalhador ou risco à sua vida.
+3. Diferida para a fase de cumprimento de sentença a análise da incidência da Súmula 111/STJ na fixação de honorários advocatícios nas ações previdenciárias.
+Os Embargos de Declaração não foram providos.
+O INSS alega:
+Trata o presente Recurso Especial do inconformismo do INSS quanto ao acórdão prolatado do E. Tribunal Regional Federal de origem no tocante ao reconhecimento da possibilidade de cômputo do tempo de serviço especial para segurado contribuinte individual não cooperado após 29.04.1995.
+(..)
+Especificamente, não foi apreciada a tese levantada pela autarquia previdenciária acerca da impossibilidade do reconhecimento como especial da atividade exercida pelo contribuinte individual não cooperado após 29/04/1995, em razão da ausência de fonte de custeio, falta de habitualidade e permanência, impossibilidade de analisar ou não a eficácia do EPI e da unilateralidade e parcialidade da prova.
+Dessa forma, a Corte de Origem não apreciou o sentido e alcance do artigo 22, II, da Lei 8.212/91, do artigo 11, V, "h, do artigo 14, inciso I, parágrafo único, do artigo 57, caput, §§ 3º, 4º, 5º, 6º e 7º e do artigo 58, caput, § 1º e 2º da Lei 8.213/91, deixando de fundamentar o acórdão e de fazer constar as questões fáticas probatórias
+(..)
+Portanto, a contribuição adicional para custeio da aposentadoria especial, prevista no art. 57, §§ 6º e 7º da Lei nº 8.213/91, excluiu de seu campo de incidência os contribuintes individuais. Desse modo, reconhecer como especial a atividade exercida pelo contribuinte individual após a referida alteração contributiva, fere o art. 195, §5º, da CF/88 (regra da contrapartida), o qual estabelece que nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11 de outubro de 2023.
+Cuida-se, na origem, de Ação Previdenciária na qual foi deferido à parte autora o benefício da aposentadoria.
+Inicialmente, constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Colegiado originário julgou integralmente a lide e solucionou a causa em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando os pontos relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24.2.2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2015; e EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 27.5.2015.
+Como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses do recorrente. Ressalte-se que o mero inconformismo com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Para melhor compreensão da controvérsia, transcrevo, no que interessa, os fundamentos do decisum recorrido:
+A lei, entretanto, não nega ao contribuinte individual a possibilidade de obter aposentadoria especial, não se podendo fazer a distinção onde a lei não fez.
+Ao prever o direito à aposentadoria especial, a Lei 8.213/91 é clara ao estabelecer que será devida, uma vez cumprida a carência, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física. Como é sabido, a categoria segurado contempla não apenas o empregado, mas também, entre outros, o contribuinte individual.
+A circunstância de a lei 8.212/91 não trazer norma específica sobreo custeio da aposentadoria especial do contribuinte individual não afasta o direito ao benefício, que decorre, como visto, de expressa disposição da lei de benefícios.
+Não se está a instituir benefício novo, sem a correspondente fonte de custeio. Trata-se de benefício já existente passível de ser auferido por segurado que implementa as condições previstas na lei de benefícios.
+A Seguridade Social, ademais, como dispõe a Constituição, será financiada com recursos que não provêm especificamente de contribuições sobre as remunerações, mas também e em larga medida, de toda a sociedade e de contribuições das empresas sobre outras bases imponíveis. Trata-se da aplicação do princípio da solidariedade.
+Com efeito, a conclusão do acórdão impugnado está em harmonia com a orientação do STJ sobre o tema, segundo a qual o contribuinte individual não está excluído do rol dos beneficiários da aposentadoria especial, uma vez que o art. 57 da Lei de Benefícios não faz distinção entre os segurados e estabelece como requisito para a concessão do benefício apenas o exercício de atividade sujeita a condições que prejudiquem a saúde ou a integridade física do trabalhador.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL DO SEGURADO CONTRIBUINTE INDIVIDUAL. CABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1.Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência do Superior Tribunal de Justiça tem admitido o reconhecimento da especialidade de atividade exercida pelo segurado contribuinte individual, bem como da concessão de aposentadoria especial.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.697.600/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 29/4/2021)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182/STJ. CONTRIBUINTE INDIVIDUAL. RECONHECIMENTO DE TEMPO ESPECIAL. POSSIBILIDADE. ENTENDIMENTO PACIFICADO DO STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar especificamente fundamentos autônomos da decisão agravada, quais sejam: (I) a não ocorrência de negativa de prestação jurisdicional no caso concreto; e que (II) a parte autora faz jus ao reconhecimento de tempo de serviço especial no período posterior à vigência da Lei n. 9.032/95, por exposição a agentes nocivos biológicos. Neste ponto, verifica-se a atração da Súmula 182/STJ.
+2. A Primeira Turma desta Corte, no julgamento do REsp 1.473.155/RS, Relator o Ministro Sérgio Kukina, firmou entendimento no sentido de que o art. 57 da Lei n. 8.213/91, que trata da aposentadoria especial, não faz distinção entre os segurados, estabelecendo como requisito para a concessão do benefício o exercício de atividade sujeita a condições que prejudiquem a saúde ou a integridade física do trabalhador.
+3. O segurado individual não está excluído do rol dos beneficiários da aposentadoria especial, mas cabe a ele demonstrar o exercício de atividades consideradas prejudiciais à saúde ou à integridade física, nos moldes previstos na legislação de regência.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.540.963/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 9/5/2017)
+Ademais, a Corte regional decidiu a questão com base no suporte fático-probatório dos autos, cujo revolvimento é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova.
+Diante do exposto, nego provimento ao Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
