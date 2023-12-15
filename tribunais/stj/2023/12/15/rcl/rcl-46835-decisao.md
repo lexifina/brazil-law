@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de reclamação constitucional, fundada nos arts. 105, I, "f", da Carta Republicana e 988, II, do CPC, ajuizada por Getúlio Alves de Lima em desfavor do Ministério Público do Distrito Federal e Territórios, sob alegação de descumprimento do determinado por esta Corte Superior nos autos do RMS 61.150/DF.
+Em síntese, alega o Reclamante que "foi iniciado o cumprimento do Acórdão nos autos do MS nº 0700671-49.2019.8.07.0000, perante o Conselho Especial /TJDFT" (fl. 6) mas o requerimento dirigido ao juízo da execução, requerendo esclarecimentos quanto ao valor do subsídio a ser considerado, o índice a ser adotado para a correção monetária e o termo inicial da incidência de juros (fls. 5/6) foi indeferido pelo TJDFT, em decisão que também fixou prazo para iniciar o cumprimento da sentença (fl. 6). Daí a irresignação autoral, vazada nos seguintes moldes:
+Portanto, ao anuir com a negativa da administração do MPDFT, o E. TJDFT afronta a decisão contida no RMS61.150/DF, uma vez que, não haverá pagamento, nem mesmo pela via de precatórios, como determinado pelo Conselho Especial. (fl. 12)
+Há, ainda, pedido de suspensão do processo e a "a concessão de liminar determinando ao MPDFT a realização do cálculo, informando: a)o subsídio a ser considerado, se o da data da aposentadoria ou da impetração do "writ" ou ainda, o atual; b)quanto à correção monetária, é de se definir o índice a ser utilizado e qual o termo inicial, considerando que esta é a simples atualização do principal; c)quanto aos juros, qual o termo "a quo" ou inicial e percentual respectivo; d)se incide o contido no art. 220, § 2.ºe 4.º, da Lei Complementar n.º 75/934, quanto à importância correspondente a um terço da remuneração do período em que as mesmas devam ser gozadas" (fl. 13).
+O Reclamante advoga em causa própria (OAB/DF 53.925).
+Custas recolhidas (fl. 15).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A decisão oriunda deste STJ e que o Reclamante tem por descumprida, a saber, o RMS 61.150/DF, da Relatoria do e. Ministro Og Fernandes, traz o seguinte comando:
+Ante o exposto, acolho os embargos de declaração, com efeito modificativo, para tornar sem efeito a decisão embargada e, em seguida, conheço do recurso em mandado de segurança para lhe dar parcial provimento, assegurando ao servidor público inativo a conversão de férias não gozadas em indenização pecuniária, conforme orientação da Suprema Corte no julgamento do Agravo em Recurso Extraordinário n. 721.001/RJ.
+Por sua vez, da decisão formalmente apontada como reclamada, proferida pelo Conselho Especial do TJDFT e apresentada por cópia às fls. 17/18, colho o seguinte excerto:
+Para efetivar a norma fundamental do processo civil, nos artigos 523 e seguintes, a lei processual estabeleceu as obrigações das partes e estipulou que o cumprimento definitivo da sentença que reconhece a exigibilidade de obrigação de pagar quantia certa far-se-á a requerimento do exequente, o qual será instruído com o demonstrativo discriminado e atualizado do crédito, de acordo com os parâmetros elencados nos incisos do art. 524 do Código de Processo Civil. Tais parâmetros incluem o índice de correção monetária adotado, os juros aplicados e as respectivas taxas, além dos termos inicial e final de atualização.
+Assim, a execução deverá ser iniciada pelo valor pretendido pelo exequente e será dada ao executado a oportunidade de impugnação, nos termos dos §§ 1º e 4º do art. 525 do Código de Processo Civil.
+ ..
+Com efeito, a parte exequente deve inaugurar a fase de cumprimento de sentença, sendo seu o ônus de trazer aos autos a planilha de cálculos elaborada nos termos da lei processual civil, a qual será submetida ao executado para eventual impugnação.
+Ainda nos termos da legislação de regência, o exame das questões controvertidas ora suscitadas unilateralmente pelo exequente deve ser postergado para a fase de impugnação dos cálculos, após o efetivo contraditório, caso arguidas pelo executado.
+DIANTE DO EXPOSTO, indefiro os pedidos formulados pela parte exequente.
+Intime-se o exequente para requerer o cumprimento definitivo da sentença, devidamente instruído com demonstrativo discriminado e atualizado do crédito, nos termos dos artigos 523 e 524do Código de Processo Civil. (os destaques são do original).
+Nesse contexto, a presente reclamação não merece acolhimento.
+Não se evidencia - nem o reclamante o pode demonstrar - desafio à autoridade da decisão deste tribunal, no que determinou "a conversão das férias não gozadas em indenização pecuniária". Antes, a petição noticia, na verdade, existência de decisão judicial intimando o exequente (ora reclamante) para "requerer o cumprimento definitivo da sentença, devidamente instruído com demonstrativo discriminado e atualizado do crédito" a que entende ter direito (art. 524 do CPC), demonstrativo esse que será, oportunamente, submetido ao contraditório.
+Portanto, descabe cogitar de descumprimento da decisão emanada deta Corte Superior.
+ANTE O EXPOSTO, com fundamento nos arts. 34, XVIII, "b", do RISTJ, julgo improcedente a reclamação.
+Comunique-se ao TJDFT e ao MPDFT (Reclamados).
+Publique-se.
+EMENTA
