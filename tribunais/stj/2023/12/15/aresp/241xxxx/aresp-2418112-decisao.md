@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por JUAN CARLOS CRUZ SANCHEZ com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl. 384):
+"APELAÇÃO - EMBARGOS À EXECUÇÃO - SENTENÇA DE IMPROCEDÊNCIA - RECURSO - GRATUIDADE DENEGADA - APELANTE, SÓCIO-ADMINISTRADOR DA DEVEDORA PRINCIPAL, QUE FIRMOU INSTRUMENTO DE CONFISSÃO DE DÍVIDA COMO GARANTE-SOLIDÁRIO - LEGITIMIDADE PASSIVA - CDC NÃO INCIDENTE - MÚTUO EMPREGADO NO FINANCIAMENTO DE ATIVIDADE EMPRESARIAL HIPOSSUFICIÊNCIA AUSENTE - NENHUMA IRREGULARIDADE OU EXCESSO DEMONSTRADO - RECURSO DESPROVIDO, COM DETERMINAÇÃO (RECOLHIMENTO DO PREPARO, NO PRAZO DE CINCO DIAS, SOB PENA DE INSCRIÇÃO NO CADIN)."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, que o Tribunal a quo negou vigência ao art. 489, IV, do Código de Processo Civil, considerando que não enfrentou os argumentos voltados à nulidade do título, consoante a Lei 7.357/1985.
+Defende ainda que o Tribunal a quo negou vigência aos arts 30 e 31 da Lei 7.357/1985 (Lei do Cheque), ante a não observância aos requisitos legais que deveriam revestir o aval prestado, os quais levariam a sua ilegitimidade passiva ad causam, para responder pelo débito cobrado no âmbito da ação de execução.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em embargos à execução ajuizados por Juan Carlos Cruz Sanchez, ora agravante, em face do Banco Rural S/A, alegando, em suma, ilegitimidade passiva, porquanto a garantia prestada pelo embargante não se revestiria dos requisitos legais e da forma prevista em lei; o aval aposto no contrato não obedeceu à forma prescrita em lei; que a garantia deveria ter natureza cambiária; nulidade do aval; ausência de documento indispensável à propositura da ação, qual seja, demonstrativo de cálculo; excesso de execução, em razão de o embargado não ter abatido corretamente a totalidade dos juros remuneratórios embutidos nas prestações vincendas, como determina o §2º do art. 52 do CDC; que a partir do vencimento da dívida não é lícito ao credor fazer incidir sobre o montante do capital os juros remuneratórios; que houve cobrança de taxas, juros e acessórios extorsivos, inseridos no contrato de forma obscura e confusa; contrato de adesão sem clareza suficiente, com redação que dificulta a compreensão; impossibilidade de cumulação de comissão de permanência com outros encargos moratórios, requerendo a extinção da execução ou a declaração e exclusão do excesso de execução conforme perícia contábil.
+Os embargos à execução foram julgados improcedentes.
+Em preliminar, cumpre enfrentar a alegada ausência de fundamentação, nos termos do art. 489 do CPC/2015, quanto ao vício de constituição do aval e sua nulidade diante da não observância dos requisitos previstos nos arts 30 e 31 da Lei do Cheque (Lei n2 7.357/1985).
+A irresignação não prospera, pois o Tribunal a quo enfatizou que o embargante não fez prova das propaladas irregularidades, o que impediu a análise da pretensão revisional, na medida em que o ônus da prova acerca das irregularidades recai ao embargante.
+Outrossim, cumpre asseverar que a pretensão em enfrentar os requisitos do aval implica revolvimento de fatos e provas, na medida em que o Tribunal a quo, a despeito de ter asseverado que o embargante/executado não provou suas alegações no âmbito dos embargos à execução, asseverou que o processo de execução contém documentos suficientes a constituição válida e regular, pois fora ajuizada com amparo em instrumento particular de confissão de dívida de R$ 230.849,25, a ser pago em 15 prestações de R$ 15.389,95, vencendo a primeira em 20/04/2008 e a última em 20/05/2009, incidentes CDI mais juros de 1 % a.m. e, para o período da inadimplência, juros moratórios de 12% a.a. e multa de 2%.
+Destarte, a alteração do acórdão recorrido para que seja reconhecido que há nulidade do aval nos termos dos arts. 30 e 31 da Lei 7.357/1985, implica revolvimento de fatos e provas, técnica vedada no âmbito do recurso especial, ante a Súmula 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS Á EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO EXECUTADO.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. O conteúdo normativo dos artigos 85 do CPC/15 não foi objeto de discussão pelo órgão julgador, tampouco foram apresentados embargos de declaração pelo insurgente a fim de sanar omissão ou prequestionar a matéria, atraindo o teor das Súmulas 282 e 356 do STF à hipótese.
+3. Para revisar as conclusões do órgão julgador acerca da existência de título executivo líquido, certo e exigível, como pretende o recorrente, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência obstada pela Súmula 7 do STJ. Precedentes.
+4. A jurisprudência desta Corte Superior é no sentido de que o aval não se equipa à fiança para o fim de admitir o benefício de ordem, uma vez que o avalista constitui um responsável autônomo e solidário. Precedentes.
+5. Agravo interno desprovido."
+(AgInt no REsp 2.027.935/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2023, DJe de 20/04/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PROCEDÊNCIA. CHEQUE. ASSINATURA NO VERSO. ENDOSSO. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO CONFIGURAÇÃO. ANÁLISE DOS TÍTULOS EXECUTADOS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Não se verifica a alegada violação ao art. 535 do CPC/1973 quando a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. O acolhimento da pretensão recursal, no sentido de que a terceira assinatura/rubrica da recorrida aposta no verso de cada cheque, mesmo que sem constar de forma expressa, traduz-se como aval, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.141.633/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/02/2017, DJe de 23/02/2017)
+Dessa forma, entende-se que o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e nessa parte, negar-lhe provimento. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+Publique-se.
+EMENTA
