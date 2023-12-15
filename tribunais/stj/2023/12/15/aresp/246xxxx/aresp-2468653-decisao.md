@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por LEANDRO BERNARDINO RACHADEL e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÕES CÍVEIS. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA. PLEITO DE ADJUDICAÇÃO COMPULSÓRIA DE IMÓVEL FUNDADO EM INSTRUMENTO PARTICULAR DE COMPROMISSO DE COMPRA E VENDA. INSUBSISTÊNCIA. INDÍCIOS DE FALSIDADE NO DOCUMENTO MENCIONADO. TENTATIVA DE REGISTRO DO NEGÓCIO JURÍDICO CELEBRADO QUE LEVOU Ã INSTAURAÇÃO DE INQUÉRITO POLICIAL. TITULAR DO CARTÓRIO DE REGISTRO DE IMÓVEIS QUE APONTOU EM SEDE POLICIAL EVIDÊNCIAS DE FRAUDE NOS RECONHECIMENTOS DE FIRMAS E TAMBÉM NO CARIMBO DO TABELIONATO DE NOTAS APOSTO NO DOCUMENTO. INDICATIVOS DE QUE O INSTRUMENTO PARTICULAR FOI CONFECCIONADO EM ÉPOCA POSTERIOR À DATA REDIGIDA. HIGIDEZ DO NEGÓCIO JURÍDICO NÃO DEMONSTRADA. ÔNUS QUE INCUMBIA AO AUTOR. INTELIGÊNCIA DO ART. 333, I, DO CPC/1973 (ART. 373, I, CPC/2015). SENTENÇA MANTIDA. INSURGÊNCIA DA ASSISTENTE LITISCONSORCIAL.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 85, § 2º, do CPC, sustentando que, no caso, o proveito econômico é mensurável para aplicação de percentual na condenação dos honorários advocatícios sucumbenciais, trazendo a seguinte argumentação:
+Com a devida venia, o entendimento firmado pelo egrégio TJSC, no sentido de que o proveito econômico se confundiria com o valor da causa, bem como que a parte Recorrente não teria impugnado o valor da causa à época, não merece prosperar.
+O proveito econômico nada mais é do que o benefício obtido pela parte com a improcedência da ação.
+No caso em comento, sendo improcedente a ação judicial de adjudicação compulsória, como o foi, com o reconhecimento de que o Recorrido não comprovou ser o proprietário do bem, restará mantido o imóvel discutido na lide em poder da Recorrente, sendo este, objetiva e inquestionavelmente, o seu proveito econômico.
+Logo, a verba honorária deveria ter sido fixada em percentual incidente sobre o valor atual do imóvel, a ser apurado em fase de cumprimento de sentença.
+ ..
+O próprio Código de Processo Civil estabelece uma ordem de preferência de critérios, de modo que a existência de uma das hipóteses previstas na lei impede que se avance para outra categoria de forma discricionária pelo julgador.
+Reitera-se que o Art. 85, §2º, do CPC é claro em apontar que não havendo condenação, o proveito econômico será considerado para a base de cálculo da verba sucumbencial. A clareza e taxatividade da norma vigente não permitem interpretação ou entendimento diverso (fls. 1.063/1.064).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Sustentou a recorrente que a verba sucumbencial, fixada na origem em 10% (dez por cento) do valor da causa, deve incidir sobre o proveito econômico obtido por ela - no caso o valor de mercado do imóvel.
+Todavia, no caso em estudo, o valor da causa coincide com o proveito econômico, até mesmo porque no despacho 58 foi determinado ao autor a correção do valor da causa para que correspondesse ao "conteúdo econômico pretendido com a demanda e providenciar o recolhimento das custas remanescentes".
+A apelante, que ingressou no feito como terceira interessada após o cumprimento daquele comando, deveria ter impugnado a nova valoração no prazo da contestação, sob pena de se presumir aceito o valor atribuído à causa, nos termos do art. 261 e seu parágrafo único do CPC/1973, vigente à época.
+Para mais, a despeito de defender que o valor de mercado do imóvel é muito superior àquele apontado na correção do juízo, não há nada nos autos a corroborar essa afirmação.
+ ..
+Mantém-se, assim, a base de cálculo dos honorários advocatícios sobre o valor atualizado da causa (fls. 1.045/1.046).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
