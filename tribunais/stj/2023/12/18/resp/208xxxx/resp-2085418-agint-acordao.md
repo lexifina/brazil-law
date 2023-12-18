@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. EQUIDADE. IMPOSSIBILIDADE.
+1. Hipótese em que o Tribunal de origem consignou: "A verba honorária - fixada em 10% do valor da causa, com base no art. 85 e ss. do CPC - está em desacordo com o que se tem quotidianamente estabelecido no âmbito desta Turma Regional Suplementar. Minoro, portanto, os honorários para R$ 3.000,00 (três mil reais), pro rata, quantum que esta Turma Regional Suplementar tem estabelecido em casos envolvendo tratamentos médicos e fornecimento de medicamentos independentemente do valor atribuído à causa, já que se trata de ação relacionada à garantia do direito à saúde, cujo valor material é inestimável, nos termo do § 8º do art. 85 do CPC, acolhendo o recurso do Estado de SC, portanto" (fl. 459, e-STJ).
+2. O entendimento exarado no acórdão recorrido diverge da orientação da Corte Especial do STJ, que, em hipótese análoga - demanda voltada ao custeio de medicamentos para tratamento de saúde -, entendeu que a fixação da verba honorária com base no art. 85, § 8º, do CPC/2015 estaria restrita às causas em que não se vislumbra benefício patrimonial imediato, como, por exemplo, as de estado e de direito de família: AgInt nos EDcl nos EREsp 1.866.671/RS, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 27.9.2022. No mesmo sentido: EDcl no AgInt no REsp 1.808.262/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.9.2023.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática (fls. 583-586, e-STJ que deu provimento ao recurso da ora agravada.
+O agravante alega:
+Com efeito, cumpre ressaltar que no momento em que foi estabelecido o valor referente a verba honorária, pela corte local, essa se deu com base no critério da equidade, como bem destacado na decisão agravada.
+Deste modo, não merecem modificação os honorários advocatícios arbitrados.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.085.418 - SC (2023/0243976-8)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+ESTADO DE SANTA CATARINA
+ADVOGADO
+:
+ROSÂNGELA CONCEIÇÃO DE OLIVEIRA MELLO - SC017103
+AGRAVADO
+:
+ELIETE RAMOS DE SOUZA MACHADO
+ADVOGADO
+:
+ERACI NUNES CASTRO DA ROSA - SC034324
+INTERES.
+:
+MUNICÍPIO DE CAPIVARI DE BAIXO
+ADVOGADO
+:
+ANDRÉ MOREIRA PEGORIM - SC029404
+INTERES.
+:
+UNIÃO
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. EQUIDADE. IMPOSSIBILIDADE.
+1. Hipótese em que o Tribunal de origem consignou: "A verba honorária - fixada em 10% do valor da causa, com base no art. 85 e ss. do CPC - está em desacordo com o que se tem quotidianamente estabelecido no âmbito desta Turma Regional Suplementar. Minoro, portanto, os honorários para R$ 3.000,00 (três mil reais), pro rata, quantum que esta Turma Regional Suplementar tem estabelecido em casos envolvendo tratamentos médicos e fornecimento de medicamentos independentemente do valor atribuído à causa, já que se trata de ação relacionada à garantia do direito à saúde, cujo valor material é inestimável, nos termo do § 8º do art. 85 do CPC, acolhendo o recurso do Estado de SC, portanto" (fl. 459, e-STJ).
+2. O entendimento exarado no acórdão recorrido diverge da orientação da Corte Especial do STJ, que, em hipótese análoga - demanda voltada ao custeio de medicamentos para tratamento de saúde -, entendeu que a fixação da verba honorária com base no art. 85, § 8º, do CPC/2015 estaria restrita às causas em que não se vislumbra benefício patrimonial imediato, como, por exemplo, as de estado e de direito de família: AgInt nos EDcl nos EREsp 1.866.671/RS, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 27.9.2022. No mesmo sentido: EDcl no AgInt no REsp 1.808.262/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.9.2023.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.11.2023.
+A irresignação não merece prosperar.
+O Colegiado originário consignou (fl. 459, e-STJ):
+A verba honorária - fixada em 10% do valor da causa, com base no art. 85 e ss. do CPC - está em desacordo com o que se tem quotidianamente estabelecido no âmbito desta Turma Regional Suplementar. Minoro, portanto, os honorários para R$ 3.000,00 (três mil reais), pro rata, quantum que esta Turma Regional Suplementar tem estabelecido em casos envolvendo tratamentos médicos e fornecimento de medicamentos independentemente do valor atribuído à causa, já que se trata de ação relacionada à garantia do direito à saúde, cujo valor material é inestimável, nos termo do § 8º do art. 85 do CPC, acolhendo o recurso do Estado de SC, portanto.
+Em juízo de retratação (fls. 548-549, e-STJ), o órgão julgador manteve esse entendimento. Concluiu:
+Não há o que retratar. Isso porque o Superior Tribunal de Justiça, ao julgar o Tema 1.076dos recursos repetitivos, admitiu a fixação de honorários por equidade nas situações em que o proveito econômico for inestimável, exatamente a situação envolvendo o fornecimento de medicamentos, cujo objeto imediato é a preservação da vida, de valor incomensurável.
+Apenas destaco que a decisão tomada pela Corte Especial daquele Sodalício (AgInt nos EDcl nos EREsp n. 1.866.671/RS, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 21/9/2022) trata de caso próximo, mas não idêntico, já que abrange pretensão de saúde cumulada com danos morais em face de Caixa de Assistência. Penso, então, que se deve prestigiar decisões de ambas as Turmas do STJ que julgam a matéria e que são uníssonas quanto ao ponto.
+A Corte Especial do STJ, em hipótese análoga - demanda voltada ao custeio de medicamentos para tratamento de saúde -, entendeu que a fixação da verba honorária com base no art. 85, § 8º, do CPC/2015 estaria restrita às causas em que não se vislumbra benefício patrimonial imediato, como, por exemplo, as de estado e de direito de família.
+Nessa linha:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER (CUSTEIO DE MEDICAMENTOS OFF LABEL PARA TRATAMENTO QUIMIOTERÁPICO) CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.
+1. Quanto à ocorrência dos vícios elencados nos artigos 489, § 1º, e 1.022 do CPC, é cediço que as peculiaridades de cada demanda judicial impedem a aferição do dissídio pretoriano, não sendo os embargos de divergência a via adequada para a verificação do acerto ou desacerto da decisão embargada.
+2. No que diz respeito ao alegado conflito interpretativo sobre a ocorrência ou não de dano moral in re ipsa em caso de recusa indevida de custeio de medicamento off label para tratamento quimioterápico pela operadora de plano de saúde, a Corte Especial tem competência para aferir a admissibilidade dos embargos de divergência, malgrado os arestos paradigmas sejam todos oriundos da Segunda Seção. Isso porque "a obrigatoriedade de cisão do julgamento e remessa dos autos à Seção especializada deste Tribunal Superior somente tem sentido caso o mérito da divergência tenha que ser analisado, sob pena de absoluto desrespeito aos princípios da razoável duração do processo e celeridade processual" (AgInt nos EAREsp n. 673.112/TO, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 22/2/2022, DJe de 9/3/2022; EDcl no AgRg nos EAREsp n. 1.231.405/SC, relatora Ministra Laurita Vaz, Corte Especial, julgado em 5/6/2019, DJe de 18/6/2019; e AgRg nos EAREsp n. 593.919/PR, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 7/11/2018, DJe de 23/11/2018).
+3. Em nenhum dos julgados da Quarta Turma - apontados como paradigmas -, houve a constatação de peculiaridades fáticas aptas a tornar controvertida a obrigatoriedade do custeio dos medicamentos e a, consequentemente, afastar a indenização por dano moral, como ocorreu no presente caso concreto. Daí a ausência de similitude fática entre os arestos confrontados.
+4. Os inúmeros precedentes da Terceira Turma indicados pela embargante não se prestam, outrossim, ao conhecimento dos embargos de divergência, pois, além de não ter sido demonstrada a alteração da composição do aludido órgão julgador em mais da metade de seus membros entre a data do julgamento da decisão embargada e a data de julgamento de alguns paradigmas - ex vi do disposto nos artigos 1.043, § 3º, do CPC e 266, § 3º, do RISTJ -, não se efetuou o cotejo analítico entre os acórdãos, sendo jurisprudencialmente consagrada a insuficiência da mera transcrição de ementas.
+5. Em relação à base de cálculo dos honorários advocatícios sucumbenciais, o acórdão embargado encontra-se em dissonância com a recente jurisprudência da Corte Especial - firmada por ocasião do julgamento de recurso especial repetitivo (Tema 1.076/STJ) - no sentido de que: "I) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. II) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, por maioria, julgado em 16.3.2022).
+6. Na referida assentada, a maioria dos Ministros considerou nítida a intenção do legislador em correlacionar a expressão inestimável valor econômico - prevista no § 8º do artigo 85 do CPC - somente para as causas em que não se vislumbra benefício patrimonial imediato, como, por exemplo, nas causas de estado e de direito de família, não se devendo confundir o termo "valor inestimável" com "valor elevado".
+7. Assim, verifica-se que, diversamente do esposado pelo acórdão impugnado, o caso dos autos não é de incidência do óbice da Súmula 7/STJ, mas sim de definição do critério normativo adequado para arbitramento da verba honorária. E, à luz do provimento jurisdicional condenatório fixado nas instâncias ordinárias - cujo montante econômico poderá ser aferido em liquidação da sentença -, afigura-se de rigor o arbitramento dos honorários advocatícios em 10% do aludido quantum, com base no § 2º do artigo 85 do CPC, não retratando hipótese de proveito econômico inestimável.
+8. Tendo sido mantida a rejeição do pedido de indenização por dano moral - ante a incognoscibilidade dos embargos de divergência no ponto -, deve-se reconhecer a configuração de sucumbência recíproca na espécie, o que impõe a redistribuição do ônus sucumbencial em 70% às rés e em 30% aos sucessores dos autores.
+9. Agravo interno parcialmente provido para conhecer em parte dos embargos de divergência e, nessa extensão, dar-lhes provimento para arbitrar os honorários advocatícios em 10% sobre o valor da condenação, observada a sucumbência recíproca das partes e a majoração em favor dos sucessores dos autores arbitrada nos termos do § 11 do artigo 85 do CPC.
+(AgInt nos EDcl nos EREsp n. 1.866.671/RS, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 27/9/2022.)
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. EQUIDADE. IMPOSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL.
+1. Trata-se, na origem, de ação proposta por portadora de hepatite C contra o Estado de São Paulo, objetivando o fornecimento de medicamentos. Atribuiu-se à causa o valor de R$ 287.502,72 (duzentos e oitenta e sete mil, quinhentos e dois reais e setenta e dois centavos). Observo que a controvérsia travada gira em torno do arbitramento de honorários sucumbenciais fixados nos termos do que preceitua o art. 85, § 3º, do CPC/2015.
+2. O Tribunal a quo, ao fixar os honorários advocatícios, decidiu (fl. 364, e-STJ): "Quanto aos honorários advocatícios, observa-se que foram fixados em 10% sobre o valor da causa que, no caso, foi arbitrado pelo juízo de primeiro grau, em R$ 287.502,72 (fls. 297). Nestes termos, sendo vencida a Fazenda Pública, a fixação dos honorários advocatícios deve seguir os parâmetros do art. 85 do NCPC, em especial os seus §§ 2º e 3º. Não é o caso de se aplicar o § 8º (apreciação equitativa) do mesmo artigo, uma vez que o benefício econômico pretendido pela autora pode ser aferido por se tratar de pedido determinado (fornecimento dos medicamentos Viekira Pak e Ribavirina pelo período de 12 semanas fls. 28). Por esta razão, sendo possível aferir o proveito econômico, os honorários advocatícios, realmente, devem ser fixados em percentual sobre ele, atendidos os §§ 2º e 3º do art. 85, do NCPC. E nesta hipótese, a Fazenda indicou de forma precisa o gasto mensal dos medicamentos (fls. 147), totalizando, para o período de 12 semanas, o valor de R$ 272.502,72. Assim, considerando que o pedido de indenização por danos morais foi julgado improcedente, o conteúdo econômico obtido pela autora é de R$ 272.502,72. Desta forma, para o cálculo dos honorários advocatícios, deverá ser considerado este valor observando-se, também, a faixa mínima dos percentuais previstos no § 3º do art. 85 do NCPC e a gradação estabelecida no § 5º do mesmo artigo que legitima o percentual de 10%".
+3. Com efeito, a irresignação da embargante prospera, porque a decisão regional está em consonância com o entendimento da Corte Especial do STJ, que, em hipótese análoga de demanda voltada ao custeio de medicamentos para tratamento de saúde, julgou que a fixação da verba honorária com base no art. 85, § 8º, do CPC/2015 estaria restrita às causas em que não se vislumbra benefício patrimonial imediato, como, por exemplo, as de estado e de direito de família: AgInt nos EDcl nos EREsp 1.866.671/RS, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 27.9.2022.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, a fim de prover o Agravo Interno, de modo a negar provimento ao Recurso Especial da Fazenda do Estado de São Paulo.
+(EDcl no AgInt no REsp n. 1.808.262/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
