@@ -1,0 +1,25 @@
+DECISÃO
+JOSÉ AUGUSTO ALVES DO ROSÁRIO e FÁBIO JÚNIOR GOMES DE AVIZ interpõem recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0014376-07.2017.8.14.0009.
+Os recorrentes foram condenados, como incursos no art. 157, § 2º, I e II, do Código Penal (redação anterior à da Lei 13.654/2018), cada um, à idêntica sanção de 6 anos de reclusão, no regime semiaberto, mais 15 dias-multa, o que foi mantido em grau recursal.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 59 e 68 do Código Penal e 617 do Código de Processo Penal. Argumentou que o Tribunal a quo não analisou detidamente cada circunstância judicial, na primeira fase da dosimetria. Afirmou que, em recurso exclusivo da defesa, na terceira etapa, houve exasperação desproporcional da reprimenda, decorrente do concurso de majorantes, pois a sanção foi aumentada na sentença mediante a adoção de mero critério quantitativo. Ressaltou que não caberia, em apelação defensiva, o acréscimo de fundamentos pelo Tribunal de origem, sob pena de violação do princípio do non reformatio in pejus.
+Nesses termos, requereu a readequação da sanção.
+Apresentadas as contrarrazões, o recurso foi admitido em juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 306-310).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 318-320).
+Decido.
+I. Admissibilidade
+O recurso especial suplanta apenas parcialmente o juízo de prelibação, haja vista a ausência de interesse de agir quanto à alegação de ofensa ao art. 59 do CP.
+II. Violação do art. 59 do Código Penal - ausência de interesse recursal
+Verifico que a pena-base foi estabelecida no mínimo legal na sentença (fls. 207-208), o que foi mantido pela Corte local (fl. 278), a qual não debateu a matéria. Assim, o recurso carece de interesse de agir quanto à pretensa violação do art. 59 do CP.
+III. Ofensa aos arts. 68 do Código Penal e 617 do Código de Processo Penal - não ocorrência
+Ao aplicar, em 1/2, o aumento decorrente do emprego de arma de fogo e do concurso de agentes, com base na legislação vigente à época dos fatos, o Tribunal de origem registrou o seguinte (fl. 287, grifei):
+Ainda que não indagado pela defesa, analisei, de ofício, a dosimetria imposta aos recorrentes, não encontrando na primeira e nem na segunda fase nenhum prejuízo aos recorrentes.
+Já na terceira, observo que foi utilizada fração de 1/2 (acima do mínimo, que corresponde a 1/3) pelas majorantes, sem a fundamentação correlata. Entretanto, entendo que esta encontra-se proporcional e justa ao caso, haja vista que o concurso de pessoas se deu em três agentes, em que dois deles estavam armados. Acrescento, ainda, o fato de terem mandado uma das vítimas deitar-se no chão e ficarem a ameaçando de morte. Tudo isso revela a gravidade concreta da conduta perpetrada pelas recorrentes e respalda a fração aplicada, por merecerem maior resposta penal.
+Nos termos do art. 68, parágrafo único, do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua".
+A presença de duas majorantes não acarreta, necessariamente, o incremento acima do mínimo legal previsto no art. 157, § 2º, I e II, do CP (redação anterior à da Lei n. 13.654/2018). Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ.
+Como se observa, o incremento acima do mínimo legal de 1/3 veio acompanhado de fundamentos válidos, com base no modus operandi da empreitada criminosa - concurso de três agentes, estando dois deles armados, e grave ameaça à vida da vítima a quem os criminosos ordenaram que ficasse deitada no chão.
+Ademais, este Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena, quando não previstos expressamente na lei, em observância aos princípios da razoabilidade e da proporcionalidade.
+Especificamente em relação ao alegado acréscimo de fundamentação pelo Tribunal estadual para manter em 1/2 a fração decorrente do acúmulo de causas de aumento, o entendimento desta Corte Superior é de que, embora a Corte local haja mencionado fundamentos não usados pelo Juízo sentenciante, a situação dos réus não foi, direta ou indiretamente agravada, pois, com o não provimento da apelação no tocante a esse tema, manteve-se inalt erada a sentença condenatória relativamente à reprimenda. Não há de se falar, portanto, em reformatio in pejus. Nesse sentido: AgRg no AREsp n. 1.665.066/GO, relator Ministro Rogerio Schietti Cruz, 6ª T., DJe 26/8/2020.
+IV. Dispositivo
+À vista do exposto, conheço parcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
