@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Estado do Rio Grande do Sul em adversidade à decisão que inadmitiu recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado (e-STJ fl. 349):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. RECURSOS DEFENSIVO E MINISTERIAL. INEXISTÊNCIA DE SITUAÇÃO DE FLAGRANTE ANTERIOR À ABORDAGEM DO ACUSADO. ILICITUDE DA PROVA OBTIDA. BUSCA PESSOAL SEM A EXISTÊNCIA DE FUNDADAS SUSPEITAS. ABSOLVIÇÃO.
+Não restou suficientemente esclarecida a motivação da abordagem. O simples ato de assustar-se ou de empreender fuga, não implica em suspeita ou percepção ex ante de que o réu possuía objetos ilícitos consigo.
+O atual paradigma das Cortes Superiores é no sentido de que deve haver justa causa concreta, definida esta como situação anterior que configure flagrante delito ou motivadas razões suficientes que permitissem aos agentes a revista pessoal, o que não estava presente no caso concreto. Violação das regras e condições legais para a busca pessoal. Nulidade da prova.
+Sentença reformada, réu absolvido.
+APELAÇÃO DEFENSIVA PROVIDA, POR MAIORIA. PREJUDICADO O RECURSO DO MINISTÉRIO PÚBLICO. RÉU ABSOLVIDO.
+Os embargos de declaração opostos pelo Ministério Público foram rejeitados.
+Nas razões recursais, alega o MP violação dos arts. 157, 240, § 2º, 244 e 619, todos do Código de Processo Penal.
+Sustenta: (i) omissão quanto a teses apresentadas em embargos de declaração e (ii) a legalidade da busca pessoal, devido à "atitude suspeita em local conhecido como ponto de comércio de entorpecentes, com fuga com a aproximação/visualização dos policiais, a ensejar a suspeita de ocultação objetos ilícitos" (e-STJ fl. 408).
+Requer, assim, o provimento do recurso, a fim de que seja restabelecida a sentença condenatória.
+Apresentadas contrarrazões e contraminuta, manifestou-se o Ministério Público, nesta instância, pelo não provimento do recurso.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece prosperar.
+Inicialmente, ao contrário do que sustenta a parte recorrente, não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia.
+Verifica-se, portanto, que, diferentemente do que alega o recorrente, a Corte apresentou fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+Nesse contexto, tem-se que o fato de não ter sido acolhida a irresignação da parte, apresentando a Corte local fundamentação em sentido contrário, por certo não revela violação do art. 619 do Código de Processo Penal.
+Por outro lado, nos termos do art. 240, § 2º, do Código de Processo Penal, para a realização de busca pessoal pela autoridade policial, é necessária a presença de fundada suspeita de que a pessoa abordada esteja na posse de drogas, objetos ou papéis que constituam corpo de delito.
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que não satisfazem a exigência legal, por si sós, meras informações de fonte não identificada (e.g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP (RHC n. 158.580/BA, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+Nessa linha, Os meros informes anônimos e o fato de o acusado ser conhecido pela polícia como frequentador de local onde comumente ocorre tráfico de drogas, além de corroborarem apenas estereótipos, presunções e impressões subjetivas, não constituem fundadas razões para a realização de busca pessoal, sem a devida apuração (AgRg no AREsp n. 2.142.037/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.) No mesmo sentido: AgRg no HC n. 770.281/MG, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022; AgRg no AREsp n. 1.841.888/PR, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/9/2022, DJe de 19/9/2022.
+No caso, o Tribunal de Justiça, por maioria de votos, acatou a preliminar defensiva, declarando a nulidade do feito, com a seguinte fundamentação (e-STJ fl. 347):
+No caso em tela, os policiais relataram estarem no local fazendo patrulhamento de rotina. Divergem, no entanto, quanto à motivação para a abordagem, afirmando o Policial Jaimerson que ocorreu porque o réu correu ao ver a guarnição e o Policial Gustavo, porque ele se assustou ao avistar a guarnição.
+Do que se verifica, há nulidade no agir dos agentes que atuaram na abordagem.
+ ..
+No caso dos autos, não foram descritos atos que justificassem a abordagem, especialmente pela contradição entre os depoimentos. O simples ato de assustar-se ou de empreender fuga, não implica em suspeita ou percepção ex ante de que o réu possuía objetos ilícitos consigo.
+Assim, caracterizada a nulidade da busca pessoal, inviável a manutenção da condenação imposta na origem, tendo em conta a ilicitude da prova. Nesse sentido:
+ ..
+Como se observa, não houve a indicação de dado concreto e objetivo sobre a existência de justa causa a autorizar a busca pessoal, não sendo suficiente o fato de os policiais militares, em patrulhamento de rotina em local conhecido como de intenso tráfico de drogas, abordarem o acusado pelo fato de o avistarem, na via pública, em atitude suspeita ou de ter empreendido fuga.
+Com efeito, a abordagem em via pública desprovida de dados concretos indicativos da existência de fundada suspeita, realizada tão somente em virtude da mera desconfiança dos policiais, com base em elementos intuitivos, torna a busca pessoal desprovida de razoabilidade/legitimidade e consequentemente ilegal.
+Por conseguinte, deve ser mantido o reconhecimento da ilicitude na apreensão das drogas: 46 porções de maconha (48 gramas), 5 porções de crack (1 grama) e 27 porções de cocaína (26 gramas) (e-STJ fl. 4).
+Incide, portanto, a Súmula 568 do STJ, segundo a qual O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intim em-se.
+EMENTA
