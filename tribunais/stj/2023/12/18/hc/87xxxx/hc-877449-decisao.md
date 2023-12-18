@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Maria Fernanda Araujo, em que se aponta como autoridade coatora o Desembargador Relator Camilo Léllis do Tribunal de Justiça de São Paulo, que, nos autos da Medida Cautelar Inominada Criminal n. 2332634-39.2023.8.26.0000, deferiu a medida liminar para decretar a pris ão preventiva em desfavor da paciente, pronunciada como incursa no art. 121, § 2º, incisos II, IV e IV, § 2º-A, inc. I, § 7º, inc. II e III, do Código Penal.
+Neste writ, sustenta a defesa constrangimento ilegal na prisão da paciente; para tanto, defende a ausência de fundamentação concreta a justificar a medida, bem como aponta violação do princípio da dialeticidade, pontuando que a petição inicial da ação cautelar inominada ajuizada pela acusação (Autos n. 2332634-39.2023.8.26.0000) é idêntica ao recurso em sentido estrito interposto (Autos n. 0001035-54.2023.8.26.0627), inclusive nos erros de gramática, ortografia e digitação (fl. 13).
+Aduz que, sendo a cautelar inominada criminal absolutamente vaga, repetitiva, sem fundamentos concretos de fato e de direito que embasem seu inconformismo, falta-lhe o necessário interesse processual, e, ao mesmo, tempo viola os princípios do contraditório e ampla defesa, ensejando sua inadmissibilidade, haja vista a ululante inépcia de sua inicial (fl. 15).
+Requer, assim, a concessão da medida liminar inaudita altera pars com o objetivo de tornar sem efeito a decisão da autoridade coatora e, por conseguinte, reestabelecer a decisão do juízo de primeiro grau que substituiu a prisão preventiva por medidas cautelares diversas da prisão (fl. 15).
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte Superior, segundo o qual, por analogia, não cabe habeas corpus contra decisão monocrática que deferiu a liminar no Tribunal a quo, sob pena de indevida supressão de instância.
+No presente caso, não vislumbro flagrante ilegalidade apta a superar a Súmula 691/STF; isso porque, ao que se infere dos autos, a medida constritiva encontra-se lastreada na garantia da ordem pública, considerando a gravidade concreta da conduta - paciente matou sua própria genitora, pessoa idosa (maior de 60 anos), desferindo-lhe golpes com uma faca, resultando em ferimentos no braço direito e outro fatal no tórax superior - coração (fl. 24).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LIMINAR DEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+Writ indeferido liminarmente.
