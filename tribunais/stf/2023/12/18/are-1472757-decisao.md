@@ -1,0 +1,49 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    REEXAME NECESSÁRIO. AÇÃO DE COMPLEMENTO DE APOSENTADORIA. SERVIDORA MUNICIPAL DE ILHÉUS. LEI VIGENTE AO TEMPO DO PREENCHIMENTO DOS REQUISITOS PARA A INATIVIDADE, QUE NÃO DIFERENCIA TRATAMENTO PREVIDENCIÁRIO ENTRE SERVIDORES EFETIVOS E NÃO EFETIVOS. INCONSTITUCIONALIDADE DA NORMA MUNICIPAL EXAUSTIVAMENTE RECHAÇADA NESTA CORTE. PRECEDENTES. REEXAME NECESSÁRIO. CORREÇÃO DE OFÍCIO DA FIXAÇÃO DOS HONORÁRIOS QUANDO DA LIQUIDAÇÃO DO JULGADO.
+
+    1. Cinge-se a controvérsia acerca da possibilidade da demandante receber complemento de aposentadoria do município recorrente.
+
+    2. Em sendo tema previdenciário, a jurisprudência pátria é assente no sentido de que o cálculo do benefício é pautado na legislação em vigor ao tempo da concessão, conforme consta da Súmula 359, editada pelo Supremo Tribunal Federal.
+
+    3. Havendo previsão em legislação local sobre a complementação de aposentadoria pelo município e tendo a acionante reunido os requisitos necessários quando ainda vigente tal previsão, deve ser assegurado o seu direito à complementação de aposentadoria.
+
+    4. A norma local não distinguiu tratamento diferenciado entre servidor efetivo de funcionário público estável admitido sem concurso público, em relação a tal benefício de caráter previdenciário.
+
+    5. Sobre a suposta inconstitucionalidade, tenho que desmerece acolhida. Isso porque esta corte, em todas as câmaras cíveis, tem se posicionado de maneira exaustiva sobre a constitucionalidade da norma em questão.
+
+    6. Correção de ofício quanto à fixação das verbas honorárias, que deverá ocorrer na liquidação da sentença.
+
+    7. SENTENÇA MANTIDA EM REEXAME NE CESSÁRIO.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, incisos I e II; e 195, § 5º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 18 de dezembro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
