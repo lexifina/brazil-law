@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ARTS. 1.003 E 1.032 DO CC/2002. INAPLICABILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Não se aplicam os prazos dos arts. 1.003, parágrafo único, e 1.032 do CC/2002 para a responsabilização dos sócios, no caso de desconsideração da personalidade jurídica. Precedentes.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 279/291) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos e julgou prejudicado o pedido de efeito suspensivo.
+Em suas razões, os agravantes alegam ser incontroverso que deixaram de ser sócios da pessoa jurídica cerca de quatro anos após o início do incidente de desconsideração da personalidade jurídica, sendo que a empresa continuou suas atividades com novos sócios e em endereço distinto. Entendem que, em razão disso, descaberia falar que "o reconhecimento da ilegitimidade dos agravantes tornaria ineficaz o instituto da desconsideração da personalidade jurídica, uma vez que, cabem aos novos sócios responsabilizarem-se pelas obrigações contraídas pelas administrações anteriores" (e-STJ fl. 286). Afirmam que a divergência jurisprudencial apontada não pode ser considerada prejudicada e foi devidamente demonstrada. Sustentam ser inaplicável a Súmula n. 83/STJ, porque a jurisprudência do STJ seria firme no sentido de que "a responsabilidade do cedente pelo prazo de até 2 (dois) anos após a averbação da respectiva modificação contratual restringe-se às obrigações sociais contraídas no período em que ele ainda ostentava a qualidade de sócio, ou seja, antes da sua retirada da sociedade. (Resp 1537521/RJ)" (e-STJ fl. 287). Insistem na alegação de que, por se tratar de matéria de ordem pública, a ilegitimidade passiva poderia ser arguida em qualquer tempo e grau de jurisdição. Destacam que também não é caso de incidência da Súmula n. 283/STF pois, "na hipótese de reconhecimento da ilegitimidade passiva dos agravantes, todos os outros fundamentos utilizados pelo Tribunal a quo, cairiam por terra" (e-STJ fl. 289).
+Ao final, pedem a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+As agravadas apresentaram contrarrazões (e-STJ fls. 295/300).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.259.375 - RJ (2022/0379374-0)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+LUDWIG AMMON
+AGRAVANTE
+:
+LEILA NEHME AMMON
+ADVOGADOS
+:
+HELBER CAMPOS DE OLIVEIRA - RJ155482
+ALCIMAR PESSOA WON-HELD JUNIOR - RJ080920
+RAPHAEL SEPULVEDA FIGUEIRA - RJ134931
+AGRAVADO
+:
+CHRISTINA PAES BORGES GRAY
+AGRAVADO
+:
+MARILDA PAES BORGES
+ADVOGADOS
+:
+GUALTER SCHELES - RJ037768
+GUALTER SCHELES JUNIOR - RJ093212
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ARTS. 1.003 E 1.032 DO CC/2002. INAPLICABILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Não se aplicam os prazos dos arts. 1.003, parágrafo único, e 1.032 do CC/2002 para a responsabilização dos sócios, no caso de desconsideração da personalidade jurídica. Precedentes.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 270/274):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 7/STJ (e-STJ fls. 157/160).
+O acórdão recorrido está assim ementado (e-STJ fls. 80/81):
+AGRAVO DE INSTRUMENTO. AÇÃO RENOVATÓRIA DE LOCAÇÃO. FASE DE CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. REJEIÇÃO. IRRESIGNAÇÃO. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. DESCABIMENTO. MATÉRIA DEBATIDA NOS AUTOS PRINCIPAIS QUE JÁ SE ENCONTRA PRECLUSA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, TAMBÉM DEFINIDA, POR DECISÃO TRANSITADA EM JULGADO. REDIRECIONAMENTO DA EXECUÇÃO AOS SÓCIOS RETIRANTES QUE NÃO SE ENCONTRA RESTRITA AO PRAZO LEGAL ORDINÁRIO DE DOIS ANOS. RESPONSABILIDADE EXTRAORDINÁRIA QUE É DECORRENTE DE ABUSO DE DIREITO. POSTERIOR RETIRADA DOS SÓCIOS QUE NÃO É APTA A ALTERAR OS EFEITOS DA DECISÃO JUDICIAL. ENTENDIMENTO SEDIMENTADO PELO STJ, NO SENTIDO DE QUE, DECRETADA A DESCONSIDERAÇÃO, RESTAM INAPLICÁVEIS OS PRAZOS DISPOSTOS NOS ARTIGOS 1.003 E 1.032 DO CÓDIGO CIVIL. ENTENDIMENTO DIVERSO QUE TORNARIA O REFERIDO INSTITUTO COMPLETAMENTE INEFICAZ, EM MANIFESTA FRUSTRAÇÃO À SATISFAÇÃO DO CREDOR LESADO. PLEITO DE RECONHECIMENTO DA ILEGITIMIDADE QUE VIOLA A BOA-FÉ PROCESSUAL, NA MEDIDA EM QUE OS RECORRENTES SE MANIFESTARAM EM DIVERSAS OPORTUNIDADES, INTERPONDO NUMEROSOS RECURSOS, SEM NUNCA TEREM AFIRMADO SUA ILEGITIMIDADE. EVIDENTE VIOLAÇÃO DA BOA-FÉ PROCESSUAL. APLICAÇÃO DO ART. 278, DO CPC, QUE PREVÊ QUE EVENTUAL NULIDADE PROCESSUAL DEVE SER ALEGADA NA PRIMEIRA OPORTUNIDADE DE MANIFESTAÇÃO NOS AUTOS, SOB PENA DE PRECLUSÃO. PRINCÍPIO DA PROIBIÇÃO DO VENIRE CONTRA FACTUM PROPRIUM. NÍTIDA PRETENSÃO DE SUBVERSÃO AOS PRINCÍPIOS DA EVENTUALIDADE E DA BOA-FÉ, QUE RESGUARDAM O FIM TELEOLÓGICO DO PROCESSO. VEDAÇÃO À REDISCUSSÃO DE QUESTÕES JÁ DECIDIDAS, CUJA PRECLUSÃO CONSUMATIVA JÁ SE OPEROU. APLICAÇÃO DO PRINCÍPIO DA EFETIVIDADE PROCESSUAL E DA IMPERATIVIDADE DAS DECISÕES JUDICIAIS. AGRAVANTES QUE NÃO PODEM SE BENEFICIAR DA PRÓPRIA TORPEZA, EIS QUE DERAM AZO AO DECURSO DO LAPSO TEMPORAL, QUE ORA ADUZEM, PARA TENTAR SE EXIMIR DE SUAS RESPONSABILIDADES. POR FIM, FICAM ADVERTIDOS OS RECORRENTES QUE A RENITÊNCIA MERAMENTE PROTELATÓRIA EM ADMITIR O ENTENDIMENTO PROFESSADO NOS AUTOS PODE AUTORIZAR A MULTA POR ATO ATENTATÓRIO AO EXERCÍCIO DA JURISDIÇÃO, ACASO CONFIGURADA A RECALCITRÂNCIA REITERADA, ILEGÍTIMA E INTENCIONAL AO CUMPRIMENTO DO MANDAMUS JUDICIAL. MANUTENÇÃO DO DECISUM. DESPROVIMENTO DO RECURSO.
+Nas razões do recurso especial (e-STJ fls. 104/128), interposto com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes apontaram, além de dissídio jurisprudencial, ofensa aos arts. 1.003, parágrafo único, 1.032 e 1.057, parágrafo único, do CC/2002. Sustentaram que os referidos dispositivos de lei delimitam a responsabilidade do sócio retirante por obrigações que ele contraiu no prazo de até dois anos após a averbação de seu desligamento da sociedade. Alegaram que, diversamente do que entendeu o Tribunal de origem, os citados artigos não fazem diferença entre responsabilidade ordinária de ex-sócio e desconsideração da personalidade jurídica. Afirmaram que o STJ possui entendimento de que os sócios retirantes respondem apenas pelas obrigações por eles contraídas e durante o período de dois anos.
+Indicaram julgado do TJSP, a fim de demonstrar a divergência de entendimentos.
+Ressaltaram não haver preclusão, uma vez que a ilegitimidade de parte seria matéria de ordem pública, podendo ser arguida a qualquer tempo e em qualquer grau de jurisdição, por força do art. 485, VI, § 3º, do CPC/2015. Acrescentaram, por fim, que não há falar em ausência de prequestionamento do referido dispositivo, haja vista a Súmula n. 456/STF, aplicada por analogia pelo próprio STJ.
+Contrarrazões às fls. 148/155 (e-STJ).
+No agravo (e-STJ fls. 168/182), declaram a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 186/189).
+Às fls. 262/269 (e-STJ), os agravantes apresentam pedido de tutela de urgência para atribuir efeito suspensivo ao recurso. Alegam que a probabilidade do direito foi amplamente demonstrada nas razões do recurso. O perigo de dano, por sua vez, "se demonstra no fato de que as próximas hastas públicas, do imóvel que pertence à segunda recorrente, está na iminência de ser realizado, nos autos da Carta Precatória nº 0014265- 33.2022.8.19.0001, distribuída ao Juízo da 25ª Vara Cível da Comarca da Capital, com data marcada para os dias 02/10/2023 e 05/10/2023" (e-STJ fl. 267). Afirmam ainda ser possível reverter os efeitos da decisão.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O entendimento do Tribunal de origem de que os prazos previstos nos arts. 1.003 e 1.032 do CC/2002 não podem ser aplicados em caso de desconsideração da personalidade jurídica está de acordo com a jurisprudência desta Corte, a teor dos seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RESPONSABILIDADE DOS SÓCIOS. OFENSA AOS ARTS. 1.003, 1.032 E 2.035 DO CC/2002. INAPLICABILIDADE. ÔNUS DA PROVA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. Nos termos da jurisprudência desta Corte, não se aplicam os prazos dos arts. 1.003, parágrafo único, e 1.032 do CC/2002 para a responsabilização dos sócios, no caso de desconsideração da personalidade jurídica. Precedentes.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.001.474/MG, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/10/2022, DJe de 26/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RESPONSABILIDADE DOS SÓCIOS. DECADÊNCIA. OFENSA AOS ARTS. 1.003, 1.032 E 2.035 DO CC/2002. INAPLICABILIDADE.
+ ..
+3. Não se aplicam os prazos dos arts. 1.003, parágrafo único, e 1.032 do CC/2002 para a responsabilização dos sócios, no caso de desconsideração da personalidade jurídica. Jurisprudência.
+4. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.409.262/SE, de minha relatoria, QUARTA TURMA, julgado em 23/8/2021, DJe de 26/8/2021.)
+Ainda, " e sta Corte Superior possui firme o entendimento no sentido de ser cabível a responsabilização de ex-sócio que se retirou da sociedade por obrigações configuradas até dois anos depois de averbada a modificação social, não sendo prazo limitativo do procedimento de desconsideração da personalidade jurídica, que proporciona a inclusão do ex-sócio em demanda executiva" (AgInt no AREsp n. 1.568.060/SP, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/8/2020, DJe de 26/8/2020).
+Incide a Súmula n. 83/STJ.
+Além disso, não foi impugnado o fundamento do acórdão recorrido de que "a exceção de pré-executividade somente possui cabimento quando a matéria nela versada, por sua natureza, é daquelas passíveis de serem conhecidas de ofício, independentemente de provocação, hipótese não verificada nos autos" (e-STJ fl. 90).
+Os recorrentes também não se insurgiram contra os motivos do acórdão de que: (a) é evidente o comportamento contraditório e violador do princípio da boa-fé dos agravantes, os quais se retiraram da sociedade com o nítido propósito de frustrar a execução e afastar os efeitos de decisão preclusa, que lhes foi desfavorável, (b) "a execução deve ser realizada no interesse do credor (art. 797 do CPC), razão pela qual devem ser adotadas medidas mais rígidas nos casos em que se constata injustificada resistência dos executados ao cumprimento de suas obrigações, tudo em prol da efetividade da tutela jurisdicional, sendo certo que o comportamento dos recorrentes de reiterarem as mesmas questões, já preclusas, em processo que se encontra em trâmite há quase vinte anos, beira a litigância de má-fé" (e-STJ fl. 91).
+Aplicável a Súmula n. 283/STF.
+Ademais, nos termos da jurisprudência desta Corte, " m esmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional" (AgInt nos EDcl no REsp n. 1.723.319/SC, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2023, DJe de 8/9/2023).
+No caso, as instâncias ordinárias consignaram que o redirecionamento da execução aos sócios foi alvo de decisão transitada em julgado. Nesse contexto, a preclusão deve mesmo ser reconhecida.
+Destaco que as súmulas ora aplicadas impedem o conhecimento do recurso interposto com base na alínea "a" e na alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Prejudicado o pedido de efeito suspensivo.
+Publique-se e intimem-se.
+Conforme constou, o entendimento do Tribunal de origem, acerca da inaplicabilidade dos prazos dos arts. 1.003 e 1.032 do CC/2002 aos casos de desconsideração da personalidade jurídica, está de acordo com a jurisprudência desta Corte.
+Além disso, não foram impugnados fundamentos do acórdão recorrido suficientes para manter o juízo emitido. Logo, inafastável a Súmula n. 283/STF.
+Ademais, nos termos da jurisprudência desta Corte, mesmo matérias de ordem pública estão sujeitas à preclusão, se tiverem sido alvo de anterior manifestação judicial.
+Quanto ao dissídio jurisprudencial, os óbices aplicados impedem também seu conhecimento.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
