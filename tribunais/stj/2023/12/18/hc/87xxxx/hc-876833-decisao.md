@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de RYAN MORAIS DA CRUZ, contra acórdão do Tribunal Regional Federal da 3ª Região, que denegou a ordem originária e manteve a prisão preventiva do paciente pela suposta prática do crime previsto no art. 33, caput, c/c o art. 40, I, da Lei n. 11.343/06.
+Nesta Corte, o impetrante alega, em suma, ausência de fundamentos concretos para a custódia preventiva. Destaca que "A decisão da autoridade fundamentou-se em elementos de caráter geral e abstrato, pois se reportam à periculosidade derivada da conduta do paciente em razão da quantidade de entorpecente apreendido e pelo fato de o paciente eventualmente fazer parte de organização criminosa." Pontua que "Paciente é primário, possuí residência fixa, bons antecedentes e exerceu atividade lícita durante toda sua vida pregressa, conforme documentos em anexo". Argumenta, por fim, que o paciente teve seu passaporte retido, sendo impossível saia do país.
+Requer a concessão da ordem para que o paciente seja colocado em liberdade.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+O juiz sentenciante decretou a prisã o cautelar nos seguintes termos:
+No caso presente, trata-se de crime doloso punido com pena privativa de liberdade máxima superior a 4 (quatro) anos, restando configurada a hipótese autorizativa do art. 313, inciso I do CPP. Por outro lado, estão presentes na espécie também o fumus comissi delicti e o periculum libertatis.
+Há prova da materialidade delitiva (que se revela através do laudo preliminar de constatação para cocaína) e indícios suficientes de autoria (revelados pela presunção relativa criada pela prisão em flagrante).
+Quanto aos requisitos cautelares da prisão preventiva, sua presença deve ser apurada à luz das alterações promovidas pela Lei 12.403/11, que alterou o Código de Processo Penal, prevendo a possibilidade da adoção de medidas cautelares diversas e menos gravosas que a prisão, desde que sejam suficientes para afastar o referido periculum libertatis.
+No caso em tela, tenho que a prisão se justifica tanto por conveniência da instrução criminal como para permitir a aplicação da lei penal e garantir a ordem pública. E isso porque se trata de brasileiro flagrado no momento em que pretendia deixar o país levando consigo material entorpecente, não havendo nos autos informações acerca dos antecedentes do autuado, nem comprovação de endereço ou de atividade lícita, do que se depreende a ausência de vínculo com o distrito da culpa.
+Assim sendo, há risco concreto de que o autuado possa fugir ou ocultar-se caso seja colocado em liberdade, inviabilizando a prática dos necessários atos de instrução processual e, ao final, a aplicação da lei penal.
+Demais disso, as particulares circunstâncias do caso (prisão na iminência de embarque aéreo internacional com 3.467 g de massa líquida de cocaína dissimulados em bagagem) revelam também a necessidade da manutenção da prisão preventiva como garantia da ordem pública.
+Até porque, no contexto, é possível que haja eventual participação de outras pessoas (talvez, uma organização criminosa).
+A prisão conjunta com outra investigada; a forma de acondicionamento da droga (na estrutura da mala) afasta eventual hipótese de inserção do entorpecente no aeroporto. Tudo a sugerir mais adequada a manutenção da custódia do investigado, até para permitir ampla oportunidade de produção de provas pelo Ministério Público Federal e/ou pela Autoridade Policial.
+De outro lado, não vislumbro qualquer outra medida cautelar trazida pela novel legislação (CPP, art. 319) que possa afastar os riscos acima apontados.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o paciente foi preso em flagrante na posse de 3.467 g de massa líquida de cocaína.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
