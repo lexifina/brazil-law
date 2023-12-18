@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO RURAL S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe assim ementado (e-STJ, fl. 365):
+Apelação Chiei. Execução de cédula de crédito bancário. Sentença com resolução do mérito reconhecendo a prescrição. Aplicação do prazo trienal de no Lei prescrição previsto artigo 70 da Uniforme de Genebra, norma geral do direito cambial, por força do artigo 44 da lei nº 10.931/2004, que trata das cédulas de crédito bancário. Precedentes do STJ. Dívida vencida em março/2014 e Juiz despacho do proferido em outubro de 2016, sem ocorrência da citação até a presente data, apesar do de cumprimento diligências e pesquisas pelo Poder Judiciário. Ausência de interrupção do prazo prescricional e de culpa do Poder Judiciário. Prescrição implementada em março/2017. Recurso conhecido e desprovido.
+Nas razões do recurso especial (e-STJ, fls. 377-394), o recorrente apontou violação ao art. 267, IV, do CPC/1973 e 485 do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Preliminarmente, pleiteou a concessão do benefício da gratuidade de justiça, tendo em vista sua hipossuficiência, bem como sua decretação de liquidação extrajudicial.
+Sustentou, em síntese, a nulidade da sentença que extinguiu o feito, sob o argumento de que não poderia ter sido decretada a prescrição, sem a prévia intimação pessoal para dar seguimento aos atos processuais.
+Defendeu a não ocorrência da prescrição intercorrente.
+Sem contrarrazões (e-STJ, fl. 427).
+A Presidência do TJSE deferiu o pedido de gratuidade de justiça, mas não admitiu o recurso especial, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso de apelação, assim se manifestou (e-STJ, fls. 367-368):
+A presente demanda consiste em execução de cédula de crédito bancário no importe de R$ 80.000.00, emitida em maio/2013, a ser paga em 300 dias, cujo vencimento se deu em março/2014.
+A cédula de crédito bancário é regida pela lei nº 10.931/2004, e segundo seu artigo 28, constitui título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível, sendo, portanto, legítima a embasar a presente execução.
+Não há previsão específica sobre o prazo prescricional para a execução da cédula de crédito bancário na lei de regência, entretanto, no artigo 44 da lei nº 10.931/2004 existe autorização para aplicação da legislação cambial às Cédulas de Crédi to Bancário no que não contrariar o disposto na referida lei.
+Considera-se como ação cambial, em regra, a execução forçada dos títulos de crédito, os quais são definidos como títulos executivos extrajudiciais no artigo 784 do CPC/2015.
+Nesse passo, de acordo com o artigo 70 da Lei Uniforme de Genebra, norma geral do direito cambiário, "todas as ações contra o aceitante relativas a letras prescrevem em 3 (três) anos a contar do seu vencimento", sendo, portanto, trienal a prescrição para a execução forçada da cédula de crédito bancário.
+( )
+No caso dos autos, a cédula de crédito bancário venceu em março/2014, sendo a ação de execução distribuída em outubro/2016,dentro do prazo prescricional, com despacho do juiz ordenando a citação também em outubro/2016, no entanto, até a presente data, não ocorreu a citação para consolidar a interrupção da prescrição.
+O artigo 802 do CPC/2015 considera que o despacho do juiz que ordena a citação interrompe a prescrição e retroage à data da propositura da ação, desde que a citação se realize na forma do artigo 240, § 2º, do CPC/2015, ou seja, a citação deverá ocorrer no prazo de 10 (dez) dias, sob pena de não ser aplicada a regra de interrupção da prescrição.
+( )
+Não sendo implementada a interrupção da prescrição no caso em comento com o despacho do juiz que ordenou a citação por ausência de êxito na referida diligência até a presente data, apesar do cumprimento de outras diligências e pesquisas pelo Poder Judiciário, a prescrição da execução forçada da cédula de crédito bancário operou-se em março/2017.
+( )
+Diante do contexto, a sentença que reconheceu a prescrição da execução deve ser mantida pelos fundamentos expostos na presente decisão.
+No tocante à tese recursal de necessidade de prévia intimação pessoal do exequente para dar andamento ao feito, verifica-se que a questão não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, ao caso, as Súmulas 282 e 356 do STF.
+É nesse sentido o entendimento desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. COISA JULGADA MATERIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PRESCRIÇÃO INTERCORRENTE. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA NO RECURSO ESPECIAL 1.604.412/SC. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de enfrentamento, pelo Tribunal de origem, da questão posta no recurso impede o acesso à instância especial, porquanto ausente o requisito constitucional do prequestionamento. Incidência das Súmulas 282 e 356 do STF. Nos termos da jurisprudência desta Corte, o prequestionamento é indispensável ao conhecimento das questões apresentadas ao Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública.
+2. Consoante o entendimento consolidado pela Segunda Seção desta Corte, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002". E, ainda, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)" (Incidente de Assunção de Competência no REsp 1.604.412/SC, Rel. Ministro Marco Aurélio Bellizze, julgado em 27/06/2018, DJe de 22/08/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.162.906/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/6/2020, DJe de 25/6/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE CÉDULA DE CRÉDITO BANCÁRIO. PRESCRIÇÃO. ALEGADA NECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL PARA DAR ANDAMENTO AO FEITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
