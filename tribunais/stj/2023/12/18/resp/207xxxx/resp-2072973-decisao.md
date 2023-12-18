@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Rondônia, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local no Agravo de Execução Penal n. 0809627-40.2022.8.22.0000 (fls. 56/60).
+Interposto agravo regimental (fls. 62/70), foi desprovido (fls. 90/93):
+Agravo Interno em Agravo em Execução Penal. Não provimento em decisão monocrática. Pena de multa. Declaração de hipossuficiência. Suficiente para comprovar impossibilidade de pagamento. Recurso não provido.
+A impossibilidade do pagamento da pena de multa é prova de fato negativo (ausência de recursos financeiros), o que, por lógica, é extremamente difícil de ser realizado, de modo que a declaração de hipossuficiência subscrita por apenado assistido pela Defensoria Pública é suficiente para realizar tal comprovação.
+No presente recurso especial, é indicada a violação dos arts. 32, III, 49 e 50, todos do Código Penal; sob a tese de que o inadimplemento injustificado da pena de multa imposta em condenação obsta a progressão do regime, salvo quando comprovada a impossibilidade de fazê-lo, de forma inequívoca (fl. 108).
+Destaca que a autodeclaração de pobreza e o patrocínio da Defensoria Pública não podem ser considerados provas cabais para comprovar a hipossuficiência do apenado, especialmente quando não há nenhum outro elemento idôneo que demonstre inequivocamente sua incapacidade financeira. Por esse motivo, o Tribunal de Justiça de Rondônia interpretou equivocadamente a orientação sedimentada pelo Superior Tribunal de Justiça, daí por que violados os arts. 32, inciso III; 49 e 50, todos do Código Penal (fl. 124).
+Ao final da peça recursal, o Ministério Público requer: a) a admissão do presente recurso, diante da satisfação dos requisitos de admissibilidade insculpidos no art. 105, inciso III, alínea "a", da Constituição Federal, bem como art. 1.029 do Código de Processo Civil; b) que seja provida a pretensão recursal para o fim de reformar o acórdão recorrido, reconhecendo-se a violação dos arts. 32, inciso III; 49 e 50, todos do Código Penal, por conseguinte, seja revogado o livramento condicional até que a Recorrida efetue o pagamento da pena de multa ou apresente prova inequívoca da impossibilidade de fazê-lo, ainda que parceladamente (fl. 128).
+Oferecidas contrarrazões (fls. 131/137), o recurso especial foi admitido na origem (fls. 138/139).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 149/153):
+RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 105, III, "A" DA CF. EXECUÇÃO PENAL. PAGAMENTO DE MULTA PARA DEFERIMENTO DE BENEFÍCIOS DA EXECUÇÃO. IMPOSSIBILIDADE DE PAGAMENTO. NECESSIDADE DE COMPROVAÇÃO DA INCAPACIDADEDE PAGAR, AINDA QUE PARCELADAMENTE. MERA DECLARAÇÃO DE PUNHO E REPRESENTAÇÃO PELA DEFENSORIA QUE NÃO SÃO SUFICIENTES. PARECER PELO PROVIMENTO DO RECURSO.
+É o relatório.
+Para elucidação do quanto requerido, do combatido aresto extraem-se os seguintes fundamentos (fl. 91 - grifo nosso):
+ ..  o Ministério Público interpôs o recurso objetivando a desconstituição do livramento condicional sob a alegação de que não houve, por parte da agravada, comprovação de que ela não pudesse arcar com o valor da multa imposta.
+Em decisão monocrática (id. n. 17873294) proferida no dia 7 de novembro 2022, ora recorrida, neguei provimento ao recurso por entender que houve comprovação, pela apenada, mediante declaração, da sua impossibilidade de realizar o pagamento da pena pecuniária.
+Assim, a Procuradoria de Justiça interpôs o presente Agravo Interno requerendo a cassação da decisão de primeiro grau que concedeu a progressão de regime.
+Alega, para tanto, que a declaração de hipossuficiência não é documento hábil a comprovar a impossibilidade de arcar com a pena de multa, restando ao reeducando o ônus de comprovar o seu estado de miserabilidade.
+Entendo, entretanto, que as alegações veiculadas no Agravo Interno são incapazes de infirmar os fundamentos da decisão monocrática recorrida.
+Isso porque o Ministério Público não trouxe nenhum argumento apto a retirar a validade da declaração de hipossuficiência fornecida pelo apenado, e nem fez afirmação de que ela tenha condições de pagar a multa, por qualquer motivo que seja.
+Para tanto, precisaria fazer prova que fundamentasse sua irresignação, e não apenas demonstrar inconformismo genérico com a decisão agravada.
+Ainda, é preciso ter em conta que este Tribunal de Justiça já é pacífico, tanto na 1ª Câmara Criminal, quanto na 2ª Câmara Criminal, que a declaração de hipossuficiência, principalmente quando o apenado é assistido pela Defensoria Pública, é suficiente para comprovar a sua impossibilidade de pagar a pena pecuniária.  ..
+Para se alterar a conclusão alcançada pela instância ordinária, quanto à solvabilidade da recorrida seria necessária a incursão da seara fático-probatória, medida inviável na via estreita do recurso especial.
+Nesse sentido: é inviável a revisão do entendimento exarado pelo tribunal de origem acerca da comprovação da hipossuficiência, pois demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inadmissível em recurso especial ante o óbice contido na Súmula 7/STJ (AgInt no AREsp n. 1.309.646/SP, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 26/10/2018 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 32, III, 49 E 50, TODOS DO CP. INSTÂNCIA ORDINÁRIA QUE PROMOVEU A PROGRESSÃO DE REGIME, NÃO OBSTANTE O INADIMPLEMENTO DELIBERADO DA PENA DE MULTA. HIPOSSUFICIÊNCIA AVALIADA. INVIABILIDADE DE ALTERAÇÃO DE ENTENDIMENTO. SÚMULA 7/STJ.
+Recurso especial não conhecido.
