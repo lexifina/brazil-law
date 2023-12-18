@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de HERNANI DA SILVA MOREIRA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. RECURSO DEFENSIVO. Pleito por concessão da progressão independentemente de prévia passagem pelo regime semiaberto, cuja progressão foi concedida há pouco tempo. Descabimento. Impossibilidade de progressão por saltos. RECURSO DESPROVIDO." (e-STJ, fl. 42).
+Neste writ, o impetrante alega constrangimento ilegal sofrido pelo paciente em decorrência do indeferimento de sua progressão ao regime aberto, não obstante tenham sido preenchidos os requisitos objetivo e subjetivo.
+Afirma não existir na legislação penal dispositivo que exija o cumprimento de pena no regime intermediário antes de se conceder o aberto.
+Aduz que o reeducando possui bom comportamento carcerário e, durante seu tempo em regime fechado, trabalhou e estudou, ingressando com pedido de remição de pena ao ser progredido ao semiaberto. Por tal motivo, a fração de tempo exigida para nova progressão de regime foi diminuída.
+Assevera que o paciente não deve ser prejudicado em seu novo pedido de progressão, ressaltando que as decisões que indeferiram o pleito "desvalorizam todo o período de esforço do paciente durante suas horas de trabalho estudo, dispensadas durante o tratamento penal terapêutico,  ..  o qual prejudica o retorno do paciente ao seio familiar e social." (e-STJ, fl. 7).
+Requer, inclusive liminarmente, que seja concedido o benefício ao apenado, com a expedição de alvará de soltura.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso dos autos, o reeducando foi progredido ao regime semiaberto em 15/5/2023. Pleiteada a concessão ao regime aberto, o Juízo da Execução pontuou o seguinte:
+"Em que pese o entendimento Ministerial, o pedido deve ser indeferido.
+Com efeito, a progressão de regime prisional está prevista no artigo 33, §2º, do Código Penal e artigo 112 da Lei de Execução Penal. Prevê a lei penal que o condenado poderá progredir gradativamente de um regime mais rigoroso para o mais brando, desde que preenchidos os requisitos legais, a fim de ser propiciada a sua ressocialização.
+Para a obtenção do benefício, é necessário que o sentenciado preencha o requisito de ordem objetiva: ter cumprido ao menos o lapso previsto no artigo 112 da Lei de Execução Penal no regime anterior, para a progressão.
+De fato, foi cumprido o lapso necessário, consoante cálculo de pena acostado a folhas 376/380.
+No entanto, é prematura a concessão da progressão ao regime aberto, neste momento, ante a reduzida vigilância estatal que caracteriza tal sistema de cumprimento de pena.
+O sentenciado necessita ser acompanhado no regime intermediário, para o qual foi recentemente progredido, em 15 de maio de 2023 (fls. 315), e demonstrar comportamento satisfatório e apto a indicar que não voltará a delinquir.
+Como cediço, o benefício do regime aberto demanda alto grau de autodisciplina e responsabilidade, o que não é possível constatar até o presente momento, especialmente porque o apenado acabou recentemente inserido em regime mais brando, necessitando permanecer nesta etapa para aprofundar seu amadurecimento e adquirir a maturidade necessária para desfrutar de benefício tão amplo como o pleiteado.
+Importante ressaltar que há demasiado risco em interromper o processo pelo qual passa aparentemente o apenado e introduzi-lo de forma prematura em sociedade sem a devida robustez psíquica para encarar os desafios que lhe serão apresentados, de forma que se torna ainda mais recomendável sua manutenção no regime semiaberto.
+ ..
+Assim, constatando-se que tem aproveitado a terapêutica penal, por tempo suficientemente razoável, poderá gradativamente retornar ao convívio social.
+Ante o exposto, INDEFIRO a progressão ao regime aberto formulado em favor de HERNANI DA SILVA MOREIRA." (e-STJ, fls. 14-15).
+Por sua vez, o Tribunal de origem confirmou a decisão, considerando que o apenado deveria vivenciar o regime intermediário, visto que o acolhimento do pedido consistiria em progressão por saltos.
+Ora, da leitura dos documentos anexados aos autos, depreende-se que o paciente cumpriu o requisito objetivo para a progressão de regime e possui bom comportamento carcerário atestado, o que, em tese, revela o preenchimento do requisito subjetivo.
+A respeito da necessidade de vivência do regime intermediário, vale salientar que "o pouco tempo de permanência no regime semiaberto é irrelevante para análise do requisito subjetivo, mesmo porque não está relacionado a aspectos pessoais do reeducando. O que deve ser aferido é se o apenado cumpriu o lapso objetivo para subsequente promoção, a contar da data-base correta" (HC n. 643.965/SP, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 22/2/2021).
+Seguindo essa linha de raciocínio, anote-se o seguinte precedente:
+"HABEAS CORPUS. EXECUÇÃO PENAL. 1. PROGRESSÃO DO REGIME SEMIABERTO PARA O ABERTO. SISTEMA PROGRESSIVO. REQUISITO OBJETIVO. CUMPRIMENTO DO TEMPO MÍNIMO DA PENA IMPOSTA NA SENTENÇA. 2. TEMPO DE PERMANÊNCIA INDEVIDA NO REGIME FECHADO UTILIZADO PARA PROGREDIR PARA O REGIME ABERTO. VEDAÇÃO DA PROGRESSÃO PER SALTUM. 3. PERMANÊNCIA EM REGIME MAIS RIGOROSO POR INEFICIÊNCIA DO ESTADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. 4. ORDEM CONCEDIDA.
+1. Para que o reeducando progrida para o regime mais brando exige-se o cumprimento de, no mínimo, 1/6 (um sexto) da pena no regime anterior, além de comprovar bom comportamento carcerário.
+2. O art. 122 da Lei de Execuções Penais não prevê a passagem direta do apenado do regime fechado para o aberto, a chamada progressão per saltum. Contudo, se o Juiz das Execuções Penais entender que o reeducando preenche o requisito subjetivo, analisará o requisito objetivo conferindo se já cumpriu o lapso total referente às duas frações exigidas pela lei para os dois estágios, valendo-se, inclusive, do tempo cumprido indevidamente no regime mais rigoroso.
+ ..
+4. Ordem concedida" (HC n. 171.680/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 17/5/2012, DJe de 13/6/2012).
+Nesse contexto, observa-se constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para que o Juízo da Execução reexamine o pedido de progressão ao regime aberto à luz do art. 112 da LEP e dos fundamentos acima declinados, afastando de sua análise quaisquer aspectos não relacionados ao comportamento do paciente durante a execução de sua pena.
+Publique-se. Intimem-se.
+EMENTA
