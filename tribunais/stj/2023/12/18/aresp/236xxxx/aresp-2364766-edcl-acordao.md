@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Messod Azulay Neto, Daniela Teixeira, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado.
+2. Ao contrário do aduzido pela defesa, não há qualquer obscuridade ou contradição no acórdão embargado. O agravo regimental não foi conhecido, uma vez que interposto intempestivamente, inclusive, após a certificação do trânsito em julgado nos autos.
+3. A decisão proferida nos autos do HC n. 2023/0090952-8, que determinou o processamento do writ, não tem qualquer impacto nos presentes autos, visto que o habeas corpus é uma ação autônoma de impugnação e sequer houve análise do seu mérito. Ademais, a decisão mencionada, ao contrário do alegado pela parte, não determinou a suspensão do trânsito em julgado dos autos da ação principal ou qualquer providência semelhante.
+4. "Nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MIGUEL CAMPANELLA DE OLIVEIRA e PEDRO LUIS ALVES em face de acórdão de fls. 473/475, que não conheceu do agravo regimental em razão de sua intempestividade. O acórdão embargado ficou assim ementado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 5 (CINCO) DIAS CONTÍNUOS. INTEMPESTIVIDADE. EXPEDIENTE AVULSO DECORRENTE DA REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM EM RAZÃO DE CERTIDÃO DE TRÂNSITO EM JULGADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental que não observa o prazo de interposição de 5 (cinco) dias contínuos, conforme art. 39 da Lei n. 8.038/90, art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ e art. 798 do Código de Processo Penal - CPP.
+2. Na presente hipótese, a interposição do agravo regimental apenas deu-se em 25/6/2023, quando já ultrapassado o quinquídio legal (findo em 13/6/2023), inclusive após a certificação do trânsito em julgado nos autos, sendo patente a sua intempestividade.
+3. Agravo regimental não conhecido." (fl. 473)
+Nos presentes aclaratórios (fls. 481/485), a defesa aduz que "concomitantemente, a interposição do primeiro agravo que não admitiu o processamento do Recurso E special, foi impetrado Habeas Corpus 2023/0090952-8, no qual o Ministro Joel Ilan Paciornik, deferiu o processamento sob o argumento de que "considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal", razão pela qual, em atenção aos argumentos insculpidos pelo Excelentíssimo Ministro, tornou sem efeito a decisão agravada, bem como o trânsito em julgado, restando pendente o julgamento da medida constitucional" (fl. 483). Afirma que o acórdão embargado está em contradição com a referida decisão monocrática, que determinou o processamento do habeas corpus.
+Requer o acolhimento dos embargos, a fim de esclarecer a obscuridade apontada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado.
+2. Ao contrário do aduzido pela defesa, não há qualquer obscuridade ou contradição no acórdão embargado. O agravo regimental não foi conhecido, uma vez que interposto intempestivamente, inclusive, após a certificação do trânsito em julgado nos autos.
+3. A decisão proferida nos autos do HC n. 2023/0090952-8, que determinou o processamento do writ, não tem qualquer impacto nos presentes autos, visto que o habeas corpus é uma ação autônoma de impugnação e sequer houve análise do seu mérito. Ademais, a decisão mencionada, ao contrário do alegado pela parte, não determinou a suspensão do trânsito em julgado dos autos da ação principal ou qualquer providência semelhante.
+4. "Nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+5. Embargos de declaração rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Ao contrário do aduzido pela defesa, não há qualquer obscuridade ou contradição no acórdão embargado. O agravo regimental não foi conhecido, uma vez que interposto intempestivamente, inclusive, após a certificação do trânsito em julgado nos autos.
+A defesa alega que, nos autos do HC n. 2023/0090952-8, foi determinado, por este Relator, o processamento do writ, a fim de verificar a ocorrência de eventual constrangimento ilegal.
+Contudo, a referida decisão não tem qualquer impacto nos presentes autos, visto que o habeas corpus é uma ação autônoma de impugnação e sequer foi analisado o seu mérito . Ademais, a decisão mencionada, ao contrário do alegado pela parte, não determinou a suspensão do trânsito em julgado dos autos da ação principal ou qualquer providência semelhante.
+Dessa forma, não há qualquer vício a ser sanado no acórdão embargado, apenas inconformismo da parte, o que não se coaduna com a medida integrativa.
+Com efeito, "nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+No mesmo sentido (grifos nossos):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nã o está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+2. Na espécie, o acórdão embargado consignou expressamente que o agravante deixou de impugnar adequadamente um dos fundamentos de inadmissibilidade do recurso especial, qual seja: a incidência da Súmula 83 do STJ, situação que denota a incidência do enunciado sumular n. 182 do STJ.
+3. Assentou, ainda, que a parte não demonstrou, especificamente, que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou o distinguishing usado para justificar que os precedentes citados no decisum recorrido seriam inaplicáveis à hipótese dos autos.
+4. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.172.603/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023).
+Ante o exposto, voto no sentido de rejeitar os presentes embargos de declaração.
