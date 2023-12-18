@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO DE RETIFICAÇÃO DE REGISTRO CIVIL. IMUTABILIDADE DO SOBRENOME. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 259/271) interposto contra decisão desta relatoria, que conheceu em parte do especial para, na parte conhecida, negar provimento ao recurso (e-STJ fls. 250/252).
+Em suas razões, a parte agravante alega que:
+(i) "não é possível dizer que o acórdão apreciou suficientemente todos os argumentos que poderiam, em tese, modificar a conclusão a que chegou o juízo de primeiro grau. O art. 1.022 do CPC foi, de fato, violado quando o Tribunal se recusou a rever o julgado e integrar a decisão nos pontos em que foi omissa" (e-STJ fl. 265);
+(ii) "não houve uma escolha entre um ou outro dos sobrenomes da avó, mas uma homenagem ora à linhagem da avó materna, ora à de quem imaginavam ser o avô materno. Com o reconhecimento de paternidade, a genitora dos recorrentes modificou o próprio nome: extirpou o "da Silva" e acrescentou o "Alves", em tributo ao reconhecimento de paternidade" (e-STJ fl. 266);
+(iii) "as recentes mudanças trazidas pela lei de registros públicos não exige uma razão extraordinária para admitir a alteração do sobrenome. Poderá haver a inclusão ou a exclusão de sobrenome em virtude de alteração das reações de filiação, inclusive para os descendentes da pessoa que teve alterado o seu estado de filiação, como na espécie. É essa a intepretação que se colhe do art. 57, IV, Lei n. 6.015/1973, com a nova redação dada pela nº 14.382/2022" (e-STJ fl. 268).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Ciência do Ministério Público Federal à fl. 256 (e-STJ).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO DE RETIFICAÇÃO DE REGISTRO CIVIL. IMUTABILIDADE DO SOBRENOME. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+5. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 250/252):
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fl. 139):
+APELAÇÃO CÍVEL. AÇÃO DE RETIFICAÇÃO DE REGISTRO CIVIL. IMUTABILIDADE DO PRENOME. AUSÊNCIA DE EXCEPCIONALIDADE E JUSTIFICATIVA RAZOÁVEL. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E IMPROVIDO. 1 - O prenome é definitivo e imutável, sendo admitida a sua alteração e consequente quebra do princípio da imutabilidade apenas em casos restritos, previstos em lei, com motivação plausível e razoabilidade. 2 - In casu, não há qualquer justificativa plausível ou excepcional a justificar a alteração do nome dos requerentes. 3 - Recurso de apelação cível conhecido e NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 180/187).
+Em suas razões (e-STJ fls. 206/214), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, "haja vista a omissão em relação à análise da alteração das relações de filiação" (e-STJ fl. 210). "Desde a origem tenta levar a compreensão que o patronímico "da Silva" pertenceu a Sra. R. antes do reconhecimento de paternidade A. Alves, foi nula da paternidade de J. P. da Silva" (e-STJ fl. 211);
+(ii) arts. 57, IV, da Lei de Registros Públicos e 16 e 1.634, I, do CC/2002, pois "R. não possui mais o sobrenome "da Silva", devendo o sobrenome pertencer a família imediata" (e-STJ fl. 213). "Desse modo, após a alteração de paternidade da genitora dos requerentes, busca se a identidade no sobrenome das proles quanto à figura materna através do patronímico "Gomes"" (e-STJ fl. 213).
+Nesses termos, requer o provimento do recurso, para que "seja reconhecida a violação expressa ao art. 1.022 do CPC, de forma a corrigir o nome J. V. da S. de S. e R. da S. S., tendo em vista a que o patronímico "da Silva" não pertence mais à Genitora dos menores diante do reconhecimento da filiação por A. Alves e a nulidade da paternidade J. P. da Silva (..); seja lavrada a 2ª (segunda) via das Certidões de Nascimento dos recorrentes, com a devida correção supramencionada (..)" (e-STJ fl. 214).
+O recurso foi admitido na origem (e-STJ fls. 226/229).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 245/248).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou:
+Feitas estas considerações iniciais, vale registrar que da redação dos arts. 57 e seguintes da Lei nº 6.015/73 (Lei de Registros Públicos) infere-se que a regra predominante é a da imutabilidade do registro civil. A alteração ou retificação de registro somente é permitida em hipóteses excepcionais e desde que motivada. (..). Conforme sentença, o caso em tela não contempla hipótese de excepcionalidade, senão vejamos: (..). Quanto à alteração dos sobrenomes dos requerentes J. V. da S. de S. e R. da S. S., os quais pretendem substituir o sobrenome "da Silva" para "Gomes", entendo não ser cabível, haja vista que tal pretensão não se enquadra em nenhuma das hipóteses legais e específicas para a alteração do nome, razão pela qual deve a parte autora demonstrar motivo excepcional capaz de justificar a mudança (art. 57, caput, LRP), sob pena de indeferimento do pedido. (..). Do conjunto probatório anexado aos autos, entendo que não constitui motivo justo a justificativa apresentada pelos autores de "não ocasionar problemas futuros". Observa-se que os genitores dos menores não optaram por incluir o sobrenome materno "Gomes" no ato do registro, incluindo apenas "da Silva de Souza, estes que pertencem respectivamente a avó materna (D. G. da Silva) e ao genitor (A. A. de S.). Como dito alhures, se o pedido não tiver motivo justo e considerável, permitir a alteração do nome viola o princípio da imutabilidade, confrontando a finalidade legal. (..). Posto isto, voto no sentido de NEGAR PROVIMENTO ao presente apelo, mantendo a r. sentença incólume. (grifos do original). (e-STJ fls. 141/144).
+Por conseguinte, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+As instâncias de origem concluíram pela manutenção do sobrenome sob o fundamento de que não foi demonstrado motivo excepcional capaz de justificar a mudança, tendo em vista que o sobrenome "da Silva", incluído voluntariamente pelos genitores na certidão de nascimento dos recorrentes, pertence à avó materna (e-STJ fl. 142).
+Contudo, no recurso especial, apontando contrariedade aos arts. 57, IV, da Lei de Registros Públicos e 16 e 1.634, I, do CC/2002, a parte sustenta somente que "R. não possui mais o sobrenome "da Silva", devendo o sobrenome pertencer a família imediata" (e-STJ fl. 213), bem como que "após a alteração de paternidade da genitora dos requerentes, busca se a identidade no sobrenome das proles quanto à figura materna através do patronímico "Gomes"" (e-STJ fl. 213).
+Desse modo, porque não houve impugnação de todos os fundamentos do acórdão recorrido, incide a Súmula n. 283 do STF.
+Ademais, para modificar o entendimento do acórdão impugnado, seria necessário reexaminar o conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, CONHEÇO em parte do especial para, na parte conhecida, NEGAR PROVIMENTO ao recurso.
+Publique-se e intimem-se.
+Conforme constou da decisão ora agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+As instâncias de origem concluíram pela manutenção do sobrenome sob o fundamento de que não foi demonstrado motivo excepcional capaz de justificar a mudança, tendo em vista que o sobrenome "da Silva", incluído voluntariamente pelos genitores na certidão de nascimento dos recorrentes, pertence à avó materna (e-STJ fl. 142).
+No entanto, a parte agravante não refutou tal argumento no recurso especial, razão pela qual foi correta a aplicação da Súmula n. 283/STF. Ressalte-se que a impugnação apenas em sede de agravo interno não é suficiente para afastar o óbice verificado.
+Ademais, rever a conclusão do acórdão impugnado demandaria incursão no campo fático-probatório, providência vedada na via especial, a teor da Súmula n. 7 do STJ.
+A afirmação de que "as recentes mudanças trazidas pela lei de registros públicos não exige uma razão extraordinária para admitir a alteração do sobrenome. (..). É essa a intepretação que se colhe do art. 57, IV, Lei n. 6.015/1973, com a nova redação dada pela nº 14.382/2022" (e-STJ fl. 268) não foi apresentada anteriormente, nas razões do recurso especial, constituindo, portanto, inovação recursal, que não pode ser apreciada.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
