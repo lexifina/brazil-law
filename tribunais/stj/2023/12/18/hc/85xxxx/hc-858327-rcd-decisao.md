@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido de reconsideração do indeferimento da liminar em habeas corpus, impetrado em favor de JAKSON JUSTINO SILVA DE MOURA contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+O requerente reitera a alegação de excesso de prazo da prisão, decretada em 21/06/2022, e, diante da ausência de informações por parte do Juízo de 1º grau - embora devidamente intimado, em mais de uma oportunidade, para tanto -, requer "a reapreciação da medida liminar" (e-STJ, fl. 115), a fim de que seja concedida a ordem e expedido alvará de soltura.
+É o relatório.
+Decido.
+Conforme consignado na decisão ora impugnada, a concessão de liminar constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrada, de modo claro e indiscutível, ilegalidade no ato judicial. Em que pese a relevância dos argumentos apresentados, o pedido formulado na petição de reconsideração já foi examinado anteriormente.
+Cumpre salientar que, segundo orientação dos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Corrobora:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. FURTO, ASSOCIAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. COMPLEXIDADE DO FEITO, COM DIVERSOS RÉUS E IMPUTAÇÃO DE VÁRIOS CRIMES. PRISÃO HÁ CERCA DE UM ANO. EXCESSO DE PRAZO NÃO CONFIGURADO. ALEGADA DESMARCAÇÃO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO COM REABERTURA DO PRAZO PARA RESPOSTA À ACUSAÇÃO. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Considerando que o feito tem sido regularmente processado, reputo plausíveis as razões consignadas pela instância antecedente para afastar a tese de ocorrência de excesso de prazo, mesmo considerando que a Agravante está segregada há cerca de um ano, visto que responde por diversos crimes, em ação penal complexa, onde foram requeridas inúmeras diligências, além de contar com nove réus, com patronos distintos, motivo pelo qual a demora na prolação de sentença não excede, até o momento, os limites da razoabilidade.
+2. A decisão agravada está fundamentada de acordo com as informações do acórdão recorrido e prestadas recentemente pelo Juízo de primeiro grau, não havendo qualquer indicativo de que o alegado constrangimento ilegal por excesso de prazo resultante do cancelamento da audiência de instrução e julgamento tenha sido suscitado nas instâncias ordinárias.
+3. A mudança da situação processual, após a publicação da decisão ora agravada, não tem o condão de impor a reanálise da tese de excesso de prazo, que deve ser trazida a esta Corte Superior na via processual adequada. De acordo com a jurisprudência desta Corte, no âmbito do agravo regimental não se admite que a parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido."
+(AgRg no RHC n. 173.454/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+Ademais, verifica-se à fl. 75 (e-STJ), que o Juiz de 1º grau informa ter reapreciado a necessidade da prisão preventiva, mantendo-a, em decisão proferida aos 08/06/2023.
+Assim, indefiro o pedido de reconsideração.
+Já tendo sido reiterado o pedido de informações ao Juízo da 14ª Vara Criminal da Capital de Recife/PE, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se. Intimem-se.
+EMENTA
