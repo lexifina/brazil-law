@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Daniel Alen Fernandes de Sousa contra o ato coator proferido pela Segunda Câmara Criminal do Tribunal de Justiça de Mato Grosso que, nos autos do Agravo em Execução n. 1024787-93.2023.8.11.0000, negou provimento à insurgência defensiva, mantendo o cálculo da pena (Processo n. 0013006-09.2016.8.11.0042, da 2ª Vara Criminal de Cuiabá/MT).
+O impetrante alega, em síntese, que a última falta grave praticada pelo paciente ocorreu em 31/7/2016, tempo superior a 3 anos, sem que fosse instaurado procedimento administrativo ou oitiva do paciente em audiência de justificação.
+Destaca o decidido em favor do reeducando Antonio Marcos Azevedo Lima.
+Menciona o decidido pelo Supremo Tribunal Federal no RE n. 972.598.
+Sustenta não ser possível reconhecimento tácito da falta grave com modificação indevida da data-base.
+Pede, em caráter liminar e no mérito, a alteração da data-base (fls. 3/21).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+Em relação à alegação de prescrição, o Juízo estabeleceu o seguinte (fls. 686 e 688):
+A defesa alega a prescrição, ante o decurso do prazo de 3 anos para análise da falta.
+Ocorre que, a prescrição trienal se refere às faltas cometidas intramuros, devendo, a direção da unidade observar tal prazo, não vinculando a Execução Penal.
+Ora, ao versar sobre fato definido como crime doloso, a mera condenação, por si só, enseja a regressão de regime e a consequente aplicação dos efeitos secundários à regressão de regime.
+ ..
+In casu, consoante se verifica da condenação acostada nos autos, o recuperando foi condenado a pena de 7 anos, 10 meses e 15 dias de reclusão, sendo que de acordo com o art. 109, III, do CP, prescreveria em 12 anos.
+No caso em tela, consoante relatado alhures, o apenado cometeu novo crime no curso da execução da pena (31/7/2016), sendo que até a data de hoje (31/8/2023), transcorreu o lapso de 7 anos e 1 mês.
+Logo, viável o reconhecimento da falta grave, consistente na prática de novo crime durante o cumprimento da pena.
+O Tribunal local manteve o cálculo da pena aos seguintes fundamentos (fls. 743/744):
+Desta feita, inexiste óbice ao aproveitamento da sentença condenatória, transitada em julgado, no processo penal de conhecimento, após regular instrução criminal, com observância do contraditório e da ampla defesa - como no caso - para reconhecimento da falta grave pelo juízo da execução. Assim, supre-se a exigência de instrução específica perante a autoridade administrativa no âmbito executivo para autorizar a consequente aplicação das sanções disciplinares, afastando-se a prescrição ventilada - do contrário, tal exigência se tornaria redundante por puro formalismo, desviando a atividade principal do juízo em assegurar os benefícios legais ao reeducando, consoante já decidiu o Supremo Tribunal Federal (tema da repercussão geral 758), proferido em controle difuso de constitucionalidade:
+ ..
+Assim, quanto a prescrição elencada, sabe-se que a oitiva do condenado pelo juízo executivo, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade do prévio procedimento administrativo disciplinar, assim como supre eventual ausência ou insuficiência de defesa técnica no procedimento instaurado para apurar a prática de falta grave durante o cumprimento da pena (tema da repercussão geral 941 do Supremo Tribunal Federal). Desta forma, ainda que não fosse realizada audiência - como foi em 31 de agosto de 2023 - em nada importaria neste caso, justamente por ter respondido à ação penal pela prática de crime doloso, com o contraditório e ampla defesa.
+A jurisprudência deste Tribunal Superior, após julgamento pelo Supremo Tribunal Federal do RE n. 972.598/RS, com repercussão geral, passou a relativizar o teor da Súmula n. 533/STF, admitindo a oitiva em audiência de justificação do reeducando, devidamente assistido por defensor, como capaz de suprir a ausência de procedimento administrativo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. APONTADA NULIDADE DO RECONHECIMENTO DA INFRAÇÃO DISCIPLINAR. NÃO OCORRÊNCIA. REALIZADA OITIVA JUDICIAL. SUPERAÇÃO DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "Esta Corte Superior de Justiça firmou entendimento acerca da impossibilidade de dispensa do processo administrativo disciplinar para fins do reconhecimento definitivo da infração disciplinar, a teor da Súmula 533/STJ, mesmo em se tratando da prática de fato definido como crime doloso, e ainda que o sentenciado esteja cumprindo pena em regime aberto ou em prisão domiciliar" (HC n. 456.119/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 15/10/2018, grifei).
+2. Todavia, ao apreciar o tema em questão, sob a égide o instituto da repercussão geral, o Pretório Excelso (REsp n. 972.598/RS, ATA Nº 12, de 04/05/2020. DJE nº 117, divulgado em 11/05/2020) firmou o entendimento de que " a  oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena".
+3. Aliás, " f undado nesta recente orientação do Supremo Tribunal Federal, esta Superior Corte de Justiça passou a proferir decisões no sentido de que a Súmula n. 533 do STJ deve ser relativizada, sobretudo em casos como o presente, em que o reeducando pratica a falta grave fora do estabelecimento prisional e não é realizado o PAD, porém, é efetuada audiência de justificação garantindo ao sentenciado o direito ao contraditório e à ampla defesa, pois, dessa forma, a ausência de realização do Procedimento Administrativo Disciplinar (PAD) não causaria prejuízo à defesa do apenado" (HC n. 577.233/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.) 4. Na hipótese, apontada a desnecessidade de realização do procedimento administrativo disciplinar, não há óbice a que o Juízo da execução penal, dada a notícia da suposta prática de infração disciplinar grave, proceda à oitiva judicial do apenado, a qual, consoante compreensão do Pretório Excelso, dispensaria de qualquer maneira a apuração administrativa da falta.
+5. Agravo regimental não provido.
+(AgRg no HC n. 816.813/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/8/2023).
+No ponto, é preciso assentar que a independência entre a instância disciplinar e a penal permite e torna prescindível o trânsito em julgado de condenação criminal para realização de procedimento administrativo disciplinar e homologação da falta grave.
+Em suporte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE NOVO CRIME. FALTA GRAVE. DISPENSA DE AUDIÊNCIA DE JUSTIFICAÇÃO COM PROGRESSÃO ANTECIPADA DE REGIME. ILEGALIDADE.
+1. A prática de crime doloso no curso da execução penal caracteriza falta grave, independentemente da instauração de inquérito policial ou do oferecimento de denúncia para apurar o feito, e sujeita o reeducando à aplicação de sanção disciplinar, independentemente do trânsito em julgado de eventual condenação criminal, bastando que se demonstre a existência de indícios de autoria e materialidade daquele ato.
+2. A jurisprudência do STJ cristalizada, inclusive, no enunciado da Súmula n. 526, é a de que "o reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato".
+3. No caso, não houve regressão do apenado em virtude da prática de falta grave. Ao contrário, foi deferida a progressão de regime antecipada, após a prática de fato definido como crime (tráfico de drogas), na mesma decisão em que dispensada a audiência de justificação. Somente após o provimento do agravo em execução ministerial, foi a progressão antecipada devidamente cassada.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 797.155/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/8/2023).
+Assim, não haveria ilegalidade na homologação da falta grave, nos termos realizados pela origem.
+No entanto, considerando que a jurisprudência reconhece o prazo prescricional de 3 anos para homologação de falta grave, sem distinção se extra ou intramuros, por analogia ao art. 109, VI, do Código Penal (AgRg no REsp n. 2.016.844/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/10/2023), necessário reconhecer a prescrição da falta grave, haja vista o decurso de lapso superior a 3 anos entre a data do fato descrito como infração disciplinar (31/7/2016) e a data da homologação da falta (31/8/2023).
+Necessário, assim, afastar a homologação da falta grave.
+Ante o exposto, concedo liminarmente a ordem para reconhecer a prescrição da falta grave e determinar a realização de novo cálculo da pena.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE FALTA GRAVE DEFINIDA COMO CRIME. DESNECESSIDADE DE PROCEDIMENTO ADMINISTRATIVO. OITIVA EM JUÍZO. RE N. 972.598/RS. LACUNA LEGISLATIVA. PRAZO PRESCRICIONAL. ART. 109, VI, DO CP POR ANALOGIA. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
