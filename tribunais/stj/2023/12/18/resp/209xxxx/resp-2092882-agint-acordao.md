@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - Revela-se deficiente o recurso quando a parte recorrente indica como violados d ispositivos os quais não têm comando normativo suficiente para infirmar os fundamentos do julgado impugnado. Inteligência da Súmulas n. 284 do STF.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por JACOB JULIO LAURETT, contra a decisão monocrática de minha lavra que não conheceu ao Recurso Especial.
+Sustenta o Agravante, em síntese, o seguinte (fls. 628/636e):
+37. Portanto, data vênia máxima ao entendimento da Eminente Ministra relatora, urge reconhecer que a inaplicabilidade, por analogia, do entendimento veiculado pela Súmula nº 284/STF ao presente caso. 38. Isso porque a argumentação tecida no Recurso Especial é suficiente mente clara para permitir a exata compreensão da controvérsia, que se refere à aná lise da aplicação da tese jurídica vinculante firmada no "Tema Repetitivo 961/STJ" ao caso, com condenação da União Federal ao pagamento de honorários advocatícios em favor da parte vencedora (Agravante).
+ ..
+48. Por conseguinte, deve ser reformada a decisão agravada, no intuito de conhecer e dar integral provimento ao recurso especial pela alínea "c" do permissivo constitucional, devendo ser reformado o Acórdão do Egrégio TRF2 recorrido para condenar a União Federal ao pagamento de honorários advocatícios de sucumbência
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 645e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - Revela-se deficiente o recurso quando a parte recorrente indica como violados d ispositivos os quais não têm comando normativo suficiente para infirmar os fundamentos do julgado impugnado. Inteligência da Súmulas n. 284 do STF.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao agravante.
+O tribunal de origem, com base no princípio da causalidade, compreendeu que o Agravante " ..  deve assumir as despesas inerentes ao processo, decorrentes de sua inclusão no polo passivo da execução fiscal, inclusive no que se refere à remuneração do advogado, não se podendo atribuir tal responsabilidade à exequente, que agiu com base nas informações prestadas pela própria empresa devedora" (fls. 92/93e):
+No caso, resta evidente que a inclusão do ora agravante no polo passivo da Execução Fiscal se deu em razão da dissolução irregular da empresa executada, com base nos registros fiscais da sociedade devedora em que o próprio agravante admite que anuiu ao uso de seu nome para figurar como sócio gerente da executada, ou seja: "sócio-laranja".
+Assim, não pode atribuir à exequente a responsabilidade pela inclusão no polo passivo da execução fiscal daquele que figurava nos registros da empresa devedora como sócio gerente; pois, é legítimo o redirecionamento da execução fiscal em face do sócio gerente, nos casos de dissolução irregular da sociedade executada, conforme orientação jurisprudencial consolidada na Súmula n. 435 do Eg. Superior Tribunal de Justiça:
+"Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente." (Súmula 435, PRIMEIRA SEÇÃO, julgado em 14/04/2010, DJe 13/05/2010).
+Nenhum dos dispositivos de lei federal apontados como violados trata dessa matéria, revelando-se incapazes de impugnar tal fundamentação.
+É firme o posicionamento desta Corte segundo o qual se revela incabível conhecer do recurso especial quando o dispositivo de lei federal tido por violado não possui comando normativo capaz de impugnar os fundamentos do acórdão recorrido, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PESSOA JURÍDICA. QUALIFICAÇÃO COMO AGROINDÚSTRIA. ART. 489 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REENQUADRAMENTO DA EMPRESA. EXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSULTA. FISCALIZAÇÃO IN LOCO. SITUAÇÃO FÁTICA DIVERSA. SÚMULA 284 DO STF. INCIDÊNCIA. LANÇAMENTO FISCAL. MULTA ISOLADA E DE OFÍCIO. RETROATIVIDADE DA LEGISLAÇÃO MAIS BENÉFICA. SÚMULA 283 DO STF. CARÁTER CONFISCATÓRIO. DIVERGÊNCIA NÃO DEMONSTRADA. SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. AUSÊNCIA. HONORÁRIOS RECURSAIS. CABIMENTO.
+ ..
+4. O art. 100 do CTN não possui comando normativo suficiente para infirmar o entendimento da Corte Regional de que as soluções de consulta não vinculam o Fisco na hipótese da ocorrência de fiscalização tributária in loco, na qual se verifica situação fática diversa daquela apresentada pelo consulente, incidindo no ponto o óbice da Súmula 284 do STF.
+ ..
+(AgInt nos EDcl no AREsp 1.343.527/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/11/2019, DJe 03/12/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA VISANDO A EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. SEGURANÇA CONCEDIDA, COM LIMITAÇÃO TEMPORAL DOS EFEITOS DO JULGADO A 31/12/2014, EM FACE DA LEI 12.973/2014. ALEGADA VIOLAÇÃO AOS ARTS. 1.039, CAPUT, E 1.040, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. DISPOSITIVOS PROCESSUAIS APONTADOS QUE, ADEMAIS, NÃO POSSUEM COMANDO NORMATIVO APTO A SUSTENTAR A TESE DA RECORRENTE. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. IMPOSSIBILIDADE, AINDA, DE ANÁLISE, EM RECURSO ESPECIAL, DA ADEQUAÇÃO DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM, EM JUÍZO DE RETRATAÇÃO, COM A TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA, SOB PENA DE ANÁLISE, POR VIA REFLEXA, DE QUESTÃO CONSTITUCIONAL. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+VII. De todo modo, em relação à alegada violação aos arts. 1.039, caput, e 1.040, III, do CPC/2015, os referidos dispositivos legais não possuem comando normativo apto a infirmar a conclusão, tal como posta no acórdão recorrido, em relação à limitação temporal dos efeitos do julgado a 31/12/2014, de forma a atrair, no ponto, a aplicação analógica da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+(AgInt no AREsp 1.510.210/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2019, DJe 29/11/2019).
+Nesse cenário impõe-se a prejudicialidade do exame da divergência jurisprudencial.
+De fato, os óbices os quais impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. TITULARIDADE DOS CRÉDITOS EXECUTADOS. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS E NA INTERPRETAÇÃO DE CLÁUSULAS CLÁUSULAS CONTRATUAIS. REVISÃO. SÚMULAS N. 05 E 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Revela-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem, bem como quando a arguição de ofensa ao dispositivo de lei federal é genérica ou não aponta o dispositivo de lei federal violado. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - In casu, rever o entendimento do Tribunal de origem acerca da titularidade dos créditos executados demandaria interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 05 e 07/STJ.
+V - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+Precedentes.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1883971/PR, de minha relatoria, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
