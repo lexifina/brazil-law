@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravos de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interpostos contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 607, e-STJ):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO POSSESSÓRIA. REINTEGRAÇÃO DE POSSE. RUMO. DIMENSÃO DA FAIXA DE DOMÍNIO. ESBULHO APENAS PARCIAL. DIREITO À MORADIA. PRAZO PARA DEMOLIÇÃO DO QUE ESTIVER DENTRO DA PARTE DA FAIXA DE DOMÍNIO QUE FOI INVADIDA. ÔNUS SUCUMBENCIAIS.
+1. Não havendo provas que demonstrem que a faixa de domínio no local da invasão tenha efetivamente 30 metros, é de se considerar uma faixa de domínio com a dimensão de 15 metros, conforme o que consta no Decreto 7.929/2013. Sentença e decisões deste Regional nessa linha.
+2. Assim, tem-se esbulho apenas parcial como indicado na sentença.
+3. O direito constitucional à moradia não é "direito" de conquistar moradia de qualquer forma.
+4. Existem regras, normas legais, que devem observadas para que o direito constitucional à moradia vá sendo concretizado aos poucos, paulatinamente e de forma ordenada com o transcurso do tempo.
+5. Além disso, aceitar a permanência em definitivo de alguém que esbulhou uma parte de uma área pública, sem perspectiva de sua remoção, é permitir a violação, ainda que por vias transversas, da vedação à usucapião de bens públicos.
+6. Os ônus sucumbenciais devem ser redistribuídos.
+7. Recurso da Rumo e do DNIT improvido. Recurso dos réus provido parcialmente.
+Os Embargos de Declaração foram providos apenas para fins de prequestionamento (fls. 699-700, e-STJ).
+O Tribunal de origem realizou o juízo de admissibilidade (fls. 738-743, e-STJ) apenas do Recurso Especial do Departamento Nacional de Infraestrutura do Trânsito - DNIT, deixando de analisar a do Recurso Especial do Rumo Malha Sul S.A..
+O Ministério Público Federal emitiu parecer às fls. 807-811, e-STJ:
+10. Preliminarmente, registra-se que a única decisão de admissibilidade colacionada aos autos (fls. 738/742) refere-se, tão somente, ao recurso especial interposto pela Autarquia Federal (fls. 712/720), a qual agravou da aludida decisão (fls. 771/781). Registre-se, ainda que, a referida decisão foi igualmente objeto de agravo interposto pela concessionária que, a toda evidência, carece de pertinência subjetiva na hipótese. Quanto ao recurso especial manejado pela empresa cessionária ora agravante (fls. 642/653), não há nos autos decisão proferida pelo Tribunal de origem quanto à sua admissibilidade. Como se sabe, o Código de Processo Civil estatui que, verbatim:
+"Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial , salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos" (Redação dada pela Lei nº 13.256, de 2016, (g.n.).
+11. Desta forma, ao que se indica, não há juízo de admissibilidade negativo proferido pelo Tribunal de origem no que concerne ao apelo nobre interposto pela empresa cessionária, razão pela qual é incabível a interposição de agravo em recurso especial.
+Assim, tendo em vista que não foi realizado o juízo de admissibilidade do Apelo Nobre de Rumo Malha Sul S.A. (fls. 642-653, e-STJ), nos termos do art. 1.030 do Código de Processo Civil de 2015, a fim de evitar nulidade, faz-se necessária a conversão do feito em diligência para que a irregularidade seja sanada.
+Ademais, por meio da petição da fl. 521, e-STJ, a entidade pública federal desiste do REsp sob os seguintes argumentos:
+Considerando a instituição do Projeto de Análise Estratégica do Litígio e Atuação Contenciosa Integrada - PRÓ-ESTRATÉGIA, que tem por objetivos centrais a promoção da eficiência processual, da racionalização e da uniformização da atuação contenciosa, a prevenção e redução da litigiosidade e a integração entre os órgãos de execução da Procuradoria-Geral Federal, bem como a assinatura do Acordo de Cooperação Técnica STJ nº 04/2020, firmado entre a Advocacia-Geral da União e o Superior Tribunal deJustiça, vem DESISTIR do recurso interposto.
+Conforme dispõe o art. 998 do CPC/2015, o ato de desistência do Recurso pode ocorrer a qualquer tempo e sem a anuência da parte recorrida. Esclareço ainda que, de acordo com o previsto no § 11 do art. 85 do CPC/2015 e em consonância com a jurisprudência do Superior Tribunal de Justiça, não há que se falar em arbitramento de honorários advocatícios recursais na hipótese de homologação de pedido de desistência do recurso, porquanto inexiste, na hipótese, julgamento propriamente dito.
+Desse modo, homologo a desistência do Recurso Especial do DNIT de fls. 712-720, e-STJ; converto o julgamento em diligência, para que o Tribunal Regional Federal da 4ª Região realize o juízo de admissibilidade do Recurso Especial de Rumo Malha Sul S.A. (fls. 642-653, e-STJ).
+Publique-se.
+Intimem-se.
+EMENTA
