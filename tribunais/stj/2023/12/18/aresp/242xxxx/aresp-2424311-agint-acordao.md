@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. COBRANÇA. IRREGULARIDADE NO PREPARO. DESERÇÃO. SÚMULA N. 187/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Cuida-se de ação de despejo cumulada com cobrança, objetivando a rescisão do contrato de locação e a desocupação do imóvel em litígio, além da quitação dos alugueis e demais encargos devidos.
+2. Hipótese em que o recurso especial não foi conhecido em função da deserção.
+3. É deserto o recurso especial cuja comprovação do preparo é realizada mediante a juntada de documento de pagamento que não contém vinculação ao processo, notadamente pela ausência do número do código de barras da GRU das custas destinadas ao STJ.
+4. Tendo sido possibilitada à parte a regularização do preparo, e não o fazendo da forma correta, legítima a decretação de deserção do recurso.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PORTAL DA FRANCA CAFE E BAR LTDA. contra decisão monocrática de relatoria da Ministra Maria Thereza de Assis Moura, por meio da qual não conheceu do recurso especial em razão da ausência de preparo (fls. 544-545).
+Extrai-se dos autos que o recurso especial não conhecido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 427):
+AGRAVO INTERNO.
+- Certidão cartorária que aponta a intempestividade do recurso de apelação interposto pela parte ré, ora agravante. Parte ré, ora recorrente, que foi intimado da sentença em 27/09/2021.
+-Recurso de apelação que somente foi interposto em 21/10/2021, em prazo superior aos 15 dias úteis previsto no artigo 1.003, § 5º, do CPC.
+-Assim, é manifesta a intempestividade do recurso de apelação, razão pela qual o recurso não foi conhecido.
+AGRAVO INTERNO IMPROCEDENTE.
+Rejeitados os embargos de declaração opostos (fls. 448-459).
+Sustenta a parte agravante que (fls. 573-574):
+Restou comprovado que a agravante apresentou o comprovante de recolhimento das custas processuais, demonstrando o adequado preparo do recurso, conforme fls. 487 e 488. Que, inclusive, o Tribunal de origem certificou o recolhimento tempestivo e a maior do preparo conforme fl. 489.
+Aduz que (fls. 577-578):
+No presente caso, a agravante, de início, recolheu a GRU já em dobro, conforme verifica-se à fls. 478 e 487.
+O art. 1.007, §4º, do CPC/2015, não deve se limitar à hipótese de ausência absoluta de comprovação, devendo incidir também quando o recorrente, embora tenha recolhido o preparo, não consiga comprová-lo de maneira adequada nos autos.
+ ..
+Seria contraditório e não razoável permitir que o recolhimento em dobro do preparo afastasse a deserção quando o recorrente não comprovou pagamento algum (por exemplo, porque não pagou), mas, por outro lado, vedar essa possibilidade ao recorrente que efetivamente recolheu o preparo e, ainda, tentou comprová-lo, mas o fez erroneamente.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões, requerendo a aplicação da multa por litigância de má-fé (fls. 585-589).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. COBRANÇA. IRREGULARIDADE NO PREPARO. DESERÇÃO. SÚMULA N. 187/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Cuida-se de ação de despejo cumulada com cobrança, objetivando a rescisão do contrato de locação e a desocupação do imóvel em litígio, além da quitação dos alugueis e demais encargos devidos.
+2. Hipótese em que o recurso especial não foi conhecido em função da deserção.
+3. É deserto o recurso especial cuja comprovação do preparo é realizada mediante a juntada de documento de pagamento que não contém vinculação ao processo, notadamente pela ausência do número do código de barras da GRU das custas destinadas ao STJ.
+4. Tendo sido possibilitada à parte a regularização do preparo, e não o fazendo da forma correta, legítima a decretação de deserção do recurso.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Em síntese, cuida-se de ação de despejo cumulada com cobrança interposta por CREDBENS FOMENTO MERCANTIL LTDA. contra PORTAL DA FRANCA CAFE E BAR LTDA., objetivando a rescisão do contrato de locação e a desocupação do imóvel em litígio, além da quitação dos aluguéis e demais encargos devidos.
+O Juízo de primeiro grau julgou procedentes os pedidos autorais, rescindindo o contrato de locação, decretando a desocupação voluntária do imóvel e condenando a requerida ao pagamento de aluguéis e encargos vencidos (fls. 312-314).
+O Tribunal de origem não conheceu do recurso de apelação, com fundamento na intempestividade (fls. 375-381; 390-400; 426-433), o que ensejou a interposição de recurso especial (fls. 461-470).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 505-507), ensejando a apresentação de agravo.
+A Presidência desta Corte não conheceu do recurso especial com fundamento na deserção, tendo em vista a irregularidade no recolhimento do preparo, nos termos da Súmula n. 187/STJ (fls. 544-545), ocasião em que foi interposto o presente agravo interno.
+A irresignação recursal não merece prosperar.
+A respeito da deficiência do preparo, a decisão agravada consignou o seguinte (fls. 544-545):
+Mediante análise do recurso de PORTAL DA FRANCA CAFE E BAR LTDA, o recurso especial foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que deixou de trazer o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. 479 não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ademais, consta na decisão dos embargos de declaração o seguinte (fls. 560-561):
+O Tribunal de origem, equivocadamente, à fl. 483, intimou novamente a parte para sanar o vício. Nesse caso, a parte trouxe o comprovante de pagamento referente à guia anteriormente apresentada.
+Todavia, registre-se que não cabia ao Tribunal de origem dar nova oportunidade de regularização do vício, tendo em vista a falta de previsão legal, uma vez que a parte já havia sido devidamente intimada para regularizar o óbice.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Da análise dos autos, verifica-se que o preparo foi realizado de forma irregular, uma vez que a parte recorrente não comprovou o recolhimento da GRU (fl. 472).
+Nesse contexto, em observância ao que dispõe o art. 1.007 do CPC, o Tribunal de origem intimou a parte recorrente para comprovar, no prazo de 5 dias, o regular pagamento da GRU (fl. 474).
+No entanto, a parte agravante apresentou comprovante sem a sequência numérica do código de barras (fl. 479).
+A despeito de o Tribunal de origem ter proferido nova intimação para regularização (fl. 483), é firme a jurisprudência do STJ no sentido de que o não atendimento da intimação para regularização do preparo acarreta a deserção do recurso, não sendo cabível nova oportunidade de regularização. A propósito, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÊNCIA DE COMPROVAÇÃO ADEQUADA DO RECOLHIMENTO DAS CUSTAS PROCESSUAIS. AUSÊNCIA DE RESPEITO AO RESPECTIVOS REGRAMENTOS. IMPOSSIBILIDADE DE VERIFICAÇÃO DA SEQUÊNCIA NUMÉRICA DO CÓDIGO DE BARRAS. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior "é no sentido de que o comprovante de pagamento das custas processuais deve estar acompanhado da guia de recolhimento do preparo, ambos de forma visível e legível, sob pena de deserção, não se afigurando possível sua comprovação posterior, conforme dicção do enunciado da Súmula 187/STJ" (AgInt no AREsp n. 2.135.541/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/3/2023, DJe de 15/3/2023).
+2. Nota-se que a parte, embora devidamente intimada para sanar o referido vício, não regularizou o preparo adequadamente. Incide o óbice sumular n. 187/STJ "quando for impossível verificar a correspondência entre o código de barras e a guia de recolhimento, como na presente hipótese, visto que o comprovante de pagamento digitalizado pela parte não permite a verificação completa do código de barras" (AgInt no AREsp n. 1.225.592/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/3/2020, DJe de 25/3/2020).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.320.369/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. PREPARO RECURSAL. AUSÊNCIA DO COMPROVANTE DE PAGAMENTO DA GUIA DE RECOLHIMENTO DAS CUSTAS (GRU). DOCUMENTO APRESENTADO QUE NÃO POSSUI O NÚMERO DO CÓDIGO DE BARRAS, CORRESPONDENTE À GUIA DE RECOLHIMENTO DAS CUSTAS. INTIMAÇÃO PARA SANAR O VÍCIO, EM CINCO DIAS. NÃO ATENDIMENTO, NO PRAZO. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Com efeito, "é deserto o recurso especial, na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC/2015), não havendo se falar, ainda, em aproveitamento dos atos realizados, porquanto não atendidos sequer os pressupostos processuais do apelo extremo" (STJ, AgInt no REsp 1.694.039/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 18/05/2018). No mesmo sentido: STJ, AgInt no AREsp 1.147.348/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 17/05/2018.
+IV. No caso, a deserção foi declarada, porquanto o Recurso Especial foi instruído, no momento de sua interposição, sem o comprovante de pagamento do preparo, uma vez que não contém ele a sequência numérica do código de barras. Constatada a irregularidade, no STJ, a parte recorrente foi intimada para realizar o recolhimento do preparo, em dobro, nos termos do art. 1.007, § 4º, do CPC/2015, sob pena de não conhecimento do recurso. Conquanto tenha sido intimada para regularizar o preparo, no prazo de cinco dias, deixou o agravante de fazê-lo tempestivamente. Não tendo sido cumprida a determinação, deve ser considerado deserto o Recurso Especial.
+Incidência da Súmula 187/STJ. Precedentes do STJ.
+V. Esta Corte já firmou a compreensão de que "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto" (STJ, AgRg no AREsp 619.794/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 27/10/2015).
+VI. Aplica-se, ao caso, o entendimento consolidado na Súmula 187 desta Corte, no sentido de que "é deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 2.310.741/BA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/9/2023, DJe de 14/9/2023, grifo meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Nos termos da jurisprudência desta Corte, deve ser reconhecida a deserção do recurso (Súmula 187/STJ), quando a parte recorrente, mesmo devidamente intimada, deixa de regularizar o preparo no prazo concedido.
+1.1. A falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial.
+2. Inviável a concessão de novo prazo ou a admissão do recolhimento extemporâneo, em razão da preclusão.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.164.501/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023, grifo meu.)
+Por sua vez, no que se refere ao pedido de condenação da parte agravante à multa por litigância de má-fé, não assiste razão à parte agravada. Isso porque a parte agravante interpôs os recursos legalmente previstos no ordenamento jurídico, sem abusar do direito de recorrer, pelo que não se verifica afronta ou descaso com o Poder Judiciário. Nesse sentido, cito:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESERÇÃO. INTIMAÇÃO PARA REGULARIZAÇÃO. VÍCIO NÃO SANADO. SÚMULA N. 187/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. CORRETA A MAJORAÇÃO IMPOSTA PELA DECISÃO AGRAVADA. MULTA. LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. .. V - Inaplicabilidade da multa por litigância de má-fé (arts. 17, VII, e 18, § 2º, do Código de Processo Civil de 1973 e 80, IV e VII, e 81 do estatuto processual civil de 2015, porquanto ausente demonstração de que a parte recorrente agiu com culpa grave ou dolo. Precedente do Supremo Tribunal Federal.VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.VII - Agravo Interno improvido.(AgInt no AREsp n. 2.325.386/BA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 28/8/2023, DJe de 30/8/2023, grifo meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITO SUSPENSIVO. EMBARGOS. MATÉRIA NÃO PREQUESTIONADA. APLICAÇÃO DA SÚMULA 211/STJ. AUSENTE O PREQUESTIONAMENTO IMPLÍCITO. MULTA POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. AGRAVO DESPROVIDO. .. 3. Não pode ser considerada como litigância de má-fé a interposição de recurso previsto no ordenamento jurídico, quando não ficar evidenciado o seu intuito protelatório. Inaplicabilidade da multa prevista no art. 80 do CPC/2015.4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.236.285/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023, grifo meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DAS PROVAS. PRINCÍPIO DA PERSUASÃO RACIONAL. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ RECONHECIDA NAS INSTÂNCIAS ORDINÁRIAS. ACÓRDÃO FUNDAMENTADO RECONHECENDO A ALTERAÇÃO DA VERDADE DOS FATOS. AFASTAMENTO DA MULTA APLICADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. .. 2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015". (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019). Na hipótese, Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da agravante, que alterou a verdade dos fatos com o intuito de se locupletar ilicitamente.3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.197.457/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023.)
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
