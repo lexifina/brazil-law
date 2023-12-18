@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE PROTELATÓRIOS. REFORMA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ.
+No caso dos autos, afastar a multa do art. 1.026, § 2º, do CPC aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, demanda reexame de matéria fático-probatória, o que é vedado em recurso especial nos termos da Súmula n. 7 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MA RTINS (relator):
+Cuida-se de agravo interno interposto por BRUNO FERREIRA ABIB contra decisão monocrática da Presidência do STJ que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (fls. 224-232).
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 66):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO. DESERÇÃO NÃO VERIFICADA. NÃO LOCALIZAÇÃO DE BENS PENHORÁVEIS. OCULTAÇÃO NÃO EVIDENCIADA. ÔNUS DO CREDOR A LOCALIZAÇÃO E INDICAÇÃO DE BENS DO DEVEDOR. PRINCÍPIOS DA COOPERAÇÃO E DA EFETIVIDADE DA EXECUÇÃO ATENDIDOS. DECISÃO MANTIDA.1. Rejeita-se a preliminar de não conhecimento do recurso por deserção, uma vez que o preparo foi recolhido e está devidamente comprovado nos autos.2. O credor deve indicar bens do devedor suscetíveis de penhora, sempre que possível, nos termos do art. 798, inciso II, alínea c, do CPC.3. O juiz atua em auxílio à parte, privilegiando o dever de cooperação e atento à celeridade processual, ao realizar pesquisas nos sistemas que lhe são disponibilizados.4. O inconformismo do credor com a não localização de patrimônio passível de penhora para satisfazer o crédito exequendo não lhe retira o ônus de proceder a novas buscas, devendo comprovar que há ocultação de patrimônio para que outras medidas judiciais sejam impostas contra o devedor.4. Não evidenciada omissão dolosa, a medida coercitiva requerida, sob pena de multa prevista no parágrafo único, do artigo 774, do Código de Processo Civil não se mostra adequada.5. Preliminar rejeitada. Recurso desprovido.
+Nas razões do agravo interno, o agravante aduz, em síntese: 1) a posição de credor do recorrente é incompatível com qualquer conduta protelatória; 2) a interposição dos declaratórios, que redundou na indevida aplicação de multa ao recorrente, era necessária para efeito de prequestionamento; e 3) a análise acerca da violação ou não do art. 1.026, § 2º, do CPC não demanda revolvimento do conjunto fático-probatório dos autos, o conhecimento e provimento do presente recurso para os fins de se determinar o conhecimento e provimento do recurso especial para exclusão da multa de 1% imposta ao credor recorrente é medida que se impõe (fls. 255-261).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Sem impugnações (fls. 266 e 267).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE PROTELATÓRIOS. REFORMA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ.
+No caso dos autos, afastar a multa do art. 1.026, § 2º, do CPC aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, demanda reexame de matéria fático-probatória, o que é vedado em recurso especial nos termos da Súmula n. 7 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada não conheceu do recurso especial em razão do óbice da da Súmula n. 7/STJ, pois seria necessário o reexame do conjunto fático-probatório para que se verificasse se a multa foi indevidamente aplicada e se os embargos teriam caráter protelatório.
+A propósito, destaco trechos da decisão agravada (fl . 231):
+No mais, relativamente à suposta violação aos demais artigos de lei tidos por violados, melhor sorte não socorre à parte recorrente, pois, elidir as conclusões do aresto impugnado, firmadas no sentido de que "não há indicativo, nos autos de origem, que configure o dolo do agravado na frustração das diligências realizadas ou ocultação de bens a ensejar sua intimação para que, sob pena de multa, indique bens, nos termos do art. 774, V, do CPC", e, que "inexistindo qualquer dos vícios indicados e sendo inadmitido nessa fase o reexame de matéria já debatida e decidida, resta caracterizado o efeito protelatório do recurso", demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada, novamente, nesta sede especial a teor da Súmula 07/STJ.
+Da análise do agravo interno, verifica-se que o agravante não trouxe novos fundamentos capazes de alterar as razões decisórias consignadas na decisão agravada.
+Quanto à suscitada violação do art. 1.026, § 2º, do CPC, relativo à multa aplicada em razão do caráter protelatório dos embargos de declaração, o Tribunal de origem decidiu amparado no conjunto fático-probatório carreado aos autos.
+Na oportunidade, o Tribunal a quo entendeu que a parte recorrida pretendia a rediscussão da matéria pela via inadequada, sendo, portanto, cabível a multa nos seguintes termos (fls. 143-144):
+Destarte, inexistindo qualquer dos vícios indicados e sendo inadmitido nessa fase o reexame da matéria já debatida e decidida, resta caracterizado o efeito protelatório do recurso.
+Portanto, mostra-se devida a aplicação da multa prevista no § 2º do art. 1.026 do CPC.
+Cumpre ressaltar que o acolhimento da pretensão recursal que busca reformar as conclusões do Tribunal de origem acerca do caráter protelatório dos embargos manejados, bem como acerca da possibilidade de afastamento ou não da multa, demandaria nova análise do conjunto fático-probatório, inviável em recurso especial em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVAÇÃO INDEVIDA DO NOME DE PESSOA JURÍDICA. DEVER DE REPARAR CONFIGURADO. VALOR DA CONDENAÇÃO RAZOÁVEL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE PROTELATÓRIOS. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Verifica-se que o Tribunal de origem consignou, com base no contexto fático do caso, a inexigibilidade do débito em questão, e que ficou configurado o dano moral reparável, além da razoabilidade do valor da condenação. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca dos fatos e das provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2. Igualmente demandaria o reexame do contexto fático-probatório dos autos, a incidir, também, o óbice da Súmula n. 7 do STJ, rever o entendimento da Corte de origem acerca do caráter manifestamente protelatório dos embargos de declaração.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.214.394/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ITCD. DECADÊNCIA. TERMO INICIAL. PRIMEIRO DIA DO EXERCÍCIO SEGUINTE AO TRÂNSITO EM JULGADO DA SENTENÇA HOMOLOGATÓRIA DA PARTILHA. MULTA PREVISTA NO ART. 1.026, § 2º, do CPC. ANÁLISE. SÚMULA 7 DO STJ.
+1. O entendimento desta Corte firmou-se no sentido de que é aplicável à decadência o art. 173, I, do CTN, de modo que o seu termo inicial é o primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+2. Nesse contexto, o prazo decadencial, nos casos de ITCD, tem início a partir do primeiro dia do exercício seguinte àquele em que ocorreu o trânsito em julgado da sentença homologatória da partilha, que seria a data em que o lançamento poderia ter ocorrido.
+3. A análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.835.027/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/2/2020, DJe de 11/2/2020.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
