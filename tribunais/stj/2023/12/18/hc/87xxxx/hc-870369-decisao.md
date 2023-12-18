@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JEAN DUARTE SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1500772-60.2021.8.26.0483).
+O paciente foi condenado pela prática do crime previsto no art. art. 33, caput, da Lei 11.343/2006, à pena de 5 anos de reclusão em regime fechado, além do pagamento de 500 dias-multa. Imputou-se a seguinte conduta (e-STJ fl. 114):
+Consta dos inclusos autos de inquérito policial que, no dia 21 de outubro de 2021, por volta das 06h0Omin, na Rua Mateus Belchior, nº. 135, Jardim Esperança, nesta cidade e Comarca de Presidente Venceslau, JEAN DUARTE SLVA, mantinha em depósito, 02 (dois) invólucros da substância popularmente conhecida como "crack", com peso líquido aproximado de 10,36 gramas19,37g e 01 (um) invólucro de cocaína, com peso líquido aproximado de 9,01 gramas, para fins de mercancia, confoinie auto de apreensão de fl. 13, laudo de constatação provisória do entorpecente de fls. 23/26, laudo pericial de fls. 83/85 e imagens de fls. 14/21.
+Segundo apurado, policiais civis detinham prévias informações de que JEAN estaria realizando o tráfico de entorpecente nesta urbe, bem como estaria ameaçando usuários por dívidas do tráfico, razão pela qual pleitearam pela realização de busca e apreensão domiciliar nos autos de nº. 1500767-38.2021.8.26.0483, autorizado pelo juizo da 1º Vara Judicial.
+Por ocasião da busca, encontraram 2 (dois) invólucros de carck e um invólucro de cocaína, que estavam no interior do armário da cozinha e no vaso sanitário da residência.
+Além do entorpecente, foi encontrada uma balança de precisão utilizada para a separação da droga em pequenas porções.
+A quantidade, a natureza, a forma de acondicionamento das drogas, as denúncias pretéritas relacionada ao comércio de entorpecentes no local e as circunstâncias da prisão em flagrante evidenciam que o denunciado praticava o tráfico de drogas.
+O recurso apresentado pela defesa foi desprovido por meio de acórdão assim ementado (e-STJ fls. 297-302):
+Apelação. Crime de tráfico de drogas. Aplicação do redutor especial de penas. Não cabimento. Substituição da pena privativa de liberdade por penas restritivas de direitos. Impossibilidade. Não provimento ao recurso.
+A defesa alega, em síntese: a) o reconhecimento da causa de diminuição de pena prevista no artigo 33, §4º, da Lei nº 11.343/06, paciente é primário (fls. 49/56 dos autos nº 1500772-60.2021.8.26.0483, integralmente em anexo) e não foram produzidas provas nos autos cerca de sua dedicação a qualquer atividade criminosa ou participação em organização criminosa nos moldes legais.(e-STJ fl. 6); e b) concessão da ordem para modificar o acórdão proferido pelo E. Tribunal de Justiça do Estado de São Paulo no tocante ao regime prisional aplicado, de forma a impor o regime prisional aberto ao paciente com fundamento na sua primariedade e no montante de pena aplicado, nos termos do artigo 33, §2º, alínea "c", do Código Penal. (e-STJ fl. 13)
+Consta dos autos que o paciente está preso desde 21/10/2021.
+Requer, liminar e definitivamente, o deferimento da ordem para para reconhecer a aplicação da causa de diminuição de pena prevista no artigo 33, §4º, da Lei nº 11.343/06, bem como para fixar o regime prisional aberto para o início do cumprimento da pena privativa de liberdade e substitui-la por penas restritivas de direitos.
+É o relatório.
+Decido.
+Aponta o impetrante, em suma, a nulidade do acórdão impugnado, na fixação da pena no regime fechado, visto que o paciente é primário e a pena não excede 8 anos.
+Conforme se verifica dos autos, o paciente foi condenado, pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/2006, com o regime prisional inicialmente fechado.
+Verifica-se dos autos que o paciente ostenta de bons antecedentes e sua pena foi fixada no mínimo legal, assim descabida a fixação do regime inicial fechado, evidenciando assim uma ilegalidade do acórdão do Tribunal de Origem.
+Não ficou evidenciado no Tribunal de origem a fundamentação específica, baseada em elementos concretos para fixação da reprimenda mais gravosa (e-STJ fl. 302):
+A quantidade da pena privativa de liberdade fixada e ora mantida não permite sua substituição por penas restritivas de direitos (artigo 44, inciso I, do Código Penal).
+Sendo assim, concedo a ordem de habeas corpus para aplicar em favor do paciente a causa de diminuição da pena prevista no § 4º do artigo 33 da Lei de Drogas.
+Comunique-se com urgência o Tribunal de origem e o Juízo singular, inclusive para que ocorra a imediata adequação da execução penal do paciente aos termos da presente decisão.
+ EMENTA
