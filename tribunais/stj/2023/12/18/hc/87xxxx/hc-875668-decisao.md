@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FELIPE VIEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC 5338099-65.2023.8.21.7000).
+O paciente está preso preventivamente pela suposta prática de homicídio qualificado, homicídio qualificado tentado e organização criminosa.
+O habeas corpus impetrado na origem teve a ordem denegada por meio de acórdão assim ementado (e-STJ fl. 10):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. HOMICÍDIOQUALIFICADO TENTADO. ORGANIZAÇÃO CRIMINOSA. EXCESSODE PRAZO NÃO VERIFICADO. . ORDEM DENEGADA.
+1. Não existe prazo legal específico para a prisão preventiva. Na realidade, conforme o art. 312 do CPP, a segregação cautelar deve durar enquanto for necessária para garantia da: (i.) ordem pública; (ii.) ordem econômica; (iii.)conveniência da instrução criminal; ou (iv.) aplicação da lei penal.
+2. Para verificar se a duração da prisão preventiva é razoável, devem ser consideradas as particularidades do caso concreto, como o número de réus, a complexidade dos delitos imputados e a atuação das partes. Posição do STF.
+3. A ilegalidade da prisão por excesso de prazo apenas pode ser reconhecida quando a demora for injustificada. Posição do STJ.
+4. Na espécie, considerando o contexto nacional, o processo parece estar em seu curso normal, tendo em vista que: (i.) o caso é complexo, envolvendo 08 réus e11 fatos, os quais são concretamente graves (homicídios e tentativas de homicídio num contexto de organização criminosa); (ii.) parte das intercorrências havidas no decorrer do processo são, infelizmente, comuns à complexidade de um feito que consta com tamanha quantidade de réus segregados em presídios distintos, bem como que investiga diversos fatos graves, exigindo ampla instrução, com a oitiva de diversas testemunhas.
+5. Entre as dificuldades práticas, foram verificadas: (i.) a necessária digitalização dos autos em virtude da pandemia; (ii.) a dificuldade de conciliaras datas e horários de diferentes casas prisionais; (iii.) a transferência de réus para outros presídios, sem aviso prévio ao juízo; (iv.) gozo de folga regulamentar. Assim, não foi constatada desídia pelo juízo de origem.
+A defesa alega: a) "o paciente está preso preventivamente há MAIS DE 04 ANOS (desde o dia 14/11/2019, mais especificamente), não observado o prazo de 90 dias para o encerramento da primeira fase do procedimento do júri (art. 412 do CPP)" (e-STJ fl. 4); b) "Muitas audiências foram transferidas ou mesmo interrompidas pelo magistrado de primeiro grau, simplesmente, porque se aproximava o horário do meio-dia, em clara desídia. Outras tantas foram transferidas por problemas técnicos e outros motivos que não se pode imputar à defesa" (e-STJ fl. 5); c) "A gravidade e/ou a complexidade dos fatos noticiados, por certo, não podem servir de justificativa para o crescente alongamento da instrução e julgamento de processos de réus presos -prioridade absoluta" (e-STJ fl. 8); e d) A 2ª Câmara Criminal do TJRS, ao julgar writ anterior, teria recomendado a designação de audiência, com maior brevidade possível, para encerramento da instrução.
+Requer, liminar e definitivamente, concessão da ordem para que seja revogada a prisão preventiva do paciente, com ou sem a imposição de medidas cautelares alternativas.
+É o relatório.
+Decido.
+Verifica-se que o mandamus foi impetrado sem a documentação necessária à solução da controvérsia,  cópia do inteiro teor da decisão que decretou a prisão preventiva do paciente.
+Nos termos da jurisprudência desta Corte, o rito do habeas corpus pressupõe prova pré-constituída, devendo a parte zelar pela adequada instrução no momento da impetração, v.g.:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. RÉU PRONUNCIADO. SESSÃO PLENÁRIA DESIGNADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A deficiente instrução dos autos impede a análise da inidoneidade dos fundamentos da prisão preventiva, em razão da falta de juntada do decreto prisional.
+2. Com relação aos prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal. De efeito, a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de indevida coação.
+3. Embora a prisão do recorrente perdure desde junho de 2018, com decisão de pronúncia em 25/3/2019, não se revela desproporcional a demora em seu julgamento nesse momento, especialmente em razão da existência de 8 pronunciados, estando a sessão plenária já designada.
+4. Agravo regimental improvido.
+(AgRg no HC n. 793.318/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+  PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. INSTRUÇÃO DEFICIENTE. ÓBICE AO EXAME DAS RAZÕES DO WRIT. AGRAVO DESPROVIDO.
+1. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com cópia do acórdão proferido no julgamento do apelo defensivo, peça imprescindível para análise da impetração. De fato, na decisão colegiada acostada aos autos, limitou-se o Tribunal de origem a examinar os fundamentos do decreto preventivo, sem que fossem analisados os parâmetros adotados no cálculo dosimétrico.
+Precedentes.
+2. Ainda que tenha interposto agravo regimental, no qual reconheceu a deficiência da instrução do feito, o impetrante não logrou apresentar a cópia do acórdão proferido no julgamento da apelação, alegando não ter conseguido localizar tal peça processual.
+3. Tratando-se de decreto condenatório transitado em julgado, é facultado à defesa ajuizar revisão criminal no Tribunal de origem, com vistas à modificação dos parâmetros dosimétricos, nas hipóteses de manifesta violação dos critérios dos arts. 59 e 68 do Código Penal, sob o aspecto da ilegalidade, da falta ou evidente deficiência de fundamentação ou ainda do erro de técnica.
+4. Agravo regimental desprovido.
+(AgRg no HC 647.927/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/5/2021, DJe de 10/5/2021).
+Ante o exposto, nos termos do art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
