@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE AFASTAMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO EM SEU GRAU MÁXIMO. IMPOSSIBILIDADE. UTILIZAÇÃO DA QUANTIDADE DE DROGAS PARA MAJORAR A PENA E MODULAR A FRAÇÃO DO BENEFÍCIO. BIS IN IDEM. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, a Terceira Seção deste Sodalício firmou o entendimento de que, na hipótese em que a quantidade de entorpecente é levada a efeito na primeira fase da dosimetria, o referido fator não pode ser utilizado novamente, na terceira fase, como o único fundamento para negar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. Além disso, a modulação do grau de redução não pode ser operada com base na quantidade de droga apreendida, se o volume de entorpecente já foi utilizado na primeira etapa da dosimetria, sob pena de configurar bis in idem, conforme assentado pelo Supremo Tribunal Federal, no RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese de Repercussão Geral n. 712). Precedentes.
+III - Na presente hipótese, a inaplicabilidade da minorante prevista no art. 33, § 4º, da Lei de Drogas, em sua fração máxima, foi fundamentada com base na quantidade dos entorpecentes apreendidos, motivo pelo qual está patente o bis in idem (fl. 74).
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que concedeu parcialmente a ordem de habeas corpus impetrado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (fls. 112-116).
+Depreende-se dos autos que o agravado foi condenado como incurso nas sanções do artigo 33, caput, da Lei n. 11.343/06, às penas de 4 anos e 2 meses de reclusão e 416 dias-multa, em regime inicial semiaberto (fls. 38-47).
+Irresignada, a defesa interpôs apelação perante a Corte de origem, que negou provimento ao recurso (fls. 63-75).
+No respectivo writ impetrado nesta Corte, a defesa apontou constrangimento ilegal na negativa de absolvição do paciente pelo crime de tráfico de drogas.
+Pugnou, subsidiariamente, pela aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, com a fixação do regime prisional menos gravoso, substituída a pena corporal por penas restritivas de direitos.
+Requereu, assim, "a concessão da ordem para absolver o acusado, quanto ao delito do artigo 33, caput,da Lei nº 11.343/06, na forma do artigo 386, VII do CPP, e subsidiariamente, para reconhecer a incidência da causa de diminuição de pena referente ao artigo 33, §4º da Lei 11.343/2006, em seu patamar máximo,(2/3), haja vista que a quantidade de drogas já foi utilizada para majorar a pena-base, bem como para fixar o regime aberto de cumprimento de pena e substituir a pena privativa de liberdade por restritivade direitos" (fls. 20-21).
+O habeas corpus foi concedido parcialmente para fins de redimensionar a reprimenda do paciente em 1 ano e 8 meses de reclusão e 166 dias-multa, mantidos os demais termos da condenação (fls. 112-116).
+No presente agravo, o Parquet sustenta a necessidade de afastamento da minorante prevista no art. 33, § 4º, da Lei de Drogas, em seu grau máximo.
+Pugna a reconsideração da decisão agravada ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE AFASTAMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO EM SEU GRAU MÁXIMO. IMPOSSIBILIDADE. UTILIZAÇÃO DA QUANTIDADE DE DROGAS PARA MAJORAR A PENA E MODULAR A FRAÇÃO DO BENEFÍCIO. BIS IN IDEM. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, a Terceira Seção deste Sodalício firmou o entendimento de que, na hipótese em que a quantidade de entorpecente é levada a efeito na primeira fase da dosimetria, o referido fator não pode ser utilizado novamente, na terceira fase, como o único fundamento para negar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. Além disso, a modulação do grau de redução não pode ser operada com base na quantidade de droga apreendida, se o volume de entorpecente já foi utilizado na primeira etapa da dosimetria, sob pena de configurar bis in idem, conforme assentado pelo Supremo Tribunal Federal, no RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese de Repercussão Geral n. 712). Precedentes.
+III - Na presente hipótese, a inaplicabilidade da minorante prevista no art. 33, § 4º, da Lei de Drogas, em sua fração máxima, foi fundamentada com base na quantidade dos entorpecentes apreendidos, motivo pelo qual está patente o bis in idem (fl. 74).
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+Segundo o relatório, almeja a parte agravante o redimensionamento da reprimenda do agravado.
+Ressalta-se, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A Terceira Seção deste Sodalício firmou o entendimento de que, na hipótese em que a quantidade de entorpecente é levada a efeito na primeira fase da dosimetria, o referido fator não pode ser utilizado novamente, na terceira fase, como o único fundamento para negar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. Além disso, a modulação do grau de redução não pode ser operada com base na quantidade de droga apreendida, se o volume de entorpecente já foi utilizado na primeira etapa da dosimetria, sob pena de configurar bis in idem, conforme assentado pelo Supremo Tribunal Federal, no RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese de Repercussão Geral n. 712).
+Nesse sentido: AgRg no HC n. 780.053/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/12/2022; EDcl nos EDcl no HC n. 723.643/RJ, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 11/11/2022 e AgRg no HC n. 769.775/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022.
+Na presente hipótese, a inaplicabilidade da minorante prevista no art. 33, § 4º, da Lei de Drogas, em sua fração máxima, foi fundamentada com base na quantidade dos entorpecentes apreendidos, motivo pelo qual está patente o bis in idem (fl. 74).
+Desta feita, observa-se que a parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
