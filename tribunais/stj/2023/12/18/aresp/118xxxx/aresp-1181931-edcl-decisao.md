@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, embargos de declaração opostos por LACI TEREZINHA FAO BORBA (e-STJ fl. 260-264) em face do acórdão (e-STJ fl. 238-242) assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. SENTENÇA ILÍQUIDA. ESTIPULAÇÃO DO MONTANTE. IMPOSSIBILIDADE.
+1. "Não é devida a fixação do quantum relativo aos honorários recursais, previstos no art. 85, § 11, do CPC/2015, quando a sentença proferida não for considerada líquida pelo julgador, o que inviabiliza a majoração determinada no referido dispositivo legal" (REsp 1.749.892/RS, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 16/10/2018, DJe 24/10/2018).
+2. Agravo interno provido.
+A parte embargante alega ter o acórdão incorrido em omissão ao afastar a condenação em honorários recursais, ao argumento de que "mesmo se tratando de sentença ilíquida, é possível a majoração dos honorários na fase recursal, nos termos do art. 85, §11, do CPC, sendo o percentual fixado em momento posterior a liquidação de sentença, de acordo com o art. 85, § 4º, II, do CPC, devendo apenas ser respeitado os limites estabelecidos nos §§ 2º e 3º do referido diploma legal". Requer o provimento dos ED com atribuição de efeitos modificativos, para que majorados os honorários sucumbenciais.
+Apresentada resposta aos aclaratórios (e-STJ fl. 278-280).
+É o relatório.
+Não há se falar em omissão no decidido. A questão da liquidez da condenação, para o fim de majoração dos honorários, foi expressamente debatida no acórdão que deu provimento ao agravo interno para afastar a majoração dos honorários, não servindo esta via dos declaratórios apta a corrigir eventual error in judicando ou acolher irresignação da embargante se não verificado ao menos um dos vícios previstos no art. 1.022 do CPC.
+Ademais, ainda que superada a questão, a sentença (e-STJ fl. 44-53) foi prolatada ainda sob a égide do CPC/73, não havendo se falar em aplicação do CPC/15 quanto à majoração dos honorários sucumbenciais.
+Isso porque é pacificado nesta Corte Superior o entendimento de ser a data da sentença que define a aplicação de regras referentes ao arbitramento de honorários. A jurisprudência já era majoritária nesse sentido e foi consolidada no julgamento dos embargos de divergência (EAREsp 1255986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/03/2019, DJe 06/05/2019), por unanimidade, em que aprofundada a questão da natureza do direito ao recebimento dos honorários advocatícios, que não é meramente processual (portanto, afastando-se sua aplicabilidade imediata, como invoca a embargante), mas híbrida, isto é, direito de caráter instrumental material.
+No referido acórdão, restou consignado:
+(..) com relação aos honorários de sucumbência, a sentença deve ser tida como o marco temporal para fins de definição da norma de regência, isto é, o CPC/73 ou o CPC/2015
+(..) que a sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+(..) a posição em epígrafe verbera nos princípios do direito adquirido, da segurança jurídica e da não surpresa.
+No mesmo sentido, ainda mais próximo ao caso concreto, foi o decido pelo Ministro MAURO CAMPBELL MARQUES (REsp 1649720/RS, SEGUNDA TURMA, julgado em 24/10/2017, DJe 30/10/2017), cujo voto é também citado naquele julgamento dos embargos de divergência:
+c) que o processo tenha sentença na vigência do CPC/1973 e acórdão em segundo grau e acórdão em instância especial na vigência do CPC/2015: c.1) aplica-se o regime previsto no art. 20, do CPC/1973 para a fixação dos honorários na sentença, (..)
+4. No caso concreto, a sentença que originalmente negou a fixação da verba honorária o foi publicada no ano de 2014, ainda na vigência do antigo CPC/1973 (e-STJ fls. 1056). Indiferente ao caso ter havido a fixação da verba posteriormente em virtude de provimento de recurso de agravo de instrumento no Tribunal de Origem sob a vigência do CPC/2015, isto porque o que sempre esteve em discussão nos recursos interpostos (efeito devolutivo) foi a aplicabilidade do art. 20, do CPC/1973 na sentença. Desse modo, o regime aplicável para a fixação inicial da verba honorária é aquele previsto no art. 20 e parágrafos do CPC/1973 e não o do art. 85, do CPC/2015 que teve sua vigência iniciada apenas em 18.03.2016. Assim, sem razão o recorrente, o recurso especial merece negativa de provimento, no ponto.
+Ainda sobre o tema:
+EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 20/11/2017, DJe 27/11/2017
+REsp 1672406/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/08/2017, DJe 13/09/2017
+Isso posto, rejeito os embargos de declaração e mantenho a decisão embargada (art. 932, IV, "b", do CPC e Súmula 568/STJ).
+Publique-se.
+EMENTA
