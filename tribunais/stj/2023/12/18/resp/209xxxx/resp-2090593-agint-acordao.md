@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Assusete Magalhães e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE INADMITIU RECURSO ESPECIAL ANTE A DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. A decisão agravada assentou: "Ao dirimir quaestio juris, o Tribunal de origem apresentou os seguintes fundamentos (fls. 682-684, e-STJ): Cuida-se de Mandado de Segurança, impetrado por Andressa Cervellini de Farias Parpinelli, contra ato, acoimado de ilegal, atribuído ao Presidente do Tribunal de Contas do Estado de Santa Catarina. A questão central destes autos diz respeito a titulação apresentada pela impetrante, a fim de assumir ocargo de Auditor Fiscal de Controle Externo - Área: Administração. Com efeito, decisão que indeferiu os documentos apresentados pela impetrante, basicamente fundamentou-se no sentido de que uma interpretação ampliativa dos requisitos poderia gerar uma insegurança jurídica, bem assim, ferir o princípio da igualdade. (..) A impetrante possui graduação com bacharel em Gestão de Políticas Públicas, pela Universidade de Brasília - Unb, desde 17/07/2018, curso este devidamente reconhecido pelo Ministério da Educação (MEC). A Lei n. 4.769/65, que dispõe sobre o exercício da profissão de Administrador já previa, desde a suaconstituição, atividades conexas à administração, sendo elas: (..) O Conselho Federal de Administração - CFA, autarquia que detém a competência para regular amatéria, editou a Resolução Normativa n. 507/17, que estabeleceu expressa equivalência entre o Curso de Gestão de Políticas Públicas e de Administra (..) Portanto, como o Edital exigia formação em Administração Pública, havendo normativa exarada pela autarquia competente estabelecendo, não apenas conexão, mas equivalência entre o Curso de Bacharel em Gestão de Políticas Públicas e Administração Pública, inclusive conferindo igualdade de direitos entre gestores e administradores, me parece que houve um excesso de formalismo na decisão que indeferiu a documentação apresentada pela impetrante. No meu sentir, não se trata de proferir interpretação ampliativa das normas editalícias, mormente por entender que o candidato bacharel em Gestão de Políticas Públicas possa exercer cargo que exige formação em Administração Pública, uma vez que a própria autarquia reguladora de classe atribui equivalência entre as áreas de atuação. Destarte, a finalidade da exigência, como cediço é assegurar que o candidato aprovado esteja apto à função, melhor dizendo, que seja capaz de exercer as competências e atribuições inerentes ao cargo a que se destina. Assim, tendo em mente a interpretação finalística das normas, a negativa da administração se revela apegada a um rigor exacerbado de formalismo. Conforme se extrai no trecho acima, a questão foi dirimida levando-se em consideração a Resolução 507/2017 do Conselho Federal de Administração. Incide a Súmula 284/STF quando a indicação do dispositivo de lei não é apta, por si só, para sustentar a tese recursal. Embora se consigne em seu texto comando específico, sua aplicação exigiria a interpretação de outros dispositivos não inseridos no conceito de lei federal" (fls. 797-798, e-STJ - grifou-se).
+2. Do exame das razões vertidas no presente recurso percebe-se que a parte agravante deixou de impugnar especificamente a decisão agravada, haja vista que não demonstra como seria possível o conhecimento do apelo sem interpretação da Resolução 507/2017 do Conselho Federal de Administração.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não refuta especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo Interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão de fls. 796-800, e-STJ, que não conheceu do Recurso Especial da parte ora agravante, tendo em vista a necessidade, para a solução da controvérsia, de interpretação de ato infralegal.
+O agravante sustenta, em suma (fl. 806, e-STJ):
+Deve-se infirmar, por ser inaplicável ao caso dos autos, o fundamento da decisão agravada segundo o qual seria o caso de incidência da Súmula 284 do STF.
+Destaca-se que, houve a indicação clara e precisa dos dispositivos tidos por violados, bem como houve a devida fundamentação tratando sobre o tema tendo o Estado demonstrado de forma satisfatória os motivos de sua insurgência.
+Deve-se salientar que eventual impugnação sucinta dos fundamentos da decisão agravada não significa ausência de impugnação. Se a jurisprudência do STJ entende que não se deve confundir fundamentação sucinta com ausência de fundamentação, também não se pode, a contrario sensu, confundir impugnação sucinta com ausência de impugnação.
+Requer a reconsideração da decisão agravada ou provimento, pelo Colegiado, do Agravo Interno.
+Impugnação ao Agravo apresentada à fls. 814-828, e-STJ.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.090.593 - SC (2023/0270428-3)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+ESTADO DE SANTA CATARINA
+ADVOGADO
+:
+FELIPE WILDI VARELA - SC020548
+AGRAVADO
+:
+ANDRESSA CERVELLINI DE FARIAS PARPINELLI
+ADVOGADO
+:
+ANA PAULA SILVA DOMINGOS - DF059773
+INTERES.
+:
+TRIBUNAL DE CONTAS - SANTA CATARINA TRIBUNAL DE CONTAS - FLORIANÓPOLIS
+ADVOGADO
+:
+LUIS HENRIQUE DE ARAGÃO OLIVER - SC065819B
+EMENTA
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE INADMITIU RECURSO ESPECIAL ANTE A DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. A decisão agravada assentou: "Ao dirimir quaestio juris, o Tribunal de origem apresentou os seguintes fundamentos (fls. 682-684, e-STJ): Cuida-se de Mandado de Segurança, impetrado por Andressa Cervellini de Farias Parpinelli, contra ato, acoimado de ilegal, atribuído ao Presidente do Tribunal de Contas do Estado de Santa Catarina. A questão central destes autos diz respeito a titulação apresentada pela impetrante, a fim de assumir ocargo de Auditor Fiscal de Controle Externo - Área: Administração. Com efeito, decisão que indeferiu os documentos apresentados pela impetrante, basicamente fundamentou-se no sentido de que uma interpretação ampliativa dos requisitos poderia gerar uma insegurança jurídica, bem assim, ferir o princípio da igualdade. (..) A impetrante possui graduação com bacharel em Gestão de Políticas Públicas, pela Universidade de Brasília - Unb, desde 17/07/2018, curso este devidamente reconhecido pelo Ministério da Educação (MEC). A Lei n. 4.769/65, que dispõe sobre o exercício da profissão de Administrador já previa, desde a suaconstituição, atividades conexas à administração, sendo elas: (..) O Conselho Federal de Administração - CFA, autarquia que detém a competência para regular amatéria, editou a Resolução Normativa n. 507/17, que estabeleceu expressa equivalência entre o Curso de Gestão de Políticas Públicas e de Administra (..) Portanto, como o Edital exigia formação em Administração Pública, havendo normativa exarada pela autarquia competente estabelecendo, não apenas conexão, mas equivalência entre o Curso de Bacharel em Gestão de Políticas Públicas e Administração Pública, inclusive conferindo igualdade de direitos entre gestores e administradores, me parece que houve um excesso de formalismo na decisão que indeferiu a documentação apresentada pela impetrante. No meu sentir, não se trata de proferir interpretação ampliativa das normas editalícias, mormente por entender que o candidato bacharel em Gestão de Políticas Públicas possa exercer cargo que exige formação em Administração Pública, uma vez que a própria autarquia reguladora de classe atribui equivalência entre as áreas de atuação. Destarte, a finalidade da exigência, como cediço é assegurar que o candidato aprovado esteja apto à função, melhor dizendo, que seja capaz de exercer as competências e atribuições inerentes ao cargo a que se destina. Assim, tendo em mente a interpretação finalística das normas, a negativa da administração se revela apegada a um rigor exacerbado de formalismo. Conforme se extrai no trecho acima, a questão foi dirimida levando-se em consideração a Resolução 507/2017 do Conselho Federal de Administração. Incide a Súmula 284/STF quando a indicação do dispositivo de lei não é apta, por si só, para sustentar a tese recursal. Embora se consigne em seu texto comando específico, sua aplicação exigiria a interpretação de outros dispositivos não inseridos no conceito de lei federal" (fls. 797-798, e-STJ - grifou-se).
+2. Do exame das razões vertidas no presente recurso percebe-se que a parte agravante deixou de impugnar especificamente a decisão agravada, haja vista que não demonstra como seria possível o conhecimento do apelo sem interpretação da Resolução 507/2017 do Conselho Federal de Administração.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não refuta especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 31.10.2023.
+O Agravo Interno não reúne condições de conhecimento.
+Para que se efetive o conhecimento do Agravo, é necessário o desenvolvimento pela parte interessada de arrazoado suficiente para a impugnação de todos os motivos da decisão impugnada.
+A decisão agravada consignou os seguintes fundamentos:
+Ao dirimir quaestio juris, o Tribunal de origem apresentou os seguintes fundamentos (fls. 682-684, e-STJ):
+Cuida-se de Mandado de Segurança, impetrado por Andressa Cervellini de Farias Parpinelli, contra ato, acoimado de ilegal, atribuído ao Presidente do Tribunal de Contas do Estado de Santa Catarina.
+A questão central destes autos diz respeito a titulação apresentada pela impetrante, a fim de assumir ocargo de Auditor Fiscal de Controle Externo - Área: Administração. Com efeito, decisão que indeferiu os documentos apresentados pela impetrante, basicamente fundamentou-se no sentido de que uma interpretação ampliativa dos requisitos poderia gerar uma insegurança jurídica, bem assim, ferir o princípio da igualdade.
+(..)
+A impetrante possui graduação com bacharel em Gestão de Políticas Públicas, pela Universidade de Brasília - Unb, desde 17/07/2018, curso este devidamente reconhecido pelo Ministério da Educação (MEC).
+A Lei n. 4.769/65, que dispõe sobre o exercício da profissão de Administrador já previa, desde a suaconstituição, atividades conexas à administração, sendo elas:
+(..)
+O Conselho Federal de Administração - CFA, autarquia que detém a competência para regular amatéria, editou a Resolução Normativa n. 507/17, que estabeleceu expressa equivalência entre o Curso de Gestão de Políticas Públicas e de Administra
+(..) Portanto, como o Edital exigia formação em Administração Pública, havendo normativa exarada pela autarquia competente estabelecendo, não apenas conexão, mas equivalência entre o Curso de Bacharel em Gestão de Políticas Públicas e Administração Pública, inclusive conferindo igualdade de direitos entre gestores e administradores, me parece que houve um excesso de formalismo na decisão que indeferiu a documentação apresentada pela impetrante.
+No meu sentir, não se trata de proferir interpretação ampliativa das normas editalícias, mormente por entender que o candidato bacharel em Gestão de Políticas Públicas possa exercer cargo que exige formação em Administração Pública, uma vez que a própria autarquia reguladora de classe atribui equivalência entre as áreas de atuação.
+Destarte, a finalidade da exigência, como cediço é assegurar que o candidato aprovado esteja apto à função, melhor dizendo, que seja capaz de exercer as competências e atribuições inerentes ao cargo a que se destina.
+Assim, tendo em mente a interpretação finalística das normas, a negativa da administração se revela apegada a um rigor exacerbado de formalismo.
+Conforme se extrai no trecho acima, a questão foi dirimida levando-se em consideração a Resolução 507/2017 do Conselho Federal de Administração.
+Incide a Súmula 284/STF quando a indicação do dispositivo de lei não é apta, por si só, para sustentar a tese recursal. Embora se consigne em seu texto comando específico, sua aplicação exigiria a interpretação de outros dispositivos não inseridos no conceito de lei federal.
+Do exame das razões vertidas no presente recurso, percebe-se que a parte agravante deixou de impugnar especificamente a decisão agravada, já que não demonstra como seria possível o conhecimento do apelo sem interpretação da Resolução 507/2017 do Conselho Federal de Administração.
+No presente recurso, a parte agravante não observa a determinação do art. 1.021, § 1º, do CPC/2015, pois não impugna os fundamentos do mérito da decisão agravada.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não combate especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nessa linha, os precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. (PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PORTARIA DO DETRAN QUE INSTITUIU O MANUAL DE PROCEDIMENTO DE REGISTO E LICENCIAMENTO DE VEÍCULOS. GRAVAME DE RESERVA DE DOMÍNIO. ANOTAÇÃO QUE SÓ PODE SER CONSIGNADA EM FAVOR DO ANTERIOR PROPRIETÁRIO. EXIGÊNCIA LEGAL. ART. 123, I, DO CTB. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SUMULA 282 E 356 DO STF). FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INTELIGÊNCIA DA SÚMULA 182/STJ.
+1. Revela-se inviável a análise do Agravo Regimental, cuja fundamentação não impugna especificamente os fundamentos da decisão agravada, in casu, a ausência de prequestionamento do dispositivo legal apontado como violado ante a incidência inarredável da Súmula 182 do STJ, que preceitua o seguinte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 2. Agravo Regimental não conhecido. (AgRg no REsp 753.564/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/04/2007, DJ 21/05/2007 p. 545)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. CONTESTAÇÃO NÃO APRECIADA. MEDIDA CAUTELAR. INCIDENTE PROCESSUAL.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada torna inviável o agravo regimental. Aplicação da Súmula 182 do Superior Tribunal de Justiça.
+1. É manifestamente inadmissível o agravo cujas razões recursais não atacou o fundamento da decisão impugnada, ante à ausência de pressuposto recursal genérico.
+2. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido. (AgRg no REsp 840.007/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 08/05/2007, DJ 18/05/2007 p. 319)
+CREDITAMENTO DE ICMS. AGRAVO DE INSTRUMENTO. INADMISSÃO DO RECURSO ESPECIAL SÚMULA Nº 07/STJ. ARGUMENTO NÃO REFUTADO. SÚMULA Nº 182/STJ.
+I - O agravante, em suas razões recursais, não atacou o fundamento constante da decisão impugnada, relativo ao fato de que a revisão da decisão turmária importaria no óbice da súmula 7/STJ, e verificando que tal fundamento é suficiente de per si para a inadmissão do agravo, tem-se inviabilizado o seguimento do agravo de instrumento, haja vista o teor da súmula 182/STJ.
+II - Agravo regimental improvido. (AgRg no Ag 752.308/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 27/03/2007, DJ 26/04/2007 p. 217)
+PROCESSUAL CIVIL. FUNDAMENTO INATACADO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 182 E 211/STJ.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental improvido. (AGRESP 849.848/PB, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 05/10/2006, DJ 16/10/2006 p. 355)
+Por tudo isso, não conheço do Agravo Interno.
+É como voto.
