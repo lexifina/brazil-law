@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Mario Sebastiao Lopes Macieira contra decisão assim ementada (fl. 1.387):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 85, § 11, DO CPC. HONORÁRIOS RECURSAIS DE INSTÂNCIA. OMISSÃO CONFIGURADA. MAJORAÇÃO EM 10% SOBRE O VALOR FIXADO NA ORIGEM. EMBARGOS ACOLHIDOS.
+A parte embargante sustenta que, ao condenar outra vez o ora Embargante em honorários, no montante de mais 10% e, considerando a condenação fixada pelo juízo de primeiro grau, também na ordem de 10%, o Tribunal Regional atingiu o teto de 20% fixado pela lei para fins de honorários sucumbenciais, conforme se dessume do § 2º, do art. 85, do CPC. Ao final, conclui que, "em respeito ao disposto no § 2º, do art. 85, do CPC, devem ser acolhidos estes embargos de declaração, com efeitos infringentes, para determinar a exclusão dessa terceira condenação aos honorários sucumbenciais imposta por essa Colenda Turma, porquanto já alcançado o máximo de 20% no momento da prolação do acórdão regional." (fl. 1.394).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Analisando as razões apresentadas pela embargante, nota-se inexistir qualquer premissa equivocada ou vício a ser sanado no julgado embargado, uma vez que a majoração dos honorários de instância nesta Corte se deu no percentual de 10% sobre os valores já fixados anteriormente a título de honorários e não sobre o valor da condenação ou da causa, observados ainda os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Assim, diante da ausência de demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS DE INSTÂNCIA. MAJORAÇÃO. LIMITES. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
