@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+"O ora paciente foi condenado nos autos da Ação Penal nº 0000463-45.2017.8.26.0551, da Segunda Vara Criminal da Comarca de Limeira, às penas de 02 anos e 08 meses de reclusão, no regime aberto, e 13 dias-multa, por incurso no art. 155, §§ 1º e 4º, I, II e IV, do Código Penal, substituída a corporal por restritivas de direitos" (fl. 33).
+Requer a impetrante, liminarmente e no mérito, "que seja concedida a ordem de Habeas Corpus, para afastar a majorante relativa ao furto cometido em período noturno no caso em apreço, com o consequente redimensionamento da pena ora aplicada" (fl. 6).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+O Tribunal local não conheceu do mandamus lá impetrado diante da seguinte fundamentação (fl. 20):
+ ..  O "Habeas Corpus" não é o instrumento adequado para a prestação jurisdicional pretendida pelo impetrante a favor do paciente. Não se presta a discutir eventuais injustiças que possam ter sido cometidas na sentença condenatória, principalmente porque há o recurso adequado para tal, a apelação, ressaltando que, à época da prolação da sentença, o paciente já era defendido pela Defensoria Pública, que não interpôs recurso, ou seja, concordou com os termos e fundamentos da condenação do paciente. E, tendo ocorrido o trânsito em julgado para as partes, cabe, agora, a Revisão Criminal.
+Não pode, jamais, ser o "Habeas Corpus" utilizado em substituição aos recursos ordinários. ..
+Verifica-se, assim, que o TJSP não conheceu da matéria, porquanto o habeas corpus não pode ser utilizado como sucedâneo recursal. Em função disso, esta Corte mostra-se obstada de conhecer o mérito da questão aqui trazida, sob pena de indevida supressão de instância.
+Ademais, constata-se das informações prestadas, que " a  sentença transitou em julgado para as partes sem impugnação recursal" (fl. 33), sendo esta proferida em 18/2/2019 (fl. 13), época na qual "havia relativo consenso nesta Corte quanto à plena possibilidade de aplicação da causa de aumento do repouso noturno ao furto qualificado. Embora tal entendimento tenha sido alterado, pela Terceira Seção, ao apreciar o Tema Repetitivo n. 1087, a jurisprudência do Superior Tribunal de Justiça rechaça as pretensões que visam à revisão de decisão já transitada em julgado com base na simples modificação da compreensão jurisprudencial de determinada controvérsia. Precedentes." (AgRg no HC n. 756.599/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 26/10/2023).
+De igual modo, " .. , o não enfrentamento do mérito da revisão criminal, não configura negativa de prestação jurisdicional, pois não é cabível a revisão criminal para a aplicação de entendimento jurisprudencial que não prevalecia à época em que proferida a condenação." (AgRg no HC n. 859.458/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2023, DJe de 27/10/2023).
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
