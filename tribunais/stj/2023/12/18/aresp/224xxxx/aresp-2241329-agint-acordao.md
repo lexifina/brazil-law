@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO S  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  DE  COBRANÇA.  PRESTAÇÃO  DE  SERVIÇOS.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.
+1.  Não  viola  os  arts.  1.022,  II,  e  489,  §  1º,  IV,  do  Código  de  Processo  Civil  nem  importa  em  negativa  de  prestação  jurisdicional  o  acórdão  que  adota  fundamentação  suficiente  para  a  resolução  da  causa,  porém  diversa  da  pretendida  pela  recorrente,  decidindo  de  modo  integral  a  controvérsia  posta.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ALANO  TERRAPLENAGEM  E  LOCADORA  DE  MÁQUINAS  LTDA.  contra  a  decisão  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial  (fls.  3.602/3.604,  e-STJ).
+Os  embargos  de  declaração  foram  rejeitados  (fls.  3.634/3.635,  e-STJ).
+Em  suas  razões,  a  agravante  postula  a  reforma  da  decisão  atacada,  reafirmando  a  violação  dos  arts.  1.022,  II,  e  489,  §  1º,  IV,  do  Código  de  Processo  Civil  em  virtude  da  existência  de  omissão  no  acórdão  recorrido .
+Afirma  que,
+"(..)
+Dentre  as  questões  não  analisadas,  ou  que  assim  o  foram  partindo  de  premissas  equivocadas,  têm-se  a  existência  de  diversas  premissas  equivocadas  dentre  as  quais  menciona-se:  a  equivocada  data  do  término  das  obras,  equivocada  natureza  do  contrato  firmado  entre  as  partes,  equivocada  consideração  de  aditivo  não  pertencente  ao  escopo  contratual  da  Agravante,  indevida  responsabilização  da  Agravante  pelo  atraso  na  obra  com  base  na  experiência  do  nobre  julgador,  indevida  consideração  de  cláusula  que  exclui  a  possibilidade  de  pagamento  à  Agravante  por  serviços  refeitos,  alegação  dissociada  da  perícia  no  sentido  de  impossibilidade  de  se  reconhecer  a  existência  de  prorrogação  indevida  do  contrato  sem  a  respectiva  remuneração.
+Somadas  às  premissas  equivocadas  mencionadas  acima  cumpre  mencionar  a  ausência  de  apreciação  acerca  da  indevida  consideração  do  Sistema  SAP,  a  existência  de  indícios  de  parcialidade  e  indevida  menção  aos  CTRs,  como  se  fossem  aptos  a  comprovar  as  alegações  da  Agravante,  e  a  inobservância  ao  processo  quanto  aos  serviços  de  pavimentação  provisória  de  brita  graduada  simples  com  cobertura  de  material  ligante),  e  por  fim,  o  inequívoco  cerceamento  de  defesa"  (fl.  3.645,  e-STJ).
+
+Impugnação  apresentada  às  fls.  3.654/3.660  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO S  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  DE  COBRANÇA.  PRESTAÇÃO  DE  SERVIÇOS.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.
+1.  Não  viola  os  arts.  1.022,  II,  e  489,  §  1º,  IV,  do  Código  de  Processo  Civil  nem  importa  em  negativa  de  prestação  jurisdicional  o  acórdão  que  adota  fundamentação  suficiente  para  a  resolução  da  causa,  porém  diversa  da  pretendida  pela  recorrente,  decidindo  de  modo  integral  a  controvérsia  posta.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Conforme  relatado  na  decisão  atacada,  a  agravante,  em  seu  recurso  especial,  apontou  a  violação  dos  arts.  1.022,  II,  e  489,  §  1º,  IV,  do  Código  de  Processo  Civil,  argumentando,  em  síntese,  haver  omissão  no  acórdão  recorrido.
+Sustentou:
+"(..)  apontou-se  como  premissas  equivocadas  consideradas  pelo  e.  Juízo  singular:  (i)  a  equivocada  consideração  da  natureza  de  empreitada  global  do  contrato  firmado  entre  as  partes,  fundamento  considerado  para  a  rejeição  de  pleitos  da  ora  Recorrente,  (ii)  a  equivocada  consideração  de  aditivo  não  pertencente  ao  escopo  contratual  da  Recorrente,  fundamento  também  utilizado  para  a  rejeição  de  pleitos  da  ora  Recorrente,  (iii)  a  equivocada  atribuição  de  culpa  à  Recorrente  pelo  atraso  da  obra,  fundamento  considerado  para  afastar  a  responsabilidade  das  Recorridas  ao  pagamento  de  quantias  decorrentes  da  majoração  do  prazo  contratual,  (iv)  a  equivocada  aplicação  da  Cláusula  1.2.  do  Contrato,  que  trata  especificamente  da  impossibilidade  de  se  pleitear  o  pagamento  do  preço  para  refazimento  de  serviço  indevidamente  prestado,  fundamento  considerado  para  afastar  pleitos  da  ora  Recorrente,  e  (v)  a  equivocada  conclusão  no  sentido  de  impossibilidade  de  reconhecimento  da  existência  da  prorrogação  indevida  do  contrato  sem  a  respectiva  remuneração,  quando  se  há  diversas  menções  ao  montante  acrescido  ao  contrato  (prazo)  vs  o  montante  financeiro  pago  além  daquele  previsto  (52,25%  vs  11,96%),  fundamento  considerado  para  se  afastar  pleitos  formulados  na  inicial  da  presente  ação  de  cobrança.
+(..)
+A  Recorrente  bem  sabe  que  o  nobre  julgador  não  é  obrigado  a  se  posicionar  sobre  todos  os  argumentos  das  partes.  No  entanto,  quando  há  menção  expressa  sobre  falhas  perpetradas  pela  prova  técnica,  algumas  que  basta  apenas  a  mera  leitura  simples,  sem  qualquer  análise  da  questão  técnica  em  si,  que  poderiam  infirmar  na  conclusão  obtida,  caberia  ao  Egrégio  Tribunal  de  Justiça  a  apreciação  de  tais  questões.
+(..)
+Sob  esse  ângulo,  foi  rogando  vênia  ao  Egrégio  Tribunal  de  Justiça  de  São  Paulo  que  a  ora  Recorrente  ofereceu  embargos  de  declaração,  consignando  as  diversas  omissões  da  Colenda  Corte  Estadual  quanto  às  questões  relacionadas  (i)  às  premissas  equivocadas  consideradas  pelo  e.  Juízo  singular  e  mantidas  no  v.  acórdão  recorrido,  (ii)  às  falhas  da  perícia  e  (iii)  às  matérias  de  mérito"  (fls.  3.280/3.299,  e-STJ).
+Entretanto,  o  tribunal  de  origem  consignou  que,
+"(..)
+Superado  esse  ponto,  emerge  da  leitura  atentados  autos  que  as  partes  celebraram  acordo  e  diversos  aditivos  contratuais  visando  a  prestação  de  serviços.  Divergem  quanto  à  existência  de  débitos  em  aberto  em  favor  da  autora,  sendo  que  as  rés  afirmam  o  integral  cumprimento  das  obrigações  assumidas.
+(..)
+Neste  ponto,  vale  a  pena  transcrever  parte  da  bem  lançada  sentença  de  primeiro  grau  que  decidiu  a  lide,  nos  seguintes  termos:
+"Há  que  consignar,  ainda,  que  a  parte  autora  não  reclama  o  inadimplemento  de  qualquer  valor  previsto  no  contrato  celebrado  entre  as  partes  e  nos  aditivos  respectivos.  Sua  pretensão  versa  sobre  serviços  que  não  se  encontrariam  em  tais  aditivos,  nem  no  contrato,  mas  que  lhe  foram  solicitados  e  efetivamente  prestados,  além  de  custos  e  despesas  em  que  incorreu  pela  prorrogação  do  prazo  de  prestação  de  serviços.
+Quanto  à  natureza  do  contrato  permitir  a  cobrança  dos  valores  indicados  pela  parte  autora,  em  sua  inicial,  fundamentam  as  requeridas  suas  alegações  no  quanto  dispõe  o  artigo  619,  do  Código  Civil:
+(..)
+O  contrato  celebrado  entre  as  partes,  em  sua  cláusula  1.2,  também  traz  previsão  semelhante:
+(..)
+Justifica-se  tal  dispositivo  contratual,  bem  como  o  legal,  a  impedir  que  o  empreiteiro  realize  acréscimos  na  obra  sem  a  anuência  do  contratante,  criando  obrigações  contra  a  vontade  dele.
+Portanto,  assiste  às  requeridas  o  direito  de  recusar  o  pagamento  de  serviços  não  solicitados  formalmente  por  elas,  salvo  se  caracterizada  a  ciência  delas  sobre  os  serviços  acrescidos,  por  meio  de  seus  prepostos  e,  portanto,  anuência  tácita  com  tais  serviços.
+(..)
+Existindo  acordo,  por  escrito  entre  as  partes,  o  que  se  verifica  nos  e-mails  constantes  às  páginas  supracitadas,  e  tratando-se  de  acréscimo  ao  objeto  da  obra,  ausente  provado  pagamento  do  valor  respectivo,  impõe-se  reconhecer,  nesse  ponto,  o  direito  da  parte  autora  sobre  o  referido  valor,  o  qual,  atualizado  para  outubro  de  2018,  resulta  em  R$  72.199,63.
+No  entanto,  tais  tratativas  se  deram  no  ano  de  2010,  de  modo  que  não  há  como  se  concluir  pelo  nexo  causal  entre  a  prorrogação  de  prazo  final,  no  ano  de  2013,  para  a  prestação  de  serviços,  e  a  contratação  de  tal  serviço  deforma  extra,  no  ano  de  2010,  à  míngua  de  outras  provas  a  respeito.
+Portanto,  ainda  que  tenha  sido  contratado  tal  serviço  extra,  não  há  como  imputar  às  requeridas  o  atraso  no  término  das  obras,  por  conta  disso.
+(..)
+Em  que  pese  o  entendimento  do  Ilmo.  Perito,  não  vislumbro  existir  tal  débito,  posto  que  o  preço  acordado  entre  as  partes,  para  execução  dos  serviços  mencionados  em  contrato,  não  foi  objeto  de  inadimplemento.
+O  Perito  indicou  a  diferença  entre  o  montante  apurado  na  medição  acima  mencionado  e  o  montante  previsto  no  contrato  a  esse  título,  concluindo  que  faltava  às  requeridas  o  pagamento  da  diferença  entre  o  que  foi  medido  e  o  que  se  encontrava  previsto  no  contrato,  vale  dizer,  reconheceu  o  direito  de  crédito  sob  o  fundamento  de  que  parte  do  preço  contratado  não  havia  sido  pago,  em  virtude  do  quanto  constou  na  medição,  não  porque  houve  prova  de  prestação  de  serviços  em  quantidade  superior  ao  que  se  encontrava  previsto  em  contrato.
+A  autora  cobra  serviços  extras,  vale  dizer,  serviços  além  do  contratado,  assumindo  que  aqueles  objetos  do  contrato  foram  adimplidos  corretamente  pelas  requeridas.
+Portanto,  a  conclusão  que  se  chega  é  que  não  houve  a  prestação  de  serviços  extras  de  remoção  de  material,  já  que  o  único  prestado  a  esse  título,  do  qual  se  tem  prova  (medição  acima  mencionada),  não  ultrapassou  o  montante  previsto  em  contrato,  integralmente  adimplido,  motivo  pelo  qual  as  requeridas  nada  devem  à  parte  autora  a  esse  título.
+Destaco,  ainda,  que  não  existe  qualquer  solicitação  escrita  por  preposto  da  requerida  a  confirmar  a  alegada  contratação  de  serviço  extra  de  remoção  de  material  além  do  previsto  em  contrato.
+(..)
+Ora,  não  é  possível  imputar  às  requeridas  obrigação  de  pagamento  que  supera  meio  milhão  de  Reais  com  base  no  depoimento  de  funcionários  da  própria  autora,  sem  respaldo  em  qualquer  outro  indício  de  prova,  já  que  clara  a  previsão  legal  e  contratual  que  exigia  a  contratação  por  escrito  de  serviços  adicionais.  Sequer  existe  como  quantificar  esse  suposto  trabalho  extra,  com  base  em  meros  depoimentos.
+(..)
+Não  reconheço,  portanto,  ter  a  autora  prestado  serviços  extras,  não  objeto  de  qualquer  contrato  celebrado  entre  as  partes,  ainda  que  por  meio  de  aditivos,  a  impor  a  rejeição  de  seu  pedido,  nesse  ponto.
+Das  provas  produzidas  sobre  os  serviços  extras,  conclui-se  que  o  único  prestado  a  esse  título  foi  o  de  pavimentação  supracitado,  no  ano  de  2010,  a  afastar  a  conclusão  da  existência  de  nexo  causal  entre  tal  contratação  e  o  atraso  final  da  obra,  ausente  qualquer  outra  prova  a  corroborar  tal  alegação,  de  modo  que  não  vislumbro  a  responsabilidade  das  requeridas  por  eventuais  custos  incorridos  pelo  prolongamento  dos  serviços  por  mais  três  meses,  em  meados  de  2013.
+Destaco  que  os  outros  fatos  e  respectivos  nexos  causais,  alegados  pela  parte  autora  para  fundamentar  a  imputação  de  culpa  pelo  atraso  às  requeridas,  não  restaram  comprovadas,  como  o  atraso  decorrente  da  demora  para  obtenção  de  autorização  ambiental  e,  ainda,  o  atraso  gerado  pelo  início  da  edificação  das  unidades,  em  paralelo  aos  serviços  prestados.  Repito,  não  há  prova  do  nexo  causal  entre  tais  fatos  e  a  prorrogação  de  prazo  contratual,  ressalvando  que  a  autorização  ambiental  nunca  foi  obtida,  restando  preservada  área  de  preservação  permanente  em  área  contígua  a  do  empreendimento,  a  revelar  que  não  se  tratava  de  fator  essencial  ao  início  e  continuidade  dos  trabalhos.
+Como  já  mencionado,  há  medição  e  pagamento  de  valores  à  parte  autora  desde  o  início  dos  trabalhos,  de  acordo  com  o  cronograma  previsto,  a  impedir  a  conclusão  de  que  os  serviços  não  tiveram  seu  curso  normal.  Tratava-se  de  prova  de  incumbência  da  parte  autora,  não  tendo  logrado  produzi-la  nestes  autos.
+Portanto,  rejeito  a  pretensão  da  parte  a  reaver  eventuais  prejuízos  relativos  a  custos  e  despesas  decorrentes  da  prorrogação  do  tempo  de  prestação  de  serviços,  como  um  todo."  (fls.  2725/2728)
+Respeitada  a  combatividade  dos  patronos  que  subscrevem  os  recursos  apresentados  não  se  vislumbram  motivos  para  a  modificação  do  resultado  do  julgamento.
+As  alegações  apresentadas  pela  autora  no  sentido  de  receber  valores  por  serviços  realizados  e,  supostamente  não  pagos,  não  encontra  supedâneo  no  vasto  conjunto  probatório,  notadamente,  na  prova  pericial  produzida,  não  se  justificando  a  inclusão  de  outros  serviços  além  daqueles  reconhecidos  na  sentença.
+Do  mesmo  modo,  as  assertivas  das  corrés  que  insistem  no  adimplemento  integral  da  avença  e  na  inexistência  de  contratação  adicional  são  refutadas  pela  prova  realizada.
+Ora,  se  há  nos  autos  plena  demonstração  deque  houve  um  acréscimo  no  ajuste  inicialmente  celebrado  e  as  demandadas  não  foram  capazes  de  evidenciar  o  adimplemento  obrigacional,  de  rigor  a  manutenção  da  procedência  da  condenação  reconhecida  pela  decisão  de  primeiro  grau.
+O  laudo  pericial  elaborado  pelo  perito  judicial  é  convincente,  técnico  e  isento  de  ânimo,  por  equidistante  das  partes,  sendo  plenamente  válido  para  o  fim  a  que  se  destina.
+(..)
+Neste  passo,  deve  prevalecer  a  regra  do  "pacta  sunt  servanda",  com  prestígio  do  conteúdo  do  ajuste  convencionado  entre  as  partes.
+(..)
+Por  fim,  repito  que,  pelas  provas  produzidas,  não  há  como  se  reconhecer  a  existência  de  prorrogação  indevida  do  contrato,  sem  a  respectiva  remuneração,  já  que  o  prazo  estendido  constou  de  aditivos  que  previa,  ainda,  a  remuneração  respectiva,  motivo  pelo  qual,  conforme  já  mencionado  acima,  não  procede  a  pretensão  da  parte  autora  em  ser  indenizada  por  supostos  prejuízos  decorrentes  da  prorrogação  do  prazo  de  duração  do  contrato  (custos  indiretos,  perda  de  faturamento,  custeio  de  canteiro  de  obra,  gastos  com  manutenção  de  ruas)"  (fls.  3.189/3.201,  e-STJ).
+Verifica-se, assim,  que  o  tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  do  recorrente.
+Log o, não há  ofensa  aos  arts.  1.022,  II,  e  489,  §  1º,  IV,  do  Código  de  Processo  Civil.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO  E  COMPENSAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  EMBARGOS  DE  DECLARAÇÃO.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  NÃO  OCORRÊNCIA.  VIOLAÇÃO  DO  ART.  489  DO  CPC/15.  NÃO  OCORRÊNCIA.  REEXAME  DE  FATOS  E  PROVAS  E  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  INADMISSIBILIDADE.  SÚMULAS  5  E  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  PREJUDICADO.
+1.  Ação  de  indenização  e  compensação  -  respectivamente  -  por  danos  materiais  e  morais.
+2.  Ausentes  os  vícios  do  art.  1.022  do  CPC/15,  rejeitam-se  os  embargos  de  declaração.
+3.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  não  há  que  se  falar  em  violação  do  art.  489  do  CPC/15.
+(..)
+6.  Agravo  interno  não  provido".
+ (AgInt  no  AREsp  2.055.677/MS,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  26/9/2022,  DJe  de  28/9/2022).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  CONDENATÓRIA  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  DA  PARTE  DEMANDADA.
+1.  As  questões  postas  em  discussão  foram  dirimidas  pelo  Tribunal  de  origem  de  forma  suficiente,  fundamentada  e  sem  omissões,  devendo  ser  afastada  a  alegada  violação  aos  artigos  489  e  1.022  do  CPC/15.  Consoante  entendimento  desta  Corte,  não  importa  negativa  de  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pela  recorrente,  decidindo  de  modo  integral  a  controvérsia  posta.  Precedentes.
+(..)
+4.  Agravo  interno  desprovido".
+(AgInt  no  AREsp  1.850.373/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  14/2/2022,  DJe  21/2/2022).
+
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
