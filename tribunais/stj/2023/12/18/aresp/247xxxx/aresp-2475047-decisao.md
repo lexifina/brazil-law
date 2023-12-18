@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 535 do CPC/1973 e incidência das Súmulas 7 e 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 373):
+AGRAVO DE INSTRUMENTO. DISCUSSÃO ACERCA DE HONORÁRIOS PERICIAIS. NÃO CABIMENTO. ROL TAXATIVO DO ART. 1.015 DO CPC. PRECEDENTES DA CÂMARA E DO STJ. RECURSO NÃO CONHECIDO.
+1. A agravante insurge -se contra decisão que fixou honorários periciais em montante que reputa excessivo, hipótese que não desafia a interposição de agravo de instrumento, porquanto não prevista no rol do art. 1.015 do Código de Processo Civil, nem tampouco em outro dispositivo expressamente referido em lei.
+2. A questão da recorribilidade das decisões que fixam honorários periciais na fase de conhecimento já foi objeto de análise pelo STJ, que entendeu pela inexistência de urgência apta a justificar o manejo do agravo de instrumento. Precedentes.
+3. Recurso não conhecido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 489, §1º, IV, e 1.022, II, do CPC, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a (às) questão (ões) de fundo, sustenta ofensa ao(s) artigo 1.015 do CPC, sob o argumento de que o acórdão prolatado pelo Tribunal de origem não observou a conclusão adotada pelo Superior Tribunal de Justiça no julgamento dos Recursos Especiais 1.696.396/MT e 1.704.520/MT (repetitivos - TEMA 988/STJ).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa aos referidos normativos sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Propriamente quanto ao mérito, de fato, esta Corte, no julgamento do REsp 1.704.520/MT (Tema 988), processado sob o rito dos feitos repetitivos, consolidou o entendimento no sentido de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+O Tribunal de origem, em observância à tese repetitiva firmada, afastou a presença de urgência, asseverando que "a questão não se reveste de urgência que justifique o seu reexame imediato" (trecho do voto condutor do acórdão recorrido, de fl. 375).
+Nessas circunstâncias, a jurisprudência deste Tribunal compreende que a revisão de tal conclusão demandaria o revolvimento de fatos e provas, providência esta inviabilizada pela Súmula 7STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INDEFERE A PRODUÇÃO DE PROVA TESTEMUNHAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREVISÃO NO ROL DO ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. ACÓRDÃO QUE CONSIGNA A FALTA DE URGÊNCIA PARA A ANÁLISE DA QUESTÃO NO CASO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Esta Corte Superior, em processo sujeito ao regime dos recursos especiais repetitivos, firmou entendimento segundo o qual "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema 988).
+2. O Tribunal de origem reconheceu que, não obstante a taxatividade do rol do art. 1.015 do CPC possa ser mitigada, no caso em questão não há urgência apta a viabilizar o cabimento do agravo de instrumento. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.076.201/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. TAXATIVIDADE MITIGADA DO ROL DO ART. 1.015 DO CPC. RESP 1.704.520/MT PROCESSADO SOB O RITO DOS FEITOS REPETITIVOS. URGÊNCIA DECORRENTE DA INUTILIDADE DO JULGAMENTO EM RECURSO DE APELAÇÃO. DEMONSTRAÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N. 7 DO STJ.
+1. O Tribunal de origem não examinou a alegação de cerceamento de direito de defesa bem como os artigos que embasam esta tese, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+2. Esta Corte, no julgamento do REsp 1.704.520/MT (Tema 988), processado sob o rito dos feitos repetitivos, consolidou o entendimento no sentido de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+3. Os efeitos do decisum proferido por este Superior Tribunal foram modulados, com a consequente aplicação da mencionada tese jurídica apenas às decisões interlocutórias proferidas após a publicação do acórdão do recurso repetitivo, em 19/12/2018.
+4. O Tribunal de origem, em observância à tese repetitiva firmada, afastou a presença de urgência, de forma que a revisão de tal conclusão demandaria o revolvimento de fatos e provas, providência esta inviabilizada pela Súmula 7STJ.
+5. Agravo interno do MPF não provido.
+(AgInt no AREsp n. 2.230.891/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. TAXATIVIDADE MITIGADA DO ROL DO ART. 1015 DO CPC. RESP 1.704.520/MT PROCESSADO SOB O RITO DOS FEITOS REPETITIVOS. URGÊNCIA DECORRENTE DA INUTILIDADE DO JULGAMENTO EM RECURSO DE APELAÇÃO. DEMONSTRAÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N. 7 DO STJ.
+1. Esta Corte, no julgamento do REsp 1.704.520/MT (Tema 988), processado sob o rito dos feitos repetitivos, consolidou o entendimento no sentido de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+2. Os efeitos do decisum proferido por este Superior Tribunal foram modulados, com a consequente aplicação da mencionada tese jurídica apenas às decisões interlocutórias proferidas após a publicação do acórdão do recurso repetitivo, em 19/12/2018.
+3. O Tribunal de origem, em observância à tese repetitiva firmada, afastou a presença de urgência, de forma que a revisão de tal conclusão demandaria o revolvimento de fatos e provas, providência esta inviabilizada pela Súmula 7STJ.
+4. Agravo interno do MPF não provido.
+(AgInt no REsp n. 2.025.006/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. A Corte Especial do STJ, sob a sistemática dos recursos repetitivos (Tema 988), definiu a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018). Incidência da Súmula 83/STJ.
+1.1. No caso, verificar a urgência da matéria discutida no agravo de instrumento demandaria o inevitável reexame dos fatos e provas constantes dos autos, providência que esbarra no óbice da Súmula 7/STJ.
+2. Consoante iterativa jurisprudência desta Corte, a incidência das Súmulas 7 e 83 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.878.266/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Conclusivamente, o revolvimento dos motivos pelos quais o Tribunal de origem afastou a urgência da matéria discutida no agravo de instrumento é providência inviável em sede de recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fica prejudicada a liminar requerida.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. ALEGAÇÕE S GENÉRICAS. SÚMULA 284/STF. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREVISÃO NO ROL DO ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. ACÓRDÃO QUE CONSIGNA A FALTA DE URGÊNCIA PARA A ANÁLISE DA QUESTÃO NO CASO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. PREJUDICADA A LIMINAR REQUERIDA.
