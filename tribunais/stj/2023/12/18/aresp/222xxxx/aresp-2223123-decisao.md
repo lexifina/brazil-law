@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que não admitiu o recurso especial.
+O agravado foi condenado como incurso no art. 33, caput, e § 1º, inciso II, da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003, às penas de 05 (cinco) anos de reclusão e 01 (um) ano de detenção, em regime inicial semiaberto, e 510 (quinhentos e dez) dias-multa (fls. 326-335).
+O Tribunal deu parcial provimento à apelação da defesa para reconhecer a incidência do tráfico privilegiado e redimensionar a pena do crime de tráfico de drogas para 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial aberto, e 250 (duzentos e cinquenta) dias-multa (fls. 411-420).
+Os embargos de declaração ministeriais foram rejeitados (fls. 440-445).
+Inconformado, o Ministério Público estadual interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 33, § 4º, da Lei n. 11.343/2006, e requerer o afastamento da aludida causa de diminuição de pena (fls. 451-462).
+O aludido recurso foi inadmitido devido à Súmula n. 7, STJ (fls. 485-487).
+No presente agravo, o Ministério Público afirma que a pretensão visa à revaloração jurídica dos fatos delineados no acórdão, motivo pelo qual deve ser afastado o referido óbice sumular (fls. 492-505).
+Em contrarrazões, a defesa pugna pela manutenção da decisão recorrida por seus próprios fundamentos (fls. 511-515).
+Em parecer, o Ministério Público Federal opinou pelo conhecimento do agravo para dar provimento ao recurso especial (fls. 541-544).
+É o relatório. DECIDO.
+A controvérsia consiste em aferir a incidência do art. 33, § 4º, da Lei n. 11.343/2006 diante do quadro fático estabelecido no acórdão de apelação. Trata-se de questão eminentemente jurídica, motivo pelo qual afasto a Súmula n. 7, STJ.
+Segundo o Ministério Público do Estado de Goiás, o Tribunal a quo teria aplicado indevidamente a redutora da pena porque foram apurados elementos que apontam para a dedicação do agravado a atividades criminosas, quais sejam (fl. 495):
+"(..) a apreensão de diversas mudas de maconha (16), de drogas prontas para o consumo (52g de maconha, subdividida em 02 porções), de arma de fogo (revólver calibre 38), de munições intactas (06), bem como a existência de informações acerca do envolvimento do agravado com o tráfico (conforme o depoimento dos policiais) e de diversas ações penais em andamento em seu desfavor por tráfico, homicídio e porte de arma de fogo de uso permitido (processos ns. 0019596-81.2018.8.09.0107, 0009655-76.2019.8.09.0107 e0065503-82.2018.8.09.0107)"
+Da leitura do acórdão recorrido, observo que o Tribunal de Justiça do Estado de Goiás mencionou que as ações penais indicadas não poderiam ser utilizadas para afastar o tráfico privilegiado, porquanto desprovidas do trânsito em julgado (fls. 417). A decisão está de acordo com a tese firmada no Tema Repetitivo 1.139 desta Corte (REsp n. 1.977.027/PR, Terceira Seção, Rel. Min. Laurita Vaz, DJe de 18/8/2022).
+Ademais, observo que as declarações policiais se referem às mesmas ações penais em curso que não puderam ser utilizadas para afastar o redutor, de modo que o depoimento não possui o valor necessário aos fins pretendidos. Soma-se a isso o fato de que a quantidade da droga não é expressiva o suficiente para denotar, de forma inequívoca, a dedicação ao crime. Na mesma linha, observo que a arma e as munições apreendidas ensejaram a condenação por crime autônomo do Estatuto do Desarmamento, não tendo sido verificado o nexo entre o propósito do armamento e a traficância.
+Por conseguinte, não há motivos para reformar a decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INCIDÊNCIA DO TRÁFICO PRIVILEGIADO. CONTROVÉRSIA JURÍDICA. SÚMULA 7, STJ, AFASTADA. AÇÕES PENAIS EM CURSO. IMPOSSIBILIDADE DE AFASTAMENTO DA REDUTORA. TEMA REPETITIVO 1.139, STJ. AUSÊNCIA DE PROVA INEQUÍVOCA DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
