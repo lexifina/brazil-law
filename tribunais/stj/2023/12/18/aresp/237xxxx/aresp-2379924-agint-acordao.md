@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Ainda que superado o óbice da Súmula 182 do STJ, o recurso especial não merece conhecimento, uma vez que incide o óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Sueprior, de fls. 1156/1158, que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica a todos os fundamentos da decisão agravada.
+Sustenta a parte agravante que "O debate trazido à baila foi amplamente impugnado, não incorrendo, portanto, com a regra ajustada no art. 21-E, inciso V do RISTJ, foi especificadamente, infirmado".
+Aduz que "não há duvidas quanto a plausibilidade do Agravo Interno no Agravo em Recurso Especial interposto, na medida que o acordão, ora infirmado, proferido nos autos do processo em tela merece ser totalmente reformado por essa Corte Superior, já que, está em direto confronto e contrariedade com a legislação federal".
+Alega que "fica perfeitamente demonstrado o direito da Agravante, razão pela qual merece conhecimento e provimento ao presente Agravo Interno no AREsp, para fins de que seja dado o devido seguimento ao recurso, com a revaloração jurídica dos fatos delineados na decisão recorrida".
+Não foi apresentada impugnação (fl. 1173).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.379.924 - RO (2023/0196882-1)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+ADIP CHAIM ELIAS HOMSI NETO
+AGRAVANTE
+:
+RITA DE CASSIA GOMES MOREIRA HOMSI
+ADVOGADOS
+:
+DENIS AUGUSTO MONTEIRO LOPES - RO002433
+ERICA CAROLINE FERREIRA VAIRICH - RO003893
+MAIELE ROGO MASCARO NOBRE - RO005122
+MARIO LACERDA NETO - RO007448
+AGRAVADO
+:
+JOSE MARIA RAMOS BRANDAO
+ADVOGADO
+:
+DANIEL DOS ANJOS FERNANDES JUNIOR - RO003214
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Ainda que superado o óbice da Súmula 182 do STJ, o recurso especial não merece conhecimento, uma vez que incide o óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece prosperar.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos da decisão ora agravada (fls. 1156/1157):
+Cuida-se de agravo em recurso especial apresentado por ADIP CHAIM ELIAS HOMSI NETO e OUTRO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+No caso dos autos, o recurso especial não foi admitido na origem sob os seguintes fundamentos (fl. 1133):
+Quanto às insurgência acerca dos alegados vícios redibitórios e as consequências destes, observa-se que a parte recorrente faz alegações genéricas, limitando-se a afirmar que os objetos do contrato possuem vícios redibitórios. Contudo, não explica e fundamenta adequadamente de que maneira o Acórdão teria efetivamente violado os dispositivos de lei federal - mormente porque deixa de abordar o cerne do fundamento esposado no acórdão, de que "os réus, ora apelantes, não se desincumbiram do ônus que lhe competia, no sentido de evidenciar os vícios, de consentimento e redibitórios, que, segundo eles, foram a causa determinante para o não cumprimento de suas obrigações na avença ".
+Deste modo, o seguimento do recurso especial encontra óbice na Súmula 284/STF, que aduz: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Não é demais consignar que a Súmula 284 do STF aplica-se ao recurso especial porquanto trata-se de recurso de natureza extraordinária (STJ - AgInt no REsp: 1925120 AM 2021/0060238-3, Relator: Ministra NANCY ANDRIGHI, Data de Julgamento: 22/06/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 25/06/2021).
+Outrossim, quanto às insurgências sobre os vícios e as consequências destes, observa-se que a modificação da conclusão do julgado perpassa pela análise do conjunto probatório para se chegar a conclusão diversa do acórdão recorrido, razão pela qual o seguimento do recurso especial encontra óbice na Súmula 07 do Superior Tribunal de Justiça, "a pretensão de simples reexame de prova não enseja recurso especial" (STJ - AgInt no AREsp: 2018788 MS 2021/0348873-9, Relator: Ministra NANCY ANDRIGHI, Data de Julgamento: 11/04/2022, T3 - TERCEIRA TURMA, Data de Publicação: DJe 18/04/2022).
+Por fim, conclui-se que os mesmos óbices impostos à admissão pela alínea "a", III, do art. 105 da CF, impedem a apreciação recursal pela alínea "c", estando, portanto, prejudicada a análise do dissídio jurisprudencial.
+(sem destaques no original)
+No agravo em recuso especial, não houve impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada.
+Com efeito, a parte agravante limitou-se a aduzir que "É precário dizer-se que o recurso não preenche as condições de admissibilidade no particular, quando sequer houve exame efetivo dos temas nele propostos. Inadmissível que se valide o alheamento completo dos dizeres da petição, num verdadeiro e literal desprezo pelo direito de recorrer assegurado à parte constitucionalmente".
+Conforme apontado na decisão agravada, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+A propósito, a Corte Especial deste Superior Tribunal de Justiça consolidou orientação no sentido de que "O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica a todos os fundamentos utilizados para a negativa de seguimento do apelo extremo (EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018), consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade dos óbices invocados" (AgInt no AREsp n. 1.948.650/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022).
+Saliente-se que não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, porquanto, à luz do princípio da dialeticidade, cabe ao agravante explicitar, de forma articulada e argumentativa, os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Nesse sentido: "são insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada" (AgInt no AREsp 1904123/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2021, DJe 8/10/2021).
+Com relação à impugnação ao óbice da Súmula 7/STJ, esta Corte Superior entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (AREsp 1280316/SP, relator Ministro Og Fernandes, Segunda Turma, DJe 28/5/2019). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+4. Agravo interno não provido.
+(AgInt no AREsp 1970371/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/12/2021)
+Desse modo, não houve impugnação específica e suficiente nas razões do agravo em recurso especial para infirmar todos os fundamentos da decisão que não admitiu o recurso.
+Ainda que assim não fosse, o recurso especial não merece conhecimento.
+Nas razões do recurso, a parte alega violação aos artigos 441, 442, 443, 445, 476, 722, 723, 724 e 725 do Código Civil.
+Sustenta, em síntese, que o negócio jurídico em discussão foi nulo desde o início, pois "o autor vendeu coisa que não existia", requerendo "seja reconhecido o direito dos recorrentes à rescisão do contrato por vícios redibitórios e culpa exclusiva do apelado pela rescisão contratual, consequentemente, exclua-se a aplicação da multa contratual de 10% sobre o valor do negócio".
+Aduz que "as provas são claras e evidentes no sentido de que o recorrido aproveitou da pouca experiência dos apelantes no ramo de postos de combustíveis (nunca tinham trabalhado com isso) e vendeu apenas rascunhos, projetos e estruturas falsas e sucateadas de postos, sem autorização legal para funcionarem e sem condições reais de uso, absolutamente obsoletos e em péssimas condições de uso, sem sequer combustível em estoque para operação".
+Defende que "Os recorrentes acreditaram que estavam comprando postos de combustíveis que se pagariam de várias formas como enganosamente apresentou o vendedor na sua proposta inicial. Depois disso, assinaram contrato e passaram a gerir os postos e, graças ao prazo estipulado para pagamento, conseguiram descobrir os vícios redibitórios ocultos, dentro do prazo estabelecido em lei e desfizeram o negócio. Desta maneira, deve ser reconhecido o direito dos apelantes à rescisão do contrato por vícios redibitórios".
+Ocorre, contudo, que o acórdão recorrido afastou, de maneira expressa e devidamente fundamentada, a tese de existência de vícios de conhecimento e redibitório, bem como de culpa exclusiva da parte contrária, nos seguintes termos (fls. 1062/1064):
+A sentença está devidamente fundamentada, íntegra e coerente com o conjunto probatório amealhado aos autos, analisado de acordo com a ordinária distribuição do ônus da prova, segundo a qual, ao autor compete comprovar os fatos constitutivos do direito alegado, enquanto ao réu cabe trazer elementos capazes de extinguir, impedir ou modificar o direito afirmado na petição inicial.
+O autor, ora apelado, demonstrou que os apelantes incidiram em inadimplemento contratual, materializada na falta de pagamento do valor estabelecido para o arrendamento, objeto do contrato firmado entre as partes, que acabou resultando na reintegração dos bens àquele.
+Por sua vez, os réus, ora apelantes, não se desincumbiram do ônus que lhe competia, no sentido de evidenciar os vícios, de consentimento e redibitórios, que, segundo eles, foram a causa determinante para o não cumprimento de suas obrigações na avença.
+O juiz a quo delineou na sentença os motivos pelos quais deixou de reconhecer ditos vícios, dispensando qualquer acréscimo, de fato ou de direito, por parte do Tribunal. Confira-se o trecho abaixo transcrito:
+Embora os réus tenham exaustivamente demonstrado que os postos negociados possuíam diversos problemas de ordem técnica e econômica, tanto por prova documental quanto testemunhal, não restou comprovado nos autos que os defeitos alegados pelos réus de fato se encontravam ocultos antes da assinatura do contrato de compromisso. Em outras palavras, a parte ré não provou que os vícios incidentes sobre os postos de combustíveis adquiridos e arrendados não poderiam ter sido constatados antes da celebração do contrato.
+Do contrário, da forma como narrados pelos próprios réus, ambos com formação superior em Direito e, portanto, pessoas minimamente esclarecidas, é possível verificar que, mesmo não possuindo experiência no ramo de abastecimento, não era impossível perceber que a situação não se encontrava totalmente regular.
+Neste sentido, a testemunha WILLY GERALDO BRANDALISE NETO afirmou em Juízo que, apesar de não ter experiência prévia com postos, percebeu que havia muitas irregularidades.
+Igualmente, a testemunha LILIAN DIAMANTINE foi enfática de que os postos não possuíam condições, já que as réguas para medição dos combustíveis estavam quebradas, havia bombas que não funcionavam ou estavam lacradas.
+Além do mais, o próprio contrato, na Cláusula Quinta, indica que os réus tinham conhecimento que os postos possuíam pendências, haja vista que restou estabelecido que seriam de total responsabilidade do autor até o dia 05/02/2018, que teria o prazo de 90 dias para quitá-las integralmente.
+Somado a isso, da prova produzida nos autos não vislumbro prova de que os vícios incidentes sobre os postos de combustível eram desconhecidos pelos réus ou até mesmo ocultos e impossíveis de serem constatados antes da assinatura do contrato e início da administração do negócio. O que a prova indica, na realidade, é que a negociação se deu de forma apressada (a proposta foi formalizada em 30/01/2018 e o contrato assinado em 03/02/2018), sem a adoção de medidas de precaução mínimas considerando a natureza e valor do negócio, tanto é que a testemunha LILIAN DIAMANTINE, pessoa com experiência na área e contratada pelos réus para tomar conhecimento da situação dos postos, afirmou que o contrato foi assinado sem a realização de prévia vistoria.
+Por mais que os réus aleguem que procuraram realizar a vistoria nos postos de São Miguel no final de semana da assinatura do contrato e que foram distraídos ou impedidos pelo autor e sua companheira com churrasco, visitas e banhos de piscina para as crianças, não há prova nos autos de que a assinatura foi realizada com vício de consentimento. Não restou provado nos autos que os réus foram obrigados ou pressionados a realizarem a proposta de compra ou a assinarem o contrato sem que previamente pudessem diligenciar na busca de informações atinentes aos postos, ônus que recai sobre a parte ré por força do art. 373, inc. II do CPC.
+Ou seja, à luz dos fatos narrados é possível verificar que os alegados vícios ocultos, na realidade, eram aparentes, e, caso eventualmente não informados pelo autor previamente (o que se mostra controverso pela Cláusula Quinta do contrato), no mínimo, seriam identificados sem maiores dificuldades se os réus, antes da assinatura, tivessem assumido uma postura diligente junto aos próprios postos e aos órgãos administrativos responsáveis pela regulação e fiscalização da atividade.
+Em miúdos. No negócio de (alguns) milhões de reais, não parecer, inclusive, razoável a tese de que foram ludibriados a assinar a avença sem prévia inspeção da estrutura física dos postos, de seus equipamentos e do estoque, bem como a análise da documentação ambiental e o exame de sua viabilidade fiscal e econômica por receio de perderem o negócio.
+Todos os apontados vícios, estruturais e de licenças, seriam facilmente percebidos na chamada "due diligence" (diligência prévia, visando um aprofundado de estudo, análise e avaliação de informações e documentos de diversos setores do empreendimento), o que se denota como tendo sido dispensada por uma avaliação objetiva do risco. Isto é, entendeu-se a transação (com suas especificidades) como uma ótima oportunidade de negócio, cujos eventuais ajustes (que pudessem ser encontrados) seriam facilmente absorvidos pela sua rentabilidade ou até pelo valor imobiliário intrínseco a ela.
+A ausência de cautela no momento da aquisição resulta na assunção do risco do negócio, que poderia resultar em excesso de lucro, mas, após, concluiu-se que não.
+Logo, não sendo ocultos os vícios, afasto a aplicação dos artigos 476 (exceção do contrato não cumprido) e 441 (vício redibitório), ambos do Código Civil, o que atrai a procedência do pedido de condenação dos réus ao pagamento da cláusula penal. Isso porque o contrato entabulado não assegura a desistência ou arrependimento e, para afastar a aplicação da multa, deveria ter sido produzida prova de que os vícios eram ocultos, no que não foi exitosa a parte ré.
+Inexistindo os vícios suscitados pelos apelantes, subsiste o dever de pagar o valor correspondente ao período de vigência do arrendamento dos bens, bem como a incidência da multa por quebra injustificada de contrato.
+A multa penal estabelecida no contrato já foi objeto de redução pelo juiz da causa, de 20% para 10%, não cabendo outro redimensionamento, sob pena de tornar vazia a cláusula negocial, livremente pactuada entre as partes para a hipótese.
+A comprovação do pagamento das faturas referentes à aquisição dos produtos não se faz necessária para efeito de condenação, porquanto, conforme constou do dispositivo da sentença, do valor a que foram os apelados condenados a pagar, poderá ser abatido o montante correspondente aos produtos deixados em estoque, quando da reintegração dos postos. Logo, os apelantes não sofrerão prejuízos.
+Ante o exposto, voto pelo não provimento do recurso, com a majoração dos honorários advocatícios de sucumbência devidos ao patrono do apelado para 15%, nos termos do §11 do artigo 85 do CPC, observada a gratuidade de justiça.
+(sem destaques no original)
+Verifica-se, portanto, que para modificar a conclusão das instâncias ordinárias, como pretende a parte agravante, seria necessário alterar as premissas fáticas estabelecidas no julgado combatido, o que demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Desso modo, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
