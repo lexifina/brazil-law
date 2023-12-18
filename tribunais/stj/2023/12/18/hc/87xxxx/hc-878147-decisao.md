@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO SODRE DA SILVA ROCHA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - processo n. 2329854-29.2023.8.26.0000.
+Depreende-se dos autos que o Paciente teve a sua prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto no artigo 155, § 4º, IV, combinado com artigo 71, e 157, § 2º, II e § 2º-A, I, todos do Código Penal; sobreveio a condenação às penas de 02 (dois) anos e 04 (quatro) meses de reclusão, bem como 11 (onze) dias-multa, e 06 (seis) anos e 08 (oito) meses de reclusão, além de 16 (dezesseis) dias-multa, em regime inicial fechado, vedando-lhe o direito de recorrer em liberdade.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte local. O Desembargador Relator da 13ª Câmara de Direito Criminal indeferiu a liminar, conforme decisão assim fundamentada, e-STJ fls. 44-45:
+"(..) Sustenta o impetrante, em suma, que o paciente sofre constrangimento ilegal, decorrente da negativa do direito de recorrer em liberdade, sem motivação idônea. Aduz, ainda, que o paciente é primário, possui residência fixa e exerce ocupação lícita, tudo a indicar a desproporcionalidade da medida eleita. Requer, assim, a concessão de liminar para que possa aguardar em liberdade o julgamento da apelação interposta, concedendo-se a ordem, ao final (fls. 01/09). (..) Ademais, a decisão foi motivada (fls. 40/49), e a suficiência e a idoneidade dos fundamentos somente poderão ser analisadas quando do exame do mérito da impetração. Ante o exposto, DENEGO A LIMINAR alvitrada. (..) "
+Neste writ, alega a Defesa constrangimento ilegal e carência de fundamentação para a manutenção da segregação cautelar.
+Requer a concessão da ordem de habeas corpus, para fins de conceder a medida liminar pleiteada na origem, com a confirmação no mérito, para que seja aguardado o julgamento do recurso em liberdade.
+É o relatório. DECIDO.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heroico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada:
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+"O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribun al Federal" (AgRg no HC n. 826.873/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023).
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intime-se.
+EMENTA
