@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por Jackeline Cunha Santos contra a decisão proferida pelo Tribunal de Justiça da Bahia que, em juízo de admissibilidade, inadmitiu o recurso especial por ela apresentado, com fundamento na alínea a do permissivo constitucional, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 8001705-79.2021.8.05.0248, assim ementado (fls. 220/222):
+APELAÇÃO CRIMINAL. RECEPTAÇÃO. (ART. 180, CAPUT , DO CP). CONDENAÇÃO.
+PLEITO ABSOLUTÓRIO INACOLHIDO. MATERIALIDADE E AUTORIA DELITIVAS EVIDENCIADAS NO CONJUNTO PROBATÓRIO, ATRAVÉS DO AUTO DE EXIBIÇÃO E APREENSÃO (ID 35928653, FL. 12), DO AUTO DE ENTREGA (ID 35928653, FL. 15) E, ESPECIALMENTE, DA PROVA ORAL PRODUZIDA DURANTE A PERSECUÇÃO PENAL.
+DOSIMETRIA QUE NÃO MERECE REPAROS. PENAS FIXADAS NO PATAMAR MÍNIMO LEGAL.
+APELO NÃO PROVIDO.
+Autos que evidenciam ter a Recorrente, no dia 06.03.2017, em um ponto de mototáxi localizado na Praça Luiz Nogueira, na Cidade de Juazeiro, adquirido, pelo valor de R$ 50,00 (cinquenta reais), um aparelho celular, marca Samsung, Win GT I8552B, nas mãos de um terceiro desconhecido, Marcelo Vinicíus de Queiroz Lima (denunciado pela prática de roubo), sem qualquer documento comprobatório acerca da origem lícita do bem.
+Materialidade e autoria delitivas evidenciadas. As circunstâncias de a recorrente ter comprado, por um valor irrisório, um celular oferecido por terceiro desconhecido, que não dispunha de nota fiscal, nem sequer da senha necessária para o desbloqueio do aparelho, são suficientes em evidenciar a sua ciência da origem ilícita do bem, mostrando-se totalmente inviável afastar a existência do dolo e acolher o pleito absolutório formulado.
+Dosimetria, analisada de ofício, mantida nesta instância. Penas-base fixadas no mínimo legal de 1 (um) ano de reclusão e 10 (dez) dias-multa, tornadas definitivas à míngua de circunstâncias atenuantes e agravantes, causas de diminuição e aumento de pena. Inalterado, também, o regime prisional aberto e a substituição da pena reclusiva por restritiva de direitos, nos termos da sentença.
+Nas razões do especial, a Defensoria Pública apontou contrariedade ao art. 386, VII, do Código de Processo Penal, sustentando, sem suma, a insuficiência probatória para sedimentar édito condenatório em desfavor da recorrente pelo crime (fl. 250).
+Apresentadas contrarrazões (fls. 257/266), o Tribunal local não admitiu o recurso, por incidência da Súmula 7/STJ (fls. 267/272).
+Daí o presente agravo (fls. 277/283). Instado a se manifestar, o Ministério Público Federal opina pelo conhecimento do agravo para não conhecer ou, caso conhecido, desprover o recurso especial, nos seguintes termos (fl. 310):
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A", DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO DO ART. 386, VII, DO CPP. PRETENSÃO DE ABSOLVIÇÃO. CONDENAÇÃO FUNDAMENTADA NAS PROVAS DOS AUTOS. DEPOIMENTOS DE TESTEMUNHAS. CONTEXTO DA AQUISIÇÃO DO CELULAR. AUTORIA E MATERIALIDADE DELITIVAS COMPROVADAS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PARECER PELO CONHECIMENTO DO AGRAVO PARA NÃO CONHECER OU, CASO CONHECIDO, DESPROVER O RECURSO ESPECIAL.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Busca a Defensoria Pública a absolvição da ora agravante, com fundamento no art. 386, VII, do Código de Processo Penal.
+Consta da sentença e do acórdão recorrido (fls. 164/165 e 225/227 - grifo nosso):
+Sentença
+ ..  A materialidade do delito se encontra comprovada pelo auto que descreve a apreensão de um aparelho celular Samsung Galaxy S4, que era produto de crime (id. 118307634 - pág. 12).
+A autoria é induvidosa.
+É dos autos que a ré adquiriu o celular que tinha sido roubado por MARCELO VINÍCIUS, vulgo COBRINHA.
+Em seu interrogatório, a ré respondeu que já ficou presa um período por tráfico de drogas. Sobre os autos, a ré confirmou que comprou o celular roubado, ainda que não soubesse dessa condição. Confirma também que comprou o aparelho por R$50,00 (cinquenta) reais.
+Pois bem.
+Receber o objeto por preço aquém do exigido no mercado e sem o competente recibo, ou documentação, já é indício de que o mesmo tenha origem ilícita.
+Nesse sentido:
+ ..
+A verificação do dolo por parte da ré deve ser feita através das circunstâncias que envolvem a conduta, tendo em vista que dificilmente o réu confessa espontaneamente a prática criminosa.
+Nesse sentido:
+ ..
+Hodiernamente, ninguém compra um aparelho celular por R$50,00 (cinquenta) reais, sem documentação, sem que tenha ciência ou dúvida da origem ilícita do produto. Destarte, a condenação da ré é medida de rigor.  ..
+Acórdão
+ ..  Não merece prosperar o pleito absolutório aventado pela defesa.
+Extrai-se dos autos que, no dia 06.03.2017, em um ponto de mototáxi localizado na Praça Luiz Nogueira, na Cidade de Serrinha, a recorrente adquiriu, pelo valor de R$ 50,00 (cinquenta reais), um aparelho celular, marca Samsung, Win GT I8552B, nas mãos de um terceiro desconhecido, Marcelo Vinicius de Queiroz Lima (denunciado pela prática do crime de roubo), sem qualquer documento comprobatório acerca da origem lícita do bem.
+A materialidade e autoria delitivas restaram satisfatoriamente demonstradas nos autos através do auto de exibição e apreensão (ID 35928653, fl. 12), do auto de entrega (ID 35928653, fl. 15) e da prova oral produzida durante a persecução penal, não havendo dúvidas quanto aos fatos narrados na denúncia.
+Os fatos em referência foram confirmados em depoimento pela testemunha arrolada na denúncia, Rafael Rodrigues Oliveira, investigador de polícia civil, que relatou, em juízo:
+ ..
+A testemunha Adauto Ribeiro Brandão Junior, também investigador de polícia civil, ratifica tais informações, declarando que: " ..  teve conhecimento do fato, por meio da vítima Helena Barreto e sua sobrinha, salvo engano, que um indivíduo roubou o celular dela (D. Helena). Que pelo modo como ocorreram os fatos, os investigadores desconfiaram que o autor do fato poderia ser Marcelo Cobrinha, que estava autuando na cidade, realizando vários furtos e roubos. Nós fomos ao local em que estava Marcelo cobrinha e conduzimos até a Delegacia. Que na Delegacia Marcelo foi reconhecido pela vítima como autor do roubo. Que Marcelo informou que vendeu o aparelho celular na Praça Luiz Nogueira. Que foi até a Praça Luiz Nogueira com o investigador Rafael e lá foram informados que a compradora do celular morava na zona rural. Que localizaram a compradora do aparelho celular e o devolveram ao seu comprador. Que Marcelo vendeu o celular pela quantia de R$ 50,00 (cinquenta reais) a Jaqueline. Que Jaqueline falou na época dos fatos que não sabia que o produto era de origem ilícita. Que Jaqueline adquiriu o aparelho celular, mesmo o produto sendo "travado". Que não sabe se o celular foi formatado.  .. "  (depoimento judicial disponível através do link disponibilizado no ID 35928743).
+Oportuno registrar que a qualidade de policial não afasta a credibilidade dos depoimentos prestados, mormente quando se apresentam coerentes e harmônicos com os demais elementos e circunstâncias colhidos dos autos, e quando oferecidos em Juízo, sendo oportunizado o contraditório.
+A recorrente, por sua vez, malgrado não tenha confessado a conduta ilícita, confirmou ter adquirido o celular nas mãos de Marcelo (denunciado pelo crime de roubo), pela quantia irrisória de R$ 50,00 (cinquenta reais), mesmo o vendedor afirmando desconhecer a senha para desbloqueio do aparelho. Confira-se suas declarações prestadas na fase judicial:
+ ..
+Oportuno destacar o depoimento extrajudicial prestado por um outro mototaxista, presente no local em que ocorreu a transação, DERIVAN VALERIO DE JESUS, o qual relatou ter desconfiado que houvesse algum "problema" com o aparelho, em virtude da ausência de senha. Veja-se:
+ ..
+As circunstâncias de a recorrente ter adquirido, por um valor irrisório, um celular oferecido por terceiro desconhecido, que não dispunha de nota fiscal, nem sequer da senha necessária para o desbloqueio do aparelho, são suficientes em evidenciar a sua ciência da origem ilícita do bem, mostrando-se totalmente inviável afastar a existência do dolo e acolher o pleito absolutório formulado.
+Isto posto, constata-se que a sentença hostilizada fora pautada em juízo de cognição plena, sendo de rigor a manutenção da condenação da recorrente, nos termos da sentença.  ..
+A teor da jurisprudência desta Corte, em se tratando de crime de receptação, ao qual o acusado foi flagrado na posse do bem, a ele competiria demonstrar o desconhecimento da sua origem ilícita, o que, no caso, não ocorreu (AgRg no RHC n. 153.972/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 4/4/2022).
+Na mesma linha: AgRg no HC n. 737.916/MS, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023; AgRg no HC n. 700.369/SC, Ministra Laurita Vaz, Sexta Turma, DJe 10/10/2022; AgRg no HC n. 643.377/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/10/2021; e AgRg no HC n. 601.255/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/4/2021.
+No caso dos autos, infere-se que as instâncias ordinárias foram veementes ao afirmarem que as provas dos autos permitem concluir que a ré tinha ciência da origem ilícita do bem, mostrando-se totalmente inviável afastar a existência do dolo e acolher o pleito absolutório formulado (fl. 242).
+Desse modo, a mudança da conclusão alcançada no acórdão, com o fim de absolver o agravante, demandaria o reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido: AgRg no AREsp n. 2.322.750/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/6/2023; AgRg nos EDcl no AREsp n. 2.056.991/RJ, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/5/2023; AgRg no AREsp n. 2.170.119/MS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/3/2023; AgRg no AREsp n. 2.004.887/DF, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/8/2022; AgRg no AREsp n. 1.239.066/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/4/2021; AgRg no AREsp n. 1.503.125/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2019; REsp n. 1.482.076/CE, Ministro Nefi Cordeiro, Sexta Turma, DJe 10/4/2019; e AgRg no AREsp n. 1.111.512/MG, Ministro Jorge Mussi, Quinta Turma, DJe 1º/2/2019.
+Não é outra a opinião do Subprocurador-Geral da República (fl. 314 - grifo nosso):
+ ..  Como se vê, a condenação deu-se com apoio no acervo de provas contidas nos autos, conforme a análise empreendida pelas instâncias ordinárias, sobretudo os depoimentos prestados pelas testemunhas que detalham o contexto da aquisição do celular, evidenciando que a acusada sabia da proveniência ilícita do bem.
+Afastar as conclusões quanto à autoria e à materialidade delitiva implica necessariamente a incursão no conjunto fático-probatório dos autos, o que revela a inadequação da pretensão recursal, em face do óbice da Súmula 7/STJ.  ..
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ABSOLVIÇÃO. DESCABIMENTO. PROVA SATISFATÓRIA DA MATERIALIDADE E AUTORIA E DO ELEMENTO ANÍMICO DO AGENTE. ACOLHIMENTO DA TESE DEFENSIVA. NECESSIDADE DE EXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
