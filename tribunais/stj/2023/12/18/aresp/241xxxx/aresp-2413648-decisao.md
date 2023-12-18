@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo interposto contra a inadmissão do Recurso Especial (art. 105, III, "a" e "c", da CF/1988) por incidência da Súmula 7/STJ e por coincidência do acórdão recorrido com o Tema 779/STJ.
+O decisum foi assim ementado (fls. 194-204, e-STJ):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS E COFINS. RECEITAS FINANCEIRAS. IMPOSSIBILIDADE DE CREDITAMENTO. REGIME NÃO CUMULATIVO. DECRETO 8.426/2015. LEGALIDADE. AUSÊNCIA DE VIOLAÇÃO. REGRAMENTO LEGAL.
+1. Os Decretos 8.426/2015 e 8.451/2015 não se mostram ofensivos ao princípio da legalidade, eis que não se trata de instituição ou majoração de tributo, e sim de redução e posterior restabelecimento, dentro dos limites indicados na própria lei (art. 27, § 2º, da Lei 10.865/2004), das alíquotas de contribuição para o PIS e COFINS sobre as receitas financeiras auferidas pelas pessoas jurídicas sujeitas ao regime não cumulativo. Não há falar em inconstitucionalidade ou ilegalidade.
+2. O regime não cumulativo do PIS e da COFINS foi relegado à disciplina infraconstitucional, sendo de observância facultativa. Logo, a lei pode estabelecer as despesas que serão passíveis de gerar créditos, bem como modificar o regime, introduzindo novas hipóteses de creditamento ou revogando outras, pois não existe direito adquirido a determinado regime legal.
+3. Impossibilidade de creditamento de PIS e da COFINS sobre as i chamadas despesas financeiras, porquanto a Lei 10.865/04, ao dar nova redação ao artigo 3 , V. das Leis 10.637/02 e 10.833/03, vedou a apropriação de tais créditos. Precedente desta Corte.
+Os Embargos de Declaração foram rejeitados.
+No Recurso Especial, a agravante sustenta que, "ao inviabilizar a apropriação do crédito de PIS e de Cofins em relação às despesas financeiras, a decisão acabou por ofender as previsões legais contidas no artigo 27, caput e § 2º, da Lei nº 10.865/2004, artigo 11, inciso III, "c", da Lei Complementar nº 95/1998, arts. 3º, XX, das Leis n. 10.637/02 e 10.833/03, bem como, orientação trazida por este Superior Tribunal nos autos do REsp nº 1.221.170" (fl. 280, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28 de agosto de 2023.
+Preliminarmente, o Supremo Tribunal Federal, no julgamento do Tema 756/STF, afirmou ser infraconstitucional a discussão sobre a expressão "insumo", presente no art. 3º, II, das Leis 10.637/2002 e 10.833/2003, e sobre a compatibilidade das IN SRF 247/2002 (considerada a atualização pela IN SRF 358/03) e 404/2004 com essas leis. Na ocasião, foram aplicados os efeitos da ausência de Repercussão Geral, bem como foi declarado constitucional o § 3º do art. 31 da Lei 10.865/2004.
+Ao julgar o seu Tema 779, o Superior Tribunal de Justiça definiu:
+(a) é ilegal a disciplina de creditamento prevista nas Instruções Normativas da SRF ns. 247/2002 e 404/2004, porquanto compromete a eficácia do sistema de não-cumulatividade da contribuição ao PIS e da COFINS, tal como definido nas Leis 10.637/2002 e 10.833/2003; e
+(b) o conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, ou seja, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo Contribuinte.
+Desse modo, a irresignação não merece acolhida.
+O Tribunal a quo consignou:
+No caso dos autos, o objeto social da impetrante é "a compra, e importação, a exportação, a fabricação e comercialização de fertilizantes, de produtos destinados à alimentação animal, de produtos destinados à higiene agroalimentar. de produtos saneantes e domissanitários, de produtos destinados à limpeza automotiva, das matérias-primas destinadas à fabricação desses produtos, e de todo e qualquer outro produto ou insumo veterinário, agropecuário e de limpeza automotiva, bem como comercializar e industrializar corretivos, inoculantes, estimulantes ou biofertilizantes, podendo ainda explorar através de mineração terrestre, fluvial ou marítima, matéria-prima destinada à comercialização direta e à produção de bens e produtos objetos da presente sociedade, tendo ainda como objeto o agenciamento marítimo e operações portuárias e a locação de máquinas com ou sem mão de obra" (ev. 1 - CONTRSOCIAL3, p. 10).
+O insumo é um elemento necessário para que o objeto social da pessoa jurídica seja alcançado. A retirada do insumo inviabilizaria o exercício da atividade econômica para a qual a empresa foi instituída, frustrando totalmente o seu objeto.
+De acordo com a jurisprudência do STJ e do TRF da 4ª Região, as despesas financeiras relativas a empréstimos e fina nciamentos não se amoldam ao conceito de insumo pois não são elementos essenciais para o desenvolvimento da atividade econômica da empresa.
+Conforme afirmado pelo juízo prelibador, para afastar o entendimento a que chegou a Corte regional, de modo a classificar as atividades mencionadas pela recorrente como aptas à geração do direito ao crédito vindicado, seria necessário revolver o acervo fático-probatório dos autos, o que se mostra inviável na via especial ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS/COFINS. DIREITO AO CRÉDITO. INSUMOS. ESSENCIALIDADE OU RELEVÂNCIA. REVISÃO DO ENTENDIMENTO NA ORIGEM. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. A Primeira Seção do Superior Tribunal de Justiça possui entendimento firmado no sentido de que "o conceito de insumo deve ser aferido à luz dos critérios da essencialidade ou relevância, vale dizer, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo contribuinte" (REsp 1.221.170/PR, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 24/4/2018).
+2. Para afastar o posicionamento a que chegou a Corte de origem, de modo a classificar as atividades mencionadas pela recorrente como aptas à geração do direito ao crédito vindicado, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na via especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.822.551/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 3/8/2020)
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+Publique-se.
+Intimem- se.
+EMENTA
