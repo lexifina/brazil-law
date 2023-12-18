@@ -1,0 +1,10 @@
+DECISÃO
+O Superior Tribunal de Justiça ao processar e julgar o Tema Repetitivo n. 1.150 declarou, nos autos dos REsp n. 1.895.936/TO, REsp 1.89.541/TO e REsp n. 1.951.931/DF, firmou as seguintes teses:
+1) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa;
+2) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil; e
+3) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao Pasep.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual (Lei n. 11.672/2008), isto é, a criação de mecanismo que possibilite às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC/1973 e 1.040 e seguintes do CPC/2015" (EDcl no AgInt no REsp n. 1.949.793/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa neste STJ, para que a Corte de origem realize, se devido, o juízo de retratação, de modo que o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação de Tribunal superior; (ou) 2) seja novamente examinado pela Corte a quo, na hipótese de o acórdão recorrido divergir da orientação de Tribunal superior.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PASEP. MATÉRIA REPETITIVA. . MECANISMO PARA POSSIBILITAR ÀS INSTÂNCIAS DE ORIGEM O JUÍZO DE RETRATAÇÃO NA FORMA DO ART. 543-C, § 7º, E 543-B, § 3º, DO CPC/1973 E 1.040 E SEGUINTES DO CPC/2015. RECURSO ESPECIAL PREJUDICADO.
