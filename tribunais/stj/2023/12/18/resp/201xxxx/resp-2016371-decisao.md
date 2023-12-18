@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ESTADO DO PARANÁ, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ , assim ementado:
+"APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICO ESTADUAL. MÉDICO. ACUMULAÇÃO LÍCITA DEDOIS CARGOS. ART. 37, XVI, "C", DA CF. TETO CONSTITUCIONAL. RUBRICA DENOMINADA "ABATE-TETO". INCIDÊNCIA SOBRE ASOMATÓRIA DOS VENCIMENTOS. IMPOSSIBILIDADE. LIMITAÇÃO QUEDEVE SER APLICADA DE FORMA ISOLADA PARA CADA CARGO ERESPECTIVO VENCIMENTO. PRECEDENTES DO STF E DESTA CÂMARA. JUROS E CORREÇÃO. CORREÇÃO MONETÁRIA. INDÍCE. IPCA-E. JUROS. TERMO INICIAL. CITAÇÃO. SÚMULA VINCULANTE Nº 17. OBSERVÂNCIA. VERBA HONORÁRIA. ARBITRAMENTO POSTERGADO PARA ALIQUIDAÇÃO. SENTENÇA MODIFICADA EM REMESSA NECESSÁRIA. APELOS PARCIALMENTE PROVIDOS" (fl. 344e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 352/354e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DECLARATÓRIOS. APELAÇÃO CÍVEL. AUSÊNCIA DE VÍCIOS. MERA IRRESIGNAÇÃO. PRETENSÃO DE REJULGAMENTO. PREQUESTIONAMENTO DESCABIDO. RECURSO INADEQUADO. PRECEDENTES DO STJ. EMBARGOS REJEITADOS" (fl. 363e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 1º e 3º do Decreto nº 20.910/32.
+Para tanto, sustenta:
+"3. Em face desse v. acórdão, o Estado do Paraná opôs embargos de declaração, visando aclarar o equívoco em que incorreu o Tribunal de Justiça, sobretudo diante do que determina a Súmula 85/STJ, que estabelece como marco para contagem retroativa do direito de repetição a data do ajuizamento da demanda (25/06/2018) e, não, a data do protocolo administrativo (11/09/2017), marco absolutamente desinfluente nesta demanda.
+(..)
+5. Ora, ao assim proceder, mantendo a sentença e concedendo ao autor recorrido o direito de obter a repetição quinquenal de valores desde a data do pedido administrativo (11/09/2017), quando deveria ter adotado como marco inicial a "data do ajuizamento da demanda"(25/06/2018),o Tribunal de Justiça do Paraná claramente ofendeu o comando dos artigos 1º e3º do Decreto 20.910/32.
+(..)
+10. De consequência, impõe-se seja reformado o v. acórdão na parte relativa à prescrição, para o fim de que, reconhecendo-se a violação aos artigos 1º e 3º do Decreto nº 20.910/32, estabeleça-se que a condenação do Estado do Paraná relativamente às diferenças postuladas pela parte autora está adstrita ao quinquênio anterior à "data da propositura da demanda", nos termos do que preconiza o enunciado da Súmula 85/STJ" (fls. 391/392e).
+Por fim, requer "seja conhecido e provido este recurso especial, para o fim de que, reconhecendo-se a violação aos artigos 1º e 3º do Decreto 20.910/32, estabeleça-se que a prescrição do direito às diferenças postuladas pela parte autora está adstrita ao quinquênio anterior à data do ajuizamento da demanda, nos termos do que preconiza o enunciado da Súmula 85/STJ" (fl. 393e).
+Contrarrazões a fls. 394/399e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 400/401e).
+A irresignação não merece conhecimento.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "Quanto à prescrição, aplicam-se os arts. 1º e 3º do Decreto nº 20.910/32, ou seja, cinco anos contados da data do ato ou fato do qual se originarem, no caso concreto, a data do protocolo administrativo em que o autor questionou a administração pública acerca dos descontos indevidos (11/09/2017 - mov. 1.7/1.10), mostrando-se correta a sentença" (fl. 346e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a este Tribunal, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
+ EMENTA
