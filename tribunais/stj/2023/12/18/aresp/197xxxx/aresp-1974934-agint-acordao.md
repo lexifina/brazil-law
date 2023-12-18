@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA DA JUSTIÇA FEDERAL. SENTENÇA TRANSITADA EM JULGADO. PERDA DO OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Transitada em julgado a sentença, que decidiu a causa em que proferida a decisão impugnada no Agravo de Instrumento em exame, forçoso reconhecer a perda do objeto do presente Recurso Especial. Nesse sentido: STJ, AgInt no REsp 1.632.216/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 19/08/2021; AgInt no AgInt no AREsp 1.638.596/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 14/06/2021; AgInt no REsp 1.604.323/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 16/06/2020; REsp 1.731.814/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/08/2018; AgInt no REsp 1.668.821/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 02/10/2017.
+III. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto por ARIETE SACKSER DA SILVA contra decisão de minha lavra, que conheceu do Agravo, para não conhecer do Recurso Especial (fls. 724/729e).
+Inconformada, sustenta a parte agravante que "houve afronta ao artigo 946, do Código de Processo Civil, o qual esclarece que a existência de sentença, ou a fixação da competência pela Justiça Federal, não é causa de perda do objeto do Agravo de Instrumento, isto porque especifica que o mencionado recurso deverá ser julgado ANTES da Apelação" (fl. 735e).
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso (fl. 741/750e).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.974.934 - PR (2018/0202297-7)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+ARIETE SACKSER DA SILVA
+ADVOGADOS
+:
+LOUISE RAINER PEREIRA GIONEDIS E OUTRO(S) - PR008123
+RAFAEL MACEDO DA ROCHA LOURES E OUTRO(S) - PR036728
+HUGO FRANCISCO GOMES E OUTRO(S) - PR017527
+SANDRO RAFAEL BONATTO E OUTRO(S) - PR022788
+VANESSA LEAL E OUTRO(S) - PR043072
+AGRAVADO
+:
+CAIXA ECONÔMICA FEDERAL
+ADVOGADO
+:
+VERA LUCIA BICCA ANDUJAR E OUTRO(S) - RS016912
+AGRAVADO
+:
+SUL AMERICA COMPANHIA NACIONAL DE SEGUROS
+ADVOGADOS
+:
+MARCO AURELIO MELLO MOREIRA E OUTRO(S) - RS035572
+CARLA PINTO DA COSTA E OUTRO(S) - RS061655
+PAULO ANTÔNIO MÜLLER E OUTRO(S) - PR067090
+PAULA COELHO FREITAS E OUTRO(S) - RS107236
+INTERES.
+:
+UNIÃO
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA DA JUSTIÇA FEDERAL. SENTENÇA TRANSITADA EM JULGADO. PERDA DO OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Transitada em julgado a sentença, que decidiu a causa em que proferida a decisão impugnada no Agravo de Instrumento em exame, forçoso reconhecer a perda do objeto do presente Recurso Especial. Nesse sentido: STJ, AgInt no REsp 1.632.216/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 19/08/2021; AgInt no AgInt no AREsp 1.638.596/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 14/06/2021; AgInt no REsp 1.604.323/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 16/06/2020; REsp 1.731.814/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/08/2018; AgInt no REsp 1.668.821/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 02/10/2017.
+III. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Com efeito, tal como destacado na decisão agravada, com o trânsito em julgado da sentença, que decidiu a causa em que proferida a decisão impugnada no Agravo de Instrumento em exame, forçoso reconhecer a perda do objeto do presente Recurso Especial.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SFH. COBERTURA SECURITÁRIA. APÓLICE PÚBLICA. COMPETÊNCIA. JUSTIÇA FEDERAL. SUPERVENIÊNCIA DA SENTENÇA NA AÇÃO PRINCIPAL COM TRÂNSITO EM JULGADO. PERDA DE OBJETO DO RECURSO ESPECIAL.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que reconheceu a competência absoluta da Justiça Federal para julgar o feito. No Tribunal a quo a decisão foi mantida.
+II - A superveniência da sentença, proferida no feito principal, enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento.
+III - O acórdão recorrido foi prolatado em agravo de instrumento, nos autos de ação relativa à discussão acerca de reparação de danos em imóvel financiado pelo Sistema Financeiro da Habitação, nos quais foi determinada a remessa ao Juízo federal em razão do interesse da CEF.
+IV - Conforme se extrai-se no decisum, em consulta ao sítio oficial do Tribunal a quo, confirma-se a informação de que a ação originária já teve desfecho de mérito, proferida em 10/8/2018, julgando improcedente a ação, decisão modificada em via recursal, extinguindo-se o feito sem resolução de mérito, em razão de o contrato de financiamento em discussão já ter sido encerrado. Nesse sentido: AgInt no REsp n. 1.712.508/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/5/2019, DJe 22/5/2019 e EDcl no AgInt no AREsp n. 1.344.445/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2019, DJe 10/6/2019.
+V - Agravo interno improvido" (STJ, AgInt no REsp 1.632.216/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 19/08/2021).
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. TELEFONIA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS SOCIETÁRIOS. REQUERIMENTO ADMINISTRATIVO. PAGAMENTO DA TAXA DO SERVIÇO. INEXISTÊNCIA. INTERESSE DE AGIR. AUSÊNCIA. EXTINÇÃO DA DEMANDA SEM EXAME DO MÉRITO. DECISÃO MANTIDA.
+1. Conforme a jurisprudência do STJ, "a superveniência do trânsito em julgado de sentença de mérito proferida no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão interlocutória" (AgInt no REsp n. 1.225.217/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018), o que ocorreu.
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a decisão agravada pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos.
+3. De acordo com a jurisprudência pacífica desta Corte Superior, "o comando da Súmula 389/STJ, o qual impõe o pagamento do custo do serviço como requisito de procedibilidade da ação de exibição de documentos, ajuizada em face da sociedade anônima, não se restringe à ação cautelar destinada a esse fim, aplicando-se também aos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira, ainda que o pedido tenha sido deduzido de forma incidental" (AgInt no REsp n. 1.908.879/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/4/2021, DJe 29/4/2021).
+4. E ainda, "a não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira e do pagamento dos custos do serviço revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória" (AgInt no REsp 1.788..584/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/3/2020, DJe 19/3/2020).
+5. No caso, a Corte local, reconhecendo o interesse de agir da agravante na exibição incidental dos contratos de telefonia, mesmo inexistindo requerimento administrativo prévio e pagamento do custo do serviço, dissentiu de tal entendimento. Portanto, era de rigor extinguir a demanda sem resolução do mérito, por falta de interesse de agir.
+6. Agravo interno a que se nega provimento" (STJ, AgInt no AgInt no AREsp 1.638.596/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 14/06/2021).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO PRINCIPAL. TRÂNSITO EM JULGADO. PERDA DO OBJETO.
+1. Consoante a jurisprudência deste Superior Tribunal, a prolação de sentença de mérito, cuja cognição é exauriente, enseja a perda de objeto do recurso especial interposto contra acórdão que examinou agravo de instrumento que se insurge contra decisão interlocutória. Precedentes.
+2. Caso em que já houve o trânsito em julgado do processo principal, circunstância que, de fato, acarreta a perda do objeto do apelo especial.
+3. Agravo interno desprovido" (STJ, AgInt no REsp 1.604.323/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 16/06/2020).
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SENTENÇA SUPERVENIENTE. TRÂNSITO EM JULGADO DA AÇÃO PRINCIPAL. RECURSO PREJUDICADO.
+Trata-se, na origem, de Agravo de Instrumento interposto com o objetivo de assegurar tutela antecipada para a realização de cirurgia ou a disponibilização dos valores necessários à realização do procedimento cirúrgico na rede privada de saúde. Como bem assinalado pelo Ministério Público Federal, a União apresentou petição e documentos nas fls. 260-273 informando a improcedência da sentença e o respectivo trânsito em julgado da ação.
+A superveniente prolação de sentença de improcedência e o respectivo trânsito em julgado da ação tornam prejudicada a análise da pretensão recursal, em razão da perda do objeto. A propósito: AgInt no AREsp 293.638/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/8/2016, DJe 1/9/2016; AgRg no REsp 1.393.935/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 17/3/2016, DJe 29/3/2016; REsp 1.179.115/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 11/5/2010, DJe 12/11/2010.
+Recurso Especial não provido" (STJ, REsp 1.731.814/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/08/2018).
+"PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SEGURO. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE RECONHECEU A INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. SENTENÇA DE MÉRITO RECONHECENDO A ILEGITIMIDADE PASSIVA. PERDA SUPERVENIENTE DO OBJETO. RECURSO PREJUDICADO. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Conforme decisão proferida pela Corte de base, houve julgamento de mérito, com trânsito em julgado, da ação originária do agravo de instrumento subjacente ao presente recurso especial. Nesse contexto, é forçoso reconhecer a perda do objeto do apelo nobre, que discute a competência para processar a demanda que já foi julgada. Precedentes.
+3. Os segurados não apresentaram argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para julgar prejudicado o recurso especial por eles manejado.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa" (STJ, AgInt no REsp 1.668.821/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 02/10/2017).
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
