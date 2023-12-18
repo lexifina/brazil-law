@@ -1,0 +1,110 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO AUSÊNCIA. IMPUGNAÇÃO. NÃO OCORRÊNCIA.
+1. "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer dele s suficientes, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126 do STJ).
+2. Conforme entendimento sedimentado nas Súmulas 283 e 284 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pelo ESTADO DO RIO GRANDE DO SUL  contra  a decisão  de minha lavra em que conheci do agravo para não conhecer do recurso especial em face da aplicação das Súmulas 126 do STJ, 283 e 284 do STF.
+No  agravo  interno  (e-STJ  fls.  240/245) o ESTADO alega que "as razões recursais voltam-se para violação de dispositivos infraconstitucionais  ..  já que o debate não se estende para o nível constitucional. Logo, correta interposição do recurso especial em detrimento ao apelo extraordinário, de modo a se afastar o invocado óbice da Súmula 126 do STJ" (e-STJ fl. 244).
+Diz que deve "ser repelida a incidência do óbice da Súmula 284 do STF na medida que  ..  as normas reputadas violadas  arts. 108, I, 112, II, e 180 do CTN e o art. 63, § 2º, da Lei n. 9.430/1996  carregam em si comando apto a atacar o acórdão de origem" (e-STJ fl. 244).
+Acerca da Súmula 283 do STF, pondera que "o especial fazendário impugnou todos os fundamentos que alicerçaram o acórdão de origem" (e-STJ fl. 244).
+Reafirma a necessidade de condenar a "contraparte ao pagamento da multa moratória em virtude da revogação da liminar que havia suspendido o crédito tributário" ( e-STJ fl. 241). Afirma que "o CTN somente autoriza o uso da analogia quando há ausência de disposição expressa. No presente caso, há que se ressaltar que o pagamento da multa moratória se encontra expressamente previsto em legislação local - Lei estadual n. 6.537/1973 - que versa sobre a multa moratória no caso de pagamento em atraso do ICMS" (e-STJ fl. 242).
+A  impugnação não foi oferecida.
+É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO AUSÊNCIA. IMPUGNAÇÃO. NÃO OCORRÊNCIA.
+1. "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer dele s suficientes, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126 do STJ).
+2. Conforme entendimento sedimentado nas Súmulas 283 e 284 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+No caso dos autos, o recurso especial tem origem no julgamento de agravo de instrumento que tem a seguinte ementa (e-STJ fls. 125):
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. DEPÓSITO INTEGRAL E CONCESSÃO DE MEDIDA LIMINAR. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. MULTA MORATÓRIA. NÃO INCIDÊNCIA.
+O depósito integral do valor controvertido cumulado com a concessão de medida liminar nos autos do Mandado de Segurança, suspendendo a exigibilidade do crédito tributário, na forma do art. 151, II e IV, do CTN c/c Súmula 112 do STJ, impede a prática de atos por parte da autoridade fazendária contra o contribuinte visando a cobrança não apenas do crédito principal como também da multa acessória.
+Inaplicabilidade da Súmula 405 do STF à hipótese dos autos, diante da incidência do art. 63 da Lei Federal nº 9.430/96 c/c art. 108, I, do CTN.
+Precedentes desta Corte.
+Mantida a decisão que afastou a incidência da multa no período em que o crédito tributário estava suspenso por decisão liminar.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os fundamentos do Tribunal de origem (e-STJ fls. 119/124):
+Cinge-se a controvérsia recursal acerca da possibilidade da incidência de multa moratória sobre os valores depositados judicialmente em sede de Mandado de Segurança após a revogação da medida liminar.
+Adianto ser caso de desprovimento do recurso.
+De acordo com os documentos que acompanham o traslado, verifica-se que a parte autora efetuou o depósito judicial do valor integral do tributo, para fins de suspender a exigibilidade, na forma prevista pelo art. 151, II, do CTN e pela Súmula 112 do STJ, o que fez cessarem os efeitos da mora (evento 81, GUIADEP2), a teor do que estabelece o art. 9º, §4º, da LEF, in verbis:
+Art. 9º - Em garantia da execução, pelo valor da dívida, juros e multa de mora e encargos indicados na Certidão de Dívida Ativa, o executado poderá:
+I - efetuar depósito em dinheiro, à ordem do Juízo em estabelecimento oficial de crédito, que assegure atualização monetária;
+ ..
+§ 4º - Somente o depósito em dinheiro, na forma do artigo 32, faz cessar a responsabilidade pela atualização monetária e juros de mora.
+É consabido, pois, que uma vez depositado o valor integral e em dinheiro, a correção monetária do montante cabe à instituição financeira depositária, conforme verbete da Súmula 179 do STJ, in verbis:
+O estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos.
+Em razão disso, caso o vencedor seja o contribuinte, levantará ele o valor depositado ou, vencido, o montante depositado será convertido em renda ao ente estatal. Em outras palavras, ao final não são exigíveis novos juros moratórios ou atualização do depósito já realizado, sob pena de bis in idem (nesse sentido: RESP 1120846/PR, Rel. Ministro Aldir Passarinho Junior, Quarta Turma, Julgado em 10/08/2010, DJe 03.09.2010).
+Reputa-se, portanto, inviável a incidência de multa moratória sobre os valores depositados judicialmente, conforme bem pontuado pelo MM. Magistrado a quo na decisão agravada:
+(..) o Tribunal de Justiça do Estado do Rio Grande do Sul, amparado no julgamento do EREsp n. 83.996, pela Primeira Seção do Superior Tribunal de Justiça, firmou posicionamento jurisprudencial no sentido de que "no período de vigência da medida liminar que suspendeu a exigibilidade do crédito tributário (art. 151, IV, do CTN), posteriormente revogada, incide correção monetária e juros de mora ou a Taxa SELIC, se for o caso. Afastada a imposição de multa de ofício".
+O entendimento advém da interpretação do artigo 63, caput e § 2º, da Lei 9.430/96, segundo o qual:
+Art. 63. Na constituição de crédito tributário destinada a prevenir a decadência, relativo a tributo de competência da União, cuja exigibilidade houver sido suspensa na forma dos incisos IV e V do art. 151 da Lei nº 5.172, de 25 de outubro de 1966, não caberá lançamento de multa de ofício.
+(..)
+§ 2º A interposição da ação judicial favorecida com a medida liminar interrompe a incidência da multa de mora, desde a concessão da medida judicial, até 30 dias após a data da publicação da decisão judicial que considerar devido o tributo ou contribuição.
+Com efeito, não há que se falar em imposição de multa moratória quando o "atraso" no pagamento se deu em razão de decisão judicial, posteriormente revogada, que suspendeu a exigibilidade do tributo por determinado período.
+No caso, a parte Impetrante obteve o deferimento da liminar, em 29/03/2021, para suspender a exigibilidade da cobrança do diferencial de alíquotas de ICMS, com fundamento no artigo 151, inciso IV, do Código Tributário Nacional.
+No dia 19/10/2021 o sujeito passivo foi intimado sobre o acórdão que deu provimento ao Recurso de Apelação interposto pelo Estado do Rio Grande do Sul, denegando a segurança anteriormente concedida, com a cassação da ordem liminar.
+Nesse sentido, a parte demandante gozava do prazo de 30 dias, isto é, até 17/11/2021, para realizar o pagamento do crédito tributário vencido na vigência da liminar, sem a incidência da multa moratória.
+Portanto, o depósito judicial realizado no dia 05/11/2021, no montante de R$ 31.668,41 (trinta e um mil, seiscentos e sessenta e oito reais e quarenta e um centavos), que corresponde ao principal declarado em Guia Informativa, corrigido monetariamente pela Taxa SELIC (evento 109, PLAN2), reflete a integralidade do crédito tributário devido pela Impetrante.
+Consequentemente, não há que se falar em complementação do valor depositado e já liberado em favor do Estado do Rio Grande do Sul, sendo impositiva a extinção dos débitos n. 46837779, n. 47258632, n. 47464364, n.
+47602570 e n. 42061962, pelo pagamento, nos termos do art. 156, inciso I, do Código Tributário Nacional.
+Compete mencionar que a concessão de liminar, em sede de Mandado de Segurança (art. 151, IV do CTN), suspendendo a exigibilidade do crédito tributário também impede a incidência de multa e juros, pois não se pode justificar a fluência dos acessórios quando o crédito principal está suspenso por ordem judicial. Tal entendimento, conforme já mencionado na decisão agravada, decorre do disposto no art. 63 da Lei Federal nº 9.430/96, aplicado por analogia ao caso concreto, na forma do art. 108, I, do CTN, in verbis:
+Art. 63. Não caberá lançamento de multa de ofício na constituição do crédito tributário destinada a prevenir a decadência, relativo a tributos e contribuições de competência da União, cuja exigibilidade houver sido suspensa na forma do inciso IV do art. 151 da Lei nº 5.172, de 25 de outubro de 1966.
+§ 1º O disposto neste artigo aplica-se, exclusivamente, aos casos em que a suspensão da exigibilidade do débito tenha ocorrido antes do início de qualquer procedimento de ofício a ele relativo.
+§ 2º A interposição da ação judicial favorecida com a medida liminar interrompe a incidência da multa de mora, desde a concessão da medida judicial, até 30 dias após a data da publicação da decisão judicial que considerar devido o tributo ou contribuição.
+..
+Art. 108. Na ausência de disposição expressa, a autoridade competente para aplicar a legislação tributária utilizará sucessivamente, na ordem indicada:
+I - a analogia;
+Além disso, para complementar as razões de decidir, utilizo-me da fundamentação apresentada pelo e. Des. Adão Sérgio Nascimento Cassiano, no julgamento dos Embargos Infringentes nº 70013051800, que bem elucida a controvérsia. Confira-se:
+"(..)
+No que atina com a multa punitiva aplicada, penso que, embora a decisão judicial no mandado de segurança que autorizou a conduta da embargada- impetrante não tivesse o condão de impedir o procedimento administrativo do lançamento tributário, por óbvio que tinha, pelo menos, o efeito de afastar eventual caráter ilícito da conduta.
+E o raciocínio é simples. Não pode aquele que se socorre do Poder Judiciário, com tese no mínimo plausível, ser equiparado a quem sonega o imposto ou age em contrariedade à legislação tributária, sendo pego pela fiscalização e tentando, posteriormente, livrar-se da exação fiscal por recurso ao Judiciário.
+E a tese, aliás, era mais do que plausível naquele então, tanto que acolhida em sede liminar e em decisão deste Tribunal - que tinha sumulado a matéria, no verbete nº 16 - só vindo a ser modificado o entendimento no E. STF (fl. 112).
+Como se vê, a parte, prudentemente, buscou a chancela prévia do Poder Judiciário à sua tese, o que foi obtido, ao menos temporariamente. Trata-se, pois, de situação evidentemente diferente daquela em que o sujeito passivo, temerariamente e com intuito de sonegação, procura reduzir ou eliminar o ônus tributário. E sendo situação diferente, como tal deve ser tratada, não se verificando, por óbvio, qualquer das hipóteses que caracterizam a incidência de multa, muito menos qualificada, tendo em vista o princípio vetor de Direito Tributário que é o da tipicidade e o da legalidade (art. 150, I, da CF/88).
+Ademais, amolda-se a situação à previsão do art. 112, II, do CTN, devendo-se interpretar a legislação tributária que define infrações - in casu, a Lei Estadual nº 6.537/73, art. 9º, III - de maneira mais favorável ao contribuinte quando, como no caso, havia séria e fundada dúvida quanto à natureza e às circunstâncias materiais do fato, o que ensejou decisões favoráveis do Poder Judiciário antes da decisão definitiva do E. STF, que foi desfavorável à tese da ora embargada.
+No mais, não havendo legislação estadual a amparar expressamente a hipótese, tenho que plenamente aplicável no caso a analogia (art. 108, I, § 1º, do CTN), a qual é vedada tão-somente para fundamentar a dispensa de cobrança de tributos, a teor do § 1º da mesma regra citada, entendimento esse, aliás, já consagrado na regra do art. 63 da Lei Federal nº 9.430/96, no sentido da inaplicabilidade da multa de ofício em situações semelhantes, na esfera da União.
+Tal interpretação, ademais, faz efetiva justiça ao caso concreto, resolvendo a lide com equidade (art. 108, § 2º, do CTN) a qual é vedada, apenas, para fundamentar a dispensa de tributos devidos, e não para a dispensa de imposição de multa, de acordo e em coerência com os fundamentos acima expostos."  Grifado  Portanto, como a parte agravada estava, à época, amparada por medida liminar suspendendo a exigibilidade do crédito tributário, não cabe ao Estado impor multa e juros sobre o principal durante o período de vigência da liminar.  dizer: não cabe ao Estado punir o cidadão porque, crendo que tinha direito, recorreu ao Poder Judiciário.
+O argumento apresentado pelo Estado do Rio Grande do Sul, em suas razões recursais, no sentido da aplicabilidade da Súmula 405 do Supremo Tribunal Federal, igualmente não merece prosperar. Conforme já pontuado, a suspensão da exigibilidade através de decisão judicial impede a prática de atos por parte da autoridade fazendária contra o contribuinte visando à cobrança do crédito tributário principal, de modo que a exigibilidade dos acessórios (juros e multa) também deverão ser suspensos por consequência lógica.
+Nesse sentido, inclusive, já se manifestou este E. Tribunal de Justiça:
+ ..
+Destarte, a manutenção da decisão agravada, por seus próprios termos, é a medida que se impõe sobremaneira.
+Pelo exposto, voto por negar provimento ao agravo de instrumento.
+No especial obstaculizado (e-STJ fls. 136/148), o Estado recorrente apontou violação dos arts. 108, I, 112, II, e 180 do CTN e do art. 63, § 2º, da Lei n. 9.430/1996, afirmando, em síntese, que a revogação da liminar em razão da denegação da segurança produz efeitos ex tunc, restabelecendo todos os deveres do contribuinte, entre eles o pagamento do tributo no vencimento legal, pena dos ônus decorrentes" (e-STJ fl. 141).
+Pois bem.
+A decisão deve ser mantida por seus próprios fundamentos.
+O acórdão recorrido teve por fundamentação matéria constitucional (art. 150, I, da CF), e a parte recorrente não cuidou de interpor o pertinente recurso extraordinário para questionar esse ponto do acórdão recorrido, o que atrai o óbice contido na Súmula 126 do STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficientes, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário").
+Transcrevo do voto condutor do acórdão recorrido (e-STJ fl. 121):
+E sendo situação diferente, como tal deve ser tratada, não se verificando, por óbvio, qualquer das hipóteses que caracterizam a incidência de multa, muito menos qualificada, tendo em vista o princípio vetor de Direito Tributário que é o da tipicidade e o da legalidade (art. 150, I, da CF/88).
+No tema, o seguinte julgado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ. INCIDÊNCIA.
+1. Ao concluir que ora agravada não se enquadra como prestadora de serviços, o Tribunal a quo amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Todavia, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgRg no AgRg no AREsp 822.910/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 24/09/2018).
+Demais disso, a seguinte fundamentação do julgado recorrido não foi objeto de impugnação nas razões recursais (e-STJ fl. 119):
+De acordo com os documentos que acompanham o traslado, verifica-se que a parte autora efetuou o depósito judicial do valor integral do tributo, para fins de suspender a exigibilidade, na forma prevista pelo art. 151, II, do CTN e pela Súmula 112 do STJ, o que fez cessarem os efeitos da mora (evento 81, GUIADEP2), a teor do que estabelece o art. 9º, §4º, da LEF  ..
+A parte recorrente diz, no agravo interno, que teria impugnado a fundamentação ao afirmar que (e-STJ fl. 244):
+No entanto, observa-se o excerto abaixo do recurso especial (e-STJ - fl. 148) em que o trecho destacado na monocrática se encontra devidamente rebatido:
+Por último, tem que ficar bem claro que o pagamento do tributo estadual depois da revogação da liminar, mediante depósito judicial, como feito no caso sub judice, não ocorreu pelo montante integral do imposto devido conforme posto no julgado recorrido, porque, nele (depósito), falou o valor correspondente à multa moratória expressamente prevista na legislação estadual.
+Ora, a leitura do trecho em destaque põe em evidência que essas razões não são aptas a desconstituir o entendimento firmado no Tribunal de origem.
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto, " ..  não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento  .. " (AREsp 212401, rel. Ministro Mauro Campbell Marques, DJe de 22/06/2022).
+No tema, reitero que a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles." Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015.
+APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..  III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..  VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Vale acrescentar que também não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..  II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..  VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Assim, o recurso não merece acolhimento.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
