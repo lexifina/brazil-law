@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SOBRE PARTILHA. BENS PARTILHADOS. INVENTÁRIO. VALOR DA CAUSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 278/286) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 271/273).
+Em suas razões, a parte agravante alega que "a r. decisão agravada equivoca-se por completo ao afirmar que incidiria no caso a Súmula 7 desse Eg. STJ, sob o fundamento de que seria necessário o reexame de fatos e provas para alterar o decidido pelo v. acórdão" (e-STJ fl. 282).
+Assevera que se "necessita apenas da análise e comparação das considerações dos vv. acórdãos proferidos pelo Eg. Tribunal a quo sobre como: (a) os bens imóveis indicados pelo Agravante não foram objeto da partilha dos bens deixados por M. K.; e (b) os bens imóveis indicados pelo Agravante correspondem apenas a frações do imóvel objeto da matrícula nº (..) e não ao imóvel todo" (e-STJ fl. 283).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação às fls. 292/299 (e-STJ).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SOBRE PARTILHA. BENS PARTILHADOS. INVENTÁRIO. VALOR DA CAUSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 271/273):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de afronta a dispositivo legal, bem como por incidência da Súmula n. 7/STJ (e-STJ fls. 238/239).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 200):
+Ação de sobrepartilha. Sentença que corrigiu o valor atribuído à causa e julgou improcedente o pedido. Valor da causa. Correspondência com a expressão econômica pretendida. Art. 259 do CPC. Inexistência de prévia atribuição na petição inicial, devendo ser considerado, como tido pelo juízo "a quo", o valor estimado em cálculo de ITCMD prévio. Pretensão que não guarda relação com bens omitidos por ocasião da partilha ocorrida como inventário. Foge do escopo da ação de sobrepartilha discussão quanto à alegada fraude perpetrada contra herdeiras. Sentença mantida. Apelo improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 212/215).
+Nas razões do recurso especial (e-STJ fls. 217/226), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) art. 292 do CPC/2015, pois "dentre nove imóveis integrante de uma única matrícula, apenas 3 deles, ou um terço do total, eram objeto do pedido de sobrepartilha" (e-STJ fl. 223). "Entretanto, o v. acordão, assim como a r. sentença se basearam no valor total do bem (que encerra uma única matrícula com nove terrenos) para a atribuição do valor da causa" (e-STJ fl. 224);
+(ii) art. 669, III, do CPC/2015, porque "os bens objeto do litígio (três terrenos) tornaram ao estado anterior, derivando dai a necessidade de sobrepartilha dos mesmos. A r. sentença reformada determinava a compensação por outros bens, porém, isso violaria a decisão do E. TJSP que anulou a venda dos três imóveis que são objetos dessa sobrepartilha com lastro no inciso II do artigo 669 do CPC, além do que, os bens possuem maior valor e isso altera significativamente a partilha que é outro motivo para o acolhimento da sobrepartilha" (e-STJ fl. 227).
+Nesses termos, requereu o provimento do recurso (e-STJ fl. 226).
+No agravo (e-STJ fls. 242/247), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 250/256 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem decidiu com base nos seguintes fundamentos:
+O valor da causa deve corresponder à expressão econômica do pedido conforme dispõe o artigo 259 do CPC. Logo, o pedido tem como expressão econômica todo o patrimônio que se deseja partilhar, de modo que, consequentemente, o valor da causa há de ser aquele referente ao montemor (totalidade dos bens sucessíveis, antes de deduzidas as despesas e encargos). E, pelo que se depreende, os bens dos quais se pretende a sobrepartilha estão registrados no cartório imobiliário da cidade sob matrícula nº 22.968, com valor do bem estimado em cálculo de ITCMD em R$ 29.500,00, o qual foi utilizado como parâmetro para fixação do valor da causa, ora mantido, observado ainda que a própria parte autora, ora apelante, não cuidou de atribuir valor à causa na peça vestibular. (..). No caso dos autos, a r. sentença monocrática julgou improcedente o pedido com a observação de que os bens descritos na inicial já foram partilhados por ocasião do inventário, ausente assim a característica necessária de bem desconhecido à época. (..). Com efeito, não cabe nos estreitos limites da ação de sobrepartilha a discussão pretendida sobre a alegada fraude, não havendo que se falar em descumprimento da legislação, eis que cumprida para os termos em que proposta a ação. (e-STJ fls. 201/202).
+Na decisão que rejeitou os aclaratórios, a Corte local asseverou:
+Ademais, o simples fato da única matrícula englobar 9 imóveis distintos não permite concluir de modo automático a pertinência da fração ideal indicada. Por sua vez, a improcedência da demanda de sobrepartilha teve como fundamento estarem os bens indicados já partilhados por ocasião do inventário, excluídos, portanto, das hipóteses legais de cabimento da ação, o que prescinde de maiores ilações. (e-STJ fl. 215).
+No que diz respeito à alegação de que "dentre nove imóveis integrante de uma única matrícula, apenas 3 deles, ou um terço do total, eram objeto do pedido de sobrepartilha" (e-STJ fl. 223), verifica-se que a tese não foi apreciada pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+De todo modo, ainda que fosse ultrapassado o óbice da ausência de prequestionamento, a pretensão encontraria impedimento da Súmula n. 7/STJ, porque, para rever o valor da causa, no sentido de apurar quais bens imóveis eram objeto da sobrepartilha, seria necessário o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte.
+Por sua vez, quanto à suscitada violação do art. 669, III, do CPC/2015, para modificar a conclusão do acórdão impugnado de que os bens indicados foram partilhados por ocasião do inventário, inexistindo qualquer das hipóteses legais de cabimento da sobrepartilha, também seria imprescindível a incursão no campo fático-probatório. Incide, portanto, a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Nos termos da decisão ora agravada, a tese de que, "dentre nove imóveis integrante de uma única matrícula, apenas 3 deles, ou um terço do total, eram objeto do pedido de sobrepartilha" (e-STJ fl. 223) não foi examinada previamente pelo Tribunal de origem, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil, o que não ocorreu. Assim, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Convém mencionar que, mesmo se superado o óbice da ausência de prequestionamento, a análise encontraria impedimento na Súmula n. 7/STJ, porquanto aferir o valor da causa, no sentido de apurar quais bens imóveis foram objeto da sobrepartilha, demandaria incursão no campo fático-probatório dos autos, o que não é admitido no âmbito desta Corte, a teor da súmula citada.
+No que diz respeito à afirmada violação do art. 669, III, do CPC/2015, segundo assinalou a decisão agravada, para alterar a conclusão do acórdão impugnado, de que os bens apontados foram partilhados por ocasião do inventário, bem como sobre a ausência de qualquer das hipóteses legais de cabimento da sobrepartilha, seria necessário revolver o conjunto fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Portanto, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
