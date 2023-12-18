@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por ausência de demonstração da violação do art. 833, IX, do CPC/2015 e incidência das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 206/208).
+O acórdão recorrido está assim ementado (e-STJ fl. 155):
+Execução de título extrajudicial. Decisão agravada que rejeitou a impugnação à penhora apresentada pela devedora. Manutenção, nos termos do art. 252, do RITJSP. A grave crise financeira destacada pela agravante, não a exime do pagamento do crédito exequendo. In casu, não ficou demonstrado que eventuais valores a serem recebidos pela agravada no processo n. 1024304-57.2018.8.26.0053 decorra de repasse de recursos públicos destinados à saúde, de aplicação compulsória, a teor do que dispõe o art. 833, IX, do CPC. Vale dizer, que se trata de repasse de verbas do poder público destinadas, exclusivamente, à execução de serviços no âmbito do SUS. Portanto, fica mantida a constrição. Recurso desprovido.
+No recurso especial (e-STJ fls. 164/174), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa ao art. 833, IX, do CPC/2015.
+Sustentou a impenhorabilidade de recursos públicos destinados ao sistema de saúde.
+Defendeu que "a penhora no rosto dos autos deferida pelo MM. Juízo, portanto, não se demonstra congruente, diante da impossibilidade de recair penhora sobre o processo indicado, tendo em vista que os valores a serem recebidos por PRECATÓRIO se tratam de verbas públicas impenhoráveis" (e-STJ fl. 172).
+Aduziu que "restou devidamente comprovado que os valores a serem recebidos são destinados única e exclusivamente para atendimento aos pacientes que são atendidos pelo SUS - Sistema Único de Saúde" (e-STJ fl. 173).
+Ao final, requereu o provimento do recurso, a fim de que seja reformado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ fls. 177/205).
+No agravo (e-STJ fls. 211/215), afirma a presença de todos os requisitos de admissibilidade do especial e reitera razões de mérito do recurso.
+Foi oferecida contraminuta (e-STJ fls. 227/241).
+Juízo negativo de retratação (e-STJ fl. 242).
+É o relatório.
+Decido.
+No tocante à impenhorabilidade, o Tribunal de origem, com base nos fatos e nas provas dos autos, manteve a decisão que concluiu que o direito ao crédito em favor da recorrente não possui caráter de verba pública voltada especificamente ao atendimento de serviços do Sistema Único de Saúde - SUS, assim consignando (e-STJ fls. 159/161):
+A grave crise financeira destacada pela agravante, não a exime do pagamento do crédito exequendo.
+(..)
+O processo n.1024304-57.2018.8.26.0053, refere-se a ação monitória movida pela agravante em face do IAMSPE visando o pagamento de notas fiscais emitidas pela prestação de serviços médico-hospitalares de internação, ambulatório e pronto socorro em função de termo de credenciamento, envolvendo vultoso crédito (R$ 2.941.105, 94 em maio de 2018). Ou seja, visa o recebimento da contraprestação do serviço realizado ao plano de saúde.
+(..)
+Em resumo, não ficou demonstrado que eventuais valores a serem recebidos pela agravada no referido processo decorra de repasse de recursos públicos destinados à saúde, de aplicação compulsória, a teor do que dispõe o art. 833, IX, do CPC. Vale dizer, que se trata de repasse de verbas do poder público destinadas, exclusivamente, à execução de serviços no âmbito do SUS. Portanto, fica mantida a constrição; correta a rejeição da impugnação.
+Sobre o tema, o Superior Tribunal de Justiça considera que o intuito de fazer prevalecer o interesse coletivo em relação ao particular, justifica a impenhorabilidade de recursos públicos recebidos por instituições privadas para aplicação compulsória em educação, saúde ou assistência social, disposta no art. 833, IX, do CPC/2015. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL CARÊNCIA DE PRECISÃO SOBRE A QUESTÃO CONTROVERTIDA. NECESSIDADE DE APURAÇÃO DO QUADRO FÁTICO-PROBATÓRIO. ANULAÇÃO DO JULGAMENTO ESTADUAL PARA QUE OUTRO SEJA PROFERIDO. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, o intuito de fazer prevalecer o interesse coletivo em relação ao particular justifica a impenhorabilidade de recursos públicos recebidos por instituições privadas para aplicação compulsória em educação, prevista no art. 833, IX, do CPC/2015.
+2. Esta Corte Superior entende que "os créditos públicos destinados ao FIES, ainda que para instituição privada, são impenhoráveis" (AgInt no REsp n. 1.750.829/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022).
+Estão protegidos contra a constrição "os recursos públicos destinados às instituições de ensino superior (IES), no âmbito do FIES, consubstanciados nos Certificados Financeiros do Tesouro - Série E (CFT-E). São penhoráveis, por outro lado, os valores oriundos da recompra pelo FIES dos Certificados Financeiros do Tesouro - Série E (CFT-E), notadamente porque há disponibilidade plena sobre tais verbas" (REsp n. 1.942.797/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/9/2021, DJe de 28/9/2021).
+3. No caso, não ficou absolutamente claro se os valores relativos ao FIES, sobre os quais foi determinada a penhora, estão ligados aos títulos emitidos pelo Tesouro Nacional denominados CFT-E e destinados às instituições financeiras ou se decorrentes da recompra desses títulos pelo próprio FIES. Dessa forma, a anulação do julgamento estadual, para que outro seja proferido, é o cenário mais adequado à aplicação da jurisprudência desta Corte Superior.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.051.849/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.)
+Por outro lado, faz-se necessária a comprovação da destinação dos recursos públicos recebidos . A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. EXECUÇÃO. VALORES RECEBIDOS POR MEIO DE CONVÊNIO COM O ESTADO DO PARANÁ. SERVIÇOS MÉDICOS PRESTADOS AOS SERVIDORES DA UNIDADE FEDERATIVA. EXCESSO DE PENHORA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. IMPENHORABILIDADE. AFASTAMENTO. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. "O Diploma processual civil estabeleceu como absolutamente impenhoráveis os recursos públicos recebidos por instituições privadas para aplicação compulsória em educação, saúde ou assistência social (art. 649, IX, do CPC/73; art. 833, X, do CPC/2015). O legislador, em juízo ex ante de ponderação e numa perspectiva de sociabilidade, optou por prestigiar os recursos públicos com desígnios sociais em detrimento do pagamento de crédito ao exequente, salvaguardando o direito coletivo de sujeitos indeterminados favorecidos pelos financiamentos nas áreas de educação, saúde ou assistência social" (REsp 1.691.882/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/02/2021, DJe de 11/03/2021).
+3. Na hipótese, acerca da penhorabilidade dos valores, o Tribunal a quo anotou que, além de a recorrente não ter comprovado a destinação dos recursos à aplicação compulsória em saúde, esses decorrem da "contraprestação a serviços médicos prestados ao Governo do Estado do Paraná no atendimento do seleto grupo de servidores estaduais", não integrando, pois, o orçamento do Sistema Único de Saúde.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.956.200/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 23/8/2022.)
+A Corte local concluiu pela ausência de comprovação de que eventuais valores a serem recebidos pela recorrente decorram de repasse de recursos públicos destinados exclusivamente à execução de serviços no âmbito do SUS.
+Incide, portanto, a Súmula n. 83 do ST J.
+No mais, dissentir das conclusões do acórdão impugnado - que entendeu pela ausência de demonstração da impenhorabilidade dos valores constritos, nos termos do inciso IX do art. 833 do CPC/2015 - exigiria o reexame do acervo fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
