@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado pelo JUIZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE FLORIANÓPOLIS - SC em face do JUIZO DE DIREITO DA VARA DE EXECUÇÃO PENAL DE JOÃO PESSOA - PB.
+Consta do ofício enviado pelo Juízo suscitante a decisão de e-STJ fl. 56, na qual o juízo suscitado informa que  "somente declinou da competência por que, no curso da execução da pena, o sentenciado solicitou transferência da execução da pena para Itajaí i- SC, o que foi deferido por este Juízo. Posteriormente, o sentenciado não foi localizado em Itajaí - SC, razão pela qual esta magistrada decretou a suspensão do livramento condicional, expedindo o mandado de prisão. O apenado foi recapturado em Florianópolis, indicando a existência de vínculo familiar com o Estado de Santa Catarina. Dessa forma, somente em razão do anterior pedido de transferência para Santa Catarina e recaptura em Florianópolis, esta magistrada declinou da competência em favor da VEPE de Florianópolis. Contudo, e prosseguimento da não há nenhuma objeção por parte deste Juízo para devolução do processo fiscalização da pena. Por tal razão, solicitando a devolução do oficie-se à Vara de Execução Penal da Comarca de Florianópolis, Processo SEEU nº 1002638-23.2011.8.15.2002".
+Diante dessa alteração dos fatos , forçoso reconhecer a perda do objeto do recurso.
+Ante o exposto, com fundamento no art.  34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente conflito de competência .
+Publique-se.  Intimem-se.
+EMENTA
