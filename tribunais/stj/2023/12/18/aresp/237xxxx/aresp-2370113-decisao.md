@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por SILVANA DE CÁSSIA MASCHIETTO LIEB impugnando decisão que inadmitiu recurso especial interposto contra acórdão, assim ementado (fl. 69):
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL DECISÃO QUE REJEITA EXCEÇÃO DE PRÉ-EXECUTIVIDADE ILEGITIMIDADE RECURSAL EXCIPIENTE QUE NÃO INTEGRA A RELAÇÃO JURÍDICO-PROCESSUAL TERCEIRO QUE NÃO POSSUI LEGITIMIDADE PARA PLEITEAR EM NOME PRÓPRIO DIREITO ALHEIO, NOS TERMOS DO ART. 18 DO CPC PRECEDENTES DESTA COL. CÂMARA NO MESMO SENTIDO RECURSO NÃO CONHECIDO.
+No recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, a recorrente aponta violação dos arts. 18 e 996 do CPC/2015 e art. 124, I, do CTN alegando legitimidade ativa para opor exceção de pré-executividade e recurso na qualidade de terceira interessada, para impugnar decisão que não reconheceu a prescrição do crédito tributário, afirmando a possibilidade de vir a ser executada.
+Contrarrazões a fls. 99-106.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A Corte a quo concluiu pela ausência de legitimidade ativa da ora recorrente para atravessar a exceção de pré-executividade, por se tratar de expediente de defesa destinado à parte executada, integrante do polo passivo, não sendo possível pela via da exceção demandar direito alheio em nome próprio, considerando o disposto no art. 18 do CPC/2015, de modo que " a exceção de pré-executividade não se revela como a via correta para a discussão de eventuais interesses da agravante, que, como dito, figura como terceira nos autos da execução fiscal". Eis o teor da referida fundamentação, in verbis (fls. 70/71, grifos nossos):
+Não conheço do recurso, ante a ausência de legitimidade recursal da agravante.
+Com efeito, consta dos autos que a execução fiscal foi ajuizada para a cobrança de taxa de resíduos sólidos domiciliares em face de H e L Participações S C Ltda., não integrando a ora agravante, Silvana de Cassia Maschietto Lieb, a relação jurídica processual (fls. 48/54).
+Assim, cumpre salientar que a exceção de pré-executividade é expediente de defesa destinado à parte executada, integrante do polo passivo, e voltado para a demonstração de questões sobre as quais não seja necessária a produção probatória e de matérias cognoscíveis de ofício, como eventuais. Tal entendimento, aliás, encontra amparo na súmula 393 do STJ.
+Bem por isso, a legitimidade ativa para postular no feito é das partes que efetivamente integram a lide, de modo que, do ponto de vista processual, não é permitida a oposição por terceiros.
+No caso dos autos, verifica-se que, a pretexto de apontar a prescrição, a excipiente compareceu nos autossustentando a sua legitimidade ativa por possuir o domínio do imóvel sobre o qual incidiu a exação.
+Todavia, como já mencionado, a excipiente não integra a relação jurídica processual, não sendo possível, por essa razão, demandar direito alheio em nome próprio, nos termos do art. 18 do CPC.
+Assim, a exceção de pré-executividade não se revela como a via correta para a discussão de eventuais interesses da agravante, que, como dito, figura como terceira nos autos da execução fiscal.
+Dispõe o art. 18 do CPC/2015: "Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico".
+Pois bem.
+Quanto ao art. 18 do CPC/2015, as razões recursais não demonstram em que medida o entendimento do acórdão configuraria eventual violação ao referido dispositivo legal, o qual, também, não contém comando normativo capaz de sustentar a tese alegada, de modo a amparar a pretensão recursal e infirmar o resultado do julgado. À espécie, por configurada a deficiência da fundamentação recursal, incide o óbice da Súmula 284/STF.
+Quanto aos arts. 996 do CPC/2015 e 124 do CTN e tese vinculada, não houve juízo de valor quanto às referidas questões nos fundamentos adotados no acórdão, razão pela qual, não cumprido o requisito do prequestionamento, não se conhece do recurso quanto ao ponto. Incidência do óbice das Súmulas 282/STF e 356/STF.
+Ante todo o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE RECURSAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
