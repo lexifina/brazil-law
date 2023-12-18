@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Peihua Liu, condenada pelo crime contra as relações de consumo, ao vender mercadorias impróprias ao consumo, a 3 anos e 4 meses de detenção, em regime semiaberto, substituída por prestação de serviços comunitários - contra o acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro (HC n. 0081432-36.2023.8.19.0000 - fls. 40/43) que manteve a condenação da recorrente, não reconhecendo ilegalidade na ausência de oferta de acordo de não persecução penal (ANPP), referente à Ação Penal n. 0185007-33.2018.8.19.0001, da 20ª Vara Criminal da comarca do Rio de Janeiro/RJ -, não comporta seguimento.
+Com efeito, busca o recurso seja determinando o oferecimento de proposta de ANPP (fl. 71), ao argumento de ser plenamente possível o oferecimento do ANPP enquanto não alcançado o trânsito em julgado dos processos (fl. 64).
+Em contrarrazões, o Ministério Público fluminense registrou que, como a denúncia já foi recebida, não há qualquer nulidade a ser sanada em face do não oferecimento do acordo de não persecução penal, por já se encontrar encerrada a fase pré-processual (fl. 87).
+Da atenta análise dos autos observa-se que não se verifica constrangimento quanto ao não oferecimento de acordo de não persecução penal (ANPP), pois, a despeito de a Suprema Corte admitir a possibilidade de ANPP em processos em curso sem trânsito em julgado, é necessário que a parte tenha requerido na primeira oportunidade que teve de falar nos autos após a vigência do instituto (HC n. 233.136/SP, Ministro Gilmar Mendes, DJe 10/11/2023), o que não ocorreu no caso, pois a pretensão foi requerida somente em 10/6/2023 (fls. 117/123), após prolação de sentença, em 26/8/2021 (fls. 125/131).
+Em razão disso, nego seguimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIME CONTRA AS RELAÇÕES DE CONSUMO. VENDA DE MERCADORIAS IMPRÓPRIAS AO CONSUMO. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). AUSÊNCIA DE REQUERIMENTO DA PARTE NOS AUTOS APÓS A VIGÊNCIA DO INSTITUTO. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+Recurso a que se nega seguimento.
