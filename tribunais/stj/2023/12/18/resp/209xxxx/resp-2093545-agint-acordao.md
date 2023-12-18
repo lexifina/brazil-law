@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESTADO DE MINAS GERAIS contra decisão, de minha lavra, em que com fundamento na ausência de vício de integração e na aplicação do óbice da Súmula 284 do STF conheci em parte do recurso especial para, nesta extensão negar-lhe provimento.
+A parte agravante alega, em síntese, que o vício de integração do acórdão do Tribunal mineiro decorre da ausência de manifestação acerca da existência de prova da dissolução irregular e dos motivos por que o Tribunal não observou a orientação jurisprudencial dos tribunais superiores firmada em súmula ou precedente repetitivo acerca da impossibilidade de conhecimento de exceção de pré-executividade que discute ilegitimidade passiva do sócio cujo nome consta na CDA.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão ora impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+No primeiro grau, afirmou-se que a certidão do oficial de justiça de tentativa frustrada de citação com a informação de que a sociedade não mais funcionava na localidade era suficiente para presumir-se a dissolução irregular, reconhecendo-se aplicável à hipótese a orientação firmada no enunciado da Súmula 435 do STJ.
+No agravo, suscitou-se a ausência de preenchimento dos requisitos para o redirecionamento da execução fiscal em razão de não ter havido dissolução irregular da sociedade.
+A Corte mineira, por sua vez, deu provimento ao agravo de instrumento para, apesar da presunção referida na decisão agravada, declarar não ter havido dissolução irregular da sociedade uma vez que comprovado nos autos que a sociedade empresária continua exercendo sua atividade empresarial reformando a decisão do Juiz de Primeiro grau e "indeferir o pedido de redirecionamento da execução fiscal contra os sócios" (e-STJ fl. 372).
+Opostos embargos de declaração pelo ente público, foram eles rejeitados.
+O Estado recorrente alega violação dos arts. 489, 927 e 1.022 do CPC/2015 e dissídio jurisprudencial.
+Sustenta, em síntese, a existência de vício de integração no acórdão da Corte mineira que teria deixado de apreciar as alegações formuladas pelo ente público em seus embargos de declaração relativos: (i) à necessidade de observância da jurisprudência relativa ao descabimento da exceção de pré-executividade que pretende a exclusão do polo passivo de sócio cujo nome consta na CDA; (ii) à existência de fundamento legal para a atuação do agente fiscal.
+No mérito, aduz que a exceção de pré-executividade que pretende a exclusão do polo passivo de sócio cujo nome consta na CDA não pode ser conhecida por exigir dilação probatória, providência incompatível com o rito do incidente.
+Como consignado na decisão monocrática, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia submetida a julgamento daquela Corte estadual (e-STJ fls. 371/372). Veja-se:
+No caso concreto, apesar de a certidão lavrada pelo oficial de justiça (Id nº 2967256430) atestar que a empresa teria sido dissolvida irregularmente, a presunção relativa de veracidade do ato do auxiliar de justiça fora afastada pelas provas documentais acostadas ao presente recurso, em especial a consulta junto ao site do Shopping (http://www.serrasulshoppinq.com.br/alimentacao.php) onde se localiza seu estabelecimento, bem como o comprovante da taxa de condomínio paga ao shopping e acostada à peça recursal (doe. nº 1 do PJe).
+Ainda que acatada, "ad argumentandum tantum", a tese fazendária de que houve a dissolução irregular da sociedade, o redirecionamento da execução fiscal carece da comprovação da prática de atos com excesso de poderes ou infração à lei, ao contrato social ou aos estatutos, conforme enunciado nº430 da súmula do STJ, de que "o inadimplemento da obrigação tributária pela sociedade não gera, por si só, a responsabilidade solidária do sócio-gerente".
+Constatada, em princípio, a inexistência de dissolução irregular da sociedade empresária nem a prática de atos ilícitos previstos no art. 135, III, do CTN, revela-se descabida a pretensão de redirecionamento da execução fiscal em desfavor dos sócios coobrigados.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+Em resposta à alegação do agravante de que o Tribunal mineiro não observou a orientação jurisprudencial dos tribunais superiores firmada em súmula ou precedente repetitivo acerca da impossibilidade de conhecimento de exceção de pré-executividade que discute ilegitimidade passiva do sócio cujo nome consta na CDA, anote-se, novamente, que a discussão é impertinente, uma vez que o que fora decidido pelas instâncias ordinárias foi exclusivamente o tema do preenchimento ou não dos requisitos para o redirecionamento da execução fiscal.
+Com efeito, o tema do descabimento da exceção de pré-executividade que pretende a exclusão do polo passivo de sócio cujo nome consta na CDA não foi objeto de apreciação na decisão da execução fiscal (e-STJ fls. 19/22), nem foi suscitado pelo exequente na impugnação à exceção de pré-executividade (e-STJ fls. 322/324) ou nas contrarrazões do agravo interno (e-STJ fls. 355/358), não tendo sido considerado no acórdão do TJMG que, ademais, não decidiu acerca da ilegitimidade do sócio, mas consignou apenas a ausência do preenchimento dos requisitos para o redirecionamento da execução fiscal (objeto do agravo de instrumento).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
