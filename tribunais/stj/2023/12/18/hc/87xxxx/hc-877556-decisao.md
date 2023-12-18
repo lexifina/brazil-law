@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RAFAEL CAMARGO SABOIA MENDES em que se aponta, como autoridade coatora, o Tribunal Regional Federal da 4ª Região (HC 5039250-97.2023.4.04.0000).
+Colhe-se dos autos que o paciente foi preso em flagrante, em 06/11/2023, pela suposta prática do crime previsto no art. 334-A do Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu parcialmente a ordem, reduzindo a fiança consoante acórdão de fls. 202-213 (e-STJ).
+Neste writ, o impetrante sustenta, em síntese, que o paciente não possui condições financeiras para pagar a fiança imposta, que foi arbitrada no valor de R$ 30.000 (trinta mil reais) pelo Tribunal de origem.
+Afirma que o valor permanece elevado, sendo o paciente "um mero motorista, com ganhos moderados"(e-STJ, fl. 5).
+Pontua que a condição financeira do acusado não pode representar, por si só, óbice à liberdade provisória.
+Argumenta que "a fiança fora fixada por não existirem e nem estarem presentes os requisitos para o não arbitramento da caução e ausentes os fundamentos para a decretação da prisão cautelar" (e-STJ, fl. 5).
+Salienta que o paciente é primário, exerce atividade laboral lícita e possui residência fixa, além de ter filho menor de idade que depende dos seus ganhos para subsistência.
+Pleiteia a concessão de liberdade provisória, sem fiança, ou a diminuição do valor arbitrado a título de fiança para 01 (um) salário-mínimo.
+É o relatório.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Com efeito, na hipótese em que, após constatada a ausência dos requisitos legais autorizadores da prisão preventiva, tenha sido concedida liberdade provisória condicionada ao pagamento de fiança, configura constrangimento ilegal a manutenção em cárcere do acusado tão somente em razão do não pagamento da fiança, notadamente quando demonstrada a hipossuficiência econômica, como ocorre no caso ora examinado, em que o indivíduo se sujeita à prisão desde o deferimento da liberdade provisória, por mais de um mês.
+Nessa conjuntura, de acordo com o art. 350 do Código de Processo Penal, "nos casos em que couber fiança, o juiz, verificando a situação econômica do preso, poderá conceder-lhe liberdade provisória, sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso".
+Sobre o tema:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR NA ORIGEM. SÚMULA N. 691/STF. PECULATO E ORGANIZAÇÃO CRIMINOSA. CONCESSÃO DA PRISÃO DOMICILIAR MEDIANTE O PAGAMENTO DE FIANÇA. IMPOSSIBILIDADE DE ADIMPLEMENTO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
+1. É cediço nesta Casa que o inadimplemento da fiança imposta, por si só, não é capaz de fundamentar a manutenção da custódia cautelar, devendo ser observado o que preconiza o art. 350 do Código de Processo Penal.
+2. Na espécie, há de se reconhecer o evidente constrangimento ilegal ocasionado ao agravado, visto que a manutenção da sua prisão domiciliar ficou condicionada ao pagamento de fiança estipulada em R$ 148.995,73 (cento e quarenta e oito mil, novecentos e noventa e cinco reais e setenta e três centavos).
+3. Agravo regimental desprovido."
+(AgRg no HC 603.615/SP, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/3/2021, DJe de 24/3/2021).
+"PROCESSUAL PENAL. INDEFERIMENTO DA LIMINAR NO PRÉVIO WRIT. SÚMULA 691. AFASTAMENTO. EXCEPCIONALIDADE. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. CRIME DO ART. 168, § 1º, III, DO CÓDIGO PENAL. LIBERDADE PROVISÓRIA DEFERIDA COM ARBITRAMENTO DE FIANÇA. AUSÊNCIA DOS REQUISITOS ENSEJADORES DA PRISÃO PREVENTIVA. PACIENTE QUE AFIRMA SER POBRE. APLICAÇÃO DO ART. 350 DO CÓDIGO DE PROCESSO PENAL. ORDEM NÃO CONHECIDA. CONCEDIDA DE OFICIO.
+I - Não se admite habeas corpus contra decisão que indefere liminar no writ impetrado na origem, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal, salvo no caso de flagrante ilegalidade, o que se verifica no caso.
+II - Consoante o disposto no art. 350 do Código de Processo Penal, nos casos em que couber fiança, o juiz, verificando ser impossível ao réu prestá-la, por motivo de pobreza, poderá conceder-lhe a liberdade provisória, sujeitando-o às obrigações constantes dos arts. 327 e 328.
+III - In casu, a imposição da fiança, quando afastada pelo Juízo de primeiro grau os requisitos/pressupostos da prisão preventiva, não tem o condão de justificar a manutenção da prisão cautelar, em especial quando o réu declarou-se pobre. O paciente encontra-se preso desde o dia 09/04/2019 por não possuir renda mensal.
+IV - Parecer do Ministério Público Federal favorável à concessão da ordem.
+Habeas corpus não conhecido. Ordem concedida de oficio para, ratificando a liminar, garantir a liberdade provisória ao paciente, independentemente do pagamento de fiança, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou de outras medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal."
+(HC 527.066/SP, Relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 21/11/2019, DJe de 2/12/2019).
+Ante o exposto, não conheço do habeas corpus. Não obstante, concedo a ordem, de ofício, para garantir ao paciente liberdade provisória independentemente do pagamento de fiança, sujeitando-o às obrigações constantes dos arts. 327 e 328 do Código de Processo Penal e a outras medidas cautelares, a critério do Juízo de primeiro grau, salvo, evidentemente, se fiança já houver sido recolhida ou se por outro motivo estiver preso.
+Comunique-se, com urgência, ao Tribunal Regional Federal da 4ª Região e ao Juízo da 3ª Vara Federal de Maringá.
+Publique-se. Intimem-se.
+EMENTA
