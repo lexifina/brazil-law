@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DÓRIS MARIA DE SOUZA DOMINGUES contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 284 do STF.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Cível n. 0134645-06.2007.8.24.0023) assim ementado (fl. 1.080):
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA DE SEGURO PRESTAMISTA. SENTENÇA DE PROCEDÊNCIA. RECURSO DE AMBAS AS PARTES.
+NEGATIVA DE PAGAMENTO DE INDENIZAÇÃO SECURITÁRIA. ALEGADA DOENÇA PREEXISTENTE. AUSÊNCIA DE COMPROVAÇÃO DE MÁ-FÉ DA SEGURADA. ÔNUS QUE INCUMBIA À PARTE RÉ (ART. 373, II, DO CPC/15). AUSÊNCIA DE EXAME CLÍNICO QUANDO DACONTRATAÇÃO. DESÍDIA DA SEGURADORA. DEVER INDENIZATÓRIO MANTIDO.
+A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado. (STJ, Súmula 609).
+Se a seguradora, em contrato típico de adesão, aceita a proposta e firma com o proponente contrato de seguro sem lhe exigir atestado de saúde ou submetê-lo a exames, a fim de verificar sua real condição física, deve suportar o risco do negócio, notadamente quando fica comprovado que este não agiu de má-fé. (AgRg no AREsp 309.469/SP, rel. Min. Raul Araújo, j. 7.8.2014).
+CONSECTÁRIOS LEGAIS. APLICAÇÃO DA TAXA SELIC. IMPOSSIBILIDADE. APLICAÇÃO DOS ÍNDICES OFICIAIS DA CORREGEDORIA-GERAL DE JUSTIÇA DESTE TRIBUNAL. CORREÇÃO MONETÁRIA PELO INPC DESDE O EVENTO DANOSO. JUROS DE MORA DE 1% (UM PORCENTO) AO MÊS A CONTAR DA CITAÇÃO.
+RECURSOS CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração opostos foram parcialmente providos, sob a seguinte ementa (fl. 1.126):
+EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL VERIFICADO. TERMO INICIAL DO ÍNDICE DECORREÇÃO MONETÁRIA. VÍCIO SANADO. PRÉ-QUESTIONAMENTO. AUSÊNCIA DE PRESSUPOSTOS.
+Os embargos de declaração prestam-se a esclarecer o conteúdo do julgamento, corrigindo omissão, contradição ou obscuridade, e não à reforma do decisório embargado (CPC/2015, artigo 1.022, incisos I e II).
+A fim de se viabilizar a acolhida dos embargos declaratórios fundados em prequestionamento, cumpre à parte demonstrar os motivos por que o decisório embargado deveria ter examinado os preceitos invocados, não se prestando a tanto a apresentação de listagem de artigos legais ou constitucionais.
+RECURSO DA PARTE AUTORA CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DAPARTE RÉ CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 4º, III, do CDC e 394 do CC.
+Sustenta que, embora não haja previsão contratual explícita acerca do índice a ser utilizado, foi demonstrado nos autos que o IGPM era o adotado para corrigir monetariamente o prêmio anual do seguro.
+Aponta violação do princípio da boa-fé, pois deveria ser utilizado o mesmo índice em seu favor.
+Aduz que "os juros deveriam ser fixados pela Selic "contados desde o dia posterior ao fim do prazo contratual para pagamento da indenização"" (fl. 1.141).
+Pugna seja aplicado o mesmo índice de correção monetária utilizado pela seguradora para correção do prêmio anual, o IGPM, e não o INPC, adotado pela Corte a quo, bem como a incidência dos juros moratórios desde a negativa de pagamento, e não a partir da citação.
+Requer o provimento do recurso a fim de que o valor da condenação seja atualizado pelos índices contratados (IGPM) com a incidência de juros moratórios a partir da ciência da invalidez.
+As contrarrazões foram apresentadas às fls. 1.163-1.180.
+Inadmitido o agravo em recurso especial (fls. 1.183-1.184), o recurso ascendeu a esta Corte Superior por meio do agravo interposto às fls. 1.192-1.200.
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade recursal, passo ao exame do apelo extremo.
+No que tange à atualização monetária e aos juros moratórios, a Corte a quo entendeu que não havia previsão no contrato acerca do índice de correção monetária a ser utilizado no caso de sinistro, aplicando o INPC, e que o termo inicial seria a data da contratação, bem como que os juros moratórios seriam de 1% ao mês, contados a partir da data da citação. Confira-se trecho do voto condutor do acórdão dos embargos de declaração opostos na apelação (fls. 1.127-1.128, destaquei):
+Sobre o tema, extrai-se da fundamentação do acórdão:
+Não há, entretanto, prova da alegada estipulação do IGPM entre os contratantes, seja na documentação que acompanha a petição inicial, seja na que foi juntada com a contestação. O documento destacado nas razões recursais é um "cadastro de segurado", que não se confunde com contrato, e que parece indicar o IGPM como índice de atualização do valor do prêmio, sem referência alguma a atualização monetária no caso de sinistro. Na "Apólice de Seguro de Vida em Grupo" juntada com as contrarrazões (Evento 160, Anexos 126 e seguintes), não se observa, tampouco, referência a índice de correção, e sequer houve, da parte da apelante, indicação de cláusula contratual.
+ ..
+2.2 Em contrapartida, tem-se que assiste razão ao embargante quanto à existência de erronia material no julgado no que diz respeito ao termo inicial de incidência da correção monetária.
+ ..
+Assim, com a correção do equívoco apontado, passa a constar na ementa e nos dispositivos, respectivamente:
+"CONSECTÁRIOS LEGAIS. APLICAÇÃO DA TAXA SELIC. IMPOSSIBILIDADE. APLICAÇÃO DOS ÍNDICES OFICIAIS DA CORREGEDORIA-GERAL DE JUSTIÇA DESTE TRIBUNAL. CORREÇÃO MONETÁRIA PELO INPC DESDE A DATA DA CONTRATAÇÃO. JUROS DE MORA DE 1% (UM POR CENTO) AO MÊS A CONTAR DA CITAÇÃO.
+RECURSO DA PARTE AUTORA CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DA PARTE RÉCONHECIDO E DESPROVIDO."
+Com efeito, caracterizada a responsabilidade contratual em relação ao termo inicial dos juros moratórios, o Tribunal de origem decidiu em consonância com a atual jurisprudência do STJ, no sentido de que devem incidir a partir da citação. A propósito: AgInt no REsp n. 1.955.934/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023; e AgInt no AREsp n. 1.991.931/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Entretanto, quanto ao índice de juros e à correção monetária, o entendimento não está de acordo com a atual jurisprudência do STJ, porquanto "o art. 406 do CC/2002 trata, atualmente, da incidência da SELIC como índice de juros de mora quando não estiver estipulado outro valor" (EDcl no REsp n. 2.025.166/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+Ainda, "por força do art. 406 do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação" (AgInt no REsp n. 1.794.823/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/5/2020, DJe de 28/5/2020).
+Registre-se ainda que "a correção monetária é matéria de ordem pública, integrando o pedido de forma implícita, razão pela qual sua inclusão ex officio, pelo juiz ou tribunal, não caracteriza julgamento extra ou ultra petita, hipótese em que prescindível o princípio da congruência entre o pedido e a decisão judicial" (REsp n. 1.112.524/DF, relator Ministro Luiz Fux, Corte Especial, julgado em 1/9/2010, DJe de 30/9/2010).
+Dessa forma, mantida a correção monetária pelo INCP da data da contratação do seguro até a citação, momento em que os juros moratórios de 1% ao mês, cumulados com correção monetária pelo INPC, ficam substituídos pela taxa SELIC, incidindo a partir da citação, vedada a cumulação com qualquer outro índice de atualização monetária.
+No mesmo sentido: EDcl no REsp n. 2.025.166/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023; AgInt no AREsp n. 2.074.535/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/12/2022, DJe de 2 7/1/2023; e AgInt nos EDcl no REsp n. 1.518.445/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/5/2019, DJe de 10/6/2019.
+Ante o exposto, conheço do recurso especial e, nesta extensão, dou-lhe parcial provimento para substituir os juros moratórios e a correção monetária fixados no acórdão recorrido pela taxa SELIC, vedada a cumulação com outra correção monetária, mantendo-se a correção monetária pelo INPC da data da contratação do seguro até a citação.
+Publique-se. Intimem -se.
+EMENTA
