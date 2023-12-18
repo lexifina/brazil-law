@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão que negou provimento ao Recurso Ordinário e manteve o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+EMENTA: MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - FASE DE INVESTIGAÇÃO SOCIAL - IDONEIDADE MORAL NÃO DEMONSTRADA - DESCLASSIFICAÇÃO - LEGALIDADE DO ATO ADMINISTRATIVO - PRINCÍPIO DA RAZOABILIDADE - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO - ORDEM DENEGADA.
+- Não se afigura ilegal o ato administrativo que promove a desclassificação do candidato do certame, com fundamento na existência de registros criminais, ainda que não haja, em relação a eles, sentenças condenatórias transitadas em julgado, porquanto, à luz do princípio da razoabilidade, resta afastado um dos requisitos para o exercício do cargo público, qual seja, a idoneidade moral.
+- Inidoneidade moral e condenação criminal possuem conceitos distintos, podendo ou não estar juntos, eis que é plenamente possível que alguém não tenha sido condenado criminalmente e, mesmo assim, não reúna as condições morais necessárias para o exercício de determinada atividade de interesse público ou para ingresso em cargo ou função também públicos.
+Nas razões do recurso (fls. 266-272, e-STJ), alega-se:
+Noutro vértice, cumpre rememorar que, in casu, o agravante é réu em uma única ação penal, em que se apura a prática de crime com diminuta lesividade -ao que se extrai pela pena cominada abstratamente de três meses a um ano de detenção - e que longe se encontra do trânsito em julgado. Ademais, sua continuidade deriva da persistência do agravante em provar-se inocente, na medida em que recusou a oferta de transação penal.
+Diante disso, mostra-se o objurgado ato administrativo incoerente com a própria mens legis dos institutos despenalizadores da Lei nº 9.099/95, na medida em que sua recusa pelo agravante-amparada, como dito, no estrito desiderato de exercer a ampla defesa e o contraditório, com vistas a lograr uma convicta pretensão absolutória -está a se traduzir em cerceamento de seu direito. Ora, se a aceitação e cumprimento dos termos da transação penal não trazem reflexos aos antecedentes do agente -exceto para fins de concessão de novo benefício dentro de cinco anos, como de sabença -, é ilógico que sua recusa, baseada na comprovação de inocência, convole-se em mácula tão peremptória como a aqui apreciada.
+(..)
+Rogo vênia para afirmar que o decisum vergastado vai de encontro, outrossim, com a jurisprudência do Supremo Tribunal Federal, harmônica e convergente no sentido de que a eliminação do candidato em concursos públicos em função de ações penais ou inquéritos em curso viola o princípio da presunção de inocência.
+Impugnação às fls. 276-291, e-STJ.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+Consta no Voto condutor do acórdão recorrido, proferido pela Desembargadora Ana Paula Caixeta (fl. 180, e-STJ):
+De fato, na hipótese dos autos, pode-se constatar que, embora inexista condenação criminal em nome do impetrante, há ocorrência que demonstra seu envolvimento em supostas atividades ilícitas, circunstância que, a meu aviso, já é suficiente para afastar a idoneidade moral do candidato.
+Nesse cenário, não se mostra desproporcional ou desarrazoada a decisão que desclassificou o impetrante, considerando-se que a idoneidade moral se mostra especialmente relevante para o exercício da função de Agente de Segurança Penitenciário, tendo a exigência, inclusive, constado expressamente do instrumento convocatório. Ao se inscrever no certame, o impetrante aderiu a seus termos, não havendo notícia de que tenha impugnado suas disposições a tempo e modo. E, mais: a exigência encontra amparo na Lei Estadual nº 14.695/03, que assim dispõe sobre o tema:
+O Desembargador Renato Dresch, ao acompanhar a divergência, anotou (fl. 185, e-STJ, grifei):
+No presente caso, o impetrante foi contraindicado para o Curso de Formação decorreu do seu indiciamento pela prática de "abandono de posto", foi preso em flagrante, conforme se extrai dos autos nº 0001088-25.2018.9.13.001, que tramita na 1ª Instância da Justiça Militar do Estado de Minas Gerais (JPe nº 6).
+O Autor não comprovou -o que era ônus seu(CPC/15, art. 373, I) -sua idoneidade moral.
+Consta no Voto vencido do Relator, o Desembargador Dárcio Lopardi Mendes (fl. 178, e-STJ, grifei):
+Apesar da existência de Ação Penal em curso na 1ª Auditoria do Tribunal de Justiça Militar do Estado de Minas Gerais em que o impetrante figura como corréu pela pratica de suposto crime de abandono de posto (art. 195 do Código Penal Militar), é certo que não consta nos autos informações sobre qual a solução jurídica dada ao caso, tendo, o impetrante, inclusive, rejeitado proposta de transação penal.
+Assim, como não há registros de condutas criminosas por parte do impetrante, não se pode qualificá-lo como carecedor de conduta idônea e ilibada. Ao que tudo indica o impetrante não possui nenhuma sentença transitada em julgado em seu desfavor, caindo por terra, em princípio, a imputação de idoneidade moral.
+Observa-se que o impetrante foi desclassificado do processo seletivo simplificado porque respondia a uma Ação Penal por suposto crime de abandono de posto (art. 195 do Código Penal Militar).
+O fato é confirmado pelas informações prestadas pela autoridade coatora (fl. 63, e-STJ):
+Em que pese alegação do Impetrante que a existência de Ação Penal ainda em curso não poderia ser utilizado para eliminá-lo, cumpre salientar que tal hipótese estava prevista no edital do Processo Seletivo e a existência de registro policiai contra o Impetrante foi fato que contribuiu para sua eliminação do certame.
+No entanto, a jurisprudência sobre o tema é no sentido de que apenas as condenações penais com trânsito em julgado são capazes de constituir óbice a que um cidadão ingresse, mediante concurso público, nos quadros funcionais do Estado.
+Portanto, salvo em hipóteses excepcionais e legalmente previstas, meros boletins de ocorrência, termos circunstanciados de ocorrência ou Ações Penais em curso não podem ser utilizados como fatores impeditivos desse acesso ante o princípio da presunção de inocência.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 2/STJ. CONCURSO PÚBLICO. INVESTIGAÇÃO SOCIAL. EXCLUSÃO DO CANDIDATO. INVIABILIDADE. MERA INSTAURAÇÃO DE INQUÉRITOS POLICIAIS E DE TERMOS CIRCUNSTANCIADOS DE OCORRÊNCIA. AÇÃO PENAL COM SENTENÇA ABSOLUTÓRIA. DESCUMPRIMENTO DOS REQUISITOS DO RE 560.900-DF.
+1. A mera existência de boletim de ocorrência, de inquérito policial, de termo circunstanciado de ocorrência, ou a simples instauração de ação penal contra o cidadão, nada disso pode pura e simplesmente implicar, em fase de investigação social de concurso público, a sua eliminação da disputa, sendo necessário para a configuração de antecedentes desabonadores a presença dos requisitos dispostos no RE 560.900/DF, relator o Em. Ministro Roberto Barroso, julgado pelo regime da repercussão geral.
+2. Caso concreto em que foram instaurados oito inquéritos contra o candidato, mas apenas um ensejou a propositura de ação penal cuja sentença prolatada reconheceu a sua inocência.
+3. Recurso ordinário em mandado de segurança provido, rogadas vênias ao Em. Relator.
+(RMS 47.528/MS, Rel. Min. Humberto Martins, relator para acórdão Min. Mauro Campbell Marques, Segunda Turma, DJe de 17/12/2021)
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CARGO DE INSPETOR DE SEGURANÇA E ADMINISTRAÇÃO PENITENCIÁRIA. OCORRÊNCIA POLICIAL EM QUE O CANDIDATO FIGURA COMO PARTE. AUSÊNCIA DE CONDENAÇÃO E DE TRÂNSITO EM JULGADO. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA.
+1. A jurisprudência desta Corte Superior é no sentido de que afastar candidato de certame público em razão de tão só ocorrência policial, desacompanhada de condenação com trânsito em julgado, fere o princípio da presunção de inocência. Precedentes.
+2. Desse modo, tendo em conta as peculiaridades do caso concreto e à luz do princípio da presunção de inocência, merece reforma o acórdão do Tribunal de origem, no que denegou a segurança sob o fundamento de não haver direito líquido e certo.
+3. Recurso provido para se conceder a ordem, restituindo-se ao recorrente o direito de finalizar o curso de formação e, acaso aprovado, ser nomeado e empossado no cargo de Inspetor de Segurança e Administração Penitenciária, Classe III.
+(RMS 45.784/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 22/2/2019.)
+Diante do exposto, reconsidero a decisão de fls. 253-261, e-STJ, e dou provimento ao Recurso Ordinário.
+Publique-se.
+Intimem-se.
+EMENTA
