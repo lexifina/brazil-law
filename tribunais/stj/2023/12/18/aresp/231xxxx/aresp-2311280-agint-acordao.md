@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (O RELATOR): Trata-se de agravo interno interposto por 101 BRASIL INDÚSTRIA DE BEBIDAS LTDA. contra decisão, assim ementada (fl. 207):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. GARANTIA DE VALOR ÍNFIMO. REVISÃO DO JUÍZO. ÓBICE DA SÚMULA 7/STJ. CONFORMIDADE DO ACÓRDÃO COM JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. DISSÍDIO PREJUDICADO. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO EM RESP. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante sustenta que todas as omissões foram claramente enunciadas, inexistindo ambiguidade na alegação de violação dos arts. 1.022 e 489 do CPC/2015. Alega prequestionamento expresso, citando passagens de suas alegações consignadas nas razões do recurso especial. Alega inaplicabilidade da Súmula 7/STJ, ao argumento de que se trata de questão exclusivamente de direito, sendo necessária a mera revaloração jurídica dos fatos; e da Súmula 83/STJ, consignando que a jurisprudência do STJ mitigou a obrigatoriedade de garantia integral do crédito executado para o recebimento dos embargos à execução fiscal. Sustenta ainda ausência de fundamentação constitucional no acórdão recorrido.
+Sem impugnação (fl. 236).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (O RELATOR): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso não reúne condições para ser conhecido por esta Corte Superior.
+A Corte Especial deste Tribunal Superior, no julgamento dos EREsp n. 1.424.404/SP, DJe 17/11/2021, estabeleceu que cabe a aplicação da Súmula 182/STJ quando: (i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; (ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo.
+Na espécie, a agravante cinge-se a alegações genéricas de mero inconformismo, não impugnando especificamente nenhum dos fundamentos adotados, quais sejam:
+Súmula 284/STF, por deficiência da fundamentação recursal: a recorrente não demonstrou, de forma clara e objetiva, os supostos vícios no acórdão, seguido de argumentação de relevância e pertinência da matéria, que evidencie a necessidade de rejulgamento dos aclaratórios na origem, tendo em vista os fundamentos declinados pelo órgão julgador.Súmulas 282/STF e 211/STJ: quanto aos arts. 914 e 919, § 1º, do CPC/2015 e § 2º do art. 16 da LEF e teses vinculadas, falta de cumprimento do requisito do prequestionamento.Súmulas 83/STJ e 7/STJ, seja porque o entendimento do acórdão se revela em conformidade com a jurisprudência do STJ, seja porque inviável modificar a conclusão do acórdão de que configurada garantia ínfima (fs. 209-211): Quanto à garantia do § 1º do art. 16 da Lei n. 6.830/1980, diante da decisão do juízo da primeira instância que intimou a executada concedendo prazo para complementação da garantia para recebimento dos embargos à execução, a Corte Regional firmou em seus fundamentos: (i) "entende o Superior Tribunal de Justiça que, para o recebimento dos embargos de devedor, não é necessária a garantia integral da dívida executada. Contudo, a garantia apresentada não pode ser ínfima diante do valor total do débito, sob pena de não se prestar para assegurar o cumprimento da execução" (fl. 67); (ii) configurada garantia ínfima: "Na hipótese dos autos, a garantia perfaz menos de 2% do valor da execução, conforme se extrai dos termos da decisão agravada (pouco mais de 1,86% da dívida), razão pela qual é de ser mantida a decisão agravada" (fl. 68).
+Por primeiro, o entendimento do acórdão está em conformidade com a pacífica jurisprudência do STJ, notadamente com a tese firmada em precedente qualificado no Tema Repetitivo 526/STJ. Incidência da Súmula 83/STJ.
+Confira-se, na parte que interessa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INADMISSIBILIDADE. SEGURANÇA DO JUÍZO.
+1. O art. 16, § 1º, da Lei n. 6.830/1980 prevê a garantia da execução como pressuposto de admissibilidade dos embargos à execução fiscal.
+2. No julgamento do REsp n. 1.127.815/SP, sob o rito dos recursos repetitivos, esta Corte consolidou o entendimento de que a insuficiência de penhora não é causa bastante para determinar a extinção dos embargos do devedor, cumprindo ao magistrado, antes da decisão terminativa, conceder ao executado prazo para proceder ao reforço, à luz da sua capacidade econômica e da garantia pétrea do acesso à justiça.
+3. Na hipótese, conforme entenderam as instâncias ordinárias, a constrição via BacenJud foi ínfima diante do valor do débito do devedor. A admissão dos embargos à execução, nessa circunstância, está subordinada ao reconhecimento inequívoco da insuficiência patrimonial do devedor, o que nem sequer foi afirmado categoricamente pela parte. Tal providência se afigura inviável na via especial ante o óbice constante da Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.760.313/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 25/8/2022)
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. LEI 6.830/1980. GARANTIA PARCIAL. NECESSIDADE DE REFORÇO APÓS INTIMAÇÃO OU JUSTIFICAÇÃO INEQUÍVOCA DA INSUFICIÊNCIA PATRIMONIAL. ENTENDIMENTO FIRMADO EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.272.827/PE.
+I - Não se deve obstar a admissibilidade ou apreciação dos embargos à execução pelo simples fato de que o valor do bem constrito é inferior ao valor exequendo, devendo o julgador proceder à intimação do devedor para reforçar a penhora ou demonstrar a sua insuficiência patrimonial. Precedentes: AgInt no REsp 1729864/PE, Rel. Min. FRANCISCO FALCÃO, DJe 08/10/2018, AgInt no AREsp 919.657/RN, Rel. Min. BENEDITO GONÇALVES, DJe 16/08/2018 e REsp 1680672/RS, Rel. Min. HERMAN BENJAMIN, DJe 09/10/2017.
+II - Além dos precedentes citados, verifica-se que tal entendimento exsurge do voto proferido no REsp 1.127.815/SP, Dje de 13/12/2010, julgado sob o rito dos recursos especiais repetitivos, do qual se extrai: revela-se excessivo obstar a admissibilidade dos embargos do devedor ante a insuficiência da penhora, apresentando-se como solução mais plausível, nessa hipótese, o recebimento dos embargos com a intimação do devedor para que proceda ao reforço da penhora isto em atenção aos princípios da celeridade, da economia processual, e do contraditório, que inspiram todas as formas de processo.
+III - Agravo conhecido, dando provimento ao Recurso especial para que os autos retornem ao juízo de primeira instância, determinando-se a intimação do embargante para proceder ao reforço da penhora ou justificar inequivocamente a sua insuficiência patrimonial.
+(AREsp n. 1.364.627/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/2/2021, DJe de 2/3/2021)
+Por segundo, a alegação da recorrente de que a garantia não seria de valor ínfimo, contrariamente à conclusão firmada pelo Tribunal Regional, é insindicável no âmbito do recurso especial, sem o reexame do suporte fático-probatório dos autos, providência vedada no âmbito do recurso especial. Aplicação da Súmula 7/STJ.
+A recorrente aduziu matéria constitucional nas razões do especial, cuja análise é incabível de apreciação na via do recurso especial.Com efeito, além da manifestação do inconformismo, inerente ao ato de irresignação, ao agravante se impõe o ônus de impugnar especificamente os fundamentos da decisão agravada, de forma clara, específica e concreta, evidenciando o desacerto do referido decisum, conforme determina a lei processual civil e o princípio da dialeticidade - o que não ocorreu no caso dos autos.
+A falta de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso incidindo o óbice da Súmula 182/STJ.
+Citem-se, ainda, na parte que interessa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil.
+ ..
+V - Agravo Interno não conhecido.
+(AgInt no AgInt no AREsp 1.125.405/GO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/3/2018, DJe 6/4/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO COM MAIS DE UM FUNDAMENTO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS ADOTADOS. SÚMULA 182/STJ.
+1. A Corte Especial deste Tribunal Superior, no julgamento dos EREsp n. 1.424.404/SP, DJe 17/11/2021, estabeleceu que cabe a aplicação da Súmula 182/STJ quando: (i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; (ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo.
+2. À questão dos honorários foi aplicada a Súmula 284/STF, por razões dissociadas e, a título de "ademais", a Súmula 7/STJ. No agravo interno, a agravante, embora impugne a Súmula 7/STJ, não enfrenta especificamente o óbice da Súmula 284/STF, por si só capaz de manter o resultado do capítulo. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.956.677/SP, Rel. Ministro Benedito Gonçalves, julgado em 30/5/2022, DJe 2/6/2022)
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO NO JULGADO RECORRIDO. DECISÃO AGRAVADA. CAPÍTULO AUTÔNOMO. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. INEXISTÊNCIA.
+1. Não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+2. Incide a regra da Súmula 182 do STJ quando não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo da decisão recorrida.
+3. Caso em que, no agravo interno, embora a parte recorrente tenha infirmado a aplicação da Súmula 7 desta Corte de Justiça quanto à discussão de fundo, nada dispôs, nem mesmo indiretamente, a respeito do obstáculo da Súmula 284 do STF, capaz de manter o capítulo da decisão agravada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp 980.173/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe 12/4/2022)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
