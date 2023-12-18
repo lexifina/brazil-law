@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por COMPANHIA EXCELSIOR DE SEGUROS, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"AGRAVO DE INSTRUMENTO. COBERTURA SECURITÁRIA. IMÓVEL FINANCIADO SISTEMA FINANCEIDO DA HABITAÇÃO. CEF. LEGITIMIDADE.
+1. Nos termos do art. 1º-A, § 6º e § 7º, da Lei nº 12.409 com redação conferida pela Lei nº 13.000, em 18/06/2014, a CEF deverá ser intimada nos processos que tramitam na Justiça Comum Estadual que tenham por objeto a extinta apólice pública do Seguro Habitacional do Sistema Financeiro de Habitação - SH/SFH, para que manifeste o seu interesse em intervir no feito. Nos processos em que a apólice de seguro não é coberta pelo FCVS, a causa deverá ser processada na Justiça Comum Estadual.
+2. No caso em tela, a CEF manifestou não ter interesse em integrar a lide".
+Opostos Embargos de Declaração, foram acolhidos para fins de prequestionamento.
+Nas razões do Recurso Especial, a parte recorrente aduz estar "demonstrado, portanto, o comprometimento do FCVS, o que legitima a CEF, na condição de gestora desse fundo, como litisconsorte passivo necessário, preenchendo os parâmetros fixados pelo STJ; devendo-se reconhecer a competência absoluta da Justiça Federal". Defende "o ingresso da CAIXA na qualidade de substituta processual e EXCLUÍR essa SEGURADORA da lide. Sendo acatado o pedido desta Demandada, que este Cartório tome as devidas providencias, no sentido de excluir o nome desta Seguradora do polo passivo da presente demanda, inclusive em relação a publicações/intimações a esta Seguradora direcionadas".
+Foram apresentadas contrarrazões.
+O Tribunal de origem negou seguimento ao recurso especial quanto ao Tema 1.011/STF e determinou a remessa dos autos a esta Corte, nos termos do art. 1.041 do CPC/2015, quanto ao remanescente (fls. 654/656e).
+A irresignação não merece prosperar.
+Com efeito, em que pese a inadmissão parcial do Recurso Especial, verifica-se que, quanto à existência de suposta matéria recursal remanescente, "a admissibilidade do recurso especial exige a clareza na indicação dos artigos de lei federal supostamente violados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses dispositivos ou a eles tenha dado interpretação divergente da adotada por outro Tribunal, sob pena de incidência da Súmula nº 284 do STF" (STJ, AgRg no AREsp 457.771/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/04/2014).
+No caso, tendo a parte recorrente deixado de indicar, de forma clara e precisa, qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, não há como afastar, no ponto, o óbice contido na Súmula 284 do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórd ão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
+EMENTA
