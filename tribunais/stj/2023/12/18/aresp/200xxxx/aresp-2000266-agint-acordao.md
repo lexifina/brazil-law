@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/12/2023 a 18/12/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Em recurso especial é vedada a incursão no quadro fático-probatório delineado pelas instâncias ordinárias. Inteligência da Súmula 7 do STJ.
+2. Caso em que o acórdão proferido pela Corte Estadual manteve a sentença de extinção do cumprimento de sentença por considerar que as rendas mensais dos benefícios de auxílio-doença e aposentadoria por invalidez já foram objeto de revisão em demanda anterior, circunstância que esbarra n o óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AIKEL MANSOUR FILHO contra decisão de minha lavra que, ao rejeitar os embargos de declaração, manteve o julgado no qual conheci do agravo para não conhecer do recurso especial diante da incidência da Súmula 7 do STJ e da ausência de afronta ao art. 1.022 do CPC/2015 (e-STJ fls. 1.017/1.018 e 991/993).
+A parte recorrente insurge-se contra a aplicação da Súmula 7 desta Corte, argumentando que "existem elementos na própria v. decisão monocrática a demonstrar a necessidade de acolhimento do recurso especial" (e-STJ fl. 1.024).
+Isso porque, segundo defende, " o trecho do acórdão transcrito na decisão demonstra que as ações TÊM causas de pedir DISTINTAS" (e-STJ fl. 1.025), motivo pelo qual "não há que se falar em coisa julgada", nos termos da jurisprudência desta Corte (e-STJ fl. 1.025).
+E conclui que o acórdão deveria ter sido claro a respeito das circunstâncias que envolvem o caso concreto (e-STJ fls. 1.027/1.028):
+Como se pode ver, a Jurisprudência firme e contundente desta C. Corte Cidadã milita na NÃO OCORRÊNCIA DE COISA JULGADA QUANDO EXISTEM CAUSAS DE PEDIR DISTINTAS.
+É este o exato caso dos autos, conforme reprisa-se novamente "Ainda que se considere que a causa de pedir remota seja obscuramente diversa"
+Mas, afinal, qual a causa de pedir da primeira ação  E da segunda ação  Porque considerou, a origem, causa de pedir obscuramente diversa
+Deveria, a C. Corte a quo, ter prestado informações claras e coerentes sobre tais circunstâncias, mormente em se tratando de decisão tirada JÁ NA FASE DE EXECUÇÃO DA SEGUNDA DEMANDA, sem que se tivesse arguido coisa julgada na fase de conhecimento.
+Por isso mesmo, permissa vênia, tem-se por incompatível o entendimento exarado na v. decisão monocrática, na medida que, decorrendo das mesmas circunstâncias, ou o v. acórdão de origem falhou no dever de julgar enfrentando argumentos indispensáveis, OU permite o julgamento da causa por esta C. Corte Cidadã para afastar a aplicação da S. 7/STJ.
+Isso porque, no que toca à ofensa ao art. 1.022 do CPC, o agravante demonstrou, no apelo extremo, que a Corte de origem não enfrentou a questão relativa à preclusão para arguição da coisa julgada pela autarquia e, com relação à essa, não apontou o a diferença entre as causas de pedir entre a primeira e a segunda ação revisional. (Grifos no original)
+Decorrido o prazo legal, a parte agravada não apresentou impugnação (e-STJ fl. 1.052).
+É o relatório
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Em recurso especial é vedada a incursão no quadro fático-probatório delineado pelas instâncias ordinárias. Inteligência da Súmula 7 do STJ.
+2. Caso em que o acórdão proferido pela Corte Estadual manteve a sentença de extinção do cumprimento de sentença por considerar que as rendas mensais dos benefícios de auxílio-doença e aposentadoria por invalidez já foram objeto de revisão em demanda anterior, circunstância que esbarra n o óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+Não obstante as razões apresentadas, o inconformismo não merece ser acolhido.
+Conforme já registrado nas decisões anteriores, o acórdão proferido pela Corte Estadual manteve a sentença de extinção do cumprimento de sentença por considerar que as rendas mensais dos benefícios de auxílio-doença e aposentadoria por invalidez já foram objeto de revisão em demanda anterior, como se vê (e-STJ fls. 646/647):
+Segundo cópia dos autos do processo nº. 0000158-06.1994.8.26.0248, já existe coisa julgada fixando todos os parâmetros relativos às rendas mensais do auxílio-doença e da aposentadoria por invalidez (fls. 157/170), não havendo fato novo a permitir a relativização do julgado com nova demanda revisional.
+Diversamente do alegado no apelo do obreiro, as matérias revisionais de ambos os feitos possuem o mesmo pedido, qual seja, alteração da renda mensal inicial do auxílio-doença e da aposentadoria por invalidez. Ainda que se considere que a causa de pedir remota seja obscuramente diversa, a renda mensal de ambos os benefícios já foi revisada por determinação judicial e os valores fixados quando da execução daquele título judicial se encontram acobertados pelo manto da coisa julgada e só poderiam vir a ser novamente alterados com o surgimento de fato novo, o que, contudo, não é a hipótese do autos.
+Assim, andou bem o juízo de origem em reconhecer a existência de coisa julgada e julgar o feito extinto.
+Diante do exposto, meu voto nega provimento ao recurso.
+O Tribunal de origem, ao julgar os embargos de declaração da parte autora, reafirmou o entendimento de que, ainda que diversa a causa de pedir, já houve "regular cumprimento de sentença" em relação aos valores das rendas mensais dos benefícios, em virtude de terem sido decididos em outra ação, como se lê do seguinte trecho (e-STJ fl. 671):
+Todas as questões apontadas pelo obreiro foram suficientemente debatidas no v. acórdão, segundo o qual não há possibilidade de se rediscutir os valores das rendas mensais dos benefícios percebidos por ele, eis que já foram objeto de outra ação judicial. Mesmo que tenha causa de pedir diversa, os valores das rendas mensais dos benefícios já foram objeto de manifestação judicial, e foram revisados em regular cumprimento de sentença, tornando-se imutáveis, em nada alterando esse entendimento a má sorte do INSS na ação rescisória por ele promovida contra o embargante.
+Por outro lado, mesmo que se entenda que inexiste perfeita identidade da causa de pedir, exatamente para impedir o abuso do exercício do direito de ação perpetrado pela aplicação irrefletida da tria eadem, a teoria da identidade da relação jurídica de direito material permite aplicação do entendimento externado no acórdão embargado, que entendeu encontrar-se o autor impedido de buscar alterar o valor das rendas mensais percebidas e apuradas por determinação judicial sem a existência de fato novo a autorizar a relativização da coisa julgada, estabilizando-se a relação existente entre as partes no período anterior à formação do título judicial naqueles autos.
+Desse modo, a par da ausência de vícios na prestação jurisdicional, como já mencionado na decisão agravada, o conhecimento do recurso especial, a fim de modificar a conclusão do Tribunal de origem, demandaria o reexame fático-probatório dos autos, o que é inviável em sede de recurso especial.
+Ilustrativamente, cito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VIOLAÇÃO AO ART. 1.022, II, DO CPC. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. ILEGITIMIDADE ATIVA AD CAUSAM DO EXEQUENTE. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. LIMITES SUBJETIVOS DA COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. EXISTÊNCIA NO ACÓRDÃO RECORRIDO DE FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. Considerando-se que contra o acórdão recorrido não foram opostos embargos de declaração pela parte ora agravante, verifica-se que a questão de afronta ao art. 1.022, II, do CPC carece de pertinência temática, o que atrai a incidência da Súmula 284/STF.
+2. A tese de ilegitimidade ativa ad causam da parte exequente é matéria de ordem pública, não se sujeitando à preclusão. Nesse sentido: AgInt no AREsp n. 2.075.944/MA, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 9/6/2022; AgInt no REsp n. 1.493.974/PE, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 22/11/2019.
+3. "Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial"."(AgInt no REsp 1.861.500/AM, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021).
+4. Na forma da jurisprudência desta Corte, "o Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF" (AgInt no REsp 1.846.621/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 11/12/2020).
+5. É inadmissível o recurso especial quando o acórdão recorrido se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação da Súmula 283/STF.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.053.302/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/10/2023, DJe de 19/10/2023.) (Grifos acrescidos).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REVOGAÇÃO DE MANDATO. ENTENDIMENTO DOMINANTE NESTA CORTE. SÚMULA 83/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidência da Súmula n. 83 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgInt no AREsp n. 2.195.942/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
