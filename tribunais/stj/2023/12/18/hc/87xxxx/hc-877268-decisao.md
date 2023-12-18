@@ -1,0 +1,14 @@
+DECISÃO
+Por meio deste writ, impetrado em benefício de Danilo de Azevedo Costa - denunciado na denominada Operação Copa Livre pela prática do crime descrito no art. 337-E do Código Penal -, pretende-se, em síntese, a concessão de liminar para suspender a tramitação da "Operação Copa Livre" e os efeitos das decisões proferidas em 23/11/2023 na Ação Penal n. 5022094-13.2023.4.04.0000 e na Cautelar Inominada n. 5022094-96.2023.4.04.0000; bem como, na Exceção de Incompetência n. 5025506-35.2023.4.04.0000 até o julgamento final deste writ of habeas corpus (fl. 17) e, no mérito, seja concedida a ordem de habeas corpus para saneamento dos autos da "Operação Copa Livre" e anulação dos julgados de 23/11/2023 na Ação Penal n. 5024337-13.2023.4.04.0000 e na Cautelar Inominada n. 5022094-96.2023.4.04.0000; bem como, na Exceção de Incompetência n. 5025506-35.2023.4.04.0000 (fl. 17), ao argumento de uma série de vícios processuais; entre os quais, alguns provenientes da remessa dos autos físicos (papel) do TJRS para o TRF (fls. 7/8), ferindo de morte o devido processo legal e fulminando com o contraditório e a ampla defesa insculpidos na Carta Magna (Art. 5º, LV).
+Estes autos foram a mim distribuídos por prevenção (HC n. 746.062/RS).
+É o relatório.
+O presente writ não comporta conhecimento.
+Isso porque não houve o esgotamento da instância ordinária.
+Como consignado na petição inicial, o Desembargador Relator (Juiz Federal convocado) do Tribunal Regional Federal da 4ª Região não enfrentou as alegações concernentes aos vícios processuais e, via de consequência, aos respectivos saneamentos, sendo os pleitos contemplados para certificação e acesso via Secretaria (fl. 9), dando sequência à tramitação do feito originário; contudo, não houve a interposição de agravo regimental na origem contra tal ato (não há prova pré-constituída nesse sentido).
+Sob esta moldura, diante da ausência de manifestação da Corte a quo sobre o tema ora trazido nas razões da presente impetração, fica este Tribunal Superior impedido do exame direto, sob pena de se incidir em indevida supressão de instância.
+Sobre o tema, os seguintes precedentes deste Tribunal Superior: HC n. 446.987/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/8/2018; RCD no HC n. 447.287/SP, de minha relatoria, Sexta Turma, DJe 29/5/2018; AgRg no HC n. 399.172/MA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/8/2017; e AgInt no HC n. 379.806/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 2/2/2017.
+Em face do exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. OPERAÇÃO COPA LIVRE. TESE DE VÍCIOS PROCESSUAIS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO DESEMBARGADOR RELATOR. AUSÊNCIA DE INTERPOSIÇÃO DO RECURSO CABÍVEL. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
