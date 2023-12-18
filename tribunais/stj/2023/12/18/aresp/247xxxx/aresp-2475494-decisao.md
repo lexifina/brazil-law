@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por WILSON DONIZETI TOFOLI contra decisão que inadmitiu recurso especial (e-STJ, fls. 588-589) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 565):
+Apelação - Reintegração de posse de bem imóvel Procedência Autora que comprova a posse anterior, ainda que indireta, pela demonstração da matrícula do bem - Requerido que invoca aquisição do imóvel, apresentando contrato firmado com pessoa da qual não se comprova qualquer participação em cadeia dominial - Improcedência do pleito de usucapião formulado pelo réu que traz indícios veementes da ausência do "animus domini", consideradoo processamento regular com ampla cognição - Caberia ao requerido, assim, afastar tal premissa, o que não se deu - Afastada a posse justa do réu em relação à autora, não há como, nestes autos, ver-se atendido o pleito indenizatório formulado em resposta Pedido, ademais, que se apresenta genérico - Decisão mantida Recurso improvido.
+Nas razões do recurso especial, alegou o recorrente, com base na alínea a do permissivo constitucional, violação aos arts. 561, I e II, do CPC/2015; e 1.255 do CC/2002.
+Apreciada a admissibilidade do apelo excepcional, o Tribunal de origem inadmitiu a insurgência por ausência de demonstração da ofensa aos dispositivos legais apontados; bem como pela incidência da Súmula 7/STJ.
+Diante de tal fato, foi interposto o presente agravo em recurso especial (e-STJ, fls. 592-594).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+O entendimento desta Corte é no sentido de que a parte recorrente deve rebater os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A parte recorrente realizou a impugnação específica dos fundamentos contidos na decisão de inadmissibilidade do recurso especial. Decisão da Presidência do STJ reconsiderada.
+2. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3. No caso, a recorrente não logrou êxito em comprovar sua impossibilidade de arcar com o pagamento das custas e das despesas judiciais, pois os balancetes acostados aos autos demonstram que detém ativos suficientes. Incidência da Súmula 83/STJ.
+4. Agravo interno provido para, em nova decisão, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.412.877/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DEFEITO QUE CONDUZ AO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL, CONFORME CORRETAMENTE DECIDIDO PELA PRESIDÊNCIA DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade, em especial a incidência da Súmula n.º 7 do STJ.
+2. A parte agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo interno, em virtude da ocorrência da preclusão consumativa.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.297.074/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+No caso em exame, nos termos da decisão de admissibilidade, o Tribunal de origem inadmitiu a insurgência pelos dois fundamentos retromencionados.
+Todavia, da leitura da petição de agravo em recurso especial, constata-se que o agravante não procedeu à impugnação específica de todos os argumentos mencionados pela Corte estadual para inadmitir o apelo especial, deixando de refutar a ausência de demonstração da ofensa aos arts. 561, I e II, do CPC/2015; e 1.255 do CC/2002.
+Dessa forma, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice no teor do art. 932, III, do CPC/2015, desatendendo o recorrente o princípio da dialeticidade exigido na esfera recursal.
+Ante o exposto, não conheço do agravo em recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
