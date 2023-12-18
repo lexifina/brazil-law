@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RODRIGO DAMASCENO SILVA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi condenado à pena de 40 anos de reclusão, em regime inicial fechado, pela prática dos delitos descritos no art. 121, §2º, I, III e IV, e art. 121, §2º, I, III e IV, c/c art. 14, II, na forma do art. 69, todos do Código Penal (e-STJ, fls. 11-17).
+A Corte Estadual deu parcial provimento ao recurso da defesa, para reduzir a pena imposta ao paciente para 30 anos de reclusão, a ser cumprida no regime inicial fechado (e-STJ, fls. 18-44).
+Neste writ, a defesa sustenta que deve ser aplicado na hipótese o disposto no art. 580 do CPP, em atenção ao princípio da isonomia, tendo em vista que o paciente se encontra na mesma situação fático-processual que o corréu Jeronimo, que foi beneficiado com a redução de sua pena nos autos do HC862325/RJ.
+Aduz que, com a edição da Súmula 659/STJ, reconhecida a continuidade delitiva entre dois crimes, deve ser aplicada a fração de aumento de 1/6, o que foi concedido ao referido corréu.
+Requer, assim, a extensão ao paciente dos efeitos da decisão proferida nos autos do HC862235/RJ em favor do corréu, com a consequente redução da pena corporal a ele imposta.
+Indeferida a liminar (e-STJ, fl. 50), o Ministério Público Federal opinou pela concessão da ordem, de ofício (e-STJ, fls. 61-74).
+É o relatório.
+Decido.
+Nos termos do art. 580 do Código de Processo Penal, a decisão do recurso interposto por um dos acusados, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Ao apreciar o HC862325/RJ, entendi caracterizado constrangimento ilegal na dosimetria da pena imposta ao corréu Jeronimo, sob o fundamento de que, "tendo a Corte Estadual concluído pela prática de 2 infrações (e-STJ, fl. 19), a fração de aumento do crime continuado de 1/2 mostra-se desalinhada ao entendimento desta Corte Superior acerca do tema, sendo devida a incidência da fração de 1/6".
+Cumpre ressaltar que, apesar de o paciente e o corréu Jeronimo terem sido denunciados pelas mesmas condutas de homicídio qualificado e homicídio qualificado tentado, praticadas em 3/11/2011, responderam a ações penais diversas, por ter o feito sido desmembrado.
+Com isso, o paciente e o corréu Paulo Leandro foram condenados na Ação Penal 1059009-79.2011.8.19.0002, enquanto Jeronimo e os demais corréus foram julgados no Processo 1059690-49.2011.8.19.0002.
+Os acusados, contudo, foram condenados como incursos no art. art. 121, §2º, I, III e IV, e art. 121, §2º, I, III e IV, c/c art. 14, II, na forma do art. 71, parágrafo único, todos do Código Penal.
+Neste contexto, resta evidenciada a existência de similitude fático-processual entre o paciente e o corréu Jeronimo, devendo a decisão ser-lhe estendida, em atendimento ao disposto no art. 580 do CPP.
+Nestes termos, trago à colação os seguintes julgados:
+"PEDIDO DE EXTENSÃO EM HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO, FALSIDADE IDEOLÓGICA E QUADRILHA. PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO JUSTIFICADA À LUZ DO ART. 312 DO CPP. DESPROPORCIONALIDADE DA MEDIDA EXTREMA. PROVIDÊNCIAS CAUTELARES DIVERSAS. ART. 319 DO CPP. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA. ORDEM CONCEDIDA DE OFÍCIO. IDENTIDADE DE SITUAÇÕES PROCESSUAIS. EXTENSÃO DEFERIDA.
+1. Esta Quinta Turma, por maioria de votos, reconheceu que a manutenção da custódia antecipada do paciente seria medida excessiva diante do tempo de prisão já cumprido e que a finalidade almejada quando da ordenação da preventiva poderia ser atingida com a aplicação de providências cautelares alternativas, concedendo-lhe a ordem de ofício para substituir a preventiva por providências cautelares alternativas.
+2. Verificada a identidade fático-processual entre a situação do paciente e o do requerente e que a decisão que concedeu a ordem de ofício não se encontra fundada em motivos de caráter pessoal, aplica-se o disposto no artigo 580 do Código de Processo Penal.
+3. Pedido de extensão deferido para substituir a custódia preventiva do requerente pelas medidas alternativas à prisão previstas no art. 319, I, IV, V e VIII, do Código de Processo Penal, mantido o pagamento da fiança no valor de 100 (cem) salários mínimos, devendo ser expedido o competente alvará de soltura em seu favor, salvo se por outro motivo estiver preso." (PExt no HC 401.867/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/2/2018, DJe 7/3/2018, grifou-se);
+"HABEAS CORPUS. PEDIDO DE EXTENSÃO. SIMILITUDE DE SITUAÇÃO PROCESSUAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA DE NATUREZA EXCLUSIVAMENTE PESSOAL. INCIDÊNCIA DO DISPOSTO NO ART. 580 DO CÓDIGO DE PROCESSO PENAL.
+1. O deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, nos ditames do art. 580 do Código de Processo Penal. Precedentes.
+2. Na espécie, os motivos que ensejaram o afastamento do regime prisional mais severo - inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990 - e justificaram a escolha do regime intermediário - presença de circunstâncias judiciais desfavoráveis - se comunicam ao corréu.
+3. Pedido deferido a fim de estabelecer para o corréu LUIZ CEZAR OSSANI o regime semiaberto para o início do desconto da reprimenda." (PExt no HC 339.880/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018, grifou-se).
+Passo, portanto, à análise da nova pena aplicada ao paciente.
+Fazendo incidir a fração da continuidade delitiva sobre a maior pena de 20 anos de reclusão, chega-se à pena definitiva de 23 anos e 4 meses de reclusão.
+Ante o exposto, não conheço do writ, mas concedo a ordem para, nos termos da decisão proferida nos autos do HC862325/RJ em favor de Jerônimo de Rezende Teixeira , reduzir a pena do paciente para 23 anos e 4 meses de reclusão, mantido o regime inicial fechado.
+Publique-se. Intimem-se.
+EMENTA
