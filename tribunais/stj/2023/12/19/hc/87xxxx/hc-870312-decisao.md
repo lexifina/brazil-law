@@ -1,0 +1,29 @@
+DECISÃO
+JOSE TEIXEIRA SOBRINHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.23.271258-8/000.
+A defesa pretende a revogação da prisão preventiva do paciente - preso em flagrante pela prática, em tese, dos crimes previstos nos arts. 306 e 309 do Código de Trânsito Brasileiro - sob os argumentos de ausência de preenchimento dos requisitos da constrição processual e de carência de fundamentação concreta e idônea no decreto cautelar.
+Indeferida a liminar (fls. 185-186) e prestadas as informações (fls. 192-233), foram os autos ao Ministério Público Federal, que opinou pela denegação da ordem (fls. 244-249).
+Decido.
+Infere-se dos autos que o insurgente foi preso em flagrante, no dia 14/10/2023, pela suposta prática dos delitos tipificados nos arts. 306 e 309 do Código de Trânsito Brasileiro.
+Ao homologar a prisão em flagrante e convertê-la em preventiva, o Juízo singular consignou o seguinte (fls. 100-101, grifei):
+ ..  No caso em tela, o autuado já foi condenado anteriormente por crime doloso de trânsito, conforme CAC de ID 10090101404. Pois bem. A materialidade do delito está demonstrada pelo auto de apreensão de ID10090065079, pelo REDS com anexo fotográfico de ID 10090065072 e pelo documento médico da vitima de ID 10090065084. Os indícios de autoria revelados pelos depoimentos tomados pela autoridade policial mostram-se suficientes a permitir a custódia cautelar. Depreende-se de tais depoimentos que o autuado, alcoolizado e dirigindo sem habilitação, causou colisão frontal entre seu veiculo (FIAT/Pálio) e outro carro (FIAT/Strada), vitimando Ederson Edenir Rutsatz, que foi hospitalizado com sangramentos e suspeita de traumatismo craniano. Resta a análise sobre a presença de alguma das hipóteses caracterizadoras do periculum libertatis. No caso, está evidenciado o perigo gerado pelo estado de liberdade do(a) autuado(a), senão vejamos.  ..  Voltando ao caso vertente, a CAC de ID 10090101404 aponta que o conduzido já foi autuado anteriormente três vezes por delitos de trânsito, tendo sido beneficiado por transação penal e por composição civil em dois dos registros, e já foi condenado definitivamente no terceiro (outro crime de trânsito com vitima), estando em cumprimento pena. Ou seja, é evidente o risco efetivo de reiteração criminosa e é evidente também que o autuado não vai parar de dirigir desautorizado, de forma irresponsável e causando risco à segurança viária, afinal teve várias chances para isso, sendo insuficiente proibi-lo de dirigir ou fixação de outras cautelares diversas da prisão. Com efeito, a prisão preventiva faz-se imperiosa para garantia da ordem pública.  ..
+O Tribunal de origem ratificou o decisum supra.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, o Magistrado de primeiro grau consignou a presença dos vetores contidos no art. 312 do Código de Processo Penal, com indicação de motivação suficiente para determinar a prisão preventiva do réu, ao salientar que o acusado é reincidente específico - já foi beneficiado com transação penal em dois processos criminais e condenado definitivamente em outro - e estava em cumprimento de pena quando voltou, em tese, a delinquir.
+Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que o registro de inquéritos policiais ou ações penais em andamento denota o risco de reiteração delitiva e, por isso mesmo, é fundamento idôneo para a custódia provisória.
+I lustrativamente:
+ ..
+3. Segundo reiteradas manifestações deste Superior Tribunal, a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ.
+ ..
+7. Recurso ordinário desprovido.
+(RHC n. 106.326/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/4/2019, grifei)
+ ..
+3. Conforme pacífica jurisprudência desta Corte Superior, a preservação da ordem pública justifica a imposição da custódia cautelar quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. Precedentes.
+4. Nesse contexto, mostra-se indevida a aplicação de medidas cautelares alternativas ao cárcere, porque insuficientes para resguardar a ordem pública. Precedente.
+(AgRg no HC n. 591.246/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 22/9/2020)
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: " t endo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 22/9/2022).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
