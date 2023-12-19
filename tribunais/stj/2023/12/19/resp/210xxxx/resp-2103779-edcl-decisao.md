@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Alcântara Participações Ltda. à decisão monocrática proferida por este signatário, assim ementada (e-STJ, fl. 655):
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. MATÉRIAS RELEVANTES ARGUIDAS E REITERADAS. FALTA DE DELIBERAÇÃO. RECONHECIMENTO. RECURSO ESPECIAL PROVIDO.
+Em suas razões, a embargante alega a existência de omissão na decisão embargada, no tocante ao pleito de aplicação do disposto no art. 1.025 do CPC/2015, para fins de análise dos demais pedidos apresentados no recurso especial.
+Impugnação à fl. 683 (e-STJ).
+Brevemente relatado, decido.
+O inconformismo merece prosperar.
+Realmente, na hipótese dos autos, tem razão a embargante quanto à ocorrência de omissão.
+De fato, examinando os autos, observa-se que, no recurso especial, foram feitos os seguinte requerimentos (e-STJ, fls. 606-607):
+Como consequência do reconhecimento das violações ora arguidas em face da Legislação Federal, que seja dado provimento ao presente recurso, ainda, para:
+A) reconhecer, inclusive para fins de aplicação do disposto no art. 1.025, do CPC, que o acórdão objurgado incorreu nos vícios arguidos ao longo do tópico de nº IV, desta petição recursal;
+B) que seja autorizada a manutenção dos juros remuneratórios pactuados em 1% a. m, mediante capitalização anual e correção monetária pela TR (índice de remuneração básica da caderneta de poupança), porquanto tal cumulação não contraria o disposto no artigo 46, da Lei 10.931/04, estando, pelo contrário, autorizada no art. 5º, inciso III, e § 2º, da Lei nº 9.514/97, bem como nos diversos outros dispositivos legais aplicáveis ao caso, a exemplo do art. 591, do Código Civil, inclusive para os agentes do mercado imobiliário que não integram o SFI;
+C) reformar o acórdão objurgado, mediante o afastamento da culpa atribuída à Recorrente na rescisão do contrato, reenquadrando-se o desfazimento do negócio jurídico como hipótese de resolução contratual por culpa da própria parte Recorrida, ou como hipótese de desfazimento contratual imotivado e unilateral atribuível a ela, mediante a aplicação dos respectivos consectários legais e contratuais, inclusive da cláusula penal pactuada, nos termos da contestação ofertada nos autos;
+D) que conste no acórdão a ser proferido por este Pretório Excelso determinação expressa, endereçada à Corte local, para que esta julgue todas as matérias que resultaram prejudicas ante o desfecho até então conferido à lide, mas que o deixaram de ser, após o acolhimento do presente Recurso Especial, a exemplo do pedido de majoração do valor arbitrado a título de multa rescisória;
+E) determinar, quanto aos valores a serem devolvidos à parte Recorrida, que os JUROS MORATÓRIOS tenham como termo inicial de incidência o trânsito em julgado da sentença de mérito, consoante entendimento consolidado no Tema Repetitivo nº 1 .002/STJ;
+F) autorizar a retenção dos valores necessários à quitação dos débitos de IPTU e das taxas de associação de moradores eventualmente inadimplidas, no interregno entre a assinatura do contrato objeto da lide até a efetiva reintegração da Recorrente na posse do imóvel, conforme restar apurado em liquidação de sentença;
+G) ademais, considerando a consistência da argumentação articulada nos tópicos anteriores, bem como o fato de que o decisório objurgado pode gerar prejuízos irreparáveis à parte recorrente, que pode ser compelida ao pagamento de valores que não são devidos à parte contrária, pugna-se ao (à) Il. Terceiro (a) Vice-Presidente do Tribunal de Justiça de Minas Gerais, ou, conforme o caso, ao (a) Exmo. (a) Sr (a) Ministro (a) competente no Superior Tribunal de Justiça, que confira efeito suspensivo ao presente apelo, consoante o disposto no art. 1.029, § 5º, incisos I, II e III, do Código de Processo Civil;
+Não obstante, o caso em questão apresenta algumas peculiaridades, visto que a decisão embargada observou a necessidade de o Tribunal de Justiça emitir pronunciamento sobre as matérias postas pela embargante para se esclarecer questões relevantes ao julgamento da l ide.
+Desse modo, há que se explicitar que a análise das demais teses recursais se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, acolho os embargos de declaração para sanar a omissão indicada, sem efeitos modificativos.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. OMISSÃO. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
