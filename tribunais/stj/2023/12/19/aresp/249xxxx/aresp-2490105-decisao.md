@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CMOC BRASIL MINERAÇÃO, INDUSTRIA E PARTICIPAÇÕES contra a decisão de fls. 312-314, que inadmitiu o recurso especial em razão da aplicação da Súmula n. 7 do STJ.
+Nas razões do agravo em recurso especial, a recorrente afasta a aplicação da Súmula n. 7 do STJ, sustentando não ser necessário o reexame de fatos e provas dos autos, haja vista que a violação alegada tem como origem a compreensão equivocada do TJGO acerca de quais seriam os fundamentos jurídicos a serem cotejados na aferição da pretensão da agravante em sede de tutela de urgência.
+Esclarece que pretende a agravante a imissão na posse do imóvel do agravado, mediante depósito judicial de quantia apurada em avaliação prévia, considerando-se a necessidade de dar prosseguimento às atividades minerais que lhes foram autorizadas pelo órgão competente.
+Registra que o Tribunal concluiu pela impossibilidade de deferimento da tutela de urgência sem a avaliação judicial, que é o próprio desiderato da ação de servidão minerária, o que viola o art. 300 do CPC, já que cria requisitos diversos do previsto no referido dispositivo.
+Aduz que, assim, para a obtenção da tutela de urgência a parte interessada terá que demonstrar os mesmos requisitos da tutela definitiva, no caso, a avaliação judicial.
+Afirma que o pedido principal - servidão e posse dela advinda - não se confunde com o pedido provisório - imissão na posse em momento anterior à tutela final -, sendo que este último tem amparo não só no Código de Mineração e em todo regramento que disciplina o direito minerário e principalmente no artigo 300 do CPC.
+Registra que o TJGO julgou um pedido (posse com base na urgência) em cotejo aos fundamentos jurídicos exclusivos de outro pedido que sequer está em discussão (posse definitiva).
+Requer o provimento do agravo em recurso especial.
+Contraminuta ao agravo em recurso especial às fls. 433-435.
+É o relatório. Decido.
+Pretende a recorrente a imissão na posse do imóvel do recorrido, mediante depósito judicial de quantia apurada em avaliação prévia, considerando-se a necessidade de dar prosseguimento às atividades minerais que lhes foram autorizadas pelo órgão competente.
+É cediço que o Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+De fato, para a concessão da tutela provisória de urgência a legislação processual, exige os seguintes requisitos a serem verificados em análise perfunctória: probabilidade do direito e perigo de dano ou o risco do resultado útil do processo (CPC, art. 300).
+No caso dos autos, o Tribunal a quo concluiu que descabe a concessão de tutela de urgência. Destacou que, de acordo com os arts. 59 e 60 do Decreto-Lei n. 227/1967, as servidões somente serão instituídas mediante indenização prévia do valor do terreno ocupado e dos prejuízos resultantes dessa ocupação e, não havendo acordo entre as partes quanto ao valor da indenização, o montante deverá ser fixado através de perícia ou vistoria e depositado judicialmente, o que ainda não teria se verificado no caso em apreço.
+Assim, entendeu que não foi preenchido o requisito da probabilidade do direito do art. 300 do CPC, impondo-se a reforma da decisão agravada para determinar a realização de perícia prévia à apreciação do pleito liminar de imissão na posse.
+Contudo, no caso, alt erar o entendimento do Tribunal a quo acerca do preenchimento dos requisitos e a concessão da tutela de urgência, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial por esbarrar no óbice da Súmula n. 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. REQUISITOS DO ART. 300 DO CPC. SÚMULA N. 7 DO STJ.
+1. Inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal, na Súmula n. 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir-se eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC), e não violação da norma que diga respeito ao mérito da causa.
+3. No caso, o Tribunal de Justiça concluiu que foram comprovados os requisitos para a concessão da tutela de urgência. Logo, descabe o exame da tese alegada no recurso especial de contrariedade aos arts.
+10, inciso V da Lei n. 9.656/98, 12 e 66 da Lei n. 6.360/76, e 10, inciso V da Lei n. 6.437/76 pois os referidos normativos não estão relacionados aos requisitos de concessão das medidas de urgência, mas sim ao mérito. Incidência, por analogia, da Súmula n. 735/STF.
+4. A pretensão de alterar o entendimento a que chegou o Tribunal de origem quanto ao preenchimentos dos requisitos de concessão da tutela de urgência, demandaria o revolvimento de matéria fático-proba tória, inviável em sede de recurso especial por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido. (AgInt no AREsp n. 2.029.223/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
