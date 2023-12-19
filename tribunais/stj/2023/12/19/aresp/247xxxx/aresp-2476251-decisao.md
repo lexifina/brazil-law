@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por IARA DA SILVA TERRA PORTO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 425):
+Dano moral incompetência da Corte Estadual para o processamento do pedido de dano moral - Posicionamento que está alinhado com as Cortes Superiores Recurso - desprovido.
+Benefício acidentário verificados o nexo causal e a incapacidade total e temporária, de rigor a concessão do auxílio-doença.
+A verba honorária deverá ser fixada na fase de liquidação, conforme disposto no artigo 85, §§ 3º e 4º, II do CPC, observando-se o que vier a ser decidido no Tema nº 1105 do STJ.
+Embargos de declaração rejeitados (e-STJ fls. 447/450).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 11 e 1.022, II, do CPC/2015, por negativa de prestação jurisdicional, ante o não suprimento de omissão apontada no que diz respeito ao termo inicial do benefício a ser fixado logo após a cessação indevida, de 17/12/2013 a 13/09/2021 (data de concessão do auxílio-doença).
+Sem contrarrazões.
+Juízo de retratação não exercido (e-STJ fls. 472/475):
+Acidente do Trabalho Reexame da matéria, nos termos do art. 1.040, inciso II, do Código de Processo Civil - Reapreciação da fixação do termo inicial em razão do julgamento do mérito do REsp nº 1.729.555 (Tema 862STJ) Inaplicabilidade in casu - Provimento mantido.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. 1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material. 2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso. 3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018). 4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 449):
+O desfecho utilizado na decisão combatida deixou claro que o benefício cabível no caso em tela é o auxílio-doença acidentário, compatível com a incapacidade apurada laudo judicial, não havendo que falar na concessão de auxílio-acidente.
+Quanto ao termo inicial, o benefício de auxílio-doença foi concedido a partir laudo, inclusive considerando as razões de apelação (item 1 - fls. 409) e teor do laudo. Em relação à cessação do benefício de auxílio-doença, constou da decisão que "será devido até a submissão a nova avaliação administrativa pelo perito do INSS em que eventualmente se constate a cessação da situação incapacitante ou a sua consolidação quer de forma total e permanente ou parcial e permanente, com a concessão do benefício adequado".
+Na realidade, a embargante discorda quanto ao entendimento apresentado pelo colegiado e pretende, por meio de embargos de declaração, rediscutir controvérsia já dirimida e obter a reforma da decisão.
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b ", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
