@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEANDRO DOS SANTOS LOPES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu o recurso especial.
+Segundo alegado no apelo nobre, o Tribunal a quo teria violado os arts. 1º, 33, §§ 2º e 3, e 155, § 4º, todos do Código Penal, e o art. 927, inciso III, do Código de Processo Civil. Em face disso, a defesa requereu o decote da qualificadora do 155, § 1º, do Código Penal, e a fixação do regime semiaberto (fls. 340-347).
+Em virtude do Tema 1.087, STJ, os autos foram submetidos novamente à apreciação da 4ª Câmara de Direito Criminal (fl. 359).
+Conquanto a qualificadora atinente ao repouso noturno tenha sido afastada, e a pena fixada em 02 (dois) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão e 11 (onze) dias-multa, os julgadores deliberaram pela manutenção do regime inicial fechado (fls. 362-367).
+Ato contínuo, a defesa ratificou o interesse na continuidade do recurso especial quanto ao pedido de fixação do regime semiaberto (fl. 379). Todavia, o apelo nobre foi inadmitido por versar sobre matéria constitucional e, também, devido à incidência da Súmula n. 7, STJ (fls. 386-387).
+No presente agravo, a defesa afirma que o recurso especial não se fundou em matéria constitucional e requer o afastamento da Súmula n. 7, STJ (fls. 393-399).
+Em contrarrazões, o Ministério Público do Estado de São Paulo aduz que o agravo não deve ser conhecido, nos termos da Súmula n. 182, STJ, e, no mérito, pugna pelo não conhecimento do recurso especial, nos termos das Súmulas n. 7, STJ, e n. 284, STF (fls. 402-405).
+Em parecer, o Ministério Público Federal opinou pelo desprovimento do agravo e pelo não conhecimento do recurso especial devido à Súmula n. 83, STJ (fls. 419-422).
+É o relatório. DECIDO.
+Inicialmente, verifico que o recurso não trata de matéria constitucional. Ademais, não incide a Súmula n. 284, STF, pois as razões recursais permitem a compreensão da controvérsia. Na mesma linha, observo que a discussão trata da incidência de normas jurídicas sobre os fatos delineados no acórdão recorrido, de modo que afasto a Súmula n. 7, STJ.
+Todavia, o apelo nobre esbarra no óbice da Súmula n. 83, STJ, pois a decisão do Tribunal a quo está de acordo com o entendimento pacificado nesta Corte, de que a concomitância dos maus antecedentes e da reincidência autoriza a fixação do regime fechado, ainda que a pena aplicada seja inferior a quatro anos de reclusão, in verbis:
+"(..) A reincidência e os antecedentes criminais justificam a fixação do regime fechado para o início do cumprimento da pena, ainda que o quantum de reprimenda seja inferior a quatro anos." (AgRg no AREsp n. 2.400.779/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/12/2023)
+"(..) No que se refere ao regime prisional, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada, uma vez que, o paciente é reincidente e portador de maus antecedentes, o que constitui fundamentação idônea para a fixação do regime inicial fechado, mesmo que a pena definitiva tenha sido inferior a 4 anos de reclusão." (AgRg no HC n. 772.827/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 17/8/2023)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PENA INFERIOR A QUATRO ANOS. MAUS ANTECEDENTES. REINCIDÊNCIA. REGIME FECHADO. POSSIBILIDADE. PRECEDENTES. SÚMULA 83, STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
