@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno de BAVES ADMINISTRADORA DE BENS LTDA contra a decisão do Ministro Presidente desta Corte de fls. 740/741.
+Anteriormente, BAVES ADMINISTRADORA DE BENS LTDA interpôs agravo contra a decisão que não havia admitido o recurso especial no qual se insurgira, com fundamento no art. 105, inciso III, alíneas a e b, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 519):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PEDIDO DE ALVARÁ DE DEMOLIÇÃO DE IMÓVEL NEGADO. IMÓVEL ARROLADO COMO UNIDADE DE INTERESSE DE PRESERVAÇÃO E INVENTARIADO COMO PATRIMÔNIO CULTURAL DO MUNICÍPIO. DECRETO MUNICIPAL N.º 2.044/2012. LEGALIDADE DO ATO ADMINISTRATIVO. PRECEDENTE DESTA CÂMARA (ACRN 1485330-6). AÇÃO JULGADA IMPROCEDENTE. SENTENÇA ESCORREITA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 553/558).
+Em seu recurso especial, a parte recorrente sustentou haver violação aos dispositivos de leis federais a seguir indicados, pelas razões ora declinadas:
+i) Arts. 1.022, II, e 489, §1º, IV e VI, do Código de Processo Civil: o acórdão tinha sido omisso ao não ter esclarecido " ..  a consequência jurídica decorrente do fato de nunca ter havido um "procedimento administrativo" visando enquadrar o imóvel do Recorrente como uma UIP  .. " (fl. 574);
+ii) Art. 17 do Decreto-Lei 25/1937: a figura da Unidade de Interesse de Preservação, criada pela legislação municipal, não configurava tombamento, não podendo o ente público local criar nova figura restritiva do direito de propriedade.
+Afirmou ainda ter o Tribunal de origem, indevidamente, julgado válido o Decreto Municipal 2.044/2012 quando contestado em face do art. 17 do Decreto-Lei 25/1937, porquanto não poderia o ato local restringir seu direito de propriedade sem decretar o tombamento do imóvel.
+A parte adversa apresentou contrarrazões (fls. 652/669).
+O recurso não foi admitido, razão por que foi apresentado agravo em recurso especial.
+Às fls. 740/741 o Ministro Presidente desta Corte Superior não conheceu do agravo.
+Contra a decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente argumenta a não incidência da Súmula 182/STJ.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Acerca da existência de procedimento administrativo, o Tribunal a quo estabeleceu premissa expressamente contrária àquela defendida pela parte ora recorrente, afirmando não apenas ter havido procedimento mas também sua regularidade. In verbis (fl. 526):
+Verifica-se, ainda, ao contrário do que sustenta a autora-apelante, que foram observados o contraditório e ampla defesa, uma vez que, de acordo com os documentos juntados com a inicial, o Município respondeu aos pedidos por ela formulados de forma fundamentada, fazendo, inclusive, consultas ao IPPUC-Instituto de Pesquisa e Planejamento Urbano de Curitiba, à FCC- Fundação Cultural de Curitiba e à PGM - Procuradoria -Geral do Município.
+A justificativa exposta pelo Município réu evidencia a prevalência do interesse público, "considerando-se a importância da preservação deste imóvel para a cidade de Curitiba pelo seu significado histórico, cultural e arquitetônico" (mov. 1.10, fl. 108).
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Quanto à possibilidade de restrição ao direito de propriedade mediante o ato local impugnado, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem afastou a pretensão autoral fundamentado na interpretação dos arts. 30, I e IX, e 216, § 1º, da Constituição Federal, nestes termos (fl. 522):
+Cinge-se a controvérsia recursal em saber se foi ou não ilegal o indeferimento do pedido da autora de expedição de alvará para demolição de imóvel de sua propriedade, situado na Rua Bispo Dom José, n.º 2.302, em Curitiba/PR, cadastrado junto ao Município réu como uma Unidade de Interesse de Preservação- UIP.
+Em que pese os argumentos reiterados pela autora em sede recursal, é certo que o Município pode (leia-se: deve) estabelecer determinadas restrições a direitos individuais, notadamente ao direito de propriedade, em prol da proteção do patrimônio histórico e cultural da sua localidade, com espeque constitucional no art. 30, incisos I e IX (CF).
+Nos termos do §1º do art. 216 da CF, são admissíveis toda e qualquer forma de acautelamento e preservação ao patrimônio histórico cultural, verbis  .. .
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, seja com fundamento na alínea a ou na alínea b do permissivo constitucional, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da Constituição Federal.
+Ante o exposto, reconsidero a decisão de fls. 740/741 e conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
+EMENTA
