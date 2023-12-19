@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por TRANSPOMER TRANSPORTES E SERVICOS GERAIS LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 11/7/2023.
+Concluso ao gabinete em: 23/10/2023.
+Ação: Recuperação judicial proposta pela recorrente.
+Decisão interlocutória: indeferiu o pedido de nova prorrogação do stay period.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente, conforme ementa a seguir (fl. 117):
+AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. RECUPERAÇÃO JUDICIAL. NOVA PRORROGAÇÃO DO PERÍODO DE BLINDAGEM. STAY PERIOD. IMPOSSIBILIDADE. NÃO PUBLICAÇÃO DO EDITAL EM ÓRGÃOS OFICIAIS E EM JORNAL DE GRANDE CIRCULAÇÃO. QUESTÃO JÁ DECIDIDA EM AGRAVO ANTERIOR. RECURSO CONHECIDO E DESPROVIMENTO.
+1. "A jurisprudência do STJ, buscando dar efetividade às citadas normas legais, bem como evitar o esvaziamento dos propósitos da recuperação, posicionou-se no sentido de que o prazo legal de 180 dias para o cumprimento das obrigações estabelecidas no plano de recuperação, previsto no art. 6º, § 4º, da Lei 11.101/2005, há de ser flexível porque seu simples decurso não enseja a retomada automática das execuções individuais" (AgRg no CC 142.082/DF, Relator Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 17/3/2020, DJe 19/3/2020).
+2. Ocorre que, no presente caso, vejo nítida tentativa de desvirtuamento do procedimento da recuperação judicial, sobretudo porque já havia sido prorrogado o stay period por uma vez, sem que tenha havido a publicação do edital em jornal de grande circulação, exigência esta que compreende na necessidade de alcançar maior número de credores acerca do processamento da recuperação judicial, e que não foi flexibilizada quando do julgamento do mencionado agravo de instrumento nº 5008171-90.2022.8.08.0000.
+3. Deve- se registrar que quando do deferimento do plano pelo juízo de primeiro grau, tal requisito - publicação do edital em jornal de grande circulação - já era de conhecimento do recorrente, sem que tenha havido insurgência naquele momento. Isso porque, a irresignação através do agravo de instrumento anterior, se deu sobretudo sob o viés de que o prazo de 180 dias havia transcorrido, bem como pela necessidade de flexibilização da norma quanto ao cumprimento do requisito já mencionado.
+4. Neste contexto, ausente a probabilidade do direito neste recurso, notadamente porque não visualizei elementos quanto a impossibilidade financeira da recuperanda em arcar com os custos da publicação do edital em jornais de grande circulação, tendo a argumentação do recorrente circundado tão somente na desnecessidade de cumprimento de tal requisito pela abrangência da empresa.
+5. Recurso conhecido e desprovido. Agravo Interno prejudicado.
+Recurso especial: alega violação do art. 191 da Lei 11.101/2005, bem como dissídio jurisprudencial. Sustenta, em síntese, que é incabível exigir da empresa recuperanda a publicação em jornal ou revista, conforme previsto no mencionado dispositivo. Além disso, busca uma nova prorrogação do stay period.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O Tribunal de origem, ao indeferir a nova prorrogação do stay period, assim decidiu (fls. 119-120):
+De saída, destaco que "a jurisprudência do STJ, buscando dar efetividade às citadas normas legais, bem como evitar o esvaziamento dos propósitos da recuperação, posicionou-se no sentido de que o prazo legal de 180 dias para o cumprimento das obrigações estabelecidas no plano de recuperação, previsto no art. 6º, § 4º, da Lei 11.101/2005, há de ser flexível porque seu simples decurso não enseja a retomada automática das execuções individuais" (AgRg no CC 142.082/DF, Relator Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 17/3/2020, DJe 19/3/2020).
+Ocorre que, no presente caso, vejo nítida tentativa de desvirtuamento do procedimento da recuperação judicial, sobretudo porque já havia sido prorrogado o stay period por uma vez, sem que tenha havido a publicação do edital em jornal de grande circulação, exigência esta que compreende na necessidade de alcançar maior número de credores acerca do processamento da recuperação judicial, e que não foi flexibilizada quando do julgamento do mencionado agravo de instrumento nº 5008171-90.2022.8.08.0000.
+ .. .
+Ademais, deve-se registrar que quando do deferimento do plano pelo juízo de primeiro grau, tal requisito - publicação do edital em jornal de grande circulação - já era de conhecimento do recorrente, sem que tenha havido insurgência naquele momento. Isso porque, a irresignação através do agravo de instrumento anterior, se deu sobretudo sob o viés de que o prazo de 180 dias havia transcorrido, bem como pela necessidade de flexibilização da norma quanto ao cumprimento do requisito já mencionado.
+Neste contexto, ausente a probabilidade do direito neste recurso, notadamente porque não visualizei elementos quanto a impossibilidade financeira da recuperanda em arcar com os custos da publicação do edital em jornais de grande circulação, tendo a argumentação do recorrente circundado tão somente na desnecessidade de cumprimento de tal requisito pela abrangência da empresa.
+Na verdade, a interpretação do C. Superior Tribunal de Justiça acerca da publicação do edital em jornal de grande circulação aponta não em relação a abrangência da empresa recuperanda, mas sim quanto a impossibilidade financeira para seu fazimento, a qual não restou demonstrada quando do julgamento do anterior e tampouco reavaliando a questão neste momento.
+Neste sentido, a Terceira Turma, ao interpretar a norma inserta no artigo 191 da Lei de Recuperação e Falência  com a redação anterior à Lei 14.112/2020  , adotou o entendimento de que as publicações dos editais convocatórios (ou de aviso) dos credores "devem ser levadas a cabo sempre na imprensa oficial, sendo apenas exigível que se proceda à publicação em jornal ou revista de circulação regional ou nacional se as possibilidades financeiras do devedor ou da massa falida comportarem" (REsp 1.758.777/PR, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 11.09.2018, DJe 13.09.2018).
+Diante de tais considerações, não é viável nova prorrogação do período de blindagem, sob pena de subverter o procedimento da recuperação judicial.
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Recuperação judicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Recurso especial não conhecido.
