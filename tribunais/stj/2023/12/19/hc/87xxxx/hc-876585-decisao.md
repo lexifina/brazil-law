@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de MARIA ELITAINY DE SOUZA CARVALHO , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA  (HC 0826314-53.2023.8.15.0000).
+A paciente foi presa preventivamente por suposta infração aos arts. 12 e 16, § 1º, III, da Lei nº 10.826/2003 (posse irregular de arma de fogo de uso permitido e posse de explosivo) e ao art. 2º da Lei nº 12.850/2013 (organização criminosa), pois em cumprimento de mandado de busca e apreensão à residência, a autoridade policial teria encontrado expressiva quantia de explosivos, armas de fogo e materiais destinados a explosão de carro forte e caixa eletrônico.
+O habeas corpus impetrado pela defesa teve a sua liminar indeferida na origem por meio de decisão monocrática (e-STJ fls. 11-13).
+A defesa alega: a) afastamento da Súmula 691 do Supremo Tribunal Federal devido à manifesta ilegalidade; b) "a cópia integral do parecer ministerial deixa claro que o Parquet pugnou pela liberdade de Maria Elitainy, como já havia feito antes, desta vez destacando a identidade fático-jurídica em relação aos réus soltos, o que obviamente é indiscutível" (e-STJ fls. 7-8); e c) "com uma decisão teratológica e na contramão de todo o exposto na decisão que libertou os demais investigados, a autoridade coatora indeferiu o pleito de revogação da prisão preventiva da paciente, ainda que o Ministerio Público tenha pugnado pela liberdade" (e-STJ fl. 8).
+Requer, liminar e definitivamente, deferimento da ordem para que revogar a prisão preventiva, com ou sem a imposição de medidas cautelares diversas.
+É  o  relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 12):
+Como é cediço, a concessão de tutela de eficácia imediata(liminar) em habeas corpus constitui medida de extrema excepcionalidade, somente admitida nos casos em que demonstrada, de forma manifesta, a necessidade e urgência da ordem, bem como o abuso de poder ou a ilegalidade do ato impugnado.
+Num primeiro olhar, contudo, não vejo robustez nas alegações do impetrante, por conseguinte, não vislumbro a fumaça do bom direito necessária para a concessão da liminar.
+No caso concreto, a paciente teve a sua prisão preventiva decretada, no dia 10/11/2023, sob o fundamento do resguardo da ordem pública, considerando a possível prática dos delitos previstos nos arts. 12 e 16, §1º, III, ambos da Lei nº 10.826/2003, e no art. 2º da Lei nº 12.850/2013 (ID 25252820 - Pág. 01/04).
+Além disso, a paciente teve indeferido o pleito de extensão de benefícios conferido a outros investigados, conforme atesta a decisão de ID.25251715, a qual é contestada no presente mandamus.
+A despeito dos argumentos do impetrante, as circunstâncias mencionadas na impetração não restaram evidenciadas de plano, vale dizer, as supostas ilegalidades declinadas na inicial não podem ser constatadas de imediato, motivo que torna impossível a concessão da medida emergencial.
+Ora, em um primeiro exame, percebe-se que a magistrada de primeiro grau apresentou argumentos concretos para não acolher o pedido de extensão, pontuando a ausência de identidade fático-processual entre as situações da paciente e dos investigados que tiveram a segregação cautelar revogadas, da qual a defesa não conseguiu, a priori, refutar.
+Dessa forma, restando ausente um dos fundamentos essenciais ao deferimento da medida liminar de urgência, impossível a concessão da medida.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
