@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo apresentado por SABEMI PREVIDÊNCIA PRIVADA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO NÃO CONTRATADO. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. SÚMULA Nº 479 DO STJ. EXAME GRAFOTÉCNICO. ÔNUS DA PROVA. ART. 373, II, DO CPC. DANO MORAL. CABIMENTO. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. MANUTENÇÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE.
+1.Incumbe à instituição financeira, na qualidade de fornecedora, realizar prova nos autos acerca da higidez da contratação supostamente realizada pelo consumidor, porquanto devida a inversão do ônus da prova.
+2. Constatada por meio de perícia técnica a dessemelhança de assinaturas entre o contratante e o consumidor, inafastável se mostra o reconhecimento da contratação fraudulenta e, por conseguinte, a existência de ato ilícito, o dano presumido e o nexo de causalidade que os une, pressupostos da responsabilidade objetiva.
+3. Merece ser mantido o valor indenizatório fixado em observância aos parâmetros da razoabilidade e da proporcionalidade.
+4. In casu, a decisão agravada dirimiu, fundamentadamente, as questões que foram à instância revisora, apreciando integralmente a controvérsia apresentada nas razões do recurso de apelação.
+5. Dessarte, impõe-se o desprovimento do agravo interno quando a matéria nele versada tiver sido suficientemente analisada, na decisão recorrida, e o agravante não apresentar elementos capazes de motivarem sua reconsideração ou justificarem sua reforma. Inteligência do artigo 1.021 do Código de Processo Civil.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+DECISÃO MONOCRÁTICA MANTIDA (fl. 421).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 489, IV e VI, do CPC, no que concerne à nulidade do julgado em razão de não consideração de prova dos autos, trazendo a seguinte argumentação:
+10. Aponta-se que a decisão não considerou a existência do áudio, apontando que deixou a recorrente de requerer prova pericial no mesmo, ocorre que não houve negativa do recorrida da existência da mesma e a omissão com relação a desconsideração da prova é causa de nulidade.
+11. O fato é que a recorrente apresentou nos autos as provas que possuía em seu alcance, comprovando que depositou os valores dos contratos, apresentando o contrato escrito que foi objeto de perícia e o contrato verbal, o qual não foio impugnado pelo recorrido e o mesmo foi anulado com base em prova inconclusiva.
+12. Ademais a pericia não foi requerida, pois não houve impugnação pelo recorrido do áudio destacado.
+13. Sendo assim, verifica-se clara nulidade pugnando pelo anulação do acordão, para que seja considerado o contrato verbal apresentado para julgamento do processo (fl. 443).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 186 do CC, no que concerne à inexistência de danos morais, porquanto a cobrança realizada pela recorrente estava amparada em contrato firmado entre as partes e não há comprovação de dano sofrido, trazendo a seguinte argumentação:
+14. No que tange a aplicação do dano moral, o acórdão recorrido entendeu que o fato da Recorrente ter realizado cobranças, por si só configura violação aos direitos da personalidade, sem necessidade de comprovação do dano.
+ ..
+16. Aponta-se que não se busca com o presente recurso a rediscussão dos fatos, nem análise de provas e sim se uma cobrança, sem reclamação administrativa é capaz de configurar dano moral.
+ ..
+18. Assim, requer pelo conhecimento e provimento do presente recurso para que seja afastado o dano moral arbitrado, já que a cobrança estava amparada em contrato considerado válido pela Recorrente e não houve comprovação de danos sofridos (fls. 443/444).
+Quanto à terceira controvérsia, pela alínea "c" do permissivo constitucional, a parte recorrente alega divergência jurisprudencial.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, incide o óbice da Súmula n. 284/STF em relação ao art. 489, IV e VI, do CPC, uma vez que a parte recorrente indicou como violados dispositivos legais inexistentes no ordenamento jurídico, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Confiram-se os seguintes precedentes: REsp n. 1.311.899/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 2/3/2021; AgRg no AREsp n. 692.338/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 2/6/2015; AgRg no AREsp n. 230.768/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/2/2013; AgRg no Ag n. 1.402.971/RJ, relator Ministro Massami Uyeda, Terceira Turma, DJe de 17/8/2011; AgRg no AREsp n. 522.621/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 12/12/2014; AgRg no AREsp n. 544.436/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/11/2014.
+Quanto à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+3.1.2 De plano, tenho que razão não lhe assiste, visto que toda a insurgência posta foi analisada e decidida, de forma escorreita, conforme os fundamentos jurídicos declinados pelo Relator no decisum agravado.
+3.1.3 As insurgências reiteradas neste agravo interno foram analisadas na decisão monocrática, ora Agravada, bem como nos Embargos de Declaração opostos.
+3.1.4 A propósito, destaco os fundamentos das Decisões Monocráticas (mov. 130 e 144):
+ ..
+5.1 O dano moral tem por fundamento a ofensa à dignidade humana, vale dizer, é a lesão que atinge os bens mais fundamentais inerentes a personalidade.
+ ..
+5.1.2 No caso em apreço, a conduta da instituição financeira Apelante reputa-se como antijurídica e passível de reparação moral, porque ausente nos autos prova de consentimento do consumidor Apelado sobre a celebração do suposto contrato de empréstimo, acarretando-lhe o prejuízo apontado, eis que não autorizado ao banco efetuar descontos no seu soldo.
+ ..
+3.2 Assim, não merece acolhimento o agravo interno, visto que as matérias foram analisadas na decisão monocrática agravada (fls. 427/432).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem Quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Quanto à terceira controvérsia, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
