@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE MARCELO PEREIRA DE FARIAS e ROBSON FERREIRA DOS PRAZERES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2308055-27.2023.8.26.0000.
+Extrai-se dos autos que os pacientes se encontram preventivamente custodiados em virtude da suposta prática dos delitos tipificados nos arts. 155, § 4º, inciso IV e 288 do Código Penal - CP (furto qualificado e associação criminosa) e no art. 56 da Lei n. 9.605/1998 (armazenar produto ou substância tóxica, perigosa ou nociva à saúde humana ou ao meio ambiente).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que não foi conhecido (fls. 351/354).
+No presente writ os impetrantes se insurgem contra a prisão preventiva imposta aos pacientes.
+Asseveram a ausência dos requisitos estabelecidos no art. 312 do Código de Processo Penal - CPP e a insuficiência da fundamentação evocada para decretar a custódia cautelar.
+Requerem a concessão da ordem para fins de cassar o acórdão recorrido e o decreto prisional, bem como conceder liberdade provisória aos pacientes, mesmo que aplicadas cautelares alternativas em cumulação.
+É o relatório.
+Decido.
+O mandamus não prospera.
+Verifica-se que o acórdão impugnado homologou pedido de desistência e não apreciou as questões ora submetidas à apreciação (fls. 351/354).
+Considerando que as teses defensivas não foram enfrentadas pelo Tribunal de origem no acórdão objurgado, o Superior Tribunal de Justiça está impedido de se debruçar sobre os temas, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido, destaco que " ..  até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária" (AgRg no HC n. 395.493/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 25/5/2017).
+Confira-se, ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. FUNDAMENTOS E NECESSIDADE DA PRISÃO PREVENTIVA. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RÉUS FORAGIDOS. SEGREGAÇÃO JUSTIFICADA PARA GARANTIR A APLICAÇÃO DA LEI PENAL. EXCESSO DE PRAZO. NÃO CONFIGURADO. INSTRUÇÃO CRIMINAL ENCERRADA. INCIDÊNCIA DO ENUNCIADO N. 52 DA SÚMULA DO STJ. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. As teses de ausência de fundamentação idônea para manutenção da prisão preventiva dos agravantes, desnecessidade da segregação cautelar e suficiência das medidas cautelares alternativas não foram objeto de análise pelo Tribunal de origem, sob o fundamento de que a defesa já havia impetrado 4 habeas corpus perante a Corte estadual, nos quais os referidos temas foram julgados.
+2. "Matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+3. Ainda que assim não o fosse, o juiz de primeiro grau indeferiu o pedido de revogação da prisão preventiva pois os fundamentos que justificaram a decretação da custódia permanecem inalterados. Nesse contexto, verifica-se que os fundamentos da prisão preventiva já foram examinados por este Superior Tribunal de Justiça em decisão de relatoria do Ministro João Otávio de Noronha, proferida no bojo do HC n. 742.292/GO, que não conheceu do habeas corpus, mantendo a segregação cautelar dos agravantes.
+4. Com efeito, " ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus" (AgRg no HC n. 190.293, Rel. Ministro CELSO DE MELLO, julgado em 20/10/2020, DJe 19/11/2020).
+5. Além disso, ressaltou-se que a prisão preventiva é imprescindível para garantir a aplicação da lei penal, haja vista que o mandado prisional ainda não foi cumprido, pois os agravantes encontram-se foragidos desde a época dos fatos.
+6. Sobre o tema, o Supremo Tribunal Federal entendeu que "o fato de o paciente permanecer foragido constitui causa suficiente para caracterizar risco à aplicação da lei penal a autorizar a decretação da preventiva". (HC 215663 AgR, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 04/07/2022, DJe 11/07/2022).
+7. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+8. Em consulta aos andamentos do processo no site do Tribunal de origem, verifica-se que a instrução criminal já foi encerrada, estando o feito em fase de alegações finais. Tal circunstância atrai a incidência do enunciado nº 52 da Súmula desta Corte, "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+9. De se consignar, ainda, que "no Superior Tribunal de Justiça, há farta jurisprudência dizendo que a condição de foragido afasta a alegação de constrangimento ilegal, seja pela dita ausência de contemporaneidade, seja pelo apregoado excesso de prazo para encerramento da instrução criminal" (RHC n. 174.115/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/3/2023, DJe de 29/3/2023).
+10. Eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+11. Ademais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+12. Agravo regimental desprovido.
+(AgRg no HC n. 848.542/GO, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/10/2023, DJe de 5/10/2023).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a impetração.
+Publique-se.
+Intimem-se.
+EMENTA
