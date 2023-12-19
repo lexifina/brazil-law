@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento na alínea a do inciso III do art. 105 da Constituição Federal contra acórdão do TRF da 4ª Região, assim ementado (fls. 177-184):
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. RESTITUIÇÃO DE VALORES RECEBIDOS POR FORÇA DE ANTECIPAÇÃO DE TUTELA. DESCABIMENTO.
+1. O STJ, na tese 692, referendou a possibilidade de devolução de valores previdenciários recebidos por força de decisão antecipatória de tutela posteriormente revogada.
+2. A tese em questão não se aplica quando a decisão antecipatória de tutela for confirmada, ou mesmo concedida, por meio de sentença, pois a tutela, nesses casos, deixa de ter natureza precária, visto que proferida após ampla análise do conjunto probatório.
+Os embargos de declaração opostos pelo recorrente foram rejeitados (fls. 200-203).
+O recorrente alega que houve por parte do acórdão recorrido "negativa de prestação jurisdicional, pois recusou às partes a solução de uma questão adequadamente colocada" (fl. 212).
+No mérito, requer seja viabilizada a restituição dos valores percebidos indevidamente pela parte autora, por força de antecipação de tutela posteriormente revogada.
+Sem contrarrazões.
+Decisão de admissibilidade às fls. 221-224.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+O recurso não merece prosperar. Vejamos.
+No caso, a controvérsia cinge-se à possibilidade de o segurado ser obrigado à devolução dos valores recebidos a título de aposentadoria especial, por força de antecipação de tutela em sentença, revogada em sede recursal.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+Acerca do mérito, esta Corte Superior, no julgamento do REsp 1.401.560/MT, firmou a tese 692, no sentido de decisões antecipatórias de tutela revogadas geram ao autor da ação a obrigação de devolver os benefícios previdenciários indevidamente recebidos.
+Contudo, como bem decidido pelo acórdão recorrido, em casos nos quais a tutela antecipada tenha sido confirmada ou concedida via sentença, a tese em questão não deve ser aplicada, pois, embora a natureza da liminar seja precária, a sentença é proferida após cognição exauriente. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AJUDA DE CUSTO PARA MORADIA. MAGISTRADO QUE POSSUI CÔNJUGE OU COMPANHEIRO QUE RECEBE VERBA DA MESMA NATUREZA. PRETENSÃO DE RECEBIMENTO SIMULTÂNEO. QUESTÃO PREJUDICADA EM FACE DO RECONHECIMENTO DA AUSÊNCIA DE DIREITO À ALUDIDA VANTAGEM. AO 1.773/DF. IRREPETIBILIDADE DOS VALORES PAGOS POR FORÇA DE TUTELA ANTECIPADA DETERMINADA PELO SUPREMO TRIBUNAL FEDERAL. HIPÓTESE DE DUPLA CONFORMIDADE.
+1. Cuida-se na origem de ação ordinária ajuizada por Magistrados federais em desfavor da União, objetivando a condenação desta ao pagamento de "ajuda de custo para moradia", na forma do art. 65, II, da LC n. 35/79 (LOMAN), respeitados os valores fixados para percepção do benefício pelos Ministros do Supremo Tribunal Federal.
+2. A tutela antecipada deferida aos autores foi posteriormente confirmada pela sentença e, em grau de apelação e remessa necessária, pelo Tribunal de origem.
+3. Provido o apelo especial da União para se reconhecer a ausência de direito dos autores à percepção da vantagem denominada "ajuda de custo para moradia", a qualquer título, restou prejudicada a discussão a respeito de eventual impossibilidade de que a recebessem simultaneamente com seus respectivos cônjuges ou companheiros.
+Assim, considerando-se que a decisão proferida pelo STF na AO 1.733/DF expressamente consignou a desnecessidade de repetição dos valores pagos por força de tutela antecipada, sem ressalvas, tem ela plena aplicação ao caso concreto.
+4. Ademais, "é pacífico o entendimento desta Corte afirmando não ser necessária a devolução dos valores recebidos por força de tutela antecipada concedida em sentença confirmada em 2a. instância, que, posteriormente, fora reformada em sede de Recurso Extraordinário, porquanto a dupla conformidade entre a decisão a quo e o acórdão enseja legítima expectativa de titularidade do direito, restando caracterizada sua boa-fé objetiva" (AgInt no REsp n. 1.794.901/RN, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 14/6/2019). Nesse mesmo sentido: AgRg no AgRg no REsp n. 1.473.789/PE, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 24/6/2016; EREsp n. 1.086.154/RS, relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 19/3/2014.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.004.093/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DEVOLUÇÃO DE VALORES PERCEBIDOS PELO SEGURADO A TÍTULO DE BENEFÍCIO PREVIDENCIÁRIO. DESNECESSIDADE. CONCESSÃO NA SENTENÇA E CONFIRMAÇÃO EM SEGUNDA INSTÂNCIA. REFORMA EM SEDE DE RECURSO ESPECIAL. DUPLA CONFORMIDADE. BOA-FÉ OBJETIVA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido adotou entendimento pacificado nesta Corte de não ser necessária a devolução de valores percebidos pelo segurado a título de benefício previdenciário, concedido em sentença confirmada em 2ª instância, que, posteriormente, fora reformada em sede de Recurso Especial, porquanto a "dupla conformidade" entre a decisão a quo e o acórdão enseja legítima expectativa de titularidade do direito, restando caracterizada sua boa-fé objetiva.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.064.485/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ante o exposto, conheço parcialmente do recurso para, desde logo, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA 284/STF. APOSENTADORIA ESPECIAL. RESTITUIÇÃO DE VALORES RECEBIDOS POR FORÇA DE ANTECIPAÇÃO DE TUTELA. DESCABIMENTO. ACÓRDÃO RECORRIDO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ.
