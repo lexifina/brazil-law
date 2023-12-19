@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Rubens Cipriano da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem no HC n. 2248887-94.2023.8.26.0000 (fls. 1.942/1.947).
+O paciente foi pronunciado pelo Juízo da 3ª Vara do Júri da comarca de São Paulo/SP, na Ação Penal n. 1512804-52.2022.8.26.0228, pela suposta prática do delito tipificado no art. 121, § 2º, IV e VII, na forma do art. 14, II, por duas vezes, c/c o art. 70, caput, todos do Código Penal (homicídio qualificado tentado, por duas vezes, em concurso formal de crimes).
+Nessa oportunidade, a custódia preventiva foi mantida. Submetido esse tema ao Tribunal local, a constrição cautelar foi confirmada no julgamento do HC n. 2053705-73.2023.8.26.0000.
+Nesta Casa, contra esse acórdão, tramitou o HC n. 819.384, por meio do qual houve a manutenção da prisão preventiva do paciente, dada a necessidade de garantir a ordem pública e assegurar a aplicação da lei penal (DJe 25/5/2023).
+Agora, no presente writ, o impetrante requer, em liminar e no mérito, a relativização da Súmula 21/STJ e a revogação de sua prisão preventiva, com imposição de medidas cautelares diversas da prisão ou a concessão da liberdade provisória sem fiança, expedindo-se, por via de consequência o competente alvará de soltura, diante da comprovada inexistência dos requisitos ensejadores da custódia cautelar (fl. 35).
+Menciona que sobreveio a desistência do recurso em sentido estrito interposto pela defesa contra a sentença de pronúncia e que a data designada para o julgamento pela Corte popular é 8/4/2024.
+Insiste em que a prisão preventiva do paciente não tem fundamentação idônea, é desnecessária e tem duração excessiva, até porque os supostos delito s se explicam pela legítima defesa putativa.
+Estes autos foram a mim distribuídos por prevenção.
+Depois de indeferido o pedido liminar (fls. 1.950/1.952), sobreveio petição da defesa, pretendendo fosse o julgamento do paciente incluído no mutirão de novembro de 2023 do Júri (fl. 1.958) e também a preferência e a prioridade no julgamento do presente writ (fls. 1.981 e 1.983).
+O Juízo a quo prestou informações (fl. 1.964).
+Ouvido, o Ministério Público Federal opinou conforme esta ementa (fl. 1.992):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO TENTADO. LEGALIDADE DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. INSTRUÇÃO CRIMINAL ENCERRADA. INCIDÊNCIA DA SÚMULA 52/STJ.
+1. A matéria relativa à legalidade da prisão preventiva não foi debatida pelo Tribunal e, portanto, não há como ser conhecida pelo Superior Tribunal de Justiça, cuja competência está limitada ao reexame da matéria em habeas corpus (art. 105-II-a da Constituição), sob pena de indevida supressão de instância.
+2. A alegação de excesso de prazo está superada, tendo em vista que a instrução criminal foi encerrada, circunstância que atrai a incidência da Súmula 52 desse Superior Tribunal de Justiça, segundo a qual "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo." - Parecer pelo conhecimento parcial da ordem e, na extensão, pela denegação da ordem.
+É o relatório.
+O habeas corpus não merece se conhecido no ponto envolvendo os fundamentos da prisão preventiva do paciente, pois a questão já foi analisada nesta Casa, e não cabe a reiteração de pedido. Aliás, no acórdão ora impugnado, pela mesma razão, o Tribunal estadual nem tomou conhecimento desse assunto do writ.
+Quanto ao dito excesso de prazo, não prospera a impetração.
+De um lado, aplicável a Súmula 21/STJ, segundo a qual, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+De outro, pelo que consta dos autos, o processo tramita em prazo absolutamente razoável, considerando-se a atual sistemática processual, bem como a realidade forense da Vara de origem, em que são realizadas, no mínimo, 4 sessões semanais de julgamento em plenário, sem prejuízo de todas as audiências da fase do sumário de culpa.
+O paciente foi preso em flagrante e apresentado em audiência de custódia, sendo concedida a liberdade provisória, por decisão datada de 29/5/2022. O Ministério Público ofereceu denúncia em 2/6/2022. A denúncia foi recebida em 13/6/2022, ocasião em que determinada a prisão preventiva do paciente. Citado, ele apresentou resposta à acusação. Na audiência de instrução, debates e julgamento de 8/9/2022 foram ouvidas testemunhas e na de 3/11/2022, o réu foi interrogado e foram deferidas as diligências requeridas pela defesa.
+Em 1º/3/2023, após apresentação de memoriais escritos por ambas as partes, foi proferida decisão que pronunciou o paciente como incurso nos termos do art. 121, § 2º, IV e VII, na forma do art. 14, II, por duas vezes, na forma do art. 70, caput, todos do Código Penal, mantida a prisão cautelar.
+A defesa interpôs recurso em sentido estrito. A desistência chegou aos autos quando já estavam no Tribunal estadual. Após a fase do art. 422 do Código de Processo Penal, foi designado o dia 8/4/2024, às 10h, para a realização do julgamento pelo Tribunal do Júri. Na última decisão do Magistrado de piso sobre a prisão do paciente, deixou consignado que não havia data disponível para antecipação do julgamento.
+Incensurável, portanto, a afirmação da Corte paulista (fl. 1.947): ausente demonstração da desídia estatal no desenvolvimento dos atos processuais exaustivamente explicitado o lapso temporal para o ato solene.
+Com base no exposto, conheço em parte do writ e, nessa extensão, denego a ordem.
+De ofício, expeça-se recomendação ao Juízo de Direito para verificar novamente se surgiu data para antecipar a sessão do Júri em questão.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO, POR DUAS VEZES, EM CONCURSO FORMAL DE CRIMES. RÉU PRONUNCIADO. FUNDAMENTOS DA PRISÃO PREVENTIVA. QUESTÃO JÁ DECIDIDA EM OUTRO WRIT. EXCESSO DE PRAZO. SÚMULA 21/STJ. JÚRI JÁ DESIGNADO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus denegado, na parte conhecida.
