@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 768):
+AGRAVO INTERNO - REMESSA NECESSÁRIA A QUE SE NEGOU SEGUIMENTO - PRELIMINAR DE NÃO CONHECIMENTO DO AGRAVO - REJEIÇÃO - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - PEDIDO JULGADO IMPROCEDENTE - AUSÊNCIA DE RECURSO VOLUNTÁRIO - DESCABIMENTO DA REMESSA NECESSÁRIA
+1. A circunstância de o Ministério Público haver deixado de interpor recurso voluntário contra a sentença de improcedência não obsta que interponha agravo interno contra a decisão monocrática que negou seguimento à remessa necessária, não se havendo falar em falta de interesse/legitimidade recursal ou preclusão.
+2. O duplo grau de jurisdição obrigatório é medida excepcional, não podendo ter sua aplicação ampliada pelo Poder Judiciário fora das hipóteses expressamente previstas em lei.
+3. Natureza distinta da ação de improbidade administrativa, de caráter sancionatório de ilícito, e da ação popular, anulatória de ato administrativo.
+4. Ausência de determinação do duplo grau de jurisdição obrigatório nas Leis n. 7.347/85 e 8.429/92, remetendo, a primeira, á aplicação:: subsidiária das normas do Código de Processo Civil, não o fazendo em relação à Lei n. 4.717/65. Descabimento da aplicação analógica do art. 19 da Lei de Ação Popular às ações civis públicas.
+5. Recurso a que se nega provimento, para manter a decisão recorrida nos exatos termos em que foi lançada.
+No especial, a parte recorrente alega violação do art. 19 da Lei 4.717/1964, ao argumento de que as sentenças de improcedência de ações civis públicas, como no caso dos autos, se sujeitam ao reexame necessário.
+Contrarrazões apresentadas às fls. 793/806.
+O recurso especial foi admitido na origem (fls. 813/817).
+É o relatório.
+Assiste razão ao recorrente.
+Segundo orientação jurisprudencial de ambas as Turmas de Direito Público do STJ, aplica-se o art. 19 da Lei n. 4.717/65 por analogia às ações civis públicas, de forma que a sentença de improcedência deve ser submetida ao reexame necessário.
+Nesse sentido, cito os julgados:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. REEXAME NECESSÁRIO. CABIMENTO.
+1. Trata-se de agravo interno interposto pelo SINDICATO DOS PROFISSIONAIS DO ESTADO DO ESPÍRITO SANTO, contra decisão que deu provimento ao recurso especial, para estabelecer o entendimento de que as sentenças de improcedência de ação civil pública sujeitam-se indistintamente ao reexame necessário.
+2. Por aplicação analógica da primeira parte do art. 19 da Lei n. 4.717/1965, as sentenças de improcedência de ação civil pública sujeitam-se indistintamente ao reexame necessário. Nesse sentido: EREsp 1.220.667/MG, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 30/6/2017.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.817.056/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/10/2019, DJe de 20/11/2019.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PROCEDÊNCIA DO PEDIDO. REEXAME NECESSÁRIO. DESCABIMENTO. JURISPRUDÊNCIA DOMINANTE DO STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73. II. Na origem, trata-se de Ação Civil Pública, ajuizada pela parte ora recorrida, com o objetivo de obter a declaração de nulidade de Termo de Permissão de Uso de bem imóvel, sob o fundamento de tratar-se de ato ilegal. Julgada procedente a demanda, recorreu o SINTAP/MT, tendo o Tribunal local negado provimento à Apelação e não conhecido do reexame necessário.
+III. Na forma da jurisprudência do STJ, por "aplicação analógica da primeira parte do art. 19 da Lei nº 4.717/65, as sentenças de improcedência de ação civil pública sujeitam-se indistintamente ao reexame necessário" (STJ, REsp 1.108.542/SC, Rel. Ministro Castro Meira, DJe de 29.5.2009). Com efeito, ao contrário, julgada procedente a presente Ação Civil Pública, para que seja anulado Termo de Permissão de Uso de bem imóvel, constata-se, conforme asseverado no acórdão recorrido, que "a tutela do interesse da sociedade foi alcançada", de modo que "não há, portanto, que se falar em prejuízo ao Erário ou à sociedade". Registre-se, ainda, precedente da Primeira Turma do STJ, no sentido de que, excetuada a hipótese de carência de ação, "o Reexame Necessário na Ação Civil Pública, por aplicação analógica do art. 19 da Lei da Ação Popular, somente ocorrerá com a improcedência da ação" (STJ, REsp 1.578.981/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 04/02/2019). Assim, estando o acórdão recorrido em consonância com a jurisprudência sedimentada nesta Corte, merece ser mantida a decisão ora agravada, em face do disposto no enunciado da Súmula 568 do STJ.
+IV. O entendimento firmado pelo Tribunal a quo, em vista dos fatos e provas dos autos - no sentido da ausência de prejuízo ao Erário ou à sociedade, a justificar o reexame necessário -, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+V. Agravo interno improvido.
+(AgInt no REsp n. 1.641.233/MT, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/3/2019, DJe de 4/4/2019.)
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos à origem, a fim de que proceda o reexame necessário, nos termos expostos.
+Publique-se. Intimem-se.
+EMENTA
