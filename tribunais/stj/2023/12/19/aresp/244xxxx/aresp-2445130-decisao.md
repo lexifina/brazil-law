@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 384):
+RECURSOS DE APELAÇÃO - AÇÃO DE COBRANÇA - ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR - SISTEL - PECÚLIO POR MORTE - DESNECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO - COMPENSAÇÃO DOS DÉBITOS DE ASSISTÊNCIA MÉDICA COM O CRÉDITO PREVISTO CONTRATUALMENTE - ILEGALIDADE DA CLÁUSULA - DANOS MORAIS INDEVIDOS. Inexiste previsão legal ou orientação jurisprudencial vinculativa das Cortes Superiores que exija o prévio requerimento administrativo para ajuizamento de ação de cobrança em busca do pecúlio por morte firmado com entidade fechada de complementação de aposentadoria. É abusiva a cláusula constante no art.50 do Regulamento PAMA que prevê a compensação dos débitos de assistência médica como crédito de origem previdenciária.
+Danos morais indevidos.
+Recursos não providos.
+Nas razões do especial, aponta a recorrente violação dos artigos 1º, 3º, III, 7º, 18, § 2º, e 68, § 1º, da Lei Complementar nº 109/01, bem como do artigo 422 do Código Civil.
+Argumenta, em síntese, que a inscrição de beneficiário em plano fechado de previdência, para o recebimento do pecúlio por morte, supõe prévio requerimento, com a apresentação dos documentos de identificação.
+Ressalta que a mera condição de herdeiro não implicaria, por si só, a de beneficiário do plano de previdência complementar, pois as regras do seguro de vida não seriam aplicáveis, por analogia, à previdência complementar, sujeita a regramento específico.
+Contra-arrazoado (fls. 428/435), o recurso especial não foi admitido na origem (fls. 437/446); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, no que se refere à alegada violação dos artigos 1º, 3º, III, 7º, 18, § 2º, e 68, § 1º, da Lei Complementar nº 109/01, observo que o Tribunal de origem não se manifestou acerca dos requisitos a ser cumpridos pelo beneficiário, a fim de receber o pecúlio por morte.
+De fato, extraio do acórdão recorrido que a única controvérsia devolvida à Corte local diz respeito à cobrança efetuada aos beneficiários em relação à dívida de participante do plano de previdência complementar (fls. 384/389).
+Desse modo, inexistente controvérsia a respeito da matéria normativa correspondente aos dispositivos supostamente violados, o recurso especial não deve ser conhecido quanto ao ponto, em razão do óbice do prequestionamento.
+De todo modo, no que se refere à inviabilidade de deduzir dívida do participante falecido com o valor devido ao benefício, de pecúlio por morte, observo que a orientação adotada no acórdão recorrido não destoa da jurisprudência desta Corte Superior, consolidada no sentido de que se aplica: " ..  ao contrato de previdência privada com plano de pecúlio a regra do art. 794 do CC/02, segundo o qual o capital estipulado não está sujeito às dívidas do segurado, nem se considera herança para todos os efeitos de direito" (REsp n. 1.713.147/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/12/2018, DJe de 13/12/2018.)
+Nesse mesmo sentido:
+AGRAVO INTERNO. OFENSA AO ART. 535, I, DO CPC 1973: AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E ARTICULADA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INADMISSIBILIDADE. STJ, SÚMULA 182; CPC 2015, ART. 1.021, § 1º. VIOLAÇÃO AO ART. 585, III, DO CPC 1973: RECURSO QUE DESAFIA AS CONCLUSÕES DE FATO DA CORTE REVISORA À LUZ DO CONTRATO E DAS PROVAS CONTIDAS NOS AUTOS. INADMISSIBILIDADE. STJ, SÚMULAS 5 E 7. ADEMAIS, "A JURISPRUDÊNCIA DO STJ É NO SENTIDO DE QUE O CONTRATO DE PREVIDÊNCIA PRIVADA COM PLANO DE PECÚLIO POR MORTE ASSEMELHA-SE AO SEGURO DE VIDA". (STJ, REsp 1713147/MG.) INCIDÊNCIA À ESPÉCIE DA SÚMULA 83 DESTA CORTE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no REsp n. 1.192.687/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, devida pela parte agravante, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
