@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MUNICIPIO DE NOVA ODESSA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"APELAÇÃO - Embargos à execução fiscal. IPTU e taxa de serviço público de 2010. Sentença de procedência. Lançamento fundamentado no art. 32, § 2º do CTN. Descabimento. Loteamento inserido na zona urbana. Necessidade do mínimo de melhoramentos. Exceção que se aplica somente aos imóveis localizados fora do perímetro urbano. Ausência de fato gerador a legitimar a exação. Cobrança indevida. Recurso não provido" (fl. 802e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 1.022, II, do CPC/2015 e 32, § 2º, do CTN, bem como a Súmula 626/STJ, sustentando que:
+"Conforme devidamente demonstrado, o imóvel objeto de tributação está localizado dentro do perímetro urbano do Município, qual seja, o loteamento Fazenda Palmeiras (chácaras urbanas - lotes 7, 8, 9, 10, 16, 17 e 18 da quadra 7), conforme lei Municipal, eis que inserido em área considerada zona de produção industrial - zona de expansão urbana, sendo, dessa forma, tributado pelo IPTU, nos termos do § 2º do artigo 32 do CTN.
+Com efeito, o § 2º do artigo 32 do CTN permite sejam inseridos na zona urbana os imóveis "urbanizáveis, ou de expansão urbana, constantes de loteamentos aprovados pelos órgãos competentes, destinados à habitação, à indústria ou ao comércio", ainda que não beneficiados por no mínimo dois dos melhoramentos listados em seu § 1º.
+Nesse diapasão, a Súmula 626 do Superior Tribunal de Justiça:
+(..)
+Aqui, convém frisar a relevância jurídica em se notar que a Súmula sob exame não se refere à área urbana, mas à área que pode ser considerada urbana para fins de IPTU, isto é, à área que ainda não foi considerada urbana pela lei municipal.
+Outrossim, os lotes de propriedade da Recorrida integram a Zona de Produção Industrial 01, ou seja, área de Expansão Urbana, conforme estabelecem os artigos 100, inciso IX c.c. o artigo 101, ambos da Lei Complementar nº 10/2006 que estabeleceu o Plano Diretor no município de Nova Odessa, bem como §2º, do artigo 32 do CTN.
+Sabe-se que o Colendo Superior Tribunal de Justiça tem entendimento no sentido de que a existência de previsão, em lei municipal, de que a área é urbanizável ou de expansão urbana, afasta, para fins de incidência do IPTU, a exigência dos melhoramentos elencados no § 1º do mesmo dispositivo legal.
+Dessa forma, o imóvel questionado integra loteamento devidamente aprovado, conforme registro na matrícula e planta de acesso público constante do CRI de Americana/SP, bem como se trata de lote localizado em Zona de Produção Industrial (ZPI 01) - área esta definida pelos artigos 189 e 190 da Lei Complementar Municipal nº 10/2006, sendo, portanto, imóvel localizado em área tributada pelo IPTU, conforme §2º do artigo 32 do Código Tributário Nacional, que assim dispõe:
+(..)
+Observa-se que há entendimento pacífico do Superior Tribunal de Justiça no sentido de que, havendo lei local integrando o imóvel ao perímetro urbano, a incidência do IPTU não está condicionada aos melhoramentos previstos no §1º do artigo 32 do CTN.
+Como já infirmado, trata-se do entendimento sumulado pelo Superior Tribunal de Justiça, através da Súmula 626. Nesse sentido:
+(..)
+Para reforçar a legitimidade da exação tributária, cumpre frisar que a Lei Complementar Municipal nº 10/2006, que instituiu o Plano Diretor Participativo, integra os bens imóveis da Recorrida ao perímetro urbano, o que atrai, por si só, a incidência do artigo 32, §2º, do CTN e a dispensa da presença de melhoramentos para cobrança do IPTU.
+Assim, pode-se aferir que tanto o lançamento efetuado quanto a certidão de dívida ativa correspondente são regulares, uma vez que o lote integra o perímetro urbano, localizado em zona de expansão urbana, nos termos do artigo 32, §2º, do CTN.
+Dessa forma, o entendimento adotado pelo juízo a quo fere gravemente o artigo 32, § 2º, do Código Tributário Nacional, bem como o entendimento Sumular do STJ - Súmula 626, devendo ser reformado, uma vez que legítima a exigibilidade do IPTU e a respectiva cobrança judicial" (fls. 810/814e).
+Por fim, requer:
+"Portanto, com fulcro na alínea "c" do artigo 105, inciso III, da CF/88, o acórdão merece reforma a fim de adequar-se aos termos do entendimento jurisprudencial desta Corte Superior. E com fulcro na alínea "a" do mesmo artigo, a reforma do julgado é necessária para que se dê efetividade ao parágrafo 2 º do artigo 32 do CTN.
+Assim, ante todos os dispositivos de lei federal e decisões paradigmas acima transcritas, resta cabalmente demonstrada a violação, bem como a divergência jurisprudencial acerca da interpretação das normas legais violadas.
+Posto isto, requer o Recorrente o conhecimento do presente Recurso Especial, bem como seu total provimento, nos termos supramencionados, reformando-se o v. Acórdão guerreado, prosseguindo-se a execução fiscal integralmente em seus ulteriores termos" (fl. 816e).
+Contrarrazões a fls. 819/852e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 853/855e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Embargos à Execução opostos pela ora recorrida, objetivando o reconhecimento da inexistência de fato gerador de IPTU.
+Julgada procedente a demanda, recorreu o Município embargado, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+De início, ressalte-se que, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DE SÚMULA. NÃO CABIMENTO. SÚMULA N. 518 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. Não cabe ao STJ apreciar violação de súmula em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, "a", da CF, consoante dispõe a Súmula n. 518 do STJ.
+2. Ausente o debate no Tribunal de origem da tese alegada nas razões do recurso especial, não é possível o seu conhecimento. Incidência da Súmula n. 211/STJ.
+3. Nos termos da jurisprudência pacífica desta Corte, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+Agravo interno improvido" (STJ, AgInt no AREsp 1.798.600/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/4/2023).
+No mais, quanto à cobrança do IPTU, o ora recorrente asseverou que, "para reforçar a legitimidade da exação tributária, cumpre frisar que a Lei Complementar Municipal nº 10/2006, que instituiu o Plano Diretor Participativo, integra os bens imóveis da Recorrida ao perímetro urbano, o que atrai, por si só, a incidência do artigo 32, §2º, do CTN e a dispensa da presença de melhoramentos para cobrança do IPTU" (fl. 814e).
+Assim, rever o entendimento do acórdão recorrido, demandaria, necessariamente, a análise de lei local (Lei Complementar municipal 10/2006), providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 17 DA LEI COMPLEMENTAR ESTADUAL 207/1979. LEI COMPLEMENTAR ESTADUAL 1.151/2011. LEI LOCAL. SÚMULA 280/STF. CONTRARIEDADE A SÚMULA. APRECIAÇÃO INVIÁVEL. CONCURSO PÚBLICO. EXAME PSICOLÓGICO. REPROVAÇÃO. PREVISÃO LEGAL E EDITALÍCIA. CRITÉRIOS OBJETIVOS E PREVISÃO DE RECORRIBILIDADE. LEGALIDADE RECONHECIDA PELA INSTÂNCIA A QUO COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS E NA ANÁLISE DE CLÁUSULAS DO EDITAL DO CERTAME. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ.
+1. No tocante à presumida violação do art. 17 da Lei Complementar Estadual 207/1979 e da Lei Complementar Estadual 1.151/2011, pontuo que, conforme a redação do art. 105, III, "a", da CF/88, somente tem cabimento a interposição de Recurso Especial contra decisão que contrariar ou negar vigência a lei federal, não se enquadrando nesse conceito dispositivo de legislação local, tampouco regramento de ordem infralegal. Incide, portanto, o teor da Súmula 280/STF.
+2. O Recurso Especial não constitui via adequada para análise de eventual contrariedade a enunciado sumular, por não estar este compreendido na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+(..)
+4. O acolhimento da pretensão recursal demanda a análise das cláusulas editalícias, bem como do contexto fático-probatório dos autos, o que é inviável em Recurso Especial, ante a incidência das Súmulas 5 e 7/STJ.
+5. Recurso Especial não conhecido" (STJ, REsp 1.715.840/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 22/11/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
+ EMENTA
