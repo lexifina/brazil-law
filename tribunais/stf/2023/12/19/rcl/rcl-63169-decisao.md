@@ -1,0 +1,90 @@
+DECISÃO
+
+RECLAMAÇÃO. COMPETÊNCIA DA JUSTIÇA COMUM PARA PRONUNCIAR-SE SOBRE A EXISTÊNCIA, A VALIDADE E A EFICÁCIA DA RELAÇÃO ENTRE SERVIDORES E O PODER PÚBLICO, FUNDADA EM VÍNCULO JURÍDICO-ADMINISTRATIVO. ADIs Nº 3.395/DF, Nº 2.135-MC/DF E Nº 1.150/RS: INOBSERVÂNCIA. PROCEDÊNCIA.
+
+ 1.	Trata-se de reclamação, com pedido liminar, formalizada pelo Município de Nossa Senhora do Socorro, em face de decisão proferida pela 1ª Turma do Tribunal Regional do Trabalho da 20ª Região, no processo nº 0000358-04.2022.5.20.000, mediante a qual teria sido inobservado o que decidido nas Ações Diretas de Inconstitucionalidade nº 3.395/DF, nº 2.135-MC/DF e nº 1.150/RS.
+
+ 2.	O reclamante narra que, na origem, trata-se de ação trabalhista proposta pela ora beneficiária, Rose Maria Dias dos Santos, empregada pública, pugnando pelo pagamento de verbas laborais. Noticia que, em primeira instância, o Juízo trabalhista declarou-se absolutamente incompetente, determinando a remessa dos autos à Justiça comum.
+
+ 3.	Informa que o Tribunal Regional do Trabalho da 20ª Região, em sede de recurso ordinário, reformou a sentença recorrida para declarar a competência da Justiça do Trabalho para o processamento e julgamento da matéria. Menciona que os embargos de declaração foram rejeitados. Relata que o recurso de revista interposto teve seu seguimento negado e que o respectivo agravo se encontra pendente de julgamento.
+
+ 4.	Sustenta, em síntese, que o Tribunal reclamado aplicou entendimento equivocado às decisões deste Supremo Tribunal Federal, nas Ações Diretas de Inconstitucionalidade nº 3.395/DF, nº 2.135-MC/DF e nº 1.150/RS.
+
+ 5.	Requer a concessão medida liminar para determinar a imediata cassação ou suspensão do acórdão reclamado. Sucessivamente, pede o reconhecimento da incompetência material da Justiça do trabalho e a consequente remessa dos autos para a Justiça comum. No mérito, pleiteia a procedência do pedido, tornando a liminar como provimento final e declarando a incompetência da Justiça do Trabalho para o julgamento do feito.
+
+É o relatório.
+
+Decido.
+
+ 6.	A reclamação, inicialmente concebida como construção jurisprudencial, reveste-se de natureza constitucional, tendo como finalidades a preservação da competência do Supremo Tribunal Federal, a garantia da autoridade de suas decisões (art. 102, inc. I, al. “l”, da CRFB), bem como a observância de enunciado da Súmula Vinculante do STF (art. 103-A, § 3º, da CRFB).
+
+ 7.	Em sede infraconstitucional, encontra regulação nos arts. 988 a 993 do Código de Processo Civil e, especificamente no âmbito deste Supremo Tribunal Federal, nos arts. 156 a 162 do respectivo Regimento Interno.
+
+ 8.	Observo que, nos termos do parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal (RISTF), “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, o que se apresenta na espécie.
+
+ 9.	Assim, diante do caráter reiterado da matéria e por entender que o processo está suficientemente instruído e em condições de julgamento, deixo de solicitar informações à autoridade reclamada e dispenso a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF).
+
+ 10.	A parte reclamante aponta, como questão jurídica central objeto da presente reclamação constitucional, suposta violação ao que decidido por esta Suprema Corte, no que diz respeito à competência da Justiça nas ações entre o Poder Público e seus servidores.
+
+ 11.	Alega-se inobservância, pela autoridade reclamada, à ADI nº 1.150/RS, em cujo julgamento esta Suprema Corte declarou inconstitucional a expressão "operando-se automaticamente a transposição de seus ocupantes", contida no art. 276, § 2º, da Lei nº 10.098, de 03/02/94, do Estado do Rio Grande do Sul, por considerar que essa transposição automática equivale ao aproveitamento de servidores não concursados em cargos para cuja investidura a Constituição da República exige os concursos aludidos no art. 37, inc. II, de sua parte permanente, e no § 1º do artigo 19 de seu ADCT. Confira-se a ementa do julgado:
+
+“Ação direta de inconstitucionalidade, §§ 3º e 4º do artigo 276 da Lei 10.098, de 03.02.94, do Estado do Rio Grande do Sul. - Inconstitucionalidade da expressão ‘operando-se automaticamente a transposição de seus ocupantes’ contida no § 2º do artigo 276, porque essa transposição automática equivale ao aproveitamento de servidores não concursados em cargos para cuja investidura a Constituição exige os concursos aludidos no artigo 37, II, de sua parte permanente e no § 1º do artigo 19 de seu ADCT. - Quanto ao § 3º desse mesmo artigo, é de dar-se-lhe exegese conforme à Constituição, para excluir, da aplicação dele, interpretação que considere abrangidas, em seu alcance, as funções de servidores celetistas que não ingressaram nelas mediante concurso a que aludem os dispositivos constitucionais acima referidos. - Por fim, no tocante ao § 4º do artigo em causa, na redação dada pela Lei estadual nº 10.248/94, também é de se lhe dar exegese conforme à Constituição, para excluir, da aplicação dele, interpretação que considere abarcados, em seu alcance, os empregos relativos a servidores celetistas que não se submeteram a concurso, nos termos do artigo 37, II, da parte permanente da Constituição ou do § 1º do artigo 19 do ADCT. Ação que se julga procedente em parte, para declarar-se inconstitucional a expressão "operando-se automaticamente a transposição de seus ocupantes" contida no artigo 276, § 2º, da Lei 10.098, de 03.02.94, do Estado do Rio Grande do Sul, bem como para declarar que os §§ 3º e 4º desse mesmo artigo 276 (sendo que o último deles na redação que lhe foi dada pela Lei 10.248, de 30.08.94) só são constitucionais com a interpretação que exclua da aplicação deles as funções ou os empregos relativos a servidores celetistas que não se submeteram ao concurso aludido no artigo 37, II, da parte permanente da Constituição, ou referido no § 1º do artigo 19 do seu ADCT.”
+(ADI nº 1.150, Tribunal Pleno, Rel. Min. Moreira Alves, j. 25/09/1997, p. 07/10/1997).
+
+ 12.	O decidido na ADI nº 1.150/RS revela que o escopo da declaração procedida pelo Supremo Tribunal Federal refere-se, precipuamente, ao provimento dos cargos efetivos e não ao reconhecimento da norma jurídica regente do seu regime funcional, isto porque se vedou apenas o provimento automático dos cargos efetivos por aqueles empregados ex-celetistas, porquanto, embora transformados em estatutários, não se submeterem ao concurso público.
+
+ 13.	Assim, com relação à alegação de violação aos precedentes firmados na ADI nº 1.150/RS, não vejo como prosperar o pedido nesse ponto.
+
+ 14.	Por ocasião do julgamento da ADI nº 2.135-MC/DF, o Plenário deste Supremo Tribunal Federal suspendeu a eficácia do caput do art. 39 da CRFB, com a redação dada pela EC nº 19, de 1998, mantendo-se, assim, a redação original do dispositivo, que determina a aplicação do regime jurídico único aos servidores da administração direta, das autarquias e das fundações públicas. O Tribunal Pleno ressalvou, contudo, em decorrência dos efeitos ex nunc da decisão, a validade, até o julgamento definitivo da ação, dos atos anteriormente praticados com base em legislações eventualmente editadas durante a vigência do dispositivo ora suspenso.
+
+ 15.	Uma vez que a matéria sob análise não abarca questão referente à modulação dos efeitos na ADI nº 2.135-MC/DF, entendo como prejudicado o pedido nesse ponto.
+
+ 16.	Por fim, a municipalidade aponta como paradigma a ADI nº 3.395-MC/DF.
+
+ 17.	Esta Suprema Corte, no julgamento da Ação Direta de Inconstitucionalidade nº 3.395/DF, em interpretação conforme à Constituição, sem redução de texto, do art. 114, inc. I, da CRFB, na redação dada pela Emenda Constitucional nº 45, de 2004, assentou que a competência da Justiça do Trabalho não abrange as causas ajuizadas para discussão de relação jurídico-estatutária entre o Poder Público dos entes federados e seus servidores. Transcrevo sua ementa:
+
+“CONSTITUCIONAL E TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I, DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL 45/2004. AUSÊNCIA DE INCONSTITUCIONALIDADE FORMAL. EXPRESSÃO ‘RELAÇÃO DE TRABALHO’. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. EXCLUSÃO DAS AÇÕES ENTRE O PODER PÚBLICO E SEUS SERVIDORES. PRECEDENTES. MEDIDA CAUTELAR CONFIRMADA. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE.
+1. O processo legislativo para edição da Emenda Constitucional 45/2004, que deu nova redação ao inciso I do art. 114 da Constituição Federal, é, do ponto de vista formal, constitucionalmente hígido.
+2. A interpretação adequadamente constitucional da expressão ‘relação do trabalho’ deve excluir os vínculos de natureza jurídico-estatutária, em razão do que a competência da Justiça do Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores.
+3. Medida Cautelar confirmada e Ação Direta julgada parcialmente procedente.”
+(ADI nº 3.395/DF, Rel. Min. Alexandre de Moraes, Tribunal Pleno, j. 15/04/2020, p. 1º/07/2020).
+
+ 18.	No processo em análise, o Juízo reclamado deixou de observar decisão vinculante do Supremo Tribunal Federal, visto que ao considerar que não houve alteração do regime jurídico celetista para o estatutário e declarar a competência da Justiça especializada, não sopesou a relação jurídico-administrativa existente no caso concreto, impondo-se transcrever a ementa do ato impugnado (e-doc. 9, p. 1; grifos nossos):
+
+“TRANSMUDAÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO - INVALIDADE - COMPETÊNCIA DA JUSTIÇA DO TRABALHO. A transmudação do regime celetista para o estatutário de empregado, sem prévia submissão a concurso público, não ocorre de forma automática quando a contratação se efetuou em período inferior a cinco anos da CR/88, somente sendo válida a mudança automática de regime para os casos de servidores públicos admitidos anteriormente a 5/10/1983, pelo regime da CLT, e dotados da estabilidade aludida no art. 19 do ADCT, na esteira da decisão proferida pelo STF no julgamento da ADI-1150/RS. Considerando que, no caso vertente, não houve a alteração do regime jurídico celetista para o estatutário, também não há que se falar em extinção do contrato de trabalho, o que mantém, portanto, a competência desta Justiça especializada para o julgamento da lide. Sentença reformada.”
+
+ 19.	O fundamento central da decisão consiste na ausência de alteração do regime jurídico celetista para o estatutário, por conta do fato de que a beneficiária não teria cinco anos de exercício na função quando da promulgação da Constituição da República. Consequentemente, segundo a Justiça especializada, restaria mantido o contrato de trabalho.
+
+ 20.	O eminente Ministro Gilmar Mendes julgou a Reclamação nº 56.693/PI, na qual se discutiu a competência da Justiça do Trabalho para dirimir a controvérsia sobre a nulidade do pacto laboral firmado junto ao Município, em arrepio à Carta da República e os consectários devidos a título de contraprestação, como forma de ressarcimento da força de trabalho empenhada. A respeito da competência da Especializada, confira-se a solução no aludido feito:
+
+“Destaco, ainda, o julgamento da Rcl-AgR 8.909, Rel. Min. Marco Aurélio, redatora para acórdão Min. Cármen Lúcia, Tribunal Pleno, DJe 21.8.2017. Naquela oportunidade, o Ministro Dias Toffoli, acompanhando a divergência instaurada pela Ministra Cármen Lúcia, bem resumiu o entendimento desta Corte acerca da competência da Justiça comum a partir do julgamento da ADI-MC 3.395, assentando:
+“a) Compete à Justiça comum pronunciar-se sobre a existência, a validade e a eficácia das relações entre servidores e o poder público fundadas em vínculo jurídico-administrativo.
+b) A Justiça comum é competente para o exame de litígios baseados em contratação temporária para exercício de função pública instituída por lei local em vigência antes ou depois da CF/88, não atraindo a competência da Justiça do Trabalho a alegação de desvirtuamento do vínculo.
+c) A existência de pedidos fundados na CLT ou no FGTS não descaracteriza a competência da Justiça comum.
+d) É competência da Justiça comum conhecer de dissídios envolvendo o exercício de cargos em comissão”.
+Dessa forma, conclui-se que compete apenas à Justiça comum pronunciar-se sobre a validade e a eficácia das relações entre servidores e o Poder Público, fundadas em vínculo jurídico administrativo, ainda que contratados sem a observância do concurso público após a Constituição Federal de 1988.
+Na hipótese, observo que o ato reclamado reconheceu a competência da Justiça laboral, tendo em vista tratar-se de servidor público admitido sem prévia aprovação em concurso, conforme se depreende da seguinte ementa:
+“ADMISSÃO SEM PRÉVIA APROVAÇÃO EM CONCURSO PÚBLICO - CONTRATO NULO - SÚMULA 363 DO TST - Conforme visto no tópico anterior, foi reconhecida a prestação de serviços diretamente com o ente público, cuja contratação se deu sem prévia submissão a concurso público, em período posterior à vigência da atual Constituição Federal. Desse modo, reputa-se nulo o pacto laboral firmado com o Município, por afronta ao inciso II, do art. 37 da Constituição Federal, nos termos do art. 37, § 2º, da CF88. E quanto aos efeitos da nulidade contratual, este TRT adota a diretriz jurisprudencial do TST, registrada na Súmula nº 363, segundo a qual resta devido apenas o pagamento dos dias efetivamente trabalhados, na forma da contraprestação pactuada, como forma de ressarcimento da força de trabalho despendida, sempre observado o valor da hora do salário mínimo, e os depósitos do FGTS. Recurso ordinário conhecido e parcialmente provido”. (eDOC 5)
+Entendo, assim, que o Juízo reclamado, ao reconhecer a competência da Justiça do Trabalho para processamento e julgamento do processo na origem, violou a decisão desta Suprema Corte proferida na ADI 3.395.
+Por oportuno, cito os seguintes precedentes de ambas as Turmas:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA AO DECIDIDO NA ADI 3.395/DF. COMPETÊNCIA DA JUSTIÇA COMUM PARA PRONUNCIAR-SE SOBRE A EXISTÊNCIA, A VALIDADE E A EFICÁCIA DA RELAÇÃO ENTRE SERVIDORES E O PODER PÚBLICO, FUNDADA EM VÍNCULO JURÍDICO-ADMINISTRATIVO. PRECEDENTES. RECURSO PROVIDO. 1. No julgamento da ADI 3.395/DF, esta CORTE reconheceu a incompetência da Justiça Trabalhista para o julgamento das causas envolvendo o Poder Público e seus servidores, vinculados por relação estatutária ou de caráter jurídico-administrativo, realizando interpretação conforme para restringir o alcance do inciso I do art. 114 da Constituição Federal, com redação dada pela EC 45/2004. 2. A presente hipótese envolve relação jurídica travada entre servidor temporário e o Poder Público, o que afasta a competência da Justiça do Trabalho por envolver vínculo originariamente administrativo, ou seja, não regido pelo Direito do Trabalho. 3. Dessa forma, não cabe à Justiça Especializada, como ocorreu no presente caso, apreciar a regularidade do vínculo firmado entre o servidor e o Poder Público. Precedentes. 4. Recurso de agravo a que se dá provimento”. (Rcl 38.599 AgR, rel. Min. Marco Aurélio, rel. para o acórdão: Alexandre de Moraes, Primeira Turma, DJe 4.8.2021)
+“Agravo regimental no recurso extraordinário com agravo. 2. Competência para apreciação de ação ajuizada por servidor municipal, contratado sem concurso público, depois da Constituição de 1988. 3. ADI-MC 3.395. Justiça laboral é incompetente para dirimir controvérsias entre os entes políticos e os servidores a eles vinculados por relação jurídico-administrativa. 4. Compete apenas à Justiça comum pronunciar-se sobre a validade e a eficácia das relações entre servidores e o Poder Público, fundadas em vínculo jurídico-administrativo, ainda que contratados sem a observância do concurso público. Precedentes do STF. 5. Agravo regimental provido.” (ARE 1176221 AgR, rel. Min. Edson Fachin, Acórdão de minha relatoria, Segunda Turma, DJe 26.3.2020) (...).”
+
+ 21.	Entendo que a mesma solução deve ser emprestada ao caso em testilha, consignando que a presente decisão se limita a analisar a competência, por força da ADI nº 3.395/DF, de modo que as demais questões refogem ao âmbito restrito da presente medida.
+
+ 22.	Antes de prosseguir, em atenção à modulação dos efeitos conferida no Recurso Extraordinário n.º 1.288.440, no qual se fixou o Tema 1.143 da repercussão geral, destaco que ainda não houve sentença de mérito no caso em tela, porquanto o Juiz acolheu a preliminar de  incompetência  absoluta  da  Justiça  do  Trabalho para decliná-la em favor da Justiça Comum. Por sua vez, o Tribunal Regional do Trabalho da 20ª Região deu provimento ao recurso para, reformando a sentença que reconheceu a incompetência da Justiça do Trabalho, determinar o retorno dos autos à Vara de origem. Logo, prevenindo-se de hipotéticas arguições, não se discute o critério temporal fixado no aludido tema.
+
+ 23.	Pois bem. Como visto, a Justiça do Trabalho reconheceu a sua competência para dirimir a controvérsia entre o ente político e a beneficiária, cujo vínculo era originariamente administrativo, por força da Lei municipal n.º 538, de 2001, ou seja, não regido pelo Direito do Trabalho, sem embargo de eventual inconstitucionalidade ou invalidação.
+
+ 24.	A decisão reclamada permite auferir, prima facie, que a discussão subjacente transborda o vínculo celetista, tencionando verdadeira imersão na relação jurídico-administrativa mantida entre o reclamante e a beneficiária. Assim, conforme reiterado no julgamento da ADI nº 3.395/DF, o vínculo jurídico estabelecido entre servidores e a Administração é de direito administrativo, não comportando a matéria discussão na Justiça trabalhista.
+
+ 25.	Ante o exposto, julgo procedente o pedido, nos termos do art. 161, parágrafo único, do RISTF, para cassar a decisão reclamada e determinar a remessa do processo de origem à Justiça comum. Sem honorários, de acordo com entendimento prevalente na Segunda Turma do Supremo Tribunal Federal.
+
+Comunique-se.
+
+Publique-se.
+
+Brasília, 19 de dezembro de 2023.
+
+Ministro ANDRÉ MENDONÇA
+Relator
