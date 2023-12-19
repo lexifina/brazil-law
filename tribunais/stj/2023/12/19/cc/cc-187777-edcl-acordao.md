@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/12/2023 a 19/12/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Sérgio Kukina, Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA ANVISA E NÃO PADRONIZADOS NO SUS. DISCUSSÃO SOBRE A NECESSIDADE DE INCLUSÃO DA UNIÃO NO POLO PASSIVO DA DEMANDA. JULGAMENTO DEFINITIVO DO IAC 14. CONCESSÃO DE TUTELA PROVISÓRIA INCIDENTAL NO RE 1.366.243/SC.1. Conflito negativo no qual se discute a competência para o processamento e o julgamento de ação ajuizada contra o Estado e/ou Município no Juízo Estadual, visando o fornecimento de medicamento registrado na ANVISA e não constante dos normativos do SUS.2. No julgamento definitivo do IAC 14 firmou-se que, na hipótese, deve prevalecer a competência do juízo de acordo com os entes contra os quais a parte autora elegeu demandar (CC n. 187.276/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 18/4/2023).3. Na mesma linha, o Supremo Tribunal Federal concedeu tutela provisória incidental no RE 1.366.243/SC definindo que, até o julgamento definitivo do Tema 1.234 da Repercussão Geral, as demandas judiciais relativas a medicamentos não incorporados ao SUS devem ser processadas e julgadas pelo Juízo, estadual ou federal, ao qual foram direcionadas pelo cidadão.4. Agravo interno não provido.
+O embargante sustenta que acórdão embargado padece de contradição, pois manteve a União excluída do polo passivo e afastou a competência do juízo federal por se tratar de medicamento não padronizado no SUS, a despeito de se discutir na presente lide o fornecimento de tratamento oncológico.
+Aponta, nesse sentido, que "as responsabilidades da União no tratamento oncológico estão descritas no artigo 22º da Portaria nº 874/2013, bem como no artigo 8º da Portaria nº 876, que permitem compreender o papel fundamental que o órgão federal tem no financiamento, na definição de diretrizes e na execução da política oncológica".
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que, no caso dos autos, a demanda foi ajuizada unicamente contra o ente estadual e/ou municipal, visando a obtenção de medicamento já registrado na ANVISA, mas ainda não incorporado ao SUS. Fixou-se, assim, consoante os parâmetros definidos pelo STJ e STF, a competência do Juízo estadual.
+O embargante defende que a composição do polo passivo, na hipótese, deve observar a repartição de responsabilidades estruturada no Sistema Único de Saúde, segundo o qual a União é o ente responsável pelo custeio de tratamentos oncológicos e de alto custo. Assim, pretende que a fixação da competência se dê segundo o parâmetro definido pelo item "i" da decisão de tutela provisória incidental proferida pelo STF no âmbito do RE 1.366.243/SC.
+Contudo, tratando-se de demanda judicial em que se objetiva a dispensação de medicamento oncológico com registro na Anvisa, mas não incluído na Relação Nacional de Medicamentos (RENAME) para a moléstia que acomete a parte autora, deve prevalecer o comando previsto no item "a" da tese firmada pelo STJ no julgamento do Tema IAC/14 (CC n. 187.276/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 12/4/2023, DJe de 18/4/2023), confirmada pelo item "ii" do supracitado decisum do STF.
+Cumpre registrar, por oportuno, que a responsabilidade da União pelo custeio e/ou pela aquisição de medicamentos e procedimentos de saúde, por si só, não é suficiente para atrair a competência da Justiça federal.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
