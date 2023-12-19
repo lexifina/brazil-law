@@ -1,0 +1,1 @@
+Art. 35-A. O Presídio Militar Estadual (PME) será dirigido por Oficial Superior da Ativa do posto de Tenente Coronel QOPM, órgão de apoio do Comandante-Geral, subordinado, funcionalmente, à Diretoria de Gestão do Presidio Militar Estadual (DGPME), e tem por finalidade custodiar presos militares estaduais, na forma da Lei Complementar nº 245, de 8 de março de 2018.

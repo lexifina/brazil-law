@@ -1,0 +1,1 @@
+Art. 26-A. A Assessoria Parlamentar (AssP) é o órgão de apoio ao Comando-Geral da PMMS, chefiado por Oficial Superior da ativa do posto de Tenente-Coronel QOPM, responsável pelo acompanhamento contínuo das atividades parlamentares de interesse da Instituição, no Estado ou em outra Unidade da Federação, cabendo-lhe manter interlocução com a base parlamentar de Mato Grosso do Sul.

@@ -1,0 +1,2 @@
+Art. 31-A. A Coordenadoria Jurídica (CJur), órgão de apoio ao Comando-Geral, chefiada por oficial superior da ativa do posto de Tenente-Coronel QOPM, com formação em ciências jurídicas, tem por finalidade a coordenação e a supervisão técnica das atividades jurídicas no âmbito da PMMS.
+Parágrafo único. Poderão compor o corpo técnico da CJur, policiais militares e servidores civis, com formação superior na área jurídica.
