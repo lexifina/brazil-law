@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por RURAL BRASIL LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA HOMOLOGATÓRIA DE ACORDO. EXCESSO DE EXECUÇÃO DEMONSTRADO. CUMPRIMENTO DA OBRIGAÇÃO NÃO ANALISADA PELO MAGISTRADO SINGULAR. SUPRESSÃO INSTÂNCIA. LITIGÂNCIA DE MÁ- FÉ. NÃO CONFIGURADA. 1. A QUESTÃO POSTA EM DEBATE DEVE SER RESOLVIDA UNICAMENTE À LUZ DO QUE FOI ACORDADO PELAS PARTES. MESMO PORQUE, A CREDORA, FRENTE AO SUPOSTO DESCUMPRIMENTO DO ACORDO, NÃO RETOMOU A AÇÃO ORIGINÁRIA, MAS SIM PEDIU CUMPRIMENTO DA SENTENÇA, QUE HOMOLOGOU A TRANSAÇÃO, VALENDO- SE DE TÍTULO JUDICIAL. 2. PELA SIMPLES INTERPRETAÇÃO LITERAL DO ACORDO, FIRMADO EM 10.03.2021, TEM-SE QUE A EXEQUENTE FICOU AUTORIZADA A TOMAR POSSE DO PRODUTO (SOJA) "AO PONTO DE COLHEITA", OU SEJA, QUE AINDA NÃO ESTAVA COLHIDO. TANTO É VERDADE, QUE A EXEQUENTE RESPONSABILIZOU-SE EM "EFETIVAR A COLHEITA E CARREGAMENTO" DOS GRÃOS. 3. COM EFEITO, DEVE-SE LEVAR EM CONSIDERAÇÃO APENAS A SOJA COLHIDA E ARMAZENADA APÓS A CELEBRAÇÃO DO ACORDO, QUE CORRESPONDE A 889.292 KG, SENDO QUE OS GRÃOS ANTERIORMENTE COLHIDOS NÃO PODEM INTEGRAR A EXECUÇÃO. 4. INCABÍVEL A DISCUSSÃO EM SEDE DESTE RECURSO SE OS GRÃOS COLHIDOS E DEPOSITADOS APÓS A CELEBRAÇÃO DO ACORDO, QUAIS SEJAM, 889.292 KG DE SOJA, ADIMPLIU A OBRIGAÇÃO DOS DEVEDORES.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação da/do art. 85, § 2º, do Código de Processo Civil, no que concerne à não ocorrência de qualquer proveito econômico na presente demando, assim deve ser reformada a decisão para afastar os honorários sucumbenciais fixados pelo Tribunal de origem, trazendo a seguinte argumentação:
+Embora o §2º, do artigo 85, do Código de Processo Civil preveja a fixação dos honorários sobre o proveito econômico, no caso em apreço, não houve qualquer proveito na presente demanda, com o acolhimento do agravo de instrumento.
+Conspícuo Julgador, no caso em apreço, com o acolhimento da impugnação ao cumprimento de sentença, por intermédio do provimento do agravo, não houve a diminuição do débito.
+O débito assumido permanece nos termos acordados
+ ..
+O que ocorreu, de fato, foi a declaração de que as 5.700 sacas de soja, depositadas na CHS, de propriedade dos devedores, ora recorridos, não poderiam ser expropriadas para adimplemento do débito.
+Ou seja, estamos diante de um caso semelhante à baixa de uma penhora sobre determinado bem, ou a declaração de sua impenhorabilidade.
+Casos em que não há a incidência de honorários.
+Não houve proveito econômico com o acolhimento do agravo de instrumento, nem condenação, de modo que incabível a condenação em honorários advocatícios da parte recorrente.
+A declaração de que as 5.700 sacas não podem ser utilizadas para pagamento da dívida, não reduziu o montante em cobrança (fls. 564-566).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos aclaratórios nos seguintes termos:
+No caso, está-se diante do vício apontado no inciso II, do art. 1.022, do CPC.
+Explico.
+Consta que o Banco/credor, através do movimento 25 da ação originária, noticiou o descumprimento do acordo, pugnando pela intimação dos devedores "para que no prazo de 48 (quarenta e oito) horas, apresente nos autos a comprovação da fixação de preço do saldo remanescente (342.000 kg, correspondente às 5.700 sacas de soja)".
+Em sede de impugnação ao cumprimento de sentença (movimento 35), os devedores pediram o reconhecimento do "excesso de execução da quantia de 342.000 kg de soja, correspondente às 5.700 sacas de soja, pleiteados pelo executado, uma vez estes grãos pertencem a talhão diverso do disposto no acordo dado como garantia, bem como reconhecer que fora corretamente adimplido o item 3 do acordo, por meio da venda da soja colhida na área dada como garantia no acordo, na quantidade de 889.292 kg de soja".
+A decisão lançada no movimento 74 rejeitou o incidente e autorizou "a parte exequente a comercializar o saldo remanescente, após a preclusão da presente decisão, cabendo a executada promover as comunicações necessárias para concretização da entrega de 5.700 sacas de soja". (grifei).
+Contudo, interposto o agravo de instrumento, este Sodalício acabou por reformar a decisão "para fins de declarar o excesso de execução com relação aos grãos colhidos e armazenados antes da celebração do acordo, não podendo a credora comercializá- los", quais sejam, 342.000 kg, correspondente às 5.700 sacas de soja.
+De acordo com a jurisprudência do Col. Superior Tribunal de Justiça, firmada no julgamento do REsp 1.134.186/RS, sob a sistemática dos recursos repetitivos, Tema 410, é possível a fixação de honorários sucumbenciais em benefício do executado quando o acolhimento da impugnação do cumprimento de sentença resultar na extinção do procedimento executivo ou na redução do montante executado. Senão vejamos:
+ ..
+No caso, o reconhecimento do excesso de execução resultou na redução do valor da dívida executada, requisito essencial para a fixação de honorários advocatícios em benefício dos executados.
+Sobre o tema:
+ ..
+Com efeito, fixo os honorários advocatícios em favor dos executados, em 10% sobre o excesso de execução reconhecido (CPC, art. 85, § 2º). (fls. 514-517, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
