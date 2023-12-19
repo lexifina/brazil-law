@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por UNIMED NORDESTE RS SOCIEDADE COOP DE SERV MEDICOS LTDA contra decisão que inadmitiu o recurso especial por ausência de ofensa aos arts. 489 e 1.022 do CPC e incidência das Súmulas n. 5, 7 e 83 do STJ (e-STJ fls. 658/663).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 438):
+APELAÇÕES CÍVEIS. SEGUROS. PLANO DE SAÚDE. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRESCRIÇÃO TRIENAL DA PRETENSÃO DE REPARAÇÃO DOS DANOS MORAIS RECONHECIDA DE OFÍCIO. EXTINÇÃO DO FEITO COM RESOLUÇÃO DO MÉRITO EM RELAÇÃO A ESTE PLEITO. PRESCRIÇÃO DECENAL DA PRETENSÃO DE REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES NÃO CONFIGURADA. DESCOMPRESSÃO MEDULAR E FIXAÇÃO DA COLUNA EM RAZÃO DE METÁSTASES. MATERIAL INDICADO PELO MÉDICO ASSISTENTE CONHECEDOR DO QUADRO CLÍNICO DA PACIENTE. EVIDENTES VANTAGENS EM RELAÇÃO AO MATERIAL FORNECIDO PELO PLANO DE SAÚDE. DEVER DE COBERTURA VERIFICADO. REEMBOLSO DE VALORES. HONORÁRIOS RECURSAIS.- PRESCRIÇÃO DE PRETENSÃO DE REPARAÇÃO POR DANOS MORAIS RECONHECIDA DE OFÍCIO. EXTINÇÃO DO PROCESSO COM JULGAMENTO DE MÉRITO. APELO DA AUTORA PREJUDICADO. RECURSO DA RÉ DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 509/514).
+Nas razões do recurso especial (e-STJ fls. 538/549), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(I) arts. 489, § 1º, IV, e 1.022, II, do CPC, pois afirma (e-STJ fls. 543 e 545):
+A recorrente opôs embargos de declaração visando que a Corte Local sanasse a omissão da decisão a respeito do prequestionamento do art. 206, §3º, IV, do CC a respeito do prazo prescricional incidente para as demandas envolvendo pedido de reembolso.
+Em que pese o expediente manejado, o Tribunal recorrido permaneceu inerte a respeito de tal ponto, ensejando a nulidade do julgado por negativa de prestação jurisdicional.
+ ..
+ ..  resta claro que não subsistem elementos nos autos a roborar a condenação da recorrente ao reembolso dos valores custeados pela beneficiária com o material importado, ao passo que há inequívoca prova a respeito da adequação dos materiais nacionais ofertados.
+A decisão recorrida, contudo, foi omissa ao desconsiderar tais fundamentos, e, assim o fazendo, também, negou vigência à interpretação dos arts. 369, 373, II, do CPC, dos quais pugnou-se, naquele expediente, o devido enfrentamento.
+(ii) art. 206, § 3º, IV, do CC, dado que a pretensão de reembolso de despesas médica estaria prescrita, tendo em vista que "a presente demanda versa sobre reembolso de gastos particulares contraídos pela beneficiária, de modo que a pretensão de reaver tais valores deve respeito o prazo de 03 (três) anos do pagamento ocorrido" (e-STJ fl. 546),
+(iii) arts. 369 e 373 II, do CPC, sob o seguinte fundamento (e-STJ fl. 548):
+ ..  o Tribunal recorrido se negou a analisar os elementos apresentados que evidenciam que os materiais ofertados pela operadora -previamente solicitados, e devidamente autorizados - eram adequados à realização do procedimento cirúrgico ao qual se submeteu a recorrida.
+A decisão local, contudo, se amparou em genérica premissa de que os materiais eleitos pela família, de caráter importado, seriam superiores àqueles ofertados pela operadora, com base, exclusivamente, em parte (não no contexto geral) da opinião de um único médico (o da autora!).
+Entretanto, da simples leitura da decisão recorrida, o que se constata é que não há qualquer elemento que ampare a fundamentação adotada em tal sentido.
+No agravo (e-STJ fls. 694/705), afirma-se a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 721/736 (e-STJ).
+A parte ROSELI CARISSIMI FORINI - SUCESSÃO também interpôs recurso especial, o qual será objeto de decisão em apartado.
+É o relatório.
+Decido.
+A controvérsia tem origem na recusa de cobertura de materiais cirúrgicos importados (parafusos fixadores), no valor de R$ 22.785,00 (e-STJ fl. 5), utilizados em procedimento de retirada emergencial de tumor maligno da medula espinhal.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, a respeito da prescrição, a Justiça de origem assim se manifestou (e-STJ fls. 443/444):
+Por outro lado, considerando a pretensão atinente ao reembolso de despesas médico-hospitalares vertida pela autora na presente demanda, não há falar em reconhecimento da prescrição, pois, na hipótese, incide o prazo decenal geral do artigo 205 do Código Civil, que não se consumou.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Extrai-se dos autos que a Corte local entendeu não estar prescrito o pedido de reembolso de despesas médico-hospitalares, por incidência do prazo decenal do art. 205 do CC (e-STJ fls. 443/444).
+Observa-se que o acórdão recorrido está em harmonia com a jurisprudência desta Corte, a qual adotou a regra geral de prescrição decenal para as demandas relativas à pretensão de reembolso de despesas médico-hospitalares contra plano de saúde.
+Nesse sentido:
+PLANO DE SAÚDE. AGRAVO INTERNO NO RECURSO ESPECIAL. REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES. PRAZO PRESCRICIONAL DECENAL. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, "é decenal o prazo prescricional aplicável para o exercício da pretensão de reembolso de despesas médico-hospitalares alegadamente cobertas pelo contrato de plano de saúde (ou de seguro saúde), mas que não foram adimplidas pela operadora" (REsp 1756283/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/03/2020, DJe 03/06/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.901.496/SP, de minha relatoria, Quarta Turma, julgado em 22/3/2021, DJe de 26/3/2021)
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS MÉDICO-HOSPITALARES AJUIZADA PELO HOSPITAL CONTRA O PACIENTE. PRESCRIÇÃO QUINQUENAL. DENUNCIAÇÃO DA LIDE AO PLANO DE SAÚDE. COBRANÇA DE DESPESAS MÉDICO-HOSPITALARES CONTRA PLANO DE SAÚDE. PRESCRIÇÃO DECENAL. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência desta Corte, nos termos do art. 206, § 5º, I, do CC/2002, aplica-se o prazo prescricional quinquenal à pretensão da entidade hospitalar de cobrança do paciente segurado de dívida decorrente de contrato de prestação de serviços médico-hospitalares. Precedentes.
+2. Na lide secundária, decorrente da denunciação à lide da operadora do plano de saúde pelo segurado, aplica-se o prazo da prescrição geral decenal do art. 205 do Código Civil, relativa às pretensões de cobrança de despesas médico-hospitalares contra plano de saúde. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.641.515/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/9/2021, DJe de 21/9/2021)
+Referido entendimento foi uniformizado pela Segunda Seção, na sessão de 11/3/2020, no julgamento de recurso afetado regimentalmente pela Quarta Turma, (REsp 1.756.283/SP, Relator Ministro LUIS FELIPE SALOMÃO), fazendo-se distinção quanto à prescrição trienal do Tema Repetitivo n. 610/STJ, pertinente à "pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste".
+Confira-se a ementa do REsp n. 1.756.283/SP:
+RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DESPESAS MÉDICAS. SEGURO SAÚDE. DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL. PRAZO PRESCRICIONAL.
+1. É decenal o prazo prescricional aplicável para o exercício da pretensão de reembolso de despesas médico-hospitalares alegadamente cobertas pelo contrato de plano de saúde (ou de seguro saúde), mas que não foram adimplidas pela operadora.
+2. Isso porque, consoante cediço na Segunda Seção e na Corte Especial, nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (artigo 205 do Código Civil) que prevê dez anos de prazo prescricional (EREsp 1.280.825/RJ, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27.06.2018, DJe 02.08.2018; e EREsp 1.281.594/SP, Rel. Ministro Benedito Gonçalves, Rel. p/ Acórdão Ministro Felix Fischer, Corte Especial, julgado em 15.05.2019, DJe 23.05.2019).
+3. De outro lado, a tese da prescrição trienal firmada nos Recursos Especiais 1.361.182/RS e 1.360.969/RS (ambos julgados sob o rito dos repetitivos) não abrange toda e qualquer pretensão deduzida em decorrência de planos privados de assistência à saúde, mas tão somente àquelas referentes à nulidade de cláusula contratual com a consequente repetição do indébito, que foram traduzidas como pretensões de ressarcimento de enriquecimento sem causa (artigo 206, § 3º, inciso IV, do Código Civil de 2002).
+4. Recurso especial não provido.
+(REsp n. 1.756.283/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 11/3/2020, DJe de 3/6/2020)
+No que se refere a alegação de ausência de fundamentação quanto o deferimento de cobertura de material importado, o aresto recorrido afirma, com base no depoimento do médico assistente, que, diante do quadro clínico da paciente, o material importado seria o mais apropriado. Ademais, a Corte local concluiu que a operadora não conseguiu comprovar que o material de fabricação nacional por ela fornecido seria de qualidade compatível com a indicada pelo médico assistente (e-STJ fl. 448):
+No presente caso, a operadora ré negou a cobertura para o material cirúrgico indicado pelo médico assistente, sob a alegação de que havia cobertura para material semelhante e que cumpria as mesmas funções. Ocorre que tal recusa afigura-se abusiva, tendo em vista que cabe ao médico que acompanha a parte autora prescrever o tratamento mais adequado à paciente.
+Veja-se que o depoimento prestado pelo médico assistente da autora (evento 68, VÍDEO 1) apontou que o material era mais indicado ao caso da paciente, pois possuía "uma pegada no osso melhor" (sic), referindo o seu dever de informar à família e ao paciente a existência de material que mais se apropria ao quadro clínico. Ainda, ponderou que o material importado poderia gerar menor complicação à paciente, mencionando as peculiaridades do quadro da demandante, tais como osteoporose, metástase óssea.
+Nessa senda, não se observa a exigência de material de marca específica, mas sim a existência de evidentes diferenciações benéficas à paciente em relação ao material fornecido pela operadora do plano de saúde.
+Assim, tem-se como devida a cobertura do material postulado, considerando, sobretudo, a recomendação do médico assistente, conhecedor das peculiaridades do quadro clínico da demandante e inexistência de comprovação pela ré de que o material cuja cobertura era fornecida possuía.
+Modificar o entendimento do acórdão impugnado quanto à necessidade de fornecimento do material importado para o sucesso da cirurgia demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na form a do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
