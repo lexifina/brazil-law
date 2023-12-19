@@ -1,0 +1,14 @@
+DECISÃO
+DANILO ALVES DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0272404-62.2020.8.19.0001).
+Consta dos autos que o paciente foi condenado, em segundo grau, à pena de 7 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes de tráfico interestadual de drogas e de receptação.
+A defesa pleiteia, por meio deste writ, sejam estendidos ao paciente os efeitos da decisão proferida nos autos do HC n. 872.813, impetrado em favor do corréu Caique, para também aplicar, em seu favor, a minorante prevista no § 4º do art. 33 da Lei de Drogas.
+Decido.
+No que tange às questões atinentes à dosimetria da pena, verifico que o paciente está na mesma situação fático-processual que a do corréu Caique Alves Venancio de Oliveira, que já teve a sua dosimetria analisada por esta Corte Superior de Justiça nos autos do HC n. 872.813/RJ.
+Assim, nos termos do art. 580 do CPP, estendo a ele os efeitos da decisão proferida nos autos do referido habeas corpus, para também reconhecer, em seu favor, a minorante descrita no § 4º do art. 33 da Lei n. 11.343/2006 no patamar máximo de 2/3 e, assim, reduzir a sua reprimenda, para o delito de tráfico, para 2 anos, 3 meses e 6 dias de reclusão e pagamento de 226 dias-multa.
+Porque reconhecido o concurso material com o crime de receptação (1 ano de reclusão e 10 dias-multa), somo ambas as penas e, assim, torno a reprimenda do acusado definitiva em 3 anos, 3 meses e 6 dias de reclusão e pagamento de 236 dias-multa.
+Como consectário da redução efetivada na pena, deve ser procedido ao ajuste no regime inicial do seu cumprimento. Se, por um lado, o réu foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, por outro, teve a pena-base estabelecida acima do mínimo legal diante da grande quantidade de droga apreendida (212 kg de maconha). Assim, entendo que deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Por fim, a desfavorabilidade das circunstâncias mencionadas acima evidencia que a substituição da pena não se mostra medida socialmente recomendável, nos termos do art. 44, III, do CP.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, para aplicar, em favor do paciente, a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 no patamar máximo de 2/3 e, assim, reduzir a sua reprimenda para 3 anos, 3 meses e 6 dias de reclusão, a ser cumprida no regime inicial semiaberto, e pagamento de 236 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
