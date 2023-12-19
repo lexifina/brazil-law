@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO CONTRA INADMISSÃO DO RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 182 DO STJ.
+1. A decisão da Presidência do STJ aplicou a Súmula 284/STF com base nestes fundamentos: a) ausência de comando dos arts. 174 do CTN e do art. 40 da Lei 6.830/1980 para sustentar a tese recursal; b) deficiência recursal, consistente na indicação genérica do dispositivo de lei, sem especificação do parágrafo ou inciso, vício de fundamento porque "a ofensa aos seus desdobramentos também deve ser indicada expressamente"; c) razões dissociadas dos fundamentos da decisão, notadamente o de que descabe dar andamento à Execução Fiscal entre 2012 e 2021, período no qual a autoridade judicial é responsável pela demora na apreciação da Exceção de Pré-Executividade e da impugnação a esta apresentada (mora imputável ao Judiciário). Além disso, o Tribunal de origem entendeu aplicável a Súmula 7/STJ.
+2. Nas razões do Agravo Interno, a parte agravante limitou-se a reiterar, genericamente, que a Exceção de Pré-Executividade não constitui hipótese legal de suspensão da prescrição, motivo pelo qual não incidiram os óbices sumulares. Não apresentou impugnação específica, contudo, aos demais fundamentos igualmente invocados para justificar a incidência da Súmula 284/STF (menção genérica ao dispositivo legal, sem individualização expressa do inciso e/ou parágrafo supostamente infringido, além da impossibilidade de dar andamento à Execução Fiscal durante o período em que, por mora imputável ao Judiciário, a Exceção de Pré-Executividade, impugnada pela Fazenda Pública, não foi apreciada pelo juízo da causa).
+3. Nesse contexto, a ausência de impugnação específica a todos os fundamentos utilizados para justificar a aplicação da Súmula 284/STF atrai a aplicação do art. 1.021, § 1º, do CPC e da Súmula 182/STJ.
+4. Agravo Interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Afrânio Vilela e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência do STJ, que não conheceu do Recurso, com base na ausência de impugnação adequada à decisão de admissibilidade proferida pela Corte a quo, porquanto não teriam sido combatidos os enunciados das Súmulas 7 do STJ e 284 do STF.
+A parte agravante afirma que do Recurso pode-se conhecer, uma vez que teria atacado todos os argumentos da decisão de admissibilidade, inclusive os enunciados das Súmulas 7 do STJ e 284 do STF (fl. 338, e-STJ).
+A parte agravada, apesar de intimada, não apresentou impugnação.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.300.503 - SC (2023/0051692-9)
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24 de agosto de 2023.
+O Recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, a norma do art. 1.021, § 1º, do CPC determina ser indispensável a impugnação específica dos fundamentos da decisão agravada.
+A decisão da Presidência do STJ aplicou a Súmula 284/STF com base nos seguintes fundamentos: a) ausência de comando dos arts. 174 do CTN e do art. 40 da Lei 6.830/1980 para sustentar a tese recursal; b) deficiência recursal, consistente na indicação genérica do dispositivo de lei, sem especificação do parágrafo ou inciso, vício de fundamento porque "a ofensa aos seus desdobramentos também deve ser indicada expressamente"; c) razões dissociadas dos fundamentos da decisão, notadamente o de que descabe dar andamento à Execução Fiscal entre 2012 e 2021, período no qual a autoridade judicial é responsável pela demora na apreciação da Exceção de Pré-Executividade e da impugnação a esta apresentada (mora imputável ao Judiciário).
+Além disso, o Tribunal de origem entendeu aplicável a Súmula 7/STJ.
+Nas razões do Agravo Interno, a parte agravante limitou-se a reiterar, genericamente, que a Exceção de Pré-Executividade não constitui hipótese legal de suspensão da prescrição, motivo pelo qual não incidiram os óbices sumulares.
+Não apresentou impugnação específica, contudo, aos demais fundamentos igualmente invocados para justificar a incidência da Súmula 284/STF (menção genérica ao dispositivo legal, sem individualização expressa do inciso e/ou parágrafo supostamente infringido, além da impossibilidade de dar andamento à Execução Fiscal durante o período em que, por mora imputável ao Judiciário, a Exceção de Pré-Executividade, refutada pela Fazenda Pública, não foi apreciada pelo juízo da causa).
+Nesse contexto, a ausência de impugnação específica a todos os fundamentos utilizados para justificar a aplicação da Súmula 284/STF atrai a aplicação do art. 1.021, § 1º, do CPC e da Súmula 182/STJ.
+Com essas considerações, não conheço do Agravo Interno.
+É como voto.
