@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de afronta a dispositivo legal e por incidência da Súmula n. 7/STJ (e-STJ fls. 490/491).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 383):
+Compra e venda - Apelo adesivo da autora - Fixação de prazo para recolhimento do preparo - Preparo não recolhido no prazo - Deserção. - Declaração de inexistência de débito cumulada com indenização moral e material - Caso em que, após a emissão de nota de devolução de venda, a ré continuou a cobrar as parcelas devidas pela compra do veículo - Inexigibilidade do débito reconhecido - Devida a devolução dos valores pagos, em dobro - Responsabilidade da concessionária pelo IPVA do veículo mantida - Sucumbência das duas partes, diante da procedência parcial do pedido - Repartição da responsabilidade pelas verbas de sucumbência - Apelo da ré provido em parte, apelo adesivo da autora não conhecido.
+Nas razões do recurso especial (e-STJ fls. 391/408), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) art. 171 do CC/2002, tendo em vista "a ausência de vício de consentimento quanto à aquisição do automóvel e ausência de provas quanto à recusa desta Recorrente em proceder à nova avaliação no bem, a solicitação de cancelamento do negócio jurídico deu-se de modo injustificado e imotivado por parte da Recorrida, logo, não há respaldo para a declaração de inexigibilidade das parcelas" (e-STJ fl. 399);
+(ii) art. 49 do CDC, pois "é incontroverso que a compra do veículo foi realizada dentro do estabelecimento comercial desta Empresa Recorrente, o que afasta a possibilidade de desistência imotivada do pacto" (e-STJ fl. 400);
+(iii) art. 18 do CDC, porque "o automóvel não apresentou quaisquer vícios e/ou defeitos passíveis de facultar à Recorrida as hipóteses acima previstas em nossa legislação consumerista, de modo que não há que se falar rescisão contratual, com devolução de valores pagos, haja vista a ausência de ato ilícito praticado por esta Recorrente" (e-STJ fl. 401);
+(iv) art. 373, I, do CPC/2015, porquanto "inexistiu no presente caso qualquer falha na prestação do serviço ou ato ilícito praticado pela Empresa Recorrente" (e-STJ fl. 402);
+(v) arts. 421 e 422 do CC/2002, "considerando que não demonstrados vícios e/ou defeito que torne o bem impróprio ao uso, incontroverso que não há que se falar em rescisão contratual" (e-STJ fl. 404);
+(vi) art. 42 do CDC, pois "inexistente qualquer tipo de cobrança indevida, sendo que esta Recorrente sempre agiu em manifesta boa-fé com a parte Recorrida" (e-STJ fl. 406);
+(vii) art. 402 do CC/2002, uma vez que "a parte Recorrida não comprovou nos autos o que efetivamente perdeu em seu patrimônio em razão de suposto ato ilícito praticado pela Empresa Recorrente" (e-STJ fl. 407).
+Nesses termos, requereu o provimento do recurso, "reformando o v. acórdão recorrido pelas razões acima expostas" (e-STJ fl. 408).
+No agravo (e-STJ fls. 496/505), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada por PRM Cunha Representação Comercial Ltda. às fls. 509/533 (e-STJ).
+A parte Chery do Brasil Importação Fabricação e Distribuição não apresentou contraminuta (e-STJ fl. 534).
+É o relatório.
+Decido.
+O Tribunal de origem decidiu com base nos seguintes fundamentos (e-STJ fl. 388):
+Em 22.11.19, a própria ré emitiu a nota de "Devolução da Venda" no valor de R$ 73.790,00 (fl. 40), referente ao preço total do veículo (fl. 46), não restando dúvida sobre o cancelamento formal do negócio, sendo, ademais, fato incontroverso que a autora não retirou o veículo nem entregou à ré aquele que seria dado como entrada. Assim sendo, como a própria ré Yellow já tinha emitido a nota de "Devolução da venda", cancelando o negócio, foi indevida a continuidade dos descontos das parcelas avençadas, tanto quanto a manutenção do veículo em nome da autora, o que acarretou o lançamento também indevido do IPVA em seu nome, tendo sido correta a declaração de inexigibilidade das parcelas. A devolução em dobro dos valores descontados do cartão de crédito, a respeito das parcelas da compra do veículo, é devida, nos termos do art. 42 do Código de Defesa do consumidor, porque a má-fé da concessionária se estabeleceu pelo fato de, estando ela ciente do cancelamento do negócio em 22.11.19, continuar a cobrar as parcelas no cartão de crédito da autora. A concessionária também deve responder pelo pagamento do IPVA, diante do cancelamento do negócio.
+Contudo, no recurso especial, a parte não refutou tais fundamentos, em especial de que "a própria ré Yellow já tinha emitido a nota de "Devolução da venda", cancelando o negócio" (e-STJ fl. 388).
+Portanto, como não houve impugnação de todos os fundamentos do acórdão recorrido, incide a Súmula n. 283 do STF.
+Ademais, modificar o entendimento do acórdão impugnado, quanto à cobrança indevida, à falha na prestação do serviço e à má-fé da parte ora recorrente, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
