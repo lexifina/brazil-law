@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por KLD DECORACOES & BUFFET LTDA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 673):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. MATÉRIA DE MÉRITO ALEGADA EM EMBARGOS MONITÓRIOS NÃO CONHECIDOS. ALEGAÇÃO REPISADA EM GRAU RECURSAL. PRECLUSÃO CONSUMATIVA. CITAÇÃO POR EDITAL. EXCEPCIONALIDADE. CITAÇÃO POR MANDADO. PESQUISA NO SISTEMA CONVENIADO DO JUDICIÁRIO. ESGOTAMENTO DAS TENTATIVAS DE LOCALIZAÇÃO DO ENDEREÇO DA PARTE REQUERIDA. VALIDADE DA CITAÇÃO EDITALÍCIA.
+I - Matéria de defesa não arguida oportunamente fica acobertada pela preclusão consumativa, não podendo ser conhecida, por constituir inovação recursal.
+II - Consoante entendimento do STJ e desta Corte de Justiça, a citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça.
+III - Na há qualquer nulidade hábil a inquinar o ato citatório editalício, quando antes da sua realização, foram empreendidos todos os meios disponíveis para a localização da recorrente, inclusive, a realização de consulta junto aos sistemas conveniados deste Sodalício (INFOJUD, RENAJUD, BACENJUD), restando as mesmas infrutíferas.
+IV - Dessa forma, é inegável a validade da citação por edital, diante do recorrente insucesso das demais alternativas de se proceder à citação, devendo ser mantida a sentença nos termos prolatada.
+APELAÇÃO PARCIALMENTE CONHECIDA E NESSA PARTE DESPROVIDA.
+Embargos de declaração rejeitados (e-STJ fls. 709/717).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 238, 280, 338, 258, 805 do CPC/2015 e 421 e 422 do CC, além dos arts. 46 e 47 do CDC, argumentando que deve ser reconhecida a nulidade da citação por edital (e-STJ fls. 721/731).
+Contrarrazões às e-STJ fls. 767/775.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Quanto à alegada ofensa ao(s) art(s). 238, 280, 338, 258, 805 do CPC/2015 e 421 e 422 do CC, além dos arts. 46 e 47 do CDC, observa-se que o Tribunal a quo não emitiu juízo de valor sobre os referidos dispositivos, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide, na espécie, o óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017), o que não ocorreu, in casu.
+De fato, a parte, em sua peça recursal, limitou-se a transcrever o art. 1.022 do CPC (e-STJ fl. 729). No entanto, esta Corte Superior tem, reiteradamente, decidido que a alegação de violação àquele preceito deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
