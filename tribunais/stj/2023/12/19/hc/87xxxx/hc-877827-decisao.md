@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de ALEX DOS REIS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Autos nº 0102669-29.2023.8.19.0000).
+O paciente foi acusado pela prática do crime previsto no art. 33, caput, c/c art. 40, V, ambos da Lei nº 11.343/06. Imputou-se a seguinte conduta (e-STJ fls. 19-20): No dia 05 de junho de 2023, por volta das 09h30, policiais rodoviários federais, em patrulhamento pela Rodovia BR-040, KM 70, nesta Comarca, abordaram o denunciado, que conduzia o caminhão Scania, placa HTJ2D00, cadastrado no estado do Mato Grosso do Sul. Após avistarem o caminhão conduzido pelo denunciado, trafegando com o eixo levantado, em alta velocidade, e realizando manobras de risco, os agentes de segurança pública decidiram abordar o automóvel. Durante a revista, os policiais sentiram forte odor de maconha, momento em que, na parte superior do baú da carreta, encontraram 1.009,1kg de maconha, distribuídos em 2.286 tabletes, que o denunciado, livre e consciente, transportava entre duas unidades da federação, sem autorização ou em desacordo com determinação legal ou regulamentar. Alex dos Reis afirmou que receberia aproximadamente R$30.000,00 para realizar o transporte do entorpecente.
+O habeas corpus apresentado pela defesa, não foi apreciado pela Desembargadora Relatora (e-STJ fls. 14-15).
+A defesa alega, em síntese: a) excesso de prazo na manutenção da custódia preventiva, que já ultrapassa 190 dias.
+Consta dos autos que o paciente está preso desde 05/6/2023 .
+Requer, liminar e definitivamente, o deferimento da ordem para substituir a prisão preventiva do paciente por medidas cautelares diversas.
+É o relatório.
+Decido.
+A matéria relativa ao excesso de prazo não foi apreciada na origem. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem sobre a controvérsia (e-STJ fls.15):
+Considerando o articulado pelo impetrante-passa-dos exatos 90(dias) da Audiência de Instrução e Julgamento até o momento não houve prolação de sentença, estando o réu preso desde 05 de junho de 2023, ou seja, há exatos 191(cento e noventa e um) dias sem sentença, mister se aguarde o esclarecimento a ser prestado pelo Magistrado a quo.
+VENHAM AS INFORMAÇÕES,POR ORDEM E COM URGÊNCIA.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS. ANÁLISE DE PROVAS. VIA INADEQUADA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE OFÍCIO DE ORDEM DE HABEAS CORPUS. OPÇÃO EXCLUSIVA DO RELATOR.
+1. O Tribunal de origem, com apoio na prova dos autos, em especial depoimentos testemunhais colhidos sob o crivo do contraditório, concluiu pela legalidade da pronúncia, uma vez que verificou indícios suficientes nesse sentido, inclusive indicando ser inconteste a materialidade, motivo pelo qual é aplicável o princípio do in dubio pro societate.
+2. "Sobre os indícios de autoria da prática do crime imputado ao Agravante, segundo estabelece o art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor". (AgRg no HC n. 819.544/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+3. Tendo as instâncias de origem concluído no sentido de que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia, para se acolher a alegação de insuficiência probatória seria necessário o revolvimento fático-probatório, vedado em habeas corpus. Precedentes.
+4. No tocante ao alegado excesso de prazo da prisão decretada, verifica-se que a questão não foi analisada no acórdão recorrido. Desse modo, não debatida a questão pela Corte a quo, impedido fica o Superior Tribunal de Justiça de apreciar a matéria, sob pena de se incorrer em indevida supressão de instância.
+5. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, §2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus, de ofício, é opção exclusiva do relator.
+6. Agravo regimental improvido. (AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 13/11/2023, DJe de 16/11/2023) (destaquei).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
