@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por WAGNER DE PAULA PEREIRA JUNIOR contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O recorrente foi condenado como incurso no art. 180, caput, do Código Penal, a 1 (um) ano, 4 (quatro) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e 12 (doze) dias-multa (fls. 220-233).
+Os embargos de declaração da defesa foram rejeitados (fls. 243-249).
+Inconformado, o recorrente interpõe recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação aos arts. 33, 44, § 3º, e 59 do Código Penal. Requer, em síntese, a fixação do regime inicial semiaberto e a substituição da pena corporal (fls. 254-262).
+Em contrarrazões, o Ministério Público do Estado de São Paulo sustenta que o recurso não deve ser conhecido devido ao óbice das Súmulas n. 7 e n. 518, STJ, e n. 284, STF, e, no mérito, pugna pelo desprovimento do apelo nobre (fls. 266-271).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 285-290).
+É o relatório. DECIDO.
+Inicialmente, verifico que não incidem as Súmulas n. 284, STF, e n. 518, STJ, pois as razões recursais permitem a compreensão da controvérsia, e porque os enunciados ali mencionados se deram a título de reforço argumentativo. Na mesma linha, observo que a discussão trata da incidência de normas jurídicas sobre os fatos delineados no acórdão recorrido, de modo que afasto a Súmula n. 7, STJ.
+Todavia, o apelo nobre esbarra no óbice da Súmula n. 83, STJ, pois a decisão do Tribunal a quo está de acordo com o entendimento pacificado nesta Corte, de que a concomitância dos maus antecedentes e da reincidência autoriza a fixação do regime fechado, ainda que a pena aplicada seja inferior a quatro anos de reclusão, in verbis:
+"(..) A reincidência e os antecedentes criminais justificam a fixação do regime fechado para o início do cumprimento da pena, ainda que o quantum de reprimenda seja inferior a quatro anos." (AgRg no AREsp n. 2.400.779/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/12/2023)
+"(..) No que se refere ao regime prisional, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada, uma vez que, o paciente é reincidente e portador de maus antecedentes, o que constitui fundamentação idônea para a fixação do regime inicial fechado, mesmo que a pena definitiva tenha sido inferior a 4 anos de reclusão." (AgRg no HC n. 772.827/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 17/8/2023)
+Do mesmo modo, admite-se o indeferimento da substituição da pena privativa de liberdade pela pena restritiva de direitos na hipótese em que o apenado é reincidente e possui maus antecedentes.
+A propósito:
+"(..) Outrossim, havendo "circunstância judicial desfavorável (antecedentes) e sendo o acusado reincidente, ainda que não específico, incabível a substituição da pena privativa de liberdade por penas restritivas de direitos (art. 44, II e III, do CP)" (AgRg no AREsp n. 2.172.247/DF, relator Ministro OLINDO MENEZES - Desembargador Convocado do TRF 1.ª Região -, Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022)." (AgRg no HC n. 798.579/SP, Sexta Turma, Rel.ª Min.ª Laurita Vaz, DJe de 23/3/2023)
+"(..) No caso em análise, tratando-se de réu reincidente e tendo havido valoração negativa de circunstâncias judiciais, o que implicou fixação da pena-base acima do mínimo legal, deve ser reconhecida a inviabilidade da concessão da benesse prevista no art. 44 do Código Penal." (AgRg no HC n. 850.756/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/10/2023)
+Diante do exposto, e nos termos do art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. RECEPTAÇÃO. PENA INFERIOR A QUATRO ANOS. MAUS ANTECEDENTES. REINCIDÊNCIA. REGIME FECHADO. POSSIBILIDADE. PRECE DENTES. SUBSTITUIÇÃO DA PENA CORPORAL. INVIABILIDADE. PRECEDENTES. SÚMULA 83, STJ. RECURSO ESPECIAL NÃO CONHECIDO.
