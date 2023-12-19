@@ -1,0 +1,28 @@
+DECISÃO
+RAMON BERTOLDO IZIDORO alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão pre ventiva.
+A defesa pretende a soltura do paciente - preso preventivamente pelo crime de tráfico de drogas -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+Vistos.
+1 - Flagrante formalmente em ordem.
+O estado de flagrância decorre da notícia da apreensão do material ilícito (125 gramas de cocaína, 78 gramas de crack, 33 gramas de skunk, 26 gramas de haxixe, além de dinheiro R$ 225,95 - auto de exibição de fls. 12/13), que seria relacionado ao autuado; em suma, apreendidas 282 porções de drogas variadas, que estariam na posse do detido.
+Oportunamente, redistribua-se e aguarde-se a vinda dos autos principais.
+2 - Acolho o requerimento ministerial, para converter a prisão em flagrante em prisão preventiva, na forma do art. 310, inc. II, do CPP, em sua atual redação.
+Existem, nos autos, prova da materialidade do delito (tráfico de drogas, em tese),punido com reclusão (pena máxima superior a 4 anos), e indícios suficientes da autoria, conforme exsurge dos elementos colhidos no auto de prisão em flagrante, notadamente os depoimentos dos agentes encarregados da diligência.
+No caso do presente expediente, pese a primariedade do autuado, há evidências no sentido de que exercia o comércio ilícito de entorpecentes. Nesse sentido, extrai-se que o autuado foi detido em um ponto conhecido como "biqueira", com drogas, havendo relatos dos agentes policiais de que ele trazia consigo os entorpecentes.
+Isso é o que o quadro fático delineia neste expediente, havendo, assim, presente o fumus comissi delicti.
+A conduta praticada, em tese, pelo autuado, é, assim, daquelas que tem subvertido a paz social. Presentes, neste instante, circunstâncias justificadoras da manutenção de sua custódia, para garantia da ordem pública e para assegurar a aplicação da lei penal.
+Com efeito, não há comprovante de ocupação lícita. Fixado, por ora, o presente quadro, não há como ser deferida a liberdade, neste momento, pois necessário resguardar a ordem pública, já que a sociedade se vê constantemente atormentada pela prática de fatos como o presente, ensejadores de crimes patrimoniais, de desestabilização familiar e de violência, em termos gerais, bem como por presente o risco de se frustrar a aplicação da lei penal, já que não há garantias de que, uma vez concedida a liberdade, não se frustrará o regular andamento do feito, subtraindo-se à ação da justiça criminal.
+De outro bordo, revela-se prematura incursão aprofundada no mérito, inclusive quanto a eventual privilégio, cuja aplicação somente será viável após regular instrução, a possibilitar melhor compreensão dos fatos, e aferição concreta das situações pessoais.
+Anote-se, ademais, que o delito em questão é insuscetível de fiança.
+E, a hediondez da mercancia de entorpecentes traz especial gravame à sociedade e alavanca uma série de outros crimes, notadamente crimes patrimoniais violentos, além de as substâncias entorpecentes encontradas ostentarem grandiosa potencialidade lesiva à saúde pública.
+A prisão é contemporânea, não se consegue vislumbrar qualquer medida que poderia substituir a segregação cautelar, tudo a indicar o estado de perigo gerado por eventual liberação açodada. A soltura permitiria a continuidade no ambiente deletério, altamente permeável à prática delitiva. Plenamente justificada, pois, a manutenção da custódia cautelar, que ora determino, restando prejudicados os pleitos benéficos à defesa.
+3 - Expeça-se mandado de prisão, com as cautelas de praxe. Considerando que o laudo de constatação de fls. 21/24, encontra-se formalmente em ordem, autorizo a destruição das drogas apreendidas, preservando-se amostra necessária à realização de laudo definitivo e contraprova (Lei n. 11.343/06, artigo 50, § 3º e nos termos do artigo 524 das Normas de Serviço da Corregedoria Geral de Justiça). Comunique-se. (fls. 35 36)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, pois, após relatar a apreensão de 125 gramas de cocaína, 78 gramas de crack, 33 gramas de skunk e 26 gramas de haxixe, salientou que as substâncias entorpecentes encontradas ostentarem grandiosa potencialidade lesiva à saúde pública"
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, que possui "entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no RHC n. 178.504/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
