@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Maranhão com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJMA, assim ementado (fls. 457-458, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. FORÇA VINCULANTE DA TESE FIXADA NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA Nº 18.193/2018. RECURSO NÃO PROVIDO.
+I. Trata-se de execução do título judicial formado na Ação Coletiva nº 14.440/2000, que por conta da força vinculante do acórdão prolatado no Incidente de Assunção de Competência nº 18.193/2018, constituindo-se precedente obrigatório a ser aplicado aos processos que tramitam sob a competência territorial deste Tribunal de Justiça, entendo por insuperável o fato de que os efeitos da Lei Estadual nº 7.072/98 findaram-se com a vigência da Lei Estadual nº 8.186/2004.
+II. Nega-se provimento a agravo interno quando o inconformismo do agravante não vem acompanhado de argumentos em seu favor, mas apenas na insistência dos mesmos já enfrentados e afastados pela decisão agravada;
+III. Agravo Interno conhecido e não provido. Decisão monocrática mantida.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da fixação de honorários sucumbenciais em favor do advogado da parte vencedora.
+Quanto à questão de fundo, sustenta ofensa aos artigos 82, § 2º, 85, 98, §§ 2º e 3º, do CPC/2015 sob os seguintes argumentos: (a) "ainda que beneficiária da justiça gratuita, tem-se que a decisão não poderia ter deixado de condenar a exequente nas custas e honorários advocatícios sucumbenciais, portanto, a condenação da parte em honorário é adequada à exigência processual" (fl. 531, e-STJ); (b) "os honorários sucumbenciais são fixados entre 10% a 20%, e a base de cálculo dos honorários sucumbenciais é o proveito econômico (de modo que para o executado é sobre o excesso de execução justamente por ser este o valor correspondente ao que o executado deixou de pagar ou perder para a parte exequente)" (fl. 531, e-STJ).
+Defende a necessidade de concessão de efeito suspensivo ao presente recurso, visto que "a continuidade da execução, determinada pelo acórdão recorrido, poderá causar lesão grave ou de difícil reparação, pois se trata de execução de grande monta" (fl. 533, e-STJ).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 551-554 (e-STJ).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, pois remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da fixação de honorários sucumbenciais em favor do advogado da parte vencedora.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa aos artigos 489 e 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios. Prejudicada a apreciação dos demais aspectos da insurgência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGOS 489 E 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
