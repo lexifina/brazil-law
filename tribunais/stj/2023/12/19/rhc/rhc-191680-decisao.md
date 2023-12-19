@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Maria Irislane de Sousa Lima - presa preventivamente pela suposta prática de delitos tipificados nos art. 33, caput, e art. 35, caput, ambos da Lei n. 11.343/2006, e art. 16, § 1º, IV, da Lei n.10.826/2003 (fl. 240) - contra o acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios que denegou a ordem lá impetrada (Habeas Corpus n. 0750269-30.2023.8.07.0000).
+Sustenta a recorrente que, no caso, é mãe e possui 5 filhos, com idade inferior a 12 anos que são totalmente dependentes emocionalmente e financeiramente da mesma, inclusive o filho mais novo, R L do N, conta com 2 anos de idade e ainda é amamentado. A recorrente tem outros 4 (filhos), E L do N com 4 anos, L A N L com 6 anos, M L L do N com 7 anos e E S L de L com 9 anos, que precisam da convivência com a figura materna para pleno desenvolvimento, pois seu genitor (LUIS FERNANDO DO NASCIMENTO SOUSA), atualmente, encontra-se recolhido ao sistema penitenciário, conforme processo de Execução Penal n. 0400203-50.2018.8.07.0001. Indica-se que Maria é a única disponível para cuidar dos filhos, pois, além do pai dos menores estar preso, a mãe de Maria reside atualmente em outro estado da Federação, conforme documento juntado em anexo (fl. 311).
+Almeja, em necessária síntese, o que se segue (fl. 315):
+ ..
+A concessão de medida liminar com vistas à imediata revogação da ordem judicial que determinou a prisão preventiva, ou, ainda, a substituição da prisão preventiva por medida cautelar div ersa da prisão, que, no entender de Vossa Excelência, seja compatível com a natureza da conduta imputada, com a devida expedição de alvará de soltura em benefício da paciente MARIA IRISLANE DE SOUSA LIMAO
+O regular processamento do feito, para que ao final sejam conclusos para julgamento, nos termos do regimento interno deste r. Tribunal Superior;
+Ao final, a concessão definitiva da ordem do writ com base no (art. 647 e seguintes do Código de Processo Penal).
+ ..
+É o relatório.
+Extrai-se dos autos que, quanto à necessidade da imposição da segregação cautelar - sobretudo em razão da gravidade concreta do delito -, o voto condutor do acórdão impugnado explicitou o seguinte (fls. 295/308):
+ ..
+No caso, como já exposto, a paciente foi encontrada com grande quantidade de entorpecentes e munições para armas, existindo indícios quanto a sua periculosidade. Além dos requisitos da prisão preventiva (art. 312 do CPP) estarem presentes, certo é que a paciente não comprovou a imprescindibilidade da sua presença junto aos filhos.
+Chama a atenção ainda que as autoridades policiais não mencionaram a presença de qualquer criança no imóvel onde a paciente foi presa, mesmo que ela tenha afirmado que resida no local com seus cinco filhos (ID. 53776464, p. 18), inclusive amamentando o filho de dois anos (ID. 53776310, p. 02). Não há indicativo de que essas informações sejam verdadeiras.
+ ..
+Portanto, inexistindo ilegalidade na prisão, estando a decisão da origem devidamente fundamentada e, diante das informações colhidas em sede policial - as quais não foram refutadas na exordial deste Habeas Corpus -, entendo que a prisão preventiva deve ser mantida, não sendo recomendável ao caso a sua conversão em prisão domiciliar, ainda mais considerando o risco de seus filhos conviverem em um ambiente de risco, onde há a presença de substâncias ilícitas.
+ ..
+Logo, a jurisprudência recente, tanto do STF quanto do STJ, admite a concessão da prisão domiciliar mesmo a apenados em regime prisional diverso do aberto, desde que a realidade concreta, devidamente comprovada, assim o imponha  ..  não há nos autos prova cabal de que a ré seja mãe de menor sob sua guarda, como também não há nenhuma comprovação da imprescindibilidade dos cuidados da ré em relação à criança indicada (HC n. 452.911/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 15/8/2018) - (AgRg no HC n. 724.344/SC, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 7/6/2022, DJe 23/6/2022).
+Por conseguinte , a prisão preventiva da recorrente está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa (AgRg no HC n. 710.058/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/2/2022).
+Diante disso, inexiste constrangimento ilegal a ser sanado neste recurso.
+No mesmo sentido: AgRg no RHC n. 124.697/MG, Ministro Felix Fischer, Quinta Turma, DJe 17/4/2020; AgRg no HC n. 546.302/MG, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 3/12/2019; AgRg no HC n. 474.992/ES, de minha relatoria, Sexta Turma, DJe 11/3/2019; e RCD no HC n. 423.298/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/12/2017, dentre outros.
+Ante o exposto, nego provimento ao presente recurso em habeas corpus.
+Pub lique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. POSSE E PORTE DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. PRETENSÃO DE LIBERDADE. DECISUM SUFICIENTEMENTE FUNDAMENTADO. NECESSIDADE DA GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso em habeas corpus improvido.
