@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido de tutela provisória, formulado por CONSDON ENGENHARIA E COMERCIO LTDA, com fundamento nos arts. 294, 299 e 995, parágrafo único, do CPC/2015, e 288 do RISTJ, objetivando a concessão de efeito suspensivo a Recurso Especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Foi deferido o pedido de tutela provisória, para o fim de atribuir efeito suspensivo ao Recurso Especial, interposto pela agravada, até a apreciação do mérito do referido recurso, determinando a suspensão do processo licitatório referente aos lotes 18 e 54 da Concorrência 05/2017.
+Ocorre que, em 30/10/2023, o acórdão proferido no REsp 1.894.069/SP transitou em julgado, no qual conheci do Recurso Especial e dei-lhe provimento, para conceder a segurança.
+Desta forma, com o julgamento do REsp 1.894.069/SP, houve a perda de objeto do presente pedido de Tutela Provisória, proposto com o objetivo de atribuir-lhe efeito suspensivo. Nesse sentido: STJ, AgRg na MC 20.851/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 30/10/13.
+Cumpre destacar que a Corte Especial do STJ "firmou o entendimento no sentido de que a medida cautelar, ajuizada com objetivo de atribuir efeito suspensivo ao recurso ordinário, perde o objeto quando o referido recurso é julgado por esta Corte Superior, "ainda que se trate de decisão ainda não transitada em julgado" (AgRg na MC 20.112/AM, Corte Especial, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 26.6.2013)" (STJ, AgRg na MC21.739/MG, Rel.
+Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de19/12/2014). Nesse sentido: STJ, AgRg na MC 24.316/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 19/04/2016; AgRg nos EDcl na MC 24.594/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 19/11/2015; EDcl na MC 24.446/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJede 05/11/2015; ; AgRg na MC 23.395/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/06/2015.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o presente pedido de Tutela Provisória e, consequentemente, o Agravo interno de fls. 1.196/1.225e.
+I.
+EMENTA
