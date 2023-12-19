@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ. CSLL. BASE DE CÁLCULO. TAXA SELIC. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. EXCLUSÃO. POSSIBILIDADE. PIS. COFINS. IMPOSSIBILIDADE DE AMPLITUDE DO STF NO RE Nº 1.063.187 (TEMA 962) DE REPERCUSSÃO GERAL CONHECIDA.
+1 - CINGE-SE A CONTROVÉRSIA NA PRETENSÃO DO CONTRIBUINTE DE AFASTAR A COBRANÇA DO IRPJ, CSLL, PIS E COFINS SOBRE A ATUALIZAÇÃO, PELA SELIC, NAS REPETIÇÕES DE INDÉBITO.
+2 - O E. SUPREMO TRIBUNAL FEDERAL RECONHECEU A REPERCUSSÃO GERAL NO RE Nº 1.063.187 (TEMA 962) E, EM RECENTE DECISÃO, PROFERIDA EM 24/09/2021, DECIDIU PELA NÃO INCIDÊNCIA DO IRPJ E DA CSLL SOBRE A PARCELA DAS REPETIÇÕES DE INDÉBITOS TRIBUTÁRIOS CORRESPONDENTE AOS JUROS E CORREÇÃO MONETÁRIA, REPRESENTADA PELA TAXA SELIC NAS REPETIÇÕES DE INDÉBITO DE TRIBUTOS FEDERAIS, FIXANDO A SEGUINTE TESE: "É INCONSTITUCIONAL A INCIDÊNCIA DO IRPJ E DA CSLL SOBRE OS VALORES ATINENTES À TAXA SELIC RECEBIDOS EM RAZÃO DE REPETIÇÃO DE INDÉBITO TRIBUTÁRIO".
+3 - VALE RESSALTAR QUE O PLENÁRIO DO STF DECIDIU, CONFORME VOTO PROFERIDO PELO MINISTRO DIAS TOFFOLI, NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO, EM 29/04/2022, PELA MODULAÇÃO DOS EFEITOS DA TESE JURÍDICA EM QUESTÃO E ESTABELECEU QUE A DECISÃO PRODUZIRÁ EFEITOS A PARTIR DE 30/09/2021 (DATA DA PUBLICAÇÃO DA ATA DE JULGAMENTO DO MÉRITO), RESSALVANDO-SE (I) AS AÇÕES AJUIZADAS ATÉ 17/09/2021 (DATA DO INÍCIO DO JULGAMENTO DO MÉRITO) E (II) OS FATOS GERADORES ANTERIORES A 30/09/2021, EM RELAÇÃO AOS QUAIS NÃO TENHA HAVIDO O PAGAMENTO DO IRPJ OU DA CSLL A QUE SE REFERE A TESE DE REPERCUSSÃO GERAL.
+4 - NA OCASIÃO, O SUPREMO TRIBUNAL FEDERAL ESCLARECEU QUE A DECISÃO NÃO SE APLICA AOS DEPÓSITOS JUDICIAIS E NEM AOS CONTRATOS ENTRE PARTICULARES, MAS APENAS ÀS HIPÓTESES DE REPETIÇÃO DE INDÉBITO TRIBUTÁRIO DISCUTIDAS NAS ESFERAS ADMINISTRATIVA E JUDICIAL (INCLUSIVE AQUELAS REALIZADAS ATRAVÉS DE COMPENSAÇÃO) EM QUE HÁ ACRÉSCIMO DE JUROS MORATÓRIOS, MEDIANTE A TAXA SELIC.
+5 - NO CASO EM TELA, VERIFICA-SE QUE O MANDADO DE SEGURANÇA FOI IMPETRADO EM 06/07/2021, ENQUADRANDO-SE, PORTANTO, NA RESSALVA FEITA QUANDO DA MODULAÇÃO DOS EFEITOS.
+6 - QUANTO À INCIDÊNCIA DE PIS E COFINS SOBRE VALORES RESULTANTES DE ATUALIZAÇÃO DE INDÉBITOS TRIBUTÁRIOS PELA SELIC, ENTENDO NÃO HAVER AMPLITUDE DO JULGADO DO SUPREMO TRIBUNAL FEDERAL NO LEADING CASE SUPRAMENCIONADO.
+7 - AS BASES DE CÁLCULO DO PIS E DA COFINS ESTÃO DEFINIDAS NAS LEIS Nº 10.637/2002E 10.833/2003, COMO SENDO "O TOTAL DAS RECEITAS AUFERIDAS NO MÊS PELA PESSOA JURÍDICA, INDEPENDENTEMENTE DE SUA DENOMINAÇÃO OU CLASSIFICAÇÃO CONTÁBIL".
+8 - NOTA-SE A DIFERENÇA QUE RESIDE NA BASE DE CÁLCULO DO PIS/COFINS EM RELAÇÃO AO IRPJ E A CSLL, DE MODO QUE O PRECEDENTE DO E. STF NO RE Nº 1.063.187 NÃO DEVE SER ESTENDIDO PARA ABARCAR TAMBÉM A EXCLUSÃO DA INCIDÊNCIA DAS REFERIDAS CONTRIBUIÇÕES SOBRE OS JUROS DE MORA E CORREÇÃO MONETÁRIA CORRIGIDAS PELA TAXA SELIC.
+9 - REMESSA NECESSÁRIA E RECURSO DE APELAÇÃO DA UNIÃO FEDERAL/FAZENDA NACIONAL PARCIALMENTE PROVIDOS.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 489, do CPC/2015; 195, I, "a", 5º, XXXVI, e 145, § 1º, da CF; e ao Tema 962/STF. Argumenta:
+Conforme demonstrado linhas acima, tal quantia recebida deve ser caracterizada como "receita" ou "faturamento", nos termos do art. 195, I, "b" da Constituição Federal.
+(..)
+O Supremo Tribunal Federal já declarou inconstitucional a Ampliação da base de cálculo das contribuições destinadas ao PIS e à COFINS, promovida pelo §1º do artigo 3º da Lei nº 9.718/98 (RREE 357.950/RS,346.084/PR, 358.273/RS e 390.840/MG).
+O Tribunal Pleno do e. Supremo Tribunal Federal, ao analisar o conceito de Receita por ocasião do julgamento do Recurso Extraordinário nº606.107/RS, firmou seu entendimento no sentido de que :
+(..)
+O princípio da segurança jurídica é o que decorre do art. 5º, inciso XXXVI, da Constituição Federal (CF) de 1988, segundo o qual "a lei não prejudicará o direito adquirido, a coisa julgada e o ato jurídico perfeito".
+(..)
+A Constituição brasileira, não obstante, adotando a melhor técnica, como alerta F. Moschetti, restringe a obrigatoriedade do princípio aos impostos, conforme dispõe o art. 145, §1º.
+É que, enquanto a base de cálculo dos impostos deve mensurar um fato-signo, indício de capacidade econômica do próprio contribuinte, nos chamados tributos vinculados -relativos às taxas e contribuições -ela dimensiona o custo da atuação estatal ou a vantagem imobiliária auferida pelo contribuinte, advinda da obra pública.
+Desta feita, independentemente de previsão constitucional explícita, o Princípio da Capacidade Contributiva pode ser admitido também com relação à estes tributos vinculados. Embora não seja uma imposição, o mesmo pode ser aplicado como uma orientação, funcionando simplesmente como um princípio de justiça fiscal. Neste sentido, bem observou José Maurício Conti:
+(..)
+Deste modo, para evitar insegurança jurídica no que diz respeito ao assunto, o STF já reconheceu a repercussão geral acerca da matéria no Tema 962. E com base nos princípios constitucionais e legais, devem os Tribunais conduzirem os processos com repercussão geral de maneira "uníssona".
+Contrarrazões às fls. 400-406, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3 de outubro de 2023.
+Na origem, trata-se de Mandado de Segurança impetrado por Distribuidora de Material de Construção Via Ligth Ltda. contra ato do Delegado da Receita Federal do Brasil em Nova Iguaçu, postulando a concessão de ordem para declaração de não incidência do IRPJ e da CSLL sobre o montante correspondente a correção monetária e juros SELIC, incidentes sobre os valores decorrentes da repetição de indébitos tributários (restituição/compensação) reconhecidos na via administrativa e/ou judicial, com autorização para restituição/compensação dos valores indevidamente recolhidos nos cinco anos anteriores.
+A irresignação não ultrapassa a barreira do conhecimento.
+Inicialmente, quanto à suscitada ofensa ao art. 489 do CPC/2015, verifico que o recorrente não logrou êxito em indicar objetivamente quais foram os pontos omitidos no acórdão combatido, com a individualização do erro, da obscuridade, da contradição ou da omissão supostamente ocorridos, bem como em demonstrar a sua relevância para a solução da lide, a fim de que o vício pudesse ser reconhecido por esta Corte como apto a ensejar a nulidade do julgado.
+A mera citação dos dispositivos legais invocados, a referência genérica aos aclaratórios ou a simples indicação dos vícios sem justificar sua importância para o deslinde do conflito não suprem a deficiência recursal. Tal circunstância atrai a incidência, por analogia, da Súmula 284/STF: "Inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. (..) AGRAVO INTERNO IMPROVIDO.
+(..)
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+(..) VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/8/2017.)
+(..) VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. (..) SÚMULA 284/STF. (..)
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 3/8/2017.)
+Ademais, o Superior Tribunal de Justiça não pode analisar a infringência aos arts. 195, I, "a", 5º, XXXVI, e 145, § 1º, da CF, sob pena de invasão da competência do STF. Descabe ao STJ analisar matéria constitucional na via especial, ainda que para viabilizar a interposição de Recurso Extraordinário. Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ART. 1.025 DO CPC/2015. INAPLICABILIDADE. CERTIDÃO DE DÍVIDA ATIVA. NULIDADE. INEXISTÊNCIA. CONCLUSÃO FIRMADA COM BASE NAS PROVAS DOS AUTOS. REVISÃO DO ENTENDIMENTO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA 283/STF. MULTA CONFISCATÓRIA. QUESTÃO CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO STF.
+(..)
+Ocorre que quando a controvérsia é solucionada com fundamento em princípios ou dispositivos constitucionais, o recurso especial é inviável, sob pena de usurpação da competência reservada pela Constituição da República ao Supremo Tribunal Federal.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.896.303/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 15/3/2021)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARTS. 205 E 927, III, DO CPC/2015. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. IPTU. IMÓVEL CEDIDO A PESSOA JURÍDICA DE DIREITO PRIVADO. CONCESSÃO DE BEM E SERVIÇO PÚBLICO. TEMA 437 DO STF. ACÓRDÃO EMBASADO FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE REVISÃO EM RECURSO ESPECIAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+IV - O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno desprovido.
+(AgInt no REsp 1.902.910/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 5/3/2021)
+Não bastasse isso, incluem-se na base de cálculo da contribuição ao PIS e da Cofins os valores recebidos a título de juros moratórios e correção monetária (taxa Selic) na repetição de indébito, entendimento que não sofreu alteração em virtude do julgamento do Tema n. 962/STF. A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. RECONHECIMENTO CARÁTER INDENIZATÓRIO DA TAXA SELIC. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E COFINS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ADMISSIBILIDADE IMPLÍCITA. JURISPRUDÊNCIA PACÍFICA. TAXA SELIC INTEGRA A BASE DE CÁLCULO.
+I - Na origem, trata-se de mandado de segurança objetivando que seja reconhecido o caráter indenizatório da taxa SELIC, concedendo-se o direito líquido e certo de a contribuinte excluir da base de cálculo do PIS e COFINS os seus importes, bem como autorizar a restituição/compensação dos créditos pagos indevidamente nos últimos 5 anos. Na sentença denegou-se a segurança. No Tribunal a quo, a sentença foi reformada para conceder a segurança.
+II - A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgRg no REsp 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+III - A jurisprudência desta Corte Superior é uníssona no sentido de que, no âmbito da repetição do indébito tributário, os valores da Taxa Selic (correção monetária e juros de mora) integram a base de cálculo do PIS e da COFINS, entendimento que não sofreu alteração em virtude do julgamento do Tema n. 962/STF. Nesse sentido: AgInt no REsp n. 1.967.695/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022; AgInt no REsp n. 1.960.914/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022; AgInt no REsp n. 1.899.938/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/6/2022, DJe de 24/6/2022; AgInt no AREsp n. 2.003.413/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022; AgInt no REsp n. 1.973.486/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/5/2022, DJe de 12/5/2022; AgInt no REsp n. 1.953.482/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 16/5/2022, DJe de 18/5/2022.
+IV - Correta a decisão que deu provimento ao recurso especial para reconhecer como devida a incidência do PIS e da COFINS sobre a SELIC agregada aos valores objeto de repetição de indébito.
+V - Agravo interno improvido.
+(AgInt no REsp 2.058.399/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 16/8/2023.)
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação é aplicável também aos Recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Rel. Ministro Castro Meira, DJe de 2.6.2010.
+Assinale-se, por fim, que fica prejudicada a verificação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Apelo Nobre pela alínea "a" do permissivo constitucional. Vejam-se:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. RESSARCIMENTO AO SUS. TABELA TUNEP. INSCRIÇÃO NO CADIN. ANTECIPAÇÃO DE TUTELA. PRESSUPOSTOS. REEXAME DE PROVAS. AGRAVO REGIMENTAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. DECISÃO AGRAVADA. ALICERCE INATACADO. SÚMULA 182/STJ. NÃO-CONHECIMENTO DO RECURSO PELA ALÍNEA A. DISSÍDIO PRETORIANO PREJUDICADO.
+(..)
+5. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 24/9/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 53 DO CP. SÚMULA 284/STF. VIOLAÇÃO DO ART. 5º, DA LEI 9.71/98. ACÓRDÃO FUNDAMENTADO EM LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+(..)
+3. Resta prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo regimental não provido.
+(AgR no AREsp 34.860/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/9/2013)
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO DA MOEDA. URV. PERDAS SALARIAIS. LIMITAÇÃO TEMPORAL. REESTRUTURAÇÃO DE CARREIRA. POSSIBILIDADE. LEI 16.190/2006. PERÍCIA JUDICIAL. EXAME. INVIABILIDADE. SÚMULAS 280/STF E 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. JUROS DE MORA DEVIDOS PELA FAZENDA PÚBLICA. ALTERAÇÕES AO ART. 1º-F DA LEI 9.494/1997. APLICABILIDADE IMEDIATA.
+(..)
+3. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional, tendo em conta a aplicação das vedações previstas nos citados verbetes sumulares.
+(..)
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp: 289.699/MG, Relator: Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 13/5/2013)
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
