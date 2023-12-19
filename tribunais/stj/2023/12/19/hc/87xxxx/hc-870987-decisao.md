@@ -1,0 +1,29 @@
+DECISÃO
+WEVERTON MICHEL GRIGORIO BARBOSA e DANIEL RAMALHO DOS SANTOS alegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1504422-64.2021.8.26.0597.
+Os pacientes foram condenados, como incursos no art. 157, §§ 2º, II, e 2º-A, I, do Código Penal, cada um, igualmente, à sanção de 12 anos, 1 mês e 5 dias de reclusão, no regime fechado, mais 26 dias-multa.
+Em apelação, o Tribunal de origem reformou a sentença a fim de alterar a pena de DANIEL RAMALHO DOS SANTOS para 10 anos, 4 meses e 13 dias de reclusão, mais 23 dias-multa.
+A defesa postula a absolvição dos pacientes, ao argumento de que não há elementos de convicção suficientes e válidos para dar substrato às condenações, "uma vez que a confissão extrajudicial do réu Rafael não foi corroborada por outras provas produzidas sob contraditório" (fl. 9).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 308-317).
+Decido.
+O Tribunal de origem manteve a condenação dos acusados pelos crimes a eles imputados, sob os seguintes fundamentos (fls. 282-286):
+Rafael, na fase extrajudicial, confessou a imputação (fls. 22). Declarou que, por estar envolvido com uso de drogas, cometeu alguns crimes de roubo. Quanto ao delito de que trata esses autos, foi convidado pelo acusado Weverton, vulgo "Bisgóia", a praticar o crime no posto Novo Fórum.
+ ..
+Extrai-se da declaração em pretório da vítima Gilberto Oliveira da Silva, que presenciou diversos roubos no ano de 2021, no Posto Novo Fórum, onde trabalhava. No crime ocorrido no dia14 de novembro de 2021,foi abordado por Rafael, que vestia blusa de manga longa, boné e máscara de proteção. Tal acusado chegou de bicicleta e, portando arma de fogo, subtraiu R$ 600,00 que estava em seu poder. Os corréus Daniel e Weverton foram à loja de conveniência do posto e roubaram dinheiro.
+Depreende-se dos relatos em pretório das testemunhas João Reinaldo de Souza e Carina Bianca Cesca, investigadores de polícia, que através das investigações de um roubo ocorrido no Supermercado Três Rios, em Sertãozinho/SP, chegaram a Rafael, de modo que foi expedido mandado de prisão em desfavor de tal recorrente e, na ocasião dessa abordagem, o acusado admitiu ter praticado o roubo no Supermercado sozinho e o roubo no Auto posto Novo Fórum em companhia de Weverton e Daniel. Na Delegacia, em conversa gravada, reafirmou a autoria do delito, dando detalhes acercados coautores  .. .
+Entendo que as instâncias antecedentes, após minuciosa análise do acervo fático-probatório carreado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação dos réus pelos crimes que lhes foram imputados, em relação à autoria e à materialidade.
+Nesse sentido, destaco a confissão extrajudicial do réu Rafael, corroborada pelo depoimento, em juízo, dos investigadores de polícia, que ouviram a admissão do crime pelo mencionado agente. Além disso, houve o relato, sob o crivo do contraditório, d a vítima, segundo a qual os ora pacientes foram à loja de conveniência do posto e roubaram dinheiro.
+Diante disso e sem aprofundamento no material cognitivo dos autos, não prosperam as alegações de absolvição.
+Para alterar a conclusão da Corte de origem, com o intuito de acolher as teses absolutórias, seria necessária a incursão no conjunto fático-probatório dos autos, procedimento vedado na seara estreita do writ. Ilustrativamente:
+ ..
+II - O habeas corpus não se presta para a apreciação de alegações que buscam absolvição/desclassificação ou análise de continuidade delitiva de condutas reconhecidas pelas instâncias ordinárias, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita do mandamus. Precedentes.
+ ..
+(AgRg no HC n. 813.705/MG, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 16/10/2023).
+Feitas essas ponderações, constato que não prospera a alegação de que a condenação baseou-se, exclusivamente, em provas inquisitoriais.
+Quanto ao sistema de valoração das provas, no processo penal brasileiro, como dito, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente.
+Nesse contexto, o legislador ordinário, buscando dar maior efetividade às garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155, caput, do Código de Processo Penal.
+Isso significa que não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório fundamentado unicamente em elementos informativos colhidos durante o inquérito policial, no qual inexiste o devido processo legal (com seus consectários do contraditório e da ampla defesa). O juiz pode deles fazer uso para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou que esses elementos informativos sejam repetidos em juízo, assumindo, tecnicamente, a natureza de prova.
+No caso, diferentemente do alegado, verifico que o Tribunal estadual sopesou as provas e os elementos informativos colhidos extrajudicialmente com as demais provas e depoimentos obtidos em juízo, submetidos, portanto, ao crivo do contraditório, razão pela qual não procedem os argumentos da defesa.
+Aliás, consoante já decidiu este Superior Tribunal, "não se admite a nulidade do édito condenatório sob alegação de estar fundado exclusivamente em prova inquisitorial, quando baseado também em outros elementos de provas levados ao crivo do contraditório e da ampla defesa" (HC n. 155.226/SP, Rel. Ministro Og Fernandes, 6ª T., DJe 1º/8/2012).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
