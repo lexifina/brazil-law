@@ -1,0 +1,125 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fls. 396/397):
+PENAL E PROCESSO PENAL. APELAÇÃO DEFENSIVA. ARTIGO 334, § 1º, IV, DO CÓDIGO PENAL. DESCAMINHO. REITERAÇÃO DELITIVA. INAPLICABILIDADE. PRINCÍPIOS DA ADEQUAÇÃO SOCIAL, DA OFENSIVIDADE, DA IRRELEVÂNCIA PENAL DO FATO E DA INTERVENÇÃO MÍNIMA. INAPLICABILIDADE. MATERIALIDADE, AUTORIA E DOLO. DEMONSTRADOS. RÉU CONFESSO. ELABORAÇÃO DE LAUDO MERCEOLÓGICO. PRESCINDIBILIDADE. PROVAS JUDICIALIZADAS. OBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. CONDENAÇÃO MANTIDA. DOSIMETRIA. ANTECEDENTES. REDIMENSIONAMENTO DA PENA. REINCIDÊNCIA. PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE.
+1. Comprovados a materialidade, a autoria e o dolo e inexistindo causas excludentes de ilicitude ou de culpabilidade, resta mantida a condenação do réu pela prática do crime do artigo 334, § 1º, inciso IV, do Código Penal.
+2. A Receita Federal do Brasil é órgão responsável pelo controle e repressão do ingresso irregular de mercadorias estrangeiras no território brasileiro, possuindo seus agentes aptidão técnica para diagnosticar se as mercadorias apreendidas são efetivamente de origem estrangeira e instrumentos hábeis para mensurar o seu valor, conforme reiterada jurisprudência desta Corte.
+3. Os documentos produzidos na esfera administrativa por servidores públicos, no exercício de suas funções, que neles atestaram a sua fé pública, gozam de presunção de veracidade e legitimidade, próprios dos atos administrativos, portanto, considerados provas irrepetíveis a teor das exceções previstas no art. 155 do CPP.
+4. Na hipótese dos autos, a prova elaborada em sede administrativa foi submetida ao contraditório, oportunizando-se a ampla defesa na esfera judicial, e sendo proporcionado ao apelante o direito de contestar as provas produzidas ou elaborar outras provas que as desconstituíssem, observado, desse modo, o devido processo legal, o que afasta a alegação da defesa de ausência de prova judicializada.
+5. Conforme entendimento desta Corte que, tratando-se de um único registro, "a reincidência, seja ela genérica ou especí ca, deve ser compensada integralmente com a atenuante da con ssão" (TRF4, ACR 5001928-48.2021.4.04.7005, OITAVA TURMA, Relator NIVALDO BRUNONI, juntado aos autos em 12/05/2022).
+6. Tratando-se de réu reincidente especí co, é inviável a substituição da pena privativa de liberdade por penas restritivas de direitos, nos termos do art. 44, §3º, do Código Penal.
+7. Registro de maus antecedentes. Reduzido o quantum de aumento operado em sentença que se mostrou desproporcional.
+8. O pedido de concessão da gratuidade de justiça deve ser formulado perante o juízo da execução, que aferirá as reais condições econômicas dos agentes. Precedentes.
+9. Apelação criminal conhecida em parte e nessa extensão parcialmente provida.
+Consta dos autos que a recorrente havia sido condenada à pena de 2 anos, 1 mês e 15 dias de reclusão, a ser cumprida no regime inicial semiaberto, sem direito à substituição da pena privativa de liberdade por penas restritivas de direitos, como incursa no artigo 334, § 1º, IV, do Código Penal.
+Em sede de apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo para reduzir a pena e fixá-la em 1 ano e 7 meses de reclusão, a ser cumprida em regime inicial semiaberto.
+Inconformada, foi interposto recurso especial, com fulcro no artigo 105, III, "a", da Constituição Federal, o qual foi admitido na origem.
+Nas razões do especial, aponta a recorrente a violação do art. 59 do Código Penal diante da ilegalidade no dosimetria da pena-base, uma vez que o quantum utilizado para exasperar a pena-base, em razão das vetoriais negativas culpabilidade e antecedentes, foi desproporcional e sem fundamentação idônea.
+Sustenta, ainda, a negativa de vigência ao art. 44 do Código Penal, porquanto lhe foi negada a substituição da pena privativa de liberdade por penas restritivas de direito, com fundamento na reincidência específica.
+Requer o provimento do recurso especial para que seja diminuída a pena, como também substituída a pena privativa de liberdade por penas restritivas de direito.
+Apresentadas as contrarrazões, o Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Ao julgar a apelação, o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim se manifestou quanto à dosimetria da pena (e-STJ fls. 387/393):
+4. Dosimetria
+Em relação à carga a ser atribuída a cada vetorial, quando da primeira fase dosimetria, a Quarta Seção desta Corte vem entendendo que inexiste um critério matemático rígido, de modo que tal quantum é submetido à discricionariedade do julgador, que examinará o valor que cada vetorial apresenta no caso concreto. Nessa direção:
+ ..
+A propósito, esse entendimento visa justamente efetivar o princípio constitucional da individualização da pena.
+A dosimetria da pena, portanto, "(..) se reveste de certa discricionariedade, porquanto o Código Penal não imprime regras absolutamente objetivas para sua fixação" (STJ, AgRg no AREsp 499.333/SP, Rel. Ministro Moura Ribeiro, julgado em 07/08/2014).
+Todavia, seu exame não é tarefa estanque ao Magistrado, podendo a Corte de Apelação, diante de particularidades, rever os critérios utilizados e, ponderando-os, retificar as discrepâncias porventura existentes.
+Feitas estas considerações iniciais, transcrevo a dosimetria da pena fixada na sentença, verbis:
+(..)
+3.1. Da individualização da pena
+3.1.1. Circunstâncias judiciais (1ª fase)
+Na fixação da pena base, parto do mínimo legal de 1 (um) ano de reclusão:
+a) A culpabilidade é agravada, pois a denunciada praticou o delito enquanto cumpria pena nos autos da Execução Penal n.º 5026110- 78.2019.4.04.7002, da 4ª Vara Federal de Foz do Iguaçu/PR, o que evidencia a falta de comprometimento da sentenciada com o cumprimento da lei e o respeito às autoridades públicas e à lisura da atividade administrativa, exigindo maior reprimenda estatal.
+b) A ré possui maus antecedentes, já que foi condenada definitivamente nos autos da Ação Penal n.º 5002904-60.2018.4.04.7005, desta 4ª Vara Federal de Cascavel/PR, pela prática do crime previsto no artigo 334, § 1º, incisos II e IV, do Código Penal, com fatos praticados em 18/08/2017 e decisão condenatória transitada em julgado no dia 02/07/2021.
+Além disso, a acusada também foi definitivamente condenada nos autos da Ação Penal n.º 5012988-92.2019.4.04.7003, da 3ª Vara Federal de Maringá/PR, pela prática do crime do artigo 334, § 1º, inciso IV, do Código Penal, com fatos praticados em 13/12/2017 e decisão condenatória transitada em julgado no dia 30/08/2021.
+A outra condenação definitiva que ostenta em seu desfavor será utilizada como reincidência, a fim de evitar o bis in idem.
+Demais inquéritos policiais ou ações penais em andamento não podem ser considerados para majoração da pena base, a teor do que dispõe a Súmula nº 444 do STJ.
+c) Não há elementos que permitam analisar a conduta social da ré e sua personalidade, devendo ser consideradas neutras.
+d) Os motivos do crime foram o lucro fácil, o que é ínsito ao tipo penal em análise.
+e) Quanto às circunstâncias do crime, considero neutras.
+f) As consequências do crime não foram consideráveis.
+g) Nada há que referir quanto ao comportamento da vítima, uma vez que o titular do bem jurídico penal é a União.
+Assim, à vista da existência de duas circunstâncias judiciais desfavoráveis (culpabilidade e maus antecedentes), fixo a pena base em 1 (um) ano, 11 (onze) meses e 15 (quinze) dias de reclusão.
+Anoto que parti do mínimo legal e acrescentei 4 (quatro) meses e 15 (quinze) dias para a culpabilidade e 7 (sete) meses para os maus antecedentes, por entender que a existência de duas condenações por crime idêntico ao que ora se julga é fator que deve ser sopesado com maior severidade, sob pena de não representar resposta adequada para a gravidade da conduta.
+Ressalto que, o "Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena." (STF, HC 107.409/PE, Rel. Min. Rosa Weber, un., j. 10.4.2012, DJe-091, 09.5.2012), devendo ser tomado em conta os princípios da necessidade e eficiência, decompostos nos diferentes elementos previstos no art. 59 do Código Penal, principalmente na censurabilidade da conduta e nas circunstâncias. Vale, ainda, frisar, que é perfeitamente possível cada uma das circunstâncias judiciais possuírem pesos diferenciados (STJ, Agravo em REsp nº 1.177.973- RJ, Rel. Ministro Sebastião Reis Junior, DJe 6/3/2018).
+3.1.2. Circunstâncias legais (2ª fase)
+Na segunda fase da dosimetria, reconheço a circunstância atenuante consubstanciada na confissão espontânea (artigo 65, III, "d", do Código Penal).
+Incide também a agravante da reincidência, já que a ré foi condenada definitivamente nos autos da Ação Penal n.º 5004685-20.2018.4.04.7005, desta 4ª Vara Federal de Cascavel/PR, pela prática do delito previsto no artigo 334, § 1º, inciso IV, do Código Penal, com fatos praticados em 28/06/2017 e decisão condenatória transitada em julgado no dia 28/10/2019.
+Antes do transcurso do prazo depurador de cinco anos previsto no artigo 64, inciso I, do Código Penal, portanto, praticou o fato referente à presente ação penal (24/05/2020).
+De acordo com entendimento firmado no Superior Tribunal de Justiça e adotado pelo Tribunal Regional Federal da 4ª Região, a agravante da reincidência deve ser compensada integralmente com a atenuante da confissão espontânea.
+Inclusive, o TRF da 4ª Região editou a seguinte Súmula:
+Súmula nº 130 "A agravante baseada numa única reincidência e a atenuante da confissão espontânea, quando coexistirem, compensam- se integralmente."
+Todavia, tratando-se de réu multirreincidente ou reincidente específico, admite-se a preponderância da agravante da reincidência sobre a atenuante da confissão espontânea:
+Por tal razão, considerando a confissão, mas também a reincidência específica da acusada no crime de descaminho, aumento a pena em 2 (dois) meses.
+Desse modo, resta fixada a pena intermediária em 2 (dois) anos, 1 (um) mês e 15 (quinze) dias de reclusão.
+3.1.3. Causas de aumento e diminuição (3ª fase)
+Não existem causas de aumento ou diminuição.
+Apesar dos argumentos defensivos, não cabe falar em participação de menor importância (artigo 29, § 1º, do Código Penal) no caso em apreço, uma vez que a acusada executou verbo nuclear do tipo penal sendo, portanto, autora e não partícipe do crime.
+Torno definitiva, assim, a pena da ré em 2 (dois) anos, 1 (um) mês e 15 (quinze) dias de reclusão pela prática do crime previsto no artigo 334, § 1º, IV do Código Penal.
+3.2. Da detração e do regime inicial da pena
+Como não houve prisão em flagrante, não há que se falar em detração.
+Examinando conjugadamente os artigos 33, § 2º, e 59, do Código Penal, em virtude da reincidência da ré, estabeleço o regime inicial semiaberto para o cumprimento da pena privativa de liberdade.
+Cumpre ressaltar, porém, que, em virtude da unificação de penas decorrentes de outras condenações, outro poderá ser o regime prisional, o que deverá ser decidido pelo Juízo da Execução, oportunamente.
+3.3. Da substituição da pena
+Considerando o regime inicial aplicado, incabível a aplicação de penas restritivas de direito, bem como a suspensão condicional, nos termos do artigo 77, inciso III, do Código Penal, razão pela qual deixo de apreciar a possibilidade de concessão do "sursis".
+A defesa, na primeira fase da aplicação da pena, requereu o afastamento das circunstâncias negativas de maus antecedentes e culpabilidade do crime. Em sendo mantidas, pleiteou a redução do quantum atribuído, observando-se a fração de 1/8 sobre o mínimo legal. Na segunda fase, a defesa pugnou pela aplicação da atenuante da confissão espontânea e a redução da pena aquém do mínimo legal. Por fim, reivindicou: ( i ) a fixação do regime aberto para o cumprimento inicial da pena; (ii) a substituição da pena privativa de liberdade por restritiva de direitos; (iii) concessão da gratuidade da justiça (processo 5005748-75.2021.4.04.7005/PR, evento 72, RAZAPELCRIM1).
+4.1 Pena Privativa de Liberdade
+Na primeira fase da dosagem da pena o sentenciante fixou a pena-base em 1 (um) ano, 11 (onze) meses e 15 (quinze) dias de reclusão, ao valorar negativamente a culpabilidade e os antecedentes criminais.
+4.1.1 A culpabilidade foi valorada negativamente, pois "a denunciada praticou o delito enquanto cumpria pena nos autos da Execução Penal n.º 5026110-78.2019.4.04.7002, da 4ª Vara Federal de Foz do Iguaçu/PR, o que evidencia a falta de comprometimento da sentenciada com o cumprimento da lei e o respeito às autoridades públicas e à lisura da atividade administrativa, exigindo maior reprimenda estatal".
+Na hipótese, correta a negativação da vetorial, porquanto o fato de ter a ré cometido o delito que ora se julga enquanto estava respondendo ao supra citado processo por óbvio evidencia seu descaso com o judiciário, o que implica no incremento do grau de reprovabilidade da conduta por ele praticada.
+Assim, nenhum reparo a ser feito na dosagem por este elemento, mantendo-se a elevação em 4 meses e 15 dias de reclusão.
+4.1.2 Nos antecedentes consta que a ré foi condenada definitivamente à pena privativa de liberdade na ação penal que tramitou perante à 4ª Vara Federal de Cascavel/PR (nº 5002904- 60.2018.4.04.7005/PR), pela prática do crime previsto no artigo 334, § 1º, incisos II e IV, do Código Penal, sendo que o registro se refere a fato com decisão transitada em julgado para a acusação em 02/07/2021 e para a defesa em 02/07/2021.
+Também foi condenada definitivamente na ação penal (nº 5012988-92.2019.4.04.7003/PR), pela prática do crime do artigo 334, § 1º, inciso IV, do Código Penal, com tramitação perante à 3ª Vara Federal de Maringá/PR, tendo o registro de trânsito em julgado no dia 30/08/2021.
+Execução penal (nº 5026110-78.2019.4.04.7002/PR) (processo 5005748- 75.2021.4.04.7005/PR, evento 50, CERTANTCRIM1).
+Embora correta a consideração negativa de tal vetorial, entendo que o incremento operado pelo magistrado 07 (sete) meses é excessivo. Assim, reduzo o aumento para 4 meses e 15 dias de reclusão, quantum que se mostra razoável e proporcional ao caso em exame.
+Verifico que a personalidade do agente e as circunstâncias do crime foram corretamente valoradas de forma neutra, consequentemente o requerimento defensivo não prospera.
+Portanto, reduzo a pena-base para 1 (um) ano e 9 (nove) meses de reclusão.
+Na segunda fase, foi efetuada a compensação parcial entre a agravante da reincidência e a atenuante da confissão espontânea, tendo em vista que tratar-se de reincidência específica.
+No entanto, é entendimento desta Corte que trantando-se de um único registro, a "a reincidência, seja ela genérica ou específica, deve ser compensada integralmente com a atenuante da confissão" (TRF4, ACR 5001928-48.2021.4.04.7005, OITAVA TURMA, Relator NIVALDO BRUNONI, juntado aos autos em 12/05/2022).
+Assim, matenho a pena provisória em 1 (um) ano e 9 (nove) meses de reclusão, restando definitivamente estabelecida neste patamar diante da ausência de causas de aumento ou de diminuição.
+4.2 Regime inicial de cumprimento
+Tratando-se de ré reincidente, cuja pena restou aplicada em patamar inferior a 4 (quatro) anos, afigura-se adequada a manutenção do regime semiaberto, nos termos do art. 33, §2º, alínea "b", do Código Penal.
+4.3 Substituição da pena privativa de liberdade por restritivas de direitos
+A defesa postula a substituição da pena privativa de liberdade da acusada por penas restritivas de direitos.
+O pleito não merece acolhida.
+Com efeito, o Código Penal veda expressamente a substituição postulada nas hipóteses em que o réu for reincidente específico, como no caso dos autos, senão vejamos:
+ ..
+Além disso, de se destacar que a apelante ostenta maus antecedentes, o que também denota que a substituição requerida não é recomendável no caso concreto, nos termos do inciso III do dispositivo legal suprarreferido.
+ ..
+Portanto, não acolho o pleito defensivo.
+Consoante a jurisprudência do Superior Tribunal de Justiça, "A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no REsp 1918901/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/05/2021, DJe 20/05/2021).
+No que tange à dosimetria da pena, a lei não fixa parâmetros aritméticos para a exasperação da pena-base ou para a aplicação de atenuantes e de agravantes, cabendo ao magistrado, utilizando-se da discricionariedade motivada e dos critérios de razoabilidade e proporcionalidade, fixar o patamar que melhor se amolde à espécie.
+No caso, houve indicação de especial gravidade ou maior grau de reprovação na conduta (crime cometido durante o cumprimento de pena e maus antecedentes), razão pela qual não há que se falar em qualquer ilegalidade ou violação de lei.
+Além disso, a exasperação de 4 meses e 15 dias de reclusão da pena-base, para cada circunstância judicial, mostra-se razoável, considerando, sobretudo, os limites, mínimo e máximo, da pena do delito de descaminho, de 1 a 4 anos de reclusão.
+Ressalta-se que não há direito subjetivo do réu ou da acusação à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 (um sexto) sobre a pena-base, 1/8 (um oitavo) do intervalo entre as penas mínimas e máximas ou mesmo outro valor. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. DESPROPORCIONALIDADE NO QUANTUM DE EXASPERAÇÃO. FRAÇÃO DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. AUSÊNCIA DE CRITÉRIO MATEMÁTICO PURO FRAÇÃO UTILIZADA DEVIDAMENTE FUNDAMENTADA.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Nos termos do art. 42 da Lei n. 11.343/2006, o juiz, na fixação da pena, deve considerar, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente. No presente caso, verifica-se que as instâncias ordinárias fundamentaram a exasperação da pena-base em razão da quantidade e natureza da droga apreendida, qual seja, 417,30 gramas de cocaína e 165kg de maconha, a teor do disposto no art. 42 da Lei n. 11.343/2006.
+III - O entendimento desta Corte Superior firmou-se no sentido de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por este Tribunal Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal (precedentes).
+IV - Ainda, certo é que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 (um sexto) sobre a pena-base, 1/8 (um oitavo) do intervalo entre as penas mínimas e máximas ou mesmo outro valor (precedentes).
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.034.705/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2023, DJe de 27/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. AUSÊNCIA DE VINCULAÇÃO A CRITÉRIOS PURAMENTE MATEMÁTICOS. AUMENTO PROPORCIONAL, CONSIDERADAS AS PENAS MÍNIMAS E MÁXIMAS COMINADAS PELO LEGISLADOR AO DELITO E A EXPRESSIVA QUANTIDADE DE ENTORPECENTES APREENDIDA. ART. 42 DA LEI N. 11.343/2006. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior já exortou que "é possível que "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto." (AgRg no REsp 143.071/AM, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 6/5/2015).  .. " (AgRg no RHC 107.602/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019).
+2. No caso, fundamentadamente, as instâncias ordinárias optaram por elevar as penas-bases na fração de 2/3 (dois terços) diante dos maus antecedentes do Réu, que ostenta 4 (quatro) condenações anteriores, bem como da exacerbada quantidade de droga, mais de 25kg (vinte e cinco quilos) de cocaína, além de apreensão de 30kg (trinta quilos) de produtos químicos usados no preparo de entorpecentes.
+3. Além da multiplicidade de antecedentes, a quantidade de droga apreendida na hipótese, por si só, afasta a alegação de desproporcionalidade na primeira etapa do cálculo da reprimenda para o crime, considerando-se o intervalo da pena abstrata cominada ao crime de tráfico de drogas 5 (cinco) a 15 (quinze) anos, não se mostra desproporcional ou desarrazoado a fixação da pena-base em 3 (três) anos e 4 (quatro) meses acima do mínimo legal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 611.857/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/3/2021, DJe de 19/3/2021.)
+Por fim, as instâncias ordinárias entenderam não ser o caso de substituição da pena em razão de a recorrente ser reincidente específica e possuir maus antecedentes, o que constitui fundamentação concreta e apta a não conceder o benefício, subsumindo-se o caso ao disposto no art. 44, III e §3º, do CP, além de não ser a medida socialment e recomendável, nem suficiente à prevenção e repressão do crime.
+Nesse contexto, o entendimento se encontra em consonância com a jurisprudência desta Corte Superior no sentido de que somente nos casos de reincidência não específica e de a medida ser socialmente recomendável é possível a substituição da pena, o que não é o caso. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. REINCIDÊNCIA ESPECÍFICA. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. INVIABILIDADE. RECURSO DESPROVIDO.
+1. "O art. 44, § 3º, do Código Penal possibilita a concessão da substituição da pena ao condenado reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime, isto é, não seja reincidência específica" (AgRg no AREsp n. 2.150.896/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022).
+2. No caso dos autos, o Tribunal de origem consignou que o agravante possui mais de uma condenação apta a caracterizar a reincidência, sendo que uma delas seria específica. Apontou, portanto, elementos concretos dos autos aptos a evidenciar a inadequação da substituição da pena.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.192.482/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO TENTADO E AMEAÇA. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA E MULTIRREINCIDÊNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 44, § 3º, do Código Penal possibilita a concessão da substituição da pena ao condenado reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime, isto é, não seja reincidência específica.
+2. A presença de circunstâncias judiciais negativas justifica a não substituição da pena privativa de liberdade pela restritiva de direitos, uma vez que demonstra que a medida não se mostra socialmente recomendável nem suficiente para a prevenção e repressão do crime.
+3. Na espécie, em que pese estabelecida a reprimenda em menos de 4 anos de reclusão, o acusado é multirreincidente, a pena-base fora mantida acima do mínimo legal, em razão da presença de circunstância judicial desfavorável (antecedentes), e houve o emprego de ameaça à pessoa, tudo a tornar inviável a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44, do CP, uma vez que demonstra não ser a medida socialmente recomendável, nem suficiente à prevenção e repressão do crime.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.150.896/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+Destarte, estando o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
