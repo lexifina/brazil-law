@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALLYNE PASQUALI e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE RESCISÃO CONTRATUAL. INSURG NCIA CONTRA DECISÃO QUE DETERMINOU O RATEIO ENTRE AS PARTES DOS HONORÁRIOS PERICIAIS. REFORMA PERTINENTE. ALEGADO EXCESSO DE EXECUÇÃO E PEDIDO DE REMESSA DOS AUTOS AO CONTADOR JUDICIAL PELA PARTE ORA AGRAVADA. PAGAMENTO DE HONORÁRIOS PERICIAIS QUE CABE À PARTE QUE REQUEREU A PERÍCIA. INTELIGÊNCIA DO ART. 95 DO CPC. DECISÃO REFORMADA. RECURSO PROVIDO (fl. 152).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 95, caput, do CPC, no que concerne à necessidade de rateio dos honorários periciais por ter a parte recorrida dado causa à demanda, ao ter apresentado cálculo errôneo, trazendo a seguinte argumentação:
+Nobres Ministros, conforme abordado nestes autos, o recorrido apresentou cumprimento de sentença provisório no valor de (R$ 14.995.096,76)  débito atualizado em 23.05.2022 (fls. 49).
+Os recorrentes intimados apresentaram impugnação (fls. 54/60) com débito atualizado também para maio de 2022, contudo, no valor bem abaixo daquele apresentado pelo recorrido, qual seja, de (R$ 14.898.660,27), uma diferença consideravelmente a menor em (R$ 96.436,49).
+O recorrido intimado a se manifestar ante a impugnação, apenas ressaltou que o débito foi atualizado a partir de 28.07.2014, data da citação, conforme determinado em r. sentença.
+Porém, é sabido que, por tratar-se de pluralidade de réus e sendo determinado pelo MM. Juiz em r. sentença que a correção e juros seriam a partir da citação, caberia ao recorrido através da medida processual cabível, ter questionado qual datas a ser fixado, porém, não o fez.
+Ante a isso, e constando dos autos que se tratam de 03 (três) réus, onde o mandado do último réu (recorrente) foi juntado em 11 de agosto de 2014, conforme print colacionado abaixo, este é o marco inicial para eventuais correções monetárias e juros legais, conforme determinado em r. sentença.
+ ..
+Portanto, sabe que tratando-se de pluralidade de réus, o prazo para contestar começa a fluir do último mandado positivo juntado nos autos, nos termos do artigo 231, inciso II, § 1º, do Código de Processo Civil, sendo portanto, este o marco inicial do prazo para eventuais aplicações, a qual corresponde ao mandado do último ato de citação juntado nos autos.
+Pois bem. Diante desta falha grave quanto à aplicação da correção monetária do débito provisório, os recorrentes requereram ao Juiz de 1ª Instância a remessa dos autos a Contadoria Judicial.
+Porém, o MM. Juiz de 1ª Instância, entendeu necessário a apuração técnica dos valores devidos, já que aquele Juízo não dispunha de Contador Judicial na Comarca, e determinou de ofício, a produção de provas, e com base no artigo 95, do Código de Processo Civil, determinou o rateio a prova pericial.
+Observa-se que os recorrentes NÃO pleitearam pela produção de prova pericial, mas esta foi determinada de ofício pelo Juízo de 1ª Instância por entender necessário a apuração técnica dos valores devidos.
+ ..
+Por fim, pelo compendio jurídico abordado, o recurso deve ser provido para modificar o v. acórdão para restabelecer a r. decisão de 1ª Instância, de modo que haja o rateio dos honorários periciais, já que o recorrido deu causa à demanda apresentando cálculo errôneo em patamar muito superior (fls. 162/164).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo M inistério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
