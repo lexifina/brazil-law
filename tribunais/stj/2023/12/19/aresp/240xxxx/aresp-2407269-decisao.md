@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto pela JATOBA S.A. EM RECUPERACAO JUDICIAL contra decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. ART. 1.021, § 3º DO NCPC. REITERAÇÃO. RECURSODESPROVIDO.
+- A vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1º do mesmo dispositivo.
+- Se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+- Agravo interno desprovido.
+Em suas razões, a agravante aponta violação dos arts. 373 e 798, inciso I, do CPC/2015, sustentando, em síntese, a possibilidade de discutir, por meio de exceção de pré-executividade, vícios formais e objetivos nas certidões de dívida e o reconhecimento de nulidade de tais títulos.
+Argumenta que "o cabimento da exceção de pré-executividade para arguição de vícios objetivos e formais nas certidões de dívida ativa, sem necessidade de produção de outras provas além dos próprios títulos que instruem a execução fiscal, está em linha com o disposto nos arts. 373 e 798, inciso I, do Código de Processo Civil, com a Súmula 393 do STJ, e com a jurisprudência desta Corte." (e-STJ fl. 208)
+Contrarrazões apresentadas às e-STJ fls. 214/216.
+A Corte a quo inadmitiu o recurso especial ante a incidência da Súmula 7 do STJ, fundamento com o qual não concorda a parte agravante.
+Sem apresentação de contraminuta.
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento interposto contra decisão interlocutória que rejeitou a exceção de pré-executividade oposta pela ora agravante.
+O Tribunal Regional negou provimento ao recurso. Vejamos, no que interessa, o que está consignado no acórdão recorrido (e-STJ fls. 157/159):
+Quanto à nulidade das CDA"s (não atendem os requisitos legais), declaro, inicialmente, que a Jurisprudência e Doutrina Pátria são assentes no sentido de reconhecer que a condição para a interposição de exceção de pré-executividade passa pelo atendimento, simultâneo, de dois requisitos, a saber: - é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz e; - é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+In casu, tratando-se de Título Executivo exarado por Agente Público, gozando de presunção de veracidade, cabe ao contribuinte executado, para elidir a presunção de liquidez e certeza gerada pela CDA, demonstrar, pelos meios processuais postos à sua disposição, sem dar margem a dúvidas, algum vício formal na constituição do título executivo, sendo imprescindível, pois, analise probatória. Nestes termos:  ..
+Isto posto, NEGO PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+Pois bem.
+A Corte de origem concluiu que, "tratando-se de Título Executivo exarado por Agente Público, gozando de presunção de veracidade, cabe ao contribuinte executado, para elidir a presunção de liquidez e certeza gerada pela CDA, demonstrar, pelos meios processuais postos à sua disposição, sem dar margem a dúvidas, algum vício formal na constituição do título executivo, sendo imprescindível, pois, analise probatória"(e-STJ fl. 158).
+Cumpre observar que a Primeira Seção desta Corte Superior, ao julgar o REsp 1.104.900/ES, pela sistemática dos recursos repetitivos (Rel. Ministra Denise Arruda, DJe de 1º/4/2009), adotou o entendimento de que a exceção de pré-executividade é cabível nas situações em que não se faz necessária a dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras.
+A mesma Seção, posteriormente, ao julgar o REsp 1.110.925/SP, também pela sistemática dos recursos repetitivos (Rel. Ministro Teori Albino Zavascki, DJe 04/05/2009), reafirmou a orientação de que "a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória".
+Por fim, vale destacar a Súmula 393 do STJ, segundo a qual "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Em linhas gerais, à luz do entendimento firmado nesta Corte Superior, a exceção de pré-executividade, ainda que não prevista na legislação de regência, consiste em incidente processual posto à disposição da parte executada por meio do qual são suscitadas matérias afetas à execução, as quais não demandam dilação probatória.
+No caso dos autos, porém, o Tribunal de origem entendeu que a análise das questões deduzidas pela agravante dependiam do indispensável exame do conjunto fático-probatório dos autos, procedimento incompatível com a exceção de pré-executividade.
+Nesse contexto, não há como, em recurso especial, cujo rito se encontra adstrito à matéria de direito, aferir as questões fáticas nem sequer analisadas pela instância ordinária ante o óbice processual previsto na Súmula 7 do STJ.
+Em idêntico sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. ACÓRDÃO RECORRIDO PELA NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. A Primeira Seção deste Tribunal Superior, no REsp n. 1.110.925/SP, repetitivo, firmou entendimento de que a exceção de pré-executividade somente é cabível nas situações em que não se faz necessária dilação probatória; e, por isso, se o nome da parte está na Certidão de Dívida Ativa, sua responsabilidade tributária só pode ser afastada nos embargos à execução fiscal.
+4. No caso dos autos, ante a presunção de certeza e liquidez da Certidão de Dívida Ativa, eventual ilegitimidade passiva da parte, notadamente sob a alegação de usucapião de mais de uma dezena de imóveis pelos promissários-comprovadores, só pode ser aferida em sede de embargos à execução fiscal, mediante a produção de provas, sob o crivo do contraditório.
+5. Ausente o prequestionamento, não se conhece do recurso quanto às alegações de violação dos arts. 34, 77, 121, 124 e 128 do CTN e dos arts. 1.242 e 1.379 do CC/2002. Observância das Súmulas 211 do STJ e 282 do STF.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.287.788/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. NÃO CABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA 393/STJ.
+1. "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Súmula 393/STJ).
+2. No caso, a questão acerca da exclusão do ICMS da base de cálculo das contribuições ao PIS/PASEP e COFINS demanda a regular dilação probatória para que seja verificado eventual excesso de execução, razão por que não é m atéria aferível em sede de exceção de pré-executividade.
+Nesse sentido: AgInt no AREsp n. 1.775.722/SE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021; AgInt no AREsp n. 1.850.316/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 30/8/2021, DJe de 2/9/2021; AgInt no REsp n. 1.885.901/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/2/2021, DJe de 9/3/2021.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.051.709/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/8/2023, DJe de 1/9/2023.).
+A Corte de origem bem analisou a controvérsia com base nos seguintes
+Além disso, observa-se que a instância ordinária não emitiu juízo de valor expresso sobre o disposto nos arts. 373 e 798, inciso I, do CPC/2015, tidos por violados, tampouco foram opostos embargos de declaração para fins de prequestionamento, incidindo, assim, as Súmulas 282 e 356 do STF.
+Destaque-se que, nos termos da Súmula 518 do STJ, inviável o conhecimento de eventual contrariedade à Súmula 393 do STJ, enunciados que, para os fins do art. 105, III, "a", da Constituição Federal, não se enquadra no conceito de lei federal.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
