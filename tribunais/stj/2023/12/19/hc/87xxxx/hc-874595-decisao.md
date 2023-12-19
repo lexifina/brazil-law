@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de BRUNO DA SILVA CERQUEIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0001521-45.2017.8.26.0596).
+Depreende-se dos autos que o ora paciente foi condenado à pena de 3 (três) anos e 4 (quatro) meses de reclusão, em regime inicialmente semiaberto, além do pagamento de 333 (trezentos e trinta e três) dias-multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, incisos III e VI, ambos da Lei n. 11.343/2006 (e-STJ fls. 38/43).
+O Tribunal de origem negou provimento ao recurso de apelação da defesa e deu provimento ao recurso do Ministério Público (e-STJ fls. 38/43).
+Daí o presente writ, no qual sustenta a defesa ilegalidade na dosimetria, pois a causa de diminuição de pena prevista no § 4º do art. 33 foi afastada sem a devida fundamentação.
+Alega que, com a incidência da causa de diminuição, além da redução do quantum da pena, haveria a modificação do regime inicial para cumprimento da reprimenda.
+Requer, liminarmente, a revogação da prisão preventiva até o julgamento final deste writ. No mérito, pretende o refazimento da dosimetria.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação do habeas corpus.
+É o relatório.
+Decido.
+Esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, o Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação transitada em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+Verifico, todavia, flagrante ilegalidade a atrair a concessão da ordem de ofício. Senão, vejamos.
+De acordo com o disposto no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+Na espécie, verifico a ocorrência de constrangimento ilegal na negativa de concessão da minorante do § 4º do art. 33 da Lei n. 11.343/2006, pois embasada na afirmação de que o paciente seria reincidente, mas, ao que se tem dos autos, o crime anterior seria porte de droga para uso.
+Entretanto, a Sexta Turma desta Corte, no julgamento do REsp n. 1.672.654/SP, alterou sua compreensão acerca da matéria. Na oportunidade, concluiu que a condenação anterior pelo delito previsto no art. 28 da Lei n. 11.343/2006 não bastava para configuração da agravante da reincidência.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO ANTERIOR PELO DELITO DO ARTIGO 28 DA LEI DE DROGAS. CARACTERIZAÇÃO DA REINCIDÊNCIA. DESPROPORCIONALIDADE.
+1. À luz do posicionamento firmado pelo Supremo Tribunal Federal na questão de ordem no RE nº 430.105/RJ, julgado em 13/02/2007, de que o porte de droga para consumo próprio, previsto no artigo 28 da Lei nº 11.343/2006, foi apenas despenalizado pela nova Lei de Drogas, mas não descriminalizado, esta Corte Superior vem decidindo que a condenação anterior pelo crime de porte de droga para uso próprio configura reincidência, o que impõe a aplicação da agravante genérica do artigo 61, inciso I, do Código Penal e o afastamento da aplicação da causa especial de diminuição de pena do parágrafo 4º do artigo 33 da Lei nº 11.343/06.
+2. Todavia, se a contravenção penal, punível com pena de prisão simples, não configura reincidência, resta inequivocamente desproporcional a consideração, para fins de reincidência, da posse de droga para consumo próprio, que conquanto seja crime, é punida apenas com "advertência sobre os efeitos das drogas", "prestação de serviços à comunidade" e "medida educativa de comparecimento a programa ou curso educativo", mormente se se considerar que em casos tais não há qualquer possibilidade de conversão em pena privativa de liberdade pelo descumprimento, como no caso das penas substitutivas.
+3. Há de se considerar, ainda, que a própria constitucionalidade do artigo 28 da Lei de Drogas, que está cercado de acirrados debates acerca da legitimidade da tutela do direito penal em contraposição às garantias constitucionais da intimidade e da vida privada, está em discussão perante o Supremo Tribunal Federal, que admitiu Repercussão Geral no Recurso Extraordinário nº 635.659 para decidir sobre a tipicidade do porte de droga para consumo pessoal.
+4. E, em face dos questionamentos acerca da proporcionalidade do direito penal para o controle do consumo de drogas em prejuízo de outras medidas de natureza extrapenal relacionadas às políticas de redução de danos, eventualmente até mais severas para a contenção do consumo do que aquelas previstas atualmente, o prévio apenamento por porte de droga para consumo próprio, nos termos do artigo 28 da Lei de Drogas, não deve constituir causa geradora de reincidência.
+5. Recurso improvido. (REsp 1.672.654/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 30/08/2018.)
+Ademais, no caso, considerando a primariedade do réu à época, e apreendida quantidade pequena de entorpecente - aproximadamente 100g (cem gramas) de maconha -, faz jus o paciente à benesse.
+Fixadas essas balizas, passo à dosimetria da pena.
+Mantido o cálculo dosimétrico até a terceira fase, aplico em 1/3 as majorantes dos incisos III e VI do art. 40 da Lei n. 11.343/2006 e reduzo a pena em 2/3, nos termos do art. 33, § 4º, da referida Lei, tornando a reprimenda definitiva em 2 anos, 2 meses e 20 dias de reclusão.
+Estabeleço o regime semiaberto para início de desconto da reprimenda, e indefiro a substituição da pena por restritivas de direitos tendo em vista a existência de circunstâncias judiciais desfavoráveis.
+Este o quadro, não conheço do presente habeas corpus. Concedo, todavia, a ordem de ofício, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
