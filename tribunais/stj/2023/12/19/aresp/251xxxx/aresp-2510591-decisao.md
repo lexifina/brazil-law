@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por ELI SALVADOR NIMBU contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL cuja ementa guarda os seguintes termos (fl. 295):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIAINEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS - CONTRATO DEEMPRÉSTIMO BANCÁRIO - PRELIMINAR DE CERCEAMENTO DE DEFESAREJEITADA - VIOLAÇÃO AO DIREITO DA PERSONALIDADE COM OSDESCONTOS INDEVIDOS - NÃO COMPROVAÇÃO DA TRANSFERÊNCIA DEVALORES - REPETIÇÃO DO INDÉBITO - DANOS MORAISIN RE IPSA- QUANTUMINDENIZATÓRIO- OBSERVÂNCIA AOS PRINCÍPIOS DARAZOABILIDADE E PROPORCIONALIDADE - RECURSO CONHECIDO E PROVIDO.
+Não existe cerceamento de defesa pela falta de prova pericial, se os documentos apresentados pela instituição financeira são suficientes para o julgamento do mérito, conforme análise do juízo, destinatário da prova.
+No caso dos autos, embora tenha sido apresentada cópia do contrato firmado entre as partes, não demonstrou a Instituição Financeira que houve a efetiva transferência de recursos em favor do consumidor, razão por que o pedido deve ser parcialmente acolhido para declarar a nulidade dos descontos realizados.
+Os valores descontados devem ser restituídos em dobro, nos moldes do entendimento exposto pelo Superior Tribunal de Justiça, de que "A restituição em dobro do indébito (parágrafo único do artigo 42 do CDC) independe da natureza do elemento volitivo do fornecedor que realizou a cobrança indevida, revelando-se cabível quando a referida cobrança consubstanciar conduta contrária à boa-fé objetiva"(EAREsp 676.608/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 21.10.2020).
+A conduta lesiva perpetrada pela Instituição Requerida foi a causados descontos mensais na conta bancária da Requerente, de modo a caracterizar danos materiais e morais, sendo estes in re ipsa.
+Quanto ao valor da indenização, destaca-se que não existe um sistema escalonado e com patamares fixos para estabelecer o respectivo quantum, devendo o juiz, diante do caso concreto e observada a repercussão dos fatos, estabelecera indenização que venha ressarcir a parte lesada (caráter indenizatório) e que também iniba a reiteração de condutas análogas (aspecto pedagógico). Diante desses parâmetros, mostra-se razoável a fixação de R$ 3.000,00. Recurso conhecido e provido.
+Os embargos de declaração foram parcialmente acolhidos (fls. 324-327).
+O recorrente alega, além de divergência jurisprudencial, violação dos arts. 186, 927 e 944 do CC e 6º, VI, e 14 do CDC, além de dissídio jurisprudencial, no que concerne ao valor da indenização a título de dano moral, trazendo os seguintes argumentos (fl. 334):
+A parte Recorrente postulou a declaração de ilegalidade dos descontos em sua folha de pagamento, a condenação em dobro daquilo que lhe foi descontado, bem como a aplicação de indenização à título de danos morais, após o Banco Recorrido realizar indevidamente descontos referente a suposto empréstimo consignado que teria sido contratado, em seu benefício previdenciário, equivalente a um salário mínimo, que por sinal, tem caráter de verba alimentar.
+No entanto, no que se refere ao quantum indenizatório, o E. Tribunal de Justiça de Mato Grosso do Sul entendeu que seria suficiente tão somente o valor de da indenização em R$ 3.000,00 (três mil reais).
+Pois bem, no caso, foi comprovado que o Banco Recorrido se aproveitou da parte Recorrente, que se trata de pessoa com idade já avançada (idosa).
+A decisão do Tribunal de Justiça, é uma afronta a todos os demais tribunais, inclusive, a esta Corte de Justiça e a consumidora, vítima de fraude.
+Ora, o valor do dano moral reduzidos pela Câmara Cível, contrariou o posicionamento majoritário do próprio E. Tribunal de Justiça do Estado de Mato Grosso do Sul e deste C. Superior Tribunal de Justiça, pois, além de se tratar o arbitramento de um VALOR INFÍMO, não servirá de exemplo para o causador do dano não reincidir na prática indevida e muito menos irá reparar todo o transtorno e a angustia ocasionada a parte Recorrente que passou por uma situação vexatória e humilhante, ao ser vítima de FRAUDE.
+E ainda, verifica-se que o Banco Recorrido descontou parcelas indevidas, por um longo período, daquele que recebe mensalmente um salário mínimo.
+Além disso, verifica-se que no caso em testilha que a fraude foi acometida em face de uma pessoa IDOSA E SÍLVICOLA, QUE CONVÍVE EM ALDEIA INDÍGENA AFASTADA DO CONVÍVIO SOCIAL, LOCALIZADA NA ZONA RURAL, vitimada por FRAUDE e por tais motivos, a indenização fixada na origem não se revela exacerbado.
+Foram oferecidas contrarrazões ao recurso especial (fls. 457-468).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 473-480), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No tocante à violação dos art. 186, 927 e 944 do CC e 6º, VI, e 14 do CDC, o recurso não merece conhecimento, porquanto rever o entendimento adotado pelo Tribunal de origem, que manteve o valor da indenização a título de danos morais, com base nas provas e documentos juntados aos autos, implica o reexame do conjunto fático-probatório.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO. DESCONTOS INDEVIDOS. BENEFÍCIO PREVIDENCIÁRIO. FRAUDE. MÚTUO BANCÁRIO. VALOR DOS DANOS MORAIS. REVISÃO. REEXAME DE MATÉRIA FÁTICA. MANUTENÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Acerca da indenização a título de danos morais, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, a decisão agravada deve ser confirmada pelos seus jurídicos fundamentos, pois o valor da indenização por danos morais, arbitrado em RS 1.000,00 (mil reais), não se mostra irrisório nem desproporcional, considerando que não houve prejuízo nos rendimentos da agravante. A alteração do julgado, a fim de majorar o quantum, implica revolvimento de matéria probatória. Manutenção da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(Aglnt no AREsp n. 2.153.054/MS, relator Ministro Raul Araújo. Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023).
+Por fim, a análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
