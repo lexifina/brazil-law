@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por Cortesia Serviços de Concretagem LTDA. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.276):
+AÇÃO ANULATÓRIA DE MULTA AMBIENTAL. Improcedência. Apelação interposta pela autora. Conduta enquadrada na legislação de regência. Ilícito ambiental comprovado. Ato administrativo hígido. Ação dos agentes ambientais dotada de legalidade. Necessidade, porém, de redução da multa imposta em atenção ao princípio da proporcionalidade. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios, tanto pela Municipalidade (fls. 1.292/1.296) como pela empresa aut ora (fls. 1.404/1.405), foram ambos rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 1.298/1.301 e fls. 1.407/ 1.410).
+Nas razões do recurso especial, a parte agravante aponta violação do art. 85, §§ 2º e 3º, do CPC.
+Sustenta, em síntese, ser devida a majoração dos honorários sucumbenciais adotando como base de cálculo do percentual não a condenação, relativa ao valor da multa reduzida pela Corte de origem, mas a diferença dessa redução, que reflete o proveito econômico obtido pela parte autora, qual seja, R$ 315.000,00 (trezentos e quinze reais). Alega, subsidiariamente, ofensa ao art. 1.022, II, do CPC/2015, caso se entenda que a matéria principal não está prequestionada.
+As contrarrazões foram apresentadas (fls. 1.429/1.437), alegando-se que a pretensão recursal não poderia sequer ser conhecida por implicar necessariamente a reapreciação de provas, o que é impedido pela Súmula n. 7/STJ. Acrescenta, ainda, que eventual acolhimento da pretensão de majoração de honorários, acarretaria um impacto econômico significativo na sociedade paulistana ante a remuneração excessiva de uma parte por trabalho singelo.
+Juízo negativo de admissibilidade prolatado pelo Tribunal a quo às fls. 1.439/1.440.
+Daí o agravo ora em exame (fls. 1.444/1.449), que não foi respondido (fl. 1.460).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na origem, Cortesia Serviços de Concretagem Ltda. ajuizou ação ordinária declaratória pleiteando, em síntese, a declaração de nulidade de multa ambiental resultante do Processo Administrativo n. 2006-0.296.151-0, instaurado no âmbito da Secretaria do Verde e do Meio Ambiente do Município de São Paulo - SVMA em decorrência de denúncia realizada na Ouvidoria Municipal.
+A sentença julgou improcedente o pleito destacando que, a despeito de constar nos autos o cumprimento das exigências solicitadas pela municipalidade na penúltima vistoria, foram constatadas diversas outras irregularidades na última, e não foram comprovadas eventuais medidas adotadas pela empresa quanto a essas infrações.
+O Tribunal de Justiça do Estado de São Paulo deu parcial provimento à apelação da parte autora para reduzir a multa de R$ 350.000,00 (trezentos e cinquenta mil reais) para R$ R$ 35.000,00 (trinta e cinco mil reais), considerando as peculiaridades do caso concreto.
+Passando ao exame do recurso, verifica-se que, na data de hoje, dei provimento ao recurso especial da parte ex adversa, por meio de decisão singular, em que reconheci violação do art. 6º da Lei 9.605/1998, determinando, por oportuno, o retorno dos autos à origem para que seja reapreciada a questão dos critérios de proporcionalidade à luz dos critérios do referido dispositivo legal.
+Assim, diante do provimento do recurso da parte contrária, prejudicado está o presente recurso, que versa exclusivamente sobre os honorários advocatícios outrora fixados.
+ANTE O EXPOSTO, julgo prejudicado o presente recurso.
+Publique-se.
+EMENTA
