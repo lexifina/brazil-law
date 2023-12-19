@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Joao Joaquim Loiola contra o acórdão proferido pelo Tribunal de Justiça da Bahia, o qual denegou a ordem no HC n. 8046527-87.2022.8.05.0000 (fls. 26/35), preservando a prisão preventiva decretada na Ação Penal n. 0000201-21.2010.8.05.0262, na qual figura como denunciado pela prática do crime descrito no art. 121, § 2º, II e IV, do Código Penal.
+O acórdão tem esta ementa (fls. 26/28):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, II E IV, DO CÓDIGO PENAL). DECRETO PREVENTIVO EXARADO EM 18/10/1999. PACIENTE PRESO SOMENTE EM 17/08/2021, EM DECORRÊNCIA DA PRÁTICA DE NOVOS DELITOS (ART. 2º DA LEI 12.850/2013 E ART. 155, § 6º, DO CP).
+PRISÃO PREVENTIVA REAVALIADA E MANTIDA, ATRAVÉS DE DECISÃO PROLATADA EM 09/02/2022. CUSTÓDIA CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL, NOS TERMOS DO ART. 312 DO CPP.
+ALEGAÇÃO DE EXCESSO DE PRAZO. INOCORRÊNCIA. TRÂMITE PROCESSUAL QUE RETOMOU O SEU CURSO, APÓS ANOS SUSPENSO POR CONTA DA FUGA DO PACIENTE. INSTRUÇÃO CRIMINAL JÁ INICIADA. PRINCÍPIO DA RAZOABILIDADE. AUSÊNCIA DE DESÍDIA.
+CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+ORDEM DENEGADA, COM RECOMENDAÇÕES PARA A REAVALIAÇÃO DO DECRETO PRISIONAL COMBATIDO, NOS TERMOS DO ART. 316, PARÁGRAFO ÚNICO, DO CPP.
+Dos elementos que instruem a impetração, extrai-se que o paciente foi denunciado pelo Ministério Público da Bahia, acusado da prática do crime previsto no art.121, § 2º, II e IV, do CP (homicídio qualificado pelo motivo fútil e pelo emprego de recurso que dificultou a defesa da vítima).
+Descreve a inicial acusatória que: " ..  no dia 14 de agosto de 1999, por volta das 15:00 horas, nas dependências da residência de Manoel Francisco de Almeida, situada no Povoado de São Paulo, Uauá, o denunciado, livre e conscientemente, animus necandi, de posse de um revólver desferiu um disparo contra o rosto de VANILSON DE ALMEIDA, causando-lhe o óbito, conforme testifica Laudo de Exame cadavérico de fls. 06 do IP. Relatam, ainda, os autos, que a motivação do crime foi fútil, pois, o denunciado, antes do fato, no interior de um bar no citado Povoado, houvera agredido a vítima com coronhadas de revólver, simplesmente porque esta estava lhe olhando. Ato contínuo, após ser agredida, a vítima encaminhou até a direção da residência do seu genitor, momento em que foi alvejada pelo acusado. Acrescente-se também, que o denunciado praticou o crime de modo que impossibilitou qualquer chance de defesa da vítima, haja vista que, no momento do fato esta tentou de todas as formas fugir do seu agressor, sendo morta no quintal da residência do seu genitor  .. ".
+Prisão preventiva adequadamente motivada não só na garantia da ordem pública, considerando a gravidade concreta do delito, em razão do "modus operandi" utilizado na ação criminosa, mas também por haver risco à aplicação da lei penal, mormente porque o paciente permaneceu foragido por cerca de 22 (vinte e dois) anos, sendo localizado na Cidade de Santo Antônio de Jesus, quando preso em flagrante em decorrência da prática dos crimes previstos no art. 2º, caput, da Lei 12.850/2013, e no art. 155, § 6º, do Código Penal.
+Excesso de prazo não caracterizado. A digna Autoridade apontada como coatora, em informações, esclareceu que vem impulsionando o feito, já tendo dado início à instrução criminal. Princípio da razoabilidade.
+Inexistência de constrangimento ilegal a ser reparado.
+O excesso de prazo na formação da culpa e a ausência de fundamentação idônea para justificar a prisão preventiva, fundam a presente interposição recursal.
+O excesso de prazo na formação da culpa e a ausência de fundamentação idônea para justificar a prisão preventiva fundam a presente impetração.
+Requer, liminarmente, a concessão do habeas corpus para determinar a liberdade do paciente e a designação da continuação da audiência de instrução e, no mérito, a confirmação da decisão (fl. 7).
+É o relatório.
+Perdeu o objeto o presente writ.
+De um lado, porque, de acordo com as informações obtidas no endereço eletrônico do Tribunal de Justiça de origem, em 1º/11/2023, o paciente foi pronunciado nos autos do Processo n. 0000201-21.2010.8.05.0262. Assim, evidenciado que já há decisão de pronúncia, incide a Súmula 21/STJ: pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+De outro, porque o exame relativo à idoneidade de fundamentação da constrição cautelar deverá recair, agora, sob os termos da sentença de pronúncia, in casu, novo título judicial, os quais desconheço, ante o seu não acostamento aos presentes autos.
+Tal o contexto, julgo prejudicado o presente habeas corpus.
+Publiq ue-se.
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 121, § 2º, II E IV, DO CP. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. INCIDÊNCIA DA SÚMULA 21/STJ. TESE DE INIDONEIDADE DE FUNDAMENTAÇÃO. DESCONHECIMENTO DA MOTIVAÇÃO EXARADA NO NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR. SENTENÇA NÃO ACOSTADA AOS PRESENTES AUTOS.
+Writ prejudicado.
