@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por ESTADO DE SÃO PAULO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.403):
+APELAÇÃO CÍVEL e REMESSA NECESSÁRIA- Ação anulatória de crédito tributário- ICMS- Empresa autuada em razão de creditamento indevido- Inidoneidade de empresa emitente das notas fiscais reconhecidas após o relacionamento comercial ocorrido com a autora- Provas nos autos que demonstram a legitimidade das operações por meio de perícia contábil e transações bancárias de pagamento- Boa-fé da empresa adquirente- Inteligência da Súmula nº 509 do STJ- Honorários advocatícios corretamente arbitrados de acordo com o art. 85, §§ 2º e 3º do CPC e Tema 1076/STJ - Sentença de procedência mantida -Recursos desprovidos.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 1.446/1.452).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, I e II, do CPC. Sustenta, em resumo, que: a despeito dos aclaratórios, o Tribunal de origem quedou-se silente acerca da tese de que: "a fixação de honorários no percentual sobre o valor da causa resultará em valor manifestamente desproporcional e resultará em enriquecimento sem causa do advogado da parte adversa" e aplicam-se os "seguintes dispositivos ao presente caso: art. 1º, IV e 170, ambos da Constituição Federal, inclusive para que fosse observado o julgamento da ADC n. 71" (fl. 1.513).
+Contrarrazões ofertadas às fls. 1.517/1.531.
+Recurso Extraordinário interposto às fls. 1.457/1.489.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na espécie, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se
+EMENTA
