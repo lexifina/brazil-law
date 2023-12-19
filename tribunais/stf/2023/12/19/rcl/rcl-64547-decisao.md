@@ -1,0 +1,112 @@
+DECISÃO
+
+RECLAMAÇÃO. SUSCITADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NO RECURSO EXTRAORDINÁRIO N. 958.252, TEMA 725, E NO RECURSO EXTRAORDIÁRIO N. 606.003, TEMA 550. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA NA ORIGEM. ALEGADA CONTRARIEDADE AO DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL N. 324/DF. DESCUMPRIMENTO CONFIGURADO. PRECEDENTES. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+
+    1. Reclamação, com requerimento de medida liminar, ajuizada por Bud Comércio de Eletrodomésticos Ltda. e Whirlpool S/A, em 12.12.2023, contra o seguinte acórdão do Tribunal Regional do Trabalho da Décima Terceira Região, na Reclamação n. 0001588-58.2017.5.13.0002, pelo qual se teria desrespeitado o decidido por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324/DF, no Recurso Extraordinário n. 958.252, Tema 725 da repercussão geral, e no Recurso Extraordinário n. 606.003, Tema 550 da repercussão geral:
+
+    “RECLAMAÇÃO TRABALHISTA AJUIZADA ANTES DE ENTRAR EM VIGOR A LEI 13.467/2017. EMPRESAS BENEFICIÁRIAS DOS SERVIÇOS PRESTADOS PELO RECLAMANTE. RESPONSABILIDADE SUBSIDIÁRIA. À luz das provas produzidas, em se tendo por evidente o contrato de prestação de serviços celebrado pelas reclamadas, que se beneficiaram como elas mesmas admitem dos serviços prestados pelo reclamante, há de se lhes resguardar a responsabilização subsidiária, quanto às obrigações trabalhistas, por parte do empregador, como se infere da Tese 725 fixada pelo STF e da jurisprudência vazada na Súmula 331, item IV, do TST. Recurso ordinário a que se nega provimento, no particular” (e-doc. 15).
+
+    Opostos embargos de declaração, foram rejeitados (fl. 229, e-doc. 9).
+
+    As reclamantes interpuseram recurso de revista, ao qual foi negado seguimento (fls. 70-72, e-doc. 10), pelo que se interpôs agravo de instrumento (fls. 77-128, e-doc. 10), desprovido (fls. 340-346, e-doc. 10).
+
+    2. As reclamantes afirmam que “o TRT afastou por completo a relação livremente estabelecida entre representante comercial e representada, a qual ostenta nítido caráter autônomo, em que as Reclamantes contrataram os serviços de representação comercial da BRASCOM, a qual contratou o Sr. Zenildo” (fl. 4, e-doc. 1).
+
+    Alegam que “o acórdão recorrido desconsiderou a validade de contrato empresarial de representante comercial firmado entre duas empresas (respaldado pela Lei 4.886/65), por compreender, em resumo, que, as atividades do representante comercial possuem elementos caracterizadores do vínculo de emprego ” (fl. 5).
+
+    Ressaltam que “o STF já decidiu de forma expressa a respeito da validade dos contratos de representante comercial autônomo (nos autos do RE 606.003)” (fl. 8, e-doc. 1).
+
+    Lembram que “o Supremo Tribunal Federal, reconheceu a constitucionalidade da contratação de serviços (terceirização) por meio do julgamento conjunto do RE 958.252, e da ADPF 324” (fl. 9, e-doc. 1).
+
+    Sustentam que “a decisão recorrida contraria, em especial, a ADPF 324, que preceituou a constitucionalidade da terceirização da atividade-fim ou meio das empresas, bem como RE 958.252, (Tema 725 da repercussão geral) que possibilita de organização da divisão do trabalho não só pela terceirização, mas de outras formas desenvolvidas por agentes econômicos” (fl. 21, e-doc. 1).
+
+    Requerem medida liminar para que seja “atribuído efeito suspensivo ao processo principal 0001588- 58.2017.5.13.0002 até o trânsito em julgado da presente reclamação ”(fl. 22, e-doc. 1).
+
+    No mérito, buscam seja “julgado procedente o pedido formulado nesta Reclamação, a fim de que sejam cassadas as decisões reclamadas, diante do manifesto desrespeito à autoridade de decisões proferidas por este Eg. Supremo Tribunal Federal, sendo, desde logo, julgando improcedente a ação trabalhista 0001588-58.2017.5.13.0002, do Tribunal Regional do Trabalho da 13ª Região, declarando a inexistência de vínculo de emprego e, portanto, responsabilidade das Reclamantes” (fl. 22, e-doc. 1).
+
+    Pedem, ainda, “subsidiariamente ao pedido retro, seja julgado procedente o pedido formulado nesta Reclamação, a fim de que sejam cassadas as decisões reclamadas, diante do manifesto desrespeito à autoridade de decisões proferidas por este Eg. Supremo Tribunal Federal, mediante determinação para que outra decisão seja proferida, em observância à jurisprudência vinculante do Supremo Tribunal Federal” (fl. 22, e-doc. 1).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+    4. Põe-se em foco nesta ação se, ao manter a sentença pela qual reconhecido o vínculo empregatício entre as reclamantes e o beneficiário, o Tribunal Regional do Trabalho da Décima Terceira Região teria desrespeitado as decisões proferidas por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324/DF, no Recurso Extraordinário n. 958.252, Tema 725 da repercussão geral, e no Recurso Extraordinário n. 606.003, Tema 550 da repercussão geral.
+
+    5. No inc. II do § 5º do art. 988 do Código de Processo Civil se estabelece ser inadmissível a reclamação “proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias”.
+
+    Quanto ao alegado descumprimento do que assentado no Recurso Extraordinário n. 958.252, Tema 725 da repercussão geral, e no Recurso Extraordinário n. 606.003, Tema 550 da repercussão geral, na espécie vertente as reclamantes somente interpuseram agravo de instrumento contra a decisão pela qual negado seguimento ao recurso de revista, tendo este sido desprovido. Não houve o esgotamento das instâncias ordinárias.
+
+    Este Supremo Tribunal assentou ser incabível a reclamação ajuizada com base em aplicação da sistemática de repercussão geral quando não esgotadas as instâncias de origem, por não ser a reclamação sucedâneo recursal. Confiram-se, por exemplo, os seguintes julgados:
+
+    “EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADO EQUÍVOCO NA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. APONTADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NO RECURSO EXTRAORDINÁRIO N. 1.002.295-RG, TEMA 841. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO E AGRAVO INTERNO DO § 2º DO ART. 1.030 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA NA ORIGEM. NÃO CABIMENTO DA RECLAMAÇÃO. IMPOSSIBILIDADE DE USO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. INOVAÇÃO RECURSAL: IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Reclamação n. 46.910-ED, de minha relatoria, Segunda Turma, DJe 2.6.2021).
+
+    “AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE DESCUMPRIMENTO DE DECISÃO PROFERIDA EM SEDE DE REPERCUSSÃO GERAL. RE 583.955-RG (TEMA 90). AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO CABIMENTO. AGRAVO NÃO PROVIDO. 1. O art. 988, § 5º, inciso II, do Código de Processo Civil condiciona a admissibilidade da reclamação, nos casos em que se busca assegurar a observância de entendimento firmado em sede de repercussão geral, ao esgotamento das instâncias ordinárias. 2. O esgotamento da instância ordinária somente se concretiza após o julgamento de agravo interno manejado contra a decisão da Presidência ou Vice-Presidência da Corte que, no exame de admissibilidade do recurso extraordinário, aplica a sistemática da repercussão geral, nos termos do art. 1.030 e § 2º, do CPC/2015. Precedentes. 3. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atribuído à causa, se unânime a votação” (Reclamação n. 46.515-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 20.8.2021).
+
+    “Agravo regimental nos embargos de declaração na reclamação. Ausência de esgotamento de instância. Impossibilidade de utilização da reclamação como sucedâneo recursal. 1. Necessidade de esgotamento da instância ordinária para fins de conhecimento da reclamatória cujo paradigma é tese firmada pela Suprema Corte em repercussão geral. 2. Impossibilidade de se utilizar o instituto excepcional da reclamação constitucional como sucedâneo de recurso extraordinário. 3. Agravo regimental a que se nega provimento, com condenação ao pagamento de multa de 10% (dez por cento) do valor atualizado da causa, consoante disposto no art. 1.021, § 4º, do Código de Processo Civil” (Reclamação n. 45.160-AgR-ED, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 18.8.2021).
+
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. AUSÊNCIA DE ADERÊNCIA ESTRITA E DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. 1. Reclamação na qual se impugnou decisão que julgara encontrarem-se as matérias arguidas em exceção de pré-executividade superadas pelo trânsito em julgado. Ausência de estrita aderência entre o acórdão reclamado e o decidido na ADPF 324 (da minha relatoria) e no Tema 725 (RE 958.252-RG, Rel. Min. Luiz Fux). 2. O Código de Processo Civil prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o exaurimento das instâncias ordinárias ( art. 988, § 5º, II, do CPC/2015). 3. Agravo interno a que se nega provimento” (Reclamação n. 45.658-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 24.8.2021).
+
+    “RECLAMAÇÃO – ACÓRDÃO – REPERCUSSÃO GERAL – OBSERVÂNCIA – INSTÂNCIAS ORDINÁRIAS – ESGOTAMENTO. O manuseio da reclamação com a finalidade de ver respeitado entendimento surgido sob a sistemática da repercussão geral pressupõe a existência de processo judicial e o esgotamento das instâncias ordinárias, ausente previsão a respaldar a utilização contra ato administrativo” (Reclamação n. 45.375-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.7.2021).
+
+    Na espécie, a ausência de esgotamento das vias recursais ordinárias no processo de origem impede a análise da presente reclamação quanto a eventual descumprimento dos Temas 725 e 550 da repercussão geral pela autoridade reclamada.
+
+    6. Em relação ao alegado descumprimento do decidido por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324/DF, é de se dar razão jurídica às reclamantes.
+
+    Em 30.8.2018, este Supremo Tribunal julgou procedente a Arguição de Descumprimento de Preceito Fundamental n. 324/DF, Relator o Ministro Roberto Barroso, nos termos seguintes:
+
+    “Direito Do Trabalho. Arguição De Descumprimento De Preceito Fundamental. Terceirização De Atividade-Fim E De Atividade-Meio. Constitucionalidade. 1. A Constituição não impõe a adoção de um modelo de produção específico, não impede o desenvolvimento de estratégias empresariais flexíveis, tampouco veda a terceirização. Todavia, a jurisprudência trabalhista sobre o tema tem sido oscilante e não estabelece critérios e condições claras e objetivas, que permitam sua adoção com segurança. O direito do trabalho e o sistema sindical precisam se adequar às transformações no mercado de trabalho e na sociedade. 2. A terceirização das atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes econômicos a liberdade de formular estratégias negociais indutoras de maior eficiência econômica e competitividade. 3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações. 4. Para evitar tal exercício abusivo, os princípios que amparam a constitucionalidade da terceirização devem ser compatibilizados com as normas constitucionais de tutela do trabalhador, cabendo à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias (art. 31 da Lei 8.212/1993). 5. A responsabilização subsidiária da tomadora dos serviços pressupõe a sua participação no processo judicial, bem como a sua inclusão no título executivo judicial. 6. Mesmo com a superveniência da Lei 13.467/2017, persiste o objeto da ação, entre outras razões porque, a despeito dela, não foi revogada ou alterada a Súmula 331 do TST, que consolidava o conjunto de decisões da Justiça do Trabalho sobre a matéria, a indicar que o tema continua a demandar a manifestação do Supremo Tribunal Federal a respeito dos aspectos constitucionais da terceirização. Além disso, a aprovação da lei ocorreu após o pedido de inclusão do feito em pauta. 7. Firmo a seguinte tese: 1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993. 8. ADPF julgada procedente para assentar a licitude da terceirização de atividade-fim ou meio. Restou explicitado pela maioria que a decisão não afeta automaticamente decisões transitadas em julgado” (DJe 6.9.2019).
+
+    Em 30.8.2018, ao julgar o Recurso Extraordinário n. 958.252, Tema 725 da repercussão geral, o Plenário deste Supremo Tribunal firmou a seguinte tese jurídica:
+
+    “É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante” (DJe 13.9.2019).
+
+    Em 21.12.2020, o Plenário deste Supremo Tribunal julgou procedente a Ação Declaratória de Constitucionalidade n. 66, de minha relatoria, para declarar a constitucionalidade do art. 129 da Lei n. 11.196/2005, em decisão com ementa:
+
+    “AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE. REGIME JURÍDICO FISCAL E PREVIDENCIÁRIO APLICÁVEL A PESSOAS JURÍDICAS PRESTADORAS DE SERVIÇOS INTELECTUAIS, INCLUINDO OS DE NATUREZA CIENTÍFICA, ARTÍSTICA E CULTURAL. COMPATIBILIDADE CONSTITUCIONAL. LIVRE INICIATIVA E VALORIZAÇÃO DO TRABALHO. LIBERDADE ECONÔMICA NA DEFINIÇÃO DA ORGANIZAÇÃO EMPRESARIAL. AÇÃO JULGADA PROCEDENTE.
+
+    1. A comprovação da existência de controvérsia judicial prevista no art. 14 da Lei n. 9.868/1999 demanda o cotejo de decisões judiciais antagônicas sobre a validade constitucional na norma legal. Precedentes.
+
+    2. É constitucional a norma inscrita no art. 129 da Lei
+n. 11.196/2005” (DJe 19.3.2021).
+
+    O dispositivo reconhecido constitucional possibilita a adoção do regime fiscal e previdenciário da pessoa jurídica àquele que, por esta, realize a prestação de serviços intelectuais, artísticos ou culturais, inclusive os de natureza científica, sendo em caráter personalíssimo ou não.
+
+    No julgamento da Ação Declaratória de Constitucionalidade n. 66, ao proferir o voto condutor do acórdão, consignei:
+
+    “(...) A controvérsia que permeia a presente ação é determinada pela incerteza gerada por prestadores de serviços intelectuais e para os tomadores desses serviços sobre eventual desconsideração de sua relação jurídica pela Administração Pública ou pelo Poder Judiciário que, a pretexto de coibir fraudes e simulação em favor da primazia da realidade, possa a eles impor regramento previdenciário e fiscal mais gravoso que aquele destinado às pessoas jurídicas ou, ainda, reconhecer a formação de vínculo empregatício entre a pessoa física do prestador e a tomadora dos serviços. O receio sobre a eficácia das escolhas empresariais e a dúvida sobre os limites dos compromissos assumidos comprometeria a segurança jurídica, mais ainda, o equilíbrio das relações firmadas, sem o que não se tem como garantido o livre exercício da atividade empresarial e o pleno desenvolvimento econômico.
+
+    10. A norma do art. 129 da Lei n. 11.196/2005 harmoniza-se com as diretrizes constitucionais, especialmente com o inc. IV do
+art. 1º da Constituição da República, pelo qual estabeleceu a liberdade de iniciativa situando-a como fundamento da República Federativa do Brasil. Dessa liberdade econômica emanam a garantia de livre exercício de qualquer trabalho, ofício ou profissão e o livre exercício de qualquer atividade econômica, consagrados respectivamente no
+inc. XIII do art. 5º e no parágrafo único do art. 170 da Constituição da República.
+
+    11. A valorização do trabalho humano e a livre iniciativa conjugam-se para fundamentar a ordem econômica e dirigem-se a atingir os objetivos fundamentais descritos no art. 3º da Constituição da República, pelo que são elementos indissociáveis para a compreensão e o desate da presente controvérsia jurídica.
+
+    Embora o art. 129 da Lei n. 11.196/2005 apenas se refira expressamente implicações fiscais e previdenciárias decorrentes da prestação de serviços intelectuais, incluídas os de natureza científica, artística ou cultural, por pessoa jurídica, não podem ser negada validade no direito de eventuais repercussões secundárias, a determinar os termos e os efeitos de relação jurídica estabelecida entre a tomadora do serviço e a pessoa que desenvolve as atividades em seu benefício.
+
+    A complementariedade entre os valores sociais do trabalho e a livre iniciativa é tema recorrente nos julgamentos deste Supremo Tribunal, que, atento ao sistema constitucional e às transformações das relações de trabalho, não tem se esquivado do exame aprofundado do tema. A ênfase dada a esses vetores constitucionais pode ser exemplificada no julgamento do Recurso Extraordinário n. 958.252 (Tema 725 da repercussão geral) e da Arguição de Descumprimento de Preceito Fundamental n. 324. (...)” (DJe 19.3.2021).
+
+    7. O Tribunal Regional do Trabalho da Décima Terceira Região declarou a existência de vínculo empregatício entre a empresa Brascom e o beneficiário, representante comercial, e atribuiu responsabilidade subsidiária às reclamantes:
+
+     “Por sinal, é aí onde também reside a motivação para não se compreender o reclamante como representante comercial, e se ter por reconhecido, como aliás a reconheceu o Juízo a quo, o vínculo empregatício entre ele e a primeira reclamada. Afinal, nos autos, não se tem notícia de contrato de representação comercial pactuado entre o reclamante e a primeira reclamada, tampouco há comprovação de próprio registro no Conselho Regional dos Representantes Comerciais, conforme disciplina o artigo 2º da Lei 4.886/65, que dispõe ser "obrigatório o registro dos que exerçam a representação comercial autônoma nos Conselhos Regionais criados pelo art. 6º desta Lei".
+
+    Destarte, por assim entender, toda a argumentação das recorrentes - com o fim de convencer a Corte sobre a existência de um contrato de representação comercial celebrado com a primeira reclamada e sobre a regularidade dessa contratação - não se presta à motivação de reformar, no particular, a decisão de origem.
+
+    Ademais, restou incontroverso o fato de que o reclamante, embora contratado da primeira reclamada, laborou na venda de produtos produzidos pelas recorrentes, exclusivamente, como se infere do contexto dos autos, sendo elas por assim ele trabalhar as empresas beneficiárias dos seus serviços prestados, sobretudo se o seu trabalho despendido consistia na "mediação para a realização de negócios mercantis, agenciando propostas ou pedidos, para transmiti-los aos representados, praticando ou não atos relacionados com a execução dos negócios", como as próprias recorrentes ressaltam, em razões recursais, ao reproduzir disposição do artigo 1º da Lei 4.886/1965 (id. ocd272c, p. 8).
+
+    Reconhecida a vinculação empregatícia entre o reclamante e a primeira reclamada (a empresa Francisco das Chagas Figueiredo Junior - ME, cujo nome de fantasia é Brascom), e ainda se tendo por evidente a prestação dos serviços do reclamante às recorrentes, considera-se cabível a responsabilização subsidiária, como o próprio STF deixou claro na Tese 725 acima transcrita, quando do inadimplemento das obrigações trabalhistas por parte do empregador, ou seja, pela primeira reclamada” (fl. 194-195, e-doc. 9).
+
+    Essa decisão desafina do entendimento adotado pelo Supremo Tribunal Federal no julgamento da Arguição de Descumprimento de Preceito Fundamental n. 324. Nesse sentido, no julgamento da Reclamação n. 47.843-AgR, de minha relatoria, Redator para o acórdão o Ministro Alexandre de Moraes, a Primeira Turma deste Supremo Tribunal decidiu:
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. OFENSA AO QUE DECIDIDO POR ESTE TRIBUNAL NO JULGAMENTO DA ADPF 324 E DO TEMA 725 DA REPERCUSSÃO GERAL. RECURSO PROVIDO. 1. A controvérsia, nestes autos, é comum tanto ao decidido no julgamento da ADPF 324 (Rel. Min. ROBERTO BARROSO), quanto ao objeto de análise do Tema 725 (RE 958.252, Rel. Min. LUIZ FUX), em que esta CORTE fixou tese no sentido de que: ‘É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante’. 2. A Primeira Turma já decidiu, em caso análogo, ser lícita a terceirização por “pejotização”, não havendo falar em irregularidade na contratação de pessoa jurídica formada por profissionais liberais para prestar serviços terceirizados na atividade-fim da contratante (Rcl 39.351 AgR; Rel. Min. ROSA WEBER, Red. p/ Acórdão: ALEXANDRE DE MORAES, Primeira Turma, julgado em 11/5/2020). 3. Recurso de Agravo ao qual se dá provimento” (DJe 7.4.2022).
+
+    8. Pelo exposto, julgo procedente a presente reclamação para cassar a decisão proferida pelo Tribunal Regional do Trabalho da Décima Terceira Região e determinar outra seja proferida, apreciando-se o mérito recursal com observância do decidido por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324/DF.
+
+    Publique-se.
+
+    Brasília, 19 de dezembro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
