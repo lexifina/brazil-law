@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLEBERSON LUIS DE LIMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - TRÁFICO ILÍCITO DE DROGAS - AUTORIA E MATERIALIDADE DELITIVAS NITIDAMENTE DELINEADAS NOS AUTOS  FIRMES E SEGURAS PALAVRAS DOS FUNCIONÁRIOS DO ESTABELECIMENTO PRISIONAL NÃO MACULADAS PELA PUERIL E ESCOTEIRA NEGATIVA DE AUTORIA - EVENTUAL ABSOLVIÇÃO NO PROCEDIMENTO ADMINISTRATIVO NÃO VINCULA O JUÍZO CRIMINAL  ABSOLVIÇÃO - IMPOSSIBILIDADE  ALEGAÇÃO DE SER IMPOSSÍVEL O INGRESSO DE ILÍCITOS NO SISTEMA PRISIONAL DISSOCIADA DA REALIDADE E QUE NÃO O BENEFICIA - RECURSO DEFENSIVO DESPROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 33 da Lei n. 11.343/2006, no que concerne à impossibilidade de manutenção da decisão condenatória pelo crime de tráfico de drogas, uma vez que a prova dos autos não comprova o cometimento do delito, inclusive tendo sido o recorrente absolvido na esfera administrativa quando da apuração de eventual falta grave, trazendo a seguinte argumentação:
+Em relação às provas dos autos, muito se discutiu de uma alegada "confissão informal" perante aos agentes no momento da abordagem.
+Entretanto, essa confissão informal nunca foi confirmada em Juízo, muito menos pelo réu quando ouvido administrativamente pela SAP.
+As testemunhas de acusação confirmaram que a cela onde o réu estava era lotada de aproximadamente 15 (quinze) presos e o entorpecente atribuído ao réu (18 porções de maconha) teria sido encontrado ao lado do vaso sanitário de uso geral.
+Todos relataram que nos pertences pessoais do réu nada de ilícito foi encontrado.
+Ademais, o réu acabara de retornar da saída temporária, estava na cela de inclusão. Antes disso passou por revistas corporais, troca de roupas pessoais por roupas do sistema, escaneamento por RAIO-X, ou seja, é impossível adentrar ao sistema penitenciário portando qualquer objeto ilícito.
+A testemunha de defesa afirmou que presenciou quando o entorpecente foi encontrado e quando o agente questionou sobre a propriedade do entorpecente, o réu negou sua propriedade.
+ ..
+Nada foi produzido nos autos com segurança a ponto de caracterizar a autoria do réu.
+O réu negou a autoria delitiva e ainda expos ao Juízo nunca ter sido relacionado ao tráfico de drogas tampouco sofreu qualquer falta por esse motivo, o que se comprova documentalmente nos autos.
+Diante disto, não há elementos capazes de sustentar uma condenação contra o réu, há uma dúvida razoável na apuração dos fatos, não podendo o réu ser condenado por mera presunção da acusação que se baseia em uma confissão informal que nunca foi confirmada.
+ ..
+Logo, é inconteste que não há quaisquer elementos mínimos para sustentar uma autoria do crime, ademais, sequer foram encontrados entorpecente na posse do réu.
+Diante disto, necessário se faz a reforma integral da R.Sentença, ABOLVENDO o réu de todas as acusações.
+ ..
+Com máxima vênia ao douto entendimento do Juízo a quo, a defesa entende que há uma contradição praticada pelos próprios membros do Tribunal de Justiça.
+Isto porque ao ser absolvido pela esfera admintrativa, a abolsição fora homologada pelo Juizo da execução, corroborada pelo Ministério Público, curiosamente, o mesmo fato é suficiente para manutenção de decreto condenatório na ação de conhecimento, onde foram produzidas as mesmas provas e nada de novo poderia ter alterado a situação fático processual.
+ ..
+Diante disto, há se se se conhecer e prover o presente recurso, afastando a autoria delitiva e absolvendo-se o réu (fls. 437/440).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, o Tribunal de origem manifestou-se nos seguintes termos:
+João Paulo Paes relatou que ao encontrar as 18 porções de maconha na cela ocupada, entre outros, pelo réu, este assumiu a propriedade do entorpecente (fls. 50).
+ ..
+Em juízo Gilberto confirmou que seguindo orientação do diretor de plantão Aldo e acompanhado do substituto de disciplina João, participou da vistoria na cela, ocorrida depois de uma dificuldade inicial, pois alguns detentos impediam a abertura, lembrando-se que na cama do lado esquerdo, a terceira, encontrou dentro de uma mochila 3 invólucros que Jefferson assumiu serem dele. Informou que no banheiro e na primeira cama do mesmo lado havia mais drogas, lembrando que CLÉBERSON também assumiu propriedade de parte delas, encontradas em 3 locais. Participou da apuração das faltas, lembrando-se que todos foram condenados, não sabendo se o réu foi absolvido.
+ ..
+Jhefferson Cláudio Ramalho dos Santos, por seu turno, admitiu ter adquirido, por R$ 200,00, 4 porções de droga do réu, uma das quais caiu entre os pertences de Alessandro quando as escondeu sob seu colchão. Informou, ainda, que o réu espalhou alguns papelotes no chão e, ao ser indagado, negou a propriedade do entorpecente (fls. 58).
+ ..
+O caderno de provas, ao contrário do alegado, formou terreno sólido e bastante não só à edição, como à manutenção do bem lançado decreto de rigor, que merece manutenção (fls. 422/425, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito de absolvição do crime de tráfico de drogas, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O pleito de desclassificação do delito de tráfico de drogas para porte destinado ao consumo pessoal restou afastado pela Corte a quo em razão da demonstração da finalidade mercantil dos entorpecentes apreendidos, sobretudo pela quantidade e variedade, bem como pelo confisco de razoável quantia em espécie de origem injustificada. A revisão deste entendimento encontra óbice na Súmula n. 7 desta Corte." (AgRg no AREsp n. 2.144.993/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 24/3/2023.)
+De igual sorte: "As instâncias de origem reconheceram a existência de elementos de prova suficientes para embasar o decreto condenatório pela prática do crime de tráfico de drogas. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF)." (AgRg no AREsp n. 2.245.299/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 14/6/2023.)
+No mesmo sentido: "Nesse contexto, tendo o Tribunal a quo reputado farto o conjunto fático-probatório constante dos autos, a corroborar a condenação do recorrente pela prática de tráfico de drogas, afastando a absolvição e a postulada desclassificação para o art. 28, da Lei n. 11.343/2006, inviável, no caso em tela, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial. Incidência do óbice da Súmula n. 7/STJ." (AgRg no AREsp n. 2.175.205/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+Confira-se, ainda, os seguintes julgados: AgRg no AREsp n. 2.203.507/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 2/5/2023; AgRg no AREsp n. 2.295.406/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023; AgRg no AREsp n. 2.162.920/MA, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/5/2023; AgRg no REsp n. 2.022.975/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/5/2023, DJe de 31/5/2023; AgRg no AgRg no AREsp n. 2.222.297/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
