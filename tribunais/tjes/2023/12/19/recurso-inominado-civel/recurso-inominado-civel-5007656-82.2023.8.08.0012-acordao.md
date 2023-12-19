@@ -1,0 +1,101 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5007656-82.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO VOTORANTIM S.A.
+RECORRIDO: WENERSON DOS SANTOS
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: Por maioria, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5007656-82.2023.8.08.0012.
+Recorrente: BANCO VOTORANTIM S.A.
+Recorrido: WENERSON DOS SANTOS.
+Relator: DR. FELIPE LEITÃO GOMES.
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. OBRIGAÇÃO DE FAZER. DIREITO DO CONSUMIDOR. (1). TESE AUTORAL.
+ALEGA A PARTE AUTORA, EM SÍNTESE, QUE É TITULAR DO CARTÃO DE CRÉDITO DO BANCO REQUERIDO, TENDO SIDO SURPREENDIDO COM COMPRAS QUE SOMAM R$ 2.015,26 LANÇADAS NA FATURA DE MARÇO/2023, AS QUAIS NÃO RECONHECE. PEDE, ENTÃO, A DECLARAÇÃO DE INEXISTÊNCIA DE TAIS DÉBITOS E A CONDENAÇÃO DO RÉU AO ESTORNO DESSAS COBRANÇAS E AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+(2). ANTÍTESE.
+EM CONTESTAÇÃO, SUSCITA PRELIMINAR DE ILEGITIMIDADE PASSIVA. NO MÉRITO, SUSTENTA A REGULARIDADE DAS COBRANÇAS, REALIZADAS COM USO DO CARTÃO E SENHA, E QUE NÃO HÁ DANOS INDENIZÁVEIS. PUGNA, ENFIM, PELA IMPROCEDÊNCIA DOS PEDIDOS INICIAIS.
+(3). DISPOSITIVO DA SENTENÇA.
+
+“Isto posto, na forma do art. 487, inc. I, do CPC, julgo procedentes os pedidos iniciais para declarar a inexistência dos débitos lançados na fatura do cartão de crédito de nº 4590.****.****.4472 de 15/03 a 07/04/2023, que somam R$ 2.015,26 (Id. 25853593). Outrossim, condeno o réu na obrigação de estornar essas cobranças, bem como eventuais encargos delas decorrentes, no prazo de 15 dias contados do trânsito em julgado da sentença. Por fim, condeno o réu ao pagamento de R$ 6.000,00 (seis mil reais) ao autor a título de indenização por dano moral, corrigidos monetariamente a partir da data de publicação desta sentença (STJ, Súmula nº 362) pela taxa SELIC (STJ, AgInt no REsp 1752361).’’.
+
+(4). RECURSO DA PARTE RÉ.
+REQUER QUE O PRESENTE RECURSO INOMINADO SEJA CONHECIDO E PROVIDO, A FIM DE QUE SEJA REFORMADA A PRESENTE SENTENÇA RECORRIDA, JULGANDO IMPROCEDENTES OS PEDIDOS CONTIDOS NA EXORDIAL. SUBSIDIARIAMENTE, EM ATENÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE, REQUER A REDUÇÃO DA CONDENAÇÃO EM DANOS MORAIS.
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+REQUER QUE SEJA JULGADO IMPROCEDENTE O RECURSO INOMINADO INTERPOSTO PELA RECORRENTE, COM A DEVIDA CONDENAÇÃO NOS ÔNUS DA SUCUMBÊNCIA, NOS TERMOS DO ART. 55 DA LEI 9099/95. E QUE SEJA MANTIDA A SENTENÇA PROFERIDA NO JUÍZO MONOCRÁTICO, JULGANDO PROCEDENTE EM PARTE O PEDIDO DA RECORRIDA, PARA CONDENAR A RECORRENTE AO PAGAMENTO DA INDENIZAÇÃO POR DANOS MORAIS EM R$ 6.000,00.
+(6). DO MÉRITO.
+TRATA-SE DE LIDE QUE VERSA SOBRE TÍPICA RELAÇÃO DE CONSUMO. EM SÍNTESE, A PARTE AUTORA ADUZ DESCONHECIMENTO DE COMPRAS REALIZADAS EM SEU CARTÃO DE CRÉDITO. POIS BEM, NO CASO
+SUB EXAMINE
+NÃO SE PODE EXIGIR DO CONSUMIDOR A PRODUÇÃO DE PROVA NEGATIVA, POSTO QUE, O CONTEXTO FÁTICO DOS AUTOS NO QUAL SE RESPALDA A PRETENSÃO AUTORAL, TRATA-SE DE FATOS NEGATIVOS. DESSARTE, INCUMBE AO REQUERIDO DEMONSTRAR QUE, DEVERAS, FORA A AUTORA A RESPONSÁVEL PELA TRANSAÇÃO DA COMPRA OBJURGADA. DESSARTE, DA DETIDA ANÁLISE AO CONJUNTO PROBATÓRIO DOS AUTOS, VERIFICO A OCORRÊNCIA DE FRAUDE NO NEGÓCIO JURÍDICO ORA IMPUGNADO PELO DEMANDANTE, QUAL SEJA, A COMPRA REALIZADA EM OUTROS ESTADOS ATRAVÉS DE SEU CARTÃO DE CRÉDITO. LOGO, SOBEJA-SE EVIDENTE A FRAUDE PERPETRADA POR TERCEIRO DESCONHECIDO QUE VALENDO-SE DE ARTIMANHAS CIBERNÉTICAS, UTILIZOU OS DADOS PESSOAIS DO AUTOR DE CARTÃO DE CRÉDITO PARA ATINGIR SEUS INTENTOS DELITUOSOS, QUE RESULTOU NO PREJUÍZO MATERIAL PARA O CONSUMIDOR DESCRITO NA EXORDIAL. NESTE PONTO, TENHO QUE O BANCO REQUERIDO NÃO CHECOU A REGULARIDADE DA SUPRACITADA OPERAÇÃO, EM OUTROS TERMOS, O RECORRENTE NÃO CUMPRIU COM SEU DEVER DE DETECTAR AS TRANSAÇÕES ELETRÔNICAS/VIRTUAIS REALIZADAS FORA DO PADRÃO DE USO POR PARTE DO CONSUMIDOR, O QUE CONFIGURA UM DEFEITO DA PRESTAÇÃO DOS SERVIÇOS PRESTADOS. DESTA FORMA, VISTO QUE, EM OBSERVÂNCIA AO PERFIL CONSUMERISTA DO CLIENTE, DEVERIA O REQUERIDO VALER-SE DE APARATOS ADEQUADOS E SEGUROS NO FITO DE GARANTIR A REGULARIDADE E LICITUDE DAS TRANSAÇÕES ELETRÔNICAS,
+IN CASU
+, CABERIA AO BANCO RECORRENTE ASSEGURAR QUE REALMENTE ERA O CONSUMIDOR/CLIENTE QUE ESTARIA REALIZANDO AQUELAS COMPRAS. ASSIM, DIANTE DA INFELIZ REALIDADE SOBRE CONTUMAZES CASOS DE FRAUDES NESTE TEOR, NO CASO EM APREÇO, ME PARECE VEROSSÍMEIS AS ALEGAÇÕES AUTORAIS. NESTE DIAPASÃO, MUITO EMBORA TENHA SIDO UM TERCEIRO INDIVÍDUO O RESPONSÁVEL PELA COMPRA, OBJETO DA LIDE, NO CARTÃO DE CRÉDITO DE TITULARIDADE DO RECORRIDO, A FRAUDE NÃO EXIME O RÉU, ORA RECORRENTE, DE SUAS RESPONSABILIDADES, POR SE TRATAR ESTE DE INSTITUIÇÃO QUE PADECE DE RISCOS INERENTES ÀS SUAS ATIVIDADES, CARACTERIZANDO ASSIM, FORTUITO INTERNO (SÚMULA 479 STJ).
+COMPRA NÃO RECONHECIDA NO CARTÃO DE CRÉDITO
+.
+FRAUDE
+.
+FALHA NA PRESTAÇÃO DOS SERVIÇOS CONFIGURADA
+.
+FORTUITO INTERNO
+. NO QUE TANGE AO DANO MORAL, CERTO ESTOU QUE ESTE RESTOU CARACTERIZADO NA MEDIDA EM QUE A SITUAÇÃO EXPERIMENTADA PELA PARTE RECORRIDA TRANSCENDE A ESFERA DO MERO DISSABOR DECORRENTE DOS CONTRATEMPOS DO COTIDIANO E TEM O CONDÃO DE CAUSAR LESÃO EXTRAPATRIMONIAL PASSÍVEL DE INDENIZAÇÃO.
+NO QUE SE REFERE AO QUANTUM DEVIDO, É CEDIÇO QUE, PELA NATUREZA NÃO PATRIMONIAL DO BEM VIOLADO, A DOUTRINA TEM INDICADO DIVERSOS PARÂMETROS QUE DEVEM SER SEGUIDOS PELO JULGADOR QUANDO DA SUA FIXAÇÃO, SENDO ELES: A RAZOABILIDADE; A PROPORCIONALIDADE; A EXTENSÃO DO DANO; O GRAU DA CULPA; E A CAPACIDADE FINANCEIRA DO OFENSOR E DO OFENDIDO; DE FORMA QUE NÃO SEJA IRRISÓRIO NEM IMPORTE ENRIQUECIMENTO DA VÍTIMA. ASSIM, CONSIDERANDO A CONDIÇÃO ECONÔMICA DAS PARTES, A GRAVIDADE DA CULPA E A EXTENSÃO DO DANO, ENTENDO RAZOÁVEL MINORAR O VALOR DA INDENIZAÇÃO PARA R$ 3.000,00 (TRÊS MIL REAIS).
+(8).
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. (9).
+SENTENÇA REFORMADA PARA
+
+MINORAR
+O
+QUANTUM
+FIXADO A TÍTULO DE DANOS MORAIS PARA R$ 3.000,00 (TRÊS MIL REAIS),
+MANTIDA NOS SEUS DEMAIS TERMOS.
+(10). SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS AO RECORRENTE, VEZ QUE A PARTE RESTOU PARCIALMENTE VENCEDORA EM SEU RECURSO.
+
+É COMO VOTO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+O SR. JUIZ DE DIREITO VLADSON COUTO BITTENCOURT:-
+
+Eminente Relator,
+
+Peço vênia para divergir do entendimento de Vossa Excelência, por entender que a sentença merece ser mantida. Explico:
+
+O valor da condenação a título de danos morais deve ser fixado pelo prudente arbítrio do Juiz, devendo este se atentar aos princípios da proporcionalidade e da razoabilidade, não se afastando, ainda, do caráter punitivo-pedagógico da condenação, tampouco do postulado da vedação ao enriquecimento sem causa.
+
+Em razão disso, não se pode arbitrar como indenização uma soma vultosa e exagerada de forma a ensejar o enriquecimento sem causa da parte lesada, como também não se pode fixar um valor irrisório de forma que o causador do dano não sofra qualquer diminuição em seu patrimônio capaz de dissuadi-lo de repetir a prática.
+
+Enfrentando o conjunto fático dos autos, e considerando a reprovabilidade da conduta, a duração e intensidade do sofrimento da vítima e, igualmente, a capacidade econômica do responsável pela conduta lesiva e pelas condições pessoais do ofendido, em respeito ao artigo 5º, inciso V, da CRFB/88, entendo que o
+quantum
+indenizatório fixado está em conformidade com a situação vivenciada.
+
+Ante o exposto, conheço do recurso inominado interposto, mas nego-lhe provimento, para manter a sentença objurgada.
+
+Condeno a parte recorrente ao pagamento de honorários sucumbenciais, que fixo em 20% sobre o valor da condenação.
+
+É como voto.
