@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de reclamação constitucional proposta por PAULO EDUARDO DE MENEZES MOREIRA com fulcro nos arts. 105, I, "f", da Constituição Federal e 988 do CPC/2015, apontando como reclamado o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, que visa garantir a autoridade de decisão proferida por esta Corte no julgamento do REsp 2.048.155/SE.
+Vislumbrando a ocorrência de desrespeito à autoridade de decisão proferida por esta Corte, deferi o pedido liminar para suspender os efeitos do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO (que havia negado provimento ao agravo de instrumento - Processo n. 0800372-02.2021.4.05.0000) até o final julgamento da presente reclamação (e-STJ fls. 275/280).
+Nas informações prestadas, a Autoridade reclamada afirmou que, em novo julgamento, em observância ao decidido pelo STJ, foi provido o agravo de instrumento, com a alteração da verba honorária fixada (e-STJ fls. 289/296).
+Existindo fundadas dúvidas sobre a manutenção do interesse de agir do reclamante, especialmente diante da suposta perda superveniente do objeto deste processo, já que, conforme as informações prestadas, a parte reclamada deu cumprimento integral à ordem do STJ, não havendo qualquer utilidade no provimento do presente feito, intimei a parte reclamante para que se manifestasse sobre possível perda superveniente do objeto da ação (e-STJ fls. 309/310).
+Às e-STJ fls. 314/316, a parte reclamante concordou com a perda do objeto da reclamação.
+Ante o exposto, JULGO EXTINTA a presente reclamação, com fundamento no art. 485, VI, do CPC/2015, por não estar demonstrada a manutenção do interesse de agir e c asso a liminar anteriormente deferida.
+Uma vez que o cumprimento total da ordem do STJ só ocorreu após o ajuizamento da presente reclamação e o deferimento da liminar, condeno a UNIÃO no pagamento das custas e de honorários advocatícios, que ora arbitro no valor de R$ 2.000, 00 (dois mil reais), nos termos do art. 85, §§ 8º e 10, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
