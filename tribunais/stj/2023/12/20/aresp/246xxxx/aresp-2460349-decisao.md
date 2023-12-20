@@ -1,0 +1,28 @@
+DECISÃO
+REGINALDO DOS SANTOS ARAÚJO agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0027.18.004143-9/001.
+O agravante foi denunciado como incurso nos arts. 157, caput, e 163, parágrafo único, III, ambos do Código Penal. O Juízo sentenciante o absolveu impropriamente e aplicou-lhe a medida de segurança de internação por prazo indeterminado, o que foi mantido em grau recursal.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 96, II, e 97 do Código Penal, ao argumento de que "a fundamentação baseada exclusivamente na gravidade em abstrato dos delitos demonstra a irrazoabilidade da medida imposta. A isso se soma a primariedade do agente e a ausência de informações atuais acerca da necessidade de imposição da medida mais grave - internação" (fl. 407).
+O recurso foi inadmitido na origem (fls. 418-419), o que deu causa à interposição deste agravo (fls. 443-440).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 460-463).
+Decido.
+O agravo é tempestivo e infirma os fundamentos da decisão agravada, motivo pelo qual comporta conhecimento.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso especial (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito da controvérsia.
+Conforme relatado, o Juízo sentenciante absolveu impropriamente o réu e aplicou-lhe a medida de segurança de internação por prazo indeterminado. Destacou que a referida medida se mostra a mais adequada, pelo "teor do laudo a indicar histórico de agressividade e abandono de tratamento" (fl. 235).
+O Tribunal de origem manteve a sentença, sob os seguintes fundamentos (fl. 382):
+In casu, observa-se que o acusado foi denunciado pela prática dos delitos previstos no art. 157, caput, e no art. 163, parágrafo único, inc. III, ambos do Código Penal, cuja natureza, por si só, impinge constrangimento e desconforto social.
+Denota-se, ainda, que a sobredita infração penal foi praticada pelo acusado mediante grave ameaça (roubo simples), o que revela a maior reprovabilidade e periculosidade de sua conduta.
+Com essas considerações, e observando que um dos crimes imputados ao réu é punido com pena de reclusão, afigura-se proporcional e razoável a submissão do recorrente à medida de segurança de INTERNAÇÃO, a ser cumprida em hospital de custódia e tratamento psiquiátrico, ou, à falta, em outro estabelecimento adequado (art. 96, inc. I, do Código Penal), por tempo indeterminado.
+Via de regra, consoante a diretriz do art. 97 do CP, se o agente for inimputável, o juiz determinará sua internação. Caso o fato previsto como crime seja punível com detenção, poderá o indivíduo ser submetido a tratamento ambulatorial.
+O critério não é inflexível. Mesmo acontecido um delito apenado com reclusão, o juiz poderá, excepcionalmente, à luz do princípio da proporcionalidade, sujeitar o inimputável a tratamento ambulatorial, desde que constate, indene de dúvidas, a desnecessidade da internação para o fim de cura da periculosidade. Nesse sentido: EREsp n. 998.128/MG, Rel. Ministro Ribeiro Dantas, 3ª S., DJe 18/12/2019.
+Na hipótese em exame, o tratamento foi proposto ao ora recorrente depois de cuidadosa análise das peculiaridades do caso, pois foi constatada a necessidade da internação, dado o histórico de agressividade e de abandono de tratamento, circunstâncias indicadas no laudo técnico.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. APLICAÇÃO DE MEDIDA DE SEGURANÇA. INTERNAÇÃO. ALEGADA INVIABILIDADE. REVOLVIMENTO DE FATOS E PROVAS. VIA INADEQUADA.
+1. De acordo com o entendimento pacificado neste Tribunal Superior, "para uma melhor exegese do art. 97 do CP, à luz dos princípios da adequação, da razoabilidade e da proporcionalidade, não deve ser considerada a natureza da pena privativa de liberdade aplicável, mas sim a periculosidade do agente, cabendo ao julgador a faculdade de optar pelo tratamento que melhor se adapte ao inimputável." Desse modo, "em se tratando de delito punível com reclusão, é facultado ao magistrado a escolha do tratamento mais adequado ao inimputável, nos termos do art. 97 do Código Penal" (EREsp n. 998.128/MG, relator Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 27/11/2019, DJe 18/12/2019).
+2. No caso, o acórdão impugnado apontou elementos concretos constantes dos autos - como o laudo do exame de insanidade mental - e pautou-se na legislação atinente à matéria para manter a medida de segurança de internação estabelecida pelo Juízo de primeira instância.
+3. Desse modo, o pleito de mudança da conclusão alcançada pelas instâncias ordinárias sobre a periculosidade do paciente, no caso, não se coaduna com o rito do habeas corpus, ante a impossibilidade de revolvimento de fatos e provas, de modo que não há como conhecer do pedido.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 558.089/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 25/6/2020).
+Ademais, alterar a conclusão das instâncias ordinárias acerca do teor da manifestação técnica, com o intuito de aplicar medida de segurança menos gravosa, demandaria reexame de fatos e provas, providência obstada na sear a do recurso especial, segundo preleciona a Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
