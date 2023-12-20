@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCOS VINICIUS SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2302156-48.2023.8.26.0000).
+Consta dos autos que o juízo da execução teria deixado de apreciar o pedido de livramento condicional do paciente, em típico excesso de prazo.
+Daí o presente writ, no qual a defesa afirma que o paciente sofre constrangimento ilegal pela demora na apreciação de seu pedido junto ao juízo da execução, sem razões aparentes.
+Aduz que o paciente já cumpriu todos os requisitos legais e faz ao livramento condicional.
+Requer, inclusive liminarmente, a concessão do livramento condicional.
+É o relatório. DECIDO.
+Conforme os autos, o juízo da execução teria deixado de apreciar o pedido de livramento condicional do paciente, em típico excesso de prazo.
+Ora, o direito à razoável duração do processo não se extrai de mera contagem de prazos processuais, devendo ser aferido in casu, a depender da complexidade do feito.
+Na linha dos precedentes desta Corte, outra não é a conclusão a que se chega senão a de que o prazos para apreciação dos pedidos pelo magistrado, em sede de execução penal, não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos lapsos para os atos processuais.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. EXCESSO DE PRAZO INJUSTIFICADO NA APRECIAÇÃO DO PEDIDO NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO, COM RECOMENDAÇÃO.
+1. Consoante o entendimento desta Corte Superior "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as peculiaridades da causa ou quaisquer fatores que possam influir na tramitação" (HC n. 541.104/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2020, DJe de 27/2/2020).
+2. Na hipótese, não se constata excesso de prazo injustificado, na medida em que a Corte Estadual consignou que os pedidos estão em andamento conforme a ordem cronológica, não havendo comprovação de qualquer fato ou causa caracterizadores de desídia ou inércia do Poder Judiciário ou do membro do Ministério Público. Aduziu que a execução tramita regularmente, sendo certo que os pedidos serão analisados em breve.
+3. Agravo regimental desprovido, com recomendação, de ofício, ao Juízo da Execução, para que promova maior celeridade possível ao julgamento do pedido defensivo" (AgRg no HC n. 810.052/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2023).
+Extrai-se dos autos que, no caso concreto (fls. 22-23):
+"De todo modo, destaca-se que o paciente cumpre pena no regime semiaberto no Centro de Progressão Penitenciária de Valparaíso, isso em face de quatro condenações que possui, com término da pena previsto para 27/02/2038. Com relação ao objeto do presente writ, foi informado que execução física foi migrada para o SAJ/PG5 e cadastrado sob o número 7003510-84.2015.8.26.0224. Referido PEC foi saneado, sendo determinada em 30/09/2023 a redistribuição ao DEECRIM competente (fl. 925 dos autos de origem). Por fim, à vista do processo de execução, em 17/11/2023, os autos foram devidamente redistribuídos ao DEECRIM 2ª. RAJ de Araçatuba/SP (fl. 946 dos autos de origem). Logo, em uma análise sumária, verifica-se que não houve omissão da prestação jurisdicional. (..) a situação de todos os encarcerados e que as medidas para a migração dos autos físicos para o meio digital estão sendo devidamente tomadas, assim, a situação posta nesta impetração não destoa do cenário geral em que se encontram milhares de outros sentenciados. Outrossim, tal pleito tampouco deve ser objeto de debate nesta seara, visto que depende do exame de um conjunto de requisitos, de ordem objetiva e subjetiva, insuscetíveis de apreciação nos limites estreitos do habeas corpus, remédio jurídico de caráter sumário, que não é o instrumento adequado à análise aprofundada de matéria aqui suscitada."
+In casu, além do fato de ter havido o período de suspensão para a digitalização do acervo processual físico recente, não se poderia apreciar o pedido em tela em indevida supressão de instância.
+Logo, ao fim, o lapso temporal se encontra devidamente justificado no caso concreto, porquanto não se demonstrou a simples morosidade estatal, de modo que não há que se falar em excesso de prazo injustificado e deliberado para a apreciação do pleito.
+Desta forma, o acórdão combatido está em consonância com o entendimento desta Corte Superior.
+Ante o exposto, não conheço do habeas corpus.
+Recomenda-se, porém, celeridade na ulterior conclusão do feito.
+Intime-se, com urgência, a origem para cumprimento da recomendação.
+Publique-se. Intime-se.
+EMENTA
