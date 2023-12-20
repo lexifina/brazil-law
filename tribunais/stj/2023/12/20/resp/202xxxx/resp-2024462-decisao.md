@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por PERLA ARDITO STRINA, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fls. 173-177 e-STJ), assim ementado:
+Gratuidade judiciária. Indeferimento. Ausência de elementos no sentido da necessidade do benefício. Recorrente que possui patrimônio incompatível com a hipossuficiência de recursos. Recurso desprovido.
+Opostos embargos declaratórios (fls. 206-216 e-STJ), restaram desacolhidos na origem.
+Nas razões do especial (fls. 179-203 e-STJ), o insurgente alega violação aos seguintes dispositivos de lei federal: (I) arts. 1022, II, § único, II c/c 489, §1º, IV, e 1022, III, do CPC/15, aos sustentar a omissão e falta de fundamentação no julgado; e, (ii) arts. 6º, 10, 98, 99 §§2º e 3º, 286 III c/c §3º do artigo 55, 938 §3º, 1008, do CPC/15, defendendo a necessidade de apreciação dos seus extratos bancários, a fim de obter a assistência judiciária gratuita.
+Apresentadas contrarrazões (fls. 433-470 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, afasta-se a alegação de negativa de prestação jurisdicional.
+Não se verifica ofensa aos artigos 489 e 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado restou omisso pois não se atentou para o fato de que não possui condições de arcar com o pagamento das custas da ação reconvencional, "já que tolhida praticamente da totalidade de seu patrimônio pelo recorrido, consequentemente indisponibilizado naqueles autos por força da respectiva tutela provisória de urgência de fls. 233/238 para acautelamento do objeto processual" (fl. 184 e-STJ).
+Sem razão, contudo.
+Conforme trecho a seguir citado, o Tribunal local tratou expressamente dos motivos pelos quais foi indeferido o benefício da gratuidade judiciária.
+A esse respeito, confira-se:
+A gratuidade da justiça é devida apenas àqueles com insuficiência de recursos, para pagar as custas, as despesas processuais e os honorários advocatícios, conforme vigente regramento do artigo 98 do CPC.
+À luz do que dispõe a CF, art. 5º, LXXIV, que determina que a assistência jurídica, integral e gratuita aos que comprovarem insuficiência de recursos, o atual CPC art. 99, § 3º, passou a disciplinar a concessão do benefício, que há de ser interpretado em harmonia com as demais normas aludidas ao afirmar que se presume verdadeira a alegação de insuficiência, deduzida exclusivamente por pessoa natural.
+Referida presunção, afinal, cai por terra se os elementos constantes dos autos destoarem da alegação de necessidade, sob pena de aviltar-se o instituto e o próprio sentido da lei, que quis, e expressamente, que sob o pálio da gratuidade da justiça militassem apenas aqueles com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios n"outro dizer, os necessitados.
+Nesse passo, vale consignar que, como a própria agravante afirma, não houve a concessão da gratuidade da justiça por outro Juízo, mas, sim, o diferimento de seu recolhimento, o que não vincula os demais em outras demandas e de natureza diversa. A realidade socioeconômica avaliada é contemporânea ao pedido, do contrário, como entende a agravante, em nenhuma outra demanda poderia ela ser averiguada, bastando a apresentação do deferimento ou diferimento do recolhimento em ação precedente.
+No caso, a agravante se qualifica como administradora de empresas e, conforme declaração de imposto sobre a renda, exercício 2020 juntado nos autos originários e aqui, a agravante tem robusto patrimônio imobiliário e em pecúnia, incluindo fundo de investimento e elevados rendimentos isentos de tributação (fls. 133 deste e 471 e 481 da origem).
+Ressalte-se que deixou de juntar seus extratos bancários a fim de se possibilitar análise mais detida de sua real condição financeira, pois, recebendo aluguéis, de certo faz uso dos serviços bancários para tanto, deixando, assim, de indicar ganhos condizentes com aqueles que fazem jus ao benefício.
+As partes controvertem em diversas demandas e tem como objeto, em sua maioria, valores e negócios de elevados vultos.
+A propósito, foi bloqueado em favor da agravante a quantia de R$ 352.872,24 nos autos da demanda 1010263-55.2020.8.26.0008, a mesma citada pela agravada em que lhe foi possibilitado o recolhimento ao final. (fls. 174-176, e-STJ).  grifou-se .
+Como visto, houve, no Tribunal de origem, manifestação apta, clara e suficiente para o indeferimento da gratuidade de justiça pleiteada, não havendo assim, que se falar em omissão ou falta de fundamentação, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, a alegada violação aos artigos 489 e 1.022 do CPC/15.
+2. Quanto aos arts. 6º, 10, 98, 99, §§ 2º e 3º, 286 III c/c § 3º do artigo 55, 938 § 3º, 1008, do CPC/15, sob a alegada necessidade de apreciação dos seus extratos bancários, a fim de comprovar sua necessidade de obtenção do benefício pleiteado, o acórdão destacou o seguinte:
+No caso, o agravante se qualifica como administradora de empresas e, conforme declaração de imposto sobre a renda, exercício 2020 juntado nos autos originários e aqui, a agravante tem robusto patrimônio imobiliário e em pecúnia, incluindo fundo de investimento e elevados rendimentos isentos de tributação (fls. 133 deste e 471 e 481 da origem).
+Ressalte-se que deixou de juntar seus extratos bancários a fim de se possibilitar análise mais detida de sua real condição financeira, pois, recebendo aluguéis, de certo faz uso dos serviços bancários para tanto, deixando, assim, de indicar ganhos condizentes com aqueles que fazem jus ao benefício.
+As partes controvertem em diversas demandas e tem como objeto, em sua maioria, valores e negócios de elevados vultos.
+A propósito, foi bloqueado em favor da agravante a quantia de R$ 352.872,24 nos autos da demanda 1010263-55.2020.8.26.0008, a mesma citada pela agravada em que lhe foi possibilitado o recolhimento ao final. (fl. 176, e-STJ).
+Como se observa das razões acima, a pretensão da insurgente de comprovar seu estado de hipossuficiência por meio do deferimento da juntada de seus extratos bancários encontra óbice no brocardo venire contra factum proprium que veda o comportamento contraditório, já que quedou-se inerte em juntar os documentos necessários a comprovação de sua alegação no momento oportuno.
+Ademais, para rever as conclusões alcançadas pela Corte de origem, de que não ficou demonstrada a hipossuficiência para concessão da assistência judiciária gratuita demandaria necessário revolvimento de matéria fática, o que encontra óbice no enunciado da Súmula n. 7 do STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA NÃO COMPROVADA NAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Após o indeferimento do benefício da assistência judiciária gratuita nas instâncias ordinárias, compete ao recorrente demonstrar que houve alteração em sua condição econômico-financeira a fim de que seja concedida a gratuidade na fase recursal.
+3. A presunção de veracidade da declaração de hipossuficiência pode ser ilidida na hipótese em que existam nos autos evidências de que não estão presentes os requisitos legais para deferimento do beneplácito.
+4. A alteração das conclusões da Corte a quo para reconhecer a alegada hipossuficiência ensejaria indevido reexame de fatos e provas, em face do disposto na Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.916.722/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/3/2022, DJe de 18/3/2022.)  grifou-se .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. SÚMULA 481/STJ. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE PROVAS. DECLARAÇÃO DE HIPOSSUFICIÊNCIA FIRMADA PELOS RECORRENTES, PESSOAS FÍSICAS. PRESUNÇÃO IURIS TANTUM. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem reconheceu que não foi comprovada a alegada insuficiência de recursos para arcar com as custas processuais pela pessoa jurídica, de modo que não é possível o deferimento do benefício de gratuidade de justiça pleiteado.
+3. No caso, a modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Por outro lado, é assente o entendimento deste Sodalício de que a simples declaração de pobreza, firmada por pessoa física, tem presunção juris tantum, bastando, a princípio, o requerimento, sem necessária comprovação prévia, para que lhe seja concedido o benefício da assistência judiciária gratuita. Precedentes.
+5. Agravo interno parcialmente provido, para deferir o benefício da justiça gratuita aos recorrentes pessoas físicas indicados.
+(AgInt no AREsp n. 1.995.577/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/4/2022, DJe de 24/5/2022.).
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
