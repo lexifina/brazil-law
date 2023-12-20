@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por Hyundai Elevadores do Brasil Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul , assim ementado (fl. 1.433):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. CONTRATO MISTO. FRACIONAMENTO DE IMPOSTOS. ISS E ICMS. CONTRATO DE COMPRA E VENDA COMBINADO COM CONTRATO DE PRESTAÇÃO DE SERVIÇO DE INSTALAÇÃO DE EQUIPAMENTO EM OBRA CIVIL. TAXATIVIDADE. LISTA DE INCIDÊNCIA DO ISS. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO ART. 85, §3º, I, DO CPC.
+1. Segundo assentado entendimento do STJ, é taxativa a Lista de Serviços anexa à Lei Complementar nº 116/2003, para efeito de incidência de ISS, admitindo-se, aos já existentes apresentados com outra nomenclatura, o emprego da interpretação extensiva para serviços congêneres (REsp 1111234/PR).
+2. Na hipótese, a autora produz e vende elevadores, escadas rolantes e equipamentos similares, e os instala na obra do cliente. Prova dos autos que evidencia a contratação, de forma individualizada, da venda do produto e da instalação dos equipamentos. Controvérsia acerca do imposto incidente sobre a prestação do serviço de instalação. Enquadramento do serviço de instalação e montagem de equipamentos no item 7.2 da Lista de serviços anexa à Lei Complementar nº 116/2003, como execução por empreitada ou subempreitada de obra da construção civil. "A atividade de fornecimento de elevadores, que envolve a produção sob encomenda e a instalação no edifício, encerra, precipuamente, uma obra de engenharia que complementa o serviço de construção civil" (REsp 1231669/RS).
+3. Acolhimento da pretensão de fracionamento da tributação. Valores contratados para a venda e instalação e emissão das respectivas notas em separado. Incidência do ISS sobre a rubrica de serviços.
+4. Honorários advocatícios fixados em consonância com o art. 85, §3º, I, do CPC, mantidos.
+APELAÇÕES DESPROVIDAS. UNÂNIME.
+Opostos embargos declaratórios por ambas as partes litigantes (fls. 1.497/1.504 e 1.508/1.510), foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 1.583/1.593 e 1.594/1.604).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 85, §§ 3º e 5º, do CPC. Sustenta que, na hipótese, "a fixação dos honorários sucumbenciais  deve-se dar  sobre o PROVEITO ECONÔMICO obtido" (fl. 1.694).
+Contrarrazões às fls. 1.705/1.714.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que, "tratando-se de ação declaratória, não representa o alegado proveito econômico, na medida os efeitos da decisão não se limitam à soma dos depósitos realizados" (fl. 1.446 - g.n.), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: Agint no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; Agint no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+ANTE O EXPOSTO, nego provimento ao agravo Hyundai Elevadores do Brasil Ltda. .
+Publique-se.
+EMENTA
