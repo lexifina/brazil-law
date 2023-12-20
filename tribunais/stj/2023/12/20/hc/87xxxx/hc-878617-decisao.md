@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de KELVIN DOS SANTOS FARIA, condenado à pena de 12 anos e 6 meses de reclusão, sob o regime inicial fechado, e à pena pecuniária de 75 dias-multa, por violação do art. 157, §2º, II, e §2º-A, I do Código Penal (três vezes), na forma do art. 71, parágrafo único, do Código Penal (Processo n. 1501169-26.2022.8.26.0535, da 3ª Vara Criminal da comarca de Guarulhos/SP).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que negou provimento ao apelo defensivo (fls. 9/26).
+Requer-se a concessão da ordem para reconhecer a nulidade do reconhecimento fotográfico, e por consectário, a nulidade do reconhecimento pessoal duvidoso realizado sob o crivo do contraditório, absolvendo-se o paciente, com esteio no art. 386, VII, do Código de Processo Penal (fl. 8).
+É o relatório.
+Este writ não tem cabimento.
+Primeiro, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, é cediço que não cabe ampla análise de fatos e provas nos autos de habeas corpus, de cognição sumária, o que torna totalmente inadmissível a análise do pedido de absolvição formulado em favor do paciente. Conforme a sentença, a negativa do réu não convence, face declarações da vítima Fabio que o reconheceu em todas as fases da persecução penal e descreveu com riqueza de detalhes a sua participação no ilícito com os demais roubadores, e ainda o réu estava com parte das coisas roubadas das vítimas em seu poder, bem como uma das armas de fogo utilizadas nos assaltos (fl. 30).
+Terceiro, a ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, porquanto a linha de entendimento adotada pelo Tribunal local no acórdão ora impugnado encontra respaldo na jurisprudência do STJ. Por exemplo, este julgado: AgRg no HC n. 814.722/SP, de minha relatoria, Sexta Turma, DJe 29/11/2023.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. TRIPLO ROUBO MAJORADO. ABSOLVIÇÃO. NULIDADE. INOBSERVÂNCIA DO ART. 226 DO CPP. OUTROS FATORE S CONSIDERADOS PARA A CONDENAÇÃO. APROFUNDADO EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE.
+Petição inicial indeferida liminarmente.
