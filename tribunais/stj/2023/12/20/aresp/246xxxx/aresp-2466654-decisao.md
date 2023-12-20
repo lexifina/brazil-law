@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo (e-STJ, fls. 504-510) contra a decisão de fls. 500-501, que inadmitiu o recurso especial interposto por JUAREZ XAVIER DOS SANTOS (e-STJ, fls. 460-473), com fundamento artigo 105, inciso III, alínea "a", da Constituição da República, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO PIAUÍ (e-STJ, fls. 460-473).
+Sustenta a Defesa que não se trata de hipótese de reexame de provas, mas de revaloração dos critérios jurídicos dos elementos cognitivos sopesados, providência que não encontra óbice na Súmula 7 do STJ. Outrossim, que o recurso não carece de fundamentação.
+Em suas razões de recurso especial, alega violação aos artigos do 157 e 60 e 65, III, "d", todos do Código Penal.
+Inicialmente, pretende a desclassificação do crime de roubo para furto, pois não houve emprego de violência ou grave ameaça.
+Ressalta que "o ato de puxar o cordão de forma violenta, constitui uma violência praticada contra o objeto, e não contra o seu dono."
+No ponto, acrescenta que a vítima não descreveu, em Juízo, que o agravante aplicou uma "gravata" para poder arrebatar os bens.
+Seguindo, requer o reconhecimento da confissão espontânea, argumentando que o agravante assumiu a prática do crime na fase extrajudicial.
+Por fim, pede a redução da pena de multa, afirmando que esta foi aplicada de forma desproporcional em relação à pena privativa de liberdade e que o agravante é hipossuficiente.
+Instado, o recorrido apresentou contrarrazões (e-STJ, fls. 477-492).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 494-499), ao que se seguiu a interposição de agravo (e-STJ, fls. 504-510).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento ou desprovimento do recurso (e-STJ, fls. 538-544).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Inicialmente, no tocante ao pedido de desclassificação, a Corte de origem assim se manifestou (e-STJ, fls. 436-455):
+"Sustenta o recorrente a desclassificação do crime de roubo simples para furto simples, em razão da inexistência de grave ameaça ou de violência exercida pelo réu para a realização do tipo penal, no qual foi condenado. Não merece ser acolhido tal argumento. Conforme foi muito bem examinado pelo ilustre Magistrado sentenciante ressaltou que:
+"2.18. Após a análise probatória, tanto a autoria quanto a materialidade do crime de roubo, praticado pelo acusado JUAREZ XAVIER DOS SANTOS, restaram confirmadas. O roubo restou consumado, uma vez que, além de ter existido a inversão da posse, o denunciado chegou a ter a posse desvigiada do cordão. Por esse motivo, o argumento defensivo no sentido de desclassificação do crime de roubo simples para furto simples, devem ser rejeitados, em virtude da violência empregada contra a vítima, através de imobilização por meio de uma "gravata", o que caracteriza a violência e reduz a possibilidade de resistência"
+Abstrai-se com clareza das declarações da vítima em juízo (DVD-R) que o Apelante fez a abordagem e que houve a efetiva subtração do bem após a "gravata" (uso de força física), realizada em desfavor da vítima, o que evidencia a violência e a ameaça necessárias para a configuração do roubo.
+Em seguida, aliás, os bens subtraídos foram encontrados na posse do infrator, sendo prontamente reconhecido pela vítima como autor do crime. Não remanescem dúvidas da prática do delito e da forma como ocorreu, conforme o categórico conjunto probatório angariado. Outrossim, deve-se levar em conta que em crimes patrimoniais a palavra da vítima é extremamente relevante, neste caso, o depoimento prestado pela vítima e pela testemunha são firmes e coerentes quanto ao reconhecimento do réu como o autor do delito. No caso, restou comprovado pelas declarações da vítima que o réu subtraiu sua bolsa com uso de força física, realizada em desfavor da vítima. Restando comprovado o emprego de violência nos atos de execução do crime de roubo, revela-se inviável a desclassificação da conduta para o delito de furto."
+Conforme se observa, a instância anterior delineou que o agravante abordou a vítima com um golpe denominado por "gravata" e arrebatou o seu colar.
+No ponto, a Defesa sustenta que a vítima não mencionou este fato em suas declarações judiciais, mas que o agravante apenas puxou o seu colar.
+De fato, analisando o relato da vítima, registrado na sentença, não consta a descrição deste golpe aduzido no acórdão, entretanto, isto não justifica a desclassificação.
+Para uma melhor apreciação, segue trecho da sentença, com as declarações da vítima (e-STJ, fls. 297):
+"A vítima JAMES KELSON RODRIGUES DA SILVA, em Juízo, no dia 17-09-2018, conforme o Termo de Audiência retro (f. 134) dos autos, gravada no DVD-R retro (f. 142), declarou que, no dia dos fatos, estava saindo do seu estágio e indo à pada de ônibus, quando o acusado JUAREZ XAVIER DOS SANTOS se aproximou e tentou puxar sua bolsa, no entanto, não conseguiu, razão pela qual puxou apenas o seu colar e saiu correndo; que as pessoas que estavam próximas começaram a perseguir o assaltante, obtendo êxito em encontrá-lo ainda nas proximidades do local do fato criminoso e em posse do colar subtraído; que acionaram a polícia; que conduziram o acusado à Central de Flagrantes; que procedeu ao reconhecimento do acusado como sendo a pessoa que o roubou; que a todo instante o acusado estava com a mão em baixo da camisa, simulando portar arma, mas que não tem como afirmar se realmente se tratava de arma de fogo."
+Como se vê, a vítima relatou que o agravante arrancou o colar de seu pescoço e que, durante a execução, ficou com a mão embaixo da camisa, simulando portar arma.
+Ora, nota-se claramente que houve emprego de violência contra a vítima, com a retirada do bem á força, bem como que ele empregou ameaça para a consecução do delito.
+Como é cediço, a ameaça que compõe o tipo penal do roubo não é exercida apenas por palavras, mas também por gestos e posturas que possam perturbar a liberdade psíquica da vítima e intimidá-la com o fim de possibilitar a subtração dos bens móveis almejados.
+Assim, devidamente fundamentada a condenação pelo crime de roubo, a alteração do julgado, no sentido de desclassificar a conduta, tal como pleiteado pela Defesa, demandaria necessariamente nova análise dos elementos fáticos e probatórios dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 desta Corte.
+Seguindo, no tocante à atenuante da confissão espontânea, verifica-se que a Corte de origem não a reconheceu porque o agravante não a confirmou em Juízo. Ainda, consignou que a confissão extrajudicial foi qualificada, não servindo para o convencimento do magistrado (e-STJ, fl. 442).
+Todavia, de acordo com a Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha dela se retratar, como ocorrido no caso em análise.
+Acrescente-se que, consoante a jurisprudência desta Corte Superior, "embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial" (HC 396.503/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017).
+Outrossim, a Quinta Turma, no julgamento do REsp n. 1.972.098/SC (DJe de 20/6/2022), concluiu que o réu fará jus à referida atenuante quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada.
+Assim, de rigor o seu reconhecimento.
+Passo, portanto, à nova dosimetria da pena.
+Na primeira fase, as instâncias de origem valoraram negativamente os antecedentes penais e fixaram a pena-base em 4 anos e 8 meses de reclusão, mais 56 dias-multa.
+No ponto, comporta guarida a alegação a Defesa de desproporcionalidade da pena de multa, pois estipulada em patamar diverso do empregado na sanção privativa de liberdade.
+Assim, deve ser reduzida para 12 dias-multa.
+Na segunda etapa, com o reconhecimento da atenuante da confissão espontânea, aplico a pena em 4 anos de reclusão e 10 dias-multa, em atenção à Súmula 231 do STJ.
+Na última etapa, ausentes causas de aumento e de diminuição, torno esta pena definitiva.
+Por fim, mantenho o regime inicial fechado definido na sentença.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b" e "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de reduzir a pena para 4 anos de reclusão e 10 dias-multa.
+Publique-se. Intimem-se.
+ EMENTA
