@@ -1,0 +1,2 @@
+Art. 20-A. Fica o Incra autorizado a considerar beneficiário da reforma agrária quem já tenha sido assentado, mas que por razões sociais ou econômicas teve que se desfazer da posse ou do título, desde que se enquadre como beneficiário da reforma agrária e ocupe e explore a parcela há, no mínimo, 1 (um) ano.
+Parágrafo único. Fica vedada uma terceira obtenção de terras em assentamento de reforma agrária por parte do beneficiário.
