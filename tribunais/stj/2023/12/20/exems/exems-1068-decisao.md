@@ -1,0 +1,10 @@
+DECISÃO
+Em atendimento à decisão que determinou a apuração dos valores remanescentes, a Coordenadoria de Processamento de Feitos em Execução Judicial apresentou, às fls. 1575-1577, parecer e cálculo.
+Intimados, FRANCISCA MARIA DA CONCEICAO RODRIGUES, ALEXANDRE MOTA RODRIGUES, PAULO MOTA RODRIGUES, EDUARDO RODRIGUES NETO e SONIA MARIA CONCEICAO RODRIGUES MACEDO EYHERABIDE, herdeiros habilitados de MARIO MOTA RODRIGUES (fl. 1111), concordaram com a memória de cálculo apresentada (fls. 1586-1588). Autorizaram o decote dos honorários sucumbenciais em favor da advocacia pública e requereram o destaque da verba contratual.
+A UNIÃO também anuiu com a quantia apurada pela CEJU, porém ressalvou que existem "pagamentos judiciais para o exequente MARIO MOTA RODRIGUES, decorrentes da Ação Originária 199734000091735/DF, cujo precatório foi pago em 2014". Pugnou seja declarado o não recebimento de valores referentes ao objeto desta ação.
+É o relatório. Decido.
+De início, considerando a concordância das partes com os valores apurados pela CEJU, homologo os cálculos de fls. 1575-1577.
+No tocante à existência de pagamentos judiciais em favor de MARIO MOTA RODRIGUES, observa-se que a UNIÃO colacionou aos autos o documento de fl. 1595, comprovando a expedição de precatório em favor do de cujus, sem, contudo, apontar o objeto e período a que se refere. Desse modo, por entender que a executada possui maior facilidade de obter informações sobre o referido pagamento e que cabe, a ela, diligenciar no âmbito de outras ações com vistas a evitar o recebimento em duplicidade em período coincidente, determino a intimação da Fazenda Pública para que apresente documentos e informações adicionais relativos ao referido pagamento. Fixo o prazo de 20 dias.
+Vindo aos autos as informações, intimem-se os interessados para que se manifestem a respeito. De outra forma, transcorrido o prazo sem documentação adicional, expeça-se a requisição de pagamento, com destaque de honorários nos termos do contrato de fls. 691-694, observado o decote da sucumbência autorizado às fls. 1586-1588.
+Publique-se. Intimem-se.
+EMENTA
