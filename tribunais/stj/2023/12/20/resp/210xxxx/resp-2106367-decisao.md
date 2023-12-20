@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED SEGURADORA S/A., com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão assim ementado (fl. 365):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE VIDA EM GRUPO - ABUSIVIDADE DA CLÁUSULA QUE EXCLUI INDENIZAÇÃO - DOENÇA DO TRABALHO EQUIPARADA A ACIDENTE DE TRABALHO. INVALIDEZ PARCIAL E PERMANENTE CONFIGURADA -CARACTERIZAÇÃO DA COBERTURA SECURITÁRIA DE INVALIDEZ PERMANENTE DECORRENTE DE ACIDENTE. INDENIZAÇÃO DEVIDA CONFORME O GRAU DE INVALIDEZ - PREVISÃO CONTRATUAL - DEVER DE INFORMAÇÃO DA ESTIPULANTE - TESE FIXADA EM RECURSO REPETITIVO - TEMA 1112. CORREÇÃO MONETÁRIA - TERMO INICIAL - CONTRATAÇÃO SEGURO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+É abusiva a cláusula que exclui da cobertura a invalidez decorrente de debilidade agravada pelo desempenho profissional.
+O Superior Tribunal de Justiça fixou a seguinte tese para o Tema 1.112: (i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre, e (ii) não se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas figuras devem ser consideradas apólices individuais, no que tange ao relacionamento dos segurados com a sociedade seguradora.
+Havendo previsão no contrato quanto à graduação do valor indenizatório de acordo com o grau de invalidez apresentado, e não sendo da seguradora o dever de informação, não é possível impor à requerida o pagamento do valor integral previsto na apólice de seguro.
+Nos termos da Súmula n.º 632, do STJ, a correção monetária sobre a indenização securitária é devida desde a contratação do seguro.
+Os embargos de declaração foram acolhidos apenas para esclarecimento, sem a concessão de efeitos infringentes (fls. 412/422).
+Nas razões do especial, aponta a recorrente violação dos artigos 485, 489 e 1.022 do Código de Processo Civil, bem como dos artigos 757 e 760 do Código Civil, além do dissídio jurisprudencial.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Defende, ainda, que seria vedada a equiparação de doença ocupacional e acidente pessoal, para efeito de cobertura de seguro de acidente de trabalho limitada à invalidez permanente total, tendo em vista a necessidade de interpretação estrita dos termos da apólice.
+Contra-arrazoado (fls. 465/472), o recurso especial foi admitido na origem (fls. 474/480).
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação dos artigos 489 e 1.022 do Código de Processo Civil, observo que o Tribunal de origem consignou, expressamente, que a doença incapacitante apresentada pela segurada teve início durante a vigência do contrato de seguro.
+A propósito, extraio do acórdão recorrido (fls. 376/378):
+Na espécie, o perito médico concluiu que as debilidades apresentadas pela requerente, quais sejam, tendinopatias em cotovelos e punhos, que não esgotaram todos os recursos terapêuticos - CID M65 possuem nexo de causalidade com as atividades laborativas (f. 221-226).  ..
+No que interessa, a invalidez da requerente restou caracterizada em 07.07.2020, portanto, na vigência da apólice de seguro, o que afastada argumento da seguradora recorrente/requerida de ilegitimidade passiva.
+Além disso, as patologias apresentadas nos cotovelos e punhos incluem-se no conceito de acidente pessoal pois agravadas em razão do exercício da atividade profissional, não há como afastar a garantia securitária. (grifo acrescido)
+Como se vê, o Tribunal de origem concluiu, a partir da análise do laudo pericial, que a doença apresentada pela segurada é consequê ncia decorre de pequenos traumas decorrentes do trabalho, de maneira que havendo o nexo causal entre a doença e a atividade desempenhada, fica evidenciado o acidente de trabalho.
+Além disso, pressuposta a ocorrência do sinistro, dentro do período de vigência da apólice contratada, o Tribunal de origem concluiu que seria devida a indenização securitária.
+Dessa forma, como o Tribunal de origem se manifestou expressamente sobre os pontos supostamente omissos, dentro da extensão da matéria a ele devolvida, não há falar-se em omissão ou falta de justificativa adequada, razão pela qual afasto a alegação de contrariedade aos artigos 489 e 1.022 do Código de Processo Civil.
+Por outro lado, no que se refere à alegada violação do artigo 485, VI, do Código de Processo Civil, verifica-se que o Tribunal de origem pressupõe que a ocorrência do acidente pessoal ocorre durante a vigência da apólice contratada.
+A propósito (fl. 377):
+No que interessa, a invalidez da requerente restou caracterizada em 07.07.2020, portanto, na vigência da apólice de seguro, o que afastada argumento da seguradora recorrente/requerida de ilegitimidade passiva.
+Diante desse contexto, para rever o provimento adotado no acórdão recorrido, reconhecendo a ilegitimidade da recorrente, seria imprescindível o reexame de fatos e provas, bem como dos termos da apólice; procedimento, porém, vedado, em razão das Súmulas 5 e 7/STJ.
+Por fim, no que se refere à extensão da cobertura, o Tribunal de origem concluiu que a doença apresentada pela segurada inclui-se no conceito de acidente pessoal, tendo em vista que se trata de microtrauma sofrido no ambiente de trabalho, além de ter sido constatado o nexo causal entre a lesão e o esforço repetitivo por ela exercido.
+A orientação adotada no acórdão recorrido não destoa da jurisprudência desta Corte Superior.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA COLETIVO. MICROTRAUMAS. ENQUADRAMENTO COMO ACIDENTE PESSOAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. ALTERAÇÃO DO GRAU DE INCAPACIDADE E AUSÊNCIA DE COBERTURA CONTRATUAL. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. AGRAVO DESPROVIDO.
+1. "Consoante a jurisprudência do STJ, "os microtraumas sofridos pelo operário, quando exposto a esforços repetitivos no ambiente de trabalho, incluem-se no conceito de acidente pessoal definido no contrato de seguro" (REsp 324.197/SP, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 23/11/2004, DJ 14/3/2005, p. 340)" (AgInt no AREsp 1.565.950/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/04/2020, DJe de 24/04/2020).
+2. Estando a decisão recorrida de acordo com a jurisprudência do STJ, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+3. A análise do contrato de seguro de vida, a fim de verificar a ausência de cobertura da lesão do agravado, bem como alterar seu enquadramento, encontra óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.615.184/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/6/2020, DJe de 15/6/2020.) (grifo acrescido)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO ESPECIAL. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DOENÇA OCUPACIONAL EQUIPARADA A ACIDENTE. COBERTURA. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Conforme jurisprudência do Superior Tribunal de Justiça, "os microtraumas sofridos pelo operário, quando exposto a esforços repetitivos no ambiente de trabalho, incluem-se no conceito de acidente pessoal definido no contrato de seguro" (REsp 324.197/SP, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 23/11/2004, DJ 14/3/2005, p. 340).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.565.950/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/4/2020, DJe de 24/4/2020.) (grifo acrescido)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, conheço em parte do recurso especial para a ele negar provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, devida pela parte recorrente, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
