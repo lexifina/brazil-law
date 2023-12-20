@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de EVERTON VINICIUS STOFELA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que denegou o pedido de liminar formulado no HC n. 0115677-57.2023.8.16.0000.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática dos delitos capitulados nos arts. 171, caput, e 288, caput, todos do Código Penal.
+Defende o impetrante a ausência de justa causa para a persecução penal em razão da atipicidade das condutas imputadas ao paciente, considerando-se que "ingressou na empresa investigada há menos de uma semana (05 dias)", onde ocupava a posição de atendente, e que "acreditava estar trabalhando em um ambiente alinhado e correto" (fl. 11), inexistindo, pois, dolo de causar dano a outrem.
+Sustenta a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea, pois amparada na mera gravidade abstrata do delito, não estando presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Por fim, aduz que revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifico que a prisão tem por base a necessidade de garantia da ordem pública em face da gravidade em concreto dos delitos praticados, bem como do risco de reiteração delitiva em razão de possuir anotações criminais, inclusive pela prática do delito de estelionato. Veja-se:
+Em relação ao periculum libertatis, ou seja, o perigo da permanência do sujeito em liberdade, há elementos aptos a legitimar a prisão para garantir a ordem pública, dado que circunstâncias da espécie indicam que o paciente, junto com os indiciados Deryck Alexandre Arruda da Silva, Diego Emílio Assunção Puka, Eduarda Aline de Souza de Freitas, Higor Farias do Nascimento e Ketly Leandro dos Santo, sob uma empresa criada para "auxiliar serviços financeiros", captavam vítimas que tinham empréstimos em instituições financeiras, normalmente pessoas idosas e elaboravam propostas de renegociação de dívida, prometendo redução no percentual dos juros mensais. No entanto, para a concretização dessa benesse, orientavam as vítimas a assinar documentos e novos contratos de empréstimos, fazendo com que essas fornecessem seus dados pessoais e assinaturas. No entanto, as contatavam para que transferissem dinheiro à "empresa", mediante "pix", sob o fundamento de que devolveriam os valores do novo empréstimo solicitado pelos flagranteados.
+Consoante argumentou o juízo , a quo "trata-se, pois, de comportamento audacioso, destemido, que visava à obtenção de expressiva quantidade de dinheiro. As particularidades demonstram que os flagranteados não agiam sozinhos, tendo estruturado, em tese, uma empresa para dar credibilidade aos. atos ilegais, em princípio, perpetrados. Ademais, nem tampouco tratam de pessoas que iniciaram por agora nesse tipo de empreitada" (mov. 34.1).
+Portanto, além da materialidade delitiva e indícios de autoria estarem evidenciados nos autos, a manutenção da segregação cautelar é necessária como forma de se resguardar a ordem pública, dado que o paciente responde a ação penal por estelionato por conduta similar a destes autos, em tese, praticada neste ano (autos n. 0002740-98.2023.8.16.0196 - 5ª Vara Criminal do Foro Central da Comarca de Curitiba), motivo pelo qual a nova substituição por medidas mais brandas (CPP, art. 319), a princípio, é insuficiente para assegurar a garantia da ordem pública (fl. 21).
+Quanto ao mais, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
