@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE CARLOS DA SILVA PEIXOTO contra decisão proferida pelo Desembargador 2.º Vice-Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul que não admitiu recurso especial interposto nos autos da Apelação Criminal n. 5004121-04.2020.8.21.0073.
+Consta dos autos que o Paciente foi condenado à pena de 2 (dois) anos de detenção, em regime aberto, substituída por duas restritivas de direitos, em razão da prática do crime do art. 302 do Código de Trânsito Brasileiro. Também foi determinada a suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor pelo prazo de 2 (dois) anos.
+Contra a sentença a Defesa interpôs apelação, que não foi provida (fls. 40-49).
+Irresignado, o Paciente interpôs recurso especial, que não foi admitido na origem (fls. 77-83).
+A condenação transitou em julgado em 27/11/2023 (fl. 92).
+Neste habeas corpus, o Impetrante alega que o apelo nobre interposto na origem deveria ter sido admitido. Se insurge contra a incidência dos óbices indicados na decisão que não admitiu o recurso especial (Súmulas n. 284/STF e n. 7/STJ).
+Aduz que houve "ofensa ao princípio da colegialidade e da legalidade, quando da nítida desobediência ao rito processual, do próprio Regimento interno do TRF4" (fl. 9).
+Requer, liminarm ente, seja determinado o "sobrestamento da Ação Penal n.º 5004121-04.2020.8.21.0073, em trâmite perante a Vice-Presidência do E. TJRS, até o julgamento do mérito da presente impetração" (fl. 12).
+No mérito, pugna pela concessão da ordem "para determinar o regular processamento do Recurso Especial, vez que o mesmo não fere as súmulas suscitadas pelo julgador" (fl. 13).
+É o relatório. Decido.
+A impetração não alcança sequer o conhecimento.
+Como é cediço, não é o habeas corpus a via idônea para atacar decisão que inadmitiu recurso especial ou extraordinário, o que deve ser feito mediante a interposição de agravo nos próprios autos. É oportuno registrar que a decisão prolatada naqueles autos não foi oportunamente impugnada, ocorrendo o trânsito em julgado em 27/11/2023.
+Confiram-se, por oportuno, os seguintes precedentes:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. MANEJO DO WRIT PARA REEXAMINAR OS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS ESPECIAL E EXTRAORDINÁRIO INTERPOSTOS NA ORIGEM. IMPOSSIBILIDADE. AUSÊNCIA DE FUNDAMENTOS A INFIRMAR A DECISÃO AGRAVADA.
+1. O manejo, portanto, de habeas corpus com o desiderato único e exclusivo de (re)discutir os pressupostos de admissibilidade dos recursos ditos extraordinários não encontra guarida na legislação de regência, tampouco o é autorizado pela jurisprudência, tanto desta Corte quanto do Supremo Tribunal Federal (AgRg no HC n. 438.020/RN, Sexta Turma, Ministro Antonio Saldanha Palheiro, DJe 9/4/2018).
+2. Agravo regimental improvido." (AgRg no HC n. 793.516/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 06/03/2023, DJe de 10/03/2023; sem grifos no original.)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. SUBSTITUTIVO DE AGRAVO EM RECURSO EXTRAORDINÁRIO E ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE. DESCABIMENTO DO MANDAMUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O manejo, portanto, de habeas corpus com o desiderato único e exclusivo de (re)discutir os pressupostos de admissibilidade dos recursos ditos extraordinários não encontra guarida na legislação de regência, tampouco o é autorizado pela jurisprudência, tanto desta Corte quanto do Supremo Tribunal Federal. A parte deveria ter se valido do recurso de agravo, meio idôneo para tal mister, consoante previa o art. 544 do CPC/1973 (AgRg no HC n. 438.020/RN, Sexta Turma, Ministro Antonio Saldanha Palheiro, DJe 9/4/2018)" (AgRg no HC n. 449.748/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/6/2018).
+2. Agravo regimental desprovido." (AgRg nos EDcl no HC n. 757.850/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 09/08/2022, DJe de 16/08/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ATO COATOR: DECISÃO DE ADMISSIBILIDADE DE RECURSO ESPECIAL. TESE DE QUE A INSURGÊNCIA DO ÓRGÃO ACUSATÓRIO SERIA INTEMPESTIVA. AUSÊNCIA DE PREVISÃO LEGAL OU RAZOABILIDADE PARA SE REALIZAR O JUÍZO DE ADMISSIBILIDADE DE UM RECURSO ESPECIAL NO ÂMBITO DE UM PEDIDO DE HABEAS CORPUS. DECIS ÃO POSITIVA DE ADMISSIBILIDADE DA INSTÂNCIA DE ORIGEM QUE NÃO VINCULA O JULGAMENTO DA INSTÂNCIA DE DESTINO. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na sistemática que vigia sob o CPC/73, e que foi restaurada no CPC/15 pela Lei n. 13.256/2016, à instância de origem compete examinar previamente a admissibilidade do apelo nobre, mas esse crivo não vincula o juízo a ser feito por esta Corte de destino, o qual terá caráter definitivo, ao menos em princípio, a respeito do conhecimento da insurgência que lhe é submetida.
+2. O objetivo prático de realizar juízo de admissibilidade de um recurso especial no âmbito de um pedido de habeas corpus não deve prevalecer, seja à luz da disciplina do recurso especial, segundo a qual a sua admissibilidade é analisada nos seus próprios autos, previamente pela instância de origem, e definitivamente pela instância de destino, seja à luz da jurisprudência capitaneada pelo STF a respeito da restrição ao cabimento do remédio heróico.
+ ..
+5. Agravo regimental não provido." (AgRg no HC n. 370.903/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02/02/2017, DJe de 10/02/2017; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO UTILIZADA PARA ATACAR DECISÃO QUE INADMITIU RECURSO ESPECIAL. VIA INADEQUADA. PRECEDENTES. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
