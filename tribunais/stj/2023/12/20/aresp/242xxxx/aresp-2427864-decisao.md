@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interposto por ARAUCARIA TRANSPORTE COLETIVO LTDA. contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"RESPONSABILIDADE CIVIL. TRANSPORTE DE PASSAGEIROS. ACIDENTE DE CONSUMO. LESÕES CORPORAIS SOFRIDAS PELA AUTORA AO PULAR PELA JANELA DO ÔNIBUS EM QUE ERA TRANSPORTADA AO PERCEBER FUMAÇA NO INTERIOR DO VEÍCULO E PENSAR EXISTIR RISCO DE INCÊNDIO. DANO MORAL E DANO ESTÉTICO. VALOR DAS INDENIZAÇÕES. JUROS DE MORA. TERMO INICIAL. INDEXADOR DA CORREÇÃO MONETÁRIA. HONORÁRIOS DE ADVOGADO DEVIDOS PELA DENUNCIADA. APELAÇÕES PROVIDAS EM PARTE" (e-STJ fl. 893).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 932/934).
+No especial (e-STJ fls. 932/958), a recorrente aponta violação dos artigos 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil e 186, 738 e 927 do Código Civil.
+Aduz que o aresto recorrido incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito de que a recorrida não observou as normas estabelecidas pelo transportador, tendo em vista que o motorista adotou a conduta adequada para a situação e o mecanismo para acionar a saída de emergência pelas janelas funcionou perfeitamente, de modo que deve ser reconhecida a culpa exclusiva da vítima ou a concorrência de culpas.
+Afirma que também foi ignorado os argumentos suscitados em relação à indenização por danos morais, referentes ao grau de culpa do ofensor para mensurar o valor indenizatório e o fato de a recorrida ter demorado para propor a presente ação.
+Sustenta que
+"(..) ficou inequivocamente demonstrado que ocorrendo uma inesperada falha mecânica, o motorista adotou a conduta adequada para aquela situação e o mecanismo para acionar a saída de emergência pelas janelas funcionou perfeitamente, sendo evidente que os passageiros foram tomados de um desespero desnecessário ao quebrar uma das janelas e foi justamente por esta razão que a recorrida sofreu um corte no braço" (e-STJ fl. 955).
+Assevera que a parte autora "(..) somente sofreu a lesão por não ter seguido adequadamente as orientações do motorista quanto ao desembarque do coletivo, restando configurada a culpa exclusiva da vítima" (e-STJ fl. 956).
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 975/991), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, no tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto às questões ditas omissas, conforme se verifica dos seguintes trechos do acórdão que apreciou os declaratórios:
+"(..)
+Acerca da responsabilidade civil, o acórdão consignou que a ré deve responder por descumprir o dever de incolumidade dos passageiros do ônibus, independente da culpa do motorista ou de seus prepostos que não realizaram manutenções frequentes ou as realizaram de forma imprópria. Destacou-se que a parte autora e os demais passageiros que se machucaram ao pular pelas janelas não concorreram para os danos.
+Com relação ao valor do dano moral, o decisum mencionou o julgamento da Apelação Cível n. 1.655.985-6, estabeleceu uma correlação com o caso da autora e majorou o valor para R$ 15.000,00 (quinze mil reais)" (e-STJ fl. 934).
+Como se vê, o Tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+É cediço que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+No mais, trata-se, na origem, de ação indenizatória ajuizada por Hanne Lise Chaves em desfavor de Araucária Transporte Coletivo Ltda. objetivando reparação por danos materiais, morais e estéticos suportados ao evadir do ônibus pela janela após este ter apresentado fumaça preta e densa na parte traseira, o que lhe causou um profundo corte no braço, resultando em uma extensa cicatriz.
+Consta dos autos que os passageiros, tomados pelo desespero, aglomeraram-se na parte frontal do veículo e, mesmo após muitas solicitações, o motorista do ônibus não abriu as portas para que os passageiros desembarcassem. Por conta disso, algumas pessoas tentaram abrir as janelas de emergência que, contudo, estavam emperradas, de modo que tiveram que quebrar uma das janelas para possibilitar a saída.
+O magistrado de primeiro grau de jurisdição julgou os pedidos procedentes para condenar solidariamente a ré, ora recorrente, e a seguradora ao pagamento de
+"(..)
+a) indenização a título de danos materiais no importe de R$303,63 (seq. 1.22/1.27);
+b) indenização a título de danos morais no importe de R$ 5.000,00 (cinco mil reais);
+c) indenização a título de danos estéticos no importe de R$5.000,00 (cinco mil reais)" (e-STJ fl. 704).
+O Tribunal local, mantendo a referida sentença, deu provimento ao apelo da autora para majorar os danos morais no montante de R$ 15.000,00 (quinze mil reais).
+Sobre o tema, nos termos da jurisprudência desta Corte, a responsabilidade civil do transportador é objetiva, ou seja, este deverá responder pelos danos causados às pessoas transportadas e suas bagagens, salvo a existência de alguma excludente de responsabilidade, como motivo de força maior, caso fortuito, culpa exclusiva da vítima ou de terceiro.
+A Segunda Seção deste tribunal traçou orientação no sentido de que o ato de terceiro que seja doloso ou alheio aos riscos próprios da atividade explorada, é fato estranho à atividade do transportador, caracterizando-se como fortuito externo, equiparável à força maior, rompendo o nexo causal e excluindo a responsabilidade civil do fornecedor (EREsp 1.318.095/MG, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 22/2/2017, DJe 14/3/2017).
+Contudo, de acordo com os contornos fáticos encartados nos autos, a atitude da recorrida não se enquadra no caso de fortuito externo, conforme demonstra a leitura das seguintes passagens do voto condutor do acórdão:
+"(..)
+i) A autora não pulou pela janela por pular. Havia uma situação de risco à sua saúde - intoxicação pela fumaça - e que incutiu nela e nos demais passageiros, tanto assim que todos correram para a parte da frente do ônibus e alguns também saíram pelas janelas quebradas, o justo receio, porque havia fumaça, da iminência de um incêndio. Ou seja: o seu ato não pode ser desvinculado do que a ré provocou.
+ii) O seu ato não foi destemperado, tresloucado, mas se justificava pelas circunstâncias presentes naquele momento - fumaça, suspeita de um incêndio, setenta pessoas dentro de um ônibus, reação coletiva (desespero e busca de uma saída) e falta de um local adequado para os passageiros, vendo-o, acalmarem-se e buscarem uma saída ordenada - uma porta com largura de um metro não comportaria a evacuação imediata de setenta pessoas. A iniciativa da autora, sugerida pelo coletivo (alguém quebrou as janelas e alguns pularam por elas para fora do ônibus), era, então, a esperada, a que qualquer pessoa mediana tomaria.
+Imputar à autora parcela de responsabilidade pelo que sucedeu constitui grave erro de perspectiva das coisas humanas e do Direito.
+Enfim, resumindo e concluindo: a ré deve responder porque descumpriu o dever de incolumidade dos passageiros do ônibus, independentemente de culpa do motorista ou de seus prepostos que não realizaram manutenções frequentes ou as realizaram, mas de forma inadequada descuidando-se da turbina do motor. A autora e os outros passageiros que se machucaram ao pular pelas janelas não concorreram para os danos.
+Por fim: há nos autos referência, dada pela prova testemunhal, que as janelas foram quebradas porque a alavanca da janela de emergência travara; os passageiros não conseguiram acioná-la" (e-STJ fls. 899/900).
+Assim, estando de acordo com a jurisprudência desta Corte Superior, incide ao ponto a Súmula nº 83/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. TRANSPORTE DE PASSAGEIROS. ACIDENTE. QUEDA DA AGRAVADA. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. INDENIZAÇÃO. VALOR RAZOÁVEL E PROPORCIONAL. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A parte recorrente realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial.
+Decisão da Presidência do STJ reconsiderada.
+2. A Segunda Seção do Superior Tribunal de Justiça firmou entendimento no seguinte sentido: "compreende-se na responsabilidade objetiva do transportador "pelo acidente com o passageiro", qualquer acontecimento casual, fortuito, inesperado inerente à prestação do serviço de transporte de pessoas, ou seja, acidente que tenha nexo causal com o serviço prestado, ainda que causado por terceiro, desde que caracterize o denominado fortuito interno" (REsp 1.833.722/SP, Relator Ministro RAUL ARAÚJO, Segunda Seção, julgado em 3/12/2020, DJe de 15/3/2021).
+3. No caso, o Tribunal consignou que as lesões de ordem física e moral decorrentes da queda ocorrida entre o vão da plataforma e o coletivo da concessionária ocorreram em razão da enorme aglomeração de pessoas usuárias do serviço de transporte. Tal situação constitui fortuito interno, incapaz de romper o nexo causal. Incidência da Súmula 83/STJ.
+4. No caso dos autos, o dano moral foi fixado em R$ 5.000,00 (cinco mil reais), valor que se mostra razoável e proporcional às circunstâncias do caso concreto, mormente porque o acidente causou à vítima dor, sofrimento e lesões físicas que muito superam o mero aborrecimento da vida cotidiana.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.350.602/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023)
+Se não bastasse, a verificação da procedência dos argumentos expendidos no recurso obstado exigiria por parte desta Corte o reexame de matéria fática, procedimento vedado na estreita via do recurso especial, consoante entendimento da Súmula nºs 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE ANIMAL. EMPRESA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RESPONSABILIDADE OBJETIVA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "As pessoas jurídicas de direito privado prestadoras de serviço público - concessionárias e permissionárias - respondem objetivamente pelos danos causados a terceiros" (AgRg no AREsp 16.465/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/4/2014, DJe 2/5/2014).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, o Tribunal de origem se baseou nas circunstâncias fáticas dos autos para concluir que foi comprovada a omissão da concessionária, devido à ausência de fiscalização regular da pista de rolamento.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 838.337/PR, Relator Ministro Antonio Carlos Ferreria, Quarta Turma, julgado em 2/8/2016, DJe de 9/8/2016)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para 18% (dezoito por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
