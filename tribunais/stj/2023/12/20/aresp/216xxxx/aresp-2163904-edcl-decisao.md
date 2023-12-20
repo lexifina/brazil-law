@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FARMOQUÍMICA S.A. contra decisão em que conheci do agravo para não conhecer do recurso especial, em razão da ausência de ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, bem como pela impossibilidade de exame de matéria constitucional.
+A parte embargante alega que (e-STJ fls. 433/434):
+19. Tal como amplamente exposto pela Embargante em seu Recurso Especial, o v. acórdão proferido pelo E. TRF2 incorreu em omissão, nos termos do art. 1.022, II, do CPC/15, ao deixar de analisar a controvérsia à luz de fundamentos essenciais para o julgamento da demanda, quais sejam:
+(a) à previsão contida no art. 4º, II, do CTN, de que a destinação das receitas é irrelevante para a definição do tributo, de modo que a CPRB é definida pelo seu fato gerador, e sendo um tributo sobre a receita (tal qual o PIS/COFINS), consequentemente, está sujeita ao regime da não-cumulatividade;
+(b) ao fato de que as únicas exceções à não-cumulatividade das contribuições sobre a receita bruta estão previstas no art. 8º da Lei nº 10.637/2002 e o art. 10 da 10.833/2003, desse modo, as receitas que não se enquadrem nessas exceções estão sujeitas ao regime não-cumulativo;
+(c) ao fato de que a revogação do § 13 do art. 195 da Constituição Federal, pelo art. 35 da EC 103/2019, não teria qualquer efeito prático se a CPRB não fosse não-cumulativa (e fosse necessária lei específica para torná-la não-cumulativa); e
+(d) à perda de receita acarretada pelo aproveitamento de créditos da CPRB, que foi compensada com a majoração da alíquota do IOF (exposição de motivos da Lei nº 12.546/2011), por meio do Decreto nº 7.458/2011, tendo em vista que a Lei de Responsabilidade Fiscal (LC 101/2000) prevê a compensação.
+20. Com a devida vênia, ainda que o v. acórdão recorrido não esteja obrigado a enfrentar todos os fundamentos expostos pela Embargante, não se pode permitir que haja a compreensão inadequada a lide, pela ausência de apreciação dos fundamentos determinantes da controvérsia, bem como pela utilização de precedentes inaplicáveis ao caso concreto, sob pena de persistir a ofensa aos arts. 489, § 1º, IV e 1.022, caput, II, e parágrafo único, II, todos do CPC/15, tal como reiteradamente reconhecido por este A. STJ.
+Sem impugnação.
+Passo a decidir.
+No caso, não se verifica o vício apontado, pois a decisão embargada está clara no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acolhendo a tese defendida pelo recorrente.
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Dessa forma, correta a rejeição dos embargos de declaração, ante a inexistência de omissão, contradição ou obscuridade a ser sanada, e, por conseguinte, deve-se concluir pela ausência de ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015.
+Ademais, ressalta-se que o fundamento do acórdão regional impede a análise do recurso especial, visto que a modificação do julgado implicaria necessariamente a reapreciação da matéria constitucional por esta Corte - art. 195 da Constituição Federal -, o que é inviável sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
