@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de SERGIO HENRIQUE PETSCH PAES - preso preventivamente, desde 23/7/2023, pela prática, em tese, do crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça do Paraná (Habeas Corpus n. 0110798-07.2023.8.16.0000), não comporta processamento.
+Com efeito, busca a impetração o relaxamento da prisão cautelar imposta ao paciente pelo Juízo de Direito da Vara Criminal e Anexos do Foro Regional de Paiçandu da comarca de Maringá /PR (Autos n. 0006627-04.2023.8.16.0160), ao argumento de excesso de prazo para a formação da culpa, pois ainda ausente de previsão a conclusão da perícia técnica.
+Ocorre que, conforme informações constantes dos autos e em consulta à página eletrônica do Tribunal de Justiça do Paraná, além de não se observar desídia do Judiciário no impulsionamento do feito, tendo a prisão sido revista e mantida em 25/10/2023, a audiência de instrução e julgamento já foi realizada  ..  estando o feito aguardando a remessa do laudo de extração de dados do celular apreendido. Aliás, registre-se que a agente ministerial, na manifestação de mov. 161.1, requereu "que a Polícia Científica do Estado do Paraná decline uma data provável para apresentação da perícia, haja vista tratar-se de processo de réu preso, havendo a necessidade de se avaliar a possibilidade ou não do aguardo da resposta almejada" (mov. 161.1), o que já foi determinando pelo juiz, com fixação de prazo para o encaminhamento da resposta (mov. 169.1) - (fls. 10/11 - grifo nosso), razão pela qual inexiste o alegado constrangimento.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. PRISÃO EFETUADA EM 23/7/2023. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO REALIZADA. DESÍDIA DO JUDICIÁRIO. AUSÊNCIA.
+Inicial indeferida liminarmente.
