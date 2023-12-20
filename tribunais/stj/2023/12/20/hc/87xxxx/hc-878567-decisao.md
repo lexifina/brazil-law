@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de LINDOBERTO SILVA DE CASTRO, apontando como autoridade coatora a JUSTIÇA FEDERAL DE 1ª INSTÂNCIA NO CEARÁ.
+No presente writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Paciente; apontando a ocorrência de excesso de prazo.
+Aduz que:
+"o Paciente está custodiado, sem culpa formada, desde o ano de 2015, ou seja, há mais de 08 (oito) anos" (fl. 9).
+Defende a necessidade de extensão, ao Paciente, dos efeitos da decisão que beneficiou Corréu.
+Requer a substituição da segregação cautelar por medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+De plano se percebe a incompetência deste Sodalício para o apreço deste writ, uma vez que toda a irresignação encontra-se assentada apenas na manifestação de Juízo de primeiro grau, haja vista que não há nos autos qualquer decisão da Corte local examinando a controvérsia.
+Vale dizer, falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, "c", da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz de primeiro grau.
+Nesse sentido, a título ilustrativo:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. POSSE DE ARMAS DE FOGO DE USO RESTRITO. PREVENTIVA. WRIT MAL INSTRUÍDO. ACÓRDÃO NÃO JUNTADO AOS AUTOS. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA NÃO INAUGURADA. ART. 105, INCISO I, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO NÃO PROVIDO.
+1. O habeas corpus foi liminarmente indeferido porque impetrado sem a documentação necessária à solução da controvérsia, na medida em que o impetrante não juntou cópia do inteiro teor do acórdão "meritório" impugnado.
+2. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do ventilado constrangimento ilegal suportado, providência não efetivada neste caso.
+3. "A teor do art. 105, inciso I, "c", da Constituição Federal, o Superior Tribunal de Justiça não possui atribuição para julgar habeas corpus impetrado diretamente contra ato de juiz" (AgRg no HC 773.723/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+4. Agravo regimental desprovido" (AgRg no HC n. 848.024/SP, Quinta Turma, Rel. Min. João Batista Moreira (Desembargador Convocado do TRF1), DJe de 13/11/2023).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PRETENSÃO QUE VISA AO RECAMBIAMENTO DO APENADO. IMPETRAÇÃO CONTRA ATO DE JUIZ DE DIREITO. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 105, INCISO I, ALÍNEA C, DA CONSTITUIÇÃO FEDERAL. QUESTÃO NÃO APRECIADA PELO COLEGIADO DE SEGUNDO GRAU. IMPOSSIBILIDADE DE, ESTA CORTE, EXAMINAR A CONTROVÉRSIA PER SALTUM. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não compete a este Superior Tribunal de Justiça julgar, originariamente, o habeas corpus impetrado contra ato de Juiz de Direito, conforme preceitua o art. 105, inciso I, alínea c, da Constituição da República.
+2. A questão referente à nulidade da decisão que renovou a permanência do paciente no sistema penitenciário federal não foi objeto de prévio debate no âmbito do Tribunal de origem, razão pela qual se afigura incabível o exame da matéria de forma originária, por esta Corte, sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido" (AgRg no HC n. 814.202/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2023).
+Observa-se que não há nos autos qualquer decisão ou acórdão proferido pelo Tribunal a quo.
+Ante o exposto, com fulcro no art. 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intime-se.
+EMENTA
