@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 368, e-STJ):
+APELAÇÃO CÍVEL. Ação pelo procedimento comum, com pedidos de obrigação de fazer e indenização por dano moral. Direito do Consumidor.
+Plano de saúde coletivo, por adesão, cancelado, sem prévia notificação.
+Sentença de improcedência. Insurgência da autora. Ausência de aviso prévio da segurada anteriormente ao cancelamento do contrato, por motivo de inadimplência, em contrariedade ao disposto no artigo 13, parágrafo único, inc. II, da Lei nº 9.656/1998. Aplicabilidade do artigo 7º, parágrafo único, do CODECON. Falha no serviço prestado pela ré, a ocasionar inegável dano moral. Indenização civil que ora se arbitra em R$5.000,00 (cinco mil reais).
+Precedentes. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 186, 187 e 927 do Código Civil.
+Assinala que o cancelamento do plano de saúde se deu de forma lícita, como preveem a lei e a jurisprudência do Superior Tribunal de Justiça. Argumentou, subsidiariamente, que o valor da compensação por danos morais arbitrada pelo Tribunal de origem é exorbitante, devendo ser reduzida.
+Foram apresentadas contrarrazões às fls. 392/395, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+De início, com relação à tese de regularidade do cancelamento do plano de saúde, observo que a parte ora recorrente não indicou os dispositivos de lei federal que teriam sido violados pelo Tribunal de origem. Essa situação configura deficiência na fundamentação e atrai, assim, o óbice da Súmula 284/STF.
+O Tribunal de origem, ao analisar a controvérsia, entendeu que o cancelamento do plano de saúde da segurada, sem a sua prévia notificação, causou-lhe danos morais, sendo devida a fixação de compensação, por esse motivo, no valor de cinco mil reais (fls. 369/374, e-STJ):
+3. Tal como relatado, cinge-se a controvérsia à verificação da responsabilidade da ré pelo cancelamento do plano de saúde da autora, sem aviso prévio.
+4. A sentença julgou improcedente a pretensão autoral, por não vislumbrar qualquer ato ilícito praticado pelo réu, tampouco lesão a direito da personalidade capaz de ensejar compensação por danos morais, visto que o demandado trouxe à defesa comprovação de que o plano é empresarial e que não tem a obrigação de notificar diretamente a autora, não configurando o cancelamento do plano, no caso, exercício abusivo de direito; ressaltando, ainda, que a inicial reconhece o inadimplemento de parcela, insurgindo-se tão somente em relação a ausência de notificação, argumento que, no decorrer da instrução, não se confirmou (fl. 315).
+5. Ora, o fato de o plano ser coletivo não desobriga a operadora de notificar previamente a autora, porquanto, a solidariedade prevista no artigo 7º, parágrafo único, do Código de Defesa do Consumidor, no resguardo da parte mais vulnerável da avença implica na responsabilização de todos os integrantes (fornecedores atuantes) da cadeia de consumo. No mesmo sentido:
+(..)
+6. Nesse contexto, ante o atraso de cerca de quinze dias no pagamento da mensalidade, cabia à ré, operadora do plano, realizar a notificação prévia do segurado sobre a suspensão do contrato, na forma do artigo 13, parágrafo único, inciso II, da Lei nº 9.656/1998, a fim de privilegiar o princípio da sua conservação; sendo certo, ademais, que as cláusulas limitativas ou obstativas das obrigações assumidas pelas seguradoras de saúde devem ser interpretadas à luz da boa-fé contratual, e de maneira mais favorável ao consumidor (artigo 47 do CODECON).
+7. Caracterizada, pois, a falha na prestação do serviço, a ensejar condenação ao pagamento de indenização a título de dano moral, em virtude do descredenciamento dos usuários do plano de saúde, sem prévia notificação, impondo-lhes inegável situação de vulnerabilidade, no que respeita à assistência médica e/ou hospitalar.
+8. Consideradas tais premissas, fixo o valor da indenização em R$5.000,00 (cinco mil reais), eis que condizente com os critérios da razoabilidade e proporcionalidade, encontrando-se, inclusive, no patamar usualmente adotado nesta Corte Estadual, em casos assemelhados:
+(..)
+9. Pelo exposto, DÁ-SE PARCIAL PROVIMENTO ao recurso, para condenar a ré ao pagamento de indenização, a título de dano moral, no valor de R$5.000,00 (cinco mil reais), acrescido de correção monetária, desde a publicação desta decisão, e de juros de mora, a contar da citação, bem como, ao pagamento das custas judiciais e honorários advocatícios de sucumbência, estes ora fixados em 10% (dez por cento) sobre o valor da condenação.
+Ressalto não prosperar a pretensão de redução do valor dos danos morais.
+Com efeito, de acordo com a jurisprudência do STJ, em regra, não cabe, em recurso especial, a revisão do montante dessa espécie de compensação, por conta do óbice da Súmula 7/STJ, que veda o reexame de provas. Apenas em casos excepcionais, quando identificada a estipulação de valores exagerados ou irrisórios, incompatíveis com os princípios da proporcionalidade e da razoabilidade, é possível tal revisão.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. PEDIDO DE REDUÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 20.000,00 (vinte mil reais), nem é exorbitante nem desproporcional às peculiaridades do caso concreto, em que o dano moral decorreu da inscrição indevida do nome da parte ora agravada em cadastro de inadimplentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 681.942/SC, Relator o Ministro Raul Araújo, DJe de 15/9/2015).
+No caso, em que a compensação foi fixada em R$ 5.000,00 (cinco mil reais), entendo bem observados os padrões de razoabilidade e proporcionalidade, não se configurando situação cuja excepcionalidade justifique a intervenção do STJ.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
