@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por CASA DE SAÚDE SANTA THEREZINHA LTDA. contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 7/STJ (e-STJ fls. 2.502/2.510).
+O acórdão recorrido está assim ementado (e-STJ fls. 2.198/2.200):
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. ERRO MÉDICO. CIRURGIA QUE GEROU CHOQUE SÉPTICO E SEPSE URINÁRIA LEVANDO A ÓBITO O FILHO DOS AUTORES. SENTENÇA DE PARCIAL PROCEDENCIA QUE CONDENOU OS RÉUS, SOLIDARIAMENTE, AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE 242.400,00 A CADA UM DOS AUTORES, COM CORREÇÃO MONETÁRIA DA DATA DA SENTENÇA E JUROS DE 1% AO MÊS A CONTAR DA DATA DO ÓBITO. IRRESIGNAÇÃO DAS PARTES.
+1- A matéria devolvida pelos recursos engloba, pela parte autora: a) a necessidade de produção de pericias contábil e psicológica b) o pedido de pensionamento; b) o pagamento do tratamento psicológico; c) o ressarcimento das despesas de luto e funeral; d) a majoração dos honorários de advogado para 20% o valor da condenação. Por parte dos réus, a matéria devolvida cinge-se a aferição de suas responsabilidades, bem como a quantificação dos danos morais e os termos de atualização monetária.
+2- Comprovada a dependência financeira entre os genitores autores e o filho, fazendo jus ao pensionamento. Desnecessidade de produção de perícia contábil para este fim, uma vez que a prova documental é suficientemente apta a comprovar eventual dependência econômica.
+3- Provas nos autos que demonstram que renda familiar declarada pelos autores, equivalente a R$ 7.480,19 ( sete mil e quatrocentos e oitenta reais e dezenove centavos) engloba a pensão previdenciária que recebem, também em razão da morte do filho, no valor de R$ 5.017,53.
+4- No que tange à possibilidade de cumulação da pensão previdenciária por morte e pensão por morte em razão de ilícito civil, é entendimento majoritário de que, face à diferença da natureza jurídica dos institutos, não há óbice.
+5- Desnecessária, também, realização de perícia para aferir necessidade de tratamento psicológico, uma vez que a ação foi proposta 5 anos após o evento danoso, de forma que, caso houvesse necessidade de tratamento psicológico, os autores já o teriam realizado, bastando trazer aos autos a comprovação das despesas gastas a fim de obter o devido ressarcimento.
+6- Quanto ao dano psicológico, procedente o pedido de dano moral, nele está englobado o abalo psicológico sofrido pelos autores em razão do evento danoso, visto que se confundem, sendo ambos espécies de dano extrapatrimonial, não prosperando a pretensão autoral de obter indenização independente sob esta rubrica.
+7- Devidas as despesas de funeral, que são presumidas, com base no art. 948, I do C.C., cujo valor deverá ser apurado em liquidação de sentença.
+8- Quanto aos recursos dos réus, verifica-se que restaram caracterizados os pressupostos da responsabilização civil. Demonstração de culpa e de nexo causal.
+9- Em casos de erro médico, como o dos autos, a prova pericial assume especial importância para dirimir a controvérsia e caracterizar os elementos da responsabilização civil. Laudo pericial que foi categórico no sentido de que o óbito do paciente tem relação direta com a cirurgia realizada pelo primeiro réu, bem como a posterior evolução clínica, e a avaliação da equipe da segunda ré.
+10- Dano moral configurado. Valor arbitrado de R$ 242.400,00 (200 salários mínimos) para cada autor que se mostra em conformidade com a média de casos análogos, bem como em face ao grau da ofensa, além de se encontrar em perfeita consonância com o princípio da proporcionalidade e com as circunstâncias específicas do caso concreto, uma vez que os autores perderam seu único filho vítima de erro médico, sendo evidentes as consequências e as repercussões psicológicas permanentes em suas vidas.
+11- Quanto aos consectários legais da condenação por danos morais, também não merece reparo a sentença, eis que não há relação contratual entre os genitores da vítima e os réus, de forma que os juros devem incidir a partir do evento danoso.
+12- Majoração dos honorários advocatícios em grau recursal.
+13- RECURSOS CONHECIDOS. PROVIDO PARCIALMENTE O RECURSO DOS AUTORES. NEGADO PROVIMENTO AOS RECURSOS DOS RÉUS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.290/2.295).
+Nas razões do recurso especial (e-STJ fls. 2.314/2.334), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 85, §§ 2º e 8º, 156, 371, 479 e 1.022, II, do CPC/2015; 186, 188, I, 927 e 944, parágrafo único, do CC/2002, e 2º, 3º, 14, § 3º, I e II, e § 4º, 25, § 1º, e 34 do CDC.
+Alegou que o Tribunal de origem não teria sanado as omissões apontadas nos embargos de declaração. Afirmou que teria disponibilizado toda infraestrutura e equipamentos sem vício ou defeito no serviço, sendo equivocado reconhecer-se responsabilidade entre médico, hospital e plano de saúde. Sustentou não ter agido com culpa e, ainda que se trate de responsabilidade objetiva, os fatos constitutivos do direito do autor, bem como o nexo de causalidade e o efetivo dano deveriam ter sido comprovados. Destacou que, se não houve a prática de ato ilícito causador de dano moral, não pode ser condenada a pagar indenização. Acrescentou que o valor arbitrado é exorbitante, devendo ser revisto. Registrou que os juros de mora devem incidir desde o arbitramento. Asseverou que os honorários deveriam ter sido arbitrados por equidade.
+Foram apresentadas contrarrazões.
+No agravo (e-STJ fls. 2.597/2.610), declara a presença de todos os requisitos de admissibilidade do especial.
+Com contraminutas.
+É o relatório.
+Decido.
+De início, não verifico ofensa ao art. 1.022 do CPC/2015.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Na verdade, sob o pretexto de ver sanado suposto vício, pretende a parte recorrente a reforma da decisão. Contudo, o simples fato de ser contrária a seus interesses não configura vício de fundamentação.
+A alegação de que os juros de mora devam incidir desde o arbitramento não se fez acompanhar de dispositivo legal violado. Assim, por deficiência na fundamentação, incide a Súmula n. 284/STF.
+Quanto à questão de fundo, o Tribunal de origem decidiu que (e-STJ fls. 2.212/2.213):
+ ..  a perícia concluiu que o óbito teve relação direta tanto com o procedimento cirúrgico realizado pelo 1º réu quanto com o pós-operatório realizado pelo 1º réu e pela equipe da 2º ré. (fls. 1513, 1675/1676), não trazendo os demandados aos autos quaisquer elementos aptos a infirmar a conclusão do expert.
+Verifica-se, portanto, que restaram caracterizados os pressupostos da responsabilização civil dos réus, de forma que o dano moral é evidente.
+ ..
+No caso em tela, o pior dos resultados danosos aconteceu, com a morte do paciente, gerando um sofrimento intenso e sem fim aos genitores da vítima.
+Assim, em conformidade com a média de valores arbitrados em casos análogos, bem como em face ao grau da ofensa, o valor fixado na sentença de R$ 242.400,00 (200 salários mínimos) para cada autor se encontra em perfeita consonância com o princípio da proporcionalidade, além de ajustado às circunstâncias específicas do caso concreto, a gravidade do fato em si, uma vez que os autores perderam seu único filho vítima de erro médico com resultado morte, sendo evidentes as consequências e as repercussões psicológicas permanentes em suas vidas.
+O TJRJ, após exame do acervo fático-probatório dos autos, concluiu pela responsabilidade da casa de saúde, uma vez que o óbito teria decorrido também do serviço de pós-operatório prestado por sua equipe.
+Decidir de outro modo implicaria revisão de fatos e provas, o que é incabível no especial, por força da Súmula n. 7/STJ.
+Do mesmo modo, no que se refere ao valor da indenização, a jurisprudência deste Tribunal Superior somente permite a alteração do montante arbitrado na origem em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a importância fixada. Isso porque a revisão dessa quantia demandaria nova análise das provas, o que, repito, é vedado em recurso especial, a teor do disposto na Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+ ..
+2. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais e estéticos pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, que não é o caso dos autos. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.150.200/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2022, DJe de 4/11/2022.)
+No caso dos autos, a quantia arbitrada não se mostra excessiva a justificar a reavaliação por esta Corte.
+Por fim, as regras de arbitramento dos honorários advocatícios sucumbenciais estão previstas no art. 85, § 2º, do CPC/2015, sendo certo que tais normas aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito (§ 6º).
+Apenas nos casos "em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo" (art. 85, § 8º), a referida verba pode ser arbitrada por apreciação equitativa. Nessa hipótese, o magistrado não fica adstrito aos limites percentuais estabelecidos pelo novo CPC.
+A matéria foi objeto de julgamento pela Corte Especial do STJ em sede de recurso especial repetitivo (Tema n. 1.076), fixando-se as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso em apreço, o Tribunal de origem manteve a sentença que arbitrou os honorários advocatícios em percentual sobre a condenação, nos termos do art. 85, § 2º, do CPC/2015, estando, portanto, em sintonia com a jurisprudência desta Corte.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
