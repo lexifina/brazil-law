@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 270):
+Apelação. Cobrança. Arrendamento mercantil. Correção monetária do VRG pago desde cada desembolso, assim como do VRG contratado. Necessidade. Recomposição do poder aquisitivo da moeda que deve ser considerado para ambas as partes. Comprovação do valor da alienação do bem. Recibo de venda produzido unilateralmente pelo réu. Ausência de prova idônea. Precedente. Utilização da Tabela Fipe. Possibilidade. Recursos parcialmente providos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 282/285).
+Nas razões do recurso (e-STJ fls. 288/306), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta divergência jurisprudencial e ofensa aos arts. 206, § 5º, I, 884 a 886 do CC/2002, 51, IV, do CDC e 1.022, II, do CPC/2015.
+Afirma que não foi analisada a ocorrência de prescrição das contraprestações inadimplidas, mesmo após a oposição de embargos de declaração. Defende que deve ser aplicado o prazo quinquenal, previsto no art. 206, § 5º, I, do CC/2002. Lembra que se trata de matéria de ordem pública, que pode ser conhecida a qualquer momento.
+Sustenta que deve ser afastada a determinação da correção monetária do valor do VRG argumentando que (e-STJ fl. 298):
+O valor VRG total pactuado já foi pago e está na posse no banco arrendador, logo, não houve qualquer perda de valor moeda, portanto, que justifique a aplicação de nova correção monetária sobre essa quantia.
+Diferente dos valores pagos pelo arrendatário, que estão retidos pelo banco arrendador até os dias atuais, e por certo, que devem ser restituídos de forma corrigida.
+Assim, aplicar correção sobre um valor que NÃO ESTÁ VENCIDO e ainda desde o início da contratação, ou seja, permitindo a aplicação de correção em um período no qual o contrato estava sendo pago conforme previsões contratuais é COMPLETAMENTE INDEVIDO e permite ao banco receber mais do que ele mesmo previu contratualmente, Exas., no próprio acordão salientou que houve adimplência/pagamento por 35 meses, veja-se:
+Alternativamente, requer seja declarada a impossibilidade de aplicação da correção sobre o valor do VRG pactuado no período da adimplência contratual.
+Não foram apresentadas contrarrazões (e-STJ fl. 331)
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 332/334), os autos vieram a esta Corte.
+É o relatório
+Decido.
+A parte recorrente opôs embargos de declaração alegando omissão "na análise da prescrição das contraprestações" pois, "estando previstas e devidas por contrato, não há razões para o banco não as ter cobrado no prazo prescricional de 05 anos, como preconiza o art. 206, §5º , inc. I do CC e entendimento recente firmado por este C. TJ/SP" (e-STJ fl. 277).
+No julgamento dos aclaratórios, o Tribunal de origem entendeu que (e-STJ fl. 284):
+De pronto, cumpre ressaltar que o argumento da prescrição das contrapr estações inadimplidas não foi suscitado em sede de apelação, tratando-se de patente inovação recursal.
+No entanto, consoante jurisprudência desta Corte, "as matérias de ordem pública, tais como prescrição e decadência, nas instâncias ordinárias, podem ser reconhecidas a qualquer tempo, ainda que alegadas em embargos de declaração, não estando sujeitas a preclusão" (AgInt no AREsp n. 1.774.803/AM, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023). No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO E REVISÃO DE CLÁUSULAS CONTRATUAIS. DECADÊNCIA. MATÉRIA DE ORDEM PÚBLICA. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca de tema que não pode ser examinado, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre a decadência alegada nos embargos de declaração, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente.
+2. "A jurisprudência firmou-se no sentido de que as matérias de ordem pública, tais como prescrição e decadência, nas instâncias ordinárias, podem ser reconhecidas a qualquer tempo, ainda que alegadas em embargos de declaração, não estando sujeitas a preclusão" (AgRg no AREsp 686.634/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe de 09/08/2016) 3. Agravo interno provido para conhecer do agravo a fim de dar provimento ao recurso especial, anulando-se o acórdão proferido em sede de embargos declaratórios na origem, para que outro seja proferido e, assim, sanado o vício constatado.
+(AgInt nos EDcl no AREsp n. 1.552.050/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/6/2020, DJe de 15/6/2020.)
+É pacífico neste Tribunal o entendimento segundo o qual, "há violação aos arts. 489 e 1.022 do CPC quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre questão que lhe foi apresentada por ocasião dos embargos de declaração, relevante ao deslinde da controvérsia" (EDcl no AgInt no REsp n. 1.863.459/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023).
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem, para que examine a questão como entender de direito.
+Em face do exposto, DOU PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
