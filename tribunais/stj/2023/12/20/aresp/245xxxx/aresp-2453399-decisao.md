@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por ASSOCIAÇÃO HOSPITALAR MOINHOS DE VENTO, contra decisão que deixou de admitir recurso especial, sob os seguintes fundamentos: (i) quanto à apontada violação ao artigo 1022 do CPC/15, no recurso especial, há somente alegação genérica de negativa de prestação jurisdicional. Aplicação da Súmula 284 do STF; e, ademais, (ii) haveria, no mérito, incidência da Súmula 83/STJ (fls. 153/156, e-STJ).
+Nas razões de agravo (fls. 164/169, e-STJ), em síntese, a insurgente afirma, genericamente, que foram preenchidos os requisitos de admissibilidade do apelo nobre.
+Contraminuta às fls. 174/187, e-STJ.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Com efeito, a agravante limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, sem, contudo, efetivamente demonstrar a inadequação do óbice invocado.
+Observa-se, da leitura das razões do agravo em recurso especial que, quanto ao artigo 1022 do CPC/15, a insurgente não impugnou o fundamento da decisão agravada (Súmula 284/STF).
+No ponto, entre as fls. 166/167, e-STJ, afirma, de modo vago, ser "cabível a discussão à luz do art. 1022 do CPC, sobretudo porque houve a interposição dos embargos de declaração, estes rejeitados".
+Portanto, ao apresentar apenas argumentos superficiais, deixou a insurgente de atacar da forma adequada a incorreção do óbice e a inaplicabilidade da Súmula 284/STF.
+Não houve, assim, a efetiva demonstração de que a fundamentação constante na petição do recurso especial, relativa à alegada ofensa ao artigo 1022 do CPC/15, não fosse deficiente.
+A propósito, cita-se o seguinte julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. 1. No agravo em recurso especial, a parte tem de direcionar sua irresigna ção contra o decisum que é objeto da impugnação e demonstrar a existência de erro em seus fundamentos. O postulante não observou o princípio da dialeticidade, pois se limitou a reproduzir as mesmas razões do recurso especial inadmitido. 2. Era necessário, para impugnar especificamente o óbice da Súmula n. 284 do STJ, demonstrar que a fundamentação do reclamo endereçado a esta Corte não era deficiente. Está correta a incidência da Súmula n. 182 do STJ. 3. Não se verifica a possibilidade de conceder ordem de ofício, pois os pedidos da defesa estão em confronto com a jurisprudência desta Corte. 4. Agravo regimental não provido. (AgRg no AREsp n. 1.766.507/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/10/2021, DJe de 13/10/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO DE CINCO DIAS. FUNDAMENTO DA INADMISSIBILIDADE INATACADO. INCIDÊNCIA DAS SÚMULAS 182/STJ E 283/STF. (..) 2. O agravante não impugnou o fundamento da inadmissibilidade do recurso relativo à deficiência de fundamentação - Súmula 284 do STF - incidindo, na hipótese, as Súmulas 182 do Superior Tribunal de Justiça e 283 do Supremo Tribunal Federal. 3. Agravo regimental improvido. (AgRg no AREsp n. 514.981/PE, relator Ministro Walter de Almeida Guilherme (Desembargador Convocado do TJ/SP), Quinta Turma, julgado em 18/11/2014, DJe de 26/11/2014.)
+É dever da parte agravante, à luz do princípio da dialeticidade, demonstrar o desacerto do da decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 932, III, do CPC/15, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugna os fundamentos do decisum.
+Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;  grifou-se .
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em senti do contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008).
+2. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
