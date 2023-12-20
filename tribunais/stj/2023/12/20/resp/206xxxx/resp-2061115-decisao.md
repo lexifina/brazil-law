@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS assim ementado (e-STJ fl. 178):
+AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. INSCRIÇÃO NEGATIVA. COMUNICAÇÃO PRÉVIA. AUSÊNCIA. DANOS MORAIS CONFIGURADOS. REDIMENSIONAMENTO DA SUCUMBÊNCIA.
+I. O EGRÉGIO STJ, PARA OS FINS DO ART. 543-C, DO CPC/1973 (ART. 1.036, DO CPC/2015), FIRMOU O ENTENDIMENTO DE QUE A COMUNICAÇÃO PREVISTA NO ART. 43, § 2º, DO CDC, É DE RESPONSABILIDADE DO ARQUIVISTA.
+II. NO CASO CONCRETO, IMPÕE-SE O CANCELAMENTO DA INSCRIÇÃO NEGATIVA, POIS O NOME DA PARTE AUTORA FOI INCLUÍDO NO CADASTRO DE INADIMPLENTES MANTIDO PELA PARTE RÉ SEM A PRÉVIA COMUNICAÇÃO, RESTANDO DESCUMPRINDO O DEVER DE INFORMAR, PREVISTO NO ESTATUTO CONSUMERISTA E NA SÚMULA 359, DO STJ.
+III. ASSIM, RECONHECIDA A CONDUTA ILÍCITA DA REQUERIDA E CARACTERIZADO O DANO MORAL IN RE IPSA, CABÍVEL A INDENIZAÇÃO POSTULADA, TENDO EM VISTA A CONDIÇÃO SOCIAL DA AUTORA, O POTENCIAL ECONÔMICO DA RÉ, A GRAVIDADE DO FATO, O CARÁTER PUNITIVO-PEDAGÓGICO DA REPARAÇÃO E OS PARÂMETROS ADOTADOS POR ESTA CÂMARA EM CASOS SEMELHANTES. A CORREÇÃO MONETÁRIA PELO IGP-M INCIDE A PARTIR DO PRESENTE ARBITRAMENTO, NA FORMA DA SÚMULA 362, DO STJ. OS JUROS MORATÓRIOS CONTAM-SE DO EVENTO DANOSO, A TEOR DA SÚMULA 54, DO STJ.
+IV. REDIMENSIONAMENTO DA SUCUMBÊNCIA, CONSIDERANDO O INTEGRAL DECAIMENTO DA RÉ EM SUAS PRETENSÕES.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 207/212).
+Nas razões do recurso especial (e-STJ fls. 220/242), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação dos arts. 43, § 2º, da Lei n. 8.078/1990 e 373, II, do CPC/2015, além de dissídio jurisprudencial.
+Sustentou que não há falar em dano moral, pois a parte recorrida possui apontamento negativo de crédito vinculado ao seu CPF, regular e prévio, tratando-se claramente de devedora contumaz, sendo totalmente descabida a indenização no presente caso, porquanto não pode a recorrida se beneficiar de sua própria torpeza.
+Afirmou também a exorbitância do valor fixado a título indenizatório, motivo pelo qual o montante deve ser reduzido.
+Requereu o conhecimento e provimento do recurso, declarando-se cumprido o dever de notificação da entidade arquivista.
+Não houve contrarrazões (e-STJ fl. 268).
+Juízo positivo de admissibilidade (e-STJ fls. 272/275).
+É o relatório.
+Decido.
+Com relação ao dever de notificação prévia, o Tribunal de origem assim consignou (e-STJ fls. 173/177):
+ ..  Portanto, a comunicação prevista no art. 43, § 2º, do CDC, é de responsabilidade do arquivista, devendo ser observada a Súmula 359, do STJ:
+Súmula 359. Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição.
+No mais, percebe-se que, de fato, a demandada não acostou aos autos documento capaz de demonstrar a comunicação prévia em relação à inscrição questionada pela parte autora, ônus que lhe incumbia, nos termos do art. 373, II, do CPC.
+Isso porque, com a devida vênia, os documentos juntadas pela requerida no Evento 13 - NOT5 dos autos originários não servem para tanto, eis que ausente qualquer carimbo por parte da empresa de Correios, não sendo possível atestar a efetiva remessa postal. Aliás, percebe-se que a notificação diz respeito a contrato diverso, além de não indicar o valor e a data do vencimento da dívida.
+Com efeito, a autora deveria ter sido notificado com antecedência acerca do referido aponte, como previsto no art. 43, § 2º, do CDC, a fim de regularizar o respectivo débito, ou requerer a correção dos dados eventualmente incorretos (§ 3º).
+De outro lado, a real existência do débito não afasta a pretensão da autora, pois aqui não se discute se a dívida é incontroversa, ou não, mas sim, o dano causado pela ausência da prévia comunicação.
+Além disso, apenas para esclarecimentos, descabe falar na incidência da prescrição trienal, na forma do art. 206, § 3º, V, do Código Civil, porquanto demonstrado que a inclusão do registro ocorreu em 29.09.2015, enquanto a autora teve conhecimento da inscrição desabonatória na data de 18.09.2018, conforme documentação acostado com a inicial (Evento 1 - CERTNEG7 dos autos originários).
+Aliás, também não há provas de que a autora possuía inscrição preexistente à época da inclusão discutida nos autos, o que afasta a aplicação da Súmula 385, do STJ.
+Assim sendo, a hipótese dos autos reflete o dano moral in re ipsa ou dano moral puro, uma vez que o sofrimento, a angústia e o transtorno causados pela parte requerida são presumidos, conferindo o direito à reparação sem a necessidade de produção de outras provas, a não ser a do registro negativo. Vale dizer que o próprio fato já configura o dano.
+ ..  No pertinente ao quantum indenizatório, é sabido que este deve possuir dupla função, qual seja, reparatória e pedagógica, devendo objetivar a satisfação do prejuízo efetivamente sofrido pela vítima, bem como servir de exemplo para inibição de futuras condutas nocivas. Imbuído dessa ideia, a reparação deve ser fixada com parcimônia pelo Julgador, estando este sempre atento aos critérios de razoabilidade que o caso concreto exige.
+Com efeito, o patrimônio moral das pessoas físicas e jurídicas não pode ser transformado em fonte de lucro ou polo de obtenção de riqueza. Não se admite a indeniz ação como instrumento de enriquecimento ilimitado do ofendido, transformando-se o direito ao ressarcimento em loteria premiada, ou sorte grande, de forma a tornar um bom negócio o sofrimento produzido por ofensas.
+É certo que a indenização por dano moral tem caráter pedagógico. Todavia, devem ser observados os princípios da proporcionalidade e da razoabilidade na fixação dos valores, atendidas as condições do ofensor, do ofendido e do bem jurídico lesado.
+Impende, pois, ao Julgador dosar a indenização de maneira que, suportada pelo patrimônio do devedor, consiga no propósito educativo da pena, inibi-lo de novos atos lesivos, por sentir a gravidade e o peso da condenação, ao passo que a vítima, pelo grau de participação no círculo social e pela extensão do dano suportado, sinta-se razoável e proporcionalmente ressarcida.
+Desta forma, tendo em vista a condição social da parte autora, o potencial econômico da ré, a gravidade do fato, o caráter punitivo-pedagógico da reparação e os parâmetros adotados por esta Câmara em casos semelhantes, tenho que a indenização deva ser fixada em R$ 5.000,00, acrescidos de correção monetária pelo IGP-M, a contar do presente arbitramento, nos termos da Súmula 362, do STJ, e dos juros moratórios de 1% ao mês, desde o evento danoso, ou seja, a data da inclusão da inscrição negativa, conforme a Súmula 54, do STJ.
+Ante o exposto, voto por dar provimento à apelação para julgar procedente a ação e condenar a ré ao pagamento de indenização por danos morais à autora, no valor de R$ 5.000,00, acrescidos de correção monetária pelo IGP-M, a contar do presente arbitramento, e dos juros moratórios de 1% ao mês, a partir do evento danoso. Em consequência, condeno a ré ao pagamento das custas e dos honorários do procurador da parte autora, fixados em 15% sobre o valor da condenação, observado o art. 85, § 2º, do CPC.
+A decisão recorrida está em conformidade com a jurisprudência desta Corte, pacífica ao afirmar que a validade da notificação prévia do consumidor, para a inscrição do seu nome em cadastro de inadimplentes, exige o envio de carta ao endereço constante do respectivo cadastro, formalidade não verificada na hipótese em comento. Inafastável a Súmula n. 83 do STJ.
+Nesse contexto, rever o posicionamento adotado pelo Tribunal a quo e sopesar as razões recursais demandaria o revolvimento do conjunto fático-probatório dos autos, considerada, ainda, a razoabilidade do valor fixado a título de danos morais, providência vedada no âmbito do recurso especial, ante a Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA POR INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRÉVIA NOTIFICAÇÃO. DANO MORAL NÃO CONFIGURADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+3. A modificação das premissas fáticas adotadas pelo acórdão recorrido, no sentido pleiteado pelo recorrente, qual seja, de que não foi notificado previamente à sua inscrição em cadastro de inadimplentes, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Ademais, a Segunda Seção desta Corte, no julgamento de Recurso Repetitivo (REsp 1.083.291/RS, Rel. Ministra NANCY ANDRIGHI, DJe de 20/10/2009), consolidou o entendimento de que, "para cumprimento do dever estabelecido no § 2º do art. 43, do CDC, que Órgãos Mantenedores de Cadastros Restritivos comprovem o envio de correspondência ao endereço fornecido pelo credor, sem que seja necessário a comprovação do efetivo recebimento da carta, mediante AR."
+Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.329.057/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/3/2019, DJe de 29/3/2019.)
+Diante do exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
