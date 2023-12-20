@@ -1,0 +1,56 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5009446-66.2022.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: FABIOLA RIDOLFI SILVA
+RECORRIDO: BANCO BRADESCO S.A.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de assistência judiciária gratuita à parte recorrente.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+NARRA A AUTORA QUE
+A) FOI FUNCIONÁRIA DO BANCO REQUERIDO NO PERÍODO DE 01/04/1996 A 04/07/2013, MOMENTO EM QUE FOI DESPEDIDA SEM JUSTA CAUSA; B) INGRESSOU COM DUAS RECLAMAÇÕES TRABALHISTAS À ÉPOCA, POR ENTENDER QUE SEUS DIREITOS FORAM VIOLADOS (RT 0000274-59.2014.5.17.0002 E RT 0122700-22.2013.5.17.0002); C) EM VIRTUDE DAS AÇÕES O REQUERIDO ESTÁ COM DIVERSAS RETALIAÇÕES COMO, POR EXEMPLO, NÃO PERMITINDO O CADASTRO DE CHAVE PIX PARA FACILITAR TRANSAÇÕES CORRIQUEIRAS, BEM COMO BLOQUEANDO O ACESSO À SUA PRÓPRIA CONTA. REQUER, ASSIM, A CONCESSÃO DE TUTELA ANTECIPADA A FIM DE QUE SEJA CANCELADA SUA CONTA, COM DEVOLUÇÃO DE TODOS OS VALORES APLICADOS. NO MÉRITO, TUTELA INDEFERIDA NO ID 15414736. O REQUERIDO OFERTOU DEFESA NO ID 15449142, ARGUINDO PRELIMINAR DE PERDA DO OBJETO. NO MÉRITO, INFORMA QUE A CONTA DE TITULARIDADE DA AUTORA ESTÁ ATIVA E SEM NENHUM TIPO DE BLOQUEIO, O QUE AFASTA O PEDIDO INDENIZATÓRIO. REQUER, ASSIM, A IMPROCEDÊNCIA DA PRESENTE AÇÃO.
+SENTENÇA DE PISO
+: “JULGOU IMPROCEDENTE OS PEDIDOS DA INICIAL”.
+
+RECURSO INOMINADO DA PARTE REQUERENTE BUSCANDO A REFORMA TOTAL DA SENTENÇA PARA JULGAR PROCEDENTES OS PEDIDOS DA INICIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. A PARTE AUTORA NÃO SE DESINCUMBIU DE SEU ÔNUS PROBATÓRIO (ART. 373, I DO CPC), AO PASSO QUE, CONFORME JÁ MENCIONADO, NÃO HÁ O MÍNIMO DE PROVAS QUE POSSAM INDICAR A ORIGEM DO DANO E UMA EVENTUAL CONDUTA ABUSIVA PELO REQUERIDO. DESTA FORMA, ESTANDO À MÍNGUA DE SUPORTE PROBATÓRIO QUE SUSTENTE SUA TESE, NEM AO MENOS MINIMAMENTE, ENTENDO QUE NÃO HÁ POSSIBILIDADE DE ACOLHER A PRETENSÃO AUTORAL.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
