@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"TUTELA ANTECEDENTE. Plano de saúde. Pretensão de autorização e custeio de procedimento para remoção de cálculo em via biliar, com risco de septicemia. Sentença de procedência para condenar a ré à autorização, custeio, bem como ao reembolso dos valores desembolsados pela autora, e indenização por danos morais.
+Apelo da ré sustentando a vigência de prazo de carência em razão de nova contratação do plano de saúde, após desligamento do plano originário em razão do rompimentodo vínculo com a ex-empegadora; e a ausência de urgência do procedimento; não configuração dos danos morais.
+Descabimento. Não havia incidência de carência, diferentemente do alegado, o plano de saúde coletivo foi reativado. A autora havia se desligado da empresa, mas foi recontratada e reativou o plano de saúde existente. Ainda que se considerasse a existência de carência, a urgência restou suficientemente caracterizada. Autora apresentou fortes dores abdominais e vômito, sendo atendida em regime de urgência em hospital credenciado, recebendo diagnóstico de calculose de via biliar e recomendação cirúrgica, dado o risco de septicemia. Recomendação de urgência capaz de caracterizar a probabilidade do direito perseguido, com fulcro no art. 35-C da Lei nº 9.656/98 e na Súmula 103 do TJSP. Risco de septicemia demonstra que o procedimento não era eletivo. Danos morais configurados e bem arbitrados. Recurso improvido" (fl. 200 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 104, 138, 166, 186, 927 e 944 do Código Civil e 1º, 12 e 35-C da Lei n. 9.656/98.
+Sustenta que, considerando que
+"(..) a recorrida aderiu ao convênio em 21 dezembro de 2021, a imposição de carência para procedimentos de alta complexidade por 180 dias, até o dia 25.06.2022, é plenamente licita, sendo que a recorrida foi devidamente foi notificada de tal prazo, no momento em que foi realizada a adesão, de modo que não existe obrigação de custear o procedimento requerido antes deste prazo, já que a recorrida passou a usufruir de uma nova contratação, sem qualquer previsão sobre aproveitamento de carências" (fl. 216 e-STJ).
+Afirma que não restou demonstrada a situação de urgência e que "apesar da inconteste necessidade da realização do procedimento requerido, este seria realizado mediante agendamento, de forma eletiva" (fl. 218 e-STJ).
+Argumenta, ainda, que deve ser afastada a indenização por danos morais tendo em vista que não houve a prática de nenhum ato ilícito, nem abalo moral da parte contrária.
+Sucessivamente, requer a redução do valor da indenização a fim de evitar o enriquecimento sem causa da recorrida.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem dirimiu a controvérsia com base nos seguintes fundamentos:
+"(..)
+A ré pretende evadir-se da obrigação de cobertura de procedimento cirúrgico realizado pela autora, sob alegação de vigência de prazo de carência, considerado o encerramento do contrato do plano de saúde anterior e a contratação de um novo plano. Afirmando, ainda, que o procedimento não foi realizado em caráter de urgência.
+Ocorre, entretanto, que ambos os argumentos centrais da defesa da ré não se sustentam ou encontram respaldo nos autos.
+Diferentemente do alegado, não se tratou de nova contratação, ensejando novo prazo de carência, como aduzido pela ré, mas de reativação do mesmo plano do qual a autora foi beneficiária, enquanto colaboradora da empresa Athon Plastômeros e Elastômeros Especial S. A, desde 14.12.2020 (f.15 e f.17). O contrato de emprego chegou a ser encerrado, porém, houve a recontratação da autora e a reativação do plano de saúde, conforme se observa na relação de atualização cadastral em 21/12/2021 (f.54/58).
+Mas ainda que se considerasse como nova contratação, as circunstâncias do atendimento caracterizam suficientemente a urgência, justificando o pronto atendimento, assim como a cobertura necessária aos procedimentos.
+Isto porque, conforme consta dos autos, a autora apresentoumal-estar representado por fortes dores abdominais e vômitos, sendo admitida em caráter de urgência no hospital credenciado da ré, onde recebeu o diagnóstico de calculose de via biliar, com recomendação cirúrgica de urgência em razão do risco de septicemia (f. 18/19).
+A recomendação cirúrgica de urgência tem o condão de caracterizar a probabilidade do direito perseguido pela autora, com fulcro no art. 35-C, da Lei nº 9.656/98 e da Súmula 103 do Tribunal de Justiça de São Paulo.
+No mesmo sentido, o risco de septicemia (f. 19) é circunstância suficiente para caracterizar o perigo de vida que a autora corria senão realizasse o procedimento com urgência.
+Por onde quer que se olhe, portanto, não era o caso de aplicar o prazo de carência, seja por ter se tratado de reativação de plano de saúde já existente, seja por ter se tratado de procedimento realizado em caráter de urgência.
+A recusa da cobertura foi ilícita. Não é possível considerar como mero dissabor os danos experimentados pela autora em decorrência da recusade cobertura, caracterizados os danos morais. Com relação, ao valor arbitrado a título de indenização, considera-se que o valor alcançado é adequado por não ter sido excessivo, mas também por não deixar sem reparação à esfera moral da autora" (fls. 201-202 e-STJ - grifou-se).
+Nesse contexto, a modificação do acórdão recorrido acerca da reativação do plano já existente e da caracterização de situação de urgência, bem como sobre a demonstração de danos morais, demanda, necessariamente, a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Por fim, no que se refere ao valor da indenização arbitrada para a reparação por danos morais, observa-se que o Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada in denização no valor de R$ 3.500,00 (três mil e quinhentos reais).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
