@@ -1,0 +1,34 @@
+DECISÃO
+DIONATAN LOPES DA SILVA e ROGERIO LACERDA MOTA interpõem recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins (Apelação Criminal n. 0000114-34.2022.8.27.2719).
+Consta dos autos que o recorrente Dionatan Lopes da Silva foi condenado, pela prática do delito previsto nos arts. 33, caput, da Lei n. 11.343/2006 e 180 do CP, à pena de 9 anos e 9 meses de reclusão, em regime inicial fechado, mais multa.
+O recorrente Rogerio Lacerda Mota foi condenado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos e 11 meses de reclusão, em regime inicial fechado, mais multa.
+Nas razões do recurso especial, a defesa aponta a violação do art. 386, VII, do CPP, sob a tese de que não foi comprovada a prática do delito tráfico de drogas, vez que os réus não foram surpreendidos praticando ato de mercancia dos entorpecentes. Sustenta a fragilidade do conjunto probatório, formado apenas pelos depoimentos dos policiais, razão pela qual, requer a absolvição dos recorrentes.
+Por fim, postula em caso de não conhecimento do especial, que seja concedido habeas corpus de ofício, diante da flagrante ilegalidade no caso.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com fulcro no óbice processual da Súmula n. 7 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do especial (fls. 500-501).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O especial, por sua vez, não suplanta o juízo de prelibação, haja vista a
+incidência da Súmula n. 7 do STJ.
+O Tribunal, ao julgar o recurso de apelação, manteve a condenação dos recorrentes pelo delito de tráfico, amparado nos seguintes fundamentos (fls. 295-296, destaquei):
+O agente de polícia Valdo Pereira da Silva Júnior afirmou em juízo que "No interior da residência foi encontrado porções entorpecentes, sendo crack e maconha e uma motocicleta com ocorrência de furto ou roubo, nenhum dos dois assumiu ser proprietário tanto da moto, quanto da droga, sendo que houve divergência, um acusava o outro de tráfico, possuir a moto e a droga e o outro acusava o outro".
+ ..
+Em que pese aleguem veementemente que inexiste comprovaçãodo crime e que a ação foi embasada unicamente em depoimento desarmônico de policiais com os demais elementos probatórios, certo é que a doutrina e jurisprudência dominante admitem que o depoimento dos policiais pode servir de referência na verificação da materialidade e da autoria delitivas, bem como funcionar como meio probatório válido para fundamentar a condenação, mormente quando for colhido em juízo, com a observância do contraditório, e em harmonia com os demais elementos de prova.
+ ..
+No presente caso, não se verifica qualquer mácula no depoimento prestado pelos policiais ou a demonstração de que as alegações apresentadassão contraditórias, cingindo-se os recorrentes a fazerem alegações genéricas sem comprovação robusta.
+Assim, como bem colocado pelo Órgão de Cúpula Ministerial ao contrário da afirmação da defesa findou clara a presença de provas suficientes do crime de tráfico, principalmente diante das firmes declarações dos policiais envolvidos na prisão, de modo que não há a menor dúvida acerca da tipicidade da conduta.
+Com base no trecho anteriormente transcrito e, sobretudo, na leitura atenta do acórdão recorrido, verifico que as instâncias ordinárias, após minuciosa análise do conjunto fático-probatório, concluíram pela existência de elementos concretos e coesos a ensejar a condenação dos acusados pelo crime de tráfico de drogas.
+Relembro, por oportuno, que a jurisprudência deste Superior Tribunal é firme ao asseverar que os depoimentos dos policiais responsáveis pelo flagrante constituem meio idôneo de prova para motivar o édito condenatório, sobretudo quando colhidos no âmbito do devido processo legal, sob o pálio do contraditório e corroborados pelos demais elementos de prova.
+Diante disso e sem aprofundamento no material cognitivo dos autos, não se observa a alegada insuficiência probatória para a condenação dos réus. Alterar a conclusão da Corte de origem, com o intuito de absolver os recorrentes, na forma pretendida pela defesa, demandaria necessário revolvimento do conjunto fático-probatório dos autos, procedimento vedado segundo o teor da Súmula n. 7 do STJ.
+Nesse sentido:
+6. No que tange ao pleito de absolvição ou desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas (uma porção de maconha e mais uma barra da mesma substância, pesando mais de 2 kg, além de pontos de LSD), mas também diante da prova testemunhal e circunstâncias da apreensão.
+7. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição ou desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+ ..  17. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.917.106/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 17/3/2023, destaquei)
+Quanto ao pedido de concessão de habeas corpus de ofício por este órgão colegiado, filio-me ao entendimento de que "é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido na admissibilidade do recurso interposto (EDcl no AgRg nos EREsp 1.488.618/RS, Rel. Ministro Felix Fischer, 3ª S., DJe 27/10/2015)" (EDcl no AgRg no AREsp n. 1.640.723/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/4/2021, destaquei).
+Ainda: "Nos termos do art. 654, § 2º, do Código de Processo Penal, os tribunais podem deferir ordem de habeas corpus de ofício, quando reconhecerem hipótese de flagrante ilegalidade. O writ, porém,  não é meio para a defesa obter pronunciamento judicial a respeito de matéria de mérito de recurso que não ultrapassa os requisitos de admissibilidade " (AgRg nos EDcl no AREsp n. 1.742.926/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 12/3/2021, grifei).
+Desse modo, concluo ser inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido à admissibilidade do recurso interposto.
+Dispositivo
+À vista do exposto, com fundamento nos arts. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
