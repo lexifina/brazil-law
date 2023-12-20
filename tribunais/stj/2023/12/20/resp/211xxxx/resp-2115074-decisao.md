@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) contra acórdão assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÕES FEDERAIS DE DESEMPENHO. GDASS. AUSÊNCIA DE VIOLAÇÃO À PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. TEMA 983 DO STF. AFASTAMENTO EXPRESSO, PELO TRIBUNAL PLENO DA SUPREMA CORTE, DO DISTINGUISHING ANTERIORMENTE REALIZADO POR ESTE REGIONAL. ADEQUAÇÃO DO ENTENDIMENTO.
+1. A GDASS foi instituída pela Medida Provisória nº 146/2003, convertida na Lei nº 10.855/2004, que tratou da reestruturação de carreira no âmbito do INSS e, posteriormente, foi alterada pelas Leis nº 10.997/2004, nº11.501/2007, nº 11.907/2009 e nº 12.702/2012. A Lei nº 13.324/2016 realizou alteração substancial na redação do art. 11, §1º, da Lei 10.855/2004, procedendo ao aumento do limite mínimo do pagamento da GDASS - Gratificação de Desempenho de Atividade da Seguridade Social aos ativos.
+2. Este Regional possui decisões no sentido de que, considerando que restou assegurado ao servidor em atividade o mínimo fixo de 70 pontos, independente dos resultados da avaliação, tal parcela assumiria natureza geral, de modo que a não extensão da referida gratificação aos aposentados e pensionistas com direito a paridade, nos mesmos moldes que deferidos aos servidores em atividade, ofenderia o artigo 40, §§ 4º e 8º, da Constituição da República.
+3. Todavia, deve-se adequar o entendimento aos recentes julgados do Supremo Tribunal Federal. Segundo a Suprema Corte, a definição do Tema 983, no julgamento do ARE 1.052.570, implicou na (a) fixação da data da homologação do resultado das avaliações como termo inicial de pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos, após a conclusão do primeiro ciclo, e na (b) conclusão de que a diminuição do valor das gratificações pagas aos inativos e pensionistas, após a homologação do resultado das avaliações, não configura ofensa ao princípio da irredutibilidade de vencimentos ou à paridade remuneratória.
+4. O Tribunal Pleno da Suprema Corte Federal afastou expressamente o distinguishing anteriormente realizado por este Regional em relação ao Tema 983, decidindo que "a gratificação perde o caráter genérico e adquire o natureza pro labore faciendo e que, processados os resultados da primeira avaliação dos ativos, o pagamento da GDASS aos pensionistas e inativos deverá observar o art. 16 da Lei n. 10.855/2004, o que não ofende o princípio da irredutibilidade de vencimentos".
+Os Embargos de Declaração foram rejeitados.
+Nas razões recursais (fls. 321-341, e-STJ), alega-se violação dos arts. 1.022, II c/c art. 489, § 1º, IV, do CPC e 87 e 88 da Lei 13.324/2016.
+Contrarrazões às fls. 346-357, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15.12.2023
+Inicialmente, quanto à suscitada violação do art. 1.022 do CPC, verifico que o recorrente não reportou adequadamente quais os vícios de fundamentação do acórdão recorrido, o que justifica a aplicação do impeditivo da Súmula 284/STF. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ART. 1.022/CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO COMO VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF POR APLICAÇÃO ANALÓGICA. VALOR DA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No que toca à apontada violação do artigo 1.022 do CPC, verificou-se que a recorrente aduziu que o Tribunal a quo teria permanecido omisso, mesmo após a oposição de embargos de declaração, sem explicitar, contudo, quais efetivamente teriam sido as omissões, o que inviabiliza o conhecimento do recurso, no ponto, com fulcro na aplicação da Súmula 284/STF, dada a generalidade dos argumentos apresentados.
+(..) 4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.613.991/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma,DJe de 2/9/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. É deficiente a assertiva genérica de violação do art. 1.022 do CPC, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal a quo e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF.
+(..) 3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.734.019/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe de 23/9/2021)
+Quanto à questão principal, o Tribunal Regional Federal da 4ª Região se manifestou nos seguintes termos:
+Todavia, a despeito dos precedentes deste Regional, deve-se adequar o entendimento aos recentes julgados do Supremo Tribunal Federal. Segundo a Suprema Corte, a definição do Tema 983, no julgamento do ARE 1.052.570, implicou na (a) fixação da data da homologação do resultado das avaliações como termo inicial de pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos, após a conclusão do primeiro ciclo, e na (b) conclusão de que a diminuição do valor das gratificações pagas aos inativos e pensionistas, após a homologação do resultado das avaliações, não configura ofensa ao princípio da irredutibilidade de vencimentos ou à paridade remuneratória:
+(..)
+Registre-se que o Tribunal Pleno da Suprema Corte Federal afastou expressamente o distinguishing anteriormente realizado por este Regional em relação ao Tema 983. Segundo a Suprema Corte, uma vez realizada a primeira avaliação de desempenho, "a gratificação perde o caráter genérico e adquire natureza pro labore faciendo e que, processados os resultados da primeira avaliação dos ativos, o pagamento da GDASS aos pensionistas e inativos deverá observar o art. 16 da Lei n. 10.855/2004, o que não ofende o princípio da irredutibilidade de vencimentos":
+(..)
+Portanto, considerando o entendimento do Supremo Tribunal Federal de que a diminuição do valor das gratificações pagas aos inativos e pensionistas após a homologação do resultado das avaliações não viola a paridade remuneratória, deve ser reformada a sentença para julgar improcedentes os pedidos formulado pela parte autora.
+Observa-se que a Corte regional firmou seu entendimento a partir do que foi decidido pelo Supremo Tribunal Federal no ARE 1.052.570. A aludida fundamentação, por si só, mantém o resultado do julgamento ocorrido na origem e torna inadmissível o Recurso que não a impugnou. Incide na hipótese a Súmula 283/STF.
+Conforme Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
