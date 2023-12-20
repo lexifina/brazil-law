@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por PAULO CEZAR JUNQUEIRA HADICH, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O Recurso Especial restou inadmitido em razão dos seguintes fundamentos: a) "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampou coficando evidenciado o suposto maltrato às normas legais enunciadas"; b) "rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça; c) "quanto ao dissenso interpretativo, versa a jurisprudência arrolada acerca de exegese lastreada em matéria fática, cuja verificação da possível identidade com o caso concreto implicaria reexame da prova produzida, ao arrepio da Súmula 7 do Col. Superior Tribunal de Justiça" (fl. 2.789e).
+Tal qual asseverado pelo Ministério Público Federal, "ao interpor agravo (..) Paulo Cezar Junqueira Hadich se descuidou de impugnar efetivamente as razões para a inadmissão do recurso.(fl. 2.865e).
+Diante desse contexto, o presente Agravo em Recurso Especial não pode ser conhecido.
+Com efeito, na forma da jurisprudência do STJ, "não se mostra suficiente mera alegação genérica sobre as razões que levaram à inadmissão do recurso especial, para que se alcance a pretendida reforma do decisum atacado" (STJ, AgRg do AREsp 392.653/PB, Rel, Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 03/02/2014).
+Assim, se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, o art. 932, III, do CPC/2015 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (STJ, AgRg no Ag 427.696/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 12/08/2002).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do presente Agravo em Recurso Especial.
+I.
+EMENTA
