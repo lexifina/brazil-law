@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo de RIBEIRAO DIESEL S.A. VEICULOS da decisão que inadmitiu recurso especial, fundado na alínea "a" do permissivo constitucional, do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 966):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. PIS E COFINS. RESTITUIÇÃO. COMPENSAÇÃO. PRESCRIÇÃO QUINQUENAL. OCORRÊNCIA.
+1. No presente caso, o prazo prescricional aplicável é de 5 (cinco) anos, pois a ação foi ajuizada em 18.07.2014, durante a eficácia da Lei Complementar n. 118/2005.
+2. A contagem do prazo iniciou-se com o pagamento antecipado dos tributos, ocorridos em2001 e 2002, sendo o prazo prescricional suspenso com o início do processo administrativo, ou seja, em 2006 e 2007 (ID 100852635 - fls. 44/250), respectivamente, quando já havia decorrido praticamente 5 (cinco) anos das datas dos pagamentos, e voltando a correr o prazo com o acórdão administrativo na data de 27.09.2013 (ID 100849960- fls. 30/38), proferido nos autos do Processo Administrativo 15959.720020/2011-10.
+3. Entre a data do acórdão administrativo, em 27.09.2013, e a datado ajuizamento da ação, em18.07.2014 (ID 100852635 - fls. 03/38), decorreram quase 10 (dez) meses.
+4. Impõe-se reconhecer que ocorreu a prescrição, porquanto a soma dos lapsos temporais acima mencionados (antes e depois do processo administrativo) ultrapassa os 5 (anos)previstos no art. 3º da Lei Complementar n. 118/2005.
+5. Apelação improvida.
+No  especial,  a  parte  alega  violação  do  art. 169 do CTN,  bem  como  a  ocorrência  de  divergência  jurisprudencial.
+ Sustenta,  em  síntese, que "se faz necessária a interposição do presente recurso especial, ante a violação pelo acórdão recorrido do art. 169 do Código Tributário Nacional, posto que a pretensão de repetição judicial de valores cuja compensação foi indeferida em sede administrativa pressupõe a anulação da referida decisão, de modo que o prazo prescricional aplicável é BIENAL, a contar da data em que proferida a decisão que se busca anulação" (e-STJ fl. 1.031).
+Argui que, "mesmo sendo fato incontroverso que a presente ação foi ajuizada em prazo inferior a 2 anos da data em que proferida a decisão administrativa que indeferiu a compensação outrora pleiteada  tanto que assim constou do acórdão ora recorrido: "entre a data do acórdão administrativo, em 27.09.2013, e a datado ajuizamento da ação, em 18.07.2014 (ID 100852635 - fls. 03/38), decorreram quase 10 (dez) meses" :
+A. enquanto o acórdão recorrido entendeu que o prazo prescricional aplicável à hipótese seria de cinco anos, a contar da data do pagamento indevido do tributo;
+B. este Superior Tribunal de Justiça possui entendimento pacífico de que o prazo prescricional aplicável é de dois anos, a contar da data em que proferida a decisão que se busca anulação." (e-STJ fls. 1.031/1.032).
+Contrarrazões apresentadas às e-STJ fls. 1.082/1.098.
+O recurso especial foi inadmitido por aplicação do óbice da Súmula 83 do STJ, fundamento atacado no agravo.
+Sem contraminuta .
+Passo  a  decidir.
+O recurso especial se origina de procedimento ordinário ajuizada por RIBEIRAO DIESEL S.A. VEICULOS, visando ao reconhecimento do crédito decorrente de pagamentos indevidos a título do PIS e da COFINS, bem como a homologação das compensações pleiteadas em processo administrativo.
+A sentença reconheceu, de ofício, a prescrição da pretensão de reconhecimento dos indébitos e a compensação dos valores e julgou extinto o processo, com resolução do mérito.
+O Tribunal de origem negou provimento à apelação. Na ocasião, consignou (e-STJ fls. 963/965):
+Da análise dos presentes autos, verifica-se que a parte autora alega que pagou tributos indevidamente, a título de PIS e COFINS, nos períodos de junho, agosto e dezembro do ano de 2001 e nos períodos de março, setembro, outubro e novembro do ano de 2002, com fundamento no art. 3º, §1º da Lei 9.718/98.
+Posteriormente, efetuou pedidos de restituição na esfera administrativa nos anos de 2006 e 2007 (ID100852635 - fl. 10/32).
+O acórdão administrativo que indeferiu a compensação é de 27.09.2013 (ID 100849960 - fls. 30/38), e apresente ação foi ajuizada em 18.07.2014 (ID 100852635 - fls. 02/07).
+Anteriormente à vinda da Lei Complementar n.118/2005, a jurisprudência do Superior Tribunal de Justiça estava consolidada no sentido de que, para tributos sujeitos a lançamento por homologação, o prazo, na prática, para repetição ou compensação de indébito era de 10 (dez) anos.
+Assim, até a entrada em vigor da Lei Complementar 110/2005, nos tributos sujeitos a lançamento por homologação, o prazo para repetição ou compensação de indébito era de 10 anos contados do seu fato gerador, tendo em conta a aplicação combinada dos arts. 150, § 4º, 156, VII, e 168, I, do CTN.
+Entretanto, com a entrada em vigor da Lei Complementar 118/2005, quando a demanda for ajuizada depois de 09.06.2005, afasta-se a regra prescricional denominada "cinco mais cinco", aplicando-se, portanto, a prescrição quinquenal do art. 3º da referida Lei Complementar.
+O STF, no recurso extraordinário n. 566621, com repercussão geral, pacificou o entendimento no sentido de que para as ações referentes a repetições de indébitos ajuizadas a partir de 09.06.2005, ainda que tratem de recolhimentos indevidos realizados antes de sua vigência, deverá ser aplicado o prazo prescricional quinquenal, ou seja, o prazo de cinco anos, a contar da data do pagamento, previsto no art.3º da Lei Complementar nº118/2005.
+ ..
+No presente caso, o prazo prescricional aplicável é de 5 (cinco) anos, pois a ação foi ajuizada em 18.07.2014 (ID 100852635 - fls. 03/38), durante a eficácia da Lei Complementar n. 118/2005.
+A contagem do prazo iniciou-se com o pagamento antecipado dos tributos, ocorridos em 2001 e 2002, sendo o prazo prescricional suspenso com o início do processo administrativo, ou seja, em 2006 e 2007(ID 100852635 - fls. 44/250), respectivamente, quando já havia decorrido praticamente 5 (cinco) anos das datas dos pagamentos, e voltando a correr o prazo com o acórdão administrativo na data de 27.09.2013(ID 100849960- fls. 30/38), proferido nos autos do Processo Administrativo 15959.720020/2011-10.
+Entre a data do acórdão administrativo, em 27.09.2013, e a datado ajuizamento da ação, em 18.07.2014(ID 100852635 - fls. 03/38), decorreram quase 10 (dez) meses.
+Impõe-se reconhecer que, no caso dos autos, ocorreu a prescrição, porquanto a soma dos lapsos temporais acima mencionados (antes e depois do processo administrativo) ultrapassa os 5 (anos) previstos no art. 3ºda Lei Complementar n. 118/2005.
+Ressalte-se que o prazo prescricional do art. 169 do CTN refere-se à ação anulatória de ato administrativo e o pedido formulado na exordial da presente ação é de reconhecimento de indébito, com homologações das compensações efetuadas em processo administrativo, de modo que não se trata, portanto, de pedido de anulação de ato administrativo.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Apreciando atentamente a questão do prazo prescricional para a repetição de indébito e diferenciando-o do prazo bienal para a anulatória da decisão administrativa, esta Corte superior tem orientado que "o prazo de dois anos previsto no art. 169 do CTN é aplicável às ações anulatórias de ato administrativo que denega a restituição, que não se confundem com as demandas em que se postula restituição do indébito, cuja prescrição é regida pelo art. 168 do CTN" (REsp 799.564/PE, relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 18/10/2007, DJ de 5/11/2007, p. 225.).
+Nesse sentido:
+TRIBUTÁRIO. ART. 169 DO CTN. FALTA DE PREQUESTIONAMENTO. INAPLICABILIDADE ÀS AÇÕES DE REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO CONFIGURADA.
+1. Quando os embargos declaratórios são utilizados na pretensão de revolver todo o julgado, com nítido caráter modificativo, podem ser conhecidos como agravo regimental, em razão da instrumentalidade e celeridade processual.
+2. O Tribunal a quo, embora tenha abordado a questão prescricional, não emitiu juízo de valor sobre a tese contida no art. 169 do CTN, que trata da ação anulatória de decisão administrativa.
+3. Observa-se que a recorrente ajuizou "Ação de Repetição de Indébito" em vez de ação anulatória da decisão administrativa que denega a restituição, o que afasta a incidência do disposto no art. 169 do CTN para fazer incidir a prescrição do art. 168 do mesmo codex. EDcl no REsp 1.219.078/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 1º/10/2013, DJe 7/10/2013.
+4. A ausência de manifestação quanto ao art. 169 do CTN, portanto, é decorrência lógica da utilização da ação inadequada, o que afasta a necessidade do Tribunal de origem em pronunciar-se sobre tal normativo, porquanto inaplicável à hipótese.
+5. Proposta a ação de repetição de indébito em 8/6/2005, a prescrição do direito de pleitear a restituição ou compensação ocorre após expirado o prazo de cinco anos, contados do fato gerador, acrescido de mais cinco anos a partir da homologação tácita (tese dos "cinco  cinco"), o que conduz à prescrição dos valores anteriores a 8.6.1995.
+6. Os valores objeto da restituição tributária são referentes ao período de abril de 1991 a setembro de 1993, estando todos abarcados pelo instituto da prescrição.
+Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp n. 1.422.756/SC, relator Ministro Humberto Martins, Segunda Turma, julgado em 19/3/2015, DJe de 25/3/2015.).
+TRIBUTÁRIO. AÇÃO ANULATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL. CASO CONCRETO. CINCO ANOS.
+1. "O prazo de dois anos previsto no artigo 169 do CTN é aplicável às ações anulatórias de ato administrativo que denega a restituição, que não se confundem com as demandas em que se postula restituição do indébito, cuja prescrição é regida pelo art. 168 do CTN" (REsp 799.564/PE, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 05/11/2007).
+2. Hipótese em que, em razão de confusão procedimental administrativa, a parte pretende não só a anulação das decisões administrativas mas também a repetição do indébito, razão pela qual a pretensão está submetida ao prazo quinquenal do art. 168, I, do CTN.
+3. Recurso especial provido.
+(REsp n. 1.489.436/RN, relator Ministro Sérgio Kukina, relator para acórdão Ministro Gurgel de Faria, Primeira Turma, julgado em 6/8/2019, DJe de 5/9/2019.).
+Na hipótese dos autos, como relatado, "o pedido formulado na exordial da presente ação é de reconhecimento de indébito, com homologações das compensações efetuadas em processo administrativo, de modo que não trata, portanto, de pedido de anulação de ato administrativo" (e-STJ fl. 965), o que atrai a aplicação do prazo prescricional do art. 168 do CTN.
+Incide, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
