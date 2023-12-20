@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por DENIS SALINA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (HC n. 1421354-86.2023.8.12.0000).
+Depreende-se dos autos que o recorrente foi condenado à pena privativa de liberdade de 05 (cinco) anos e 06 (seis) meses de reclusão, e 550 (quinhentos e cinquenta) dias multa, em regime inicial fechado, ainda que sendo reconhecida a minorante do artigo 33, caput, da Lei n. 11.343/06 (fl. 89).
+A Defesa alega, em síntese, que há nulidade processual consistente na insuficiência de defesa desde as alegações finais e na própria ausência de defesa técnica, que sequer interpôs recurso apelatório.
+Alega a existência de constrangimento ilegal devido ao ilegal ingresso no domicílio sem fundadas razões da prática de crime no local, sendo ilícitas as provas derivadas.
+Ressalta a inexistência de provas da traficância, salientando que a palavra dos policiais não pode servir como embasamento à condenação.
+Requer, liminarmente, a suspensão dos efeitos da condenação e, no mérito, o provimento do recurso ordinário para que sejam anuladas as provas e absolvido o recorrente.
+É o relatório. DECIDO.
+In casu, da leitura do acórdão impugnado, constata-se que as questões fundamentais apresentada a esta Corte Superior não foram analisadas pelo Tribunal de origem, que sequer conheceu do writ.
+Ora, tem-se que a questão de direito deveria ter sido apreciada, mas não foi, pois, mesmo provocado, o Tribunal de origem sequer se manifestou acerca do mérito ventilado na impetração, ficando impedida esta Corte Superior de proceder à sua análise - sob pena de indevida supressão de instância.
+O Superior Tribunal de Justiça entende que, "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Não obstante, verifica-se que a ausência de manifestação do Tribunal a quo configurou indevida negativa de prestação jurisdicional.
+É consabido que a via estreita do writ não se presta para análise de temas que comportem recurso próprio, mas é fundamental que a ilegalidade, prima facie, seja afastada em decisão fundamentada.
+Diante da possibilidade de se evidenciar flagrante ilegalidade no caso concreto, o Tribunal de origem deve não somente analisar a questão, bem como, eventualmente, cassar a decisão questionada se estiver em desacordo com o ordenamento jurídico pátrio ou determinar providência apta a cessar o constrangimento ilegal.
+Tratando-se de questão relevante, devidamente suscitada na origem e que não demanda, em tese, o revolvimento fático-probatório, devem os autos retornar para o Tribunal, a fim de que se manifeste.
+Nesse sentido: AgRg no HC n. 630.875/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021; AgRg no HC n. 629.226/RO, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/2/2021, DJe de 26/2/2021.
+Ante o exposto, não conheço do recurso ordinário, contudo, concedo habeas corpus de ofício para anular o julgamento constante do acórdão proferido no HC n. 1421354-86.2023.8.12.0000, determinando sejam apreciadas pelo Tribunal a quo, como entender de direito, as que stões ali deduzidas, no prazo de até 30 dias.
+Publique-se. Intimem-se.
+ EMENTA
