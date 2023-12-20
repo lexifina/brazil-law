@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu seu recurso especial, fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 259):
+EMBARGOS À EXECUÇÃO FISCAL. REDUÇÃO FICTÍCIA DE LUCRO. NOTAS FISCAIS DESCLASSIFICADAS PELA FISCALIZAÇÃO. EFETIVA AQUISIÇÃO DAS MERCADORIAS COMPROVADA POR PERÍDICA. DESCONSTITUIÇÃO DA AUTUAÇÃO. MAJORAÇÃO DA VERBA HONORÁRIA.
+1. Caso concreto em que restou comprovado, por meio de perícia, a veracidade das alegações da parte, no sentido da efetiva aquisição das mercadorias constantes de notas fiscais desclassificadas pela fiscalização.
+2. Verba honorária imposta na sentença que deve ser majorada.
+3. Apelação da União Federal e remessa oficial não providas e recurso adesivo da embargante provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 270/274).
+Nas razões do apelo nobre (e-STJ fls. 276/284), a parte recorrente sustentou violação dos arts. 333, I, 460 e 535 do CPC/1973.
+Defende a ocorrência de omissão, sendo "indispensável o reconhecimento da nulidade do acórdão que apreciou os embargos declaratórios, na medida em que deixou de apreciar fatos graves e irrefutáveis consistentes na utilização de notas frias para aumento de custo da empresa envolvida, sem a devida comprovação da compensação dos cheques em nome das distribuidoras" (e-STJ fl. 282).
+Aduz que não houve a comprovação do fato constitutivo do direito da parte recorrida, "hábil à desconstituição da certidão de dívida ativa e da autuação fiscal" (e-STJ fl. 284).
+Sem contrarrazões.
+O recurso foi inadmitido pelo Tribunal de origem, em razão do enunciado sumular 7 do STJ (e-STJ fls. 298/299), decisão devidamente impugnada no presente agravo.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, cumpre destacar que o recurso especial se origina de embargos à execução fiscal julgados procedentes em primeira instância, em que se buscava a cobrança de débitos de IRPF.
+A Corte regional entendeu que a empresa demonstrou que não obtivera a disponibilidade econômica nas operações identificadas pela Fazenda Pública, razão pela qual manteve a sentença, quanto ao mérito da demanda.
+Considerado isso, no que diz respeito à indigitada ofensa ao art. 535 do CPC/1973, não assiste razão ao ente público.
+Com efeito, observa-se que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma ofensa à norma ora invocada.
+Vale mencionar que o Tribunal regional rechaçou a pretensão da parte embargante, destacando no voto condutor do julgado que "a embargante se desincumbiu em demonstrar que não obtive a disponibilidade econômica ou jurídica nas operações identificadas pela fiscalização, não obstante a inidoneidade das notas fiscais" (e-STJ fl. 257).
+No mérito, vê-se que ficou consignado que, a despeito dos argumentos da Fazenda Pública - de que era devida a tributação pelo IRPF, o fato gerador não restou comprovado, em razão da utilização de notas frias para aumento de custo da empresa envolvida, sem a devida comprovação da compensação dos cheques em nome das distribuidoras.
+Na ocasião, salientou que (e-STJ fl. 257):
+A perícia levada a cabo nos autos demonstrou que o Hospital adquiriu, efetivamente, as mercadorias constantes das notas fiscais desclassificadas pela fiscalização, pagando regularmente por elas.
+Diz o perito, textualmente:
+" Analisei os Livros Diários e, da mesma forma que o Fisco, constatei que as Notas Fiscais da Hospifarma e da Farmed foram lançadas na contabilidade, constatei ainda que os medicamentos foram recebidos, conferidos, aprovados e registrados nas fichas de controle de almoxarifado, de acordo com o conceito de custo médio.
+Consta nos autos cópias de cheques emitidos para pagamento das alegadas notas fiscais (apreendidos à época pela PF) e extrato de conta do Hospital junto ao Unibanco (vide Volume 3-Documento 11), confirmando que os cheques foram compensados" (fls.163/164).
+Verifica-se que a Corte regional entendeu, com base na prova constante dos autos que, não obstante a inidoneidade das notas fiscais, a perícia demonstrou que o Hospital adquiriu as mercadorias constantes das notas fiscais desclassificadas e comprovou a compensação dos cheques para pagamento delas, razão pela qual entendeu ser devida a manutenção da sentença que acolheu os embargos à execução fiscal, por ausência do fato gerador do imposto lançado pela fiscalização.
+Nesse contexto, a modificação desse entendimento demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7 do STJ. Ilustrativamente:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº 2. PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. LANÇAMENTOS CONTÁBEIS EQUIVOCADOS. ACRÉSCIMO PATRIMONIAL. PRESSUPOSTOS FÁTICOS PROBATÓRIOS FIXADOS NA ORIGEM. SÚMULA 7/STJ.
+1. A alegada omissão relativa à observância dos "requisitos necessários para a consideração, como despesa, dos créditos elencados no art. 9º da Lei nº 9.430/1996" foi apreciada no acórdão a quo, razão pela qual rejeita-se a preliminar de violação do artigo 535 do CPC.
+2. Resta claro que a empresa realizou autotutela a fim de corrigir a tributação sofrida a maior referente ao ano de 1997 mediante a reversão efetuada em sua contabilidade no ano de 1998. Assim, a Corte de Origem compreendeu claramente que não foram atendidos os pressupostos estabelecidos no art. 9º, da Lei n. 9.430/96, mas decidiu a causa com base no princípio da verdade real ao estabelecer o pressuposto fático de que a conduta da empresa, apesar de irregular, não levou a uma tributação a menor do que aquela a que estaria sujeita acaso efetuasse os procedimentos legais estabelecidos.
+3. A conclusão do Tribunal de origem é decorrente de análise de fatos e provas dos autos, motivo pelo qual a pretensão da recorrente, no sentido de que as operações efetivadas pela empresa representaram acréscimo patrimonial, fato gerador do imposto de renda, encontra óbice no teor da Súmula nº 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.529.084/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/06/2022, DJe 01/08/2022).
+RECURSO FUNDADO NO CPC/73. TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. IMPOSTO DE RENDA SOBRE LUCRO. FATO GERADOR. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEMONSTRAÇÃO DE QUE NÃO TERIA HAVIADO DISTRIBUIÇÃO DE LUCRO AOS SÓCIOS COTISTAS. NECESSIDADE DE REVOLVIMENTO DOS FATOS E DAS PROVAS. ÓBICE DA SÚMULA 7/STJ.
+1. O artigo 35 da Lei nº 7.713/88 não foi apreciado pela instância judicante de origem, sob a ótica pretendida pela ora agravante, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+2. Para se chegar à conclusão diversa daquela alcançada pela Corte de origem, de que a empresa teria auferido lucro no período indicado na CDA, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.315.095/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/06/2016, DJe 08/06/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
+EMENTA
