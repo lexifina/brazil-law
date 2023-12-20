@@ -1,0 +1,25 @@
+DECISÃO
+ESTEVÃO DE SOUZA MENDES agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0708040-96.2021.8.07.0009.
+O agravante foi condenado, como incurso no art. 155, caput, do Código Penal, à sanção de 1 ano de reclusão, no regime aberto, que foi substituída por uma pena restritiva de direitos, além do pagamento de 10 dias-multa, o que foi mantido em grau recursal.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 155, caput, e 386, VII, do Código de Processo Penal, ao argumento de que são insuficientes as provas usadas para a condenação do réu, razão por que requereu a absolvição deste.
+Apresentadas as contrarrazões (fls. 383-386), recurso foi inadmitido na origem (fls. 389-390), o que deu causa à interposição deste agravo (fls. 395-406).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 428-429).
+Decido.
+O agravo é tempestivo e infirma os fundamentos da decisão agravada, motivo pelo qual comporta conhecimento.
+O especial, por sua vez, não suplanta o juízo de prelibação, haja vista a incidência da Súmula n. 7 do STJ.
+O Tribunal de origem manteve a condenação do acusado pelo crime a ele imputado, sob os seguintes fundamentos (fls. 344-345, grifei):
+Nesse contexto, analisando os elementos de informação citados, entendo ser clara a indicação de que a vítima colocou vários objetos relacionados a seu trabalho no porta-malas de um veículo do aplicativo 99POP, conduzido pelo Apelante, e, quando a vítima desembarcou do veículo, o motorista arrancou, não dando chance de os bens serem retirados. Ademais, restou demonstrado nos autos que a vítima e Carolina Helen tentaram contato com o citado motorista, mas que eles não tiveram sucesso, constando ainda da fase extrajudicial que o Apelante consta como autor em ocorrência policial anterior por fatos similares, a qual não teve andamento por ausência de indiciamento.
+Na fase judicial, verifico que não obstante o Apelante tenha negado a prática do delito, a vítima e Carolina Helen Santana de Oliveira confirmaram coerentemente as versões extrajudiciais, corroborando os elementos de informação anteriormente citados, motivo pelo qual deve ser mantida a condenação.
+ ..
+Nesse contexto, verifico que em ambos os depoimentos se confirmou que o Apelante saiu com o carro com os objetos da vítima no porta-malas e que tentaram, por várias vezes, contato com ele, mas sem sucesso, eis que ele não retornava as ligações, nem as mensagens, e as pessoas que atenderam ao telefone e o aplicativo não solucionaram a questão.
+Ademais, segundo consta do depoimento da vítima, mesmo após bastante tempo, o Apelante não devolveu os bens, nem fez contato, tendo ele asseverado, ainda, que fica em casa em vários momentos e quando sai, sua tia fica em casa cuidando da avó, o que denota a intenção de não devolver os bens que ficaram no veículo.
+Ressalto que essa conclusão é reforçada pelo fato de o Apelante constar como autor em ocorrência policial anterior, em que foi narrada conduta similar, segundo a qual não obstante o Apelante tenha afirmado que iria devolver o aparelho celular que foi esquecido em seu veículo, a vítima daquele fato não conseguiu mais contato com ele, eis que ele não atendia mais as ligações.
+Dessa forma, constato que as instâncias antecedentes, após minuciosa análise do acervo fático-probatório carreado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do recorrente pelo crime que lhe foi imputado, tanto em relação à autoria quanto no tocante à materialidade.
+Nesse sentido, destaco o relato da vítima, de que colocou vários objetos de trabalho no veículo conduzido pelo motorista de aplicativo, onde fez viagem. Disse que, quando desembarcou, o acusado deixou repentinamente o local, sem dar chance de os bens serem retirados. Ressaltou haver realizado inúmeras tentativas de contato para reaver os utensílios, todas infrutíferas. O referido depoimento foi corroborado pela prova testemunhal colhida.
+Diante disso e sem aprofundamento no material cognitivo dos autos, não se observa a alegada insuficiência probatória para a condenação do réu.
+Alterar a conclusão da Corte de origem, com o intuito de absolver o recorrente, na forma pretendida pela defesa, demandaria necessário revolvimento do conjunto fático-probatório dos autos, procedimento vedado segundo o teor da Súmula n. 7 do STJ.
+Ilustrativamente:
+ ..  Para entender-se pela absolvição do recorrente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ  ..  (AgRg no AREsp n. 2.324.312/MG, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 30/6/2023).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
