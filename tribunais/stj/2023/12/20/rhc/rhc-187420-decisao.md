@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FRANCISCO ORLANDO VIEIRA DE SA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dos delitos previstos no art. 121, § 2º, IV, do Código Penal e pronunciado em 20/06/2023, sendo negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão para a garantia da ordem pública pois o recorrente ficou foragido à época bem como pelo fundado receio de reiteração delitiva e denegou a ordem, em acórdão de fls. 95-106.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado: a) falta de fundamentação da decisão que decretou a segregação cautelar; b) condições pessoais favoráreis do recorrente.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de sustentação oral à fl. 118.
+A liminar indeferida às fls. 234-235.
+As informações foram prestadas às fls. 241-691, 692-1.142 e 1.145-1.153.
+O Ministério Público Federal em parecer, às fls. 1.155-1.158, manifestou em parecer que restou assim ementado:
+"RECURSO ORDINÁRIO EM HC. CRIME DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. - A prisão preventiva merece ser mantida; gravidade concreta da conduta do réu; réu que responde a outro procedimento criminal; garantia da ordem pública. - Parecer pelo desprovimento do recurso ordinário" - fl. 1.155.
+É o relatório. DECIDO.
+Quanto a segregação cautelar, no caso em tela, tenho que a decisão que decretou a prisão preventiva do recorrente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade do recorrente que, mediante dissimulação, conduziu a vítima para local ermo, no caso, as proximidades de um cemitério da região, e, aproveitando-se de sua impossibilidade de defesa pelo aparente estado de embriaguez e pelo fato de a vítima estar sozinha, desferiu um golpe de faca na região de seu peitoral, sendo esta a causa de sua morte- fl. 47.
+A propósito:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei)
+Sobre o tema, colaciono os seguintes precedentes desta eg. Corte Superior: (AgRg no HC n. 766.407/AM, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/10/2022); (AgRg no RHC n. 165.374/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/3/2023);(AgRg no HC n. 763.540/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/3/2023); (AgRg no RHC n. 174.050/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Ressalte-se ainda, que o juízo a quo destacou na fundamentação da sentença de pronúncia que:
+"existe grande risco de reiteração delitiva, inclusive em infrações de mesma natureza e gravidade, assim depreendido da certidão de IDs 35913891 e 35914244, que atesta multiplicidade de procedimentos criminais autuados em seu desfavor" - fl. 49.
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Quanto ao pedido de sustentação oral, plenamente possível, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema.
+Nesse sentido:
+"A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019)" (AgRg no HC n. 796.496/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023)." (AgRg no HC n. 827.752/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
