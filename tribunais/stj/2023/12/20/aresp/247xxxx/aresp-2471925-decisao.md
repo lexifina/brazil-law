@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição ) interposto contra acórdão assim ementado:
+APELAÇÃO. AÇÃO ORDINÁRIA. POLICIAL MILITAR. INCLUSÃO EM LISTA DE PROMOÇÃO. RECUSA. AÇÃO PENAL. DENÚNCIA OFERECIDA SEM OBSERVAR QUE O INQUÉRITO POLICIAL SOBRE O MESMO FATO JÁ HAVIA SIDO ARQUIVADO. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA CARACTERIZADA. RECURSO IMPROVIDO. SENTENÇA MANTIDA.
+1 - O legislador estadual vedou a inclusão de policial que for denunciado ou pronunciado em processo crime em lista de pré- qualificação, indispensável para a promoção, ex vi dos arts. 130, IV, e 134, da Lei Estadual nº 7.990/01.
+2 - Ocorre que, a hipótese comporta uma análise que exige cautela e prudência, sobretudo porque constatado, através de consulta ao Sistema de Automação da Justiça de 1º grau, que possivelmente a ação penal de n.º 0562254-46.2014.8.05.0001, utilizada como fundamento para a negativa com fulcro no dispositivo previsto na Lei 7.990/01 (Estatuto da Polícia Militar da Bahia), não terá seu regular prosseguimento, tendo em vista que a denúncia foi oferecida sem observar que o inquérito policial sobre o mesmo fato já havia sido arquivado pelo 1º Juízo da 1ª Vara do Tribunal do Júri, conforme se observa nos autos do inquérito policial n.º 0411320-47.2012.805.0001, em que o Ministério Público pediu o arquivamento, o que foi acatado, à época, pelo Magistrado.
+3- Destarte, existindo controvérsia a respeito do prosseguimento da ação penal instaurada contra o policial militar apelado, mostra-se descabida a conduta da Administração Pública, ao vedar a inclusão de seu nome na "Lista de Acesso à Promoção", à luz dos princípios constitucionais da legalidade e presunção de inocência.
+Apelo Improvido. Sentença mantida.
+Os Embargos de Declaração foram rejeitados (fls. 206-225, e-STJ).
+A parte agravante, nas razões do Recurso Especial, aponta violação dos arts. 140 e 1.022 do CPC. Aduz:
+A ausência de apreciação no julgamento de questões de direito pertinentes a lei federal no sentido de obstaculizar o prequestionamento ocasiona vício na prestação jurisdicional por omissão, cujo suprimento pode se dar através da oposição de embargos declaratórios, na forma do art. 1.022, inciso II, do Código de Processo Civil.
+Sem contrarrazões.
+Decisão de inadmissibilidade às fls. 235-238, e-STJ, o que ensejou a interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.12.2023.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o decisum que, mesmo sem ter examinado individualmente cada uma das alegações trazidas pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas sem acatar a tese defendida pela parte recorrente.
+Consignou-se no acórdão integrativo (fls. 212-214, e-STJ):
+Trata-se de embargos declaratórios opostos pelo Estado da Bahia contra o acórdão da Terceira Câmara Cível que negou provimento à apelação por si interposta, mantendo a decisão que julgou parcialmente procedente o pedido para determinar que o embargante coloque o nome do embargado na Lista de Acesso dos 1º Sargentos PM com o CAS para concorrer à graduação de Subtenente, podendo recusar administrativamente a promoção do policial militar, desde que não seja motivada, unicamente, pelo fato de existir mera instauração de Ação Penal, sem sentença condenatória transitada em julgado.
+Os embargos de declaração consistem em espécie recursal de fundamentação vinculada, destinando-se, tão somente, a aclarar decisões obscuras, eliminar contradições, suprir pontos omissos sobre os quais deveria ter se pronunciado, de ofício ou a requerimento, o juiz ou tribunal, ou corrigir erros materiais (art. 1.022, CPC/2015).
+Ocorre que o acórdão vergastado não incorreu nos vícios do art. 1.022 do CPC, pois esclareceu de maneira completa, clara e objetiva que a hipótese comportava uma análise que exigia cautela e prudência, sobretudo porque constatado, através de consulta ao Sistema de Automação da Justiça de 1º grau, que possivelmente a ação penal de n.º 0562254-46.2014.8.05.0001, utilizada como fundamento para a negativa da promoção do policial militar, não prosseguirá regularmente, tendo em vista que a denúncia foi oferecida sem observar que o inquérito policial sobre o mesmo fato já havia sido arquivado pelo 1º Juízo da 1ª Vara do Tribunal do Júri, conforme se observa nos autos do inquérito policial n.º 0411320-47.2012.805.0001, em que o Ministério Público pediu o arquivamento, o que foi acatado, à época, pelo Magistrado.
+Destarte, existindo controvérsia a respeito do prosseguimento da ação penal instaurada contra o policial militar apelado, mostra-se descabida a conduta da Administração Pública, ao vedar a inclusão de nome do apelado na "Lista de Acesso à Promoção", à luz dos princípios constitucionais da legalidade e presunção de inocência.
+(..)
+Assim, comprovada a inexistência de omissão/contradição/obscuridade no julgado, concluo que a insurgência pretende apenas o reexame da matéria por via inadequada.
+Observa-se que o Tribunal a quo se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde da controvérsia, inclusive daquelas que a recorrente alega terem sido omitidas.
+Dessa forma, correta a rejeição dos Embargos Declaratórios ante a inexistência de omissão, contradição, obscuridade ou erro material a serem sanados. Por conseguinte, não houve violação aos arts. 140, 489 e 1.022 do CPC/2015.
+Ademais, a Corte de origem decidiu a controvérsia com enfoque eminentemente constitucional (à luz dos princípios da legalidade e presunção de inocência), insuscetíveis, portanto, de serem examinadas nesta via, sob pena de usurpação de competência do STF.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
