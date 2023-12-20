@@ -1,0 +1,53 @@
+DECISÃO
+FÁTIMA REGINA PEREIRA DAN alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Recurso em Sentido Estrito n. 5008337-42.2023.8.24.0033.
+A paciente foi denunciada por suposta prática do ilícito previsto no art. 2º, II, da Lei n. 8.137/1990, em continuidade delitiva (12 vezes). O juízo de primeiro grau rejeitou a denúncia pela incidência da insignificância. A Corte antecedente recebeu a denúncia e determinou a continuação da ação penal.
+A defesa pleiteia a reforma do acórdão impugnado para restabelecer a decisão que rejeitou a inicial acusatória. Aduz, em síntese, que o valor do débito tributário é inferior ao estabelecido na legislação local para a propositura de execução fiscal.
+Requer a concessão da ordem, para restabelecer a decisão de primeiro grau.
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Mônica Campos de Ré, às fls. 201-211, opinou pelo não conhecimento do habeas corpus e, eventualmente, pela denegação da ordem.
+Decido.
+I. Crime tributário - insignificância
+Conforme já relatado, a paciente foi denunciada por suposta prática do crime previsto no art. 2º, II, da Lei n. 8.137/1990, em continuidade delitiva (12 vezes). Requer o restabelecimento da rejeição da denúncia por incidência do princípio da insignificância.
+A Corte antecedente assim se manifestou (fls. 183-189):
+ ..
+Como visto, o fundamento da absolvição sumária consiste na aplicação do princípio da insignificância por maio do qual se concluiu pela atipicidade da conduta, na medida em que o montante supostamente apropriado a título de ICMS não teria ultrapassado o piso estipulado em recente Portaria da Procuradoria-Geral do Estado de Santa Catarina, cujo patamar, uma vez não alcançado, dispensaria a ação de cobrança da dívida ativa, efeito esse que deveria ser estendido à ação penal à luz do aludido princípio.
+Delimitada a discussão recursal a partir dos fundamentos postos na sentença, são dispensadas outras considerações a respeito da conformação típica da conduta.
+ ..
+De outra parte, é cediço que o princípio da insignificância também está atrelado aos postulados da fragmentariedade e intervenção mínima do Estado na aplicação da lei penal, tratando-se de uma causa supralegal de exclusão da tipicidade.
+ ..
+Postas essas balizas no presente caso, convém pontuar que a sentença combatida perfilha o entendimento de que, ao tratar-se de tributo de competência estadual, é necessário aferir a expressividade da ofensa jurídica de modo distinto daquela pautada em tributos de competência federal.
+Em decorrência, não incide a Lei 10.522/2002, uma vez que trata de débitos para com a Administração Pública Federal.
+O suposto prejuízo causado aos cofres públicos passa pelo exame do piso estabelecido no art. 5º, I, da Lei 12.645/2003 do Estado de Santa Catarina, que instituiu o Programa Catarinense de Revigoramento Econômico - REVIGORAR, segundo o qual:
+Art. 5º. Independentemente do transcurso do prazo prescricional, não será encaminhada à Procuradoria-Geral do Estado para ajuizamento a Dívida Ativa:
+I - de valor inscrito até R$ 2.500,00 (dois mil e quinhentos reais), relativa ao ICMS, exceto quando decorrente de multas não proporcionais ao valor do imposto ou mercadoria.
+Essa legislação não foi expressamente revogada pela Lei Estadual 15.856/2012 que cuidou da instituição do REVIGORAR IV, dispondo sobre a transação de créditos tributários inscritos em dívida ativa.
+Contudo, o art. 16 da referida lei dispunha:
+Art. 16. A Procuradoria-Geral do Estado  ca dispensada de ajuizar execução cujo montante, em nome do devedor, não exceda a R$ 5.000,00 (cinco mil reais) (redação original - vigente de 03.08.12 a 28.12.17).
+Com a publicação da Lei estadual 17.427/2017 e o disposto em seu art. 35, o referido dispositivo contou com nova redação:
+Art. 16. A Procuradoria-Geral do Estado fica dispensada de ajuizar execução cujo montante, em nome do devedor, não exceda a R$ 20.000,00 (vinte mil reais) (redação dada pelo art. 35 da Lei 17.427/2017 - vigente de 29.12.17 a 19.07.21).
+Diante da superveniência da Lei 18.165/2021, responsável pela instituição do Programa Catarinense de Recuperação Fiscal de 2021 (PREFIS-SC/2021), com efeitos a partir de 20-7-2021, por força do seu art. 22 o aludido art. 16 em estudo foi expressamente revogado.
+Frente a esse panorama, a Procuradoria-Geral do Estado editou a Portaria GAB/PGE 58, datada de 20-7-2021 e publicada no Diário Oficial do Estado em 21-7-2021. Dessa normativa atualmente vigente, extrai-se do seu art. 1º:
+Art. 1º Fica estabelecido em R$ 50.000,00 (cinquenta mil reais) o valor mínimo para ajuizamento de ação de cobrança da dívida ativa do Estado e de suas autarquias e fundações de direito público.
+Com esse histórico legislativo, o primeiro ponto de destaque diz respeito ao quantum que deve ser aferido para avaliação da insignificância da conduta: se o valor meramente simbólico do tributo não recolhido despido dos acréscimos legais, ou se o valor global desses consectários.
+Compreende-se que o débito deve ser encarado com a integração da sanção pecuniária (multa e juros) que está embutida na constituição do crédito tributário, materializado no Termo de Inscrição em Dívida Ativa descrito na denúncia.
+ ..
+Por essa razões, é plenamente viável considerar o valor global do crédito tributário inscrito em dívida ativa (no caso, o total de R$ 33.502,97).
+A partir dessa constatação, convém observar que a legislação estadual vigente ao tempo dos fatos (Lei 15.856/2012) estabelecia o piso para a dispensa da execução fiscal em R$ 5.000,00, de maneira que o montante acima extrapolou-o.
+Para reforçar o desacerto da sentença, pondera-se ainda que à luz da sucessão legislativa acima estudada há um diferença sutil, mas fundamental, entre a redação primitiva do art. 16 da 12.646/2003 e as alterações que lhe sucederam. Explica-se: aquela taxativamente estabelecia que a dívida ativa inferior a R$ 2.500,00 não seria executada, ao passo que as redações posteriores conferiram discricionariedade ao Procurador-Geral do Estado, ao trazer a hipótese de mera dispensa da execução fiscal.
+Não fosse suficiente, igualmente é importante sopesar que a novel Lei Estadual 18.165/2021, responsável pela revogação do art. 16 da Lei 15.856/2012 e que deu ensejo à publicação da Portaria GAB/PGE 58/2021, fixando o valor mínimo de R$ 50.000,00 para ajuizamento da ação de cobrança da dívida ativa estadual, não se aplica ao caso em tela, tendo em vista que os fatos aqui apurados foram praticados em 2019 e 2020 e a referida Portaria foi publicada apenas em 21-7-2021.
+ ..
+Por todos esses motivos, tem-se que o valor total do crédito tributário não pode ser considerado ínfimo a ponto de incidir os princípios em estudo.
+Ademais, vale acrescentar que a conduta supostamente praticada pela agente mostra-se extremamente prejudicial ao erário público, porque tem o condão de lhe subtrair a capacidade de investimento em programas e serviços públicos essenciais à sociedade (saúde, segurança, infraestrutura, políticas públicas, etc.), podendo, ainda que teoricamente, afetar as empreses concorrentes, porque permite o enriquecimento indevido do contribuinte que se apropria de valor não recolhido ou qualificando melhor a concorrência feita por ela.
+Fora isso, o delito imputado à recorrida foi, em tese, perpetrado em continuidade delitiva, porque consistente em doze infrações à ordem tributária, reiteração essa que tem o condão de denotar, por ora, a reprovabilidade do comportamento, a qual não pode ser considerada mínima.
+ ..
+Por esses fundamentos, a sentença em exame deve ser cassada, a fim de que haja regular processamento do feito na origem, adentrando-se na fase instrutória, sobretudo porque, como consabido, na atual fase processual de cognição sumária, vige o princípio "in dubio pro societate".
+Ante o exposto, voto no sentido de conhecer do recurso e dar-lhe provimento para cassar a sentença, de modo a determinar o prosseguimento da instrução criminal na origem.
+Em 28/2/2018, a Terceira Seção, por maioria, deu provimento ao REsp n. 1.709.029/MG e modificou o Tema 157 (REsp n. 1.112.748/TO), para fixar a seguinte tese em recurso repetitivo: incide o princípio da insignificância nos crimes tributários federais e de descaminho quando o débito tributário verificado não ultrapassar o limite de R$ 20 mil, a teor do disposto no art. 20 da Lei n. 10.522/2002, com as atualizações efetivadas pelas Portarias n. 75 e 130, ambas do Ministério da Fazenda.
+Em relação aos tributos estaduais, o parâmetro a ser observado é a existência de norma semelhante à Lei Federal n. 10.522/2002, que define valores de referência para propositura e desistência de execuções fiscais.
+Na hipótese, a instância de origem consignou que a Lei Estadual n. 18.165/2021 deu ensejo à Portaria n. 58/2021, a qual definiu o patamar de R$ 50.000,00 como parâmetro para propositura de execução fiscal no Estado de Santa Catarina. O débito tributário devido pela paciente, incluídos, inclusive, juros e multa, é de R$ 35.000,00 (trinta e cinco mil reais), inferior, portanto, ao valor de referência.
+O argumento de que a referida legislação, que alterou o valor de referência, é inaplicável, por ser posterior aos fatos apurados nesta ação penal, não deve prevalecer, pois equipara-se à hipótese de novatio legis in mellius.
+Assim, está correta a decisão de primeira instância que rejeitou a denúncia.
+II. Dispositivo
+Ante o exposto, concedo a ordem de habeas corpus, para restabelecer a decisão de primeira instância que rejeitou a denúncia (Proc. n. 5027957-74.2022.8.24.0033/SC).
+Oficie-se, com urgência, ao Tribunal de origem, bem como ao Juízo da execução, comunicando-lhes o teor desta decisão.
+Publique-se e intimem-se.
+EMENTA
