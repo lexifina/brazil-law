@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por RADYR ROMANO PONTES contra decisão de inadmissibilidade de recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional que desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. ART. 1.021DO CPC. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA PARA RECONHECER A ILEGITIMIDADE PASSIVA DE SÓCIO. EXECUÇÃO FISCAL QUE NÃO É EXTINTA. VERBA HONORÁRIA. TEMA REPETITIVO 961 DO STJ. CAUSALIDADE. RECURSO DESPROVIDO.
+-A Primeira Seção do E. Superior Tribunal de Justiça, no julgamento do REsp nº 1.358.837/SP, submetido à sistemática dos recursos repetitivos do art. 543-C do CPC/73, fixou a seguinte tese (Tema 961):"Observado o princípio da causalidade, é cabível a fixação de honorários advocatícios, em exceção de pré-executividade, quando o sócio é excluído do polo passivo da execução fiscal, que não é extinta."
+- Na espécie, a exceção de pré-executividade do ora agravante foi acolhida para exclui-lo do feito executivo, logo, em tese, seria cabível a fixação de honorários advocatícios.
+- Contudo, como bem observou a r. decisão monocrática ora recorrida, ao tempo do pedido de redirecionamento da execução fiscal em 27/11/2007, constava na ficha cadastral JUCESP da empresa executada que o agravante ocupava o cargo de conselheiro fiscal (nº 103.447/01-5 -sessão:05/06/2001).
+- Somente em 17/03/2015 a Presidência da JUCESP determinou a suspensão do referido registro, em virtude decisão judicial que reconheceu a nulidade da ata da assembleia geral extraordinária na qual constou a eleição do agravante para o cargo de conselheiro fiscal (nº851.839/15-0 -sessão:18/03/2015).
+- Portanto, foi correta a r. decisão monocrática ora recorrida ao entender que não houve indevido pedido de redirecionamento por parte da exequente que, ao tempo da manifestação, havia justo motivo para requerer a responsabilização tributária do agravante, com base no art. 135, III do CTN e, pela aplicação do princípio da causalidade, concluir que a União exequente não deve suportar a condenação em verba honorária.
+- As razões recursais não contrapõem os fundamentos do r. decisum a ponto de demonstrar qualquer desacerto, limitando-se a reproduzir argumentos os quais visam à rediscussão da matéria nele contida.
+- Agravo interno desprovido.
+Em suas razões, o agravante aponta violação dos arts. 85, caput e §1.º, do CPC//2015; 135, inciso III, do CTN, bem como dissídio jurisprudencial.
+Defende, em síntese, que sendo descabido e ilegítimo o redirecionamento da execução fiscal tal qual se deu, gerando, por isso, a exclusão do recorrente de seu polo passivo, cumpre a Fazenda Nacional arcar com o ônus da sucumbência, na for ma do art. 85, caput e § 1.º, do CPC.
+Contrarrazões apresentadas às e-STJ fls. 558/562.
+A Corte regional inadmitiu o recurso especial ante a incidência da Súmula 7 do STJ, fundamento com o qual não concorda a parte agravante.
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento interposto contra decisão que acolheu a exceção de pré-executividade, mas afastou a condenação da Fazenda em honorários sucumbenciais.
+O Tribunal negou provimento ao recurso, nos seguintes termos (e-STJ fls. 486/489):
+Cinge-se a controvérsia unicamente acerca da condenação em honorários advocatícios.
+A Primeira Seção do E. Superior Tribunal de Justiça, no julgamento do REsp nº 1.358.837/SP, submetido à sistemática dos recursos repetitivos do art. 543-Cdo CPC/73, fixou a seguinte tese (Tema 961): "Observado o princípio da causalidade, é cabível a fixação de honorários advocatícios, em exceção de pré-executividade, quando o sócio é excluído do polo passivo da execução fiscal, que não é extinta."
+Na espécie, a exceção de pré-executividade do ora agravante foi acolhida para exclui-lo do feito executivo, logo, em tese, seria cabível a fixação de honorários advocatícios.
+Contudo, como bem observou a r. decisão monocrática ora recorrida, ao tempo do pedido de redirecionamento da execução fiscal em 27/11/2007, constava na ficha cadastral JUCESP da empresa executada que o agravante ocupava o cargo de conselheiro fiscal (nº 103.447/01-5 - sessão: 05/06/2001 - id nº 255747595 - Pág. 15).
+Somente em 17/03/2015 a Presidência da JUCESP determinou a suspensão do referido registro, em virtude decisão judicial que reconheceu a nulidade da ata da assembleia geral extraordinária na qual constou a eleição do agravante para o cargo de conselheiro fiscal (nº 851.839/15-0 - sessão: 18/03/2015 - id nº 255747620 -Pág. 4/5; id nº 255747883 - Pág. 59).
+Portanto, foi correta a r. decisão monocrática ora recorrida ao entender que não houve indevido pedido de redirecionamento por parte da exequente que, ao tempo da manifestação, havia justo motivo para requerer a responsabilização tributária do agravante, com base no art. 135, III do CTN e, pela aplicação do princípio da causalidade, concluir que a União exequente não deve suportar a condenação em verba honorária.
+Nesse ponto, há que se destacar que, diferentemente do que alega o agravante, a exceção de pré-executividade foi acolhida para reconhecer a sua ilegitimidade porque a exequente concordou com a procedência do pedido, já que, ao fim e ao cabo, restou comprovado que o agravante não foi sócio, tampouco exerceu o cargo de conselheiro fiscal na empresa executada. A propósito, transcrevo trecho da decisão recorrida, in verbis :  ..
+Portanto, o acolhimento da exceção de pré-executividade não decorreu de suposto reconhecimento quanto à ausência de responsabilidade tributária de membro do Conselho Fiscal. De outra parte, não se sustenta a alegação de reformatio in pejus vez que a decisão recorrida não foi reformada, mormente tendo em conta o desprovimento do agravo de instrumento. As razões recursais não contrapõem os fundamentos do r. decisum a ponto de demonstrar qualquer desacerto, limitando-se a reproduzir argumentos os quais visam à rediscussão da matéria nele contida.
+Pois bem.
+O recurso não merece ser conhecido.
+O Tribunal de origem concluiu, com base no princípio da causalidade (Tema 961 do STJ) pelo não cabimento da fixação da verba honorária. Confira-se:
+Na espécie, a exceção de pré-executividade do ora agravante foi acolhida para exclui-lo do feito executivo, logo, em tese, seria cabível a fixação de honorários advocatícios.
+Contudo, como bem observou a r. decisão monocrática ora recorrida, ao tempo do pedido de redirecionamento da execução fiscal em 27/11/2007, constava na ficha cadastral JUCESP da empresa executada que o agravante ocupava o cargo de conselheiro fiscal (nº 103.447/01-5 - sessão: 05/06/2001 - id nº 255747595 - Pág. 15).
+ ..
+Nesse ponto, há que se destacar que, diferentemente do que alega o agravante, a exceção de pré-executividade foi acolhida para reconhecer a sua ilegitimidade porque a exequente concordou com a procedência do pedido, já que, ao fim e ao cabo, restou comprovado que o agravante não foi sócio, tampouco exerceu o cargo de conselheiro fiscal na empresa executada.
+ ..
+Portanto, o acolhimento da exceção de pré-executividade não decorreu de suposto reconhecimento quanto à ausência de responsabilidade tributária de membro do Conselho Fiscal.
+A conclusão da instância ordinária, de não atribuir à Fazenda exequente o pagamento de honorários de sucumbência pelo princípio da causalidade, foi feita com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse contexto, além de estar o acórdão em conformidade com o pacífico entendimento jurisprudencial deste Tribunal Superior, sua revisão só seria possível mediante revisão do acervo probatório, providência inadequada em recurso especial, consoante enunciado da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois não houve fixação de verba de advogado na instância ordinária.
+Publique-se. Intimem-se.
+EMENTA
