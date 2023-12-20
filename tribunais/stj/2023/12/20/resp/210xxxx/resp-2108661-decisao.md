@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 616):
+Associação de moradores. Loteamento. Despesas com consumo individualizado de água que devem ser cobradas do autor, ainda que não pretenda mais se manter ser associado. Precedentes deste Tribunal. Taxas de manutenção. Impossibilidade de cobrança de quem não seja associado, mesmo que à luz do princípio que veda o enriquecimento sem causa. Lei 13.475/2017 que não tem aplicação retroativa. Ausência de subsunção às hipóteses previstas no Tema 492 do STF que autorizam a cobrança. Sentença revista. Recurso provido.
+No recurso especial (e-STJ fls. 653/676), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega violação do art. 884 do CC/2002, sob o fundamento de que é possível a cobrança de taxa de manutenção a partir do advento da Lei n. 13.465/2017, ainda que a parte recorrida tenha manifestado o direito de desassociar-se.
+Segundo afirma, "de acordo com o próprio entendimento firmado em regime de julgamento repetitivo, convivem, portanto, a impossibilidade de cobrança de taxa ao não associado com a possibilidade de cobrança dos valores condizentes com serviço que beneficie o respectivo morador e na medida desse benefício" (e-STJ fl. 662).
+Argumenta que "EXISTE LEI MUNICIPAL ANTERIOR disciplinando a questão, bem como quando do lançamento do loteamento houve a celebração de um CONTRATO DE COMPROMISSO PADRÃO avençado em caráter irrevogável e irretratável, obrigando as partes e seus herdeiros e sucessores, em que restou avençado na Cláusula 17ª, que na hipótese dos promitentes vierem a executar melhoramentos ou serviços que vierem beneficiar direta ou indiretamente o COMPROMISSÁRIO, até que os poderes públicos se encarreguem de fazê-lo" (e-STJ fl. 664).
+Foram apresentadas contrarrazões (e-STJ fls. 681/690).
+Juízo positivo de admissibilidade (e-STJ fls. 700/701).
+É o relatório.
+Decido.
+O Tribunal de origem assim consignou em suas razões de decidir (e-STJ fls. 620/636):
+O autor, a respeito, reconhece no apelo que devido o pagamento da água, desde que destacado e sem a concomitante incidência da taxa associativa.
+(..)
+No mais, quanto à impossibilidade de cobrança das taxas associativas, ratificam-se, de novo, as ponderações externadas no AI 2158266-22.2021.8.26.0000:
+(..)
+Neste contexto, não cabe impor, pela superveniência da Lei 13.465, e se o associado pretende se desligar, o pagamento das contribuições, mesmo, portanto, que antes ele viesse pagando estes valores.
+(..)
+Seja como for, por ora anota-se que, no próprio Tema 492, o STF fixou o entendimento de que, "no caso de novos adquirentes de lotes, o ato constitutivo da obrigação tenha sido registrado no competente registro de imóveis ". Sucede que, como visto, não parece que o autor se enquadre no que se chamou de novo adquirente, afinal titular de lote desde 2013, assim muito antes da edição da Lei 13.465/17, cuja aplicação, como visto, não pode ser retroativa.
+(..)
+E não se entende alterado o panorama anteriormente analisado, tanto mais porque a ré não trouxe outras provas a comprovar suas alegações. Com efeito, a ré não esclareceu a questão do registro do contrato-padrão, sequer acostando cópia legível da matrícula, como se observou no agravo. Ademais, tampouco esclareceu mais detidamente a incidência das leis municipais ao caso. E, ao especificar as provas que pretendia produzir, limitou-se a formular requerimentos genéricos (fls. 500/502), anexando, apenas, cópias de outros julgados (fls. 503/522), sem juntar os demais documentos indicados no agravo.
+Modificar o entendimento do acórdão impugnado quanto à ausência de comprovação da existência de registro de contrato padrão ou de possibilidade de aplicação das leis municipais ao caso em questão a fim de legitimar a incidência da taxa de manutenção, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Além disso , a decisão recorrida, ao reconhecer indevida a cobrança de taxa de manutenção de não associado, não destoa da jurisprudência desta Corte, no sentido de que "não há qualquer vedação para o associado se desfiliar da associação, de sorte que as taxas de manutenção serão devidas apenas e tão-somente até a data da sua manifestação" (AgInt no REsp 1.794.541/SP, rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/06/2019, DJe 14/06/2019).
+Nesse mesmo sentido:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. APORTES FINANCEIROS E TAXAS DE MANUTENÇÃO INSTITUÍDOS POR ASSOCIAÇÃO DE PROMITENTES COMPRADORES DE UNIDADES DE CONDOMÍNIO. VALORES ESTIPULADOS APÓS A VENDA DA UNIDADE CONDOMINIAL A TERCEIRO, COM A ANUÊNCIA EXPRESSA DA ASSOCIAÇÃO. IMPOSSIBILIDADE. LIBERDADE DE ASSOCIAÇÃO. ENRIQUECIMENTO ILÍCITO NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram" (Recurso Especial Repetitivo n. 1.439.163/SP, Relator p/ acórdão Ministro Marco Buzzi, Segunda Seção, julgado em 11/3/2015, DJe de 22/5/2015).
+2. Ademais, "não há qualquer vedação para o associado se desfiliar da associação, de sorte que as taxas de manutenção serão devidas apenas e tão-somente até a data da sua manifestação" (AgInt no REsp 1.794.541/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/06/2019, DJe de 14/06/2019).
+3. Hipótese em que unidade condominial adquirida pelo associado fora por ele vendida a terceiros mediante a intermediação de corretor designado/imposto pela própria Associação, que anuiu expressamente ao negócio, recebendo, de modo simultâneo, R$ 93.000,00 para resgate dos aportes então pendentes. Nesses termos, não se pode impor ao recorrido que continue a responder pelos aportes financeiros estabelecidos após a venda de sua unidade imobiliária, uma vez que não mais se vincula ao objetivo social da associação.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.193.522/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/11/2022, DJe de 23/11/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. ASSOCIAÇÃO CIVIL. COBRANÇA DE TAXA DE MANUTENÇÃO. DESCABIMENTO APÓS O DESLIGAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, "não há qualquer vedação para o associado se desfiliar da associação, de sorte que as taxas de manutenção serão devidas apenas e tão-somente até a data da sua manifestação" (AgInt no REsp n. 1.794.541/SP, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/6/2019, DJe 14/6/2019).
+1.1. Na esteira do entendimento desta Corte Superior, uma vez registrado no acórdão de origem que os então recorrentes encaminharam notificação extrajudicial à associação, solicitando sua desfiliação, a partir desse momento, não mais serão por eles devidas taxas de manutenção.
+2. A suposta existência de contrato-padrão levado a registro em cartório, o que demonstraria o vínculo entre quem administra o condomínio e o proprietário do imóvel a autorizar a cobrança da taxa de manutenção em questão, não foi tratada no acórdão impugnado tampouco pela Corte local, o que evidencia a ausência do devido prequestionamento. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.922.699/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/12/2022, DJe de 7/12/2022.)
+E ainda: AgInt no REsp n. 1.938.363/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/9/2021, DJe de 1/10/2021.
+Incidem, portanto, as Súmulas n. 83 e 568 do STJ, aplicável tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados na alínea "a" do permissivo constitucional.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
