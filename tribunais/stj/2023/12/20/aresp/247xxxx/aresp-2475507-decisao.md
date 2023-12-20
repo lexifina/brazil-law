@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDUARDO FISCHER contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. CONFISSÃO COMPOSIÇÃO. DECISÃO QUE REVOGOU OS BENEFÍCIOS DA JUSTIÇA GRATUITA. INCONFORMISMO. NÃO ACOLHIMENTO. DOCUMENTAÇÃO APRESENTADA PELO AGRAVANTE NÃO DEMONSTRA AUSÊNCIA DE RECURSOS FINANCEIROS PARA CUSTEAR AS DESPESAS COM O PROCESSO. PRESUNÇÃO RELATIVA. INDÍCIOS DE CAPACIDADE ECONÔMICA SUFICIENTES. CONJUNTO PROBATÓRIO DOS AUTOS APONTA QUE O AGRAVANTE É PUBLICITÁRIO E POSSUI PATRIMÔNIO CONSIDERÁVEL, BEM COMO INSTADO A COMPROVAI" SUA HIPOSSUFICIÊNCIA. EFETIVAMENTE NÃO O FEZ. A DESPEITO DOS INÚMEROS DOCUMENTOS ACOSTADOS A ESTE INCIDENTE E NOS AUTOS PRINCIPAIS EM CURSO, ESTANDO DEVIDAMENTE REPRESENTADO POR BANCA DE ADVOGADOS PARTICULARES. HIPOSSUFICIÊNCIA ECONÔMICA NÃO COMPROVADA. INTELIGÊNCIA DO ART. 99 DO CÓDIGO DE PROCESSO CIVIL. DECISÀO MANTIDA. RECURSO NÀO PROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 1º da Lei 1.060/50 e do art. 98 do CPC, no que concerne à necessidade de concessão dos benefícios da justiça gratuita, tendo em vista a ausência de condições de arcar com o pagamento das custas processuais, trazendo a seguinte argumentação:
+30. Não por outra razão, ao contrário do entendimento do v. acórdão, o Recorrente juntou inúmeros documentos comprovando a precariedade de sua situação financeira atual.
+31. Cumpre esclarecer que tais documentos correspondem aos documentos fiscais das empresas, justamente porque toda a renda do Recorrente era proveniente da atividade destas.
+32. Logo, se as empresas não auferem renda, o Recorrente também não.
+33. Por meio da documentação apresentada, é possível constatar o declínio financeiro do Recorrente que teve início em 2017, em razão do esquema de corrupção envolvendo suas empresas pelo então administrador, Luiz Fernando Nave Maramaldo, o qual o Recorrente somente teve conhecimento após as investigações da operação Lava-Jato.
+34. Com essa descoberta, o Recorrente, sócio das empresas, em medida desesperada, recomprou as quotas das empresas, para que seu bom nome não fosse ainda mais prejudicado.
+35. Para tal investida, o Recorrente utilizou boa parte do patrimônio individual que lhe restava e, como não surtiu os efeitos esperados, com o tempo, as dívidas viraram uma bola de neve de passivos acumulados, tanto para as empresas quanto para o Recorrente.
+36. O último balanço financeiro apresentado pela principal empresa do Grupo, a "Fischer América", que no passado ostentava um caixa invejável, passou a apresentar um passivo multimilionário, conforme depreende-se pelo documento acostado às fls. 84.
+37. Aliás, não foi realizado um novo balanço por inexistir dinheiro sequer para contratar um contador para elaborar tal documento, nem mesmo o site da empresa foi mantido no ar por corte de custos (fls. 85).
+ ..
+42. Ora, com saldo negativo, é evidente que o Recorrente não tem como arcar com o pagamento das custas processuais.
+43. Ressalta-se que o fato de o Recorrente ser empresário autônomo não induz à conclusão de que poderia obter renda facilmente de outras formas que não com suas empresas.
+ ..
+46. Como visto, são provas invencíveis sobre a complicada e quase irreversível situação financeira do Recorrente, que não foram corretamente qualificadas e valoradas.
+ ..
+48. Assim, também sob este enfoque mister se faz a reforma do v.
+acórdão, concedendo-se o benefício da justiça gratuita ao Recorrente, a fim de garantir-lhe pleno acesso ao Poder Judiciário para a defesa de seus direitos.
+ ..
+49. O Recorrente pleiteia a concessão do benefício da justiça gratuita, acostando vasta documentação de suporte, conforme demonstrado no tópico acima.
+50. Contudo, entendeu o Tribunal a quo, equivocadamente, que o Recorrente não teria comprovado a necessidade do benefício da gratuidade processual.
+51. In casu, a decisão acabou por limitar a concessão do benefício à pessoa comprovadamente hipossuficiente financeiramente, deixando de valorar a derrocada financeira do grande grupo publicitário que administrava, posição que não se coaduna com o texto da Lei 1060/50, tampouco com o artigo 98 do Código de Processo Civil.
+ ..
+56. O pleito deve ser analisado em conjunto com todos os elementos probatórios constituídos nos autos, levando em consideração a carência de recursos do postulante.
+ ..
+60. Ademais, ressalte-se que o Recorrente apresentou todos os documentos que tinha em sua posse, os quais são suficientes para verificar a hipossuficiência.
+61. Como as empresas não tinham dinheiro sequer para atualizar seus documentos fiscais, o Recorrente de fato não tinha como apresentar outros documentos além daqueles existentes nos autos.
+62. Aponte-se ainda, por cautela, que os bens constantes das declarações de imposto de renda foram adquiridos antes da derrocada financeira, tais como as obras de arte adquiridas em 2008 e os equinos que há muito morreram ou foram vendidos, como inclusive está indicado em "perdas".
+63. As mesmas declarações expõem as inúmeras dívidas do Recorrente, o que foi utilizado como fundamento da concessão da justiça gratuita.
+64. Ora, para fazer jus ao benefício legal, não se exige que a pessoa comprove ser miserável. O que deve restar indicado é ele não possuir condições, naquele momento, de arcar com as custas e despesas processuais, como é o caso dos autos (fls. 255/260).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 99, §4º do CPC. Sustenta que a contratação de advogado particular não afasta a sua necessidade de obter a gratuidade de justiça, trazendo a seguinte argumentação:
+66. Foi explícita também a violação legal ao art. 99, § 4º, do CPC, por ter o v. acórdão considerado que a representação por advogado particular seria fundamento para negar a concessão do benefício.
+67. Ao assim fazer, com o máximo respeito, o v. acórdão pauta-se em entendimento subjetivo, contrariando os ditames legais (fls. 260).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Pelo contrário, a despeito do Agravante alegar que aufere apenas sua aposentadoria (fl. 08 dos Autos de Origem), deixou de informar os rendimentos atuais, conforme determinado pelo MM. Juízo "a quo" (notadamente, as demonstrações financeiras e declaração de IR das sociedades em que figura como sócio que contenham a indicação sobre pró-labore e proventos distribuídos no período e a situação dos mútuos com suas Empresas e os documentos que as comprovem), além disso, as Declarações de Imposto de Renda acostada às 96/115 deste Recurso, não comprovam, por si só, demasiada hipossuficiência financeira.
+Ademais, se infere das referidas Declarações de Imposto de Renda que o Embargante ora Recorrente possui patrimônio considerável, dos quais se destaca: Investimentos financeiros, ações e cotas de Sociedades, que detêm participação, obras de arte, veículo automotor (fls. 96/98 do Autos de Origem).
+Neste contexto, como bem salientou o Douto Magistrado "a quo":
+"(..) acolhendo a impugnação da Ré que suscitou a existência de ocultação de rendimentos provenientes das Sociedades que detêm participação e que atua como Administrador, além da ausência de justificativa para existência de mútuos vultuosos em favor das Empresas, ante a alegada hipossuficiência financeira.". (fl. 120 dos Autos de Origem).
+Em outras palavras, o Agravante é publicitário e possui patrimônio considerável, bem como instado a comprovar sua hipossuficiência, efetivamente não o fez, a despeito dos inúmeros documentos acostados a este Incidente e nos Autos principais em curso, estando devidamente representado por Banca de Advogados particulares (fl. 238).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Quanto à segunda controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
