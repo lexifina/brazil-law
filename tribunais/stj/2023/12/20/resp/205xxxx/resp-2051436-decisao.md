@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por JURACY CAMPOS, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO FEDERAL. DESVIO DE FUNÇÃO. AUXILIAR DE ENFERMAGEM E TÉCNICO DE ENFERMAGEM. DIFERENÇA REMUNERATÓRIA. POSSIBILIDADE. HONORÁRIOS.
+1. A questão posta nos autos refere-se ao direito de servidor público federal, ocupante do Cargo de Auxiliar de Enfermagem, dos quadros do Hospital Universitário Júlio Miller da Fundação Universidade Federal do Mato Grosso- UFMT, ao recebimento das diferenças remuneratórias decorrentes do exercício de atribuições que considera serem inerentes ao cargo de Técnico de Enfermagem.
+2. Constata-se que a prova documental carreada aos autos, onde a chefia imediata elenca as atividades por exercidas pela parte autora, demonstram confronto com as atividades descritas no Plano de Carreira dos Técnicos Administrativos em Educação, comprovando que o trabalho desenvolvido não é inerente ao cargo de Auxiliar de Enfermagem, mas sim, ao Cargo de Técnico de Enfermagem.
+3. O desvio de função não é reconhecido como forma de provimento, originário ou derivado, em cargo público (CF, art. 37, II). No entanto, a jurisprudência tem assegurado aos servidores que, comprovadamente, experimentam tal situação o pagamento relativo às diferenças remuneratórias decorrentes do desvio de função, enquanto este perdurar. (RMS 27.831/ES, RE-AgR - AG.REG.NO RECURSO EXTRAORDINÁRIO Processo: 314973.)
+4. Sobre os valores apurados devem incidir correção monetária e juros de mora na forma do Manual de Cálculos da Justiça Federal, em sua versão mais atualizada.
+5. Honorários advocaticios fixados em sentença mantidos, pois, arbitrados em atendimento ao disposto no art. 20, § 4º, do Código de Processo Civil/1973.
+6. Apelação da parte autora não provida
+7. Apelação da FUFMT não provida.
+8. Remessa oficial parcialmente provida apenas para determinar que sobre os valores apurados Incidam correção monetária e juros de mora na forma do Manual de Cálculos da Justiça Federal, em sua versão mais atualizada" (fl. 251e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 255/262e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DOS REQUISITOS DO ART. 1.022 DO NCPC. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE. REDISCUSSÃO. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, consoante disciplina o art. 1022 do NCPC, objetiva esclarecer obscuridade ou eliminar contradição, suprimir omissão, bem como corrigir erro material.
+2. Na hipótese, toda a matéria trazida à discussão foi devidamente analisada pelo acórdão embargado, estando a referida decisão fundamentada em jurisprudência desta egrégia Corte. Inexistente, portanto, quaisquer dos vícios apontados nos embargos de declaração.
+3. O embargante, a pretexto de ver suprida a alegada omissão/contradição, pretende, na verdade, rediscutir a matéria, objetivando com tal expediente modificar o decisum, emprestando-lhe efeitos infringentes que só excepcionalmente podem-lhe ser conferidos. Os embargos de declaração não constituem instrumento adequado para a rediscussão de questões examinadas pelas instâncias ordinárias, e tampouco para fazer prevalecer a tese defendida nas razões dos embargos opostos.
+4. O acolhimento dos embargos de declaração, ainda que opostos para fins de pré- questionamento com vistas à interposição de recurso extraordinário e/ou recurso especial, somente é possível quando configuradas omissão, obscuridade ou contradição na decisão embargada (EAARESP nº 331037/RS, Min. Raul Araújo, STJ, Quarta Turma, Unânime, Dje 28/02/2014).
+5. Ademais, conforme regra do art. 1.025 do NCPC "Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+6. Embargos de declaração rejeitados" (fl. 296e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 489, §1º, IV e 1.022, II, do CPC/2015 e, sustentando que, não obstante a oposição dos Embargos Declaratórios, "persistiu a obscuridade do acórdão regional acerca da necessidade de que o termo final do pagamento das diferenças do desvio da função deve ser a data da efetiva cessação do desvio funcional com o fim de evitar tumulto processual posterior ou o ingresso de nova ação" (fl. 305e), acrescentado a existência de omissão quanto à fixação dos honorários advocatícios, os quais "devem ser fixados em percentual, entre o mínimo de 10% e o máximo de 20%. sobre o valor da condenação" (fl. 306e).
+Argumenta, ainda, a existência de ofensa ao art. 373, II, do CPC/2015, sob a tese de que "incumbe à FUFMT comprovar a existência de fato, fato impeditivo, modificativo ou extintivo do direito da recorrente que foi reconhecido em sentença, qual seja a cessação do desvio funcional" (fl. 309e).
+Alega, por fim, a contrariedade ao art. 20, §§3º e 4º, do CPC/2015, tendo em vista que "o arbitramento de honorários advocatícios em 10% sobre o valor da causa em demanda com carga condenatória importa na fixação de honorários irrisórios frente ao conteúdo econômico da demanda" (fl. 313e).
+Por fim, requer o provimento do Recurso Especial.
+Contrarrazões a fl. 343e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 526/529e).
+A irresignação merece prosperar.
+Com efeito, o Tribunal de origem não sanou omissão, no exame das seguintes teses trazidas nas razões de Apelação (fls. 204/210e) e reiteradas nos Embargos Declaratórios (255/262):
+"Essa C. Turma julgadora negou provimento ao recurso de apelação do autor, no que tange às parcelas vincendas, sob o fundamento que há determinação expressa de cessação do desvio em questão na data em que prolatado o decisum.
+Ocorre que, conforme referido no recurso de apelação e desconsiderado pelo acórdão embargado, o servidor permaneceu em desvio funcional mesmo após a Publicação da sentença.
+Além disso, não houve, por parte da FUFMT comprovação nos autos acerca da efetiva cessação da situação de desvio funcional.
+Pelo contrário, o embargante demonstrou de forma exaustiva em seu recurso de apelação que os documentos constantes nos autos levam a conclusão de que o desvio funcional ainda não havia cessado na data em que estipulada pela sentença.
+Nesse passo, faz-se necessário o esclarecimento por parte do acórdão regional acerca da obscuridade apontada, para que seja fixada como termo final do pagamento das diferenças do desvio da função a data da efetiva cessação do desvio funcional, o que deverá ser verificado na execução do julgado.
+(..)
+Por conseguinte, a decisão que limita a condenação da embargada ao pagamento das diferenças decorrentes do desvio funcional à data da sentença afronta o disposto no art. 373 do CPC/2015, mormente quando a decisão não determinou a cessação do desvio funcional.
+Na realidade, a limitação da condenação pelo desvio funcional deve ser o exato momento em que esse deixar de ocorrer de forma efetiva, questão que deve ser comprovada pela embargada.
+É evidente que, enquanto perdurar o desvio, o embargante faz jus às diferenças daí decorrentes, como forma de indenizar o trabalho exercido. De outra forma, ver-se-ia obrigado a ajuizar nova ação judicial buscando o reconhecimento do desvio funcional ocorrido após o provimento judicial.
+(..)
+Ao negar provimento ao recurso de apelação da parte autora, ora embargante, esta C. Turma julgadora também manteve a verba honorária em 10% sobre o valor da causa, restando omissa quanto à incidência, no caso dos autos, do art. 20, 4 3º, do CPC/73, que estabelece que a verba honorária deve ser fixada sobre o VALOR DA CONDENAÇÃO:
+(..)
+Com efeito, havendo condenação, como no caso dos autos, os honorários devem ser fixados em percentual, entre o mínimo de 10% e o máximo de 20%, SOBRE O VALOR DA CONDENAÇÃO.
+(..)
+Contudo, apesar dos honorários ostentarem natureza alimentar há muito já reconhecida, e apesar de já ter sido editado novo regramento que reconhece a necessidade de remunerar o trabalho prestado pelo advogado em valor digno e que respeite os parâmetros fixados em lei, no caso em tela FOI DESCONSIDERADA A CORRETA BASE DE CÁLCULO PARA A SENTENCA DE CUNHO CONDENATÓRIO" (fls. 256/260e).
+Deste modo, a despeito das alegações dos Embargos Declaratórios, o Tribunal de origem sequer fez menção às referidas teses. Assim, tem razão o recorrente quando alega a existência de omissão no acórdão impugnado, tendo em vista que os pontos sobre os quais a Corte de origem não se pronunciou têm o condão, caso sejam procedentes, de eventualmente alterar o julgamento e, por conseguinte, a solução inicialmente dada à controvérsia. Destarte, resta configurada a violação ao art. 1.022 do CPC/2015 e, assim, a negativa de prestação jurisdicional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. INTERESSE PROCESSUAL DO RECURSO ESPECIAL DA UNIÃO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É omisso o acórdão que deixa de manifestar-se sobre questões relevantes, oportunamente suscitadas e que poderiam levar o julgamento a um resultado diverso do proclamado. Nessas condições, a não apreciação de tese, à luz de dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária. Prejudicada a análise das demais questões suscitadas no Recurso Especial.
+III - (..)
+VI - Agravo Interno improvido" (STJ, AgInt nos EDcl no REsp 1.676.785/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 25/06/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. Na espécie, apesar da oposição dos aclaratórios, o Tribunal de origem não se pronunciou sobre a tese de que, no julgamento do RE 638115, o STF determinou a imediata cessação da ultra-atividade das incorporações em qualquer hipótese.
+2. Desse modo, deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.656.524/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 23/05/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se as omissões indicadas.
+I.
+EMENTA
