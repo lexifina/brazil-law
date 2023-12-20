@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAIMUNDA LEITE FERNANDES, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão assim ementado (fl. 307):
+COMPRA E VENDA. Ação de rescisão contratual c/c devolução de valores pagos. Sentença de parcial procedência, que afastou a aplicação das penalidades previstas em contrato e determinou a devolução de 80% dos valores pagos. Inconformismo da ré/vendedora. Contrato celebrado sob a égide da Lei do Distrato. Consumidora que foi informada a respeito das consequências da desistência do negócio (artigo 26-A, §2º da Lei do Distrato). Retenção dos valores pagos, conforme o estipulado em contrato, autorizada. Sentença reformada. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 344/347).
+Nas razões do especial, aponta a recorrente violação dos artigos 413 e 884 do Código Civil, bem como dos artigos 6º, V, 39, V, 51, IV, e § 1º, III, e 53 do Código de Defesa do Consumidor, além do dissídio jurisprudencial.
+Argumenta, em síntese, que o valor da cláusula penal estipulado, para o caso de desistência em contrato de promessa de compra e venda de imóvel, deveria ter como base o valor pago pelo promitente-comprador, e não o valor do contrato.
+Salienta que, nesse caso, o valor da retenção superaria o valor a ser devolvido ao promitente-comprador, evidenciando a necessidade de redução equitativa da cláusula penal, sob pena de gerar enriquecimento sem causa do promitente-vendedor.
+Opõe-se, ainda, ao pagamento de taxa de fruição, tratando-se de terreno não edificado.
+Contra-arrazoado (fls. 351-362), o recurso especial foi admitido na origem (fls. 363/364).
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à controvérsia relativa ao suposto excesso da cláusula penal, observo que o Tribunal de origem consignou que o contrato de promessa de compra e venda foi celebrado após a Lei nº 13.786/18, justificando a aplicação do percentual de 10% sobre o valor atualizado do contrato, em caso de resolução contratual, por desistência de promitente-adquirente, conforme permissivo constante no artigo 32-A, II, da Lei nº 6.766/79.
+A propósito, extraio do acórdão que julgou os embargos de declaração (fl. 346):
+Observa-se que o Acórdão, expressamente dispôs que o contrato celebrado entre as partes "ocorreu já sob a égide da Lei do Distrato (Lei 13.786/2018), cumprindo o contrato os requisitos nela dispostos para a sua aplicação, de modo que, não há que se falar em cláusulas abusivas e contrárias ao Código de Defesa do Consumidor" (fls. 308). Ainda, o julgado discorreu a respeito de cada uma das penalidades previstas em contrato, verificando que estas estavam de acordo com o previsto na lei supracitada, que repita-se, não viola as normas consumeristas.
+A recorrente, por sua vez, limita-se a argumentar que seria aplicável o percentual máximo de 25% sobre o valor pago como teto da cláusula penal em contratos desse tipo; entendimento aplicável apenas no caso de vazio normativo, ou seja, apenas em relação aos contratos estabelecidos antes da Lei 13.786/2018, conforme se extrai dos próprios precedentes apresentados pela recorrente para comprovar a divergência (fls. 323/324).
+Desse modo, subsistindo fundamento autônomo e suficiente para manter o provimento adotado no acórdão recorrido, e não impugnado pela recorrente, o recurso especial não merece ser conhecido, em razão da incidência da Súmula 283/STF.
+Ressalte-se que a incidência da Súmula 283/STF prejudica o conhecimento do dissídio jurisprudencial acerca do mesmo tema, conforme jurisprudência consolidada no âmbito desta Corte Superior:
+ ..
+7. Divergência jurisprudencial não demonstrada, ante a incidência das Súmulas n. 284 e 283 do STF e 83 do STJ.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.992.358/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+De toda forma, ainda que superado o óbice supra, seria impróprio adotar como parâmetro, para fins de verificação de eventual abusividade da cláusula penal, o valor dispendido pela parte, adotando correta interpretação a Corte de origem, ao fixar como parâmetro o valor do contrato.
+Raciocínio nesta esteira levaria a resultado absurdo, com a extinção do instituto das arras, por exemplo, ou de eventual sinal dado em garantia da consecução de um contrato, em que a ausência de pagamento da primeira parcela inevitavelmente resultaria no valor da cláusula penal superior a 100% do valor pago.
+Por outro lado, em relação ao cabimento da taxa de fruição, observo que o Tribunal de origem concluiu que seria devida, conquanto se trate de terreno não edificado (fl. 309):
+Ressalte-se que o fato do imóvel em questão se tratar de lote sem qualquer edificação, não afasta a existência dos lucros cessantes, tendo em vista que a ocupação do bem privou a vendedora de utilizar e/ou destinar o imóvel ao que melhor lhe conviesse.
+Ademais, o contrato celebrado (item I, fls. 29), prevê a cobrança de tal encargo, em caso de desfazimento do negócio, de modo, que perfeitamente cabível a cobrança, no percentual estipulado (0,5% do valor do contrato). (grifo acrescido)
+A orientação adotada destoa da jurisprudência consolidada no âmbito desta Corte Superior.
+Com efeito, embora a Lei nº 13.768/2018 discipline a possibilidade de cobrança da taxa de fruição à razão de 0,75% sobre o valor atualizado do contrato, essa norma, que apenas prevê a possibilidade de cobrança desse encargo, não afasta a jurisprudência do Superior Tribunal de Justiça firmada no sentido de que, quando o objeto do contrato de promessa de compra e venda for lote não edificado, não é cabível a cobrança de taxa de ocupação.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. RESCISÃO DA COMPRADORA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. COBRANÇA DA TAXA DE FRUIÇÃO DE LOTE NÃO EDIFICADO. IMPOSSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. PERCENTUAL DE RETENÇÃO. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2.1. No caso, sem incorrer nos referidos óbices, não há como apurar, nesta instância, a natureza penitencial das arras, a fim de autorizar sua retenção pela empesa agravante.
+3. "As arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no REsp n. 1.893.412/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/12/2020, DJe 11/12/2020).
+4. Conforme a orientação sedimentada no âmbito desta Corte, "na hipótese de desfazimento de contrato de promessa de compra e venda de terreno não edificado por interesse exclusivo dos adquirentes, é indevida a condenação dos consumidores ao pagamento de taxa de ocupação/fruição" (AgInt no REsp n. 1.941.068/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/9/2021, DJe 29/9/2021).
+5. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 282, 284 e 356 do STF e 5, 7 e 83 do STJ.
+6. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+(AgInt no REsp n. 2.020.261/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 5/9/2023, DJe de 14/9/2023.) (grifo acrescido)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. TERRENO NÃO EDIFICADO. TAXA DE OCUPAÇÃO DO BEM. AFASTAMENTO. SÚMULA N. 83 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRUTUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nas hipóteses em que o objeto do contrato de promessa de compra e venda for um lote não edificado, não é cabível a cobrança de taxa de ocupação (fruição) do bem. Incidência da Súmula n. 83 do STJ.
+2. A adoção de conclusão diversa do Tribunal de origem - notadamente, quanto ao percentual de retenção dos valores pagos pela parte recorrida - implicaria a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+3. Decisão agravada mantida por seus próprios fundamentos.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.067.736/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023.) (grifo acrescido)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO C/C PEDIDO DE RESTITUIÇÃO DE VALORES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. A conclusão a que chegou o Tribunal de origem, relativa à natureza das arras dispostas no contrato, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmulas 5 e 7 do STJ.
+2. Esta Corte entende não haver enriquecimento sem causa por parte do promitente comprador desistente no caso de terreno não edificado, pois este não pode residir no imóvel, devendo ser afastada, nessas hipóteses, a cobrança da taxa de ocupação do bem. Incidência da Súmula 83/STJ.
+3. A falta de indicação pela recorrente de qual dispositivo legal teria sido violado ou objeto de interpretação divergente implica deficiência na fundamentação do recurso especial, a atrair a aplicação da Súmula 284/STF. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.067.543/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023.) (grifo acrescido)
+Em face do exposto, dou parcial provimento ao recurso especial apenas para afastar a condenação da recorrente ao pagamento da taxa de fruição.
+Intimem-se.
+EMENTA
