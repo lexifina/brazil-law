@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+APELAÇÃO CRIMINAL. FURTO. ABSOLVIÇÃO DOSIMETRIA DAPENA. 1) Resultando das provas dos autos a certeza da materialidade e autoria das condutas ilícitas previstas no artigo 155,caput, do Código Penal, incomportável a absolvição. 2) Havendo equívoco na análise da dosimetria da pena, de rigor a adequação da sanção aplicada. 3) A ausência de um dos requisitos necessários previstos no art. 71, do CP, inviabiliza a aplicação da continuidade delitiva. 4) Recurso conhecido e parcialmente provido. (e-STJ fl. 889)
+A defesa aponta a violação dos arts. 59 e 71 do CP alegando, em síntese, que o aumento em 3/8 pela existência de apenas uma circunstância judicial desfavorável revela-se desproporcional. Pede o reconhecimento da continuidade delitiva em detrimento do concurso material.
+Contrarrazões às e-STJ fls. 927/937.
+Manifestação do Ministério Público Federal pelo provimento parcial do recurso às e-STJ fls. 975/976.
+É o relatório. Decido.
+A irresignação merece prosperar, em parte.
+Os elementos existentes nos autos informam que o TJGO deu parcial provimento ao apelo defensivo para alterar a fração aplicada em razão do reconhecimento da agravante da reincidência, reduzindo a pena do recorrente para 3 anos, 2 meses e 14 dias de reclusão, pelo cometimento do crime do 155, § 4º,inciso III, c/c art. 69 (por duas vezes), ambos do Código Penal.
+A defesa alega a desproporcionalidade no aumento da pena basilar, considerando o aumento de 3/8 pela existência de apenas uma circunstância judicial desfavorável.
+Esta Corte já decidiu que o estabelecimento da basilar não se limita a critério matemático, sendo possível a adoção de fração para cada circunstância judicial no patamar de 1/6 (um sexto) sobre a pena-base, 1/8 (um oitavo) sobre o intervalo entre as penas mínima e máxima e, até mesmo, outra fração. Os referidos parâmetros não se revestem de caráter obrigatório, exigindo-se, tão somente, que o critério utilizado pelas instâncias ordinárias seja proporcional e justificado. Veja-se: AgRg no HC n. 718.681/SP, Quinta Turma, Rel. Ministro RIBEIRO DANTAS, DJe de 30/8/2022.
+No caso concreto, o aumento na fração de 3/8 pela negativação do vetor judicial dos antecedentes se deu de forma absolutamente genérica, não havendo nenhuma justificativa para o uso dessa fração, razão pela qual aplica-se a fração de 1/6 sobre a pena mínima.
+Sobre o pedido de reconhecimento da continuidade delitiva, consta do acórdão estadual (e-STJ fl. 901) que os furtos ocorreram com considerável intervalo de tempo - um no dia 18/9/2020 e outro no dia 21/10/2020 - ou seja, em condições de tempo diferentes. Além disso, não se verifica as mesmas condições de lugar, porquanto um delito se deu em Goiânia e outro em Aparecida de Goiânia. Assim, não restam configurados os requisitos do art. 71, do Código Penal.
+Nos termos do art. 71 do CP, quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subsequentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços.
+Constado pelo Tribunal de origem que os crimes ocorreram em lugares diferentes e com considerável intervalo de tempo, não há que se falar em continuidade delitiva.
+A modificação da premissa fática disposta no acórdão recorrido implicaria a necessidade de revolvimento probatório, procedimento vedado, em recurso especial, pelo disposto na Súmula 7 do STJ.
+Diante do exposto acima, é necessário o ajuste na dosimetria da pena.
+Mantidos os parâmetros utilizados na origem e aplicando-se a fração de 1/6 na primeira fase, a pena fica reduzida para 2 anos, 8 meses e 20 dias de reclusão.
+Ante o exposto, com fundamento no art. 932, inciso V, alínea "a", do CPC, no art. 255, § 4º, inciso III, do RISTJ, e na Súmula 568/STJ, dou provimento ao recurso especial para reduzir a pena do recorrente para 2 anos, 8 meses e 20 dias de reclusão.
+Intimem-se.
+EMENTA
