@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Ernando Batista de Souza, condenado por homicídio qualificado e porte ilegal de arma de fogo de uso permitido a 21 anos e 6 meses de reclusão, e 20 dias-multa - atacando-se o acórdão proferido pelo Tribunal de Justiça de Sergipe que não conheceu da impetração (HC n. 016238-24.2023.8.25.0000 - fls. 13/15), mantendo a condenação do paciente proferida na Ação Penal n. 201421800143, da 8ª Vara Criminal da comarca de Aracaju/SE -, não comporta processamento.
+Com efeito, busca a impetração seja determinado ao Tribunal estadual o julgamento do mérito do writ, ofertando ao paciente devida prestação jurisdicional (fl. 11), ao argumento de que referida decisão vai de encontro ao entendimento assente do STJ, aplicado de forma analógica, no sentido de não reconhecer que a existência de via própria de impugnação não impede a impetração de habeas corpus para avaliar ato que restringe à liberdade de locomoção do acusado, ainda que de modo indireto, e que verse apenas sobre questão de direito (fl. 7).
+Entretanto, tem-se que não foi demonstrado o alegado constrangimento ilegal, pois o entendimento desta Corte é no sentido de que não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal (AgRg no HC n. 815.160/PR, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe 15/12/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRETENSÃO DE DETERMINAÇÃO DE JULGAMENTO DE MÉRITO DE WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL NA CORTE ESTADUAL. IMPOSSIBILIDADE. PRECEDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
