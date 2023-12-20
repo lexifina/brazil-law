@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 441, e-STJ):
+RECURSO DE APELAÇÃO CÍVEL - ATRASO NA ENTREGA DE IMÓVEL - ATRASO NA ENTREGA DO IMÓVEL COMPROVADO - EXTRAPOLAÇÃO DO PRAZO DE TOLERÂNCIA - DANO MORAL CONFIGURADO - MONTANTE INDENIZATÓRIO CORRETAMENTE ARBITRADO - JUROS DE MORA - INCIDÊNCIA A PARTIR DA CITAÇÃO - CORREÇÃO MONETÁRIA - DATA DO ARBITRAMENTO DA INDENIZAÇÃO POR DANOS MORAIS - RECURSO NÃO PROVIDO
+1. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel por culpa do promissário vendedor, deve ocorrer a imediata e integral restituição das parcelas pagas pelo promitente comprador. Súmula n. 543 do STJ.
+2. A jurisprudência do Superior Tribunal de Justiça caminha no sentido de que, em caso de rescisão de contrato de compra e venda de imóvel por culpa do promitente vendedor, os juros moratórios sobre o valor restituível incidem a partir da citação, sendo a data do trânsito em julgado reservada aos casos de culpa do adquirente, conforme Tema 1002 do mesmo Tribunal Superior.
+Os embargos de declaração opostos foram rejeitados (fls. 456/459, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 1.022, parágrafo único, II, do Código de Processo Civil de 2015; 26 e 27 da Lei 9.514/97; 186, 187 e 927 do Código Civil.
+Sustenta, de início, que o acórdão recorrido não analisou todas as questões suscitadas, o que configura o vício da omissão.
+Argumenta não estarem configurados os danos morais no caso dos autos. Assinala, ainda, que a rescisão do contrato deve seguir o procedimento previsto na Lei 9.514/97.
+Foram apresentadas contrarrazões às fls. 504/518, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+De início, quanto às alegações de ofensa ao art. 1.022, parágrafo único, II, do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO ULTRA PETITA. EXCESSO. EXTIRPAÇÃO. POSSIBILIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A decisão que julga além dos limites da lide não precisa ser anulada, devendo ser eliminada a parte que constitui o excesso. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1339385/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/4/2019, DJe 12/4/2019)
+O TJMT afastou a incidência do rito da Lei 9.514/97, por se tratar de inadimplemento da vendedora, e não do comprador (fl. 442, e-STJ):
+Preliminarmente, rejeito o pedido de suspensão do processo, tendo em vista que o tema repetitivo 1.095 já foi decidido pelo Superior Tribunal de Justiça e sequer se aplica à hipótese dos autos, que não envolve inadimplemento por parte do comprador, mas da própria vendedora.
+Não prospera o pedido formulado pela parte recorrente, uma vez que, conforme entendimento do Superior Tribunal de Justiça, a eventual "existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário (AgInt no REsp n. 1.936.848/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/11/2021, DJe de 6/12/2021.)
+Prosseguindo na análise da controvérsia, o TJMT consignou que o imóvel deveria ter sido entregue em setembro de 2018 e que, na data de ajuizamento da demanda, em março de 2020, tal obrigação ainda não havia sido cumprida. Pontuou estarem configurados os danos morais no caso dos autos, sendo devido o arbitramento de compensação, por esse motivo, no valor de dez mil reais (fls. 442/443, e-STJ):
+Além disso, não há que se falar em inaplicabilidade do Código de Defesa do Consumidor. A relação jurídica existente entre as partes possui índole consumerista e se submete aos preceitos da Lei n. 8.078/1990, eis que a parte autora figura como destinatária final do produto oferecido pelas rés (art. 2º), ao passo em que estas desenvolvem atividade de construção e comercialização de bem imóvel, revestindo-se da condição de fornecedoras, nos termos do art. 3º, "caput" e §1º da lei protetiva.
+Superados esses obstáculos, a tese de ausência de atraso na entrega do empreendimento não encontra respaldo nos autos.
+Embora as rés tenham se comprometido a entregar o condomínio com obras de infraestrutura e complementares, que abrangiam portaria, clube, paisagismo ornamental e muro para fechamento do condomínio, tal como expressamente previsto nas cláusulas 7.1 e 7.2 do contrato pactuado entre as partes, até o mês de setembro de 2018, com tolerância de 180 dias, o autor comprovou que, na época da propositura da ação (2020), as referidas obras não foram concluídas, a teor dos documentos e fotografias apresentadas junto à inicial.
+Logo, aplica-se a Súmula n. 543 do Superior Tribunal de Justiça, que determina a restituição integral e imediata das parcelas pagas pelo promitente comprador:
+(..)
+Com relação ao pedido de afastamento da indenização por danos morais, melhor sorte não assiste às apelantes. É que, embora a jurisprudência do STJ caminhe no sentido de que, em caso de descumprimento contratual, o dano moral não é presumido, entendo que, no caso concreto, a dignidade do autor foi vilipendiada e suas expectativas frustradas pelo atraso exorbitante e injustificado no cumprimento do cronograma contratual, o que autoriza a indenização arbitrada na sentença.
+Quanto ao valor da indenização, deve ser avaliado o grau de culpa do ofensor, seu porte econômico e ao nível socioeconômico dos envolvidos, sempre com apreço pelos critérios da razoabilidade e proporcionalidade.
+Dito isso, analisando detidamente os fatos comprovados nos autos, entendo que a indenização, arbitrada no patamar de R$ 10.000,00 (oito mil reais), se revela compatível com as finalidades almejadas, merecendo ser mantida.
+Decidiu-se, dessa forma, em conformidade com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que o atraso expressivo na entrega de imóvel pode configurar danos morais compensáveis.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO TRIENAL. TERMO INICIAL. SÚMULA 568/STJ. DANOS MORAIS. ATRASO EXPRESSIVO E PECULIARIDADES PRESENTES. POSSIBILIDADE. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. DANOS MORAIS. VALOR ADEQUADO. REVISÃO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça está sedimentada no sentido de que em demandas objetivando a restituição dos valores pagos a título de comissão de corretagem em que a causa de pedir é a rescisão do contrato por inadimplemento do vendedor, o prazo prescricional da pretensão da restituição de valores tem início após a resolução, sendo inaplicável o prazo prescricional trienal" (AgInt no REsp 1.853.761/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+2. "No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, vedado em recurso especial" (AgInt no REsp 1.684.875/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe de 30/10/2017).
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não se mostra irrisório nem desproporcional aos danos suportados pela parte autora, considerando o atraso por período expressivo e ocorrência de fatos que impedem a construção de casa no lote objeto de compra e venda.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.059.554/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO EXPRESSIVO NA ENTREGA. DANOS MORAIS CONFIGURADOS. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. ENCARGOS CONDOMINIAIS. RESPONSABILIDADE DO PROMITENTE COMPRADOR A PARTIR DA POSSE. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. O atraso expressivo na entrega de imóvel pode configurar danos morais indenizáveis. Precedentes.
+3. O promitente comprador somente é responsável pelos encargos condominiais após a sua imissão na posse do imóvel.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.817.304/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Aplica-se a Súmula 83/STJ.
+Anoto, ademais, que a alteração das premissas firmadas pelo TJMT, a fim de se afastar a compensação deferida, exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
