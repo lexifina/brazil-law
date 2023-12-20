@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDSON MORAIR DOMICIANO contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 4 (quatro) anos de reclusão, em regime inicial semiaberto, e ao pagamento de 10 (dez) dias-multa, por infração ao artigo 288, caput, e artigo 311, caput, combinados na forma do artigo 69, do Código Penal.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 26-40.
+Interposto recurso especial, foi inadmitido pela Corte local.
+Interposto agravo em recurso especial perante este Superior Tribunal de Justiça (AResp 2.369.349 - SP), não foi conhecido, assim como o agravo regimental proposto na sequência.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente no estabelecimento regime prisional mais gravoso, sem fundamentação idônea.
+Indica que o acórdão combatido diverge do entendimento consubstanciado pelas súmulas nº 718 e nº 719 do Supremo Tribunal Federal e súmula nº 440 do Superior Tribunal de Justiça, asseverando que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja deferido o sobrestamento da execução penal até o julgamento do presente writ, assim como seja estabelecido regime prisional mais brando.
+O pedido liminar foi indeferido às fls. 52-53.
+Informações prestadas às fls. 56-84 e 85-88.
+O Ministério Público Federal, às fls. 90-91, opinou pelo indeferimento da petição inicial.
+É o relatório. DECIDO .
+A controvérsia consiste na suposta ilegalidade na fixação do regime prisional inicial mais gravoso, qual seja, o semiaberto, sem fundamentação idônea para tanto.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que tange ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantitativo da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula nº 440, que dispõe: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nesse mesmo sentido, as Súmulas nº 718 e nº 719, STF, respectivamente:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Dessa forma, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em dados concretos extraídos dos autos.
+No presente caso, a Corte de origem fundamentou idônea e suficientemente a fixação do regime prisional inicial mais gr avoso sequente, qual seja, o semiaberto, bem como a negativa à substituição da pena privativa de liberdade por restritivas de direitos, ao argumento de que restou demonstrada a periculosidade concreta do paciente, o qual perpetrou o delito de adulteração de sinal de veículo automotor mediante associação criminosa, voltada para o fim específico de cometer os crimes, com concerto de vontades e divisão de tarefas, a fim de garantir maior possibilidade de êxito na empreitada criminosa.
+Trata-se, pois, de fundamentação concreta, a ensejar a maior reprovabilidade da conduta e a fundamentar a fixação do regime prisional inicial mais gravoso sequente, qual seja, o semiaberto, mormente quando fixada a pena no limite máximo previsto para o regime aberto (quatro anos).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. SANÇÃO BASILAR FIXADA NO MÍNIMO LEGAL. RÉU PRIMÁRIO. PENA NÃO SUPERIOR A OITO ANOS. REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. Precedentes.
+O agravo em recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+2. Hipótese na qual é incabível a concessão de ordem de ofício.
+3. Consoante jurisprudência deste Tribunal, ainda que a pena-base seja estabelecida no mínimo legal, admite-se a fixação de regime inicial mais gravoso, se declinada motivação idônea para tanto, que evidencie a gravidade concreta do delito.
+4. No caso, embora o Réu seja primário, a reprimenda aplicada não exceda oito anos e não haja circunstâncias judiciais desfavoráveis, as instâncias ordinárias indicaram elementos que parecem reclamar o agravamento do modo inicial de desconto da reprimenda, quais sejam, a prática do roubo em concursos de agentes, com emprego de arma de fogo, e, sobretudo, o elevado valor da res furtiva - uma motocicleta Yamaha/MT09Tracer, um celular e um capacete, avaliados em R$ 50.000,00 (cinquenta mil reais) -, o que, ao menos primo ictu oculi, demonstra a necessidade de maior rigor no estabelecimento do regime carcerário inicial.
+5. Agravo regimental desprovido." (AgRg no HC n. 833.799/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 30/8/2023.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO POR ESTELIONATO E ASSOCIAÇÃO CRIMINOSA. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FIXAÇÃO DO REGIME SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO RECORRIDO. ENUNCIADO SUMULAR N. 568/STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  III - Com relação a negativação da circunstância judicial relacionada à culpabilidade, considerada pela il. Defesa normal ao tipo penal, constata-se que as instâncias ordinárias analisaram concretamente as circunstâncias que cercaram a prática do delito e entenderam, de forma fundamentada, pela maior censura da ação delituosa, consignando ser "reprovável no caso dos autos, vez que restou demonstrado o grau de sofisticação do delito que desborda de outros casos dos crimes de estelionato, diante da criação pelos acusados de uma aprimorada estrutura com intuito exclusivo de lesar as vítimas". Nesse ponto, entende-se que é idônea a fundamentação mantida pelo v. acórdão impugnado, haja vista a maior reprovabilidade na conduta perpetrada. Precedentes.
+ ..  V - No que concerne à imposição do regime semiaberto para o início do cumprimento da pena, este deve ser mantido tal como determinado pelas instâncias ordinárias, tendo em vista a valoração negativa das circunstâncias judiciais e o quantum de pena arbitrada. Dessa forma, nos termos do art. 33, §§ 2º e 3º, do Código Penal, de rigor a manutenção do regime mais gravoso. Precedentes.
+Agravo regimental desprovido." (AgRg no AREsp n. 1.943.814/PR, Quinta Turma, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 4/11/2021.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
