@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança, interposto por NEXUS VIGILÂNCIA LTDA, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que denegou a segurança, nos termos da seguinte ementa:
+MANDADO DE SEGURANÇA  LICITAÇÃO  PREGÃO  MENOR PREÇO  POSSIBILIDADE DE APRECIAR A LEGALIDADE DO ATOADMINISTRATIVO  AUSÊNCIA ILEGALIDADES  SEGURANÇA DENEGADA.
+1. Impõe-se reconhecer a possibilidade do Poder Judiciário analisar questões atinentes à legalidade do ato administrativo, sem que tal julgamento implique em violação do principio da harmonia entre os Poderes, erigido na Constituição Federal art. 2º).
+2. Não se discute, também, que a Administração Pública tem o dever constitucional de dispensar tratamento igualitário aos  participantes do procedimento licitatório para que, ao final, obtenha a proposta mais vantajosa para o Poder Público.
+3. Caso concreto em que apesar de a impetrante alegar que o Edital exigia a organização, pela contratada, do banco de horas dos empregados que serão alocados nos prédios do Tribunal de Justiça do Estado do Espirito Santo, o que seria ilegal segundo as normas de Direito do Trabalho, certo que é que o Edital era explícito ao asseverar que o banco de horas se refere ao posto de trabalho e não à pessoa que presta os serviços.
+4. Com relação ao outro ponto, não obstante a empresa, vencedora do certame ter indicado preço igual azero em alguns dos produtos não vislumbro nenhuma ilegalidade que pudesse macular o procedimento licitatório já que a apresentação dos valores é de responsabilidade de cada participante.
+5. Dessa forma, restou observada a isonomia entre os licitantes e o respeito aos princípios da legalidade, da impessoalidade, da vinculação ao instrumento convocatório. Ademais, a exequibilidade da proposta da empresa vencedora assente na própria proposta da impetrante diante da proximidade dos valores ofertados.
+6. Segurança denegada" (fls. 447/448e).
+Nas razões do Recurso Ordinário a parte ora recorrente sustenta que, em suma, violação ao seu direito líquido e certo em decorrência de mácula no processo licitatório e, ainda, que perfez os requisitos necessários para sagrar-se vencedora (fls. 460/496e).
+Contrarrazões a fls. 505/524e.
+Em seu parecer, o Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 551/555e).
+O Tribunal de origem, ao analisar a controvérsia, consignou o seguinte:
+"Não obstante a obrigação de se observar o princípio constitucional da isonomia, e da Vinculação da Administração Pública e dos participantes ao ato convocatório, deve-se interpretar a Lei e o Edital como veiculando exigências instrumentais.
+(..) analisando detidamente os elementos de prova coligidos aos autos, entendo que não restou comprovada a existência de direito líquido e certo a ser protegido pela via mandamental.
+Isto porque, a meu sentir, apesar de a impetrante alegar que o Edital exigia a organização, pela contratada, do banco de horas dos empregados que serão alocados nos prédios do Tribunal de Justiça do Estado do Espirito Santo, o que seria ilegal segundo as normas de Direito do Trabalho, certo que é que o Edital era explicito ao asseverar que o banco de horas se refere ao posto de trabalho e não à pessoa que presta os serviços.
+Referido ponto, inclusive, foi respondido aos interessados antes da sessão de abertura do pregão.
+No que se refere à alegação de que na proposta ofertada pela empresa vencedora, deveriam estar inclusos todos os custos operacionais, diretos e indiretos que incidam na prestação dos serviços, registro que no procedimento licitatório não devem ser criados rigorismos extremos que dificultem a participação dos candidatos.
+(..)
+No caso em exame, não obstante a empresa vencedora do certame ter indicado preço igual a zero em alguns dos produtos não vislumbro nenhuma ilegalidade que pudesse macular o procedimento licitatório já que a apresentação dos valores é de responsabilidade de cada participante.
+(..)
+Dessa forma, entendo que restou observada a isonomia entre os licitantes e o respeito aos princípios da legalidade, da impessoalidade, da vinculação ao instrumento convocatório. Ademais, a exequibilidade da proposta da empresa vencedora assente na própria proposta da impetrante diante da proximidade dos valores ofertados" (fls. 454/457e).
+Tal qual asseverado pelo Parquet Federal, a irresignação não merece prosperar. Oportunamente, extrai-se da manifestação ministerial que "não se verificam ilegalidades no procedimento licitatório capazes de amparar o alegado direito líquido e certo do recorrente" (fl. 553e).
+Ademais, na forma da jurisprudência do Superior Tribunal de Justiça, "o Mandado de Segurança detém entre seus requisitos a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para a dilação probatória na célere via do mandamus. (..) Se no momento da impetração, como destacado pelo próprio Tribunal de origem, não havia arcabouço probatório pré-constituído, não se verifica ilegalidade apta a justificar o reconhecimento de direito líquido e certo a amparar a pretensão da postulante" (STJ, RMS 54.709/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2017).
+Portanto, verificada a ausência das ilegalidades apontadas, não há falar em direito líquido e certo a amparar a pretensão autoral por meio desta ação mandamental.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ e na Súmula 568/STJ, nego provimento ao presente Recurso Ordinário.
+I.
+EMENTA
