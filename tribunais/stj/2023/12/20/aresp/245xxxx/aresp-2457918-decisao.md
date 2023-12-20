@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 352/353, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - ILEGITIMIDADE PASSIVA REJEITADA - PLANO DE SAÚDE - RECUSA DE COBERTURA - ÓRTESE CRANIANA - TRATAMENTO INDISPENSÁVEL - REEMBOLSO DEVIDO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Ilegitimidade não há, se trata das mesmas pessoas, uma com nome empresarial e outra denominada pelo nome fantasia.
+A eleição do tratamento e dos materiais necessários ao sucesso da intervenção é incumbência do médico assistente e não do plano de saúde. Com relação ao referido tratamento, embora a alegação de que o uso da órtese não está ligado a ato cirúrgico, verifica-se que não se trata de procedimento estético, mas de tratamento de doença de cobertura obrigatória dos planos de saúde. Portanto, se há cobertura para o tratamento, não há razão para excluir-se os materiais respectivos, sob pena de inviabilizar-se o tratamento, já que são itens indispensáveis para tal finalidade. Assim sendo, o fornecimento da órtese prescrita não pode ser objeto de exclusão, devendo a apelante arcar integralmente com o custo respectivo.
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 373, II, 374 do Código de Processo Civil de 2015; 85, 125, I, 476, 478, 479, 944 do Código Civil; 10, 12 da Lei 9.656/98 e 54 do Código de Defesa do Consumidor.
+Sustenta, em síntese, não possuir a obrigação legal e/ou contratual de fornecer ao segurado a órtese craniana que lhe fora indicada pelo profissional médico.
+Ressalta que as operadoras de plano de saúde não estão compelidas ao custeio de procedimentos que não se encontrem previstos no rol da ANS, conforme entendimento jurisprudencial.
+Foram apresentadas contrarrazões às fls. 1.119/1.167, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No mérito, o Tribunal de origem condenou a operadora de plano de saúde a custear a órtese craniana que fora indicada ao segurado, expondo os seguintes argumentos (fls. 355/357, e-STJ):
+No caso dos autos, o apelado foi diagnosticado com PLAGIOCEFALIA POSICIONAL, doença classificada no CID Q67.3. Diante disso, foi recomendada a colocação de órtese craniana de apoio, para auxiliar o crescimento craniano, o que deve ser feito de forma urgente e enquanto o crânio da criança está mole, posto que o período ideal para iniciar o uso da órtese é entre 3 a 6 meses de idade.
+A partir daí, não havendo credenciado a fornecer o tratamento pelo plano de saúde, encontrou a CLÍNICA HEADS na cidade de São Paulo, cujo tratamento fora negado pela apelante, e assim pretende o reembolso do tratamento.
+Com relação ao referido tratamento, embora a alegação de que o uso da órtese não está ligado a ato cirúrgico, verifica-se que não se trata de procedimento estético, mas de tratamento de doença de cobertura obrigatória dos planos de saúde.
+Portanto, se há cobertura para o tratamento, não há razão para excluir-se os materiais respectivos, sob pena de inviabilizar-se o tratamento, já que são itens indispensáveis para tal finalidade. Assim sendo, o fornecimento da órtese prescrita não pode ser objeto de exclusão, devendo a apelante arcar integralmente com o custo respectivo.
+Ainda, a negativa da seguradora se deu sob a alegação de que a cobertura pretendida não está incluída no Rol de Procedimentos Obrigatórios da ANS, o que, tampouco, é de se acolher, posto que o avanço científico é sempre muito mais dinâmico do que o Direito. Não se pode negar o direito do segurado a uma vida com dignidade, quando houver um tratamento idôneo a aliviar seu sofrimento, restituindo sua qualidade de vida e estendendo sua sobrevida. É exatamente o caso dos autos: se há cobertura para a doença, não há razão para excluir-se a órtese prescrita, sob pena de inviabilizar-se o tratamento, já que é indispensável.
+Clara a violação ao Código de Defesa do Consumidor, pois submetendo- se os planos de saúde às regras do Código do Consumidor, as cláusulas contratuais deverão ser interpretadas de maneira mais favorável ao aderente.
+Nesse passo, a negativa de cobertura do convênio, consubstanciada em cláusula que veda tratamento claramente viola as normas de proteção do consumidor, como a boa-fé contratual, bem como ameaça o objeto e o equilíbrio da avença, quando atestado pelo médico como sendo a melhor forma de recuperação da saúde do paciente.
+Em outras palavras, a limitação imposta excluiria o tratamento que foi prescrito como meio adequado e indispensável à tentativa de recuperação da higidez física do paciente, negando, pois, o próprio objetivo do contrato, o que não pode ser admitido.
+(..)
+Diante de tais argumentos, devido o reembolso pela apelante.
+Deixo de majorar os honorários recursais, pois fixado no máximo legal.
+Ante o exposto, DESPROVEJO O RECURSO.
+A orientação firmada pelo Tribunal de origem está em consonância com a jurisprudência deste Superior Tribunal de Justiça, segundo a qual "a cobertura da órtese craniana indicada para o tratamento de braquicefalia e plagiocefalia posicional não encontra obstáculo nos artigos 10, VII, da Lei n. 9.656/98 e 20, §1º, VII da Resolução Normativa 428/2017 da ANS (atual 17, VII, da RN 465/2021, visto que, apesar de não estar ligada ao ato cirúrgico propriamente dito, sua utilização destina-se a evitar a realização de cirurgia futura para correção da deformidade, evitando consequências funcionais negativas em recém-nascidos e crianças" (REsp n. 1.893.445/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/4/2023, DJe de 3/5/2023.)
+De igual teor, cito os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRÓTESE CRANIANA. SUBSTITUIÇÃO DE NEUROCIRURGIAS. OBRIGATORIEDADE DE CUSTEIO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Esta Corte tem entendimento de que "A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp 1.731.762/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 28/5/2018).
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.006.252/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/3/2023, DJe de 31/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PLAGIOCEFALIA. ÓRTESE CRANIANA. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer visando a cobertura de órtese craniana para tratamento de plagiocefalia.
+2. "A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp n. 1.731.762/GO, 3ª Turma, DJe de 28/5/2018).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.988.642/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+Incidente, no ponto, o óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
