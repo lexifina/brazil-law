@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra o Tribunal de Justiça de Alagoas.
+O recorrente "foi preso em flagrante no dia 24/08/2023 pelo suposto cometimento do crime previsto nos artigos 33 e 35 da Lei 11.343/06. No dia seguinte, em sede de audiência de custódia, o magistrado homologou o auto de prisão em flagrante, convertendo, em seguida, em prisão preventiva ante a manifestação do Ministério Público" (fl. 116).
+Nas razões deste recurso, argumenta, em suma, com a ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva do paciente teve a seguinte fundamentação (fls. 70-71):
+ ..  No caso, não obstante o privilégio da previsão legal para a aplicação preferencial de outras medi das cautelares que não a prisão preventiva, vislumbro a presença dos requisitos para a sua decretação, qual seja, a garantia da ordem pública, que se mostra ameaçada diante da prática delitiva que traz em si grande lesividade ao bem jurídico tutelado pelo Direito Penal, considerando a quantidade e diversidade das drogas apreendidas (17 (dezessete) bombinhas de crack e 12 (doze) bombinhas de maconha), não sendo o caso de aplicação de outra medida cautelar prevista no art. 319 do CPP. Faz-se necessário, portanto, o acautelamento da ordem pública.
+ ..
+Ademais, a quantidade de droga apreendida e a circunstância da prisão não permitem presumir que as drogas eram para uso pessoal, não havendo que se falar, portanto, em ausência de juízo de probabilidade para uma acusação de tráfico de entorpecentes.
+Acrescento aos fundamentos o fato de ambos os custodiados possuírem antecedentes criminais, ele por homicídio e ela por tráfico, segundo os próprios custodiados, dando conta de que cumprem pena no regime semiaberto. ..
+Como se vê, as circunstâncias do caso justificam a decretação da medida extrema, uma vez que, além da quantidade de drogas apreendidas, destacou-se "o fato de ambos os custodiados possuírem antecedentes criminais, ele por homicídio e ela por tráfico".
+""Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Rel. Ministro ANTÔNIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019)." (AgRg no HC n. 863.384/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 12/12/2023).
+Por fim, " d ada a imprescindibilidade da preventiva, está clara a insuficiência das medidas cautelares diversas da prisão para prevenir a atividade ilícita desenvolvida." (AgRg no HC n. 788.712/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 21/11/2023, DJe de 5/12/2023).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
