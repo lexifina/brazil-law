@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo de Direito do Núcleo 4.0 de Belo Horizonte/MG, como suscitante, e o Tribunal Regional do Trabalho da 3ª Região, o suscitado, nos autos de ação reclamatória trabalhista movida contra MGS Minas Gerais Administração e Serviços S.A.
+A ação foi originariamente proposta perante a Justiça laboral, onde recebeu tramitação e foi sentenciada. O Tribunal Regional do Trabalho da 3ª Região, entretanto, julgando recurso ordinário, deliberou pela anulação do julgado e consequente remessa dos autos à Justiça comum, em razão da incompetência daquela Justiça, por entender que "apesar da competência da Justiça do Trabalho para apreciar as ações decorrentes das relações de trabalho (art. 114, I, da CR), não são afetas a esta Especializada as ações ajuizadas em face do Poder Público, na condição de contratante, independentemente, pois, da natureza dos pedidos" (fl. 63).
+O Juízo suscitante, a seu turno, divergiu desse entendimento, por ser a pessoa jurídica ré uma empresa pública atuante sob o regime do art. 173, § 1º, II, da Constituição Federal.
+O parecer do MPF, de lavra do eminente Subprocurador-Geral Antonio Carlos Alpino Bigonha, vem pelo reconhecimento da competência da Justiça do Trabalho.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, a petição inicial deixa ver tratar-se de ação de natureza trabalhista movida por empregado público em desfavor de empresa pública estadual. Nesse viés, a narrativa trazida com a vestibular afirma a existência de contratação pelo regime da CLT, inclusive com posterior emissão de TRCT, a impor o reconhecimento -consoante acertadamente apontou o MPF em seu parecer - da competência da Justiça do Trabalho.
+Colhe-se da jurisprudência desta Corte, ademais, diversas decisões que envolvem a mesma pessoa jurídica ré na ação de origem - a MGS Minas Gerais Administração e Serviços S.A. - sempre assentando a competência da Justiça especializada. Nesse sentido: CC n. 195.375, Ministro Herman Benjamin, DJe de 23/3/2023; CC n. 195.455, Ministra Regina Helena Costa, DJe de 21/3/2023; CC n. 193.555, Ministra Regina Helena Costa, DJe de 17/2/2023; CC n. 190.542, Ministro Gurgel de Faria, DJe de 2/9/2022; CC n. 169.380, Ministro Napoleão Nunes Maia Filho, DJe de 5/12/2019.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda o Tribunal Regional do Trabalho da 3ª Região, ora suscitado.
+Dê-se ciência aos J uízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
