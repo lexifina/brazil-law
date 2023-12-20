@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Agravo, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"Ação revisional de parcelamento tributário - Juros moratórios e acréscimos financeiros incidentes em débitos que são objetos de Programa Especial de Parcelamento - Recálculo do PEP nº 20415972-6 de modo que os juros de mora e os acréscimos financeiros nele incidentes observem as teses fixadas pelo Colendo Órgão Especial deste Egrégio Tribunal de Justiça nas Arguições de Inconstitucionalidade nºs 0170909-61.2012.8.26.0000 e 0016136-82.2017.8.26.0000 - Possibilidade de revisão judicial e recálculo dos débitos objeto de programa de parcelamento conforme entendimento firmado pelo Colendo Superior Tribunal de Justiça no Recurso Especial nº 1.133.027/SP, representativo da controvérsia e julgado pela sistemática dos recursos repetitivos - Recurso não provido" (fl. 306e).
+Nas razões do Recurso Especial, fundado na alínea a do permissivo constitucional, a parte ora agravante alega violação aos arts. 161, § 1º e 111, I, ambos do CTN, sustentando, em síntese, que não há qualquer irregularidade do Estado de São Paulo instituir, por lei própria, taxa de juros incidentes sobre os créditos tributários não pagos até a data de seu vencimento (fls. 343/363e).
+Apresentadas as contrarrazões (fls. 367/377e), foi inadmitido o Recurso Especial (fls. 393/394e), o que ensejou a interposição do presente Agravo (fls. 403/405e).
+O Recurso Especial não merece prosperar.
+Com efeito, o cerne da discussão gira em torno da validade da aplicação ou não dos juros de mora estabelecidos pela Lei Estadual 13.918/2009.
+Assim, embora a parte ora agravante alegue violação a matéria infraconstitucional, verifica-se que o tema foi decidido à luz de norma local, sendo, portanto, inviável o seu exame em Recurso Especial, diante da incidência, por analogia, da Súmula 280/STF, a qual preceitua que "por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+"TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. TRIBUTO ESTADUAL. ATUALIZAÇÃO. TAXA SELIC. TERMO INICIAL. RECOLHIMENTO INDEVIDO. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DO STJ. NORMA LOCAL. REEXAME. IMPOSSIBILIDADE.
+1. Os valores a serem devolvidos a título de repetição de indébito tributário, em atenção ao princípio da isonomia, devem ser atualizados pelos mesmos índices de correção monetária e de juros de mora aplicados na cobrança de tributo em atraso, de modo que é devida a utilização da Taxa Selic desde o recolhimento indevido, inclusive na esfera estadual, a partir da vigência da lei local que a tenha estabelecido (Temas 119 e 905 do STJ).
+2. A conformidade do acórdão recorrido com a jurisprudência do STJ enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+3. A revisão do acórdão combatido quanto à alegação de existência de lei estadual que prevê diferente marco inicial para incidência da Selic como índice de atualização para repetição de indébito tributário pressupõe reexame de norma local, o que é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF.
+4. Agravo interno desprovido" (STJ, AgInt no REsp n. 1.940.005/PR, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/3/2022.)
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
+EMENTA
