@@ -15,3 +15,4 @@ V - as áreas sob processos técnicos de formação ou recuperação de pastagen
 § 6º Para os produtos que não tenham índices de rendimentos fixados, adotar-se-á a área utilizada com esses produtos, com resultado do cálculo previsto no inciso I do § 2º deste artigo.
 § 7º Não perderá a qualificação de propriedade produtiva o imóvel que, por razões de força maior, caso fortuito ou de renovação de pastagens tecnicamente conduzida, devidamente comprovados pelo órgão competente, deixar de apresentar, no ano respectivo, os graus de eficiência na exploração, exigidos para a espécie.
 § 8º São garantidos os incentivos fiscais referentes ao Imposto Territorial Rural relacionados com os graus de utilização e de eficiência na exploração, conforme o disposto no art. 49 da Lei nº 4.504, de 30 de novembro de 1964.
+§ 9º (VETADO).

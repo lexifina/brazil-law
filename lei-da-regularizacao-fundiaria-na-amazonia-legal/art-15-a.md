@@ -1,0 +1,3 @@
+Art. 15-A. Caso o contrato emitido antes de 25 de junho de 2009 esteja pendente de pagamento, os beneficiários originários, herdeiros ou terceiros adquirentes de boa-fé que ocupem e explorem o imóvel poderão adimplir integralmente o saldo devedor e receber a quitação do contrato, hipótese em que será aplicável a extinção das cláusulas resolutivas, observado o disposto no art. 16-A desta Lei.
+§ 1º O terceiro de boa-fé proprietário de outros imóveis rurais poderá ter seu requerimento atendido, desde que o somatório das áreas de sua propriedade com o imóvel em estado de inadimplência não exceda a 15 (quinze) módulos fiscais.
+§ 2º Ato do Poder Executivo disporá sobre as condições financeiras e os prazos para a renegociação, observados os limites estabelecidos nesta Lei.
