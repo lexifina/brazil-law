@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por HELBAACO EMPREENDIMENTOS IMOBILIÁRIOS LTDA e HELBOR EMPREENDIMENTOS S/A com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fls. 1029/1030):
+"RECONSIDERAÇÃO EM DECORRÊNCIA DE POSTERIOR FIXAÇÃO DE TESE REPETITIVA NO STJ. COMPROMISSO DE COMPRA E VENDA. INDENIZAÇÃO. Interposição de recurso especial contra o venerando acórdão que afastou a tese de prescrição da pretensão ressarcitória das quantias pagas a titulo de comissão de corretagem e SATI. Adoção do prazo decenal do artigo 205 do Código Civil. Juizo de retratação na forma prevista no artigo 543-C, § 7º, II, do Código de Processo Civil de 1.973 (artigo 1.030, II do atual código processual). Entendimento do Superior Tribunal de Justiça (tema 938), em sede de recurso repetitivo, todavia , no sentido de que o prazo prescricional é o de 3 anos previsto no artigo 206, § 30, IV do Código Civil. Retração do anterior juizo que se faz necessária. Sentença reformada. Recurso de apelação parcialmente provido para, reconhecendo a prescrição da pretensão, julgar extinto o pedido de ressarcimento, com resolução de mérito, fundamentado no artigo 269, IV do Código de Processo Civil de 1.973 (atual 487, II do novo diploma processual). Acórdão parcialmente reconsiderado.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustentam as recorrentes que o Tribunal a quo julgou extra petita, malferindo os arts. 128 e 460 do CPC/2015, na medida em que condenou-lhes em lucros cessantes jamais requeridos.
+Constatam ainda que foram condenadas indevidamente à restituição dos valores desembolsados a título de comissão de corretagem e serviço de assessoria imobiliária, não tendo sido observada a previsão contida no art. 206, § 3º, V, do Código Civil.
+Defendem que o Tribunal a quo negou vigência aos arts. 594, 597, 725, do Código Civil, pois não devem restituir o valor correspondente à comissão de corretagem e comissão de assessoria imobiliária, pois ambos os serviços foram contratados, e o negócio concretizado.
+Acrescentam que não há ilícito a amparar a condenação a título de danos morais, na melhor interpretação dos arts. 186, 187, 927, do Código Civil.
+Argumentam que o valor arbitrado a título de danos morais se mostra desproporcional, violando o art. 944 do Código Civil.
+Esclarecem que a sucumbência é recíproca, e tendo o Tribunal a quo distribuído o ônus em seu desfavor, negou vigência ao art. 20 do CPC/1973.
+Apresentam dissídio jurisprudencial.
+As contrarrazões ao recurso especial foram apresentadas a fls. 998/1013.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação de reparação de danos materiais e morais cumulada com declaração de ineficácia de cláusulas (4.6 e 4.7) do Compromisso de Venda e Compra celebrado entre as partes, bem como a declaração de nulidade da cláusula nº 8 do Termo de Transferência de Posse, em razão de atraso na entrega da obra do imóvel, ajuizada por Rodrigo Gevaerd e Maria Cristina Martins, ora recorridos, em face das ora recorrentes.
+O pedido foi julgado procedente em parte para o fim de condenar as rés, solidariamente, (i) ao pagamento de indenização por perdas e danos no valor correspondente a 1% do valor atualizado do contrato por mês de atraso; (ii) ao pagamento de indenização por danos morais no valor de R$60.000,00 (sessenta mil reais); (iii) a restituírem o montante de R$18.673,00.
+Em preliminar, cumpre asseverar que o tema referente ao julgamento extra petita não foi alvo de debate no âmbito do acórdão recorrido, não tendo sido opostos embargos de declaração. Recai, ao ponto, a inteligência da Súmula 282/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DANOS MORAIS. CURSO TÉCNICO. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. A matéria referente ao julgamento extra petita, não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+3. As conclusões do acórdão recorrido sobre a inexistência do ato ilícito apto a gerar o dever de indenizar, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão da Súmula 7 do STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp 1.586.351/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020)
+Relativamente ao tema da prescrição, o Tribunal a quo em juízo de adequação ao entendimento firmado em sede de repetitivo, assentou ao caso concreto a tese representativa de controvérsia no sentido de que prazo prescricional da pretensão ressarcitória é de 3 anos, contados da celebração do negócio, nos termos do artigo 206, § 3º, IV, do Código Civil.
+Em consequência da observância ao recurso especial repetitivo, o Tribunal a quo consignou que o negócio foi celebrado em 31/08/2008, entretanto, a demanda só foi proposta em 16/10/2012, não havendo notícia de qualquer fato suspensivo, impeditivo ou interruptivo da prescrição. Assim, reconheceu ultrapassado o prazo fixado de 3 anos para pretensão em reaver o quanto pago a título de taxa de corretagem e SATI.
+Destarte, no ponto, os recorrentes foram vencedores perante o Tribunal a quo, razão pela qual não há interesse em recorrer.
+No que concerne à reparação a título de danos morais, o tema não foi debatido perante o Tribunal a quo, não tendo sido opostos embargos de declaração, atraindo o óbice da Súmula 282/STF.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. PREQUESTIONAMENTO AUSENTE. SÚMULA 282/STF. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada quanto à tese sobre a restituição da comissão de corretagem. Incidência da vedação prevista na Súmula 282/STF.
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso na entrega do imóvel foi superior a um ano e quatro meses após a expiração do prazo de tolerância.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1.983.175/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/06/2022, DJe de 29/06/2022)
+No tocante à sucumbência recíproca, tendo sido reconhecido o decaimento mínimo do pedido, a pretensão recursal no ponto encontra óbice na Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. NÃO VIOLAÇÃO. JULGAMENTO SINGULAR. POSSIBILIDADE. ART. 932 DO CPC. INTERPRETAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. MORA DO CREDOR. SÚMULA 7 DO STJ. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+8. A apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como a verificação da existência de sucumbência mínima ou recíproca, encontram óbice na Súmula 7/STJ, por revolver matéria eminentemente fática.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.168.164/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/11/2023, DJe de 24/11/2023)
+Dessa forma, entende-se que o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Diante do exposto, conheço em parte do recurso especial e nessa parte nego-lhe provimento. E, quanto ao ônus da sucumbência, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+Publique-se.
+EMENTA
