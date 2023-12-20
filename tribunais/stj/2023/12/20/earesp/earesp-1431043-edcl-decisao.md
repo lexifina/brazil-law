@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se embargos de declaração, opostos por ALYSSON ALDO SANSON, contra decisão que indeferiu liminarmente os embargos de divergência, nos termos do art. 266-C, Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, o embargante aponta as seguintes omissões na decisão de fls. 1.187-1.193: i) a de cisão não teria tratado da divergência entre o acórdão proferido pela Sexta Turma no ARESP 1.431043 e o AgRg no ARESP n. 503.229/DF, apesar da nítida similitude fática; e ii) teria havido apreciação da controvérsia relativa à atenuante inominada (fls. 1.197-1.208).
+É o relatório necessário. DECIDO.
+Os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+Da leitura das razões dos embargos, não identifico quaisquer dos vícios previstos nos arts. 619 e 620, Código de Processo Penal, mas simples alegação de suposto erro de julgamento ou de apreciação da causa.
+O indeferimento liminar dos embargos de divergência se fundamentou na inexistência de demonstração da a similitude fática entre o caso examinado no presente processo e aquele no qual proferido o acórdão paradigma. E, quanto ao ponto, insuficiente o argumento de que o requisito seria nítido.
+Não entrevejo, igualmente, omissão relativa ao ponto da aplicabilidade da atenuante inominada porquanto incidente o enunciado de súmula n. 7, STJ em relação à matéria e ausente apreciação da controvérsia.
+O embargante busca, por via oblíqua, a reversão do julgado, o que não tem o condão de viabilizar a oposição dos aclaratórios, que servem ao aprimoramento da decisão, mas não à sua alteração, que apenas é admitida em casos excepcionais (EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 23/3/2022, DJe de 25/3/2022).
+Ante o exposto, rejeito os embargos de declaração.
+Sem prejuízo, indefiro o pedido - PET 00912952/2023 e PET 00970393 - de remessa dos autos ao Ministério Público para oferecimento de acordo de não persecução penal por se tratar de inovação recursal. Nesse sentido: AgRg no AREsp n. 2.358.982/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023; e AgRg no RHC n. 170.271/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS. PEDIDO DE REMESSA DOS AUTOS PARA ORIGEM PARA OFERECIMENTO E ANPP. INOVAÇÃO. INDEFERIDO.
