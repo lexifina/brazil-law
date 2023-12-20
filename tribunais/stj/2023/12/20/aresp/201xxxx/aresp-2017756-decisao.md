@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ANTONIO ELOI FONTANA DE PAULI, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. INCLUSÃO NO POLO PASSIVO EM AÇÃO DE EXECUÇÃO FISCAL. BLOQUEIO DE ATIVOS FINANCEIROS. ERRO JUDICIÁRIO. INOCORRÊNCIA. DANOS MORAIS NÃO CONFIGURADOS. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APELAÇÃO IMPROVIDA" (fl. 1.222e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 1.228/1.231e), os quais restaram rejeitados, nos seguintes termos:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESESDE CABIMENTO. IMPOSSIBILIDADE DE REDISCUSSÃO DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO.
+1. Os embargos de declaração são cabíveis para o suprimento de omissão, saneamento de contradição, esclarecimento de obscuridade ou correção de erro material no julgamento embargado. A jurisprudência também os admite para fins de prequestionamento.
+2. Os embargos declaratórios não se prestam à reforma do julgado proferido, nem substituem os recursos previstos na legislação processual para que a parte inconformada com o julgamento possa buscar sua revisão ou reforma.
+3. Embargos declaratórios parcialmente providos apenas para fins de prequestionamento" (fl. 1.239e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 489, § 1º, 1.022, parágrafo único, II e 1.030 do CPC/2015, sustentando o seguinte:
+"O Recorrente ajuizou demanda indenizatória em face da União Federal, após ter respondido pessoalmente por dívida de terceiro, através de constrição indevida de seus ativos financeiros, por intermédio do bloqueio BACENJUD, praticado por Juízo de Execução Fiscal, o a qual deferiu pedido fazendário para penhora das contas dos Executados, sem que tenha sido feita prévia análise de redirecionamento da responsabilidade tributária.
+Ao assim proceder, a União Federal agiu manifestadamente contrária a posição do STF e ao art. 19, §1º, inciso I da Lei n.º 10.522/00, que impõe a prática de atos de ofício à Procuradoria da Fazenda Nacional quando da resolução de demandas repetitivas ou consolidação de temas em repercussão geral, os quais não foram praticados pela Recorrida e levaram a prejuízo moral e material ao Recorrente.
+(..)
+Verifica-se que o v. acórdão ao julgar as matérias devolvidas pelo Recorrente no recurso de apelação, conforme estabelece o art. 1.013 do CPC, não expôs nenhum fundamento novo, tão somente repetiu os idênticos fundamentos da r. sentença recorrida.
+Quanto aos dispositivos do Código de Processo Civil supra indicados, a Corte a quo manifestou expressamente o prequestionamento quando do julgamento dos Embargos de Declaração, conforme v. acórdão recorrido de EV. 17, acórdão que incorreu novamente em idênticas violações, por repetir a transcrição da sentença recorrida, em absoluta falta de fundamentação.
+(..)
+O acórdão recorrido viola ainda mais o direito do Recorrente ao acesso à Justiça e ao duplo grau de jurisdição, visto que sequer enfrentou os argumentos deduzidos pela Recorrente, invocando fundamentos genéricos, que poderiam servir para justificar qualquer outra decisão.
+(..)
+Portanto, o que se esperava era v. acórdão distinto da sentença, já que o Recorrente interpelou recurso, arcando os ônus decorrentes da prestação jurisdicional, a fim de que a controvérsia fosse revista em órgão colegiado, o que manifestadamente não ocorreu.
+Nenhuma das razões específicas do Recorrente, foram ventiladas pelo acórdão recorrido.
+(..)
+O Recorrente teve reconhecida por decisão judicial sua ilegitimidade passiva na demanda executiva, tendo sido excluído da Execução Fiscal após o Juízo entender que teria sido incluído por "erro do cartório" (EV. 1 - OUT11), sem que houvesse, contudo, a devolução dos valores indevidamente bloqueados e transferidos, desta feita, há que se reconhecer a existência do dano moral pelo próprio fato.
+Há nexo de causalidade entre a omissão da Recorrida em aplicar a lei devidamente, que impunha a revisão dos lançamentos, e a permanência do Recorrente como executado, na modalidade de corresponsável, em execuções fiscais ajuizadas pelo INSS.
+A Requerida agiu dolosamente nos autos quando da formulação dos seus requerimentos, contrariando aos dispositivos das leis pertinentes, e, principalmente, sem adequar o lançamento do tributo e o polo passivo da execução fiscal, após declaração de inconstitucionalidade do art. 13 da Lei nº 8.620/93 pelo STF.
+Este teve injustamente restringida a disposição de seus bens e de seu nome por ação de agente público e poderá vir a ter novos danos da mesma espécie em outras execuções fiscais, já que a Recorrida persiste em não adequar os lançamentos em que Recorrente foi incluído indevidamente como corresponsável, com base no art. 13 da Lei nº 8.620/93" (fls. 1.271/1.279e).
+Por fim, requer "seja conhecido e provido o presente Recurso Especial, para o fim de anular o acórdão recorrido, frente a manifesta violação ao art. 489, §1º, inciso III, combinado ao art. 1.022, inciso II do CPC, determinado o retorno da matéria para o Tribunal a quo, de modo a cumprir com o princípio da devolutividade dos recursos e do art. 1.013 do CPC, para que sejam enfrentados todos os argumentos deduzidos pela parte Recorrente em suas razões de apelação e que dizem respeito a sua individualidade, alcançando essencialmente o mérito do recurso, de modo enfrentar motivadamente os fundamentos do Recorrente no que concerne a existência de ato ilícito, consubstanciado na omissão da Recorrida em deixar de praticar ato de ofício que culminou em dano a imagem/honra do Recorrente" (fl. 1.280e).
+Inadmitido o Recurso Especial (fls. 1.308/1.310e), foi interposto o presente Agravo (fls. 1.318/1.328 e).
+A irresignação merece prosperar.
+Conforme ponderado pela parte recorrente, a Corte de origem "não expôs nenhum fundamento novo, tão somente repetiu os idênticos fundamentos da r. sentença recorrida", quando da apreciação da Apelação interposta.
+Com efeito, o acórdão recorrido não aplica a fundamentação per relationem tal como admitida pela jurisprudência, isto é, em situação na qual as razões decisórias, adotadas pelo órgão julgador, abrangem todas as questões relevantes para a solução da controvérsia.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FUNDAMENTAÇÃO PER RELATIONEM. OMISSÃO VERIFICADA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015.
+1. O Tribunal de Justiça do Maranhão, após longo discurso acerca da importância das decisões monocráticas como instrumento de política judiciária, transcreveu ipsis litteris a sentença, sem se debruçar sobre os argumentos da Apelação e, posteriormente, dos Embargos de Declaração.
+2. É certo que a jurisprudência desta Corte Superior admite o fundamento per relationem. No entanto, exige que o julgador apresente elementos próprios de convicção, ainda que de forma sucinta, de modo a enfrentar todas as questões relevantes para o julgamento do processo.
+(..)" (STJ, REsp 2.050.338/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 5/6/2023).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para d ar provimento ao Recurso Especial, a fim de que os autos retornem à Corte de origem para novo julgamento dos Embargos de Declaração, com enfrentamento das teses apresentadas pelo ora Recorrente.
+I.
+EMENTA
