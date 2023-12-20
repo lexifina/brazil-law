@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA DEVALORES. SISBAJUD. PESSOA FÍSICA. REITERAÇÃO AUTOMÁTICA.
+1. A busca e penhora de ativos financeiros através do sistema SISBAJUD na modalidade de reiteração automática (teimosinha) está prevista na regulamentação provinda do Conselho Nacional de Justiça, um dos patrocinadores do dito sistema.
+2. Tratando-se de coexecutado pessoa natural, a reiteração automática é presumida como violadora do mínimo existencial do executado fiscal" (fl. 42e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 50/53e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OBSCURIDADE.
+1. Não havendo no acórdão obscuridade, contradição, omissão ou erro material, nega-se provimento aos embargos de declaração" (fl. 61e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 3º, 4º, 6º, 789, 797, 835, 854, 1.022, II, do CPC/2015 e aos arts. 7º, II, 11 da LEF, sustentando que: "(..) a funcionalidade sequer restou realizada ou tentada, sendo indeferida de plano, antecipadamente. Ora, é óbvio que se houver ativos impenhoráveis, a parte devedora será intimada a se manifestar da penhora e poderá, eventualmente, arguir a impenhorabilidade, nos termos do art. 854, §§ 3º e 5º: Não se pode, porém, impedir antecipadamente a realização da novel medida ao singelo argumento de que violaria o mínimo existencial do devedor. Frise-se: sequer houve reiteração da medida de busca (teimosinha), de forma que não se sabe se há/haveria ativos disponíveis e muito menos a sua qualidade (se penhoráveis ou não), questão a ser oportunamente discutida e decidida" (fl. 70e).
+Por fim, requer o provimento do recurso.
+Sem contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 75/76e).
+A irresignação merece prosperar parcialmente.
+Na origem, a parte ora recorrente opôs Embargos de Declaração, sustentando, no que interessa, que:
+"Ademais, observe-se que a funcionalidade sequer restou realizada ou tentada, sendo indeferida de plano, antecipadamente. Ora, é óbvio que se houver ativos a parte devedora será intimada a se manifestar da penhora e poderá, eventualmente, arguir a impenhorabilidade, nos termos do art. 854, §§ 3º e 5º:
+Não se pode, porém, impedir antecipadamente a realização da novel medida ao singelo argumento de que violaria o mínimo existencial do devedor. Frise-se: sequer houve reiteração da medida de busca (teimosinha), de forma que não se sabe se há/haveria ativos disponíveis e muito menos a sua qualidade (se penhoráveis ou não), questão a ser oportunamente discutida e decidida.
+(..)
+Como se constata, o ônus da prova de que a quantia é impenhorável recai sobre o executado e não pode ser antecipada ou presumida. Aliás, nos termos do art. 854, §5º, eventual silêncio, omissão ou rejeição da objeção do devedor faz a constrição se convolarem penhora, conduzindo à transferência do valor bloqueado para conta vinculada ao juízo, o que robora a pretensão legal do credor.
+(..)
+Não se pode impedir a utilização da novel funcionalidade, em afronta ao princípio segundo o qual a execução deve ser promovida no interesse do credor (art. 797 do CPC)" (fls. 51/52e).
+No entanto, os Embargos de Declaração foram rejeitados, sem que os questionamentos suscitados fossem efetivamente apreciados.
+Assim, não tendo a Corte a quo emitido juízo de valor sobre os pontos, tem razão o recorrente, quando aduz a existência de vício no acórdão impugnado, mormente no que concerne às alegações supratranscritas.
+Destarte, resta configurada a violação ao art. 1.022 do CPC/2015 e, assim, a negativa de prestação jurisdicional.
+A propósito, vale destacar que, na forma da jurisprudência dominante do STJ, ocorre negativa de prestação jurisdicional quando o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente, tal como ocorreu, na espécie.
+Nesse sentido, mutatis mutandis, os seguintes precedentes:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NA EXTENSÃO DA ANÁLISE DA AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. ACLARATÓRIOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+(..)
+2. O acórdão embargado incorreu em omissão na extensão da análise da afronta aos arts. 489 e 1.022 do CPC/2015, tendo em vista que os pontos suscitados como omissos nos Embargos de Declaração opostos na origem e, também, no Recurso Especial, são, em tese, relevantes, para o julgamento da controvérsia.
+(..)
+4. Conforme trecho anteriormente transcrito no decisum embargado, observa-se que a Corte de origem, ao julgar os aclaratórios opostos, manteve-se silente em relação aos pontos suscitados, em manifesta ofensa aos arts. 489 e 1.022 do CPC/2015.
+5. A hipótese, portanto, é de acolhimento, em caráter prejudicial, da tese de violação dos arts. 489 e 1.022 do CPC/2015 suscitada no Recurso Especial, com o retorno dos autos à origem para novo julgamento dos Aclaratórios que aborde as questões acima indicadas.
+6. Embargos de Declaração acolhidos com efeitos infringentes para dar parcial provimento ao Recurso Especial, apenas quanto à violação dos arts. 489 e 1.022 do CPC/2015, determinando-se o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, para tratamento da integralidade das questões neles postas: suposto erro material e omissão quando, mesmo após aclaratórios na origem, diz que a sentença acertou ao fixar que a questão relacionada ao redirecionamento já foi analisada em exceção de pré-executividade e no Agravo de Instrumento 0800281- 19.2015.4.05.0000 (a ela vinculado), mas deixa de observar que a impossibilidade de redirecionamento levada à 1ª instância e ao Tribunal a quo na presente oportunidade é sob a ótica de os ora embargantes não integrarem, à época do indício de dissolução irregular, o quadro societário da empresa executada; e, por tal inobservância, entende que essa matéria teria sido apreciada, quando não foi e quanto à impossibilidade de redirecionamento levada ao 1º grau e ao Tribunal a quo porque eles não integravam, à época da dissolução irregular, o quadro societário da empresa executada, o que é fundamental para a incidência do art. 135, III, do CTN" (STJ, EDcl no AgInt no REsp 1.951.835/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/04/2022).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CORREÇÃO MONETÁRIA. NATUREZA DE ORDEM PÚBLICA E SUCESSIVA DOS JUROS MORATÓRIOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com o art. 1.022 do Código de Processo Civil de 2015, os embargos declaratórios são cabíveis contra qualquer decisão judicial quando houver obscuridade ou contradição, ou para suprir omissão ou corrigir erro material.
+2. Havendo deficiência na prestação jurisdicional, deve ser acolhida a tese de violação ao artigo 1.022 do CPC/2015, para determinar o retorno dos autos a fim que sejam sanados os vícios apontados.
+3. Agravo interno não provido" (STJ, AgInt no AgInt no REsp 1.944.678/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 22/02/2022).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao Recurso Especial, a fim de desconstituir o acórdão de fls. 61/63e, exarado no julgamento dos Aclaratórios de fls. 50/53 e, para que outro seja proferido em seu lugar, sanando os vícios apontados pela parte recorrente.
+I.
+EMENTA
