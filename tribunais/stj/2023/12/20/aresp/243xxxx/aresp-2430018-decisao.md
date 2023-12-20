@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por LENI VIEIRA DOS SANTOS, contra decisão que negou seguimento a recurso especial, com fundamento na ausência de exaurimento da instância recursal (fls. 1.158/1.160, e-STJ).
+Conforme ficou decidido, "o recurso não reúne condições de admissibilidade. A decisão monocrática, por não configurar julgamento de tribunal, é inatacável mediante recurso especial, nos termos do inciso III do artigo 105 da Constituição Federal".
+Em suas razões de agravo (art. 1.042, do CPC/15), buscando destrancar o processamento do apelo nobre (fls. 1.164/1.166, e-STJ), a insurgente lança argumentos para desconstituir os fundamentos que embasaram a decisão recorrida. Assevera que apesar do decidido, "da mesma forma que não é obrigatório opor embargos de declaração para prequestionamento como requisito para a interposição de recurso especial, também não é necessária a interposição de agravo interno contra a decisão do relator para a interposição de recurso especial" (fl. 1.166, e-STJ).
+Contraminuta às fls. 1.168/1.170 (e-STJ).
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Em uma análise detida das razões de agravo (art. 1.042, do CPC/15), verifica-se que a recorrente limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, reafirmando os argumentos deduzidos no apelo nobre, sem, contudo, efetivamente demonstrar a inadequação do óbice invocado.
+No tocante à aplicação, por analogia, da Súmula 281/STF, a obstar a subida do especial às instâncias superiores, verifica-se que a agravante não discorreu argumentação apta a combater o referido impedimento.
+Como é cediço, o recurso especial constitui meio impugnativo processual de fundamentação vinculada, que reclama o exaurimento das vias recursais ordinárias, em razão de a Constituição Federal de 1988 (artigo 105, inciso III) exigir, como requisito específico de sua admissibilidade, a interposição em desafio a decisão de "única ou última instância".
+Neste sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO JULGADOS MONOCRATICAMENTE. NÃO INTERPOSIÇÃO DE AGRAVO INTERNO. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SÚMULA N. 281 DO STF. 1. O recurso especial somente é cabível quando esgotadas as vias recursais ordinárias em razão de sua finalidade de preservação da legislação federal infraconstitucional, da qual se infere que o especial não se presta a mais um grau de jurisdição. Aplicação analógica da Súmula n. 281/STF. 2. Não há que se falar em exaurimento das instâncias ordinárias quando os embargos de declaração são julgados por meio de decisão monocrática. Precedentes. Agravo interno improvido. (AgInt no AREsp n. 2.246.765/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+PROCESSUAL CIVIL. APELAÇÃO JULGADA MONOCRATICAMENTE. NÃO INTERPOSIÇÃO DE AGRAVO INTERNO. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SÚMULA N. 281 DO STF. É inadmissível o recurso especial interposto contra decisão monocrática proferida pelo relator no Tribunal de origem, de modo que não houve esgotamento das instâncias ordinárias. Aplicação analógica da Súmula n. 281/STF. Agravo interno improvido. (AgInt no AREsp n. 2.149.403/CE, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Assim, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do NCPC:
+Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+E, ainda, "Inexistindo impugnação específica ao decisum impugnado, restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 14/12/2015).
+2. Do exposto, com fulcro no art. 932, III, do CPC/2015, e na aplicação, por analogia, do Enunciado n. 182 da Súmula deste STJ, conheço em parte do agravo em recurso especial para, nessa extensão, negar-lhe provimento.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
