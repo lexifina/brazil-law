@@ -1,0 +1,21 @@
+DECISÃO
+T rata-se de habeas corpus com pedido de liminar impetrado em favor de WENDEL DA SILVA RIBEIRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi preso preventivamente em 15/06/2023, pela suposta prática da conduta descrita no art. 33, caput, da Lei n.11.343/2006- apreensão de 51.180 gramas maconha, 370 gramas de crack e 25 gramas de cocaína- fl. 128.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 148-155, ao fundamento de que:
+"embora seja o paciente primário, responde a outro processo (receptação, fls. 91) que se encontra paralisado nos termos do art. 366 do Código de Processo Penal, a demonstrar que em liberdade tende a evadir-se, logo, a prisão deve permanecer também por conveniência da instrução criminal e aplicação da lei penal" - fls. 153-154.
+A defesa sustenta constrangimento ilegal porque a prisão foi decretada apenas com base na quantidade de drogas apreendidas.
+Ressalta, ainda, que o paciente possui condições pessoais favoráveis, defendendo a aplicação de medidas cautelares diversas da prisão.
+Requer, a concessão de liberdade provisória e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 161-162.
+As informações foram prestadas às fls. 168-170 e 173-184.
+O  Ministério  Público  Federal,  às  fls.  186-191,  manifestou em parecer assim ementado:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO CABÍVEL DESCABIMENTO. RESTRIÇÃO AO USO DO REMÉDIO CONSTITUCIONAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MANUTENÇÃO DA CONSTRIÇÃO CAUTELAR. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E APLICAÇÃO DA LEI PENAL. OUTRA AÇÃO PENAL EM ANDAMENTO. APREENSÃO DE RELEVANTE QUANTIDADE DE DROGAS E PETRECHOS. HABITUALIDADE DELITIVA EVIDENCIADA. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS ALTERNATIVAS DIVERSAS DA PRISÃO. INCABÍVEIS NO CASO CONCRETO. PARECER PELO NÃO CONHECIMENTO DO WRIT. ALTERNATIVAMENTE, PELA DENEGAÇÃO DA ORDEM. 1. No caso concreto, a custódia cautelar mostra-se suficientemente fundamentada na ordem pública, haja vista a gravidade concreta do delito, baseada na exorbitante quantidade de droga apreendida, bem como em demais petrechos comuns à prática da traficância, o que, conjuntamente às demais circunstâncias, comprova a habitualidade delitiva do Paciente e o elevado risco de reiteração delitiva; 2. Inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva; 3. Consoante à jurisprudência do STJ, em relação aos argumentos suscitados no que tange às sanções e vantagens passíveis de serem outorgadas ao Paciente, asseverando a sugestão de desproporção da privação de liberdade, cumpre ressaltar que tal prognóstico somente encontrará sua aferição concreta no desfecho do veredito na esfera da ação penal em apreço; 4. Parecer pelo não conhecimento do writ, alternativamente, pela denegação da ordem- fl. 186.
+É  o  relatório. DECIDO.
+O pedido está prejudicado.
+Conforme informações obtidas no sitio do Tribunal de origem, (www.tjsp.jus.br) , foi proferida sentença condenatória, em 21/11/2023, proc. 1503268-79.2023.8.26.0196, em que foi julgado procedente a denúncia e condenado o paciente como incurso no artigo 33, caput, da Lei 11.343/06, à pena de 07 anos e 06 meses, em regime inicial fechado. Na ocasião, o Magistrado acrescentou novos fundamentos para manter a prisão preventiva em seu desfavor.
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito :
+"A Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente torna prejudicado o habeas corpus em que se busca sua revogação, quando novos e diversos fundamentos são agregados ao decreto prisional primitivo"(AgRg no HC n. 731.126/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/10/2022, grifei. )
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
