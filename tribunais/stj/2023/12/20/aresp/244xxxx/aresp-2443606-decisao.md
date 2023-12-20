@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de RAIA DROGASIL S.A. que objetiva admissão de recurso especial interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da CF/1988 contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 272):
+AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL EXECUÇÃO FISCAL - SÓCIOS - REDIRECIONAMENTO -PRESCRIÇÃO INTERCORRENTE - INOCORRÊNC1A
+I - O prazo prescricional para a Fazenda Pública redirecionar a execução fiscal em face dos corresponsáveis é de cinco anos da citação da empresa.
+II - Ajuizada o executivo fiscal em 01-07-1997, citada a empresa em 14-10-1997 e integrados os corresponsáveis tributário no polo passivo da execução antes de outubro/2002, não há falar em prescrição intercorrente.
+III - A prescrição resta interrompida, de fato, na data do ajuizamento da ação no prazo legal, ou do requerimento de inclusão dos sócios corresponsáveis no polo passivo da execução.
+IV - Antecedentes jurisprudenciais.
+V - Agravo legal provido.
+No especial, a parte alega, em síntese, violação:
+a) do art. 174, parágrafo único, I, do CTN, ao argumento de que "em casos anteriores à Lei Complementar 118/05, "como é o caso dos autos, pacífico o entendimento na jurisprudência do Superior Tribunal de Justiça, sob a égide da aplicação do disposto na redação original do art. 174-I do CTN, no sentido de que somente a citação válida do devedor é que interrompe a prescrição"" (e-STJ fl. 279).
+b) do art. 219, § 1º, do CPC/2015, pois "revela-se equivocado o entendimento do v. acórdão recorrido ampliando a aplicação da interrupção da prescrição ao simples requerimento da citação do responsável tributário como se lê: "analogicamente em relação aos corresponsáveis, o Marco interruptivo é a "data do requerimento para integrá-los no polo passivo da execução."(Fls. 254), pois também nesse caso tem aplicação a regra do artigo" 174, Parágrafo Único, inciso 1, do Código Tributário Nacional, então em vigor, segundo o qual somente a citação interrompe a prescrição"" (e-STJ fl. 281).
+Contrarrazões apresentadas às e-STJ fls. 329/330.
+O recurso especial não foi admitido na origem (e-STJ fls. 334/339), ensejando a interposição de agravo em recurso especial.
+Passo a decidir.
+A questão jurídica referente à prescrição para o redirecionamento da Execução Fiscal, no prazo de cinco anos, contados da citação da pessoa jurídica, foi enfrentada pela Primeira Seção no julgamento do REsp 1.201.993/SP, submetido ao rito dos recursos especiais repetitivos (Tema 444).
+Na ocasião, firmou-se a seguinte tese:
+(i) o prazo de redirecionamento da Execução Fiscal, fixado em cinco anos, contado da diligência de citação da pessoa jurídica, é aplicável quando o referido ato ilícito, previsto no art. 135, III, do CTN, for precedente a esse ato processual;
+(ii) a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente, uma vez que, em tal circunstância, inexistirá, na aludida data (da citação), pretensão contra os sócios-gerentes (conforme decidido no REsp 1.101.728/SP, no rito do art. 543-C do CPC/1973, o mero inadimplemento da exação não configura ilícito atribuível aos sujeitos de direito descritos no art. 135 do CTN).
+O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes infratores, nesse contexto, é a data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de cobrança executiva promovida contra a empresa contribuinte, a ser demonstrado pelo Fisco, nos termos do art. 593 do CPC/1973 (art. 792 do novo CPC - fraude à execução), combinado com o art. 185 do CTN (presunção de fraude contra a Fazenda Pública); e, (iii) em qualquer hipótese, a decretação da prescrição para o redirecionamento impõe seja demonstrada a inércia da Fazenda Pública, no lustro que se seguiu à citação da empresa originalmente devedora (REsp 1.222.444/RS) ou ao ato inequívoco mencionado no item anterior (respectivamente, nos casos de dissolução irregular precedente ou superveniente à citação da empresa), cabendo às instâncias ordinárias o exame dos fatos e provas atinentes à demonstração da prática de atos concretos na di reção da cobrança do crédito tributário no decurso do prazo prescricional.
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça, se for o caso, o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art.1.040 do CPC/2015, conforme o caso.
+Publiquem-se. Intimem-se.
+EMENTA
