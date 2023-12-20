@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por DANIELLA DE LIMA RIBEIRO contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de Instrumento Exceção de pré-executividade Rejeição Nulidade da decisão por ausência de fundamentação Inocorrência Cédula de Crédito Bancário Alegação de onerosidade excessiva diante da aplicação de juros abusivos e capitalizados Matéria afeta ao mérito da execução, devendo ser deduzida e dirimida em sede de embargos - Recurso improvido" (fl. 227).
+Os embargos de declaração foram rejeitados (fl. 100).
+No recurso especial, a recorrente alega violação do artigo 803, parágrafo único, do CPC ao argumento de que pode ser arguida por meio de exceção de pré-executividade a análise da inexequibilidade do título discutido na origem (e consequentemente da nulidade da execução) por ausência de liquidez do débito diante da abusividade das taxas e juros remuneratórios, da cobrança do prêmio do seguro de proteção financeira e da cobrança de honorários advocatícios.
+Sem contrarrazões, conforme certidão de fl. 126. Após, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, no que se refere à exceção de pré-executividade, o Tribunal de origem fundamentou que:
+"(..) Referida medida de defesa, segundo vem mencionado em aresto deste E. Tribunal consiste na faculdade atribuída ao executado de submeter ao conhecimento do juiz da execução, independentemente de penhora ou de embargos, determinadas matérias próprias da ação de embargos à execução, limitada, porém, sua abrangência temática à matéria suscetível de conhecimento de ofício ou à nulidade do título, que seja evidente e flagrante, isto é, nulidade cujo conhecimento independa de contraditório ou dilação probatória(JTACSP Lex 169/25).
+(..)
+No caso, o douto Magistrado reconheceu acertadamente que a exceção de pré-executividade é via inadequada para atacar a execução, pois as matérias postas pelos excipientes nada tem a ver com questões de ordem pública, portanto, não são passíveis de conhecimento de ofício.
+matérias afetas ao mérito da execução que deve ser deduzida em sede de embargos, inclusive por poder depender de prova para ser decidida, e, além disso, pode configurar, quando muito, excesso de execução, o que não implica na nulidade do título exequendo, porquanto nada obsta se reconhecida a sua ocorrência, que seja eliminado sem prejuízo do prosseguimento da execução"(fls. 87/89).
+Registra-se que "esta Corte Superior perfilha o entendimento de que a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, quais sejam: a) a matéria invocada deve ser suscetível de conhecimento de ofício pelo juiz; e b) desnecessidade de dilação probatória" (Resp 2.052.225/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, julgado em 16/05/2023, DJe 19/05/2023).
+Assim, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça quanto ao não cabimento da exceção de executividade para a análise da abusividade dos juros remuneratórios.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem, amparado nos elementos fáticos dos autos, concluiu que a discussão acerca do termo inicial da incidência de juros e correção monetária, se desde a transcrição do registro no Cartório Imobiliário ou se desde o vencimento da nota promissória, não é matéria de ordem pública, sendo inviável tal discussão em sede de exceção de pré-executividade. Ao concluir dessa matéria sobre o tema, a Corte de origem decidiu em consonância com a Jurisprudência desta Corte Superior, incidindo no ponto a Súmula 83 do STJ.
+3. Rever o entendimento da Corte local no tocante à existência de coisa julgada em relação ao valor da dívida, demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido" (AgInt nos EDcl no AREsp 1.689.170/SE, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 10/05/2021, DJe 13/05/2021).
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
