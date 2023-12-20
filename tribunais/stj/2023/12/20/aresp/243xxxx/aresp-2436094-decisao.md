@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo (e-STJ, fls. 458-462) contra a decisão de fls. 447-454, que inadmitiu o recurso especial interposto por NAMAN DOS SANTOS DIAS (e-STJ, fls. 412-433), com fundamento artigo 105, inciso III, alínea "a", da Constituição da República, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DA BAHIA (e-STJ, fls. 378-388 e 400-405).
+Sustenta a Defesa que prequestionou as questões e que a Súmula n. 83 do STJ não é aplicável à hipótese.
+Inicialmente, pretende a desclassificação do crime de roubo para a forma tentada, alegando que o bem não saiu da esfera de disponibilidade da vítima e que o agravante não teve a posse mansa e pacífica.
+Ainda, requer a diminuição da pena pela embriaguez completa do acusado.
+Instado, o recorrido apresentou contrarrazões (e-STJ, fls. 439-446).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 447-454), ao que se seguiu a interposição de agravo (e-STJ, fls. 458-462).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 492-498).
+É o relatório.
+Decido.
+Conforme se observa, as teses de ofensa ao disposto nos arts. 14, II e 28, §2º, ambos do Código Penal não foram apreciadas pela Corte de origem.
+Como se sabe, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+A propósito, não é outro o teor do enunciado 282 da Súmula do STF "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, o enunciado 356 da Súmula do STF.
+Ademais, mesmo as matérias de ordem pública devem ser previamente submetidas às instâncias ordinárias para serem enfrentadas na via especial.
+Logo, inviável o enfrentamento dos temas por esta Corte Superior, ante a ausência de prequestionamento, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO DOMICILIAR E INVASÃO DE DOMICÍLIO. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA A ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. Em que pesem os argumentos apresentados pelo agravante, a decisão ser mantida por seus próprios fundamentos. 2. As questões relativas à prisão domiciliar e à nulidade decorrente da suposta violação de domicílio, não foram enfrentada pelo TJ/RS, de sorte que esta Corte Superior está impedida de pronunciar-se sobre referidos temas, sob pena de atuar em indevida supressão de instância.  ..  7. Agravo regimental desprovido." (AgRg no RHC n. 171.409/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO E MINORANTE DO TRÁFICO PRIVILEGIADO. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. 1. As teses deduzidas nas razões do habeas corpus - nulidade das provas obtidas com violação de domicílio e necessidade de reconhecimento do tráfico privilegiado - não foram objeto de análise pelo Tribunal de origem e sequer suscitadas no recurso de apelação, configurando supressão de instância. Além disso, não se verifica qualquer ilegalidade na fundamentação empregada pelo juízo sentenciante para afastar a minorante do tráfico, pois indicados elementos concretos dos autos aptos a evidenciar a dedicação à atividade criminosa. 2. Agravo regimental improvido." (AgRg no HC n. 756.677/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
