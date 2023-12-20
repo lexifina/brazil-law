@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL C/C REPETIÇÃO DE INDÉBITO. CONTRATO DE CRÉDITO PESSOAL. TAXA DE JUROS REMUNERATÓRIO ESTIPULADA NO CONTRATO QUE EXTRAPOLA O LIMITE DO RAZOÁVEL E M CONSIDERAÇÃO A MÉDIA DE MERCADO FIXADO PELO BANCO CENTRAL PARA O MESMO PERÍODO. PRESENTE A ABUSIVIDADE NAS COBRANÇAS REALIZADAS PELA INSTITUIÇÃO FINANCEIRA DE ENCARGOS (JUROS REMUNERATÓRIOS) JUSTIFICADA ESTÁ A DESCARACTERIZAÇÃO DA MORA DA DEVEDORA, NOS TERMOS DA ORIENTAÇÃO 2 DO EXPLANA NO RESP. N. 1.061.530/RS. CABÍVEL REPETIÇÃO DE INDÉBITO, DIANTE DO RECALCULO DOS JUROS, NA FORMA SIMPLES. DECISÃO QUE REAJUSTOU A TAXA DE JUROS DE ACORDO COM A MÉDIA DO BACEN UTILIZANDO O INDEXADOR SERIAL N. 25465. CONTRATO DESTINADO A COMPOSIÇÃO DE DÍVIDAS, SENDO INVIÁVEL A APLICAÇÃO DO INDEXADOR SERIAL PARA OS CONTRATOS DE EMPRÉSTIMO PESSOAL NÃO CONSIGNADO (N. 25464). ALTERADA A FORMA DE FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS PARA PERCENTUAL (10% SOBRE O VALOR D ACAUSA), COM FULCRO NO ARTIGO 85, §§ 2º E 8º DO CPC E TESE 1076 DO STJ.
+RECURSO DA PARTE RÉ DESPROVIDO
+RECURSO DO AUTOR PROVIDO" (fl. 292 e-STJ)
+Opostos embargos de declaração, foram rejeitados.
+Na razões do recurso especial, a parte aponta violação ao art. 1.022 do Código de Processo Civil, sustentando a ocorrência de omissão no julgado, tendo em vista que, apesar de instada a se manifestar, a Corte local nem "sequer considerou a metodologia adotada pelo próprio Bacen para identificação da modalidade de crédito aplicável aos contratos de renegociação".
+Complementa que:
+"Frise-se, a teor dos precedentes repetitivos que orientam a matéria, eventual abusividade dos juros remuneratórios deve ser aferida mediante o comparativo entre o percentual contratado e a taxa média de mercado, divulgada pelo Banco Central para o mesmo período e modalidade creditícia sub judice. E, no caso dos aditamentos para parcelamento, a definição da modalidade utilizada como parâmetro de cotejo depende da circunstância de as operações originárias serem da mesma modalidade ou não-conforme orientações do próprio Bacen, suscitadas em apelação e em aclaratórios.
+Sublinha-se, o acórdão recorrido e o acórdão dos embargos apenas consignam o entendimento da próprio Câmara quanto à modalidade aplicável, sem considerar as orientações do Bacen quanto a qual seria o parâmetro aplicável a renegociações que aditam uma só operação de origem, como no caso dos autos. Assim, o Tribunal local não se manifesta sobre o impacto da circunstância de tratar-se de renegociação de uma só operação na definição da modalidade utilizada como parâmetro"
+Contrarrazões às fls. 361/375 e-STJ.
+Assim posta a questão, passo a decidir.
+Quanto à preliminar de negativa de prestação jurisdicional, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa violação à sua norma de regência.
+O Tribunal de origem, sobre o ponto supostamente omisso, manifestou-se da seguinte forma:
+"Não comporta acolhimento a tese de aplicação da taxa de juros para empréstimo não consignado com recursos livres, pois em se tratando de renegociação de dívida, cabível a incidência dos índices estipulados para composição de dívidas, séries 20743 e 25465" (fl. 297 e-STJ)
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
