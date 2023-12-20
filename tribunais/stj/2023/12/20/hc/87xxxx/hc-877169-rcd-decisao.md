@@ -1,0 +1,42 @@
+DECISÃO
+LUÍS OTAVIO MENDES ELIAS ajuíza pedido de reconsideração contra a decisão de fls. 109-110, em que indeferi liminarmente o writ, por deficiência de instrução.
+Juntados os documentos, passo à análise do pedido.
+A defesa pretende a soltura do paciente - preso preventivamente pelo crime de tráfico de drogas -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+ ..
+1. DA PRISÃO PREVENTIVA
+1.1. DOS INVESTIGADOS AMANDA MANOEL, BRUNO DANILO MENDES, CAUAN ROSA SIQUEIRA, JILSON CARBONI MIRANDA JÚNIOR, LUIS OTÁVIO MENDES ELIAS, MARCOS MANOEL JÚNIOR E RYAN SÉRGIO DE SOUZA.
+A prisão preventiva é medida cautelar pessoal excepcional, que é admitida nos casos previstos taxativamente no art. 313 do CPP (requisito normativo), e tem como requisitos fáticos o fumus comissi delicti (materialidade e autoria) e o periculum libertatis (que são, em síntese, as hipóteses do art. 312 do CPP).
+ ..
+o. Conversa entre GABRIEL e LUIS OTÁVIO:
+As conversas mantidas por GABRIEL e LUIS OTÁVIO versam sobre os "corres" que ambos realizam na cidade de Lauro Müller. Em uma oportunidade, Gabriel convida Luis a comprar 15 gramas de droga pelo valor de RS600,00 para comercializarem. Por diversas vezes. GABRIEL faz menção de adquirir drogas com MARCOS MANOEL JUNIOR:
+ ..
+2 - CONCLUSÕES E SUGESTÕES
+Finalizada a análise de todos os relatórios elaborados envolvendo os integrantes da organização criminosa, faz se um resumo das principais informações angariadas pela equipe de investigação:
+ ..
+VII. Já por meio do aplicativo WhatsApp, foi possível recuperar conversas de GABRIEL com os investigados AMANDA MANOEL (discussão sobre os corres feitos por Gabriel, sobre a "divida" de JILSON CARBON1 com o adolescente, e compartilhamento de contatos de usuários que desejavam comprar entorpecentes), JILSON CARBONI MIRANDA JUNIOR (JILSON convida GABRIEL a comparecer no apartamento de Amanda Manoel), RYAN SÉRGIO DE SOUZA (comentários sobre como estão a venda de drogas, sobre GABRIEL ter vendido drogas em favor de LUIS OTÁVIO, e sobre o horário que teria maior fluxo de clientes), LUIS OTÁVIO MENDES ELIAS (ambos adquirem drogas de MARCOS MANOEL JÚNIOR para revenda em estabelecimentos destinados a festas, como a Empório, em Orleans, SC), BRUNO DANILO MENDES (comentários sobre pontos de venda de drogas, compartilhamento de contatos de usuários para a venda de entorpecentes), MARCOS MANOEL JÚNIOR (MARCOS providenciava o fornecimento de entorpecentes e de clientes a GABRIEL, afirmando inclusive que "Tõ lançando tudo os correzinho pra vocês. Eu não tê) nem fazendo mais esses corre de 50, 100 aí");
+ ..
+X. Quando estava sem drogas para comercializar. GABRIEL indicou aos usuários os contatos de BRUNO DANILO MENDES, RYAN SÉRGIO, e LUIS OTÁVIO MENDES ELIAS, bem como indicou contatos de usuários a AMANDA MANOEL.
+ ..
+Especificamente no que tange aos investigados Bruno Danilo Mendes e Luis Otávio Mendes Elias, há, ainda, o depoimento prestado por Ryan Sérgio de Souza (evento 1, VÍDE03), em que eles é categórico ao afirmar que aqueles fizeram o "corre" em sua residência por mais de um mês, mesmo sob o olhar atento de vizinhos.
+Salienta-se, por fim, que embora não tenham sido apreendidas substâncias entorpecentes até o momento, isso não afasta a prova da materialidade do delito. Afinal, cediço que "a ausência de apreensão de drogas na posse direta do agente não afasta, de forma automática, a materialidade do crime previsto no art. 33, caput, da Lei n. 11.343/2006, especialmente quando existirem outros elementos de prova aptos a atestar a prática delitiva." (STJ, AgRg no HC n. 746.119/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022). De mais a mais, conforme se verá adiante, concomitantemente ao cumprimento das prisões preventivas, serão expedidos mandados de busca e apreensão em que, eventualmente, poderão ser localizadas as substâncias ilícitas reiteradamente mencionadas pelos investigados nas conversas colacionadas.
+Logo, embora se esteja em uma fase sumária de cognição, tem-se como evidenciada, prima facie, a existência do fumus comissi delicti.
+No que concerne ao periculum libertatis, por sua vez, a prisão dos autuados mostra-se necessária como forma de garantir a ordem pública (art. 312 do CPP).
+Embora se trate de expressão que gera controvérsia na doutrina e jurisprudência, atualmente há certo consenso de que se justifica a prisão preventiva para garantir a ordem pública nos casos de risco de reiteração delitiva e de gravidade em concreto do delito e/ou modus operandi que evidenciem a periculosidade do agente, conforme jurisprudência do STJ.
+Na hipótese, há gravidade em concreto dos crimes praticados, já que as conversas revelam um suposto comércio intenso de pelo menos dois tipos de substâncias entorpecentes ("maconha" e "cocaína"), inclusive de forma associada entre os investigados.
+Anota-se, por ser oportuno, que a gravidade concreta da conduta não só pode como deve ser utilizada para fins de justificação da segregação cautelar. Aliás, a jurisprudência é pacífica quanto a tal possibilidade; o que ela considera constrangimento ilegal, é bom consignar, é fundamentá-la com base na gravidade abstrata do delito, o que não se revela ser o caso dos autos.
+Ademais, há nítido risco de reiteração delitiva na medida em que as conversas revelam que a mercancia vem sendo realizada pelos investigados, em tese, há vários meses (desde maio do corrente ano, pelo menos), sendo que as provas angariadas até então dão conta que os investigados fazem do narcotráfico seu meio de vida, não se tratando, aqui, de um fato isolado (longe disso).
+Alguns dos acusados, ainda, são reincidentes, enquanto outros possuem processos em andamento, o que reforça a necessidade de garantia da ordem pública para se evitar a prática de novos crimes nessa localidade.
+ ..  (fls. 115-168)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que "há gravidade em concreto dos crimes praticados, já que as conversas revelam um suposto comércio intenso de pelo menos dois tipos de substâncias entorpecentes ("maconha" e "cocaína"), inclusive de forma associada entre os investigados", bem como o fato de " haver  nítido risco de reiteração delitiva na medida em que as conversas revelam que a mercancia vem sendo realizada pelos investigados, em tese, há vários meses.
+O STJ e o STF, em casos similares, entendem que a participação de agente em organização criminosa sofisticada - a revelar a habitualidade delitiva - pode justificar idoneamente a prisão preventiva. Confiram-se:
+ ..  Apresentada fundamentação concreta para a decretação da prisão preventiva, consubstanciada no fato de a paciente integrar organização criminosa, com atuação de liderança no grupo criminoso , não há que se falar em ilegalidade do decreto de prisão preventiva.  ..  (HC n. 345.358/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 18/4/2016)
+ ..  A custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa.  ..  (RHC n. 122.182/SP, Rel. Ministro Luiz Fux, 1ª T., DJe 15/9/2014).
+ ..  A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva.  ..  (HC n. 95.024, Rel. Ministra Cármen Lúcia, 1ª T., DJe 20/2/2009)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, reconsidero a decisão de fls. 109-110 e denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
