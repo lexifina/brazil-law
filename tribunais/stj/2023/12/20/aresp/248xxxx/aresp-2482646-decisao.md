@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ASSOCIACAO EDUCADORA SAO CARLOS - AESC contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÕES. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. ERRO MÉDICO. FALHA NA PRESTAÇÃO DOS SERVIÇOS MÉDICOSPELO SISTEMA ÚNICO DE SAÚDE E, TAMBÉM, ATRAVÉS DE PLANODE SAÚDE. RESPONSABILIDADE DOS HOSPITAIS. ALEGAÇÃOD E NEGLIGÊNCIA E IMPERÍCIA NOS ATENDIMENTOS EPROCEDIMENTOS REALIZADOS APÓS QUADRO DE ISQUEMIA. CONJUNTO PROBATÓRIO QUE REVELA A CULPA MÉDICA APENASNOS ATENDIMENTOS NO PRIMEIRO HOSPITAL. CORREÇÃO DOSPROCEDIMENTOS ADOTADOS NO SEGUNDO. DANO MORAL EVIDENCIADO. QUANTUM INDENIZATÓRIO MANTIDO. JULGAMENTO DE PARCIAL PROCEDÊNCIA MANTIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 884 e 944 do CC, no que concerne à desproporcionalidade do valor fixado a título de danos morais, razão pela qual deve ser reduzido para evitar o enriquecimento sem causa da parte recorrida, trazendo a seguinte argumentação:
+Como se verifica dos autos, a sentença foi mantida para condenar a RECORRENTE ao pagamento do valor de R$ 30.000,00 (trinta mil reais a título de danos morais
+ ..
+Veja-se que, no caso dos autos, todos os critérios apontam que o dano moral, se existente, jamais poderia ser quantificado de forma desproporcional determinada. Nesse sentido, verifica-se que a aplicação dos danos morais não pode exceder ao mínimo razoável, sob pena de configura-se locupletamento indevido, na medida em que, para o RECORRIDO, o valor pleiteado pode representar uma pequena fortuna.
+ ..
+Contudo, ao ser arbitrado o valor indicado a título de indenização por danos morais, restam expressamente violados os artigos 884 e 944 do Código Civil, ante o evidente enriquecimento sem causa das RECORRIDAS às custas da RECORRENTE.
+ ..
+Com efeito, a fixação de montante correspondente à indenização por eventual dano, não pode ser lançada de forma aleatória, mas deverá ser calcada em justos fatores. Sem atentar para as questões já amplamente debatidas, data maxima venia, releva apontar para a falta de critérios no arbitramento da quantia em comento, a qual merece impugnação com fundamento no art. 944 do Código Civil, que limita a indenização à extensão do dano (fls. 757/759).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Para o arbitramento do valor a ser fixado a título de indenização por dano moral, deve- se levar em conta que a indenização há de ser proporcional ao dano sofrido e suficiente para repará- lo, conforme a sua extensão.
+ ..
+Assim, sopesando a situação concreta, a repercussão social do dano, o sofrimento causado e as circunstâncias fáticas do evento gerador, tenho que o valor fixado em sentença - R$ 30.000,00 (trinta mil reais) -, deve ser mantido, porquanto suficiente e razoável para indenizar o dano moral evidenciado, não importando, por outro lado, enriquecimento sem causa da vítima (fls. 735/736).
+Assim, incide o ó bice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
