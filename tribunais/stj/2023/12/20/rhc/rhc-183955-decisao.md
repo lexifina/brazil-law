@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ITALO QUIM BRONZOLIO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no HC n. 2094324-45.2023.8.26.0000.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, pela prática do delito tipificado no art. 28 da Lei n. 11.343/06. Em apelação do Ministério Público, o Tribunal a quo classificou a conduta como tráfico de drogas (art. 33), fixando as penas de 5 anos de reclusão, no regime inicial fechado, mais 500 dias-multa.
+Inconformada, a defesa impetrou o writ originário, sustentando a tese de que não havia fundadas razões para a abordagem e busca pessoal pelos policiais. O mandamus, porém, não foi conhecido:
+" ..  Por v. acórdão de 30 de maio de 2022, por votação unânime, este Tribunal de Justiça deu provimento ao recurso ministerial, para condenar o paciente Ítalo Quim Bronzolio à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500(quinhentos) dias-multa, calculados no mínimo legal, como incurso no artigo 33,"caput", da Lei nº 11.343/06.
+Ocorre que, já tendo sido prolatado acórdão por este Tribunal de Justiça, apreciando a matéria objeto do presente "writ" ,torna-se incompetente para julgá-lo.  .. " (fl. 669)
+Alega-se que, "no caso, os policiais receberam uma denúncia anônima segundo a qual o Recorrente IRIA comercializar drogas - lembrando que o suposto comprado, nunca foi ouvido em juízo, talvez medo da mentira ser descoberta -, em via pública, razão por que o abordaram e encontraram a referida droga. Não houve referência a prévia investigação, monitoramento ou campanas no local, a afastar a hipótese de que se tratava de averiguação de informações robustas e atuais acerca da existência de drogas naquele lugar. Da mesma forma, não se fez menção a nenhuma atitude suspeita, externalizada em atos concretos, tampouco movimentação de pessoas típica de comercialização de drogas. A denúncia anônima, aliás, que depois demonstrou-se ser anônima, seria de um usuário, que nunca foi localizado pela polícia para ser ouvido em juízo e saber tudo que está nos autos foi verdade. Não há como negar, que os Policiais buscando sucesso na mídia, foram ao local, abordaram o Recorrente a esmo, por conhecidencia tinha droga para uso próprio, sem presença de qualquer usuário comprando. Na situação exposta, não houve previa autorização judicial, não houve justa causa, simplesmente fizeram a busca pessoal, logicamente com a presença da mídia, lembrando que o Ilmo. Delegado da operação, hoje é Prefeito de Lins, não requereu previamente nenhuma autorização judicial " (fls. 672/673).
+Requer, em liminar e no mérito, "a NULIDADE ABSOLUTA da busca e apreensão realizada, por não haver ordem judicial ou justa causa".
+É o relatório.
+Decido.
+V erifico que a matéria objeto do presente recurso não foi apreciada pelo acórdão recorrido. Assim, a sua análise, diretamente por esta Corte, acarreta indevida supressão de instância.
+Ante o exposto, não conheço do recurso, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
