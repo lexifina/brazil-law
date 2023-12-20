@@ -1,0 +1,38 @@
+DECISÃO
+EVERSON OLIVEIRA DAMASCENO MACIEL agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação n. 0005498-10.2020.8.07.0001.
+Depreende-se dos autos que o réu foi condenado a 6 anos de reclusão, em regime fechado, mais 72 dias-multa, pela prática do crime previsto no art. 180, caput, do CP, por duas vezes.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de reduzir a pena para 4 anos de reclusão mais 40 dias-multa.
+Nas razões do especial, alegou a defesa a violação do art. 59 do CP, ao argumento de que a pena-base foi exasperada em patamar mais gravoso que 1/6, com fundamento apenas na valoração negativa dos antecedentes, o que afronta o princípio da proporcionalidade. Sustentou afronta aos arts. 61, I, e 65, III, do CP, uma vez que, apesar de atendidos os respectivos requisitos, não foi configurada a confissão, que deve ser compensada com a dupla reincidência.
+Requereu fosse reduzida a pena-base e compensada a confissão com a dupla reincidência.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+Em que pes em os argumentos da defesa, observo que o Tribunal de origem não apreciou, nem sequer implicitamente, a possibilidade de aplicação da atenuante relativa à confissão.
+Ademais, a defesa, quando intimada do julgamento da apelação, não opôs embargos declaratórios para provocar a manifestação do órgão colegiado sobre o ponto. Interpôs, diretamente, o recurso que ora se analisa.
+Assim, constato a ausência de prequestionamento da matéria, a atrair a incidência das Súmulas n. 282 e 356 do STF, o que impede o conhecimento do recurso especial.
+O acórdão recorrido asseriu o seguinte:
+A d. Magistrada fixou a mesma pena para os dois delitos, motivo pelo qual será analisada uma única vez, para evitar repetições desnecessárias. Na primeira fase, considerando os maus antecedentes, a pena-base foi fixada acima do mínimo legal, 1 (um) ano e 6 (seis) meses reclusão.
+ ..
+As duas últimas condenações (itens "c" e d") são aptas para macular os antecedentes penais, visto que os fatos são anteriores e o trânsito em julgado ocorreu no curso deste feito.
+ ..
+A jurisprudência tem mantido a pena fixada com a devida motivação, estabelecendo como quantum norteador a fração de 1/8 (um oitavo) sobre o intervalo entre os limites mínimo e máximo abstratamente cominados no tipo legal, para aumento da pena-base em razão da análise desfavorável de cada uma das circunstâncias judiciais do artigo 59 do Código Penal.
+O delito de receptação possui preceito secundário com penas mínima e máxima, respectivamente, de 1 (um) a 4 (quatro) anos de reclusão, de modo que o aumento por cada circunstância judicial pode ser da ordem de 4 (quatro) meses e 15 (quinze) dias de reclusão, consoante iterativa jurisprudência.
+No caso, será mantida a pena-base fixada em 1 (um) ano e 6 (seis) meses de reclusão, considerando que os antecedentes estão configurados por duas condenações transitadas em julgado, o que justifica aplicação de patamar ligeiramente superior ao indicado pela jurisprudência.
+Na segunda fase, ausente atenuante e presente a agravante da reincidência, a pena foi majorada em 1 (um) ano e 6 (seis) meses de reclusão.
+ ..
+No caso, considerando que são dois os registros configuradores de reicidência, a sanção pode ser agravada em 1/3 (um terço), fração que aplico para estabelecer pena provisória em 2 (dois) anos de reclusão.
+(fls. 274-276, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+A jurisprudência do STJ reconhece ser "possível a majoração da pena-base em patamar acima do mínimo legal, quando as circunstâncias do crime ultrapassam o tipo penal, e o aumento respectivo se baseia em elementos concretos, devidamente expostos no decreto condenatório (maus antecedentes, ameaças de morte dirigidas contra as vítimas, violência física e psicológica)" (HC n. 385.335/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 2/5/2017).
+Na espécie, a pena-base foi exasperada em 1/2 mediante remissão a duas condenações definitivas, utilizadas para caracterizar maus antecedentes.
+Realmente, a instância antecedente baseou o aumento da reprimenda em elementos concretos dos autos, que extrapolam a previsão normativa típica do delito, a demandar punição mais expressiva que a mínima prevista, com a finalidade de atender o princípio da individualização da pena.
+No entanto, "A existência de duas condenações anteriores justifica a fixação da pena-base em 1/3 acima do mínimo legal para a circunstância judicial dos antecedentes" (AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 17/12/2021, grifei).
+Relativamente à segunda fase, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a reprimenda, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade, desde que apresente motivação idônea para impor aumento mais gravoso que 1/6.
+Com efeito, esta Corte Superior considera que "não há ilegalidade na elevação da pena em 1/3 - na segunda fase da dosimetria - quando motivada na multirreincidência do réu, que registra duas condenações definitivas" (AgRg no REsp n. 2.083.094/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe de 5/10/2023), razão por que não há reformas a fazer nesse ponto.
+Feitas essas observações, passo à nova dosimetria.
+Mantidos os maus antecedentes (duas condenações definitivas), ajusto a fração de acréscimo na primeira fase para 1/3, o que resulta pena-base de 1 ano e 4 meses mais 13 dias-multa para cada um dos dois crimes de receptação. Na segunda fase, reitero o aumento também em 1/3, decorrente da dupla reincidência, a totalizar reprimenda intermediária de 1 ano, 9 meses e 10 dias de reclusão mais 17 dias, que coincide com a final, à míngua de majorantes e minorantes.
+Por fim, preservo a configuração do concurso formal, tal como disposta no acórdão atacado, de maneira a somar as duas penas, com o que chego a 3 anos, 6 meses e 20 dias de reclusão mais 34 dias-multa.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe provimento, com a finalidade de diminuir a sanção para 3 anos, 6 meses e 20 dias de reclusão mais 34 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
+EMENTA
