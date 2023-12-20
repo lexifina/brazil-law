@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7, 83 e 211 do STJ e 282 do STF (e-STJ fls. 528/530).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 442):
+DIREITO CIVIL. APELAÇÃO CÍVEL. PLANO DE SAÚDE. ATENDIMENTO DE URGÊNCIA. ESCUSA DE CARÊNCIA. NÃO APLICAÇÃO. PRECEDENTE STJ. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+- O Superior Tribunal de Justiça consolidou jurisprudência no sentido de ser abusiva a negativa, pelo plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando injusta recusa de cobertura que enseja compensação por danos morais;
+-Apelação cível conhecida e desprovida.
+No recurso especial (e-STJ fls. 451/471), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou violação dos seguintes dispositivos legais: arts. 14, § 3º, 51, IV, e 54, § 3º do CDC, 12, V, "b", VI, 16, VI, 10, § 4º, e 35-C, parágrafo único, da Lei n. 9.656/1998, 3º da Lei n. 9.961/2000, 373, I, do CPC, 186, 187, 188, 407, 944 e 927 do CC/2002, 42, parágrafo único do CDC.
+Insurgiu-se contra a conclusão da Corte local de que "para casos urgentes, não há de se falar em carência ou violação aos arts. 12, V, e 16 da Lei Federal n. 9.656/98" (e-STJ fl. 444).
+Em suas razões recursais, sustentou que:
+(i) "exigir o cumprimento da carência jamais pode ser entendido como um ato ilícito, pois os prazos carenciais são uma GARANTIA LEGAL do setor de saúde suplementar (e-STJ fl. 454 - grifo no recurso);
+(ii) "a Operadora Recorrente não negou atendimento de urgência ou emergência, isto é, não se recusou a receber a paciente para realizar todo o atendimento inicial, com exames e procedimentos necessários para estabilizar seu quadro clínico, definir um diagnóstico e tratamento necessário, tendo, unicamente, diante da carência existente, destacado a necessidade de transferência para a rede pública, após o período ambulatorial de atendimento" (e-STJ fl. 455 - grifo no recurso);
+(iii) "a previsão contratual é clara e não pode ser relativizada ou ignorada com base nos ditames do CDC" (e-STJ fl. 457);
+(iv) "o plano hospitalar  sob carência  deverá conceder o tratamento de emergência (aquele que implica risco de vida e depende de declaração do médico assistente) limitado às 12 (doze) primeiras horas de internação, após as quais o paciente deverá arcar com os custos da internação ou ser removido para o SUS" (e-STJ fl. 460 - grifos no recurso);
+(v) "não há nos autos qualquer comprovação de perda ou dano decorrente de qualquer ato ou omissão da Recorrente apto a ensejar qualquer tipo de indenização, contudo, ainda que mantida esta, é certo que jamais poderia ter sido arbitrada em EXOBIRTANTE VALOR, como no presente caso" (e -STJ fl. 467 - sic - grifo no recurso).
+No agravo (e-STJ fls. 535/544), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 578/590 (e-STJ).
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, notadamente a dialeticidade recursal, conheço do agravo.
+A controvérsia tem origem na recusa de internação de paciente com quadro clínico de "dissecção do segmento distal da aorta abdominal" (e-STJ fl. 57), sob o argumento de carência contratual.
+De início, constata-se que a recorrente não explicitou o motivo pelo qual teria havido ofensa aos arts. 407 do CC/2002 e 42, parágrafo único, do CDC, de modo que a fundamentação recursal revela-se deficiente, no ponto, atraindo a incidência da Súmula 284/STF.
+Ultrapassado esse ponto, o Tribunal de origem manteve a condenação à cobertura sob o fundamento de que "o STJ já possui entendimento no sentido de que, para casos urgentes, não há de se falar em carência ou violação aos arts. 12, V e 16 da Lei Federal n. 9.656/98" (e-STJ fl. 444).
+O acórdão recorrido está em sintonia com o entendimento sumulado desta Corte Superior, no sentido da abusividade da cláusula contratual que impõe carência superior a 24 horas para utilização de serviços de assistência médica em caso de urgência e emergência.
+Confira-se o teor da Súmula n. 597/STJ:
+A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação.
+No mais, a jurisprudência desta Corte Superior se firmou no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. Contudo, há configuração de danos morais indenizáveis nas hipóteses de injusta recusa de cobertura dos serviços de assistência médica, nas situações de urgência ou emergência, com base na cláusula de carência com prazo superior a 24 horas, como no caso dos autos. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CASO DE URGÊNCIA/EMERGÊNCIA. RECUSA. NÃO CUMPRIMENTO DO PRAZO DE CARÊNCIA PARA ATENDIMENTO EMERGENCIAL. 24 HORAS. LIMITAÇÃO DA INTERNAÇÃO POR 12 HORAS. CARÁTER ABUSIVO. SÚMULAS N. 302 E 597 DO STJ. NEGATIVA INDEVIDA. OBRIGATORIEDADE DE ATENDIMENTO. DANO MORAL. CONFIGURAÇÃO. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. REVISÃO. NÃO CABIMENTO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. ASTREINTES. IMPOSIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VALOR. RAZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. ARTS. 412 E 413 DO CC. MERA INDICA ÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não é abusiva a cláusula contratual que prevê prazo de carência para os serviços prestados pelo plano de saúde. No entanto, configura abusividade a negativa de fornecimento de assistência médica em casos de urgência ou emergência durante o período de carência, sendo injusta a recusa da operadora.
+2. É abusiva a cláusula contratual que, em casos de urgência ou emergência, limita o período de internação ao período de 12 horas ou prevê carência para utilização dos serviços de assistência médica após ultrapassado o prazo máximo de 24 horas da contratação, conforme disposto nas Súmulas n. 302 e 597 do STJ.
+3. Havendo, em razão do período de carência estipulado no contrato, a indevida recusa de atendimento pela operadora do plano de saúde em caso de urgência ou emergência, é cabível a indenização por danos morais.
+4. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo cabimento da multa cominatória por ausência de demonstração do cumprimento integral de obrigação, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+5. A questão relativa à redução/aumento das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+6. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.858.967/CE, relator Ministro João Otávio de Noronha, Q uarta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Além do mais, modificar o entendimento do acórdão impugnado quanto às circunstâncias que caracterizaram a situação de emergência, no caso concreto, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+No que concerne ao valor da indenização, conforme entendimento pacífico do STJ, a modificação da quantia arbitrada é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+Na espécie, o valor estabelecido pela Corte de origem - R$ 5.000,00 (cinco mil reais) - , não se mostra exorbitante, a ensejar a intervenção do STJ.
+Desse modo, também nesse ponto incide a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
