@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LUAN MILLER SOARES TEOTONIO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o recorrente foi preso em flagrante, dia 26/09/2021, pela suposta prática do crime de homicídio na modalidade tentada - o recorrente juntamente com corréu teria empreendido fuga, colidido com a viatura policial e supostamente efetuado disparos contra 02 (dois) policiais militares, não se consumando por erro de execução- fl. 181.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão do paciente em razão da gravidade da conduta e grau de reprovabilidade da ação e denegou a ordem, em acórdão de fls. 243-258.
+A Defesa aponta a ocorrência de constrangimento ilegal salientando que a versão dos policiais não condiz com a realidade que ocorreu no local, seja pela quantidade de disparos, seja pela forma como se deu a colisão, não podendo ser acolhida a versão dos policiais.
+Aduz que deve haver a desqualificação do delito para a tentativa branca, devendo ser analisadas a possibilidade de fixação de medidas diversas da prisão em favor do recorrente.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Sem pedido de liminar.
+O Ministério Público Federal manifestou-se em parecer de fls. 314-322, que restou assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TENTATIVA. QUESTÕES DE FATO. REEXAME. TESE SUBSIDIÁRIA. SUPRESSÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO ADEQUADA. MEDIDAS CAUTELARES DIVERSAS. INVIABILIDADE. DESPROVIMENTO.
+Parecer pelo desprovimento do recurso ordinário em habeas corpus"- fl. 314.
+É o relatório. DECIDO.
+Primeiramente, quanto a alegação de que a versão dos policiais não condiz com a realidade que ocorreu no local, seja pela quantidade de disparos, seja pela forma como se deu a colisão, não podendo ser acolhida a versão dos policiais bem como o pedido de desqualificação do delito para a tentativa branca, tais matérias demandariam revolvimento fático-probatório, o que é ínviável na via estreita do habeas corpus.
+A propósito:
+"As teses relacionadas à desclassificação da conduta delitiva e ausência de provas para a condenação não prescindem do revolvimento do conjunto fático-probatório dos autos." (AgRg no AREsp n. 2.404.501/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2023.)
+Nesse mesmo sentido: (AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/11/2023); (AgRg no HC n. 791.600/PE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/9/2023); (AgRg no RHC n. 181.083/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+No caso dos autos, embora o juízo de primeiro grau tenha fundamentado a conversão da prisão em flagrante do recorrente em preventiva na periculosidade do agente, os autos não apontam nenhuma ocorrência anterior aos fatos apurados na ação penal originária, tratando-se de recorrente primário. Logo, a imposição de medidas cautelares alternativas à prisão preventiva são as mais indicadas ao caso ora em análise.
+Vislumbro, assim, a ocorrência de flagrante ilegalidade, uma vez que os fundamentos que dão suporte à prisão cautelar do recorrente não se ajustam à orientação jurisprudencial desta Corte, haja vista que a simples invocação da gravidade genérica do delito não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública.
+Neste aspecto, é firme a jurisprudência do STJ no sentido de que a custódia prisional:
+"a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do CPP, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade." (AgRg no HC n. 803.633/SP, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 28/3/2023, grifei)
+Diante disso, considerando as peculiaridades do caso, entendo possível o resguardo da ordem pública e a garantia da aplicação da lei penal por medidas cautelares diversas, previstas no art. 319 do CPP. Nesse sentido, por exemplo, a jurisprudência do STJ: HC n. 663.365/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/8/2021.
+Ante o exposto, dou provimento ao recurso ordinário para revogar a prisão preventiva decretada em desfavor do recorrente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, devendo ser impostas, a critério do juízo de primeiro grau, medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+Publique-se. Intime-se.
+ EMENTA
