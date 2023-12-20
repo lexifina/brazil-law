@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por JEAN CARLOS ZIMMERMANN LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO, EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TESE DE PRESCRIÇÃO REJEITADA. RECURSO DO EXECUTADO. AÇÃO DE EXECUÇÃO ANTERIORMENTE AJUIZADA, SENDO EXTINTA POR ABANDONO DA CAUSA. ARGUMENTAÇÃO DO AGRAVANTE NO SENTIDO DE QUE A SEGUNDA CITAÇÃO NÃO INTERROMPEU A PRESCRIÇÃO, COM BASE NO ART. 202, CAPUT, DO CÓDIGO CIVIL. INACOLHIMENTO DOS ARGUMENTOS DO AGRAVANTE. PRESCRIÇÃO RECONHECIDA POR RAZÕES DISTINTAS. TEMA Nº 869 DO STJ. CITAÇÃO EM PROCESSO EXTINTO POR ABANDONO DE CAUSA NÃO INTERROMPE A PRESCRIÇÃO. PRESCRIÇÃO OPERADA ANTERIORMENTE AO AJUIZAMENTO DA SEGUNDA EXECUÇÃO. APROVEITAMENTO EM FAVOR DA SEGUNDA EXECUTADA. DECISÃO REFORMADA PARA ACOLHER A EXCEÇÃO E EXTINGUIR A EXECUÇÃO. CONDENAÇÃO DO AGRAVADO, EM CONSEQUÊNCIA, NOS ÔNUS DA SUCUMBÊNCIA. HONORÁRIOS NO PATAMAR DE 10% DO PROVEITO ECONÔMICO OBTIDO. RECURSO CONHECIDO E PROVIDO" (e-STJ fl. 51).
+Os embargos de declaração opostos na origem foram rejeitados (e-STJ fls. 79/81).
+Nas razões do recurso especial (e-STJ fls. 92/106), o agravante aponta violação dos artigos 7º, 9º e 10 do Código de Processo Civil.
+Aduz que foi proferida decisão surpresa, visto que o aresto recorrido foi embasado em argumentos diversos do que foi devolvido pelo recurso e sobre os quais não lhe foi dada a oportunidade de se manifestar, o que não se admite por ferir o princípio do contraditório.
+Sustenta que a discussão trazida no recurso da parte recorrida versou a respeito de prescrição intercorrente, e o Tribunal de origem partiu do entendimento de a prescrição incidiria sobre o direito de ação, fundamento não utilizado pela parte agravada e sobre o qual não foi previamente intimado para se manifestar.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 113/117), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+A irresignação não merece prosperar.
+Trata-se na origem de agravo de instrumento interposto por Fernando Mendes Guasco contra a decisão do magistrado de primeiro grau de jurisdição que, nos autos da ação de execução de título extrajudicial, rejeitou a exceção de pré-executividade.
+O Tribunal local deu provimento ao recurso por entender que o caso em questão não está inserido na esfera da prescrição intercorrente, mas, sim, na prescrição da pretensão executiva, visto que a primeira execução intentada foi extinta por abandono de causa, de modo que não houve a interrupção do prazo prescricional com a citação válida.
+No julgamento dos declaratórios que se seguiu, o Tribunal estadual assim se manifestou em relação à alegação de decisão surpresa:
+"(..)
+Como bem apontado pelo embargado em suas contrarrazões (evento 26, CONTRAZ1), houve expressa suscitação das circunstâncias de fato que fundamentaram o acórdão embargado.
+Com efeito, este Tribunal reconheceu a prescrição com base no fato de que a ação judicial anterior, promovida pelo embargante em face do embargado, foi extinta por desídia daquele, o que afasta a interrupção do prazo prescricional
+(..)
+Também não procede a alegação de que a decisão agravada ultrapassou os respectivos limites objetivos porque o pedido recursal teria sido de reconhecimento da prescrição intercorrente. Ora, de uma simples leitura do recurso principal se extrai que ambas as modalidades de prescrição foram suscitadas:
+Assim, Excelências, está-se diante de flagrante caso de prescrição, tanto na modalidade direta quanto intercorrente, motivo pelo qual requer o reconhecimento de tal fenômeno jurídico, com a consequente extinção do feito, nos termos do art. 487, inc. II, c/c art. 924, inc. V, do CPC/2015.
+Ante o exposto, evidencia-se que a pretensão do cumprimento de sentença está prescrita, motivo pelo qual requer o seu respectivo reconhecimento, com a consequente extinção do feito, nos termos do art. 487, inc. II, do CPC. (p. 9)
+Ou seja, poderia o embargante ter se manifestado sobre tais questões suscitadas pelo embargado no agravo de instrumento. Independentemente da fragilidade argumentativa do recurso naquela específica matéria, fato é que o embargante teve chance de se manifestar a respeito e influir nas conclusões deste juízo, não havendo que se falar em decisão surpresa.
+Ademais, destaco que o limite de cognição a que o juiz está adstrito se refere à causa de pedir remota (fatos). Em relação à causa de pedir próxima (fundamentos jurídicos), eventual cognição ampliativa não ensejaria nulidade da decisão. Da doutrina, extrai-se:
+A causa de pedir que fundamenta a sentença pode ser diferente naquela narrada pelo autor, mas nunca ponderá ir além dela. E a correlação exigida nesse caso limita-se aos fatos jurídicos, porque na aplicação do fundamento jurídico devem ser adotados os brocardos iura novit curia (o juiz sabe o direito) e da mihi factum dabo tibi ius (dá-me os fatos que te dou o Direito).
+Assim, não verifico nulidade na decisão embargada por violação aos arts. 7, 9º e 10 do CPC, sendo imperativa a rejeição dos aclaratórios" (e-STJ fl. 81).
+Como se vê, o acórdão recorrido está em harmonia com a orientação desta Corte no sentido de que não há falar em decisão surpresa quando a solução adotada pelo órgão julgador está inserta no âmbito do desdobramento causal, possível e natural da controvérsia, obtida à luz do ordenamento jurídico vigente, até porque a lei deve ser de conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DECISÃO SURPRESA. NÃO OCORRÊNCIA. INAPLICABILIDADE DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DESISTÊNCIA DO CONTRATO PELO PROMITENTE-COMPRADOR. RESTITUIÇÃO DE PARCELAS PAGAS. RETENÇÃO. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Segundo o entendimento jurisprudencial desta Corte, "não há falar em decisão surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de oitiva delas, até porque a lei deve ser do conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação" (REsp n. 1.755.266/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2018, DJe 20/11/2018).
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Estando o acórdão recorrido em consonância com a jurisprudência do eg. STJ, o apelo nobre encontra óbice na Súmula n. 83/STJ, aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno improvido."
+(AgInt no AREsp n. 2.066.649/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023)
+Registre-se que, no caso dos autos, o aresto recorrido consignou que a prescrição direta foi invocada no agravo de instrumento interposto pelo recorrido.
+Incide, na espécie, a Súmula nº 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor do proveito econômico obtido com a extinção da execução, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
