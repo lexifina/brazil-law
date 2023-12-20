@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFERSON DORNELES DA SILVA contra decisão indeferitória de liminar, proferida por Desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Neste habeas corpus, alega o impetrante, em síntese, que a prisão preventiva do paciente seria teratológica, pois não haveria fundamentação concreta para a sua manutenção.
+Aduz, ainda, que "não se verifica qualquer prova contra o paciente, eis que o mesmo foi indicado, e supostamente teria pedido dinheiro para liberação de veículo, que também não existe tal prova nos autos, e apenas estes são os argumentos que pesam contra o Paciente, eis que o paciente Jeferson desconhece qualquer um dos indivíduos referidos na decisão retro e nunca realizou nenhuma transferência de veículo para qualquer um dos réus ou dos veículos referidos em todo o inquérito policial" (e-STJ, fls. 7-8).
+Requer a concessão da ordem, inclusive liminarmente, para que seja revogada a prisão preventiva.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT INDEFERIDO LIMINARMENTE. SÚMULA N. 691 DO STF. INCIDÊNCIA. REQUISITOS DA PREVENTIVA. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra o indeferimento de medida liminar impetrada na origem, salvo nos casos de flagrante ilegalidade ou de teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula n. 691 do STF).
+2. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3. Agravo regimental desprovido."
+(AgRg no HC 684.126/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU LIMINAR NO MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE E DE TERATOLOGIA.
+1. É incabível habeas corpus contra o indeferimento de pedido liminar em outro writ ajuizado em Tribunal de segunda instância, salvo no caso de flagrante ilegalidade ou de teratologia, o que, na espécie, não ocorreu.
+2. Na hipótese, o dito constrangimento ilegal não é perceptível, de plano, à vista dos fundamentos lançados pelo Juízo processante a fim de justificar a decretação da custódia, em especial a evasão do réu do distrito da culpa. Quanto ao dito excesso de prazo, ao que tudo indica, aplicável ao caso a Súmula 52/STJ.
+3. Sem o julgamento do mérito da impetração na origem, é inviável a pretendida supressão de instância.
+4. Agravo regimental improvido."
+(AgRg no HC 682.022/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/08/2021, DJe 20/08/2021)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontra assim motivada (e-STJ, fls. 54-57):
+"De acordo com os autos eletrônicos, após a representação policial pela prisão preventiva do paciente e de outros 15 indiciados, o magistrado de origem decretou a prisão preventiva do paciente, pelo suposto envolvimento do réu com a facção criminosa "OsManos". Reproduzo, por oportuno, a decisão atacada:
+" ..
+Durante a investigação policial, restou deferida judicialmente (74.1), conforme expediente n.º 5002600-07.2021.8.21.0035, a extração de dados dos aparelhos telefônicos apreendidos em favor de Giovanni (60.1), sendo possível apurar que os representados fazem parte de um grande grupo criminoso que atua no tráfico de entorpecentes, denominado "Os Manos", a maior facção criminosa do Estado.
+ ..
+Jeferson Dorneles Da Silva, alcunha "Zé", responsável pela aprovação de vistorias mediante corrupção, após apuração, pela autoridade policial, de conversas com pessoa não indentificada denominada "Vó" e pelo representado Luis Augusto (1.2, fls. 27/28);
+ ..
+Pois bem, do que se extrai das investigações policiais, a prova da materialidade e os indícios suficientes de autoria estão demonstrados pelos documentos e demais elementos de informação trazidos ao presente expediente. Com efeito, o fumus comissi delicti, ou seja, a justa causa atinente aos crimes noticiados, e o periculum libertatis, consistente no perigo gerado pelo estado de liberdade dos investigados, encontram-se presente nos autos, diante dos fortes indicativos de que os representados fazem parte de grande facção criminosa e, em conjunto, operam na prática do tráfico de entorpecentes na região. Portanto, entendo que a segregação cautelar se apresenta impositiva, como garantia da ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal, não sendo eficaz, adequada ou suficiente, por ora, a aplicação de medidas cautelares diversas da prisão. O deferimento da representação policial se faz necessário, não apenas a fim de que sejam esclarecidos os fatos ou para identificar outros eventuais indivíduos envolvidos no esquema de tráfico de entorpecentes, mas, principalmente, para evitar a continuação do sistema de comercialização de substâncias ilícitas na região metropolitana, especialmente em Sapucaia do Sul, conforme noticiado.
+ .. "
+Conforme se observa, o paciente, que é despachante, teria sido indicado por Vó, pessoa ainda não identificada, mas envolvida na organização criminosa, como responsável pela aprovação de vistorias mediante corrupção. Segundo consta, Vó teria mencionado que o paciente aprova qualquer coisa "até carro pegando fogo". A atuação do paciente no esquema de corrupção também foi mencionada por outro indiciado em conversas."
+Com efeito, "O STJ e o STF, em casos similares, entendem que a participação de agente em esquema criminoso sofisticado, cujo modus operandi indica a separação de tarefas, a revelar a habitualidade delitiva, pode justificar idoneamente a prisão preventiva" (AgRg no HC n. 859.811/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Ademais, "Constatada pelas instâncias ordinárias a existência de prova suficiente para instaurar a ação penal, reconhecer que os indícios de materialidade e autoria do crime são insuficientes para justificar a custódia cautelar implicaria afastar o substrato fático em que se ampara a acusação, o que, como é sabido, não é possível na via eleita." (AgRg no HC n. 781.393/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/12/2022, DJe de 2/2/2023).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
