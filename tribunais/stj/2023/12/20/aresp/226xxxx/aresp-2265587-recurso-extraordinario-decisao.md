@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo incólume a decisão monocrática que não conheceu do agravo em recurso especial ante a intempestividade.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente sustenta a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XL e LVII, e 93, IX, da Constituição Federal.
+Em suas razões, sustenta ter havido negativa de prestação jurisdicional por parte do acórdão recorrido, porquanto teria deixado de aplicar ao caso concreto as novas disposições da Lei de Improbidade Administrativa - LIA, introduzidas pela Lei n. 14.230/2021, que lhe seriam mais benéficas, em conformidade com as teses fixadas no julgamento do Tema n. 1.199 do STF.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos à Suprema Corte.
+É o que basta relatar.
+Preliminarmente, considerando tratar-se de recurso interposto nos autos de ação de improbidade administrativa, faz-se necessária a análise dos possíveis impactos sobre o presente caso da decisão vinculante exarada pelo Supremo Tribunal Federal no julgamento do Tema n. 1.199, sob o regime da repercussão geral.
+Na ocasião, foram firmadas as seguintes teses referentes à aplicação da Lei n. 14.230/2021 (destaques acrescidos):
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa - é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente;
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei.
+Como se observa, as teses fixadas no Tema n. 1.199 do STF veiculam a determinação de que o juízo competente proceda à análise da existência de eventual dolo do agente no cometimento da conduta apenas nas hipóteses em que a condenação, ainda não transitada em julgado, tenha ocorrido pela prática de atos ímprobos culposos ou sem a afirmação expressa do dolo.
+No caso dos autos, não se conheceu do agravo em recurso especial interposto pela parte ora insurgente ante a intempestividade, conclusão inalterada pelo julgamento do agravo interno subsequente.
+Desse modo, afigura-se evidente a ocorrência do trânsito em julgado da decisão proferida pelo Tribunal de origem que inadmitiu o recurso especial, presente às fls. 1.469-1.479.
+Nesse sentido, destaca-se o seguinte precedente (destaques acrescidos):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO CUMULADA COM COMPENSAÇÃO DE DANOS. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. JUROS DE MORA. TERMO INICIAL. RECURSO INTEMPESTIVO. TRÂNSITO EM JULGADO DA SENTENÇA.
+1. Recurso especial interposto em 12/03/2021 e concluso ao gabinete em 20/10/2021.
+2. O propósito recursal é dizer sobre a negativa de prestação jurisdicional e o termo inicial dos juros de mora incidentes sobre o valor arbitrado a título de honorários advocatícios sucumbenciais quando o recurso de apelação for declarado intempestivo.
+3. Não há que se falar em negativa de prestação jurisdicional quando o Tribunal de origem examina toda a matéria devolvida no recurso sob viés diverso daquele pretendido pela parte recorrente.
+4. Na hipótese em que os honorários de sucumbência são fixados em percentual sobre o valor da causa, tem prevalecido nesta Corte o entendimento segundo o qual os juros de mora incidem a partir da exigibilidade da obrigação, o que se verifica com o trânsito em julgado da sentença. Precedentes.
+5. "Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso" (art. 502 do CPC/2015). Dá-se, então, o trânsito em julgado quando não for mais cabível qualquer recurso contra a decisão ou quando se perde o prazo para impugná-la.
+6. No julgamento dos EREsp 1.352.730/AM, a Corte Especial do STJ firmou orientação de que o prazo para o ajuizamento da ação rescisória tem início com o trânsito em julgado da última decisão proferida no processo originário, ainda que seja uma decisão que negue seguimento a recurso intempestivo. Todavia, estabeleceu-se que, quando ficar constatada a manifesta e evidente intempestividade do recurso, indicando que seu manejo se deu apenas como mecanismo de procrastinação da lide originária, o prazo da rescisória há de ser contado da data em que precluiu o direito de recorrer.
+7. Nos termos da doutrina e da jurisprudência, o recurso intempestivo não obsta a formação da coisa julgada, de modo que a decisão que atesta a sua intempestividade não posterga o termo final do trânsito em julgado, que ocorre imediatamente no dia seguinte após expirado o prazo para interposição do recurso intempestivo.
+Desse modo, o termo inicial dos juros de mora incidentes sobre os honorários sucumbenciais é o dia seguinte ao transcurso do prazo recursal.
+8. Recurso especial conhecido e provido.
+(REsp n. 1.984.292/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/3/2022, DJe de 1º/4/2022.)
+Logo, considerando que a formação da coisa julgada na presente demanda ocorreu antes mesmo da publicação da Lei n. 14.230/2021, não há meios sequer para se cogitar de sua aplicação retroativa, consoante definido pela Corte Suprema no referido precedente qualificado.
+Dito de outro modo, a intempestividade do recurso anterior gerou o trânsito em julgado do feito em data que antecedeu a própria edição das novas disposições da Lei de Improbidade Administrativa, o que afasta a possibilidade de aplicação das conclusões alcançadas pelo STF no Tema n. 1.199.
+Portanto, as alterações promovidas na Lei de Improbidade Administrativa e o julgamento do Tema n. 1.199 do STF não impactam a solução dada à presente causa, especialmente nas estreitas balizas do juízo de viabilidade do recurso extraordinário, previstas no art. 1.030 do Código de Processo Civil.
+Afastada a aplicação das teses firmadas no Tema n. 1.199 do STF ao caso dos autos, observa-se que a Suprema Corte firmou a seguinte tese vinculante afeta à questão da adequada fundamentação das decisões judiciais:
+Tema n. 339 do STF: O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+O respectivo julgado recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no acórdão impugnado.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (CPC, art. 927, III).
+Quanto ao mais, no caso dos autos, não se conheceu de recurso anterior, de competência do Superior Tribunal de Justiça, porque não preenchidos todos os pressupostos de admissibilidade.
+Por isso, qualquer alegação que conste do recurso extraordinário demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do Supremo Tribunal Federal.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário que envolva o conhecimento do recurso anterior não possui repercussão geral, fixando a seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de obrigatória aplicação, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao Supremo Tribunal Federal, como exemplifica o julgado a seguir (destaques acrescidos):
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu, conforme exemplifica o seguinte acórdão (destaques acrescidos):
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Vale anotar que, também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. IMPROBIDADE ADMINISTRATIVA. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. FORMAÇÃO DA COISA JULGADA. SUPERVENIÊNCIA DA LEI N. 14.230/2021. TEMA N. 1.199/STF. NÃO INCIDÊNCIA NO CASO DOS AUTOS. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. NÃO CONHECIMENTO DO RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE DEBATE OU DE SUPERAÇÃO. TEMA N. 181/STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
