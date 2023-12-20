@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUCIA ALVES DE ARAUJO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. EMPRÉSTIMO CONSIGNADO. ALEGAÇÃO DE NÃO CONTRATAÇÃO. APLICAÇÃO DE TESE FIRMADA EM IRDR. CONTRATAÇÃO NULA. AUSÊNCIA DE ASSINATURA A ROGO. RESPONSABILIDADE CIVIL CARACTERIZADA. DEVER DE INDENIZAR. RESTITUIÇÃO EM DOBRO. CABIMENTO. DANO MORAL CONFIGURADO. EVENTUAL COMPENSAÇÃO . PROVIMENTO RECURSAL.
+Quanto à controvérsia, a parte recorrente alega violação d o art. 944, caput, do CC, no que concerne à majoração do quantum arbitrado a título de danos morais, porquanto, o valor fixado nos autos mostrou-se ínfimo. Apresenta os seguintes argumentos:
+O Tribunal de origem ao analisar o valor arbitrado em R$ 1.500,00 a título de danos morais em contrato de empréstimo consignado com pessoa analfabeta, assim se manifestou.
+ ..
+Contudo, a interpretação dada pelo Tribunal de origem, contrariou o art. 944 "caput" do Código Civil assim redigido.
+ ..
+Assim como divergiu da interpretação dada por essa Corte, que entende como irrisório o quantum a título de dano moral até mesmo em R$ 2.000,00 que dirá em ínfimos R$ 1.500,00 como arbitrado pelo Tribunal de origem veja.
+ ..
+Nesse norte, deve ser majorado o quantum em R$ 10.000,00 (fls. 202-204).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto aos danos morais, cabe ressaltar que o Código de Defesa do Consumidor é expresso ao prever a necessidade de efetiva reparação, nos termos do art. 6º, VI e VII, de forma que a proteção da parte hipossuficiente é ampla em casos como o presente.
+O caso concreto não importa em mero inadimplemento contratual. De fato, há particularidades que ultrapassam os infortúnios rotineiros da vida do "cidadão comum", de forma que os transtornos e aborrecimentos sofridos pela consumidora alcançam seu patrimônio moral, violando-o em seu íntimo.
+A parte autora teve descontados de seus proventos mensalmente os valores a título de um empréstimo nulo e somente na esfera judicial obteve êxito em seu intento, trazendo-lhe consequências de maior relevância, considerando sua idade avançada e seu nível de instrução (analfabetismo).
+ ..
+Avaliadas as circunstâncias do caso concreto, em juízo abalizado pelos princípios da integral reparação, da razoabilidade e da proporcionalidade, entendo que a quantia de R$ 1.000,00 (hum mil reais) mostra-se adequada ao caso e em consonância com valores usualmente arbitrados em casos semelhantes pelo TJMA.
+Sobre a indenização moral incidirão correção monetária (IPCA), a contar do arbitramento (Súmula 362/STJ) e juros de mora mensais (1%), a contar do evento danoso (Súmula 54/STJ), por ser caso típico de responsabilidade civil extracontratual (fls. 182-184).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Dessarte: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+A propósito: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
