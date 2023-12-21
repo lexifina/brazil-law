@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SERGIO CARRARA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2316717-77.2023.8.26.0000.
+Consta dos autos que o Paciente estava em cumprimento de pena no regime semiaberto, ocasião em que aportou nos autos relatório de fiscalização reportando que o Sentenciado não foi localizado no momento da contagem fiscalizatória, pois teria saído do estabelecimento prisional, fato ocorrido em 15/07/2023. Em consequência, o Juízo das Execuções Penais determinou a regressão cautelar do Paciente para o regime fechado, pela prática de falta grave, e a perda de 1/3 (um terço) do tempo remido ou a remir, determinando como data-base para nova progressão a data da recaptura do Apenado (fls. 90-95).
+Inconformado, o Apenado impetrou habeas corpus perante o Colegiado de origem, o qual não foi conhecido, nos termos do acórdão assim ementado (fl. 101):
+"HABEAS CORPUS PLEITO DEFENSIVO DE CONCESSÃO DA ORDEM PARA "CASSAR A DECISÃO COMBATIDA, DESCLASSIFICANDO A CONDUTA PARA FALTA DE NATUREZA MÉDIA E, APLICANDO, PORTANTO, A PENA DE REPREENSÃO, CONFORME DETERMINADA PELA AUTORIDADE ADMINISTRATIVA COMPETENTE" (FL. 09). RECLAMO QUE EXTRAPOLA O ESTREITO CAMPO DE ATUAÇÃO DO REMÉDIO HEROICO, NOS TERMOS DO QUE DISPÕE O ART. 663, DO CPP, C. C. O ART. 248, DO RITJ. CASO EM QUE, DEMAIS, NÃO SERVE O WRIT COMO SUCEDÂNEO DE RECURSO PRÓPRIO.- INTELIGÊNCIA DO ART. 197, DA LEP.
+Ordem indeferida liminarmente."
+Neste writ, a Parte Impetrante sustenta, em suma, que "a decisão da MM. Juíza do DEECRIM 1ª -RAJ contrariou a conclusão administrativa e o parecer ministerial e, resultou na ampliação do rol de condutas caracterizadas como falta grave para impor sanção que sequer foi imposta em sentença penal condenatória, em patente ofensa ao art. 45 da LEP" (fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem para "cassar a decisão combatida, desclassificando a conduta para falta de natureza média e, aplicando, portanto, a pena de repreensão, conforme determinada pela autoridade administrativa competente" (fl. 12).
+É o relatório. Decido.
+Na espécie, o Tribunal estadual deixou de analisar as teses defensivas com base na seguinte fundamentação (fls. 103-106):
+"Da argumentação expendida na inicial se denota que se insurge o impetrante contra ato praticado pela MM.ª Juíza de Direito da Vara das Execuções Criminais da Comarca de São Paulo.
+Ocorre que não há que se fazer uso, indiscriminadamente, do remédio heroico, vez que ele não se destina a correção de decisão de natureza estritamente executória, sujeita a recurso próprio, previsto no sistema processual penal, não sendo, pois, o writ substituto de recursos de agravo em execução penal, ordinário, especial ou extraordinário.
+ ..
+Demais, o emprego do writ para tal pleito viola os ditames do artigo 197, da Lei de Execução Penal.
+Nesses termos, questões relativas a incidentes de execução penal devem ser dirimidas em sede de Juízo próprio, sob pena de se ter um recurso com prazo de ajuizamento certo, e outro do qual, a qualquer tempo, dele possa fazer uso o interessado, de forma a colocarem risco a segurança jurídica, e a sistemática processual penal.
+Em assim sendo, o presente habeas corpus há de ser indeferido in limine, diante da sua inadequação para o objetivo ao qual foi proposto, que configura a falta de interesse de agir na forma do artigo 663, do Código de Processo Penal c. c. o artigo 248, do Regimento Interno desta Egrégia Corte.
+Isto posto, não se conhece da presente impetração ajuizada em prol de Sérgio Carrara."
+Como se vê, a Corte estadual não apreciou a questão por entender inadequada, em habeas corpus, a discussão da matéria, apontando como via idônea o recurso de agravo em execução, já interposto.
+Desse modo, como os argumentos apresentados pela Defesa deixaram de ser examinados pela Corte de origem no acórdão ora impugnado, a matéria não pode ser apreciada por esta Corte nesta oportunidade, sob pena de indevida supressão de instância.
+Ressalto que, apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas e exista possibilidade de lesão à liberdade de locomoção do indivíduo. No entanto, conforme informação obtida no site do Tribunal paulista, a Defesa já interpôs recurso de agravo em execução, o qual estaria pendente de julgamento no Tribunal de origem (Agravo em Execução Penal n. 0022284-73. 2023.8.26.0041 ).
+Diante dessa situação, as questões suscitadas no writ originário serão melhor examinadas no âmbito do agravo em execução.
+Ante o exp osto, com fundamento nos arts. 34, inciso XX, e 210, ambos do RISTJ, INDEFIRO LIMINARMENTE o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PLEITO DE ABSOLVIÇÃO. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO EM EXECUÇÃO INTERPOSTO CONCOMITANTEMENTE À IMPETRAÇÃO ORIGINÁRIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE.
