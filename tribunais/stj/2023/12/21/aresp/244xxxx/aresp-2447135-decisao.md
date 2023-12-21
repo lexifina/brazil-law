@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação do art. 1.022, I, do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 359):
+APELAÇÃO. AÇÃO DE COBRANÇA. LOCAÇÃO DE DUAS MÁQUINAS COPIADORAS MULTIFUNCIONAIS. NOTA FISCAL EMITIDA DE ACORDO COM NÚMERO DE CÓPIAS DA FRANQUIA MENSAL. AUSÊNCIA DE PROVAS QUE REFUTEM A ALEGAÇÃO AUTORAL.
+Trata-se de ação de cobrança, em que a parte autora, ora apelada, alegou que o réu deixou de quitar o valor constante das notas fiscais referentes aos números de cópias ajustadas em contrato de locação de duas máquinas multifuncionais.
+Previa ainda o contrato obrigação adicional, quando excedido o número de cópias da franquia mensal.
+Tendo em vista o modelo de negócio acertado entre as partes no sentido de que o contrato e aditivo acostados não se reportavam a respeito da forma da contagem das cópias excedidas por meio de telefone, tendo ainda em vista que o recorrente insistia na produção de prova oral, como relevante para refutar a alegação autoral, oportunizou-se a ele, anulando- se a sentença de improcedência, para que produzisse prova testemunhal referente à contagem das cópias excedidas.
+Ora, se o modelo de negócio previa que a informação acerca da quantidade de cópias utilizadas partia do apelante para a apelada, e com essa informação foram emitidas as notas fiscais e assinadas por ele, sem que houvesse qualquer ressalva, conforme admitida em prova testemunhal produzida pelo apelante, significa dizer que a cobrança constante das notas fiscais eram regulares.
+O conjunto probatório corrobora a tese autoral, pois as notas fiscais acostadas não contêm nenhuma ressalva, inexiste outro documento refute a regularidade da cobrança e a prova testemunhal produzida pelo próprio recorrente, entendida como relevante, corrobora a tese autoral.
+Recurso desprovido
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 378):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AUSÊNCIA DOS REQUISITOS DO ART. 1.022 DO CPC/2015. OMISSÃO E/OU CONTRADIÇÃO NÃO VERIFICADAS.
+Para efeito de admitirem-se os embargos de declaração, necessária a presença dos requisitos do artigo 1. 022, do CPC de 2015, sem os quais não será possível sequer manejá-los.
+Apesar de o Código de Processo admitir a atribuição do efeito modificativo, previsão hoje expressa no artigo 1.023, §2º, do CPC em vigor, tal finalidade se apresenta de forma excepcional, tendo em vista que os embargos de declaração possuem a vocação de buscar uma decisão clara, completa e sem contradições.
+Como o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, para efeito de reconhecer a omissão, necessário se faz que o julgado deixe de apreciar argumentos relevantes para a solução adequada da causa, o que não é o caso em apreço.
+Recurso desprovido
+Sustenta a parte agravante que a decisão recorrida é contraditória pois ao mesmo tempo em que reconhece que o débito deveria ser apurado segundo as informações prestadas pela Recorrente, reconhece como válido o valor informado pela Recorrida, com o qual a suposta devedora não concorda, reputando válido, como meio de prova, exclusivamente documento que foi produzido de forma unilateral pelo suposto credor.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+O Tribunal de origem ao apreciar a tese da parte recorrente entendeu às fls. 361 - 362:
+Tendo em vista o modelo de negócio acertado entre as partes no sentido de que o contrato e aditivo acostados não se reportavam a respeito da forma da contagem das cópias excedidas por meio de telefone, tendo ainda em vista que o recorrente insistia na produção de prova oral, como relevante para refutar a alegação autoral, oportunizou-se a ele, anulando-se a sentença de improcedência, para que produzisse prova testemunhal referente à contagem das cópias excedidas.
+Ora, se o modelo de negócio previa que a informação acerca da quantidade de cópias utilizadas partiram do apelante para a apelada, quando, baseado nessa informação, foram emitidas as notas fiscais e assinadas por ele, sem que houvesse qualquer ressalva, conforme admitida em prova testemunhal produzida pelo primeiro, significa dizer que a cobrança constante das notas fiscais eram regulares.
+O conjunto probatório corrobora a tese autoral, pois as notas fiscais acostadas não contêm nenhuma ressalva, inexiste outro documento refute a regularidade da cobrança e a prova testemunhal produzida pelo próprio recorrente, entendida como relevante, corrobora a tese autoral.
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelos óbices das Súmulas n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
