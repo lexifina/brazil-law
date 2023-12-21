@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DO ESPIRITO SANTO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+APELAÇÃO CIVEL EM AÇÃO DE INDENIZAÇÃO. PRELIMINAR DE AUSÊNCIA DE INTERESSE RECURSAL REJEITADA. MÉRITO. RESPONSABILIDADE CIVIL DO ESTADO. MORTE DE DETENTO. DANOS MORAIS CARACTERIZADOS. PENSÃO MENSAL DEVIDA. EXISTÊNCIA DE OUTRO FILHO NÃO PROVADA. RECURSO DESPROVIDO. HONORÁRIOS RECURSAIS. SENTENÇA CONFIRMADA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 884 do Código Civil; e 5º e 6º, ambos do Código de Processo Civil. Sustenta que o recorrido, embora não negue a existência de seu irmão, também beneficiário em tese do direito, nega-lhe o direito a uma cota parte da pensão, o que configura o seu enriquecimento sem causa, trazendo a seguinte argumentação:
+A questão jurídica posta nos presentes autos clama indiscutivelmente pela manifestação do Superior Tribunal de Justiça, a quem incumbe dar à Lei Federal o seu real alcance, e para que isso ocorra, é imprescindível a manifestação deste e. Tribunal de Justiça a respeito da violação aos dispositivos descritos.
+Como se sabe, a atual Sistemática do Código de Processo Civil impõe as partes e demais atores processuais o dever de agir com boa-fé ao longo de toda marcha processual.
+Art. 5º Aquele que de qualquer forma participa do processo deve comportar-se de acordo com a boa-fé.
+Art. 6º Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.
+De outra senda, o Código Civil em seu art. 884, dispõe que "Aquele que, sem justa causa, se enriquecer à custa de outrem, será obrigado a restituir o indevidamente auferido, feita a atualização dos valores monetários."
+Não obstante, a parte recorrida ajuizou a presente demanda objetivando provimento jurisdicional para condenar o ente estatal ao pagamento de danos morais e pensão em virtude do falecimento do seu genitor.
+Contudo, a despeito de noticiar a existência de seu irmão, também beneficiário por direito, nega agora em sede recursal o dever do rateamento da pensão.
+Nota-se que, em momento algum a parte recorrida nega a existência de seu irmão, pelo contrário, afirma que o mesmo é Felipe Ferreira Batista, mesmo assim pretende usufruir de parte da pensão que não lhe cabe.
+Assim, para evitar o enriquecimento sem causa, vedado pelo ordenamento pátrio, impõe a reforma do acórdão, visto que a parte recorrida desde a fase inicial do processo possuía conhecimento da existência do seu irmão, outro beneficiário da pensão. Ou seja, a pensão deixada pelo falecido deve ser divida entre os atuais beneficiários. Logo, a pensão a ser paga ao Autor deve ser reduzida para a monta de 1/3 (um terço) do salário mínimo de modo a preservar a mesma quota para o seu irmão, Felipe.
+É certo que o número de dependentes não interfere na renda presumível do genitor. Logo, a mesma pensão deve ser rateada entre tantos quantos foram os dependentes. Em processo semelhantes, o c. STJ não efetua qualquer reprimenda quanto a necessidade de divisão da pensão entre os beneficiários:
+ ..
+Aliás, à guisa de reforço, colaciona-se a certidão de óbito do genitor do recorrido onde consta expressamente a existência do outro beneficiário, FELIPE FERREIRA BATISTA:
+ ..
+Assim, diante da flagrante desatenção, data venia, não subsiste o único fundamento do acórdão de que aos autos não constava nenhuma prova da existência de outro filho do de cujus. Transcreve-se excerto do decisum:
+A lide deve ser decidida nos limites em que foi proposta. A decisão judicial não pode levar em consideração fatos que não foram alegados e provados em momento processual oportuno, nem mesmo fazer conjecturas acerca de fatos futuros e incertos. O Apelado não pode ter seu direito ao recebimento de pensão mensal prejudicado em razão da suposta existência de outro filho do Detento/Falecido, que não restou provada nos autos, nem em razão de conjecturas acerca da possibilidade futura de ajuizamento de ação judicial. (Destacou-se)
+Diante de todo o exposto, não restam dúvidas de que o acórdão ora recorrido merece ser reformado, a fim de que a parte recorrida usufrua apenas o que lhe é de direito (fls. 630-636).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+O Estado/Apelante alega que na fixação da pensão mensal não foi observado o fato de que o Apelado possui outro irmão menor, razão pela qual, em sua perspectiva, o valor a ser pago deveria ser reduzida a metade.
+Em que pesem as alegações do Estado/Apelante o presente recurso não merece prosperar.
+Embora a petição inicial afirme que o Detento/Falecido possuía outro filho menor não há nenhum documento nos autos que comprove a sua existência e a questão não foi suscitada na contestação ou durante o trâmite do processo.
+A par de se tratar de uma inovação na esfera recursal, o Recurso de Apelação sequer foi instruído com documento que comprove que o Detento/Falecido possuía outro filho além do Apelado.
+A lide deve ser decidida nos limites em que foi proposta.
+A decisão judicial não pode levar em consideração fatos que não foram alegados e provados em momento processual oportuno, nem mesmo fazer conjecturas acerca de fatos futuros e incertos.
+O Apelado não pode ter seu direito ao recebimento de pensão mensal prejudicado em razão da suposta existência de outro filho do Detento/Falecido, que não restou provada nos autos, nem em razão de conjecturas acerca da possibilidade futura de ajuizamento de ação judicial.
+Desse modo, as razões recursais não são suficientes para fundamentar a reforma da sentença (fls. 618-619).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
