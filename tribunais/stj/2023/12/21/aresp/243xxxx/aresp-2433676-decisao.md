@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob o fundamento de que não ficou demonstrada a vulneração aos dispositivos arrolados (e-STJ fls. 426/427).
+O Tribunal de origem negou provimento ao recurso interposto, em julgado que recebeu a seguinte ementa (e-STJ fl. 396):
+RECUPERAÇÃO JUDICIAL - HABILITAÇÃO DE CRÉDITO TRABALHISTA - VALORES REFERENTES AO FGTS - Direito social pertencente ao trabalhador, nos termos do art. 7º, III, da Constituição Federal - Verba que ostenta natureza trabalhista e, portanto, que pertence ao trabalhador - Precedentes do STJ e desta Corte - Possibilidade de sujeição aos efeitos da recuperação judicial - Decisão mantida - RECURSO DESPROVIDO NESSE TÓPICO.
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - HABILITAÇÃO DE CRÉDITO TRABALHISTA (CLASSE I) - DISTINÇÃO - IMPOSSIBILIDADE - Habilitação de crédito decorrente de sentença condenatória trabalhista - Verbas que englobam indenização por danos morais decorrente da relação de trabalho - Impossibilidade de classificação de parte do crédito na classe quirografário - Decisão mantida - RECURSO DESPROVIDO NESSE TÓPICO.
+Os embargos declaratórios opostos pelas recorrentes foram rejeitados (e-STJ fls. 407/412).
+No recurso especial (e-STJ fls. 414/421), fundamentado no art. 105, III, "a", da CF, as recorrentes apontaram violação dos seguintes dispositivos:
+(i) arts. 12 e 15 da Lei n. 8.036/1990 e 2º da Lei n. 8.844/1994, alegando que não seria possível a habilitação de contribuições devidas a título de FGTS, como crédito trabalhista, nos autos da recuperação judicial, e
+(ii) arts. 83, I, da Lei n. 11.101/2005 e 457 da CLT, sustentando que o crédito decorrente de condenação por danos morais, embora decorrente da relação de trabalho, tem natureza quirografária.
+Não foram oferecidas contrarrazões (e-STJ fl. 425).
+No agravo (e-STJ fls. 430/434), foram refutad os os fundamentos da decisão agravada e alegado o cumprimento de todos os requisitos legais para o recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 436).
+É o relatório.
+Decido.
+I) Com relação ao argumento de que não seria possível a habilitação de contribuições devidas a título de FGTS nos autos da recuperação judicial, verifica-se que, sobre o tema, o Tribunal de origem decidiu com base em fundamento de caráter constitucional. Confira-se (e-STJ fls. 397/400):
+Trata-se de incidente de habilitação de crédito apresentado por MARIA LAURA RAMALHO DA FONSECA, distribuído por dependência aos autos da Recuperação Judicial de EBF VAZ REVESTIMENTOS METÁLICOS LTDA. E OUTROS (autos nº 1000667-02.2019.8.26.0681), relativo a verbas trabalhistas. Apresentou memória de cálculo, requerendo a inclusão de seu crédito no valor de R$ 83.403,21 (fls. 01/02 06/155 dos autos de origem).
+O MM. Juízo "a quo" determinou a intimação das recuperandas, do Administrador Judicial e do Ministério Público (fls. 159 dos autos de origem).
+As recuperandas apresentaram contestação, arguindo, em resumo, que os cálculos estão incorretos, tendo sido indevidamente embutidas verbas relativas ao FGTS e a reclassificação da verba relativa à indenização por danos morais para a classe quirografária (fls. 161/169 dos autos de origem).
+O Administrador Judicial apresentou manifestação e memória de cálculo, opinando pela inclusão do crédito privilegiado trabalhista no importe de R$ 75.377,44, (fls. 239/242 dos autos de origem).
+O Ministério Público concordou com o parecer do Administrador Judicial, opinando pela procedência em parte da habilitação, naqueles termos (fls. 255/256 dos autos de origem).
+Sobreveio, então, a r. decisão agravada, que, acolhendo o parecer do Administrador Judicial, julgou procedente em parte a habilitação de crédito, determinando a inclusão, no quadro geral de credores, do valor de R$ 75.377,44 em favor da habilitante (fls. 258/259 dos autos de origem).
+O recurso não comporta guarida.
+FGTS. Insurgem-se as recuperandas agravantes contra a inclusão de valores atinentes ao FGTS, defendendo que não poderiam se sujeitar à recuperação judicial.
+Porém, ao contrário do que alegam as agravantes, as verbas relativas ao FGTS se sujeitam aos efeitos da recuperação judicial, devendo ser incluídas no crédito da agravada.
+Isto porque se trata de um direito social pertencente ao trabalhador, conforme preconiza o art. 7º, III, da Constituição Federal, de modo que tal verba possui natureza trabalhista, e não tributária. De conseguinte, submete-se aos efeitos da recuperação judicial e integram o crédito detido pela trabalhadora, ora agravada.
+O Superior Tribunal de Justiça já assentou a natureza jurídica do FGTS como verba trabalhista: "É assente nesta Corte que o Fundo de Garantia do Tempo de Serviço constitui direito social dos trabalhadores, não possuindo a contribuição ao FGTS natureza tributária" (RE n. 994621 AgR, Rel. Min, Luiz Fux, j. 18.11.2016).
+Nesse sentido: "Ocorre que o art. 7º, III, da nova Carta expressamente arrolou o Fundo de Garantia do Tempo de Serviço como um direito dos trabalhadores urbanos e rurais, colocando termo, no meu entender, à celeuma doutrinária acerca de sua natureza jurídica. Desde então, tornaram-se desarrazoadas as teses anteriormente sustentadas, segundo as quais o FGTS teria natureza híbrida, tributária, previdenciária, de salário diferido, de indenização, etc. Trata-se, em verdade, de direito dos trabalhadores brasileiros (não só dos empregados, portanto), consubstanciado na criação de um pecúlio permanente, que pode ser sacado pelos seus titulares em diversas circunstâncias legalmente definidas (cf. art. 20 da Lei 8.036/1995)"(STF, ARE nº 709.212/DF, Rel. Min. Gilmar Mendes, DJE 19.02.15)
+Dada sua natureza, é pacífica a possibilidade de inclusão do crédito na Classe I, nos termos do art. 6º, §2º da Lei 11.101/05, o qual contempla os créditos advindos das relações de trabalho.
+Não tendo sido interposto também recurso extraordinário, aplica-se a Súmula n. 126 do STJ. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ACÓRDÃO DO TRIBUNAL DE ORIGEM ALICERÇADO EM FUNDAMENTOS INFRACONSTITUCIONAL E CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA N. 126/STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRINCÍPIOS DA SUCUMBÊNCIA E DA CAUSALIDADE. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM SEGUNDA INSTÂNCIA. CABIMENTO. MAJORAÇÃO DOS HONORÁRIOS NA INSTÂNCIA SUPERIOR. CABIMENTO.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, existindo fundamento de índole constitucional, suficiente para a manutenção do aresto combatido, cabe ao insurgente a interposição concomitante do recurso extraordinário, de modo a desconstituir a convicção estadual. Ausente tal providência, o conhecimento do apelo especial esbarra no óbice previsto na Súmula n. 126 do Superior Tribunal de Justiça.
+2. A redistribuição dos ônus sucumbenciais, com a alteração dos honorários advocatícios sucumbenciais fixados na origem, é mera consequência lógica do julgamento do recurso de apelação.
+3. A responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes, sendo cabível, assim, a majoração nesta instância superior.
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.212.029/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. REVISÃO DE BENEFÍCIO. LEGITIMIDADE. SINDICATO. ACÓRDÃO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA N. 126 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Quando o acórdão recorrido assenta-se em fundamentos constitucional e infraconstitucional, qualquer um deles suficiente, por si só, para mantê-lo, e a parte recorrente não interpõe recurso extraordinário, incide na espécie o óbice da Súmula n. 126 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.303.417/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+II) No que diz respeito à alegada afronta aos arts. 83, I, da Lei n. 11.101/2005 e 457 da CLT, nota-se que o conteúdo normativo dos dispositivos indicados não foi apreciado pelo Tribunal a quo, tampouco foi indicado expressamente nas razões dos embargos de declaração opostos na origem. Ressalta-se que os declaratórios das recorrentes se limitou a alegar violação dos arts. 12 e 15 da Lei n. 8.036/1990 e 2º da Lei n. 8.844/1994, apontando omissão quanto à tese de que os valores decorrentes de FGTS devem ser depositados em conta vinculada, não se sujeitando aos efeitos da recuperação judicial.
+Incidem, portanto, as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
