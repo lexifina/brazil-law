@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Residencial Alaide Duarte contra acórdão do Tribunal de Justiça de Santa Catarina que, nos autos de cumprimento de sentença referente a débitos condominiais, negou provimento ao agravo de instrumento, mantendo a decisão de primeira instância que havia revogado a penhora sobre unidade imobiliária alienada fiduciariamente, sob o fundamento de que a propriedade do bem pertenceria ao credor fiduciário.
+Alega o recorrente que teriam sido violados os arts. 1.336, I, e 1.345 do Código Civil pelo acórdão recorrido, visto que as taxas condominiais possuem caráter propter rem, estando atreladas diretamente ao imóvel, de modo que seria possível penhorar o imóvel alienado.
+Defende que "mesmo nas hipóteses em que o proprietário do bem ou outro titular de um dos aspectos da propriedade - caso dos devedores fiduciantes - não figure no polo passivo da demanda, é possível levar o imóvel à penhora em respeito/privilégio à natureza propter rem da dívida, bastando apenas notificar previamente o titular do domínio dessas medidas constritivas" (fl. 159).
+Aduz a existência de dissídio jurisprudencial quanto à possibilidade de penhora plena de imóvel por dívidas condominiais, ainda que alienado fiduciariamente.
+Sem contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+No presente caso, o TJSC entendeu não ser possível a penhora de imóvel alienado fiduciariamente para adimplemento de débitos decorrentes de taxas condominiais.
+Esse entendimento, porém, vai de encontro à recente jurisprudência da Quarta Turma deste Superior Tribunal de Justiça no sentido de que é possível a penhora do imóvel que dá origem ao débito condominial, ainda que alienado fiduciariamente, tendo em vista a natureza jurídica propter rem da dívida, cabendo, apenas ao condomínio exequente, nesse caso, promover a citação do credor fiduciário, para que venha a integrar a lide, facultando-lhe a oportunidade de quitar o débito.
+Confira-se:
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRIBUIÇÕES CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. NATUREZA PROPTER REM DO DÉBITO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. PENHORA DO IMÓVEL. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+ ..  2. A natureza propter rem se vincula diretamente ao direito de propriedade sobre a coisa. Por isso, se sobreleva ao direito de qualquer proprietário, inclusive do credor fiduciário, pois este, na condição de proprietário sujeito à uma condição resolutiva, não pode ser detentor de maiores direitos que o proprietário pleno.
+3. Em execução por dívida condominial movida pelo condomínio edilício é possível a penhora do próprio imóvel que dá origem ao débito, ainda que esteja alienado fiduciariamente, tendo em vista a natureza da dívida condominial, nos termos do art. 1.345 do Código Civil de 2002.
+4. Para tanto, o condomínio exequente deve promover também a citação do credor fiduciário, além do devedor fiduciante, a fim de vir aquele integrar a execução para que se possa encontrar a adequada solução para o resgate dos créditos, a qual depende do reconhecimento do dever do proprietário, perante o condomínio, de quitar o débito, sob pena de ter o imóvel penhorado e levado à praceamento. Ao optar pela quitação da dívida, o credor fiduciário se sub-roga nos direitos do exequente e tem regresso contra o condômino executado, o devedor fiduciante.
+5. Recurso especial provido.
+(REsp n. 2.059.278/SC, relator Ministro Marco Buzzi, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2023, DJe de 12/9/2023.)
+Em face do exposto, dou parcial provimento ao recurso especial para reconhecer a possibilidade de penhora do imóvel que originou a dívida condominial, desde que, intimado, o recorrente requeira a citação do credor fiduciário, a fim de que venha integrar a execução, facultando-lhe a oportunidade de quitar o débito.
+Intimem-se.
+EMENTA
