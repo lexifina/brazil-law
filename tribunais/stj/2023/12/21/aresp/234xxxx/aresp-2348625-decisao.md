@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+Agravo de Instrumento. Decisão que, em Ação Civil Pública por Improbidade Administrativa, em fase de execução, rejeitou a impugnação oposta pelo executado-agravante. Alegação de impenhorabilidade do imóvel objeto da matrícula nº 3.410, do C. R. I. de Buritama, nos termos do art. 1º, do Lei 8.009/1990. Agravante-executado que não demonstrou residir no imóvel. Certidão do Sr. Oficial de Justiça que informa que o requerente não reside no local, mas sim em outro Município. Possibilidade de incidência de penhora sobre o imóvel, porque não demonstrada a exceção legal. Precedentes. Recurso improvido.
+Os Embargos de Declaração foram rejeitados.
+Na origem, cuida-se de Agravo de Instrumento manejado em fase de Cumprimento de Sentença em Ação Civil Pública por atos de improbidade administrativa, na qual se determinou a penhora de bem imóvel do recorrente que, segundo alega, seria impenhorável por constituir-se em bem de família.
+O recorrente, em seu Recurso Especial, alega violação dos arts. 1º e 5º da Lei 8.009/1990 e 1.022 do CPC/2015.
+O juízo de admissibilidade negativo, por inexistência de vício de fundamentação e por incidência da Súmula 7 do STJ, deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. e-STJ.
+O Ministério Público Federal emitiu parecer às fls. 345-350, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.10.2023.
+A irresignação não prospera.
+De início, afasto o alegado vício de fundamentação ou deficiência na prestação jurisdicional. O fato de o Tribunal a quo haver decidido a lide de forma contrária à tese defendida, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de Embargos de Declaração. O simples descontentamento da parte com o julgado não tem o condão de torná-los cabíveis.
+No caso, conquanto a parte afirme omissão relativa ao requerimento de constatação, por oficial de justiça, da habitação contínua do agravante no imóvel cuja penhora almeja desconstituir, o indeferimento do ato está claramente justificado às fls. 260, e-STJ:
+Ressalte-se que a impugnação ao cumprimento de sentença constitui incidente que de ordinário não enseja maior dilação probatória. E não há justificativa para que se venha a deferir em segunda instância e nesta esfera recursal uma diligência (a pretendida expedição de mandado de constatação) que, tanto quanto se colhe dos autos, o interessado não requereu em primeira instância.
+Dessarte, não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte ora recorrente. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno. Conforme já se decidiu neste Superior Tribunal de Justiça, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Min. Cesar Asfor Rocha, DJ de 12.12.1994).
+Quanto às alegadas violações dos art. 1º e 5º da Lei 8.009/1990, o acórdão recorrido está fundado em duas premissas: a) a existência de certidão revestida de fé pública, em que se atesta que o recorrente não reside no imóvel penhorado; e b) a inexistência de prova em sentido contrário.
+Nesse contexto, não há como negar que seria imperativo o exame da prova dos autos para refutar os argumentos judiciais, notadamente com relação ao argumento de que "não há registros de averbações de alteração do domínio do imóvel" (fls. 242, e-STJ). É evidente que para modificar tal entendimento seria necessário incursão no contexto fático-probatório dos autos, providência vedada na via especial conforme Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DE SENTENÇA. PENHORA DE BEM IMÓVEL. CONFIGURAÇÃO COMO BEM DE FAMÍLIA. REEXAME. ÓBICE DA SÚMULA 7 DO STJ.
+1. Na Lei da Impenhorabilidade do Bem de Família, há previsão de que, na forma de seu art. 1º da Lei n. 8.009/1990, o imóvel residencial próprio do casal, ou da entidade familiar é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei.
+2. O Código de Processo Civil, no art. 832, também estabelece que não estão sujeitos à execução os bens que a lei considera impenhoráveis ou inalienáveis.
+3. Da leitura dos mencionados artigos, extrai-se a compreensão de que tais bens são impenhoráveis, portanto não poderiam ser objeto de alienação no âmbito da ação de improbidade.
+4. Deve-se levar em consideração que a proteção ao bem de família está ligada intimamente à preservação de direitos individuais mínimos de uma vida digna, com base na asseguração do imóvel residencial contra a alienação forçada para a liquidação de débitos.
+5. A própria Lei n. 8.009/1990 (Lei da Impenhorabilidade do Bem de Família) em seu art. 3º traz exceções, em que o bem não estaria protegido de medidas constritivas.
+6. Entretanto, no caso em apreço, a par da discussão veiculada, não ficou demonstrado que o bem questionado tenha sido reconhecido pelas instâncias ordinárias como serviente à família.
+7. A apreciação do inconformismo, da forma como posto nas razões do apelo obstado, a fim de acolher a tese de reconhecimento do bem imóvel como bem de família, demandaria incursão no substrato fático-probatório dos autos, providência inviável no âmbito do apelo nobre, ante o óbice estampado na Súmula 7 do STJ.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.880.229/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 2/12/2021.)
+O exame do aduzido dissídio jurisprudencial fica também prejudicado, uma vez que a tese sustentada esbarraria no mesmo óbice já constatado para o conhecimento do Apelo por pretensa contrariedade a lei federal (AgInt no AREsp 1.866.548/TO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 22.2.2022; REsp 1.292.976/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 1º.7.2021; e AgInt no REsp 1.897.818/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 9.6.2021).
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
