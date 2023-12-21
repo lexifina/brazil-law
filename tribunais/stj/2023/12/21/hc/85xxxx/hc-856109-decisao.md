@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS ERICK KLASER DIAS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+O writ impetrado na origem foi parcialmente conhecido e, nessa extensão, teve a ordem denegada, com a seguinte ementa:
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.
+Legalidade da prisão já foi examinada em habeas corpus anteriormente julgado pela Segunda Câmara Criminal. Assim, resta conhecido o writ apenas no tocante ao excesso de prazo. Excesso de prazo. Inocorrência. Ausência de desídia judicial. Paciente que restou condenado, na ação penal originária, em sentença proferida na data de 31/7/2023. Prisão que restou analisada e mantida na sentença condenatória. Efetiva presença dos requisitos necessários à prisão preventiva previstos no artigo 312 do Código de Processo Penal. Inviável a substituição da prisão preventiva por medida cautelar diversa, nos termos do artigo 319 do Código de Processo Penal.
+ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA. (e-STJ, fl. 27).
+Nesta insurgência, a impetrante alega, em síntese, ilegalidade da prisão preventiva pelo excesso de prazo, na medida em que "o acusado está segregado há 838 (oitocentos e trinta e oito) dias, ou seja, há mais de dois anos e três meses, em caráter preventivo, sendo notória a negligência quanto à sua situação, já que ostenta bons antecedentes, é pessoa idônea e já se findou a etapa processual de produção de provas, não havendo razões lógicas para que se mantenha a sua segregação por mais tempo" (e-STJ, fl. 7).
+Argumenta que não existem fundamentos para a manutenção da custódia cautelar.
+Requer, assim, a revogação da prisão preventiva com aplicação de medidas cautelares.
+Informações prestadas (e-STJ, fls. 101-106).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ, fls. 108-111).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Quanto à fundamentação da prisão preventiva, a matéria não foi examinada pelo Tribunal de origem, porque se trata de mera reiteração de habeas corpus anterior. Assim, não é possível a este Superior Tribunal de Justiça substituir a Corte a quo, o que implicaria em indevida supressão de instância.
+No que tange ao alegado excesso de prazo, verifica-se que a aferição da ilegalidade reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal.
+Segundo pacífico entendimento doutrinário e jurisprudencial, a configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida consoante os critérios de razoabilidade, em razão das peculiaridades do caso concreto.
+O Tribunal local afastou a tese, consignando que:
+"No tocante ao excesso de prazo, afasta-se a alegação, tendo em vista que não há desídia judicial. O paciente foi condenado pelos delitos do artigo 33, caput, e 35, caput, da Lei n.º 11.343/06 - Lei de Drogas, em concurso material, às penas de 9 anos e 8 meses de reclusão e 1.333 dias-multa. A detração penal foi mantida  ..
+Nesse passo, não verifico desídia pelo juízo na condução do feito, situação que configuraria o excesso alegado." (e-STJ, fl. 31, grifei).
+Nas informações prestadas pela Corte de origem, observa-se que a defesa interpôs apelação "em 15/08/2023, apresentando as respectivas razões recursais no dia 29/08/2023, tendo o feito sido remetido ao Tribunal de Justiça no dia 23/11/2023, oportunidade em que foi distribuído, por sorteio, para este julgador" (e-STJ, fls. 104-105).
+Ressalte-se, ainda, que o quantitativo de pena imposto ao paciente na sentença (9 anos e 8 meses de reclusão), não escancara desproporcionalidade no tempo do exame do recurso de apelação que acabou de ser distribuído.
+Cito precedentes desta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS MAJORADO. SENTENÇA CONDENATÓRIA. NEGADO O DIREITO DE RECORRER EM LIBERDADE. APELAÇÃO DEFENSIVA PENDENTE DE JULGAMENTO. EXCESSO DE PRAZO. NÃO CONFIGURADO. REAVALIAÇÃO DA MEDIDA CAUTELAR. ART. 316, PARÁGRAFO ÚNICO, DO CPP. AGRAVO DESPROVIDO, COM RECOMENDAÇÃO.
+1. Sobre o tema, cumpre ressaltar que esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória.
+2. Verifica-se que o ora agravante foi preso em flagrante em 11/12/2021, a sentença condenatória foi proferida em 24/5/2022. Após os trâmites de praxe, o recurso foi recebido na segunda instância em 8/8/2022, estando atualmente concluso para julgamento. Na presente hipótese, foi o agravante condenado a uma pena total somada de 7 anos, 3 meses e 15 dias de reclusão. Está dentro dos limites da razoabilidade, portanto, o prazo de 8 meses desde o recebimento do recurso de apelação até a presente data. Soma-se a isso o fato de não haver manifesta desproporcionalidade no lapso transcorrido desde a efetivação da custódia cautelar até o presente momento.
+3. Com relação ao alegado constrangimento ilegal pela não reavaliação da prisão cautelar pelo Tribunal de origem, nos autos do recurso de apelação, segundo a recente orientação da Suprema Corte na ADI n. 6.581/DF, a norma do parágrafo único do art. 316 do CPP se dirige a qualquer juiz ou tribunal onde a ação penal esteja em curso, até o final do processo de conhecimento.
+4. Agravo regimental desprovido, com recomendação de reexame do cárcere preventivo pela Câmara Criminal, nos termos do art. 316, parágrafo único, do CPP.
+(AgRg no HC n. 804.118/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CONCURSO FORMAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ao interpretar a garantia constitucional prevista no art. 5º, LXXVIII, que assegura a razoável duração do processo, além dos meios que garantam a celeridade da sua tramitação, esta Corte Superior pacificou entendimento no sentido de que a simples extrapolação de prazos processuais previstos na legislação processual penal não implica, por si só, ilegalidade da prisão cautelar, pois a análise acerca de eventual excesso de prazo deverá levar em conta, à luz dos princípios da razoabilidade e da proporcionalidade, todas as particularidades do caso concreto, tais como o tempo de duração da prisão cautelar, bem como a complexidade e o modo com que o processo tem sido conduzido pelo Estado.
+2. Além de a lei processual não estabelecer prazo para o julgamento da apelação criminal, de acordo com a jurisprudência deste Superior Tribunal, a análise do excesso de prazo para apreciação do recurso deve levar em consideração o quantum da pena cominada na sentença condenatória.
+3. ..
+6. Agravo regimental não provido. com recomendação, de ofício, ao Tribunal de origem, para que imprima celeridade no julgamento da Apelação n. 0510199-11.2020.8.05.0001 .
+(AgRg no HC n. 782.354/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
