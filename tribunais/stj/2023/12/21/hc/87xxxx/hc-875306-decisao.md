@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de SILVIO BUENO DOS REIS, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS - TJDFT proferido no julgamento dos Embargos de Declaração na Apelação Criminal n. 0000225- 20.2006.8.07.0008.
+O mandamus foi impetrado perante o Supremo Tribunal Federal, que determinou a remessa dos autos para esta Corte Superior, conforme decisão de fls. 230/231.
+Extrai-se dos autos que o Paciente foi condenado, em primeira instância, à pena de 23 anos, 1 mês e 6 dias de reclusão, em regime inicial fechado, decretada a perda do cargo público, pela prática do crime previsto no art. 121, § 2º, incisos III e IV, do Código Penal, por três vezes (fls. 50/62).
+Em sede de apelação, o TJDFT negou provimento ao recurso ministerial e deu parcial provimento ao recurso do ora Paciente somente para afastar a decretação da perda do cargo público. Eis a ementa do julgado:
+"APELAÇÃO CRIMINAL. TRIPLO HOMICÍDIO DUPLAMENTE QUALIFICADO. POLICIAIS MILITARES. MOTIVO CRUEL. RECURSO QUE DIFICULTA OU TORNA IMPOSSÍVEL A DEFESA DA VÍTIMA. RECURSOS DO MINISTÉRIO PÚBLICO E DAS DEFESAS. NULIDADE POSTERIOR À PRONÚNCIA. JUNTADA DE DOCUMENTO FORA DO PRAZO PREVISTO NO ART. 479 DO CPP. CONCORDÂNCIA DAS DEFESAS. OITIVA DE CORRÉU COMO TESTEMUNHA. IMPOSSIBILIDADE. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. INEXISTÊNCIA. TESE DA ACUSAÇÃO AMPARADA NO ACERVO PROBATÓRIO. ERRO OU INJUSTIÇA NO TOCANTE À APLICAÇÃO DA PENA. CULPABILIDADE. CONDUTA SOCIAL. QUANTUM DE ACRÉSCIMO. ADEQUADO. CONCURSO FORMAL PRÓPRIO. MANTIDO. PERDA DO CARGO. FUNDAMENTAÇÃO IDÔNEA. EXCLUSÃO PARA O RÉU REFORMADO.
+I - Não há que se falar em nulidade se o documento juntado fora do prazo previsto no art. 479 do CPP não tem relação com os fatos sob apuração, a Defesa anuiu com a juntada do documento e, além disso, não demonstrou a ocorrência de qualquer prejuízo.
+II - A jurisprudência consagra a impossibilidade de corréu ser ouvido em Juízo, seja na qualidade de testemunha ou de informante, exceto se figurar como colaborador ou delator. Precedentes.
+III - A nulidade posterior à pronúncia deve ser arguida logo que anunciado o julgamento e apregoadas as partes, sob pena de preclusão (art. 571, V, do CPP).
+IV - Nos procedimentos submetidos ao Júri Popular, a decisão do Conselho de Sentença é soberana, somente se configurando contrária à prova dos autos quando totalmente isolada do acervo angariado. Estando a decisão que condenou o réu respaldada em prova constante dos autos, deve ser mantida.
+V - A prática do crime por policiais militares, agentes públicos que tem o dever de atuar na garantia da segurança pública, torna a conduta ainda mais reprovável e autoriza a valoração desfavorável da culpabilidade.
+VI - Mantém-se a avaliação negativa da conduta social, pois baseada em elementos concretos, consubstanciados em depoimentos que comprovam que os réus eram temidos na região em que prestavam serviço.
+VII - Considerando a ausência de critério legal, a jurisprudência tem mantido a pena fixada com a devida fundamentação, estabelecendo como quantum norteador a fração de 1/8 (um oitavo) sobre o intervalo entre os limites mínimo e máximo abstratamente cominados no tipo legal, para aumento da pena-base em razão da análise desfavorável de cada uma das circunstâncias judiciais do art. 59 do CP.
+VIII - Se o agente pratica o crime por meio de ação única, fracionada em diversos atos executórios, não havendo prova da existência de desígnios autônomos, deve ser aplicada a regra do concurso formal próprio para a unificação das penas.
+IX - Mantém-se o efeito da condenação relativo à perda de cargo, previsto no art. 92, I, "b", do CP, quando o réu, policial militar, em lugar de resguardar a segurança pública, comete triplo homicídio qualificado, conhecido na comunidade onde exercia o labor como "policial bandido", não havendo compatibilidade entre o crime praticado e sua permanência na função pública.
+X - A mesma sanção - perda do cargo público - não deve ser aplicada ao réu que ao tempo da condenação, já havia sido transferido para a reserva remunerada.
+XI - Configurada a necessidade da prisão preventiva para a garantia da ordem pública, nos termos do art. 312 do CPP, indefere-se o pedido de liberdade provisória.
+XII - Recursos conhecidos. Apelo ministerial e de um dos réus desprovido. Recurso do segundo réu parcialmente provido." (fls. 64/65).
+Opostos embargos de declaração pela Defesa, foram rejeitados. O acórdão recebeu a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CRIMINAL. TRIPLO HOMICÍDIO DUPLAMENTE QUALIFICADO. CONTRADIÇÃO. INTERNA. INEXISTÊNCIA. QUESTÕES NÃO APRESENTADAS NAS RAZÕES DO APELO. INOVAÇÃO RECURSAL. PROVA NOVA. ANÁLISE PARA ABSOLVIÇÃO. REABERTURA DA INSTRUÇÃO. INVIABILIDADE. OBSCURIDADE. NÃO CONFIGURADA. AUSÊNCIA DE VÍCIOS. QUESTÕES TRATADAS NO ACÓRDÃO. INCONFORMISMO. PREQUESTIONAMENTO.
+I - A viabilidade dos embargos declaratórios encontra-se condicionada à presença de ambiguidade, obscuridade, contradição ou omissão no julgado (arts. 619 e 620 do CPP).
+II - Os embargos não se prestam para discutir questão que não tenha sido objeto da decisão impugnada, o que configura inovação recursal, devendo ser reconhecida a preclusão.
+III - A contradição eventualmente sanável por meio de embargos de declaração é aquela interna do acórdão, que impede a compreensão lógica e racional do julgado.
+IV - Tampouco podem os embargos de declaração serem utilizados para rediscussão da matéria decidida de forma precisa e clara, apenas em razão de inconformismo com o resultado diverso do pretendido.
+V - No exame do recurso de apelação contra decisão do Conselho de Sentença, o Tribunal não realiza valoração crítica da prova angariada, mas somente analisa se a decisão dos Jurados encontra amparo em algum elemento produzido durante a persecução penal, em respeito à soberania dos veredictos, estabelecida pela Constituição Federal. Nesse passo, inviável exame pelo Tribunal de suposta prova nova apresentada nos embargos de declaração.
+VI - Para fins de prequestionamento, suficiente que sejam analisadas as questões apresentadas, exceto aquelas que configuraram inovação recursal, não sendo necessária menção expressa a todos os artigos de lei ou da Constituição Federal supostamente violados.
+VII - Embargos rejeitados." (fls. 121/122).
+No presente writ, a Defesa sustenta "fragilidade e inconsistência da prova produzida nos autos, em flagrante ofensa ao princípio da ampla defesa" (fl. 6).
+Aponta "ilegalidade decorrente do ato de reconhecimento fotográfico domiciliar realizado pela pessoa de EMERSON LAZARO, uma testemunha que prestou sua versão dos fatos EM TOTAL DESACORDO COM O ARTIGO 226 CPP" (fl. 11).
+Aduz que os depoimentos que relataram terem as vítimas sido abordadas ao mesmo tempo são contraditórios, com indicação de locais, circunstâncias e horários totalmente diferentes. Alega que a condenação está fundada somente em elementos informativos obtidos em fase do inquérito policial e não corroborados em Juízo.
+Assevera que "o Paciente  foi  submetido à julgamento pelo sinédrio popular, sob o princípio do in dúbio pro reo, sem qualquer lastro probatório" (fl. 18).
+Afirma que é "necessária a declaração de nulidade ocorrida nos autos, em face ao cerceamento de defesa, implicando na anulação de todos os atos praticados a partir da irregularidade apontada" (fl. 44).
+Requer a concessão da liminar para "suspender a decisão condenatória, até julgamento do mérito do presente Recurso" (fl. 44).
+No mérito, "seja reconhecido o vício no ato de reconhecimento do Paciente, com declaração de nulidade de todos os atos praticados com base em referido ato, e; c) ainda no mérito, seja também reconhecido que a decisão que indeferiu a produção de oitiva de informante/testemunha, em sessão plenária configura cerceamento de defesa" (fl. 44).
+É o relatório.
+Decido.
+O pedido não merece seguimento.
+O presente writ traz pedido idêntico ao deduzido no HC 680.058/DF, já julgado nesta Corte Superior. Ambos atacam acórdãos do Tribunal de Justiça do Distrito Federal e Territórios proferidos no julgamento da Apelação Criminal n. 0138155-21.2012.8.06.0001 e da Revisão Criminal n. 000225-20.2006.8.07.0008.
+Sendo inadmissível a reiteração de pedidos sob pena de ofensa à preclusão consumativa, ao princípio da unirrecorribilidade recursal e à coisa julgada, resta obstaculizado o conhecimento da impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. ANÁLISE DE PLEITO CONSTANTE DE RECURSO ANTERIOR. REITERAÇÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Nos termos do art. 210 do RISTJ, o habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ.
+3. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+4. A prova da materialidade do delito demanda reexame de fatos e provas, procedimento incompatível com a estreita via do habeas corpus.
+5. Agravo regimental de fls. 154-163 não conhecido e agravo regimental de fls. 144-153 desprovido.
+(AgRg no RHC n. 162.232/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. REITERAÇÃO DO PEDIDO FORMULADO NO FEITO CONEXO HC N. 633.504/SP IMPETRADO ANTERIORMENTE NESTA CORTE. IDENTIDADE DE PARTES, DE PEDIDO E DE CAUSA DE PEDIR. LITISPENDÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. RECURSO DESPROVIDO.
+1. No HC n. 770.945/PI foi formulada idêntica pretensão à veiculada no presente feito, tendo sido parcialmente conhecido e, nessa extensão, denegado. O presente habeas corpus, portanto, consubstancia mera reiteração de writ anterior, em que há identidade de partes, de pedido e de causa petendi.
+2. Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi.
+3. A jurisprudência do Superior Tribunal de Justiça também não admite a tramitação simultânea de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 773.624/PI, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REITERAÇÃO UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. PEDIDOS IDÊNTICOS. REEXAME DE MATÉRIA. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. AGRAVO DESPROVIDO.
+1. Interpostos dois embargos declaratórios pela mesma parte contra a mesma decisão, não se conhece daquele apresentado posteriormente, por força dos princípios da unirrecorribilidade e da preclusão consumativa.
+2. A análise das alegações concernentes ao pleito de anulação da decisão que reconheceu a falta grave, demandaria exame detido de provas, inviável em sede de writ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 702.626/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022.)
+Como dito na impetração anterior, também não se mostra cabível a concessão da ordem, de ofício, visto que o Tribunal de origem julgou a apelação em exame no dia 30 de setembro de 2016, sendo que somente agora, em 2023, foi impetrado o presente mandamus, o qual não pode ser conhecido, em decorrência da preclusão da matéria.
+Dessa forma, em respeito à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que as nulidades ainda denominadas absolutas, bem como qualquer outra falha ocorrida no julgamento do acórdão atacado, devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
