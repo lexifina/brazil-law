@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por WAGNER APARECIDO BELOTO, com fundamento no art. 105, III, "a", da Constituição Federal, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"Ação monitória - confissão de dívida - conjunto probatório que corrobora a alegação do autor no sentido da reprogramação dos vencimentos das prestações - prescrição - contrato bancário - prestações continuadas - mora - vencimento antecipado - faculdade do credor - termo inicial - vencimento da última parcela - prequestionamento - ação monitória julgada procedente - sentença mantida - recurso improvido." (fl. 280)
+Nas razões do recurso especial (fls. 285/299), a parte recorrente aponta ofensa aos artigos 202, inciso VI, e 206, §5º, inciso I, do Código Civil de 2002, sustentando, em síntese, que prescrição interrompida recomeça a correr da data do ato que a interrompeu, de modo que, se houve o vencimento antecipado do contrato, é a primeira amortização realizada que interrompeu o prazo prescricional, tendo a partir daí iniciado a contagem prescricional, razão pela qual resta configurada a prescrição no caso em tela, uma vez que a demanda fora proposta após o prazo de 05 (cinco) anos após a interrupção do prazo prescricional.
+Apresentadas contrarrazões às fls. 351/358.
+É o relatório. Decido.
+A Corte Estadual, ao analisar a demanda, entendeu que, em se tratando de contrato de prestação continuada, o termo inicial do prazo prescricional é o do vencimento da última prestação e não do vencimento antecipado da dívida, ou do inadimplemento. É o que se observa do trecho do v. acórdão recorrido, in albis:
+" Não obstante, os demais elementos dos autos corroboram a prorrogação, em comum acordo das partes, do prazo de vencimento da dívida objeto do instrumento de fls.94/109.
+Com efeito, aludido contrato, firmado em 16/05/2011, dispõe acerca da possibilidade de reprogramação do saldo devedor existente em 15/12/2015 por novo período de 05 (cinco) anos (fls. 98/99).
+O documento juntado às fls. 113 comprova que, em novembro de 2015, o réu requereu a prorrogação da parcela com vencimento em 15/12/2015, com o que consentiu o autor (fls. 114).
+Ainda, o extrato de fls. 115/124 indica a ausência de amortização de valores em dezembro de 2015, com reinicio dos pagamentos em 2017 e 2018.
+Forçoso concluir, assim, que a reprogramação do saldo devedor se deu nos termos da cláusula sexta, parágrafo quatro do instrumento de confissão de dívida de fls.94/109, resultando na postergação, para o ano de 2020, do vencimento da última parcela.
+A esse passo, em se tratando de contrato de prestação continuada, o termo inicial do prazo prescricional é o do vencimento da última prestação e não do vencimento antecipado da dívida, ou do inadimplemento." (fl. 281)
+O entendimento desta Corte Superior é pacífico no sentido de que "o vencimento antecipado da dívida constante de contrato de empréstimo pelo inadimplemento do devedor, sobretudo de mútuo imobiliário, não altera o termo inicial da prescrição da pretensão de cobrança a ser exercitada pela parte credora, correspondente à data de vencimento da última parcela" (AR n. 7.067/DF, relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 9/11/2022, DJe de 17/11/2022.). A propósito, confira-se o julgado:
+"AÇÃO RESCISÓRIA. ACÓRDÃO RESCINDENDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. VIOLAÇÃO À NORMA JURÍDICA. NÃO DEMONSTRAÇÃO. MULTA APLICADA EM EMBARGOS DE DECLARAÇÃO. AFASTAMENTO. DESCABIMENTO. AÇÃO RESCISÓRIA UTILIZADA COMO SUCEDÂNEO RECURSAL. AÇÃO JULGADA IMPROCEDENTE.
+1. A violação literal de lei (ou melhor dizendo, da norma jurídica, nos termos da redação do art. 966, V, do CPC/2015), como fundamento da ação rescisória, pressupõe que o órgão julgador, ao deliberar sobre a questão controvertida, aplique, ou deixe de aplicar, equivocadamente determinado dispositivo legal, que, sob a ótica do autor da rescisória, mereceria acepção diversa. Precedentes.
+2. O pressuposto da ação rescisória amparada no art. 966, V, do CPC/2015 de violação literal e direta ao texto de lei não enseja a rescisão do julgado, com fundamento em interpretação controvertida nos tribunais, quando a decisão rescindenda adotar uma das interpretações possíveis. Precedentes.
+2. Na hipótese, o acórdão rescindendo está fundamento em jurisprudência pacífica deste Tribunal, na esteira de que o vencimento antecipado da dívida constante de contrato de empréstimo pelo inadimplemento do devedor, sobretudo de mútuo imobiliário, não altera o termo inicial da prescrição da pretensão de cobrança a ser exercitada pela parte credora, correspondente à data de vencimento da última parcela.
+3. O entendimento predominante nesta Corte Superior assenta-se no descabimento de utilização da ação rescisória como sucedâneo recursal, não se afigurando possível em tal acepção, a modificação da conclusão constante do acórdão rescindendo quanto à multa aplicada no âmbito dos embargos de declaração.
+4. Ação rescisória julgada improcedente."
+(AR n. 7.067/DF, relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 9/11/2022, DJe de 17/11/2022, g.n.)
+Também nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. CONTRATO DE EMPRÉSTIMO. INADIMPLEMENTO. PRESCRIÇÃO. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PRESTAÇÃO. TRATO SUCESSIVO. DESCARACTERIZAÇÃO. OBRIGAÇÃO ÚNICA DESDOBRADA EM PARCELAS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Por se tratar de obrigação única (pagamento do valor emprestado), que somente se desdobrou em prestações repetidas para facilitar o adimplemento do devedor, o termo inicial do prazo prescricional também é um só: o dia em que se tornou exigível o cumprimento integral da obrigação, isto é, o dia de pagamento da última parcela (princípio da actio nata - art. 189 do CC). Descaracterização da prescrição de trato sucessivo.
+3. Agravo interno não provido."
+(AgInt no REsp n. 1.730.186/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/10/2018, DJe de 17/10/2018, g.n.)
+"AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE MÚTUO. EMBARGOS DO DEVEDOR. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO. DEMORA NA CITAÇÃO. SÚMULA N. 106/STJ.
+1. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela.
+2. "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência" Súmula n. 106/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1486155/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/10/2019, DJe 25/10/2019, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. DÍVIDA DE CONTRATO DE FINANCIAMENTO HABITACIONAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firmada no sentido de que, mesmo em se tratando de dívida decorrente de financiamento imobiliário, o vencimento antecipado da dívida não altera o termo inicial da prescrição, que deve ser considerado como a data final prevista no contrato. Precedentes.
+2. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 1738935/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe 18/06/2021, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. PRESCRIÇÃO DA PRETENSÃO DE COBRANÇA. EMPRÉSTIMO A SER AMORTIZADO EM 36 PARCELAS. CONTAGEM DA PRESCRIÇÃO QUINQUENAL COM BASE NO ART. 206, §5º, INCISO I, DO CCB. TERMO INICIAL NO VENCIMENTO DE CADA UMA DAS PARCELAS. VENCIMENTO ANTECIPADO DA DÍVIDA. BENEFÍCIO DO CREDOR. IMPOSSIBILIDADE DE ANTECIPAÇÃO DA CONTAGEM DO PRAZO PRESCRICIONAL. AGRAVO INTERNO DESPROVIDO."
+(AgInt no REsp n. 1.499.956/CE, relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 6/4/2017, DJe de 18/4/2017.)
+Desta forma, tendo em vista que o acórdão recorrido se encontra em consonância com a jurisprudência pacífica desta Corte Especial, incide, in casu, o óbice da Súmula 83/STJ.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 12% (doze por cento) para 13% (treze por cento).
+Publique-se.
+EMENTA
