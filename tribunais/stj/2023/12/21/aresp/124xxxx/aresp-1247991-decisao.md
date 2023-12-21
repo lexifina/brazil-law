@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto por OSCAR CONTE E MARIZA MOSELE CONTE, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO MONITORIA - DUPLICATA - PRELIMINARES - PRESCRIÇÃO - AFASTADA - ENUNCIADO 4 - PROVA ROBUSTA DA EXISTÊNCIA DO CRÉDITO - ILEGITIMIDADE PASSIVA - AFASTADA - JUROS DE MORA NÃO CONHECIDO - CORREÇÃO MONETÁRIA - INPC - ENUNCIADO 5 - CDC - I NAPLICABIU DADE - PRECEDENTES STJ - APELAÇÃO 1 CONHECIDA E DESPROVIDA - APELAÇÃO 2 CONHECIDA EM PARTE E NA PARTE CONHECIDA PARCIALMENTE PROVIDA - APELAÇÃO 3 CONHECIDA EM PARTE E NA PARTE CONHECIDA NEGADO PROVIMENTO.
+"Assim, o prazo prescricional .para a ação monitória baseada em duplicata sem executividade, é o de cinco anos previsto no artigo 206, § 5º, 1, do Código Civil/2002, a contar da data de vencimento estampada na cártula." (REsp 1088046/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/03/2013, DJe 22/03/2013) "Pela teoria finalista, fica excluído da proteção do CDC o consumo intermediário, assim entendido como aquele cujo produto retorna para as cadeias de produção e distribuição, compondo o custo (e, portanto, o preço final) de um novo bem ou serviço. Vale dizer, só pode ser considerado consumidor, para fins de tutela pela Lei nº 8.078/90, aquele que exaure a função econômica do bem ou serviço, excluindo-o de forma definitiva do mercado de consumo. (..) 7. Recurso especial a que se nega provimento." (REsp 1195642/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 21/11/2012)." (e-STJ, fls. 716/717)
+Nas razões do recurso especial, os agravantes alegam violação aos arts. 18 da Lei nº 5474/68, 206, §5º, inciso I, 895 do Código Civil de 2002 e 267, inciso VI e 219 do Código de Processo Civil de 2015, sustentando, em síntese, (a) que o direito da agravada está prescrito, considerando que a demanda foi ajuizada em 2006, que a duplicata venceu em 19/07/2002 e que o protesto havido em 2004 não foi realizado contra os fiadores, (b) que a conversão da ação executiva em monitória ocorreu em 27/08/2009, quando já estava prescrito o direito executivo, (c) que a agravada não possui legitimidade ativa por não ter feito prova da titularidade do crédito, vez que pode ter havido o endosso do título original a terceiro e que este não foi apresentado e (d) que os juros de mora devem incidir sobre o valor do título a partir da citação dos devedores.
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 827/846).
+É o relatório. Passo a decidir.
+Com relação a suposta violação aos arts. 895 do CC/02 e 267, VI e 219 do CPC/15, tem-se que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Com relação à suposta violação aos arts. 18 da Lei nº 5474/68, 206, §5º, I do CC/02, a Corte de origem afirmou que a demanda monitória foi ajuizada dentro do prazo de cinco anos contados do vencimento do título de crédito, de modo que a sua prescrição não ocorreu, in verbis:
+"Considerando que o vencimento da duplicata ocorreu em 17.09.2002 (fl. 45) e prazo prescricional de 3 (três) anos, chegamos a conclusão que a duplicata perdeu a força executiva em 17.09.2005.
+Esta Câmara possui entendimento no sentido do prazo prescricional para propositura de ação monitória com fundamento em título de crédito ser de 5 (cinco) anos.
+Considerando que a presente demanda foi ajuizada em 11.10.2006 (fl. 02) verifica-se a inocorrência da prescrição quinquenal, haja vista o termo final para propositura da ação monitória encerrar em 17.09.2007." (e-STJ, fl. 721)
+Nesse ponto, a decisão está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+Vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DUPLICATA. PRAZO PRESCRICIONAL. CINCO ANOS. ARTIGO 206, § 5º, I, DO CÓDIGO CIVIL. AGRAVO INTERNO IMPROVIDO.
+1. Consoante jurisprudência desta Corte Superior, a ação monitória fundada em título de crédito prescrito está subordinada ao prazo prescricional de 5 (cinco) anos, nos termos do artigo 206, § 5º, I, do Código Civil. Precedentes.
+2. Agravo interno improvido.
+(AgInt no AREsp n. 1.896.708/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 14/3/2022, DJe de 29/3/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 83/STJ. AÇÃO MONITÓRIA. DUPLICATA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A aplicação da Súmula n. 83/STJ não se restringe aos casos de recursos interpostos com fundamento na alínea c do permissivo constitucional.
+2. Segundo a orientação jurisprudencial desta Corte, a ação monitória fundada em título de crédito prescrito está subordinada ao prazo prescricional de 5 (cinco) anos de que trata o artigo 206, § 5º, I, do Código Civil.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt nos EDcl no AREsp n. 1.655.610/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CAMBIÁRIO. PROTESTO DE DUPLICATA PRESCRITA. NÃO CABIMENTO. PRECEDENTES.
+1. É firme a jurisprudência do STJ no sentido de ser indevido o protesto de título prescrito. Isto porque "a perda das características cambiárias do título de crédito, como autonomia, abstração e executividade, quando ocorre a prescrição, compromete a pronta exigibilidade do crédito nele representado, o que desnatura a função exercida pelo ato cambiário do protesto de um título prescrito". (AgRg no AREsp 593.208/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/11/2014, DJe 19/12/2014).
+2. Segundo a orientação jurisprudencial desta Corte, a ação monitória fundada em título de crédito prescrito está subordinada ao prazo prescricional de 5 (cinco) anos de que trata o artigo 206, § 5º, I, do Código Civil" (AgRg no AREsp 679.160/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2017, DJe 04/04/2017).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.869.358/SE, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 10/8/2020, DJe de 13/8/2020.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
