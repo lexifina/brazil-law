@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO SOUZA DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo de Execução Penal n. 5185826-04.2023.8.21.7000).
+Infere-se dos autos que o paciente cumpre pena total de 12 anos, 10 meses e 20 dias de reclusão, em razão das seguintes condenações ativas:
+- 5049017-86.2022.8.21.0001: pena de sete anos, quatro meses e vinte dias de reclusão pela prática do delito de tráfico de drogas, fato cometido em 14FEV2022, com condenação provisória prolatada em 21JUL2022.
+- 0111575-92.2016.8.21.0001 (indultada): pena de um ano de detenção pela prática do delito de posse irregular de arma de fogo, fato cometido em 06JUN2016, com condenação transitada em julgado em 25NOV2016.
+- 0059178-56.2016.8.21.0001: pena de cinco anos e seis meses de reclusão pela prática do delito de tráfico de drogas privilegiado e de posse ou porte ilegal de arma de fogo, com condenação transitada em julgado em 26JUN2018.
+Formulado pedido de indulto, o Magistrado da Vara de Execuções deferiu o pleito em relação ao Processo n. 0111575-92.2016.8.21.0001, conforme decisão acostada à e-STJ fls. 13/17.
+Irresignado, o Ministério Público agravou. O Tribunal a quo proveu em parte o recurso, em acórdão assim ementado (e-STJ fls. 75/76):
+AGRAVO EM EXECUÇÃO (ART. 197 DA LEP). INDULTO NATALINO DEFERIDO, COM BASE NO DECRETO N.º 11.302/22. INSURGÊNCIA MINISTERIAL.
+INOBSTANTE A PRETENSÃO MINISTERIAL DE QUE SEJA DECLARADA A INCONSTITUCIONALIDADE DO ARTIGO 5º, DO DECRETO N.º 11.302/22,HÁ QUE SE ATENTAR AO FATO DE QUE ESTE, ATÉ O PRESENTE MOMENTO, ENCONTRA-SE PLENAMENTE VIGENTE NO ORDENAMENTO JURÍDICO.
+APESAR DA EXISTÊNCIA DE AÇÃO DIRETA DE INCONSTITUCIONALIDADE (N.º 7.330), NA QUAL SE INVESTIGA A CONSTITUCIONALIDADE DE TRECHOS DO DECRETO PRESIDENCIAL, O DEBATE LIMITA-SE À PARTE FINAL DO ART. 6º, CAPUT, E AO §3º DO ART. 7º, AMBOS DO DECRETO PRESIDENCIAL 11.302/22, EM NADA REFERENTE AO ARTIGO 5º.
+QUANTO AO ARGUMENTO DESPENDIDO PELO PARQUET PARA CONTESTAR A REDAÇÃO DO ARTIGO 5º, DE QUE AS EXIGÊNCIAS PARA A OBTENÇÃO DO "PERDÃO" PRESIDENCIAL, TAL QUAL FORAM INSERIDAS NO TEXTO DO DISPOSITIVO INDICADO, ACABA POR ESVAZIAR,QUASE QUE POR COMPLETO, O OBJETO DA POLÍTICA CRIMINAL NACIONAL, ESPECIALMENTE NO QUE SE REFERE ÀS INFRAÇÕES PENAIS COM PENA INFERIOR A 05 (CINCO) ANOS, NÃO VISLUMBRO A POSSIBILIDADE DA SUA ACOLHIDA.
+O ENTENDIMENTO QUE VEM SENDO ADOTADO NESTA CÂMARA APONTA NO SENTIDO DE QUE É DESNECESSÁRIO QUE O ATO PRESIDENCIAL PARA CONCEDER INDULTO A DETERMINADO GRUPO, IMPONHA QUALQUER CONTRAPARTIDA AO CONDENADO.
+ASSIM SENDO, NÃO SE CONSTATANDO O ALEGADO DESVIO DE FINALIDADE OU EXCESSO DE PODER POR PARTE DO PRESIDENTE DA REPÚBLICA, QUANDO DA ELABORAÇÃO DO DECRETO PRESIDENCIAL,TAMPOUCO VIOLAÇÕES AOS PRINCÍPIOS INVOCADOS PELO RECORRENTE, VAI RECHAÇADA A PRETENSÃO DE QUE SEJA DECLARA A INCONSTITUCIONALIDADE DO ARTIGO 5º, DO ATONORMATIVO.
+SUPERADA A ALEGAÇÃO DE INCONSTITUCIONALIDADE AVENTADA PELO AGRAVANTE, HÁ QUE SE APRECIAR O PEDIDO SUBSIDIÁRIO, DE QUE SEJA CASSADO O INDULTO POR INADIMPLEMENTO DO REQUISITO RELATIVO À EXISTÊNCIA DE CRIME IMPEDITIVO COM PENA ATIVA, O QUE DE FATO PROSPERA. ENQUANTO O REEDUCANDO NÃO CUMPRIR INTEGRALMENTE A PENA PELO(S) CRIME(S) IMPEDITIVO(S) DO BENEFÍCIO, NÃO SERÁ CONCEDIDO O INDULTO NATALINO A CRIME NÃO IMPEDITIVO, NOS EXATOS TERMOS DO PARÁGRAFO ÚNICO DO ARTIGO 11, DO DECRETO, RAZÃO PELA QUAL IMPOSITIVA A REFORMA DA DECISÃO,COM A CASSAÇÃO DO INDULTO CONCEDIDO.
+AGRAVO PARCIALMENTE PROVIDO.
+Daí o presente writ, no qual alega a defesa que o paciente faz jus ao benefício do indulto, aduzindo que, ao contrário do decidido pelas instâncias ordinárias, não incide no caso a proibição prevista no art. 11, parágrafo único, do referido Decreto Presidencial.
+Afirma que o paciente possui condenação por três processos distintos e que, no que se refere à pena indultada - Processo n. 0111575-92.2016.8.21.0001 -, não existe outra condenação a não ser aquela referente ao art. 12, caput, da Lei n. 10.826/2003. Os crimes que seriam impeditivos à concessão do indulto derivam de processos diversos.
+Pugna, assim, pela concessão da ordem revogando o acórdão recorrido.
+Não houve pedido liminar.
+Informações prestadas às e-STJ fls. 93/122 e 123/125.
+Manifestação ministerial, nesta instância, pela denegação da ordem(e-STJ fl. 127).
+É o relatório.
+Decido.
+Cinge-se a questão a saber se é possível verificar os requisitos do indulto do Decreto n. 11.302/2022 sobre cada tipo derivado de ação penal própria, sem concurso de crimes, ou se é necessário prover a junção de crimes derivados de ações penais diversas e guias próprias na execução penal como fator para análise do preenchimento dos requisitos objetivos.
+No caso, o Magistrado da Vara de Execuções Penais da Comarca de Itajaí/SC assim deferiu o pleito defensivo (e-STJ fl. 16):
+2 - No que tange ao pedido embasado no Decreto Presidencial nº 11.302/22, revela-se que o sentenciado preenche os requisitos exigidos para a concessão do indulto, tendo em vista que o crime em que condenado possui pena máxima cominada não superior a cinco anos, nos termos do que dispõe o artigo 5º do referido Decreto, levando em considerando as penas individualmente, vejamos:
+"Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Parágrafo único. Para fins do disposto no caput , na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal".
+Ainda, o delito praticado pelo sentenciado não se encontra no rol impeditivo do artigo 7º, preenchendo, assim, o requisito objetivo para a concessão do indulto. Diante de todo o exposto, por estarem presentes os requisitos legais, defiro o pedido de indulto referente às condenações:
+a) do processo 0111575-92.2016.8.21.0001 - ART 12, CAPUT - ÚNICO NO PROCESSO
+Por conseguinte, declaro extinta as penas privativas de liberdade, nos termos do artigo 107, inciso II, do Código Penal nos termos expostos.
+A Terceira Seção, em julgamento ocorrido aos 8/11/23, posicionou-se no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos".
+O acórdão ficou assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido.
+(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+Na ocasião, destacou-se que o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+Assim, partindo-se de uma interpretação restritiva do Decreto n. 11.302/2002, apenas em caso de concurso de crimes impeditivos e não impeditivos, dentro de um mesmo contexto, não seria possível aplicar o indulto, nos termos do art. 11, parágrafo único, do referido ato presidencial.
+Na hipótese dos autos, o agravante pretende o reconhecimento do indulto em relação à condenação relativa ao Processo n 0111575-92.2016.8.21.0001: pena de 1 ano de detenção pela prática do delito de posse irregular de arma de fogo, fato cometido em 6/6/2016, com condenação transitada em julgado em 25/11/2016.
+O Tribunal cassou a decisão que deferiu o pleito ao argumento de que "o reeducando não preenche os requisitos exigidos para a concessão do indulto natalino, eis que, afora o processo que pretende o perdão, cumpre reprimenda também pela prática de crime impeditivo, equiparado a hediondo, integrante do rol do artigo 7º, incisos I e VI, do Decreto" (e-STJ fl. 73).
+Ora, a interpretação dada pelo Tribunal de Justiça à norma do parágrafo único do art. 11 do Decreto n. 11.302/2022, todavia, dissente do mais recente entendimento da Terceira Seção desta Corte sobre o tema.
+Diante do exposto, concedo o habeas corpus para restabelecer a decisão de 1º grau que deferiu o indulto em relação ao Processo n. 0111575-92.2016.8.21.0001, conforme decisão acostada à e-STJ fls. 13/17.
+Publique-se. Intimem-se.
+EMENTA
