@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JEFERSON FELIPE DE CAMARGO apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Habeas Corpus n. 5058510-72.2023.8.24.0000).
+Os autos dão conta de que o paciente foi preso em flagrante, em 8/9/2023, pela suposta prática dos delitos dos arts. 121, § 2º, inciso II, c/c o art. 14, inciso II, ambos do Código Penal, e 14 do Código de Trânsito Brasileiro (CTB), pois, em uma festa familiar, atirou em seu primo, causando-lhe lesões na perna e na boca, não tendo o matado por circunstâncias alheias à sua vontade. A prisão em flagrante foi convertida em preventiva na audiência de custódia (e-STJ fls. 11/15).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão assim ementado (e-STJ fl. 16):
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA DO CRIME DE TENTATIVA DE HOMICÍDIO QUALIFICADO (ART. 121, §2º, INCISO II, C/C ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL) E POR PERMITIR OU ENTREGAR A DIREÇÃO DE VEÍCULO AUTOMOTOR A PESSOA NÃO HABILITADA (ART. 310 DO CTB). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SUSTENTADA A AUSÊNCIA DOS PRESSUPOSTOS E REQUISITOS DA MEDIDA EXTREMA. NÃO ACOLHIMENTO. PROVAS DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DA SEGREGAÇÃO PARA GARANTIA DA ORDEM PÚBLICA. PACIENTE QUE, APÓS DESENTENDIMENTO EM CONFRATERNIZAÇÃO FAMILIAR, DIRIGE-SE ATÉ SUA RESIDÊNCIA PARA APANHAR UMA ARMA E RETORNA AO LOCAL DA CONTENDA, BUSCANDO CEIFAR A VIDA DO DESAFETO, SEU PRIMO. AGENTE QUE, LÁ CHEGANDO, EFETUA UM DISPARO CONTRA A VÍTIMA, ATINGINDO- LHE A PERNA E, POR ESTILHAÇOS, A BOCA. EVENTO MORTE NÃO CONSUMADO POR CIRCUNSTÂNCIAS ALHEIAS À VONTADE DO AGENTE. GRAVIDADE CONCRETA DA CONDUTA, TRADUZIDA PELA DESPROPORÇÃO DO AGIR DO ACUSADO. ELEMENTO CONCRETO PARA A DECRETAÇÃO DA CONSTRIÇÃO PRESENTE. BONS PREDICADOS QUE NÃO OBSTAM A MANUTENÇÃO DA PRISÃO PREVENTIVA. SUBSTITUIÇÃO DA SEGREGAÇÃO POR MEDIDAS CAUTELARES. PROVIDÊNCIA QUE, NA HIPÓTESE, NÃO SE MOSTRA SUFICIENTE À GARANTIA DA ORDEM PÚBLICA. GESTAÇÃO DA ESPOSA DO PACIENTE QUE NÃO SE REVELA, POR SI SÓ, SUFICIENTE PARA DESCONSTITUIR OS FUNDAMENTOS DA SEGREGAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA.
+No presente writ, a defesa afirma que a prisão preventiva foi decretada sem fundamentação idônea, estando ausentes os requisitos legais para a sua manutenção, notadamente motivos concretos que a justifiquem, isto é, que demonstrem o risco efetivo à eficácia da persecução penal e o risco que adviria à ordem pública pela liberdade do paciente.
+Alega que o decreto prisional violou o art. 315 do Código de Processo Penal, pois lastreado em fundamentos genéricos e elementos inerentes ao tipo penal em questão.
+Defende a ilegalidade do acórdão, ao argumento de que o Tribunal a quo agregou fundamentação para a prisão quando do julgamento do habeas corpus, o que lhe é vedado, conforme entendimento deste Sodalício.
+Afirma as boas qualidades do paciente e a possibilidade de substituição do seu encarceramento por medidas cautelares alternativas, em especial porque ele é primário, possui trabalho lícito e é o único responsável pelo sustento de sua esposa gestante.
+Por isso, requer, inclusive liminarmente, a revogação da prisão preventiva, ainda que com aplicação de medidas cautelares alternativas.
+Liminar indeferida às e-STJ fls. 65/67.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 111/119).
+É o relatório.
+Decido.
+Pois bem. Informações enviadas pelo Juízo de primeiro grau noticiam a revogação, em 19/12/2023, da prisão preventiva do paciente, expedido o competente alvará de soltura.
+Portanto, esvaziado está o objeto deste writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
