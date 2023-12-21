@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por CINTIA DA SILVA LOPES SANTOS contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÕES CÍVEIS. PROMESSA DE COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. PRAZO PRESCRICIONAL. NO CASO DEVE SER APLICADO O PRAZO DE 10 ANOS PREVISTO DO ARTIGO 205 DO CÓDIGO CIVIL. ATRASO NA ENTREGA DA OBRA. CASO CONCRETO QUE NÃO SE VERIFICA ATRASO INJUSTIFICADO NA ENTREGA DA OBRA, EM RAZÃO, FUNDAMENTALMENTE, DO RESULTADO DA PERÍCIA E DO JULGAMENTO CONSTANTES NA AÇÃO CIVIL PÚBLICA 003/113.0002097- 4 AJUIZADA EM DESFAVOR DO CONDOMÍNIO TERRA NOVA RESERVA II, NA QUAL FOI RECONHECIDA A OCORRÊNCIA DE CASO FORTUITO ENFRENTADO PELA RÉ NO EMPREENDIMENTO EM DISCUSSÃO. DIANTE DO NÃO RECONHECIMENTO DO ATRASO NA ENTREGA DA OBRA RESTAM AFASTADOS OS PEDIDOS INDENIZATÓRIOS DELA DECORRENTES, INCLUSIVE O DE ORDEM MORAL. JUROS DE OBRA. NÃO COMPROVAÇÃO DA SUA COBRANÇA APÓS A ENTREGA DO IMÓVEL. APELAÇÃO DAS DEMANDADAS PROVIDA E PREJUDICADA A DA AUTORA.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 840-848.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 422, do Código Civil, 6º, V; 14; 39, XII; 51, IV, XIII, XV e § 1º, II e III do Código de Defesa do Consumidor. Sustenta, em síntese, que não há que se falar em caso fortuito ou força maior apta a ensejar a exclusão da responsabilidade da recorrida pelo atraso na entrega do imóvel, bem como as provas coligidas foram apreciadas em processo diverso, sem manifestação da parte recorrente.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+Com relação ao mérito, afirmam as demandadas que não restou configurado o atraso injustificado na entrega da obra, sendo hipótese de caso fortuito e força maior. Para tanto, aduzem que "restou cristalino nos autos da Ação Civil Pública n. 003/1.130007141-2 o reconhecimento da ocorrência de caso fortuito enfrentado pela empresa, diante da falta de implantação da estação de tratamento de esgoto pela Corsan, bem como restou julgada improcedente a Ação Civil Pública n.003/1.3.0002097-4 ajuizada em razão do atraso na entrega da obra dos imóveis do condomínio "Terra Nova Reserva II" A relação existente entre as partes é de consumo, portanto, aplicável o Código de Defesa do Consumidor.
+Conforme a exegese do art. 14 da Lei 8.078/90, o fornecedor/prestador de serviços responde pelos danos causados ao consumidor, independente de culpa, pois se está diante da hipótese de responsabilidade objetiva. E, para se eximir de tal responsabilidade compete-lhe demonstrar a existência de uma das excludentes do art. 14, § 3º, I e II, do mesmo diploma legal, ou, ainda, de caso fortuito ou força maior.
+O art. 393 do Código Civil define as excludentes:
+(..)
+Sergio Cavalieri Filho faz a seguinte distinção entre o caso fortuito e a força maior:
+"(..) estaremos em face do caso fortuito quando se tratar de evento imprevisível e, por isso, inevitável; se o evento for inevitável, ainda que previsível, por se tratar de fato superior às forças do agente, como normalmente são os fatos da Natureza, como as tempestades, enchentes etc., estaremos em face da força maior, como o próprio nome diz. É a act of God, no dizer dos ingleses, em relação ao qual o agente nada pode fazer para evitá-lo, ainda que previsível" (Programa de Responsabilidade Civil. 9ª ed. São Paulo: Atlas, 2010, p.68).
+No caso em apreço, já houve manifestação desta Câmara em julgamentos anteriores acolhendo as alegações da parte demandada para afastar o reconhecimento do atraso injustificado na entrega da obra, fundamentalmente, em razão do resultado da perícia e do julgamento constantes na ação civil pública n 003/1130006197-2, na qual foi reconhecida a ocorrência de caso fortuito enfrentado pela ré no empreendimento em discussão. E refiro, dentre outros, julgamento de caso em que figurei como Relator enfrentando a mesma situação.
+(..)
+Cumpre acrescentar que constou no corpo da sentença proferida na Ação Civil Pública 003/113.0002097-4 ajuizada em desfavor do Condomínio Terra Nova Reserva II, verbis:
+(..)
+Diante dessas considerações, ainda que tenha ocorrido o atraso na entrega da obra, diante do reconhecimento da ocorrência de caso fortuito enfrentado pelo empreendimento em discussão, não foi injustificado, devendo, assim, ser afastados os pedidos indenizatórios dela decorrentes, inclusive o de ordem moral.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem afastou a responsabilidade da promitente vendedora pelo atraso na entrega do imóvel, tendo em vista a comprovação do caso fortuito que impediu a finalização do empreendimento dentro do prazo contratual.
+Assim, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. OCORRÊNCIA DE CASO FORTUITO E/OU MOTIVO DE FORÇA MAIOR. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, o acolhimento da tese recursal - no sentido de que o atraso na entrega do imóvel decorreu de motivo de força maior - não prescindiria do revolvimento dos elementos fáticos da causa, procedimento inviável no âmbito de recurso especial, a teor do que dispõe a Súmula n.º 7 desta Corte.
+2. Conforme o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente-vendedora, o que foi reconhecido no caso.
+Incidência da Súmula n.º 568 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.361.440/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. LUCROS CESSANTES. DANO MATERIAL PRESUMIDO. TERMO FINAL. PRECEDENTES. VALOR. SÚMULA 7 DO STJ. JUROS DE OBRA. COBRANÇA NO PERÍODO DA MORA. IMPOSSIBILIDADE. JURISPRUDÊNCIA REPETITIVA DO STJ. DANO MORAL. OCORRÊNCIA. VALOR. SÚMULA 7 DO STJ. ÔNUS DA SUCUMBÊNCIA. REDISTRIBUIÇÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O reconhecimento de caso fortuito, força maior ou culpa de terceiro, no atraso da entrega do imóvel, exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+(..)
+8. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.936.821/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022.)
+Por fim, esclarece-se que a incidência da Súmula 7/STJ pela alínea "a" também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de R$3.500,00 (três mil e quinhentos reais) para R$3.850,00 (três mil oitocentos e cinquenta reais), observado eventual gratuidade de justiça, nos termos do art. 98, §3º, do CPC/2015.
+Publique-se.
+EMENTA
