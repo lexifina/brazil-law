@@ -1,0 +1,13 @@
+DECISÃO
+Em atenção ao despacho de fl. 66, a UNIÃO (fls. 70-156) informou a instauração de procedimento revisional com esteio na Instrução Normativa nº 2, de 29/9/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos, tendo sido notificado o interessado. Nesse sentido, pugnou pela manutenção da suspensão do pagamento do precatório expedido por mais no mínimo 60 (sessenta) dias para apresentação da documentação pertinente.
+Na hipótese dos autos, a executada não atendeu ao que lhe fora determinado. Em consulta ao referido procedimento revisional, por meio do link de acesso externo (https://tinyurl.com/yc5acn6m), verifica-se que, após apresentada defesa administrativa em 9/8/2022, não houve movimentação significativa naqueles autos, que se encontram paralisados, sem qualquer justificativa, desde 27/9/2022.
+Enfim, a argumentação apresentada mostra-se evasiva, não autorizando que se suspenda, ainda mais, o pagamento do requisitório expedido.
+O processo não pode permanecer paralisado indefinidamente à espera da Administração, não se justificando a excessiva demora. É imprescindível que ela envide os esforços necessários para rever, com a desejável brevidade, os inúmeros casos de concessão de anistia política em que reputa não comprovada a perseguição exclusivamente política, sob pena de violação ao princípio da razoável duração do processo.
+Como a portaria de anistia objeto da presente execução permanece válida, a situação versada nos autos autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO.
+Por fim, considerando que não foi apontado excesso de execução, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação na prática deduzida pela executada (ainda que não tenha sido oposta formalmente).
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, e determino o afastamento da suspensão do pagamento do precatório expedido.
+Em consonâ ncia com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno a executada ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu (que, no caso, corresponde ao valor executado, tendo em vista que impugnou a execução como um todo com base na alegada inexigibilidade do título judicial). Para pagamento da verba sucumbencial, determino a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC.
+Atestado o cumprimento dos requisitórios, incluindo o referente aos honorários advocatícios sucumbenciais, voltem-me conclusos para extinção da execução.
+Traslade-se cópia da presente decisão para os autos do Prc 5864/DF.
+Publique-se. Intimem-se.
+EMENTA
