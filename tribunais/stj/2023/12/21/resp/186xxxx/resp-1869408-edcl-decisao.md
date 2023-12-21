@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UFPE contra decisão, assim ementada (fl. 1.585):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBAROS À EXECUÇÃO. REAJUSTE DE 28,86%. PRESCRIÇÃO DA EXECUÇÃO. NÃO OCORRÊNCIA. INTERPOSIÇÃO DE MEDIDA CAUTELAR DE PROTESTO. INTERRUPÇÃO. PRECEDENTES. LITISPENDÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO- PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. LEIS 8.622/93 e 8.627/93. COMPENSAÇÃO DO REAJUSTE COM OS ÍNDICES DEFERIDOS. ALEGAÇÃO SOMENTE EM EMBARGOS À EXECUÇÃO. IMPOSSIBILDIADE. PRESERVAÇÃO DA COISA JULGADA. ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL REPETITIVO. TEMAS 475 E 476 DO STJ. JUROS DE MORA. FIXAÇÃO EM 1% AO MÊS, NOS TERMOS DO ART. 3º DO DECRETO-LEI 2.322/1987, NO PERÍODO ANTERIOR À PUBLICAÇÃO DA MP 2.180-35/2001. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Aduz a parte embargante que a decisão embargada se omitiu quanto à suspensão nacional de processos determinada no âmbito do Tema 1033 do STJ: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletiva."
+Requer sejam acolhidos os aclaratórios, com efeitos infringentes, a fim de que seja anulada a decisão embargada, devolvendo-se os autos da origem para aguardar o julgamento, por esta Corte, dos Recursos Especiais Repetitivos n. 1.774.204/RS e 1.801.615/SP.
+Com impugnação.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, cumpre destacar que a afetação de recurso especial à sistemática dos recursos repetitivos pela Segunda Seção, especializada em Direito Privado, não interfere na tramitação do presente feito, pois o tema afetado não envolve as demandas em que a Fazenda Pública figure como parte. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SOBRESTAMENTO. DESCABIMENTO.
+EMBARGOS DE TERCEIRO. IMPROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. LEGITIMIDADE. REVISÃO DO QUANTUM. IMPOSSIBILIDADE.
+1. A remessa de recurso para julgamento pela Corte Especial, no caso, do REsp 1.644.077/PR, na forma prevista no art. 16 do RISTJ, não importa em automática suspensão de Jurisdição.
+2. A afetação dos Recursos Especiais n. 1.812.301/SC e 1.822.171/SC à sistemática dos recursos repetitivos pela Segunda Seção, especializada em Direito Privado, não interfere na tramitação do presente feito, pois, além de o tema afetado não envolver as demandas em que a Fazenda Pública figure como parte, o Colegiado decidiu por não determinar a suspensão dos processos que cuidem da mesma controvérsia.
+3. A interpretação conjunta dos §§ 2º, 3º e 8º do art. 85 do CPC, revela que o critério a ser observado para a fixação da verba honorária deverá levar em conta a dimensão do proveito econômico obtido pela parte vencedora na demanda, o que diz respeito ao bem da vida controvertido na demanda.
+4. Nos embargos de terceiro opostos contra penhora de bem determinada em execução fiscal julgados improcedentes não é possível estimar o proveito econômico obtido pela parte exequente, pois a coisa julgada formada pela sentença não repercute na subsistência do crédito cobrado, tampouco cria nova vantagem econômica a ser suportada pela parte vencida, limitando-se a decidir sobre um incidente processual inerente ao processamento do feito executivo.
+5. Identificado que o proveito econômico resultante do provimento judicial é inestimável, mostra-se legítima a fixação da verba honorária mediante o juízo de equidade previsto no art. 85, § 8º, do CPC.
+6. Não se admite o recurso especial para reapreciar honorários advocatícios fixados por equidade, ante o óbice da Súmula 7 do STJ, exceto quando quantificados em valor flagrantemente irrisório ou exorbitante, o que não é o caso dos autos.
+8. Agravo interno não provido.(AgInt no REsp n. 1.868.837/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 16/11/2020, DJe de 30/11/2020.)
+Ainda, em caso exatamente idêntico ao que ora se apresenta, a decisão monocrática proferida no EDcl no REsp 2.030.566/PE, Rel. Ministra Regina Helena Costa, DJe 31/8/2023.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
