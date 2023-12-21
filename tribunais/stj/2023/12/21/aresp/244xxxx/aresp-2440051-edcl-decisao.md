@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NELSON XAVIER DE OLIVEIRA à decisão de fls. 538/539, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A decisão prolatada pela Ministra Presidente, não conheceu o recurso sob o fundamento de que a parte agravante, apesar de intimada, deixou de juntar nos autos procuração e declaração de hipossuficiência assinada de forma manuscrita, configurando irregularidade na representação processual.
+Ocorre que diferente do alegado, a procuração e declaração de hipossuficiência assinada de forma manuscrita foi juntada nos autos em 03/10/2023, nos termos da fl. 534 e seguintes, realizando, portanto, a regularização processual, conforme determinado na certidão de saneamento de fl. 526.
+Portanto, considerando a regularização processual em tempo hábil, requer o regular prosseguimento do feito, com o conhecimento e regular processamento do agravo interposto (fl. 544).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Ana Paula Roca.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que em sua manifestação à fl. 530, limitou-se a requerer dilação de prazo sem apresentar justificativa para tanto, pleito que foi indeferido na decisão de fls. 538.
+Ademais, cabe ressaltar que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade da representação era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Desse modo, a petição de fls. 534/537 trazendo aos autos instrumento de procuração não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato. Portanto, correta a aplicação da Súmula n. 115 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
