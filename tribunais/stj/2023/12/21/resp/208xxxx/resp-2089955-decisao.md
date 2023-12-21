@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 369, e-STJ):
+APELAÇÃO CÍVEL - SEGURO OBRIGATÓRIO - DPVAT - INVALIDEZ PERMANENTE - INDENIZAÇÃO - PAGAMENTO PROPORCIONAL AO GRAU DE INVALIDEZ - SÚMULA 474 DO STJ. "A indenização do seguro DPVAT, em caso de invalidez parcial do beneficiário, será paga de forma proporcional ao grau de invalidez"(Súmula 474 do Superior Tribunal de Justiça).
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 389-393, e-STJ).
+Nas razões do especial (fls. 396-409, e-STJ), o insurgente alega violação aos seguintes dispositivos de lei federal: (i) art. 1.022 do CPC, alegando, em suma, a negativa de prestação jurisdicional; e (ii) art. 3º, II, da Lei 6.194/74, argumentando, em síntese, não se tratar de invalidez permanente apta a ensejar o pagamento arbitrado.
+Após juízo de admissibilidade positivo (fls. 429-431, e-STJ), ascenderam os autos à esta Corte Superior.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, quanto a negativa de prestação jurisdicional, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma expressa e suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados. Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015. .. 3. Agravo interno a que se nega provimento.(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2. Sustenta que violação ao art. 3º, II, da Lei 6.194/74, porquanto a perda de um dos testículos não ensejaria o reconhecimento de invalidez permanente.
+No particular, decidiu o Tribunal de origem:
+No caso em exame, no dia 29 de abril de 2018 (cf. Boletim de Ocorrência Policial anexado aos documentos nos 2 e 3), Welton Ferreira envolveu-se em acidente de trânsito, em que sofreu fraturas diversas, o que lhe acarretou incapacidade permanente.
+O médico subscritor do laudo pericial em documento no56 concluiu que, em decorrência do acidente automobilístico, o autor, ora apelante, sofreu lesões que acarretaram na perda parcial completa do testículo direito e na perda parcial incompleta do ombro esquerdo, quantificada em 50%.
+A tabela contida na Lei 6.194/74, anexada pela Lei 11.945/09, determina que, em casos de "perda completa da mobilidade de um dos ombros, cotovelos, punhos ou dedo polegar", o quantum indenizatório deve corresponder a 25% (vinte e cinco por cento) do valor máximo, no importe de R$ 13.500,00 (treze mil e quinhentos reais), e em casos de "lesões de órgãos e estruturas (..)pélvicos ou retro-peritoneais", o quantum indenizatório deve corresponder a 100% (cem por cento) do valor máximo, no importe de R$ 13.500,00 (treze mil e quinhentos reais).
+Consequentemente, tem o autor direito ao recebimento da indenização decorrente do seguro obrigatório de veículos -DPVAT, na quantia referente a 50% sobre 25% do valor máximo indenizatório, e na quantia referente a 100% sobre 100% do valor máximo indenizatório, que resulta no valor de R$ 15.087,50 (quinze mil e oitenta e sete reais e cinquenta centavos).
+Entretanto, nos termos artigo 3º, da Lei 6.194, de 19 de dezembro de 1974, com as alterações da Lei 11.945, de 4 de junho de 2009, fica indenização securitária limitada R$ 13.500,00(treze mil e quinhentos reais).
+Assim, entender em sentido diverso e verificar qual o grau de lesão presente no caso em questão para analisar o percentual indenizatório, em observância à Súmula 474 do STJ, evidentemente demandaria reexame de matéria fático-probatório, vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE LAVRA DA PRESIDÊNCIA. DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. ACÓRDÃO DE COLÉGIO RECURSAL. ART. 988 DO CPC. SUCEDÂNEO RECURSAL. SÚMULA 182 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA. DPVAT. SÚMULA 474 DO STJ. INDENIZAÇÃO PAGA DE FORMA PROPORCIONAL AO GRAU DE INVALIDEZ. SÚMULA 7 DO STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, trata-se de reclamação apresentada pela agravante, em face de acórdão da lavra da 2ª Turma Recursal Provisória dos Sistemas dos Juizados Especiais do Estado de Goiás.
+2. De acordo com o texto constitucional (art. 105, inciso I, alínea f), compete ao Superior Tribunal de Justiça julgar a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões. O Código de Processo Civil regulamenta a reclamação nos artigos 988 e seguintes, prevendo ser cabível para garantia da "autoridade das decisões do tribunal" (art. 988, inciso II, do CPC).
+3. A partir da Resolução STJ n. 3/2016, as Câmaras Reunidas ou a Seção Especializada dos Tribunais de Justiça passam a ser competentes para "processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+4. Súmula 474 do Superior Tribunal de Justiça: "A indenização do seguro DPVAT, em caso de invalidez parcial do beneficiário, será paga de forma proporcional ao grau da invalidez".
+5. O Tribunal de origem, apesar do não conhecimento do recurso, e com base nos elementos fático-probatórios dos autos, concluiu que a parte recorrente faz jus à indenização do seguro obrigatório de forma proporcional à lesão, qual seja, 10% (dez por cento) para a coluna lombar, não havendo descumprimento de disposições legais.
+Desse modo, é claro que a convicção formada pela Corte local decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o reexame das provas dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.212.677/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DPVAT. INVALIDEZ PARCIAL. INDENIZAÇÃO PROPORCIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou o entendimento de que, em caso de invalidez parcial, o pagamento do seguro DPVAT deve, por igual, observar a respectiva proporcionalidade (Súmula nº 474/STJ).
+3. Na hipótese, inviável a revisão do julgado de origem quanto à extensão da lesão e o grau de invalidez devido ao óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.964.689/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DPVAT. SEGURO OBRIGATÓRIO. INVALIDEZ PERMANENTE. PERÍCIA MÉDICA. APURAÇÃO DO GRAU DA LESÃO SOFRIDA. PAGAMENTO PROPORCIONAL DO SEGURO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INOVAÇÃO RECURSAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, a complementação de indenização relativa ao seguro obrigatório DPVAT por invalidez permanente deverá ser fixada em conformidade com o grau da lesão e extensão da invalidez do segurado. Precedentes.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem, com base no laudo pericial, concluiu que o grau de incapacidade decorrente do acidente automobilístico sofrido pela parte autora, foi aferido como sendo de 6,25%, correspondente a R$ 843,75. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Incabível o exame de tese arguida somente em sede de agravo interno, não tratada no acórdão recorrido nem exposta nas razões do recurso especial, por configurar indevida inovação recursal.
+5. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.025.025/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Inafastável o óbice da Súmula 7 desta Corte.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
