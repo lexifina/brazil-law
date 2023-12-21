@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por SANTO ANDRE PARADISE INCORPORACAO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CUMPRIMENTO DE SENTENÇA - Ação de rescisão contratual - Decisão que rejeitou a impugnação ofertada pela executada, homologando os cálculos apresentados pela Contadoria Judicial - Inconformismo da incorporadora-impugnante defendendo a incorreção dos cálculos referentes à taxa de ocupação devida pelos adquirentes a ser abatida dos valores a serem restituídos - Não acolhimento - Equívoco dos cálculos não demonstrado - Correção monetária corretamente aplicada mês a mês em conformidade com os termos do título exequendo - Agravo não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 502 do CPC, no que concerne à inobservância da coisa julgada em razão de alteração na modalidade de taxa de ocupação aplicada na sentença , diante da imutabilidade da decisão transitada em julgado, trazendo a seguinte argumentação:
+Assim, a recorrente defendeu a tese de que a taxa de ocupação foi arbitrada em 0,5% sobre o valor do contrato com a atualização da tabela do Tribunal de SP e não condicionou que seria mês a mês como os cálculos do perito foi realizado, o que culminaria a alteração do título judicial exequendo.
+ ..
+Note-se I. Julgadores que o V. Acórdão proferido pelo C. Tribunal estadual preteriu os dispositivos legais invocados, infringindo a imutabilidade das decisões de mérito em fase de execução.
+ ..
+Em uma interpretação analítica do artigo supramencionado, na imutabilidade das decisões de mérito está implícita o objetivo de proibição na duplicidade do exercício da atividade jurisdicional que constitui o núcleo de seu sentido, definida como uma situação jurídica que se caracteriza pela vedação de repetição do exercício da mesma atividade jurisdicional, sobre o mesmo objeto, pelas mesmas partes.
+O valor jurídico protegido pela coisa julgada é, indiscutivelmente, a segurança jurídica, um dos mais importantes imperativos do Estado de Direito  o qual, numa perspectiva constitucional, situa-se para além de contornos axiológicos, possuindo inegável conteúdo normativo.
+Por estes motivos mesmo em fase de execução, em que a discussão sobre o direito material já está superada, a imutabilidade das decisões proferidas se mantém firme e deve ser observado nos estritos termos consignados no título judicial exequendo.
+ ..
+O título judicial exequendo traz consignado expressamente que a taxa de ocupação foi arbitrada em 0,5% sobre o valor do contrato acrescido da correção monetária e não na forma realizada nos cálculos do perito foi realizado (fls. 45/49).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Não se vislumbra o equívoco apontado no cálculo do contador que corretamente observou os termos do título executivo, aplicando o percentual de 0,5% sobre a base de cálculo correspondente ao valor do contrato, incidindo mês a mês a correção monetária, tal como tivessem sidos pagos os locativos. Tal critério, além de observar estritamente os termos do julgado exequendo, reproduz com maior precisão as quantias que seriam pagas a título de locativo decorrente do uso do bem.
+Logo, não há justificativa para que a correção seja previamente aplicada sobre a base de cálculo, hipótese que resultaria em violação à coisa julgada (fls. 28).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/7/2020; REsp 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; e AgRg no AREsp 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
