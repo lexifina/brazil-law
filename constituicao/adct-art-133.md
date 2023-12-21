@@ -1,0 +1,1 @@
+Art. 133. Os tributos de que tratam os arts. 153, IV, 155, II, 156, III, e 195, I, "b", e IV, e a contribuição para o Programa de Integração Social a que se refere o art. 239 não integrarão a base de cálculo do imposto de que trata o art. 156-A e da contribuição de que trata o art. 195, V, todos da Constituição Federal.
