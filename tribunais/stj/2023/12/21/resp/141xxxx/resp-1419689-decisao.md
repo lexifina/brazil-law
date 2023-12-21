@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por Jorge Alberto Teixeira de Souza, no qual se alega violação dos arts. 14, 43, § 2º, do Código de Defesa do Consumidor; 186, 187 e 927 do Código Civil; e 5º da Constituição Federal, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 129):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. EFICÁCIA DOS DIREITOS FUNDAMENTAIS NAS RELAÇÕES PRIVADAS. CONCENTRE SCORING. ART. 43 DO CDC. DIREITO À INFORMAÇÃO. ART. 5º, XXXII E XXXIII, DA CF. NECÉSSIDADE DE COMUNICAÇÃO AO CONSUMIDOR ACERCA DA ABERTURA DO CADASTRO. NULIDADE DO CADASTRO. DANO MORAL. AUSÊNCIA DE DEMONSTRAÇÃO. SUCUMBÊNCIA REDIMENSIONADA. APELO PROVIDO EM PARTE.
+Sustenta que a parte recorrida não deu ciência ao consumidor sobre o cadastro no Concentre Scoring e sobre a utilização de seus dados pessoais de forma indiscriminada para a formação de uma "pontuação" e para a obtenção de lucro.
+Requer a condenação do recorrido ao pagamento de indenização por danos morais.
+Assim posta a questão, passo a decidir.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Anoto, inicialmente, que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+Verifico, por outro lado, que o Tribunal de origem declarou a nulidade do cadastro do nome da parte autora e da reunião de dados pessoais e de comportamento de consumo no denominado Concentre Scoring, todavia, afastou o pedido de condenação ao pagamento de indenização por danos morais, conforme se extrai dos seguintes trechos (fls. 132/135):
+(..)
+Como se vê, a definição do Concentre Scoring enquadra-se perfeitamente no conceito legal de banco de dados, restando incontroversa a incidência do disposto no artigo 43 do CDC ao caso dos autos.
+Pois bem.
+A comunicação prévia à abertura do cadastro integra o direito à informação, amparado tanto pela Constituição Federal em seu artigo 5º, XXXIII, quanto pelo caput do artigo 43 do CDC.
+Não há nos autos prova de que a demandada tenha notificado previamente a parte demandante acerca da reunião de informações quanto ao seu comportamento de consumo, para fins probabilísticos, com o que restou violada a norma prevista no § 2º do artigo 43 do CDC.
+Sobre a necessidade de notificação prévia ao consumidor e viabilização de acesso a todas as informações atinentes a ele, especialmente no tocante à pontuação que divulga como resultado do cálculo, já se pronunciou o Terceiro Grupo de Câmaras Cíveis deste Tribunal de Justiça:
+(..)
+Procede, pois, o pedido de declaração de nulidade do cadastro do nome da parte autora e reunião de dados pessoais e de comportamento de consumo no denominado Concentre Scoring.
+Relativamente à pretensão indenizatória, mantenho a sentença de improcedência.
+Não há nos autos demonstração de situação caracterizadora de dano moral indenizável. Esta Câmara tem firmado o entendimento de que a ausência de notificação prévia à inclusão de dados do consumidor no Concentre Scoring não caracteriza, por si só, dano moral.
+(..)
+De outra parte, a concessão ou não de crédito é efetivamente direito do comerciante e não há demonstração de que a parte autora teve negado acesso ao crédito pretendido em razão da pontuação informada pela requerida.
+Com essas considerações, dou provimento em parte ao apelo, a fim de reconhecer a nulidade da reunião, manutenção e compartilhamento de dados pessoais e de consumo da parte, devendo a ré se abster de reunir e compartilhar informações negativas acerca da parte, tudo nos termos da fundamentação.
+(..)
+Quanto ao ponto, registro que o sistema scoring é um método de avaliação do risco de concessão de crédito, a partir de modelos estatísticos, considerando diversas variáveis, com atribuição de uma pontuação ao consumidor avaliado (nota do risco de crédito), configurando uma prática comercial lícita.
+Ademais, para a configuração do dano moral, a jurisprudência do STJ firmou o entendimento de que é necessária a demonstração de uma indevida recusa de crédito pelo uso de dados incorretos ou desatualizados do consumidor, salvo as hipóteses de utilização de informações excessivas ou sensíveis, o que não se verifica no caso concreto. Nesse sentido, confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C DO CPC). TEMA 710/STJ. DIREITO DO CONSUMIDOR. ARQUIVOS DE CRÉDITO. SISTEMA "CREDIT SCORING". COMPATIBILIDADE COM O DIREITO BRASILEIRO. LIMITES. DANO MORAL.
+I - TESES: 1) O sistema "credit scoring" é um método desenvolvido para avaliação do risco de concessão de crédito, a partir de modelos estatísticos, considerando diversas variáveis, com atribuição de uma pontuação ao consumidor avaliado (nota do risco de crédito) 2) Essa prática comercial é lícita, estando autorizada pelo art. 5º, IV, e pelo art. 7º, I, da Lei n. 12.414/2011 (lei do cadastro positivo).
+3) Na avaliação do risco de crédito, devem ser respeitados os limites estabelecidos pelo sistema de proteção do consumidor no sentido da tutela da privacidade e da máxima transparência nas relações negociais, conforme previsão do CDC e da Lei n. 12.414/2011.
+4) Apesar de desnecessário o consentimento do consumidor consultado, devem ser a ele fornecidos esclarecimentos, caso solicitados, acerca das fontes dos dados considerados (histórico de crédito), bem como as informações pessoais valoradas.
+5) O desrespeito aos limites legais na utilização do sistema "credit scoring", configurando abuso no exercício desse direito (art. 187 do CC), pode ensejar a responsabilidade objetiva e solidária do fornecedor do serviço, do responsável pelo banco de dados, da fonte e do consulente (art. 16 da Lei n. 12.414/2011) pela ocorrência de danos morais nas hipóteses de utilização de informações excessivas ou sensíveis (art. 3º, § 3º, I e II, da Lei n. 12.414/2011), bem como nos casos de comprovada recusa indevida de crédito pelo uso de dados incorretos ou desatualizados.
+II - CASO CONCRETO: A) Recurso especial do CDL: 1) Violação ao art. 535 do CPC. Deficiência na fundamentação. Aplicação analógica do óbice da Súmula 284/STF.
+2) Seguindo o recurso o rito do art. 543-C do CPC, a ampliação objetiva (territorial) e subjetiva (efeitos "erga omnes") da eficácia do acórdão decorre da própria natureza da decisão proferida nos recursos especiais representativos de controvérsia, atingindo todos os processos em que se discuta a mesma questão de direito em todo o território nacional.
+3) Parcial provimento do recurso especial do CDL para declarar que "o sistema "credit scoring" é um método de avaliação do risco de concessão de crédito, a partir de modelos estatísticos, considerando diversas variáveis, com atribuição de uma pontuação ao consumidor avaliado (nota do risco de crédito)" e para afastar a necessidade de consentimento prévio do consumidor consultado.
+B) Recursos especiais dos consumidores interessados: 1) Inviabilidade de imediata extinção das ações individuais englobadas pela presente macro-lide (art. 104 do CDC), devendo permanecer suspensas até o trânsito em julgado da presente ação coletiva de consumo, quando serão tomadas as providências previstas no art. 543-C do CPC (Recurso Especial n. 1.110.549-RS).
+2) Necessidade de demonstração de uma indevida recusa de crédito para a caracterização de dano moral, salvo as hipóteses de utilização de informações excessivas ou sensíveis (art. 3º, § 3º, I e II, da Lei n. 12.414/2011).
+3) Parcial provimento dos recursos especiais dos consumidores interessados apenas para afastar a determinação de extinção das ações individuais, que deverão permanecer suspensas até o trânsito em julgado do presente acórdão.
+III - RECURSOS ESPECIAIS PARCIALMENTE PROVIDOS.
+(REsp n. 1.457.199/RS, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 12.11.2014, DJe de 17.12.2014.)
+Registro, por fim, que rever a conclusão da Corte local, de que "não há demonstração de que a parte autora teve negado acesso ao crédito pretendido em razão da pontuação informada pela requerida" (fls. 134/135), motivo pelo qual afastou o alegado dano moral, demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao r ecurso especial.
+Intimem-se.
+EMENTA
