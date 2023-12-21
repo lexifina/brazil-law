@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A. contra acórdão assim ementado (fl. 644):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CIVIL. AÇÃO DECLARATÓRIA C/C COBRANÇA. PREVIDÊNCIA COMPLEMENTAR PRIVADA. SERVIDORES APOSENTADOS DO BANCO DO BRASIL S.A. PORTARIA Nº 966/1947. TRANSFERÊNCIA DA COMPLEMENTAÇÃO DA APOSENTADORIA PARA A PREVI. SENTENÇA REFORMADA.
+1. Fazem jus à complementação de aposentadoria, nos termos da Portaria nº 966/1947 e posteriores alterações, os funcionários admitidos antes de 1967 e que se aposentaram na condição de funcionários do Banco do Brasil S.A.
+2. O recebimento da complementação de aposentadoria efetuada pela PREVI não obsta a suplementação proveniente de outra fonte de custeio.
+3. Apelação conhecida e provida. Unânime.
+Os embargos de declaração opostos ao referido acórdão não foram providos.
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, o recorrente alega (tese 1) negativa de vigência do art. 11 da CLT e, reflexamente, do art. 7º, XXIX, da CF, além de (tese 2) violação dos arts. 17, parágrafo único, e 68, caput e parágrafo único, da Lei Complementar n. 109/2001.
+Para tanto, afirma, no que se refere à tese 1, que não se aplica ao caso a prescrição quinquenal, declarada no acórdão recorrido, em que o órgão julgador decidiu serem devidas as parcelas reclamadas vencidas no quinquênio que precedeu a propositura da ação, mas sim aquela prevista no art. 11 da Consolidação das Leis do Trabalho.
+Quanto à tese 2, pontua que o aresto impugnado reconheceu direito adquirido a regime jurídico previdenciário, em sentido contrário à legislação de regência indicada.
+O recurso foi admitido na instância precedente.
+É o relatório. Decido.
+Sucintamente, consigno que, na origem, JOSÉ WILSON GURGEL e OUTROS ajuizaram ação declaratória c/c ação de cobrança contra o BANCO DO BRASIL, pleiteando o recebimento de complementação de aposentadoria a que teriam direito na forma da Portaria n. 966 de 6 de maio de 1947.
+Aduzem que, por meio do referido normativo, o recorrente teria assumido a complementação de aposentadoria de seus funcionários por intermédio da Caixa de Previdência dos Funcionários do Banco do Brasil (CAPRE).
+No entanto, segundo relatam, em abril de 1967, o banco, de forma unilateral, "subtraiu o direito à Complementação de Aposentadoria" e transformou a CAPRE na PREVI, fundo de pensão que, a partir daí, passou a se responsabilizar pelo pagamento dos benefícios.
+Afirmam que o novo fundo de pensão oferecia um plano de suplementação de aposentadoria com valor inferior ao que receberiam se fossem observados os normativos que vigoravam anteriormente.
+Sustentam ser impossível a substituição do benefício de que antes gozavam pelo plano oferecido pela PREVI.
+Asseveram ter ocorrido novação da obrigação do recorrido em 1997, o que teria dado ensejo à reabertura do prazo prescricional.
+Vencidos em primeiro grau de jurisdição, os recorridos obtiveram provimento de seu recurso de apelação nos termos da ementa acima declinada.
+A respeito da prescrição invocada pelo recorrente, o órgão julgador estadual manifestou-se, no acórdão dos embargos de declaração, da seguinte forma (fl. 708):
+Quanto à suposta omissão quanto à prescrição, é cediço que, por se tratar de relações de trato sucessivo, a prescrição alcança somente as parcelas vencidas há mais de 5 anos do ajuizamento da ação, tal como consignou o Acórdão. Não há, portanto, omissão nesse ponto.
+O entendimento adotado pelo Tribunal de origem não encontra guarida na jurisprudência do Superior Tribunal de Justiça.
+Com efeito, a orientação do STJ, especificamente no caso da complementação da aposentadoria dos ex-funcionários do Banco do Brasil com fundamento na Portaria n. 966/1947, é no sentido de que a lesão ao direito pleiteado pelos recorridos não se renova a cada provento mensal percebido, situação que justificaria a tese adotada pela Corte a quo.
+O que ocorre no caso dos autos é a perda do próprio fundo de direito, devendo a contagem do prazo prescricional iniciar-se no ano de 1967, data em que houve a suposta violação do direito dos recorridos.
+Confiram-se precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA MOVIDA EM FACE DE EX-EMPREGADOR (BANCO DO BRASIL) E FUNDADO NA PORTARIA 966/1947. TRANSFERÊNCIA DO BENEFÍCIO PARA A PREVI. PRESCRIÇÃO DO FUNDO DE DIREITO. TERMO INICIAL DO PRAZO PRESCRICIONAL. NOVAÇÃO. INOCORRÊNCIA. REVISÃO. SÚMULA 5 E 7/STJ. DIVERGÊNCIA NÃO COMPROVADA.
+1. O propósito recursal consiste em decidir sobre o prazo prescricional para o exercício da pretensão de ver reconhecido o direito ao recebimento de complementação de aposentadoria privada de ex-funcionários do Banco do Brasil S/A, nos termos da Portaria 966, de 06/05/1947.
+2. "Havendo desvinculação do plano previdenciário, o prazo prescricional atinge o próprio fundo de direito em que se baseia a pretensão de complementação de aposentadoria" (REsp 1691844/RS, Rel. Ministro ANTÔNIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/11/2021, DJe 09/02/2022).
+3. Entendimento firmado por ambas as Turmas de Direito Privado para os casos envolvendo controvérsia acerca do benefício previsto na Portaria 966/1947 do Banco do Brasil - mesma hipótese dos autos.
+4. Agravo interno não provido. (AgInt no AgInt no AgInt no REsp n. 1.651.774/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/6/2022.)
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM COBRANÇA. COMPLEMENTAÇÃO DE APOSENTADORIA. BENEFÍCIO PAGO PELA PREVI. COMPETÊNCIA. QUESTÃO JÁ DECIDIDA PELO STF NO BOJO DA RCL Nº 39.527/SP. ADEQUAÇÃO AO TEMA 190 DO STF. PRAZO PRESCRICIONAL. PRETENSÃO RELATIVA AO FUNDO DE DIREITO. NÃO INCIDÊNCIA DA SÚMULA 85/STJ. TERMO INICIAL. DATA DA CIÊNCIA DA SUPRESSÃO DO DIREITO À COMPLEMENTAÇÃO DA APOSENTADORIA.
+1. Ação declaratória cumulada com cobrança na qual se pretende o recebimento da complementação da aposentadoria, sem prejuízo do benefício pago pela PREVI, acrescida dos atrasados referentes ao quinquênio prescricional.
+2. Ação ajuizada em 19/12/2007. Recurso especial concluso ao Gabinete em 16/04/2021. Julgamento: CPC/2015.
+3. Conquanto, em hipóteses assemelhadas, a Terceira e Quarta Turmas tenham realizado o distinguishing e mantido a remessa dos autos para a Justiça do Trabalho, a hipótese dos autos apresenta a relevante peculiaridade de a questão relativa à competência já ter sido definitivamente decidida pelo STF que, no bojo da Rcl 39.527/SP, determinou a cassação da decisão proferida nestes autos que havia reconhecido a competência da Justiça do Trabalho. Por esta razão, há de ser reformado o acórdão da Terceira Turma, a fim de observar o que decidido no bojo da referida reclamação e para adequá-lo à tese firmada no RE 586.453/SE (tema 190).
+4. O propósito recursal consiste em decidir sobre a implementação do prazo prescricional para o exercício da pretensão de cobrança de complementação de aposentadoria privada de ex-funcionários do Banco do Brasil S/A, bem como sobre o direito ao recebimento da referida verba, nos termos da Portaria 966/ de 06/05/1947, sem prejuízo do benefício pago pela Previ.
+5. Quando a pretensão diz respeito ao próprio direito material à complementação de aposentadoria e não apenas aos seus efeitos pecuniários, a prescrição atinge o fundo de direito, e, por isso, a contagem do prazo se inicia a partir de sua efetiva violação, não se aplicando, pois, a súmula 85/STJ.
+6. Recurso especial conhecido e parcialmente provido. (REsp n. 1.707.393/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 25/8/2022.)
+Ante o exposto, conheço do recurso especial interposto pelo Banco do Brasil S.A. para, com base no art. 255, § 4º, III do RISTJ, dar-lhe provimento a fim de declarar a prescrição da pretensão dos recorridos e, como consequência, julgo extinto o processo com resolução de mérito, na forma do art. 487, II, do Código de Processo Civil, ficando invertidos os ônus sucumbenciais estabelecidos na sentença.
+Publique-se. Intimem-se.
+EMENTA
