@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Joao da Silva Torres, apontando-se como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul, ante o julgamento proferido no Agravo em Execução Penal n. 1602228-66.2023.8.12.0000.
+Consta dos autos que o Juízo da Vara de Execuções Penais da comarca de Campo Grande/MS, nos Autos do PEC n. 6004738-47.2022.8.12.0001, indeferiu o pedido de declaração de incompetência da Justiça Comum (fl. 59).
+Irresignada, a defesa interpôs agravo em execução penal no Tribunal de origem, o qual negou provimento ao agravo, reconhecendo a competência do Juízo da Vara de Execução Estadual e indeferindo o pedido de prisão domiciliar, conforme o acórdão acostado às fls. 20/32.
+No presente writ, a defesa sustenta, inicialmente, que a Justiça Comum é incompetente para executar a pena imposta ao paciente, porquanto ele é da reserva e não foi desligado de sua condição de militar.
+Argumenta que na hipótese dos autos não incide o entendimento da Súmula n. 192 desta Corte Superior de Justiça, pois a Justiça estadual somente é competente para execução da pena de condenados pela Justiça especializada na hipótese em que o apenado estiver recolhido em órgão sujeito à administração do Estado, o que não é o caso do paciente, porquanto foi condenado pela Justiça Comum Estadual (1ª Vara de Jardim/MS), contudo, sua pena está sendo aplicada em órgão de competência federal (4ª Cia e Combate Mecanizada), vinculada ao Exército Brasileiro (fl. 8).
+Assevera a possibilidade de cumprimento da pena em regime domiciliar, com fundamento na Súmula Vinculante n. 56 do STF, que também é aplicável aos apenados em regime fechado.
+Afirma que não há qualquer impedimento ao paciente de executar a pena em regime domiciliar, já que cumpre todos os requisitos necessários, sendo que o mesmo não é reincidente, não praticou qualquer falta grave no estabelecimento onde está recolhido e, como demonstrado (evento 1.1 - última folha), o estabelecimento não possui condições de mantê-lo em condições de cumprimento de pena (fl. 14).
+Alega que o paciente necessita de cuidados médicos especializados não fornecidos pelo estabelecimento em que cumpre pena, que conta tão somente com um clínico geral e também não possui aparelhos para a realização de exames. Desse modo, defende que o paciente necessita de imediata determinação de escolta até a cidade de Campo Grande/MS, capital do estado, onde localiza-se o Comando Militar do Oeste - CMO, que possui um hospital geral para atendimento militar, com diversos profissionais específicos e possibilidade da realização de exames médicos mais aprofundados (fls. 14/15).
+Ao final, requer (fl. 17):
+ ..
+a. A concessão imediata da liminar pretendida, inaudita altera partes, para que seja determinada a suspensão da decisão de encaminhamento do paciente a estabelecimento penal civil e concessão de escolta pelo Exército Brasileiro até hospital militar para realização de atendimento especializado;
+b. Posteriormente, a oitiva imediata da Douta Procuradoria Geral da República na condição de custos legis, para que apresente parecer;
+c. A requisição de informações junto a 3ª Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso do Sul, ora apontado como coator;
+d. Ao final a total procedência do presente mandamus para que seja mantida a tutela de urgência concedida bem como seja determinada a colocação do paciente em regime domiciliar, nos termos explanados neste petitório;
+ ..
+O pedido liminar foi indeferido às fls. 111/113.
+Informações prestadas às fls. 118/128.
+O Ministério Público Federal, às fls. 131/136, opinou pelo não conhecimento do writ.
+É o relatório.
+Por oportuno, o Tribunal de origem negou provimento ao agravo em execução apresentado pela defesa, afastando a alegação de incompetência da Justiça estadual e indeferindo o pedido de prisão domiciliar, aos seguintes fundamentos (fls.23/28 - grifo nosso):
+ ..
+Tãl qual exposto no decisum invectivado, o fato de o requerente ser militar da reserva e se encontrar recolhido provisoriamente na 4 a Companhia de Engenharia de Combate Mecaniza da comarca de Jardim não implica na competência da justiça castrense para a execução da pena relativa a condenação por delito comum.
+Isso porque, ainda que o apenado estivesse detido provisoriamente em Estabelecimento castrense, havendo a expedição da guia de execução definitiva, por condenação de crime comum, no caso o feminicídio, inaugura-se a competência da Vara da Execução Estadual, a quem cabe a análise dos pleitos defensivos doravante.
+ ..
+Alie-se, consoante verbete da Súmula n. 192/STJ "Compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos a Administração Estadual"
+Em outras palavras, transfere-se ao Juízo do local onde o sentenciado cumpre sua pena a fiscalização da execução da reprimenda, além de todos os incidentes a ele relacionados, a exemplo do pedido de prisão domiciliar, bem como de seu pedido de assistência médica por convênio.
+ ..
+Não comporta acolhida a pretendida prisão domiciliar, tampouco o tratamento médico-hospitalar de sua escolha.
+Com efeito, nos exatos termos do artigo 117, da LEP, afigura-se incabível a concessão de prisão domiciliar àqueles que cumprem pena em regime fechado, sendo seu deferimento medida excepcional a ser concedida mediante condições.
+ ..
+Extrai-se, portanto, que o regime prisional fechado, no qual se encontra o requerente, não lhe confere a possibilidade de recolhimento à prisão domiciliar, já que os casos em que se admite tal modalidade são taxativos e para a concessão do benefício o condenado, necessariamente, deve estar cumprindo a pena em regime prisional aberto.
+Por outro lado, ainda que assim não se interpretasse, é de se ver que o deferimento da prisão domiciliar exige, além da prova da doença extremamente grave, necessário a demonstração de que o réu não possa receber tratamento no estabelecimento prisional em que se encontre, o que, já adianto, não é o caso.
+ ..
+Assim, comprovada a situação excepcional de grave risco, e demonstrando-se a necessidade de assistência médica específica, que não pode ser prestado dentro do estabelecimento prisional, possível a permissão de saída para tratamento médico, situação esta que não se vislumbra.
+ ..
+Com efeito, se o eventual problema de saúde não autoriza a concessão de benefícios na execução da pena, e tão somente a incontestável impossibilidade de tratamento enquanto em custódia estatal, quem dirá a escolha de Profissionais da preferência do apenado, ou o estabelecimento hospitalar que deseja.
+Oportuno destacar que o agravante não faz qualquer prova de que é acometido por doença grave, impossível de ser tratada em estabelecimento prisional. Infere-se, portanto, que inexistem elementos aptos a realçar a imprescindibilidade de cumprimento da pena em regime domiciliar, bem como qualquer prova de que faleça o agravante de alguma moléstia grave, cujo tratamento não é possível intramuros.
+ ..
+Inicialmente, observo que o apenado, militar da reserva, foi condenado pela prática do delito de feminicídio tentado, o que não consubstancia crime militar, pois não se amolda a quaisquer das hipóteses preconizadas no art. 9º, III, do Código Penal Militar. Desse modo, compete à Justiça comum estadual julgar e executar a pena imposta ao paciente.
+Com efeito, como restou consignado no acórdão impugnado, o fato de o paciente ter permanecido detido provisoriamente em estabelecimento militar não desloca a competência da Justiça comum para a Justiça castrense. Ora, o apenado foi processado e julgado pela Justiça comum estadual, logo esta também é competente para executar a pena.
+Lado outro, quanto à concessão de prisão domiciliar, esta Corte Superior de Justiça tem entendimento no sentido de que a prisão domiciliar só é admitida em favor de preso inserido no regime aberto, a teor do que dispõe o art. 117 da Lei de Execução Penal. Contudo, comprovado que o recluso - não obstante cumpra pena nos regimes fechado ou semiaberto - esteja acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não possa ser prestado no ambiente prisional, admite-se, de forma excepcional, sua colocação em prisão domiciliar (AgRg no HC n. 557.255/MG, Ministro Joel Ilan Paciornik, 5ª T., DJe 16/4/2020) (AgRg no AREsp n. 1.961.891/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1/4/2022).
+No caso dos autos, as instâncias ordinárias concluíram que não há efetiva comprovação de que o réu esteja extremamente debilitado (art. 117, II, da LEP) por motivo de grave doença aliado à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra.
+Nesse contexto, alterar as conclusões a que chegaram as instâncias ordinárias, como requer a defesa, demandaria, necessariamente, amplo revolvimento do acervo fático-probatório delineado nos autos, inviável nesta via.
+A propósito, confira -se o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ART. 117 DA LEI DE EXECUÇÃO PENAL. PRISÃO DOMICILIAR. REEDUCANDO EM CUMPRIMENTO DE PENA EM REGIME SEMIABERTO. INSTÂNCIAS ORDINÁRIAS QUE, EM ANÁLISE SOBERANA SOBRE O CONTEXTO FÁTICO-PROBATÓRIO, CONCLUÍRAM NÃO HAVER PERIGO IMINENTE À SAÚDE DO AGRAVANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o Agravante está no cumprimento da pena total de 45 (quarenta e cinco) anos, 2 (dois) meses e 11 (onze) dias de reclusão, atualmente no regime semiaberto, com término previsto para 06/05/2047. Formulado pedido de prisão domiciliar para recuperação de cirurgia realizada no braço do Apenado em 20/05/2023, o pleito foi indeferido pelo Juízo da Execução Penal.
+2. Esta Corte Superior de Justiça tem entendimento no sentido de que, embora o art. 117 da Lei de Execuções Penais estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto desde que configurada a excepcionalidade do caso concreto, com demonstração da imprescindibilidade da medida, situação esta afastada pelas instâncias ordinárias, que, em análise soberana sobre o contexto fático-probatório dos autos, concluíram não haver perigo iminente à saúde do Agravante, uma vez que inexistem, nos autos, "elementos que comprovem ser esta  unidade prisional  incapaz de oferecer os cuidados necessários ao detento" (fl. 13).
+3. Para que se pudesse afastar as conclusões que justificaram o indeferimento do pedido de prisão domiciliar do Agravante, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível na via estreita do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 832.818/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/10/2023 - grifo nosso).
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento ilegal.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. APENADO MILITAR DA RESERVA. CRIME COMUM. AUSÊNCIA DE QUALQUER HIPÓTESE DO ART. 9º, III, DO CPM. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL PARA PROCESSAR, JULGAR E EXECUTAR A PENA. PRISÃO DOMICILIAR. ART. 117 DA LEP. APENADO EM CUMPRIMENTO DE PENA EM REGIME FECHADO. NÃO COMPROVAÇÃO DA EXTREMA DEBILIDADE OU INCAPACIDADE DE RECEBER TRATAMENTO NO ESTABELECIMENTO PRISIONAL ONDE SE ENCONTRA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA.
+Ordem denegada.
