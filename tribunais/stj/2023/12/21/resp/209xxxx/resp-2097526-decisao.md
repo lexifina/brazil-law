@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUNSET CLIFF CONFECÇÃO DE ARTIGOS DE COUROS LTDA. fundado na alínea "a" do permissivo constitucional que, apontando violação dos arts. 489, § 1º, II, 937, I, e 1.022 do CPC/2015, sustenta a nulidade do acórdão proferido pelo TJRJ, por negativa de prestação jurisdicional, porquanto não sanadas as omissões suscitadas nos embargos de declaração referentes à ilegalidade de revogação de isenção onerosa concedida por prazo certo (art. 178 do CTN) ao direito à realização de sustentação oral no julgamento da apelação.
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Os autos foram remetidos ao Ministério Público Federal, que os restituiu sem manifestação sobre o recurso, por entender que a presente demanda dispensa o parecer da Instituição.
+Passo a decidir.
+Extrai-se dos autos que contra o acórdão da apelação a parte recorrente opôs embargos de declaração.
+Esses primeiros aclaratórios não foram conhecidos por decisão monocrática do relator, posteriomente confirmada em sede de agravo interno.
+Na sequência, a recorrente opôs segundos embargos declaratórios, novamente examinados por decisão singular do relator.
+Após essa última decisão, a recorrente manejou o presente recurso especial.
+Nesse contexto, verifico que não houve o necessário exaurimento de instância, pois contra a decisão monocrática que examin ou os segundos aclaratórios ainda caberia recurso no tribunal local, incidindo, portanto, o óbice de conhecimento sedimentado na Súmula 281 do STF.
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA DO RELATOR PROFERIDA EM EMBARGOS DE DECLARAÇÃO. ÓBICE DA SÚMULA 281/STF. EMBARGOS NÃO CONHECIDOS NA ORIGEM POR FALTA DE REGULARIDADE FORMAL. AUSÊNCIA DE EFEITO INTERRUPTIVO. 1. A jurisprudência desta Corte é firme no sentido de que não há exaurimento de instância, para fins de interposição de recurso de natureza extraordinária, quando os aclaratórios opostos contra acórdão são rejeitados por decisão monocrática, uma vez que não foram esgotados todos os meios ordinários possíveis para que o Tribunal a quo decida a questão objeto dos recursos excepcionais.
+2. Os embargos de declaração, quando não conhecidos (o recurso foi considerado inexistente por falta de assinatura do procurador), não interrompem o prazo para interposição de medida recursal posterior. Hipótese de intempestividade do recurso especial.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 909976/SP, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 28/09/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281 DO STF. 1. A previsão constitucional para o recurso especial diz respeito a decisões emanadas de Tribunais, em única ou última instância, o que pressupõe manifestação do colegiado e não apenas do julgador que funciona como relator.
+2. No caso concreto, o recurso especial foi interposto contra decisão monocrática que examinou embargos de declaração, circunstância que evidencia não ter sido exaurida a instância ordinária. Incidência da Súmula 281/STF.
+3. Agravo interno não provido. (AgInt no REsp 1671169/SC, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 06/12/2017)
+PROCESSUAL CIVIL. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO. DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 281 DO STF. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O Superior Tribunal de Justiça possui o entendimento de que é incabível o recurso especial quando não exaurida a instância ordinária, aplicando, por analogia, a dicção da Súmula 281 do STF, que dispõe: "É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada."
+3. Hipótese em que os segundos embargos de declaração - opostos no Tribunal de origem pela parte contrária - foram parcialmente acolhidos por decisão monocrática, sendo essa decisão atacada diretamente por recurso especial, sem que houvesse o manejo de agravo interno, a fim de esgotar a instância a quo. 4. Agravo interno desprovido. (AgInt no AREsp 329336/MG, de minha relatoria, PRIMEIRA TURMA, DJe 06/02/2017)
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
