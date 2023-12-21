@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WASHINGTON LUIS DE SOUSA contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, Relator do HC n. º 2339879-04.2023.8.26.0000, que indeferiu a tutela de urgência lá impetrada e manteve a prisão cautelar do paciente - condenado como incurso no art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais 680 dias-multa.
+Nesta Corte, o impetrante alega, em suma, ausência de fundamentos válidos para a prisão cautelar. Destaca o excesso de prazo para a apreciação da apelação defensiva, bem como a necessidade da perícia no telefone celular do réu para comprovação de sua inocência. Pontua "que o acusado é PRIMÁRIO, de BONS ANTECEDENTES, possui OCUPAÇÃO LÍCITA COMO MOTORISTA DE ÔNIBUS há mais de 20 (vinte) anos".
+Requer a colocação do réu em liberdade.
+É o relatório.
+Decido.
+Nos termos da Súmula 691/STF, não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (AgRg no HC 438.735/MA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018; AgRg no HC 435.454/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/3/2018, DJe 12/4/2018).
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, nos seguintes termos:
+Ou seja, não há elementos que permitam concluir que há flagrante ilegalidade na prisão do paciente. No caso, decisão sucinta, não é decisão desfundamentada. Lembrando que a prisão flagrancial do ora paciente perdurou até a prolação da sentença condenatória, inclusive com habeas corpus julgados que mantiveram a prisão cautelar.
+E a presente impetração argui matéria que diz respeito ao próprio mérito do pleito, escapando, portanto, aos restritos limites de cognição da cautelar, que há de ser deferida apenas nos casos em que exsurge flagrante a ilegalidade afirmada, repita-se. Não se vislumbra, de plano, o fumus boni juris.
+Em tempo, questão relativa à manutenção da apreensão de objetos do delito (aparelhos celulares), após a sentença condenatória do paciente, e elaboração de perícia, ainda está sendo matéria de apreciação no Juízo de origem, pois foram interpostos embargos declaratórios nesse sentido, ainda não julgados (folhas 1144/1145 e 1148 dos autos principais). Assim, não se adentra nessa seara, neste restrito momento, para se evitara supressão de instância.
+Da leitura atenta da decisão impugnada, observa-se que a custódia cautelar, ao que tudo indica, está motivada na garantia da ordem pública. Ademais, a suposta diligência não realizada no celular do réu deixou de ser objeto de exame pelas instâncias ordinárias, não sendo possível a esta Corte o enfrentamento direto da questão. Assim, por ora, não se verifica a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do STJ.
+Publique-se. Intime-se.
+EMENTA
