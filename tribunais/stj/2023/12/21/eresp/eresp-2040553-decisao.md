@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por VIVIANE MACHADO BERLITZ contra acórdão de relatoria da Ministra Regina Helena Costa, proferido pela Primeira Turma, em agravo interno em recurso especial assim ementado:
+"EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. BEM DE FAMÍLIA. IMPENHORABILIDADE. AUSÊNCIA DE COMPROVAÇÃO. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão.
+III - In casu, rever o entendimento do Tribunal de origem, para reconhecer a impenhorabilidade do bem questionado, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (e-STJ fl. 267).
+A embargante alega a existência de dissídio jurisprudencial com julgado da Terceira Turma (REsp nº 1.400.342/RJ, Relatora Ministra Nancy Andrighi, julgado em 8/10/2013, DJe 15/10/2013) deste Tribunal Superior.
+Sustenta, em síntese, divergência jurisprudencial no que diz respeito à impenhorabilidade de bem de família.
+Aduz, ainda, que o acórdão embargado, apesar de ter aplicado o óbice da Súmula nº 7/STJ ao caso, examinou o mérito do recurso especial (fls. 282/299 e-STJ).
+É o relatório.
+DECIDO.
+O recurso não merece ser processado.
+Os embargos de divergência não comportam seguimento na hipótese em que o aresto paradigma adentra o mérito do recurso e o acórdão embargado restringe-se a não conhecê-lo.
+Referido entendimento deve-se ao fato de ser inviável a verificação de similitude fática entre os arestos confrontados caso ao menos um deles verse acerca da aplicação de regra técnica concernente ao conhecimento de recurso especial.
+No caso dos autos, enquanto o acórdão paradigma decidiu o mérito da demanda, o aresto embargado não conheceu da irresignação especial em virtude da incidência da Súmula nº 7/STJ, o que acarreta a inadmissão dos presentes embargos de divergência.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA À REALIZAÇÃO DE EXAME DE RESSONÂNCIA MAGNÉTICA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DISSENSO ENVOLVENDO REGRA TÉCNICA DO RECURSO ESPECIAL. SÚMULA 315/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. DISSÍDIO NÃO CONFIGURADO EMBARGOS INDEFERIDOS LIMINARMENTE. RECURSO DESPROVIDO.
+1. No caso, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7/STJ. Tal situação impede, por si só, o conhecimento dos embargos de divergência, os quais não podem ser admitidos na hipótese de não ter sido analisado o mérito do recurso especial, nos termos do que dispõe a Súmula 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+2. Ademais, constata-se, na espécie, a ausência de similitude fática entre os casos confrontados, uma vez que no acórdão embargado foi ressaltado que o Tribunal de origem entendeu não ser devida a indenização por danos morais pelo fato de a recusa da realização de exame pela operadora do plano de saúde ter decorrido de dúvida razoável a respeito de cláusula contratual, ao passo que, nos precedentes colacionados, foi observado que o dever de reparação por danos extrapatrimoniais decorreu da existência de injusta recusa.
+3. Agravo interno desprovido".
+(AgInt nos EAREsp nº 682.226/PR, rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 8/5/2020)
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA - CONTRATO DE TRANSPORTE VIA AÉREA - AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS E LUCROS CESSANTES ACOLHIDA NA ORIGEM EM RAZÃO DA DEFICIÊNCIA NA PRESTAÇÃO DO SERVIÇO - ACÓRDÃO EMBARGADO - APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ - ACÓRDÃOS PARADIGMAS - JUÍZO DE MÉRITO - INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA - DELIBERAÇÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O APELO RECURSAL. INSURGÊNCIA DA RÉ.
+1. O acórdão embargado - exarado pela eg. Terceira Turma - sem adentrar no exame de mérito da questão subjacente, concluiu pela incidência, na hipótese dos autos, dos enunciados das Súmula nº 7/STJ e 284/STF porquanto inviável, no âmbito do recurso especial, o reexame de fatos e provas utilizados pelo Tribunal de origem para determinar a manutenção da sentença d de procedência do pedido de reparação por danos morais e materiais e lucros cessantes, decorrentes de falha na prestação de serviço de transporte via aérea. Por sua vez, os acórdãos indicados como paradigmas enfrentaram de forma direta, específica e objetiva, o mérito da controvérsia aplicando os dispositivos legais atinentes à hipótese, de modo a inviabilizar o necessário dissídio jurisprudencial entre os acórdãos.
+2. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado - hipótese dos autos - não ultrapassou o juízo de admissibilidade e os julgados paradigmas examinaram o meritório da questão debatida, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados. Precedentes.
+3. Agravo interno desprovido".
+(AgInt nos EREsp nº 1.881.082/PR, rel. Ministro MARCO BUZZI, Segunda Seção, DJe de 23/9/2021)
+Ante o exposto, indefiro liminarmente os presentes embargos de divergência, com fulcro nos arts. 34, XVIII, e 266-C do RISTJ.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
