@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por YASMINIA TOMASEN QUERALTA contra acórdão de relatoria do Ministro Sérgio Kukina, proferido pela Primeira Turma, em agravo interno no recurso especial assim ementado:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. ENSINO SUPERIOR. DIPLOMA DE MEDICINA EXPEDIDO NO EXTERIOR. NECESSIDADE DE REVALIDAÇÃO. TEMA 615/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente, de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Em se tratando de tema inédito, agitado tão somente em sede de agravo interno, resta caracterizada a existência de inovação recursal, que não pode ser analisada na presente fase recursal.
+3. Nos casos em que se discute a necessidade de revalidação de diploma de medicina expedido por instituição de ensino cubana, antes da edição da Lei n. 9.396/96, este Superior Tribunal tem afastado a existência de distinguishing, reafirmando a incidência da orientação vinculante constante do Tema 615/STJ.
+4. Agravo interno parcialmente conhecido e, nessa extensão, não provido" (e-STJ fl. 540 ).
+A parte embargante alega a existência de dissídio jurisprudencial com julgado da Quarta Turma (REsp nº 972.849/RN) assim ementado:
+"PROCESSUAL CIVIL. DIVERGÊNCIA JURISPRUDENCIAL. PRESSUPOSTOS. ARTS. 541, PARÁGRAFO ÚNICO, DO CPC E 255, § 2º, DO RISTJ. DECISÃO EXTRA PETITA. NÃO-OCORRÊNCIA. ART. 128 DO CPC. AUSÊNCIA DE OFENSA. PRINCÍPIOS JURA NOVIT CURIA E DA MIHI FACTUM, DABO TIBI JUS.
+1. A não-demonstração, mediante o devido cotejo analítico, da existência de similitude das circunstâncias fáticas e do direito aplicados no acórdão recorrido e nos arestos paradigmas implica o desatendimento de requisitos indispensáveis à comprovação do dissídio jurisprudencial, a teor dos arts. 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do Regimento Interno do STJ.
+2. É inexeqüível o alcance da divergência sob o enfoque de contrariedade ao art. 128 do CPC, porquanto aferir a ocorrência ou não de sobreposição aos limites fixados no referido preceito envolve juízo que, justamente por depender das especificidades inerentes a cada conflito de interesses, deve se restringir ao caso concreto.
+3. Dirimidas, fundamentadamente, as questões suscitadas pelas partes e nos limites em que circunscrita a demanda, não há por que cogitar de julgamento extra petita nem de ofensa ao art. 128 do Código de Processo Civil.
+4. Com base nos fatos narrados pela parte na peça preambular, cabe o magistrado atribuir a qualificação jurídica que tenha correspondência à solução do litígio diante do princípio jura novit curia, pelo qual se pressupõe o seu conhecimento do direito, cuja relevância reflete postulado de igual matiz: da mihi factum dato tibi jus (exponha o fato e direi o direito).
+5. Recurso especial não-conhecido" (Relator Ministro João Otávio de Noronha, julgado 28/10/2008, DJe 10/11/2008).
+Sustenta, em síntese, que
+"(..) com base nos fatos narrados pela parte na petição inicial, cabe o magistrado atribuir a qualificação jurídica que tenha correspondência à solução do litígio diante do princípio jura novit curia, pelo qual se pressupõe o seu conhecimento do direito, cuja relevância reflete postulado de igual matiz: da mihi factum dato tibi jus(exponha o fato e direi o direito)" (e-STJ fl. 563).
+É o breve relatório.
+DECIDO.
+Os embargos de divergência devem ser indeferidos, tendo em vista que não foram atendidos os requisitos necessários à demonstração da divergência alegada, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do Regimento Interno do STJ (com a redação dada pela emenda regimental 22/2016).
+Os presentes embargos carecem da demonstração da similitude fática entre o acórdão embargado e o julgado apontado como paradigma.
+Isso porque no acórdão embargado decidiu-se que houve inovação recursal, porque o tema foi trazido a debate apenas em sede de agravo interno.
+Já o acórdão paradigma julgou no sentido de que, "com base nos fatos narrados pela parte na peça preambular, cabe o magistrado atribuir a qualificação jurídica que tenha correspondência à solução do litígio diante do princípio jura novit curia, pelo qual se pressupõe o seu conhecimento do direito, cuja relevância reflete postulado de igual matiz: da mihi factum dato tibi jus (exponha o fato e direi o direito)" (e-STJ fl. 587).
+Nota-se não ter a parte embargante demonstrado que os elementos fáticos analisados naquele caso e nos precedentes citados ao longo dos embargos se assemelham, o que basta para obstar o conhecimento do recurso.
+Nesse sentido: AgInt nos EREsp 1.448.317/CE (Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 20/10/2020, DJe 23/10/2020) e AgInt nos EDcl nos EAREsp 1.491.060/SP (Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 13/10/2020, DJe 20/10/2020).
+Ressalta-se, por fim, que "a divergência que enseja a oposição dos embargos - via recursal destinada a espancar possível dissídio no âmbito desta Corte Superior, cuja principal função, afinal, é justamente a uniformização da interpretação do direito federal infraconstitucional -, é aquela estabelecida em hipóteses análogas, vale dizer: deve-se demonstrar que, diante de situações fático-processuais semelhantes, as soluções jurídicas dadas não foram as mesmas" (AgRg nos EDcl nos EREsp 1.449.212/RN, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 18/11/2015, DJe 16/12/2015).
+Ante o exposto, com fundamento no art. 266-C do Regimento Interno desta Corte, indefiro liminarmente os embargos de divergência.
+Na origem, os honorários sucumbenciais foram fixados em 13,2% sobre o valor da condenação, os quais devem ser majorados para o patamar de 16% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
