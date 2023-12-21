@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por RAGHIANT, TORRES & MEDEIROS ADVOGADOS ASSOCIADOS S/S, em face de decisão monocrática da lavra deste signatário (fls. 783-787, e-STJ), que deu parcial provimento ao recurso especial do ora embargado.
+Inconformado, o insurgente opõe os presentes embargos de declaração (fls. 790-793, e-STJ), aduzindo omissão no julgado, sob os seguintes fundamentos: i) impossibilidade de decisão na forma monocrática, pois o feito deveria ter sido submetido ao colegiado, tendo em vista que as hipóteses de julgamento monocrático, são taxativas e previstas no artigo 932, IV, do CPC, e ii) não há as omissões reconhecidas, pois os pontos: liquidação e índice a ser aplicado, teriam sido analisados pelo Tribunal de origem, embora de forma contrária ao interesse postulado, devendo ser improvido o recurso especial.
+Não foi apresentada impugnação (fls. 800-801, e-STJ).
+É o relatório.
+Decido.
+Os aclaratórios não merecem acolhimento.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS, ESTÉTICOS, MATERIAIS E LUCROS CESSANTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.133.484/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)  grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. HOME CARE. NEGATIVA DE COBERTURA. ABUSIVIDADE. LIMITAÇÃO DE SESSÕES. IMPOSSIBILIDADE. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. A taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção ao examinar os EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, por não configurar procedimento, evento ou medicamento diverso daqueles já previstos pela agência.
+4.A jurisprudência desta Corte entende abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS (AgInt no AgInt no AREsp n. 1.696.364/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 31/8/2022).
+5. Ante a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula 283 do STF.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.021.667/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)  grifou-se
+2. Destaca-se que, consoante a jurisprudência deste Tribunal, a competência regimental permite ao relator dar provimento ao recurso especial nas hipóteses previstas no artigo 932, inc. V, do CPC/15.
+No caso em tela, a decisão monocrática apontou entendimento jurisprudencial quanto à possibilidade de reconhecimento de ofensa ao artigo 1022 do CPC. Ademais, a possibilidade de interposição de recurso em desafio à decisão singular afasta qualquer ofensa ao princípio da colegialidade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DE RELATOR QUE RECONSIDERA DECISÃO ANTERIOR PARA CONHECER DO RECURSO ESPECIAL E DAR PARCIAL PROVIMENTO. NULIDADE. INEXISTÊNCIA. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. REENQUADRAMENTO JURÍDICO DOS FATOS ESTABELECIDOS NO ACÓRDÃO RECORRIDO. POSSIBILIDADE. AÇÃO DE COBRANÇA DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PROCEDÊNCIA DO PEDIDO. HONORÁRIOS CONTRATUAIS AD EXITUM. RENÚNCIA AO MANDATO NO CURSO DA AÇÃO. COBRANÇA ANTECIPADA ADMITIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. CONDIÇÃO SUSPENSIVA NÃO IMPLEMENTADA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS AGRAVO DESPROVIDO.
+1. O Relator está autorizado a dar provimento a recurso por decisão monocrática quando o acórdão recorrido estiver em confronto com a jurisprudência dominante do STJ acerca do tema (RISTJ, art. 253, parágrafo único, II, c). A possibilidade de julgamento monocrático não foi eliminada com o advento do Código de Processo Civil de 2015, conforme se verifica no art. 932, III, IV e V. Não há ofensa ao princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso próprio, inclusive com sustentação oral, nos termos do previsto na Lei 14.365/2022.
+2. A valoração jurídica dos fatos, baseada nas premissas estabelecidas pela Corte de origem, como ocorre no presente caso, não implica a incidência da Súmula 7/STJ. Precedentes.
+3. Nos termos da jurisprudência desta Corte, "Os honorários advocatícios pactuados com a cláusula de êxito são exigíveis apenas a partir do implemento da condição suspensiva, mesmo nos casos de revogação do mandato no curso da demanda." (AgInt no REsp 1.704.707/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/09/2021, DJe de 24/09/2021).
+4. A redistribuição dos ônus sucumbenciais, com a alteração dos honorários advocatícios sucumbenciais fixados na origem, é mera consequência lógica do provimento parcial do recurso e do decaimento da autora em parte de seu pedido, não havendo que se falar em julgamento extra petita.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.997.699/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2022, DJe de 24/10/2022.)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. NÃO RENOVAÇÃO. POSSIBILIDADE. ABUSIVIDADE. INOCORRÊNCIA. PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO: RESP N.º 880.605/RN. JURISPRUDÊNCIA CONSOLIDADA.
+1. Em consonância com o enunciado 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Plena possibilidade de julgamento monocrático do especial, tendo em conta a aplicação de orientação que passou a dominar nesta Corte Superior acerca da questão de fundo.
+2. Não há falar em atração do enunciado 7/STJ, pois não se alterou absolutamente em nada o contexto fático probatório definido na origem, senão com base nele se interpretou a legislação incidente para, então, concluir pela afronta aos artigos de lei indicados.
+3. A Segunda Seção deste Superior Tribunal de Justiça, quando do julgamento do REsp nº 880.605/RN (DJe 17/9/2012), pacificou o entendimento de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo (apólices 21.426 e 20.779) por qualquer dos contratantes desde que haja prévia notificação em prazo razoável e, ainda, oferecimento de alternativa ao grupo de segurados. Precedente a ser observado.
+4. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp n. 1.504.439/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 5/12/2017, DJe de 19/12/2017.)  grifou-se
+2. Por fim, no caso, o embargante manifesta mera inconformidade com a decisão proferida. Porém, consoante se observa do decisum, referida questão não se amolda nas hipóteses previstas no artigo 1022 do CPC.
+A decisão embargada se baseou no retorno à origem por ofensa ao artigo 1022 do CPC, decorrente de não enfrentamento de questão em sede de embargos de declaração. E, para tanto, concluiu que (fl. 785, e-STJ):
+Já quanto às alegações de: i) necessidade de liquidação prévia do crédito exequendo, e ii) impossibilidade de utilização do IGP-M como índice de correção; verifica-se que referidas questões foram levadas à apreciação da Corte local, nos embargos de declaração, porém o Tribunal não as apreciou.
+Assim, embora tenha sido apontado o vício nos embargos de declaração pelo recorrente, não se vislumbra no acórdão recorrido a análise detida das referidas alegações.
+Assim, acolheu a preliminar de ofensa ao artigo 1022 do Código de Processo Civil, posto que não enfrentada as questões aduzidas no agravo de instrumento (fls. 1-32, e-STJ) e nos embargos de declaração (fls. 75-82, e- STJ).
+Assim, as razões dos embargos revelam tão somente o intuito de reapreciação da questão já decidida, o que não se admite com a objetividade do recurso manejado. É que, a pretexto de omissão, na verdade, pretende a modificação do decisum, cuja via processual é inadequada.
+Como se vê, a pretensão do insurgente não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer vício que a decisão embargada tenha incorrido.
+Portanto, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/15 na decisão hostilizada.
+3. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento processual.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+4 . Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
