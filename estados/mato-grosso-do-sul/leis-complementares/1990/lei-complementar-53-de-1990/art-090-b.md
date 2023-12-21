@@ -1,0 +1,5 @@
+Art. 90-B. A partir de 1º de janeiro de 2022, a transferência para a reserva remunerada, a pedido, dos militares estaduais de carreira do serviço ativo, que tenham ingressado na Corporação até 16 de dezembro de 2019 e que não tenham adquirido o direito previsto no caput do art. 90-A desta Lei Complementar, será concedida, por meio de requerimento, nas seguintes condições:
+I - com os proventos integrais do correspondente posto ou graduação, para os militares que, cumulativamente:
+a) cumpram o tempo de serviço correspondente previsto no inciso I do caput do art. 90-A desta Lei Complementar, acrescido de 17% (dezessete por cento) do tempo faltante;
+b) contem com, no mínimo, 25 (vinte e cinco) anos de exercício de atividade de natureza militar, acrescidos de 4 (quatro) meses a cada ano faltante para atingir o tempo de serviço previsto no inciso I do caput do art. 90-A desta Lei Complementar, limitado a 5 (cinco) anos de acréscimo;
+II - com os proventos proporcionais, por ano de serviço, do correspondente posto ou graduação, para os militares que contem com, no mínimo, 20 (vinte) anos de efetivo serviço.

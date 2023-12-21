@@ -1,0 +1,1 @@
+Art. 55-A. Para ser promovido, é necessário que o policial militar satisfaça os requisitos essenciais estabelecidos nesta Lei, para cada posto ou graduação e em legislação específica, se houver, e que esteja em pleno exercício de seus direitos e não possua impedimentos de ordem legal.

@@ -1,0 +1,4 @@
+Art. 59-A. Poderá ser concedido ao militar sujeito ao regime de trabalho de dois turnos de, no mínimo, 36 (trinta e seis) horas semanais, e que tenha cônjuge, filho ou dependente pessoa com deficiência, comprovada por laudo médico, o afastamento em um dos turnos de trabalho.
+§ 1º O afastamento de que trata o caput deste artigo dependerá de requerimento do militar no setor de recursos humanos do órgão competente, acompanhado de laudo médico atestando a necessidade de assistência direta do militar à pessoa com deficiência e de cópia de documento que comprove a dependência.
+§ 2º O afastamento será concedido pelo prazo de 1 (um) ano, podendo ser renovado, enquanto perdurar a situação, observado o disposto no § 1º deste artigo.
+§ 3º O afastamento de que trata o caput deste artigo, na hipótese de os responsáveis serem servidores públicos, será concedido apenas para um deles.

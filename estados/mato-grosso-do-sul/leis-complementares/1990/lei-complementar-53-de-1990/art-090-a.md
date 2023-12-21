@@ -1,0 +1,3 @@
+Art. 90-A. É assegurado aos militares estaduais de carreira do serviço ativo, que tenham ingressado na Corporação até 16 de dezembro de 2019, a qualquer tempo, por meio de requerimento, o direito adquirido na concessão de transferência para a reserva remunerada, a pedido, desde que tenham sido cumpridos, até 31 de dezembro de 2021, os requisitos de tempo de serviço, nas seguintes condições:
+I - com os proventos integrais do correspondente posto ou graduação, para os militares com, no mínimo, 30 (trinta) anos de serviço, se homem, e 25 (vinte e cinco) anos de serviço, se mulher;
+II - com os proventos proporcionais, por ano de serviço, do correspondente posto ou graduação, para os militares que contem, no mínimo, 20 (vinte) anos de efetivo serviço.

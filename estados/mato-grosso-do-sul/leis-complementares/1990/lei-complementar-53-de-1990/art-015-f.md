@@ -1,0 +1,1 @@
+Art. 15-F. As eventuais frações decorrentes da aplicação dos percentuais mencionados no inciso I do § 1º do art. 15-A e no inciso I do § 1º do art. 15-B serão completadas em favor do critério de antiguidade.

@@ -1,0 +1,1 @@
+Art. 110-A. As praças que passarem a exercer cargo ou emprego público permanente, estranho à sua carreira, serão imediatamente licenciadas ex offício, sem remuneração, e terão a sua situação definida pela Lei do Serviço Militar.
