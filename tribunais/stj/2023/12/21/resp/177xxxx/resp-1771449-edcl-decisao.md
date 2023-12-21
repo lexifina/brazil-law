@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por THIAGO ROSSI ORTEGA e OUTROS contra decisão monocrática desta Relatoria que negou provimento ao recurso especial.
+Em suas razões, alegam os embargantes que é equivocada a conclusão do STJ constante na decisão embargada de o Tribunal a quo teria entendido pela anuência dos embargantes quanto à cobrança de taxas e tarifas, visto que ausente qualquer prova da expressa pactuação, não podendo ser presumida e/ou reconhecida de forma implícita a anuência em relação de consumo.
+Intimado, o embargado não apresentou impugnação (e-STJ fl. 267)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, os embargantes alegam equívoco na decisão embargada, pois o TJPR não poderia concluir pela existência de pactuação quanto a taxas e tarifas sem a juntada de autorização expressa do consumidor.
+Ocorre que, nas razões do recurso especial, os recorrente não apontaram a ofensa a quaisquer dispositivos relativos à legalidade da cobrança das taxas e tarifas, mas apenas ofensa ao art. 1.022 do CPC, sob o argumento de que a Corte de origem não teria se manifestado sobre a ausência de comprovação da origem dos débitos sob os códigos 63, 68 e 80.
+Ocorre que sobre a negativa de prestação jurisdicional pela à ausência de comprovação da origem dos débitos sob os códigos 63, 68 e 80 e à ausência de expressa solicitação dos correntistas para destinação dos seus recursos, a Corte de origem consignou:
+"Ressalto que o recente posicionamento desta c. Câmara Cível referente aos débitos relacionados aos códigos 63, 68 e 80, é no sentido de considerar que os lançamentos foram realizados em proveito do próprio correntista e não se confundem com pagamento de tarifas ou taxas bancárias pelos serviços prestados pelo Banco. Ademais, não foram impugnados de forma objetiva, alegando-se apenas a falta de expressa autorização.
+(..)
+Ainda, embora não impugnadas especificadamente no presente apelo, registro que não estão sujeitos à restituição aqueles códigos não considerados como tarifas bancárias, pois, em que pese a ausência de prova de que o correntista anuiu à cobrança destas operações, não são tarifas bancárias, mas sim contraprestações aos serviços prestados pela instituição econômica, de modo que fica vedada a restituição, sob pena de enriquecimento ilícito." (e-STJ fl. 119/125 )
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte." (e-STJ fls. 250)
+Como visto, a Corte de origem consignou que os códigos em questão não são tarifas bancárias e a questão relativa à legalidade da cobrança das taxas e tarifas em si não foi fundamentadamente abordada nas razões de recurso especial, não havendo, portanto, que se falar em omissão.
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
