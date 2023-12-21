@@ -1,0 +1,6 @@
+Art. 136. Os Estados que possuíam, em 30 de abril de 2023, fundos destinados a investimentos em obras de infraestrutura e habitação e financiados por contribuições sobre produtos primários e semielaborados estabelecidas como condição à aplicação de diferimento, regime especial ou outro tratamento diferenciado, relativos ao imposto de que trata o art. 155, II, da Constituição Federal, poderão instituir contribuições semelhantes, não vinculadas ao referido imposto, observado que:
+I - a alíquota ou o percentual de contribuição não poderão ser superiores e a base de incidência não poderá ser mais ampla que os das respectivas contribuições vigentes em 30 de abril de 2023;
+II - a instituição de contribuição nos termos deste artigo implicará a extinção da contribuição correspondente, vinculada ao imposto de que trata o art. 155, II, da Constituição Federal, vigente em 30 de abril de 2023;
+III - a destinação de sua receita deverá ser a mesma das contribuições vigentes em 30 de abril de 2023;
+IV - a contribuição instituída nos termos do caput será extinta em 31 de dezembro de 2043.
+Parágrafo único. As receitas das contribuições mantidas nos termos deste artigo não serão consideradas como receita do respectivo Estado para fins do disposto nos arts. 130, II, "b", e 131, § 2º, I, "b", deste Ato das Disposições Constitucionais Transitórias.
