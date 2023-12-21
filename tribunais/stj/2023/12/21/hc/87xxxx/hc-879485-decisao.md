@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Bruno Lopes de Carvalho, condenado pelo crime de tráfico de drogas (7,68 g de cocaína) a 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa - atacando-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais que não conheceu da impetração (HC n. 1.0000.23.090349-4/000 - fls. 18/23), mantendo a condenação do paciente proferida na Ação Penal n. 0116.18.001982-4 (fls. 9/15 - CNJ n. 0019824-21.2018.8.13.0116), da Vara Única da comarca de Campos Gerais/MG, retificada a dosimetria no acórdão da apelação (fl. 20) -, não comporta processamento.
+Com efeito, busca a impetração seja cassada a decisão do tribunal de Justiça e determinar ao Relator na origem que reinicie a apreciação do HC n. 1.0000.23.090349-4/000 como entender de direito, afastada a conclusão de que não é cabível o habeas corpus em substituição ao pedido revisional (fl. 8), ao argumento de que não há óbice ao manejo do remédio heroico -previsto constitucionalmente (art. 5.º, inciso LXVIII) - na origem (fl. 3).
+Entretanto, tem-se que não foi demonstrado o alegado constrangimento ilegal, pois o entendimento desta Corte é no sentido de que não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal (AgRg no HC n. 815.160/PR, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe 15/12/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (7,68 G DE COCAÍNA). PRETENSÃO DE DETERMINAÇÃO DE JULGAMENTO DE MÉRITO DE WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL NA CORTE ESTADUAL. IMPOSSIBILIDADE. PRECEDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
