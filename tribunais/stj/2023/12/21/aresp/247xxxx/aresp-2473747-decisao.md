@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte (fl. 98, e-STJ):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSELHO REGIONAL DE MEDICINA DO ESTADO DE SÃO PAULO. COBRANÇA DE ANUIDADES. AUSENCIA DE COMPROVACAO DA NOTIFICACAO DO CONTRIBUINTE. NULIDADE DA CDA. RECONHECIMENTO EX OFFICIO. APELAÇÃO DESPROVIDA.
+1. A questão devolvida a esta E. Corte diz respeito à necessidade de notificação do lançamento das anuidades cobradas pelo Conselho Profissional.
+2. Acerca da controvérsia, entende o STJ que as anuidades devidas aos conselhos profissionais constituem contribuições de interesse das categorias profissionais e estão sujeitas a lançamento de ofício, que apenas se aperfeiçoa coma notificação do contribuinte para efetuar o pagamento do tributo e o esgotamento das instâncias administrativas, em caso de recurso. É necessária a comprovação da remessa da comunicação. Do contrário, considera-se irregularmente constituído o título executivo, e elidida a presunção de certeza e a liquidez de que goza a certidão de dívida ativa. Nesse sentido, é suficiente, mas necessária, a comprovação da remessado carnê com o valor da anuidade para a constituição do crédito tributário a partir da data de vencimento. Precedentes (AgInt no AREsp n. 2.057.234/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022 / AgIntno AREsp n. 1.962.557/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022 / AgInt no REsp n. 1.929.078/RS, rel. Min. , Primeira Turma, julgado em 21/6/2021, DJe de 24/6/2021 / STJ, Segunda Turma, REsp nº1235676/SC, 2011/0017826-4, Rel. Ministro Mauro Campbell Marques, j. 07.04.2011,DJe 15.04.2011).
+3. No caso vertente, o MM. Juízo extinguiu a execução ante a não a quo comprovação da notificação válida dos lançamentos que constituíram a CDA. O exequente, em sua apelação, apenas refutou a possibilidade de reconhecimento da nulidade , à luz da legislação processual e tributária, bem como repisou seu ex officio direito à persecução do crédito sem a observância da formalidade. Juntou capturas detela de seu sistema interno (ID 270884297) o que, entretanto, não se presta a demonstrar a remessa dos boletos.
+4. Assim, ante o descumprimento da exigência de comprovação da remessa da notificação ao contribuinte, expressamente delineada na farta e recente jurisprudência do STJ, é de ser mantida a sentença extintiva. Isso porque a higidez do título executivo é matéria de ordem pública, podendo ser suscitada de ofício pelo julgador. Precedentes desta E. Corte (TRF 3ª Região, 3ª Turma, Ap Civ - APELAÇÃOCÍVEL - 5001396-50.2020.4.03.6128, Rel. Desembargador Federal NELTONAGNALDO MORAES DOS SANTOS, julgado em 20/08/2021, DJEN DATA: 24/08/2021/ TRF 3ª Região, 3ª Turma, AC 00454905520104036182, Rel. Des. Fed. CECÍLIAMARCONDES, Julgado em 25/05/2013, e-DJF3 Judicial 1 DATA:29/05/2013 / TRF 3ª Região, 4ª Turma, Ap - APELAÇÃO CÍVEL - 2155158 / SP 0015712-25.2016.4.03.9999,Rel. Des. Fed. MARCELO SARAIVA, julgado em 18/04/2018, e - DJF3 Judicial 1 DATA:30/05/2018 / TRF 3ª Região, 4ª Turma, ApCiv - APELAÇÃO CÍVEL -0002443-05.2010.4.03.6126, Rel. Desembargador Federal MONICA AUTRANMACHADO NOBRE, julgado em 03/03/2020, e - DJF3 Judicial 1 DATA: 06/03/2020).
+5. Apelação desprovida.
+No Recurso Especial, o agravante sustenta que ocorreu, além de divergência jurisprudencial, violação do art. 3º, parágrafo único, da Lei de Execução Fiscal c/c o art. 204 do Código Tributário Nacional. Aduz que "(..) a não comprovação do lançamento nos autos, pelo EXEQUENTE, implica na conclusão de que não houve a constituição do crédito, contraria expressa disposição de lei federal, bem como fere denso repositório jurisprudencial do Superior Tribunal de Justiça, segundo o qual milita em favor do fisco a presunção de certeza e liquidez do título executivo" (fl. 173, e-STJ).
+Sem contrarrazões.
+A inadmissão do Recurso (fls. 198-200, e-STJ) deu ensejo à interposição do Agravo de fls. 201-212, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18 de dezembro de 2023.
+A irresignação não merece prosperar.
+Ao dirimir a controvérsia, a Corte regional consignou (fls. 139-148, e-STJ):
+A questão devolvida a esta E. Corte diz respeito à necessidade de notificação do lançamento das anuidades cobradas pelo Conselho Profissional.
+Acerca da controvérsia, entende o STJ que as anuidades devidas aos conselhos profissionais constituem contribuições de interesse das categorias profissionais e estão sujeitas a lançamento de ofício, que apenas se aperfeiçoa coma notificação do contribuinte para efetuar o pagamento do tributo e o esgotamento das instâncias administrativas, em caso de recurso. É necessária a comprovação da remessa da comunicação. Do contrário, considera-se irregularmente constituído o título executivo, e elidida a presunção de certeza e a liquidez de que goza a certidão de dívida ativa.
+Nesse sentido, é suficiente, mas necessária, a comprovação da remessado carnê com o valor da anuidade para a constituição do crédito tributário a partir da data de vencimento. Veja-se:
+(..)
+No caso vertente, o MM. Juízo a quo extinguiu a execução ante a não comprovação da notificação válida dos lançamentos que constituíram a CDA. O exequente, em sua apelação, apenas refutou a possibilidade de reconhecimento da nulidade ex officio, à luz da legislação processual e tributária, bem como repisou seu direito à persecução do crédito sem a observância da formalidade. Juntou capturas de tela de seu sistema interno (ID 270884297) o que, entretanto, não se presta a demonstrar a remessa dos boletos.
+Assim, ante o descumprimento da exigência de comprovação da remessada notificação ao contribuinte, expressamente delineada na farta e recente jurisprudência do STJ, é de ser mantida a sentença extintiva. Isso porque a higidez do título executivo é matéria de ordem pública, podendo ser suscitada de ofício pelo julgador. É nesse sentido também a jurisprudência desta E. Corte:
+(..)
+Em face do exposto, nego provimento à apelação.
+Desse modo, constata-se que o acórdão recorrido alinha-se à atual orientação do Superior Tribunal de Justiça, motivo pelo qual não merece prosperar a irresignação.
+Nesse sentido, os recentes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL AJUIZADA POR CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. CONSTITUIÇÃO REGULAR DO CRÉDITO. NOTIFICAÇÃO. NECESSIDADE DE COMPROVAÇÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A controvérsia do recurso de agravo interno está restrita à necessidade de comprovação da regular constituição do crédito, mediante apresentação de prova documental por determinação judicial.
+2. O TRF da 4ª Região reconheceu a nulidade da Certidão de Dívida Ativa em virtude de não ter sido comprovada a constituição do crédito tributário.
+3. Esta Corte Superior tem entendido que as anuidades devidas aos conselhos profissionais estão sujeitas a lançamento de ofício. O entendimento também estabelece que o aperfeiçoamento ocorre com a notificação do contribuinte para efetuar o pagamento do tributo e o esgotamento das instâncias administrativas.
+4. A comprovação pelo conselho de classe profissional da regularidade da notificação do executado é considerado requisito indispensável para a presunção de certeza e liquidez do título executivo em comento.
+5. Agravo Interno a que se nega provimento.
+(AgInt no REsp 1.936. 342/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 5/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO FISCAL. ANUIDADES. CONSELHO PROFISSIONAL. CONSTITUIÇÃO DO CRÉDITO. NOTIFICAÇÃO. NECESSIDADE.
+1. "As anuidades devidas aos conselhos profissionais constituem contribuições de interesse das categorias profissionais e estão sujeitas a lançamento de ofício, que apenas se aperfeiçoa com a notificação do contribuinte para efetuar o pagamento do tributo e o esgotamento das instâncias administrativas, em caso de recurso. É necessária a comprovação da remessa da comunicação. Do contrário, considera-se irregularmente constituído o título executivo, e elididas a certeza e a liquidez presumidamente conferidas à certidão de dívida ativa" (STJ, REsp 1.788.488/RS, Rel. Ministro OF FERNANDES, SEGUNDA TURMA, DJe de 08/04/2019).
+2. Agravo interno não provido.
+(AgInt no AREsp 1.920.440/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 2/12/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. ANUIDADES. CONSTITUIÇÃO REGULAR DO CRÉDITO. NOTIFICAÇÃO. NECESSIDADE. REEXAME DE PROVAS. INVIABILIDADE.
+1. Segundo a jurisprudência deste Superior Tribunal de Justiça, entende-se que "a ausência da notificação administrativa implica o reconhecimento da irregularidade na constituição do crédito, afastando, portanto, a presunção de certeza e de exigibilidade de que goza a Certidão de Dívida Ativa, cabendo ao Conselho a prova de que efetuou a devida notificação ao executado" (AgInt no AREsp 1.628.478/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 08/06/2020, DJe 17/06/2020).
+2. A conformidade do acórdão regional recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+3. Modificar o entendimento do Tribunal a quo, para entender que o lançamento foi regularmente efetuado, como requer o recorrente, pressupõe reexame de matéria fática, o que é inviável no âmbito do recurso especial, consoante o veto contido na Súmula 7 do STJ.
+4. Agravo Interno desprovido.
+(AgInt no AREsp 1.776.591/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 9/12/2021)
+Ademais, dessume-se que o presente Recurso pretende modificar as conclusões a que chegou o Tribunal a quo não por meio da interpretação da norma legal, mas da revisão de documentos e fatos já cristalizados em dois graus de jurisdição. O revolvimento do acervo fático-probatório constante dos autos, contudo, é vedado em Recurso Especial ante o óbice previsto na Súmula 7/STJ. Portanto, se a ofensa ao dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do aresto impugnado, inviável o apelo nobre.
+Vejam-se os precedentes:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. NULIDADE. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. CONCLUSÃO DO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+1. O Tribunal de origem, com base no acervo probatório dos autos afirmou: "Nos autos não há documento que ateste a efetiva notificação do executado para oferecer sua defesa".
+2. Alterar o entendimento do acórdão recorrido demandaria o revolvimento do conteúdo fático-probatório, o que não se admite no apelo nobre, a teor do verbete n. 7 das Súmulas do STJ.
+3. Agravo interno não conhecido.
+(AgInt no REsp 1.686.444/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 26/4/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. ARTS. 2º, 6º E 41 DA LEI DE EXECUÇÃO FISCAL. ART. 202 DO CÓDIGO TRIBUTÁRIO NACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. AFERIÇÃO DA CERTEZA E LIQUIDEZ DA CDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+3. Hipótese em que o Tribunal de origem, ao apreciar o contexto fático dos autos, consignou: "a jurisprudência desta Corte entende que a não comprovação da regular notificação do lançamento ao contribuinte pelo Conselho Profissional Exequente, enseja a nulidade do lançamento do crédito tributário, invalidando o título executivo e, por consequência, extinguindo a execução fiscal (..) Assim, tratando-se de documentação necessária à análise da certeza e liquidez da Certidão de Dívida Ativa, cabível que o Juízo a quo determine que o Conselho exequente apresente a notificação do executado. Ante o exposto, voto no sentido de negar provimento ao agravo de instrumento" (fls. 103-104, e-STJ, grifei).
+4. A revisão desse entendimento demanda nova análise dos elementos fático-probatórios, o que esbarra no óbice da Súmula 7/STJ. Precedentes: REsp 1.644.180/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19.4.2017; e AgInt no REsp 1.618.792/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19.12.2016.
+5. Recurso Especial não conhecido.
+(REsp 1.693.671/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/10/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. ANUIDADES. (..) REQUISITOS CONSTITUTIVOS DO TÍTULO EXECUTIVO. CONHECIMENTO DE OFÍCIO PELAS INSTÂNCIAS ORDINÁRIAS. POSSIBILIDADE. AFERIÇÃO DA CERTEZA E LIQUIDEZ DA CDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+3. O STJ tem jurisprudência firmada no sentido de "ser possível o conhecimento de ofício pelas instâncias ordinárias das questões referentes aos requisitos constitutivos do título executivo (certeza, liquidez e exigibilidade), porquanto trata-se de matéria de ordem pública que não se submete aos efeitos da preclusão." (AgRg no REsp 1.350.305/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 5/2/2013, DJe 26/2/2013).
+4. É assente na jurisprudência do STJ que a aferição da certeza e liquidez da CDA, bem como da presença ou não dos requisitos essenciais à sua validade implica reexame do conjunto fático-probatório dos autos, o que é vedado, nesta instância especial, em face do óbice constante da Súmula 7/STJ. Precedentes: AgRg no REsp 1.434.773/PR, Rel. Min. Humberto Martins, DJe de 25.8.2015; AgRg no AREsp 392.057/RS, Rel. Min. SÉRGIO KUKINA, DJe 21.8.2015.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.644.180/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/4/2017)
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nessa senda:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. RESSARCIMENTO AO SUS. TABELA TUNEP. INSCRIÇÃO NO CADIN. ANTECIPAÇÃO DE TUTELA. PRESSUPOSTOS. REEXAME DE PROVAS. AGRAVO REGIMENTAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. DECISÃO AGRAVADA. ALICERCE INATACADO. SÚMULA 182/STJ. NÃO-CONHECIMENTO DO RECURSO PELA ALÍNEA A. DISSÍDIO PRETORIANO PREJUDICADO.
+(..)
+5. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 24/9/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 53 DO CP. SÚMULA 284/STF. VIOLAÇÃO DO ART. 5º, DA LEI 9.71/98. ACÓRDÃO FUNDAMENTADO EM LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+(..)
+3. Resta prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo regimental não provido.
+(AgR no AREsp 34.860/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/9/2013)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
