@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo SINDICATO DOS TRABALHADORES FEDERAIS EM SAÚDE E PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ SINPRECE em face da decisão monocrática de fls. 480-481, que extinguiu a execução pelo cumprimento .
+O agravante aduz que os valores pagos nos autos, indicados na certidão de fl. 342, decorreram de atualização com aplicação da TR como índice de correção monetária de julho/2009 a agosto/2017, tendo em vista que, à época, o Supremo Tribunal Federal ainda não tinha se manifestado claramente sobre o índice adequado. Acrescenta que requereu, às fls. 250-251, que se desse seguimento ao pagamento dos valores apurados pela TR, sendo "resguardado para um momento seguinte a satisfação de eventuais diferenças devidas com a aplicação do IPCA-e tão logo ocorra o julgamento do RE n.º 870.947/SE". Destaca que o cálculo das diferenças entre a aplicação da TR e do IPCA-e já vem sendo determinado em outros processos oriundos do mesmo título. Requer seja dado provimento ao recurso e sejam remetidos os autos à CEJU para realização de cálculos com as diferenças devidas.
+Intimado para apresentar resposta ao agravo interno, o INSS deixou transcorrer o prazo sem manifestação (fl. 494).
+É o relatório. Decido.
+Com efeito, o cumprimento das requisições de pagamento relacionadas à fl. 342, noticiada pela Seção de Precatórios e RPV (fl. 478), não implica satisfação integral da obrigação.
+Isso porque as RPVs 6997 a 7018 são referentes aos valores atualizados monetariamente pela variação da TR até agosto/2017, consoante decisão homologatória de fls. 327-328, tal como consignado pela Coordenadoria de Processamento de Feitos em Execução Judicial às fls. 334-341:
+Metodologia:
+ ..
+5 - Atualização monetária dos cálculos efetuada com base no IPCA-E/IBGE até junho/2009; a partir de julho/2009 e até agosto/2017 foi utlizada a TR, conforme cálculo homologado às fls. 327-328. Para atualização da conta homologada foi adotada a atualização pelo IPCA-E, consoante decidido pelo STF no RE 870.947/SE e por esta Corte no REsp 1.492.221/PR;
+Da mencionada decisão de fls. 327-328, o Sindicato reiterou pedido, pendente de apreciação, para que seja "resguardado para depois o pagamento das diferenças pela aplicação do IPCA-e após o julgamento definitivo da Repercussão Geral pelo e. STF no RE n.º 870.947/SE" (fl. 332).
+Ante o exposto, reconsidero a decisão agravada para tornar sem efeito a decisão extintiva de fls. 480-481.
+Tendo em vista o julgamento definitivo do RE 870.947/SE - apreciado pelo Supremo Tribunal Federal sob a sistemática da Repercussão Geral e, portanto, de eficácia vinculativa -, no qual foi pacificado o entendimento de que deve ser aplicada a variação do IPCA-E durante todo o período de cálculo, determino a remessa dos autos à Coordenadoria de Processamento de Feitos em Execução Judicial para apuração das diferenças devidas a título de correção monetária. Do cálculo as partes deverão ser intimadas independente de nova conclusão.
+Publique-se. Intimem-se.
+EMENTA
