@@ -1,0 +1,13 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por LUIS FELIPE BELMONTE DOS SANTOS contra a decisão de fls. 3.007/3.008, do em. Ministro Lázaro Guimarães, que acolheu os embargos de declaração de SARKIS EMPREENDIMENTOS LTDA, sem efeitos infringentes, para "sanar a omissão suscitada quanto aos honorários recursais e, assim, majorar os honorários advocatícios devidos às embargantes em 10% (dez por cento) sobre o valor fixado na sucumbência da ação principal e, também, em 10% (dez por cento) sobre o percentual fixado na sucumbência da reconvenção, pelas instâncias ordinárias, nos termos do art. 85, § 11 do Código de Processo Civil de 2015".
+Em suas razões, o embargante alega a decisão embargada, tendo acolhido os embargos de declaração das ora embargadas, teria se omitido no tocante "à abertura do prazo de "15 (quinze) dias, contado da intimação da decisão dos embargos de declaração", para a requerente "complementar ou alterar suas razões, nos exatos limites da modificação", como previsto no art. 1.024, § 4º, do CPC." (e-STJ, fl. 3.015).
+Nesses termos, pede sejam acolhidos os aclaratórios para sanar a omissão apontada, determinando-se a intimação da parte para que possa complementar ou alterar as razões de seu agravo interno.
+Intimada, a parte embargada apresentou impugnação, protestando pela rejeição dos embargos declaratórios (e-STJ, fls. 3.023/3.028).
+Relatado, passo a decidir.
+2. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), não sendo esse o caso dos autos.
+Nos termos do art. 1.024, § 4º, do CPC/2015, "Caso o acolhimento dos embargos de declaração implique modificação da decisão embargada, o embargado que já tiver interposto outro recurso contra a decisão originária tem o direito de complementar ou alterar suas razões, nos exatos limites da modificação, no prazo de 15 (quinze) dias, contado da intimação da decisão dos embargos de declaração."
+Como se observa, nos termos do expresso na norma processual, o prazo para a eventual complementação ou alteração das razões do recurso anteriormente interposto conta-se da intimação da decisão que julgou os embargos de declaração, inexistindo, na espécie, previsão para intimação específica para esse fim.
+Veja-se, a propósito, que a referida norma difere daquela prevista no § 3º do mesmo dispositivo, para o qual, no caso de conhecimento dos embargos de declaração como agravo interno, há expressa previsão para que o embargante seja previamente intimado para a complementação de suas razões.
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+EMENTA
