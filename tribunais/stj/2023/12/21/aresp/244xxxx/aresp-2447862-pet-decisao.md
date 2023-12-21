@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de petição apresentada por LUIZ ANTONIO VILELA JUNQUEIRA DE ANDRADE, objetivando a atribuição de efeito suspensivo a agravo em recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 5000882-03.2020.8.13.0012) assim ementado (fl. 418):
+APELAÇÃO - RESCISÃO CONTRATUAL - COMPRA E VENDA DE IMÓVEL -INADIMPLÊNCIA - RESTITUIÇÃO DE VALORES. Configurada a inadimplência do promitente comprador e o desinteresse da promitente vendedora pela manutenção do vínculo jurídico, deve ser julgado procedente o pedido de rescisão contratual, com a restituição dos valores pagos.
+Em defesa da plausibilidade do direito, afirma que é necessária a interpelação judicial ou extrajudicial do devedor para constituí-lo em mora nos contratos que não possuem termo, bem como que, após o pagamento do sinal do contrato de compra e venda, seriam acordados o valor e as parcelas do saldo remanescente; portanto, não estaria inadimplente.
+Alega que o contrato não poderia ter sido declarado rescindido, por não estar em mora e o pedido da parte ora requerida ter sido de anulação, e não de rescisão.
+Sustenta que a parte requerida deu início ao cumprimento provisório de sentença, inclusive com pedido de imissão na posse do imóvel objeto de discussão nos autos. Afirma que a posse, por ele exercida há 23 anos, estaria em risco, podendo acarretar dano irreparável e irreversível.
+É o relatório. Decido.
+De acordo com o que prevê o art. 300 do CPC, "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+Assim, o deferimento do pedido de tutela provisória de urgência para a atribuição de efeito suspensivo a recurso especial exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos expendidos no pedido; e o periculum in mora, evidenciado pela possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Segundo se observa dos autos, não se visualiza a plausibilidade do direito, visto que, além de a Corte de origem já ter indeferido o pedido de efeito suspensivo ao recurso fundamentadamente (fls. 542-543), do agravo em recurso especial não se conheceu (fls . 613-614).
+Ademais, não ficou efetivamente demonstrado o perigo de dano no que tange ao alegado risco em relação ao início do cumprimento provisório da sentença, pois a jurisprudência do STJ é firme no sentido de que "a execução provisória não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao recurso especial, até mesmo porque esse procedi mento possui mecanismos próprios para evitar prejuízos ao executado" (AgInt no REsp n. 2.083.549/PE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
