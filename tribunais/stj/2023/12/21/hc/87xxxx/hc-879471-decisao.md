@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL FRANCISCO NICOLAU contra decisão proferida pelo Desembargador Relator do HC n. 0007632-67.2023.8.21.7000, em tramitação no Tribunal de Justiça do Estado do Rio Grande do Sul.
+Narra a impetração que o Paciente cumpre pena definitiva de 8 (oito) anos, 9 (nove) meses e 29 (vinte e nove) dias de reclusão em regime inicial fechado, com o término da reprimenda previsto para o dia 25/08/2025.
+Informa, ainda, que o Juízo da Vara de Execuções Criminais da Comarca de Osório/RS reconheceu a falta grave praticada pelo Paciente e alterou a data para a progressão de regime (fls. 10-12).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal a quo. O Desembargador Relator não conheceu do writ.
+Neste mandamus, a Parte Impetrante sustenta que "o reconhecimento da falta grave, não interrompe a contagem do lapso temporal para o livramento condicional, sendo alterado a data apenas para a progressão de regime", nos termos da Súmula n. 441/STJ (fl. 6).
+Afirma que o Apenado "já faz jus a livramento condicional desde 12/09/2022, que não é interrompida mesmo com a homologação da falta grave  .. " (fl. 4).
+Requer, liminarmente e no mérito, a concessão da ordem "a fim de que o paciente seja posto em liberdade condicional na forma do artigo 83 do Código Penal" (fl. 7).
+É o relatório. Decido.
+De início, ressalto que não é cabível a impetração de habeas corpus no Superior Tribunal de Justiça contra decisão monocrática de Desembargador do Tribunal de Justiça, pois o decisum singular desafia a interposição de agravo regimental no âmbito da própria Corte de origem, a fim de que haja a manifestação do colegiado local. Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM INDEFERIDA LIMINARMENTE. SUPRESSÃO DE INSTÂNCIA. ANÁLISE PER SALTUM. IMPOSSIBILIDADE. AUSÊNCIA DE TERATOLOGIA.
+1. Não cabe habeas corpus contra decisão monocrática de Desembargador relator, porquanto ausente manifestação colegiada do ór gão de origem.
+ ..
+6. Agravo regimental a que se nega provimento." (AgRg no HC 585.813/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 04/08/2020, sem grifos no original.)
+"AGRAVO REGIMENTAL CONTRA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. PEDIDO AJUIZADO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE JULGAMENTO COLEGIADO. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. FURTO QUALIFICADO. CONDENAÇÃO. REGIME INICIAL SEMIABERTO. COMPATIBILIZAÇÃO COM A MANUTENÇÃO DA CUSTÓDIA PREVENTIVA. CONSTRANGIMENTO ILEGAL INEXISTENTE. RECEIO DE CONTAMINAÇÃO PELO COVID-19. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO JUÍZO DE PRIMEIRO GRAU. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de apelar em liberdade foi indeferido em decisão monocrática do desembargador relator da apelação interposta em favor do apenado, inexistindo provocação ao colegiado para se manifestar acerca do tema. A competência do Superior Tribunal de Justiça - STJ, portanto, não foi inaugurada para apreciar a questão. Precedentes.
+ ..
+4. Agravo regimental desprovido." (AgRg no HC 567.540/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020, sem grifos no original.)
+Outrossim, observo que o pedido de livramento condicional sequer foi formulado perante o Juízo da Execução Penal, o que torna proibitivo ao Superior Tribunal de Justiça examinar o pleito, sob pena de indevida supressão de instância. Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. PROGRESSÃO DE REGIME. REQUISITOS NÃO ANALISADOS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. NECESSIDADE. HISTÓRICO CARCERÁRIO CONTURBADO. COMETIMENTO DE FALTAS GRAVES. FUNDAMENTAÇÃO IDÔNEA. AGRAVO IMPROVIDO.
+1. Os requisitos necessários à obtenção do livramento condicional e à progressão de regime não foram examinados pelo Tribunal de origem, o que obsta a apreciação por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+2. Na espécie, o juiz de primeira instância, quando da análise do pedido de livramento condicional, determinou, acertadamente, a realização de exame criminológico em razão do histórico carcerário conturbado do agravante, que registra o "cometimento de ONZE faltas graves durante o cumprimento de pena, além de exame criminológico contrário ao mesmo benefício na petição intermediária nº 1003931-91.2021.8.26.0637  .. ".
+3. "A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte Superior de Justiça." (AgRg no HC n. 695.981/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/2/2022, DJe de 25/2/2022.)
+4. Agravo regimental improvido." (AgRg no HC n. 826.054/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. MATÉRIAS NÃO EXAMINADAS. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os pleitos de concessão das benesse de progressão a regime mais benéfico ou de livramento condicional requerem o revolvimento do acervo fático-probatório, em dissonância com o rito célere atinente ao mandamus, especialmente diante da ausência de exame da matéria no habeas corpus originário, a sublinhar a impossibilidade de exame do pedido por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental não provido." (AgRg no RHC n. 150.498/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/8/2021, DJe de 25/8/2021.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. LIVRAMENTO CONDICIONAL. PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS. MATÉRIA NÃO EXAMINADA PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não houve pronunciamento, pelas instâncias ordinárias, acerca do preenchimento, pelo apenado, dos requisitos objetivo e subjetivo, necessários à concessão do benefício pleiteado, não sendo, portanto, possível o seu exame diretamente por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+ ..
+4. Agravo regimental desprovido." (AgRg no RHC n. 164.542/MG, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento nos arts. 34, XX, e 210, a mbos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE LIVRAMENTO CONDICIONAL. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
