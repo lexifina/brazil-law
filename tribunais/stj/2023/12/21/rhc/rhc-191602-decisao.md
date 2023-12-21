@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por MATHEUS DA SILVA DE ANDRADE e ANDERSON BARBOSA DE SOUZA ALVES contra acórdão do Tribunal de Justiça do Estado do Piauí proferido no julgamento da Apelação Criminal n. 0757781-58.2023.8.18.0000.
+Depreende-se dos autos que em primeiro grau de jurisdição os Pacientes foram condenados como incursos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, e art. 2.º, da Lei n. 12.850/2006, na forma do art. 69 do Código Penal (fls. 28-29).
+A Defensoria Pública impetrou habeas corpus perante a Corte de origem, alegando a nulidade da sentença, ante a ausência de transcrição integral da motivação exposta pelo Juízo prolator do ato. A ordem foi denegada, estando o acórdão assim ementado (fls. 67-68):
+"EMENTA HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE DECORRENTE DA INEXISTÊNCIA DE TRANSCRIÇÃO INTEGRAL DA SENTENÇA. VIOLAÇÃO AO PRINCÍPIO DA AMPLA DEFESA. TESE NÃO CONHECIDA. REVISÃO PERIÓDICA DA PRISÃO. AUTOS NA INSTÂNCIA SUPERIOR. ORDEM CONHECIDA, EM PARTE, E, NESTA PARTE, DENEGADA.
+1. A ausência de degravação e impressão do édito condenatório em documento não constitui nulidade a macular o feito, notadamente quando a mídia com seu conteúdo é juntada aos autos e disponibilizado às partes. Note-se que a própria Defensoria Pública do Estado do Piauí, ao interpor o Recurso Especial no Processo nº 0702258-66.2020.8.18.0000, utilizou-se de fundamentos constantes do édito condenatório, especificamente relacionados à suposta inexistência de motivos idôneos a justificar a exasperação pena-base, transcrevendo trechos da dosimetria da pena quando da ponderação das circunstâncias judiciais. Nesse sentido, o Tribunal de Justiça não é competente para analisar um Habeas
+Consta, ainda, que interpuseram apelação, que foi desprovida pelo Tribunal local, e o recurso interposto contra o referido ato, Corpus impetrado contra ato de magistrado quando o recurso de apelação já foi decidido pela Câmara, ainda que a matéria não tenha sido ali ventilada.
+2. O art. 316, parágrafo único, do Código de Processo Penal aplica-se até o final dos processos de conhecimento, onde há o encerramento da cognição plena pelo Tribunal de segundo grau, não se aplicando às prisões cautelares decorrentes de sentença condenatória de segunda instância ainda não transitada em julgado.
+3. Ordem conhecida, em parte, e, nesta parte, denegada."
+Está expresso no acórdão impugnado que a apelação interposta contra a sentença foi desprovida pela Corte de origem. Na sequência, foi negado seguimento ao recurso especial, e está pendente de julgamento nesta Corte o Agravo em Recurso Especial n. 2.223.516/PI (2022/0320210-1).
+Neste recurso ordinário em habeas corpus, a Defensoria Pública impetrante alega a ausência de fundamentação válida para a manutenção da prisão cautelar.
+Aponta o excesso de prazo para o encerramento da ação penal.
+Pontua a mora estatal na revisão dos requisitos da custódia cautelar, em consonância com o disposto no art. 316, parágrafo único, do Código de Processo Penal.
+Requer, em liminar e no mérito, a concessão da ordem para revogar a prisão cautelar.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+Portanto, passo a analisar diretamente o mérito recursal.
+No caso, não se verifica que o alegado excesso de prazo e a tese de ausência de fundamentos válidos para a manutenção da prisão cautelar foram temas analisados no acórdão impugnado.
+Nesse contexto, não há de se conhecer das alegações, ante a caracterização da indevida supressão de instância. Nesse sentido:
+" ..
+2. Em relação à prisão preventiva, verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância.
+ ..
+6. Agravo regimental desprovido."(AgRg no RHC n. 157.273/ES, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/4/2022, DJe de 26/4/2022; sem grifos no original.)
+" ..
+1. A matéria relativa ao alegado excesso de prazo na formação da culpa não foi submetida à apreciação do Tribunal de origem, motivo pelo qual não pode ser aqui apreciada, sob pena de indevida supressão de instância."
+ ..
+7. Ordem denegada." (HC n. 704.956/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 17/5/2022, DJe de 20/5/2022; sem grifos no original.)
+Cumpre pontuar, ademais, que, a rigor, nem sequer seria cabível a alegação de excesso de prazo praticado pela Corte estadual, visto que, conforme será exposto a seguir, já se encontra encerrada a prestação jurisdicional das instâncias ordinárias.
+Sobre o disposto no art. 316, parágrafo único, do Código de Processo Penal, destacou o Tribunal de origem (fls. 72-73; grifos diversos do original):
+" ..
+Consta dos autos que, no dia 18/06/2019, foi proferida sentença oral, condenando os pacientes pela prática dos crimes previstos nos artigos 33, caput, e 35, ambos da Lei nº 11.343/2006, e artigo 2º, da Lei nº 12.850/2003, na forma do artigo 69, do Código Penal e mantida a segregação cautelar dos pacientes.
+Interposto o Recurso de Apelação nº 0702258-66.2020.8.18.000, este fora julgado pela egrégia 1ª Câmara Especializada Criminal, sendo todos os pedidos negados e estando, atualmente, os autos remetidos ao Superior Tribunal de Justiça.
+Nesse sentido, tem-se que, encerrado o julgamento de segunda instância, não se aplica o art. 316, parágrafo único, do CPP.
+O art. 316, parágrafo único, do CPP incide até o final dos processos de conhecimento, onde há o encerramento da cognição plena pelo Tribunal de segundo grau, não se aplicando às prisões cautelares decorrentes de sentença condenatória de segunda instância ainda não transitada em julgado.
+Se houve a condenação em segundo grau de jurisdição, já houve uma cognição plena quanto às provas, não havendo razoabilidade de se exigir, nestes casos, a obrigatoriedade de se continuar promovendo reavaliações periódicas da decisão de prisão a cada 90 dias.
+Com base nas razões acima demonstradas, portanto, não vislumbro a existência de constrangimento ilegal ao direito de ir e vir do Paciente a ser sanado pelo presente Habeas Corpus."
+De fato, a questão referente à revisão da prisão, nos termos do art. 316, parágrafo único, do Código de Processo Penal, encontra-se superada, pois o apelo defensivo já foi julgado, sendo confirmada a condenação em segundo grau de jurisdição, com cognição plena quanto às provas, não havendo razoabilidade em se exigir, conforme o entendimento jurisprudencial atual, a obrigatoriedade de se continuar promovendo reavaliações periódicas da decisão de prisão.
+A propósito, salienta-se que, conforme a orientação da Suprema Corte, " o  art. 316, parágrafo único, do Código de Processo Penal aplica-se até o final dos processos de conhecimento, onde há o encerramento da cognição plena pelo Tribunal de segundo grau, não se aplicando às prisões cautelares decorrentes de sentença condenatória de segunda instância ainda não transitada em julgado" (STF, ADI 6581, Relator: EDSON FACHIN, Relator p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 09/03/2022, PROCESSO ELETRÔNICO DJe-084 DIVULG 02-05-2022 PUBLIC 03-05-2022).
+Assim, com a confirmação da sentença condenatória, há o encerramento da cognição quanto à ampla revisão probatória. Nesse contexto, se a Corte local deliberou pela necessidade da prisão preventiva, os requisitos da cautelar máxima permanecem até o trânsito em julgado, sem prejuízo do manejo da ação constitucional de habeas corpus a qualquer tempo para a revisão, não se aplicando a necessidade de análise periódica da custódia nos autos do recurso manejado perante o Tribunal Superior.
+Ante o exposto, CONHEÇO EM PARTE do recurso ordinário em habeas corpus e, nessa extensão, NEGO-LHE provimento.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. EXCESSO PARA A FORMAÇÃO DA CULPA E REQUISITOS DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. REAVALIAÇÃO DA PRISÃO PREVENTIVA PELOS TRIBUNAIS, QUANDO EM ATUAÇÃO COMO ÓRGÃO REVISOR. APLICABILIDADE APENAS ATÉ O JULGAMENTO DA APELAÇÃO. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
