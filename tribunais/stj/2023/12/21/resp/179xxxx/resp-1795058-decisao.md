@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por AUTO POSTO MMDG LTDA - ME, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DO RECOLHIMENTO DA TAXA JUDICIÁRIA. Concessão da assistência judiciária em Primeira Instância não comprovada. Desatendimento do artigo 511, caput, do Código de Processo Civil. DESPACHO DE MERO EXPEDIENTE. Interposição contra ato do juiz que determina o cumprimento de acórdão. Despacho de mero expediente, que apenas determinou o cumprimento de v. acórdão. Ato judicial irrecorrível. Inteligência dos artigos 162, § 3º, e 504, ambos do Código de Processo Civil. INSTRUÇÃO DEFICIENTE. Ausência de cópia do despacho e da sua intimação no DJE. Documento fornecido pela AASP que não possui o valor probatório que a lei exige. Desatendimento do artigo 525, inciso I, do Código de Processo Civil. RECURSO NÃO CONHECIDO."
+Os embargos de declaração opostos foram rejeitados (fls. 211/214; 237/240; 261/265; 298/303; 339/344; 405/408; 426/434 e 465/473).
+Em suas razões recursais (fls. 529/560), a parte recorrente aponta violação ao artigos 369, 374, inciso IV, 411 e 422 do Código de Processo Civil de 2015, sustentando, em síntese, que a falta de certidão válida não causaria prejuízo, uma vez que o recurso teria sido interposto tempestivamente, sendo tal ato passível de comprovação por outros meio.
+Sem contrarrazões.
+É o relatório. Decido.
+Razão assiste à recorrente.
+O Tribunal de origem não conheceu do agravo de instrumento, por não constar dos autos certidão de intimação da decisão agravada, peça considerada obrigatória. É o que se observa do trecho do v. acórdão recorrido:
+"Ademais, ainda que assim não se entenda, restou caracterizada a deficiência da instrução do recurso.
+Compulsando os autos, verifica-se que o agravante não trouxe cópia do despacho juntamente com o protocolo deste recurso, assim como da certidão de publicação no DJE. Referido despacho foi reproduzido no documento fornecido pela AASP (fls. 140), portanto sem o valor probatório que a lei exige.
+(..)
+A exigência do referido artigo não pode ser encarada como mera formalidade destituída de qualquer função.
+A constituição do recurso com peças do processo originário tem por finalidade verificar a regularidade processual e a admissibilidade do Agravo de Instrumento. Sua formação é responsabilidade do agravante, devendo o advogado primar pela adequada instrução do Agravo de Instrumento. Na espécie, até mesmo as cópias reproduzidas encontram-se na sua maioria ilegíveis, portanto, imprestáveis."
+O entendimento firmado por esta Corte é de que, apesar de a certidão de intimação da decisão agravada constituir peça obrigatória para formação do instrumento (art. 525, I, do CPC/1973), sua ausência pode ser relevada, desde que seja possível aferir, de modo inequívoco, a tempestividade do recurso por outro meio constante dos autos.
+Tal posicionamento é aplicado em homenagem ao princípio da instrumentalidade das formas, segundo o qual o exagerado formalismo deve ser evitado, de forma que o processo e seu fim sejam convenientemente conciliados e realizados.
+A respeito da matéria, a Segunda Seção desta Corte, no julgamento do REsp n. 1.409.357/SC (Relator para o acórdão o Ministro SIDNEI BENETI, julgado em 14/5/2014, DJe 21/5/2014), submetido ao rito dos recursos especiais repetitivos (art. 543-C do CPC), consolidou a seguinte tese:
+"A ausência da cópia da certidão de intimação da decisão agravada não é óbice ao conhecimento do Agravo de Instrumento quando, por outros meios inequívocos, for possível aferir a tempestividade do recurso, em atendimento ao princípio da instrumentalidade das formas."
+Também nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. TEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. TEMA REPETITIVO N. 697. DESNECESSIDADE DE PROCURAÇÃO DA PARTE QUE INTEGROU O FEITO APÓS INTERPOSIÇÃO DO AGRAVO DE INSTRUMENTO. EMANCIPAÇÃO DE IGREJA. COMPETÊNCIA PARA ANALISAR OS PEDIDOS. PREVISÃO NO ESTATUTO DA IGREJA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Rejeita-se a apontada violação ao art. 535 do CPC/73, pois o v. acórdão a quo não possui vício de omissão, obscuridade ou contradição, mas mero julgamento em desconformidade com os interesses da agravante.
+2. Tema Repetitivo nº 697: "A ausência da cópia da certidão de intimação da decisão agravada não é óbice ao conhecimento do Agravo de Instrumento quando, por outros meios inequívocos, for possível aferir a tempestividade do recurso, em atendimento ao princípio da instrumentalidade das formas."
+3. No ato de interposição do agravo de instrumento, não há necessidade de juntar procuração da parte que integrou o feito após o transcurso do prazo recursal.
+4. O eg. Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que a Diretoria teria competência para apreciar pedido de emancipação da igreja. Pretensão de revisar tal entendimento demandaria revolvimento fático-probatório, inviável em sede de recurso especial, conforme Súmula 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 387.885/MG, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/2/2020, DJe de 3/3/2020, g.n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE. DESNECESSIDADE DE REEXAME DE PROVAS OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. DECISÃO MANTIDA.
+1. No caso concreto, a análise da pretensão recursal, de se reconhecer a tempestividade do agravo de instrumento interposto na origem, não depende de reexame de provas. Portanto, inaplicável a Súmula n. 7 do STJ.
+2. "A ausência da cópia da certidão de intimação da decisão agravada não é óbice ao conhecimento do Agravo de Instrumento quando, por outros meios inequívocos, for possível aferir a tempestividade do recurso, em atendimento ao princípio da instrumentalidade das formas" (REsp n. 1.409.357/SC, Relator para o acórdão Ministro SIDNEI BENETI, julgado em 14/5/2014 pelo rito do art. 543-C do CPC/1973, DJe de 21/5/2014).
+3. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp n. 441.324/AM, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/6/2019, DJe de 1/7/2019, g.n.)
+Desta forma, tendo em vista que a ausência da cópia da certidão de intimação da decisão agravada não é óbice ao conhecimento do Agravo de Instrumento, o Tribunal de origem deveria ter buscado outros meios para aferir a tempestividade do recurso, em atendimento ao princípio da instrumentalidade das formas, o que, contudo, não foi observado.
+Ante o exposto, nos termos do art. 255, § 4º, II, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos à instância de origem para a devida apreciação do agravo de instrumento.
+Publique-se.
+EMENTA
