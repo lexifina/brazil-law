@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5, 7 e 83 do STJ (e-STJ fls. 770/774).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 514/515):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. NULIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. PRESCRIÇÃO. IMPOSSIBILIDADE DE REVISÃO DE CONTRATO QUITADO. JUROS REMUNERATÓRIOS. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA MANTIDA.
+I. QUANTO À PRELIMINAR DE NULIDADE SENTENCIAL POR AUSÊNCIA DE FUNDAMENTAÇÃO, NÃO PROSPERA. A SENTENÇA ESTÁ DEVIDAMENTE MOTIVADA EM RELAÇÃO A TODOS OS PONTOS OBJETO DA LIDE, TENDO SIDO OBSERVADO O ART. 489, II, DO CÓDIGO DE PROCESSO CIVIL E O ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA.
+II. A PRESCRIÇÃO, NAS AÇÕES REVISIONAIS BANCÁRIAS, É DECENAL, NOS TERMOS DO ARTIGO 205 DO CC. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+III. É POSSÍVEL A REVISÃO DE CONTRATOS EXTINTOS, NOVADOS E QUITADOS. PRECEDENTES DO STJ.
+IV. JUROS REMUNERATÓRIOS. AS TAXAS DE JUROS APLICADAS NOS CONTRATOS BANCÁRIOS NÃO DEVEM DESBORDAR SIGNIFICATIVAMENTE DA MÉDIA PRATICADA PELO MERCADO FINANCEIRO. VERIFICADA ABUSIVIDADE, A LIMITAÇÃO DAR-SE-Á EM ESTRITA OBSERVÂNCIA À RESPECTIVA MÉDIA CONFORME DIVULGAÇÃO PELO BACEN SEM ACRÉSCIMO DE MARGEM PERCENTUAL.
+V. COMPENSAÇÃO E/OU REPETIÇÃO DO INDÉBITO. TRATA-SE DE DECORRÊNCIA LÓGICA DA PRETENSÃO REVISIONAL E DO CONSEQUENTE ACERTAMENTO DA RELAÇÃO DÉBITO-CRÉDITO, EM FACE DA VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA (STJ, 2ª SEÇÃO, RESP Nº 602.068/RS, REL. MIN. ANTÔNIO DE PÁDUA RIBEIRO, J.22.09.2004, DJ 21.03.2005). REVISADA A PACTUAÇÃO É POSSIVEL A COMPENSAÇÃO, DEPOIS DE REALIZADO NOVO CÁLCULO PARA APURAR DÉBITOS E CRÉDITOS (ARTS. 368 E 369 DO CCB). APÓS COMPENSAÇÃO, SENDO APURADO CRÉDITO EM FAVOR DO AUTOR, É VIÁVEL A REPETIÇÃO DE INDÉBITO NA FORMA SIMPLES, CONSIDERANDO INEXISTENCIA DA MÁ-FÉ NA COBRANÇA, A QUAL SE DEU COM BASE EM CONTRATO E ANTES DO EXAME JUDICIAL DA QUESTÃO.
+VI. CORREÇÃO MONETÁRIA. O IGP-M É O ÍNDICE USUALMENTE UTILIZADO PARA CORRIGIR VALORES CONDENATORIOS, NÃO HAVENDO, NO CASO, RAZÕES PARA AFASTÁ-LO. NO CASO, A INCIDÊNCIA DE OUTRO ÍNDICE DE CORREÇÃO MONETÁRIA SERIA MEDIDA EXCEPCIONAL, DIANTE DE SITUAÇÃO EFETIVA DE ENRIQUECIMENTO DE UMA DAS PARTES. NÃO HÁ NOS AUTOS NENHUMA EVIDÊNCIA EM RELAÇÃO A ESTA CONDIÇÃO, NÃO SENDO SUFICIENTE APENAS A ALEGAÇÃO GENÉRICA DE ELEVAÇÃO DOS ÍNDICES NO PERÍODO.
+VII. MANUTENÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA SENTENÇA EM FAVOR DO PROCURADOR DO AUTOR, CONSIDERANDO OS REQUISITOS DO § 2 DO ART. 85 DO CPC.
+À UNANIMIDADE, NEGARAM PROVIMENTO AO RECURSO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (e-STJ fls. 521/540), fundamentado no art. 105, III, "c", da CF, a parte alegou dissídio jurisprudencial quanto à interpretação do art. 51, IV, e § 1º, III, do CDC, tendo em vista que, "frente a (..) mero cotejo entre taxa Tabela Bacen x Taxa Contratada pelas partes, chegou-se à conclusão que está presente a abusividade na taxa de juros contratada, sem qualquer análise individualizada das peculiaridades do caso em concreto, conforme bem apregoa o RESP 1.061.530/RS" (e-STJ fl. 533).
+Ao final, a recorrente pleiteia que, "frente ao dissídio jurisprudencial ora suscitado, (..) seja reconhecida a contrariedade da decisão (..) recorrida com a jurisprudência consolidada desde egrégio Tribunal Superior no que diz da interpretação do artigo 51, IV e §1º, III do Código de Defesa do Consumidor, dando PROVIMENTO ao presente Recurso Especial, com a consequente manutenção dos juros remuneratórios no patamar contratado, eis que não demonstrado no caso concreto a abusividade suficiente para reclamar a intervenção do Poder Judiciário nas cláusulas contratadas entre a demandante e a demandada" (e-STJ fls. 539/540).
+No agravo (e-STJ fls. 782/797), em sede preliminar, a parte pugna pela suspensão da presente ação, "considerando que  ..  teve decretada a sua liquidação extrajudicial, através do Ato do Presidente do Banco Central nº 1.360 de 15/02/2023" (e-STJ fl. 785).
+Alternativamente, requer a concessão dos benefícios da justiça gratuita.
+No mérito, afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada.
+É o relatório.
+Decido.
+Da suspensão do processo
+O entendimento desta Corte é de que a norma inscrita no art. 18 da Lei n. 6.024/1974 "não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito" (AgInt no REsp n. 1.985.667/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022).
+No mesmo sentido: AgInt no REsp n. 1.969.577/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no REsp n. 1.783.833/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/10/2020, DJe de 27/10/2020.
+A ação revisional de contrato demanda quantia ilíquida, razão pela qual não se justifica a suspensão do processo.
+Da justiça gratuita
+O pleito de gratuidade da justiça nesta fase recursal em nada aproveitaria à parte, tendo em vista que tanto o agravo em recurso especial quanto o agravo interno independem de recolhimento de custas.
+Além disso, embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição econômico-financeira, segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, a concessão do benefício somente produzirá efeitos ex nunc, não sendo admitida, portanto, sua retroatividade.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.064.541/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; e AgInt no AREsp n. 2.182.992/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/6/2023, DJe de 29/6/2023.
+Do mérito do agravo em recurso especial
+Trata-se, na origem, de ação revisional de contrato de empréstimo não consignado.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, sem, todavia, fundamentar o caráter abusivo dos juros remuneratórios no caso concreto. A propósito (e-STJ fl. 510):
+No caso dos autos, a taxa prevista no contrato firmado entre as partes é superior à respectiva média de mercado, razão pela qual se impõe a manutenção da sentença.
+O contrato firmado para empréstimo pessoal em 05/06/2013 (Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado - 25464), tem taxa de juros mensal de 8,55% enquanto taxa média do BACEN foi de 4,66% para o mesmo período.
+Não há nos autos nenhuma razão para alongar os limites previstos pelo STJ, delineados pelo BACEN, no caso concreto.
+Assim, havendo abusividade, se impõe limitar a taxa de juros à média de mercado divulgada pelo BACEN  ..
+A jurisprudência do STJ, por outro lado, orienta-se pela adoção da chamada "taxa média de mercado" somente nos casos em que não é possível aferir o percentual pactuado e, fora dessa hipótese, o índice apenas fornece ao julgador uma referência para a avaliação de eventual abuso no caso concreto, que "haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação" (AgInt no AREsp n. 1.493.171/RS, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2020, DJe de 10/3/2021).
+Aliás, "foi expressamente rejeitada pela Segunda Seção a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média" (AgInt no AREsp n. 1.987.137/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022).
+Assim, destaca-se que "a redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado  apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen (..)  está em confronto com a orientação firmada no REsp. 1.061.530/RS" (AgInt no AREsp n. 1.493.171/RS, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2020, DJe de 10/3/2021).
+No mesmo sentido:
+RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. JUROS REMUNERATÓRIOS. REVISÃO. CARÁTER ABUSIVO. REQUISITOS. NECESSIDADE DE FUNDAMENTAÇÃO ADEQUADA.
+ ..
+3- A Segunda Seção, no julgamento REsp n. 1.061.530/RS, submetido ao rito dos recursos especiais repetitivos, fixou o entendimento de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+ ..
+5- São insuficientes para fundamentar o caráter abusivo dos juros remuneratórios: a) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente; b) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e c) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.
+ ..
+7- Recurso especial parcialmente provido.
+(REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022 - grifei.)
+Em casos como o dos autos, a orientação tem sido no sentido de que: (i) "Se o Tribunal não examinou prova alguma para chegar à conclusão de ser excessiva a taxa de juros contratada, não há necessidade de rever provas para se dar pelo desacerto do acórdão recorrido", e (ii) "O parâmetro abstratamente eleito pela Corte de origem não vincula o STJ e nem deve prevalecer sobre o pactuado, especialmente em caso como o presente, em que as prestações do mútuo foram prefixadas, de modo que não havia como o tomador do crédito alegar desconhecimento da dívida assumida" (excerto do voto condutor do acórdão prolatado no AgInt no AREsp n. 1.493.171/RS).
+Necessário, portanto, o afastamento da limitação dos juros remuneratórios à taxa média de mercado, devendo a contratação, nesse ponto, ser mantida nos termos em que foi pactuada.
+Por conseguinte, não subsistindo a alegada abusividade dos juros remuneratórios, não há falar em descaracterização da mora nem em compensação ou devolução de valores pagos a esse título.
+Ante o exposto, CON HEÇO do agravo e DOU PROVIMENTO ao recurso especial, para afastar a limitação dos juros remuneratórios à taxa média de mercado, mantendo a contratação, nesse ponto, nos termos em que foi pactuada, bem como para afastar a compensação ou devolução de valores pagos a esse título.
+Provido o recurso, inverto os ônus sucumbenciais e deixo de fixar honorários recursais.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
