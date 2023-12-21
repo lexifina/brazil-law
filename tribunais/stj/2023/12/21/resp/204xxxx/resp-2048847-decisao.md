@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS na apelação criminal n. 1.0082.18000325-1/001.
+Conforme se extrai da leitura de sentença, o Réu foi condenado pelo cometimento do delito do art. 147 do Código Penal, a 1 (um) mês de detenção (fls. 144); pelo crime do art. 14 da Lei n. 10.826/2003, a 2 (dois) anos de reclusão e 10 (dez) dias (fls. 144-145); pelo delito do art. 12 da Lei n. 10.826/2003, a 1 (um) ano de detenção e 10 (dez) dias-multa (fls. 145); pelo crime do art. 16 da Lei n. 10.826/2003, a 3 (três) anos de reclusão e 10 (dez) dias-multa (fls. 145-146); a 4 (quatro) meses de prestação de serviços à comunidade pelo delito do art. 28 da Lei de Drogas (fl. 146). Reconhecido o concurso material de crimes, as punições finais ficaram sedimentadas em 5 (cinco) anos de reclusão, 1 (um) mês de detenção e 30 (trinta) dias-multa e 4 (quatro) meses de prestação de serviços à comunidade, em regime semiaberto (fls. 146-147).
+Não satisfeita, a Defesa apelou. A Corte a quo deu parcial provimento à apelação para reconhecer crime único entre os delitos do art. 12 da Lei n. 10.826/2003 e do art. 16 do mesmo diploma legal (fls. 237-239); e para determinar a consunção entre o delito do art. 14 da Lei n. 10.826/2003 e do crime do art. 147 do Código Penal (fls. 239); redimensionando as penas aos montantes de 3 (três) anos de reclusão e 1 (um) mês de detenção, e 10 (dez) dias-multa, no valor unitário mínimo, e 4 (quatro) meses de prestação de serviços à comunidade, em regime aberto (fls. 239-240).
+Foram opostos embargos de declaração, os quais foram rejeitados (fls. 258-261).
+No recurso especial, a parte recorrente alega negativa de vigência aos arts. 70 do Código Penal e aos arts. 12 e 16, ambos da Lei n. 10.826/2003 (fl. 269), aduzindo, em suma, não ser possível a consunção de crimes autônomos, com proteção de bens jurídicos distintos. Requer a condenação do Recorrido pelo delito do art. 12 da Lei do Desarmamento em concurso formal com o do art. 16 do mesmo diploma legal (fls. 270-276).
+Contrarrazões apresentadas às fls. 319-325. O recurso especial foi admitido às fls. 327-328.
+No parecer juntado às fls. 340-343, o Ministério Público Federal opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Conforme cediço, " p ara que se reconheça o princípio da consunção é preciso que a conduta definida como crime seja fase de preparação ou de execução de outro e depende das circunstâncias do caso concreto" (AgRg no REsp 1.753.743/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/03/2019, DJe 02/04/2019).
+No caso, a Corte local manteve a consunção do delito do art. 12 pelo crime do art. 16, ambos da Lei n. 10.826/2003, nos seguintes termos (fls. 237-239, grifei):
+"Extrai-se dos autos que o acusado, no dia 19/03/2018, na Fazenda Riacho das Veredas, portando arma de fogo de uso permitido, ameaçou seu genitor, afirmando que iria matá-lo.
+Após o réu ter sido contido pela vítima e por seus irmãos, a Polícia Militar foi acionada, e em buscas procedidas na casa do apelante, foram encontrados munições e acessórios de uso restrito, bem como cartuchos de munições de uso permitido.
+De início, é importante frisar que os tipos previstos na Lei 10.826/03 não fazem qualquer distinção sobre a quantidade de armas e munições apreendidas com o agente, mas apenas criminalizam, dentre outras condutas, a posse e o porte de arma de fogo, munições e outros objetos.
+Trata-se de delitos de perigo abstrato cujo bem jurídico tutelado é a segurança pública, não sendo razoável imaginarmos que em um mesmo contexto fático essa segurança é violada/lesada quantas vezes forem o número de armas ou de munições mantidas em depósito pelo agente.
+A exposição ao perigo é única, restando clara a configuração de crime único.
+ ..
+Verifico, assim, que os crimes de posse ilegal de munições de uso permitido e de posse ilegal de artefatos e acessórios de uso restrito foram praticados em um mesmo contexto fático, pois todo o material ilícito foi encontrado dentro da casa do acusado.
+Portanto, o crime previsto no art. 12 da Lei 10.826/03 deve ser absorvido pelo crime de posse ilegal de munição e acessórios de uso restrito, art. 16 do mesmo codex, por ser este mais grave."
+Ocorre que - segundo recentes manifestações no âmbito das Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça -, a prática dos delitos tipificados nos arts. 12 e 16 da Lei n. 10.826/2003, em um mesmo contexto fático, configura infrações penais autônomas em concurso formal, pois retratam ações distintas, com lesões a bens jurídicos diferentes.
+A propósito:
+" ..
+3. A jurisprudência do STJ entende ser incabível aplicar o princípio da consunção entre os crimes dos arts. 12, 14 e 16 da Lei n. 10.826/2003, por tutelarem bens jurídicos distintos, sobretudo quando praticados em contextos diversos. Precedentes.
+4. Agravo regimental não provido." (AgRg no HC n. 777.162/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023, grifei.)
+" ..
+8. No que tange à pretensão defensiva de que seja reconhecida a prática de crime único em relação às condutas tipificadas nos artigos 12 e 16, caput, do Estatuto do Desarmamento, esta Corte Superior de Justiça interpreta que os tipos penais estabelecidos nos referidos dispositivos legais tutelam bens jurídicos diversos, o que inviabiliza o pleito.
+ ..
+11. Agravo regimental provido em parte, para deferir a detração do período de recolhimento noturno." (AgRg no REsp n. 1.919.330/RS, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 22/6/2021, DJe de 28/6/2021, grifei.)
+" ..
+1. A orientação jurisprudencial recente do Superior Tribunal de Justiça é de que os tipos penais dos arts. 12 e 16 da Lei n. 10.826/2003 tutelam bens jurídicos diversos, razão pela qual deve ser aplicado o concurso formal quando apreendidas armas ou munições de uso permitido e de uso restrito no mesmo contexto fático. Precedentes.
+ ..
+3. Agravo regimental provido para afastar o reconhecimento de concurso material, manter a incidência de crime único entre os crimes dos arts. 16, caput, e 16, parágrafo único, IV, da Lei 10.826/2003 e redimensionar as penas." (AgRg no REsp n. 1.624.632/RS, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 28/4/2020, DJe de 30/4/2020; grifei.)
+Portanto, a condenação do Recorrido pelo delito do art. 12 da Lei n.º 10.826/2003 deve ser restabelecida.
+Assim, fixada a pena do delito do art. 12 Lei n. 10.826/2003 em 1 (um) ano de detenção e 10 (dez) dias-multa (fls. 145), tomo a pena mais grave, referente ao crime do art. 16 da Lei n. 10.826/2003, que foi fixada em 3 (três) anos de reclusão e 10 (dez) dias-multa (fl. 146), e a exaspero na fração de 1/6 (um sexto), tornando a pena definitiva em 3 (três) anos e 6 (seis) meses de reclusão. As penas de multa são somadas, conforme a regra do art. 72 do Código Penal, totalizando 20 (vinte) dias-multa.
+Por fim, mantido o concurso material com os delitos do art. 28 da Lei de Tráfico de Drogas e do art. 147 do Código Penal, as punições ficam sedimentadas em 3 (três) anos e 6 (seis) meses de reclusão e 20 (vinte) dias-multa; 1 (um) mês de detenção, e 10 (dez) dias-multa, no valor unitário mínimo; e 4 (quatro) meses de prestação de serviços à comunidade.
+Ante o exposto, CONHEÇO e DOU PROVIMENTO ao recurso especial para restabelecer a condenação do Recorrido pelo delito do art. 12 da Lei n. 10.826/2003 em concurso formal com o delito do art. 16 do mesmo diploma legal, redimensionadas as sanções nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. RECONHECIMENTO DO PRINCÍPIO DA CONSUNÇÃO ENTRE OS DELITOS DOS ARTS. 12 E 16, AMBOS DA LEI N. 10.82 6/2003, PELA CORTE LOCAL. IMPOSSIBILIDADE. CONFIGURAÇÃO DE DELITOS AUTÔNOMOS EM CONCURSO FORMAL. PRECEDENTES. RECURSO ESPECIAL CONHECIDO E PROVIDO.
