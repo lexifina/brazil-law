@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por BANCO VOTORANTIM S.A, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão (fls. 998 e-STJ), assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO EXECUTÓRIA. TUTELA DE URGÊNCIA DEFERIDA. EXECUÇÃO DE R$ 628.104,51, DOS QUAISR$ 579.534,62 APENAS A TÍTULO DE ASTREINTES. OFENSA AO PRINCÍPIO DARAZOABILIDADE E PROPORCIONALIDADE. LIMITAÇÃO DA MULTA -POSSIBILIDADE. AGRAVO PARCIALMENTE PROVIDO.
+I - Colhe-se dos autos que os autores, ora Agravados, ingressaram com Ação de Execução de Saldo Remanescente, de demanda onde a instituição financeira recorrente fora condenada a pagar a Fernando Moura Resende (falecido), o valor de R$ 5.100,00 (cinco mil e cem reais),a título de danos morais, além de multa de R$ 1.000,00 (mil reais), em caso de descumprimento.
+II - Pela leitura dos autos originais, observa-se que a época da manutenção da sentença pela Turma Recursal, o banco Agravante realizou o pagamento do valor de R$ 20.663,41 (vinte mil e seiscentos e sessenta e três reais e quarenta e um centavos), montante que entendia ser o devido.
+III - Na espécie, o valor da multa executada de R$ 579.534,62 (quinhentos e setenta e nove mil, quinhentos e trinta e quatro reais e sessenta e dois centavos) por descumprimento de decisão, mostra-se totalmente desarrazoado, vez da leitura da própria inicial executória, observa-se que a instituição financeira cumpriu, a época, com o pagamento do que entendia devido.
+IV - Como forma de corroborar tal entendimento, e ainda que não se levasse em consideração o valor pago a época, cumpre destacar que o montante das astreintes ora executadas, representam mais de 100 (cem) vezes o valor principal da condenação (R$ 5.100,00).
+V - Nessa linha, embora não haja razão jurídica para limitação das astreintes ao valor principalda obrigação - dado que possui natureza diversa da multa prevista no artigo 412 do CC -penso que a importância a título de multa cominatória, na hipótese, deve ser limitada à R$200.000,00 (duzentos mil reais), uma vez que tal valor se mostra mais consentâneo eproporcional à própria origem da dívida principal.
+Recurso parcialmente provido, de acordo com o parecer ministerial.
+Nas razões do especial (fls. 1.063/1.075 e-STJ), o insurgente alega, além de dissídio jurisprudencial, violação aos artigos 489, 537, §1.º E 1.022 do CPC/2015 e 884 do CC.
+Sustenta, em síntese:
+a) negativa de prestação jurisdicional;
+b) a necessidade de redução das astreintes, cujo valor final é desproporcional (R$ 200.000,00), sobretudo se comparado ao valor da obrigação principal;
+c) enriquecimento sem causa dos recorridos.
+Apresentadas contrarrazões (fls. 1.083/1.093 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar, em parte.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+Assim, não há se falar em violação aos arts. 489 e 1.022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1.015.125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.254.843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+2. Cinge-se a pretensão recursal à verificação acerca da proporcionalidade e razoabilidade do valor da astreinte fixada pelas instâncias ordinárias.
+Na situação concreta, o Tribunal de origem assim deliberou (fls. 1.001/1.002 e-STJ):
+Na espécie, o valor da multa executada de R$ 579.534,62 (quinhentos e setenta e nove mil, quinhentos e trinta e quatro reais e sessenta e dois centavos) por descumprimento de decisão, mostra-se totalmente desarrazoado, vez da leitura da própria inicial executória, observa-se que a instituição financeira cumpriu, a época, com o pagamento do que entendia devido.
+Como forma de corroborar tal entendimento, e ainda que não se levasse em consideração o valor pago a época, cumpre destacar que o montante das astreintes ora executadas, representam mais de 100 (cem) vezes o valor principal da condenação (R$ 5.100,00).
+Assim é que a fumaça do direito se mostrou presente quando da análise liminar. Nesse contexto, conforme bem destacado pela Procuradoria Geral de Justiça, "ainda que se reconheça a validade da incidência da multa diária, não se pode negar que o montante executado acabou por atingir patamares desproporcionais, levando-se em conta a obrigação original e as peculiaridades do caso concreto."
+Assim, na espécie, entendo que o valor da multa diária fixado inicialmente, qual seja, R$ 1.000,00(mil reais), não se mostrou excessivo no momento de sua fixação.
+Porém, não se pode deixar de perceber que, a despeito do descumprimento de parte da ordem judicial pela parte executada, ora Agravante, a aplicação das astreintes por lapso temporal sobremodo largo pode mostrar-se manifestamente excessivo e causar enriquecimento ilícito em favor dos Agravados, o que possibilita sua revisão a fim de adequá-lo a parâmetros razoáveis, considerando que o valor da multa cominatória não faz coisa julgada material.
+(..)
+Nessa linha, embora não haja razão jurídica para limitação das astreintes ao valor principal da obrigação - dado que possui natureza diversa da multa prevista no artigo 412 do CC - penso que a importância a título de multa cominatória, na hipótese, deve ser limitada à R$ 200.000,00 (duzentos mil reais), uma vez que tal valor se mostra mais consentâneo e proporcional à própria origem da dívida principal.
+A respeito do montante da multa diária, o Superior Tribunal de Justiça possui jurisprudência pacífica no sentido de que o valor das astreintes deve guardar relação de proporcionalidade com o interesse a ser protegido pela prestação da obrigação principal, evitando-se, assim, o desvirtuamento da medida coercitiva, que poderia (i) ser mais atrativa ao demandado, por ser a transgressão mais lucrativa que o cumprimento da obrigação (insuficiência da penalidade), ou (ii) ser mais vantajosa ao demandante, que enriqueceria abruptamente às custas do réu (penalidade excessiva).
+Com efeito, a multa cominatória tem por finalidade constranger o devedor a adotar um comportamento tendente à implementação da obrigação e não, servir de compensação pela deliberada inadimplência.
+Assim, para a apuração da razoabilidade e da proporcionalidade das astreintes, não é recomendável se utilizar apenas do critério comparativo entre o valor da obrigação principal e a soma total obtida com o descumprimento da medida coercitiva, sendo mais adequado, em regra, o cotejamento ponderado entre o valor diário da multa no momento de sua fixação e a prestação que deveria ser adimplida pelo demandado recalcitrante.
+A esse respeito, confiram-se: REsp nº 1.475.157/SC, Rel. Ministro Marco Aurélio Bellizze, DJe 6/10/2014, e AgRg no AREsp nº 394.283/SC, Rel. Ministro Moura Ribeiro, DJe 26/2/2016; REsp 1840693/SC, Rel. Ministro Ricardo Villas Bôas Cueva, DJe 29/05/2020.
+Na hipótese, trata-se de multa diária de R$ 1.000,00 (mil reais), cominada à ora recorrente.
+Diante do reiterado descumprimento da ordem, a penalidade alcançou a quantia de R$ 200.000,00 o que foge - e muito - da razoabilidade, tendo em conta especialmente o objeto da controvérsia da ação principal (obrigação de fazer, no valor de condenação aproximado de R$ 5.100,00).
+É evidente, aqui, a desproporcionalidade da penalidade imposta, circunstância suficiente para ensejar na sua redução. Cabe, portanto, definir um valor adequado e razoável, a fim de atender os critérios já mencionados, levando em conta as peculiaridades do caso concreto.
+No ponto, considerando as obrigações impostas à instituição financeira, o prazo de descumprimento mencionado e os princípios da proporcionalidade e da razoabilidade, a fim de evitar o enriquecimento sem causa do autor da ação, sem, contudo, ignorar o caráter preventivo e repressivo inerentes ao instituto, considero razoável o valor R$ 50.000,00.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dou parcial provimento ao recurso especial, para reduzir o valor total das astreintes a R$ 50.000,00.
+Publique-se.
+Intimem-se.
+EMENTA
