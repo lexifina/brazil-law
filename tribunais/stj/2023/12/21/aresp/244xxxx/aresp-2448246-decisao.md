@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ (e-STJ fls. 359/362).
+O Tribunal de origem negou provimento à apelação do recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 266):
+APELAÇÃO. Ação de cobrança. Seguro Obrigatório DPVAT. Sentença de improcedência.
+Apelação do autor. Laudo pericial elaborado pelo IMESC, sob o crivo do contraditório, que não padece de vício e que constatou a incapacidade parcial sofrida pela segurada em 1%, que é o mesmo percentual do grau de comprometimento patrimonial físico apurado pela ré na via administrativa. Demandante que já recebeu administrativamente o valor devido. Indenização securitária que não pode ser integral, mas proporcional ao grau de sua incapacidade. Autor que insiste na complementação do pagamento no que tange à correção monetária. Correção monetária que incide sobre a indenização DPVAT apenas se o pagamento administrativo não for efetuado no prazo de trinta (30) dias, a contar da entrega dos documentos necessários para a regulação do sinistro. Aplicação do artigo 5º, §§ 1º e 7º, da Lei nº 6.194/74, e da Súmula 580 do C. Superior Tribunal de Justiça. Precedentes do STJ, desta Câmara e desta Corte. Caso em que a autora foi indenizada antes de esgotar o prazo legal. Complementação indevida. Sentença de improcedência mantida. RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 295/300).
+No recurso especial (e-STJ fls. 302/325), com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou negativa de vigência aos seguintes dispositivos:
+(i) arts. 489 e 1.022 do CPC/2015, sustentando que "não foram demonstradas por qual motivo o Nobre desembargador não seguiu as decisões dos Tribunais Superiores" (e-STJ fl. 306), e
+(ii) arts. 884 do CC e 926 e 927 do CPC, acrescentando que o valor pago administrativamente, atendendo a precedente obrigatório do STJ, deve ser corrigido monetariamente desde a data do acidente, o que não foi feito quando a seguradora efetuou o pagamento do seguro.
+Foram oferecidas contrarrazões (e-STJ fls. 352/358).
+No agravo (e-STJ fls. 365/386), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 389/397).
+É o relatório.
+Decido.
+I) Não há nenhuma omissão ou falha na fundamentação, inexistindo portanto os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC.
+O acórdão recorrido dirimiu a controvérsia com base em fundamentação sólida, analisando a jurisprudência do STJ quanto à matéria, o que não se confunde com omissão ou falha na fundamentação, tendo em vista que apenas resolveu a questão contrariamente ao postulado pela parte insurgente. Ademais, o órgão julgador não é obrigado a responder a questionamento das partes, mas apenas a motivar seu convencimento, como de fato ocorreu.
+II) Acerca da incidência da correção monetária, o seguinte excerto do aresto impugnado (e-STJ fls. 267/271):
+Trata-se de ação de cobrança ajuizada pela parte apelante em face da seguradora apelada, com a finalidade de receber da seguradora ré, diferença de indenização do seguro obrigatório (DPVAT), decorrente de invalidez permanente ocasionada por ter sido vítima de acidente de trânsito, ocorrido em 30/11/2016. Sustenta que não concorda com o valor pago na via administrativa, pois não indeniza corretamente o grau de sua invalidez a condenação da requerida ao pagamento da indenização de acordo com a tabela, além de não ter sido pago o seguro no prazo de 30 dias, razão porque deverá contar com a correção pela inércia.
+A r. sentença julgou improcedente a ação, condenando a autora a pagar as despesas processuais e honorários advocatícios fixados em 10% do valor atualizado da causa.
+A controvérsia recursal reside em avaliar se é cabível ou não o pagamento da correção monetária a partir do evento danoso.
+Inicialmente, frisa-se ser incontroverso, dos autos, que o autor recebeu, administrativamente, indenização em razão de acidente de trânsito no valor de R$ 337,50.
+Houve perícia realizada pelo IMESC, que concluiu ter a autora sofrido perda funcional incompleta do 5º dedo da mão esquerda, com repercussão residual, causando-lhe invalidez parcial permanente (10%), com sequela residual (10%), correspondente a 1% segundo cálculo indenizatório da tabela SUSEP (fls. 204/205).
+Como é cediço, a Lei n. 6.194, de 19 de dezembro de 1974 determinou, em seu artigo 3º, que o pagamento de indenização referente ao Seguro Obrigatório de Danos Pessoais causados por veículos automotores (DPVAT) é devido às vítimas de acidentes automobilísticos em razão de morte ou invalidez permanente, total ou parcial.
+No caso de morte e invalidez permanente total a indenização do seguro DPVAT será paga no teto, no valor correspondente a 40 salários mínimos (acidentes ocorridos antes da entrada em vigor da Lei n. 11.482/2007) ou R$ 13.500,00 (acidentes ocorridos após a entrada em vigor da Lei n. 11.482/2007). Entretanto, caso a invalidez seja apenas parcial e permanente, o valor da indenização será calculado com base nos limites estabelecidos pela Tabela da SUSEP.
+Assim, considerando o teto legal da indenização do seguro obrigatório DPVAT que é de R$ 13.500,00, resta patente que a autora já recebeu a cobertura devida, pela quantia de R$ 337,50, na esfera administrativa.
+E quanto a esse tocante, não recorre a parte autora.
+A controvérsia recursal cinge-se ao termo inicial da correção monetária da quantia paga administrativamente, resignando-se a autora apelante quanto ao pedido de pagamento de valor residual.
+Nesse sentido ainda, sem razão à recorrente.
+É cediço que a correção monetária tem como finalidade a recomposição do poder de compra da moeda corroída pela inflação.
+No caso do Seguro DPVAT, a incidência desse consectário sobre a indenização correspondente apenas tem lugar quando o pagamento administrativo não é efetuado no prazo de trinta (30) dias contados da entrega da documentação necessária para a regulação do sinistro.
+ ..
+Na hipótese dos autos, embora o acidente tenha ocorrido em 30/11/2016, e após a entrega da documentação necessária apresentada 17/02/2017 (fls. 70 e seguintes), conforme carimbo aposto nos referidos documentos, foi noticiada a abertura do pedido de indenização em 24/02/2017 (fls. 68) e em 03/03/2017 foi detectada a necessidade informações complementares (fls. 69), o autor passou por perícia médica em 15/03/2017 (fls. 94), tendo recebido a indenização em 20/03/2017 (fls. 104), portanto, dentro do prazo legal de 30 dias.
+ ..
+Assim, ao que consta, nenhuma complementação a título de correção monetária é realmente devida.
+Com efeito, "O entendimento consolidado na Súmula n. 580/STJ e no REsp n. 1.483.620/SC se aplica quando a seguradora não paga o valor da indenização no prazo de trinta dias, a contar da data de entrega da documentação. Precedentes (Súmula n. 83/STJ)" (AgInt no REsp n. 1.727.082/SP, de minha relatoria, Quarta Turma, julgado em 27/05/2019, DJe 30/05/2019).
+Nesse sentido, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO OBRIGATÓRIO DPVAT. CORREÇÃO MONETÁRIA. DATA DO EVENTO DANOSO. SÚMULA 580/STJ. PAGAMENTO TEMPESTIVO REALIZADO ADMINISTRATIVAMENTE E EM VALOR SUPERIOR AO EFETIVAMENTE DEVIDO. ATUALIZAÇÃO. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. A Súmula 580/STJ dispõe que "a correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no § 7º do art. 5º da Lei n. 6.194/1974, redação dada pela Lei n. 11.482/2007, incide desde a data do evento danoso."
+2. A correção monetária incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal, de modo que a mora da seguradora imporia a reparação das perdas ensejadas pela inflação e a recomposição do seu montante efetivo ao longo do tempo. Na espécie, a indenização foi feita tempestivamente e em quantia superior à efetivamente devida, tornando inviável a atualização monetária.
+3. Agravo interno desprovido. (AgInt no AREsp 1338095/SP, MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/10/2018, DJe 05/11/2018)
+É firme neste Tribunal o entendimento de que os valores correspondentes às indenizações sujeitam-se à correção monetária na hipótese de não cumprimento do prazo para o pagamento da respectiva obrigação pecuniária, de modo que a mora da seguradora imporia a reparação das perdas ocasionadas pela inflação e a recomposição de seu montante efetivo ao longo do tempo.
+Conforme consta no acórdão recorrido, a obrigação foi cumprida dentro do prazo legal de 30 (trinta) dias. Ressalte-se que a parte nem sequer impugnou o referido fundamento, o que faz incidir a Súmula n. 283 do STF.
+Nesse contexto, somente em caso de eventual pagamento administrativo a menor ou de descumprimento do prazo de 30 (trinta) dias para a seguradora pagar é que seria devida a correção monetária, o que não ocorreu.
+Assim, tendo em vista o contorno fático-probatório dos autos, incidem as Súmulas n. 7 e 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJ ORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 20 ), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
