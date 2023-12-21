@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de pedido de tutela provisória apresentado por MARCOS VINÍCIUS ALVES DA SILVA, objetivando a atribuição de efeito suspensivo a agravo em recurso especial (AREsp nº 2.433.182/SP) interposto contra decisão denegatória de recurso especial, o qual impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de Instrumento. Ação de cobrança de cotas e despesas condominiais. Cumprimento de sentença. Decisão agravada que considerou inadmissível a exceção de pré-executividade apresentada pelo Agravante sob o fundamento de que a questão relativa à instrução do cumprimento de sentença por atas assembleares já fora decidida quando do julgamento da impugnação do Agravante, de modo que, insistindo o recorrente em matéria preclusa, impõe-se multa por litigância de má-fé no percentual de 5% sobre o valor atualizado da dívida. Pleito recursal alegando que em nenhum momento houve manifestação judicial expressa acerca da exigência das atas assembleares ou qualquer outro documento apto que apontasse a origem dos valores individuais das cotas de condomínio executadas para o prosseguimento da execução, além do fato de que a questão das atas assembleares não fez parte do dispositivo da decisão que julgou a impugnação do Agravante. Argumentos recursais que prosperam em parte. Decisão anterior que julgou a impugnação do Agravante e enfrentou o mérito da questão acerca da instrução do cumprimento de sentença por atas assembleares. Questão preclusa. Litigância de má-fé configurada. Base de cálculoque deve ser o valor corrigido da causa e não o valor atualizado da dívida. Decisão reformada em parte, apenas e tão-somente para que o percentual de 5% (cinco por cento) aplicado pelo MM. Juízo a quo a título de multa por litigância de má-fé incida sobre o valor corrigido da causa. RECURSO PARCIALMENTE PROVIDO." (fl. 39)
+Na presente via, o requerente sustenta, em síntese, que há probabilidade de êxito do recurso especial, visto que, como consta nas razões recursais, a Corte local não considerou a irregularidade do cumprimento de sentença e a inocorrência da preclusão quanto ao tema da necessidade de juntada das atas assembleares das cotas condominiais.
+Qua nto ao perigo de dano, aduz que a execução está na fase de imissão na posse, ou seja, "(..) o Recorrente está na iminência de sofrer prejuízo irreparável (arrematação do imóvel em que reside e seu despejo)" (fl. 25).
+Ao final, requer a concessão de provimento judicial para que
+"(..) seja atribuído efeito suspensivo ao agravo em recurso especial interposto pelo Recorrente até o seu julgamento final, nos termos do art. 1.029, § 5º, I, do CPC, com a suspensão do Cumprimento de Sentença nos autos de numeral 0057889-17.2007.8.26.0114, em trâmite perante o MM. Juízo da 4ª Vara Cível da Comarca de Campinas-SP, inclusive para obstar a continuidade dos procedimentos de arrematação e imissão na posse até transferência de propriedade do imóvel." (fl. 27)
+É o breve relatório.
+DECIDO.
+O pedido está prejudicado em virtude do julgamento do AREsp nº 2.433.182/SP/RJ, vinculado à presente tutela provisória.
+Na ocasião, o agravo do ora requerente foi conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Logo, não há mais falar em interesse na concessão de efeito suspensivo a recurso já apreciado.
+Nesse sentido, vale conferir os seguintes julgados:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO EM PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO. JULGAMENTO DO RECURSO. TUTELA E AGRAVO INTERNO PREJUDICADOS.
+1. O Agravo em Recurso Especial ao qual se pretendia atribuir efeito suspensivo não foi conhecido. Portanto, deve ser reconhecida a perda de objeto da Tutela de Urgência e do correspondente Agravo Interno.
+2. Agravo Interno prejudicado." (EDcl no TP nº 2.140/ES, rel. Ministro HERMAN BENJAMIN, DJe 9/6/2020)
+"TRIBUTÁRIO. PROCESSUAL CIVIL. TUTELA PROVISÓRIA AJUIZADA COM O OBJETIVO DE IMPRIMIR EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. JULGAMENTO DO RECURSO. PERDA DE OBJETO DOS ACLARATÓRIOS, DO AGRAVO INTERNO E DA PRÓPRIA TUTELA PROVISÓRIA.
+1. Julgado o mérito do agravo recurso especial ao qual a medida cautelar visava atribuir efeito suspensivo, perdem os respectivos objetos os presentes aclaratórios, o agravo interno manejado contra a decisão que deferiu pedido de medida liminar na tutela provisória e a própria tutela provisória. Precedentes.
+2. Embargos de declaração, agravo interno e tutela provisória prejudicados." (EDcl no AgInt no TP nº 310/RS, rel. Ministro SÉRGIO KUKINA, DJe 1º/7/2019)
+Ante o exposto, julgo prejudicado o pedido de concessão de tutela provisória.
+Publique-se.
+Intimem-se.
+EMENTA
