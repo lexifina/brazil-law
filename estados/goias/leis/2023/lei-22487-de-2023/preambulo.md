@@ -1,0 +1,3 @@
+# LEI Nº 22.487, DE 22 DE DEZEMBRO DE 2023
+Dispõe sobre a adesão complementar do Estado de Goiás aos benefícios fiscais previstos na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS 190/17, de 15 de dezembro de 2017, e altera a Lei nº 17.441, de 21 de outubro de 2011.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, tendo em vista o disposto nas Leis Complementares federais nº 24, de 7 de janeiro de 1975, e nº 160, de 7 de agosto de 2017, também no Convênio ICMS 190/17, de 15 de dezembro de 2017, decreta e eu sanciono a seguinte lei:
