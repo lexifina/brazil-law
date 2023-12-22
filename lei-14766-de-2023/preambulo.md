@@ -1,0 +1,2 @@
+Acresce dispositivo à Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para estabelecer a não caracterização como perigosas das atividades ou operações que envolvam exposição às quantidades de inflamáveis contidas em tanques de combustíveis originais de fábrica e suplementares, na forma que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, a seguinte Lei:
