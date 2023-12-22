@@ -1,0 +1,3 @@
+Artigo 2° - Observado o Anexo II a que se refere o artigo 67 desta lei complementar, o cargo ou função-atividade de funcionário ou servidor do Quadro do Magistério será enquadrado em referência numérica situada tantas referências acima da inicial da classe a que pertencer, quanto for a parte inteira da divisão, por 5 (cinco), do total de pontos consignados na forma estabelecida no artigo anterior.
+§ 1° - Em 1° de janeiro de 1987, proceder-se-á a novo enquadramento do cargo ou função-atividade, nos termos do Anexo III de que cuida o dispositivo mencionado no "caput".
+§ 2° - Caberá a autoridade competente a lavra da respectiva apostila e a publicação do ato.

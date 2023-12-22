@@ -1,0 +1,3 @@
+Artigo 6° - Os proventos dos inativos serão revistos na conformidade dos Anexos II e III que fazem parte integrante desta lei complementar.
+§ 1° - O valor da aula excedente ou da carga suplementar de trabalho docente, incorporado aos proventos do inativo, será apurado na forma do artigo 69 desta lei complementar.
+§ 2° - Para os inativos, aos quais tenha sido concedida a gratificação a título de progressão funcional, nos termos do artigo 47 da Lei Complementar n° 201, de 9 de novembro de 1978, ficam atribuídos, em substituição à referida gratificação, os pontos a que se referem os itens 1 e 2 do § 1° do artigo 49 desta lei complementar.

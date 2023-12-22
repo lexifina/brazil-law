@@ -1,0 +1,2 @@
+Artigo 3° - A contar de 1° de janeiro de 1986, considerado o tempo de serviço até 31 de dezembro de 1985, nos termos do disposto no artigo 47 desta lei complementar, proceder-se-á ao enquadramento de todos os funcionários e servidores no respectivo grau.
+Parágrafo único - Na hipótese do funcionário ou o servidor já estarem enquadrados em grau superior aos previstos nos incisos I, II e III do artigo 47 desta lei complementar, fica mantido o referido grau.

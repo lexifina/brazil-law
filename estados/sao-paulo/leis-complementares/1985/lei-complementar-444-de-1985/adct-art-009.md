@@ -1,0 +1,1 @@
+Artigo 9° - Fica o Poder Executivo autorizado a efetuar o pagamento retroativo de férias proporcionais aos servidores do Quadro do Magistério admitidos em caráter temporário, correspondente ao ano de 1985.

@@ -1,0 +1,1 @@
+Artigo 7° - Para os fins deste Estatuto, equipara-se a hora prestada a título de carga suplementar de trabalho docente, de que trata o artigo 41, à aula excedente ministrada, ou a esse título percebida, anteriormente à vigência desta lei complementar.
