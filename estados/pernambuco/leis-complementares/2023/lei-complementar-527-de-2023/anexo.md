@@ -1,0 +1,97 @@
+ANEXO ÚNICO
+
+“ANEXO ÚNICO
+
+COMPOSIÇÃO DO EFETIVO DO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO
+
+1. OFICIAIS
+
+1.1 QUADRO DE OFICIAIS COMBATENTES (QOC/BM)
+
+Coronel BM
+
+17
+
+Tenente Coronel BM
+
+41 (NR)
+
+Major BM
+
+92 (NR)
+
+Capitão BM
+
+97 (NR)
+
+1° Tenente BM
+
+80
+
+2º Tenente BM
+
+206
+
+TOTAL
+
+533
+
+1.2 QUADRO DE OFICIAIS DA ADMINISTRAÇÃO (QOA/BM)
+
+Major BM
+
+15
+
+Capitão BM
+
+38
+
+1º Tenente BM
+
+51
+
+2° Tenente BM
+
+70
+
+TOTAL
+
+174
+
+2. PRAÇAS
+
+QUALIFICAÇÃO BOMBEIRO MILITAR GERAL (QBMG-1)
+
+Subtenente BM
+
+86
+
+1º Sargento BM
+
+225
+
+2° Sargento BM
+
+303
+
+3° Sargento BM
+
+631
+
+Cabo BM
+
+617 (NR)
+
+Soldado BM
+
+2.680
+
+Total
+
+4.542 (NR)
+
+TOTAL GERAL DO EFETIVO
+
+5.249 (NR)
+
+” (NR)
