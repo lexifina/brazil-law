@@ -1,0 +1,37 @@
+ANEXO ÚNICO
+
+“ANEXO 4
+
+PERCENTUAIS DE REDUÇÃO DO CRÉDITO TRIBUTÁRIO DO ICMS, IPVA E ICD - EMPRESAS EM PROCESSO DE RECUPERAÇÃO JUDICIAL OU EM LIQUIDAÇÃO
+
+(art. 9º-A)
+
+PERCENTUAL DE REDUÇÃO DE MULTA E JUROS
+
+QUANTIDADE DE PARCELAS
+
+95%
+
+Até 48 parcelas
+
+90%
+
+De 49 a 72 parcelas
+
+85%
+
+De 73 a 96 parcelas
+
+80%
+
+De 97 a 120 parcelas
+
+75%
+
+De 121 a 144 parcelas
+
+70%
+
+De 145 a 180 parcelas
+
+” (AC)
