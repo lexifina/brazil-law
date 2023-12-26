@@ -1,0 +1,5 @@
+# Lei nº 9.121, de 22 de dezembro de 2023, do Estado de Alagoas
+
+" ALTERA A LEI ESTADUAL  Nº 7.822, DE 27 DE SETEMBRO DE 2016, QUE DISPÕE SOBRE A REESTRUTURAÇÃO  DA CARREIRA DOS SERVIDORES  DO DEPARTAMENTO  ESTADUAL DE TRÂNSITO  DE ALAGOAS - DETRAN/AL; REVOGA A LEI ESTADUAL  Nº 7.823, DE 26 DE SETEMBRO DE 2016, QUE FIXA OS SUBSÍDIOS  DOS INTEGRANTES  DA CARREIRA ATIVIDADES  DE TRÂNSITO, DO DEPARTAMENTO  ESTADUAL DE TRÂNSITO  DE ALAGOAS  - DETRAN/AL, E DÁ OUTRAS PROVIDÊNCIAS".
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/2825>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2023/2825/lei_no_9.121_de_22_de_dezembro_de_2023_1.pdf>
