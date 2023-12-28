@@ -1,4 +1,4 @@
-Art. 8º Até 31 de dezembro de 2023, poderão contribuir sobre o valor da receita bruta, excluídos as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991:
+Art. 8º Até 31 de dezembro de 2027, poderão contribuir sobre o valor da receita bruta, excluídos as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991:
 I - (revogado);
 II - (revogado);
 III - (revogado);
