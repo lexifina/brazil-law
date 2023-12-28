@@ -1,0 +1,5 @@
+DISPÕE sobre o Plano Plurianual para o período de 2024-2027.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
