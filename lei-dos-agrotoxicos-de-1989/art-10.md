@@ -1,1 +1,0 @@
-Art. 10. Compete aos Estados e ao Distrito Federal, nos termos dos arts. 23 e 24 da Constituição Federal, legislar sobre o uso, a produção, o consumo, o comércio e o armazenamento dos agrotóxicos, seus componentes e afins, bem como fiscalizar o uso, o consumo, o comércio, o armazenamento e o transporte interno.

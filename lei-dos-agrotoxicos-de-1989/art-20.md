@@ -1,2 +1,0 @@
-Art. 20. As empresas e os prestadores de serviços que já exercem atividades no ramo de agrotóxicos, seus componentes e afins, têm o prazo de até 6 (seis) meses, a partir da regulamentação desta Lei, para se adaptarem às suas exigências.
-Parágrafo único. Aos titulares do registro de produtos agrotóxicos que têm como componentes os organoclorados será exigida imediata reavaliação de seu registro, nos termos desta Lei.
