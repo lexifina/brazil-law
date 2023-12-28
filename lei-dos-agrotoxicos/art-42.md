@@ -1,0 +1,1 @@
+Art. 42. As alterações de embalagens, de rótulos e de bulas deverão ser realizadas no prazo de até 12 (doze) meses, contado da data de homologação da alteração, permitido o uso das embalagens, dos rótulos e das bulas remanescentes na produção, dentro do referido prazo.

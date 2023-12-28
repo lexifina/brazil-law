@@ -1,0 +1,1 @@
+Art. 23. A empresa requerente deverá comunicar quaisquer alterações estatutárias ou contratuais aos órgãos federais registrantes e fiscalizadores até 30 (trinta) dias após seu registro em órgão competente.

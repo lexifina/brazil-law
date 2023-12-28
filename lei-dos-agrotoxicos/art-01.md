@@ -1,0 +1,3 @@
+Art. 1º A pesquisa, a experimentação, a produção, a embalagem, a rotulagem, o transporte, o armazenamento, a comercialização, a utilização, a importação, a exportação, o destino final dos resíduos e das embalagens, o registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, de produtos de controle ambiental, de seus produtos técnicos e afins são regidos por esta Lei.
+§ 1º Os produtos e os agentes de processos físicos, químicos ou biológicos destinados ao uso nos setores de proteção de ambientes urbanos e industriais são regidos pela Lei nº 6.360, de 23 de setembro de 1976.
+§ 2º Os produtos com função adjuvante não são regulados por esta Lei e serão regidos por regulamento específico.

@@ -1,0 +1,1 @@
+Art. 38. As empresas titulares de registro, fabricantes e formuladoras de agrotóxicos, de produtos de controle ambiental e afins, de produtos técnicos e de outros ingredientes, poderão adotar procedimentos de revalidação, de retrabalho e de reprocessamento, conforme procedimento a ser estabelecido pelos respectivos órgãos registrantes em ato específico.

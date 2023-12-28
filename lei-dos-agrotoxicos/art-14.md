@@ -1,0 +1,2 @@
+Art. 14. Serão consideradas autorizadas as matérias-primas especificadas no processo de síntese do produto técnico registrado e do produto técnico equivalente registrado, bem como os outros ingredientes e aditivos usados na fabricação de produtos genéricos, de produtos formulados e afins.
+Parágrafo único. O órgão federal registrante publicará e manterá atualizada a lista de matérias-primas, de outros ingredientes e de aditivos autorizados.

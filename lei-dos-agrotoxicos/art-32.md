@@ -1,0 +1,1 @@
+Art. 32. Em nenhuma hipótese será dado tratamento diferenciado entre as empresas com requerimentos ou com alteração de registro em tramitação e as empresas com registro ou com permissão para comercialização, produção, importação, exportação e uso do produto à base do ingrediente ativo em reanálise.
