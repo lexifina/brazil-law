@@ -1,4 +1,4 @@
-Art. 7º Até 31 de dezembro de 2023, poderão contribuir sobre o valor da receita bruta, excluídos as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991:
+Art. 7º Até 31 de dezembro de 2027, poderão contribuir sobre o valor da receita bruta, excluídos as vendas canceladas e os descontos incondicionais concedidos, em substituição às contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991:
 I - as empresas que prestam os serviços referidos nos §§ 4º e 5º do art. 14 da Lei nº 11.774, de 17 de setembro de 2008;
 III - as empresas de transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal, intermunicipal em região metropolitana, intermunicipal, interestadual e internacional enquadradas nas classes 4921-3 e 4922-1 da CNAE 2.0.
 IV - as empresas do setor de construção civil, enquadradas nos grupos 412, 432, 433 e 439 da CNAE 2.0;
