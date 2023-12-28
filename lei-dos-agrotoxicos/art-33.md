@@ -1,0 +1,1 @@
+Art. 33. É vedada a reanálise de registro de agrotóxicos, de produtos de controle ambiental e afins que se fundamente em relatórios, dados e informações fornecidos somente por interessado detentor do registro.

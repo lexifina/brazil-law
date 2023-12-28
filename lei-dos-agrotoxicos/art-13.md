@@ -1,0 +1,1 @@
+Art. 13. O registrante de produto ou o titular de registro deve apresentar ao órgão registrante, quando solicitado, amostra e padrões analíticos considerados necessários, conforme diretrizes estabelecidas pelo órgão federal registrante.

@@ -1,0 +1,3 @@
+Art. 29. As reanálises dos agrotóxicos e afins deverão ser realizadas e concluídas no prazo de até 1 (um) ano, prorrogável por 6 (seis) meses mediante justificativa técnica, sem prejuízo da análise de pleitos e de alterações de registro em tramitação, bem como da manutenção da comercialização, da produção, da importação e do uso do produto à base do ingrediente ativo em reanálise.
+§ 1º O órgão federal responsável pelo setor da agricultura deverá desenvolver um plano fitossanitário de substituição do produto, com vistas ao controle de alvos biológicos que porventura possam ficar sem alternativas para manejo integrado de pragas.
+§ 2º (VETADO).

@@ -1,0 +1,1 @@
+Art. 63. As instituições que desenvolverem atividades reguladas por esta Lei na data de sua publicação deverão adequar-se aos seus dispositivos no prazo de 360 (trezentos e sessenta) dias, contado da publicação desta Lei.

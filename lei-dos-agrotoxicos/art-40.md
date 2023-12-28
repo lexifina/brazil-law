@@ -1,0 +1,1 @@
+Art. 40. As empresas titulares de registro deverão encaminhar ao órgão federal registrante até 31 de janeiro de cada ano, em via eletrônica, os dados anuais referentes às quantidades de produtos importados, exportados, produzidos, formulados e comercializados de acordo com o modelo de relatório anual do órgão registrante.

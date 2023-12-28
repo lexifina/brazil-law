@@ -1,0 +1,1 @@
+Art. 51. Aquele que produzir, importar, comercializar, transportar, aplicar, prestar serviço ou der destinação a sobras e embalagens vazias de agrotóxicos, de produtos de controle ambiental e afins em descumprimento às exigências estabelecidas na legislação pertinente estará sujeito às sanções estabelecidas nesta Lei.

@@ -1,0 +1,1 @@
+Art. 46. O armazenamento de agrotóxicos, de produtos de controle ambiental e afins obedecerá à legislação específica vigente para produtos químicos e às instruções fornecidas pelo fabricante, inclusive especificações e procedimentos a serem adotados no caso de acidentes, de derramamento ou de vazamento de produto.

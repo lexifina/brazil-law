@@ -1,0 +1,1 @@
+Art. 24. As empresas importadoras, exportadoras, produtoras ou formuladoras de agrotóxicos, de produtos de controle ambiental e afins passarão a adotar, para cada partida importada, exportada, produzida ou formulada, codificação específica, que deverá constar de todas as embalagens dela originadas, vedado o uso do mesmo código para partidas diferentes.

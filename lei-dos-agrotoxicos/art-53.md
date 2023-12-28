@@ -1,0 +1,1 @@
+Art. 53. Os agrotóxicos, os produtos de controle ambiental e afins apreendidos como resultado da ação fiscalizadora serão inutilizados ou poderão ter outro destino, a critério da autoridade competente.

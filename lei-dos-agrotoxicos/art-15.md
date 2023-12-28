@@ -1,0 +1,3 @@
+Art. 15. O agrotóxico ou o produto de controle ambiental idêntico será registrado, em até 60 (sessenta) dias, com o uso dos mesmos dados e informações de outro produto já registrado, pelo mesmo titular ou por terceiros autorizados, quando apresentar composição qualitativa e quantitativa idêntica, os mesmos fabricantes ou os mesmos formuladores, a mesma indicação de uso, as mesmas doses e apenas marca comercial distinta.
+§ 1º O registrante da marca comercial deverá depositar no órgão registrante o novo rótulo e a documentação em conformidade com o disposto no caput deste artigo.
+§ 2º O órgão registrante terá o prazo máximo de 30 (trinta) dias, contado da data do requerimento, para publicá-lo no Diário Oficial da União ou no seu sítio eletrônico.

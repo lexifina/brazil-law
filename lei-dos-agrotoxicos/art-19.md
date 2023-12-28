@@ -1,0 +1,2 @@
+Art. 19. Produtos técnicos poderão ser registrados por equivalência quando possuírem o mesmo ingrediente ativo, cujos teor e conteúdo de impurezas não variem a ponto de alterar seu perfil toxicológico conforme os critérios e os procedimentos sobre equivalência estabelecidos pela FAO.
+Parágrafo único. Os estudos e os testes de equivalência poderão ser realizados por órgãos, por instituições de pesquisa ou por laboratórios, públicos ou privados, credenciados pelo órgão federal competente.

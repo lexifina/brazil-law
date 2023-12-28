@@ -1,0 +1,3 @@
+Art. 39. Os agrotóxicos, os produtos de controle ambiental e afins serão comercializados diretamente aos usuários mediante a apresentação de receita agronômica própria emitida por profissional legalmente habilitado, salvo casos excepcionais que forem previstos na regulamentação desta Lei.
+§ 1º O profissional habilitado poderá prescrever receita agronômica antes da ocorrência da praga, de forma preventiva, com vistas ao controle de alvos biológicos que necessitam de aplicação de agrotóxicos, de produtos de controle ambiental e afins.
+§ 2º O profissional habilitado poderá recomendar mistura em tanque, quando necessário.

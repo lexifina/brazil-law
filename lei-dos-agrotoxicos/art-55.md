@@ -1,0 +1,7 @@
+Art. 55. Compete aos órgãos de registro e de fiscalização referidos nos arts. 8º e 9º desta Lei definir critérios e valores e aplicar multas de R$ 2.000,00 (dois mil reais) a R$ 2.000.000,00 (dois milhões de reais), proporcionalmente à gravidade da infração.
+§ 1º As multas poderão ser aplicadas cumulativamente com as demais sanções previstas nesta Lei.
+§ 2º No caso de reincidência na mesma infração, a multa será aplicada em dobro.
+§ 3º No caso de infração continuada, caracterizada pela permanência da ação ou da omissão inicialmente punida, será a respectiva penalidade aplicada diariamente até cessar sua causa, sem prejuízo da paralisação imediata da atividade ou da interdição do laboratório ou da instituição ou empresa responsável.
+§ 4º As multas previstas nesta Lei serão aplicadas pelos órgãos e pelas entidades de registro e de fiscalização, de acordo com as respectivas competências.
+§ 5º Os órgãos e as entidades fiscalizadores da administração pública federal poderão celebrar convênios com os Estados, o Distrito Federal e os Municípios para a execução de serviços relacionados à atividade de fiscalização prevista nesta Lei e poderão repassar-lhes parcela da receita obtida com a aplicação de multas.
+§ 6º Quando a infração constituir crime ou contravenção, ou lesão à Fazenda Pública ou ao consumidor, a autoridade fiscalizadora encaminhará cópia do auto de infração aos órgãos competentes para a apuração das responsabilidades administrativa e penal.

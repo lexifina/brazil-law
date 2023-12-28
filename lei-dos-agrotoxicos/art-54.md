@@ -1,0 +1,1 @@
+Art. 54. O poder público desenvolverá ações de educação, de instrução, de divulgação e de esclarecimento que estimulem o uso seguro e eficaz de agrotóxicos, de produtos de controle ambiental e afins, com o objetivo de reduzir eventuais efeitos prejudiciais aos seres humanos e ao meio ambiente e de prevenir acidentes decorrentes de sua utilização indevida.

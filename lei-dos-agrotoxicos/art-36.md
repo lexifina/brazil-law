@@ -1,0 +1,4 @@
+Art. 36. O órgão registrante manterá atualizados e aperfeiçoados os mecanismos destinados a fiscalizar a qualidade dos agrotóxicos, dos produtos de controle ambiental e afins, tendo em vista a identidade, a pureza e a eficácia dos produtos.
+§ 1º As medidas a que se refere este artigo efetivar-se-ão por meio das especificações e do controle da qualidade dos produtos e da fiscalização da pesquisa, da manipulação, da produção e da importação.
+§ 2º A definição das especificações, dos níveis de controle e das tolerâncias para o controle de qualidade dos agrotóxicos, dos produtos de controle ambiental, de seus produtos técnicos, dos outros ingredientes e afins será fixada pelo órgão registrante.
+§ 3º Os limites aceitáveis de diferença entre a composição do produto formulado e o resultado da avaliação química obedecerão ao estabelecido pelo órgão registrante.
