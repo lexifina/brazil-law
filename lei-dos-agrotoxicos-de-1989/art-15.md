@@ -1,1 +1,0 @@
-Art. 15. Aquele que produzir, comercializar, transportar, aplicar, prestar serviço, der destinação a resíduos e embalagens vazias de agrotóxicos, seus componentes e afins, em descumprimento às exigências estabelecidas na legislação pertinente estará sujeito à pena de reclusão, de dois a quatro anos, além de multa.
