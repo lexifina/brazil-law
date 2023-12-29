@@ -8,4 +8,4 @@ d) capacidade de inserção internacional do parque produtivo;
 e) maior geração de emprego por unidade de renúncia fiscal estimada;
 f) elevação dos níveis mínimos de agregação dos produtos oriundos de estabelecimentos localizados na Zona Franca de Manaus ou da Amazônia Ocidental.
 § 1º O disposto no caput deste artigo deixará de produzir efeitos se o Poder Executivo não encaminhar ao Congresso Nacional, até 15 de março de 1998, os projetos de lei de que trata este artigo.
-§ 2º Ficam extintos, a partir de 1º de janeiro de 2024, os benefícios fiscais a que se referem os dispositivos legais mencionados no caput deste artigo.
+§ 2º Ficam extintos, a partir de 1º de janeiro de 2074, os benefícios fiscais a que se referem os dispositivos legais mencionados no caput deste artigo.
