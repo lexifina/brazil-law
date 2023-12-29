@@ -11,6 +11,7 @@ VI - o valor objeto de pedido de restituição ou de ressarcimento já indeferid
 VII - o crédito objeto de pedido de restituição ou ressarcimento e o crédito informado em declaração de compensação cuja confirmação de liquidez e certeza esteja sob procedimento fiscal;
 VIII - os valores de quotas de salário-família e salário-maternidade; e
 IX - os débitos relativos ao recolhimento mensal por estimativa do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) apurados na forma do art. 2º desta Lei.
+X - o valor do crédito utilizado na compensação que superar o limite mensal de que trata o art. 74-A.
 § 4º Os pedidos de compensação pendentes de apreciação pela autoridade administrativa serão considerados declaração de compensação, desde o seu protocolo, para os efeitos previstos neste artigo.
 § 5º O prazo para homologação da compensação declarada pela sujeito passivo será de 5 (cinco) anos, contado da data da entrega da declaração de compensação.
 § 6º A declaração de compensação constitui confissão de dívida e instrumento hábil e suficiente para a exigência dos débitos indevidamente compensados.
