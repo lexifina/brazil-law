@@ -1,0 +1,4 @@
+Art. 2º-A. No período de 1º de janeiro de 2024 a 31 de dezembro de 2026, a pessoa jurídica poderá descontar da Contribuição para o PIS/Pasep e da Cofins devidas em cada período de apuração crédito presumido calculado sobre a receita decorrente da prestação de serviços de transporte rodoviário regular de passageiros intermunicipal, exceto metropolitano, e de transporte rodoviário regular de passageiros interestadual.
+Parágrafo único. O valor dos créditos presumidos da Contribuição para o PIS/Pasep e da Cofins será obtido pela multiplicação dos percentuais correspondentes às alíquotas das referidas contribuições sobre a receita de que trata o caput deste artigo, reduzido em:
+I - 33,33% (trinta e três inteiros e trinta e três centésimos por cento) de 1º de janeiro a 31 de dezembro de 2024; e
+II - 50% (cinquenta por cento) de 1º de janeiro de 2025 a 31 de dezembro de 2026.
