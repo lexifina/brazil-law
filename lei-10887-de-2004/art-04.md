@@ -28,6 +28,15 @@ XXI - a Gratificação Específica de Produção de Radioisótopos e Radiofárma
 XXII - a Gratificação de Raio X;
 XXIII - a parcela relativa ao Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira, recebida pelos servidores da carreira Tributária e Aduaneira da Receita Federal do Brasil;
 XXIV - a parcela relativa ao Bônus de Eficiência e Produtividade na Atividade de Auditoria-Fiscal do Trabalho, recebida pelos servidores da carreira de Auditoria-Fiscal do Trabalho.
-XXVI - o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade (BPMBI); e
-XXVII - o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios (BMOB).
-§ 2º O servidor ocupante de cargo efetivo poderá optar pela inclusão, na base de cálculo da contribuição, de parcelas remuneratórias percebidas em decorrência de local de trabalho e do exercício de cargo em comissão ou de função comissionada ou gratificada, da Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal (GSISTE), da Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática (GSISP), da Gratificação Temporária de Atividade em Escola de Governo (GAEG), da Gratificação Específica de Produção de Radioisótopos e Radiofármacos (GEPR), da Gratificação de Raio X e daquelas recebidas a título de adicional noturno ou de adicional por serviço extraordinário, para efeito de cálculo do benefício a ser concedido com fundamento no art. 40 da Constituição Federal e no art. 2º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, respeitada, em qualquer hipótese, a limitação estabelecida no § 2º do art. 40 da Constituição Federal.
+XXVI - o Bônus de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade (BPMBI);
+XXVII - o Bônus de Desempenho Institucional por Análise de Benefícios com Indícios de Irregularidade do Monitoramento Operacional de Benefícios (BMOB); e
+XXVIII - a Gratificação Temporária de Proteção e Defesa Civil.
+§ 2º O servidor ocupante de cargo efetivo poderá optar pela inclusão na base de cálculo da contribuição, para efeito de cálculo do benefício a ser concedido com fundamento no art. 40 da Constituição e no art. 2º da Emenda Constitucional nº 41, de 2003, respeitada a limitação estabelecida no § 2º do art. 40 da Constituição, e no art. 26 da Emenda Constitucional nº 103, de 12 de novembro de 2019, das seguintes parcelas:
+I - das percebidas em decorrência de local de trabalho e do exercício de cargo em comissão ou de função comissionada ou gratificada;
+II - GSISTE;
+III - da GSISP;
+IV - da GAEG;
+V - da GEPR;
+VI - da Gratificação de Raio X;
+VII - daquelas recebidas a título de adicional noturno ou de adicional por serviço extraordinário; e
+VIII - da Gratificação Temporária de Proteção e Defesa Civil.
