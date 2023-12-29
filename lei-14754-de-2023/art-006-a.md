@@ -1,0 +1,1 @@
+Art. 6º-A. As pessoas físicas residentes no País com entidades controladas no exterior que não se enquadrarem nas hipóteses previstas no § 5º do art. 5º poderão optar por tributar os lucros apurados por essas entidades a partir de 1º de janeiro de 2024 de acordo com o disposto no art. 5º desta Lei.
