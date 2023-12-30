@@ -1,4 +1,0 @@
-Art. 6º Observado o disposto no § 3º, o orçamento previamente estimado para a contratação será tornado público apenas e imediatamente após o encerramento da licitação, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas.
-§ 1º Nas hipóteses em que for adotado o critério de julgamento por maior desconto, a informação de que trata o caput deste artigo constará do instrumento convocatório.
-§ 2º No caso de julgamento por melhor técnica, o valor do prêmio ou da remuneração será incluído no instrumento convocatório.
-§ 3º Se não constar do instrumento convocatório, a informação referida no caput deste artigo possuirá caráter sigiloso e será disponibilizada estrita e permanentemente aos órgãos de controle externo e interno.

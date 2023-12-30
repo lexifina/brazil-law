@@ -1,1 +1,0 @@
-Art. 8º Os atos essenciais do pregão, inclusive os decorrentes de meios eletrônicos, serão documentados no processo respectivo, com vistas à aferição de sua regularidade pelos agentes de controle, nos termos do regulamento previsto no art. 2º.

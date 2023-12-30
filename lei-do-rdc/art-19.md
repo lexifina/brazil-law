@@ -1,4 +1,0 @@
-Art. 19. O julgamento pelo menor preço ou maior desconto considerará o menor dispêndio para a administração pública, atendidos os parâmetros mínimos de qualidade definidos no instrumento convocatório.
-§ 1º Os custos indiretos, relacionados com as despesas de manutenção, utilização, reposição, depreciação e impacto ambiental, entre outros fatores, poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis, conforme dispuser o regulamento.
-§ 2º O julgamento por maior desconto terá como referência o preço global fixado no instrumento convocatório, sendo o desconto estendido aos eventuais termos aditivos.
-§ 3º No caso de obras ou serviços de engenharia, o percentual de desconto apresentado pelos licitantes deverá incidir linearmente sobre os preços de todos os itens do orçamento estimado constante do instrumento convocatório.

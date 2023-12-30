@@ -1,1 +1,0 @@
-Art. 11. As compras e contratações de bens e serviços comuns, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, quando efetuadas pelo sistema de registro de preços previsto no art. 15 da Lei nº 8.666, de 21 de junho de 1993, poderão adotar a modalidade de pregão, conforme regulamento específico.

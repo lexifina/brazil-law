@@ -1,1 +1,0 @@
-Art. 43. Na hipótese do inciso II do art. 57 da Lei no 8.666, de 21 de junho de 1993, os contratos celebrados pelos entes públicos responsáveis pelas atividades descritas nos incisos I a III do art. 1º desta Lei poderão ter sua vigência estabelecida até a data da extinção da APO.
