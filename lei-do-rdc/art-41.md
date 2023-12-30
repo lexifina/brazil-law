@@ -1,1 +1,0 @@
-Art. 41. Na hipótese do inciso XI do art. 24 da Lei nº 8.666, de 21 de junho de 1993, a contratação de remanescente de obra, serviço ou fornecimento de bens em consequência de rescisão contratual observará a ordem de classificação dos licitantes remanescentes e as condições por estes ofertadas, desde que não seja ultrapassado o orçamento estimado para a contratação.

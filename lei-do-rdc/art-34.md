@@ -1,3 +1,0 @@
-Art. 34. As licitações promovidas consoante o RDC serão processadas e julgadas por comissão permanente ou especial de licitações, composta majoritariamente por servidores ou empregados públicos pertencentes aos quadros permanentes dos órgãos ou entidades da administração pública responsáveis pela licitação.
-§ 1º As regras relativas ao funcionamento das comissões de licitação e da comissão de cadastramento de que trata esta Lei serão estabelecidas em regulamento.
-§ 2º Os membros da comissão de licitação responderão solidariamente por todos os atos praticados pela comissão, salvo se posição individual divergente estiver registrada na ata da reunião em que houver sido adotada a respectiva decisão.

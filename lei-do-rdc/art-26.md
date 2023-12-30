@@ -1,2 +1,0 @@
-Art. 26. Definido o resultado do julgamento, a administração pública poderá negociar condições mais vantajosas com o primeiro colocado.
-Parágrafo único. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação inicialmente estabelecida, quando o preço do primeiro colocado, mesmo após a negociação, for desclassificado por sua proposta permanecer acima do orçamento estimado.

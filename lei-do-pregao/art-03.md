@@ -1,7 +1,0 @@
-Art. 3º A fase preparatória do pregão observará o seguinte:
-I - a autoridade competente justificará a necessidade de contratação e definirá o objeto do certame, as exigências de habilitação, os critérios de aceitação das propostas, as sanções por inadimplemento e as cláusulas do contrato, inclusive com fixação dos prazos para fornecimento;
-II - a definição do objeto deverá ser precisa, suficiente e clara, vedadas especificações que, por excessivas, irrelevantes ou desnecessárias, limitem a competição;
-III - dos autos do procedimento constarão a justificativa das definições referidas no inciso I deste artigo e os indispensáveis elementos técnicos sobre os quais estiverem apoiados, bem como o orçamento, elaborado pelo órgão ou entidade promotora da licitação, dos bens ou serviços a serem licitados; e
-IV - a autoridade competente designará, dentre os servidores do órgão ou entidade promotora da licitação, o pregoeiro e respectiva equipe de apoio, cuja atribuição inclui, dentre outras, o recebimento das propostas e lances, a análise de sua aceitabilidade e sua classificação, bem como a habilitação e a adjudicação do objeto do certame ao licitante vencedor.
-§ 1º A equipe de apoio deverá ser integrada em sua maioria por servidores ocupantes de cargo efetivo ou emprego da administração, preferencialmente pertencentes ao quadro permanente do órgão ou entidade promotora do evento.
-§ 2º No âmbito do Ministério da Defesa, as funções de pregoeiro e de membro da equipe de apoio poderão ser desempenhadas por militares

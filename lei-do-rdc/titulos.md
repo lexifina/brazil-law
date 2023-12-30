@@ -2,27 +2,6 @@ CAPÍTULO I
 Do Regime Diferenciado de Contratações Públicas - RDC
 Seção I
 Aspectos Gerais
-Seção II
-Das Regras Aplicáveis às Licitações no Âmbito do RDC
-Subseção I
-Do Objeto da Licitação
-Subseção II
-Do Procedimento Licitatório
-Subseção III
-Dos Procedimentos Auxiliares das Licitações no Âmbito do RDC
-Subseção IV
-Da Comissão de Licitação
-Subseção V
-Da Dispensa e Inexigibilidade de Licitação
-Subseção VI
-Das Condições Específicas para a Participação nas Licitações
-e para a Contratação no RDC
-Seção III
-Das Regras Específicas Aplicáveis aos Contratos Celebrados no Âmbito do RDC
-Seção IV
-Dos Pedidos de Esclarecimento, Impugnações e Recursos
-Seção V
-Das Sanções Administrativas
 CAPÍTULO II
 Outras Disposições
 Seção I
