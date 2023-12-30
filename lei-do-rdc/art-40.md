@@ -1,4 +1,0 @@
-Art. 40. É facultado à administração pública, quando o convocado não assinar o termo de contrato ou não aceitar ou retirar o instrumento equivalente no prazo e condições estabelecidos:
-I - revogar a licitação, sem prejuízo da aplicação das cominações previstas na Lei nº 8.666, de 21 de junho de 1993, e nesta Lei; ou
-II - convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições ofertadas pelo licitante vencedor.
-Parágrafo único. Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do inciso II do caput deste artigo, a administração pública poderá convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições ofertadas por estes, desde que o respectivo valor seja igual ou inferior ao orçamento estimado para a contratação, inclusive quanto aos preços atualizados nos termos do instrumento convocatório.

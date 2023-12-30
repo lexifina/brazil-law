@@ -1,1 +1,0 @@
-Art. 44. As normas referentes à anulação e revogação das licitações previstas no art. 49 da Lei nº 8.666, de 21 de junho de 1993, aplicar-se-ão às contratações realizadas com base no disposto nesta Lei.

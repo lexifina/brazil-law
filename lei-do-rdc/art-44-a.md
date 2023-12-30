@@ -1,1 +1,0 @@
-Art. 44-A. Nos contratos regidos por esta Lei, poderá ser admitido o emprego dos mecanismos privados de resolução de disputas, inclusive a arbitragem, a ser realizada no Brasil e em língua portuguesa, nos termos da Lei nº 9.307, de 23 de setembro de 1996, e a mediação, para dirimir conflitos decorrentes da sua execução ou a ela relacionados.

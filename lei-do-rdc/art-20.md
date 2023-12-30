@@ -1,5 +1,0 @@
-Art. 20. No julgamento pela melhor combinação de técnica e preço, deverão ser avaliadas e ponderadas as propostas técnicas e de preço apresentadas pelos licitantes, mediante a utilização de parâmetros objetivos obrigatoriamente inseridos no instrumento convocatório.
-§ 1º O critério de julgamento a que se refere o caput deste artigo será utilizado quando a avaliação e a ponderação da qualidade técnica das propostas que superarem os requisitos mínimos estabelecidos no instrumento convocatório forem relevantes aos fins pretendidos pela administração pública, e destinar-se-á exclusivamente a objetos:
-I - de natureza predominantemente intelectual e de inovação tecnológica ou técnica; ou
-II - que possam ser executados com diferentes metodologias ou tecnologias de domínio restrito no mercado, pontuando-se as vantagens e qualidades que eventualmente forem oferecidas para cada produto ou solução.
-§ 2º É permitida a atribuição de fatores de ponderação distintos para valorar as propostas técnicas e de preço, sendo o percentual de ponderação mais relevante limitado a 70% (setenta por cento).

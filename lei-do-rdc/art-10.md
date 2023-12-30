@@ -1,2 +1,0 @@
-Art. 10. Na contratação das obras e serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável vinculada ao desempenho da contratada, com base em metas, padrões de qualidade, critérios de sustentabilidade ambiental e prazo de entrega definidos no instrumento convocatório e no contrato.
-Parágrafo único. A utilização da remuneração variável será motivada e respeitará o limite orçamentário fixado pela administração pública para a contratação.
