@@ -2,7 +2,6 @@ Art. 19. Considera-se lucro da exploração o lucro líquido do período-base, a
 I - a parte das receitas financeiras que exceder das despesas financeiras, sendo que, no caso de operações prefixadas, considera-se receita ou despesa financeira a parcela que exceder, no mesmo período, à correção monetária dos valores aplicados;
 II - os rendimentos e prejuízos das participações societárias; e
 III - outras receitas ou outras despesas de que trata o inciso IV do caput do art. 187 da Lei no 6.404, de 15 de dezembro de 1976;
-V - as subvenções para investimento, inclusive mediante isenção e redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos, e as doações, feitas pelo poder público; e
 VI - ganhos ou perdas decorrentes de avaliação de ativo ou passivo com base no valor justo.
 § 1º - Aplicam-se ao lucro da exploração:
 a) as isenções de que tratam os artigos 13 da Lei nº 4.239, de 27 de junho de 1963; 34 da Lei nº 5.508, de 11 de outubro de 1968; 23 do Decreto-lei nº 756, de 11 de agosto de 1969; 1º do Decreto-lei nº 1.328, de 20 de maio de 1974; e 1º e 2º do Decreto-lei nº 1.564, de 29 de julho de 1977;
