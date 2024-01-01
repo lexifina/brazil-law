@@ -1,0 +1,9 @@
+LEI Nº 6.672, DE 29 DE DEZEMBRO DE 2023.
+
+ESTIMA a receita e fixa a despesa do Estado para o exercício financeiro de 2024.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
+
+CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
