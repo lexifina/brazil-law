@@ -11,7 +11,6 @@ b) reversões de provisões e recuperações de créditos baixados como perda qu
 VI - decorrentes de transferência onerosa a outros contribuintes do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS de créditos de ICMS originados de operações de exportação, conforme o disposto no inciso II do § 1º do art. 25 da Lei Complementar no 87, de 13 de setembro de 1996.
 VII - financeiras decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, referentes a receitas excluídas da base de cálculo da Cofins;
 VIII - relativas aos ganhos decorrentes de avaliação do ativo e passivo com base no valor justo;
-IX - de subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos e de doações feitas pelo poder público;
 X - reconhecidas pela construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo intangível representativo de direito de exploração, no caso de contratos de concessão de serviços públicos;
 XI - relativas ao valor do imposto que deixar de ser pago em virtude das isenções e reduções de que tratam as alíneas "a", "b", "c" e "e" do § 1º do art. 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977;
 XII - relativas ao prêmio na emissão de debêntures; e
