@@ -1,3 +1,1 @@
 Art. 24. O art. 50 da Lei nº 8.383, de 30 de dezembro de 1991, passa a vigorar com as seguintes alterações:
-"Art. 50. As despesas referidas na alínea "b" do parágrafo único do art. 52 e no item 2 da alínea "e" do parágrafo único do art. 71 da Lei nº 4.506, de 30 de novembro de 1964, decorrentes de contratos que, posteriormente a 31 de dezembro de 1991, sejam assinados e averbados no Instituto Nacional da Propriedade Industrial (INPI), passam a ser dedutíveis para fins de apuração do lucro real, observados os limites e as condições estabelecidos pela legislação.
-Parágrafo único. (Revogado)." (NR)
