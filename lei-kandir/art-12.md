@@ -1,5 +1,5 @@
 Art. 12. Considera-se ocorrido o fato gerador do imposto no momento:
-I - da saída de mercadoria de estabelecimento de contribuinte, ainda que para outro estabelecimento do mesmo titular;
+I - da saída de mercadoria de estabelecimento de contribuinte;
 II - do fornecimento de alimentação, bebidas e outras mercadorias por qualquer estabelecimento;
 III - da transmissão a terceiro de mercadoria depositada em armazém geral ou em depósito fechado, no Estado do transmitente;
 IV - da transmissão de propriedade de mercadoria, ou de título que a represente, quando a mercadoria não tiver transitado pelo estabelecimento transmitente;
@@ -20,3 +20,6 @@ XVI - da saída, de estabelecimento de contribuinte, de bem ou mercadoria destin
 § 1º Na hipótese do inciso VII, quando o serviço for prestado mediante pagamento em ficha, cartão ou assemelhados, considera-se ocorrido o fato gerador do imposto quando do fornecimento desses instrumentos ao usuário.
 § 2º Na hipótese do inciso IX, após o desembaraço aduaneiro, a entrega, pelo depositário, de mercadoria ou bem importados do exterior deverá ser autorizada pelo órgão responsável pelo seu desembaraço, que somente se fará mediante a exibição do comprovante de pagamento do imposto incidente no ato do despacho aduaneiro, salvo disposição em contrário.
 § 3º Na hipótese de entrega de mercadoria ou bem importados do exterior antes do desembaraço aduaneiro, considera-se ocorrido o fato gerador neste momento, devendo a autoridade responsável, salvo disposição em contrário, exigir a comprovação do pagamento do imposto.
+§ 4º Não se considera ocorrido o fato gerador do imposto na saída de mercadoria de estabelecimento para outro de mesma titularidade, mantendo-se o crédito relativo às operações e prestações anteriores em favor do contribuinte, inclusive nas hipóteses de transferências interestaduais em que os créditos serão assegurados:
+I - pela unidade federada de destino, por meio de transferência de crédito, limitados aos percentuais estabelecidos nos termos do inciso IV do § 2º do art. 155 da Constituição Federal, aplicados sobre o valor atribuído à operação de transferência realizada;
+II - pela unidade federada de origem, em caso de diferença positiva entre os créditos pertinentes às operações e prestações anteriores e o transferido na forma do inciso I deste parágrafo.
