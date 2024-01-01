@@ -1,0 +1,1 @@
+Art. 31. As suspensões das parcelas dos Programas Auxílio Brasil e Bolsa Família que, na forma do § 9º do art. 2º da Lei nº 10.779, de 25 de novembro de 2003, não tenham sido aplicadas até o momento da publicação desta Lei não serão tratadas como dívidas da família beneficiária nem imputadas ao Programa Bolsa Família.
