@@ -24,13 +24,6 @@ Rendimentos do Exterior
 Compensação de Imposto Pago
 Lucros e Rendimentos
 Operações de Cobertura em Bolsa do Exterior
-Seção V
-Preços de Transferência
-Bens, Serviços e Direitos Adquiridos no Exterior
-Receitas Oriundas de Exportações para o Exterior
-Apuração dos Preços Médios
-Juros
-Pessoa Vinculada - Conceito
 Países com Tributação Favorecida
 Seção VI
 Lucro Presumido

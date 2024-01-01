@@ -1,7 +1,0 @@
-Art. 20-A. A partir do ano-calendário de 2012, a opção por um dos métodos previstos nos arts. 18 e 19 será efetuada para o ano-calendário e não poderá ser alterada pela contribuinte uma vez iniciado o procedimento fiscal, salvo quando, em seu curso, o método ou algum de seus critérios de cálculo venha a ser desqualificado pela fiscalização, situação esta em que deverá ser intimado o sujeito passivo para, no prazo de 30 (trinta) dias, apresentar novo cálculo de acordo com qualquer outro método previsto na legislação.
-§ 1º A fiscalização deverá motivar o ato caso desqualifique o método eleito pela pessoa jurídica.
-§ 2º A autoridade fiscal responsável pela verificação poderá determinar o preço parâmetro, com base nos documentos de que dispuser, e aplicar um dos métodos previstos nos arts. 18 e 19, quando o sujeito passivo, após decorrido o prazo de que trata o caput:
-I - não apresentar os documentos que deem suporte à determinação do preço praticado nem às respectivas memórias de cálculo para apuração do preço parâmetro, segundo o método escolhido;
-II - apresentar documentos imprestáveis ou insuficientes para demonstrar a correção do cálculo do preço parâmetro pela método escolhido; ou
-III - deixar de oferecer quaisquer elementos úteis à verificação dos cálculos para apuração do preço parâmetro, pela método escolhido, quando solicitados pela autoridade fiscal.
-§ 3º A Secretaria da Receita Federal do Brasil do Ministério da Fazenda definirá o prazo e a forma de opção de que trata o caput.
