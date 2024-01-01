@@ -1,1 +1,0 @@
-Art. 33. Os clubes de investimento, as carteiras administradas e qualquer outra forma de investimento associativo ou coletivo, sujeitam-se às mesmas normas do imposto de renda aplicáveis aos fundos de investimento.
