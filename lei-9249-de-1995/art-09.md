@@ -8,10 +8,17 @@ II - tributação definitiva, no caso de beneficiário pessoa física ou pessoa 
 § 6º No caso de beneficiário pessoa jurídica tributada com base no lucro real, o imposto de que trata o § 2º poderá ainda ser compensado com o retido por ocasião do pagamento ou crédito de juros, a título de remuneração de capital próprio, a seu titular, sócios ou acionistas.
 § 7º O valor dos juros pagos ou creditados pela pessoa jurídica, a título de remuneração do capital próprio, poderá ser imputado ao valor dos dividendos de que trata o art. 202 da Lei nº 6.404, de 15 de dezembro de 1976, sem prejuízo do disposto no § 2º.
 § 8º Para fins de cálculo da remuneração prevista neste artigo, serão consideradas exclusivamente as seguintes contas do patrimônio líquido:
-I - capital social;
-II - reservas de capital;
-III - reservas de lucros;
+I - capital social integralizado;
+II - reservas de capital de que tratam o § 2º do art. 13 e o parágrafo único do art. 14 da Lei nº 6.404, de 15 de dezembro de 1976;
+III - reservas de lucros, exceto a reserva de incentivo fiscal de que trata o art. 195-A da Lei nº 6.404, de 15 de dezembro de 1976;
 IV - ações em tesouraria; e
-V - prejuízos acumulados.
+V - lucros ou prejuízos acumulados.
+§ 8º-A. Para fins de apuração da base de cálculo dos juros sobre capital próprio:
+I - não serão consideradas as variações positivas no patrimônio líquido decorrentes de atos societários entre partes dependentes que não envolvam efetivo ingresso de ativos à pessoa jurídica, com aumento patrimonial em caráter definitivo, independentemente do disposto nas normas contábeis; e
+II - deverão ser considerados, salvo os casos em que for aplicado o disposto no inciso I deste parágrafo:
+a) eventuais lançamentos contábeis redutores efetuados em rubricas de patrimônio líquido que não estiverem previstas no § 8º deste artigo, quando decorrerem dos mesmos fatos que deram origem a lançamentos contábeis positivos efetuados em rubricas previstas no referido parágrafo; e
+b) valores negativos registrados em conta de ajuste de avaliação patrimonial decorrentes de atos societários entre partes dependentes.
+§ 8º-B. Para fins do disposto no § 8º-A deste artigo, aplicar-se-á a definição de parte dependente prevista nos incisos I e II do caput do art. 25 da Lei nº 12.973, de 13 de maio de 2014.
+§ 8º-C. O disposto nos §§ 8º, 8º-A e 8º-B deste artigo aplicar-se-á ao cômputo da base de cálculo dos juros sobre capital próprio a partir de 1º de janeiro de 2024.
 § 11. O disposto neste artigo aplica-se à Contribuição Social sobre o Lucro Líquido.
 § 12. Para fins de cálculo da remuneração prevista neste artigo, a conta capital social, prevista no inciso I do § 8º deste artigo, inclui todas as espécies de ações previstas no art. 15 da Lei nº 6.404, de 15 de dezembro de 1976, ainda que classificadas em contas de passivo na escrituração comercial.
