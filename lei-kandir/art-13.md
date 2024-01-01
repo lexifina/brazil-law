@@ -25,10 +25,6 @@ a) seguros, juros e demais importâncias pagas, recebidas ou debitadas, bem como
 b) frete, caso o transporte seja efetuado pelo próprio remetente ou por sua conta e ordem e seja cobrado em separado.
 § 2º Não integra a base de cálculo do imposto o montante do Imposto sobre Produtos Industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configurar fato gerador de ambos os impostos.
 § 3º No caso da alínea "b" do inciso IX e do inciso X do caput deste artigo, o imposto a pagar ao Estado de destino será o valor correspondente à diferença entre a alíquota interna do Estado de destino e a interestadual.
-§ 4º Na saída de mercadoria para estabelecimento localizado em outro Estado, pertencente ao mesmo titular, a base de cálculo do imposto é:
-I - o valor correspondente à entrada mais recente da mercadoria;
-II - o custo da mercadoria produzida, assim entendida a soma do custo da matéria-prima, material secundário, mão-de-obra e acondicionamento;
-III - tratando-se de mercadorias não industrializadas, o seu preço corrente no mercado atacadista do estabelecimento remetente.
 § 5º Nas operações e prestações interestaduais entre estabelecimentos de contribuintes diferentes, caso haja reajuste do valor depois da remessa ou da prestação, a diferença fica sujeita ao imposto no estabelecimento do remetente ou do prestador.
 § 6º Utilizar-se-á, para os efeitos do inciso IX do caput deste artigo:
 I - a alíquota prevista para a operação ou prestação interestadual, para estabelecer a base de cálculo da operação ou prestação no Estado de origem;
