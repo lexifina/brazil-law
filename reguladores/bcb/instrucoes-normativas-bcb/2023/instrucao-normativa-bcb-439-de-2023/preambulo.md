@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 439, DE 15 DE DEZEMBRO DE 2023
+Altera a Instrução Normativa BCB nº 243, de 16 de março de 2022, que divulga procedimentos a serem observados para participação direta no Sistema de Pagamentos Instantâneos (SPI), para a abertura da Conta Pagamentos Instantâneos (Conta PI) e define os limites máximos de tempo para validação e para liquidação das ordens de pagamentos instantâneos, de que trata o Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022.
+O Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos (Deban), no uso das atribuições conferidas pelo art. 23, inciso I, alínea “a”, e pelo art. 112, inciso IV, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em conta o disposto no Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022,
+R E S O L V E :
