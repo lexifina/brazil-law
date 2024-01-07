@@ -4,8 +4,9 @@ II - promover estudos e pesquisas que permitam avaliar as ações voltadas para 
 III - promover a educação alimentar e nutricional, sanitária e ambiental nas escolas sob sua responsabilidade administrativa, com o intuito de formar hábitos alimentares saudáveis aos alunos atendidos, mediante atuação conjunta dos profissionais de educação e do responsável técnico de que trata o art. 11 desta Lei;
 IV - realizar, em parceria com o FNDE, a capacitação dos recursos humanos envolvidos na execução do PNAE e no controle social;
 V - fornecer informações, sempre que solicitado, ao FNDE, ao CAE, aos órgãos de controle interno e externo do Poder Executivo, a respeito da execução do PNAE, sob sua responsabilidade;
-VI - fornecer instalações físicas e recursos humanos que possibilitem o pleno funcionamento do CAE, facilitando o acesso da população;
+VI - fornecer instalações físicas, recursos humanos e recursos financeiros que possibilitem o pleno funcionamento do CAE, facilitando o acesso da população;
 VII - promover e executar ações de saneamento básico nos estabelecimentos escolares sob sua responsabilidade, na forma da legislação pertinente;
 VIII - divulgar em locais públicos informações acerca do quantitativo de recursos financeiros recebidos para execução do PNAE;
 IX - prestar contas dos recursos financeiros recebidos à conta do PNAE, na forma estabelecida pelo Conselho Deliberativo do FNDE;
 X - apresentar ao CAE, na forma e no prazo estabelecidos pelo Conselho Deliberativo do FNDE, o relatório anual de gestão do PNAE.
+XI - (VETADO).
