@@ -1,0 +1,3 @@
+LEI Nº 9.142, DE 10 DE JANEIRO DE 2024.
+
+ALTERA A LEI ESTADUAL Nº 7.889, DE 16 DE JUNHO DE 2017, E ADOTA OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
