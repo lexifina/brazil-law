@@ -1,0 +1,162 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 0032755-79.2018.8.08.0024
+
+CONFLITO DE COMPETÊNCIA CÍVEL (221)
+
+SUSCITANTE: VITÓRIA - 1º JUIZADO ESPECIAL CRIMINAL E FAZENDA PÚBLICA
+
+SUSCITADO: VITÓRIA - 2ª VARA DA FAZENDA PÚBLICA ESTADUAL, MUNICIPAL, REGISTROS PÚBLICOS, MEIO AMBIENTE E SAÚDE
+
+RELATOR(A):
+ROBSON LUIZ ALBANEZ
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+CONFLITO DE COMPETÊNCIA
+
+Nº
+
+0032755-79.2018.8.08.0024
+
+SUCTE
+:
+JUIZ DE DIREITO DO JUIZADO ESPECIAL CRIMINAL E FAZENDA PUBLICA DE
+VITÓRIA
+
+SUCDO
+:
+2ª VARA DA FAZ. PÚBLICA ESTADUAL, MUNICIPAL, REGISTROS PÚBLICOS, MEIO AMBIENTE E SAÚDE
+
+RELATOR:
+DES. ROBSON LUIZ ALBANEZ
+
+EMENTA
+
+CONFLITO NEGATIVO DE COMPETÊNCIA. SENTENÇA PROFERIDA EM AÇÃO COLETIVA NA JUSTIÇA COMUM. EXECUÇÃO INDIVIDUAL. JUIZADO ESPECIAL. IMPOSSIBILIDADE. JUÍZO SUSCITADO COMPETENTE.
+
+1.
+O
+Superior Tribunal de Justiça, quando do julgamento do
+Recurso Especial Repetitivo n.º 1.804.186/SC, fix
+ou
+a seguinte tese jurídica
+ac
+e
+rca do tema
+:“Não é possível propor nos Juizados Especiais da Fazenda Pública a execução de título executivo formado em Ação Coletiva que tramitou sob o rito ordinário, assim como impor o rito sumaríssimo da Lei 12.153/2009 ao juízo comum da execução”
+
+2.
+Conflito negativo de competência conhecido e dirimido para declarar competente o JUIZO DA
+2ª VARA DA FAZ. PÚBLICA ESTADUAL, MUNICIPAL, REGISTROS PÚBLICOS, MEIO AMBIENTE E SAÚDE DE VITÓRIA.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: ACÓRDÃO Vistos, relatados e discutidos estes autos, acordam os Desembargadores da Quarta Câmara Cível, conhecer do conflito negativo de competência e declarar competente o Juízo Suscitado, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 013 - Gabinete Des. ROBSON LUIZ ALBANEZ
+
+Composição de julgamento: 013 - Gabinete Des. ROBSON LUIZ ALBANEZ - ROBSON LUIZ ALBANEZ - Relator / 018 - Gabinete Des. ARTHUR JOSÉ NEIVA DE ALMEIDA - ARTHUR JOSE NEIVA DE ALMEIDA - Vogal / 030 - Gabinete Des. FABIO BRASIL NERY - FABIO BRASIL NERY - Vogal
+VOTOS VOGAIS
+018 - Gabinete Des. ARTHUR JOSÉ NEIVA DE ALMEIDA - ARTHUR JOSE NEIVA DE ALMEIDA (Vogal)
+Acompanhar
+030 - Gabinete Des. FABIO BRASIL NERY - FABIO BRASIL NERY (Vogal)
+Acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+CONFLITO DE COMPETÊNCIA
+
+Nº
+
+0032755-79.2018.8.08.0024
+
+SUCTE
+:
+JUIZ DE DIREITO DO JUIZADO ESPECIAL CRIMINAL E FAZENDA PUBLICA DE
+VITÓRIA
+
+SUCDO
+:
+2ª VARA DA FAZ. PÚBLICA ESTADUAL, MUNICIPAL, REGISTROS PÚBLICOS, MEIO AMBIENTE E SAÚDE
+
+RELATOR:
+Des. robson luiz albanez
+
+VOTO
+
+Eminentes Pares, cinge-se o presente caso a analisar a competência para processar e julgar o feito originário, o qual trata-se de um cumprimento de sentença prolatada em ação coletiva movida pela Associação de Cabos e Soldados da Polícia Militar e Bombeiro Militar do Espírito Santo.
+
+Inicialmente, o MM. Juiz suscitado declinou de sua competência arguindo que o Juízo prolator da sentença em ação coletiva não fica vinculado para o processamento das execuções individuais.
+
+Por sua vez, registrou o MM. Juiz suscitante a impossibilidade de processamento da referida execução, por entender que somente poderia ser executado na seara dos Juizados Especiais as sentenças que dali se originaram.
+
+Pois bem. Sem delongas, tem-se que o Superior Tribunal de Justiça, quando do julgamento do
+Recurso Especial Repetitivo n.º 1.804.186/SC
+, fix
+ou
+a seguinte tese jurídica
+ac
+e
+rca do tema
+: “Não é possível propor nos Juizados Especiais da Fazenda Pública a execução de título executivo formado em Ação Coletiva que tramitou sob o rito ordinário, assim como impor o rito sumaríssimo da Lei 12.153/2009 ao juízo comum da execução”
+.
+
+Vejamos a ementa do julgado alhures:
+
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS REPRESENTATIVOS DA CONTROVÉRSIA. TEMA 1.029/STJ. RESP 1.804.186/SC E RESP 1.804.188/SC. AÇÃO COLETIVA. EXECUÇÃO. COMPETÊNCIA E RITO. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. LEI 12.153/2009. IMPOSSIBILIDADE. IDENTIFICAÇÃO DA CONTROVÉRSIA
+1. O tema repetitivo ora controvertido (1.029/STJ) consiste em estabelecer a “aplicabilidade do rito dos Juizados Especiais da Fazenda Pública (Lei 12.153/2009) ao Cumprimento de Sentença individual oriundo de Ação Coletiva que seguiu o procedimento ordinário em Vara da Fazenda Pública, independentemente de haver Juizado Especial instalado no foro competente”.
+EXAME DO TEMA REPETITIVO
+2. Na hipótese tratada no presente tema repetitivo, o Tribunal de origem assentou que, por ser absoluta a competência dos Juizados Especiais da Fazenda Pública (§ 4º do art. 2º da Lei 12.153/2009), o cumprimento de sentença oriundo de Ação Coletiva em que o valor da causa seja inferior a 60 (sessenta) salários mínimos deve seguir o rito sumaríssimo da Lei 12.153/2009, independentemente de haver Juizado Especial instalado na comarca competente. 3. Com relação à execução de sentenças coletivas, o STJ firmou a compreensão, sob o rito do art. 543-C do CPC/1973, de que “a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC.)” (REsp 1.243.887/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.10.2011, DJe de 12.12.2011). 4. Também está sedimentado na jurisprudência do STJ o entendimento de que, uma vez instalado Juizado Especial Federal ou da Fazenda Pública, conforme o caso, e se o valor da causa for inferior ao da alçada, a competência é absoluta. Apenas como exemplo: REsp 1.537.768/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 20.8.2019, DJe de 5.9.2019. 5. A questão que emerge do tema repetitivo é indagar se é possível ajuizar ação executiva no Juizado Especial da Fazenda Pública relativa a título judicial oriundo de Ação Coletiva, em que se seguiu rito próprio desse tipo de ação. 6. O art. 2º, § 1º, I, da Lei 12.153/2009 dispõe que não se incluem na competência do Juizado Especial da Fazenda Pública as demandas sobre direitos ou interesses difusos e coletivos, o que é argumento suficiente para excluir a competência executória de sentenças exaradas em Ações Coletivas. 7. Na mesma lei não há disposição expressa acerca da competência executória dos Juizados da Fazenda Pública, havendo apenas regramento (arts. 12 e 13) do rito da execução de seus próprios julgados. 8. O art. 27 da Lei 12.153/2009 fixa a aplicação subsidiária do CPC, da Lei 9.099/1995 e da Lei 10.259/2001, os quais se examinam a seguir. 9. A Lei 9.099/1995, no art. 3º, § 1º, delimita a competência dos Juizados Especiais Cíveis e, por aplicação subsidiária, dos Juizados Especiais da Fazenda Pública para promoverem a execução "dos seus julgados" e "dos títulos executivos extrajudiciais, no valor de até quarenta vezes o salário mínimo". 10. Já o art. 3º, caput, da Lei 10.259/2001, também de aplicação subsidiária aos Juizados Especiais da Fazenda Pública, delimita a competência executória a "executar as suas sentenças". 11. Por fim, a terceira lei de regramento de aplicação subsidiária, o CPC, estabelece (grifos acrescentados): "Art. 516. O cumprimento da sentença efetuar-se-á perante: I - os tribunais, nas causas de sua competência originária; II - o juízo que decidiu a causa no primeiro grau de jurisdição; III - o juízo cível competente, quando se tratar de sentença penal condenatória, de sentença arbitral, de sentença estrangeira ou de acórdão proferido pelo Tribunal Marítimo. Parágrafo único. Nas hipóteses dos incisos II e III, o exequente poderá optar pelo juízo do atual domicílio do executado, pelo juízo do local onde se encontrem os bens sujeitos à execução ou pelo juízo do local onde deva ser executada a obrigação de fazer ou de não fazer, casos em que a remessa dos autos do processo será solicitada ao juízo de origem". 12. Vale resgatar a possibilidade, estipulada pelo STJ sob o rito dos recursos repetitivos (REsp 1.243.887/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.10.2011, DJe de 12.12.2011), de a execução individual de sentença coletiva poder ser proposta no foro do domicílio do exequente, interpretação essa advinda da legislação de tutela dos direitos coletivos e difusos: "A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo". 13. Nota-se que a Lei 12.153/2009 e as respectivas normas de aplicação subsidiária determinam que os Juizados Especiais da Fazenda Pública têm competência para apreciar apenas as execuções de seus próprios julgados ou de títulos extrajudiciais. 14. Por derradeiro, o Código de Defesa do Consumidor, norma que rege a tutela coletiva não só no direito do consumidor, mas de forma subsidiária de todos os tipos de direitos, fixa a competência, para a execução, do juízo da liquidação da sentença ou da ação condenatória, no caso de execução individual, valendo aqui a regra do domicílio do exequente no caso de juízos com a mesma competência. 15. Na mesma linha de compreensão aqui traçada, cita-se precedente da Primeira Turma que examina a Lei 10.259/2001 (Juizado Especial Federal), aplicada subsidiariamente à Lei 12.153, ora em exame: "Nos termos do art. 3º, caput, da Lei 10.259/2001, 'Compete ao Juizado Especial Federal Cível processar, conciliar e julgar causas de competência da Justiça Federal até o valor de sessenta salários mínimos, bem como executar as suas sentenças.' Extrai-se do referido dispositivo legal que a fixação da competência do JEF, no que se refere às execuções, impõe a conjugação de duas condicionantes: (a) o valor da causa deve ser inferior a 60 (sessenta) salários mínimos; (b) o titulo executivo judicial deve ser oriundo do próprio JEF. Caso concreto em que, nada obstante o valor da causa seja inferior ao referido limite legal, a sentença exequenda foi prolatada nos autos da Ação Ordinária nº 2007.81.00.018120-3, que tramitou na 6ª Vara Federal da Seção Judiciária do Ceará, o que afasta a competência do Juizado Especial Federal Cível para a respectiva execução" (REsp 1.648.895/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 7.5.2019, DJe 13.5.2019; grifo acrescentado). 16. Assim, não é possível propor nos Juizados Especiais da Fazenda Pública a execução de título executivo formado em Ação Coletiva, muito menos impor o citado rito sumaríssimo ao juízo comum. 17. O Cumprimento da Sentença coletiva deve obedecer o rito previsto nos arts. 534 e seguintes do CPC/2015; e o fato de o valor da execução ser baixo pode apenas resultar, conforme a quantia, em Requisição de Pequeno Valor para o pagamento do débito (art. 535, § 3º, II, do CPC/2015).
+DEFINIÇÃO DA TESE REPETITIVA
+18. Fixa-se a seguinte tese repetitiva para o Tema 1.029/STJ: "Não é possível propor nos Juizados Especiais da Fazenda Pública a execução de título executivo formado em Ação Coletiva que tramitou sob o rito ordinário, assim como impor o rito sumaríssimo da Lei 12.153/2009 ao juízo comum da execução."
+RESOLUÇÃO DO CASO CONCRETO
+19. A Ação Coletiva tramitou na Vara da Fazenda Pública da Comarca de Blumenau/SC e nela foi intentado o cumprimento de sentença sob o rito do art. 534 e seguintes do CPC/21015. 20. O Tribunal de origem assentou que o cumprimento de sentença oriundo de Ação Coletiva em que o valor da causa seja inferior a 60 (sessenta) salários mínimos deve seguir o rito sumaríssimo da Lei 12.153/2009, independentemente de haver Juizado Especial instalado na comarca competente. 21. Essa compreensão está dissonante da aqui estabelecida, devendo o cumprimento de sentença observar o rito dos arts. 534 e seguintes do CPC/2015 na Vara da Fazenda Pública.
+CONCLUSÃO
+22. Recurso Especial provido, sob o rito dos arts. 1.036 e seguintes do CPC/2015. (STJ, REsp 1804186/SC, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 12/08/2020, DJe 11/09/2020).
+
+Importante registrar que o tema em comento já foi exaustivamente debatido nesta Corte, estando a jurisprudência sedimentada no sentido de que a competência dos Juizados Especiais da Fazenda Pública se restringe a execução dos próprios julgados, senão vejamos:
+
+EMENTA: CONFLITO DE COMPETÊNCIA. LIQUIDAÇÃO E EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. COMPETÊNCIA RESTRITA À EXECUÇÃO DOS SEUS PRÓPRIOS JULGADOS. RECONHECIDA A COMPETÊNCIA DA 4ª VARA DA FAZENDA PÚBLICA ESTADUAL, MUNICIPAL, REGISTROS PÚBLICOS, MEIO AMBIENTE E SAÚDE DE VITÓRIA. 1. O processo de origem visa a liquidação e execução da sentença proferida nos autos da ação coletiva de nº 0003675-03.2000.8.08.0024 (024 .00. 003675 - 6), que tramitou perante a 2ª Vara da Fazenda Pública Estadual de Vitória .
+2. A competência dos Juizados Especiais da Fazenda Pública se restringe à execução dos próprios julgados, nos termos do art. 3°, § 1°, da Lei nº 9.099/1995, aplicado subsidiariamente aos Juizados Especiais da Fazenda Pública por força do disposto no art. 27 da Lei nº 12.153/2009.
+3. Conflito conhecido para declarar a competência da 4ª Vara da Fazenda Pública Estadual, Municipal, Registro Público, Meio Ambiente e Saude de Vitória.(TJES, Classe: Conflito de competência cível, 100210013312, Relator : JORGE DO NASCIMENTO VIANA, Órgão julgador: QUARTA CÂMARA CÍVEL , Data de Julgamento: 08/11/2021, Data da Publicação no Diário: 23/11/2021)
+
+Neste ínterim, tendo em vista
+o que decidiu o “Tribunal da Cidadania”, outro caminho não resta senão reconhecer a competência do suscitado para apreciar o processo matriz.
+
+S
+em maiores elucubrações, tenho por bem determinar o
+JUÍZO
+
+DE DIREITO D
+A VARA DA FAZENDA PÚBLICA ESTADUAL DE
+C
+OLATINA
+
+como competente para processar o feito originário.
+
+É como voto.
+
+DES. ROBSON LUIZ ALBANEZ
+
+RELATOR
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
