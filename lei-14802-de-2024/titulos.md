@@ -1,0 +1,20 @@
+CAPÍTULO I
+DO PLANEJAMENTO GOVERNAMENTAL E DO PLANO PLURIANUAL
+CAPÍTULO II
+DA ESTRUTURA E DA ORGANIZAÇÃO DO PLANO PLURIANUAL DA UNIÃO
+CAPÍTULO III
+DA INTEGRAÇÃO DO PLANO PLURIANUAL 2024-2027 COM OS ORÇAMENTOS DA UNIÃO
+CAPÍTULO IV
+DA GOVERNANÇA E DA GESTÃO DO PLANO PLURIANUAL DA UNIÃO
+Seção I
+Dos aspectos gerais
+Seção II
+Do monitoramento e da avaliação
+Seção III
+Da revisão e das alterações
+Seção IV
+Da adequação dos demais instrumentos de planejamento
+Seção V
+Da transparência e da participação
+CAPÍTULO V
+DISPOSIÇÕES FINAIS E GERAIS
