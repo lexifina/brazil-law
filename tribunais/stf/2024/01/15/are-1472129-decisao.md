@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    Ação de conhecimento objetivando a Autora que os Réus se abstenham de descontar da pensão especial que recebe em virtude da morte de seu marido no exercício da função policial, os valores da pensão previdenciária, por ela também percebida, ou, alternativamente, procedam ao desconto, no valor de R$ 899,06, que vinha sendo realizado, bem como restituam as verbas descontadas indevidamente, com pedido cumulado de que, em caso mantido o desconto integral da pensão previdenciária na folha da pensão especial, que o segundo Réu (ESTADO) seja condenado a limitar o desconto da pensão previdenciária no valor líquido recebido, e não o valor bruto, condenando-o à devolução dos valores descontados em duplicidade, referente às parcelas de IR, desde setembro/2020 até à data da regularização dos descontos na folha da pensão especial. Sentença de improcedência. Apelação da Autora. Apelante que é beneficiária de pensão em razão da morte de seu marido, que exercia atividade policial militar. Pensão especial concedida aos beneficiários de policial falecido em razão de agressão sofrida no desempenho de suas funções, conforme previsto no artigo 28 do Decreto-lei 218/75. Pensão especial que possui natureza indenizatória, não se confundindo com a pensão previdenciária, que tem caráter contributivo, sendo, assim, admissível a cumulação dos benefícios. Precedentes do TJRJ. Artigos 2º e 4º da Lei 2.153/1972, vigente à época do falecimento do servidor, segundo os quais poderia haver a dedução do valor da pensão previdenciária daquele recebido, pela Apelante, a título de pensão especial, cujo valor deveria corresponder a dez nonos do vencimento percebido à data do óbito ou daquele correspondente ao posto ou graduação. Descontos que começaram a ser efetuados após o falecimento do ex-servidor, em 07/06/1998, no valor de R$ 899,07, sendo que, a partir de 2020, ou seja, após mais de 20 anos do ato administrativo que instituiu o pensionamento, os descontos passaram a ser realizados no valor integral da pensão previdenciária recebida (R$ 4.680,71). Comprovado o aumento repentino e unilateral dos descontos a título de pensão especial no benefício previdenciário da Apelante, bem como a ausência de prova de má-fé da beneficiária, evidencia-se que o exercício do poder de autotutela pela Administração Pública encontra óbice no prazo decadencial de cinco anos, visto que o ato administrativo ensejou efeitos favoráveis à sua destinatária. Situação fática que não pode ser alterada em observância aos princípios da segurança jurídica e da proteção da confiança dos administrados. Sentença que deve ser reformada a fim de que cessem os descontos incidentes na pensão especial do servidor falecido. Devolução dos valores descontados indevidamente que deverá se dar observada a prescrição quinquenal. Quanto aos acréscimos legais dos valores a serem restituídos, entendimento consagrado pelo Superior Tribunal de Justiça no Tema 905 e pelo Supremo Tribunal Federal no Tema 810 que prevê que a correção monetária se dará pelo IPCA-E, a partir de cada pagamento que deixou de ser efetuado, e os juros de mora, por se tratar de débito não tributário, devem ser fixados, a contar da citação, nos termos do artigo 1º-F, da Lei nº 9.494/1997, com redação dada pelo artigo 5º, da Lei nº 11.960/2009. Inversão dos ônus sucumbenciais, condenando-se os Apelados a pagarem honorários advocatícios sobre o valor da condenação, cujo percentual deverá ser definido quando liquidado o julgado, nos termos do artigo 85, § 4º, inciso II do CPC. Provimento da apelação.
+
+    Opostos os embargos de declaração, foram acolhidos em parte para determinar que a partir da entrada em vigor da Emenda Constitucional 113/2021, seja aplicada unicamente a taxa SELIC, o que inclui juros e correção monetária, sobre os valores a serem restituídos à Embargada.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso LV; 40, §§ 2º e 7º; 93, inciso IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o art. 93, inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento, como ocorreu no caso em tela (AI nº 791.292/PE-RG-QO, Rel. Min. Gilmar Mendes, DJe de 13/08/2010).
+
+    Além disso, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), o Plenário da Corte ratificou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 15 de janeiro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
