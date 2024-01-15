@@ -10,7 +10,7 @@ II - (VETADO).
 § 6º-A. O INSS poderá celebrar parcerias para a realização da avaliação social, sob a supervisão do serviço social da autarquia.
 § 7º Na hipótese de não existirem serviços no município de residência do beneficiário, fica assegurado, na forma prevista em regulamento, o seu encaminhamento ao município mais próximo que contar com tal estrutura.
 § 8º A renda familiar mensal a que se refere o § 3º deverá ser declarada pelo requerente ou seu representante legal, sujeitando-se aos demais procedimentos previstos no regulamento para o deferimento do pedido.
-§ 9º Os rendimentos decorrentes de estágio supervisionado e de aprendizagem não serão computados para os fins de cálculo da renda familiar per capita a que se refere o § 3º deste artigo.
+§ 9º Os valores recebidos a título de auxílio financeiro temporário ou de indenização por danos sofridos em decorrência de rompimento e colapso de barragens, bem como os rendimentos decorrentes de estágio supervisionado e de aprendizagem, não serão computados para fins de cálculo da renda familiar per capita a que se refere o § 3º deste artigo.
 § 10. Considera-se impedimento de longo prazo, para os fins do § 2º deste artigo, aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos.
 § 11. Para concessão do benefício de que trata o caput deste artigo, poderão ser utilizados outros elementos probatórios da condição de miserabilidade do grupo familiar e da situação de vulnerabilidade, conforme regulamento.
 § 11-A. O regulamento de que trata o § 11 deste artigo poderá ampliar o limite de renda mensal familiar per capita previsto no § 3º deste artigo para até 1/2 (meio) salário-mínimo, observado o disposto no art. 20-B desta Lei.
