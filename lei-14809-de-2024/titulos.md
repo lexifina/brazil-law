@@ -1,0 +1,1 @@
+Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), para estabelecer que os valores recebidos a título de auxílio financeiro temporário ou de indenização por danos sofridos em decorrência de rompimento e colapso de barragens não serão considerados renda para fins de elegibilidade a programas socioassistenciais.
