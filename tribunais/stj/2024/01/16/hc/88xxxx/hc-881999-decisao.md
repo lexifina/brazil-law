@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LUCENILDO SANTOS DE ARAUJO, em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE que indeferiu o pedido de liminar formulado no Habeas Corpus nº 0800630-87.2023.8.20.5400.
+Narra o impetrante que o Paciente foi preso no dia 14/02/2023 pela suposta prática dos crimes de lavagem de dinheiro e associação criminosa.
+Impetrado prévio writ perante o Tribunal local, o pedido de medida liminar foi indeferido.
+Daí, o presente habeas corpus em que se alega constrangimento ilegal decorrente de manutenção da prisão preventiva.
+Afirma, para tanto, que "a decisão denegatória da liminar de revogação da preventiva/liberdade provisória do Paciente não pode ser considerada fundamentada, uma vez que o tribunal a quo se limitou a parafrasear os poucos apontamentos da UJUDOCRIM, invocando argumentos que se prestariam a justificar qualquer decisão".
+Sustenta "ser mais do que suficiente as medidas cautelares alternativas, quando está-se diante de um AGENTE PRIMÁRIO, COM RESIDÊNCIA FIXA E SEM ANTECEDENTES CRIMINAIS, mormente quando o delito imputado não envolve violência ou grave ameaça" e invoca "AUSÊNCIA DE CONTEMPORANEIDADE da medida extrema, demonstrando outra vez a flagrante DESPROPORCIONALIDADE DA PRISÃO, a teor da inteligência do §2º, do art. 313, do CPP".
+Assevera que "mais uma vez é colocado no mesmo "contexto" junto com todos os outros, bem como o TJ pontua que o simples fato do paciente ter contas em 23 bancos é, de algum modo que não foi explicado, incompatível com seu cargo de Gari e HÁBIL A JUSTIFICAR O ENCARCERAMENTO QUE PERDURA POR MAIS DE 10 MESES, tudo isso lançado sem maiores divagações".
+Alega que "o fato de imputar-lhe a prática de ser "laranja" pressupõe que, em nenhum momento, Lucenildo cometera os supostos crimes que originaram o dinheiro ilícito, sendo, mais uma vez, completamente plausível e suficiente a aplicação de medidas cautelares diversas da prisão".
+Afirma, outrossim, que a decisão impugnada afastou a possibilidade de extensão da ordem concedida no habeas corpus impetrado pelo corréu Juvenal da Silva em que a prisão foi substituida por medidas cautelares alternativas sem explicar o porque de não haver semelhança entre os corréus.
+Assevera, nesse passo, que a situação de Gilvan é MAIS GRAVOSA do que o ora Paciente, que é "pessoa primária e de bons antecedentes, acusado de ser mero "laranja" e ter movimentado R$ 10.000,00 está preso, enquanto o corréu, o sr. Gilvan, acusado de ser o OPERADOR FINANCEIRO da associação, e de movimentar valores infinita vezes maiores, teve a sua liberdade concedida mediante medidas cautelares".
+Requer seja liminarmente concedida a ordem com a revogação da prisão preventiva, cumulada ou não com a imposição de medidas cautelares diversas da prisão, haja vista a possibilidade de extensão da decisão que beneficiou o corréu Gilvan Juvenal da Silva.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que o magistrado de primeiro grau, ao decretar a prisão preventiva, destacou que os acusados são suspeitos de integrar associação criminosa dedicada à prática do crime de lavagem de dinheiro oriundo do tráfico de drogas, ressaltando a necessidade da segregação para paralisar as atividades do grupo criminoso.
+Especificamente em relação ao paciente, ressaltou que ele "exerce a função de gari, na Prefeitura Municipal de Caicó/RN e, apesar do cargo de servidor público municipal, possui pelo menos 49 contas vinculadas a pelo menos 23 bancos, circunstância que não condiz com seu cargo de gari". Mencionou, ainda, a existência de imóveis registrados em seu nome e esclareceu que ele figura "como um dos principais "laranjas" dos irmãos VALDECI e GERALDO".
+Demais disso, quanto à extensão dos efeitos da liminar deferida a Gilvan Juvenal da Silva no HC 0800534-72.2023.8.20.5400, a alegadamente incidir o art. 580 do Código de Processo Penal, afirmou que tal dispositivo não se aplica ao caso, por não estar demonstrada a alegada igualdade de situação entre os corréus .
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
