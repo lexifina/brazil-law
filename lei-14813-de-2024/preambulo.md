@@ -1,0 +1,2 @@
+Altera a Lei nº 9.537, de 11 de dezembro de 1997, que dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional, para conferir segurança jurídica e estabilidade regulatória aos serviços de praticagem; e altera a Lei nº 10.233, de 5 de junho de 2001, que cria a Agência Nacional de Transportes Aquaviários (Antaq).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
