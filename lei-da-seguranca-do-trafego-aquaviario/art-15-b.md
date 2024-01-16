@@ -1,0 +1,1 @@
+Art. 15-B. As orientações sobre rumos e velocidades, em assessoria ao Comandante da embarcação, serão transmitidas exclusivamente por práticos aos Comandantes quando suas embarcações estiverem navegando nas zonas de praticagem.
