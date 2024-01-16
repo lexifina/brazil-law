@@ -1,0 +1,28 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de fls. 385/485 (e-STJ), reconsidero a decisão de fls. 380/382 (e-STJ) proferida pela Ministra Presidente e passo a novo exame do agravo em recurso especial interposto por WILMA DA SILVA THOMAZ, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/05/2023.
+Concluso ao gabinete em: 19/12/2023.
+Ação: declaratória de inexigibilidade de crédito c/c obrigação de fazer proposta pela agravante contra MGW ATIVOS FUNDO DE INVESTIMENTO EMDIREITOS CREDITÓRIOS NÃO PADRONZADOS (FIDC MGW ATIVOS) na qual alega, em suma, que ao consultar seu perfil no SERASA constatou que seu nome foi incluído no portal "Serasa Limpa Nome" em razão de 3 dívidas prescritas desde 2006. Requer a declaração de inexigibilidade das dívidas, em razão da prescrição e que a agravada seja condenada na obrigação de fazer consistente em retirar o nome da agravante da plataforma "Serasa Limpa Nome".
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO Débito prescrito e levado a registro junto ao Portal "Serasa Limpa Nome" Ação julgada improcedente Insurgência. Não acolhimento Prescrição da dívida que acarreta tão somente a perda do direito de ação - Possibilidade de cobrança de débito prescrito pelas vias extrajudiciais vedado o apontamento em órgãos de proteção ao crédito (CDC, art.43, §5º) Inclusão do nome junto ao cadastro de negociação de dívidas "Serasa Limpa Nome" Cadastro que não implica em restrição desabonadora Débito que persiste, embora prescrito Sentença mantida Apelo desprovido
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 43, § 1º, e 84 do CDC, 206, §§ 1º e §5º, I, do CC, além de dissídio jurisprudencial. Argumenta que, em se tratando de dívida líquida decorrente de instrumento público ou particular, aplica-se o prazo prescricional de 05 (cinco) anos. Assim, não poderia a agravada cobra as dívidas atualmente prescritas, mesmo que de maneira extrajudicial.
+Decisão monocrática: proferida pela Ministra Presidente, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ.
+Agravo Interno: a parte agravante aduz que impugnou todos os fundamentos da decisão agravada e requer a reconsideração.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+A Corte de origem, ao julgar o recurso de apelação interposto pela agravante, concluiu o seguinte (e-STJ fls. 269/270):
+Isso porque, é cediço que a prescrição da dívida acarreta tão somente a perda do direito de ação (art. 189, do Código Civil),impossibilitando a propositura de ação judicial para cobrança da dívida, mas não a existência do débito em si, consoante o artigo 189 do Código Civil, de modo que a dívida prescrita não deixa de existir em razão deste fato jurídico.
+Assim, mostra-se lícita a cobrança do débito pela via extrajudicial, porque não se pode impedir o credor de exercer o direito de instar o devedor, extrajudicialmente, ao cumprimento da obrigação.
+Da leitura dos trechos acima, verifica-se a decisão proferida pelo Tribunal de local destoa da jurisprudência do STJ que é no sentido de que o reconhecimento da prescrição impede tanto a cobrança judicial quanto a cobrança extrajudicial da dívida, não importando a via ou o instrumento utilizado para a realização da cobrança, uma vez que a pretensão se encontra praticamente inutilizada pela prescrição. (REsp n. 2.088.100/SP, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023).
+Assim, com fundamento na Súmula 568/STJ, o recurso deve ser provido para declarar a inexigibilidade do débito descrito na petição inicial em razão da prescrição, determinando que a agravada se abstenha de realizar cobranças judiciais ou extrajudiciais da referida dívida.
+Forte nessas razões, reconsidero a decisão de e-STJ fls. 380/382 e, por conseguinte CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para declarar a inexigibilidade do débito descrito na petição inicial em razão da prescrição, determinando que a agravada se abstenha de realizar cobranças judiciais ou extrajudiciais da referida dívida.
+Invertam-se os ônus sucumbenciais fixados no acórdão recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITO C/C OBRIGAÇÃO DE FAZER. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. DECISÃO MONOCRÁTICA RECONSIDERADA.
+1. Ação declaratória de inexigibilidade de crédito c/c obrigação de fazer.
+2. A jurisprudência do STJ é no sentido de que o reconhecimento da prescrição impede tanto a cobrança judicial quanto a cobrança extrajudicial da dívida, não importando a via ou o instrumento utilizado para a realização da cobrança, uma vez que a pretensão se encontra praticamente inutilizada pela prescrição.
+3. Reconsiderada a decisão de e-STJ fls. 380/382. Agravo conhecido. Recurso especial conhecido e provido.
