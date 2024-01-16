@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de conflito de competência com pedido liminar suscitado pela FUNDAÇÃO CENTRO DE ATENDIMENTO SOCIOEDUCATIVO AO ADOLESCENTE - FUNDAÇÃO CASA - SP em que aponta como suscitados o JUÍZO DE DIREITO DA 1ª VARA DA FAZENDA PÚBLICA DE RIBEIRÃO PRETO - SP e o JUÍZO DA 2ª VARA DO TRABALHO DE RIBEIRÃO PRETO - SP.
+A suscitante relata que José Eduardo Cardoso Pereira "ajuizou reclamatória trabalhista no MM. Juízo da 2ª. Vara do Trabalho de Ribeirão Preto  .. , vindicando reintegração ao emprego, nos autos do processo 0011678-38.2023.5.15.0042".
+Narra que "face à reconhecida incompetência da Justiça do Trabalho para conhecer da matéria e a extinção do feito respectivo (processo nº. 0011678-38.2023.5.15.0042 -doc.002), decisão esta que transitou em julgado em 28/11/2023 (doc. 003) o suscitado distribuiu novo procedimento, junto à 1ª. Vara da Fazenda Pública em Ribeirão Preto, feito este no qual o r. Juízo também se considerou incompetente "ex ratione materiae" (processo nº. 105.9052-81.2023.8.26.0506-doc.004) mandando remeter os autos ao juízo originário da 2ª. Vara do Trabalho de Ribeirão Preto (doc. 006), o qual foi autuado como processo 0012049-02.2023.5.15.0042 (doc. 007), desta vez como INDENIZAÇÃO POR DANO MORAL, mantendo-se inalterados os demais pedidos" (fl. 10).
+Acrescenta que, "neste procedimento referido, nº. 0012049-02.2023.5.15.0042 (doc. 007), o MM. Juízo da 2ª. Vara do Trabalho de Ribeirão Preto indeferiu a tutela de urgência postulada, nos termos preconizados pelo artigo 300 do Digesto Processual" (fl. 10).
+Afirma que, "havendo fundado receio de que o MM. Juízo da 2ª. Vara do Trabalho de Ribeirão Preto novamente se dê por incompetente "ex ratione materiae", criando-se assim um círculo vicioso, se requer o conhecimento e apreciação do CONFLITO DE COMPETÊNCIA SUSCITADO" (fl. 13).
+É o relatório. Decido.
+No caso dos a utos, não se verifica a existência de conflito de competência.
+A uma porque, no tocante ao processo n. 0012049-02.2023.5.15.0042, o mero receio de um Juízo se declarar incompetente para decidir uma causa não é suficiente para caracterizar o conflito de competência;
+A duas porque, quanto ao processo n. 0011678-38.2023.5.15.0042, a sentença proferida pelo Juízo da 2ª Vara do Trabalho de Ribeirão Preto, que efetivamente reconheceu a incompetência da justiça trabalhista, transitou em julgado em 28/11/2023. Assim, incide a Súmula n. 59 do STJ, segundo a qual não há conflito de competência se já existe sentença com trânsito em julgado proferida por um dos juízos conflitantes.
+Ante o exposto, não conheço do conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
