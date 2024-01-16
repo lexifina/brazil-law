@@ -1,0 +1,2 @@
+Altera a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, que estabelece princípios gerais da Política Nacional do Cinema, e a Lei nº 12.485, de 12 de setembro de 2011, que dispõe sobre a comunicação audiovisual de acesso condicionado, para prorrogar o prazo de obrigatoriedade de exibição comercial de obras cinematográficas brasileiras - a política de cotas de tela na TV paga -, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
