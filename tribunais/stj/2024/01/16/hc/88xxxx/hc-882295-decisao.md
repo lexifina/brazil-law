@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ANDERSON VANDER MARTINS PEREIRA, em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que indeferiu o pedido de liminar formulado no HC 5043785-69.2023.4.04.0000/PR.
+Consta dos autos que o paciente foi preso preventivamente em 4/5/2023, por suposta participação em organização criminosa voltada ao tráfico internacional de drogas, e denunciado nos autos da Ação Penal nº 5054189- 34.2023.4.04.7000, com denúncia recebida em 10/8/2023, e que desde 30/10/2023 aguarda decisão sobre as defesas apresentadas.
+Diz que por força do art. 316, paragrafo único, do CPP, foi proferida nova decisão na origem, mantendo a segregação cautelar.
+Alega, em apertada síntese, que há constrangimento ilegal por excesso de prazo, pois o paciente "está preso há mais de oito meses, sem que tenha se iniciado a instrução processual e sem previsão para o seu encerramento".
+Argumenta que não há fatos novos ou contemporâneos a justificar a custódia e que a decisão analisou de forma precária a possibilidade de cautelares diversas, consoante o art. 319 do CPP, e, por outro lado, já foi concedida liberdade provisória a vários outros coinvestigados.
+Requer, inclusive por liminar, a revogação da prisão preventiva, com ou sem cautelares diversas, e, ao final, a concessão da ordem.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+Além disso, como bem ponderado na decisão atacada, a presença dos pressupostos que legitimam a prisão preventiva foi deliberada em outras duas impetrações na origem, quais sejam, HC 5031937-85.2023.4.04.0000 e HC 5031937-85.2023.4.04.0000.
+Portanto, o suposto ato coator nem seria a decisão da primeira instância que operou a revisão nonagesimal da prisão preventiva e menos ainda a decisão proferida em plantão que ora se ataca, de modo que as razões que dão suporte à constrição cautelar são mera reiteração, descabendo novas impetrações. Confira-se o que consta da decisão de origem:
+Inicialmente registro que embora os objetivos e a legitimação ampla do habeas corpus autorizem menor rigor processual, não podem ser admitidos sucessivos habeas corpus com idênticos fundamentos, pois mereceriam então idêntica solução, reiterada e não-econômica, e o cabimento da prisão preventiva, a presença de contemporaneidade e a impossibilidade de cautelares menos gravosas já foi objeto de exame nesta Corte, no julgamento do HC nº 5031937-85.2023.4.04.0000, impetrado pelo mesmo defensor, julgado em 03/10/2023,ocasião em que a 7ª Turma, por unanimidade, denegou a ordem, nos termos do evento 12, RELVOTO1 que restou assim ementado (processo 5031937-85.2023.4.04.0000/TRF4, evento 12, ACOR2):
+..
+Faz agora, o impetrante, reiteração do mesmo pleito - de revogação da prisão preventiva ou concessão de liberdade provisória mediante cautelares diversas da prisão - com base em idênticos fundamentos de ausência de contemporaneidade e possibilidade de cautelares menos gravosas, -, de modo que pelas mesmas razões já expostas no anterior habeas corpus, por caracterizar indevida reiteração, não merece trânsito a impetração.
+Nesse ponto, cabia a extinção da impetração original.
+Quanto ao alegado excesso de prazo, percebo que a Ação Penal tramita regularmente e trata-se de fatos complexos, com multiplicidade de réus e de defensores, o que bem justificaria algum retardo, que nem existe no caso. Quanto a isso, assim registrou o decisor singular no TRF da 4.ª Região :
+Com relação ao excesso de prazo, ressalto que os prazos consignados na lei processual para fim de conclusão da instrução criminal devem ser abrandados, atentando o julgador às peculiaridades de cada investigação criminal - aqui entendidas como a complexidade da causa pela situação fática em si, pelo número de investigados e também pelas dificuldades inerentes à realização de diligências. É uníssona a jurisprudência no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, impondo-se adoção de critério de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Desta forma, embora a lei estabeleça prazos mínimos para formação da culpa na hipótese de réu preso, tem-se, à luz do principio da razoabilidade, que não consubstancia constrangimento ilegal o extrapolamento do prazo legal nos casos em que os fatos demonstram acentuada complexidade, pluralidade de réus/investigados ou quando evidenciada existência de organização criminosa.
+Portanto, não vislumbro qualquer ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+EMENTA
