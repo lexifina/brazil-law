@@ -1,3 +1,2 @@
 Art. 24. A autoridade a que se refere o artigo anterior disporá de trinta dias para proferir sua decisão, devidamente fundamentada.
 § 1º Da decisão a que se refere o caput deste artigo caberá recurso, sem efeito suspensivo, no prazo de cinco dias úteis, contado da data da respectiva notificação, dirigido à autoridade superior designada pela autoridade marítima, que proferirá decisão no prazo e forma previstos no caput.
-§ 2º Em caso de recurso contra a aplicação da pena de multa, será exigido o depósito prévio do respectivo valor, devendo o infrator juntar, ao recurso, o correspondente comprovante.

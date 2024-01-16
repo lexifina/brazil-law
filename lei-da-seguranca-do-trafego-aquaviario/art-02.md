@@ -20,3 +20,4 @@ XVIII - Registro de Propriedade da Embarcação - registro no Tribunal Marítimo
 XIX - Tripulação de Segurança - quantidade mínima de tripulantes necessária a operar, com segurança, a embarcação;
 XX - Tripulante - aquaviário ou amador que exerce funções, embarcado, na operação da embarcação;
 XXI - Vistoria - ação técnico-administrativa, eventual ou periódica, pela qual é verificado o cumprimento de requisitos estabelecidos em normas nacionais e internacionais, referentes à prevenção da poluição ambiental e às condições de segurança e habitabilidade de embarcações e plataformas.
+XXII - Zona de Praticagem - área geográfica delimitada em razão de peculiaridades locais que dificultam a livre e segura movimentação de embarcações, de forma a exigir a constituição e a disponibilidade permanente de serviço de praticagem.
