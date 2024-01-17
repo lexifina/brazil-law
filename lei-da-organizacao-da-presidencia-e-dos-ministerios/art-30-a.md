@@ -1,12 +1,23 @@
 Art. 30-A. Constituem áreas de competência do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte:
-I - políticas, programas e ações de apoio ao empreendedorismo;
-II - políticas, programas e ações de apoio à microempresa e à empresa de pequeno porte;
-III - políticas, programas e ações de apoio ao artesanato e ao microempreendedor;
-IV - políticas de apoio à formalização da microempresa e da empresa de pequeno porte;
-V - incentivo e promoção de arranjos produtivos locais relacionados às microempresas e às empresas de pequeno porte e de desenvolvimento da produção;
-VI - ações de qualificação e extensão empresarial destinadas à microempresa, à empresa de pequeno porte e ao artesanato;
-VII - promoção da competitividade e da inovação das microempresas e empresas de pequeno porte;
-VIII - articulação e incentivo à participação da microempresa, da empresa de pequeno porte e do artesanato nas exportações brasileiras de bens e serviços;
-IX - políticas destinadas ao microempreendedorismo e ao microcrédito;
-X - promoção de ações de fomento da cultura empreendedora, incluídos programas de capacitação e de acesso a recursos financeiros; e
-XI - registro público de empresas mercantis e atividades afins.
+I - coordenação, articulação e proposição de políticas, de programas e de ações de apoio que tratem de:
+a) empreendedorismo;
+b) microempresa e empresa de pequeno porte;
+c) artesanato e microempreendedorismo;
+d) educação empreendedora;
+e) concretização e garantia do tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte previsto na alínea "d" do inciso III do caput do art. 146, no inciso IX do caput do art. 170 e no art. 179 da Constituição Federal, incluída a defesa institucional perante os Poderes da República e os entes federativos;
+II - políticas de apoio à formalização da microempresa e da empresa de pequeno porte e à identificação do microempreendedor e do profissional autônomo;
+III - incentivo e promoção de arranjos produtivos locais relacionados à microempresa e à empresa de pequeno porte e de desenvolvimento sustentável da produção;
+IV - ações de qualificação e de extensão empresarial, com ênfase no empreendedorismo feminino e na promoção de empresas de base inovadora (startups), destinadas à microempresa, à empresa de pequeno porte e ao artesanato;
+V - promoção da competitividade e da produtividade, inclusive por meio de acesso a mercados públicos e privados, da inovação e da melhoria do ambiente de negócios para a microempresa e a empresa de pequeno porte;
+VI - articulação e incentivo à participação da microempresa, da empresa de pequeno porte e do artesanato nas exportações brasileiras de bens e serviços;
+VII - políticas destinadas ao microempreendedorismo e ao microcrédito;
+VIII - promoção de ações de fomento da cultura empreendedora inclusiva, abrangidos programas de capacitação, de equalização de passivos, de regularização de débitos, de mitigação do endividamento e de acesso a recursos financeiros;
+IX - registro público de empresas mercantis e atividades afins;
+X - apoio ao empreendedorismo, à microempresa e à empresa de pequeno porte em casos de calamidade pública;
+XI - inclusão socioprodutiva dos empreendedores informais da base da pirâmide social, com interseção da política do microempreendedor com as de assistência social e suas redes;
+XII - suporte às ações nacionais e subnacionais na utilização dos instrumentos de apoio ao empreendedorismo, à microempresa e à empresa de pequeno porte, incluído o poder de compra governamental para o desenvolvimento dos territórios;
+XIII - políticas de apoio à inserção da microempresa e da empresa de pequeno porte em atividades ligadas à economia criativa, observadas as competências do Ministério da Cultura;
+XIV - políticas, programas e ações de apoio ao associativismo e ao cooperativismo, nos temas relacionados ao empreendedorismo, à microempresa e à empresa de pequeno porte, observadas as competências do Ministério do Desenvolvimento Agrário e Agricultura Familiar e do Ministério do Trabalho e Emprego.
+§ 1º O Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte poderá firmar acordos de cooperação técnica para consecução das políticas públicas formuladas nos termos dos incisos I a XIV do caput deste artigo, inclusive com o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae).
+§ 2º O Sebrae prestará apoio à implementação e à avaliação das políticas públicas nacionais de que tratam os incisos I a XIV do caput deste artigo.
+§ 3º O contrato de gestão a que se refere o parágrafo único do art. 34 desta Lei, nos pontos atinentes ao empreendedorismo, à microempresa e à empresa de pequeno porte, contará com a participação do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte.
