@@ -3,3 +3,4 @@ Art. 26. Os critérios e valores para a remuneração de serviços e os parâmet
 § 2º Os serviços contratados submeter-se-ão às normas técnicas e administrativas e aos princípios e diretrizes do Sistema Único de Saúde (SUS), mantido o equilíbrio econômico e financeiro do contrato.
 § 3º (Vetado).
 § 4º Aos proprietários, administradores e dirigentes de entidades ou serviços contratados é vedado exercer cargo de chefia ou função de confiança no Sistema Único de Saúde (SUS).
+§ 5º Os valores a que se refere o caput deste artigo, para o conjunto das remunerações dos serviços de saúde, serão definidos no mês de dezembro de cada ano, por meio de ato do Ministério da Saúde, devendo-se buscar a garantia da qualidade do atendimento, o equilíbrio econômico-financeiro na prestação dos serviços e a preservação do valor real destinado à remuneração de serviços, observada a disponibilidade orçamentária e financeira.
