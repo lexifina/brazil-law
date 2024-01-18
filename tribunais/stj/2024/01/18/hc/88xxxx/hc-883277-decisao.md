@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TALISON ERVAL CARVALHO SOUSA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que denegou o pedido de liminar formulado no HC n. 5078444-16.2023.8.24.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados nos arts. 2º, caput, da Lei n. 12.850/2013 (Fato 1); 155, § 4º, II e IV e §§ 4º-B e 4º-C, II, por 35 vezes, na forma do art. 71, caput, todos do CP (Fato 2); 155, § 4º, II e IV e § 4º-B, c/c o art. 14, II, por 34 vezes, na forma do art. 71, caput, todos do CP (Fato 3); e no art. 1º, caput e § 1º, II, e § 4º, da Lei n. 9.613/1998 (FATO 4), em concurso material, termos em que denunciado.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, em razão da quebra da cadeia de custódia da prova penal digital e da nulidade da busca a apreensão realizada na residência do paciente.
+Aduz que a denúncia é inepta porque não demonstra o mínimo de fatos seguros, não há provas de existência do crime e de indícios de autoria, além de não individualizar qual foi a contribuição do paciente na prática criminosa, ficando prejudicada a justa causa para a persecução penal. Ressalta que não está descrita de maneira satisfatória a atuação do paciente quanto ao crime do art. 2º, § 2º, da Lei n. 12.850/2013. A exordial acusatória não narra a divisão de tarefas, sequer menciona a hierarquia organizacional. Além disso, não indica elementos para configuração do crime do art. 155, § 4º, II, IV, e §§ 4º-C, II, do CP.
+Assevera, que não estão presentes os requisitos autorizadores e as condições de admissibilidade da medida extrema, previstos no art. 312 e 313 do CPP e revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Ainda, alega que está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar, pois os fatos imputados à organização criminosa se concentram temporalmente em 2022.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais; seja reconhecida a quebra da cadeia de custódia, a nulidade da decisão que determinou a busca e apreensão, a inépcia da petição inicial e a falta de justa causa para a persecução penal, Por fim, que seja absolvido o paciente pelo crime de furto e que seja reconhecida a incompetência da autoridade coatora, considerando que compete à Justiça do Estado de São Paulo processar e julgar os fatos.
+É o relatório.
+O writ não merece prosseguir.
+A matéria aqui suscitada é também objeto do HC n. 882.503/SC. Constata-se, assim, a inadmissível reiteração, conforme a jurisprudência desta Corte Superior, da qual é exemplo o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022, grifo acrescido)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
