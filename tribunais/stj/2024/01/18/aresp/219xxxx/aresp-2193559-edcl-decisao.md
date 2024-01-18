@@ -1,0 +1,21 @@
+DECISÃO
+ISABEL COELHO PARDO opõe embargos de declaração à decisão de fls. 2.093-2.098, que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Em suas razões, a embargante alega a ocorrência de omissão.
+Sustenta a violação do art. 1.022 do CPC/2015 arguindo o seguinte (fl. 2.094):
+(i) o primeiro de que o acórdão recorrido do e. TJSP não havia se manifestado sobre a questão relevante de que as cotas sociais objeto da penhora discutida nestes autos foram previamente gravadas com usufruto vitalício em benefício da mãe de Isabel Pardo e com as cláusulas de impenhorabilidade, inalienabilidade e incomunicabilidade, antes da doação realizada à embargante, por opção dos doadores e não da donatária, não havendo qualquer redução do patrimônio da embargante, mas sim majoração de seu patrimônio com tal doação, embora inacessível aos credores em virtude das cláusulas vitalícias impostas pelos doadores, sem qualquer interferência da embargante;
+(ii) o segundo de que o e. TJSP também se omitiu quanto ao fato de que Isabel nunca pôde se defender propriamente no processo como executada (por não ter sido citada na execução), mas apenas como terceira (mediante embargos de terceiro e, nestes autos, por meio de embargos à penhora), jamais lhe tendo sido franqueada a possibilidade de se insurgir contra o próprio título executivo, mas apenas, pontualmente e de modo limitado, contra cada uma das constrições realizadas no processo executivo que atingiram bens de sua propriedade (foi nesse sentido que se apontou a ausência de citação e o cerceamento de defesa), ressaltando-se que a embargante jamais figurou no polo passivo da demanda originária, fatos que são expressamente reconhecidos pelo v. aresto objurgado "Embora de fato a apelante não tenha sido formalmente incluída no polo passivo da execução (0411583-60.1990.8. 26.0100),".
+Requer o acolhimento dos embargos de declaração para que sejam reconhecidas as omissões apontadas no julgado, com efeitos infringentes
+Impugnação da parte embargada às fls. 2.103-2.111.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso, não está configurada nenhuma das hipóteses autorizadoras dos aclaratórios.
+Observa-se que o Tribunal a quo reconheceu que (fl. 1.869):
+ ..  Embora de fato a apelante não tenha sido formalmente incluída no polo passivo da execução (0411583-60.1990.8. 26.0100), ainda que por vias que possam ser reputadas tortuosas, teve a possibilidade de exercer o contraditório e, neste processo em específico, com a mencionada anulação da primeva sentença, foi-lhe oportunizada a produção de novas provas que corroborassem suas alegações.
+E ainda que (fl. 1.870):
+Com razão, referidas cláusulas de inalienabilidade, impenhorabilidade e incomunicabilidade não foram bem acolhidas pelo direito francês e no Brasil, na atualidade, observamos a flexibilização, até porque, no caso concreto, já aconteceu parcial constrição de propriedade rural e a doação do numerário realizada poderia até mesmo envolver parte da legítima.
+Nesse contexto, os fundamentos da decisão embargada foram claros no sentido de que concluir que o acolhimento das alegações da parte embargante demandaria reexame do conjunto fático-probatório, o que é vedado na instância especial, segundo o enunciado da Súmula n. 7 do STJ.
+É manifesto, portanto, que a presente irresignação caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; e AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
