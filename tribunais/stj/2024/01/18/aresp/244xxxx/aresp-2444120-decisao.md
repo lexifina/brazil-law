@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA APARECIDA RIBEIRO DE ARAÚJO contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1036236-73.2020.8.26.0602) assim ementado (fl. 5.337):
+Consumidor e processual. Prestação de serviços educacionais. Ação declaratória de inexigibilidade de débito cumulada com obrigação de fazer e indenização por danos material e moral julgada improcedente. Pretensão à reforma integral da sentença manifestada pela autora.
+Manutenção da sentença que se impõe, uma vez que a demandante sequer comprovou sua adesão ao Programa UNIESP PAGA, encargo que lhe incumbia por força do artigo 373, inciso I, do Código de Processo Civil.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fl. 5.355).
+Nas razões do recurso especial, a ora agravante aponta violação dos seguintes artigos: 6º, VIII, do CDC, defendendo a inversão do ônus probatório; e 30 do CDC, suscitando o cumprimento da obrigação contida na publicidade da recorrida.
+Afirma que aderiu aos termos do programa "UNIESP PAGA", que "previu a contratação do FIES como ÚNICA obrigação para concretizar a adesão aos termos da publicidade e fazer jus ao pagamento do FIES pela Recorrida-UNIES" (fl. 5.364).
+Argumenta ainda que o julgado recorrido diverge do entendimento do STJ quanto à obrigação do prestador do serviço ao cumprimento dos termos da publicidade tida como enganosa e a aplicação nos moldes do CDC.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 5.409-5.416.
+O recurso especial foi inadmitido na origem (fls. 5.509-5.511).
+A contraminuta ao agravo foi oferecida às fls. 5.558-5.560.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Acerca da questão suscitada, consta do acórdão impugnado o seguinte (fls. 5.338-5.341):
+Não obstante a existência de relação de consumo entre as partes, atraindo a incidência do Código de Defesa do Consumidor, inviável a inversão do ônus da prova prevista no artigo 6º, inciso VIII, desse diploma legal.
+Por um lado, não se pode afirmar a verossimilhança da alegação da autora e, mais relevante, não se pode impor aos réus, especificamente à UNIESP, o ônus de provar fato negativo, qual seja, que aquela não se inscreveu no Programa UNIESP PAGA.
+Destarte, deve ser aplicada ao caso concreto a regra do artigo 373 do Código de Processo Civil, segundo a qual o ônus da prova incumbe ao autor quanto ao fato constitutivo de seu direito (inciso I), e ao réu quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor (inciso II).
+ ..
+Como aponta a sentença guerreada, a autora alega "que firmou o contrato educacional, aderindo ao programa UNIESP PAGA, em que as requeridas assumiriam o compromisso de pagar seu financiamento do FIES, porém, após a conclusão do curso, passou a ser cobrada pelo Banco do Brasil com relação ao pagamento do FIES", entretanto "não há nos autos qualquer documento que comprove a contratação pelo referido programa a justificar a pretensão do pagamento do FIES pelas requeridas", apresentando a demandante apenas "propagandas desse compromisso (fls. 03/04)", não havendo, assim, "qualquer prova de que a autora firmou contrato com as requeridas e que essas assumiram o pagamento de seu FIES, sendo certo que se trata de prova documental e era ônus da autora ter juntado o documento na petição inicial" (fls. 1.009).
+O decisum acrescenta que "a autora juntou o contrato de FIES com o Banco, no qual não consta qualquer participação ou intervenção das requeridas", tendo, portanto, firmado "o contrato de FIES com o Banco do Brasil, sendo o contrato válido, e que deve ser cumprido pela autora, única responsável pelo pagamento", de tudo resultando que "não se verifica qualquer ato ilícito pelos requeridos a justificar indenização por danos morais ou materiais" (fls. 1.009).
+Importa destacar, uma vez que a apelante se apega a ela a petição recursal pede que seja reconhecida "a boa-fé da APELANTE e a veracidade da declaração de fls. 96, que confirma a sua adesão ao programa "UNIESPPAGA"" (fls. 1.071), que referida declaração absolutamente nada prova.
+Em relação à violação do art. 6º, VIII, do CDC, o entendimento adotado no acórdão recorrido encontra amparo na jurisprudência desta Corte de que a inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, depende da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+A corroborar tal entendimento, confiram-se os seguintes julgados:
+AGRAVO INTERNO. CONTRATO DE CONSÓRCIO. INOVAÇÃO. INCABÍVEL. INVERSÃO DO ÔNUS DA PROVA. RELAÇÃO DE CONSUMO. PRECEDENTES. VÍCIO NO CONTRATO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Não se admite a adição, em sede de agravo interno, de tese não exposta no recurso especial, por importar em inadmissível inovação.
+2. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Precedentes.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.245.830/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 1. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. OMISSÃO ACERCA DA VIOLAÇÃO DO ART. 6º, VIII, DO CDC. APLICAÇÃO DO DISPOSTO NO ART. 1.025 DO CPC/2015. INVERSÃO DO ÔNUS DA PROVA QUE NÃO SE DÁ DE FORMA AUTOMÁTICA. VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS E REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO QUANTO À COMPROVAÇÃO DO VÍNCULO CONTRATUAL E INEXISTÊNCIA DE DANO MORAL. INCIDÊNCIA DA SÚMULA 7/STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Apesar da falta de manifestação pela Corte local acerca da inversão do ônus probatório, a análise do tema decorre do disposto no art. 1.025 do CPC/2015. Dito isso, é pacífico o entendimento desta Corte de que a aplicação do art. 6º, inciso VIII, do CDC, não é automática e depende da análise, pelas instâncias ordinárias, da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor.
+2.1. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, com vistas a afirmar que se encontram presentes na espécie os requisitos para a inversão do ônus da prova, exigiria necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.058.334/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+Aplica-se ao caso a Súmula n. 83 do STJ.
+Ademais, para adotar conclusões diversas das que restaram assentadas no acórdão de origem e acolher a tese defendida pela parte ora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável na via do apelo especial em face do óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA E VEROSSIMILHANÇA. CONJUNTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. 1.
+Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A discussão acerca do cabimento ou não da regra de instrução probatória inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência técnica do consumidor e da verossimilhança das alegações deduzidas, o que, no presente caso, reclama o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial (Súmula nº 7/STJ).
+3. Na hipótese, acolher a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no reexame das provas, procedimentos vedados em recurso especial, a teor da Súmula nº 7/STJ.
+4. Consoante iterativa jurisprudência do Superior Tribunal de Justiaça, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+5. Agravo interno não provido.(AgInt no REsp n. 1.827.931/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/12/2019, DJe de 6/12/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui firme o entendimento no sentido de que: "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações do consumidor.".(AgInt no AREsp 1328873/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/11/2019, DJe 18/12/2019).
+2. As conclusões do acórdão recorrido no tocante à inexistência de ato ilícito apto a gerar o dever de indenizar; e inversão do ônus da prova; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.581.973/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/3/2020, DJe de 17/3/2020.)
+Relativamente à ofensa ao art. 30 do CDC, o Tribunal a quo, a partir da análise do conjunto fático e probatório dos autos e da interpretação do contrato celebrado entre as partes, concluiu que não houve o alegado descumprimento contratual pelo recorrido.
+Nesse contexto, a pretensão de novo pronunciamento a respeito do cumprimento do contrato e da sua resolução nesta instância especial, implicaria a análise de cláusula contratual e o reexame de matéria fático-probatória dos autos, medida inviável em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. EXISTÊNCIA DE PROPAGANDA ENGANOSA E IRREGULARIDADE DO CONTRATO DE FINANCIAMENTO ESTUDANTIL. SÚMULAS N. 5 E 7. NÃO PROVIDO. MULTA. ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+2. Não há violação ao artigo 1.022 do estatuto processual civil de 2015 quando o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia.
+3. Desconstituir as premissas do acórdão recorrido, a fim de concluir pela existência de propaganda enganosa e irregularidade do contrato de financiamento estudantil, como pretende a parte agravante, demandaria a reinterpretação das cláusulas do contrato e o reexame do acervo fático-probatório dos autos, o que, na via do recurso especial, é vedado pelos enunciados das Súmulas n. 5 e 7 desta Corte.
+4. Em regra, descabe a imposição da multa, prevista no artigo 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+6. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.479.911/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/2/2020, DJe de 11/2/2020.)
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a incidência das Súmulas n. 7 e 83 do STJ implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nesse sentido, confira-se o seguinte julgado: AgInt no AREsp n. 1.809.686/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/10/2021, DJe de 25/11/2021.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida , observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
