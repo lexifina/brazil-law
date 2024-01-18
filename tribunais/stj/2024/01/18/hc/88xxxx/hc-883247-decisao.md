@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ORLANDRA MARIA DA SILVA, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Consta dos autos que a paciente encontra-se presa preventivamente pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+O impetrante sustenta que é cabível a substituição da prisão preventiva por domiciliar tendo em vista que a paciente é mãe de criança que depende de seus cuidados. Aduz, em suma, que "a paciente preenche os requisitos estabelecidos nos artigos 317 e 318 do Código de Processo Penal, fazendo a jus a concessão da prisão domiciliar" (fl. 15).
+Defende a superação da Súmula n. 691 do Supremo Tribunal Federal, porque "a defesa verifica a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem e a concessão do writ" (fl. 10).
+Requer, em pedido liminar e no mérito, seja substituída a prisão preventiva por prisão domiciliar ou por outras medidas cautelares diversas da segregação cautelar.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, tendo em vista a seguinte fundamentação, adotada na origem, para afastar a concessão desse benefício (fls. 169/170):
+O pedido de liminar já foi apreciado e, na oportunidade, indeferido concluindo-se a priori, pelo acerto do decreto prisional diante, em especial da quantidade de drogas apreendida (pouco mais de 1kg de entorpecentes), e porque a paciente possui passagem criminal por crime da mesma natureza, a saber: Ação Penal n. 1002286-67.2022.8.11.0005, em trâmite na comarca de Diamantino, pela suposta prática do crime de tráfico de drogas, majorado pelos inc. III (transporte público) e V (tráfico entre Estados da Federação), do art. 40, da Le n. 11.343/06.
+ ..
+Pela documentação acostada com a inicial, não restam dúvidas de que a paciente possui uma filha com idade inferior a 12 anos, no entanto, a Defesa não cuidou de comprovar que a presença da Orlandra seja imprescindível aos cuidados da criança.
+Sobre isso, aliás, durante a audiência de custódia, vejo que Orlandra esclareceu que a menina está, atualmente, sob os cuidados da avó materna, que reside no mesmo bairro da paciente, na cidade de Tangará da Serra/MT.
+Deste modo, não tendo a Defesa demonstrado de forma inconteste, a necessidade da presença da paciente no cuidado da filha ou mesmo, a inaptidão da avó materna para cuidar da pequena J. F. S ou mesmo eventual situação de risco suportada pela criança, não há nenhuma ilegalidade a ser reconhecida, in limine.
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
