@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado por advogado particular em favor de VINICIUS DA SILVA MATOS, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (HC 5000350-11.2024.4.04.0000/PR).
+Consta dos autos que o paciente foi preso em flagrante em 29/09/2023 pela suposta prática dos crimes previstos nos artigos 311 e 334-A, ambos do Código Penal e 56 da Lei nº 9.605/98. O flagrante foi convertido em prisão preventiva. Em 15/12/2023, o juiz de primeiro grau concedeu liberdade provisória ao paciente, mediante a imposição de medidas cautelares diversas, dentre elas o pagamento de fiança no valor de R$ 25.000,00 (vinte e cinco mil reais).
+A defesa formulou pedido de reconsideração, tendo o Juízo de primeira instância indeferido o pedido de isenção de fiança, mas o reduzido para o importe de R$ 15.000,00 (quinze mil reais).
+Impetrado prévio writ, a liminar foi parcialmente concedida para autorizar que o paciente recolha o valor em dez parcelas mensais consecutivas de R$ 1.500,00 (um mil e quinhentos reais).
+Daí o presente mandamus, oportunidade em que o impetrante alega que o paciente é hipossuficiente e não possui condiçõe de adimplir com o valor de R$ 15.000,00 (quinze mil reais). Pondera que o paciente "possui um filho menor de idade, tendo trabalho informal de garçom, sendo irrazoável imaginar que possui condições de arcar com o valor arbitrado. Menciona, ainda, que os delitos não foram praticados com violência ou grave ameaça e que não ostenta qualquer antecedente criminal.
+Requer, liminarmente e no mérito, a dispensa do pagamento da fiança com a expedição de alvará de soltura ao paciente.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi ex aminada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular.
+Desde logo, anoto que em todas as instâncias o paciente foi representado por advogado particular, situação que contrasta com a hipossuficiência mencionada nos autos. Além do mais, é valido destacar que o paciente foi preso enquanto estava em fruição de liberdade provisória concedida em outro feito, demontrando a reiteração delitiva. No mais, observa-se que na inicial, a defesa do paciente em momento algum se insurge alegando a impossibilidade do pagamento da primeira parcela da fiança fixada pelo Tribunal em R$ 1.500,00 (um mil e quinhentos reais), mas sim, volta-se contra o valor integral de R$ 15.000,00 (quinze mil reais), como se não tivesse havido um provimento judicial em seu favor pela Corte de origem. Ou seja, as alegações contidas na inicial não convergem com o que foi decidido pela Corte Regional, não sendo possível vislumbrar eventual ilegalidade patente na decisão que indeferiu a liminar. Desse modo, entende-se prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
