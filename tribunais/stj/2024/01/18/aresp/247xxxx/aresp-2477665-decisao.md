@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SÃO BENTO INCORPORADORA contra decisão que inadmitiu recurso especial com fundamento nas Súm ulas n. 5, 7 e 83 do STJ
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação n. 0801254-77.2020.8.12.0029) assim ementado (fl. 172):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E DECLARAÇÃO DE NULIDADE DE CLÁUSULAS CONTRATUAIS - PRELIMINAR - REVOGAÇÃO DOS BENEFICIOS DA JUSTIÇA GRATUITA - AFASTADA - MÉRITO - RETENÇÃO - PERCENTUAL FIXADO DE ACORDO COM PRECEDENTES DESTE TRIBUNAL BEM COMO EM ATENÇÃO AS CLAUSULAS CONTRATUAIS - TAXA DE FRUIÇÃO - TERRENO SEM EDIFICAÇÃO - INDEVIDA - RETENÇÃO DO IPTU - MANTIDO O TERMO FIXADO PELO JULGADOR SINGULAR A FIM DE EVITAR REFORMATIO IN PEJUS - PEDIDO PARA ALTERAÇÃO DO ÍNDICE DE CORREÇÃO REALIZADO APÓS A APRESENTAÇÃO DO APELO- NÃO APRECIADO ANTE A VEDAÇÃO DE EMENDA AO RECURSO APÓS A SUA INTERPOSIÇÃO - RECURSO CONHECIDO E NÃO PROVIDO - SENTENÇA INALTERADA.
+Os embargos de declaração opostos foram rejeitados nestes termos (fl. 205):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES E DECLARAÇÃO DE NULIDADE DE CLÁUSULAS CONTRATUAIS - PROMESSA DE COMPRA E VENDA - INEXISTÊNCIA DE VÍCIOS - INCONFORMISMO DA INCORPORADORA SOBRE O PERCENTUAL DE RETENÇÃO - IMPOSSIBILIDADE DE REDISCUSSÃO NESTA VIA HORIZONTAL - EMBARGOS NÃO ACOLHIDOS.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes artigos: 1.022, I e II, do CPC, indicando omissão e contradição no acórdão recorrido; e 926 do CPC e 389, 402 e 412 do CC, defendendo a aplicação do entendimento do STJ quanto ao percentual de 25% de retenção pela rescisão contratual.
+Narra que as partes firmaram contrato de compra e venda de imóvel, o qual foi rescindido.
+Sustenta a incidência da retenção de 25% dos valores pagos diante da rescisão por fato imputado à parte recorrida.
+Argumenta ainda que o julgado recorrido diverge do entendimento do STJ sobre a adoção do percentual de retenção de 25% dos valores pagos nos casos de rescisão contratual por culpa do comprador.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 322).
+O recurso especial foi inadmitido na origem (fls. 324-335).
+A contraminuta ao agravo não foi apresentada (fl. 362).
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls. 183-186):
+Da análise da sentença singular verifica-se que o julgador singular além de adotar o entendimento exposto pelo STJ, também considerou os termos constantes no contrato pactuado entre as partes, realizando as devidas correções.
+Neste norte é importante consignar que o STJ consolidou o entendimento de que a denúncia de compromisso de compra e venda pelo compromitente comprador justifica a perda entre 10 e 25% do valor pago, sob pena de violação da proibição de abusividade (art. 51, IV, do CDC), de forma que a sentença singular não se mostra contraria aos julgados do STJ. Vejamos:
+ ..
+Frise-se ainda que a adequação pelo julgador singular (exclusão da cláusula penal, bem como correção de que o percentual incida sobre os valores pagos e não sobre a totalidade do contrato) buscou o aproveitamento do pactuado pelas partes, fazendo-se as correções necessárias para tornar o pactuado justo e proporcional.
+Assim sendo, não há motivo para qualquer reparo na sentença, no tocante ao percentual de retenção a ser aplicado.
+Do julgamento dos embargos aclaratórios constou o seguinte (fls. 208-219):
+A sentença ao fixar o percentual de retenção foi assim fundamentada:
+ ..
+De uma atenta leitura ao acórdão atacado, verifica-se que não padece nenhum vício passível de correção via embargos de declaração, mas há verdadeira pretensão da embargante em rediscutir a matéria, o que não é permitido nesta estreita via horizontal, exigindo a interposição de recursos aos tribunais superiores para ver prevalecido o posicionamento que acredita ser o mais justo.
+Verifica-se ainda que as decisões proferidas pelo Tribunal da Cidadania, nos julgamentos citados, apesar de ratificam a tese predominante, mas não são acórdãos proclamados pelo STJ em julgamento de recursos repetitivos.
+Ademais, analisando os pormenores dos aludidos julgados, infere-se que o estabelecimento do percentual de 25% a título de retenção pelas incorporadoras não independe de prévio ajuste contratual, diversamente de como alegou a embargante. Nesse contexto, faz-se imperioso colacionar pertinente trecho do voto da Min. Maria Isabel Gallotti quando do julgamento do REsp n.º 1.723.519 - onde reverenciou a autonomia da vontade das partes contratantes. Veja-se:
+ ..
+À vista disso, dessume-se que não há o intuito de preterir o célebre princípio contratual da autonomia da vontade.
+Sob este prisma, urge elucidar que a incorporadora recorrente, ao formular o contrato de promessa de compra e venda, deveria ter observado a impossibilidade de cumulação entre a cláusula penal e a taxa de administração.
+Além disso, competia à vendedora pactuar a retenção em 25% do valor efetivamente pago pelos compradores: a uma, porque acata o limite permitido pelo STJ, conforme deduzido pela própria embargante em sua peça recursal; e a duas, porque é ela quem detém conhecimento a respeito dos gastos que ensejam a taxa de administração.
+Se assim não agiu, não pode agora impor ao embargado termo que não ajustou quando oportuno, mormente porque o ultraje às cláusulas contratuais não encontra guarida na jurisprudência pátria, sob qualquer ângulo que se analise.
+ ..
+Assim, não há qualquer omissão ou contradição maculando o julgado de fls.217/231.
+Em relação à violação do art. 1.022, I e II, do CPC, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Confiram-se os seguintes precedentes: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No tocante à ofensa aos arts. 926 do CPC e 389, 402 e 412 do CC, o entendimento do Tribunal a quo se coaduna com a jurisprudência firmada pelo STJ de que, na rescisão de contrato de compra e venda de imóvel por desistência do comprador anterior à Lei n. 13.786/2018, "deve prevalecer o percentual de 25% de retenção, por ser montante adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato, salvo quando houver peculiaridade que justifique a redução deste percentual" (REsp n. 1.723.519/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/8/2019, DJe de 2/10/2019).
+No caso, a instância antecedente, conforme se verifica dos trechos do acórdão transcritos acima, aplicou o percentual de retenção de 20% sobre a importância efetivamente paga pelo adquirente, justificando que "buscou o aproveitamento do pactuado pelas partes, fazendo-se as correções necessárias para tornar o pactuado justo e proporcional" (fl. 186).
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. IMÓVEL. PROMESSA DE COMPRA E VENDA. DECISÃO. PERCENTUAL DE RETENÇÃO. PARÂMETROS DE RAZOABILIDADE. SÚMULA Nº 565/STJ. ALTERAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que, nos casos de rescisão contratual de promessa de compra e venda de imóvel por desistência imotivada pelo comprador realizada antes da Lei nº 13.786/2018, deve prevalecer a retenção de 25% (vinte e cinco por cento) dos valores pagos como forma de compensação dos custos administrativos do empreendimento. Havendo peculiaridade que justifique, esse percentual pode ser reduzido.
+3. Na hipótese, a modificação do percentual fixado na origem demandaria a interpretação de cláusula contratual e o reexame do acervo fático probatório dos autos, providências vedadas em recurso especial (Súmulas nºs 5 e 7/STJ).
+4. Agravo interno não provido. (AgInt no AREsp n. 2.017.242/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. "A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ)" - (REsp 1723519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe 02/10/2019).
+2. A orientação da Segunda Seção desta Corte é pela adoção de um padrão-base de cláusula penal - retenção de 25% dos valores pagos - nos casos de desistência imotivada pelo comprador de imóvel, em que o acórdão recorrido não menciona qualquer circunstância específica apta a justificar a redução do parâmetro jurisprudencial, isto é, aquém do percentual de 25%. Incidência da Súmula 83 do STJ.
+3. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo." Súmula 211 do STJ.
+4. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.064.905/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Cabível, portanto, a aplicação da Súmula n. 83 do STJ.
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a incidência da Súmula n. 83 do STJ implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nesse sentido: AgInt no AREsp n. 1.824.877/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/10/2022, DJe de 3/11/2022.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar -lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
