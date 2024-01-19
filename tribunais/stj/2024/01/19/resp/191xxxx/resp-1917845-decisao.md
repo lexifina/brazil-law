@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se recurso especial (fls. 521-534) interposto por BANCO DO BRASIL S.A. com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que deferiu a tutela antecipada para autorizar o levantamento da quantia devida em processo de execução.
+O julgado foi assim ementado (fl. 630):
+AGRAVO INTERNO LEVANTAMENTO. Questões estabelecidas em firme jurisprudência, especialmente, orientação vinculante de recursos repetitivos. Viável a conclusão pela impossibilidade de êxito recursal. Técnica de precedentes criada no sistema para desencorajar interposição de recursos de forma inútil Recurso cujas razões já foram objeto de análise milhares de vezes. Cabível o deferimento da tutela, que fica mantida.
+AGRAVO INTERNO LEVANTAMENTO CAUÇÃO. Desnecessidade. Aplicação ao caso concreto do quanto prevê o art. 521, inc. IV, do CPC. Caução dispensada no caso de sentença em consonância com a jurisprudência das Cortes Superiores e em acórdãos proferidos em casos repetitivos. Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente alega negativa de vigência aos art. 520, IV do CPC. Defende, em síntese, a necessidade de se aguardar o trânsito em julgado ou a prestação de caução para levantamento de valores.
+Contrarrazões pelo não conhecimento ou pelo desprovimento do recurso (fls. 647-656). Pleiteia a condenação da parte recorrente por litigância de má-fé.
+Admitido o recurso especial (fls. 658-660), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+I - Súmulas n. 283 e 284 do STF
+Consta dos autos que a sentença proferida em ação de execução individual de sentença coletiva rejeitou impugnação ao cumprimento de sentença e extinguiu o processo pelo pagamento, autorizando o levantamento do valor depositado (fls. 349-352).
+Em apelação, o Tribunal de origem manteve a autorização para levantamento do valor depositado (fls. 630-634).
+Sobreveio recurso especial em que a parte recorrente defende a necessidade de se aguardar o trânsito em julgado ou a prestação de caução para levantamento de valores.
+Sobre a natureza definitiva da execução e a preclusão da matéria suscitada, a sentença, integralmente mantida em grau de apelação, consignou o seguinte (fl. 351):
+No que tange à existência dos expurgos, os períodos de incidência, os índices aplicáveis, a exigibilidade dos juros contratuais, mencionados na impugnação, observo que tais matérias estão absolutamente preclusas, eis que referem-se ao mérito do processo de conhecimento, considerando-se para este fim, a sentença já transitada em julgado na ação civil pública referida.
+Igualmente, quanto à questão da dispensa de caução, o Tribunal a quo assim definiu (fl. 633):
+No que toca à necessidade de caução, embora esteja clara a regra do art. 520, inc. IV, do Código de Processo Civil de 2015, no sentido de que para a realização de levantamento de depósito em dinheiro se faça necessária a concretização de caução suficiente e idônea, também está evidenciado no inc. IV, do art. 521, do mesmo Códex que tal caução pode ser dispensada quando a sentença a ser provisoriamente cumprida apresenta-se em consonância com a jurisprudência do Superior Tribunal de Justiça, como ainda, na hipótese de basear-se em acórdão proferido no julgamento de casos repetitivos.
+Ora, na espécie, tem integral aplicação o disposto nessa última regra mencionada, pois, embora o agravante venha pretender debater as várias questões trazidas em seu apelo, fato é que, como adrede esclarecido, a quase totalidade das mesmas já podem ser definidas com base na orientação firme a respeito das mesmas na jurisprudência e julgamentos adrede mencionados.
+Dessa forma, o Tribunal a quo, além de manter o reconhecimento sobre a natureza da execução e a preclusão das questões de mérito suscitadas, consignou que a própria lei autoriza a dispensa de caução, na forma do art. 521, IV do CPC.
+Nas razões do recurso especial, a parte restringiu-se a defender a necessidade de prestação de caução para levantamento de valores em cumprimento provisório de sentença, indicando violação do art. 520, IV do CPC. Em momento algum rebateu os fundamentos do acórdão recorrido ou apontou violação do dispositivo legal indicado, o que atrai a incidência das Súmulas n. 283 e 284 do STF, já que a ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o acórdão recorrido, configura deficiência na fundamentação.
+II - Pena por litigância de má-fé
+No que se refere ao pedido de aplicação da pena por litigância de má-fé, formulado em contrarrazões ao recurso especial, ressalte-se que a litigância de má-fé, passível de ensejar a aplicação de multa e de indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorreu na espécie (AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+No caso, apesar do resultado do julgamento, não está caracterizada a litigância temerária, razão pela qual é incabível a aplicação da penalidade acima referida.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
