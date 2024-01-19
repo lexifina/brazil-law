@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PABLO PINTO BENEVIDES, LUANA MARIA PINTO BENEVIDES e FRACISCA LAYANE PARENTE ARAUJO BENEVIDES, em que se aponta como ato coator decisão monocrática de desembargadora do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+Consta dos autos que, mediante requisição da Procuradoria da República no Ceará, foi instaurado o Inquérito Policial n. 2020.0020195 para apurar a suposta prática dos crimes previstos nos arts. 337-A, I e III, do Código Penal e 1º, I, da Lei n. 8.137/1990 pelos pacientes.
+O impetrante sustenta que os créditos tributários que embasam o procedimento investigatório teriam sido desconstituídos em sentença anulatória, oportunidade em que foi determinada a revisão dos lançamentos e suspensa a sua exigibilidade.
+Alega que os crimes imputados aos investigados seriam materiais, razão pela qual a desconstituição dos créditos tributários impediria a deflagração da persecução criminal, nos termos da Súmula Vinculante n. 24.
+Afirma que se estaria diante de flagrante ilegalidade, passível de afastar o óbice da Súmula n. 691/STF.
+Requer, liminarmente, o sobrestamento do Inquérito Policial n. 2020.0020195 e, no mérito, pugna pela concessão da ordem para que seja trancado.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, a indeferir a liminar pleiteada na origem, a autoridade impetrada justificou, suficientemente, a manutenção do inquérito policial instaurado contra os pacientes, nos seguintes termos (fls. 19-20):
+Observa-se que o magistrado da 5ª Vara da Seção Judiciária do Ceará, na Ação Anulatória de Débito Fiscal n. 0809764-42.2023.4.05.8100, asseverou expressamente que a demanda girava em torno da cobrança de débitos objeto dos PAFs n. 10.380.727.258/2019-00 e 10.380.727.257/2019-57 (cf. id. 4050000.42020356). Na sentença, julgou procedente o pedido, para reconhecer a inconstitucionalidade da multa aplicada no patamar de 150%, tendo determinado que a Fazenda revisasse os PAFs n. 10.380.727.258/2019-00 e 10.380.727.257/2019-57, reduzindo o percentual das multas punitivas para 100%. Declarou nulas as certidões de dívida ativa vinculadas aos processos, cujas multas tenham sido calculadas pelo percentual de 150%. Ao final, concedeu a antecipação dos efeitos da tutela para suspender a exigibilidade dos créditos tributários contidos nas CDAs.
+Consoante remansoso entendimento do Superior Tribunal de Justiça, "o trancamento do processo no âmbito de habeas corpus é medida excepcionalíssima, admissível apenas quando emerge dos autos, de plano e sem necessidade de apreciação probatória, a falta de justa causa, a atipicidade da conduta, a extinção da punibilidade ou a inépcia formal da denúncia" (AgRg no HC n. 759.619/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023).
+Neste juízo de delibação sumária, verifico, ao menos por ora, que, ainda que as CDAs tenham tido a exigibilidade suspensa, pela antecipação dos efeitos da tutela, ante a irregularidade do cálculo de verba acessória (multa), não houve qualquer repercussão na exigibilidade do crédito principal e, menos ainda, nos fatos que teriam ensejado a representação para fins penais.
+Acentue-se, neste tocante, que a alegada exorbitância da multa, assim reconhecida na sentença da ação anulatória, em nada interfere na caracterização de crimes contra a ordem tributária.
+Confira-se, a propósito, o fundamento utilizado na aludida sentença da ação anulatória:
+Na hipótese dos autos, o autor se insurge contra a duplicação da multa, conforme previsão do parágrafo primeiro, o que a fez chegar ao patamar de 150%. O Supremo Tribunal Federal tem entendido que as multas tributárias aplicadas em valor que ultrapassa o valor da própria obrigação tributária têm caráter confiscatório, ferindo o princípio da vedação de confisco, expresso pelo art. 150, inciso IV da Constituição Federal.
+Vê-se, pois, que não houve nenhuma invalidação ou pronunciamento acerca do fato gerador tributário.
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
