@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LETICIA EVELLYN DOS SANTOS CARNEIRO, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Consta dos autos que, por meio de representação promovida pela autoridade policial da Delegacia de Repressão aos Crimes de Informática- DRCI, foi requerida a prisão preventiva da paciente, que está custodiada desde 12/1/2024, e de outros investigados, pela suposta prática dos crimes de jogo de azar (art. 50, caput, do Decreto-Lei n. 3.688/1941), organização criminosa (art. 2º, caput, da Lei n. 12.850/2013) e lavagem de dinheiro (art. 1º, caput, da Lei n. 9.613/1998).
+Impetrado prévio writ perante o Tribunal de origem, o pedido liminar foi indeferido.
+O impetrante sustenta que (fl. 5):
+ ..  No decorrer das investigações, o nome da paciente foi citado na qualidade de ex-namorada de ITALLO BRUNO NUNES E SILVA, o principal investigado na operação. Releva destacar que a paciente já não mantinha contato com o referido investigado desde o mês de julho de 2022,portanto, há 1 (um) ano e meio, quando manejou representação com pedido de concessão de medidas protetivas de urgência em seu favor, em razão de atos de violência, que configuram os delitos de injúria e ameaça (arts. 140 e 147 do Código Penal) perpetrados, no âmbito das relações domésticas e familiares, pelo referido ex-namorado o (doc. 12 anexo).
+Defende a superação da Súmula n. 691 do Supremo Tribunal Federal, porque não há o menor indício de participação da paciente na alegada organização criminosa.
+Destaca que não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, sem prejuízo da aplicação de outras medidas cautelares.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao indeferir a liminar pleiteada na origem, a autoridade impetrada justificou, suficientemente, a manutenção da prisão preventiva da paciente, nos seguintes termos (fls. 122-123):
+De início, cumpre-me destacar que a medida liminar em sede de habeas corpus é resultado de criação jurisprudencial para casos em que a urgência, necessidade e relevância da medida se mostrem incontroversos na própria impetração e nos elementos de prova que o acompanham, isto é, a presença do fumus boni iuris e do periculum in mora, o que não ocorre no presente caso.
+De uma análise perfunctória do feito, percebo que não é o caso de concessão de soltura da paciente, liminarmente, isto porque, o decreto prisional encontra-se devidamente fundamentado na gravidade concreta encontra-se evidenciada no modus operandi da conduta. Assim, cito trechos da decisão (ID nº 14789668):
+(..) Assim, resta preenchido o requisito previsto no art. 313, I, do CPP.2.3. Do Periculum Libertatis. Artigo 312, do CPP (Parte Final). O periculum libertatis se traduz no perigo que a liberdade dos investigados pode trazer para a ordem pública ou para o regular desenvolvimento das investigações, fazendo com que a prisão se torne um instrumento necessário para a consecução dos fins almejados pela legislação processual penal. No caso, a gravidade concreta encontra-se evidenciada no modus operandi da conduta, pois os representados são supostos integrantes de organização criminosa, atuando na exploração de jogos de azar, lavagem de dinheiro e adulteração de veículo automotor, circunstâncias que demonstram risco ao meio social.Nessa linha de entendimento, devo ressaltar que a colenda Corte Superior tem apoiado a decretação de prisão preventiva nesses casos. (..)
+ ..
+Portanto não há que se falar em ausência de fundamentação do decreto preventivo, a jurisprudência do Superior Tribunal de Justiça já firmou o entendimento de que o modus operandi, os motivos, entre outras circunstâncias, em delito grave, são indicativos concretos da periculosidade do agente, o que justifica a segregação cautelar para a garantia da ordem pública.
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
