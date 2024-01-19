@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PATRICK KAIONAN FERREIRA DOS SANTOS, em que se aponta como ato coator decisão monocrática de desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, pela suposta prática da conduta descrita no artigo 33, caput, da Lei nº 11.343/2006.
+O impetrante sustenta que a versão apresentada pelos agentes não se mostra digna de crédito, posto que a realidade não oferece guarida à narrativa apresentada. Alega que o paciente está sendo vítima de perseguição por parte dos mesmos guardas municipais que no ano de 2021 o prenderam após entrarem em sua residência e terem praticado atos de crueldade, imputando-lhe o crime de tráfico de drogas, situação que resultou na absolvição do paciente, com aquiescência do próprio Ministério Público.
+Aduz, ainda, que a prisão preventiva foi fundamentada com base na gravidade abstrata do delito, sem a comprovação de seus requisitos autorizadores.
+Defende a superação da Súmula n. 691 do Supremo Tribunal Federal, porque a decisão combativa está eivada de flagrante ilegalidade.
+Requer, liminarmente e no mérito, a imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular. É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Isso porque, compulsando os autos, verifica-se que a prisão preventiva do paciente teve a seguinte fundamentação adotada na origem:
+"No mais, verifico que o indiciado já conta com sentença criminal condenatória transitada em julgado em seu desfavor por crime de tráfico de drogas a consubstanciar reincidência específica, conforme certidão de fls. 35-37, tudo a demonstrar a presença de relevante risco à ordem pública, seja em razão da gravidade em concreto do delito perpetrado, seja em razão da reincidência específica, e que, assim, sua manutenção em liberdade, em cumprimento de regime aberto, não vem impedindo que reitere na prática de infração penal grave, como é o tráfico de drogas, delito equiparado a hediondo. Não bastasse o exposto, consta ainda dos depoimentos das testemunhas policiais que o indiciado tentou empreender fuga com o seu veículo, de modo que também para fins de garantia da aplicação da lei penal a decretação da prisão preventiva é medida que se impõe. Ante esse contexto, para garantia da ordem pública e assegurar a aplicação da lei penal, com fundamento no art. 312 do CPP, a conversão da prisão em flagrante em preventiva do averiguado é de rigor, não se apresentando suficiente a aplicação de medidas cautelares diversas da prisão, justamente ante o contexto acima exposto a evidenciar a presença de risco para ordem pública com a sua manutenção em liberdade, bem como para fins de garantir a aplicação da lei penal" (fl. 18).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
