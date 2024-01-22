@@ -1,0 +1,43 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. REPASSE DE ICMS. RETENÇÃO OU COMPENSAÇÃO DE VALORES PAGOS A MAIOR. RECONHECIMENTO EM PARECER DO TRIBUNAL DE CONTAS DO ESTADO. PRÉVIA CONSTITUIÇÃO DE CRÉDITO MEDIANTE PROCEDIMENTO ADMINISTRATIVO: DESNECESSIDADE. PRÉVIA NOTIFICAÇÃO DO MUNICÍPIO: PRESCINDIBILIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STF. NEGATIVA DE PROVIMENTO.
+
+    1. Trata-se de recurso extraordinário interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+
+    “REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE REPASSE DE PARCELA DO ICMS C/C DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO. OFÍCIO N.º 868/2014- GSF. COMPENSAÇÃO DE VALORES REPASSADOS A MAIOR. ART. 160 DA CONSTITUIÇÃO FEDERAL. MUDANÇA DE ENTENDIMENTO. RETENÇÃO PELO ESTADO DE VALORES DEVIDOS AO FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS (FPM). POSSIBILIDADE. DESNECESSÁRIA A PRÉVIA CONSTITUIÇÃO DO CRÉDITO. SENTENÇA REFORMADA. I- É legítima a retenção, por parte do Estado de Goiás, de crédito junto ao Fundo de Participação dos Municípios, em razão de apontamento procedido pelo Tribunal de Contas do Estado, a repercutir em correção de repasse a maior. Precedentes dos Tribunais Superiores e deste Tribunal. II- O entendimento do STF é no sentido da desnecessidade de prévia constituição do crédito tributário como requisito para bloquear os repasses devidos aos municípios, na forma do art. 160 da Constituição Federal. III- Ônus da sucumbência invertido, em razão do provimento do recurso. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL CONHECIDAS E PROVIDAS.” (e-doc. 14, p. 11).
+
+    2. No presente recurso extraordinário, interposto com fundamento na alínea “a” do permissivo constitucional, o recorrente indica como violados os arts. 5º, inc. LV, e 160, caput e inc. I, da Constituição da República (CRFB). Aponta, em suma, que houve ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, uma vez que a retenção em comento deu-se pelo Ofício nº 868, de 2014, portanto não foi precedida de processo administrativo ou prévia notificação do Município. Afirma, ainda, que o amparo em parecer prévio expedido pelo Tribunal de Contas do Estado de Goiás não é suficiente para habilitar a cobrança na espécie, sendo necessária a regular constituição do crédito pelo recorrido.
+
+    3. O recorrido, nas contrarrazões, manifesta-se pela inadmissão do recurso extraordinário e, no mérito, pelo desprovimento (e-doc. 18).
+
+    4. Em juízo de admissibilidade, o Tribunal a quo admitiu o recurso unicamente para “definir se o Estado-membro, para fins de compensação de crédito perante os Municípios, pode proceder à retenção da respectiva parcela do ICMS devida àqueles, sem necessidade de prévia constituição do crédito em sede de processo administrativo, em que sejam observados os princípios do contraditório e ampla defesa” (e-doc. 20, p. 2-3). Com efeito, não deu seguimento à alegação de ofensa à Constituição estadual ou ao devido processo legal.
+
+    É o relatório.
+
+    Decido.
+
+    5. De início, impende registrar que não houve impugnação pela parte recorrente do juízo de admissibilidade operado pelo TJGO. Sendo assim, à luz do efeito devolutivo restrito próprio dos recursos extraordinários, cinge-se aqui a examinar a controvérsia relativa à imprescindibilidade de constituição do crédito e da prévia notificação da municipalidade.
+
+    6. Na parte conhecida, verifico que o acórdão recorrido não diverge da jurisprudência do Supremo Tribunal Federal, segundo a qual “a retenção (ou compensação) de valores repassados a maior aos municípios, conforme reconhecido por decisão do Tribunal de Contas Estadual prescinde da abertura de procedimento administrativo prévio” (ementa do RE nº 1.381.377-AgR/GO, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 14/09/2022, p. 03/10/2022).
+
+    7. Do mesmo modo, a compreensão iterativa desta Suprema Corte caminha no sentido da prescindibilidade da notificação prévia do município. Nessa linha, vejam-se os seguintes precedentes:
+
+    “Ementa: Direito Tributário. Embargos de declaração em agravo interno em recurso extraordinário. ICMS. Repasse pelo Estado ao Município. Bloqueio. Desnecessidade de reexame de provas. Omissão do acórdão. Procedimento que prescinde de prévia notificação. Embargos acolhidos. 1. Nos termos do art. 1.022 do Código de Processo Civil, cabem embargos de declaração contra qualquer decisão judicial para (i) esclarecer obscuridade ou eliminar contradição, (ii) suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e (iii) corrigir erro material. 2. O caso é de acolhimento dos embargos de declaração com especiais efeitos modificativos. Isso porque a decisão embargada restou omissa quanto à desnecessidade de reexame do acervo probatório dos autos para solução da controvérsia. 3. O Tribunal de origem decidiu pela necessidade de prévia intimação do Município para a legalidade do procedimento de retenção de parcela do ICMS, que teve como fundamentos a existência de crédito em favor do Estado e parecer do Tribunal de Contas local. A controvérsia reside, portanto, na necessidade ou não de prévia intimação da municipalidade. 4. No ponto, o acórdão da origem destoa da jurisprudência do Supremo Tribunal Federal no sentido de que a regularidade do procedimento independe da notificação do Município. Precedentes. 5. Embargos acolhidos com atribuição de especiais efeitos modificativos, para tornar sem efeito as decisões anteriormente proferidas e dar provimento ao recurso extraordinário interposto pelo Estado de Goiás. Inversão dos ônus decorrentes da sucumbência e majoração dos honorários advocatícios eventualmente existentes em 25%, observados os limites legais do art. 85, §§ 2º e 3º, do CPC, bem como eventual deferimento da assistência judiciária gratuita.”
+
+    (RE nº 1.380.904-AgR-ED/GO, Rel. Min. Roberto Barroso, Primeira Turma, j. 20/03/2023, p. 22/03/2023; grifos nossos).
+
+    “EMENTA: Agravo regimental em recurso extraordinário. Repartição de receita tributária. ICMS. Possibilidade de o estado efetuar compensação de parcela de ICMS repassada a maior, em períodos anteriores, a municípios. Dedução fortemente relacionada com a própria sistemática da repartição das receitas tributárias. Desnecessidade de prévia notificação da municipalidade para apresentar defesa. 1. O texto constitucional, ao tratar da participação dos municípios no produto da arrecadação do ICMS, referiu-se à arrecadação efetiva, cuja apuração compete ao próprio estado-membro. Nessa toada, podem ser realizadas certas deduções da arrecadação bruta, como restituições, retificações e compensações, se existirem. É à luz da arrecadação efetiva que se chega aos montantes a serem entregues aos municípios a título de participação. 2. Esse procedimento faz parte da própria apuração do produto da efetiva arrecadação do ICMS, estando intimamente conectada com a autoadministração do estado-membro, não sendo, dessa forma, necessária a prévia notificação dos municípios para que ele seja realizado. Evidentemente, podem os municípios discutir, na esfera administrativa ou judicialmente, o eventual equívoco no cálculo realizado pelo estado-membro. Precedentes. 3. Na espécie, o Estado de Goiás, amparado em parecer do Tribunal de Contas Estadual, entendeu que, em períodos anteriores, houve entrega de recursos a maior aos municípios, uma vez que foram incluídos valores no produto da arrecadação do ICMS indevidamente. 4. Agravo regimental e recurso extraordinário do Estado de Goiás providos, julgando-se improcedente o pedido inicial. A parte autora foi condenada ao pagamento de honorários advocatícios fixados em 10% sobre o valor atualizado da causa.”
+
+    (RE nº 1.373.653-AgR/GO, Rel. Min. Cármen Lúcia, Red. do Acórdão Min. Dias Toffoli, Primeira Turma, j. 14/09/2022, p. 03/10/2022; grifos nossos).
+
+    8. Com efeito, considerando que as razões do acórdão ora impugnado convergem ao repertório jurisprudencial do STF, não há o que prover na espécie.
+
+    9. Ante o exposto, nos termos do art. 21, § 1º, do RISTF, conheço, em parte, do recurso extraordinário e nego-lhe provimento. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 22 de janeiro de 2024.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
