@@ -1,0 +1,109 @@
+DECISÃO
+
+    Trata-se Agravo em Recurso Extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, resumido na seguinte ementa (Doc. 24):
+
+    REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PRELIMINAR DE NULIDADE. NÃO RECONHECIMENTO. DOSIMETRIA. CONTRARIEDADE À EVIDÊNCIA DOS AUTOS. NÃO OCORRÊNCIA. Preliminar de nulidade. Violação de domicílio. Prescindibilidade de mandado judicial para o ingresso no domicílio, quando há consentimento do proprietário ou morador, bem como quando em decorrência de uma situação de flagrante delito. Precedentes. Mérito. Causa especial de diminuição de pena. Negativa. Não preenchimento dos requisitos legais. Manifesta dedicação às atividades criminosas. Requerente condenado porque mantinha em depósito, parte em sua residência, parte em uma chácara, aproximadamente 52kg de maconha, além de armas de fogo, munições e milhares de embalagens. Decreto condenatório devidamente fundamentado. Ausência de erro judiciário que autorize a rescisão da coisa julgada.
+
+    PRELIMINAR REJEITADA. REVISÃO CRIMINAL JULGADA IMPROCEDENTE
+
+    Consta dos autos, em síntese, que o recorrente foi condenado à pena de 11 anos e 6 meses de reclusão, em regime fechado, pela prática dos crime de tráfico de drogas (art. 33 da Lei 11.343/2006) e de posse ilegal de arma de fogo de uso restrito (art. 16 da Lei 10.826/2003). (Doc. 6, fls. 70-83).
+
+    O Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo defensivo (Doc. 6, fls. 90-107).
+
+    Após o trânsito em julgado da condenação, a defesa ajuizou Revisão Criminal dirigida ao Tribunal de Justiça do Estado de São Paulo, que julgou pedido improcedente (Doc. 24.
+
+    Ainda inconformado, o recorrente interpõe o presente Recurso Extraordinário, com amparo no art. 102, III, “a”, da Constituição Federal, no qual alega que “no julgamento da Revisão Criminal, foi-lhe negado vigência aos dispositivos; art. 5º, XI - CF (invasão de domicílio) e § 4º do art. 33 da Lei de Drogas.”
+
+    Nas razões recursais, aduz que “claramente estamos diante de uma prisão ilegal, devendo ser considerado totalmente nula, ante a ilegalidade da prisão pela violação de domicilio, com a entrada forçada pelos agentes, sem o competente mandado judicial”.
+
+    Enfatiza, ainda, que”a elevada quantidade de drogas apreendidas, não poderia, automaticamente, proporcionar de forma soberana e assente de dúvidas, o entendimento de que o paciente faria do tráfico seu meio de vida, consistindo, esta presunção em evidente ausência de fundamentação idônea, apta a justificar o afastamento da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006.”
+
+    Requer, assim, o provimento do apelo extremo, para que seja reconhecida a “nulidade das provas, ante a invasão de domicilio praticada pelos agentes, haja vista a entrada forçada, sem o consentimento expresso do proprietário e sem o competente mandado judicial”. Subsidiariamente, busca o redimensionamento da pena, “com a aplicação do redutor previsto no art. 33, § 4º, da Lei nº 11.343/2006, na aplicação de 2/3, por ser medida de direito.”
+
+    O recurso foi inadmitido na origem aos fundamentos de que (a) a matéria foi solucionada com fundamento na legislação infraconstitucional; (b) o recurso carece de fundamentação idônea, de forma que incide o óbice da Súmula 284 do STF; (c) não houve o devido prequestionamento da matéria ora impugnada, a incidir o teor da Súmula 282 desta CORTE; e (d) a análise da pretensão recursal encontra óbice na Súmula 279 do STF (Doc. 40).
+
+    No Agravo, o recorrente afirma que a pretensão recursal não está centrada no reexame do contexto fático-probatório. No mais, reitera os argumentos expostos na petição inicial do Recurso Extraordinário (Doc. 45).
+
+    É o relatório. Decido.
+
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    A obrigação do recorrente de apresentar, formal e motivadamente, a  repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+
+    O recorrente sustenta a repercussão geral da matéria nos seguintes termos (Doc. 30):
+
+    DA REPERCUSSÃO GERAL
+
+    O caso em tela versa sobre a inviolabilidade de domicílio (art. 5º, XI – CF) e a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas.
+
+    Nota-se que a questão possui relevância social e jurídica e tem potencialidade a atingir um significativo número de pessoas na medida em que a latente transgressão ao dispositivo constitucional, da qual resguarda o direito a inviolabilidade do domicílio alheio, bem como, a aplicação da minorante aos condenados que, além da primariedade e dos bons antecedentes, que este não integre organização criminosa nem se dedique a atividades delituosas.
+
+    Desta forma Excelências, houve violação literal de LEIS FEDERAIS disposta no Código Penal e Processo Penal, conforme será abaixo demonstrado.
+
+    Requer, portanto, com as razões que seguem anexas, seja o presente recurso admitido, encaminhados os autos a Colenda Corte do Supremo Tribunal Federal, para revisão da matéria jurídica debatida.
+
+    Logo, não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+
+    Quanto ao mais, reitero os fundamentos pela qual neguei provimento ao RHC 227.605, DJe. 8/5/2023, interposto pela parte recorrente:
+
+    Conforme já tive oportunidade de registrar, a Constituição Federal estabelece exceções à inviolabilidade domiciliar. Assim, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, ainda, durante o dia, por determinação judicial.
+
+    O SUPREMO TRIBUNAL FEDERAL já decidiu que mesmo sendo a casa o asilo inviolável do indivíduo, não pode ser transformado em garantia de impunidade de crimes, que em seu interior se praticam (Direito Constitucional. 38.ed. São Paulo: Atlas, 2022, p. 74).
+
+    Na espécie, o Superior Tribunal de Justiça chancelou a conclusão das instâncias ordinárias quanto à ausência de nulidade pela alegada violação de domicílio. A propósito, colhe-se do acórdão impugnado:
+
+    Quanto ao mérito, a insurgência não merece prosperar.
+
+    Com efeito, conforme explicitado na decisão monocrática, o Plenário do Supremo Tribunal Federal, no julgamento do RE n. 603.616/RO, apreciando o tema 280 da repercussão geral, fixou a tese de que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+
+    Dessa forma, o ingresso regular em domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental à inviolabilidade do domicílio. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito em questão.
+
+    No agravo regimental, a defesa reitera que a busca domiciliar foi ilegal, porquanto ausente justa causa. Contudo, a busca domiciliar não decorreu unicamente de mera denúncia anônima, como aduz a defesa, mas sim da apreensão de drogas na posse do corréu Antônio Carlos Barbosa, que indicou a localização do restante do entorpecente encontrado com ele, qual seja, a residência do paciente.
+
+    A propósito, transcrevo excertos da sentença condenatória que (e-STJ, fl. 309):
+
+    As testemunhas policiais relataram que obtiveram informações de que havia drogas em grande quantidade armazenadas em uma chácara em posse de Wellington Santana, no bairro Eldorado, sendo possível, assim, a apreensão de tal quantidade em poder do acusado Antônio, que informou onde estavam as porções de entorpecentes. Verifica-se que os policiais só se diligenciaram até o local por conta de informações obtidas através de denúncia e de informantes, não demonstrando que teriam interesse em prejudicar os acusados. Referidas testemunhas afirmaram, ainda, que Antônio informou que as drogas localizadas, bem como as armas de fogo e os microtubos vazios para armazenar cocaína, pertenciam ao acusado Wellington e que, ainda, recebia deste o valor R$ 500,00 (quinhentos reais) para guardar as drogas e armas no local, o que se coaduna com as informações obtidas anteriormente pelos policias. Adiante, em diligencia à casa de Wellington, encontraram mais uma quantidade de entorpecentes, acondicionados em tijolos envoltos com fita azul, idênticos aos encontrados com Antônio, o que ratifica, de forma inequívoca, os depoimentos colhidos em instrução que descrevem o envolvimento de Wellington com as drogas ali encontradas. Ainda, a testemunha Elvis informou em seu depoimento que Nathale disse que tinha conhecimento da condição de traficante do acusado Wellington e que ele possuía armas de fogo. Apesar de Nathale não ter esclarecido a relação entre Wellington e Antonio, o vínculo subjetivo entre os dois restou provado pelo conjunto probatório, além das porções de entorpecentes encontradas com Antonio serem iguais às encontradas na casa do réu Wellington. E, ainda, Nathale afirmou aos policiais que Wellington traficava e possuía armas, o que se harmoniza com a versão de Antonio, no sentido de que guardava armas e drogas para Wellington. Aliás, o réu Antônio alegou em seu interrogatório que estava guardando os entorpecentes e as armas para pessoa de nome Marcelo, concluindo-se que, na verdade, tentou isentar o corréu. Ainda que as drogas e as armas pertencessem à pessoa de nome Marcelo, não identificada, as condutas dos acusados, descrita na inicial, caracteriza os crimes de tráfico ilícito de entorpecentes e o de porte ilegal de armas, sendo, pois, insuficiente para afastar a prova produzida em desfavor dos acusados. Ora, o acusado Wellington se encontra foragido, fato que também recai em seu desfavor. Foi localizado um celular periciado às fls. 518/523 e 549/565, em virtude das investigações, que apontaram fotos pessoais do réu, além de fotos de entorpecentes e armas, bem como conversas no WhatsApp sobre a traficância. Evidente, pois, o envolvimento de Wellington no tráfico de drogas.
+
+    O Tribunal de origem, por seu turno, ao analisar o pleito, manifestou que (eSTJ, fl. 437):
+
+    Segundo se comprovou, policiais militares receberam informações no sentido de que o requerente mantinha em depósito certa quantidade de drogas em uma chácara e para lá se dirigiram. Avistaram o correu Antônio Carlos Barbosa, que tinha consigo um tijolo de maconha e acabou indicando a localização do restante do entorpecente, parte armazenada em um barril, parte enterrada, totalizando mais de 50kg (cinquenta quilogramas) de maconha. Também foram encontradas armas de fogo, munições e milhares de pinos vazios. Na ocasião, Antônio afirmou que guardava as drogas a pedido do requerente e indicou seu endereço. Ao chegarem no local, se depararam com a esposa do requerente, que franqueou a entrada dos policiais na residência. Efetuadas as buscas, foram apreendidos, dentro do guarda-roupas, dois tijolos de maconha, embalados de forma semelhante àqueles anteriormente encontrados. Não há dúvidas, pela dinâmica dos fatos, que a busca e apreensão foi efetuada em evidente situação de flagrância, o que autoriza a posterior atuação dos agentes públicos que ingressaram na residência onde realizaram a prisão em estrito cumprimento ao artigo 5º,inciso XI, da Constituição Federal, o que afasta, excepcionalmente, nesse caso, as garantias constitucionais da intimidade e da privacidade.
+
+    Como visto, tem-se presente elemento objetivo a indicar a ocorrência de delito no interior da residência, uma vez que o corréu preso com droga expressamente indicou a chácara do paciente, somado ao fato de haver denúncia anônima nesse sentido. Assim, tem-se manifesta a justa causa, não havendo se falar, portanto, em nulidade.
+
+    Ademais, consta dos que o ingresso dos policiais no domicílio foi autorizado pela esposa do paciente, conforme depoimento prestado em juízo, no qual afirmou que se dirigiu com os policiais para sua casa e que permitiu a entrada deles (e-STJ fl. 307) não apontando qualquer situação capaz de prejudicar a validade de seu consentimento (e-STJ fl. 438).
+
+    A conclusão a que chegou o Superior Tribunal de Justiça está alinhada ao entendimento jurisprudencial firmado por esta CORTE, no sentido de que "[o]s crimes de tráfico de drogas e associação para o tráfico são de natureza permanente. O agente encontra-se em flagrante delito enquanto não cessar a permanência" (HC 95.015/SP, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 24/4/2009).
+
+    Nesse contexto, em se tratando de delito de tráfico de drogas praticado, em tese, na modalidade "ter em depósito", a consumação se prolonga no tempo e, enquanto configurada essa situação, a flagrância permite a busca domiciliar, independentemente da expedição de mandado judicial, desde que presentes fundadas razões de que em seu interior ocorre a prática de crime. Ilustrativo desse entendimento, o seguinte precedente do Plenário desta CORTE:
+
+    Recurso extraordinário representativo da controvérsia. Repercussão geral. 2. Inviolabilidade de domicílio – art. 5º, XI, da CF. Busca e apreensão domiciliar sem mandado judicial em caso de crime permanente. Possibilidade. A Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo. 3. Período noturno. A cláusula que limita o ingresso ao período do dia é aplicável apenas aos casos em que a busca é determinada por ordem judicial. Nos demais casos – flagrante delito, desastre ou para prestar socorro – a Constituição não faz exigência quanto ao período do dia. 4. Controle judicial a posteriori. Necessidade de preservação da inviolabilidade domiciliar. Interpretação da Constituição. Proteção contra ingerências arbitrárias no domicílio. Muito embora o flagrante delito legitime o ingresso forçado em casa sem determinação judicial, a medida deve ser controlada judicialmente. A inexistência de controle judicial, ainda que posterior à execução da medida, esvaziaria o núcleo fundamental da garantia contra a inviolabilidade da casa (art. 5, XI, da CF) e deixaria de proteger contra ingerências arbitrárias no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1). O controle judicial a posteriori decorre tanto da interpretação da Constituição, quanto da aplicação da proteção consagrada em tratados internacionais sobre direitos humanos incorporados ao ordenamento jurídico. Normas internacionais de caráter judicial que se incorporam à cláusula do devido processo legal. 5. Justa causa. A entrada forçada em domicílio, sem uma justificativa prévia conforme o direito, é arbitrária. Não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida. 6 . Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados. 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
+
+    (RE 603.616/RO, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 10/5/2016)
+
+    Além disso, a análise das questões fáticas suscitadas pela defesa, notadamente no que concerne à alegada ausência de fundadas razões ou de autorização para proceder à busca domiciliar, demandaria o reexame do conjunto probatório, providência incompatível com esta via processual (cf. HC 136.622-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 17/2/2017; HC 135.748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje de 13/2/2017; HC 135956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje de 28/11/2016; HC 134445-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, Dje de 27/9/2016).
+
+    Quanto à dosimetria da pena, a incidência da causa especial de redução de pena prevista no §4º do art. 33 da Lei n. 11.343/06, é condicionada ao preenchimento cumulativo dos seguintes requisitos: (a) primariedade do agente; (b) bons antecedentes; (c) não se dedicar a atividades criminosas; e (d) não integrar organização criminosa. Nesse sentido, precedentes de ambas as Turmas desta SUPREMA CORTE: HC 123.430/SP, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 18/11/2014; HC 101.265/SP, Rel. Min. AYRES BRITTO, Relator p/ acórdão, Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 06/08/2012.
+
+    No caso em tela, o Superior Tribunal de Justiça, na trilha do que foi decidido pelas instâncias ordinárias, negou a aplicação da minorante, sob os seguintes fundamentos:
+
+    No que diz respeito à dosimetria da pena, reitero que as instâncias ordinárias concluíram pela não aplicação da causa de diminuição prevista no §4º do artigo 33 da Lei n. 11.343/2006, porquanto demonstrado que o paciente se dedica à atividade criminosa.
+
+    O Tribunal estadual apontou como fundamento para essa conclusão, não somente a expressiva quantidade de drogas apreendidas, qual seja 52,14kg de maconha, mas também outros elementos indicativos de dedicação, tais como a coautoria, e o encontro de armas e materiais para embalagens das drogas (e-STJ fl. 333), o que possibilita o afastamento da incidência da minorante.
+
+    Infere-se do exame realizado pelas instâncias ordinárias, soberanas na apreciação de conteúdo fático-probatório, que os elementos colhidos sob o crivo do contraditório indicaram a propensão do acusado a atividades criminosas. Além da acentuada quantidade de entorpecente apreendido (52,14 kg de maconha), o Tribunal estadual destacou a coautoria, o encontro de armas e materiais para embalagem das drogas.
+
+    Esses fatores, a toda evidência, destoam de quadro de traficância eventual ou de menor gravidade, circunstâncias às quais a minorante em questão é vocacionada. Tal conclusão tem amparo na jurisprudência do SUPREMO TRIBUNAL FEDERAL, que chancela o afastamento da causa de diminuição quando presentes fatos indicadores da dedicação do agente a atividades criminosas, como, por exemplo, a) a conduta social do agente, b) o concurso eventual de pessoas, e c) a quantidade de droga. Confiram-se, a propósito: RHC 150.179-AgR/DF, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 27/8/2018; RHC 153.194-AgR/MS, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/5/2018; HC 133.157/SP, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 24/10/2017; HC 107.581/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 12/9/2012; e HC 109.168/MS, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 14/2/012.
+
+    Em conclusão, não há reparo a fazer, pois o Recurso Ordinário Constitucional não apresentou qualquer argumento apto a desconstituir os fundamentos apontados.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+
+    Publique–se.
+
+    Brasília, 22 de janeiro de 2024.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
