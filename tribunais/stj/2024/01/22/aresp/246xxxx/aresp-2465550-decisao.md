@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por CLAUDIA SIMONE SOARES DE LIMA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 1/8/2023.
+Concluso ao Gabinete em: 19/12/2023.
+Ação: de reparação por danos materiais e compensação por danos morais, ajuizada pela agravante em desfavor de ANDRE BIER GERDAU JOHANNPETER, MARLON ANDRE PEIL e ITAÚ SEGUROS DE AUTO E RESIDÊNCIA S/A, em virtude de acidente de trânsito.
+Sentença: julgou improcedente a ação ante a existência de termo de quitação, bem como condenou a parte denunciante ao pagamento das custas processuais e dos honorários advocatícios.
+Acórdão: negou provimento às apelações interpostas pela agravante e pelos agravados, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA. TERMO DE QUITAÇÃO EXPRESSO. AUSÊNCIA DE VÍCIO DE CONSENTIMENTO. SUCUMBÊNCIA NA LIDE SECUNDÁRIA.
+ACORDO EXTRAJUDICIAL. Caso concreto em que, no termo de quitaçãoassinado pela autora, esta deu plena e total quitação, expressamente reconhecendo aimpossibilidade de cobrança judicial ou extrajudicial de eventuais outros prejuízosnão abarcados na transação. Embora não se desconheça a existência de hipóteses emque é possível a cobrança de rubricas indenizatórias não abarcadas pela transaçãoextrajudicial, tampouco se ignore a incidência das disposições do Código de Defesa doConsumidor à relação jurídica existente entre a autora e a seguradora, a análise dostermos da transação deve ser feita caso a caso, sendo que, na hipótese, não há nenhumelemento que fragilize a manifestação de vontade exarada pela requerente, não sepodendo, também, cogitar da existência de vício de consentimento.
+SUCUMBÊNCIA. LIDE SECUNDÁRIA. De acordo com a literalidade do art. 129,parágráfo único do CPC, "Se o denunciante for vencedor, a ação de denunciação nãoterá o seu pedido examinado, sem prejuízo da condenação do denunciante aopagamento das verbas de sucumbência em favor do denunciado". Caso em que,devido à improcedências dos pedidos formulados na inicial, a denunciação perdeu seuobjeto, sendo cabível o arbitramento de honorários advocatícios em favor dosprocuradores da litisdenunciada. Descabida a pretensão de arbitramento da verba pelométodo da apreciação equitativa, porquanto não se fazem presentes os pressupostos doart. 85, §8º do CPC.
+APELOS DESPROVIDOS.
+(e-STJ Fl. 481)
+Embargos de declaração: opostos pela agravante, foram rejeitados; opostos pelos agravados, foram parcialmente acolhidos, sem efeitos infringentes, no seguinte sentido:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. OMISSÃO. EXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPROPRIEDADE DA VIA ELEITA.
+Omissão verificada e sanada, no sentido de enfrentar o argumento de que a ausênciade resistência da seguradora à denunciação da lide implica o afastamento da obrigaçãode pagamento de honorários sucumbenciais aos patronos da seguradora. Tal tese, noentanto, somente é aplicável quando a denunciação é julgada procedente, o que não éo caso dos autos. Precedentes deste Colegiado.
+Quanto ao mais, ausentes as hipóteses previstas no artigo 1022, do Código de Processo Civil, descabe a oposição de embargos de declaração. Pretensão de rediscussão do julgado, o que se mostra inapropriado por meio de embargos dedeclaração.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+(e-STJ Fl. 556)
+Recurso especial: alega ofensa aos arts. 113, §1º, IV, e 843 do CC, 51, I e IV, do CDC, a par de dissídio jurisprudencial. Sustenta, em suma, que a quitação deve ser interpretada restritivamente, e não de forma ampliativa, não havendo se falar em renúncia de direitos não indenizados.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com fulcro na incidência das Súmulas 5 e 7/STJ, considerando as peculiaridades apontadas à e-STJ Fls. 642/643, notadamente quanto ao termo de quitação firmado entre as partes, bem como pela ausência de prequestionamento (incidência da Súmula 282/STF).
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, todos os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Nesse passo, limitou-se a recorrente a reprisar as suas considerações de mérito e a deduzir genericamente que a matéria é eminentemente de direito, deixando de refutar os fundamentos adotados e de demonstrar o seu desacerto, sobretudo quanto à incidência específica das Súmulas 5 e7/STJ, em atenção às particularidades expressamente delineadas na decisão de inadmissão, bem como da Súmula 282/STF.
+Cumpre consignar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente de fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e no art. 932, III, do CPC.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro em 1% os honorários fixados anteriormente, observada a eventual gratuidade de justiça deferida (e-STJ Fls. 487/488).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
