@@ -1,0 +1,29 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento parcial ao recurso interposto pelo Ministério Público para reclassificar a conduta do recorrente para a prevista no art. 157, § 1º do Código Penal, incrementando a pena para 4 anos e oito 8 meses de reclusão, a ser cumprida no regime prisional inicialmente fechado.
+A defesa aponta a violação dos arts. 1º, 33 e 155, § 4º, inciso III, do CP, insurgindo-se, em síntese, contra a decisão que reclassificou a conduta para roubo impróprio, argumentando que "o que motivou a desclassificação delitiva por parte do juízo de piso foi tão somente o não preenchimento da elementar "logo após", prevista no § 1º, do artigo 157 do Código Penal, tendo o órgão sentenciante destacado, expressamente, que o apelado foi visto na condução do veículo automotor "vários minutos após a subtração". Sustenta também a ocorrência de bis in idem na utilização das condenações na primeira fase como antecedentes e na segunda a título de reincidência. Pede o abrandamento do regime prisional.
+Contrarrazões às e-STJ fls. 252/262.
+Manifestação do Ministério Público Federal às e-STJ fls. 298/303.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 4 anos e 8 meses de reclusão, em regime fechado, pelo cometimento do crime do art. 157, § 1º, do CP.
+A defesa se insurge, inicialmente, contra a nova classificação operada pelo Tribunal, alegando que "o que motivou a desclassificação delitiva por parte do juízo de piso foi tão somente o não preenchimento da elementar "logo após", prevista no § 1º, do artigo 157 do Código Penal, tendo o órgão sentenciante destacado, expressamente, que o apelado foi visto na condução do veículo automotor "vários minutos após a subtração."
+Ocorre que a questão não foi debatida pelo acórdão estadual, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento.
+Acresça-se, ainda, que sequer foram opostos embargos de declaração para suprir eventual omissão. Incidência dos enunciados n. 282 e 356 do Supremo Tribunal Federal. Confiram-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DEVOLUÇÃO DA MATÉRIA. PREQUESTIONAMENTO. INDICAÇÃO DO DISPOSITIVO VIOLADO. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. PODERES INVESTIGATÓRIO DO MINISTÉRIO PÚBLICO. TEMA 184/STF. DISPENSA ILEGAL DE LICITAÇÃO E PECULATO-DESVIO. "OPERAÇÃO ECLÉSIA". REEXAME DE PROVAS. MATÉRIA CONSTITUCIONAL. DESCABIMENTO. RECURSO IMPROVIDO.
+1. Não se conhece das matérias arguidas no recurso especial quando, após juízo negativo de admissibilidade na origem, elas não são devolvidas no agravo contra a decisão que não o admitiu.
+2. Os temas não abordados no 2º grau não podem ser conhecidos no recurso especial por ausência de prequestionamento, especialmente quando não houve oposição de embargos de declaração, o que atrai a aplicação das Súmulas 282 e 356 da Súmula do STF.
+ ..
+7. Agravo regimental improvido. (AgRg no AREsp 1130864/AP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 28/6/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. ART. 1º, VI, DA LEI N. 9.613/1998.REDISTRIBUIÇÃO DE FEITO. CRIAÇÃO DE VARA ESPECIALIZADA. INEXISTÊNCIA DE IRREGULARIDADE. RECONHECIMENTO DA PRESCRIÇÃO. CARÊNCIA DE INTERESSE RECURSAL. ARTS. 49 E 60 DO CÓDIGO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Não discutida pelas instâncias ordinárias a tese recursal, nem ao menos implicitamente, aplica-se o óbice das Súmulas n. 282 e 356, ambas do STF, pois, para que atenda ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado, o que não ocorreu na espécie.
+4. Agravo regimental não provido. (AgRg no REsp 1432917/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 22/6/2021)
+Ademais, cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de embasar a condenação, a absolvição ou a desclassificação. Porquanto é vedado na via eleita o reexame de fatos e provas. Súmula 7/STJ (ut, AgRg no AREsp n. 480.434/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 17/12/2014.)
+Sem razão a defesa também quando alega a ocorrência de bis in idem, isso porque forma utilizadas condenações distintas em cada fase, conforme se verifica do acórdão à e-STJ fl. 227. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES E REINCIDÊNCIA. UTILIZAÇÃO DE CONDENAÇÕES DISTINTAS. POSSIBILIDADE. SÚMULA N. 241 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A utilização de condenações distintas como antecedentes e reincidência não caracteriza ofensa ao Enunciado n. 241 da Súmula desta Corte, segundo o qual "a reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial".
+2. A gravo regimental desprovido. (AgRg no HC n. 856.973/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/11/2023.)
+Por fim, registra-se que tratando-se de pena reclusiva superior a 4 e que não exceda a 8 anos, não há desproporcionalidade na imposição do regime inicial fechado -imediatamente mais gravoso -, se presente circunstância judicial desfavorável.
+Ante o expost o, com fundamento no art. 932, II, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
