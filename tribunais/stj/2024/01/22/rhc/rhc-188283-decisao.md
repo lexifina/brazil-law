@@ -1,0 +1,15 @@
+DECISÃO
+Neste recurso, que se volta contra acórdão denegatório proferido pela Sexta Câmara Criminal do Tribunal de Justiça de Minas Gerais (HC n. 1.0000.20.562495-0/0000 - fls. 186/190), pretende-se, inclusive em sede de liminar, a imediata revogação da prisão preventiva de Vinicius Ferreira de Souza no Processo n. 5140036-97.2020.8.13.0024, da Vara da comarca de Belo Horizonte/MG - preso em flagrante em 16/10/2020, juntamente com o corréu Allan Kevin Dias Campo Souza Cruz, com prisão convertida em preventiva em 17/10/2020, acusado pela prática do crime descrito no art. 157, § 2º, inciso II, c/c o art. 14, inciso I, ambos do Código Penal (fls. 151/153) -, aos argumentos, em suma: (i) de ausência de tipicidade na conduta por parte do ora paciente, visto que foram apontados indícios de autoria, unicamente, em relação ao corréu Allan, estando o paciente apenas presente no local dos fatos, isto é dentro do ônibus onde a tentativa do roubo ocorreu e desceu no mesmo ponto e andou na companhia de Alan quem subtraiu e se manteve na posse dos bens da vítima (fls. 201/202); e (ii) o decreto de prisão preventiva apenas reproduziu as hipóteses de prisão preventiva mas contudo sem apontar fatos concretos à luz do art. 312 do CPP e 282 e seg. da Lei n. 12.403/2011, sem dizer qual a conduta ou qual fato concreto da leitura do malsinado APFD, que justificaria a prisão premonitória e ante tempus na modalidade preventiva, tudo ao arrepio do comando do art. 93, inc. LX, da CF/88 (fls. 206/207).
+Liminar indeferida (fls. 221/223).
+Prestadas as informações (fls. 239/248 e 261/265), o Ministério Público Federal opinou pela prejudicialidade do r ecurso em habeas corpus (fls. 270/271).
+É o relatório.
+Correto o parecer ministerial, o qual adoto como razão de decidir (fl. 271 - grifo nosso):
+O presente recurso encontra-se prejudicado.
+Com efeito, em que pese o presente feito ter sido autuado no Colendo Superior Tribunal de Justiça em 05 de outubro de 2023 (e-STJ, fls. 218), os fatos remontam ao acórdão prolatado no ano de 2020, e de acordo com as informações prestadas pela autoridade coatora, a decisão contida no referido julgado foi superada, pois o paciente aguarda em liberdade a audiência de instrução e julgamento designada para o dia 25/11/2024. Senão vejamos (e-STJ,fl. 262):
+" ..  Audiência de instrução e julgamento designada para o dia 25/11/2024, às 15:15h, aguardando-se os autos a realização da competente audiência. A última decisão ou peticionamento nos autos consta de 18 de janeiro de 2023 - 9700862984 - Despacho.
+O acusado responde ao processo em liberdade e não foi peticionado perante este Juízo qualquer pedido de trancamento da ação penal, ou requerimento semelhante."
+Tal o contexto, julgo prejudicado o presente recurso em habeas corpus.
+Publiqu e-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DESCRITO NO ART. 157, § 2º, II, C/C O ART. 14, I, AMBOS DO CP. PRISÃO PREVENTIVA. SUPERVENIENTE DECISÃO CONCEDENDO A LIBERDADE PROVISÓRIA. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Recurso prejudicado.
