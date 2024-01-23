@@ -1,0 +1,49 @@
+Decisão:
+
+    Vistos.
+
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 34ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    “Ação de cobrança de produtos derivados de petróleo não pagos. Prescrição inocorrente. Inadimplemento incontroverso. Alegada onerosidade excessiva inocorrente. Responsabilidade solidária dos fiadores bem reconhecida. Cerceamento de defesa inexistente. Apelos improvidos.”
+
+    Opostos embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal.
+
+    Aduz o recorrente que “o juizo a quo, deixou de fundamentar a sua decisão, no tocante à questão do direito intertemporal, i.e., quanto à aplicabilidade da regra de prescrição geral em detrimento da regra legal específica, não reduzida pela lei revogadora. Não há enfrentamento da questão, há apenas a afirmação de que a regra de prescrição aplicável ao caso era a geral e não a específica, sem explicar o motivo dessa conclusão, i.e., não houve enfrentamento da matéria”.
+
+    Alega que “a lei nova foi aplicada retroativamente, prejudicando ato jurídico perfeito e direito adquirido, em nítido contraste ao que dispõe a Constituição Federal em seu artigo 5°, inciso XXXVI, bem como ao disposto no artigo 6°, § 2° da Lei de Introdução às Normas de Direito Brasileiro (Decreto- Lei n° 4.657), que não poderia ter acontecido”.
+
+    Decido.
+
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10 - Tema 339).
+
+    Ademais, no caso dos autos, o Tribunal de origem afastou a incidência da prescrição com base na seguinte fundamentação:
+
+    “2. Não houve prescrição. A ação foi ajuizada em 27.04.2005, quando já em vigor o atual Código Civil, que dispõe que serão os da lei anterior os prazos, quando reduzidos pelo atual Código e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo previsto na lei revogada. Como os títulos foram emitidos entre 29.01.1998 e 06.09.1999, sem o transcurso de mais da metade do lapso prescricional antes previsto (10 anos, Código Civil de 1.916, aplicável ao caso, nunca o Código Comercial, em total desalinho com a matéria de compra e venda, ainda que entre empresas), ter-se-á o prazo de cinco anos (atual Código Civil, 206, § 5º, I), computados a partir da vigência respectiva, ou 11.01.2003. Proposta a ação em 27.04.2005, como dito, não ocorreu prescrição alguma.”
+
+    Nesse contexto, verifica-se que eventual acolhimento da pretensão recursal não prescinde da analise da legislação infraconstitucional aplicável à espécie e do reexame dos fatos e provas dos autos. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE AFASTADA NA ORIGEM. COMPREENSÃO DIVERSA. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. PREMISSAS FÁTICAS. REVISÃO. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. SÚMULA Nº 279. OFENSA REFLEXA NÃO VIABILIZA O APELO EXTREMO. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido” (ARE nº 1.426.790/MG-AgR, Tribunal Pleno, Relatora a Ministra Presidente - Rosa Weber, DJe de 23/08/2023).
+
+    “RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. AUXÍLIO EMERGENCIAL. PRESCRIÇÃO DA PRETENSÃO. MEDIDA PROVISÓRIA N. 1.039/2021. MATÉRIA INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO IMPROVIDO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. III - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação da legislação infraconstitucional que fundamenta o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. IV - Agravo regimental a que se nega provimento” (RE nº 1.408.762/RS-AgR, Primeira Turma, Relator o Ministro Cristiano Zanin, DJe de 1º/11/2023).
+
+    “Embargos de declaração em recurso extraordinário com agravo. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, § 3º, do CPC. 2. Direito Administrativo. Servidor público. 3. Alegada violação ao art. 93, IX, da CF. Tema 339 da repercussão geral. Acórdão recorrido suficientemente motivado. 4. Suposta inocorrência da prescrição. Necessidade da análise de normas infraconstitucionais e de reexame de fatos e provas. Ofensa indireta à Constituição Federal. Incidência da Súmula 279/STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental não provido” (ARE nº 1.440.862/RS-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 07/12/2023).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. AMBIENTAL. DEMOLIÇÃO DE CONSTRUÇÃO IRREGULAR EM ÁREA DE PRESERVAÇÃO PERMANENTE. ÁREA DE PRESERVAÇÃO AMBIENTAL (APA) DA BALEIA FRANCA. OBSERVÂNCIA DO DEVER DE FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. TEMA N. 339/RG. PRESCRIÇÃO. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. DANOS AMBIENTAIS. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO. 1. Uma vez observado o dever de fundamentação das decisões judiciais, inexiste contrariedade ao art. 93, IX, da Constituição Federal (Tema n. 339/RG). 2. Havendo o Colegiado de origem decidido a questão a partir de interpretação conferida à legislação infraconstitucional de regência, não cabe o recurso extraordinário. 3. Dissentir da conclusão alcançada pelo Colegiado de origem – quanto à configuração da responsabilidade do agravante pelos danos causados ao meio ambiente – demandaria revolvimento de elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo. 4. Agravo interno desprovido” (ARE nº 1.423.671/SC-AgR, Segunda Turma, Relator o Ministro Nunes Marques, DJe de 07/12/2023).
+
+    “DIREITO PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. PRESCRIÇÃO. INOCORRÊNCIA. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o agravo interno está sujeito aos limites da devolutividade delimitados no apelo extremo. Precedente. 2. Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. 3. A decisão está devidamente fundamentada, embora em sentido contrário ao interesse da parte agravante. 4. Não procede a alegada ocorrência da extinção da punibilidade pela prescrição. A jurisprudência desta Corte é no sentido de que o recurso extraordinário manifestamente inadmissível não obsta a formação da coisa julgada. Precedentes. 5. Agravo interno a que se nega provimento” (ARE nº 976.508/SP-Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 18/10/2016).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 23 de janeiro de 2024
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
