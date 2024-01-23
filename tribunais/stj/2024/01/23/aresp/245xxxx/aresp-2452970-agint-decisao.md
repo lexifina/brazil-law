@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interno contra decisão da Presidência do STJ, de fls. 2046/2047 (e-STJ), que não conheceu do agravo em recurso especial, em razão da incidência da súmula 182/STJ.
+Em face das razões de fls. 2055/2072 (e-STJ), torno sem efeito a decisão e passo a novo exame do agravo em recurso especial interposto por B. A. COMERCIAL & TRANSPORTES LTDA - ME e OUTRO, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/06/2023.
+Concluso ao gabinete em: 19/12/2023.
+Ação: anulatória de execução e arrematação, ajuizada pelos agravantes, em face de BANCO BRADESCO S/A e JOÃO DAOUD HADDAD.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu parcial provimento à apelação interposta pelos agravantes, apenas para afastar a multa imposta, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - Ação Anulatória de Execução e de arrematação - Sentença de improcedência - Insurgência dos autores - Preliminar de nulidade da sentença de embargos - Não há que se falar em nulidade se a existência de erro material pode ser corrigida - Multa aplicada nos embargos de declaração que cabe ser afastada - Demais nulidades que se confundem com o mérito e com ele serão apreciadas - Nulidade do acordo, da homologação do acordo, da ausência de intimações e necessidade de inclusão do canavial no valor do bem - Vícios não arguidos na primeira oportunidade - Elementos dos autos que comprovam que os aqui autores e lá executados foram regularmente intimados nos autos da execução quando da penhora do imóvel - Empresa executada que expressamente se manifestou nos autos e juntou procuração, sem alegar qualquer nulidade quanto ao acordo e sua homologação, e sequer informou a existência de plantação de cana no imóvel penhorado, de modo que preclusas referidas discussões - Sentença de improcedência mantida, ainda que por outro fundamento Apelo parcialmente provido, apenas para afastar a multa imposta.
+Embargos de declaração: opostos pelos agravantes, foram parcialmente acolhidos, sem efeitos infringentes.
+O Tribunal de origem consignou o seguinte (e-STJ, fls. 1954/1955):
+Entretanto, conquanto não se trate de omissão ou contradição, verifica-se assistir razão aos embargantes ao imputar a existência de vício, sendo este, todavia, de natureza material.
+Revisando o acórdão embargado, constata-se de fato o equívoco no decisum ao mencionar "auto de adjudicação", quando o correto seria "auto de arrematação".
+Todavia, ainda que merecedor de esclarecimento, o vício retratado é incapaz de alterar a essência do julgamento ou possibilitar o provimento do recurso.
+Assim, imprescindível o acolhimento dos embargos de declaração apenas para corrigir o vício apontado no que diz respeito à menção de "auto adjudicação".
+Logo, onde se lê: "auto de adjudicação" (fls. 1879, último parágrafo do acórdão embargado), leia-se: "auto de arrematação".
+Recurso especial: alegam violação dos arts. 489, 887, §5º, e 1.022, do CPC, bem como dissídio jurisprudencial.
+Defende haver negativa de prestação jurisdicional, em razão de contradição com relação às datas da distribuição da execução e da celebração do acordo, visto que este teria sido formalizado cinco dias antes da distribuição; da ausência de pronunciamento acerca da alegação de nulidade da hasta pública; de que diversas outras irregularidades apontadas no processo de execução teriam sido ignoradas; e de omissão quanto aos fundamentos da ação de anulação da arrematação.
+É O RELATÓRIO. DECIDO.
+- Da violação do art. 1.022 do CPC
+Os agravantes afirmam haver contradição com relação às datas da distribuição da execução e da celebração do acordo, visto que este teria sido formalizado cinco dias antes da distribuição (e-STJ, fls. 1965/1966); que não houve pronunciamento acerca da alegação de nulidade da hasta pública (e-STJ, fls. 1966/1967); que diversas outras irregularidades apontadas no processo de execução teriam sido ignoradas (e-STJ, fl. 1967); e que haveria omissão quanto aos fundamentos da ação de anulação da arrematação, transcrevendo trecho dos embargos de declaração (e-STJ, fls. 1967/1971).
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca das alegações relativas às nulidades, consignando que os agravantes teriam sido intimados da decisão que deferiu a penhora e não teriam apresentado embargos, que após a designação da alienação judicial eletrônica a empresa agravante teria sido intimada e teria pleiteado expressamente que a execução deveria seguir os termos do acordo, nada mencionando sobre a alegada nulidade ou sobre a existência de canavial no imóvel a ser leiloado, razão pela qual reconheceu a existência de preclusão, concluindo pela a configuração da nulidade de algibeira (e-STJ, fls. 1876/1883), de maneira que os embargos de declaração opostos pelos agravantes de fato não comportavam acolhimento.
+Os agravantes alegam ainda a existência de contradição no acórdão recorrido com relação às datas da distribuição da execução e da celebração do acordo. O Tribunal de origem foi claro ao destacar que a ação de execução teria sido elaborada em 21/11/2013 e distribuída em 25/11/2013, além de consignar que o acordo teria sido formalizado após a distribuição e homologado em dezembro de 2013. Assim, não há que se falar em contradição.
+Ressalte-se que a contradição autorizativa do manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pelo recorrente não demonstram como o acórdão recorrido violou o art. 887, §5º, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da existência de fundamento não impugnado
+Os agravantes não impugnaram o fundamento utilizado pelo TJ/SP relativos à aplicação dos arts. 278 e 507, do CPC, à ocorrência da preclusão e à nulidade de algibeira. Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões TORNO SEM EFEITO a decisão de fls. 2046/2047 (e-STJ) e, em novo julgamento, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 30.000,00 (e-STJ, fls. 1883) para 35.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação anulatória de execução e arrematação.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Reconsiderada a decisão de fls. 2046/2047 (e-STJ). Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
