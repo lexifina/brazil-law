@@ -1,0 +1,128 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0713867-27.2022.8.07.0018APELANTE(S)CASCOL COMBUSTIVEIS PARA VEICULOS LTDAAPELADO(S)INSTITUTO DE DEFESA DO CONSUMIDOR DO DISTRITO FEDERAL - PROCON-DFRelatoraDesembargadora SANDRA REVES
+ Acórdão Nº1806164
+
+EMENTA
+
+APELAÇÃO. CONSUMIDOR. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE. INFRAÇÃO À LEGISLAÇÃO CONSUMERISTA. INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO. CONTRADITÓRIO E AMPLA DEFESA. APLICAÇÃO DE MULTA. SINDICABILIDADE JUDICIAL NO MÉRITO DA DECISÃO ADMINISTRATIVA. INVIABILIDADE. MULTA EXORBITANTE. NÃO CONSTATAÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+
+1. No exercício do poder de polícia, o Instituto de Defesa do Consumidor – Procon/DF, autarquia incumbida de implementar a Política de Defesa do Consumidor no Distrito Federal, pode aplicar a penalidade administrativa prevista no art. 57 do CDC aos fornecedores que pratiquem condutas violadoras aos ditames da Lei n. 8.078/90, conforme previsto no art. 2º, VII, do Regimento Interno da entidade (Decreto Distrital n. 38.927/18).
+
+2. Ante a lavratura de auto de infração pelo Procon/DF e a instauração de processo administrativo, proferiu-se decisão aplicando multa à sociedade empresária fornecedora, pois, ante a constatação de que o totem de não estava às margens da via de acesso ao posto de abastecimento e que não possuía fonte de iluminação, para permitir a leitura pelos usuários no período noturno, houve violação ao art. 2º da Lei Distrital n. 1.979/98.
+
+3. Revela-se descabida a incursão quanto ao mérito da aludida decisão, porquanto possível a sindicabilidade judicial do procedimento administrativo em caso de ilegalidade ou abuso de poder, o que não se observa no caso. Ao revés, constata-se fundamentação idônea e estrita observância ao contraditório e a ampla defesa, com aplicação de penalidade após pormenorizada apuração do quantum em importe razoável e devidamente respaldado nas normas de regência (art. 57 do CDC, Decreto n. 2.181/97 e Portaria 34, de 20/05/2020, do IDC/DF).
+
+4. Recurso conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, SANDRA REVES - Relatora, MAURICIO SILVA MIRANDA - 1º Vogal e FABRÍCIO FONTOURA BEZERRA - 2º Vogal, sob a Presidência da Senhora Desembargadora SANDRA REVES, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 01 de Fevereiro de 2024
+
+Desembargadora SANDRA REVESPresidente e Relatora
+
+RELATÓRIO
+
+Trata-se de recurso de apelação interposto por Cascol Combustíveis Para Veículos Ltda. contra sentença proferida pelo Juízo da 4ª Vara da Fazenda Pública do Distrito Federal (ID 53094225), nos autos da ação anulatória de ato administrativo c/c pedido de tutela de urgência ajuizada contra o Instituto de Defesa do Consumidor do Distrito Federal – Procon/DF, que julgou improcedente o pedido inicial, consistente em anular auto de infração e, subsidiariamente, reduzir o valor da multa imposta.
+
+Por força da sucumbência, condenou o autor ao pagamento das custas e dos honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa (R$51.600,00 – cinquenta e um mil e seiscentos reais).
+
+Nas razões recursais (ID 53094233), aduz que o art. 18 da Resolução 41/2013 da ANP dispõe especificamente acerca “Da Exibição dos Preços Praticados dos Combustíveis ao Consumidor”, in verbis:
+
+Da Exibição dos Preços Praticados dos Combustíveis ao Consumidor
+
+Art. 18. O revendedor varejista deverá exibir os preços de todos os combustíveis automotivos comercializados no estabelecimento, para pagamento à vista, em painel de preços, na entrada do estabelecimento, de modo destacado e de fácil visualização à distância, tanto ao dia quanto à noite. Parágrafo único. Quando houver opção de pagamento a prazo, todos os preços deverão estar indicados no referido painel.
+
+Pontua que, “a literalidade do artigo supratranscrito evidência que a exigência imputada pela ANP é de que o painel de preços esteja ‘na entrada do estabelecimento, de modo destacado e de fácil visualização, tanto de dia quanto à noite’, regramento estritamente cumprido pela empresa autuada”, porquanto o “totem se encontra fixado na entrada do posto, é de fácil visualização à distância e de modo destacado”.
+
+Assim, alegando o cumprimento das exigências, reputa nulo o Auto de Infração n. 413/2020, do Procon-DF.
+
+Subsidiariamente, questiona o valo da multa aplicada (R$51.600,00), “ao argumento de que A infração imputada não apresenta gravidade; Não houve qualquer vantagem auferida pela Apelante; Não houve qualquer prejuízo ao consumidor; O valor aplicado é muito superior ao suposto dano que possa ter sido causado, sendo impositiva a reforma da r. sentença para a sua redução para um patamar que atenda ao caráter punitivo, pedagógico e preventivo da sanção”.
+
+Requer, portanto, a declaração de nulidade do ato administrativo. Subsidiariamente, a redução da multa aplicada.
+
+Preparo ao ID 53094236.
+
+Contrarrazões ao ID 53094238, pelo desprovimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora SANDRA REVES - Relatora
+
+Presentes os pressupostos de admissibilidade, conheço dos recursos.
+
+Conforme Auto de Infração n. 413/2020 (ID 53093739), em fiscalização do Procon/DF, de 26/11/2000, foi constatado que o Posto SAM I, localizado na 2ª Avenida Norte, Lotes 1/2, Samambaia/DF, possuía totem em “Localização inadequada e ausência de iluminação nas placas para divulgar os preços dos combustíveis praticados pelo posto de abastecimento (Art. 2º da Lei n.º 1.979/1998)”.
+
+A despeito de alegar observância do art. 18 da Resolução 41/2013 da ANP, o qual dispõe especificamente acerca “Da Exibição dos Preços Praticados dos Combustíveis ao Consumidor”[1], o apelante não fez nenhuma prova nesse sentido.
+
+Compulsando os autos, verifica-se que na decisão ao ID 53094221, o Juízo de origem assentou (ID 53094221):
+
+Mesmo que se alegasse que a decisão combatida não mencionou expressamente o dispositivo apontado, ainda assim, não seria caso de acolhimento dos embargos. É consequência lógica do sistema processual vigente a desnecessidade de comprovação dos fatos sobre os quais recai presunção relativa de existência e veracidade. Como se extrai da própria literalidade textual do dispositivo legal em análise, a presunção é apenas relativa, podendo ser afastada no caso de prova em sentido oposto ao estabelecido pela presunção. Confira-se, nesse sentido, o seguinte julgado do TJDFT: “(...) 1. Fatos sobre os quais recaem presunções relativas não dependem de prova (art. 374, IV, do Código de Processo Civil-CPC), o que é diferente de não admitir prova em contrário: a presunção relativa pode ser afastada se houver prova no sentido oposto ao estabelecido pela presunção. (...)” (Acórdão 1435233, 07043676820218070018, Relator: LEONARDO ROSCOE BESSA, 6ª Turma Cível, data de julgamento: 6/7/2022, publicado no DJE: 19/7/2022. Pág.: Sem Página Cadastrada.)
+
+No caso em questão, as partes controvertem acerca do correto posicionamento ou não do totem de preços do posto, assim como da existência ou não de fonte de iluminação própria no referido objeto, de modo que tal constatação poderá afastar a relativa presunção de veracidade e existência quanto ao narrado no processo administrativo do qual decorreu a multa aplicada.
+
+Entretanto, o autor/apelante não requereu a produção de nenhuma prova. Também, sequer acostou prova com a petição inicial, a despeito da redação do art. 319, VI, do CPC. Logo, evidente não ter cumprido a regra processual descrita no art. 373, I, do CPC.
+
+Do cenário delineado, não assiste razão à apelante no tocante à pretensão de declaração de nulidade da multa aplicada em regular processo administrativo, pois, além de revelar descabida a incursão judicial quanto ao mérito da decisão, não há nenhum elemento probatório capaz de infirmar a conclusão pela prática de ato ilícito.
+
+Nota-se, em tese, é possível a sindicabilidade judicial dos procedimentos administrativos em caso de ilegalidade ou abuso de poder, o que não se observa no caso. Aliás, isso nem ao menos é alegado. Ao revés, constata-se decisão administrativa proferida com respaldo no exercício do poder de polícia pelo Procon/DF, com fundamentação idônea e estrita observância ao contraditório e a ampla defesa.
+
+Na lição do ilustre administrativista José dos Santos Carvalho Filho[2], citando entendimento do eminente Hely Lopes Meirelles:
+
+O que é vedado ao Judiciário, como corretamente têm decidido os Tribunais, é apreciar o que se denomina normalmente de mérito administrativo, vale dizer, a ele é interditado o poder de reavaliar critérios de conveniência e oportunidade dos atos, que são privativos do administrador público. Já tivemos a oportunidade de destacar que, a se admitir essa reavaliação, estar-se-ia possibilitando que o juiz exercesse também função administrativa, o que não corresponde obviamente a sua competência. Além do mais, a invasão de atribuições é vedada na Constituição em face do sistema da tripartição de Poderes (art. 2º).
+
+No aspecto, frise-se que, conforme constou do processo administrativo correlato e da sentença recorrida, não houve demonstração, por parte do autor/apelante, quanto à efetiva regularidade da sua atuação, embora oportunizada a ampla defesa e o contraditório ao fornecedor. Significa dizer, não houve desconstituição da presunção de legitimidade inerente aos atos administrativos.
+
+Nesse sentido, colha-se precedente desta e. 7ª Turma Cível:
+
+APELAÇÃO CÍVEL. TRIBUTÁRIO E CONSUMIDOR. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. MULTA ADMINISTRATIVA. PROCON-DF. PROCEDIMENTO ADMINISTRATIVO. OBSERVANCIA A LEGALIDADE, AO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL. PENALIDADE QUE OBSERVOU OS CRITÉRIOS OBJETIVOS PREVISTOS NOS ATOS REGULAMENTARES. SENTENÇA MANTIDA. [...] 2. O controle jurisdicional da atividade administrativa, ainda que encontre guarida no texto constitucional, está jungido a aspectos de legalidade, não circunscritos, portanto, salvo excepcionalíssimas hipóteses, à análise do mérito do ato administrativo. 2.1. Os atos administrativos presumem-se legais e legítimos, porque assim se pauta a autoridade que deles emanou, na forma constitucionalmente presumida (art. 37, caput), o que equivale a dizer que embora seja possível aferir eventual ilegalidade e ilegitimidade da atuação administrativa, exige-se de quem alega o ônus da prová-la, mormente no presente caso em que sobre o demandante recai o ônus da prova sobre direito (art. 373, II, do CPC). 2.2. Logo, incumbe ao apelante demonstrar que o PROCON atuou de forma ilegal ao aplicar sanções descabidas, ilegítima quando atua com finalidade nitidamente arrecadatória, desproporcional quando aplica multas assim qualificadas. 3. Na situação em exame, inexiste qualquer vício que macule o procedimento administrativo que ensejou a aplicação de multa a rede varejista/autora, tendo sido oportunizado momento para a apresentação de defesa, momento em que sequer questionou especificamente a queixa apresentada, tornando incontroverso o ilícito noticiado pela consumidora, autorizando-se, assim, a aplicação de multa, nos termos dos atos regulamentares. 4. A fixação do valor da multa, na seara administrativa, tem como objetivo maior o desestímulo para que o fornecedor se abstenha de voltar a lesar outros consumidores. 4.1. A quantia arbitrada com relação à multa não fere o princípio da proporcionalidade e da razoabilidade, não configurando, assim, abuso do poder discricionário, já que foram observadas as diretrizes objetivas fixadas nos atos regulamentares. 5. Recurso de apelação conhecido, mas desprovido. (Acórdão n. 1706856, 07070807920228070018, Relatora: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 24/5/2023, publicado no DJE: 2/6/2023. Pág.: Sem Página Cadastrada.)
+
+Quanto à multa, identifica-se que o Procon/DF realizou a análise pormenorizada para apuração do quantum a ser aplicado a tal título.
+
+Observa-se que, à ocasião do arbitramento, conforme tabela da dosimetria ao ID 53093739, p. 40-44, considerou-se o grande porte da sociedade empresária (Portaria 34, de 20/05/2020, do IDC/DF, art. 20, § 1º) – CEPE, adotando-se o valor inicial de R$25.000,00 (vinte e cinco mil reais), com posterior acréscimo de R$800,00 (oitocentos reais), por “A.5 - Localização inadequada e ausência de iluminação nas placas para divulgar os preços dos combustíveis praticados pelo posto de abastecimento (Art. 2º da Lei n.º 1.979/1998)”, em conformidade com “Infração (Portaria 34, de 20/05/2020, do IDC/DF, art. 20, § 2º c/c Anexo único e legislações específicas) – NAT”.
+
+Na sequência, não foi aplicado fator multiplicador prevista na “Vantagem (Portaria 34, de 20/05/2020, do IDC/DF, art. 20, § 3º) – VAN”, porque não houve “vantagem não apurada ou não auferida”.
+
+Todavia, quanto à “Extensão do Dano (Portaria 34, de 20/05/2020, do IDC/DF, art. 20, § 4º) – ED”, foi aplicador o fator multiplicador 2, considerando o dano coletivo, em detrimento do individual ou difuso.
+
+Posteriormente, houve redução de 10% (dez por cento), por ser o posto de gasolina infrator primário, consoante “Circunstâncias Atenuantes - Art. 25, do Decreto Federal 2.181/1997 c/c art.22, I da Portaria 34 do IDC/DF”, mas houve a majoração da multa em 10% (dez por cento), por “deixar o infrator, tendo conhecimento do ato lesivo, de tomar as providências para evitar ou mitigar suas consequências”, nos termos das “Circunstâncias Agravantes - Art. 26, do Decreto Federal 2.181/1997 art.22, II da Portaria 34 do IDC/DF Percentual”.
+
+Ao final, a multa alcançou o importe de R$51.600,00 (cinquenta e um mil seiscentos reais).
+
+A par de tal quadro, não se afigura exorbitante a quantia impingida, tendo em vista que a autarquia distrital, exercendo o seu poder de polícia, arbitrou a multa com observância das balizas legais pertinentes, mediante critérios objetivos, e, nessa medida, não há falar em malferimento aos princípios da proporcionalidade e da razoabilidade, mediante abuso do poder discricionário.
+
+A par de tal quadro, não se afigura exorbitante a quantia arbitrada, máxime porque devidamente alicerçada nas normas de regência, bem como nos documentos carreados aos autos.
+
+Sobre o assunto, confiram-se julgados desta e. Corte de Justiça:
+
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ANULATÓRIA. NULIDADE DA SENTENÇA. CARÊNCIA DE FUNDAMENTAÇÃO. PRELIMINAR REJEITADA. MULTA APLICADA PELO PROCON. COMPETÊNCIA E PRERROGATIVA. DIREITO DO CONSUMIDOR. IRREGULARIDADE DE CONDUTA APURADA. PROCESSO ADMINISTRATIVO REGULAR. CONTROLE JUDICIAL DE ATOS ADMINISTRATIVOS. EXCEPCIONALIDADE. ILEGALIDADE NÃO COMPROVADA. CRITÉRIOS ESPECIFICADOS. MANUTENÇÃO DA SANÇÃO ADMINISTRATIVA. 1. A sentença recorrida não se limita à indicação, reprodução ou paráfrase de ato normativo, nem emprega conceitos jurídicos vagos ou indeterminados; não ignora pedido formulado pelas partes, questão relevante ou fundamento autônomo e suficiente deduzido no processo capaz de, em tese, infirmar a conclusão adotada; tampouco se limita a invocar genericamente precedente. Ao contrário, as questões relevantes e indispensáveis para o julgamento da causa foram suficientemente analisadas pelo juízo a quo, que solucionou integralmente a controvérsia, expondo, fundamentadamente, os motivos que levaram àquela conclusão. Atentando a peculiaridades do caso, o julgador explicitou as razões de decidir (art. 93, IX da CF; art. 489, II do CPC/2015) de forma clara, coerente e apropriada ao caso analisado, assentada em livre convencimento (art. 371 do CPC/2015) e, do cotejo de fatos e provas, conferiu ao conflito desfecho que entendeu prestigiar a melhor solução jurídica, não se podendo, ademais, confundir vício de fundamentação com discordância da parte a respeito da conclusão adotada. Preliminar de nulidade rejeitada. 2. Imposição de sanções administrativas pelo PROCON a fornecedores de produtos ou serviços por infração às normas de defesa do consumidor consubstancia exercício legítimo do poder de fiscalização da autarquia, nos termos do art. 56 do Código de Defesa do Consumidor. Intervenção do Poder Judiciário nessa questão restringe-se ao controle da legalidade dos atos, sob pena de invasão da competência reservada aos órgãos administrativos, cujas esferas de atuação são, a rigor, independentes. 3. Na hipótese dos autos, o processo administrativo originou-se de reclamação formulada que tramitou regularmente, tendo sido o fornecedor notificado para resolver o pedido e, após, notificado para apresentar defesa escrita, garantido o direito ao contraditório e à ampla defesa. 4. A atuação das partes deve observância aos preceitos legais em todas as fases da relação negocial, seja na fase pré-contratual (da oferta e tratativas preliminares), durante a celebração e execução do contrato (quanto ao que foi ajustado e às obrigações dele derivadas), como ainda depois da sua execução (pós-eficácia das obrigações contratuais). Conforme consignado em sentença, a decisão administrativa encontra-se fundamentada e, diante das informações colhidas, definiu adequadamente que os contratos celebrados com a consumidora não corresponderam ao que de fato lhe fora ofertado, além de faltar informação adequada e clara sobre os diferentes produtos e serviços oferecidos, resultando cobrança indevida, caracterizando infração aos arts. 6º, III, 14, 39, V e 42 do Código de Defesa do Consumidor. Deve, assim, ser mantida a penalidade aplicada em decisão administrativa que apreciou os fatos e concluiu pela irregularidade da conduta do fornecedor. 5. Ao contrário do alegado, a multa foi estabelecida com base em tabela regulamentar pré-existente, que a define com base em diversos fatores, todos eles especificados. Houve adequado enfrentamento dos critérios de fixação, considerando o porte da empresa; as infrações cometidas; os preceitos legais violados; a extensão do dano; a indicação de agravantes, incluindo o processo de reincidência e a não adoção de providências para minimizar ou, de imediato, reparar os efeitos do ato lesivo. Assertivas do apelante que permanecem situadas no campo meramente argumentativo e sem lastro probatório. Penalidade de multa regularmente fixada com base nas circunstâncias concretamente especificadas. 6. Recurso conhecido, preliminar rejeitada e, no mérito, desprovido. (Acórdão n. 1601788, 07051514520218070018, Relatora: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 3/8/2022, publicado no DJE: 24/8/2022. Pág.: Sem Página Cadastrada.)
+
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO E ADMINISTRATIVO. CÓDIGO DE TRÂNSITO BRASILEIRO. EMBARGOS À EXECUÇÃO. IPVA. RESPONSABILIDADE TRIBUTÁRIA SOLIDÁRIA. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. AUSÊNCIA DE TRANSFERÊNCIA DO VEÍCULO JUNTO AO DETRAN. CÓDIGO DE DEFESA DO CONSUMIDOR. RECLAMAÇÃO AO PROCON. ÓRGÃO DE PROTEÇÃO AO CONSUMIDOR. APLICAÇÃO DE MULTA. NULIDADE. FALTA DE MOTIVAÇÃO. NÃO VERIFICADO. REDUÇÃO DO VALOR DA MULTA. PROPORCIONALIDADE. FUNDAMENTAÇÃO IDÔNEA. SENTENÇA MANTIDA. [...] 3. Ante a alegação de nulidade da multa administrativa aplicada pelo PROCON/DF, da análise detida dos autos do processo administrativo, não se constatam ilegalidades ou violação ao devido processo legal, ao contraditório, à ampla defesa, à motivação do ato administrativo, uma vez que as alegações trazidas na defesa administrativa foram devidamente debatidas pelo parecer técnico-jurídico do PROCON/DF, no sentido de não haver sido produzida a prova comprobatória da contratação das sucessivas operações bancárias alegadas. 3.1. No que tange à fundamentação trazida na decisão administrativa, as razões de decidir estão embasadas nas motivações trazidas no parecer técnico-jurídico, sendo perfeitamente admissível a motivação per relationem ou aliunde. 4. Nos termos do art. 57 do CDC, devem ser apreciados os seguintes requisitos para aplicação da penalidade: a) gravidade da infração; b) vantagem econômica auferida e c) condição econômica do fornecedor. 4.1. No caso, a autoridade administrativa observou os parâmetros legais para a fixação de multa, embasado na condição econômica de grande porte da instituição financeira, na reiteração da infração com reincidência certificada, da ausência de informações acerca da contratação ao consumidor, além da agravante de prática infracional contra consumidor idoso. 4.2. Na demanda, o quantum da multa reside nos parâmetros da Portaria 03, de 04/07/2011 do IDC-DF, que estabeleceu valor fixo de multa de acordo com a condição econômica da empresa infratora que, sendo de grande porte, era de R$ 20.000,00, a qual foi aumentada em razão da existência de circunstâncias agravantes. 5. Apelação cível conhecida e desprovida. (Acórdão n. 1410038, 07518844620198070016, Relator: ROBERTO FREITAS FILHO, 3ª Turma Cível, data de julgamento: 17/3/2022, publicado no DJE: 8/4/2022. Pág.: Sem Página Cadastrada.)
+
+ADMINISTRATIVO. CONSUMIDOR. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. INFRAÇÃO. PROCON. MULTA. ANULAÇÃO. REDUÇÃO. IMPOSSIBILIDADE. 1. Não se constatam vícios capazes de ensejar a nulidade da multa aplicada pelo Procon, se o devido processo administrativo foi observado, nenhuma reclamação foi solucionada a contento, nem mesmo após a notificação administrativa, e não há na ação prova capaz de afastar a responsabilidade objetiva do fornecedor quanto à falha da prestação do serviço ao consumidor. 2. Revela-se proporcional e razoável multa aplicada pelo Procon tendo com base valores previamente estabelecidos na Portaria n. 3/2011 e 28/2011 do Procon e os parâmetros do art. 57 do CDC acerca da capacidade econômica da empresa infratora, gravidade da infração e a vantagem auferida pelo erro cometido. 3. A fixação do valor da multa, além de ter como parâmetro a extensão do dano causado, tem como objetivo maior desestimular a reincidência da conduta danosa pela pessoa jurídica, de modo que não lese outros consumidores. 4. Recurso conhecido e não provido. (Acórdão n. 1338216, 07523426320198070016, Relator: GETÚLIO DE MORAES OLIVEIRA, 7ª Turma Cível, data de julgamento: 5/5/2021, publicado no DJE: 28/5/2021. Pág.: Sem Página Cadastrada.)
+
+DIREITO TRIBUTÁRIO E DO CONSUMIDOR. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. MULTA APLICADA PELO PROCON/DF. SANÇÃO AO NÃO ATENDIMENTO DE RECLAMAÇÃO INDIVIDUAL. DÍVIDA ATIVA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. ATO ADMINISTRATIVO. PRESUNÇÃO DE LEGITIMIDADE. PROPORCIONALIDADE DO VALOR DA MULTA APLICADA. PARÂMETROS. OBEDIÊNCIA. 1. A dívida ativa regularmente inscrita goza de presunção de certeza e liquidez, a qual só poderá ser afastada mediante prova inequívoca da sua irregularidade pelo sujeito passivo. Art. 3° da Lei de Execuções Fiscais. 2. A presunção de certeza e liquidez da Certidão de Dívida Ativa decorre da presunção de legalidade e legitimidade dos atos administrativos, pois o crédito fiscal é constituído após prévio processo administrativo, em que é oferecia a oportunidade ao contribuinte de se manifestar e produzir provas. 3. O PROCON/DF tem, dentre os seus objetivos, a promoção do equilíbrio das relações de consumo por meio da aplicação das normas de defesa do consumidor, atuando em consonância com a Política Nacional das Relações de Consumo, nos termos do art. 4° do Código de Defesa do Consumidor. 4. O PROCON/DF, em virtude do seu poder de polícia, tem competência para aplicação de multa como sanção ao não atendimento de reclamação individual formulada por consumidor, nos termos do art. 57 do Código de Defesa do Consumidor. 5. A decisão do PROCON/DF que aplica penalidade de multa é um ato administrativo e, como manifestação do Poder Público, possui, entre os seus atributos, a presunção de legitimidade, legalidade e veracidade, cabendo à fornecedora que pretender infirmá-los o ônus da prova quanto à ausência destes atributos. 6. A multa aplicada se mostra proporcional à medida em que obedece aos parâmetros da gravidade da infração, da vantagem auferida e da condição econômica do fornecedor, ponderando, ademais, as agravantes e atenuantes. Art. 57 do Código de Defesa do Consumidor e art. 28 do Decreto n. 2.181/1997. 7. Apelação desprovida. (Acórdão n. 1328479, 07518861620198070016, Relator: HECTOR VALVERDE SANTANNA, 2ª Turma Cível, data de julgamento: 17/3/2021, publicado no DJE: 7/4/2021. Pág.: Sem Página Cadastrada.)
+
+Com esses fundamentos, nego provimento ao recurso.
+
+Nos termos do art. 85, § 11, do CPC, em atenção aos parâmetros do art. 85, § 2º, do CPC, especialmente no tocante ao grau de zelo profissional e ao trabalho despendido em grau recursal, majoro em 1% (um por cento) o montante fixado na instância de origem a título de honorários advocatícios, totalizando 11% (onze por cento) sobre o valor da causa (R$51.600,00).
+
+É como voto.
+
+[1] Da Exibição dos Preços Praticados dos Combustíveis ao Consumidor
+
+Art. 18. O revendedor varejista deverá exibir os preços de todos os combustíveis automotivos comercializados no estabelecimento, para pagamento à vista, em painel de preços, na entrada do estabelecimento, de modo destacado e de fácil visualização à distância, tanto ao dia quanto à noite. Parágrafo único. Quando houver opção de pagamento a prazo, todos os preços deverão estar indicados no referido painel.
+
+ [2] MEIRELLES, Hely Lopes apud CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30ª Ed. rev. atual. e ampl. – São Paulo: Atlas, 2016.
+
+O Senhor Desembargador MAURICIO SILVA MIRANDA - 1º Vogal Com o relatorO Senhor Desembargador FABRÍCIO FONTOURA BEZERRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNANIME.
