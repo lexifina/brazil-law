@@ -1,0 +1,231 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 0033373-63.2014.8.08.0024
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: FUNDACAO PETROBRAS DE SEGURIDADE SOCIAL PETROS
+
+APELADO: NILSON RODRIGUES VIEIRA
+
+RELATOR(A):
+SERGIO RICARDO DE SOUZA
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL – MAJORAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO – ALEGADA OMISSÃO – PRÉ-QUESTIONAMENTO NUMÉRICO – VÍCIO NÃO CONFIGURADO – PRETENSÃO DE REDISCUSSÃO DA MATÉRIA – RECURSO DESPROVIDO.
+
+1.
+
+O embargante argumenta em suas razões
+recursais
+a existência de omissões no acórdão embargado por não ter enfrentado
+os arts. 5º, XXXVI, 114 e 202, § 3º da CF; a
+rts. 421, 422, 423 do Código Civil;
+a
+rts. 2, 4, 6, 30, 39 E 74 do CDC;
+a
+rt. 373, II do CPC; Enunciados 51, I e 288 da súmula do TST; Art. 6, § 2º da LICC.
+
+2.
+No tocante a alegada omissão acerca dos dispositivos legais apontados, deve-se observar, conforme entendimento pacífico do C. STJ acerca do tema, que não se exige a menção expressa a dispositivos legais: “[...] ‘Não é de exigir-se, de modo a que se tenha por atendido o requisito do prequestionamento, o denominado prequestionamento numérico. Basta que a questão federal suscitada, no Recurso Especial, tenha sido efetivamente versada, no acórdão objurgado. O que se prequestiona é a matéria jurídica, não o número do dispositivo de lei’” (AgInt no AREsp 664.479/RN, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/06/2016, DJe 06/09/2016).
+
+3.
+Por conseguinte, a utilização dos embargos de declaração para requerer a manifestação expressa acerca de dispositivos legais, sem que a decisão recorrida padeça de vícios, é indevida.
+
+4.
+
+Recurso conhecido
+e
+des
+provido.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e não acolher os Embargos de Declaração, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 027 - Gabinete Des. SÉRGIO RICARDO DE SOUZA
+
+Composição de julgamento: 027 - Gabinete Des. SÉRGIO RICARDO DE SOUZA - SERGIO RICARDO DE SOUZA - Relator / 029 - Gabinete Desª. DEBORA MARIA AMBOS CORREA DA SILVA - DEBORA MARIA AMBOS CORREA DA SILVA - Vogal / 006 - Gabinete Des. CARLOS SIMÕES FONSECA - CARLOS SIMOES FONSECA - Vogal
+VOTOS VOGAIS
+029 - Gabinete Desª. DEBORA MARIA AMBOS CORREA DA SILVA - DEBORA MARIA AMBOS CORREA DA SILVA (Vogal)
+Proferir voto escrito para acompanhar
+006 - Gabinete Des. CARLOS SIMÕES FONSECA - CARLOS SIMOES FONSECA (Vogal)
+Proferir voto escrito para acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Sérgio Ricardo de Souza
+Rua Desembargador Homero Mafra 60, Enseada do Suá, VITÓRIA - ES - CEP: 29050-906
+Telefone:
+(27) 3334-2316
+
+PROCESSO Nº 0033373-63.2014.8.08.0024
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: FUNDACAO PETROBRAS DE SEGURIDADE SOCIAL PETROS
+
+APELADO: NILSON RODRIGUES VIEIRA
+
+Advogados do(a) APELANTE: CARLOS FERNANDO DE SIQUEIRA CASTRO - ES12288-A, CARLOS ROBERTO DE SIQUEIRA CASTRO - RJ20283-S
+
+Advogados do(a) APELADO: GEORGE RODRIGUES VIANA - ES19492, DIOGO MORAES DE MELLO - ES11118
+
+VOTO
+
+Nos termos do Relatório, c
+uidam os autos de
+E
+mbargos de declaração
+inter
+postos p
+or
+
+NILSON RODRIGUES VIEIRA
+
+contra o
+A
+córdão ID 5317996, que, à unanimidade,
+deu
+provimento
+ao
+Recurso de Apelação
+interposto
+pela
+
+F
+UNDAÇÃO
+PETROBRAS
+DE
+SEGURIDADE SOCIAL – PETROS
+para reformar a sentença apelada e, consequentemente, julgar improcedentes as pretensões autorais.
+
+Irresignad
+o
+,
+o
+embargante alega em suas razões
+ID 5557990, em síntese,
+a existência de omiss
+ão no acórdão embargado
+
+por
+não ter enfrentado
+os arts. 5º, XXXVI, 114 e 202, § 3º da CF; a
+rts. 421, 422, 423 do Código Civil;
+a
+rts. 2, 4, 6, 30, 39 E 74 do CDC;
+a
+rt. 373, II do CPC; Enunciados 51, I e 288 da súmula do TST; Art. 6, § 2º da LICC.
+
+Pugna, assim,
+pela correção
+
+d
+o
+
+vício
+
+apontad
+o
+, com a atribuição de efeitos infringentes aos presentes aclaratórios,
+bem como
+pela
+realiza
+ção
+
+d
+o devido prequestionamento da matéria com vistas à interposição de recursos para os tribunais superiores
+.
+
+Preenchidos os requisitos da admissibilidade recursal, conheço dos aclaratórios interposto
+s
+e passo a analisar as suas razões.
+
+É cediço que os embargos de declaração se inserem na categoria dos recursos com fundamentação vinculada, cujas hipóteses de cabimento são taxativamente estabelecidas pela lei processual civil, quais sejam: obscuridade, contradição, omissão ou erro material (artigo 1.022 do CPC).
+
+Embora apontada a existência do vício de omissão no acórdão embargado, o que leva à admissão
+do recurso interposto
+, a
+o examinar o
+aresto
+
+recorrido
+observa-se que a pretensão d
+o
+embargante é, em verdade, a reapreciação da matéria que foi devidamente analisada e decidida
+por este órgão fracionário,
+que expressamente decidiu, por força
+do Tema 907 do STJ, que o regulamento que definirá o cálculo do benefício complementar será aquele vigente no momento em que o participante preencher os requisitos necessários à sua aposentadoria e, não, o da data de sua adesão.
+
+Não obstante
+, o embargante sustenta, para justificar o manejo do presente recurso, a existência de omissão com relação acerca dos dispositivos legais apontados.
+
+Ocorre que
+conforme entendimento pacífico do C. STJ acerca do tema, que não se exige a menção expressa a dispositivos legais:
+“[...]‘Não é de exigir-se, de modo a que se tenha por atendido o requisito do prequestionamento, o denominado prequestionamento numérico. Basta que a questão federal suscitada, no Recurso Especial, tenha sido efetivamente versada, no acórdão objurgado. O que se prequestiona é a matéria jurídica, não o número do dispositivo de lei’”
+(AgInt no AREsp 664.479/RN, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/06/2016, DJe 06/09/2016).
+
+Por conseguinte, a utilização dos embargos de declaração para requerer a manifestação expressa acerca de dispositivos legais, sem que a decisão recorrida padeça de vícios, é indevida.
+
+Nesse sentido, é certo que o embargante, inconformado com o resultado do julgamento do apelo interposto, pretende tão somente a reapreciação das razões do acórdão proferido, uma vez que inexistentes os vícios apontados. E tal conclusão não destoa do mais recente e firme entendimento do Superior Tribunal de Justiça, in verbis:
+
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS. [...] Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+3. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+4. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 1131270/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/06/2018, DJe 13/06/2018).
+
+Por fim,
+considerando ter havido mani
+f
+estação expressa
+sobre a matéria suscitada,
+consider
+am-se
+prequestionadas as questões
+apontadas nos presentes aclaratórios
+.
+
+Firme nas razões expostas
+,
+CONHEÇO
+dos embargos de declaração
+interposto
+s
+e
+NEGO-LHES PROVIMENTO
+, mantendo
+o acórdão embargado
+.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+
+Acompanho o voto de relatoria.
+
+DESEMBARGADORA DÉBORA MARIA AMBOS CORRÊA DA SILVA:
+
+Acompanho o voto proferido pelo eminente Relator, no sentido de CONHECER dos aclaratórios e
+NEGAR-LHES PROVIMENTO
+, mantendo intacto o acórdão guerreado.
