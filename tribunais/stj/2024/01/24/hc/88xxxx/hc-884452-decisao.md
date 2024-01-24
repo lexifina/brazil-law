@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TAIVAN DOUGLAS CREMA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o paciente foi condenado à pena de 8 anos e 9 meses de reclusão, em regime inicial fechado, além de 750 dias-multa, à razão de 1/30 do salário mínimo vigente à época dos fatos, por infração ao disposto no art. 33, caput, da Lei n. 11.343/2006.
+Impetrado habeas corpus perante a Corte de origem, o mandamus não foi conhecido, nos seguintes termos (fl. 17):
+Na espécie, é forçoso assentar que a tese lançada na inicial, voltada à anulação do interrogatório do réu - afastada na sentença proferida nos autos da ação penal -, deve ser erigida no recurso processualmente adequado, a apelação criminal. Assim, conforme bem ponderou a d. Procuradora de Justiça, "considerando que o habeas corpus, cuja via de cognição é restrita, não se presta para (re)discutir arcabouço fático, eventual inconformismo do impetrante quanto aos fundamentos utilizados pelo juízo singular deve ser impugnado e debatido por meio da interposição de recurso de apelação, o qual, inclusive, já foi interposto pela defesa do paciente (vide evento 209 dos autos da Ação Penal), de modo que o pronunciamento a respeito implicaria, por óbvio, suprimento da adequada via recursal" (Evento 17,PARECER1, fl. 2).
+Ademais, ainda que a nulidade manifesta do processo constitua hipótese de cabimento (art. 648, VI, do Código de Processo Penal), é firme a compreensão no sentido de ser "inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal" (STF, HC n. 207.229 AgR,rela. Mina. Rosa Weber, Primeira Turma, j. em 16/11/2021). Por todo o exposto, voto no sentido de não conhecer do pedido de ordem.
+Daí o presente writ, em que alegam os impetrantes a nulidade do interrogatório quanto ao direito de silêncio, caracterizando, a seu ver, a nulidade do ato e da sentença condenatória.
+Aduzem que foi suscitada a nulidade em sede de alegações finais, que foi afastada pelo juízo sentenciante e pelo TJSC em sede de habeas corpus, os quais deixaram de reconhecer o cerceamento de defesa.
+Por fim, requerem a concessão da ordem para reconhecer a nulidade do ato de interrogatório e, consequentemente, da sentença conde natória, devendo o paciente aguardar a realização de novo interrogatório em liberdade.
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi apreciada no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022, grifo acrescido)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
