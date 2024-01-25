@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JOAO VICTOR MOREIRA SCORALICK contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, resumido na seguinte ementa:
+HABEAS CORPUS - ASSOCIAÇÃO CRIMINOSA, ROUBO MAJORADO (CONCURSO DE PESSOAS, SUBTRAÇÃO DE VEÍCULO AUTOMOTOR QUE VENHA A SER TRANSPORTADO PARA OUTRO ESTADO E EMPREGO DE ARMA DE FOGO), EXTORSÃO QUALIFICADA PELA RESTRIÇÃO DA LIBERDADE DA VÍTIMA E RECEPTAÇÃO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA - GARANTIA DA ORDEM PÚBLICA - GRAVIDADE CONCRETA DA CONDUTA - MODO DE EXECUÇÃO DOS DELITOS - EMPREGO DE ARMAS DE FOGO, RESTRIÇÃO DA LIBERDADE DA VÍTIMA E CONCURSO DE PESSOAS - INDÍCIOS DE PARTICIPAÇÃO EM ASSOCIAÇÃO CRIMINOSA. 1. A Prisão Preventiva encontra-se fundamentada na gravidade concreta da conduta, evidenciada pelo modo de execução dos Delitos, praticados em Concurso de Pessoas, mediante grave ameaça, exercida com emprego de armas de fogo e restrição da liberdade da Vítima, sendo o Ofendido constrangido a realizar transferências bancárias em conta designada pelos autores, aliado às notícias do envolvimento do Paciente em Associação Criminosa voltada para a subtração de veículos e posterior transporte para o Estado do Rio de Janeiro. 2. A garantia da ordem pública e o perigo gerado pelo estado de liberdade são requisitos que, quando presentes, indicam a insuficiência e inadequação de Medidas Cautelares Diversas da Prisão.
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática da conduta descrita nos arts. 157, § 2º, II, IV e § 2º-A, I; 158, § 3º, 180 e 288, parágrafo único, do Código Penal.
+O recorrente sustenta a nulidade do reconhecimento fotográfico que não teria cumprido o que determina a legislação de regência.
+Ressalta as condições pessoais do recorrente, defendendo a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a revogação da prisão ou, subsidiariamente, a adoção de medidas previstas no art. 309 do Código de Processo Penal.
+É o relatório.
+A matéria aqui suscitada é também objeto do HC n. 883.652/MG. Constata-se, assim, a inadmissível reiteração, conforme a jurisprudência desta Corte Superior, da qual é exemplo o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 34, XVIII, a, ambos do RISTJ, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
