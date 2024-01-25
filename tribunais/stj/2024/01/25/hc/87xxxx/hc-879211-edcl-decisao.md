@@ -1,0 +1,11 @@
+DECISÃO
+Os presentes embargos de declaração (Petição n. 1.228.536/2023), tempestivos, opostos por Maria Jocielia Oliveira Almeida à decisão de minha lavra, em que indeferi liminarmente a impetração (fls. 38/39), devem ser rejeitados.
+Isso porque busca o embargante a reconsideração da decisão que indeferiu liminarmente o Habeas Corpus (fl. 42), apontando omissão quanto à alegação de prisão baseada na gravida abstrata do delito: o decisum que denegou liminarmente o writ, não se manifestou a respeito da ausência de fundamentação idônea e esta foi amplamente discutida no Tribunal, inclusive por duas vezes (fl. 42).
+Entretanto, diferentemente do alegado, a decisão hostilizada enfrentou a fundamentação do decreto preventivo, não restando a omissão apontada. Confira-se (fl. 39):
+Ademais, tem-se que não ficou demonstrado o constrangimento alegado quanto à manutenção da prisão domiciliar, pois fundamentada no descumprimento das condições da medida, nos termos dos acórdão hostilizado - a paciente descumpriu a prisão domiciliar, fato objeto de apreciação nos autos do Processo n. 0201990-76.2023.8.06.0298, uma vez que a paciente saiu de sua residência em 26/4/2023, fora das hipóteses autorizadas pelo Juízo, quando da concessão da prisão domiciliar, sendo então reforçado com a imposição de monitoração eletrônica (fl. 35) -, em consonância com o entendimento desta Corte Superior: o Juízo originário destacou a necessidade da imposição das medidas de comparecimento periódico em juízo, de recolhimento noturno e de monitoramento eletrônico, pois, anteriormente, houve o descumprimento dessas medidas (AgRg no HC n. 779.299/CE, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/9/2023, DJe 14/9/2023).
+Assim, tem-se que, no caso, é evidente o mero inconformismo do embargante com o resultado do julgamento da impetração, que insiste em teses acerca das quais já foi afirmado que não há evidência de constrangimento ilegal, em nítida intenção de utilizar o recurso como meio de modificar a conclusão do julgado, o que é inadmissível.
+Em razão disso, rejeito os presentes embargos de declaração.
+Publiqu e-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO DO MÉRITO. DESCABIMENTO.
+Embargos de declaração rejeitados.
