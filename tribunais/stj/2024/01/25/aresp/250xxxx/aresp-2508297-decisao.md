@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANTONIA DE SOUZA CARVALHO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/01/2023.
+Concluso ao gabinete em: 23/10/2023.
+Ação: declaratória de inexistência de débito e compensação por danos morais movida pela agravante, contra BANCO CETELEM S.A..
+Sentença: julgou liminarmente improcedentes os pedidos da inicial, com julgamento do mérito, com base no reconhecimento da prescrição do direito da agravante, condenando a agravante ao pagamento de multa por litigância de má-fé.
+Acórdão: deram parcial provimento ao agravo interno da agravante, para redução da multa por litigância de má-fé, nos termos da ementa:
+"AGRAVO INTERNO NA APELAÇÃO CÍVEL. EMPRÉSTIMO BANCÁRIO. PRESCRIÇÃO LITIGÂNCIA REDUÇÃO .
+I- A jurisprudência do Superior Tribunal de Justiça é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC. O termo inicial do prazo prescricional da pretensão de repetição do indébito relativo a desconto de benefício previdenciário é a data do último desconto indevido, conforme jurisprudências do STJ/TJMS.
+II - No presente caso, a requerente moveu a máquina estatal com finalidade desleal, qual seja, buscar a nulidade de contrato de empréstimo ao argumento de que o mesmo seria fraudulento, quando na verdade o contrato foi devidamente firmado por ela, o que caracteriza a alteração da verdade dos fatos e a conduta afrontosa da parte, devendo ser condenado à multa por litigância de má-fé.
+III - Considerando as particularidades do caso concreto, impõe-se a redução do valor da multa para R$ 500,00 (quinhentos reais). Precedente desta 1ª Câmara Cível. (Apelação Cível nº 0001761-47.2014.8.10.0123, Relatora: Desª. ANGELA MARIA MORAES SALAZAR, Sessão virtual do dia 02 a 09 de março 2023)."(e-STJ fl. 142/143)
+Recurso especial: alega violação do art. 80, I, do CPC. Pleiteia a exclusão de sua condenação ao pagamento de multa por litigância de má-fé, uma vez que não houve dolo de sua parte.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+Mutatis mutandis, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015". (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+Nesse sentido: AgInt no AREsp n. 2.197.457/CE, Quarta Turma, DJe de 7/6/2023.
+Na hipótese dos autos, o Tribunal de origem condenou a parte ao pagamento da multa por litigância de má-fé, uma vez que deduziu demanda em 15/04/2022, mas o termo final de seu prazo prescricional ocorreu em 09/03/2022, veja-se:
+"No presente caso não há como excluir a multa por litigância de má-fé, porquanto a agravante moveu a máquina estatal com finalidade desleal, qual seja, buscar a nulidade de contrato de empréstimo ao argumento de que o mesmo seria fraudulento, quando na verdade já estaria prescrita sua pretensão, o que, entende esta Corte, caracteriza a alteração da verdade dos fatos e a conduta afrontosa da parte." (e-STJ fl. 146)
+Nesse sentir, houve a condenação da parte ao pagamento da multa por litigância de má-fé unic amente por esta ajuizar demanda prescrita  com implementação do termo final há poucos dias da propositura da ação, diga-se de passagem.
+Frise-se que não se pode confundir má-fé com a equivocada interpretação do direito, sob pena de toda e qualquer demanda julgada improcedente ensejar a condenação ao pagamento de multa por litigância de má-fé.
+Desse modo, encontrando-se o entendimento da Corte de origem em divergência com a jurisprudência deste Tribunal, o recurso deve ser provido para excluir da condenação a multa por litigância de má-fé, com fundamento da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para excluir da condenação a multa por litigância de má-fé.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E COMPENSAÇÃO POR DANOS MORAIS. EDENTE. INAPLICABILIDADE. SUMULA 568/STJ DE MÁ-FÉ. MERO JULGAMENTO IMPROCEDENTE. INAPLICABILIDADE. SUMULA 568/STJ
+1. Ação declaratória de inexistência de débito e compensação por danos morais
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015". (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019). Precedentes do STJ.
+3. Agravo conhecido. Recurso especial conhecido e provido.
