@@ -1,0 +1,13 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Piauí que negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente Lindolfo de Sousa à pena de 9 anos e 6 meses de reclusão, no regime inicial fechado, pela prática do crime do art. 157, § 2º, II, e § 2º-A, I, do Código Penal (três vezes) c/c art. 71 do CP e o recorrente Antônio Carlos à pena de 27 anos e 8 meses de reclusão pelo cometimento dos crimes do arts. 157, § 3º, II (duas vezes), c/c art. 14, II, e art. 73, parte final, todos do CP, aplicando-se aos crimes o concurso formal próprio; art. 157, § 2º, II, e §2º-A, I, do Código Penal (três vezes), c/c art. 71 do CP e art. 180, caput, do CP.
+A defesa aponta a violação dos arts. 29 e 59 do CP alegando, em síntese, que a autoria delitiva não ficou comprovada e que não há elementos idôneos para a exasperação da pena basilar.
+Contrarrazões às e-STJ fls. 889/909.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 954/961.
+É o relatório. Decido.
+A irresignação não deve prosperar.
+Anota-se, incialmente, que a questão relativa à ausência de provas da autoria delitiva não pode ser analisada na via do recurso especial, porquanto "cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação. (Súmula 7/STJ)" (AgRg no REsp n. 1716998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 16/5/2018).
+No mais, também sem razão, isso porque conforme bem entendeu o TJPI, esta Corte possui entendimento firme no sentido de que "havendo mais de uma majorante, uma delas poderá ser considerada como causa de aumento do delito de roubo e, a sobejante, como fundamento a exasperar a pena-base" (AgRg no AREsp n. 1.938.660/ES, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022).
+Exatamente como na hipótese, em que diante da existência de duas majorantes, o concurso de agentes foi como circunstância desfavorável na primeira fase e o uso de arma de fogo foi utilizado na terceira fase como causa de aumento.
+Diante do exposto, com fundamento no art. 932, VIII do CPC, c/c o art. 253, parágrafo único, II, "b" parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
