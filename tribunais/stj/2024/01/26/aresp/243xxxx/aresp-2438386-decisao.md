@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interno interposto contra decisão da Presidência desta Corte, fls. 742/749 (e-STJ), que não conheceu do agravo em recurso especial.
+Em face das razões trazidas no agravo interno, fls. 742/749 (e-STJ), reconsidero a decisão de fls. 738/739 (e-STJ), tornando-a sem efeito, e passo a novo exame do agravo em recurso especial interposto por JOSÉ MARIA GONÇALVES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/07/2023.
+Concluso ao gabinete em: 19/12/2023.
+Ação: indenização, ajuizada por CLEBER JUSTINO DOS SANTOS, em face de ADAILSON TEIXEIRA DE SOUSA e JOSÉ MARIA GONÇALVES.
+Sentença: julgou parcialmente procedente o pedido formulado na inicial, para condenar JOSÉ MARIA GONÇALVES ao ressarcimento do valor indicado à página 61, quanto à compra de novo capacete (R$ 360,00), e à página 62, relativamente ao gasto com medicamentos, R$ 211,80, devendo cada gasto ser corrigido pela Tabela prática do TJSP, desde a data do desembolso e juros desde a citação, bem como ao pagamento de compensação pelos danos morais, em R$ 10.000,00, com correção monetária desde o arbitramento e juros desde o trânsito em julgado. Assim, diante da sucumbência substancial e pelo princípio da causalidade, condenou-o ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor da condenação.
+Acórdão: negou provimento à Apelação interposta por JOSÉ MARIA GONÇALVES e deu provimento à Apelação interposta por CLEBER JUSTINO DOS SANTOS, nos termos da seguinte ementa:
+Responsabilidade civil. Acidente de trânsito. Colisão provocada pelo réu. Incúria, ao efetuar conversão proibida, interceptando trajetória de motocicleta do autor, que transitava regularmente. Dever reparatório. Juízo de parcial procedência. Apelo do réu. Desprovimento. Recurso do autor, a que se dá provimento." (e-STJ fl. 684)
+Embargos de Declaração: opostos, por JOSÉ MARIA GONÇALVES, foram rejeitados. (e-STJ fl. 699/701)
+Recurso especial: alega violação dos arts. 489, § 1º, IV, 494, I, II, 1.022, II, CPC, 944, CC. Além de negativa de prestação jurisdicional, sustenta que deve ser reduzido o valor da compensação pelo dano moral deferida em favor do recorrido, em homenagem à regra do artigo 944 da Lei Substantiva.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional (Violação do art. 1022, II, CPC/15)
+A razão recursal que envolve a suposta omissão do Tribunal de origem reside na alegação de que este, apesar de provocado por meio dos embargos declaratórios opostos pelo recorrente, não se manifestou quanto à preliminar de nulidade processual absoluta.
+Da análise dos autos, consta-se que, quanto ao ponto suscitado, a Corte local consignou, tão somente que "Cogitado restabelecimento da eficácia da decisão de fl. 131, com a extinção do feito, à ausência de recolhimento de custas iniciais, não encontra melhor fomento jurídico, à verificação de que o magistrado da causa reconsiderou aquela decisão (fl. 131), assim prevalecendo, então sem oportuno questionamento recursal." (e-STJ fl. 700/701)
+Malgrado o posicionamento da Corte local, conforme entendimento exarado no acórdão ora recorrido, constata-se que, de fato, não foi analisado o ponto suscitado pelo recorrente, trazido, inicialmente, em suas razões de Apelação e, posteriormente, nos embargos declaratórios opostos, qual seja, a de que a reconsideração contida na r. decisão interlocutória de folha 158 não podia ter ocorrido, pois tal hipótese não está prevista nas normas do artigo 494, incisos I e II, do Estatuto Processual Civil, ou seja, de que há nulidade absoluta e insanável.
+Desta maneira, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanada a omissão suscitada, tendo-se como prejudicadas as demais questões ventiladas no presente recurso.
+Forte nessas razões, reconsidero a decisão de fls. 738/739 (e-STJ) e, em novo julgamento, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para anular o acórdão recorrido e determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre o argumento deduzido nos embargos de declaração opostos pelo recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ART. 1022, II, CPC/15. OMISSÃO. OFENSA CONFIGURADA.
+1. Ação de indenização.
+2. Há ofensa ao art. 1022, II, CPC/15 quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Reconsidero a decisão de fls. 738/739 (e-STJ), tornando-a sem efeito, para conhecer do agravo e conhecer do recurso especial e dar-lhe provimento.
