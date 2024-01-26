@@ -1,0 +1,43 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de fls. 386-391 (e-STJ), reconsidero a decisão de fls. 381-382 (e-STJ) proferida pela Ministra Presidente e passo a novo exame do agravo em recurso especial interposto por COMERCIAL ADRECAL BENEFICIADORA DE MADEIRAS LTDA. contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/05/2023.
+Concluso ao gabinete em: 26/12/2023.
+Ação: Embargos de Terceiro
+Sentença: Julgou "PROCEDENTES os embargos de terceiro para cancelar a penhora de fl. 842 (indexador 904) dos autos 0032792-74.2011.8.19.0019 e manter na posse do bem a sociedade NONNA ATELIER DECONSERTOS LTDA." (e-STJ, fls. 166).
+Acórdão: negou provimento ao recurso de apelação, para reconhecer que o valor da causa dos embargos de terceiro corresponde à quantia de R$ 300.000,00 (trezentos mil reais), correspondente ao valor da avaliação do imóvel, que deve ser utilizado para calcular os honorários sucumbenciais, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. PENHORA. Ação de embargos de terceiro, na qual objetiva a embargante ver declarada a ilegalidade da penhora que recaiu sobre bem de sua propriedade. Sentença que julgou procedente os embargos de terceiro, para cancelar a penhora e manter na posse do bem com a sociedade embargante. Inicialmente, tem -se que a jurisprudência do Superior Tribunal de Justiça de há muito já se orientou no sentido de que o valor da causa nos embargos de terceiro deve corresponder ao valor do bem constrito, não podendo exceder o valor do débito . Nessa toada, considerando que o valor do bem indevidamente constrito restou apurado no laudo de avaliação, e que não logrou a apelante comprovar que o montante do débito atualizado seja inferior ao valor do imóvel, ônus que lhe competia e do qual não se desincumbiu, esse é o valor que deve ser atribuído à causa, tal como asseverou a sentença guerreada, e não o valor atribuído em novembro/2002 na sentença que partilhou os bens do sócio da executada. Por sua vez, tem -se que o princípio da causalidade impõe àquele que deu causa à instauração do processo que responda pelas despesas e custas processuais, mesmo em casos de extinção sem resolução de mérito, pois, uma vez aperfeiçoada a relação jurídica processual, faz jus a parte contrária ao recebimento de honorários sucumbenciais. Assim, considerando que a empresa apelante interpôs a ação de cobrança em 15/12/2011, resta inequívoco que de há muito o executado Sergio Iannibelli não dispunha de qualquer direito sobre o imóvel, como facilmente se constata da certidão do registro de imóveis, esta inclusive acostada pelo próprio exequente quando do pedido de penhora do bem, pelo que não há como olvidar ter a recorrente dado causa indevidamente à instauração do presente processo, de modo a ensejar sua condenação nos ônus sucumbenciais. Sentença mantida. Desprovimento d o recurso. Verba honorária majorada , nos termos do art. 85, §11, do CPC/15."
+Recurso especial: alega violação do art. 492 do Código de Processo Civil, aduzindo julgamento extra petita visto que a sentença confirmada pelo acórdão do TJRJ contrariou as pretensões das partes no que diz respeito ao valor atribuído à causa.
+Decisão monocrática/STJ: proferida pela Ministra Presidente, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ.
+Agravo Interno: a parte agravante alega que impugnou todos os fundamentos da decisão agravada e requer a reconsideração.
+Reitera os argumentos veiculados no recurso especial acerca da violação do art. 492 do CPC por julgamento extra petita no que diz respeito ao valor atribuído à causa. Segundo afirma, a parte autora (agravada), atribuiu o valor de R$ 5.000,00 (cinco mil reais) à causa.
+Postula, de forma subsidiária, que honorários advocatícios sejam fixados por equidade, com fundamento no art. 85, § 8º do CPC e não sobre o valor da causa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca das matérias relativas aos arts. 85, §8º e 492 do CPC, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de provas
+O TJ/AM ao analisar o recurso interposto pela agravante, fundamentou o seguinte (e-STJ, fl. 322):
+" ..
+De seu turno, dispõe o art. 292, §3º, do Código de Processo Civil que, uma vez observada alguma irregularidade em relação ao valor da causa, é permitido ao magistrado determinar a sua correção, inclusive, de ofício, como se verifica de sua redação abaixo transcrita:
+"Art. 292. O valor da causa constará da petição inicial ou da reconvenção e será:
+(..)
+§3º O juiz corrigirá, de ofício e por arbitramento, o valor da causa quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor, caso em que se procederá ao recolhimento das custas correspondentes. "
+Nessa toada, considerando que o valor do bem indevidamente constrito restou apurado no laudo de avaliação, a fls. 848 (index 912) dos autos originários, em R$ 300.000,00 (trezentos mil reais), e que não logrou a apelante comprovar que o montante do débito atualizado seja inferior ao valor do imóvel, ônus que lhe competia e do qual não se desincumbiu, es se é o valor que deve ser atribuído à causa, tal como asseverou a sentença guerreada, e não o valor atribuído em novembro/2002 na sentença que partilhou os bens de Sergio Iannibelli e Livia Almeida Iannibelli .
+Por sua vez, tem -se que o princípio da causalidade impõe àquele que deu causa à instauração do processo que responda pelas despesas e custas processuais, mesmo em casos de extinção sem resolução de mérito, pois, uma vez aperfeiçoada a relação jurídica processual, faz jus a parte contrária ao recebimento de honorários sucumbenciais."
+Desse modo, alterar o decidido no acórdão impugnado, no que diz respeito ao valor da causa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Quanto ao valor da causa utilizado como base na fixação dos honorários sucumbenciais, o TJ/RJ aplicou corretamente a jurisprudência do STJ no sentido de que o valor da causa nos embargos de terceiro deve corresponder ao valor do bem constrito, não podendo exceder o valor do débito (AgInt nos EDcl no AREsp n. 2.045.659/SP, 4ª Turma, DJe de 26/8/2022; AgInt nos EDcl no REsp n. 1.341.147/SP, 4ª Turma, DJe de 26/4/2022; REsp n. 1.689.175/MS, 3ª Turma, DJe de 12/3/2018; AgInt no AREsp n. 862.526/SP, 3ª Turma, DJe de 6/9/2017)
+Portanto, em vista dos argumentos apresentados, é imperativa a manutenção do acórdão que fixou os honorários advocatícios em 10% do valor atualizado da causa, conforme previsto no art. 85, § 2º, do CPC.
+Logo, o recurso especial não merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, reconsidero a decisão (e-STJ, fls. 381-382) e, por conseguinte, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+HONORÁRIOS
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa (e-STJ fls. 323) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ILEGALIDADE DA PENHORA. VALOR DA CAUSA. VALOR DO BEM PENHORADO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. JULGAMENTO EXTRA PETITA (art. 492 do CPC) E HONORÁRIOS POR EQUIDADE (ART. 85, § 8º DO CPC). PREQUESTIOAMENTO. AUSÊNCIA.
+1. Embargos de terceiro em que foi proferida decisão indeferindo pedido de readequação dos honorários de sucumbência.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violado (arts. 85, § 8º e 492 do CPC), impede o conhecimento do recurso especial.
+3. O valor da causa nos embargos de terceiro deve corresponder ao valor do bem constrito, não podendo exceder o valor do débito. Precedentes.
+4. Reconsiderada a decisão do STJ de e-STJ fls. 381-382.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
