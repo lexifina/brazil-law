@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIONE BATISTA, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 4 anos e 8 meses de reclusão a ser cumprida no regime inicial fechado e pagamento de 466 dias-multa, como incurso no art. 33, caput, c/c o art. 46, da Lei n. 11.343/2006, tendo-lhe sido negado o direito de recorrer em liberdade.
+O impetrante sustenta que não haveria elementos concretos passíveis de justificar a manutenção da custódia do réu.
+Afirma que os predicados pessoais do acusado lhe permitiriam responder ao processo em liberdade.
+Requer, liminarmente e no mérito, a concessão do direito de recorrer em liberdade ao paciente, mediante a aplicação de medidas cautelares diversas
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto o magistrado singular fundamentou, suficientemente, a manutenção da prisão preventiva do paciente por ocasião da prolação da sentença condenatória, nos seguintes termos (fl. 68):
+O réu não poderá recorrer em liberdade, uma vez que as circunstâncias que ensejaram a conversão do flagrante em preventiva restam agora incrementadas pela necessidade de se garantir a aplicação da lei penal, haja vista a substanciosa condenação imposta, a ser cumprida em regime inicial fechado, por indivíduo reincidente em crime grave, da Lei de Armas, e também portador de maus antecedentes, apanhado em flagrante de tráfico pelo qual ora condenado, enquanto gozando de liberdade provisória em outro feito no qual se apura a mesma espécie de ilícito, supostamente cometido no mesmo endereço, tudo a reclamar sejam acauteladas a ordem, segurança e saúde públicas, notadamente a vulnerável população daquela região na qual insiste em traficar. Ademais, não há o menor sentido em que, nesse momento de afirmação da culpa, com imposição de pena privativa de liberdade a ser cumprida no regime mais gravoso, o juízo altere situação processual que passou incólume ao crivo das instâncias de sobreposição, perante o Egrégio Trib unal Bandeirante e o Colendo STJ (fls. 145/9, 168/78 e 197/9), principalmente em se considerando, também, o resultado do laudo produzido no exame de dependência, a atestar o comprometimento da capacidade de determinação do custodiado.
+Da mesma forma, a autoridade impetrada motivou adequadamente o indeferimento da liminar pleiteada na origem, consignando que (fl. 19):
+Em que pese os argumentos trazidos na impetração, ante o exame sumário da inicial não vislumbro a presença dos requisitos autorizadores da concessão da medida liminar, que somente é possível quando o constrangimento ilegal é manifesto e detectado de plano, o que não ocorre no caso em apreço.
+Conforme se verifica, a r sentença justificou os motivos pelo qual indeferiu ao paciente o direito de recorrer em liberdade, mantendo sua constrição cautelar, não podendo ser considerada desprovida de fundamentação.
+Anoto que já foi interposto recurso de apelação pela Defesa (fls. 60), o qual se encontra pendente de processamento.
+Logo, ao menos por ora, a manutenção da prisão preventiva do acusado não se apresenta como ilegal ou desproporcional, pois os requisitos estão presentes e sua custódia cautelar atende aos interesses da ordem pública, da conveniência da instrução criminal e da eventual aplicação da lei penal. Nesse momento, não há justificativa para a pretendida concessão monocrática da liberdade provisória, tampouco para aplicação das medidas cautelares previstas no artigo 319, do Código de Processo Penal.
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
