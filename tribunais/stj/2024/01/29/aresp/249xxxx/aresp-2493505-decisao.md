@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELMO PICCARDO FILHO contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega o agravante que a análise do recurso não demanda o reexame de provas.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Cível n. 5035298-71.2021.8.21.0001) assim ementado (fl. 173):
+APELAÇÃO CÍVEL. USUCAPIÃO. BEM MÓVEL. EXTRAORDINÁRIO. REQUISITOS LEGAIS NÃO PREENCHIDOS. SENTENÇA MANTIDA. NO CASO EM APREÇO, A PARTE AUTORA NÃO COMPROVOU QUE MANTEVE A POSSE CONTÍNUA E INCONTESTÁVEL PELO PRAZO DE CINCO ANOS PREVISTO NO ARTIGO 1261 DO CÓDIGO CIVIL. ASSIM, NÃO ESTANDO PRESENTES OS REQUISITOS LEGAIS PREVISTOS NA NORMA LEGAL, IMPÕE-SE A MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. APELO DESPROVIDO.
+Nas razões do recurso especial, alega ofensa aos arts. 1.260 e 1.261 do Código Civil, argumentando que foram preenchidos os requisitos para a usucapião do bem móvel. Assevera que o abandono do veículo ocorreu em 1/7/2017, tendo o interessado retornado ao estacionamento apenas no dia 18/4/2021.
+Aduz ainda que:
+os e-mails juntados no evento 22 (email13, email12), que se baseou a decisão à afirmar que o terceiro fez manteve contato com o autor, são meros textos (bloco de notas), que podem facilmente ter sido criados pelo terceiro. Assim como os documentos a próprio punho juntados sem o nome do autor "COMP2", "INF6", "COMP8".
+Os documentos juntados pelo terceiro interessado são apócrifos e nada comprovam que as partes mantiveram contato e o suposto interesse de DONIZETE no automóvel, não tendo condão para motivar a decisão recorrida.
+É o relatório. Decido.
+O recurso não ultrapassa o juízo prévio de admissibilidade.
+No caso, o Tribunal de origem manteve sentença que julgou improcedente ação de usucapião sob os seguintes fundamentos: a) o pedido baseou-se no art. 1.261 do Código Civil, que exige, para fins de reconhecimento da prescrição aquisitiva da propriedade, a posse pacífica, contínua e ininterrupta do bem, pelo lapso temporal de cinco anos, sendo dispensado o justo título e a boa-fé; b) no período em que o veículo esteve no estacionamento (de 2017 até a propositura da ação em abril de 2022), o terceiro interessado, a quem foi outorgada a procuração para dispor do bem, manteve contato com autor; c) a impugnação quanto à veracidade dos documentos juntados para comprovar o contato do terceiro com o recorrente "deveria ser manejada pelo meio cabível, com produção de prova apta a corroborar a alegação de adulteração, o que não foi feito" (fl. 172).
+Ocorre que o fundamento relativo à ausência de impugnação da veracidade dos documentos não foi impugnado nas razões do recurso especial. Portanto, incide na espécie, por analogia, a Súmula n. 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, para verificar o argumento de que o abandono do veículo ocorreu em 1/7/2017 e o interessado retornou ao estacionamento apenas no dia 18/4/2021, seria imprescindível o reexame de fatos e provas dos autos, providência obstada na via do recurso especial pela Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
