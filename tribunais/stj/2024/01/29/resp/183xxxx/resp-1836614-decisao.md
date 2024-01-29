@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ARIQUEMES LTDA. - CREDISIS CREDIARI, aviado pela alínea a do permissivo constitucional, contra acórdão assim ementado:
+Agravo de instrumento.
+Contadoria judicial. Apresentação de cálculos.
+É correta a decisão que adota as balizas consideradas e referendadas pelos cálculos da contadoria do juízo.
+Devem ser utilizados os cálculos realizados pelo setor que é imparcial aos interesses das partes e goza de presunção de legalidade.
+Sustenta a recorrente que foram vulneradas as disposições dos arts. 502, 505, 507 e 508 do Código de Processo Civil.
+Informa que os Embargos à Execução aviados pelos recorridos foram julgados totalmente improcedentes, de forma a considerar válido, líquido, certo e exigível o valor exigido nos autos principais.
+Assim, uma vez que o valor atribuído na inicial da Ação de Execução de Título Extrajudicial foi consolidado, bastava o acréscimo dos juros legais de 1% ao mês e correção monetária, a partir da data da propositura da ação, até o efetivo pagamento.
+No entanto, o juiz primeiro (seguido pelo Tribunal a quo), ao determinar a devolução ao exequente da quantia de R$ 466.487,82, decidiu novamente questão já pacificada e acobertada pelo manto da coisa julgada, por ter rediscutido o valor inicialmente atribuído à causa: "resta materialmente comprovado nos autos, que por força da Coisa Julgada e Preclusão, ao MM. Juízo de primeiro grau e ao Tribunal a quo, é vedada a revisão do cálculo, encargos ou valor da causa, quiçá de ofício, 03 (três) anos após o trânsito em julgado da r. sentença dos Embargos à Execução" (fl. 163).
+Quanto aos encargos contratuais, afirma que buscou receber seus créditos da maneira menos onerosa para os devedores, aplicando os juros remuneratórios somente até a data de propositura da ação. A partir daí, vem atualizando o valor inicial apenas com juros legais de 1% ao mês e Correção Monetária.
+Todavia, observando estritamente as cláusulas do ajuste contratual, os juros remuneratórios são de 1,5% ao mês, com multa de 2% e Comissão de Permanência, até a data do efetivo pagamento.
+Portanto, persistindo a decisão estadual de rever o valor da causa, são os encargos contratuais que devem prevalecer.
+Sem contrarrazões, conforme certidão de fl. 172, e tendo o recurso especial sido admitido na origem, os autos subiram à esta Corte.
+É o relatório. Decido.
+Os autos originalmente tratam de um agravo de instrumento interposto pelo ora recorrente contra decisão do juiz da execução, mantida pelo acórdão ora recorrido, que determinou a devolução ao executado da quantia de R$ 195.052,01, ao fundamento de que da arrematação e adjudicação realizadas, restou saldo positivo em favor do executado na referida quantia.
+Contudo, o exequente se indispôs com tal decisão, sustentando violação da coisa julgada, por considerar o valor dado à execução de R$ 466.487,82 como estabilizado.
+Sem razão a recorrente, posto que, exceto nas hipóteses em que o valor da causa per si seja o objeto da controvérsia, não é ele que transita em julgado, e sim a decisão judicial sobre o conteúdo patrimonial em discussão.
+O valor da causa corresponde ao valor econômico à causa atribuído e é utilizado como parâmetro para o cálculo das custas judiciais, dos honorários advocatícios e para definir a competência da ação, cabendo ao juiz, inclusive, corrigi-la, nos termos do art. 292, § 3º, do CPC, quando verificar que não corresponde aos valores objeto da demanda ou ao proveito econômico reivindicado pelo autor.
+E, mesmo que pudesse ser considerada as assertivas do recorrente sobre a questão do valor da causa, a alteração das conclusões do Tribunal de origem para aferir-se sobre o desrespeito à coisa julgada demandaria o revolvimento dos fatos e das provas da causa, procedimento vedado em recurso especial devido à incidência da Súmula n. 7 do STJ.
+Não fosse por isso, observa-se que o crédito apurado em favor do executado decorreu do resultado da arrematação e adjudicação de imóveis do devedor, que teriam superado o valor cobrado. Observa-se (fl. 103):
+O cálculo apurou que o saldo devedor, com juros, multa contratual e honorários, era de R$ 529.516,38, que, acrescidos das despesas do processo, totalizou R$ 543.231,67.
+De acordo com o auto de adjudicação acostado (ID 2997002), a agravante adjudicou um imóvel pelo valor de R$531.578,00, restando, portanto, um saldo devedor de R$ 11.653,67, que, atualizado, totalizou R$ 16.125,61.
+Ato contínuo, um imóvel rural dos agravados foi levado a leilão, avaliado em R$ 700.000,00 (ID 2997006), tendo sido arrematado com o pagamento de 30% à vista e o restante parcelado em 10 vezes.
+Assim, a entrada depositada pelo arrematante, R$ 211.177,62, foi o suficiente para quitação total do débito, restando um saldo positivo para os agravados no valor de R$ 195.052,01.
+O que se verifica é que a agravante concedeu um crédito pessoal aos agravados no importe de R$200.000,00, ficando ajustado entre as partes que, sobre esse valor, incidiriam taxas e encargos financeiros de 1,5%; portanto, o valor devido seria de R$ 230.252,72, divididos em 8 prestações de R$ 28.781,59.
+Além disso, as partes também acordaram que o não pagamento geraria multa moratória de 2%. De acordo com o pactuado entre as partes, é possível constatar que o cálculo judicial considerou as parcelas fixas (R$ 28.781,59), já acrescidas dos encargos contratuais (1,5%), atualizando-as com juros de mora, multa de 2%, honorários e despesas processuais, apresentando-se corretos os valores.
+Dessa forma, está correta a decisão do juízo de primeiro grau, devendo ser utilizados os cálculos realizados pelo setor de cálculos, que é imparcial aos interesses das partes e goza de presunção de legalidade.
+Portanto, o inconformismo da recorrente depende da verificação e análise de aspectos eminentemente fáticos, inclusive no que tange aos encargos contratuais ajustados e sua correta aplicação nos cálculos realizados, os quais não podem ser revistos pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula n. 7 desta Corte.
+E, quanto aos encargos, os argumentos da recorrente não estão sustentados na indicação de nenhuma vulneração legal, sendo certo que essa falta caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF.
+Ante o exposto, não conheço do recurso especial.
+EMENTA
