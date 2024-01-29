@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ARIANE JUNQUEIRA DE ANDRADE FARIA GONZAGA e ANA MARIA BEOZZO JUNQUEIRA DE ANDRADE FARIA, contra decisão que inadmitiu recurso especial com fundamento na inviabilidade de análise de ofensa a preceito constitucional e na incidência Súmula n. 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás (Apelação Cível n. 5477906-04.2018.8.09.0051) assim ementado (fls. 610-611):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C DANO MORAL. RECONVENÇÃO. AÇÃO MONITÓRIA. EMBARGOS MONITÓRIOS. SENTENÇA UNA. CLÁUSULAS CONTRATUAIS QUE ESTABELECEM O INÍCIO DA RESPONSABILIDADE DO ADQUIRENTE PELOS DÉBITOS ORIUNDOS DA EMPRESA. INEXISTÊNCIA DE MENÇÃO EXPRESSA DE QUE OS VEÍCULOS EM DEBATE SERIAM PARTE INTEGRAL DO OBJETO CONTRATUAL. AÇÃO DECLARATÓRIA JULGADA IMPROCEDENTE. RECONVENÇÃO JULGADA PARCIALMENTE PROCEDENTE. EMBARGOS MONITÓRIOS JULGADOS IMPROCEDENTES.
+1. No tocante à ação monitória nº 5477906.04.2018.8.09.0051, ressoa dos autos em epígrafe que as cláusulas 2ª e 3ª do contrato realizado entre as partes são expressas ao afirmar que as compradoras entraram na posse do estabelecimento no dia 09 de fevereiro de 2018, passando a vigorar todos os efeitos legais desta data em diante entre as partes, sendo que deveriam responder pelos débitos do estabelecimento comercial a partir desta data.
+2. Ademais, restou decidido na cláusula 5.6 que todos os pagamentos devidos pelo vendedor em decorrência dos contratos, acordos, garantias ou compromissos, dos quais o mesmo é parte e que são relacionados a empresa foram efetuados em suas datas de vencimento, não existindo atraso, disputa ou pendência referente aos mesmos. E, ainda, que o vendedor permaneceria responsável pelos pagamentos devidos até a data de 09 de fevereiro de 2018, sendo que os pagamentos posteriores passaram a ser de responsabilidade exclusiva das compradoras. Do atento perlustrar dos autos, percebe-se que os débitos deduzidos em juízo são de momento posterior ao dia 09 de fevereiro, razão pela qual os pleitos autoriais não podem ser acolhidos.
+3. No que atine ao argumento de que dois veículos integram o objeto do contrato, deve-se salientar que a cláusula primeira do instrumento contratual estabeleceu que o objeto da compra e venda, além da empresa Festa Fácil Buffet, Locações E Eventos Eirelli -ME, são o estoque de mercadorias, a continuidade da personalidade jurídica da empresa, compreendida entre documentação contábil e uso da denominação social "nutri facil", ativos operacionais e o centro de distribuição que constituem o estabelecimento e os contratos transferidos, os créditos e os débitos. Destarte, verifica-se que não há menção, em momento algum, à entrega dos veículos mencionados. Ademais, o inventário de bens juntado pelas apeladas, trata-se de documento unilateral que não comprova que houve acordo entre as partes para a entrega de todos os bem, razão pela qual as apeladas não se desincumbiram do ônus de provar o alegado. Consequentemente, os veículos em questão devem ser restituídos ao apelado, acolhendo-se o pleito reconvencional do apelado.
+4. A ação monitória é processo híbrido, tendo características de processo executivo no início do rito e, com os embargos monitórios, que tem força de contestação, passa a ter características de processo de conhecimento, com toda possibilidade de prova admitida em direito (art. 700 e seguintes CPC). A petição inicial acompanhada do contrato entabulado entre as partes e cheques é suficiente para comprovar a existência do direito alegado e exigir do devedor o pagamento da dívida (art. 700, I, CPC).
+APELAÇÃO CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Nas razões do recurso especial, as recorrentes apontam violação dos arts. 93, IX, da Constituição Federal e 489, § 1º, IV, do Código de Processo Civil. Defende, em síntese, que (fl. 629):
+Não foram analisadas as datas dos fatos geradores das dívidas adquiridas pelo Recorrido, que deverão ser impostas a ele, face ao acordo de vontade entre as partes.
+Ou seja, houve expressa violação quanto aos argumentos expostos pelas Recorrentes, com as devidas provas e apontamentos feitos documento por documento, que comprovam as alegações.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 669-691).
+É o relatório. Decido.
+O recurso não deve prosperar.
+Quanto á alegada violação dos arts. 93, IX, da Constituição Federal, ressalte-se que não é cabível, em recurso especial, a apreciação de norma constitucional, sob pena de usurpação da competência do STF, nos termos do art. 102, III, da CF.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE PELO SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  AGRAVO INTERNO IMPROVIDO.
+1. Carece a esta Corte Superior competência para enfrentar suposta afronta a normas constitucionais, ainda que para fins de prequestionamento da matéria, sob pena de usurpação do mister do Supremo Tribunal Federal.
+ ..
+6. Agravo interno improvido. (AgInt nos EDcl no AREsp n. 2.108.267/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL.  .. . VIOLAÇÃO À NORMA CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE PELO STJ EM SEDE DE RECURSO ESPECIAL.  .. . AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Não compete ao STJ analisar, em sede de especial, alegação de contrariedade a norma constitucional, nos termos do art. 105, III, "a", da CF. .. .
+10. Agravo interno não provido. (AgInt no REsp n. 1.920.307/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+No mérito, a Corte de origem analisou as questões apresentadas e concluiu o seguinte (fls. 601-605):
+Primeiramente, é necessário destacar que da análise pormenorizada do instrumento contratual juntado aos autos, resta evidente que os débitos são de responsabilidade das compradoras.
+ ..
+Ademais, a cláusula 3ª do contrato de compra e venda estabeleceu que a partir do dia 09 de fevereiro de 2018,as recorrentes passariam a responder pelos débitos relacionados ao estabelecimento, haja vista que a partir da referida data, também faziam jus aos créditos. Por oportuno, transcrevo a cláusula 3ª do referido contrato:
+ ..
+Neste mesmo diapasão, a cláusula 5.6 do instrumento contratual atesta que a parte recorrida efetuou o pagamento dos débitos devidos até 09/02/2018, sendo o apelado responsável pelos débitos até esta data. Confira-se:
+ ..
+Nada obstante, o conteúdo das cláusulas 6.3, 7.4 e 7.5 revelam que as apelantes assumiram o ativo e o passivo da empresa, isentando o apelado das obrigações advinda a partir de 09 de fevereiro de 2018, tendo constatado que quaisquer obrigações ou multas derivadas de qualquer dos contratos transferidos, incluindo os contratos de trabalho, serão de responsabilidade das Apelantes.
+ ..
+Dessa feita, a interpretação do contrato revela, de forma indene de dúvidas, que os débitos mencionados pelas recorrentes seriam de sua própria responsabilidade.
+ ..
+Sendo assim, analisando as supostas dívidas alegadas, percebo que todas são de momento posterior ao dia 09 de fevereiro (conforme se infere no ev. 01 - arqs. 10 a 16), não devendo os pedidos autorais serem, portanto, acatados.
+ ..
+Assim, não há como acolher a pretensão das autoras, pois não conseguiram se desincumbir-se de seu ônus probatório previsto no art. 373, inciso I, do CPC.
+No que se refere à alegada  violação  dos arts. 489, § 1º, IV, do Código de Processo Civil, não assiste razão à recorrente, porquanto o Tribunal a quo examinou e concluiu que as autoras "não conseguiram se desincumbir-se de seu ônus probatório previsto no art. 373, inciso I, do CPC" (fl. 605).
+Desse modo, as questões que delimitam a controvérsia foram analisadas pela Corte de origem, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No caso, o Tribunal de origem consignou que "a interpretação do contrato revela, de forma indene de dúvidas, que os débitos mencionados pelas recorrentes seriam de sua própria responsabilidade" (fl. 604), pois de acordo com as cláusulas 6.3, 7.4 e 7.5 (fl. 603):
+ ..  as apelantes assumiram o ativo e o passivo da empresa, isentando o apelado das obrigações advinda a partir de 09 de fevereiro de 2018, tendo constatado que quaisquer obrigações ou multas derivadas de qualquer dos contratos transferidos, incluindo os contratos de trabalho, serão de responsabilidade das Apelantes
+Todavia, as agravantes em momento algum rebateram os fundamentos do acórdão recorrido, suficientes para a manutenção do julgado - cláusula de insenção -, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. BAIXA NA JUNTA COMERCIAL. PERSONALIDADE JURÍDICA. EXTINÇÃO. LEGITIMIDADE PASSIVA. INEXISTÊNCIA. SÚMULAS N. 7 E 83 DO STJ. LIQUIDAÇÃO COMPLETA DA EMPRESA. SÚMULAS N. 282 E 356 DO STF. FUNDAMENTO NÃO OBJETADO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+ ..
+4. A subsistência de fundamento jurídico não objetado obsta o conhecimento do recurso especial, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.080.338/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL. INCLUSÃO DE PARCELAS DEVIDAS A EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COISA JULGADA. TRANSCURSO DO PRAZO DECADENCIAL PARA DESCONSTITUIR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+ ..
+4. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido. (AgInt no REsp n. 2.016.002/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ademais, a pretensão de novo pronunciamento a respeito dos temas elencados, implicaria análise contratual, documentos e reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A esse respeito :
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZATÓRIA. NEGÓCIO JURÍDICO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. RESSARCIMENTO DE VALORES. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusula contratual (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos e o contrato celebrado para concluir pela ilegitimidade passiva dos réus quanto à obrigatoriedade de pagar os encargos cobrados pelos autores. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.030.561/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+Quanto à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte ora agravante, pois a tese arguida em relação ao apelo especial com base na alínea a do permissivo constitucional foi afastada pela impossibilidade de reexame de prova (Súmula n. 7 do STJ), o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Nessa linha de entendimento, os seguintes precedentes: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos term os do art. 85, § 11, do CPC, tendo em vista que os honorários já atingiram o patamar máximo previsto por lei.
+Publique-se. Intimem-se.
+EMENTA
