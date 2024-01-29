@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em re curso especial interposto por ARIOMAR DOS SANTOS SOUZA contra decisão que inadmitiu recurso especial com fundamento na ausência de violação dos arts. 489 e 1.022 do CPC e na incidência da Súmul a n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1003025-57.2021.8.26.0296) nos autos de ação de indenização por danos materiais e morais.
+O julgado foi assim ementado (fl. 156):
+APELAÇÃO - RESPONSABILIDADE CIVIL - Ação de reparação de dano moral e material - Ação julgada improcedente - Autor que alega que foi detido injustamente, pela prática de estelionato, após reconhecimento errado realizado pelo requerido - Autor detido e levado para a delegacia de polícia - Após a detenção do autor, o requerido se retratou do reconhecimento e, mesmo assim, ele permaneceu detido por 5 dias e somente foi liberado após o pagamento de fiança - Autor detido para averiguação - Ausência de má-fé do requerido no reconhecimento- Tão logo teve ciência do equívoco ele se retratou na polícia - Ausência de liberação do autor por fatores que não podem ser atribuídos ao requerido - Ato ilícito não configurado - Sentença mantida - Aplicação do disposto no art. 252 do Regimento Interno deste Tribunal - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 489 e 1.022, II, do CPC e 186 e 927 do CC.
+Aduz que o acórdão recorrido deixou de prestar a jurisdição adequada no tocante aos argumentos acerca do cabimento da indenização por danos materiais e morais.
+Sustenta que a simples imputação falsa de crime seria suficiente para a parte recorrida ser responsabilizada civilmente pelos danos causados.
+Defende que "o ato do reconhecer o recorrente como autor de um crime, mesmo sem ter qualquer certeza, somente apoiado na raiva e no desejo de ressarcimento foi um ato absolutamente imprudente, já que a raiva e nervosismo não podem justificar a prática de atos ilícitos, são sentimentos demonstrativos de culpa" (fl. 174).
+Requer o provimento do recurso para que seja deferido o pedido de indenização pelos danos material e moral sofridos.
+As contrarrazões ao recurso especial foram apresentadas às fls. 194-197.
+O apelo extremo foi inadmitido (fls. 198-200), tendo sido apresentado o agravo em recurso especial (fls. 203-217).
+A contraminuta de agravo foi apresentada às fls. 220-223 .
+É o relatório. Decido.
+O recurso não merece prosperar.
+Afasta-se a alegada ofensa aos arts. 489 e 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+O órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No que tange ao cabimento do dano material e do dano moral, o Tribunal de origem entendeu que não houve ato ilícito e, portanto, não ficou configurado o dever de indenizar. Confira-se trecho do voto condutor do acórdão da apelação (fls. 158-159, destaquei):
+No caso, a despeito dos evidentes danos sofridos pelo apelante em razão de sua prisão e da instauração de inquérito policial, não há como atribuir a prática de ilícito ao apelado.
+O apelado reconheceu o apelante como sendo o autor do estelionato, após o apelante ter sido encaminhado para a Delegacia de Polícia. Ressalte-se que os policiais que detiveram o apelante afirmaram que ele se encontrava nas proximidades do local dos fatos, em outra agência bancária, em atitude suspeita e, apresentando as características físicas dadas pela vítima do estelionato. Ademais, afirmaram que quando detido, não negou os fatos, permanecendo em silêncio. Assim, toda a situação contribuiu para a detenção do apelante e, não somente, o reconhecimento realizado pelo apelado.
+Não se pode olvidar, ademais, que tão logo o apelado percebeu o equívoco na identificação do autor do delito, dirigiu-se à delegacia de polícia e se retratou do reconhecimento.
+Assim, não houve má-fé do apelado no reconhecimento do apelante. Não houve intenção de incriminá-lo falsamente.
+Como bem ponderado pelo MM. Juiz de primeiro grau: "Todavia, mesmo com a retratação de tal reconhecimento, o Ministério Público opinou pela concessão da liberdade provisória mediante o recolhimento da fiança já arbitrada, o que corrobora a alegação do réu de que a prisão foi mantida e o inquérito policial prosseguiu com outras investigações em razão de outros elementos indiciários existentes, mesmo após se retratar do reconhecimento pessoal" (fls. 120).
+Dessa forma, não há que se falar em ilícito e, tampouco, em indenização.
+Com efeito, o reconhecimento equivocado de um criminoso pela vítima, não configura, por si só, prática de ato ilícito por parte do apelado.
+Ainda que a conclusão da investigação policial seja a de arquivamento do procedimento, a comunicação de eventual crime, desde que não evidenciada má-fé, não é uma atitude ilícita, apenas o exercício regular de um direito.
+Em casos como o dos autos, a jurisprudência é pacífica no sentido de que a comunicação de ato ilícito ao órgão competente para apuração, desde que não feita com má-fé ou com intenção deliberada de prejudicar a parte denunciada, não enseja indenização por danos morais, ainda que a ação culmine pela absolvição após regular instrução.
+Assim, não há falar em omissão ou ausência de fundamentação no acórdão recorrido, uma vez que "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+Em relação à alegação de ofensa aos arts. 186 e 927 do CC, como visto acima, a Corte a quo, soberana na análise do arcabouço fático-probatório dos autos, concluiu, de forma fundamentada, que não houve conduta ilícita da parte ora recorrida e, portanto, não ficou configurado o dever de indenizar.
+Registre-se que, consoante entendimento jurisprudencial do STJ, a modificação das conclusões a que chegou o Tribunal a quo - como pretende o recorrente - quanto aos pressupostos para a concessão da indenização por danos morais demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em recurso especial, nos termos da Súmula n. 7 desta Corte.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. AUSÊNCIA DE COMPROVAÇÃO DE ATO ILÍCITO. ALTERAÇÃO. SÚMULA N. 7/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. Reverter a conclusão do Tribunal local para acolher a pretensão recursal, quanto à inexistência de ato ilícito praticado pelos agravados, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado devido à natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido. (AgInt no AREsp n. 2.064.124/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022, destaquei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem, a partir dos elementos fáticos constante dos autos, concluiu não ter o recorrido agido com má-fé em relação à denúncia feita contra o recorrente e afastou a possibilidade de pagamento de indenização por danos morais.
+2. Rever os fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, com o revolvimento de provas, procedimento vedado nesta via recursal, ante o teor do enunciado sumular n. 7 deste Tribunal.
+3. Agravo regimental não provido. (AgRg no AgRg no AREsp n. 624.638/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe de 5/5/2015, destaquei.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte agravante, observados os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
