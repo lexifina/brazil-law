@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SABEMI SEGURADORA S.A. contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins (Apelação n. 0002317-58.2020.8.27.2712) nos autos de ação declaratória de inexistência de relação jurídica cumulada com repetição de indébito e danos morais.
+O julgado foi assim ementado (fls. 134-135):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DEINEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DEINDÉBITO E DANO MORAL. CONTRATO DE SEGURO. NÃOCOMPROVADA A ANUÊNCIA DO CONSUMIDOR. DESCONTOINDEVIDO. AUSÊNCIA DE CONTRATO NOS AUTOS. DANOSMORAIS CONFIGURADOS. DANOS MATERIAIS. JUROS DEMORA A CONTAR DO EVENTO DANOSO. SÚMULA 54 DO STJ. RESPONSABILIDADE EXTRACONTRATUAL. PEDIDOIMPLÍCITO. REFORMA EX OFFICIO DA SENTENÇA. RECURSOPROVIDO.
+1- Inexistindo nos autos qualquer prova da relação jurídica travada entre as partes, no tocante à contratação de seguro capaz de conferir legitimidade aos descontos efetivados no benefício previdenciário da parte autora sob a nominal de "SABEMISEGUROS", patente o dever da instituição financeira ré em indenizá-la pelos danos morais suportados.
+2- A privação do uso de parte do parco benefício previdenciário percebido pela autora, em virtude da realização de descontos indevidos, ultrapassa os limites do mero aborrecimento e, portanto, configura dano moral.
+3- Dano puro ou "in re ipsa" configurado, o qual não depende da existência de reflexos patrimoniais nem da prova dos incômodos sofridos.
+4 - O valor da condenação por danos morais deve observar os critérios da razoabilidade e proporcionalidade, de modo a assegurara justa reparação do prejuízo, sem proporcionar enriquecimento sem causa do autor, além de levar em conta a capacidade econômica fática do réu.
+5 - O ideal é que a compensação pecuniária por ato ilícito seja estabelecida dentro de critérios que não privilegiem quaisquer das partes, mas que, na realidade, seja condizente com a dor experimentada.
+6 - Dada as particularidades do caso em comento, bem como observados os princípios da moderação e razoabilidade, entendo que a fixação do quantum indenizatório a título de dano moral no valor de R$ 10.000,00 (dez mil reais) se mostra justo e moderado, não propiciando, no caso em exame, o locupletamento indevido da vítima e nem valor irrisório a ser suportado por parte do causador do dano.
+7- Reforma ex officio da sentença quanto ao momento de incidência dos juros de mora sobre o valor da repetição do indébito, uma vez que estes, por se tratar de responsabilidade extracontratual e sobos auspícios da súmula 54 do STJ, devem incidir a partir do evento danoso.
+8 - Apelação conhecida e provida. Não há pressupostos para majoração nesta instância dos honorários recursais a cargo da instituição apelada.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta, além de dissídio jurisprudencial, violação dos arts. 186 e 927 do Código Civil.
+Sustenta que "a cobrança estava amparada em contratação legítima" (fl. 191) e que, portanto, não estão presentes os requisitos configuradores da obrigação de indenizar.
+Requer o provimento do recurso a fim de que seja afastada a obrigação de indenizar.
+Transcorreu in albis o prazo para apresentação das contrarrazões ao recurso especial (fl. 202).
+O apelo extremo foi inadmitido (fls. 208-211), tendo sido apresentado o agravo em recurso especial (fls. 218-223).
+Transcorreu in albis o prazo para apresentação da contraminuta de agravo (fl. 230).
+É o relatório. Decido.
+O recurso não merece prosperar.
+Em relação à alegada ofensa aos arts. 186 e 927 do Código Civil, sob a tese de que "a cobrança estava amparada em contratação legítima" (fl. 191), o Tribunal de origem entendeu que, no caso, a instituição financeira não juntou nenhum documento hábil para comprovar a legalidade do acordo celebrado, bem como que lhe incumbia comprovar a contratação objeto da cobrança negada pela autora. Confira-se trecho do voto condutor do acórdão da apelação (fl. 123, destaquei):
+Da análise detida dos autos, vislumbra-se que a instituição demandada não promoveu a juntada do contrato impugnado, ônus probatório que lhe incumbia - consoante distribuição dos encargos preconizada no art.373, II, do Código de Processo Civil - ao passo que a autora comprovou, suficientemente, o desconto do seguro em seu benefício.
+Assim, a instituição ré, apesar de sustentar a legalidade da contratação, não juntou nenhum documento que pudesse comprovar a alegação, o que se levou à conclusão de que a parte autora não contratou seguro de modo a autorizar o desconto em sua conta.
+Logo, por competir ao réu, como já afirmado em linhas pretéritas, o ônus de provar fato impeditivo, modificativo ou extintivo do direito do autor delineado na peça inaugural, e não se desincumbindo de tal obrigação, outra conclusão não cabe senão a de que a cobrança do aludido seguro é indevida, tal como sabidamente entendeu o d. magistrado primevo.
+Portanto, incontroversa a inexistência de relação negocial entre as partes, pois, não comprovou a contratação regular e válida do seguro capaz de conferir legitimidade à cobrança, patente o dever da recorrida em indenizá-la pelos danos morais suportados.
+Como visto acima, a Corte a quo, soberana na análise do arcabouço fático-probatório dos autos, concluiu, de forma fundamentada, que a instituição financeira não comprovara a contratação do seguro e, portanto, seriam ilícitos os descontos realizados no benefício previdenciário.
+Nas razões do recurso especial, a parte recorrente não refutou os fundamentos do acórdão recorrido em relação a não ter juntado nenhum documento hábil para comprovar a legalidade da contratação, mas restringiu-se a defender a inexistência dos requisitos configuradores da obrigação de indenizar.
+Assim, em momento algum a parte rebateu os fundamentos do acórdão recorrido, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS PARTES RÉS.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões.
+Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Para derruir as conclusões do Tribunal de piso e acolher o inconformismo recursal no sentido de verificar qual a natureza da pretensão da autora na demanda, bem assim a ocorrência da alegada prescrição, segundo as alegações vertidas nas razões do apelo extremo, seria imprescindível a análise de cláusulas contratuais e o revolvimento de matéria fática, providências vedadas na via estreita do recurso especial, ante o óbice das Súmulas 5 e 7/STJ.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3.1. Seria imprescindível derruir a afirmação do Órgão de origem, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.083.957/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022, destaquei.)
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrição do art. 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi aqui atendido.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
