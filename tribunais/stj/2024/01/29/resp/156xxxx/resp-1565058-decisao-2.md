@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COMPANHIA INTERNACIONAL DE SEGUROS (EM LIQUIDAÇÃO EXTRAJUDICIAL) contra acórdão do TJSP assim ementado (fl. 438):
+AGRAVO DE INSTRUMENTO- Despesas condominiais- Cobrança -Instituição financeira em liquidação extrajudicial- Penhora e adjudicação de 156 lotes de propriedade da CIS Companhia Internacional de Seguros, em liquidação extrajudicial - Arresto no rosto dos autos de ação expropriatória - Dívida propter rem em relação aos lotes dos quais se originaram o débito condominial -Inaplicabilidade da Lei nº 6.024/74 no caso dos lotes - Débito cuja origem não decorre da atividade da instituição - Situação, porém, que não alcança o arresto no rosto da ação de desapropriação, cujos recursos devem atendera o conjunto de credores - Recurso a que se dá provimento, em parte, apenas para manter a penhora dos 156 lotes localizados nas dependências do condomínio, mantida a decisão atacada em relação à penhora do crédito relativo ao bem expropriado.
+Aduz a recorrente que a liquidação extrajudicial de uma sociedade seguradora é decretada quando configurada a insolvência econômico-financeira, na forma da alínea c do art. 96 do Decreto-Lei n. 73/1966. Destaca que tal procedimento tem por escopo o pagamento dos débitos de forma justa e igualitária e em conformidade com o princípio par conditio creditorum.
+Informa que o crédito reclamado consiste em penhora de quantia em dinheiro no rosto dos autos de desapropriação de imóvel da agravada e em penhora dos 156 lotes localizados nas dependências do condomínio.
+Assim, defende que, de acordo com as disposições do art. 18 da Lei n. 6.024/1974, uma vez que esteja em liquidação, o certo é que as ações e execuções que impliquem direitos e interesses relativos a seu acervo devem ser suspensas. E, no caso, tais interesses referem-se aos seus bens móveis e imóveis.
+Afirma que as despesas condominiais, mesmo consistindo em gravames propter rem, submetem-se ao concurso de credores e, portanto, sujeitam-se à suspensão prevista na norma indicada.
+Requer, ao final, o provimento do presente recurso para que a execução seja suspensa, levantando-se as penhoras efetuadas em relação aos 156 lotes localizados nas dependências do condomínio.
+Sem contrarrazões, conforme a certidão de fl. 609, o recurso foi admitido na origem.
+É o relatório. Decido.
+No que diz respeito ao art. 18 da Lei n. 6.024/1974, a matéria está bem exposta, autorizando o conhecimento do recurso especial.
+Observa-se que o acórdão recorrido amparou-se no fundamento de que, se, de um lado, o art. 18 da mencionada lei estabelece que as execuções já iniciadas, uma vez decretada a liquidação extrajudicial, devem ser suspensas, de outro lado, a partir de uma análise dos débitos executados, por serem despesas condominiais, têm natureza propter rem, sendo direito real sobre determinada coisa. Assim, tais despesas não se submetem à suspensão no aludido dispositivo.
+Segundo a jurisprudência dominante do STJ, não há nenhuma dúvida sobre a natureza dos débitos condominiais, no sentido de serem obrigações propter rem. Confira-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL. COTAS CONDOMINIAIS. ENCARGOS DA MASSA. CRÉDITO NÃO SUJEITO A HABILITAÇÃO NO QUADRO GERAL DE CREDORES. OBSERVÂNCIA DA ORDEM DE PRIVILÉGIO DOS CRÉDITOS ANTECEDENTES AOS ENCARGOS DA MASSA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 124, § 1º, III, do Decreto-Lei 7.661/45 (antiga Lei de Falências), os débitos condominiais, por se tratarem de obrigação de natureza propter rem, não podem ser considerados da pessoa do falido, porquanto constituem ônus relativo ao próprio imóvel, constituindo-se, portanto, em encargos da massa.
+2. Agravo regimental desprovido. (AgRg no REsp n. 590.632/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/9/2013, DJe de 22/10/2013.)
+Nas hipóteses de recuperação judicial e falência, à luz da Lei n. 11.101/2005, os encargos condominiais, mesmo que anteriores à recuperação, enquadram-se no conceito de despesas necessárias à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências. O mesmo entendimento se aplica ao art. 18, a, da Lei n. 6.024/1974.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL. COTAS CONDOMINIAIS. ENCARGOS DA MASSA. CRÉDITO NÃO SUJEITO À HABILITAÇÃO NO QUADRO GERAL DE CREDORES. INCIDÊNCIA DA SÚMULA 83/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A decisão recorrida se mostra em sintonia com o entendimento desta Corte de que o encargo condominial, ainda que anterior ao pedido de quebra, enquadra-se no conceito de despesa necessária à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências. Incidência da Súmula 83/STJ.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido. (AgInt no AgInt no AREsp n. 769.043/SP, relator Ministro Marco Aurélio Bellizze, Terc eira Turma, julgado em 28/9/2020, DJe de 7/10/2020.)
+Portanto, irreparável o acórdão no ponto.
+Ante o exposto, conheço do recurso especial, mas nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
