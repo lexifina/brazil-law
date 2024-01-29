@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual JOSE SIQUEIRA LEITE insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 650):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA. RECURSOMANIFESTAMENTE PROTELATÓRIO.1 - Hipótese de agravo interno contra a decisão monocrática que, nos termos do art. 932, inciso III, doCódigo de Processo Civil, não conheceu do agravo de instrumento, tendo em vista que foi proferidasentença no processo originário, declarando a execução extinta. O próprio aqui agravante interpôs recursode apelação naquele feito, o qual é julgado na data de hoje. Veja-se que a apelação foi interposta em20/10/2020, antes do presente agravo interno, protocolado em 10/11/2020.2 -Assim, impertinente agravo interno. Agravo interno não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 669/5675).
+Nas razões de seu recurso especial, a parte ora agravante indica violação aos arts. 313, I, 485, IV, 687 a 690, 692 e 1.022 do Código de Processo Civil (CPC) de 2015 e 674, 682, I, e 689 do Código Civil (CC) de 2002 aos argumentos de que: (a) há contradição sobre pontos essenciais ao deslinde da controvérsia; (b) há nulidades processuais consistentes relativas à ausência de comprovação do óbito da parte autora e ausência de intimação dos eventuais sucessores.
+A parte ora agravada apresentou as contrarrazões (fls. 705/712).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+De início, destaco que é deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 1.022 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+No mérito, a alegação de violação dos arts. 313, I, 485, IV, 687 a 690 e 692 do CPC/2015 e 674, 682, I, e 689 do CC/2002 não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
