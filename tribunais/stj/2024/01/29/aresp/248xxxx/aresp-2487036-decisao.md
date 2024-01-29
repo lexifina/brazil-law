@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ODAIR MACIEL e OUTRA contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alegam os agravantes que a análise do recurso não demanda o reexame de provas.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 1001998-38.2019.8.26.0125) assim ementado (fl. 300):
+Apelação - Reivindicatória - Usucapião constitucional urbana verificada - Demonstrada a posse mansa e pacífica do bem por tempo mais que suficiente para o reconhecimento da usucapião - Insurgência tardia da parte autora - Conjunto probatório que corrobora o entendimento da sentença - Recurso improvido.
+Nas razões do recurso especial, alega ofensa ao art. 1.240 do Código Civil, argumentando que a recorrida residiu em outra cidade por pelo menos 1 ano e que, em 5/12/2018, foi notificada extrajudicialmente para desocupar o imóvel, tendo sido a ação reivindicatória ajuizada em 28/8/2019. Assim, não se configurou a posse do imóvel de forma ininterrupta e sem oposição pelo período de 5 anos.
+É o relatório. Decido.
+O recurso não ultrapassa o juízo prévio de admissibilidade.
+No caso, o Tribunal de origem manteve sentença que julgou improcedente ação reivindicatória por entender o seguinte: a) apesar de os autores ora recorrentes e Maria Aparecida Gaspar constarem como coproprietários de ambos os lotes, comprovou-se nos autos que os autores sempre ocuparam o lote 28-A, e a falecida, o lote 28-B, edificando, cada qual, respectivamente, em seu respectivo limite territorial; b) o imóvel reivindicado na petição inicial corresponde ao lote 28-B, sobre o qual os recorrentes nunca tiveram a posse, apesar de constarem formalmente como coproprietários; c) os r ecorrentes não contribuíram com a obra edificada no lote 28-B; d) a recorrida utiliza o imóvel com animus domini por mais de 5 anos ininterruptamente, atendendo aos requisitos do art. 1.240 do Código Civil.
+Ocorre que os fundamentos relativos à ausência de posse direta e à inexistência de contribuição na edificação realizada no lote 28-B não foram impugnados nas razões do recurso especial. Portanto, incide na espécie, por analogia, a Súmula n. 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. "
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
