@@ -1,0 +1,40 @@
+DECISÃO
+Tratam os autos de recurso especial interposto por RINALDO MOREIRA MARQUES, com fulcro nas alíneas a e c do permissivo constitucional, contra acórdão do TJSP assim ementado:
+DISSOLUÇÃO PARCIAL DE SOCIEDADE - Preliminar de cerceamento de defesa acolhida - Efetivamente tempestiva a contestação - Por imperativo de boa -fé, não pode a parte ser prejudicada por divergência constatada entre os autos físicos e o quanto se extraiu da consulta via eletrônica, secundada essa assertiva pela constatação de que os autos foram frequentemente movimentados a pedido do autor antes mesmo da juntada do mandado de citação - A data - marco para apuração dos haveres, no caso concreto, é a data da sentença -Sentença declaratória. Recurso provido em parte.
+Interpostos embargos declaratórios, foram acolhidos para fixação do termo inicial dos juros de mora. Observa-se:
+EMBARGOS DE DECLARAÇÃO - Os embargos de declaração comportam acolhida parcial, para complemento do julgado quanto às verbas de sucumbência e no tocante à incidência de juros e correção monetária na apuração de haveres. Embargos acolhidos em parte.
+É sobre esta parte que se dirige o inconformismo do recorrente manifestado no recurso especial.
+Para tanto, sustenta que foram violadas as disposições dos arts. 397 e 405 do Código Civil e 475-J do Código de Processo Civil.
+Sustenta, em suma, que os juros de mora não podem ser contados a partir da citação porque a obrigação do recorrente de pagamento de haveres é ilíquida e incerta até que seja realizada a efetiva apuração.
+Afirma que não é réu no presente feito, mas autor da Ação de Dissolução de Sociedade e que a determinação legal do art.405 do Código Civil direciona-se ao réu-devedor.
+Também afirma que, por via reflexa, foi violado art. 475-J do CPC, tendo em vista que a intimação nele referida ainda não ocorreu nos presentes autos.
+Aponta como paradigma divergente o acórdão do REsp n. 1.108.933, de relatoria do Ministro César Asfor Rocha.
+O recurso, embora não admitido na origem, subiu a esta Corte por força do provimento do agravo em recurso especial pelo Ministro Luis Felipe Salomão.
+Contrarrazões às fls. 817-823.
+É o relatório. Decido.
+A insurgência contida no recurso refere-se ao termo inicial dos juros de mora, fixados na data da citação pelo acórdão recorrido.
+O recurso não pode ser conhecido pela alínea c do permissivo constitucional quando o recorrente não realiza o necessário cotejo analítico, bem como não apresenta, adequadamente, o dissídio jurisprudencial, nem sequer transcrevendo a ementa ou partes do julgado paradigma para adequada demonstração das circunstâncias identificadoras da divergência.
+No mais, a matéria já foi analisada por esta Corte, sendo, atualmente uniforme o entendimento de que, após a entrada em vigor do art. 1.031, § 2º, do CC/2002, se ausente disposição contratual em contrário, os juros de mora devem incidir a partir do nonagésimo dia seguinte ao trânsito em julgado da liquidação na apuração de haveres, porque antes disso, não haveria mora.
+Confira-se a respeito os seguinte julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURS O ESPECIAL. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE COM APURAÇÃO DE HAVERES. AJUIZAMENTO NA VIGÊNCIA DO NOVO CÓDIGO CIVIL. TERMO INICIAL DOS JUROS MORATÓRIOS INCIDENTES SOBRE OS HAVERES APURADOS. PRAZO NONAGESIMAL CONTADO DESDE A LIQUIDAÇÃO DA QUOTA DEVIDA AO SÓCIO RETIRANTE. INTERPRETAÇÃO DOS ARTS. 1.031, § 2º, E 2.034 DO CC/02. ADEQUAÇÃO DO PROVIMENTO AOS LIMITES OBJETIVOS DA INSURGÊNCIA RECURSAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1891969/SP, relator Ministro Paulo de Tarso Sanseverino, DJe de 14.06.2021.)
+RECURSO ESPECIAL E AGRAVOS EM RECURSO ESPECIAL. DIREITO SOCIETÁRIO. LIQUIDAÇÃO DE SENTENÇA PROFERIDA EM AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE. IRRESIGNAÇÕES SUBMETIDAS AO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. CRITÉRIO UTILIZADO PARA APURAÇÃO DE HAVERES. QUESTÃO PREJUDICADA. ENCARGOS DECORRENTES DA LIQUIDAÇÃO FORÇADA. SÚMULA Nº 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. JUROS MORATÓRIOS INCIDENTES A PARTIR DO NONAGÉSIMO DIA POSTERIOR A LIQUIDAÇÃO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº. 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não há falar em negativa de prestação jurisdicional quando o órgão julgador enfrenta, de modo adequado e suficiente, todos os argumentos necessários ao julgamento da causa.
+3. A alegação de que o valor homologado estaria incorreto se mostra prejudicada em razão do que decidido no julgamento dos REsps 1.483.
+333/DF e 1.499.772/DF.
+4. Quanto a necessidade de repartição proporcional de referidos encargos, como forma de preservação do princípio da isonomia, o tema carece do necessário prequestionamento. Incidência da Súmula nº 211 do STJ.
+5. Nos casos de dissolução parcial de sociedade anônima os juros moratórios são devidos a partir do vencimento do prazo nonagesimal, após a sentença de liquidação de haveres, conforme regra prevista no art. 1.031, § 2º, do CC/02, aplicável por analogia. Precedentes.
+6. Recurso especial de ESPÓLIO DE JOSINO e ANTÔNIO NAVES parcialmente conhecido e, nessa extensão, não provido. (REsp 1504243/DF, relator Ministro Moura Ribeiro, DJe de 06.06.2019.)
+RECURSO ESPECIAL. AÇÃO DE DISSOLUÇÃO DE SOCIEDADE. 1. VIOLAÇÃO DOS ARTS. 535 E 538 DO CPC/1973. INEXISTÊNCIA. INDICAÇÃO DE TEMA PARA PREQUESTIONAMENTO. AUSENTE. ENUNCIADO N. 98/STJ. INAPLICABILIDADE. 2. EXERCÍCIO DO DIREITO DE RETIRADA. DIREITO POTESTATIVO. NOTIFICAÇÃO PRÉVIA E ATENDIMENTO DE PRAZO LEGAL. ART. 1.029 DO CC. DATA-BASE PARA APURAÇÃO DE HAVERES. 3. PAGAMENTO DE HAVERES. JUROS DE MORA. TERMO INICIAL. PRAZO NONGESIMAL PARA PAGAMENTO. 1.031. 4. RECURSO ESPECIAL DA EMPRESA PARCIALMENTE PROVIDO. RECURSO ESPECIAL DA SÓCIA RETIRANTE IMPROVIDO.
+1. Ação de dissolução parcial de sociedade ajuizada por sócio retirante contra a sociedade limitada e os demais sócios, a fim de obter a apuração dos haveres devidos.
+2. Ausentes os vícios do art. 535 do CPC/1973, porque fundamentado de forma expressa e coerente, a rejeição dos embargos de declaração não implica em violação de dispositivo legal.
+3. Do mesmo modo, não há violação do art. 538 do CPC/1973 quando os embargos de declaração opostos não deduzem questão cujo prequestionamento se faria necessário, não se aplicando, por consequência, o afastamento da multa na forma do enunciado n. 98 da Súmula do STJ.
+2. O direito de retirada de sociedade constituída por tempo indeterminado, a partir do Código Civil de 2002, é direito potestativo que pode ser exercido mediante a simples notificação com antecedência mínima de sessenta dias (art. 1.209), dispensando a propositura de ação de dissolução parcial para tal finalidade.
+3. Após o decurso do prazo, o contrato societário fica resolvido, de pleno direito, em relação ao sócio retirante, devendo serem apurados haveres e pagos os valores devidos na forma do art. 1.031 do CC, considerando-se, pois, termo final daquele prazo como a data-base para apuração dos haveres.
+4. Inexistindo acordo e propondo-se ação de dissolução parcial com fins de apuração de haveres, os juros de mora serão devidos após o transcurso do prazo nonagesimal contado desde a liquidação da quota devida (art. 1.031, § 2º, do CC). Precedentes.
+5. Recurso especial da empresa parcialmente dissolvida parcialmente provido. Recurso especial da sócia retirante improvido. (REsp 1602240/MG, relator Ministro Marco Aurélio Bellizze, DJe de 15.12.2016.)
+No caso, não há referência de eventual cláusula contratual que disponha sobre o prazo para pagamento nas hipóteses de apuração de haveres, "de forma que deve-se reconhecer o desencontro entre a conclusão do acórdão recorrido e o entendimento albergado por esta Corte Superior." (REsp n. 1602240).
+Ante o exposto, conheço em parte do recurso e, nesta parte, dou-lhe provimento para determinar que os j uros de mora passem a incidir após 90 dias da liquidação da sentença de haveres.
+Publique-se. I ntimem-se.
+EMENTA
