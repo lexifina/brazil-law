@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por I. F. N INDUSTRIA FERROVIARIA NACIONAL LTDA., com fulcro no art. 105, III, a e c, da Constituição Federal, em face do acórdão do Tribunal de Justiça do Estado de São Paulo, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+Processual civil - Monitória de cobrança - Revelia. Intempestividade dos embargos confirmada - Circunstância que induz, de um lado, a veracidade dos fatos afirmados pela parte adversa e, de outro, a perda do prazo para requerer provas.
+Honorários de sucumbência - Fixação por equidade em ação de cobrança - Inadmissibilidade - Fixação sobre o valor da causa.
+Recursos - Desprovido o da ré e provido o dos advogados da autora.
+Sustenta a recorrente que, embora tenha sido decretada sua revelia, esta não induz necessariamente à procedência da ação. Portanto, recebendo os autos antes do término do prazo para indicação de provas, tinha o direito de fazê-lo. Então, protocolizou petição requerendo a produção de prova pericial, consistente na perícia contábil, além da prova testemunhal.
+Ocorre que os autos seguiram para sentença sem análise de sua petição, fato que desrespeitou os comandos do parágrafo único do art. 322 e 324 do CPC.
+Pela alínea c, menciona divergência sobre a questão da intempestividade de sua defesa. Afirma que não houve informação de movimentação dos autos no site do tribunal, nem mesmo prestação de informações corretas por servidor público, sendo que, na ausência de informação, é lícito entender que não houve movimentação. Apontou, assim, precedentes no sentido de que as informações publicadas em sites oficiais devem servir como fonte fidedigna de orientação às partes.
+Conclui, assim, que na forma do art. 183, § 1º, do CPC, o erro nas informações do site do Tribunal deve ser identificado como evento imprevisto.
+O recurso especial não foi admitido na origem.
+Mas a parte recorrente aviou o agravo em recurso especial que foi provida pelo Ministro Luis Felipe Salomão.
+Contrarrazões às fls. 564-582.
+É o relatório. Decido.
+Primeiro, esclareço que os artigos ora referidos são do Código de Processo Civil de 1973.
+Em que pese o provimento do agravo em recurso especial, o mesmo destino não está reservado ao recurso especial. No caso, a pretensão da recorrente esbarra na análise de fatos e provas, conforme observa-se abaixo.
+I - Da revelia
+Afirma o recorrente (fl. 512) que, inaugurado o prazo para apresentação de contestação, providenciou a juntada de procuração e, a partir de seu comparecimento aos autos, apresentou tempestivamente sua defesa, contando-se o prazo de 15 dias da juntada do instrumento de mandato.
+Também afirma que, conforme movimentação extraída do site oficial do TJ-SP, "não havia registro algum acerca da juntada do mandado de citação aos autos" (fl. 514).
+Assim, sustenta que as informações disponibilizadas nos sites oficiais devem corresponder à verdade, não podendo a parte ser prejudicada por elas.
+Indica julgados como divergentes, no sentido de que: sendo informações oficiais têm de retratar a realidade.
+É certo que, para se chegar à conclusão perseguida pela recorrente de que fora induzido a erro pelas informações do site do Tribunal, há necessidade de se analisar os fatos constantes dos autos, providência que não é admitida em sede de recurso especial.
+Ademais, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional, impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica (AgInt no AREsp 1694457 / RJ, relator Ministro Paulo Sérgio Domingues, DJe de 07.12.2023; e AgInt no AREsp 1645528/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/4/2021).
+E isso é tão certo que, neste feito, para se aferir sobre as teses divergentes, há de se partir da premissa fática como pretende o recorrente e não como resultou das decisões anteriores.
+Não fosse por isso, o Tribunal considerou que os dados da informática serviam apenas para auxiliar as partes e não tinham efeitos legais, como estava "esclarecido na página da Internet da Corte" (fl. 398).
+Este aspecto não foi impugnado pela ora recorrente em seu recurso especial, permanecendo hígido.
+Ademais, tais ocorrências são dos idos do ano de 2010, época em que os tribunais disponibilizavam informações, mas elas não tinham, realmente, o cunho oficial, dado que não havia sincronicidade entre os procedimentos processuais e respectivas informações processuais nos meios eletrônicos. Daí o entendimento do Ministro Antônio de Pádua, no AgRg no AI 628.210-PR de que "as informações trazidas pela internet têm natureza meramente informativa e não vinculativa, não substituindo a forma prevista em lei para a contagem dos prazos", conforme citado no acórdão recorrido. Cita-se ainda: AgRg no AREsp 290418 / MG, relator Ministro Napoleão Nunes Maia Filho, DJe de 26.08.2013; AgRg no Ag 1.046.026/DF, relator Ministro Herman Benjamin, DJe de 19.12.2008; AgRg nos EREsp. 514.412/DF, relator Ministro Luiz Fux, DJe de 20.08.2007.
+Assim, não conheço de recurso especial neste ponto.
+II - Dos efeitos da revelia
+A respeito dos efeitos da revelia, o Tribunal a quo manifestou-se no sentido de que são "a desconsideração da resistência" e a perda do prazo para requerer provas.
+Assim, para impugnar essas assertivas, a recorrente afirma que foram vulneradas as disposições do parágrafo único do art. 322 e art. 324 do CPC. Sustenta que requereu a produção de provas, pericial e testemunhal, enquanto ainda vigia o prazo para tanto. Afirma que como revel deve receber os autos no estado em que se encontram, e que, portanto, seus requerimentos deveriam ter sido analisados.
+Em que pese tais assertivas, há alguns impeditivos de conhecimento do recurso neste ponto.
+O primeiro deles é que a verificação sobre ter feitos os requerimentos de produção de provas tempestivamente esbarra nas disposições da Súmula n. 7 do STJ; e o segundo é que os dispositivos apontados como violados não estão prequestionados. Observa-se que o acórdão chegou a falar dos efeitos da revelia, mas não sob a ótica do parágrafo único do art. 322, do CPC. Igualmente com relação às disposições do art. 324.
+A parte recorrente, embora tenha opostos os embargos declaratórios, deixou de indicar violação das disposições do art. 535, II, do CPC, o que seria bastante oportuno na espécie, já que a própria recorrente afirmou que o acórdão é "raso, paupérrimo em fundamentação" (fl. 509). Não o fazendo, foi conhecido o recurso. Incide à espécie a Súmula n. 211 do STJ. Observa-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC. FALTA DE IMPUGNAÇÃO A FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Não se conhece do recurso quando o Tribunal de origem não se manifesta sobre a tese apontada, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incidência do óbice da Súmula 211/STJ.
+2. Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC  art. 535 do CPC/73 , para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+3. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que a parte buscava antecipar futura alegação de decadência, na hipótese de novo lançamento do crédito tributário, o que nem sequer prosperaria, tendo em vista que o novo prazo transcorreria a contar da decisão que anulou o lançamento anterior, esbarrando, pois, no obstáculo da Súmula 283/STF.
+4. Agravo interno não provido. (AgInt no AREsp 2276954 / RJ, relator Ministro Sérgio Kukina, DJe 31.08.2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO IMOBILIÁRIO. 1. MATÉRIA NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. 2. ALEGAÇÃO DE OMISSÃO POR PARTE DA CORTE ORIGINÁRIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC/1973. DEFICIÊNCIA DO INCONFORMISMO. SÚMULA 284 DO STF. 3. CULPA DA RESCISÃO CONTRATUAL ATRIBUÍDA À CONTRATANTE. REEXAME DE PROVAS. SÚMULA 7 DO STJ. 4. NÃO APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015 . 5. AGRAVO INTERNO IMPROVIDO.
+1. Inicialmente, cumpre anotar que aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016), devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2).
+2. Arts. 1.092, parágrafo único, do CC; 334 do CPC/1973; e 39, I, 42, parágrafo único, do CDC, e alegação de lucros cessantes.
+Ausência de prequestionamento, mesmo após a oposição de embargos de declaração com essa finalidade. Súmula 211 do STJ.
+3. As razões do apelo nobre deixaram de indicar violação ao art. 535 do CPC/1973, embora em certo ponto, en passant, haja menção de omissão por parte da Corte originária. Fundamentação apresentada no recurso deficiente. Súmula 284 do STF. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, imprescindível que o recorrente demonstre de forma clara e objetiva os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+4. (..)
+5. (..)
+6. Agravo interno improvido. (AgInt no REsp 1697429 / SP, relator Ministro Marco Aurélio Bellizze, DJe de 08.03.2018.)
+III - Conclusão
+Por todo o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
