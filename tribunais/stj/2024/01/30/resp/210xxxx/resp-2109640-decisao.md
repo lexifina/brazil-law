@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICIPIO DE SANTA RITA DO SAPUCAI, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (e-STJ fl. 110):
+EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL CONTRA A FAZENDA PÚBLICA - POSSIBILIDADE - SÚMULA 279 DO STJ - MULTA AMBIENTAL - REQUISITOS LEGAIS PREENCHIDOS - PRESUNÇÃO DE CERTEZA E LIQUIDEZ NÃO ILIDIDA - EXCESSO DE EXECUÇÃO NÃO. VERIFICADO. Nos termos da Súmula n1279 do STJ "é cabível execução por título extrajudicial contra a Fazenda Pública". Considerando que a CDA preenche os requisitos legais previstos no art. 202 do CTN, bem como não foi ilidida a sua presunção de certeza e liquidez, a teor dos arts. 31 da Lei nº 6.830180 e 204 do CTN, e ainda, não tendo sido demonstrado o excesso de execução, conforme determina o art. 917, §30 do CPCII5, a manutenção da sentença que julgou improcedentes os embargos à execução, é medida que se impõe.
+Embargos de declaração rejeitados (e-STJ fls. 133/138).
+Em suas razões, a parte recorrente aponta violação do art. 1º-F da Lei n. 9.494/1997, aduzindo a nulidade da execução de multa baseada em atos administrativos e não na legislação (violação do princípio da legalidade) e o excesso da execução do valor cobrado (afronta aos princípios da razoabilidade e da proporcionalidade, além de caráter confiscatório).
+Contrarrazões às e-STJ fls. 156/161.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 214/215.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Em relação à tese de nulidade da execução por ofensa ao princípio da legalidade, há deficiência na fundamentação recursal, pois o comando do artigo tido por contrariado não serve para respaldar a tese do recorrente, o que atrai a incidência da Súmula 284 do STF. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, ante a ausência de similitude fática entre os julgados confrontados.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt no AREsp 355.507/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/10/2016, DJe 24/11/2016)
+No tocante ao excesso de execução por afronta aos princípios da razoabilidade e da proporcionalidade e pelo caráter confiscatório da multa aplicada, observo que, sobre o tema, não houve a particularização de nenhum dispositivo de lei federal eventualmente violado, sendo que o art. 1º-F da Lei n. 9.494/1997 não possui carga normativa apta a sufragar a tese recursal. Por essa razão, no ponto, não pode o apelo especial ser conhecido. Incide, nesse aspecto, a Súmula 284 do STF.
+Quanto aos juros cobrados, a Corte local, no julgado impugnado, assim se pronunciou sobre o tema (e-STJ fls. 117/118):
+Por fim, o apelante assevera que há excesso de execução, já que o valor da multa aplicada, R$ 22.932,10, viola os princípios da razoabilidade, da proporcionalidade e possui caráter confiscatório, bem como "deve ser refeito o cálculo apresentado, decotando a correção monetária e juros de 1% ao mês, devendo incidir, uma única fez, os índices oficiais da remuneração básica e juros aplicados à caderneta de poupança, sob pena de violação ao disposto no art. 1º-F da Lei nº 9.494/97, observando-se o precatório" (fI. 74).
+(..).
+Acerca do pleito de aplicação do disposto no art. 1º-F da Lei nº 9.494/97 aos juros de mora previstos na CDA no 152, registro que o artigo definiu critérios de atualização monetária aplicáveis às condenações impostas à Fazenda Pública:
+Art. 1º-F. Nas condenações impostas à Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, remuneração do capital e compensação da mora, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. (Redação dada pela Lei nº 11.960, de 2009).
+Ocorre, no entanto, que o referido dispositivo tem aplicabilidade restrita às condenações judiciais, não havendo se falar em incidência da regra para o cálculo dos juros moratórios dispostos em titulo executivo (grifos acrescidos).
+Nas razões do apelo raro, todavia, a agravante não impugnou o fundamento acima destacado, suficiente para a manutenção do acórdão recorrido quanto ao ponto, o que atrai a incidência da Súmula 283 do STF, segundo a qual: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles".
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
