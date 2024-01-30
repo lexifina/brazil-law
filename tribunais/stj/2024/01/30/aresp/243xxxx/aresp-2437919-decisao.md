@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOHNSON CONTROLS-HITACHI AR CONDICIONADO DO BRASIL LTDA., contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 25/05/2023.
+Concluso ao gabinete em: 23/11/2023.
+Ação: de cobrança, ajuizada pela agravante, em face de SLOT INTERNACIONAL LTDA, em razão de descumprimento pela demandada de contrato de assessoria e logística de transporte internacional, cabendo à ré a obrigação de prestar serviços de acompanhamento, planejamento, desenvolvimento, treinamento e execução de atividades relacionadas à logística de transportes, armazenagem e serviços aduaneiros em importação.
+Sentença: julgou procedente o pedido, para condenar a agravada ao pagamento da quantia de R$ 1.477.486,23, monetariamente corrigida desde o ajuizamento, de acordo com a Tabela Prática do TJ/SP.
+Acórdão: deu provimento à apelação interposta pela agravada, para reconhecer cumpridas as obrigações contratuais questionadas nesta demanda e julgar improcedente o pedido.
+Nesse sentir, é a ementa do julgado:
+AÇÃO DE COBRANÇA. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO PROVIDA.
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS. ASSESSORIA EM LOGÍSTICA INTERNACIONAL. PRESTAÇÃO DE CONTAS REFERENTE A ADIANTAMENTOS. OBRIGAÇÃO CUMPRIDA PELA RÉ. INEXISTÊNCIA DE CRÉDITO EM FAVOR DA AUTORA. Primeiro, rejeita-se a alegação de nulidade da sentença. Ré que não apresentou quesitos no momento processual adequado. Impossibilidade de fazê-lo posteriormente. Preclusão. Laudo pericial de fls. 770/787 que apreciou adequadamente a prova dos autos e analisou as transações financeiras entre as partes e até mesmo com outras empresas. Eventual avanço do perito sobre questões de direito que não acarretam nulidade à prova pericial. Possibilidade de aproveitamento do laudo ainda que se atribua conclusão jurídica diversa. Prejuízo à defesa não verificado. Nulidade da sentença não configurada. E segundo, modifica-se a conclusão de primeiro grau sobre o mérito. Trata-se de ação de cobrança movida pela autora sob o fundamento de que a ré não cumpriu com seu dever contratual de prestar contas acerca dos valores recebidos a título de adiantamento do preço da prestação de serviços. O contrato firmado entre as partes tem como objeto: "o acompanhamento, planejamento, desenvolvimento, treinamento e execução de atividades relacionadas a atividade Logística de Transportes, Armazenagem e Serviços Aduaneiros em Importação, da Contratante, visando apresentar melhorias em todos os processos (..)". Presunção de que a ré, por não ser uma empresa de despacho aduaneiro, estava autorizada a subcontratar e incluir no custo da prestação de serviços a contratação de empresa daquele ramo. Comprovação dos repasses dos valores recebidos da autora pela ré à empresa de despacho aduaneiro. Laudo pericial que relacionou todos esses valores a processos de importação da autora, realizados pela empresa Bracex Global. Ré que cumpriu com seu dever de indicar a destinação dos recursos adiantados pela autora. Ausência do "instrumento do contrato" entre a autora e a empresa Bracex que não impedia a conclusão pela efetiva prestação de serviço de despacho aduaneiro por essa empresa. Interpretação e integração do contrato de acordo com a boa-fé. Inversão dos ônus decorrentes da sucumbência. Ação julgada improcedente em segundo grau.
+SENTENÇA REFORMADA. RECURSO PROVIDO. (e-STJ, fl. 1.042)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 7º, 371 e 479, todos do CPC; 876 e 884, ambos do CC/02. Sustenta:
+i) a existência de decisão do Tribunal de origem contrária às provas dos autos (conclusão do laudo pericial); e
+ii) a existência de inadimplemento contratual por parte da demandada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 7º, 371 e 479, todos do CPC e 876 e 884, ambos do CC/02, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+Ressalta-se que eventual alegação de ser de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão da regularidade da prestação de serviços pela agravada, além da própria prestação de contas pela referida parte, com fundamento no laudo pericial, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa (e-STJ, fl. 1.051) para 18%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Alterar o decidido no acórdão impugnado, no que se refere à conclusão da regularidade da prestação de serviços pela agravada, além da própria prestação de contas pela referida parte, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
