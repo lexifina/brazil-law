@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto pela ENERGISA RONDONIA - DISTRIBUIDORA DE ENERGIA S.A. contra decisão da Presidência que não conheceu de recurso especial por intempestividade (e-STJ fls. 548/549).
+Sustenta a parte recorrente que o recurso é tempestivo, porquanto sua interposição ocorreu no dia 1º/06/2023, último dia do prazo, conforme informação constante do Portal do Sistema PJE do Tribunal de origem (e-STJ fls. 557/560).
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma .
+Impugnação apresentada às e-STJ fls. 599/603, aduzindo a deserção recursal.
+Passo a decidir.
+A Presidência desta Corte de Justiça considerou o recurso especial da parte intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis.
+É certo que o Código de Processo Civil de 2015 tornou mais rígido o entendimento sobre o prazo para interposição dos recursos, excluindo a intempestividade do rol dos vícios sanáveis, conforme se extrai do art. 1.003, § 6º ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso") e do art. 1.029, § 3º ("o Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave").
+Essa situação, inclusive, impossibilita, em regra, a aplicação do parágrafo único do art. 932 do CPC/2015, que permitiria a correção do vício, com a comprovação da tempestividade do recurso posteriormente. Nesse sentido: AgInt nos EDcl no AREsp 2.089.652/SP, Relatora Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 25/10/2022; e AgInt no AREsp 2.155.534/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 18/10/2022.
+Todavia, a Corte Especial do Superior Tribunal de Justiça entende que as informações apresentadas de modo incorreto pelo serviço eletrônico do próprio Poder Judiciário, notadamente quanto à indicação expressa do fim do prazo recursal, configuram justa causa apta a afastar a intempestividade do recurso interposto dentro do lapso temporal por ele indicado, em homenagem ao princípio da boa-fé.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRAZO DE RECURSO. INFORMAÇÃO CONSTANTE DO SISTEMA ELETRÔNICO DO TRIBUNAL DE ORIGEM. TERMO FINAL PARA INTERPOSIÇÃO DO RECURSO QUE CONSIDERA FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO DESTE NO ATO DE INTERPOSIÇÃO DO RECURSO. MITIGAÇÃO. PRINCÍPIOS DA CONFIANÇA E DA BOA-FÉ. PRECEDENTE. CORTE ESPECIAL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO .
+1. "A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso". (EAREsp n. 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, DJe de 21/3/2022.)
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.014.482/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2022, DJe de 20/10/2022.).
+No caso dos autos assiste razão à agravante.
+De acordo com o print da tela do PJe acostado às razões recursais (e-STJ fl. 558), o sistema da Corte de origem indicou o dia 1º/06/2023 como prazo final para interposição do recurso quando o seu término ocorreu no dia anterior (31/05/2023), haja vista ter ocorrido a intimação do acórdão recorrido em 10/05/2023, conforme certidão de e-STJ fl. 502. Por essa razão, deve ser superada a intempestividade do apelo especial.
+De outro lado, percebeu o Tribunal de origem, na decisão de inadmissibilidade (e-STJ fls. 519/520), haver irregularidade no preparo, pois não foi demonstrado o comprovante de recolhimento das custas do apelo especial de e-STJ fls. 503/509, e a parte recorrente, ora agravante, embora regularmente intimada para sanar referido vício, não o regularizou, visto ter apresentado o comprovante de pagamento do recurso especial anteriormente interposto, em 22/03/2023 (e-STJ fls. 510/517).
+Portanto, o presente recurso especial não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula 187 do STJ, o que leva à deserção recursal.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DAS CUSTAS DO RECURSO ESPECIAL NO ATO DA SUA INTERPOSIÇÃO. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DAS CUSTAS. ART. 1.007, § 4º, DO CPC/2015. NÃO CUMPRIMENTO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Este Tribunal Superior consolidou o entendimento de que "a ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. Com o advento do CPC/2015, a falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Na espécie, constatada a irregularidade e devidamente intimado, o recorrente deixou de efetuar o recolhimento em dobro, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.308.142/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO NO ATO DA INTERPOSIÇÃO DO APELO NOBRE. INTIMAÇÃO DA PARTE PARA EFETUAR O PAGAMENTO EM DOBRO. PRAZO ASSINALADO QUE TRANSCORREU EM BRANCO. DESERÇÃO.
+1. Não comprovado o recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizá-lo em dobro, sobe pena de deserção, nos termos do art. 1.007, § 4º, do CPC.
+2. Considera-se deserto o recurso quando a parte, mesmo após intimada a regularizar o preparo, não o faz devidamente. Incidência da Súmula n.º 187 do STJ.
+3. A intimação da parte levada a efeito não pode ser considerada inválida, porque dirigida ao advogado que, à época, segundo os documentos constantes dos autos, figurava como representante da parte recorrente.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.669.029/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/5/2023, DJe de 31/5/2023.).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 548/549, MANTENDO-A, no entanto, por fundamento diverso .
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
