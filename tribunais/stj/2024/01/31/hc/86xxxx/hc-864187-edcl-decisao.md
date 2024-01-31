@@ -1,0 +1,14 @@
+DECISÃO
+CICERO NARCISO NOBRE opõe embargos de declaração contra a decisão de fl. 680, que não conheceu do habeas corpus por ser mera reiteração do HC n. 836.702/SP.
+Em suas razões, afirma o embargante, em síntese, que o referido writ não foi conhecido, de modo que nada impediria que a matéria fosse novamente veiculada e devidamente examinada.
+Diante disso, requer o "conhecimento e o provimento dos presentes embargos de declaração, conhecendo-se e concedendo-se a ordem de habeas corpus nos termos da inicial, sob pena de flagrante negativa de jurisdição".
+Decido.
+Embora o habeas corpus HC n. 836.702/SP não haja sido conhecido, por ser substitutivo de recurso próprio e por não haver, na oportunidade, exaurido instância, a questão suscitada neste momento foi refutada, nestes termos:
+Cabe referir que, consoante pacífica jurisprudência desta Corte, " o  habeas corpus não se presta para a apreciação de alegações que buscam a desclassificação da conduta imputada ao paciente, alterando conclusões fática, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita" (AgRg no HC n. 704.767/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em8/3/2022, DJe de 14/3/2022; sem grifos no original). Com igual conclusão: AgRg no HC n. 583.781/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 28/9/2021, DJe de 30/9/2021 e HC n. 670.619/MG, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 28/9/2021, DJe de 7/10/2021, v. g.
+No caso, as instâncias ordinárias, soberanas na análise do caderno de provas, concluíram que o Acusado teria praticado o crime de furto qualificado, considerando-se, notadamente, a apreensão da res furtiva na casa deste, o depoimento do sogro do Paciente e de policiais civis que participaram das investigações. Nesse sentido, " q ualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária" (AgRg no HC n. 624.243/SC, relator Ministro FELIX FISHER, Quinta Turma, julgado em 23/02/2021, DJe 1º/03/2021; sem grifos no original).
+Com idêntica conclusão:  ..  (HC n. 836.702/SP, Rel. Ministra Laurita Vaz, DJe 12/9/2023)
+Vale dizer, a controvérsia ventilada pela defesa (reproduzida nesta ocasião), acerca da inexistência de provas da prática furto qualificado, foi afastada no HC n. 836.702/SP, o qual realçou a impossibilidade de revolvimento fático -probatório, com ampla análise vertical das provas amealhadas.
+Tal diretiva denota que o não conhecimento formal do habeas corpus se revestiu, na verdade, de verdadeiro indeferimento da pretensão deduzida e que é reiterada neste mandamus.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
