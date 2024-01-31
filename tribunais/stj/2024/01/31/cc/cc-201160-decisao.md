@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 15ª VARA CRIMINAL DE NATAL - RN suscita conflito de competência diante do JUÍZO FEDERAL DA 14ª VARA DE NATAL - SJ/RN.
+Cinge-se a controvérsia estabelecida neste incidente processual a saber a competência (federal ou estadual) para a adoção de eventuais medidas judiciais que se façam necessárias em investigação deflagrada pela suposta pratica do crime previsto no art. 20 da Lei n. 7.716/1989 (discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional), com a utilização da internet, por meio de publicação de mensagem na rede social "Instagram".
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 14ª Vara de Natal - SJ/RN, ora suscitado (fls. 58-63).
+Decido.
+A prática de xenofobia, compreendido como uma das formas de racismo, por si só, não é suficiente para determinar a competência da Justiça Federal, a qual pressupõe também que o delito seja transnacional, ex vi do art. 109, V, da Constituição Federal.
+Na espécie, a publicação de mensagem na rede social "Instagram", caracterizada pelo amplo acesso aos usuários, permite inferir, ao menos até o momento das investigações, o potencial concreto de transnacionalidade, notadamente porque se trataria de perfil aberto.
+De fatao, "a transnacionalidade da conduta nos crimes cometidos pela rede mundial de computadores não exige que o conteúdo seja efetivamente acessado no estrangeiro, sendo suficiente para configurar a transnacionalidade a mera potencialidade de o material disponibilizado na internet poder ser acessado no exterior, como na hipótese dos autos" (fl. 61).
+Em casos similares, mutatis mutandis, decidiu esta Corte: "Demonstrado que as falas de suposto cunho homofóbico foram divulgadas pela internet, em perfis abertos da rede social Facebook e da plataforma de compartilhamento de vídeos Youtube, ambos de abrangência internacional, está configurada a competência da Justiça Federal para o processamento e julgamento do feito" (CC 191970 / RS, Rel. Ministra Laurita Vaz, DJe 19/12/2022).
+Correto, portanto, o Parquet Federal, quando assinalou que "inexiste dúvidas acerca do compromisso assumido pelo Brasil perante a comunidade internacional no sentido de combater condutas como a xenofobia, de modo que está preenchido também o requisito previsto no artigo 109, V, da Constituição Federal, necessário para firmar a competência da Justiça Federal" (fl. 62).
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 14ª Vara de Natal - SJ/RN, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
