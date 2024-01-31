@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues (Presidente), Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. AUSÊNCIA. PREPARO. COMPROVANTE DE AGENDAMENTO. EFETIVO RECOLHIMENTO. NÃO DEMONSTRAÇÃO. REDISCUSSÃO. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto a alegação de vício pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno, que aplicou a firme orientação do STJ no sentido de que o comprovante de agendamento bancário não é documento apto a demonstrar o efetivo recolhimento do preparo.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela USINA PEDROSO S.A., USINA SALGADO, DESTILARIA BAIA FORMOSA S.A., DESTILARIA OUTEIRO S.A., USINA CRUANGI S.A. e ANICUNS S.A. ÁLCOOL E DERIVADOS EM RECUPERAÇÃO JUDICIAL contra agravo interno julgado por esta Turma e assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREPARO. COMPROVANTE DE AGENDAMENTO BANCÁRIO. DESERÇÃO. INTEMPESTIVIDADE. EXAME PREJUDICADO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Consoante entendimento desta Corte, o comprovante de agendamento bancário não é documento apto a demonstrar o efetivo recolhimento do preparo, incidindo na hipótese a Súmula 187 do STJ.
+3. Ainda que na vigência do CPC/1973 seja possível a comprovação posterior, em sede de agravo interno/regimental, da tempestividade recursal, como decidido pela Corte Especial (AgRg no AREsp 137.141/SE, DJe de 15/10/2012), o emprego do óbice sumular supracitado já impede o conhecimento do recurso, no caso dos autos.
+4. Agravo interno desprovido.
+Sustenta a parte embargante, em resumo, que o julgado padece de omissão quanto ao exame da existência de peculiaridades do comprovante de preparo trazido aos presentes autos. Afirma que não se trataria de "mero agendamento", haja vista a contemporaneidade das datas da operação bancária de agendamento, emissão do comprovante, vencimento e pagamento (26/10/2010), a demonstrar o distinguishing com os precedentes citados no acórdão embargado (em que há diferença entre as datas de agendamento e pagamento) e a afastar o óbice da Súmula 187 do STJ (e-STJ fls. 3.726/3.782).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. AUSÊNCIA. PREPARO. COMPROVANTE DE AGENDAMENTO. EFETIVO RECOLHIMENTO. NÃO DEMONSTRAÇÃO. REDISCUSSÃO. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto a alegação de vício pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno, que aplicou a firme orientação do STJ no sentido de que o comprovante de agendamento bancário não é documento apto a demonstrar o efetivo recolhimento do preparo.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, entendo que não ocorreu nenhum dos vícios supracitados.
+A alegação de omissão invocada pela parte embargante manifesta o seu inconformismo com a decisão embargada, sendo que ela repisa argumentos antes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURADO. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata a omissão alegada pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração parcialmente acolhidos, para sanar erro material.
+(EDcl no AgInt nos EDcl no AREsp n. 1.960.434/PR, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+Não há que falar em omissão quanto à possível distinção alegada, porque o acórdão embargado espelha a remansosa jurisprudência desta Corte, no sentido de que o comprovante de agendamento bancário não é documento apto a demonstrar o efetivo recolhimento do preparo (exatamente o caso dos autos).
+Note-se que os julgados que sustentam tal entendimento não recorrem a nenhuma menção específica de que a aplicação (ou não) da Súmula 187 do STJ depende da concomitância (ou não) entre as datas de vencimento/agendamento/pagamento.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO NÃO CONHECIDO, POR DESERÇÃO. PREPARO. AUSÊNCIA. NECESSIDADE DE COMPROVAÇÃO DO PREPARO, NO ATO DA INTERPOSIÇÃO DO RECURSO. AGENDAMENTO DE PAGAMENTO. IRRELEVÂNCIA. SÚMULA 187/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. Na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais - , o Plenário do STJ sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater. Tal compreensão restou sumariada no Enunciado Administrativo 2/2016 ("Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+III. No caso, o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, devendo, portanto, à luz do aludido diploma processual, ser analisados os requisitos de sua admissibilidade.
+IV. A jurisprudência pacífica do Superior Tribunal de Justiça - firmada à luz do CPC/73 - orienta-se no sentido de que, no ato de interposição do recurso dirigido a esta Corte, deve o recorrente comprovar o prévio recolhimento das custas judiciais, do porte de remessa e retorno, bem como dos valores locais, estipulados pela legislação estadual, sob pena de deserção (art. 511 do CPC/73 e Súmula 187/STJ).
+V. Em consequência, "a juntada de comprovante de agendamento não constitui meio apto à comprovação de que o preparo foi efetivamente recolhido, levando, portanto, à deserção do recurso" (STJ, AgRg no AREsp 743.163/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 17/11/2015). No mesmo sentido: STJ, AgRg no AREsp 744.643/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 18/12/2015; AgRg no AREsp 670.781/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 30/11/2015; AgInt no AREsp 1.056.512/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 29/05/2017; AgInt no AREsp 882.871/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 09/05/2017; AgInt no AREsp 993.958/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 20/02/2017; AgInt no AREsp 815.036/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/03/2018.
+VI. Segundo entendimento desta Corte, a intimação para complementação do preparo, na forma do art. 511, § 2º, do CPC/73, só é admitida quando recolhido o valor de forma insuficiente, mas não quando ausente o pagamento do preparo, como na hipótese. Precedentes do STJ.
+VII. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.955.331/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022.)
+Além disso, a realização da operação bancária de agendamento na mesma data do pagamento, fato que supostamente seria a distinção apta a afastar aquele óbice sumular, em face da existência de julgado oriundo da Segunda Seção (e-STJ fls. 3788/3820), não caracteriza, na realidade, ponto omisso.
+Isso porque, nos presentes autos, a comprovação da concomitância das datas de (efetivo) pagamento e de agendamento bancário somente foi demonstrada agora, em sede de embargos de declaração (e-STJ fls. 3.785/3.786), o que desqualifica a ocorrência de vício de integração a ser superado.
+Não bastasse isso, a título de obter dictum, verifica-se a manutenção d a intempestividade do recurso atestada na decisão da Presidência de e-STJ fls. 3.684/3.686, haja vista o entendimento desta Corte no sentido de que o dia do servidor público é considerado feriado local para fins de comprovação da tempestividade recursal (AgInt no AREsp n. 2.364.254/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/10/2023, DJe de 25/10/2023).
+Convém, ainda, registrar que " o  prazo dos recursos interpostos perante a instância de origem, ainda que estejam endereçados para este Tribunal Superior, obedecem ao calendário de funcionamento da Corte a quo, sendo irrelevante para a verificação da tempestividade recursal a existência de feriados ou de suspensão de expediente no Superior Tribunal de Justiça" (AgInt no AgInt no AREsp n. 1.891.958/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+Com essas considerações, REJEITO os embargos de declaração.
+É como voto.
