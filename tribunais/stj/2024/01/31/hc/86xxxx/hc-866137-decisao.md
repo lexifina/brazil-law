@@ -1,0 +1,34 @@
+DECISÃO
+MARCO AURELIO DE LIMA SANCHEZ alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2250883-30.2023.8.26.0000.
+A defesa busca a concessão ao paciente do direito de recorrer em liberdade, sob o argumento de que a sentença não motivou idoneamente a manutenção da prisão cautelar do acusado.
+Indeferida a liminar (fls. 52-53) e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ ou, subsidiariamente, pela denegação da ordem (fls. 87-92).
+Decido.
+O réu foi condenado a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas.
+Sobre a manutenção da prisão preventiva, a Magistrada de primeira instância decidiu o seguinte: "Recomende-se o réu na prisão em que se encontra, expedindo-se guia de recolhimento provisória, se não ocorrer o trânsito em julgado. Ademais, o tempo de prisão processual não é suficiente para determinar a imediata progressão de regime" (fl. 29, grifei).
+Impetrado habeas corpus perante o Tribunal a quo, o órgão julgador manteve o paciente preso pelos fundamentos a seguir (fls. 17-18):
+Vedado o benefício de apelar em liberdade, não há, na espécie, qualquer constrangimento ilegal a ser sanado, pois tal bem se adequa ao fato do suplicante ter respondido preso a toda tramitação da ação em Primeira Instância.
+ ..
+Da leitura do alentado édito de fls. 11/21, se depreende que o mesmo bem dá conta do porquê da não concessão do direito do paciente recorrer solto, uma vez que permaneceu segregado durante a fase instrutória, o que denota que nela já haviam sido analisados os requisitos da prisão preventiva, consignando, ainda, o Magistrado que "Recomende-se o réu na prisão em que se encontra, expedindo-se guia de recolhimento provisória, se não ocorrer o trânsito em julgado. Ademais, o tempo de prisão processual não é suficiente para determinar a imediata progressão de regime" (fl. 21), daí porque seria um contrassenso libertá-lo após a prolação da sentença que o condenou, inclusive porque, agora, a prisão está embasada em título diverso.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Conforme expressa previsão legal contida no art. 387, § 1º, do CPP, ao prolatar a sentença condenatória, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta".
+É certo que esta Corte Superior compreende que "tendo o recorrente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse-lhe deferida a liberdade" (HC n. 599.157/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 31/8/2020). Isso não significa dizer, todavia, que o Juízo sentenciante está dispensado de motivar a manutenção da prisão cautelar.
+Sob essas premissas, o Superior Tribunal de Justiça entende que, mesmo que o réu haja respondido ao processo-crime preso, por força de decreto idôneo, a manutenção da custódia cautelar, por ocasião da sentença, está condicionada à fundamentação, ainda que sucinta, acerca da sua necessidade.
+Nessa perspectiva:
+ ..  Nos termos da pacífica jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, nos casos em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma.  ..
+(RHC n. 102.448/BA, Rel. Ministra Laurita Vaz, 6ª T., DJe 19/12/2018, grifei)
+Assim, não basta tratar-se de fato muito grave, ou de haver sido já condenado em primeiro grau a elevada pena; é direito do réu, ao ser sentenciado, ter nova análise cautelar de sua segregação, pois ainda não se formou juízo definitivo de condenação e somente a demonstração da necessidade da cautela máxima autoriza sua manutenção.
+Na hipótese, verifico que não se mostram suficientes as razões invocadas na instância de origem para embasar a negativa do direito de recorrer ao ora paciente, porquanto deixaram de contextualizar, em dados concretos dos autos, a necessidade cautelar de segregação do acusado.
+Com efeito, a Juíza de primeira instância mencionou, genericamente, que o réu respondeu ao processo preso, determinando a expedição de guia de recolhimento provisória - fundamentos que são insuficientes para justificar a manutenção da custódia ante tempus. Deveras, a Magistrada não procedeu ao exame de necessidade e adequação da custódia cautelar, nem mesmo per relationem, e, portanto, a decisão carece de fundamentação idônea.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. ROUBO MAJORADO. PRISÃO PREVENTIVA MANTIDA PELA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL RECONHECIDO. HABEAS CORPUS CONCEDIDO.
+1. A sentença condenatória não traz qualquer motivação do caso concreto para a manutenção da segregação cautelar, justificando a medida apenas porque foi fixado regime inicial fechado para o cumprimento de pena e o paciente respondeu preso ao processo, o que indica a ausência de fundamentos para a prisão preventiva.
+2. Habeas corpus concedido para a soltura do paciente CASSIANO BRITO DA SILVA, sem prejuízo da determinação de nova e fundamentada medida cautelar penal, inclusive menos gravosa que a prisão preventiva.
+(HC n. 451.976/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe de 4/2/2019, destaquei)
+HABEAS CORPUS. TRÁFICO DE DROGAS. RECURSO EM LIBERDADE. INDEFERIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO ABSTRATA. ORDEM CONCEDIDA.
+ ..
+3. É inidôneo o argumento de que a custódia cautelar deve ser mantida pelo fato de o réu haver respondido ao processo preso. Nos termos do art. 387, § 1º, do CPP, o Magistrado, ao prolatar a sentença, deverá decidir, fundamentadamente, acerca da liberdade do acusado. Precedentes.
+4. Ordem concedida.
+(HC n. 600.686/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe de 2/12/2020, grifei)
+À vista do exposto, concedo a ordem para revogar a prisão preventiva do paciente.
+Publique-se e intimem-se.
+EMENTA
