@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUÍZO FEDERAL DA 3A VARA DE CAMPINAS - SJ/SP e que conta com o JUÍZO DE DIREITO DA 2A VARA CÍVEL DE CAMPINAS - SP como Juízo suscitado; o conflito foi instaurado em razão de ação de obrigação de pagar ajuizada contra a Caixa Econômica Federal com vistas ao levantamento de valores de FGTS depositados em conta de pessoa falecida.
+Distribuído o feito na Justiça Estadual, o Juízo suscitado declinou da competência afirmando ser absolutamente incompetente para processar e julgar ações movidas contra a Caixa Econômica Federal.
+A Justiça Federal, por sua vez, suscitou o presente conflito negativo de competência pugnando pelo aplicação da Súmula 161 do STJ.
+É o relatório.
+No caso, o Juízo federal declinou da competência ao argumento de que, em se tratamento de ação para levantamento de saldo em conta vinculada ao PIS/PASEP e FGTS de pessoa falecida, cabendo, assim, a incidência da Súmula 161/STJ.
+Esse é o entendimento adotado pela Primeira Seção desta Corte, que pacificou a orientação de que, tratando-se de procedimento de jurisdição voluntária (pedido de alvará judicial), a competência para seu processamento e julgamento, em regra, é da Justiça estadual, nos termos da Súmula 161 do STJ, segundo a qual: "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/PASEP e FGTS, em decorrência do falecimento do titular da conta".
+Nesse sentido, confiram-se os seguintes julgados:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUIZADO ESPECIAL. ALVARÁ LIBERATÓRIO. LEVANTAMENTO DE VALORES DEPOSITADOS NO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. PEDIDO FUNDADO NA LEI 6.858/80. MORTE DO TITULAR DA CONTA. INCIDÊNCIA DA SÚMULA 161/STJ. COMPETENTE A JUSTIÇA COMUM ESTADUAL.
+1. Em se tratando de pedido de expedição de alvará judicial requerido nos termos da Lei 6.858/80, ou seja, em decorrência do falecimento do titular da conta, inexiste lide a ser solucionada. Cuida-se, na verdade, de medida de jurisdição voluntária com vistas à mera autorização judicial para o levantamento, pelos sucessores do de cujus, de valores incontestes depositados em conta de titularidade de pessoa falecida "independente de inventário ou arrolamento".
+2. Desse modo, a Caixa Econômica Federal não é parte integrante da relação processual, mas mera destinatária do alvará judicial, razão por que deve ser afastada a competência da Justiça federal.
+3. Incide, à espécie, o enunciado 161 da súmula do STJ, segundo o qual: "É da competência da Justiça estadual autorizar o levantamento dos valores relativos ao PIS/Pasep e FGTS, em decorrência do falecimento do titular da conta".
+4. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara de Cotia. (CC n. 102.854/SP, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 11/3/2009, DJe de 23/3/2009.)
+PROCESSUAL CIVIL. CONFLITO (NEGATIVO) DE COMPETÊNCIA. FGTS. ALVARÁ JUDICIAL. PROCEDIMENTO DE JURISDIÇÃO VOLUNTÁRIA. INEXISTÊNCIA DE CONFLITO DE INTERESSES. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. A orientação da Primeira Seção desta Corte firmou-se no sentido de que, não havendo conflito de interesses, compete à Justiça Estadual autorizar o levantamento dos valores relativos ao FGTS e PIS/PASEP nos procedimentos de jurisdição voluntária. Aplica-se, analogicamente, o disposto na Súmula 161/STJ: "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/PASEP e FGTS, em decorrência do falecimento do titular da conta."
+2. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara de Andradina, o suscitado. (CC n. 92.053/SP, relatora Ministra Denise Arruda, Primeira Seção, julgado em 25/6/2008, DJe de 4/8/2008.)
+Pelas considerações expostas, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 2A VARA CÍVEL DE CAMPINAS - SP, o suscitado .
+Publique-se. Comunique-se.
+EMENTA
