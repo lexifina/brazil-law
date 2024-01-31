@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Criminal de Santa Maria/DF, o suscitante, e o Juízo de Direito da 2ª Vara Criminal de Luziânia/GO, o suscitado.
+A natureza do dissenso foi assim sintetizad a pelo Ministério Público Federal (fls. 286/288):
+Trata-se de conflito de competência suscitado pelo Juízo de Direito da 2a Vara Criminal de Santa Maria-DF, após remessa, pelo Juízo de Direito da 2A Vara Criminal de Luziânia/GO, dos autos de inquérito policial instaurado para apurar eventuais de crimes previstos no artigo 157, §2º, incisos II e VII, § 2º-A, inciso I, e no artigo 329, ambos do Código Penal e no artigo 12 da Lei 10.826/2003.
+O Juízo suscitante assim resumiu os fatos:
+Cuidam os presentes autos de ação penal de iniciativa pública incondicionada, proposta pelo Ministério Público em desfavor de Wallace Silva dos Reis (artigo 157, § 2º, incisos II e IV e §2º"A, inciso I, do Código Penal - vítima Maria de Fátima -, artigo 157, §2º, incisos II e VII e §2º"A, inciso I, do Código Penal - vítimas Adriana e Daniel -; Wallyson Rocha de Souza (artigo 157, §2º, incisos II e VII e §2º"A, inciso I, do Código Penal - vítimas Adriana e Daniel -, e; Wanderson José Bezerra dos Reis (artigo 157, §2º, incisos II e VII e §2º"A, inciso I, do Código Penal - vítimas Adriana e Daniel -, artigo 12 da Lei nº 10"826/2003 e artigo 329, caput, do Código Penal), nos seguintes termos:
+PRIMEIRO FATO
+No dia 28 de agosto de 2023, por volta de 15:30h, na Quadra 206, conjunto G, Santa Maria/DF, WALLACE SILVA DOS REIS e indivíduo não identificado, mediante grave ameaça exercida com emprego de armas de fogo, subtraíram, em proveito de ambos, o veículo Ônix, placa PBN4036 e três aparelhos celulares, pertencentes a Maria de Fátima Oliveira Lopes" Após a subtração, o acusado transportou o veículo para o Estado de Goiás"
+SEGUNDO FATO
+No dia 30 de agosto de 2023, por volta de 00:30h, na via pública próxima à Chácara Vera Cruz, Luziânia/GO, WALLACE SILVA DOS REIS, WANDERSON JOSÉ BEZERRA DOS REIS e WALLYSON ROCHA DE SOUZA, mediante grave ameaça exercida com emprego de uma faca e armas de fogo, subtraíram, em proveito do grupo, uma bolsa contendo documentos pessoais, chaves, duas máquinas de passar cartão e um livro vade mecum, bens pertencentes a Adriana Kelly Ferreira de Souza" Subtraíram, ainda, um carrinho de compras com três caixas de balas, duas garrafas tupperware, duas máquinas de passar cartão, um celular S8 Samsung e o carregador, uma cadeira dobrável, uma CNH e valor de R$ 60,00, pertencentes a Daniel Queiroz
+TERCEIRO FATO
+No dia 30 de agosto de 2023, por volta de 1:30h, na BR 040, o acusado WANDERSON JOSÉ BEZERRA DOS REIS, de forma livre e consciente, opôs-se à execução de ato legal, mediante violência a policias militares"
+QUARTO FATO
+No dia 30 de agosto de 2023, por volta de 1:30h, na Rua 93, Quadra 13, Lote 24, no bairro Jardim Muarama, Luziânia/GO, o acusado WANDERSON JOSÉ BEZERRA DOS REIS, de forma livre e consciente, manteve sob sua guarda, no interior de sua residência, duas munições, de uso permitido, em desacordo com determinação legal ou regulamentar".
+Inicialmente, os autos foram distribuídos à 2ª Vara Criminal da Comarca de Luziânia/GO, após os denunciados serem presos em flagrante delito naquela cidade do entorno do Distrito Federal" No decorrer do trâmite processual, durante audiência de custódia realizada na cidade de Luziânia/DF, referido Juízo apreciou a legalidade da prisão dos indiciados e, na mesma ocasião, reconheceu a conexão entre o delito de roubo que fora praticado na cidade satélite de Santa Maria/DF e todos os demais que foram praticados em Luziânia/GO, nos termos do art" 78, inciso II, alínea  b  do CPP"
+Entretanto, a despeito das conclusões exaradas pelo Juízo da Audiência de Custódia daquela cidade goiana (ID 175572005), bem como após o representante do Ministério Público de Goiás oficiar pelo declínio parcial da competência ao argumento de que a maioria dos crimes fora perpetrada em Luziânia/GO (ID 175572032), o MM" órgão julgador da 2ª Vara Criminal de Luziânia/GO considerou presente uma causa de aumento de pena a mais no suposto crime de roubo ocorrido em Santa Maria/DF, motivo pelo qual declinou da competência para processar o presente feito em favor deste Juízo distrital (ID 175572037)"
+Os autos foram distribuídos a esse Juízo.
+O representante do Ministério Público do Distrito Federal e Territórios ofereceu ação penal em desfavor dos denunciados (ID 175707972).
+O Juízo suscitado declinou da competência em favor de uma das Varas Criminais de Santa Maria/DF, ao entendimento de "o primeiro roubo, praticado no Distrito Federal, ao contrário do apontado na decisão de fls. 146/148, é mais grave que os demais, já que também tem a presença da causa de aumento da subtração de veículo automotor transportado para outro Estado. Outrossim, tratando-se de continuidade delitiva, a conexão é critério que prepondera para a definição da competência  .. ".
+O Juízo suscitante consignou que, "nos termos do art" 71 do CPP, tratando-se de infrações continuadas, a competência firmar-se-á pela prevenção".
+ ..
+No parecer, o órgão ministerial opinou pela competência do Juízo suscitado (fls. 288/291):
+ ..
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Segundo se extrai dos autos, os denunciados foram presos em flagrante delito na cidade de Luziânia/GO, por policiais militares pela suposta prática dos crimes de roubo, posse ilegal de munição e resistência.
+Em síntese, os agentes cometeram o primeiro roubo majorado na cidade satélite de Santa Maria/DF, local em que no dia 28/08/2023, por volta das 15:30 horas, subtraíram três aparelhos celulares e um veículo Ge/Onix, placa PBN4036, todos de propriedade da vítima M.F.O.L. No dia 3/08/2023, seguiram em direção a Luziânia, por volta das 00:45 horas, em via pública, no Setor de Chácaras Vera Cruz, na condução do um veículo Ge/Onix, placa PBN-4036, subtraído da primeira vítima, praticaram novo roubo contra o casal de vítimas D.Q. e A.K.F.S. Apurou-se, ainda, que na madrugada de 29/08/2023, por volta das 02:40, os agentes na condução de um um veículo Ge/Onix, placa PBN-4036, cor preta, se aproximaram, colidiram em sua motocicleta, provocando-lhe a queda, oportunidade em que com a vítima ao chão, anunciaram o roubo e subtraíram o aparelho celular e a motocicleta Yamaha/125 CC, placa NFN-9914 (sem notícias ainda acerca da recuperação/apreensão).
+Dos fatos descritos acima, conclui-se que os supostos roubos se deram em territórios da jurisdição de Brasília-DF e de Luziânia-GO, sendo apenas um de roubo, ocorrido na cidade satélite de Santa Maria (primeiro fato) e todos os demais (dois crimes de roubo, um de resistência e outro de posse ilegal de munição) ocorridos na cidade de Luziânia/GO.
+Nesse contexto, sendo igualmente competentes os juízos em conflito, a competência deve ser fixada pelo critério da prevenção, conforme dispõem os arts. 71 e 83, ambos do CPP, verbis:
+Art. 71. Tratando-se de infração continuada ou permanente, praticada em território de duas ou mais jurisdições, a competência firma-se-á pela prevenção.
+Art. 83. Verificar-se-á a competência por prevenção toda vez que, concorrendo dois ou mais juízes igualmente competentes ou com jurisdição cumulativa, um deles tiver antecedido aos outros na prática de algum ato do processo ou de medida a este relativa, ainda que anterior ao oferecimento da denúncia ou da queixa (arts. 70, § 3º , 71, 72, § 2º , e 78, II, c).
+Na hipótese, o Juízo da 2ª Vara Criminal de Luziânia/GO tornou-se prevento para todos os crimes apurados, pois os agentes foram presos em flagrante na cidade de Luziânia, e o Juízo suscitado foi o responsável pelo primeiro ato no processo, qual seja, a conversão da prisão em flagrante em custódia preventiva. Ademais, o fato de que a maior parte dos roubos tenha ocorrido no território afeto à competência da autoridade suscitada facilitará para esta a coleta da prova. Corroboram o referido entendimento os seguintes julgados:
+ ..
+Ante o exposto, o Ministério Público Federal manifesta-se pela fixação da competência do Juízo de Direito 2ª Vara Criminal de Luziânia-GO, o suscitado, para o processamento e julgamento dos crimes em questão.
+É o relatório.
+O objeto da ação penal é apurar a prática de crimes conexos e o dissenso verificado é entre Juízos de mesma categoria, o que atrai a aplicabilidade do art. 78, II, do Código de Processo Penal:
+Art. 78. Na determinação da competência por conexão ou continência, serão observadas as seguintes regras:
+ ..
+II - no concurso de jurisdições da mesma categoria:
+a) prevalecerá a do lugar da infração à qual for cominada a pena mais grave;
+b) prevalecerá a do lugar em que houver ocorrido o maior número de infrações, se as respectivas penas forem de igual gravidade;
+c) firmar-se-á a competência pela prevenção, nos outros casos;
+No caso, conforme bem sintetizado na manifestação do Ministério Público Federal, os supostos roubos se deram em territórios da jurisdição de Brasília-DF e de Luziânia-GO, sendo apenas um de roubo, ocorrido na cidade satélite de Santa Maria (primeiro fato) e todos os demais (dois crimes de roubo, um de resistência e outro de posse ilegal de munição) ocorridos na cidade de Luziânia/GO (fl. 289).
+Ocorre que, entre os crimes imputad os, aquele praticado em Santa Maria/DF ostenta gravidade superior, na medida em que se trata de roubo de veículo majorado pelo concurso de agentes, emprego de arma de fogo e transporte do veículo para outro estado da federação (fl. 275 - grifo nosso):
+ ..
+PRIMEIRO FATO
+"No dia 28 de agosto de 2023, por volta de 15:30h, na Quadra 206, conjunto G, Santa Maria/DF, WALLACE SILVA DOS REIS e indivíduo não identificado, mediante grave ameaça exercida com emprego de armas de fogo, subtraíram, em proveito de ambos, o veículo Ônix, placa PBN4036 e três aparelhos celulares, pertencentes a Maria de Fátima Oliveira Lopes" Após a subtração, o acusado transportou o veículo para o Estado de Goiás"
+ ..
+Assim, é o caso de fixar a competência conforme a regra do art. 78, II, a, do Código de Processo Penal, circunstância que atrai a competência do Juízo suscitante.
+Em face do exposto, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Santa Maria/DF, o suscitante.
+Dê-se ciência aos Juízes envolvidos.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO PENAL. ROUBOS MAJORADOS, RESISTÊNCIA E POSSE ILEGAL DE MUNIÇÕES. CRIMES CONEXOS. COMPETÊNCIA FIXADA NA FORMA DO ART. 78, II, A, DO CPP.
+Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Santa Maria/DF, o suscitante.
