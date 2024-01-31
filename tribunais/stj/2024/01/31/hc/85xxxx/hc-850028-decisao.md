@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Mikail Reimberg Rocha, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 0059455-81.2016.8.26.0050) - fl. 351:
+ASSOCIAÇÃO CRIMINOSA - COISA JULGADA - Hi pótese na qual a mesma associação criminosa foi examinada em feito diverso - Apesar de, naquele feito, ter sido descrita a participação de agentes adicionais, nota-se que foi exposto o mesmo modus operandi - as vítimas eram abordadas pelas mesmas empresas empregadas no ardil examinado neste feito e o prejuízo se originava da mesma maneira. Esses idênticos elementos indicam que se trata, em realidade, da mesma associação criminosa, examinada em dois feitos diversos - Feito extinto em relação a esse crime.
+ESTELIONATO - ABSOLVIÇÃO - Impossibilidade - Tese de mero desacordo comercial - Compra e venda e consignação feitas em concessionária de veículos automotores - Negócio Jurídico (compra e venda, ou consignação, dependendo do caso concreto), feito sem que houvesse a posterior intenção de adimplemento.
+O pacto, em outras palavras, circunda o intuito fraudulento, servindo de instrumento para a obtenção da res. Não se cuida, in casu, da impossibilidade posterior de pagamento, matéria afeta ao direito civil, mas da celebração de contrato com o fim último da obtenção de ilícita vantagem. O inadimplemento, sob esse ponto de vista, é intencional, pretendido.
+Pretende-se, em liminar e no mérito, a concessão da ordem para absolver o ora paciente quanto à prática do crime de estelionato, com fundamento no art. 386, III, do Código de Processo Penal, em razão da atipicidade da conduta, argumentando-se que ele não percorreu o núcleo do tipo penal (fl. 6), estando caracterizado apenas o ilícito cível.
+Indeferi o pedido liminar.
+Depois de prestadas informações, os autos seguiram ao Ministério Público Federal, que opinou de acordo com esta ementa (fl. 441):
+EMENTA: HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. ART. 105, INCISO I, ALÍNEA "E", DA CF. COMPETÊNCIA DO STJ RESTRITA AO PROCESSAMENTO E JULGAMENTO DE REVISÕES CRIMINAIS DE SEUS PRÓPRIOS JULGADOS. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+Incensurável o parecer elaborado pelo Subprocurador-Geral da República Alcides Martins, o qual também adoto como razão de decidir.
+Afinal, o habeas corpus não deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro, o qual permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional. Foi essa a linha de raciocínio do Ministro Rogerio Schietti Cruz sobre a frequente impetração de habeas corpus tanto em caráter substitutivo de todas as modalidades recursais como de forma contemporânea ao manejo do recurso cabível (HC n. 707.301/SP, DJe 23/11/2021).
+De qualquer forma, destaco que, ainda que fosse possível superar o óbice verificado, não seria o caso de concessão da ordem pleiteada, porquanto a pretensão de absolvição - com a consequente reversão da conclusão de que não se cuida, in casu, da impossibilidade posterior de pagamento, matéria afeta ao direito civil, mas da celebração de contrato com o fim último da obtenção de ilícita vantagem (fl. 367) - esbarra na necessidade de ampla incursão no acervo fático-probatório, o que não se admite.
+Pelo exposto, não conheço deste habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ESTELIONATO. PLEITO DE ABSOLVIÇÃO. ALEGADA ATIPICIDADE DA CONDUTA. CONDENAÇÃO DEFINITIVA. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. INVIABILIDADE DE APROFUNDADA INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. PARECER ACOLHIDO.
+Writ não conhecido.
