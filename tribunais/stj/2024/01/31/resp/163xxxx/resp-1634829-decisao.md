@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ MENDES MACHADO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 1.396):
+AGRAVO DE INSTRUMENTO. VALOR DA CAUSA. COMPETÊNCIA.
+1. Nos termos do art. 3º da Lei 10.259/2001 "compete ao juizado Especial Federal Cível processar, conciliar e julgar causas de competência da Justiça Federal até o valor de sessenta salários mínimos, bem como executar as suas sentenças".
+2. O valor da causa, individualmente considerado, é inferior a 60 salários mínimos, a competência para processar e julgar a ação é do Juizado Especial F ederal.
+Embargos de declaração acolhidos apenas para fins de prequestionamento (e-STJ fls. 1.435/1.439).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(a) art. 119 do Código de Processo Civil de 2015, sustentando que eventual participação da Caixa Econômica Federal no feito seria como assistente simples e desde que preenchidos os requisitos previstos nos Temas 50 e 51 do STJ, com a permanência do feito na Justiça Estadual, não havendo que se falar em deslocamento da competência para a Justiça Federal;
+(b) art. 3º, da Lei n 10.259/2001, ao argumento de que a demanda trata de direito coletivo e, portanto, não está incluída na competência do Juizado Especial Federal.
+Contrarrazões às e-STJ fls. 1.647/1.654.
+O Tribunal de origem negou seguimento ao recurso especial em relação à competência da Justiça Federal para a apreciação do feito, por estar em consonância com a tese firmada no Tema 1.011 do STF e admitiu-o quanto às demais questões (e-STJ fls. 1.804/1.806).
+Passo a decidir.
+Inicialmente, cumpre observar que, em 04/10/2023, a Corte Especial concluiu o julgamento do CC 148.188/DF e, por unanimidade, declarou competente a Primeira Seção do STJ para processar e julgar ações sobre contrato de mútuo habitacional com cobertura do FCVS, em aresto com a seguinte ementa:
+PROCESSO CIVIL. CONFLITO NEGATIVO INTERNO DE COMPETÊNCIA. CONTRATO DE MÚTUO HABITACIONAL. COMPROMETIMENTO DO FCVS. APÓLICE PÚBLICA (RAMO 66).
+1. Já se manifestou a Corte Especial do STJ no sentido de que, nos processos em que possa haver comprometimento dos recursos do Fundo de Compensação das Variações Salariais - FCVS, a competência para julgamento é da Primeira Seção. Precedentes: CC n. 121.499/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 23/4/2012, DJe de 10/5/2012; CC n. 36.647/SP, Rel. Ministro Felix Fischer, Corte Especial, DJ de 22/3/2004, p. 186.
+2. As próprias Turmas da Primeira Seção reiteradamente já declararam sua competência para o julgamento de questões que envolvem os contratos de mútuo habitacional que impliquem comprometimento do FCVS. REsp n. 1.607.242/PR, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 15/9/2016, DJe de 11/10/2016; AgInt no REsp n. 1.584.571/RS, Rel. Min. Relatora Diva Malerbi (Desembargadora convocada TRF 3ª Região), Segunda Turma, julgado em 7/6/2016, DJe de 13/6/2016; AgRg no AREsp n. 469.407/PE, Rel. Min. Humberto Martins, Segunda Turma, julgado em 15/9/2015, DJe de 23/9/2015.
+Conflito de competência conhecido para declarar competente a Primeira Seção. (CC n. 148.188/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 4/10/2023, DJe de 16/10/2023).
+Dito isso, nota-se que a alegação de que a matéria discuta dos autos envolve direitos coletivos, razão pela qual não poderia ser distribuída a Juizado Especial Federal não foi apreciada pelo Tribunal de origem, tampouco objeto dos embargos de declaração opostos, carecendo, portanto, do requisito constitucional do prequestionamento. Incide, no ponto, o óbice da Súmula 282 do STF.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SÚMULA 282 STF. HONORÁRIOS ADVOCATÍCIOS NO CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA SOBRE O VALOR EXECUTADO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Súmula 282/STF.
+2. Os honorários advocatícios no cumprimento de sentença devem incidir apenas sobre o valor executado pelo advogado, e não sobre o valor do crédito apurado em favor de seu cliente, no processo de conhecimento. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.309.419/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COBRANÇA DE TAXA DE OCUPAÇÃO E DE LAUDÊMIO, PELA UNIÃO. PROCEDIMENTO DE DEMARCAÇÃO. EDITAL. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência do STJ, firmada sob o rito dos recursos repetitivos, "nos procedimentos de demarcação de terrenos de marinha, é válido o ato jurídico de chamamento de interessados certos ou incertos à participação colaborativa com a Administração formalizado exclusivamente por meio de edital, desde que o ato tenha sido praticado no período de 31/05/2007 até 28/03/2011, em que produziu efeitos jurídicos a alteração legislativa do art. 11 do Decreto-lei 9.760/46 promovida pelo art. 5º da Lei 11.481/2007" (STJ, REsp 2.015.301/MA, Rel. Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA SEÇÃO, DJe de 15/09/2023).
+III. No caso, contudo, não houve prequestionamento da matéria, nem a parte ora agravante suscitou a questão, perante o Tribunal de origem, em sede de Embargos de Declaração, de modo que a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+IV. Agravo interno improvido.
+(AgInt no REsp n. 2.080.295/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.).
+Além disso, nas razões do apelo nobre, a parte insurgente apontou violação do art. 3º da Lei n. 10.259/2001, sem especificar, de forma clara, direta e objetiva, eventual parágrafo ou inciso, de modo que se tem entende que a irresignação diz respeito apenas à cabeça do dispositivo indicado.
+Confiram-se: AgInt no AREs 1.833.676/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2021, DJe de 22/9/2021; e AgInt no REsp 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 5/9/2017, DJe de 18/9/2017.
+Registre-se a citação ou transcrição de passagens com o dispositivo legal não satisfaz a necessidade de indicação do dispositivo contrariado ou a que se deu interpretação divergente, já que é impossível identificar que foram citados a título argumentativo ou invocados como núcleo central do recurso especial.
+Nesse sentido: AgInt no AREsp 2.087.834/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023; e AgInt no REsp 1.615.830/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 11/06/2018.
+Nesse passo, nota-se que a cabeça do art. 3º da Lei n. 10.259/2001 não tem comando normativo, por si só, suficiente para sustentar a pretensão recursal, o que demonstra a deficiência na fundamentação e atrai o óbice da Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
