@@ -1,0 +1,12 @@
+DECISÃO
+MATHEUS JOSÉ MARIA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O paciente sustenta que a sua condenação por roubo está baseada em em reconhecimento fotográfico realizado de forma irregular, sem observância das formalidades do art. 226, do CPP, insuficiente para comprovar a autoria delitiva. Requer a absolvição.
+O Ministério Público Federal opinou pelo não conhecimento da impetração.
+Decido.
+O Tribunal a quo, ao julgar a apelação (fls. 418-432), não se manifestou sobre eventual irregularidade em reconhecimento fotográfico e sobre a falta de outras provas, independentes, que justifiquem a manutenção da condenação. A tese defensiva não foi apreciada no ato apontado como coator, de modo que não pode ser conhecida por esta Corte, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Deveras, "os capítulos  ..  do reconhecimento da violação do art. 226 do CPP não foram apreciados pelo Tribunal a quo, pois apenas se pronunciou acerca da  ..  suficiência probatória da condenação e  .. . Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça" (AgRg no HC n. 836.117/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023).
+Todavia, verifica-se a prestação jurisdicional incompleta do Tribunal de Justiça. Em embargos de declaração, a defesa pediu o pronunciamento do órgão "sobre os argumentos apresentados  ..  nas razões de apelação" (fl. 445), mas os aclaratórios foram rejeitados, "tendo em vista que a parte pretende apenas rediscutir matérias definitivamente apreciadas pela Turma julgadora" (fl. 444).
+Houve omissão de tema essencial para o deslinde da apelação. Era de rigor a análise da tese, pois nem sequer de forma implícita, o Tribunal examinou se a autoria delitiva teve como único elemento de prova o reconhecimento fotográfico realizado sem as formalidades do art. 226 do CPP, ou se existem outras provas, independentes, que justifiquem a manutenção da condenação.
+À vista do exposto, não conheço do habeas corpus, haja vista a supressão de instância. Contudo, de ofício, determino ao Tribunal de Justiça a reapreciação dos embargos de declaração, para que seja apreciada a tese defensiva.
+Publique-se e intimem-se.
+EMENTA
