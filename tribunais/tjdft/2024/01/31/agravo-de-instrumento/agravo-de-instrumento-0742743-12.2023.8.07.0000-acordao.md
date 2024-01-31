@@ -1,0 +1,116 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0742743-12.2023.8.07.0000AGRAVANTE(S)MAURO APARECIDO OLIVEIRAAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador ROBSON BARBOSA DE AZEVEDO
+ Acórdão Nº1809622
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. ALTERAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA. SUBSTITUIÇÃO DA TR PELO IPCA-E. CABIMENTO. READEQUAÇÃO AOS TEMAS 810 DO STF E TEMA 905 DO STJ. POSSIBILIDADE. VIOLAÇÃO À COISA JULGADA. AUSÊNCIA. ENTENDIMENTO VINCULANTE. RECURSO CONHECIDO E PROVIDO.
+
+1. O e. Supremo Tribunal Federal, nos autos do RE n.º 870.947/SE, afastou a utilização da Taxa Referencial (TR) como índice de correção monetária dos débitos judiciais da Fazenda Pública e, em substituição, foi determinada a atualização monetária segundo o IPCA-e.
+
+2. Não há que se falar em violação à coisa julgada nas hipóteses de mera alteração do índice de correção monetária por força de entendimento vinculante formado posteriormente e sem modulação de efeitos.
+
+3. O Superior Tribunal de Justiça, no julgamento do Tema 905, especificamente em relação às condenações judiciais referentes a servidores públicos e empregados públicos, caso dos autos, definiu como índice adequado a capturar a variação de preços da economia e, assim, promover os fins a que se destina a correção monetária, o IPCA-e.
+
+4. Recurso CONHECIDO e PROVIDO.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ROBSON BARBOSA DE AZEVEDO - Relator, SANDRA REVES - 1º Vogal e MAURICIO SILVA MIRANDA - 2º Vogal, sob a Presidência da Senhora Desembargadora SANDRA REVES, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 08 de Fevereiro de 2024
+
+Desembargador ROBSON BARBOSA DE AZEVEDORelator
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento, com pedido de tutela de urgência, interposto pelo MAURO APARECIDO OLIVEIRA contra a decisão proferida nos autos do processo de cumprimento de sentença n.º 0703191-83.2023.8.07.0018, que tramita na 3ª Vara da Fazenda Pública do DF, que deferiu parcialmente o pedido da Fazenda Pública de impugnação ao cumprimento de sentença.
+
+Em suas razões, de ID n.º 52110318, sustenta o agravante que é cabível a aplicação do IPCA-E em substituição à TR fixada no título que se pretende executar. Colacionou entendimentos jurisprudenciais favoráveis à sua tese. Requer a concessão de tutela de urgência para que se determine a incidência do IPCA-E como taxa de atualização monetária e se remetam os autos à contadoria judicial. No mérito, requer a confirmação da liminar e reforma da decisão recorrida.
+
+Preparo recolhido no Id nº. 52110319.
+
+O pedido de efeito suspensivo foi deferido pela decisão de ID n.º 52179743.
+
+Intimado, o Distrito Federal apresentou contrarrazões no ID n.º 52409593, pugnando pelo desprovimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ROBSON BARBOSA DE AZEVEDO - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso interposto.
+
+Trata-se de agravo de instrumento, com pedido de tutela de urgência, interposto pelo MAURO APARECIDO OLIVEIRA contra a decisão proferida nos autos do processo de cumprimento de sentença n.º 0703191-83.2023.8.07.0018, que tramita na 3ª Vara da Fazenda Pública do DF, que deferiu parcialmente o pedido da Fazenda Pública de impugnação ao cumprimento de sentença.
+
+A decisão ora combatida é vista no ID n.º 171486038 PJe-1, nos autos do processo originário, que trata de cumprimento de sentença contra a Fazenda Pública que acolheu a impugnação do Distrito Federal nos seguintes termos:
+
+“É fato incontroverso que a sentença proferida na ação de conhecimento n. 32.159/97, autos do processo coletivo, transitou em julgado em momento anterior ao julgamento do Tema n. 810 do c. STF. Além disso, o título transitado em julgado expressamente dispôs acerca dos juros e correção monetária, razão pela qual injustificável a aplicação de critérios de atualização diversos dos amparados pela coisa julgada.
+
+A análise quanto à aplicação de índice de correção monetária fixada em decisão transitada em julgado em condenações contra a Fazenda Pública está em tramitação no c. STF, em regime de repercussão geral [Tema n. 1.170/STF – validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810)], na execução de título judicial que tenha fixado expressamente índice diverso. Com efeito, não foi determinada a suspensão dos processos que tramitam no território nacional que versem sobre a mesma matéria.
+
+Assim, acolho a alegação do ente distrital para manter os critérios de atualização dos cálculos estabelecidos na decisão transitada em julgado.”.
+
+No mérito, cinge-se a controvérsia na averiguação da possibilidade de utilização do IPCA-e para correção monetária, a partir de 30/6/2009, em substituição à TR, estabelecida no título exequendo.
+
+Na origem, cuida-se de cumprimento individual de sentença proferida em ação coletiva ajuizada pelo Sindicato dos Servidores Públicos Civis da Administração Direta, Autarquias, Fundações e Tribunal de Contas do Distrito Federal – SINDIRETA/DF, em que foi reconhecido o direito dos servidores ao recebimento das prestações em atraso do benefício alimentação desde janeiro de 1996.
+
+Como se sabe, a questão ora debatida tem sido objeto de exame recorrente por esta e. Corte de Justiça, que tem sinalizado pela possibilidade de alteração do índice de correção monetária das dívidas fazendárias para atender às disposições do Tema 810/STF.
+
+Destaque-se que, por ocasião do julgamento da repercussão geral (RE n.º 870.947/SE), o Colendo Supremo Tribunal Federal declarou a inconstitucionalidade do art. 1º-F da Lei n.º 9.494/97, com a redação dada pela Lei n.º 11.960/2009, obstando a utilização da TR como índice de correção monetária, devendo ser aplicado o IPCA-e (Índice de Preços ao Consumidor Amplo Especial), tendo como trânsito em julgado a data de 03/03/2020.
+
+Na hipótese, o decisum da ação coletiva, objeto do cumprimento individual de sentença movido pelo agravante, transitou em julgado em 11/03/2020, ou seja, posteriormente ao julgamento do Tema 810/STF.
+
+Dessa forma, inexiste preclusão ou mesmo ofensa à coisa julgada, visto que a declaração de inconstitucionalidade se deu antes do trânsito em julgado da ação coletiva que fundamenta o cumprimento de sentença.
+
+Assim, é certo que não pode prevalecer índice já reconhecido como inconstitucional.
+
+Ademais, a correção monetária, para as condenações judiciais da Fazenda Pública referentes a servidores e empregados públicos, com a utilização do IPCA-e, encontra amparo no Tema 905 do STJ, no qual firmou-se a tese de que: “(...) Condenações judiciais referentes a servidores e empregados públicos. As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E (...)”.
+
+Portanto, assiste razão ao agravante para reformar a r. decisão na parte que aplicou a TR como índice de correção monetária, porquanto é o IPCA-e o índice oficial a ser observado a partir de 30/06/2009 até 08/12/2021.
+
+Nesse sentido, é o entendimento deste e. Tribunal de Justiça:
+
+“PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. ATUALIZAÇÃO MONETÁRIA. IPCA-E. TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL. RE 870.947/SE. PRECLUSÃO AFASTADA. RECURSO PARCIALMENTE PROVIDO.
+
+1. O Colendo Supremo Tribunal Federal, nos autos do RE 870.947/SE, afastou a utilização da Taxa Referencial (TR) como índice de correção monetária dos débitos judiciais da Fazenda Pública e, em substituição, foi determinada a atualização monetária segundo o IPCA-E.
+
+3. Inexiste ofensa à coisa julgada a alteração do índice de correção monetária do valor devido em sede de cumprimento de sentença ante a sua submissão à cláusula rebus sic standibus, porquanto o C. STJ já decidiu que "os juros moratórios, assim como a correção monetária, são consectários legais da obrigação principal e estão submetidos à cláusula rebus sic stantibus, o que implica reconhecer ter a sentença eficácia futura desde que mantida a situação de fato e de direito na época em que ela foi proferida. Assim, se o título judicial transitado em julgado aplicou o índice vigente à época, deve-se proporcionar a atualização do percentual em vigor no momento do cumprimento da obrigação" (EREsp 935.608/SP, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 24/11/2011, DJe 06/02/2012;  AgInt no AREsp 1.696.441/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26/2/2021, entre outros).
+
+4. Cálculos que devem observar a incidência do IPCA-E a partir de 30/6/2009 até 8/12/2021.  A partir de 9/12/2021, com a publicação da Emenda Constitucional 113/2021, passa a incidir a taxa SELIC, que engloba juros e correção monetária.
+
+5. Agravo de Instrumento parcialmente provido.
+
+(Acórdão 1700801, 07387084320228070000, Relator: GETÚLIO DE MORAES OLIVEIRA, 7ª Turma Cível, data de julgamento: 10/5/2023, publicado no DJE: 24/5/2023. Pág.: Sem Página Cadastrada.) (grifo nosso)
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. ÍNDICE DE CORREÇÃO MONETÁRIA. SUBSTITUIÇÃO DA TR PELO IPCA-E. CABIMENTO. TEMAS 733 E 810 DO STF E 905 DO STJ. OFENSA À COISA JULGADA E PRECLUSÃO. INEXISTÊNCIA. DECISÃO REFORMADA.
+
+1. Por ocasião do julgamento da repercussão geral (RE 870.947/SE), a c. Corte Suprema declarou a inconstitucionalidade do artigo 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, obstando a utilização da TR como índice de correção monetária.
+
+2. É cabível, quando do cumprimento de sentença, a alteração do índice de correção monetária das dívidas fazendárias para atender às disposições do Tema 810/STF, desde que o trânsito em julgado do título exequendo tenha ocorrido posteriormente à declaração de inconstitucionalidade do artigo 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, em observância ao entendimento firmado no Tema 733/STF.
+
+3. Na hipótese, inexiste preclusão ou mesmo ofensa à coisa julgada, vez que o c. STF já tinha declarado a inconstitucionalidade da utilização da TR, frise-se, de forma definitiva, dias antes do trânsito em julgado da ação coletiva que fundamenta o cumprimento de sentença.
+
+4. A atualização dos valores com utilização do IPCA-E, no concernente à correção monetária, encontra guarida no Tema 905 do STJ para as condenações judiciais contra a Fazenda Pública referentes a servidores e empregados públicos.
+
+5. Agravo de instrumento conhecido e provido.”
+
+(Acórdão 1722220, 07182835820238070000, Relator: JOSE FIRMO REIS SOUB, 8ª Turma Cível, data de julgamento: 27/6/2023, publicado no DJE: 7/7/2023. Pág.:  Sem Página Cadastrada.) (grifo nosso)
+
+Desse modo, não pode prevalecer a decisão agravada quanto à aplicação da TR como fator de correção monetária no período declinado, uma vez que em patente desconformidade com o Tema 810 do STF e com o Tema 905 do STJ.
+
+Assim, na hipótese, os cálculos devem observar a incidência do IPCA-e a partir de 30/06/2009 até 08/12/2021. A partir de 09/12/2021, com a publicação da Emenda Constitucional 113, incide a taxa SELIC que engloba juros e correção monetária.
+
+Ante o exposto, confirmo a decisão liminar de Id nº. 52179743, CONHEÇO e DOU PROVIMENTO ao recurso para determinar a aplicação, a partir de 30/6/2009, do IPCA-e como índice de correção monetária em substituição à TR e, a partir de 09.12.2021, que passe a incidir a SELIC.
+
+É como voto.
+
+A Senhora Desembargadora SANDRA REVES - 1º Vogal Com o relatorO Senhor Desembargador MAURICIO SILVA MIRANDA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNANIME.
