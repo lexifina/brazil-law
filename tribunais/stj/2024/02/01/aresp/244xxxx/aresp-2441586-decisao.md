@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por OAS 40 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Compra e venda de imóvel. Cumprimento de sentença. Insurgência contra decisão que deferiu o pedido de desconsideração da personalidade jurídica. O artigo 50 do Código Civil autoriza a desconsideração da personalidade jurídica para que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares dos administradores ou sócios, desde que caracterizado o abuso pelo desvio de finalidade ou pela confusão patrimonial. Comprovada a formação de grupo econômico e confusão patrimonial entre a agravada e as empresas executadas, com vários sócios em comum e representadas pelos mesmos patronos e que funcionam no mesmo endereço. Recurso a que se nega provimento" (fl. 700).
+No recurso especial, a recorrente alega violação dos artigos 49-A e 50 do Código Civil ao argumento de não preenchimento dos requisitos legais autorizadores da desconsideração da personalidade jurídica.
+Contrarrazões às fls. 736/743.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, para rever o entendimento firmado pelas instâncias ordinárias, a partir da tese de que restou demonstrada a formação de grupo econômico e a confusão patrimonial, seria necessário o revolvimento dos aspectos fático-probatórios dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. GRUPO ECONÔMICO. COMPENSAÇÃO DE CRÉDITOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE VULNERABILIDADE E HIPOSSUFICIÊNCIA TÉCNICA. ALTERAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. Com relação à desconsideração da personalidade jurídica, a jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que, nas hipóteses em que reconhecida a existência de grupo econômico e verificada confusão patrimonial ou desvio de finalidade entre as empresas, é possível desconsiderar a personalidade jurídica de uma empresa para responder por dívidas de outra, inclusive em cumprimento de sentença, sem que haja violação da coisa julgada.
+3.1. Na hipótese dos autos o colegiado de origem concluiu que, embora pertencentes ao mesmo grupo econômico, não ficou comprovada a confusão patrimonial ou desvio de finalidade, razão pela qual entendeu não ser possível a desconsideração da personalidade jurídica.
+3.2. Logo, a questão foi resolvida com base nos elementos fáticos que permearam a demanda. Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo Tribunal a quo exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo interno improvido" (AgInt nos EDcl no AREsp n. 2.323.697/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 50 DO CÓDIGO CIVIL. INCIDENTE DE DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. TEORIA MAIOR. REQUISITOS OBJETIVOS. TRIBUNAL A QUO CONCLUIU PELA NÃO COMPROVAÇÃO DOS REQUISITOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. O legislador pátrio, no art. 50 do CC de 2002, adotou a teoria maior da desconsideração, que exige a demonstração da ocorrência de elemento objetivo relativo a qualquer um dos requisitos previstos na norma, caracterizadores de abuso da personalidade jurídica, como excesso de mandato, demonstração do desvio de finalidade (ato intencional dos sócios em fraudar terceiros com o uso abusivo da personalidade jurídica) ou a demonstração de confusão patrimonial (caracterizada pela inexistência, no campo dos fatos, de separação patrimonial entre o patrimônio da pessoa jurídica e dos sócios ou, ainda, dos haveres de diversas pessoas jurídicas).
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu expressamente que "não se verificam nesses casos concretos os requisitos legais para desconsideração da personalidade jurídica para extensão da responsabilidade à agravada", sobretudo não ocorrendo desvio de finalidade ou confusão patrimonial. Rever a conclusão a que chegou o acórdão recorrido importaria, necessariamente, o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido" (AgInt no AREsp n. 2.141.540/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
