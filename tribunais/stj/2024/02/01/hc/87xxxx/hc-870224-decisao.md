@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Ivanilson de Oliveira Pereira, apontando-se como autoridade coatora o Tribunal de Justiça do Ceará (Apelação Criminal n. 0050674-37.2020.8.06.0034).
+Narram os autos que o paciente foi condenado a 6 anos de reclusão, em regime inicial fechado, e 600 dias-multa, pela prática do crime de tráfico de drogas (pasta-base de cocaína, material para embalar drogas, como rolo de papel alumínio, potes de creatina lacrados, três frascos contendo bicarbonato de sódio, balança de precisão e a quantia de R$ 12.300,00 (doze mil e trezentos reais) em dinheiro - fl. 103).
+Neste mandamus, a impetrante alega, em síntese, a nulidade das provas colhidas em razão da flagrante violação de domicílio.
+Destaca que escritos anônimos não podem justificar, só por si, desde que isoladamente considerados, a imediata instauração da persecutio criminis, eis que peças apócrifas não podem ser incorporadas, formalmente, ao processo, salvo quando tais documentos forem produzidos pelo acusado (fl. 7).
+Menciona que há dúvidas sobre a autoria do crime, pois o corréu que, a princípio, havia confessado em sede policial, permaneceu em silêncio durante a ação penal e, quando da sentença, foi absolvido.
+Aduz que o paciente sempre negou ter posse ou conhecimento da droga.
+Requer, em liminar, a suspensão do mandado de prisão. No mérito, pugna pela concessão da ordem, a fim de que seja reformada a sentença condenatória para absolver o paciente do crime de tráfico de drogas.
+Indeferida a liminar, prestadas as informações de praxe, foi noticiado que o feito transitou em julgado (fl. 161).
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Alexandre Espinosa Bravo Barbosa, pelo não conhecimento e, no mérito, pela denegação da ordem.
+É o relatório.
+De início, conforme relatado acima, a condenação do paciente transitou em julgado. Assim, este habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido, confira-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019.
+Ademais, no caso dos autos, não observo a existência de constrangimento ilegal apto à concessão da ordem de ofício.
+Quanto à tese de nulidade das provas em razão da violação de domicílio, vejamos, no ponto, o que disse o Tribunal de Justiça (fl. 104 - grifo nosso):
+ ..
+Preliminarmente, a defesa do apelante requer que seja declarada a nulidade das provas oriundas da busca e apreensão realizada, sob o argumento de que estas são ilegais, em razão de ofensa à inviolabilidade domiciliar (sem autorização judicial), de forma que pleiteia a absolvição do apelante por insuficiência de provas.
+No entanto, em que pese a palavra das testemunhas policiais e do próprio acusado, de que houve expressa autorização para a realização de busca na residência deste, cumpre salientar que o delito de tráfico de drogas, na modalidade "guardar" ou "ter em depósito", configura crime permanente.
+ ..
+Ademais, na hipótese, haviam fundadas suspeitas da prática do crime de tráfico de drogas, sendo que a prisão do recorrente foi realizada a partir de prévias denúncias, dando conta de que naquele local havia droga, onde morava um grande traficante da região, de forma que tais suspeita sforam confirmadas na referida diligência.
+ ..
+Com efeito, o paciente, em seu interrogatório, disse que autorizou a entrada dos policias, senão vejamos (fls. 107/108 - grifo nosso):
+ ..
+Interrogatório do réu Ivanilson de Oliveira Pereira - (Inquérito - págs. 12/13)"
+(..) Que nega ser usuário de drogas ilícitas; Que nega ter envolvimento com facções criminosas; Que já foi preso outras duas vezes por tráfico de drogas, uma no ano de 2011, tendo ficado 8 meses preso, e outra no ano de 2014, tendo ficado 3 anos e 11 meses; Que perguntado sobre os fatos que geraram sua condução para esta delegacia, ou seja, a guarda de drogas destinadas ao tráfico de drogas, disse que há seis meses se mudou para um sítio de sua tia Maria Kinkas localizado no bairro Baixa Grande, do lado de Aquiraz; Que sua tia lhe deixou morar no local com a família a fim de cuidar do local; Que além de sua família, também morava no local o caseiro de nome YURI; Que quando se mudou para o sítio, YURI já morava no local há alguns meses; Que não tem contato algum com YURI, sendo que apenas às vezes conversa com ele; Que hoje de madrugada os policiais militares bateram no portão do sítio chamando pelos moradores; Que os policiais pediram para entrar n terreno e na casa para realizarem uma revista e aceitou que eles entrassem; Que não sabia da existência de droga no local; Que os policiais lhe disseram que acharam muito dinheiro em um dos banheiros da casa, sendo que posteriormente vi todo o montante; Que não sabe informar qual o valor encontrado na casa; Que posteriormente os policiais disseram que acharam drogas jogadas no terreno atrás do sítio; Que não sabia da existência de droga no sítio; Que acredita que toda a droga e o dinheiro apreendidos era de propriedade de YURI; Que não sabe dizer se YURI é viciado em algum entorpecente; Que perguntado sobre os frascos contendo bicarbonato encontrados e apreendidos na casa, disse que nunca os viu na casa; Que perguntado sobre os potes de suplemento Way encontrados na casa, disse que acredita que seja de sua mulher; Que não tem mais envolvimento com o tráfico de drogas; Que desde quando foi solto em outubro de 2018 está sendo monitorado por tornozeleira eletrônica."
+ ..
+Em juízo, mais uma vez, o paciente mencionou que autorizou a entrada dos policiais, dizendo o seguinte (109 - grifo nosso): negou possuir envolvimento com as drogas apreendidas, aduzindo que já era tarde quando os policiais chegaram, que não devia nada e por isso d eixou os policiais entrarem na casa. Disse que acredita que foi o corréu Yuri que tentou arremessar a droga para o lado de fora da residência.
+Assim, diante da anuência do paciente para a entrada dos milicianos no sítio em que estava morando, não há falar em violação de domicílio.
+A propósito, esta Corte Superior possui entendimento no sentido de exigir autorização judicial ou o consentimento do morador ou proprietário para incursão policial domiciliar (AgRg no HC n. 709.308/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2022 - grifo nosso).
+Ainda, nesse sentido: AgRg no RESP n. 1.988.099/SE, Ministro Reynaldo Sores da Fonseca, Quinta Turma, DJe 22/8/2022); e RHC n. 81.339/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/5/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO COM TRÂNSITO EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. ILICITUDE DA PROVA. VIOLAÇÃO DE DOMICÍLIO. AUTORIZAÇÃO DO PRÓPRIO PACIENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus não conhecido.
