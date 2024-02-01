@@ -1,0 +1,89 @@
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. CONTRATOS VINCULADOS AO FUNDO DE COMPENSAÇÃO DE VARIAÇÃO SALARIAL - FCVS. CONTROVÉRSIA QUANTO À COMPETÊNCIA DA JUSTIÇA FEDERAL. ALEGAÇÃO DE INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL NA CONDIÇÃO DE ADMINISTRADORA DO FCVS. TEMA 1011 DA REPERCUSSÃO GERAL. INAPLICÁVEL. APÓLICE PÚBLICA - RAMO 66. AUSÊNCIA DE COMPROVAÇÃO CONSIGNADA PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTE. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO 748.371. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO DESPROVIDO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+    “PROCESSUAL CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO HABITACIONAL. FCVS. COMPETÊNCIA.
+
+    I - O E. STF, julgando o Tema 1.011 da repercussão geral (RE nº 827.996, rel. Min. Gilmar Mendes, julgamento virtual finalizado em 26.06.2020), fixou as seguintes teses sobre o tema: 1) ‘Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença’; e 2) ‘Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011’.
+
+      II - Hipótese dos autos em que os documentos acostados demonstram que o contrato de financiamento imobiliário foi celebrado em 08/11/1997 sem cobertura pelo FCVS, não se verificando interesse da CEF, o processo e julgamento do feito devendo ser realizado pela Justiça Estadual, nos termos das teses firmadas pelo E. STF no julgamento do Tema 1.011.
+
+    III - Recurso desprovido.” (Doc. 42, destaquei)
+
+    Os embargos de declaração opostos foram desprovidos (Doc. 59).
+
+    Sul América Companhia Nacional de Seguros sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, inciso LV, e 109, inciso I, da Constituição da República (Doc. 62). Alega, em síntese, que “restou demonstrada a violação ao art. 109, inc. I, da CF/88, vez que o juízo a quo reconheceu a competência da Justiça Estadual para julgamento da presente demanda que versa sobre seguro habitacional do SFH, em que pese a Caixa Econômica Federal tenha demonstrado expresso interesse em ingressar na lide” (Doc. 62, p. 5). Afirma que o Supremo Tribunal Federal discutiu a matéria posta nos presentes autos no julgamento do Tema 1011 da Repercussão Geral. Nesse sentido, aduz que esta Corte, ao tratar do marco temporal para a ingresso da Caixa Econômica Federal nos processos e remessa dos autos para a Justiça Federal, “definiu que os casos que já estavam em curso no dia 26.11.2010, data em que a referida MP entrou em vigor, deveriam ter um tratamento diferente dos casos que foram distribuídos após essa data” (Doc. 62, p. 6). Discorre que “para os processos distribuídos após 26.11.2010, ou seja, após a entrada em vigor da MP, não há dúvida acerca da condição da CEF de representante judicial do FCVS nas demandas em que se discute o Seguro Habitacional do Sistema Financeiro da Habitação” (Doc. 62, p. 6). Argumenta que, “na data em que a MP 513/2010 entrou em vigor, não existia sentença de mérito neste caso” (Doc. 62, p. 7), motivo pelo qual defende que o “processo deve ser mantido na Justiça Federal para processamento e julgamento, na forma definida no recente acórdão do STF destacado nesta petição” (Doc. 62, p. 7). Requer, ao final, o provimento do recurso extraordinário para manutenção dos “autos na Justiça Federal, ante a violação ao art. 109, inc I da CF/88” (Doc. 62, p. 14).
+
+    A parte ora recorrida não apresentou contrarrazões ao recurso extraordinário.
+
+    A Vice-Presidência do Tribunal a quo determinou o encaminhamento do feito ao órgão julgador para eventual juízo de retratação quanto ao Tema 1.011 da Repercussão Geral (Doc. 65, p. 7-9).
+
+    O órgão julgador do Tribunal de origem, em juízo negativo de retratação, manteve o acórdão recorrido, em acórdão que porta a seguinte ementa:
+
+    “PROCESSUAL CIVIL. RETRATAÇÃO. ART. 1.040 DO CPC/2015. SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO HABITACIONAL. FCVS. COMPETÊNCIA.
+
+    I - Feito que retorna a julgamento nos termos do art. 1.039 do CPC/2015.
+
+    II - O E. STF, julgando o Tema 1.011 da repercussão geral (RE nº 827.996, rel. Min. Gilmar Mendes, julgamento virtual finalizado em 26.06.2020), fixou as seguintes teses sobre o tema: 1) ‘Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença’; e 2) ‘Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011’.
+
+    III - Hipótese dos autos em que ausente demonstração de vinculação do contrato à apólice pública, não se verificando interesse da CEF, o processo e julgamento do feito devendo ser realizado pela Justiça Estadual, nos termos das teses firmadas pelo E. STF no julgamento do Tema 1.011.
+
+    IV – Decisão mantida.” (Doc. 66, p. 5-6)
+
+    Sul América Companhia Nacional de Seguros, então, ratificou os termos dos recursos especial e extraordinário interpostos anteriormente (Doc. 69).
+
+    Posteriormente, a Vice-Presidência do Tribunal a quo proferiu juízo positivo de admissibilidade do recurso extraordinário (Doc. 72).
+
+    É o relatório. DECIDO.
+
+    O recurso não merece prosperar.
+
+    Ab initio, saliente-se que, ao julgar o Recurso Extraordinário 827.996, Rel. Min. Gilmar Mendes, DJe de 21/08/2020, Tema 1011 da Repercussão Geral, o Plenário desta Suprema Corte decidiu a controvérsia relativa à existência de interesse jurídico da Caixa Econômica Federal para ingressar como parte ou terceira interessada nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, consequentemente, à competência da Justiça Federal para o processamento e o julgamento das ações dessa natureza, oportunidade em que fixou a seguinte tese:
+
+    “1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença; 2) Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.”
+
+    Por oportuno, colaciono a ementa do referido julgado, in verbis:
+
+    “Recurso extraordinário. Repercussão geral. 2. Sistema Financeiro da Habitação (SFH). Contratos celebrados em que o instrumento estiver vinculado ao Fundo de Compensação de Variação Salarial (FCVS) – Apólices públicas, ramo 66. 3. Interesse jurídico da Caixa Econômica Federal (CEF) na condição de administradora do FCVS. 4. Competência para processar e julgar demandas desse jaez após a MP 513/2010: em caso de solicitação de participação da CEF (ou da União), por quaisquer das partes ou intervenientes, após oitiva daquela indicando seu interesse, o feito deve ser remetido para análise do foro competente: Justiça Federal (art. 45 c/c art. 64 do CPC), observado o § 4º do art. 1º-A da Lei 12.409/2011. Jurisprudência pacífica. 5. Questão intertemporal relativa aos processos em curso na entrada em vigor da MP 513/2010. Marco jurígeno. Sentença de mérito. Precedente. 6. Deslocamento para a Justiça Federal das demandas que não possuíam sentença de mérito prolatada na entrada em vigor da MP 513/2010 e desde que houvesse pedido espontâneo ou provocado de intervenção da CEF, nesta última situação após manifestação de seu interesse. 7. Manutenção da competência da Justiça Estadual para as demandas que possuam sentença de mérito proferida até a entrada em vigor da MP 513/2010. 8. Intervenção da União e/ou da CEF (na defesa do FCVS) solicitada nessa última hipótese. Possibilidade, em qualquer tempo e grau de jurisdição, acolhendo o feito no estágio em que se encontra, na forma do parágrafo único do art. 5º da Lei 9.469/1997.”
+
+    Nada obstante, o Juízo de origem, ao manter a decisão de incompetência da Justiça Federal para processamento e julgamento do feito, consignou que sequer há comprovação nos autos de que os contratos estejam vinculados a apólice pública, in litteris:
+
+    “No presente caso, verifica-se que os documentos acostados aos autos demonstram que o contrato de financiamento imobiliário foi celebrado em 08/11/1997 (ID. 29503517, fl. 15 dos autos) sem cobertura pelo FCVS, por outro lado, para fins de estabelecimento da competência não basta mera afirmação de que se trata de contrato firmado com apólice pública - ramo 66, cabendo à parte a demonstração com prova do quanto alegado, o que não se verifica nos autos.” (Doc. 66, p. 3, destaquei)
+
+    Destarte, inaplicável a tese firmada pelo Supremo Tribunal Federal no julgamento do Tema 1011 da Repercussão Geral.
+
+    Demais disso, para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõem: “Para simples reexame de prova não cabe recurso extraordinário”e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+
+    A respeito da aplicação das Súmulas 279 e 454 do Supremo Tribunal Federal, assim discorre Roberto Rosas:
+
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.
+
+    (…)
+
+    O CC/2002 não se estende além do art. 112 (CC/1916, art. 85) no tocante à interpretação dos atos jurídicos. Nele adota-se o princípio da manifestação da vontade acima do sentido literal da linguagem. Menos regras temos em relação à interpretação dos contratos. Mas podemos verificar que essa interpretação está no plano dos fatos, principalmente como deixa entrever Danz. Como observa Washington de Barros Monteiro, para chegarmos à interpretação do contrato é necessário reconstruir o ato volitivo em que se exteriorizou o negócio jurídico, pesquisando meticulosamente qual teria sido a real vontade do agente e, assim, corrigindo sua manifestação, verbal ou escrita, expressa erradamente (Curso..., vol. 5, p. 38). Portanto, os fatos voltariam a ser examinados no STF quando da apreciação do recurso extraordinário. Teríamos o STF como terceira instância, aliás entendida assim por João Mendes, contraditado por José Rodrigues de Carvalho (Do Recurso Extraordinário, Paraíba, 1920, p. 14; RTJ 109/814). V. Súmula STJ-5.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138 e 232)
+
+    No mesmo sentido também foi a decisão proferida no ARE 1.279.180, Rel. Min. Alexandre de Moraes, DJe de 06/07/2021.
+
+    Assevere-se, ainda, que os princípios da ampla defesa e do contraditório (artigo 5º, LV), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do Supremo Tribunal Federal na análise do ARE 748.371, da relatoria do Ministro Gilmar Mendes, DJe de 1º/08/2013, Tema 660:
+
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 1º de fevereiro de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
