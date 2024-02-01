@@ -1,0 +1,21 @@
+DECISÃO
+GUILHERME LEANDRO RIBEIRO MEDEIROS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 0705893-53.2023.8.07.0001).
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, c/c o art. 40, III e VI, ambos da Lei n. 11.343/2006.
+A defesa pretende, em síntese, o afastamento da majorante descrita no inciso III do art. 40 da Lei de Drogas, sob o argumento de que "a proximidade do comércio ilícito de drogas com o DER e duas igrejas é, na verdade, um elemento meramente acidental, sem nenhuma relação real e efetiva com a traficância por ele realizada" (fl. 6).
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+O Tribunal de origem, ao manter a incidência da majorante prevista no art. 40, III, da Lei n. 11.343/2006 - tráfico de drogas perpetrado nas imediações ou nas proximidades de local de trabalho coletivo -, assim fundamentou (fl. 20):
+Presentes as causas de aumento do art. 40, inciso III e VI, da Lei nº 11.343/2006, sendo comprovado que os atos foram praticados nas imediações do Departamento de Estradas de Rodagem do Distrito Federal - DER e das duas igrejas.
+Para melhor análise da questão sub examine, transcrevo, por oportuno, o enunciado no referido dispositivo legal, in verbis:
+Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:
+ ..
+III - a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos;
+ ..
+Sobre a causa especial de aumento de pena em questão, registro que este Superior Tribunal de Justiça possui o entendimento de que "a majorante do art. 40, III, da Lei 11.343/2006 é de natureza objetiva, bastando que o agente tenha conhecimento dessa circunstância, não sendo necessária a comprovação da efetiva mercancia, tampouco que a substância entorpecente atinja diretamente os estudantes, sendo suficiente que a prática ocorra nas imediações do estabelecimento de ensino. Precedentes." (AgRg no REsp n. 1.920.047/SP, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF1), 6ª T., DJe 28/6/2021).
+Ainda: "É firme a jurisprudência desta Corte Superior no sentido de que, para a imposição da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, basta que o tráfico de drogas tenha ocorrido nas proximidades de qualquer dos estabelecimentos descritos na norma, sendo prescindível a comprovação de que o comércio de entorpecentes visava atingir estudantes ou qualquer frequentador dos locais indicados no referido preceito. Precedentes." (AgRg no AREsp n. 1.846.368/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/5/2021).
+Vale dizer, segundo a jurisprudência desta Corte, para o reconhecimento da majorante prevista no inciso III do art. 40 da Lei de Drogas, não é necessária a comprovação da efetiva mercancia nos locais elencados na lei, tampouco que a substância entorpecente atinja, diretamente, os trabalhadores, os estudantes, as pessoas hospitalizadas etc., sendo suficiente que a prática ilícita ocorra nas dependências, em locais próximos ou nas imediações de tais localidades, tal como ocorreu no caso.
+Assim, uma vez evidenciado, com base nos elementos fático-probatórios amealhados aos autos, que o delito foi perpetrado nas imediações de local de trabalho coletivo (Departamento de Estradas de Rodagem do Distrito Federal - DER), mostra-se devida a incidência da majorante em questão. Conforme bem pontuou o Juiz sentenciante, ao praticar o fato nas imediações do DER, "o réu teve maior possibilidade em difundir a referida droga e propiciou, ainda, passar-se despercebido à fiscalização policial" (fl. 290).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
