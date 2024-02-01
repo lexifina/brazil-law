@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por PROJEFIRE COMERCIO INSTALACAO MANUTENCAO E SISTEMAS CONTRA INCENDIO LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 4/9/2023.
+Concluso ao Gabinete em: 25/1/2024.
+Ação: de cobrança cumulada com indenizatória, ajuizada pela agravante em desfavor de MONDELEZ BRASIL LTDA, em virtude de rescisão de contrato entabulado entre as partes.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Recurso de Apelação Cível. Procedimento de cobrança c/c indenizatória. Prestação de serviços de instalação de sistemas contra incêndio. Sentença de improcedência. Insurgência da autora. Inteligência do art. 373, inciso I, do CPC. Rescisão do contrato pela apelada/ré. Prejuízos alegados pela apelante/autora não comprovados. Inexistência de previsão contratual de multa em decorrência de rescisão unilateral. Sentença mantida. Recurso conhecido e desprovido.
+1. Segundo a doutrina, a norma que estabelece o ônus da prova tem função tanto de orientar as partes acerca da produção probatória, e respectivas consequências, quanto de regra de julgamento, propiciando fundamento para as decisões judiciais mediante a aplicação do art. 373 do CPC. (e-STJ Fl. 1757)
+Embargos de declaração: opostos pela ora agravante, foram rejeitados.
+Recurso especial: alega ofensa aos arts. 186, 187, 402, 422 e 473 do CC, bem como ao art. 1.022, II, do CPC. A par da negativa de prestação jurisdicional, sustenta a ocorrência de ato ilícito perpetrado pela parte agravada. Deduz, ainda, ofensa ao princípio da boa-fé contratual, notadamente ante a resilição unilateral sem aviso prévio.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com fulcro nos seguintes fundamentos: a) no que tange à negativa de prestação jurisdicional (art. 1.022 do CPC), incidência da Súmula 284/STF; b) quanto aos arts. 186, 187 e 402 do CC, incidência da Súmula 7/STJ, considerando as peculiaridades citadas; c) igual incidência da Súmula 7/STJ quanto ao art. 422 do CC; e d) no que concerne à ausência de notificação (art. 473 do CC), ante ao excerto de e-STJ Fl. 1902, incidência da Súmula 283/STF.
+Entretanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, todos os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Nesse passo, limitou-se a reprisar as considerações de mérito tecidas em sede de recurso especial, deixando de refutar todos os fundamentos adotados e de demonstrar o seu desacerto, bem como de evidenciar, portanto, a efetiva inaplicabilidade de sua incidência, notadamente quanto à aplicação das Súmulas 283 e 284, ambas do STF.
+Saliente-se, ademais, que é imprescindível, para que seja configurada e demonstrada a negativa de prestação jurisdicional (art. 1.022 do CPC), a explanação acerca da relevância da apreciação da questão tida por omissa e do modo em que ela repercutiria no resultado do julgamento.
+Cumpre consignar, ainda, que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e no art. 932, III, do CPC.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa (e-STJ Fl. 1762 ) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
