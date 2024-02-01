@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WELLINGTON MACEDO DE SOUZA, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o paciente foi condenado às penas de 6 anos de reclusão no regime inicial fechado e pagamento de 240 dias-multa, como incurso no art. 251, caput e § 2º, c/c o art. 250, § 1º, II, f, do Código Penal, uma vez que teria colocado dinamite ou substância de efeitos análogos em um caminhão-tanque carregado de combustível.
+O impetrante sustenta que a competência para processar e julgar a ação penal seria da Justiça Federal, pois a motivação do crime seria a tentativa de abolição do Estado Democrático de Direito.
+Afirma que haveria parecer do Ministério Público Federal reclamando a competência da Justiça Federal desde 2/2/2023.
+Alega que o decreto de prisão preventiva e a sentença condenatória que manteve a sua custódia teriam sido proferidos por autoridade judicial absolutamente incompetente, razão pela qual seriam nulos, nos termos do art. 564, I, do Código de Processo Penal.
+Requer, liminarmente, a suspensão da Apelação Criminal n. 0715721-73.2023.8.07.0001 e da ordem de prisão preventiva decretada no referido feito e, no mérito, pugna pela concessão da ordem para que a ação penal seja anulada desde o oferecimento da denúncia.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto a autoridade impetrada justificou, suficientemente, a impossibilidade de reconhecimento da incompetência do Juízo de origem para processar e julgar a ação penal, nos seguintes termos (fls. 73-74):
+A alegação de incompetência absoluta do Juízo Impetrado se baseia, exclusivamente, em manifestação de órgão do Ministério Público Federal, apresentada nos autos nº 1006225-33.2023.4.01.3400, ora em trâmite perante a 10ª Vara Federal Criminal da Seção Judiciária do Distrito Federal, Id 55314196, em que se requereu: "o reconhecimento judicial da competência da Justiça Federal para processar e julgar toda a empreitada delituosa referida, sendo imprescindível, para tanto, que seja inicialmente oficiado ao Juízo da 8a Vara Criminal de Brasília, para que, ciente da decisão proferida nestes autos, decline de sua competência em favor da Justiça Federal".
+Ocorre que a despeito da referida manifestação ministerial, datada de 31 de janeiro de 2023, os autos não vem acompanhados de eventual decisão judicial a respeito, não havendo, outrossim, notícia de afirmação de competência pela Justiça Federal ou mesmo de suscitação de Conflito Positivo de Jurisdição, tanto que em 17/08/2023 o Juízo da 8ª Vara Criminal de Brasília proferiu sentença condenando o acusado, ora paciente, sem todavia, fazer qualquer menção de recebimento de ofício oriundo da Justiça Federal ou mesmo de manifestação da Defesa constituída nesse sentido.
+Assim sendo, a alegação de incompetência absoluta carece de sustentação mínima, uma vez que atrelada unicamente a posicionamento de órgão do Ministério Público Federal, vinculado a Tribunal diverso, e em procedimento alheio à competência deste TJDFT, cujo desfecho não se tem notícia.
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
