@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que não conheceu do agravo por aplicação do art. 932, III, do CPC, em virtude da ausência de impugnação específica dos fundamentos da decisão que não admitiu recurso especial.
+Alega a agravante que, ao contrário do que afirmou a decisão agravada, impugnou especificamente o óbice da Súmula nº 7/STJ.
+Sem impugnação (fls. 1.049/1.050, e-STJ).
+É o relatório.
+DECIDO.
+Observa-se que a recorrente, na petição de agravo de fls. 992/1.066 (e-STJ), impugnou suficientemente todos os fundamentos da decisão que deixou de admitir o seu recurso especial, motivo pelo qual a decisão de fls. 1.030/1.031(e-STJ) deve ser reconsiderada.
+Passa-se, pois, ao exame do recurso especial de fls. 951/965 (e-STJ) fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal e interposto contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais:
+"AGRAVO DE INSTRUMENTO -EMBARGOS DE TERCEIRO -CONSTRIÇÃO DE BEM -SUSPENSÃO -INTELIGÊNCIA DO ART. 678 DO CPC -POSSE OU DOMÍNIO -NÃO DEMONSTRADOS.
+Nos termos do art.678 do CPC para que sejam suspensas as medidas constritivas sobre o bem objeto de discussão dos embargos é necessário que a parte embargante demonstre posse ou domínio sobre o bem. Não restando demonstrado a posse ou domínio do bem constrito, o indeferimento da suspensão é medida que se impõe" (fls. 854, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 943/947, e-STJ).
+Em suas razões (fls. 951/965, e-STJ), a recorrente aponta, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, § 1º e 1.022, II, parágrafo único, do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação;
+(ii) art. 1.026 do Código de Processo Civil - porque os embargos de declaração não podem ser considerados protelatórios. Não há falar em multa por oposição dos declaratórios.
+(iii) art. 678 do Código de Processo Civil - obrigatoriedade de dar efeito suspensivo aos embargos de terceiros, quando demonstrada a prévia posse do bem.
+A insurgência não merece prosperar.
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+-- OU --
+Além disso, no que concerne à assertiva de ofensa do art. 678 do CPC, o Tribunal de origem, à luz da prova dos autos, concluiu que a recorrente não comprovou a posse e o domínio das pedras de dunito, alvos da busca e apreensão, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"Nesse sentido, de uma percuciente análise dos autos, verifica-se que, apesar do que afirma a agravante, esta não se desincumbiu de seu ônus de comprovar a alegada posse e propriedade das pedras de dunito objeto dos embargos.
+Isso porque, a despeito de a parte agravante ter colacionado aos autos ao Id 9462750936, Portaria nº 99, do Ministério de Minas e Energia e, aos Ids 9462768161 a 9462762171, Notas Fiscais, a bem da verdade é que tais documentos comprovam tão somente que a empresa embargante tem autorização para lavrar, em determinada área do município de Pratápolis/MG, minério de níquel, bem como que comercializa tais minerais, não possuindo o condão de corroborar com a sua alegação de que seria a única proprietária e possuidora das pedras de dunito alvos da busca e apreensão deferida.
+Assim, forçoso reconhecer que a empresa embargante, ora agravante, não se desincumbiu de seu ônus de comprovar sua posse ou domínio das 19.917.77 toneladas de dunito bruto, alvos da busca e apreensão concedida nos autos do Cumprimento de Sentença de nº 0008516-10.2018.8.13.0529, motivo pelo qual não há que se falar em suspensão de tal medida constritiva, ante a ausência de preenchimento dos requisitos do art. 678 do CPC" (fls. 857/858, e-STJ).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Quanto à multa aplicada com base no art. 1.026, § 2º, do CPC, consoante a jurisprudência do Superior Tribunal de Justiça, a reiteração dos argumentos já repelidos de forma clara e coerente configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, § 2º, do CPC.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. HONORÁRIOS SUCUMBENCIAIS. REDISTRIBUIÇÃO E BASE DE CÁLCULO. REEXAME DE PROVAS. MULTA. EMBARGOS DE DECLARAÇÃO. INTUITO PROTELATÓRIO. SÚMULAS NºS 7 E 83/STJ.
+1. Na hipótese, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+2. A revisão da distribuição dos ônus sucumbenciais envolve ampla análise de questões de fato e de prova, conforme as peculiaridades de cada caso concreto, providência incabível em recurso especial, nos termos da Súmula nº 7/STJ.
+3. No caso, rever a conclusão do tribunal de origem, que entendeu que a base de cálculo dos honorários era distinta porque houve satisfação da obrigação por uma das partes com extinção da execução em relação a ela, demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável ante a natureza excepcional da via eleita.
+3. A análise do art. 1.026, § 2º, do CPC, que trata da penalidade por oposição de embargos de declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, a atrair a incidência da Súmula nº 7/STJ.
+4. Consoante a jurisprudência do Superior Tribunal de Justiça, a reiteração dos argumentos já repelidos de forma clara e coerente configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, § 2º, do CPC (Súmula nº 83/STJ). Precedentes.
+5. Agravo interno não provido" (AgInt no AREsp n. 2.193.591/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/10/2023, DJe de 27/10/2023- grifou-se.)
+Tem incidência a Súmula nº 83/STJ.
+Ademais, no ponto, rever as conclusões do Tribunal a quo demandaria a incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. LIQUIDAÇÃO DE SENTENÇA. ENCERRAMENTO SEM EXTINÇÃO DO PROCESSO. INTERPOSIÇÃO DE APELAÇÃO. RECURSO INADMITIDO. PRINCÍPIO DA FUNGIBILIDADE. NÃO INCIDÊNCIA. INDUÇÃO A ERRO NÃO EVIDENCIADA. ENTENDIMENTO DA CORTE A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. APLICAÇÃO. MULTA PROCESSUAL IMPOSTA NA ORIGEM. ART. 1.026, § 2º, DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. REITERAÇÃO DE ARGUMENTOS. PERTINÊNCIA DA MULTA. SITUAÇÃO ANALISADA PELO TRIBUNAL DE ORIGEM. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O recurso cabível contra decisão de liquidação que não põe fim ao processo é o agravo de instrumento. A interposição de apelação constitui erro grosseiro, o que impede a aplicação do princípio da fungibilidade.
+3. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.317.648/SE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/9/2023, DJe de 13/9/2023- grifou-se.)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 1.030/1.031 (e-STJ) e, em novo exame, conhecer em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
