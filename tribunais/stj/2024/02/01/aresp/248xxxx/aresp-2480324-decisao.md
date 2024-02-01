@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por HAVAN S.A., contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/07/2023.
+Concluso ao gabinete em: 22/01/2024.
+Ação: de indenização por danos materiais e morais.
+Sentença: julgou procedente o pedido do autor (agravado) para condenar a ré(agravante) ao pagamento de indenização por danos materiais no valor de R$ 12.038,74, bem como de indenização por danos morais no valor de R$ 10.000,00.
+Acórdão: negou provimento ao recurso de apelação da ré (agravante), para manter a sentença que julgou procedentes os pedidos do autor (agravado), nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO INDENIZATÓRIA. ARROMBAMENTO DE VEÍCULO E FURTO DE BENS EM ESTACIONAMENTO DE LOJA DE CONVENIÊNCIAS. SENTENÇA QUE JULGOU PROCEDENTE A PRETENSÃO DEDUZIDA NA INICIAL, PARA CONDENAR A PARTE RÉ A PAGAR À AUTORA VERBA COMPENSATÓRIA POR DANOS MATERIAIS, NO VALOR DE R$12.038,74, E POR DANOS MORAIS, NO VALOR DE R$ 10.000,00 (DEZ MIL REAIS). RECURSO DA RÉ, PELA IMPROCEDÊNCIA DO PEDIDO OU, SUBSIDIARIAMENTE, PELO AFASTAMENTO OU REDUÇÃO DO VALOR ARBITRADO PARA INDENIZAÇÃO POR DANO MORAL. RECURSO QUE NÃO MERECE PROSPERAR.
+NO CASO EM EXAME, A AUTORA LOGROU ÊXITO EM COMPROVAR QUE SEU VEÍCULO FOI ARROMBADO E OS OBJETOS QUE LÁ ESTAVAM FORAM FURTADOS DENTRO DE ESTACIONAMENTO DA RÉ. CORRESPONDÊNCIA ELETRÔNICA TROCADA ENTRE AS PARTES QUE CONFIRMA A NARRATIVA AUTORAL. RESPONSABILIDADE OBJETIVA. TEORIA DO RISCO DO EMPREENDIMENTO. FORNECEDOR QUE SOMENTE NÃO RESPONDERÁ PELOS DANOS CAUSADOS SE PROVAR A INEXISTÊNCIA DO DEFEITO OU FATO EXCLUSIVO DO CONSUMIDOR OU DE TERCEIRO (ART. 14, § 3º, INCISOS I E II DO CDC). RÉ QUE NÃO DEMONSTROU A OCORRÊNCIA DE ALGUMA DAS EXCLUDENTES DE RESPONSABILIDADE, NEM FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DA PARTE AUTORA (ARTIGO 373, II DO CPC/2015). FATO DE TERCEIRO QUE CONFIGURA FORTUITO INTERNO E NÃO EXCLUI O DEVER DE INDENIZAR. EXEGESE DAS SÚMULAS 94 TJRJ E 130 DO STJ. FALHA NA PRESTAÇÃO DE SERVIÇO CARACTERIZADA. DEVER DE REPARAÇÃO QUE SE IMPÕE. QUANTUM INDENIZATÓRIO POR DANO MATERIAL QUE NÃO FOI OBJETO DO RECURSO. DANO MORAL CONFIGURADO. EXPECTATIVA DE GUARDA E PROTEÇÃO DO VEÍCULO DEIXADO AOS CUIDADOS DO FORNECEDOR QUE RESTOU FRUSTRADA. NECESSIDADE DE IDA À DELEGACIA E ADOÇÃO DE PROVIDÊNCIAS VARIADAS. PERDA DO TEMPO ÚTIL NA BUSCA DE SOLUCIONAR O PROBLEMA, TENDO SIDO A AUTORA, INCLUSIVE, COMPELIDA A RECORRER AO JUDICIÁRIO. CONSIDERANDO AS PECULIARIDADES DO CASO E OS VALORES QUE VÊM SENDO ARBITRADOS POR ESTE TRIBUNAL EM SITUAÇÕES ANÁLOGAS, TEM-SE QUE A VERBA COMPENSATÓRIA POR DANO MORAL ARBITRADA NA SENTENÇA NÃO MERECE REPARO. RECURSO DESPROVIDO." (e-STJ, fls. 418-419).
+Recurso especial: Sustenta, em síntese, que não tem cabimento a condenação da empresa agravante ao pagamento de indenização por danos morais, por absoluta falta de amparo legal.
+Argumenta, ainda, que o valor fixado na origem em R$ 10.000,00 (dez mil reais) mostra-se excessivo. Sustenta que em casos análogos, este Superior Tribunal de Justiça fixou a quantia entre R$ 4.000,00 e R$ 5.000,00.
+Conclui, que o acórdão estadual deve ser reformado, para adequar o valor da indenização por danos morais fixada na origem aos princípio da razoabilidade e da proporcionalidade.
+RELATADO O PROCESSO, DECIDE-SE.
+De fato, constata-se, da leitura das razões do recurso especial, que quanto ao pedido de redução do valor fixado na origem a título de indenização por danos morais, a agravante não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Por outro lado, observa-se que o TJRJ ao reconhecer o cabimento do pedido indenizatório formulado na origem pelo autor/agravado, fundamentou o seguinte:
+" ..
+No mérito, cuida-se de ação de indenizatória, em que a parte autora alega que objetos localizados no interior de seu veículo teriam sido furtados em estacionamento da ré, oferecido a seus clientes.
+Nessa senda, a responsabilidade, no presente caso, é objetiva, fundamentada na Teoria do Risco do Empreendimento (art. 14 do CDC), devendo o empreendedor suportar os ônus decorrentes da atividade financeira, tal como dela aufere os lucros.
+No entanto, sabe-se que tal responsabilidade não é absoluta, podendo ser afastada caso o fornecedor do serviço comprove a ocorrência de uma das causas excludentes de responsabilidade, entre elas a culpa exclusiva da vítima ou de terceiro, caso fortuito ou força maior, e, ainda, as atenuantes no caso de culpa concorrente da vítima.
+Nesse quadro, nos termos dos artigos 12 e 14 do CDC, na responsabilidade objetiva basta restar caracterizado o dano, a conduta imputada ao fornecedor do produto/serviço e o nexo de causalidade que os una, sendo despiciendo a averiguação da culpa.
+(..)
+No caso em exame, instruem a exordial fotos corroborando que a ré possui amplo estacionamento em suas instalações (indexador fls. 35/38); que o carro da autora esteve estacionado em tal local (indexador 32, fls. 33); que a autora comprou produtos da loja da ré no dia e horários indicados na inicial (indexador 47); que houve registro da ocorrência na 125ª DP no dia seguinte ao fato (indexador 49); e que a própria ré reconheceu os fatos narrados pela autora em correspondência eletrônica cujo teor passa-se a transcrever (indexador 53):
+(..)
+Vê-se, portanto, que diferentemente do que quer fazer crer a apelante, o conjunto probatório que instrui os autos comprova a narrativa autoral e, portanto, os fatos constitutivos de seu direito." (e-STJ, fls. 426-428).
+Nesse contexto, alterar o decidido no acórdão impugnado, no que se refere ao afastamento da condenação a título de danos morais, demanda o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+No tocante ao dissídio jurisprudencial, observa-se a falta do cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (redução do valor fixado na origem a título de indenização por danos morais por furto ocorrido no interior de estacionamento privado de loja comercial), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ARROMBAMENTO DE VEÍCUO E FURTO DE BENS. ESTACIONAMENTO PRIVADO. LOJA DE CONVENIÊNCIA.L DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação de indenização por danos morais.
+2. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recuso especial não conhecido.
