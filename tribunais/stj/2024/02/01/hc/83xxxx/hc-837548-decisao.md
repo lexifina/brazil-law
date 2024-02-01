@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Anderson Angelo da Silva, em que se aponta como autoridade coatora o Primeiro Grupo Criminal do Tribunal de Justiça do Espírito Santo.
+Consta dos autos (Processo n. 537U07-(035.070.015.785) que o paciente foi condenado, em concurso material, à pena de 8 anos e 4 meses de reclusão, e 30 dias-multa, por ter sido incurso nos arts. 157, § 2º, I e II, e 329, ambos do Código Penal (fls. 22/28).
+Ajuizada revisão criminal (Processo n. 5001700-24.2023.8.08.0000), o Primeiro Grupo Criminal do Tribunal de Justiça do Espírito Santo julgou a ação improcedente (fls. 13/21). O julgado recebeu a seguinte ementa (fls. 13/14):
+REVISÃO CRIMINAL. ROUBO MAJORADO E RESISTÊNCIA. ARTIGO 157, § 2º, INCISOS I E II, E ARTIGO 329, NA FORMA DO ARTIGO 69, TODOS DO CÓDIGO PENAL. REDUÇÃO DA PENA-BASE. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS FUNDAMENTADAS DE FORMA IDÔNEA. APLICAÇÃO DA FRAÇÃO DE 1/6 (UM SEXTO) PARA CADA CIRCUNSTÂNCIA. DESCABIMENTO. ALTERAÇÃO JURISPRUDENCIAL. AÇÃO REVISIONAL CONHECIDA E JULGADA IMPROCEDENTE. 1. Restando comprovado que o julgador aplicou a pena-base com fulcro nos artigos 59 e 68 do Código Penal, utilizando-se dos elementos constantes dos autos e da discricionariedade conferida pela jurisprudência pátria, não há cabimento a redução daquela, que foi dosada em patamar bem razoável, tendo em vista as circunstâncias judiciais desfavoráveis. 2. Tanto nas Cortes de sobreposição, quanto no âmbito local, é firme a compreensão sobre a impossibilidade de aviamento de revisão criminal com fulcro em modificação de entendimento jurisprudencial. 3. Ação revisional conhecida e julgada improcedente.
+No presente writ, a defesa aponta ilegalidade na fixação da pena pela negativa da culpabilidade, personalidade e consequências do crime. Sustenta que os fundamentos se mostram genéricos. Requer a redução da pena-base (fls. 3/12).
+Decisão da Presidência indeferindo o pedido de liminar (fls. 31/32).
+Parecer ministerial opinando pelo conhecimento e concessão do writ, a fim de nova dosimetria da pena (fls. 67/69).
+É o relatório.
+Quando proferida a sentença, o Magistrado fixou a pena com base nos seguintes fundamentos (fls. 26/27):
+ ..  Com relação ao crime do art. 157, § 2º, incisos I e II, do CódigoPenal:
+Quanto à culpabilidade, considero-a em grau elevado. O acusado é reincidente; sem elementos no processo para análise da conduta social; sua personalidade está voltada o crime; não ficou provado qualquer motivo para a conduta; as circunstâncias do crime são comuns à espécie, demonstrando, o acusado, determinação na ação delituosa; as consequências do delito foram graves e por fim o comportamento da vítima em nada concorreu para o delito. Portanto, fixo a pena-base em 06 (seis) anos de reclusão e multa.
+Com relação ao crime do art. 329 do Código Penal:
+Quanto à culpabilidade, considero-a em grau elevado. O acusado é reincidente; sem elementos no processo para análise da conduta social; sua personalidade está voltada o crime; não ficou provado qualquer motivo para a conduta; as circunstâncias do crime são comuns à espécie, demonstrando, o acusado, determinação na ação delituosa; as consequências do delito foram graves e por fim o comportamento da vítima em nada concorreu para o delito. Portanto, fixo a pena-base em 01 (um) ano de detenção.
+ ..
+Razão assiste à defesa, pois o Magistrado valorou negativamente as vetoriais da personalidade, circunstâncias do crime e consequências do crime, no entanto, não apresentou idônea fundamentação, trazendo expressões genéricas que podem ser direcionadas para qualquer delito. Nesses termos, deverá a pena-base ser elevada somente em 1/4, proporcionalmente ao total elevado na sentença, de 24 meses, portanto aumentada a pena em 6 meses de reclusão, uma vez que o Magistrado considerou a reincidência na primeira fase. Assim, a pena-base para o crime de roubo passa a ser de 4 anos e 6 meses de reclusão.
+Na segunda fase, presente a atenuante de confissão espontânea, devendo a pena ser reduzida para o piso mínimo de 4 anos de reclusão. Para o delito de roubo, foi reconhecida na sentença, na terceira fase, a causa de aumento relativa ao § 2º, do art. 157 do Código Penal, na fração de 1/3. Assim, a pena final para o crime de roubo passa a ser de 5 anos e 4 meses de reclusão e 13 dias-multa.
+Para o delito de detenção, fica a pena redimensionada para 2 meses de detenção.
+Mantido o regime fechado para cumprimento da pena, por ser o paciente reincidente.
+Ante o exposto, concedo a ordem de habeas corpus, para redimensionar a pena final relativa ao crime de roubo em 5 anos e 4 meses de reclusão, em regime fechado, e 13 dias-multa, e a pena para o crime de resistência em 2 meses de detenção.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. RESISTÊNCIA. AUSÊNCIA DE CONCRETOS FUNDAMENTOS NA DOSIMETRIA DA PENA. AFASTADA A VALORAÇÃO NEGATIVA PARA AS VETORIAIS DA CULPABILIDADE, PERSONALIDADE, CIRCUNSTÂNCIAS DO CRIME E CONSEQUÊNCIAS DO CRIME. MANTIDO SOMENTE O AUMENTO PELA REINCIDÊNCIA. FLAGRANTE ILEGALIDADE AO PACIENTE NO TOTAL DA PENA FIXADA. REDIMENSIONAMENTO DA PENA.
+Ordem concedida nos termos do dispositivo.
