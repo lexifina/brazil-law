@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Silvio Bertacchi Filho, contra acórdão proferido pelo Quarto Grupo de Direito Criminal do Tribunal de Justiça de São Paulo na Revisão Criminal n. 2220779-55.2023.8.26.0000.
+A defesa do paciente ajuizou a referida revisão criminal buscando a desconstituição da sentença proferida no Processo n. 1502791-64.2019.8.26.0562, que condenou o paciente a 9 anos, 5 meses e 10 dias de reclusão, em regime fechado, pelo crime do art. 157, §2º, II e §2º-A, I, do Código Penal, ao argumento de que a condenação é contrária ao texto expresso da lei e, subsidiariamente, requereu o afastamento das causas de aumento relacionadas ao concurso de agentes e emprego de arma, assim como o reconhecimento da participação de menor importância. O Tribunal paulista indeferiu o pedido (fls. 14/24).
+No presente habeas corpus, insiste a defesa na fragilidade probatória em relação à participação do paciente no delito, pois as vítimas não o reconheceram e não há nenhuma outra prova produzida para incriminá-lo.
+Em tese subsidiária, aduz que o acórdão coator indicou que as imagens demonstravam que o paciente não entrou na loja de aparelhos celulares, permanecendo fora vigiando e, assim, deve ser reduzida a reprimenda por participação de menor importância.
+Sustenta, também, que não houve apreensão de arma de fogo nem exame de corpo de delito, defendendo, assim, o afastamento da causa de aumento de pena relativa a seu emprego.
+Ao final, pugna pela absolvição do paciente ou, subsidiariamente, pelo afastamento das majorantes do concurso de agentes, bem como do emprego da arma de fogo e seja reconhecida a participação de menor importância (fl. 13).
+Sem pedido liminar, os autos seguiram ao Ministério Público Federal que, às fls. 44/46, opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Ressalte-se, inicialmente, que nos autos do HC n. 658.955/SP, impetrado contra o acórdão que julgou a apelação, em decisão proferida em 9/11/2022, a Ministra Laurita Vaz apreciou tese referente à suficiência das provas da autoria indicadas para a condenação.
+Naquela impetração, à fl. 843, a Ministra relatora destacou que a comprovação da autoria delitiva está embasada nas declarações das vítimas prestadas em Juízo, as quais, apesar de não terem reconhecido os Réus, narraram com detalhes a empreitada criminosa; o depoimento testemunhal do policial militar na fase judicial; e por prova submetida ao contraditório, notadamente as imagens dos Pacientes colhidas pelo sistema de videomonitoramento.
+Outrossim, a Corte estadual, ao indeferir o pedido revisional, ponderou que a defesa não apresentou novas provas a fundamentar sua pretensão. Apesar disso, uma vez mais, consignou o Tribunal a quo que, embora as vítimas não tenham reconhecido os réus em juízo, os policiais confirmaram que pelas imagens das câmeras de segurança (submetida a perícia), foi possível identificar o paciente e seu comparsa Wendel.
+Dessa forma, estou de acordo com a opinião do Subprocurador-Geral da República José Augusto Potiguar, segundo a qual não há, no acórdão, qualquer constrangimento ilegal a ser corrigido de ofício, nessa instância. A condenação do paciente, conforme afirmado pelo tribunal a quo, baseou-se nas lícitas provas carreadas nos autos e o pedido revisional não se sustenta em quaisquer dos incisos do art. 621 do CPP (fl. 46).
+No que diz respeito aos pedidos subsidiários, consta do acórdão que inviável o reconhecimento da participação de menor importância, uma vez que o paciente teria permanecido vigiando, dando cobertura, para o êxito da ação criminosa.
+Segundo a instância antecedente, o concurso de agentes foi demonstrado pelas imagens captadas pelo sistema de segurança do local dos fatos e o emprego de arma provado pelos depoimentos firmes das vítimas. Veja-se (fls. 19/23):
+ ..
+As imagens demonstram que Silvio não adentrou na loja de aparelho celulares. Mas é possível observar que ele permaneceu vigiando, dando cobertura, para o êxito da ação criminosa. Logo, sua participação foi imprescindível para consumação do crime, motivo pelo qual não se cogita participação de menor importância. O relato das vítimas, suficiente para incriminação do agente, pelo delito, tem valia e eficácia probatória também para esclarecimento de pormenor complementar (uso de arma de fogo e concurso de agentes). Demais, o concurso de agentes também foi demonstrado pelas imagens captadas pelo sistema de segurança do local dos fatos."
+ ..
+O conjunto probatório, minuciosamente analisado sustenta tranquilamente a decisão condenatória, tendo ficado demonstrado que o ora peticionário foi um dos autores do delito.
+Assim, vê-se que as declarações prestadas sob o crivo do contraditório são absolutamente coerentes e específicas, permitindo clara conclusão, seja quanto aos fatos delituosos ocorridos seja em relação a ser o réu um de seus autores, não havendo que se falar em absolvição por fragilidade probatória.
+ ..
+Bem delineada também a incidência das majorantes de concurso de agentes e emprego de arma, sobejamente demonstradas nos autos, notadamente diante das firmes, coerentes e harmônicas palavras das vítimas.
+Como se não bastasse, as câmeras de segurança captaram as imagens da participação dos réus em concurso, confirmando o conluio para a prática delitiva.
+Saliente-se que a falta de apreensão da arma de fogo não impede o reconhecimento da qualificadora, comprovada pela prova oral produzida, em consonância com a jurisprudência  ..
+Em relação à dosimetria, nenhum reparo há que ser feito, pois, as penas foram bem dosadas e suficientemente fundamentadas.
+Nesse aspecto, cabe dizer que, a pena- base foi fixada em seu mínimo, para na sequência sofrer majoração pela reincidência. Outrossim, foram bem delineadas a incidência das circunstâncias majorantes reconhecidas nos autos, quais sejam, concurso de agentes e emprego de arma de fogo, elevando as penas, respectivamente em 1/3 e 2/3.
+No caso em apreço, não bastasse a superioridade numérica, os agentes se valeram de arma de fogo para ameaçar gravemente às vítimas.
+Nesse sentido, a alegação de participação de menor importância não prospera, afinal com unidade de desígnios articularam o roubo e o cometerem subtraindo os pertences das vítimas, bem como fugiram do local.
+Desta feita, planejaram e executaram o crime, assumindo conscientemente o risco do resultado e tendo plena ciência da arma de fogo que portavam, aderindo, dessa forma à sua conduta.
+ ..
+Tal o cenário, rever os fundamentos utilizados pelas instâncias ordinárias para atender os pedidos da defesa implicaria em revolver a matéria fático-probatória, vedada em sede de habeas corpus. (AgRg no HC n. 833.660/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 15/12/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. IMPETRAÇÃO CONTRA ACÓRDÃO DA REVISÃO CRIMINAL. TESES DEFENSIVAS DE ABSOLVIÇÃO POR INSUFICIÊNCIA DA PROVA DA AUTORIA, POSSIBILIDADE DE RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA E AFASTAMENTO DA MAJORANTE DO EMPREGO DE ARMA DE FOGO. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. FLAGRANTE ILEGALIDADE. INEVIDÊNCIA.
+Writ não conhecido.
