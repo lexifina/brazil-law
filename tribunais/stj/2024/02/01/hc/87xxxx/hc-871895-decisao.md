@@ -1,0 +1,20 @@
+DECISÃO
+RODRIGO BATISTA DE SOUZA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2205292-45.2023.8.26.0000.
+A defesa pleiteia o direito de o paciente recorrer em liberdade, diante da incompatibilidade, em seu entender, entre a prisão preventiva e a condenação ao cumprimento de pena no regime inicialmente semiaberto.
+Decido.
+O recorrente foi condenado pelo Juízo de primeiro grau e, posteriormente, confirmada a condenação em segundo grau, à pena de 5 anos e 10 meses de reclusão, em regime inicialmente semiaberto, pela prática do crime de tráfico de drogas, bem como à pena de 1 ano de detenção, pelo delito do art. 12, caput, da Lei de Armas.
+A custódia foi decretada com base na seguinte fundamentação (fls. 153-154, grifei):
+ ..
+Conforme consta do artigo 312, c.c. o artigo 313, do CPP, presentes os pressupostos da prisão cautelar, pois há prova da existência do crime e indícios suficientes de sua autoria, pois o custodiado foi encontrado mantendo em depósito pouco mais de 400 g de cocaína e de diversas porções de maconha e de crack, além de munições de uso permitido.
+ ..
+No caso em tela, verificam-se presentes o fumus comissi delicti, decorrente da apreensão de quantidade elevada de droga. Também o periculum libertatis, pois os crimes em questão são concretamente graves. Além disso o réu é reincidente por crimes ligados ao tráfico de drogas.
+O Tribunal de origem, por sua vez, destacou no acórdão ora impugnado o que segue (fl. 136, grifei):
+No caso concreto, o MM. Juiz de Direito da Vara Única da Comarca de Itaí, ora autoridade coatora, destacou que o paciente ostenta péssimos antecedentes criminais (cf. certidões a fls. 21/33 e folha de antecedentes a fls. 34/56), ao apontar que "na primeira fase, analisadas as circunstâncias judiciais alinhadas pelo art. 59 do Código Penal, verifico que o réu ostenta maus antecedentes, conforme depreende-se da certidão de fls. 87/99 (autos nº 0001619-40.2009.8.26.0263 - trânsito em julgado em 25/04/2011; 0002206-57.2012.8.26.0263 trânsito em julgado em 03/06/2013; e 0003143-72.2009.8.26.0263 trânsito em julgado em 13/05/2011), no mais as circunstâncias e as consequências do crime são próprios do tipo penal, não merecendo valoração negativa", circunstância apta a compatibilizar o regime prisional semiaberto com a prisão preventiva, conforme julgados mencionados da SUPREMA CORTE.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas nas instâncias ordinárias para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu, preso desde o início da instrução e condenado em segundo grau.
+Com efeito, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022, grifei).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
