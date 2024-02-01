@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NADIR FÁTIMA GOMES DA SILVA  contra a decisão de minha relatoria que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, a parte embargante sustenta que houve contradição no acórdão com os seguintes argumentos: (I) a decisão está dissonante com a proferida pelo Ministro Napoleão Nunes Maia Filho às fls. 605/610, oportunidade em que o então relator evidenciou que não haveria a incidência da Súmula 284 do Supremo Tribunal Federal (STF); e (II) o recurso está devidamente fundamentado e a controvérsia devidamente demonstrada porquanto a ação funda-se no reconhecimento de que a embargante "já fazia jus à aposentadoria por invalidez desde antes do ato que a exonerou do cargo público" (fl. 691).
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+Foi apresentada impugnação (fls. 701/709).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do Código de Processo Civil). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+No presente caso, o acórdão foi claro ao reconsiderar a decisão proferida pelo então relator Ministro Napoleão Nunes Maia Filho, para concluir pela impossibilidade de conhecimento do recurso em razão de o acórdão embargado ter sido inequívoco ao concluir que o recurso especial não poderia ser conhecido em razão dos óbices das Súmulas 280 e 284 do Supremo Tribunal Federal (STF). A propósito, confira-se (fls. 684/685):
+O recurso especial tem como uma de suas características essenciais a fundamentação vinculada, sendo imprescindível, caso interposto com base na alínea a do permissivo constitucional, que se aponte os dispositivos de lei violados pelo acórdão recorrido, não bastando a mera citação dos dispositivos de lei, sem fundamentação específica.
+O recurso deve indicar de forma clara e direta qual dispositivo foi interpretado de forma equivocada no acórdão recorrido e qual a interpretação correta a ser aplicada. Não havendo a indicação dos dispositivos, acompanhada de argumentação específica sobre o modo como foram violados, há deficiência de fundamentação, razão pela qual incide a Súmula 284/STF e o recurso não pode ser conhecido.
+Ademais, da leitura do acórdão recorrido, constato que o mérito recursal foi decidido à luz da interpretação das Leis 1.102/1990 e 3.150/2005, do Estado do Mato Grosso do Sul.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").  ..
+Destaco que a contradição que autoriza o manejo dos aclaratórios é a interna, ou seja, a verificada entre as premissas do próprio julgado, e não aquela, porventura, existente entre essas e as alegações das partes, tampouco a decisão anteriormente proferida, que foi expressamente reconsiderada.
+Constato, portanto, que a parte embargante pretende renovar a discussão sobre questões que já foram decididas de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+Este Tribunal assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021.)
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+EMENTA
