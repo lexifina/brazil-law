@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO CESP contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE. RECUSA INDEVIDA DE ATENDIMENTO DOMICILIAR HOME CARE. NULIDADE INEXISTENTE. INCIDÊNCIA DA LEI Nº 9.656/98 E DO CDC. DANO MORAL CARACTERIZADO IN RE IPSA. JURISPRUDÊNCIA CONSOLIDADADO E G. STJ. INDENIZAÇÃO QUE DEVE SER FIXADA COM RAZOABILIDADE E PROPORCIONALIDADE. MANUTENÇÃO DA SENTENÇA. RECURSOS NÃO PROVIDOS. Plano de saúde. Recusa indevida de atendimento domiciliar home care. Impossibilidade. Lei nº 9.656/98. Código de Defesa do Consumidor. Condenação da ré mantida. Ingresso da assistente litisconsorcial que não alterou a responsabilidade da ré. Autogestão na qual não se aplica o CDC, mas que sofre a incidência da Lei dos Planos de Saúde. Dano moral caracterizado in re ipsa. Jurisprudência consolidada do Egrégio Superiors Tribunal de Justiça. Indenização que deve ser fixada com proporcionalidade e razoabilidade, considerando as peculiaridades da controvérsia. No caso, houve recusa da internação da autora, resolvida posteriormente. Manutenção da verba compensatória em R$6.000,00. Recursos não providos" (fl. 469, e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, a violação dos artigos 186, 187, 422 e 927 do Código Civil; 2º do Código de Defesa do Consumidor e 16 da Lei nº 9565/1998.
+De início, afirma que o recorrido é beneficiário da FUNCESP e não da UNI MED, a qual não pode ser condenada sob pena de afronta ao que havia siso previamente contratado.
+Além disso, sustenta que a FUNCESP e a UNIMED agiram de acordo com os termos do contrato e que a cobertura do procedimento de "home care" foi expressamente excluída pelo convênio de reciprocidade, sendo incabível o pedido de indenização por danos morais.
+Por fim, aduz que inexiste relação de consumo entre entidade de autogestão e seus beneficiários, como no presente caso.
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange ao art. 2º do Código de Defesa do Consumidor e 16 da Lei nº 9565/1998, verifica-se que a matéria não foi objeto de debate pelas instâncias ordinárias e que não foram opostos embargos de declaração para sanar eventual omissão. Assim, ausente o requisito do prequestionamento, incide, por analogia, a Súmula nº 282/STF.
+No caso, o Tribunal de origem afastou a tese de que o recorrido não tem qualquer relação com a UNIMED, nos seguintes termos:
+"(..)
+A par disso, na decisão de fls. 115/116, o D. Magistrado que presidiu a causa houve por bem reconhecer a legitimidade da ré para figurar no polo passivo da demanda: "De acordo com a cláusula 2ª, "d", do contrato havido entre a Fundação CESP e a Unimed de Presidente Prudente, são considerados usuários os Associados e dependentes participantes do Plano Especial de Saúde-Pes da Fundação CESP e os Associados Aposentados (fls. 82-90). Também, de acordo com a cláusula 6.1, os usuários serão atendidos em todos os serviços objeto da contratação. Em contestação, a ré Unimed reconhece que o autor é beneficiário da Fundação CESP. Não bastasse, a ré emitiu em favor do autor carteira para atendimento, ali fazendo constar ser o autor enquadrado como beneficiário (fl. 26-27). Assim, na forma disposto no contrato acima mencionado, o autor é usuário dos serviços da ré Unimed, não havendo que se falar que o autor não é beneficiário do plano de saúde dela".
+(..)" (fls. 472/473, e-STJ).
+Com efeito, a revisão de tal entendimento, para acolher a tese de que o recorrido não tem nenhuma relação com a UNIMED, demandaria a análise de fatos, de provas dos autos e de cláusulas contratuais, o que é inviável no recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+Em relação à aplicabilidade do CDC, consta no acórdão recorrido o seguinte:
+"(..) Convém anotar, por oportuno, que o ingresso da assistente litisconsorcial ao caso não alterou o quadro sob exame. Em que pese alegar que administra o plano de saúde em autogestão e, nesse caso, não incidir o CDC à relação mantida com o autor, a condenação imposta recaiu sobre a operadora do plano de saúde ré Unimed Presidente Prudente e mais, eventual cláusula do ajuste que exclua da cobertura o atendimento domiciliar infringe, como visto, a Lei dos Planos de Saúde, inequivocamente aplicável aos casos de autogestão.
+(..)" (fl. 474, e-STJ).
+De fato, tal fundamento suficiente do acórdão recorrido não foi impugnado de forma específica pela recorrente, o que configura a deficiência na fundamentação a atrair a incidência da Súmula nº 283/STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESCISÃO CONTRATUAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. (..)
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. (..)
+4. Agravo interno não provido" (AgInt no AREsp 913.875/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/10/2016, DJe 25/10/2016).
+No concernente aos prejuízos extrapatrimoniais, a jurisprudência desta Corte Superior é no sentido de que, em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+Todavia, que há situações em que existe dúvida jurídica razoável na interpretação de cláusula contratual, de forma que a conduta da operadora, ao optar pela restrição da cobertura sem ofender os deveres anexos do contrato - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, o que afasta qualquer pretensão de compensação por danos morais (AgInt no REsp nº 2.058.134/SE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023; AgInt no AREsp nº 1.918.038/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/3/2022, DJe de 23/3/2022; AgInt no REsp nº 1.896.776/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023).
+Na hipótese, está incontroverso nos autos que o beneficiário necessitou de atendimento domiciliar e teve sua cobertura indevidamente negada pelo plano de saúde, consoante se colhe nos seguintes trechos do acórdão recorrido:
+"(..)
+Isso porque a necessidade de home care restou evidenciada pela documentação que instruiu a inicial, conforme fls. 18/31. O autor é portador de patologias progressivas e incapacitantes e houve agravamento do quadro clínico. Está acamado há meses, dependente de terceiros, e necessita de acompanhamento especializado, como permitem entrever os documentos.
+De outra parte, o autor juntou sua carteira de atendimento da ré Unimed Presidente Prudente (fls. 26), demonstrando que esta assumiu a obrigação, perante o consumidor, de conferir os atendimentos médico-hospitalares por ele necessitados.
+(..)
+E, quanto à negativa de cobertura contratual para o home care recomendado ao autor, tal postura é efetivamente abusiva e ilícita.
+(..)" (fls. 472/473, e-STJ).
+Nesse contexto, o entendimento do acórdão recorrido encontra-se em harmonia com a jurisprudência do STJ, fazendo incidir o óbice da Súmula nº 568/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. HOME CARE. DEVER DE COBERTURA. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DANOS MORAIS DEMONSTRADOS NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. De acordo com a jurisprudência desta Corte, reputa-se abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, especialmente no caso dos autos, em que o Tribunal de origem verificou a existência de excepcional necessidade de cobertura do tratamento, o que somente poderia ser revisto mediante o reexame do acervo fático-probatório dos autos, obstado, em recurso especial, pelo enunciado da Súmula n. º 7 do STJ.
+3. O Tribunal de origem concluiu que a parte ora recorrida comprovou a existência de circunstâncias fáticas capazes de ensejar dano moral, o que somente poderia ser revisto mediante o reexame das provas dos autos, procedimento vedado em recurso especial, a teor do que dispõe a Súmula n.º 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido" (AgInt no REsp n. 2.007.152/CE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
