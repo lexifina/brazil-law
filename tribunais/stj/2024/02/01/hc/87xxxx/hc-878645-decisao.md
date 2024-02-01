@@ -1,0 +1,20 @@
+DECISÃO
+SELOMY GOMES DE ARAUJO, condenado pela prática do crime previsto no art. 306, caput, c/c § 1º, I, da Lei n. 9.503/1997, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Terriórios, que manteve a condenação em primeiro grau
+Neste writ, afirma a defesa o direito ao esquecimento, haja vista que "foi considerado o processo Nº2010.10.1.008130-9, o qual se refere a fatos ocorridos em 2010, condenação transitada em julgado há mais de 13 anos e, por conseguinte, demasiadamente distanciada no tempo" (fls. 17-18).
+Diante disso, requer "a concessão da ordem para, ainda que ex officio, excluir a avaliação negativa do vetor dos antecedentes e operar o redimensionamento da dosimetria da pena do impetrante" (fl. 20).
+Não houve pedido de liminar e não foram prestadas informações. Encaminhados os autos ao Ministério Público Federal, este se manifestou pela denegação da ordem, visto que transcorrido lapso inferior a 10 anos (fls. 296-303).
+Decido.
+O pedido não tem procedência.
+De fato, como assinlou o Ministério Público Federal, "no caso em tela, da leitura da folha de antecedentes criminais acostada aos autos (fls. 91 e-STJ), verifica-se que a condenação pretérita utilizada para fins de reconhecimento dos maus antecedente do réu, ora paciente, transitou em julgado em 27/11/2013, enquanto o novo crime foi praticado em 11/10/2020, ou seja, menos de 7 (sete) anos após o trânsito em julgado da decisão condenatória relativa ao crime anterior" (fl. 300, destaquei), razão pela qual não milita em favor do paciente o direito ao esquecimento.
+A jurisprudência desta Corte entende que condenações definitivas atingidas pelo período depurador de 5 anos não podem ser utilizadas para fins de reincidência, mas podem ser sopesadas para exasperar a pena-base a título de maus antecedentes, caso não atingidas pelo lapso temporal de 10 anos entre a extinção da pena e o cometimento da nova infração, como na espécie.
+Realce-se que esse prazo deve ser considerado após a extinção da pena e não do trânsito em julgado, situação que reforça ainda mais a inexistência de constrangimento ilegal na hipótese.
+Nesse sentido, ilustrativamente:
+ ..
+5. É firme a jurisprudência desta Corte Superior no sentido de que as condenações atingidas pelo período depurador quinquenal do art. 64, inciso I, do CP, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes, na primeira etapa da dosimetria da pena. Precedentes.
+6. No mesmo sentido, o Supremo Tribunal Federal, no exame do RE n. 593.818 (Tema 150 - repercussão geral), de relatoria do Ministro LUÍS ROBERTO BARROSO, publicado no DJE de 23/11/2020, fixou a tese de que "não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal". Tal entendimento, todavia, não impede o afastamento da desfavorabilidade da vetorial antecedentes, em razão de peculiaridades do caso concreto, notoriamente nas hipóteses de transcurso de lapso temporal muito extenso.
+7. Em que pese a excepcional possibilidade de relativização das condenações antigas, para fins de afastar a configuração de maus antecedentes, com fundamento na teoria do direito ao esquecimento, ante o princípio da proporcionalidade, a hipótese dos autos não comporta a aplicação do referido entendimento, haja vista que as condenações penais anteriores, utilizadas pelas instâncias ordinárias para amparar a valoração negativa da vetorial antecedentes, tiveram a extinção de punibilidade, pela concessão de indulto, em 2017 (e-STJ fls. 631/632), ao passo que as condutas apuradas nos presentes autos foram cometidas em 2019, tendo transcorrido, portanto, menos de 10 (dez) anos entre os referidos marcos, o que não evidencia a alegada perpetuidade na valoração dos antecedentes na pena do agravante.
+8. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.929.263/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 25/10/2021.)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
