@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de JANILSON RODRIGUES DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE PERNAMBUCO, ante o julgamento proferido no HC n. 0024075-55.2022.8.17.9000 (fls. 32/52).
+Sustenta-se que a condenação transitada em julgado às penas de 10 anos e 6 meses de reclusão, inicialmente em regime fechado, e de 749 dias-multa, pela prática dos delitos descritos no art. 33 da Lei n. 11.343/2006 e no art. 16 da Lei n. 10.826/2003 merece ser revista, porquanto não teria sido apresentada fundamentação idônea para a valoração negativa da culpabilidade, das consequências e das circunstâncias do delito, levando a uma errônea fixação da pena-base.
+Busca-se, assim, a concessão da ordem, ainda que de ofício, para reformar a sentença proferida, reconhecendo-se, em consequência, os erros perpetrados pelo juízo no tocante ao capítulo destinado à dosimetria da pena para o fim de redimensionar a pena-base no patamar mínimo, à luz das robustas argumentações (fl. 29).
+Ouvido, o Ministério Público Federal opinou pelo não conhecimento do writ, conforme o parecer assim resumido (fl. 240):
+HABEAS CORPUS SUBSTITUTIVO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE, CONSEQUÊNCIAS E CIRCUNSTÂNCIAS. CONCRETAMENTE MOTIVADO. CONSTRANGIMENTO ILEGAL INEXISTENTE. NÃO CONHECIMENTO.
+É o relatório.
+Este writ não merece prosperar.
+Primeiro, o mandamus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, a ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, porquanto a linha de entendimento adotada pelo Tribunal local no acórdão impugnado encontra respaldo na firme jurisprudência do STJ, sobretudo quanto à possibilidade de a grande quantidade e natureza mais nociva da droga apreendida - 5 kg de crack - ser elemento idôneo para justificar o aumento realizado na primeira fase, a despeito da inadequação da nomenclatura utilizada.
+A propósito, entre outros, o AgRg no HC n. 848.133/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/10/2023.
+Como destacou a Subprocuradora-Geral da República Mônica Nicida Garcia, a Corte de origem, acertadamente, entendeu que, apesar de o magistrado de piso não ter usado a melhor técnica quanto à conceituação de culpabilidade e consequências do crime, depreende-se que a pena sofreu incremento proporcional e razoável às circunstâncias que envolveram o crime, notadamente, a expressiva quantidade de entorpecente de natureza altamente nociva (5Kg de crack), critério previsto no art. 42 da Lei 11.343/2006, e o porte ilegal de arma de fogo, estando justificada a fixação da pena definitiva em 7 anos e 6 meses de reclusão (fl. 244). Afora isso, não há como, nesta sede de habeas corpus, se revolver material probatório, como é cediço (fl. 244).
+Por essas razões, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA CONDENAÇÃO DEFINITIVA.
+USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MOTIVAÇÃO IDÔNEA. INEVIDÊNCIA DE ILEGALIDADE. PARECER ACOLHIDO.
+Writ não conhecido.
