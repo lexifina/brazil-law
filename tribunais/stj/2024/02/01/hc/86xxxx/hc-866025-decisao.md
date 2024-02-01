@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JENIFFER KARINE SOUZA DOS SANTOS, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que denegou o HC n. 5250324- 12.2023.8.21.7000 (fl. 129):
+HABEAS CORPUS. PRISÃO PREVENTIVA. ESTELIONATO MEDIANTE FRAUDE ELETRÔNICA CONTRA ENTIDADE DE DIREITO PÚBLICO OU INSTITUTO DE ECONOMIA POPULAR E CONTRA IDOSO OU VULNERÁVEL. ARTIGO 171, CAPUT, §§ 3º E 4º, C/C O ARTIGO 29, CAPUT, E ARTIGO 71, CAPUT, DO CÓDIGO PENAL. EXCESSO DE PRAZO. INOCORRÊNCIA. SÚMULA 64 DO STJ.
+1. Matérias atinentes à necessidade/adequação da prisão preventiva, aos requisitos previstos no art. 312 do CPP, às condições favoráveis à paciente e à inadequação da substituição por medidas cautelares previstas no art. 319 do CPP, já analisadas por esta Câmara no HC n.º 5116546- 43.2023.8.21.7000/RS impetrado em seu favor, onde a ordem foi denegada, por maioria. Habeas corpus não conhecido quanto a tais pontos.
+2. A alegação de que a paciente está segregada há quatro meses, sem que tenha sido ouvida, ainda, no juízo de origem, não elide a prisão preventiva, porquanto presentes os requisitos do art. 312 do CPP, conforme já decidido por esta Câmara. Isso porque, aprazada audiência de instrução e julgamento para o dia 03.08.2023, a própria defesa da suplicante postulou a sua remarcação, tendo sido aprazada nova data para o dia 05.09.2023. Feito originário que apresenta regular andamento, não se evidenciado excesso de prazo injustificado na formação da culpa, por inércia que passa ser atribuída ao Judiciário. Incidência da Súmula 64 do STJ, no sentido de que não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa.
+HABEAS CORPUS CONHECIDO EM PARTE, E NESTA PARTE, DENEGADA A ORDEM.
+Alega-se que a paciente desconhece todos os fatos alegados na denúncia e estaria inocentemente presa há sete meses (fl. 6). Aponta-se, ainda, a ausência dos requisitos ensejadores da prisão preventiva, a presença de predicados pessoais como primariedade, bem como a possibilidade de aplicação de medida cautelar diversa da prisão.
+Requer-se a concessão da ordem, inclusive em caráter liminar, a fim de que a paciente seja posta em liberdade, se necessário com cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal. Subsidiariamente, pede-se a substituição da prisão preventiva por domiciliar.
+A liminar foi indeferida (fls. 133/135).
+Informações prestadas (fls. 140/181) e Parecer do Ministério Público Federal pela prejudicialidade do habeas corpus (fls. 193/195).
+É o relatório.
+O presente writ perdeu o objeto.
+Como observado no parecer do Ministério Público Federal, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, verificou-se que, em 24.11.2023, sobreveio sentença nos autos principais, tendo sido a paciente condenada como incursa no artigo 171, caput, §§ 3º e 4º, c/c artigo 71, caput, ambos do Código Penal, à pena de 1 ano, 11 meses e 21 dias de reclusão, em regime inicial aberto, concedida a suspensão condicional da pena. Foi concedido o direito de apelar em liberdade e determinada a expedição de alvará de soltura (fl. 194).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. GARANTIDO O DIREITO DE APELAR EM LIBERDADE. PERDA DE OBJETO. Habeas corpus prejudicado.
