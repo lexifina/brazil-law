@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO DE PROCEDIMENTODENOMINADO CAUTERIZAÇÃO ENDOSCÓPICA. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DARÉQUE NÃO PROSPERA. INCIDÊNCIA DA LEI CONSUMERISTA AO CASO, NA FORMA DO ENUNCIADO 469 DO STJ. INCONTROVERSA A EXISTÊNCIA DE CONTRATO, BEM COMO A NECESSIDADE DO PROCEDIMENTOE A NEGATIVA DE COBERTURA. DOENÇA QUE ACOMETE O AUTOR QUE POSSUI COBERTURA CONTRATUAL. ROL DA ANS QUE É, EM REGRA, TAXATIVO,HAVENDO, CONTUDO, TESE FIRMADA PARA RECONHECIMENTODE EXCEÇÕES(ERESP 1.886.929). PLANO DE SAÚDE QUE NÃO ESTÁ OBRIGADO A ARCAR COM TRATAMENTO NÃO CONSTANTE DO ROL " SE EXISTE PARA A CURA DO PACIENTE OUTRO PROCEDIMENTO EFICAZ, EFETIVO E SEGURO JÁ INCORPORADO". NO CASO CONCRETO NÃO DEMONSTROU A APELANTE EXISTIR OUTRO PROCEDIMENTO JÁ INCORPORADO AO ROL, E COM TAIS CARACTERÍSTICAS, QUE PUDESSE SER UTILIZADO PARA TRATAR DA ENFERMIDADE DO CONSUMIDOR NO LUGAR DA COLONOSCOPIA COM COAGULAÇÃO COM PLASMA DE ARGÔNIO, INDICADO PELO MÉDICO ASSISTENTE. RÉ NÃO SE DESINCUMBIU DO ÔNUS DE PROVAR A EXISTÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO DEMANDANTE (ART. 373, II DO CPC). RECUSA INDEVIDA E ABUSIVA DA SEGURADORA. FALHA NAPRESTAÇÃO DO SERVIÇOCONFIGURADA. DANOMORALIN RE IPSA. INCIDÊNCIA DASSÚMULAS 209 E339 DESTE TJ. QUANTUM INDENIZATÓRIO CORRETAMENTE FIXADO EM R$10.000,00(DEZMIL REAIS), VALOR QUE OBSERVAOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE, E AS PECULIARIDADES DO CASO CONCRETO. SÚMULA 343DESTA CORTE. RECURSO NÃO PROVIDO." (fls. 483/484 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 521/526 e-STJ).
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos arts. 1.022, II, do Código de Processo Civil e 10, §4º, da Lei .9.656/1998, pois não há previsão no Rol de Eventos e Procedimentos da Agência Nacional de Saúde Suplementar -ANS para a cobertura obrigatória de colonoscopia com coagulação com plasma de argônio.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante às omissões apontadas no acórdão estadual, o Tribunal de origem ao decidir a controvérsia, concluiu que:
+"(..)
+No caso submetido a julgamento, não se discute a existência da relação contratual entre o demandante e a operadora recorrente, que se negou a custear o procedimento de que necessitava o consumidor, como comprovado através do documento anexado no evento 000037,além de confessado na peça defensiva(indexador 000067).
+Ora, a doença que acomete o Autor (retite actínica, sequela de câncer de próstata) é coberta pelo plano, não havendo prova em sentido contrário, de modo que não se pode admitir, diante da boa-fé, que a seguradora assuma o risco de tratamento de determinada doença e busque se eximir da obrigação de prestar todo o atendimento necessário à manutenção da saúde do segurado.
+Quanto ao rol da ANS, não se ignora recente posicionamento do C. STJ adotado no EREsp 1.886.929, no sentido de que o rol de tratamentos da ANS é, em regra, taxativo, ou seja, excepcionalmente poderá ser ampliado.
+A 2ª tese fixada pela Segunda Seção do STJ foi no sentido de que "a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol". Ocorre que, na hipótese em testilha, não demonstrou a Apelante que existia outro procedimento já incorporado ao rol, e com tais características, que não a colonoscopia com coagulação com plasma de argônio, que pudesse ser utilizado para tratar a enfermidade do consumidor, em substituição àquele indicado pelo médico assistente.
+Assim, meramente por argumentar, não é demais consignar que na altura em que proposta a demanda, o entendimento jurisprudencial dominante era de que o rol da ANS era meramente exemplificativo. Contudo, mesmo neste momento processual, em que já pacificada a discussão no C. STJ, não demonstrou a recorrente quaisquer das hipóteses obstativas constante na tese de nº 4 do julgado paradigmático:
+(..)
+Isso implica dizer que a demandada não afastou a sua responsabilidade, restando evidenciada a falha na prestação dos serviços na área de saúde.
+Desse modo, tem-se que a Ré não comprovou a existência de qualquer fato impeditivo, modificativo ou extintivo do direito autoral, ônus que lhe cabia, consoante o disposto no art. 373, II do CPC.
+Destarte, a indevida recusa da operadora em dar cobertura ao procedimento necessário ao tratamento do Autor é abusiva e ilegal, considerando que foi expressamente recomendada pelo médico que o acompanha, está vinculada à doença coberta pelo contrato, e não demonstrou a operadora existir nenhuma das hipóteses obstativas constantes da tese de nº 4 do julgado referenciado." (fls. 487/488- grifou-se).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022. - grifou-se)
+Ademais, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos e do contrato firmado pelas partes, o que é inviável no recurso especial pelo óbice das Súmulas nºs 5 e 7/STJ.
+Anota-se, ainda, que a aplicação de enunciado de súmula do STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
