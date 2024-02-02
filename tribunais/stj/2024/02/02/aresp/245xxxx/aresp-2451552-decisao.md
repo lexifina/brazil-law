@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por RONIS E GONÇALVES LANZONI contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 18):
+AGRAVO DE INSTRUMENTO. Ação de arbitramento de alugueres pelo uso exclusivo de coisa comum. Cumprimento de sentença. Insurgência contra decisão que manteve o bloqueio de 30% dos valores em contas da executada em determinadas instituições financeiras, autorizando a liberação do restante. Inconformismo da agravante que busca a liberação total dos valores constritos por se tratarem de salário, aposentadoria e poupança de valor inferior a 40 salários mínimos. Possibilidade de aplicação de medidas excepcionais (artigo 139, IV, do CPC). "A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 833, IV, do CPC), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG). Decisão mantida. Recurso a que se nega provimento.
+Nas razões do recurso especial (e-STJ, fls. 27-45), a recorrente alegou violação ao art. 833, IV e X, do CPC/2015, além da existência de divergência jurisprudencial.
+Sustentou, em síntese, a impenhorabilidade de valores depositados em sua conta corrente, uma vez que correspondem a salário, aposentadoria e poupança em montante inferior a 40 (quarenta) salários mínimos.
+Sem contrarrazões (e-STJ, fl. 56).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No tocante à validade da penhora dos valores depositados na conta corrente da insurgente, o Tribunal originário assim se manifestou (e-STJ, fls. 19-21, sem grifo no original):
+Verifica-se dos autos que o único bem oferecido à penhora é o próprio imóvel gerador dos alugueres que se executam, detendo a executada a propriedade de menos de 20% sobre o bem, o que ensejou o pedido de penhora em contas, o que é admissível, consoante a ordem de preferência indicada no artigo 835, I, parágrafo primeiro do CPC.
+Ademais, consigna o artigo 139, IV, do CPC que:
+Art. 139. O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe: IV determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniárias.
+Pois bem.
+Considerando o valor expressivo do débito, que já supera 130 mil reais, possível aplicar-se a norma supra ao caso dos autos, impondo exceção à impenhorabilidade de valores para dar maior efetividade à execução.
+E, segundo entendimento jurisprudencial recentemente firmado pelo C. Superior Tribunal de Justiça, "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018).
+No presente caso, a penhora pretendida é medida excepcional que se justifica, pois, não localizados outros bens idôneos à garantia e efetividade da execução.
+Assim, admite-se a penhora do percentual de 30% dos valores então constritos, restando, ainda, 70% do montante antes penhorado e que será liberado, como determinado na própria decisão agravada, o que não prejudicará a subsistência da agravante ou mesmo das filhas em comum das partes, sendo certo que os alimentos a elas devidos deverão ser requeridos ou já o foram em outra demanda, nada tendo a ver com o título judicial que ora se executa.
+Do excerto acima transcrito, depreende-se que a Corte local entendeu que, em virtude do entendimento da jurisprudência dos tribunais acerca da mitigação da garantia da impenhorabilidade de valores depositados em conta corrente do devedor, é possível a manutenção da constrição pois, no caso concreto, está presente situação excepcional apta a afastar qualquer ilegalidade.
+Afirmou também o Tribunal a quo que a penhora não compromete a subsistência da insurgente.
+De fato, a orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de que é possível a mitigação da garantia da impenhorabilidade da remuneração do devedor, desde que não haja prejuízo à sobrevivência digna do executado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RENDIMENTOS. PENHORA. CASO CONCRETO. POSSIBILIDADE. VALOR PENHORADO. REVISÃO. SÚMULA Nº 7/STJ.
+1. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+2. No caso concreto, o tribunal de origem concluiu pela existência de situação excepcional a autorizar a mitigação da regra da impenhorabilidade.
+3. Na hipótese, rever a conclusão de que o valor penhorado não compromete o sustento familiar encontra óbice na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.067.117/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. PENHORA. PERCENTUAL. SALÁRIO. MITIGAÇÃO. PRECEDENTES DO STJ. NÃO AFETA SUBSISTÊNCIA DO DEVEDOR E DA FAMÍLIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A impenhorabilidade de salários, vencimentos ou proventos pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família. Precedentes.
+2. Alterar as conclusões do acórdão recorrido, no sentido de verificar se efetivamente a penhora de percentual da verba salarial acabará por prejudicar subsistência da parte agravante - quando o próprio Tribunal já afastou essa hipótese -, demandaria reexame de matéria fático-probatória, inviável em sede de recurso especial, a teor da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.271.214/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. SÚMULA 568 DO STJ.
+1. Cumprimento de sentença.
+2. A regra geral da impenhorabilidade de salários, prevista no Código de Processo Civil, pode ser excepcionada quando for preservado percentual capaz de dar amparo à dignidade do devedor e de sua família.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.355.787/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. IMPENHORABILIDADE DE VENCIMENTOS. MITIGAÇÃO. POSSIBILIDADE. PRESERVAÇÃO DA SUBSISTÊNCIA DO DEVEDOR. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Corte Especial, no julgamento do REsp 1.815.055/SP, Rel. Ministra NANCY ANDRIGHI, DJe 26/8/2020, consignou que a impenhorabilidade do salário pode ser mitigada em respeito ao princípio da máxima efetividade da execução, desde que respeitada a dignidade da pessoa humana.
+3. O acórdão vergastado consignou que a constrição de parte dos vencimentos é o único e derradeiro meio para o pagamento da dívida e não coloca em risco a subsistência do agravante. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula n.º 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo da decisão impugnada, devendo ela ser integralmente mantida em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.097.962/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/2/2023, DJe de 15/2/2023.)
+Desse modo, não merece reparo o posicionamento adotado pelo Tribunal originário, uma vez que alinhado com o entendimento jurisprudencial do STJ.
+Ademais, reverter a conclusão da instância originária, acerca da existência de situação excepcional apta a justificar a penhora, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Em virtude da aplicação do verbete sumular n. 7/STJ, fica prejudicada a análise do dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE ARBITRAMENTO DE ALUGUERES PELO USO EXCLUSIVO DE COISA COMUM. PENHORA DE VALORES DEPOSITADOS EM CONTA CORRENTE DA DEVEDORA. IMPENHORABILIDADE. GARANTIA MITIGADA. SITUAÇÃO EXCEPCIONAL CONSTATADA. MANUTENÇÃO DA SUBSISTÊNCIA DA INSURGENTE. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
