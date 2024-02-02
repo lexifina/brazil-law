@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de ERIVALDO MELO DE VASCONCELOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Agravo de Execução Penal nº 0013899-80.2023.8.17.9000).
+Consta dos autos que o juízo da execução penal, em sede de unificação de penas, não reconheceu a continuidade delitiva em favor do paciente apenas em relação às execuções penais já extintas.
+Inconformada, a defesa interpôs agravo em execução perante o Tribunal de origem, que o desproveu.
+No presente habeas corpus, a defesa assevera constrangimento ilegal, sob alegação de que as decisões de origem, para negar parcialmente o reconhecimento da continuidade delitiva em sede de unificação de penas, se valeram de fundamentação inidônea.
+Sustenta que os únicos requisitos exigidos pelo Código Penal, de tempo, lugar e modo de execução, todos de natureza objetiva, foram preenchidos pelo paciente.
+Aduz que o paciente foi condenado em 5 (cinco) processos criminais, mas o juízo de primeiro grau somente unificou a pena de 2 (dois) processos, em razão de ter proferido sentenças prévias de extinção em relação às demais condenações.
+Afirma que a não unificação das demais condenações, com a declaração de extinção sem pedido da defesa, prejudicou a execução penal como um todo.
+Requer, ao final, a concessão da ordem, para "Que este Superior Tribunal de Justiça reveja essas sentenças de extinção, no sentido de terminar a unificação das penas, por ser mais benéfica ao acusado, em comparação às sentenças de extinção, visto que caso permaneça assim, ficará mais tempo em determinado regime, do que a lei permite, com a concessão Ordem em HC-Alvará de soltura" (fl. 8).
+Pedido de sustentação oral (fl. 8).
+Informações prestadas, às fls. 256-280.
+O Ministério Público Federal, às fls. 282-288, manifestou-se pela denegação da ordem, conforme parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ABUSO DO DIREITO DE IMPETRAÇÃO. EXECUÇÃO PENAL. UNIFICAÇÃO. PENA EXTINTA. AUSÊNCIA DE INÍCIO DE CUMPRIMENTO DA NOVA CONDENAÇÃO. INVIABILIDADE DA UNIFICAÇÃO. ART. 111 DA LEP. JURISPRUDÊNCIA DESSA CORTE SUPERIOR.
+Parecer pela inadmissibilidade do habeas corpus e, se admitido, pela denegação da ordem.
+  Requer-se a denegação do habeas corpus."
+É o relatório. DECIDO.
+Conforme consta, a defesa busca o reconhecimento da continuidade delitiva em fase de execução definitiva de penas, porém, apenas em relação aos processos já declarados extintos. No presente caso, da análise dos elementos informativos constantes dos autos, contudo, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Com efeito, a jurisprudência desta Corte Superior, para efeito de reconhecimento da continuidade delitiva, entende ser indispensável que o réu tenha praticado as condutas delituosas em idênticas condições de tempo, lugar, maneira de execução e outras semelhanças e, ainda, que exista um liame a indicar a unidade de desígnios do agente.
+Nesse sentido:
+"O Superior Tribunal firmou o entendimento de que, para o reconhecimento e a aplicação do instituto do crime continuado, é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e os de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos. (..) Assim, o que se observa, na verdade, é a prática de atos independentes, característicos da reiteração criminosa, em que deve incidir a regra do concurso material, e não a da continuidade delitiva. E, consoante orientação desta Corte Superior e do Supremo Tribunal Federal, a reiteração indicativa de delinquência habitual ou profissional é suficiente para afastar a caracterização do crime continuado" (AgRg no HC n. 826.297/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023).
+Corroborando: AgRg no HC n. 730.671/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2022; e AgRg no REsp 2.046.445/SC, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 16/8/2023.
+Verifica-se, pois, que a Corte a quo não reconheceu se tratar de crime único ou ser possível a aplicação da continuidade delitiva por entender que não foram demonstrados os requisitos acerca das iguais condições de tempo, lugar, modo de execução e identidade de desígnios. Ao revés, concluiu que as execuções penais já extintas não poderiam ser revistas, reabertas, para fins de reconhecimento da continuidade delitiva.
+Isso porque as 2 condenações ulteriores não formaram feitos com início da execução penal ainda no curso das 3 anteriores, mas apenas após a declaração de extinção daquelas.
+São estes os processos em cotejo (fl. 278):
+"O apenado foi condenado em cinco ações penais, porém, em momentos, condições processuais e prisionais distintas.
+É possível verificar no mov. 1.1 destes autos, correspondente ao processo físico digitalizado, às fls. 13/15, que, inicialmente, cumpriu as três primeiras condenações, a saber:
+1) Sob o processo de execução nº 2015.0184.0056010, cumpriu a condenação de 5 meses de detenção, por infração ao art. 147 do CPB, imposta na ação penal nº 976-32.2014.8.17.1080, para cuja extinção foi considerado o período de prisão entre 16/11/2014 e 15/04/2015, com sentença proferida em 26/08/2015;
+2) Sob o processo de execução nº 2015.0184.0076780, cumpriu outra condenação de 5 meses de detenção, por infração ao art. 147 do CPB, imposta na ação penal nº 1049-04.2014.8.17.1080, para cuja extinção foi considerado o período de prisão entre 16/04/2015 e 15/09/2015, com sentença proferida em 07/12/2015;
+3) Sob o processo de execução nº 2017.0184.0002620, cumpriu a condenação de 3 anos de detenção, por infração aos arts. 129, § 9º, 129 e 147 do CPB, imposta na ação penal nº 1302-89.2014.8.17.1080, para cuja extinção foi considerado o período de prisão entre 16/11/2014 e 15/11/2017, com sentença proferida em 16/11/2017.
+(..)
+Com efeito, apenas em 22/04/2019 sobreveio condenação nos referidos sumários em aberto - processo nº 3402-53.2014.8.17.0001 e, em 13/05/2019, a condenação na ação penal nº 758-57.2011.8.17.0870, ora unificadas e executadas na presente execução.
+A detração penal foi devidamente contabilizada, adotando-se como data-base para a progressão de regime o dia posterior à extinção da terceira condenação acima indicada.
+Registre-se que, à época das sentenças de extinção, não houve recurso da defesa (..)"
+Conforme se apreende, não obstante as execuções penais posteriores tenham sido unificadas pela continuidade, quem não recorreu das sentenças anteriores (de extinção das penas) foi a própria defesa, apenas se insurgindo posteriormente, em típica inovação com tese de algibeira.
+Isso porque o art. 111 e seu parágrafo único da Lei de Execução Penal determina a soma das penas somente quando sobrevier condenação ainda no curso da execução penal:
+"Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime."
+No caso concreto, o cumprimento das novas condenações somente se iniciou após a extinção das execuções anteriores. Logo, o acórdão de origem está em consonância com a jurisprudência deste Tribunal Superior, inexistindo o alegado constrangimento ilegal.
+Vejamos:
+"À luz do art. 111 da LEP, somar-se-á a nova condenação oriunda de processo distinto ao restante que está sendo cumprido pelo sentenciado. Caso contrário, tem de ser formado outro processo de execução. Caracterizado o lapso entre a extinção da pena anterior e o início do cumprimento da sentença superveniente, não há como se acolher o pedido de unificação ditada no art. 111 da LEP" (AgRg no AREsp n. 1.269.706/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 2/3/2021).
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandam necessidade de incursão no acervo fático-probatório, como in casu:
+"Nos termos da jurisprudência deste Superior Tribunal, mostra-se incabível, nos estreitos limites do remédio constitucional, um maior aprofundamento na apreciação de fatos e provas constantes dos processos de conhecimento, para a verificação do preenchimento das circunstâncias exigidas para o reconhecimento da ficção jurídica do crime continuado" (AgRg no HC n. 826.297/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023).
+No mesmo compasso: AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
