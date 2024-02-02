@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de IZAQUE DIAS DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 2 anos e 3 meses de reclusão e 226 dias-multa, e no art. 317, §1º, do CP, à pena de 2 anos e 8 meses de reclusão e 13 dias-multa, no regime inicial semiaberto.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao ministerial para condenar o paciente como incurso, também, no art. 35, caput, da Lei n. 11.343/2006, restando a pena definitiva do réu fixada em 15 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado, e pagamento de 1.916 dias-multa, no regime inicial fechado.
+Neste habeas corpus, alega a defesa, em suma, que o paciente não cometeu o crime de associação, razão pela qual deve ser absolvido.
+Aduz que "conforme salientado pela MM. Magistrada de origem - que tem o contato mais próximo com a prova produzida nos autos - não restou demonstrado o vínculo associativo entre os acusados do processo, de forma permanente e estável." (e-STJ, fl. 7)
+Argumenta que "os únicos elementos de provas nos autos dão conta de apenas 2 (dois) depósitos de valores feito por usuários ocorridas nos meses de abril e maio de 2021, o que por si só já demonstra a total a inexistência de vínculo estável e permanente do paciente com o corréu - elementar indispensável à configuração do delito de associação para o tráfico de drogas." (e-STJ, fl. 8)
+Requer seja o paciente absolvido pelo delito do artigo 35 da Lei nº 11.343/06.
+Liminar indeferida (e-STJ, fl. 89).
+O Ministério Público Federal opinou pelo pelo não conhecimento do habeas corpus, ressaltando a inexistência de ilegalidade no acórdão impugnado (e-STJ, fls. 97-101).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, s alvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem condenou o paciente pelo delito de associação para o tráfico de drogas nos seguintes termos:
+" ..
+Pugna, o Ministério Público, pela condenação de Keila, William e Izaque pela prática, também, do crime previsto no art. 35, da Lei de Tóxicos.
+Parcial razão lhe assiste, no ponto.
+No que tange à denunciada Keila, sem a necessidade de maiores digressões, reitera-se a inexistência de provas suficientes quanto ao seu envolvimento na atividade ilícita desempenhada por seu companheiro e pelo denunciado Izaque, de modo que o pleito condenatório não merece prosperar.
+Em relação aos réus William e Izaque, por sua vez, entende-se que a autoria e materialidade restaram devidamente comprovadas por meio do Boletim de Ocorrência (Evento 1, Anexo 2, fls. 3/7), Autos de Exibição e Apreensão (Evento 1, Anexo 2, fl. 16) e de Constatação Provisório (Evento 1, Anexo 3, fl. 26) e Relatórios Policiais (Evento 1, Inquérito 1, fls. 8/28, e Anexo 3, fls. 29/34), todos dos autos de n. 5022756-38.2021.8.24.0033, e pelo Laudo Pericial Definitivo (Evento 42, Laudo 1), este dos autos de n. 5021800-22.2021.8.24.0033, assim como pela prova oral já transcrita alhures.
+Uma vez mais, a fim de se evitar incorrer em tautologia, ratifica-se o já exposto quanto à atuação conjunta de ambos no contrabando de objetos e substâncias ilícitas para o interior do sistema prisional, sendo necessário tão somente verificar a existência de provas quanto à estabilidade e permanência da mencionada relação.
+E, a respeito disso, deve-se destacar o fato de que, consoante bem delineado na Exordial, a primeira das negociações espúrias se deu no início do mês de abril de 2021, ocasião em que o testigo Teodosio Hudema transferiu R$ 500,00 (quinhentos reais) para a conta de William, no intuito de que os denunciados entregassem à seu filho, o interno Diogo Fernando de Lima Hudema, produtos proibidos no ergástulo.
+Já em 07/05/2021, foi a vez da testemunha Lucilene efetuar um depósito no valor de R$ 200,00 (duzentos reais) em favor de William, a fim de que ele e Izaque efetuassem o contrabando de certa quantidade de "fumo" para seu companheiro, o detento Alexsandro José Baptista.
+Tanto Diogo quanto Alexsandro, vale dizer, fizeram menção à atuação em conjunto de William e Izaque.
+Soma-se a isso, ainda, o fato de que, dentre os "pipos" apreendidos nas residências dos réus, aqueles do Evento 1, Anexos 11 e 15, dos autos de n. 5021800-22.2021.8.24.0033, datam de 24/04/2021.
+No do Evento 1, Anexo 6, dos mesmos autos, consta o seguinte trecho "As idéia q mandei pra vcs 2 ontem  ..  caso vcs for quere negocia algo me avisa fala o preço de vcs", e daquele do Anexo 9, extrai-se que "Tenho tanta coisa boa pra vc e o seu isaque q também é altos parceiro".
+Ainda, no recado do Evento 1, Anexo 20, é possível observar orientação no sentido de que "Ei olha só agora que tem aquele outro ali estrui em cima ele bem daí faz ele já ir trasendo um palheiro".
+O Ofício do Evento 1, Relatório de Missão Policial 2, fls. 20/23, dos autos de n. 5017270-72.2021.8.24.0033, expedido pelo DEAP, data de 14/06/2021, e traz a informação de que um terceiro interno do sistema prisional de Itajaí "relatou os mesmos fatos narrados, e ainda acrescentou que William age em pareceria com o funcionário IZAQUE DIAS DA SILVA, RG  ..  (Acre), sendo que um acoberta o outro na entrada e distribuição de materiais ilícitos para os internos".
+Já um segundo Ofício expedido, também, pelo DEAP, no dia 07/07/2021 (Evento 1, Relatório de Missão Policial 2, fls. 24/29, dos autos de n. 5017270-72.2021.8.24.0033), fez constar que "WILLIAM MORAES FIDELIS e IZAQUE DIAS DA SILVA, continuam com condutas ilícitas dentro desta unidade prisional".
+Tais elementos, com a devida vênia ao posicionamento adotado pelo Juízo de origem, revelam-se mais do que suficientes a demonstrar a estabilidade e permanência na relação ilícita mantida pelos réus, com a finalidade de comercializar entorpecentes no interior do Complexo Penitenciário do Vale do Itajaí.
+Nesse sentido, extrai-se da Quarta Câmara Criminal deste Tribunal a Apelação n. 5003842-32.2021.8.24.0030, de relatoria do Desembargador José Everaldo Silva, julgada em 20/10/2022:
+ ..
+Dá-se, assim, parcial provimento ao Apelo do Ministério Público, para condenar William Moraes Fidelis e Izaque Dias da Silva pela prática do crime previsto no art.
+35, da Lei de Drogas." (e-STJ, fls. 77-79; sem grifos no original).
+Como se vê, a Corte de origem concluiu haver prova concreta da estabilidade e da permanência entre o réu e o corréu na associação criminosa, tendo destacado elementos idôneos que comprovam o envolvimento sistemático de ambos no comércio ilícito de drogas, e não a reunião de maneira eventual.
+Conforme destacado pelo Tribunal a quo, foi comprovada a atuação conjunta dos réus no contrabando de objetos e substâncias ilícitas para o interior do sistema prisional, "sendo que um acoberta o outro na entrada e distribuição de materiais ilícitos para os internos".
+Dessa forma, a pretensão de absolvição pelo delito de associação para o tráfico, sob a alegação de falta de comprovação da estabilidade e permanência entre o paciente e o corréu, demanda, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em sede de habeas corpus.
+Nesse sentido:
+"II - O tipo previsto no artigo art. 35 da Lei nº 11.343/2006 se configura quando duas ou mais pessoas se reúnem com a finalidade de praticar os crimes previstos nos art. 33 e 34 da norma referenciada . Indispensável, portanto, para a comprovação da materialidade, o animus associativo de forma estável e duradoura com a finalidade de cometer tais delitos.
+III - In casu, o Tribunal de origem se apoiou em robusto conjunto probatório para impor a condenação ao paciente, quais sejam, depoimentos testemunhais e os dados constantes da interceptação telefônica. Dessa forma, estando demonstrado a associação do paciente à estável societas criminis dedicada à prática do tráfico ilícito de entorpecentes, correta sua condenação como incurso no art. 35, caput, da Lei n. 11.343/06.
+IV - Qualquer incursão que escape a moldura fática ora apresentada, não se coaduna com os estreitos limites do mandamus, já que o amplo reexame de provas é inadmissível no espectro processual do habeas corpus, ação constitucional que pressupõe, para seu manejo, uma ilegalidade ou abuso de poder tão flagrante que pode ser demonstrada de plano. Precedentes.
+Habeas Corpus não conhecido."
+(HC 460.083/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/10/2018, DJe 29/10/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
