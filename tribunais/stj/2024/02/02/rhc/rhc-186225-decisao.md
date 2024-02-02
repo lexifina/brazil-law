@@ -1,0 +1,27 @@
+DECISÃO
+Trata -se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de CLEBSON TAVARES LIMA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que, em razão da suposta prática do delito de tráfico de drogas, o Juízo de primeiro grau concedeu a liberdade provisória ao Recorrente, mediante a imposição de medidas cautelares alternativas.
+Interposto recurso em sentido estrito pelo Ministério Público Estadual, o Magistrado se retratou e decretou a prisão preventiva do Recorrente por entender que a segregação cautelar seria recomendável diante da gravidade concreta da conduta, tendo em vista a apreensão de 08 (oito) porções de maconha, com massa bruta de 7,925kg, e 45 porções de cocaína, com massa bruta de 28,134g, além de 01 balança de precisão, máquina de cartão e dinheiro no valor de R$ 5.700,00.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem que manteve a prisão, diante da imprescindibilidade da segregação cautelar, e afastou a tese de ausência de contemporaneidade da medida, conforme acórdão de fls. 122-132.
+No presente recurso, alega a Defesa a ocorrência de constrangimento ilegal consubstanciado na ausência de requisitos para a prisão preventiva do Recorrente, bem como na ausência de contemporaneidade da medida constritiva de liberdade.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares alternativas previstas no art. 319, do Código de Processo Penal.
+Liminar indeferida, às fls. 160-161.
+Informações prestadas, às fls. 167-173 e 175-182. O Ministério Público Federal em parecer, às fls. 184-188, opinou pelo não provimento do recurso ordinário em habeas corpus:
+"PENAL e PROCESSUAL PENAL. ROC em habeas corpus. Tráfico de drogas. Prisão preventiva. Segregação cautelar devidamente fundamentada na quantidade e natureza das drogas apreendidas. Gravidade concreta da conduta. Medidas cautelares alternativas. Insuficiência. Ausência de constrangimento ilegal. Não provimento do recurso ordinário" (fl. 184).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública; notadamente se considerada a gravidade concreta da conduta, haja vista a quantidade e a variedade da droga apreendida, no contexto da traficância, (08 porções de maconha, com massa bruta de 7,925kg, e 45 porções de cocaína, com massa bruta de 28,134g), além da apreensão de balança de precisão, máquina de cartão e dinheiro no valor de R$ 5.700,00; circunstâncias que evidenciam um maior desvalor da conduta e a sua periculosidade do agente, justificando a segregação cautelar imposta.
+Sobre o tema:
+"No caso, a prisão preventiva encontra-se devidamente fundamentada, tendo sido demonstradas, com base em elementos concretos, a gravidade da conduta e a maior periculosidade do agravante, especialmente em razão da expressiva quantidade de droga apreendida no seu apartamento - 2,5kg de maconha e 30 gramas de cocaína" (AgRg no RHC n. 185.635/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/9/2023).
+"O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a quantidade de droga é relevante  2,8 kg de maconha e 337,5 g de cocaína " (AgRg no RHC n. 169.755/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 2/12/2022).
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ademais, tenho que a prisão cautelar foi determinada, considerando a necessidade de sua imposição no momento da decretação, não havendo que se falar em ausência de contemporaneidade da medida.
+Nesse sentido, o Tribunal de origem consignou que:
+"Quanto à ausência de contemporaneidade do decreto prisional, ressalta-se que a contemporaneidade não é avaliada somente com base no lapso temporal entre os fatos e a decretação da medida, como também na permanência da cautelaridade ensejadora da medida.
+Na espécie, nada obstante a medida constritiva tenha sido decretada em15/08/2022, o mandado prisional pendia de cumprimento à época da impetração, tanto que o writ possuía, a princípio, feição preventiva. Em 06/07/2023, todavia, o referido mandado foi finalmente cumprido" (fl. 129).
+Nesse sentido:
+"A contemporaneidade do decreto de custódia preventiva se verifica "da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado". (AgRg no HC 716.043/PE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 4/4/2022).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
