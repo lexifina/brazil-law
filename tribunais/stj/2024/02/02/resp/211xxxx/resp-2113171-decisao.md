@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA DE JESUS LOPES VERAS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fl. 399):
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO CÍVEL. AGRAVO INTERNO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de Apelação Cível, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMANBENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei)
+III - Agravo interno desprovido.
+Embargos de declaração rejeitados (fl. 8435):
+EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO PROFERIDO EM APELAÇÃO CÍVEL. ACÓRDÃO EMBARGADO TIDO COMO OBSCURO, CONTRADITÓRIO E OMISSO. NÃOCARACTERIZAÇÃO DE VÍCIO EMBARGÁVEL. REDISCUSSÃO DA MATÉRIA. INEXISTÊNCIADE VÍCIOS NO ACÓRDÃO EMBARGADO. CONTRARIEDADE AO ART. 1.022 DO CÓDIGOFUX. PROPÓSITO DE PREQUESTIONAMENTO. APLICAÇÃO DE MULTA. ART. 1026, §2º, DOCÓDIGO FUX. EMBARGOS REJEITADOS.
+I  Os embargos de declaração são oponíveis somente quando o pronunciamento judicial se ressentir de omissão, obscuridade, contradição ou erro material, nos termos do artigo 1.022 do Código Fux, sendo incabíveis para veicular, isoladamente, o propósito de inconformismo com o teor do julgamento.
+II  Embora possam os embargos de declaração ser manejados para o fim de prequestionamento, tal fato não implica a inobservância do cabimento, de acordo com as estritas hipóteses do artigo 1.022, do Código Fux. Vale dizer: o propósito de prequestionar deve estar atrelado à existência dos vícios que possibilitam o manejo dos declaratórios.
+III  O acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia veiculada na inicial, ausentes os vícios apontados.
+IV  Embargos de declaração não se prestam a veicular inconformismo com a decisão tomada, nem permitem que as partes impugnem a justiça do que foi decidido ou suscitem matéria alheia ao objeto do julgamento, pois tais objetivos são alheios às hipóteses de cabimento típicas do recurso.
+V  "Art. 1.026. (..) § 2º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa."
+VI  Embargos de declaração rejeitados.
+Alega a parte recorrente ofensa aos arts. 1.022, inciso, II , e 1.026, § 2º,do Código de Processo Civil ao sustentar que a "decisão monocrática se manteve a sentença de forma per lationem, o que o levou a recorrente a agravar a o colegiado que manteve a decisão monocrática, sem se manifestar quer da condição e analfabeta da autora e a ausência de assinante a rogo na cópia, muito menos que quanto ao comprovante de transferência, sendo nulo o negócio jurídico por ausência das formalidades legais assinante a rogo, é insuscetível de confirmação do contrato." (fl. 460)
+Sustenta, ainda, que "o v. acórdão do recurso de apelação tenha adentrado a diversos pontos, deixou de se atentar os doutos julgadores quanto ao artigo, art. 166,IVe Ve art. 595 do Código Civil e jurisprudência dominante dessa Corte que não admite contrato de empréstimo firmado com analfabeto sem a assinatura a rogo e duas testemunhas e quanto ao artigo, art. 169do Código Civil, sendo nulo o negócio por ausência de terceiro a rogo é insuscetível de confirmação do contrato por transferência." (fl. 465)
+Apresentadas contrarrazões ao recurso especial (fls. 476-481). Sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 4986-990).
+É, no essencial, o relatório.
+Merece prosperar o recurso.
+Da detida análise dos autos, verifica-se que merece guarida a alegação de afronta ao art. 1.022 do CPC no caso dos autos.
+Verifica-se que ausente manifestação do Tribunal a quo acerca da nulidade do negó cio jurídico.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC e em face das questões suscitadas, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA. 1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados. 2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço em parte do recurso especial para dar-lhe provimento , a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
