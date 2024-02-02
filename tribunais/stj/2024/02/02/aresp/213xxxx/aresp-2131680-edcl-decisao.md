@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela ORDEM DOS ADVOGADOS DO BRASIL - SECÇÃO DE SÃO PAULO (OAB-SP) contra decisão monocrática do Ministro Paulo de Tarso Sanseverino, que não conheceu do agravo em recurso especial interposto por ABINAEL CARVALHO DOS SANTOS e SELMA CRISTINA POLIZELLI DOS SANTOS (fls. 1.089-1.094).
+Nas razões dos aclaratórios, a parte embargante suscita a necessidade de chamamento do feito à ordem em razão de error in procedendo existente nos autos, visto que os embargos de declaração por ela opostos na origem contra a decisão que não a admitiu como amicus curiae não foram julgados , cabendo o retorno dos autos à origem para julgamento do recurso pendente.
+Pugna, por fim, pelo provimento dos aclaratórios.
+A parte embargada apresentou contraminuta (fls. 1.107-1.110).
+É, no essencial, o relatório.
+Compulsando os autos, observa-se que após Abinael Carvalho dos Santos e Selma Cristina Polizelli dos Santos terem interpostos recursos especial (fls. 458-536) e extraordinário (fls. 617-715) e de já terem sido as decisões de inadmissibilidade dos referidos recursos proferidas e publicadas pela Presidência da Seção de Direito Privado (fls. 796-804 e 805, respectivamente), a OAB-SP peticionou nos autos requerendo sua admissão como amicus curiae (fls. 902-917), no que adveio decisão da Presidência indeferindo o pleito (fl. 918):
+2. O pedido de fls. 921/935  fls. 902-917 do STJ  não preenche os requisitos previstos no art. 138 do CPC - relevância da matéria, especificidade do tema objeto da demanda ou repercussão social da controvérsia - a justificar o pleito de admissão da OAB como amicus curiae no presente feito.
+Indefiro, pois, o requerido.
+A decisão de indeferimento fora objeto de dois embargos de declaração, um oposto pela própria OAB-SP (fls. 1.033-1.037) e outro por Abinael Carvalho dos Santos e Selma Cristina Polizelli dos Santos (fls. 1.038-1.041).
+Ocorre que, da detida análise dos autos, se constata que apenas os declaratórios opostos por Abinael Carvalho dos Santos e Selma Cristina Polizelli dos Santos foram julgados, nos termos da decisão de fls. 1.070-1.071, ficando pendente a análise dos aclaratórios da OAB-SP.
+Assim, razão assiste à embargante quando aduz a necessidade de chamamento do feito à ordem para que os autos retornem à origem para julgamento do recurso pendente.
+Não há, contudo, razões para declaração de nulidade total dos atos, visto que, consoante acima destacado, a decisão de inadmissibilidade do recurso especial já havia sido proferida, e o respectivo agravo em recurso especial interposto quando do pedido de admissão bem como do seu indeferimento, não havendo espaço, portanto, para restaurar os atos já praticados, mormente porque, com a interposição do agravo, nenhuma outra medida senão a remessa dos autos ao STJ era cabível, a teor do disposto no art. 1.042 do CPC.
+Nesse sentido, cito:
+2. A interposição do agravo em recurso especial - por não se submeter a juízo de admissibilidade, mas tão somente a juízo de retratação, nos termos do art. 1.042, § 4º, do CPC/2015 - impõe a subida dos autos a esta Corte Superior, seja pela ausência de retratação da decisão de inadmissão do apelo especial (ascendendo-se o mencionado agravo), seja pela efetiva retratação (ascendendo-se o recurso especial antes inadmitido). Ressalve-se, contudo, o entendimento da Corte Especial deste Superior Tribunal que, guardadas as devidas proporções, possibilita, excepcionalmente, ao tribunal recorrido obstar o seguimento do agravo em recurso especial, quando configurado evidente erro grosseiro e, desse modo, o seu manifesto descabimento, sem que isso caracterize usurpação de competência.
+(Rcl n. 41.229/DF, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 17/5/2022.)
+Assim, acolho os embargos de declaração opostos pela ORDEM DOS ADVOGADOS DO BRASIL - SECÇÃO DE SÃO PAULO (OAB-SP) para determinar o retorno dos autos à origem para julgamento dos embargos de declaração por ela opostos às fls. 1.033-1.037 (e-STJ) como entender de direito.
+Após, retornem os autos ao STJ para julgamento do agravo interno de fls. 1.116-1.141.
+Publique-se. Intimem-se.
+EMENTA
