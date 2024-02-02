@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo de Direito da 1ª Vara Cível, de Família e de Órfãos e Sucessões de Brazlândia/DF (suscitante) e o Juízo Federal da 4ª Vara Cível de Brasília - SJ/DF (suscitado), nos autos de ação ajuizada por Eliane Nunes Leandro em face de Matheus Fonseca Madureira, Maria Julia Fonseca Sobrinho e da Caixa Econômica Federal.
+A demanda foi proposta no Juízo Federal, que declinou da competência ao declarar a ilegitimidade passiva ad causam da CEF (e-STJ, fl. 37):
+A finalidade dos autos em epígrafe se limita a investigar se há, ou não, simulação do negócio jurídico, e ou, fraude, entre a parte Autora e as partes Requeridas, e ou a empresa.
+Neste sentido, a CEF não deve figurar no polo passivo desta demanda, uma vez que a existência da Cédula de Crédito Bancário da instituição financeira, por si só, não influi na relação jurídica, assim como, não parece ter contribuído para a simulação do negócio jurídico, tal premissa é corroborada, por meio narrativa fática formulada pela parte Autora.
+Ante o exposto, verifico a ilegitimidade passiva ad causam da CEF excluindo-a da lide, por conseguinte, considerando o teor dos pedidos apresentados na exordial, com fundamento no art. 109, I, da Constituição Federal de 1988, DECLARO a incompetência absoluta deste juízo para conhecimento e julgamento da causa.
+Ao receber os autos, o Juízo Estadual suscitou o presente conflito, aduzindo o seguinte (e-STJ, fl. 39):
+No mais, na esteira da decisão ID 176246653, resta evidente que, na medida em que a autora pleiteia a declaração de anulabilidade/nulidade de contratos firmados com a Caixa Econômica Federal, essa instituição deve compor o polo passivo, por se tratar de hipótese de litisconsórcio necessário (art. 114, CPC).
+Com efeito, não se mostra possível eventual declaração de nulidade de negócio jurídico no qual uma das contratantes diretamente envolvidas na obrigação não faça parte da relação jurídico-processual correspondente. E mesmo que assim não fosse, não haveria que se falar, diante da teoria da asserção, em reconhecimento liminar de ilegitimidade passiva da instituição financeira.
+Assim, diante da decisão ID 173707427, proferida pelo Juízo Federal e que determinou, de forma equivocada, com a devida vênia, a exclusão da Caixa Econômica Federal do polo passivo por ilegitimidade passiva, determino a seja essa novamente incluída como requerida nos presentes autos.
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo Estadual, em parecer assim resumido (e-STJ, fl. 48):
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOFEDERAL X JUÍZO ESTADUAL. AÇÃO ORDINÁRIA DENULIDADE DE NEGÓCIO JURÍDICO. EXCLUSÃO, PELOJUÍZO FEDERAL, DA CAIXA ECONÔMICA FEDERAL DOPÓLO PASSIVO DA AÇÃO. AUSÊNCIA DE INTERPOSIÇÃODE RECURSO CONTRA TAL DECISÃO. APLICAÇÃO DASSÚMULAS 150, 224 e 254/STJ. FIXAÇÃO DACOMPETÊNCIA DA JUSTIÇA ESTADUAL.
+- Parecer pelo conhecimento do conflito, declarando-se a competência do JUÍZO DE DIREITO DA 1A VARACÍVEL, DE FAMÍLIA E DE ORFÃOS E SUCESSÕES DEBRAZLÂNDIA - DF, o suscitante, para processar e julgar o feito.
+Brevemente relatado, decido.
+O caso sob exame é de singela resolução, conforme bem destacou o Ministério Público Federal em sua manifestação.
+Estabelecida a divergência entre os Juízos federal e estadual acerca da existência de interesse jurídico da Caixa Econômica Federal na demanda, há de prevalecer o entendimento manifestado pelo órgão jurisdicional federal. Essa é a orientação sedimentada no enunciado n. 150 da Súmula desta Corte: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+E como corolário desse entendimento, deu-se, nesta Corte, a edição da Súmula n. 254, que preceitua: "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+No caso, o Juízo Federal consignou que a CEF não deveria figurar no polo passivo desta demanda, pois a existência da Cédula de Crédito Bancário da instituição financeira não influiria na relação jurídica, não se identificando indícios de que Caixa tenha contribuído para a simulação do negócio jurídico.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 4ª Vara Cível de Brasília - SJ/DF (suscitado) .
+Dê-se ciência desta decisão ao Juízo suscitado.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. ATRIBUÍÇÃO DO JUÍZO FEDERAL PARA DECIDIR SOBRE A EXISTÊNCIA DE INTERESSE JURÍDICO DE ENTE FEDERAL. SÚMULA 150/STJ. INTERESSE, NO CASO, NÃO CONFIGURADO. QUESTÃO QUE NÃO PODE SER REEXAMINADA PELO JUÍZO ESTADUAL (SÚMULA 254/STJ). COMPETÊNCIA DO JUÍZO SUSCITADO.
