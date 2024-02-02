@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por Parque Taquari Empreendimentos Imobiliários S.A. contra a decisão de fls. 2092-2096 (e-STJ), que conheceu do agravo para negar provimento ao recurso especial, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. DECISÃO QUE EXCLUIU ALGUNS LITISCONSORTES DO FEITO E DECLINOU DA COMPETÊNCIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO.
+SÚMULA 83/STJ. 3. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante sustenta, em síntese, que está "evidenciada a negativa de prestação jurisdicional, consubstanciada em omissão relativa ao ponto central e de relevância para sua defesa, pelo que indica o necessário provimento do apelo por violação ao art. 535 do CPC/1973" (e-STJ, fl. 2103).
+No mais, reitera, também, a apontada violação ao art. 513 do CPC/1973, visto que "as Turmas de Direito Público do E. STJ, sob a égide do antigo códex processual e em casos de evidenciada similitude fática, entendiam pelo descabimento do agravo de instrumento, afastando, inclusive, a possibilidade de aplicação do princípio da fungibilidade pelo erro grosseiro oriundo da interposição do recurso de agravo" (e-STJ, fl. 2107).
+Brevemente relatado, decido.
+Tem razão o agravante quanto à apontada violação ao art. 535 do Código de Processo Civil de 1973.
+Colhe-se dos autos que, após o julgamento do agravo de instrumento interposto pelas ora agravadas, o Parque Taquari Empreendimentos Imobiliários S.A. opôs embargos de declaração ao argumento de que o acórdão embargado teria partido de premissa equivocada, tendo em vista que já havia manifestação da União (1 ano e 3 meses antes do referido julgamento) no sentido de que a área objeto da ação não envolvia imóveis de sua propriedade, ocasião em que pleiteou expressamente a sua exclusão do polo passivo.
+Aliás, a própria União Federal opôs embargos de declaração ao referido decisum reafirmando o seu desinteresse no processo (e-STJ, fls. 1734-1736).
+O Tribunal de origem, contudo, recusou-se em analisar essa questão, sob o fundamento de que "essa suposta manifestação da União Federal teria se operado nos autos de origem, não tendo sido oportunamente carreada para o presente feito, razão por que não haveria mesmo como a Turma julgadora sobre ela se pronunciar, por ocasião do julgamento do agravo" (e-STJ, fl. 1743).
+Ocorre que, se já existia pronunciamento da União Federal no sentido de não ter interesse em participar da lide, caberia ao Tribunal de origem a análise dessa questão, sobretudo porque se trata de matéria de ordem pública, visto que diz respeito à própria competência da Justiça Federal para análise da ação subjacente.
+Logo, revela-se evidente a negativa de prestação jurisdicional, impondo-se o retorno dos autos à origem para que a Corte local supra a aludida omissão.
+Por essas razões, em juízo de reconsideração, conheço do agravo para dar provimento ao recurso especial, a fim de que o Tribunal de origem aprecie a alegação formulada nos embargos de declaração do ora agravante concernente à ausência de interesse da União em participar da lide, nos termos da fundamentação supra.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. MATÉRIA DE ORDEM PÚBLICA. VIOLAÇÃO DO ART. 535 DO CPC/1973 CONSTATADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, EM JUÍZO DE RECONSIDERAÇÃO.
