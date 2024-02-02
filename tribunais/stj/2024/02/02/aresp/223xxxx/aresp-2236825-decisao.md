@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo de OSNILDO CATARINA DOS SANTOS e ROGERIO MAAS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - TJSC que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal - CF, contra acórdão proferido no julgamento de embargos de declaração na apelação criminal n. 0904814-36.2018.8.24.0008/SC.
+Consta dos autos que a denúncia contra Rogério pela prática do delito do art. 2º, II, da Lei n. 8.137/90 (apropriação indébita tributária) foi rejeitada, com extensão dos efeitos à proposta de transação penal para Osnildo (fls. 125/139).
+Recurso de apelação interposto pela acusação foi conhecido como recurso em sentido estrito e provido para afastar a rejeição da denúncia, com determinação de regular processamento do feito e designação de audiência para proposta de transação penal para Osnildo. (fl. 270). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA A ORDEM (ARTIGO 2º, INCISO II, DA LEI N. 8.137/1990). NÃO RECOLHIMENTO DO ICMS. DECISÃO QUE REJEITOU A DENÚNCIA EM RELAÇÃO A UM DOS RÉUS E ESTENDEU OS EFEITOS PARA A PROPOSTA DE TRANSAÇÃO PENAL QUANTO AO OUTRO. RECLAMO DA ACUSAÇÃO. ADMISSIBILIDADE. INTERPOSIÇÃO DE APELAÇÃO CONTRA A REJEIÇÃO DA DENÚNCIA. INSURGÊNCIA QUE ENSEJA RECURSO EM SENTIDO ESTRITO NOS TERMOS DO ARTIGO 581, INCISO I, DO CÓDIGO DE PROCESSO PENAL. PARTICULARIDADES DA DECISÃO QUE JUSTIFICAM A DÚVIDA NA ESCOLHA DA MODALIDADE RECURSAL. INEXISTÊNCIA DE MÁ-FÉ OU ERRO GROSSEIRO. CONHECIMENTOCOMO RESE. EXEGESE DO ARTIGO 579 DO CPP E DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+TRIBUTO ESCRITURADO EM LIVRO PRÓPRIO E DEVIDAMENTE DECLARADO. NECESSIDADEDE RECOLHIMENTO AO FISCO NO PRAZO LEGAL. INADIMPLEMENTO TRIBUTÁRIO. MERA INFRAÇÃO ADMINISTRATIVA. NÃO OCORRÊNCIA. PRECEDENTE DO SUPREMO TRIBUNALFEDERAL COM REPERCUSSÃO GERAL RECONHECIDA. RECEBIMENTO DA DENÚNCIA QUE SE IMPÕE.
+RECURSO CONHECIDO E PROVIDO." (fl. 268).
+Embargos de declaração opostos pela defesa foram rejeitados, conforme acórdão de fls. 291/292.
+Em sede de recurso especial (fls. 303/315), a defesa apontou violação aos arts. 579 e 581, I, ambos do Código de Processo Penal - CPP, porque o TJSC aplicou o princípio da fungibilidade, rechaçando o erro grosseiro, para conhecer da apelação como recurso em sentido estrito. Entende que houve erro grosseiro, pois o art. 581, I, do CPP "é enfático ao prever o cabimento do recurso em sentido estrito contra decisão que não receber a denúncia" (fl. 308). Destacou o prejuízo para a defesa, eis que o recurso da acusação foi provido, situação que impede a fungibilidade recursal. Nesse sentido, invocou, então, dissídio jurisprudencial, tendo como paradigma o julgamento do REsp n. 1.739.966/RS.
+Requer seja restabelecida a decisão de rejeição da denúncia.
+Contrarrazões (fls. 344/349).
+O recurso especial foi inadmitido no TJSC em razão dos óbices das Súmulas n. 7 e n. 83, ambas do Superior Tribunal de Justiça - STJ (fls. 359/361).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 387/394).
+Contraminuta (fls. 403/407).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso (fls. 469/470).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Sobre a violação legal, bem como dissídio jurisprudencial, o TJSC aplicou o princípio da fungibilidade para receber apelo como recurso em sentido estrito, nos seguintes termos:
+"Trata-se de apelação criminal interposta pelo representante do Ministério Público do Estado de Santa Catarina contra a decisão que rejeitou a denúncia ofertada em face de R M, sob o fundamento de atipicidade da conduta, diante da mera ausência de pagamento de ICMS - artigo 2º, inciso II, e artigo 12, inciso I, da Lei n. 8.137/1990, bem como estendeu os efeitos para a proposta de transação penal com a aplicação imediata de pena em face de O C dos S.
+Inicialmente, cumpre consignar a existência de erro material no relatório de evento 13, onde constou que, em contrarrazões, a defesa teria pedido o conhecimento e desprovimento do recurso.
+Na verdade, o pedido das contrarrazões foi de "não conhecimento do recurso de apelação, porque sua interposição constitui erro grosseiro e a aplicação do princípio da fungibilidade recursal provocaria prejuízo ao Réu".
+Assim, utilizo-me da oportunidade para corrigir o erro constante do relatório.
+De qualquer sorte, nos termos do artigo 579 do Código de Processo Penal, salvo a hipótese de má-fé, a parte não será prejudicada pela interposição de um recurso por outro, devendo o juiz, se reconhecer a impropriedade do recurso interposto, mandar processá-lo de acordo com o rito do recurso cabível.
+Em caso semelhante, esta Corte já se manifestou:
+ ..
+Desse modo, recebo o presente apelo como recurso em sentido estrito." (fl. 269).
+Tem-se no trecho acima que o apelo da acusação foi interposto contra a rejeição da denúncia cumulada com extensão de efeitos para proposta de transação penal de corréu, situação que não evidenciou má-fé na eleição do recurso, razão pela qual recebida apelação como recurso em sentido estrito.
+Tal proceder encontra respaldo nesta Corte, consoante recente precedente, pois o erro grosseiro, por si só, não sinalizou má-fé no caso concreto, razão pela qual não obstou a aplicação do princípio da fungibilidade. Precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 579 DO CÓDIGO DE PROCESSO PENAL - CPP. PRINCÍPIO DA FUNGIBILIDADE. APELAÇÃO. RECURSO EM SENTIDO ESTRITO. ERRO GROSSEIRO EXISTENTE QUE NÃO IMPEDE A FUNGIBILIDADE NO CASO CONCRETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O princípio da fungibilidade está previsto nos termos do art. 579, caput e parágrafo único, do CPP, "salvo a hipótese de má-fé, a parte não será prejudicada pela interposição de um recurso por outro. Se o juiz, desde logo, reconhecer a impropriedade do recurso interposto pela parte, mandará processá-lo de acordo com o rito do recurso cabível".
+2. "Em atenção à análise histórica e da conjuntura atual do ordenamento vigente, o princípio da fungibilidade no processo penal deve ser aplicado quando ausente a má-fé e presente o preenchimento dos pressupostos do recurso cabível" (EDcl no AgRg nos EAREsp n. 1.240.307/MT, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 8/2/2023, DJe de 13/2/2023).
+2.1. A existência de erro grosseiro, por si só, não é fator impeditivo para a aplicação do princípio da fungibilidade. O erro grosseiro obsta a aplicação do referido princípio caso sinalize má-fé ou inviabilize o preenchimento dos pressupostos de admissibilidade do recurso cabível, o que não ocorreu na hipótese.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.108.099/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/8/2023, DJe de 25/8/2023.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. APELAÇÃO. RECURSO EM SENTIDO ESTRITO. PRINCÍPIO DA FUNGIBILIDADE. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Somente é possível negar conhecimento ao recurso interposto na esfera penal ordinária, com fundamento em erro na indicação da espécie recursal, quando estiver configurada a má-fé do recorrente, o que não se observa na espécie.
+2. A Terceira Seção desta Corte Superior pacificou a compreensão de que é possível a aplicação do princípio da fungibilidade entre o recurso de apelação e o recurso em sentido estrito, desde que demonstradas a ausência de má-fé e a tempestividade do instrumento processual.
+3. In casu, o Ministério Público estadual observou o prazo recursal do recurso em sentido estrito (5 dias), bem como as razões e os pedidos recursais são inequívocos no sentido de não ser cabível a declaração de extinção da punibilidade, pois a denúncia foi oferecida antes da alteração legislativa em que se apoiou o Juízo de primeiro grau para reconhecer a referida extinção.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.952.434/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+Especificamente no tocante ao prejuízo do recorrente pelo provimento do recurso ministerial, registra-se que o resultado do julgamento não obsta a aplicação do princípio da fungibilidade, pois o que obsta sua aplicação é o prejuízo no que tange ao processamento do recurso:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. IMPRONÚNCIA. RECURSO EM SENTIDO ESTRITO INTERPOSTO QUANDO CABÍVEL APELAÇÃO. TEMPESTIVIDADE. AUSÊNCIA DE MÁ-FÉ OU DE ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - A jurisprudência deste Superior Tribunal "admite a fungibilidade recursal, a teor do art. 579 do CPP, quando, além de observado o prazo do recurso que se pretende reconhecer, não fica configurada a má-fé ou a prática de erro grosseiro" (AgRg no REsp n. 1.704.526/AM, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 30/5/2018).
+II - O caso em comento se revela pela possibilidade de conversão do recurso em sentido estrito em apelação se, do erro, não se constatou a intempestividade recursal, nem prejuízo à parte recorrida no que tange ao processamento do recurso.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.937.416/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2023, DJe de 27/3/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO. INTERPOSIÇÃO DE APELAÇÃO EM LUGAR DE R ECURSO EM SENTIDO ESTRITO. PRINCÍPIO DA FUNGIBILIDADE. APLICABILIDADE. TEMPESTIVIDADE E NÃO OCORRÊNCIA DE ERRO GROSSEIRO. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Esta Corte "possui entendimento jurisprudencial no sentido de admitir a incidência do princípio da fungibilidade recursal nas hipóteses estabelecidas no art. 581, do CPP, caso não reste configurada a existência de erro grosseiro, prejuízo para a parte, má-fé ou a inobservância do prazo estabelecido em lei para o recurso a ser substituído" (AgInt no REsp n. 1.725.086/ES, Rel. Ministro Jorge Mussi, 5ª T., DJe 25/5/2018).
+2. Na espécie, houve interposição de apelação da decisão que julgou extinta a punibilidade dos réus pela prescrição. O Tribunal a quo aplicou o princípio da fungibilidade e recebeu o recurso do assistente de acusação como recurso em sentido estrito, por não estar evidenciada sua má-fé na hipótese dos autos, porquanto o recurso foi interposto no prazo legal.
+3. O equívoco cometido pelo assistente de acusação não afetou o curso processual nem o direito de defesa da parte contrária, haja vista que esta exerceu plenamente o seu direito ao contraditório, por meio da apresentação de suas contrarrazões.
+4. Agravo regimental não provido.
+(AgRg no HC n. 429.524/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/9/2018, DJe de 9/10/2018.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PENAL E PROCESSO PENAL. ART. 581 DO CPP. INCOMPETÊNCIA DO JUÍZO. APELAÇÃO CRIMINAL. RECURSO EM SENTIDO ESTRITO. PRINCÍPIO DA FUNGIBILIDADE. APLICABILIDADE. ACÓRDÃO A QUO COM FUNDAMENTAÇÃO ADEQUADA. ADOÇÃO DO PARECER MINISTERIAL COMO RAZÃO DE DECIDIR. LEGALIDADE.
+1. O princípio da fungibilidade recursal representa a flexibilização do Direito que, ao impedir que a forma se confunda com o formalismo excessivo e que este se sobressaia perante a finalidade do processo, almeja adequar a norma à sociedade na qual será aplicada.
+2. Sendo interposta apelação contra a decisão que concluiu pela incompetência do juízo, cabível a sua conversão em recurso em sentido estrito se, do erro, não se constatou a intempestividade do apelo, nem prejuízo à parte recorrida no que tange ao processamento do recurso (art. 581 do CPP).
+3. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+4. Agravo regimental improvido.
+(AgInt no REsp n. 1.532.852/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/6/2016, DJe de 22/6/2016.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
