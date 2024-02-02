@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DA COMARCA DE NOVO GAMA-GO, ora suscitante, e o JUÍZO DE DIREITO DO 2º JUIZADO ESPECIAL CÍVEL E CRIMINAL DE SANTA MARIA-DF, suscitado.
+O Juízo do 2º Juizado Especial Cível e Criminal de Santa Maria/DF, nos autos n. 0711698-91.2022.8.07.0010, declinou da competência para o Juízo da 1ª Vara Criminal da comarca de Novo Gama/GO, ao argumento de que o suposto delito de receptação foi praticado no Novo Gama/GO (fl. 28).
+O Juízo da 1ª Vara Criminal da comarca de Novo Gama/GO, por sua vez, suscitou conflito negativo de competência. Alegou, em síntese que: a) a competência é, em regra, determinada pelo lugar em que se consuma a infração, nos termos do art. 70 do Código de Processo Penal; b) o crime de receptação foi consumado em Santa Maria/DF, onde foi encontrado e apreendido o aparelho celular; c) não há informação adequada e precisa acerca do local em que o crime foi praticado e, ainda que houvesse, o "balão do Novo Gama" indicado situa-se na DF-290 e, portanto, integra à Circunscrição Judiciária de Santa Maria/DF (fls. 3-4).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito para declarar a competência do Juízo do 2º Juizado Especial Cível e Criminal de Santa Maria/DF, ora suscitado (fls. 70-73).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre Juízos vinculados a Tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição da República.
+Consoante entendimento consolidado desta Corte, o crime de receptação nas modalidades "ocultar" e "manter em depósito" é um crime permanente, cuja consumação se protrai no tempo. Logo, a competência será definida pela regra que estabelece o local da consumação delitiva, nos termos do art. 70 do Código de Processo Penal.
+Nesse sentido:
+"(..) A receptação, na modalidade de ocultar bens, é crime permanente, assim, enquanto o agente estiver guardando ou escondendo o objeto que sabe ser produto de crime, consuma-se a infração penal, perdurando o flagrante delito. Dessa forma, no caso, houve execução do crime de receptação até o dia 23/05/2013" (AgRg no HC 516.263/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/9/2019)
+"(..) I - Noticiados os delitos de receptação e furto - mas indeterminada a autoria deste último, não tendo sido sequer instaurado inquérito para a sua apuração, evidencia-se a inexistência de conexão, devendo haver a apuração isolada da receptação.
+II - Firma-se a competência, para o processo e julgamento do feito, do juízo em que consumada a receptação, ou seja, onde perpetrados os atos de aquisição, recebimento ou ocultação do bem - ocorridos com a efetiva tradição" (CC 17.834/SP, Terceira Seção, Rel. Min. Gilson Dipp, DJ de 17/2/1999, p. 112)
+Na espécie, observo que o bem receptado estava sendo ocultado em uma residência em Santa Maria/DF, onde foi efetivada a sua apreensão. Da mesma forma, o local indicado informalmente da prática delitiva (Balão do Novo Gama) está localizado na DF-290 e também pertence à Circunscrição Judiciária de Santa Maria/DF (fl. 54).
+Ante o exposto, conheço do conflito para declarar competente o Juízo do 2º Juizado Especial Cível e Criminal de Santa Maria/DF , ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. INQUÉRITO POLICIAL. RECEPTAÇÃO. MODALIDADE OCULTAR. CRIME PERMANENTE. COMPETÊNCIA DO JUÍZO DO LOCAL DA CONSUMAÇÃO. ART. 70, CPP. PRECEDENTES.
