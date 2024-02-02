@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIO LUIS LACERDA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas. A prisão preventiva foi decretada visando garantir a ordem pública em razão da gravidade da conduta imputada ao paciente, pela quantidade de droga apreendida - "117,2 g de maconha e 1008,1 g de crack - e pelo fundado receio de reiteração delitiva pois é reincidente.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos denegando a ordem em acórdão de fls. 14-25.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar ponderando as condições pessoais favoráveis do paciente.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 129-130.
+As informações prestadas às fls. 138-139 e 140-155.
+O  Ministério  Público  Federal,  às  fls.  159-162,  manifestou-se  em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. PERICULOSIDADE. FUNDADO RECEIO DE REITERAÇÃO DELITIVA.
+1. Não há ilegalidade flagrante na manutenção da segregação cautelar, que se encontra devidamente justificada, com requisitos presentes, diante das circunstâncias do caso concreto, evidenciadoras da gravidade da conduta e da periculosidade do agente, surpreendido com relevante quantidade de droga, de mais de um tipo (1008,1 g de crack e117,2 g de maconha), sendo um deles de natureza extremamente lesivo, além de balanças deprecisão.
+2. Ressalta-se, ainda, o fato de o paciente ser reincidente. Tais circunstâncias, somadas,indicam que a segregação cautelar é medida necessária, sendo fundado o risco de reiteraçãodelitiva, o que justifica a manutenção da prisão preventiva para garantir a ordem pública.
+3. Quanto à alegação de insuficiência de provas, trata-se de matéria sujeita à ampla incursãonos fatos, o que é incabível na via estreita do habeas corpus.
+4. Parecer pelo não conhecimento do writ. Se conhecido, que a ordem seja denegada".
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, seja em razão da quantidade de droga apreendida: "21 "tijolo" de maconha (117,2 g) e 11 "tijolos" de crack (1008,1 g), além de balanças de precisão" - fl. 86, seja em razão do risco de reiteração delitiva, tendo sido destacado que o paciente: "é reincidente, possuindo condenação definitiva anterior"- (fl. 86), circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+No ponto, impende destacar que:
+"Sobre o tema, esta Corte Superior possui entendimento no sentido de que "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 725.170/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022" (AgRg no HC n. 806.211/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023, grifei).
+Ademais:
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023, grifei.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 .
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
