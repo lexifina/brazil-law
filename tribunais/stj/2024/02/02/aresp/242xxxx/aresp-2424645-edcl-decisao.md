@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WALACE ABREU DE ASSIS (WALACE), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. VÍCIO DE PRESTAÇÃO JURISDICIONAL NO ACÓRDÃO RECORRIDO. NÃO CONFIGURAÇÃO. JUSTIÇA GRATUITA. INDEFERIMENTO. REVISÃO. IMPOSSIBILIDADE. INCURSÃO NOS ELEMENTOS FÁTICOS E PROBATÓRIOS DA LIDE. VEDAÇÃO. SÚMULA N.º 7 DESTA CORTE. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO. (e-STJ, fls. 550)
+Nas razões do presente inconformismo, defendeu que deve ser deferido o pedido da justiça gratuita, por meio da revaloração de provas.
+Foi apresentada contraminuta (e-STJ, fls.571/574).
+É o relatório.
+Decido.
+Os embargos de declaração não merecem ser acolhidos.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada.
+O referido meio de impugnação visa aperfeiçoar as decisões judicias, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, o decisum prolatado.
+Na hipótese dos autos, WALLACE alega que deve ser realizada a revaloração de fatos e provas, a fim de que se aplique corretamente a benesse da justiça gratuita em seu favor.
+Todavia, examinando os fundamentos adotados pelo acórdão embargado, verifica-se inexistir vício passível de ser sanado por meio do julgamento dos embargos de declaração em análise, visto que foi devidamente fundamentado a aplicação da Súmula n. 7/STJ, respeitando o exame fático-probatório do Tribunal estadual. Confira-se:
+Em análise aos autos, observa-se que os documentos colacionados pelo autor não são capazes de demonstrar o seu verdadeiro e atual estado financeiro, haja vista ter apresentado CTPS incompleta, com último registro findo no ano de 2017, além de extratos bancários de contas selecionadas por ele.
+Ademais, extrai-se da decisão proferida pelo Juízo a quo que o agravante detém outras 05 contas bancárias em sua titularidade, vinculadas ao Banco do Brasil, Caixa Econômica Federal, CCPEMM Alto São Francisco, C. C. Livre Admissão da Zona da Mata e Banco Santander, das quais não foram apresentados extratos. Também foi informado que o autor é proprietário de 04 veículos automotores, quais sejam, VW Nova Saveiro RB MBVD, SR/Randon SR CA, Honda Civic LXA e VW Saveiro 1.6 CS, pelo que não é crível que o mesmo seja pobre no sentido legal.
+Destarte, apesar da existência de eventuais despesas ou dívidas, não é possível presumir que estas impossibilitem o agravante de arcar com as custas processuais, tendo em vista que este não demonstrou de forma satisfatória os seus rendimentos atuais.
+Não obstante, o agravante se qualifica como produtor rural e a ação originária destes embargos à execução possui como objeto um saldo devedor no valor de R$1.087.399,49, oriundo da venda de insumos agrícolas, a indicar que o requerente exerce considerável atividade lucrativa.
+Ressalta-se, que a declaração de pobreza, por si só, não é suficiente para o deferimento da benesse, tendo em vista que esta somente se reveste de presunção relativa de veracidade.
+Por fim, apesar de anexar aos autos documentos que demonstram que esteve internado em decorrência de procedimento cirúrgico cardíaco e que em decorrência disso não poderá trabalhar por três meses, o requerente se absteve de juntar mais comprovantes que relatassem seu real estado financeiro, como os extratos das demais contas bancárias em seu nome ou a situação de declaração de imposto de renda referente aos últimos três anos. Além disso, a parte contrária colacionou aos autos certidão do Cartório de Registro de Imóveis referente a uma área de 35.16.75ha da qual o autor é proprietário(doc. 40), o que não coaduna com a realidade de quem pleiteia a assistência judiciária gratuita.
+Destarte, considerando que a gratuidade de justiça é destinada aqueles que, comprovadamente, não dispõem de recursos suficientes para arcar com as despesas processuais, impõe-se o indeferimento da assistência judiciária gratuita ao agravante(e-STJ Fls. 382/383).
+ ..
+Todavia, rever as conclusões do acórdão recorrido quanto à não verificação da hipossuficiência da parte, nestes autos, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, mormente considerando o excerto acima transcrito extraído do acórdão recorrido. Tal desiderato, contudo, é vedado em razão do óbice da Súmula n.º 7 do STJ. (e-STJ, fls. 553)
+Desse modo, contata-se que a presente irresignação nada mais é do que mero inconformismo do embargante com o deslinde da controvérsia, não servindo os embargos de declaração como instrumento de reforma do julgado combatido.
+Ante o exposto, REJEITO os embargos de declaração
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, §2º, do CPC/2015.
+Publiquem-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE JUSTIÇA GRATUITA. IMPOSSIBILIDADE DE REVISÃO. ACÓRDÃO OMISSO. NÃO COMPROVADO. INEXISTÊNCIA DE QUALQUER VÍCIO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
