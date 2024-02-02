@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por CARLOS HENRIQUE PINTO contra a decisão de fls. 12414/12416, em que neguei provimento ao recurso especial, porquanto preclusa a alegação de inépcia da denúncia, ausência de ofensa ao art. 96, V, da Lei Federal n. 8.666/93, além da aplicação do disposto na Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+O agravante sustenta a não ocorrência da preclusão, pois a inépcia da denúncia foi suscitada antes da prolação da sentença e a atipicidade da conduta, por ausência de prejuízo ao erário. Aduz, ainda, que a fundamentação empregada pelo Tribunal para afastar a atipicidade é inidônea por não haver argumentos próprios, mas tão somente transcrição da sentença condenatória e do parecer da PGJ. Alega, também, a desnecessidade de reexame de provas para se concluir pela ausência de dano, pois os fatos são incontroversos (fls. 12419/12445).
+Após o julgamento do agravo regimental e posterior embargos de declaração, fora aportado nesta Corte ofício do Supremo Tribunal Federal, comunicando o deferimento do habeas corpus impetrado pelo corréu Hélio de Oliveira, determinando a suspensão do presente processo e a eficácia do acórdão que julgou o agravo regimental.
+Assim, diante da determinação do Supremo Tribunal Federal, a Quinta Turma desta Corte acolheu os embargos de declaração de fls. 12708/12727 e 12728/12740 para chamar o feito a ordem, anulando os julgamentos dos agravos regimentais n. 2020/0025777-9 e 2020/0020760-8, bem como dos Embargos de declaração de n. 2020/00398951 e 2020/00400242.
+Requer a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+Decido.
+Diante da procedência do recurso especial interposto pelo corréu HÉLIO DE OLIVEIRA DOS SANTOS, em que foi declarada a incompetência da Justiça Estadual para julgamento do feito, declarando nulos os atos decisórios, incluído o recebimento da denúncia, com a remessa do feito à Justiça Federal, resta prejudicada a análise deste recurso. No sentido:
+PROCESSUAL PENAL E CONSTITUCIONAL. QUESTÃO DE ORDEM. AÇÃO PENAL CONEXA A OUTRA, ENCAMINHADA PELO SUPREMO TRIBUNAL FEDERAL PARA A JUSTIÇA ELEITORAL. APURAÇÃO DO MESMO CONJUNTO DE FATOS, DESMEMBRADOS POR CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. RECONHECIMENTO DA COMPETÊNCIA DA JUSTIÇA ELEITORAL PARA TAMBÉM JULGAR ESTA AÇÃO PENAL. RECURSOS PREJUDICADOS.
+1. A inequívoca conexão instrumental e probatória existente entre ações penais que apuram o mesmo conjunto de fatos, derivadas de desmembramento de inquérito por conveniência da instrução criminal, impõe sejam submetidas ao mesmo juízo para conhecimento e julgamento.
+2. O reconhecimento, pelo Supremo Tribunal Federal, da competência da Justiça Eleitoral para julgar a Ação Penal n. 5051606-23, por força da imputação de crime eleitoral formulada na denúncia, impõe idêntica solução para esta ação penal, com o reconhecimento da incompetência da 13ª Vara Criminal da Seção Judiciária de Curitiba para o seu julgamento.
+3. Questão de ordem acatada, com determinação da remessa do feito ao Juízo Eleitoral do Rio de Janeiro, a quem caberá a análise da validade dos atos decisórios e instrutórios realizados. Recursos prejudicados.
+(AgRg nos EDcl no REsp n. 1.875.853/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro João Otávio de Noronha, Quinta Turma, julgado em 9/11/2021, DJe de 22/11/2021.)
+Ante o exposto, julgo prejudicado o agravo regimental e a pretensão recursal.
+Publique-se. Intimem-se.
+EMENTA
