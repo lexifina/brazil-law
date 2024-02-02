@@ -1,0 +1,20 @@
+DECISÃO
+Na origem, trata-se de embargos à execução fiscal objetivando o reconhecimento da prescrição intercorrente e a nulidade da CDA por não preencher os requisitos da lei 6.830/1980. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 381.601,81.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. ICMS. EMBARGOS À EXECUÇÃO FISCAL JULGADOS IMPROCEDENTES. NULIDADE FORMAL DA CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS ELENCADOS PELOS ARTIGOS 2º, § 5º DA LEI  6.830/1980 E 202 DO CTN PREENCHIDOS. PRESCRIÇÃO INTERCORRENTE. CREDITO EXEQUENDO QUE FOI OBJETO DE SUCESSIVOS PARCELAMENTOS ADMINISTRATIVOS. INTERRUPÇÃO TEMPESTIVA DO PRAZO PRESCRICIONAL (ART. 174, IV, DO CTN) . SENTENÇA MANTIDA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Da leitura dos autos, pode-se inferir que o crédito exequendo refere-se ao ICMS declarado pela própria contribuinte e não recolhido dentro do prazo previsto na legislação tributária, e às respectivas sanções pecuniárias (artigo 55, § 1º, inciso I da Lei nº 11.580/964). Além disso, as CDAs indicam expressamente a data de inscrição, a forma de cálculo e o fundamento legal dos juros de mora (artigo 38 da Lei nº 11.580/96)e da correção monetária (Lei 15.610/07), bem como seus termos iniciais.
+Conclui-se, portanto, que as certidões de dívida ativa apresentadas pelo exequente preenchem todos os requisitos elencados pelo artigo 2º, §5º da Lei nº 6.830/19805e pelo artigo 202 do Código Tributário Nacional6, quais sejam:
+ ..
+Como bem observado pelo MM. Dr. Juiz a quo, a execução fiscal de autos nº 11582-09.2011.8.16.0028 foi ajuizada no dia 13.12.2011, tendo o crédito exequendo sido objeto de sucessivos parcelamentos administrativos nos anos de 2012, 2015, 2016, 2018 e 2019 (movs. 23.2 a 23.7).
+Assim, ante a interrupção tempestiva do prazo prescricional pelos parcelamentos administrativos firmados pela apelante, não há como se reconhecera prescrição intercorrente da pretensão executória.
+Destarte, não verificando a ocorrência da prescrição ou de quaisquer das irregularidades formais apontadas pela apelante, a manutenção da sentença que julgou improcedentes os embargos à execução é medida que se impõe.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 156, III, do CTN), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
