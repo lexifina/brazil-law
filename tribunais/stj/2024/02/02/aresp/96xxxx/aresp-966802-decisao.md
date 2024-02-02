@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de instrumento contra a decisão que, em execução fiscal, deixou de acolher exceção de pré-executividade. No Tribunal a quo o agravo foi improvido. O valor da causa foi fixado em R$ 4.039,87.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL, contra acórdão com o seguinte resumo de ementa:
+Agravo de instrumento - Processual civil. Exceção de pré-executividade -Dilação probatória - Óbice - Prescrição intercorrente - Artigo 40, da Lei6.830, de 1980 - Aplicação - Decurso do prazo prescricional - Ausência de demonstração. Recurso a que se nega provimento.
+1- O instituto da exceção de pré-executividade comporta, tão somente, discussão de matéria de ordem pública ou questões que independam de demonstração mediante prova. Quando a complexidade da matéria lançadas e sobrepuser aos estreitos lindes do instituto, sendo necessária ampla discussão, deverá o executado lançar mão dos embargos do devedor.
+2 - Ausente a demonstração, pelo agravante, do decurso do lapso temporal da prescrição intercorrente, impossível seu reconhecimento, considerando a aplicação do art. 40, da Lei 6.830, de 1980, que trata da paralisação da contagem do prazo prescricional no período de suspensão do curso da execução, enquanto não localizados o devedor ou bens à penhora.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Em primeiro lugar, no caso dos autos não se operou o redirecionamento da execução pura e simples, eis que o agravante já constava da CDA como coobrigado, sendo que o referido documento possui presunção de certeza, liquidez e exigibilidade.
+Ao contrário do que alega o agravante, sua responsabilização não adveio de encerramento irregular da empresa, nem da desconsideração da personalidade jurídica desta, mas sim pela determinação de sua coobrigação na CDA.
+ ..
+Cumpre destacar que, possuindo o ato administrativo presunção de legalidade, a CDA emitida contra a sociedade empresarial pode ser executada diretamente no patrimônio particular dos sócios coobrigados constantes do título executivo, incumbindo a estes o ônus probatório de que o inadimplemento não tenha ocorrido por uma das causas descritas no art. 135 do CTN.
+No caso dos autos, resta convalidada a execução da CDA contra o agravante, como sócio coobrigado, na medida em que não há, pelo menos nos autos deste recurso, prova da ilegalidade do ato administrativo.
+ ..
+No caso dos autos, o agravante não demonstrou que houve o cumprimento do rito do art. 40 da Lei 6.830, de 1980, não tendo havido arquivamento do feito.
+Ademais disso, não há nos autos do agravo elementos para se aferir a contagem do prazo prescricional, levando-se em consideração as suspensões do processo, ocorridas em dezembro de 2002 (f. 51-TJ),abril de 2004 (f. 59-TJ), fevereiro de 2009 (f. 81-TJ), agosto de 2009 (f. 84-TJ) e março de 2011 (f. 87-TJ).
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
