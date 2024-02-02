@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno interposto por William Pereira de Souza e outros contra a decisão de fls. 1340-1343 (e-STJ), assim resumida:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. EMBARGOS DO DEVEDOR. DIFERIMENTO DO RECOLHIMENTO DAS CUSTAS INICIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OBSCURIDADE.
+CONTRADIÇÃO. INEXISTÊNCIA. MERO INCONFORMISMO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. RECURSO ESPECIAL NÃO PROVIDO.
+Os agravantes afirmam, em síntese, que "O acórdão recorrido não concluiu de forma clara e precisa, com fundamentação adequada e suficiente, se assim tivesse feito, teria apurado que os Agravantes - ali recorrentes - não possuíam (como não possuem) capacidade financeira para arcar com as custas e despesas do processo, devendo ser concedido o benefício do diferimento do pagamento das custas iniciais (dos embargos à execução) para o final a lide. Havia inúmeros documentos que assim atestavam, e até mesmo acórdão da mesma 17ª Câmara de Direito Privado do E. Tribunal de Justiça do Estado de São Paulo, concedendo a Clayds, Willian e Clayde ( na mesma época do julgamento deste caso) o benefício do diferimento do pagamento das custas iniciais (dos embargos à execução) para o final a lide. E assim o fez com base nos mesmos documentos apresentados" (e-STJ, fl. 1349).
+Reforçam que "A contradição e obscuridade se fazem presentes no acórdão recorrido quando o mesmo transcreve o artigo 5º da Lei nº11.608/03 - que autorizava o diferimento do pagamento das custas iniciais ao final do processo em caso de comprovada impossibilidade financeira, ainda que parcial, no momento do recolhimento das custas - mas ao final entendeu que não haveria comprovação atual da incapacidade financeira dos recorrentes para o diferimento do pagamento das custas iniciais devidas em razão dos embargos à execução. E indicou no v. acórdão que os documentos juntados refletiam o período de março a maio de 2015" (e-STJ, fl. 1349).
+Buscam, assim, a reconsideração da decisão agravada para que seja provido o recurso especial.
+A impugnação foi apresentada às fls. 1367-1384 (e-STJ).
+Brevemente relatado, decido.
+Melhor analisando as razões recursais, verifico que assiste razão aos recorrentes.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto pelos ora agravantes com base nos seguintes fundamentos:
+Dispõe o artigo 5º, caput, da Lei Estadual nº 11.608/03:
+"O recolhimento da taxa judiciária será diferido para depois da satisfação da execução quando comprovada, por meio idôneo, a momentânea impossibilidade financeira do seu recolhimento, ainda que parcial:
+I - nas ações de alimentos e nas revisionais de alimentos;
+II - nas ações de reparação de dano por ato ilícito extracontratual, quando promovidas pela própria vítima ou seus herdeiros;
+III - na declaratória incidental;
+IV - nos embargos à execução.
+Parágrafo único - O disposto no "caput" deste artigo aplica- se a pessoas físicas e a pessoas jurídicas. (NR)" (grifo)
+No presente caso, os agravante não comprovaram que não possuem condições de arcar com as custas processuais, pois o extrato juntado aos autos se refere ao período de março a maio de 2015, ou seja, não pode ser utilizado como padrão por não refletir a realidade financeira desta data.
+Ademais, como bem apontado pela d. Magistrada a quo, os agravantes efetuaram o pagamento, na ação ordinária conexa, das custas e honorários periciais no importe de R$ 11.000,00, fato que não se coaduna com as alegações trazidas a baila.
+Enfim, não restou demonstrada a impossibilidade momentânea de recolhimento da taxa judiciária, logo, o indeferimento do pedido era mesmo de rigor.
+Como visto, foram dois os fundamentos para se indeferir o pedido de recolhimento da taxa judiciária em momento posterior, quais sejam: (i) os documentos juntados pelas partes se referiam ao período de março a maio de 2015, não refletindo a realidade financeira atual dos recorrentes; e (ii) os agravantes haviam efetuado o pagamento, em ação conexa, das custas e honorários periciais no valor de R$ 11.000,00 (onze mil reais), o que comprovaria a capacidade financeira de arcar com as custas processuais no processo subjacente.
+Os agravantes opuseram embargos de declaração ao referido acórdão, sustentando, em resumo, a existência de contradição no julgado, pois os documentos juntados (de março a maio de 2015) diziam respeito à época em que os embargos à execução foram protocolados, isto é, referiam-se ao momento em que o pedido de diferimento do recolhimento das custas foi feito, exatamente nos moldes em que determina a lei citada expressamente no decisum embargado.
+Ademais, afirmaram que somente houve a quitação dos honorários periciais na ação conexa "porque tal valor é muito distante de mais de R$ 70.000,00 (se atualizado o valor devido em sede de embargos) e o valor da perícia foi depositado em dois momentos diversos (quando fixados e após os trabalhos periciais), o que não ocorre com as custas iniciais, que deveria ser paga de uma única vez. Não é demais destacar que a lei menciona expressamente que a impossibilidade financeira pode ser parcial" (e-STJ, fl. 1044).
+Por fim, aduziram que a mesma Câmara julgadora do Tribunal de Justiça de São Paulo, em outro recurso (Processo n. 2188568-44.2015.8.26.0000), reconheceu a incapacidade financeira dos agravantes e autorizou o diferimento do recolhimento das custas.
+Esses argumentos, embora fossem passíveis de alterar o resultado do julgamento, não foram aclarados pela Corte local, a qual se limitou a repetir os mesmos fundamentos do acórdão embargado, por ocasião do julgamento dos embargos de declaração.
+Tal o quadro delineado, evidencia-se a negativa de prestação jurisdicional, o que impõe o retorno dos autos à origem para suprir os vícios do art. 535 do CPC/1973 (CPC/2015, art. 1022).
+Ante o exposto, em juízo de reconsideração, dou provimento ao recurso especial para determinar que o Tribunal de origem julgue novamente os embargos de declaração, devendo apreciar os argumentos suscitados pelos embargantes, como entender de direito.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL RECONHECIDA. NECESSIDADE DE RETORNO DOS AUTOS. RECURSO ESPECIAL PROVIDO, EM JUÍZO DE RECONSIDERAÇÃO.
