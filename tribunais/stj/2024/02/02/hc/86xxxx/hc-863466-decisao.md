@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de LUAN PEREIRA BALANE, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do HC n. 0034136-02.2023.8.16.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, convertido em preventiva, e denunciado por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS CRIME - TRÁFICO DE DROGAS - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - ALEGAÇÃO DEQUE NÃO HÁ PROVA NOS AUTOS DE QUE O PACIENTE SERIA PROPRIETÁRIO DAS DROGAS APREENDIDAS - NÃO CONHECIMENTO -FORMAÇÃO DA CULPA EM SI QUE DEMANDA EXAME MINUCIOSO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS -PROVA DA MATERIALIDADE E DE INDÍCIOS MÍNIMOS DE AUTORIA - NECESSIDADE DEGARANTIA DA ORDEM PÚBLICA PARA EVITAR POSSÍVEL REITERAÇÃO DELITIVA (ATOSINFRACIONAISPRETÉRITOS)- PERICULOSIDADE CONCRETA DO PACIENTE EVIDENCIADA PELO MODUS OPERANDI - QUANTIDADE E DIVERSIDADE DE DROGAS APREENDIDAS - DECISÃO MONOCRÁTICA MOTIVADAEM ELEMENTOS CONCRETOS E IDÔNEOS - PRETENSÃO SUBSTITUTIVA POR MEDIDAS ALTERNATIVAS - INADEQUAÇÃOAO CASO CONCRETO -AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - INCABÍVEL DISCUSSÃO ACERCA DE SUPOSTA VIOLAÇÃO AO PRINCÍPIO DA HOMOGENEIDADE - CONDIÇÕES FAVORÁVEIS -IRRELEVÂNCIA- ORDEM DENEGADA NA PARTE CONHECIDA" (fl. 78).
+No presente writ, alega o impetrante ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Destaca as condições pessoais favoráveis do paciente, como residência fixa.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Pondera que, em caso de condenação, será fixado regime diverso do fechado, o que demonstra a desproporcionalidade da segregação antecipada.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a fixação de medidas menos gravosas.
+A liminar foi indeferida às fls. 488/490. Informações prestadas às fls. 496/506 e 510/584. O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 586/589.
+É o relatório.
+Decido.
+De acordo com informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, nos autos da Ação Penal n. 0004219-22.2023.8.16.0069, em 29/11/2023, sobreveio sentença condenando o ora paciente às penas de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Indefiro ao réu o direito de apelar em liberdade, na medida em que não houve qualquer modificação fática desde sua prisão preventiva.
+Ademais, é certo que solto, voltará a delinquir.
+Nessa senda, cabe dizer ainda que não se pode confundir o direito de apelar em liberdade quando o condenado responde livre ao desenrolar do procedimento penal, com o direito de aguardar em liberdade o julgamento da apelação interposta em processo a que responde preso cautelarmente. São situações distintas e que demandam, naturalmente, respostas diversas".
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora paciente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do reanálise do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. NOVA FUNDAMENTAÇÃO. EFEITOS DA CONDENAÇÃO. PERDA DO OBJETO.
+1. Na sentença condenatória, foi novamente analisado o cenário fático- processual, entendendo-se necessária a manutenção da custódia do réu, pois, além de ainda estarem presentes as causas que a determinaram, agora tal medida é reforçada com novo fundamento, ou seja, como um efeito da própria condenação penal (a reprimenda fixada).
+2. Ora, a superveniência de sentença penal condenatória, na qual se nega ao acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/08/2019). 3. Agravo regimental improvido (AgRg no RHC 157.779/MA, de minha relatoria, Sexta Turma, DJe 21/02/2022).
+3.  ..  In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do agravante, agregando fundamentos novos ao decreto prisional, tendo ressaltado que: "Sendo conveniente assegurar a aplicação da lei penal em consideração ao crime praticado e tempo de pena arbitrada, preserva-se o estado de custódia do processado". Dessa forma, quanto à ausência de fundamentos da prisão preventiva, o pleito encontra-se prejudicado (AgRg no HC n. 712.721/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 02/03/2022).
+4. Agravo regimental improvido.
+(AgRg no HC n. 717.891/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
