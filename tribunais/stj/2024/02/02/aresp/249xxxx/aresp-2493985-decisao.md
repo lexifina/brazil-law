@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OCIMAR SANTOS DA SILVA (OCIMAR) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 362/370).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, OCIMAR alegou, a par de divergência jurisprudencial, a violação aos arts. 317, 478 e 479 do CC; 47 e 51, IV, do CDC, ao sustentar a abusividade da disposição contratual que estipulou a utilização do IGP-M como fator de correção do saldo devedor na promessa de compra e venda de imóvel firmada entre as partes, notadamente, em razão do aumento expressivo do índice no período da pandemia de Covid-19.
+Da correção do saldo devedor
+No caso, o TJSP negou provimento ao recurso de apelação do ora insurgente, confirmando, integralmente, os termos da sentença que julgou parcialmente procedente o pedido autoral, a fim de autorizar a substituição do índice de correção monetária previsto no contrato, de IGP-M para IPCA, apenas em relação às parcelas do ano de 2021, e não até o ano de 2023, conforme requerido na inicial.
+Segundo o entendimento do órgão julgador local, "a manutenção do índice pactuado favorece a isonomia contratual e não representa desarmonia na relação de consumo configurada, na esteira dos precedentes desta Câmara" (e-STJ, fl. 307).
+Desse modo, para ultrapassar a convicção firmada no aresto recorrido, a fim de reconhecer a existência de onerosidade excessiva na referida disposição contratual, seria necessária a interpretação de cláusulas do contrato firmado entre as partes, bem como o reexame das circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas nºs 5 e 7 do STJ.
+Nesse sentido, observadas as bases fáticas de cada caso, destaque-se
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISIONAL DE CONTRATO DE COMPRA E VENDA DE IMÓVEL FIRMADO COM CONSTRUTORA. JUROS. 12% AO ANO. APLICABILIDADE. INCIDÊNCIA DA LEI DA USURA. DOBRO DO LIMITE DE 6% PREVISTO NO CCB/16. ENTIDADE QUE NÃO INTEGRA O SISTEMA FINANCEIRO NACIONAL. CORREÇÃO MONETÁRIA. INDEXADORES AUSÊNCIA DE ABUSIVIDADE E VANTAGEM EXCESSIVA VERIFICADA NAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DOS ENUNCIADOS 5 E 7 DA SÚMULA DESTA CORTE. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Construtora Ré não é instituição financeira, não integrando, dessa forma, o Sistema Financeiro Nacional. Desse modo, incidente a Lei da Usura, em especial seu artigo 1º, que estabelece o patamar de 12% ao ano, ou seja, o dobro da taxa legal prevista no Código Civil de 1916, no limite de 6% ao ano.
+2. A utilização do CUB-Sinduscon, índice de idêntica natureza do INCC, somente se afigura incabível após a conclusão da obra do imóvel. Precedentes.
+3. Ausente a ocorrência de abusividade e de vantagem excessiva oriundas da pactuação dos indexadores: CUB-Sinduscon, quando em construção o imóvel, e IGP-M, após sua entrega, conforme consignado pelo Tribunal de origem com base no acervo fático-probatório, a inversão do julgado encontra óbice contido nos Enunciados 5 e 7 da Súmula desta Corte.
+(AgRg no REsp n. 761.275/DF, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgada aos 18/12/2008, DJe de 26/2/2009 - sem destaque no original.)
+AGRAVO REGIMENTAL NO AGRAVO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FINANCIAMENTO. MORA. CULPA EXCLUSIVA DA RÉ AFASTADA. AUSÊNCIA DE ABUSIVIDADE DAS CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+I - Apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão dos Recorrentes.
+II - O Tribunal a quo, após análise do conjunto fático-probatório, consignou que não se pode atribuir à ré, ora agravada, a delonga na quitação da quantia a ser obtida mediante financiamento, uma vez que não deu causa à demora na liberação do mesmo. Dessa maneira, observa-se que a controvérsia foi dirimida no Colegiado de origem à luz do conjunto fático-probatório da causa, cujo reexame não se mostra consentâneo com a natureza excepcional da via eleita, ante o óbice da Súmula 7/STJ.
+III - Tendo o acórdão reconhecido a ausência de abusividade das cláusulas que estabelecem a correção das parcelas do preço pelo IGP-M, acrescidas de juros de 1% ao mês, incidentes até o efetivo pagamento de cada parcela mensal, não há como acolher a pretensão dos autores, ante o óbice das Súmulas/STJ 05 e 07.
+IV - O agravo não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+Agravo Regimental improvido.
+(AgRg no AREsp n. 3.470/DF, relator Ministro SIDNEI BENETI, Terceira Turma, julgado aos 17/5/2011, DJe de 24/5/2011 - sem destaque no original.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE REVISÃO CONTRATUAL. UTILIZAÇÃO DO IGP-M NA CORREÇÃO DO SALDO DEVEDOR. ALEGAÇÃO DE ABUSIVIDADE EM DECORRÊNCIA DOS EFEITOS DA PANDEMIA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
