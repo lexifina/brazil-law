@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de ação ordinária objetivando recebimento de indenização por danos morais e materiais, por causa de atraso em realização de cirurgia que segundo a autora ocasionou cegueira. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 524.948,00.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA contra acórdão com o seguinte resumo de ementa:
+RECURSO DE APELAÇÃO CÍVEL. FALHA NA PRESTAÇÃO DO SERVIÇO PÚBLICO DE SAÚDE. RESPONSABILIDADE SUBJETIVA. NÃO COMPROVAÇÃO DE NEXO CAUSAI. 1. É PACIFICO N A JURISPRUDÊNCIA QUE A COMPETÊNCIA CONSTITUCIONAL NA PROMOÇÃO DA SAÚDE É DE RESPONSABILIDADE SOLIDÁRIA ENTRE A UNIÃO: O ESTADO E O MUNICÍPIO. PORTANTO, TODOS OS ENTES FEDERATIVOS TÊM A OBRIGAÇÃO DE PRESTAR INTEGRAL ATENDIMENTO À SAÚDE. 2. EM AÇÕES QUE VISEM INDENIZAÇÃO EM RAZÃO DE ERRO MÉDICO PROCEDIMENTAL, IMPRESCINDÍVEL QUE SE COMPROVE CULPA DO AGENTE POR OMISSÃO, NEGLIGÊNCIA OU IMPRUDÊNCIA. 3. NÃO DEMONSTRADO, COMO INDISPENSÁVEL, FALHA NO ATENDIMENTO MÉDICO, A TODA EVIDÊNCIA NÃO HÁ FALAR EM INDENIZAÇÃO POR DANO MORAL. 4. RECURSO NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Revela esse documento que servidores da Secretaria de Estado da Saúde tentaram, em 25 e26.06.2016, contato com a paciente para agendar o procedimento cirúrgico, o que não se concretizou, entretanto, fl. 219.
+Dessa forma, emerge do processo que a apelante, para além de estar com a saúde comprometida por múltiplas enfermidades que, por si só, podiam desencadear cegueira, deixou de comparecer à consulta com médico especialista, e sequer atendeu ao chamado da Secretaria de Saúde para agendar a cirurgia necessária.
+Nesse contexto, estou convencido que não há indicativo de que o retardo na efetivação da cirurgia tenha sido em razão de responsabilidade dos entes públicos apelados, tampouco foi a causa determinante da cegueira da apelante.
+Dessa forma, forçoso concluir que a apelante, na forma do que prevê o artigo 373, inciso I, do Código de Processo Civil, não comprovou que efetivamente houve a aventada omissão de agentes do Estado.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
