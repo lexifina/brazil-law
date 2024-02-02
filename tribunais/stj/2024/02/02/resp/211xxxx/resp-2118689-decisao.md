@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se, na origem, de mandado de segurança impetrado com a finalidade de ver reconhecido o direito ao recolhimento de PIS com alíquota de 0,65% e COFINS na alíquota de 4%, ambas sobre o faturamento, com as exclusões permitidas em lei, reconhecendo-se que a impetrante tem natureza jurídica equiparada às instituições financeiras e sociedades de crédito, ante o princípio da isonomia.
+O juízo de primeira instância denegou a segurança e resolveu o mérito da ação, nos termos do art. 487, I, do CPC (fls. 118-121).
+O Tribunal Regional Federal da 4ª Região negou provimento ao recurso de apelação da impetrante por meio de acórdão assim ementado:
+TRIBUTÁRIO. PIS/COFINS. ADMINISTRADORAS DE CONSÓRCIOS.
+A empresa administradora de grupos de consórcio não tem direito à apuração do PIS e COFINS pelo regime cumulativo.
+Em seu recurso especial, interposto com fundamento no art. 105, III, a, da CF, a contribuinte defende que o acórdão de origem violou o art. 18 da Lei n. 10.684/2003, o art. 3º, §§6º e 8º e o art. 14 da Lei n. 9.718/1998, o art. 1º, parágrafo único, I e II, da Lei n. 7.492/1986, arts. 1º, 5º a 7º da Lei n. 11.795/2008, art. 8º, II e III da lei n. 9.311/1996, art. 8º, §7º da Lei n. 9.311/1996, §1º do art. 22 da Lei n. 8.212/1991, art. 10 da Lei n. 10.833/2003 (fls. 234-278).
+Contrarrazões às fls. 340-349.
+É o relatório. Decido.
+A questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial, conforme se verifica na seguinte passagem do acórdão recorrido:
+A apelante é tributada pelo lucro real e, de acordo com o seu contrato social,(CONTRSOCIAL3, evento 1) "tem por objeto social prestação de serviços específicos e inerentes à administração de grupos de consórcios".
+As pessoas jurídicas tributadas pelo lucro real, como regra, estão sujeitas à apuração não cumulativa do PIS/COFINS. No entanto, continuam sujeitas ao regime cumulativo, por força do disposto no art. 8º, I, da Lei 10.637/02 e art. 10, I, da Lei 10.833/03, as pessoas jurídicas referidas nos §§6º, 8º e 9º, do art. 3ºda Lei 9.718/98:
+(..)
+As pessoas jurídicas referidas no §1º do art. 22 da Lei 8.212/91 são os bancos comerciais, bancos de investimentos, bancos de desenvolvimento, caixas econômicas, sociedades de crédito, financiamento e investimento, sociedades de crédito imobiliário, sociedades corretoras, distribuidoras de títulos e valores mobiliários, empresas de arrendamento mercantil, cooperativas de crédito, empresas de seguros privados e de capitalização, agentes autônomos de seguros privados e de crédito e entidades de previdência privada abertas e fechadas.
+A circunstância de a apelante possuir atividade regulada pela Lei 11.795/08, ficando sujeita à autorização, supervisão, fiscalização e controle pelo BACEN (art. 6º e 7º, I), não significa possa ser equiparada à instituição financeira ou de securitização de créditos para fins de submeter-se ao regime cumulativo do PIS/COFINS.
+A jurisprudência do STF é firme no sentido de que "é vedado ao Poder Judiciário, com fundamento em ofensa ao princípio da isonomia, desconsiderar os limites objetivos e subjetivos estabelecidos na concessão de benesse fiscal ou previsão de situação mais vantajosa, de sorte a alcançar contribuinte não contemplado na legislação aplicável, ou criar situação mais favorável ao contribuinte, a partir da combinação legalmente não permitida de normas infraconstitucionais, sob pena de agir na condição anômala de legislador positivo" (STF - 744.520 AGR/PR). "A ofensa à isonomia tributária ocorreria se admitida a mescla das partes mais favoráveis de um e outro regime, de molde a criar um regime mais conveniente ou vantajoso" (STF-RE 1009816 AgR/SC). "Não cabe ao Poder Judiciário, a pretexto de atender ao princípio da isonomia, atuar como legislador positivo" (STF-RE 509.862 AgR/RS). "A jurisprudência do STF é pacífica no sentido de ser impossível ao Poder Judiciário, por não possuir função legislativa típica, conceder benefício fiscal sem amparo legal, ao fundamento de concretização do princípio da isonomia" (RE 949278 AgR/RS).
+A violação ao princípio da isonomia e da igualdade ocorreria se o Poder Judiciário atuasse positivamente, inserindo a apelante, mesmo diante da ausência de lei, no sistema cumulativo de apuração do PIS/COFINS, causando desequilíbrios na concorrência com as demais entidades de planos de consórcios.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. LEI 12.546/2011. MP 774/2017. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+(..)
+2. Ao decidir a lide, o Tribunal de origem se apoiou em fundamentação eminentemente constitucional, referente aos princípios da anterioridade nonagesimal, com previsão no art. 195, § 6o. da CF/1988, e da legalidade. Assim, não há como alterar as conclusões obtidas pelo acórdão recorrido sem que haja usurpação da competência do Supremo Tribunal Federal. Precedente: REsp. 1.793.237/PR, Rel. Min. HERMAN BENJAMIN, DJe 22.4.2019.
+(..)
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no REsp 1859437/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPTU. IMUNIDADE RECÍPROCA. RFFSA. SOCIEDADE DE ECONOMIA MISTA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+(..)
+2. Da leitura do acórdão recorrido depreende-se que o Tribunal analisou a controvérsia sob o aspecto exclusivamente constitucional (imunidade tributária recíproca  art. 150, VI, a, da CF/88 e jurisprudência do STF).
+3. Vê-se, assim, que a análise de questão cujo deslinde reclama apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo sua apreciação de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1692609/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020.)
+Ante o exposto, com fundamento no art. 255, §4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
