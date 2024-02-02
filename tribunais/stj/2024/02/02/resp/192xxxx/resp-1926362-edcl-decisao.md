@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAROLINA FERREIRA FERNANDES GONÇALVES contra decisão monocrática do Ministro Paulo de Tarso Sanseverino, que deu "PROVIMENTO ao recurso especial para restabelecer a sentença, inclusive quanto aos ônus sucumbenciais" (fl. 628).
+Nas razões dos aclaratórios (fls. 630-633), a embargante aduz a existência de omissão no julgado, porquanto não observada a majoração de honorários previsto no art. 85, § 11, do CPC e a "resistência e os inúmeros recursos manejados pela empresa Embargada atrasaram o processo em mais de 04 (quatro) anos sem necessidade" (fl. 631).
+Requer, por fim, o acolhimento dos aclaratórios.
+A embargada apresentou contrarrazões (fls. 323-342).
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não ocorre na espécie.
+Consoante reiterado entendimento jurisprudencial, a majoração prevista no citado dispositivo só tem cabimento quando presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+No caso dos autos, o recurso da embargante foi provido especificamente para reconhecer o cabimento aos lucros cessantes, o que afasta a majoração pleiteada, pois seria apenas cabida se o recurso fosse não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente.
+A alegada omissão nada mais é do que a insatisfação da embargante com o percentual fixado, que determinou a observância do percentual mínimo legal, enquanto entende que, em razão de todo o caminhar processual até ver seu recurso provido, deveria ter sido contemplada em patamar acima do mínimo, o que não se confunde com a majoração prevista no art. 85, § 11, do CPC, que possui requisitos próprios.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ADIMPLEMENTO CONTRATUAL CUMULADA COM REPETIÇÃO DE INDÉBITO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. INSTÂNCIA RECURSAL. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A eg. Corte Especial do STJ, no julgamento do AgInt nos EAREsp nº 762.075/MT, j. 19/12/2018, DJe 7/3/2019, firmou o entendimento de que  ..  é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do NCPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso, sendo ainda assentado que,  ..  a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários  .. .
+(AgInt nos EAREsp nº 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, Corte Especial, j. 19/12/2018, DJe 7/3/2019).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.296.866/AC, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 22/6/2023.)
+A corroborar tal entendimento, transcrevo:
+A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação. (Tema Repetitivo n. 1.059/STJ - REsp n. 1.864.633/RS, relator Ministro Paulo Sérgio Domingues, Corte Especial, DJe de 21/12/2023.)
+Assim, quando o então relator, Ministro Paulo de Tarso Sanseverino, restabeleceu a sentença, inclusive quanto à sucumbência, acabou por sopesar como pertinente a manutenção dos honorários "em 10% do valor da condenação" e já observou todo o iter processual e as disposições contidas nos incisos I a IV do § 2º do art. 85 do CPC para estabelecer os honorários devidos à embargante, não havendo, assim, espaço para a aplicação do § 11.
+Ante o exposto, rejeito os embargos d e declaração.
+Publique-se. Intimem-se.
+Após, retornem os autos para julgamento da agravo interno.
+EMENTA
