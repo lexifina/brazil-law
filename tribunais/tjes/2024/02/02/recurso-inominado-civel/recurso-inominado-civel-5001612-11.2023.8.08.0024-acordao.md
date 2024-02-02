@@ -1,0 +1,209 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001612-11.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RESERVA ADMINISTRADORA DE CONSORCIO LTDA - EPP
+RECORRIDO: FLAVIO LYRIO
+RELATOR(A):
+LEONARDO MANNARINO TEIXEIRA LOPES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: Por maioria, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO Nº
+5001612-11.2023.8.08.0024
+
+RECTES.:
+RESERVA ADMINISTRADORA DE CONSORCIO LTDA
+
+RECDOS.:
+FLAVIO LYRIO
+
+RELATOR: O SR. JUIZ DE DIREITO LEONARDO MANNARINO TEIXEIRA LOPES
+
+EMENTA: CIVIL E PROCESSUAL CIVIL. CONSUMIDOR. CONSÓRCIO. PROPAGANDA ENGANOSA. AUSÊNCIA DE COMPROVAÇÃO DE VÍCIO DE CONSENTIMENTO. HIPÓTESE DE DESISTÊNCIA. IMPOSSIBILIDADE DE DEVOLUÇÃO IMEDIATA DE VALORES. RECONHECIMENTO DA SUPERAÇÃO DO ENTENDIMENTO FIRMADO NO IRDR N. 22/2015 POR TEMA VINCULANTE DO STJ. TAXA DE ADMINISTRAÇÃO. LEGALIDADE DA COBRANÇA. INCIDÊNCIA APENAS SOBRE O PERÍODO EFETIVAMENTE ADMINISTRADO. PREJUÍZOS NÃO PRESUMIDOS. NECESSIDADE DE COMPROVAÇÃO. IMPOSSIBILIDADE DE APLICAÇÃO DE MULTA E RETENÇÃO DE VALORES. JUROS E CORREÇÃO MONETÁRIA. DANO MORAL NÃO CONFIGURADO. RECURSO INOMINADO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+
+Tese da parte autora:
+
+O requerente ajuizou a presente informando que buscou a ré para contratar financiamento para aquisição de um veículo, todavia, foi enganado no momento da assinatura do contrato e aderiu a um grupo de consórcio, sem a sua anuência. Busca, assim, a restituição integral do valor pago, além de danos morais.
+
+Tese da parte requerida
+:
+
+Informa que inexiste qualquer promessa de contemplação, o que é ratificado no pós-venda e, havendo desistência, os valores devem ser devolvidos ao final do grupo e com as deduções de praxe. Apresentou recurso inominado no ID 6342351.
+
+Sentença
+:
+
+“
+Em face do exposto, declaro extinto o processo com resolução do mérito, conforme o disposto no artigo 487, I do CPC e julgo parcialmente procedente o pedido autoral e, em consequência,
+reconheço a abusividade do contrato celebrado entre as partes e declaro o seu cancelamento
+e condeno a parte Requerida RESERVA ADMINISTRADORA DE CONSORCIO LTDA – EPP: 1 - Ao pagamento de indenização por danos morais a Autora no valor de R$ 3.000,00 (três mil reais), com correção monetária, conforme a tabela de atualização monetária dos débitos judiciais do Poder Judiciário do Espírito Santo, e juros a partir da desta data; 2 - Ao pagamento de danos materiais consubstanciados na restituição à parte Autora, na forma simples, de todos os valores pagos pela parte Autora de R$ 2.410,82 (dois mil e quatrocentos e dez reais e oitenta e dois centavos), com correção monetária, conforme a tabela de atualização monetária dos débitos judiciais do Poder Judiciário do Espírito Santo, desde 18/11/2022 e juros a partir da citação. 3 – Dentro do procedimento de cancelamento, deve a parte Requerida suspender as cobranças das parcelas do consórcio”.
+
+Voto
+:
+
+Conheço do Recurso Inominado interposto, eis que ele preenche seus requisitos de admissibilidade intrínsecos e extrínsecos.
+
+Inicialmente, a parte recorrente pugna para que seja atribuído efeito suspensivo ao presente recurso. Todavia, não vislumbro nos presentes autos prejuízo apto à concessão de efeito suspensivo, motivo pelo qual mantenho a regra prevista no artigo 43 da Lei 9.099/95, recebendo o recurso apenas em seu efeito devolutivo.
+
+De início, saliento que o caso em questão exsurge de relação de consumo patente entre a parte recorrente e a recorrida, fato que enseja a regulamentação pelo Código de Defesa do Consumidor, em virtude das características dessa relação, em especial – a hipossuficiência do consumidor perante os fornecedores de produtos e/ou serviços.
+
+O sistema de responsabilidade civil adotado pelo Código de Defesa do Consumidor é a responsabilidade objetiva (contratual e extracontratual) que se funda na teoria do risco da atividade: a existência do dano e do nexo de causalidade entre o fato e o dano impõem ao fornecedor o dever de indenizar (CDC, art. 6º, inciso VI e arts. 12 a 25).
+
+Pois bem. Da análise do conjunto probatório constante nos autos, entendo que a r. sentença merece reforma.
+
+O cerne da presente lide é a “nulidade do contrato por vício de consentimento”; inicialmente, não há nenhuma prova nos autos de que o consumidor fora enganado pela requerida, com a possibilidade de contemplação imediata, ou, ainda, de se tratar de um contrato de financiamento, não sendo o caso de nulidade do ajuste por vício de consentimento.
+
+A hipótese dos autos é de desistência do consorciado, que enseja a restituição dos valores pagos, mas não da integralidade, diferentemente dos casos de rescisão culposa por parte do grupo de consórcio.
+
+Isto porque a ora recorrente apresentou nestes autos o contrato assinado pelo autor, ao ID. 6342334, o qual indica expressamente tratar-se de contrato de adesão a grupo de consórcio, fazendo constar, ainda, as características do plano contratado. Há indicação, ainda, de que “
+O vendedor não está autorizado (a) a efetuar vendas ou transferência de cota contemplada, promessa de contemplação imediata ou entrega de bem
+” e, em letras maiúsculas e destacadas com sublinhado, indica qu “
+CASO HAJA ALGUMA PROMESSA QUE NÃO ESTEJA DE ACORDO COM ESTE FORMULÁRIO OU COM O REGULAMENTO DO GRUPO, NÃO ASSINE O CONTRATO DE ADESÃO
+”
+
+Ademais, no referido ID ainda consta assinatura do autor em documento denominado “declaração de ciência e responsabilidade contratual”, no qual novamente consta a indicação de que se trata de cota de consórcio, e ciência do autor quanto às condições de contemplação, que somente ocorrem por meio de sorteio ou lance.
+
+Por fim, há mídia ao ID. 6342337, em que o autor confirma uma série de dados sensíveis sobre si mesmo, e logo após responde diversas perguntas do vendedor, aduzindo saber tratar-se de consórcio para compra de veículos, bem como que a contemplação somente ocorrerá através de sorteio ou lance, conforme disposto em cláusula contratual, afirmando que não houve qualquer promessa de contemplação antecipada ou com data pré fixada por parte do vendedor. Aduz, ainda, que não tem quaisquer dúvidas sobre o consórcio ou suas formas de contemplação porque “
+fez o negócio já sabendo
+”.
+
+Dessa forma, atento-me à causa de pedir e ao pedido formulado na inicial e, uma vez não demonstrado o vício de consentimento alegado, o contrato deve ser reputado como válido, devendo o pedido do autor ser considerado como desistência, no que divirjo do entendimento exarado pelo juízo de piso. Passo à análise dos demais pedidos.
+
+No caso, entendo que o desconto da taxa de administração deve ocorrer de forma proporcional, já que ela se apresenta como remuneração dos serviços prestados pela administradora, o que de fato ocorreu apenas enquanto a parte recorrida integrou o grupo de consórcio, não havendo que se falar em remuneração posterior.
+
+Importante frisar que não há abusividade na cláusula que prevê a cobrança de taxa de administração, pois encontra seu amparo legal no art. 5º, §3º da Lei nº 11.795/2008. O Superior Tribunal de Justiça já decidiu que as administradoras de consórcio têm liberdade para fixar a taxa de administração, não havendo que se falar em ilegalidade ou abusividade dela, ainda que fixada em patamar superior a 10%. Este entendimento se encontra pacificado na Súmula 538/STJ. Reverberando este posicionamento, o Tribunal de Justiça do Espírito Santo já decidiu:
+
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C DEVOLUÇÃO DE VALORES PAGOS. DESISTÊNCIA DE CONSÓRCIO. RESTITUIÇÃO DA QUANTIA PAGA PELO CONSORCIADO APENAS APÓS 30 DIAS DO ENCERRAMENTO DO GRUPO. DEDUÇÃO DA TAXA DE ADMINISTRAÇÃO PROPORCIONAL AO TEMPO DE PARTICIPAÇÃO NO CONSÓRCIO. CLÁUSULA PENAL INDEVIDA. CORREÇÃO MONETÁRIA. ART. 30 DA LEI 11.795/2008. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS. 1. DO APELO INTERPOSTO PELO AUTOR.
+[...] 1.3. A taxa de administração deverá ser deduzida dos valores a serem devolvidos, como requerido pelo autor, de forma proporcional ao tempo de permanência no consórcio, conforme admitido por esta Corte: TJES, Classe: Reclamação, 100160028468, Relator: FERNANDO ESTEVAM BRAVIN RUY, Órgão julgador: PRIMEIRO GRUPO CÂMARAS CÍVEIS REUNIDAS, Data de Julgamento: 05/06/2017, Data da Publicação no Diário: 08/06/2017. [...]
+(TJES, Classe: Apelação, 24151533445, Relator: ÁLVARO MANOEL ROSINDO BOURGUIGNON - Relator Substituto : DELIO JOSE ROCHA SOBRINHO, Órgão julgador: SEGUNDA CÂMARA CÍVEL, Data de Julgamento: 13/03/2018, Data da Publicação no Diário: 21/03/2018)
+
+APELAÇÃO CÍVEL. CIVIL E CONSUMIDOR. CONSÓRCIO. DESISTÊNCIA. RESTITUIÇÃO DE VALORES PAGOS. TAXA DE ADMINISTRAÇÃO. RETENÇÃO DEVIDA. CLÁUSULA PENAL. PREJUÍZO NÃO COMPROVADO. DEVOLUÇÃO CABÍVEL. SEGURO. NÃO COMPROVADA A EFETIVA CONTRATAÇÃO. JUROS DE MORA CONTADOS A PARTIR DO TERMO FIXADO PARA A RESTITUIÇÃO. HONORÁRIOS REDIMENSIONADOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+[...] 2. As administradoras de consórcio têm liberdade para fixar a respectiva taxa de administração, nos termos do art. 33 da Lei nº 8.177 ?91 e da Circular nº 2.766?97 do Banco Central, não havendo falar em ilegalidade ou abusividade da taxa contratada superior a 10% (dez por cento)" (Rcl 12.836?BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09?10?2013, DJe 16?10?2013). É cabível, portanto, a dedução do valor correspondente ao percentual estabelecido contratualmente a título de taxa de administração, porquanto se destina à remuneração dos serviços efetivamente prestados pela administradora de consórcio.
+[...]
+
+(TJES, Classe: Apelação, 11140127165, Relator : ROBSON LUIZ ALBANEZ, Órgão julgador: QUARTA CÂMARA CÍVEL , Data de Julgamento: 17/04/2017, Data da Publicação no Diário: 03/05/2017)
+
+A orientação adotada pelo Egrégio Tribunal em questão, acerca da aplicação da cláusula penal e eventuais despesas que a recorrente pretenda reter como o fundo de reserva e taxa de adesão, é de que seria imprescindível a comprovação de real prejuízo à administradora, que não fosse acobertado pela taxa de administração, conferindo-lhe verdadeira função garantidora:
+
+APELAÇÃO CÍVEL. CIVIL E CONSUMIDOR. CONSÓRCIO. DESISTÊNCIA. RESTITUIÇÃO DE VALORES PAGOS. TAXA DE ADMINISTRAÇÃO. RETENÇÃO DEVIDA. CLÁUSULA PENAL. PREJUÍZO NÃO COMPROVADO. DEVOLUÇÃO CABÍVEL. SEGURO. NÃO COMPROVADA A EFETIVA CONTRATAÇÃO. JUROS DE MORA CONTADOS A PARTIR DO TERMO FIXADO PARA A RESTITUIÇÃO. HONORÁRIOS REDIMENSIONADOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+[...] 3. É indevida a aplicação da cláusula penal à míngua de demonstração do efetivo prejuízo (CDC, Art. 53, § 2º). Ademais, ausente a comprovação de que a desistência tenha ocasionado, em desfavor da administradora, despesas extraordinárias cuja reparação não seja assegurada pela taxa de administração.
+[...] (TJES, Classe: Apelação, 11140127165, Relator : ROBSON LUIZ ALBANEZ, Órgão julgador: QUARTA CÂMARA CÍVEL , Data de Julgamento: 17/04/2017, Data da Publicação no Diário: 03/05/2017)
+
+AGRAVO REGIMENTAL NO AGRAVO CONTRA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. CONSÓRCIO. DESISTÊNCIA. COBRANÇA DE CLÁUSULA PENAL. NECESSIDADE DE PROVA DO PREJUÍZO AO GRUPO. PROVA. INEXISTÊNCIA. SÚMULA 7/STJ.
+
+1. Nos termos da jurisprudência do STJ, "a possibilidade de se descontar dos valores devidos percentual a título de reparação pelos prejuízos causados ao grupo (art. 53, § 2º, do CDC) depende da efetiva prova do prejuízo sofrido, ônus que incumbe à administradora do consórcio." (REsp 871.421/SC, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 11/3/2008, DJe de 1º/4/2008). [...] 3. Agravo regimental não provido.
+(STJ, AgRg no AREsp 56.425/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/02/2012, DJe 17/02/2012)
+
+Desta forma, afasta-se de plano que se trataria de prejuízo presumido em razão da cessação de contribuição mensal do consorciado, que repercutiria nos demais integrantes do grupo, eis que a jurisprudência entende ser a taxa de administração justamente um dos mecanismos disponíveis para lidar com variações na saúde financeira do grupo.
+
+E, ainda sobre a taxa de administração, justamente pela função de garantia que desempenha, deve haver comprovação de que será insuficiente para arcar com o prejuízo sofrido. O valor fixado corresponde à proporcionalidade dos serviços prestados, de forma que não há como presumir a necessidade de valores adicionais, seja por multa de cancelamento, seja por outro critério de fixação da taxa de administração, sem a demonstração por parte da recorrente.
+
+Aproveito o ensejo para calcular o valor a ser descontado a título de taxa de administração, considerando a sua redução proporcional ao tempo em que o contrato permaneceu em vigor, sob o valor total do ajuste.
+
+A taxa de administração deve ser fixada de forma proporcional ao período em que o autor permaneceu vinculado ao grupo (plano de 60 meses com 02 meses de permanência e taxa em 22%, o que corresponde à proporção de 0,73%), cuja aplicação deverá ocorrer sob o valor integral do contrato. Não há, no caso, como calculá-lo sob o valor pago, haja vista que já houve a redução proporcional do percentual. Reduzir ambos ensejaria o enriquecimento sem causa do consumidor, eis que o serviço fora efetivamente prestado no período contratado, apesar de proporcional.
+
+Quanto ao prazo de restituição, há de fato entendimento do Superior Tribunal de Justiça firmado em julgamento de recurso repetitivo de que a restituição deve ser feita em até 30 dias após o encerramento do grupo (RESP nº 1.119.300/RS), ou, caso haja contemplação de sua cota.
+
+Esse entendimento, hoje, prevalece nas Turmas Recursais do Estado do Espírito Santo, posto que na data de 10.02.2023, em Sessão realizada na Turma de Uniformização, restara reconhecida a superação do IRDR n. 22/2015, em consonância com o Tema Repetitivo n. 312 do STJ. Dessa forma, agora, pouco importa se o contrato em tela fora firmado posteriormente à Lei nº 11.795/08, ou se houve a comprovação de prejuízo ao grupo, devendo a restituição dos valores ocorrer no prazo de 30 dias após o término do grupo, e, consequentemente, acrescido de juros legais de mora após o decurso do indicado prazo.
+
+No que se refere ao pedido de abatimento do valor pago a título de seguro de vida, verifico que, embora o recorrente tenha supostamente autorizado a contratação do referido seguro, esta não restou demonstrada nos autos pela recorrida.
+
+Analisando detidamente os autos, verifico que segundo entendimento da jurisprudência majoritária, a comprovação da contratação do seguro, pela administradora, é requisito para a retenção da referida taxa. Senão vejamos:
+
+"
+CIVIL. CONSÓRCIO DE IMÓVEL. DESISTÊNCIA. DEVOLUÇÃO DAS PARCELAS ANTES DO ENCERRAMENTO DO GRUPO. SEGURO: AUSÊNCIA DE PROVA DO RESPECTIVO REPASSE. CLÁUSULA PENAL: PREJUÍZO NÃO COMPROVADO. TAXA DE ADMINISTRAÇÃO: ENCARGO DEDUZIDO.
+1. O consorciado desistente tem direito à devolução das parcelas pagas, antes do encerramento do grupo, devidamente corrigidas, sob pena de enriquecimento sem causa da administradora do consórcio. 2. O prejuízo advindo da retirada do consorciado, para justificar a cobrança da multa compensatória, deve ser comprovado nos autos. 3. A retenção do prêmio do seguro, por parte da administradora, pressupõe efetiva contração para o grupo de consórcio ao qual aderiu o autor-apelante. 4. A taxa de administração serve para remunerar o trabalho da administradora. 5. Recurso provido." (20070111071693APC, Relator JOÃO MARIOSA, 3a Turma Cível, julgado em 17/12/2009, DJ 08/02/2010 p. 120)”.
+
+Assim, em decorrência da ausência de comprovação da efetiva contratação, entendo que o valor referente ao seguro de vida deve ser devolvido ao Autor, sendo injustificável qualquer retenção de valor que coloque o consumidor em desvantagem exagerada.
+
+Por fim, quanto ao pedido de indenização por danos morais, incabível o mesmo no caso, seja pela completa ausência de ato ilícito praticado pela requerida, demonstração do abalo a personalidade, seja pelo fato da questão se tratar de mera discussão contratual, situação incapaz de gerar abalo moral.
+
+Sem embargo de algum transtorno suportado pelo autor diante dos problemas alvitrados, é fato que o requerente não foi exposto a qualquer fato que lhe tenha causado prejuízo maior que os normais do dia a dia do homem comum.
+
+Assim, o que se vê é que a não solução do problema não ultrapassou o limite de um transtorno sem maiores consequências. Não se olvide, tampouco, que se todos os dissabores do cotidiano forem erigidos à categoria de lesões bastantes a ensejar o pagamento de dano moral e existencial a vida em sociedade se tornará insustentável, insuportável e inviabilizada.
+
+Dispositivo
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e
+DOU-LHE PROVIMENTO
+, julgando parcialmente procedentes os pedidos formulados na inicial para:
+
+A)
+CONDENAR
+a requerida, à devolução da quantia comprovadamente paga pela demandante, em relação ao contrato de consórcio aderido pelo mesmo, descontado o percentual de 0,73%, calculados sobre o valor da carta de crédito, a título de taxa de administração proporcional. O montante a ser restituído deve ser corrigido com correção monetária a partir de cada desembolso, bem como acrescer juros de mora a partir do trigésimo primeiro dia do encerramento do grupo consorcial, devendo a quantia ser devolvida em até 30 (trinta) dias a contar do prazo previsto contratualmente para o encerramento do grupo ou a partir da contemplação da quota desistente, se ocorrer antes;
+
+B)
+JULGAR IMPROCEDENTE
+o pleito de reparação moral. Por conseguinte, declaro extinta a presente relação jurídica processual, com resolução do mérito, na forma do inciso I, do art. 487 do Código de Processo Civil.
+
+Sem condenação em custas ou honorários, ante ao resultado do julgamento.
+
+É como voto.
+
+LEONARDO MANNARINO TEIXEIRA LOPES
+
+Relator
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+Eminente Relator, ouso em divergir do voto proferido, tendo em vista que, apesar de a Recorrente alegar em defesa não existir nenhum tipo de vício ou nulidade, sob o argumento de que o contrato e termo de adesão trazem de forma clara todas as informações, os documentos apresentados em sede de contestação não foram suficientes para comprovar a ausência de vício por suposto erro quanto ao tipo de negócio jurídico.
+
+Isto porque, através dos documentos acostados pelo autor, ora recorrido, verifica-se que a vendedora o orientou a como reagir à ligação pós-venda, dizendo
+“não tirar dúvidas apenas responder o que eles perguntam” [
+sic
+]
+(ID. 6342112, pág. 06), ao passo que, em momento posterior, o consumidor diz à vendedor o seguinte:
+
+“É porque como eu nunca fui de
+comprar algo financiado
+, fico inseguro e apreensivo.
+
+E como no mômênto só tenho vc para tirar as minhas dúvidas, pois vc mesmo disse que
+não posso ligar para o banco e tirar dúvidas.
+
+É mais insegurança mesmo e um pouco de ânciedade” [sic]”
+
+A vendedora, por sua vez, não contestou a fala de que o autor não poderia ligar para o banco. Por fim, o autor questiona a vendedora se tem alguma coisa liberada em seu contrato, pois já tinha em vista duas motocicletas para fechar a compra, sendo que a vendedora apenas informou que o setor pós venda que iria entrar em contato sobre isso.
+
+Diante de tais fatos, entendo que
+recorrente não se desimcubiu do ônus de provar que, no ato da venda, a informação sobre o consórcio foi clara e precisa e, portanto, impõe-se o reconhecimento de que houve erro substancial por parte do autor, que foi induzido pela vendedora a celebrar contrato, acreditando se tratar de um financiamento.
+
+Diante de tais fatos, “
+são anuláveis os negócios jurídicos, quando as declarações de vontade emanarem de erro substancial que poderia ser percebido por pessoa de diligência normal, em face das circunstâncias do negócio
+”, conforme dispõe o art. 138 do Código Civil.
+
+Portanto, diante do erro substancial quanto à natureza do negócio jurídico, a que alude o art. 139, inciso I do CC, há nulidade do negócio jurídico em comento, impondo-se o retorno das partes ao
+status quo ante
+, com a imediata devolução da quantia paga, de acordo com o art. 182 do Código Civil.
+
+Com efeito, por não ser imotivada a saída da consumidora do grupo consorcial, não poderá a empresa recorrente reter qualquer importe a título de taxa de administração, seguro ou quaisquer outros encargos, haja vista que esta foi quem deu causa à não concretização do negócio.
+
+Ressalta-se que a devolução há de ser imediata, pois houve efetiva falha na prestação de serviços, a viciar a vontade do consumidor, portanto, não havendo que se falar em restituição dos valores na forma estipulada em contrato, não se aplicando, no presente caso, o Enunciado 25 do Colegiado Recursal deste E. Tribunal. Este é o entendimento dos tribunais pátrios, conforme jurisprudência acostada anteriormente.
+
+Assim, diante de tais condutas da requerida, ora recorrente, estando reconhecida a nulidade do contrato de consórcio, resta configurada a falha na prestação dos serviços por parte da recorrente.
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e, no mérito,
+NEGO-LHE PROVIMENTO,
+devendo a sentença ser mantida por seus próprios fundamentos. Condeno o recorrente ao pagamento das custas processuais e honorários advocatícios, que fixo em 20% sobre o valor da condenação, nos termos do art. 85, §2º do CPC.
