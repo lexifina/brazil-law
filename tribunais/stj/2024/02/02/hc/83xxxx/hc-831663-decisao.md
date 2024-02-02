@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de LUCAS BORGES CRUZ DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente se encontra preso preventivamente pela suposta prática do crime de tráfico de drogas. A prisão foi decretada visando garantir a ordem pública em razão da quantidade e variedade de drogas apreendidas - "113 porções de maconha, 80 porções de cocaína, 143 porções de crack, 22 frascos contendo maconha " - além de quantia em dinheiro (fl. 130).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que, mantendo os fundamentos da decisão que decretou a prisão preventiva, denegou a ordem em acórdão de fls. 128-134.
+No presente writ postula a defesa, em síntese, a revogação da prisão preventiva decretada em desfavor do ora paciente em razão da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 137-138.
+Informações prestadas às fls. 146-147 e 149-166.
+O Ministério Público Federal, às fls. 170-175, manifestou-se pela denegação da ordem em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INTUITO DE REVOGAÇÃO DA CUSTÓDIA CAUTELAR. ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. PRESENÇA DOS PRESUPOSTOS AUTORIZADORES. DECISÃO DEVIDAMENTE FUNDAMENTADA. QUANTIDADE E VARIEDADE DE DROGA APREENDIDA (358 PORÇÕES DE DROGAS VARIADAS ENTRE CRACK E COCAÍNA) E OUTRAS CIRCUNSTÂNCIAS CONCRETAS. NECESSIDADE DA PRISÃO CAUTELAR PARA GARANTIR A ORDEM PÚBLICA. PELO NÃO CONHECIMENTO DO HABEAS CORPUS OU PELA DENEGAÇÃO DA ORDEM." (fl. 170)
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, em razão da quantidade e variedade de droga apreendida: "113 porções de maconha, 80 porções de cocaína, 143 porções de crack, 22 frascos contendo maconha" - além de quantia em dinheiro (fl. 130), circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+No ponto, impende destacar que:
+"Sobre o tema, esta Corte Superior possui entendimento no sentido de que "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 725.170/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022" (AgRg no HC n. 806.211/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023, grifei).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
