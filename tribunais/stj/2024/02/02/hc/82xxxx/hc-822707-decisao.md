@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de ROBSON GONCALVES DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação n. 1500027-34.2020.8.26.0348.
+Extrai-se dos autos que o paciente foi condenado às penas de 20 anos, 1 mês e 27 dias de reclusão, em regime inicial fechado, por ter supostamente praticado os delitos tipificados no art. 121, § 2º, incisos II, III e IV e no art. 121, § 2º, incisos II, III e V, c/c art. 14, inciso II, do Código Penal - CP (homicídios qualificados consumado e tentado), tendo sido concedido o direito de apelar em liberdade.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso e decretou a prisão preventiva do paciente, nos termos do acórdão que restou assim ementado:
+"Apelação. Crimes de homicídio qualificado, consumado e tentados. Novo julgamento por decisão manifestamente contrária à prova dos autos. Não cabimento. Conselho de sentença que acolheu uma das versões existentes. Diminuição da pena. Não cabimento. Não provimento ao recurso" (fl. 93).
+No presente writ, o impetrante sustenta ausência dos requisitos do art. 312 do Código de Processo Penal - CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Pondera a ilegalidade da execução provisória da pena.
+Aduz as condições pessoais favoráveis do paciente, quais sejam, residência fixa e ocupação lícita.
+Argumenta qu e a custódia preventiva se reveste de indevida antecipação do cumprimento de pena, uma vez que o feito não transitou em julgado e o paciente respondeu ao processo inteiro em liberdade.
+Pugna, em liminar e no mérito, pela revogação da prisão preventiva.
+Indeferida a liminar (fls. 107/1058) e informações prestadas (fls. 114/117 e 119/135), o Ministério Público Federal - MPF opinou pela concessão da ordem de ofício (fls. 37/140).
+É o relatório.
+Decido.
+Diante  da  hipótese  de  habeas  corpus  substitutivo  de  recurso  próprio,  a  impetração  não  deve  ser  conhecida,  segundo  orientação  jurisprudencial  do  Supremo  Tribunal  Federal  -  STF  e  do  próprio  Superior  Tribunal  de  Justiça  -  STJ.  Contudo,  considerando  as  alegações  expostas  na  inicial,  razoável  a  análise  do  feito  para  verificar  a  existência  de  eventual  constrangimento  ilegal.
+Conforme  relatado,  busca-se,  no  presente  writ,  a revogação  da  custódia  preventiva.
+Como se observa dos autos, o réu respondeu ao processo em liberdade, tendo sido condenado às penas de 20 anos, 1 mês e 27 dias  de  reclusão,  em  regime  inicial  fechado,  pela  prática  do delito tipificado no art. 121, § 2º, incisos II, III e IV e no art. 121, § 2º, incisos II, III e V, c/c art. 14, inciso II, do CP. O Tribunal de origem negou provimento à apelação da defesa, tendo sido decretada a prisão preventiva do réu, com fulcro nos arts. 312 e 492, inciso I, alínea e, do CPP.
+Com efeito, o decreto prisional se embasou em dispositivo de lei federal em vigência no atual ordenamento ju rídico, pelo que não há se falar em constrangimento ilegal manifesto.
+De se destacar que a matéria se encontra em discussão no STF, em regime de repercussão geral reconhecida nos autos do RE 1.235.340/SC, onde está em exame a constitucionalidade do imediato cumprimento de pena aplicada pelo Tribunal do Júri. A questão então suscitada pelo eminente Relator Ministro Roberto Barroso, foi no sentido de "saber se a soberania dos vereditos do Tribunal do Júri autoriza a imediata execução de pena imposta pelo Conselho de Sentença", tendo proposto a tese de que "a prisão do réu condenado por decisão do Tribunal do Júri, ainda que sujeita a recurso, não viola o princípio constitucional da presunção de inocência ou não culpabilidade, tendo em vista que as decisões por ele proferidas são soberanas (art. 5º, XXXVIII, da CF)" - Tema 1.068.
+O resultado provisório do julgamento, no momento, é pela formação de maioria para acolher a tese proposta pelo Relator, reconhecendo-se a constitucionalidade da execução imediata da pena aplicada pelo Tribunal do Júri, sendo certo que a ausência de pronunciamento definitivo da Corte Suprema acerca da questão, não possui o condão de suspender a aplicação da norma em vigor. Ademais, não cabe a esta Corte Superior, por meio de habeas corpus, negar vigência a dispositivo federal válido.
+Assim, diante da disciplina da questão pelo disposto no art. 492, inciso I, do CPP, que segue vigente no ordenamento jurídico, não vislumbro ilegalidade a ser sanada.
+Corroborando esse entendimento, cito o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. EXECUÇÃO IMEDIATA. INCONSTITUCIONALIDADE. TEMA CONTROVERTIDO. IMPOSSIBILIDADE DE VISLUMBRAR MANIFESTA ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O paciente, que respondeu solto ao processo, foi condenado pelo Tribunal do Júri por incursão nos arts. 121, § 2º, I e IV; 344, "caput" e 347, parágrafo único, todos do CP, a 18 anos e 4 meses de reclusão, determinada a execução provisória, com expedição de mandado de prisão.
+2. A determinação do Juiz de primeiro grau está amparada no art. 492, I, "e", do CPP, e assentou-se constituir questão constitucional definir, conforme a Súmula Vinculante n. 10, se a soberania dos veredictos autoriza a imediata execução de pena não definitiva imposta pelo Tribunal do Júri.
+3. Não existe jurisprudência sobre a matéria, sob a ótica constitucional, e o tema pende de discussão em recurso extraordinário, de modo que não há como, à luz da jurisprudência da Corte Constitucional, vislumbrar plausibilidade jurídica do pedido, ressalvando-se, todavia, que não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada já a partir da decisão colegiada do tribunal competente.
+4. Agravo regimental não provido.
+(AgRg no HC n. 828.203/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023.)
+Por adotar idêntico raciocínio, faço menção, ainda, ao recente julgado da Quinta Turma desta Corte Superior no REsp 1.973.397/MG, de relatoria do Eminente Ministro Ribeiro Dantas, bem como às decisões prolatadas nos autos do HC 824.213/RN (relator Ministro Messod Azulay Neto, DJe de 24/ 8 /2023) e do HC 850.760/MG (relator Ministro Rogerio Schietti Cruz, DJe de 31/8/2023).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
