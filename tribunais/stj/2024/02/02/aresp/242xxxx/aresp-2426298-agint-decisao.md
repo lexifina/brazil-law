@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo interno interposto por MARIA LUCIA RIBEIRO DOS SANTOS e PAULO CESAR NICOLAU DOS SANTOS contra decisão monocrática de relatoria da Presidência do STJ que não conheceu do agravo em recurso especial (fls. 1.607-1.608).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a ", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1.501):
+AÇÃO RESCISÓRIA Sentença - Nulidade da citação - A nulidade da citação, pela sua gravidade, é considerada vício transrescisório, mas pode ser também conhecida pela via da ação rescisória com fundamento no inciso V do art. 966 do CPC/2015 - Recurso provido
+Diante do não conhecimento do agravo em recurso especial, interpôs a agravante o presente agravo interno.
+Nas razões do presente recurso, a parte agravante alega, em síntese, (fls. 1.612-1.628):
+Os Agravantes entendem que o despacho que negou seguimento ao Recurso Especial está equivocado, pois, não seria o caso de aplicação das Súmulas 282 do Supremo Tribunal Federal, pois houve o prequestionamento ficto.
+O despacho que negou seguimento ao Recurso Especial não se ateve ao fato deque as questões constitucionais suscitadas foram expressamente prequestionadas no próprio Recurso de Apelação e uma vez estando o prequestionamento insculpido expressamente no corpo do Recurso de Apelação, ocorreu o prequestionamento ficto.
+Mencionada súmula182 do STJ é inaplicável ao caso, isso porque houve esclarecimento que o acordo que negou o Recurso Especial não observou as violações a lei infraconstitucional mencionada artigo 32, inciso II, alínea "a", da Lei 8.934/94.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Foram apresentadas contrarrazões (fls. 1.635-1.645).
+É, no essencial, o relatório.
+O Tribunal de origem inadmitiu o recurso especial por entender que as razões recursais têm óbice na Súmula n. 282/STF.
+Com razão a agravante quanto à não incidência da Súmula n. 182/STJ. Da detida análise das razões do agravo em recurso especial, observa-se que a agravante impugnou especificamente o óbice apontado na decisão de inadmissão.
+Assim, atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No recurso especial, alega o recorrente, em suma, violação do art. 32, II, "a", da Lei n. 8.934/1994, pugnando como válida a citação ocorrida nos autos da Ação de Adjudicação Compulsória, o que conduz invariavelmente à improcedência da Ação Rescisória.
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem não analisou a tese em torno da incidência ou não do art. 32, II, "a", da Lei n. 8.934/1994.
+Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+Se a parte recorrente entendesse haver alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento no Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais.
+Caso persistisse tal omissão, seria imprescindível a alegação de violação do art. 1.022 do CPC, por ocasião da interposição do recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Incide no caso o disposto nas Súmulas n. 282 e 356 do STF.
+Nesse sentido, cito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VAGA DESTINADA A IDOSO E PORTADORES DE NECESSIDADES ESPECIAIS. ESTACIONAMENTO IRREGULAR. ALEGADA VIOLAÇÃO AO ART. 1º, CAPUT E IV, DA LEI 7.347/85. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. DANO MORALCOLETIVO NÃO CARACTERIZADO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+ .. .
+III. Não tendo o acórdão hostilizado expendido juízo de valor sobre o art. 1º, caput e IV, da Lei 7.347/85, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento, requisito viabilizador da abertura desta instância especial, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+ ..
+VI. Agravo interno improvido. (AgInt no AREsp n. 1.944.103/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022.)
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. LICENÇA ESPECIAL. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO. RECONHECIMENTO ADMINISTRATIVO DO DIREITO. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE RECURSAL. CONTROVÉRSIA QUE DEMANDA EXAME DE NORMA INFRALEGAL. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+IV - Ademais, quanto ao art. 112 da Lei n. 8.112/1990, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento. Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo . (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.) V - Além disso, é incabível o recurso especial porquanto eventual violação e interpretação divergente da lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência do Superior Tribunal de Justiça. Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.524.223/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.552.802/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020; AgInt no REsp 1.652.475/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º/3/2019; AgInt no REsp 1.724.930/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2018; AgInt no AREsp 1.133.843/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/3/2018; REsp 1.673.298/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2017.
+ ..
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 2.080.103/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 5/10/2022.)
+As questões não foram objeto da contestação apresentada na origem, muito menos foram opostos embargos de declaração, evidenciando a ausência de debate na origem.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DA COISA JULGADA. MATÉRIA NÃO DEBATIDA NO ACÓRDÃO RECORRIDO. INOVAÇÃO RECURSAL EM RECURSO ESPECIAL. INVIABILIDADE.
+1. A alegação de ofensa à coisa julgada em razão de o título executivo expressamente fixar a TR como índice de correção monetária não foi devidamente apresentada em recurso oportuno, tampouco tendo o Tribunal de origem se manifestado expressamente sobre a questão.
+2. O fato constitui inaceitável inovação recursal e impede o conhecimento do recurso, tanto em decorrência da preclusão consumativa quanto na ausência de prequestionamento, ainda que se trate de questão de ordem pública.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.947.526/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 20/6/2022.)
+Por fim, nos termos da jurisprudência pacífica desta Corte, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017), o que não ocorreu no presente caso.
+Ante o exposto, reconsidero a decisão de fls. 1.607-1.608, para conhecer do agravo e não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os lim ites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
