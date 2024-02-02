@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto po r GLEIDSON MUNIZ DE CARVALHO RAMOS contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 239):
+Indenização por danos materiais e morais.
+Contrato de franquia. Autor pactuou com a ré franquia, levando-se em consideração estabelecimento em determinado local.
+Posteriormente, o próprio autor informara que não obtivera sublocação do lugar em que seria instalado o estabelecimento em referência.
+Pactuado não apresentou nenhuma condição, portanto, o óbice apontado não pode ser atribuído à ré. Ausência de descumprimento por parte da franqueadora. Pretensão de restituição dos valores pagos sem suporte, pois não fora a ré que descumprira algum item do contratado. Danos morais sem consistência. Questão estritamente de direito patrimonial, portanto, disponível.
+Suscetibilidade exacerbada do autor é insuficiente para a verba reparatória pretendida. Apelo desprovido.
+Nas razões do recurso especial, o recorrente alegou a ofensa aos arts. 422 e 884, ambos do Código Civil, e ao art. 373, inciso II, do CPC/2015, sustentando, em síntese, a restituição dos valores recebidos a título de taxa de franquia, mormente pelo fato de que "não houve a transferência das técnicas e procedimentos a serem adotados para o desenvolvimento da atividade e, por esse motivo, o recorrente não chegou a exercer o direito de utilização da marca Doutor Lubrifica, com a disponibilização do serviço do franqueador e os produtos vinculados a esse serviço". Aduziu, ainda, dissídio pretoriano.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente à interposição de agravo.
+O agravante impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 293-301).
+Contraminuta apresentada (e-STJ, fls. 310-314).
+Brevemente relatado, decido.
+A controvérsia refere-se, em síntese, à viabilidade, ou não, da restituição dos valores recebidos a título de taxa de franquia.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 241-242; sem grifo no original):
+O pactuado pelas partes caracteriza contrato de franquia.
+O próprio autor, por ocasião da propositura da ação, fizera constar que não conseguiu instalar a unidade franqueada por fatores outros, já que o Supermercado Makro descumpriu o contrato de sublocação do espaço, pág. 02, destacando que não houve despesa por parte da franqueadora nem transferência de know-how, e que a própria ré não mais reconhecia o contrato de franquia.  ..
+Assim, efetivamente, quem descumprira o pactuado fora o próprio autor, uma vez que contratara sem nenhuma condicionante, ou seja, por sua conta e risco, e, se não conseguiu instalar o estabelecimento no local desejado, também não foi à procura de lugar substitutivo, já que se limitara a ressaltar que, expondo a situação fática, a própria ré se dispusera a restituir R$15.000,00, todavia, sem a concordância do apelante, e nada além disso, ou seja, a questão estava vinculada exclusivamente em relação ao quantum eventualmente seria restituído.
+Destarte, a ré levou em consideração o que fora ajustado, não se identificando nenhum item que não fosse cumprido, mesmo porque, o próprio autor destacou que nem oportunidade fora disponibilizada à franqueadora para outros itens, haja vista que ressaltou a impossibilidade de instalar referido estabelecimento no local inicialmente apontado, ou seja, junto ao Makro.
+Deste modo, ausente embasamento para a restituição dos valores correspondentes, uma vez que a ré não dera causa ao desfazimento do pactuado.
+Com efeito, vislumbra-se que a irresignação do agravante não merece prosperar, haja vista que a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda.
+Dessa forma, percebe-se que rever os fundamentos do acórdão recorrido, mormente quanto ao fato de que se mostra "ausente embasamento para a restituição dos valores correspondentes, uma vez que a ré não dera causa ao desfazimento do pactuado" (e-STJ, fl. 242), exigiria a reinterpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Por fim, no que se refere à divergência jurisprudencial, cabe salientar que, nos termos da consolidada jurisprudência deste Tribunal Superior, a incidência do óbice constante das Súmulas n. 5 e 7/STJ impede a apreciação do dissídio, diante da constatação da ausência de similitude fático-jurídica entre os julgados confrontados.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA DA CEF. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 D0 STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 5/STJ. NADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7 DO STJ. PREJUDICADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de rescisão contratual cumulada com indenizatória por danos morais e materiais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Consoante o entendimento desta Corte, a eventual legitimidade passiva da CEF está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro. Precedentes.
+4. O reexame de fatos e provas e a nova interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+7. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+8. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Assim, melhor sorte não socorre ao agravante, inclusive quanto ao alegado dissídio pretoriano.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fi quem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE FRANQUIA. PRETENSÃO DE RESTITUIÇÃO DA TAXA DE FRANQUIA. IMPOSSIBILIDADE. AUSÊNCIA DE DESCUMPRIMENTO POR PARTE DA FRANQUEADORA. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
