@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por Condomínio Porto de Napolis contra a decisão de fls. 159-162 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio ao acórdão de fls. 83-91 (e-STJ), prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CONDOMÍNIO. CUMPRIMENTO DE SENTENÇA. DESPESAS CONDOMINIAIS. 1. POSSIBILIDADE DE JULGAMENTO MONOCRÁTICO. A MATÉRIA VENTILADA NO AGRAVO DE INSTRUMENTO É RECORRENTE, EXISTINDO JURISPRUDÊNCIA DOMINANTE NO SUPERIOR TRIBUNAL DE JUSTIÇA E NESTA EGRÉGIA CORTE, JUSTIFICANDO-SE O JULGAMENTO MONOCRÁTICO, NOS TERMOS DO ART. 932, VIII, DO CPC/2015 E ART. 206, XXXVI, DO REGIMENTO INTERNO DO TJ/RS. 2. PENHORA DO PRÓPRIO IMÓVEL GERADOR DO DÉBITO CONDOMINIAL. BEM GRAVADO COM ALIENAÇÃO FIDUCIÁRIA. IMPOSSIBILIDADE. ART. 27, § 8º, DA LEI Nº 9.514/97. EM QUE PESE A OBRIGAÇÃO DE CONCORRER PARA AS DESPESAS DO CONDOMÍNIO PREVISTA NO ART. 1.336, I, DO CC OSTENTE NATUREZA PROPTER REM, NÃO É POSSÍVEL A PENHORA DE IMÓVEL GRAVADO COM ALIENAÇÃO FIDUCIÁRIA PARA SATISFAÇÃO DE DÉBITOS CONDOMINIAIS. CONFORME PREVISÃO DO ART. 27, § 8º, DA LEI Nº 9.514/97, ATÉ A CONSOLIDAÇÃO DA PROPRIEDADE EM FAVOR DO CREDOR FIDUCIÁRIO E RESPECTIVA IMISSÃO NA POSSE, É DO DEVEDOR FIDUCIANTE A RESPONSABILIDADE PELO PAGAMENTO DOS IMPOSTOS, TAXAS, CONTRIBUIÇÕES CONDOMINIAIS E QUAISQUER OUTROS ENCARGOS QUE RECAIAM OU VENHAM A RECAIR SOBRE O IMÓVEL. CONQUANTO NÃO SEJA POSSÍVEL A PENHORA DO IMÓVEL, EM SI MESMO CONSIDERADO, ADMITE-SE A PENHORA DOS DIREITOS DO DEVEDOR FIDUCIANTE EM DECORRÊNCIA DO CONTRATO QUE INSTITUIU O GRAVAME, CONFORME JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. CASO CONCRETO EM QUE OS ARGUMENTOS INVOCADOS NAS RAZÕES RECURSAIS NÃO SÃO SUFICIENTES PARA INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA, QUE DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 100-115), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 1.336, I, e 1.345 do CCB; e 835, § 3º, do CPC/2015. Sustentou, em síntese, a possibilidade da penhora do bem alienado fiduciariamente para a cobrança de débitos condominiais.
+Contrarrazões às fls. 142-156 (e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência da Súmula 83/STJ.
+Daí o presente agravo, no qual o insurgente contesta a aplicação do óbice.
+Contraminuta às fls. 190-199 (e-STJ).
+Brevemente relatado, decido.
+A jurisprudência desta Corte é no sentido do descabimento da penhora do bem alienado fiduciariamente para a cobrança dos débitos condominiais.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DIREITOS AQUISITIVOS. PENHORA. POSSIBILIDADE. IMÓVEL VINCULADO AO PROGRAMA MINHA CASA MINHA VIDA. PAGAMENTO DE DÉBITO CONDOMINIAL. EXCEÇÃO À IMPENHORABILIDADE.
+1. Ação de cobrança em fase de cumprimento de sentença, da qual foi extraído o presente recurso especial, interposto em 20/6/2023 e concluso ao gabinete em 4/8/2023.
+2. O propósito recursal consiste em dizer se são penhoráveis os direitos aquisitivos derivados de contrato de alienação fiduciária de imóvel integrante do Programa Minha Casa Minha Vida (PMCMV) para pagamento de débito condominial.
+4. Esta Corte Superior perfilha o entendimento de que é possível a penhora de direitos aquisitivos - de titularidade da parte executada - derivados de contrato de alienação fiduciária em garantia.
+3. Nos contratos de alienação fiduciária em garantia de bem imóvel, a responsabilidade pelo pagamento das despesas condominiais recai sobre o devedor fiduciante, enquanto estiver na posse direta do imóvel. Assim, como ainda não se adquiriu a propriedade plena, eventual penhora não poderá recair sobre o direito de propriedade - que pertence ao credor fiduciário -, mas sim sobre os direitos aquisitivos derivados da alienação fiduciária em garantia.
+Precedentes.
+5. A partir da interpretação sistemática do inciso I do art. 833 do CPC/2015 e do disposto no §1º do mesmo dispositivo legal, conclui-se que são penhoráveis os direitos aquisitivos derivados de contrato de alienação fiduciária de imóvel integrante do Programa Minha Casa Minha Vida (PMCMV) para pagamento de débito condominial.
+6. Na hipótese dos autos, merece reforma o acórdão recorrido, pois, em razão da exceção esculpida no §1º do art. 833 do CPC/2015, é possível a penhora dos direitos aquisitivos derivados de contrato de alienação fiduciária.
+7. Recurso especial provido para deferir a penhora dos direitos aquisitivos derivados do contrato de alienação fiduciária do imóvel gerador do débito condominial.
+(REsp n. 2.086.846/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/9/2023, DJe de 15/9/2023.)
+Dessa forma, a decisão recorrida refletiu o entendimento deste Tribunal Superior, razão pela qual não merece reforma.
+Diante do exposto, conheço do agravo para conhecer do recurso especial e nego-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PENHORA DE BEM ALIENADO FIDUCIARIAMENTE. DESCABIMENTO. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
