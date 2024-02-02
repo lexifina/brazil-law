@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por EDR COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE POLIMEROS EIRELI e OUTROS contra decisão que não admitiu seu recurso especial, este por sua vez manejado com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 1.663):
+APELAÇÃO CÍVEL - Ação pauliana - Sentença de procedência - Manutenção - Comprovação da anterioridade do crédito, eventus damni e consilium fraudis - Empresa ré que não comprova possuir patrimônio - Cessão de crédito realizada em favor do advogado da empresa e de pessoa por ele representada - Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 1.669-1.676), os insurgentes apontaram violação aos arts. 80, 81 e 792 do CPC/2015; e 24 da Lei n. 8.906/1994.
+Sustentaram, em síntese, que não ficou configurada a fraude à execução, ao argumento de que a cessão de crédito discutida nos autos é lícita, tendo em vista a natureza alimentar dos honorários advocatícios, o qual possui privilégio no concurso de credores, e a ausência de litigância de má-fé.
+Contrarrazões às fls. 1.669-1.676 (e-STJ).
+A Corte de origem não admitiu o recurso especial, o que levou os insurgentes à interposição de agravo (e-STJ, fls. 1.695-1.704).
+Sem contraminuta.
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal origem reconheceu a ocorrência de fraude contra credores, de acordo com as seguintes justificativas (e-STJ, fls. 1.665-1.668 - sem grifo no original):
+9. Com relação à fraude contra credores, ensina SÍLVIO DE SALVOVENOSA que:
+"É fraude contra credores qualquer ato praticado pelo devedor já insolvente ou por esse ato levado à insolvência com prejuízo de seus credores. Se tivermos em mente que o patrimônio do devedor responde por suas dívidas, que esse patrimônio possui ativo e passivo, e se levarmos em conta que para o devedor insolvente o passivo supera o ativo, concluímos que, ao diminuir bens de seu patrimônio, está de certo modo alienando bens que pertencem mais propriamente a seus credores. Daí as medidas legais visando proteger os credores nessas situações. São três os requisitos para a tipificação da fraude contra credores: a anterioridade do crédito, o consilium fraudis e o evento damni" ("Direito Civil I Parte Geral - 7ª edição",2007, pág. 424).
+10. Pois bem. Na espécie, restou comprovado que a apelada se tornou credora da empresa corré aos 20.10.2017, em virtude de sentença proferida em ação monitória.11. Ocorre que, em julho de 2018, a empresa-ré cedeu aos outros corréus crédito decorrente de acordo homologado judicialmente (fls.396/401 e 406/411).
+12. Em que pese aos argumentos dos apelantes, não restou demonstrada a solvência da empresa-ré, tendo em vista que todos os imóveis descritos nos autos não são de sua propriedade.
+13. Comprovou a empresa-ré possuir apenas alguns veículos, de cujo estado de conservação não se tem notícia.
+14. Destarte, restou demonstrada a anterioridade do crédito e o eventus damni.
+15. No que tange ao consilium fraudis, tenho para mim que também restou configurado, tendo em vista que um dos cessionários é o próprio advogado da empresa e o outro está por ele representado.
+16. De rigor, pois, a manutenção da r. sentença.
+A parte recorrente, por sua vez, nas razões do apelo especial, limita-se a afirmar que não ficou configurada a fraude à execução, com base na alegada violação ao art. 792 do CPC/2015
+Efetivamente, da leitura dos fundamentos utilizados pelo Tribunal de origem (acima destacados), verifica-se que o aludido argumento recursal pertinente ao citado dispositivo de lei apontado pelos insurgente está dissociado do que foi decidido no acórdão estadual, evidenciando a deficiência de fundamentação, a ensejar a aplicação do enunciado n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE CONTRATO. PLANO DE SAÚDE COLETIVO. MAJORAÇÃO ANUAL DA MENSALIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO AUMENTO DE INSUMOS E SERVIÇOS. FUNDAMENTO NÃO IMPUGNADO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. REAJUSTE EM VIRTUDE DA ALTA SINISTRALIDADE. FUNDAMENTOS RECURSAIS DISSOCIADOS DO ARESTO COMBATIDO. SÚMULA Nº 284 DO STF. AUSÊNCIA DE PROVA QUE JUSTIFICASSE O REAJUSTE. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. APELO NOBRE NÃO CONHECIDO.
+(..)
+2. A subsistência de fundamentos inatacados impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283 do STF, e a dissociação das razões recursais daquilo que ficou decidido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios obstaculiza a análise do objeto recursal, a teor da Súmula nº 284 do STF.
+3. Qualquer outra apreciação acerca da ilegalidade do aumento da mensalidade do plano de saúde, da forma como trazida no recurso especial, implicaria o necessário revolvimento do arcabouço fático-probatório, procedimento sabidamente aqui inviável diante do óbice das Súmulas nºs 5 e 7, ambas do STJ.
+4. Esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+5. Recurso especial não conhecido.
+(REsp n. 1.848.022/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 1/9/2020, DJe de 8/9/2020.)
+Quanto ao mais, no que tange à alegada violação aos arts. 80 e 81 do CPC/2015; e 24 da Lei n. 8.906/1994, constata-se, da leitura do aresto recorrido, que o conteúdo normativo dos referidos dispositivos não foi objeto de análise pelo colegiado estadual, o que evidencia a ausência do indispensável prequestionamento das matérias e atrai a incidência das Súmulas 282 e 3 56 do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais em favor dos advogados da parte recorrida, tendo em vista que estes já foram fixados no valor máximo pela instância ordinária, nos termos do art. 85, § 11, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. FRAUDE CONTRA CREDORES. REQUISITOS COMPROVADOS. ALEGAÇÃO DE INEXISTÊNCIA DE FRAUDE À EXECUÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. VIOLAÇÃO AOS ARTS. 80 E 81 DO CPC/2015; E 24 DA LEI N. 8.906/1994. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
