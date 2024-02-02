@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por AUGUSTINHO DAMIANI - SUCESSÃO contra decisão que inadmitiu recurso especial (e-STJ, fls. 345-355) proposto para impugnar acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 305):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. AÇÃO INDIVIDUAL AJUIZADA POSTERIORMENTE. COISA JULGADA. INTERESSE DE AGIR. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS.
+1. Verificada a formação de coisa julgada entre as partes, em ação individual, sobre a mesma matéria tratada no título coletivo, tendo sido reconhecida naquele processo a prescrição do direito do demandante em relação ao período de 06/2007, não há interesse processual do apelante em executar o título judicial que embasa o cumprimento de sentença originário, especialmente na parte que lhe foi desfavorável o título individual, especificamente com o reconhecimento da prescrição.
+2. Levando em conta o trabalho adicional do procurador na fase recursal, a verba honorária fica majorada em 2%, forte no § 11 do art. 85 do CPC/2015.
+Nas razões do recurso especial, a recorrente alegou, com fulcro nas alíneas a e c do permissivo constitucional, violação ao art. 104 do CDC.
+Sustentou que as ações coletivas não induzem litispendência para as demandas individuais.
+Destacou que, não tendo sido comprovada intimação nos autos do processo individual, o exequente pode se beneficiar dos efeitos da coisa julgada do litígio coletivo.
+Asseverou que, "como a ação individual não resultou no pagamento de valores, mostra-se possível a execução individual da sentença/acórdão proferido na referida Ação Civil Pública" (e-STJ, fl. 323).
+Frisou que, "no presente caso não há comprovação de que a parte recorrente fora intimada do ajuizamento da ação coletiva nos autos da ação individual por ela proposta. É direito da parte, previsto em lei, essa comunicação nos autos" (e-STJ, fl. 329).
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 345-355).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 372-376).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da questão debatida nos autos, o Tribunal originário assim se manifestou (e-STJ, fls. 282-287):
+Coisa julgada.
+O direito processual brasileiro admite a coexistência de ação coletiva e ação individual que postulem o reconhecimento de um mesmo direito, inexistindo litispendência entre elas. Nos termos do art. 104 do Código de Defesa do Consumidor, aquele que ajuizou ação individual pode aproveitar eventuais benefícios resultantes da coisa julgada a ser formada na demanda coletiva, desde que postule a suspensão daquela, no prazo de 30 (trinta) dias contados da ciência da ação coletiva, até o julgamento do litígio de massa. Ainda, para que o pedido de suspensão surta os aludidos efeitos, é necessário que ele seja apresentado antes de proferida a sentença meritória no processo individual e, sobretudo, antes de transitada em julgado a sentença proferida na ação coletiva.
+ ..
+Com efeito, como atestam também os julgados acima, cabe ao autor requerer a suspensão da ação individual.
+Ocorre que, nada obstante a aplicabilidade da Lei 8.078/90 de forma geral, esta Corte tem entendido que é inaplicável a sistemática do art. 104 do referido diploma legal quando a ação coletiva foi ajuizada anteriormente à distribuição da individual.
+Na hipótese, verifico que a Ação Coletiva nº 2003.72.01.004511-8 foi movida pelo Instituto Pró Justiça Tributária - PROJUST em face da CEF, como objetivo de buscar o pagamento das diferenças de correção monetária das contas de poupança pagas a menor, em função dos planos econômicos de junho de 1987 e janeiro de 1989.
+Por sua vez, a Ação Ordinária 2007.72.04.002125-8 foi proposta individualmente pelo ora apelante em 27/07/2007, tendo por objeto também o pagamento das diferenças em comento.
+O fato de a Ação Coletiva ter sido proposta em momento anterior afasta, in casu, a aplicabilidade do disposto no art. 104 do CDC.
+ ..
+De outro lado, como referido, tanto a Ação Coletiva, quanto a demanda ajuizada individualmente pelo recorrente, tem o mesmo objeto relativamente à correção monetária pelo IPC nos meses de junho/1987 (26,06% - Plano Bresser) e janeiro/1989 (42,72% - Plano Verão).
+O objeto da Ação Coletiva, portanto, está incluído na prescrição expressamente declarada quando do julgamento da ação individual.
+É o que se vê da transcrição do seguinte trecho da sentença, que declara expressamente a prescrição quanto ao denominado Plano Bresser (processo de origem - Evento 59 - OUT2):
+ ..
+Destaca-se, mais uma vez, que no cumprimento de sentença de origem estão sendo executados os valores reconhecidos na Ação Coletiva como devidos a título de correção monetária pelo IPC nos meses de junho/1987 (26,06% - Plano Bresser) e janeiro/1989 (42,72% - Plano Verão). A insurgência manifestada pela parte apelante, em seu recurso, cinge-se ao período de junho/1987, o qual resta abrangido, portanto, pela prescrição expressamente declarada na ação individual, com trânsito em julgado.
+Com efeito, existe, na ação ajuizada individualmente pela parte ora agravada, decisão judicial contra a qual não cabe mais a interposição de recursos, na qual restou expressamente declarada a prescrição em relação ao período de 06/1987.
+Assim, no caso concreto, há decisão judicial contra a qual não cabe mais recurso reconhecendo a ocorrência da prescrição, em ação cujo objeto é idêntico ao da demanda coletiva.
+Destaca-se que sequer seria viável a desconstituição do referido acórdão nos autos do cumprimento de sentença originário, sendo necessário à parte interessada buscar, se for o caso, a rescisão do julgado pela via processual adequada.
+Portanto, formou-se coisa julgada entre as partes, na ação individual, sobre a mesma matéria tratada no título coletivo, tendo sido reconhecida a prescrição do direito dos demandantes em relação às diferenças do período de junho/1987, de modo que não há interesse processual do demandante em executar o título judicial que embasa o cumprimento de sentença originário, especificamente na parte que lhe foi desfavorável o título individual, com o reconhecimento da prescrição.
+ ..
+De outro lado, o fato de a ação individual ter sido ajuizada posteriormente, compreendendo o proveito obtido na ação coletiva, implica renúncia tácita aos efeitos da coisa julgada formada na ação coletiva. No ponto, configura-se a identidade de pedidos, isso porque pretende a parte, nesta execução do título coletivo, o recebimento das diferenças referentes a período atingido pela prescrição quinquenal na ação cognitiva individual.
+Da citada passagem, destaca-se que o Tribunal a quo entendeu que, para a aplicação dos efeitos da coisa julgada formada em ação coletiva às demandas individuais é necessário que a parte realize pedido de suspensão do pleito individual no prazo de 30 (trinta) dias, contados da ciência da ação coletiva e antes da prolatação da sentença meritória, bem como que o processo coletivo tenha sido instaurado posteriormente.
+Segundo a instância originária, não é cabível a aplicação do disposto no art. 104 do CDC pelo fato de a ação coletiva ser anterior à ação individual.
+Todavia, analisando os argumentos expostos nas razões do recurso especial, constata-se que a recorrente deixou de impugnar todos os fundamentos mencionados pelo acórdão recorrido, situação que impede o prosseguimento do recurso excepcional.
+Nos termos do enunciado da Súmula 283/STF, aplicado por analogia ao recurso especial, é "inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. DEMANDA INDIVIDUAL AJUIZADA POSTERIORMENTE. IMPOSSIBILIDADE DE APROVEITAMENTO DA COISA JULGADA COLETIVA. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
