@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de CLEOMAR OCHOKI, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Agravo em Execução Penal n. 4000328-69.2023.8.16.0021).
+Consta dos autos que o juízo da execução penal deferiu o indulto à parte paciente, em decisão que foi, contudo, reformada no julgamento em segundo grau, em razão do suposto enquadramento do caso no art. 8º, I, do Decreto Presidencial n. 11.302/22, pela aplicação inicial de penas privativas de direito ao condenado, embora ulteriormente reconvertidas em privativa de liberdade pelo descumprimento.
+Daí o presente habeas corpus, no qual a defesa sustenta que a parte paciente preenche os requisitos do art. 5º, caput, do Decreto Presidencial nº 11.302/22 para a concessão do indulto natalino.
+Invoca que, como o art. 8º do Decreto Presidencial nada dispõe sobre a impossibilidade de concessão do indulto em caso de posterior agravamento na situação executória do paciente, incabível é a interpretação in malam partem feita aqui pela autoridade coatora.
+Aduz, assim, violação ao princípio da legalidade.
+Requer que seja cassado o acordão proferido pelo Tribunal de Justiça, para o fim de restituir o indulto ao paciente.
+As informações foram prestadas, às fls. 75-100.
+O Ministério Público Federal manifestou-se, às fls. 104-106, nos termos da ementa abaixo:
+"HABEAS CORPUS. IMPOSSIBILIDADE DE UTILIZAÇÃO DO WRIT COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. PLEITO DE CONCESSÃO DO INDULTO PREVISTO NO DECRETO PRESIDENCIAL Nº 11.302/2022. INVIABILIDADE. RECONVERSÃO DA PENA RESTRITIVA DE DIREITO EM PRIVATIVA DELIBERDADE POR DESCASO DO APENADO COM A EXECUÇÃO PENAL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Parecer pelo não conhecimento do writ e, se conhecido, pela denegação da ordem".
+É o relatório. DECIDO.
+Conforme consta, a defesa busca a concessão do indulto natalino, tendo em vista a impossibilidade de se negar a benesse ao argumento de impossibilidade de aplicação ao condenado que ulteriormente teve a restritiva de direitos convertida em pena privativa de liberdade.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica a flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Na hipótese, embora a defesa busque a discussão no âmbito da condição concreta de que as penas do paciente foram convertidas em restritivas de direitos na sentença e apenas ulteriormente reconvertidas em privativa de liberdade (por descumprimento), situação realmente não enfrentada no Decreto Presidencial em comento de forma expressa (pois ele somente veda o indulto de forma lacônica às penas restritivas de direitos), o paciente ainda incorre em outra vedação contida na norma, o que prejudica o debate.
+Ora, para a concessão do indulto, é necessário o preenchimento dos requisitos previstos no Decreto Presidencial n. 11.302/22. Já o referido decreto, bem verdade, prevê o requisito objetivo para a concessão do indulto nos seguintes termos:
+"Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+Parágrafo único. Para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal."
+Como amplamente consabido, o indulto e a comutação de penas, instrumentos de política criminal à disposição do Poder E xecutivo, submetem-se aos requisitos expressamente previstos no decreto presidencial regulador do benefício.
+Consoante a jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido, sob pena de ofensa ao princípio da legalidade.
+Nesse sentido:
+"Na dicção do Supremo Tribunal Federal, a concessão de indulto natalino é um instrumento de política criminal e carcerária adotada pelo Executivo, com amparo em competência constitucional, e encontra restrições apenas na própria Constituição que veda a concessão de anistia, graça ou indulto aos crimes de tortura, tráfico de drogas, terrorismo e aos classificados como hediondos. No julgamento da ADI 5.874, na qual se deliberava sobre a constitucionalidade do Decreto n. 9.246/2017, o plenário do Supremo Tribunal Federal, por maioria, afirmou a "Possibilidade de o Poder Judiciário analisar somente a constitucionalidade da concessão da clementia principis, e não o mérito, que deve ser entendido como juízo de conveniência e oportunidade do Presidente da República, que poderá, entre as hipóteses legais e moralmente admissíveis, escolher aquela que entender como a melhor para o interesse público no âmbito da Justiça Criminal". Secundando tal orientação, esta Corte vem entendendo que "O indulto é constitucionalmente considerado como prerrogativa do Presidente da República, podendo ele trazer no ato discricionário e privativo, as condições que entender cabíveis para a concessão do benefício, não se estendendo ao judiciário qualquer ingerência no âmbito de alcance da norma" (AgRg no HC n. 417.366/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/11/2017, DJe de 30/11/2017.) (..)" (AgRg no HC n. 824.625/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/6/2023, grifei).
+Portanto, uma vez não preenchidos os requisitos iniciais expressamente previstos no Decreto Presidencial nº 11.302/22, inviável é a concessão do indulto.
+No caso concreto, o paciente foi condenado pela prática do crime previsto no art. 334-A, § 1º, I, e § 3º do Código Penal, cuja pena máxima abstrata chega a 10 anos de reclusão:
+"Contrabando
+Art. 334-A. Importar ou exportar mercadoria proibida:
+Pena - reclusão, de 2 (dois) a 5 ( cinco) anos.
+§ 1º Incorre na mesma pena quem:
+I - pratica fato assimilado, em lei especial, a contrabando;
+(..)
+§ 3º A pena aplica-se em dobro se o crime de contrabando é praticado em transporte aéreo, marítimo ou fluvial."
+Assim, ao contrário do aqui pretendido, tem-se que as causas de aumento, diferentemente das agravantes, devem ser levadas em conta no momento da verificação do preenchimento dos requisitos para a concessão do indulto, já que ínsitas ao tipo penal, integrando o preceito secundário do tipo penal.
+Tudo o que já foi muito bem elucidado pelo Em. Min. Joel Ilan Paciornik, em decisão monocrática de 29/11/2023, no RHC n. 185.040/SP, quando discorreu sobre a incidência das majorantes nesta análise, vejamos:
+"Mutatis mutandis, no mesmo sentido, asseverou a Quinta Turma do STJ que "a prescrição da pretensão punitiva com base na pena em abstrato, considera o máximo do preceito secundário da norma como referência temporal para cálculo do lapso prescricional. A causa de aumento ou de diminuição da pena interferem na fixação da referência temporal" (HC n. 422.323/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/6/2019, DJe de 25/6/2019).
+Destaca-se, ainda, o entendimento sumulado por esta Corte no enunciado n. 243, o qual prescreve que: "o benefício da suspensão do processo não é aplicável em relação às infrações penais cometidas em concurso material, concurso formal ou continuidade delitiva, quando a pena mínima cominada, seja pelo somatório, seja pela incidência da majorante, ultrapassar o limite de um (01) ano".
+Assim, a pena máxima em abstrato cominada ao delito já impediria a benesse por falta de requisito objetivo, de forma o debate aqui almejado, além de despiciendo, se tornou prejudicado.
+Ante o exposto, denego o presente o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
