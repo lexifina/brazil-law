@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF contra decisão monocrática de relatoria da Presidência do STJ que não conheceu do agravo em recurso especial interposto pelo ora embargante em razão da incidência da Súmula n. 182/STJ (fls. 1.520-1.522).
+O embargante alega que "inexiste o fundamento de o recurso está em "consonância do acórdão recorrido com jurisprudência do STJ" na decisão que não admitiu o recurso especial, restando enfrentados, nas razões do agravo em recurso especial, conforme exposto pela própria decisão embargada, todos os fundamentos da decisão do juízo de admissibilidade" (fl. 1.527).
+Requer a reforma da decisão embargada para afastar a Súmula n. 182/STJ a fim de que seja julgado e provido o recurso especial com base na jurisprudência do STJ e do STF quanto à incompetência da Justiça do Trabalho para julgar matéria previdenciária (CC n. 148.647 - RSe RE n. 1.242.250/SP).
+É, no essencial, o relatório.
+Assiste razão ao embargante, porquanto todos os fundamentos da decisão que não admitiu o recurso especial foram devidamente impugnados nas razões do agravo em recurso especial.
+Assim, passo à análise do agravo.
+Nas razões do recurso especial, a FUNCEF alega violação do art. 113 do Código Civil, e aduz que a CTVA não estaria prevista no regulamento do plano do qual participa o servidor, demandante. Ressalta que " ainda que a Justiça do Trabalho reconheça a natureza salarial da verba CTVA (o que se admite apenas a título de argumentação), não haverá qualquer diferença no benefício autoral. Isso porque, no contrato firmado entre as partes (o próprio regulamento do plano), não há a previsão de inclusão da verba CTVA." (fl. 1.271).
+Aponta, ainda, violação do art. 4º da do CPC, visto que "principalmente em virtude do fato de que independentemente de sua natureza a verba CTVA não integra o salário de participação à Funcef por falta de previsão regulamentar, a remessa dos autos á Justiça do trabalho é completamente desnecessária e tomará ANOS para que tenha decisão definitiva -afrontando indiscretamente o princípio da celeridade processual previsto no artigo 4º do Código de Processo Civil (Lei 13.105/2015)."
+Sustenta, ainda, divergência jurisprudencial entre o acórdão recorrido e aresto desta Corte.
+Embora presentes os requisitos de admissibilidade do agravo, não merece prosperar o recurso especial pelas mesmas razões já consideradas no juízo de admissibilidade.
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem não analisou a controvérsia à luz dos arts. 4º do CPC e 113 do CC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadm issível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Neste sentido:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Ademais, a recorrente deixou de impugnar o fundamento do acórdão recorrido segundo o qual "considerando a natureza eminentemente trabalhista da causa de pedir e dos pedidos em relação à empregadora, resta configurada a competência da Justiça do Trabalho para conhecer e julgar a demanda" , o que atrai a incidência da Súmula n. 283 do STF.
+Por fim, vale lembrar que "A falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado." (AgInt no REsp n. 2.041.495/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para conhecer do agravo e não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
