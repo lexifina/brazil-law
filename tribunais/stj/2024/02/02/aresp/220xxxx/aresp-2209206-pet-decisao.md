@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de petição de MARCELO MENDES FERREIRA (e-STJ, fls. 13719-13744), requerendo o aditamento ao agravo regimental, a fim de incluir pedido de reconhecimento da nulidade absoluta do ato judicial que determinou a citação, unicamente por edital e, validou a citação pessoal na figura do advogado constituído na fase do inquérito policial.
+Aponta violação aos artigos 351 e seguintes, 366 e 564, III, do CPP.
+Relata que no mandado de citação foi consignado que o requerente se encontrava em local incerto e não sabido.
+Afirma que "a motivação contida no edital, no sentido de que o réu se encontrava em local desconhecido, é contrária ao contido na decisão que determinou sua expedição, com a finalidade, exclusiva, de evitar eventual alegação de nulidade processual."
+Ressalta que "há evidente contradição entre a motivação contida no edital de citação e a motivação do ato judicial que determinou sua expedição."
+Assevera que não foram realizadas diligências visando a localização ora requerente.
+Complementa que não há "qualquer comprovação que o denunciado teve plena ciência das imputações, como não há nova outorga de instrumento de mandado, concedendo poderes ao advogado para atuação na ação penal."
+Assim, pretende o reconhecimento da nulidade absoluta deste ato e dos subsequentes, diante da violação ao princípio da ampla defesa.
+É o relatório.
+Decido.
+Conforme se observa, a tese de ofensa ao disposto nos artigos 351 e seguintes, 366 e 564, III, do CPP, não foi apreciada pela Corte de origem.
+Como se sabe, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+A propósito, não é outro o teor do enunciado 282 da Súmula do STF "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, o enunciado 356 da Súmula do STF.
+Ademais, mesmo as matérias de ordem pública devem ser previamente submetidas às instâncias ordinárias para serem enfrentadas na via especial.
+Logo, inviável o enfrentamento dos temas por esta Corte Superior, ante a ausência de prequestionamento, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO DOMICILIAR E INVASÃO DE DOMICÍLIO. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA A ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. Em que pesem os argumentos apresentados pelo agravante, a decisão ser mantida por seus próprios fundamentos. 2. As questões relativas à prisão domiciliar e à nulidade decorrente da suposta violação de domicílio, não foram enfrentada pelo TJ/RS, de sorte que esta Corte Superior está impedida de pronunciar-se sobre referidos temas, sob pena de atuar em indevida supressão de instância.  ..  7. Agravo regimental desprovido." (AgRg no RHC n. 171.409/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO E MINORANTE DO TRÁFICO PRIVILEGIADO. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. 1. As teses deduzidas nas razões do habeas corpus - nulidade das provas obtidas com violação de domicílio e necessidade de reconhecimento do tráfico privilegiado - não foram objeto de análise pelo Tribunal de origem e sequer suscitadas no recurso de apelação, configurando supressão de instância. Além disso, não se verifica qualquer ilegalidade na fundamentação empregada pelo juízo sentenciante para afastar a minorante do tráfico, pois indicados elementos concretos dos autos aptos a evidenciar a dedicação à atividade criminosa. 2. Agravo regimental improvido." (AgRg no HC n. 756.677/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Diante do exposto, indefiro o pedido.
+Publique-se. Intime-se.
+ EMENTA
