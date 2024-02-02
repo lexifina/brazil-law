@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por DOLORES VIRGÍNIA VIEIRA DO ROSÁRIO e OUTROS com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pela Vigésima Sétima Câmara de Direito Privado do Tribunal de Justiça de São Paulo (e-STJ, fl. 335):
+APELAÇÃO - Locação de imóvel para fins residenciais - Ação de despejo por falta de pagamento cumulada com cobrança de aluguéis - Sentença de procedência - Insurgência dos locatários - Efeito suspensivo denegado - Artigo 58, inciso V, do Código de Processo Civil - Inexistência de risco de grave dano e relevância no fundamento jurídico apresentado pela parte recorrente - Alegação de inépcia da petição inicial - Não ocorrência - Instrumento contratual que, embora relevante, não constitui documento obrigatório - Possibilidade de juntada após a propositura da petição inicial - Desnecessidade do locador ser proprietário do imóvel objeto da locação - Sucessão processual causa mortis que não configura alteração de causa de pedir ou pedido para fins de aplicação do disposto no artigo 329, inciso II, do Código de Processo Civil - Sentença mantida - Recurso DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 355-370), os recorrentes apontaram violação aos arts. 18, 329, II, e 330, § 1º, do CPC/2015.
+Suscitaram a ilegitimidade ativa na medida que, quando da propositura da demanda, o recorrido não possuía legitimidade para representar os interesses do espólio e que, por isso, não era legítimo em requerer em nome próprio direito alheio.
+Apontaram a inépcia da petição inicial, pois, quando do ajuizamento da ação, o autor deixara de incluir a discriminação dos valores cobrados, como também não incluíra a cópia do contrato de aluguel objeto da ação.
+Afirmaram que não manifestaram expressamente em sentido contrário em não concordar com o aditamento da petição inicial.
+Alegaram, por fim, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 402-407 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 408-410), o que ensejou a interposição do presente agravo (e-STJ, fls. 413-425).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, no que tange à alegada violação ao art. 18 do CPC/2015 (legitimidade extraordinária), nota-se que a Corte de origem não se pronunciou sobre as matérias alvo do reclamo, tampouco foram opostos os embargos de declaração para tal finalidade, deixando de cumprir a condição do prequestionamento.
+Em verdade, dada a natureza vinculada e excepcional do recurso especial, o qual é vocacionado à tutela do direito objetivo federal, o prequestionamento é requisito indispensável e inarredável para o acesso do reclamo à via especial, sendo que o descumprimento obsta, como na hipótese dos autos, o seu conhecimento e processamento por incidência dos enunciados das Súmulas n. 282 e 356/STF.
+Ilustrativamente (sem grifo no original):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. DANOS MORAIS. INDENIZAÇÃO. SÚMULA 7/STJ.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.363.775/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023.)
+Em relação à ausência de juntada da cópia do contrato de locação, o Tribunal de origem consignou que (i) o aludido instrumento não era obrigatório para a propositura da ação e que (ii) a juntada poderia ocorrer em momento posterior, desde que não importasse prejuízo à ampla defesa e contraditório da parte ex adversa.
+Veja-se (e-STJ, fls. 337):
+A ausência da cópia do instrumento contratual de locação não conduz à inépcia da petição inicial. Em que pese sua relevância, não se trata de documento indispensável à propositura da ação, posto que a Lei de Locações não eleva o documento ao patamar de indispensável e a sua juntada pode ocorrer em momento posterior ao da propositura da ação, desde que não importe em prejuízo à ampla defesa e contraditório da parte contrária.
+Ocorre que os recorrentes deixaram de rebater todos os fundamentos da decisão recorrida.
+Com efeito, nos termos da jurisprudência deste Superior Tribunal, não se conhece do recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o reclamo não abrange todos eles, incidindo, por analogia, o óbice da Súmula n. 283/STF.
+Ilustrativamente (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO NÃO DEMONSTRADO. DECISÃO MANTIDA.
+1. Ação Declaratória de Inexistência de Contrato c/c Repetição de Indébito e Indenização por Danos Morais.
+2. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Ausente a impugnação aos fundamentos do acórdão, incide a Súmula 283/STF.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.183.504/CE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+Quanto à necessidade da concordância para o aditamento da petição inicial, a Corte de origem assim se manifestou (e-STJ, fl. 338):
+Ressalto ainda que o consentimento a que aludem os apelantes para o recebimento de emenda ou aditamento à petição inicial (artigo 329,inciso II, do Código de Processo Civil) diz respeito a alterações de pedido ou causa de pedir e não engloba situações de regularização processual, como a sucessão causa mortis, como na hipótese concreta.
+Feitas estas observações, não vislumbro error in procedendo que justifique a anulação da sentença, que ora fica mantida.
+Nos termos da jurisprudência desta Corte, em homenagem ao princípio da instrumentalidade das formas, é admitida a emenda da petição inicial após a citação e a apresentação de contestação pelo réu, inclusive para a modificação das partes, desde que essa emenda não modifique o pedido ou a causa de pedir, acarretando prejuízo efetivo à sua defesa do réu primitivo.
+Nesse sentido (sem grifo no original):
+DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. SEQUESTRO DE BENS DECRETADO PELO JUÍZO CRIMINAL. DEPÓSITO EM MÃOS DA VÍTIMA, PESSOA JURÍDICA, QUE PERDUROU POR QUASE 17 ANOS. EXTINÇÃO DA PRETENSÃO PUNITIVA PELA PRESCRIÇÃO. RESTITUIÇÃO DOS BENS EM ESTADO PRECÁRIO. RECURSO ESPECIAL RETIDO. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AÇÃO AJUIZADA POR SOCIEDADE EMPRESÁRIA EXTINTA. ILEGITIMIDADE. MODIFICAÇÃO DO POLO ATIVO APÓS A CITAÇÃO. POSSIBILIDADE. INCLUSÃO DO EX-SÓCIO. LIMITAÇÃO DA INDENIZAÇÃO NA PROPORÇÃO DE SUA PARTICIPAÇÃO NO CAPITAL SOCIAL. RECURSO ESPECIAL CONTRA A SENTENÇA DE MÉRITO. VALOR DA INDENIZAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+ ..
+6. Segundo a jurisprudência desta Corte, em homenagem aos princípios da efetividade do processo, da economia processual e da instrumentalidade das formas, é admissível a emenda à petição inicial para a modificação das partes, sem alteração do pedido ou da causa de pedir, mesmo após a contestação do réu. Precedentes.
+7. Hipótese dos autos em que, desde o protocolo da petição inicial, estava patente a ilegitimidade ativa da sociedade empresária, porquanto já extinta anos antes, como atestado pelos documentos anexados à peça.
+8. Contexto em que cabia ao juiz, à primeira leitura da exordial, ter determinado a retificação do polo ativo, com vistas a possibilitar o regular processamento da demanda. Como não o fez, abriu-se para a parte ré a possibilidade de suscitar o vício em sua contestação, circunstância que, todavia, não é capaz de justificar a prematura extinção do processo quanto ao direito material vindicado.
+9. A isso se acrescenta a ausência de prejuízo à ré, haja vista que, em não se tratando de hipótese de alteração do pedido ou da causa de pedir, suas razões de defesa, tanto fáticas como jurídicas, permanecem hígidas e absolutamente pertinentes, quer conste no polo ativo a sociedade ou o seu ex-sócio.
+ ..
+(REsp n. 1.826.537/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/5/2021, DJe de 14/5/2021.)
+Nesse contexto, incide o enunciado da Súmula n. 83/STJ, pois o fundamento da decisão se encontra em consonância com o entendimento jurisprudencial desta Corte Superior.
+Por fim, o recurso especial não pode ser conhecido com fundamento no artigo 105, III, c, da Constituição Federal, pois a parte recorrente não comprovou a divergência jurisprudencial, visto que não foi cumprido nenhum dos requisitos previstos nos artigos 1.029, § 1º, do Código de Processo Civil de 2015, e 255, § 1º, do Regimento Interno desta Corte.
+Ilustrativamente (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NÃO CABIMENTO. RESPONSABILIDADE CIVIL NÃO DEMONSTRADA. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 do Superior Tribunal de Justiça).
+2. Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos artigos 1.029, § 1º, do Código de Processo Civil de 2015, e 255, § 1º, do Regimento Interno desta Corte. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.892.888/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Deixo de majorar os honorários sucumbenciais em favor dos advogados da parte recorrida, tendo em vista que estes já foram fixados no valor máximo pela instância ordinária, nos termos do art. 85, § 11, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. 1. LEGITIMIDADE EXTRAORDINÁRIA. ART. 18 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 2. AUSÊNCIA DE JUNTADA DA CÓPIA DO CONTRATO. SÚMULA N. 283/STF. 3. NECESSIDADE DE CONCORDÂNCIA DO RÉU PARA O ADITAMENTO DA PETIÇÃO INICIAL. FUNDAMENTO DA DECISÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. 4. DISSÍDIO JURISPRUDENCIAL. DESCUMPRIMENTO DOS REQUISITOS DO 1.029, § 1º, DO CPC/2015. 5. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
