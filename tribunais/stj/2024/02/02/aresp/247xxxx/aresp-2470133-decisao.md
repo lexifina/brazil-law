@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto pelo BAR CLUB SHOWS EIRELI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 295):
+APELAÇÃO CÍVEL. AÇÃO DE DESPEJO C/C COM COBRANÇA. PRODECÊNCIA DOS PEDIDOS EXORDIAIS. 1. ALEGAÇÃO EM CONTRARRAZÕES DE PRECLUSÃO TEMPORAL QUANTO À DECRETAÇÃO DA REVELIA. DESCABIMENTO DA INSURGÊNCIA PELA VIA DO AGRAVO DE INSTRUMENTO. PRELIMINAR REJEITADA. 2. NULIDADE DE CITAÇÃO. INOCORRÊNCIA. DILIGÊNCIA REALIZADA POR CARTA. AVISO DE RECEBIMENTO ASSINADO PELO SÓCIO DA EMPRESA APELANTE. 3. INTIMAÇÃO E NOVA CITAÇÃO POR OFICIAL DE JUSTIÇA REQUERIDA PELA PARTE AUTORA QUE NÃO SE PERFECTIBILIZOU E FOI INCAPAZ DE CAUSAR PREJUÍZO À RÉ. 4. DECRETAÇÃO DA REVELIA EM CONFORMIDADE COM OS DITAMES LEGAIS. AUSÊNCIA DE NULIDADE A SER RECONHECIDA. 5. RECURSO CONHECIDO E NÃO PROVIDO.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que o acórdão violou os arts. 238 e 239, do Código de Processo Civil.
+Sustenta que "Na ausência de citação válida, violou-se o art. 239 do CPC, razão pela qual a decisão recorrida ao não reconhecer da invalidez da citação, contrariou lei federal e ainda, deu ao respectivo dispositivo de lei federal, interpretação divergente das de outros tribunais, razão pela qual deve ser reformada." (fl. 195)
+Aponta divergência jurisprudencial.
+Requer a concessão de efeito suspensivo ao recurso especial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 204-210).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 211-212), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 227-232).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Quanto à alegada nulidade da citação, assim constou no acórdão recorrido (fl. 299):
+Em suas razões recursais, a apelante ressalta a ausência de citação válida no processo de origem, culminando em cerceamento de defesa, ante a decretação de revelia. Diante disso, impugna a decisão exarada ao mov. 50.1, a qual decretou a revelia da parte, nos termos do art. 344, do Código de Processo Civil.
+Contudo, sem razão a apelante em seus argumentos.
+Nos autos de origem, foi expedida a citação por A. R no dia 14.03.2022 (mov. 28.1), sendo efetivada no dia 22.03.2022 (mov. 36.1). Observa-se que o aviso de recebimento foi assinado por Hetori Felipe Crusco:
+ ..
+De acordo com a alteração contratual anexada aos autos pela agravante (mov. 49.3),verifica-se que o Sr. Hetori é um dos sócios da empresa Love Story Karaok e Rebouças Eireli, cujo CNPJ é o mesmo da empresa apelante, alterando-se apenas a razão social.
+Sabe-se que, pela teoria da aparência, considera-se válida a citação realizada na filial da pessoa jurídica, não se exigindo que o recebedor do mandado detenha poderes específicos para isso. Dessa forma, mesmo que um funcionário que estivesse no local recebesse a citação, ela seria igualmente considerada válida. No caso, o próprio sócio do estabelecimento comercial recebeu a citação, feita no endereço da pessoa jurídica, tomando conhecimento da demanda instaurada em face da ora apelante, porém quedou-se inerte nos autos.
+ ..
+Além disso, verifica-se que houve acordo realizado entre as partes para a entrega das chaves e desocupação voluntária do imóvel, conforme se extrai do documento colacionado ao mov. 44.2. Portanto, não há que se falar em desconhecimento dos trâmites da demanda originária. Até mesmo porque a decretação da revelia não impede que o réu participe do processo e produza provas.
+Dessa forma, tendo em vista que o próprio sócio da empresa recebeu o A. R. de citação, considera-se ato perfeitamente válido, uma vez que realizado nos exatos termos da Lei.
+Ainda, conquanto tenha havido a expedição de intimação e nova citação via oficial de justiça ao mov. 37.1, verifica-se que sequer foi perfectibilizada, tendo em vista seu retorno negativo ao mov. 39.1. Sendo assim, a diligência não trouxe nenhuma consequência negativa à parte, tendo em vista que a apelante já tinha conhecimento da demanda e permaneceu inerte nos autos.
+A revisão da matéria, conforme pretendido pela parte agravante, para que se entenda pela ocorrência de nulidade da citação, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CONTRADIÇÃO INTERNA. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. NULIDADE DA CITAÇÃO. RECONHECIMENTO. REEXAME DE FATOS E PROVAS. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o Tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos.
+3. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido expressamente enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula 211 do STJ.
+4. No caso, o Tribunal de origem reconheceu a nulidade da citação de pessoa incapaz no processo que deu origem ao acórdão rescindido, no qual veio a ser condenada em elevado valor indenizatório, por revelia, declinando as circunstâncias fáticas que amparam sua conclusão, em especial quanto à existência de mera posterior intimação por nota de procurador sem poderes para receber citação. A modificação do resultado do julgamento demandaria, portanto, o afastamento dessas circunstâncias mediante o reexame de fatos e provas, o que, em regra, escapa aos limites do recurso especial (Súmula 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.154.484/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/12/2023, DJe de 18/12/2023.)
+RECURSO ESPECIAL. AÇÃO REVISIONAL. LOCAÇÃO NÃO RESIDENCIAL DE IMÓVEL URBANO PARA FINS DE INSTALAÇÃO E MANUTENÇÃO DE TORRE DE TELEFONIA MÓVEL. PRELIMINAR. NULIDADE DO LAUDO PERICIAL. AFASTADO PELO TRIBUNAL DE ORIGEM. FUNDAMENTAÇÃO ADEQUADA E SUFICIENTE. SÚMULA 7/STJ. ART. 69 DA LEI Nº 8.245/91. VALOR DO ALUGUEL DEFINITIVO QUE RETROAGE À DATA DA CITAÇÃO. PREVISÃO EXPRESSA. CORREÇÃO MONETÁRIA. ÍNDICES POSITIVOS E NEGATIVOS. POSSIBILIDADE. PRETENSÃO DO RECORRENTE DE REAJUSTAR O VALOR ANUALMENTE. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação revisional de aluguel, ajuizada em 13/1/2014, da qual foi extraído o presente recurso especial, interposto em 6/2/2023 e concluso ao gabinete em 27/6/2023.
+2. O propósito recursal consiste em decidir se, de acordo com o art. 69 da Lei nº 8.245/91, é possível reduzir o valor do locativo pelos índices negativos de correção monetária, em razão do transcurso de grande lapso temporal entre a citação e a data da avaliação do imóvel pela perícia.
+3. Preliminar afastada. Rever as conclusões acerca da inocorrência de nulidade do laudo pericial, nos moldes como ora deduzida, demanda o reexame de fatos e provas, o que é vedado em sede de recurso especial em razão do óbice da Súmula 7/STJ.
+4. O art. 69 da Lei nº 8.245/1991 não deixa margem ao intérprete: "o aluguel fixado na sentença retroage à citação, e as diferenças devidas durante a ação de revisão, descontados os alugueres provisórios satisfeitos, serão pagas corrigidas, exigíveis a partir do trânsito em julgado da decisão que fixar o novo aluguel".
+5. Desse modo, a pretensão de redução anual do valor definitivo do locativo - espécie de "escalonamento" do aluguel, em razão do transcurso de grande lapso temporal entre a citação e data da avaliação do imóvel - deve ser afastada, ante a expressa previsão legal de que "o aluguel fixado na sentença retroage à citação" (art.
+69 da Lei nº 8.245/1991).
+6. A impossibilidade de reajuste do locativo durante o curso da ação revisional não impede que os índices negativos (deflação) e positivos (inflação) de correção monetária sejam considerados no cálculo de atualização do crédito oriundo de título executivo judicial, ressalvada a prevalência do valor nominal se, ao final, houver redução do montante principal (Tema 678/STJ).
+7. Em virtude do exame do mérito, por meio do qual foram rejeitadas as teses sustentadas pelo recorrente, fica prejudicada a análise da divergência jurisprudencial.
+8. Recurso especial conhecido em parte e, nessa extensão, desprovido, com majoração de honorários.
+(REsp n. 2.082.255/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. SUCESSÕES. AGRAVO DE INSTRUMENTO. AÇÃO DE RESTITUIÇÃO DE VALORES. PROVENTOS PAGOS INDEVIDAMENTE. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ EXECUTIVIDADE. CITAÇÃO VÁLIDA. §4º DO ART. 248 DO CPC. LEGITIMIDADE DOS HERDEIROS. COISA JULGADA. VERBAS DE CUNHO SALARIAL. RECURSOS DE CADERNETA DE POUPANÇA INFERIORES A 40 SALÁRIOS-MÍNIMOS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem trata-se de agravo de instrumento, objetivando fosse declarada a nulidade da citação por edital da parte autora; acolhida a ilegitimidade passiva de 2 (dois) dos autores da ação; declarada a impenhorabilidade de valores mantidos em contas-salário; bem como, fosse extinto o feito originário sem resolução do mérito. No Tribunal a quo, o agravo foi improvido.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+(AgInt no AREsp n. 2.176.517/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, a análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. Julgo prejudicado o pedido de atribuição de efeito suspensivo ao recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
