@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por ANA LUIZA PALMA GUIMARAES ASSMANN, JOAO PIRES DE ARAUJO NETO, LISA MARIA PALMA GUIMARAES DE ARAUJO e MARIANA PALMA GUIMARAES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 260):
+Ação monitória - Cédula de crédito rural - Cerceamento de defesa não configurado - Matéria de direito - Apuração de eventual valor devido em sede de liquidação de sentença - Suficiência da prova documental para solução da lide - Desnecessidade de prova pericial. Juros remuneratórios pactuados em percentual inferior a 12% ao ano - Juros moratórios limitados ao percentual de 1% ao ano - Aplicação do art. 5º, do Dec.-Lei167/1967 - Abusividade inexistente. Capitalização de juros - Possibilidade - Aplicação do art. 5º, "caput", do Dec.-Lei167/1967 e da Súm. 93, do STJ - Existência de cláusula expressa autorizando a capitalização - Recurso não provido.
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas no art. 369 do CPC, sob o argumento de que o julgamento antecipado da lide gerou cerceamento de defesa, pugnando pela decretação da nulidade da r. sentença e do v. acórdão.
+Foram oferecidas contrarrazões ao recurso especial (fls. 355-372).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 393-395), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 430-433).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal a quo, quanto ao alegado cerceamento de defesa, assim se pronunciou (fls. 259-265):
+Preambularmente cabe afastar a alegação de cerceamento de defesa e necessidade de realização de perícia contábil. É que eventual reconhecimento de abusividade por parte do banco levaria à apuração de valores indevidamente recebidos por meio de liquidação de sentença. As questões controvertidas podem ser solucionadas independentemente de outras provas, além da documental já colacionada pelas partes, como adiante ficará demonstrado.
+É certo que, de acordo com o que preconiza o artigo 370 e seu parágrafo único, do Código de Processo Civil:
+ ..
+O artigo 371, acima reproduzido, expressa a regra do livre convencimento do juiz, segundo a qual ele deve formar a sua convicção racional e motivadamente à luz dos autos.
+É possível admitir em situações como a ora apreciada, em que se está apenas discutindo a legalidade de encargos contratuais, que o convencimento do julgador se forme com base exclusivamente nos elementos probatórios constantes dos autos, independentemente da realização de outras provas, inclusive a pericial.
+ ..
+Ora, se mesmo quando realizada a prova pericial, o julgador não fica adstrito ao contido no laudo podendo, nos termos do artigo 471, do Código de Processo Civil, formar sua convicção com base em outros elementos constantes dos autos, com maior razão pode fazê-lo quando não considere imprescindível a realização da referida prova para tanto.
+Nesse caso, vê-se que o acórdão encontra-se alinhado com a jurisprudência desta Corte superior no sentido de que, por ser o destinatário das provas, cabe ao magistrado apreciar a necessidade de sua produção ou indeferir aquelas consideradas inúteis ou protelatórias. Assim, o julgamento antecipado da lide sem a produção da prova pleiteada pela parte, considerada desnecessária pelo juízo, desde que devidamente fundamentado, não configura o cerceamento de defesa.
+Assim, cito a ementa do julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO A NORMA E PRINCÍPIO CONSTITUCIONAL. IMPOSSIBILIDADE NA VIA ESPECIAL. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE E INDEFERIMENTO DE PROVA TESTEMUNHAL. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AUSÊNCIA DE REVALORAÇÃO DA PROVA. JUROS. PREVISÃO CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA N. 5/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante regra estabelecida no art. 105 da Constituição Federal, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+2. Por ser o destinatário das provas, cabe ao magistrado apreciar a necessidade de sua produção, ou indeferir aquelas consideradas inúteis ou protelatórias.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, o julgamento antecipado da lide sem a produção da prova pleiteada pela parte, considerada desnecessária pelo juízo, desde que devidamente fundamentado, não configura o cerceamento de defesa.
+4. A pretensão recursal cuja finalidade é dirigida à reapreciação de fatos e provas não comporta a interposição de recurso especial, pois este instrumento é vocacionado à tutela do direito objetivo federal.
+5. Tendo a Corte de origem constatado a previsão expressa de capitalização de juros no contrato, este Superior Tribunal fica impedido de proceder à interpretação das cláusulas contratuais, porquanto tal providência é inviável na esfera especial. Súmula n. 5/STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.357.303/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO NEGATÓRIA DE PATERNIDADE C/C ANULAÇÃO DE REGISTRO DE NASCIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JULGAMENTO ANTECIPADO DO MÉRITO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. LIVRE CONVENCIMENTO MOTIVADO. SUFICIÊNCIA DAS PROVAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DOS ARTS. 1.601 E 1.604 DO CC. RAZÕES RECURSAIS DISSOCIADAS DA REALIDADE DOS AUTOS E QUE NÃO IMPUGNAM TODOS OS FUNDAMENTOS SUFICIENTES DISPOSTOS NO ACÓRDÃO RECORRIDO. SÚMULAS 284 E 283 DO STF. VIOLAÇÃO DO ART. 85, §§ 8º E 11, DO CPC. CORRETA UTILIZAÇÃO DO CRITÉRIO DA EQUIDADE. VALOR DA CAUSA MUITO BAIXO E INESTIMÁVEL PROVEITO ECONÔMICO. REVISÃO DO VALOR ARBITRADO. VEDAÇÃO. SÚMULA 7/STJ.
+1. Não ocorrência de negativa de prestação jurisdicional quando as teses aduzidas pela parte não são acolhidas, sobretudo porque abordados no acórdão recorrido todos os pontos relevantes para respaldar a conclusão alcançada.
+2. Segundo a orientação jurisprudencial do STJ, não configura cerceamento de defesa o julgamento da causa sem a produção de outras provas, quando o Tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+3. Observância, no caso, do princípio da persuasão racional, que orienta o sistema processual civil brasileiro, segundo o qual ao magistrado é permitido formar a sua convicção em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento.
+4. Inviabilidade de alterar o entendimento das instâncias ordinárias, que justificadamente dispensaram a necessidade de dilação probatória e de que ficou caracterizada a relação socioafetiva, por demandar o reexame do acervo fático-probatório dos autos, providência inviável, ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7 do STJ.
+5. Razões recursais acerca da violação do art. 1.601 Código Civil completamente dissociadas da realidade dos autos, pois este dispositivo legal trata, exatamente, da legitimidade para contestar a paternidade dos filhos, atraindo o óbice da Súmula n. 284/STF.
+6. Fundamentos do acórdão recorrido suficientes para a manutenção, por si sós, da conclusão do julgado que não foram impugnados nas razões recursais, fazendo incidir o óbice da Súmula 283/STF.
+7. Correção da utilização do critério da equidade para o arbitramento dos honorários advocatícios no presente caso, tendo em vista o baixo valor da causa ou o inestimável proveito econômico obtido, consoante decidido pela Segunda Seção do STJ nos autos do REsp 1.746.072/PR.
+8. Impossibilidade de revisão do quantum dos honorários advocatícios, em razão da Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.015.963/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+Ademais, revisar se seria necessária a produção probatória para o convencimento do magistrado requer a necessária incursão na seara fático-probatória, o que se sabe ser vedado ao STJ, em recurso especial, pelo óbice da Súmula 7/STJ.
+A propósito, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. INVALIDEZ PERMANENTE DO MUTUÁRIO. QUITAÇÃO DO SALDO DEVEDOR. LEGITIMIDADE PASSIVA DA SEGURADORA DO SEGURO OBRIGATÓRIO. CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. SÚMULA Nº 7 DO STJ. TERMO INICIAL DO PRAZO PRESCRICIONAL. CIÊNCIA INEQUÍVOCA DA INVALIDEZ. SÚMULA Nº 7 DO STJ.
+1. A Seguradora do seguro obrigatório é parte legítima para ações que envolvem indenização securitária nos casos de imóvel financiado pelo SFH em hipótese de morte ou invalidez do segurado. Precedentes.
+2. Na linha dos julgados desta Corte, a alegação de cerceamento de defesa pelo julgamento antecipado da lide sem produção de provas esbarra na Súmula nº 7 do STJ.
+3. Impossível modificar as conclusões do Tribunal Regional acerca da data em que o autor teve ciência de sua invalidez permanente, para efeito de contagem do prazo prescricional, sem revisar fatos e provas, o que veda a Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.574.449/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial .
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
