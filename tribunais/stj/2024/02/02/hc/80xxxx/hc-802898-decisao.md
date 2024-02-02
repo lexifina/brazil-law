@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de CESAR AUGUSTO NADER GONCALVES MARQUES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP no julgamento do HC n. 2233112- 73.2022.8.26.0000.
+Extrai-se dos autos que o paciente foi preso preventivamente por ter supostamente praticado o delito tipificado no art. 35 c/c art. 40, incisos V e VI, da Lei n. 11.343/2006 (associação ao narcotráfico).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão de fls. 116/132.
+No presente writ, aduz nulidade das provas, uma vez que a autoridade policial teria agido de forma a manipular os elementos probatórios a fim de incriminar o paciente. Afirma que houve filtragem das escutas interceptadas além de vazamento dos dados obtidos, uma vez que foram compartilhados com terceiros e pretensas testemunhas antes mesmo de seus depoimentos.
+Enfatiza que as declarações prestadas por testemunhas não condizem com a realidade dos fatos.
+Pondera que o paciente encontra-se acautelado há 14 meses.
+Alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal - CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Destaca que sentença condenatória proferida há mais de 5 anos não seria motivação hábil a justificar a prisão preventiva.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Enfatiza ofensa ao art. 316, parágrafo único, do CPP, uma vez que passados mais de 90 dias sem que tenha sido reavaliada a necessidade da segregação antecipada.
+Destaca as condições pessoais favoráveis do paciente.
+Requer, liminarmente e no mérito, seja reconhecida a ilicitude das provas bem como revogada a prisão preventiva.
+O pedido liminar foi indeferido (fls. 193/195).
+Informações prestadas (fls. 201/222 e 224/244).
+Pedido de reconsideração da decisão que indeferiu o pedido liminar, indeferido (fl. 252). Agravo regimental interposto contra a decisão que indeferiu o pleito liminar, não foi conhecido (fls. 264/265).
+Petição de fls. 275/277, requerendo celeridade na apreciação do presente mandamus.
+O MINISTÉRIO PÚBLICO FEDERAL opinou pela denegação da ordem de habeas corpus (fls. 278/282).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, no presente writ, o reconhecimento de ilicitude das provas e a revogação da custódia cautelar do paciente.
+Inicialmente, com relação à alegação de nulidade das provas, verifica-se que o TJSP deixou de apreciar a tese sob a alegação de que o pleito demanda a análise aprofundada do conjunto probatório. Desse modo, esta Corte Superior fica impedida de manifestar-se sobre o tema, sob pena de incidir em indevida supressão de instância.
+Ademais, ao afirmar que "eventuais vícios ocorridos no inquérito policial, diante do seu caráter meramente informativo, a esta altura, já estariam sanados" (fl. 120), o acórdão impugnado alinha-se à jurisprudência desta Corte, firmada no sentido de que "Os vícios ocorridos na primeira fase da persecução não maculam nem inviabilizam o exercício da ação penal. Isto porque o inquérito policial é peça meramente informativa, na qual não se produzem provas, mas apenas são amealhados elementos informativos com o objetivo de dar suporte ao órgão acusador para eventual oferecimento de denúncia. De tal forma, esta Corte Superior de Justiça possui entendimento pacífico no sentido de que eventuais irregularidades ocorridas no inquérito policial não contaminam a ação penal" (AgRg no RHC n. 181.767/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2023).
+Por outro lado, sobre a prisão cautelar, o Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando sua natureza excepcional, somente se verifica a possibilidade da imposição e manutenção da prisão preventiva quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a propensão do agente à contumácia delitiva, uma vez que o Paciente ostenta maus antecedentes, pois "condenado nos autos da Ação Penal nº 0000074- 81.2017.8.26.0059, que tramitou nesta Comarca, às penas de um ano e oito meses de reclusão, três meses e quinze dias de detenção, ambos em regime inicial aberto, e 500 dias-multa, por infração aos artigos 329 , caput c/c artigo 129, caput c/c artigo 69, caput todos do Código Penal e artigo 33, caput da Lei 11.343, de 2006" (fl. 202), tendo o TJSP mantido a segregação cautelar do Paciente, pois, de fato, verifica-se que há fundamentação suficientemente para justificar a prisão preventiva do paciente para a garantia da ordem pública.
+Por outro lado, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO afastou a tese de excesso de prazo na segregação cautelar do paciente, mediante a seguinte fundamentação:
+"Quanto ao alegado excesso de prazo na formação da culpa, tal análise deve ser feita à luz da razoabilidade e justificada pelas circunstâncias do caso concreto, não apenas tendo em mente a soma aritmética dos prazos processuais estabelecidos em lei.
+No caso dos autos, os Pacientes respondem a processo por infração aos art. 35 , caput , c.c. art. 40, V e VI, ambos da Lei nº 11.343/06 e, art. 29, caput, do Código Penal.
+Consta das Informações prestadas pela autoridade apontada como coatora, que:
+".. Em 03 de fevereiro de 2022 a Autoridade Policial distribuiu representação pela prisão preventiva do paciente e de outros envolvidos (1500058-77.2022.8.26.0059 - Pedido de Prisão Preventiva), pedido este, pertinente aos autos do inquérito policial.
+O Ministério Público, dia 08/02/2022, ofereceu denúncia em face do paciente e demais envolvidos, oportunidade em que se manifestou pela decretação da prisão preventiva do paciente e de outros investigados, assim como pela expedição de mandado de busca e apreensão.
+Pela decisão do dia 10 de fevereiro de 2022, foi decretada a prisão preventiva do paciente e de outros denunciados, assim como acolhido pedido de busca e apreensão em relação ao paciente e Bruno Garcia, vulgo "Bruninho".
+A denúncia foi recebida no dia 03 de junho de 2022, oportunidade em que foram designadas audiências ..
+As testemunhas acusatórias e defensivas, com exceção de duas testemunhas de defesa, foram ouvidas. As faltantes (Dinalva Henrique Pereira e Sérgio Wender Valim Marques) serão ouvidas no dia 27 de outubro de 2022, data esta já designada para a realização dos interrogatórios.
+Indeferido, também, pedido de revogação da prisão preventiva do paciente, porquanto não houve novos elementos nos autos a modificar a r. decisão proferida no dia 28/07/2022, em cumprimento ao disposto no parágrafo único do artigo 316 do Código de Processo Penal.
+Os autos aguardam a realização de entrevistas do paciente e demais corréus presos, com seus respectivos advogados, designadas para o dia 26 de outubro de 2022 e oitivas das duas testemunhas faltantes, assim como dos interrogatórios, designados para o dia 27 de outubro de 2022. .." (fls. 114/117).
+Aos 21.10.2022 foi reanalisada a necessidade da manutenção das prisões preventivas, e mantidas.
+Aos 27.10.2022 foi realizada a audiência de instrução e ao final a autoridade apontada como coatora abriu vistas ao MINISTÉRIO PÚBLICO para apresentação de Memoriais e, em seguida, para as defesas.
+Como se percebe, o trâmite do processo vem ocorrendo de forma regular e em tempo razoável, não havendo qualquer abuso ou ilegalidade por parte da autoridade apontada como coatora, que não colaborou, de forma deliberada, para eventual atraso, ao contrário, demonstra zelo pelo bom andamento processual e respeito às garantias processuais.
+ ..
+Importante ter em mente a realidade do nosso sistema judiciário que possui uma excessiva demanda de processos, constantemente crescente, fato, dentre outros, causador de grande volume de trabalho, principalmente nos juízos de Primeira Instância, motivo que, no caso concreto, justifica o atraso no encerramento do processo, mormente considerando a pluralidade de réus nos autos de origem.
+Assim, não se constatando qualquer abuso ou ilegalidade por parte da autoridade apontada como coatora, a ensejar o excesso de prazo na formação da culpa dos Pacientes, a pretensão não comporta acolhimento.
+Ademais, encerrada a instrução criminal, não há mais que se falar em excesso de prazo para a formação da culpa." (fls. 120/123).
+De fato, inexiste constrangimento ilegal por excesso de prazo, pois consoante se extrai das informações prestadas pelo juízo de origem, a prisão preventiva do paciente foi decretada em 10/02/2022, a denúncia foi recebida em 03/06/2022 e após a juntada de memoriais, os autos foram conclusos para sentença (fls. 203/204). Consultando o andamento processual da ação penal, verifica-se que em 14/03/2023 foi proferida sentença, condenando o paciente à pena de 04 (quatro) anos, 09 (nove) meses e 05 (cinco) dias de reclusão e 1111 (mil cento e onze) dias-multa, em regime inicial fechado.
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
