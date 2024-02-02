@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOILSON DE OLIVEIRA DOS SANTOS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada, em 26/9/2021, encontrando-se denunciado pela suposta prática dos delitos de tráfico de drogas e associação para o tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribuna a quo. A ordem foi denegada pela Corte de origem, em acórdão, às fls. 393-422
+No presente recurso, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Recorrente, apontando excesso de prazo para a formação da culpa.
+Requer a expedição de alvará de soltura em favor do Recorrente.
+Liminar indeferida, às fls. 461-462.
+O Ministério Público Federal, às fls. 471-473, opinou pelo desprovimento do recurso ordinário. Confira-se a ementa do parecer:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INOCORRÊNCIA. TRÂMITE REGULAR. SÚMULA 52/STJ. DESPROVIMENTO" (fl. 471).
+É o relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada:
+"Ressalte-se que, para o acolhimento do alegado excesso de prazo, a morosidade no julgamento do processo deve ser injustificada, isto é, deve ser excessiva, considerando-se a complexidade e natureza da demanda, a quantidade de partes envolvidas, o grau de congestionamento dos juízo se tribunais etc..
+Sopesados esses aspectos, não se pode concluir que há desídia do Juízo a quo em promover o andamento do processo, na medida em que o Magistrado está sempre atento às prioridades legais, devendo, inclusive, estabelecer plano de ação para resolução final da demanda. Logo, entende-se que deve haver uma maior flexibilização dos marcos prazais.
+Demais disso, no caso em baila, a audiência de instrução probatória foi realizada e encerrada em05/06/2023, as partes intimadas para apresentação das alegações finais, de modo que está encerrada a fase probatória. Portanto, fica superada a alegação de excesso de prazo para a formação da culpa, nos termos do enunciado da Súmula 52/STJ" (fls. 441-442).
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, na qual se apura as condutas de tráfico de drogas e associação para o mesmo fim, demonstrando a complexidade do feito diante da diversidade de condutas e da pluralidade de pessoas envolvidas em práticas delitivas; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Sobre o tema:
+"In casu, verifica-se que não se constata flagrante ilegalidade por excesso de prazo na formação da culpa quando o processo segue regular tramitação. Extrai-se das informações prestadas pelas instâncias ordinárias, bem como do andamento processual da ação originária no site do Tribunal estadual, que a insatisfação da agravante com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculi aridades, considerando a complexidade do processo, no qual se apura a prática dos delitos de tráfico de drogas, associação ao tráfico de entorpecentes e posse de arma de fogo, com pluralidade réus - 4 -, representados por advogados distintos, demandando a realização de diversas diligências" (AgRg no RHC n. 174.284/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/5/2023).
+Ademais, conforme consta dos autos, a instrução processual já foi encerrada; incidindo no caso, portanto, a Súmula n.º 52, STJ, segundo a qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Sobre o tema:
+"As particularidades da ação penal, com pluralidade de agentes, com diferentes patronos e em que se apura o cometimento de três crimes, certamente resultam no alongamento para chegar-se à solução final da causa. 3. Com o encerramento da instrução criminal e abertura de prazo para alegações finais, o excesso de prazo está superado, nos termos do enunciado 52 da Súmula deste Superior Tribunal de Justiça" (AgRg no RHC n. 166.355/BA, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 21/3/2023, DJe de 27/3/2023).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, " b", do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
