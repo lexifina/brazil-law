@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado (e-STJ, fl. 46):
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA COLETIVA - PRELIMINARES - COISA JULGADA, INADEQUAÇÃO DA VIA ELEITA E AUSÊNCIA DE INTERESSE RECURSAL - REJEITADAS - MÉRITO - EXPURGOS INFLACIONÁRIOS - CÉDULA DE CRÉDITO RURAL - CHAMAMENTO AO PROCESSO DA UNIÃO E DO BACEN - DESNECESSIDADE - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - TERMO INICIAL DOS JUROS DE MORA - CITAÇÃO DO DEVEDOR NA FASE DE CONHECIMENTO DA AÇÃO CIVIL PÚBLICA - CORREÇÃO MONETÁRIA PELO INPC - COMPROVAÇÃO DE QUITAÇÃO DO CONTRATO - DISPENSABILIDADE - RECURSO PARCIALMENTE PROVIDO.
+1. Aplica-se o Código de Defesa do Consumidor aos contratos firmados entre instituições financeiras e agricultor, pessoa física, ainda que para viabilizar o seu trabalho como produtor rural. Precedentes do STJ.
+2. Conforme entendimento firmado pelo Superior Tribunal de Justiça, reconhecida a solidariedade entre a União, Banco Central e o Banco do Brasil, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários, sendo desnecessário o chamamento ao processo.
+3. Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública. Precedentes do STJ.
+4. Em consonância com a jurisprudência do Superior Tribunal de Justiça, para a correção monetária dos débitos judiciais é mais adequada a utilização do INPC.
+5. Agravo de Instrumento conhecido e parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 73-76).
+No recurso especial, alegou o recorrente a ofensa ao art. 1.022, inciso II, do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão quanto ao direito ao chamamento ao processo da União e do BACEN, bem como no que se refere ao fato de que a comprovação do pagamento é exigência feita pela própria coisa julgada em execução.
+Afirmou, ainda, a violação aos arts. 130, inciso III, e 132, ambos do CPC/2015, preconizando a viabilidade do chamamento ao processo da União Federal e do Banco Central do Brasil, "haja vista que se discutirão na presente liquidação de sentença valores que tem por origem a ação civil Pública e cuja condenação nesta esfera executiva deverá alcançar os codevedores" (e-STJ, fl. 86).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente à interposição de agravo.
+Nas razões do agravo, o insurgente impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 137-142).
+Contraminuta apresentada (e-STJ, fls. 152-163).
+Brevemente relatado, decido.
+De início, consoante análise dos autos, verifica-se que a alegação de violação ao art. 1.022, inciso II, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado de Mato Grosso do Sul foi claro ao concluir que "não há falar em litisconsórcio necessário, porquanto é facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores", Confira-se (e-STJ, fls. 47-48; sem grifo no original):
+Afirma a parte recorrente que deve ser dado provimento ao presente recurso para que a União e o Banco Central do Brasil integrem o polo passivo da lide.
+Nos termos do art. 130 do CPC, admite-se o chamamento ao processo pelo réu: do afiançado, na ação em que o fiador for réu (inc. I); dos demais fiadores, na ação proposta contra um ou alguns deles (inc. II); e dos demais devedores solidários, quando o credor exigir de um ou de alguns o pagamento da dívida comum (inc. III).
+Lado outro, dispõe o art. 275, caput e parágrafo único, do CC, que o credor tem direito a exigir e receber de um ou de alguns dos devedores, parcial ou totalmente, a dívida comum; se o pagamento tiver sido parcial, todos os demais devedores continuam obrigados solidariamente pelo resto, sendo que, em todo caso, a propositura de ação pelo credor contra um ou alguns dos devedores não importará renúncia da solidariedade.
+Nos casos semelhantes a hipótese em polêmica, o Superior Tribunal de Justiça possui entendimento consolidado que, apesar de reconhecida a solidariedade ente a União Federal, Banco Central e o Banco do Brasil, não há falar em litisconsórcio necessário, porquanto é facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. ..
+Logo, não há falar em chamamento ao processo dos referidos entes, razão pela qual, neste ponto, o recurso não deve ser provido.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão do insurgente, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOSFERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 284/STF E 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+ ..
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.781.868/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+De outra parte, destaca-se que a jurisprudência desta Corte Superior é no sentido de que "não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Assim, reconhecida a solidariedade entre a União, o Banco Central e o Banco do Brasil, é possível direcionar o cumprimento provisório da sentença a qualquer um deles" (REsp n. 1.948.316/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/11/2021, DJe de 29/11/2021).
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO EXECUTADO.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A competência da Justiça Federal é ratione personae, daí decorrendo que nela só podem litigar os entes federais elencados no artigo 109, I, da CF, conforme consolidado nas Súmulas 150, 224 e 254 do STJ. Dessa forma, não se justifica o deslocamento da competência e a remessa dos autos à Justiça Comum Federal, quando figura como parte apenas a instituição financeira, sociedade de economia mista, que celebrou a avença com a parte recorrida, sendo competente, portanto, a Justiça Comum Estadual. Precedentes.
+3. Não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Assim, "reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários." (AgInt no AREsp 1.309.643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, j. em 29/4/2019, DJe de 02/05/2019).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.236.230/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Na espécie, verifica-se que a Corte estadual concluiu que não há falar em chamamento ao processo dos referidos entes, uma vez que apesar de reconhecida a solidariedade ente a União Federal, Banco Central e o Banco do Brasil, é facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores (e-STJ, fls. 47-48).
+Nessa esteira, constata-se que o entendimento adotado pelo Tribunal a quo está em harmonia com a jurisprudência do Superior Tribunal de Justiça, atraindo a aplicação da Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA COLETIVA. CHAMAMENTO AO PROCESSO DA UNIÃO E DO BACEN. DESNECESSIDADE. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E , NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
