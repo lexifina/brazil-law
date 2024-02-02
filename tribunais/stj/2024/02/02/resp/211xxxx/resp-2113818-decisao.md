@@ -1,0 +1,29 @@
+DECISÃO
+Na origem trata-se de ação declaratória de inexigibilidade de débito c/c pedido de indenização por danos morais ajuizada por LEIDIANA SIPRIANO DE SOUSA em desfavor de TELEFÔNICA BRASIL S/A alegando, em resumo, que: a) se tornou inadimplente em relação a valores devidos à parte ré; b) recentemente passou a ser importunado pela parte demandada, que cobra os valores indicando a existência de pendência financeira; e c) todavia, o débito está prescrito, de modo que não é mais possível sua cobrança, sendo que tomou providências administrativas porém estas continuam.
+Na sentença (fls. 95-98) julgou-se parcialmente procedentes os pedidos "para reconhecer a prescrição do débito indicado na exordial e obrigar a parte ré a não realizar a cobrança da quantia judicial ou extrajudicialmente, sob pena de multa de R$ 1.000,00 por ato indevido de cobrança, até o limite inicial de R$10.000,00, sem a necessidade de exclusão da plataforma "Serasa Limpa Nome" e semelhantes."
+No Tribunal de Justiça do Estado de São Paulo, a sentença foi reformada, tendo sido consignado ser a demandante carecedora da ação proposta, em acórdão que restou assim ementado (fl. 175):
+PRESTAÇÃO DE SERVIÇOS DE TELEFONIA - Ação declaratória de inexigibilidade de débito c/c indenização por prejuízos morais - Acolhimento parcial - Inexistência de cobrança de dívida pela ré - Eventual prescrição de débito que não implica no desaparecimento da obrigação, impossibilitando tão somente sua cobrança judicial - Ausência de divulgação ou negativação - Preservação do nome da autora em plataforma digital - Serasa Limpa Nome - Recurso da ré provido, prejudicado o apelo da autora.
+Contra a referida decisão acima transcrita, a parte interpõe recurso especial (fls. 184-194), com fundamento no art. 105, III, a, da Constituição Federal, no qual aponta negativa de vigência dos arts. 189, 206 do Código Civil, bem como do art. 1.013, do CPC/2015, e arts. 6º, 42 e 43, do Código de Defesa do Consumidor.
+Apresentadas contrarrazões (fls. 197-203).
+Juízo positivo de admissibilidade na origem (fls. 205-207).
+Vieram os autos a este Superior Tribunal de Justiça e foram distribuídos a Segunda Turma, cabendo-me a relatoria.
+É o relatório.
+O caput do art. 9º do RISTJ prevê que a competência das Seções e Turmas será fixada em razão da natureza da relação jurídica litigiosa, descrevendo, ainda, em seus parágrafos, as matérias atribuídas a cada uma das Seções desta Corte.
+Em seu § 2º, inciso III, o dispositivo em destaque estabelece que compete à Segunda Seção processar e julgar os feitos relativos à responsabilidade civil, salvo quando se tratar de responsabilidade civil do Estado.
+Dessa forma, nas ações em comento, nas quais a causa de pedir esteja relacionada tão somente com o direito privado, a competência será sempre da Segunda Seção.
+A controvérsia travada nos presentes autos, relacionada a ação declaratória de inexigibilidade de débito c/c pedido de indenização pro danos morais decorrente de contrato de telefonia, insere-se exatamente no disposto no art. 9º, §2º, III, do RISTJ.
+Confira-se o seguinte julgado:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PRESCRITO. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE. MANUTENÇÃO DO ACÓRDÃO ESTADUAL.
+1. Ação de conhecimento, por meio da qual se pretende o reconhecimento da prescrição, bem como a declaração judicial de inexigibilidade do débito, ajuizada em 4/8/2021, da qual foi extraído o presente recurso especial, interposto em 26/9/2022 e concluso ao gabinete em 3/8/2023.
+2. O propósito recursal consiste em decidir se o reconhecimento da prescrição impede a cobrança extrajudicial do débito.
+3. Inovando em relação à ordem jurídica anterior, o art. 189 do Código Civil de 2002 estabelece, expressamente, que o alvo da prescrição é a pretensão, instituto de direito material, compreendido como o poder de exigir um comportamento positivo ou negativo da outra parte da relação jurídica.
+4. A pretensão não se confunde com o direito subjetivo, categoria estática, que ganha contornos de dinamicidade com o surgimento da pretensão. Como consequência, é possível a existência de direito subjetivo sem pretensão ou com pretensão paralisada.
+5. A pretensão se submete ao princípio da indiferença das vias, podendo ser exercida tanto judicial, quanto extrajudicialmente. Ao cobrar extrajudicialmente o devedor, o credor está, efetivamente, exercendo sua pretensão, ainda que fora do processo.
+6. Se a pretensão é o poder de exigir o cumprimento da prestação, uma vez paralisada em razão da prescrição, não será mais possível exigir o referido comportamento do devedor, ou seja, não será mais possível cobrar a dívida. Logo, o reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito.
+7. Hipótese em que as instâncias ordinárias consignaram ser incontroversa a prescrição da pretensão do credor, devendo-se concluir pela impossibilidade de cobrança do débito, judicial ou extrajudicialmente, impondo-se a manutenção do acórdão recorrido.
+8. Recurso especial conhecido e desprovido.
+(REsp n. 2.088.100/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023.)
+No mesmo sentido : AgInt no REsp n. 1.926.474/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023; AgInt no AREsp n. 1.728.279/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023.
+Ainda, em casos como tais: REsp n. 2.100.406, Ministro Antonio Carlos Ferreira, DJe de 21/12/2023 e REsp n. 2.100.975, Ministro João Otávio de Noronha, DJe de 04/12/2023.
+Ante o exposto, distribuam-se os autos a uma das Turmas que compõem a Segunda Seção.
+EMENTA
