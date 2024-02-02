@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FABRICIO VIEIRA DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de tráfico de drogas em razão da quantidade de droga apreendida. Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão pelos mesmos fundamentos e denegou a ordem, em acórdão de fls. 126-132.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação da decisão que decretou a segregação cautelar e ausência dos requisitos ensejadores da prisão preventiva, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 170-171.
+Informação prestada às fls.174-176 e 180-184. O Ministério Público Federal se manifestou, às fls. 188-189, em parecer ementado nos seguintes termos:
+"RHC. PRISÃO PREVENTIVA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. GARANTIA DA ORDEM PÚBLICA. 1. Em que pese tratar-se de medida extrema, a idoneidade da preventiva perfectibiliza-se quando calcada nos requisitos insculpidos no art. 312 do CPP. 2. Considerando o efeito colateral inexoravelmente causado pelo habeas corpus, este deve ser apreciado com temperamentos, sob pena de subversão à ordem natural exigida pelo dite process of law e indevida usurpação do juízo inicialmente competente para a apreciação da causa, cingindo-se seu cabimento apenas a hipóteses de manifesta ilegalidade, o que não se verifica na hipótese vertente. Parecer pelo desprovimento do recurso" - fl. 188 .
+É o relatório. DECIDO.
+O pedido está prejudicado.
+Conforme informações obtidas no sítio do Tribunal de origem, (www.tjsp.jus.br), em 07/12/2023, foi proferida sentença em que o recorrente restou condenado à pena privativa de liberdade de 7 anos, 9 meses e 10 dias de reclusão, à pena privativa de liberdade de 3 anos e 6 meses de reclusão, à pena de 1 ano de detenção, e à pena pecuniária de 10 dias-multa, por incursão, respectivamente, no art. 33, caput, e no art. 35, caput, ambos c.c. o art. 40, VI, todos da Lei nº 11.343/2006, e no art. 12, caput, da Lei nº 10.826/03, todos c.c. o art. 69 do Código Penal, em total de 11 anos, 3 meses e 10 dias de reclusão, em regime inicial fechado, 1 ano de detenção, em regime inicial aberto. Na ocasião, o Magistrado acrescentou novos fundamentos para manter a prisão preventiva em seu desfavor.
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito :
+"A Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente torna prejudicado o habeas corpus em que se busca sua revogação, quando novos e diversos fundamentos são agregados ao decreto prisional primitivo"(AgRg no HC n. 731.126/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/10/2022, grifei.)
+Ante o exposto, julgo o presente recurso em habeas corpus prejudicado.
+Publique-se. Intime-se.
+EMENTA
