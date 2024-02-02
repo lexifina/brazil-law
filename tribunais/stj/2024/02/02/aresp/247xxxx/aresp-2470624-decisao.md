@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por João Ferreira dos Santos contra a decisão de fls. 300-303 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio ao acórdão de fls. 263-278 (e-STJ), prolatado pelo Tribunal de Justiça do Estado do Maranhão, assim ementado:
+DIREITO DO CONSUMIDOR. PROCESSO CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA. EMPRÉSTIMO CONSIGNADO. IRDR Nº 53.983/2016. APLICAÇÃO IMEDIATA. INEXISTÊNCIA DE DISTINGUISHING. INADMISSIBILIDADE RECURSAL. INTELIGÊNCIA DO ART. 643, CAPUT, DO RITJMA. AGRAVO INTERNO NÃO CONHECIDO. I. Nos termos do art. 643, caput, do RITJMA: "Não cabe agravo interno da decisão monocrática do relator com base no art. 932, IV, c e V, c, do Código de Processo Civil, salvo se demonstrada a distinção entre a questão controvertida nos autos e a que foi objeto da tese firmada em incidente de resolução de demandas repetitivas ou de assunção de competência"; II. Inferindo que o agravo interno não demonstra o distingushing entre a questão discutida nos autos e o disposto na tese pacificada no IRDR Nº 53.983/2016, sendo mero instrumento de repetição dos fundamentos já expostos na inicial da demanda e no apelo originário, nota-se sua manifesta inadmissibilidade, razão pela qual não deve ser conhecido. Precedentes; III. Agravo interno não conhecido.
+Nas razões do recurso especial (e-STJ, fls. 279-286), apontou o insurgente a existência de violação do art. 1.021, caput e § 4º, do CPC/2015. Sustentou, em síntese: i) que o agravo interno deveria ser conhecido; e ii) afastamento da multa.
+Contrarrazões às fls. 294-298 (e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência da Súmula 284/STF.
+Daí o presente agravo, no qual o insurgente contesta a aplicação do óbice.
+Contraminuta às fls. 312-313 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido, verifica-se que o fundamento da decisão para não conhecer do recurso foi a ausência de demonstração da distinção entre a tese defendida no recurso especial e aquela analisada no IRDR.
+Veja-se às fls. 266-267 (e-STJ):
+Em conformidade com o acima delineado, bem como em análise das razões recursais do presente agravo interno, de se notar que a irresignação recursal se trata de mera repetição dos fundamentos inseridos no bojo da apelação, não havendo no caso sob apreço a demonstração clara do necessário distinguishing apto a resvalar na conclusão de não aplicação do referenciado precedente vinculante ao caso sob enfoque. Nesse diapasão, visualizo que à espécie incide o disposto no art. 643, caput, do RITJMA, ao esclarecer que: "Não cabe agravo interno da decisão monocrática do relator com base no art. 932, IV, c e V, c, do Código de Processo Civil, salvo se demonstrada a distinção entre a questão controvertida nos autos e a que foi objeto da tese firmada em incidente de resolução de demandas repetitivas ou de assunção de competência". Tal entendimento já se encontra firmado no âmbito deste eg. Tribunal de Justiça, como pode ser visto a seguir:
+ ..
+Desta forma, diante de sua manifesta inadmissibilidade, o não conhecimento do recurso é medida que se impõe. Conclusão. Forte nessas razões, com arrimo no art. 93, IX, da Constituição Federal de 1988, art.11, caput, do CPC e por tudo mais que dos autos consta, NÃO CONHEÇO do agravo interno, nos termos da fundamentação supra. Em razão do disposto nos arts. 1.021, § 4º, do CPC e 641, § 4º, do RITJMA, aplico à agravante multa no importe de 1% (um por cento) sobre o valor atualizado da causa. É como voto.
+Na presente insurgência, defende o recorrente o conhecimento do agravo interno, sustentando ter havido ofensa ao art. 1.021, caput, do CPC/2015.
+Ocorre que o conteúdo do dispositivo invocado não é apto para lastrear a tese defendida.
+Note-se o seu conteúdo:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+Dessa forma, incidente a Súmula 284/STF a obstar o conhecimento do recurso.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE RECUPERAÇÃO JUDICIAL. IRREGULARIDADES. AFERIÇÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso, averiguar, em recurso especial, a existência de possíveis irregularidades no pagamento dos débitos das empresas recuperandas demandaria o reexame de matéria fática, medida inviável em recurso especial.
+5. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.723.093/MS, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 29/11/2021, DJe 02/12/2021).
+Por fim, o entendimento desta Corte é pela aplicação da multa do art. 1.021, § 4º, do CPC/2015 no caso de descabimento do recurso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECRETAÇÃO DE LIQUIDAÇÃO EXTRAJUDICIAL DA INSTITUIÇÃO FINANCEIRA. PEDIDO DE SUSPENSÃO. ART. 18 DA LEI N. 6.024/1974. DENEGAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO. LIQUIDAÇÃO EXTRAJUDICIAL. IRRELEVÂNCIA. FALTA DE COMPROVAÇÃO. INDEFERIMENTO. NEGATIVA DE PRESTAÇÃO JURISIDICIONAL. NÃO OCORRÊNCIA. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA. NECESSIDADE DE DEMONSTRAÇÃO. SÚMULAS N. 5, 7 E 83 DO STJ. DECISÃO MANTIDA. CONTRARRAZÕES. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A suspensão de ações ajuizadas em desfavor de entidades em liquidação extrajudicial deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito, a qual interferirá na formação do título executivo, que, no processo de liquidação, será passível de habilitação sem implicar a redução do acervo patrimonial da massa objeto de liquidação.
+2. A concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação da hipossuficiência, mesmo que esteja sob o regime de liquidação extrajudicial.
+3. Não há negativa de prestação jurisdicional quando o tribunal de origem decide, de modo claro , objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+4. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando ficar caracterizada a relação de consumo e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto.
+5. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+6. É viável a limitação da taxa de juros remuneratórios pactuada no contrato na hipótese em que a corte de origem tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5 e 7 do STJ.
+7. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.417.739/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Logo, a decisão recorrida refletiu o entendimento deste Tribunal Superior, razão pela qual não merece reforma.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 3% (três por cento) sobre o valor da causa, devendo ser observada a gratuidade de justiça deferida ao recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.021, CAPUT, DO CPC/2015. CONTEÚDO NORMATIVO INAPTO PARA LASTREAR A TESE RECURSAL. AFASTAMENTO DA MULTA. IMPROCEDÊNCIA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO .
