@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de SUELI ALVES DOS SANTOS OLIVEIRA, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que a paciente teve a prisão preventiva decretada pela suposta prática do crime de homicídio qualificado - "em tese, ceifou, de forma covarde, a vida de seu esposo, com quem matinha relação familiar e de coabitação, por questões aparentemente de cunho patrimonial" - fl. 20, sob o fundamento da garantia da ordem pública, da conveniência da instrução criminal e visando a futura aplicação da lei penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva em desfavor da paciente devido a "necessidade da garantia da ordem pública, evitando-se a reiteração criminal, considerando a gravidade concreta da conduta atribuída à paciente (homicídio qualificado), e a forma como ocorreram os fatos."- fl. 29, e denegou a ordem, em acórdão de fls. 26-36.
+No presente writ, postula a defesa, em síntese, a revogação da prisão preventiva decretada em desfavor da ora paciente em razão: a) da ausência de fundamentação idônea para a decretação da preventiva; b) ausência dos requisitos ensejadores da prisão preventiva; c) condições pessoais favoráveis; d) possibilidade da aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 37-38.
+Informações prestadas às fls. 43-46.
+O Ministério Público Federal se manifestou às fls. 48-52, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSOPROPRIO. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. PACIENTE É ASUSPEITA DA AUTORIA DO HOMICÍDIO DO PRÓPRIO MARIDO. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM".
+É o relatório. DECIDO.
+No caso em tela o acórdão que decretou a prisão preventiva da paciente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade e pelo modus operandi do crime onde:
+"em tese, ceifou, de forma covarde, a vida de seu esposo, com quem matinha relação familiar e de coabitação, por questões aparentemente de cunho patrimonial. Além disso, permaneceu com o corpo da vítima na mesma residência na qual o casal morava sem nenhum pudor, como se nada tivesse ocorrido, uma conduta altamente fria e indiferente.  ..  SUELI é pessoa bastante agressiva e com reiterado histórico de violência familiar contra a vítima, que desta vez não resistiu e veio a óbito" - fls.20-21.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta"(AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023, grifei.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
