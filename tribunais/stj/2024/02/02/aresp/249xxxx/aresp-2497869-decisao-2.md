@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ERNANI REIS JUNIOR (e-STJ, fls. 1670-1676) contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+Nas razões recursais, a defesa aponta violação dos artigos 5º, caput e inciso XI, e 93, inciso IX, ambos da CR, 11 do CPC, 157 e 240 do CPP, e 35 da Lei n. 11.343/2006.
+Aduz, em suma, cerceamento do direito de defesa e violação de domicílio sem fundadas razões. Alega, ainda, ausência de provas suficientes para a condenação e falta de comprovação do vínculo associativo entre o recorrente e os demais corréus.
+Requer, assim, o provimento do recurso, para que seja reformado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ, fls. 1637-1652), e o recurso inadmitido, por intempestividade (e-STJ, fl. 1659). Daí este agravo (e-STJ, fls. 1670-1676).
+O Ministério Público Federal opina pelo não conhecimento do recurso (e-STJ, fls. 1732-1734).
+É o relatório.
+Decido.
+A irresignação não prospera.
+No caso, verifica-se que o recurso especial não deve ser conhecido, diante de sua intempestividade. O acórdão recorrido foi publicado em 16/06/2023 (e-STJ, fl. 1535) iniciando-se o prazo para a interposição do recurso especial em 19/06/2023 (segunda-feira), com término no dia 03/07/2023 (segunda-feira). Todavia, constata-se que o recurso foi protocolizado apenas em 02/08/2023 (e-STJ, fl. 1610), havendo expirado, portanto, o prazo legal.
+Importante ressaltar que "o agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis (art. 219, Lei n. 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei n. 13.105/2015)" (AgRg no ARESP 1.467.990/MG, Quinta Turma, Rel. Min. REYNALDO SOARES DA FONSECA, DJe de 23/05/2019).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO RECURSAL. INTEMPESTIVIDADE MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c 1.003, § 5º, ambos do Código de Processo Civil, e do art. 798 do Código de Processo Penal.
+2. Em razão do princípio da especialidade, os prazos previstos no art. 220 do CPC, regulamentados pela Resolução 244/CNJ, não incidem nos processos criminais, tendo em vista o regramento disposto no art. 798, caput, e § 3º, do CPP. Precedentes.
+3. O recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 29/03/2017, DJe 19/04/2017).
+4. Agravo regimental improvido."
+(AgRg no RESP 1.753.311/SC, Sexta Turma, Rel. Min. NEFI CORDEIRO, DJe de 03/05/2019).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCORRÊNCIA DE INTIMAÇÃO ELETRÔNICA DO ADVOGADO E PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO. PREVALÊNCIA DESSA ÚLTIMA. PRECEDENTES. INTERPOSIÇÃO DO APELO NOBRE APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com a jurisprudência da Terceira Seção do Superior Tribunal de Justiça, "a intimação eletrônica do patrono não altera o termo inicial para a interposição do recurso, porquanto é assente, nesta Corte Superior, o entendimento de que o prazo começa a fluir a partir da data de publicação no Diário de Justiça eletrônico, uma vez que esta substitui outros meios de publicação oficial para quaisquer efeitos legais." (AgRg no AREsp 1.214.251/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe de 27/09/2018).
+2. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VIII, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+3. A jurisprudência desta Corte é firme no sentido de que " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe 22/2/2017).
+4. O entendimento do Superior Tribunal de Justiça está fixado no sentido de que "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp 1.070.415/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe de 22/05/2017.).
+5. No caso, o acórdão recorrido foi publicado em 27/09/2018, e o recurso especial foi interposto em 22/10/2018, quando já havia escoado o prazo para a sua interposição. 6. Agravo regimental desprovido."
+(AgInt no ARESP 1.429.731/AP, Sexta Turma, Rel. Min. LAURITA VAZ, DJe de 30/04/2019, grifou-se).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
