@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por THIAGO RIBEIRO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, sem ementa, que deu provimento ao agravo em execução interposto pelo Ministério Público, a fim de reconhecer a falta disciplinar de natureza grave, determinando a perda de 1/3 dos dias anteriormente remidos e a interrupção do lapso temporal para o fim de progressão.
+Em suas razões recursais, a defesa aponta violação dos arts. 45 e 52, ambos da LEP, bem como do art. 8º, item 2, da Convenção Americana sobre Direitos Humanos, argumentando, em síntese, que a imposição de falta grave ao recorrente por transgressão praticada por terceiro constitui responsabilização objetiva e ofende o princípio da intranscendência da pena.
+Requer, por fim, o provimento do recurso, para afastar a falta grave e todos o efeitos de seu reconhecimento.
+Com contrarrazões (e-STJ, fls. 181-186), o recurso especial foi inadmitido na origem (e-STJ, fls. 189-190), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 226-232).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No mérito, a irresignação prospera.
+Colhe-se do acórdão recorrido (e-STJ, fls. 154-157):
+"Consta dos autos que o sentenciado Thiago Ribeiro foi acusado de ter infringido o disposto no artigo 52 "caput" da Lei nº 7.210/84.
+E, ainda que tenha negado a imputação que pende sobre ele, afirmando não ter incluído a pessoa de nome Nívea Cristina dos Santos como sua visitante e que há dois anos não recebe visitas (fl. 42), os relatos coesos e harmônicos dos agentes penitenciários, dão conta de que, no dia 05.02.2023, durante visita ao sentenciado, sua amásia, Nivea Cristina dos Santos, tentou ingressar no interior da unidade prisional com substância entorpecente (crack, maconha, droga sintética e cocaína), bem como com três manuscritos com matrículas de presos diversos, acondicionados no ânus (fls. 43/5).
+Saliente-se que idôneas as testemunhas, a exemplo do que se tem argumentado em relação aos depoimentos de policiais.
+ ..
+Nesse contexto, não há que se duvidar das palavras dos agentes do Estado, até porque assegurados os direitos do preso, que foi interrogado na presença de advogados da Funap (fl. 42), e ausentes indícios de falsa incriminação de inocente, descabendo falar-se em absolvição.
+E não merece guarida a versão apresentada pelo sentenciado, eis que, embora tenha alegado que há dois anos não recebe visitas, Nívea Cristina dos Santos foi sim por ele incluída em seu rol como visitante (fl. 37), a qual o visitou por diversas vezes em datas próximas à dos fatos (fl. 36).
+Assim, respeitado o posicionamento precedente, o agravado infringiu o artigo 52 "caput" da Lei nº 7.210/84."
+No caso, à míngua de elementos concretos, não ficou provada a prática de nenhum ato material pelo recorrente. O fato de sua companheira ter sido surpreendida tentando ingressar na unidade prisional com substâncias entorpecentes e a simples suspeita de que ele teria sido o solicitante das drogas não são suficientes para afirmar a prática da falta grave.
+Com efeito, esta Corte Superior de Justiça firmou entendimento no sentido de que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elemen tos concretos.
+A corroborar:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CONHECIMENTO. FLAGRANTE ILEGALIDADE VERIFICADA DE PLANO SEM A NECESSIDADE DE REEXAME DE FATOS E PROVAS. EXECUÇÃO PENAL. FALTA GRAVE RECONHECIDA PELO TRIBUNAL A QUO. AUSÊNCIA DE ELEMENTOS CONCRETOS DE PARTICIPAÇÃO DO REEDUCANDO NO FATO ILÍCITO. ATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. PRECEDENTES DESTA CORTE SUPERIOR. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Agravo regimental improvido."
+(AgRg no HC n. 808.705/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. FALTA DISCIPLINAR DE NATUREZA GRAVE IMPUTADA AO REEDUCANDO POR ATO DE TERCEIRO. IMPOSSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. AUSÊNCIA DE COMPROVAÇÃO DE QUE O PACIENTE TERIA CONCORRIDO PARA A CONDUTA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+4. Com efeito, a jurisprudência deste Tribunal Superior firmou-se no sentido de que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada sua autoria, através de elementos concretos.
+5. In casu, à míngua de elementos concretos, não ficou provada a prática de nenhum ato material pelo paciente. O fato de ser sua companheira a portadora dos componentes de celular e a simples suspeita de que ele teria sido o solicitante de tais peças não são suficientes para afirmar a prática da falta grave. É de se considerar, ainda, que os objetos sequer adentraram a unidade prisional e não estiveram na posse do reeducando.
+6. Agravo regimental desprovido."
+(AgRg no HC n. 752.202/SP, de minha Relatoria, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de afastar a falta grave e os seus consectários legais.
+Publique-se. Intimem-se.
+EMENTA
