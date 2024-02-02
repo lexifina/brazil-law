@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto por MACRO DENTAL PRODUTOS ODONTOLÓGICOS LTDA. e MARIA APARECIDA DE ARAUJO ALMEIDA contra decisão que inadmitiu recurso especial (e-STJ, fls. 370-374) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ, fl. 302):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CONTRATO DE ABERTURA DE CRÉDITO - EXTRATOS BANCÁRIOS - AUSÊNCIA - INTIMAÇÃO PARA EMENDA DA INICIAL - NÃO OCORRÊNCIA - NECESSIDADE -NULIDADE DA SENTENÇA - PRELIMINAR ACOLHIDA - RECURSO PROVIDO. Considerando que a instituição financeira ajuizou a demanda monitória sem trazer documento indispensável e hábil a comprovar a evolução da dívida, deve o juiz dar à parte a oportunidade de emendá-la, nos termos do art. 321 do Código de Processo Civil.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 334):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - VÍCIO DA OMISSÃO, OBSCURIDADE E CONTRADIÇÃO - NÃO OCORRÊNCIA - REJULGAMENTO DA CAUSA - IMPOSSIBILIDADE - PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS - DESNECESSIDADE DE O JULGADOR IMISCUIR-SE EM TODOS OS PONTOS SUSCITADOS PELOS LITIGANTES - EMBARGOS REJEITADOS. Inexistindo qualquer vício de omissão, obscuridade e contradição no acórdão embargado, devem ser rejeitados os embargos de declaração, os quais não se prestam para o rejulgamento da causa. Além de o julgador não estar obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado fundamentos suficientes para embasar a decisão, mesmo para fins de prequestionamento, a oposição dos embargos declaratórios pressupõe a existência de omissão, contradição ou obscuridade.
+Nas razões do recurso especial, as recorrentes alegaram, com fulcro na alínea a do permissivo constitucional, violação aos arts. 321 e 700, § 2º, II, e § 4º, do CPC/2015.
+Sustentaram a extinção da ação monitória por ausência de juntada da cadeia completa de documentos aptos a embasar a petição inicial. Aduziram que não é necessário intimar previamente o autor da demanda.
+Destacaram que cabe ao juiz verificar se a exordial preenche todos os requisitos legais.
+Apontaram que "a inicial foi instruída com os contratos (fls. 08-11/12-25), bem como com a planilha de cálculo (fls. 28-49), porém, a última insuficiente para comprovar o alegado, estando em desacordo com as normas processuais, uma vez que não demonstrou a evolução da dívida, ensejando a improcedência do pedido com o julgamento do mérito" (e-STJ, fl. 345).
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 370-374).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 376-386).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese debatida no recurso especial, o Tribunal de origem assim se manifestou (e-STJ, fls. 304-305):
+Suscita o apelante a nulidade da sentença, ao fundamento de que ao decidir pelo acolhimento dos embargos monitórios, o magistrado não lhe concedeu a oportunidade de emendar a inicial, conforme art. 321 do Código de Processo Civil.
+Razão lhe assiste.
+Como se sabe, a ação monitória é procedimento especial, com a finalidade de atribuir-se força executiva a documento escrito que não a tem, mas que represente obrigação líquida certa e exigível, nos termos do art. 700 do Código de Processo Civil.
+De fato, é indispensável a comprovação da evolução do débito de forma clara, com a discriminação dos encargos e ônus incidentes, a fim de possibilitar que o devedor tenha conhecimento da quantia que está sendo reclamada, em observância dos princípios da ampla defesa e do contraditório.
+Entretanto, a meu ver, o fato de ter o autor instruído o feito apenas com o demonstrativo de débito, sem demonstrar a sua evolução, em razão da ausência de juntada dos extratos da conta que comprovem todas as amortizações realizadas, não leva ao acolhimento dos embargos e a extinção do processo. Isto porque, diante da ocorrência de falta ou insuficiência de documentação necessária à instrução do feito monitório, deve ser oportunizada à parte autora, ora apelante, a emenda da inicial, nos termos do art. 321 do Código de Processo Civil, frente à ausência de documentos indispensáveis à propositura da ação.
+ ..
+Consigne-se, ainda, ser possível a emenda da inicial, mesmo após a formação do contraditório, haja vista que não implicará na alteração do pedido ou da causa de pedir, se limitado à juntada de documentos necessários para que se identifique a evolução da dívida.
+ ..
+Logo, penso que deve ser acolhida a preliminar e cassada a sentença, para que seja oportunizada à parte autora a emenda da inicial, nos termos do art. 321 do Código de Processo Civil.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu que, não obstante seja necessário que a parte instrua a ação monitória com a documentação apta a demonstrar a evolução do débito, é indevida a extinção do feito sem que o autor seja previamente intimado para emendar a inicial.
+De fato, o posicionamento adotado pela Corte local está em harmonia com a jurisprudência do Superior Tribunal de Justiça, conforme se verifica dos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE DOCUMENTO INDISPENSÁVEL PARA A PROPOSITURA DA DEMANDA. AUSÊNCIA, NO ENTANTO, DE PRÉVIA INTIMAÇÃO PARA A EMENDA DA INICIAL E CORREÇÃO DO VÍCIO ANTERIORMENTE À EXTINÇÃO DO FEITO. SÚMULA N. 83 DO STJ . MAJORAÇÃO DOS HONORÁRIOS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Não é possível a extinção da ação, por inépcia da inicial, sem que o autor seja intimado para suprir a falha.
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.121.287/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATOS BANCÁRIOS. EXTINÇÃO POR INÉPCIA DA PETIÇÃO INICIAL PELO TRIBUNAL ESTADUAL. INTIMAÇÃO DO AUTOR PARA SUPRIR A FALTA DOCUMENTAL. NECESSIDADE. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. "Ofende o art. 284 do CPC/1973 (art. 321, CPC/2015), o acórdão que reforma sentença de procedência da ação e declara extinto o processo, por inépcia da petição inicial, sem intimar o autor e lhe conferir a oportunidade para suprir a falha" (REsp 1229296/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/11/2016, DJe 18/11/2016).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.898.638/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+Desse modo, mostra-se correta a aplicação do e nunciado da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DE JUNTADA DA DOCUMENTAÇÃO NECESSÁRIA. INÉPCIA DA PETIÇÃO INICIAL. EXTINÇÃO DO FEITO. IMPRESCINDIBILIDADE DE PRÉVIA INTIMAÇÃO DO AUTOR DA DEMANDA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
