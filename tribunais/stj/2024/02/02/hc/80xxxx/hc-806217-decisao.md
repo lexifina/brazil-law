@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de SIMAO PEIXOTO LIMA, contra decisão proferida pelo Desembargador Anselmo Chíxaro, do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, no bojo da investigação criminal n. 4001497-90.2023.8.04.0000.
+Extrai-se dos autos que o Ministério Público do Estado do Amazonas requereu a prisão preventiva e o afastamento do paciente do cargo de Prefeito Municipal de Borba/AM, em razão da suposta prática dos crimes de difamação, ameaça, desacato, e de restrição do exercício de direitos políticos em razão do sexo (arts. 139, 147, 331 e 359-P do Código Penal - CP, respectivamente).
+O Desembargador Relator da petição criminal acolheu os pedidos ministeriais, com fundamento na garantia da ordem pública e na conveniência da instrução criminal, considerando a necessidade de "resguardo das instituição e da harmonia entre os poderes na municipalidade, de modo que a parlamentar Tatiana Franco dos Santos possa exercer livremente o mandato para o qual foi eleita, sem sofrer intimidações por parte do Requerido, além da necessidade de resguardo da integridade física da vereadora ameaçada por atos de violência" (fl. 47); bem como para assegurar a coleta de elementos de provas pelo Parquet estadual, no curso da investigação criminal.
+No presente writ, a defesa sustenta que a ilegalidade manifesta da decisão combatida autoriza a superação do óbice enunciado na Súmula 691 do Supremo Tribunal Federal - STF, tendo em vista que não há provas concretas quanto à autoria e materialidade dos delitos apontados pelo Ministério Público estadual, razão pela qual desatendidos os pressupostos estabelecidos no art. 312 do Código de Processo Penal - CPP para a decretação da prisão preventiva.
+Nesse sentido, afirma que "a decisão impugnada, afora o depoimento da própria vereadora, não aponta nenhum elemento de prova indicativo deque o Impetrante-Paciente obstruiu o exercício parlamentar da vereadora e, menos ainda, especifica qualquer meio de prova de que ele, em sua ações, teria agido movido por qualquer fim específico nomeado no art. 359-P do CP" (fl. 15).
+Assevera que a medida de afastamento do cargo é desproporcional, pois os atos administrativos que denotariam suposta perseguição política à vereadora "são passíveis de impugnação na esfera cível, o que, inclusive, já ocorreu no passado recente, bem como que, no que toca ao aludido risco à integridade física da edil, o artigo 319 do CPP elenca medidas outras, como a cautelar de afastamento, que se revela capaz de evitar o dano vislumbrado pela Autoridade Coatora" (fl. 26).
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva.
+Liminar indeferida às fls.196/199, o que ensejou a interposição de agravo regimental pelo ora impetrante às fls. 202/222.
+É o relatório.
+Decido.
+O presente mandamus encontra-se prejudicado.
+Isso porque, o STF, por meio dos Ofícios n. 2691 e 6496/2023, comunicou a concessão da ordem no Habeas Corpus n. 225.542/AM, impetrado pelo ora paciente perante aquela Corte, no sentido de revogar a prisão preventiva decretada em seu desfavor, bem como a medida de afastamento do exercício de suas funções do cargo de Prefeito do Município de Borba/AM.
+Vale ressaltar que tais informações foram ratificadas e cumpridas pelo Tribunal de Justiça do Estado do Amazonas, conforme se verifica do andamento processual dos Autos n. 4001497-90.2023.8.04.0000, constante da página eletrônica do TJ/AM, que em 9/3/2023, determinou a expedição de alvará de soltura em favor do paciente.
+Considerando que a determinação da Corte Suprema atende o pedido n o presente writ, de rigor o reconhecimento da perda de seu objeto.
+Ante do exposto, com fulcro art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus, bem como o agravo regimental de fls. 202/222.
+Publique-se.
+Intimem-se.
+EMENTA
