@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE BRASÍLIA - DF, suscitante, e o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DO RIO DE JANEIRO - RJ, suscitado.
+Consta dos autos que Estenio Melo Cavalcante Junior, ora interessado, foi condenado pelo Juízo de Direito da 2ª Vara Criminal de Ceilândia - DF como incurso nas sanções do art. 157, § 2º, inciso VII, do Código Penal, a pena de 8 (oito) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 21 (vinte e um) dias-multa (fls. 59-69).
+O Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento à apelação da defesa e a pena foi tornada definitiva (fls. 71-83). Encaminhados os autos à Vara de Execuções Penais do Distrito Federal - DF, o juiz competente declinou da competência para o Juízo de Direito da Vara de Execuções Penais da Comarca do Rio de Janeiro - RJ, ao argumento de que o apenado já respondia à execução penal anterior naquele estado (fls. 104-105).
+Em seguida, o Juízo da Vara de Execuções Penais do Distrito Federal - DF suscitou conflito de competência. Sustentou, em síntese, que: a) embora prevento para todas as execuções penais contra o condenado, o Juízo de Direito da Vara de Execuções Penais da Comarca do Rio de Janeiro - RJ determinou a devolução dos autos; b) segundo entendimento do Superior Tribunal de Justiça, a prática de novo crime não altera a competência para a execução penal, que deve prosseguir no local em que teve início o cumprimento da pena; e c) o sistema penitenciário do Distrito Federal está em superlotado e, por tal razão, não há como abrigar condenados por outras unidades da federação (fls. 117-118).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo da Vara de Execuções Penais do Distrito Federal - DF, ora suscitante (fls. 129-134).
+É o relatório. DECIDO.
+Segundo o art. 114 do Código de Processo Penal, o conflito de competência é considerado instaurado quando dois ou mais juízes se declaram competentes - conflito positivo de competência - ou incompetentes - conflito negativo de competência.
+Na espécie, embora o Juízo da Vara de Execuções Penais do Distrito Federal - DF tenha afirmado que o processo de execução penal encaminhado ao Juízo de Direito da Vara de Execuções Penais da Comarca do Rio de Janeiro - RJ foi devolvido, não há nos autos manifestação do referido juízo, ora suscitado.
+Assim, a ausência de peça essencial para a instauração do feito torna insubsistente o conflito de competência suscitado.
+Ante o exposto, não conheço do conflito de competência.
+Publique-se. Intimem -se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. AUSÊNCIA DE MANIFESTAÇÃO DO JUÍZO SUCITADO. PEÇA ESSENCIAL. CONFLITO NÃO CONHECIDO.
