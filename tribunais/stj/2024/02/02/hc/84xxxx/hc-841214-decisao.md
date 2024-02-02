@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de CICERO DA CONCEICAO DE ARAUJO (outro nome: CICERO DA CONCEIÇÃO ARAUJO) e outros, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS - Apelação n. 0101661-36.2018.8.09.0011.
+Extrai-se dos autos que os pacientes foram absolvidos pelo Tribunal do Júri da imputação dos delitos previstos no art. 121, § 2º, incisos I e IV, do Código Penal, em relação às vítimas Vinícius Athos Dias, Wilian Barreto da Silva e Emily Daniela Veloso da Silva, cinco vezes no art. 121, § 2º incisos I e IV, c/c art. 14, inciso II, todos do Código Penal, em relação às vítimas Gildomar Lopes da Silva, Daniel Ramos Cardoso, Vinícius Duarte de Souza, Jeone dos Santos, Maxuel Ribeiro Mendes, c/c art. 2º § 2º da Lei 12.850/2013 (organização criminosa).
+O Ministério Público interpôs apelação fundada no art. 593, III, "d", do CPP, perante o Tribunal de origem, que reconheceu nulidade do processo a partir da audiência em Plenário e determinou a a consequente repetição dos autos, ficando prejudicado exame da tese recursal (e-STJ, fls. 3497-3500).
+Neste writ, a defesa alega, em síntese, ofensa à Súmula n. 160 do STF, ao argumento de que a nulidade não foi arguída no recurso ministerial.
+Aduz que é inviável afastar a decisão soberana do Júri por eventual falha de gravação da sessão plenária, na medida em que a tal questão é de responsabilidade do judiciário.
+Pondera, ainda, que não deve ser cassada a decisão do Conselho de Sentença, uma vez que desmonstrada a pertinência entre a conclusão dos jurados e as provas apresentadas em plenário.
+Requer a concessão da ordem, liminarmente, para que seja suspenso os efeitos do acórdão atacado e, no mérito, seja afastada a nulidade declarada de ofício no acórdão.
+A liminar foi indeferida (e-STJ, fls. 3558-3559).
+Prestadas as informações (e-STJ, fls. 3566-3721 e 3737-3740), o Ministério Público Federal opina pela "denegação da ordem (e-STJ, fls. 3725-3727).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, em relação à alegação de que há pertinência entre a conclusão dos jurados e as provas apresentadas em plenário, verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"(..).
+2. Em relação ao pleito de relaxamento da custódia após a anulação da sentença em acórdão de apelação, o exame por esta Corte de matéria não decidida pelo Tribunal de Justiça enseja indevida supressão de instância.
+(..).
+(AgRg no HC 773.723/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+"(..).
+2. O pleito de progressão de regime não foi objeto de debate pelo Tribunal de origem, o que evidencia a impossibilidade de conhecimento da impetração por este Sodalício, sob pena de supressão de instância. Precedentes.
+(..).
+(AgRg no HC 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+No mais, a conclusão adotada pela Corte Estadual, com relação ao reconhecimento de ofício de nulidade do processo, vai de encontro ao postulado na Súmula 160/STF: "É nula a decisão do Tribunal que acolhe, contra o réu, nulidade não arguida no recurso da acusação, ressalvados os casos de recurso de ofício" .
+Ora, se os acusados foram absolvidos pelo Conselho de Sentença, é inválida a declaração de ofício de vício na gravação da sessão plenária, que sequer foi abordado pelo Ministério Público em suas razões recursais, cujo ônus lhe cabia.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. DELITO DO ART. 121, § 2.º, INCISOS II, III, IV E VI, C.C. O § 2.º-A, DO CÓDIGO PENAL. PLEITO DE RESTABELECIMENTO DA DECISÃO DE ABSOLVIÇÃO DO RECORRENTE. ALEGADA VIOLAÇÃO, PELA CORTE LOCAL, DO PRINCÍPIO DA DEVOLUTIVIDADE DOS RECURSOS POR TER DECIDIDO ALÉM DAS LIMITAÇÕES CONSTANTES DAS RAZÕES DA APELAÇÃO. OCORRÊNCIA. SÚMULA N. 160 DA SUPREMA CORTE. NULIDADE DO ACÓRDÃO RECORRIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A apelação interposta contra decisão do Tribunal do Júri possui efeito devolutivo restrito e deve ser conhecida em seus estreitos limites. No caso, a Acusação limitou-se a arguir que a absolvição se deu de forma contrária às provas dos autos, o que foi rechaçado pela Corte de origem em razão do pleito de clemência formulado pela Defesa.
+2. É nula a decisão que, de ofício e em violação ao princípio da devolutidade recursal, reconhece nulidade contra o Acusado, ainda que se trate de hipótese de nulidade absoluta. (Súmula 160/STF).
+3. Agravo regimental desprovido."
+(AgRg no REsp n. 1.955.065/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/3/2023, DJe de 20/3/2023.)
+"PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIOS QUALIFICADOS. DESCLASSIFICAÇÃO QUANTO AO CRIME TENTADO. LESÃO CORPORAL. RECURSO MINISTERIAL ADSTRITO AO ARTIGO 593, III, d, DO CPP. RECONHECIMENTO, DE OFÍCIO, EM SEGUNDO GRAU, DE NULIDADE NÃO ARGUIDA NO APELO MINISTERIAL. IMPOSSIBILIDADE. SÚMULA N. 160/STF. RECURSOS DEFENSIVOS PREJUDICADOS. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. "É nula a decisão do Tribunal que acolhe, contra o réu, nulidade não arguida no recurso da acusação, ressalvados os casos de recurso de ofício" (Súmula n. 160/STF).
+3. In casu, o recurso de apelação do Ministério Público fundou-se exclusivamente, em relação a desclassificação do homicídio tentado para lesão corporal, em decisão manifestamente contrária às provas dos autos, sendo que o Tribunal de origem procedeu, de ofício, à anulação do Tribunal do Júri por entender que "as votações dos quesitos foram contraditórias", tese não arguida no recurso ministerial. Assim sendo, tendo o Tribunal a quo, de ofício, reconhecido nulidade não arguida no recurso de apelação ministerial, de rigor sua anulação.
+4. Habeas Corpus não conhecido. Ordem concedida de ofício para anular o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0003592-37.2016.8.26.0052, devendo a Corte de origem julgar novamente os recursos apresentados nos limites das impugnações."
+(HC 597.378/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 15/10/2020, grifou-se)
+"HABEAS CORPUS SUBSTITUTIVO. APELAÇÃO CRIMINAL. LIMITES. TANTUM DEVOLUTUM QUANTUM APPELATUM. ACOLHIMENTO, CONTRA O RÉU, DE NULIDADE NÃO ARGUÍDA NA APELAÇÃO DO MINISTÉRIO PÚBLICO. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Hipótese em que o réu foi denunciado como incurso no art. 155, § 4º, II, do CP e o Juiz, em consequência de prova colhida durante a instrução, entendeu cabível nova definição jurídica do fato, determinando a providência do art. 384, caput, do CPP. O Parquet não aditou a denúncia e sobreveio aos autos sentença absolutória, sem a aplicação do art. 28 do CPP. A acusação apelou e requereu a condenação nas penas do furto simples, deixando de se insurgir quanto à falta de remessa dos autos ao procurador-geral.
+2. O efeito devolutivo da apelação é total ou parcial quanto à extensão e sempre integral quanto à profundidade. O Tribunal poderá analisar, com ampla profundidade, a pretensão recursal que lhe foi submetida, não ficando adstrito aos fundamentos adotados em primeiro grau, desde que respeitada a extensão objetiva do recurso.
+3. Respeitados os limite objetivos da apelação, era inviável o acolhimento, de ofício e em desfavor do réu, de nulidade por violação do art. 384, § 1º, do CPP, não arguída pelo Ministério Público na petição de impugnação da sentença. Súmula n. 160 do STF.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para anular o acórdão proferido na apelação e determinar ao Tribunal de Justiça que prossiga no julgamento do recurso, observada a extensão demarcada na peça de interposição do apelo."
+(HC 311.439/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2015, DJe 02/02/2016, grifou-se)
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para anular o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás na Apelação Criminal n . 0101661-36.2018.8.09.0011, determinando à Corte estadual, excluída a nulidade de ofício reconhecida, que prossiga no julgamento de mérito da apelação ministerial.
+Comunique-se, com urgência, à autoridade coatora e ao Juízo da 4ª Vara Criminal da Comarca de Aparecida de Goiânia/GO.
+Publique-se.
+Intime-se
+ EMENTA
