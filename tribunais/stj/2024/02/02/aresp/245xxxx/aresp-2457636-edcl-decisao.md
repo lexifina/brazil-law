@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de novos embargos de declaração opostos por FRANCISCO ALBEA NETO e OUTROS contra decisão monocrática de minha relatoria que rejeitou anteriores embargos de declaração (fls. 695-697).
+Nas razões dos aclaratórios, o embargante reitera alegação de omissão no julgado, visto que "Destaca-se que após o julgamento da apelação, a parte embargante apresentou embargos de declaração informando que: "Importante se faz destacar que, ainda não tenha sido reconhecida a aplicação do CDC e a inversão do ônus da prova, cabe ao Demandado demonstrara existência de fato impeditivo, modificativo ou extintivo do seu direito, nos termos do artigo 373, inciso II do CPC"", o que afastaria a Súmula n. 211/STJ.
+Impugnação às fls. 709-715.
+É, no essencial, o relatório.
+Nada a acolher.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A decisão ora embargada, bem como a anterior, foram claras ao consignar que o art. 373, II, do CPC não foi prequestionado, encontrando-se óbice na Súmula n. 211/STJ.
+Repise -se que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional.
+A propósito, cito:
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008 (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mais, uma vez já manejados anteriores aclaratórios, em que já reiterada a tese da omissão, sendo que tal premissa já fora rejeitada, os segundos se mostraram totalmente descabidos, pois a "reiteração da insurgência em segundos aclaratórios revela intuito protelatório, ensejador da multa do art. 1.026, § 2º, do CPC/2015" (EDcl nos EDcl no AgInt no REsp n. 1.439.800/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 28/10/2021).
+A título de reforço, confiram -se :
+1. Os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores. Caracterizado, na espécie, o manifesto caráter protelatório dos segundos embargos de declaração opostos na origem, é de rigor a manutenção da multa prevista no § 2º do art. 1.026 do CPC/2015. (AgInt no AREsp n. 2.097.025/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 4/10/2022.)
+IV - Os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois a oportunidade para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa, ensejando a imposição de multa por prática processual abusiva e manifestamente protelatória, nos termos do art. 1.026, § 2º, do CPC/15. (AgInt no REsp n. 1.897.694/ES, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 11/2/2021.)
+Ante o exposto, rejeito os embargos de declaração, com imposição de multa no patamar de 1 % do valor da causa, nos termos do art. 1.026, § 2º, do CPC.
+Publique-se . Intimem-se.
+EMENTA
