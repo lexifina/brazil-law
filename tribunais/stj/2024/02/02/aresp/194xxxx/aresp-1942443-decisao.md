@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interposto por Sindicato dos Supervisores de Ensino do Magistério Oficial no Estado de São Paulo, contra decisão denegatória de seguimento a recurso especial, por sua vez interposto contra acórdão do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fls. 1.516-1.526):
+Agravo de Instrumento. Ação de indenização. Perda de uma chance. Cumprimento definitivo de sentença. Fase de liquidação. Títulojudicial que determinou a liquidação dos valores devidos pelosindicato, que deixou de incluir a autora na ação coletiva interpostacontra Fazenda Pública para obtenção de reajuste salarial. Impugnação ao cálculo do valor apontado pela exequente. Juiz que determinou a realização de perícia judicial para apuração do quantumdebeatur. Insurgênciarecursal do sindicatoréu. Fundamentos recursais que não comportam acolhimento. A liquidação do valor está sendo observada, conforme determinadopelo título judicial. Sindicato que aduz matérias que deveriam tersido opostas na fase de conhecimento. Absoluta preclusão. Títulojudicial transitado em julgado. Não se tratam de fatos novos ou supervenientes. A alegação de excesso de execução somente poderáser apurada após a realização da perícia, com a consequente e oportuna manifestação das partes. Recurso desprovido.
+O apelo excepcional se fundamentou na alínea a do permissivo constitucional, apontando violação aos arts. 510, 511 e 1.022 do CPC/2015, bem como postulou o sobrestamento do presente recurso até o julgamento do AREsp n. 1.742.944/SP, pois a matéria nele tratada era prejudicial ao presente recurso.
+Negado seguimento ao recurso especial, foi interposto o presente agravo.
+Brevemente relatado, decido.
+Com efeito, da análise minuciosa dos autos se constata que houve a perda superveniente do objeto do presente recurso, senaõ vejamos.
+Nos presentes autos há discussão acerca da iliquidez do título executivo, postulando a parte ora recorrente que houvesse a instauração do procedimento de liquidação de sentença.
+De outro lado, no AREsp n. 1.742.944/SP, este signatário proferiu decisão, a qual transitou em julgado em 8/9/2021, conhecendo do agravo interposto por Sindicato dos Supervisores de Ensino do Magistério Oficial no Estado de São Paulo para dar provimento ao seu recurso especial e determinar a instauração da fase de liquidação de sentença, pelo procedimento comum, no Juízo de primeiro grau, com observância aos preceitos legais correlatos.
+Diante disso, nota-se que a pretensão ora buscada pelo agravante foi totalmente contemplada naquele outro recurso, de maneira que não mais subsiste objeto a ser deliberado nestes autos.
+Ante o exposto, não conheço do presente agravo em recurso especial, em razão da perda de seu objeto.
+Publique-se.
+EMENTA
