@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por RODNEI OLIVEIRA DA SILVA contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 313):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL - Sentença de procedência da ação - Recurso do requerido alegando nulidade da citação - Citação por carta com comprovante de aviso de recebimento - Alegação de que não recebida pela pessoa indicada, nem mesmo no condomínio onde reside - Declaração emitida pelo Condomínio e pelo recebedor - Alegação desacompanhada do livro de recebimento de correspondências a comprovar que, no dia indicado no AR, não foi recebida a correspondência - Boletim expedido pelo correio autorizando o carteiro ao preenchimento do AR, durante a pandemia - Citação valida - Ausência de defesa quanto ao mérito da ação - Argumento de necessidade de juntar documentos - O apelante poderia ter juntado nos embargos ou nesta apelação, ou justificar a impossibilidade - Oitiva de testemunhas - Desnecessidade- Sentença mantida- RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 352-359).
+Nas razões do recurso especial (e-STJ, fls. 321-339), o recorrente alegou violação aos arts. 5º, 8º, 242, 248, § 4º, 370, 409, 428, I, 489 e 1.022 do CPC/2015, e 5º, LIV e LV, da Constituição Federal.
+Apontou a negativa de prestação jurisdicional e deficiência na fundamentação no acórdão recorrido por omissão quanto à declaração do empregado do condomínio Francisco de Assis dos Santos lavrada em cartório, que confirma o fato de nunca ter recebido a AR relacionada ao processo 1022369.02.2021.8.26.0562.
+Sustentou, em síntese, a nulidade da citação e que a má-fé não se presume.
+Aduziu que a comprovação da veracidade da assinatura do porteiro depende de prévia realização de procedimento próprio.
+Não foram apresentadas contrarrazões (e-STJ, fl. 362).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pela recorrente, de forma clara e fundamentada, notadamente quanto à declaração elaborada unilateralmente, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+(..)
+3. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+No tocante à validade da citação entregue no endereço do insurgente, o Colegiado estadual assim se manifestou (e-STJ, fls. 314-316):
+Alega o apelante a nulidade da citação postal ao argumento de que não recebida por ele a carta citatória, sustentando ainda que a assinatura e os dados apostos no aviso de recebimento de fls. 181 não são do colaborador "Francisco Santos".
+Para tanto, exibe a declaração de fls. 239 emitida pelo Condomínio edilício e pelo funcionário Francisco de Assis dos Santos, ou seja,elaborada unilateralmente.
+Verifica-se que foi enviada a carta para o endereço residencial do apelante, coincidente com aquele declinado na procuração outorgado ao seu patrono, de fl. 238. Ainda, ele recebeu intimação no mesmo endereço, que foi recebida pelo mesmo porteiro, Sr. Francisco, e a assinatura é idêntica.
+A despeito das alegações do apelante de que a assinatura e os dados não se referem ao porteiro Francisco, certo é que o aviso de recebimento está identificado com o nome e número de documento correspondente. Todavia, ao emitir a declaração de folha 239, o Sr Francisco deixou de identificar seu documento e fez assinatura por extenso.
+Logo, não se pode aferir a veracidade da declaração.
+Ainda que não se possa imputar a prova negativa à parte,a afirmação de que "em nossos registros não contam nenhuma entrega feita pelo correio de AR relacionada ao processo 1022369.02.2021.8.26.0562", esta veio desprovida de comprovação. Bastaria o apelante acostar aos autos o livro ou documento similar onde são registradas as correspondências recebidas pelo condomínio onde reside, na data apontada como da entrega, para que se constatasse o alegado não recebimento, a fim de sanar qualquer dúvida. O que não ocorreu.
+Não fosse só isso, o boletim nº 03, de 20.03.2022,emitido pela empresa dos Correio (https://www. correios. com. br/coronavirus/boletim/copy_of_boletim-03-procedimentos-operacionais-de-entrega-e-suspensao-de-alguns-servicos ), dispõe:
+Em consonância com as medidas preventivas já informadas para evitar a transmissão do coronavírus, informamos novos procedimentos operacionais, com a ampliação de restrições de contato físico entre pessoas ou de compartilhamento de uso de caneta no momento da entrega de objetos postais:..
+Aviso de Recebimento AR: Tanto para entregas individuais, como agrupadas, os Avisos de Recebimento serão preenchidos pelos carteiros com todas as informações requeridas informadas pelo recebedor, mantendo-se a distância mínima recomendada;
+Ademais, verifica-se que o apelante sequer descreveu como teria tomado conhecimento desta ação, limitou-se a afirmar que "após tomar ciência da presente ação, por outros meios.." (fl. 232) e ainda assim interpôs, tempestivamente, embargos de declaração (fls. 229/239), rejeitados pela decisão de fls. 241/242, bem como este recurso de apelação.
+As circunstâncias dos autos indicam a validade da citação, porque entregue no endereço do apelante, sem ressalvas, consoante artigo 280 do CPC.
+Com efeito, importa destacar a possibilidade de a carta de citação ser recebida por terceira pessoa, quando se tratar de condomínios edilícios ou de loteamentos com controle de acesso, onde será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência (§ 4º do art. 248 do CPC/2015).
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado (quanto à validade da citação, tendo em vista que a AR foi entregue no endereço do insurgente), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL. VÍCIO NA CITAÇÃO. INEXISTÊNCIA. INTELIGÊNCIA DO ART. 248, § 4º, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
