@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ATNER AFONSO DE CAMARGO PENAZZI contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da apelação criminal n. 1500005-82.2018.8.26.0594.
+Depreende-se dos autos que a paciente foi condenada em grau de apelação às penas de 5 anos e 10 meses de reclusão, em regime fechado, mais pagamento de 583 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/06.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na condenação da paciente, na exasperação da pena-base acima do mínimo legal e na negativa de aplicação da causa especial de diminuição do § 4º do art. 33 da Lei de drogas.
+Requer, assim, a concessão da ordem para " ..  restabelecer a sentença de primeiro grau, ou, subsidiariamente, realinhar a dosimetria de pena com a consequente adequação de regime de cumprimento" (fl. 18).
+É o breve relatório. DECIDO.
+Constata-se que a presente impetração constitui mera reiteração do pedido formulado no HC 835.174/SP, isso porque há identidade de partes e da causa de pedir, sendo o ator coator dos 02 (dois) feitos o mesmo acórdão (processo n. 1500005-82.2018.8.26.0594), o que constitui óbice ao seu conhecimento.
+Assinale-se que o referido HC foi protocolado nesta Corte Superior em 29/06/2023 e, ainda, encontra-se em tramitação. Já a presente impetração aportou nesse Sodalício em 30/01/2024, configurando, assim, a presença concomitante dos feitos e caracterizando litispendência.
+A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS JULGADO PREJUDICADO. PRETENSÃO DE REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL DEDUZIDA CONCOMITANTEMENTE NO WRIT E EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. QUESTÃO ANALISADA NO MEIO PRÓPRIO. PERDA DO OBJETO. PRECEDENTES.
+1. O presente habeas corpus, impetrado em benefício de Alberto Pereira - no qual se busca a reforma da dosimetria das penas impostas na sentença penal que condenou o paciente por tráfico de drogas e associação ao narcotráfico nos autos nº 033.03.006441-7 da 1ª Vara Criminal da Comarca de Itajaí-SC, ao final, fixando-as definitivamente e em concurso material ao máximo previsível de 7 (sete) anos e 7 (sete) meses de reclusão, em razão da interposição de agravo em recurso especial perante esta Corte - perdeu seu objeto, eis que o AREsp n. 1.706.557/SC foi julgado em 8/9/2020, com trânsito em julgado em 13/10/2020.
+2. Em ambas as insurgências, o agravante postula a redução das penas-base ao mínimo legal.
+3.  ..  dizem os precedentes do Superior Tribunal de Justiça que, havendo a interposição de recurso e impetração de habeas corpus com objetos idênticos, o julgamento do recurso pela Turma deste Tribunal prejudica o exame da impetração, haja vista a reiteração de pedidos (AgRg no HC n. 492.527/SP, de minha relatoria, Sexta Turma, DJe 20/11/2020).
+4. Ao impetrar habeas corpus após a interposição de recurso especial, cujo fundamento abrange o constante no writ, a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais (AgRg no HC n. 560.166/RO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/3/2020).
+5. Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial. Precedentes (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020).
+6. Agravo regimental desprovido" (AgRg no HC n. 590.414/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 10/5/2021, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ANTERIOR INTERPOSIÇÃO DE RECURSO ESPECIAL PENDENTE DE JULGAMENTO. UNIRRECORRIBILIDADE DAS DECISÕES. RECURSO DESPROVIDO.
+1. Ao impetrar habeas corpus após a interposição de recurso especial, cujo fundamento abrange o constante no writ, a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+2. Agravo regimental a que se nega provimento" (AgRg no HC n. 560.166/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 2/3/2020, grifei).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+ ..
+2. No caso em exame, não obstante as causas de pedir expostas no recurso especial sejam mais amplas daquela formulada neste writ, o pedido final de absolvição foram feitos em ambos processos, não tendo a defesa trazido qualquer fato novo a ensejar o reexame por esta Corte do pleito deduzido no AREsp 608.198/SP.
+3. Hipótese em que a defesa pretende, ao impetrar este writ após a interposição do agravo em recurso especial, a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido" (AgRg no HC n. 476.445/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019, grifei).
+O art. 210 do RISTJ, por sua vez, dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a in competência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indeferido liminarmente o presente habeas corpus, nos termos dos arts. 34, XX e 210 ambos do RISTJ.
+Publique-se. Intime-se.
+EMENTA
