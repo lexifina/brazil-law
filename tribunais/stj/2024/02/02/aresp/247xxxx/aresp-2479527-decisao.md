@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Wilson Marques da Silva, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 49):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. POSSIBILIDADE DE PENHORA DE PERCENTUAL DA REMUNERAÇÃO DO EXECUTADO PARA O PAGAMENTO DE DÍVIDA NÃO ALIMENTAR, DESDE QUE PRESERVADA A DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. ENTENDIMENTO CONSOLIDADO PELA CORTE ESPECIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL Nº 1.582.475/MG. PRECEDENTES DESTE TRIBUNAL. IMPOSSIBILIDADE DE PENHORA NO PRESENTE CASO. PROVENTOS INFERIORES A UM SALÁRIO MÍNIMO, BUSCA DE BENS PELO SISBAJUD E RENAJUD INFRUTÍFERAS. NÃO CONSTATADAS ENTREGAS DE DECLARAÇÃO DE IMPOSTO DE RENDA PELA PESQUISA DO INFOJUD. INEXISTÊNCIA DE SITUAÇÃO FINANCEIRA QUE POSSIBILITE A PENHORA DO VALOR DOS PROVENTOS DE APOSENTADORIA. A CONSTRIÇÃO DE QUALQUER VALOR ACARRETARÁ FORTE IMPACTO NO ORÇAMENTO FAMILIAR E ENSEJARÁ PREJUÍZO A SOBREVIVÊNCIA DO AGRAVADO E DE SUA FAMÍLIA.
+RECURSO DESPROVIDO.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente indicou divergência jurisprudencial e violação aos arts. 489, § 1º e seu inciso IV, 789 e 1.022, I, do CPC/2015.
+Sustentou a ocorrência de negativa de prestação jurisdicional.
+Afirmou ser possível a relativização da impenhorabilidade salarial, salientando que o recorrido, além de receber proventos de aposentadoria, seria também pecuarista, podendo se extrair das redes sociais o seu alto padrão de vida.
+Sem contrarrazões (e-STJ, fl. 219).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+No que se refere à suposta negativa de prestação jurisdicional, percebe-se que a apontada violação não se sustenta, tendo em vista que o Tribunal a quo examinou, de forma fundamentada, todas as questões necessárias ao deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do ora insurgente.
+Registre-se, oportunamente, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, atendo-se às questões essenciais à sua resolução, o que foi feito no caso.
+A propósito:
+PROCESSUAL CIVIL. DESVIO DE ENERGIA ELÉTRICA. AUSÊNCIA DE COMPROVAÇÃO DA FRAUDE. INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO APURATÓRIO. NÃO VIOLAÇÃO DOS ARTIGOS 1.022, II, 489, § 1º, II, do CPC/2015. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+2. No tocante ao tema preliminar, não há violação dos arts. 1.022, II, 489, § 1º, II, do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+3. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que ocorreu no caso dos autos. Além disso, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.315.137/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023.)
+No mais, não se desconhece o entendimento jurisprudencial da Corte Especial do STJ no sentido de que a regra geral de impenhorabilidade de salários (art. 833, IV, do CPC/2015) pode ser excepcionada, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e de sua família.
+Confira-se:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE. POSSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial - nota promissória.
+2. Ação ajuizada em 13/10/1994. Recurso especial interposto em 29/10/2009. Embargos de divergência opostos em 23/10/2017. Julgamento: CPC/2015.
+3. O propósito recursal é definir sobre a possibilidade de penhora de vencimentos do devedor para o pagamento de dívida de natureza não alimentar.
+4. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Precedentes.
+5. Na espécie, a moldura fática delineada nos autos - e inviável de ser analisada por esta Corte ante a incidência da Súmula 7/STJ - conduz à inevitável conclusão de que a constrição de percentual de salário da embargante não comprometeria a sua subsistência digna.
+6. Embargos de divergência não providos.
+(EREsp n. 1.518.169/DF, relator Ministro Humberto Martins, relatora para acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 3/10/2018, DJe de 27/2/2019.)
+Na espécie, contudo, verifica-se que o Colegiado estadual concluiu , a partir da análise do acervo fático-probatório, que não seria possível a penhora de percentual dos proventos de aposentadoria do ora recorrido, sob pena de comprometimento da sua subsistência digna.
+Veja-se (e-STJ, fl. 54):
+11. Na presente execução, a agravante requereu a penhora de 30% dos proventos de aposentadoria do executado para o pagamento da dívida. O pedido foi indeferido pelo juiz de primeiro grau sob o fundamento de que, por não se tratar de verba alimentícia, não havia plausibilidade do deferimento (mov. 472.1).
+12. Pois bem. Analisados os extratos juntados no processo, a despeito da possibilidade de penhora de percentual de salário/aposentadoria conforme acima já fundamentado, no presente caso, não é possível a penhora de qualquer valor, visto que o valor do crédito do INSS comprovado nos autos é inferior a um salário mínimo (R$ 668,31 em dezembro/2021 (mov. 448.5), R$ 668,31 em janeiro/2022 (mov. 448.6), R$ 780,31 março/2022 (mov. 448.8). Saliente-se, ademais, que não foram constatadas as entregas de declaração de imposto de renda pela pesquisa do INFOJUD (mov. 204.2) dos anos anteriores a 2019. Por fim, corroborado a esses fatos, as pesquisas de Sisbajud e Renajud não foram tiveram êxito na busca de bens passíveis de penhora, de forma que não se vislumbra a existência de situação financeira que possibilite a penhora do valor dos proventos de aposentadoria.
+13. Deste modo, consideradas ainda as despesas ordinárias com alimentação, saúde, vestuário de toda família, não se vislumbra a possibilidade de constrição de qualquer valor dos proventos do agravado, pois acarretará forte impacto no orçamento familiar e ensejará prejuízo a sua sobrevivência e de sua família, o que importará em violação ao princípio da dignidade da pessoa humana.
+Para derruir a convicção formada, seria indispensável o revolvimento de fatos e provas, procedimento obstado na via extraordinária, em virtude da previsão contida no enunciado n. 7 da Súmula do STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, desprovê-lo.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. PRETENSÃO DE PENHORA DE PERCENTUAL DOS PROVENTOS DE APOSENTADORIA. IMPOSSIBILIDADE DE RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. SITUAÇÃO EXCEPCIONAL NÃO CONSTATADA. REVISÃO. INVIABILIDADE . SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVÊ-LO.
