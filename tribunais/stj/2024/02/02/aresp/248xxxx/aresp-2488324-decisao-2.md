@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Backseg - Gestão de Documentos e Recebíveis Ltda. - Microempresa contra decisão que não admitiu o recurso especial, com base no art. 105, III, c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 309):
+Responsabilidade civil. Ação declaratória de inexistência de débito cumulada com pedido de indenização por danos morais. Sentença de parcial procedência. Apelo de todas as partes.
+Ação que foi ajuizada somente em relação à Backseg, e, não, em relação à seguradora Sabemi. Sabemi, porém, que é admitida como assistente da ré (CPC, art. 119 e parágrafo único), conhecendo-se, por isso, o seu recurso.
+Descontos indevidos de parcela do prêmio na conta corrente da autora. Autora que nega a contratação dos serviços. Prova grafotécnica produzida nos autos que atesta a falsidade da assinatura aposta no instrumento contratual.
+Danos morais evidenciados. Quantum indenizatório majorado para 5 salários-mínimos.
+Sabemi que se manifestou pela devolução do valor descontado na forma simples. Observância da tese firmada pela Corte Especial do STJ. Modulação dos efeitos do precedente (EAREsp n. 676.608/RS). Restituição em dobro somente das quantias descontadas a partir de 30 de março de 2021. Valor debitado em 04.01.2019 e, por isso, a devolução é simples. Precedente desta Câmara.
+Apelação da autora parcialmente provida e, da ré Backseg, não provido. Recurso da Sabemi parcialmente provido.
+Opostos embargos de declaração por Izabel Cristina Conrado e Sabemi Seguradora S.A., foram rejeitados (e-STJ, fls. 324-326 e 333-336).
+Nas razões do recurso especial, a recorrente, alegou divergência jurisprudencial em relação a fixação do valor indenizatório para que seja fixado de forma moderada levando em consideração os critérios da razoabilidade e da proporcionalidade.
+As contrarrazões não foram apresentadas - fl. 376 (e-STJ).
+O T ribunal local não admitiu o processamento do recurso especial ante a falta de demonstração da divergência jurisprudencial (e-STJ, fls. 381-383).
+Brevemente relatado, decido.
+Com efeito, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgInt no AREsp n. 884.901/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; AgRg no AREsp n. 773.710/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016; AgRg no Ag n. 1.056.913/SP, Relatora Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008).
+Nessa linha de intelecção, o entendimento desta Corte é no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge especificamente contra todos eles.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC).
+3. O julgamento monocrático do presidente do Superior Tribunal de Justiça antes da distribuição do processo, pelo não conhecimento de recurso que seja inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, está amparado no art. 21-E, V, do RISTJ, não havendo falar em violação do princípio da colegialidade, tampouco em cerceamento de defesa.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.189.592/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 7/STJ. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+2. É assente o entendimento desta Corte Superior de que a impugnação ao óbice da Súmula nº 7/STJ deve ser específica quanto a todas as matérias constantes da decisão agravada.
+3. O Superior Tribunal de Justiça entende ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III, do Código de Processo Civil de 2015).
+4. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula nº 182/STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.047.721/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA E REPARAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer com pedido de tutela de urgência e reparação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.163.324/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+Na hipótese, da leitura das razões de agravo (e-STJ, fls. 386-392), constata- se que a parte agravante não procedeu à impugnação específica do fundamento mencionado pela Corte estadual para inadmitir o apelo especial, uma vez que deixou de infirmar a falta de configuração do dissídio jurisprudencial, conforme indicado na decisão de fls. 381-383 (e-STJ).
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial de Backseg - Gestão de Documentos e Recebíveis Ltda. - Microempresa.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte adversa em R$ 200,00 (duzentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 2 . AGRAVO DE BACSEG - GESTÃO DE DOCUMENTOS E RECEBÍVEIS LTDA. - MICROEMPRESA NÃO CONHECIDO.
