@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Jerusa Dalla Barba Costa, com fulcro no art. 105, III, c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 222):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA.
+APLICAÇÃO DO CDC. APLICAM-SE AS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR ÁS INSTITUIÇÕES FINANCEIRAS (SÚMULA N. 297 DO STJ).
+CAPITALIZAÇÃO DIÁRIA DOS JUROS. DE ACORDO COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA, "É PERMITIDA A CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO, DESDE QUE EXPRESSAMENTE PACTUADA, EM CONTRATOS CELEBRADOS APÓS 31.3.2000, DATA DA PUBLICAÇÃO DA MEDIDA PROVISÓRIA N. 1.963-17/2000 (EM VIGOR COMO MP 2.170-36/2001)". CONTRATAÇÃO EXPRESSAMENTE PREVISTA. INTELIGÊNCIA DAS SÚMULAS NS. 539 E 541 DO STJ.
+APELAÇÃO DESPROVIDA.
+No apelo especial, a recorrente indica divergência jurisprudencial quanto à interpretação dos arts. 6º, III, e 46 do CDC, sob a assertiva de que não haveria, no contrato, menção clara e efetiva da taxa de juros diária.
+Contra-arrazoado o feito (e-STJ, fls. 248-260), o recurso especial foi admitido na origem (e-STJ, fls. 264-269), ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+Não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou o dissídio nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Isso porque é assente nesta Casa que a mera transcrição de ementas, sem a realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+Além disso, o dissenso jurisprudencial deve ser comprovado por certidão, cópia, ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução do julgado disponível na internet, com indicação da respectiva fonte, o que não ocorreu no caso concreto.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE FORNECIMENTO DO MEDICAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. Para a caracterização da divergência jurisprudencial, a parte recorrente deve cumprir os requisitos de interposição, sendo indispensável a indicação do repositório oficial em que publicado o acórdão paradigma ou de juntar o seu inteiro teor; devida a realização do cotejo analítico entre os julgados confrontados; e demonstração da similitude fático-jurídica, devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, não bastando a simples transcrição de ementas, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.042.384/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. A falta de comprovação adequada do dissídio jurisprudencial, por meio da juntada das cópias integrais autenticadas dos julgados paradigmas ou da indicação do repositório oficial ou credenciado, inclusive mídia eletrônica, em que publicados, inviabiliza o recurso interposto pela alínea "c" do permissivo constitucional, não bastando a afirmação do recorrente quanto à existência da divergência.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.472.398/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/2/2020, DJe de 20/2/2020.)
+Outrossim, verifica-se que um dos acórdãos selecionados para demonstrar a alegada divergência é proveniente do próprio Tribunal de Justiça do Estado do Rio Grande do Sul, fazendo incidir, na espécie, o óbice contido no enunciado n. 13 da Súmula do STJ, que assim dispõe : "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa, suspensa a exigibilidade em razão do deferimento do benefício da gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO E DE INDICAÇÃO DO REPOSITÓRIO OFICIAL. ACÓRDÃO RECORRIDO E PARADIGMA PROVENIENTES DO MESMO TRIBUNAL. SÚMULA 13/STJ. RECURSO NÃO CONHECIDO.
