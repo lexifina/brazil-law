@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que inadmitiu apelo nobre, interposto com fundamento no art. 105, inciso III, da Constituição Federal que desafia acórdão do TRF-4ª, que confirmou a improcedência do pedido formulado em ação civil pública em face da UNIÃO e do BANCO DO BRASIL S.A., destinado à retomada de veiculação de comercial e ao pagamento de dano moral coletivo.
+O recorrente sustenta que o acórdão violou os arts. 89 e 90 da Lei n.13.303/2016 e o art. 1º, I, da Lei n. 12.288/2010, ao argumento de que "a prematura retirada do ar do comercial e as manifestações do Presidente da República em que admite publicamente a determinação para suspensão de sua veiculação" caracterizam "interferência indevida na autonomia da estatal,  ..  preconceito em razão de raça/cor e de sexo (que inclui a LGBTQfobia) e censura, a atentar contra os princípios da Administração Pública, notadamente legalidade, publicidade e moralidade, e a ensejar dano moral coletivo" (e-STJ fls. 1388/1393).
+Contrarrazões.
+Parecer ministerial pelo conhecimento e provimento do apelo nobre (e-STJ fls. 1630/1646).
+Passo a decidir.
+Cumpre ressaltar, inicialmente, que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Mediante análise dos autos, verifico que a inadmissão do recurso se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha o recorrente impugnado especific amente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento à vista da necessidade do exame das provas que repousam nos autos.
+É que, tendo o Tribunal de origem reconhecido que o conjunto probatório não foi hábil a demonstrar que o filme publicitário suspenso teve o condão de ofender a coletividade de pessoas homossexuais, negras e transexuais, a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que seria inviável em sede de recurso especial. Reporto-me, ainda, à parte final do voto, às e-STJ fls. 1.366/1.368.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER DO RECURSO ESPECIAL.
+Publique-se. Intimem-se.
+EMENTA
