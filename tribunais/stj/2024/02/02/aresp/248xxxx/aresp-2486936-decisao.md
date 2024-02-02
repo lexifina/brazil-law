@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo interposto por RICARDO KERR DE BARROS PEREIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 276-282):
+COMPRA E VENDA DE BEM MÓVEL. AÇÃO DE REPARAÇÃO POR DANO MATERIALC. C. INDENIZAÇÃO POR DANO MORAL. O contrato deve ser interpretado de forma a prestigiar a livre e soberana manifestação de vontades celebrada entre as partes, prevalecendo a regra do pacta sunt servanda, devendo cada uma das partes envolvidas no litígio arcar com a responsabilidade assumida no acordo. Sentença mantida. Recurso desprovido, com majoração da verba honorária, nos termos do artigo 85, § 11 do CPC.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou (fls. 288-292).
+No recurso especial, a parte recorrente alega, no mérito, ofensa aos arts. 6º, VI, e 14 do CDC, e 186, 927 e 475 do Código Civil, sustentando, em síntese, que a recorrida, na qualidade de seguradora, teria o dever de indenizar pelo sinistro ocorrido com seu veículo, pois teria realizado apenas endosso de apólice anterior e estaria realizando os pagamentos da atual apólice tempestivamente, e que a ausência de instalação de rastreador, nos termos pactuados na apólice, se deu por culpa exclusiva da recorrida.
+Suscita divergência jurisprudencial com arestos de outros Tribunais.
+O recorrido ofereceu contrarrazões ao recurso especial (fls. 319-338).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 345-347), o que ensejou a interposição do presente agravo.
+O agravado apresentou contraminuta do agravo (fls. 366-383).
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, não merece conhecimento o apelo nobre quanto à suscitada violação dos arts. 6º, VI, e 14, do CDC, e 186, 927 e 475 do Código Civil, relativos a eventual responsabilidade da recorrida pela cobertura do sinistro ocorrido no veículo do recorrente, bem como do consequente dever de indenizar.
+Ocorre que, da análise do acórdão recorrido, verifica-se que o Tribunal de origem decidiu a lide com base no conjunto fático-probatório carreado aos autos, concluindo que a apólice não estava vigente em razão da ausência de vistoria e instalação de rastreador no veículo, obrigações estas que estão estipuladas em contrato e foram aceitas pelo recorrente, o que afasta o dever de indenizar por parte da recorrida.
+A propósito, destaco trechos da decisão recorrida (fls. 278-281):
+Limita-se a controvérsia ao pedido de procedência da ação de indenização ajuizada em face da corré Suhai Seguradora S/A.
+Ao sentenciar o feito, andou bem a magistrada ao prolatar a seguinte decisão:
+"Quanto à seguradora Suhai.
+De fato, na proposta apresentada pelo autor consta claramente no item 01 (fl. 56) a obrigatoriedade para o início da cobertura do seguro a efetiva instalação do sistema de rastreamento e que sua não instalação implicará recusa automática da proposta. Além disso, no item 03 (fl. 56) consta necessidade de vistoria e item 04 (fl. 56) a necessidade de pagamento do prêmio da diferença do endosso.
+Ora, o autor tinha ciência destas obrigações, pois assinou a proposta e na documentação que instrui a petição inicial consta em Whatsapp (fl. 42) a sua ciência sobre a situação. Ademais, à fl. 58 em mensagem no dia 06.01.2022 do mesmo aplicativo demonstra saber que o veículo não estava segurado: ".. Eu não tinha seguro ainda, precisa usar o da Oficina, já conversei ontem com a moça, com o Ryian e como Pai dele.. Pois iria instalar o rastreador quando voltasse da Oficina.
+"Na petição inicial, alega que tinha endossado o seguro e pago a diferença, porém não apresentou prova do pagamento desta diferença do prêmio - endosso, bem como restou provado que optou por instalar o dispositivo de segurança em 07/01/2022, ou seja, não cumpriu com sua obrigação. Assim, não pode imputar essa responsabilidade para a seguradora, se de antemão tinha ciência deste fato.
+(..)
+Assim, não prospera o pedido em face da seguradora, porque ficou claro que o autor não agendou a colocação do dispositivo de segurança, tampouco realizou a vistoria por sua exclusiva responsabilidade, bem como não pagou o preço da diferença do prêmio em razão do endosso da apólice inicial. A consequência é a invalidade no contrato de seguro do veículo Hyundai Santa Fé, de modo que não há obrigação contratual da seguradora.
+Improcede, portanto, o pedido inicial em face da seguradora."(fls. 222/224)
+De fato, a incidência das disposições consumeristas ao contrato em comento não implica, necessariamente, a procedência dos pedidos formulados ou o reconhecimento de abusividade no acordo que deverá ser analisado à luz das diretrizes estabelecidas pelo ordenamento jurídico, jurisprudência e averiguação dos elementos de prova colhidos nos autos.
+Isto porque, depreende-se da leitura atenta dos autos, que não se vislumbra qualquer abusividade na conduta da seguradora, pois esta agiu dentro do livremente pactuado entre as partes, não se mostrando abusiva a recusa ao pagamento da indenização, uma vez que o autor não cumpriu com sua parcela do acordo.
+Vale ressaltar que as partes não divergem quanto à não instalação do rastreador, sendo certo que o dever de informação previsto no artigo 54, § 4º do CDC restou devidamente cumprido pela ré, pois as cláusulas foram redigidas de maneira clara, permitindo que o consumidor tivesse ciência das condições do acordo.
+Vejamos:
+"1) Ciente e de acordo que, quando contratação com sistema de rastreamento, o início da cobertura se dará a partir da data/hora de efetivação da instalação do sistema de rastreamento. Caso a instalação não seja feita no prazo máximo de 15 dias a contar da data da transmissão da proposta para a seguradora, esta proposta estará automaticamente recusada." (fls. 56)
+ ..
+Em suma, pelo que se infere dos autos, não se mostra cabível o pedido formulado pelo segurado, pois a recusa da seguradora em pagar a indenização encontra amparo no ajuste previamente estabelecido entre as partes.
+Nesse sentido, rever as conclusões do Tribunal de origem acerca da responsabilidade da seguradora e do seu dever de indenizar ou não, demandaria incursão no conjunto fático-probatório e em cláusulas contratuais, inviável em recurso especial em razão do óbice das Súmulas n. 5/STJ e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE VEÍCULO. LIMITAÇÃO DE COBERTURA. LEGALIDADE. REVISÃO. SÚMULAS NºS 5 E 7/STJ. CLÁUSULA EXCLUDENTE. PERFIL NÃO CONTRATADO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A discussão dos autos reside em verificar se é devida a indenização securitária no caso em que apólice de seguro não abrange sinistro causado por pessoas na faixa etária entre 18 (dezoito) e 25 (vinte e cinco) anos por falta de previsão de cobertura contratual.
+3. Não viola o art. 1.022, II, do Código de Processo Civil de 2015 nem importa negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.
+4. Na hipótese, rever as conclusões da Corte de origem acerca da ausência de ilegalidade na limitação de cobertura securitária demandaria a análise e interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, procedimentos inviáveis ante a natureza excepcional da via eleita, consoante disposto nas Súmulas nºs 5 e 7/STJ.
+5. A consonância entre o acórdão recorrido e o entendimento do Superior Tribunal de Justiça atrai o disposto na Súmula nº 568/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.112.390/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TRANSPORTE RODOVIÁRIO DE CARGA. CONTRATO DE SEGURO. CLÁUSULA DE GERENCIAMENTO DE RISCOS. INOBSERVÂNCIA DAS MEDIDAS DE GERENCIAMENTO DE RISCO. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA Nº 5/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Constatada a inobservância das medidas de gerenciamento de risco pactuadas com o conseqüente agravamento voluntário do risco, não há falar em isenção de responsabilidade da segurada. Precedentes.
+2. Caso concreto em que a Corte local, a partir da análise do acervo fático-probatório constante dos autos, bem como da interpretação da apólice de seguro, consignou não só que o contrato em questão previa, expressamente, a necessidade de comboio entre os veículos, mas também que o veículo transportador da carga furtada não estava equipado com sistema de rastreamento por satélite, sendo certo, ademais, que conforme expressa previsão contratual, para caracterização do comboio entre dois veículos, como no caso, o caminhão equipado com o sistema de rastreamento por satélite deveria seguir sempre à frente daquele desguarnecido do rastreador, o que não teria ocorrido na espécie.
+3. A análise da pretensão recursal quanto ao descumprimento, ou não, da cláusula de gerenciamento de riscos, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, bem como a reinterpretação de cláusulas contratuais, o que encontra óbice nos enunciados das Súmulas 5 e 7 do STJ.
+4. Agravo não provido.
+(AgInt no REsp n. 1.407.737/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2018, DJe de 21/8/2018.)
+Ademais, o suscitado dissidio jurisprudencial com base na alínea "c" do permissivo constitucional fica prejudicado quando há a incidência da Súmula n. 7/STJ, ante a ausência de similitude fática.
+Cito precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO HOSPITALAR. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA PELA INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem - de que houve falha na prestação do serviço hospitalar - esbarra no óbice da Súmula 7/STJ.
+2. Incidente a Súmula 7/STJ, inviável se mostra a análise do alegado dissídio jurisprudencial.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.085.694/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INCIDENTE DE DESCONSIDERAÇÃO DA PESSOA JURÍDICA. DESNECESSIDADE. CONFUSÃO PATRIMONIAL. GRUPO ECONÔMICO DE FATO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Na execução fiscal, a ocorrência das hipóteses descritas nos arts. 134 e 135 do CTN autoriza o redirecionamento do processo executivo, sem a necessidade de instauração do incidente de desconsideração da personalidade jurídica.
+III - In casu, rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal de desautorizar o redirecionamento da execução, bem como reconhecer a ocorrência de preclusão consumativa, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - É firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+V - É entendimento pacífico desta Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, quando ausente a similitude fático/jurídica entre os julgados confrontados.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.030.869/ES, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/3/2023, DJe de 22/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
