@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por CELISMAR CARDOZO, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios (Habeas Corpus Criminal n. 0724075-90.2023.8.07.0000).
+Extrai-se dos autos que o recorrente foi denunciado como incurso no art. 306 do Código de Trânsito Nacional, após o Ministério Público, em manifestação chancelada pela Procuradoria Geral de Justiça, entendeu não se o caso de oferta de Acordo de Não Persecução Penal, em razão de ter, pois o acusado se beneficiado, nos 5 anteriores à infração, com sursis processual.
+A defesa pleiteou junto ao juízo de primeiro grau de jurisdição que fosse determinado o oferecimento de ANPP pelo Ministério Público. O pedido foi indeferido.
+Diante disso, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa:
+"DIREITO PENAL. PROCESSUAL PENAL. HABEAS CORPUS. AGRAVO INTERNO. INCABÍVEL. DECISÃO. NULIDADE. INOCORRÊNCIA. NÃO OFERECIMENTO DE ACORDO DE NÃO PERSECUÇÃO PENAL. MINISTÉRIO PÚBLICO. POSSIBILIDADE. REVISÃO JUDICIAL. DESCABIMENTO. AGRAVO INTERNO NÃO CONHECIDO. HABEAS CORPUS ADMITIDO. ORDEM DENEGADA.
+1. Consoante jurisprudência do c. STJ, o agravo regimental não se apresenta compatível com o rito célere da ação constitucional, sendo que a concessão da liminar em habeas corpus constitui criação jurisprudencial, não cabendo, portanto, o recurso contra instituto não regulamentado pela legislação brasileira.
+2. Para assegurar a garantia de liberdade e do devido processo legal, ambos de natureza constitucional, o habeas corpus se mostra instrumento legítimo para o exercício dessa proteção.
+3. A proposição de Acordo de Não Persecução Penal possui, além dos requisitos objetivos elencados nos incisos I a IV do § 2º do art. 28-A, os requisitos subjetivos expressos no próprio caput do referido artigo, qual seja a necessidade, a suficiência para reprovação e prevenção do crime.
+4. Há expressa previsão para o caso de o representante do parquet não oferecer Acordo de Não Persecução Penal, qual seja a revisão do ato pelo próprio órgão ministerial (Procuradoria Geral de Justiça).
+5. A atuação do Poder Judiciário sobre a referida proposta de acordo é apenas para o caso de, sendo oferecido, o magistrado entender estar em desconformidade com a norma de regência ou se mostrar abusivo.
+6. Agravo interno não conhecido. Habeas corpus admitido. Ordem denegada" (e-STJ, fls. 263-295).
+Nesta sede, o recorrente alega, em síntese, a existência de constrangimento ilegal, considerando que os fundamentos apresentados pelo Parquet não são idôneos, pois fundamentado no fato de que a data inicial para contagem do prazo depurador de 5 anos exigido pelo 28-A, § 2o, inc. III, do CPP seria o da sentença que declarou a extinção da punibilidade e, não, a data de término do período de prova, sem revogação.
+Requer a concessão do provimento recursal, para que sejam anuladas a decisões impugnadas, a fim de que as condenações anteriores sejam desconsideradas para fins de aplicação do art. 28-A do Código de processo penal.
+Indeferida a liminar (e-STJ, fl. 352), o Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 373-378).
+É o relatório.
+Decido.
+O acordo de não persecução penal indica a possibilidade de realização de negócio jurídico pré-processual entre a acusação e o investigado com a finalidade de afastar a necessidade da persecução penal.
+É, portanto, fase prévia e alternativa à propositura de ação penal, que exige, dentre outros requisitos, aqueles previstos no caput do artigo 28-A do Código de Processo Penal: 1) delito sem violência ou grave ameaça com pena mínima inferior a 4 anos; 2) ter o investigado confessado formal e circunstancialmente a infração; e 3) suficiência e necessidade da medida para reprovação e prevenção do crime. Além disso, extrai-se do §2º, inciso II, que a reincidência ou a conduta criminal habitual, reiterada ou profissional afasta a possibilidade da proposta.
+No caso concreto, sobre o pleito do recorrente, a Corte de origem consignou:
+" ..
+Consoante explicitado na decisão que indeferiu a liminar, no sistema penal, a liberdade é a regra, que somente pode ser afastada se cumpridos os requisitos legais para a segregação cautelar. Assim a decretação da prisão preventiva reclama, pois, fundamentação concreta nos termos dos artigos 282, 312 e 313 do CPP.
+Para assegurar essa garantia de liberdade e do devido processo legal, ambos de natureza constitucional, o habeas corpus se mostra instrumento legítimo para o exercício da proteção assegurada.
+ ..
+No caso em apreço, a decisão apontada como abusiva e ilegal não está a reclamar a proteção almejada, porquanto, consoante se extrai dos documentos que instruem os presente autos, ao magistrado não cabe a verificação dos motivos pelo qual o Ministério Público não ofereceu o Acordo de Não Persecução Penal.
+ ..
+Com efeito, a proposição de Acordo de Não Persecução Penal possui, além dos requisitos objetivos elencados nos incisos I a IV do § 2º do art. 28-A, os requisitos subjetivos expressos no próprio caput do referido artigo, qual seja a necessidade, a suficiência para reprovação e prevenção do crime.
+ ..
+Conforme se depreende dos trechos normativos transcritos, há expressa previsão para o caso de o representante do parquet não oferecer Acordo de Não Persecução Penal, qual seja a revisão do ato pela instância superior do órgão ministerial.
+A atuação do Poder Judiciário sobre a referida proposta é apenas para o caso de, sendo oferecido, o magistrado entender estar em desacordo com a norma de regência ou se mostrar abusivo.
+ ..
+Vale destacar que após a presente impetração, nos autos de origem, o não oferecimento de acordo de persecução penal foi submetido ao Procuradoria Geral de Justiça que homologou a manifestação ministerial, indicando não estarem presentes os requisitos para o benefício.
+Por oportuno, transcrevo os fundamentos e o dispositivo dessa decisão:
+(..)
+In casu, há impeditivo legal para o oferecimento do acordo de não persecução penal ao denunciado, pois ele não preenche o requisito objetivo previsto no artigo 28-A, §2º,inciso III, do Código de Processo Penal.
+Isto porque, constata-se que o acusado foi agraciado pela suspensão condicional do processo, nos autos nº2014.05.1.007716-6, em decisão proferida em17/11/2015, mas somente teve declarada por sentença a extinção da punibilidade em 30/01/2018.
+Vale dizer, não há superação do quinquênio para que o acusado possa fazer jus ao benefício do Acordo de Não Persecução Penal, uma vez que a contagem tem início a partir desse último marco temporal, incidindo, portanto, o Enunciado nº1073, das Câmaras de Coordenação e Revisão Criminais Reunidas.
+Diante dessas considerações, acolho os fundamentos do voto do Exmo. Relator Antônio Ezequiel de Araújo Neto e homologo a manifestação ministerial lançada aos autos pelo Exmo. Promotor de Justiça Rafael Modelli Sabaté, ao recusar o oferecimento do Acordo de Não Persecução Penal ao denunciado CELISMAR CARDOZO.
+Assim, não se verifica o vindicado constrangimento ilegal, afasta-se qualquer hipótese para a concessão da ordem, devendo ser mantido o ato apontado como coator."
+Inicialmente, cumpre considerar que a possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. Nesse sentido, precedente recente da Primeira Turma do Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL EM RELAÇÃO AO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (ART. 35 DA LEI 11.343/2006). INVIABILIDADE.
+1. As condições descritas em lei são requisitos necessários para o oferecimento do Acordo de Não Persecução Penal (ANPP), importante instrumento de política criminal dentro da nova realidade do sistema acusatório brasileiro. Entretanto, não obriga o Ministério Público, nem tampouco garante ao acusado verdadeiro direito subjetivo em realizá-lo. Simplesmente, permite ao Parquet a opção, devidamente fundamentada, entre denunciar ou realizar o acordo, a partir da estratégia de política criminal adotada pela Instituição.
+2. O art. 28-A do Código de Processo Penal, alterado pela Lei 13.964/19, foi muito claro nesse aspecto, estabelecendo que o Ministério Público "poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições".
+3. A finalidade do ANPP é evitar que se inicie o processo, não havendo lógica em se discutir a composição depois da condenação, como pretende a defesa (cf. HC 191.464-AgR/SC, Primeira Turma, Rel. Min. ROBERTO BARROSO, DJe de 26/11/2020).
+4. Agravo Regimental a que nega provimento". (HC 191124 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 08/04/2021, PROCESSO ELETRÔNICO DJe-069 DIVULG 12-04-2021 PUBLIC 13-04-2021, grifou-se)
+Por outro lado, cuidando-se de faculdade do Parquet, a partir da ponderação da discricionariedade da propositura do acordo, mitigada pela devida observância do cumprimento dos requisitos legais, não cabe ao Poder Judiciário determinar ao Ministério Público que oferte o acordo de não persecução penal.
+A corroborar:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. RECEBIMENTO DA DENÚNCIA. IMPOSSIBILIDADE.
+1. Consta que o recorrente está sendo processado pela prática dos crimes previstos nos artigos 216 e 223, caput, na forma do artigo 79, do Código Penal Militar. Os fatos foram supostamente praticados em março de 2020, sendo que a denúncia foi recebida em 26/11/2020.
+2. "Esta Corte Superior sedimentou a compreensão de que a possibilidade de oferecimento do acordo de não persecução penal, previsto no artigo 28-A do Código de Processo Penal, inserido pela Lei n. 13.964/2019, é restrita aos processos em curso até o recebimento da denúncia, o que não se enquadra na hipótese em apreço". (AgRg no AREsp 1909408 / SC, Relator(a) Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/10/2021, DJe 13/10/2021).
+3. "Consoante jurisprudência do Supremo Tribunal Federal, não cabe ao Poder Judiciário impor ao Ministério Público obrigação de ofertar acordo em âmbito penal" (HC n. 194.677/SP, Rel. Ministro Gilmar Mendes, 2ª T., DJe 13/8/2021).
+4. Agravo regimental improvido." (AgRg no RHC 148.704/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 09/11/2021, DJe 16/11/2021, grifou-se.)
+No caso concreto, depreende-se que a questão impugnada não foi apreciada pelo Tribunal a quo, pois não foi discutido se a data inicial para contagem do prazo depurador de 5 anos exigido pelo 28-A, § 2o, inc. III, do CPP seria o da sentença que declarou a extinção da punibilidade e, não, a data de término do período de prova, sem revogação.
+Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal. Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
