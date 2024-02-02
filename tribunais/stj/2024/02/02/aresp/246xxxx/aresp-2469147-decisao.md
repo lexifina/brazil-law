@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por VELOZ SISTEMA DE ENSINO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 119):
+Apelação Embargos à execução Prestação de serviços educacionais - Instrumento particular de confissão de dívida Embora não se discuta sua validade, não pode o manto do "pacta sunt servanda" acobertar a exigência de encargos abusivos Multa moratória Redução da multa pactuada em 30% para 2% sobre o valor da dívida Higidez Observada a inequívoca natureza consumerista da relação subjacente, se impõe a impositiva observância do artigo 52, §1º, da Lei nº 8078/90 Recurso a que se nega provimento.
+Nas razões do recurso especial, a parte recorrente alega violação dos arts. 360, I, 421 e 422 do Código Civil defendendo que (fls. 129-131):
+S. m. j., o Tribunal "a quo" claramente viola referidos dispositivos legais, na medida em que simplesmente ignora a vontade das partes e a novação existente no caso dos autos, representada pela pactuação de um novo instrumento de confissão de dívida envolvendo débitos de uma obrigação anterior substituída, onde foram estabelecidos, em comum acordo, novas obrigações e condições de cumprimento e pagamento.
+Vejam, Nobres Ministros, que o v. acórdão manteve intacta a r. sentença de origem que havia entendido por reduzir a multa penal de 30% (trinta por cento) para 2% (dois por cento) apenas pelo fato de a origem do débito ser oriunda de débitos escolares, com espeque no art. 52, § 1º, do CDC, ignorando assim por completo a inadimplência pretérita e reconhecida do devedor, ora Recorrido, bem como a vontade das partes exercida por meio do instrumento de confissão de dívida.
+"Data maxima venia", inobstante a origem do débito, tem-se que estamos diante de uma CONFISSÃO DE DÍVIDA, em espécie de NOVAÇÃO, onde houve o consentimento do devedor, no caso do ora Recorrido, maior e capaz, sobre novas as condições ali estabelecidas, inclusive o percentual de multa penal em caso de descumprimento da avença, fixado naquela ocasião no patamar de 30% (trinta por cento) do valor da dívida, "in verbis"
+ ..
+Logo, a multa penal, e não moratória, pactuada no Instrumento Particular de Confissão de Dívida firmado entre as partes foi ajustado em comum acordo e por livre e espontânea vontade das partes, inclusive do ora Recorrido, o qual, ao assinar a nova avença, aceitou os novos termos, incluindo o percentual da referida penalidade em caso de novo descumprimento do acordo (o que de fato aconteceu).
+Ora, verifica-se que houve de fato uma NOVAÇÃO, onde o instrumento de confissão de dívida firmado por último extinguiu a obrigação principal, que era o contrato de prestação de serviços educacionais.
+Com efeito, foram estabelecidas novas condições a partir da novação e da celebração do novo instrumento de confissão de dívida, de modo que, portanto, não há razão legal para se restabelecer o contrato original apenas no que se refere à multa pelo descumprimento.
+Portanto, com a assunção dessas novas obrigações em sede de instrumento particular de confissão de dívida, extinguiu-se a obrigação originária, de modo que deve prevalecer as novas condições assumidas e acordadas entre as partes.
+Aliás, de se ressaltar que ao contrário do quanto fundamentado no v. acórdão, não estamos aqui diante de multa moratório, e sim de uma multa penal para o caso de descumprimento da nova obrigação. S. m. j., tal penalidade possui função social distinta da multa moratória, tendo sido pactada justamente para forçar o devedor, ora Recorrido, a cumprir com suas obrigações, as quais, no contrato original, já haviam sido descumpridas uma vez.
+Além do mais, digno de destaque que as partes ainda acordaram nessa confissão de dívida que o acordo foi ajustado de forma irrevogável e irretratável, de modo que não há como se arrepender agora do valor da multa penal fixada para o caso de descumprimento. Assim dispôs a referida cláusula terceira, "in verbis":
+ ..
+Portanto, evidente que a multa penal imposta no referido Instrumento de Confissão de Dívida visou garantir justamente o cumprimento e o adimplemento da obrigação - o que o Recorrido não fez - e está regulamentada pelo próprio Código Civil, a partir do artigo 408. Logo, não há qualquer ilegalidade ou abusividade, ao contrário do quanto consignado na r. sentença "a quo".
+ ..
+Além do mais, desconsiderar a multa penal imposta no instrumento de confissão de dívida, que substituiu e extinguiu a obrigação principal, assim como fez o Tribunal a quo, só está por prestigiar a inadimplência do Recorrido, devedor contumaz e inadimplente reiterado, que já não honrou as mensalidades escolares pontualmente e tampouco a confissão de dívida assumida, não sendo crível que ele ainda se beneficie com essa interpretação equivocada de que a multa penal pactuada para o caso de descumprimento se mostra excessiva, o que não é verdade.
+No mais, sustenta a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 156-178.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 179-182), o que ensejou a interposição do presente agravo (fls. 185-191).
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A irresignação recursal não merece prosperar.
+No que tange às alegadas violações, assim se manifestou a Corte de origem (fl. 120):
+Não assiste razão à instituição de ensino.
+Com efeito, embora não se discuta a validade do instrumento particular firmado entre as partes, não pode o manto do "pacta sunt servanda" acobertar a exigência de encargos abusivos.
+Uma vez observado que a relação jurídica subjacente ostenta inequívoca natureza de consumo (prestação de serviços educacionais), se impõe a observância impositiva dos ditames da Lei nº 8078/90, em especial, o disposto por seu artigo 52, §1º:
+ ..
+Nesse turno, se afigura hígida a redução da multa moratória determinada.
+Por fim, outros fundamentos são dispensáveis diante da adoção integral do que foi deduzido na r. sentença, aqui expressamente adotados para evitar desnecessária repetição, nos termos do artigo 252, do Regimento Interno deste egrégio Tribunal de Justiça.
+Com efeito, verifica-se que reformar o entendimento firmado pelo Tribunal de origem de que os encargos, na espécie, mostraram-se abusivos, motivo pelo qual se fez necessária a redução do percentual da multa contratual, implica necessariamente a revisão das premissas firmadas diante do contexto fático-probatório constante dos autos e a revisão de cláusulas contratuais, o que é vedado em razão dos óbices constantes das Súmulas n. 7/STJ e n. 5/STJ.
+Nesse sentido, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇO EDUCACIONAL. DESISTÊNCIA. DEVOLUÇÃO DE VALORES PAGOS. PERCENTUAL DE RETENÇÃO. PRETENSÃO DE REAPRECIAÇÃO DE CLÁUSULA CONTRATUAL E MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. PRECEDENTES. QUANTUM INDENIZATÓRIO. RAZOABILIDADE DO VALOR FIXADO NA ORIGEM. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal de origem, com apoio nos elementos de prova, sobretudo no contrato entabulado entre as partes, concluído ser abusiva a cláusula contratual que não previa a devolução de nenhum valor na hipótese de desistência ou cancelamento da matrícula pelo consumidor, determinando a devolução de 50% da quantia paga pela agravada, não se mostra possível modificar a referida conclusão na via do recurso especial, em razão dos óbices dos enunciados n. 5 e 7, ambos da Súmula do STJ.
+2. A jurisprudência desta Corte Superior é pacífica no sentido de que, nos casos de protesto indevido de título de crédito ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, ou seja, prescinde de prova de sua ocorrência.
+3. É certo que a revisão do quantum indenizatório fixado nas instâncias estaduais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo, hipótese não verificada no caso dos autos, em que estabelecida a indenização conforme as circunstâncias fáticas analisadas pelo Tribunal de origem. Revisão obstada pela Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 940.197/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/10/2016, DJe de 28/10/2016.)
+No que concerne à alegação de que se trata de multa penal por descumprimento de nova obrigação, verifica-se que o Tribunal de origem não se manifestou sobre a referida tese, o que atrai o óbice das Súmulas n. 282/STF e n. 356/STF em razão da ausência de prequestionamento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INTERESSE PROCESSUAL ATESTADO. REVISÃO. SÚMULA 7/STJ. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. ÔNUS DO EMBARGADO. SÚMULA 303/STJ. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. VIOLAÇÃO AOS ARTS. 10, 18, 612, 674, § 2º, E 677 DO CPC/2015. TESES NÃO PREQUESTIONADAS. SÚMULA 211/STJ. PREQUESTIONAMENTO IMPLÍCITO. INEXISTÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não constitui meio idôneo para a revisão das conclusões adotadas pelo Tribunal estadual acerca do reconhecimento do interesse de agir para a oposição de embargos de terceiro, sob pena de violação ao óbice imposto pela Súmula 7/STJ.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, firmada no enunciado da Súmula 303/STJ, a parte que deu causa à oposição dos embargos de terceiro é quem deverá arcar com o pagamento dos honorários sucumbenciais.
+3. A análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ.
+4. Esta Corte Superior entende que só é possível considerar o prequestionamento implícito quando as teses debatidas no recurso especial forem expressamente discutidas no Tribunal de origem.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.307.697/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Por fim, quanto à alegada divergência jurisprudencial, destaca-se que a jurisprudência desta Corte Superior é firme no sentido de que "a incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte" (AgInt no AREsp n. 2.356.845/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, com fundamento no art. 85, § 11, do CPC, majoro os honorários sucumbenciais a que condenada a parte recorrente na origem para R$ 1.500,00.
+Publique-se. Intimem-se.
+ EMENTA
