@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de dive rgência interpostos por NORTE ENERGIA S. A. contra acórdão lavrado pela Quarta Turma do Superior Tribunal de Justiça de relatoria do Ministro Marco Buzzi em decisão assim ementada (fls. 807-808):
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A fundamentação exposta no apelo extremo é suficiente para compreensão da controvérsia, não havendo falar em incidência da Súmula 284/STF na hipótese.
+2. O Tribunal a quo se manifestou acerca da matéria inserta no dispositivo legal apontado como violado, o que se mostra suficiente para atender ao requisito do prequestionamento, sendo desnecessária a menção expressa ao número do artigo de lei. Precedentes.
+3. "O indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC." (REsp n. 2.013.351/PA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/9/2022, DJe de 19/9/2022).
+4. Agravo interno desprovido.
+Opostos embargos de declaração, foram rejeitados (fl. 853):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+Cinge-se a controvérsia dos autos a saber se é possível emendar a inicial após a apresentação de contestação, sem a anuência da parte adversa.
+Aduz a parte embargante que "além da divergência quanto a competência, o acórdão embargado também divergiu quanto a possibilidade de emendar à inicial, após a apresentação de contestação, sem a anuência da parte adversa, modificando a causa de pedir, sendo um tema fortemente sedimentado neste c. STJ, onde extrai-se que a Primeira (AgInt no REsp 1295463/SC)e a Segunda Turma (REsp 1.593.819/SP)já se posicionaram em sentido contrário. " (fl. 869).
+Alega, por fim, que "Como se vê, no julgamento de ação indenizatória análoga ao presente caso (dano na produção pesqueira provocado pela construção de usina hidroelétrica), a Terceira Turma deste c. STJ entendeu por declinar competência à uma das turmas integrantes da Primeira Seção, haja vista o caráter publicista da demanda. " (fl. 973).
+Aponta, como paradigma, o REsp n. 1.795.540/MA, de relatoria do Ministro Paulo de Tarso Sanseverino.
+Parecer do Ministério Público Federal nos termos da seguinte ementa (fl. 956):
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DE TRABALHADOR PESQUEIRO CONTRA EMPRESAS PRIVADAS RESPONSÁVEIS PELA CONSTRUÇÃO DA USINA DE BELO MONTE. DISPONIBILIDADE DO DIREITO. INTERVENÇÃO DO MINISTÉRIO PÚBLICO CONDICIONADA À EXISTÊNCIA DE INTERESSE PÚBLICO PRIMÁRIO, REVELADO PELA MATÉRIA OU PELA QUALIDADE DAS PARTES ENVOLVIDAS. HIPÓTESE DE NÃO INTERVENÇÃO MINISTERIAL. INTELIGÊNCIA DOS ARTIGOS 127 E 129 DA CF/88 E ART. 178, DO CPC. RECOMENDAÇÕES Nº 34 E 37, AMBAS DO CNMP
+- Pelo julgamento do feito, prescindindo-se de opinião meritória do Parquet.
+É, no essencial, o relatório.
+Os presentes embargos de divergência não reúnem condições de admissibilidade, pois inexiste a necessária similitude fática entre os acórdãos confrontados a ensejar o processamento do recurso.
+Quanto à competência interna para o julgamento do recurso especial, verifica-se que a matéria não foi objeto de debate no acórdão embargado, circunstância que impede a confrontação dos casos.
+A embargante, por sua vez, não suscitou esta questão oportunamente, como determina o art. 74, § 4º, do Regimento Interno do STJ, operando-se a preclusão.
+Segundo a reiterada jurisprudência do STJ, a competência interna é de natureza relativa, devendo ser impugnada até o início do julgamento, sob pena de preclusão e prorrogação.
+A propósito, confiram-se os seguintes julgados desta Corte: AgInt nos EREsp n. 1.399.470/MS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 11/6/2019, DJe de 14/6/2019; EDcl no AgInt nos EDcl no CC n. 163.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 5/5/2020, DJe de 7/5/2020; AgInt nos EDcl no REsp n. 1.813.821/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/12/2019, DJe 4/2/2020; e AgInt no REsp n. 1.857.931/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe de 1º/10/2020.
+Além disso, conforme decidiu esta Corte Especial no julgamento do AgInt no EREsp n. 2.013.161/PA, relator Ministro Francisco Falcão, DJe de 15/9/2023:
+ ..  não há se falar em divergência com decisões pontuais proferidas pelas Turmas da Primeira Seção, à época em que controvertida a competência da matéria, julgada na Questão de Ordem suscitada no REsp 2.013.351/PA, na qual se declarou a competência das Turmas da Segunda Seção, para julgamento de demandas envolvendo ação de particular contra as empresas responsáveis pela construção da Usina Hidrelétrica de Belo Monte - UHE/BM, objetivando a obtenção de indenização por danos materiais e morais sofridos.
+Ante o exposto, indefiro liminarmente os embargos de divergência e julgo prejudicado o pedido de tutela de urgência ante a inviabilidade do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
