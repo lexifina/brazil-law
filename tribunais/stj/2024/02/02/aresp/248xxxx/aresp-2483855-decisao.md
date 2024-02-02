@@ -1,0 +1,24 @@
+DECISÃO
+Na origem, trata-se de execução fiscal objetivando a satisfação dos exercícios financeiros dos anos de 2004 a 2006. Na sentença, julgou-se o processo extinto com a resolução do mérito, ante a prescrição do crédito tributário. No Tribunal a quo, a sentença foi reformada para afastar a prescrição. O valor da causa foi fixado em R$ 108.868,47.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. ART. 174 DO CTN . INOCORRÊNCIA. PARCELAMENTO.
+1. O Fisco possui prazo de cinco anos para a cobrança do crédito, nos termos do artigo 174 do CTN.
+2. O Fisco possui prazo de cinco anos para a cobrança do crédito, nos termos do artigo 174 do CTN. A entrega de declaração de Débitos e Créditos Tributários Federais - DCTF, de Guia de Recolhimento do FGTS e Informações à Previdência Social -GFIP, ou de outra declaração dessa natureza prevista em lei (dever instrumental adstrito aos tributos sujeitos a lançamen to por homologação), é modo de constituição do crédito tributário, dispensando a Fazenda Pública de qualquer outra providência conducente à formalização do valor declarado.
+3. No caso de tributo declarado e não pago, o termo inicial para a contagem do prazo prescricional de cinco anos, para ajuizamento da execução fiscal, corresponde à data estabelecida como a do vencimento da obrigação tributária, constante da declaração, ou a data da sua entrega, quando posterior ao vencimento da obrigação.
+4. O parcelamento, consoante exposto no art. 151, VI, do CTN, é causa suspensiva da exigibilidade do crédito tributário. Não obstante, por forçado art. 174, parágrafo único, IV, do CTN e da Súmula nº 248 do extinto TFR, diz-se que o parcelamento interrompe, e não suspende a contagem do lapso prescricional, recomeçando sua contagem, desde o início, quando de seu descumprimento.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso, os débitos consubstanciados na CDA nº 90 4 12 001438-63tem data de vencimento entre 10/02/2004 e 20/02/2006. Quanto ao parcelamento aduzido, temos que a executada aderiu ao parcelamento na data de 26/07/2007. A execução fiscal foi ajuizada em 02/05/2012, e o despacho citatório proferido em 08/05/2012.
+A primeira tentativa de citação, pelo correio, restou inexitosa. 1.4
+Intimada na data de 28/06/2012, a exequente requereu a citação na pessoa do representante legal da empresa, tendo sido expedida carta precatória para tal fim. A providência restou igualmente infrutífera, conforme se verifica da certidão do oficial de justiça. 1.9
+A exequente foi intimada em 08/05/2014, indicando endereço diverso para a citação, requerendo fosse realizada por oficial de justiça. A diligência se mostrou novamente inexitosa. A credora restou intimada em10/12/2014, informando nova localização da parte executada, pugnando, em caso de negativa, a citação por edital, porém o pleito restou indeferido pelo juízo.
+Requereu então o redirecionamento do feito executivo, ante a dissolução irregular da empresa, em 02/03/2016. O redirecionamento ocorreu em 18/05/20161.20. O executado não foi encontrado para fins de citação. Diante disso, a exequente requereu a suspensão do processo nos termos do art. 40 da LEF, tendo o pleito sido deferido em 28/03/2017.
+O executado compareceu espontaneamente aos autos, a fim de opôr a exceção de pré-executividade, em 14/10/2020. 32.1
+Do acima exposto, não há se falar em prescrição intercorrente, tendo em vista que desde a intimação da Fazenda Pública acerca da não localização do devedor, em 28/06/2012, até a data em que deferido o redirecionamento da execução, em 18/05/2016, não transcorreu lapso superior a cinco anos.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
