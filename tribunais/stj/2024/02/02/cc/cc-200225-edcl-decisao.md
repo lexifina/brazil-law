@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Sofá Design Ltda. - em recuperação judicial e outros à decisão desta relatoria que, examinando apenas o pedido relacionado ao Processo n. 0000338-86.2022.5.21.0003, em trâmite perante o Juízo da 3ª Vara do Trabalho de Natal/RN, não conheceu do conflito de competência, por ausência de decisões conflitantes. Eis a ementa do decisum monocrático (e-STJ, fls. 305-306):
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. DECISÃO DO JUÍZO TRABALHISTA DE CONSTRIÇÃO DE PATRIMÔNIO DE BENS DE SÓCIA DA RECUPERANDA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELO JUÍZO LABORAL. POSSIBILIDADE. INEXISTÊNCIA DE DECISÕES CONFLITANTES. DELIMITAÇÃO DO OBJETO DO PRESENTE INCIDENTE. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+Em suas razões, sustentam que a decisão embargada padece de omissão no tocante às consequências da desconsideração da personalidade jurídica para a recuperação judicial e para a lista de credores, argumentando que o processo não pode prosseguir na Justiça trabalhista após a expedição da certidão de habilitação de crédito.
+Brevemente relatado, decido.
+Não se antevê nenhum vício de julgamento na decisão ora embargada.
+A partir da argumentação expendida, verifica-se que os embargantes, a pretexto de omissão, pretendem, em verdade, a modificação do decisum embargado, ante a mera discordância com os fundamentos ali deduzidos, circunstância, em si, que não autoriza a oposição de embargos de declaração, de viés integrativo.
+Conforme exposto anteriormente, a desconsideração da personalidade jurídica de empresa em recuperação judicial por juízo diverso daquele em que tramita o processo de soerguimento não invade a competência do juízo recuperacional, afigurando-se hígida daí a constrição de bens dos sócios ou das demais empresas integrantes de eventual grupo econômico alcançados pela desconsideração, mas que não se submetam, em tese, à recuperação, dada a inexistência de deliberação a respeito de bens sujeitos ao concurso de credores.
+Nesse contexto, não há como concluir pela existência de dois juízos decidindo sobre o destino do mesmo patrimônio, e, em consequência, que esteja configurada a hipótese de conflito de competência.
+Com efeito, eventual desacerto da decisão do Juízo trabalhista, a respeito da desconsideração da personalidade jurídica das recuperandas, deve ser contestado na via recursal adequada, ante o descabimento da utilização do conflito de competência como sucedâneo recursal.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. MERA PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
