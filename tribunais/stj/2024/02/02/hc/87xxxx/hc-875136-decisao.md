@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de TIAGO CARRIEL LEITE, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal 0007109-83.2015.8.26.0602).
+Extrai-se dos autos que o paciente foi condenado, pela prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal, à pena de 18 anos de reclusão, no regime inicial fechado, negado o direito ao recurso em liberdade (e-STJ, fls. 95-96). Interposta apelação, pela defesa, foi desprovida, pelo Tribunal de origem, em 28/9/2017 (e-STJ, fls. 108-115).
+Neste writ, a defesa alega, em síntese, a existência de constrangimento ilegal em face do paciente, sob a alegação de que teria ocorrido equívoco das instâncias ordinárias ao fixar a pena imposta ao sentenciado, visto que, "na primeira fase, ante a reanálise de todas as circunstâncias judiciais do art. 59, do CP, a pena inicial deve ser redimensionada para o mínimo legal" (e-STJ, fl.11).
+Anota que devem ser "sopesadas todas as circunstâncias judiciais elencadas no CP com a devida imparcialidade, sobriedade e comedimento, tem-se, que assoma injustificável e despropositada a manutenção da pena inicial acima do mínimo legal no patamar de 16 anos de reclusão" (e-STJ, fl. 11).
+Aduz que "a autoridade coatora não levou em consideração a reanálise minuciosa de todas as circunstâncias judiciais para a aplicação da pena inicial" (e-STJ, fl. 11-12).
+Requer a concessão da ordem, inclusive liminarmente, para que "seja reanalisada a reprimenda aplicada, redimensionando para o mínimo legal, reanalisando todas as circunstâncias judiciais do art. 59 do CP, bem como aquelas circunstâncias nas fases posteriores" (e-STJ, fl. 15).
+Liminar indeferida (e-STJ. fls. 128-129).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ, fl. 150-153).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Os capítulos dosimétricos impugnados não foram devolvidos ou apreciados pelo Tribunal a quo, pois apenas se pronunciou acerca da consonância da condenação com o arcabouço probatório, para negar a anulação do julgamento pelo Conselho de Sentença. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal.
+Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
