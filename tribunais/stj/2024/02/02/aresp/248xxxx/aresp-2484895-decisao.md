@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por IDTRUST TECNOLOGIA DE SOFTWARE LTDA contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 633):
+CONSIGNAÇÃO EM PAGAMENTO. Contrato de gestão de plataforma em que se realizam operações financeiras diretamenteentre credores e devedores da Petrobrás. Remuneração da gestorada plataforma expressamente prevista em cláusula contratual. Alteração unilateral do contrato promovida pela ré, a fim de modificar a remuneração originalmente pactuada. Ação ajuizadapelacontratantedosserviços,paradepósitodo preçocorrespondente ao contrato original. Sentença de improcedência. Desacerto. Ausência de justa razão para a recusa. Contratooriginal prevê remuneração diversa da exigida pela credora. Ausência de anuência da autora com a modificação proposta. Impossibilidade de se impor unilateralmente a um dos contratantemodificações contratuais. Discordância sobre a remuneraçãoautoriza apenas a denúncia do contrato, vigendo, até então, as condições originalmente contratadas. Consignação em pagamentoprocedente. Recurso provido, com observação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 692-698).
+Nas razões do recurso especial, o agravante alegou violação aos arts. 5º, XXXVI, da CF/1988; 355 e 421, do CC/2002; e 141, 327, § 1º III, 330, III e IV, 492, 539 a 549, do CPC/2015.
+Sustentou, em síntese, as seguintes teses: a) nulidade do acórdão que deu provimento ao recurso da parte adversa, por extrapolar os pedidos formulados na exordial; b) inadequação da propositura da ação de consignação em pagamento com o intuito de revisar as cláusulas de precificação do contrato firmado entre as partes, sobretudo devido à ausência de recusa ou mora em receber a quantia ou a coisa devida; e c) violação aos princípios da autonomia da vontade e da liberdade contratual, ao impor a manutenção do contrato com contraprestação inferior à estabelecida no termo aditivo.
+Contrarrazões às fls. 730-747 (e-STJ).
+O Tribunal de origem inadmitiu o apelo especial pelos seguintes fundamentos: (i) ausência de violação da legislação federal; (ii) incidência da Súmula 5/STJ; (iii) insuficiência de cotejo analítico para comprovar a divergência jurisprudencial; e (iv) inadequação da análise de violação a dispositivo constitucional no âmbito do recurso especial.
+Agravo em recurso especial apresentado às fls. 755-767 (e-STJ).
+Brevemente relatado, decido.
+O Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte recorrente, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que inadmitiu o recurso, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+Ilustrativamente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE BEM DE FAMÍLIA. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.035.238/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/6/2022, DJe de 28/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados não deve, de fato, ser conhecido.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.873.836/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+No caso, da leitura das razões do agravo em recurso especial, verifica-se que o insurgente não infirmou especificamente todos os motivos da decisão de admissibilidade proferida pela Corte a quo, pois deixou de impugnar o fundamento de inadequação da análise de violações a dispositivos constitucionais no âmbito do recurso especial.
+Incontestável, portanto, que não houve impugnação específica de todos os fundamentos da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da verba fixada pelo Tribunal a quo.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE PROFERIDA PELA ORIGEM. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO .
