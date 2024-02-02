@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Ana Maria de Oliveira Ribeiro à decisão monocrática proferida por esta relatoria, a qual julgou improcedente o pedido reclamatório, nos termos da seguinte ementa (e-STJ, fl. 504):
+RECLAMAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DIREITO AO BENEFÍCIO, ANTERIORMENTE ASSEGURADO À PARTE. QUE É QUESTIONADO PELO RELATOR DE AGRAVO DE INSTRUMENTO NA FASE DE CUMPRIMENTO DE SENTENÇA. ALEGADO DESCUMPRIMENTO DE DECISÃO DO STJ, QUE EM ANTERIOR JULGAMENTO DE RECURSO ESPECIAL ORIGINÁRIO DA MESMA DEMANDA. TERIA DECIDIDO NÃO MAIS SER POSSÍVEL REVER A CONCESSÃO, POR SE TRATAR DE MATÉRIA PRECLUSA. MÁ COMPREENSÃO DA PARTE RECLAMANTE QUANTO AO QUE FORA DECIDIDO PELA CORTE SUPERIOR. QUESTÃO DA GRATUIDADE QUE NÃO TEVE SEU MÉRITO EXAMINADO NO STJ, DADO O RECONHECIMENTO DE QUE O RECURSO. NESSE PONTO. ESTARIA PREJUDICADO DEVIDO À PERDA SUPERVENIENTE DO INTERESSE RECURSAL. RECLAMAÇÃO JULGADA IMPROCEDENTE.
+Em suas razões, aponta a existência de omissão na decisão ora embargada, argumentando que, "ante a literalidade dos excertos colacionados na exordial, de fato ocorreu uma análise de mérito do tema Gratuidade de Justiça, tendo mesmo se chegado ao entendimento de que a decisão que deferiu o benefício não mais poderia ser discutida" ou "mesmo sem análise de mérito, o STJ declarou em sua decisão transitada em julgado que não se poderia mais se discutir a decisão que deferiu o benefício da Gratuidade de Justiça, pelo que o fato do TJRJ estar fazendo exatamente o que o STJ disse que não poderia ser feito, e tendo plena ciência disso, seria uma afronta a Autoridade do STJ" (e-STJ, fl. 519).
+Sem impugnação.
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição, supressão de omissão ou saneamento de erro material, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl na Rcl n. 42.631/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 20/6/2023, DJe de 23/6/2023.)
+Diferentemente do afirmado pela embargante, inexiste omissão na decisão embargada, uma vez que, ao julgar improcedente o pedido reclamatório, esta relatoria deixou claro que a questão relativa à gratuidade de justiça foi considerada prejudicada nesta instância, pela perda superveniente do interesse recursal, de modo que não foi emitido nenhum juízo decisório, pelo STJ, sobre o tema, não havendo falar, portanto, em afronta à autoridade de decisão desta Corte de Justiça.
+Desse modo, não há nenhum dos vícios capazes de justificar a oposição dos presentes aclaratórios, mostrando-se nítida a pretensão de rejulgamento do caso, finalidade a que não se prestam os embargos declaratórios .
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OMISSÃO. VÍCIO NÃO CONFIGURADO. PRETENSÃO INFRINGENTE. NÃO CABIMENTO. EMBARGOS REJEITADOS.
