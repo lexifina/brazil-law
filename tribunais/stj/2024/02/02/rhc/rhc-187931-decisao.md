@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOSE CARLOS OLIVEIRA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende-se dos autos que o recorrente foi preso preventivamente pela suposta prática dos crimes de tráfico de drogas e posse irregular de munições de uso permitido. A prisão foi decretada visando garantir a ordem pública em razão da quantidade de droga apreendida em seu poder - "1.145g de cocaína em sacos, trouxas e potes, além de munições, balança de precisão, sacos de "dindim", prensa, liquidificador, peneira, frigideira, aparelhos telefônicos, entre outros;" - fl. 85.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão pelos mesmos fundamentos, e denegou a ordem, em acórdão de fls. 105-111.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 145-146.
+Informações prestadas às fls. 157-160.
+O Ministério Público Federal em parecer, às fls. 162-168, manifestou-se em parecer assim ementado pelo desprovimento do recurso:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. PARECER PELO DESPROVIMENTO DO RECURSO".
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao Recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida: "1.145g de cocaína em sacos, trouxas e potes, além de munições, balança de precisão, sacos de "dindim", prensa, liquidificador, peneira, frigideira, aparelhos telefônicos" , circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+No ponto, impende destacar que:
+"Na hipótese, a prisão preventiva foi decretada com fundamento nas circunstâncias da prática delitiva e gravidade concreta do crime imputado, evidenciada pela expressiva quantidade de droga transportada na lataria do veículo do Agravante, de modo a justificar, nos termos da jurisprudência desta Corte Superior de Justiça, a segregação cautelar para garantia da ordem"(AgRg no HC n. 799.998/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 29/3/2023, grifei).
+Conforme pacífica jurisprudência desta Corte:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
