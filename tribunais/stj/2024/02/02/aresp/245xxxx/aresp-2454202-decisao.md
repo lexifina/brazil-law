@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por Luís Antônio de Oliveira e Ana Carolina Borges de Oliveira - Inventariante contra a decisão de fls. 374-376 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 245-252 e 268-272 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+AÇÃO DE COBRANÇA. Prestação de serviços odontológicos. Contratada demandante que cobra a multa contratual do Sindicato contratante pela rescisão sem aviso prévio. SENTENÇA de parcial procedência. APELAÇÃO do Sindicato réu, que insiste na preliminar de ilegitimidade ativa do Espólio, pugnando pelo afastamento ou redução do valor cobrado em relação aos meses de abril e maio de 2020, além da exclusão da multa. APELAÇÃO do Espólio autor, insistindo na total procedência da Ação. EXAME: Preliminar de ilegitimidade ativa corretamente afastada na sentença. Dissolução anterior da sociedade contratada, que permite reconhecer a legitimidade de seu sócio para o polo ativo da Ação, através do Espólio, ante a sucessão em causa. Prestação dos serviços e inadimplemento que são incontroversos. Previsão contratual de aviso prévio de sessenta (60) dias, bem reconhecida. Sentença mantida. RECURSOS NÃO PROVIDOS.
+EMBARGOS DE DECLARAÇÃO. Omissão, contradição ou obscuridade não configuradas. Caráter meramente infringente. Inadequação dos Embargos para fins de prequestionamento. Aplicação do artigo 1.025 do Código de Processo Civil. EMBARGOS REJEITADOS.
+Nas razões do recurso especial (e-STJ, fls. 274-296), apontaram os insurgentes, além de dissídio jurisprudencial, a existência de violação dos arts. 141, 489, § 1º, IV, 492 e 1.022, II, parágrafo único, II, do CPC/2015. Sustentaram, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) inobservância do princípio da congruência.
+Contrarrazões às fls. 371-373 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; b) inexistência de violação dos arts. 141 e 492 do CPC/2015; e c) não comprovação do dissídio jurisprudencial.
+Daí o presente agravo, no qual os insurgentes contestam a aplicação dos óbices.
+Contraminuta às fls. 407-412 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que a alegação de negativa de prestação jurisdicional foi feita de forma genérica, sem especificar, no recurso especial, objetivamente, sobre qual o ponto da demanda o Tribunal de origem teria deixado de se pronunciar.
+A alegação de negativa de prestação jurisdicional de forma genérica faz incidir a Súmula 284/STF a impedir o conhecimento do recurso.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. CULPA DO RÉU CONFIGURADA. SÚMULA 7/STJ. LESÃO CORPORAL GRAVE. DANOS MORAIS. VALOR RAZOÁVEL. AGRAVO INTERNO DES PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+3. Na hipótese, a alteração das premissas fáticas adotadas pelo Tribunal a quo, no tocante à presença dos elementos caracterizadores da responsabilidade civil e do dever de indenizar, diante do acidente descrito na inicial, demandaria necessariamente o reexame do suporte fático-probatório dos autos, providência inviável no recurso especial, nos termos da Súmula 7 do STJ.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 20.000,00 (vinte mil reais) não se mostra exorbitante nem desproporcional aos danos suportados pelo autor, que sofreu lesões corporais de natureza grave em razão do acidente de trânsito.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.948.496/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe 01/02/2022).
+No tocante à alegada inobservância do princípio da congruência, incide, na espécie, a Súmula 211/STJ, ante a ausência de prequestionamento, porquanto tal tese não foi apreciada pelo órgão julgador.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISPOSITIVO CONSTITUCIONAL. STF. COMPETÊNCIA. SUBSTABELECIMENTO. JUNTADA POSTERIOR. POSSIBILIDADE.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+4. Em observância ao princípio da função instrumental do processo, a jurisprudência desta Corte é no sentido de ser cabível a abertura de prazo a fim de que o autor regularize a inicial, sendo a extinção do processo, sem julgamento de mérito, somente proclamada depois de proporcionada à parte a oportunidade de regularização.
+5. Agravo regimental não provido.
+(AgRg no AREsp 372.573/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/03/2017, DJe 04/04/2017).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 20% (vinte por cento) sobre o valor já arbitrado .
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INCIDÊNCIA DA SÚMULA 284/STF. INOBSERVÂNCIA DO PRINCÍPIO DA CONGRUÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
