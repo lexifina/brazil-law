@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ESPÓLIO DE RODOLFO ANTÔNIO DE LARA CAMPOS e MARIA TEREZA GANME DE LARA CAMPOS, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado (e-STJ, fls. 167-168):
+AGRAVO DE INSTRUMENTO - EMBARGOS DE TERCEIRO - AÇÃO DEMARCATÓRIA - PRAZO PARA INTERPOSIÇÃO - CINCO DIAS APÓS A EFETIVA CONSTRIÇÃO JUDICIAL - NÃO OCORRÊNCIA - INTELIGÊNCIA DOS ARTIGOS 674 E 675 DO CPC - INTEMPESTIVIDADE NÃO EVIDENCIADA - DECADÊNCIA - NÃO CONFIGURAÇÃO -DECISÃO MANTIDA - RECURSO DESPROVIDO. "O prazo para a oposição dos embargos de terceiro é o disciplinado no artigo 675 do Código de Processo Civil, contado, do efetivo cumprimento do mandado constritivo (..)" (TJ-MT - EMBDECCV: 10123829820188110000 MT, Relator: DIRCEU DOS SANTOS, Data de Julgamento: 21/08/2019, Vice-Presidência, Data de Publicação: 04/12/2019). A condenação em litigância de má-fé exige a presença de uma das situações descritas no artigo 80 do CPC, o que não é o caso dos autos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 210-2142).
+Nas razões do recurso especial (e-STJ, fls. 222-243), os agravantes alegaram violação aos arts. 3º, 4º, 674, 675, 489, § 1º, IV, e 1.022, inciso II, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que houve negativa de prestação jurisdicional, ante a omissão do julgado "ao não ter apreciado e valorado a prova da data da propositura dos embargos de terceiro em 17 de fevereiro de 2021, prova produzida com a juntada da inicial dos embargos de terceiro anexada ao Id 120441041" (e-STJ, fls. 230-231).
+Defenderam que o Tribunal de origem "não apreciou o incontroverso fato de que os recorridos admitiram com todas as letras que tomaram conhecimento do mapa objeto da imissão de posse expedida da ação demarcatória que atingiria propriedade dita como suas em janeiro de 2021 e que os embargos de terceiro em 17 de fevereiro de 2021" (e-STJ, fl. 231).
+Aduziram que "são confessos os recorridos, de terem ciência incontroversa da dimensão do iminente ato de imissão na posse em janeiro de 2021, tendo a propositura dos embargos de terceiro sido feita apenas em 17.02.2021" (e-STJ, fl. 238).
+Contrarrazões apresentadas (e-STJ, fls. 262-285).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 301-322).
+Contraminuta apresentada (e-STJ, fls. 326-346).
+Brevemente relatado, decido.
+Preliminarmente, verifica-se que a apontada violação aos arts. 489 e 1.022 do CPC/2015 não se sustenta, uma vez que o TJMT examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+Confira-se elucidativo trecho do acórdão que julgou a demanda (e-STJ, fls. 212-213 - sem destaque no original):
+Já em relação à alegada omissão, para que não pairem dúvidas, transcrevo excerto do julgado sobre a convicção formada:
+"(..) No caso em mesa, os agravantes insurgem-se contra decisão do togado de primeiro grau que nos autos de origem afastou a alegação de intempestividade dos embargos de terceiro, sob o fundamento de que "apesar do esforço argumentativo dos embargados, não restou comprovada a ciência inequívoca dos embargantes acerca do processo de conhecimento ou do cumprimento de sentença" - sic.
+Ocorre que a decadência abordada nas razões de recuso não encontra respaldo jurídico, haja vista os próprios fundamentos expostos na decisão recorrida, inclusive citando entendimento jurisprudencial deste Sodalício. Explico:
+É que na hipótese dos autos, em que pese os agravantes apontarem as vezes em que eventualmente a parte agravada tomou conhecimento do esbulho que sofreria, não consta nos autos qualquer prova contundente nesse sentido.
+Logo o prazo para o ajuizamento dos embargos de terceiro, à luz dos artigos 674 e 675 do Código de Processo Civil, se dá no momento em que a parte sofrer constrição ou ameaça de constrição que, na hipótese, decorre da expedição do mandado de imissão de posse, sobretudo porque não há registro de que tenha participado da ação principal.
+Assim, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na espécie, completamente inviável rediscutir o conhecimento do esbulho pelos agravantes, especialmente através da mera renovação de argumentos que foram, sim, devidamente enfrentados na origem e na decisão do Tribunal de Justiça.
+Isso porque ficou claro nos autos que em que pese os agravantes apontarem as vezes em que eventualmente a parte agravada tomou conhecimento do esbulho que sofreria, não consta nos autos qualquer prova contundente nesse sentido.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE NULIDADE C/C INDENIZAÇÃO POR DANO MORAL. CLUBE DE FUTEBOL. OFENSA GRAVE À INSTITUIÇÃO E A SEUS MEMBROS VEICULADA NA IMPRENSA. EXPULSÃO DE SÓCIO. PENALIDADE PREVISTA NO ESTATUTO DA ENTIDADE E APLICADA APÓS PROCEDIMENTO INTERNO EM QUE FORAM GARANTIDOS OS DIREITOS AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE ILEGALIDADE OU DESPROPORCIONALIDADE DA SANÇÃO. SÚMULAS 5 E 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da ausência de ilegalidades no processo disciplinar interno instaurado pelo Clube em detrimento do autor, bem como a respeito da proporcionalidade da sanção imposta a ele, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1384086/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021 - sem destaque no original)
+Ademais, na hipótese, o Tribunal de origem consignou que não haveria prova de que os agravantes tinham ciência do efetivo ato constritivo, nos seguintes termos:
+É que na hipótese dos autos, em que pese os agravantes apontarem as vezes em que eventualmente a parte agravada tomou conhecimento do esbulho que sofreria, não consta nos autos qualquer prova contundente nesse sentido.
+Dessa forma, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da ausência de conhecimento do esbulho, para a tempestividade dos embargos de terceiro, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Por fim, as duas Turmas de Direito Privado do STJ entendem que o prazo para a oposição de embargos de terceiro, a que se refere o art. 1.048 do CPC/73, é contado a partir da data em que se configurou a turbação da posse.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PRAZO PARA APRESENTAÇÃO. ART. 1.048 DO CPC/73. TERMO INICIAL. DATA DA TURBAÇÃO DA POSSE.
+1. Consoante a jurisprudência desta Corte, o prazo para a oposição de embargos de terceiro, a que se refere o art. 1.048 do CPC/73, é contado a partir da data em que se configurou a turbação da posse.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.561.236/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 7/2/2017, DJe de 10/2/2017.)
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. ART. 685-B DO CPC/73. PRÉ-QUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. EMBARGOS DE TERCEIRO. TERMO INICIAL. ART. 1.048 DO CPC/73. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravos interno provido. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(AgInt no REsp n. 1.429.335/RN, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/6/2017, DJe de 3/8/2017.)
+Assim, o acórdão recorrido também encontra-se em consonância com a jurisprudência desta Corte Superior.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSENTE. EMBARGOS DE TERCEIRO. PRAZO. AÇÃO DEMARCATÓRIA. EFETIVA CONSTRIÇÃO. NÃO COMPROVADA. AUSÊNCIA DE PROVAS NOS AUTOS. REVISÃO. NÃO CABIMENTO. SÚMULA 7/STJ. ENTENDIMENTO EM CONSONÂNCIA COM PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NE GAR-LHE PROVIMENTO.
