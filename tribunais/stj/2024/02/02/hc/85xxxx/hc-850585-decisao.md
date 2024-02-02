@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BRUNO CESAR VIEIRA DIAS e GABRIEL VIUDES DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que os pacientes tiveram a prisão preventiva decretada pela suposta prática dos crimes de receptação e adulteração de sinal identificador de veículo.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal en razão da ausência de fundamentação concreta e idônea para a segregação cautelar, ponderando as condições pessoais favoráveis dos pacientes.
+Alega que não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP, ressaltando a desnecessidade da medida extrema.
+Por fim, assevera que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+É o relatório. DECIDO.
+In casu, consta do decreto prisional que os pacientes "ambos reincidentes por crime patrimonial, além de autointitularem-se membros de facção criminosa, conforme relato dos policiais militares que ora não se coloca em dúvida, possuíam, cada qual, veículos adulterados, sendo um comprovadamente produto de crime. Os dois, aliás, são egressos da cidade de Praia Grande e não demonstraram qualquer vinculação com o distrito da culpa, tampouco razão para terem vindo à Comarca na condução de veículos cuja adulteração notadamente dificulta a fiscalização. Gabriel, ainda, envolveu-se em fato supostamente criminoso enquanto ainda cumpria pena em regime aberto", o que demonstra que não assimilaram os efeitos da condenação .
+Ressalte-se que:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023, grifei)
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
