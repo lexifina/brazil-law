@@ -1,0 +1,6 @@
+DECISÃO
+Em petição acostada às e-STJ, fls. 4.538/4.544, o recorrente GEORGE HENRIQUE DE SOUZA FERRAZ, atuando em causa própria, comunicou a ausência de
+interesse no julgamento do feito, requerendo, por isso, a sua desistência e a renúncia ao prazo recursal, com a imediata baixa dos autos à origem.
+Nessas condições, HOMOLOGO a desistência do recurso, nos termos do art. 34, IX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
