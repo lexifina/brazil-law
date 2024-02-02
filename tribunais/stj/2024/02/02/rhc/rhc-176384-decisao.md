@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de JOAO VITOR SILVA DOS SANTOS, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Depreende-se dos autos que o recorrente foi preso em flagrante e teve a prisão convertida em preventiva, pela prática, em tese, do delito previsto no art. 33, caput, e 35, ambos da Lei 11.343/2006, bem como art. 16, §1º, inciso IV, da Lei n. 10.826/2003 (fl. 176).
+Irresignada, a defesa impetrou habeas corpus junto ao eg. Tribunal de origem visando à revogação das prisões preventivas impostas. A ordem foi denegada, em acórdão de fls. 61-82.
+Neste recurso, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado na ausência dos requisitos ensejadores da prisão preventiva, bem como em razão da ausência da audiência de custódia.
+Aduz, neste sentido, que a prisão cautelar foi decretada pela gravidade em abstrato da conduta supostamente praticada.
+Sustenta que as suas condições pessoais seriam favoráveis, ponderando a possibilidade da aplicação das medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva e, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar indeferida às fls. 308-310.
+O Ministério Público Federal em parecer, às fls. 315-319, manifestou pelo desprovimento do recurso, em parecer que restou assim ementado:
+"Recurso em habeas corpus. Crimes de tráfico de entorpecentes, associação para o tráfico de entorpecentes e tentativa de homicí- dio. Prisão preventiva. Indícios de autoria delitiva. Apreensão de arma de fogo e significativa quantidade de droga. Disparo de ar- mas de fogo contra policiais. Periculosidade do agente. Garantia da ordem pública. Constrangimento ilegal não evidenciado. Pare- cer pelo não provimento do recurso" (fl. 315).
+É o relatório. DECIDO.
+Pretende o Recorrente a revogação da prisão preventiva.
+Primeiramente, não há que se falar em nulidade em face da não realização da audiência de custódia no caso concreto, pois esta Corte de Justiça tem se posicionado no sentido de que, "com a homologação da prisão em flagrante e sua conversão em custódia preventiva, restam superadas eventuais nulidades ocorridas no flagrante, eis que há novo título para justificar a segregação cautelar" (AgRg no HC n. 781.189/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/3/2023).
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao Recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida: 795 gramas de cocaína, 438 gramas de maconha e 89 gramas de crack, além da apreensão de 1 (uma) arma de fogo, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+No ponto, impende destacar que:
+"Na hipótese, a prisão preventiva foi decretada com fundamento nas circunstâncias da prática delitiva e gravidade concreta do crime imputado, evidenciada pela expressiva quantidade de droga transportada na lataria do veículo do Agravante, de modo a justificar, nos termos da jurisprudência desta Corte Superior de Justiça, a segregação cautelar para garantia da ordem"(AgRg no HC n. 799.998/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 29/3/2023, grifei).
+Conforme pacífica jurisprudência desta Corte:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
