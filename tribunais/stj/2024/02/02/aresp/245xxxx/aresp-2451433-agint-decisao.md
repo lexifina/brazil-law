@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto por DENICE DE ALMEIDA contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo, por ausência de impugnação específica ao fundamento da decisão que não admitiu o recurso especial (e-STJ, fls. 155-156).
+Em suas razões, a agravante alega, em síntese, que houve a impugnação específica da decisão recorrida, mormente no que se refere à existência de similitude fática entre os acórdãos paradigma e paragonado; bem como que os requisitos de admissibilidade do recurso especial foram preenchidos.
+Impugnação apresentada (e-STJ, fls. 169-182).
+Brevemente relatado, decido.
+Tendo por plausíveis as alegações trazidas pela agravante no agravo interno, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão monocrática outrora proferida (e-STJ, fls. 155-156), conheço do agravo e passo ao exame do recurso especial interposto.
+Nas razões do recurso especial, a recorrente alegou a ofensa ao art. 833, inciso X, do Código de Processo Civil de 2015, sustentando, em síntese, a impenhorabilidade dos valores inferiores a 40 (quarenta) salários-mínimos depositados em conta corrente. Aduziu, ainda, dissídio pretoriano.
+O Tribunal de Justiça do Estado de São Paulo, ao dirimir a controvérsia, assim consignou (e-STJ, fls. 50-51, sem destaque no original):
+Sem forma nem figura de juízo pretenda, a devedora, desbloqueio de R$ 4.035,52 (fls. 415), com base na mera assertiva de impenhorabilidade, sem trazer aos autos qualquer prova do quanto alegado, ônus que lhe competia, art. 373, I e II, do CPC.  ..
+Dessarte, à míngua de subsídios, corolário lógico a mantença da penhora.
+Com efeito, percebe-se que a irresignação da agravante não merece prosperar, uma vez que rever os fundamentos do aresto recorrido, sobretudo no que se refere à ausência de provas quanto ao alegado, demandaria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. EMBARGOS À PENHORA. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA BANCÁRIA. AUSÊNCIA DE COMPROVAÇÃO DO CARÁTER ESSENCIAL PARA MANUTENÇÃO DA PESSOA JURÍDICA. FUNDAMENTO INATACADO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp 1.230.060/PR, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe de 29/8/2014).
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que a recorrente não comprovou que a quantia bloqueada consistia em única fonte de ativos, o que não foi impugnado nas razões do recurso especial.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+4. Ademais, a alteração do que concluiu o Tribunal de origem, no que se refere à ausência de demonstração de que os valores depositados seriam a única reserva financeira do recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.833.911/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/2/2020, DJe de 17/2/2020.)
+Ademais, no tocante à divergência jurisprudencial, cabe salientar que, nos termos da consolidada jurisprudência deste Tribunal Superior, a incidência do óbice constante da Súmula n. 7/STJ impede a apreciação do dissídio, diante da constatação da ausência de similitude fático-jurídica entre os julgados confrontados.
+Nesse sentido (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA DA CEF. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 D0 STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 5/STJ. NADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7 DO STJ. PREJUDICADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de rescisão contratual cumulada com indenizatória por danos morais e materiais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Consoante o entendimento desta Corte, a eventual legitimidade passiva da CEF está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro. Precedentes.
+4. O reexame de fatos e provas e a nova interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+7. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+8. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, mediante juízo de retratação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO VALOR DEPOSITADO EM CONTA CORRENTE. AUSÊNCIA DE PROVAS. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, EM JUÍZO DE RETRATAÇÃO.
