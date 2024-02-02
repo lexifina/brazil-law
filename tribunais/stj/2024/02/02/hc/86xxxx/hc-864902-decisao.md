@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de ALEXANDRE JOSE MORASI, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Segundo consta dos autos, o paciente foi condenado como incurso nos sanções dos artigos 313-A (por 154 vezes) e 312 (por 154 vezes), ambos do Código Penal, à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime semiaberto, além do pagamento de 28 dias-multa (e-STJ, fls. 29-36).
+As partes apelaram, o Tribunal Estadual negou provimento ao recurso da defesa e deu parcial provimento ao apelo ministerial para elevar a pena-base e redimensionar a sanção para 13 anos e 4 meses de reclusão, em regime inicial fechado, e 66 dias-multa. Eis a ementa do julgado:
+"Apelação. Inserção de dados falsos em sistemas de informações. Peculato. Art. 313-A, por 154 vezes, na forma do artigo 71, caput e 312, caput, por 154 vezes, na forma do artigo 71, caput, ambos na forma do artigo 69, todos do Código Penal (CP). Autoria e materialidade comprovadas. Necessidade de exasperação das penas-base para a fração de "A para cada um dos delitos. Fração mais condizente à situação analisada. Regime inicial fechado de rigor. Impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos. Expressa vedação legal. Recurso do réu não provido. Recurso ministerial parcialmente provido." (e-STJ, fl. 38)
+A defesa impetrou prévio habeas corpus perante esta Corte, o qual não foi conhecido, mas a ordem foi concedida, de ofício, para reduzir a pena para 10 anos de reclusão.
+Neste writ, a defesa alega, em síntese, constrangimento ilegal decorrente do não reconhecimento do princípio da consunção, com a absorção do crime do art. 313-A pelo do art. 312, ambos do CP.
+Aduz que a inserção de dados falsos no sistema da Prefeitura foi o meio utilizado para o paciente desviar os valores em benefício próprio (peculato). Assim, para se evitar o bis in idem, deve ser aplicado o princípio da consunção e não o concurso material de crimes.
+Requer, assim, a concessão da ordem, a fim de que se reconheça o princípio da consunção quanto aos crimes de peculato e inserção de documentos falsos, anulando-se a condenação no tocante ao artigo 313-A do Código Penal, mantida apenas a reprimenda no tocante ao delito de peculato.
+O Ministério Público Federal opinou pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+No caso, verifique-s e que a pretensão defensiva - aplicação do princípio da consunção entre os delitos de peculato e inserção de documentos falsos - não foi examinada pelo Tribunal a quo, o que obsta o exame da matéria diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. PRINCÍPIO DA CONSUNÇÃO. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+2. Ademais, o tema suscitado no remédio constitucional relativo à aplicação do princípio da consunção não foi debatido pela instância de origem, inclusive porque não trazido nas razões do recurso de apelação. Assim, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Outrossim, não se verifica, no caso, situação de flagrante ilegalidade a atrair a análise do pleito de ofício.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 787.829/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
