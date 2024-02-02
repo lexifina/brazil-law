@@ -1,0 +1,42 @@
+DECISÃO
+Na origem, MSU Indústria de Peças e Equipamentos Metalúrgicos Ltda. interpôs agravo de instrumento decorrente de decisão proferida nos autos da execução de título extrajudicial manejada por Cordob Indústria e Comércio Ltda., a qual acolheu parcialmente a exceção de pré-executividade fixando como correta a quantia de R$ 62.425,20 (sessenta e dois mil, quatrocentos e vinte cinco reais e vinte centavos).
+No julgamento do agravo de instrumento, a Décima Terceira Câmara de Direito Privado do Tribunal de Justiça de São Paulo, negou-lhe provimento, em aresto assim ementado (e- STJ, fl. 76):
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE
+- Execução extrajudicial Duplicatas mercantis Alegações de excesso de execução Ausência de comprovação Impossibilidade de dilação probatória Discussões que somente têm cabimento em embargos à execução:
+- Na exceção de pré-executividade admite-se apenas a veiculação de matérias de ordem pública e que independem de dilação probatória, não se vislumbrando, diante dos elementos contidos nos autos, o excesso de execução alegado.
+EXCESSO DE EXECUÇÃO
+- Imposição da penalidade prevista no artigo 940 do CC Prova de má-fé do credor Inexistência - Impossibilidade - Exigência de prova da má-fé Súmula 159 do Supremo Tribunal Federal:
+- Havendo cobrança em excesso na execução por erro material na elaboração dos cálculos, descabe a aplicação da penalidade prevista no artigo 940 do CC, pois não houve comprovação de má-fé por parte do credor, conforme exigência prevista no teor da Súmula.
+RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos, foram rejeitados (e-STJ, fls. 99-103).
+Nas razões do recurso especial, a recorrente, com fundamento na alínea a do permissivo constitucional, alegou violação aos arts. 803, I, e 827 do CPC/2015.
+Apontou, em síntese, a reforma do acórdão recorrido em razão do excesso na execução, assim como inconformismo com os juros de mora fixados em face das despesas processuais e da majoração dos honorários advocatícios.
+Contrarrazões apresentadas às fls. 107-113 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de vulneração aos dispositivos tidos por violados, bem como pela incidência da Súmula 7 do STJ (e-STJ, fls. 138-140).
+Brevemente relatado, decido.
+De início, convém registrar que deve ser afastada a alegação da agravante quanto à usurpação de competência por parte do Tribunal de origem. Isso porque cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe o enunciado n. 123 da Súmula do Superior Tribunal de Justiça: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+No mais, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgInt no AREsp n. 884.901/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; AgRg no AREsp n. 773.710/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016; AgRg no Ag n. 1.056.913/SP, Relatora Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008).
+Nessa linha de intelecção, o entendimento desta Corte é no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge especificamente contra todos eles.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC).
+3. O julgamento monocrático do presidente do Superior Tribunal de Justiça antes da distribuição do processo, pelo não conhecimento de recurso que seja inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, está amparado no art. 21-E, V, do RISTJ, não havendo falar em violação do princípio da colegialidade, tampouco em cerceamento de defesa.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.189.592/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 7/STJ. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+2. É assente o entendimento desta Corte Superior de que a impugnação ao óbice da Súmula nº 7/STJ deve ser específica quanto a todas as matérias constantes da decisão agravada.
+3. O Superior Tribunal de Justiça entende ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III, do Código de Processo Civil de 2015).
+4. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula nº 182/STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.047.721/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA E REPARAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer com pedido de tutela de urgência e reparação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.163.324/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+Na hipótese, da leitura das razões de agravo (e-STJ, fls. 143-151), constata- se que a parte agravante não procedeu à impugnação específica do fundamento mencionado pela Corte estadual para inadmitir o apelo especial, uma vez que deixou de infirmar o óbice da Súmula 7/STJ, conforme indicado na decisão de fls. 138-140 (e-STJ).
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. 2. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 3. AGRAVO NÃO CONHECIDO.
