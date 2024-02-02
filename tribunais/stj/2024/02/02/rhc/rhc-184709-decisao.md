@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por ANDERSON GONSALVES DA ROSA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Colhe-se dos autos que o recorrente foi preso em flagrante, sendo a prisão convertida em preventiva, pela suposta prática do crime de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva em desfavor do paciente devido as "evidências de materialidade e nos indícios de autoria, visando a garantia da ordem pública em razão da gravidade em concreto da conduta do paciente, em tese analisada, caracterizadora da sua periculosidade social por conta do modus operandi"- fl. 488 e, denegou a ordem, em acórdão de fls. 486-490.
+No presente recurso, o recorrente alega que não mais subsistem os requisitos para a manutenção da prisão preventiva.
+Assere que o decreto de prisão carece de fundamentação idônea. Destaca as condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Liminar indeferida às fls. 525-526.
+Informações prestadas às fls. 532-535 e 538-551.
+O Ministério Público Federal se manifestou às fls. 553, pelo desprovimento do recurso.
+É o relatório. DECIDO.
+No caso em tela o acórdão que decretou a prisão preventiva do paciente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade e pelo modus operandi do crime onde, colhe-se do acórdão que:
+"A narrativa fática constante da denúncia oferecida contra o paciente evidencia, com mais detalhes, o modus operandi e, por conseguinte, a gravidade em concreto da sua conduta, em tese analisada: "No dia 8 de dezembro de 2022, por volta das 21h50min, na residência localizada na Rua Quartzo, nº 550, bairro Ouro Verde, neste município e Comarca de Foz do Iguaçu/PR, o denunciado ANDERSON GONSALVES DAROSA, com consciência e vontade livre, imbuído de inequívoca intenção de matar ou, ao menos, assumindo o risco de produzir o resultado morte, desferiu golpes com duas armas brancas (facas não apreendidas) contra a vítima Marcelo Gonçalves da Rosa, ocasionando as lesões que foram a causa eficiente de sua morte (Laudo de Exame de Necropsia em elaboração). Meio cruel - O crime foi cometido por meio cruel, na medida em que o denunciado ANDERSON, utilizando-se de arma branca, desferiu diversos golpes na vítima, causando-lhe intenso sofrimento e desnecessária dor. Recurso que dificultou a defesa da vítima - O denunciado empregou meio que dificultou a defesa da vítima, eis que estava munido de duas facas (seq. 1.6 e 1.10) e, durante a discussão, surpreendeu Marcelo com diversos golpes de faca, reduzindo a possibilidade de qualquer chance efetiva de reação ou defesa por parte da vítima" (mov. 47.1 da ação penal). " - fls. 488-489.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta"(AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023, grifei.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
