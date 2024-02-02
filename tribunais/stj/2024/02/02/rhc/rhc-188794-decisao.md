@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por GABRIEL ALMEIDA PIQUET DE OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO proferido no julgamento do HC n. 0058919-74.2023.8.19.0000.
+Extrai-se dos autos que o recorrente foi preso preventivamente e denunciado por ter supostamente praticado o delito tipificado no art. 171, caput, do Código Penal (estelionato).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. DELITO DO ARTIGO 171 DO CÓDIGO PENAL. PRISÃO PREVENTIVA. REQUER, O IMPETRANTE, A CONCESSÃO DA LIBERDADE AO PACIENTE, SOB A AFIRMAÇÃO DE QUE O DECRETO PRISIONAL ESTÁ BASEADO, TÃO SOMENTE NA GRAVIDADE GENÉRICA DO DELITO. NÃO CONHECIMENTO DA ORDEM. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO.
+De início, cumpre consignar que as mesmas alegações formuladas no presente writ, acerca da ausência de fundamentação idônea do decisum, da gravidade genérica do crime, que não implicaria prisão automática, bem como das questões de mérito (autoria e materialidade delitivas), foram amplamente analisadas no Habeas Corpus nº 0019501-32.2023.8.19.0000, impetrado em favor do ora paciente e julgado por este Colegiado em 10/5/2023.
+Conforme narra a denúncia, no dia 20 de fevereiro de 2020, o acusado Gabriele três corréus, mediante fraude e ardil, obtiveram vantagem patrimonial indevida, no valor de R$ 22.176,40, em prejuízo da vítima, a quem induziram em erro, para firmar um falso contrato de refinanciamento de dívida. Os fatos ocorreram na sede de uma empresa, situada na Avenida Nilo Peçanha, Centro do Rio.
+Em decisão datada de 22 de agosto de 2022, a autoridade coatora acolheu o pedido ministerial e determinou a prisão preventiva em desfavor dos denunciados, ante a presença dos pressupostos listados nos artigos 282, I e II, c/c 312, ambos do CPP.
+Como já explanado no mandamus anterior, o decisum impetrado, além de estarem perfeita harmonia com os termos do artigo 93, IX, da Constituição Federal, encontra-se amparado nos requisitos previstos no artigo 312 do CPP(com as alterações advindas da Lei nº 13.964/19 -Pacote Anticrime), não havendo de se falar em constrangimento ilegal.
+De outro giro, a defesa técnica não logrou demonstrar haver qualquer alteração na situação fático-jurídico do réu, que justificasse a cassação do decreto prisional.
+Repita-se que, diante das circunstâncias em que se deram os fatos, não se afigura razoável a imposição de alguma das cautelares previstas no artigo 319do Código de Processo Penal, cuja aplicação se justifica na hipótese de a custódia cautelar não se mostrar extremamente necessária.
+Por derradeiro, não se prestam ao exame na estreita via do habeas corpus as alegações defensivas de que o réu "teve suas contas bloqueadas, o que impossibilitou de arcar com os pagamentos das cessões de credito". Tais questões remetem ao mérito da causa, exigindo-se, por conseguinte, dilação probatória.
+ORDEM NÃO CONHECIDA." (fls. 37/38)
+No presente recurso, a defesa sustenta que o Tribunal de origem limitou-se a reiterar a decisão proferida em writ anterior.
+Pondera que o recorrente encontra-se acautelado há mais de 1 ano, sem que tenha sido designada audiência de instrução e julgamento, afirmando que os autos se encontram sem movimentação há mais de 2 meses.
+Alega ofensa aos arts. 315, § 2º, incisos II e III, e 316, parágrafo único, do Código Processual Penal.
+Pugna, em liminar e no mérito, pela expedição de alvará de soltura, ainda que mediante imposição de medidas cautelares diversas da prisão.
+Indeferido o pedido liminar (fls. 123/125), as informações foram prestadas (fls. 131/135 e 139/144), e o Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 146/150).
+É o relatório.
+Decido.
+Conforme relatado, busca-se no presente recurso a revogação ou o relaxamento da prisão preventiva imposta ao recorrente.
+No tocante aos fundamentos da custódia e eventual excesso de prazo, verifica-se que as matérias não foram analisadas pelo Tribunal de origem no acórdão impugnado, sob o fundamento de que se tratava de reiteração de writ anteriormente impetrado (HC n. 0019501-32.2023.8.19.0000), motivo pelo qual não foi conhecido. Por tais razões, esta Corte de Justiça não pode realizar o exame direto das alegações, sob pena de incidir em indevida supressão de instância.
+Ressalto que " .. , segundo a jurisprudência do Superior Tribunal de Justiça, "para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017), ainda que para fins de economia processual ou de celeridade" (AgRg no RHC n. 108.528/AM, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/6/2019, DJe de 27/6/2019)" (AgRg no HC n. 702.658/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. DOSIMETRIA. INSURGÊNCIAS ACERCA DO DO NÃO RECONHECIMENTO DA CONTINUIDADE DELITIVA E DO AUMENTO DA PENA-BASE. REITERAÇÃO DE PEDIDO ANTERIOR EM RELAÇÃO AO PRIMEIRO TEMA. SUPRESSÃO DE INSTÂNCIA EM RELAÇÃO AO SEGUNDO. AGRAVO DESPROVIDO.
+1. É descabido o exame por esta Corte de matéria já devidamente apreciada, em nova impetração que reitera a insurgência. Em oportunidade anterior, esta Corte concluiu que o reconhecimento, nesta instância, da continuidade delitiva entre delitos demandaria reexame fático probatório.
+2. O Tribunal de origem deixou de examinar, a matéria referente ao apontado constrangimento ilegal em razão da exasperação da pena-base, por entender não ser o habeas corpus a via adequada para tal exame. Dessa forma, como a referida tese relativa não foi debatida na instância originária, esta Corte se encontra impossibilitada de examiná-la, sob pena de incorrer em indevida supressão de instância.
+3. Em razão da referida omissão, determinei, na decisão ora agravada, que o Tribunal local aprecie, como entender de direito, o mérito do habeas corpus originário, ofertando a devida prestação jurisdicional.
+4. Neste regimental, apenas afirma a defesa, sem trazer aos autos qualquer comprovação, que o Tribunal local, em cumprimento à determinação desta Corte, analisou o mérito do writ impetrado na origem e manteve a exasperação da pena-base.
+5. Entretanto, trata-se de novo acórdão proferido pela Corte de origem, com novos fundamentos, a serem impugnados por nova impetração. Com efeito, para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, de minha relatoria, DJe de 08/03/2017), ainda que se alegue a necessidade de economia processual.
+6. Agravo desprovido.
+(AgRg no HC n. 676.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. RECURSO DESPROVIDO. INOVAÇÃO DE FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CPP. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça não pode analisar questão não enfrentada pela instância de origem, sob pena de indevida supressão de instância.
+2. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3. Estando a manutenção da prisão preventiva justificada de forma fundamentada e concreta, pelo preenchimento dos requisitos do art. 312 do CPP, é incabível a substituição por medidas cautelares mais brandas.
+4. Não há falar em falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessária à decretação, em tempo hábil, de prisão preventiva devidamente fundamentada.
+5. A contemporaneidade da prisão preventiva não está restrita à época da prática do delito, e sim à verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em período passado.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 168.708/BA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
