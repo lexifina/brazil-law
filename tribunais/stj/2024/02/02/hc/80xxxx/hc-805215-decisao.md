@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE AUGUSTO ALVES, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Depreende-se dos autos que o juízo a quo decretou a prisão preventiva do paciente pela prática dos crimes de organização criminosa, homicídio qualificado e ocultação de cadáver (fl. 46).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente em razão da gravidade em concreto da conduta, em acórdão de fls. 45-49.
+No presente writ a defesa sustenta ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão que decretou a segregação cautelar do paciente.
+Salienta, ainda, a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 53-24.
+As informações foram prestadas às fls. 57-61.
+O Ministério Público Federal, às fls. 65-68, manifestou em parecer que restou assim ementado:
+"HABEAS CORPUS. DIREITO PROCESSUAL PE-NAL. ORGANIZAÇÃO CRIMINOSA E OUTROS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO. DENEGAÇÃO.
+1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salv oquando constatada a existência de flagrante ilegalidade noato judicial impugnado.
+2. " ..  a custódia cautelar visando à garantia da ordempública legitima-se quando evidenciada a necessidade dese interromper ou diminuir a atuação de integrantes de or-ganização criminosa" (STJ: HC n. 519010/SP, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de8/10/2019).
+3. "Como sedimentado em farta jurisprudência destaCorte, maus antecedentes, reincidência ou até mesmo ou-tras ações penais em curso são suficientes para a imposi-ção de segregação cautelar como forma de evitar areiteração delitiva e, assim, garantir a ordem pública"(STJ: HC 542630/SP, rel. Min. ANTONIO SALDANHAPALHEIRO, SEXTA TURMA, DJe 19/12/2019).
+4. Parecer pelo não conhecimento do habeas corpus. Caso conhecido, pela denegação da ordem".
+É o relatório. DECIDO.
+In casu, verifica-se que o decreto encontra-se concretamente fundamentado para a garantia da ordem pública, seja em razão da gravidade concreta das condutas atribuídas ao Paciente, haja vista que, supostamente, "teria se associado aosoutros três denunciados, com estrutura ordenada e divisão de tarefas,para cometer crimes, dentre eles tráfico de drogas, homicídio eocultação de cadáver" além de ter sido "apontado por testemunhas e informantes como sendo oresponsável por autorizar a busca pelo corpo da ofendida e, logo após,expulsar as familiares da mesma do possível local do crime, em razãode existirem drogas na região" circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso. Nesse sentido, confiram-se alguns precedentes:(AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023); (AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023); (AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023);(AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022); (AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022);(AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022); (RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022).
+Ademais, o paciente registra condenações anteriores pela prática de homicídio qualificado, homicídio culposo e porte ilegal de arma de fogo, que sinalizam indícios de reiteração do autuado na prática delitiva. Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
