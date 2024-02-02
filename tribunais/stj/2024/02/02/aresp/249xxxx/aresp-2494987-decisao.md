@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BANCO DO ESTADO DO RIO GRANDE DO SUL S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 350):
+APELAÇÃO CÍVEL. PROPRIEDADE E DIREITOS REAIS SOBRE COISAS ALHEIAS. AÇÃO DE DESCONSTITUIÇÃO DE ÔNUS HIPOTECÁRIO. - COMPRA E VENDA. HIPOTECA PREEXISTENTE. A HIPOTECA CONSTITUÍDA EM GARANTIA DE CRÉDITO PARA A CONSTRUÇÃO DO EMPREENDIMENTO NÃO TEM EFICÁCIA ANTE O TERCEIRO ADQUIRENTE, NA MESMA LINHA DO ART. 1.499, I, DO CC/02 E DITAME DA SÚMULA N. 308, DO E. STJ. CIRCUNSTÂNCIA DOS AUTOS EM QUE SE IMPÕE MANTER A DECISÃO RECORRIDA. - SUCUMBÊNCIA. CAUSALIDADE. A RESPONSABILIDADE PELO DE CAIMENTO OU SUCUMBÊNCIA PRESSUPÕE PRETENSÃO QUALIFICADA POR RESISTÊNCIA. CIRCUNSTÂNCIA DOS AUTOS EM QUE SE IMPÕE MANTER A RESPONSABILIDADE DA PARTE RÉ PELA SUCUMBÊNCIA.
+RECURSO DESPROVIDO.
+Nas razões do apelo especial (e-STJ, fls. 362-380), o banco insurgente apontou, além da existência de dissídio jurisprudencial, ofensa aos arts. 1.419, 1.423, 1.474, 1.499, 1.500 e 1.501 do CC/2002.
+Sustentou, em síntese, que a Súmula 308/STJ teria sido indevidamente aplicada pelo Tribunal de origem ao caso ora analisado, tendo em vista que o referido enunciado se amoldaria às situações nas quais o financiamento e gravame hipotecário não constassem na matrícula quando da compra.
+Alegou que, na situação dos autos, o terceiro adquiriu o imóvel tendo ciência do gravame hipotecário, não podendo, assim, ser afastada a garantia real.
+Contrarrazões às fls. 388-397 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem (e-STJ, fls. 401-403), levando o banco insurgente a interpor o presente agravo (e-STJ, fls. 414-428).
+Contraminuta às fls. 432-439 (e-STJ).
+Brevemente relatado, decido.
+Ao dirimir a controvérsia, Tribunal de Justiça do Estado do Rio Grande do Sul assim se manifestou (e-STJ, fls. 345-349; sem grifos no original):
+O compromisso de compra e venda é contrato bilateral por instituir obrigações recíprocas: para um o direito de receber e a obrigação de transmitir o bem pelos atos que lhe sejam próprios; e para o outro o dever de pagar e o direito de ter transmitido o bem pelo instrumento que lhe assegure domínio e posse.
+Na promessa de compra e venda de imóvel não é raro que o bem esteja sob gravame e o contrato estipule assumi-lo o comprador, com ou sem abatimento no preço; ou quite-o o vendedor antes ou mesmo após a escritura definitiva. Nesta hipótese, assume o vendedor obrigação de fazer positiva que consiste em transmitir o bem livre do gravame.
+(..)
+Não há, portanto, como o obrigado isentar-se de sua obrigação, sequer alegando excludente por culpa de terceiro, quando só por ele é exeqüível. Assim, é possível ao comprador exigir que o vendedor cumpra aquela obrigação sob pena de responder por perdas e danos.
+(..)
+Destarte, o compromissário que dá à venda imóveis onerados comprometendo-se a outorgar a escritura em prazo certo livres dos gravames assume obrigação de fazer positiva.
+Por outro lado, o vendedor pode encontrar óbice de terceiro e o comprador pode dele exigir as providências necessárias à regularização quando se trata de liberar gravame constituído à construção do imóvel.
+(..)
+No entanto, nos termos da fundamentação, era caso de reconhecer a ineficácia da hipoteca em face do autor; e se impõe manter a sentença, da qual se colhe dos fundamentos:
+No mérito, busca a parte autora o cancelamento de hipoteca que incide sobre a matrícula de imóvel por ela (autora) adquirido, dizendo que quitou, com a segunda requerida, o valor total para a aquisição do imóvel, não podendo subsistir a hipoteca firmada entre a construtora e a instituição financeira.
+De início, entendo conveniente destacar que, não tendo a requerida Banco do Estado do Rio Grande do Sul apresentado contestação no prazo legal, deve ser reconhecida a sua revelia, nos termos do artigo 344 do CPC.
+Saliento, ainda, que entendo não ser o caso de aplicar o disposto no artigo 345, I, do CPC, porque a outra demandada (Atena Incorporações) não se opôs ao pedido da requerente. No mérito, propriamente, a questão não comporta maiores delongas ou celeumas, sendo de singela resolução.
+Aplica-se, ao caso em tela, o entendimento da Súmula nº 308/STJ, assim ementada: "A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel."
+A aplicação do entendimento acima é de fácil compreensão, uma vez que a hipoteca que incide sobre os imóveis foi firmada, como dito, entre a construtora e a instituição financeira.
+Dessarte, sem maiores delongas, deve ser acolhido o pedido inicial, declarando-se a nulidade das hipotecas que recaem sobre os imóveis de matrículas nºs 161.831, 161.554 e 161.555, todas do Registro de Imóveis da 1ª Zona de Caxias do Sul/RS.
+Assim, a sentença aplicou a medida de direito adequada ao caso concreto.
+Com efeito, a hipoteca constituída em garantia de crédito para a construção do empreendimento não tem eficácia ante o terceiro adquirente, na mesma linha do art. 1.499, I, do CC/02 e ditame da Súmula n. 308, do e. STJ.
+Observa-se que a Corte de origem expressamente asseverou que, da análise das provas dos autos, a situação em análise se amolda nos ditames da Súmula 308/STJ - devendo, portanto, ser reconhecida a ineficácia da hipoteca em face da parte ora recorrida.
+Assim, forçoso reconhecer que não há como afastar a conclusão estadual sem o revolvimento fático-probatório (a fim de se verificar peculiaridades no caso concreto de modo a afastar a incidência do enunciado sumular) , procedimento que se encontra obstado na seara extraordinária, em virtude do óbice contido no verbete n. 7 da Súmula do Superior Tribunal de Justiça.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pelas recorrentes, quanto à inexistência de mora e ao dever dos agravados de pagar as despesas de IPTU do bem, ante a previsão contratual, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Segundo a jurisprudência desta Corte Superior, "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt nos EDcl no REsp n. 1.839.792/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/8/2020, DJe 17/8/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1931878/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/10/2021, DJe de 8/10/2021)
+Oportunamente, insta destacar que não se trata aqui de ser caso de revaloração da prova, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ademais, não se pode conhecer do recurso pela alínea c, uma vez que fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreram das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal (incidindo, igualmente, no ponto, o óbice da Súmula 7/STJ).
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em mais R$ 200,00 (duzentos reais) sobre a base de incidência fixada pelas instâncias ordinárias.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HIPOTECA CONSTITUÍDA EM GARANTIA DE CRÉDITO PARA CONSTRUÇÃO DE EMPREENDIMENTO. EFICÁCIA ANTE O TERCEIRO ADQUIRENTE. SÚMULA 308/STJ. CONCLUSÕES DA CORTE A QUO PAUTADAS EM FATOS E PROVAS. REVISÃO INVIÁVEL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
