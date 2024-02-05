@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por SEBASTIÃO FLORENTINO DO NASCIMENTO contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem nos autos do Habeas Corpus n. 2176493-60.2021.8.26.0000.
+Consta dos autos que o Recorrente foi denunciado pela suposta prática do crime do art. 121, § 2.º, inciso I, do Código Penal.
+O Acusado não foi encontrado nos endereços informados, razão pela qual foi citado por edital. Co nsiderando que o Réu não compareceu e não constituiu advogado, o Juízo singular, em 30/04/2002, determinou a suspensão do processo e do curso do prazo prescricional, nos termos do art. 366, do Código de Processo Penal.
+Em 19/07/2021, o Acusado constituiu defensor nos autos e pleiteou o reconhecimento da extinção da punibilidade pela prescrição.
+O Magistrado singular indeferiu o pedido.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 440-446).
+Neste recurso, o Recorrente reitera o pleito de reconhecimento da prescrição da pretensão punitiva.
+Argumenta que "o termo inicial dessa contagem é o da data da última causa interruptiva desse prazo, in casu o recebimento da denúncia e o termo final aquele em que se computa vinte anos daquela data, exatamente 24/4/2021" (fl. 454).
+Assevera que " n ão se pode admitir que o lapso dos vinte anos pudesse ter por termo inicial a data da audiência em que foi decretado suspenso o processo (aqui 30/4/2002), desconsiderando a última causa interruptiva da prescrição (recebimento da denúncia, 24/4/2001), pois isso implicaria em admitir tal suspensão como causa interruptiva da contagem, sem que haja disposição legal a propósito" (fl. 454).
+Requer "que o egrégio STJ reconheça que a contagem do lapso prescricional seja feita com o reconhecimento de que seu termo inicial deva retroagir à data da última causa interruptiva da prescrição, neste caso, implicando em reconhecer a extinção da punibilidade do paciente" (fl. 455).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 473-476).
+É o relatório. Decido.
+O acórdão impugnado está assim fundamentado (fls. 443-446; grifos diversos do original):
+"Com efeito, dispõe o artigo 366 do Código de Processo Penal: "Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312".
+Embora referido dispositivo não delimite o prazo máximo para a suspensão do prazo prescricional, consolidou-se o entendimento de que este é regulado pelo máximo da pena cominada, a teor do que dispõe a Súmula nº 415 do STJ.
+Destarte, utilizam-se os prazos constantes no artigo 109 do Código de Processo Penal com base na pena máxima cominada ao crime, para, assim, se estabelecer o prazo máximo da suspensão da prescrição, findo o qual voltará a correr.
+Na hipótese dos autos, considerando-se a natureza da imputação dirigida ao paciente, tem-se que a pena máxima cominada ao delito é de 30 (trinta) anos. Para sanção deste montante, nos termos do artigo 109, I, do Código Penal, o prazo máximo da suspensão da prescrição será de 20 (vinte) anos.
+Destarte, confirma-se que o prazo máximo da suspensão da prescrição, in casu, haverá de atingir 20 (vinte) anos.
+Após este prazo, caso não tenha sido localizado o réu, nem constituído defensor, o prazo prescricional retomará seu curso, ainda que permaneça suspenso o processo.
+ ..
+Conforme a certidão de cálculo prescricional encartado as fls.413, o lapso prescricional ocorrerá em 23/04/2041.
+Assim, não se verifica a ocorrência da prescrição da pretensão punitiva, não se vislumbrando, enfim, no momento, qualquer ilegalidade ou abuso por parte do Juízo impetrado que justifique o acolhimento do pedido inicial."
+Nas informações prestadas às fls. 423-424, o Juízo singular relatou o seguinte:
+"A denúncia foi recebida em 24 de abril de 2001 (fls. 60), tendo sido decretada a prisão preventiva do acusado às fls. 61/62.
+O acusado não foi localizado pessoalmente, de forma que foi citado por edital e, não tendo constituído defensor ou comparecido aos atos processuais, foi decretada a suspensão do processo e do prazo prescricional em 30 de abril de 2002.
+Em 19 de julho de 2021, o acusado constituiu defensor nos autos e pleiteou o reconhecimento da extinção da punibilidade pela prescrição.
+No caso vertente, não se verificou a alegada prescrição da pretensão punitiva, uma vez que, tratando-se de delito cuja pena máxima é superior a 12 (doze) anos), constata-se que o prazo prescricional é de 20 (vinte) anos, conforme disposto no art. 109, inciso I, do Código Penal, de forma que, levando-se em conta a suspensão na forma do art. 366 do CPP, a prescrição em abstrato somente se verificaria em 19 de julho de 2040."
+Estabelece a Súmula n.º 415 do STJ que " o  período de suspensão do prazo prescricional é regulado pelo máximo da pena cominada". Após o transcurso do prazo de suspensão, a prescrição volta a fluir.
+Outrossim, o Supremo Tribunal Federal, no julgamento do RE n. 600.851/DF, em sede de repercussão geral, consolidou o entendimento segundo o qual, "em caso de inatividade processual decorrente de citação por edital, ressalvados os crimes previstos na Constituição Federal como imprescritíveis, é constitucional limitar o período de suspensão do prazo prescricional ao tempo de prescrição da pena máxima em abstrato cominada ao crime, a despeito de o processo permanecer suspenso" (Tema n. 438/STF).
+No caso, o Recorrente responde pela suposta prática do crime de homicídio qualificado, que possui pena máxima de 30 (trinta) anos de reclusão. Assim, o prazo prescricional é de 20 (vinte) anos, consoante o disposto no art. 109, inciso I, do Código Penal.
+Desse modo, não procede a alegação defensiva de prescrição da pretensão punitiva, uma vez que a denúncia foi recebida em 24/04/2001 e o processo e o curso do prazo prescricional foram suspensos em 30/04/2002, nos termos do art. 366 do Código de Processo Penal.
+Em 19/07/2021, data em que o Acusado se manifestou nos autos, a suspensão do prazo prescricional ainda estava vigente. Como bem destacado pelo Ministério Público estadual, "o cálculo em que se baseiam os recorrentes tem início na data do recebimento da denúncia - marco interruptivo acertadamente adotado, friso - mas ignora que em 30/04/2002 houve a suspensão do processo com base no artigo 366 do CPP (fls. 121 destes autos), intercorrência processual que, por força de lei, também suspende o prazo prescricional" (fl. 462; grifos no original).
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL. ART. 366 DO CPP. DURAÇÃO. ART. 109 DO CP. SÚMULA N. 415 DO STJ. TRANSCURSO DO PRAZO PRESCRICIONAL. PROSSEGUIMENTO DO PROCESSO SEM LOCALIZAÇÃO DO ACUSADO. NÃO CABIMENTO. PENA EM PERSPECTIVA. SÚMULAS NS. 282 E 356 DO STF. AGRAVO NÃO PROVIDO.
+1. O acórdão estadual está em harmonia com o entendimento firmado pelos Tribunais Superiores por meio da súmula n. 415/STJ e do tema n. 438/STF, segundo o qual, em caso de suspensão do processo, a prescrição voltará a correr após o decurso do tempo de prescrição da pena máxima em abstrato cominada ao crime.
+2. A questão referente à prescrição pela pena em perspectiva não foi debatida pelo Tribunal de origem, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento.
+3. Agravo regimental improvido." (AgRg no REsp n. 2.045.385/TO, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE MOEDA FALSA. ART. 366 DO CPP. SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL. SÚMULA N. 415/STJ. TRANSCURSO. CITAÇÃO POR EDITAL. PROSSEGUIMENTO DO PROCESSO. IMPOSSIBILIDADE.
+1. No julgamento do Recurso Extraordinário n. 600.851/DF, submetido ao regime de repercussão geral, o Supremo Tribunal assentou que, "em caso de inatividade processual decorrente de citação por edital, ressalvados os crimes previstos na Constituição Federal como imprescritíveis, é constitucional limitar o período de suspensão do prazo prescricional ao tempo de prescrição da pena máxima em abstrato cominada ao crime, a despeito de o processo permanecer suspenso" (RE n. 600.851/DF, relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 7/12/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-033 DIVULG 22-2-2021 PUBLIC 23-2-2021).
+ ..
+3. Agravo regimental desprovido." (AgRg no RHC n. 134.313/RS, relator Ministro ANTONIO SALDANHA PALHEIRO , Sexta Turma, julgado em 16/8/2022, DJe de 19/8/2022; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. ART. 366, DO CPP. SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL. SÚMULA 415/STJ. CONSTITUCIONALIDADE ASSENTADA PELO PLENÁRIO DO STF NO JULGAMENTO DO RE N . 600.851/DF. REGIME DE REPERCUSSÃO GERAL (TEMA N. 438/STF). PRESCRIÇÃO. NÃO OCORRÊNCIA. RECURSO ORDINÁRIO EM HABEAS CORPUS DESPROVIDO.
