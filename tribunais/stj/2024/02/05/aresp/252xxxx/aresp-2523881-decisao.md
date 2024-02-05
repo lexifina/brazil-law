@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIO GONÇALVES DA SILVA contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso do Sul em apelação nos autos de ação declaratória de inexistência de relação jurídica c/c repetição de indébito e indenização por danos morais.
+O julgado foi assim ementado (fl. 263):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - EMPRÉSTIMO CONSIGNADO - CONTRATAÇÃO REALIZADA POR MEIO DE CAIXA ELETRÔNICO MEDIANTE USO DE SENHA PESSOAL - VALIDADE - COMPROVAÇÃO DA CONTRATAÇÃO E DA DISPONIBILIZAÇÃO DO VALOR EM CONTA CORRENTE - REQUISITOS DE VALIDADE DO NEGÓCIO JURÍDICO COMPROVADOS - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+I - A inexistência de contrato escrito é irrelevante para comprovar o vínculo obrigacional entre as partes, quando a contratação de empréstimo é realizada mediante operação em caixa eletrônico mediante o uso de senha pessoal. Não havendo vícios na manifestação de vontade e restando comprovado nos autos a contratação de empréstimo via canal eletrônico, mediante uso de cartão com chip e senha pessoal, bem como do efetivo repasse do valor do empréstimo ao consumidor, resta aperfeiçoado o negócio jurídico, não havendo que impor à instituição financeira condenação por danos morais ou, ainda, dever de restituir parcelas.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 79 e 80, II, do CPC.
+Insurge-se contra a aplicação da multa por litigância de má-fé, afirmando que se utilizou do processo para ver reconhecida pretensão que acreditava ser seu direito. Argumenta que não há comprovação de que tenha havido alteração da verdade dos fatos ou intenção de induzir o juízo a erro. Afirma também que deve ser comprovado o dolo ou culpa grave para a imposição da referida penalidade.
+Requer o provimento do recurso para que seja afastada a pena por litigância de má-fé.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem aplicou a pena por litigância de má-fé à parte ora recorrente por concluir ser incontroversa a intenção de alterar a verdade dos fatos. Confira-se trecho do julgado (fl. 268, destaquei):
+Sob outro enfoque, no tocante a pretensão de afastamento da multa por litigância de má-fé, também não comporta acolhimento.
+Com efeito, da análise dos autos, extrai-se que a ação foi ajuizada sob o argumento de não contratação do empréstimo e não recebimento do referido valor supostamente contratado.
+Ora, a tese de inexistência de contratação de empréstimo e descontos indevidos, exsurgindo a certeza da vontade deliberada de enganar o juízo, com intencional alteração da verdade dos fatos, cabalmente comprovada no processo, demonstra se tratar a demandante de litigante de má-fé.
+Litigante de má-fé é aquele que altera, de forma consciente e temerária, a verdade dos fatos, a fim de obter vantagem sobre a outra parte.
+Assim, a conduta da parte apelante denota efetivamente sua deslealdade processual, nos termos do art. 80, inciso II, do CPC, insistindo na tese inicial mesmo após a contestação, devendo responder pelo dano processual previsto no art. 81, § 2º, do CPC, às penas por litigância de má-fé.
+Assim, para infirmar as conclusões do aresto impugnado e concluir pela não condenação por litigância de má-fé, seria imprescindível o reexame de provas, o que é inadmissível nesta instância extraordinária, em razão do disposto na Súmula n. 7 do STJ.
+Quanto ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
