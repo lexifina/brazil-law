@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/05/2023.
+Concluso ao gabinete em: 19/12/2023.
+Ação: de reparação por danos materiais e morais ajuizada por JOHNNY DELA CORT MENDES em face da agravante, visando a reparação de danos decorrentes de recusa de cobertura de atendimento de urgência.
+Sentença: julgou procedente a demanda para condenar a agravante no pagamento de indenização por danos materiais no valor de R$ 2.781,03 e compensação por danos morais no valor de R$ 10.000,00.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. INDENIZAÇÃO POR DANOSMATERIAISE MORAIS. CARÊNCIA. EMERGÊNCIA. Inconformismo contra sentença que acolheu os pedidos, para condenar a operadora do plano de saúde a ressarcir as despesas médico-hospitalares arcadas pelo segurado e pagar indenização por danos morais arbitrados em R$ 10.000,00. Pleito de reforma, sob o argumento de falta de prova da recusa. Incidência do CDC (Súmula/STJ 608). Negativa de cobertura contratual inequívoca. Anotação da médica assistente no relatório de internação e confirmada pelo hospital. Situação emergencial. Segurado com cerca de 02 anos de idade, acometido de influenza (H1N1) e suspeita de sepse pulmonar, em estado febril, inapetente e hipoglicêmico, que recebeu prescrição início prorrogação do tratamento, mediante internação que demandou suporte de oxigênio. Risco à incolumidade do menor. Contratação superior a 24 horas. Art. 12, V, "c", e 35-C, I, da Lei 9.656/98. Súmula/STJ 597 e Súmula/TJ 103. Conduta ilícita. Cobertura contratual obrigatória. Danos materiais. Ressarcimento integral das despesas com o tratamento, arcadas na modalidade particular, que se impõe. Danos morais. Recusa que agravou o estado de aflição do pai da criança, diante do risco à vida do menor e do impasse quanto ao atendimento. Fatos que extrapolam o mero aborrecimento. Abalo moral caracterizado. Arbitramento razoável e proporcional ao caso. Recurso não provido.
+Recurso especial: alega violação dos arts. 188, 927 e 944 do CC e 8º do CPC, bem como dissídio jurisprudencial. Sustenta que não restaram configurados danos morais, seja por ter a parte autora experimentado mero dissabor, seja por ausência de qualquer ato ilícito por parte da operadora, tendo em vista que legítima a recusa de cobertura de tratamento não previsto no rol da ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou o art. 8º do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Ademais, constata-se, da leitura das razões do recurso especial, que quanto à ofensa aos arts. 188, 927 e 944 do CC, o agravante aponta a ausência de configuração de danos morais, em situação diversa do caso dos autos, em que a causa dos danos é a recusa de cobertura em situação de emergência, por não cumprimento de carência, enquanto as razões recursais relacionam a falta de previsão no rol da ANS para não cobertura de tratamento. Assim, as razões recursais estão dissociadas da lide solucionada no acórdão recorrido, o que impõe o seu não conhecimento, nos termos da Súmula 284/STF.
+Por fim, no que concerne ao recurso fundado na alínea "c" do permissivo constitucional, verifica-se a mesma falha na fundamentação, haja vista não ter sido indicado dispositivo de lei federal ao qual teria sido dada interpretação divergente, bem como não apontou julgados divergentes, com a respectiva demonstração de similitude fática.
+- Do reexame de fatos e provas
+Ainda que superado o óbice da Súmula 284/STF, alterar o decidido no acórdão impugnado, no que se refere à efetiva demonstração dos danos e a razoabilidade do valor fixado a título de compensação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% sobre o valor da condenação (e-STJ fls. 383) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. PLANO DE SAÚDE. EMERGÊNCIA. RECUSA DE COBERTURA. CARÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de reparação por danos materiais e morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
