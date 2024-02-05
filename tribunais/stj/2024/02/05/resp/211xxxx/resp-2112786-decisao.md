@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+ADMINISTRATIVO. EMBARGOS A EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. AUTO DE INFRAÇÃO. PODER REGULAMENTAR DA ANVISA. LEGALIDADE. DEVIDO PROCESSO ADMINISTRATIVO. AMPLA DEFESA GARANTIDA. RESOLUÇÃO RDC N. 217/2001 E RDC  72/09 DA ANVISA. ATIVIDADE DE EMBARCAÇÕES FLUVIAIS, LACUSTRES E MARÍTIMAS. CERTIFICADO DE DESRATIZAÇÃO OU DE ISENÇÃO DE DESRATIZAÇÃO VÁLIDO. OBRIGATORIEDADE. DISPENSA DO CERTIFICADO DE LIVRE PRÁTICA. RETROATIVIDADE DA LEI MAIS BENÉFICA. REEXAME NECESSÁRIO E APELAÇÕES DESPROVIDOS.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte aponta violação aos arts 1º e 2º e 6º, do Decreto-Lei nº 4.657/42 (Lei de Introdução às normas do Direito Brasileiro), alegando que: a) no âmbito do Direito Administrativo, há de ser observado o disposto no art. 5º, XXXVI, da CF/88 e caput dos arts. 1º e 2º, bem como art. 6º do Decreto-Lei nº 4.657/42 (Lei de Introdução às normas do Direito Brasileiro), que estabelecem como regra a aplicabilidade da lei vigente à época dos fatos, em observância aos princípios da irretroatividade da lei, do "tempus regit actum" e respeito ao ato jurídico perfeito; b) não há na RDC 72/2009 disposição expressa sobre a retroatividade de seus efeitos, devendo ser aplicado ao caso concreto a RDC 217/2001, resolução vigente à época dos fatos.
+Contrarrazões ao recurso especial às fls. 618-628.
+Decisão de admissibilidade à fl. 649-659.
+É o relatório. Decido.
+A insurgência não merece prosperar.
+A Corte de origem decidiu à controvérsia nos seguintes termos:
+(..) Ainda, a ANVISA requer a reforma da sentença no capítulo que aplicou o RDC nº 72/09 retroativamente por se tratar de norma mais benéfica. Defende a irretroatividade desta Resolução em respeito ao postulado jurídico "tempus regit actum", que consagra a regra da aplicabilidade da norma de direito material vigente à época da ocorrência do fato gerador.
+Em sua fundamentação, explica o Juízo: "embora a autuação tenha se dado sob a égide da RDC nº 217, de 21 de novembro de 2001, tenho como certa a aplicação da norma contida no art. 25 da Resolução da Diretoria Colegiada RDC nº 72/09, mais benéfica, concedendo isenção da Livre Prática, as embarcações classificadas como balsas e barcaças, categoria a qual pertence as embarcações autuadas".
+Assim estabeleceu a posterior Resolução da Diretoria Colegiada RDC nº 72/09 (evento 11- out19/1ºgrau):
+Art. 25. Estão isentas da Livre Prática, as embarcações:
+VII - classificadas como balsas e barcaças Tanto a Corte Europeia de Direitos Humanos, quanto a Corte Interamericana de Direitos Humanos, entendem que o "processo administrativo sancionatório", materialmente jurisdicional, sujeita-se aos mesmos princípios do Direito Processual Penal (CORTE EUROPEIA DE DIREITOS HUMANOS, Plenário, Caso  rtürk vs Germany, Application nº 8544/79, Strasbourg, 21 de fevereiro de 1984 c/c CORTE INTERAMERICANA DE DIREITOS HUMANOS. Caso Maldonado Ordo ez vs. Guatemala, parágrafo 89, São José da Costa Rica, 3 de maio de 2001).
+Também esse é o atual entendimento do Superior Tribunal de Justiça, o qual decidiu ser aplicável o princípio da retroatividade da norma penal mais benéfica no âmbito dos processos submetidos ao regime do direito administrativo sancionador (RMS 37.031/SP).
+À luz do esclarecido, deve ser adotado o entendimento do Superior Tribunal de Justiça, que, ao analisar o tema, tem manifestado entendimento mais moderno, ao ser possível extrair do art. 5º, XL, da Constituição Federal, um princípio geral implícito do Direito Sancionatório, e não apenas do Direito Penal.
+(..) Nessa perspectiva, apesar de a Constituição Federal consagrar a retroatividade da lex mitior penal, a interpretação mais adequada da garantia constitucional, lastreada no princípio da isonomia, autoriza afirmar que a retroatividade da lei mais benéfica alcança outras áreas do Direito que envolvam a atuação repressiva do Estado, como se verifica na atividade de polícia por parte das autarquias ambientais ao reprimir infrações dessa seara.
+Da análise do acórdão recorrido, é forçoso reconhecer que, possuindo o acórdão recorrido fundamentos eminentemente constitucionais, descabida se revela a sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da CF/1988. O exame do alcance e dos limites da tese jurídica fixada demanda interpretação de princípio e dispositivos constitucionais, cuja competência é exclusiva da Suprema Corte. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ACÓRDÃO COMBATIDO. FUNDAMENTAÇÃO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. PREQUESTIONAMENTO. INEXISTÊNCIA. COMANDO NORMATIVO. AUSÊNCIA.
+1. Não obstante o recorrente tenha indicado violação a diversos dispositivos da legislação federal, observa-se que a controvérsia posta nos autos foi decidida pela Corte Regional com enfoque eminentemente constitucional (princípio da anterioridade, princípio da segurança jurídica e ausência de direito adquirido a regime jurídico), matéria insuscetível de ser examinada em sede de recurso especial, sob pena de usurpação de competência do STF.
+2. (..)
+5. Agravo interno desprovido (AgInt no REsp 1.873.700/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/08/2021, DJe 20/08/2021).
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ILUMINAÇÃO PÚBLICA. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO.
+1. (..)
+2. É entendimento assente no STJ que, examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF.
+3. (..)
+6. Agravo interno desprovido. (AgInt no AgInt no AREsp 1900849/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/04/2022, DJe 27/04/2022)
+Ainda que assim não fosse, rever a decisão do Tribunal de origem demandaria necessariamente a análise de ato normativo infralegal (RDC 72/2009 e 217/2001 da ANVISA), o que extrapola a estreita via do recurso especial.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publica-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. PODER DE POLÍCIA. ACÓRDÃO RECORRIDO COM FUNDAMENTO UNICAMENTE CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. RESOLUÇÃO. ATO NORMATIVO NÃO INCLUÍDO NO CONCEITO DE LEI FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
