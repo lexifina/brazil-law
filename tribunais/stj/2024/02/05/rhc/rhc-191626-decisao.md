@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por SADAT BARBOSA MACHADO contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro proferido no HC n.º 0072247-71.2023.8.19.0000.
+Consta dos autos que o Recorrente está no cumprimento da pena total de 19 (dezenove) anos e 4 (quatro) meses de reclusão, promovido ao regime semiaberto em 21/06/2023. O término da pena está previsto para 25/01/2033.
+O pedido de visitação periódica ao lar foi indeferido pelo Juízo da Execução Penal em 28/08/2023.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual, que não conheceu do writ nos termos do acórdão de fls. 68-87.
+Daí o presente recurso, no qual se alega, de início, a inidoneidade da fundamentação lançada pelo Juízo de primeiro grau para indeferir o pleito de saída periódica. Sustenta-se, também, a ausência dos requisitos autorizadores da prisão preventiva do Recorrente.
+Requer, ao final, (fl. 142):
+" S eja reformado totalmente o referido acórdão para que seja determinada a ordem de Habeas Corpus, permitindo ao Recorrente Apelar em liberdade, com a revogação da prisão preventiva da sentença, decretada ilegalmente pela autoridade coatora de piso, com a consequente EXPEDIÇÃO DE ALVARÁ DE SOLTURA, com amparo no art. 5º, inc. LXV, da Constituição Federal de 1988, Art: 648, do Código de Processo Penal; obstando, assim, a continuidade do constrangimento ilegal sofrido pelo Recorrente, o que possibilitará que aquele possa Apelar em Liberdade, até o trânsito em julgado de todos os recursos.
+Após provimento do Recurso, requer a imediata expedição de alvará de soltura em favor do Recorrente SADAT BARBOSA MACHADO."
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 240-241).
+É o relatório. Decido.
+O  pedido  é  incognoscível.
+Nas razões de fls. 100-142, o Recorrente, inicialmente, aduz a ilegalidade dos fundamentos utilizados para o indeferimento da visitação periódica ao lar. No entanto, formula o pedido de apelo em liberdade "até o trânsito em julgado de todos os recursos" (fl. 142). Assim, não há conclusão lógica entre as razões declinadas na peça recursal e o pedido formulado pela Defesa (revogação da prisão preventiva).
+Ocorre que, embora na análise do habeas corpus (ou o respectivo recurso) mitigue-se o rigor relativo a formalidades processuais, não se afasta a necessidade de que, ainda que de modo simples, seja devidamente narrada a ilegalidade que a Defesa sustenta existir e que pretende ver sanada - mormente no caso, em que a causa é patrocinada por advogados inscritos nos quadros da Ordem dos Advogados do Brasil.
+A propósito, cito os seguintes precedentes, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. INICIAL ININTELIGÍVEL. INOVAÇÃO DE PEDIDO. DEFICIÊNCIA DO AGRAVO. MATÉRIA NÃO DECIDIDA NAS INSTÂNCIAS INFERIORES. INCIDÊNCIA DAS SÚMULAS 283 E 691 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO." (STF, HC 122.255-AgR, Rel. CÁRMEN LÚCIA, SEGUNDA TURMA, julgado em 20/05/2014, DJe 26/09/2014.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PETIÇÃO INICIAL ININTELIGÍVEL. CARACTERES QUE NÃO CONSTAM DO VERNÁCULO. INÉPCIA. IMPOSSIBILIDADE DE COMPREENSÃO DA CONTROVÉRSIA E DO PEDIDO. INDEFERIMENTO DA INICIAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - Firmou-se no âmbito desta eg. Corte a orientação segundo a qual constitui ônus do impetrante ou recorrente possibilitar o devido exame da controvérsia, por meio de inicial com mínima adequação, instruída com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento. Precedentes.
+II - Inviável o conhecimento do recurso em habeas corpus, considerando a existência na inicial de inúmeros caracteres que não constam do vernáculo, os quais tornam a peça ilegível e, de consequência, impedem a compreensão da controvérsia e do pedido.
+III - Esta Corte sedimentou orientação de que a parte que faz uso do sistema de peticionamento eletrônico é responsável pela correta transmissão dos documentos, cabendo-lhe o dever de fiscalizar o seu adequado envio.
+Agravo regimental desprovido." (STJ, AgRg no RHC 105.146/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/11/2018, DJe 07/12/2018.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO (RESSALVADO O ENTENDIMENTO PESSOAL DA RELATORA).  ..  IMPOSSIBILIDADE DE SE ANALISAR PEDIDO E FUNDAMENTO ININTELIGÍVEIS. AUSÊNCIA DE PATENTE CONSTRANGIMENTO ILEGAL QUE PERMITA A CONCESSÃO DE ORDEM EX OFFICIO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+5. Não se pode analisar fundamento ininteligível, cujo constrangimento ilegal não seja de possível compreensão e conclusão não corresponda com o pedido formulado na inicial.
+6. Ausência de constrangimento ilegal que imponha a concessão de ordem de ofício.
+7. Ordem de habeas corpus não conhecida." (STJ, HC 202.519/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 10/12/2013, DJe 03/02/2014.)
+Destaco ainda, mutatis mutandis, emblemático precedente do Colegiado Maior do Superior Tribunal de Justiça, em que se deliberou o que segue sobre a petição inicial de remédio constitucional (como o é o habeas corpus) narrada de forma ininteligível:
+"PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PETIÇÃO INICIAL DEFECTIVA. AUSENCIA DE PEDIDO E CAUSA DE PEDIR. INDEFERIMENTO. AGRAVO REGIMENTAL IMPROCEDENTE. A PETIÇÃO INICIAL, NA AÇÃO DE SEGURANÇA, DEVE PREENCHER OS REQUISITOS DA LEI (CPC, ART. 282), DELA CONSTANDO, COM PRECISÃO E CLAREZA, O PEDIDO E A CAUSA DE PEDIR. E DE SER INDEFERIDA PETIÇÃO INICIAL QUE ENUMERA OS FATOS DE FORMA CONFUSA E ININTELIGIVEL, DE MODO A IMPEDIR A COMPREENSÃO DA CAUSA "PETENDI" E A IDENTIFICAÇÃO DAS PREMISSAS CAUSANTES DA CONCLUSÃO - DO "OBJETIVO DO MANDAMUS". AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. DECISÃO UNANIME." (AgRg no MS 4.347/DF, Rel. Ministro DEMÓCRITO REINALDO, CORTE ESPECIAL, julgado em 03/02/1997, DJ 03/03/1997, p. 4550; sem grifos no original.)
+Vale  também  referir  que  o  art.  6.º  do  Código  de  Processo  Civil  dispõe  que  "todos  os  sujeitos  do  processo  devem  cooperar  entre  si  para  que  se  obtenha,  em  tempo  razoável,  decisão  de  mérito  justa  e  efetiva".  Ou  seja,  não  compete  apenas  ao  Estado-Juiz  a  condução  da  causa.  É  essencial  que  as  partes  formulem  suas  pretensões  de  forma  clara  e  objetiva.
+Ante  o  exposto,  NÃO CONHEÇO do recurso ordinário em habeas corpus.
+Publique-se.  Intimem-se.
+EMENTA
+RECURSO  ORDINÁRIO  EM  HABEAS  CORPUS.  PEDIDO QUE NÃO CORRESPONDE À FUNDAMENTAÇÃO DECLINADA NAS RAZÕES RECURSAIS. ININTELIGIBILIDADE.  RECURSO NÃO CONHECIDO.
