@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por VERA MARIA LIMA DE FREITAS contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA nos termos da seguinte ementa (fl. 1.143):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA C/C PEDIDO DE INDENIZAÇÃO POR ABALOS MORAIS. DANO MORAL. SUCUMBÊNCIA RECÍPROCA COM O 1.º, 3.º E 4.º APELADOS. AUSÊNCIA DA PRÁTICA DE ATO ILÍCITO. HONORÁRIOS DEVIDOS. QUANTUM INDENIZATÓRIO. VALOR ARBITRADO QUE SE MOSTRA EM HARMONIA COM OS PRINCIPIOS DA PRPORCIONALIDADE E DA RAZOABILIDADE. LITIGÂNCIA DE MÁ FÉ NÃO CONFIGURADA.
+1. Não se reveste de ilegalidade a fixação de honorários sucumbenciais em favor dos réus quando a parte autora sucumbiu em parte significante dos pedidos.
+2. Recurso desprovido.
+3. Sentença mantida.
+Rejeitados os embargos de declaração opostos (fls. 1.212-1.220).
+Nas razões do recurso especial (fls. 1.233-1.249), aponta a parte recorrente ofensa ao disposto nos artigos:
+a) 1.022, II, do Código de Processo Civil, sustentando que houve omissão no acórdão recorrido acerca de tema indispensável ao julgamento da causa;
+b) 1.022, I, do Código de Processo Civil, alegando que houve contradição interna entre o voto (reconhece que o juízo a quo julgou procedentes os pedidos formulados na inicial) e a ementa do acórdão (afirma que a parte autora sucumbiu em parte significante dos pedidos); e
+c) 86, caput e parágrafo único, do Código de Processo Civil, asseverando que houve sucumbência mínima, logo, devem os vencidos, ora recorridos, responder pelo total das verbas de sucumbência e honorários de advogado.
+Oferecidas contrarrazões (fls. 1.272-1.290), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.295-1.297), o que ensejou a interposição do presente agravo (fls. 1.310-1.316).
+Apresentadas contraminutas do agravo (fls. 1.332-1.341).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se pode conhecer da apontada violação do art. 1.022, II, do Código de Processo Civil. Isso porque a parte recorrente não demonstrou especificamente quais seriam as omissões do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+Assim, incide, por analogia, o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgInt no REsp n. 2.020.226/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023; AgInt no AREsp n. 2.288.003/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023; REsp n. 2.039.541/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 23/6/2023; AgInt nos EDcl no AREsp n. 2.115.843/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023.
+Também não se configura a apontada violação do art. 1.022, I, do Código de Processo Civil, tendo em vista que "a contradição sanável mediante embargos de declaração é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, não sendo admissível o manejo do recurso integrativo para correção de eventual desconformidade entre o provimento jurisdicional embargado e a prova dos autos, ato normativo, ou acórdão proferido pelo Tribunal de origem ou em outro processo (EDcl no REsp n. 1.797.365/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 28/6/2023).
+Veja-se ainda: AgInt nos EDcl no AREsp n. 2.361.506/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023; EDcl no AgInt no AREsp n. 1.996.955/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023; EDcl no AgInt no REsp n. 1.942.086/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023; EDcl nos EDcl no AgInt no AREsp n. 2.170.272/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/11/2023, DJe de 20/11/2023.
+No que se refere ao art. 86, caput e parágrafo único, do Código de Processo Civil, o Tribunal de origem concluiu pela sucumbência recíproca, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fl. 1.138):
+Inconformada com a sentença prolatada intenta a apelante o aumento do quantum indenizatório e que o mesmo recaia sobre todos os réus. Ademais, entende desarrazoada sua condenação ao pagamento das custas e honorários advocatícios em 40%, uma vez que todos os seus pedidos foram julgados precedentes.
+Analisando detidamente os autos e as razões invocadas pelas partes, verifica-se que o magistrado sentenciante deu correta solução à lide.
+Isso porque a autora instruiu sua demanda formando o litisconsórcio passivo com quatro demandados, representados nos autos por diferentes advogados.
+In casu, embora o juízo a quo tenha julgando procedentes os pedidos formulados na exordial, condenou a suportar o ônus indenizatório apenas o réu Aroldo do nascimento Junior, isentando os demais réus/apelados.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
