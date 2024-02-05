@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RENATO DE BRITO SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0007436-19.2023.8.26.0482).
+Depreende-se dos autos que o Juízo de primeiro grau indeferiu o pedido de livramento condicional, ante a ausência do requisito subjetivo.
+Interposto agravo em execução, o recurso foi desprovido pelo Tribunal de origem, em acórdão assim ementado (e-STJ fl. 81):
+1-) Agravo em Execução Penal. Recurso defensivo não acolhido.
+2-) Pleito para concessão de livramento condicional. Descabimento. Não demonstrada a presença do requisito de ordem subjetiva, vez que insuficiente, para a aferição do mérito, o mero atestado de comportamento carcerário.
+3-) Acredita-se que não deve ser concedida maior liberdade, até que o sentenciado demonstre comportamento satisfatório e apto a indicar que não voltará a delinquir, sobretudo por se tratar de reincidente, condenado pela prática de crimes graves, consistentes em homicídio, roubo, furto e tráfico de drogas, dentre os quais há aqueles com envolvimento de violência ou grave ameaça contra a pessoa, sendo certo, também, que há registro de faltas disciplinares durante o cumprimento da pena, inclusive, consta histórico de regressão pela prática de novo crime enquanto estava beneficiado por regime mais brando, o que indica falha na assimilação da terapêutica penal e reforça que o mesmo ainda não esteja pronto para retorno ao convívio social.
+4-) Decisão mantida.
+Daí o presente writ, no qual sustenta a defesa que a decisão que indeferiu o benefício carece de fundamentação idônea.
+Aduz, nesse sentido, que "a motivação denegatória contida no bojo do r. decisório atacado se limita pela longa pena a ser cumprida e pela gravidade genérica do delito praticado, mostrando-se, permissa maxima venia, de toda inidônea" (e-STJ fl. 6).
+Alega, ainda, que "o art. 83 do Código Penal e os arts. 131/146 da Lei de Execução Penal não reclamam a prévia permanência do penitente no regime semiaberto para concessão do livramento condicional" (e-STJ fl. 8).
+Pondera que "o Paciente não possui qualquer falta disciplinar pendente de reabilitação, seja ela de natureza leve, média ou grave" (e-STJ fl. 10).
+Requer, liminarmente e no mérito, a concessão do livramento condicional ao paciente.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 132/138).
+É o relatório.
+Decido.
+Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de concessão de livramento condicional, pelo inadimplemento do requisito subjetivo.
+Nesse sentido, confira-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. LATROCÍNIO. LIVRAMENTO CONDICIONAL. ART. 83 DO CP. NOVA REDAÇÃO DADA PELA LEI ANTICRIME. REQUISITO SUBJETIVO. FALTA DISCIPLINAR DE NATUREZA GRAVE. LIMITAÇÃO TEMPORAL. TRANSCURSO DE MAIS DE 12 MESES DA OCORRÊNCIA. INVIABILIDADE. NECESSIDADE DE COMPORTAMENTO SATISFATÓRIO DURANTE A EXECUÇÃO DA PENA. PARECER ACOLHIDO.
+1. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+2. A norma anterior já previa a necessidade de comportamento satisfatório durante a execução da pena para o deferimento do livramento condicional. E não se pode negar que a prática de falta disciplinar de natureza grave acarreta comportamento insatisfatório do reeducando. Precedentes.
+3. No caso, a fuga do paciente, no curso da execução da pena privativa de liberdade, ocorrida em 16/4/2019, serviu, nas instâncias ordinárias, como fator para considerar a ausência do pressuposto subjetivo necessário para o livramento condicional, negado em 28/4/2020.
+4. Ordem denegada.
+(HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020, grifei.)
+No caso dos autos, o Juízo da Vara de Execuções Penais indeferiu a benesse pleiteada com esteio na seguinte fundamentação (e-STJ fls. 83/84):
+De outro lado, em que pese o preenchimento do requisito objetivo para o livramento condicional, o apenado possui histórico prisional desfavorável à imediata liberdade, sobretudo considerando que cumpre pena por crimes graves, praticados com violência ou grave ameaça contra a pessoa (homicídio e roubo), revelando-se tratar de pessoa com periculosidade acentuada e nociva à sociedade. Além disso, registra a prática de novo delito no curso de regime aberto antes concedido e faltas disciplinares de natureza grave e média durante o cumprimento de penas, sendo recomendável a manutenção de sua segregação por maior período de tempo, visando a necessária e adequada reeducação penal para, posteriormente, fazer jus à liberdade condicional.
+Da leitura do trecho acima colacionado, verifica-se que o indeferimento do livramento condicional está devidamente fundamentado em elementos concretos relacionados ao histórico prisional do paciente, não havendo que se falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+Nesse sentido, confiram-se os seguintes precedentes:
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO AO REGIME SEMIABERTO. INDEFERIMENTO FUNDAMENTADO. AUSÊNCIA DO REQUISITO SUBJETIVO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. Não há constrangimento ilegal no indeferimento de pedido de progressão de regime concretamente fundamentado nas peculiaridades do caso, notadamente no histórico prisional desfavorável do Apenado, o qual praticou seis faltas graves durante a execução da pena, na informação de que integraria facção criminosa e, ainda, na sua recusa em submeter-se a exame criminológico.
+3. Ordem de habeas corpus denegada (HC 457.713/SP, relatora a Ministra Laurita Vaz, Sexta Turma, DJe de 26/10/2018).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO AO REGIME ABERTO NA MODALIDADE PRISÃO ALBERGUE DOMICILIAR INDEFERIDA. REQUISITO SUBJETIVO NÃO PREENCHIDO. DECISÃO DEVIDAMENTE FUNDAMENTADA. APENADO DE ALTÍSSIMA PERICULOSIDADE E QUE EXERCERIA PAPEL DE GRANDE INFLUÊNCIA EM FACÇÃO CRIMINOSA.
+1. Esta Corte superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto, e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. No caso, o Tribunal de origem logrou fundamentar o indeferimento da progressão de regime em razão da ausência do requisito subjetivo, considerando, diante das informações constantes de relatório elaborado pela Coordenadoria de Segurança e Inteligência do Ministério Público, ser o agravante indivíduo de altíssima periculosidade, exercendo, mesmo preso, grande influência sobre a facção criminosa denominada Amigos dos Amigos, tanto no interior quanto fora do estabelecimento prisional, não demonstrando, assim, o preenchimento de requisito subjetivo à progressão ao regime aberto na modalidade prisão albergue domiciliar.
+3. Ressalte-se, ainda, que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito do paciente, ora agravante, demandaria o reexame de matéria fático-probatória dos autos, providência inadmissível na via estreita do habeas corpus.
+4. Agravo regimental desprovido (AgRg no HC 431.458/RJ, de minha relatoria, Sexta Turma, DJe de 1/8/2018).
+Não bastasse, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus e no respectivo recurso ordinário, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL REVOGADO. FALTA GRAVE. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS.
+1. No caso, o Tribunal de origem revogou a benesse do livramento condicional, ante a falta do elemento subjetivo, ao entendimento de que o paciente, no curso da execução, cometera falta disciplinar grave (fuga praticada em 2016), revelando, portanto, um comportamento carcerário não satisfatório que gera demérito para o alcance da benesse pretendida.
+2. Desconstituir a conclusão a que chegou a Corte de origem sobre o não preenchimento do requisito subjetivo implicaria o reexame do conjunto fático-probatório dos autos da execução, o que é incompatível com os estreitos limites da via eleita.
+3. Agravo regimental a que se nega provimento (AgRg no HC 386.742/RS, de minha relatoria, Sexta Turma, DJe de 4/10/2017).
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
