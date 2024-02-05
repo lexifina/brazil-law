@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Alessandro dos Santos Passos - condenado às penas de 18 anos, 1 mês e 22 dias de reclusão, em regime inicial fechado, e 39 dias-multa, pela prática pela prática do delito previsto no artigo 157, § 2º, II, e § 2º - A, I, c/c artigo 71, § único, todos do Código Penal; às penas de 3 anos de reclusão, em regime inicial fechado, e 10 dias-multa, no patamar mínimo legal, pela prática do delito previsto no artigo 311, § 2º, III, do Código Penal; e às penas de 15 dias de detenção, em regime inicial aberto, além o pagamento de 10 dias-multa, no patamar mínimo legal, pela prática do delito previsto no artigo 330 do Código Penal, sendo-lhe vedado o direito de recorrer em liberdade (Processo n. 1527847-92.2023.8.26.0228, em trâmite na 13ª Vara Criminal da comarca de São Paulo) -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada ( Habeas Corpus n. 2347676-31.2023.8.26.0000/SP).
+As matérias aqui suscitadas são mera reiteração do HC n. 869.195/SP e 880.227/SP. Ao que se observa, em ambos os feitos, a defesa alega ausência de fundamentação idônea e dos dos requisitos da prisão preventiva, agora, mantida na sentença condenatória; a possibilidade de substituição por medidas cautelares alternativas; e a inobservância do art. 226 do CPP.
+O referido writ foi indeferido liminarmente , em razão da aplicação da Súmula 691/STF, cuja decisão foi impugnada mediante agravo regimental, ainda pendente de julgamento, motivo pelo qual est e mandamus carece de interesse de agir, ante a falta de utilidade na reiteração de pedidos.
+À vista do exposto, com base no art. 210 do RISTJ, não conheço do habeas corpus .
+Publique-se.
+EMENTA
+HABEAS CORPUS. REITERAÇÃO DE PEDIDOS FORMULADOS NO HC N. 869.195/SP E HC N. 880.227/SP, COM AGRAVO REGIMENTAL PENDENTE DE JULGAMENTO. DESCABIMENTO.
+Writ não conhecido.
