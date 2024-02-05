@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BERNARD PESSOA BILLET apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1501026-04.2023.8.26.0567).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 291/294, in verbis:
+Trata-se de habeas corpus substitutivo, sem pedido liminar, impetrado em favor de BERNARD PESSOA BILLET contra o acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento para a Apelação Criminal nº 1501026-04.2023.8.26.0567 e manteve a resposta sancionatória em condenação pelo delito de furto qualificado. Eis a ementa do julgado (e-STJ fl. 251):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - CRIME COMETIDO COM ROMPIMENTO DE OBSTÁCULO E ESCALADA, DURANTE REPOUSO NOTURNO - AUTORIA E MATERIALIDADE DO DELITO DEMONSTRADAS - PENA CORRETAMENTE APLICADA - TEMA 1087 DO STJ - REGIME PRISIONAL ADEQUADO - RECURSO DESPROVIDO.
+A defesa pugna pelo redimensionamento da pena, mediante a redução da pena-base, com a neutralização da qualificadora do rompimento de obstáculos e da causa de aumento referente ao repouso noturno - cuja incidência simultânea contraria a tese firmada por essa Corte Superior no julgamento do Tema Repetitivo nº 1.087 - como circunstâncias judiciais; o abrandamento do regime inicial ao aberto; bem assim a substituição da pena privativa de liberdade por penas restritivas de direitos (e-STJ fls. 3/7).
+Colhidas as informações do Tribunal de Justiça do Estado de São Paulo (e-STJ fls. 264/289), os autos vieram à Procuradoria-Geral da República para manifestação.
+ ..
+O paciente foi condenado às penas de 2 anos e 6 meses de reclusão, em regime inicial semiaberto, e 12 dias-multa, como incurso no art. 155, §4º, I e II, do CP, pois, em 26/4/2023, durante o repouso noturno, mediante escalada e rompimento de obstáculo, subtraiu para si diversos bens de uma oficina mecânica pertencente a Álvaro Cândido Neto. Quanto à dosimetria, consignou que (e-STJ fls. 189/190):  ..
+Ao final, o Parquet opinou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Tenho que não assiste razão à defesa.
+Isso, porque "a migração da majorante relativa ao repouso noturno para a primeira fase da dosimetria para ser considerada como circunstância judicial negativa encontra respaldo na jurisprudência desta Corte" (AgRg no HC n. 818.182/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2023, DJe de 4/10/2023).
+Ademais, "na existência de múltiplas qualificadoras, uma delas é empregada para qualificar o crime enquanto as remanescentes podem ser utilizadas na segunda fase da dosimetria da pena, caso correspondam a agravantes legalmente previstas, ou residualmente como circunstâncias judiciais, na primeira etapa" (AgRg no HC n. 804.667/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+No que diz respeito ao patamar de aumento na primeira fase da dosimetria, é digno de nota que "a jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa das vetoriais previstas no art. 59 do CP" (AgRg no AREsp n. 2.045.906/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023). Assim, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal. Ao contrário, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, o que se verifica na espécie.
+Por derradeiro, verifico que o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte Superior, uma vez que fixou o regime semiaberto com base em fundamentação idônea - existência de circunstância judicial desfavorável -, apta a justificar o recrudescimento do regime prisional.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
