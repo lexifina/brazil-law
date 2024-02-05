@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por Spal Industria Brasileira de Bebidas S/A Incorporador de Vonpar Refrescos S/A (fls. 879/894), desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, contra acórdão em juízo de retratação proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 709):
+EMBARGOS DE DECLARAÇÃO. SUPERVENIENTE PRECEDENTE DE NATUREZA VINCULANTE. EXCEPCIONAIS EFEITOS INFRINGENTES. POSSIBILIDADE. REMUNERAÇÃO DE DEPÓSITOS JUDICIAIS. IRPJ/CSLL. INCIDÊNCIA. TEMA 504/STJ. RETRATAÇÃO.
+1. A superveniência de precedente qualificado, por sua eficácia vinculante e expansiva, materializa situação jurídica excepcional, a autorizar a atribuição de efeitos infringentes aos embargos de declaração interpostos de julgamento que havia adotado entendimento contrário.
+2. Tema 504/STJ: " Os juros incidentes na devolução dos depósitos judiciais possuem natureza remuneratória e não escapam à tributação pelo IRPJ e pela CSLL."
+3. Embargos de declaração acolhidos com efeitos infringentes para, em juízo de retratação, aplicar a orientação do Tema 504/STJ ao caso dos autos.
+Os embargos de declaração opostos foram rejeitados, nos termos do acórdão de fls. 750/753.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos arts. 43, I e II, 44, 97, 99, 110, 165, 167, 168 e 170 do CTN; 394, 395, 397, 404, 406 e 407 do Código Civil; 2º, 4º, 8º, 141, 322, 489, 492, 926, 927, 1.022, II, 1.040, II e 1.041, §§ 1º e 2º do CPC; 1º da Lei nº 12.016/2009; 39, § 4º da Lei nº 9.250/95; art. 66, § 2º, da Lei 8.383/91; 1º e 74 da Lei nº 9.430/96; 1º e 2º da Lei 7.689/88; 57 da Lei 8.981/95. Sustenta, em síntese: (I) existência de efeitos prospectivos/ futuros da concessão da ordem em mandado de segurança e obrigatoriedade de vinculação ao tema 962/STF; e (II) não incidência de IRPJ e a CSLL sobre juros moratórios incidentes sobre os valores decorrentes de pagamentos extemporâneos.
+Contrarrazões apresentadas às fls. 846/847.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Há muito restou consolidado no STJ o entendimento de que "Na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009" (Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011).
+Essa mesma intelecção é aplicável ao caso em tela, devendo-se ter como inadmissível a interposição de novo recurso especial contra o acórdão de adequação a repetitivo proferido pelo Tribunal Local.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. RAZÕES DISSOCIADAS. SÚMULA 284/STF. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. NOVO RECURSO ESPECIAL. NÃO CABIMENTO.
+1. Inviável o conhecimento de insurgência recursal na hipótese em que apresenta razões dissociadas da realidade dos autos. Deficiência de fundamentação recursal que atrai a Súmula 284/STF.
+2. Há muito restou consolidado no STJ o entendimento de que "Na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apr esentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009" (Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011). Nesse sentido: AgInt nos EDcl no REsp n. 2.047.666/MS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/8/2023; e AgInt no AREsp n. 1.829.782/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 27/5/2022.
+3. Essa mesma intelecção é aplicável ao caso em tela, devendo-se ter como inadmissível a interposição de novo recurso especial contra o acórdão de adequação a repetitivo proferido pelo Tribunal Local.
+4. Agravo interno parcialmente conhecido e não provido.
+(AgInt no AREsp n. 2.073.120/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/10/2023.)
+ANTE O EXPOSTO, nego provimento ao agravo de fls. 879/894.
+Publique-se.
+EMENTA
