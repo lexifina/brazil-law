@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Recurso Ordinário em Mandado de Segurança interposto por Wanderson da Silva Nascimento, em desfavor de acórdão prolatado pelo TJMT assim ementado:
+MANDADO DE SEGURANÇA - TRÁFICO DE DROGAS - QUEBRA DE SIGILO TELEFÔNICO - REQUISITOS AUTORIZADORES PRESENTES - DECISÃO SUCINTA - POSSIBILIDADE - ORDEM DENEGADA. Demonstrada a existência dos pressupostos autorizadores da interceptação telefônica, é legal a determinação judicial de quebra do sigilo telefônico, mesmo que em decisão sucinta. (e-STJ Fl.412)
+Afirma o recorrente, em suma, o cabimento do "mandamus" e a existência de violação à Lei nº 9.296/96.
+O Ministério Público do Mato Grosso apresenta contrarrazões ao recurso, ocasião em que promove a manutenção do acórdão recorrido. (e-STJ Fl. 448/452)
+O Ministério Público Federal, como "custos legis", aduziu o desprovimento do recurso (e-STJ Fl.460/465)
+É o relatório. DECIDO.
+Dispõe o art. 105, II, "b" que "Compete ao Superior Tribunal de Justiça: (..) II - julgar, em recurso ordinário: (..) b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão.
+A previsão constitucional é secundada pelo RISTJ, que, em seus arts. 247 e 248, estabelece:
+Art. 247. Aplicam-se ao recurso ordinário em mandado de segurança, quanto aos requisitos de admissibilidade e ao procedimento no Tribunal recorrido, as regras do art. 1.028 do Código de Processo Civil. (Redação dada pela Emenda Regimental n. 22, de 2016)
+Art. 248. Distribuído o recurso, a Secretaria fará os autos com vista ao Ministério Público pelo prazo de cinco dias.
+Parágrafo único. Conclusos os autos ao relator, este pedirá dia para julgamento.
+Por remissão à legislação processual civil, a interposição recursal ordinária em sede de julgamento de Mandado de Segurança encontra-se submetida ao prazo de 15 dias da apelação, nos termos dos arts. 1.028 c/c 1.003, § 5º do CPC.
+Versando a hipótese interposição tempestiva em face de acórdão denegatório da segurança, deve o recurso ordinário ser conhecido.
+No que tange o cabimento de Mandado de Segurança em face de decisão judicial, de há muito se firmou a jurisprudência do STF no sentido de que: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição." (Súmula 267)
+Não é outro o entendimento da 3ª Seção do STJ acerca do tema: "(..) É incabível a impetração de mandado de segurança contra ato judicial passível de recurso, o que se admite excepcionalmente quando presente teratologia ou manifesta ilegalidade. (..)" (AgRg no MS 28908 / RS; RELATOR Ministro MESSOD AZULAY NETO; ÓRGÃO JULGADOR TERCEIRA SEÇÃO; DATA DO JULGAMENTO 26/04/2023; DATA DA PUBLICAÇÃO/FONTE DJe 03/05/2023)
+Colhe-se dos autos que a impetração se deu em face de decisão interlocutória que determinou a quebra do sigilo telemático (e-STJ Fl.25), hipótese plenamente recorrível através de apelação, após futura e eventual condenação criminal fulcrada na prova que reputa inválida.
+Busca-se, portanto, em desconformidade com a jurisprudência deste STJ, a via mandamental como sucedâneo recursal.
+Mesmo que assim não fosse, certo é que "A jurisprudência das duas Turmas da Terceira Seção deste Tribunal Superior firmou-se no sentido de ser ilícita a prova obtida diretamente dos dados constantes de aparelho celular, decorrentes de mensagens de textos SMS, conversas por meio de programa ou aplicativos ("WhatsApp"), mensagens enviadas ou recebidas por meio de correio eletrônico, obtidos diretamente pela polícia no momento do flagrante, sem prévia autorização judicial para análise dos dados armazenados no telefone móvel" (HC n. 372.762/MG, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 3/10/2017, DJe 16/10/2017).
+De fato, "a contrario sensu", a jurisprudência do STJ aponta de maneira pacífica no sentido do caráter relativo da inviolabilidade dos dados constantes de aparelho celular, admitindo a quebra de seu sigilo mediante decisão judicial prévia, fundada em elementos de autoria e materialidade adequados. Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. PROCESSO PENAL.
+NULIDADE. PROVAS. ACESSO A DADOS ARMAZENADOS EM APARELHO CELULAR. NECESSIDADE DE PRÉVIA AUTORIZAÇÃO JUDICIAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - Os dados decorrentes de comunicações realizadas por meio de comunicação telefônica ou pela internet, como mensagens ou caracteres armazenados em aparelhos celulares, são invioláveis, somente podendo ser acessados mediante prévia autorização judicial.
+Precedentes.
+III - In casu, entretanto, ao contrário do que alegado pela il.
+Defesa, a perícia no aparelho apreendido foi precedida de prévia autorização judicial. Nesse sentido, o v. acórdão ora combatido (fls. 50-53 - grifei): " ..  Do exame acurado dos autos n. 0005265-16.2017.8.24.0075, extrai- se das fls. 40/42, o deferimento para a expedição do mandado de busca e apreensão na residência de H.
+A. F., o qual foi cumprido no dia 28/11/2017, ocasião em que foi apreendido o celular de G. M. H., namorada de H. A. F., por conter supostas informações sobre uma organização criminosa atuante em Santa Catarina. Em razão da apreensão do aparelho celular, a autoridade policial representou pela quebra do direito à intimidade e extração de dados em aparelho de telefone celular (fls. 59/61 - autos n. 0005265-16.2017.8.24.0075), a qual foi autorizada pelo Juízo da 2º Vara Criminal da Comarca de Tubarão no dia 6/12/2017, de modo que os dados existentes no aparelho foram extraídos apenas no dia 15/12/2017 (Relatório de Investigação n. 217/2017 - fls. 82/92 - autos n. 0005265-16.2017.8.24.0075) e transcritos em 11/1/2018 (fls. 93/127 - autos n. 0005265-16.2017.8.24.0075). Logo, percebe-se o acesso ao conteúdo do aparelho foi autorizado em data anterior à extração dos dados".
+IV - Nessa perspectiva, desconstituir a conclusão alcançada pelas ins tâncias ordinárias, nos moldes do que pretende a il. Defesa, seria necessário o amplo revolvimento de matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus e do respectivo recurso ordinário.
+V - Não se vislumbra na espécie, portanto, constrangimento ilegal apto para a concessão da ordem de ofício.
+Agravo regimental desprovido.
+(AgRg no HC 567668 / SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 06/10/2020; DJe 20/10/2020)
+Dessa for ma , nego provimento ao recurso ordinário em mandado de segurança, com amparo no art. 34, XVIII, "b", do RISTJ.
+EMENTA
