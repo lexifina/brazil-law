@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de VINICIUS DIOGENES SALDANHA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do HC n. 2151058-16.2023.8.26.0000.
+Consta dos autos que o paciente foi condenado às penas de 2 anos de reclusão, no regime inicial fechado, e ao pagamento de 10 dias-multa, no valor unitário mínimo, pela prática do delito tipificado no art. 304 c/c o art. 297, ambos do Código Penal (uso de documento público falso).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. REGIME PRISIONAL. FIXAÇÃO. FLAGRANTE ILEGALIDADE. INOCORRÊNCIA. VIAINADEQUADA. PRISÃOPREVENTIVA. RÉUCONDENADOEM1º GRAU. AUTORIAE MATERIALIDADE RECONHECIDAS. GARANTIA DAORDEM PÚBLICA. APLICAÇÃO DA LEI PENAL. ENCARCERAMENTO PROVISÓRIO. NECESSIDADE. ORDEM DENEGADA.1. A discussão em torno da natureza do regime prisional, pela via do habeas corpus, só tem lugar se a decisão atacada se reveste de flagrante ilegalidade ou quando se opta pela regência carcerária mais gravosa sem fundamentaçãoalguma.2. Deve ser mantida a prisão preventiva de réu condenado em 1º Grau quando, além de reincidente, ele volta a delinquir para se furtar da aplicação da lei penal.3. Ordem denegada, eis que ausente constrangimento ilegal." (fl. 360)
+No presente writ, o impetrante aduz, em síntese, que a sentença condenatória foi confirmada em grau de apelação, mesmo estando eivada de erro grosseiro, por ter sido considerada uma reincidência em processo que culminou com a absolvição do paciente. Invoca o teor da Súmula 440, do Superior Tribunal de Justiça, a justificar a revisão do regime inicial de cumprimento de pena. Argumenta, nesse particular, que se encontra indevidamente custodiado "em regime fechado, quando vários institutos poderiam ser aplicados, tais como sursis penal, substituição de pena por privativa de liberdade, estando o réu já as vésperas de receber livramento condicional (..)" (fl. 10).
+Requer, liminarmente, a expedição de alvará de soltura e, no mérito, confirmada a medida liminar, reconhecendo-se "indícios de nulidade da fixação do regime fechado para início de cumprimento de pena e determinando que se aguarde em liberdade a definição de sua apelação criminal" (fl. 11).
+Indeferido o pedido liminar (fls. 366/367), as informações foram prestadas (fls. 375/389 e 391/394), e o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 397/403).
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso porque, das informações obtidas na página eletrônica do Tribunal de origem, verificou-se que, em 29/8/2023, o TJSP deu parcial provimento à apelação criminal n. 1526344-70.2022.8.26.0228 para fixar o regime inicial aberto, com a consequente expedição de alvará de soltura.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se. Intimem -se.
+ EMENTA
