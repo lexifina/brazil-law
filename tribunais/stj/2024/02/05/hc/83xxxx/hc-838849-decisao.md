@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de PAULO CESAR RIBEIRO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no habeas corpus de origem.
+Consta dos autos que o paciente foi preso em flagrante em 19/06/2023, pela suposta prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006 e art. 14, caput, da Lei n. 10.826/2003. Em seguida, o juízo de primeiro grau convolou a custódia em preventiva, sobrevindo denúncia nos diplomas legais citados.
+Ajuizado prévio mandamus, o TJ/SP denegou a ordem.
+No presente writ, alega o impetrante a existência de constrangimento ilegal, porque a decisão prisional seria imotivada e desprovida de fundamentação idônea.
+Entende que seria ínfima a quantidade de entorpecentes apreendidos, inexistindo notícias de que o paciente teria se dedicado novamente ao tráfico de drogas desde o ano de 2017.
+Requer, liminarmente e no mérito, a substituição do ergástulo preventivo por medidas cautelares diversas.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, ressaltando a inexistência de ilegalidade no acórdão impugnado.
+Em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que após a impetração deste writ, ocorrida em 16/7/2023, foi julgado o apelo criminal interposto contra a sentença condenatória, em 10/11/2023, que foi parcialmente provido para reconhecer a absorção do crime de arma pelo tráfico de drogas, readequando a conduta para o tipo do artigo 33, caput, na forma do artigo 40, inciso IV, ambos da Lei 11.343/06, com redução da pena a cinco anos e dez meses de reclusão e quinhentos e oitenta e três dias-multa, sendo mantidos os pressupostos da prisão preventiva.
+Atualmente, o feito está em fase de recebimento das razões e contrarrazões a o recurso especial interposto pela defesa.
+Registre-se, de início, que de acordo com a jurisprudência desta Corte, a sentença penal condenatória superveniente que não permite ao réu recorrer em liberdade somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso em apreço.
+No caso, a decisão que decretou a prisão preventiva do paciente está assim fundamentada (fls. 14/15):
+Vistos. 1 - O auto de prisão em flagrante encontra-se formalmente em ordem e deve, por isso, ser homologado. 2 - Dito isso, observo estarem presentes os requisitos que autorizam a imposição da segregação cautelar do averiguado. Com efeito, ele foi abordado após empreender fuga da polícia militar por diversos quarteirões, sendo que ao ser revistado os policiais militares encontraram em seu poder elevada quantidade de entorpecentes, a saber, 40 gramas de cocaína e 35 gramas de maconha, além de 42 eppendorfs vazios e uma arma de fogo de uso permitido. Há elementos que evidenciam, assim, a prática pelo acusado dos crimes de tráfico de drogas e porte de arma de fogo de uso permitido, cujas penas autorizam a imposição da prisão preventiva ao averiguado. Em acréscimo, observo que o autuado ostenta diversos antecedentes criminais, já tendo sido condenado, com trânsito em julgado, pelos crimes de tráfico de drogas e porte de arma de fogo de uso permitido. Tais circunstâncias, quando analisadas em conjunto, permitem concluir que a liberdade do averiguado representa risco à ordem pública.
+Como se vê, a decretação da prisão do paciente teve como fundamento os seus maus antecedentes.
+A propósito, destacou o Magistrado singular possuir o réu condenação anterior pelos crimes de tráfico de drogas e porte de arma de fogo.
+Dessa forma, justifica-se a imposição da prisão preventiva pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. Precedentes.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
