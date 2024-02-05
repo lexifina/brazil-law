@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por NAURO FRANCISCO DA PAIXÃO contra decisão que inadmitiu recurso especial manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS (Apelação Criminal n. 0718769-74.2022.8.07.0001).
+Consta dos autos que o agravante foi condenado como incurso no art. 147-A, § 1º, I, do Código Penal (crime de perseguição), à pena de 1 ano, 1 mês e 15 dias de reclusão, em regime aberto, além de 30 dias-multa.
+O Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fl. 330):
+APELAÇÃO CRIMINAL. CRIME DE PERSEGUIÇÃO CONTRA ADOLESCENTE. PEDIDO DE ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA OU INSUFICIÊNCIA DE PROVAS REJEITADO. CONDENAÇÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não se acolhe a alegação de atipicidade da conduta ou de insuficiência probatória da materialidade e autoria do crime de perseguição, quando demonstrado pelo acervo probatório que a vítima, então com 16 (dezesseis) anos de idade, foi perturbada em sua esfera de liberdade pelo apelante que, por meses, a importunou com gracejos, inclusive, seguindo-a de carro pela rua, todas as vezes em que ela passava pelo bar frequentado por ele, e vizinho à residência da vítima, constrangendo-a a ponto dela pedir ajuda à sua avó e ao seu genitor, confidenciando-lhes o temor sentido ao retornar para casa. Deve ser mantida, portanto, a condenação do apelante pela prática do crime previsto no artigo 147-A, § 1º, inciso I, do Código Penal.
+2. Recurso conhecido e não provido.
+A defesa interpôs recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 147-A, §1º, I, do CP, e 386, V e VII, do Código de Processo Penal.
+Afirma que, "para caracterizar o crime STALKING, é necessário que a perseguição seja reiterada e por qualquer meio, que ameace a integridade física e psicológica da vítima, interferindo na liberdade e na privacidade da vítima, o que não é o caso em tela" (e-STJ fl. 359). Não houve perseguição reiterada que ameaçou a integridade física e psicológica da vítima.
+O recurso foi inadmitido em face da incidência da Súmula n. 7/STJ (e-STJ fls. 374/375).
+Daí o presente agravo em recurso especial, no qual alega a defesa que "não se busca o reexame do conjunto probatório, ou nova discussão sobre as provas trazidas aos autos, uma vez que resta claro no presente caso que a discussão é apenas jurídica e não fática" (e-STJ fl. 385). Reitera, no mais, os argumentos antes aduzidos.
+Contraminuta apresentada (e-STJ fl. 396).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo conhecimento do agravo e pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+São estes os fundamentos do acórdão recorrido (e-STJ fl. 336):
+Pelo apurado nos autos, a vítima era importunada pelo réu com gracejos toda vez que passava pelo bar, pois ele ficava ao lado de sua casa. Registre-se que a avó da menor disse, em Juízo, que o réu era conhecido do local pela alcunha de "Pinguim" e o conhecia de vista, pois ele frequentava quase que diariamente o estabelecimento, podendo-se assumir que a adolescente se sentia constrangida em sua locomoção e invadida em sua privacidade toda vez que passava por ali, eis que era caminho obrigatório para sua residência.
+De igual forma, restou comprovado que a vítima foi seguida, certo dia, pelo apelante que estava de carro, quando ela voltava da escola para casa a pé. Ele dirigiu ao seu lado, enquanto a chamava para conversar, a indicar maior ousadia em sua abordagem. Como a menor não respondeu, ele desistiu de seu intento. Assustada, a menor contou o episódio para sua avó e seu genitor, tendo a primeira registrado ocorrência policial no mesmo dia em face da reação do acusado que demonstrou descaso com seu pedido para parar de abordar sua neta, então menor de idade. Registre-se que, somente após a conversa do pai da vítima com o réu, ele parou de importuná-la, circunstância reveladora da motivação de gênero da ação delitiva, uma vez que o acusado, confrontado pela avó da menor, indicou pouco caso quando ela disse que iria até a delegacia se ele não parasse de importunar sua neta, enquanto acatou prontamente o pedido dopai no mesmo sentido.
+Além disso, a testemunha policial, responsável pela entrevista da menor na delegacia, afirmou que ela lhe contou que os assédios eram frequentes e se iniciaram seis meses antes de sua oitiva extrajudicial. Portanto, não há que se falar em ausência de prova da reiteração delitiva.
+Em entrevista especial na delegacia, a menor revelou que, embora a perseguição tivesse cessado após a conversa de seu pai com o acusado, ela queria prosseguir com a ação penal porque tinha medo (ID 41402982), a revelar que a conduta do apelante realmente lhe causava temor e constrangimento.
+Como se pode ver, as instâncias de origem, a quem cabe o exame das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de stalking.
+A matéria referente à suficiência ou insuficiência do acervo probatório a caracterizar a configuração do delito, na espécie, foi devidamente analisada, com base nas peculiaridades do caso concreto.
+Ora, está assentado no Superior Tribunal de Justiça que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo contrário para absolver o agravante da imputação do crime de stalking demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, o que é inviável nesta instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. INCIDÊNCIA DE AGRAVANTE NÃO DESCRITA NA DENÚNCIA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para entender-se pela absolvição do recorrente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+2. As instâncias antecedentes entenderam devidamente comprovadas a autoria e a materialidade do roubo majorado pelo qual o réu foi condenado, notadamente pela prova oral produzida durante a instrução do feito, em especial o depoimento da vítima e dos policiais, corroboradas pelo conteúdo das interceptações telefônicas contidas nos autos.
+3. A jurisprudência desta Corte Superior entende que não ofende o princípio da correlação a condenação por circunstâncias agravantes ou atenuantes não descritas na denúncia, nos termos dos arts. 385 e 387, I e II, ambos do Código de Processo Penal. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.009.660/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, a Corte de origem, após a análise acurada dos elementos probatórios, entendeu comprovada a autoria dos agentes e a materialidade do delito.
+2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.
+3. No que diz respeito ao crime continuado, vale salientar que, no caso dos crimes de roubo majorado e latrocínio, sequer é necessário avaliar o requisito subjetivo ou o lapso temporal entre os crimes, porquanto não há atendimento do requisito objetivo da pluralidade de crimes da mesma espécie.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se
+EMENTA
