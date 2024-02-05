@@ -1,0 +1,51 @@
+DECISÃO
+ELTON PINTO interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná na Apelação n. 0003671-28.2017.8.16.0159.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, a 6 anos e 8 meses de reclusão, em regime fechado, mais multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao recurso da defesa e reduziu a reprimenda do réu para 5 anos e 10 meses de reclusão, em regime fechado, mais multa.
+Nas razões do especial, a defesa aponta a negativa de vigência dos arts. 155 do Código de Processo Penal e 65, II, do Código Penal.
+Busca a absolvição do réu por entender que a condenação se baseou apenas em elementos informativos. De modo subsidiário, alega que o acusado faz jus à atenuante da confissão espontânea, a qual é aplicada mesmo quando esta for parcial ou qualificada.
+O Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+I. Admissibilidade
+O recurso especial suplanta parcialmente o juízo de prelibação. Em relação à aduzida violação do art. 155 do CPP, verifico que a Corte local não examinou as matérias sob o viés trazido no recurso especial. Constato, ainda, que a parte não opôs embargos de declaração com o objetivo de suscitar a análise das questões.
+Incidem, portanto, os óbices das Súmulas n. 282 e 356, ambas do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Na mesma perspectiva: "A ausência de prequestionamento constitui óbice ao exame da matéria pela Corte Superior, a teor das Súmulas 282 e 356 do Pretório Excelso" (AgRg no AREsp n. 1.260.175/DF, Rel. Ministro Felix Fischer, 5ª T., DJe 15/6/2018).
+Quanto às demais matérias, verifico que, além de haverem sido prequestionadas, estão presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos por que avanço na análise de mérito da controvérsia.
+II. Confissão espontânea
+No que tange à atenuante da confissão espontânea, este Superior Tribunal entende ser cabível o seu reconhecimento, seja ela feita no inquérito ou em juízo, ainda que de forma parcial ou qualificada - vale dizer, mesmo que acompanhada de causa excludente de ilicitude -, quando for usada para a formação do convencimento do julgador.
+Nesse sentido, foi editada a Súmula n. 545 do STJ, in verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Ainda, por ocasião do julgamento do REsp n. 1.972.098/SC, a Quinta Turma desta Corte entendeu que o réu fará jus à atenuante em comento quando houver confessado a autoria do crime perante autoridade, independentemente de a confissão ser usada pelo juiz como um dos fundamentos da sentença penal condenatória. Veja-se o acórdão:
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. ROUBO. INTERPRETAÇÃO DA SÚMULA 545/STJ. PRETENDIDO AFASTAMENTO DA ATENUANTE DA CONFISSÃO, QUANDO NÃO UTILIZADA PARA FUNDAMENTAR A SENTENÇA CONDENATÓRIA. DESCABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. PRINCÍPIOS DA LEGALIDADE, ISONOMIA E INDIVIDUALIZAÇÃO DA PENA. INTERPRETAÇÃO DO ART. 65, III, "D", DO CP. PROTEÇÃO DA CONFIANÇA (VERTRAUENSSCHUTZ) QUE O RÉU, DE BOA-FÉ, DEPOSITA NO SISTEMA JURÍDICO AO OPTAR PELA CONFISSÃO. PROPOSTA DE ALTERAÇÃO DA JURISPRUDÊNCIA. RECURSO ESPECIAL DESPROVIDO.
+1. O Ministério Público, neste recurso especial, sugere uma interpretação a contrario sensu da Súmula 545/STJ para concluir que, quando a confissão não for utilizada como um dos fundamentos da sentença condenatória, o réu, mesmo tendo confessado, não fará jus à atenuante respectiva.
+2. Tal compreensão, embora esteja presente em alguns julgados recentes desta Corte Superior, não encontra amparo em nenhum dos precedentes geradores da Súmula 545/STJ. Estes precedentes instituíram para o réu a garantia de que a atenuante incide mesmo nos casos de confissão qualificada, parcial, extrajudicial, retratada, etc. Nenhum deles, porém, ordenou a exclusão da atenuante quando a confissão não for empregada na motivação da sentença, até porque esse tema não foi apreciado quando da formação do enunciado sumular.
+3. O art. 65, III, "d", do CP não exige, para sua incidência, que a confissão do réu tenha sido empregada na sentença como uma das razões da condenação. Com efeito, o direito subjetivo à atenuação da pena surge quando o réu confessa (momento constitutivo), e não quando o juiz cita sua confissão na fundamentação da sentença condenatória (momento meramente declaratório).
+4. Viola o princípio da legalidade condicionar a atenuação da pena à citação expressa da confissão na sentença como razão decisória, mormente porque o direito subjetivo e preexistente do réu não pode ficar disponível ao arbítrio do julgador.
+5. Essa restrição ofende também os princípios da isonomia e da individualização da pena, por permitir que réus em situações processuais idênticas recebam respostas divergentes do Judiciário, caso a sentença condenatória de um deles elenque a confissão como um dos pilares da condenação e a outra não o faça.
+6. Ao contrário da colaboração e da delação premiadas, a atenuante da confissão não se fundamenta nos efeitos ou facilidades que a admissão dos fatos pelo réu eventualmente traga para a apuração do crime (dimensão prática), mas sim no senso de responsabilidade pessoal do acusado, que é característica de sua personalidade, na forma do art. 67 do CP (dimensão psíquicomoral).
+7. Consequentemente, a existência de outras provas da culpabilidade do acusado, e mesmo eventual prisão em flagrante, não autorizam o julgador a recusar a atenuação da pena, em especial porque a confissão, enquanto espécie sui generis de prova, corrobora objetivamente as demais.
+8. O sistema jurídico precisa proteger a confiança depositada de boa-fé pelo acusado na legislação penal, tutelando sua expectativa legítima e induzida pela própria lei quanto à atenuação da pena. A decisão pela confissão, afinal, é ponderada pelo réu considerando o trade-off entre a diminuição de suas chances de absolvição e a expectativa de redução da reprimenda.
+9. É contraditória e viola a boa-fé objetiva a postura do Estado em
+garantir a atenuação da pena pela confissão, na via legislativa, a fim de estimular que acusados confessem; para depois desconsiderá-la no processo judicial, valendo-se de requisitos não previstos em lei.
+10. Por tudo isso, o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver confessado a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória.
+11. Recurso especial desprovido, com a adoção da seguinte tese: "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada".
+(REsp n. 1.972.098/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe
+20/6/2022).
+No caso sob exame, a Corte de origem inadmitiu a confissão espontânea, porquanto, apesar da confissão na fase indiciária, em juízo, o réu negou os fatos. Afirmou, ainda, que o Magistrado não utilizou a confissão extrajudicial para formar sua convicção.
+Assim, o Tribunal a quo não aplicou a atenuante por se tratar de confissão qualificada realizada no inquérito e não confirmada em juízo e por não haver sido utilizada na fundamentação da condenação, o que vai de encontro ao entendimento deste Superior Tribunal.
+Dessa forma, assiste razão à defesa, haja vista que a confissão, ainda que parcial ou qualificada, foi feita e apreciada para subsidiar a condenação. Deve, portanto, refletir na pena do recorrente. Nessa perspectiva:
+ ..
+6. A atenuante da confissão espontânea, prevista no art. 65, inciso III, alínea d, do Código Penal, deve ser reconhecida, ainda que o agente a tenha revelado, durante a persecução criminal, de forma parcial ou qualificada, restrita à fase policial ou processual, ou até mesmo quando dela houver ulterior retratação . Incidência da Súmula n. 545/STJ.
+ ..
+(AgRg no AREsp n. 2.091.731/TO, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/8/2022, destaquei)
+ ..
+- Este Superior Tribunal tem assentado que, nos casos em que a confissão do acusado servir como um dos fundamentos para a condenação, deve ser aplicada a atenuante em questão, pouco importando se a confissão foi espontânea ou não, se foi total ou parcial, ou mesmo se foi realizada só na fase policial com posterior retratação em juízo (AgRg no REsp n.º 1.412.043/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 10/3/2015, DJe 19/3/2015).
+ ..
+(AgRg no HC n. 706.216/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 16/12/2021, grifei)
+III. Nova dosimetria
+Passo, então, à reforma da dosimetria.
+A pena-base foi fixada no mínimo legal - 5 anos de reclusão e 500 dias-multa. Na segunda etapa, deve ser compensada a agravante da reincidência com a atenuante prevista no art. 65, III, "d", do CP, ora reconhecida, nos termos da orientação do STJ: "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal" (EREsp n. 1.154.752/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 4/9/2012). Assim, como não existem outras moduladoras, a sanção definitiva do réu é de 5 anos e 10 meses de reclusão e 583 dias-multa, mantido o regime fechado em razão do quantum da pena e da reincidência.
+IV. Dispositivo
+À vista do exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento, a f im de redimensionar a pena do réu para 5 anos reclusão e 500 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para adoção das providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
