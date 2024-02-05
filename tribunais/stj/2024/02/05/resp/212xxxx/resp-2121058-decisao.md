@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por COSAN LUBRIFICANTES E ESPECIALIDADES S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 767-768):
+AÇÃO ORDINÁRIA. COBRANÇA DE HONORÁRIOS DE SUCUMBÊNCIA DEVIDOS A PROCURADOR FALECIDO. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+APELAÇÃO CÍVEL 1. SENTENÇA EXTRA PETITA. RECONHECIMENTO. CONDENAÇÃO E FIXAÇÃO DE PERCENTUAL DE HONORÁRIOS QUE EXTRAPOLA OS LIMITES DA LIDE. APLICAÇÃO DA TEORIA DA CAUSA MADURA. INCIDÊNCIA DO § 3º DO ART. 1.013 DO CPC. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA AD CAUSAM. APELANTE QUE PARTICIPOU DE ACORDO EM QUE AS PARTES DISPUSERAM ACERCA DE DIREITO ALHEIO. VIOLAÇÃO AO ART. 6, DO CPC/1973. PRELIMINAR REJEITADA. PRESCRIÇÃO. RENUNCIADO O PRAZO PRESCRICIONAL QUANDO DA FORMALIZAÇÃO DE ACORDO. ACORDO INEXISTENTE QUANTO AO PROCURADOR FALECIDO. CONVENÇÃO FORMALIZADA SEM A PRESENÇA DOS REPRESENTANTES DO DE CUJUS. ATO QUE NÃO PRODUZ QUALQUER EFEITO JURÍDICO EM RELAÇÃO A ESTE. PRAZO PRESCRICIONAL DECENAL NÃO CONSUMADO. RECURSO 1 NÃO PROVIDO POR MAIORIA DE VOTOS EM QUÓRUM ESTENDIDO COM FUNDAMENTO NO ARTIGO 942 DO CPC.
+APELAÇÃO CÍVEL 2. PRESCRIÇÃO. RENUNCIADO O PRAZO PRESCRICIONAL QUANDO DA FORMALIZAÇÃO DE ACORDO. ACORDO INEXISTENTE QUANTO AO PROCURADOR FALECIDO. CONVENÇÃO FORMALIZADA SEM A PRESENÇA DOS REPRESENTANTES DO DE CUJUS. ATO QUE NÃO PRODUZ QUALQUER EFEITO JURÍDICO EM RELAÇÃO A ESTE. PRAZO PRESCRICIONAL DECENAL NÃO CONSUMADO. NULIDADE PARCIAL DO ACORDO. RECONHECIMENTO. ANULAÇÃO PARCIAL DO ACORDO EM QUESTÃO COM RELAÇÃO AO ADVOGADO FALECIDO (SUCESSORES), PARA QUE POSSA PROSSEGUIR NA EXECUÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA NOS MESMOS AUTOS A PARTIR DO MESMO ESTÁGIO PROCESSUAL CONTRA OS DEVEDORES ORIGINÁRIOS. PEDIDO DE CONDENAÇÃO SIMULTÂNEA DA COSAN A INDENIZAR O AUTOR, COM A INDICAÇÃO DE BENS SUFICIENTES DAQUELES PARA O PROSSEGUIMENTO DA EXECUÇÃO. IMPROCEDÊNCIA DESSE PEDIDO. PRETENSÃO CONDICIONAL. NECESSIDADE DE SE AGUARDAR O PROSSEGUIMENTO NORMAL DO CUMPRIMENTO DE SENTENÇA. RECURSO 2 CONHECIDO E PARCIALMENTE PROVIDO POR MAIORIA DE VOTOS EM QUÓRUM ESTENDIDO COM FUNDAMENTO NO ARTIGO 942 DO CPC.
+RECURSO DE APELAÇÃO CÍVEL 1 NÃO PROVIDO POR MAIORIA DE VOTOS EM QUÓRUM ESTENDIDO COM FUNDAMENTO NO ARTIGO 942 DO CPC.
+RECURSO SE APELAÇÃO CÍVEL 2 PROVIDO EM PARTE POR MAIORIA DEVOTOS EM QUÓRUM ESTENDIDO COM FUNDAMENTO NO ARTIGO 942 DO CPC.
+Os embargos de declaração opostos na sequência foram acolhidos em parte (fls. 848-871, 917-931 e 987-1.005), e os últimos, rejeitados (fls. 1.051-1.057).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 3º, 20 e 47 do CPC/73; 22, 23 e 24, § 4º, da Lei n. 8.906/94; e 104 e 166 do CC/02.
+Sustenta, em síntese, ilegitimidade passiva da recorrente, litisconsórcio passivo necessário dos advogados que receberam os honorários, caso de incidência de prescrição quinquenal e inexistência de solidariedade.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.106-1.126 e 1.127-1.134).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.136-1.142), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.292-1.305 e 1.306-1.313).
+É, no essencial, o relatório.
+Diante da relevância das questões suscitadas e atendidos os pressupostos de admissibilidade, converto o presente agravo em recurso especial.
+Relembro às partes acerca da irrecorribilidade desta decisão, nos termos do art. 258, § 2º, do RISTJ, por se tratar de ato meramente ordinatório que não retira a possibilidade de novo exame dos pressupostos de admissibilidade do recurso especial quando do seu julgamento, não causando prejuízo.
+Nesse sentido, cito: AgInt no AREsp n. 2.190.540/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/3/2023, DJe de 23/3/2023; RCD nos EDcl no AREsp n. 2.032.774/BA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022; AgInt no AREsp n. 1.786.432/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021.
+Ante o exposto, dou provimento ao agravo de COSAN LUBRIFICANTES E ESPECIALIDADES S.A. para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
