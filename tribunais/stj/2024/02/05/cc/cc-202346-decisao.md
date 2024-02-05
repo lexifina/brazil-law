@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO FEDERAL DA 2ª VARA DE NITERÓI - SJ/RJ suscita conflito de competência diante do JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE NITERÓI - RJ.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente (federal ou estadual) para o processo e julgamento de ação penal deflagrada pela suposta prática de terrorismo e posse ilegal de arma de fogo.
+Ouvido, manifestou-se o Ministério Público Federal para que seja declarado competente o Juízo de Direito da 2ª Vara Criminal de Niterói - RJ, ora suscitado (fls. 201-203).
+Decido.
+Depreende-se dos autos que muito embora o réu haja sido acusado por suposta prática de terrorismo e posse ilegal de arma de fogo, os fatos que lhe foram imputados, em princípio, não indicam a existência de interesse da União, tampouco se enquadrariam, de maneira inconteste, na descrição típica relativa ao primeiro delito, situação que até poderia caracterizar, pela previsão legal, a competência federal.
+De fato, segundo o Juízo suscitante, " n ão há indícios concretos de que o investigado tenha agido motivado pelas especiais razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, exigidos pelo art. 2º, caput, da Lei nº 13.260/2016" (fl. 193). Essa conclusão pela inexistência de elementares essenciais para a caracterização do delito é extraída dos fatos, nestes termos (fl. 187):
+Segundo consta do relatório do inquérito nº 076-02787/2023 instaurado na 076ª Delegacia de Polícia, no dia 11/04/2023, Leandro ameaçou de morte os alunos em um grupo de WhatsApp com frases: "VOU FUZILAR TODOS DA ESTÁCIO..", " EU QUERO CINQUENTA MIL REAIS E UM AVIÃO QUE ME DEIXE NO ANDARAÍ..", "VAI SER A MELHOR COISA QUE EU JÁ FIZ NA MINHA VIDA. .."  .. .
+No particular, estou de acordo com a manifestação do Ministério Público, quando assinalou o seguinte (fl. 203): "neste caso, a conduta do réu não se amolda ao tipo dos artigos 2º e 5º da Lei nº 13.260/16 por inexistirem elementares do crime, ou seja, motivação por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, imprescindíveis a justificar a subsunção do crime de terrorismo previsto no artigo 2º da referida lei, bem como não se vislumbra qualquer lesão ou ameaça de lesão a bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresa pública"
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Niterói - RJ, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
