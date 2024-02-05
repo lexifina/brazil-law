@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANDERSON MARTINELLI contra decisão de minha lavra, na qual conheci em parte do writ, e, nessa extensão, deneguei a ordem de habeas corpus, nos termos da seguinte ementa (fl. 6.322):
+"HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS, ORGANIZAÇÃO CRIMINOSA E LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES. PRISÃO PREVENTIVA. TESE DE AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA DELITIVA. NECESSIDADE DE INCURSÃO APROFUNDADA NO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE ANÁLISE. REQUISITOS DA CUSTÓDIA CAUTELAR. INTERRUPÇÃO DAS ATIVIDADES DE GRUPO CRIMINOSO. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. EXTENSÃO DE BENEFÍCIOS CONCEDIDOS A CORRÉUS. SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA."
+O Embargante alega que há contradição no julgado, pois "não possui qualquer condenação em data anterior pela prática do delito de tráfico de drogas, nem mesmo pela prática do delito de associação para o tráfico" (fl. 6.338), pois foi absolvido nos autos da ação penal a que respondeu no Estado de São Paulo.
+Sustenta que, em data recente, a Defesa tomou conhecimento da situação em que estaria vivendo o filho do réu, que necessita da presença do pai.
+Requer seja sanada a contradição e reexaminada a possibilidade de concessão de prisão domiciliar.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, vícios inexistentes na espécie.
+Ressalte-se que a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelos Embargantes como correto.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EM HABEAS CORPUS. CONTRADIÇÃO INTERNA. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Apenas a contradição interna, entre os fundamentos e o dispositivo do julgado, autoriza os embargos de declaração, por prejudicar sua coerência lógica, não a contrariedade entre a prestação jurisdicional e o entendimento sustentado pela parte.
+2. O acórdão embargado apresenta razões de decidir coerentes com o não provimento do recurso ordinário em habeas corpus, pois fez constar que a decretação da prisão preventiva do investigado, contemporânea aos fatos sob apuração, foi calcada em provas da materialidade dos crimes de tráfico de drogas e de associação para o tráfico e em indícios de autoria, retratados em elementos informativos e em interceptações telefônicas. O Juiz, para evidenciar o risco para a ordem pública, destacou a relevante participação do embargante em organização atuante nas regiões de fronteira, voltada para o envio de toneladas de entorpecentes para outros estados da Federação.
+3. O acórdão da Sexta Turma não está lastreado em premissa fática equivocada, porquanto o édito prisional, baseado em diversos inquéritos policiais e em provas cautelares, fez expressa referência à remessa de toneladas de drogas pela organização. Ademais, o julgado destacou ser incabível a concessão de habeas corpus ex officio, porque não aferível, ictu oculi, a aventada incompetência do Juízo de Amambai - MS.
+4. O recurso integrativo não é meio adequado para discutir o mero inconformismo da parte com o resultado do julgamento.
+5. Embargos de declaração rejeitados." (EDcl no AgInt no RHC 83.405/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/02/2018, DJe 19/02/2018.)
+Destaque-se que, na via estreita do habeas corpus, não há como desconstituir a afirmação das instâncias ordinárias no sentido de que o réu possui antecedentes criminais.
+Ademais, ainda que desconsiderados os antecedentes do Embargante, a decisão embargada considerou a prisão preventiva motivada na gravidade concreta dos fatos - suposto envolvimento do réu com estruturada organização criminosa voltada à prática dos crimes de tráfico de drogas e lavagem de dinheiro em cifra bilionária - e a necessidade de se interromper a atuação do grupo criminoso, fundamento que subsiste.
+Quanto ao pedido de prisão domiciliar, não cabe a esta Corte apreciar matéria não debatida pelas instâncias ordinárias - sequer ventilada na inicial -, sob pena de indevida supressão de instância.
+Em verdade, verifico que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assunto já decidido, o que sabidamente não se coaduna com a sua finalidade processual.
+Ilustrativamente:
+"PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NATUREZA DECLARATÓRIA. CAUSA INTERRUPTIVA. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em omissão, contradição ou obscuridade. O em bargante pretende rediscutir o tema julgado pelo agravo, finalidade a que não se destinam os embargos de declaração.
+ ..
+3. Embargos de declaração rejeitados." (EDcl nos EDcl no AgRg no REsp 1.629.674/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSUAL PENAL. ART. 619, DO CÓDIGO DE PROCESSO PENAL. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
