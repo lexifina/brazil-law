@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por Antônio Severo Frainer, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, e c da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.269):
+EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DO PSS SOBRE CORREÇÃO MONETÁRIA. OMISSÃO. RETORNO DOS AUTOS DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA NOVO JULGAMENTO.
+Tratando-se de diferenças de correção monetária de parcela remuneratória, o crédito exequendo possui igual natureza, razão pela qual é devida a incidência da contribuição ao PSS.
+Os embargos de declaração opostos foram rejeitados (fls. 1.298/1.306).
+A parte recorrente aponta violação aos arts. 543-C do CPC/73; e 4º da Lei 10.887/04, bem como dissídio jurisprudencial. Sustenta, em resumo, que: (I) não incide a contribuição ao PSS sobre os valores pagos sobre as diferenças de correção monetária de valores pagos com atraso na esfera administrativa, sendo certo que "o STJ, ao julgar o REsp nº 1.239.203/PR sob o rito do art. 543-C do CPC, consolidou o entendimento de que não incide a contribuição previdenciária sobre valores não incorporáveis à remuneração do servidor público federal para fins de aposentadoria" (fl. 1.318); e (II) tendo "em vista que o fato gerador da contribuição previdenciária remete ao "pagamento incompleto" das diferenças salariais do servidor público "realizado em data pretérita", é medida impositiva a observância das alíquotas e da base de cálculo vigente à época em que a Administração deveria, originalmente, cumprido com sua obrigação" (fl. 1.334).
+Impugnação apresentada pelo INSS às fls. 1.378/1.383, postulando o desacolhimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, de início, que a tese veiculada no especial apelo sobre a necessidade de observância das alíquotas e da base de cálculo vigente à época em que a Administração deveria, originalmente, cumprido com sua obrigação, não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+Adiante, o acórdão recorrido decidiu em conformidade com a orientação das duas Turmas que compõem a Primeira Seção deste STJ, no sentido de que incide a contribuição previdenciária (PSS) sobre os valores recebidos a título de correção monetária.
+Confiram-se os julgados:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONTRIBUIÇÃO PREVIDENCIÁRIA. VALORES RELATIVOS À CORREÇÃO MONETÁRIA. MESMA NATUREZA DA VERBA PRINCIPAL. INCIDÊNCIA DA EXAÇÃO.
+1. A controvérsia diz respeito à incidência de contribuição previdenciária sobre os valores relativos à correção monetária de pagamentos realizados na via administrativa.
+2. A jurisprudência consolidada desta Corte Superior é no sentido de que os valores recebidos a título de correção monetária se sujeitam à incidência da contribuição previdenciária, desde que sobre o montante principal incida a mesma tributação.
+3. A justificativa de tal entendimento é identidade de natureza jurídica. Portanto, se a verba principal estava sujeita à exação, os valores relativos à sua atualização também estarão.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.546.564/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 29/06/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RETENÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA NA FONTE INDEPENDENTE DE PREVISÃO NO TÍTULO EXECUTIVO. VERBAS SALARIAIS RECEBIDAS EM ATRASO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. POSSIBILIDADE. AGRAVO INTERNO NO RECURSO ESPECIAL DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. Incide a contribuição previdenciária sobre valores pagos a título de correção monetária, porquanto o pagamento de verbas salariais, recebidas em atraso, não altera a natureza jurídica dos referidos valores, uma vez que se trata de retribuição por trabalho efetivamente realizado. Precedente: REsp. 1.268.737/RS, Rel. Min. REGINA HELENA COSTA, DJe 21.2.2017.
+2. Agravo Interno dos Particulares a que se nega provimento.
+(AgInt no REsp 1.506.549/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 04/02/2019)
+PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. EXECUÇÃO DE SENTENÇA. VERBAS SALARIAIS PAGAS EM ATRASO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RETENÇÃO NA FONTE. ART. 16-A LEI 10.887/07. POSSIBILIDADE. RESP 1.196.777/RS. JULGADO SOB O RITO ART. 543-C DO CPC. INCIDÊNCIA SOBRE VALORES PAGOS A TÍTULO DE CORREÇÃO MONETÁRIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A Primeira Seção do STJ, ao apreciar demanda representativa de controvérsia (art. 543-C do CPC), firmou o entendimento de que "a retenção na fonte da contribuição do Plano de Seguridade do Servidor Público - PSS, incidente sobre valores pagos em cumprimento de decisão judicial, prevista no art. 16-A da Lei 10.887/04, constitui obrigação ex lege e, como tal, deve ser promovida independentemente de condenação ou de prévia autorização no título executivo" (REsp 1.196.777/RS, Rel. Ministro Teori Albino Zavascki, Primeira Seção, julgado em 27/10/2010, DJe 4/11/2010).
+IV - Incidência da contribuição previdenciária sobre valores pagos a título de correção monetária, porquanto o pagamento de verbas salariais, recebidas em atraso, não altera a natureza jurídica dos referidos valores, uma vez que se trata de retribuição por trabalho efetivamente realizado.
+V - Recurso Especial improvido.
+(REsp 1.268.737/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21/02/2017)
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional (falta de prequestionamento), assim como a conformidade do acórdão recorrido com a jurisprudência do STJ (Súmula 568/STJ), impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
