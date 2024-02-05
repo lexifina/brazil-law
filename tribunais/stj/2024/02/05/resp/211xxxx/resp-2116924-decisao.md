@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nesses termos ementado:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA Insurgência contra decisão que rejeitou a impugnação oposta pela Fesp/executada e fixou honorários advocatícios em seu desfavor DESCABIMENTO DA INSURGÊNCIA Desacolhida a impugnação ao cumprimento de sentença oposta pelo executado/agravado, impõe-se o arbitramento de honorários em favor dos exequentes Exegese do artigo 85, §§ 1º e 7º, do CPC/2015- Precedentes desta E. Corte Honorários recursais fixados- Recurso improvido.
+Sustenta a parte recorrente:
+Merece ser reformada a decisão agravada para extirpar a condenação da Fazenda impugnante ao pagamento de honorários sucumbenciais em razão da rejeição da impugnação ao cumprimento de sentença. É que a jurisprudência do Superior Tribunal de Justiça é pacífica a esse respeito, tal como se vê da Súmula nº 519 da Corte Superior, in verbis: "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".  ..  Ressalta-se a obrigatoriedade da observância de tal enunciado (Súmula nº 519 do STJ) pelas instâncias ordinárias, visto configurar precedente obrigatório, a teor do art. 927 do Código de Processo Civil  .. .
+Apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+A pretensão recursal merece guarida.
+O acórdão a quo contraria o apontado entendimento sumulado desta Corte Superior e, bem assim, ao art. 927 do CPC. Cito recentes julgados (grifos acrescidos):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. IMPOSSIBILIDADE. SÚMULA 519/STJ. ALEGAÇÃO DO EQUÍVOCO NO ACÓRDÃO EMBARGADO. FALTA DE PREQUESTIONAMENTO. INSURGÊNCIA QUE DEMANDA O REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA VEDAÇÃO SUMULAR N. 7 DO STJ.
+1. "Nos termos da Súmula 519 do STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios"" (AgInt no REsp n. 1.988.414/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023).
+2. A alegação no sentido de que houve o acolhimento da impugnação ao cumprimento de sentença e de que o acórdão recorrido incorreu em equívoco não foi apreciada pela instância de origem e nem sequer constou dos embargos de declaração opostos perante aquela Corte, de modo que o tema carece do necessário prequestionamento.
+3. Não se viabiliza, na presente via, a incursão no acervo fático-probatório dos autos, a fim de verificar em que medida houve o apontado acolhimento da impugnação ao cumprimento de sentença, porquanto a providência esbarra no óbice da Súmula 7/STJ.
+4 . Agravo interno não provido.
+(AgInt no REsp n. 2.072.675/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. NÃO CONDENAÇÃO EM HONORÁRIOS. CUMPRIMENTO DE SENTENÇA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO CABIMENTO DE HON ORÁRIOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. APLICÁVEL O ENUNCIADO N. 519 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que rejeitando a impugnação ao cumprimento de sentença, deixou de condenar o INSS em honorários advocatícios. No Tribunal a quo, deu-se provimento ao recurso.
+II - A respeito do tema, o Superior Tribunal de Justiça, ao julgar o Recurso Especial 1.134.186/RS (DJe 21/10/2011), submetido ao rito dos recursos repetitivos, firmou o entendimento a respeito da condenação ao pagamento de honorários advocatícios em impugnação ao cumprimento de sentença, decidindo que não são cabíveis quando rejeitada a impugnação.
+III - Também, a Súmula 519 do STJ, aplicável às execuções contra a Fazenda Pública, expressamente prevê "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios". Esta Corte Superior, ainda que após a edição do CPC/2015, manteve esse entendimento, consoante os seguintes julgados: AgInt no REsp n. 1.864.374/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/9/2020, DJe de 14/9/2020; REsp n. 1.812.245/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe de 1/7/2019. Confira-se, ainda, os seguintes precedentes monocráticos: REsp 2034323, Rel. Min. Gurgel de Faria, DJe 19/12/2022; REsp 2.040.131, Rel. Min. Francisco Falcão, DJe 14/12/2022.
+IV - Correta a decisão que deu provimento ao recurso especial, para determinar a exclusão da verba honorária sucumbencial.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.207.445/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. IMPOSSIBILIDADE. SÚMULA 519/STJ. RECURSO ESPECIAL PROVIDO.
