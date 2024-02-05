@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Aracaju, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 339):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ILEGITIMIDADE PASSIVA DA PARTE. EMPRESA EXTINTA EM DATA ANTERIORAO AJUIZAMENTO DA AÇÃO E DAINSCRIÇÃO DA DÍVIDA ATIVA. BAIXANO CADASTRO NACIONAL DE PESSOASJURÍDICAS, AUSÊNCIA DEPRESSUPOSTO DE CONSTITUIÇÃO EDESENVOLVIMENTO VÁLIDO DOPROCESSO. ILEGITIMIDADE PASSIVA. REDIRECIONAMENTO. INCABÍVEL. EXTINÇÃO DA CAPACIDADEPROCESSUAL. PRECEDENTE DO STJ EJURISPRUDÊNCIA PÁTRIA. RECURSOCONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 17 e 485, VI, do CPC. Sustenta, em resumo, que "Não se pode falar em ilegitimidade passiva da demanda como fundamento de extinção da execução, porque os sócios administradores são perfeitamente legítimos para responder à presente execução fiscal, uma vez que também figuram como réus na demanda e eram os administradores da empresa ao tempo do fato gerador do tributo" (fl. 353).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "não há que se falar em ocorrência de fato gerador da taxa objeto da lide e, por sua vez, em obrigação tributária, haja vista que à época dos exercícios financeiros de 2015 e 2016 a parte apelada já se encontrava em situação de inatividade, de modo que nada houve a ser fiscalizado, sequer de forma potencial." esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
