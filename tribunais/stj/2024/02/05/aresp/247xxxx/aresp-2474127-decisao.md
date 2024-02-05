@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DA PARAÍBA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. CD A. APONTADA NULIDADE. REMISSÃO A LEI REVOGADA. ERRO MATERIAL. ASSERTIVA FRÁGIL E INCAPAZ DE INVALIDAR A EXECUÇÃO. FATO GERADOR OCORRIDO NA ÉGIDE DA NOVA LEI. POSSIBILIDADE DE SUBSTITUIÇÃO DA CD A. SÚMULA 392 DO STJ. DESPROVIMENTO.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação dos seguintes dispositivos: a) art. 1.022, II, do Código de Processo Civil, aduzindo que o acórdão recorrido padece de omissão; b) arts. 2º, § 5º, III e IV, da Lei n. 6.830/80 e 202, III, do Código Tributário Nacional, asseverando que a CDA é nula pois ausente a informação do número do processo administrativo que tenha gerado a cobrança de TCR, além da ausência de prova da propriedade do imóvel; c) art. 97, I e III, do Código Tributário Nacional, apontando a inexistência de previsão legal de cobrança da TCR sobre prédios públicos na Lei Complementar Municipal n. 41/06.
+Houve contrarrazões ao recurso especial (e-STJ fls. 117/121).
+O Tribunal de origem inadmitiu o recurso especial pela incidência da Súmula n. 280/STF.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 132/139).
+É o relatório. Decido.
+Impugnado o fundamento de inadmissibilidade, passo ao exame do recurso especial.
+Preliminarmente, argumenta-se que o Tribunal local teria deixado de se manifestar acerca da ausência de previsão na legislação municipal acerca da incidência da TCR sobre prédios públicos.
+A insurgência não merece prosperar.
+Isso porque, ao examinar a controvérsia, a Corte de origem fundamentou que (e-STJ fls. 50/51):
+Desse modo, interpretando-se as espécies de imóveis sobre as quais incidiam a TCR, não se vislumbrava a previsão de tributação sobre imóvel público, sendo este o entendimento dominante desta Corte de Justiça, fundamentando a ilegalidade da exação da taxa sobre prédios públicos com base na legislação tributária vigente.
+Isso porque, a inexistência de previsão legal específica revestia de ilegalidade a atuação municipal direcionada ao lançamento da TCR sobre prédios públicos, eis que inadmissível a analogia e a adoção e uma interpretação extensiva acerca das qualificadoras expressamente previstas pelo legislador municipal.
+Entretanto, o entendimento da ilegalidade da exação da TCR sobre prédios públicos passou a ser questionado com o advento da LC nº 41/2006, eis que se verificou a ab-rogação da Lei Complementar Municipal nº16/1998, que conferia supedâneo a todo o raciocínio jurisprudencial construído.
+Ultrapassados os questionamentos surgidos pelo julgamento do incidente de uniformização acima referido, firmou-se o entendimento da plena e legítima incidência do tributo sobre prédios públicos, a o fundamento de que a nova norma complementar, elaborada pelo legislador municipal, deixa de limitar as categorias de imóveis sujeitos ao recolhimento desta exação fiscal, encarregando-se, por sua vez, de destacar que a incidência independe, sequer, da destinação do bem, o que não mais exclui do seu âmbito os imóveis públicos, nos termos de seu art. 1º, in verbis:
+ ..
+Logo, a Lei Complementar Municipal nº 41/2006, ao revogar a LC nº 16/1998, ampliou a incidência da TCR - Taxa de Coleta de Resíduos a duas categorias de imóveis, residencial e não residencial, independentemente da destinação destes, razão pela qual , revela-se legal a , a partir do ano de 2007 incidência do referido tributo sobre imóveis públicos situados no Município de João Pessoa.
+Na hipótese vertente, a Taxa de Coleta de Resíduos cobrada pela Municipalidade sobre imóvel pertencente ao Estado da Paraíba diz respeito aos exercícios de 2016 e 2017 (Id 9049798). Portanto, sendo a exação tributária em questão posterior à vigência da LC nº 41/2006, revela-se legal a cobrança levada a cabo pelo Município de João Pessoa.  grifos não originais
+Do excerto depreende-se que a matéria posta foi devidamente enfrentada pela Corte local, de forma que não se pode falar em negativa de prestação jurisdicional, mas tão somente em decisão contrária aos interesses da parte.
+No mérito, melhor sorte não assiste o recorrente.
+Com relação à CDA, o aresto combatido fundamentou que não há nos autos elementos que corroborem com a tese de nulidade da CDA (e-STJ fl. 52), de forma que entender contrariamente ao que restou consignado no decisum exigiria o reexame do acervo fático-probatório dos autos, providência que esbarra na Súmula n. 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS DE VALIDADE DA CDA. OMISSÃO DE RENDIMENTOS. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Nos termos dos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, § 4º, I, ambos do Regimento Interno desta Corte, o relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+2. O Tribunal de origem reconheceu que a certidão de dívida ativa (CDA) reunia todos os requisitos de validade. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+3. Não cabe ao STJ, em recurso especial, analisar a violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.717.838/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+Por fim, é vedado o exame da alegação de violação do art. 97 do CTN por este e.STJ, por ser esse dispositivo mera reprodução de preceito constitucional (art. 150, I, da CF, que trata do princípio da legalidade tributária).
+Exemplificativamente:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ART. 97 DO CTN. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. MERA REPRODUÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ALEGAÇÃO DE OFENSA À SÚMULA 457/STJ. NÃO CONHECIMENTO. BASE DE CÁLCULO DO ICMS-ST. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Na origem, cuida-se de ação anulatória de débito fiscal ajuizada pela parte agravante mediante a qual se pretende afastar a cobrança de valores concernentes ao ICMS-ST, com a exclusão de valores da base de cálculo do tributo.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+3. Em relação à apontada ofensa ao princípio da legalidade tributária (art. 97 do CTN), esta Corte já se manifestou no sentido de que a matéria não pode ser invocada em recurso especial, porquanto o preceito infraconstitucional é mera reprodução de dispositivo da Constituição Federal.
+4. No que se refere à aleg ada infringência à Súmula 457/STJ, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF.
+5. "A Primeira Seção do Superior Tribunal de Justiça entende que, sob o regime de substituição tributária, integram a base de cálculo do ICMS os valores correspondentes às mercadorias dadas em bonificação, assim como ocorre no tocante aos descontos incondicionais" (EREsp 715.255/MG, Rel. Min. Eliana Calmon, Primeira Seção, DJe 23/2/11). Precedentes.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.922.839/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. NULIDADE DA CDA. SÚMULA N. 7/STJ. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
