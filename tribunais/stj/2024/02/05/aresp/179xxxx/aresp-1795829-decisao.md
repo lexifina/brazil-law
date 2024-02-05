@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a e c, da Constituição Federal) apresentado contra os acórdãos proferidos pelo Tribunal de Justiça do Paraná (Apelação Criminal n. 0007505-78.2014.8.16.0083 e Embargos de Declaração Criminal n. 0007505-78.2014.8.16.0083) que mantiveram a condenação de Odair Azeredo de Oliveira como incurso no crime de homicídio qualificado.
+Nas razões do recurso especial, a defesa do agravante suscitou dissídio jurisprudencial e violação dos seguintes dispositivos de lei federal: art. 121, § 2º, I, do Código Penal; art. 583, III e § 3º, 315, § 2º, III, e 617, todos do Código de Processo Penal (fls. 1.772/1.787).
+A Corte de origem inadmitiu o recurso com fundamento nas Súmulas 7/STJ e 83/STJ, bem como por reputar deficiente o recurso fundado em dissídio jurisprudencial (falta de cotejo analítico) e carente de prequestionamento (fls. 1.872/1.876).
+Contra o decisum a defesa interpôs o presente agravo (fls. 1.887/1.898).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento do recurso especial e, se conhecido, pelo desprovimento do reclamo (fl. 601):
+AGRAVO. HOMICÍDIO QUALIFICADO. RECURSO ESPECIAL ENQUADRADO NO ART. 105, III, "A" E "C" DA CF/88. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 121, § 2º, I, DO CP, 583, III, § 3º, 315, § 2º, III e 617 do CPP. DECISÃO SOBERANA DO TRIBUNAL DO JÚRI. DIVERGÊNCIA INTERPRETATIVA QUE NÃO SE MOSTRA IDÔNEA À ANULAÇÃO DO JULGAMENTO. EMBARGOS DE DECLARAÇÃO DO MINISTÉRIO PÚBLICO ACOLHIDOS COM EFEITOS INFRINGENTES. POSSIBILIDADE. MANUTENÇÃO DA PENA ESTABELECIDA NA SENTENÇA CONDENATÓRIA. REFORMATIO IN PEJUS. INOCORRÊNCIA. PARECER PELO CONHECIMENTO DO AGRAVO PARA NÃO CONHECER OU DESPROVER O RECURSO ESPECIAL.
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial:
+ ..
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018 - grifo nosso).
+No caso, a defesa do agravante não impugnou, de forma adequada e suficiente, um dos fundamentos da decisão de inadmissão: ausência de cotejo analítico.
+Veja-se que, nas razões do recurso especial, a defesa do agravante indicou seis julgados para fins de comprovação de dissídio jurisprudencial (fls. 1.774/1.775 - grifo nosso):
+ ..
+De modo que assim decidindo o E. TJ - PR deu aos mencionados artigos de Lei Federal interpretação divergente daquela exarada por E. STJ no julgamento do AgRg no REsp. 1.262.454/PR; REsp. 1.272.294/MG e AgRg no REsp. 1.378.097/SP, visto que diante do reconhecimento da inexistência de torpeza do quesito nº 04 julgado pelo Júri, a medida cabível seria a submissão do réu a novo Júri.
+O E. TJ-PR contrariou ainda o entendimento desse E. STJ nos seguintes julgados paradigmas: HC 287.514/SP, HC 115.501/MG 5 e RHC 54.540/SC pois apesar de dar parcial provimento ao apelo exclusivo da defesa, posteriormente em sede de embargos de declaração opostos pelo Ministério Público, reformou o acórdão da apelação para agravar a situação do réu, caracterizando verdadeira reformatio in pejus, o que é vedado conforme será demonstrado a seguir.
+ ..
+A Corte de origem, por sua vez, obstou integralmente o dissídio suscitado, ante a ausência de demonstração do cotejo analítico (fl. 1.873 - grifo nosso) :
+ ..
+Alegou o Recorrente ocorrer violação e divergência jurisprudencial em relação aos artigos 121, § 2º, inciso I, do Código Penal, bem como 583, inciso III, § 3º, 315, § 2º, inciso III, e 617, todos do Código de Processo Penal, sustentando que houve equívoco da Corte Estadual quando esta " ..  reconheceu que no caso em tela a descrição contida no quesito n. 4 submetido a julgamento pelo Júri não revela uma situação torpe, porém ao invés de submeter o réu a novo julgamento perante o Júri, decotou a referida qualificadora da dosimetria da pena  .. " (mov. 1.1 da PET 1), incorrendo, também, em reformatio in pejus, tendo em vista que se agravou a situação do acusado no julgamento dos embargos de declaração da acusação, atribuindo, assim, interpretação divergente quanto da decisão exarada pelas Cortes Superiores nos autos AgRg no REsp. 1.262.454/PR, REsp. 1.272.294/MG e AgRg no REsp. 1.378.097/SP, do Superior Tribunal de Justiça, bem como nos autos HC 287.514/SP, HC 115.501/MG e RHC 54.540/SC, do Supremo Tribunal Federal.
+Inicialmente, observa-se da peça recursal interposta, que o recorrente não realizou o devido cotejo analítico entre a decisão recorrida e o acórdão apontado como paradigma (invocada alínea "c", da Constituição Federal), contrariando o art. 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, segundo o qual "em qualquer caso, o recorrente deverá transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontantes".
+Nesse sentido:
+ ..
+Logo, é essencial que haja a demonstração da similitude fática entre os acórdãos em confronto, e não apenas o antagonismo jurídico, a fim de verificar possível interpretação divergente de uma mesma norma em casos similares, o que não foi observado no presente recurso especial.
+ ..
+Ocorre que, ao impugnar o referido fundamento, o agravante só deduziu argumentos no sentido de infirmar a conclusão do decisum agravado em relação a três dos julgados referidos no recurso especial, quedando silente quanto aos demais (fls. 1.891/1.892 - grifo nosso):
+ ..
+Veja - se que em relação a reconhecida inexistência de torpeza na descrição do quesito n. 4 submetido à apreciação do Tribunal do Júri, apontada por unanimidade no julgamento da apelação, restou plenamente demonstrado no bojo do recurso especial que a decisão do TJ - PR contrariou o entendimento exarado pelo E. STJ no julgamento do REsp n. 1.272.294/MG, de relatoria da Min. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, j. 13/3/2012, DJe 3/8/2012.
+ ..
+Ademais, no bojo do recurso especial o agravante realizou ainda o devido cotejo analítico entre a decisão recorrida e o AgRg no REsp n . 1.262.454/PR, de relatoria do Min. NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/12/2015, DJe 11/12/2015, no qual esse E. STJ apontou, em caso extremamente similar ao do agravante, que uma vez reconhecida a inexistência de torpeza no quesito n. 4, se mostra impossível manter a sentença condenatória incólume, sob pena de violar o artigo 593, inciso III, alínea " d " e § 3º, do Código de Processo Penal.
+Noutro ponto, demonstrou - se expressamente também por meio do cotejo analítico que a decisão exarada pelo Tribunal a quo contrariou o entendimento desse E. STJ lançado no HC n. 115.501/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/6/2015, DJe 3/8/2015.
+ ..
+Ademais, a argumentação deduzida, além de parcial, foi demasiadamente genérica, na medida em que o agravante não demonstrou efetivamente que, no recurso especial, teria observado as diretrizes previstas para fins de comprovação do dissídio jurisprudencial, limitando-se a negar o óbice em comento.
+Em casos que tais (impugnação parcial ou genérica), a jurisprudência desta Corte tem orientado no sentido da inadmissão do agravo:
+ ..
+1. É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve a parte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+ ..
+(AgRg no AREsp n. 1.157.955/PE, da minha relatoria, Sexta Turma, DJe 12/12/2017 - grifo nosso).
+ ..
+1. O Tribunal de origem indeferiu o processamento do Recurso Especial sob o fundamento, dentre outros, de que a verificação da responsabilidade pela demora na citação demanda reexame de provas (incidência da Súmula 7/STJ).
+2. Nesse ponto, a agravante limitou-se a afirmar que não há discussão sobre matéria de cunho fático. Acontece que essa simples afirmação caracteriza impugnação genérica à decisão agravada, o que atrai a incidência da Súmula 182/STJ.
+ ..
+(AgRg no AREsp n. 97.169/RJ, Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/5/2013 - grifo nosso).
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ), pois não impugnou, de forma adequada e suficiente, a íntegra da fundamentação lançada na decisão agravada.
+Em face do exposto, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo não conhecido.
