@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por JOAREZ FEIX E OUTRA em face de decisão pela qual neguei provimento ao agravo em recurso especial, por entender que: (I) o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas; (II) em Direito Ambiental, não se admite a incidência da teoria do fato consumado para legitimar atividades ou edificações realizadas com infração à legislação e que ainda são legalmente vedadas (Súmula 613/STJ); e (III) a alteração das premissas adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial (Súmula 7/STJ).
+Sustentam as partes embargantes que a decisão embargada foi omissa quanto ao fato de que "foi demonstrado no recurso especial que o acórdão recorrido se omitiu quanto a possibilidade de regularização autorizada pelos artigos 64 e 65 da Lei 12.651/12, sobretudo porque o próprio laudo pericial produzido na primeira instância, conforme demonstrado nas razões do especial, atestou à inexistência de vegetação em data anterior à construção (item "15" p. 18), bem como ocupação antiga (item "c.2" p. 09) e presença de asfalto, rede de iluminação pública e coleta de lixo (item "01" p. 24)." (fl. 1.070).
+A parte embargada apresentou impugnação às fls. 1.078/1.084.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não há falar na existência de vício na decisão ora embargada, uma vez que houve claro entendimento no sentido de que "tendo o acórdão recorrido afirmado expressamente a necessidade e possibilidade de demolição da construção - especialmente quando consideradas a ciência dos agravantes em relação à ilegalidade e a inexistência de área urbana consolidada - é certo que a alteração das premissas adotadas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ." (fl. 1.062).
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
