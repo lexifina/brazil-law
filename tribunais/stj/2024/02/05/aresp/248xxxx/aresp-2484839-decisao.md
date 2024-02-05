@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NASSAL NASCIMENTO E SALES CONSTRUCAO LTDA EM RECUPERACAO JUDICIAL, contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/07/2023.
+Concluso ao gabinete em: 31/01/2024.
+Ação: de repetição de indébito c/c indenização por danos materiais e morais, ajuizada por SAULO ALMEIDA CABRAL em face da recorrente, em virtude de atraso na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para condenar a ré/agravante: (i) ao ressarcimento do pagamento das taxas condominiais e de água anteriores à entrega das chaves, sendo cada despesa que compõe os montantes atualizada a partir do seu respectivo desembolso (Súmula 43 do STJ), pelo INPC, acrescidas de juros de mora, na base de 1% (um por cento) ao mês, devidos a partir do prejuízo (Súmula 54 do STJ); (ii) pagamento de multa contratual prevista na cláusula 11.03, no valor de 0,3% do preço atualizado da unidade, por mês ou fração de mês de atraso, com termo inicial 30/04/2019 , e com termo final no dia de entrega das chaves, com atualização pelo INPC, a partir de quando deveria ter sido paga cada parcela, e com juros de 1% a.m., a partir da citação.
+Acórdão: julgou parcialmente procedente a apelação interposta pelo agravado para condenar a ré/ agravante ao pagamento de indenização por danos morais, fixada em R$ 5.000,00 (cinco mil real), nos termos da seguinte ementa:
+"APELAÇÕES CÍVEIS. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANO MATERIAL E MORAL. PLEITO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. DEFERIMENTO. ATRASO NA ENTREGA DOEMPREENDIMENTO. RESPONSABILIDADE DA CONSTRUTORA. INEXISTÊNCIA DE PROVA EXCLUDENTE DE RESPONSABILIDADE. ART. 14, §3º DO CDC. DIREITO DO COMPRADOR A INDENIZAÇÃO POR DANOS MATERIAIS E INDENIZAÇÃO REFERENTE À INVERSÃO DE CLÁUSULA PENAL. RESTITUIÇÃO DOS VALORRES PAGOS A TÍTULO DE TAXA CONDOMINIAL E ÁGUA DURANTE O PERÍODO ANTERIOR À ENTREGA DAS CHAVES. APELO ADESIVO. DANOS MORAIS. INCIDÊNCIA DA SÚMULA Nº 12 DO TJSE. OBRA ENTREGUE APÓS O PRAZO DE TOLERÂNCIA DE 180 DIAS. DANO MORAL EVIDENTE. FIXAÇÃO DO MONTANTE DE R$ 5.000,000 (CINCO MIL REAIS). APELO DO RÉ DESPROVIDO. RECURSO ADESIVO PROVIDO. POR UNANIMIDADE" (e-STJ, fls. 457).
+Embargos de Declaração: foram acolhidos e providos, a fim de deferir o benefício de justiça gratuita ao agravado.
+Recurso especial: alega violação dos arts. 186 do Código Civil e 373, I, do CPC, bem como dissídio jurisprudencial. Sustenta, em síntese, que o mero inadimplemento contratual, consubstanciado no atraso na entrega do imóvel em data diversa da prevista no contrato não justifica a condenação de indenização por danos morais. Assim, a decisão deve ser reformada para afastar a condenação a tal título.
+Alega, por fim, caso seja mantida a condenação, que o valor seja reduzido para R$ 800,00 (oitocentos reais).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do inadimplemento contratual e do dano moral
+O entendimento do STJ é no sentido de que, embora possa ensejar reparação por danos materiais, como na hipótese dos autos, o mero descumprimento contratual, na hipótese em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais, devendo haver consequências fáticas capazes de ensejar o dano moral.
+Nesse sentido: AgInt no REsp 1.715.930/RO, Terceira Turma, DJe de 01/07/2019; e AgInt no AREsp 1.430.928/SP, Quarta Turma, DJe de 28/06/2019.
+No particular, o TJ/SE não apontou particularidades que demonstraram a existência de circunstância excepcional que extrapole o mero aborrecimento decorrente do atraso na entrega do imóvel.
+Logo, o recurso deve ser provido no ponto, com fundamento na Súmula 568/STJ, para a exclusão da compensação por danos morais da verba condenatória.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para afastar a condenação relativa à compensação de danos morais na espécie.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANO MATERIAL E MORAL. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NÃO CONFIGURADO.
+1. Ação de repetição de indébito c/c indenização por danos morais.
+2. A jurisprudência desta Corte Superior é no sentido de que "o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial".
+3. Agravo conhecido. Recurso especial conhecido e provido.
