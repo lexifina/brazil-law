@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo ESTADO DE GOIÁS com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 323/324):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA. MEDICAMENTO BRENTUXIMABE. REGISTRO NA ANVISA. INCORPORADO NO SUS. TEMA Nº 793 DO STF. OBRIGAÇÃO SOLIDÁRIA DOS ENTES FEDERATIVOS. NÃO ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA. CABIMENTO. VALOR DA CAUSA.
+1. Em recente decisão proferida pelo STF (23/06/2023), no RE 1.140.005, foi reconhecida como de repercussão geral a discussão acerca da estipulação de verba honorária à Defensoria Pública, em processos nos quais a parte por ela representada se sagrar vencedora, ocasião em que o relator do recurso, Min. Roberto Barroso, entendeu ser devida referida remuneração em quaisquer litígios, sejam ajuizados contra o próprio ente federado, ou em desfavor de ente diverso, desde que o valor se reverta ao aparelhamento da instituição.
+2. Em sede de recurso repetitivo, o STJ já havia reconhecido o direito ao recebimento de honorários quando a atuação da defensoria se dá em face de ente federativo diverso.
+3. Os percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC são de observância obrigatória, os quais serão subsequentemente calculados sobre o valor da condenação; ou do proveito econômico obtido; ou do valor atualizado da causa.
+4. Compete à União, aos Estados, e aos Municípios fornecerem gratuita e solidariamente o tratamento medicamentoso prescrito, podendo o polo passivo ser composto por qualquer um deles, isolada ou conjuntamente (inteligência do Tema 793/STF e Súmula 35/TJGO).
+5. A omissão do Estado, quando o paciente busca o fornecimento da medicação prescrita por profissional médico habilitado, configura ato abusivo e viola direito do necessitado.
+6. Não há como acolher a incompetência da Justiça Estadual para processar e julgar o feito ajuizado contra o Estado de Goiás, bem como não há falar em remessa dos autos à Justiça Federal, a despeito do entendimento do STF no RE 855.178/SE - ED, com repercussão geral reconhecida (Tema 793).
+1º APELO PROVIDO.
+2º APELO DESPROVIDO.
+A parte recorrente aponta violação ao art. 85, § 8º, do CPC. Sustenta, em síntese, que "nos processos de judicialização de saúde, não existe proveito econômico, mas o deferimento de uma prestação de saúde, devendo a fixação de honorários se dar de forma equitativa (art. 85, §8º) e nunca sobre o valor do tratamento, ainda mais se de alto custo." (fl. 337).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, a matéria de fundo debatida nos autos quanto à Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE 1.412.069 - Tema 1255).
+Mostra-se conveniente, assim, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Confira-se, a propósito, precedente desta Corte:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONSTATADA. TEMA AFETADO AO RITO DA REPERCUSSÃO GERAL (RE 928.984/SP - TEMA 914). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM.
+1. A matéria de fundo debatida nos autos, referente à constitucionalidade da Contribuição de Intervenção no Domínio Econômico - CIDE sobre remessas ao exterior, instituída pela Lei 10.168/2000, posteriormente alterada pela Lei 10.332/2001, foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE 928.984/SP - Tema 914).
+2. Mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, para que, no momento oportuno, seja observado o disposto nos arts. 1.040 e 1.041 do CPC/2015.
+(EDcl no AgInt no AREsp 584.511/RJ, R elator Ministro Sérgio Kukina, Primei ra Turma, julgado em 11/2/2020, DJe de 20/2/2020.)
+EM RAZÃO DO EXPOSTO, julgo prejudicado o recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido pela Excelsa Corte.
+Publique-se.
+EMENTA
