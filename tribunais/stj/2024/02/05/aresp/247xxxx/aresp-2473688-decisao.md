@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NEWE SEGUROS S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/07/2023.
+Concluso ao gabinete em: 19/12/2023.
+Ação: cobrança de indenização securitária, ajuizada por MARIA INÊS DO NASCIMENTO CREMONEZI e MAURO CREMONEZI, em face de NEWE SEGUROS S/A.
+Sentença: julgou improcedentes os pedidos e condenou os agravados ao pagamento das custas e dos honorários, estes arbitrados em 10% sobre o valor atualizado da causa.
+Acórdão: deu parcial provimento à Apelação interposta pelos agravados, nos termos da seguinte ementa:
+"Apelação Cível - Ação de cobrança securitária - Pedido inicial julgado improcedente - Insurgência dos requerentes.
+Pleito de desentranhamento de documentos juntados pela requerida após a contestação - Não acolhimento - Possibilidade de juntada extemporânea de documentos, desde que não haja má-fé e seja permitido o contraditório, conforme entendimento do STJ.
+Seguro agrícola - Plantio de soja - Perda parcial da plantação - Negativa de cobertura em virtude do replantio da área segurada anteriormente à realização da vistoria - Ausência de comprovação de ciência inequívoca do consumidor das condições gerais da apólice e das suas cláusulas restritivas - Violação do direito de informação - Indenização securitária devida - Sentença reformada - Redistribuição do ônus de sucumbência.
+Recurso parcialmente provido." (e-STJ fl. 480)
+Embargos de Declaração: opostos, pela agravante, foram acolhidos parcialmente, para determinar que a indenização securitária seja paga de acordo a área sinistrada apontada na petição inicial, mantidas as demais disposições do acórdão. (e-STJ fl. 506/510)
+Recurso especial: alega violação dos arts. 781, CC, 373, I, CPC, sustentando que: i) embora a previsão contida na apólice e o reconhecimento de sua validade tanto na sentença de origem como no acórdão recorrido, em nenhum momento é impugnado o fato de que não houve apuração de prejuízo indenizável; e, ii) os laudos referenciados pela Corte local são os colacionados em seq. 1.5 e 1.6 dos autos originais e sequer apontam a existência de prejuízos indenizáveis ou valores de produtividade; e, iii) os laudos foram fortemente impugnados pela recorrente em sede de contestação e durante toda a instrução probatória, porém, ainda que não fosse o caso de ter havido impugnação, os próprios laudos juntados pelos recorridos não são aptos a possibilitar a apuração dos prejuízos, tampouco cálculo da indenização securitária; e, iv) a garantia contratada tem natureza reparatória, ou seja, a indenização deve equivaler ao valor da perda patrimonial incorrida pelos recorridos, o que não foi comprovado nos autos em questão; e, v) o pedido feito pelos recorridos, na ação de origem, não revela e nem corresponde aos prejuízos efetivamente suportados por eles em decorrência do sinistro comunicado, apenas aponta a quantidade de hectares que teria sofrido com a ocorrência da seca.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 781, CC, indicado como violado, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "não consta que os agravados tenham tido conhecimento prévio das cláusulas restritivas, ao contrário, não há nada que indique, de forma inequívoca, que a agravante cumpriu com o seu dever de informação", bem como de que "a despeito dos agravados terem juntado as Condições Gerais na inicial, não restou comprovada a entrega, na ocasião da contratação", assim também de que "a agravante não apresentou nenhum documento relativo ao contrato de seguro efetivamente assinado pelos agravados", além de que "a agravante tinha o ônus de trazer a proposta de seguro, subscrita pelo próprio segurado, bem como provar que os agravados tinham conhecimento prévio das cláusulas, encargo do qual não se desincumbiu", ao entendimento de que "considerando que os agravados não tiveram o prévio acesso às cláusulas restritivas de cobertura, deve incidir, no presente caso, a regra insculpida nos artigos 46 e 47, ambos do Código de Defesa do Consumidor", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 487) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de cobrança de indenização securitária.
+2. A ausência de decisão acerca do dispositivo legal indicado como violado, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial não conhecido.
