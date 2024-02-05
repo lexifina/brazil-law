@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MANOEL SILVEIRA GOMES, MARIA VITÓRIA HENRIQUE GOMES à decisão de fls. 3969/3970, que não conheceu do recurso.
+Sustenta a parte embargante que:
+MM Ministra Presidente, emerge dos autos que o caderno de origem funcionou de forma física até momento anterior a interposição do presente Agravo em Recurso Especial, sendo procedida a publicação da ementa recursal perante o segundo grau no dia 27/01/2023.
+A Lei n. 11.419/2006, trata da comunicação eletrônica dos atos processuais em seu art. 4, § 2º afirmando que "A publicação eletrônica na forma deste artigo substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal." (fl. 3973).
+Já o art. 5 o , § 3º determina que "A consulta referida nos §§ 1º e 2º deste artigo deverá ser feita em até 10 (dez) dias corridos contados da data do envio da intimação, sob pena de considerar- se a intimação automaticamente realizada na data do término desse prazo." Assim sendo, o setor de TI do escritório, realizou a presente análise normativa para protocolar o AgResp junto ao sistema do STJ a partir do dia 27/01/2023, de modo que o prazo ficou estabelecido com início a partir de 10 dias da descrição de publicação no sistema PJE, que funcionaria em substituição por ter sido operada a migração do processo físico para eletrônico, cuja base legal daria suporte para esse entendimento (fl. 3974).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que não há que se falar em falha no sistema de publicações/intimações, uma vez que a intimação do acórdão recorrido ocorreu por meio de Diário de Justiça eletrônico (DJe), conforme consta à fl. 3772.
+No caso, não tendo ocorrido a intimação eletrônica, considera-se válida a publicação no Diário de Justiça Eletrônico.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO INTEMPESTIVA. NÃO CONHECIMENTO. VALIDADE DA INTIMAÇÃO REALIZADA VIA DIÁRIO DE JUSTIÇA ELETRÔNICO. PRECEDENTES.
+1. No caso, a decisão de inadmissibilidade foi publicada, no Diário de Justiça eletrônico, em 18/8/2020 - na vigência do CPC/2015 -, sendo o agravo em recurso especial interposto somente em 15/9/2020, após o transcurso do prazo recursal de quinze dias úteis. Não foi realizada a intimação via portal eletrônico.
+2. De acordo com a orientação fixada em atual precedente da Corte Especial (EAREsp n. 1.663.952/RJ, relator Ministro Raul Araújo, julgado em 19/5/2021, DJe 9/6/2021), "a Lei n. 11.419/2006 prevê dois tipos de intimações criados para atender a evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais".
+3. Ambas as formas de intimação descritas são igualmente aptas a ensejar a válida intimação das partes e de seus advogados.
+4. Logo, na hipótese, a intimação realizada por meio do Diário de Justiça é plenamente válida, não havendo que se cogitar de ausência de intimação, conforme alega a agravante.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.783.625/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 6/9/2022.)
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 27/1/2023, considerando-se publicada em 30/1/2023 (fl. 3772). Excluindo-se o dia 30/1/2023 (primeiro dia), inicia-se a contagem no dia 31/1/2023 finalizando o prazo no dia 20/2/2023, que não se trata de feriado nacional, devendo ser comprovada a suspensão do expediente forense neste dia, acaso existente, providência que não foi cumprida.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 20/2/2023, sendo que o recurso especial foi interposto somente em 24/2/2023 , fora do prazo.
+Portanto, correta a decisão que não conheceu do recurso por sua intempestividade.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
