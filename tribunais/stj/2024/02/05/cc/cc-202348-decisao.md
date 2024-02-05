@@ -1,0 +1,8 @@
+DECISÃO
+Instaura-se o conflito de competência entre o juízo federal da 2.ª Vara Cível e Criminal de Juiz de Fora, da Seção Judiciária de Minas Gerais, e o juízo de direito da 8.ª Vara Cível de Juiz de Fora, do Poder Judiciário do Estado de Minas Gerais, quanto ao processamento e ao julgamento de ação reparatória de danos morais e materiais ajuizada por Luiz Filipe Rodrigues Abrahão Sefair em face de Instituto Doctum de Educação e Tecnologia Ltda.
+A demanda fundava-se na expedição de diploma de conclusão de curso superior frequentado pela ora interessado perante a ré, porém em descompasso com o que supostamente prometido pela instituição, isso vindo a impedir o pleno exercício profissional pela demandante.
+A pretensão deduzida fora de ordem indenizatória, o que impõe a aplicação, dada a causa de pedir conforme exposta, da tese sufragada pelo Supremo Tribunal Federal com o julgamento do Tema 1154/STF e do RE 1.304.964-RG, rel. Ministro Luiz Fux: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização."
+Assim, conheço do conflito para declarar competente o suscitante, juízo federal da 2.ª Vara Cível e Criminal de Juiz de Fora, da Seção Judiciária de Minas Gerais.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PRETENSÃO INDENIZATÓRIA DE DANOS MORAIS E MATERIAIS. EXPEDIÇÃO DE DIPLOMA POR INSTITUIÇÃO PRIVADA DE ENSINO. TEMA 1154/STF. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O SUSCITADO, JUÍZO FEDERAL.
