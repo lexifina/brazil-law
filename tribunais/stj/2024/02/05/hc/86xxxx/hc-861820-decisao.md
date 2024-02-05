@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MANOEL SABINO DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2227798-15.2023.8.26.0000).
+Depreende-se dos autos que o paciente foi pronunciado pela prática do delito tipificado no art. 121, § 2º, II e IV, do Código Penal (homicídio duplamente qualificado por motivo fútil e mediante recurso que dificultou a defesa da vítima) - e- STJ fls. 545/549.
+Impetrado habeas corpus na origem, a ordem foi denegada, em acórdão assim ementado (e-STJ fl. 26):
+Habeas Corpus. Homicídio qualificado. Prisão preventiva. Pretendida revogação. Inviabilidade. Presença de suficientes indícios de autoria delitiva.
+Decisão judicial bem fundamentada. Pronúncia. Constrangimento ilegal inexistente. Ordem denegada.
+Neste writ, a defesa alega que o decreto prisional carece de fundamentação idônea, já que pautado em argumentos genéricos e na gravidade abstrata do delito.
+Ressalta que, no caso, não estão presentes os requisitos ensejadores da prisão preventiva, nos termos do art. 312 do Código de Processo Penal.
+Destaca as condições pessoais favoráveis do acusado e afirma ser suficiente a aplicação de outras medidas cautelares.
+Dessa forma, requer (e-STJ fl. 21):
+A) A concessão da liminar para suspender os efeitos da decisão que decretou a prisão preventiva do paciente, substituindo a privação de liberdade por medidas cautelares diversas e menos gravosas até o julgamento definitivo do writ;
+B) A concessão definitiva da ordem de habeas corpus para revogar a prisão preventiva imposta ao paciente ou substituí-la por outras medidas cautelares menos gravosas, assegurando a ele o direito de responder ao processo em liberdade.
+Liminar indeferida às e-STJ fls. 590/591
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (e-STJ fls. 638/643).
+É o relatório.
+Decido.
+Como visto no relatório, insurge-se a defesa contra a prisão processual do paciente.
+O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+No caso, confira-se o que consta da decisão de pronúncia ao manter a custódia cautelar (e-STJ fl. 549, grifei):
+Mantidos inalterados os fundamentos fáticos e jurídicos autorizadores da custódia cautelar, agora reafirmados em razão da pronúncia, ratifico a prisão preventiva imposta ao acusado que deve aguardar o seu julgamento no cárcere.
+Com efeito, trata-se de crime gravíssimo, daqueles que geram desassossego e clamor social, sendo a segregação cautelar necessária para garantia da ordem pública, senão também para assegurar a aplicação da lei penal.
+Não se pode ignorar que o denunciado após o cometimento do delito empreendeu fuga e homiziou a arma branca em local de difícil acesso, o que, aliás, impossibilitou sua apreensão e análise pela autoridade policial.
+Por sua vez, o decreto prisional, expressamente mencionado na decisão de pronúncia, consignou o seguinte (e-STJ fls. 148/149, grifei):
+Quanto à custódia cautelar, concordando in totum com a douta autoridade policial, entendo presentes os requisitos e pressupostos legais à sua decretação.
+Com efeito, presentes a prova da materialidade delitiva e os indícios suficientes de autoria.
+Antonio Gomes da Silva da Silva foi vítima de quatro golpes de facão, sendo duas no pescoço, uma nas costas e uma na região da nuca que lhe causaram os ferimentos responsáveis por sua morte.
+O autor da conduta foi o denunciado Manoel Sabino da Silva, vulgo "Balinha", que compareceu à Delegacia Policial três dias após os fatos, para apresentar sua versão sobre o ocorrido, legítima defesa.
+Apesar da versão justificadora, não há ainda elementos suficientes a indicar que a vítima teria sacado a faca e investido contra o denunciado. Além disso, o denunciado teria dispensado o facão utilizado por ele para desferir os golpes na vítima.
+A vítima foi socorrida com vida à Santa Casa local, porém veio a óbito no dia 08 de fevereiro de 2023.
+Fixadas essas premissas, tenho que a decretação da prisão preventiva do acusado é necessária para garantia da ordem pública.
+Trata-se de crime gravíssimo, daqueles que gera desassossego e clamor social, sendo a segregação cautelar necessária para garantia da ordem pública, conveniência de instrução criminal e para assegurar a aplicação da lei penal.
+Além disso, o denunciado após o cometimento do delito empreendeu fuga e homiziou a arma branca em local de difícil acesso, impossibilitando sua localização e análise. As testemunhas também poderão se sentir ameaçadas com a liberação de Manoel.
+Ante o exposto, DECRETO A PRISÃO PREVENTIVA de MANOEL SABINO DA SILVA, qualificado nos autos, como forma de garantir a ordem pública.
+Como se vê, a segregação preventiva encontra-se devidamente fundamentada, pois invocou o Juízo de primeira instância a gravidade concreta da conduta e a periculosidade social do paciente, extraídas do modus operandi do crime, já que a vítima foi atingida com "quatro golpes de facão, sendo d ois  no pescoço,  um  nas costas e  um  na região da nuca que lhe causaram os ferimentos responsáveis por sua morte" (e-STJ fls. 417/418).
+Não bastasse, pontuou o magistrado que "o denunciado, após o cometimento do delito, empreendeu fuga e homiziou a arma branca em local de difícil acesso, impossibilitando sua localização e análise" (e-STJ fl. 418).
+Portanto, a prisão preventiva está amparada na necessidade de garantir a ordem pública.
+Em casos análogos, guardadas as devidas particularidades, o Superior Tribunal de Justiça assim se pronunciou:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. APELO EM LIBERDADE. ÓBICE. PERMANÊNCIA DOS MOTIVOS DA PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. AGRAVO DESPROVIDO.
+1. De acordo com o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. A Quinta Turma firmou orientação no sentido de que "não há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu segregado durante a persecução criminal, se persistentes os motivos para a preventiva" (HC 396.974/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/8/2017, DJe 30/8/2017).
+3. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado. Conforme o reconhecido no bojo do HC 811724/MG, percebe-se que a prisão preventiva está suficientemente fundamentada na necessidade de garantir a ordem pública, diante da gravidade concreta da conduta delituosa, já que o réu teria desferido um golpe de faca com grande violência e agressividade, encravando o objeto no corpo da vítima.
+4. Agravo desprovido.
+(AgRg no HC n. 860.049/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1º/12/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO PELO CONSELHO DE SENTENÇA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. RISCO À APLICAÇÃO DA LEI PENAL. DESCUMPRIMENTO DE MEDIDAS CAUTELARES PREVIAMENTE FIXADAS. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. NÃO COMPROVAÇÃO DE HIPOSSUFICIÊNCIA E DA COMUNICAÇÃO DO NOVO ENDEREÇO À JUSTIÇA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. CONDIÇÕES PESSOAIS IRRELEVANTES, NO CASO. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES, NA ESPÉCIE. RECURSO DESPROVIDO.
+1. O Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública.
+2. A jurisprudência deste Tribunal é no sentido de que " a  evasão do distrito da culpa, comprovadamente demonstrada e que perdura, é motivação suficiente a autorizar a segregação cautelar para assegurar a aplicação da lei penal." (AgRg no RHC n. 121.828/RO, relator Ministro Jorge Mussi, Quinta Turma, julgado em 26/05/2020, DJe 03/06/2020).
+3. Os arts. 282, § 4.º e 312, § 1.º, ambos do Código de Processo Penal, autorizam a prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força de outras medidas cautelares.
+4. As instâncias ordinárias, soberanas na análise de todas os fatos e prova s (produzidas até o momento) foram taxativas ao firmarem a premissa de que a decretação da prisão preventiva do ora Agravante é imprescindível, haja vista a gravidade concreta da conduta - "o acusado foi em direção a vitima e desferiu-lhe um golpe com uma faca na altura do abdômen. Ato contínuo, o acusado tomou o facão e aplicou-lhe "panadas" em diversas regiões do corpo, momento no qual a testemunha  ..  pediu para que o acusado parasse com suas atitudes senão acabaria matando a vitima" - e a necessidade de se garantira aplicação da lei penal, pois o Condenado descumpriu medidas cautelares alternativas ao cárcere previamente fixadas, se evadindo do distrito da culpa para outro Estado da Federação, sem comunicar o Juízo.
+5. O Tribunal de origem firmou que não foi comprovada a hipossuficiência alegada pelo Agravante, para não comparecer ao julgamento plenário, tampouco que ele teria fornecido o seu novo endereço. Para infirmar tais conclusões, imprescindível seria o revolvimento fático-probatório, providência impossível de se realizar no estreito e célere rito do habeas corpus ou do recurso que lhe faz as vezes.
+6. A existência de condições pessoais favoráveis - tais como primariedade, bons antecedentes, ocupação lícita e residência fixa - não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese em tela.
+7. Esta Corte entende que havendo fundamentos concretos para justificar a custódia cautelar, por consequência lógica, torna-se incabível sua substituição por medidas cautelares alternativas à prisão, por serem insuficientes.
+8. Agravo regimental desprovido.
+(AgRg no RHC n. 177.112/MA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Considerando a fundamentação acima expendida, reputo indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para o resguardo da ordem pública.
+O entendimento exarado pelo Ministério Público Federal vai ao encontro da conclusão ora alcançada. Eis a ementa do aludido parecer (e-STJ fls. 638/643):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. HOMICÍDIO QUALIFICADO. DECRETAÇÃO DA PRISÃO PREVENTIVA, COMO GARANTIA DA ORDEM PÚBLICA. PACIENTE PRONUNCIADO. MANUTENÇÃO DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES DO STJ. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
