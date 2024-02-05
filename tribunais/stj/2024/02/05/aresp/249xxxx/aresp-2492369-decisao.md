@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto pela Universidade de São Paulo contra acórdão do Tribunal de Justiça paulista, assim ementado:
+DESCONSIDERAÇÃO PERSONALIDADE JURÍDICA Execução de título extrajudicial Inconformismo da agravante diante de decisão que rejeitou tanto a questão prejudicial da prescrição como o pedido de desconsideração da personalidade jurídica Prescrição devidamente afastada pelo juízo de primeiro grau - Não preenchimento, no caso em tela, dos requisitos previstos no art. 50 do Código Civil Cisão da empresa ou mero encerramento irregular das atividades que não indicam abuso de personalidade jurídica a autorizar o deferimento do pedido - Decisão mantida - Precedentes do STJ e deste Egrégio Tribunal. Recurso desprovido.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta violação ao arts. 1.022, II, e 489 do CPC/2015, aduzindo que não foram sanados os vícios apontados nos embargos de declaração, relacionados à alegação de transferência e ocultação de patrimônio da empresa ora agravada.
+Também aponta divergência jurisprudencial em torno do art. 50 do CC/2002, indicando como paradigma julgado do Tribunal de Justiça do Estado de Minas Gerais.
+Sem contrarrazões.
+A inadmissão do recurso se deu pela incidência da Súmula 7/STJ e pela falta de demonstração do dissídio jurisprudencial - daí o presente agravo.
+É o relatório. Passo a decidir.
+Conheço do agravo, porquanto infirmados os fundamentos da decisão agravada.
+Quanto ao recurso especial em si, prospera a insurgência relativa ao tema da negativa de prestação jurisdicional.
+É que, a despeito da oposição de embargos de declaração, a Corte de origem não se manifestou quanto às seguintes alegações:
+(..) Na fundamentação do v. acórdão, não foi abordado estado de insolvência resultante da vultosa transferência de patrimônio realizada da empresa contratada para a empresa sucessora, no valor de R$ 14.000.000,00 (quatorze milhões), além da transferência de toda a atividade efetiva, do know how e dos contratos, inequivocamente o propósito de lesar os credores, frustrando-lhes o recebimento dos respectivos créditos e caracterizando desvio de finalidade. A omissão motivou a oposição de embargos declaratórios, nos quais a ora Recorrente explicitou que não se tratava de mero insucesso empresarial, mas de manobra específica para lesar credores, manobra essa materializada na transferência do patrimônio.
+Segundo a recorrente,
+O acórdão que resolveu os embargos de declaração, entretanto, permaneceu omisso quanto a tal fundamento, reafirmando o teor do julgado tal como antes lançado, transcrevendo as razões primevas, as quais, repita-se, centram-se no "mero insucesso" ou no "encerramento irregular", o que sequer foi alegado pela Recorrente (fl. 93-e).
+Com razão a recorrente quando defende a anulação do acórdão dos embargos de declaração, pois tais omissões se mostram relevantes e sua solução tem o potencial de alterar o desfecho da causa.
+Nesses, cumpre anular o acórdão do embargos de declaração para que, em novo julgamento, o órgão julgador se pronuncie sobre tais questões.
+Nessa linha de consideração, citam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPENSAÇÃO DE CHEQUES PARA PAGAMENTO DE TRIBUTOS. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. A necessidade de impugnação específica - prevista no art. 932, III, do CPC/2015 e Súmula 182/STJ - não se aplica ao fundamento relativo à violação de norma constitucional, pois se trata de matéria a ser apreciada no recurso extraordinário. Com isso, reconsidera-se a decisão agravada, passando-se a novo exame do recurso.
+2. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca dos elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre temas relevantes, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente. Na hipótese, a Corte de origem quedou-se inerte no exame de questões relevantes para o deslinde da controvérsia, a respeito da apontada falha de segurança no serviço de compensação de cheques.
+3. Agravo interno provido para conhecer do agravo a fim de dar provimento ao recurso especial, anulando-se o acórdão proferido em sede de embargos declaratórios na origem, para que outro seja proferido e, assim, sanado o vício constatado.
+(AgInt no AREsp 1399348/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/02/2020, DJe 13/03/2020)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022, II e III, DO CPC/2015. VIOLAÇÃO. EXISTÊNCIA. DECISÃO MONOCRÁTICA.
+POSSIBILIDADE.
+1. Configurada a violação do art. 1.022, II e III, do Código de Processo Civil/2015, faz-se necessária a declaração de nulidade do acórdão que apreciou os aclaratórios, para que os vícios sejam sanados pelo Tribunal de origem.
+2. Os órgãos judiciais estão obrigados a se manifestar, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, mormente quando provocados por meio de embargos de declaração, caso em que, persistindo a omissão, fica caracterizada a violação do art. 1.022 do CPC/2015.
+3. O art. 255, § 4º, do RISTJ faculta ao relator "dar provimento ao recurso especial após vista ao recorrido, se o acórdão objurgado for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência ou, ainda, a súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça".
+4. "A alegação de violação do art. 535 do Código Buzaid (1.022 do Código Fux) pode ser apreciada monocraticamente nesta Corte Superior, tanto pela negativa quanto pelo provimento do recurso, porquanto possui entendimento sedimentado nesta Corte, preenchendo as exigências constantes no art. 932 do Código Fux" (AgInt no REsp 1571891/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/08/2019, DJe 28/08/2019).
+5. Agravo interno não provido.
+(AgInt no REsp 1797390/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 02/12/2019, DJe 06/12/2019)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ARGUMENTOS RELEVANTES NÃO APRECIADOS. VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015. CONFIGURAÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
