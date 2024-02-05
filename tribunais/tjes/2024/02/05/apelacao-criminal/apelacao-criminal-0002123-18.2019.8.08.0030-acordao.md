@@ -1,0 +1,127 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 0002123-18.2019.8.08.0030
+
+APELAÇÃO CRIMINAL (417)
+
+APELANTE: WALLAS NEVES ELIAS
+
+APELADO: MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO
+
+RELATOR(A):
+PEDRO VALLS FEU ROSA
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Pedro Valls Feu Rosa
+
+PROCESSO Nº
+0002123-18.2019.8.08.0030
+
+APELAÇÃO CRIMINAL (417)
+
+APELANTE: WALLAS NEVES ELIAS
+
+APELADO: MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO
+Advogado do(a) APELANTE: MANOELA CARDOSO DE ALMEIDA JORGE - ES17525-A
+
+ACÓRDÃO
+
+EMBARGOS DE DECLARAÇÃO DE OFÍCIO – OMISSÃO – RECONHECIDA -
+HONORÁRIOS - APLICAÇÃO ANALÓGICA DO CPC – CONVÊNIO E TABELAS DA OAB - CARÁTER ORIENTADOR OU INFORMATIVO - PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE.
+RECURSO PROVIDO. 1. Constatada a omissão arguida no acórdão embargado, deve esta ser saneada através de embargos declaratórios. 2.
+Ao arbitrar os honorários de advogado na área criminal o magistrado pode se utilizar analogicamente da regra disposta no artigo 85 e parágrafos do Código de Processo Civil, uma vez que o Código de Processo Penal, além de nada prever nesse sentido, permite a aplicação da analogia. 3 Dar provimento ao recurso.
+
+Vitória/ES, data da assinatura eletrônica
+
+CLAUDIA VIEIRA DE OLIVEIRA ARAUJO
+
+DESEMBARGADORA SUBSTITUTA
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e acolher os Embargos de Declaração, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 001 - Gabinete Des. PEDRO VALLS FEU ROSA
+
+Composição de julgamento: 001 - Gabinete Des. PEDRO VALLS FEU ROSA - CLAUDIA VIEIRA DE OLIVEIRA ARAUJO - Relator / 017 - Gabinete Des. FERNANDO ZARDINI ANTONIO - FERNANDO ZARDINI ANTONIO - Vogal / 021 - Gabinete Desª. RACHEL DURÃO CORREIA LIMA - NILDA MARCIA DE ALMEIDA ARAUJO - Vogal
+VOTOS VOGAIS
+017 - Gabinete Des. FERNANDO ZARDINI ANTONIO - FERNANDO ZARDINI ANTONIO (Vogal)
+Acompanhar
+021 - Gabinete Desª. RACHEL DURÃO CORREIA LIMA - NILDA MARCIA DE ALMEIDA ARAUJO (Vogal)
+Proferir voto escrito para acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Pedro Valls Feu Rosa
+
+PROCESSO Nº
+0002123-18.2019.8.08.0030
+
+APELAÇÃO CRIMINAL (417)
+
+APELANTE: WALLAS NEVES ELIAS
+
+APELADO: MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO
+Advogado do(a) APELANTE: MANOELA CARDOSO DE ALMEIDA JORGE - ES17525-A
+
+VOTO
+
+Primeiramente, ao analisar detidamente o voto proferido, verifico que realmente este
+padece do vício de omissão por este órgão julgador, uma vez que não foram fixados honorários advocatícios pela atuação da defesa dativa em sua atuação em segundo grau.
+
+Cumpre destacar, que há a necessidade de submissão da questão a novo julgamento na Câmara para sanar a omissão apontada, na forma de Embargos de Declaração, ex officio, haja vista que será necessário proferir novo julgamento.
+
+Quanto ao pedido de honorários advocatícios, referente à atuação em segundo grau, entendo que, de acordo com a regra contida no § 1º do art. 22 da Lei nº 8.906/94, o advogado que atuar como defensor dativo, quando inexistente, ou insuficiente a Defensoria Pública no local da prestação do serviço, faz jus aos honorários fixados pelo juiz e pagos pelo Estado, hipótese que se amolda perfeitamente ao caso.
+
+É fato que na seara criminal “nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor” (CPP, art. 261).
+
+Quando da fixação dos honorários de advogado, que atua nos procedimentos criminais, o magistrado pode se utilizar da regra disposta no artigo 85 e parágrafos do Código de Processo Civil, uma vez que o Código Penal, além de nada prever nesse sentido, permite a aplicação analógica.
+
+Por isso, os honorários devem ser fixados consoante apreciação equitativa do juiz, tendo em vista o trabalho realizado pelo advogado e seu grau de zelo, o lugar da prestação do serviço, a natureza e importância da causa, e o tempo exigido para a sua atividade.
+
+Portanto, entendo que a atuação da Drª
+MANOELA CARDOSO DE ALMEIDA JORGE OAB – ES 17525-A
+demonstrou inquestionável qualidade, dedicação e zelo profissional ao apresentar razões ao presente recurso.
+
+Ressalto, que deve ser levado em consideração o trabalho desenvolvido pelos advogados - especificamente os dativos, pois atendem à nomeação judicial, para exercerem a defesa de quem não têm condições de suportar os encargos de um advogado – serem valorizados, pois ao assumirem tais nomeações ficam impedidos, ainda que parcialmente, de desenvolverem nos instantes em que se dedicam à causa que lhes foi conferida judicialmente - na confecção de peças defensivas, recursos e também audiências - das tarefas particulares e dos serviços que poderia vir a ser contratado.
+
+Desta maneira,
+de ofício, dou provimento ao pedido
+, a fim de fixar, em favor da Drª
+MANOELA CARDOSO DE ALMEIDA JORGE - OAB – ES 17525-A
+, o valor de R$ 800,00 (oitocentos reais), referente à sua atuação perante este segundo grau de jurisdição.
+
+É como voto.
+
+Vitória/ES, data da assinatura eletrônica
+
+CLAUDIA VIEIRA DE OLIVEIRA ARAUJO
+
+DESEMBARGADORA SUBSTITUTA
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+
+Acompanho o voto da Eminente Relatora.
