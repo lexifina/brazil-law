@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA LUCIA RAMOS SAVINI, contra decisão que indeferiu o processamento do recurso especial de fls. 243/253, interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+Mediante análise dos autos, observou-se, no STJ, que a agravante interpôs o segundo recurso especial contra a decisão que negou seguimento, em parte, ao primeiro apelo, deixando de admiti-lo quanto às demais matérias. (fls. 237/240)
+Identificada a ausência da respectiva análise de sua admissibilidade, foram os autos encaminhados à origem para tal providência. (fl. 262)
+Em atendimento ao comando exarado na referida decisão de retorno à origem, o Presidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo indeferiu o processamento do apelo especial de fls. 243/253, por não se tratar do recurso cabível para desafiar a decisão que inadmite o recurso especial, com fulcro no art. 1.030, V, do Código de Processo Civil, tampouco representa o meio adequado para combater a que lhe nega seguimento, com base no art. 1.030, I, "b", do mesmo estatuto processual. (fl. 266)
+Contra essa decisão, a parte interpôs o agravo em recurso especial de fls. 268/274.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Conforme consignado pelo Presidente do Tribunal de origem, o novo CPC passou a disciplinar expressamente as hipóteses de cabimento de agravo interno e de agravo em recurso especial.
+Como ali descrito, o recurso previsto no art. 1.021 do Código de Processo Civil se refere ao agravo interno, cabível, no que aqui interessa, nas hipóteses em que é realizado o juízo de conformação e, assim, negado seguimento ao recurso especial com base em entendimento fixado sob a sistemática dos recursos repetitivos. Já o agravo em recurso especial, previsto no art. 1.042 do CPC, é cabível nas outras hipóteses em que são proferidos juízos negativos de admissibilidade.
+Porém, conforme relatado, a parte não interpôs o agravo em recurso especial, tampouco o agravo interno, tendo apresentado, equivocadamente, o segundo recurso especial, o qual teve seu processamento indeferido com base no entendimento acima exposto quanto às espécies recursais cabíveis para contrapor a decisão mista de inadmissibilidade.
+Por outro lado, a jurisprudência do Superior Tribunal de Justiça é no sentido de que a interposição de dois ou mais recursos pela mesma parte e contra a mesma decisão impede o conhecimento daquele que foi apresentado por último, haja vista a preclusão consumativa e o princípio da unirrecorribilidade.
+Dessa forma, forçoso concluir que o segundo recurso especial não pode ser conhecido, em razão de o direito de recorrer ter se exaurido com a interposição do primeiro apelo, restando o segundo reclamo prejudicado pela preclusão consumativa..
+É da nossa jurisprudência:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. RECURSO ESPECIAL. PREPARO. COMPROVANTES DE RECOLHIMENTO. ILEGIBILIDADE. DESERÇÃO. SÚMULA Nº 187/STJ. INTEMPESTIVIDADE. EXPEDIENTE FORENSE. SUSPENSÃO. AUSÊNCIA DE COMPROVAÇÃO.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado por último, haja vista a ocorrência de preclusão consumativa e a aplicação do princípio da unirrecorribilidade das decisões.
+(..)
+5. Agravo interno não provido
+(AgInt no AREsp 968396/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 04/04/2017)
+Considerando que o agravo em recurso especial foi interposto para desafiar a decisão que inadmitiu o segundo apelo, também não é possível seu conhecimento, em razão do vício que macula o recurso que lhe deu origem.
+Por fim, ressalte-se que é inaplicável ao caso o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/05/2020.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do STJ, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
