@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por DERSA - DESENVOLVIMENTO RODOVIARIO S/A - EM LIQUIDACAO EM LIQUIDACAO em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO. Obra pública. Trecho do Rodoanel Mário Covas. Contrato firmado em 2006. ISS. Aumento da alíquota de dois para cinco por cento. Lei Municipal 1864, de 18 de dezembro de 2007. Fato superveniente à contratação. Devida recomposição em favor da contratada. Previsão no contrato e na Lei 8666/1993, artigo 65, § 5º. Retenções e recolhimentos sem descontar o valor dos materiais. Período de abril de 2006 a agosto de 2007 em relação a um município e abrangendo todo o contrato em relação a outro. Aspecto que nenhuma das partes cuidou de fazer observar. Culpa concorrente. Rateio por igual do prejuízo. Recomposição pela metade em favor da contratada. Atualização dos valores a partir das respectivas retenções, pela taxa SELIC, como decorre do artigo 406 do Código Civil. Recurso parcialmente provido, arcando as partes, em virtude da sucumbência recíproca, com as despesas do processo em proporção e com os honorários dos patronos da outra, também pelo trabalho e sucumbência recíproca em grau de recurso, à razão de dois pontos percentuais acima dos limites mínimos do artigo 85, § 3º, do Código de Processo Civil, segundo o critério do § 5º, sobre o decaimento de cada qual em relação ao pedido.
+Opostos embargos de declaração, foram acolhidos sem efeitos modificativos.
+Nas razões do recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta, além de divergência jurisprudencial, violação ao artigo 65, da Lei nº 8.666/93.
+A inadmissão do recurso especial se fez à consideração de que os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, bem como que o fundamento utilizado para a interposição somente poderia ter sua procedência verificada mediante o reexame de cláusulas contratuais e das provas colhidas nos autos, atraindo a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+A pretensão não merece acolhida.
+Inicialmente, da leitura da decisão de inadmissibilidade, observa-se que o Tribunal de origem concluiu que os argumentos expendidos não foram suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada, bem como que o fundamento utilizado para a interposição somente poderia ter sua procedência verificada mediante o reexame de cláusulas contratuais e das provas colhidas nos autos, atraindo a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Contudo, do exame do agravo interposto, observa-se que a agravante furtou-se de impugnar, especificamente, o referido óbice de inadmissibilidade referente à Súmula 5/STJ - necessidade de análise de cláusulas contratuais -, limitando-se a alegar que não cabe ao Tribunal a quo a análise meritória do recurso e que a análise do Recurso Especial não demandaria reexame de provas.
+A jurisprudência do STJ é assente no sentido de que impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada e atacar todos os pontos do decisum.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO. DECOTE DE CIRCUNSTÂNCIAS JUDICIAIS. AUSÊNCIA DE REDUÇÃO DA PENA-BASE. REFORMATIO IN PEJUS CONFIGURADA.
+CONCEDIDO HABEAS CORPUS, DE OFÍCIO.
+1. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento da decisão agravada relativo à incidência da Súmula n. 7 do Superior Tribunal de Justiça, atraindo, à espécie, a aplicação da Súmula n. 182/STJ.
+2. No tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, os Agravantes se limitaram a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+ ..
+4. Agravo regimental desprovido. Concedido habeas corpus, de ofício, para, afastando a reformatio in pejus, reduzir proporcionalmente as penas-bases e, por via de consequência, estabelecer as reprimendas nos patamares constantes deste voto.
+(AgRg no AREsp 1780663/PB, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/03/2021, DJe 19/03/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO IMPROVIDO.
+1. Para se afastar o óbice da Súmula 7/STJ, devem ser explicitados os motivos pelos quais a pretensão deduzida no recurso especial não demandaria reexame de provas, não bastando para tanto a insurgência genérica.
+2. A ausência de impugnação específica ao fundamento da decisão que inadmitiu o recurso especial obsta ao conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1790013/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021)
+Ademais, vale consignar que é entendimento consolidado no âmbito do STJ segundo o qual a Corte a quo não usurpa competência desse Tribunal ao adentrar no mérito do recurso especial ainda no juízo prévio de admissibilidade, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia.
+Dessa forma, a argumentação da agravante não possui o condão de rebater os fundamentos da decisão proferida na origem.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. É entendimento consolidado no âmbito do STJ segundo o qual a Corte a quo não usurpa competência desse Tribunal ao adentrar no mérito do recurso especial ainda no juízo prévio de admissibilidade, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia. Precedentes.
+2. Caberia ao agravante demonstrar o desacerto da decisão agravada, ou seja, a desnecessidade de revolvimento de matéria fático-probatória (Súmula n. 7/STJ) e de análise de direito local (Súmula n. 280/STF) e a efetiva realização de cotejo analítico quanto à alínea "c", o que não ocorreu in casu. Ausência de impugnação específica. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1490466/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/08/2019, DJe 30/08/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento, e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil.
+Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
