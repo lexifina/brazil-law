@@ -1,0 +1,8 @@
+DECISÃO
+A Primeira Seção do Superior Tribunal de Justiça em 24/08/2023, nos autos dos Recursos Especiais 2.039.614/PR, 2.039.616/PR e 2.045.596/RS, Rel. Ministro Gurgel de Faria, submeteu ao rito dos recursos especiais repetitivos a seguinte tese (Tema 1.207):
+Definir se, no caso de compensação de prestações previdenciárias, recebidas na via administrativa, quando de levantamento de cálculos em cumprimento de sentença concessiva de outro benefício, com elas não acumulável, nos meses em que houver o percebimento (na via administrativa) de importância maior que a estabelecida na via judicial, a dedução deverá abranger todo o quantum recebido pelo beneficiário ou ter como teto o valor referente à parcela fruto da coisa julgada.
+Houve, ainda, a determinação de suspensão da tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão, em todo o território nacional, até o pronunciamento definitivo deste Tribunal.
+Nesse contexto, com fulcro no art. 1030, III, do CPC/2015, determino a devolução dos autos ao Tribunal a quo, com a devida baixa nesta Corte, para que o recurso permaneça sobrestado até o julgamento final do Tema 1.207 e, após, sejam adotadas as providências previstas nos arts. 1040 e seguintes do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. RE 870.947. TEMA 810/STF. GARANTIA DA COISA JULGADA. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (TEMA 1.170/STF, RE 1.317.982/ES). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.039 E 1.040 DO CPC/2015).
