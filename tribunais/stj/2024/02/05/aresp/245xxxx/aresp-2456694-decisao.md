@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por NEUZA MARIA SALMEIRAO SANCHES DINIZ em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+PRELIMINAR Arguição se confunde com o mérito e com ele será apreciada. Afasto a preliminar. JULGAMENTO ANTECIPADO DA LIDE Possibilidade. Desnecessária a produção de outras provas. Matéria desafiada na exordial suficientemente documentada prescinde de outros elementos de convicção. Indefiro o pleito. AÇÃO RESCISÓRIA Pretensão à desconstituição de v. acórdão da C. 7a Câmara de Direito Público, negando provimento aos apelos de sentença que julgou improcedente ação pretendendo o reconhecimento da autora como pensionista. Inocorrência de afronta ao preceito legal ou que o v. aresto tenha se baseado em prova falsa. Pretensão de verdadeiro reexame da matéria, inadmissível na via eleita. Precedentes. Ação improcedente.
+Os embargos de declaração opostos contra o acórdão a quo foram rejeitados.
+No especial, sustenta-se, em síntese, que "houve julgamento extra petita, ofensa ao artigo 141 do CPC, posto que, o TJ/SP entendeu que NÃO EXISTIU CASAMENTO da recorrente como segurado do IPREM".
+Após juízo negativo de admissibilidade sobreveio o presente recurso.
+É o relatório. Decido.
+Não houve julgamento extra petita.
+De comum sabença,
+não ocorre julgamento extra petita se o Tribunal local decide questão que é reflexo do pedido na exordial, pois o pleito inicial deve ser interpretado em conformidade com a pretensão ali deduzida como um todo  ..  (AgInt no AgInt no AREsp n. 1.689.518/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 29/6/2023.)
+Outrossim, a aferição dos requisitos para a concessão de pensão de servidor encontra óbice na Súmula nº 7/STJ.
+Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAREsp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo (cf. ASSIS, Araken de. Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+Finalmente, não houve a impugnação dos fundamentos do acórdão a quo quanto à inadmissibilidade da ação rescisória.
+A orientação preconizada no verbete 28 3 da Súmula do Supremo Tribunal Federal, também aplicada ao especial, impõe à parte recorrente o dever de impugnar todos os fundamentos suficientes, por si só, para a manutenção do acórdão recorrido, sob pena de não conhecimento desta espécie recursal.
+Sobre a referida Súmula, dispõe a doutrina:
+Pode ocorrer  ..  que a decisão recorrida analise de modo equivocado a norma jurídica, dando-lhe conteúdo e alcance que não possui, violando-a escancaradamente, mas aplique corretamente à hipótese em julgamento norma diversa da mencionada. Nesse caso, se a decisão recorrida se mantém por pelo menos um dos fundamentos, mesmo que houvesse recurso, a reforma da decisão em relação ao fundamento erroneamente invocado pelo julgador não mudaria o seu resultado. O fundamento invocado corretamente por si só é suficiente para sustentar a validade da decisão e, por isso, não deve ser admitido o recurso excepcional. Nesse sentido, a Súmula 283 do STF enuncia que "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". (MEDINA, José Miguel Garcia. Prequestionamento, Repercussão Geral da Questão Constitucional, Relevância da Questão Federal. 1. ed. em e-book baseada na 7. ed. impressa. São Paulo: Revista dos Tribunais, 2017).
+Atraída, por analogia, a inteligência da Súmula nº 283 do STF, a impedir o trânsito deste apelo.
+Ante o exposto, conheço do agravo em recurso especial, mas lhe nego provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. QUESTÃO ESSENCIAL À SOLUÇÃO DA CONTROVÉRSIA. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 283/STF. AGRAVO CONHECIDO E NÃO PROVIDO.
