@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Israel Dias de Sousa, apontando-se como autoridade coatora o Tribunal de Justiça do Ceará (Apelação Criminal n. 0250188-70.2020.8.06.0001).
+Narram os autos que o paciente foi condenado a 5 anos de reclusão, além de 500 dias-multa, em regime inicial fechado, pela prática do crime de tráfico de drogas.
+Neste mandamus, o impetrante alega, em síntese, que o paciente preenche todos os requisitos para a incidência do benefício do tráfico de drogas privilegiado, destacando que inquéritos e ações penais em curso, por si só, não podem levar a presunção de que o réu se dedica ao tráfico de drogas.
+Requer, inclusive em liminar, a aplicação da causa especial de diminuição da reprimenda prevista no art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo; a fixação de regime menos gravoso, bem como a substituição da privativa de liberdade por restritivas de direitos.
+É o relatório.
+Verifico, de plano, a existência de flagrante constrangimento ilegal.
+O Magistrado de piso afastou a incidência da referida minorante, nestes termos (fls. 49 - grifo nosso):
+ ..
+No mais, exsurge dos autos, pela certidão de antecedentes extraída do sistema CANCUN e do SAJ (fls. 180 e 181/182), que o réu responde a um outro processo em que também é acusado da prática do delito de tráfico de drogas (Processo n. 0173047-43.2018.8.06.0004 relativo a um fato ocorrido em data anterior do presente fato, o que revela uma habitualidade da conduta do acusado.
+O legislador, ao prever a causa de redução de pena do art. 33, § 4º, da Lei n. 11.343/2006, teve por escopo apenar mais brandamente o agente que praticou o crime pela primeira vez e penalizar mais duramente aquele que tem o crime como meio de vida.
+Com efeito, a redução da pena e a quantidade dessa redução depende do grau de convencimento do magistrado acerca da inexistência de anterior envolvimento do réu com a criminalidade e da potencialidade lesiva de sua conduta. Ademais, conforme precedentes do STJ, "É possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o beneficio legal previsto no art. 33, § 4º, da Lei n. 11.343/06 (EREsp 1.431.091-SP, Rel. Min. Felix Fischer, por maioria, julgado em 14/12/2016, DJe 1/2/2017), pois assim resta evidenciada a dedicação do acusado à atividade criminosa, razão pela qual não é possível aplicar a figura do tráfico privilegiado ao caso em apreço.
+Destarte, o réu não faz jus ao benefício do art. 33, § 4º, da Lei de Drogas, por se dedicar à atividade criminosa de forma habitual.
+ ..
+O Tribunal de Justiça concordou com os fundamentos apresentados pelo Juízo primevo (fls. 34/35).
+Ora, até recentemente, a jurisprudência do Superior Tribunal de Justiça admitia como prova da dedicação a atividades criminosas a existência de ações penais em curso (AgRg no HC n. 638.848/MT, Ministro Felix Fischer, Quinta Turma, DJe 26/4/2021).
+No entanto, em recentes julgados, a Sexta Turma desta Corte Superior, seguindo orientação do Supremo Tribunal Federal, passou a não mais admitir ações em andamento como fundamento da dedicação a atividades criminosas, tendo em conta o princípio da presunção de inocência.
+Dito de outra forma, inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade (AgRg no HC n. 648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS COM BASE EM AÇÃO PENAL EM CURSO E NA QUANTIDADE DE DROGAS, QUE SEQUER É EXPRESSIVA. FUNDAMENTOS INIDÔNEOS. DECISÃO MONOCRÁTICA QUE APLICOU O REDUTOR, FIXOU O REGIME ABERTO E SUBSTITUIU A PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2. A Quinta Turma desta Corte, alinhando-se ao entendimento sufragado no Supremo Tribunal Federal, além de buscar nova pacificação no âmbito do Superior Tribunal de Justiça, assentou que a causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, LIV, da Constituição Federal (RE 1.283.996 AgR, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020) (HC 664.284/ES, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/9/2021).
+3. A quantidade das drogas apreendidas, que no caso sequer é expressiva, não possui aptidão para, de forma isolada, concluir que o paciente fazia do tráfico o seu meio de vida.
+4. A simples aferição da insuficiência dos fundamentos apresentados na origem para a não aplicação do redutor, ausente o apontamento de circunstâncias concretas no sentido da prática habitual do tráfico, não demanda reexame probatório.
+5. Agravo regimental não provido.
+(AgRg no HC n. 798.914/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2023 - grifo nosso).
+Assim, tratando-se de réu primário e não havendo, pelas instâncias ordinárias, menção a elementos aptos a demonstrar, com segurança, a dedicação a atividades criminosas ou a integração em organização da mesma natureza, deve ser reconhecido seu direito à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Com essas considerações, passo a dosimetria do paciente.
+Na primeira fase, mantida a pena-base em 6 anos e 3 meses de reclusão, mais 600 dias-multa, como realizado pelas instâncias ordinárias. Na segunda fase, incidiu a circunstância atenuante da atenuante da confissão espontânea, trazendo a pena intermediária para 5 anos de reclusão e 500 dias-multa. Na terceira fase, a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, implica uma pena definitiva de 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Tendo em vista o redimensionamento da pena do paciente e se tratando de réu primário, cabível, no caso, a aplicação do regime aberto e a substituição da pena privativa por restritivas de direitos.
+Ante o exposto, concedo liminarmente a ordem a fim de aplicar a minorante, fixando a pena do paciente em 1 ano e 8 meses de reclusão, a ser cumprida em regime aberto, além do pagamento de 166 dias-multa, substituída a privativa de liberdade por duas restritivas de direitos a serem aplicadas pelo Juiz de primeiro grau (Ação Penal n. 0250188-70.2020.8.06.0001).
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. INQUÉRITOS OU AÇÕES PENAIS EM CURSO. MUDANÇA DE ENTENDIMENTO. MINORANTE. APLICAÇÃO. NECESSIDADE. REGIME E SUBSTITUIÇÃO. PRECEDENTES.
+Ordem liminarmente concedida nos termos do dispositivo.
