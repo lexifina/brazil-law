@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fls. 15-21):
+O advogado Lucas Belino impetrou habeas corpus com pedido liminar em favor de Caio César de Castro contra ato praticado pelo Juízo da 2ª Vara Criminal da Comarca de Blumenau, que decretou e manteve a prisão preventiva do paciente.
+Sustentou, em síntese, que a decisão é nula por ausência de fundamentação, já que tratou apenas genericamente da gravidade abstrata do delito e desconsiderou as condições pessoais do paciente.
+Ainda, que a prisão cautelar é mais gravosa do que a provável pena definitiva.
+Ademais, que a filha possui comorbidades graves decorrentes de uma deficiência na coluna vertebral e medula espinhal, além de possuir outro filho que é seu dependente financeiro.
+Ressaltou os predicados pessoais do paciente, como ausência de antecedentes e vínculo permanente no município.
+Requereu a concessão de ordem para revogar a prisão cautelar, ou, subsidiariamente, para que seja substituída por prisão domiciliar (evento 1/eproc2G, em ).
+A medida liminar foi indeferida pelo Desembargador Paulo Roberto Sartorato, em regime de substituição (evento 6/eproc2G, em 15-9-2023).
+A Procuradoria-Geral de Justiça, em parecer da lavra do procurador de justiça Luiz Ricardo Pereira Cavalcanti, opinou pelo conhecimento da ação e pela denegação da ordem (evento 11/eproc2G, em 21-9-2023).
+Este é o relatório.
+Narram os autos que o paciente foi preso em flagrante, convertido em preventiva, pela suposta prática do crime de porte de artefato explosivo ou incendiário, previsto no art. 16, §1º, III, da Lei 10.826/2003.
+Sustenta a defesa, em suma, ausência de fundamentação idônea no decreto prisional.
+Alega, ainda, que o paciente possui uma filha especial, com comorbidades graves decorrentes de deficiência na coluna vertebral, além de possuir outro filho que é seu dependente financeiro.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou, subsidiariamente, que seja convertida em prisão domiciliar.
+Liminar indeferida e prestadas as informações.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 104-106).
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que foi proferida sentença, em 5/12/2023, quando o paciente foi condenado à pena de 3 (três) anos e 9 (nove) meses de reclusão, a ser cumprida em regime inicialmente fechado, sem prejuízo do pagamento de 15 (quinze) dias-multa, no valor unitário de 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos, corrigido até o efetivo pagamento, por infração ao art. 16, §1º, III, da Lei n. 10.826/2003.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A sentença condenatória dispôs que:
+O réu não poderá recorrer em liberdade, pois respondeu ao processo preso e ainda estão presentes os fundamentos da prisão preventiva (evento 14 do inquérito policial em apenso), os quais deixo de transcrever para evitar tautologia.
+O decreto de prisão preventiva, extraído do acórdão, tem a seguinte fundamentação (fls. 16-17):
+Além disso, a prisão em flagrante deve ser convertida em preventiva quando convergentes os requisitos consistentes em condições de admissibilidade, indicativos de cometimento de crime (fumus co mmissi delicti), risco de liberdade (periculum libertatis) e proporcionalidade, conforme arts. 282, I e II, 312 e 313 do Código de Processo Penal.
+Quanto ao primeiro pressuposto, constato que a situação versa sobre crime doloso com pena máxima superior a 4 (quatro) anos (art. 313, I, do CPP).
+No tocante ao segundo requisito, por sua vez, destaco que há prova da ocorrência de fato típico, ilícito e culpável e, também, indícios suficientes para imputabilidade perfunctória da autoria ao agente, como visto anteriormente.
+No ponto, cabe mencionar que, a princípio, não restou demonstrado que tenha atuado acobertado pelas dirimentes da legítima defesa, do estado de necessidade, do estrito cumprimento do seu dever legal ou do exercício regular deum direito assegurado, consoante arts. 310, § 1.º (com a redação dada pela Lei nº 13.964/2019), do Código de Processo Penal e art. 23, incisos I, II e III, do Código Penal.
+No concernente ao terceiro requisito, assinalo que a prisão preventiva somente é cabível quando presente o perigo de liberdade (periculum libertatis), ante a insuficiência das medidas alternativas, conforme art. 282, § 6.º, do CPP, na redação dada pela Lei nº 13.964/2019.
+No caso em análise, verifico que a prisão preventiva é necessária para garantir a ordem pública. Isto porque, denota-se que a conduta em tese praticada pelo conduzido se reveste de especial gravidade concreta.
+Como visto, o conduzido portava explosivos em local público, com ampla circulação de pessoas, de modo que colocou em risco a vida de diversos transeuntes. Ademais, constata-se que foi necessário inclusive o acionamento da força especializada da polícia para manusear o artefato explosivo, dado o risco concreto da situação.
+Ainda, observa-se que o conduzido não só portava consigo os explosivos como também os guardava em sua residência, de modo que o risco, portanto, era ainda maior, pois os artefatos estavam em pelo menos dois lugares distintos, colocando a vida de ainda mais pessoas em risco.
+Não bastasse, o conduzido aduziu ter se apropriado dos explosivos que pertenciam a seu antigo empregador e estaria prestes a comercializar o material, o que torna a conduta ainda mais gravosa.
+Portanto, a conversão da prisão em flagrante em preventiva é a única forma de garantir a ordem pública e de se evitar uma reiteração delitiva.
+Ressalto, sempre que restarem presentes prova da materialidade e indícios de autoria, nos termos do art. 312 do Código de Processo Penal, com a redação dada pela Lei nº 13.964, de 2019, o juiz está autorizado a manter o réu segregado para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal e quando verificar perigo gerado pelo estado de liberdade do imputado.
+Por fim, não cabe falar na substituição da custódia preventiva pelas medidas cautelares do art. 319 do Código de Processo Penal, pois presentes os requisitos da segregação, bem como diante da impossibilidade de conceder soluções alternativas à gravidade do crime (art. 282, II do CPP).
+Assim, a prisão é necessária para garantia da ordem pública, e o perigo gerado pelo estado de liberdade do imputado ressalta das circunstâncias acima descritas, mormente a probabilidade concreta de reiterar em prática criminosa.
+Logo, a prisão é necessária para evitar que o conduzido pratique novamente outros delitos.
+Como se vê, a decisão apresenta fundamentação que deve ser entendida como válida para a prisão preventiva, evidenciada na gravidade concreta do crime supostamente praticado, destacando-se que "o conduzido portava explosivos em local público, com ampla circulação de pessoas, de modo que colocou em risco a vida de diversos transeuntes. Ademais, constata-se que foi necessário inclusive o acionamento da força especializada da polícia para manusear o artefato explosivo, dado o risco concreto da situação. Ainda, observa-se que o conduzido não só portava consigo os explosivos como também os guardava em sua residência, de modo que o risco, portanto, era ainda maior, pois os artefatos estavam em pelo menos dois lugares distintos, colocando a vida de ainda mais pessoas em risco".
+Ressaltou-se, ainda, que "o conduzido aduziu ter se apropriado dos explosivos que pertenciam a seu antigo empregador e estaria prestes a comercializar o material, o que torna a conduta ainda mais gravosa".
+A jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confiram-se: HC 299762/P R - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Quanto ao pedido de substituição da prisão preventiva pela domiciliar, o Tribunal de origem assim referiu (fl. 20):
+Por fim, o pleito de concessão da prisão domiciliar também não comporta acolhimento.
+Muito embora demonstrado o quadro de saúde da filha do paciente, verifica-se que não foi devidamente comprovada a imprescindibilidade dele aos cuidados, como exige o art. 318, III, do CPP.
+Até mesmo porque o próprio impetrante destacou que a esposa do paciente não trabalha para prestar auxílio material à menor. T ambém não se comprovou que seja paciente é o único responsável financeiro.
+No entanto, ainda que assim se admita, isso não é suficiente para a concessão do benefício, até mesmo porque poderá eventualmente exercer labor no ergástulo para auxiliar materialmente os familiares ou mesmo valer-se do auxílio reclusão, se preencher os requisitos legais.
+Como se vê, a substituição da prisão preventiva em prisão domiciliar foi indeferida, po is "não foi devidamente comprovada a imprescindibilidade dele aos cuidados, como exige o art. 318, III, do CPP. Até mesmo porque o próprio impetrante destacou que a esposa do paciente não trabalha para prestar auxílio material à menor. Também não se comprovou que seja paciente é o único responsável financeiro".
+Assim, não se verifica manifesta ilegalidade apta a ensejar a concessão do benefício pela ausência de situação de risco.
+Ante o exposto, denego o habeas corpus
+Publique-se.
+Intimem-se.
+EMENTA
