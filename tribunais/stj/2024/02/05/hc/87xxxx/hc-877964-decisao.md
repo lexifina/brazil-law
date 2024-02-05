@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS DA SILVA ALEIXO FIGUEIREDO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n. 1505777-81.2023.8.26.0228.
+Segundo consta, o Paciente e o Corréu, "agindo em concurso de agentes e unidade de desígnios e propósitos com ao menos outro indivíduo não identificado, teriam trazido consigo e guardado, para fins de venda e entrega ao consumo de terceiros, 49 (quarenta e nove) porções, contendo 27,5g de cocaína; 40 (quarenta) porções, contendo 11,2g de cocaína, em forma de "crack", e 302 (trezentas e duas) porções, contendo 592,7g de maconha" (fl. 33).
+Em primeiro grau de jurisdição, o Paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa.
+A sentença condenatória foi integralmente mantida pelo Tribunal de origem, que negou provimento ao recurso de apelação interposto pela Defesa.
+Neste writ, a Defesa requer, em síntese, a fixação da pena-base no mínimo legal.
+O pedido liminar foi indeferido às fls. 68-69.
+Informações prestadas às fls. 74-108.
+O Ministério Público Federal manifestou-se às fls. 112-118, opinando pela não admissão do writ.
+É o relatório. Decido.
+No caso, o Juízo sentenciante, referendado pelo Tribunal de origem, procedeu à fixação da pena-base do Paciente com base na fundamentação a seguir transcrita (fl. 39; grifos diversos do original):
+"Passo ao cálculo das penas. Atentando aos critérios norteadores da fixação das penas previstos no artigo 59, do Código Penal, observo que o réu Lucas é reincidente (certidão de fls. 122/123 e FA de fls. 89/92). Lucas possui uma condenação definitiva por porte ilegal de arma de fogo perante a 13ª Vara Criminal da Capital. Já o réu José Carlos é birreincidente específico (certidão de fls. 119/121 e FA de fls. 85/88). José Carlos possui duas condenações definitivas por tráfico de drogas perante a 20ª e a 25ª Varas Criminais da Capital. Contudo, nessa primeira fase de cálculo de pena, verifico a presença de circunstâncias judiciais, que orientam majoração em um sexto sobre a pena mínima do crime em que incorreram. Conforme regra prevista no artigo 42, da Lei nº 11.343/06, não apenas as circunstâncias do artigo 59 do Código Penal devem ser consideradas na fixação da pena, mas também a quantidade e natureza de drogas apreendidas. Para tanto, levo em conta a expressiva quantidade de drogas apreendidas, consistentes em 49 porções de cocaína, 40 porções de "crack" e 302 porções de maconha, num total de 391 porções de três tipos de entorpecentes diferentes (peso total de 568,4g), as quais são suficientes para afetar grande número de pessoas, em razão de seu alto poder lesivo e viciante. Nesse sentido o policial Lucas bem definiu que havia quantidades de drogas, "na casa das centenas". A expressiva quantidade de drogas apreendidas, de três tipos diferentes, denotou o alto grau de envolvimento e ascendência dos réus na teia do tráfico. Para serem guardiões de tantas porções e de vultosa quantia em dinheiro, necessariamente distinguiam-se pelo profissionalismo e pela considerável posição hierárquica na traficância. Fixo a pena dos réus em CINCO ANOS E DEZ MESES DE RECLUSÃO E QUINHENTOS E OITENTA E TRÊS DIAS-MULTA."
+Como se observa, está fundamentado, de forma adequada, o aumento operado na primeira fase de aplicação da pena, tendo sido observado o que determina o art. 42 da Lei n. 11.343/2006.
+A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. AUMENTO DA PENA-BASE. QUANTIDADE DE DROGAS APREENDIDAS. ART. 42 DA LEI N. 11.343/2006. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES.
+1. A decisão impugnada deve ser mantida por seus próprios fundamentos.
+2. Esta Corte já decidiu que Não se verifica violação a legislação federal na exasperação da reprimenda básica do crime de tráfico de drogas em razão da quantidade de drogas apreendidas, nos termos do art. 42 da Lei de Drogas. (AgRg no REsp n. 2.006.219/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/8/2023).
+3. Agravo regimental improvido." (AgRg no HC n. 848.556/PE, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. QUANTIDADE E NATUREZA DAS DROGAS APREENDIAS. AUMENTO DA BASILAR JUSTIFICADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - Pedido de diminuição da pena-base. Conforme dispõe o art. 42 da Lei n. 11.343/2006, o magistrado, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a quantidade, natureza e diversidade das substâncias ou dos produtos apreendidos, a personalidade e a conduta social do agente.
+VI - In casu, quantidade de droga apreendida - 65 g de cocaína e 170 g de maconha - justifica a elevação da pena-base em 10 (dez) meses.
+Nesse compasso, ao contrário do que sustenta a defesa, mostra-se idônea a fundamentação, uma vez que a jurisprudência do STJ considera lídimo o recrudescimento da pena-base, tendo em vista a natureza e a quantidade da substância entorpecente. Precedentes.
+Agravo regimental desprovido." (AgRg no HC n. 840.515/RJ, relator Ministro MESSOD AZULAY NETO , Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE PELA QUANTIDADE DE ENTORPECENTE APREENDIDO. LEGALIDADE. PRECEDENTES. ORDEM DENEGADA.
