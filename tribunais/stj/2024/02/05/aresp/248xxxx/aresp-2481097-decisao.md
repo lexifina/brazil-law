@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado da Paraíba contra decisão da Presidência do Tribunal de Justiça daquele Estado que inadmitiu o recurso especial interposto ante o seguinte fundamento: rever o entendimento adotado pelo órgão julgador - no sentido de que a CDA preenche todos os requisitos legais - haveria, inevitavelmente, a necessidade de nova análise do acervo fático-probatório dos autos, o que encontra obstáculo nos termos da súmula 7 do STJ.
+A agravante, em síntese, sustenta que "o presente caso não fere o que disciplina a Súmula 7 do STJ, visto que não se trata de reexame de provas, mas sim, de interpretação de acordo com o que o ordenamento jurídico apregoa. É preciso aplicar o entendimento técnico implícito na leitura dessa súmula conforme já disposto em outras decisões do STJ, em que resta estabelecido que não ofende o princípio da Súmula 7 emprestar, no julgamento do recurso especial, significado diverso aos fatos estabelecidos pelo acórdão da segunda instância" (fl. 233).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, a parte agravante deixou de rebater, de modo específico, a apontada incidência da Súmula 7/STJ.
+Em relação ao aludido óbice, conquanto a ora agravante tenha mencionado que "o presente caso não fere o que disciplina a Súmula 7 do STJ, visto que não se trata de reexame de provas, mas sim, de interpretação de acordo com o que o ordenamento jurídico apregoa" (fl. 233), cingiu-se a defender a não ofensividade à referida súmula, à míngua de demonstrar a particularidade do caso dos autos suficiente para afastar o óbice mencionado , deixando, portanto, de impugná-lo de forma específica.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
