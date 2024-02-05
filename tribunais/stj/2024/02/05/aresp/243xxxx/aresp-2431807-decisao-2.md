@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCELO GERALDO KOOL contra decisão (fls. 407-409) que inadmitiu recurso especial com fundamento na incidência das Súmulas n. 5, 7 e 83 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná nos autos de ação de busca apreensão em contrato de financiamento de veículo com garantia de alienação fiduciária (Apelação Cível n. 0001076-70.2018.8.16.0046).
+O julgado foi assim ementado (fls. 308-309):
+APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - MÚTUO PARA AQUISIÇÃO DE IMPLEMENTOS AGRÍCOLAS - CÉDULA DE CRÉDITO BANCÁRIO COM GARANTIA EM ALIENAÇÃO FIDUCIÁRIA, HIPOTECA E AVAL - SENTENÇA DE IMPROCEDÊNCIA - RECURSO DE AMBAS AS PARTES.
+APELAÇÃO CÍVEL 1 - BANCO REQUERENTE - PEDIDO DE SUPRIMENTO DA AUSÊNCIA DE CITAÇÃO - NÃO ACOLHIMENTO - HABILITAÇÃO DE ADVOGADO ANTERIOR AO EDITAL DE CITAÇÃO - INSTRUMENTO DE MANDATO - PROCURADOR SEM PODERES ESPECIAIS PARA RECEBER CITAÇÃO - AUSÊNCIA DE COMPARECIMENTO ESPONTÂNEO DO REQUERIDO - CIÊNCIA INEQUÍVOCA - NÃO VERIFICADA - REVELIA - INOCORRÊNCIA - PURGAÇÃO DA MORA - TEMPESTIVIDADE - DEVEDOR FIDUCIÁRIO QUE NÃO ESTAVA PRESENTE QUANDO DA EXECUÇÃO DA BUSCA E APREENSÃO - PRAZO DE 5 (CINCO) DO ARTIGO 3º, § 1º DO DECRETO-LEI 911/69 - TERMO INICIAL - CITAÇÃO - PRECEDENTES - VALOR INTEGRAL DO DÉBITO - AQUELE INDICADO E COMPROVADO PELO CREDOR NA PETIÇÃO INICIAL - MODIFICAÇÃO DO RESULTADO DA DEMANDA - ACOLHIMENTO - FEITO QUE DEVE SER JULGADO PROCEDENTE - PURGAÇÃO DA MORA QUE CONSUBSTANCIA RECONHECIMENTO DO PEDIDO PELO DEVEDOR - ART. 487, INCISO III, ALÍNEA "A", DO CÓDIGO DE PROCESSO CIVIL - CONSEQUENTE AFASTAMENTO DA MULTA DO ARTIGO 3º, § 6º DO DECRETO-LEI 911/69 - PENALIDADE DEVIDA UNICAMENTE EM CASO DE IMPROCEDÊNCIA DO PEDIDO INICIAL - RECURSO PARCIALMENTE PROVIDO.
+APELAÇÃO CÍVEL 2 - REQUERIDO - PEDIDO DE MAJORAÇÃO DA INDENIZAÇÃO - NÃO ACOLHIMENTO - TABELA FIPE - PARÂMETRO OBJETIVO DE VERIFICAÇÃO DO VALOR DOS BENS À ÉPOCA DA APREENSÃO - VALORIZAÇÃO POSTERIOR NÃO IMPLICA REDUÇÃO DO PATRIMÔNIO DO REQUERIDO - ENQUADRAMENTO NO CONCEITO DE PERDAS E DANOS - IMPOSSIBILIDADE - INCREMENTO DE VALOR NÃO DECORRE DIRETAMENTE DA CONDUTA DO REQUERENTE, MAS DE FATORES EXTRÍNSECOS DE ORDEM ECONÔMICA - TRANSFERÊNCIA DOS RISCO DE MERCADO AO BANCO CREDOR - INVIABILIDADE - PENA DE CONFIGURAR O ENRIQUECIMENTO SEM CAUSA DO REQUERIDO - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE ESTADUAL - SENTENÇA MANTIDA - RECURSO DESPROVIDO
+Os embargos declaratórios opostos foram rejeitados (fls. 351-355).
+Nas razões do recurso especial, o recorrente alega negativa de vigência do art. 3º, §§ § 1º, 2º e 6º, do Decreto-Lei n. 911/1969.
+Defende, em síntese, que, diante da impossibilidade de restituição do bem, a ação de busca e apreensão deve ser julgada improcedente ou extinta por perda superveniente do objeto, com aplicação da multa de 50% do valor financiado.
+Requer o provimento do recurso para julgar improcedente ou extinguir a ação de busca e apreensão, com aplicação da multa em favor do devedor fiduciante.
+Contrarrazões pelo não conhecimento ou desprovimento do recurso (fls. 387-398).
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+No julgamento do agravo em recurso especial interposto pela instituição financeira, foi reformado o acórdão recorrido para declarar a resolução do contrato e consolidar a posse e a propriedade do bem alienado em favor do credor, resguardando ao devedor o direito a eventual crédito remanescente apurado com a venda do bem.
+Assim, a análise dos artigos suscitados nas razões deste recurso especial que busca a extinção da ação e a condenação da parte adversa ao pagamento de multa pela impossibilidade de restituição do bem fica prejudicada, diante da reversão do julgado com o reconhecimento da procedência dos pedidos em favor da instituição financeira.
+Ante o exposto, julgo prejudicado o recurso especial de MARCELO GERALDO KOOL.
+Publique-se. Intimem-se.
+EMENTA
