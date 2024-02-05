@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por Centrais Elé tricas Brasileiras S/A, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 84):
+TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC.
+1. Conforme disposto no art. 932, III, do CPC, não é cabível conhecer de recurso o qual não há impugnação específica aos fundamentos da decisão recorrida.
+2. Não há motivos para alteração da decisão proferida em relação ao Agravo de Instrumento.
+3. Agravo interno desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 133/138).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 475-A, 475-B, §3º, e 620 do CPC/73. Sustenta que "tanto o pedido inicial quanto a sentença - título judicial não são líquidos. É da natureza das ações que visão correção monetária integral do ECE ter que liquidar a sentença. Assim sendo, não pode ser iniciado o rito na forma do art. 475-J do CPC. Por esse motivo requereu-se a conversão em arbitramento, com fulcro nos artigos 475-A caput, 475-C, caput e inciso II e caput do 475-D do CPC." (fl. 154).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. No caso, aduz o recorrente, em suma, que "tanto o pedido inicial quanto a sentença - título judicial não são líquidos. É da natureza das ações que visão correção monetária integral do ECE ter que liquidar a sentença. Assim sendo, não pode ser iniciado o rito na forma do art. 475-J do CPC" (fl. 154). Contudo, o Tribunal a quo solucionou a controvérsia asseverando que "nos termos do art. 932 - III do Código de Processo Civil, incumbe ao relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Na situação em tela, observa-se que a parte agravante, neste recurso, deixou de fundamentar as razões de sua inconformidade" (fl. 87).
+Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados: Agint no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020; Agint no AREsp 1.419.058/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 19/9/2019 e Agint no AREsp 1.004.149/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 11/6/2018.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
