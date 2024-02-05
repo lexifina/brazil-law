@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decis ão que não admitiu o recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE ATO ADMINISTRATIVO COM REINTEGRAÇÃO AO CARGO. POLICIAL MILITAR. AFASTAMENTO EX OFFICIO. ALEGAÇÃO DE INEXISTÊNCIA DO ATO. DESLIGAMENTO POR VINTE E DEZENOVE ANOS. PUBLICAÇÃO NO BOLETIM INTERNO DA POLÍCIA MILITAR. PRESCRIÇÃO DO FUNDO DE DIREITO. DECRETO Nº 20.910-32. PRECEDENTES DO TJPB. DESPROVIMENTO.
+O prazo para propositura de ação de reintegração de policial militar é de cinco anos, a contar do ato de exclusão ou licenciamento, nos termos do Decreto nº 20.910/32, ainda que se trate de ação ajuizada em face de ato alegado nulo .
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta, além da divergência jurisprudencial, violação do art. 1º do Decreto n. 20.910/32, aduzindo que "Ao contrário do que entendeu o Tribunal de Justiça da Paraíba, a pretensão autoral não foi fulminada pela prescrição, de modo que o art. 1º, do Decreto 20.910/32 é manifestamente inaplicável no presente caso; 27. Isso porque a presente demanda está albergada pela imprescritibilidade, posto que não corre prazo prescricional contra ato administrativo inconstitucional, porquanto nessa hipótese, o ato administrativo viciado não se convalida com o decurso do tempo; 28. Com efeito, o art. 1º, do Decreto 20.910/32 não se aplica ao presente caso, porquanto, o ato administrativo vergastado que culminou com a demissão do RECORRENTE das fileiras da Polícia Militar do Estado da Paraíba sem a instauração do competente processo administrativo é cabalmente inconstitucional em razão da flagrante violação ao disposto nos incisos LIV e LV, do art. 5º da CF/88 e, inclusive, ao disposto no § 15, do art. 153, da CF/1967, com a redação data pela Emenda Constitucional de nº 01/69, vigente à época da demissão;" (fl. 307 e-STJ)
+Sobreveio juízo negativo de admissibilidade fundado na incidência da súmula 83/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A irresignação não merece conhecimento.
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+Ademais, a questão de haver ou não se convalidado o ato administrativo, bem como a alegação de inexistência não tem respaldo, porquanto o autor teve conhecimento do afastamento no ano de 1990 (id. 5446336), sendo o ato regularmente anotado na ficha funcional, com ciência inequívoca do ato.
+No caso, não se trata de ato que não reúne elementos necessários à sua formação (inexistente), mas, na verdade, ato que poderia ter sido praticado em desconformidade com as disposições legais atinentes à matéria (nulo), podendo gerar a sua invalidação, refutando as alegações do apelante de que seria inexistente.
+Desse modo, considerando a ocorrência da prescrição, deve ser mantido o pronunciamento do juízo de origem, afastando a pretensão recursal.
+Por fim, o dispositivo legal (art. 48-A, § 14, da Constituição Estadual) não pode invocado para aviventar o pedido de reintegração formulado, inclusive na esfera administrativa, pois foi declarado inconstitucional por esta Corte, com efeito retroativo à data da sua publicação..
+Do que se observa, a partir da leitura do trecho do acórdão recorrido, supramencionados e destacados, as fundamentações nele expendida, notadamente quanto ao conhecimento do afastamento e da inconstitucionalidade de artigo da constituição estadual, não foram especificamente impugnados nas razões do especial, o que caracteriza deficiência na argumentação recursal.
+Com efeito, à míngua da devida impugnação, preservam-se incólumes os fundamentos aplicados no decisum vergastado, que se mostram capazes, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou. Incide ao caso as Súmulas 283 e 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. COISA JULGADA. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. LEGITIMIDADE PASSIVA DO PRESIDENTE DO TJDFT. COMPETÊNCIA. ORIENTAÇÃO DO TCU NÃO VINCULANTE. OFENSA AO ART. 62-A DA LEI N. 8.112/1990. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súm. n. 283/STF. Ademais, a simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súm. n. 284/STF.
+2. Ademais, no tocante à alegada ilegitimidade passiva do Presidente do Tribunal de Justiça do Distrito Federal e Territórios, a autoridade coatora no mandado de segurança é o agente é aquele que tem competência para ordenar a prática do ato impugnado e não os meros executores da ordem.
+O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súm.
+n. 211/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.999.185/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Por fim, resta prejudicada a análise do dissídio jurisprudencial em virtude do óbice sumular aplicado à alínea "a" do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. MILIAR. REINTEGRAÇÃO. PRESCRIÇÃO. CONHECIMENTO DO AFASTAMENTO E INCONSTITUCIONALIDADE DE ARTIGO DA CONSTITUIÇÃO ESTADUAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
