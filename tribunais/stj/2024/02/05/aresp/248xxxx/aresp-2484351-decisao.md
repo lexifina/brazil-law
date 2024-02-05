@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Cascavel contra decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial interposto ante o seguinte fundamento: o Recorrente não combateu um dos fundamentos do acórdão, suficiente à manutenção da decisão, a saber, "conforme previsão legal do art. 34 do CTN, referendado pelo entendimento jurisprudencial, a perda dos atributos do direito de propriedade, muito antes do lançamento do imposto cobrado, retira do executado/excipiente a condição de contribuinte", fazendo com que o conhecimento do recurso especial, no referido tema, esbarre na Súmula 283/STF.
+A agravante, em síntese, alega que "o r. decisum não merece prevalecer, uma vez que, houve violação expressa a dispositivo legal de legislação federal" (fl. 474).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, o recurso especial interposto foi inadmitido ante o seguinte fundamento: o Recorrente não combateu um dos fundamentos do acórdão, suficiente à manutenção da decisão, a saber, "conforme previsão legal do art. 34 do CTN, referendado pelo entendimento jurisprudencial, a perda dos atributos do direito de propriedade, muito antes do lançamento do imposto cobrado, retira do executado/excipiente a condição de contribuinte", fazendo com que o conhecimento do recurso especial, no referido tema, esbarre na Súmula 283/STF.
+No entanto, nas razões do agravo em recurso especial, a parte agravante quedou-se inerte em relação ao referido fundamento, deixando de refutá-lo especificamente.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
