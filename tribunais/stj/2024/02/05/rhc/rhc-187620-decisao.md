@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 184):
+CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS. FLAGRANTE. BUSCA E APREENSÃO DOMICILIAR. VIDA PRIVADA E INTIMIDADE. AUSÊNCIA DE VIOLAÇÃO. CONVERSÃO. PRISÃO PREVENTIVA. REQUISITOS. VERIFICAÇÃO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS FATOS. ORDEM DENEGADA.
+1. O texto constitucional (art. 5º, LXVIII, CF) exige para o manejo do habeas corpus que alguém sofra ou se ache ameaçado de sofrer violência ou coação em sua liberdade de locomoção, decorrente de constrangimento ilegal (ilegalidade ou abuso de poder). 1.1 Relativamente à inviolabilidade de domicílio, o art. 5º, inciso XI, da CF anuncia ser a casa asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, excepcionando, essa inviolabilidade, em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+2. O artigo 240, §1º, do CPP, ao tratar sobre a busca domiciliar ou pessoal, dispõe que "proceder-se-á à busca domiciliar, quando fundadas razões a autorizarem".
+3. A prisão em flagrante do paciente foi decretada em resultado da apreciação do conjunto fático-probatório apresentado, sobretudo ante o delito cometido, dando ênfase a suas circunstâncias, com a finalidade de prevenção de novos riscos à incolumidade pública, calcados no histórico criminal, bem como na quantidade e forma com que as drogas com ele encontradas estavam fracionadas e embaladas, além da origem criminosa do aparelho celular apreendido em poder do paciente e do fato de restar ele cometendo delito no período de cumprimento de reprimendas por outros crimes, sobretudo da mesma espécie.
+4. Ordem denegada.
+Consta dos autos que o recorrente foi preso em flagrante, convertido em prisão preventiva, como incurso nos arts. 33, caput, da Lei n. 11.343/06 e 180, caput, do Código Penal.
+No presente recurso, afirma a defesa que a defesa sustenta que as provas estão maculadas de ilicitude, em razão da violação de domicílio ter sido realizada sem fundadas razões e sem autorização judicial para aquele endereço.
+Alega que "não havia situação de flagrância que autorizasse a entrada dos Policiais Civis do DF e consequente busca domiciliar, pois, a casa em que o paciente estava é residência diversa do mandado de buscas e apreensão deferido pelo juízo da 4ª Vara Criminal de Brasília, concorrendo claramente pela violação do domicilio" (fl. 224).
+Requer, liminarmente e no mérito, o provimento do recurso para que seja reconhecida a nulidade na obtenção das provas pela violação domiciliar e as demais delas derivadas, absolvendo o paciente nos termos do artigo 386, Inciso II do CPP.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que após a interposição deste recurso, foi proferida sentença condenatória, em 11/1/2024, que apreciou a tese objeto deste recurso ordinário relativa à nulidade da prova, em razão da suposta ilicitude da busca domiciliar.
+Esta Corte Superior tem posicionamento firme no sentido de que "a superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente" ( HC 384.302/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/6/2017).
+Não por outro motivo, foi aprovada a Súmula n. 648 pela Terceira Seção deste Tribunal Superior: "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus."
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
