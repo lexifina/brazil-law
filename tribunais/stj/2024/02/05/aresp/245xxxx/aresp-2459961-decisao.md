@@ -1,0 +1,8 @@
+DECISÃO
+A Primeira Seção do Superior Tribunal de Justiça em 26/04/2023, nos autos dos Recursos Especiais 1.938.265/MG e 2.056.866/SP, Rel. Ministro BENEDITO GONÇALVES, submeteu ao rito do recurso especial repetitivo a seguinte tese, correspondente ao Tema 1.188:
+Definir se a sentença trabalhista homologatória de acordo, assim como a anotação na CTPS e demais documentos dela decorrentes, constitui início de prova material para fins de reconhecimento de tempo de serviço.
+Registre-se, que há determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundada em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista no art. 1.040 do CPC/2015.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia (Tema 1.188), o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; ou 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
