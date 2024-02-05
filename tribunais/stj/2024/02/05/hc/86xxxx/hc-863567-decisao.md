@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO DOS REIS MALTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0010144-52.2023.8.26.0996).
+Consta dos autos que o Juízo das execuções, "reconhecendo a prática de falta disciplinar, classificou-a como de natureza média, por entender que "..as hipóteses previstas no artigo 50 da Lei nº 7.210/84, são taxativas e não permitem interpretação extensiva, devendo ser considerado o sentenciado como incurso nos incisos V e X do art. 45 do Regimento Interno das Unidades Prisionais.."" (e-STJ fl. 21).
+Irresignado, o Ministério Público estadual ingressou com recurso, tendo o Tribunal de origem dado provimento ao agravo em execução, nos termos da seguinte ementa (e-STJ fl. 21):
+Agravo em Execução Penal - Recurso do Ministério Público - Falta disciplinar considerada de natureza média - Incitação de movimento para subverter a ordem ou a disciplina e desobediência e não submissão às ordens recebidas - Exegese dos artigos 50, incisos I e VI, c.c. 39, incisos II e V, e 127, da Lei nº 7.210/84 - Reclassificação para falta grave - Imprescindibilidade - Revogação parcial do tempo remido e interrupção do prazo para a consecução à progressão de regime prisional - Necessidade - Precedentes Decisão reformada - Recurso provido.
+No presente writ, sustenta a defesa que, "se o Paciente, ora Rodrigo, pertence a cela de nº 05, e estava dentro da cela nº 05, é nítido que os detentos que "também não quiseram entrar", são outros, bem como as referidas incitações para que os demais também não entrassem. A responsabilidade da subversão, deve recair tão somente aos detentos que se recusaram a entrar em suas celas, e incitaram os demais a fazerem o mesmo. Não é medida de justiça, que o reeducando, o qual nunca teve problema dentro da unidade prisional, seja punido por atos que não cometeu. Assim, Nobre Ministro, não há o mínimo de provas firmes e robustas para incriminar o reeducando, imputando ao mesmo, participação no fato, tendo em vista que sua conduta foi totalmente diferente dos demais detentos, da cela nº 07, as quais foram descritas pelo próprio agente penitenciário" (e-STJ fls. 8/9).
+Pontua que, caso se conclua "que houve a incitação de RODRIGO aos demais detentos, tal conduta não se enquadra em nenhuma das hipóteses previstas no art. 50 da LEP. É notório, que o rol do art. 50 da Lei de Execuções Penais (Lei n. 7.210/1984) não possibilitando interpretação extensiva ou complementar, a fim de acrescer ou ampliar o alcance das condutas previstas" - e-STJ fls. 11/12.
+Aduz que "o comportamento irrogado ao reeducando não se subsome a qualquer das faltas graves previstas nos arts. 50 a 52 da Lei de Execução Penal, porquanto despido de qualquer periculosidade e ofensividade ao estabelecimento prisional. Por outro giro de se ressaltar, ad argumentandum tantum, que a conduta imputada na pior das hipóteses se amoldam nas seguintes infrações disciplinares de natureza média tipificadas no Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo" (e-STJ fl. 13).
+Busca, inclusive liminarmente, a absolvição ou a desclassificação para falta média ou leve.
+Indeferida a liminar (e-STJ fls. 66/68) e prestadas as informações (e-STJ fls. 71/73 e 77/95), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 659):
+PENAL - PROCESSUAL PENAL - HABEAS CORPUS - EXECUÇÃO PENAL - FALTA GRAVE - ABSOLVIÇÃO - DESCLASSIFICAÇÃO DA CONDUTA - REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO - NÃO CONHECIMENTO.
+Parecer pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Não vejo como acolher o pleito defensivo.
+São estes os fundamentos do acórdão recorrido (e-STJ fls. 22/25):
+A imputação que ensejou a responsabilização disciplinar recorrida é no sentido de que, em 14 de maio de 2023, em conjunto com outro detento, o agravante se recusou a sair de sua cela para ser encaminhado para o Setor de Segurança e Disciplina, sendo que, na sequência, ainda incitou os demais sentenciados que estavam do lado de fora de suas habitações a não entrarem em suas respectivas celas.
+A materialidade é incontroversa e a autoria da transgressão recai, com segurança, em desfavor da recorrente.
+O reeducando, na presença de advogado da FUNAP, disse que se recusou a sair do Pavilhão por acreditar que se assim agisse iria admitir culpa de fato que não praticou. Negou ter incitado os demais detentos do Pavilhão. Disse que o sentenciado Victor agiu da mesma maneira, se recusando a sair do Pavilhão (fls. 24).
+Os agentes de segurança penitenciária Rodrigo Rangel Peres e Diego de Oliveira Angelim, em fina sintonia, ratificaram os termos do Comunicado de Evento que ensejou a instauração do procedimento administrativo disciplinar (fls. 27/28 e 29/30).
+Registra-se, a propósito, que os autos não revelam elementos, minimamente tangíveis, aptos a depreciar a palavra dos agentes e a regra é de que agem no estrito cumprimento de dever legal.
+ ..
+Vê-se claramente que, a par da confissão do sentenciado e de suas justificativas, as declarações dos agentes penitenciários foram firmes no sentido de ter havido ter havido transgressão ao artigo 50, incisos I e VI, c. c. o artigo 39, incisos II e V, ambos da Lei nº 7.210/1984, a comprometer a ordem e a segurança no estabelecimento prisional, frustrando o bom andamento da execução penal.
+Houve, pois, indiscutível subversão da ordem e disciplina internas.
+Ademais, resta cristalino que o comportamento disciplinado, a obediência ao servidor e a submissão às normas disciplinares impostas, constituem deveres do reeducando, e o descumprimento de quaisquer desses requisitos denota elevado gr au de reprovabilidade de sua conduta carcerária.
+Como se pode ver, o Tribunal a quo entendeu que o comportamento do reeducando violou o art. 50, incisos I e VI, c/c o art. 39, incisos II e V, ambos da Lei n. 7.210/1984.
+O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, segundo a qual a desobediência e a incitação dos demais presos à desordem, no regime disciplinar prisional, configuram falta grave.
+Ademais, a pretensão absolutória/desclassificatória reclama aprofundado revolvimento de fatos e provas, providência vedada na via eleita.
+Nesse sentido, os seguintes precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Tendo as instâncias de origem concluído, com base nas provas produzidas no procedimento disciplinar interno, especialmente nas declarações dos agentes penitenciários, que o agravante praticou falta grave consistente na subversão da ordem, para se chegar a entendimento diverso, necessário seria o revolvimento do conteúdo fático-probatório dos autos, incabível nesta via.
+2. Outrossim, "a Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  ..  (HC n. 391.170/SP, rel. Min. Nefi Cordeiro, julgado em 1º/8/2017, publicado em 7/8/2017).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 797.089/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ART. 50, VI, C.C ART. 39, V, AMBOS DA LEI DE EXECUÇÃO PENAL - LEP. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O afastamento ou desclassificação da falta grave praticada pelo apenado (art. 50, VI, c.c art. 39, V, ambos da Lei de Execução Penal - LEP) demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+2. Ademais, há julgados de ambas as Turmas que analisam a matéria criminal considerando que a recusa pelo apenado à execução de trabalho interno caracteriza falta grave. Precedentes.
+3. Agravo desprovido.
+(AgRg nos EDcl no HC n. 771.463/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS . EXECUÇÃO PENAL. FALTA APURADA POR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. DESOBEDIÊNCIA. INVIABILIDADE DE PROFUNDO REEXAME DE FATOS E DE PROVAS. AGRAVO DESPROVIDO.
+1. Não há nenhuma ilegalidade na tipificação da conduta praticada pelo paciente como falta grave, notadamente porque, conforme assentado no procedimento administrativo disciplinar, o paciente incorreu em desobediência, conduta a qual, segundo a jurisprudência desta Corte Superior, consiste em falta grave, nos termos do art. 50, VI, c. c. o art. 39, II e V, ambos da LEP.
+2. Não há nada nos autos que corrobore o argumento defensivo de que não há provas suficientes para a condenação do paciente.
+3. Tendo as instâncias ordinárias entendido que quando os detentos foram orientados a permanecer no centro da cela e o paciente não acatou tal ordem, configurou-se ato de desrespeito nos termos do art. 50, VI, c/c o art. 39, II, ambos da Lei n. 7.210/1984, inviável a desconstituição do que foi decidido, visto que necessitaria o revolvimento de todo o contexto fático-probatório, o que inviável na via eleita.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 783.146/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Diante do exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
