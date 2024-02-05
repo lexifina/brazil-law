@@ -1,0 +1,47 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0710025-32.2023.8.07.0009RECORRENTE(S)SUSANA MENDES CALIXTO DA SILVARECORRIDO(S)F&I VEICULOS EIRELIRelatorJuiz EDILSON ENEDINO DAS CHAGAS
+ Acórdão Nº1811772
+
+EMENTA
+
+ JUIZADO ESPECIAL CÍVEL. DIREITO CIVIL. COMPRA E VENDA DE VEÍCULO. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS. TRANSFERÊNCIA DE PROPRIEDADE DO VEÍCULO ADQUIRIDO. DEVER DO COMPRADOR. TRANSFERÊNCIA DE PROPRIEDADE DO VEÍCULO DADO COMO PARTE DO PAGAMENTO NÃO EFETIVADA. DESCUMPRIMENTO CONTRATUAL QUE NÃO GERA DANO MORAL. MERO ABORRECIMENTO. RECURSO CONHECIDO. NÃO PROVIDO.
+
+I. Trata-se de recurso inominado interposto pela parte SUSANA MENDES CALIXTO DA SILVA em face da sentença que julgou parcialmente procedente a pretensão inicial, para condenar a recorrida a transferir para si, perante o DETRAN-DF, o veículo CITROEN C4, objeto dado como parte do pagamento na aquisição do veículo PEUGEOT 208, pela recorrente. Ademais, referida sentença julgou improcedentes os pedidos de: (i) condenação da recorrida à realização da transferência do veículo adquirido (PEUGEOT) para o nome da recorrente e (ii) condenação da recorrida em danos morais. Em seu recurso, a recorrente alega haver contradição na sentença combatida, uma vez que a recorrida foi revel, por não ter comparecido à audiência designada, e, assim, sustenta que devem ser tidos como presumidamente verdadeiros os fatos narrados na inicial. Requer a juntada de documento, alegando erro de upload, pelo fato de uma das páginas do contrato firmado entre as partes não ter sido anexada à petição inicial. Pugna pela aplicação do Código de Defesa do Consumidor ao presente caso. Requer a condenação da recorrida à transferência de propriedade do veículo adquirido pela demandante, PEUGEOT, para o nome da autora, ora recorrente. Pretende que seja condenada a recorrida à indenização por danos morais, no montante de R$ 10.000,00 (dez mil reais). Requer, por fim, a reforma da sentença e o provimento do recurso.
+
+II. Recurso próprio, tempestivo e com preparo regular (ID 53613225 – páginas 2 e 5). Contrarrazões não apresentadas.
+
+III. Não assiste razão à recorrente no que se refere à alegação de presunção de veracidade dos fatos articulados na inicial. Dispõe o art. 20 da Lei 9.099/95 que “Não comparecendo o demandado à sessão de conciliação ou à audiência de instrução e julgamento, reputar-se-ão verdadeiros os fatos alegados no pedido inicial, salvo se o contrário resultar da convicção do Juiz”. Depreende-se dos autos que a parte recorrida não compareceu à audiência de conciliação, razão pela qual lhe foi decretada a revelia. Cabe destacar que o ônus da prova quanto ao fato constitutivo de seu direito incumbe ao autor, na forma do art. 373, I, do CPC. Ressalte-se, ainda, que a revelia, na forma do art. 20 da Lei 9.099/95, induz presunção apenas relativa de veracidade dos fatos narrados na inicial, não importando procedência automática do pedido e nem eximindo o autor de provar o fato constitutivo de seu direito. Nesse sentindo, a revelia não permite que se conclua pela presunção absoluta de veracidade dos fatos narrados na exordial, devendo o juiz formar o seu convencimento, por meio da análise das alegações formuladas em confronto com as provas. Assim, afastada a tese da recorrente de que, ao ser decretada a revelia, os fatos constantes da inicial se tornam, automaticamente, verdadeiros. Precedentes: (Acórdão 1774009, 07094031720238070020, Relator: EDILSON ENEDINO DAS CHAGAS,  Segunda Turma Recursal, data de julgamento: 23/10/2023, publicado no DJE: 31/10/2023. Pág.:  Sem Página Cadastrada.) (Acórdão 1720511, 07623751020228070016, Relator: GABRIELA JARDON GUIMARAES DE FARIA,  Segunda Turma Recursal, data de julgamento: 26/6/2023, publicado no DJE: 5/7/2023. Pág.:  Sem Página Cadastrada.)
+
+IV. A recorrente junta aos autos novo documento, consistente em cláusula do contrato de compra e venda, a fim de que corrobore com sua tese. Tal documento não foi apresentado quando da propositura da exordial. A recorrente alega que ao fazer upload do contrato, este seguiu sem uma de suas páginas e pugna pelo reconhecimento do documento. Entretanto, tal documento não deve ser tido como tempestivo. Ressalte-se ser incabível que a parte junte documentos ao processo quando bem entenda. Conforme o art. 435 do CPC, a parte poderá acostar aos autos novas provas apenas quando se tratar de documentos novos, isto é, referentes a fato ocorrido posteriormente ou, ainda, quando aquele se tornar conhecido, acessível ou disponível apenas após a petição inicial ou contestação. A juntada de documentos preexistentes em momento posterior à sentença, sem qualquer justificativa plausível para tanto (caso fortuito ou força maior), faz incidir a preclusão consumativa sobre si, tornando tais documentos incapazes de provar o fato alegado, consoante exigem os artigos 434 e 435 do CPC. No mesmo sentido dispõe o art. 33 da Lei 9099/95, ao estabelecer que todas as provas serão produzidas em audiência. No presente caso, analisando o fragmento do contrato que a parte pretende que seja considerado, não há comprovação de que a recorrente não tinha conhecimento de tais fatos quando da inicial. Isto é, o contrato de compra e venda já existia quando do ajuizamento da ação, sendo ônus da parte autora (recorrente) agir de forma diligente quando da juntada de documentos aos autos. Assim, não há que se falar em possibilidade de apreciação de tal documento em sede recursal, pois não cabe inovação em tal fase processual. O documento não deve ser considerado.
+
+V. Nos moldes do artigo 123, § 1º, do Código de Trânsito Brasileiro, a obrigação de promover a transferência do veículo junto ao órgão de trânsito competente cabe ao adquirente, a fim de responder pelos débitos originados após a alienação. Assim, por se encontrar na posse do bem com uso e gozo pleno, cabe ao adquirente do veículo automotor tal providência. Portanto, a obrigação de promover a transferência do veículo adquirido (PEUGEOT), para o seu nome, junto ao DETRAN, cabe à recorrente, não à recorrida. Assim, não merece prosperar o pedido da recorrente. Neste ponto, deve a sentença permanecer incólume. Precedentes: (Acórdão 1373647, 00016976120178070011, Relator: GETÚLIO DE MORAES OLIVEIRA,  7ª Turma Cível, data de julgamento: 22/9/2021, publicado no PJe: 8/10/2021. Pág.:  Sem Página Cadastrada.), (Acórdão 1378240, 07336899220188070001, Relator: MARIO-ZAM BELMIRO, Oitava Turma Cível, data de julgamento: 7/10/2021, publicado no DJE: 21/10/2021.)
+
+VI. A respeito dos danos morais, tal pretensão não merece amparo. Da análise dos autos, constata-se que a recorrente firmou contrato de compra e venda de veículo com a recorrida e que o pagamento foi realizado parte em dinheiro, parte dando-se em troca automóvel de sua propriedade. A recorrida não cumpriu com a obrigação de promover a transferência do veículo dado como parte do pagamento (CITROEN) para o seu próprio nome ou do futuro comprador. Destaque-se que o mero descumprimento contratual não é capaz de configurar dano moral, sendo inviável o pleito da recorrente de condenação da recorrida ao pagamento de dano moral, eis que os percalços experimentados não extrapolam meros dissabores comuns em tais tipos de contrato. Na hipótese dos autos, a omissão na formalização da transferência da propriedade do veículo não chega a configurar constrangimento apto a ocasionar danos morais indenizáveis. O alegado dano indicado pela recorrente é meramente hipotético, uma vez que não consta qualquer infração lançada em seu nome. Assim, apesar do narrado pela recorrente caracterizar aborrecimento em sua vida particular, tais eventos não importam em abalo ou dano à honra, imagem ou à vida privada. Portanto, não houve transgressão à esfera jurídica extrapatrimonial da demandante, não havendo que se falar em condenação por danos morais. Neste ponto, irretocável a sentença combatida. Precedentes: (Acórdão 1364564, 07217963620208070001, Relator: ALVARO CIARLINI,  2ª Turma Cível, data de julgamento: 18/8/2021, publicado no DJE: 10/9/2021. Pág.:  Sem Página Cadastrada.)
+
+VII. Recurso CONHECIDO e NÃO PROVIDO. Sentença mantida. Custas recolhidas. Deixo de arbitrar honorários advocatícios ante a ausência de contrarrazões.
+
+VIII. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EDILSON ENEDINO DAS CHAGAS - Relator, MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juiza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Fevereiro de 2024
+
+Juiz EDILSON ENEDINO DAS CHAGASRelator
+
+RELATÓRIO
+
+Dispensado, nos termos do art. 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - RelatorDispensado, nos termos do art. 46 da Lei n. 9.099/95.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal Com o relatorA Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME
