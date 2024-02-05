@@ -1,0 +1,52 @@
+DECISÃO
+Tomo por relatório o escrito pelo Subprocurador-Geral da República Paulo Queiroz (fls. 44/45 - grifo nosso):
+Trata-se de habeas corpus impetrado em favor de Breno Ferreira da Silva contra acórdão do Tribunal de Justiça do Estado de São Paulo que julgou prejudicado o writ lá impetrado.
+O impetrante sustenta, em suma, que falta contemporaneidade para decretação da prisão preventiva do paciente e que o writ originário não foi prejudicado pela superveniência de sentença condenatório, já que não foi alegado excesso de prazo da segregação cautelar.
+O pedido liminar foi indeferido.
+Prestadas informações pelo juízo. Pendente resposta do Tribunal estadual.
+É o relato do essencial.
+A liminar foi indeferida pela Presidente desta Corte, Ministra Maria Thereza de Assis Moura (fls. 32/33), as informações foram prestadas (fls. 39/43 e 55/73) e o Ministério Público se manifestou pela conc essão parcial da ordem (fls. 44/52).
+É o relatório.
+O impetrante requer o direito do paciente de recorrer em liberdade.
+Por um lado, não há dúvida de que o writ em questão é substitutivo de recurso de apelação, e é certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito, tampouco deve vir como sucedâneo de revisão criminal.
+Vale lembrar também que a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+No entanto, vislumbro ilegalidade flagrante apta a justificar a concessão da ordem de ofício.
+Estou de acordo com a m anifestação Ministerial deste teor (fls. 45/49 e 51/52 - grifo nosso):
+Temos que a ordem de habeas corpus deve ser concedida em parte.
+O paciente foi condenado pela prática do crime do art. 155, § 4º, inc. II e IV, do Código Penal, às penas de 2 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e de 10 dias-multa.
+Antes, em 20/6/2023, a prisão preventiva foi decretada, com a seguinte fundamentação (fl. 39 - Autos n. 1501593-81.2023.8.26.0196):
+2) ACOLHO o requerimento do Ministério Público para a decretação da prisão preventiva do réu.
+Segundo consta, a vítima Rogério teve sua residência furtada por desconhecidos no dia 9/9/2022. Posteriormente, no dia 14/9/2022, policiais localizaram uma motocicleta, produto de furto, na posse de Bruno e, em sua residência localizaram diversos objetos de origem duvidosa. Dentre os referidos objetos, a vítima reconheceu parte deles como sendo seus, havendo, portanto, fortes indícios de autoria.
+Compulsando os autos verifica-se que o réu é possuidor de extensa folha de antecedentes além de ser reincidente na prática criminosa (fls. 70-73), o que demonstra tendência para a vida marginalizada e absoluta desconsideração com o patrimônio alheio.
+Ademais, o fato de haver tornado a delinquir, após ser advertido por condenações pretéritas, deixa claro que as penas anteriormente aplicadas de nada serviram no processo de recuperação do acusado, reforçando a necessidade da segregação cau telar.
+Por fim, de se ressaltar que o acusado não foi localizado para prestar declarações no distrito policial, encontrando em local incerto e não sabido, o que justifica a imprescindibilidade da prisão preventiva com fundamento na garantia da aplicação da lei penal.
+Assim, para garantia da ordem pública, por necessidade da instrução criminal e para garantia da aplicação da lei , com fulcro nos arts. 311 e 312 do Código de Processo.
+Com a superveniência da sentença, a segregação cautelar foi mantida, nos termos a seguir: "Presentes os pressupostos de cautelaridade que conduziram à decretação da prisão preventiva, ora reforçados pela sentença condenatória, nego o recurso em liberdade. Recomende-se o réu ao estabelecimento prisional em que se encontra recolhido." (fl. 27).
+O TJSP não apreciou o mérito writ originário, em razão de suposto prejuízo decorrente de perda do objeto. Eis a fundamentação, no crucial (fl. 13):
+A ordem está prejudicada pela perda de seu objeto, pois não mais subsiste o constrangimento ilegal alegado.
+Conforme se verifica pela análise dos autos principais, no dia 11 de dezembro de 2023 os autos foram sentenciados, restando o paciente condenado como incurso no art. 155, § 4º, incisos II e IV, do Código Penal, à pena privativa de liberdade de 2 (dois) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e à pena pecuniária de10 (dez) dias-multa, no patamar mínimo, sendo-lhe negado o direito de recorrer em liberdade.
+Nesse passo, inviável, a análise da legalidade da prisão preventiva decretada, eis que a prolação de sentença condenatória torna prejudicado o pleito de liberdade provisória, por configurar novo título da custódia cautelar, conforme disciplina o parágrafo único do artigo 387 do Código de Processo Penal.
+Ademais, incide na espécie o enunciado sumular nº 52 do Colendo Superior Tribunal de Justiça: "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Dessa forma, o presente writ encontra-se prejudicado, nos termos do art. 659 do Código de Processo Penal, pela perda do objeto.
+Os equívocos são manifestos.
+De início, ressalta-se que a pretensão originária do impetrante - revogação da prisão preventiva - teve por fundamento a aparente falta de contemporaneidade entre a prática do crime, ocorrida em 9/9/2022, e a decretação da prisão, em 20/6/2023.
+Com a superveniência da sentença e a manutenção da segregação cautelar, temos que não houve perda de objeto, dado que os mesmos fatos que ensejaram o deferimento inicial da prisão preventiva serviram para mantê-la, estando em trâmite apelação da defesa contra a condenação.
+No mérito, temos que a prisão preventiva deve ser substituída por medidas cautelares diversas.
+Como se vê das transcrições, as decisões estão fundamentadas, visto que apontaram a materialidade e os indícios de autoria delitiva (fumus commissi delicti), bem como a presença dos vetores contidos no art. 312 do CPP, justificando a necessidade de imposição de medida cautelar (periculum libertatis) para a garantia da ordem pública, garantia da aplicação da lei penal e necessidade à instrução processual.
+Além disso, não obstante o transcurso de significativo período entre a data dos fatos e decretação, está presente o requisito da contemporaneidade, já que presentes indícios atuais de risco de reiteração delitiva - apuração de outros delitos de mesma natureza e condenação definitiva superveniente -, em prejuízo à ordem pública.
+ ..
+Mas isso não significa, necessariamente, a decretação e manutenção da prisão preventiva, a mais grave das medidas cautelares previstas no ordenamento jurídico, que somente deve ser admitida em casos de extrema necessidade e de impossibilidade de substituição por medida cautelar diversa (CPP, art. 319).
+Afinal, com o advento da reforma da Lei n. 12.403/2011, a prisão, que já era uma exceção, tornou-se uma exceção da exceção, que só pode ser admitida e mantida em casos de absoluta necessidade, seja pela gravidade concreta do delito, seja pela provável reiteração no cometimento de crimes graves.
+No particular, a prisão é perfeitamente substituível por alguma ou algumas das medidas cautelares de que trata o art. 319 do Código de Processo Penal, nos termos do art. 282, § 6º, do CPP, com a redação dada pela Lei n. 12.403/2011, visto que: a) o recorrente é primário, não obstante portar maus antecedentes (condenação definitiva superveniente ao delito); b) a sentença condenatória está em grau recursal, com imposição de pena de 2 anos, 2 meses e 20 dias de reclusão (ressalta-se que, em princípio, não é sequer o caso de imposição de regime inicial fechado, como feito na sentença recorrida); c) não há provas de um eventual risco de evasão e a instrução processual já foi concluída; d) o crime foi cometido sem violência ou grave ameaça à pessoa; e) no caso de descumprimento das restrições impostas, a prisão poderá ser novamente decretada em desfavor da recorrente (CPP, art. 282, § 6º).
+Assim, temos que a prisão preventiva pode e deve ser substituída por medidas cautelares diversas da prisão, dada a suficiência e adequação destas para assegurar a ordem pública.
+É certo, ainda, que, de todas as medidas cautelares pessoais, a prisão preventiva é a mais violenta forma de intervenção sobre a liberdade, razão pela qual a sua decretação - e manutenção - só poderá ocorrer em ultima ratio, isto é, quando forem insuficientes, e enquanto o forem, outras medidas de coação menos lesivas e mais adequadas. A prisão temporária/preventiva será abusiva, portanto, sempre que for substituível por medida cautelar diversa.
+ ..
+Assim, tão importante quanto cumprir a lei, é evitar e combater a cultura do encarceramento, que agrava esse quadro de violações aos direitos fundamentais dos investigados/condenados.
+É justo, pois, substituir a prisão preventiva por algumas das medidas cautelares de que trata o art. 319 do Código de Processo Penal nos termos do art. 282, § 6º, do CPP, com a redação dada pela Lei n. 12.403/2011, especialmente: a) monitoração eletrônica; b) compareciment o periódico em juízo no prazo e nas condições fixadas pelo juiz para informar e justificar atividades; b) recolhimento noturno; c) proibição de ausentar-se da comarca sem prévia autorização judicial.
+Por tais razões, o Ministério Público Federal requer a concessão parcial da ordem.
+Ante o exposto, acolhendo o parecer do Parquet, não conheço do habeas corpus substitutivo, m as concedo a ordem de ofício, para substituir a prisão preventiva imposta ao paciente por medidas caute lares alternativas previstas no art. 319, I, II e IV, do Código de Processo Penal.
+Intime-se o Ministério Públi co estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE APELAÇÃO. FURTO QUALIFICADO. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE. IMPOSIÇÃO DE PENA BAIXA. REGIME FECHADO. FUNDAMENTAÇÃO INIDÔNEA. RÉU PRIMÁRIO. CRIME SEM VIOLÊNCIA. MEDIDAS CAUTELARES MENOS GRAVOSAS. ADEQUAÇÃO E SUFICIÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER MINISTERIAL ACOLHIDO.
+Writ não conhecido. Ordem conc edida de ofíc io, nos termos do dispositivo.
