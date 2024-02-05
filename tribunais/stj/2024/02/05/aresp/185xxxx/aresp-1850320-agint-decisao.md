@@ -1,0 +1,74 @@
+DECISÃO
+Cuida-se de agravo interno interposto por SIND COND AUT DE VEICULOS RODOVIARIOS DE DIVINOPOLIS E OUTROS contra decisão de fls. 3973/3980 (e-STJ) que, com fundamento na Súmula 182/STJ, não conheceu do agravo em recurso especial por descumprimento do princípio da dialeticidade recursal.
+Nas razões deste agravo, sustentam que impugnaram todos os fundamentos da decisão de inadmissibilidade do recurso especial, especificamente quanto ao tema da ausência de prequestionamento.
+Requerem a reconsideração da decisão agravada ou o julgamento pelo Órgão Colegiado.
+É o relatório.
+Passo a decidir.
+As razões do agravo interno são procedentes, de sorte que, em juízo de retratação, há de reconsiderar a decisão monocrática anteriormente lavrada às fls. 3973/3980 (e-STJ).
+Passo a proceder a novo exame do recurso.
+Trata-se de agravo em recurso especial interposto por SIND COND AUT DE VEICULOS RODOVIARIOS DE DIVINOPOLIS E OUTROS em face de decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+AÇÃO CIVIL PÚBLICA - MUNICÍPIO DE DIVINÓPOLIS - PERMISSÃO DE SERVIÇO PÚBLICO DE TÁXI - NECESSIDADE DE PRÉVIA LICITAÇÃO - CONDENAÇÃO DO "MUNICÍPIO DE DIVINÓPOLIS NA OBRIGAÇÃO DE PROVIDENCIAR O LEVANTAMENTO E AVALIAÇÃO TÉCNICOS DA ADEQUAÇÃO DOS ATUAIS PONTOS DE TÁXIS, NECESSIDADE DE ESTABELECIMENTO DE NOVOS PONTOS E S NECESSIDADE DE AMPLIAÇÃO DO NÚMERO DE PERMISSIONÁRIOS OU CONCESSIONÁRIOS DO SERVIÇO" - INICIATIVAS RESERVADAS AO CHEFE DO EXECUTIVO SOB PENA DE VIOLAÇÃO AOS PRINCÍPIOS DA HARMONIA E INDEPENDÊNCIA DOS PODERES - SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - RECURSO VOLUNTÁRIO PREJUDICADO.
+1. Para a permissão do serviço público de transporte oferecido pelos taxistas, imprescindível se mostra a prévia licitação pela Administração Pública, conforme determina o artigo 175 da CF/1988 e a Lei Federal nº 8.987/1995.
+2. A pretensão condenatória do "Município de Divinópolis na obrigação de providenciar o levantamento e avaliação técnicos da adequação dos atuais pontos de táxis, necessidade de estabelecimento de novos pontos e necessidade de ampliação do número de permissionários ou concessionários do serviço", constitui matéria de iniciativa privativa do Chefe do Poder Executivo, implicando invasão de competência e afronta aos princípios da harmonia e independência dos Poderes, pelo que a pretensão inicial, neste aspecto, não pode ser acolhida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, os recorrentes apontam violação aos arts. 2º, caput, da Lei nº 8.666/93, 14 e 42, da Lei nº 8.987/95, e 12 e 12-A, da Lei nº 12.587/2012.
+Para tanto, alega que "a atividade de transportes de passageiros por Táxi não se trata de serviço público essencial passível de outorga somente através de concessão ou permissão. Na verdade, se trata de serviço público de interesse coletivo, outorgável através de "autorização", cujo deferimento ao particular independe de processo licitatório e deriva da discricionariedade do poder concedente". (fl. 398-e)
+Sustenta que deve ser provido o presente Recurso Especial, com a finalidade de modificar a decisão recorrida, com o objetivo de julgar totalmente improcedente o incidente de inconstitucionalidade relativo ao artigo 70 da Lei n. 3.955/96 do Município de Divinópolis, declarando que a autorização para o exercício do serviço de táxi independe de licitação.
+A inadmissão do recurso especial se fez à consideração de que não houve o devido prequestionamento dos dispositivos apontados como violados, pois não houve debate sobre referidos preceitos no acórdão recorrido, nem foi indicada violação ao artigo 1.022 do CPC a fim de viabilizar admissão de prequestionamento ficto nos termos dos artigo 1.025 do CPC.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+Certidão de fls. 411 (e-STJ) certificando necessidade de redistribuição dos autos em razão de impedimento do Exmo. Sr. Ministro Afrânio Vilela, sucessor regimental do Exmo. Sr. Ministro Humberto Martins na Segunda Turma e Primeira Seção.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo em recurso especial, passo ao exame do recurso especial.
+Sobre a controvérsia posta nos autos, assim consignou o Tribunal de origem, in verbis:
+(..)
+No mérito, importa consignar, desde já, que o transporte individual de passageiros por táxi é um serviço público típico, o qual, poderá ser delegado ao particular mediante permissão, que exige licitação.
+O serviço público, em tema de licitação, ostenta um regime jurídico que chega a ser radical, porquanto o art. 175, caput, da CF/1988, usa o advérbio "sempre", o que significa dizer que, quando o Estado opta pela prestação indireta do serviço público, mediante concessão ou permissão, só pode fazê-lo por licitação. Esse procedimento tem como objetivo selecionar, dentre os interessados e habilitados, a proposta mais vantajosa para a Administração Pública.
+A discussão sobre a permissão do serviço de táxi sem prévio procedimento licitatório está ligada aos princípios da legalidade, moralidade, publicidade, impessoalidade e eficiência, norteadores da Administração (arts. 37, caput e inciso XXI, e 175, da CF/1 988).
+É incontroverso o fato de que o Município de Divinópolis não realizou procedimento licitatório para a concessão das permissões/autorizações para a prestação do serviço de transporte individual de passageiros por táxi, em evidente afronta aos princípios constitucionais da Administração Pública. (..)
+(..)
+Noutro giro, a Lei nº 3.955/1996, que dispõe sobre o serviço público destinado a transporte individual de passageiros, por táxi, no Município de Divinópolis, estabeleceu que os serviços de táxi são serviços públicos e prevê a obrigatoriedade de licitação. Vejamos:
+"Art. 1º O transporte individual de passageiros em táxis, no Município de Divinópolis, constitui um serviço público, nos termos do Art. 189 da Lei Orgânica, a ser prestado mediante delegação da Prefeitura Municipal de Divinópolis, de acordo com as condições estabelecidas nesta Lei, observadas as determinações contidas na Lei Federal número 8.987, de 14 (catorze) de fevereiro de 1995.
+Parágrafo único. E de competência da SEMSUR - Secretaria Municipal de Serviços Urbanos planejar, organizar, dirigir, coordenar, executar, delegar e controlar a prestação de serviços públicos de táxi em Divinópolis".
+"Art. 2º Para os fins desta Lei, considera-se:
+I - Permissão: ato administrativo discricionário e unilateral, pelo qual o Município de Divinópolis, por intermédio de licitação, delega a terceiros a execução do serviço público de transporte individual de passageiros, por táxi, nas condições estabelecidas nesta Lei;
+(..)".
+A determinação para licitar e rever as concessões deferidas é de competência do Município. Todavia, qualquer ato administrativo comissivo ou omissivo que cause dano está sujeito à apreciação do Judiciário, sendo perfeitamente possível a condenação do Ente Público à obrigação de fazer ou não-fazer. A omissão no cumprimento dessa norma lesa o patrimônio público sob o ângulo material (perdas e danos) ou imaterial (lesão aos princípios da administração pública).
+Insta consignar que a correção dessa ilegalidade não constitui ato discricionário, sim vinculado, porquanto, além da opção prioritária ter sido feita pelo legislador constituinte, a escolha que cabe ao Administrador adotar é a tendente a alcançar soluções enquadradas na legalidade, com vistas postas no interesse público.
+Dito isso, extrai-se da Lei Municipal nº 3.955/1996:
+"Art. 70 - Para os atuais permissionários, empresas permissionárias e/ou condutores cadastrados, bem como os atuais pontos de táxis, prevalecem os dispositivos do inciso XXXVI do Ad. 50 (quinto) da Constituição Federal".
+O Órgão Especial deste Sodalício rejeitou a preliminar de não conhecimento do Incidente de Arguição de Inconstitucionalidade, por maioria, e, no mérito, em controle difuso, declarou a inconstitucionalidade do ad. 70 da Lei Municipal nº 3.955/1996, também por maioria. (..)
+(..)
+Enfim, o artigo retro mencionado (art. 70 da Lei Municipal nº 3.955/1996), por violar frontalmente os arts. 37 e 175, ambos da CF/1988, bem como os dispositivos da Lei Federal nº 8.987/1995, afastando a necessidade de licitação em determinadas hipóteses, foi considerado inconstitucional pelo Órgão Especial deste egrégio Tribunal de Justiça, não podendo, portanto, ser utilizado para justificar a atuação do Poder Público ou conferir direitos a permissionários e condutores.
+Importa ressaltar que o art. 175 da CF/1988 constitui norma constitucional originária, isto é, foi promulgada pelo Poder Constituinte Originário, contra a qual não se pode alegar direito adquirido. Mutatis mutandis, sobre o tema, destaca-se da precedência do Supremo Tribunal Federal, em sede de decisão monocrática: Recurso Extraordinário nº 1.172.349-AM, Relator Ministro Roberto Barroso, j. 27.02.2019, DJe-045, DIVULG. 06.03.2019, PUBLIC. 07.03.2019. (e-STJ fls. 3640/3647)
+E complementou no julgamento dos embargos de declaração:
+(..)
+Os embargantes alegam que o acórdão hostilizado não analisou o pedido alternativo feito em sede de contrarrazões ao recurso voluntário, consistente na "manutenção dos atuais permissionários do serviço de táxis de Divinópolis, tendo em vista que muitos dos atuais permissionários, se investirem em tal atividade, através de autorização da Municipalidade, muito antes até mesmo da entrada em vigor da Constituição Federal de 1988 ou da Lei que regulamentou o artigo 175 da CF/88". (sic  f. 3.388).
+Razão não lhes assiste, data venia, diante do que restou expendido no acórdão hostilizado, do qual se extrai o seguinte excerto:
+(..)
+Assim, é notório que, tratando-se de delegações de caráter precário, por natureza, não há falar em direito adquirido à autorização ou à permissão concedidas antes da entrada em vigor da Constituição Federal de 1988. O acórdão é de clareza solar ao determinar a inconstitucionalidade do afastamento da necessidade de licitação, impossibilitando a procedência do pedido alternativo dos embargantes, realizado em sede de contrarrazões.
+De fato, inexiste o vício apontado, pretendendo os embargantes, na verdade, a reforma do decisum, o que não se revela possível por meio dos declaratórios.
+Pois bem.
+A irresignação recursal não merece acolhida.
+Observa-se que, a despeito dos recorrentes apontarem violação a dispositivos infraconstitucionais, o Tribunal de origem apreciou a questão sob enfoques constitucionais - princípios da legalidade, moralidade, publicidade, impessoalidade e eficiência, norteadores da Administração (arts. 37, caput e inciso XXI, e 175, da CF/1988).
+A revisão de tais fundamentos conforme a pretensão recursal não é possível na via eleita, tendo em vista que o recurso especial é a via destinada a analisar ofensa à legislação infraconstitucional federal, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal definida constitucionalmente. Por conseguinte, afasta-se a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO INDENIZATÓRIA. LEGITIMIDADE PASSIVA AD CAUSAM DO TITULAR DO CARTÓRIO. FUNDAMENTAÇÃO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. EXTRAPOLADA A ESTREITA VIA DO RECURSO ESPECIAL.
+1. No caso dos autos, a questão foi resolvida com base em fundamento eminentemente constitucional, qual seja, o da existência de responsabilidade objetiva do Estado, prevista no art. 37, § 6º, da Constituição Federal, a afastar a legitimidade passiva das oficiais de cartório. Assim, a matéria é insuscetível de análise na via do recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.076.232/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ademais, infere-se ainda que o Tribunal de origem decidiu a controvérsia após detida análise da Lei Municipal nº 3.955/1996, que dispõe sobre o serviço público destinado a transporte individual de passageiros, por táxi, no Município de Divinópolis, que estabeleceu que os serviços de táxi são serviços públicos e prevê a obrigatoriedade de licitação, o que atrai a incidência do óbice sumular 280/STF, uma vez que para a revisão do julgado, necessariamente, demandaria exame da referida legislação local, inviável na via do especial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DO STF. ACÓRDÃO COMBATIDO. INTERPRETAÇÃO DE NORMA LOCAL. SÚMULA 280/STF. ART. 1.032 DO NCPC. INAPLICABILIDADE. PROVIMENTO NEGADO.
+ ..
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+3. A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise do art. 51 da Lei municipal 846/2009, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal.
+4. A regra contida no art. 1.032 do CPC diz respeito à hipótese em que a parte recorrente, por equívoco, maneja recurso especial visando atacar fundamento constitucional existente no acórdão recorrido, o que não é o caso dos autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.198.221/PB, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Diante do exposto, no exercício do juízo de retratação do agravo interno, reconsidero os termos da decisão monocrática lavrada às fls. 3973/3980 (e-STJ) e, de acordo com a fundamentação acima exposta, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários recursais porquanto não arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PERMISSÃO DE SERVIÇO PÚBLICO DE TÁXI. NECESSIDADE DE PRÉVIA LICITAÇÃO. FUNDAMENTAÇÃO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. AGRAVO INTERNO PROVIDO PARA, EM JUÍZO DE RECONSIDERAÇÃO, ANULAR A DECISÃO AGRAVADA, E CONHECER DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
