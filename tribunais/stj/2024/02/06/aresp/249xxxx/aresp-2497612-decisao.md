@@ -1,0 +1,33 @@
+DECISÃO
+Na origem, trata-se de embargos à execução fiscal. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 41.575,68 .
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+ADMINISTRATIVO. INMETRO. AUTO DE INFRAÇÃO. MULTA. FIXAÇÃO EM MONTANTE SUPERIOR AO MÍNIMO LEGAL PRESUNÇÃO DE LEGALIDADE E LEGITIMIDADE DO ATO ADMINISTRATIVO NÃO AFASTADA. APELO IMPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Em outras palavras, o ato administrativo de imposição de multa pela autarquia demandada constitui ato administrativo vinculado que goza da presunção de veracidade e legitimidade, que, para ser elidida, necessita da comprovação acerca da existência de vícios, desvios ou abuso de poder, o que não se constatou no presente caso.
+ ..
+Além disso, como bem pontou o magistrado a quo, é de se destacar que a multa aplicada refere-se a um conjunto de cinco infrações.
+Saliente-se que fundamentação sucinta não se confunde com fundamentação insuficiente ou inexistente.
+Ademais, no que se refere à fixação do tipo de penalidade oud o quantum da multa aplicada, são atribuídos poderes discricionários à autoridade fiscalizadora. Em tais atos, desde que a lei confie à Administração a escolha e a valoração dos motivos e do objeto correspondentes, não cabe ao Poder Judiciário rever os critérios adotados pelo administrador, porquanto não há padrões de legalidade para aferir essa atuação.
+ ..
+Destaco que no citado julgado as razões para elevação da multa acima do mínimo legal foram, assim como no presente caso, a reincidência e o reflexo da conduta nas relações de consumo, conforme conclusões a seguir transcritas, extraídas do voto condutor do acórdão:
+ ..
+Quanto ao ponto, a parte embargante alega que os exames não foram realizados na temperatura ambiente exigida pela Norma NIE- DIMEL 026de 2011 e, consequentemente, o produto foi analisado em condições que comprometem por completo o resultado da análise. Sustenta que a referida norma do INMETRO exige que o exame deve ser realizado a uma temperatura entre 20º e 25º graus Celsius, uma vez que o produto deve ser examinado nas mesmas condições em que é comercializado. Além disso, alerta que o item 9.3da mesma normativa dispõe que as temperaturas do produto e do ambiente no momento de realização do exame deve constar obrigatoriamente no laudo técnico:
+ ..
+No presente caso, observa-se nos laudos que a temperatura ambiente foi indicada em todos os exames, estando sempre entre 20ºC e 25ºC,em conformidade com a norma invocada pela embargante (processo 5016722-31.2017.4.04.7000/PR, evento 1, PROCADM5, p. 3; processo 5016722-31.2017.4.04.7000/PR, evento 1, PROCADM4, p. 3 e 5; processo 5016722-31.2017.4.04.7000/PR, evento 1, PROCADM6, p. 3 e 6).
+Nesse contexto, como bem pontuou o Juiz de primeiro grau, "a indicação apenas da temperatura ambiente por ocasião da realização dos exames, e não a do produto em si, não constitui elemento hábil a nulificar o respectivo resultado".
+Com efeito, ainda que o procedimento preveja que a temperatura do produto também deva ser anotada no laudo, inexiste o dever de que tal temperatura esteja em um certo patamar, tal como ocorre com a temperatura ambiente, que deve estar entre 20ºC e 25ºC. Assim, não se vislumbra qualquer prejuízo concreto na ausência de tal anotação.
+ ..
+Inicialmente, a existência de prejuízo ao consumidor, nos termos do art. 9º, § 1º da Lei nº 9.933/99, não é condição para a aplicação da pena de multa, mas apenas para a gradação da referida pena.
+De outro lado, não há nos laudos nenhuma indicação de que as diferenças encontradas refiram-se apenas à salmoura do produto, e não às azeitonas em si, de modo que não há como acolher a alegação de que não houve diferenças de medida em relação ao peso do produto drenado.
+Por fim, vale ressaltar que o próprio exame já possui uma margem de tolerância, indicando pesos mínimos - individual e médio - aceitáveis, de modo que, se houve reprovação, as diferenças não foram tão insignificantes como faz crer a apelante.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
