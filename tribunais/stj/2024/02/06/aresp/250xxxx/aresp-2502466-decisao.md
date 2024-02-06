@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS GLEISSON GOMES RIBEIRO contra decisão que negou seguimento ao recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Piauí.
+Consta dos autos que o ora agravante foi pronunciado como incurso no art. 121, § 2º, incisos II e IV, do Código Penal.
+Irresignada, a defesa interpôs recurso em sentido estrito objetivando a impronúncia ou o afastamento das qualificadoras, contudo, o Tribunal a quo concluiu por negar provimento ao recurso, nos termos do acórdão assim ementado e-STJ fls. 565:
+EMENTA: PENAL E PROCESSUAL PENAL - RECURSO EM SENTIDO ESTRITO -PRONÚNCIA - HOMICÍDIO QUALIFICADO (ART. 121, § 2º, II E IV, DO CP) - IMPRONÚNCIA - EXCLUDENTE DE ILICITUDE DA LEGÍTIMA DEFESA - IMPOSSIBILIDADE - EXCLUSÃO DAS QUALIFICADORAS - IMPOSSIBILIDADE - RECURSO CONHECIDO E IMPROVIDO.
+1 -A decisão de pronúncia encerra mero juízo de admissibilidade para submissão do recorrente a julgamento pela Corte Popular, daí porque basta o reconhecimento da materialidade delitiva e dos indícios de autoria ou de participação;
+2 - Nesse momento processual, admite-se a impronúncia somente quando a vertente defensiva esteja revestida de produção probatória plena, robusta e incontroversa, vale dizer, sem qualquer dúvida acerca da tese invocada, do contrário implicaria usurpação da competência do Tribunal do Júri. Precedentes;
+3 - Da análise da prova oral carreada aos autos, especialmente dos depoimentos prestados pelas testemunhas, conclui-se pela inexistência de prova plena da tese da legítima defesa, cabendo então ao Conselho de Sentença a apreciação da matéria;
+4 - In casu, mostra-se possível a manutenção das qualificadoras, nesta fase processual, uma vez que existe a versão inicial de que o recorrente teria efetuado disparo de arma de fogo na vítima indefesa, impossibilitando a sua defesa e por motivo fútil (suposta ameaça). Precedentes;
+5 - Recurso conhecido e improvido..
+No recurso especial, a defesa aponta violação dos arts. 25 e 121 do Código Penal. Sustenta ser o caso de reconhecimento da legítima defesa, ou subsidiariamente de decote das circunstâncias qualificadoras, considerando que a vítima fazia ameaças à vida do recorrente.
+O recurso teve seu seguimento negado pelo Tribunal de origem por incidência de óbices prescritos em Súmulas desta Corte Superior.
+No agravo, o recorrente insiste na presença dos pressupostos de admissibilidade do recurso especial.
+O Ministério Público Federal se manifestou, às e-STJ fls. 653/659, pelo desprovimento do recurso.
+É o relatório. Decido.
+O agravo é cabível, tempestivo, e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+No caso, a Corte estadual respaldou a conclusão da decisão de pronúncia, com as qualificadoras indicadas, frisando que há prova da materialidade e indícios suficientes de autoria, havendo dúvidas acerca das teses de legítima defesa e de improcedência das qualificadoras apontadas na denúncia.
+Assim sendo, o Tribunal a quo, soberano na análise do conjunto fático-probatório, concluiu pela confirmação da sentença de pronúncia por visualizar a presença dos elementos indicativos do crime de competência do Tribunal do Júri.
+No ponto, insta frisar que o afastamento de qualificadoras, na primeira fase dos crimes afetos à competência do Tribunal do Júri limita-se às hipóteses em que elas se revelam manifestamente dissociadas dos elementos probatórios colhidos na instrução, visto que compete ao Conselho de Sentença deliberar sobre o seu acolhimento ou não.
+Do mesmo modo, não havendo demonstração inequívoca acerca da tese defensiva de legítima defesa, a questão deve ser submetida ao Tribunal do Júri.
+Dessa forma, havendo dúvida sobre a tese de legítima defesa e não sendo manifestamente improcedente a incidência das qualificadoras do art. 121, § 2º, incisos II e IV, do Código Penal, deve ser preservada a competência do Tribunal do Júri na sua apreciação. Com efeito, compete ao juiz natural da causa dirimir eventual dúvida acerca da dinâmica dos fatos.
+Ademais, para alterar a conclusão a que chegaram as instâncias ordinárias, como requer a parte recorrente, seria imprescindível o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Como é de conhecimento, a análise de eventual violação da norma infraconstitucional não pode demandar o revolvimento fático-probatório, porquanto as instâncias ordinárias são soberanas no exame do acervo carreado aos autos. Destarte, não é dado a esta Corte Superior se imiscuir nas conclusões alcançadas pelas instâncias ordinárias, com base no conjunto probatório trazido aos autos, acerca da existência de elementos hábeis a submeter ao Júri a análise do crime imputado.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO MONOCRÁTICA AGRAVADA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 619 DO CPP. NÃO OCORRÊNCIA. LEGÍTIMA DEFESA E QUALIFICADORA. IMPOSSIBILIDADE DE ANÁLISE. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Com os aclaratórios opostos na origem, a agravante pretendeu veicular mero inconformismo. A jurisprudência deste Superior Tribunal, entretanto, é firme no sentido que essa não é a via adequada para nova impugnação do mérito.
+III - Para se reconhecer que a agravante haveria agido em legítima defesa, seria necessário acurado reexame do conjunto fático- probatório, vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+IV - Somente é cabível a exclusão das qualificadoras, na decisão de pronúncia, quando manifestamente improcedentes, pois cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.681.503/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/4/2023, DJe de 17/4/2023).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DESCRITO NO ART. 121, § 2º, I E IV, C/C O ART. 29, AMBOS DO CP. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. RECURSO DE APELAÇÃO. TESE DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. ALTERNATIVAMENTE, RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA, COM APLICAÇÃO DA REDUÇÃO NA DOSIMETRIA DA PENA IMPOSTA. PROVIMENTO NEGADO. AJUIZAMENTO DE REVISÃO CRIMINAL. INDEFERIMENTO PELO TRIBUNAL A QUO. PREVALÊNCIA DA CONDENAÇÃO ORIGINAL. PRESERVAÇÃO DA COMPETÊNCIA DO CONSELHO DE SENTENÇA. PLEITO DE EXCLUSÃO DAS QUALIFICADORAS (MOTIVO TORPE E RECURSO QUE DIFICULTA A DEFESA DA VÍTIMA). INAPROPRIAÇÃO DO TEMPO. PROVIDÊNCIA PERMITIDA APENAS NOS CASOS DE SEREM MANIFESTAMENTE IMPROCEDENTES, POR OCASIÃO DA SENTENÇA DE PRONÚNCIA. INVERSÃO DO QUANTO DECIDIDO SOBRE A CARACTERIZAÇÃO E A PERTINÊNCIA DAS QUALIFICADORAS. INADMISSIBILIDADE NA VIA ELEITA. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. PRECEDENTES DESTA CORTE SUPERIOR. INEVIDÊNCIA DE ILEGALIDADE.
+Agravo regimental improvido.
+(AgRg no HC n. 335.223/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 14/2/2022).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
