@@ -1,0 +1,9 @@
+DECISÃO
+Em análise, conflito negativo de competência instaurado nos autos de execução fiscal ajuizada pelo Conselho Regional de Administração da Bahia - CRA/BA contra Valter Oliveira de Santana.
+O Juiz Federal da 18ª Vara de Salvador - SJ/BA, ora suscitado, perante o qual foi inicialmente ajuizada a execução fiscal, declinou, de ofício, da competência para o processamento e julgamento do feito executivo, e determinou a remessa dos autos à Seção Judiciária do Estado de Alagoas, ao entendimento de que o executado reside atualmente em Maceió/AL.
+O Juiz Federal da 5ª Vara de Maceió - SJ/AL, por sua vez, suscitou o presente conflito, considerando que, "não obstante o foro competente para o ajuizamento da execução fiscal seja o foro do domicilio do réu (art. 46, § 5º, CPC/15), trata-se de competência territorial, sendo essa relativa e assim, não pode ser suscitada de oficio pelo Magistrado ou a qualquer tempo no curso do processo".
+É o relatório. Decido.
+Nos termos da Súmula 33/STJ, "a incompetência relativa não pode ser declarada de ofício". Analisando hipóteses análogas, envolvendo conflitos negativos de competência entre Juízes Federais, na vigência do CPC/2015, a Primeira Seção do STJ não tem aplicado o REsp repetitivo 1.146.194/SC, concluindo que, tratando-se de execução fiscal ajuizada perante Juízo Federal de localidade diversa da do domicílio do executado, sede de Vara da Justiça Federal, a competência é relativa, na forma dos arts. 64 e § 1º, e 65 do CPC/2015 e da Súmula 33/STJ, não podendo ser declarada, de ofício, pelo Juiz (STJ, AgInt no CC 170.216/MG, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe de 18/12/2020).
+Isso posto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito, para declarar competente o Juiz Federal da 18ª Vara de Salvador - SJ/BA, ora suscitado .
+Publique-se.
+EMENTA
