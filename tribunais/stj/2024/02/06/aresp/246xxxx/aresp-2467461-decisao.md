@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PIRAHY ALIMENTOS LTDA à decisão de fls. 478/479 que não conheceu do recurso.
+Sustenta a parte embargante que:
+1. O agravo em recurso não foi conhecido por se entender que é intempestivo. No entanto, a recorrentejuntou documentos e certidão do Tribunal de Justiça do Rio Grande do Sul em razão da indisponibilidade do sistema do Portal do Processo Eletrônico -PPE, que não foi possível o protocolo do recurso em 10/agosto. No dia 11/agosto, apenas à tarde foi possível realizar o protocolo, sendo que com a atualização do sistema a recorrente verificou a juntada do recurso duas vezes, e o setor da distribuição do Tribunal os anexou juntos noprocesso.
+2. Ao interpor o recurso comprovoua abertura de chamado junto ao setor responsável pelo sistema do Tribunal de Justiça para solucionar o problema de indisponibilidade e fornecer certidão para comprovação da impossibilidade de acesso e protocolo em 10/agosto. A solicitação foi atendidae fornecida em 15/agostoa certidãocomprovando que o sistema estava indisponível, e a recorrente juntouem 17/agosto porque foi quando o recurso (que é cadastrado e recebe outro número no Tribunal de Justiça a quo)foi distribuído, havendo acesso pela recorrente para juntada de manifestação.
+3. Porém, omissa a decisão porque nada decidiu sobre a questãode força maiortrazida aos autos relativamente a impossibilidade de acesso ao sistema eletrônico para protocolono recurso. Omissa também à luz do que dispõe o art. 10, §§ 1º e 2º, da Lei 11.419/2006, que dispõe que é tempestivo o recursointerpostopor meio eletrônico até as 24 horas do último dia e, havendo indisponibilidade do sistema,o prazo fica automaticamente prorrogado para o dia seguinte. Da mesma forma, omissa a decisão à luz do disposto no art.223, 1º do CPC, de que é assegurada à parte provar de que o ato não foi realizado por justa causa, considerando-se justa causa o evento alheio à vontade da parte e que a impediu de praticar o ato por si ou por mandatário (fl. 482).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Assiste razão à parte embargante.
+De fato, mediante nova análise dos autos, verifica-se que a parte recorrente comprovou às fls. 422/436 a indisponibilidade do sistema no dia 10/08/2023.
+Portanto, intimada a parte recorrente da decisão agravada em 20/07/2023, e tendo comprovada a indisponibilidade do sistema (fls. 422/436), é tempestivo o recurso apresentado no dia 11/08/2023, uma vez que interposto dentro do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Ante o exposto, acolho os embargos de declaração, conferindo-lhes efeitos infringentes, para tornar sem efeito a decisão embargada, e determino a distribuição dos autos.
+Publique-se. Intimem-se.
+ EMENTA
