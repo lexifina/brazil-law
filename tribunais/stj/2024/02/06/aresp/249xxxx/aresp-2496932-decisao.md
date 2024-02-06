@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por VANDERLEI MORGENSTERN contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMINATÓRIA. CONTRATO DE ARRENDAMENTO RURAL. PEDIDO DE TUTELA DE URGÊNCIA CONSUBSTANCIADO NA REATIVAÇÃO DE SUA INSCRIÇÃO ESTADUAL PARA A EMISSÃO DE NOTAS FÍSICAS COM RESTABELECIMENTO/REATIVAÇÃO DA INSCRIÇÃO ESTADUAL. AUSÊNCIA DOS REQUISITOS LEGAIS PARA CONCESSÃO DA LIMINAR. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+Não foram opostos embargos de declaração.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação dos arts. 300, 320, 321, parágrafo único, 334 e 373, I, do Código de Processo Civil, argumentando que restou suficientemente comprovada a regularidade do arrendamento de imóvel rural a permitir a concessão em caráter liminar de pedido de reativação da sua inscrição estadual para exercício da atividade rural.
+Houve contrarrazões ao recurso especial (e-STJ fls. 235/243).
+O Tribunal de origem inadmitiu o recurso especial pela incidência das Súmulas n. 735/STF e 7/STJ.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 284/290).
+É o relatório. Decido.
+Impugnados os fundamentos de inadmissibilidade, passo ao exame do apelo nobre.
+A insurgência não merece prosperar.
+Ao enfrentar a controvérsia posta, o acórdão recorrido fundamentou que (e-STJ fls. 172/173):
+Do compulsar dos Autos, em especial dos documentos anexados na origem, não se vislumbra os elementos que evidenciem a probabilidade do direito do agravante, uma vez que, conforme DESPACHO/sefaz /AA/PA nº 475/2020 extraído do Processo Administrativo nº 2020/6270/500141 (evento 1DEC7: autos originários, o imóvel rural objeto do contrato de arrendamento possui averbações de indisponibilidades por decisões judiciais.
+Ademais, conforme ponderou o Ente Estadual agravado, "a parte autora não conseguiu fazer prova de que seu arrendamento é regular. Em que pese alegar que pode ser celebrado arrendamento do imóvel mesmo com restrições judiciais, é sabido que constrição judicial pode, sim, impedir esse tipo de negócio jurídico".".(Destaquei)
+Ademais, a parte agravante não conseguiu nem se desincumbir de seu ônus de provar qualquer vício contido no ato administrativo.
+Com efeito, é imperioso reconhecer que decidiu com cautela o Magistrado singular pois a prova produzida pelo agravante ainda depende de grande apreciação e demais esclarecimentos que demandam análise sob a ótica do contraditório e ampla defesa.
+ ..
+Por fim, e não menos importante, imperioso destacar que, dada a complexidade da matéria, e o fato de que o objeto recursal se confunde com o mérito, a cognição exauriente, por sua vez, deve ser deixada para momento posterior, exercendo-se, então, o juízo de certeza, ressaltando que questões aparentemente nebulosas ou até controversas poderão ser elucidadas com propriedade no decorrer da instrução processual.
+Dessa maneira, diante da ausência da probabilidade do direito, e de prova suficiente sobre a da regularidade de seu arrendamentos, o pedido do recorrente, por ora não merece acolhimento.
+Decidida a questão à luz das provas dos autos, eventual alteração da conclusão a que chegou a Corte local exigiria o reexame do acervo fático-probatório dos autos, providência que esbarra na Súmula n. 7/STJ.
+Ademais, incide o óbice da Súmula n. 735 do STF, tendo em vista que não cabe recurso especial em face do juízo precário realizado pela instância ordinária no âmbito da análise da tutela de urgência, eis que não preenchido o requisito da "causa decidida" previsto no art. 105, III, da Constituição Federal, para fins de manejo do recurso especial.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PESSOA JURÍDICA. BLOQUEIO DE ATIVOS FINANCEIROS. TUTELA DE URGÊNCIA. PODER GERAL DE CAUTELA. INCIDÊNCIA DAS SÚMULAS 7/STJ E 735/STF.
+1. Trata-se de Agravo Interno contra decisão monocrática deste Relator que conheceu do Agravo para não conhecer do Recurso Especial, ante a incidência das Súmulas 7/STJ e 735/STF.
+2. O STJ entende possível, excepcionalmente, o arresto de bens do devedor antes de sua citação na execução fiscal, desde que preenchidos os requisitos para o deferimento da tutela provisória fundada no poder geral de cautela do juiz, nos termos do art. 300 do CPC/2015. Precedentes.
+3. No caso, o Colegiado originário, para a concessão da tutela cautelar de arresto requerida, reconheceu a existência de indícios da existência de grupo econômico de fato/familiar, bem como da confusão patrimonial entre as empresas e seus respectivos sócios, capazes de lesar credores, constatando a probabilidade do direito do agravado e o perigo de dano ao resultado útil do processo executivo. A Corte local registrou, ainda, que foi observado o contraditório diferido e que o valor bloqueado não constitui única reserva financeira da agravante. Considerando tais premissas fáticas, não há como se alterar o julgado sem o revolvimento de fatos e provas, inviável nesta instância extraordinária, em razão do óbice da Súmula 7/STJ.
+4. Ademais, a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência.
+Precedentes.
+5. Acrescente-se que esta Corte Superior, em sintonia com o disposto na Súmula 735/STF, entende que, via de regra, não é cabível Recurso Especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, por não representar pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeito a modificação a qualquer tempo (AgInt no AREsp 1.645.228/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3.5.2022.) 6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.194.883/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2023, DJe de 28/6/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIA. COMPROVAÇÃO DA REGULARIDADE DO ARRENDAMENTO DE IMÓVEL RURAL. SÚMULAS N. 7/STJ E 735/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
