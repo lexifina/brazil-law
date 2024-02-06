@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDVALDO ELIAS DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE DÉBITO C/C PEDIDO DE TUTELA PROVISÓRIA E INDENIZAÇÃO POR DANOS MORAIS. DÉBITO DECORRENTE DE POSSÍVEL IRREGULARIDADE PROMOVIDA PELO CONSUMIDOR NO APARELHO DE MEDIDOR DE ENERGIA ELÉTRICA. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE OS PEDIDOS PARA DECLARAR A NULIDADE APENAS DA COBRANÇA DA DIFERENÇA DE FATURAMENTO. CONCESSIONÁRIA QUE NÃO PRODUZIU LAUDO PERICIAL POR MEIO DE ÓRGÃO COMPETENTE IMPARCIAL. ART. 129 E 130 DA RESOLUÇÃO 414/2010. NULIDADE DO PROCEDIMENTO. PRECEDENTES DESTE TRIBUNAL. DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO. DANOS MORAIS NÃO EVIDENCIADOS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS MANTIDOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à necessidade de condenação da recorrida ao pagamento de indenização por danos morais, uma vez que a cobrança indevida enseja abalo anímico presumido, trazendo a seguinte argumentação:
+Em que pese o costumeiro acerto deste E. Juízo recorrido no julgamento das celeumas apresentadas verifica-se, claramente, que o Tribunal a quo, ao negar provimento ao recurso de apelação, contrariou o que dispõem os arts. 186 e 927 do CC, porquanto não reconheceu o direito concedido pela Lei.
+ ..
+Em verdade, busca-se assegurar a possibilidade de compensação e reparação em virtude dos danos causados ao recorrente ocasionados pela cobrança indevida cometida pela parte ré.
+ ..
+Desta feita, resta cristalino o abalo emocional da parte recorrente, eis que acreditou na segurança e lisura da contraprestação dos serviços no fornecimento de energia elétrica, este de suma importância para o consumidor, parte mais vulnerável desta relação de consumo.
+Assim, temendo a interrupção do serviço de energia e a inscrição do seu nome nos órgãos de proteção ao crédito, o recorrente logo ajuizou a presente demanda e, apenas por esse motivo, não teve o serviço cortado e nem o nome colocado nos órgãos de proteção ao crédito.
+ ..
+Na situação dos autos, embora tenha ratificado a inexistência do débito abusivo, o E. Tribunal de Justiça de Alagoas manteve o posicionamento no sentido de que a ausência de suspensão do serviço e a inexistência de negativação afastam o dever de indenizar.
+No entanto, sopesando os fatos apresentados, percebe-se que o dano moral aqui é presumido decorrente da força dos próprios atos, visto que advém de uma relação de consumo em que o fornecedor do serviço possui responsabilidade objetiva. Sendo o abalo moral presumido, não se faz necessária a apresentação de provas que demonstrem a ofensa à índole do consumidor, ao contrário do entendimento firmado pelo Tribunal a quo.
+ ..
+Frente ao que se expõe, fácil perceber que o posicionamento adotado pelo Tribunal local se contrapõe ao que preconizam os arts. 186 e 927, ambos do CC e a jurisprudência dominante no Superior Tribunal de Justiça, vez que não reconheceu o direito à indenização em razão de cobrança indevida da recorrida que ocasionou danos morais à recorrente (fls. 356- 360).
+É, no ess encial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+26 Por outro lado, quanto ao dano moral pleiteado pelo autor, consubstanciado na alegação de "aborrecimento e incômodo causado ao consumidor ao ser obrigado ao pagamento de dívida imposta de forma ilegal e arbitrária", destaca-se que, em regra, a mera cobrança indevida não enseja dano moral. No caso dos autos, não há comprovação de que a distribuidora, ora apelada, agiu de modo a causar ofensa de ordem moral ao apelante, isso porque não houve a suspensão do serviço de energia elétrica, inclusive em razão do deferimento da tutela de urgência, conforme decisão de fls. 57/65.
+ ..
+28 Pelo exposto, revelam-se insuficientemente demonstrados os requisitos configuradores da responsabilidade civil por danos morais (fls. 344- 345).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
