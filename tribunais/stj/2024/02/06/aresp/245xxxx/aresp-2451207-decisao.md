@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interposto por LAURA EMILIA CALFAT CHAMMAS contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 176):
+AGRAVO INTERNO Decisão agravada não concedeu efeito ativo-suspensivo ao recurso de agravo de instrumento Ausentes elementos que demonstrem a probabilidade do direito Não evidenciado o risco de dano grave ou de difícil reparação RECURSODA EMBARGANTE IMPROVIDO
+Nas razões do recurso especial (fls. 180-194), aponta a parte recorrente ofensa ao disposto no art. 678 do Código de Processo Civil, sustentando que o magistrado está obrigado a suspender as medidas constritivas sobre o bem litigioso.
+Oferecidas contrarrazões (fls. 199-231), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 232-234), o que ensejou a interposição do presente agravo (fls. 237-251).
+Sem contraminutas do agravo (fl. 253).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.571.882/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/7/2020; AgInt no REsp 1.830.644/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/6/2020; AREsp 1.610.726/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/6/2020; AgInt no AREsp 1.621.446/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; AgInt no AREsp 1 .571.937/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020.
+Ademais, conforme reiteradamente decidido no âmbito desta Corte Superior, a verificação, ou não, dos requisitos para a concessão de liminar ou de tutela antecipada demanda, em regra, a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+A propósito, cito: AgInt no REsp n. 2.032.386/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/6/2023, DJe de 3/7/2023; AgInt no AREsp n. 2.242.933/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023; AgInt no AREsp n. 2.253.702/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023; AgInt no AREsp n. 2.117.485/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
