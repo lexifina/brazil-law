@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por ROBERTA RAYANE DE SALES MENDES desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0633072-81.2023.8.06.0000).
+Depreende-se dos autos que a recorrente foi condenada à pena de 17 (dezessete) anos e 2 (dois) meses de reclusão e encontra-se em custódia preventiva pela prática dos delitos de tráfico de drogas, associação para para o tráfico e organização criminosa (e-STJ fls. 13/78).
+Impetrado prévio writ na origem, a ordem foi denegada, em acórdão assim ementado (e-STJ fl. 140):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. PEDIDO DE SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. MULHER COM FILHA MENOR DE DOIS ANOS. INDEFERIMENTO. PERICULOSIDADE DA PACIENTE EVIDENCIADA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. SÚMULA 52 DO TJCE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. INADEQUAÇÃO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. No que diz respeito ao pedido de prisão domiciliar, a Lei n. 13.257/16 acrescentou ao artigo 318, do Código de Processo Penal, o inciso V, o qual prevê que o juiz poderá realizar a substituição da prisão preventiva por domiciliar de mulher com filho de até 12 (doze) anos de idade incompletos.
+2. No caso concreto, a concessão da prisão domiciliar não é recomendável, uma vez que a paciente responde a outro processo, pelo mesmo crime. Nesse contexto, as circunstâncias que se apresentam tornam preponderante a necessidade de manutenção da custódia cautelar da paciente, visto que não atende os requisitos para a concessão da prisão domiciliar, bem como apresenta risco concreto de reiteração delitiva. Aplicação da Súmula 52/TJCE.
+3. No que concerne à substituição por medidas cautelares diversas, estas se apresentam inadequadas e ineficientes, frente à periculosidade social do agente. Assim, o decreto segregador mostra-se proporcional, sendo materialmente necessário para a salvaguarda da ordem social e da aplicação da lei penal.
+4. Constrangimento ilegal não configurado. Ordem conhecida e denegada.
+Daí o presente recurso ordinário, no qual sustenta a defesa que "não há razões para o indeferimento da concessão da custódia domiciliar à requerente, já que é mãe de filho menor com 04 anos, que diante de uma análise perfunctória resta demonstrado que a paciente não é PORTADORA DE MAUS ANTECEDENTES, com isso, não se faz necessário realizar dilação de prova bastando compulsar os autos para se chegar à conclusão em que em nenhum momento restou comprovado a qualidade de portadora de maus antecedentes, bem como não restou demonstrado pelo Ministério Público que o ambiente de convivência com o menor na residência da genitora da paciente é inapropriado e contra os interesses do menor, já que, este convive com sua vó materna desde o dia de sua prisão preventiva" (e-STJ fl. 171).
+Diante dessas considerações, pede, liminar e definitivamente, a substituição da custódia preventiva por prisão domiciliar.
+É o relatório.
+Decido.
+Depreende-se dos autos que o presente recurso é mera reiteração do pedido feito no HC n. 880.399/CE, também de minha relatoria, no qual já proferi decisão indeferindo o pedido liminar
+Ante o exposto, diante da constatação de que o presente recurso é mera reiteração, não conheço do recurso, liminarmente.
+Publique-se. Intimem-se.
+EMENTA
