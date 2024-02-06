@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO CRUZ NETO, à decisão de fls. 4227/4229, que indeferiu liminarmente os embargos de divergência.
+Em suas razões, sustenta a parte embargante que (e-STJ Fl. 4235):
+(..) um dos fundamentos trazidos à baila para o não acolhimento dos Embargos de Divergência seria o fato de não reunir condições para ser processado. (..) No entanto, não há no julgado o indicativo de tais condições de forma deduzida e pormenorizada.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão ora embargada, o embargante apresentou como paradigma julgado preferido em sede de habeas corpus.
+Consoante fixado na referida decisão o Superior Tribunal de Justiça, firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Tal restrição imposta pelo Regimento Interno do STJ tinha por fundamento, durante a vigência do CPC/73, uma interpretação sistemática do conteúdo da lei (art. 546, I, CPC/73) que revelava ser inviável comparar um recurso especial com um remédio constitucional de abrangência muito mais ampla e voltado eminentemente para a proteção de liberdades constitucionais. Tal interpretação veio a ser corroborada pelo art. 1.043, § 1º, do CPC/2015, que restringiu, expressamente, os julgados que podem ser objeto de comparação, em sede de embargos de divergência, a recursos e ações de competência originária, não podendo, portanto, funcionar como paradigma acórdãos proferidos em ações que têm natureza jurídica de garantia constitucional, como os habeas corpus, mandado de segurança, habeas data e mandado de injunção. O mesmo raciocínio vale para enunciados de súmula de tribunais. Neste sentido: AgRg nos EAREsp n. 1.243.022/DF, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/10/2018, DJe de 22/10/2018.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
