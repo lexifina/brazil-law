@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO. REGIME SEMIABERTO NA MODALIDADE DOMICILIAR. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência de ambas as turmas que integram a Terceira Seção desta Corte Superior orienta no sentido de que o art. 126 da Lei de Execução Penal assegura o direito à remição pelo trabalho ou pelo estudo a todos os condenados em regime fechado ou semiaberto, independentemente de a execução estar ocorrendo em ambiente carcerário ou em recolhimento domiciliar.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão em que conheci de agravo para negar provimento ao recurso especial acusatório, nos termos da seguinte ementa (fl. 649):
+"AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO PELO TRABALHO. REGIME SEMIABERTO NA MODALIDADE DOMICILIAR. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL."
+Nas razões do recurso especial, o Agravante afirma que o tema do recurso especial não está pacificado em precedente vinculante e reitera a tese de que "a remição é condicionada ao cumprimento de pena em ambiente prisional, próprio dos regimes fechado ou semiaberto, não sendo cabível o seu deferimento a apenados que tenham deixado aquele ambiente, seja por progressão ao regime aberto, livramento condicional ou qualquer outro motivo que importe em saída do sistema prisional" (fl. 661).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO. REGIME SEMIABERTO NA MODALIDADE DOMICILIAR. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência de ambas as turmas que integram a Terceira Seção desta Corte Superior orienta no sentido de que o art. 126 da Lei de Execução Penal assegura o direito à remição pelo trabalho ou pelo estudo a todos os condenados em regime fechado ou semiaberto, independentemente de a execução estar ocorrendo em ambiente carcerário ou em recolhimento domiciliar.
+2. Agravo regimental desprovido.
+VOTO
+O recurso não comporta provimento.
+De início, observo que, nas razões recursais, o Ministério Público estadual apontou como argumento a decisão monocrática proferida no HC n. 641.407/PR, pelo Exmo. Min. FELIX FISCHER, em 22/02/2021 (fl. 659). Contudo, em consulta ao andamento processual do referido habeas corpus, constata-se que o Exmo. Min. FELIX FISCHER, em 21/05/2021, reconsiderou a decisão citada na petição recursal, nos seguintes termos:
+"Revendo meu julgamento acerca do tema ora em questão, a concessão de remição de penas, em razão do trabalho externo realizado, aos apenados em regime semiaberto harmonizado (prisão domiciliar com monitoramento eletrônico), constata-se que esta Corte Superior de Justiça, nas duas turmas que compõem a eg. Terceira Seção, já possui entendimento sedimentado no sentido de sua possibilidade:
+ ..
+Ante o exposto, conheço do presente agravo para reconsiderar a decisão agravada, concedendo a ordem, de ofício, a fim de determinar ao d. Juízo da Execução que reaprecie o pedido de remição de penas pelo trabalho realizado pelo sentenciado durante o cumprimento de pena no regime semiaberto harmonizado. " (AgRg no HC n. 641.407, Ministro FELIX FISCHER, DJe de 25/05/2021.)
+De fato, o art. 126 a Lei de Execução Penal dispõe:
+"Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena."
+Como se vê, o texto legal adotou como critério para possibilitar a aplicação do instituto da remição o regime prisional ao qual o apenado está vinculado, nada dispondo acerca do modo de cumprimento da pena dentro do regime prisional estabelecido. O dispositivo legal não exige que o apenado esteja concretamente recluso no sistema carcerário para que seja possível a remição, não sendo possível ao intérprete criar novas condicionantes para a concessão deste direito além daquelas expressamente estabelecidas na Lei de Execução Penal.
+No caso, conforme destacado pelo Tribunal de origem, embora o Recorrido estivesse em cumprimento da pena privativa de liberdade na modalidade de recolhimento domiciliar, como medida preventiva excepcional em razão da pandemia da Covid-19, em nenhum momento ele perdeu a condição de condenado em regime semiaberto.
+A esse respeito, destaca-se a decisão da Corte estadual, in verbis:
+"A remição da pena pelo trabalho é um importante instrumento de ressocialização do condenado.
+Conforme o artigo 126 da LEP, "o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena".
+Verifica-se que a lei não fez nenhuma distinção quanto ao local em que deve ser realizada a atividade laboral. Consequentemente, não deve o julgador interpretar o texto normativo em prejuízo do réu. Assim, deve-se aceitar que a remição da pena pode ser obtida pelo trabalho interno (dentro da unidade prisional) ou externo (fora da unidade prisional).
+ ..
+No caso em tela, muito embora estivesse o apenado em cumprimento da pena no regime domiciliar, em nenhum momento ele perdeu a condição de condenado em regime semiaberto. A concessão da prisão domiciliar constituiu medida excepcional diante do grave quadro pandêmico da covid-19 que enfrentamos atualmente.
+Destarte, não há incompatibilidade entre a concessão da remição pelo trabalho e a situação do agravado. Certamente, não se mostra razoável retirar-lhe o direito de remir a sua pena pela execução da atividade laborativa simplesmente porque ele foi beneficiado de forma excepcional pela prisão domiciliar." (Fls. 527-529, sem grifos no original).
+O entendimento adotado pelo Tribunal estadual está em harmonia com a jurisprudência de ambas as turmas que integram a Terceira Seção desta Corte Superior, as quais interpretam o art. 126, da Lei de Execução Penal, no sentido de que o direito à remição pelo trabalho ou pelo estudo é assegurado a todos os condenados em regime fechado ou semiaberto, independentemente de a execução estar ocorrendo no cárcere ou em recolhimento domiciliar.
+Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE DE JUSTIÇA. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI FEDERAL VIOLADOS OU OBJETO DE DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIMENTO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 284/STF. ILEGALIDADE FLAGRANTE. CUMPRIMENTO DE PENA EM REGIME SEMIABERTO, AINDA QUE EM PRISÃO DOMICILIAR. REMIÇÃO PELO TRABALHO. POSSIBILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL DESPROVIDO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+1. O recurso especial não reúne condições de ser conhecido, pois não houve a indicação dos artigos de lei federal eventualmente violados ou objeto de dissídio jurisprudencial.
+2. Verificada a existência de ilegalidade evidente, apta a ser corrigida por meio da concessão de habeas corpus, de ofício.
+3. Ao negar o pedido de remição de pena, o acórdão impugnado divergiu da orientação jurisprudencial desta Corte Superior no sentido de que o "apenado que se encontrava vinculado ao regime semiaberto para cumprimento de pena tem o direito de remição pelo trabalho prestado extramuros, ainda que em gozo de prisão domiciliar" (AgRg no REsp n. 1.685.033/SC, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 22/5/2018, DJe de 30/5/2018).
+4. Agravo regimental desprovido. Ordem de habeas corpus concedida, de ofício, a fim de determinar ao Juízo das Execuções que reexamine o pedido de remição da reprimenda pelo trabalho, referente ao período em que o Sentenciado esteve em regime semiaberto harmonizado." (AgRg no REsp n. 2.080.294/PR, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023, sem grifos no original.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO DA PENA. VIOLAÇÃO AO ART. 126 DA LEI DE EXECUÇÃO PENAL. APENADO EM REGIME SEMIABERTO. TRABALHO. AUSÊNCIA DE VAGA NO ESTABELECIMENTO PRISIONAL. DEFERIMENTO DE PRISÃO DOMICILIAR PARA VIABILIZAR A REALIZAÇÃO DA ATIVIDADE LABORAL EXTRAMUROS. REMIÇÃO. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. O entendimento adotado pela Corte de origem encontra-se em consonância com a jurisprudência deste Sodalício, no sentido de que o apenado que se encontrava vinculado ao regime semiaberto para cumprimento de pena tem o direito de remição pelo trabalho prestado extramuros, ainda que em gozo de prisão domiciliar.
+2. Decisão mantida pelos próprios fundamentos.
+3. Agravo regimental desprovido." (AgRg no REsp n. 1.685.033/SC, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 22/5/2018, DJe de 30/5/2018, sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
