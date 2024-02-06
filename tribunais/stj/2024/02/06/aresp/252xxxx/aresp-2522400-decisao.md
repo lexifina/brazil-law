@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. IRDR 18. PROSSEGUIMENTO. POSSIBILIDADE.
+Quanto à controvérsia, a parte recorrente alega violação do art. 103, parágrafo único, da Lei n. 8.213/1991; do art. 1º do Decreto n. 20.910/1932; e do art. 3º do Decreto n. 4.597/1942, sustentando que o prazo prescricional para o cumprimento individual de capítulo de sentença que homologa acordo em ACP é contado a partir do trânsito em julgado desse conteúdo decisório, e não do trânsito em julgado da ação coletiva, não cabendo, no caso, a aplicação do CPC de 1973 para a interpretação do termo inicial da prescrição, trazendo a seguinte argumentação:
+Considerando que o v. acórdão reconheceu que a sentença homologatória do acordo firmado na ACP nº 0004911-28.2011.4.03.6183 transitou em julgado, para autorizar sua execução definitiva, a prescrição foi interrompida com a citação INSS na ACP, voltando a correr com o trânsito em julgado do capítulo da sentença que homologou o acordo (publicada em 01/09/2011). Não se trata aqui de novo prazo prescricional mas apenas da restituição daquele que havia sido interrompido com o ajuizamento da ACP, pois o prazo prescricional é único, não ocorrendo novação com o trânsito em julgado.
+Assim, o autor teria até 01/09/2016 para promover a execução do julgado.
+Como o presente pedido foi ajuizado somente em 10/2020, apura-se que prescreveu a pretensão executória, devendo ser extinto o feito com julgamento do mérito.
+Ora, uma vez reconhecido pelo acórdão recorrido o trânsito em julgado do capítulo da sentença que homologou o acordo, iniciou-se a partir daí o prazo de 5 anos para o segurado inaugurar o cumprimento individual da sentença, o que não foi observado no presente caso.
+Não merece prosperar, portanto, o entendimento adotado pelo acórdão no sentido de que a homologação do acordo se deu sob a égide do CPC anterior, em 2011, quando ainda não estava positivado o trânsito em julgado por capítulos, a exigir a espera pelo trânsito em julgado da ação para que se pudesse falar em prescrição intercorrente, uma vez que o próprio acórdão reconheceu o trânsito em julgado desse capítulo da sentença, iniciando-se, a partir de então, a fluência do prazo quinquenal para ajuizamento da execução.
+Com efeito, tendo o acórdão reconhecido o trânsito em julgado do capítulo da sentença que homologou o acordo, não é sequer razoável que, ao mesmo tempo, afaste a prescrição da pretensão executória por falta de trânsito em julgado da ação coletiva (fls. 255-256).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+A decisão inicial foi proferida nos seguintes termos:
+"(..)
+É o breve relatório. Decido.
+Da prescrição e do prosseguimento da execução
+Não há falar em prescrição da pretensão executória, se a ACP em referência, como já dito, sequer transitou em julgado. Não se pode perder de vista que a homologação do acordo se deu sob a égide do CPC anterior, em 2011, quando ainda não estava positivado o trânsito em julgado por capítulos, a exigir a espera pelo trânsito em julgado da ação para que se pudesse falar em prescrição intercorrente.
+O regime jurídico relativo ao termo inicial da prescrição, por ser referente a instituto de direito material, rege-se pela lei vigente antes da mudança operada pelo CPC. Quanto à possibilidade da execução por capítulos da sentença, porém, é questão de natureza processual, portanto, as mudanças operadas pelo CPC a afetam, já que a lei processual aplica-se aos processos em curso, relativamente aos atos processuais futuros à mudança.
+ ..
+Não vejo razão agora para modificar tal entendimento (fls. 60-64, grifo meu ).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
