@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BANCO VOTORANTIM S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 1.899):
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. EMPRÉSTIMO CONSIGNADO. CONVÊNIO ENTRE BANCO E EMPRESA. VALORES DESCONTADOS DO PAGAMENTO DE EMPREGADOS E NÃO REPASSADOS AO BANCO. DEVER DE MITIGAR PERDAS. INEXISTÊNCIA DE ATO QUE VIOLE A BOA-FÉ. MULTA COMINATÓRIA. RECURSOS CONHECIDOS E NÃO PROVIDOS. SENTENÇA MANTIDA.
+1. A empresa que celebra convênio com instituição financeira para a realização de desconto na folha de pagamento das parcelas do empréstimo consignado de seus empregados assume a obrigação de reter as quantias e as repassar para o banco credor.
+2. A Lei nº 10.800/2003 prevê que "o empregador (..) responderá como devedor principal e solidário perante a instituição consignatária por valores a ela devidos em razão de contratações por ele confirmadas na forma desta Lei e de seu regulamento que deixarem, por sua falha ou culpa, de ser retidos ou repassados" (art. 5º, §1º).
+3. O banco apelante se desincumbiu de seu ônus de provar que a empresa descumpriu o convênio, ao deixar de repassar o valor das prestações de empréstimo consignado descontadas de seus empregados.
+4. O dever de mitigar perdas é reconhecido pela doutrina e jurisprudência como decorrência do princípio da boa-fé objetiva (art. 422 do Código Civil). A sua aplicação tem como pressuposto a conduta do credor que viola deveres anexos ao contrato - como a lealdade, a confiança ou a cooperação - ao deixar de adotar providências que amenizariam suas perdas.
+5. A concessão de empréstimo é inerente à atividade empresarial do banco apelado e não caracteriza conduta viole deveres anexos ao convênio celebrado entre as partes. A aplicação do dever de mitigar perdas pressupõe a prática de ato abusivo, que viola a boa-fé objetiva, o que efetivamente não ocorreu.
+6. A multa cominatória constitui medida coercitiva e acessória, que tem por finalidade vencer a obstinação da parte demandada em descumprir o provimento judicial. Não deve ser fixada nos casos em que se verificar que a sua imposição não terá o condão de assegurar a efetivação da tutela jurisdicional.
+7. Recursos conhecidos e não providos. Sentença mantida.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 1.934):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. PROCESSUAL CIVIL. AUSÊNCIA DOS VÍCIOS DOART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+1. Os embargos de declaração não se prestam ao reexame de matéria julgada, pois seu conteúdo se limita às hipóteses delineadas no art. 1.022 do Código de Processo Civil - CPC.
+2. O mero inconformismo da parte não autoriza a integração do julgado. A reforma do acórdão deve ser pleiteada por meio do recurso cabível para essa finalidade, direcionado aos tribunais superiores.
+3. A obscuridade se configura quando algum trecho ou o conjunto do acórdão não é compreensível ou permite múltiplas interpretações, de modo que o real posicionamento do juízo é desconhecido.
+4. A fundamentação do acórdão é clara quanto aos motivos que levaram a conclusão de que os créditos se submetem a recuperação judicial.
+5. O art. 1.025 do CPC adota o prequestionamento ficto, ao dispor: "consideram-se incluídos no acórdão os elementos que a embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+6. Embargos de declaração conhecidos e rejeitados.
+Nas razões do apelo especial (e-STJ, fls. 1.947-1.959), o banco insurgente apontou ofensa ao art. 49, §3º, da Lei 11.101/2005.
+Afirmou que o Tribunal de origem teria erroneamente entendido que o valor do débito, por ser anterior ao pedido de recuperação judicial, atrairia a incidência da recuperação judicial.
+Alegou, em síntese, que o valor do qual é credor é de sua propriedade e apenas estava na posse da recorrida quando foi requerida a recuperação judicial, sendo a insurgida mera depositária dos montantes que lhe pertencem.
+Argumentou que a jurisprudência desta Corte Superior se posicionaria no sentido de que não estão sujeitos à recuperação judicial os créditos que estão apenas na posse da empresa recuperanda .
+Pugnou pelo reconhecimento de que o crédito objeto da presente ação não se submete à recuperação judicial.
+Contrarrazões às fls. 1.967-1.974 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem (e-STJ, fls. 1.977-1.979), levando o insurgente a interpor o presente agravo (e-STJ, fls. 1.984-1.992).
+Contraminuta às fls. 1.996-1.999 (e-STJ).
+Brevemente relatado, decido.
+Ao dirimir a lide, o Tribunal de Justiça do Distrito Federal e dos Territórios consignou que (e-STJ, fl. 1.904; sem grifos no original):
+A Lei de Falências e Recuperações Judiciais prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos" (art. 49, caput, da Lei nº 11.101/2005). Considera-se a data do fato gerador do crédito e não do trânsito em julgado da sentença que lhe reconheceu (REsp nº 1.843.332/RS - Tema 1.051).
+Os créditos objeto do processo são valores que o apelado reteve de seus empregados, mas não os repassou ao apelante, hipótese em que responde como devedor principal e solidário, nos termos do já citado art. 5º, § 1º, da Lei nº 10.820/2003.
+Os fatos geradores dos créditos são anteriores ao pedido de recuperação judicial, o que atrai a incidência deste regime jurídico especial. Por isso, os créditos devem ser habilitados e o seu pagamento observará o disposto no plano de recuperação.
+Além disso, a recuperação judicial tem como pressuposto uma "situação de crise econômico-financeira do devedor" (art. 47 da Lei nº 11.101/2005), o que evidencia a impossibilidade da apelada de pagar mais de dois milhões de reais imediatamente, sob pena de multa diária.
+Ademais, quando do julgamento dos embargos de declaração opostos, complementou (e-STJ, fl. 1.937):
+A fundamentação da decisão é clara quanto aos motivos que levaram à conclusão de que os créditos se submetem a recuperação judicial e de que o restabelecimento da multa apenas traria como consequência o enriquecimento do apelante, ora embargante.
+Da análise dos trechos do acórdão objurgado, nota-se que não há como afastar a conclusão estadual sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em virtude dos óbices contidos nos verbetes n. 5 e 7 da Súmula do Superior Tribunal de Justiça.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pelas recorrentes, quanto à inexistência de mora e ao dever dos agravados de pagar as despesas de IPTU do bem, ante a previsão contratual, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Segundo a jurisprudência desta Corte Superior, "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt nos EDcl no REsp n. 1.839.792/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/8/2020, DJe 17/8/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1931878/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/10/2021, DJe de 8/10/2021)
+Oportunamente, insta destacar que não se trata aqui de ser caso de revaloração da prova, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Por fim, não se pode conhecer do recurso pela alínea c, uma vez que fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal (incidindo, igualmente, no ponto, o óbice da Súmula 7/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em mais 2% (dois por cento) sobre a base de incidência fixada pelas instâncias ordinárias.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONCLUSÕES DA CORTE DE ORIGEM PAUTADAS EM FATOS E PROVAS, BEM COMO NA INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS. REVISÃO INVIÁVEL. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
