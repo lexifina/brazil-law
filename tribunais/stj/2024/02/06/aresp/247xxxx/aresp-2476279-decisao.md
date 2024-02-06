@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Ação: anulatória c/c compensação por danos morais, ajuizada por SAMUEL PEDRO DE MELO LIMA (agravado), em face de GOLD SANTORINI EMPREENDIMENTOS IMOBILIARIOS SPE LTDA (agravante), na qual alega, em síntese, que celebrou com a ré contrato particular de compra e venda de bem imóvel (apartamento e respectiva fração ideal), a ser erguido na cidade de Valparaiso de Goiás/GO. Afirma, entretanto, que o local da edificação inicialmente apresentado como sendo o do seu apartamento não restou observado. Aduz que a construção ocorreu em outro local distante e longe de suas pretensões, especialmente em relação a locomoção e transporte.
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial, em razão da:
+i) ausência de prequestionamento - Súmulas 211/STJ e 282/STF (arts. 24, 25, 26 e 27, todos da Lei 9.514/97);
+ii) prejudicialidade da análise do dissídio jurisprudencial em razão da ausência de prequestionamento; e
+iii) incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acordão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+ARESP de GOLD SANTORINI EMPREENDIMENTOS IMOBILIARIOS SPE LTDA: a par de sustentar a invasão da competência constitucional do STJ e alegar a não incidência de óbice que sequer consta na fundamentação decisão de admissibilidade (Súmula 7/STJ), não impugnou a inaplicabilidade dos seguintes óbices: ausência d e prequestionamento - Súmulas 211/STJ e 282/STF (arts. 24, 25, 26 e 27, todos da Lei 9.514/97), prejudicialidade da análise do dissídio jurisprudencial em razão da ausência de prequestionamento e incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acordão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+RELATADO O PROCESSO, DECIDE-SE.
+Necessário salientar que o afastamento do óbice deve ocorrer com a devida explicação por parte do recorrente do porquê de sua não aplicação de maneira concreta na hipótese em análise.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ, fl. 561) para 15%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
