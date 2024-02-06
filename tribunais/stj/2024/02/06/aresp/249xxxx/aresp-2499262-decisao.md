@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSELIA CARDOSO RAMOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre , fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CÍVEL - INDENIZATÓRIA - ATRASO DE QUATRO DIAS NA ENTREGA - PEDIDO DE CANCELAMENTO - DEVOLUÇÃO DOS VALORES REALIZADO PELA EMPRESA - INEXISTÊNCIA DE DANO MORAL.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 14 do CDC; 186 e 944 do CC, no que concerne à necessidade de condenar a recorrida ao pagamento de indenização pelos prejuízos causados e por danos morais, eis que prestou um serviço defeituoso, pois, a mercadoria que a recorrente comprou nunca chegou na sua residência e foi entregue para um terceiro, trazendo a seguinte argumentação:
+Dessa maneira, é extremamente ínfimo e viola o art. 14 do CDC, vez que a responsabilidade civil da Recorrida restou comprovada, pois a Recorrida é quem causou danos a Recorrente, tendo em vista que a reparação civil pelos danos causados é de inteira responsabilidade da Recorrida que prestou um serviço defeituoso.
+Neste primórdio a quantia supracitada consolida-se inferior e viola o art. 14 do CDC, pois minora a responsabilidade civil da Recorrida de arcar com os danos que seu serviço defeituoso causou a Recorrente.
+ ..
+Quanto aos danos morais sofridos pela Recorrente em relação ao recebimento da mercadoria, pois nos autos há uma informação inverídica que a Recorrente recebeu estes produtos, ocorre que a mercadoria nunca chegou na residência da Recorrente conforme afirmado em sede de sentença.
+ ..
+Pelo contrário, após ultrapassar o prazo final de entrega, que estava agendado para o dia 10 de dezembro de 2018, a Recorrente solicitou o cancelamento da compra por meio do número de protocolo 2018.1207.0754.5350.
+Em janeiro de 2019 ao verificar novamente sobre o status da entrega do produto, apareceu no sistema que o produto havia sido entregue no dia 03/01/2019 para uma pessoa chamada Gabriela, a Recorrente não se chama Gabriela se chama Josélia, este produto nunca chegou para a Recorrente.
+ ..
+De fato, Excelências, o produto foi sim entregue, porém para uma pessoa chamada GABRIELA e não para JOSÉLIA ora Recorrente, veja tamanha contradição que gera o dano moral mais puro na Recorrente.
+Portanto, nota-se que a Recorrente JAMAIS recebeu a Mercadoria conforme consta no comprovante FOI RECEBIDO POR UM TERCEIRO DESCONHECIDO, sendo assim resta comprovada a contradição apontada, uma vez que no acórdão o DD. Relator informou que houve atrasado de 04 (quatro) dias na entrega do produto, porém este produto nunca chegou para JOSELIA CARDOSO RAMOS.
+Destaco que a Recorrente ficou bastante abalada com o referido caso, pois por diversas vezes tentou resolver o estorno administrativamente, no entanto, a Recorrida manteve-se inerte, nota-se que houve o ressarcimento somente após 03 (três) meses de desgaste físico e psíquico da Recorrente que se deslocou inúmeras vezes para outra cidade e ainda dependeu de ajuda de terceiro para conseguir o estorno.
+ ..
+Requer, nesse sentido, que o presente recurso seja provido a fim de reformar o acórdão no sentido de condenar a Recorrida a indenização por danos morais, tendo em vista a violação do acórdão expressamente ao art. 186 do CC quanto o dever de reparar os prejuízos causados (fls. 407- 410).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Portanto, em análise ao indigitado dispositivo, é possível concluirmos que o fornecedor deixa de ser responsabilizado em casos de prova da ausência do defeito na prestação dos serviços ou a culpa exclusiva de terceiros.
+Pois bem, inobstante, esteja de fato comprovado o atraso na entrega do produto, assim como o cancelamento ocorrido, me resta inequívoco que não se trata de negligência perpetrada pela empresa, eis que a mercadoria foi entregue apenas quatro dias após a data de previsão, como afirma a própria apelante, o que não me parece um longo prazo de espera.
+Quanto ao estorno dos lançamentos e devolução das parcelas debitadas, tenho que não pode ser interpretado como excessivo, pois, é natural que em casos como o que se apresenta há procedimentos operacionais que podem exigir algum tempo. Ademais, não há falar em prejuízo material, porquanto houve a devolução dos valores pagos.
+Relativamente ao dano moral, a orientação jurisprudencial é no sentido de que, de regra, inexiste prejuízo indenizável pelo mero descumprimento contratual, devendo ser demonstrada alguma situação excepcional para que esteja configurado o dever de indenizar, o que não há no caso dos autos.
+ ..
+Entretanto, ainda que houvesse um excesso de prazo, entendo que isoladamente, tal fator não poderia ser considerado gerador de prejuízo extrapatrimonial por não haver comprovação de situação que configurasse abalo excessivo, que atingisse sobremaneira direitos de personalidade do autor, o que afasta o dever de indenizar (fls. 334- 335).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
