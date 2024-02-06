@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de mandado de segurança impetrado por MARIA VITORIA OLIVEIRA DE MENEZES apontando ato coator da lavra do MINISTRO DE ESTADO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, consistente na negativa em lhe conceder o benefício social do Bolsa Família.
+Alega-se na inicial, em síntese, que a impetrante, embora elegível como beneficiária da verba em comento por encontrar-se privada de qualquer renda, não teria sido contemplada com o Bolsa Família sob a justificativa de ter sido atingido o limite máximo de concessão do benefício para famílias unipessoais - caso da impetrante -, motivação essa que seria, segundo alegado, abusiva e ilegal.
+Requer-se, ao fim, medida liminar, de modo a que seja concedido e imediatamente implantado o benefício do Bolsa Família em favor da impetrante.
+É o relatório.
+O mandado de segurança não comporta análise de mérito, tendo em vista a patente ilegitimidade passiva da autoridade apontada como coatora.
+Nos termos da legislação de regência, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática" (Lei 12.016/2009, art. 6º, § 3º).
+No caso concreto, extrai-se que o ato apontado como coator - indeferimento do benefício social "Bolsa Família" à impetrante - não pode ser imputado à autoridade tida por coatora, já que, como cediço, aos Ministros de Estado cumpre apenas estabelecer as diretrizes gerais das políticas públicas governamentais, o que, em regra, faz-se por meio da edição de atos normativos gerais e abstratos. Não é da alçada dessas autoridades a análise concreta e casuística dos requerimentos de concessão de benefícios sociais formulados por eventuais interessados, seja para concedê-los ou negá-los, e tampouco provêm dessas autoridades ordens diretas para a prática de ato de concessão ou de indeferimento dos mesmos benefícios.
+Patente a ilegitimidade passiva da autoridade indicada como coatora, mais não cabe senão extinguir de plano o mandado de segurança inadequadamente impetrado, na linha de remansosa jurisprudência da Primeira Seção deste Tribunal Superior:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA PREVENTIVO. RENOVAÇÃO DE OUTORGA DE RÁDIO COMUNITÁRIA. AUSÊNCIA DE DEMONSTRAÇÃO DE ATO PRATICADO PELA AUTORIDADE COATORA. ILEGITIMIDADE PASSIVA AD CAUSAM DO MINISTRO DE ESTADO DA CIÊNCIA, TECNOLOGIA E COMUNICAÇÃO. AGRAVO INTERNO IMPROVIDO.
+I. Mandado de Segurança impetrado pela agravante contra suposto ato a ser praticado pelo Ministro de Estado da Ciência, Tecnologia e Comunicação, consubstanciado na edição de portaria de perempção de outorga da Rádio Comunitária Popular FM.
+II. Nos termos do art. 105, I, b, da CF/88, "compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente: (..)
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal". Por sua vez, em consonância com o disposto no art. 6º, § 3º, da Lei 12.016/2009, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+III. No caso dos autos, a impetrante junta aos autos decisão proferida pelo Secretário de Radiodifusão do Ministério de Estado da Ciência, Tecnologia e Comunicação, que negou provimento ao recurso administrativo interposto pela impetrante contra a decisão do Diretor do Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização do mesmo órgão ministerial, que, a seu turno, sugeriu que fosse declarada perempta a outorga da Rádio Comunitária Popular FM. Nesse contexto, não restou demonstrado, nos autos, qual o ato de efeitos concretos, praticado pelo Ministro de Estado da Ciência, Tecnologia e Comunicação, que atrairia a competência do STJ para processar e julgar o feito.
+IV. Assim, é manifesta a ilegitimidade passiva da autoridade indicada coatora para figurar no polo passivo da presente impetração, em face da ausência de demonstração de ato, por ela praticado, apto a ameaçar direito líquido e certo da impetrante.
+V. Agravo interno improvido.
+(AgInt no MS n. 26.690/DF, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 28/3/2023, DJe de 3/4/2023.)
+PROCESSUAL CIVIL. SERVIÇOS PÚBLICOS. RADIOFUSÃO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCESSÃO DE OUTORGA DE SERVIÇO DE RADIODIFUSÃO COMUNITÁRIA. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. AUSÊNCIA DE COMPETÊNCIA DESTA CORTE. ATRIBUIÇÃO DA JUSTIÇA FEDERAL DE PRIMEIRO GRAU. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Conquanto indicado o Sr. Ministro de Estado da Ciência, Tecnologia, Inovações e Comunicações como autoridade coatora, e conquanto apontado, de forma genérica, o cabimento preventivo do mandamus, o pedido formulado pelo Impetrante na inicial do presente writ não diz com ato por ele praticado, ou omissivo a ele imputável.
+III - Resta afastada a competência originária desta Corte, para processar e julgar o presente feito, nos termos do art. 105, I, b, da Constituição da República. Precedentes.
+V - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt nos EDcl no MS n. 25.450/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 13/12/2022, DJe de 15/12/2022.)
+Ante o exposto, com fundamento nos arts . 6º, § 5º c.c. 10, "caput", da Lei 12.016/2009, indefiro a inicial deste mandado de segurança, por ilegitimidade passiva da autoridade apontada como coatora.
+Indevida honorária (art. 25 da Lei 12.016/2009).
+Custas na forma da lei.
+Certificado o trânsito em julgado, remetam-se os autos oportunamente ao arquivo.
+Publique-se.
+Intimações necessárias.
+EMENTA
