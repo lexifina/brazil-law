@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE IBIPORÃ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DEMOLITÓRIA. OBRA IRREGULAR. CONSTRUÇÃO EM IMÓVEL DE TITULARIDADE INCERTA, SEM ALVARÁ/HABITE-SE. EXTRAVIO DO PROCEDIMENTO ADMINISTRATIVO PELA MUNICIPALIDADE. PENALIDADE DE DEMOLIÇÃO. NECESSIDADE DE OBSERVÂNCIA DO PRINCÍPIO DA PROPORCIONALIDADE (fl. 318).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e divergência jurisprudencial acerca dos arts. 1299 e 1312 do CC, no que concerne à impossibilidade de se aplicar o princípio da proporcionalidade quando houver contrariedade à lei, sustentando a necessidade de demolição quando a construção for contrária às orientações administrativas. Aduz a seguinte argumentação:
+A decisão do Tribunal Paranaense, interferindo no mérito administrativo, fede de morte os artigos 1.299 e 1.312 do Código Civil, eis que efetivamente negam vigência aos referidos artigos sob o pretexto da proporcionalidade do ato administrativo.
+ ..
+O artigo Art. 1.299 discorre que "o proprietário pode levantar em seu terreno as construções que lhe aprouver, salvo o direito dos vizinhos e os regulamentos administrativos".
+Já o artigo 1.312 do Código Civil menciona que, "todo aquele que violar as proibições estabelecidas referentes ao direito de construir é obrigado a demolir a construção feita, respondendo, ainda por perdas e danos".
+O Juízo do Paraná julga contra legem, utilizando-se do princípio da proporcionalidade e da razoabilidade para negar a aplicação da lei.
+ ..
+Não há proporcionalidade a ser analisada quando a LEI determina que para determinado ato haja uma consequência.
+Construiu em área que não lhe pertence uma piscina, uma área de lazer, possivelmente aferindo renda de sua locação; e, quanto a essa construção, a irregularidade administrativa a permeia, eis que sem alvará, sem habite-se; e está vendo na decisão do Juízo a quo uma chancela à sua inadvertida e reprovável ação..
+ ..
+Conforme já discorrido pela Recorrente, não há proporcionalidade a ser analisada quando a LEI determina que para determinado ato haja uma consequência.
+Assim, vilipendiam a interpretação dos artigos 1.299 e 1.312 do Código Civil, os quais, respectivamente, defendem que ao ato particular contrário às orientações administrativas decorre a obrigação de demolir.
+ ..
+Nesse sentido, considerando que NÃO HÁ PROPORCIONALIDADE À APLICAÇÃO CLARA DA LEI, julgou o Tribunal de Justiça do Estado de São Paulo na forma da ementa que segue:
+ ..
+Não há possibilidade do Juízo achar que determinado ato oriundo da lei é ou não proporcional: à Jurisdição cabe ordenar a aplicação da lei, por mais severa que seja (fls. 355- 363).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Embora durante a tramitação deste feito, tenha sido oportunizado a abertura de novo procedimento administrativo para regularização da obra e o feito tenha sido arquivado, sob a justificativa acima, entendo desproporcional o pedido de demolição, até porque, à época do ajuizamento da presente demanda (junho/2020), o apelado não havia obtido qualquer resposta administrativa a respeito do protocolo por ele formulado em novembro de 2016.
+Soma-se a isso que a obra realizada, embora irregular, não oferece riscos ao interesse público (à coletividade local), tratando-se de obra de lazer. Enfatiza-se que o próprio parágrafo único do artigo 156 da Lei Municipal nº 2.174/2008 afirma que a demolição será imediata apenas quando houver risco iminente de caráter público, que não é a hipótese sub judice.
+Ademais, embora haja a previsão de demolição no caso de obras irregulares/clandestinas (artigo 1312 do Código Civil e o artigo 156, inciso I, da Lei Municipal nº 2.174/2008), tais normas não devem ser interpretadas de forma isolada, bem como deve ser apreciado o Princípio da Proporcionalidade.
+Embora o artigo 156, inciso I, da Lei Municipal nº 2.174/2008 preveja a demolição de construções clandestinas, referida legislação prevê outras sanções para as infrações praticas, conforme se observa do artigo 147, da referida legislação, verbis: (fls. 321- 322, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
