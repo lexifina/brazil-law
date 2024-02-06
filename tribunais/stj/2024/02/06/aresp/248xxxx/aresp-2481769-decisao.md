@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. INOCORRÊNCIA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 1º e 8º do Decreto n. 20.910/32; e 503 do CPC, no que concerne à necessidade de extinção da execução tendo em vista a ocorrência da prescrição, uma vez que a referida só pode ser interrompida uma vez, de forma que a segunda interrupção da pretensão executória não pode ser por prazo indeterminado, observando, ainda, que a decisão extintiva da execução coletiva não apreciou o mérito da demanda, razão pela qual não faz coisa julgada, trazendo a seguinte argumentação:
+A Ação Coletiva que originou o título exequendo transitou em julgado em 17.10.2007 (ver Certidão do Evento 1 - OUT7 ), ou seja, há mais de 10 anos!
+ ..
+A parte exequente ajuizou Ação Cautelar de protesto interruptivo de prazo prescricional 5058382-69.2012.404.7100), em 16.10.2012, ou seja, um dia antes do termo final do quinquênio.
+Dessa forma, considerando que o prazo prescricional interrompido (em 16.10.2012) recomeça a correr pela metade do tempo (dois anos e meio), o prazo final para ajuizamento da execução seria 16.04.2015.
+Em 15.04.2015, ou seja, um dia antes do termo final do prazo prescricional (que já tinha sido interrompido uma vez), o Sindicato ajuizou Ação de Execução Coletiva nº50233059120154047100, sendo o que juízo processante determinou o fracionamento da lide, admitidos apenas dez litigantes no polo ativo, garantida a interrupção do prazo prescricional (ev 62- 50233059120154047100), sem que fosse estabelecido prazo máximo para o cumprimento da diligência pelo Sindicato (ev.70-50233059120154047100).
+Ora, a segunda interrupção da prescrição por prazo indeterminado é contra legem!
+Frise-se que o juízo inicialmente havia estipulado um prazo de 30 dias para a efetivação do fracionamento da execução coletiva, prazo esse posteriormente afastado, porém a parte adversa deveria ter efetivado a distribuição da ação individual dentro de um lapso de tempo razoável para aproveitar os efeitos da demanda anterior ou justificar eventual atraso quanto ao desmembramento. Todavia, a demora a contar da baixa do processo 50233059120154047100 (22/05/2017), ou seja, mais do que se considerasse nova interrupção por 2 anos e meio, não se mostra justificada, razão pela qual o presente feito não pode ser tido como um mero prolongamento do anterior.
+O Direito não socorre aos que dormem ("dormientibus non sucurrit ius"), inexistindo amparo legal para a pretensão da parte autora quanto à segunda interrupção da pretensão executória por prazo indeterminado.
+Além disso, a decisão extintiva vazada no processo 50233059120154047100 (execução coletiva) não apreciou o mérito da demanda, razão pela qual não faz coisa julgada, conforme art. 503 do NCPC, in verbis:  ..
+ ..
+Portanto, qualquer que seja o marco interruptivo considerado, a pretensão executória encontra-se prescrita, razão pela qual deve ser extinta a execução (fl. 138-139).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
