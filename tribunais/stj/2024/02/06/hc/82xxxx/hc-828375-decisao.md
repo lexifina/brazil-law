@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de ALEXANDRE LIRA DE MACEDO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Extrai-se dos autos que o paciente foi condenado às penas de 30 anos de reclusão, em regime inicial fechado, e pagamento de 360 dias-multa, pela prática dos crimes tipificados no art. 157, § 3º, segunda parte, e no art. 157, § 2º, incisos I e II, do Código Penal - CP (latrocínio e roubo majorado).
+Irresignada, a defesa interpôs apelação, a qual o Tribunal de origem negou provimento, nos termos do acórdão assim ementado:
+"EMENTA: PENAL. PROCESSUAL PENAL. LATROCÍNIO E ROUBO MAJORADO. PLEITO DE NULIDADE DA SENTENÇA CONDENATÓRIA POR AUSÊNCIA DE MOTIVAÇÃO DA DECISÃO. NÃO VERIFICADO. FUNDAMENTAÇÃO SUCINTA. TESE DE AUSÊNCIA DE PROVAS SUFICIENTES DE AUTORIA E CONFISSÃO DE TERCEIRO INOCENTANDO O APELANTE. VERSÃO DISSONANTE DAS DEMAIS PROVAS DOS AUTOS. CONJUNTO PROBATÓRIO ROBUSTO ACERCA DA PARTICIPAÇÃO DO APELANTE NO CRIME. RECONHECIMENTO PELAS VÍTIMAS SOBREVIVENTES CORROBORADO POR DEMAIS PROVAS DOS AUTOS. IMPROVIMENTO. DECISÃO UNÂNIME.
+1. Não há que se falar em nulidade da sentença por afronta ao disposto no art. 93, IX, da CF quando a fundamentação da decisão, apesar de sucinta, for suficiente para aclarar os motivos que levaram à condenação. No presente caso, o juízo a quo expôs as razões que levaram à condenação do apelante, ainda que de forma sucinta, analisando a materialidade e autoria delitivas, especialmente considerando os depoimentos das vítimas.
+2. Analisando as provas produzidas nos autos, verifica-se que há provas robustas da participação do apelante na prática delitiva, haja vista ter sido reconhecido pelas vítimas sobreviventes de forma segura no Reconhecimento Fotográfico, no Reconhecimento de Pessoa e durante a audiência de instrução, individualizando sua participação no crime como sendo o agente que anunciou o assalto e que efetuou tiros contra a vítima fatal.
+3. As seguintes teses defensivas foram afastadas, quais sejam, a) erro das vítimas por escuridão do local do crime, pois as vítimas afirmaram que viram o apelante com clareza; b) nulidade do Reconhecimento de Pessoa por afronta ao art. 226, II, do CPP, pois foram colocadas junto dos agentes outras pessoas com características semelhantes, dentro do possível; e c) ausência do exame residuográfico, tendo em vista que o apelante requereu tal exame uma semana após os fatos, quando a perícia se mostrava totalmente desnecessária diante da baixíssima chance de efetividade de resultado.
+4. A confissão por parte de terceiro, inocentando o apelante e demais réus, não se coaduna com as demais provas dos autos, havendo várias contradições entre esta versão dos fatos e os depoimentos das vítimas, de forma que não se mostra suficiente para afastar a autoria delitiva por parte do apelante, a qual foi satisfatoriamente comprovada nos autos.
+5. Apelação criminal a que se nega provimento" (fls. 90/91).
+Posteriormente, foi impetrado habeas corpus, ao qual a Corte estadual não conheceu. Eis a ementa do julgado:
+EMENTA: HABEAS CORPUS SUBSTITUTIVO DEAPELAÇÃO CRIMINAL. PLEITO DE FLAGRANTE ILEGALIDADE NA DOSIMETRIA DA PENA DASENTENÇA. IMPOSSIBILIDADE DE IMPETRAÇÃO DEHABEAS CORPUS COMO SUBSTITUTIVO DEAPELAÇÃO CRIMINAL. PRECEDENTES DO STF ESTJ. NÃO CONHECIMENTO DO WRIT. DECISÃO UNÂNIME.
+1. O recurso próprio para impugnar a sentença condenatória definitiva é a Apelação Criminal, nos termos do art. 593, I, do CPP, de forma que o presente writ não pode ser conhecido, tendo em vista a jurisprudência do STF e do STJ ter se firmado no sentido de não aceitar o Habeas Corpus impetrado como substitutivo de recursos ordinários (STJ, HC 309.516/SP), a menos que haja flagrante ilegalidade, o que não ocorre no presente caso, vez que o magistrado a quo fundamentou devidamente a dosimetria da pena na sentença, além de ser prudente aguardar a conclusão do recurso em andamento perante o Superior Tribunal de Justiça.
+2. Habeas corpus não conhecido.
+No presente writ, a defesa sustenta ilegalidade na dosimetria da reprimenda. Pondera que a pena-base teria sido elevada sem a devida fundamentação, destacando a desproporcionalidade do aumento de 5 anos em razão de uma única circunstância judicial desfavorável, qual seja, os antecedentes.
+Aduz, outrossim, que, embora o paciente possuísse 18 anos à época dos fatos, não fora reconhecida a atenuante da menoridade relativa.
+Alega que, considerando-se o número de infrações cometidas, o aumento da pena pelo concurso formal próprio deve ser fixado em 1/5.
+Requer, liminarmente e no mérito, o redimensionamento da reprimenda.
+Indeferida a liminar (fls. 126/129) e informações prestadas (fls. 139/142), o Ministério Público Federal - MPF opinou pelo não conhecimento do habeas corpus (fls. 144/150).
+É o relatório.
+Decido.
+Verifica-se que as alegações não foram analisadas pelo Tribunal de origem no enfoque pretendido pela defesa, que, ressalte-se, deixou de manejar perante àquela Corte o respectivo recurso impugnando o acórdão proferido. Assim, impedido o exame direto das questões por esta Corte Superior, sob pena de se incidir em indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT INDEFERIDO LIMINARMENTE. ART. 210 DO RISTJ. CRIME DOLOSO CONTRA A VIDA. TENTATIVA DE HOMICÍDIO. PRONÚNCIA. NULIDADE. VIOLAÇÃO DO ART. 155 DO CPP. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. IMPOSSIBILIDADE DE EXAME NESTA CORTE SUPERIOR. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta.
+2.  ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 851.143/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18/9/2023.)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, a, do do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
