@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTÔNIO FERNANDO WAQUIM SALOMÃO, em face da decisão que não conheceu os embargos de divergência em razão da deserção e pela incidência da Súmula 315/STJ.
+Em suas razões, sustenta a parte embargante que a decisão incorreu em obscuridade, uma vez que:
+ ..  o não reconhecimento do recolhimento recursal do embargante se deu apenas e tão somente porque fora realizado sob rubrica diversa (recurso especial - e-STJ fl. 1.243).
+Incoerente com o princípio da instrumentalidade das formas e eficácia processual que o aludido recurso tenha sido obstado sem que fosse oportunizado a parte a sua correção, ainda que na forma do §4º do artigo 1.007 do Código de Processo Civil.
+Ademais, impende destacar que o pagamento realizado pela parte foi a maior , leia-se, o mais que dobro , o que torna inequívoca sua boa-fé. (e-STJ fls. 1.255/1.256)
+Afirma que não seria o caso de aplicação do óbice da Súmula 315/STJ, "por haver precedentes de outra turma que proferiram decisão diametralmente oposta, entendendo que o pedido de substituição da penhora e alegação de ofensa ao contraditório por cerceamento de defesa não resvala em reexame de provas, autorizando o soerguimento do apelo, temos que houve sim enfrentamento do mérito" (e-STJ fl. 1.259).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios, manifestando-se às fls. 1.272/1.274 (e-STJ).
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que, no ato de interposição da petição de embargos de divergência perante a Secretaria deste Tribunal, a parte deve anexar a guia de recolhimento das custas devidamente preenchida, bem como o respectivo comprovante de pagamento, ambos de forma visível e legível.
+Conforme explicitado na decisão embargada, o recurso de embargos de divergência foi instruído sem a guia de custas do STJ e o respectivo comprovante de pagamento. Assim, a parte foi intimada para realizar o recolhimento em dobro do preparo, conforme estabelece o § 4º do art. 1.007 do CPC/2015. No entanto, não regularizou devidamente o preparo, uma vez que apresentou guia de custas com a indicação incorreta do recurso escolhido, ou seja, em vez de recolher as custas dos embargos de divergência, fez o recolhimento sob rubrica diversa (recurso especial).
+Nos termos da jurisprudência desta Corte, a indicação de rubrica diversa na guia de recolhimento implica em deserção do recurso, sendo inviável nova intimação para regularizar o vício.
+Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. GUIA DE RECOLHIMENTO. PREPARO. IRREGULARIDADE. DESERÇÃO. SÚMULA 187 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO DESPROVIDO.
+1. A indicação de rubrica diversa na guia de recolhimento implica em deserção do recurso, nos termos da Súmula 187/STJ.
+2. No caso posto, analisando a guia acostada aos autos, verifica-se constar, no campo "Instruções/Observações", a referência a "RECURSO INTERPOSTO EM INSTÂNCIA INFERIOR, RECURSO ESPECIAL", inexistindo qualquer vinculação do recolhimento ali realizado aos embargos de divergência.
+3. Agravo interno desprovido.
+(AgInt nos EAREsp 1537963/RS, Ministro Relator Jorge Mussi, Corte Especial, julgado em 16/12/2020/ DJe 18/12/2020)
+Ademais, a admissão dos embargos de divergência quando não conhecido um dos acórdãos confrontados, exige a efetiva análise da controvérsia em seu bojo, o que definitivamente não ocorreu nos presentes autos em razão da incidência da Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EMBARGOS DE DIVERGÊNCIA COM PRETENSÃO DE CONFRONTAR JULGADOS QUE INTERPRETAM O ART. 1.022 DO CPC/2015. INCABÍVEIS. ACÓRDÃO PARADIGMA QUE CONHECE DO RECURSO E ADENTRA O MÉRITO E O ACÓRDÃO EMBARGADO NÃO ULTRAPASSA O JUÍZO DE ADMISSIBILIDADE. IMPOSSIBILIDADE. HONORÁRIOS RECURSAIS EM EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. DEVIDOS. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A aferição da ausência ou não dos vícios processuais que ensejariam o acolhimento do recurso integrativo está intrinsecamente vinculada às peculiaridades fático-jurídicas de cada caso, revelando-se inadmissíveis os embargos de divergência para confrontar julgados que interpretam o art. 1.022 do CPC/2015.
+Precedentes.
+III - Embargável o acórdão de órgão fracionário que, em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia, a teor do disposto no art. 1.043, III, do CPC/2015.
+IV - No acórdão embargado, o recurso especial esbarrou-se no óbice da Súmula n. 211 do STJ, sendo aplicável o entendimento segundo o qual se revela inviável o dissenso interpretativo entre julgados quando o acórdão paradigma conhece do recurso e adentra o mérito recursal e o embargado não ultrapassa o juízo de admissibilidade.
+V - É devido o arbitramento de honorários recursais, nos termos do art. 85, § 11, do CPC/2015, quando os Embargos de Divergência - rejeitados liminarmente, não conhecidos ou desprovidos - têm por objeto acórdão publicado na vigência do Código de Processo Civil de 2015. Precedentes.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt nos EREsp n. 1.881.692/RJ, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 17/5/2022, DJe de 19/5/2022.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgInt nos EDcl no AREsp n. 883535/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
