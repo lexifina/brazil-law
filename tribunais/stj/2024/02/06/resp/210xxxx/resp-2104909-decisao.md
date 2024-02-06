@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DO RIO DE JANEIRO - UFRJ com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 77):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. HABILITAÇÃO DOS HERDEIROS NOS TERMOS DO ART. 778, §1º, II, DO CPC. OBSERVÂNCIA DA LEI 6.858/80. DESNECESSIDADE DE INVENTÁRIO. PRESENÇA DE OUTRO HERDEIRO. COTA PARTE. RECURSO PROVIDO EM PARTE.
+1. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU REQUERIMENTO DE HABILITAÇÃO NOS REFERIDOS AUTOS COMO SUCESSORES DA FINADA E PRIMITIVA EXEQUENTE, E POSTERIOR EXPEDIÇÃO DE ALVARÁ DE LEVANTAMENTO DAS PARTES QUE LHES CABE, POR ENTENDER SER INCABÍVEL A SUCESSÃO PROCESSUAL DIRETA NA PESSOA DOS HERDEIROS.
+2. A LEI Nº 6.858/80 DISCIPLINA O PAGAMENTO DE VALORES QUE DEIXARAM DE SER RECEBIDOS EM VIDA POR SEUS TITULARES, DEFININDO COMO LEGITIMADOS AO RECEBIMENTO DE TAIS CRÉDITOS EM LUGAR DO FALECIDO CREDOR: AS PESSOAS QUE FIGURAREM COMO DEPENDENTES PERANTE A PREVIDÊNCIA SOCIAL OU NA FORMA DA LEGISLAÇÃO ESPECÍFICA DOS SERVIDORES CIVIS E MILITARES, E, NA SUA FALTA, OS SUCESSORES PREVISTOS NA LEI CIVIL, INDICADOS EM ALVARÁ JUDICIAL, INDEPENDENTE DE INVENTÁRIO OU ARROLAMENTO.
+3. NA HIPÓTESE, O REGIME DOS SUBSTITUÍDOS É O CORRESPONDE AO DE SERVIDOR CIVIL ESTATUTÁRIO, DEVENDO, PORTANTO, SER APLICADA A SEGUNDA PARTE DO ART. 1º, DA LEI Nº 6.858/80.
+4. COMPULSANDO OS AUTOS ORIGINÁRIOS, VERIFICA-SE QUE A CERTIDÃO DE ÓBITO ACOSTADA NO EVENTO 1 - CERTOBT8 INDICA QUE A EXEQUENTE GENETH DOS SANTOS DE OLIVEIRA, FALECIDA EM 31/07/2012, DEIXOU QUATRO FILHOS MAIORES. NO EVENTO 1 - RG6 E EVENTO 1 - RG9 OS AGRAVANTES COMPROVAM QUE SÃO FILHOS DA EXEQUENTE FALECIDA. SENDO ASSIM, CONCLUI-SE QUE, ALÉM DOS AGRAVANTES (DOIS FILHOS), A EXEQUENTE POSSUÍA, AINDA, MAIS DOIS HERDEIROS NECESSÁRIOS, NA LINHA DESCENTE, QUE NÃO SE HABILITARAM NOS AUTOS. NO ENTANTO, MERECE PROSPERAR O PLEITO DOS AGRAVANTES, PORÉM APENAS EM RELAÇÃO ÀS SUAS COTAS PARTE, SEM QUE ISSO, EVIDENTEMENTE, PREJUDIQUE OS OUTROS HERDEIROS NOTICIADOS NA CERTIDÃO DE ÓBITO.
+5. POR FIM, COM RELAÇÃO AOS HERDEIROS NÃO HABILITADOS, FICA VEDADA A PRÁTICA DE ATOS DE DISPOSIÇÃO E EXPEDIÇÃO DE REQUISITÓRIO EM RELAÇÃO AOS MESMOS.
+6. AGRAVO DE INSTRUMENTO PROVIDO EM PARTE PARA REFORMAR A DECISÃO AGRAVADA, A FIM DE DETERMINAR O DEFERIMENTO DA HABILITAÇÃO DOS AGRAVANTES, CONSIDERANDO APENAS AS SUAS COTAS PARTE, PARA PROSSEGUIREM NA EXECUÇÃO EM SUCESSÃO A EXEQUENTE ORIGINÁRIA, NOS TERMOS DO ART. 778, §1º, II, DO CPC.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa aos artigos 110 e 669 do CPC/2015 e dissídio jurisprudencial, defendendo que "havendo bens a inventariar, é obrigatória a abertura do inventário com a consequente representação do espólio no processo judicial em trâmite, pelo que o entendimento exarado no acórdão recorrido pela possibilidade de habilitação direta de sucessor carece de respaldo jurídico" (fl. 127).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 142-144.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No mérito, no que diz respeito à alegação de ofensa aos artigos 110 e 669 do CPC/2015 e dissídio jurisprudencial, a pretensão é inadmissível, pois o recorrente não impugnou o fundamento do acórdão recorrido segundo o qual (fl. 74):
+ ..
+Com efeito, o artigo 110 do Código de Processo Civil preconiza que, no caso de morte de alguma das partes de um processo, dar-se-á a sucessão pelo seu espólio ou pelos seus sucessores, suspendendo-se, a partir de então, o processo.
+Por sua vez, a Lei nº 6.858/80 dispõe sobre o pagamento de valores que deixaram de ser recebidos em vida por seus titulares, definindo os legitimados ao recebimento de tais créditos em lugar do falecido credor, nos termos do art. 1º da referida lei: as pessoas que figurarem como dependentes perante a Previdência Social ou na forma da legislação específica dos servidores civis e militares, e, na sua falta, os sucessores previstos na lei civil, indicados em alvará judicial, independente de inventário ou arrolamento.
+Desta forma, o pagamento dos referidos valores independe de inventário, nos termos do art. 666 do Código de Processo Civil, in verbis:
+Art. 666. Independerá de inventário ou de arrolamento o pagamento dos valores previstos na Lei nº 6.858, de 24 de novembro de 1980.
+Merece destaque, ainda, o art. 778 do mesmo diploma legal, o qual estabelece que possuem legitimidade para promover a execução ou nela prosseguir, em sucessão ao exequente originário, dentre outros, o espólio, os herdeiros ou os sucessores do credor, sempre que, por morte deste, lhes for transmitido o direito resultante do título executivo.
+ ..
+Essa situação enseja a aplicação da Súmula 283/STF.
+Ademais, a inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. HABILITAÇÃO DOS HERDEIROS. DESNECESSIDADE DE INVENTÁRIO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
