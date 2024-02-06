@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALDIR MARTINS DE JESUS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL EM AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CARTÃO DE CRÉDITO CONSIGNADO. APLICAÇÃO DA SÚMULA  63 DO TJGO. VÍCIO DE INFORMAÇÃO. REPETIÇÃO SIMPLES. DANO MORAL INCOMPORTÁVEL. SENTENÇA PARCIALMENTE REFORMADA. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, §§ 2º e 8º, do CPC, no que concerne à fixação dos honorários de sucumbência segundo as regras legais, devendo ser calculado sobre o valor da causa atualizado, trazendo a seguinte argumentação:
+Conforme já argumentado, no caso em comento, temos que foi tomado a título de empréstimo o valor de R$ 1.518,11 (hum mil, quinhentos e dezoito reais e onze centavos), sendo que até a data da propositura da ação, os descontos no benefício do Recorrente somavam o importe de R$ 1.205,35 (hum mil, duzentos e cinco reais e trinta e cinco centavos). Nos termos do acordão, aplicando-se para tanto a súmula 63 do TJGO, temos de ser inquestionável que há um saldo devedor em desfavor do Apelante perante o Apelado de no mínimo R$ 312,76 (trezentos e doze reais e setenta e seis centavos) Assim, inquestionável a aplicação da primeira regra do artigo 85, §2º do CPC.
+Em caso de inaplicabilidade desta primeira regra, a fixação a ser aplicada é sobre o valor atualizado da causa, conforme transcrito no caput do artigo supramencionado.
+Ocorre que, ao proferir o acordão, a R. Corte ignorou a segunda regra, aplicando diretamente a terceira, prevista no parágrafo 8º, que inclusive pacificado é o entendimento que tal aplicação trata-se de regra excepcional.
+ ..
+Logo, cabível o presente recurso especial, através do qual se pretende a reforma do v. acórdão para que sejam arbitrados os honorários advocatícios entre 10% e 20% sobre o valor da causa atualizado, prestigiando-se assim a correta aplicação da lei e preservando a almejada segurança jurídica (fls. 389-392).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Os honorários advocatícios foram corretamente fixados por equidade, na medida em que o benefício econômico é ínfimo, nos termos do § 8º do artigo 85 do Código de Processo Civil.
+O valor da causa não pode ser considerado como base de cálculo, já que não representa o resultado da lide (fl. 372).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
