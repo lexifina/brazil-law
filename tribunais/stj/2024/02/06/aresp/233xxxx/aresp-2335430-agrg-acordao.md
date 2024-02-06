@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, Daniela Teixeira, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DE FIOS DE COBRE. PRESENÇA DA QUALIFICADORA DE CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES DESTA CORTE. VALOR DO BEM DISCUTÍVEL. LAUDO INDIRETO QUE SUSTENTA AVALIAÇÃO ACIMA DOS 25% DO SALÁRIO MÍNIMO VIGENTE AO TEMPO DOS FATOS. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos dos precedentes citados no decisum, de ambas as Turmas dessa Seção Criminal, caracterizada a qualificadora do concurso de agentes, que indica especial reprovabilidade da conduta, afasta-se o princípio da insignificância aos delitos de furto.
+2. No caso concreto, não obstante se tenha feito referência ao desconhecimento da quantidade de metros de fio de cobre furtados, é verdade que o laudo de avaliação indireta constou que o bem estaria avaliado em R$ 278,00 (duzentos e setenta e oito reais), valor que ultrapassa 25% do salário-mínimo vigente ao tempo dos fatos.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS ROBERTO CARDOSO contra decisão monocrática de minha relatoria (fls. 469/473) que conheceu do seu agravo e recurso especial, desprovendo-lhe.
+No presente regimental (fls. 481/491), o agravante sustenta que, em que pese pese a conduta ter sido praticada mediante o concurso de agentes, isto por si só não deve ser fator hábil a afastar a aplicação da benesse do princípio da insignificância. Salienta que a decisão é dissonante de acórdãos da Sexta Turma desta Corte e de precedentes do Supremo Tribunal Federal.
+Requer a reforma da decisão agravada para que seja dado provimento ao recurso especial.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DE FIOS DE COBRE. PRESENÇA DA QUALIFICADORA DE CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES DESTA CORTE. VALOR DO BEM DISCUTÍVEL. LAUDO INDIRETO QUE SUSTENTA AVALIAÇÃO ACIMA DOS 25% DO SALÁRIO MÍNIMO VIGENTE AO TEMPO DOS FATOS. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos dos precedentes citados no decisum, de ambas as Turmas dessa Seção Criminal, caracterizada a qualificadora do concurso de agentes, que indica especial reprovabilidade da conduta, afasta-se o princípio da insignificância aos delitos de furto.
+2. No caso concreto, não obstante se tenha feito referência ao desconhecimento da quantidade de metros de fio de cobre furtados, é verdade que o laudo de avaliação indireta constou que o bem estaria avaliado em R$ 278,00 (duzentos e setenta e oito reais), valor que ultrapassa 25% do salário-mínimo vigente ao tempo dos fatos.
+3. Agravo regimental desprovido.
+VOTO
+A insurgência não merece acolhida.
+É caso de manutenção da decisão agravada.
+Nos termos dos precedentes citados no decisum, de ambas as Turmas dessa Seção Criminal, caracterizada a qualificadora do concurso de agentes, que indica especial reprovabilidade da conduta, afasta-se o princípio da insignificância aos delitos de furto.
+No sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. APELO MINISTERIAL PELA CONDENAÇÃO. PRESENÇA DE QUALIFICADORA DE CONCURSO DE AGENTES. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. DECISÃO MONOCRÁTICA MANTIDA.
+Deve ser mantido o decisum monocrático recorrido, pois, nos termos da moderna jurisprudência desta Corte Superior, a presença de qualificadora, via de regra, afasta a incidência do princípio da bagatela. Agravo regimental desprovido.
+(AgRg no REsp n. 2.057.398/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/10/2023, DJe de 6/11/2023).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PELO CONCURSO DE AGENTES. DANOS AO ESTABELECIMENTO COMERCIAL DA VÍTIMA. RÉU REINCIDENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, observando-se a presença dos seguintes vetores:(a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC n. 98.152/MG, Relator Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+2. Esta Corte Superior de Justiça firmou entendimento de que a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância (HC n. 351.207/RS, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 28/6/2016, DJe 1/8/2016)" (HC n. 459.407/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018).
+3. A despeito do afastamento da qualificadora do rompimento de obstáculo, ante a ausência de perícia, mantém-se a prática de furto qualificado pelo concurso de agentes, sendo um deles reincidente, tendo havido danos ao estabelecimento comercial da vítima, a afastar o postulado da insignificância.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.000.899/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. PEDIDO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. IMPOSSIBILIDADE. CONCURSO DE AGENTES. PACIENTES QUE RESPONDEM A OUTRAS AÇÕES PENAIS POR CRIMES CONTRA O PATRIMÔNIO. REITERAÇÃO DELITIVA.
+1. Como mencionado na decisão agravada, houve a qualificadora de concurso de pessoas, o que já afasta a possibilidade de aplicação do princípio da insignificância.
+2. Além disso, consta, no acórdão hostilizado, que existe contumácia delitiva a crimes patrimoniais, por parte dos pacientes, conforme certidão de antecedentes, apontada pela instância ordinária.
+3. Agravo regimental improvido.
+(AgRg no HC n. 637.596/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/6/2021, DJe de 21/6/2021).
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. ART. 155, § 4º, IV C/C ART. 14, II, AMBOS DO CP. RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. TENTATIVA DE SUBTRAÇÃO DE FIOS DE COBRE DE TRANSFORMADORES DE CONCESSIONÁRIA DE ENERGIA ELÉTRICA. AUSÊNCIA DE LAUDO DE AVALIAÇÃO DO VALOR DO BEM. CONCURSO DE PESSOAS. ÓBICES AO RECONHECIMENTO DA BAGATELA. FURTO PRIVILEGIADO. IMPOSSIBILIDADE. VALOR DO BEM NÃO CALCULADO. ORDEM DENEGADA.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente;
+b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+2. O crime de furto foi qualificado pelo concurso de agentes, circunstância objetiva que denota a maior reprovabilidade da conduta e inviabiliza a aplicação do princípio da insignificância.
+Precedentes.
+3. A ausência de realização de laudo de avaliação impossibilita a discussão de insignificância do dano, afastando, assim, a possibilidade de aplicação do princípio da insignificância.
+4. Nos termos da Súmula 511/STJ: É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva. No caso, a ausência de realização de laudo de avaliação impossibilita a discussão de valor do dano, o que obsta a aplicação do instituto previsto no art. 155, § 2º, do Código Penal.
+5. Habeas Corpus denegado.
+(HC n. 623.399/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 9/2/2021, DJe de 17/2/2021).
+HABEAS CORPUS. DIREITO PENAL. FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. ESPECIAL REPROVABILIDADE DA CONDUTA DO AGENTE. PRECEDENTES. FURTO PRIVILEGIADO. REDUÇÃO DA PENA NO PATAMAR MÍNIMO DE 1/3 (UM TERÇO). FUNDAMENTAÇÃO SUFICIENTE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE PELA PENA DE MULTA E POR UMA RESTRITIVA DE DIREITOS. SUPRESSÃO DE INSTÂNCIA. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. ORIENTAÇÃO FIRMADA PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DE MÉRITO DAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE N.os 43, 44 E 54, DE RELATORIA DO MINISTRO MARCO AURÉLIO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, PARCIALMENTE CONCEDIDA. CONFIRMADA A LIMINAR.
+1. Na hipótese, juntamente com outro corréu, o Paciente subtraiu 10Kg (dez quilos) de fios de cobre da rede elétrica pública, bem avaliado em valor superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, o que afasta a aplicação do princípio da insignificância. Ademais, também devem ser considerados "os danos a inúmeras pessoas, que restariam temporariamente sem energia elétrica" (HC 293.478/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/08/2014, DJe 22/08/2014).
+2. Os fundamentos apresentados pela Corte de origem - dano social causado pelo furto de fios de energia elétrica e a prática do crime em concurso de agentes - justificam a aplicação da fração de 1/3 (um terço) na redução da pena pelo privilégio no furto.
+3. A possibilidade de substituição da pena privativa de liberdade por multa e por uma pena restritiva de direitos não foi examinada pelo Tribunal local. Dessa forma, essa matéria não pode ser discutida neste writ, sob pena de indevida supressão de instância.
+4. A execução provisória da pena não se afigura possível, em conformidade com a conclusão de mérito do Supremo Tribunal Federal nas Ações Declaratórias de Constitucionalidade n.os 43, 44 e 54, de relatoria do Ministro MARCO AURÉLIO. Informativo de Jurisprudência n.º 958 da Suprema Corte (28 de outubro a 8 de novembro de 2019).
+5. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, parcialmente concedida para, confirmando a liminar, assegurar ao Paciente o direito de aguardar o trânsito em julgado da condenação em liberdade, resguardada a possibilidade de decretação de nova prisão processual, em deliberação devidamente fundamentada.
+(HC n. 574.450/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/5/2020, DJe de 3/6/2020).
+No caso concreto, não obstante se tenha feito referência ao desconhecimento da quantidade de metros de fio de cobre furtados, é verdade que o laudo de avaliação indireta constou que o bem estaria avaliado em R$ 278,00 (duzentos e setenta e oito reais), valor que ultrapassa 25% do salário-mínimo vigente ao tempo dos fatos.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
