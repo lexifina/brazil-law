@@ -1,0 +1,17 @@
+DECISÃO
+JONAS SIMOES PERICO interpõe recurso especial contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região na Apelação Criminal nº 5012049-38.2021.4.04.7005/PR.
+Informam os autos que o recorrente foi condenado a 2 anos de reclusão, em regime inicial aberto, como incurso no art. 334-A, § 1º, V, do Código Penal, c/c o art. 3º do Decreto-Lei 399/68 e Resolução-RDC n.º 46 da ANVISA.
+O TRF 4ª Região deu parcial provimento ao recurso defensivo, reduzindo a prestação pecuniária para 30 salários mínimos e alterando aduração da pena acessória de inabilitação para dirigir veículo automotor para dois anos .
+Este recurso especial, interposto com fundamento nasalíneas "a" e "c" do permissivo constitucional, aponta violação aos arts. 21; 65, II e III, "b", e 66, todos do Código Penal, e 386, VII, do CPP.
+O Parquet Federal oficiou pelo não conhecimento do recurso.
+Decido.
+Inicialmente, como bem ressaltou o Parquet Federal, "a fundamentação recursal é deficiente quanto às alegações relativas à insignificância da conduta, à prestação pecuniária e à pena acessória, pois a argumentação apresentada sequer foi acompanhada da necessária indicação do dispositivo legal correspondente e, consequentemente, também não houve a demonstração de como o acórdão recorrido teria contrariado ou negado vigência a tais dispositivos".
+Quanto à alínea "c" do permissivo constitucional, a defesa não alegou, em suas razões, divergência na interpretação de algum dispositivo de lei federal, atraindo a aplicação da Súmula n. 284/STF.
+Quanto ao pedido de absolvição, observo que a Corte local reuniu elementos aptos a lastrear a condenação, evidenciando-se, assim, a necessidade de aprofundamento no conjunto fático probatório, o que atrai a incidência da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. INADIMPLEMENTO CONTRATUAL. ILÍCITO CRIMINAL. POSSIBILIDADE. SÚMULA N. 83 DO STJ. ABSOLVIÇÃO. SÚMULA N. 7 DO STJ. DOLO ANTECEDENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.1. A Corte de origem ratificou entendimento de que a agravante teria, com emprego de artifício, induzido vítimas idosas ao erro, com o objetivo de se apropriar de valores relativos a honorários, custas processuais, caução, cessão de cotas de participação, construção de imóveis e seguro.2. A modificação dessa premissa implicaria a necessidade de revolvimento fático-probatório dos autos, procedimento vedado em recurso especial pelo disposto na Súmula n. 7 do STJ.3. O STJ já decidiu que o inadimplemento contratual pode caracterizar ilícito criminal a depender das circunstâncias, conforme ocorrido no caso dos autos. Por essa razão, a irresignação é inadmissível pelo óbice previsto na Súmula n. 83 do STJ.4. A tese de ausência de comprovação do dolo antecedente não foi prequestionada na instância antecedente, o que atrai a aplicação da orientação estabelecida nas Súmulas n. 282 e 356 do STF.5. Agravo regimental não provido.
+(AgRg nos EDcl nos EDcl no AREsp n. 2.171.371/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/10/2023, DJe de 30/10/2023.)
+A tese de violação dos arts. 65, III, "b", e 66, ambos do Código Penal não pode ser conhecida, pois os referidos dispositivos legais não foram analisados pela Corte a quo, evidenciando-se, assim, a ausência de prequestionamento.
+À vista do exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
