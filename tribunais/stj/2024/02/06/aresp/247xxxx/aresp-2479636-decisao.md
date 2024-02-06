@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo em que argui acerca dos limites legais fixos para efeito de fixação de honorários.
+É o relatório. Decido.
+Com efeito, o Supremo Tribunal Federal reconheceu a existência de Repercussão o Geral do Tema 1.255 - RE 1.412.069 - Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes.
+Saliente-se que o STF tem determinado o retorno dos processos que tratam da mencionada disciplina para os Tribunais de origem em homenagem à economia processual, bem como para que se evite a prolação de decisões conflitantes e em desconformidade com o definido ulteriormente pela Corte Suprema.
+Nesse cenário, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicada a conclusão do julgamento da questão afetada em repercussão geral (Tema 1.255/STF), o presente recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Supremo Tribunal Federal; (ou) 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Supremo Tribunal Federal.
+Impende salientar que a jurisprudência desta Corte se firmou no sentido de ser irrecorrível a decisão que determina o sobrestamento do feito, no 2º Grau, diante da pendência de julgamento de recurso representativo da controvérsia.
+Confira-se, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SOBRESTAMENTO. TEMA 1.076/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM. IRRECORRIBILIDADE. 1. A decisão que determina a devolução dos autos à origem, a fim de que lá seja exercido o juízo de retratação antes da apreciação do respectivo recurso especial pelo STJ, não possui carga decisória e não acarreta prejuízo às partes. Por isso, é provimento irrecorrível. Precedentes. 2. Agravo interno não conhecido. (AgInt no REsp 1816085/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/06/2021, DJe 02/08/2021).
+Desse modo, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, a fim de que a análise do recurso especial ocorra após exaurida a competência do Tribunal de origem (exercício do juízo de retratação/adequação).
+Publique-se. Intimem-se.
+EMENTA
