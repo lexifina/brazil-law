@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGRESSÃO DEFINITIVA DE REGIME PRISIONAL. AUDIÊNCIA DE JUSTIFICAÇÃO. ATO PROCESSUAL IMPRESCINDÍVEL. POSTERIOR DEFESA POR ESCRITO. IRRELEVÂNCIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se constata a alegada violação do art. 619 do Código de Processo Penal, pois o Tribunal de origem não está obrigado a rebater minuciosamente cada ponto da argumentação das partes, desde que exponha de maneira contundente e precisa as razões pelas quais as suas pretensões foram acolhidas ou rejeitadas.
+2. Ambas as turmas que compõem a Terceira Seção desta Corte Superior consolidaram a compreensão de que, para a regressão definitiva de regime prisional, é imprescindível a prévia oitiva judicial do apenado em audiência de justificação, não sendo suficiente para suprir a falta do referido ato judicial a apresentação de defesa escrita, ainda que por intermédio de advogado.
+3. Em razão das graves consequências decorrentes da regressão definitiva de regime prisional, a prévia oitiva do apenado em juízo, conforme determina o art. 118, § 2.º, da Lei de Execução Penal, constitui instrumento de autodefesa personalíssimo e oral, equiparável ao interrogatório na ação penal. Desse modo, a apresentação de razões defensivas por defensor técnico, por escrito, não supre a necessidade de que se realize a audiência de justificação para o exercício da autodefesa oralmente.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão em que conheci de agravo para negar provimento ao recurso especial acusatório, nos termos da seguinte ementa (fl. 1576):
+"AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGRESSÃO DEFINITIVA DE REGIME PRISIONAL. AUDIÊNCIA DE JUSTIFICAÇÃO. ATO PROCESSUAL IMPRESCINDÍVEL. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL."
+Nas razões recursais, o Parquet reitera a tese de que ocorreu omissão jurisdicional no Tribunal estadual, pois a Corte local teria ignorado que a justificativa "apresentada, a posteriori e de maneira escrita, por meio de advogado devidamente constituído, é plenamente capaz de suprir a eventual irregularidade pela não realização da audiência" (fl. 1.587).
+No mais, sustenta que o caso em apreço deve ser tratado de maneira distinta das das situações já analisada por esta Corte Superior, pois, no caso em apreço, "houve a justificativa do executado, inclusive por meio de defesa técnica, dirigida ao Juízo da Comarca de Jaraguá-GO, em que ele pôde esclarecer todos os fatos que o levaram ao não cumprimento das condições impostas na execução penal" (fl. 1.589).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGRESSÃO DEFINITIVA DE REGIME PRISIONAL. AUDIÊNCIA DE JUSTIFICAÇÃO. ATO PROCESSUAL IMPRESCINDÍVEL. POSTERIOR DEFESA POR ESCRITO. IRRELEVÂNCIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se constata a alegada violação do art. 619 do Código de Processo Penal, pois o Tribunal de origem não está obrigado a rebater minuciosamente cada ponto da argumentação das partes, desde que exponha de maneira contundente e precisa as razões pelas quais as suas pretensões foram acolhidas ou rejeitadas.
+2. Ambas as turmas que compõem a Terceira Seção desta Corte Superior consolidaram a compreensão de que, para a regressão definitiva de regime prisional, é imprescindível a prévia oitiva judicial do apenado em audiência de justificação, não sendo suficiente para suprir a falta do referido ato judicial a apresentação de defesa escrita, ainda que por intermédio de advogado.
+3. Em razão das graves consequências decorrentes da regressão definitiva de regime prisional, a prévia oitiva do apenado em juízo, conforme determina o art. 118, § 2.º, da Lei de Execução Penal, constitui instrumento de autodefesa personalíssimo e oral, equiparável ao interrogatório na ação penal. Desse modo, a apresentação de razões defensivas por defensor técnico, por escrito, não supre a necessidade de que se realize a audiência de justificação para o exercício da autodefesa oralmente.
+4. Agravo regimental desprovido.
+VOTO
+O recurso não comporta provimento.
+De início, reitera-se que não se constata a alegada violação do art. 619 do Código de Processo Penal, pois o Tribunal de origem expressou de forma clara as razões pela quais concluiu não ser possível dispensar a realização da audiência de justificação no caso em apreço.
+Nos termos da jurisprudência desta Corte Superior, não está o Tribunal estadual obrigado a rebater minuciosamente cada ponto da argumentação das partes, desde que exponha de maneira contundente e precisa as razões pelas quais as suas pretensões foram acolhidas ou rejeitadas, como ocorreu no caso em apreço.
+Nesse sentido:
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. INCONFORMISMO. EMBARGOS REJEITADOS.
+ ..
+4. Conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso.
+5. Embargos de declaração rejeitados." (EDcl no AgRg no REsp n. 1.908.942/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 04/10/2021, sem grifos no original.)
+De outra parte, o art. 118, § 2.º, da Lei de Execução Penal, dispõe, in verbis:
+"Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado:
+I - praticar fato definido como crime doloso ou falta grave;
+ ..
+§ 2º Nas hipóteses do inciso I e do parágrafo anterior, deverá ser ouvido previamente o condenado."
+Com o objetivo de uniformizar a interpretação deste dispositivo infraconstitucional, ambas as turmas que compõem a Terceira Seção desta Corte Superior consolidaram a compreensão de que para a regressão definitiva de regime prisional é imprescindível a prévia oitiva judicial do apenado em audiência de justificação, não sendo suficiente para suprir a falta do referido ato judicial a apresentação de defesa escrita, ainda que por intermédio de advogado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. FALTA GRAVE. REGRESSÃO DEFINITIVA AO REGIME FECHADO. AUSÊNCIA DE OITIVA JUDICIAL. INOCORRÊNCIA. PETIÇÃO DE JUSTIFICATIVA DIRIGIDA AO JUÍZO E ANALISADA POR ELE. ABSOLVIÇÃO DA FALTA GRAVE. SUPRESSÃO DE INSTÂNCIA.
+1- Nos termos da jurisprudência do Superior Tribunal de Justiça é obrigatória a realização de audiência de justificação do reeducando, nos casos de regressão definitiva de regime prisional em decorrência da prática de falta disciplinar de natureza grave, nos termos do disposto no art. 118, § 2º, da Lei nº 7.210/84.  ..  (AgRg no HC 472.269/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/02/2019, DJe 19/02/2019).
+ ..
+5- Agravo regimental não provido." (AgRg nos EDcl no HC n. 838.584/GO, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 19/9/2023, DJe de 26/9/2023, sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO DE REGIME. AUDIÊNCIA DE JUSTIFICAÇÃO JUDICIAL. IMPRESCINDIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. TEMA PACIFICADO NO ÂMBITO DESTA CORTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Deve ser mantida a decisão monocrática em que se concede liminarmente a ordem impetrada, quando evidenciado manifesto constrangimento ilegal à liberdade de locomoção.
+2. A matéria em discussão está pacificada no âmbito das Turmas criminais que compõem a Terceira Seção deste Superior Tribunal, no sentido de que é imprescindível, para a regressão definitiva de regime carcerário, a prévia oitiva do apenado em juízo.
+3. Agravo regimental improvido." (AgRg no HC n. 502.016/SC, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 28/5/2019, DJe de 4/6/2019, sem grifos no original.)
+De fato, o caso em apreço não apresenta nenhuma peculiaridade que autorize tratamento diverso dos precedentes acima citados.
+A alegação de que o Agravado estava internado e, portanto, impossibilitado de participar da audiência de justificação não autoriza a dispensa de sua oitiva judicial. Pelo contrário, a impossibilidade de comparecimento do Apenado por motivos de saúde jamais poderia justificar a continuidade do procedimento sem a sua participação, sob pena de que a vulnerabilidade por motivos de saúde se convertesse em fundamento para mitigar seus instrumentos de defesa.
+Além disso, a defesa escrita apresentada por defensor técnico não substitui a autodefesa oral do Apenado em audiência. O direito do processado em se dirigir diretamente ao Julgador para apresentar suas razões pessoalmente é uma das mais fundamentais garantias dos processos penais, nos quais a defesa técnica e a autodefesa não são fungíveis.
+Em razão das graves consequências decorrentes da regressão definitiva de regime prisional, a prévia oitiva do apenado em juízo, conforme determina o art. 118, § 2.º, da Lei de Execução Penal, constitui instrumento de autodefesa personalíssimo e oral, equiparável ao interrogatório na ação penal. Desse modo, a apresentação de razões defensivas por defensor técnico, por escrito, não supre a necessidade de que se realize a audiência de justificação para o exercício da autodefesa oralmente.
+Registre-se, por fim, que a controvérsia em apreço restringe-se à análise da correta interpretação do art. 118, § 2.º, da Lei de Execução Penal, nos limites da competência atribuída a esta Corte Superior, de modo que qualquer questão constitucional s eria meramente reflexa.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
