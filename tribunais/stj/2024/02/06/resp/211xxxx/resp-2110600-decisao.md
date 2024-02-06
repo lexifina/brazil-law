@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS FERNANDO DOS SANTOS com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 189):
+ADMINISTRATIVO. APELAÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO COLETIVA AJUIZADA PELO SINDICATO DOS TRABALHADORES FEDERAIS EM SAÚDE, TRABALHO E PREVIDÊNCIA NO ESTADO DO RIO DE JANEIRO - SINDPREV/RJ. ILEGITIMIDADE DA REQUERENTE. VINCULADA AO MINISTÉRIO DA SAÚDE. CATEGORIA NÃO ABRANGIDA NO TÍTULO. EXTINÇÃO DO PROCESSO DE ORIGEM SEM RESOLUÇÃO DE MÉRITO. RECURSO NÃO PROVIDO.
+1. Apelação interposta contra sentença que, nos autos da ação de liquidação individual de sentença coletiva, indeferiu a petição inicial e extinguiu o feito, sem resolução de mérito, na forma dos arts. 330, II e 485, I, IV e VI, do CPC, reconhecendo a ilegitimidade ativa ad causam do exequente, ora apelante.
+2. O título executivo é proveniente da ação coletiva nº 0023117-70.2008.4.02.5101 (2008.51.01.023117-9), proposta pelo SINDSPREV/RJ perante a 16ª Vara Federal do Rio de Janeiro, no bojo da qual a União foi condenada a se abster de efetivar desconto relativo à contribuição previdenciária, incidente sobre as parcelas de terço constitucional de férias pagas aos filiados do sindicato autor, bem como a devolver aos filiados as parcelas descontadas sob o referido título, a partir de 1º de dezembro de 2003.
+3. No julgamento do AgInt no RMS 54.509/RJ, sob a relatoria do Ministro HERMAN BENJAMIN, julgado em 20.2.2018 (DJe 14.11.2018), a Segunda Turma do STJ decidiu que o SINDSPREV/RJ é ilegítimo para representar o interesse dos trabalhadores da área da saúde.
+4. Impõe-se reconhecer a ilegitimidade da exequente, vinculada ao Ministério da Saúde, categoria não abrangida pelo SINDSPREV/RJ para extinguir o processo originário, em razão da inexigibilidade de título, com fulcro no art. 485, VI do CPC. Embora o sindicato tenha pretendido na ação coletiva ampliar o número de substituídos (Tema de Repercussão Geral nº 823), o título só alcança as pessoas da categoria dos trabalhadores da Previdência Social, que é a representada, de acordo com seu cadastro perante o Ministério do Trabalho e Emprego. Precedentes: TRF2, 6ª Turma Especializada, AG 5005292-48.2021.4.02.0000, Rel. Des. Fed. REIS FRIEDE, julgado em 12.7.2021; TRF2, 6ª Turma Especializada, AG 5005463-05.2021.4.02.0000, Rel. Des. Fed. GUILHERME COUTO DE CASTRO, julgado em 12.7.2021; TRF2, 6ª Turma Especializada, AC 0001296-24.2019.4.02.5101, Rel. Des. Fed. POUL ERIK DYRLUND, julgado em 15.3.2021; TRF2, 8ª Turma Especializada, AG 0001593- 71.2020.4.02.0000, Rel. Des. Fed. MARCELO PEREIRA DA SILVA, DJF2R 17.12.2020.
+5. Apelação não provida.
+Em razões de recurso especial, sustenta ofensa aos artigos 5º, XXXVI, da Constituição Federal e 508 do CPC/2015, ao argumento de que não cabe limitar os efeitos do título executivo judicial, transitado em julgado.
+Com contrarrazões (fls. 244-250).
+Juízo positivo de admissibilidade às fls. 277-279.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Inicialmente, nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 5º, XXXVI, da CF/88.
+Ademais, a controvérsia relativa ao alcance subjetivo do título judicial formalizado na ação coletiva n.º 0023117-70.2008.4.02.5101 foi dirimida com fundamento constitucional, especificamente com base no Tema de Repercussão Geral nº 823, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE.
+1. A Corte de origem dirimiu a controvérsia, relativa à incidência de ICMS na nacionalização de bem móvel, à luz de fundamento eminentemente constitucional, sendo inviável, por meio da via eleita, a revisão de tal entendimento, sob pena de usurpação da competência do STF.
+2. Agravo interno desprovido.
+(AgInt no AREsp 2040636/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 05/12/2022, Dje de 27/01/2023)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. REPERCURSSÃO GERAL. DISTINÇÃO. SOBRESTAMENTO. INVIABILIDADE.
+1. Conforme o art. 105, III, da CF/1988, o recurso especial não serve à pretensão de revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+2. A questão jurídica a ser tratada no julgamento do Tema 536, submetido ao rito da repercussão geral pelo STF, não se amolda ao presente caso, razão pela qual se mostra inviável o sobrestamento dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp 1933662/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 03/10/2022, Dje de 20/10/2022)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AÇÃO COLETIVA AJUIZADA PELO SINDPREV/RJ. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE DO REQUERENTE, VINCULADO AO MINISTÉRIO DA SAÚDE. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
