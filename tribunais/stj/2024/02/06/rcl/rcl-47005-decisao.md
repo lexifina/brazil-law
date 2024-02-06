@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de reclamação com pedido de liminar ajuizada por CRISTINA FLORIO FERNANDES ARNONE e MARCELO ARNONE para evitar dano irreparável ocasionado pelo trânsito em julgado de acórdão proferido pela 5ª Turma Recursal Cível de Santo Amaro, do Tribunal do Estado de São Paulo (Processo n. 1028406-76.2021.8.26.0002).
+Conforme os reclamantes, a presente reclamação foi proposta devido ao não cabimento de recurso especial contra acordão proferido por colégio recursal, nos termos do art. 988 do CPC.
+O acordão teria afrontado decisão do STJ (REsp n. 1.634.851) no que tange à aplicação da teoria do desvio produtivo do consumidor, diante do tempo consumido para o cumprimento defeituoso de contrato de serviços de cruzeiro marítimo, sucessivamente adiado por diversos motivos, especialmente em razão da pandemia de covid-19.
+O Juizado Especial Cível julgou procedente a demanda, condenando as ora interessadas solidariamente a danos morais no importe de R$ 4 mil para cada autor. A 5ª Turma Recursal Cível do Tribunal de Justiça do Estado de São Paulo proveu o recurso inominado da recorrida MSC, uma vez que a CVC não recorrera.
+Segundo a parte reclamante, o acórdão afronta a jurisprudência do STJ. Cita precedentes em seu favor.
+Liminarmente, requer a suspensão do processo e, no mérito, o provimento da presente reclamação para cassar e sustar, de imediato, os efeitos do acórdão, que contraria frontalmente a decisão do STJ em questão, que alberga a teoria do desvio produtivo.
+É o relatório. Decido.
+A presente reclamação é manifestamente incabível.
+Consoante o art. 105, I, f, da Constituição Federal, o STJ é competente para processar e julgar originariamente a reclamação para a "preservação de sua competência e a garantia da autoridade de suas decisões".
+No caso, a parte reclamante pretende reformar decisão proferida pela 5ª Turma Recursal Cível do Tribunal de Justiça do Estado de São Paulo, sem sequer apontar o descumprimento de qualquer comando jurisdicional do Superior Tribunal de Justiça no âmbito da relação jurídico-processual estabelecida entre as partes naquele feito.
+Conforme entendimento jurisprudencial desta Corte, a reclamação não tem cabimento como sucedâneo recursal.
+Registre-se ainda o não cabimento de reclamação contra decisão de Turma Recursal, com a finalidade de discutir contrariedade à jurisprudência dominante ou sumulada do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AUSÊNCIA DE DESCUMPRIMENTO DE DECISÃO DESTA CORTE SUPERIOR PROFERIDA NO CASO CONCRETO. HIPÓTESE NÃO PREVISTA NO ARTIGO 988 DO CPC/2015. AJUIZAMENTO CONTRA ACÓRDÃO DE TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL INADEQUAÇÃO.
+ ..
+2. A reclamação, tal como concebida nos arts. 105, I, "f", da Constituição Federal e 187 do RISTJ, é medida de caráter restrito destinada a preservar a competência do Tribunal ou garantir a autoridade de decisão tomada em caso concreto, envolvendo as partes postas no litígio do qual ela é originada. Não tem cabimento para avaliar o acerto ou desacerto das decisões proferidas pelo Tribunal de origem, nem é adequada à preservação da jurisprudência do STJ ou, ainda, como sucedâneo recursal.
+3. In casu, a Reclamação foi proposta com a pretensão de demonstrar que o acórdão proferido pela 5ª Turma Recursal do Juizado Especial Federal da Seção Judiciária do Estado do Rio Grande do Sul não está em consonância com a jurisprudência desta do STJ. Todavia, nos termos da orientação consolidada nesta Corte Superior de Justiça "é incabível a reclamação contra decisão de Turma Recursal dos Juizados Especiais Federais com a finalidade de discutir contrariedade à jurisprudência dominante ou sumulada do STJ" (AgInt na Rcl n. 31.462/SP, rel. Min. Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Seção, DJe de 31/3/202).
+4. Agravo regimental não provido. (AgInt na Rcl n. 43.296/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 25/10/2022, DJe de 27/10/2022.)
+Por fim, o art. 4º da Emenda Regimental n. 22, de 16/3/2016, revogou a Resolução STJ n. 12/2009, com amparo na qual era admitida a reclamação para "dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência do Superior Tribunal de Justiça, suas súmulas ou orientações decorrentes do julgamento de recursos especiais processados na forma do art. 543-C do Código de Processo Civil".
+Ante o exposto, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
