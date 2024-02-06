@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão monocrática de relator da Corte de origem, que indeferiu o pedido liminar na revisão criminal (fls. 170-172).
+O paciente foi condenado, como incurso no artigo 33, caput, da Lei nº 11.343/06, à pena de 3 anos e 9 meses de reclusão, em regime aberto e pagamento de 375 dias-multa. A sentença transitou em julgado para defesa em 26/9/2023, ensejando a ação revisional proposta na origem.
+O impetrante sustenta ausência de prova judicial válida a ensejar o juízo condenatório, sobretudo em razão de nulidade do reconhecimento pessoal, que teria sido realizado sem observância do disposto no art. 226 do CPP.
+Afirma que, "Na segunda fase da dosimetria penal de RENAN, constou a reincidência, mas descuidou-se o magistrado já ter decorrido o período depurador, na forma do art. 64, I, do CP" (fl. 11).
+Alega que, "considerando-se que presentes os requisitos do artigo 71 do Código Penal, visto que se tratam de "crimes da mesma espécie" praticados nas mesmas "condições de tempo, lugar, maneira de execução e outras semelhantes" deve-se considerar haver CRIME CONTINUADO, de modo a aplicar a pena do maior com o aumento de 1/3 nos termos da jurisprudência deste C. Superior Tribunal de Justiça, isto é, de acordo com o NÚMERO DE INFRAÇÕES" (fl. 11).
+Também sustenta que deve ser afastada a qualificadora relativa ao emprego de arma de fogo, por não haver prova técnica a respeito.
+Aduz a necessidade de se fixar a pena-base no mínimo legal.
+Argumenta que o art. 68 do CP "permite a incidência de somente uma causa de aumento de pena, mas o juízo a quo utilizou diversas causas para majorar a pena-base, o que não pode ser admitido" (fl. 15).
+Defende "A aplicação do concurso formal de crimes, majorando-se a pena base no mínimo legal, observando-se os precedentes do STJ, compensando-se com a confissão extrajudicial" (fl. 154).
+Requer, inclusive liminarmente, que seja reconhecida a nulidade do reconhecimento pessoal, sejam afastadas as qualificadoras e os pacientes absolvidos.
+Nos termos da Súmula n. 691 do STF, não se admite, em regra, a impetração de habeas corpus contra decisão que indefere o pedido liminar na origem, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+A decisão monocrática ora impugnada encontra-se assim fundamentada (fls. 170-172):
+A concessão cautelar é medida excepcional, possível apenas quando o constrangimento ilegal é manifesto e de imediata detecção por meio de cognição sumária, que, neste caso, não se verifica, pois em que pese o entendimento da defesa na inicial desta ação revisional, cabe sua completa aferição quando da análise do mérito do pedido, não sendo possível sua antecipação nos limites da liminar.
+Portanto, nesta cognição sumária, não se afigura presente, aparentemente, nenhum direito líquido e certo violado, a justificar a liminar pretendida para suspender o trâmite do feito e afastar a expedição do "mandado de prisão" em regime aberto expedido, enquanto aguarda o julgamento da presente revisão criminal, razão pela qual não convencido de que presentes os requisitos para tanto necessários, indefiro este pedido liminar.
+Da análise da decisão impugnada, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+No caso, a pretensão de absolvição dos pacientes ou alteração da dosimetria da pena, em sede de revisão criminal, é questão passível de indeferimento do pedido de liminar, por demandar análise do próprio mérito da impetração, sobretudo no caso em tela, em que afirmado pelo relator não haver "nenhum direito líquido e certo violado, a justificar a liminar pretendida para suspender o trâmite do feito e afastar a expedição do "mandado de prisão" em regime aberto expedido, enquanto aguarda o julgamento da presente revisão criminal".
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Além disso, mister destacar que a análise das alegações certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, não conheço do habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
