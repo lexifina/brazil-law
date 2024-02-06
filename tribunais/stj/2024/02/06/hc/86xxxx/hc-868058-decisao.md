@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de BRUNO ALEXANDRE GRECCO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 9000082-58.2023.8.26.0037).
+Depreende-se dos autos que o Juízo de primeira instância sustou cautelarmente o livramento condicional ao qual estava submetido o paciente, determinando o seu recolhimento ao regime fechado, diante do descumprimento de condição imposta ao benefício.
+Irresignada, a defesa interpôs recurso de agravo em execução penal, que foi desprovido pelo Tribunal de origem, nos termos da seguinte ementa (e-STJ fl. 119):
+Agravo em Execução Penal da Defesa - Sustação cautelar do livramento condicional e fixação do regime fechado - Admissibilidade - Descumprimento de condição imposta ao benefício - Sentenciado que não foi encontrado por policiais militares durante o período noturno no endereço por ele fornecido - Decisão judicial bem justificada - Recurso de agravo em execução desprovido.
+Daí o presente writ, no qual alega a defesa falta de proporcionalidade da medida adotada pelo Juízo das execuções penais, pelos seguintes motivos: "1) Não foi observado o contraditório e a sua ampla defesa. 2) Está no Livramento condicional há quase 04 anos, e não há notícia de que tenha cometido algum crime, pelo contrário, sempre cumpriu todas as condições impostas, sendo desproporcional a sanção imposta. 3) A revogação requisitada pelo Nobre Magistrado é facultativa, conforme artigo 87 do Código Penal, devendo observar a proporcionalidade do caso concreto" (e-STJ fl. 6).
+Requer, desse modo, inclusive liminarmente, seja restabelecido o livramento condicional.
+Subsidiariamente, pugna que "a regressão se dê ao máximo no Regime Semiaberto, respeitando o Princípio da Intervenção Mínimo" (e-STJ fl. 11).
+Indeferido o pedido de liminar (e-STJ fls. 126/127) e prestadas as informações solicitadas (e-STJ fls. 133/185); o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fl. 189).
+É o relatório.
+Decido.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, "o livramento condicional deve ser revogado caso o apenado venha a praticar novo crime durante o período de prova (revogação obrigatória), hipótese em que se exige o trânsito em julgado da condenação (art. 86 do CP), ou caso descumpra injustificadamente as condições impostas (revogação facultativa) (art. 87 do CP)" (HC n. 197.168/SP, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 5/3/2015, DJe 17/3/2015).
+Logo, na espécie, inexiste reparo a ser efetuado nas decisões ordinárias, já que a decisão proferida pelo Magistrado singular trata claramente de suspensão cautelar em virtude da notícia do descumprimento das condições impostas quando concedido o livramento. Tal providência encontra amparo legal e na jurisprudência sedimentada do Superior Tribunal de Justiça, não havendo que se falar em desproporcionalidade.
+Destaco os seguintes trechos do aresto vergastado (e-STJ fls. 121/122):
+Entretanto, durante o cumprimento da pena em livramento condicional, o agravante não foi encontrado pelos policiais militares no endereço por ele fornecido, a saber, Avenida Paulino Rodella n. 1234, apartamento 101, bloco 16, Parque das Laranjeiras, cidade de Araraquara, em 15 de outubro de 2022 às 22,33 horas, oportunidade em que o porteiro Rony Maciel Alves declarou que interfonou ao referido apartamento por três vezes e não houve resposta.
+Diante da notícia de descumprimento de condição imposta ao benefício, consistente em permanecer na residência durante o repouso noturno (das 22 horas às 06 horas do dia seguinte), o MM. Juiz da Vara da Execução Criminal, em 1º de novembro de 2022, determinou a sustação cautelar do livramento condicional, com a transferência do sentenciado ao regime fechado, até a decisão final do incidente processual, determinando a expedição de mandado de prisão (fls. 72/74vº).
+Cumpre consignar que, expedidos os referidos mandados (fls. 56/58 e 75), o sentenciado não foi localizado no endereço supramencionado (fls. 56/58), reiterando o descumprimento da mais comezinha condição imposta ao livramento condicional, de informar o seu endereço residencial e manter o Juízo atualizado a respeito de possíveis alterações.
+Portanto, a meu sentir, não existe qualquer irregularidade na decisão agravada, tratando-se de medida a permitir a adoção de providências imediatas diante do descumprimento de condição imposta ao gozo do benefício.
+No mesmo sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. DESCUMPRIMENTO DAS CONDIÇÕES ANTERIORMENTE IMPOSTAS. SUSPENSÃO CAUTELAR. PRISÃO DECRETADA. RECORRENTE NÃO ENCONTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O descumprimento das condições impostas por ocasião do livramento condicional autoriza a suspensão cautelar do benefício, situação transitória, de natureza cautelar, que não exige prévia oitiva do liberado.
+2. Descumpridas as obrigações impostas em audiência admonitória e estando o apenado em local incerto e não sabido, presente a cautelaridade necessária à decretação da custódia.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 739.980/GO, de minha relatoria, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023, grifei. )
+EXECUÇÃO PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. LIVRAMENTO CONDICIONAL. DESCUMPRIMENTO DAS CONDIÇÕES ESTABELECIDAS. APENADO NÃO LOCALIZADO PARA APRESENTAR JUSTIFICATIVA. SUSPENSÃO CAUTELAR. INTIMAÇÃO PARA OUVIDA DO APENADO. DESNECESSIDADE. PRECEDENTES. ORDEM NÃO CONHECIDA.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Esta Corte Superior firmou entendimento de que, diferentemente da revogação do livramento condicional, a sua suspensão cautelar independe da prévia ouvida do apenado.
+3. No caso, após tentativa frustrada da intimação pessoal e por meio de edital do paciente, o Juízo da execução suspendeu cautelarmente o livramento condicional, o que não evidencia violação dos princípios do contraditório e da ampla defesa.
+4. Habeas corpus não conhecido.
+(HC n. 313.164/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2016, DJe de 16/6/2016, grifei.)
+Ante o exposto, denego o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
