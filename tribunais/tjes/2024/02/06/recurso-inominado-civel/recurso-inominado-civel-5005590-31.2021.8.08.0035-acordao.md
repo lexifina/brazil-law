@@ -1,0 +1,97 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005590-31.2021.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: HELMAR SERGIO GUIMARAES
+RECORRIDO: MUNICIPIO DE VILA VELHA
+RELATOR(A):
+THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO Nº
+5005590-31.2021.8.08.0035
+
+RECORRENTE:
+HELMAR SERGIO GUIMARAES
+
+RECORRIDA:
+PREFEITURA MUNICIPAL DE VILA VELHA, MUNICÍPIO DE VILA VELHA
+
+RELATORA:
+Dra.
+
+THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE:
+MARCOS ANTÔNIO BARBOSA DE SOUZA
+
+EMENTA: JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE OBRIGAÇÃO DE FAZER. CERTIDÃO DE DÍVIDA ATIVA REGISTRADA EM CARTÓRIO. PAGAMENTO NÃO DEMONSTRADO. DANOS MORAIS NÃO CONFIGURADOS. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+VOTO
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de assistência judiciária gratuita.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PAGAMENTO NÃO DEMONSTRADO. DANOS MORAIS NÃO CONFIGURADOS.
+NARRA A PARTE AUTORA QUE ENCONTRA-SE NEGATIVADO E INTERPELADO EXTRAJUDICIALMENTE, POR INTERMÉDIO DO TÍTULO EXECUTIVO EXTRAJUDICIAL N
+O
+. 21376/2017, EMITIDO PELA PREFEITURA MUNICIPAL DE VILA VELHA, POR MEIO DO CARTÓRIO DO 1º OFÍCIO DA 1ª ZONA DE VILA VELHA/ES, PELO SUPOSTO INADIMPLEMENTO TRIBUTÁRIO (IPTU E TAXA DE LIXO), REFERENTE AO EXERCÍCIO DE 2016, NOS VALORES, RESPECTIVOS, DE R$ 287,70 E R$ 124,96, COMPUTADOS MULTAS, JUROS E ATUALIZAÇÕES LEGAIS; QUE O VALOR COBRADO EXTRAJUDICIALMENTE, ATUALIZADO, CORRESPONDE O IMPORTE DE R$ 1.039,11, COM VENCIMENTO EM 18/09/2020, CONFORME TÍTULO ANEXADO. ENTRETANTO, JUNTO À ADMINISTRAÇÃO MUNICIPAL, APRESENTOU CÓPIAS DAS QUITAÇÕES ANTECEDENTES ATÉ AO VENCIMENTO, CONFORME DEMONSTRADO PELOS DOCUMENTOS ANEXADOS; QUE APÓS INÚMEROS E-MAILS E TENTATIVAS ADMINISTRATIVAS NA SOLUÇÃO DO IMPASSE, SENDO, INCLUSIVE, EMITIDA CERTIDÃO NEGATIVA DE DÉBITO PELO PRÓPRIO ÓRGÃO MUNICIPAL, FOI SURPREENDIDO COM A NOTIFICAÇÃO EXTRAJUDICIAL, ENCONTRANDO-SE EFETIVADA SUA NEGATIVAÇÃO JUNTO AOS ÓRGÃOS PÚBLICOS, POR MEIO DO PROTOCOLO N
+O
+. 142909 DE 15-9-2020; QUE SEM LOGRAR ÊXITO NA SOLUÇÃO DO IMPASSE, VISTO QUE, SEGUNDO INFORMAÇÕES COLHIDAS JUNTO À PREFEITURA, O DÉBITO ENCONTRA-SE EM CARTÓRIO, RESTANDO UNICAMENTE A QUITAÇÃO DO DÉBITO OU SUA EXECUÇÃO JUDICIAL. REQUER A CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO EM DOBRO DO VALOR COBRADO, E INDENIZAÇÃO POR DANOS MORAIS.
+SENTENÇA JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS
+DIANTE DA INEXISTÊNCIA DE COMPROVAÇÃO DE QUE O REQUERENTE REALIZOU O PAGAMENTO DO IPTU OU TAXA DE COLETA DE LIXO ALUSIVO AO EXERCÍCIO DE 2017.
+RECURSO INOMINADO DA PARTE AUTORA.
+EM SUAS RAZÕES, ALEGA A INEXISTÊNCIA DO DÉBITO, E A DEMONSTRAÇÃO ATRAVÉS DOS DOCUMENTOS ACOSTADOS. PUGNA PELA REFORMA DA SENTENÇA PARA QUE SEJAM JULGADOS PROCEDENTES OS PEDIDOS AUTORAIS.
+CONTRARRAZÕES APRESENTADAS PELA
+PARTE REQUERIDA, PELA QUAL REQUER MANUTENÇÃO INTEGRAL DA SENTENÇA ORA GUERREADA.
+RECURSO CONHECIDO E IMPROVIDO
+.
+ANALISANDO DETIDAMENTE O ACERVO FÁTICO PROBATÓRIO DOS AUTOS, ENTENDO QUE OS DOCUMENTOS ACOSTADOS PELA PARTE AUTORA, ORA RECORRENTE, SÃO
+INSUFICIENTES
+PARA DEMONSTRAR O DEVIDO PAGAMENTO DO IPTU OU TAXA DE COLETA DE LIXO ALUSIVO AO EXERCÍCIO DE 2017. COMO ACERTADAMENTE APONTADO PELO JUÍZO DE PISO, HÁ NOS AUTOS APENAS COMPROVAÇÃO DE QUE O ORA RECORRENTE REALIZOU O PAGAMENTO DOS TRIBUTOS REFERENTES AO EXERCÍCIO FINANCEIRO DO ANO DE 2016. NESSE SENTIDO, COADUNO COM O ENTENDIMENTO DO JUÍZO A QUO, VEJAMOS: “
+O documento constante do
+ID Num. 7361262 - Pág. 1
+, a meu ver, não serve como comprovante de pagamento do IPTU, exercício de 2017, uma vez que não contém autenticação mecânica bancária ou o recibo expedido pelo banco comprovando o pagamento da obrigação. Sendo assim, devo concordar com a contestação ofertada pelo Município-requerido, que trouxe a informação de que “Conforme documento em anexo os pagamentos alegados pelo autor constam devidamente baixados na data informada, ao passo que os
+valores constantes da CDA 21376/2017 trataM-se de valores nominais diversos inclusive com data de vencimento e períodos diversos
+, de modo que a CDA se encontra hígida, bem como o protesto extrajudicial”
+. PORTANTO, ENTENDO QUE O AUTOR NÃO LOGROU ÊXITO EM DEMONSTRAR OS FATOS CONSTITUTIVOS DE SEU DIREITO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+,
+NOS TERMOS DO ART. 46 DA LEI 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 20% DO VALOR ATUALIZADO DA CAUSA, ANTE A AUSÊNCIA DE VERBA CONDENATÓRIA. SUSPENSA SUA EXIGIBILIDADE ANTE A CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+
+DISPOSITIVO
+
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO
+, mantendo a sentença intocada, por seus próprios fundamentos. Condeno o recorrente ao pagamento de custas processuais e honorários advocatícios, fixados em 20% sobre o valor da causa, ante a ausência de verba condenatória, na forma do art. 55 da Lei 9.099/95 e art. 85, §2º do Código de Processo Civil, suspensa a exigibilidade, ante a gratuidade de justiça concedida, conforme art. 98, §3º do CPC.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
