@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, embargos de declaração opostos pelo Serviço Nacional de Aprendizagem Industrial - SENAI, em 21/06/2022, contra despacho que determinou o sobrestamento do presente recurso especial, interposto por Flora Produtos de Higiene e Limpeza S/A - no qual se discute sobre o cabimento do agravo de instrumento e acerca da legitimidade ad causam do SENAI para propor ação de cobrança da contribuição adicional prevista no art. 6º do Decreto-lei 4.048/42 -, até a conclusão do julgamento dos EREsp 1.571.933/SC.
+Nos embargos declaratórios o SENAI apontou omissão e contradição, sustentando não ser o caso de suspensão do processo.
+Na impugnação aos embargos de declaração a empresa recorrente manifestou-se pela rejeição dos declaratórios, bem como pela aplicação de multa ao embargante.
+É o relatório. Decido.
+O recurso especial e os embargos de declaração encontram-se prejudicados.
+Segundo a obra doutrinária do processualista José Carlos Barbosa Moreira, diz-se "prejudicado" o recurso quando a impugnação perde o objeto, e por conseguinte cai no vazio o pedido de reforma ou anulação" (Comentários ao Código de Processo Civil, 11ª ed. Rio de Janeiro: Forense, 2003, vol. 5, p. 662). Também na obra do Ministro Athos Gusmão Carneiro, que cita a lição de Barbosa Moreira, consta que recurso manifestamente prejudicado é aquele superado por decisão ou fato posterior (Recurso especial, agravos e agravo interno, Rio de Janeiro: Forense, 2008, p. 319).
+De acordo, ainda, com a jurisprudência do STJ, "a superveniência de sentença, que confirma a legitimidade passiva ad causam da parte ré, prejudica a pretensão constante de recurso especial originado em agravo de instrumento, em que se discute a legitimidade" (STJ, AgRg no REsp 1.146.528/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 17/04/2013).
+No caso, em consulta ao site do Tribunal de Justiça do Estado de São Paulo na Internet, constata-se que, nos autos principais da ação de cobrança 1072242-67.2019.8.26.0100/SP, sobreveio a prolação, em setembro de 2023, da sentença de procedência da demanda, estando atualmente pendentes os embargos declaratórios opostos à aludida sentença, fat o superveniente que acarreta a perda de objeto do recurso especial e dos presentes embargos de declaração.
+Isso posto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicados o recurso especial e os embargos de declaração.
+Publique-se.
+EMENTA
