@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO GUEDES CAVALCANTE GIGLIO, impugnando acórdão do Tribunal de Justiça de São Paulo no Habeas Corpus criminal n. 2342470-36.2023.8.26.0000, assim ementado:
+Habeas corpus - Livramento condicional - Pedido não apreciado no juízo de origem - Demora desarrazoada - Inocorrência - Ausência de ato ilegal imputável ao Magistrado - Ordem denegada.
+(Habeas Corpus Criminal nº 2342470-36.2023.8.26.0000, Rel. Des. ALEXANDRE ALMEIDA, 11ª Câmara de Direito Criminal do TJ/SP, unânime, julgado em 16/01/2024)
+Na presente impetração, a defesa insiste em que "A explícita delonga para se apreciar os pedidos realizados pelo Paciente (docs. anexo), contraria, não só a garantia fundamental do cidadão de autorizada sua liberdade dentro dos ditames legais, mas também afronta a garantia traduzida na regra jurídica do art. 5º, LXXVIII, da Carta Magna brasileira, qual seja, o princípio da razoável duração do processo" (e-STJ fl. 5).
+Afirma que passado mais de 1 (um) mês da realização do pedido, não foi ainda ofertada a prestação jurisdicional devida.
+Pede, assim, liminarmente e no mérito, a concessão da ordem "para determinar ao Juízo da Execução Criminal de Araçatuba/SP, que atualize o cálculo de penas do paciente e julgue os benefícios executórios pendentes e, ao final, caso não atendida a determinação da Corte, que seja o Paciente colocado em regime aberto na modalidade de albergue domiciliar com uso de tornozeleira eletrônica, ainda que não haja risco de fuga, uma vez que o mesmo já gozou de diversas saídas temporárias e sempre retornou, até o efetivo julgamento dos benefícios pendentes, pois está com o lapso ultrapassado, aguardando tão somente a análise do seu benefício" (e-STJ fl. 8).
+Às e-STJ fls. 41/42, a Presidência desta Corte indeferiu a liminar.
+Em ofício datado de 29/01/2 024, o Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 2ª RAJ - da Comarca de Araçatuba/SP prestou informações (e-STJ fl. 50), nas quais esclarece que "Nesta data, indeferi o pedido de progressão ao regime aberto e de livramento condicional, haja vista que o requisito objetivo será atingido, respectivamente, em 26/09/2025 e 27/05/2027)".
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pelo não conhecimento do habeas corpus, ante a sua perda superveniente de objeto.
+É o relatório. Passo a decidir.
+Com razão o Parquet Federal. Com efeito, como a única irresignação posta na presente impetração dizia respeito a suposto excesso de prazo do Juízo de Execução para análise do pedido de livramento condicional formulado pela defesa, a superveniente prolação de decisão sobre o tema esvazia completamente o interesse no prosseguimento deste feito.
+Ante o exposto, com amparo no art. 34, XI e XX, do Regimento Interno do STJ, não conheço do presente habeas corpus, ante a perda superveniente de seu objeto.
+Intimem-se.
+EMENTA
