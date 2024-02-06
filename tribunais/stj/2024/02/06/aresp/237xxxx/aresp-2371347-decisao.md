@@ -1,0 +1,13 @@
+DECISÃO
+ELCIO RODRIGUES NEGRÃO agrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do do Estado de São Paulo (Apelação Criminal n. 0003195-80.2014.8.26.0073).
+Consta dos autos que o paciente foi condenado a 8 anos e 4 meses de reclusão, em regime fechado, mais multa, pela prática do delito de associação para o tráfico.
+Nas razões do especial, a defesa aponta violação dos arts. 59 e 68, ambos do Código Penal, 5º, XLI, da Constituição Federal. Busca seja readequada a pena-base imposta com exclusão dos maus antecedentes, a aplicação da detração penal. Pleiteia, ainda, a restituição do veículo apreendido.
+O Tribunal a quo não admitiu o recurso com base nos seguintes óbices: necessidade de revolvimento fático-probatório (Súmula n. 7 do STJ); entendimento da Corte estadual em consonância com a jurisprudência deste Superior Tribunal (Súmula n. 83 do STJ); impropriedade da via eleita para a análise de violação constitucional; ausência de demonstração do cotejo analítico; ausência do prequestionamento; ausência de impugnação dos fundamentos da decisão recorrida (incidência da Súmula n. 182).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso e, caso conhecido, pelo seu não provimento.
+Decido.
+O agravo é tempestivo, mas não infirmou as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso, na razões do agravo, a defesa, além de tecer considerações acerca do mérito do recurso especial, afirmou apenas que "estão preenchidos os requisitos do artigo 105, III, letra "a" da Constituição Federal, porque foi negada vigência ao artigo 387, § 2º do Código de Processo Penal, com a nova redação dada pela lei n0 12.736/2012" (fl. 2.642), "não necessitar de revisão de prova" (fl. 2.642) e haver sido "considerada prequestionada toda matéria infraconstitucional e constitucional" (fl. 2.643)
+Portanto, verifica-se que o agravante não rebateu, com particularidade, todos os óbices de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
