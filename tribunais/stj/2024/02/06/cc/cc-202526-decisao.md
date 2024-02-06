@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito do Anexo de Juizado Especial da Fazenda Pública de Ribeirão Preto/SP e o Tribunal Superior do Trabalho, nos autos da Reclamação Trabalhista proposta em desfavor do Hospital das Clinicas da Faculdade de Medicina de Ribeirão Preto/SP.
+A ação foi aviada perante o Juízo da Vara do Trabalho de Ribeirão Preto/SP. O Tribunal Superior do Trabalho, apreciando agravo de instrumento em recurso de revista, reconheceu, de oficio, a incompetência da Justiça do Trabalho para o julgamento da causa e, em consequência, julgou prejudicado o exame dos recursos pendentes, determinando a baixa dos autos ao Tribunal Regional de origem, a fim de que os remeta ao Juízo competente (fls. 41-52).
+Distribuído o feito ao Juízo de Direito do Anexo de Juizado Especial da Fazenda Pública de Ribeirão Preto/SP, este suscitou o conflito perante o Superior Tribunal de Justiça consignando, para tanto, que a vinculação celetista do empregado público com a Administração Pública permanece incluída na competência da Justiça do Trabalho (fls. 53-56).
+É o breve relatório. Decido.
+Com efeito, cabe ao Superior Tribunal de Justiça dirimir conflito negativo de competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+Por outro lado, à luz da alínea "o" do inciso I do artigo 102 da Constituição Federal, compete ao Supremo Tribunal Federal "processar e julgar, originariamente, os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal".
+No caso dos autos, como relatado, o Tribunal Superior do Trabalho, em sede de recurso de revista, reconheceu a incompetência da Justiça do Trabalho para o processamento e julgamento da questão, motivo pelo qual é de competência exclusiva do Supremo Tribunal Federal dirimir o conflito negativo de competência.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - SOCIEDADE EM RECUPERAÇÃO JUDICIAL - VARIG S.A./GOL S.A. - SUCESSÃO EMPRESARIAL - TRIBUNAL SUPERIOR DO TRABALHO - MANIFESTAÇÃO EM SEDE DE RECURSO DE REVISTA - INCOMPETÊNCIA DO STJ - COMPETÊNCIA DO STF - DECISÃO MONOCRÁTICA QUE DECLAROU A INCOMPETÊNCIA DO STJ E DETERMINOU A REMESSA DOS AUTOS AO STF. INSURGÊNCIA DA SUSCITANTE.
+1. A irresignação da suscitante diz respeito à questão da sucessão empresarial da GOL para responder pelas obrigações contraídas pela VARIG, questão que foi decidida pelo Tribunal Superior do Trabalho no âmbito do recurso de revista.
+2. Neste caso, a análise do conflito refoge à competência do Superior Tribunal de Justiça, por envolver Tribunal superior e o Juízo da recuperação, ressaindo clara a conclusão de que caberá ao Supremo Tribunal Federal o deslinde do incidente (art. 102, I, "o", da CF).
+3. Agravo interno desprovido (AgInt no AgInt no CC 152.594/RJ, relator Ministro Marco Buzzi, Segunda Seção, DJe 18/12/2018).
+CONFLITO DE COMPETÊNCIA. JUIZ ESTADUAL DE PRIMEIRO GRAU E TST. COMPETÊNCIA DO STF.
+1. Compete ao Supremo Tribunal Federal dirimir conflito de competência entre Juiz Estadual de primeiro grau de jurisdição e o Tribunal Superior do Trabalho. Precedentes do STF.
+2. Agravo regimental provido. Conflito não conhecido, com a remessa dos autos ao STF (AgRg no CC 99.576/SC, relatora Ministra Maria Isabel Gallotti, Segunda Seção, DJe 17/12/2010).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. JUÍZO DE DIREITO. JUÍZO DO TRABALHO. ACÓRDÃO DO TST DECIDINDO SUA INCOMPETÊNCIA. CONFLITO INDIRETO. COMPETÊNCIA DO STF. AGRAVO REGIMENTAL PROVIDO.
+1. O STJ não tem competência para julgar Conflito instaurado entre o Juízo de Direito e o Juízo do Trabalho, no qual já incide decisão prévia do TST, declarando sua incompetência para o feito. Conflito instaurado indiretamente entre o Juízo de Direito e o TST.
+2. Remessa dos autos ao STF. Agravo Regimental provido (AgRg no CC 88.352/AM, relator Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJ 1/2/2008).
+Em igual sentido, as seguintes decisões monocráticas: CC 186.100/TO, relator Ministro Og Fernandes, DJe 4/5/2022; CC 186.609/SP, relator Ministro Benedito Gonçalves, DJe 17/3/2022; CC 185.314/SP, relator Ministro Manoel Erhardt (Desembargador Federal convocado do TRF5), DJe 4/2/2022; Edcl no CC 181.579/BA, relatora Ministra Assusete Magalhães, DJ e 15/10/2021; CC 182.871/SP, relator Ministro Mauro Campbell Marques, DJe 6/10/2021.
+Ante o exposto, não conheço do conflito de competência, determinando, por consequência, a remessa dos autos ao Supremo Tribunal Federal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZO DE DIREITO E TRIBUNAL SUPERIOR DO TRABALHO. COMPETÊNCIA DO STF (ART. 102, I, "O", DA CONSTITUIÇÃO FEDERAL). PRECEDENTES. REMESSA DOS AUTOS AO STF PARA APRECIAÇÃO DO CONFLITO.
