@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL interpostos por FRANCISCO CARLOS PINHEIRO NUNES, com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados:
+a) MS n. 11.369/DF e MS n. 11.955/DF, proferidos pela Terceira Seção; e
+b) AgInt no AREsp n. 193.550/SP, proferido pela Primeira Turma.
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Verificou-se a irregularidade no recolhimento do preparo, uma vez que a parte apresentou comprovante de pagamento sem as guias de custas, razão pela qual concedi, à fl. 1.813 (e-STJ), prazo para regularizar o vício apontado.
+A parte, devidamente intimada para regularizar o preparo, opôs embargos de declaração contra o despacho de regularização (e-STJ fls. 1.817/1.824), alegando ser indevida a intimação para complementação do recolhimento do preparo.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Tal exigência tem respaldo na necessidade de constarem o número do código de barras e o do processo, viabilizando o cotejo com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do efetivo recolhimento do preparo.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE PREPARO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO DAS CUSTAS. JUNTADA DE COMPROVANTE DE PAGAMENTO DESACOMPANHADO DE GUIA DE RECOLHIMENTO DA UNIÃO. NOVA INTIMAÇÃO. IMPOSSIBILIDADE. DESERÇÃO. AGRAVO DESPROVIDO.
+1. "É insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento da União" (AgRg nos EAREsp n. 562.945/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/6/2015).
+2. "Deixando a parte recorrente de sanar o erro no preenchimento e recolhimento da guia de custas, no prazo fixado pelo STJ, descabe nova intimação para regularizar o vício" (AgInt no RMS n. 61.482/PR, relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/3/2020, DJe 31/3/2020).
+3. Agravo regimental desprovido.
+(AgRg no RMS 65051/PB, relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/03/2021, DJe 30/03/2021)
+Registre-se que o despacho não possui conteúdo decisório, razão pela qual é irrecorrível, nos termos do art. 1.001 do CPC (Nesse sentido: AgInt nos EDcl na PET nos EAREsp 1209653/SP, Rel. Ministro Benedito Gonçalves, Corte Especial, julgado em 06/11/2019, Dje 11/11/2019; AgInt na PET na PET no AgInt nos EDcl no RE nos EDcl nos EDcl no MS 20.443/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 22/10/2019, DJe 28/10/2019). Portanto, não conheço da irresignação de fls. 1.817/1.824 (e-STJ), uma vez que manifestamente incabível.
+Ademais, verifica-se que embora tenha juntado a guia correspondente ao comprovante de pagamento de fl. 1.782 (e-STJ), em relação à complementação do recolhimento do preparo, a parte apresentou apenas o comprovante de agendamento do pagamento (e-STJ fl. 1.822 ), não tendo sido juntado o comprovante do efetivo pagamento.
+Veja-se que não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação". (AgInt no AREsp 1.497.996/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 7/3/2018.)
+Mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na deserção do recurso. Nesse sentido, confiram-se os seguintes precedentes: AgInt no REsp 1.866.699/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 18/12/2020; AgInt no AREsp 1.631.204/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 2/2/2021.
+Dessa forma, os embargos de divergência não foram devida e oportunamente preparados. Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ainda se assim não fosse, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS E MBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTS. 1.043, § 4º, DO CPC/2015 E 266, § 4º, DO RISTJ. DESCUMPRIMENTO. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO. SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A não demonstração do dissídio alegado, nos moldes exigidos pelos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, constitui vício substancial, diante do rigor técnico exigido na interposição dos Embargos de Divergência, sendo descabida a concessão de prazo para complementação de fundamentação. Precedentes.
+2. Consoante a jurisprudência sedimentada deste Tribunal, não se admite a oposição dos embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, em razão do disposto na Súmula 315 do STJ, em consonância, ainda, com a redação do art. 1.043, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.969.968/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 30/5/2023, DJe de 1/6/2023.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso de embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
