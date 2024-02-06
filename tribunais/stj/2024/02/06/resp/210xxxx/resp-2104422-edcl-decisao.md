@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por WILLIAM IVANILTON DA SILVA DE MORAES em face da decisão que não conheceu do recurso especial em razão da deserção e de sua intempestividade (e-STJ fl. 328/330).
+Em suas razões sustenta que a decisão incorreu em omissão, uma vez que não se pronunciou sobre a questão relacionada ao arbitramento de honorários advocatícios sucumbenciais em desfavor do embargado.
+Alega que o Tribunal de origem deveria ter recebido o agravo interno como embargos de declaração, aplicando o princípio da fungibilidade recursal, assim "a interposição do Agravo Interno interposto pelo Recorrente, contra a decisão do Juízo a quo, que julgou os Embargos de Declaração, interrompe o prazo processual, dessa forma, não há que se falar em Recurso Especial intempestivo" (e-STJ fl. 340).
+Afirma que "já constava anexado ao Recurso Especial protocolado pelo Recorrente, o comprovante do referido recolhimento das custas recursais. Nesse sentido, não há necessidade de o recorrente juntar novamente o comprovante do recolhimento recursal" (e-STJ fl. 340).
+Requer, desse modo, o acolhimento dos presentes embargos de declaração.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios, manifestando-se às fls. 351/356 (e-STJ).
+É, no essencial, o relatório. Decido.
+Os embargos declaratórios não reúnem condições de serem processados.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão embargada, a interposição de recurso manifestamente inadmissível não interrompe o prazo recursal. No caso dos autos o recorrente interpôs agravo interno contra decisão colegiada, sendo inviável aplicar o princípio da fungibilidade para recebê-lo como embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO INTERPOSTO EM FACE DE ACÓRDÃO NA ORIGEM. ERRO GROSSEIRO. MANIFESTA INTEMPESTIVIDADE DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+2. O prazo para interposição do recurso especial e do agravo em recurso especial (art. 1.003, § 5º do CPC de 2015) é de 15 (quinze) dias úteis, conforme o art. 219 do CPC de 2015.
+3. A interposição de agravo interno contra acórdão na origem, porquanto manifestamente inadmissível, não interrompe o prazo para a interposição do recurso especial. Intempestividade do apelo nobre confirmada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1376769/SC, Ministro Relator Raul Araújo, Quarta Turma, julgado em 28/03/2019, DJe 12/04/2019)
+Ademais, no momento da interposição do recurso a parte juntou aos autos apenas o comprovante de agendamento do preparo (solicitação de transação - e-STJ fl. 302), não tendo sido juntado o comprovante do efetivo pagamento, mesmo após devidamente intimada para sanar tal vício.
+Ressalte-se que o mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na incidência da Súmula 187/STJ, o que leva à deserção do recurso. Nesse sentido: AgInt no REsp 1.866.699/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 18/12/2020; AgInt no AREsp 1.631.204/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 2/2/2021.
+Veja-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente indeferimento liminar do recurso de embargos de divergência. Portanto, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade.
+Não ultrapassado o juízo de admissibilidade, descabe a apreciação das questões suscitadas no recurso, ainda que se trate de matéria de ordem pública. Nesse sentido, mutatis mutandis: AgRg nos EAREsp n. 2.105.681/MG, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 14/6/2023, DJe de 21/6/2023.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg no RHC n. 171.820/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/6/2023, DJe de 19/6/2023.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
