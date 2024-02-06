@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de Philipe Washington Silva da Costa e Cleberson Rodrigues da Silva - condenados, respectivamente, às penas de 7 anos, 9 meses e 10 dias de reclusão, a ser inicialmente cumprida em regime fechado, e de 2 meses e 15 dias de detenção, a ser inicialmente cumprida em regime aberto, e pagamento de 28 dias-multa; e de 6 anos e 8 meses de reclusão, a ser inicialmente cumprida em regime fechado, e de 2 meses e 15 dias de detenção, a ser inicialmente cumprida em regime aberto, e pagamento de 26 dias-multa, pela prática dos crimes previstos nos arts. 157, § 2º, inciso II, e § 2º-A, inciso I, 329 e 330, todos na forma do art. 69, todos do Código Penal -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio de Janeiro (Apelação Criminal n. 0183591-59.2020.8.19.0001 - fls. 24/46) que manteve a sentença condenatória prolatada na Ação Penal n. 0183591-59.2020.8.19.0001 (fls. 115/157), da 2ª Vara da Criminal da comarca de São João de Meriti/RJ, não deve ser conhecido.
+Nesta Casa, a defesa pretende, em liminar e no mérito: seja reduzida a pena-base do crime de roubo; afastada a majorante pelo emprego de arma de fogo; e fixado regime inicial mais benéfico (fl. 12).
+Entretanto, em consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verifiquei a interposição concomitante de REsp pelo próprio paciente, contra o mesmo acórdão, o que inviabiliza o processamento do writ.
+Ocorre que a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe 27/9/2022).
+Ainda, nesse sentido: AgRg no HC n. 774.540/SC, Ministra Laurita Vaz, Sexta Turma, DJe 18/11/2022.
+Em razão disso, não conheço da presente impetração.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. REDUÇÃ O DA PENA-BASE. EXCLUSÃO DA QUALIFICADORA DO EMPREGO DE ARMA DE FOGO. REGIME MAIS BRANDO. INTERPOSIÇÃO DE RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS CONTRA O MESMO ACÓRDÃO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE.
+Writ não conhecido.
