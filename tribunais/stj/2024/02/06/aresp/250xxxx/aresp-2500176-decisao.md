@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de dois agravos interpostos por BANCO OLE CONSIGNADO S.A. e JOANILSON GASPAR AROUCHE, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, percebeu-se, no STJ, haver irregularidade na representação processual do recurso, uma vez que a parte - BANCO OLE CONSIGNADO S.A. - não procedeu à juntada da cadeia completa de substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Giovanna Morillo Vigil Dias Costa.
+Compulsando os autos, observou-se que o substabelecimento de fl. 1026 carecia de complementação, uma vez que não foi juntado o instrumento de mandato originário mediante o qual ficasse comprovado que a substabelecente, Dra. Amanda Campos Muniz da Silva, estava investida de poderes de representação.
+Assim, a parte foi regularmente intimada para sanar referido vício e, embora tenha se manifestado nos autos e promovido a juntada dos documentos de fls. 1258/1478, não regularizou o feito, uma vez que os poderes consignados no instrumento de mandato de fls. 1395/1404 foram outorgados à substabelecente em data posterior ao substabelecimento e à interposição do recurso especial.
+A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Quanto à irresignação de JOANILSON GASPAR AROUCHE, constata-se que não existe recurso especial apresentado pelo ora agravante, e, consequentemente, qualquer decisão de admissibilidade que lhe tenha sido desfavorável.
+O único recurso especial existente fora interposto pelo BANCO OLE CONSIGNADO S.A., sendo, portanto, o único interessado em reverter a decisão que inadmitiu seu recurso especial.
+Assim sendo, não subsiste interesse recursal de JOANILSON GASPAR AROUCHE na interposição do presente recurso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
+EMENTA
