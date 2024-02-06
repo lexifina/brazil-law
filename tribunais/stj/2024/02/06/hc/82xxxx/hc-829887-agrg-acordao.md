@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO (ART. 1º, INCISO I, DO DECRETO-LEI N. 201/1967). WRIT PREJUDICADO. AUSÊNCIA DE LESÃO OU DE AMEAÇA REAL E IMINENTE DE LESÃO À LIBERDADE DE LOCOMOÇÃO. PREJUDICIALIDADE DO HABEAS CORPUS. INTIMAÇÃO DE TESTEMUNHAS. FORNECIMENTO DE MEIOS PARA LOCALIZAÇÃO. ÔNUS DA PARTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus se destina a preservar a liberdade de locomoção indevidamente restringida ou sobre a qual paire ameaça iminente de restrição em decorrência de ato de autoridade pública tido por ilegal.
+2. Neste caso, houve prolação de sentença absolutória em favor dos agravantes e não é possível presumir qualquer ameaça de lesão à liberdade ambulatorial somente pela existência de recurso de apelação manejado pelo órgão acusador. Vale frisar que, mesmo para a concessão de habeas corpus preventivo, exige-se ameaça real ao direito de locomoção, inexistente na situação descrita nestes autos.
+3. De mais a mais, este Tribunal da Cidadania, em situações assemelhadas, afirmou ser dever da parte fornecer ao juízo os dados necessários à localização das testemunhas arroladas, não sendo incumbência do magistrado ou dos serviços auxiliares do Poder Judiciário diligenciar para a execução de ato das partes.
+4. Agravo regimental não provido.
+RELATÓRIO
+ADRIANO MIOTTO e DANIELA MIOTTO interpuseram este agravo regimental, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão que julgou prejudicado o habeas corpus substitutivo de recurso especial impetrado em razão de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no julgamento da Correição Parcial n. 5014812-07.2023.4.04.0000.
+Em suas razões, os agravantes manifestam inconformismo com a decisão que julgou prejudicado o writ, aduzindo que, muito embora tenha sido proferida sentença absolutória em seu benefício, o Ministério Público apresentou recurso de apelação, pendente de julgamento perante a Corte Federal, de maneira que, no entender dos agravantes, o habeas corpus não perdeu objeto.
+Diante disso, requer o provimento deste agravo para conceder a ordem e determinar a intimação das testemunhas arroladas pelos agravantes.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO (ART. 1º, INCISO I, DO DECRETO-LEI N. 201/1967). WRIT PREJUDICADO. AUSÊNCIA DE LESÃO OU DE AMEAÇA REAL E IMINENTE DE LESÃO À LIBERDADE DE LOCOMOÇÃO. PREJUDICIALIDADE DO HABEAS CORPUS. INTIMAÇÃO DE TESTEMUNHAS. FORNECIMENTO DE MEIOS PARA LOCALIZAÇÃO. ÔNUS DA PARTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus se destina a preservar a liberdade de locomoção indevidamente restringida ou sobre a qual paire ameaça iminente de restrição em decorrência de ato de autoridade pública tido por ilegal.
+2. Neste caso, houve prolação de sentença absolutória em favor dos agravantes e não é possível presumir qualquer ameaça de lesão à liberdade ambulatorial somente pela existência de recurso de apelação manejado pelo órgão acusador. Vale frisar que, mesmo para a concessão de habeas corpus preventivo, exige-se ameaça real ao direito de locomoção, inexistente na situação descrita nestes autos.
+3. De mais a mais, este Tribunal da Cidadania, em situações assemelhadas, afirmou ser dever da parte fornecer ao juízo os dados necessários à localização das testemunhas arroladas, não sendo incumbência do magistrado ou dos serviços auxiliares do Poder Judiciário diligenciar para a execução de ato das partes.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil e art. 258 do Regimento Interno do Superior Tribunal de Justiça. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cujos fundamentos devem ser preservados.
+Em primeiro lugar, há de se ter em mente que o habeas corpus se destina a preservar a liberdade de locomoção indevidamente restringida ou sobre a qual paire ameaça iminente de restrição causada por ato de autoridade pública tido por ilegal.
+Neste caso, houve prolação de sentença absolutória em favor dos agravantes e não é possível presumir qualquer ameaça de lesão à liberdade ambulatorial somente pela existência de recurso de apelação manejado pelo órgão acusador. Vale frisar que, mesmo para a concessão de habeas corpus preventivo, exige-se ameaça real ao direito de locomoção, inexistente no caso destes autos.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS PREVENTIVO. AUSÊNCIA DE DEMONSTRAÇÃO, EMBASADA EM FATOS CONCRETOS, DE CONSTRANGIMENTO ATUAL OU IMINENTE AO DIREITO DE LOCOMOÇÃO DOS PACIENTES. WRIT MANIFESTAMENTE INCABÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus preventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, ou seja, sempre que fundado for o receio de o paciente ser preso ilegalmente. E tal receio haverá de resultar de ato concreto, de ameaça iminente de prisão.
+No caso dos autos, os impetrantes-pacientes, ora agravantes, não demonstraram, com base em fatos concretos, que eles estão, de fato, na iminência de sofrer qualquer coação indevida à sua liberdade.
+Dessa forma, não tendo sido demonstrado, com fatos concretos, nenhum constrangimento atual ou iminente ao direito de locomoção dos pacientes, não se pode conhecer da impetração.
+2. É certo que "não cabe ação de habeas corpus contra o chamado, por alguns, "ato de hipótese". Portanto, não há constrangimento ilegal a ser evitado ou sanado pelo presente habeas corpus, o qual se mostra manifestamente incabível" (HC 82.319/SP, Quinta Turma, Rel. Ministro ARNALDO ESTEVES LIMA, DJ de 12/9/2007).
+3. Agravo regimental desprovido (AgRg no HC 617.836/SC, Rel. Ministro JOEL ILAN PACIORNIK, Terceira Seção, julgado em 25/11/2020, DJe 27/11/2020).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS PREVENTIVO PARA GARANTIR PRERROGATIVA CONCEDIDA PELO ESTATUTO DA ORDEM DOS ADVOGADOS. AUSÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO. AGRAVO IMPROVIDO. 1. A mera suposição de que a prisão poderá ser determinada e, com isso, não serão asseguradas as prerrogativas expressamente concedidas aos advogados, sem qualquer indicativo fático, não constitui ameaça concreta à liberdade de locomoção, capaz de justificar o manejo de habeas corpus. 2. Agravo regimental improvido (AgRg no HC 376.470/ES, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 1º/12/2016, DJe 13/12/2016).
+De mais a mais, este Tribunal da Cidadania, em situações assemelhadas, afirmou ser dever da parte fornecer ao juízo os dados necessários à localização da testemunha arrolada, não sendo incumbência do magistrado ou dos serviços auxiliares do Poder Judiciário diligenciar para a execução de ato das partes.
+Nesse sentido:
+HABEAS CORPUS. LESÃO CORPORAL. INDEFERIMENTO DE DILIGÊNCIA PARA LOCALIZAÇÃO DE TESTEMUNHA NÃO INTIMADA POR FALTA DE INDICAÇÃO DO ENDEREÇO. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. ÔNUS DA DEFESA. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA QUE NÃO PODE SER CONHECIDA NESTA SEDE.
+1. Compete à parte fornecer ao Juízo dados suficientes à localização da testemunha arrolada, não sendo o magistrado obrigado a diligenciar para a execução de ato atribuível à defesa.
+2. Ainda que as Cortes julgadoras deste país tenham estabelecido uma tendência a aceitar o habeas corpus como remédio constitucional para resolução de questões sujeitas a recurso próprio, tal liberalidade deve seguir algum parâmetro.
+3. Questão atinente ao pagamento de honorários advocatícios ao defensor dativo, ainda que relevante, não se reveste da ilegalidade necessária para ser conhecida nesta sede.
+4. Ordem conhecida em parte e, nessa extensão, denegada. (HC n. 158.902/SC, Rel. Ministro OG FERNANDES, Sexta Turma, julgado em 6/9/2011, DJe de 19/9/2011)
+Na mesma linha, cito também:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. EVENTUAL VÍCIO SANADO COM O JULGAMENTO DO AGRAVO REGIMENTAL. VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. OMISSÃO INEXISTENTE. NULIDADE. DEMONSTRAÇÃO DE PREJUÍZO NÃO VERIFICADA UNICAMENTE PELA CONDENAÇÃO. LOCALIZAÇÃO DE TESTEMUNHA. ÔNUS DA PARTE. INDEFERIMENTO DE DILIGÊNCIA FUNDAMENTADO. CERCEAMENTO DE DEFESA INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. O ônus de indicar a localização das testemunhas é da parte requerente, eis que inexistente obrigação legal de tal mister ser repassado ao Poder Judiciário. Precedentes.
+4.1. Não há que se falar em cerceamento de defesa e violação aos arts. 8º e 14 da Convenção Americana de Direitos Humanos quando devidamente fundamentado pelo magistrado o indeferimento da conversão do julgamento em diligência para a localização de testemunha cujo endereço correto não foi fornecido pela parte requerente.
+5. Agravo regimental desprovido. (AgRg no AREsp n. 1.892.785/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. PRONÚNCIA. CONTRARIEDADE AO ART. 619 DO CPP. INEXISTÊNCIA. OFENSA AOS ARTS. 396-A, 406, § 3º E 156, TODOS DO CPP. NULIDADE. NÃO OCORRÊNCIA. FASE DE PRONÚNCIA. ALTERAÇÃO DA TIPIFICAÇÃO DA CONDUTA IMPUTADA AO RÉU E EXCLUSÃO DE QUALIFICADORAS. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica a apontada omissão no acórdão recorrido, haja vista que as instâncias ordinárias se manifestaram expressamente e de forma fundamentada acerca dos motivos que levaram à pronúncia do réu.
+2. A defesa não demonstrou o suscitado prejuízo decorrente da inversão da ordem de inquirição das testemunhas, de modo que não há nulidade a ser declarada. Aplicação do princípio pas de nullité sans grief.
+3. "Cabe à parte fornecer o endereço correto de localização da testemunha para intimação, de modo que sua inércia acarreta a preclusão do ato processual" (AgRg no AREsp 1.562.777/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 4/2/2020, DJe 13/2/2020).
+4. Em relação à tipificação da conduta, a inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+5. A manutenção das qualificadoras do motivo fútil e do recurso que dificultou a defesa do ofendido deve ser submetida à apreciação do Conselho de Sentença, haja vista que seu afastamento também exigiria o revolvimento do acervo probatório.
+6. Agravo regimental não provido. (AgRg no REsp n. 1.979.987/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2022, DJe de 14/3/2022)
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou na legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Assim, diante das razoes apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
