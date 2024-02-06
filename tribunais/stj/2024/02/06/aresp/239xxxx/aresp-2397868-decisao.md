@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo apresentado contra decisão que não admitiu recurso especial interposto por CÂMARA DE COMERCIALIZAÇÃO DE ENERGIA ELÉTRICA - CCEE, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 286):
+Agravo de instrumento -Recuperação judicial -Homologação do plano aprovado em assembleia -Deságio, juros e cláusulas genéricas-Ingerência no mérito -Impossibilidade -Recurso ao qual se nega provimento. Nas ações que versem sobre recuperação de empresas, o Poder Judiciário não pode avançar sobre o mérito do plano aprovado pelos credores ou sobre sua viabilidade econômica, de modo que sua atuação se restringe à verificação de eventuais ilegalidades no âmbito formal.
+Nas razões do apelo especial, a recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 53, I, II e III da Lei n. 11.101/2005, 884 e 885 do CC.
+Sustentou, em síntese, que as condições de pagamento prevista no plano de recuperação judicial revelam intenção de enriquecimento ilícito por parte das recorridas, bem como que o referido plano não atende os requisitos objetivos previstos na Lei 11.101/2005.
+Sem contrarrazões (e-STJ, fls. 485-486).
+O apelo extremo não foi admitido na origem (fls. 487-489, e-STJ), sendo interposto agravo em recurso especial às fls. 495-509 (e-STJ).
+Contraminuta às fls. 523-537 (e-STJ).
+Em parecer, o Ministério Público opinou pelo desprovimento do recurso especial (e-STJ, fls. 555-560).
+Brevemente relatado, decido.
+O Tribunal estadual, ao julgar o agravo de instrumento, assim consignou (e-STJ, fls. 287-291):
+O Superior Tribunal de Justiça, no REsp 1.314.209, entendeu que a Assembleia Geral de Credores é soberana em suas decisões quanto ao conteúdo do plano de recuperação judicial, de forma que o controle judicial apenas incide sobre os requisitos legais de validade dos atos jurídicos em geral.
+Já no REsp 1.359.311, o STJ firmou entendimento de que, cumpridas as exigências legais, o juiz deve conceder a recuperação judicial do devedor cujo plano tenha sido aprovado em assembleia, não sendo possível adentrar no aspecto da viabilidade econômica da empresa, tendo em vista que essa questão é de exclusiva apreciação da assembleia.
+ ..
+No se denota ilegalidade no caso em comento. Não há um só dispositivo, em todo o ordenamento jurídico, que vede a conduta de verdadeiro desconto no débito e de estipulação da forma de pagamento.
+O apontado "excesso" no deságio, por si só, não configura ilegalidade. Pura e simplesmente, esse fato somente demonstra que os principais interessados, que são os credores, abriram mão de grande parte do montante a receber.
+ ..
+Mostra-se, portanto, incabível a intervenção do Poder Judiciário nas deliberações da Assembleia Geral de Credores sobre a viabilidade econômica do plano de recuperação judicial, motivo pelo qual reputo inviável o exame das condições relativas ao formato de pagamento (deságio, carência, juros e correção monetária).
+ ..
+Quanto à ausência de comprovação da capacidade de soerguimento das agravadas, especialmente em razão da suposta generalidade das disposições do PRJ e da suposta ausência de apresentação de laudo de viabilidade econômico-financeiro pelas agravadas, também não merece acolhimento.
+Vejamos o disposto pelo artigo 53 da Lei 11.101 de 2005 quanto aos requisitos da apresentação do plano de recuperação judicial:
+ ..
+Com efeito, as cláusulas 3 e 4 trouxeram elementos aptos a elucidar como pretendem as empresas continuar exercendo suas atividades, obter recursos para soerguimento e pagar aos credores. Previu a realização de readequação de atividades, o que implica em buscar novos parceiros comerciais e ampliar a área de atuação, bem como revisão dos contratos e resultados operacionais. Também dispuseram detalhadamente sobre a exploração e readequação da atividade agrícola, inclusive com a previsão de arrendamento do parque fabril.
+Cediço que a viabilidade econômica do plano deve ser aferida pelos credores em AGC e sua aprovação por estes enseja a presunção de que é realizável. No caso em comento, tenho que a continuidade da atividade empresarial nos termos elencados pode ser hábil à superação da crise financeira.
+Como já exarado, o STJ excluiu do controle de legalidade formal do plano impugnações integrantes ao seu aspecto econômico.
+Da análise do acórdão recorrido, constata-se que o Tribunal local verificou, com base nas provas dos autos, estarem comprovados os requisitos objetivos previstos no art. 53 da Lei 11.101/2005, além de esclarecer a impossibilidade de intervenção do Poder Judiciário nas deliberações tomadas pela assembleia geral de credores.
+A esse respeito, ressai soberana a assembleia geral de credores para deliberar acerca da viabilidade econômica do plano, inclusive acerca dos deságios, afigurando-se descabido, por conseguinte, a revisão judicial do que foi pactuado.
+Nesse sentido:
+RECUPERAÇÃO JUDICIAL. RECURSO ESPECIAL. DETERMINAÇÃO DE REALIZAÇÃO DE NOVA ASSEMBLEIA GERAL DE CREDORES. NÃO CABIMENTO. RESPEITO AO PRINCÍPIO MAJORITÁRIO. NATUREZA JURÍDICA NEGOCIAL DO PLANO DE RECUPERAÇÃO. PREVISÃO DE SUBCLASSES DE CRÉDITOS COM GARANTIA REAL. POSSIBILIDADE. EXISTÊNCIA DE CRITÉRIOS OBJETIVOS DE PAGAMENTO. PRECEDENTES. INEXISTÊNCIA DE CORREÇÃO MONETÁRIA E APROVAÇÃO DE DESÁGIO. CRITÉRIO ECONÔMICO-FINANCEIRO DO PLANO. QUESTÃO DE MÉRITO. INVIABILIDADE DO CONTROLE JUDICIAL. PREVISÃO DE ALIENAÇÃO DE ATIVOS ATRELADA AO DISPOSTO NA LEI N. 11.101/2005. DESNECESSIDADE DE REPETIÇÃO DO TEXTO LEGAL. RECURSO ESPECIAL PROVIDO.
+1. As decisões da assembleia geral de credores que respeitem o quórum legal sujeitam à vontade da maioria e repr esentam o veredito final a respeito do plano de recuperação, cabendo ao Poder Judiciário, sem adentrar a análise da viabilidade econômica, controlar a legalidade dos atos referentes à recuperação.
+2. A natureza jurídica negocial do plano de recuperação autoriza a discussão de medidas propositivas que possibilitem o soerguimento da empresa recuperanda e, por consequência, o adimplemento de todas as obrigações por meio de dois critérios fundamentais: a) o respeito à Lei 11.101/2005; e b) a subordinação ao princípio majoritário.
+3. "No plano de recuperação judicial, a criação de subclasses entre credores é possível, desde que previsto critério objetivo e justificado, envolvendo credores com interesses homogêneos, vedando-se a estipulação de descontos que permitam a supressão de direitos de credores minoritários ou isolados" (AgInt no REsp n. 2.030.487/MT, Terceira Turma).
+4. A discussão acerca da correção monetária e dos deságios devidamente aprovados na assembleia geral de credores está inserida no âmbito da liberdade negocial inerente à natureza jurídica do plano homologado, inexistindo ilegalidade apta a justificar a intervenção do Poder Judiciário.
+5. "O juiz está autorizado a realizar o controle de legalidade do plano de recuperação judicial, sem adentrar no aspecto da sua viabilidade econômica, a qual constitui mérito da soberana vontade da assembleia geral de credores" (REsp n. 1.660.195/PR, Terceira Turma).
+6. A previsão de alienação de ativos, segundo o disposto na Lei n. 11.101/2005, condiciona a validade do negócio jurídico à prévia homologação pelo juízo competente, não sendo necessária a repetição do texto legal no plano da recuperação.
+7. Recurso especial provido.
+(REsp n. 2.006.044/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/9/2023, DJe de 8/9/2023., sem grifo no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. AGRAVO DE INSTRUMENTO. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N.º 282 DO STF. SUBCLASSES. CRITÉRIOS OBJETIVOS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS N. os 5 E 7 DO STJ. CRAM DOWN. DESÁGIOS. SOBERANIA DA ASSEMBLEIA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A matéria referente ao tema referente ao percentual da multa aplicada não foi objeto de debate prévio nas instâncias de origem.
+Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 282 do STF, aplicável por analogia.
+2. No plano de recuperação judicial, a criação de subclasses entre credores é possível, desde que previsto critério objetivo e justificado, envolvendo credores com interesses homogêneos, vedando-se a estipulação de descontos que permitam a supressão de direitos de credores minoritários ou isolados. Precedentes.
+3. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+4. O acórdão vergastado assentou que foram previstos critérios objetivos. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n.º 7 do STJ.
+5. Nos termos da jurisprudência pacífica desta Corte, a concessão de prazos e descontos para pagamento de créditos insere-se dentre as tratativas negociais passíveis de deliberação pelo devedor e pelos credores quando da discussão assemblear sobre o plano de recuperação apresentado (REsp 1.660.313/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 15/8/2017, DJe 22/8/2017).
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.089.658/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/11/2023, DJe de 16/11/2023., sem grifo no original)
+Desse modo, verifica-se que o entendimento exarado no acórdão recorrido encontra-se em consonância com a jurisprudência do STJ, não comportando modificação.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DESÁGIO. PLANO APROVADO PELA ASSEMBLEIA GERAL DE CREDORES. POSTERIOR HOMOLOGAÇÃO PELO JUÍZO DA RECUPERAÇÃO. REVISÃO JUDICIAL. IMPOSSIBILIDADE. SOBERANIA DA ASSEMBLEIA GERAL DE CREDORES. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
