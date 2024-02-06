@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  BANCO BRADESCO S.A.,  com  fundamento  no  art.  105,  III,  a e c ,  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de Justiça do Estado de Mato Grosso do Sul  assim  ementado  (e-STJ,  fl. 274):
+AGRAVO DE INSTRUMENTO - PEDIDO CAUTELAR ANTECEDENTE (EXIBIÇÃO DE DOCUMENTOS) - RETORNO DOS AUTOS DA VICE-PRESIDÊNCIA - MULTA COMINATÓRIA - ARTIGO 400, DO CPC - POSSIBILIDADE - SÚMULA N. 372, DO STJ - SUPERADA - DESNECESSIDADE DE ADEQUAÇÃO AO TEMA N. 705, DO STJ - JUÍZO DE RETRATAÇÃO NÃO EXERCIDO - ACÓRDÃO MANTIDO.
+Deixa-se de exercer o juízo de retratação, prevista no artigo 1.030, II, do CPC, quando não verificado que o acórdão proferido tenha contrariado a orientação do STJ, firmada no Tema n. 705, porquanto o julgador pode adotar medidas indutivas, coercitivas, mandamentais ou sub-rogatórias para que o documento exigido seja exibido, inclusive impondo multa cominatória. Resta afastada a Súmula 372, do Superior Tribunal de Justiça, ante a disposição do art. 400, parágrafo único, do Código de Processo Civil.
+Nas  razões  de  recurso  especial,  o  recorrente  alega  a ofensa ao art. 489, §1º, inciso IV, do Código de Processo Civil, sustentando, em síntese, omissão no acórdão recorrido quanto à Súmula n. 372/STJ.
+Afirma, ainda, a violação ao art. 537, caput e §1º, inciso I, do CPC/2015, preconizando a "inaplicabilidade da multa astreintes em determinação de obrigação de fazer para exibição de documentos, decorrente de ação cautelar" (e-STJ, fl. 296).
+Contrarrazões apresentadas  (e-STJ,  fls. 403-417).
+O  Tribunal  de  origem  deu seguimento ao  recurso  especial,  vindo  os  autos  a  esta  Corte  Superior (e-STJ,  fls. 446-447).
+Brevemente  relatado,  decido.
+A controvérsia refere-se à necessidade de revisão da aplicação das astreintes, haja vista sua inviabilidade em ação cautelar de exibição de documentos.
+O acórdão  recorrido  dirimiu  a  questão  com  base  nos  seguintes  fundamentos  (e-STJ,  fls. 276-280;  sem  grifo  no  original):
+Conforme relatado, em 30 de novembro de 2022, esta Câmara Cível negou provimento a este agravo de instrumento.
+Entretanto, interposto recurso especial pelo Banco Bradesco, a Vice- Presidência, em cumprimento ao artigo 1.030, II, do CPC, determinou o retorno dos autos para reexame por ter o acórdão contrariado a orientação do STJ, firmada no Tema n. 705.
+Pois bem. Dispõe o Tema n. 705, firmado por ocasião do julgamento do recurso especial n. 1.333.988/SP pelo STJ, apreciado sob o rito dos recursos repetitivos:  ..
+De fato, expressamente, não se rechaçou a incidência da Súmula n. 372, do STJ.
+Alegou o agravante que é indevida, na hipótese de descumprimento, a fixação de multa em ação de exibição de documento, conforme previsão constante da Súmula n. 372, do STJ.  ..
+Tenho que não o que se retratar, visto que, no que se refere à exibição de documento ou coisa, dispõe o artigo 400, do Código de Processo Civil:  ..
+Dessa forma, verifico que é perfeitamente possível a aplicação de multa diária como meio coercitivo para o cumprimento de determinação judicial de exibição de documentos, nos termos do artigo 400, parágrafo único, do CPC, que afastou a aplicação da Súmula n. 372, do STJ, nos termos do já pacificado por aquela Corte, veja-se:  ..
+Portanto, diante da resistência do suplicante em apresentar os expedientes, mostra-se justa e adequada a previsão de multa cominatória para compeli- lo a tanto, nos termos do parágrafo único, do artigo 400, do CPC.
+Destarte, não verifico que o acórdão proferido neste feito tenha contrariado a orientação do STJ, firmada no Tema n. 705.
+Com efeito, verifica-se que a alegação de violação ao art. 489, §1º, inciso IV, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado de Mato Grosso do Sul foi claro ao concluir que é perfeitamente possível a aplicação de multa diária como meio coercitivo para o cumprimento de determinação judicial de exibição de documentos, nos termos do artigo 400, parágrafo único, do CPC, que afastou a aplicação da Súmula n. 372, do STJ (e-STJ, fls. 277-278).
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão do insurgente, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOSFERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+De outra parte, quanto à fixação das astreintes em ação cautelar de exibição de documentos, destaca-se que a jurisprudência do STJ firmou o entendimento de que, desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do Código de Processo Civil de 2015.
+A propósito (sem grifo no original):
+RECURSO ESPECIAL REPETITIVO. TEMA 1000/STJ. PROCESSUAL CIVIL. CPC/2015. COMINAÇÃO DE ASTREINTES NA EXIBIÇÃO DE DOCUMENTOS REQUERIDA CONTRA A PARTE "EX ADVERSA". CABIMENTO NA VIGÊNCIA DO CPC/2015. NECESSIDADE DE PRÉVIO JUÍZO DE PROBABILIDADE E DE PRÉVIA TENTATIVA DE BUSCA E APREENSÃO OU OUTRA MEDIDA COERCITIVA. CASO CONCRETO. AÇÃO DE COBRANÇA DE EXPURGOS INFLACIONÁRIOS. ORDEM DE EXIBIÇÃO INCIDENTAL DE CONTRATO E EXTRATOS BANCÁRIOS. CUMPRIMENTO POR MEIO DA APRESENTAÇÃO DE TABELA APÓCRIFA. REITERAÇÃO DA ORDEM SOB PENA DE MULTA. ALEGAÇÃO DE PRECLUSÃO. NECESSIDADE DE REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. EXIBIÇÃO DO CONTRATO. FALTA DE INTERESSE PROCESSUAL. EXIBIÇÃO DOS EXTRATOS. NECESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA OBSERVÂNCIA DOS COMANDOS FIXADOS NA TESE ORA FIRMADA.
+1. Delimitação da controvérsia: exibição incidental ou autônoma de documentos requerida contra a parte "ex adversa" em demanda de direito privado.
+2. Tese para os fins do art. 1.040 do CPC/2015: "Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015" (Tema 1000/STJ).
+3. Caso concreto:
+3.1. Inviabilidade de se conhecer da alegação de preclusão da ordem de exibição, tendo em vista a necessidade de se reexaminar o documento anteriormente exibido pelo banco, documento considerado insuficiente pelo Tribunal "a quo". Óbice na Súmula 7/STJ.
+3.2. Aplicação da tese firmada no item 2, supra, ao caso concreto, para se manter a decisão do juízo de origem que reiterou a ordem de exibição de extratos bancários sob pena de multa diária, pois a tabela elaborada pelo banco com base na microfilmagem dos extratos torna prováveis a existência da relação jurídica (caderneta de poupança) e do documento pretendido (extratos bancários).
+3.3. Ausência de interesse processual na exibição do contrato de caderneta de poupança, pois não foi deduzida pretensão de revisão de cláusulas contratuais e, ademais, a existência de relação jurídica já foi admitida pelo banco demandado.
+3.4. Determinação de retorno ao juízo de primeiro grau para cumprimento dos comandos constantes do enunciado final do Tema 1.000/STJ deliberado por esta Segunda Seção.
+4. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1.763.462/MG, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 9.6.2021, DJe de 1º.7.2021)
+No caso dos autos, vislumbra-se que a decisão impugnada foi proferida em desconformidade com o entendimento do STJ, uma vez que a imposição de multa constituiu a primeira providência implementada pelo Juízo de origem para obter os documentos pleiteados.
+Dessa forma, melhor sorte socorre ao recorrente, merecendo reparo o acórdão recorrido no tocante à imposição das astreintes.
+Ante o exposto, dou parcial provimento ao recurso especial, tão somente para determinar o retorno dos autos ao Tribunal de origem para que reexamine a possibilidade de imposição da multa cominatória à luz dos requisitos fixados no julgamento do REsp n. 1.763.462/MG pela Segunda Seção desta Corte Superior.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO  ESPECIAL.  PROCESSUAL CIVIL.  AGRAVO DE INSTRUMENTO. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. ASTREINTES. ALEGADA OFENSA AO ART. 489 DO CPC/2015. OMISSÃO. NÃO OCORRÊNCIA. TEMA N. 1.000/STJ. REQUISITOS.  RECURSO  ESPECIAL  CONHECIDO E PARCIALMENTE PROVIDO.
