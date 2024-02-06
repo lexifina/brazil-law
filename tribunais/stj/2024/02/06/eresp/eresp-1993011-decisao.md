@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de Petição, fls. 1057/1062, apresentada por ASSOCIAÇÃO LOTEAMENTE JARDIM DAS PALMEIRAS.
+O requerente se insurge contra a certificação do trânsito em julgado. E pleiteia o desarquivamento do feito, porquanto o seu recurso especial fora admitido na origem.
+Explica que, (fls. 1061/1062):
+Do que se dessume da ordem cronológica dos acontecimentos, observa-se que, por um lapso, o C. Superior Tribunal de Justiça deixou de observar a decisão do TJSP que, em sede de juízo de retratação, julgou prejudicado o Agravo em Recurso Especial da requerente, ADMITINDO o processamento do recurso.
+Assim, o C. Superior Tribunal de Justiça passou a analisar o Agravo em Recurso Especial (que já tinha sido dado por prejudicado pelo E. TJSP), negando seu provimento por meio de decisão monocrática, em face da qual a requerente interpôs agravo interno, que não foi conhecido.
+Por fim, a requerente opôs Embargos de Divergência contra a r. decisão que não conheceu do Agravo Interno interposto em face da decisão que negou provimento ao Agravo em Recurso Especial, o qual foi liminarmente indeferido, majorando-se os honorários sucunnbenciais para 15% sobre o valor da causa atualizado. Decorrido o prazo para interposição de recurso, aos 30/11/2022 foi certificado o trânsito em julgado da decisão.
+Como se nota, por uma sucessão de equívocos, o Recurso Especial da requerente, ADMITIDO às fls. 727/729, jamais chegou a ser apreciado pelo C. Superior Tribunal de Justiça.
+Dessarte, de rigor a remessa dos autos ao C. Superior Tribunal de Justiça, a fim de que a certidão de trânsito em julgado lançada à fl. e-STJ 1051 seja tornada sem efeito, e o Recurso Especial da requerente (fls. 537/563), regularmente admitido em juízo de retratação (fls. 727/729), seja finalmente julgado e provido, sob pena de nulidade.
+É o relatório. Decido.
+Ao contrário do alegado pela parte o julgamento proferido fora feito em recurso especial, como consta, inclusive, da autuação processual dos presentes autos.
+Ocorre que o relator ao fazer o juízo primevo da irresignação recursal nominou o recurso como agravo, como consta das fls. 876, embora tratar-se de recurso especial, como já se disse e consta da autuação. Veja-se, inclusive, que embora o relator tenha se pronunciado nos seguintes termos: "Cuida-se de agravo, interposto por ASSOCIACAO LOTEAMENTO JARDIM DAS PALMEIRAS, em face de decisão que não admitiu recurso especial." (fls. 876 - grifo nosso); a análise realizada fora das razões do especial; toda a matéria aventada fora apreciada, e por fim negado provimento ao reclamo. Verifica-se assim tratar-se tão somente de erro material que não fora tempestivamente impugnado e que aliás não houve prejuízo comprovado já que, como se verifica dos autos, houve análise do recurso especial.
+Veja que a parte recorreu da decisão, agravando-a, (fls. 884/944) e, improvido o recurso; opôs embargos de divergência, (fls. 989/1039) que foram indeferidos liminarmente, (fls. 1045/1048); decisão a qual não opôs recurso, resultando assim no trânsito em julgado da presente demanda. Isto é, em nenhum momento o recorrente alega o referido erro material, quedando-se inerte, e agora, com o processo já transitado em julgado aponta erroneamente que o recurso especial está pendente de análise.
+Assim diante da ausência de impugnação tempestiva e da não comprovação de efetivo prejuízo advindo do citado erro material, forçoso reconhecer a preclusão da presente arguição de nulidade.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
