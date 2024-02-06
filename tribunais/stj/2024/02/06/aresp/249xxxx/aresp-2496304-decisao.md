@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE LUIZ MACHADO CALDASSO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. AINDA QUE SE TRATE DE MATÉRIA DE ORDEM PÚBLICA, A IMPENHORABILIDADE ESTÁ SUJEITA À PRECLUSÁO. CONTUDO, NO CASO DOS AUTOS, NAS DECISÕES ANTERIORES NÃO FOI ENFRENTADA A ALEGADA IMPENHORABILIDADE DO IMÓVEL MATRICULADO SOB O NÚMERO 11450. CERCEAMENTO DE DEFESA CONFIGURADO. APELAÇÃO PARCIALMENTE PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 18 do Código de Processo Civil, no que concerne à não ocorrência de preclusão, pois a impenhorabilidade arguida é matéria de ordem pública e foi anteriormente alegada por terceiros, trazendo a seguinte argumentação:
+A impenhorabilidade arguida é matéria de ordem pública e, portanto, não está sujeita à preclusão, em especial neste caso concreto em que a base para tal conclusão decorre de alegação de terceiros.
+Verifica-se que desde o primeiro grau, os Recorrentes estão buscando a possibili dade de produzir provas no sentido de que se trata de pequena propriedade rural e residencial da família do devedor, da qual provem o seu próprio sustento, tendo inclusive já juntado outras decisões de procedência do pedido, em processos diversos.
+Assim, diante do exposto, deve ser ac olhido a prefacial suscitada para o fim de desconstituir a decisão. (fls. 480).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
