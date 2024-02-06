@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por GHISLAIN PUTZEL STEINMETZ, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO PARA ALTERAÇÃO DA DATA-BASE. PRETENDIDA A FIXAÇÃO DA DATA DA PRISÃO EM FLAGRANTE. IMPROPRIEDADE. PACIENTE AGRACIADO COM LIBERDADE PROVISÓRIA. ENTENDIMENTO MAJORITÁRIO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO SENTIDO DE FIXAR A DATA DA ÚLTIMA PRISÃO ININTERRUPTA. DECISÃO DE ORIGEM ACERTADA. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. VIA ELEITA INADEQUADA. ORDEM NÃO CONHECIDA." (e-STJ, fl. 49).
+Nas razões recursais (e-STJ, fls. 56-62), o recorrente alega constrangimento ilegal decorrente da fixação como data-base para fins de progressão de regime o dia de sua recente prisão (13/6/2023).
+Sustenta que, "nos casos de condenação única, o réu que responde o processo preso não pode ser prejudicado pelo advento da sentença condenatória ou do trânsito em julgado desta, devendo ser estabelecida como data-base o dia de sua primeira prisão" (e-STJ, fls. 58-59).
+Cita, ainda, precedente desta Corte no sentido de que "deve ser adotado como data-base para a progressão de regime o início da prisão provisória (ressalvadas as hipóteses de interrupção legalmente previstas), sendo certo que o percentual (fração) previsto no art. 112 da LEP incidirá sobre o total da pena aplicada" (e-STJ, fl. 60).
+Defende que a data de 16/2/2017, relativa à prisão em flagrante nos autos do processo n. 0002933-38.2017.8.24.0023, deve ser considerada para progressão de regime, coincidindo, assim, com a data lançada no RSPE para o livramento condicional, mesmo que tenha havido interrupção decorrente da liberdade provisória concedida em 17/5/2018.
+Requer, ao final, a retificação da data-base para progressão de regime, nos moldes assinalados no recurso.
+A liminar foi indeferida pelo Ministro Vice-Presidente, no exercício da Presidência (e-STJ, fls. 77-79).
+Prestadas as informações (e-STJ, fls. 81-85), o Ministério Público Federal opinou pelo não conhecimento do recurso e, caso conhecido, pelo não provimento (e-STJ, fls. 90-97).
+É o relatório.
+Decido.
+Ao analisar o habeas corpus, o Tribunal de origem decidiu a controvérsia da seguinte maneira:
+"Colhe-se das informações prestadas pela autoridade impetrada, a seguinte situação concreta do paciente:
+O paciente foi condenado nos autos da ação penal n.º 0002933-38.2017.8.24.0023 ao cumprimento da pena de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime semiaberto. Registra prisão cautelar pelo referido feito entre 16/02/2017 e 17/05/2018.
+Com o aporte da execução nesta Unidade, foi determinada a expedição do mandado de prisão para início do cumprimento da pena em regime semiaberto, cujo mandado restou cumprido em 13/06/2023, cujo marco está sendo adotando como data-base para fins de progressão de regime por se tratar da última prisão ininterrupta.
+Registra-se, por oportuno, que foi formulado, por meio da Defensoria Pública de Santa Catarina, pedido de retificação da data-base, o qual restou indeferido em 23/06/2023 nos seguintes termos:
+ ..
+Na presente impetração, como dito, a defesa advoga pela fixação da data da prisão em flagrante como data-base para o cálculo de futuros.
+Pois bem, não obstante os judiciosos argumentos levados a efeito pela defesa e sem olvidar de precedentes esparços a amparar o pedido, denota-se, a bem da verdade, que a corrente jurisprudencial dominante no Superior Tribunal de Justiça ainda caminha em sentido contrário, vejamos:  ..
+O tema tem gerado polêmica, principalmente após o julgamento do RHC 142463, pela Primeira Turma do Supremo Tribunal Federal, em que ficou decidido que o mero trânsito em julgado da sentença não é suficiente para alterar a data-base nos casos de condenação única em que o apenado respondeu a todo o processo preso preventivamente, devendo ser considerado a data da prisão inicial.
+Obviamente que a questão traz consequências diretas para a execução penal, pois aquele que respondeu ao processo preso preventivamente terá o tempo de prisão provisória computado como pena cumprida, enquanto aqueles que responderam em liberdade, como o paciente, terão o tempo de prisão provisória descontado como detração.
+A dinâmica resulta em prazos distintos para a progressão do regime prisional, no entanto, essa diferenciação não é suficiente para amparar o pleito defensivo no presente agravo.
+A regra do artigo 42 do Código Penal (detração) está em vigência e o precedente do Supremo Tribunal Federal (RHC 142463) trata especificamente sobre os casos de pessoas com única condenação e que responderam a todo o processo presas preventivamente.
+Reconhecendo que o paciente foi beneficiado com a liberdade provisória ao longo da instrução criminal, o entendimento dominante no Superior Tribunal de Justiça, como visto acima, é no sentido de considerar a data da recaptura definitiva como data-base para fins de execução da pena.
+Dessa forma, afasta-se a hipótese de flagrante constrangimento ilegal sendo suportado pelo paciente, o que impossibilita a concessão da ordem de ofício.
+Ante o exposto, voto no sentido de não conhecer a ordem." (e-STJ, fls. 46-47).
+Embora a Lei de Execução Penal não defina a data-base para o início da contagem do prazo, o fato de o paciente não ter permanecido preso durante toda a instrução criminal, uma vez que concedida liberdade provisória, implica a alteração do termo para fins de progressão de regime para o dia da última prisão, tal como procedido pelas instâncias ordinárias.
+A data-base para obtenção de benefícios somente poderia ser a data da primeira prisão se o paciente permanecesse segregado ininterruptamente, o que não ocorreu no presente caso, visto que lhe foi deferida a liberdade provisória. É, portanto, correta a consideração da última prisão como marco no cálculo de penas.
+Assim, o dia da última prisão deve efetivamente ser considerado como data-base para efeitos de concessão de benefícios relativos à execução penal.
+Nesse sentido:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO CAUTELAR. LIBERDADE PROVISÓRIA. INVIABILIDADE. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tratando-se de acusado beneficiado no decorrer da ação penal com liberdade provisória, a data-base para fins de concessão de benefícios executórios é a data na qual foi realizada a última prisão.
+2. Agravo regimental desprovido." (AgRg no HC n. 751.744/GO, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/12/2022, DJe de 16/12/2022).
+"AGRAVO REGIMENTAL. HABEAS CORPUS. PEDIDO DE RETIFICAÇÃO DA DATA-BASE PARA A DATA DA PRIMEIRA PRISÃO CAUTELAR DO APENADO. ACÓRDÃO IMPUGNADO QUE MANTEVE A DECISÃO DO JUÍZO DA EXECUÇÃO QUE FIXOU A DATA DA ÚLTIMA PRISÃO COMO TERMO INICIAL PARA OS BENEFÍCIOS DA EXECUÇÃO. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES DESTA CORTE.
+1. Agravo regimental improvido." (AgRg no HC n. 772.439/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/11/2022, DJe de 17/11/2022).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o apenado foi preso em flagrante no dia 9/12/2010, sendo concedida a liberdade provisória em 29/8/2012. Iniciado o cumprimento do decreto condenatório no dia 28/8/2020, a data-base que deve ser considerada para a progressão de regime é a data da última prisão efetuada, sendo que o período anterior à condenação em que o agente esteve preso será computado para fins de detração penal.
+2. Agravo regimental desprovido." (AgRg no HC n. 717.953/MS, deste relator, Quinta Turma, julgado em 23/8/2022, DJe de 30/8/2022).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1.  ..
+2. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por mais de 8 meses, devendo, nesse caso, ser considerada para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja, 19/09/2015, sob pena de se proclamar como pena efetivamente cumprida o período em que ele permaneceu em liberdade. Por conseguinte, o dia da última prisão - e não da primeira -, deve, efetivamente, ser considerado como data-base para efeitos de concessão de benefícios relativos à execução penal.
+3. O acórdão impugnado está em consonância com a jurisprudência desta Corte ao estabelecer a data da última prisão como marco temporal para obtenção de benefícios da execução. É que a Terceira Seção desta Corte, no julgamento do REsp n. 1.557.461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 22/02/2018, DJe 15/03/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+4. Agravo regimental não provido." (AgRg no REsp n. 1.918.296/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021).
+Nesse contexto, não se vislumbra flagrante ilegalidade a ensejar a concessão da ordem, de ofício.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
