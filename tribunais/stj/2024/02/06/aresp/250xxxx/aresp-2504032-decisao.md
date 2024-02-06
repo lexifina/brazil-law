@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DE GOIAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. DISPONIBILIZAÇÃO DE VAGA EM LEITO DE UTI. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM FAVOR DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS. SÚMULA 421 STJ. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 4º, INCISO XXI, DA LC Nº 80/1994, E DO ART. Iº DA LEI ESTADUAL N. 17.654/2012 PELO ÓRGÃO ESPECIAL DESTA CORTE ESTADUAL. POSICIONAMENTOS SUPERADOS. TEMA 1.002 STF. SENTENÇA PARCIALMENTE REFORMADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 85, §8º, do CPC, no que concerne à necessidade de se arbitrar a verba honorária de forma equitativa, pois é inestimável o proveito econômico em ações de assistência à saúde, tratando-se de um dever constitucional, trazendo a seguinte argumentação:
+O respeitável acórdão violou o art. 85, §8º, do CPC no presente caso.
+Nos termos do novo código de processo civil, os honorários serão fixados sobre o valor da condenação ou do proveito econômico (art. 85, §2º) e não sobre o valor da causa.
+Contudo, nos processos de judicialização de saúde, não existe proveito econômico, mas o deferimento de uma prestação de saúde, devendo a fixação de honorários se dar de forma equitativa (art. 85, §8º) e nunca sobre o valor do tratamento, ainda mais se de alto custo.
+Reforça-se: nos processos que envolvam demandas de saúde, as prestações de assistência à saúde devem ser consideradas de valor inestimável, pois retratam uma obrigação de fazer constitucional e não mera obrigação de pagar o valor de um tratamento. É dizer, o tratamento pleiteado é uma mera vertente e consequência do pedido de cumprimento de um dever mais amplo - não precificável - constante na nossa Carta Magna.
+Em todas as peças elaboradas pelo polo ativo, referentes a pleitos relacionados à assistência de saúde, o argumento principal formulado pelos autores é o dever constitucional de entrega de serviço de saúde, o que corrobora a tese de seu valor inestimável.
+Com efeito, na espécie, o valor conferido à causa foi elevado, de sorte que o arbitramento de honorários com base em tal importância resultará em exorbitante monta que, além de não refletir o trabalho despendido pelo advogado e a complexidade da causa, acarretará apenas o agravamento do já combalido orçamento do SUS.
+Por conseguinte, a fixação de honorários deve se dar de forma equitativa, nos termos do art. 85, §8º, do CPC.
+Destaque-se que a jurisprudência do STJ é pacífica em entender ser inestimável o proveito econômico que se pretende em ações de saúde, razão pela qual o arbitramento de honorários advocatícios deve ser feito por equidade:
+ ..
+(fls. 199).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+No entanto, não se pode olvidar que em recente julgamento do recurso extraordinário n.º 1.140.005/RJ, com repercussão geral reconhecida (Tema 1.002), o Tribunal Pleno do Supremo Tribunal Federal deu provimento à insurgência para condenar a União ao pagamento de honorários em favor da Defensoria Pública da União, no valor de 10% (dez por cento) sobre o valor da causa, nos termos do artigo 85 do Código de Processo Civil, oportunidade em que fixou as seguintes teses:
+ ..
+Nessa linha de intelecção, ressalvado o entendimento pessoal deste relator, de rigor a reforma da sentença singular para fixar a verba honorária em favor da Defensoria Pública, à luz do entendimento firmado pelo Supremo Tribunal Federal (tema 1.002).
+(fls. 185-188).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
