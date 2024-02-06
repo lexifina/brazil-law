@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração na petição opostos por SLDI COMÉRCIO E DISTRIBUIÇÃO DE TECNOLOGIA LTDA., em se insurge contra despacho em que não conheci do pedido de distinguishing em relação ao Tema 1.184 do STJ, porquanto formulado após a prolação do acórdão da Primeira Turma, que deu provimento ao agravo interno da Fazenda Nacional para determinar a devolução dos autos à origem, para fins do disposto no art. 1.040 do CPC/2015 (e-STJ fls. 915/916).
+No referido despacho, restou consignado que a pretensão esboçada precisaria estar formulada por meio da via recursal própria, qual seja, os embargos de declaração.
+A embargante sustenta omissão do despacho quanto ao disposto no art. 1.037, § 9º, do CPC/2015, segundo o qual a parte poderia, por simples petição, segundo entende, requerer o prosseguimento do seu processo, demonstrando distinção entre a questão a ser decidida e aquela a ser julgada no recurso especial afetado.
+Sem impugnação (certidão à e-STJ fl. 935).
+Pois bem.
+Conforme pacífica orientação da jurisprudência do Superior Tribunal de Justiça, não cabem embargos de declaração contra despacho de mero expediente, desprovido de conteúdo decisório, tal como se verifica na presente hipótese. Nesse sentido, refiro-me aos seguintes julgados: AgInt nos EDcl no RMS 67.687/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/03/2022, DJe 18/03/2022; AgInt no REsp 2.014.032/TO, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 03/04/2023, DJe 10/04/2023; AgInt no AgInt nos EDcl no AREsp 2.199.840/PA, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 11/09/2023, DJe 13/09/2023; AgInt nos EDcl no RMS 70.563/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 04/12/2023, DJe 07/12/2023; AgInt no AREsp 1.684.313/ES, de minha relatoria, Primeira Turma, julgado em 07/12/2020, DJe 17/12/2020; e AgInt nos EDcl nos EDv nos EREsp 1.736.959/SP, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 28/04/2020, DJe 05/05/2020.
+Ante o exposto, NÃO CONHEÇO dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
