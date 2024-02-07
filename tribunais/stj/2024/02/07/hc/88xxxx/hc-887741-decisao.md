@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RUDIMAR DE VARGAS SILVA (PRESO), em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Agravo em Execução Penal - PEC nº 0458770-59.2011.8.21.003).
+A defesa pede indulto em agravo de decisão que o denegou. Alega que as condenações por outros processos não constituem impeditivo à concessão, por se tratarem de ações penais diversas.
+O writ insurge-se contra esta fundamentação da negativa do indulto:
+A circunstância de a existência de condenação por crime impeditivo ocorrer em ação penal diversa, unificada na execução, não permite interpretação diversa. Por esse motivo, o Superior Tribunal de Justiça já se manifestou no sentido de que "o caput do art. 11 do mencionado decreto expressamente alude à soma ou unificação de penas previstas no art. 111 da Lei de Execução Penal, deixando claro que todas as penas impostas ao executado devem ser consideradas para fins da análise do disposto no parágrafo único do art. 11"(HC n. 856.179, Ministro Reynaldo Soares da Fonseca, DJe de 27/09/2023).
+Assim, a partir do disposto no parágrafo único do artigo 11, constata-se que somente quando cumprida a integralidade da pena referente ao crime impeditivo é que será possível a concessão do indulto em relação ao crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos, na hipótese de concurso entre os delitos impeditivos e não impeditivos, unificadas ou somadas até 25/12/2022.
+ ..
+Em análise ao caso concreto, verifico que RUDIMAR DE VARGAS SILVA foi condenado por incurso nas sanções do artigo 33 da Lei de Drogas no processonº5005087-72.2020.8.21.0038, à pena total de 08 anos e 09 meses de reclusão, dentre outras condenações.
+Não obstante o reeducando já tivesse cumprido um pouco mais de08 anos e 10 meses da totalidade da expiação até 25/12/2022, é preciso pontuar que a condenação do processo nº 5005087-72.2020.8.21.0038 foi cadastrado na PEC tão somente em02/06/2021.
+Assim, em consulta à Linha do Tempo junto ao SEEU, verifiquei em RUDIMAR só havia cumprido 01 ano, 09 meses e 23 dias da reprimenda referente à condenação do tráfico até 25/12/2022,consoante se verifica da imagem abaixo colacionada:
+ ..
+Assim, não se mostra possível o deferimento do indulto aos crimes de furto simples e dano simples (processos nº 0043112-94.2010.8.21.0038, 0000175-64.2013.8.21.0038, 0004130-06.2013.8.21.0038 e 0000002-11.2011.8.21.0038), uma vez que não preenchida a totalidade dos requisitos legais. Ante o exposto, voto por negar provimento ao agravo em execução.
+A defesa argumenta que a interpretação dada ao art. 11 está equivocada. Que, lida corretamente (e, acrescento, contrariu sensu), cabe indulto quando não haja concurso de crimes ainda que pendente cumprimento de pena por crime impeditivo.
+Em seus próprios termos, sustenta a defesa:
+ O  texto do Ato Presidencial (..) redigiu o parágrafo único de forma clara, acrescentando em seu texto aposto restritivo de incidência, limitando a vedação à hipótese de o crime impeditivo ter sido cometido com/em concurso de crimes em relação ao não impeditivo. Não se trata, repita-se, de vedação quando houver soma ou unificação de penas, mas vedação à concessão de indulto enquanto a pena do crime impeditivo cometido com/em concurso com crime não impeditivo não estiver cumprida. Seja pela interpretação gramatical do texto, seja pela diretriz interpretativa de direito penal que impõe que a lei seja interpretada restritivamente quando em desfavor ao réu e extensivamente quando a ele favorável, a conclusão que se extrai do parágrafo primeiro do artigo 11 do Decreto Presidencial 11.302/2022 é pela possibilidade de concessão de indulto ao crime não impeditivo, ainda que haja pena a cumprir por crime impeditivo, quando tais penas decorrerem de condenações em processos distintos e que não haja concurso de um dos delitos com o outro.
+Este, inclusive, é o entendimento da 3ª Seção desta Corte Superior de Justiça, que já se manifestou nos seguintes termos:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃOPENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N.11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11,PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃOPOR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal deJustiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido.(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJede 14/11/2023.)
+A defesa pede, liminar e definitivamente, a concessão de ordem para cassar o acórdão combatido e conceder o indulto pleiteado ao paciente.
+É o relatório.
+Decido.
+A m atéria tem alta repercussão, é complexa e não cabe ser discutida no juízo célere do habeas corpus, que tem como pressuposto ilegalidade flagrante de ato de autoridade, fundamento que não encontro aqui para decidir.
+A interpretação da legislação de indulto não é mansa e pacífica, segue a exigir posicionamento coletivo desta Corte, no detalhe trazido pela defesa.
+Cabe recurso próprio e é nele que este Superior Tribunal de Justiça deve conhecer e decidir o pleito.
+Em vista do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
