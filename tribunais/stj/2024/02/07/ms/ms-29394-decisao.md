@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, mandado de segurança impetrado por ROVELI LEONI VIEIRA, em 9/5/2023, contra ato do MINISTRO DE ESTADO DA PESCA E AQUICULTURA, consubstanciado na inabilitação da embarcação PINGO DE OURO II no Edital de Seleção n. 4 da temporada de Tainha 2023.
+Requer, ao final, "a expedição de ordem para a efetivação do credenciamento da embarcação PINGO DE OURO II no certame, com a posterior emissão da Autorização de Pesca Especial Temporária, nos termos do Edital de Seleção nº 4, face o cumprimento de todas as exigências do edital e a existência de vagas remanescentes para ingresso de embarcações na temporada de pesca, fato que não ofende a disposição editalícia ou concorrência e supressão de direitos de outras embarcações já credenciadas".
+Na decisão de fls. 667/669 e-STJ, o Ministro OG FERNANDES indeferiu o pedido de liminar.
+A autoridade impetrada prestou informações, afirmando que "a Autorização de Pesca Especial Temporária será concedida à embarcação de pesca PINGO DE OURO II com base na análise da Comissão de Avaliação, conforme disposto na Nota Técnica nº 463/2023/DIRAE/CREAPE/CGRAP - SAP/DRM/SAP/MAPA (Doc. 28512446)" (fl. 717 e-STJ).
+Intimada, a parte impetrante informou que "se inscreveu nas vagas remanescentes publicadas após a impetração deste remédio constitucional, tendo sido deferida a sua autorização especial de pesca", de modo que "já realiza a atividade pesqueira, munido da autorização especial de pesca da Tainha" (fl. 741 e-STJ).
+O mandado de segurança não merece seguimento.
+Com efeito, conforme informado pela própria impetrante, após a impetração deste mandado de segurança, fora "deferida a sua autorização especial de pesca", de modo que "já realiza a atividade pesqueira, munido da autorização especial de pesca da Tainha".
+Assim, tendo o ato coator sido revogado e a parte impetrante obtido a autorização especial de pesca que almejava com a presente impetração, o feito perdeu seu objeto. Nesse sentido: AgRg no MS 18.336/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/03/2013; STJ, MS 18.653/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 01/02/2013.
+Isso posto, com base nos arts. 6º, § 5º, da Lei 12.016/2009 e 485, VI, do CPC, julgo extinto o processo, sem resolução do mérito, ante a perda do seu objeto. Custas, na forma da lei. Sem condenação ao pagamento de honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009.
+Intimem-se.
+EMENTA
