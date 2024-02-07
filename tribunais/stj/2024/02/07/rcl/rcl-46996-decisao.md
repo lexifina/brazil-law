@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por DANIELLY DA SILVA MEIRELE objetivando a reforma de acórdão prolatado pela 1ª Turma Recursal Mista do Tribunal de Justiça do Estado do Mato Grosso do Sul, que manteve sentença de improcedência de ação de obrigação de fazer c/c indenização por danos morais, ajuizada sob o argumento de não conseguir a autora cancelar débitos automáticos em sua conta corrente.
+Alega que o acórdão reclamado contraria o entendimento firmado por esta Corte Superior em sede de recurso repetitivo - Tema n. 1085 -, segundo o qual "São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizado pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento".
+À fl. 574, foi mencionada a apresentação de documento comprobatório do deferimento da gratuidade de justiça na origem, cuja eficácia se estenderia a todos os atos processuais e em todas as instâncias.
+É o relatório. Decido.
+A reclamação que objetiva uniformizar a interpretação da legislação infraconstitucional no âmbito dos Juizados Especiais regia-se pela Resolução n. 12/2009 da Presidência deste Superior Tribunal de Justiça. No entanto, essa resolução foi revogada pela Emenda ao Regimento Interno do Superior Tribunal de Justiça n. 22, de 16.3.2016.
+Atualmente, por força do art. 1º da Resolução STJ/GP n. 3, de 8.4.2016, a competência para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do STJ, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes, cabe às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça.
+Portanto, o Superior Tribunal de Justiça não tem mais competência para apreciar reclamações como a presente.
+Ante o exposto, com fundamento no art. 932, III, do CPC e art. 34, XVIII, a, do RISTJ, não conheço da reclamação.
+Publique-se. Intimem-se.
+EMENTA
