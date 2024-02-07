@@ -1,0 +1,40 @@
+DECISÃO
+Tratam-se de embargos declaratórios contra decisão concessiva de habeas corpus.
+Segundo o Ministério Público, a decisão impugnada não teria enfrentado "a questão relativa à impossibilidade de remição de pena pelo estudo em razão de aprovação parcial no ENCCEJA, com base na Resolução nº 391/2021 do Conselho Nacional de Justiça, atual normativo que disciplina a matéria" (fl. 290), mas apenas se teria limitado a indicar a forma de cálculo para a concessão do benefício, com base em norma revogada (Recomendação n. 44/2013 do CNJ).
+Busca, então, os efeitos integrativo e infringente, para que seja reformada a decisão combatida.
+É o relatório.
+São cabíveis os embargos de declaração quando evidenciada deficiência no acórdão recorrido diante de efetiva obscuridade, contradição, ambiguidade ou omissão, conforme preceitua o art. 619 do CPP.
+A decisão combatida assim manifestou-se:
+No presente writ, aduz a defesa, em síntese, constrangimento ilegal, ao argumento de que "desconsiderar a aprovação parcial da reeducanda no ENCCEJA, representa grave violação aos seus direitos, considerando que o estudo foi realizado, não sendo possível privá-la do direito à remição, devendo ser mantida a decisão de primeiro grau que concedeu a remição de 26 dias de pena" (fl. 6)
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que seja restabelecida a remição da pena pela aprovação parcial da reeducanda no ENCCEJA.
+Indeferida a liminar e prestadas informações, o Ministério Público sugeriu o não conhecimento da ordem.
+O juízo da execução deferiu o benefício nos seguintes termos (fls. 9/11):
+Inicialmente, destaco a Recomendação nº 44/2013 do CNJ, que em seu Art. 1º, IV, definia que os apenados aprovados no ENCCEJA e no ENEM, teriam direito à remição da pena, e como deveria ser feito o cálculo das horas, :in verbis
+ ..
+Atualmente, a Resolução nº 391/2021 do CNJ, em seu Art. 3º, parágrafo único, estabelece as diretrizes da resolução anterior, garantido o direito à remição da pena pela aprovação no ENEM e/ou ENCCEJA, e especificando o cálculo a ser realizado, além de dar outras diretrizes:
+ ..
+Dessa forma, verifica-se que a base de cálculo para a remição é de 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, ou seja, 1600 horas para o ensino fundamental e 1200 horas para o ensino médio, conforme Art. 4º, II, da Resolução nº 03/2010 do CNE.
+ ..
+Assim, no caso concreto, a apenada realizou o ENCCEJA para o ensino fundamental, obteve aprovação em 1 das 5 áreas de conhecimento, sendo assim, considerando que as 1600 horas devem ser divididas por 12, que totaliza 133 dias, considerando que foi aprovada em uma das cinco áreas de conhecimento, deve-se dividir esse valor por 5 e multiplicá-lo por 1 (área de conhecimento aprovada), resultando na remição de 26 dias de pena pela aprovação parcial no ENCCEJA.
+Nesse sentido, DEFIRO a apenada a remição de 26 dias de pena em atenção ao disposto no Art. 126, § 1º, I, da Lei de Execução Penal.
+Sobre a controvérsia, dispôs o Tribunal de origem (fls. 19
+Na espécie, foram acostados, aos autos do processo de execução, um atestado pelo qual a agravada esteve matriculada no curso EJA - Ensino Fundamental, no período de 07/02/2022 a 12/04/2022, com 81% de frequência, totalizando 115h/a, e o certificado parcial do ensino fundamental, ambos emitidos pela Secretaria do Estado da Educação, noticiando a aprovação da apenada em uma das cinco áreas de conhecimento do Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA (evento 3, DOC1, fl. 91/92).
+Desta forma, J. M. G., embora aprovada parcialmente no referido exame, não obteve a conclusão do Ensino Fundamental, como exige a aludida Recomendação, não fazendo jus à remição de pena ali prevista, direcionada aos casos em que o apenado obtém a aprovação nos exames nacionais que certificam a conclusão dos ensinos fundamental e médio.
+Em recente julgado, a Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que, para fins de remição pela aprovação no ENCCEJA, e nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação 44/2013 do Conselho Nacional de Justiça, " a base de cálculo de 50% da carga horária definida legalmente para o ensino fundamental deve ser considerada 1.600 horas, a qual, dividida por doze, resulta em 133 dias de remição em caso de aprovação em todos os campos de conhecimento do ENCCEJA. Serão devidos, portanto, 26 dias de remição para cada uma das cinco áreas de conhecimento." (HC 602.425/SC, Relator p/ Acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 6/4/2021). Neste sentido:
+ ..
+Ante o exposto, concedo o habeas corpus para restabelecer a decisão de primeiro grau que deferiu a remição de 26 dias de pena à paciente.
+A insurgência não merece prosperar.
+O cerne da controvérsia reside em determinar se a expressão "aprovação nos exames que certificam a conclusão do ensino fundamental ou médio", constante no parágrafo único do art. 3º da Resolução 391/2021-CNJ, deve ser interpretada gramaticalmente, ou em seu aspecto teleológico.
+O Parquet, assim como o Tribunal estadual, sustenta que a norma restringe a possibilidade de concessão do benefício. Considera que o mérito do apenado só deve ser reconhecido se a aprovação for integral. Leia-se: é de se desprezar o esforço parcial, pois a norma destina-se àqueles que conseguem concluir o nível educacional que pleiteiam.
+Mas, assim como o STJ, o juízo de primeiro grau firmou entendimento em sentido diverso. Norteado pelos princípios da proporcionalidade e dignidade humana -essenciais ao direito penal e processual penal brasileiro -, deixa de lado a leitura in malam partem e direciona o olhar para a função ressocializadora da pena, optando por conceder ao reeducando a chance de reintegrar-se mais rapidamente à sociedade.
+Embora a Resolução n. 391/2021-CNJ tenha extinto da Recomendação n. 44/2013-CNJ, não há mudança hermenêutica no STJ. O Tribunal da Cidadania mantém-se firme em sua opção de premiar o esforço do reeducando que efetivamente busca a reinserção social, dotando de efetividade o princípio da individualização da pena, de forma a viabilizar o tratamento penitenciário racional e progressivo.
+O entendimento encontra suporte também no Supremo Tribunal Federal:
+"  as condições dos reeducandos são diferentes dos demais cidadãos. Em respeito ao princípio da igualdade, tem-se que se devem tratar desigualmente os desiguais, mormente quando em situações precárias, sendo necessário sobrevalorizar a remição da pena, para que o reeducando aprovado no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA acredite que o erro pode ser superado e ter a possibilidade de uma vida diferente a partir da educação." (AgRg no AgRg no RHC n. 193.114/SC, relatora Ministra Cármen Lúcia, Segunda Turma, DJe-095, Divulg 18/5/2021, Public 19/5/2021).
+Conclui a Ministra, no mesmo voto, que "Os argumentos do agravante, insuficientes para modificar a decisão agravada, demonstram apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional."
+Portanto, não há qualquer vício a ser sanado, pois a matéria foi decidida com a devida e clara fundamentação, acerca da possibilidade de reconhecimento da aprovação parcial no ENCCEJA para fins de remição de pena.
+O que se percebe é que o embargante pretende apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita. Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do CPP e não à revisão de decisão de mérito. A propósito: EDcl no HC n. 355.140/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/9/2016.
+Em conclusão: uma vez que o embargante não apresentou fatos novos ou teses jurídicas diversas que permitam analisar o caso sob ótica diferente, deve ser mantida incólume a decisão recorrida.
+Ante o exposto , rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
