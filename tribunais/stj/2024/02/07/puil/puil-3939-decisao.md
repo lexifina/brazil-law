@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de uniformização de lei federal formulado por Ana Paula Paula Belancon Vettorello, com fundamento no § 3º do art. 18 da Lei n. 12.153/2019, contra decisão do Juiz Relator da Segunda Vara da Fazenda Pública de Foz do Iguaçu - PR que, às fls. 261-262, manteve a sentença de improcedência do pleito inicial de pagamento de adicional por tempo de serviço, nos termos do art. 63, da Lei Complementar Municipal n. 17/1993.
+Também de forma monocrática, os embargos de declaração foram rejeitados (fls. 296-297).
+A Requerente assevera que "houve interpretação divergente do disposto no art. 2º, § 1º, do Decreto 4.657/1942 (LINDB) entre entre a 4ª Turma Recursal do Paraná e das Turmas Recursais do Tribunal de Justiça do Estado do Amazonas - TJAM".
+Argumenta que: "ao contrário do contido na decisão recorrida, não houve nenhuma das formas de revogação, nem tácita, muito menos expressa, pois, conforme já exposto, e o aludido parágrafo 4º, do art. 24 da Lei Municipal 1997/1996, não indica o art. 63 da Lei Complementar Municipal 17/1993. Também não menciona a palavra "biênio" ou "bienal" no referido dispositivo" (fl. 313, grifei).
+Requer, ao final, a procedência do pedido, para que seja reconhecida "a inexistência de qualquer forma de revogação do disposto no art. 63 da Lei Complementar Municipal 17/1993, e, ao final, seja reconhecido o direito da parte Recorrente ao benefício de adicional de tempo de serviço bienal pleiteado" (fl. 330).
+Decisão de remessa ao STJ (fl. 867).
+É o relatório. Passo a decidir.
+Nos termos do art. 18 da Lei 12.153/09, caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+No caso, o pedido aqui deduzido é manifestamente improcedente. Isso porque a Requerente insurge-se contra decisão do Juiz Relator da Segunda Vara da Fazenda Pública de Foz do Iguaçu - PR que, às fls. 261-262, manteve a sentença de improcedência do pleito inicial de pagamento de adicional por tempo de serviço, nos termos do art. 63, da Lei Complementar Municipal n. 17/1993.
+Mesmo que assim não fosse, cabe estabelecer que a decisão impugnada não se manifestou, nem mesmo implicitamente, acerca da alegada violação do art. 4º da LICC, o que acarreta o não conhecimento do pedido pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese, por analogia, a Súmula 211/STJ.
+Por fim, no caso, a controvérsia envolve a interpretação da legislação local, isto é, o confronto entre a Lei Municipal 1997/1996 e a Lei Complementar Municipal 17/ 1993, incidindo, no caso dos autos, também por analogia, o Enunciado da Súmula 280/STF, segundo a qual por ofensa a direito local não cabe recurso extraordinário. No mesmo sentido: PUIL n. 3.828/PR, Ministro Herman Benjamin, DJe de 15/12/2023.
+Ante o exposto, não conheço do pedido, nos termos artigo 34, XVIII, a, do RI/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DECISÃO DO RELATOR. ADICIONAL POR TEMPO DE SERVIÇO. CONFRONTO ENTRE A LEI MUNICIPAL 1997/1996 E A LEI COMPLEMENTAR MUNICIPAL 17/ 1993. SÚMULA 280/STF. REQUISITOS LEGAIS. AUSÊNCIA.
