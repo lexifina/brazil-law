@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Walisson Lopes Silva - atacando-se o acórdão proferido pelo Tribunal de Justiça de Goiás (HC n. 5809420-03.2023.8.09.0090 - fls. 32/36) que manteve a prisão preventiva do paciente, decretada em 3/10/2023 e ainda não efetivada, pela prática, em tese, do crime de feminicídio, nos Autos n. 5657249-61.2023.8.09.0090 (fls. 26/27), da Vara Criminal da comarca de Jandaia/GO -, não comporta acolhimento.
+Com efeito, busca a impetração a revogação da segregação cautelar, ao argumento de deficiência de fundamentação do decreto prisional, assentando que nem sequer fora mencionado/demonstrado que a liberdade do paciente implicaria em prática de novos crimes, no desaparecimento de provas, na fuga do distrito de culpa ou na impossibilidade de punição, caso venha a ser condenado (fls. 13/14).
+Da atenta análise dos autos observa-se que o decreto de prisional demonstrou de forma fundamentada o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito - uma vez que ele supostamente praticou o delito gravíssimo e reprovável de feminicídio, por possíveis inconformidades com o término do relacionamento (fl. 26) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+Nesse sentido: na hipótese, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade em concreto da conduta delitiva, haja vista as notícias de que o acusado tentou infligir queimaduras em sua enteada e ateou fogo na mãe dela, sua companheira (HC n. 858.588/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/11/2023, DJe 28/11/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FEMINICÍDIO. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE EM CONCRETO DA CONDUTA DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
