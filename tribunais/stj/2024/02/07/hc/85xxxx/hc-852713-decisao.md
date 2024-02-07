@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 21):
+AGRAVO. EXECUÇÃO PENAL. FALTA GRAVE. RECURSO DO APENADO. PEDIDO DE ANULAÇÃO DA DECISÃO. AUSÊNCIA DE ANÁLISE DO MÉRITO. AUSÊNCIA DE PROVAS. INVIABILIDADE. COMPETÊNCIA DO DIRETOR DA UNIDADE PRISIONAL PARA RECONHECER A FALTA GRAVE. ANÁLISE JUDICIAL RESTRITA À LEGALIDADE DO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. AUSÊNCIA DE ILEGALIDADES. HOMOLOGAÇÃO MANTIDA. Não cabe ao Judiciário adentrar ao mérito do procedimento administrativo disciplinar, mas apenas verificar a sua legalidade, de modo que o pedido de anulação da decisão deve ser rejeitado. RECURSO NÃO PROVIDO.
+Narram os autos que as instâncias de origem homologaram a falta grave praticada pelo paciente, determinando a regressão de regime e aplicando os demais consectários legais.
+Sustenta a defesa, em suma, que, "No caso aqui discutido, observamos nitidamente que não existem, de fato, provas suficientes para ensejar um decreto de reconhecimento de falta grave. Em processo penal, é o órgão acusador que tem o ônus de provar a materialidade do fato, a autoria, a tipicidade, ilicitude e culpabilidade. Ou seja, que o acusado praticou um fato e que esse fato constitui crime. Ocorre que nada há nos autos que comprove que a substância que possuía o apenado tratava-se de maconha" (fl. 14).
+Aduz, ainda, que, "No caso em apreço, o laudos toxicológico preliminar de constatação e o definitivo não foram juntados aos autos, visto que o que foi juntado NÃO DIZ RESPEITO AO PACIENTE" (fl. 14).
+Requer, liminarmente e no mérito, a concessão da ordem, para "cassar o acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Santa Catarina, conforme acima delineado, para o fim de afastar a falta grave, absolvendo o apenado, com os demais consectários legais" (fl. 16).
+A liminar foi indeferida.
+Informações prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento do presente habeas corpus.
+É o breve relatório.
+Decido.
+No tocante ao reconhecimento da falta grave, assim se manifestou o magistrado de primeiro grau (fls. 22-23):
+Infere-se dos autos que, em 08/11/2022, no curso da execução da pena, o sentenciado supostamente cometeu fatos definidos como falta grave(art. 52 da LEP).
+Encerrada a instrução do PAD, a Autoridade Prisional acolheu parecer do Conselho Disciplinar e reconheceu o cometimento da falta grave(Sequencial 143.1).
+No caso presente, o procedimento administrativo disciplinar foi absolutamente hígido e a autoridade administrativa, competente para discutir o mérito do incidente, concluiu pelo reconhecimento da falta grave.
+Registre-se que os arts. 47 e 48 da LEP estabelecem que, no âmbito da execução penal, a apuração da conduta faltosa, a sua consequente subsunção à norma legal é atribuição exclusiva dodiretor do estabelecimento prisional.
+O Juízo da execução exerce tão somente competência suplementar, ou seja, na aplicação das sanções cominadas à falta grave sujeitas à reserva de jurisdição, além do controle de legalidade dos atos e decisões proferidas no PAD.
+Portanto, inexistindo qualquer mácula no PAD, sua homologação é medida que se impõe, reconhecendo o cometimento da falta grave nos termos do art. 118, I da LEP.
+Por sua vez, o Tribunal de origem assim se manifestou: (fls. 19-20):
+Conforme disposição expressa dos arts. 47 a 52 da Lei n. 7.210/1984, compete ao diretor do estabelecimento prisional a apuração das ações dos detentos que possam configurar faltas, bem como a classificação destas em leves, médias ou graves. Ainda, cabe a ele a aplicação de determinadas sanções, conforme previsão contida no art. 53, I a IV, e no art. 54, ambos da lei supracitada, somente necessitando representar ao juiz da execução penal quando for necessário adotar as sanções disciplinares previstas nos arts. 118, I, 125, 127, 181,§§ 1º, "d", e 2º, todos da mesma lei (Lei n. 7.210/1984, art. 48, parágrafo único).
+Sendo assim, se o juiz da execução penal verificar a legalidade do procedimento administrativo disciplinar, deve homologá-lo.
+In casu, como bem registrado pela togada singular, o procedimento mostra-se totalmente hígido, tendo sido respeitados o contraditório e a ampla defesa, culminando na conclusão da prática de falta grave.
+Da análise do Procedimento Administrativo n. 184/2022, verifica-se que a autoridade carcerária reconheceu que o apenado praticou falta grave, de acordo com a previsão contida no art. 52 da Lei de Execução Penal, em razão do cometimento de fato definido como crime doloso no cumprimento da pena, consistente na posse de drogas.
+Destarte, inviável ingressar na análise das provas produzidas - se são suficientes ou não para a caracterização da falta -, pois isso é co mpetência da autoridade administrativa (diretor do estabelecimento prisional).
+ ..
+Logo, não cabe ao Judiciário adentrar ao mérito do procedimento administrativo disciplinar, mas apenas verificar a sua legalidade, de modo que o pedido de anulação da decisão deve ser rejeitado. Diante do exposto, voto no sentido de negar provimento ao recurso.
+Da análise dos excertos colacionados, verifica-se que a Corte de origem invocou fundamentos para manter a decisão que reconheceu a prática de falta grave que estão em sintonia com o entendimento deste Tribunal, apontando não apenas a previsão legal da conduta a título de falta disciplinar de natureza grave, como também a existência de elementos a demonstrar a materialidade e a autoria imputada ao paciente.
+Ademais, como bem pontuou o MPF, "ao contrário do alegado pela defesa, verifica-se que o laudo pericial foi requisitado em 07/12/2022 e encerrado em 04/01/2023 (e-STJ fls. 41/42), ambas datas posteriores à dos fatos (08/11/2022)" (fl. 120).
+Portanto, rever o entendimento das instâncias originárias para afastar a falta grave pela ausência de provas, é notório, nesta Corte Superior, que o exame da tese absolutória não se coaduna com a via estreita do habeas corpus, dada a necessidade, na espécie, de incursão no acervo fático-probatório. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. NULIDADE. OITIVA JUDICIAL DO APENADO. PRESCINDIBILIDADE. INEXISTÊNCIA DE REGRESSÃO DEFINITIVA DE REGIME. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA FALTA PARA NATUREZA MÉDIA. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. VIA INADEQUADA. RECURSO A QUE SE NEGA PROVIMENTO.
+1 - "Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa" (AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022).
+2 - O art. 118 da LEP exige a oitiva prévia do apenado apenas nos casos de regressão definitiva de regime prisional, o que não é a hipótese dos autos, porquanto não houve regressão do sentenciado a regime mais gravoso
+3 - As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam que o reeducando violou os arts. 50, incs. I e VI, c/c o 39, incs. II e V, ambos da Lei de Execução Penal. Revisar os elementos de prova para concluir pela absolvição ou pela desclassificação da falta grave exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+4 - Agravo regimental a que se nega provimento.
+(AgRg no HC n. 743.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA APURADA POR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. DESOBEDIÊNCIA. INVIABILIDADE DE PROFUNDO REEXAME DE FATOS E DE PROVAS. AGRAVO DESPROVIDO.
+1. Não há nenhuma ilegalidade na tipificação da conduta praticada pelo paciente como falta grave, notadamente porque, conforme assentado no procedimento administrativo disciplinar, o paciente incorreu em desobediência, conduta a qual, segundo a jurisprudência desta Corte Superior, consiste em falta grave, nos termos do art. 50, VI, c. c. o art. 39, II e V, ambos da LEP.
+2. Não há nada nos autos que corrobore o argumento defensivo de que não há provas suficientes para a condenação do paciente.
+3. Tendo as instâncias ordinárias entendido que quando os detentos foram orientados a permanecer no centro da cela e o paciente não acatou tal ordem, configurou-se ato de desrespeito nos termos do art. 50, VI, c/c o art. 39, II, ambos da Lei n. 7.210/1984, inviável a desconstituição do que foi decidido, visto que necessitaria o revolvimento de todo o contexto fático-probatório, o que inviável na via eleita.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 783.146/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
