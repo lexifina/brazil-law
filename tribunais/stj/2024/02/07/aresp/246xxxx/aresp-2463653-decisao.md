@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANA PAULA PINTO ALVES contra decisão que inadmitiu recurso especial com fundamento na ausência de violação dos dispositivos legais e na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1005796-81.2019.8.26.0068 nos autos de ação indenizatória.
+O julgado foi assim ementado (fl. 502):
+APELAÇÃO CÍVEL - INDENIZATÓRIA - ERRO DE DIAGNÓSTICO MÉDICO - FUNDAMENTOS DA SENTENÇA QUE DÃO SUSTENTAÇÃO ÀS RAZÕES DE DECIDIR - APLICAÇÃO DO ARTIGO 252 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO - PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA - SENTENÇA MANTIDA RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 6º, VI, VII e VIII, do CDC e 186 do CC ao argumento de que faz jus à indenização por danos morais, porquanto a ora agravada não obedeceu às diretrizes impostas por portaria do Ministério da Saúde na divulgação do resultado de falso-positivo de exame de HIV. Alega que a ora agravada deveria submeter a paciente a um novo teste com nova amostragem diversa da primeira, fato este não comprovado nos autos.
+Requer o provimento do recurso para seja julgada procedente a ação com a condenação da ora agravada ao pagamento de indenização por danos morais.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem, apreciando o conjunto fático-probatório dos autos, manteve a sentença, que julgou improcedente o pedido inicial, entendendo que não ficou demonstrada negligência por parte da ora agravada no diagnóstico falso-positivo do exame de HIV. Destacou que a notícia ocasionou mero dissabor a parte ora agravante não sendo capaz de gerar o dever de indenizar pelo dano moral. Observe-se (fl. 506):
+Ora, diante de tais considerações, fica evidente o acerto no qual incorreu o Juízo a quo, eis que não ficou demonstrada negligência por parte da recorrida no diagnóstico falso-positivo, o que se mostra possível em alguns casos, sem que daí decorra o dever de indenizar por dano moral. A notícia ocasionou mero dissabor não capaz de gerar o dever de indenizar pelo dano moral.
+Para concluir em sentido contrário e reconhecer a ocorrência dos pressupostos para a concessão da indenização por danos morais, seria necessário o reexame do conjunto probatório dos autos, vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+A esse respeito, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ERRO MÉDICO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. FALTA DE SIMILITUDE FÁTICA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova, concluiu pela inexistência de erro médico (diante da ausência de culpa e de nexo de causalidade) ou defeito no serviço prestado (por ausência de nexo de causalidade entre o serviço e o dano). Entender de modo contrário implicaria reexame de matéria fática, o que é vedado em recurso especial.
+3. "A incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea c do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos. (AgInt no AREsp n. 1.717.545/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/11/2020, DJe de 9/12/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESTAÇÃO DE SERVIÇOS MÉDICO-HOSPITALARES. INEXISTÊNCIA DE FALHA. INDENIZAÇÃO AFASTADA. REVISÃO DAS CONCLUSÕES ALCANÇADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Tendo o Tribunal de origem, a partir do exame dos elementos de prova, concluído pela inexistência de falha na prestação de serviços do hospital, afastando, assim, a alegação de erro médico e pretendida indenização por danos morais, não há acolher a pretensão recursal, sem proceder ao necessário reexame de fatos e provas dos autos, o que é vedado em recurso especial nos termos da Súmula 7/STJ.
+2. Agravo interno improvido. (AgInt no AREsp n. 1.979.653/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
