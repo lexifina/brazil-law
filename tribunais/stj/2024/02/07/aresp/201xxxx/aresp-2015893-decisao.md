@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial de GTPLAN PRESTAÇÃO DE SERVIÇO DE INFORMÁTICA LTDA. - EPP e outros (GTPLAN e outros), pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo (TJSP), relator SÉRGIO SHIMURA , assim ementado:
+CUMPRIMENTO PROVISÓRIO DE SENTENÇA - EXECUÇÃO DE MULTA DIÁRIA OBRIGAÇÕES RECÍPROCAS - EXEQUENTE BIONEXO QUE, DE UM LADO, TEM DIREITO DE COBRAR A MULTA DIÁRIA, MAS DE OUTRO ESTÁ OBRIGADA A REPASSAR VALORES À DEVEDORA GTPLAN - CREDORA BIONEXO QUE PEDE QUE A INTEGRALIDADE DOS VALORES SEJA DEPOSITADA EM JUÍZO A TÍTULO DE PENHORA DE FATURAMENTO - DECISÃO AGRAVADA QUE, EMBORA TENHA AUTORIZADO O DEPÓSITO JUDICIAL DOS REPASSES MENSAIS, LIMITOU A 30% DOS REPASSES - EQUIPARAÇÃO À PENHORA DE FATURAMENTO Inconformismo da credora Não acolhimento Partes que são credora e devedora reciprocamente - Pelo contrato de licenciamento e exclusividade da distribuição da Plataforma "PLANNEXO", a BIONEXO está obrigada a repassar mensalmente à GTPLAN 42,3% de sua receita bruta decorrente dos serviços prestados aos clientes No cumprimento provisório de sentença, relativamente à multa diária, a exequente BIONEXO requereu que, em vez de repassar os 42,3% à GTPLAN, a penhora recaísse sobre a "totalidade" destes repasses, e não somente de 30% - Pretensão que não pode ser acolhida - No caso em tela, a limitação da penhora até o percentual de 30% dos repasses mensais devidos à empresa executada (GTPLAN) constitui forma de equacionar a questão do pagamento e a continuidade de suas atividades, amortizando-se a dívida, sem levá-la à bancarrota ou inatividade. Além disso, até que seja apurado o faturamento bruto da agravada GTPLAN, a pretensão da agravante BIONEXO, para que seja depositada a totalidade dos repasses, mostra-se precipitada RECURSO DESPROVIDO NESTE TÓPICO.
+PENHORA "ON LINE" PELO SISTEMA BACENJUD - REITERAÇÃO DE PEDIDO POSSIBILIDADE - Não se exige do credor que, para efetuar novo pedido de penhora on-line, tenha de provar chances concretas de êxito da diligência. Exige-se apenas certo transcurso de lapso temporal razoável entre os pedidos e a possibilidade de ter havido mudança das condições financeiras do devedor - Inexistência de limitação dos pedidos Decurso de prazo razoável entre os pedidos de penhora, situação que justifica a reiteração do pedido - Precedentes jurisprudenciais - RECURSO PROVIDO NESTE TÓPICO. (e-STJ, fls. 1.153/1.154)
+Os embargos de declaração opostos por GTPLAN e outros foram rejeitados (e-STJ, fls. 1.240/1.245).
+Irresignados , GTPLAN e outros interpuseram recurso especial, com base no art. 105, III, alíneas a, b e c, da CF, apontando violação dos arts. 805 e1.022, II, do CPC, bem como dissídio jurisprudencial.
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 1.338/1.342).
+Nas razões do presente agravo, alegou-se que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal não comporta conhecimento.
+O recurso especial não foi admitido com base nos seguintes fundamentos:
+Não se verifica a pretendida ofensa ao art. 1.022, II, do CPC, porquanto as questões trazidas à baila foram todas apreciadas pelo V. Acórdão atacado  ..
+Alegada violação aos arts. 8º e 805 do CPC: Não ficou demonstrada a alegada vulneração aos dispositivos arrolados  ..
+Além disso, ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice  ..  Mas isso é vedado pelo enunciado Súmula 7 do E. Superior Tribunal de Justiça.
+ ..
+III. Não merece ser admitido o recurso pela alínea "b" do dispositivo autorizador.
+O cabimento do recurso especial pela alínea b do inciso III do artigo 105 da Constituição Federal pressupõe haja a corte de origem homenageado ato de governo local em detrimento da legislação federal. Inexistente tal fato, impossível é entender pelo trânsito do especial.
+Ressalto que, após a Emenda Constitucional 45/04, o E. Superior Tribunal de Justiça firmou entendimento de que somente o ato material e de efeitos concretos pode ser considerado como ato de governo local.
+Nesse sentido, o agravo em recurso especial 813154/PR, relator o ministro BENEDITO GONÇALVES, in DJE de 16.12.2015: "Por fim, consigne- se que não cabe o recurso especial pela alínea b do inciso III do artigo 105 da Constituição Federal, pois o mesmo pressupõe que haja o Tribunal de origem privilegiado ato de governo local em detrimento da legislação federal. Neste contexto, esta Corte tem o entendimento de que somente o ato material e de efeitos concretos pode ser considerado como ato de governo local, não podendo os decretos estaduais serem assim classificados, dado se tratarem de atos normativos, de caráter abstrato, portanto."
+Na hipótese dos autos não ocorreu tal situação em momento algum.
+IV. Tampouco pela alínea "c" poderá o recurso ser admitido.
+Não ficou demonstrada na peça recursal a similitude de situações com soluções jurídicas diversas entre os Vv. Acórdãos recorrido e paradigma. (e-STJ, fls. 1.338/1.341)
+Observe-se que GTPLAN e outros não impugnaram todos os fundamentos da decisão agravada, pois não refutaram as razões utilizadas para inadmissão do especial pelas alíneas b e c, acima dispostas.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente. Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONSIGNATÓRIA C/C REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. FUNDAMENTO DA ADMISSIBILIDADE NEGATIVA. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 932, INCISO III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial se a parte deixa de impugnar fundamento da decisão de admissibilidade negativa, que obstou o seguimento a parte do apelo por força do artigo 1.030, inciso I, alínea "b", do Código de Processo Civil.
+2. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do CPC e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.565.679/GO, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 07/12/2020, DJe 11/12/2020)
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RAZÕES DA INADMISSIBILIDADE. NÃO IMPUGNAÇÃO. ART. 932 DO CPC. AGRAVO NÃO CONHECIDO.
