@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ELECTRO ACO ALTONA S A contra decisão que conheceu do agravo para não conhecer do recurso especial.
+A parte embargante alega omissão no julgado, sob o argumento de que " ..  a decisão omitiu-se na análise de um dos capítulos do recurso especial, na medida em que a apontada violação art. 85, §§ 2º e 11 do CPC não tem relação com a sucumbência recíproca adotada pelo acórdão proferido na origem (quanto a este ponto o recurso especial suscitou violação ao art. 86 do CPC); mas, diversamente, volta-se à aplicação de honorários recursais pela Corte de origem" (e-STJ fl. 1106).
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou manifestação clara, coerente e expressa acerca dos motivos pelos quais não foi conhecido o recurso e, consequentemente, impediram sua análise de mérito, conforme se extrai do seguinte excerto:
+Por fim, o recorrente aduz que houve violação dos arts. 85, §§ 2º e 11, e 86 do CPC quando o Tribunal a quo decidiu pelo arbitramento de honorários e pela sucumbência recíproca. Assim, suscitou também, além da mencionada violação de dispositivo de lei, divergência jurisprudencial.
+Ocorre que, no presente caso, a análise acerca de possível equívoco do Tribunal a quo ao arbitrar os honorários de sucumbência, especialmente de forma recíproca, também demandaria a incursão no conjunto fático-probatório, visto que tal sucumbência deriva do não acolhimento do pedido de restituição em dobro, suscitado em eventual violação do art. 42 do CDC, atraindo, também neste ponto, a incidência da Súmula n. 7/STJ.  ..  (e-STJ fls. 1099-1100).
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
