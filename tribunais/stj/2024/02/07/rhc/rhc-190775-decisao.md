@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por GABRIELA MORAES e AMANDA VIEIRA MATTOS contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que as recorrentes foram presas em flagrante (convertida a custódia em prisão preventiva) pela suposta prática do crime de furto qualificado, em que figura como vítima o estabelecimento comercial Havan.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 81):
+FURTO QUALIFICADO NA MODALIDADE TENTADA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. PRISÃO DOMICILIAR. PLEITO FORMULADO COM FULCRO NO ARTIGO 318, INC. V, DO CPP. CIRCUNSTÂNCIAS DO CASO EM CONCRETO QUE APONTAM PARA SITUAÇÃO EXCEPCIONAL A CONTRAINDICAR A MEDIDA ALMEJADA. PACIENTES QUE POSSUEM OUTRAS ANOTAÇÕES CRIMINAIS POR SUPOSTAS PRÁTICAS DE CRIMES DE MESMA ESPÉCIE, COM INDÍCIOS DE PROGRESSÃO NA ESCALADA DELITIVA. PRISÃO DOMICILIAR QUE, IN CASU, NÃO ESTÁ, EM PRINCÍPIO, A ATENDER OS MELHORES INTERESSES DAS CRIANÇAS E NÃO PODE SERVIR DE SUBTERFÚGIO PARA LIVRAMENTO DO CÁRCERE. AUSÊNCIA DE COMPROVAÇÃO DE ESTADO DE EXTREMA DEBILIDADE DE SAÚDE. DECISÃO LIMINAR PARCIALMENTE DEFERIDA EM SEDE DE PLANTÃO JUDICIÁRIO EM 2º GRAU CASSADA COMO MEDIDA DE RIGOR. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA, COM CASSAÇÃO DA DECISÃO LIMINAR.
+No presente recurso, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a inexistência de fundamentação idônea para a prisão preventiva e ausência dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando a presença de condições pessoais favoráveis às recorrentes, as quais são tecnicamente primárias, mãe de crianças menores, possuem residência fixa e cometeram crime de menor potencial ofensivo sem grave ameaça.
+Sublinha, ainda, a possibilidade de aplicação de medidas cautelares alternativas, inclusive prisão domiciliar por serem mães de filhos com até 12 anos de idade.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura e a aplicação de medidas cautelares previstas no art. 319 do CPP se for o caso.
+O pleito urgente foi indeferido (e-STJ fls. 125/128).
+Prestadas as informações (e-STJ fls. 134/139), o Ministério Público Federal manifestou-se pelo improvimento do recurso (e-STJ fls. 159/167).
+É o relatório. Decido.
+Consoante informações colhidas do site do Tribunal de origem, em 25/1/2024 sobreveio sentença condenatória nos autos da ação penal originária, tendo sido deferido às rés, ora recorrentes, o direito de apelar em liberdade, momento em que foi determinada a expedição de alvará de soltura em seu favor.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar das recorrentes.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
