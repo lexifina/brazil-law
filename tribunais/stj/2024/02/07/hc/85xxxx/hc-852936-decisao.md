@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus contra acórdão assim ementado (fls. 118):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. Sentença de procedência. Recurso defensivo. Réu que foi flagrado com 68,39g de maconha na revista de retorno ao presídio após trabalho externo. Autoria e materialidade devidamente demonstradas. Inviabilidade da desclassificação nos termos do art. 28 da Lei 11.343/06. Recurso desprovido. Sentença mantida.
+Depreende-se dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, e 680 dias-multa, como incurso nas sanções do art. 33, caput, c.c art. 40, III da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, o qual negou provimento ao recurso.
+No presente writ, sustenta a defesa, em síntese, que é devida a desclassificação da conduta do paciente para a prevista no art. 28 da Lei 11.343/2006, diante da ausência de qualquer situação a denotar a prática da traficância.
+Requer, ao final, a concessão da ordem, para desclassificar a imputação inicial para a prevista no art. 28 da lei de drogas.
+As informações foram prestadas. O Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+É o breve relatório.
+Decido.
+Acer ca do punctum saliens, o Tribunal de origem, quando do julgamento do recurso de apelação, assim se pronunciou, in verbis (fl. 120):
+Conforme se extrai dos autos e do próprio depoimento do réu, não há dúvida de que, ao retornar ao presídio, ele trazia consigo os entorpecentes apreendidos. Resta avaliar se as drogas eram destinadas a terceiros ou ao consumo pessoal do acusado.
+Como é cediço, para a caracterização do crime de tráfico é prescindível ser o agente flagrado em efetivo comércio, ou na percepção de lucro. Basta, ao reverso, que se identifique algum dos núcleos elencados no tipo penal (Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer), porquanto delito de ação múltipla.
+Lado outro, a eventual condição de usuário do acusado não o torna inapto ao exercício da mercancia espúria; pelo contrário, não raras vezes são condições coincidentes, que atuam como razão para o exercício difusor e na captação a mão de obra respectiva.
+Sob essa óptica, entendo que as circunstâncias da apreensão são firmes em indicar que o acusado trazia consigo drogas destinadas à distribuição e consumo de terceiros.
+Isso porque, embora não tenha sido apreendida quantidade exorbitante de entorpecentes (68,39g de maconha), não é crível que a droga era destinada ao consumo pessoal, especialmente porque o acusado tentou ingressar em estabelecimento prisional, local que convive com o intenso tráfico interno e onde especial valor é incorporado ao entorpecente.
+In casu, diversamente do que foi alegado pela defesa, o que avulta do contexto fático delineado pela Corte a quo, nos limites cognitivos de um habeas corpus, é que a autoria delitiva em desfavor do paciente, "embora não tenha sido apreendida quantidade exorbitante de entorpecentes (68,39g de maconha), não é crível que a droga era destinada ao consumo pessoal, especialmente porque o acusado tentou ingressar em estabelecimento prisional, local que convive com o intenso tráfico interno e onde especial valor é incorporado ao entorpecente."
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA USO. IMPOSSIBILIDADE. FARTO ARCABOUÇO PROBATÓRIO. REVISÃO. INVIABILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, inviável o enfrentamento da tese de absolvição do paciente pelo delito de tráfico ou mesmo a desclassificação da conduta para o delito descrito no art. 28 da Lei n. 11.343/2006, isso porque as instâncias ordinárias escoraram-se em farto arcabouço probatório, consistente nas circunstâncias da prisão em flagrante, nos depoimentos dos policiais e na própria confissão em juízo do acusado, sem olvidar a quantidade de droga apreendida em seu poder, que frise-se, não se pode ter por inexpressiva (1kg 800g de crack). Nessa toada, ante a necessária incursão fático-probatória, incompatível o acolhimento da tese trazida no mandamus.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 676.320/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO H ABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE DESCLASSIFICAÇÃO. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO NA DESCRIÇÃO DA CONDUTA APRESENTADA NA DENÚNCIA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. PENA-BASE MAJORADA COM FUNDAMENTO NOS MAUS ANTECEDENTES. CONSONÂNCIA COM A JURISPRUDÊNCIA DES CORTE. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBIIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Quanto ao pleito de desclassificação do delito para o art. 28 da Lei n. 11.343/2016, o v. acórdão do Tribunal de origem ressaltou os elementos contidos na denúncia que davam conta de que o agravante teria comercializado a droga, de maneira que a conduta de fornecimento de entorpecente a terceiros se amolda ao disposto no art. 33 da referida Lei, não havendo que se falar em desclassificação para o delito de posse de drogas para consumo pessoal previsto no art. 28 da mesma norma.
+ ..
+Agravo regimental desprovido. (AgRg no HC 746.121/MG, Relator Ministro JESUÍNO RISSATO - Desembargador convocado do TJDFT -, QUINTA TURMA, DJe 9/8/2022).
+Ante o exposto, denego o habeas corpus.
+P. e I.
+EMENTA
