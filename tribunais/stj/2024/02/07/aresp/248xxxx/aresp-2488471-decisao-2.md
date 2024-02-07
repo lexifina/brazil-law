@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo em recurso especial de MALOSSO BIOENERGIA S.A. (MALOSSO), pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo (TJSP), relatora MARIA LÚCIA PIZZOTTI, assim ementado:
+APELAÇÃO AÇÃO INDENIZATÓRIA COMPRA E VENDA DE BENS DE TERCEIRO RESPONSABILIDADE EVIDENCIADA DANOS MORAIS - Ação proposta contra ex-marido da autora, sócio da empresa que firmou contrato com a empresa terceira para venda da cana de açúcar de propriedade da autora, à sua revelia;
+- Danos morais configurados - a autora se viu vítima da atuação ardilosa do seu ex-marido, em conjunto com a corré, para venda de cana-de-açúcar em suas terras, sem sua autorização.
+RECURSO PROVIDO. (e-STJ, fl. 628
+Irresignada, MALOSSO interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 10, 369, 1.013, § 3º, e 1.029, § 5º, do CPC; e 186 e 927 do CC, pretendendo (1) a concessão de efeito suspensivo ao recurso especial e afirmando que (2) incabível a aplicação da teoria da causa madura ao presente processo, tendo em vista que sequer foi oportunizado às partes a produção de suas provas (e-STJ, fl. 722) (3) não cometeu qualquer ilícito e, portanto, não tem o que indenizar.
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 778/780).
+Nas razões do presente agravo, alegou-se que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) efeito suspensivo
+Nos termos da jurisprudência desta Corte, a concessão de efeito suspensivo ao recurso especial condiciona-se à demonstração da presença do periculum in mora e do fumus boni iuris. Confira-se:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. RECUPERAÇÃO JUDICIAL CONVOLADA EM FALÊNCIA. INCOMPETÊNCIA ABSOLUTA. SEGUNDA ARGUIÇÃO DE NULIDADE. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE PENDENTE NA ORIGEM. MEDIDA EXCEPCIONAL. TUTELA DE URGÊNCIA. REQUISITOS NÃO CONFIGURADOS. PEDIDO INDEFERIDO.
+1. A competência do Superior Tribunal de Justiça para a apreciação de pleito objetivando a concessão de efeito suspensivo a recurso especial instaura-se após ultrapassado o juízo de admissibilidade a cargo do tribunal de origem (art. 1.029, § 5º, I, II e III, do CPC/2015).
+2. A atribuição, em caráter excepcional, de efeito suspensivo a recurso especial pendente de juízo de admissibilidade depende da presença cumulativa dos requisitos do periculum in mora e do fumus boni juris, aliados à teratologia ou manifesta ilegalidade da decisão.
+3. No caso dos autos, em um exame perfunctório, não se constata a presença dos requisitos autorizadores da concessão da tutela de urgência.
+4. Agravo interno não provido.
+(AgInt no TP n. 3.539/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/3/2022, DJe de 31/3/2022)
+(2) produção de provas (3) indenizações por danos material e moral
+O Tribunal de origem, ao julgar a apelação, conclui que devidamente demonstrados os alegados dano moral e material aptos à concessão das indenizações requeridas; e que suficientes as provas constantes dos autos. Confira-se:
+Respeitado o entendimento da r. sentença, entendo que é caso de dar provimento ao recurso.
+Em primeiro lugar, destaca-se que a presente demanda é indenizatória e não de rescisão contratual. O Sr. Aristides, corréu, ex-marido da autora, supostamente, determinou, pessoalmente, a colheita da cana no imóvel por ela administrado, e realizou a negociação da cana através da pessoa jurídica da qual ele é sócio, a ASA Administração de Bens e Empreendimentos (fls. 197/199), à revelia da autora.
+O contrato de compra e venda, inclusive, é pós-datado, e prevê o pagamento à pessoa física de Aristides (e não à sociedade).
+Ainda, a empresa Asa Administração de Bens e Empreendimentos Ltda. firmou contrato de compra e venda de cana de açúcar com a Malosso Bioenergia de área referente a 24 hectares designado na Fazenda PALMEIRAS, ou seja, propriedade diversa daquelas objeto desta demanda (Fazendas Bela Vista, glebas A e B matrículas 30.166 e 30.167 e Sítio União matrícula 21.440 fls. 22/30), onde colhida, ilegalmente, a cana da apelante.
+Em contranotificação de fls. 123/124, eventual responsabilidade pela colheita em área de propriedade rural em comodato à autora deve ser atribuída ao vendedor da cana, isto é, a pessoa jurídica indicada no contrato.
+Contudo, veja-se que a corré Malosso concorreu com culpa no caso, por negligência, por ter permitido a colheita de cana em terreno de terceiros, sem sequer ter analisado a legalidade da sua conduta e, pior, colheu a cana em local diverso do indicado no contrato evidenciando sua participação de má-fé nos fatos.
+Dito isso, a responsabilidade dos corréus pelo evento está caracterizada.
+ ..
+O dano moral não precisa representar a medida nem o preço da dor, mas uma compensação pela ofensa injustamente causada a outrem.
+A indenização econômica, assim, tornou-se o único meio para a reparação do dano moral. Ocorre por mera compensação ou neutralização e não exatamente por restauração dos bens lesados, o que, à evidência, seria impossível. Diante de tais situações, a única via pela qual se pode ao menos minorar os efeitos do dano é por meio da reparação pecuniária.
+Assim, para a fixação dos danos morais, além do dano, também se deve levar em conta a situação econômica das partes, a fim de não dar causa ao enriquecimento ilícito, mas gerar um efeito preventivo, com o condão de evitar que novas situações desse tipo ocorram, e também considerando o porte financeiro daquele que indenizará, não se podendo fixar o valor de indenização em quantia irrisória, sob pena de não vir a surtir o efeito repressivo que se pretende, qual seja, fazer com que o agente perceba, eficazmente, as consequências de seu ato ilícito.
+Nesse aspecto, devem ser levadas em consideração as peculiaridades do caso, as regras de experiência do julgador e os balizamentos doutrinários.
+No presente caso, a autora se viu vítima da atuação ardilosa do seu ex-marido, em conjunto com a corré, para venda de cana-de-açúcar em suas terras, sem sua autorização, e à sua revelia. Houve inegável ofensa aos seus direitos de personalidade, que devem ser reparados pelos danos morais, que devem ser fixados em R$15.000,00 (quinze mil reais).
+Destarte, DOU PROVIMENTO ao recurso, para julgar procedente a demanda, condenando as corrés, solidariamente, ao pagamento de R$380.000,00, correspondente ao valor da cana-de-açúcar colhida nas terras da autora, devidamente corrigida desde a colheita e com juros de mora desde a notificação, além da condenação ao pagamento de danos morais, em R$15.000,00 (quinze mil reais), a ser corrigido pela Tabela Prática do TJSP, a contar do arbitramento, e juros de mora de 1% ao mês. (e-STJ, fls. 629/632)
+Nos embargos de declaração, deixou claro que não caracterizado o alegado cerceamento de defesa e que as provas dos autos eram suficientes para a compreensão da controvérsia, nos seguintes termos:
+O réu embargante alega somente após o resultado desfavorável sua insatisfação com o julgamento antecipado do feito. Não houve qualquer cerceamento de defesa nesse sentido, pois todas as provas produzidas nos autos foram suficientes para elucidar os fatos.
+Quanto aos critérios para fixação da indenização por danos materiais, o valor de R$380.000,00 indicado no dispositivo do Acórdão diz respeito ao prejuízo da cana colhida, satisfatoriamente comprovada nos autos (fls. 119/124). (e-STJ, fl. 645)
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ. Na mesma direção, em relação à necessidade de produção de provas:
+RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO BANCÁRIO. AÇÃO DE REVISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVA PERICIAL. IMPRESTABILIDADE. REEXAME DE PROVA. SÚMULA Nº 7/STJ. APELAÇÃO. EFEITO DEVOLUTIVO. INOVAÇÃO DA LIDE. IMPOSSIBILIDADE. IMPUTAÇÃO DO PAGAMENTO. REGRA. APLICABILIDADE. CAPITALIZAÇÃO DE JUROS. PERIODICIDADE. TEMA Nº 246/STJ. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. RENOVAÇÃO PERIÓDICA. DISTINÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Hipótese em que houve direto enfrentamento da matéria deduzida em agravo retido, ao qual fora negado provimento por decisão devidamente fundamentada.
+4. Modificar a conclusão do Tribunal de origem, soberano quanto à análise da necessidade ou não de se produzir outras provas além daquelas já produzidas, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial tendo em vista o óbice da Súmula nº 7/STJ.
+5. A pretensão não deduzida na petição inicial não pode ser analisada no julgamento da apelação por constituir evidente inovação da lide em sede recursal, em completa afronta ao princípio do contraditório.
+6. A regra da imputação do pagamento (art. 354 do Código Civil) só deve ser afastada se houver expressa previsão legal ou contratual.
+7. Em recurso submetido ao rito do art. 543-C do Código de Processo Civil de 1973, o Superior Tribunal de Justiça já decidiu ser permitida a capitalização de juros com periodicidade inferior a 1 (um) ano em contratos celebrados após a publicação da Medida Provisória nº 1.963-17/2000, desde que expressamente pactuada. Tema nº 246/STJ.
+8. O contrato de abertura de crédito em conta-corrente é renovado periodicamente, e nem sempre sob as mesmas condições inicialmente pactuadas, já tendo esta Corte decidido que a cláusula que prevê a renovação automática desse tipo de avença não é abusiva.
+9. A renovação periódica é da própria essência do contrato de abertura de crédito em conta-corrente, tendo em vista que os custos da operação serão aqueles verificados no momento em que ocorre, de fato, a utilização do limite de crédito colocado à disposição do correntista.
+10. A data a ser considerada para permitir ou não a capitalização de juros em período inferior ao anual, à luz do entendimento firmado por esta Corte Superior (Tema nº 246/STJ), é a da renovação automática do contrato de abertura de crédito em conta-corrente, e não a da abertura da conta-corrente.
+11. Havendo renovação automática do contrato de abertura de crédito em conta-corrente após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17/2000 (em vigor como MP nº 2.170-36/2001), faculta-se à instituição financeira, a partir de então, cobrar juros de forma capitalizada em período inferior a 1 (um) ano.
+12. As disposições do art. 591, c/c o art. 406, do Código Civil são inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário, conforme tese firmada no julgamento de recurso especial repetitivo (Tema nº 26/STJ).
+13. Recurso especial não provido.
+(REsp n. 1.666.108/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/3/2021, DJe de 25/3/2021)
+No que tange à existência de danos material e moral indenizáveis:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. CIRURGIA ONCOLÓGICA DE EMERGÊNCIA. RECUSA DE COBERTURA DE MATERIAL CIRÚRGICO. ATRASO DO PROCEDIMENTO. MORTE DO PACIENTE NO PÓS-OPERATÓRIO. DANOS MORAIS E MATERIAIS CONFIGURADOS. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Trata-se, na origem, de pedido de ressarcimento por dano moral e material em razão da recusa de fornecimento de materiais para tratamento cirúrgico de emergência, sobrevindo a morte do paciente no pós-operatório.
+2. "É pacífica a jurisprudência da Segunda Seção no sentido de reconhecer a existência do dano moral nas hipóteses de recusa injustificada pela operadora de plano de saúde, em autorizar tratamento a que estivesse legal ou contratualmente obrigada, por configurar comportamento abusivo" (AgInt no AREsp n. 1.379.491/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe 2/5/2019).
+3. Modificar o entendimento do acórdão impugnado quanto às circunstâncias que caracterizaram o abalo moral demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.073.139/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023)
+Verifique-se, portanto, que as conclusões acima reproduzidas tiveram por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ.
+Assinale-se, por fim, que a valoração das provas pelo magistrado decorre de seu livre convencimento motivado, na forma dos artigos 370 e 371 do atual CPC, norteando-o, como destinatário da prova, no processo de tomada de decisão, restando, ainda, devidamente observado o disposto no art. 373 do CPC, na medida em que ambas as partes dispuseram de igualdade de condições para a produção das provas que entenderam cabíveis. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE ATIVA. COMPROVAÇÃO. TEORIA DA APARÊNCIA. APLICAÇÃO. INÉRCIA. CONFIGURAÇÃO. DEVOLUÇÃO DAS ARRAS. OBRIGAÇÃO. DANOS MORAIS. CARACTERIZAÇÃO. JUROS DE MORA. CITAÇÃO. CORREÇÃO MONETÁRIA. A PARTIR DE CADA DESEMBOLSO. REVISÃO. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. LIVRE CONVENCIMENTO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n. 7/STJ).
+2. Cabe ao magistrado a interpretação da produção probatória, necessária à formação do seu convencimento.
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.816.709/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021)
+Nessas condições, CONHEÇO o agravo para CONHECER EM PARTE do recurso especial e NEGAR-LHE PROVIMENTO.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. RESCISÃO CONTRATUAL. PRODUÇÃO DE NOVAS PROVAS. DESNECESSIDADE. INDENIZAÇÕES DANOS MATERIAL E MORAL. CABIMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. LIVRE CONVENCIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
