@@ -1,0 +1,13 @@
+DECISÃO
+Em análise, embargos de declaração opostos por VANESSA TIEMI MORI, contra decisão que determinou a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida (Tema n. 1.164) seja observada a sistemática dos arts. 1.039 e 1.040 do CPC/2015 (e-STJ fls. 525-526).
+A embargante alega que: a) "o legislador deixou expresso que se aplica ao recurso ordinário apenas o disposto no art. 1.029, § 5º, não mencionando nenhuma extensão quantos aos demais dispositivos da Seção II do Código de Processo Civil, que disciplina os Recursos Extraordinário e Especial" (e-STJ fl. 532) e b) "a questão jurídica discutida nos presentes autos diverge do teor do Recurso Extraordinário n.º 1.316.010/PA (Tema 1.164)" (e-STJ fl. 532).
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, o sobrestamento se dá para aguardar a solução da controvérsia relativa ao Tema 1.164/STF, qual seja, "Saber se a superveniente extinção de cargos oferecidos no certame ou o limite de gastos com pessoal imposto pela Lei de Responsabilidade Fiscal são causas suficientes para afastar direito subjetivo à nomeação de candidato aprovado dentro do número de vagas previsto no edital", insurgência trazida no recurso ordinário e questionada a este Sodalício.
+Ademais, não há qualquer vedação de que, uma vez reconhecida a repercussão geral da matéria, seja observada a disciplina dos arts. 1.039 e 1.040 do CPC, ainda que se trate de recurso ordinário em mandado de segurança.
+Assim, não há vícios formais no decisum.
+Isso posto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
