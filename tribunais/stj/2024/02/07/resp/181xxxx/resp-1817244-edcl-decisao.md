@@ -1,0 +1,21 @@
+DECISÃO
+ASSOCIAÇÃO DOS MORADORES DO VALE DAS LARANJEIRAS (ASSOCIAÇÃO) ajuizou ação de cobrança contra ELIO PIETROBON TARRAN e MARIA LUIZA MARTINELLI TARRAN (ELIO e MARIA), objetivando o recebimento de taxa de manutenção.
+Em primeira instância, o pedido foi julgado procedente para condenar ELIO e MARIA a pagarem a importância de R$ 9.150,00 (nove mil cento e cinquenta reais), devidamente atualizada.
+O TJSP negou provimento ao apelo de ELIO e MARIA, nos termos do acórdão a seguir ementado:
+ASSOCIAÇÃO DE MORADORES. Cobrança de taxa a proprietários beneficiários dos serviços prestados pela associação. Admissibilidade. Serviços prestados em prol de todos moradores. Não contribuição que importa enriquecimento sem causa. Precedentes da jurisprudência. Recurso a que se nega provimento (e-STJ, fl. 185).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 205/211).
+Irresignados, ELIO e MARIA interpuseram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando, a par de dissídio jurisprudencial, violação dos arts. 3º, 131, 132, 165, 267, 333, I, 458, II, 460 e 535, I e II, todos do CPC/73, 884, 885 e 886, todos do CC/02. Sustentaram, em suma, (1) omissão no julgado pois não apreciados todos os pontos arguidos nos aclaratórios; (2) julgamento extra petita, uma vez que não houve pedido de reembolso de serviços mas cobrança de mensalidade da ASSOCIAÇÃO; (3) ilegitimidade ativa para cobrar taxa associativa; (4) que o TJSP proferiu decisão contrária à prova dos autos, uma vez que a ASSOCIAÇÃO não tem por finalidade prestar qualquer tipo de serviço ao loteamento; e (5) não tendo aderido à associação dos moradores, não podem ser compelidos a pagar taxa de manutenção.
+Apresentadas contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 305/315 e 339/340), sobrevindo decisão monocrática de minha lavra que lhe deu parcial provimento, assim sintetizada:
+CIVIL. RECURSO ESPECIAL MANEJADO NA VIGÊNCIA DO CPC/73. AÇÃO DE COBRANÇA. SUPOSTA OMISSÃO. ALEGAÇÃO DEFICIENTE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. ASSOCIAÇÃO IRREGULAR DE MORADORES. DESPESAS CONDOMINIAIS. COBRANÇA INDEVIDA. MATÉRIA JULGADA SOB O RITO DO RECURSO REPRESENTATIVO DA CONTROVÉRSIA (RESP Nº 1.439.163/SP, DJE 22/5/2015). ACÓRDÃO RECORRIDO EM DESACORDO COM A JURISPRUDÊNCIA DOMINANTE DO STJ. REFORMA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO (e-STJ, fl. 349).
+Nos presentes embargos de declaração, a ASSOCIAÇÃO alegou omissão acerca da alegação formulada em contrarrazões de recurso especial, no sentido de que seria impossível prover o recurso especial, porque o contrato padrão firmado para aquisição do imóvel previa já o pagamento das taxas de administração.
+Foi apresentada contraminuta (e-STJ, fls. 372/377).
+É o relatório.
+A irresignação colhe êxito em parte.
+No caso dos autos, o Tribunal de Justiça de São Paulo entendeu que seria possível a cobrança dos encargos simplesmente para evitar eventual ocorrência de enriquecimento sem causa, sem se manifestar, portanto, sobre o argumento subsidiário, trazido em sede de contrarrazões de apelação, de que o contrato-padrão já estabelecia a obrigatoriedade do encargo.
+A decisão agravada afirmou que não seria possível manter a cobrança com base apenas no princípio que veda o enriquecimento sem causa e, por isso, deu provimento ao recurso especial.
+Imprescindível, portanto, seja examinado o segundo fundamento invocado pela parte, sob pena de negativa de prestação jurisdicional.
+Tendo em vista, porém, o óbice da Súmula nº 7 do STJ e também para evitar a supressão de instância, faz-se necessário o retorno dos autos ao TJSP a fim de que aquela Corte, observando a jurisprudência desta Corte acerca do tema e, em especial, a circunstância fática destacada acima, possa julgar novamente o recurso de apelação.
+Nessas condições, ACOLHO os embargos de declaração com efeitos infringentes DETERMINANDO o retorno dos autos ao Tribunal de origem para novo julgamento do recurso de apelação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXA DE MANUTENÇÃO. ASSOCIAÇÃO DE MORADORES. CONTRATO-PADRÃO. NECESSIDADE DE ESCLARECIMENTO DE CIRCUNSTÂNCIA FÁTICA PELA CORTE DE ORIGEM. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
