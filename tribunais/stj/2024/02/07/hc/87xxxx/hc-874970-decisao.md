@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Tribunal de origem, assim ementado (fl. 14):
+HABEAS CORPUS.ESTELIONATO. SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DE REGIME INICIAL SEMIABERTO E SUBMISSÃO DA SENTENCIADA AO MONITORAMENTO ELETRÔNICO. PEDIDO DE REVOGAÇÃO. DESCABIMENTO. MEDIDA IMPRESCINDÍVEL PARA ACAUTELAR A ORDEM PÚBLICA. DECISÃO DE PRIMEIRO GRAU EMBASADA NA GRAVIDADE EM CONCRETO DO DELITO. PACIENTE QUE PERMANECEU PRESA DURANTE TODA A INSTRUÇÃO CRIMINAL. FIXAÇÃO DO REGIME SEMIABERTO QUE NÃO CONFLITA SEQUER COM A MANUTENÇÃO DA PRISÃO PREVENTIVA. INEXISTÊNCIA DE INCOMPATIBILIDADE ENTRE MENCIONADO REGIME PRISIONAL E A IMPOSIÇÃO DE MEDIDA CAUTELAR DE MONITORAÇÃO ELETRÔNICA (MENOS GRAVOSA). ORDEM DENEGADA.
+Consta dos autos que o paciente foi condenado pela prática do art. 171 do CP à pena de 3 anos e 4 meses de reclusão, em regime semiaberto, e 38 dias-multa.
+Sustenta a ausência a ausência de fundamentação adequada e devida proporcionalidade da imposição da medida cautelar de monitoramento eletrônico, ressaltando que o paciente já ficou preso preventivamente.
+Requer, liminarmente e no mérito, para revogar a medida cautelar.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pela denegação.
+A sentença tem a seguinte fundamentação, quanto à imposição das medidas cautelares (fls. 35/36):
+A condenada está presa preventivamente há mais de oito meses e, conquanto reincidente, em razão da quantidade da pena privativa de liberdade, foi a ela fixado o regime semiaberto.
+A par disso, sua pena definitiva foi fixada em 03 (três) anos e 04 (quatro) meses de reclusão, tendo permanecido preso processualmente desde 12 de janeiro de 2023, o que perfaz fração considerável da reprimenda aplicada.
+Por conseguinte, reputo que, a esta altura, é proporcional ao caso em concreto a utilização, pela acusada, de medidas cautelares diversas da prisão, que se mostram suficientes e adequadas, bem como mais consentâneas com o regime fixado nesta sentença.
+Destarte, com fundamento no artigo 321 do Código de Processo Penal, e considerando não persistirem, a esta altura, os requisitos inscritos no artigo 312 do Código de Processo Penal, revogo a custódia processual da condenada, ficando ela, no entanto, condicionada à imposição das seguintes medidas cautelares, previstas no artigo 319 do mesmo Codex, observados os critérios constantes do artigo 282 do mesmo Diploma Legal, cujo cumprimento será monitorado pelo CRESLON, por meio de tornozeleira eletrônica, SOB PENA DE REVOGAÇÃO DAS MEDIDAS E CONSEQUENTE EXPEDIÇÃO DE MANDADO DE PRISÃO EM SEU DESFAVOR:
+a) não mudar de endereço sem prévia comunicação ao CRESLON e ao Juízo;
+b) recolher-se à sua residência em horário noturno, entre as 23h00 e as 6h00, durante todos os dias da semana;
+c) proibição de ausentar-se do local de sua residência enquanto ainda tramitar o respectivo processo-crime, salvo mediante autorização judicial;
+d) não retirar, danificar ou de qualquer outra forma obstruir o devido monitoramento por meio da tornozeleira eletrônica, ou permitir que terceiro o faça, bem como observar as demais orientações fornecidas pelo CRESLON acerca do bom funcionamento do aparelho.
+Como se vê, o Juízo de 1º grau destacou que a paciente respondeu ao processo presa, há mais de 8 meses, além de ser reincidente (apropriação indébita e roubo, fl. 34) e ter sido fixado o regime semiaberto. Assim, considerou o montante de pena 3 anos e 4 meses de reclusão, concluindo que seria proporcional ao caso concreto a revogação da prisão preventiva.
+Dessa forma, foram fixadas quatro medidas cautelares: não mudar o endereço sem prévia comunicação; recolhimento domiciliar noturno; proibição de ausentar-se da residência durante a tramitação do feito, salvo com autorização judicial; e monitoramento eletrônico.
+A jurisprudência desta Corte se põe no sentido de que, para a aplicação das medidas cautelares diversas da prisão, exige-se, assim como na prisão preventiva, fundamentação específica que demonstre a necessidade da medida em relação ao caso concreto. Nesse sentido: HC n. 399.099/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/12/2017 e RHC n. 87.591/MG, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 23/10/2017.
+Dessa forma, a fundamentação evidenciada na sentença não demonstra que a paciente estaria sofrendo constrangimento ilegal, as ponderações realizadas sobre estar a paciente presa durante toda a instrução e a reincidência podem ser sopesadas, e o fato de ser fixado regime semiaberto não induz desproporcionalidade.
+No entanto, verificando-se a fixação de pena não elevada, de maneira que a continuidade da segregação poderia não guardar proporcionalidade, justificada a revogação da prisão, sendo devido o estabelecimento de medidas cautelares, dentre elas o monitoramento eletrônico, sem indicar flagrante ilegalidade, a fim de evitar riscos à sociedade e de reiteração delitiva, pois a paciente já ostenta o terceiro envolvimento com crimes patrimoniais, um deles com violência e grave ameaça a pessoa.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
