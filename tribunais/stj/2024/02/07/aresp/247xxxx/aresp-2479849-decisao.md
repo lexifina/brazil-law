@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, Agravo em Recurso Especial contra decisão que deixou de admitir Recurso Especial interposto por VITORIA MERCADO DE CARNES LTDA, sob o fundamento de que (a) no que diz respeito à alegação de ofensa ao art. 1.022 do CPC, não se vislumbra que o acórdão recorrido padeça de qualquer dos vícios descritos nos citados dispositivos legais, e (b) a questão foi dirimida pelo acórdão recorrido com base na moldura fático-probatória apresentada, sendo inadequado rever os fatos na via dos recursos extremos, o que atrai a incidência da Súmula 7 do Superior Tribunal de Justiça.
+O agravante alega que a decisão agravada não merece prosperar, porque (a) não há necessidade de revisão de matéria de fato ou das provas dos autos, sendo a questão exclusivamente de direito, e (b) houve violação ao art. 1.022, II, do CPC, uma vez que o acórdão recorrido permaneceu omisso mesmo após a oposição dos embargos de declaração.
+Contraminuta apresentada.
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que merece provimento quanto à apontada violação ao art. 1.022, II, do CPC.
+Inicialmente, verifico que o recurso especial cumpriu os requisitos legais e constitucionais exigidos para a sua admissão.
+Quanto ao mérito, com razão o recorrente.
+O Tribunal de origem, ao dar provimento à apelação do ora recorrente, assentou, em síntese, o seguinte entendimento, no ponto que interessa aos autos:
+EM FACE DO EXPOSTO, voto no sentido de CONHECER E DAR PROVIMENTO AO RECURSO, para determinar que o réu, Estado do Rio de Janeiro, se abstenha de aplicar a cobranças de ICMS baseada no Decreto nº 44.945/2014, sob pena de multa, a ser quantificada por este Colegiado, caso a decisão seja descumprida.
+Nos embargos de declaração, o recorrente apontou omissão, defendendo que "o r. acórdão foi omisso quanto ao pedido de honorários sucumbências e recursais, é imprescindível que seja sanado o r. vício apontado, no sentido de que seja fixado percentual de honorários sucumbências com base no artigo 85, §3ºe §4º, do CPC, bem como, os honorários recursais de acordo com o art. 85, §11º, do CPC".
+Ao rejeitar os embargos de declaração, o Tribunal de origem se limitou a afirmar que os dispositivos mencionados não restaram violados pela decisão embargada, que decidiu fundamentadamente a questão controvertida colocada para exame.
+Como se vê, tem-se caracterizada infringência ao art. 1.022, II, do CPC.
+Ora, "conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida" (REsp 1.819.062/RJ, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/2/2020, DJe de 13/2/2020).
+A princípio, os argumentos suscitados pelo recorrente revelam-se essenciais para o correto deslinde da controvérsia, uma vez que a sentença condenou a parte recorrente em custas e honorários advocatícios e, tendo o Tribunal de origem dado provimento à apela ção e reformado a decisão de primeiro grau, é natural que haja pronunciamento a respeito de eventual inversão do ônus de sucumbência.
+Assim, por também demandar o revolvimento de aspectos fáticos-contratuais da causa, os autos devem retornar ao Tribunal de origem para que sejam sanadas as omissões apontadas nos embargos de declaração.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial a fim de, anulando o acórdão que rejeitou os embargos de declaração, determinar o retorno dos autos ao Tribunal de origem para sanar concretamente todos os vícios apontados.
+Intime-se.
+EMENTA
