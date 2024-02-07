@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA SEGURADORA S.A. (SEGURADORA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - DIREITO CIVIL - FINANCIAMENTO DE IMÓVEL - INVALIDEZ PERMANENTE - SEGURO - PRÊMIO - DOENÇA PREEXISTENTE NÃO AVERIGUADA NA DATA DA CONTRATAÇÃO DO ALUDIDO SEGURO. As disposições do Código de Defesa do Consumidor são aplicáveis às instituições financeiras, tendo em vista a interpretação do artigo 30, § 20 da Lei 8.078190 ao dizer que: "serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e seguridade, salvo as decorrentes das relações de caráter trabalhista". Se o contrato foi firmado, sem qualquer indagação por parte da seguradora, no que tange a uma possível doença pré-existente, não pode, após o evento invalidez permanente do segurado, se recusar a pagar o prêmio previsto na apólice, ou seja, porquanto tal conduta fere o princípio da boa-fé, base da relação contratual (e-STJ, fl. 439).
+Os embargos de declaração opostos por SEGURADORA foram rejeitados (e-STJ, fls. 462/468).
+Nas razões do presente recurso, SEGURADORA alegou, a par de divergência jurisprudencial, a violação aos arts. 11, 373, I e II, 489, § 1º, IV, e 1.022, II, do CPC, e 757 e 760 do CC, ao sustentar (1) que o Tribunal estadual deixou de se pronunciar acerca da limitação dos riscos nos contratos de seguro habitacional, bem como sobre a vinculação da responsabilidade de quitação do financiamento ao pecentual da renda do segurado; (2) que a omissão do segurado acerca de doença preexistente inviabiliza o pagamento da indenização; e (3) subsidiariamente, que o valor da indenização por invalidez permanente deve observar o percentual de comprometimento da renda do segurado, equivalente a 57,15% do valor do saldo devedor, a fim de evitar discussões futuras quando do cumprimento da obrigação.
+Foram apresentadas contrarrazões (e-STJ, fls. 606/617).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da violação dos arts. 11, 489, § 1º, IV, e 1.022, II, do CPC
+Nas razões do recurso especial, SEGURADORA indicou, preliminarmente, que o Tribunal de origem deixou de se pronunciar acerca da limitação dos riscos nos contratos de seguro habitacional, bem como sobre a vinculação da responsabilidade de quitação do financiamento ao pecentual da renda do segurado.
+Contudo, sem razão.
+Sobre os temas, ao julgar o recurso de apelação interposto pela ora insurgente, o TJMG assim se pronunciou:
+A Seguradora negou o pagamento do prêmio, sob o argumento de que o autor teria sido acometido por uma doença pré-existente, o que, no seu entender a desobrigaria, em relação à cobertura do saldo devedor atinente ao imóvel adquirido, pelo Sistema Financeiro da Habitação, conforme Cláusula contratual.
+Do contrato extrai-se que, em caso de morte ou invalidez, constou, expressamente, a cobertura do seguro. Assim, se o contrato foi firmado sem que a ré/apelante averiguasse, de forma detalhada, as condições de saúde em relação a uma possível doença pré-existente, não pode, de forma subsequente, recusar a pagar o prêmio previsto na apólice. Isso ofende, sem dúvida, o princípio da boa-fé, base da relação contratual.
+É fato que, quando a seguradora firmou contrato de seguro, sem se precaver acerca da condição de saúde do segurado, assumiu para si o ônus de ter que pagar a indenização, independente das disposições insertas no contrato considerando que o segurado cumpriu com a sua parte na relação.
+Assim sendo, é de se concluir que a apelante não se desincumbiu do ônus que lhe competia, devendo cumprir com a avença de indenização do seguro previsto no contrato celebrado pelas partes, mormente porque não verificada má fé do autor e nem prova a respeito de tal ocorrência (e-STJ, fls. 442/443).
+Na sequência, por ocasião da apreciação dos embargos de declaração opostos pela ora insurgente, a Corte local assim consignou:
+Com relação ao ponto omisso trazido pela embargante, não merece guarida. Isso porque, em que pese constar no contrato percentuais diferentes para o autor, Edmar Marques da Silva e Maria da Guia Rodrigues, tem-se que em contratos dessa natureza são exigidos valores compatíveis para suportar o financiamento contraído para garantir a compra do imóvel. Assim, a renda estipulada no contrato advém do núcleo familiar necessária para garantir o crédito ofertado pela instituição de forma una exigida pela ré. Dessa forma, o contrato da forma como foi realizado fere o direito do consumidor porque o coloca em desvantagem em relação ao credor no caso de sinistro de um dos componentes, obrigando um deles ao pagamento de cota parte do aludido contrato mesmo depois da garantia prevista no sinistro (e-STJ, fl. 467).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do CPC, o que busca a SEGURADORA é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original.)
+Não se verifica, assim, a apontada contrariedade à lei processual.
+(2) Da doença preexistente
+Por sua vez, SEGURADORA defendeu que a omissão do segurado acerca de doença preexistente inviabiliza o pagamento da indenização.
+Todavia, da leitura dos fundamentos transcritos no tópico anterior, verifica-se que a conclusão do aresto recorrido reflete a orientação jurisprudencial desta Corte, no sentido de que a seguradora não pode recusar pagamento de indenização securitária sob a alegação de doença preexistente, se não exigiu a realização de exame prévio antes da contratação ou não comprovou a má-fé do segurado.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA DE SEGURO DE VIDA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. De acordo com a jurisprudência desta Corte Superior, consolidada na Súmula 609/STJ, "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado." Incidência da Súmula 83/STJ.
+1.1. Derruir as conclusões do Tribunal local, acerca da inexistência de má-fé por parte do segurado, demandaria reanálise do acervo probatório. Incidência da Súmula 7/STJ. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.028.338/MG, relator Ministro MARCO BUZZI, Quarta Turma, julgado aos 2/5/2023, DJe 9/5/2023.)
+Incide, à hipótese, o comando da Súmula n.º 83 do STJ.
+(3) Da vinculação do valor da indenização à renda do mutuário
+Por fim, defendeu que o valor da indenização por invalidez permanente deve observar o percentual de comprometimento da renda do segurado, equivalente a 57,15% do valor do saldo devedor, a fim de evitar discussões futuras quando do cumprimento da obrigação.
+No particular, infere-se que a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria da interpretação das cláusulas do referido contrato entabulado entre as partes, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 5 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Deixo de majorar o valor dos honorários advocatícios, nos termos do art. 85, § 11, do CPC, porque já fixados em se percentual máximo pelo Tribunal de origem.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. (1) VIOLAÇÃO DOS ARTS. 11, 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. (2) SEGURO HABITACIONAL. DOENÇA PREEXISTENTE. AUSÊNCIA DA REALIZAÇÃO DE EXAME PRÉVIO OU PROVA DA MÁ-FÉ DO SEGURADO. SÚMULA N.º 83 DO STJ. (3) DA VINCULAÇÃO DO VALOR DA INDENIZAÇÃO À RENDA DO MUTUÁRIO. NECESSIDADE DA INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA N.º 5 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
