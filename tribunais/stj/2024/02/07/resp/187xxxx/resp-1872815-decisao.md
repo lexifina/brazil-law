@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná (Apelação Cível n. 1.334.880-0) assim ementado (fls. 742-743):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. FUNCEF. PLANO DE PREVIDÊNCIA COMPLEMENTAR. SENTENÇA DE PARCIAL PROCEDÊNCIA. (I) QUESTÕES PRELIMINARES. AGRAVO RETIDO. LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A CAIXA ECONÔMICA FEDERAL. RELAÇÃO JURÍDICA PREVIDENCIÁRIA COMPLEMENTAR QUE DIFERE DA EXTINTA RELAÇÃO DE TRABALHO COM EX-EMPREGADORA. APLICABILIDADE DO CDC AOS CONTRATOS DE PREVIDÊNCIA PRIVADA. SÚMULA 321 DO STJ. PRECEDENTES. CERCEAMENTO DE DEFESA NÃO VERIFICADO. (II) MÉRITO. AUTOR QUE TEVE SUA APOSENTADORIA CASSADA PELO INSS. CONSEQUENTE SUSPENSÃO DO PAGAMENTO DA COMPLEMENTAÇÃO. POSTERIOR SENTENÇA RESTABELECENDO O BENEFÍCIO PRINCIPAL. DIREITO ÀS PARCELAS COMPLEMENTARES. FATO INCONTROVERSO. CORREÇÃO DAS PARCELAS. REDUÇÃO DA SUPLEMENTAÇÃO QUE GUARDA RELAÇÃO COM O AUMENTO DO BENEFÍCIO NO INSS. PREVISÃO NO REGULAMENTO. MANUTENÇÃO DO VALOR GLOBAL ENTENDIMENTO DESTA CORTE. SENTENÇA TOPICAMENTE REFORMADA. AGRAVO RETIDO DESPROVIDO. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos fora rejeitados (fls. 825-828).
+No recurso especial (fls. 784- 819 e 982-1.017), a parte recorrente aponta violação dos seguintes artigos:
+a) 4º, I, a, 36 da Lei n. 6.435/1977 e 1º, 6º, 7º, 9º, caput, 31, 68, 72 e 73 da Lei Complementar n. 109/2001, aduzindo que o CDC não é aplicável aos casos relacionados a fundos de previdência fechada, ou seja, diversamente do que decidiu o Tribunal de origem; e
+b) 46, 47 e 70 do Código de Processo Civil de 1973. Defende que, no presente caso, houve erro da instância de origem, uma vez que deveria ter sido respeitado o instituto processual do litisconsórcio necessário, tal como previsto no regulamento, ante a determinação da necessidade de formação paritária do custeio, ou seja, contribuição da patrocinadora e do mantenedor beneficiário para formação do fundo que possibilita o pagamento do benefício.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fl. 1.027-1.042).
+É o relatório. Decido.
+O recurso não deve prosperar.
+I - Da  in aplicabilidade do CDC (item a)
+Quanto à suscitada ofensa aos arts. 4º, I, a, 36 da Lei n. 6.435/1977 e 1º, 6º, 7º, 9º, caput, 31, 68, 72 e 73 da Lei Complementar n. 109/2001, a Corte estadual aplicou o Código de Defesa do Consumidor e decidiu que, por se tratar de contrato de previdência complementar, as cláusulas contratuais devem ser interpretadas em favor do consumidor, nos moldes do que preceitua a Súmula n. 321 do STJ.
+Nesse sentido, cito o trecho do voto condutor do acórdão (fl. 747, destaquei):
+Outrossim, quanto à natureza jurídica da relação, o Superior Tribunal de Justiça firmou entendimento segundo o qual é aplicável o Código de Defesa do Consumidor aos contratos de previdência privada, a teor da súmula 321, do STJ, que dispõe:
+Nesse ponto, a decisão do Tribunal a quo não guarda amparo na jurisprudência do STJ, que tem o entendimento consolidado de que o Código de Defesa do Consumidor não incide nos contratos previdenciários celebrados com entidades fechadas, nos moldes do que estabelece a Súmula n. 563 do STJ, assim expressa: "O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas."
+No mesmo sentido, cito os seguintes precedentes: AgInt no AREsp n. 674.723/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022, DJe de 26/9/2022 e AgInt no REsp n. 1.714.807/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 1/6/2020, DJe de 4/6/2020.
+Nesse contexto, é de rigor o acolhimento das razões recursais, para o fim de afastar a incidência da norma consumerista ao presente caso.
+II - Do litisconsórcio passivo necessário e denunciação da lide (item b)
+No tocante à ofensa ao art. 70 do Código de Processo Civil de 1973 (item b), a Corte de origem reconheceu que o pagamento da complementação de aposentadoria envolve interesse somente da entidade de previdência privada e o participante.
+A propósito, o seguinte trecho do acórdão (fl. 337, destaquei):
+Primeiramente, quanto à alegado litisconsórcio passivo necessário com a Caixa Econômica Federal ou sua denunciação à lide, percebe-se que o presente caso cuida de relação envolvendo a entidade de previdência complementar e seu participante. Não se tratar de relação trabalhista que torne necessário integrar a Patrocinadora no polo passivo da lide, conforme já se pronunciou o STJ:
+Nesse contexto, a decisão da Corte de origem encontra amparo na jurisprudência do STJ de que a patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão de benefício, em virtude de sua personalidade jurídica autônoma.
+Nesse sentido:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PREVIDÊNCIA COMPLEMENTAR. CONTRATO DE TRABALHO E CONTRATO DE PREVIDÊNCIA COMPLEMENTAR. VÍNCULOS CONTRATUAIS AUTÔNOMOS E DISTINTOS. DEMANDA TENDO POR OBJETO OBRIGAÇÃO CONTRATUAL PREVIDENCIÁRIA. LEGITIMIDADE DA PATROCINADORA, AO FUNDAMENTO DE TER O DEVER DE CUSTEAR DÉFICIT. DESCABIMENTO. ENTIDADES FECHADAS DE PREVIDÊNCIA COMPLEMENTAR. PERSONALIDADE JURÍDICA PRÓPRIA. EVENTUAL SUCUMBÊNCIA. CUSTEIO PELO FUNDO FORMADO PELO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, PERTENCENTE AOS PARTICIPANTES, ASSISTIDOS E DEMAIS BENEFICIÁRIOS.
+1. As teses a serem firmadas, para efeito do art. 1.036 do CPC/2015 (art. 543-C do CPC/1973), são as seguintes:
+I - O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma.
+II - Não se incluem, no âmbito da matéria afetada, as causas originadas de eventual ato ilícito, contratual ou extracontratual, praticado pelo patrocinador.
+2. No caso concreto, recurso especial não provido. (REsp n. 1.370.191/RJ, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 13/6/2018, DJe de 1/8/2018, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE SUPLEMENTAÇÃO DE PENSÃO POR MORTE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. INCLUSÃO DA PATROCINADORA COMO LITISCONSORTE PASSIVO NECESSÁRIO. ACÓRDÃO EM CONSONÂNCIA COM O POSICIONAMENTO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de suplementação de pensão por morte.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Em se tratando de complementação de aposentadoria, a legitimidade passiva ad causam é da entidade de previdência privada e não da patrocinadora, que não é titular da relação de direito material instaurada com o associado.
+4. Alterar o decidido no acórdão impugnado, no que se refere ao direito da agravada na suplementação da pensão, assim como eventual desequilíbrio financeiro atuarial, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 1.490.377/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/12/2019, DJe de 5/12/2019, destaquei.)
+Assim, incide na espécie a Súmula n. 83 do STJ.
+Devendo, pois, ser mantido o entendimento de ser inaplicável o litisconsórcio passivo necessário ou a denunciação da lide.
+Ante o exposto, conheço do recurso especial e dou-lhe parcial provimento para afastar a aplicação do CDC e manter a conclusão do acórdão recorrido no que se refere a inexistência de litisconsórcio passivo necessário.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão de a sentença ter sido prolatada sob a égide do CPC/1973.
+Publique-se. Intimem-se.
+EMENTA
