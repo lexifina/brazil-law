@@ -1,0 +1,494 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0711750-36.2021.8.07.0006APELANTE(S)RAIMUNDO RODRIGUES BITENCOURT NETOAPELADO(S)FABIO TAVARES LUCIO DE SOUZARelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1817135
+
+EMENTA
+
+DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA EM AÇÃO POSSESSÓRIA. IMÓVEL RURAL. DIVERGÊNCIA ACERCA DOS LIMITES DO TERRENO. INOBSERVÂNCIA DOS CONTORNOS OBJETIVOS DO TÍTULO. IDENTIDADE ENTRE A ÁREA OBJETO DA POSSESSÓRIA E A PRETENSÃO AVIADA EM SEDE DE CUMPRIMENTO DE SENTENÇA. COMPROVAÇÃO. ÔNUS DO POSTULANTE. TURBAÇÃO EFETUADA PELO RÉU NÃO EVIDENCIADA. DESCUMPRIMENTO DA OBRIGAÇÃO CONSTANTE NO JULGADO. CONFIGURAÇÃO. INOCORRÊNCIA. PRETENSÃO ALHEIA AOS CONTORNOS DA AÇÃO. PEDIDO REJEITADO. PRETENSÃO INDENIZATÓRIA. AUSÊNCIA DE SUBSTRATO MATERIAL. ATO ILÍCITO NÃO DEMONSTRADO. RESPONSABILIDADE CIVIL. PRESSUPOSTOS AUSSENTES. AUTOR DAS AÇÕES. LITIGÂNCIA DE MÁ-FÉ. QUALIFICAÇÃO. OMISSÃO ACERCA DA VENDA DE PARTE DA ÁREA A TERCEIROS. INVERSÃO DA REALIDADE DOS FATOS COM O ESCOPO DE ANGARIAR PROVEITO INDEVIDO. ÁREA APONTADA NO CUMPRIMENTO DE SENTENÇA SOBRESXCEDENTE AO OBJETO DO LITÍGIO. ALTERAÇÃO NAS DIVISAS DAS PROPRIEDADES. LITIGÂNCIA DE MÁ-FÉ. QUALIFICAÇÃO. PRESSUPOSTOS E REQUISITOS PRESENTES. SANÇÃO MANTIDA. LITIGANTE DE MÁ-FÉ E BENEFICIÁRIO DA JUSTIÇA GRATUITA. REVOGAÇÃO DA BENESSE PROCESSUAL EM RAZÃO DE SUA POSTURA. INVIABILIDADE. JUSTIÇA GRATUITA RESTAURADA. PRELIMINAR. NULIDADE DA SENTENÇA. VIOLAÇÃO À COISA JULGADA. ALEGADO DESCUMPRIMENTO DO DETERMINADO NA SENTENÇA. MATÉRIA RESERVADA AO MÉRITO. PRELIMINAR AFASTADA. CLÁUSULA COMPROMISSÓRIA INSERTA EM AVENÇA REALIZADA ENTRE TERCEIROS. NECESSIDADE DE SUBMISSÃO DO LITÍGIO AO JUÍZO ARBITRAL. INOVAÇÃO RECURSAL. APELO. NÃO CONHECIMENTO. MATÉRIA ESTRANHA AO DECIDIDO. LIMITES DO DECIDIDO. EXORBITÂNCIA. PRINCÍPIO DEVOLUTIVO. VIOLAÇÃO. RECURSO CONHECIDO EM PARTE E, NA EXTENSÃO, PROVIDO EM PARTE MÍNIMA. MANTIDA A SUCUMBÊNCIA DO AUTOR. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL FIXADOS.
+
+1.  A veiculação no recurso de matéria que não integrara os limites objetivos da sentença, qualificando-se como nítida inovação recursal, é repugnada pelo estatuto processual vigente, elidindo a possibilidade de ser conhecida como forma de serem preservados os princípios do duplo grau de jurisdição e da estabilidade das relações jurídicas, prevenida a ocorrência de supressão de instância e resguardado o efeito devolutivo da apelação, pois está municiado de poder para devolver à instância revisora a apreciação tão só e exclusivamente das matérias que, integrando o objeto da lide, foram debatidas sob a égide do contraditório e elucidadas pela sentença.
+
+2. A alegação de que a sentença exarada em sede de cumprimento de sentença, fundamentada na inexistência de posse anterior sobre o imóvel e na ausência de demonstração dos alegados atos de turbação, restara eivada de nulidade, sob o prisma de ter incorrido em violação à coisa julgada aperfeiçoada ao ser resolvida a ação possessória que aparelha a pretensão executiva, encerra matéria reservada ao mérito, mormente em razão de a análise acerca da subsistência ou insubsistência do apontado ato praticado pelo réu, apto a violar a posse do autor, consubstanciar questão inerente ao cumprimento da obrigação firmada na sentença exequenda, ensejando a rejeição da preliminar de nulidade formulada com essa conformação.
+
+3. Aperfeiçoada a coisa julgada no ambiente de ação possessória em que delimitados limites da área cuja posse restara assegurada, não é lícito à parte pretender inová-la, infirmá-la ou modular a execução de conformidade com seus interesses se a situação descortinada encontra-se em conformidade com os parâmetros estabelecidos com definitividade pelo título exequendo, daí defluindo que a formulação de pretensão executória estranha aos contornos objetivos do título formado na possessória que o lastreara, omitida, ademais, alienação do imóvel a terceiro em momento anterior ao manejo do cumprimento da sentença, resta por inviabilizado o reconhecimento de ato de esbulho decorrente da violação do estabelecido pela res judicata.
+
+4. Entrelaçadas as pretensões indenizatórias e executória aviadas em ações próprias à mesma causa de pedir remota, porquanto derivadas dos atos de esbulho imputados ao alcançado pela coisa julgada aperfeiçoada em ambiente possessória, o acolhimento da postulação indenizatória e a realização do comando sentencial tem como pressupostos, além da demonstração dos danos sofridos pelo acionante/exequente, a comprovação da subsistência dos ilícitos imputados, inclusive em violação à coisa julgada, ensejando que sua autoridade seja restabelecida, resultando dessas premissas que, não corroborados os elementos fáticos, deixando o direito invocado em ambas as postulações desguarnecido dos fatos dos quais derivaria, inclusive porque houvera a disposição da área afetada pela alegada turbação, a rejeição das pretensões encerra imperativo coadunado com o devido processo legal (CPC, art. 373, I e II).
+
+5. Qualifica-se como litigante de má-fé a parte que, agindo de forma temerária, distorce a realidade para alcançar objetivo legalmente inviável, omitindo a anterior alienação a terceiro da área cuja posse visa proteger, alinhavando, ademais, argumentário sabidamente desconforme com os fatos, induzindo serventuário da justiça a erro no cumprimento de diligência destinada a apontar os marcos divisórios da área litigiosa em desconformidade com a posição original da cerca havida no local, devendo, pois, sujeitar-se à sanção legalmente preceituada para a conduta em que incidira (CPC, arts. 80, II e 81).
+
+6. A sistemática processual reclama lealdade processual de todos os atores processuais, alinhavando o artigo 80 do estatuto processual as hipóteses de condutas abusivas que ensejam a qualificação da litigância de má-fé ante o desvirtuamento do manejo das faculdades e dos direitos conferidos a quem litiga, afastando-se a lide dos seus fins e utilidade, corrompendo-se ilegitimamente o processo, ensejando o desvirtuamento do seu fim teleológico.
+
+7. O objetivo teleológico da gratuidade de justiça é funcionar como instrumento destinado a materializar o mandamento constitucional que assegura o livre acesso ao judiciário, contribuindo para que nenhuma lesão ou ameaça a direito seja subtraída da apreciação do órgão jurisdicional competente para elucidar o conflito de interesses estabelecido e restabelecer o equilíbrio jurídico e a paz social, estando o benefício endereçado somente a quem não pode reclamar a tutela jurisdicional sem a isenção dos emolumentos devidos, sob pena de sacrificar sua própria mantença e da sua família.
+
+8. O benefício da justiça gratuita, porquanto derivado de premissas diversas e pautado pela situação financeira da parte, não é elidido em razão de a parte beneficiária da salvaguarda ter incorrido e sido condenado litigante de má-fé, não podendo, portanto, ser cassada a gratuidade judiciária concedida como pena acessória à penalização, inclusive porque, afinado com a gênese e destinação do beneplácito, o legislador processual assim não dispõe.
+
+9. Apelações conhecidas em parte e, na extensão, providas em parte mínima, tão somente para restaurar o beneplácito da gratuidade de justiça concedido ao apelante Preliminar rejeitada. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: CONHECER EM PARTE DOS RECURSOS E, NA PARTE CONHECIDA, REJEITAR PRELIMINAR E DAR-LHES PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Fevereiro de 2024
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Processo nº 0705551-37.2017.8.07.0006
+
+Cuida-se de cumprimento de sentença manejado por Raimundo da Silva Bitencourt com lastro em título judicial aperfeiçoado no âmbito de ação possessória manejada por Fábio Tavares Lúcio de Souza em seu desfavor, distribuída sob o nº 2008.06.1008257-8 e em cujo bojo fora rejeitada a pretensão autoral e acolhido o pedido contraposto por si apresentado, permitindo que permanecesse na posse do imóvel individualizado por DF 205, Km 08, Catingueiro, Sobradinho – DF, conhecido como “Sítio do Paiva”.
+
+Como lastro da pretensão executória, alegara o exequente, em suma, que, em meados de setembro de 2017, após ausentar-se por um período de sua propriedade rural, ao retornar de viagem, constatara ter ocorrido invasão no terreno, sendo que o executado teria construído uma cerca e inserido semoventes no local sem sua autorização. Pugnara, então, pela expedição de mandado de reintegração de posse, pleiteando fosse determinada a intimação do réu para que desocupasse a área e retirasse a cerca colocada indevidamente.
+
+Recebida a inicial do cumprimento de sentença, fora deferida a gratuidade de justiça ao exequente e designada audiência de justificação para melhor esclarecimento dos fatos relatados, facultando-se ao executado a apresentação de documentos, e determinado que se abstivesse de promover qualquer alteração no local até nova deliberação[1]. Realizada a audiência, fora determinada a expedição de mandado para verificação da área, com o escopo de aferir quem estaria, de fato, ocupando o local e, caso constatado o esbulho, o oficial de justiça fora orientado a entregar cópia da sentença e do acórdão aos ocupantes indevidos e promover a imediata reintegração na posse do bem[2].
+
+Em cumprimento à diligência determinada, o oficial de justiça, no dia 23 de fevereiro de 2008, comparecera ao endereço descrito por “DF 205 Oeste 1ª Entrada do Catingueiro, desce na Entrada do Tratamento de Água da Caesb, Chácara Vitória de Cristo, Sobradinho – DF” e certificara ter sido informado pelo exequente não mais existir o ato de turbação, sendo que o executado não estaria residindo no local, promovendo, então, a reintegração daquele na posse do bem[3]. Intimado a manifestar-se acerca do cumprimento da obrigação, o exequente confirmara não haver mais a turbação apontada e pugnara pela extinção do feito[4], ocasião em que fora proferida sentença extinguindo o cumprimento, nos termos do artigo 924, II c/c o artigo 513, ambos do CPC[5], transitada em julgado em 12 de março de 2018[6]e promovido o arquivamento do feito.
+
+Ulteriormente, em abril de 2019, o exequente pugnara pelo desarquivamento dos autos, aventando ter ocorrido novo ato de esbulho em sua posse. Noticiara que o executado teria comparecido ao imóvel acompanhado de pessoas armadas e constrangido seu filho a se retirar do local. Pugnara, então, pela fixação de multa para cada ato de descumprimento praticado pelo executado e para que este fosse intimado a cumprir o julgado em todos os seus termos[7]. Por sua vez, o executado, intimado pessoalmente a abster-se de turbar a posse do exequente, apresentara impugnação ao cumprimento de sentença[8], ocasião em que informara sequer ter tomado conhecimento do presente feito até então, pois os advogados cadastrados como seus patronos, outrora constituídos na possessória, teriam agido com desídia no patrocínio da causa, situação que, inclusive, teria culminado na rejeição da sua pretensão naqueles autos.
+
+Aventara o implemento da prescrição quinquenal da pretensão autoral inerente ao cumprimento de sentença, uma vez que ocorrido o trânsito em julgado da sentença em agosto de 2012, tendo sido a demanda ajuizada em outubro de 2017. Alegara que detém a posse do imóvel há cerca de trinta e oito anos, aventando a usucapião em sede de defesa, e que o exequente, por sua vez, não lograra demonstrar o exercício da posse no local. A impugnação ao cumprimento de sentença fora rejeitada e determinado o retorno dos autos ao arquivo[9]. O executado agravara da aludida decisão e fora negado provimento ao recurso, mantendo-se intacto o decisum[10].
+
+Posteriormente, o exequente pugnara pelo desarquivamento dos autos[11], noticiando que o executado, em junho de 2020, praticara novos atos de turbação no terreno, adentrando aproximadamente cinco mil metros quadrados em sua propriedade, e pugnara para que fosse novamente intimado para desocupar o local, sob pena de multa diária, assim como se abstivesse de praticar novos atos de turbação. A pretensão do exequente fora acolhida, tendo sido determinada a expedição de mandado de reintegração de posse em seu favor e fixada multa no valor de R$ 20.000,00 (vinte mil reais) por cada nova invasão que o executado promovesse no local por si ou interposta pessoa[12]. Fora determinado, ainda, ao exequente, acompanhar a diligência e apontar a área esbulhada[13], ocasião em que especificara ao serventuário da justiça o local em que entendia correta a colocação da cerca, indicado a uns quinze metros à frente do ponto onde erigida, tendo sido autorizado, então, pelo oficial de justiça, no dia 03 de setembro de 2020, que recolocasse a cerca no local que pontuara como devido, findando a turbação[14].
+
+Após, o exequente novamente apresentara petição[15] nos autos, desta vez pleiteando a apuração da ocorrência dos danos materiais perpetrados pelo executado, consubstanciados na destruição de cercas, arames e viveiros e pugnando por sua intimação, bem como que fosse apurado o valor a ser indenizado, tendo sido indeferida a pretensão e proferida sentença extinguindo o cumprimento[16], a qual transitara em julgado no dia 22 de outubro de 2020[17].
+
+  Ulteriormente, em 25 de novembro de 2020, mais uma vez comparecera o exequente aos autos[18], ocasião em que alegara ter sido alvo de ameaças perpetradas pelo executado em razão da alteração ocorrida na cerca que limita as propriedades e, em face destas atitudes, pugnara pela aplicação e majoração da multa e, ainda, para que fosse expedido novo mandado de reintegração de posse em seu favor. Em face da petição, a magistrada de origem determinara, então, a intimação do executado, que se manifestara aventando não ter descumprido comando sentencial, mas tão somente erguido a cerca de divisa das propriedades no mesmo local em que erigida antes de ter início a contenda judicial, com o escopo de restar devidamente delimitada cada uma das áreas. Asseverara o executado que, após aguardar vários anos para que o próprio exequente estabelecesse a cerca, tendo este permanecido inerte, providenciara a necessária divisa entre os terrenos com o escopo de colocar fim à contenda. Noticiara que também figurara como alvo de ameaças perpetradas pelo exequente, que aventara a possibilidade de atear fogo em sua propriedade. Pugnara pela manutenção da cerca já levantada no local, a fim de que fosse dirimida a discórdia, oportunizando ao próprio exequente indicar as coordenadas, longitudes, azimutes e toda a divisa da terra que entende ser de sua propriedade e, ao final, fosse efetuada demarcação por meio de profissional habilitado[19].
+
+A magistrada a quo proferira, então, decisão determinando que o executado promovesse, às suas expensas, a recolocação da cerca divisória na mesma posição em que fixada na diligência reintegratória realizada em setembro de 2020, no prazo de 15 (quinze) dias, sob pena de arcar com multa diária no valor de R$ 300,00 (trezentos reais), limitada a R$ 20.000,00 (vinte mil reais)[20]. A eminente magistrada deferira, ainda, a pretensão apresentada pelo exequente concernente à intimação do executado para que efetuasse o pagamento da multa anteriormente estipulada por descumprimento do determinado no julgado, no montante de R$ 20.000,00 (vinte mil reais), determinando o depósito nos autos da quantia, no prazo de 15 (quinze) dias[21]. O executado agravara da aludida decisão, tendo sido desprovido o recurso[22].
+
+O executado pugnara, ainda, pela realização de audiência específica ou acompanhamento ao local do imóvel para delimitação do local da cerca, com o escopo de cumprir o comando sentencial, sendo que a magistrada determinara, então, realização de inspeção judicial[23]. Realizado o ato, com ausência injustificada do exequente, a magistrada revogara a multa, reconhecendo ter sido a reintegração realizada de forma irregular nos autos, fundamentando que o oficial de justiça não dispunha de elementos objetivos para deliminar os marcos limítrofes dos terrenos dos litigantes. Fora facultado às partes, ainda, especificar nos autos os limites dos imóveis[24].
+
+O exequente, então, informara ter comparecido ao local da inspeção na data e horário indicados e aventara ter ocorrido desencontro, razão pela qual pugnara por nova inspeção, pleito que fora deferido pela magistrada[25]. Realizado o ato, com a presença de ambos os litigantes e seus patronos, restara constatado pela magistrada que as partes “não divergem sobre o fato de a área possuída pelo réu estar localizada entre a grota, seguindo em direção ao lado oposto ao Colégio do Catingueiro, ou seja, ao lado oposto da área ocupada pelo requerido. Esse ponto foi objeto do registro fotográfico anexo a estes autos e é composto de árvores marginais a grota e buracos anteriormente utilizados para fixar as estacas utilizadas na cerca. Em relação a essa parte do imóvel, confirmo a reintegração do requerente na posse do bem dessa área. Contudo, o requerente ainda afirma ser possuidor da área ocupada entre a grota e a cerca situada ao lado da área arada, reconhecidamente ocupada pelo réu. Nesse local, não há sinais de ocupação. A área possui vegetação nativa e não foram encontrados no local sinais da ocupação exercida pelo requerido ou sinais da ocupação pelo requerente. Contudo, como é o requerente que informa exercer posse sobre essa área, determino ao requerente que produza prova testemunhal para evidenciar o que alega, ou seja, que os limites de sua área terminam na cerca que margeia a área atualmente arada para plantio. Para encerrar a controvérsia, faculto ao requerido a produção da prova no sentido de ocupar a área situada até a beirada da grota. Determino a apresentação do rol de testemunhas no prazo de 5 dias.(...)[26]”
+
+  Posteriormente, comparecera aos autos, na condição de terceiro interessado, Adriel Almeida Rabelo, pugnando por sua habilitação no feito e informando ter adquirido de David da Silva Bittencourt, filho do exequente, os direitos aquisitivos sobre o imóvel situado na DF 205, km 08, Chácara 07, Colônia Agrícola Catingueiro – Fercal, com área total de vinte mil metros quadrados, fazendo divisa com Raimundo Rodrigues Bittencourt Neto, Miguel Carneiro de Sousa e Paulo Seabra e Raimunda Nilma Belo da Silva, ressalvando que a entrada da Chácara é de propriedade de todos eles, com exceção de Paulo Seabra. Defendera seu interesse nos autos, considerando a determinação acerca da divisa dos imóveis, sendo que parte da cerca divisória poderia restar adentrando sua chácara[27].
+
+Realizada a audiência com a oitiva das testemunhas arroladas pelas partes, a eminente magistrada definira, com fulcro nos depoimentos e nas duas inspeções realizadas, a área de cada um dos litigantes, determinando a colocação da cerca divisória com os seguintes parâmetros: “a cerca se iniciará no alto do morro, às margens da grota, exatamente no local em que há restos de arame farpado; seguirá por todos os agrupamentos de árvore nos quais esta magistrada, na segunda inspeção judicial, localizou restos de arame enferrujado. Depois, seguirá em linha reta até a parte mais baixa do terreno, onde virará à esquerda, em ângulo reto (L) e seguirá até a grota. Este é o limite que defino para as áreas.[28]”
+
+A magistrada consignara, ainda que, diante da venda do terreno a terceiros, o autor não estaria legitimado a pleitear a reintegração na posse do bem e oportunizara sua manifestação nos autos. De sua vez, o autor esclarecera ter sido alienada apenas parte da área e pugnara pelo indeferimento do pleito inerente à inclusão do terceiro na presente demanda, em razão da sua patente ilegitimidade. O terceiro, intimado, deixara de apresentar manifestação, não tendo sido efetivada sua inclusão no feito[29].
+
+Processo nº 0711750-36.2021.8.07.0006
+
+No ambiente dos autos nomeados transita, a seu turno, ação indenizatória[30]manejada por Raimundo Rodrigues Bitencourt Neto em desfavor de Fábio Tavares Lúcio de Souza, pleiteando o autor a condenação do réu ao pagamento da quantia de R$ 50.000,00 (cinquenta mil reais), a título de indenização pelos prejuízos que afirmara ter suportado em razão da destruição de cercas, estacas, arames, pasto, viveiro de plantas, criadouro de galinhas, placas e plantio de verduras e frutas. Pugnara, ainda, pela condenação do réu ao pagamento do valor que apontara como devido a título de lucros cessantes, indicando o montante de R$ 5.000,00 (cinco mil reais), alegando impossibilidade de continuar cultivando e criando animais no terreno. Alfim, pleiteara a condenação do réu ao pagamento de indenização pelos danos morais que afirmara ter suportado em razão da contenda, que apontara ter sido a causa dos problemas de saúde que o aflige, pugnando, a esse título, pelo importe de R$ 10.000,00 (dez mil reais).
+
+Primeiramente distribuídos à Segunda Vara Cível de Sobradinho, aquele Juízo determinara[31]a remessa dos autos ao Juízo da Primeira Vara Cível de Sobradinho, no qual já tramitava o cumprimento de sentença da ação possessória, tendo sido recebido o feito, deferida a gratuidade de justiça pleiteada pelo autor e determinada a citação do réu[32]. Citado, o réu apresentara contestação[33] impugnando a gratuidade de justiça deferida ao autor, e aventara preliminar de prescrição da pretensão indenizatória, alegando o transcurso de mais de três anos desde o trânsito em julgado da sentença proferida nos autos da ação possessória. Apontara inépcia da inicial em razão de não terem sido definidos os marcos divisórios de cada uma das propriedades limítrofes. No mérito, afirmara que o autor não lograra demonstrar ter utilizado a terra para produção de alimentos ou criação de animais, inexistindo comprovação dos prejuízos materiais e morais apontados. Pugnara pela oitiva do Sr. Germano José da Silva, que teria cedido as terras para os genitores de cada um dos litigantes e seria a única testemunha apta a indicar os limites dos terrenos, em razão de já ter ocorrido o falecimento dos cessionários originários.
+
+Apresentada réplica[34] pelo autor, fora designada audiência de instrução e saneamento a ser realizada em conjunto com os autos do cumprimento de sentença.
+
+Posteriormente, fora apresentado pedido de habilitação aos autos por Adriel Almeida Rabelo, fundamentado em Instrumento Particular de Cessão de Direitos firmado com David da Silva Bitencourt, filho do autor, tendo por objeto o imóvel situado na Rodovia DF 205 Oeste, Km 08, Chácara nº 07, Colônia Agrícola Catingueiro, Fercal, Sobradinho-DF, área total de 20.000m2[35]. O pedido de habilitação do terceiro restara indeferido[36].
+
+SENTENÇA
+
+Ante a conexão que as enlaça, as ações foram reunidas para instrução e julgamento conjunto. Cumprido o itinerário procedimental, fora proferida sentença única, que, resolvendo conjuntamente as ações, rejeitara o pedido de cumprimento de sentença, condenando o exequente ao pagamento das custas processuais e honorários advocatícios arbitrados em 20% (vinte por cento) do valor da causa, rejeitando, outrossim, o pedido indenizatório, condenando o autor ao pagamento das custas e honorários advocatícios, estes arbitrados em 15% (quinze por cento) do valor da causa. O autor fora condenado, ainda, nas penalidades inerentes à litigância de má-fé, no percentual de 1% (um por cento) do valor da causa da ação possessória, além de ter sido revogado o benefício da gratuidade de justiça em razão da litigância temerária.
+
+Essa resolução fora empreendida sob o argumento de que restara demonstrado nos autos que o autor não seria possuidor da área apontada na exordial, pois, além de ter omitido a venda do terreno a terceiros, apontara ao oficial de justiça, por ocasião da medida de reintegração de posse deferida nos autos, demarcações que avançam para a área de propriedade do réu, alargando, assim, os limites originais do terreno. Aludida percepção fora extraída da inspeção judicial realizada pela magistrada e, ainda, do depoimento do anterior proprietário das terras, Sr. Germano José da Silva, que teria alienado os terrenos para os genitores dos litigantes, os quais teriam recebido por herança os imóveis. E, quanto ao pedido indenizatório, não logrando o autor demonstrar ocupação na área e tampouco indícios de viveiros de plantas, plantação, criação de animais ou edificações por si realizadas no local e destruídas pelo réu, fora também indeferida aludida pretensão.
+
+Inconformado, o autor apresentara apelação em ambas as demandas. Pugnara, primeiramente, pelo restabelecimento do benefício da gratuidade de justiça e, ainda, para que fosse afastada a penalidade inerente à litigância de má-fé, arguindo não ter alterado a verdade dos fatos. Preliminarmente, apontara nulidade da sentença aventando ter violado a coisa julgada ao não determinar sua reintegração na posse do imóvel. Defendera, ainda, a resolução do conflito perante Juízo Arbitral, considerando a cláusula compromissória inserta na cessão de direitos realizado entre seu filho, David da Silva Bitencourt e terceiro, Adriel Almeida Rabelo. No mérito, reforçara os argumentos apresentados nas exordiais das demandas inerentes ao ato de esbulho praticado pelo réu e a necessidade de reparar os prejuízos havidos, reiterando os pedidos de cumprimento de sentença para ser reintegrado na posse do bem e de condenação do réu ao pagamento de indenização por danos materiais e morais.
+
+Intimado, o réu deixara de apresentar contrarrazões nos autos[37].
+
+Os apelos são tempestivos, estão subscritos por defensora pública devidamente habilitada, estão desacompanhados de preparo ante a postulada restauração da gratuidade e foram regularmente processados[38].
+
+É o relatório.
+
+[1] Decisão ID 48640178 (fls. 87).
+
+[2] Ata Audiência de Justificação ID 48640191 (fls. 106).
+
+[3] Certidão do Oficial de Justiça – ID 48640193 (fl. 110) e Auto de Reintegração – ID 48640194 (fl. 112).
+
+[4] Petição ID 48640196 (fl. 114).
+
+[5] Sentença extinguindo o cumprimento exarada em 07 de março de 2018 – ID 48640197 (fl. 115).
+
+[6] Certidão ID 48640198 (fl. 117).
+
+[7] Petição ID 48640203 (fl. 122).
+
+[8] Impugnação ao cumprimento de sentença ID 48640372 (fls. 160/168).
+
+[9] Decisão ID 48640385 (fls. 206/207).
+
+[10] Acórdão 1245679 – ID 486404408 (fls. 253/264).
+
+[11] Petição ID 48640396 (fl. 240).
+
+[12] Decisão ID 4864411 (fls. 269/270).
+
+[13] Decisão ID 48640450 (fl. 318).
+
+[14] Certidão do Oficial de Justiça – ID 48640460 (fl. 334) e Auto de Reintegração de Posse – ID 48640461 (fl. 336).
+
+[15] Petição ID 48640469 (fl. 347).
+
+[16] Sentença ID 48640470 (fl. 348).
+
+[17] Certidão ID 48640473 (fl. 351).
+
+[18] Petição ID 48640474 (fl. 352).
+
+[19] Petição ID 48640481 (fls. 360/362).
+
+[20] Decisão ID 48640484 (fls. 374/375).
+
+[21] Decisão ID 48640487 (fl. 378).
+
+[22] Acórdão 1337872 – ID 48640566 (fls. 427/434).
+
+[23] Decisão ID 48640561 (fl. 420).
+
+[24] Termo de Inspeção Judicial ID 48640591 (fls. 476/477).
+
+[25] Decisão ID 48640622 (fls. 513/514).
+
+[26] Ata de Inspeção Judicial ID 48640636 (fls. 532/533).
+
+[27] Petição terceiro interessado ID 48640696 (fls. 597/598).
+
+[28] Ata de audiência de instrução e julgamento ID 48640707 – Págs. 3 e 4 (fls. 628/629).
+
+[29] Certidão ID 48640710 (fl. 640).
+
+[30] Petição inicial – ID 48629024 (fls. 06/14).
+
+[31] Decisão ID 48629037 (fls. 105/106).
+
+[32] Decisão ID 48629039 (fls. 109/110).
+
+[33] Contestação ID 48631376 (fls. 179/187).
+
+[34] Réplica ID 48631379 (fls. 190/
+
+[35] Petição e documentos ID 48631383 e ID 48631384 (fls. 199/217).
+
+[36] Decisão ID 48631385 (fl. 218).
+
+[37] Certidão ID 48640722 (fl. 678) cumprimento de sentença; Certidão ID 48631406 (fl. 273) ação indenizatória.
+
+[38] Apelação ID 48640719 (fls. 656/675) cumprimento de sentença; Apelação ID 48631403 (fls. 251/270) ação indenizatória.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+
+Cabíveis, tempestivos, desacompanhados de preparo ante a postulada restauração da gratuidade e subscritos por defensora pública devidamente habilitada, satisfazendo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço dos apelos em ambos os feitos.
+
+Conforme relatado, cuida-se de ação possessória em fase de cumprimento de sentença e ação indenizatória que enlaçam os litigantes, tendo por objeto o imóvel localizado na DF 205, Km 08, Catingueiro, Sobradinho – DF, conhecido como “Sítio do Paiva”. O exequente apontara, por ocasião de diligência realizada por oficial de justiça nos autos da ação de cumprimento de sentença, os limites do terreno e localização em que deveria ser estabelecida a cerca divisória entre os imóveis, sendo que o executado, por sua vez, pugnara pela oitiva do cedente originário dos terrenos, pois os litigantes teriam recebido a área como herança de seus respectivos genitores.
+
+Após inspeção judicial realizada pela magistrada a quo e realização de audiência com oitiva de testemunhas, fora apurado que a área apontada pelo executado estava condizente com a situação real dos imóveis e fora indeferida a pretensão executória. Outrossim, sob o fundamento de que ausente demonstração do autor acerca dos alegados atos de esbulho que teriam sido praticados pelo réu em detrimento de cercas, viveiros, galinheiros e demais itens em sua propriedade, fora indeferida, também, a pretensão inerente ao pagamento de indenização por danos materiais e morais.
+
+Nas razões de ambos os apelos, alegara o apelante, primeiramente, ser devida a revogação da multa por litigância de má-fé que fora aplicada em seu desfavor, vindicando a restauração do beneplácito da gratuidade de justiça do qual havia sido agraciado anteriormente nos autos. Em sede de preliminar, aventa nos dois apelos nulidade da sentença, alegando ter sido proferida em violação à coisa julgada, porquanto teria desprezado o comando sentencial exarado na ação possessória, que acolhera o pedido contraposto apresentado naqueles autos e determinara sua permanência na posse do bem. No mérito, defendera a necessidade de o litígio ser dirimido perante Juízo arbitral, em face da cláusula compromissória que fora inserta na cessão de direitos firmada entre seu filho e terceiro, tendo por objeto parte do terreno.
+
+Reiterara, ainda, as alegações expostas na exordial do cumprimento de sentença e da indenizatória, ratificando a ocorrência de ato de turbação praticado pelo réu, que teria adentrado em parte do seu terreno e erigido cerca em local indevido, além de inserir semoventes e destruir plantações, viveiros, galinheiro e obstruir a continuidade de suas atividades agropastoris no local. Pugnara pelo acolhimento da preliminar e, caso ultrapassada, pela aplicação da cláusula compromissória ajustada, pleiteando, no mérito, o acolhimento dos pedidos inerentes à reintegração de posse e condenação do réu ao pagamento de indenização pelos danos materiais e morais que afirmara ter suportado.
+
+Assim pontuadas as matérias controversas, deve, então, ser examinada, primeiramente, a questão acerca da revogação do benefício da gratuidade de justiça, penalidade imposta ao autor em decorrência da sua condenação como litigante de má-fé. Outrossim, considerando que o exequente/autor, ora apelante, requerera em sede recursal a restauração do benefício da gratuidade de justiça, anteriormente deferido pela Juíza a quo, a qual extirpara aludido beneplácito como consequência da condenação lhe imputada por haver sido reputado litigante de má-fé, deve ser inicialmente assinalada a possibilidade de ser reprisada a postulação, com a ressalva de que, tendo sido anteriormente já deferida nos autos, muito embora, em regra, os efeitos da postulação operam-se ex nunc, na hipótese em tela deve ser ressaltado que se trata de mera reconstituição do benefício que fora suprimido como penalidade imposta ao litigante de má-fé. Alinhada essa ressalva, passo à análise da questão inerente à restauração da justiça gratuita.
+
+Como consabido, o entendimento acerca da questão pertinente à condição legalmente exigida para a concessão da gratuidade de justiça é controvertido, afigurando-se majoritário o entendimento pretoriano no sentido de que à parte assiste o direito de ser contemplada com o benefício com a simples condição de que afirme sua incapacidade financeira, sendo dispensável a comprovação da sua situação econômica, salvo se sobejarem dos elementos encartados aos autos ilação que desqualifique a legitimidade dessa afirmação. Ressalve-se, inclusive, que, a despeito de prevalecer essa exegese, o regramento derivado do artigo 4º da Lei nº 1.060/50, que fora revogado pelo novel estatuto instrumental, consoante artigo 1.072, inciso III, NCPC, o qual disciplinava a assistência judiciária, já vinha sendo temperado.
+
+Atualmente, aliás, não sobeja controvérsia acerca do fato de que a presunção de pobreza que contempla a declaração firmada pela parte postulante da gratuidade de justiça é de natureza relativa, podendo, pois, ser elidida por elementos de prova aptos a desqualificá-la, e, ainda, de que, havendo elementos no sentido de que, não obstante a tenha reclamado, a situação financeira da vindicante não é precária de forma a impossibilitá-la de suportar os custos derivados da ação em que está inserida, o Juízo perante o qual flui a lide pode determinar que comprove sua condição econômica de forma a legitimar sua contemplação com a isenção de custas que postulara. Esse entendimento, inclusive, fora contemplado pelo novel estatuto processual, cujo artigo 99, §2º, dispõe o seguinte:
+
+“Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+
+(...)
+
+§ 2o O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.” (grifo nosso).
+
+Ou seja, a gratuidade somente poderá ser indeferida se subsistirem elementos que desqualifiquem a afirmação derivada do postulante no sentido de que não está em condições de suportar os emolumentos provenientes da ação em que está inserido. Sob essa realidade, compulsando os autos afere-se que a Juíza a quo, ao se deparar com a declaração pessoal de hipossuficiência firmada pelo autor[1] e com os documentos por ele apresentados[2], de forma escorreita, deferira o pedido vindicado, sob o prisma de estar demonstrada a hipossuficiência alegada[3].
+
+Entrementes, posteriormente, ao condenar o autor nas penalidades inerentes à litigância de má-fé, por ocasião da prolação da sentença, revogara aludido beneplácito, fundamentando a medida exclusivamente na mencionada condenação, consignando no julgado ora objurgado que: “Como a litigância temerária é incompatível com a gratuidade de justiça, revogo o benefício concedido a Raimundo.”[4] Essa apreensão, contudo, não se sustenta, mormente defronte a inexistência de previsão no estatuto processual vigente quanto à imposição dessa consequência à parte qualificada e sancionada como litigante de má-fé. Registre-se que a análise do enquadramento da atitude do autor, ora apelante, como litigante de má-fé, será minuciosamente apreciada ao final, importando, por ora, averiguar a questão afeta à gratuidade de justiça.
+
+Da análise dos elementos coligidos apreende-se que o autor aufere renda mensal equivalente a um salário mínimo[5]. Ademais, extrai-se dos autos subjacentes que não possui outra fonte de renda e, ainda, restara envolto em ação que dispõe sobre a ocupação do imóvel que aponta como de sua propriedade e no qual afirma exercer atividades agropecuárias para sua subsistência, conforme possessória ajuizada anteriormente em seu desfavor e no qual fora acolhido o pedido contraposto por si aventado[6], o que denota que, no momento, não usufrui de condições financeiras que o habilitem a prover os custos do processo sem comprometer sua economia doméstica, seu sustento e de sua família. Assim, as inferências que emergem dos autos ensejam a ilação de que o autor, ora apelante, não se qualifica como pessoa capaz de suportar o pagamento das custas processuais sem que experimente reflexos na sua economia pessoal.
+
+Dessas irreversíveis evidências apura-se que o apelante pode ser qualificado como juridicamente pobre de forma a legitimar sua contemplação com a gratuidade de justiça que reclamara. Consequentemente, se dos autos não emerge a irreversível constatação de que efetivamente sua situação financeira é estável, sendo provido de patrimônio e que não é alcançado por obrigações que afetam o equilíbrio das suas finanças, deve ser privilegiada a presunção que emerge do dispositivo acima invocado por não ter sido infirmada pelos elementos que ilustram os autos.
+
+Aliás, em se qualificando a ação como o instrumento de invocação da prestação jurisdicional e realização do direito material, seu aviamento, se caracterizando como simples exercício do direito subjetivo público detido pela parte, deve ser facilitado, privilegiando-se, assim, o princípio constitucional que assegura o pleno acesso ao Judiciário e apregoa que nem mesmo a lei pode subtrair da sua apreciação qualquer lesão ou ameaça a direito (CF, art. 5º, XXXV). Como expressão desse princípio, a presunção de miserabilidade jurídica que emerge do artigo 4º da Lei da Assistência Judiciária deve merecer tratamento temperado e de conformidade com o almejado pelo legislador com a criação da gratuidade judiciária, que fora possibilitar o acesso ao Judiciário a todos os cidadãos, independentemente da sua condição social ou capacidade financeira, universalizando-se, assim, a tutela jurisdicional como instrumento destinado à materialização do direito, à realização da justiça e ao alcance da paz social.
+
+Ademais, a concessão da gratuidade de justiça reclamada não redunda em nenhum prejuízo para a parte contrária, à qual, inclusive, é resguardado o direito de, se lhe afigurar conveniente, impugnar sua concessão nas contrarrazões do recurso, nos termos da nova regulação inserta no estatuto processual vigorante[7], permitindo a elucidação da controvérsia e aferição da real situação econômica do autor, ora apelante. Sua concessão, ao invés, guarda vassalagem ao princípio do amplo acesso ao Judiciário e não pode nem mesmo ser reputada como fomento de prejuízo para o erário, à medida que, em detendo o estado o monopólio da prestação jurisdicional, qualificando-se, pois, como típica ação de estado, não pode ser transmudada em instrumento de arrecadação e nem os custos dela oriundos podem pautar ou frustrar a invocação da tutela judicial, sob pena de se privilegiar questão satélite e secundária em detrimento do caráter meramente instrumental do processo, redundando em efetivo prejuízo para o direito material.
+
+Os argumentos alinhados, aliás, encontram conforto na tranquila jurisprudência que viceja no seio do egrégio Superior Tribunal de Justiça, corte a quem está confiada a missão de ditar a derradeira palavra na exegese do direito federal infraconstitucional e velar pela uniformidade da sua aplicação, pois, a despeito de reconhecer que a presunção decorrente da apresentação de declaração de miserabilidade jurídica é de natureza relativa, assentara o entendimento de que somente pode ser desconsiderada à vista de elementos aptos a desqualificá-la, determinando que, em não sendo infirmada, deve privilegiar-se o manifestado pela parte, consoante se afere dos arestos adiante ementados:
+
+“PROCESSUAL CIVIL - AÇÃO DE INDENIZAÇÃO - PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA - PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO DE HIPOSSUFICIÊNCIA - RECURSO CONHECIDO E PROVIDO. 1 - O v. acórdão, ao examinar o caso, afastou o benefício da justiça gratuita, essencialmente, sob o argumento de que o artigo 4º, da Lei 1.060/50 não teria sido recepcionado pelo preceito contido no artigo 5º, inciso LXXIV, da Constituição Federal. Entretanto, equivocou-se o decisum hostilizado. Com efeito, o STF já declarou que o referido dispositivo legal foi recepcionado. 2 - Assim sendo, esta Corte já firmou entendimento no sentido de que tem presunção legal de veracidade a declaração firmada pela parte, sob as penalidades da lei, de que o pagamento das custas e despesas processuais ensejará prejuízo do sustento próprio ou da família. 7 - Recurso provido, para, reformando o v. acórdão recorrido, conceder ao recorrente os benefícios da assistência judiciária gratuita.” (STJ, Quarta Turma, Recurso Especial 2004/0105311-6, Reg. Int. Proces. 682152/GO, relator Ministro Jorge Scartezzini, data da decisão: 22/03/2005, publicada no Diário da Justiça de 11/04/2005, pág. 327);
+
+“PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - ASSISTÊNCIA JUDICIÁRIA GRATUITA - ALEGADA NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA - REQUISITO NÃO EXIGIDO PELA LEI Nº 1.060/50. - Nos termos do art. 4º da Lei nº 1.060/50, a parte gozará dos benefícios da assistência judiciária, mediante simples afirmação de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou de sua família. - A concessão da gratuidade da justiça, de acordo com entendimento pacífico desta Corte, pode ser reconhecida em qualquer fase do processo, sendo suficiente a mera afirmação do estado de hipossuficiência. - Recurso especial conhecido e provido.” (STJ, Segunda Turma, Recurso Especial 2001/0188268-7, Reg. Int. Proces. 400791/SP, relator Ministro Francisco Peçanha Martins, data da decisão: 02/02/2006, publicada no Diário da Justiça de 03/05/2006, pág. 179);
+
+Esta egrégia Corte de Justiça também perfilha o mesmo entendimento e, de forma a privilegiar o processo como simples instrumento destinado à realização do direito e alcance da justiça, também tem decidido que, em tendo a parte reclamado a gratuidade de justiça, apresentando declaração de pobreza do próprio punho, somente lhe pode ser subtraído esse benefício se a condição que invocara for infirmada pelos elementos objetivos que ilustram os autos, conforme testificam os seguintes julgados:
+
+“AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. PROFESSORA DA SECRETARIA DE ESTADO DA EDUCAÇÃO. AFIRMAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO DE VERACIDADE. COMPROVAÇÃO DO CONTRÁRIO. NÃO OCORRÊNCIA. RECURSO PROVIDO. Disciplina a Lei nº 1060/50 que a simples afirmação de hipossuficiência, desde que não comprovado o contrário, é o quanto basta para a obtenção da assistência judiciária gratuita. O fato da agravante ser professora da Secretaria de Estado da Educação e perceber renda mensal em valor módico não justifica o afastamento da presunção, ainda mais quando os valores registrados nos contracheques demonstram que, de fato, o pagamento das custas processuais comprometeria significativamente os proventos da parte.” (TJDF, 2.ª Turma Cível, Agravo de Instrumento 20060020085555 AGI DF, Reg. Int. Proces. 256967, relatora Desembargadora Carmelita Brasil, data da decisão: 04/10/2006, publicada no Diário da Justiça de 24/10/2006, pág. 97);
+
+“GRATUIDADE DE JUSTIÇA - SIMPLES AFIRMAÇÃO DA PARTE NECESSITADA - DEFERIMENTO. 1. Segundo jurisprudência predominante, basta a simples afirmação do beneficiário para que lhe seja deferido o pedido de gratuidade de justiça, competindo à parte contrária, se assim for do seu interesse, aviar a devida impugnação, que deverá ser processada e afinal decidida nos termos da lei. 2. Agravo provido. Maioria.” (TJDF, 2.ª Turma Cível, Agravo de Instrumento 20050020027448 AGI DF, Reg. Int. Proces. 226986, relator Desembargador Waldir Leôncio Júnior, relator designado Desembargador J. J. Costa Carvalho, data da decisão: 18/08/2005, publicada no Diário da Justiça de 18/10/2005, pág. 126);
+
+“PROCESSUAL CIVIL – GRATUIDADE DE JUSTIÇA – DECLARAÇÃO DE HIPOSSUFICIÊNCIA – LEI Nº 1.060/50. 1 – A concessão da justiça gratuita não depende de qualquer comprovação, bastando simples afirmação, na petição inicial, de que o requerente não está em condições de arcar com as custas do processo e honorários de advogado, sem prejuízo próprio ou da família, consoante o disposto no artigo 4º, da Lei 1.060/50.  2 – Recurso conhecido e provido. Decisão unânime.” (TJDF, 5.ª Turma Cível, Agravo de Instrumento 20060020052088 AGI DF, Reg. Int. Proces. 252568, relatora Desembargadora Haydevalda Sampaio, data da decisão: 02/08/2006, publicada no Diário da Justiça de 14/09/2006, pág. 121);
+
+Assinale-se, por fim, que a augusta Suprema Corte, a quem cabe o controle concentrado acerca da conformação das normas ordinárias ao que estabelece a Constituição Federal e na condição de sua intérprete e guardiã originária, também já se manifestara acerca da questão, deixando assentado que, além de o entendimento do derrogado artigo 4º da Lei da Assistência Judiciária guardar conformidade com o vigente texto constitucional (CF, art. 5º, LXXIV), para que a parte usufrua da gratuidade judiciária basta que formule pedido nesse sentido e apresente declaração de próprio punho atestando sua impossibilidade de suportar os custos derivados da ação sem experimentar prejuízo à sua mantença ou da sua família, conforme pontificam os julgados a seguir ementados:
+
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONCESSÃO DE JUSTIÇA GRATUITA. PRESCINDE DE COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. Prescinde de comprovação para obtenção da assistência judiciária gratuita. 2. A aferição das afrontas à Carta de 1988 apontadas nas razões do extraordinário implicam o revolvimento do contexto fático-probatório dos autos. Agravo regimental a que se nega provimento.” (STF, Segunda Turma, Agravo Regimental no Agravo de Instrumento 403811/RS, relator Ministro Maurício Corrêa, data da decisão: 04/02/2003, publicada no Diário da Justiça de 28/02/2003, pág. 00013);
+
+“CONSTITUCIONAL. ACESSO À JUSTIÇA. ASSISTÊNCIA JUDICIÁRIA. Lei 1.060, de 1950. C.F., art. 5º, LXXIV. I. - A garantia do art. 5º, LXXIV -- assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos -- não revogou a de assistência judiciária gratuita da Lei 1.060, de 1950, aos necessitados, certo que, para obtenção desta, basta a declaração, feita pelo próprio interessado, de que a sua situação econômica não permite vir a Juízo sem prejuízo da sua manutenção ou de sua família. Essa norma infraconstitucional põe-se, ademais, dentro no espírito da Constituição, que deseja que seja facilitado o acesso de todos à Justiça (C.F., art. 5º, XXXV). II. - R.E. não conhecido.” (STF, Segunda Turma, Recurso Extraordinário 205746/RS, relator Ministro Carlos Velloso, data da decisão: 26/11/1997, publicada no Diário da Justiça de 28/02/1997, pág. 04080).
+
+Dos argumentos alinhados emerge, então, a certeza de que, não elidida a presunção de que usufrui a declaração firmada pelo autor, ora apelante, e de forma a lhe ser assegurado o pleno exercício do direito subjetivo público que o assiste de invocar a tutela jurisdicional, deve-lhe ser assegurada a fruição da gratuidade de justiça que postulara e lhe fora deferida nos autos, permitindo-lhe residir em Juízo sem que daí lhe advenha qualquer gravame ou afetação ao equilíbrio da sua economia pessoal, privilegiando-se, em suma, o princípio que resguarda o amplo acesso ao Judiciário.
+
+Desta feita, em sendo mantidas as condições econômico-financeiras já demonstradas pelo exequente/autor nos autos e que respaldaram a concessão do beneplácito, devem ser acolhidos os apelos nesse ponto e extirpada do julgado aludida revogação. Ademais, consoante já ressaltado, a condenação da parte nas penalidades inerentes à litigância de má-fé não enseja como consequência a perda do benefício da justiça gratuita.
+
+Assim é que a presunção de legitimidade da afirmação de pobreza jurídica sobeja, não podendo ser desconsiderada em razão de eventual condenação em litigância de má-fé, ressalvando-se à outra parte, se o caso, infirmá-la, se viável, evidenciando que o exequente/autor ostenta patrimônio e renda aptos a suportarem o pagamento das despesas processuais sem prejudicar sua subsistência ou de sua família. Dessas irreversíveis evidências apura-se que pode ser qualificado como juridicamente carente de forma a legitimar sua contemplação com a gratuidade de justiça que reclamara. Destarte, restauro o benefício da gratuidade de justiça ao ora apelante. Assim, porquanto cabíveis, tempestivos, dispensados de preparo e subscritos por defensora pública devidamente habilitada, satisfazendo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço dos apelos do autor.
+
+Elucidada a questão inerente à gratuidade de justiça, considerando que o exequente/autor, ao apelar, suscitara preliminar referente à nulidade da sentença em razão de violação à coisa julgada, deve ser primeiramente analisada. Destarte, defendera o autor que a sentença estaria equivocada, uma vez que “não poderia a Magistrada sentenciante, em sede de cumprimento de sentença, ter reanalisado a sentença exequenda, muito menos o acórdão, proferidos nos autos da ação possessória, para afastar proteção possessória que foi legitimamente conferida ao apelante anteriormente, na fase de conhecimento do mesmo processo.”[8] Com efeito, aludida preliminar de nulidade da decisão sentencial fora agitada à luz duma suposta violação ao artigo 505 do estatuto processual vigente, enfatizando o apelante que a magistrada não poderia decidir novamente questões já resolvidas no bojo da ação possessória objeto do cumprimento. A despeito, todavia, dos argumentos invocados, sob o estofo de que teria violado mencionado dispositivo, a matéria inerente aos limites do julgado e do pedido constante na exordial do cumprimento de sentença e da ação indenizatória são questões que se confundem com o próprio mérito da demanda, razão pela qual deve ser afastada aludida preliminar para adentrar na análise da questão de fundo.
+
+E, ainda antes de analisar o mérito, deve ser pontuada outra questão aventada pelo exequente/autor nas razões de seus apelos. Trata-se da matéria ventilada acerca da necessidade de dirimir o litígio perante Juízo arbitral em face da cláusula compromissória inserta na cessão de direitos firmada entre seu filho, David da Silva Bitencourt, e terceiro, Adriel Almeida Rabelo, tendo por objeto parte do imóvel objeto das avenças. Ocorre que aludida questão sequer merece conhecimento, pois em nenhum momento fora aventada nos cadernos processuais, tanto nos autos da possessória em fase de cumprimento de sentença, quanto nos autos da ação indenizatória, sendo matéria estranha ao espectro de análise da eminente Magistrada a quo, situação que, por certo, configuraria violação ao princípio devolutivo.
+
+Destarte, os apelos não merecem ser integralmente conhecidos ante sua manifesta e irreversível inadmissibilidade quanto à questão inerente à aventada necessidade de submeter a controvérsia à análise de Juízo arbitral, mormente por ser assunto alheio à questão estabelecida e resolvida pela sentença una submetida a reexame. Conforme emerge do aduzido, o apelante, tangenciando os limites objetivos aos quais se sujeitam a lide e foram demarcados justamente pelos argumentos e postulações que formulara em suas exordiais, inovara nos fundamentos de sua pretensão, pugnando, agora, pela resolução do conflito perante Juízo arbitral, o que inviabiliza o enfrentamento da alegação em sede recursal.
+
+É que, qualificando-se a argumentação como inovação recursal, extrapolando os limites objetivos da ação e modificando as teses inicialmente deduzidas ao apresentar novos fatos e fundamentos, deve ser liminarmente refutada de forma a ser preservado o princípio do duplo grau de jurisdição e da estabilidade das relações jurídicas, vedando-se a ocorrência de supressão de instância e velando-se, inclusive pela preservação do efeito devolutivo da apelação, que está municiado com poder para devolver à instância revisora a apreciação tão só e exclusivamente das matérias que integram o objeto da lide. Esteado nesses argumentos, os apelos devem ser conhecidos somente em parte, ponderado o que efetivamente integrara os objetos das demandas, não suprindo, pois, quanto ao ponto individualizado, inerente à aventada necessidade de apreciação da lide por juízo arbitral, o pressuposto objetivo de admissibilidade.
+
+Elucidada a questão acerca da gratuidade de justiça conferida ao apelante, afastada a preliminar de nulidade da sentença fulcrada em violação à coisa julgada e ressalvado que os apelos devem ser conhecidos em parte, o objeto dos apelos, pautado pela matéria que fora devolvida a reexame como expressão do efeito devolutivo que está impregnado na gênese da apelação, cinge-se à aferição da legitimidade do pedido de natureza executória inerente ao cumprimento da sentença proferida nos autos da ação possessória que envolve as partes, assim como do pedido indenizatório agitado pelo ora apelante, consistente no reconhecimento da prática de esbulho pelo réu, que teria resultado em prejuízos materiais e morais em seu desfavor.
+
+Emoldurado o objeto da controvérsia, tendo o autor manejado cumprimento de sentença com o escopo de ver cumprida a resolução empreendida na sentença exarada no bojo da ação possessória  - Processo nº 2008.06.1008257-8 – ajuizada pelo ora apelado em seu desfavor, cuja pretensão autoral fora rejeitada, tendo sido acolhido o pedido contraposto por si apresentado e determinado que permanecesse na posse do imóvel localizado na DF 205, Km 08, Catingueiro, Sobradinho-DF, conhecido como “Sítio do Paiva”, importa, naqueles autos, reconhecer se restara demonstrado o alegado ato de turbação praticado pelo réu e, assim, se restara descumprida a determinação exarada no julgado. Após, aferida a prática da alegada violação à posse do ora apelante, sobejaria, então, a análise da extensão dos prejuízos porventura ocasionados pelo réu, apelado, ao praticar o apontado esbulho, objetivando a apreciação da pretensão inerente à condenação ao pagamento de indenização pelos danos materiais e morais alegados.
+
+Historiado o itinerário processual do cumprimento de sentença da possessória, outrora ajuizada por Fábio Tavares Lúcio de Souza em face de Raimundo Rodrigues Bitencourt Neto e demais ocupantes do bem, em cujo bojo fora rejeitada a pretensão autoral e acolhido o pedido contraposto concernente à permanência dos réus no imóvel, afere-se que a sentença ora guerreada, quanto ao tópico em que rejeitara a pretensão ora aventada, acerca do cumprimento da obrigação determinada no julgado, afigura-se escorreita, não merecendo qualquer reparo.
+
+Pontuado o objeto dos apelos, a respeito da temática em evidência, merece destaque, ainda prefacialmente e antes de adentrar a questão de fundo propriamente dita, que as controvérsias referentes ao inquestionável parcelamento havido no local e acerca dos debates quanto à dominialidade do bem não influem e não guardam pertinência com o objeto do presente litígio. Isso porque, com efeito a quaestio iuris perscrutada diz respeito especificamente ao chamado ato-fato possessório, noutras palavras, sobre quem detém a posse sobre o bem e acerca da existência de elementos que a violem direta ou indiretamente (ameaça, turbação ou esbulho). Ademais, especificamente no caso dos autos da ação possessória, ressalte-se, a matéria já fora elucidada por sentença exarada na fase de conhecimento, ocasião em que fora reconhecido o direito do ora apelante de permanecer no imóvel discriminado nos autos. Assim, resta a ser aferido, em sede de cumprimento do julgado, se fora descumprida a determinação, competindo, então, ao exequente, demonstrar que ocorrera violação à sua posse por ato praticado pelo réu.
+
+Alinhados esses parâmetros, importa ressaltar que, com o escopo de ser apurada a real dinâmica dos fatos, foram realizadas duas inspeções judiciais no local apontado como esbulhado, tendo a eminente magistrada de primeira instância comparecido in loco e apurado as condições dos terrenos, ocasião em que constatara inexistirem indícios do exercício de posse pelo autor e do esbulho aventado. Ao contrário, tendo sido verificada a existência de cerca de arame farpado já enferrujado no local, a diligente magistrada reconhecera que os marcos divisórios apontados pelo exequente ao oficial de justiça, por ocasião do cumprimento da diligência de reintegração de posse deferida nos autos do cumprimento de sentença, foram alterados unilateralmente pelo ora apelante, invadindo, assim, terreno cuja posse é exercida pelo executado, ora apelado.
+
+Ademais, de forma escorreita, ressaltara a magistrada ter o exequente/autor, ora apelante, omitido informação relevante acerca da venda do terreno objeto da possessória a terceiros, situação que implicara a alteração dos fatos, uma vez que não há como imputar ao réu esbulho, turbação ou ameaça de área que fora objeto de alienação a terceiros. E, ainda, ao ser colhido o depoimento de Germano José da Silva - ouvido na condição de informante por ter se declarado amigo íntimo de ambos os litigantes - havendo figurado como cedente primevo dos terrenos, foram delineados os marcos dos terrenos de cada uma das partes, sem que houvesse irresignação apresentada pelos litigantes. Nesse sentido, declarara a testemunha Germano José da Silva[9]:
+
+Às perguntas da magistrada respondeu: “Que conhece Fábio Tavares; que foi criado junto com o Sr. Fábio; que é amigo íntimo de ambas as partes; que mora na comunidade Catingueiro; nas proximidades da escola; que o Sr. Fábio e o Sr. Raimundo possuem terras naquela área; que para ter acesso à área do Sr. Fábio, desce na BR, descendo para o ribeirão, vira à direita; que, partindo da escola, para ter acesso à chácara do Sr. Fábio, o sítio dele fica em frente ao colégio; que na chácara do Sr. Fábio tem um plantio de milho; que a chácara do Sr. Raimundo é antes de chegar ao colégio; que, partindo do colégio, a chácara do Sr. Raimundo, passa por dentro de uma lavoura do Sr. Fábio e aí chega na divisa dos terrenos; que a divisa da chácara do Sr. Fábio com a do Sr. Raimundo fica adiante da lavoura de milho do Sr. Fábio; que a lavoura de milho tem uma cerca ao final; que essa cerca não é a divisa entre as chácaras do Sr. Fábio e do Sr. Raimundo; que a divisa fica passando a escola, passando a cerca da lavoura de milho e passando ainda a área de pasto até a grota; que compareceu ao local um pouco antes de realizada a inspeção e apontou ao Sr. Raimundo onde seriam os pontos divisórios dos terrenos; que a cerca onde tinha o sinal dos buracos não é a divisa, que seria um pouco mais adentro em direção à escola; uns 20 metros em direção à escola, ou melhor, tomando como referência à grota, uns 5 metros para dentro; que a divisa não é na cerca que está logo após onde acaba a roça; que a cerca antiga vinha dos pés de árvore lá em cima e vinha até embaixo e fazia um L na parte debaixo e imbrica naquela grota onde tem até hoje uma aroeira antiga que ainda está lá; que apontou para o Sr. Raimundo e para o Sr. Fábio onde era exatamente a divisa; que a cerca iniciava na grota, exatamente no local em que estavam os arames velhos, que ficam perto das árvores perto da grota; que vai descendo e faz um L e pega na outra grota até embaixo; que o Sr. Fábio não estava por dentro dos limites e abriu os buracos em local diverso; que vendeu a área para o Sr. Raimundo; que vendeu 2 hectares para o Sr. Raimundo; que negociou com o Sr. Raimundo e o filho dele, Davi; que não sabe dizer se Davi transferiu a área para outra pessoa.”
+
+Às perguntas do advogado do réu respondeu que: “Que tem um arame lá em cima no pé do morro e passa pelas árvores e embaixo faz um L; que esse L é para a direita, em direção à grota grande que tem embaixo; que a divisa está em direção ao colégio; que depois da grota, uns 20 metros a cerca faz um L de, mais ou menos, uns 40 metros do L até chegar na outra grota; que a cerca desce reto no alinhamento das árvores e faz um L em direção até a outra grota; que a cerca inicia do lado da grota no pé do morro; que a cerca inicia do lado da grota virado para o colégio; que a divisa debaixo é a outra grota, que é lá que o arame vai parar.”
+
+Às perguntas da Defensora Pública respondeu que: “que a cerca em L é em direção à grota maior e lá a cerca termina; que é a cerca é uma linha reta; que a cerca inicia das árvores, do pé do morro e faz um L na grota menor e, após, vai até a outra grota maior; que não sabe dizer há quanto tempo a cerca da qual faz referência não existe e que não sabe informar há quanto tempo existem os buracos no local; que foi com o Sr. Fábio e com o Sr. Raimundo e mostrou para eles onde eram as divisas de cada um dos terrenos.”
+
+Também fora colhido o depoimento da testemunha José Gilvan Chaves[10], o qual, às perguntas da magistrada, assim respondera:
+
+“Que conheceu o Sr. Raimundo em 1974, que conhece a região do Catingueiro; que conhece as chácaras; que o Sr. Raimundo tem chácara na região; que comprou uma parte de Germano e a outra parte do irmão de Germano, chamado Sebastião; que não sabe o tamanho da área; que o pai do Germano, chamado Sr. André; que tinha congregação em lote doado pelo Sr. André; que a área que Raimundo adquiriu faz divisa com a área de Fábio, que Fábio adquiriu do seu genitor; que a área desce do pico da serra no rumo da escola; que, pela escola para ir para a chácara do Sr. Raimundo antes passava pela chácara de Germano e passava para a do Sr. Raimundo; que a chácara do Sr. Fábio, fica, onde sobe os ônibus, do bico da serra para o outro lado; que a divisa não é longe; que não sabe precisar; que não fez a cerca, só ajeitou ela a trabalho; que tem muito tempo que foi ao local, cerca de quatro anos; que depois que ajeitou a cerca não voltou mais lá; que a cerca era de arame farpado; que já tinha estacas no local e só completou.”
+
+Às perguntas da Defensora Pública respondeu: “que a cerca foi colocada próximo à grota e que foi feita para o gado não entrar para a chácara dele; que não foi testemunha em outro processo; que quando construiu a cerca era para o pai do Fábio; que não ouviu falar em disputa de divisa entre o pai do Sr. Fábio e o Sr. Raimundo.”
+
+Às perguntas do advogado do réu respondeu: “que não utilizou das árvores para arrumar a cerca; que não fez a cerca, apenas concertou ela; que colocou umas 40 estacas na parte que estava caída; que cavou os buracos e assentou os postes e amarrou a cerca de arame farpado com grampo; que não concertou ela até o pé do morro; que apenas concertou para baixo, até o córrego; que no pé do morro ela já estava amarrada no local certo; que não mexeu na cerca na parte que ficava no morro; que só pregou embaixo até o córrego.”
+
+Desta feita, restando as divisas apontadas pelo ora apelado condizentes com os marcos originais, na forma relatada pelos depoentes em audiência de instrução e constatado in loco pela magistrada primeva, conclui-se que o  local apontado pelo ora apelante ao oficial de justiça, por ocasião da diligência reintegratória, e que culminara na recolocação da cerca, restara destoante das balizas demarcatórias originais dos terrenos, resultando na escorreita conclusão apurada pelo julgado concernente à alteração da verdade dos fatos perpetrada pelo exequente/autor.
+
+Assim é que, não tendo o exequente demonstrado o descumprimento da sentença proferida nos autos da possessória, tanto que a cerca divisória, necessária à limitação de cada uma das áreas reivindicadas pelos litigantes, fora reinstalada pelo réu, ora apelado, no mesmo local em que já existia uma primeira cerca, consoante comprovado nas fotografias acostadas, as quais demonstram a existência de cerca nova colocada no mesmo ponto em que existente arame farpado enferrujado e encroado em árvore, que denota ter sido oriundo de cerca mais antiga erigida no local, não há que se falar em acolhimento da pretensão executória.
+
+Ora, o escopo do cumprimento da sentença é justamente conferir materialização à obrigação determinada no julgado, que, nesse sobre o terreno denominado DF 205, Km 08, Catingueiro, Sobradinho-DF, conhecido como “Sítio do Paiva”. Nos autos da ação possessória manejada por Fábio Tavares Lúcio de Souza em desfavor de David da Silva Bittencourt, Raimunda Nilma Belo da Silva e Raimundo Rodrigues Bitencourt Neto – Processo nº 2008.06.1008257-8 – foram julgados improcedentes os pedidos formulados na inicial e julgado procedente o pedido contraposto para manter os réus – incluindo nesse rol o ora apelante -, na posse da área onde se encontram, in verbis:
+
+“Vistos,etc.
+
+ 1.Relatório:
+
+FÁBIO TAVARES LÚCIO DE SOUZA ingressou com a presente ação de reintegração de posse contra DAVID DA SILVA BITENCOURT, RAIMUNDA NILMA BELO DA SILVA e RAIMUNDO RODRIGUES BITENCOURT NETO, já qualificados.
+
+Em apertada síntese, aduz o requerente que é proprietário e possuidor do imóvel localizado na DF 205, km 8, Catingueiro, Sobradinho/DF (Sítio Paiva), registrado no INCRA sob o nº9410180144516 e 9410180036209, com área de 60 hectares.
+
+Narra que a área foi adquirida pelo pai do requerente em 1980, mas o genitor faleceu em 10.5.1983 e a genitora foi interditada em 2003.
+
+Em 11.6.2008 o autor verificou que os réus esbulharam parte das terras, fato que levou a registro na ocorrência policial - 35ª DP. Assevera que os réus vêm investindo contra o autor no âmbito judicial sem, contudo, obter sucesso em tais investidas. Requer a reintegração de posse da área invadida e indenização pela derrubada de cerca e queimada de área de pasto.
+
+Juntou documentos.
+
+Designada audiência de justificação (fl.44), foram ouvidas as testemunhas CARLOS JOSÉ FIÚZA DOS SANTOS (fl.61), VALDERSON GOMES DOS SANTOS (fl.62), SILVÉRIO SÉRGIO FERNANDES (fl.63) e OSVALDO JOSÉ DA SILVA (fl.64).
+
+Liminar de reintegração de posse deferida na audiência de justificação (fl.60).
+
+Contestação às fls.81/92. Aduzem os réus que são legítimos possuidores da área onde se encontram e informam que ajuizaram ação demarcatória da área.
+
+Alegam, preliminarmente, ilegitimidade ativa porque a posse da área reclamada é do arrendatário.
+
+No mérito, reafirmam que se encontram em área onde exercem posse. Também alegam que o requerente não comprovou a posse da área reclamada. Requereram a improcedência dos pedidos do autor e formularam pedido contraposto para ser mantidos ou reintegrados na posse. Em caso de procedência dos pedidos do autor, pugnam pela indenização das acessões realizadas, assegurando-lhes o direito de retenção.
+
+Juntou documentos.
+
+Interposto agravo de instrumento contra a decisão que deferiu a reintegração de posse (fls.123/139).
+
+Efeito suspensivo deferido às fls.155/158.
+
+Réplica à contestação às fls.172/174.
+
+Audiência de conciliação às fls.232/233, cuja composição restou frustrada.
+
+Audiência de instrução e julgamento às fls.263/267, oportunidade em que foram ouvidas as testemunhas MIGUEL CARNEIRO DE SOUSA e JOSÉ GILVAN CHAVES DE SOUSA.
+
+Alegações Finais da parte autora às fls.271/273 e dos réus às fls. 291/296.
+
+2.FUNDAMENTAÇÃO:
+
+O processo encontra-se formalmente em ordem, inexistindo até o presente momento nulidades ou vícios a sanar. Os réus foram regularmente citados e assistidos por advogado. As provas foram coligidas sob o crivo dos princípios norteadores do devido processo legal, mormente o contraditório e a ampla defesa, nos termos constitucionais.
+
+A preliminar de ilegitimidade ativa não merece prosperar. O motivo suscitado pelo réu é que a posse é do arrendatário.
+
+Entretanto, o arrendante é possuidor indireto e tem interesse jurídico relativamente à área discutida.
+
+Preliminar rejeitada.
+
+Afastada a preliminar, considero presentes as condições necessárias ao exercício do direito de ação, bem como os pressupostos processuais legalmente exigidos, razão pela qual aprecio o mérito. Cuida-se de ação de reintegração de posse cumulada com pedido indenizatório proposta por FÁBIO TAVARES LÚCIO DE SOUZA em desfavor de DAVID DA SILVA BITENCOURT e OUTROS, já qualificados.
+
+Cumpre dizer que a pretensão autoral não merece prosperar.
+
+Estabelece o art.333, inciso I do CPC que ao autor cumpre provar os fatos constitutivos do seu direito. No caso vertente, a posse e o esbulho.
+
+O Juízo, à luz do relatado na audiência de justificação, deferiu a medida liminar para reintegrar o autor na posse da área reclamada. Não obstante, a prova produzida no decorrer de toda a instrução - e não apenas na justificação - milita em desfavor das pretensões do autor. Senão vejamos.
+
+Como bem ressaltado pelo Exmo. Sr. Desembargador Flávio Rostirola no julgamento do AGI nº2008.00.2.010247-6, referindo-se às testemunhas ouvidas na audiência de justificação, "(...) as testemunhas detêm relação de amizade e emprego com o requerente-agravado e deveriam ter sido ouvidas com reservas pois teriam interesse no resultado da demanda. Argumento que merece atenção e devida averiguação." (fl.220).
+
+Comungo do mesmo sentimento.
+
+Segundo a dicção do artigo 405, §4º do CPC, aquele que tiver interesse no litígio, se acolhido o depoimento, merece ter seu depoimento valorado de acordo com o que possa merecer.
+
+Inclusive, quando presidi a instrução, acatei a contradita da testemunha João Batista da Silva porque declarou ter interesse no deslinde da questão, conforme se percebe da Ata de Audiência (fl.263) e do Termo de fl.265.
+
+Pois bem. Assim considerados interessados no feito aqueles que depuseram na audiência de justificação, entendo que a versão consignada nos depoimentos de fls.266/267, relatada por testemunhas compromissadas nos termos de lei e sem interesse no litígio, mereça prevalecer sobre a outra versão, contada no início da ação.
+
+MIGUEL CARNEIRO DE SOUSA (fl.266) declarou:
+
+"(...) que acredita que David não vendeu terras para Ednaldo; (...) que o dono da chácara é o Sr. David da Silva Bitencourt desde 1988; que David comprou tal chácara do Germano; que acredita que Ednaldo Lucio nunca foi dono dessas terras; (...) que a chácara tem cerca demarcando o terreno; que é a primeira vez que vê o autor; (...) afirma que sempre que compareceu àquela chácara encontrou David morando (...)"
+
+JOSÉ GILVAN CHAVES DE SOUSA afirmou à fl.267: "(...) que David comprou a chácara do Germano em 1988; que David nunca vendeu essas terras;(...)" Muito embora em ação possessória não se discuta domínio, tal questão não pode passar à margem, haja vista que a posse alegada pelo autor decorre de uma negociação entre seu pai (do autor) e os réus no ano de 1988.
+
+Segundo as testemunhas, a área ocupada pelos réus nunca foi vendida ou negociada, sendo certo que a permanência deles vem ocorrendo há mais de 20 anos.
+
+Cumpre ainda destacar que pende ação demarcatória na 1ª Vara Cível de Sobradinho (autos nº 2008.06.1.006045-8) sobre as terras em questão. Não se tem certeza, sequer, se as terras reclamadas nesta possessória estão inseridas nas terras do autor. Entretanto, os limites da área de cada um serão definidos na demarcatória, também de caráter dúplice, corrigindo-se eventuais distorções nas fronteiras.
+
+Não vislumbrei nos documentos juntados pelo autor qualquer negociação entre seu falecido pai (ou sua genitora) e os réus ou familiares dos réus.
+
+Portanto, não está provada a posse sobre a área reclamada e, por conseqüência lógica, ausente está o esbulho; ao contrário, provou-se que os réu ocupam as terras onde se encontram há mais de 20 anos, razão pela qual merece procedência o pedido contraposto.
+
+Uma vez julgado improcedente o pedido possessório do autor, não há indenização a reconhecer.
+
+Por fim, quanto à alegação de outro domicílio pelos réus, isto em nada influencia no deslinde da questão. A legislação brasileira permite que tenhamos mais de um domicílio, se assim desejarmos.
+
+DA IMPUGNAÇÃO AO VALOR DA CAUSA
+
+AUTOS Nº 2008.06.1.013250-7:
+
+Quanto à impugnação ao valor da causa, não há discussão sobre a propriedade das terras, mas sobre a posse.
+
+Se o valor da causa deve refletir o proveito econômico (CPC, art.258 e seguintes), pode se tomar por base o contrato de arrendamento mercantil de fls. 27/30 dos autos principais, qual seja, R$ 11.000,00 por 2 anos, equivalente a um pouco menos de R$ 500,00 por mês.
+
+Portanto, nada a reparar.
+
+3.DISPOSITIVO:
+
+Ante o exposto, rejeitada a preliminar de ilegitimidade ativa, JULGO IMPROCEDENTES OS PEDIDOS FORMULADOS NA INICIAL.
+
+JULGO PROCEDENTE o pedido contraposto para MANTER os réus na posse da área onde se encontram. JULGO IMPROCEDENTE a impugnação ao valor da causa.
+
+Por conseguinte, extingo o feito com resolução do mérito, o que faço com fundamento no art.269, inciso I do CPC. Condeno o autor em custas e honorários de advogado, os quais arbitro em R$800,00 (oitocentos reais) - CPC, art.20, §4º.
+
+Junte-se cópia desta sentença aos autos nº 013250-7/2008. Transitada em julgado, arquivem-se. Publique-se. Registre-se. Intimem-se.[11]” (grifo nosso)
+
+Nesse alinhado, os fundamentos apontados pelo apelante nas razões dos recursos, limitando-se a reiterar ter sido reconhecido em sentença seu direito de permanecer na posse do terreno individualizado nos autos, e apontando ato de esbulho praticado pelo executado, em desconformidade com o determinado no julgado, concernente à instalação de cerca e inserção de gado em sua área, não restara comprovado, pois não apresentara nenhum indício das atitudes que afirmara terem sido perpetradas pelo ora apelado no sentido de destruir cercas, galinheiro, viveiro de plantas, placas e obstaculizar o plantio e a criação de animais no local.
+
+E tanto é assim que as placas relatadas como destruídas encontram-se fixadas no local, consoante denotam as fotografias acostadas aos autos[12]. Ademais, além de não ser possível visualizar nas fotografias do local nenhum indício de destruição de galinheiro, viveiro, plantação ou área de pasto ou plantio no terreno, a magistrada primeva, ao realizar duas inspeções no terreno apontado pelo exequente como objeto de esbulho, comprovara in loco a inexistência desses indícios, concluindo no julgado que, litteris:
+
+“Raimundo sustenta que Fábio lhe causou danos materiais ao destruir a cerca antiga existente no local. Ocorre que a prova produzida não sinaliza no sentido de ter Fábio destruído cerca construída por Raimundo. Aliás, a cerca destruída, segundo a inspeção judicial, foi a nova cerca construída nas margens da grota, no local indicado por Fábio. Como Raimundo não concorda que o limite entre os terrenos é esse ponto, forçoso concluir que Raimundo não edificou essa cerca. Não foi encontrado no local nenhum indício de qualquer outra cerca destruída. Também não foram encontrados indícios de viveiro de plantas ou de animais ou de que o réu tenha realizado qualquer plantio no local. Aliás, não foi verificada na inspeção nenhum indício de ocupação recente da área objeto desta ação. Acrescendo não ser possível encontrar indícios da ocupação realizada por Raimundo no local, tendo em vista que a área de Raimundo fora vendida, em 2010, a Adriel.”
+
+Desta feita, ainda que se considerasse, como aventado nas razões dos apelos, que a área vendida a Adriel não abarcara todo o terreno objeto do litígio e que restaria, ainda, parte da área como objeto de posse pelo ora apelante, não lograra ele demonstrar que, de fato, estaria ocupando o local após o trânsito em julgado da sentença e que teria sofrido atos de esbulho, turbação ou ameaça praticados pelo ora apelado, situação que configuraria o descumprimento do julgado e embasaria a pretensão executória. Por sua vez, o apelado lograra demonstrar nos autos sua intenção e atitude concernente ao cumprimento do determinado na sentença da ação possessória, tanto que erigira cerca justamente para delimitar com eficácia o espaço de cada um dos litigantes, evitando a perpetuação do litígio, situação que apenas fora corroborada na sentença exarada nos autos do cumprimento, após realização de duas inspeções na área pela magistrada e oitiva de testemunhas que participaram da venda dos terrenos e recuperação das cercas neles existentes.
+
+Desta feita, o fundamento apresentado pelo apelante, alegando ter sido vítima de esbulho por ato praticado pelo ora apelado, não restara demonstrado nos autos. Ao contrário, fora delineado ato praticado pelo próprio exequente violando o direito de posse do executado, porquanto apontara ao oficial de justiça marcos divisórios das áreas diversos dos pontos originais de marcação da divisa dos terrenos. A contradição havida nos argumentos do ora apelante nos cadernos processuais pode ser ilustrada, a título de exemplo, pela afirmação concernente a ter o apelado adentrado seu terreno cerca de cinco mil metros, quando, ao participar da diligência reintegratória realizada pelo oficial de justiça, apontara o local correto da cerca como sendo aproximadamente quinze metros adiante de onde estava erigida e, ao final, fora constatado que a cerca instalada pelo executado estaria bem mais próxima dos marcos originais de divisa do que o ponto em que erguida a cerca pelo exequente.
+
+Outro ponto que merece ser ressaltado consiste na omissão do exequente acerca da alienação do terreno a terceiro, situação que corrobora o relato do executado, não refutado pelo ora apelante, de que permanecera por diversos anos sem exercer a posse no local. Essa assertiva também restara corroborada pela ausência de indícios de ocupação recente na área, fato constatado nas inspeções judiciais e que afasta a aventada destruição de estrutura destinada à criação de animais e plantio no local.
+
+Nesse alinhado e considerando ser ônus do exequente no cumprimento de sentença demonstrar que não fora cumprida a obrigação constante no julgado cuja pretensão executória objetiva, aliado ao fato de que os elementos trazidos ao caderno processual pelo conjunto probatório certificam que o executado agira com o intento de delimitar as áreas e corroborar a determinação acerca de cada um dos litigantes permanecer nos limites da sua área, esvazia-se o pedido constante na exordial do cumprimento de sentença. Ademais, se houvera descumprimento do determinado no julgado, somente poderia ser imputado ao próprio exequente, pois, havendo lhe sido determinado permanecer na posse da sua área, teria invadido terreno vizinho ao deslocar a cerca do local originário, apontando marcos diversos ao oficial de justiça.
+
+Impende rememorar que, consoante se depreende do alinhado, o estofo material içado originariamente como lastro para o aviamento da pretensão indenizatória aduzida está enlaçado ao apontado ato de turbação praticado pelo réu, ora apelado, consubstanciado em adentrar área de sua posse e ali inserir semoventes e cerca, obstruindo, assim, o exercício de sua posse. Ademais, o autor ainda apontara, nos autos da ação indenizatória, destruição de cerca, galinheiro, viveiro de plantas e obstrução do exercício de atividades relacionada a plantio e criação de animais no local. E, quanto aos danos morais, aventara terem sido violados direitos de sua personalidade ao suportar aludidos contratempos, porquanto, diante das animosidades havidas com o réu, enfrentara momentos difíceis, que teriam ocasionado problemas em sua saúde. Assim, patenteado que inexistira ato de esbulho praticado pelo executado/réu, ora apelado, ausente substrato material para condená-lo ao pagamento de indenização por danos materiais e morais havidos em face de aludido ato, conforme aventado pelo ora apelante, sobeja reconhecer que escorreito o julgado também nesse ponto.
+
+Importa frisar, uma vez mais, que o imóvel objeto da possessória fora descrito por área localizada na DF 205, Km 08, Catingueiro, Sobradinho-DF, conhecido como “Sítio do Paiva”, sendo que, na inicial do cumprimento de sentença, o exequente pugnara pela expedição de mandado de reintegração de posse em seu favor, a fim de que o réu desocupasse aludida área e retirasse a cerca construída no local, sendo que, ao acompanhar a diligência realizada em setembro de 2020, o exequente, ora apelante, apontara os marcos divisórios, os quais evidenciaram-se diversos dos indicados pelo cedente originário dos terrenos.
+
+Ademais, o imóvel objeto de cessão realizada entre o filho do exequente e terceiro está descrito naquele instrumento como Rodovia DF 205 Oeste, KM 08, Chácara nº 07, Colônia Agrícola Catingueiro, Fercal/Sobradinho – DF. Assim, não obstante constar no próprio objeto da cessão que aludido imóvel faz divisa com o de titularidade do Sr. Raimundo Rodrigues Bitencourt Neto, dentre outros proprietários vizinhos, aludida informação não é capaz, por si só, de afastar a identidade do imóvel descrito tanto na possessória como no instrumento de cessão, sobejando que o ora apelante não mais detinha a posse da área por ocasião do manejo do cumprimento da sentença, aviada no ano de 2017, uma vez que a alienação dos direitos sobre o bem fora realizada no ano de 2010[13].
+
+Firmada essa premissa, de acordo com os elementos coligidos aos autos afere-se que, em 03/09/2020, às 11:30h, o oficial de justiça Thiago Henrique Lorena Alves, cumprindo mandado expedido nos autos do Processo nº 0705551-37.2017.8.07.0006, efetuara a reintegração de posse de Raimundo Rodrigues Bitencourt Neto no imóvel descrito por Rodovia Df-150-Rodovia Df 205, Km 8, Colônia Agrícola Catingueiro, Chácara 7 Setor Habitacional Fercal (Sobradinho), Brasília/DF CEP 73150-100[14], exarando certidão com o seguinte teor, verbis:
+
+“Saliento que este oficial adentrou na área rural pertencente ao senhor Raimundo, e após 20 minutos de caminhada dentro da respectiva propriedade, o reintegrante especificou onde fora construída indevidamente a cerca, e o local correto onde ela deveria ser fixada, aproximadamente uns 15 metros a frente do local onde atualmente a cerca encontra-se construída. Nesse momento foram feitas fotografias do local, e autorizado mediante decisão jurisdicional que o senhor Raimundo realocasse a cerca em seu devido local, findando a turbação de posse. Saliento que dirigi-me a propriedade vizinha (senhor Fábio), contudo não fui recepcionado por nenhum morador, e de acordo com o senhor Raimundo, o turbante encontra-se residindo na cidade de Goiânia. A luz deste fato, devolvo o presente mandado ao cartório para as devidas providências necessárias.”
+
+Assim, verificado que o imóvel descrito pelo oficial de justiça, ao cumprir o mandado de reintegração após ter os marcos divisórios apontados pelo exequente, ora apelante, é descrito de forma idêntica ao imóvel objeto da cessão de direitos firmado entre seu filho e terceiro, aliado ao fato de terem sido realizadas duas inspeções judiciais no local comprovando a inexistência de indícios de ocupação anterior na forma como descrita pelo ora apelante nos autos da indenizatória e, ainda, corroborados os marcos divisórios originais pelo primeiro cedente dos terrenos lindeiros, os quais foram objeto de avença realizada por Germano José da Silva, ouvido na condição de informante, por declarar-se amigo íntimo de ambos os litigantes, concluíra de forma escorreita o julgado arrostado ao rejeitar a pretensão executória em razão da inexistência de demonstração de ato de turbação, ameaça ou esbulho praticado pelo réu.
+
+Alfim, consoante já explanado, estando entrelaçadas as pretensões aviadas na exordial do cumprimento da sentença da possessória e da indenizatória manejada em face do mesmo ato apontado como esbulhador do exercício de sua posse, consubstanciado em instalação de cerca e colocação de semoventes na área individualizada nos autos, inviável que seja condenado o réu ao pagamento de indenização, pois ausente a demonstração dos prejuízos apontados, inexistindo sequer indícios de construção no local de galinheiro, viveiro, plantas ornamentais ou plantio e criação de animais, descerrando que sequer lograra o ora apelante demonstrar a prática de ato ilícito perpetrado pelo réu que pudesse culminar nos alegados danos materiais e morais que afirmara ter suportado.
+
+De conformidade com comezinhos princípios de direito instrumental, a elucidação dos fatos depende do cotejo das provas, estando enlaçada à arte dos obreiros da ciência jurídica a capacidade de se lhe extrair o exato significado de forma a materializar o direito de acordo com o tratamento que lhes é dispensado pelo legislador. Desta feita, a análise do conjunto probatório rechaça o argumento do apelante acerca da existência de violação ao exercício da sua posse por meio de ato esbulhador praticado pelo réu. Ao contrário do que alegara o apelante, em verdade, sua atitude de apontar marcos divisórios diversos dos originais e omitir a venda do terreno a terceiro é que poderia ensejar ato de esbulho à posse do réu, inexistindo demonstração de que sofrera prejuízos em face de ato perpetrado pelo ora apelado.
+
+Importa ressaltar, ainda, que a oitiva de Germano José da Silva ratificara a informação prestada pelo executado/réu, ora apelado, de que apenas erigira a cerca em atenção ao determinado nos autos da ação possessória, uma vez que os marcos apontados por ele são consentâneos com os limites descritos pelo cedente originário dos terrenos. Por outro lado, as divisas apontadas pelo ora apelante não obedecem aos parâmetros instalados originariamente e que deveriam ser seguidos após a prolação daquela sentença, que somente permitira que as partes perpetuassem a posse já exercida nos respectivos terrenos e não alargassem os limites de sua propriedade em detrimento da propriedade vizinha.
+
+Desta feita, o argumento abroquelado pelo apelante nas razões dos recursos, consubstanciado na distinção entre os imóveis objeto da cessão realizada a terceiro e o imóvel objeto da possessória cujo cumprimento de sentença pleiteia, não se sustenta. Ao contrário, restara demonstrado pela documentação, inspeções in loco e depoimentos colhidos nos autos, que trata-se do mesmo imóvel e que inexistem comprovações de posse recente exercida pelo ora apelante no local, sendo a necessária construção da cerca para divisa dos bens a atitude escorreita praticada pelo réu, ora apelado, para cumprir o determinado na sentença, esvaziando-se os fundamentos fáticos e jurídicos apontados para acobertar a pretensão indenizatória.
+
+Assim, das irreversíveis evidências estampadas no caderno processual, anfere-se que o apelante não se desincumbira do encargo de demonstrar ter o réu agido de forma a descumprir a determinação constante no julgado proferido nos autos da ação possessória que originara a pretensão executória, não tendo, pois, infirmado e desqualificado a atitude perpetrada pelo réu concernente à regularização da cerca para delimitar a divisa dos terrenos atentando-se para os marcos originários havidos no local, devendo ser prestigiada, assim, a sentença ora objurgada, mantendo-a intacta quanto à questão fulcral tratada nos autos.
+
+Alfim, no tocante à pretensão de alforria da sanção que fora imposta ao apelante, sobeja que, tampouco quanto a esse tocante, o inconformismo comporta acolhimento. Com efeito, consoante consignado na sentença arrostada, a intencional alteração da verdade dos fatos, incluída a tentativa de burla a uma ordem judicial com o nítido propósito de apropriar-se de área diversa da  delineada na causa de pedir da possessória que ajuizara, encerra inexorável ato atentatório à boa-fé processual, pois, a par de pretender alterar a verdade dos fatos, utilizara-se do processo para conseguir objetivo ilegal, uma vez que conduzira o oficial de justiça que cumprira a diligência até área que adentra a chácara na qual o ora apelado exerce a posse, apontando-a como parte da área a ser reintegrada a seu favor, redefinindo unilateralmente os marcos divisórios dos terrenos e, ainda, omitindo ao Juízo informação acerca da alienação do terreno objeto do litígio (CPC, art. 80, II e III).
+
+Assim é que, ao alterar a verdade dos fatos, informando categoricamente ao serventuário da justiça que parte da chácara utilizada pelo apelado estaria abarcada na área objeto do cumprimento de sentença, o apelante claramente envidara esforços para, utilizando-se do procedimento realizado no instrumento processual obter, ilegalmente, a posse de terreno diverso daquele descrito na causa de pedir da possessória e, ainda, omitira importante informação acerca da alienação do terreno a terceiro.
+
+Consoante cediço, a natureza jurídica da litigância de má-fé consiste na violação ao princípio da probidade e da lealdade processual através de atos abusivos do direito de demandar, praticados pelo autor, réu ou terceiro interveniente, conforme preleciona a norma contida no artigo 79 do Código de Processo Civil. O abuso do direito processual fora tratado especificamente pelo estatuto processual, nos artigos 79 a 81, enquanto o artigo 80 é o responsável pela previsão casuística dos casos em que se configura abuso do direito de demandar, vale dizer, a litigância de má-fé. Nesse sentido o doutrinador Castro Filho define:
+
+“Assim, toda vez que, na ordem jurídica, o indivíduo no exercício do seu direito subjetivo excede os limites impostos pelo direito positivo, aí compreendidos não só o texto legal mas também as normas éticas que coexistem em todos sistema jurídico, ou toda vez que o indivíduo no exercício de seu direito subjetivo o realiza de forma contrária à finalidade social, verifica-se o abuso do direito [...] o direito subjetivo, poder de agir, é, na sua realização normal, o uso, e, na sua realização anormal, o abuso.”[15]
+
+Diante do aduzido, tem-se que o abuso do direito de demandar ocorre com a irregular utilização do direito subjetivo de ação em ponderação com sua finalidade, caracterizando o litigante de má-fé como aquele que excede o uso regular do direito de demandar, que compreende, obviamente, o uso dos meios de defesa que lhe são inerentes, não compreendendo, contudo, o direito ao abuso no manejo do instrumental processual. Trata-se, pois, de uma conduta de responsabilidade subjetiva e que deve ser mais objetivamente configurada, para o fim de tornar-se mais efetiva sua punição. Com efeito, há uso irregular do direito, isto é, abuso do direito de demandar quando, configuradas as hipóteses do artigo 80 do estatuto processual vigente, se divisa a subsistência de atuação dolosa da parte, traduzida na intenção de corromper a atividade jurisdicional. Para maior elucidação deve ser transcrito aludido dispositivo:
+
+“Art. 80. Considera-se litigante de má-fé aquele que:
+
+I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso;
+
+II - alterar a verdade dos fatos;
+
+III - usar do processo para conseguir objetivo ilegal;
+
+IV - opuser resistência injustificada ao andamento do processo;
+
+V - proceder de modo temerário em qualquer incidente ou ato do processo;
+
+VI - provocar incidente manifestamente infundado;
+
+VII - interpuser recurso com intuito manifestamente protelatório.”
+
+Ressalte-se que a sistemática processual reclama a lealdade processual de todos os atos processuais e o artigo 80 do estatuto processual elencara taxativamente as hipóteses de condutas abusivas, que ocorrerá sempre quando se divisa desvirtuamento na utilização das faculdades e dos direitos conferidos a quem litiga, afastando-se a lide dos seus fins e utilidade. Ademais, é imprescindível a constatação do elemento subjetivo para a qualificação da litigância de má-fé, principalmente porque a má-fé processual equivale à antítese de boa-fé estipulada no artigo 5º do Código de Processo Civil[16], que equivale à boa-fé subjetiva. Destarte, para a configuração da litigância de má-fé, o litigante deve atuar dolosamente e em contradição com a finalidade do processo, através da violação da verdade e do abuso dos atos processuais.
+
+Registre-se que, a despeito do alegado pelo apelante, a intenção de alterar a verdade dos fatos, apontando ao oficial de justiça área diversa da descrita na causa de pedir da ação possessória que ajuizara, demarcando limites que extrapolam os marcos originários do terreno, além de omitir a venda do imóvel a terceiro antes do manejo do cumprimento da sentença, procedendo, assim, com o escopo de utilizar-se de diligência cumprida naquele feito para garantir a posse em terreno do qual há muito não exerce a posse, restara efetivamente demonstrada no caderno processual, consoante exaustivamente exposto.
+
+No caso, a postura do apelante, conforme pontuado, se enquadra em aludidos preceptivos, pois promovera, de forma voluntária, o direcionamento do oficial de justiça a cumprir a diligência em área diversa daquela descrita na causa de pedir da possessória, com o evidente objetivo de ocupar o imóvel no qual o réu exerce a posse, de molde a pretender alterar a realidade dos fatos (inciso II), procedendo, destarte, de forma a utilizar-se da diligência realizada na demanda para obter a posse de terreno diverso do delineado na causa de pedir (inciso III). Assim, emoldurando-se sua conduta na tipificação legal, deve sujeitar-se à sanção processual estabelecida pelo legislador processual, de acordo como preceituado pelo artigo 81 do mesmo estatuto processual, ressoando que a sentença objurgada afigura-se escorreita também nesse tocante.
+
+Dessas inferências, deriva a certeza de que a argumentação alinhavada pelo apelante não está revestida de suporte material, obstando sua agraciação com o acolhimento do inconformismo aviado, com exceção do ponto em que revogado o beneplácito da gratuidade de justiça, o qual, consoante já delineado, possui natureza jurídica diversa da sanção imposta aos litigantes de má-fé, porquanto consubstancia-se em ferramenta que possibilita a todos os cidadãos, independentemente de sua condição financeira, acesso ao processo como instrumento de realização do direito e alcance da justiça, não estando condicionado, portanto, à ausência de sanção processual imposta à parte agraciada.
+
+Alfim, providos em parcela ínfima os apelos da parte autora, tão somente para restaurar o beneplácito da gratuidade de justiça, as verbas de sucumbência devem ser mantidas a seu encargo, na forma como arbitrada na sentença una arrostada. Ademais, tendo sido aviada a ação sob a nova regulação processual, o apelante sujeita-se ainda ao disposto no artigo 85, §11, do novel Código de Processo Civil[17], que preceitua que, resolvido o recurso, os honorários advocatícios originalmente fixados deverão ser majorados levando-se em conta o trabalho adicional realizado no grau recursal, observada a limitação contida nos §§ 2º e 3º para a fixação dos honorários advocatícios na fase de conhecimento, que não poderá ser ultrapassada. Assim é que, fixada a verba originalmente em 20% (vinte por cento) e 15% (quinze por cento) sobre o valor da causa, respectivamente, nos autos do cumprimento de sentença e na ação indenizatória, a verba deve ser majorada tão somente nos autos da ação indenizatória, ponderados os serviços desenvolvidos pelo patrono do apelado e o êxito obtido, para 20% (vinte por cento) sobre o valor da causa na ação indenizatória, devidamente atualizado (NCPC, art. 85, § 2º), considerando já ter sido arbitrada no grau máximo nos autos do cumprimento.
+
+Diante da argumentação alinhavada, conheço em parte, e, na parte conhecida, dou provimento em parte aos recursos apenas para, reformando parcialmente a sentença vergastada, restaurar o beneplácito da gratuidade de justiça anteriormente concedida ao exequente/autor. Considerando que os apelos restaram providos em parte mínima, mantenho os ônus sucumbenciais ao seu encargo, majorando os honorários advocatícios que lhe foram imputados para o equivalente a 20% (vinte por cento) sobre o valor da causa nos autos da ação indenizatória, devidamente atualizado monetariamente (CPC, art. 85, §§ 2º e 11), ficando, contudo, suspensa a exigibilidade da verba, defronte a gratuidade de justiça ora restabelecida.
+
+É como voto.
+
+[1] Declaração de Hipossuficiência de Renda ID 48640172 (fl. 44) cumprimento de sentença; Declaração de Hipossuficiência de Renda ID 48629025 (fl. 16) ação indenizatória.
+
+[2] Comprovante de rendimentos ID 48629027 (fl. 20) – ação indenizatória.
+
+[3] Decisão ID 48640178 (fl. 87/88) cumprimento de sentença; Decisão ID 48629039 (fls. 109/110) ação indenizatória.
+
+[4] Sentença ID 48640717 – Pág. 6 (fl. 653) cumprimento de sentença; Sentença ID 48631401- Pág. 6 (fl. 248) ação indenizatória.
+
+[5] Comprovante de rendimentos ID 48629027 (fl. 20) – ação indenizatória.
+
+[6] Processo nº 2008.06.1008257-8.
+
+[7] Art. 100. NCPC- “Deferido o pedido, a parte contrária poderá oferecer impugnação na contestação, na réplica, nas contrarrazões de recurso ou, nos casos de pedido superveniente ou formulado por terceiro, por meio de petição simples, a ser apresentada no prazo de 15 (quinze) dias, nos autos do próprio processo, sem suspensão de seu curso.”
+
+[8] Razões da Apelação ID 48640719 – Pág. 13 (fl. 668) cumprimento de sentença; Razões da Apelação ID 48631403 – Pág. 13 (fl. 263) ação indenizatória.
+
+[9] Ata de audiência ID 48640705 (fl. 624) – autos cumprimento de sentença.
+
+[10] Ata de Audiência – ID 48640707 (fl. 626).
+
+[11] https://cache-internet.tjdft.jus.br/cgi-bin/tjcgi1?MGWLPN=SERVIDOR1&NXTPGM=tjhtml122&ORIGEM=INTER&CIRCUN=6&SEQAND=153&CDNUPROC=20080610082578
+
+[12] Fotografias de placas fixadas nas árvores no local – ID 48640433 (fl. 301) e ID 48640635 (fl. 303).
+
+[13] Instrumento Particular de Cessão de Direitos – ID 48640698 (fls. 616/617) cumprimento de sentença.
+
+[14] Certidão Oficial de Justiça ID 48640460 (fl. 334) – cumprimento de sentença.
+
+[15] CASTRO FILHO, José Olímpio de. Abuso de direito no Processo Civil. Editora Forense, 2ª Ed., Rio de Janeiro, 1960, p. 21.
+
+[16] NCPC, “Art. 5º. Aquele que de qualquer forma participa do processo deve comportar-se de acordo com a boa-fé.”
+
+[17] - “CPC, Art. 85 -§ 11 – O tribunal, ao julgar o recurso, majorará os honorários advocatícios fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º 3º para a fase de conhecimento.”
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER EM PARTE DOS RECURSOS E, NA PARTE CONHECIDA, REJEITAR PRELIMINAR E DAR-LHES PROVIMENTO. DECISÃO UNÂNIME
