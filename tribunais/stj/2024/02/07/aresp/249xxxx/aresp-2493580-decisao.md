@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por Jose Marco Modesto de Sousa contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado contra o acórdão prolatado na Apelação Criminal n. 0719904-18.2022.8.07.0003, assim ementado (fl. 308):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME DE FURTO QUALIFICADO PELO EMPREGO DE CHAVE FALSA. AUTORIA E MATERIALIDADE COMPROVADAS. QUALIFICADORA DO USO DE CHAVE FALSA DEMONSTRADA POR OUTRAS PROVAS. POSSIBILIDADE. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. Comprovadas a autoria e a materialidade delitivas, deve ser mantida a condenação por furto qualificado pelo uso de chave falsa.
+2. A jurisprudência sedimentou orientação de que a qualificadora referente ao emprego de chave falsa prescinde de exame pericial para a sua comprovação se restar demonstrada, de forma robusta e por outros meios de prova, a sua utilização no delito, como no caso dos autos. Além disso, o instrumento foi periciado e atestada a sua eficiência para a prática do delito.
+3. Recurso conhecido e desprovido.
+Nas razões recursais, a defesa apontou violação do art. 158 do Código de Processo Penal, sustentando, em suma, o afastamento da qualificadora do emprego de chave falsa, dada a imprescindibilidade do exame pericial (fls. 331/333).
+Apresentadas contrarrazões (fls. 339/341), o Tribunal distrital não admitiu o recurso especial, por incidência da Súmula 284/STF (fls. 344/345).
+Daí o presente agravo (fls. 350/358). Instado a se manifestar, o Ministério Público Federal opina pelo desprovimento do agravo, nos seguintes termos (fl. 376):
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO QUALIFICADO. CHAVE FALSA. PERÍCIA JUDICIAL. ATESTADA A EFICIÊNCIA DO INSTRUMENTO PARA O FURTO OU ARROMBAMENTO. ALEGADA VIOLAÇÃO AO ART. 158, DO CPP. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284, DO STF. PARECER PELO DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+Presentes os requisitos de admissibilidade, o recurso merece ser conhecido. A irresignação, contudo, não merece prosperar.
+Consignou o Tribunal distrital (fls. 312/313 - grifo nosso):
+ ..  Pugna a defesa pelo afastamento da qualificadora pelo uso de chave falsa.
+Razão não assiste à Defesa.
+Como cediço, a jurisprudência é pacífica no sentido de que a qualificadora prevista no art. 155, § 4º, inc. III, do Código Penal, referente ao emprego de chave falsa na prática do delito de furto, prescinde de exame pericial para a sua comprovação se restar demonstrada por outros meios de prova.
+Neste sentido, perfilha a jurisprudência deste colendo Tribunal de Justiça, como se observa dos seguintes julgados, dentre outros:
+ ..
+No caso dos autos, robustas e coesas entre si toda a prova oral produzida, corroborada pela confissão do réu em juízo. Não há dúvida de que o réu foi o autor do crime. Ademais, a sua prisão ocorreu logo após o crime, na posse dos objetos furtados e da chave falsa.
+A testemunha presencial Alisson viu quando o réu, fazendo uso da chave falsa, abriu o veículo, bem como viu quando saiu na posse dos bens furtados.
+A vítima esclareceu no seu depoimento que fechou a porta do caminhão e, imediatamente, conferiu se o veículo estava realmente fechado.
+Toda a prova oral afasta a versão do réu, e, no que pese a ausência de perícia na porta do veículo, as provas juntadas aos autos corroboram o uso da chave falsa pelo réu na prática do ilícito.
+Há nos autos, ainda, o laudo pericial que atesta que o instrumento apreendido em poder do acusado é eficiente para a prática de furto ou arrombamento (ID 28405489).
+Pelo exposto, conforme asseverado anteriormente, entendo que não obstante o réu tenha confessado o crime e, quanto à qualificadora, tenha negado o uso de chave falsa, essa versão encontra-se isolada no contexto probatório, não havendo falar, assim, em exclusão da circunstância qualificadora do emprego de chave falsa, nem em redução da pena.  ..
+Outrossim, consta da sentença condenatória (fl. 233):
+ ..  Com relação à qualificadora referente ao emprego de chave falsa, embora o acusado negue, alegando que a porta do caminhão já estava aberta, e a defesa alegue que não foi realizada perícia na porta do caminhão, as provas também não deixam dúvidas de que o réu, de fato, fez uso do instrumento.
+Com efeito, a testemunha Alisson declarou em juízo que viu o acusado abrindo a porta do caminhão, entrando e descendo com os objetos na mão, bem como viu ele com uma chave mixa, de cor prata, toda lisa. Também a vítima, Eraldo, confirmou que deixou as portas do caminhão trancadas e ao retornar para pegar o veículo, constatou-se que o porta do motorista estava aberta e com a fechadura danificada. Além do mais, a mencionada chave falsa foi devidamente apreendida com o réu (ID 131452125) e submetida à perícia criminal, cujo exame concluiu que o instrumento, por suas características e natureza, a depender das circunstâncias e do modo de utilização, é eficiente para a prática do crime de furto em análise (ID 140953975).
+Portanto, a palavra da testemunha ocular e da vítima, juntamente com a perícia realizada na chave mixa apreendida com o acusado são suficientes para comprovar que ele utilizou tal chave falsa para abrir a porta do caminhão, incidindo, assim, a qualificadora prevista no inciso III do § 4º do artigo 155 do Código Penal, e, por conseguinte, não prosperam as alegações do réu e de sua defesa técnica, neste ponto.  ..
+Da atenta leitura do apelo especial, bem como dos trechos acima transcritos, verifica-se que as razões recursais se encontram dissociadas dos fundamentos apresentados no aresto hostilizado, o qual concluiu pela manutenção da circunstância qualificadora do emprego de chave falsa, uma vez que o laudo pericial que atesta que o instrumento apreendido em poder do acusado é eficiente para a prática de furto ou arrombamento (fl. 313), fundamento que, aliás, não foi impugnado pela parte.
+Incidem, pois, os óbices das Súmulas 283 e 284/STF. Nessa esteira: AgRg no AREsp n. 2.268.914/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/8/2023; AgInt no AREsp n. 1.318.928/SP, Ministro Marco Buzzi, Quarta Turma, DJe 1º/6/2023; AgRg no AREsp n. 2.130.959/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 28/4/2023; AgRg no AREsp n. 1.986.796/AP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/8/2022; REsp n. 1.788.474/RO, Ministra Laurita Vaz, Sexta Turma, DJe 3/12/2019; e AgRg no AREsp n. 1.211.558/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/5/2018.
+Não é outra a opinião do nobre parecerista (fls. 377/379):
+ ..  Com efeito, resta consignado no acórdão impugnado que a chave falsa utilizada no furto foi devidamente periciada, havendo laudo acostado aos autos atestando a eficiência do instrumento para a prática do furto ou arrombamento, tudo isso corroborado com outros elementos probatórios como se depreende do trecho abaixo:
+ ..
+A tese suscitada pela defesa, no entanto, seria de que a qualificadora referente ao emprego de chave falsa deveria ser afastada, no caso em tela, em razão da não realização da prova pericial no instrumento utilizado para a prática do furto.
+Incide, pois, o teor da Súmula 284, do STF, que diz que: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+De igual forma, a interativa jurisprudência desse Superior Tribunal de Justiça posiciona-se no sentido de que: "demonstra-se deficiente a fundamentação quando as razões recursais estão dissociadas do decisum impugnado, incidindo, na espécie, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.920.005/RJ, Rel. Min. Humberto Martins, Terceira Turma, julgado em: 19/06/2023, publicado em: 22/06/2023)
+ ..
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, em consonância com o parecer ministerial, conheço do agravo para não conhecer do recurso especial.
+Publi que-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ALEGAÇÃO DE OFENSA AO ART. 158 DO CPP. PRETENSÃO DE AFASTAMENTO DA QUALIFICADORA PELO EMPREGO DE CHAVE FALSA. ALEGAÇÃO DE AUSÊNCIA DE PROVA PERICIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. RAZÕES DISSOCIADAS. SÚMULAS 283 E 284/STF. COMPROVAÇÃO DA QUALIFICADORA POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. PRECEDENTES.
+Agravo conhecido para não conhecer do recurso especial.
