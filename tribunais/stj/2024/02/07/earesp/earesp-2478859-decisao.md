@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pelo BANCO VOITER SA (segundo agravante), contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: embargos de terceiro, opostos por CHARLES WURZIUS, em face de BANCO VOITER SA.
+O BANCO VOITER SA apresentou reconvenção.
+Sentença: julgou improcedentes os pedidos formulados na ação principal e em sede de reconvenção.
+Acórdão: extinguiu o processo, sem resolução do mérito, nos termos do art. 485, IV, e §3º, do CPC, julgou prejudicada a apelação interposta por CHARLES WURZIUS, condenou o BANCO VOITER SA ao pagamento das custas e honorários advocatícios, e negou provimento ao apelo do BANCO VOITER SA. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - CONTRATO DE PARCERIA AGRÍCOLA - PENHORA DE SOJA - EXTINÇÃO DO PROCESSO DE EXECUÇÃO - PERDA SUPERVENIENTE DO OBJETO DOS EMBARGOS DE TERCEIRO - EXTINÇÃO DE OFÍCIO DO PROCESSO DE ORIGEM EM SEDE RECURSAL (CPC, ART. 485, IV, E §3º). - PEDIDO RECONVENCIONAL PARA REPARAÇÃO DOS PREJUÍZOS SUPOSTAMENTE CAUSADOS PELO DEPOSITÁRIO/EMBARGANTE DO PRODUTO PENHORA - NEXO CAUSAL NÃO DEMONSTRADO - FALTA DE COMPROVAÇÃO DE QUALQUER CONDUTA ILÍCITA PELO DEPOSITÁRIO - INVERSÃO DO ÔNUS SUCUMBENCIAL - RECURSO DO BANCO/EMBARGADO DESPROVIDO E RECURSO DE EMBARGANTE PREJUDICADO E. 1. A extinção do processo de execução, esvazia o objeto dos embargos de terceiros, impondo a extinção do feito sem resolução de mérito, com fundamento no art. 485, VI, do CPC. 2. "Extintos os embargos de terceiro, sem resolução de mérito, por perda de objeto, os ônus sucumbenciais são atribuídos com base no princípio da causalidade. Verificando-se que a embargada deu causa ao ajuizamento da demanda, deve arcar com o pagamento das despesas e dos honorários advocatícios. (TJMT - Primeira Câmara de Direito Privado - Recurso de Apelação Cível nº N. U 0015804-24.2008.8.11.0041 - Rel. Des. SEBASTIAO BARBOSA FARIAS - Julgado em 19/11/2019 - DJE 12/05/2020)". 3. O parágrafo único do art. 161 do CPC dispõe que "depositário infiel responde civilmente pelos prejuízos causados, sem prejuízo de sua responsabilidade penal e da imposição de sanção por ato atentatório à dignidade da justiça". 4. Não comprovada a adoção de qualquer conduta ilícita por parte do depositário, inexistente demonstração de nexo causal, não há falar em reparação por qualquer suposto prejuízo.
+Embargos de declaração: interpostos por ambas as partes, em duas oportunidades, todos foram rejeitados.
+Recurso especial do BANCO VOITER SA: alega violação dos arts. 85, caput e §10º, 489, § 1º, IV e VI e 1.022, II, do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, argumenta que a ação de execução de título extrajudicial não foi extinta e que não é responsável pela perda de objeto da presente ação. Assevera que não pode ser condenado ao pagamento dos ônus sucumbenciais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018; e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da distribuição dos ônus sucumbenciais e da retomada da ação de execução de título extrajudicial (e-STJ fls. 734 e 805).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação dos arts. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à distribuição dos ônus sucumbenciais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo interposto pelo BANCO VOITER SA e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor atualizado da causa (e-STJ fl. 734) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido, com majoração de honorários.
