@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, Agravo interno interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que não conheceu do Recurso Especial, por perda superveniente do objeto.
+A parte agravante sustenta, em síntese, que, "apesar de constar do andamento processual da ACP 2009.32.00.009835-9 uma fase de "trânsito em julgado em 27/5/2013" (andamento processual da ACP em anexo), da análise das movimentações fica evidente que tal andamento foi dado de forma equivocada".
+Alega que "não há sequer sentença nos autos. Nem poderia ser diferente, vez que, como relatado, o recurso foi manejado em acórdão proferido em agravo de instrumento, que trata, exatamente, da possibilidade de prosseguimento da ação principal".
+Ao final, requer a reconsideração da decisão agravada ou a submissão do recurso ao colegiado.
+A parte agravada não apresentou impugnação ao Agravo interno.
+As partes foram intimadas a se manifestar acerca da superveniência da Lei 14.230/2021.
+Apenas o ora agravante apresentou manifestação, requerendo "o prosseguimento do feito, de acordo com a lei aplicada ao tempo do ajuizamento da ação, para que seja conhecido e provido o agravo interno (e-STJ fls. 224/227), cujas razões se reitera".
+É o relatório. Decido.
+A pretensão merece acolhida, pois equivocado o reconhecimento da perda do objeto do Recurso Especial.
+Com efeito, na origem, o ora agravado interpôs Agravo de Instrumento contra decisão que, nos autos de Ação Civil Pública por ato de improbidade administrativa, reconheceu a prescrição no que concerne às penalidades previstas na Lei 8.429/1992 e determinou o prosseguimento da ação de improbidade administrativa, tendo em vista o pedido de ressarcimento ao erário.
+No acórdão objeto do Recurso Especial, publicado em 25/02/2013, o Tribunal de origem concluiu que, "declarada a prescrição da aplicação das sanções, por ato de improbidade administrativa, nos termos do artigo 23, l, da Lei 8.429/1992, o ressarcimento ao Erário deverá ser buscado em ação autónoma". Consequentemente, deu provimento ao Agravo de Instrumento "para extinguir o processo da Ação Civil Pública por Ato de Improbidade Administrativa 2009.32.00.009835-9/AM, com resolução do mérito, nos termos do art. 269, IV, do CPC, ressalvada a ação própria, para, em sendo o caso, obter, quanto ao agravante, o ressarcimento do dano".
+Conforme consta do andamento processual que embasa a decisão agravada, em consequência do acórdão recorrido, o Exmo. Juiz Federal da 3ª Vara de Seção Judiciária de Manaus proferiu despacho com o seguinte teor: "Cumpra-se o venerando aresto de fls 888893. Em consequência torno sem efeito o despacho de fl 878. Intimem-se as partes acerca do acórdão proferido pelo E Tribunal Regional da 1ª Região e aguarde-se o respectivo trânsito em julgado".
+Assim, não há falar em perda do objeto do presente recurso, pois remanesce a discussão acerca da possibilidade de prosseguimento da ação quanto ao pedido de ressarcimento ao erário.
+E, quanto ao ponto, o acórdão recorrido diverge do entendimento consolidado pelo Superior Tribunal de Justiça quando do julgamento do Tema Repetitivo 1.089, ocasião em que foi fixada a seguinte tese: "Na ação civil pública por ato de improbidade administrativa é possível o prosseguimento da demanda para pleitear o ressarcimento do dano ao erário, ainda que sejam declaradas prescritas as demais sanções previstas no art. 12 da Lei 8.429/92".
+Isso posto, reconsidero da decisão de fls. 220/221e. Com fundamento no art. 255, § 4º, III, do RISTJ, conheço do Recurso Especial e dou-lhe provimento para, reformando o acórdão recorrido, determinar o prosseguimento da demanda quanto ao pedido de ressarcimento dos danos causados ao erário.
+Intimem-se.
+EMENTA
