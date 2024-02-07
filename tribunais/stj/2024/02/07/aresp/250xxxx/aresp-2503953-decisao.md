@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MORADAS DO BOSQUE I - SPE - INCORPORAÇÕES LTDA. contra decisão que inadmitiu recurso especial com fundamento na incidência das Súmul as n. 7 e 83 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação n. 5007443-68.2018.8.21.0019) nos autos de indenização por danos materiais e morais.
+O julgado foi assim ementado (fl. 1.502):
+APELAÇÃO CÍVEL. CONTRATOS DO SISTEMA FINANCEIRO DEHABITAÇÃO. INDENIZATÓRIA. VÍCIO CONSTRUTIVO. PRESCRIÇÃOE DECADÊNCIA. INOCORRÊNCIA.
+DANO MATERIAL EVIDENCIADO, DECORRENTE DE VÍCIOSCONSTRUTIVOS E DEFICIÊNCIAS NA EXECUÇÃO DOS SERVIÇOS DEEDIFICAÇÃO DO IMÓVEL, COM CONDENAÇÃO DA REQUERIDA AOVALOR NECESSÁRIO PARA O RESPECTIVO CONSERTO.
+EM QUE PESE ESTA CÂMARA POSSUA O ENTENDIMENTO DE QUETRANSTORNOS DECORRENTES DO DESCUMPRIMENTO CONTRATUALSÃO CONSEQUÊNCIAS NATURAIS DO RISCO INERENTE A QUALQUERNEGÓCIO JURÍDICO, SEM, CONTUDO, CONSTITUIR DANO MORALPASSÍVEL DE RESSARCIMENTO, NO CASO EM EXAME, JUSTIFICA-SE OACOLHIMENTO DE TAL POSTULAÇÃO. MANUTENÇÃO DO QUANTUMFIXADO NA SENTENÇA.
+ENVOLVENDO A RELAÇÃO JURÍDICA RESPONSABILIDADEEXTRACONTRATUAL, O TERMO INICIAL DOS JUROS DE MORA DEVEMINCIDIR A CONTAR DO EVENTO DANOSO, NOS TERMOS DA SÚMULA54, DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+EM RELAÇÃO À CORREÇÃO MONETÁRIA, INCIDE DESDE A DATA DOARBITRAMENTO DA VERBA INDENIZATÓRIA. NEGARAM PROVIMENTO À APELAÇÃO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a agravante aponta violação dos arts. 206, § 3º, V, 944 e 884 do Código Civil e 373 e 927 do CPC.
+Sustenta que a pretensão indenizatória encontra-se prescrita e que descabe a inversão do ônus da prova. Defende a inexistência dos requisitos configuradores dos danos materiais e a exorbitância do valor fixado a título de indenização por danos morais.
+Requer o provimento do recurso para que seja reconhecida a prescrição ou, alternativamente, para que seja afastada a obrigação de indenizar e revisado o quantum indenizatório.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Mediante análise dos autos, verifica-se que a decisão que inadmitiu o recurso especial adotou como fundamentos a incidência das Súmulas n. 7 e 83 do STJ (fls. 1.573-1.577).
+Entretanto, a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar os óbice sumulares supramencionados, restringindo-se a reiterar, ipsis litteris , as razões do recurso especial.
+Com efeito, não indicou, de forma concreta e específica, circunstâncias que afastassem, para a verificação das violações indicadas, a necessidade de reanálise de elementos probatórios considerados para a resolução da controvérsia.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.
+Ressalte-se que, para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Segundo entendimento desta Corte, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Ressalte-se que nenhuma das alegações apresentadas no agravo em recurso especial constitui impugnação específica da aplicação da Súmula n. 83, pois, segundo o entendimento deste Tribunal, exige-se a efetiva demonstração de que os julgados apontados na decisão de inadmissão do recurso especial foram superados pela jurisprudência do STJ ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula. A propósito: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no AREsp n. 1.475.222/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2019, DJe de 30/10/2019.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR , em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada. "
+Ante o exposto, não conheço do agravo em recurso especial.
+Por fim, nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da agravante, observados os limites percentuais previstos no § 2º do referido artigo.
+Publique-se. Intimem-se.
+ EMENTA
