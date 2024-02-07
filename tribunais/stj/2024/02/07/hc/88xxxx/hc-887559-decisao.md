@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Edmir Kneipp Neto, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO proferido no julgamento do HC n. 0050998-64.2023.8.19.0000.
+Consta dos autos que os dois corréus foram despronunciados na resolução do Recurso em Sentido Estrito n. 0006231-14.2020.8.19.0042 e o paciente protocolou mandamus na origem buscando a extensão dos efeitos desse acórdão, ao argumento de que se encontra na mesma situação fática.
+O remédio constitucional não foi conhecido pela Corte Estadual, por aresto assim ementado:
+"AGRAVO INTERNONO HABEAS CORPUS -DECISÃO MONOCRÁTICA QUE REJEITOU O PEDIDO LIMINAR - HABEAS CORPUS OBJETIVANDO A EXTENSÃO DOS EFEITOS DA DECISÃO COLEGIADA DESTA COLENDA CÂMARA CRIMINAL QUE AO JULGAR O RECURSO EM SENTIDO ESTRITO INTERPOSTO PELOS CORRÉUS CARLOS VINICIUS E OLDAIR, OS DESPRONUNCIOU; SUSTENTANDO MESMA SITUAÇÃO FÁTICO-JURÍDICA DO PACIENTE QUE NÃO INTERPÔS O RECURSO CABÍVEL - INSURGÊNCIA FRENTE À DECISÃO DE PRONÚNCIA QUE POSSUI IMPUGNAÇÃO PROCESSUAL PRÓPRIA PREVISTA EM LEI - ANÁLISE DA PRESENÇA DE INDÍCIOS DE AUTORIA E MATERIALIDADE QUE NECESSITA DE REVOLVIMENTO FÁTICO-PROBATÓRIO A APURAR A CONDUTA DO PACIENTE, O QUE É VEDADO NA VIA ESTREITA DO WRIT; RAZÃO PELA QUAL A LIMINAR FOI INDEFERIDA, SENDO MANTIDA - ENTENDIMENTO CONSOLIDADO DO C. STJ NO SENTIDO DE QUE NÃO CABE HABEAS CORPUS COMO SUBSTITUTIVO DO RECURSO LEGALMENTE PREVISTO PARA A HIPÓTESE - NÃO SENDO VERIFICADA A PRESENÇA DE TERATOLOGIA, OU MANIFESTA ILEGALIDADE, A SER SANADA, QUESTIONANDO O IMPETRANTE EM REALIDADE, A JUSTIÇA DA DECISÃO, INSURGÊNCIA, A SER DEDUZIDA PELA VIA PROCESSUAL CORRETA, HAVENDO INSTRUMENTO PROCESSUAL CORRETO, A OBJETIVAR A REFORMA DE UMA DECISÃO, DEVE SER AQUELE UTILIZADO; CONDUZINDO À EXTINÇÃO DO FEITO SEM EXAME DO MÉRITO.
+À UNANIMIDADE, FOI JULGADO EXTINTO SEM A ANÁLISE DO MÉRITO." (fls. 47/48)
+A impetrante busca agora que se determine ao Sodalício fluminense que analise o writ lá impetrado, com o fito de despronunciar o paciente como foram os corréus.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O Sodalício de origem deixou de conhecer do habeas corpus lá impetrado, asseverando a existência de recurso próprio que deveria ter sido manejado pela defesa para impugnar a pronúncia.
+Todavia, verifica-se que esse remédio deve ser conhecido para a análise acerca da existência ou não de flagrante ilegalidade, consoante entendimento jurisprudencial do Supremo Tribunal Federal e deste Superior Tribunal de Justiça.
+A Corte local deve apreciar se o paciente encontra-se na mesma situação fática dos dois corréus despronunciados, com a finalidade, se for o caso, de conceder o efeito extensivo, para também efetivar a sua despronuncia.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para determinar que o Tribunal de Justiça do Estado do Rio de Janeiro aprecie até o mês de março do corrente ano, por decisum colegiado , o HC n. 0050998-64.2023.8.19.0000, verificando a ocorrência ou não de flagrante ilegalidade a justificar a concessão da ordem, de ofício.
+Publique-se.
+Intimem-se.
+EMENTA
