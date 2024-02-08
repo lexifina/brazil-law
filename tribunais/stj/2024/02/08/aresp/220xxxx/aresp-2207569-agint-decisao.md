@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ITAÚ SEGUROS S.A. contra decisão monocrática da Presidência do STJ que não conheceu do recurso especial em razão de sua intempestividade (fls. 376-377).
+Seguiu-se com o manejo, por parte da agravante, de pedido de reconsideração, o qual não f oi conhecido, visto a impossibilidade de seu eventual recebimento como agravo interno, porquanto não observado o prazo legal de 15 dias úteis para sua interposição. Vejamos (fl. 424):
+Cuida-se de pedido de reconsideração, apresentado por ITAU SEGUROS S/A, contra a decisão de fls. 376/377, que não conheceu do recurso.
+É, no essencial, o relatório. Decido.
+Nos termos da jurisprudência desta Corte Superior, o pedido de reconsideração pode ser recebido como agravo interno, em consonância com a aplicação do princípio da fungibilidade recursal, desde que apresentado no prazo legalmente previsto.
+No caso, a intimação da decisão que não conheceu do recurso se deu em 28/10/2022 (fl. 378), e o presente pedido foi apresentado em 25/11/2022 (fl. 380).
+Assim, quando da apresentação da petição de reconsideração a decisão impugnada já havia transitado em julgado, ou seja, já havia transcorrido o prazo de 15 (quinze) dias úteis para a interposição do agravo interno, nos termos do art. 1.003, § 5.º, do Código de Processo Civil.
+Ante o exposto, não conheço do pedido de reconsideração.
+Nas razões do recurso interno, a agravante aduz que seu pedido de reconsideração fora tempestivamente interposto, olvidando-se a Presidência do STJ de que, em razão do jogo do Brasil na Copa do Mundo de 2022 ter ocorrido no dia 24/11/2022, normativo do próprio STJ teria adiado o prazo para o primeiro dia útil seguinte.
+Reitera, na mesma peça, a alegação de tempestividade de seu recurso especial.
+Pugna, por fim, pela reconsideração.
+A agravada apresentou contrarrazões (fls. 18-26 - expediente avulso).
+É, no essencial, o relatório.
+Da detida análise dos autos, assiste razão à agravante quanto à tempestividade de seu pedido de reconsideração, visto que a decisão que decretou a intempestividade do recurso especial foi publicada no dia 28/10/2022, iniciando-se o prazo de 15 dias aptos ao recebimento da reconsideração como agravo interno em 3/11/2022 e findando em 24/11/2022.
+Ocorre que a Portaria STJ/GDG n. 843/22 estabeleceu que o expediente do STJ no dia 24/11/2022, em razão do jogo da seleção brasileira de futebol, seria de 8h às 14h e que "A contagem dos prazos processuais observará os arts. 219 e 224, § 1º, do Código de Processo Civil", de modo que o prazo findo de 24/11/2022 foi prorrogado para 25/11/2022, data da interposição do pedido de reconsideração e que evidencia, portanto, sua tempestividade.
+Por seu turno, o pedido de reconsideração suscita a tempestividade do recurso especial, pretensão que encontra provimento.
+Com efeito, no julgamento dos EAREsp n. 1.927.268/RJ, a Corte Especial do Superior Tribunal de Justiça (STJ) considerou válida, para efeito de comprovação de feriado local no ato de interposição do recurso, a apresentação de calendário judicial obtido nas páginas oficiais dos tribunais, como ocorrido no presente caso (fls. 178-180).
+Eis a ementa do julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. JUNTADA DE CALENDÁRIO JUDICIAL. DISPONIBILIZAÇÃO NO SITE DO TRIBUNAL DE ORIGEM. IDONEIDADE. CARÁTER OFICIAL. PRECEDENTE DO STF EM MANDADO DE SEGURANÇA. ADEQUAÇÃO DA JURISPRUDÊNCIA DO STJ. EMBARGOS PROVIDOS.
+1. O eg. Supremo Tribunal Federal, reformando acórdão deste Tribunal Superior no julgamento do MS 23.896/AM, reconheceu a idoneidade do calendário judicial do Tribunal de origem, divulgado no site oficial na internet e juntado aos autos pela parte, como meio de comprovação da tempestividade recursal (RMS 36.114/AM, Primeira Turma, Rel. Min. MARCO AURÉLIO; Julgamento: 22/10/2019; Publicação: 12/12/2019).
+2. À luz da Lei 11.419/2006, que dispõe sobre a informatização do processo judicial, as informações processuais disponibilizadas por meio da internet, na página eletrônica de Tribunal de Justiça ou de Tribunal Regional Federal, ostentam natureza oficial, gerando para as partes que as consultam a presunção de correção e confiabilidade.
+Desse modo, uma vez lançada a informação, no calendário judicial, disponibilizado pelo site do Tribunal de origem, da existência de suspensão local de prazo, deve ser considerada idônea a juntada desse documento pela parte para fins de comprovação do feriado local.
+3. Embargos de divergência providos, reconhecendo-se a tempestividade do recurso especial, com o consequente retorno dos autos à eg. Segunda Turma para apreciação do recurso como entender de direito.
+(EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, DJe de 15/5/2023.)
+A documento em comento evidencia que, entre a data da publicação do acordão recorrido (4/4/2022) e a interposição do apelo nobre (2/5/2022), diversos dias (5, 6, 7, 8, 11, 12, 25, 26, 27 e 28 de abril de 2022) tiveram os prazos suspensos em razão da indisponibilidade do sistema, outros por ser ponto facultativo e feriado (14, 15, 20, 21 e 22 de abril de 2022).
+No caso dos autos, o início do prazo recursal efetivou-se, concretamente, em 13/4/2022 e finalizou em 10/5/2022. Interposto o recurso especial em 2/5/2022, inconteste sua tempestividade.
+Assim, reconsiderada a decisão que não conheceu do recurso especial, e atendidos os pressupostos de admissibilidade do agravo, passo ao exame do apelo nobre.
+E, da detida análise dos autos, merece guarida a alegação de afronta ao art. 1.022 do CPC.
+Consoante se infere dos autos, o recorrente manejou agravo de instrumento contra decisão do juízo que, rejeitando impugnação manejada pela entidade securitária, fixou o "valor do crédito exequendo em R$ 537.500,00, atualizado monetariamente" (fl. 78).
+Ao julgar o agravo de instrumento, o Tribunal de origem manteve o entendimento de piso de que o valor apurado era devido, pois "a multa cominada no caso concreto, tendo em vista a desídia do agravante no cumprimento da decisão judicial, ou seja, 07 anos, mostra-se razoável e proporcional à obrigação a ser cumprida e ao bem jurídico tutelado" (fl. 81).
+Ocorre que as razões do agravo de instrumento expressamente delinearam a peculiaridade de que, culminada pena diária no valor de R$ 500,00 (quinhentos reais), a recorrido promoveu a execução de três execuções distintas.
+A primeira no valor de R$ 39.500,00 referente ao descumprimento de retirada do veículo da residência da recorrida. A segunda no valor de R$ 136.000,00 em razão da reiteração de cobrança, por ajuizar ação de reintegração de posse e por negativação do nome, valores que teriam sido minorados para R$ 50.000,00 em razão do provimento de agravo de instrumento, porém não alcançando efetividade, visto que o Juízo autorizou o levantamento de valor bloqueado, o que culminou no recebimento de valor a maior (supostos R$ 98.989,45). A terceira relativa aos valores ora em discussão, onde se aduz, essencialmente, o enriquecimento sem causa da recorrida.
+Com efeito, observa-se que o Tribunal de origem, ao rejeitar os embargos de declaração e, embora aduzido, não estava obrigada a se manifestar sobre o dever do credor de mitigar seu prejuízo, ante a patente inovação recursal, deixou de analisar a alegação oportunamente suscitada pelo recorrente quant o ao levantamento a maior de valor no que tange à segunda execução.
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, inciso II, do CPC, e em face da questão suscitada, tenho como necessário o debate acerca de tal ponto .
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, dou provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento da tese omissa.
+Publique-se. Intimem-se.
+ EMENTA
