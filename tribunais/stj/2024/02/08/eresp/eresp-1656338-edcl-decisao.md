@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Eco Poli Engenharia e Incorporações Ltda. contra decisão de fls. 799-804, mediante a qual indeferi liminarmente os embargos de divergência por ela opostos, por considerar ausente a similitude fática entre os acórdãos embargado e paradigma e incidente a Súmula 168/STJ.
+Sustenta "a embargante que a decisão embargada não se manifestou sobre a decisão de mérito do SUPREMO TRIBUNAL FEDERAL no RE 695911, Rel. Min. DIAS TOFFOLI, Tema 492 da repercussão geral, que declarou que é inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17" e, ainda, sobre o disposto no artigo 5º, inciso XX, da Constituição Federal.
+Impugnação da embargada às fls. 815-822.
+Assim delimitada a questão, observo que não têm pertinência alguma as alegações da embargante.
+Isso se diz porque, conforme demonstrei na decisão embargada, a matéria examinada nos presentes autos "é totalmente distinta" da exigência de taxas por associações de moradores por não associados que a ela não aderiram e tem como causa de pedir contrato de aquisição de propriedade loteada e instrumento particular de loteamento, à luz do contido no artigo 29 da Lei nº 6.766/1979, de modo que a pretensão de cobrança pelos serviços prestados tem como fundamento instrumento público ou particular do contrato padrão de loteamento, razão pela qual é expressa a adesão do comprador ao encargo instituído.
+Reproduzi, ainda, diversas ementas de acórdãos que examinaram hipóteses absolutamente idênticas em ações e cobrança ajuizadas pela ora embargada, Administradora Jardim Acapulco Ltda., entre as quais a proferida nos Edcl no AgInt no RESP 1.422.605/SP, na qual foi expressamente afastada a incidência da tese firmada no RE 695.911/SP (Tema 492), com repercussão geral reconhecida, ora suscitada pela embargante, como se observa no item 4, assim redigida:
+3. Afastamento, na hipótese, da incidência da tese firmada, sob o rito da repercussão geral, no RE 695.911/SP (tema 492), estando o não associado e a administradora vinculados contratualmente.
+Diante disso, a pretensão da embargante não é a correção dos vícios referidos no art. 1.022 do CPC/2015, mas a modificação da conclusão da decisão embargada, o que é incompatível com a natureza dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
