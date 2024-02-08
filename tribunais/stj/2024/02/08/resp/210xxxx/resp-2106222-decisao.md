@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO RIBEIRÃO PRETO S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido em apelação e assim ementado (fl. 237):
+APELAÇÃO CÍVEL. COMPROMISSO DE COMPRA E VENDA COM PACTO ADJETO DE ALIENAÇÃOFIDUCIÁRIA. RESCISÃO. Sentença de procedência dos pedidos iniciais para: i) declarar a resolução do contrato; ii) condenar os réus, solidariamente, à imediata restituição aos autores dos valores pagos (R$ 90.657,07); iii) condenaras rés PDG e GOLD SENEGAL ao pagamento de lucros cessantes em favor dos autores, estipulados em 0,5% do valor atualizado do contrato. Insurgência do banco BRP. LEGITIMIDADE PASSIVA. Apelante que é parte legítima para figurar no polo passivo da ação, na condição de cessionário dos direitos creditórios. Pedido inicial que atinge diretamente a esfera de direitos e obrigações do apelante, ainda que não tenha sido o causador da frustração do objeto contratado. MÉRITO. Inconformismo acolhido em parte. Afastamento da responsabilidade solidária de devolução de todos os valores pagos pelos autores, em razão da ausência de nexo causal entre o descumprimento contratual da construtora e os danos suportados pelos autores. Responsabilidade do corréu Banco BRP limitada à devolução dos valores por ele recebidos diretamente(parcelas pagas a partir de dezembro de 2017). Precedentes. Alegação de que os autores não poderiam exigir o cumprimento do contrato porque estariam em mora que não prospera. Mora das vendedoras incontroversa, a partir do atraso na entrega da obra e da entrega de unidades sem a infraestrutura prometida. Aplicação ao caso do CDC e das Súmulas 2 desta Corte e 543 do C. STJ. Inaplicabilidade das disposições da Lei nº 9.514/97, vez que a resolução contratual está ocorrendo em razão do inadimplemento da vendedora e não dos adquirentes. Precedentes. Sentença parcialmente reformada. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fl. 265).
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes artigos:
+a) 28 da Lei n. 9.514/1997, 22, § 1º, da Lei n. 10.931/2004, 31-A, § 12, da Lei n. 4.591/1964 e 295 do CC, suscitando sua ilegitimidade passiva; e
+b) 22 e 27 da Lei n. 9.514/1997 e 67-A, § 14, da Lei n. 4.591/1964, defendendo a aplicação da Lei n. 9.514/1997 à resolução do contrato.
+Narra que, por intermédio de cessão de créditos imobiliários, ocorreu o seguinte (fl. 275):
+ ..  antecipou recursos decorrentes de contratos de compra e venda de imóvel com pacto adjeto de alienação fiduciária às construtoras PDG e Gold Senegal, que por sua vez, como forma de pagamento do valor que receberam, cederam os créditos que detinham em razão da celebração de tais contratos - dentre eles, os créditos do contrato dos Recorridos -, bem como a garantia fiduciária objeto destas avenças a aquisição de um imóvel pela construtora com pagamento financiado, sendo a instituição financeira recebedora do crédito.
+Aduz que, "na qualidade de cessionário do crédito, não detém as obrigações vinculadas ao contrato que originou o crédito" (fl. 277), de modo que não tem legitimidade para responder pela rescisão contratual de compra e venda do imóvel.
+Sustenta, subsidiariamente, a aplicação da Lei n. 9.514/1997 ao caso, em detrimento do Código de Defesa do Consumidor, tendo em vista o aperfeiçoamento e a conclusão da compra e venda havida com pacto de alienação fiduciária.
+Argumenta ainda que o julgado recorrido diverge do entendimento do STJ de que "a instituição financeira não é parte legítima para responder no polo passivo da demanda quando figurar como mero agente financiador" (fl. 288).
+Requer o conhecimento e o provimento do recurso para que seja reconhecida sua ilegitimidade passiva; subsidiariamente, para que seja aplicado o regramento específico contido na Lei n. 9.514/1997 à devolução de valores.
+As contrarrazões foram apresentadas às fls. 344-350.
+O recurso especial foi admitido na origem (fls. 351-352).
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls. 241-246):
+Conforme bem consignou a r. sentença, pela própria narrativa do banco apelante, verifica-se que, a partir da cessão dos direitos creditórios havida com a construtora, passou à gestão direta dos recebíveis imobiliários. Tanto é assim que passou à cobrança dos valores pagos pelos adquirentes, conforme o "Demonstrativo de Operação de Crédito" e boletos carreados aos autos (fls.27/29; 63/65).
+Por conseguinte, a pretensão formulada na inicial de rescisão do contrato e devolução dos valores pagos atinge diretamente a esfera de direitos e obrigações do apelante, tornando sua inclusão no polo passivo da lide indispensável para a devolução das partes ao "status quo" anterior, ainda que não tenha sido o causador da frustração do objeto contratado.
+Portanto, a decisão recorrida não comporta reforma no que diz respeito à preliminar ora invocada.
+ ..
+A insurgência recursal prospera em parte, apenas para limitar a condenação solidária do banco réu de restituição dos valores pagos pelos autores à quantia que recebeu diretamente.
+Isso porque não há nexo causal entre a atuação do banco cessionário BRP e a frustração do objeto do compromisso de compra e venda celebrado entre os autores e as corrés PDG e GOLD SENEGAL.
+Conforme expresso no contrato firmado entre o apelante BRP e a corré GOLD SENEGAL (fls. 118/119):
+ ..
+Por conta disso, não há que se falarem responsabilização solidária do agente financeiro pelos valores pagos pelo autor diretamente às vendedoras PDG e GOLD SENEGAL, mas somente aos valores que o banco efetivamente recebeu dos autores, conforme se verifica do "Demonstrativo de Operação de Crédito" emitido pelo BRP (parcelas pagas a partir de dezembro de 2017 - fls. 59/61).
+Nesse sentido, apesar da sentença ter consignado que o banco cessionário não responde pelo atraso na entrega da obra, necessária a ressalva expressa no sentido de que a condenação solidária à restituição dos valores pagos deve ser somente da quantia recebida.
+ ..
+Observa-se, ademais, que não houve condenação solidária do apelante ao pagamento de lucros cessantes, sendo portanto cabível apenas a ressalva da limitação da condenação solidária do apelante à restituição dos valores pagos pelos autores.
+ ..
+Relativamente à alegação de que os autores não poderiam exigir o cumprimento da obrigação porque estariam inadimplentes, não é o que se verifica dos autos.
+Conforme o mencionado Demonstrativo de Operação de Crédito emitido pelo BRP, os autores estavam adimplentes no momento em que ajuizaram a demanda (novembro de 2020), sendo que houve a concessão de liminar para suspensão das parcelas vincendas (fls. 80). E, ainda que se pudesse cogitar de inadimplemento por parte dos autores, este inadimplemento seria superveniente à mora das rés, conforme também observou a r. sentença.
+No mais, ao contrário do que alega o apelante, a relação entre as partes é evidentemente de consumo, enquadrando-se as requeridas suficientemente no conceito de fornecedoras, ao comercializarem a unidade autônoma, nos termos do art. 3º do CDC, ao passo que os autores também se enquadram na definição de consumidores do art. 2º do mesmo diploma, sendo destinatários final dobem.
+As disposições da Lei nº 9.514/97, de outro lado, não são aplicáveis à presente demanda, tendo em vista que fundada na inadimplência contratual das vendedoras.
+Em relação à violação dos arts. 28 da Lei n. 9.514/1997, 22, § 1º, da Lei n. 10.931/2004, 31-A, § 12, da Lei n. 4.591/1964 e 295 do CC, considerando os trechos do acórdão ora transcritos, verifica-se que o Tribunal local concluiu que o recorrente é parte legítima para responder pelos valores que efetivamente recebeu diretamente dos compradores, afastando o reconhecimento de responsabilidade solidária.
+Esses fundamentos do acórdão recorrido, suficientes, por si sós, para manter a conclusão do julgado, não foram objeto de impugnação específica nas razões do recurso especial, incidindo na espécie o óbice da Súmula n. 283 do STF por analogia.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL .. . DOCUMENTO APRESENTADO. INVÁLIDO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+ ..
+3. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.202.183/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2018, DJe de 23/10/2018.)
+Relativamente à violação dos arts. 22 e 27 da Lei n. 9.514/1997 e 67-A, § 14, da Lei n. 4.591/1964, o entendimento adotado no acórdão recorrido encontra amparo na jurisprudência desta Corte de que a existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei n. 9.514/1997 na hipótese de inadimplemento do vendedor/credor fiduciário, como no caso dos autos.
+A corroborar tal entendimento, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO ECURSO ESPECIAL. PROCESSUAL CIVIL. IMÓVEL. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. ESCRITURA PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESCISÃO. INADIMPLÊNCIA. VENDEDOR. CREDOR FIDUCIÁRIO. DIREITO À RESOLUÇÃO. ESTADO ANTERIOR. RETORNO. ARTS. 26 E 27 DA LEI Nº 9.514/1997. INAPLICABILIDADE.
+ ..
+3. O Superior Tribunal de Justiça firmou entendimento no sentido de que a existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário.
+4. Agravo interno não provido. (AgInt no REsp n. 1.936.848/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/11/2021, DJe de 6/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. INADIMPLEMENTO DA CONSTRUTORA. PROCEDIMENTO DE RESOLUÇÃO PREVISTO NA LEI 9.514/97. INAPLICABILIDADE. ERRO DA COMPRADORA. MÁ-FÉ DA VENDEDORA. REVISÃO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts.26 e 27 da Lei 9.514/97 para a hipótese de inadimplemento do vendedor/credor fiduciário, porquanto restritos ao inadimplemento do devedor-fiduciante. Precedentes.
+ ..
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.297.266/AP, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Aplica-se ao caso a Súmula n. 83 do STJ.
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a tese defendida já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nesse sentido: AgInt no AREsp n. 1.811.500/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2021, DJe de 4/11/2021.
+Ante o exposto, não conheço do recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
