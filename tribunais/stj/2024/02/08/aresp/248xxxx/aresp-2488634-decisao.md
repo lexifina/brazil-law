@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por DILSON DEL CIMA DE ALVARENGA MENEZES e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO DE VIZINHANÇA. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C INDENIZATÓRIA POR DANOS MORAIS. RECURSO DOS AUTORES QUE NÃO SE CONHECE,POR INTEMPESTIVO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 224 e 231, V, do CPC, no que concerne à necessidade de reconhecimento da tempestividade da apelação, tendo em vista o equívoco na contagem do prazo que deveria ter considerado o dia 24/8/2022 como termo a quo prazal, trazendo a seguinte argumentação:
+(iii) no caso de citação ou intimação eletrônica, que é a hipótese, o início do prazo será o dia seguinte à consulta ao teor do ato, enquanto o início da contagem do prazo para a interposição ou não do recurso deverá excluir o dia do começo (o dia seguinte à consulta ao teor da citação ou intimação eletrônica) e incluir o dia do vencimento.
+No presente caso, a parte autora recorrente foi intimada tacitamente pelo portal eletrônico em 22/8/2022 (segunda-feira), portanto o começo do prazo para interposição da apelação ocorreu em 23/8/2022 (terça-feira) e o início da contagem do prazo no primeiro dia útil seguinte, qual seja, 24/8/2022 (quarta-feira), além disso não houve expediente forense no dia 7/9/2022 (quarta-feira) por ser feriado nacional (Independência do Brasil).
+ ..
+Assim, considerando que a apelação foi interposta em 14/9/2022 (quarta-feira) (TJRJ, fls. 736-746), último dia do prazo processual, não há que se falar em intempestividade.
+Nesse sentido, o acórdão deve ser reformado, por violar os arts. 224, caput, e 231, V, do CPC, para reconhecer a tempestividade da apelação e determinar o retorno dos autos ao Tribunal de origem a fim de que prossiga no julgamento do recurso (fls. 876-877).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Portanto, no caso dos autos, como corretamente certificado pela serventia, o advogado tomou ciência da sentença pelo portal eletrônico em 22/08/2022, conforme certidão no index 734. Logo, o início de prazo para o recurso de apelação se deu no dia seguinte, em 23/08/2022. No dia 07/09/2022, a contagem do prazo foi interrompida, prosseguindo a partir do dia 08/09/2022, com término em 13/09/2022.
+Como o presente recurso só foi protocolado em 14/09/2022, é manifestamente intempestivo, não podendo ser conhecido, na forma do artigo 932, III, do Código de Processo Civil (fls. 806-807).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
