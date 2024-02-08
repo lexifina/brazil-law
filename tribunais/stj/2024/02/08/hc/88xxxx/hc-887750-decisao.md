@@ -1,0 +1,15 @@
+DECISÃO
+O paciente alega sofrer coação ilegal ante decisão de Desembargador que não conheceu do HC n. 2325536-03.2023.8.26.0000, que versava sobre o pedido de indulto com base no Decreto Presidencial n. 11.302/2022,
+Decido.
+A "competência do STJ para examinar habeas corpus  ..  implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. No caso concreto, a defesa se voltou contra decisão monocrática da Corte de origem, sem demonstrar a devida interposição de agravo regimental" (AgRg no HC n. 865.622/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023).
+Não está inaugurada a atribuição desta Corte para conhecimento deste habeas corpus impetrado contra decisão monocrática de Desembargador, sem exaurimento da jurisdição ordinária. O ato judicial é impugnável por agravo regimental.
+Deveras: "a provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior" (AgRg no HC n. 423.705/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 5/4/2018, grifei).
+Cito, no mesmo sentido, julgados do Supremo Tribunal Federal:
+ ..  Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux). Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao STF examinar a questão de direito implicada na impetração. Precedentes  ..  (RHC n. 169214 ED, Rel. Ministro Roberto Barroso, 1ª T., Dje 19/9/2019, destaquei).
+ ..  Agravo regimental no recurso ordinário no habeas corpus. 2. Supressão de instância. Ausência de agravo regimental no Superior Tribunal de Justiça. 3. Habeas corpus manifestamente inadmissível, porquanto o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça  ..
+(RHC 234027 AgR, Relator(a): GILMAR MENDES, Segunda Turma, DJe 24-01-2024).
+A "não interposição de agravo regimental no Superior Tribunal de Justiça ou a ausência da análise da decisão monocrática pelo colegiado daquela Corte impedem o conhecimento do habeas corpus pelo Supremo Tribunal Federal, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa" (HC 235103 ED-AgR, Relator(a): CRISTIANO ZANIN, Primeira Turma, DJe 01-02-2024).
+O Desembargador não avançou para o exame de mérito da controvérsia. A ausência de apreciação do indulto impede a constatação, de ofício, de ilegalidade patente na decisão de segundo grau.
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
+EMENTA
