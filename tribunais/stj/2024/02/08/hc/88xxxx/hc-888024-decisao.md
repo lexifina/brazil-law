@@ -1,0 +1,31 @@
+DECISÃO
+DENER WILIAN LINGIARDI alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500307-59.2020.8.26.0621).
+Consta dos autos que o paciente foi condenado a 6 anos, 9 meses e 20 dias de reclusão mais multa, no regime fechado, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 e a 2 anos e 10 meses de reclusão mais multa, como incurso no art. 14 da Lei n. 10.826/2003.
+A defesa pretende a absolvição quanto ao delito de tráfico de drogas, com base no princípio do "in dubio pro reo" ante a falta de provas, em relação ao delito de porte de arma, por ausência de potencialidade lesiva da conduta. De modo subsidiário, pugna para que seja aplicada a minorante do tráfico.
+Decido.
+I. Absolvição - tráfico de drogas
+O Juiz sentenciante - em decisão chancelada pela Corte estadual -condenou o réu pela prática do crime de tráfico de drogas, consoante os seguintes fundamentos (fls. 34-35, grifei):
+No tocante aos Réus DENER e JOÃO CARLOS.
+O crime do artigo 33 da Lei 11.343/06 é classificado como tipo misto alternativo, tendo em vista que basta a prática de um dois diversos núcleos previstos na capitulação do delito para que este seja considerado consumado, e no caso dos autos, os Réus "guardavam", "transportavam", e "traziam consigo", dentro outros verbos, caracterizando a tipicidade exigida pelos princípios do direito penal.
+Nota-se, portanto, que a traficância restou devidamente caracterizada, já que, conforme lição de Luiz Flávio Gomes, "Para se concluir pela prática do crime de tráfico, não basta, em princípio, a quantidade (ou qualidade) da droga apreendida. Deve-se atentar, ainda, para outros fatores, tais como o local e as condições em que se desenvolveu a ação criminosa, as circunstâncias da prisão, a conduta, a qualificação e os antecedentes do agente (art. 52, I)" (In EL TASSE, Adel et. al. Legislação Criminal Especial. Vl. 6. São Paulo: Editora RT, 2009, p. 197).
+O que se depreende do conjunto probatório e prova produzida sob a garantia do contraditório judicial é, neste aspecto, harmônica com os elementos informativos colhidos na fase inquisitória, os réus tinham em sua posse os entorpecentes descritos na denúncia, sem autorização e em desacordo com determinação legal e regulamentar, sabendo da sua destinação ao tráfico de entorpecentes.
+Muitos elementos conduzem a tal conclusão, mormente a quantidade e variedade de drogas, todas embaladas em pequenas porções e quantia em dinheiro trocado. Tudo que foi apreendido caracteriza de forma inequívoca o objetivo mercantil dos Réus em relação às drogas.
+Ademais, o crime de tráfico possui uma complexa relação de trabalho entre os que participam da empreitada criminosa. Isso porque, para driblar o aparato estatal, bem como garantir o comércio de forme minimamente eficaz, é preciso que cada pessoa envolvida faça seu trabalho para o fim comum: o tráfico. Assim é que, comumente, uma pessoa vende, outra transporta, outra fiscaliza, outra cobra, outra anota e infinitas outras funções que existem a depender do tamanho da organização.
+Com razão o Ministério Público, em suas alegações finais (fls. 476) ao afirmar que: "Inicialmente, no que refere às fragilidades supra, pondero, em um primeiro momento, muito embora levantada pelos acusados Dener e João Carlos a hipótese de injusta postura, atuação e condução por parte dos policiais militares que participaram da ocorrência, que disso não fizeram qualquer prova.
+Pelo contrário, limitaram-se a aduzir de forma vaga e superficial a respeito. Bem assim, vale mencionar que o conteúdo de suas declarações nem mesmo foram corroboradas/ratificadas por aquelas prestadas pela comparsa (que mantinha relacionamento amoroso com Dener), quanto mais pelo adolescente João Marcelo que, da mesma forma, numa notória manobra na tentativa de esquivar os demais da responsabilidade inerente, assumiu para si a autoria do tráfico".
+Pelo trecho anteriormente transcrito e, sobretudo, pela leitura atenta do acórdão recorrido, verifico que a instância ordinária, depois de minuciosa análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos a ensejar a condenação do acusado pelo crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei n. 11.343/2006).
+Para desconstituir a conclusão alcançada pelas instâncias ordinárias -como pretende a defesa -, seria necessário, nesta oportunidade, realizar revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via estreita do habeas corpus.
+As duas Turmas que compõem a Terceira Seção desta Corte Superior entendem não ser cabível, no bojo do writ, o reexame aprofundado de fatos e provas para acolher o pedido de absolvição. Nesse sentido, cito o julgado a seguir:
+ ..
+2. A via estreita do habeas corpus não se presta ao revolvimento da matéria fática, como ocorre quando a decisão é atacada sob alegações de má apreciação das provas e de desclassificação da conduta, devendo a coação ser manifestamente ilegal.
+3. Estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, sendo primário o agente e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33 do Código Penal.
+4. Habeas corpus não conhecido, mas ordem concedida de ofício para fixar o regime inicialmente semiaberto para o cumprimento da pena reclusiva.
+(HC n. 270.011/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/4/2016)
+II. Posse de armas e aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas - supressão de instância
+Verifico que o acórdão apontado como ato coator não analisou as teses defensivas, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena
+de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
