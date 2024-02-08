@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por SCA-INDÚSTRIA DE MÓVEIS LTDA em face da decisão acostada às fls. 419-424 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 590-602 e-STJ, proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado:
+APELAÇÃO CÍVEL. EMPRESARIAL. CONSTITUCIONAL. PROCESSUAL CIVIL. PRELIMINARES REJEITADAS. AÇÃO CAUTELAR DE SUSTAÇÃO DE PROTESTO DE TÍTULO. LEI DE RECUPERAÇÃO JUDICIAL. FUNÇÃO SOCIAL DA EMPRESA. PRIMAZIA DA RESOLUÇÃO DO MÉRITO. RECURSO CONHECIDO E IMPROVIDO. 1. A sentença vergastada merece ser reformada, já que estão presentes os requisitos para que seja reconhecida a pretensão formulada na Ação Cautelar de Sustação de Protesto. Isso porque, no que tange ao fumus boni juris, este se revela evidente, na medida em que é de se notar que, justamente pelo fato de haver reconhecimento do débito por parte da Apelante, somado ao seu argumento de que o protesto lhe causará graves prejuízos, entendo que seu pleito deve ser acolhido. 2. O Direito pátrio hodierno preceitua que as empresas que se encontram em dificuldades financeiras podem se socorrer da Lei de Recuperação Judicial, em que será observada a função social da empresa. Isso significa que a recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores. promovendo, assim, a preservação da empresa e o estímulo à atividade econômica. 3. Também vislumbra-se o periculum in mora no caso concreto sub examine, já que os prejuízos causados pelo protesto em questão podem sangrar de forma definitiva a saúde financeira da Apelante, que precisa não ter títulos contra si protestados para celebrar outros negócios, obter certidões e contrair obrigações que lhe permitam, inclusive, melhorar sua condição de adimplemento junto ao mercado do qual faz parte. 4. Considerando, ainda, que a Ação Cautelar é mero meio preparatório para uma ação principal, certo é que a análise do mérito poderá ser efetuada com mais apuro pelo magistrado competente, fazendo valer o disposto no art.4.º, do CPC, que consagra o princípio da Primazia da Resolução do Mérito. 5. Nada obsta que, enquanto não se discute a questão de fundo, o protesto do título em questão possa ser sustado, a fim de não causar prejuízos à parte e a terceiros a ela de alguma forma vinculados.
+Opostos embargos declaratórios (fls. 337-340 e-STJ), não foram acolhidos, aplicando-se multa por serem considerados protelatórios (fls. 353-361 e-STJ).
+Nas razões de recurso especial (fls. 364-396 e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) arts. 11, 489, II, e § 1º e 1.022 do CPC/15; (ii) arts. 51 e 52 da Lei nº 11.101/2005 e dispositivos da Lei nº 5.474/68.
+Aduziu, em síntese, negativa de prestação jurisdicional, cometimento de error in judicando pelo Tribunal a quo e nulidade por falta de valoração da prova.
+Contrarrazões às fls. 401-410 e-STJ.
+Em juízo prévio de admissibilidade (fls. 419-424 e-STJ), a Corte de origem inadmitiu o apelo nobre por aplicação da Súmula 115/STJ, em virtude da ausência de assinatura do causídico no reclamo extraordinário.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), às fls. 427-433 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. A petição do recurso especial não foi firmada pelos causídicos que representam o insurgente.
+Neste ínterim, o agravante aduz não ter sido dada a oportunidade de regularizar tal situação. Contudo, pelo compulsar dos autos, constata-se que o Despacho de fls. 412-413 e-STJ determinou sua intimação (em 10/08/2021), bem como também houve intimação quanto a digitalização dos autos físicos (fls. 415-416 e-STJ), em 04/11/2021.
+Entretanto, não há nos autos manifestação da parte no sentido de sanar a irregularidade. A certidão de fl. 418 e-STJ, de 31/01/2022, atesta o não cumprimento do quanto determinado no Despacho de fls. 412-413 e-STJ.
+Assim, sendo apócrifo, o recurso é considerado inexistente, conforme entendimento deste STJ, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. ASSINATURA DO ADVOGADO. INEXISTÊNCIA.
+1. A jurisprudência desta Corte é pacífica no sentido de considerar inexistente o recurso apócrifo, por falta de pressuposto de admissibilidade, não sendo cabível a regularização processual nesta instância.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.125.213/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/10/2023, DJe de 17/10/2023.)
+Corroborando este entendimento: AgInt no REsp n. 1.685.339/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/11/2019, DJe de 21/11/2019; AgInt no AREsp n. 952.029/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/11/2016, DJe de 29/11/2016.
+Portanto, não deve ser conhecida a insurgência.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
