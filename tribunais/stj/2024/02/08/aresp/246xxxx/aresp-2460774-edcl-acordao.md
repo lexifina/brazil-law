@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182/STJ. OMISSÃO INEXISTENTE. MERA REDISCUSSÃO DA MATÉRIA. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP, situações jurídicas que não se fazem presentes.
+2. Na espécie, não se verifica omissão no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que a ausência de impugnação específica a pelo menos um dos fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte.
+3. Conforme a jurisprudência desta Corte, "nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa postule o pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 1795241/SP, rel. Min. Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe 15/4/2021).
+4. Não se prestam os embargos de declaração à rediscussão do julgado com o fim de modificar a sua conclusão.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 925):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NÃO ATACADO IDONEAMENTE (SÚMULA N. 83/STJ). INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. É inviável o agravo em recurso especial que deixa de impugnar todos os fundamentos da decisão que inadmitiu o apelo nobre, incidindo, na espécie, o teor da Súmula n. 182 do Superior Tribunal de Justiça.
+2. Para fins de superação do óbice da Súmula n. 83/STJ, caberia ao agravante demonstrar que a orientação jurisprudencial não se encontra pacificada, em razão da existência de entendimento em sentido diverso ou comprovando que os precedentes indicados no decisório agravado tratavam de situação diversa da dos autos, o que, no entanto, não ocorreu no presente caso.
+3. Agravo regimental desprovido.
+Sustenta o embargante haver omissão no acórdão, pois "entendemos que a decisão não adentrou ao núcleo nevrálgico da irresignação (omissão), sendo que fora atacado - em sua totalidade - a inaplicabilidade da súmula 182 desse Tribunal da Cidadania, bem como enfrentada, desde o Recurso Especial, as ofensas aos dispositivos de Lei Federal, inclusive colecionando jurisprudência das instâncias superiores" (fls. 934-935).
+Alega ainda que, "independente de eventual não enfrentamento, reconhecendo a ilegalidade das decisões anteriores, esse Tribunal poderia conceder ordem de habeas corpus de ofício" (fl. 935).
+Requer "que sejam conhecidos os presentes embargos, até mesmo para o fim de prequestionamento da matéria, bem como acolhidos, com efeito infringente, para que seja reformada a decisão que não proveu o presente Agravo Regimental" (fl. 936)
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182/STJ. OMISSÃO INEXISTENTE. MERA REDISCUSSÃO DA MATÉRIA. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP, situações jurídicas que não se fazem presentes.
+2. Na espécie, não se verifica omissão no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que a ausência de impugnação específica a pelo menos um dos fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte.
+3. Conforme a jurisprudência desta Corte, "nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa postule o pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 1795241/SP, rel. Min. Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe 15/4/2021).
+4. Não se prestam os embargos de declaração à rediscussão do julgado com o fim de modificar a sua conclusão.
+5. Embargos de declaração rejeitados.
+VOTO
+O acórdão embargado está assim fundamentado (fl. 928):
+A insurgência não merece prosperar.
+O Tribunal de origem não admitiu o recurso especial, considerando os óbices das Súmulas n. 83/STJ e 283/STF.
+Interposto agravo em recurso especial, a Presidência desta Corte dele não conheceu, com fundamento na Súmula n. 182/STJ, ao passo que a parte agravante deixou de impugnar especificamente a Súmula n. 83/STJ.
+Para fins de superação do óbice da Súmula n. 83/STJ, caberia ao agravante demonstrar que a orientação jurisprudencial não se encontra pacificada, em razão da existência de entendimento em sentido diverso ou comprovando que o precedente indicado na decisão de inadmissão do recurso especial tratava de situação diversa da dos autos, o que, no entanto, não ocorreu.
+Vale lembrar que ao recorrente incumbe demonstrar o equívoco da decisão contra a qual se insurge, não bastando a impugnação genérica de seus fundamentos, sendo imprescindível que contraponha todos os óbices por ela apontados de maneira específica e suficientemente evidenciada, a fim de demonstrar que não se revela acertada, no caso, a inadmissão recursal.
+Assim, é inviável o agravo em recurso especial que deixa de impugnar idoneamente todos os fundamentos da decisão que inadmitiu o apelo extremo, incidindo, na espécie, o teor da Súmula n. 182/STJ, conforme bem explanado na decisão agravada.
+A respeito, cito:
+ ..
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando no julgado houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há falar em omissão na decisão embargada, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que a ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o recurso especial (no caso, incidência da Súmula n. 83/STJ) impõe o não conhecimento do agravo em recurso especial, nos termos da Súmula n. 182/STJ.
+Destacou-se ainda que, para impugnar a incidência da Súmula n. 83/STJ, o agravante deve demonstrar que os precedentes indicados na decisão de inadmissão do recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial desta Corte sobre a questão impugnada, o que, conforme se verifica das razões recursais (fls. 832-842), não ocorreu no caso.
+Nas razões do agravo em recurso especial, embora a defesa até tenha colacionado um único precedente desta Corte acerca da alegada violação do art. 83 do Código de Processo Penal, o aresto (EDcl no AgRg no HC n. 612.636/RS, rel. Min. Jesuíno Rissato (Desembargador convocado do TJDFT), rel. p/ Acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/10/2021, DJe 3/11/2021), além de mais antigo que o precedente citado na decisão de inadmissibilidade do recurso especial, com ele está em harmonia (CC n. 193.005/MG, relatora Ministra Laurita Vaz, Terceira Seção, DJe 15.2.2023) , no sentido de que "A Súmula n. 235 do Superior Tribunal de Justiça dispõe que " a  conexão não determina a reunião dos processos, se um deles já foi julgado." Embora o Enunciado tenha origem em feitos de natureza cível, é pacífico o entendimento de que a sua orientação também é aplicável aos processos penais".
+De outro norte, conforme a jurisprudência desta Corte, "nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa postule o pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 1795241/SP, rel. Min. Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe 15/4/2021), como no caso.
+Não se prestam os embargos de declaração à rediscussão do julgado com o fim de modificar a sua conclusão.
+Assim, não havendo vício integrativo, rejeito os embargos de declaração.
+É o voto.
