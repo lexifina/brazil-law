@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interposto por EDGAR LUIZ DE SOUZA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS nos termos da seguinte ementa (fl. 262):
+EMENTA: CIVIL E PROCESSUAL CIVIL - AÇÃO DE MANUTENÇÃO DE POSSE - MEDIDA LIMINAR - POSSE - UTILIZAÇÃO DA ÁREA COMO RESERVA LEGAL - TURBAÇÃO - DEMONSTRAÇÃO - PRESENÇA DOS REQUISITOS LEGAIS - DEFERIMENTO
+- Na forma do art. 561 do CPC, para fins de deferimento da liminar de manutenção de posse, incumbe à parte autora comprovar a sua posse anterior, a turbação praticada pela parte requerida e a sua respectiva data.
+- Se, ainda na fase de cognição sumária, os documentos dos autos bastarem à segura conclusão da existência de posse da parte autora, que utiliza a área como reserva legal e da respectiva turbação cometida pelo réu, deve ser deferida a liminar possessória requerida na inicial, pois presente a probabilidade do direito aduzido.
+Rejeitados os embargos de declaração opostos (fls. 296-300).
+Nas razões do recurso especial (fls. 303-326), aponta a parte recorrente ofensa ao disposto nos arts. 373, I, e 561, I, II, III e IV, do Código de Processo Civil; 1.238 do Código Civil; assim como 30 e 31 da Lei do Estado de Minas Gerais n. 20.922/2013, sustentando que a área em litígio não é de reserva legal e que os recorridos não comprovaram a posse sobre a área. Por outro lado, afirma que está na posse do imóvel há mais de 20 anos.
+Oferecidas contrarrazões (fls. 335-356), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 358-363), o que ensejou a interposição do presente agravo (fls. 366-392).
+Apresentadas contraminutas do agravo (fls. 396-422).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido, cito: AgInt no AREsp n. 1.571.882/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/7/2020; AgInt no REsp n. 1.830.644/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/6/2020; AREsp n. 1.610.726/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/6/2020; AgInt no AREsp n. 1.621.446/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; AgInt no AREsp n. 1.571.937/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020.
+Ademais, conforme reiteradamente decidido no âmbito desta Corte Superior, a verificação, ou não, dos requisitos para a concessã o de liminar ou de tutela antecipada demanda, em regra, a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+A propósito, cito: AgInt no REsp n. 2.032.386/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/6/2023, DJe de 3/7/2023; AgInt no AREsp n. 2.242.933/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023; AgInt no AREsp n. 2.253.702/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023; AgInt no AREsp n. 2.117.485/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
