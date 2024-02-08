@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo apresentado por FINANCEIRA ALFA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DF EXECUÇÃO DF TÍTULO EXTRAJUDICIAL FUNDADA EM CÉDULA DE CRÉDITO BANCÁRIO. AÇÃO EXTINTA POR RECONHECIMENTO DA PRESCRIÇÃO POR AUSÊNCIA DE CITAÇÃO DO PRAZO LEGAL, CONTUDO, DE ACORDO COM A CERTIDÃO DO OFICIAL DE JUSTIÇA EMITIDA EM 28.04.2015 (FL. 28), O DEVEDOR HAVIA FALECIDO HÁ 03 (TRÊS) ANOS. CONDIÇÕES DA AÇÃO. MATÉRIA DE ORDEM PÚBLICA, CONHECIMENTO EX OFFICIO. AÇÃO AJUIZADA EM 18.02.2015, APÓS O FALECIMENTO DA PARTE DEMANDADA. AUSÊNCIA DE CAPACIDADE PROCESSUAL. IMPOSSIBILIDADE DE REGULARIZAÇÃO. PRECEDENTES. AUSÊNCIA DE PRESSUPOSTO VÁLIDO E REGULAR DO PROCESSO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. ART. 485, IV, DO CPC. PRECEDENTES. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA REFORMADA DE OFÍCIO.
+Quanto à primeira controvérsia, a parte recorrente alega violação dos arts. 613 e 614 do CPC, no que concerne à indevida extinção do feito sem resolução de mérito em razão do falecimento do recorrido, eis que, neste caso, dever-se-ia realizar a substituição processual, trazendo a seguinte argumentação:
+Restou afirmada na decisão recorrida que o recorrido faleceu antes do ajuizamento da ação, de forma que esta deveria ter sido ajuizada em face do espólio, razão pela qual extinguiu o feito sem resolução de mérito, nos termos do art. 485, IV do CPC.
+Ocorre Nobres Ministros, que o recorrido não deve extinguir o processo sem resolução de mérito, mas sim realizada a substituição processual, com fulcro no artigo 613 e 614 do Novo Código de Processo Civil.
+Ora, quando do ajuizamento da ação, o autor não possuía conhecimento do falecimento do demandado. Vejamos:
+Segundo a informação do Sr. Oficial de Justiça, datada de 28/04/2015, o recorrido já estava falecido a 03 (três) anos, motivo pelo qual não pode citá-lo.
+Acontece que para a informação dada pela Sra. Angelina Costa ser verídica, o requerido deveria ter falecido no ano de 2012. O que não é verdade.
+Compulsando-se os autos, verifica-se que o contrato foi firmado em 08/07/2013:
+ ..
+Vale ressaltar que o recorrido tornou-se inadimplente na segunda parcela do contrato, conforme já alegado na exordial.
+ ..
+Ao contrário do entendimento do Egrégio Tribunal de Justiça a quo, não há necessidade de extinção do feito, mas sim a substituição processual.
+Desta feita, deverá ser realizada a substituição processual para que passe a constar como polo passivo da demanda, o espólio do de cujus, sendo representado pela figura do administrador provisório, ante a inexistência de inventário. Para que seja deferida a regularização do polo passivo pelo espólio, basta a indicação do administrador provisório, que poderá ser realizado apenas pelo nome e prenome desse administrador.
+ ..
+Assim sendo, não merece prosperar o entendimento do MM juiz a quo quanto à extinção do feito em razão do falecimento do recorrido (fls. 125-127).
+Quanto à segunda controvérsia, a parte recorrente alega violação dos arts. 884 e 885 do CC, no que concerne à possibilidade de a extinção do processo acarretar o enriquecimento ilícito do recorrido, trazendo a seguinte argumentação:
+Ressaltando que a extinção do processo pode acarretar o enriquecimento ilícito do recorrido, vedado pelo Código Civil de 2002, nos termos dos artigos 884 e 885, senão vejamos:
+ ..
+Isso porque, com a extinção da lide, impediu-se a FINANCEIRA ALFA S.A. em buscar a quitação dos débitos oriundos do contrato.
+ ..
+Por todas as razões expostas, entende-se necessária a reforma do julgado, pois o os presente caso não se enquadra na hipótese prevista no artigo 485, IV, do CPC, bem como o acórdão recorrido cerceia os meios de defesa e acaba por prestigiar o enriquecimento ilícito do recorrido (fls. 127-129).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Do cotejo dos autos, há que, de logo, destacar que nos termos da certidão do oficial de justiça, fl. 28, emitida em 28.04.2015, deixou de citar o executado José da Silva Costa, "face o mesmo ser falecido há 03 (três) anos, segundo informou a viúva Angelina Costa".
+Destaque-se "É firme a jurisprudência desta Corte Superior no sentido de que a certidão lavrada por oficial de justiça goza de presunção de veracidade, somente podendo ser desconsiderada no caso de surgimento de prova robusta capaz de contraditá-la". (HC n. 509.032/RR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/6/2019, DJe de 13/8/2019.) Pois bem.
+Se a presente ação executiva foi ajuizada em 18.02.2015, de acordo com a certidão supra, o demandado há havia falecido em 2012, ou seja, anterior.
+ ..
+De consignar que não cabe regularização desse vício, visto que a sucessão processual, prevista nos arts. 110 c/c 313, I e §§1º e 2º, do CPC, somente é cabível no caso de falecimento de uma das partes no curso da ação, sendo inaplicável quando o falecimento é anterior ao ajuizamento da demanda, por não ter a pessoa falecida capacidade para estar em juízo (fls. 110-111).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ord inárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso Quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
