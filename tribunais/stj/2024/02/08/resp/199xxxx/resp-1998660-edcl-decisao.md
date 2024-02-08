@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ROGÉRIO PEREIRA NEVES, contra decisão que não conheceu do recurso especial (e-STJ fls. 1.354-1.356).
+O embargante alega que: a) é necessário "esclarecimento em relação ao recurso extraordinário interposto, e especialmente a atribuição de efeito suspensivo ao mesmo, ainda pendente de apreciação pelo STF" (e-STJ fl. 1.361); b) "ausência de deficiência argumentativa em relação ao tópico da jurisprudência não admitir intervenção de terceiro em mandado de segurança" (e-STJ fl. 1.362); e c) inaplicabilidade da teoria do fato consumado.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou manifestação expressa acerca dos motivos pelos quais não foi conhecido o recurso e, consequentemente, impediram sua análise de mérito, conforme se extrai do seguinte excerto (e-STJ fl. 1.355):
+A legitimidade recursal do interessado foi afastada pela Corte de origem com base no entendimento jurisprudencial de que a intervenção de terceiros é incompatível com o rito do mandado de segurança. Transcrevo (e-STJ, fls. 667- 668):
+Ademais, embora tenha sido admitida a intervenção do embargante nos autos em primeiro grau (tendo se retirado relatando que todos os candidatos receberam pontuação integral em uma questão), verifica- se que a intervenção de terceiro é incompatível com o rito do Mandado de Segurança, conforme se retira de jurisprudência consolidada do Supremo Tribunal Federal:  .. .
+Isso porque, considerando que o Mandado de Segurança tem como objetivo único apurar a existência de violação de direito por ilegalidade ou abuso de poder, a legitimidade para o polo ativo da demanda recai sobre o titular do direito ameaçado. Ou seja, aplica-se ao mandado de segurança o princípio que não admite que alguém pleiteie em juízo a proteção a direito de outrem. No mesmo sentido, destaca-se entendimento consolidado do Superior Tribunal de Justiça:  .. .
+Esse ponto, contudo, não foi adequadamente contestado nas razões do especial, não tendo o recorrente demonstrado que o atual entendimento jurisprudencial admite a intervenção de terceiros no âmbito do mandado de segurança.
+Incide no ponto o óbice da Súmula n. 283/STF, a saber: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+A deficiência argumentativa quanto à legitimidade recursal prejudica o exame dos demais pontos impugnados no recurso, os quais se referem ao mérito da controvérsia.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Fica revogada a tutela de urgência que foi deferida pela instância de origem.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
