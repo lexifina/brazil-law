@@ -1,0 +1,52 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto pelo CONSELHO REGIONAL DE MEDICINA DO ESTADO DO ESPIRITO SANTO, com pedido liminar, contra acórdão proferido no âmbito do Tribunal Regional Federal da Segunda Região, assim ementado (fls. 563/564e):
+PROCESSO CIVIL - MANDADO DE SEGURANÇA - PRIMEIRO ATO IMPUGNADO: JULGAMENTO EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL - DECADÊNCIA CONFIGURADA - SEGUNDO ATO IMPUGNADO: PROCESSAMENTO DO AGRAVO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - INADEQUAÇÃO DA VIA ELEITA.
+Sustenta o Recorrente, em síntese, que (fls. 579/589e):
+ ..  o Tribunal a quo entendeu por declarar a decadência do direito ao mandamus, em total inobservância à Legislação vigente, invocando tal matéria (decadência) lastreando-se no fato de que entre a data de ciência da decisão do recurso de Embargos de Declaração e a da inadmissão do subsequente recurso de Agravo em Recurso Especial, com a consequente impetração mandamental terem se passado mais de 120 dias, conforme previsão constante do art. 23, da Lei nº 12.016/09.
+ ..  No entanto, verifica-se que o recurso obstado foi o Agravo para subida do REsp e não o de Embargos de Declaração, de modo que o prazo decadencial não se contaria deste, mas daquele, já que o objetivo aqui seja não só de apontar o equívoco na inadmissão, mas também a subida do referido recurso, além de outras particularidades que deveriam ter sido melhor analisadas e que, infelizmente, foram relegadas, razão pela qual interpõe o presente Recurso Ordinário.
+Requer, outrossim, efeito suspensivo ao presente recurso e, no mérito, o provimento do recurso, para " ..  conceder a ordem mandamental pretendida nos termos em que acima se requereu, convolando a atribuição de efeito ativo-suspensivo em definitivo, e, por conseguinte afastando a decadência aventada pelo acórdão recursado" (fls. 579/589e).
+Com contrarrazões (fls. 612/658e), subiram os autos a esta Corte (fl. 593e).
+A Sra. Ministra Presidente desta Corte, em recesso judiciário, indeferiu o pedido de efeito suspensivo (fls. 599/600e).
+O Ministério Público Federal opinou pelo improvimento do recurso (fls. 604/608e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+In casu, a Corte a qua reconheceu a decadência para impetração do mandamus, quanto ao primeiro ato impugnado, e extinguiu, sem resolução do mérito, a segunda pretensão, por entender que o segundo ato impugnado não se tratava de ato judicial teratológico, conforme assentado (fls. 540/541e):
+O presente mandado de segurança foi impetrado em 16.12.2022, de modo que é manifestamente intempestivo.
+Com relação à pretensão alternativa, consistente em possibilitar " o seguimento e posterior conhecimento e julgamento, do Agravo que seguiu, pelo Superior Tribunal de Justiça", falece o interesse de agir pela inadequação da via eleita. Vejamos:
+A decisão que não conheceu do gravo interposto pelo CONSELHO REGIONAL DE MEDICINA DO ESPÍRITO SANTO - CRM/ES (processo 5030245-79.2019.4.02.5001/TRF2, evento 78, AGR_DEC_DEN_RESP1 ) com fulcro no art. 1.042 do CPC contra decisão que não conheceu de seus embargos de declaração (processo 5030245-79.2019.4.02.5001/TRF2, evento 70, DESPADEC1) reputou como erro grosseiro o manejo daquele recurso (processo 5030245-79.2019.4.02.5001/TRF2, evento 85, DESPADEC1):
+(..)
+Tal como colocado pelo Ministério Publico Federal, em seu parecer ( evento 19, PARECER1 ): "Tanto o Superior Tribunal de Justiça como o Supremo Tribunal Federal possuem orientação consolidada no sentido de que o único recurso cabível da decisão que inadmite recurso especial é o agravo previsto no art. 1042 do CPC".
+Portanto, "os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida pelo Tribunal Regional Federal, não interrompem o prazo para a interposição do agravo previsto no art. 1.042 do CPC, único recurso cabível."
+(..)
+Como se sabe, a jurisprudência do E. STF e do STJ consolidou-se no sentido de que o mandado de segurança não serve como sucedâneo de recurso cabível e somente pode ser impetrado para combater decisão judicial absurda ou teratológica e se contra ela não existir recurso próprio cabível.
+Como não há impropriedade na decisão impetrada, que seguiu a orientação jurisprudencial dos Tribunais Superiores, não se identifica que tenha sido absurda ou teratológica, de tal forma que é evidente a inadequação da via aleita.
+Pontuo, que, não fosse o reconhecimento da decadência quanto ao primeiro ato impugnado, seria aplicável o mesmo raciocínio, eis que, do mesmo modo, a decisão que não conheceu dos embargos de declaração interpostos contra a decisão de inadmissibilidade do Recurso Especial foi proferida de acordo com o entendimento dominante.
+Inclusive, no próprio feito mencionado pelo E. Relator, o Órgão Especial deste E. TRF - 2ª Região, por maioria, entendeu pela a impossibilidade da interposição de declaratórios contra decisão monocrática proferida pela Vice-Presidência (0003729-98.2019.4.02.5101).
+Desta forma, manifesto, com a devida vênia, discordância do entendimento do E. Relator para reconhecer: (i) a decadência para impetração do mandamus nos moldes do artigo 23 da Lei nº 12.016/2009, quanto ao primeiro ato impugnado, e (ii) a ausência do interesse de agir, por inadequação da via eleita, quanto ao segundo ato impugnado.
+O art. 23 da Lei n. 12.016/2009 estabelece que o prazo para impetrar o writ é de 120 dias corridos, contados a partir da ciência inequívoca do ato coator.
+Verifica-se, pois a ocorrência da decadência, com relação à primeira pretensão do Recorrente.
+De outra parte, registro a ausência de teratologia do acórdão atacado por meio de mandado de segurança, o qual se amparou em julgado desta Corte, cuja inteligência restou reafirmada recentemente (cf. 1ª T., AgInt no REsp n. 1.969.961/PE, Rel. Ministro Sérgio Kukina, j. 15.08.2022).
+A Corte Especial deste Tribunal Superior estabeleceu que a utilização de Mandado de Segurança contra decisão judicial requer, além de ausência de recurso jurídico apto a combatê-la, comprovação de que o ato judicial se reveste de teratologia ou de flagrante ilegalidade ou demonstra a ocorrência de abuso de poder pelo órgão prolator da decisão.
+Ademais, há previsão legal de recurso contra acórdão que inadmitiu o recurso especial (agravo em recurso especial).
+No caso, verifica-se que não existe decisão teratológica, porquanto a Corte de origem expôs fundamentadamente as razões pelas não conheceu o agravo em recurso especial, já que a interposição dos embargos de declaração contra a decisão que inadmitiu o recurso especial, por se tratar de erro grosseiro e manifesto, não tem o condão de interromper o prazo para a interposição do recurso correto.
+Desse modo, incabível a utilização do mandamus como sucedâneo recursal, consoante o disposto na Súmula n. 267/STF:
+Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+Na mesma linha, e precedentes, cujas ementas transcrevo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ATO IMPUGNADO. ACÓRDÃO DE ÓRGÃO FRACIONÁRIO DO STJ. AUSÊNCIA DE ILEGALIDADE MANIFESTA, ABUSO DE PODER OU TERATOLOGIA.
+1.  .. .
+2. Nos termos da jurisprudência desta Corte Superior, admite-se, em caráter excepcionalíssimo, o mandado de segurança para questionar decisão judicial quando se tratar de ato manifestamente ilegal ou que se apresente com fundamentação teratológica. Nesse sentido: AgInt no MS n. 27.738/DF, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe de 3/5/2022; AgInt nos EDcl no MS n. 27.827/DF, Rel. Min. Francisco Falcão, Corte Especial, DJe de 20/4/2022; AgInt nos EDcl no MS n. 27.639/DF, Rel. Min. Mauro Campbell Marques, Corte Especial, DJe de 22/4/2022; AgRg no MS n. 27.327/DF, Rel. Min. Nancy Andrighi, Corte Especial, DJe de 16/4/2021.
+3. No caso dos autos, a impetrante não demonstrou ilegalidade manifesta ou teratologia na fundamentação do acórdão proferido pela Terceira Turma desta Corte Superior, que contém fundamentos jurídicos aptos a respaldar o não provimento do Agravo Interno em Agravo em Recurso Especial, razão pela qual deve ser mantida a não admissão do writ.
+4. A situação sob exame denota utilização do mandamus como sucedâneo de recurso, o que não é admissível, conforme enunciado da Súmula 267/STF, verbis: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição". A propósito: AgInt no MS n. 27.868/DF, Rel. Min. Laurita Vaz, Corte Especial, DJe de 1/2/2022; AgInt no MS n. 26.176/DF, Rel. Min. Herman Benjamin, Corte Especial, julgado em 22/9/2020, DJe de 29/9/2020.
+5. Agravo interno não provido.
+(AgInt nos EDcl no MS n. 28.315/DF, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 9/8/2022, DJe de 12/8/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AÇÃO IMPRÓPRIA. DECISÃO JUDICIAL IMPETRADA RECORRÍVEL DENTRO DOS MESMOS AUTOS. AUSÊNCIA DE CARÁTER TERATOLÓGICO OU DE PREJUÍZO IRREPARÁVEL. SÚMULA 267/STF.
+1. O recorrente alega que a decisão objeto da impetração violou o disposto nos artigos 130, 436 e 515 do CPC, quando determinou a produção de novas provas. Essa violação, caso tenha ocorrido, deveria ter sido desafiada por recurso idôneo. Todavia, optou-se pela via mandamental, que não se presta como sucedâneo recursal.
+2. Impõe-se, dessarte, a denegação da ordem, nos termos do disposto no art. 5º, II, da Lei 12.016/2009 e Súmula 267/STF.
+3. Recurso ordinário a que se nega provimento.
+(RMS n. 32.438/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/6/2013, DJe de 14/6/2013.)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, b, e 255, I, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Ordinário.
+Dê se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
