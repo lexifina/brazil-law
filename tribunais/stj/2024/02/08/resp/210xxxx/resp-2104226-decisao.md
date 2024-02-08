@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MSC MEDITERRANEAN SHIPPING DO BRASIL LTDA., com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido em apelação e assim ementado (fl. 950):
+AÇÃO DE COBRANÇA- Transporte marítimo internacional - Taxa de sobre-estadia de contêineres - Sentença de improcedência - Código de Defesa do Consumidor - Não incidência - A espécie não retrata relação de consumo, visto que a demandada atua com importação e exportação de mercadorias, não sendo destinatária final - Documentos produzidos, tais como o conhecimento de embarque e o regulamento de tarifas de sobre-estadias de contêineres com regras de utilização das unidas de carga - Ausente o indispensável termo de compromisso/responsabilidade pela devolução de contêineres, a fim de comprovar que a ré contratou os valores ora cobrados - Autora não logrou demonstrar os fatos constitutivos do seu direito, nos termos do art. 373, inciso I, do CPC - Precedentes - Recurso desprovido, com majoração da verba honorária.
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial, argumentando que o julgado recorrido diverge do entendimento do TJSC sobre a "desnecessidade do termo de responsabilidade nas hipóteses em que os demais documentos comprovam a ocorrência da sobre-estadia (demurrage na importação ou detention na exportação)" (fl. 969).
+Narra que as partes firmaram contrato de transporte marítimo, com utilização de containers para acondicionar mercadorias para exportação.
+Impugna a essencialidade do termo de compromisso de devolução dos contêineres com aceite expresso da negociante para a cobrança da sobre-estadia.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 993), e o recurso especial foi admitido na origem (fls. 994-995).
+É o relatório. Decido.
+Verifica-se que a parte recorrente limita-se, nas razões do recurso especial, a apresentar divergência jurisprudencial sem, contudo, indicar de forma inequívoca os dispositivos legais supostamente violados pelo acórdão impugnado, que teriam tido interpretação diferente, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito, merece destaque da Corte Especial este julgado:
+ADMINISTRATIVO. PROCESSUAL CIVIL  .. . DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+ ..
+6. Agravo regimental não provido. (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe de 17/3/2014.)
+Confiram-se ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTIMAÇÃO. COMPLEMENTAÇÃO. RAZÕES DO RECURSO. INVIÁVEL. ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. VÍCIO SANÁVEL. ART. 1.017, § 3º, DO CPC/2015. AGRAVO DE INSTRUMENTO. DIVERGÊNCIA JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O art. 1.017, § 3º, do CPC/2015 trata da petição do agravo de instrumento, não se estendendo ao agravo em recurso especial.
+3. O art. 932, parágrafo único, do CPC/2015 permite apenas o suprimento de vício formal sanável, como ausência de procuração ou assinatura, e não a complementação das razões do recurso interposto.
+4. Não viola o artigo 489 do Código de Processo Civil de 2015 nem importa em omissão a decisão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente.
+5. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+6. Agravo interno não provido.(AgInt no AREsp n. 2.106.755/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Ante o exposto, não conheço o recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
