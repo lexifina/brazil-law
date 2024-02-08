@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Tribunal Regional Federal da 5ª Região, como suscitante, e o Tribunal de Justiça do Estado de Pernambuco, o suscitado, nos autos de apelação cível interposta contra sentença proferida em ação revisional de benefício por incapacidade, concedida em razão de acidente de trabalho.
+A ação foi originariamente proposta perante a 2ª Vara de Acidentes do Trabalho da Comarca de Recife/PE, onde recebeu tramitação e foi julgada. Apreciando recurso de apelação, contudo, o egrégio TJPE deliberou pela incompetência da Justiça comum e, por consequência, determinou a remessa dos autos à Justiça Federal. (fls. 40/42).
+O TRF da 5ª Região, a seu turno, divergiu desse entendimento. Para a Corte regional, tratando-se de ação decorrente de acidente de trabalho, a competência é da Justiça estadual, pelo que restou suscitado o presente incidente processual. (fls. 5 e 26/30).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre tribunais, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, a competência da Justiça Federal é constitucional e taxativa. Define-se, em regra, em razão da pessoa envolvida no processo, como se extrai da previsão contida no art. 109, I, da Constituição Federal, que, contudo, excetua do comando normativo geral as ações "de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho".
+Nessa perspectiva, o entendimento consolidado no âmbito da Primeira Seção desta Corte é pelo reconhecimento da competência da Justiça estadual para processar e julgar as ações decorrentes de acidente de trabalho, inclusive aquelas nas quais se discute a revisão do benefício. Nesse sentido:
+PREVIDENCIÁRIO. CONFLITO DE COMPETÊNCIA. BENEFÍCIO PREVIDENCIÁRIO. CONVERSÃO DE AUXÍLIO-DOENÇA EM APOSENTADORIA POR INVALIDEZ DECORRENTES DE ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULAS 15/STJ E 501/STF. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO COMUM ESTADUAL.
+1. Compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo Segurado contra o Instituto Nacional do Seguro Social, visando ao benefício, aos serviços previdenciários e respectivas revisões correspondentes ao acidente do trabalho. Incidência da Súmula 501/STF e da Súmula 15/STJ.
+2. Conflito de Competência conhecido para declarar competente o Tribunal de Justiça do Estado de São Paulo.
+(CC n. 163.821/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 13/3/2019, DJe de 20/3/2019.)
+Sobre o tema, corretamente ressaltou o eminente Min. Gurgel de Faria que a Primeira Seção desta Corte, "em reformulação de anterior entendimento adotado pela Terceira Seção (de que é exemplo o CC 62.531/RJ), adotou interpretação ampliada ao sentido da expressão causas acidentárias, concluindo ser competência da Justiça Estadual processar e julgar tanto as ações concessivas quanto os pedidos de revisão de benefício decorrente de acidente de trabalho" (CC n. 176.647, Ministro Gurgel de Faria, DJe de 8/3/2021).
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda o Tribunal de Justiça do Estado de Pernambuco, ora suscitado.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
