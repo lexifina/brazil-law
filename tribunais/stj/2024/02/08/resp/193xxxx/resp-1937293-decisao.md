@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED DE MARÍLIA COOPERATIVA DE TRABALHO MÉDICO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa a negativa de cobertura de exame genético (fl. 230):
+OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE AUTORA PORTADORA DE CÂNCER DE MAMA - NEGATIVA DE REALIZAÇÃO DE EXAME SYMPHONY POR NÃO FAZER PARTE DO ROL DE PROCEDIMENTOS DA ANS - INADMISSIBILIDADE - ROL DOS EXAMES COBERTOS QUE NÃO É TAXATIVO, POSTO QUE O CONSUMIDOR NÃO PODE SER PRIVADO DOS AVANÇOS DA MEDICINA, SOB PENA DE VIOLAÇÃO DA FINALIDADE DO CONTRATO SÚMULA 96 DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA - SENTENÇA DE PROCEDÊNCIA MANTIDA - RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 319-322).
+Nas razões do recurso especial, a parte recorrente alega violação do art. 1.022 do CPC, porquanto o acórdão é omisso quanto à realização do exame fora do território nacional e ausência de cobertura pelo plano de saúde.
+No mérito, além de divergência jurisprudencial, alega ofensa aos arts. 10, § 4º, da Lei n. 9.656/1998; 3º e 4º, III, da Lei n. 9.961/2000; e 54, § 4º, do CDC, pois trata-se de exame não previsto no rol da ANS.
+Sustenta que "as operadoras de planos de saúde não têm obrigação de arcar com exames realizados fora do Brasil, pois o artigo 10 da Lei dos Planos de Saúde (que estabelece as exigências mínimas e as hipóteses obrigatórias de cobertura) afirma que os procedimentos do plano-referência devam ser feitos no país" (fl. 345).
+Apresentadas as contrarrazões (fls. 436-449), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 450-452).
+É, no essencial, o relatório.
+Assiste razão ao recorrente quanto à alegada ofensa ao art. 1.022 do CPC.
+Com efeito, as teses reputadas como omissas - em especial a alegação de ausência de cobertura de exame realizado fora do território nacional - foi objeto de embargos de declaração, ocasião em que se requereu sua apreciação pelo Tribunal a quo.
+Da análise minuciosa dos autos, verifica-se que, de fato, mesmo após a oposição de embargos, as questões supramencionadas não foram apreciadas pelo Tribunal a quo.
+Desse modo, para que a Corte de origem se manifeste acerca dos pontos reputados como omissos, impõe-se o reconhecimento da alegada violação do art. 1.022 do CPC, bem como a anulação do acórdão proferido em embargos de declaração para que seja realizado novo julgamento, que supra as omissões apontadas.
+Ademais, por ocasião do julgamento dos EREsps n. 1.886.929/SP e 1.889.704/SP (relator Ministro Luis Felipe Salomão, DJe de 3/8/2022), a Segunda Seção
+desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios. Nessa toada, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Ante o exposto, não conheço do recurso especial.
+No entanto, no presente caso, é possível extrair do acórdão estadual elementos que possam demonstrar que os exames indicados pelo médico assistente estejam enquadrados nos critérios de superação da taxatividade.
+Ante o exposto, dou provimento em parte ao recurso especial para determinar o retorno dos autos à Corte de origem, a fim de que julgue novamente a apelação, conforme os critérios estabelecidos pela Segunda Seção nos EREps n. 1.886.929/SP e 1.889.704/SP, assim como supra as omissões apontadas nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
