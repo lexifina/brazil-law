@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Guilherme Neves Daichtman Roda, apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina, que denegou a ordem HC n. 5071783-21.2023.8.24.0000.
+Nesta Casa, a defesa se insurge contra o não oferecimento do acordo de não persecução penal e, ao final, requer a concessão da ordem para determinar que sejam remetidos os autos ao órgão ministerial para o oferecimento de proposta do instituto em questão, nos moldes do art. 28-A, caput, do Código de Processo Penal.
+É o relatório.
+Além de o presente habeas corpus ser sucedâneo de revisão criminal, não localizei a cópia integral do acórdão ora combatido.
+De qualquer form a, não há nenhuma ilegalidade a ser sanada de ofício.
+No caso, o paciente fora denunciado por incurso no art. 33, caput, da Lei n. 11.343/2006 (166/174).
+Pois bem. Esta Corte já decidiu que, consoante o disposto no § 1º do art. 28-A do Código de Processo Penal, para a aplicação do Acordo de Não Persecução Penal, na aferição da pena mínima cominada ao crime serão consideradas as causas de aumento e diminuição, as quais, de acordo com o entendimento pacificado nesta Corte Superior, devem estar descritas na denúncia, não sendo possível considerar a pena mínima apurada após a aplicação da causa de diminuição, reconhecida somente por ocasião da prolação da sentença condenatória (AgRg no AREsp n. 2.059.445/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe 22/8/2022) - (AgRg no HC n. 788.988/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe 15/5/2023 - grifo nosso).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ACORDO DE NÃO PERSECUÇÃO PENAL. PROCESSO DE ORIGEM EM FASE RECURSAL. APLICAÇÃO RETROATIVA DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DO PREENCHIMENTO DO REQUISITO OBJETIVO. JURISPRUDÊNCIA PACIFICADA. PEDIDO DE SUSPENSÃO DA AÇÃO PENAL ORIGINÁRIA INCABÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem reconheceu a irretroatividade do acordo de não persecução penal "por já ter sido recebida a denúncia, prolatada sentença condenatória e encontrando-se o feito em fase recursal".
+Nesse sentido, "a orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que não recebida a denúncia. A partir daí, iniciada a persecução penal em juízo, como na espécie, não há falar em retroceder na marcha processual" (AgRg no AREsp n. 1.799.075/RS, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/10/2021, DJe 4/11/2021).
+2. Ao Paciente foi imputada a prática do delito de tráfico ilícito de drogas, cuja pena mínima é superior a 4 (quatro) anos de reclusão. O referido patamar sancionatório é limite e condição objetiva para viabilizar a proposta de acordo de não persecução penal. A pretendida retroatividade também não se revela possível em razão do não preenchimento do requisito objetivo previsto no art. 28-A, caput, do Código de Processo Penal.
+3. A pena mínima deve ser verificada com a incidência das causas de aumento e diminuição. Essas circunstâncias, entretanto, conforme o "entendimento pacificado nesta Corte Superior, devem estar descritas na denúncia, não sendo possível considerar a pena mínima apurada após a aplicação da causa de diminuição, reconhecida somente por ocasião da prolação da sentença condenatória" (AgRg no AREsp n. 2.059.445/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/8/2022, DJe 22/8/2022, sem grifos no original), como ocorre no caso. Precedentes.
+4. Incabível o pedido de suspensão da ação penal originária até o julgamento do HC n. 185.913/DF, pelo Supremo Tribunal Federal. Para a pretendida aplicação retroativa, no caso, é imprescindível ultrapassar a análise do preenchimento dos requisitos objetivos necessários para oferta do acordo de não persecução penal, à luz da legislação específica.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 770.846/SC, Ministra Laurita Vaz, Sexta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). INAPLICABILIDADE. TRÁFICO PRIVILEGIADO. CIRCUNSTÂNCIA NÃO DESCRITA NA DENÚNCIA. PRECEDENTES.
+Writ não conhecido.
