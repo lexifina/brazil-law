@@ -1,0 +1,11 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MUNICÍPIO DE ANGRA DOS REIS, em face de decisão que inadmitiu o recurso especial, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+O recurso especial restou inadmitido em razão dos óbices previstos nas Súmulas 283 e 7 do STJ.
+Todavia, a parte agravante deixou de impugnar, especificamente, referidos fundamentos para inadmissão do recurso especial.
+Tal qual asseverado pelo Ministério Público Federal, na forma da jurisprudência do STJ, ""inadmitido o recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (AgInt no AREsp 1135014/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 27/03/2020)". Ainda, o agravante "não impugnou, sequer de forma genérica, a inadmissão do recurso, tendo em vista a incidência da Súmula 283/STF" (fl. 1.819 e-stj).
+Assim, se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, o art. 932, III, do CPC/2015 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (STJ, AgRg no Ag 427.696/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 12/08/2002).
+Isso posto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se .
+EMENTA
