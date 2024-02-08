@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLAUDIO ADEMIR MARIANNO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo interno. Recurso interposto contra o v. acórdão que rejeitou os embargos de declaração. Nos termos do art. 1.021 do CPC/15, cabe agravo interno contra decisão proferida pelo Relator, e não pelo Colegiado.
+Hipótese de erro grosseiro, que afasta a aplicabilidade do princípio da fungibilidade recursal. Precedente. Recurso não conhecido (fl. 1.242).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 272, caput e § 2º, e 280 do CPC, no que concerne à configuração de nulidade absoluta do feito em razão da ausência de intimação do advogado da parte exequente, trazendo a seguinte argumentação:
+44. De acordo com a previsão do art. 272, §2º do CPC, toda publicação deve conter o nome das parte e dos advogados com o respectivo número da inscrição na Ordem dos Advogados do Brasil, sob pena de nulidade, bem como o artigo 280 do CPC estabelece que as intimações serão nulas quando feitas sem observância das prescrições legais, a fim de conferir tratamento igualitário entre as partes processuais, em respeito ao preceito constitucional da ampla defesa e do contraditório.
+45. Nesse sentido, verifica-se que não há intimação e nem conhecimento dos atos processuais pelo Recorrente a partir da sentença de fls. 1003/1006, restando assim inexistentes os atos sequentes em face do Recorrente.
+46. Portanto, a intimação não realizada ou efetuada de forma viciada acarreta a nulidade dos atos processuais a ela dependentes.
+ ..
+50. Desta forma, entende-se que a falta de intimação do Recorrente quanto aos atos processuais praticados a partir da publicação da sentença de fls. 1003/1006, evidentemente que se configura CERCEAMENTO DE DEFESA, uma vez que o Recorrente foi privado do exercício de seus direito constitucionais de Ampla Defesa e de Contraditório. (fls. 1.257/1.260).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
