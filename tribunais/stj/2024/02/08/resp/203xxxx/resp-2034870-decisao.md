@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+APELAÇÃO CÍVEL/REEXAME NECESSÁRIO Mandado de segurança Município de São Paulo Insurgência contra sentença que concedeu a ordem para reconhecer o direito da impetrante a renovação de sua Certidão de Tributos Municipais sem que os débitos de diversos Autos de Infração representem óbice para tanto Carta de Fiança equiparável à penhora antecipada, que se presta à garantia do crédito, não a suspensão de sua exigibilidade, e viabiliza a expedição da certidão pretendida Precedentes do STJ Sentença mantida Recursos oficial e voluntário do Município não providos.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, o recorrente aponta ofensa aos arts. 373 e 1.022 do CPC, bem como aos arts. 205 e 206 do CTN, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) "é inequívoco, portanto, que o pedido administrativo quando apresentado não comportava o acolhimento pretendido pelo impetrante", motivo pelo qual "é de se concluir que não foi demonstrado pelo impetrante o seu alegado direito de ter em seu favor expedida Certidão de Regularidade Fiscal desde o dia da apresentação do seu pedido administrativo".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC.
+Por outro lado, constou do acórdão recorrido que:
+Dos documentos de fls. 63/375 observa-se que foram ofertadas cartas de fiança em cada uma das oito execuções fiscais para cobrança dos créditos descritos na inicial deste mandamus, não podendo ser tolhido o direito à obtenção de sua certidão de regularidade fiscal que, consigna-se, apenas foi emitida pela municipalidade após o deferimento da medida liminar nestes autos (fls.392/399) não havendo que se falar, ainda, em perda do interesse de agir da impetrante.
+Ademais, em impugnação e nas razões recursais nada indicou o município que pudesse afastar a idoneidade das provas pré-constituídas pela impetrante e obstar a pretendida certidão de regularidade fiscal. A concessão da certidão não impede o prosseguimento da cobrança dos créditos garantidos nas respectivas execuções fiscais.
+Nesse contexto, a verificação de eventual ocorrência (ou não) de contrariedade ao disposto nos preceitos legais tidos por violados demanda o reexame dos aspectos fático-probatórios da causa, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Diante do exposto, com base no art. 932, III e IV, do CPC c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. DISCUSSÃO SOBRE A POSSIBILIDADE DE EXPEDIÇÃO DE CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
