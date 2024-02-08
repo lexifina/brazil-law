@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por PAULA REGINA MATTOS DIAS, contra decisão que indeferiu o pedido liminar (e-STJ fls. 83-85).
+A embargante aponta ocorrência de erro material, pois "diferente do quanto narrado, no entanto, a ora Embargante jamais ocupou qualquer cargo no INSS, mas era de fato Funcionário Pública Federal, ocupando cargo na Corporação da Polícia Rodoviária Federal, o que demonstra, de antemão, os erros acometidos na decisão embargada que culminou na não concessão da tutela pleiteada, visto que baseada em caso distinto do aqui apresentado" (e-STJ fl. 100). Afirma, outrossim, estarem preenchidos os requisitos necessários para a concessão da liminar pleiteada.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com razão a parte embargante no tocante à existência de erro material.
+Assim, onde se lê (e-STJ fl. 83):
+Narra que foi demitido do cargo que ocupava no INSS em razão de alegação de prática de improbidade administrativa, de revelação de segredo do qual se apropriou em razão do cargo e de ter se valido do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública, tudo em decorrência de participação de suposta organização criminosa que objetivava facilitar negócio com fornecimento de informações privilegiadas com vistas a evitar fiscalização de mercadorias importadas.
+Leia-se:
+Narra que foi demitida do cargo que ocupava na Polícia Rodoviária Federal em razão de alegação de prática de improbidade administrativa, de revelação de segredo do qual se apropriou em razão do cargo e de ter se valido do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública, tudo em decorrência de participação de suposta organização criminosa que objetivava facilitar negócio com fornecimento de informações privilegiadas com vistas a evitar fiscalização de mercadorias importadas.
+Quanto ao mais, sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou manifestação expressa acerca dos motivos pelos quais entendeu-se pelo indeferimento do pedido liminar.
+O que se verifica é a pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, acolho parcialmente os embargos de declaração, a fim de corrigir erro material, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
