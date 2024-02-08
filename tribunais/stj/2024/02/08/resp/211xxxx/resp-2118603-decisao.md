@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado por Rivage Bar Ltda, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 145):
+MANDADO DE SEGURANÇA. TRIBUTÁRIO. LEI Nº 14.148, DE 2021. BENEFÍCIO FISCAL DEALÍQUOTA ZERO. PERSE. EMPRESA OPTANTE PELO SIMPLES NACIONAL. ART. 24 DA LEICOMPLEMENTAR Nº 123, DE 2006. DENEGAÇÃO DA SEGURANÇA.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 168/170.
+A parte recorrente aponta violação ao art. 4º da Lei 14.148/21. Sustenta, em resumo, que "deixar de conceder a benesse da alíquota zero por cento ao contribuinte do setor de eventos optante pelo regime do Simples Nacional e, ao mesmo tempo, conceder o benefício ao contribuinte do setor de eventos que tributa pelo lucro real ou presumido, significa, indubitavelmente, instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente" (fl. 190).
+Parecer do Ministério Público às fls. 283/287.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com relação ao art. 4º da Lei 14.148/21, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal quanto ao cabimento do benefício fiscal da alíquota zero por cento ao contribuinte do Simples Nacional e infirmar o juízo formulado pelo acórdão recorrido que decidiu no sentido de que "A adesão ao sistema simplificado é opcional e acarreta a obediência dos optantes as regras por ele estabelecidas, tendo o contribuinte ao optar por este regime, condições de sopesar as vantagens e desvantagens do sistema. Entre as desvantagens, encontra-se a regra prevista no art. 24, §1º (Lei n.º 123/2006), que veda deforma expressa a possibilidade de cumulação de benefícios fiscais na legislação própria ou reconhecidos pelo Comitê Gestor do Simples" (fl. 147), de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
