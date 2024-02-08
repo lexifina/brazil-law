@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, Recurso Especial interposto por MARCELO LAUAR LEITE, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (e-STJ fl. 242):
+CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO. SERVIDOR. MAGISTÉRIO EM REGIME DE DEDICAÇÃO EXCLUSIVA. EXERCÍCIO DA ADVOCACIA PRIVADA. CUMULAÇÃO. ILEGALIDADE. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de apelação de docente vinculado a UFRESA sob o regime de dedicação exclusiva para o exercício de advocacia privada.
+2. Ilegal o exercício de advocacia privada por docente vinculado a regime de trabalho de dedicação exclusiva, por faltar ao exercício da advocacia privada o caráter científico ou tecnológico exigido pelo art. 21, XII, da Lei n.º 12.772/2012.
+3. Também não está preenchido o elemento de colaboração com o cargo exercido exigido pelo art. 21, da Lei n.º 12.772/2012 sob pena de violação aos art. 131, da CF/1988 e art. 1.º, da LC n.º 73/1993.
+4. Honorários recursais, a cargo da apelante, com majoração da verba sucumbencial em 2% do valor da condenação.
+5. Apelação improvida.
+O recorrente aponta violação do art. 21, XIII, da Lei 12.772/2012, ao argumento de que é possível o exercício do cargo de docente na Universidade Federal Rural do Semiárido concomitantemente à atividade de advocacia.
+Proferido juízo positivo de admissibilidade pelo TRF5, os autos foram remetidos ao STJ.
+O Ministério Público Federal ofereceu parecer pelo desprovimento do recurso.
+É o relatório.
+Acerca da pretendida cumulação da atividade de docente em regime de dedicação exclusiva com o exercício de advocacia privada, extrai-se do acórdão recorrido o seguinte (e-STJ fl. 241):
+Da simples leitura do art. 21, XII, da Lei n.º 12.772/2012 verifica-se que o exercício da advocacia privada não detém natureza científica ou tecnológica e nem há de ser exercido de forma esporádica, tal como descrito no tipo permissivo invocado, pelo que não há legitimidade na subsunção pleiteada pela parte apelante.
+Ademais, pretensão de exercício de advocacia privada tal como pleiteada pela parte apelante não deve estar vinculada à UFERSA sob o argumento de tratar de atividade exercida de forma esporádica e em colaboração, a qual já possui órgão de representação próprio, sob pena de violação ao art. 131, da CF/1988 c/c art. 1.º da LC n.º 73/1993.
+Tal entendimento encontra amparo na jurisprudência do STJ, conforme demonstram os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACUMULAÇÃO DE CARGOS. ASSESSOR DE DESEMBARGADOR DO TRT3 E PROFESSOR ADJUNTO COM DEDICAÇÃO EXCLUSIVA. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A 1ª Seção desta Corte, à luz de orientação firmada pelo Supremo Tribunal Federal, passou a encampar o entendimento no sentido de que " ..  a acumulação de cargos públicos de profissionais da área de saúde, prevista no art. 37, XVI, da CF/88, não se sujeita ao limite de 60 horas semanais previsto em norma infraconstitucional, pois inexiste tal requisito na Constituição Federal" (1ª T., RE 1.094.802 AgR, Relator Min. Alexandre de Moraes, DJe de 24.05.2018).
+III - Não obstante a possibilidade de aplicação dessa tese a área diversa da saúde, na espécie, sua incidência não assegura o direito perseguido, porquanto se pretende o exercício do cargo de Professor Adjunto com dedicação exclusiva, junto à Universidade Federal de Minas Gerais, o que tornaria ilícita eventual acumulação. Precedentes.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.953.959/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/2/2022, DJe de 17/2/2022.)
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. EXERCÍCIO DE ATIVIDADE DOCENTE EM REGIME DE DEDICAÇÃO EXCLUSIVA. CONCORRÊNCIA COM OUTRA ATIVIDADE REMUNERADA. CONFIGURAÇÃO DE ATO ÍMPROBO.
+1. Na origem, o Ministério Público Federal ajuizou Ação de Improbidade Administrativa, objetivando a condenação do réu por indevida acumulação do cargo de Professor do Instituto Federal de Sergipe (IFS), em regime de dedicação exclusiva, com outra atividade remunerada de docente na iniciativa privada.
+2. Embora o agravante sustente que não tinha consciência da ilegalidade, o regime de dedicação exclusiva que lhe era imposto encontra-se previsto no Decreto 94.664/1987, que permite aos docentes apenas dois regimes: dedicação exclusiva ou tempo parcial.
+A dedicação exclusiva gera àquele que por ela opte uma gratificação específica, fato admitido pelo Tribunal de origem ao consignar no acórdão recorrido que "a quantia recebida a título de gratificação de dedicação exclusiva está sendo devolvida por meio de desconto em contracheque." (fl. 289, e-STJ). Não há como afastar o dolo no caso.
+Houve, como é incontroverso nos autos, indevida percepção de gratificação especificamente paga pela exclusividade, entre 3.2.2003 e 2.8.2010.
+3. "Comete ato de improbidade administrativa previsto no art. 11, "caput", e I, da Lei n. 8.429/92 o professor universitário submetido ao regime de dedicação exclusiva que acumula função remunerada em outra instituição de ensino" (AgInt no REsp 1.445.262/ES, Rel. p/Acórdão Ministra Regina Helena Costa, Primeira Turma, DJe 14.3.2018). No mesmo sentido: AgInt no REsp 1.473.709/MG, Relator Min. Sérgio Kukina, Primeira Turma, DJe 18.6.2018.
+4. O fato de haver devolução por desconto em contracheque não descaracteriza a improbidade, pois a restituição parcelada não significa ausência, mas mitigação do prejuízo. E mesmo que isso pudesse ser superado, não assistiria razão ao recorrente, pois o entendimento dominante no Superior Tribunal de Justiça é o de que, "para a configuração dos atos de improbidade que atentam contra os princípios da Administração (art. 11 da LIA), não se exige a comprovação do enriquecimento ilícito do agente ou prejuízo ao erário." (AgInt no AREsp 818.503/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.10.2019). Na mesma linha: AgRg no AREsp 712.341/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 29/6/2016; AgRg no AREsp 804.289/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 24.5.2016.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.672.212/SE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/4/2021, DJe de 1/7/2021.)
+Isso posto, conheço do Recurso Especial e nego-lhe provimento. Nos termos do art. 85, § 11, do CPC/15, majoro em 2% os honorários advocatícios fixados nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
