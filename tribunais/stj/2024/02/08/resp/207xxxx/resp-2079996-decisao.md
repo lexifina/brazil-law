@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 474):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO COMUM. AVISO PRÉVIO INDENIZADO.
+1. O aviso prévio indenizado, sobre o qual não incide contribuição previdenciária, deve ser anotado em CTPS e computado para todos os fins, inclusive como tempo de serviço, nos termos do art. 487, §1º, da CLT.
+Opostos embargos de declaração, foram rejeitados (fl. 515)
+Aponta o recorrente violados os arts. 1.022, II, do CPC, 28, § 9º, alínea e, da Lei 8.212/1991 e 55 da Lei n. 8.213/1991, sustentando, além de negativa de prestação jurisdicional, a impossibilidade do cômputo do aviso prévio indenizado como tempo de contribuição, pela incompatibilidade da disposição celetista com o caráter contributivo da previdência social.
+Aduz que, "A norma invocada para reconhecimento do direito da parte autora se trata de regra originária da CLT, vigente desde o mês de maio de 1946, sendo nítido que não se estende ao Direito Previdenciário e ao Direito Tributário, ante a autonomia das relações jurídicas." (fl. 527).
+Defende que "essa regra apenas tem efeitos no tempo de serviço trabalhista, não possuindo natureza tributária e previdenciária, considerando que a indenização é paga justamente por inexistir atividade laboral remunerada, estando ausente o fato gerador do tributo contribuição previdenciária. O seu propósito é estritamente trabalhista, a fim de que o aviso prévio indenizado repercuta como tempo ficto no cálculo das verbas rescisórias na rescisão do contrato de trabalho." (fls.527/528).
+Enfatiza que "No Regime Geral de Previdência Social, a filiação dos segurados obrigatórios tem por pressuposto tributário necessário o exercício efetivo da atividade laboral remunerada nos termos do art. 55 da Lei 8.213/91" e que "Tal situação não se verifica com o pagamento de indenização de aviso prévio, haja vista a dispensa pelo empregador da prestação de atividade laboral no período, compensado pelo adimplemento de indenização." (fl. 528).
+Afirma que, "a verba recebida pelo aviso prévio indenizado, assim como todos os demais desembolsos indenizatórios percebidos pelo segurado, estão excluídos do conceito de salário-de-contribuição, conforme se denota do disposto no art. 28, §9º, alínea e, da Lei 8.212/91, porque não possuem natureza remuneratória, ou seja, não são destinadas a retribuir os serviços prestados nem o tempo à disposição do empregador" (fl. 528)
+Alega que "ante a inexistência do fato gerador do tributo (atividade laboral remunerada) e da consequente não cobrança efetiva ou presumida de contribuição previdenciária, não há lastro jurídico para a concessão de efeitos previdenciários sobre o pagamento de mera verba indenizatória que se justifica justamente por ter inexistido o labor." (fl. 528).
+Ao final, "o INSS requer seja o recurso conhecido e provido, a fim deque haja a reforma do acórdão regional, para afastar o cômputo do aviso prévio indenizado como tempo de contribuição." (fl. 529)
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 535/540.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+O recurso merece prosperar.
+A controvérsia trazida no apelo especial, cinge-se à possibilidade ou não de cômputo do aviso prévio indenizado como tempo de contribuição/carência.
+Nesse contexto, o Tribunal de origem, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls.478/479):
+Com supedâneo na legislação trabalhista, o Tribunal Regional da 4ª Região pacificou o entendimento no sentido de que, para efeitos previdenciários, o período de aviso prévio indenizado deve ser incluído como tempo de contribuição e assim ser averbado pelo INSS.
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. AVISO PRÉVIO INDENIZADO. LEI Nº 9.711/98. DECRETO Nº 3.048/99. REQUISITOS PREENCHIDOS. CONCESSÃO.
+1. Até 28-04-1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, aceitando-se qualquer meio de prova (exceto para ruído); a partir de 29-04-1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até 05-03-1997 e, a partir de então, por meio de formulário embasado em laudo técnico ou pericial.
+2. Computando-se o aviso prévio indenizado como tempo de serviço, nos termos do art. 487, §1º, da CLT, óbices não há a seu reconhecimento para fins previdenciários.
+3. Comprovado o exercício de atividade especial por mais de 25 anos, o segurado faz jus à concessão da aposentadoria especial, nos termos do artigo 57 e § 1º da Lei 8.213, de 24-07-1991, observado, ainda, o disposto no art.18, I, "d" c/c 29, II, da LB, a contar da data do requerimento administrativo.
+(REOAC Nº 5024302-16.2011.404.7100/RS, Rel. Maria Isabel Pezzi Klein, Rel. Acórdão Des. Federal Ricardo Teixeira do Valle Pereira, 5ª Turma, j. em29/10/2013, maioria, D. E. 21/11/2013).
+PREVIDENCIÁRIO. CÔMPUTO DE PERÍODO REFERENTE A AVISO PRÉVIO INDENIZADO. CONCESSÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO.
+1. Computando-se o aviso prévio indenizado como tempo de serviço, nos termos do art. 487, §1º, da CLT, óbices não há a seu reconhecimento para fins previdenciários.
+2. Reconhecido como tempo de serviço o lapso referente a aviso prévio indenizado, deve tal período ser somado aos interstícios já observados na seara administrativa pelo INSS, o que assegura à parte autora o direito à concessão do benefício de aposentadoria por tempo de serviço proporcional, a contar da data do requerimento administrativo, observada a prejudicial de prescrição quinquenal.
+(AC nº 2008.70.16.000967-5/PR, Rel. Ricardo Teixeira do Valle Pereira, 5ª turma, j. em 13/09/2011, unânime, D. E.23/09/2011).
+Como visto, o aviso prévio deve ser computado para todos os fins, inclusive como tempo de serviço, nos termos do art. 487, §1º, da CLT, devendo ser anotado na CTPS como tal.
+Nestes termos, resta reconhecido o tempo de serviço urbano relativo ao aviso prévio indenizado, devendo ser averbado pelo INSS, merecendo ser mantida a sentença no ponto.
+Quanto à alegada negativa de prestação jurisdicional, não cabe falar em afronta ao art. 1.022, II, do CPC, quanto ao art. 55 da Lei n. 8.213/1991, na medida em que aquele dispositivo não foi indicado no recurso de apelação, não havendo omissão a ser suprida por meio de embargos declaratórios, os quais, em verdade, se revestiram de conteúdo evidentemente inovador.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. VIOLAÇÃO AO ART. 535 DO CPC. INOVAÇÃO DE TESE. OMISSÃO DO TRIBUNAL DE ORIGEM AFASTADA.
+1. "É vedada a inovação de teses em embargos de declaração e, por tal razão, inexiste omissão em acórdão que julgou a apelação sem se pronunciar sobre matérias não argüidas nas razões de apelação." (REsp 1.038.920/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 25/11/2008)
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 364.354/RJ, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/10/2013, DJe 4/11/2013).
+Entretanto, quanto ao disposto no art. 28, § 9º, alínea e, da Lei n. 8.212/1991, observa-se que foi alegada sua violação na apelação e nos embargos de declaração, mas o Tribunal de origem quedou silente sobre ele e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, conheço do recurso especial e dou-lhe parcial provimento, a fim de determinar o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos embargos de declaração, se manifeste sobre as aludidas alegações.
+Publique-se
+EMENTA
