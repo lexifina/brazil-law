@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de EDINEIDE FERREIRA DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de Alagoas (Apelação n. 0702798-63.2017.8.12.0001 ).
+Consta dos autos que a paciente foi presa em flagrante em 30/1/2017 e posteriormente denunciada pela suposta prática do crime previsto no art. 121, §2º, inciso II e IV, do Código de Processo Penal. Em 18/9/2017 foi requerido pela Defesa a instauração de incidente de insanidade mental, oportunidade em que o magistrado substituiu a prisão preventiva pela medida cautelar de internação provisória. No dia 27/10/2017, foi requerido pela defesa a aplicação de outras medidas cautelares diversas, diferente da internação provisória, tendo o magistrado deferido e aplicado as medidas cautelares de prisão domiciliar e monitoramento eletrônico. Concluída a instrução, foi proferida sentença absolutória imprópria, aplicando à paciente a medida de segurança de internação pelo prazo de 01 ano.
+Contra essa decisão foi interposta apelação, a qual foi negada provimento, o que ensejou interposição de Resp, inadmitido na origem. A defesa agravou dessa decisão, encontrando-se os autos nesta Corte de Justiça, permanecendo a paciente no cumprimento de medidas cautelares anteriormente impostas.
+Na presente oportunidade, a defesa requer a revogação das medidas cautelares de prisão domiciliar e monitoramento eletrônico.
+Alega que atualmente a paciente encontra-se com sequelas decorrentes do uso prolongado da tornozeleira, com diversas feridas, além de possuir filhos menores de idade, sendo um deles portador da doença CID f41.1, necessitando de cuidados especiais, de modo que as medidas cautelares impostas não se fazem mais proporcionais e adequadas.
+Assim, pede, em liminar e no mérito, a revogação das medidas cautelares de prisão domiciliar e monitoramento eletrônico.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque o tema de irresignação da paciente não foi levado ao conhecimento e análise no Tribunal de origem, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância. Como é cediço, "Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância." (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma , julgado em 06/04/2017, DJe 20/04/2017).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
