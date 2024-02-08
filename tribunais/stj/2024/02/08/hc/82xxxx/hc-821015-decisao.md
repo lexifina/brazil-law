@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em benefício de WELITON CARRIELO, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do crime previsto no art. 121, c.c. art. 14, II e 329, ambos do Código Penal (fls. 104-110).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva e denegou a ordem, em acórdão de fls. 168-185 ao fundamento da garantia da ordem pública:
+"de que o paciente é Policial Militar e que a sua conduta, no episódio, demonstrou, em tese, um descompromisso com as leis e o convívio em sociedade, atuando com audácia e colocando em risco as pessoas na via pública ao efetuar disparos com a sua arma de fogo com objetivo, em tese, de ceifar à vítima Tiago Vitorino Barbosa Silva, mesmo depois de agredi-la, tendo por, erro de execução, atingido a vítima Raphael Nascimento Ferreira, e, em seguida, ameaçou os Policiais Militares que lá compareceram para prendê-lo, se opondo, teoricamente, à execução de ato legal com violência" (fl. 180).
+No presente writ, alega a defesa, em síntese, a ausência de fundamentação idônea para a decretação da preventiva, ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão. Sustenta, ainda, que o paciente é cardiopata e necessita de cuidados especiais.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 205-206.
+As informações foram prestadas às fls. 213-218.
+O Ministério Público Federal, às fls. 222-225, manifestou em parecer que restou assim ementado:
+"Habeas corpus. Homicídio tentado. Prisão preventiva. Fundamentação idônea. Requisitos. Gravidade concreta. Modus operandi. Garantia da ordem pública. Condições pessoais favoráveis. Irrelevância. Ausência de demonstração de constrangimento ilegal. Parecer pela denegação do habeas corpus" - fl. 222.
+É o relatório. DECIDO.
+In casu, tenho que a r. decisão que decretou a prisão preventiva do ora paciente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade e pelo modus operandi do crime:
+"No caso em tela, com efeito, à luz do caderno policial, após discussão e agressões físicas em local público e freqüentado por diversas pessoas, o custodiado, que é policial militar, teria, por motivo fútil, disparado arma de fogo para ceifar a vida da pretensa vítima. Não obstante, por erro na execução, teria atingido outra pessoa. Além disso, teria resistido à prisão, bem como ameaçado a vida dos policiais" (fl. 108).
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta"(AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023, grifei.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Quanto a alegação de que o paciente é cardiopata e necessita de cuidados especiais, da leitura do acórdão objurgado verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema: (AgRg no HC n. 832.409/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/12/2023); (AgRg no HC n. 866.374/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/12/2023);(AgRg no AgRg no HC n. 845.765/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/12/2023.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
