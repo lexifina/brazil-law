@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDIVALDO LUCENA DE SOUZA à decisão de fls. 236/237, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A venerada decisão quando da análise deste agravo, considerou que não foram observadas, as condições de preparo, e não existiu o recolhimento.
+ ..
+Sendo assim, presente AGRAVO encontra-se tempestivo e com o recolhimento do preparo.
+Inclusive o EGREGIO DESEMBARGADOR, mandou recolher.
+ ..
+Inclusive o recolhimento foi realizado nos moldes da decisão deste TRIBUNAL (fls. 240/241).
+ ..
+APÓS A DETERMINAÇÃO DO R. JUIZO DE 2ª INSTâNCIA, NO PRAZO LEGAL RECOLHEU-SE O PREPARO. Dia 12 de dezembro de 2023
+ ..
+Ou seja, tempestivamente.
+Como é cediço em Direito, para alcançar o fim a que se destina, é necessário que a tutela jurisdicional seja prestada de forma clara e completa, sem obscuridade, omissão ou contradição, pois não foram observado os comprovantes de fls 200 a 203, do processo originário, e com cópia juntada neste ato (fls. 242/243).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que a única forma de recolher as custas simples após a interposição do recurso especial, é quando há pedido de gratuidade de justiça na petição e este é indeferido pelo tribunal de origem, uma vez que deverá ser dada oportunidade à parte para efetuar o recolhimento nos termos do artigo 99, § 7, do Código de Processo Civil em razão do principio da não-surpresa. (EDcl no AgInt no AREsp n. 1.317.073/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.).
+Porém, no caso dos autos, é importante frisar que a pretensão à gratuidade de justiça sequer foi analisada, em razão da prática de ato incompatível com o pedido de gratuidade. Portanto, a hipótese é diversa da tratada pelo §7º do art. 99 do CPC, porque não houve julgamento pelo indeferimento da benesse.
+Na verdade, tendo em vista pedido de gratuidade de justiça feito na petição de recurso especial, o T ribunal a quo, nos termos do art. 99, § 2º do CPC deve intimar à parte para comprovar a hipossuficiência, e só após, indeferida a gratuidade, se for o caso, abrir prazo para a regularização do preparo em observância ao disposto no art. 99, § 7º e art. 101, § 2º, do CPC.
+No entanto, a origem, equivocadamente, abriu prazo para a parte comprovar a hipossuficiência e/ou recolher as custas. A parte resolveu recolher as custas, e desse modo acabou por abrir mão do pedido, afastando a presunção de sua hipossuficiência.
+A jurisprudência desta Corte Superior é no sentido de que o pagamento de uma das despesas do preparo afasta a presunção relativa de hipossuficiência e constitui renúncia à isenção, sobretudo considerando serem vedados comportamentos contraditórios em nosso ordenamento jurídico (AgInt no AREsp n. 1.410.995/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/8/2019, DJe de 30/8/2019.)
+Assim, a partir desse momento, ou seja, do recolhimento, não se aplicam mais os dispositivos da gratuidade de justiça, pois a parte desistiu do pedido quando praticou o ato incompatível. Desse modo, passamos à aplicação do art. 1.007 do CPC, ou seja, como no ato da interposição do recurso, a parte não recolheu as custas, posteriormente, deve recolher, em dobro (§4º).
+Portanto, tendo em vista o equívoco do Tribunal de origem e para evitar cerceamento de defesa, foi determinado, nesta Corte, a complementação (§2º, art. 1.007 do CPC) das custas do recurso especial (fl. 792), uma vez que já realizado o recolhimento simples (fl. 678/680). Todavia, ao invés de cumprir a determinação, a parte ficou inerte. Dessa forma, correta a decisão que não conheceu do recurso por sua deserção.
+Entender de modo diverso atenta contra os princípio da boa-fé processual e da isonomia, na medida em que a parte, obrigada a comprovar o recolhimento do preparo no ato interposição do recurso ou devendo fazê-lo em dobro, ao deixar de fazê-lo, socorre-se do pedido da gratuidade de justiça, para se furtar ao cumprimento da norma procedimental. E diante do menor obstáculo, recolhe o preparo, ato incompatível com a presunção de hipossuficiência de que trata o texto normativo (art. 99, §3º, CPC).
+Logo, conclui-se que a renúncia à pretensão de conseguir a benesse enseja no dever de recolher o preparo em dobro, na forma do art. 1.007, §4º, do CPC, uma vez que a comprovação do preparo deve ser simultânea à interposição do recurso.
+Veja-se, ainda, que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade" (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
