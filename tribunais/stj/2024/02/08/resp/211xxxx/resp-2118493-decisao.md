@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto por TANIA MARA WESTARB, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 30):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. RESCISÃO CONTRATUAL C/C COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO AGRAVADA EM QUE SE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE, DETERMINANDO O PROSSEGUIMENTO DA EXECUÇÃO. ALEGAÇÃO DE IMPENHORABILIDADE DO VALOR BLOQUEADO, NOS TERMOS DO ARTIGO 833, X, DO CPC. ÔNUS DO EXECUTADO COMPROVAR QUE O MONTANTE BLOQUEADO, QUE NÃO ULTRAPASSA A 40 SALÁRIOS-MÍNIMOS, REPRESENTA RESERVA DE CAPITAL (POUPANÇA) PARA SEU SUSTENTO E DE SUA FAMÍLIA. INTERPRETAÇÃO A RESPEITO DA IMPENHORABILIDADE QUE DEVE SER RESTRITIVA, POIS É UMA EXCEÇÃO DENTRO DO SISTEMA PROCESSUAL. MERA ALEGAÇÃO DESPROVIDA DE QUALQUER SUBSTRATO PROBATÓRIO. VALOR IRRISÓRIO FRENTE AO VALOR TOTAL DO DÉBITO. POSSIBILIDADE DE MANUTENÇÃO DO BLOQUEIO. PRECEDENTES DO STJ. INDISPONIBILIDADE DA QUANTIA QUE DECORRE DEBLOQUEIO QUE NÃO SE CONFUNDE COM A PENHORA MENCIONADA NO ARTIGO 836 DO CPC. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ, fl. 40-52), a recorrente alega violação ao art. 833, X, e § 2º, do Código de Processo Civil de 2015.
+Sustenta, em síntese, a impenhorabilidade dos valores que não ultrapassam 40 (quarenta) salários mínimos, não sendo necessária qualquer comprovação relacionada à natureza dos valores para tanto, dada a presunção legal de proteção nesse sentido.
+Houve pedido de efeito suspensivo, deferido na origem
+As contrarrazões foram apresentadas às fls. 56-62 (e-STJ).
+Admitido o recurso especial, os autos ascenderam a esta Corte (e-STJ, fls. 70-72).
+Brevemente relatado, decido.
+No caso em comento, o TJPR afastou a proteção legal da impenhorabilidade adotando a seguinte fundamentação (e-STJ, fls. 32-36):
+No mérito tem-se que razão não assiste à Parte agravante, devendo ser confirmada a decisão agravada, que rejeitou a Exceção de Pré-Executividade apresentada e determinou o prosseguimento da execução em seus ulteriores termos.
+Determinado que fosse realizado o bloqueio via SISBAJUD, com repetição programada da ordem (teimosinha) (mov. 188.1, em 23.11.2021), em 07.02.2022 foi bloqueado o valor de R$ 163,01 na contada executada (ora agravante) junto à Caixa Econômica Federal (mov. 196.1).
+Se, de um lado, é certo afirmar que a execução deve-se fazer pelo modo menos gravoso ao devedor; de outro, ela se realiza em benefício do credor, e deve, na medida do possível, ser eficaz. E se o executado, em sua posição processual cômoda, recusa-se a apresentar bens em Juízo (ou não os possui), deve se sujeitar à atuação jurisdicional tendente à sua localização.
+Primeiramente, a insurgência recursal versa acerca da impenhorabilidade de valores constantes em conta bancária titularizada pela recorrente, vez que não excedem 40 salários-mínimos, defendendo a agravante a aplicação do disposto no art. 833, X, do CPC: ( )
+Nada obstante exista entendimento no sentido de que o parâmetro legal de 40 salários mínimos seria objetivo, o que tornaria desnecessária a discussão acerca de sua origem, bem como que a interpretação extensiva aplicada pelo Superior Tribunal de Justiça ao inciso X do art. 833 do CPC, para que a impenhorabilidade também abarque valores encontrados em conta corrente, CDB, RDB ou em fundo de investimento, a jurisprudência deste Tribunal e do STJ direciona-se no sentido da necessidade de demonstração de que os valores penhorados se destinam à reserva de capital para o sustento do executado e de sua família.
+( )
+Vale dizer, ainda que o montante bloqueado seja inferior a 40 salários-mínimos, cabe à Parte recorrente apresentar prova definitiva de qual é a finalidade dos valores bloqueados em conta bancária, com o objetivo de aferir a sua efetiva penhorabilidade - o que, como destacado na decisão ora agravada, não ocorreu no caso, uma vez que a executada se limitou a arguir a impenhorabilidade.
+Ademais, a impenhorabilidade comporta interpretação restritiva, pois é uma exceção no sistema. De tal modo, incumbe à Parte executada comprovar a impenhorabilidade pretendida.
+No caso, isso poderia ser feito por meio da apresentação de extrato de conta bancária ou qualquer documento que atestasse a utilização dos valores pela Parte para sua subsistência, de acordo com o previsto no parágrafo 3º, I, do art. 854 do CPC: (..)
+Repise-se que a penhorabilidade de bens é a regra, e a exceção é a impenhorabilidade, sendo ônus da Parte executada a comprovação da essencialidade do bem.
+No entanto, não houve comprovação apta a demonstrar que o valor bloqueado seja a única reserva monetária em nome da Parte executada, requisito essencial apto a abranger a norma de impenhorabilidade trazida pelo artigo 833 do Código de Processo Civil.
+Além disso, o simples fato de o valor bloqueado ser irrisório ou inferior a 40 salários mínimos não autoriza o levantamento, na medida em que: "O STJ tem externado que não se pode obstar a penhora online de numerário, ao pretexto de que os valores são irrisórios. (1ª T., AGRESP 1383159, DJE 13/09/2013)".
+( )
+Por fim, não há que se confundir a penhora mencionada no artigo 836 do CPC com o bloqueio de valores.
+Com o bloqueio, o valor permanece "inativo" na esfera patrimonial da devedora (como ocorre no caso),enquanto que na penhora, o valor é retirado da esfera patrimonial e transferido para conta judicial(situação que ainda não ocorreu ) in casu.
+Assim, não comprovado que os valores penhorados tem natureza de reserva, porquanto não houve juntada de qualquer documento pela Parte executada, pois o bloqueio pode ser mantido mesmo nos casos em que o valor for irrisório, ou seja, não incide no caso a impenhorabilidade prevista no art. 833, X, do Código de Processo Civil.
+Diante do exposto, o voto é no sentido de negar provimento ao recurso.
+Da leitura do acórdão recorrido, verifica-se que a Corte estadual, apesar de reconhecer o entendimento do STJ sobre o tema, atrelou o reconhecimento da impenhorabilidade de valores depositados em caderneta de poupança - mesmo estando dentro do patamar de 40 (quarenta) salários mínimos - à comprovação pela executada de que o montante bloqueado serviria para sua subsistência.
+Contudo, tal interpretação diverge da jurisprudencial firmada neste Tribunal Superior, de forma que a proteção conferida pela regra da impenhorabilidade abrange todos os valores depositados em conta-corrente, poupança ou outras aplicações financeiras, dentro do limite legal de 40 (quarenta) salários mínimos.
+Nesse sentido:
+AGRAVO INTERNO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃO SINGULAR DO RELATOR. ART. 932, IV, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JULGAMENTO PELO COLEGIADO. NULIDADE. INEXISTÊNCIA. EFEITO SUSPENSIVO AO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA EXCEPCIONALIDADE NECESSÁRIA. IMPENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. PRECEDENTES. INOVAÇÃO. INCABÍVEL. NÃO PROVIMENTO.
+1. "O STJ entende não haver violação do art. 557 do CPC/1973 (art.
+932, III e IV, do NCPC) quando o relator decide a controvérsia na mesma linha da jurisprudência dominante do Tribunal. Eventual nulidade da decisão monocrática fica superada com a reapreciação do recurso pelo órgão colegiado pela via de agravo regimental/interno" (AgInt no REsp 1197594/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 3.3.2017).
+2. Não demonstrada a excepcionalidade necessária à concessão de efeito suspensivo ao recurso especial, resta inviabilizada a pretensão.
+3. Salvo nos casos de fraude ou abuso, a quantia de até 40 (quarenta) salários mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.
+4. Não se admite a adição, em sede de agravo interno, de tese não exposta no recurso especial, por importar em inadmissível inovação.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.294.789/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BLOQUEIO BACENJUD. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE, INDEPENDENTEMENTE DO TIPO DE APLICAÇÃO. DESNECESSIDADE DE PRODUÇÃO PROBATÓRIA. RECURSO PROVIDO.
+1. O art. 833, X, CPC prevê, textualmente, a impenhorabilidade de valores abaixo de 40 salários mínimos depositados em caderneta de poupança. Todavia, há entendimento dominante nesta Corte acerca da impenhorabilidade dos depósitos inferiores a 40 salários mínimos em qualquer tipo de aplicação.
+2. Desnecessidade de provas quando o fato controvertido não tem influência para modificação do resultado do julgamento, conforme art. 370, § único, CPC. Assim, não há cabimento na produção probatória acerca do tipo de aplicação em que depositados os valores, visto que, em qualquer circunstância, as quantias até 40 (quarenta) salários mínimos serão impenhoráveis.
+3. O art. 833, X, do CPC busca preservar a reserva financeira essencial à proteção do mínimo existencial do executado e de sua família, em razão das inúmeras contingências que podem tornar imprescindível essa poupança. Presume-se como valor indispensável para tanto a quantia de 40 (quarenta) salários mínimos.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Agravo interno improvido.
+(AgInt no REsp n. 2.018.134/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. POUPANÇA. LIMITE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis os valores poupados pelo devedor, seja em caderneta de poupança, conta-corrente, fundo de investimentos ou em papel-moeda, até o limite de 40 salários mínimos.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.958.459/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Assim, a jurisprudência desta Corte Superior entende que é impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento.
+No caso, não houve qualquer análise sobre a ocorrência de abuso, má-fé ou fraude, de forma que a conclusão esposada no acórdão recorrido merece reforma.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE VALORES EM CONTA CORRENTE. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte Superior é firme no sentido da impenhorabilidade de valor até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp 1.984.559/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/3/2022, DJe 30/3/2022)
+Ante o exposto, dou provimento ao recurso especial para, mediante a fundamentação exposta, declarar a impenhorabilidade dos valores existentes na conta bancária da parte recorrente, até o limite de 40 (quarenta) salários mínimos.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DIREITO PROCESSUAL CIVIL. PENHORA. CONTA CORRENTE. LIMITE DE VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. NÃO EXCEDIDO. IMPENHORABILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
