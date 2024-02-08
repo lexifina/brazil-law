@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por PAULO SERGIO DE OLIVEIRA, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 320):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CÉDULA DE CRÉDITO BANCÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. QUESTÕES PRELIMINARES. CONTRARRAZÕES. INOVAÇÃO RECURSAL. RECÁLCULO DO IOF. NÃO CONHECIMENTO, SOB PENA DE VIOLAÇÃO DO JUIZ NATURAL E SUPRESSÃO DE INSTÂNCIA. TARIFA DE AVALIAÇÃO. ORIENTAÇÃO FIRMADA PELO STJ, NO JULGAMENTO DO RESP. Nº 1.578.553/SP, TEMA REPETITIVO 958. COBRANÇA EXPRESSAMENTE PREVISTA NO CONTRATO. PARTE AUTORA QUE NÃO ALEGOU, NA PETIÇÃO INICIAL, A ONEROSIDADE EXCESSIVA. AUSÊNCIA DE PARÂMETROS PARA VERIFICAÇÃO. ÔNUS DO AUTOR, CPC, ART. 373, I. IMPOSSIBILIDADE DE JULGAMENTO PELO COLEGIADO. CPC, ART. 492. PRECEDENTES. DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. RECÍPROCA. ADEQUADO. OBSERVAÇÃO A QUANTIDADE DE PEDIDOS REQUERIDOS E DECAIMENTO PROPORCIONAL DAS PARTES. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS POSTERGADA PARA FASE DE LIQUIDAÇÃO. CPC, ART. 85, § 4º, II. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 330-342), o agravante alegou violação aos arts. 6º, V, e 51, VI, do CDC; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, ser inválida a cobrança da tarifa administrativa denominada Tarifa de Avaliação do Bem, tendo em vista que não há provas nos autos que comprovem a prestação do serviço ofertado pela parte adversa.
+Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 403-407).
+O processamento do apelo especial não foi admitido pela Corte local. Diante de tal fato, foi interposto agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 422-425).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que concerne à cobrança da tarifa de avaliação do bem, o TJPR dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 323-325, sem grifo no original):
+V. No tocante à tarifa de avaliação não a insurgência recursal merece ser acolhida.
+À partida, impõe salientar que o c. Superior Tribunal de Justiça firmou entendimento no REsp nº 1.578.553/SP (Tema Repetitivo 958) que a cobrança da tarifa de registro e avaliação do bem somente pode ser considerada abusiva quando: i) o serviço não for efetivamente prestado; e ii) houver onerosidade excessiva para o contratante.
+No caso dos autos, verifico que o autor não alegou que o serviço não foi prestado, tampouco cogitou de sua onerosidade excessiva, limitando-se a afirmar que há nulidade e abusividades nas tarifas, o que consistiria suposta violação aos artigos 46 e 51, inc. IV, ambos do Código de Defesa do Consumidor.
+Confira-se (mov. 1.1):
+
+Assim sendo, a análise da matéria devolvida a este e. Colegiado, por meio do presente recurso deve ficar adstrita aos limites do que explicitamente foi requerido na inicial, sendo defeso ao julgador reconhecer mais, menos ou diversamente do que se pleiteia na petição inaugural, conforme prevê o artigo 492 do diploma processual civil.
+
+Ainda que assim não o fosse, o ora apelante não demonstrou quaisquer parâmetros para aferição da alegada onerosidade excessiva da tarifa de avaliação do bem que ensejaria sua abusividade, o que lhe incumbia na forma do artigo 373, inciso I, do Código de Processo Civil.
+Dessa forma, não havendo outros argumentos a serem rebatidos, a r. sentença deve ser mantida também nesse ponto.
+Das informações extraídas do aresto combatido, observa-se que o colegiado local salientou que a parte agravante não suscitou, na exordial, acerca da ausência do serviço ofertado pela agravada e sobre a onerosidade excessiva da cobrança, e, por esse motivo, a análise da matéria devolvida ao Tribunal estadual ficaria adstrita aos aos limites do que explicitamente foi requerido na inicial, uma vez que é defeso ao julgador reconhecer questão além ou diversamente do que foi pedido na petição inaugural.
+Contudo, conforme é possível verificar do exame das razões recursais, o agravante não impugnou o fundamento utilizado pelo acórdão recorrido acima destacado.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO DE NATUREZA CONSTITUTIVA - CONDENATÓRIA - DISPOSITIVO CONSTITUCIONAL. VIOLAÇÃO. COMPETÊNCIA DO STF. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL NAS ORDENS DE PAGAMENTO. FUNDAMENTO NÃO IMPUGNADO. ÓBICE DA SÚMULA N. 283 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS DO ARTS. 255, §§ 1º e 2º, DO RISTJ e 1.029, § 1º do CPC/2015 NÃO CUMPRIDOS. DECISÃO MANTIDA.
+1. Inviável a análise de ofensa aos dispositivos constitucionais sob pena de usurpação da competência reservada à Corte Suprema.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Não se conhece do recurso interposto pela alínea "c" do permissivo constitucional, quando a divergência não é demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os supostos casos que deveriam ser apresentados e confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1909651/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2022, DJe 28/03/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte agravada em 2% (dois por cento) sobre o valor fixado na origem, devidamente atualizado, observada a gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CÉDULA DE CRÉDITO BANCÁRIA. ALEGAÇÃO DE COBRANÇA INDEVIDA. PARTE AUTORA QUE NÃO ALEGOU, NA PETIÇÃO INICIAL, ACERCA DA AUSÊNCIA DO SERVIÇO PRESTADO. FUNDAMENTO SUFICIENTE SUSCITADO PELO TRIBUNAL A QUO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
