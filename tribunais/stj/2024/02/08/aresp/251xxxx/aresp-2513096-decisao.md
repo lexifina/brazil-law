@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por ANDERSON MARTINS contra decisão oriunda do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que negou seguimento ao recurso especial.
+Depreende-se dos autos que o agravante foi condenado, como incurso no art. 155, § 4º, IV, do Código Penal, à pena de 2 anos e 4 meses de reclusão, no regime inicial semiaberto.
+Foi negado provimento ao recurso de apelação aviado pela defesa. O acórdão está assim ementado (e-STJ fls. 519/520):
+Furto qualificado pelo concurso de agentes Recurso defensivo requerendo o reconhecimento da excludente de culpabilidade pelo desconhecimento do caráter ilícito da prática delitiva, e a desclassificação para o crime de furto na forma tentada - Provas isentas e francamente incriminadoras, comprovando a autoria delitiva, consubstanciadas nas declarações da vítima, nos depoimentos dos policiais militares, e na confissão espontânea do réu - Qualificadora do concurso de agentes comprovada nos autos Impossibilidade de reconhecimento da excludente de culpabilidade pelo desconhecimento da prática delitiva Réu que não comprovou nos autos o alegado, inexistindo provas de que realmente desconhecia que praticou a conduta ilícita - Réu obteve a posse dos veículos e dos objetos da empresa vítima, ocorrendo a sua inversão, o que afasta a tese da desclassificação para o crime na sua forma tentada Penas Exasperação em 1/6 (um sexto) da pena-base acima do mínimo legal, em razão dos comprovados maus antecedentes criminais do réu , de maneira adequada Compensação entre a circunstância agravante da reincidência com a circunstância atenuante da confissão espontânea do réu Regime inicial semiaberto mantido Negado provimento.
+Foi então interposto o recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual se alegou que "há de se observar a excludente de culpabilidade ante o desconhecimento do caráter ilícito da pratica delitiva" (e-STJ fl. 536).
+Além disso, pugnou pelo reconhecimento da tentativa.
+O MPF, às e-STJ fls. 582/588, manifestou-se pelo não conhecimento do recurso.
+É, em síntese, o relatório.
+De início, destaco, na linha do parecer do Parquet, que, "em relação à tese de desclassificação para a forma tentada do delito, o juízo de admissibilidade do recurso especial foi realizado com base no art. 1.030, I, "b", do CPC/15, sendo que, contra decisão fundada em tal dispositivo, o Código de Processo Civil prevê a interposição do recurso de agravo interno, consoante o § 2º do supramencionado artigo legal, de modo que o presente agravo não merece ser conhecido pela patente inadmissibilidade" (e-STJ fl. 584).
+Com relação à tese remanescente, vê-se que a pretensão de absolvição esbarra no óbice decorrente da Súmula n. 7 desta Corte, pois sua análise reclamaria a incursão no acervo fático-probatório.
+Ante o exposto, conheço parcialmente do agravo para negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
