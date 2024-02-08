@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por HAPVIDA ASSISTENCIA MEDICA S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÀO. VALOR EXECUTADO SE REFERE À MULTA DIÁRIA, QUE ENCONTRA FUNDAMENTO NO DESCUMPRIMENTO DA TUTELA DE URGÊNCIA DEFERIDA, CONFIRMADA NA SENTENÇA, QUE FOI MANTIDA EM SEDE DE APELAÇÃO. DESCUMPRIMENTO DA OBRIGAÇÃO QUE FICOU INCONTROVERSO. NÃO CONSTATADA ILEGALIDADE DO BLOQUEIO DE VALORES ATRAVÉS DO SISBAJUD, UMA VEZ QUE SE REFERE AO MONTANTE EXECUTADO. NÃO CARACTERIZADA HIPÓTESE DE APLICAÇÃO DO ART. 805 DO CPC. QUESTÃO RELATIVA À EVENTUAL NECESSIDADE DE CAUÇÃO SERÁ APRECIADA NO MOMENTO OPORTUNO, CONFORME CONSIGNADO NA DECISÃO RECORRIDA, TENDO EM VISTA QUE NÃO DETERMINADO NENHUM LEVANTAMENTO. MULTA QUE NÃO RESULTOU MONTANTE EXCESSIVO, NEM DESPROPORCIONAL ÀS CIRCUNSTÂNCIAS VERIFICADAS. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 536, § 1º, do CPC, no que concerne ao não cabimento de penhora de ativos financeiros da recorrente como medida coercitiva, tendo em vista que não há qualquer tipo de caução para assegurar a reversibilidade da medida e considerando que o código processualista traz a fixação de multa diária como forma de coerção para cumprimento das medidas liminares, trazendo a seguinte argumentação:
+Primeiramente, necessário se faz ressaltar que, ao contrário do que pretende a recorrida, não há cabimento para a constrição de valores como forma de cumprimento de medidas liminares.
+Isto porque, nos termos do que disciplina o Código de Processo Civil, há expressa previsão das medidas que poderão ser adotadas para o cumprimento da tutela, dentre elas, a fixação da multa diária.
+ ..
+Ou seja, não há qualquer previsão para a penhora dos ativos financeiros da parte contrária como medida coercitiva, muito menos como forma de custear o procedimento ora pleiteado.
+ ..
+Ou seja, não se pode simplesmente determinar-se a expropriação de valores para o cumprimento da ordem judicial, pois se estará permitido o levantamento de valores sem qualquer espécie de caução.
+Não há qualquer previsão expressa de bloqueio dos ativos financeiros da como forma de medida coercitiva para possibilitar o custeio do tratamento pleiteado.
+E isto porque, tal prática impõe levantamento de depósito em dinheiro e a prática de atos que importem transferência de posse ou alienação de propriedade sem que para isto haja qualquer tipo de caução para assegurar a reversibilidade da medida.
+ ..
+Portanto, é certo que não há que se falar em penhora dos ativos financeiros da Impugnante como forma da medida coercitiva, ante a expressa ausência de previsão legal para tanto. A irreversibilidade da medida é motivo legal para que se obste o prosseguimento da execução como até então vendo sendo praticada (fls. 64-66).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+O p r esente cumprimento provisório de sentença visa à cobrança de multa diária, que atingiu o valor de R$ 9.000,00, sob alegação de que a agravante deixou de cumprir a obrigação de fazer imposta em sede de tutela de urgência.
+ ..
+A multa executada encontra fundamento no descumprimento da tutela de urgência deferida, confirmada na sentença, que foi mantida em sede de apelação (fls. 33/35, 228/233 e 662/669 da fase de conhecimento).
+Não há se falar em ilegalidade quanto ao bloqueio determinado, uma vez que se refere ao valor executado, que obviamente pode ser objeto de constrição, conforme se depreende dos artigos 520, "caput", 523, § 3º, 537, § 3º e 835, I do Código de Processo Civil. Aliás, ficou incontroverso o descumprimento da obrigação.
+Por outro lado, não se aplica, no caso concreto, o disposto no artigo 805 do Código de Processo Civil, pois a agravante, apenas, alega que se trata de uma medida onerosa, mas não apresentou nenhum outro meio mais eficaz e menos oneroso.
+A questão relativa à eventual necessidade de caução, ainda, não foi apreciada, pelo Juízo "a quo", por considerar que essa matéria será analisada no momento oportuno, o que se justifica, tendo em vista o fato de não ter sido determinado nenhum levantamento (fls. 55-57).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
