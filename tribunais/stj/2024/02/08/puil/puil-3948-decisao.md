@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se do Pedido de Uniformização de Interpretação de Lei Federal formulado pelo Município de Chapecó contra o acórdão de fls. 627/628, proferido pela 2.ª Turma Recursal do Estado de Santa Catarina e resumido pela seguinte ementa:
+RECURSO INOMINADO. JUIZADO DA FAZENDA PÚBLICA. MUNICÍPIO DE CHAPECO. VIGIA. ADICIONAL DE PERICULOSIDADE. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DA MUNICIPALIDADE. DISCUSSÃO RESTRITA AO TERMO INICIAL DE PAGAMENTO DA RUBRICA. FUNÇÃO DE VIGILÂNCIA PATRIMONIAL RECONHECIDA PELO MTE COMO PERIGOSA, ATRAVÉS DA PORTARIA N. 1885/2013. ADICIONAL DEVIDO DESDE ENTÃO, RESPEITADO O PERÍODO IMPRESCRITO. PRECEDENTES DAS TURMAS RECURSAIS. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. (fl. 783)
+Na petição dirigida a esta Corte Superior, fls. 790/804, o requerente alega que o órgão prolator do acórdão "adotou interpretação divergente da que vem sendo adotada pelo Superior Tribunal de Justiça e instaurou divergência em relação a decisões proferidas por Turmas Recursais de outros Estados" (fl. 790), pois "não é possível a retroação dos efeitos do laudo pericial, como se verifica nos PUIL 413/RS e 1954/SC, bem como nos processos n. AgInt no AgInt no AREsp 1953114/SP e AgInt nos EDcl no REsp 2000096/ PR" (fls. 795/796). Alega, ainda, existir "divergência jurisprudencial das turmas recursais dos Estados quanto ao termo inicial do pagamento do adicional de periculosidade" (fls. 800/804), a justificar o manejo do presente pedido.
+Dinaura Fagundes Juriati, na qualidade de requerida, apresentou contrarrazões (fls. 849/869).
+Partes regularmente representadas (fl. 29).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O presente pedido não merece conhecimento.
+A Constituição Federal reservou ao Superior Tribunal de Justiça o papel de Corte uniformizadora da interpretação da legislação federal. Cuida-se, pois, de uma instância especial e não uma terceira instância recursal.
+Por essa razão, a escorreita exegese do que dispõe o artigo 18 (caput e § 3.º) da Lei n. 12.153/2009 pressupõe como quadro fático a existência de dissídio jurisprudencial quanto ao correto entendimento e/ou aplicação das leis federais. Portanto, o pedido de interpretação de lei dirigido ao Superior Tribunal de Justiça somente é cabível quando presente dissenso interpretativo circunscrito a questões de direito material regulado e solvido exclusivamente por legislação federal.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. QUESTÃO DE FUNDO RESOLVIDA COM BASE EM LEI ESTADUAL. INVIABILIDADE DO RECURSO.
+1. A solução do presente caso passou pela interpretação da legislação estadual, o que torna inviável o conhecimento do pedido de uniformização de lei federal lastreado em divergência com decisões de Turmas dos Juizados Especiais da Fazenda Pública de outros Estados (art. 18, § 3º, da Lei 12.153/2009), já que o acórdão paradigma é de outra unidade da federação, que apresenta outro contexto legal, e o tema não se resume à interpretação de lei federal.
+2. Agravo Interno não provido.
+(AgInt no PUIL 1.802/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 01/12/2020)
+No caso apresentado pelo requerente, a sentença (fls. 706/710) e o acórdão combatidos (fls. 781/783) solveram a questão exclusivamente à luz do art. 66 da Lei Complementar Municipal n. 130/2001 e do Decreto Municipal 42.972, de 16 de maio de 2022, fundamentos sobre os quais não cabe a esta Corte Superior se manifestar em sede do pedido de uniformização de interpretação de lei federal.
+Ademais, tratando-se, como é o caso, de demanda oriunda do microssistema dos Juizados Especiais da Fazenda Pública, regulado pela Lei n. 12.153, de 22 de dezembro de 2009, mostra-se descabido o invocado amparo em decisões deste STJ que examinaram adicionais devidos pela União a seus servidores, causas afetas ao microssistema dos juizados especiais federais, disciplinado na Lei n. 10.259/2001.
+Assim, examinada por qualquer um destes ângulos, a hipótese revela-se sempre não merecedora de conhecimento.
+A NTE O EXPOSTO, suficientemente demonstrado o não cabimento do presente pedido de uniformização de interpretação de lei federal, dele não conheço, com fundamento no disposto no art. 34, XVIII, "a", do RISTJ.
+Publique-se.
+EMENTA
