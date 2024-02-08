@@ -1,0 +1,11 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por FRANCISCO POL - ESPÓLIO, em face de decisão que inadmitiu o recurso especial, manejado contra acórdão do Tribunal DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS.
+De início, não se conhece da alegada usurpação de competência. Com efeito, "não ocorre usurpação de competência do STJ na hipótese em que o Tribunal a quo não admite o recurso especial sob o fundamento da inexistência de contrariedade ou negativa de vigência à lei federal, pois conforme entendimento desta Corte, é possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea a, em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia, conforme cristalizado na Súmula 123 do STJ" (STJ, AgRg no AREsp n. 82.380/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 16/3/2012).
+No mais, o recurso especial restou inadmitido em razão da ausência de ofensa aos arts. 489, § 1º e 1.022, parágrafo único, I, II, do CPC/2015, assim como em razão da Súmula 7/STJ.
+Todavia, a parte agravante deixou de impugnar, especificamente, os fundamentos para a inadmissão do recurso especial, na medida em que limitou-se a reiterar as razões já expostas do apelo especial.
+Com efeito, "a mera reiteração das razões recursais sem a impugnação específica de todos os fundamentos da decisão agravada inviabiliza o exame do recurso" (STJ, AgInt nos EAREsp 1.157.501/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, DJe de 22/08/2019).
+Assim, se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, o art. 932, III, do CPC/2015 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (STJ, AgRg no Ag 427.696/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 12/08/2002).
+Isso posto, não conheço do agravo em recurso especial.
+Intimem-se .
+EMENTA
