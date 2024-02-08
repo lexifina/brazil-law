@@ -1,0 +1,20 @@
+DECISÃO
+JOÃO VITOR RODRIGUES LEPE alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0001747-67.2018.8.26.0288).
+Depreende-se dos autos que o paciente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, por infração ao art. 33, caput, da Lei n. 11.343/2006.
+Busca-se, por meio deste writ, a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas, fixação de regime menos gravoso e a substituição da pena.
+Decido.
+No que tange à minorante prevista no § 4º do art. 33 da Lei de Drogas, o Juiz sentenciante entendeu pela não incidência do redutor pelos seguinte fundamentos (fl. 97, destaquei):
+Impossível o reconhecimento da causa de diminuição de pena prevista no § 4.º, do artigo 33, da Lei n.º 11.343/2006, pois, em que pese não ostentar maus antecedentes, a certidão de fls. 310-312 demonstra a prática de outros delitos, evidenciando que o mesmo se dedica a atividades criminosas.
+O Tribunal de origem manteve a negativa do benefício conforme abaixo aduzido (fls. 112-113, grifei):
+Revelando-se descabida a incidência do redutor previsto na Lei de Drogas (art. 33, § 4º), ausentes os requisitos legais, destacando-se a reincidência específica de ANTÔNIO SÉRGIO (fl. 306) e o fato de que JOÃO VITOR também possui condenação definitiva pela prática do delito de tráfico de entorpecentes (fl. 310), sendo evidente seu envolvimento em atividades criminosas.
+Anotando-se ainda que para vender e negociar drogas em qualquer lugar, os acusados deveriam necessariamente estar inseridos na estrutura da criminalidade estabelecida naquela região, ressabido que não há, ainda, "livre concorrência" na venda de drogas. E não se trata aqui de suposição ou mera conjectura, pois é de conhecimento público a disputa de pontos de venda de drogas entre organizações criminosas rivais.
+Ademais, os responsáveis pela estruturação da venda de drogas, já no controle das etapas de produção, transporte e acondicionamento, não confiariam a entrega a consumidor final a pessoas que não gozassem da confiança deles, ou que não tivesse com eles algum vínculo.
+Aliás, o relatório de investigação às fls. 63/64 indica a prática do tráfico de entorpecentes pelos réus no local dos fatos com habitualidade.
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida ou atividade habitual.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, conforme visto, a Corte de origem justificou a impossibilidade de incidência do redutor em questão, em razão, notadamente, da existência de condenação definitiva por tráfico de drogas em desfavor do paciente.
+Assim, tal como assentado pela Corte local, "Condenações definitivas com trânsito em julgado por fato anterior ao crime descrito na denúncia, ainda que com trânsito em julgado posterior à data dos fatos tidos por delituosos, embora não configurem a agravante da reincidência, podem caracterizar maus antecedentes e, nesse contexto, impedem a aplicação da minorante de tráfico de drogas dito privilegiado, por expressa vedação legal" (AgRg no HC n. 783.764/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 11/5/2023, grifei)
+Logo, não constato flagrante ilegalidade no ponto.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
