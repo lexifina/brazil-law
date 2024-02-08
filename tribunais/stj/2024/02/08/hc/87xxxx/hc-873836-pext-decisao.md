@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de extensão dos efeitos da ordem concedida neste habeas corpus, formulado em favor das corrés CRISTIANE DA SILVA DOS SANTOS e ERIKA MAIOLI BEZERRA, ao argumento de que elas se encontram na mesma situação fático-jurídica da paciente DANIELA FERNANDA PAYO DOS SANTOS, tendo em vista que se encontram presas e são mães de filhos menores de 12 (doze) anos.
+A defesa afirma estar caracterizado o mesmo constrangimento ilegal em relação às requerentes e pede a extensão do benefício concedido a DANIELA, a fim de que a prisão preventiva das corrés seja substituída pela prisão domiciliar, com monitoramento eletrônico.
+É o relatório. Decido.
+O presente Pedido de Extensão não merece ser admitido, por instrução deficitária.
+Verifica-se que esta insurgência, apesar de impetrada por advogado, traz apenas a petição inicial e documentos pessoais das requerentes, mas está instruída com a documentação necessária à compreensão da controvérsia e ao exame da plausibilidade do pedido. Em que pese a existências das certidões de nascimento de e-STJ fls. 326/330, a defesa não comprovou que as requerentes se encontram presas com base no mesmo decreto prisional e circunstâncias fáticas; a cadeia de decisões a elas vinculas não foi carreada ao autos.
+É de se ressaltar que o rito do habeas corpus, e seus incidentes processuais, pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao requerente. Diante disso, o impetrante deve demonstrar, de maneira inequívoca, por meio de documentos e cópia das decisões impugnadas, a existência do constrangimento ilegal imposto às requerentes, o que, no caso, não foi feito.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, não conheço do Pedido de Extensão n. 58.218/2024.
+Publique-se.
+Antes, porém, remeto à Coordenadoria desta Quinta Turma para fazer constar na autuação deste incidente o nome da segunda requerente, ERIKA MAIOLI BEZERRA.
+EMENTA
