@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JANDERSON SANTOS BARBOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação n. 1.0024.18.101200-6/001).
+Depreende-se dos autos que o réu foi condenado pela prática dos crimes de organização criminosa (art. 2º, caput, da Lei n. 12.850/2013) e lavagem de capitais (art.1º, § 4º, da Lei n. 9.613/1998), em concurso material (art. 69, caput, do Código Penal), sendo imposta pena total de 8 anos e 2 meses de reclusão, a ser cumprida em regime inicialmente fechado. Ao final da sentença, "observado o disposto no art. 387, §2º, do Código de Processo Penal e, considerando que o sentenciado Janderson se encontra recolhido em sistema prisional desde o dia 06/01/2021,  foi alterado  o regime inicialmente fixado para o semiaberto" (e-STJ fl. 34).
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso "para reduzir as penas de JANDERSON SANTOS BARBOSA para 07 (sete) anos, 06 (seis) meses e 15 (quinze) dias de reclusão, e 25 (vinte e cinco) dias-multa, no regime semiaberto" (e-STJ fl. 45).
+Daí o presente writ, no qual sustenta a defesa ilegalidade na dosimetria quanto ao aumento da pena-base para o crime de organização criminosa, "tendo em vista sua primariedade, bons antecedentes, e claro, a confissão espontânea" (e-STJ fl. 5).
+Destaca ser "cabível a aplicar a pena-base (03 anos), ao caso em tela, ou utilizar a pena-base e aplicar o aumento da fração de 1/8, para as duas circunstâncias judiciais desfavoráveis, ficando uma pena de 03 (três) anos e 09 (nove) meses, e posteriormente, aplicada a atenuante de confissão espontânea, diminuindo a fração de 1/6 da pena" (e-STJ fl. 5).
+Requer, liminarmente e no mérito, seja reduzida a pena-base ao mínimo legal. Pretende, outrossim, "seja aumentando em 1/8 as duas circunstâncias judiciais desfavoráveis para cálculo da pena-base" (e-STJ fl. 5).
+Indeferido o pedido de liminar e apresentadas as informações.
+Parecer ministerial assim ementado (e-STJ fl. 89):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. NÃO CONHECIMENTO. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL, COM BASE NA NEGATIVAÇÃO DA CULPABILIDADE E DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTE DO STJ. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS H, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, mormente nos casos em que não se verifica nenhuma flagrante ilegalidade, tal qual a espécie.
+Por estas considerações, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
