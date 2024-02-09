@@ -1,0 +1,20 @@
+DECISÃO
+INGRID ALMEIDA AGNELO alega sofrer constrangimento ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1505085-04.2021.8.26.0309.
+Em suas razões, a defesa alega que a paciente faz jus ao reconhecimento do privilégio no estelionato pelo qual foi condenada, diante da sua primariedade e do valor da res furtiva, avaliada em R$ 613,33.
+Decido.
+Quanto à aplicação do privilégio no furto, o acórdão registrou (fl. 253):
+De outra parte, não é hipótese de aplicação do privilégio previsto no artigo 171, parágrafo 1º, do Código Penal, até porque não se trata de direito subjetivo da pessoa acusada, eis que a literalidade da norma penal prevê que o julgador poderá reduzir a pena aplicada, a depender das circunstâncias do caso, e no presente caso não se mostrava recomendável, como bem mencionou o representante do Ministério Público, eis que "foi ofertada a ela o beneficio do acordo de não persecução penal e a oportunidade de reparar o prejuízo causado à vítima, o que não foi cumprido".
+De acordo com o art. 171, § 1º, do Código Penal, o reconhecimento do estelionato privilegiado depende do preenchimento dos critérios legais então elencados: ser o criminoso primário e de pequeno valor a coisa furtada. Nesta hipótese, o juiz deverá substituir a pena de reclusão pela de detenção, diminuí-la de 1 a 2/3, ou aplicar somente a pena de multa, nos mesmos moldes do privilégio aplicado ao delito de furto.
+Assim, diferentemente da conclusão do Tribunal estadual, para o reconhecimento do privilégio legal - direito subjetivo do réu -, a norma penal exige, de forma literal, a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada que, na linha do entendimento pacificado no Superior Tribunal de Justiça, não deve ultrapassar o valor de um salário-mínimo, vigente à época dos fatos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO PRIVILEGIADO. PARÂMETRO DE CÁLCULO. CONTINUIDADE DELITIVA. SOMA DOS PREJUÍZOS CAUSADOS EM TODAS AS INFRAÇÕES. VALOR SUPERIOR AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso de concurso de crimes, a aferição do pequeno valor do prejuízo, para fins de aplicação do art. 171, § 1.º, do Código Penal, deve considerar o valor total do prejuízo causado em todos os ilícitos, de modo que, ultrapassado o valor do salário mínimo, torna-se inviável o reconhecimento do benefício. Precedentes.
+2. No caso, o prejuízo causado pelas condutas criminosas - R$ 1.100, 00 - é maior que o dobro do salário mínimo vigente à época dos fatos, razão pela qual não pode ser considerado de pequeno valor.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.858.223/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/4/2020, DJe de 21/5/2020.)
+No caso, a paciente preencheu os requisitos objetivos - primária e pequeno valor do prejuízo, que foi avaliado em R$ 613,33, e não ultrapassa o salário mínimo vigente à época dos fatos (R$ 1.100,00). Assim, consoante o entendimento jurisprudencial deste Tribunal Superior, faz jus ao privilégio previsto no citado dispositivo legal.
+Assim, o acórdão está em desconformidade com a jurisprudência desta Corte Superior, razão pela qual identifico a ilegalidade apontada e passo à dosar a pena.
+Partindo dos critérios adotados pelas instâncias antecedentes, verifico que a pena-base foi fixada no mínimo legal, em 1 ano de reclusão, mais 10 dias-multa. Na segunda fase, a pena permaneceu inalterada. Na terceira etapa, reconhecido o privilégio, em que pese o valor da res ser inferior ao salário-mínimo vigente à época dos fatos, a ré se utilizou da sua relação de emprego para praticar o delito contra os clientes do estabelecimento em que trabalhava, razão pela qual reduzo a reprimenda em 2/3, o que a torna definitivamente estabelecida em 4 meses de reclusão, mais 4 dias-multa.
+À vista do exposto, concedo a ordem, in limine, a fim de aplicar o privilégio no estelionato e redimensionar a pena para 4 meses de reclusão, mais 4 dias-multa.
+Publique-se e intimem-se.
+EMENTA
