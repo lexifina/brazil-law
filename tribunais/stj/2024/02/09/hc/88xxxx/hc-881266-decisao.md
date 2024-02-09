@@ -1,0 +1,21 @@
+DECISÃO
+MIKAEL RHAMON RODRIGUES LEITE alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Habeas Corpus n. 5069677-86.2023.8.24.0000.
+Nas razões deste writ, a defesa sustenta que a reincidência não deve ser aplicada para todas as penas impostas ao paciente, somente naquelas em que foi reconhecida a sua incidência pelo sentenciante.
+O Ministério Público Federal manifestou-se pela concessão da ordem em menor extensão (fls. 72-74).
+Decido.
+Inicialmente, verifico a indevida supressão de instância, porquanto o Tribunal de Justiça não se pronunciou sobre a matéria suscitada pela defesa, o que impede a análise direta da insurgência por este Superior Tribunal.
+A ação constitucional deixou de ser conhecida porque o agravo em execução é o instrumento processual adequado e eficiente para impugnar julgado desfavorável ao condenado, proferido em incidente de execução de pena.
+No entanto, trata-se de matéria exclusivamente de direito, que demanda somente a leitura das razões de decidir do Juiz da VEC para ser dirimida (quantum da fração para a progressão de regime). Assim, mesmo ante o não conhecimento do mandamus, o Tribunal de Justiça deveria haver se manifestado sobre eventual existência de flagrante ilegalidade no ato judicial impugnado a justificar (ou não) a concessão da ordem de ofício.
+Assim, ao contrário do concebido pelo órgão de segundo grau, "não obstante a previsão de recurso próprio no ordenamento jurídico, é cabível a impetração de habeas corpus sempre que a ilegalidade suscitada estiver influenciando na liberdade de locomoção do indivíduo e a pretensão formulada não demandar revolvimento de matéria probatória" (HC n. 393.671/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/8/2017).
+Nessas hipóteses, a solução adotada por este Superior Tribunal cinge-se em determinar que a Corte de origem aprecie, como entender de direito, o habeas corpus originário, e oferte a devida prestação jurisdicional, que somente pode ser negada de forma justificada, à vista, por exemplo, da supressão de instância, da deficiência da instrução do writ, da falta de interesse de agir, da reiteração de pedido etc.
+Confira-se, a propósito, o seguinte precedente:
+ ..
+1. Por meio da presente impetração, a defesa pretende que o pleito de progressão de regime e livramento condicional seja apreciado, dispensado o exame criminológico. O mérito da tese aqui formulada não foi enfrentado pelo Tribunal de origem - prescindibilidade do exame criminológico para obtenção de benefícios -, o que impede esta Corte de analisar o tema, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Diante desse contexto, não se configura hipótese de provimento do agravo regimental em análise. Contudo, vislumbra-se a possibilidade de concessão de ordem de ofício.
+2. O Tribunal de Justiça indeferiu liminarmente o writ, deixando de apreciar o pleito formulado na impetração, ao fundamento de que "a via eleita não se presta a funcionar como substitutivo do agravo em execução, recurso cabível para o reexame da matéria ora ventilada". Entretanto, esta Corte Superior de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito.
+(AgRg no HC n. 561.747/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/8/2020, grifei)
+À vista do exposto, concedo a ordem , em menor extensão, apenas para determinar ao Tribunal estadual que se manifeste, com urgência, sobre eventual existência de flagrante ilegalidade na decisão do Juiz da VEC, como entender de direito.
+Comunique-se o inteiro teor deste decisum à Corte estadual.
+Publique-se e intimem-se.
+EMENTA
