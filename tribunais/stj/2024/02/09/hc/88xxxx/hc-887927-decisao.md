@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de PEDRO FRANCO NUNES, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que não conheceu do agravo em execução defensivo, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO - DETRAÇÃO PENAL - FIXAÇÃO DE REGIME INICIAL SEMIABERTO - RECURSO DEFENSIVO PARA A PROGRESSÃO DE REGIME - NÃO CONHECIMENTO - RECURSO NÃO CONSENTÂNEO COM OS FUNDAMENTOS DA DECISÃO RECORRIDA - ART. 932, III, DO CPC - RECURSO NÃO CONHECIDO." (e-STJ, fl. 41).
+Neste writ, o impetrante alega constrangimento ilegal sofrido pelo paciente em decorrência da decisão que manteve o regime inicial semiaberto para cumprir a pena de pouco mais de 6 (seis) meses.
+Afirma que a comarca de Mogi das Cruzes/SP não possui estabelecimento prisional adequado para o cumprimento da reprimenda em regime semiaberto. Aduz que a mera gravidade do delito não é causa jurídica para segregação de uma pessoa que merece ter sua pena aplicada em regime menos gravoso ou em seu domicílio, situação que lhe permitirá cuidar de sua saúde. Ressalta que se trata de paciente de 66 anos.
+Sustenta ofensa à Súmula n. 440/STJ.
+Requer, inclusive liminarmente, a concessão da ordem, para determinar a expedição de contramandado de prisão e o cumprimento da pena em regime aberto, de forma domiciliar.
+É o relatório.
+De plano, observo que a matéria não foi objeto de discussão pelo Tribunal de origem, que não conheceu do recurso, com base no art. 932, III, do CPC:
+"Conforme se infere da decisão recorrida (fls. 10/12), a questão submetida a este Tribunal por meio de recurso se refere à fixação do regime inicial em razão da detração penal do pedido de prisao provisória (CPP, art. 387, § 2º).
+Entretanto, as razões recursais e respectivo pedido se referem à progressão de regime, questão diversa e prevista no art. 112 da Lei 7.210/1984.
+Impossível, pois, o julgamento do recurso, pos o efetivo julgamento pelo juízo de primeira instância acerca de progressão de regime somente foi feito posteriormente (fls. 172/173 dos autos 0017763-85.2023.8.26.0041 ) e contra decisão ainda não recorrida." (e-STJ, fl. 42).
+Desse modo, resta obstada a análise deste habeas corpus, por afronta ao princípio do duplo grau de jurisdição e incabível supressão de instância.
+Nesse sentido, esta Corte Superior já decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC n. 376.650/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 14/2/2017, DJe de 22/2/2017).
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. TRAFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. "OPERAÇÃO WALTER WHITE". FUNDAMENTOS DA PRISÃO PREVENTIVA. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. TRÂMITE REGULAR. COMPLEXIDADE. AÇÃO PENAL NA FASE DE ALEGAÇÕES FINAIS. INCIDÊNCIA DA SÚMULA N. 52 DO STJ. AGRAVO DESPROVIDO.
+1. A prolação de decisão unipessoal pelo Ministro Relator não representa violação do princípio da colegialidade, pois está autorizada pelo art. 34, inciso XX, do Regimento Interno desta Corte em entendimento consolidado pela jurisprudência do Superior Tribunal de Justiça por meio do enunciado n. 568 de sua Súmula.
+2. A tese de ausência de fundamentação idônea para a manutenção da prisão preventiva dos agravantes não foi objeto de análise pelo Tribunal de origem, tendo em vista que se tratava de mera reiteração de pedido formulado em habeas corpus anteriormente impetrado, ao qual a Corte estadual denegou a ordem. Por esse motivo, a referida alegação não pode ser apreciada no presente recurso pelo Superior Tribunal de Justiça, sob pena de configurar indevida supressão de instância.
+3. Como é cediço, "Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância" (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 6/4/2017, DJe 20/4/2017).
+ .. 7. Agravo regimental a que se nega provimento." (AgRg no RHC n. 184.921/RR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. PRISÃO PREVENTIVA. INSURGÊNCIA. REITERAÇÃO DE WRIT ANTERIOR IMPETRADO NA ORIGEM. MATÉRIA NÃO ANALISADA NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. CAUTELARES DIVERSAS DA PRISÃO. NÃO CABIMENTO. PRISÃO DECRETADA PELO DESCUMPRIMENTO DE MEDIDAS ALTERNATIVAS. EXCESSO DE PRAZO. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A impugnação aos fundamentos da prisão cautelar foi analisada em habeas corpus diverso, impetrado no Tribunal de origem. Por se tratar de mera reiteração de pedido, o Tribunal local não conheceu da insurgência. Dessa forma, esta Corte não pode avançar na análise dos temas, sob pena de indevida supressão de instância, forma que não é possível sanar o evidente erro na impetração. Precedentes.
+ ..
+7. Agravo regimental desprovido." (AgRg no HC n. 812.208/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRISÃO DOMICILIAR. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXPEDIÇÃO DE GUIA DE EXECUÇÃO ANTES DO CUMPRIMENTO DO MANDADO DE PRISÃO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+2. O pedido de prisão domiciliar não foi analisado pela Corte de origem, o que impede o exame do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.
+ ..
+4. Agravo regimental não provido." (AgRg no RHC n. 152.754/SP, deste relator Ministro, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021).
+Ante o exposto, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
