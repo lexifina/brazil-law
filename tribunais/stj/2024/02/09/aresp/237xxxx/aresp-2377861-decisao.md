@@ -1,0 +1,22 @@
+DECISÃO
+LUCILENE MARIA OLIVEIRA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região na Apelação Criminal n. 0000238-53.2016.4.01.3602/MT.
+A agravante, absolvida impropriamente, foi submetida à medida de segurança (tratamento ambulatorial), pelo período mínimo de 2 anos, em decorrência de conduta tipificada no art. 331 do Código Penal.
+Nas razões do recurso especial, a defesa apontou violação do art. 331 do Código Penal. Defendeu, em síntese, a atipicidade da conduta imputada. Aduziu que: "para efeitos de configuração do delito de desacato, é preciso que o funcionário público esteja presente quando da conduta praticada pelo agente, mesmo que as ofensas não sejam proferidas face a face" (fl. 395).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 554-557, pelo provimento do AREsp e pelo não provimento do REsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou (fls. 354-355):
+ ..
+Afirma ser atípica a conduta que lhe foi atribuída relativa ao crime de ameaça. Aduz que não se reveste de tipicidade penal a conduta do réu que profere ameaça sem concretude, em momento de alteração anímica.
+No que se refere ao crime de desacato, afirma que "conforme entendimento do STJ, em consonância com o entendimento da doutrina mais atual e das normas internacionais, o desacato não pode ser considerado uma conduta criminosa, porque se trata de tipo penal incompatível com o importante art. 13 do Pacto de São José da Costa Rica" (fl. 178).
+Não procedem estas alegações. Na hipótese dos autos, a materialidade e a autoria dos delitos de ameaça (CP, art. 147) e de desacato restaram devidamente comprovados pelos documentos de fls. 10/14; termos de declarações de fls. 33, 39/40, 68 e atestados médicos de fls. 35/36, sendo certo que as alegações da recorrente não são aptas a infirmar os fundamentos da sentença que, por oportuno, passo a destacar:
+"Do acervo probatório constante do processo se extrai que LUCILENE MARIA VIEIRA, através de várias postagens feitas na rede social Facebook, realizadas em 07/08/2014, proferiu ofensas e expressões aviltantes à magistrada trabalhista Adenir Alves da Silva Carruesco, tais como "juíza desgraçada", "você fez odiosa, por falta de integridade", "vc é tão ordinária", "maldita" (fls. 27/31).
+Outrossim, percebe-se, de modo bastante claro, das mesmas publicações, o teor ameaçador e agressivo das declarações da ré, direcionadas à juíza e à sua família, a exemplo de "se vocês não voltaram como eu estou dizendo agora vocês vão morrer aqui", "se você não for embora desse país, eu juro. Vc vai morrer. Não vou te matar. Tenho um vingador. E já peticionei a ele", "dele vc não escapará! Salvo se for embora do país! Você seu marido e seus filhos!"" (fl. 152).
+Ao contrário do afirmado pela recorrente, restou suficientemente demonstrado nos autos que a recorrente intimidou a vítima, prometendo-lhe mal injusto e grave, fato este que caracteriza o crime de ameaça, descrito no art. 147 do estatuto repressivo pátrio. Ademais, a ira, mesmo que passageira, não anula a vontade de intimidar, visto que a ameaça de pessoa irada pode infundir temor à vítima, o que configura o crime de ameaça, que é considerado delito formal, que se consuma no momento em que a vítima toma conhecimento da ameaça.
+De igual modo, restou comprovada a prática do crime de desacato, na medida em que se demonstrou nos autos que Lucilene Maria Oliveira, por meio de mensagens postadas em rede social, desacatou, em razão da função pública, a juíza do trabalho Adenir Alves da Silva Carruesco, sendo impositiva a manutenção da sentença de primeiro grau.
+A pretensão recursal com base na tese de que declarações em redes sociais não podem configurar o crime de desacato, em vista da necessidade de as ofensas serem proferidas na presença do funcionário público, não foi suscitada pela defesa e nem debatida pela instância antecedente. Dessa forma, o recurso especial é inadmissível por ausência de prequestionamento. Nesses casos, aplica-se o disposto na Súmula n. 282 do Supremo Tribunal Federal.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
