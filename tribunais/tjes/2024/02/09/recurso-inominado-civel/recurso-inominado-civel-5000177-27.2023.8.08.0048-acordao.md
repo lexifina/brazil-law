@@ -1,0 +1,82 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000177-27.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MAYSA GHISOLFI ARNDT
+RECORRIDO: BUSER LOCADORA E TRANSPORTES LTDA e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5000177-27.2023.8.08.0048
+
+Recorrente:
+MAYSA GHISOLFI ARNDT
+
+Recorrida:
+BUSER BRASIL TECNOLOGIA LTDA
+e
+BUSER BRASIL TECNOLOGIA LTDA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte autora/recorrente os benefícios da assistência judiciária gratuita.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. AUTORA QUE ADQUIRIU PASSAGEM JUNTO A EMPRESA REQUERIDA E AFIRMA TER HAVIDO FALHA NA PRESTAÇÃO DO SERVIÇO, COMO ATRASO DE DUAS HORAS PARA PARTIDA, ÔNIBUS INFERIOR AO CONTRATADO, SEM AR-CONDICIONADO E ESCASSEZ DE ÁGUA PARA OS PASSAGEIROS.
+SENTENÇA
+QUE JULGOU PARCIALMENTE PROCEDENTE O PLEITO AUTORAL, CONDENANDO A REQUERIDA AO PAGAMENTO DE R$ 2.000,00 A TÍTULO DE DANOS MORAIS E A RESTITUIÇÃO EM DOBRO DO VALOR DA PASSAGEM, NO MONTANTE DE R$ 219,80.
+RECURSO INOMINADO
+INTERPOSTO PELA PARTE AUTORA, EM QUE PUGNA PELO INDEFERIMENTO DA PRELIMINAR DE ILEGITIMIDADE PASSIVA DA RÉ BUSER LOCADORA E TRANSPORTES LTDA, EXCLUÍDA DO POLO PASSIVO POR FORÇA DA SENTENÇA. NO MÉRITO, PRETENDE MAJORAR O VALOR ARBITRADO A TÍTULO DE DANOS MORAIS. A PARTE AUTORA ALEGA QUE A FALHA NA PRESTAÇÃO DOS SERVIÇOS DA RÉ LHE CAUSOU TRANSTORNOS, TENDO QUE PERDER TEMPO PARA RESOLVER A QUESTÃO ADMINISTRATIVAMENTE E, APÓS, PARA ACIONAR O PODER JUDICIÁRIO. REJEIÇÃO DA PRELIMINAR CONSOANTE ARGUMENTOS LANÇADOS NA SENTENÇA. O JUÍZO
+A QUO
+RECONHECEU QUE A
+SITUAÇÃO DOS AUTOS CONFIGURA LESÃO INDENIZÁVEL EXTRAPATRIMONIAL. O VALOR ARBITRADO A TÍTULO DE DANOS MORAIS SE ENCONTRA DE ACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO DA VERBA INDENIZATÓRIA, A TÍTULO DE DANOS MORAIS, NO IMPORTE DE R$ 2.000,00 (DOIS MIL REAIS), POR ESTAR EM CONSONÂNCIA COM AS ESPECIFICIDADES DO CASO E EXTENSÃO DO DANO. DA CONCLUSÃO
+.
+RECURSO CONHECIDO E IMPROVIDO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO.
+SUSPENDO
+, ENTRETANTO, A EXIGIBILIDADE DE TAIS VERBAS DA PARTE CONDENADA POIS ENCONTRA-SE AMPARADA PELA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+
+É como voto.
+
+VOTOS
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO
+- Acompanho o Relator.
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+- Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso inominado,
+NEGANDO-LHE PROVIMENTO,
+mantendo a sentença pelos próprios fundamentos, nos termos do voto do Eminente Relator.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
