@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de simples petição apresentada pelos advogados EDUARDO ZANONCINI MILÉO (OAB/PR nº 34.662) e GUSTAVO S. M. HASSUMI (OAB/PR nº 34.662), na qual aduzem que o patrono GUSTAVO ALBERINE PEREIRA (OAB/PR nº 54.908), quem impetrou o habeas corpus em favor do paciente, "substabeleceu, a nosso entender de forma equivocada, com reserva de poderes ao advogado Gustavo Seiji Miatelo Hassumi, OAB/PR 51.097" (fl. 208, grifei).
+Explicam que "A Coordenadoria de Processamento de Feitos de Direito Penal certificou que compulsou os autos e não localizou, no presente feito, procuração e/ou cadeia completa de substabelecimento da parte paciente outorgando poderes para substabelecer ao advogado substabelecente e impetrante, razão pela qual deixou de proceder à alteração requerida. A referida certificação não foi publicada a nenhum dos advogados para regularização da representação" (fl. 208, grifei).
+Asserem ainda que a decisão denegatória do habeas corpus foi publicada apenas para o impetrante e que até houve uma audiência com o Juiz Auxiliar deste gabinete e o causídico GUSTAVO HASSUMI.
+Assim, requerem a devolução dos prazos, pois "Registre-se que o substabelecimento foi realizado com reserva de poderes de forma equivocada pelo advogado impetrante. Por fim, considerando que a apresentação de recurso, diferente da impetração do habeas corpus, exige o acompanhamento de procuração, requer-se a concessão do prazo para regularização da representação processual" (fl. 210, grifei).
+É o relatório. DECIDO.
+Primeiramente, registre-se que o trânsito em julgado foi certificado em 20/12/2023 (fl. 206).
+A procuração em comento, acostada às fls. 186-187 pelo Dr. GUSTAVO ALBERINE PEREIRA, tinha a seguinte redação:
+"RICARDO CHIARELLO MARCHESI, já devidamente qualificado nos autos, por intermédio de seu advogado, comparece a presença de Vossa Excelência para juntar substabelecimento com reserva de poderes." (grifei)
+Ora, não obstante o substabelecimento "com reservas", a Coordenadoria de Processamento de Feitos de Direito Penal ainda certificou que (fl. 189):
+"Certifico que, em atenção à petição 1106305/2023, a Coordenadoria de Processamento de Feitos de Direito Penal compulsou os autos e não localizou, no presente feito, procuração e/ou cadeia completa de substabelecimento da parte paciente outorgando poderes para substabelecer ao advogado substabelecente e impetrante, razão pela qual deixou de proceder à alteração requerida." (grifei)
+Certo ainda que a decisão denegatória do HC foi devidamente publicada ao patrono impetrante (fl. 202), o qual se quedou inerte.
+Nesse contexto, em situação semelhante, este STJ entendeu que:
+"A jurisprudência do Superior Tribunal de Justiça é no sentido de que a intimação efetuada em nome de um dos advogados constituídos nos autos é válida quando o substabelecimento foi feito com reserva de poderes e não houve pedido expresso para publicação exclusiva em nome de um advogado específico" (AgInt no REsp 1.859.127/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 8/2/2021, DJe de 12/2/2021).
+Na hipótese, é válida a intimação realizada em nome de causídico devidamente constituído nos autos, uma vez que os poderes foram substabelecidos com reserva de poderes, e não houve revogação expressa ou tácita dos poderes outorgados ao patrono constante da publicação, tampouco requerimento prévio de publicação exclusiva em nome dos novos causídicos. Incidência da Súmula 83/STJ" (AgInt no AREsp n. 1.584.590/DF, Quarta Turma, Rel. Min. Raul Araújo, DJe de 16/8/2022, grifei).
+Diante do exposto, mas em especial pela regular publicação dos atos processuais, plenamente conforme o tipo de substabelecimento pedido, a despeito da simples alegação de que "o substabelecimento foi realizado com reserva de poderes de forma equivocada pelo advogado impetrante" (fl. 210, grifei), julgo improcedente o pedido nesta petição.
+Publique-se esta decisão a todos os três patronos acima listados, independentemente de cadastramento no feito (pois a procuração que seria "correta" não foi sequer juntada até então).
+Após, retornem os autos ao arquivo eletrônico.
+Cumpra-se. Intime-se.
+EMENTA
