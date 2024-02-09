@@ -1,0 +1,71 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5002023-84.2023.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO BV S.A.
+RECORRIDO: JOAO LUIZ CASOTTI JUNIOR
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5002023-84.2023.8.08.0014
+ORIGEM:
+Juízo de Colatina - 1º Juizado Especial Cível
+RECORRENTE:
+BANCO BV S.A.
+RECORRIDA:
+JOAO LUIZ CASOTTI JUNIOR
+DATA DA SESSÃO DE JULGAMENTO
+: conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma).
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os
+pressupostos de admissibilidade.
+
+VOTO/EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. REVISIONAL DE CONTRATO, QUE VISA O RECONHECIMENTO DA COBRANÇA ABUSIVA PROVENIENTE AO SEGURO PRESTAMISTA, TARIFA DE CADASTRO, TARIFA DE AVALIAÇÃO DO BEM, REGISTRO CONTRATO-ÓRGÃO DE TRÂNSITO.
+SENTENÇA DE PARCIAL PROCEDÊNCIA
+, QUE CONDENOU A PARTE RÉ A REEMBOLSAR A AUTOR OS VALORES REFERENTES AO SEGURO PRESTAMISTA, SENDO NEGADO OS DEMAIS PEDIDOS.
+RECURSO INOMINADO INTERPOSTO PELA PARTE RÉ. PEDIDO DE REFORMA DA SENTENÇA PARA IMPROCEDÊNCIA DOS PEDIDOS FORMULADOS NA PETIÇÃO INICIAL. DO MÉRITO RECURSAL.
+A
+SENTENÇA DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46, DA LEI N.º 9.099/95
+, DE MODO QUE SÃO ADOTADAS AS SUAS RAZÕES DE DECIDIR (STF, Tema n.º 451 das Teses de Repercussão Geral: “
+Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida
+”).
+NO QUE SE REFERE À COBRANÇA DE SEGURO PRESTAMISTA, DESTACA-SE O QUE DISPÕE O ENUNCIADO DO RECURSO ESPECIAL REPETITIVO Nº 972, DO SUPERIOR TRIBUNAL DE JUSTIÇA, DE SEGUINTE DICÇÃO: “
+Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada
+”. NA HIPÓTESE DOS AUTOS, NÃO É POSSÍVEL DETERMINAR AO CERTO SE O CONSUMIDOR FOI COAGIDO OU INDUZIDO A ADERIR AO SEGURO PRESTAMISTA, COMO CONDICIONANTE PARA O FINANCIAMENTO. NO ENTANTO, EM CONTRAPARTIDA, NÃO HÁ PROVA SEGURA DE QUE LHE TENHA SIDO FACULTADO ADQUIRIR O SEGURO PERANTE INSTITUIÇÃO DIVERSA DAQUELA VINCULADA AO AGENTE FINANCEIRO, OU SEQUER QUE LHE TENHA SIDO INFORMADA TAL POSSIBILIDADE, O QUE SERIA IMPERATIVO, À LUZ DA TESE FIXADA NO JULGAMENTO REPETITIVO TEMA Nº 972. LOGO, ESTANDO OS AUTOS À MÍNGUA DE TAIS EVIDÊNCIAS, E SENDO ELAS ATRELADAS AO ÔNUS INFORMATIVO QUE RECAI SOBRE O FORNECEDOR, A CORRESPONDENTE LACUNA PROBATÓRIA RESOLVE-SE EM BENEFÍCIO DA PARTE VULNERÁVEL, DEVENDO SER CONSIDERADA ABUSIVA A COBRANÇA, RESTITUINDO-SE À PARTE POSTULANTE A QUANTIA INDEVIDAMENTE COBRADA A ESSE TÍTULO, DEVENDO A SENTENÇA SER MANTIDA EM SEUS PRÓPRIOS FUNDAMENTOS.
+
+RECURSO CONHECIDO E IMPROVIDO
+. CONDENA-SE A PARTE RECORRENTE AO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS, FIXADOS EM 10% (DEZ POR CENTO) DO VALOR DA CONDENAÇÃO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
