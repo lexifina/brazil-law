@@ -1,0 +1,80 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5022926-13.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: ADELSON DA SILVA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5022926-13.2023.8.08.0024
+
+Recorrente:
+TELEFONICA BRASIL S.A.
+
+Recorrido:
+ADELSON DA SILVA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. SERVIÇO DE TELEFONIA. FALHA NA PRESTAÇÃO DE SERVIÇOS. BLOQUEIO DE LINHA REALIZADO POR SUPOSTAS PENDÊNCIAS FINANCEIRAS. O AUTOR RELATA QUE PASSOU A TER PROBLEMAS RECORRENTES DE BLOQUEIO DE SUA LINHA SEM JUSTIFICATIVAS. ENTROU CONTATO COM A EMPRESA DE TELEFONIA POR DIVERSAS VEZES, NO ENTANTO, O PROBLEMA NÃO FOI SOLUCIONADO. PEDIDO DE ANTECIPAÇÃO DE TUTELA CONCEDIDO. A
+SENTENÇA
+, JULGOU PROCEDENTES, EM PARTE, OS PEDIDOS AUTORAIS, CONDENANDO A PARTE RÉ AO PAGAMENTO DE DANOS MORAIS NO MONTANTE DE R$ 3.000,00. INTERPOSTO
+RECURSO
+, A PARTE RECORRENTE ALEGA NÃO HAVER FALHA NA PRESTAÇÃO DE SERVIÇOS, PLEITEANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO.
+FALHA NA PRESTAÇÃO DE SERVIÇO DEVIDAMENTE DEMONSTRADA. AUTOR INGRESSOU COM CINCO AÇÕES CONTRA A RÉ PELO MESMO FATO. APRESENTOU 28 PROTOCOLOS DE ATENDIMENTO. A SUSPENSÃO DO SERVIÇO DUROU 25 DIAS E NÃO APENAS 1 MINUTO E 12 SEGUNDOS CONFORME DECLARA A RECORRENTE ATRAVÉS DA CAPTURA DE TELA DO SEU SISTEMA. APESAR DO ESFORÇO DA RÉ, RAZÃO NÃO LHE ASSISTE. ISSO PORQUE DIANTE DA OBRIGATORIEDADE DE CONSTITUIÇÃO DE FATOS NEGATIVOS, IMPEDITIVOS OU EXTINTIVOS DO DIREITO DO AUTOR, OPORTUNAMENTE, A RÉ NÃO OS FEZ. APESAR DE REUNIR AOS AUTOS
+PRINTS
+
+DE SUAS TELAS INTERNAS, A PROVA PRODUZIDA UNILATERALMENTE PELA RÉ NÃO SE MOSTRA INEQUÍVOCA PARA QUE REFUTE AS ALEGAÇÕES INICIAIS.
+
+DANO MORAL CONFIGURADO E ARBITRADO EM R$ 3.000,00 (TRÊS MIL REAIS)
+. EM OBEDIÊNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9.099/95 E ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO. CONDENAÇÃO DA PARTE RECORRENTE NAS DESPESAS DO PROCESSO E EM HONORÁRIOS ADVOCATÍCIOS, NO IMPORTE DE 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.
+
+É como voto.
+
+VOTOS
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO
+- Acompanho o Relator.
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+- Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso inominado,
+NEGANDO-LHE PROVIMENTO,
+mantendo a sentença pelos próprios fundamentos, nos termos do voto do Eminente Relator.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
