@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal nº 1518851-42.2022.8.26.0228).
+Os pacientes respondem por roubo e extorsão em crime continuado contra duas vítimas. Golpe do Tinder. Comparsa (não identificada) agindo sob identidade falsa apresentava-se a potenciais vítimas no aplicativo de encontros como alguém interessado em conhecê-las. No caso dos autos, duas vítimas caíram no golpe, tiveram seus carros, bens e valores roubados; e permaneceram em cativeiro por até 40h, no caso de uma delas. Possivelmente dez pessoas teriam participado do golpe; apenas três estão sendo processadas. O paciente SAMUEL foi encontrado por policiais no terreno do cativeiro. O paciente TIAGO foi abordado pela polícia na companhia do corréu Pedro, não representado nestes autos, quando ambos estavam em movimento dentro de automóvel roubado de uma das vítimas.
+Não há dúvida de que o carro era efetivamente de uma das vítimas; as duas vitimas foram encontradas no mesmo cativeiro; o modus operandi foi idêntico nos dois casos: encontro via aplicativo, sequestro, roubo. O paciente TIAGO, junto com seu comparsa Pedro, foi abordado pela polícia enquanto o sequestro de ambas as vítimas estava em curso. O paciente SAMUEL foi abordado no terreno do cativeiro, com as vítimas ainda amarradas no interior do barraco ali existente.
+A defesa alega, no writ, a ilegalidade do reconhecimento pessoal feito no curso do processo. Uma das vítimas reconheceu os três corréus na fase inquisitorial, ao cabo de cujo procedimento agente policial teria dito que a vítima havia "acertado" - i.e., identificado corretamente - os três presos em flagrante. Seis meses depois, a mesma vítima novamente reconheceu os três então réus.
+Sustenta, ainda, que os depoimento das vítimas e dos policiais não bastam como prova da autoria.
+Pede a defesa, liminar e definitivamente, i) a concessão da liminar para determinar a expedição do alvará de soltura, reconhecendo o direito à liberdade e, ao final, ii) requer-se seja concedida a ordem de Habeas Corpus para decretar a nulidade do reconhecimento pessoal e, consequentemente, absolver os pacientes pela insuficiência probatória.
+É o relatório.
+DECIDO.
+Conheço do writ para nele buscar flagrante ilegalidade que dê fundamento à sua concessão.
+A defesa alega que o reconhecimento pessoal feito na data dos fatos por uma das vítimas é nulo, porque um policial teria dito que ela, vítima, teria "acertado" a identidade dos presos em flagrante.
+A nulidade decorreria da subsunção do suposto ato do policial à Resolução CNJ nº 484, de 2022, art. 9º, parágrafo único, cuja letra é esta:
+Art. 9º ..
+..
+Parágrafo único. Após a resposta da vítima ou testemunha, será solicitado que ela indique, com suas próprias palavras, o grau de confiança em sua resposta, de modo que não seja transmitida à vítima ou à testemunha qualquer tipo de informação acerca de sua resposta coincidir ou não com a expectativa da autoridade condutora do reconhecimento.
+A regra de fato proíbe que a vítima receba qualquer tipo de estímulo, caso a identificação que tenha feito coincida com a da autoridade condutora do reconhecimento. Se um policial tiver dito que a vítima, neste caso, "acertou" a identidade dos flagrados, então será caso de anulação do reconhecimento.
+Sucede que a referência a ter alguém dito que a vítima "acertou" aparece, no que consta destes autos, apenas na apelação apresentada pela defesa. Não há registro nos autos trazidos à colação de que, em algum momento, essa conduta tenha sido registrada.
+A defesa põe em dúvida a confiabilidade do testemunho (coerente e claro) de policiais, por serem agentes do Estado. E pede a anulação de uma prova produzida por vítima que se expressou com clareza e segurança sobre quem seriam os perpetradores do crime cometido contra si. Policiais e vítimas com suas impressões reduzidas a termo. E pretende desfazer tais elementos com base em uma fala que não aparece registrada em lugar algum - a não ser que a defesa tenha omitido o registro, o que não cabe resolver em sede de habeas corpus, procedimento que exige prova preconstituída.
+A prova dos autos é robusta mesmo sem o reconhecimento pessoal. Tiago foi preso dentro do carro de uma das vítimas enquanto o sequestro estava em andamento. Samuel foi preso diante do cativeiro. Não é preciso que uma vítima reconheça um ou outro para concluir pelo envolvimento de ambos com o crime.
+Pelo exposto, conheço do habeas corpus, mas denego de plano a ordem.
+Publique-se. Intimem-se.
+EMENTA
