@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de THIEGO BONFIM ADOLFO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 3020322-85.2013.8.26.0405.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos e 8 meses de reclusão, no regime inicial fechado, pela prática do crime previsto no art. 157, caput, c/c art. 70, ambos do Código Penal - CP.
+O Tribunal de origem deu parcial provimento à apelação interposta pelo ora paciente, para redimensionar a pena ao patamar de 5 anos e 10 meses de reclusão, mantido o regime prisional fixado na sentença. Eis a ementa do acórdão (fl. 35):
+"APELAÇÃO CRIMINAL. ROUBO SIMPLES, POR DUAS VEZES, EM CONCURSO FORMAL (ARTIGO 157, CAPUT, C.C. ARTIGO 70, AMBOS DO CÓDIGO PENAL). RECURSO DEFENSIVO.
+PRELIMINAR. ARGUIÇÃO DE NULIDADE DO RECONHECIMENTO FORMALIZADO PELA VÍTIMA. NÃO OCORRÊNCIA. DIRETRIZES LEGAIS ESTABELECIDAS PELO ARTIGO 226, DO CÓDIGO DE PROCESSO PENAL, OBSERVADAS. CONDENAÇÃO NÃO FUNDAMENTADA APENAS NO RECONHECIMENTO. PRELIMINAR AFASTADA.
+MÉRITO. PLEITO ABSOLUTÓRIO AO ARGUMENTO DE INSUFICIÊNCIA PROBATÓRIA OU AUSÊNCIA DE PROVAS DE QUE O RÉU TENHA CONCORRIDO PARA A INFRAÇÃO PENAL. NÃO ACOLHIMENTO. MATERIALIDADE E AUTORIA DEMONSTRADAS. ESCLARECIMENTOS PRESTADOS PELA VÍTIMA E TESTEMUNHAS CORROBORADOS PELOS DEMAIS ELEMENTOS PROBATÓRIOS PRODUZIDOS NOS AUTOS, MORMENTE A CONFISSÃO DO ACUSADO. CONDENAÇÃO PRESERVADA.
+PENA E REGIME DE CUMPRIMENTO. BASILAR FIXADA NO PERCENTUAL DE  ACIMA DO MÍNIMO LEGAL. CONFISSÃO ESPONTÂNEA PARCIALMENTE COMPENSADA COM OS MAUS ANTECEDENTES DO ACUSADO, QUE OSTENTA QUATRO CONDENAÇÕES DEFINITIVAS PELA PRÁTICA DE CRIMES DA MESMA ESPÉCIE. FRAÇÃO IMPOSTA JUSTIFICADA E NÃO FOI IMPUGNADA POR QUALQUER DAS PARTES. CONCURSO FORMAL DE CRIMES. MEDIANTE ÚNICA AÇÃO CRIMINOSA, DOIS PATRIMÔNIOS FORAM VIOLADOS. READEQUADO, DE OFÍCIO, O COEFICIENTE DE AUMENTO APLICADO NA ORIGEM PARA A FRAÇÃO DE 1/6 (DUAS VÍTIMAS). REGIME FECHADO ADEQUADO E NÃO COMPORTA ABRANDAMENTO. APELANTE REGISTRA PÉSSIMOS ANTECEDENTES CRIMINAIS, TODOS PELA PRÁTICA DE CRIMES DA MESMA ESPÉCIE.
+RECURSO PARCIALMENTE PROVIDO."
+No presente writ, a defesa sustenta a necessidade de substituição da pena privativa de liberdade por restritiva de direitos, pois o crime foi cometido há 10 anos e, atualmente, o paciente possui família constituída e trabalho fixo, demonstrado por anotação em sua carteira de trabalho.
+Requer, em liminar e no mérito, a concessão da ordem para que seja substituída a pena privativa de liberdade por restritiva de direitos ou, ao menos, "que sua pena seja fixada no mínimo legal para que possa lhe conceder o justo regime aberto com as devidas medidas que a acarretam" (fl. 7).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O Tribunal de origem, na oportunidade em que apreciado o apelo defensivo, reduziu a pena imposta ao paciente, aplicando fração mais benéfica (1/6) em razão do concurso formal dos crimes de roubo - o que resultou na fixação da pena definitiva em 5 anos e 10 meses de reclusão.
+No tocante à possibilidade de substituição da pena privativa de liberdade por restritivas de direito, a Corte Bandeirante afirmou que: " I ncabível a substituição da pena privativa de liberdade ou a aplicação de sursis, por expressa vedação legal (artigos 44 e 77, ambos do Código Penal)" (fl. 43).
+Sobre o tema, o art. 44 do Código Penal, assim dispõe:
+"Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo;
+II - o réu não for reincidente em crime doloso;
+III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente."
+Da leitura do comando normativo, verifica-se que um dos pressupostos objetivos para a sua aplicação é que a pena tenha sido fixada em quantum não superior a 4 anos e o crime não tenha sido cometido mediante violência ou grave ameaça.
+Na hipótese dos autos, é notório o descumprimento dos requisitos supracitados, seja porque a pena foi estabelecida em patamar superior ao exigido pela lei, seja porque um dos elementos subjetivos do tipo praticado pelo paciente é, justamente, a grave ameaça à vítima, que restou comprovada nos termos do acórdão impugnado.
+Sendo assim, a orientação adotada pela Corte de origem quanto à inaplicabilidade do disposto no art. 44 do Código Penal ao caso em exame encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça sobre o tema.
+A propósito, confiram-se os recentes julgados (grifos nossos):
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS PARA LEGITIMAR A CONDENAÇÃO E AFASTAMENTO DA MAJORANTE DO CONCURSO DE PESSOAS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPROPRIEDADE DA VIA ELEITA. DOSIMETRIA. PENA-BASE. FRAÇÃO DE AUMENTO PELO RECONHECIMENTO DOS MAUS ANTECEDENTES. AUSÊNCIA DE DESPROPORCIONALIDADE. FRAÇÃO DE 1/6 (UM SEXTO). HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. REGIME INICIAL FECHADO. POSSIBILIDADE. PENA SUPERIOR A 4 (QUATRO) E INFERIOR A 8 (OITO) ANOS DE RECLUSÃO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL, COM PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO OBJETIVO PREVISTO NO ART. 44, INCISO I, DO CÓDIGO PENAL - CP. PENA SUPERIOR A 4 (QUATRO) ANOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com base nos elementos de prova carreados aos autos, entendeu comprovada a autoria e a materialidade do crime de roubo, bem como devidamente comprovada a majorante do concurso de agentes. Rever esse entendimento, como pretende a Defesa, para absolver o paciente por insuficiência de provas, bem como para afastar a majorante do concurso de agentes, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, inviável na via eleita.
+2. A pena-base aplicada pelo Tribunal de origem está em perfeita harmonia com a jurisprudência desta Corte, porquanto, reconhecida a circunstância judicial dos maus antecedentes, a pena foi aumentada em 1/6 (um sexto) acima do mínimo legal.
+3. Inexiste ilegalidade na fixação do regime inicial mais gravoso, no caso, o regime fechado, pois embora a pena imposta tenha sido inferior a 8 (oito) anos de reclusão (5 anos, 7 meses e 5 dias de reclusão), a presença de circunstância judicial desfavorável, com pena-base fixada acima do mínimo legal, justifica o agravamento do regime prisional, conforme pacífica jurisprudência desta Corte.
+4. Estabelecida a sanção em patamar superior a 4 anos de reclusão, é inviável a substituição da pena corporal por restritivas de direitos, ante a ausência de preenchimento de requisito objetivo (art. 44, I, do Código Penal).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 734.041/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. REGIME ABERTO. IMPOSSIBILIDADE. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. SUBSTITUIÇÃO DA PENA E SURSIS. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez que a ré foi condenada a reprimenda de 5 anos 4 meses de reclusão mais multa, mostra-se devida a imposição do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal.
+2. Inviável a substituição da sanção privativa de liberdade por penas restritivas de direitos e a concessão de sursis, pois, nos termos dos arts. 44, I, e 77, ambos do CP, não foram preenchidos os requisitos objetivos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.378.273/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/11/2023, DJe de 4/12/2023.)
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
