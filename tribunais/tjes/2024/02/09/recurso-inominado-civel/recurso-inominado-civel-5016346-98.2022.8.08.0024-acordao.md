@@ -1,0 +1,78 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5016346-98.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+RECORRIDO: SORAYA DA SILVA CARVALHO
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nº 5016346-98.2022.8.08.0024
+
+Recorrente: UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+
+Recorridos: SORAYA DA SILVA CARVALHO
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. RELAÇÃO CIVIL ENTRE COOPERADO E COOPERATIVA. MÉDICA COOPERADA DA UNIMED VITÓRIA EXCLUÍDA EM RAZÃO DE IMPRODUTIVIDADE. APOSENTADORIA POR INVALIDEZ QUE SOBREVEIO NO DECORRER DO PROCEDIMENTO ADMINISTRATIVO DE APURAÇÃO DE IMPRODUTIVIDADE. ÓBICE AO MONITORAMENTO DA IMPRODUTIVIDADE. RELATOR DO PROCEDIMENTO QUE SUGERIU A EXCLUSÃO EM RAZÃO DA APOSENTADORIA E DECISÃO FINAL QUE MATERIALIZOU O AFASTAMENTO PELA IMPRODUTIVIDADE. JUIZ
+A QUO
+QUE ANALISOU COM PRECISÃO OS ATOS PROCEDIMENTAIS E RECONHECEU A NULIDADE DAS RESOLUÇÕES DO CONSELHO DE ADMINISTRAÇÃO EM RAZÃO DO AFASTAMENTO POR MOTIVO DIVERSO. NULIDADE QUE SE MANTÉM.
+
+PERMANÊNCIA DA RECORRIDA NO PLANO DE SAÚDE COMO CONSEQUÊNCIA DO AFASTAMENTO EM FUNÇÃO DE APOSENTADORIA POR INVALIDEZ. BENEFÍCIO PREVISTO NO ESTATUTO SOCIAL E REGIMENTO INTERNO. ALEGAÇÃO DE AUSÊNCIA DE DOCUMENTOS ESSENCIAIS QUE, NO ENTANTO, FORAM APRESENTADOS NOS AUTOS DO PROCESSO, DOS QUAIS A RECORRENTE TOMOU CIÊNCIA COM A CITAÇÃO. PORTANTO, NÃO DEVE SUBSISTIR O CANCELAMENTO DO BENEFÍCIO.
+
+IRRESIGNAÇÃO QUANTO À MANUTENÇÃO DO DEPENDENTE NO PLANO DE SAÚDE POR AUSÊNCIA DE PREVISÃO ESTATUTÁRIA. SENTENÇA
+A QUO
+QUE DETERMINOU APENAS A GARANTIA DOS DIREITOS PREVISTOS EM ESTATUTO SOCIAL. DE ACORDO COM O ART. 7º, X, §§ 6º E 7º, DO ESTATUTO SOCIAL, É GARANTIDA A MIGRAÇÃO PARA O PLANO PESSOA FÍSICA, CASO O DEPENDENTE MANIFESTE INTERESSE EM 30 DIAS DA EXCLUSÃO. CONSIDERANDO, POIS, QUE FOI DECLARADA A EXCLUSÃO EM RAZÃO DE APOSENTADORIA POR INVALIDEZ APENAS NESTES AUTOS, DEVE SER RESTABELECIDO O TRINTÍDIO COM O TRÂNSITO EM JULGADO DO
+DECISUM
+PARA QUE O DEPENDENTE POSSA MANIFESTAR SEU INTERESSE. NO MAIS, DEVEM SER ATENDIDOS OS TERMOS/REQUISITOS DA NORMA INTERNA. IRRESIGNAÇÃO DA RECORRENTE, PORTANTO, QUE NÃO PROCEDE.
+
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+[1]
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DE CONDENAÇÃO E, NÃO HAVENDO, SOB O VALOR CORRIGIDO DA CAUSA. (ART. 55, 2ª PARTE, DA LEI 9.099/95).
+
+É como voto.
+
+Na sequência, assim se manifestaram os demais Julgadores:
+
+O Senhor Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA - Acompanho o voto do Relator.
+
+O Senhor Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO - Acompanho o voto do Relator.
+
+DECISÃO COLEGIADA
+
+Por unanimidade de votos, conhecer do recurso inominado e lhe negar provimento, nos termos do voto do Relator.
+
+[1]
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
