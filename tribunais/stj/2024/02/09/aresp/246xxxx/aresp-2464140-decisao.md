@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por Ulisses Lima de Menezes contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Roraima, assim ementado (fl. 51):
+REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. PROCESSO SELETIVO INTERNO PARA INGRESSO NO CURSO DE FORMAÇÃO DE 3º SARGENTO DA POLÍCIA MILITAR DE RORAIMA (EDITAL Nº 003-A/2020/DEP/PMRR). REMARCAÇÃO DE TESTE DE APTIDÃO FÍSICA POR MOTIVO DE SAÚDE. SITUAÇÃO PESSOAL QUE ACARRETARIA OFENSA AO PRINCÍPIO DA ISONOMIA. DESIGNAÇÃO DE NOVA DATA. IMPOSSIBILIDADE. EXPRESSA VEDAÇÃO NO EDITAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DA SEGURANÇA. DESCONSTITUIÇÃO DA SENTENÇA EM DISSONÂNCIA COM O PARECER MINISTERIAL.
+Opostos embargos declaratórios, foram rejeitados (fls. 104/109).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 1.022, II, do CPC e 393, parágrafo único, do CC/02 Sustenta, em síntese: (I) tese de negativa de prestação jurisdicional; (II) "fica caracterizada a ocorrência de caso fortuito/força maior no presente caso, motivo pelo qual pugna o recorrente pela cassação da decisão recorrida e pelo restabelecimento da sentença de primeiro grau que concedeu a segurança para determinar a remarcação do teste de aptidão física, conforme já decidiu esta Corte e demais Tribunais Estaduais." (fls. 133/134); e (III) a concessão de efeito suspensivo ao presente recurso.
+Contrarrazões às fls. 206/214.
+Parecer ministerial às fls. 207/21 2.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022, II, do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo relativa ao art. 393, parágrafo único, do CC/02, porquanto remanesce ausente o indispensável prequestionamento.
+De outro lado, a alteração das premissas adotadas pela Corte de origem, demandaria, necessariamente, reexame de cláusulas de edital, providência vedada em recurso especial conforme a Súmula 5 do STJ.
+Por fim, pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo, estando prejudicado o pedido de concessão de efeito suspensivo.
+Publique-se.
+EMENTA
