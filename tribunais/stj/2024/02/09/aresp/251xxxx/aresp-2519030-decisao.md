@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALINE SANTOS RODRIGUES contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O Tribunal a quo inadmitiu o apelo especial por impossibilidade de exame de violação a princípios e dispositivos constitucionais e incidência das Súmulas 283 do STF e 7 do STJ (e-STJ fls. 446-447).
+Não obstante, nas razões do agravo, a parte agravante não apresentou impugnação específica aos referidos fundamentos, limitando-se a tecer considerações genéricas acerca da inaplicabilidade dos óbices sumulares, bem como sobre os dispositivos constitucionais.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial.
+De fato, "a mera alusão no agravo em recurso especial acerca da impertinência dos pressupostos de aplicação de verbete sumular constante na decisão agravada não satisfaz o requisito da dialeticidade, pois nesse caso há mera reprodução da conclusão defendida, com o uso de argumentação evidentemente circular, redundando em tautologia" (AgInt no AREsp n. 2.185.448/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO INFIRMA DE MANEIRA ESPECÍFICA UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ.
+1. O agravo que não rebate especificamente todos os fundamentos utilizados para inadmitir o especial atrai a incidência da Súmula 182/STJ. Além disso, não basta para afastar referido óbice a impugnação demasiadamente genérica, que não deduz argumentação que evidencie de fato a não incidência dos fundamentos utilizados para inadmitir o especial. Precedentes.
+2. Os requisitos legais de admissibilidade do recurso interposto, a exemplo do agravo em recurso especial, devem estar presentes ao tempo do ajuizamento do recurso, sob pena de inevitável preclusão (AgRg no Ag n. 1.395.327/SC, Ministro Castro Meira, Segunda Turma, DJe 30/8/2011). 3. Agravo regimental desprovido (AgRg no AREsp 1005340/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/2/2017, DJe 2/3/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+AGRAVO REGIMENTAL NÃO PROVIDO. 1. A falta de impugnação específica de todos os fundamentos utilizados nadecisão agravada atrai a incidência do Enunciado Sumular 182 desta CorteSuperior. 2. Agravo regimental não provido (AgInt no AREsp 975.629/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/10/2016, DJe 9/11/2016).
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
+Intimem-se.
+EMENTA
