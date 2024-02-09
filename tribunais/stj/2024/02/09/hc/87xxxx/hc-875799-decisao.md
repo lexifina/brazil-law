@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIEGO MISAEL MOTA DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5161225- 31.2023.821.7000).
+Consta dos autos que o paciente foi preso preventivamente, em 5/2/2022, pela suposta prática do delito tipificado no art. 121, § 2º, incisos I, IV e V, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal estadual, o qual denegou a ordem.
+Daí o presente writ, em que alega a defesa, em síntese, excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de 670 dias sem que a ação penal tenha sido sentenciada.
+Aponta suficiência da aplicação de medidas cautelares alternativas ao cárcere, sobretudo quando considerado que inexistem indícios suficientes de participação do acusado na empreitada delitiva.
+Ressalta as suas condições pessoais favoráveis e afirma que não mais subsistem os elementos que ensejaram o decreto prisional.
+Nesses termos, pleiteia, liminarmente e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento da ordem.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a manutenção da prisão preventiva (e-STJ fls. 117 e 127/128):
+Com efeito, há nos autos elementos hábeis a indicar que a participação dos acusados foi imprescindível para a consumação do delito, uma vez apontam que Diego conduziu o executor do homicídio até o local do delito, assegurando-lhe a fuga, e que Roberta separou a arma utilizada para a execução da vítima.
+ ..
+Quanto aos demais corréus, tenho que os requisitos para a manutenção da prisão preventiva mantêm-se hígidos.
+Isso porque há materialidade e indícios suficientes de autoria e participação na conduta de DIEGO MISAEL MOTA DOS SANTOS, JOAO GABRIEL DA LUZ, SAMUEL FORST RIBEIRO, SAMUEL VIEIRA LOPES, VINICIUS SOARES FERNANDES e MARCELO CAVALHEIRO DA ROCHA.
+Os crimes sob análise, quais sejam, associação para o tráfico de drogas e homicídio triplamente qualificado, possuem pena máxima superior a 04 (quatro) anos, satisfazendo, portanto, a exigência do inciso I, do art. 313, do CPP.
+Para NUCCI 1 , a periculosidade (probabilidade de tornar a cometer delitos) pode ser demonstrada pelo indiciado ou réu através da análise de seus antecedentes e pela maneira de execução do crime.
+Destarte, pela análise dos motivos ensejadores do crime em tese praticado pelos réus, tenho que resta evidenciada a periculosidade. O homicídio ocorreu em virtude das câmeras de monitoramento no mercado da vítima flagrarem o comércio de entorpecentes realizado, supostamente, pelos denunciados na residência em frente. Além disso, a vítima foi morta na presença de sua filha e em horário comercial, o que demonstra o destemor para a prática criminosa e a ausência de qualquer sensibilidade para o convívio social.
+A vítima registrou duas ocorrências policiais (n. 2442/2021/150842 e n. 2456/2021/150842), sendo a primeira em 03/12/2021 e a segunda em 06/12/2021, relatando que seu mercado teria sido alvejado pelos indivíduos residentes em frente ao seu estabelecimento, que comercializariam entorpecentes (evento 2, INQ2, p. 07/11).
+Por outro lado, em que pese DIEGO MISAEL MOTA DOS SANTOS e SAMUEL FORST RIBEIRO não sejam reincidentes, a maneira de execução do crime é apta a verificar os requisitos para a manutenção da prisão preventiva, uma vez que a periculosidade pode ser evidenciada por tal meio.
+Além disso, ressalto que o fato dos réus apresentarem condições pessoais favoráveis não impede, por si só, a manutenção da prisão preventiva, não restando ferido o princípio constitucional da presunção de inocência, notadamente por haver nos autos elementos suficientes para justificar a medida extrema. (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de homicídio qualificado em que a vítima foi morta com tiros de arma de fogo e na presença de sua filha.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de homicídio. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. RENOVADO DECRETO DE PRISÃO APÓS PRÉVIA CONCESSÃO DA ORDEM. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE. RECURSO IMPROVIDO.
+1. Precedente ilustrador da atuação da Corte em habeas corpus e da necessidade de motivação das decisões judiciais.
+2. Decisão que em persecução criminal por homicídio imputado a policiais em associação, com fraude processual, decreta a prisão por riscos sem expressar sequer em uma linha - ou mesmo palavra - os fatos justificadores dos invocados riscos. Ilegalidade reconhecida monocraticamente pelo Relator, sem recursos.
+3. Expressado já então na decisão do Relator, aliás de modo até redundante, pela provisoriedade ínsita às cautelares, que a concessão da ordem não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual, veio o magistrado de primeiro grau a novamente decidir sobre a necessidade da prisão preventiva.
+4. Nova decisão que agora explicita circunstâncias do caso justificadoras de risco social (gravidade concreta do crime e risco à ordem pública) e ao processo (alteração do local do crime, com riscos à instrução processual). Validade.
+5. Indicada a gravidade concreta da conduta criminosa, pois foram efetuados dezenas de disparos de diversas armas de fogo, de diferentes calibres, inclusive de fuzis, contra um veículo em que se encontravam cinco vítimas  ..  em via pública, aberta ao tráfego de pessoas e veículos, de modo que não há que se falar em ilegalidade a justificar a concessão da ordem.
+6. Em habeas corpus a Corte não prende, mas apenas confere a legalidade da decisão de prisão, mantendo-a se legal, por fundamentos nela explicitados.
+7. Recurso em habeas corpus improvido. (RHC n. 77.723/RJ, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/3/2017, DJe 13/3/2017.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. AMEAÇA A TESTEMUNHAS. FUGA APÓS COMETIMENTO. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+ ..
+2. No caso, as instâncias ordinárias apresentaram fundamentos suficientes para justificar a segregação cautelar do paciente, em especial o modus operandi adotado, uma vez que teria, em tese, efetivado o homicídio quando a vítima se encontrava em uma confraternização de carnaval, com presença de inúmeras pessoas da vizinhança, inclusive atingindo-a como novos disparos quando já se encontrava caída ao solo.
+3. Com efeito, "se a conduta do agente - seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime - revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (HC n. 296.381/SP, Relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+ ..  (RHC n. 91.056/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 28/2/2018.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Passo, por fim, a examinar a alegação de que há excesso de prazo na segregação cautelar. E, ao fazê-lo, verifico não assistir razão à defesa.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora paciente está custodiado desde 5/2/2022, e a defesa alega que não há previsão para o encerramento da instrução criminal.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado. Consignou o voto condutor do acórdão impugnado (e-STJ fls. 30/31):
+No que tange ao excesso de prazo na formação da culpa, tenho que a simples ultrapassagem dos prazos legais não é suficiente para caracterizar a ilegalidade da prisão.
+O prolongamento na duração da prisão não é suficiente para justificar a revogação da prisão preventiva do paciente, havendo elementos que indicam o perigo no seu estado de liberdade.
+Foi reavaliada a necessidade de manutenção da prisão preventiva do paciente em 22/08/2023, restando mantida a segregação (processo 5000405-06.2022.8.21.0135/RS, evento 1261, DESPADEC1).
+Foram redesignadas audiências pelo juízo a quo, da seguinte forma, conforme consta nos autos (processo 5000405-06.2022.8.21.0135/RS, evento 1043, DESPADEC1):
+"1) 30/10/2023, às 09h00min: oportunidade em que serão ouvidas as testemunhas da acusação (05 testemunhas);
+2) 30/10/2023, às 13h00min: oportunidade em que serão ouvidas as testemunhas das defesas de ROBERTA FORTUNATO MARCON e de EDUARDO SANTOS DE BRITO (14 testemunhas);
+3) 31/10/2023, às 09h00min: oportunidade em que serão ouvidas as testemunhas das defesas de LUÍS GABRIEL AZAMBUJA DOS SANTOS, FERNANDA CAVALHEIRO DA ROCHA e SAMUEL VIEIRA LOPES (09 testemunhas);
+4) 31/10/2023, às 13h00min: oportunidade em que serão ouvidas as testemunhas das defesas de DIEGO MISAEL MOTA DOS SANTOS, de SAMUEL FORST RIBEIRO e de MARCELO CAVALHEIRO DA ROCHA, bem como oportunizado prévio contato reservado dos defensores com os respectivos réus (12 testemunhas);
+5) 01/11/2023, às 09h00min: oportunidade em que será realizado o interrogatório dos réus (11 réus).
+6) 01/11/2023, às 13h00min: oportunidade em que se dará continuidade dos interrogatórios."
+Refiro, por oportuno, se trata de ação penal complexa, em que figuram como denunciados 10 (dez) réus na inicial acusatória, pelo suposto cometimento do delito em tela (processo 5000405-06.2022.8.21.0135/RS, evento 1, DENUNCIA1).
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que o feito está concluso para julgamento.
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, sinalizando, inclusive, para o proferimento de sentença pronúncia. Ademais, o pequeno atraso para o seu término se deve, como consignado, à complexidade do feito, a que respondem 10 réus, com necessidade de redesignação de audiências, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO E HOMICÍDIO QUALIFICADO TENTADO. (I) PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. (II) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. (III) CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. (IV) MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIENTES PARA RESGUARDAR A ORDEM PÚBLICA.
+ ..
+5. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC-331.669/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+6. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+ ..  (HC n. 369.976/MG, de minha relatoria, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE INJUSTIFICADO EXCESSO DE PRAZO NA INSTRUÇÃO. NÃO OCORRÊNCIA. DILIGÊNCIAS ESPECÍFICAS. INSTRUÇÃO PRÓXIMA DE ENCERRAMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. RECURSO ORDINÁRIO DESPROVIDO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. No caso, o Tribunal de origem entendeu que o processo tramita dentro do princípio da razoabilidade, sem registro de qualquer atraso relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão. O recorrente encontra-se preso desde 6/11/2016, com denúncia oferecida em 13/12/2016 e resposta à acusação apresentada em 28/7/2016, sendo que, a despeito da necessidade da expedição de cartas precatórias, os autos receberam marcha célere, com designação de audiência de instrução e julgamento para o dia 19/4/2017, somente não realizada devido à não apresentação do acusado pela Secretaria de Ressocialização. Não obstante, a instrução encontra-se na iminência de seu encerramento, com a audiência redesignada para o dia 17/8/2017.
+ ..  (RHC n. 82.958/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
