@@ -1,0 +1,35 @@
+DECISÃO
+DIEGO FERNANDO VERA AGUILERA opõe embargos de declaração contra a decisão de fls. 503-510, em que indeferi liminarmente seu habeas corpus.
+Nestes aclaratórios, o embargante aponta, em síntese, que o decisum foi omisso quanto à análise do pedido de redução da pena-base por afastamento das vetoriais negativas "culpabilidade" e "circunstâncias do crime".
+Requer, assim, o acolhimento dos embargos declaratórios para que a omissão seja sanada.
+Decido.
+I. Acolhimento dos embargos de declaração
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+No caso, entendo assistir razão à defesa, porquanto, de fato, houve omissão sobre o referido pleito, o qual passo a analisar.
+II. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Na sentença, o Juiz de direito usou a seguinte fundamentação para exasperar a pena-base do réu (fl. 336, grifei):
+- Circunstâncias judiciais (1ª fase) Em relação às vetoriais específicas do artigo 59 do Código Penal:
+a) a culpabilidade é vetorial negativa, tendo em vista que as provas demonstraram a posição de liderança assumida pelo réu na prática delitiva, com participação e controle de todas as fases de execução do crime, desde a encomenda da droga no exterior, o controle de qualidade do produto, a fixação do preço da mercadoria, a venda do entorpecente para traficantes brasileiros, a obtenção dos instrumentos do crime, o controle da fiscalização policial do trajeto, a internalização da carga ilícita em território nacional, até o efetivo transporte do entorpecente apreendido, o que demonstra a maior reprovabilidade da conduta;
+c) não há elementos para valorar negativamente a conduta social e a personalidade do réu;
+d) os motivos são comuns ao crime;
+e) as circunstâncias do crime são graves, em vista da grande quantidade de droga apreendida (mais de 188 kg de maconha), revelando, potencialmente, elevado risco de lesão à saúde pública. Além disso, o delito possuiu significante premeditação das ações e foi praticado com uso de veículo alugado em nome de terceiro inocente;
+f) o crime não apresentou consequências significativas, tendo em vista que o entorpecente foi apreendido;
+g) o comportamento da vítima resta prejudicado neste tipo de delito.
+Diante do exposto, fixo a pena-base em 7 (sete) anos e 10 (dez) meses de reclusão.
+Anoto que parti do mínimo legal e acrescentei 1(um) ano e 3 (três) meses para a culpabilidade e mais 1(um) ano e 7(sete) meses para as circunstâncias do crime, por considerar que a existência de mais de um fator que recrudesce a vetorial e a grande quantidade da droga apreendida são circunstâncias que merecem ser sopesadas com maior severidade, sob pena de não representar resposta adequada para a gravidade da conduta e em atenção ao contido no artigo 42 da Lei n.º 11.343/2006.
+A Corte estadual, por sua vez, assim argumentou, no que interessa (fls. 480-481, destaquei):
+Na primeira etapa da dosimetria, verifico que o juízo de origem reconheceu como negativos os vetores culpabilidade e circunstâncias do crime, determinando o incremento de 1 (um) ano e 3 (três) meses para o primeiro, destacando que o apelante teve posição de liderança na prática do delito, e de 1 (um) ano e 7 (sete) meses, referente à circunstância específica da lei do crime de tráfico de drogas (art. 42 da Lei nº 11.343/2006), diante da grande quantidade de droga apreendida, da premeditação e do uso de veículo alugado.
+Em que pese a insurgência recursal, a fundamentação para a negativação da culpabilidade é legítima e idônea, porquanto denota o maior envolvimento do réu e a própria intensidade do dolo na realização da conduta incriminada. Nada obstante, e malgrado inexistam critérios absolutos e matemáticos, o aumento aplicado desborda do comumente aplicado por este Tribunal, razão pela qual reduzo o aumento para 1 (um) ano.
+Quanto às circunstâncias do crime, assiste parcial razão ao recorrente, porquanto a alegada premeditação, insere-se no juízo de culpabilidade, stricto sensu, e de forma oblíqua foi utilizada para negativar a vetorial culpabilidade.
+Por sua vez, a quantidade de droga, fator inclusive preponderante segundo o artigo 42 da Lei de Drogas, e o uso de veículo locado em nome de terceiro são elementos hábeis a autorizar a negativação das circunstâncias do crime.
+Quanto ao acréscimo da pena por conta desta vetorial, a despeito da inexistência de critérios absolutos e matemáticos, observada a jurisprudência da Turma, procedo a pequena redução, majorando a pena-base, por esta vetorial em 1 (um) ano e 6 (seis) meses.
+Destarte, considerando a existência de duas vetoriais negativas e as razões acima expostas, fixo a pena-base em 7 (sete) anos e 6 (seis) meses de reclusão.
+Na hipótese, conforme se depreende dos excertos acima destacados, as instâncias ordinárias apontaram elementos dos autos que denotam a elevada gravidade concreta da prática delitiva, a qual destoa significativamente daquela inerente ao tipo penal de tráfico de drogas e, assim, autoriza o aumento da pena na forma em que realizado.
+Ademais, não há falar em bis in idem quanto à fundamentação empregada, uma vez que, para afastar a minorante, conforme apontado na decisão de fls. 503-510, considerou-se a demonstração, por meio das provas colhidas nos autos - especialmente as conversas de Whatsapp -, da habitualidade da prática delitiva, a evidenciar que o acusado se dedicava com regularidade a atividades criminosas e, dessa forma, não se enquadrava nos requisitos necessários para a concessão da benesse prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Já para aumentar a pena-base, o cerne da argumentação voltou-se a apontar a gravidade concreta da conduta praticada pelo réu, de modo a merecer maior reprovabilidade e, por isso, sanção mais severa.
+III. Dispositivo
+À vista do exposto, acolho os embargos de declaração para suprir a omissão no decisum de fls. 503-510 e, no mérito, denegar a ordem quanto ao pedido que não havia sido analisado.
+Publique-se e intimem-se.
+EMENTA
