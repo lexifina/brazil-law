@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por DENIVALDO ARAGÃO, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de Instrumento. Ação de despejo por falta de pagamento c./c. cobrança de alugueis e acessórios. Cumprimento de sentença. Decisão agravada que deferiu a penhora de ativos financeiros depositados em conta bancária do Agravante. Pleito recursal do executado, ora Agravante, que não merece prosperar. Ausência de comprovação de que se trata de conta poupança. Descumprimento de acordo homologado judicialmente. Agravante que não demonstrou de forma convincente que a penhora realizada compromete a sua subsistência. Ausência de cooperação para pôr fim ao processo e satisfazer o crédito perseguido legitimamente pela exequente. Interpretação da regra da impenhorabilidade inscrita no artigo 833, incisos IV e X do Código de Processo Civil. Rigor que deve ser mitigado, mormente ante à ausência de disposição do devedor para cumprir as decisões judiciais. Inteligência do artigo 5º do Código de Processo Civil. Recalcitrância e falta de cooperação do devedor que não pode se escudar atrás do biombo legal dos incisos IV e X do artigo 833 do Código de Processo Civil sem violar o princípio da efetividade da execução. Hermenêutica que harmoniza a aplicação da regra processual e observância de princípios constitucionais atinentes a direitos fundamentais. Possibilidade de penhora de salário e de ativos financeiros inferiores a 40 salários-mínimos nas hipóteses de abuso, má-fé ou fraude (Recurso Especial n.º 1.230.060/PR, relatoria da Ministra Maria Isabel Gallotti, j. 13/08/2021). Precedente da Corte Especial do Superior Tribunal de Justiça no EREspn. 1.874.222-DF,de 19/04/2023. Decisão mantida. RECURSO DESPROVIDO. (fl. 31 e-STJ).
+No recurso especial, o recorrente alega violação dos arts. 833, inciso, IV, do Código de Processo Civil, sustentando a impenhorabilidade de valores até o limite de quarenta salários mínimos em conta corrente ou poupança.
+Contrarrazões às fls. 72/75 (e-STJ).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origem assim dispôs:
+"(..) frise-se que o acervo probatório dos autos evidencia que o Agravada se omite em colaborar com o Poder Judiciário para pôr fim ao processo, deixando de envidar esforços para satisfazer o crédito legitimamente perseguido pela exequente.
+Consigne-se que não há notícias nos autos acerca de nenhuma proposta de pagamento do débito, parcelamento da dívida ou oferecimento de bens à penhora, o que revela comportamento contrário à boa-fé, legitimamente esperada e exigida de todo aquele que litiga em juízo.
+(..)
+É possível mesmo afirmar, diante do conjunto probatório, que o Agravante incorre em abuso de poder, excedendo manifestamente os limites impostos pela boa-fé, eis que participa do processo sem agir de maneira propositiva, isto é, deixando de praticar conduta com propósito de pôr fim ao processo, preferindo esquivar-se do pagamento da dívida cobrada legitimamente pela credora.
+De fato, em geral os devedores ancoram-se em jurisprudência do Superior Tribunal de Justiça que veda a penhora de ativos referidos no inciso X do art. 833 do CPC.
+No entanto, porque não lhes convém, omitem-se acerca de julgados do Superior Tribunal de Justiça que excepcionam a interpretação literal da regra inscrita no inciso X do at. 833 do CPC, quanto à impenhorabilidade da quantia de até 40 (quarenta) salários mínimos poupados.
+Para a Corte Superior, não apenas os valores aplicados em conta poupança, mas também os depositados em conta corrente e os recursos investidos em aplicações financeiras são penhoráveis em quantias inferiores a 40 salários-mínimos quando verificado abuso, má-fé ou fraude" (fls. 38/39 e-STJ - grifou-se).
+O aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, firmada no sentido de ser impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta-corrente, aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE VALORES DEPOSITADOS EM CONTA DE UM DOS EXECUTADOS. IMPOSSIBILIDADE NO CASO CONCRETO. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. ART. 833, X, DO CPC/2015. PRECEDENTES. AGRAVO DESPROVIDO.
+1. "A jurisprudência desta egrégia Corte Superior é firme no sentido da impenhorabilidade de valor até 40 (quarenta) salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude" (AgInt no AREsp 1.512.613/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe de 07/05/2020).
+2. Agravo interno desprovido."
+(AgInt no REsp 1.777.252/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 649, IV, DO CPC/1973. NÃO OCORRÊNCIA. PENHORA. VERBA TRABALHISTA. POSSIBILIDADE DE MITIGAÇÃO. EXCECIONALIDADE. PERDA DO CARÁTER ALIMENTAR. CONSTRIÇÃO. NÃO COMPROMETIMENTO DA SUBSISTÊNCIA DO DEVEDOR E FAMÍLIA. ALTERAÇÃO. INVIÁVEL. REEXAME DOS FATOS. SÚMULA Nº 7/STJ.
+1. O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Esta Corte Superior firmou o entendimento de que a impenhorabilidade salarial não é absoluta, sendo que, existindo sobra salarial, esta poderá ser penhorada em razão da perda da natureza alimentar. Aplicação do verbete da Súmula nº 568/STJ.
+3. Na espécie, em tendo a Corte local expressamente reconhecido que a constrição de percentual de indenização trabalhista do agravante não comprometeria a sua subsistência digna nem de sua família, inviável mostra-se a alteração do julgado, em virtude da necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula nº 7/STJ, inviável a esta Corte em virtude do óbice da Súmula 7/STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp 1.404.115/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/8/2020, DJe de 31/8/2020).
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 83/STJ.
+Ademais, rever a conclusão do tribunal local acerca da má-fé do agravante demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
