@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA ECONÔMICA FEDERAL com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+"Civil. Sistema Financeiro de Habitação. Contrato. Plano de Equivalência Salarial. Taxa Referencial (TR). Fator de Correção monetária das prestações e saldo devedor. Legalidade, Juros. Capitalização. Taxa anual Limitação. Coeficiente de Equivalência Salarial. Previsão contratual. Amortização - do saldo devedor. Correção monetária. I Seguro habitacional. Código de Defesa do Consumidor. Aplicabilidade. Repetição em dobro. Incabimento. 1. Constatação nos autos de que o valor das prestações exigido pelo agente financeiro configura o desrespeito ao Plano de Equivalência Salarial, devendo haver a revisão das parcelas do contrato de mútuo para fins de adequação ao PES.
+2. Legalidade da adoção da Taxa Referencial (TE) para atualização monetária de prestações e saldo devedor de contrato de financiamento habitacional, regido pelo SFH. O STF decidiu, na ADIN 493-0, que a TE ri s ão poderia substituir outros índices previstos em lei ou em contrato :O contrato em questão prevê a correção monetária do saldo devedor do financiamento habitacional pelos mesmos índices utilizados , para a correção de caderneta de poupança, sendo legal a incidência da TR (Taxa Referencial).
+3. inexiste - previsão contratual que vincule os cálculos do prêmio do seguro habitacional à majoração das prestações. Aplicabilidade das circulares da Superintendência de Seguros Privados, que fixam o valor e as condições do seguro habitacional referente ao financiamento do imóvel.
+4. Inexiste capitalização de juros no sistema de amortização denominado Tabela Price. O Decreto 22.626/33 não se apita às instituições financeiras, públicas ou privarias, sendo-lhes permitido capitar juros.
+5. Nos cálculos do financiamento regido pelo SFH, é admissível a incidência do Coeficiente de Equivalência Salarial se houver previsão contratual.
+6. A incidência da correção monetária do saldo devedor deve ser efetivada antes da dedução do parcela do financiamento: Jurisprudência do eg. TRF-5 4 Região.
+7. Contrato de financiamento firmado sob a égide da Lei 4380, de 21 de agosto de 1964, que instituiu o Sistema Financeiro da Habitação, fixou a taxa de juros em 10% (dez por cento), no máximo. Cabimento da revisão.
+8. E aplicável o Código de Defesa do Consumidor às operações de crédito de financiamento habitacional, regido pelo SFH. Súmula 297 do eg. STJ. É cabível a restituição em dobro, se provada a má-fé do credor ao exigir dívida inexistente, o que não é o caso, considerando que o agente financeiro apena interpretou, legitimamente, cláusula contratual" (fl. 442 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 410-411 e-STJ).
+Em suas razões (fls. 341-352 e-STJ), a recorrente aponta violação dos arts. 535 do Código de Processo Civil de 1973; 6º , § 1º, da Lei de Introdução às Normas do Direito Brasileiro; 586 do Código Civil; 60 e 61 da Lei nº 4.380/1964, bem sustenta divergência jurisprudencial quanto à pretensão de limitar a taxa de juros ao máximo de 10%.
+Alega deficiência na prestação jurisdicional no acórdão recorrido, que "reconheceu a validade do PES  Plano de Equivalência Salarial, mas reprovou a incidência do CES  Coeficiente de Equiparação Salarial, apesar de ambos originarem-se da mesma norma regulamentar" (fl. 343 e-STJ).
+Aduz violação ao ato jurídico perfeito, pois "sempre foram repassados aos encargos mensais os índices de reajustamento salarial referente à data base da categoria do mutuário" (fl. 346 e-STJ).
+Afirma que "a aplicação do CES e sua não inclusão no corpo do contrato decorre de determinação legal" e nesse sentido "o CES - Coeficiente de Equiparação Salarial está dentro da mais rigorosa previsão legal, tendo sido ratificado pela Lei. 8.692/93, no seu art. 8º, o qual reza que, no PES, o encargo mensal deverá ser acrescido do CES" (fl. 348 e-STJ).
+Assevera que "se é que havia ainda alguma dúvida no tocante à legalidade da aplicação ao contrato da taxa de juros de até 12% a.a., tal dúvida não mais poderia subsistir a partir da vigência da atual Constituição Federal" (fl. 350 e-STJ).
+Sem contrarrazões (fl. 526 e-STJ).
+É o relatório.
+DECIDO.
+Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Os princípios contidos na Lei de Introdução às Normas do Direto Brasileiro (LINDB), apesar de previstos em norma infraconstitucional, não podem ser analisados em recurso especial, pois são institutos de natureza constitucional. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO C/C COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A jurisprudência do STJ firmou-se no sentido da impossibilidade dos princípios contidos no artigo 6º da LINDB serem analisados em sede de recurso especial, por se tratar de matéria constitucional, apenas reproduzida na legislação ordinária. Precedentes.
+(..)
+4. Agravo interno desprovido"
+(AgInt no AREsp 2.390.638/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023)
+Ao analisar a discussão acerca da incidência do Coeficiente de Equiparação Salarial, o Tribunal de origem verificou que "No caso concreto, o contrato assinado antes da entrada em vigor da Lei 8.692/93, não prevê a cobrança do Coeficiente Equiparação de Salarial, sendo ilegal sua incidência nos cálculos das prestações do financiamento habitacional" (fl. 439 e-STJ).
+Observa-se, assim, que o acolhimento da pretensão recursal demandaria a interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do disposto da Súmula nº 5/STJ.
+Quanto ao percentual da taxa de juros, o acórdão recorrido assim decidiu:
+"A Lei 4.380, de 21 de agosto de 1964, que instituiu o Sistema Financeiro da Habitação, fixou a taxa de juros em 10% (dez por cento), no máximo. Com o advento da Lei 8.692/1993 (art. 25), de 28 de julho de 1993, o limite da taxa efetiva de juros foi fixada em 12% (doze por cento) ao ano.
+O contrato em questão foi celebrado em 1981, sob a égide da Lei 4.380/64, com previsão de taxa anual de juros (eletiva) fixada em 10,472%, portanto, acima do limite fixado pela referida lei, sendo cabível o pleito de revisão" (fl. 436 e-STJ - grifou-se).
+Conforme se verifica, o Tribunal de origem levou em consideração para fins de limitação dos juros, a data de celebração do contrato, de sorte que as conclusões do aresto impugnado decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos.
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
