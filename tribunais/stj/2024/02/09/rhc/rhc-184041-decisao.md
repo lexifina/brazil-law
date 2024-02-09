@@ -1,0 +1,23 @@
+DECISÃO
+Perdeu o objeto este recurso em habeas corpus interposto por Walerson Pereira Campos, cujo objetivo era a revogação da prisão e o reconhecimento da ilicitude do arcabouço probatório que deu ensejo à Ação Penal n. 0006022-68.2023.8.13.0313, da 1ª Vara Criminal da comarca de Ipatinga/MG.
+Isso porque houve alteração do cenário fático-processual em momento posterior ao acórdão aqui impugnado e tem-se por esvaído o motivo do remédio heroico. Com a superveniente sentença, após prévia e ampla dilação probatória, foi analisada em preliminar, na origem, a tese aqui impugnada de nulidade da entrada no domicílio, que só poderá ser desconstituída por meio do recurso de apelação criminal.
+A propósito, o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE TRANCAMENTO DE AÇÃO PENAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. WRIT PREJUDICADO.
+1. Não há que se falar em ausência de fundamentação na decisão ora agravada, na qual foi acolhido o parecer ministerial e aplicada a jurisprudência desta Corte, devendo assim ser mantida.
+2. Parecer ministerial acolhido, no sentido de ser aplicável ao caso, por analogia, a Súmula 648/STJ - "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" -, tendo em vista que na sentença condenatória foram analisados de forma exauriente os pleitos relativo à ausência de indícios de autoria delitiva e às preliminares de ilicitude nas buscas pessoal e domiciliar. Desse modo, o feito encontra-se prejudicado pela perda de seu objeto, ante a superveniência de novo título judicial.
+3. A superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de provas (AgRg no HC n. 663.708/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/ 1ª Região), Sexta Turma, DJe 31/8/2021).
+4. Agravo regimental improvido.
+(AgRg no HC n. 698.351/SP, de minha relatoria, Sexta Turma, DJe 17/12/2021).
+Além disso, a superveniência de sentença penal condenatória, por constituir novo título judicial a embasar a constrição cautelar do acusado, torna prejudicado o exame de writ que questiona decreto de prisão preventiva anterior (AgRg no RHC n. 163.316/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/6/2022).
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS JULGADO PREJUDICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIENTE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PRECEDENTES.
+1. Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância.
+2. Agravo regimental improvido.
+(AgRg no RHC n. 158.359/SP, da minha relatoria, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022 - grifo nosso).
+Afinal, na ocasião da prolação da sentença, em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do recorrente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+Afora isso, pelo que se tem dos autos, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que adotada motivação idônea para a decretação da prisão cautelar, qual seja, a periculosidade concreta do agente, tendo o acórdão destacado que a necessidade da prisão está devidamente lastreada no risco concreto de reiteração delitiva do recorrente, em razão de duas condenações transitadas em julgado por crime de tráfico de drogas, além de haver registro em sua CAC de que ele estaria em cumprimento de pena em meio aberto (fl. 719 - grifo nosso).
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DE PROVAS. SUPERVENIÊNCIA DE SENTENÇA. TESE AFASTADA MEDIANTE UM JUÍZO AMPLO E DE COGNIÇÃO EXAURIENTE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso prejudicado.
