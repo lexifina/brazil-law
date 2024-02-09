@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCIANO ALVES DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0636911-17.2023.8.06.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente, pela prática, em tese, de delitos de posse irregular de armas e receptação (e-STJ fl. 20).
+O Tribunal de origem denegou a ordem (e-STJ fls. 16/31).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea (e-STJ fl. 4).
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão (e-STJ fl. 10).
+Aduz a presença de condições pessoais favoráveis (e-STJ fl. 11).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa (e-STJ fl. 15).
+Liminar indeferida às e-STJ fls. 71/72.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (e-STJ fls. 101/105).
+É o relatório.
+Decido.
+Como visto no relatório, insurge-se a defesa contra a prisão processual do paciente.
+O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+No caso, confira-se o que consta da decisão que decretou a prisão preventiva (e-STJ fls. 32/33, grifei):
+Verifico, quanto ao custodiado, que a materialidade do delito está presente bem como indícios suficientes de autoria. No que concerne à possibilidade de substituição da prisão preventiva por medidas cautelares diversas, estas se apresentam inadequadas e ineficientes, tendo em vista tratar-se de custodiado que responde a outros processos criminais, segundo consta no sistema CANCUN, circunstância essa que atrai a incidência do Enunciado Sumular nº 52 do TJCE, demonstrando, com isso, imenso risco de reiteração delitiva.
+ ..
+Assim, converto a prisão em flagrante em prisão preventiva, com fundamento na ordem pública e ante o risco concreto de reiteração delitiva.
+Expeça-se mandado de prisão em desfavor de Marciano Alves de Oliveira.
+Como se vê, a segregação preventiva encontra-se devidamente motivada, pois invocou o Magistrado de piso a reiteração delitiva do paciente, o qual "responde a outros processos criminais" (e-STJ fl. 32).
+Portanto, a prisão cautelar está amparada na necessidade de garantia da ordem pública.
+Em casos análogos, no tocante especificamente à contumácia criminosa, guardadas as devidas particularidades, o Superior Tribunal de Justiça assim se pronunciou:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. FURTO SIMPLES. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. ORDEM DENEGADA. AGRAVO DESPROVIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. RECURSO IMPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois, independentemente do valor atribuído à res furtiva, consta dos autos que o recorrente possui duas condenações anteriores definitivas pela prática de crimes de roubo e furto, circunstância que demonstra a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, ficando afastado o requisito do reduzido grau de reprovabilidade da conduta para aplicação do princípio da insignificância ora pretendido. Precedentes.
+3. Com relação à prisão preventiva, sabe-se que a validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+4. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+5. No caso, a decisão que impôs a prisão preventiva destacou que o recorrente é multirreincidente em crimes patrimoniais, evidenciando sua reiterada atividade delitiva. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.6. Recurso em habeas corpus improvido. (RHC n. 161.967/MG, de minha relatoria, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da reiteração delitiva do ora recorrente, que, na dicção do juízo de primeiro grau, "já foi preso em data anterior e recente por delito de igual natureza, tendo recebido liberdade provisória em 25.06.2016" (pouco mais de um mês antes da prisão em flagrante no processo que deu origem ao presente recurso ordinário). Ressaltou-se, ainda, a gravidade in concreto do delito, cifrada na considerável quantidade de substância entorpecente apreendida (148,7 gramas de maconha), tudo a conferir lastro de legitimidade à medida extrema.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. "Não prospera a assertiva de que a custódia cautelar é desproporcional à futura pena do paciente, pois só a conclusão da instrução criminal será capaz de revelar qual será a pena adequada e o regime ideal para o seu cumprimento, sendo inviável essa discussão nesta ação de Habeas Corpus" (HC 187.669/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 24/05/2011, DJe 27/06/2011).
+4. Recurso a que se nega provimento. (RHC n. 77.701/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/12/2016, DJe 15/12/2016.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. COLABORAÇÃO COM O TRÁFICO DE DROGAS. INFORMANTE. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE JUSTA CAUSA. PREJUDICIALIDADE. PRISÃO CAUTELAR. FUNDAMENTAÇÃO DO DECRETO CONSTRITIVO. REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. R ECURSO PARCIALMENTE PREJUDICADO E, NO MAIS, DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da reiteração delitiva do ora recorrente, que, na dicção do juízo de primeiro grau, além de possuir pretérita condenação pelo crime de roubo, encontrava-se ".. em gozo de liberdade provisória que lhe foi recentemente concedida em 26/09/2015 e em prisão domiciliar desde 09/04/2015..", quando foi apanhado em flagrante pela prática, em tese, do crime de colaboração com o tráfico de drogas.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso parcialmente prejudicado e, no mais, desprovido. (RHC n. 70.788/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/6/2016, DJe 14/6/2016.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada no envolvimento frequente dos sentenciados na delinquência, inclusive com reiteração delitiva após ser o paciente beneficiado com liberdade provisória, não há falar em ilegalidade a justificar a concessão da ordem de habeas corpus.
+2. Habeas corpus denegado. (HC n. 318.339/MS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/10/2015, DJe 17/12/2015.)
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PACIENTE PRESA EM FLAGRANTE DURANTE A LIBERDADE PROVISÓRIA CONCEDIDA EM OUTRO PROCESSO. RISCO À ORDEM PÚBLICA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PARECER ACOLHIDO.
+1. Diz a nossa jurisprudência que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais. É esse o entendimento reiterado do Superior Tribunal de Justiça (AgRg no HC n. 122.788/SP, Ministro Nilson Naves, Sexta Turma, DJe 16/8/2010).
+2. O Juízo de origem, ao decretar a prisão da paciente, fê-lo com base na probabilidade concreta de reiteração da conduta criminosa, uma vez que, conforme consta do próprio decreto prisional, quando da prisão em flagrante, a indiciada estava em gozo de liberdade provisória concedida em outro processo, também pelo cometimento de tráfico de drogas.
+ ..
+4. Ordem de habeas corpus denegada. (HC n. 327.690/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/10/2015, DJe 26/10/2015.)
+Ademais, é cediço nesta Corte que "a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar" (HC n. 607.654/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 16/12/2020).
+Considerando a fundamentação acima expendida, reputo indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para o resguardo da ordem pública.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
