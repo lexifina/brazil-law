@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BALBOA COMÉRCIO SERVIÇOS IMPORTAÇÃO E EXPORTAÇÃO EIRELI - EPP, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: declaratória de inexigibilidade de débito, ajuizada pela agravante, em face de LOCALFRIO S.A. ARMAZENS GERAIS FRIGORIFICOS e POTHIMAR TECNOLOGIA & AMBIENTAL LTDA.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO DE INEXIGIBILIDADE DEDÍVIDA PROTESTADA E AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. JULGAMENTO CONJUNTO. PERECIMENTO DE MERCADORIAS ARMAZENADAS EM CONTÊINER. Sentenças de improcedência. PREJUDICIAL. PRESCRIÇÃO. AÇÃO INDENIZATÓRIA. Inaplicabilidade do disposto no § 1º, do artigo 11, do Decreto nº 1.102/1903. Ré que não atuou como armazém geral, mas como operadora portuária. Aplicabilidade do prazo decenal do art. 205 do Código Civil. Prescrição não configurada. MÉRITO. RESPONSABILIDADE CIVIL. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. NEXO DE CAUSALIDADE NÃO DEMONSTRADO. Circunstâncias do caso concreto que denotam que a ré se desincumbiu a contento da obrigação de contatar a empresa contratada pela proprietária do contêiner a efetuar os reparos, quando da constatação dos vícios, na atividade de monitoramento e inspeção diária. Prova dos autos, ademais, que informa que o contêiner chegou à unidade portuária apresentando avarias, que podem ter influído sobre o sistema de refrigeração e que foram comunicadas à autora pelo despachante portuário. Ação de inexigibilidade de dívida que tinha por ponto fulcral a exceção de contrato não cumprido ora rechaçada. Do exposto, decorre a procedência do pleito reconvencional e a improcedência da ação indenizatória. Condenação ao pagamento da quantia indicada na duplicata (R$ 11.803,97, com juros e correção monetária desde a data do vencimento). SENTENÇAS MANTIDAS. RECURSOS DESPROVIDOS.
+Recurso especial: alega violação de dispositivos legais.
+Decisão de admissibilidade: inadmitiu o recurso especial, com os seguintes fundamentos: i) ausência de violação de dispositivo legal; e ii) incidência do óbice da Súmula 7/STJ.
+Agravo em recurso especial: reitera a violação de dispositivos legais e afirma, genericamente, que não pretende o reexame de provas, mas apenas sua correta valoração.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que a agravante se limitou a trazer alegações genéricas, mas não demonstrou, de maneira consistente e específica, que a análise da alegação de violação dos arts. 85, 86, 476, 477, 629 e 750 do CC e 373, II, §§ 2º e 3º, do CPC, não demandaria o reexame de fatos e provas.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
