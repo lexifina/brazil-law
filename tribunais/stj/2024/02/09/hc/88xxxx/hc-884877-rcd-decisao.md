@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de simples petição de reconsideração do pedido de liminar com a juntada de documento (fls. 34-42).
+Conforme narrado na decisão de fls. 26-27:
+"Consta dos autos que, na execução penal, foi deferido o livramento condicional ao paciente. Irresignado, o Ministério Público interpôs agravo e o Tribunal de origem proveu o recurso para determinar o retorno do apenado ao regime fechado, a fim de aguardar a realização de exame criminológico por equipe multidisciplinar.
+O impetrante sustenta que o paciente teria sido admitido em trabalho formal durante a liberdade condicional e seria desnecessária a realização de exame criminológico, notadamente porque o retorno ao cárcere poderia resultar em demissão e prejudicar sua ressocialização.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impugnado. No mérito, pugna pela concessão da ordem para que seja deferido o livramento condicional."
+É o relatório. DECIDO.
+Conforme consta, a defesa trouxe a decisão do juiz da execução, às fls. 37-40.
+Nesta impetração, ela espera o livramento condicional sem a necessidade de laudo criminológico. No presente caso, da análise dos elementos informativos constantes dos autos, contudo, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Nesse passo, a jurisprudência desta Corte Superior se firmou no sentido de que, para que se afaste o requisito subjetivo das benesses executórias, deve o ser com base nos elementos concretos extraídos da execução, verbis:
+"(..) a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ (HC n. 519.301/SP, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 13/12/2019)" (AgRg no HC 803.075/SP, Quinta Turma, de minha relatoria, DJe de 31/5/2023, grifei).
+Aqui, o Tribunal de origem, ao cassar o decisum do juízo a quo e determinar a submissão do paciente ao exame criminológico, fundamentou sua decisão não apenas na gravidade abstrata dos crimes e/ou na longa pena a cumprir, mas também no histórico conturbado do paciente.
+Vejamos (fl. 16):
+"O reeducando, que: i) cumpre pena privativa de liberdade de 16 (dezesseis) anos, 8 (oito) meses e 27 (vinte e sete) dias de reclusão por roubo qualificado, tráfico de substância entorpecente e receptação; ii) tem o término de expiação previsto para 07.05.2028 (fls. 31); iii) ostenta falta disciplinar de natureza grave ("SUBVERSÃO A ORDEM E A DISCIPLINA", perpetrada aos 05.12.2015, fls. 22); iv) praticou a narcotraficância e a receptação aos 15.05.2014, quando gozava de regime aberto, na modalidade prisão albergue-domiciliar que lhe havia sido deferido em 31.08.2012 (fls. 22/3), não podia ser agraciado com livramento condicional sem prévia submissão a exame criminológico, porquanto somente tal estudo propiciaria a "constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir" - parágrafo único do artigo 83 do Código Penal."
+Com efeito, este Superior Tribunal de Justiça firmou entendimento de que o magistrado de 1º grau, ou mesmo o Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização de exame criminológico para a formação de seu convencimento acerca do merecimento do apenado, desde que essa decisão seja fundamentada.
+Consolidando esse entendimento, a Súmula n. 439, STJ:
+"Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+O Supremo Tribunal Federal, ao analisar o tema, também editou a Súmula Vinculante de n. 26, in verbis:
+"Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico."
+No caso concreto, ainda, não há sequer falar em termos de reabilitação.
+É o histórico prisional do apenado que, somado ao preceito legal acima, afasta a constatação do requisito subjetivo apto à concessão do livramento condicional.
+A Terceira Seção desta Corte Superior firmou, em caráter repetitivo, o Tema n. 1161, no sentido de que:
+"A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (REsp n. 1.970.217/MG, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 1º/6/2023, grifei).
+Corroborando: AgRg no REsp n. 2.017.532/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/10/2022; e AgRg no HC 806.925/SP, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 31/5/2023.
+Nesse contexto, não se vislumbra qualquer ilegalidade ou arbitrariedade na submissão do apenado ao exame criminológico/psicológico a fim de se aferir o preenchimento do requisito subjetivo, diante de elementos concretos, observados durante a execução da pena (AgRg no HC n. 810.777/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/5/2023; AgRg no HC n. 751.227/SP, Sexta Turma, Rel. Min. Antônio Saldanha Pal heiro, DJe de 10/10/2022; e AgRg no HC 722.404/MG, Sexta Turma, Rel. Min. Sebastião Reis, DJe de 18/5/2023).
+Dessa forma, não há que se falar em constrangimento ilegal.
+Ante o exposto, denego o habeas corpus, restando prejudicado o pedido de reconsideração da liminar.
+Publique-se. Intime-se.
+EMENTA
