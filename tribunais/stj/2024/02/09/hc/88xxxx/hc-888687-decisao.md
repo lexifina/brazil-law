@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de OSVALDO SANTOS JUNIOR contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 1500766-93.2018.8.26.0536.
+Consta dos autos que, em 10/8/2018, o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, em regime inicial fechado, mais o pagamento de 15 dias-multa, por infração ao artigo 16, parágrafo único, inciso IV, da Lei n. 10.826/2003 (e-STJ fls. 167/171).
+Irresignada, a defesa interpôs recurso de apelação, bem como o Ministério Público.
+Conforme relatado pela Corte local (e-STJ fl. 20): O Parquet pede a exacerbação da pena em 1/3, em virtude da agravante da reincidência (159/164). OSVALDO, por sua vez, alega que as provas coligidas ao processo não são suficientes para alicerçar a sua condenação, razão pela qual pede ser absolvido (fls. 187/192).
+Contudo, em sessão de julgamento realizada no dia 14/3/2019, a 6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, à unanimidade, negou provimento aos recursos (e-STJ fls. 18/22).
+Daí o presente habeas corpus, impetrado após mais de 4 anos do julgamento do acórdão impugnado, no qual a Defensoria Pública inova as teses de nulidade do feito por invasão de domicílio e, subsidiariamente, de fixação da pena-base no mínimo legal ante o aumento excessivo e desproprocional no percentual de 1/3, com fundamento na existência de maus antecedentes.
+Assim (e-STJ fl. 17): requer-se a concessão da liminar para a imediata soltura do paciente. Ao final, requer seja concedida a ordem de HABEAS CORPUS em favor do paciente para, com base nos princípios constitucionais e nas normas processuais vigentes, seja declarada a nulidade das provas ilícitas ou, subsidiariamente, seja redimensiada a pena aplicada, com a fixação de regime aberto para início cumprimento da pena.
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não merece prosseguimento.
+Como é de conhecimento, o art. 210 do Regimento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Na hipótese, compulsando os autos, verifica-se que os temas ora suscitados não foram debatidos pela Corte local, especialmente porque não constaram das razões de apelação do paciente, tampouco do Parquet, motivo pelo qual esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Com efeito, consoante jurisprudência desta Corte Superior, até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte (AgRg no HC n. 643.018/ES, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022).
+Inclusive, ressalta-se que: Matéria não apreciada pelo Tribunal de origem, inviabiliza a análise por esta Corte sob pena de indevida supressão de instância, mesmo em caso de suposta nulidade absoluta (AgRg nos EDcl no HC n. 692.704/SC, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
