@@ -1,0 +1,19 @@
+DECISÃO
+RODRIGO BORGES DE OLIVEIRA JUNIOR alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - denunciado pelos crimes de tráfico de drogas e de associação para tráfico de drogas -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+O Parquet Federal oficiou pelo desprovimento do recurso.
+Decido.
+A denúncia narra o seguinte:
+ ..
+Os denunciados criavam grupos fechados para negociação da droga entre eles, para posterior venda ao usuário final. Sempre que o denunciado Matheus Carvalho de Ávila estava em negociação de mercadoria nova com seus fornecedores pessoais, ele lançava num desses grupos para que a droga fosse rateada entre os participantes, pois quanto maior a quantidade comprada, menor o preço de custo final. Esses grupos funcionavam como verdadeiro consórcio de drogas. E, dentre os integrantes do grupo de rateio, havia o empréstimo de drogas para o atendimento ao consumidor final. Adquirida a substância entorpecente pelos integrantes dos grupos de rateio, os denunciados utilizam-se de seus perfis nas redes sociais, inclusive com criação de lojinhas próprias para a venda da substância ilícita, sendo que a entrega era feita pelos correios ou por sistemas privados de envio e entrega, para todo o Brasil, e o pagamento, por depósitos ou transferências bancárias, cujos comprovantes eram encaminhados via aplicativos de mensagens instantâneas. As grandes negociações, principalmente as efetivadas pelo denunciado Matheus, eram travadas inteiramente no Wickrme, que trabalha com dupla criptografia e ferramentas de exclusão automatizadas, com programação para autodestruição.  ..  (fls.)
+O Juízo de Direito, ao manter a constrição cautelar, ofereceu os seguintes fundamentos:
+ ..
+Os denunciados Rodrigo Borges e Matheus Oliveira não foram localizados para citação, estando em local incerto e não sabido. Assim, tem-se que o denunciado evadiu-se do distrito da culpa o que, por si só, é fundamento suficiente para o decreto da prisão preventiva, objetivando a instrução processual bem assim a aplicação da lei penal. Questão, aliás, sumulada pelo e. TJMG no verbete nº30:"A fuga do réu do distrito da culpa justifica a decretação da prisão preventiva para assegurar a aplicação da lei penal. (unanimidade). Pelo exposto, visando principalmente resguardar a instrução processual bem assim assegurar a aplicação da lei penal, decreto a prisão preventiva dos denunciados RODRIGO BORGES DE OLIVEIRA JÚNIOR e MATHEUS OLIVEIRA VASCONCELOS GUIMARÃES, com base no art. 311 e seguintes do CPP.  ..  (fl. 281)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que "o denunciado evadiu-se do distrito da culpa".
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal" (AgRg no HC n. 568.658/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020).
+Em razão das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
