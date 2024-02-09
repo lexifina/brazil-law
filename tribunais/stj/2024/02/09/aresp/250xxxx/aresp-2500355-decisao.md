@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por SPORT CLUB INTERNACIONAL contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. NÃO HÁ FALAR EM AUSÊNCIA DOS REQUISITOS DO TÍTULO, PORQUANTO A PROVA DOS AUTOS, SOBRETUDO O LAUDO PERICIAL, CARACTERIZOU O EFETIVO CUMPRIMENTO CONTRATUAL PELA EXEQUENTE, DENTRO DO QUE LHE ERA POSSÍVEL, BEM COMO O INADIMPLEMENTO DA INSTITUIÇÃO EMBARGANTE. ADEMAIS, A PEQUENA PARTE NÃO DESENVOLVIDA DO CONTRATO DE PRESTAÇÃO DE SERVIÇO DECORREU DA INÉRCIA DA PRÓPRIA PARTE CONTRATANTE, A QUAL SEQUER DEMONSTROU EVENTUAL EXCESSO DE EXECUÇÃO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME " (fl. 865 e-STJ).
+Os embargos de declaração opostos por MEDIASTREAM DO BRASIL S.A. foram acolhidos para sanar erro material e os declaratórios opostos por SPORT CLUB INTERNACIONAL em foram rejeitados (fls. 905-908 e-STJ).
+No recurso especial, o recorrente alega a violação dos artigos 783, 786, 787, 793, 803 e 917, III e §4º, II, do Código de Processo Civil e 121, 389, 391, 394, 395, 397, 478 e 480 do Código Civil.
+Sustenta ser incontroverso que o contrato não foi inteiramente cumprido pela parte contrária e que "a obrigação de pagamento objeto da pretensão exequenda é inexigível, não amparando o ajuizamento de um pleito executivo" (fl. 923 e-STJ).
+Afirma que há excesso de execução, devendo ser afastada a incidência de encargs moratórios em virtude da inadimplência da parte ora recorrente.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem, após detalhado exame do acervo fático-probatório, dirimiu a controvérsia pelos seguintes fundamentos:
+"(..)
+Conforme se depreende da leitura dos autos, o embargante contratou a exequente para o desenvolvimento de uma plataforma digital relativa à transmissão de jogos das equipes sub 20, sub 23, feminina e amistosos da equipe profissional, bem como o chamado conteúdo on demand, porém, segundo a exequente, não houve o pagamento da contraprestação por tais serviços, ensejando a propositura da execução ora embargada.
+Aclarada a situação fática, tenho que não prospera a irresignação, devendo ser mantida a sentença que entendeu pelo juízo de improcedência dos embargos, visto que a prova dos autos é robusta no sentido de caracterizar o cumprimento contratual por parte da exequente, dentro do que lhe era possível, bem como o inadimplemento por parte da instituição ora recorrente.
+Tal situação resta evidente porque o laudo pericial acostado aos autos, complementado posteriormente, demonstra que a recorrida entregou aproximadamente 70% daquilo previsto em contrato, não sendo possível o desenvolvimento do restante em razão de inércia do próprio clube, visto que não atuou da forma necessária.
+Nesta linha, cumpre ressaltar que o chamado gatway de pagamento necessitava a contratação pelo embargante de uma plataforma financeira, o que não ocorreu, sendo tampouco viável a disponibilização da plataforma na Apple Store, porquanto o clube também não procedeu na entrega dos termos da política de privacidade, documentação exigida para a oferta em tal modalidade.
+Desta forma, tal quadro torna inequívoco que os descumprimentos por parte do clube impossibilitaram a exequente de atuar na conclusão integral do contrato, razão pela qual não pode vir este pretender se eximir do pagamento de quantia relativa ao serviço não executado justamente por sua responsabilidade.
+Ademais, não bastasse isso, a simples leitura do contrato retrata que o acordo dizia com mera prestação de serviço, inexistindo parceria comercial entre as partes, o que denota que a eventual ausência de resultados financeiros ao clube com a plataforma nada diz com a exequente, aqual apenas foi contratada para desenvolver um produto e assim o fez.
+Ainda, necessário ponderar que os reparos de desenvolvimento não caracterizam uma prestação deficiente, visto que servem justamente para "afinar" o produto, tendo a recorrida atuado de forma integral na correção de qualquer problema, tanto que o próprio laudo reconheceu o cumprimento daquilo que lhe era possível até então, sendo que tampouco há falar em atraso, pois a plataforma não teve seguimento em razão de desdobramentos ocasionados pela instituição embargante, conforme já salientado.
+De outra banda, também se mostra descabida a alegação de ausência de título em relação às aquisições de upgrades de hardware e software, uma vez que tais ferramentas eram imprescindíveis à execução do contrato, tendo sido anuídas pelo representante de tecnologia designado pela instituição ora apelante, cumprindo ressaltar, também, que não configurado excesso de execução, pois além de ausente cálculo a caracterizá-lo, a contratação previa a incidência de consectários em caso de inadimplemento" (fls. 862-863 e-STJ - grifou-se).
+Nesse contexto, a modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Anota-se, por fim, ser incabível a aplicação da multa requerida em contrarrazões, pois não se ver ifica, neste momento, o caráter protelatório do recurso, tornando desnecessária sua aplicação por litigância de má-fé.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da execução, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
