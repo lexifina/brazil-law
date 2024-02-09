@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por ODONTOCOMPANY FRANCHISING S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação Cível - Franquia - Ação declaratória de rescisão de contrato de franquia cumulada com cobrança de multa rescisória - Reconvenção interposta pugnando a cobrança da multa rescisória - Sentença de improcedência do processo principal e procedência parcial da reconvenção - Preliminar recursal - Cerceamento de defesa - Inocorrência - Provas documentais existentes nos autos suficientes à formação do convencimento da magistrada - Prova oral dispensável no caso em apreço - Mérito - Processo Principal - Franqueadora que cumpriu suas obrigações pactuadas - Desapontamento do autor franqueado insuficiente a representar o descumprimento do contrato pela franqueadora - Conjunto probatório que demonstrou prestação de suporte, assessoria e treinamentos pela franqueadora - Atrasos pontuais e supostos danos decorrentes de intervenção do Órgão regulatório da profissão de odontologia (CROSP) incapazes de configurar descumprimento do contrato de franquia - improcedência que se mantém - Majoração dos honorários de sucumbência nos termos do artigo 85, §11, do CPC., para o montante de 12% com relação a forma fixada na sentença - Reconvenção - Afastada a tese de descumprimento do contrato pela franqueadora, de rigor a aplicação da multa rescisória em desfavor do franqueado - Aplicação da multa de modo proporcional considerando o período restante do contrato - Afastada a responsabilidade pelos débitos contratuais relacionados aos royalties e FNP após a rescisão do contrato - Manutenção da procedência parcial - Deixo de aplicar a majoração dos honorários neste recurso - RECURSO DO AUTOR NÃO PROVIDO - RECURSO DA RÉ NÃO PROVIDO" (fl. 752 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega violação dos arts. 413 e 421 do Código Civil, insurgindo-se contra a redução do valor da multa contratual.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que concerne à cláusula penal, o Tribunal de origem, à luz da prova dos autos, reduziu proporcionalmente o valor a ser pago a título de multa, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+No que se relaciona ao pedido da requerida em majorar a multa aplicada em razão da rescisão do contrato, bem como, em responsabilizar o autor pelos valores dos royalties e FNP, a sentença de primeiro grau afastou a cobrança dos valores do contrato, uma vez que em razão da rescisão, as partes retornaram ao "status quo ante", bem como, considerando que a vigência do contrato se daria até 14 de janeiro de 2018 a rescisão se deu aos 15 de julho de 2016, restando 18 meses para seu término, aplicou proporcionalmente, a multa pela rescisão do contrato, fixando-a em R$ 9.000,00.
+A redução da multa rescisória foi corretamente aplicada pela magistrada prolatora da sentença que observou as regras contidas no artigo 413 do Código Civil de 2002, eis que decorridos 42 meses desde a assinatura do contrato" (fl. 766 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 5% (cinco por cento) a verba honorária atribuída ao recorrente, observando-se os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como o benefício da gratuidade de justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
