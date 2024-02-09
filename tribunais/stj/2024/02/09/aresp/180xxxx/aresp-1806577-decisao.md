@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo de NIPLAN ENGENHARIA S.A. contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO  COBRANÇA - PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA E COMERCIAL  Contraprestação - Remuneração sobre o valor do contrato celebrado  Recurso da ré versando sobre a reversão da sentença - Exigibilidade  Inadimplemento por parte da ré configurado  Procedência em primeiro grau  Decisão mantida - Recurso desprovido." (fl. 421 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 437/440 e-STJ).
+Nas razões do recurso especial, a recorrente aponta a violação dos artigos 373, I, 489, §1º, 492, 1.013, §1º, e 1.022, II, do Código de Processo Civil de 2015.
+Sustenta, em síntese, que i) o Tribunal de origem não teria esclarecido o fundamento que sustenta a fixação do percentual de 2,5% como o supostamente acordado entre as partes; ii) a Corte estadual não teria consignado o motivo pelo qual estaria preclusa a questão relativa ao termo inicial de incidência da correção monetária; iii) o ônus de provar o fato constitutivo do seu direito cabe à autora; iv) a questão relativa ao termo inicial da correção monetária não foi alcançada pela preclusão, pois foi devolvida no recurso de apelação, e v) o acórdão proferiu decisão extra petita, pois a parte recorrida teria pleiteado a incidência de correção monetária desde o prazo previsto em notificação, indicando expressamente a data (21/4/2014).
+Após a juntada das contrarrazões (fls. 461/483 e-STJ), o recurso não foi admitido na origem (fls. 548/552 e-STJ), ensejando a interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, no tocante à alegada negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou suficientemente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Em relação ao percentual, o aresto recorrido, após examinar as provas produzidas, concluiu que "havendo cumprimento do contrato por parte da autora e restado caracterizado o descumprimento contratual pela ré, impende a confirmação da sentença de primeiro grau que deu adequada solução à lide e deve ser preservada por seus próprios fundamentos" (fl. 425 e-STJ).
+A sentença de mérito, por sua vez, afirma existência de um
+ii) fl. 57  e-mail datado de 29/01/2013, em que a empresa autora, por seu sócio diretor Everardo Reis, informa à autora que o preço alvo (orçamento) deles (Anglo American) é de R$ 69,8 MM (ou seja, R$ 69.800.000,00). Pede-se ainda que fossem confirmados os entendimentos verbais sobre a remuneração corresponder a 2,5% sobre o valor do contrato (fl. 330 e-STJ, grifou-se).
+E adiante, consigna que "a ré tornou-se inadimplente frente à autora, já que simplesmente não pagou o montante que havia sido acertado pelos serviços prestados por esta última (2,5% do valor do contrato firmado com a Hatch/Anglo American)" (fls. 331/332 e-STJ).
+Portanto, ao manter integralmente a sentença de mérito, o Tribunal de origem chancelou as razões de decidir apontadas naquela decisão, não havendo a necessidade de maiores esclarecimentos em relação ao ponto, eis que o percentual adotado foi extraído das provas documentais produzidas.
+Da mesma forma, está evidente no acórdão recorrido que o Tribunal de origem, ao não conhecer do pedido subsidiário formulado, considerou que a parte deveria ter apontado a questão na primeira oportunidade que teve de se pronunciar nos autos.
+Logo, ainda que a parte não concorde com o entendimento, o fato objetivamente considerado é que o motivo foi devidamente apontado pela Corte de origem.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+No que se refere à ofensa aos arts. 373, 492 e 1.013 do CPC/2015, verifica-se que as matérias neles versadas não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Além disso, verifica-se que a parte recorrente, apesar de ter se insurgido contra a declaração de preclusão apontada pelo acórdão recorrido, não apontou o dispositivo legal correspondente, capaz de oferecer sustentação jurídica à sua pretensão, o que também atrai a incidência, no particular, da Súmula nº 284/STF.
+Ante o exposto, conheço do agravo para conh ecer parcialmente do recurso especial e, na parte conhecida, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
