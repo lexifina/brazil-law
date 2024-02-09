@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em favor de ADRIANO DOS SANTOS DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Revisão Criminal n. 0049938-03.2019.8.26.0000.
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 30 anos de reclusão, em regime inicial fechado, pela prática de três crimes de latrocínio tentado (art. 157, § 3º, segunda parte c.c. art. 14, II, ambos do Código Penal), em concurso formal impróprio. Em apelação, a reprimenda foi reduzida para 27 anos, 2 meses e 20 dias de reclusão.
+Ajuizada revisão criminal, o Tribunal a quo reduziu a sanção para 23 anos e 4 meses de reclusão.
+A impetrante busca o afastamento do concurso formal impróprio, aduzindo que a hipótese é de reconhecimento de concurso formal próprio. Aduz, ainda, a possibilidade de afastamento do último crime de latrocínio tentado, tendo em vista que teria ocorrido a quebra do vínculo subjetivo entre os corréus.
+Dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 328/332).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Inicialmente, no tocante ao reconhecimento do concurso formal impróprio, afirmou a Corte estadual:
+" ..
+No caso em apreço, restou comprovado que o peticionário e seu comparsa, agindo em concurso e unidade de desígnios, após subtraírem o dinheiro pertencente ao estabelecimento comercial vítima mediante grave ameaça exercida pelo emprego de arma de fogo, com o fim de assegurar a impunidade do roubo e a detenção da res, o corréu Jeferson efetuou disparos de arma de fogo contra a vítima Denner e o policial militar Aderli David, não consumando o delito por circunstâncias alheias à sua vontade, bem como tentou efetuar dois disparos contra a vítima Olair, não logrando êxito em razão da falha do revólver.
+Desta forma, atingiram o bem jurídico protegido pelo latrocínio (vida) de diferentes pessoas e o fazendo com desígnios autônomos em relação a cada vítima.
+E não há dúvidas da prova dos desígnios autônomos, o que afasta a tese subsidiária do concurso formal próprio (art. 70, caput, primeira parte, do CP).
+Com efeito, a vítima Denner foi surpreendida quando passava pela porta do estabelecimento comercial, sendo alvejada pelas costas quando tentava se afastar. Após atingir Denner, os réus, na posse do dinheiro pretendido e já com a intenção de fugir, foram na direção da vítima Olair, que ainda não havia chegado no mercado e estava caída ao solo. Por fim, o último disparo foi direcionado contra policial militar Aderli que estava no encalço dos agentes em local mais distante.
+Destarte, mantém-se o concurso formal impróprio entre três crimes de latrocínio tentado" (fls. 80/81).
+Verifica-se do excerto acima colacionado que o Tribunal a quo reconheceu a ocorrência de desígnios autônomos que concorreram para a prática dos delitos de latrocínio tentado, não sendo a via eleita adequada à mudança desse entendimento, por demandar necessário revolvimento do conjunto fático-probatório.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO CONSUMADO E LATROCÍNIO TENTADO. FRAÇÃO DE REDUÇÃO PELA TENTATIVA. ITER CRIMINIS PERCORRIDO. VÍTIMA QUE FOI ATINGIDA EM REGIÃO VITAL. IMPOSSIBILIDADE DE MODIFICAÇÃO NESTA VIA. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS. RÉU QUE, MEDIANTE UMA SÓ AÇÃO, ATINGIU DOIS RESULTADOS. CONCURSO FORMAL IMPRÓPRIO. PRECEDENTES DESTA CORTE. REEXAME. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. ENTENDIMENTO JURISPRUDENCIAL SOLIDAMENTE FIRMADO, A PERMITIR O JULGAMENTO DO FEITO POR DECISÃO MONOCRÁTICA. ART. 34, INCISO XX, DO REGIMENTO INTERNO DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na escolha do quantum de redução da pena, em razão da tentativa (art. 14, inciso II, do Código Penal), o magistrado deve levar em consideração somente o iter criminis percorrido, ou seja, quanto mais próxima a consumação do delito, menor será a diminuição, o que foi devidamente observado no caso concreto.
+2. No caso, foi expressamente consignado pelo acórdão impugnado que a vítima foi alvejada em região vital e que o resultado morte somente não ocorreu em razão do socorro médico eficaz a que foi submetida. 3. Em situações como a delineada nos autos, nas quais a vítima fora atingida em região vital, a jurisprudência desta Corte firmou-se no sentido de que é devida a aplicação da fração redutora mínima, tendo em vista a proximidade máxima da consumação do delito.
+4. Incide o concurso formal impróprio no crime de latrocínio quando o agente, mediante uma única subtração patrimonial, busca alcançar mais de um resultado, caracterizando-se os desígnios autônomos.
+5. Hipótese em que o Tribunal de origem reconheceu a ação única e a pluralidade de vítimas, aplicando ao caso o concurso formal impróprio, enfatizando, inclusive, que o tema é pacífica na jurisprudência desta Corte.
+6. Ademais, também quanto ao ponto, para alterar o desfecho adotado pelo Tribunal de origem, seria necessária a dilação probatória, procedimento vedado em habeas corpus.
+7. Da extensa fundamentação apresentada nesta decisão, baseada em sólida e farta jurisprudência firmada por esta Corte, verifica-se não haver qualquer ilegalidade na análise deste writ por decisão monocrática do relator. Com efeito, os temas ora analisados já foram amplamente abordados pelo Colegiado desta Corte e compõe jurisprudência dominante, de forma que o julgamento do feito de forma monocrática segue estritamente o disposto no art. 34, inciso XX, do Regimento Interno desta Corte, segundo o qual são atribuições do relator decidir o habeas corpus quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema. Sem fundamento, portanto, a alegação da defesa, a qual sequer apresentou eventual entendimento jurisprudencial divergente acerca dos temas ora tratados.
+8. Agravo regimental desprovido.
+(AgRg no HC n. 710.290/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/2/2022).
+Por outro lado, verifica-se que o tema referente à suposta quebra do vínculo subjetivo entre o ora paciente e o corréu não foi submetido à apreciação do Tribunal a quo. Assim, a sua análise, diretamente por esta Corte, acarreta indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. AÇÕES PENAIS EM CURSO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.981/MG, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 17/6/2022).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
