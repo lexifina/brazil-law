@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por MRV ENGENHARIA E PARTICIPAÇÕES S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+"DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. TARDANÇA NA ENTREGA DA OBRA. ATRASO INJUSTIFICADO NA CONCLUSÃO DAS OBRAS DO EMPREENDIMENTO SUN PARK. CASO FORTUITO NÃO CONFIGURADO. AUSÊNCIA DE PROVA DA OCORRÊNCIA DE QUALQUER EVENTO QUE JUSTIFICASSE A DELONGA NA CONCLUSÃO DOS TRABALHOS. RESPONSABILIDADE CIVIL CONFIGURADA. DEVER DE INDENIZAR. INVERSÃO DA CLÁUSULA PENAL E HONORÁRIOS EM FAVOR DO CONSUMIDOR, EM FACE DO DESCUMPRIMENTO CONTRATUAL PELA ACIONADA. POSSIBILIDADE. ENTENDIMENTO SUFRAGADO PELO STJ. RECURSO ESPECIAL REPETITIVO Nº.1.614.721/DF-TEMA 971. CONGELAMENTO DO SALDO DEVEDOR DURANTE A MORA CONTRATUAL. VIABILIDADE. DEVER DA CONSTRUTORA DE RESTITUIR, NA FORMA SIMPLES, OS VALORES PAGOS A MAIOR PELO CONSUMIDOR, A TÍTULO DE CORREÇÃO MONETÁRIA. DANOS MORAIS. OCORRÊNCIA. SOFRIMENTO PSICOLÓGICO QUE SUPERA O CONCEITO DE MERO ABORRECIMENTO. QUANTUM INDENIZATÓRIO. FIXAÇÃO EM R$ 20.000,00 (VINTE MIL REAIS). VALOR ADEQUADO, DIANTE DAS PECULIARIDADES DO CASO CONCRETO. ATENÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. DESCUMPRIMENTO UNILATERAL DO TRATADO PELA ACIONADA. NÃO ENTREGA DA AREA COMUM, NA FORMA PROMETIDA. RESSARCIMENTO. POSSIBILIDADE. HONORÁRIOS ADVOCATICIOS. READEQUAÇÃO. NECESSIDADE, DIANTE DO RESULTADO DO RECURSO. FIXAÇÃO EM 18% (DEZOITO POR CENTO) DO PROVEITO ECONÔMICO. ART. 85, 2º, DO CODEX NOVO. APELO PARCIALMENTE PROVIDO. SENTENÇA MODIFICADA" (fls. 483-484 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 545-565 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 47 do Código de Defesa do Consumidor, 48, § 2º, da Lei nº 4.591/64 e 927 e 944 do Código Civil.
+Sustenta que o Tribunal de origem "desconsiderou a cláusula que prevê prorrogação em até 180 dias da data limite para entrega das chaves" (fl. 572 e-STJ) e que "a prorrogação do prazo de entrega do imóvel por 180 dias, não é abusiva, tampouco causa desvantagem ao consumidor" (fl. 573 e-STJ).
+Defende que, considerando-se a prorrogação do prazo, deve ser considerada como data inicial da mora o dia 28/08/2014, não o dia 28/02/2014.
+Argumenta que "a legalidade da tolerância em 180 não está pautada na demonstração de ocorrência de caso fortuito ou força maior, mas sim, na legítima possibilidade de prorrogação do prazo por motivos inerentes à construção civil" (fl. 575 e-STJ).
+Aduz que o termo final para o pagamento da indenização decorrente de atraso na entrega da obra é a imissão na posse do imóvel, o que ocorreu em 04/09/2014.
+Afirma que inexistiu dano moral no caso, pois a situação não extrapola o mero dissabor.
+Reitera que o valor fixado a título de indenização - R$ 20.000,00, vinte mil reais - é exagerado, sobretudo porque não ficou demonstrado nenhum evento extraordinário a justificar o montante.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem, após detalhado exame do acervo fático-probatório existente nos autos, sobretudo do contrato em discussão, concluiu que a obra foi entregue 13 (treze) meses após a data pactuada, como se observa do seguinte trecho do acórdão recorrido:
+"(..)
+Considerando, pois, a prévia do término das obras, consignado pela ré, como sendo em 28/02/2014 (fls.66/67), ao passo que se tem a notícia de que o empreendimento fora efetivamente entregue apenas em 10/03/2015, tendo transcorridos mais de 13 (trezes) meses após a data aqui estabelecida, segundo indicado na exordial, independentemente das chaves do imóvel da autora ter sido entregue em 06/09/2014, fl.09" (fl. 488 e-STJ).
+Nesse contexto, a modificação do acórdão recorrido acerca da observância da cláusula de tolerância e do prazo considerado para a entrega da obra demanda, necessariamente, a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+A controvérsia acerca do término da mora não está amparada na indicação, de forma precisa, de nenhum dispositivo legal como violado, atraindo o óbice da Súmula nº 284/STF.
+Confiram-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA - DANOS MORAIS. PLANO DE SAÚDE. CARÊNCIA DE APONTAMENTO CLARO DO DISPOSITIVO DE LEI FEDERAL QUE TERIA SIDO MACULADO NO ACÓRDÃO ESTADUAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, o conhecimento de recurso especial exige a indicação dos dispositivos de lei federal supostamente violados. Ausente tal requisito, "incide a Súmula n.284/STF" (AgInt no AREsp n. 2.108.361/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/9/2022, DJe de 23/9/2022).
+2. (..).
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.175.300/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA CUMULATIVA DE CLÁUSULA PENAL E DE JUROS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que os agravados foram expostos ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Divergência jurisprudencial, não demonstrada ante a incidência das Súmulas n. 284 do STF e 7 e 83 do STJ. Além disso, "decisão monocrática não serve para comprovação de divergência jurisprudencial" (AgInt no AREsp n. 1.180.952/RJ, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 17/5/2018, DJe 24/5/2018).
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.141.911/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022 - grifou-se).
+No que diz respeito aos danos morais, o entendimento do Superior Tribunal de Justiça é firme no sentido de que o mero inadimplemento contratual, em virtude do atraso na entrega do imóvel, não gera, por si só, a indenização por dano moral, sendo necessária a comprovação de circunstâncias específicas caracterizadoras da lesão extrapatrimonial.
+No presente caso, verifica-se que o Tribunal de origem analisou o caso concreto e concluiu que a conduta da agravante acarretou transtornos anormais à parte agravada, sobretudo em razão do longo período de atraso na entrega do empreendimento.
+Desse modo, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DA OBRA. DANO MORAL. OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 7/STJ. CONDENAÇÃO EM LUCROS CESSANTES. CABIMENTO. COMISSÃO DE CORRETAGEM. DEVOLUÇÃO. CABIMENTO.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais. Entretanto, alterar o decidido no acórdão recorrido no tocante ao atraso na entrega do imóvel e a configuração do dano moral exige o reexame de fatos e provas, procedimento que é vedado pelo enunciado n. 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça flui no sentido de que há presunção de prejuízo ao adquirente, em virtude da privação do uso do imóvel a partir da data contratualmente prevista para a entrega das chaves, sendo devida a condenação da empresa a o pagamento de indenização por lucros cessantes até a data da disponibilização das chaves.
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, o comprador faz jus à devolução integral dos valores pagos, incluindo a comissão de corretagem, nos casos em que o construtor/vendedor dá causa à resolução do contrato de compra e venda.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Agravo interno improvido" (AgInt no REsp n. 2.037.717/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023.)
+Por fim, observa-se que o Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 20.000,00 (vinte mil reais).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 18% (dezoito por cento) sobre o valor do proveito econômico, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
