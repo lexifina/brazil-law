@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por P C FACTORING FOMENTO COMERCIAL LTDA, em face de decisão que inadmitiu o recurso especial da insurgente.
+O apelo extremo, manejado com amparo na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 452, e-STJ):
+AGRAVO INTERNO. Decisão que indeferiu pedido de justiça gratuita deduzido pela patrona da parte embargada, determinando o recolhimento do preparo do apelo. Apreciação do pedido que está adstrita às provas produzidas no processo. Ausência de motivos para reforma. Recurso desprovido.
+Em suas razões de recurso especial (fls. 456/469, e-STJ),As agravante aponta ofensa aos artigos 98, 99, §7º e 101, §2º do Código de Processo Civil/15. Sustenta, em síntese, fazer jus ao benefício da gratuidade de justiça.
+Contrarrazões às fls. 472/473, e-STJ.
+Em juízo provisório de admissibilidade (fls. 474/476, e-STJ), negou-se seguimento ao reclamo sob os seguintes fundamentos: i) não foi demonstrada a alegada vulneração ao dispositivo arrolado; ii) em razão da incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 479/488, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 491/494, e-STJ.
+É relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A jurisprudência desta Corte firmou o entendimento de que a autodeclaração de hipossuficiência, realizada por quem pretende ser beneficiário da justiça gratuita, possui caráter relativo, admitindo-se a denegação, pelo juízo competente, diante de provas dos autos em sentido contrário.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. HIPOSSUFICIÊNCIA. PRESUNÇÃO LEGAL. AGRAVO INTERNO PROVIDO.
+1. No caso concreto, a Corte de origem manteve a decisão de primeira instância, no sentido de indeferir a gratuidade de justiça, com amparo apenas na falta de comprovação da hipossuficiência da pessoa natural, situação que contraria a presunção legal prevista no art. 99, § 3º, do CPC.
+2. Agravo interno provido, para conceder a gratuidade de justiça.
+(AgInt no AREsp n. 2.108.561/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. BENEFÍCIO INDEFERIDO NA ORIGEM. CONFIRMADO PELO TRIBUNAL APÓS ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+2. No caso, as instâncias ordinárias, examinando a situação patrimonial e financeira da agravante, concluíram haver elementos suficientes para afastar a declaração de hipossuficiência, indeferindo, por isso, o benefício da justiça gratuita. Nesse contexto, a alteração das premissas fáticas adotadas no acórdão recorrido demandaria o reexame do
+contexto fático-probatório dos autos, o que é defeso na via estreita do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.081.592/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AGRAVO DE INSTRUMENTO. BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. INDEFERIMENTO DE PLANO. DESCABIMENTO. NECESSIDADE DE INTIMAÇÃO DA PARTE PARA COMPROVAR A IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS DO PROCESSO. INCIDÊNCIA DA SÚMULA 83/STJ. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. De acordo com a jurisprudência desta Corte, "o pedido de gratuidade de justiça somente poderá ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício. Antes do indeferimento, o juiz deve determinar que a parte comprove a alegada hipossuficiência (artigo 99, § 2º, do CPC/2015)" - (REsp n. 1.787.491/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/04/2019, DJe 12/04/2019). Incidência Súmula n. 83/STJ.
+3. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais. " 4. Tendo o Tribunal de origem entendido que a ora agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.397.040/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Na espécie, o Tribunal de origem indeferiu o pedido de gratuidade de justiça de modo fundamentado, consoante denotam os seguintes excertos do acórdão recorrido (fls. 453/454, e-STJ):
+É caso de manutenção da decisão de fls. 06/08 por seus próprios fundamentos e, assim, o agravo interno não comporta provimento.
+A parte agravante, inconformada com o decisum, renova os argumentos veiculados na petição juntada a fls. 326/421, os quais, naquela oportunidade, já foram devidamente apreciados e decididos pela mencionada decisão de indeferimento da gratuidade pleiteada, nada havendo para justificar outro entendimento.
+Na espécie, a documentação juntada a fls. 327/421do principal não permite concluir pela cogitada hipossuficiência. Lembro ter caráter excepcional a isenção fiscal que a gratuidade da justiça proporciona, em detrimento do erário, pois a regra é que todos paguemos tributos devidos.
+Ora, em que pese a alegação de que a patrona da parte recorrente é pessoa física, denota-se que, dos documentos juntados neste processo digital, não houve a efetiva comprovação da insuficiência de recursos, já que possui bens e direitos no valor total de R$ 196.132,73 (fls. 414), quantia que não condiz com a hipossuficiência alegada.
+Ainda, em consulta aos extratos bancários juntados(fls. 342/395), denota-se a presença de diversas transferências recebidas, dentre outras, em valores superiores ao limiar fixado pela jurisprudência dessa Câmara, que equivale a três salários mínimos mensais (R$ 5.683,00 - fls. 343, R$ 3.270,00 - fls. 348, R$ 4.223,00 - fls. 351, R$ 24.000,00 - fls. 353, R$ 3.920,00 - fls. 358, R$ 5.055,00 -fls. 365).
+Ademais, tanto a Lei nº 1.060/50, quanto o CPC, não podem se sobrepor à Constituição Federal. Confira-se o disposto na referida Lei Maior, em seu art. 5º, inciso LXXIV:
+O Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;(negrito não original).
+Portanto, como a apreciação do pedido está adstrita às provas produzidas no processo, não há como deferir a gratuidade almejada se a parte recorrente não trouxe documentos comprobatórios da alegada penúria.
+Assim, rever a conclusão do acórdão recorrido, quanto à capacidade da parte recorrente de, sem prejuízo do seu próprio sustento, custear as despesas do processo em curso, implica o reexame das provas dos autos, providência vedada pela Súmula 7/STJ.
+Ademais, o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para negar provimento ao recurso especial. Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do NCPC, haja vista que, na origem, foi interposto agravo de instrumento.
+Publique-se.
+Intimem-se.
+EMENTA
