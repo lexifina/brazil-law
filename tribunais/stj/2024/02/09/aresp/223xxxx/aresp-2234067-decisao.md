@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIEMAR INDÚSTRIA E COMÉRCIO LTDA. contra decisão que inadmitiu recurso especial com fundamento na falta de prequestionamento dos dispositivos tidos por violados.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso do Sul em apelação.
+O julgado foi assim ementado (fl. 678 ):
+APELAÇÃO. AÇÃO DE COBRANÇA. RESCISÃODE CONTRATO DE REPRESENTAÇÃO COMERCIAL. PRELIMINAR DE NÃOCONHECIMENTO DO RECURSO. REJEITADA. PRELIMINAR DE NULIDADEDA SENTENÇA POR JULGAMENTOULTRA PETITA. ACOLHIMENTO PARCIAL. MÉRITO. BASE DE CÁLCULO DO VALOR DA COMISSÃO. VALOR CHEIO DAMERCADORIA, COM INCLUSÃO DOS IMPOSTOS. I) Deve ser conhecido o recurso que impugna devidamente a sentença e demonstra os motivos pelos quais pretende a sua reforma. Preliminar suscitada em contrarrazões rejeitada. II) De acordo com a jurisprudência do Superior Tribunal de Justiça, quando é apontado um valor certo na inicial, o juiz não pode ultrapassar esse limite, sob pena de nulidade da parte excedente. Preliminar de nulidade de julgamento ultra petita parcialmente acolhida, a fim de restringir a condenação de diferença de comissão ao valo indicado na inicial. III)Em conformidade com a jurisprudência do Superior Tribunal de Justiça, "a comissão contratada nos casos de representação comercial deverá incidir sobre o valor total das mercadorias, sem os descontos de impostos e encargos financeiros, nos termos do art.32, § 4º, da Lei 4.886/65, com as modificações da Lei 8.420/92". (AgInt no AREsp1.456.647/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe de 3.12.2019). IV)Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 421 e 422 do Código Civil. Sustenta que não há falar em revisão de contrato de representação comercial que se manteve inalterado por 10 anos, contra o qual a recorrida nunca se insurgiu, prevalecendo a vontade das partes.
+Aduz que, 1 mês após o término do contrato, a recorrida requereu em juízo diferenças relativas aos valores das comissões, ao argumento de que teriam deixado de ser pagas, mas nunca as buscara, ficando claro que o "tento judicial se deu apenas pelo fato do fim da relação comercial" (fl. 713).
+Pontua que ficou evidenciada a afronta aos princípios do pacta sunt servanda e da boa-fé, comprovando-se também que a receita que não ingressa para a empresa e que é recolhida por força de lei (PIS e COFINS) não deve converter-se em comissionamento do representante comercial.
+Pondera que PIS e COFINS são considerados tributos diretos e não compõem o valor das mercadorias, já que ingressam na contabilidade da empresa como custo.
+Requer o provimento do recurso para que se reconheça a afronta à legislação federal.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A questão referente à violação dos arts. 421 e 422 do CC e a tese de que PIS e COFINS são considerados tributos diretos e não compõem o valor das mercadorias, já que ingressam na contabilidade da empresa como custo, não foram objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Ressalte-se, nessa hipótese, que, para viabilizar o conhecimento do recurso especial, caberia à parte recorrente alegar ofensa ao art. 1.022 do CPC.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
