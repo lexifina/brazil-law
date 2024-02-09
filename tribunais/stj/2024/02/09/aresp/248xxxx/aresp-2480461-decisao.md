@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BAALBEK COOPERATIVA HABITACIONAL, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/06/2023.
+Concluso ao gabinete em: 25/01/2024.
+Ação: restituição de valores, ajuizada por JOSÉ FERNANDES DE ASSUNÇÃO, em face de BAALBEK COOPERATIVA HABITACIONAL.
+Sentença: julgou procedente o pedido e desconstituiu o contrato, condenando BAALBEK COOPERATIVA HABITACIONAL a restituir em parcela única todos os valores pagos, devidamente atualizados monetariamente pela Tabela Prática do Tribunal de Justiça de São Paulo, desde cada desembolso até a data da sentença. Diante disso, condenou BAALBEK COOPERATIVA HABITACIONAL ao pagamento das custas e dos honorários, que foram arbitrados em 20% do valor da condenação.
+Acórdão: negou provimento à Apelação interposta por BAALBEK COOPERATIVA HABITACIONAL, nos termos da seguinte ementa:
+"Apelação. Cooperativa Habitacional. Resolução contratual c/c restituição dos valores pagos. Alegação de inadimplemento absoluto da ré, suportada pela ausência de cronograma de implementação das obras e entrega das chaves do imóvel. Sentença de procedência do pedido. Inconformismo da ré. Empreendimento imobiliário promovido por Cooperativa. Relação submetida à proteção do Código de Defesa do Consumidor (S. 602 do STJ). Restituição integral dos valores pagos, em parcela única, afastada retenção para compensação pelas despesas administrativas e operacionais, tendo em vista comprovação de inadimplemento absoluto cometido pela ré. Sete anos transcorridos desde a adesão, sem perspectiva segura de contemplação ou entrega da unidade habitacional. Valores de seguro de vida, pagos à entidade seguradora, igualmente devem ser restituídos, tendo em vista que foi a entidade cooperativa-ré quem provocou o inadimplemento. Juros de mora sobre o valor a restituir devem ser contabilizados a partir da citação (art. 405 c/c 389, CC/02), e não do evento do trânsito em julgado, inaplicável ao caso entendimento de recurso repetitivo (STJ, REsp 1.740.911/DF, Rel. Min. Maria Isabel Gallotti). Atualização monetária pela Tabela Prática do TJSP mantida, apta a recomposição do valor monetário, rejeitado o pleito recursal de aplicação do INCC. Ausência de hipótese de sucumbência recíproca. Sentença mantida por seus próprios fundamentos (artigo 252, RIJTSP). Recurso desprovido." (e-STJ fl. 331)
+Embargos de Declaração: opostos, por BAALBEK COOPERATIVA HABITACIONAL, foram rejeitados. (e-STJ fl. 351/355)
+Recurso especial: alega violação dos arts. 121, 127, CC, Lei 5.764/71, bem como dissídio jurisprudencial, sustentando que: i) a aplicabilidade da legislação consumerista não exclui a das demais normas, principalmente a Lei 5.764/71, que institui o regime jurídico das sociedades cooperativas; e, ii) uma vez estabelecido o prazo de entrega da unidade imobiliária em forma de condição, não pode ser interpretado como ausência de prazo, quiçá, como atraso; e, iii) a contratação do seguro é relação jurídica entre terceiros, quais sejam, o recorrido e a Instituição Financeira, sendo a recorrente mera estipulante; e, iv) a Corte local não considerou que o seguro prestamista possui caráter opcional, não condicionado a qualquer atividade ou concessão pela recorrente, prestando-se exclusivamente à segurança financeira do recorrido, que, inclusive, esteve devidamente segurado e beneficiou-se da prestação de serviços durante todo o período em que esteve contribuindo ativamente para tanto.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da alegação genérica de ofensa à lei
+A agravante alega, genericamente, violação da Lei 5.764/71, deixando de indicar especificamente qual dispositivo legal foi violado pelo acórdão recorrido.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à restituição do seguro prestamista, a agravante não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 121, 127, CC, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, a ausência de prazo de entrega das unidades habitacionais, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353.947/SC, 3ª Turma, DJe 31/03/2014 e EDcl no Ag 1.162.355/MG, 4ª Turma, DJe 03/09/2013.
+Além disso, a falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1.579.618/PR, 3ª Turma, DJe 01/07/2016; AgRg no REsp 1.283.930/SC, 4ª Turma, DJe 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe 17/03/2014.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de restituição de valores.
+2. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+8. Agravo conhecido. Recurso especial não conhecido.
