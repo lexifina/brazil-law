@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PAULO ROGERIO MARCHI contra decisão que não admitiu o recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/3/2022.
+Concluso ao gabinete em: 14/11/2023.
+Ação: Cumprimento provisória de sentença, no âmbito da ação declaratória de nulidade de negócio jurídico, proposto pela Companhia Mutual de Seguros - Em Liquidação Extrajudicial.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, conforme ementa a seguir (fl. 448):
+Agravo de instrumento - Cumprimento provisório de sentença - Impugnação - Rejeição - Alegação de incompetência absoluta e relativa do Juízo de origem, de nulidade de atos processuais praticados pelo liquidante da massa, de ausência de requerimento para pagamento da condenação, necessidade de prestação de caução e a execução dos honorários de sucumbência deverá ser suspensa até solução da controvérsia entre os advogados da parte exequente - Irrazoabilidade - A excepcionalidade da possibilidade de veiculação da pretensão querela nullitatis insanabilis, incidentalmente, através da impugnação apresentada ao cumprimento de sentença, é prevista no artigo 525, §1º, inciso I do Código de Processo Civil e decorre apenas de falta ou nulidade da citação se, na fase de conhecimento, o processo correu à revelia - Preservação dos atos processuais (CPC, art. 64, §4º) - Precedente do STF - Liquidante da massa que fora destituído do cargo por indevida acumulação de cargos vedada constitucionalmente, sem que no ato de sua destituição tenha sido proferida qualquer ordem judicial de nulidade dos atos processuais praticados por ele - Pedido de condenação do valor exequendo regularizado no incidente com intimação da parte executada para pagamento - Prestação de caução - Desnecessidade - Ausência de atos de levantamento de valores ou expropriação de bens (CPC, art. 520, IV) - Hipótese em que o Juízo da execução não pode rever o valor da condenação que se encontra hígida no título executivo judicial - Precedente do STJ - Hipótese, ademais, em que eventual divergência entre os advogados da parte exequente quanto à participação de cada um deles no valor dos honorários de sucumbência é questão que não interfere na execução do título judicial - Decisão recorrida mantida - Recurso desprovido.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 11; 64, § 1º; 489, § 1º, VI; 520, § 1º; 525, § 1º, VI, e 1.022, todos do CPC. Além de negativa de prestação jurisdicional, sustenta, em síntese, a incompetência absoluta do juízo no qual se proferiu a sentença, na fase de conhecimento.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da incompetência absoluta dos Foros Regionais da Comarca da Capital, bem como a impossibilidade de declarar nulos os atos praticados pela liquidante destituída de suas funções (fls. 511-513), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC/2015, quando o Tribunal de origem examina "de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO, 3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+- Do reexame de fatos e provas
+Além disso, quanto às questões meritórias, o Tribunal de origem assentou (fls. 456-458):
+O Código de Processo Civil prevê, excepcionalmente, a possibilidade de veiculação da pretensão querela nullitatis insanabilis, incidentalmente, através da impugnação apresentada ao cumprimento de sentença, conforme disposição contida no seu artigo 525, §1º, inciso I. E a hipótese legal que autoriza o próprio Juízo a declarar a nulidade dos atos processuais praticados no processo se refere apenas para a arguição de falta ou nulidade da citação se, na fase de conhecimento, o processo correu à revelia.
+As questões suscitadas pelo agravante quanto à incompetência absoluta dos Foros Regionais da Comarca da Capital para julgarem ações cujo valor da causa supere 500 salários mínimos ou mesmo em razão da matéria, uma vez que o juízo competente seria o das Varas Empresariais e Conflitos de Arbitragem da Capital, não se enquadram na hipótese legal que permite ao próprio Juízo declarar a nulidade dos atos por ele praticados.
+Na sistemática do Código de Processo Civil em vigor, é cediço que os efeitos dos atos já proferidos/praticados devem ser preservados, conforme disposto no seu artigo 64, §4º.
+ .. .
+Nesse contexto, então, o D. Juízo de origem, por onde tem curso o cumprimento de sentença, não tem competência para anular os atos processuais praticados no processo de conhecimento, salvo a exceção prevista no artigo 525, §1º, inciso I, do Código de Processo Civil.
+Em relação à pretendida nulidade do processo de conhecimento em razão dos atos praticados por liquidante da massa destituído de sua função, por ordem judicial, o reclamo também não prospera.
+Colhe-se da decisão proferida pelo D.
+Juízo da 25ª Vara Federal de São Paulo, que "a destituição da liquidante atualmente nomeada para condução da liquidação extrajudicial da MUTUAL (servidora ativa da SUSEP), é medida a ser adotada em virtude da acumulação indevida de cargos/funções" (fls.
+105) e, ainda, "a SUSEP deverá providenciar a nomeação de liquidante que não incida na vedação constitucional, retomando-se o curso da liquidação extrajudicial" (fls. 106).
+Analisada detidamente aquela decisão judicial e posterior sentença proferida pelo D. Juízo da 25ª Vara Federal de São Paulo (proc. nº 5029932-29.2018.4.03.6100), não há qualquer ordem que imponha a nulidade dos atos processuais praticados pela liquidante destituída de suas funções; até porque a destituição se dera tão somente pela inconstitucionalidade da acumulação de cargos/funções (fls. 80/107 e 113/128).
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIA DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cumprimento provisória de sentença
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
