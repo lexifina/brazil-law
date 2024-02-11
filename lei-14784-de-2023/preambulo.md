@@ -1,0 +1,1 @@
+Faço saber que o Congresso Nacional rejeitou o veto total aposto ao Projeto de Lei nº 334, de 2023, e eu, Rodrigo Pacheco, Presidente do Senado Federal, nos termos do § 7º do art. 66 da Constituição Federal, promulgo a seguinte Lei:

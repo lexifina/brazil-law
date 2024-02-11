@@ -1,0 +1,1 @@
+Prorroga até 31 de dezembro de 2027 os prazos de que tratam os arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011, e o caput do § 21 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, e dá outras providências.
