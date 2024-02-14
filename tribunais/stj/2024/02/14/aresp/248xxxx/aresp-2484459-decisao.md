@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por RASSINI NHK AUTOPEÇAS LTDA., em face da decisão que, em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo extremo (art. 105, III, alínea "a", CF) desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 484, e-STJ):
+Apelação Cível. Interdito proibitório. Servidão de passagem estabelecida em favor da parte autora (posto de combustível), destinada à saída, para a rodovia, dos veículos que abastecem no local. Alegação deque a servidão vinha sendo recorrentemente obstruída por caminhões e veículos direcionados à empresa ré. Conjunto probatório produzido pela parte autora que comprova o esbulho possessório ocorrido ao tempo do ajuizamento da demanda, em 2013, não tendo sido apurado na data da visita técnica realizada pelo perito judicial, em 2018. Culpa concorrente corretamente reconhecida. Confirmação da sentença que conferiu a proteção possessória. Desprovimento do recurso.
+Nas razões do recurso especial (fls. 512/521, e-STJ), a agravante aponta violação aos artigos 560, 561 e 567 do CPC. Sustenta, em suma, não ter sido comprovada a prática de turbação aos direitos possessórios de empresa vizinha, assim como a inadequação da imposição de multa perpétua.
+Sem contrarrazões (fl. 532 e-STJ).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o reclamo (fls. 534/536, e-STJ), dando ensejo à interposição do presente agravo (fls. 546/557, e-STJ), por meio do qual a agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Sem contraminuta (fl. 561, e-STJ).
+É o relatório
+Decido
+A pretensão não comporta acolhimento.
+1. As razões da agravante baseiam-se no pressuposto de que não houve demonstração da prática de turbação, requisito indispensável para a concessão da tutela de manutenção de posse.
+Contudo, o Tribunal a quo reconheceu a ocorrência de atos atentatórios ao direito de servidão de passagem da recorrida, chegando a esse entendimento por meio de análise pormenorizada do acervo fático-probatório, in verbis:
+A análise do conjunto probatório dos autos permite verificar que a parte autora logrou êxito em provar os fatos constitutivos do seu direito através das mídias anexadas à inicial. A prova pericial técnica corroborou as alegações acerca da existência da servidão de passagem, da correta demarcação de seus limites e do esbulho possessório anteriormente praticado pela empresa ré, o qual deu ensejo à propositura da presente demanda (fl. 490, e-STJ).
+Destarte, não é possível reformar a decisão sem reanalisar fatos e provas, circunstância que leva inevitavelmente à aplicação da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO
+4. No caso, para acolher a tese recursal no sentido de se afastar o esbulho reconhecido pelo Tribunal de origem, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai a Súmula 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão de fls. 869-871, e-STJ. Agravo em recurso especial conhecido para, de plano, não conhecer do apelo extremo.
+(AgInt no AREsp n. 2.281.877/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERDITO PROIBITÓRIO. DOMÍNIO E POSSE DEVIDAMENTE COMPROVADOS. TURBAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO
+O Tribunal de origem ressaltou que os documentos que instruíram a inicial, bem como a própria instrução processual constante nos autos demonstram a efetiva posse no imóvel pelos recorridos e o justo receio de serem molestados, estando, portanto, reconhecidos os pressupostos para o deferimento do pedido formulado na ação de interdito proibitório. Alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.(AgInt nos EDcl no AREsp n. 1.777.007/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/8/2021, DJe de 9/9/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE MANUTENÇÃO DE POSSE. IMPROCEDÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE. TURBAÇÃO NÃO CARACTERIZADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO. A reforma do acórdão recorrido, tal como colocada a questão nas razões recursais, no sentido de que as provas dos autos demonstrariam a posse dos autores, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, a teor do disposto na Súmula 7 do STJ. 4. "A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp 970.049/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/05/2017, DJe de 09/05/2017).5. Agravo interno não provido. (AgInt no AREsp n. 1.388.252/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/5/2019, DJe de 24/5/2019.)
+Inafastável, portanto, o óbice da Súmula 7 do STJ.
+2. Por fim, constata-se da leitura do acórdão recorrido, que o Tribunal de origem não decidiu acerca do art. 562 do CPC/15, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Saliente-se, ainda, que a agravante não opôs embargos declaratórios contra a decisão impugnada, a fim de atender ao aludido requisito de admissibilidade ou à pretensa alegação de negativa de prestação jurisdicional.
+Incide, portanto, o óbice disposto na Súmula 282/STF.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por fim, havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se
+EMENTA
