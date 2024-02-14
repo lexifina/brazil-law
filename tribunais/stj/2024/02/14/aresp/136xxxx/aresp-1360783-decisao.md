@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSO CIVIL. CIVIL. SFH. EXECUÇÃO EXTRAJUDICIAL. IMÓVEL ADJUDICADO. ALEGAÇÃO DE NULIDADE. DECADÊNCIA. OCORRÊNCIA. ARTIGO 269, IV, DO CPC. ARTIGOS 179 E 206, § 3º, INCISO IV, DO CC/02. APELAÇÃO NÃO PROVIDA.
+1. Apelação interposta por particular contra a sentença que, em ação ordinária ajuizada por particular objetivando a invalidação de execução extrajudicial proposta pela Caixa Econômica Federal, extinguiu o feito com resolução de mérito, em face do reconhecimento da decadência da pretensão autoral.
+2. O Código Civil de 2002, em seu Capítulo V (Da Invalidade do Negócio Jurídico), definiu em seu art. 179 que o prazo decadencial é de dois anos ("Quando a lei dispuser que determinado ato é anulável, sem estabelecer prazo para pleitear-se a anulação, será este de dois anos, a contar da data da conclusão do ato").
+3. O termo inicial para a contagem do prazo decadencial é a data de registro da carta de adjudicação/arrematação que encerra o procedimento e lhe dá publicidade erga omnes
+4. No caso, considerando que o registro da carta de arrematação ocorreu em 30/08/2012, e o ajuizamento da ação só ocorreu em 22/01/2015, de toda forma restou fulminada pela decadência a pretensão da parte autora de discutir a validade da execução extrajudicial, não merecendo reproche a sentença. Precedente: TRF5, AC 548137, DJE 09/11/2012, Relator Desembargador Federal Élio Wanderley de Siqueira Filho).
+5. Prejudicada a análise da existência de litisconsórcio passivo necessário, em razão do reconhecimento da decadência da pretensão autoral.
+6. Apelação não provida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, a parte recorrente alega violação dos artigos 166, V, e 169 do Código Civil, além de divergência jurisprudencial, afirmando a nulidade do procedimento extrajudicial executivo realizado pelas recorridas/rés, sob o fundamento de ausência de notificação inicial pessoal para prosseguimento da expropriação do bem imóvel objeto da lide, da ausência do nome da s egunda recorrente/autora no primeiro edital convocatório para pagamento da mora e da utilização de jornal de pequena circulação na Cidade do Recife/PE, desrespeitando o dever de publicidade dos atos expropriatórios.
+Não merece reforma a decisão agravada.
+De início, anoto que o conteúdo normativo dos artigos de lei indicados como violados não foi debatido no acórdão recorrido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, embora opostos embargos de declaração para esse fim; tampouco houve, nas razões de recurso especial, alegação de ofensa ao artigo 1.022 do Código de Processo Civil. É manifesta, pois, a incidência da Súmula 282/STF.
+Depois, verifico que o Tribunal de origem confirmou a sentença que pronunciara a decadência, por meio dos seguintes fundamentos (fl. 740/e-STJ):
+O termo inicial para a contagem do prazo decadencial é a data de registro da carta de adjudicação/arrematação que encerra o procedimento e lhe dá publicidade , que no caso em erga omnes exame foi efetivado em 30/08/2012.
+Entretanto, a presente ação foi ajuizada em 22/01/2015, quando o direito de se questionar a validade do processo de execução extrajudicial do contrato em questão,o qual culminou com a adjudicação registrada, já se encontrava fulminado pela decadência, nos termos do Código Civil vigente.
+Desse modo, na hipótese dos autos, considerando que o registro da carta de arrematação ocorreu em 2012, e o ajuizamento da ação, como já ressaltado, só ocorreu em 2015, de toda forma restou fulminada pela decadência a pretensão da parte autora de discutir a validade da execução extrajudicial, não merecendo reproche a sentença.
+(..)
+Ademais, ressalte-se que, consoante constatado pela sentença, os demandantes firmaram o contrato de financiamento do imóvel em tela em 25/05/1988 e, em razão da inadimplência, foram notificados em 14/12/2007 da promoção da execução extrajudicial da hipoteca que onera o imóvel (IDs 4058300.828220 e 4058300.828222), ou seja, já eram conhecedores da execução extrajudicial muito antes inclusive da arrematação do bem pela EMGEA.
+Ocorre que os ora agravantes não impugnaram especificamente o único fundamento do acórdão recorrido - a decadência -, o qual permanece hígido. Ademais, apenas o reexame de matéria de fato permitiria rever as conclusões do acórdão recorrido quanto à ciência prévia da execução extrajudicial. Incidência das Súmulas 283/STF e 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
