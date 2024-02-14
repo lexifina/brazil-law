@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo juízo da 2ª Vara de Execução Criminal Regional de Caxias do Sul/RS, tendo por suscitado o Juízo da Vara Criminal da Comarca de Campos Novos/SC.
+Na origem, o juízo suscitado declinou de sua competência executiva, aduzindo, em suma, que "A competência para processar e deliberar em processos de execução criminal é da unidade judiciária da Comarca onde se encontra o estabelecimento de resgate da pena (regimes fechado ou semiaberto) ou o domicílio do executado (regime aberto ou sanções alternativas), consoante interpretação dos arts. 65 e 66, ambos da Lei n. 7.210/1984, e da Orientação CGJ n. 55 de 2015." (e-STJ Fl.107)
+Afirma o suscitante que "(..) o fato de o apenado registrar endereço residencial em Município sob a jurisdição desta VEC, por si só, não implica em deslocamento de competência para o acompanhamento da execução, preceituando o art. 65 da LEP que o Juízo competente para a execução da reprimenda será o da sentença (..)". (e-STJ Fl.157)
+O Ministério Público Federal manifesta-se pelo acolhimento das razões invocadas pelo suscitante. (e-STJ Fl. 172/173)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais estaduais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+É pacífica a jurisprudência desta corte no sentido de que "A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011)."
+Cite-se, no mesmo sentido, em reforço:
+RECURSO EM MANDADO DE SEGURANÇA. APENADO COM RESIDÊNCIA EM COMARCA DIVERSA. NÃO MODIFICAÇÃO DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL.
+IMPLANTAÇÃO DO SISTEMA ELETRÔNICO DE EXECUÇÃO UNIFICADO (SEEU). LEI 7.210/84. COMPETÊNCIA PARA A EXECUÇÃO DA PENA. AGRAVO IMPROVIDO.
+1. O fato de o apenado residir em outra comarca, ou de mudar voluntariamente de domicílio, não importa modificação da competência do Juízo da Execução, podendo ser deprecado ao Juízo da sua residência tão somente a fiscalização do cumprimento da execução da pena. (..) (AgRg no RMS n. 66.533/PE, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 24/8/2021, DJe de 30/8/2021.)
+De fato, observado o teor do art. 65 da Lei de Execuções Penais, "A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença", há desacerto na decisão que declina competência única e exclusivamente em razão da alteração do domicílio do apenado.
+Ante o exposto, CONHEÇO do conflito para DECLARAR a competência do Juízo da Vara Criminal da Comarca de Campos Novos/SC , o Suscitado, para processar e decidir a Execução Penal n. 8000003-59.2022.8.24.0014.
+Publique-se. Intimem-se.
+EMENTA
