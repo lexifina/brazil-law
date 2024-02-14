@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 115):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. TÍTULO EXECUTIVO FORMADO NA AÇÃO COLETIVA Nº 0006306- 43.2016.4.01.3400/DF. PAGAMENTO DE PAE - PARCELA AUTÔNOMA DE EQUIVALÊNCIA. JUIZ CLASSISTA. LEI Nº 6.903/81. ILEGITIMIDADE ATIVA PARA O CUMPRIMENTO DA SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA.
+1. O fato de um título judicial formado em ação coletiva abranger toda uma categoria não significa, por si só, que todos os integrantes daquela categoria possuam legitimidade para promover a execução do julgado. Para exercer o direito reconhecido no referido título, é preciso que o substituído preencha os requisitos necessários ao seu enquadramento como beneficiário da decisão judicial em questão.
+2. Na hipótese em análise, embora o nome do agravado conste na lista anexada à ação coletiva, não se trata de substituído que tenha se aposentado ou implementado as condições para a aposentadoria na vigência da Lei nº 6.903/81.
+3. Reformada a decisão agravada, reconhecendo-se a ilegitimidade do exequente para o cumprimento de sentença com base no título executivo formado na ação coletiva nº 0006306-43.2016.4.01.3400.
+4. Fixados honorários de sucumbência a favor da parte agravante.
+Embargos de declaração rejeitados.
+No recurso especial, a parte recorrente alega violação dos artigos 489 e 1.022, II, parágrafo único, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito de questão relevante para a controvérsia, qual seja, a preclusão de matéria da ilegitimidade ativa do do Recorrente suscitada depois de decorrido o prazo legal.
+Quanto às questões de fundo, sustenta ofensa aos artigos: a) 535 do CPC/2015, defendendo que a União se manifestou alegando apenas excesso de execução no prazo legal dos trinta dias, e após o decurso desse prazo alegou ilegitimidade ativa - questão essa, que deve ser considerada preclusa; b) 2º A da Lei 9.494/1997, sob o argumento de que a lista dos associados apresentada na petição inicial, para comprovar a ilegitimidade da parte, se deu em sede de cumprimento de sentença, ou seja, quando o ato já havia transito em julgado no processo de conhecimento. Afirma que a decisão recorrida deixou de aplicar a tese jurídica adotada pelo STJ nos Temas 481, 723 e 724 de repercussão geral, segundo os quais os efeitos preclusivos da coisa julgada formada em ação coletiva são intransponíveis, sendo descabida a alteração de seu alcance em sede de liquidação/execução individual.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 355-356
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No mais, o STJ entende que, suscitada em exceção de pré-executividade matéria de ordem pública não apreciada e não decidida anteriormente, não há que se falar em preclusão. A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. SEGUNDA EXCEÇÃO DE PRÉ EXECUTIVIDADE. MATÉRIA NÃO APRECIADA ANTERIORMENTE. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. A matéria alegada em exceção de pré-excutividade é, em tese, de ordem pública, não se sujeitando à preclusão, de modo que, não tendo sido apreciada e decidida anteriormente, plenamente possível a apresentação de nova exceção de pré-executividade com objeto diverso da primeira.
+2. Agravo interno não provido. (AgInt no AREsp n. 2.248.572/SP, rel.Ministro Sérgio Kukina, Primeira Turma, DJe de 11/5/2023).
+AGRAVO INTERNO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO DA BASE DE CÁLCULO NO TÍTULO EXECUTIVO. INCIDÊNCIA SOBRE O VALOR DA CAUSA. CRITÉRIO DE EQUIDADE. ART. 20, §§ 3º E 4º, DO CPC/1973. DEVIDA E TEMPESTIVA ARGUIÇÃO PELA EMBARGANTE. INEXIGIBILIDADE E EXCESSO DE EXECUÇÃO. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO. INEXISTÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. RATIFICAÇÃO DE VOTO. RATIFICAÇÃO DA DECISÃO MONOCRÁTICA DO MINISTRO FRANCISCO FALCÃO
+ ..
+15. Conforme bem apontado pelo em. Ministro Mauro Campbell Marques em seu Voto-Vista, "a jurisprudência do STJ não admite a realização de inovação recursal, salvo quando a questão nova se tratar de fato novo ou matéria de ordem pública". Pois exatamente por essa última razão (matéria de ordem pública), mesmo que no caso não tivesse havido, nos Embargos à Execução, alegação da Fazenda Nacional sobre o vício na base de cálculo do título executivo, seria possível que a Corte Regional se pronunciasse sobre o
+tema de ofício ou através da arguição em Apelação (exceção de pré-executividade). Não houve, portanto, preclusão e, muito menos, inovação recursal processualmente condenável.
+ ..
+19. Por isso, com respeitosas vênias dos que pensam de modo diverso, RATIFICO meu Voto no sentido de não prover o Agravo Interno, mantendo a decisão proferida pelo eminente Ministro Francisco Falcão e por mim ratificada neste ato. (AgInt nos EDcl no AREsp n. 1.143.975/RJ, rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022.)
+O aresto hostilizado não diverge da orientação aludida. Assim, aplica-se, na hipótese, a Súmula 83 do STJ.
+Quanto à ilegitimidade da parte exequente, o aresto hostilizado consignou o seguinte (fl. 124):
+No caso concreto, embora o nome do agravado conste na lista anexada à ação coletiva, não se trata de substituído que tenha se aposentado ou implementado as condições para a aposentadoria na vigência da Lei nº 6.903/81.
+Assim, deve ser reformada a decisão agravada, reconhecendo-se a ilegitimidade do exequente para o cumprimento de sentença com base no título executivo formado na ação coletiva nº 0006306-43.2016.4.01.3400.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015)
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO INDIVIDIUAL DE SENTENÇA COLETIVA. LEGITIMIDADE. JUÍZES CLASSISTAS. PRECLUSÃO. ENTENDIMENTO DA CORTE DE ORIGEM NÃO DIVERGE DO ENTENDIMENTO DO STJ. SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, NEGADO PROVIMENTO.
