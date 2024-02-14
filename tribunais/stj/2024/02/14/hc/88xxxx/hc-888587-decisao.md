@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de CLÁUDIO DE OLIVEIRA SEBASTIÃO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC nº 1.0000.23.338196-1/000).
+O paciente foi condenado à pena de 1 ano, 4 meses e 15 dias de reclusão em regime semiaberto, mais pagamento de 12 dias-multa, por infração ao art. 155, caput, do Código Penal.
+Inconformada, a defesa impetrou habeas corpus na Corte Estadual, que concedeu parcialmente a ordem, a fim de se expedir, imediatamente, guia de execução provisória para o cumprimento da pena no regime intermediário fixado, nos termos da seguinte ementa (e-STJ fl. 32):
+EMENTA: HABEAS CORPUS. FURTO. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. DECISÃO FUNDAMENTADA NOS REQUISITOS DO ARTIGO 312 DO CPP. REGIME INICIAL DE CUMPRIMENTO DE PENA. SEMIABERTO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO PROVISÓRIA. ORDEM CONCEDIDA EM PARTE.
+- A negativa do direito de recorrer em liberdade deve ser fundamentada com base em argumentos concretos que justifiquem a necessidade da segregação cautelar. Inteligência do parágrafo único do artigo 387 do CPP, acrescentado pela Lei nº 11.719/2008.
+- Verificando-se a presença de fundamentação idônea no decreto condenatório, sobre a necessidade de manutenção da prisão cautelar, impõe-se a denegação da ordem, estando ausente qualquer constrangimento ilegal.
+- Não se pode manter em regime fechado ou acautelado preventivamente o réu que tem direito a iniciar a pena em regime semiaberto.
+- Ordem concedida em parte.
+A defesa alega, em síntese: a) a guia provisória de execução no regime semiaberto ainda não foi expedida; b) "o paciente está preso preventivamente há exatos 5 meses e 21 dias, de uma pena de 1 ano, 4 meses e 15 dias de reclusão, a ser cumprida em regime semiaberto, e que já transitou em julgado para a acusação, pelo cometimento de crime praticado sem emprego de violência ou grave ameaça à pessoa" (e-STJ fl. 4); e c) "incompatibilidade da manutenção prisão preventiva com as regras do regime semiaberto" (e-STJ fl. 5).
+Requer, liminar e definitivamente, o deferimento da ordem para colocar o paciente em liberdade.
+É o relatório.
+Decido.
+De início, cumpre sublinhar que os pressupostos e os requisitos autorizadores da prisão preventiva encontram-se presentes.
+A autoria e a materialidade delitivas estão devidamente comprovadas nos autos, bem como o requisito atinente à garantia da ordem pública, na sua perspectiva concreta, nos termos do art. 312 do Código de Processo Penal, ante a gravidade da conduta, bem como do risco de reiteração delitiva, haja vista que o paciente é multirreincidente.
+A propósito:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. CONTUMÁCIA DELITIVA. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA.
+ ..
+2. No caso, a prisão preventiva está fundamentada na contumácia delitiva do recorrente, que possui condenação definitiva pela prática do mesmo crime. Ademais, segundo o decreto, no momento de sua prisão, o acusado estava em cumprimento de pena. É inequívoco, dessa forma, o risco de que, solto, perpetre novas condutas ilícitas. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.
+3. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição ou manutenção da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+ ..
+5. Recurso em habeas corpus desprovido.
+(RHC n. 181.735/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023).
+Por outro lado, nota-se que a sentença condenatória, após avaliar todas as circunstâncias do evento criminoso e as condições pessoais do paciente, estabeleceu o regime semiaberto para o início do cumprimento da pena.
+A orientação deste Superior Tribunal de Justiça é de que "não há incompatibilidade entre o regime intermediário de cumprimento de pena e a prisão cautelar, havendo necessidade, apenas, da compatibilização da custódia preventiva com as regras próprias do regime" (AgRg no HC n. 787.182/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. TENTATIVA. CONDENAÇÃO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. ADEQUAÇÃO DA PRISÃO PREVENTIVA AO REGIME PRISIONAL SEMIABERTO. CONCESSÃO DE OFÍCIO. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - A jurisprudência é dominante neste Superior Tribunal de Justiça no sentido da possibilidade de compatibilização entre a segregação cautelar e o regime menos gravoso estabelecido na sentença, desde que adequadas as condições da prisão provisória às regras do regime imposto, daí a concessão da ordem, de ofício, determinando que a prisão preventiva do paciente fosse compatibilizada com o regime semiaberto, até o trânsito em julgado da ação penal originária.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 654520/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 20/04/2021, DJe 05/05/2021).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ART. 16, § 1º, INCISO IV, DA LEI N. 10.826/2003. SENTENÇA QUE CONDENOU O AGRAVANTE EM REGIME SEMIABERTO, MANTENDO A PRISÃO CAUTELAR. DETERMINAÇÃO PELA INSTÂNCIA DE ORIGEM DE COMPATIBILIZAÇÃO ENTRE A CUSTÓDIA CAUTELAR E O REGIME FIXADO NA SENTENÇA. AUSÊNCIA DE ILEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Esta Corte possui entendimento pacificado no sentido da compatibilidade entre a prisão preventiva e o regime semiaberto fixado na sentença condenatória, bastando a adequação da constrição cautelar ao modo de execução estabelecido na sentença. Precedentes.
+2. No caso, não havendo ilegalidade em relação à determinação da manutenção da segregação cautelar, fundamentada na garantia da ordem pública pelo fundado receio de reiteração delitiva do agravante, não há que falar em constrangimento ilegal decorrente da determinação de adequação da prisão preventiva ao regime semiaberto imposto na sentença.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 704.574/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022).
+Portanto, em razão de ter sido determinado o regime semiaberto para o início do cumprimento da pena, o paciente deve aguardar o julgamento de eventual recurso em tal regime, compatibilizando-se a prisão cautelar com o modo de execução fixado, como bem realizado pelo Juízo sentenciante, que, inclusive, determinou a expedição de guia de execução provisória em desfavor do paciente.
+No habeas corpus impetrado na origem, a Corte local concedeu parcialmente a ordem, a fim de se expedir, imediatamente, guia de execução provisória para o cumprimento da pena no regime intermediário fixado, nos seguintes termos (e-STJ fls. 33-38, grifos acrescidos):
+Segundo consta dos autos, foi proferida sentença condenatória em desfavor do paciente, ocasião em foi condenado nas iras do art. 155, caput, do Código Penal, à pena de 01 (um) ano, 04 (quatro) meses e 15 (quinze) dias de reclusão e ao pagamento de 12 (doze) dias-multa, em regime inicial semiaberto, tendo lhe sido negado o direito de recorrer em liberdade, entendendo o douto Sentenciante que:
+"A superveniência do édito condenatório, fundado em cognição exauriente da materialidade e autoria delitivas, cristaliza o requisito do fumus comissi delicti. De igual forma, o periculum libertatis continua presente, pois inalterado o contexto fático e, portanto, ainda atuais os motivos que ensejaram a decretação da prisão preventiva.
+Assim, a segregação cautelar se legitima como a única forma de impedir que, em liberdade, volte a delinquir e a perturbar a ordem pública, razão por que lhe nego o direito de recorrer em liberdade e determino a expedição de guia provisória em seu desfavor, para unificação das suas penas e harmonização do seu regime prisional." (sentença anexada ao documento do processo eletrônico de ordem 25).
+De acordo com o parágrafo único do artigo 387 do CPP, acrescentado pela Lei nº 11.719/2008, o juiz deve decidir fundamentadamente sobre a manutenção da prisão do réu ao proferir a sentença condenatória, tendo como base os requisitos do artigo 312 do CPP.
+Registre-se que o simples fato de o réu ter permanecido preso no decorrer da instrução criminal, realmente, não é suficiente para mantê-lo preso durante a tramitação do recurso de apelação. Para tanto, é necessário que se apresentem argumentos concretos que justifiquem efetivamente a segregação cautelar.
+A Súmula Criminal nº 07 deste TJMG, que dispõe que "réu que se encontrava preso ao tempo da sentença condenatória deve, de regra, permanecer preso, salvo se a liberdade provisória (art. 594, CPP) for devidamente justificada", restou superada pela nova redação do art. 387 do CPP, de forma que o simples fato de o réu ter permanecido preso durante a instrução criminal não afasta a necessidade de se justificar a negativado direito de recorrer em liberdade.
+In casu, verifica-se que o douto Juiz a quo, na r. sentença condenatória, fundamentou corretamente a manutenção da prisão no periculum libertatis.
+O i. Sentenciante entendeu que a manutenção da prisão cautelar ainda se faz necessária para resguardar a ordem pública e evitar a reiteração delitiva, tendo em vista que o paciente é multirreincidente (docs. eletrônico de ordem 05), bem como as circunstâncias de cometimento do delito.
+Realmente, verifica-se que o paciente ostenta diversas condenações definitivas por delitos como furto, tráfico de drogas e porte de arma de fogo.
+A moderna posição do direito processual penal traz como pressuposto para a decretação e manutenção da prisão cautelar o periculum libertatis, ou seja, é necessário que haja um perigo na liberdade do imputado a justificar sua prisão.
+A garantia da ordem pública está ligada à real e intensa perspectiva de existência de novos delitos. Havendo evidente perigo social decorrente da demora em se aguardar o trânsito em julgado da decisão condenatória, pode ser decretada a prisão preventiva. Situação que pode ser verificada nos autos.
+ ..
+Assim, a manutenção da prisão do paciente se mostrou devidamente fundamentada na r. sentença condenatória, o que leva à necessidade de manutenção da prisão para garantia da ordem pública, já que restou demonstrado que sua soltura representa grave risco à ordem pública, dada a sua propensão à prática de ilícitos penais.
+Se no juízo provisório a cautela se impôs, com mais justificativa se sustenta diante de decisão condenatória.
+Importa consignar que o regime semiaberto não é incompatível com a manutenção da prisão preventiva, devendo apenas ser compatibilizada a custódia cautelar com o modo prisional fixado.
+ ..
+No caso dos autos foi expressamente determinado pelo juízo a quo na sentença condenatória "a expedição de guia provisória em seu desfavor, para unificação das suas penas e harmonização do seu regime prisional".
+No entanto, corroborando com a apreciação da Procuradoria Geral de Justiça, de fato, não existem notícias da expedição da guia de execução provisória para adequação do regime semiaberto, sendo que o paciente não pode ficar submetido à condição mais gravosa do que aquela a que foi condenado, vez que tal situação estaria revestida de nítida desproporcionalidade.
+Com efeito, a reprimenda foi concretizada em 01 (um) ano, 04 (quatro) meses e 15 (quinze) dias de reclusão em regime semiaberto, sendo que não pode o paciente aguardar preso preventivamente a formação da guia de execução provisória.
+Portanto, com estas considerações, por entender inexistir constrangimento ilegal passível de justificar a concessão do remédio heroico, CONCEDO PARCIALMENTE A ORDEM, a fim de que seja imediatamente expedida a guia de execução provisória da pena do paciente, já ordenada em sentença, caso ainda não tenha sido feita, para que seja a ele facultado o cumprimento da pena no regime a que foi condenado, in casu, o semiaberto.
+Considerando a pena estabelecida pelo Juízo de 1º Grau (1 ano, 4 meses e 15 dias de reclusão em regime semiaberto), não pode ser mantido o recolhimento cautelar do paciente até a expedição da guia de execução provisória em seu desfavor.
+Ante o exposto, concedo liminarmente a ordem de habeas corpus para que o paciente seja colocado em liberdade, se por outro motivo não estiver preso, até que seja expedida de guia de execução provisória em seu desfavor.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem e ao respectivo Juízo de primeiro grau.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
