@@ -1,0 +1,25 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 89 (e-STJ).
+Intimado, o Ministério Público Federal apresentou parecer pela concessão da ordem (e-STJ fls. 140-142).
+É o relatório.
+Decido.
+Intimada para se manifestar, a defesa noticia que remanesce o interesse no julgamento desta impetração, destacando que os Pacientes sofrem constrangimento ilegal por cerceamento de defesa, uma vez que o Magistrado de primeira instância não permitiu a apresentação das razões de apelação em segunda instância e e o Tribunal de Justiça confirmou mencionado entendimento (e-STJ fls. 150-151).
+O entendimento dessa col. Corte é no sentido de que, diante do disposto no art. 600, §4º, do Código de Processo Penal, é direito do apelante a apresentação das razões recursais perante o Tribunal ad quem.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. APELAÇÃO. APRESENTAÇÃO DE RAZÕES EM SEGUNDO GRAU. PREVISÃO LEGAL. ART. 600, § 4º, DO CPP. INOBSERVÂNCIA. CERCEAMENTO DE DEFESA. OCORRÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância. No caso, observa-se flagrante ilegalidade a permitir a superação do referido óbice sumular.
+2. O § 4º do art. 600 do Código de Processo Penal prevê, expressamente, o direito do apelante apresentar as razões de apelação perante o Tribunal ad quem, caso requerido pela parte.
+3. Havendo previsão legal assegurando à defesa a hipótese excepcional de apresentar as razões do apelo na instância superior, a sua inobservância implica cerceamento à ampla defesa e ao contraditório, não colidindo, a priori, com a duração razoável do processo (CF, art. 5º, LXXXVIII), o que deverá ser equacionado no caso concreto.
+4. Writ não conhecido. Ordem concedida de ofício.
+(HC n. 468.520/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2019, DJe de 27/5/2019 - grifos acrescidos).
+No caso, o Magistrado de primeira instância, ao receber a interposição do recurso de apelação, proferiu a seguinte decisão:
+ .. . Da petição de ID 100021131percebe-se que o réu solicitou o envio dos autos à instância superior para apenas lá ofertar as razões, todavia, vislumbro que tal medida prevista no art. 600, § 4º do CPP, com o processo judicial eletrônico, acabou por perder valia, de modo que tal serviria para facilitar o acesso aos autos físicos pelo advogado constituído. Dessa forma, considerando o princípio da instrumentalidade das formas e a celeridade processual por tratar-se de réu preso, RECEBO O RECURSO e determino a intimação do advogado do réu para ofertar as razões recursais, no prazo de 08 (oito) dias  ..  (e-STJ fl. 18).
+O Tribunal de Justiça, no acórdão que julgou a apelação, apreciou a matéria como preliminar e confirmou a decisão de primeira instância com a seguinte argumentação:
+ .. . Com efeito, a primeira ilegalidade soerguida na origem, pautada na necessidade de envio do recurso no juízo não caracteriza qualquer prejuízo, e sim a diligência do julgador em tentar dar ad quem, celeridade processual a causa, ainda que tenha incorrido em equívoco quando fundamentou sua decisão sobre o fato de se tratar de "réu preso"  ..  (e-STJ fl. 50)
+A partir do que se extrai dos trechos acima, entendo que houve efetivo cerceamento de defesa, pois o Código Processual Penal prevê expressamente a possibilidade de apresentação das razões recursais da apelação diretamente no juízo ad quem, o que não foi possibilitado pelo Magistrado de primeira instância e pelo Tribunal de Justiça.
+Em que pese o argumento de que o mencionado dispositivo legal "perdeu valia", fato é que ele ainda está vigente e não cabe ao Poder Judiciário realizar esse tipo de juízo. A não aplicação, em tese, de um dispositivo legal expresso somente é possível em caso de controle difuso de constitucionalidade, o que não ocorreu no presente caso.
+De outro lado, o caso em questão não apresenta peculiaridades capazes de indicar que a apresentação das razões em segundo grau ofenderiam a celeridade processual. Ao contrário, os acusados estão soltos e são poucos réus.
+Por fim, no que diz respeito ao prejuízo, na medida em que se tem um dispositivo legal que garante o exercício da ampla defesa, como por exemplo o prévio conhecimento da Câmara preventa para julgar o recurso de apelação, a sua não aplicação já implica em prejuízo suficiente para reco nhecer a nulidade.
+Ante o exposto, concedo a ordem de habeas corpus para declarar a nulidade do processo desde o recebimento da interposição de apelação, determinando que a Defesa, caso queira, apresente as razões somente no Tribunal ad quem.
+Publique-se . Intimem-se.
+EMENTA
