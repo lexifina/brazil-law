@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de GABRIEL ALVES RANGEL, autuado em flagrante delito no dia 17/11/2023, pela prática de tráfico de drogas, ante a apreensão de 1 porção contendo aproximadamente 18 g de maconha e 10 microtubos contendo 7,1 g de cocaína, mais 8 pinos com 5,7 g de cocaína.
+Ataca-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO no HC n. 2314103-02.2023.8.26.0000, que manteve a conversão da prisão em flagrante em preventiva relativa ao Processo n. 1500748-36.2023.8.26.0556, da Vara Criminal da comarca de Presidente Prudente/SP.
+Alega-se, em síntese, que, no presente caso, o decreto prisional do paciente não tem fundamentação idônea, tendo em vista estar a prisão cautelar estar lastreada na gravidade in abstrato do delito e na quantidade de drogas, que, frisamos, não é expressiva (fls. 14/15), nada demonstrando que em liberdade o Paciente se furtará a aplicação da Lei Penal (fl. 7); que o paciente possui residência fixa na comarca de Ibitinga/SP, bem como vínculos familiar e empregatício, onde poderá ser intimado para todos os atos do processo (fl. 14); que foi apreendido como sendo do paciente apenas a pequena quantidade de 18 g de maconha em uma porção e mais e mais 1,4 g de cocaína em 2 microtubos tipo eppendorf g de cocaína, somado ao fato de que o Paciente não ofereceu resistência, bem como não foram apreendidos demais petrechos utilizáveis na prática delituosa contumaz tampouco dinheiro consigo (fl. 14).
+Requer-se a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto imediatamente em liberdade.
+O pedido liminar foi indeferido (fls. 149/151).
+Depois de prestadas informações (fls. 158/161), opinou o Ministério Público Federal pela denegação da ordem (fls. 163/166).
+É o relatório.
+Sobreveio, na data de hoje, a prolação de decisão revogando a prisão preventiva do paciente, com aplicação de medidas cautelares alternativas. Eis o que determinou a Magistrada de piso:
+ ..  Expeça-se alvará de soltura clausulado. Analisando detidamente os autos, verifico que há necessidade de aplicação das seguintes medidas cautelares diversas da prisão ao acusado, além da obrigatoriedade de comparecimento ao todos os atos do processo: a) proibição de se ausentar da Comarca em que reside por mais de 07 (sete) dias, sem prévia autorização judicial, exceto por motivo de trabalho e/ou estudo; e b) proibição de mudar de endereço sem prévia autorização judicial. Destarte, imponho medidas cautelares ao averiguado, com a observância de que cópia desta decisão servirá como termo de compromisso, a ser firmado por ele. Faça-se constar a intimação do acusado acerca da imposição das medidas cautelares e que o seu descumprimento injustificado poderá ensejar a substituição, a imposição de outras em cumulação ou a decretação da prisão preventiva (CPP, arts. 282, § 4º, e 312, par. único).
+Assim, perdeu o objeto o presente recurso, julgo-o, consequentemente, prejudicado (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIENTE REVOGAÇÃO DA CUSTÓDIA CAUTELAR NA ORIGEM. PERDA DE OBJETO.
+Writ prejudicado.
