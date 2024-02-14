@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, Conflito de Competência suscitado pelo MM. Juiz do Juizado Especial Cível e Criminal Adjunto à Vara Federal da SSJ de Castanhal/PA nos autos da "Ação de Auxílio Doença por Acidente de Trabalho" ajuizada por Maria de Jesus Borges dos Santos Moura, em face do Instituto Nacional do Seguro Social - INSS.
+O MM. Juiz da 1ª Vara Cível e Empresarial da Comarca de Capanema/PA, ora suscitado, declinou da competência para julgamento do feito, sob fundamento de que, "não há qualquer menção a acidente de trabalho nem é utilizado isto como causa de pedir, nem há qualquer pedido em torno de acidente de trabalho, havendo apenas um pedido de natureza exclusivamente previdenciária", motivo pelo qual, compete a Justiça Federal o processamento do feito (e-STJ 138/139).
+O suscitante, por sua vez, defendeu que a parte autora pretende a concessão de auxilio doença previdenciário por acidente de trabalho, prevalecendo, portanto, a competência da Justiça Estadual para o deslinde da lide (e-STJ 60 e 160).
+Manifestação do Ministério Público Federal opinando pela competência do suscitado (e-STJ 172/175).
+Processo distribuído por sorteio ao Exmo. Sr. Ministro Humberto Martins quando, em 24/11/2023, foi atribuído a minha relatoria (e-STJ 177).
+É, em síntese, o relatório.
+Inicialmente, cumpre salientar que a jurisprudência desta Corte está assentada no sentido de que competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo está caracterizada pelo pedido e pela causa de pedir.
+No caso dos autos, apura-se que a parte autora aponta que "apresenta-se enferma da coluna lombar e cervical com irradiação para os membros superiores e inferiores", postulando o reestabelecimento do auxílio-doença, "por não possuir mais condições de exercer o seu labor" (e-STJ 08/12).
+Dessa maneira, verifica-se que, em que pese a nomenclatura dada a petição exordial, a requerente pugna por benefício previdenciário sem fazer referência a acidente de trabalho ou de que a patologia seja decorrente do exercício das atividades laborais, motivo pelo qual, competente a Justiça Federal para julgá-lo, como benefício previdenciário comum, decorrente de acidente de "qualquer natureza", disposto no art. 86 da Lei 8.213.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. PEDIDO E CAUSA DE PEDIR NÃO VINCULADA A ACIDENTE DO TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que conhecera do Conflito de Competência, instaurado em Ação ajuizada por segurada, perante a Justiça Federal, contra o Instituto Nacional do Seguro Social - INSS, postulando benefício previdenciário de auxílio-doença ou aposentadoria por invalidez.
+II. Não resta configurada hipótese de aplicação da Súmula 15/STJ ("Compete a justiça estadual processar e julgar os litígios decorrentes de acidente do trabalho"), porquanto ausente a alegação, na petição inicial, de liame entre o benefício requerido pela parte segurada e acidente do trabalho, que não foi, sequer, mencionado, como fundamento do pleito.
+III. Na forma da jurisprudência do STJ, "a definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda).O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa.
+Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada)" (STJ, CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 03/04/2012).
+Precedentes.
+IV. Agravo interno improvido.
+(AgInt no CC n. 154.273/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 29/11/2022, DJe de 1/12/2022.)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA EM RAZÃO DA MATÉRIA. AUSÊNCIA DE INTERESSE DO INSS. SÚMULA 150 DO STJ.
+1. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir. Na hipótese em exame, o interessado postulou a concessão de benefício previdenciário sem referência a acidente de trabalho.
+2. No caso dos autos, conforme se extrai da Petição Inicial, o pedido é formulado por servidor público estadual objetivando a concessão de benefício previdenciário decorrente do Regime de Previdência Próprio do Estado do Rio Grande do Sul.
+3. Não compõe a lide a União, suas autarquias ou empresas públicas, por ter o Juízo Federal entendido não haver interesse da União na demanda, nos termos da Súmula 150/STJ, não incidindo a regra ratione personae da Justiça Federal. A competência, portanto, é da Justiça Comum Estadual.
+4. Agravo Interno não provido.
+(AgInt no CC n. 180.716/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 15/2/2022, DJe de 15/3/2022.)
+Isso posto, nos termos do art. 34, inciso XXII do Regimento Interno deste e. Superior Tribunal de Justiça, conheço do Conflito para declarar competente para o processamento do feito o MM. Juiz do Juizado Especial Cível e Criminal Adjunto à Vara Federal da SSJ de Castanhal/PA, ora suscitante.
+Publique-se.
+EMENTA
