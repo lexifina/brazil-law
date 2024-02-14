@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por SPAL INDÚSTRIA BRASILEIRA DE BEBIDAS S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 650):
+APELAÇÃO CIVEL - REPARAÇAO DE DANO -CORPO ESTRANHO - DANO MORAL EVIDENCIADO -PRINCIPIOS DA RAZOABILIDADE E DA PROPORCINALIDADE.
+A situação vivenciada não pode ser enquadrada nos meros aborrecimentos do cotidiano. A fixação do dano moral se pauta nos princípios da razoabilidade e da proporcionalidade.
+Rejeitados os embargos de declaração opostos (fls. 683-686).
+No recurso especial, a recorrente alega que o acórdão contrariou as disposições contidas nos arts. 186 e 927 do Código Civil; 373, I, do CPC; e 12 e 18 do Código de Defesa do Consumidor. Suscita, em síntese, erro na valoração das provas.
+Assevera "inexistência de dano à recorrida, requisito necessário para a configuração da responsabilidade civil da parte recorrente e embasar a condenação desta".
+Argui que, segundo a jurisprudência desta Corte, "a aquisição de produto alimentício contaminado, sem o seu consumo, é incapaz de configurar danos extrapatrimoniais".
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 724-728), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+No que tange à alegação de erro na valoração da prova, a modificação do julgado, nos moldes pretendidos, sob alegação de equívoco na valoração da prova, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via eleita do recurso especial, ante o óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTENTE. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. PNEU ESTOURADO EM VIAGEM. NEXO CAUSAL NÃO COMPROVADO. REEXAME. IMPOSSIBILIDADE. SÚM. 7/STJ. VIOLAÇÃO DOS ARTS. 6º, INCS. III, VI, VII E VIII, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO NÃO PROVIDO.
+1. Nos termos do artigo 1.024, § 3º, do NCPC, após intimado o recorrente para complementar as razões recursais, os embargos declaratórios opostos com o intuito de conferir efeitos infringentes à decisão embargada devem ser recebidos como agravo interno.
+2. Não há se falar em violação aos arts. 489 e 1.022 do CPC quando ao acórdão recorrido resolve todas as questões pertinentes ao litígio, afigurando-se dispensável que venha a examinar todos os argumentos e fundamentos expendidos pelas partes.
+3. A análise da pretensão recursal sobre o alegado erro na valoração da prova, conforme suscitado pela recorrente, alterando as premissas fáticas nele delineadas para reconhecer a configuração dos danos materiais e morais pleiteados, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+4. No que diz respeito a violação do artigo 6º, incs. III, VI, VII e VIII do Código de Defesa do Consumidor, o recurso especial não pode ser conhecido em razão da ausência de prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+5. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+6. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 1.803.715/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2020, DJe de 3/8/2020.)
+Em relação à responsabilidade civil da recorrente, observa-se que rever o entendimento a que chegou o Tribunal de origem, impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Quanto à tese de que a falta de ingestão do produto impede a configuração do dano moral, cumpre referir que a Segunda Seção desta Corte pacificou o entendimento de que "a presença de corpo estranho em alimento industrializado, expondo o consumidor a risco concreto de lesão à sua saúde e à sua incolumidade física e psíquica, caracteriza dano moral indenizável, ainda que o produto contaminado não seja efetivamente consumido". Precedentes: AgInt nos EDv nos EREsp n. 1.877.119/MG, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/6/2022, DJe de 17/6/2022.
+No mesmo sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO DESPROVIDO.
+1. "É irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado. (..) Essa distinção entre as hipóteses de ingestão ou não do alimento insalubre pelo consumidor, bem como da deglutição do próprio corpo estranho, para além da hipótese de efetivo comprometimento de sua saúde, é de inegável relevância no momento da quantificação da indenização, não surtindo efeitos, todavia, no que tange à caracterização, a priori, do dano moral" (REsp 1.899.304/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, j. em 25/8/2021, DJe de 04/10/2021).
+2. Aplica-se ao caso o teor da Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado. "
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.901.134/CE, relator Ministro Raul Araújo, Segunda Seção, julgado em 17/5/2022, DJe de 14/6/2022.)
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE ALIMENTO (PACOTE DE ARROZ) COM CORPO ESTRANHO (CONGLOMERADO DE FUNGOS, INSETOS E ÁCAROS) EM SEU INTERIOR. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E INCOLUMIDADE FÍSICA E PSIQUÍCA. FATO DO PRODUTO. INSEGURANÇA ALIMENTAR. EXISTÊNCIA DE DANO MORAL MESMO QUE NÃO INGERIDO O PRODUTO.
+1. Ação ajuizada em 11/05/2017. Recurso especial interposto em 24/07/2020 e concluso ao gabinete em 13/11/2020.
+2. O propósito recursal consiste em determinar se, na hipótese dos autos, caracterizou-se dano moral indenizável em razão da presença de corpo estranho em alimento industrializado, que, embora adquirido, não chegou a ser ingerido pelo consumidor.
+3. A Emenda Constitucional nº 64/2010 positivou, no ordenamento jurídico pátrio, o direito humano à alimentação adequada (DHAA), que foi correlacionado, pela Lei 11.346/2006, à ideia de segurança alimentar e nutricional.
+4. Segundo as definições contidas na norma, a segurança alimentar e nutricional compreende, para além do acesso regular e permanente aos alimentos, como condição de sobrevivência do indivíduo, também a qualidade desses alimentos, o que envolve a regulação e devida informação acerca do potencial nutritivo dos alimentos e, em especial, o controle de riscos para a saúde das pessoas.
+5. Nesse sentido, o art. 4º, IV, da Lei 11.346/2006 prevê, expressamente, que a segurança alimentar e nutricional abrange "a garantia da qualidade biológica, sanitária, nutricional e tecnológica dos alimentos".
+6. Ao fornecedor incumbe uma gestão adequada dos riscos inerentes a cada etapa do processo de produção, transformação e comercialização dos produtos alimentícios. Esses riscos, próprios da atividade econômica desenvolvida, não podem ser transferidos ao consumidor, notadamente nas hipóteses em que há violação dos deveres de cuidado, prevenção e redução de danos.
+7. A presença de corpo estranho em alimento industrializado excede aos riscos razoavelmente esperados pelo consumidor em relação a esse tipo de produto, sobretudo levando-se em consideração que o Estado, no exercício do poder de polícia e da atividade regulatória, já valora limites máximos tolerados nos alimentos para contaminantes, resíduos tóxicos outros elementos que envolvam risco à saúde.
+8. Dessa forma, à luz do disposto no art. 12, caput e § 1º, do CDC, tem-se por defeituoso o produto, a permitir a responsabilização do fornecedor, haja vista a incrementada - e desarrazoada - insegurança alimentar causada ao consumidor.
+9. Em tal hipótese, o dano extrapatrimonial exsurge em razão da exposição do consumidor a risco concreto de lesão à sua saúde e à sua incolumidade física e psíquica, em violação do seu direito fundamental à alimentação adequada.
+10. É irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado.
+11. Essa distinção entre as hipóteses de ingestão ou não do alimento insalubre pelo consumidor, bem como da deglutição do próprio corpo estranho, para além da hipótese de efetivo comprometimento de sua saúde, é de inegável relevância no momento da quantificação da indenização, não surtindo efeitos, todavia, no que tange à caracterização, a priori, do dano moral.
+12. Recurso especial conhecido e provido.
+(REsp n. 1.899.304/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/8/2021, DJe de 4/10/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
