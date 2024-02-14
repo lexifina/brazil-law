@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a e c, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Pará (Apelação Criminal n. 0014561-96.2018.8.14.0401) que manteve a condenação de Renato da Cruz Pinheiro como incurso no crime de roubo majorado pelo emprego de arma de fogo e concurso de agentes (três).
+Nas razões do recurso especial, a defesa do agravante suscitou violação e dissídio jurisprudencial acerca da interpretação do art. 157, § 2º, do Código Penal (fls. 128/136).
+A Corte de origem inadmitiu o recurso considerando a impossibilidade de indicação de acórdão proferido em habeas corpus para fins de demonstração de dissídio jurisprudencial e por reputar que os fundamentos do acórdão hostilizado não foram devidamente impugnados (fls. 151/152).
+Contra o decisum a defesa interpôs o presente agravo (fls. 160/169).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 197):
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA 07/STJ. DESPROVIMENTO.
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Rel. p/ acórdão Ministro Luís Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, um dos fundamentos da decisão de inadmissão não foi devidamente impugnado, a saber: impossibilidade de indicação de acórdão exarado em sede de julgamento de habeas corpus para fins de demonstração de dissídio jurisprudencial.
+Logo, o agravo é inadmissível, pois não infirmou a decisão agravada na sua integralidade.
+Como fundamento subsidiário, ressalto que, ainda que fosse possível conhecer do agravo, o recurso especial não seria acolhido.
+A jurisprudência desta Corte é pacífica no sentido de ser possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda. O art. 68, parágrafo único, do Código Penal, não obriga que o magistrado aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes (AgRg no HC n. 615.932/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/10/2020 - grifo nosso).
+No mesmo sentido, confira-se: AgRg no HC n. 603.056/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 7/5/2021.
+No caso, há fundamentação idônea para aplicação cumulativa das majorantes do crime de roubo, verificada a partir das circunstâncias do crime (emprego de arma de fogo e múltiplos agentes - três).
+Logo, não há falar em ilegalidade no acórdão impugnado; ao contrário, o aresto guarda perfeita harmonia com a orientação jurisprudencial desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO PELO EMPREGO DE ARMA E CONCURSO DE AGENTES. ART. 157, § 2º, II, E § 2º-A, I, DO CP. DOSIMETRIA. PENA-BASE. INOVAÇÃO DE TESE RECURSAL. TERCEIRA FASE. PRESENÇA DE DUAS CAUSAS DE AUMENTO. POSSIBILIDADE. ART. 68, PARÁGRAFO ÚNICO, DO CP. INDICAÇÃO DE MOTIVAÇÃO CONCRETA. FRAÇÃO DE AUMENTO EM PATAMAR SUPERIOR AO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES.
+1. Afasta-se a análise do pleito de revisão da pena-base em razão da falta de fundamentação idônea para a negativação da circunstância judicial referente às consequências da ação delituosa, uma vez que a tese ora suscitada não foi apresentada quando da impetração do writ, o que caracteriza inovação de tese recursal, inadmissível na via eleita.
+2. Segundo a jurisprudência desta Corte, mostra-se legítima a aplicação cumulada das majorantes relativas ao concurso de pessoas e ao emprego de arma de fogo, no crime de roubo, quando as circunstâncias do caso concreto demandarem uma sanção mais rigorosa, especialmente diante do modus operandi do delito (AgRg no HC n. 520.094/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/3/2020).
+3. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório (HC n. 549.438/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020).
+4. Agravo regimental improvido.
+(AgRg no HC n. 701.450/SC, de minha relatoria, Sexta Turma, DJe 15/3/2022 - grifo nosso).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. TERCEIRA FASE. MAJORANTES DO CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. CÁLCULO CUMULATIVO. FUNDAMENTAÇÃO IDÔNEA. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem, ao condenar o acusado nas sanções do art. 157, §§2º, inciso II, e 2º-A, inciso I, do CP, aplicou, primeiro, o aumento de 1/3 (um terço), em relação ao concurso de agentes e, posteriormente, majorou a reprimenda em 2/3 (dois terços), em razão do emprego de arma de fogo .
+2. A jurisprudência desta Corte Superior de Justiça é no sentido de que, a teor do art. 68, parágrafo único, do Código Penal, é possível, de forma concretamente fundamentada, aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais (AgRg no HC n.º 644.572/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 9/3/2021, DJe 15/3/2021). Precedentes.
+3. É legítima a aplicação cumulada das majorantes, no crime de roubo, quando as circunstâncias do caso concreto demandarem uma sanção mais rigorosa, destacado especialmente por elementos como o modus operandi do delito.
+4. No presente caso, tendo os envolvidos utilizado da arma de fogo de maneira efetiva, encostando-a no corpo da vítima e ameaçando-lhe alvejar um disparo no rosto, além do fato ter ocorrido enquanto a ofendida levava seu filho criança na cadeirinha do banco traseiro do veículo, correta foi a incidência separada e cumulativa das duas causas de aumento, não havendo qualquer ilegalidade.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 1.942.931/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/11/2021 - grifo nosso).
+Em face do exposto, com fundamento nos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. FUNDAMENTO SUBSIDIÁRIO. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES (TRÊS). VIOLAÇÃO DO ART. 157, § 2º, DO CPP. MANIFESTA IMPROCEDÊNCIA. PRECEDENTES DESTA CORTE.
+Agravo não conhecido.
