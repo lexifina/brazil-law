@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por EUNICE APARECIDA RODRIGUES, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 290, e-STJ):
+AGRAVO INTERNO - DECISÃO QUE NÃO CONHECEU DO AGRAVO DE INSTRUMENTO - INDEFERIMENTO DE PRODUÇÃO DE PROVA -AUSÊNCIA DE PREVISÃO NO ART. 1.015 DO CPC - URGÊNCIA NÃO VERIFICADA - DECISÃO MANTIDA - APLICAÇÃO DE MULTA. I - A decisão que indefere a produção de provas não está prevista no rol do artigo 1.015 do CPC. II - Não foi demonstrada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, de modo que deve ser mantida a decisão que não conheceu do Agravo de Instrumento. III - A manifesta improcedência do agravo interno em julgamento unânime dá ensejo à aplicação da multa constante no art. 1.021, §4º, do CPC.
+Nas razões do especial (fls. 297/312, e-STJ), a insurgente alega violação ao art. 1.021, §4º do CPC, aduzindo, em suma, a impossibilidade de condenação à multa do aludido preceito apenas pelo desprovimento do agravo.
+Contrarrazões às fls. 317/334, e-STJ.
+Após juízo de admissibilidade positivo (fls. 338/340, e-STJ), ascenderam os autos à esta Corte Superior.
+É o relatório.
+Decide-se.
+A pretensão recursal merece prosperar.
+1. Consoante entendimento firmado pela Segunda Seção desta Corte Superior, a multa prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório.
+Confira-se, por oportuno, a ementa do julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido. (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016) No mesmo sentido, precedentes desta Corte: EDcl no AgInt no AREsp 647.276/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/10/2017; EDcl no AgInt nos EDcl no REsp 1327956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 24/10/2017.
+No caso em tela, embora tenha sido negado provimento unânime ao agravo interno manejado pela ora recorrente, não se verifica o intuito meramente protelatório a si imputável, senão a utilização de recurso cabível à impugnação da deliberação que lhe foi desfavorável, no intuito de esgotar instância e viabilizar o manejo de recursos extremos, não havendo justificativa para imposição da sanção prevista no artigo 1.021, § 4º, do CPC/15.
+De rigor, portanto, o afastamento da referida multa.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se provimento ao recurso especial a fim de afastar a incidência da multa art. 1.021, §4º do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
