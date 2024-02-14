@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS SOUZA DUBOVICKI contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1500176-25.2023.8.26.0542.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, como incurso no artigo 33, caput, da Lei nº 11.343/06, à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, a ser cumprida em regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa (fls. 31-34).
+Inconformada, a defesa impetrou recurso de apelação perante o Tribunal de origem, que, por unanimidade, deu parcial provimento ao apelo defensivo para reduzir a pena para 5 anos de reclusão, em regime fechado, mais pagamento de 500 dias-multa, consoante voto condutor do acórdão de fls. 56-61.
+Dai presente writ, onde o impetrante aponta constrangimento ilegal na negativa de aplicação da causa especial de diminuição do § 4º do artigo 33 da Lei de Drogas, bem como na fixação do regime mais gravoso.
+Para tanto, sustenta que " ..  A gravidade abstrata do delito, bem como a quantidade apreendida não constituem motivação idônea para justificar imposição de regime prisional mais gravoso e a não aplicação do redutor previsto, as circunstâncias judiciais são favoráveis do paciente, os enunciados 718 e 719 da Súmula do STF e 440 do STJ, impedem a fixação de regime mais gravoso do que aquele que a quantidade de pena aplicada permite, sem que haja motivação idônea para isso." (fl. 5).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para que seja aplicado o redutor prevista no art. 33, § 4º, da Lei de Drogas, em favor do paciente. Subsidiariamente, pugna pela fixação do regime semiaberto.
+É o relatório. Decido
+Conforme relatado, busca-se na presente impetração a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas e a fixação do regime semiaberto.
+Com efeito, ressalta-se que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Cumpre registrar, que o parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Na espécie, não verifico o alegado constrangimento ilegal apontado pela defesa, uma vez que resta inviável a aplicação da benesse pela incidência da agravante da reincidência, na segunda fase da dosimetria da pena (e-STJ fl. 59), elemento apto a justificar o afastamento da redutora do art. 33, § 4º, da Lei n. 11.343/06, pois demonstra que o paciente se dedicava às atividades criminosas.
+Nesse sentido: AgRg no AREsp n. 1.764.094/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/5/2022 e AgRg no REsp n. 1.918.918/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 10/12/2021.
+De mais a mais, "o entendimento desta Corte Superior é no sentido de que a reincidência, ainda que por delito de natureza diversa, constitui óbice legal à concessão da minorante do tráfico privilegiado, consoante previsto no art. 33, § 4º, da Lei 11.343/2006" (AgRg no HC n. 786.591/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 15/12/2022, grifei).
+No tocante ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+In casu, verifico que não há reparo a ser feito na fixação do regime mais gravoso. Isso porque, a reincidente ostentada pelo paciente (e-STJ fls. 60) é elemento apto a impor o regime inicial fechado.
+Nesse sentido: AgRg no HC n. 740.259/SC, Quinta Turma, de minha relatoria, DJe de 12/5/2023; AgRg no REsp n. 2.055.377/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023 e AgRg no HC n. 801.350/SP, Sexta Turma, Rel. Min. Laurit a Vaz, DJe de 20/4/2023.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
