@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Dado o estreito propósito dos embargos de declaração, não é permitido ao embargante, a pretexto de corrigir os vícios mencionados pelo art. 619 do Código de Processo Penal, inovar nas teses recursais, introduzindo matérias estranhas ao que foi suscitado e apreciado pela decisão embargada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUIS PAULO AL VES DE MELLO contra o acórdão de fls. 1126-1128, assim ementado (fl. 1123):
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO- PROBATÓRIO. INVIÁVEL NA VIA ESTREITA DO WRIT. RECURSO DESPROVIDO.
+1. A prisão do Agravante decorre de sentença definitiva, confirmada em segundo grau de jurisdição, na qual o Réu foi condenado após ampla produção probatória. Assim, atualmente, a prova colhida durante todo o trâmite processual permanece válida e apta a ensejar o édito condenatório e, consequentemente, a prisão penal do Agravante.
+2. Nesse contexto, não é possível afastar a conclusão a que chegou o Tribunal de origem, soberano na análise de provas, quanto à autoria e materialidade do delito, pois, como é cediço, reconhecer a ausência, ou não, de elementos de autoria e materialidade delitiva acarretaria, inevitavelmente, aprofundado reexame do conjunto fático-probatório, impróprio na via do habeas corpus.
+3. Agravo regimental desprovido."
+O Embargante aponta a existência de omissão do acórdão ora embargado, porquanto "o aresto ora combatido não levou em conta relevantíssima circunstancia consubstanciada à oitiva e retratação em Juízo, sob o crivo do contraditório, formalizada por intermédio da competente Audiência de Justificação Criminal, à vítima sobrevivente (REGINALDO) e a única testemunha ocular dos episódios (ANA BEATRIZ), comprovada mediante a juntada da instrumental obrante às fls. 1.017 usque 1.029" (fl. 1136).
+Afirma que "completo esvaziamento do édito condenatório frente à superveniente formal radical alteração das versões apresentadas originariamente às figuras centrais do caso (REGINALDO e ANA BEATRIZ), partiu-se para a transmudação, se adotando argumento veiculado na origem como determinante para negar a prestação jurisdicional almejada, içando ao patamar de suposta prova válida para sustentar o decreto sentencial, os testemunhos indiretos emprestados por delegado, escrivão e investigador da Polícia Civil, que, conforme a jurisprudência dessa egrégia Corte Superior, não são aptos a embasar uma sentença penal condenatória" (fl. 1137).
+Aduz que "os testemunhos indiretos não servem para embasar a condenação penal esvaziada, como estes poderiam ser substitutivos dos extirpados (depoimentos da vítima sobrevivente e da única testemunha ocular), para lastrear a sumária rejeição desta ação constitucional  Como, data maxima venia  " (fl. 1040).
+Requer seja sanado os vícios apontados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Dado o estreito propósito dos embargos de declaração, não é permitido ao embargante, a pretexto de corrigir os vícios mencionados pelo art. 619 do Código de Processo Penal, inovar nas teses recursais, introduzindo matérias estranhas ao que foi suscitado e apreciado pela decisão embargada.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos não devem ser acolhidos.
+Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração se destinam a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado, o que não se verifica na hipótese, já que esta Sexta Turma, no aresto embargado, solucionou a quaestio juris de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento, em perfeita consonância com a legislação aplicável à espécie.
+Em que pese a afirmação do recurso integrativo, verifica-se que as alegações sobre a fragilidade do conjunto fático-probatório foram solucionadas de maneira clara e coerente salientando que a prisão do ora Embargante decorre de sentença definitiva, confirmada em segundo grau de jurisdição, na qual o Réu foi condenado após ampla produção probatória, não sendo possível afastar a conclusão a que chegou o Tribunal de origem, soberano na análise de provas, quanto à autoria e materialidade do delito, pois, como é cediço, reconhecer a ausência, ou não, de elementos de autoria e materialidade delitiva acarretaria, inevitavelmente, aprofundado reexame do conjunto fático-probatório, impróprio na via do habeas corpus.
+Portanto, não prospera a alegação de omissão no julgado embargado. Em verdade, trata-se de mero inconformismo do Embargante com o resultado do julgamento o que, contudo, não viabiliza a oposição de embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
