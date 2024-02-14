@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JESSE AMORIM DA SILVA contra acórdão da Sexta Turma, relatado pela Ministra LAURITA VAZ, ementado nos seguintes termos (fl. 215):
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. TESE DE ILEGALIDADE DAS PROVAS EM RAZÃO DE SUPOSTA INVASÃO DE DOMICÍLIO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA INSURGÊNCIA. PREJUDICIALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Proferida sentença na ação penal, na qual a tese apresentada pela Defesa foi refutada, em cognição profunda e exauriente, fica prejudicado o writ, devendo a irresignação ser apreciada em eventual recurso a ser interposto perante o Tribunal a quo. Precedentes.
+2. Agravo regimental desprovido."
+Sustenta o Embargante que, " m algrado a demonstração da evidente ausência de análise profunda e exauriente na interposição, os fundamentos trazidos pelo agravante sequer foram analisados pela Eminente Relatora. Assim, a decisão proferida omitiu-se em relação aos argumentos trazidos pelo agravante, limitando-se a apontar que, ante a sentença, a impetração estaria prejudicada" (fl. 224).
+Aduz que "resta inequívoca a demonstração de que a decisão, que ora se ataca, omitiu-se no que tange aos argumentos trazidos no agravo regimental interposto, demonstrando-se que a nulidade sequer teria sido analisada no decreto condenatório" (fl. 224).
+Requer o acolhimento dos embargos, "declarando o ponto omisso, dando efeito modificativo à oposição para que seja reconhecida a violação domiciliar e declarada a ilicitude da prova" (fl. 225).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+A obtenção de efeitos infringentes somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos indicados no supramencionado dispositivo legal, a alteração do julgado seja consequência inarredável da correção do referido vício, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, ressalto que a quaestio juris foi solucionada no acórdão embargado de maneira clara e coerente, em perfeita consonância com a legislação aplicável à espécie e com a jurisprudência desta Corte.
+Com efeito, ficou explicitado na decisão ora impugnada que a matéria relativa à nulidade foi examinada, em cognição exauriente, pelo Juízo sentenciante, ainda que pelos mesmos fundamentos antes apresentados. Assim, o novo título deverá ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva.
+Exemplificativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. PEDIDO PREJUDICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Proferida sentença na ação penal, com a análise exauriente da matéria relativa à suposta nulidade arguida pela Defesa, fica prejudicado o habeas corpus, devendo o novo título ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva.
+2. Agravo regimental desprovido." (AgRg no HC n. 830.729/RS, relator Ministro TEODORO SILVA SANTOS, Sexta Turma, julgado em 12/12/2023, DJe de 14/12/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. CORRUPÇÃO DE MENOR. ALEGAÇÃO DE NULIDADES NO CURSO DA INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. INTERPOSIÇÃO DE APELAÇÃO DEFENSIVA. INSTRUMENTO ADEQUADO PARA O REEXAME DAS QUESTÕES. PRETENSÃO QUE NÃO SE REFERE À TUTELA IMEDIATA DA LIBERDADE AMBULATORIAL DO ACUSADO. SUBVERSÃO DO SISTEMA RECURSAL. AGRAVO DESPROVIDO.
+1. Consoante se verifica dos autos, o processo já se findou, com a prolação de sentença condenatória em desfavor do réu, tendo a defesa interposto a Apelação n. 0008691-47.2023.8.26.0050, perante o Tribunal de origem, ainda pendente de apreciação por aquele sodalício, o que prejudica a análise do presente writ.
+2. Com a condenação do agravante, as nulidades suscitadas passam a ter suporte decisório na sentença, que deverá ser examinada não na via estreita mandamental, mas no bojo da apelação já manejada pela defesa perante o Tribunal de origem, instrumento processual adequado para o reexame da questão, sob pena de se incidir em indevida supressão de instância.
+3. A Terceira Seção do Superior Tribunal de Justiça firmou entendimento de que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual  ..  é indevida a subversão do sistema recursal e a avaliação, enquanto não exaurida a prestação jurisdicional pela instância de origem, de tese defensiva na via estreita do habeas corpus" (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe 3/4/2020).
+4. Agravo regimental desprovido." (AgRg no HC n. 846.290/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE VÍCIOS E NULIDADES NO CURSO DO PROCESSO. ATUAÇÃO DE GUARDA MUNICIPAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATORIA. PREJUDICIALIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Com a superveniência da prolação de sentença condenatória fica prejudicada a análise da nulidade arguida, porquanto a via eleita é substancialmente mais estreita" (AgRg no RHC 71.840/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/6/2018, DJe 12/6/2018).
+2. Agravo regimental desprovido. " (AgRg no HC n. 829.293/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Em verdade, verifico que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+Com igual conclusão:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+1. Não se presta o recurso integrativo a rediscutir matéria já analisada e decidida. Na verdade, sob o pretexto de haver "omissão", a parte embargante indisfarçavelmente busca impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a causa, o que não se coaduna com a via eleita.
+2. Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 1.871.524/AM, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/10/2021, DJe 16/11/2021; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
