@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUCAS RIBEIRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2335367-75.2023.8.26.0000).
+Depreende-se dos autos que o paciente foi preso em flagrante em 29/10/2023, prisão essa convertida em preventiva, e denunciado como incurso nos arts. 311, § 2º, inciso III, do Código Penal (adulteração de sinal identificador de veículo) e 309 da Lei n. 9.503/1997 (dirigir sem habilitação ou permissão).
+O Tribunal de origem denegou a ordem.
+Neste writ, o impetrante alega excesso de prazo para formação da culpa; desproporcionalidade da medida considerando a pena mínima das condutas imputadas; e o não preenchimento dos requisitos para a manutenção da medida extrema. Ressalta que o paciente é primário.
+Considera que a decisão impositiva da prisão valeu-se de conjecturas e que, no caso, não está demonstrada a necessidade e indispensabilidade da medida.
+Pugna, destarte, pela concessão da liminar, a fim de que a prisão preventiva seja revogada e o paciente posto em liberdade.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou denegação do writ.
+É o relatório.
+Decido.
+Consoante relatado, busca a defesa a revogação da prisão preventiva, seja com base na ausência de fundamentos concretos e desproporcionalidade da medida, seja por excesso de prazo para a formação da culpa.
+O Tribunal de origem denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fls. 13/17):
+Segundo consta nos autos, no dia dos fatos policiais em patrulhamento visualizaram uma motocicleta TRIUMPH/TIGER, placaCUL9E57, sendo que o COPOM havia informado a prática de roubos com um veículo com as mesmas características, o que motivou a abordagem. Dado sinal de parada não foi obedecida e então se iniciou um breve acompanhamento por diversas vias públicas. O motorista perdeu o controle e caiu na mesma via, no entanto, ainda assim saiu correndo a pé, sendo alcançado e capturado. O motorista foi identificado como Lucas Ribeiro, ora paciente. Em revista pessoal nada de ilícito foi encontrado e ao ser indagado sobre a motocicleta, o paciente primeiro falou que tinha comprado, porém depois mudou o enredo dizendo que pegou emprestado para dar um "rolê". Tendo sido verificado o emplacamento do veículo, via rádio COPOM, não constava roubo nem furto. Em revista veicular a motocicleta apresentou leves sinais de adulteração no chassi97NE63DF5NMAX1581. Tendo sido efetuado contato com a proprietária da motocicleta, Emily Pontes Rosa de Lima, ela confirmou que era a proprietária, mas a motocicleta estava com seu irmão, Samuel Lima de Oliveira, na cidade de Osasco e que este compareceria à delegacia portando a motocicleta original. Na delegacia Samuel relatou que é proprietário da motocicletaTiger900R, placaCUL9E57, que adquiriu em nome de Emilly.
+Assim o Parquet ofereceu denúncia em face do paciente aduzindo que ele recebeu e conduziu a motocicleta Triumph/Tiger 900 Rally com chassi e placa de identificação que devesse saber estar adulterados ou remarcados e dirigiu veículo automotor, em via pública, sem a devida habilitação para dirigir, erando perigo de dano (artigo 311, parágrafo 2º, inciso III, do Código Penal e artigo 309 da Lei nº 9.503/97, na forma do artigo 69 do Código Penal).
+Como visto, a defesa alega que a fundamentação é inidônea e que a custodia cautelar é desnecessária.
+Afirma que se trata de indivíduo primário, que possui atividade lícita como empresário, dono de uma hamburgueria, bem como tem residência fixa no distrito da culpa.
+Quanto à tais alegações, observa-se que se trata de mera reiteração do habeas corpus nº 2298589-09.2023.8.26.0000 (cujo voto de minha relatoria recebeu o nº 34210), onde figuram as mesmas partes, o mesmo pedido e os mesmos fatos. Em outras palavras, trata-se de mera reiteração, sem qualquer fato novo a ser apreciado.
+O habeas corpus por não configurar uma cognição exauriente, mas sim secundum eventum probationis, limitado à análise das provas existentes. Logo, não há que falar-se em proibição de reiteração, ainda que o fundamento seja o mesmo, desde que lastreado em novos fatos.
+ ..
+Logo, tratando-se de mera reiteração, sem o surgimento de qualquer fato novo, inviável o deferimento da impetração quanto a isto.
+O impetrante aduz que a prisão preventiva se demonstra medida desproporcional e extremada, considerando-se as penas mínimas dos crimes.
+No tocante à eventual fixação de regime inicial diverso do fechado ou substituição da pena privativa de liberdade por restritiva de direitos, que revelariam alegada desproporção da prisão cautelar, destaca-se que tal alegação do impetrante se mostra verdadeiro exercício de futurologia, incabível neste momento, por tratar-se de matéria de mérito, estranha ao habeas corpus.
+A defesa salienta que a audiência do paciente foi designada para longínqua data, qual seja, 02/04/2024.
+Quanto ao alegado excesso de prazo, que acarretaria constrangimento ilegal, observa-se que a determinação de prazo em dias mostra-se como criação jurisprudencial.
+Neste sentido SOUZA NUCCI8"quanto à instrução dos processos criminais, inexistia prazo específico. Portanto, criou-se um período obtido pela soma dos prazos previstos no Código de Processo Penal".
+Em razão disto, este prazo obtido deve ser entendido como uma indicação e não como prazo fatal, em face da situação fática envolvendo o término da instrução criminal.
+ ..
+O entendimento jurisprudencial já vinha apontando para a aplicação do princípio da razoabilidade para configurar, ou não, o constrangimento ilegal por excesso de prazo.
+Este entendimento ganhou forma a partir da Emenda Constitucional 45 de 8 de dezembro de 2004, que acrescentou o artigo 5º, LXXVIII, que assegurou, para todos, no âmbito judicial ou administrativo, a razoável duração do processo.
+Neste sentido necessário se mostra verificar os motivos do eventual atras, levando-se em consideração as circunstâncias específicas do caso.
+No caso em questão, considerando-se o abarrotamento do judiciário em razão do número de demandas, bem como a proximidade do recesso forense, vislumbro que a data designada para a referida audiência não se mostra longínqua.
+Assim o prazo utilizado até o presente momento encontra-se razoável em face das circunstâncias de fato, não caracterizando constrangimento ilegal a justificar o relaxamento da prisão em flagrante ou pedido de informações.
+Cumpre relembrar sempre que o tempo para conclusão do processamento é analisado como um todo e não em cada ato realizado.
+ ..
+Tendo sido designada audiência de instrução, interrogatório, debates e julgamento, na modalidade virtual, para o dia 02/04/2024, às 15h0013, vê-se que o encerramento da instrução e prolação da sentença se avizinham. Assim, não há qualquer ilegalidade no tempo da prisão, não impedindo que se analise novamente eventual excesso de prazo.
+Como se vê, na origem, não se conheceu da tese de ausência de fundamentos da prisão em razão da reiteração de pedido já analisado por aquele colegiado, cujo acórdão não foi acostado ao autos, não se desincumbindo o impetrante de instruir suficientemente a presente ação mandamental, o que, a toda evidência, impede o exame completo da tese suscitada.
+De todo modo, não reconheço flagrante ilegalidade capaz de justificar a concessão da ordem de ofício nesse ponto, haja vista que a imposição de medida extrema ancorou-se na alegada fuga do paciente, a fim de evitar a abordagem policial, e na sua habitualidade delitiva, pois responde a outros feitos criminais que envolveriam a mesma imputação, os quais estariam suspensos por força do art. 366 do Código de Processo Penal .
+Noutro ponto, insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Na espécie, tem-se que o agente foi preso em flagrante no dia 29/10/2023, prisão essa convertida em preventiva no dia seguinte. A denúncia foi ofertada em 7/11/2023 e recebida no dia seguinte, sendo designada audiência para o dia 2/4/2024. Foi determinada a citação do acusado para apresentação de resposta à acusação. A prisão foi reavaliada em 22/11/2023.
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, sem indícios de desídia ou paralisação imputável aos órgãos estatais responsáveis. Além do mais, a data para a qual foi designada a audiência de instrução não se mostra desarrazoada, porquanto comporta tempo necessário para os tramites processuais prévios ao ato, o que afasta, por ora, a ocorrência de excesso de prazo na instrução criminal.
+Por fim, sobre a alegação de desproporcionalidade da custódia em relação ao regime que porventura vier a ser aplicado, cumpre esclarecer que o Superior Tribunal de Justiça tem jurisprudência pacífica quanto à impossibilidade de se realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença.
+Nesse sentido:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. VARIEDADE DE DROGA APREENDIDA. PENA EM PERSPECTIVA. IMPOSSIBILIDADE DE ANÁLISE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+ ..
+3. Não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal (precedentes).
+ ..  (RHC n. 119.600/MG, de minha relatoria, SEXTA TURMA, julgado em 5/5/2020, DJe 11/5/2020.)
+Ante o exposto, denego a ordem, acolhido o parecer ministerial.
+Publique-se. Intimem-se.
+ EMENTA
