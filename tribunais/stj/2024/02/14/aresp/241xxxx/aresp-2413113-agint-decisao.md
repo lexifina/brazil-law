@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por RICARDO GARCIA DUARTE contra decisão mediante a qual a Presidência desta Corte negou provimento a seu agravo em recurso especial, ao fundamento de que a aplicação da Súmula 7/STJ não teria sido impugnada na minuta do agravo.
+Em face das razões de fls. 492/513, reconsidero a decisão agravada.
+Com efeito, a aplicação do referido enunciado da Súmula foi impugnada pelo agravo em recurso especial, mormente a partir da fl. 428, em que o agravante expõe as razões pelas quais, em seu entender, o óbice não incide sobre o caso. Não se aplica, portanto, a regra dos artigos 932, III, do Código de Processo Civil de 2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, nem a Súmula 182/STJ.
+Procedo, portanto, a nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Execução e imóvel alienado pela executada, quando em curso demanda contrato (sic) o alienante. A venda do imóvel pela executada após a distribuição de diversas ações, presume a fraude à execução. Ineficácia ante a execução, nenhum direito restando a compor ao adquirente/embargante, que adquiriu coisa litigiosa.
+Rejeição dos embargos que se confirma, desprovendo o recurso. Unânime.
+Nas razões de recurso especial, a parte agravante indica violação dos arts. 269, 281, 792, I, II e III, 489, § 1º, IV, e 1022 do Código de Processo Civil, além de dissídio jurisprudencial. Sustenta não ter havido fraude à execução e alega cerceamento de defesa, pois foi indeferida a oitiva da única testemunha que poderia fazer a comprovação da boa-fé.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1.022 do CPC.
+Quanto ao mais, o recurso não dispensa o reexame de prova. O agravante procura demonstrar não ter havido fraude à execução. A respeito do tema, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 221):
+(..) o credor provou o conhecimento da adquirente sobre a existência de demanda pendente contra o alienante, ao tempo da aquisição, tornando-se legítima a constrição sobre o bem alienado. Daí forçoso reconhecer-se, como reconheceu o julgado singular, a fraude a execução, com a improcedência dos embargos, diante da ineficácia da alienação perante o credor.
+Não há como afastar essas conclusões sem reexame de prova, aplicando-se ao caso a Súmula 7 do STJ.
+Considerada a garantia constitucional da razoável duração do processo, mostra-se adequado o indeferimento de prova testemunhal, a partir da qual o agravante pretendia demonstrar ser adquirente de boa-fé. Ressalto que o magistrado é o destinatário da prova e a ele cabe a análise sobre a necessidade de sua produção. Por esse motivo, a adoção de entendimento diverso por este Superior Tribunal quanto ao ponto também enseja a incidência da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. PROVA PERICIAL. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. "Na linha dos precedentes desta Corte, não configura cerceamento de defesa o julgamento da causa, sem a produção de prova pericial, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Há de se considerar, nesses casos, o princípio do livre convencimento motivado do juiz que, em termos práticos, reporta à análise de matéria fática e à incidência da Súmula 07/STJ" (AgRg no REsp 1126477/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/05/2013, DJe 03/06/2013).
+2. No presente caso, a Corte local concluiu pela desnecessidade de prova pericial ante a suficiência das provas apresentadas nos autos.
+Desse modo, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Agravo regimental de fls. 1.196-1.201 interposto por Marcelo Genovese Soares não provido.
+(AgRg no AREsp 592.202/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2014, DJe 29/10/2014).
+De fato, é correto o indeferimento de prova oral a respeito da boa-fé do adquirente, que poderia ser demonstrada por meio de documentos que comprovassem ter adotado as cautelas para a aquisiçã o do imóvel vendido por quem tinha contra si demanda capaz de levar à insolvência.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
