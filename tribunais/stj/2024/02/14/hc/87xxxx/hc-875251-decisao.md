@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JOAO VITOR DA SILVA ROMERO, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL, que negou provimento à Apelação n. 0801664-20.2023.8.12.0001 (fl. 33):
+EMENTA - APELAÇÃO CRIMINAL - INSURGÊNCIA DEFENSIVA - TRÁFICO DE DROGAS - ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI 11.343/06 - IMPOSSIBILIDADE - PROVAS SUFICIENTES DA DESTINAÇÃO COMERCIAL DOS ENTORPECENTES - RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DO TRÁFICO PRIVILEGIADO - NÃO ACOLHIMENTO - DEDICAÇÃO A ATIVIDADES CRIMINOSAS - REGIME INICIAL - MANTIDO O SEMIABERTO - SUBSTITUIÇÃO DA PENA - NÃO CABIMENTO - RECURSO DESPROVIDO.
+I - Demonstrado por meio da prova oral e das circunstâncias do flagrante que a droga apreendida em poder do apelante era destinada ao tráfico, não há falar em absolvição ou em desclassificação da conduta para o delito do art. 28 da Lei 11.343/06.
+II - É inaplicável a causa de diminuição do art. 33, § 4º, da Lei 11.343/06 quando comprovada a dedicação ao tráfico drogas.
+III - Mantém-se o regime inicial semiaberto, tendo em vista a primariedade, o quantum da pena privativa de liberdade, superior a 4 e inferior a 8 anos, e a ausência de circunstâncias judiciais desfavoráveis, nos termos do art. 33, § 2º, alínea "b", do CP.
+IV - Incabível a substituição da pena corporal, eis que fixada a pena acima de 4 anos de reclusão, encontrando, portanto, óbice no art. 44, inc. I, do CP.
+V - Recurso desprovido.
+Consta dos autos que o paciente foi condenado a 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, pela prática do crime de tráfico de drogas.
+Na presente impetração, alega-se que a prova oral produzida e as circunstâncias do flagrante não demonstram que a droga era destinada ao comércio, mas, sim, ao consumo próprio, como admitido pelo paciente, o que, portanto, conduz à necessidade de desclassificação para a figura penal prevista no art. 28 da Lei n. 11.343/2006 (fl. 22).
+Defende-se a aplicação da minorante do tráfico prevista no § 4º do art. 33 da Lei n. 11.343/2006, na fração máxima de 2/3, em favor do paciente.
+Requer-se a desclassificação do crime para o previsto no art. 28 da Lei de Drogas ou, subsidiariamente, a incidência da causa de de diminuição de pena descrita no § 4º do art. 33 da Lei n. 11.343/2006, com a consequente fixação de regime aberto, afastar o caráter hediondo do delito, bem como substituir a pena privativa de liberdade por restritiva de direitos.
+Informações prestadas (fls. 341/351).
+O Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 353/356).
+É o relatório.
+De pronto, o pedido de desclassificação da conduta delitiva necessita de incursão no acervo fático-probatório, obstaculizada na via estreita do remédio heroico, exceto se houvesse flagrante ilegalidade nas provas para a condenação, o que não se observa na espécie.
+Ademais, é firme a jurisprudência desta Corte Superior de Justiça no sentido de que o art. 33, caput, da Lei n. 11.343/2006, trata de delito de ação múltipla, que se consuma com a prática de qualquer dos verbos nele descritos, inclusive manter em depósito, sendo prescindível a comprovação da finalidade de comercialização (AgRg nos EDcl no AgRg no AREsp n. 1.872.753/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/8/2021).
+Outrossim, é pacífica a jurisprudência do Superior Tribunal de Justiça, no sentido de que os depoimentos prestados por policiais têm valor probante, na medida em que seus atos são revestidos de fé pública, sobretudo quando se mostram coerentes  ..  e ausentes quaisquer indícios de motivos pessoais para a incriminação injustificada do investigado, como na espécie. Precedentes (AgRg no AREsp n. 1.997.048/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022) - (AgRg no HC n. 716.902/SP, de minha relatoria, Sexta Turma, DJe 4/8/2022).
+No mais, o Tribunal de origem manteve a não aplicação da referida minorante, nestes termos (fls. 324/325 - grifo nosso):
+CAUSA DE DIMINUIÇÃO DO TRÁFICO PRIVILEGIADO
+A Defesa pugna ainda pelo reconhecimento da minorante do art. 33, § 4º, da Lei 11.343/06, com a substituição da pena e o abrandamento do regime inicial.
+Como é cediço, a Lei 11.343/06 encontra-se alinhada com o tratamento constitucional destinado ao crime de tráfico de drogas, sendo editada com o intuito de tratar com maios rigor os traficantes.
+Contudo, se o agente cumulativamente é primário e de bons antecedentes, não integra organização criminosa e não faz da prática delitiva seu meio de vida, poderá beneficiar-se da minorante em questão, que foi prevista justamente com o fim de melhor aparelhar o magistrado no processo de individualização da pena, permitindo-lhe tratar os traficantes de modo diferenciado, na medida do nível de envolvimento de cada um com a prática ilícita.
+Vale ressaltar que a constatação acerca dos requisitos legais não está adstrita à versão declinada pelo acusado, podendo o julgador valer-se de outros elementos probatórios e das evidências que exsurgem do flagrante para dirimir se a causa de diminuição é, ou não, cabível na situação concreta.
+Na hipótese vertente, conquanto o apelante seja primário e de bons antecedentes criminais, ele mesmo confessou que fazia do tráfico de drogas um meio de vida, tanto que recebia um valor fixo por mês mais comissão, o que é corroborado pelo fato de que foi apreendida uma diversidade de drogas (maconha, pasta base e cocaína, acondicionadas em porções, pinos e papelotes), além de elevada quantidade de dinheiro.
+Esses elementos denotam o profissionalismo da empreitada criminosa e que o apelante se dedica à atividade criminosa, inviabilizando o reconhecimento da benesse.
+Como se vê, a redutora foi negada pelo fato de as instâncias ordinárias terem entendido que o paciente se dedica a atividades criminosas, pois ele mesmo confessou que fazia do tráfico de drogas um meio de vida, tanto que recebia um valor fixo por mês mais comissão (fl. 325).
+Assim, para que fosse possível a revisão de tal fundamento, seria imprescindível o exame dos elementos fáticos da lide, circunstância inviável na estreita via do habeas corpus, que possui rito célere e cognição sumária.
+Com efeito, esta Corte entende que, concluído pelas instâncias de origem, com arrimo nos fatos da causa, que a paciente se dedicava a atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus (HC n. 425.408/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/5/2018).
+Assim, mantida a reprimenda em patamar superior a 4 anos de reclusão, não há falar em substituição da privativa de liberdade por restritivas de direitos (art. 44, I, do Código Penal).
+Deve ser mantido, ainda, o regime semiaberto para o início do cumprimento, nos termos do art. 33, § 2º, b, do Código Penal.
+Conclui-se, então, que a impetração não evidenciou ilegalidade manifesta no acórdão ora hostilizado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA A CONDUTA DE PORTE DE SUBSTÂNCIA ENTORPECENTE PARA CONSUMO PRÓPRIO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. TERCEIRA FASE. MINORANTE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. EXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
