@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. REANÁLISE DO RECURSO. ART. 1.040. JUIZO DE RETRATAÇÃO. MODIFICAÇÃO DA DECISÃO ANTERIOR. POSSIBILIDADE. OFENSA INEXISTE. MANUTENÇÃO DO ACÓRDÃO. HONORÁRIOS SUCUMBENCIAIS. PROVEITO INESTIMÁVEL. FIXAÇÃO POR EQUIDADE. POSSIBILIDADE. Por força do art. 1.040 do CPC, o órgão julgador pode exercer juízo de retratação, alterando o teor da decisão anteriormente exarada de modo a adequá-la a entendimento fixado em recurso repetitivo. Feita a análise e atestada a inexistência de ofensa a tese vinculativa fixada em sede de repetitivo, impõe-se a manutenção do posicionamento exteriorizado no acórdão vergastado. É possível a fixação por equidade de honorários sucumbenciais em ações em que o proveito econômico é inestimável.
+A parte agravante sustenta, em resumo, a necessidade de reforma do julgado estadual, sendo de rigor a anulação da cláusula de arbitragem, pois se trata de nulidade prima facie, por constituir cláusula "vazia", sem estipular o tribunal arbitral, tornando seu cumprimento impossível.
+Sem razão, contudo.
+A uma, porque incidem os enunciados 282 e 356 da Súmula do STF quanto ao tema da nulidade absoluta da cláusula "vazia", pois é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+A duas, porquanto, ainda que não houvesse falta de prequestionamento, conforme esta Corte já decidiu, a circunstância da ausência de previsão específica do árbitro, na cláusula compromissória, não enseja a sua nulidade, pois constitui hipótese expressamente prevista no art. 7º da Lei n. 9307/1996. Confira-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. SOCIETÁRIO. AÇÃO DE EXECUÇÃO ESPECÍFICA DE CLÁUSULA ARBITRAL (LEI 9.307/96). ACORDO DE ACIONISTAS. PREVISÃO DE SOLUÇÃO ALTERNATIVA DE CONFLITOS: RESOLUÇÃO POR MEDIAÇÃO OU ARBITRAGEM. COMPATIBILIDADE. CLÁUSULA COMPROMISSÓRIA (VAZIA). EXISTÊNCIA. FORÇA VINCULANTE. VALIDADE. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O convívio harmônico dos juízos arbitrais com os órgãos do Judiciário constitui ponto fundamental ao prestígio da arbitragem.
+Na escala de apoio do Judiciário à arbitragem, ressai como aspecto essencial o da execução específica da cláusula compromissória, sem a qual a convenção de arbitragem quedaria inócua.
+2. Não se pode ter como condição de existência da cláusula compromissória que a arbitragem seja a única via de resolução admitida pelas partes, para todos os litígios e em relação a todas as matérias.
+3. É válida, assim, a cláusula compromissória constante de acordo que excepcione ou reserve certas situações especiais a serem submetidas ao Judiciário, mormente quando essas demandem tutelas de urgência.
+4. Do mesmo modo, a referência à mediação como alternativa para a resolução de conflitos não torna a cláusula compromissória nula. Com efeito, firmada a cláusula compromissória, as partes não estão impedidas de realizar acordo ou conciliação, inclusive por mediação.
+5. Apenas questões sobre direitos disponíveis são passíveis de submissão à arbitragem. Então, só se submetem à arbitragem as matérias sobre as quais as partes possam livremente transacionar. Se podem transacionar, sempre poderão resolver seus conflitos por mediação ou por arbitragem, métodos de solução compatíveis.
+6. A ausência de maiores detalhes na previsão da mediação ou da arbitragem não invalida a deliberação originária dos contratantes, apenas traduz, em relação à segunda, cláusula arbitral "vazia", modalidade regular prevista no art. 7º da Lei 9.307/96.
+7. Recurso especial conhecido em parte e desprovido.
+(REsp n. 1.331.100/BA, relatora Ministra Maria Isabel Gallotti, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 17/12/2015, DJe de 22/2/2016.)
+Com efeito, a legislação de regência prevê expressamente procedimento judicial específico para suprir a lacuna do contrato, não havendo de se perquerir da nulidade da cláusula compromissória.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+Após, retornem os autos para o julgamento dos embargos declaratórios de fls. 2136/2139 e-STJ.
+EMENTA
