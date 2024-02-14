@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de CILAS PEREIRA DA SILVA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que denegou o pedido de liminar formulado no HC n. 5068838-11.2024.8.09.0011.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados nos arts. 158, 171 e 288 do Código Penal.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que há excesso de prazo para formação da culpa, pois o paciente encontra-se preso desde 07/11/2023 e, até o momento, o inquérito policial não foi concluído, tampouco foi ofertada denúncia.
+Acrescenta que "a marcha investigativa e processual está interrompida, desde 2020, unicamente pela não realização de diligências por parte da 7ª Delegacia de Polícia de Aparecida de Goiânia/GO" (fl. 8) e que "o Promotor de Justiça foi intimado acerca da prisão do acusado (mov. 58 dos autos originários), e ainda assim nada fez para que as informações investigativas fossem supridas para que a denúncia fosse oferecida em prazo de até 05 (cinco) dias" (fl. 10).
+Alega que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP, e que está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar.
+Por fim, defende que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requer, assim, liminarmente, o relaxamento da prisão cautelar ou sua revogação, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais. No mérito, pugna pela confirmação da liminar deferida.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+O mesmo se pode dizer em relação à fundamentação da segregação cautelar, tendo em vista a seguinte fundamentação, adotada na origem (fls. 131-132):
+Vejo que a prisão de Cilas Pereira da Silva foi decretada para garantia da ordem pública, precisamente por conta da reincidência específica e da gravidade dos fatos noticiados em que o investigado teria se passado por servidor público ameaçando lavrar multa em desfavor da vítima enquanto empresário. Ademais, já houve análise de pedido de revogação de prisão no evento 17, os quais integram a presente decisão como razões de decidir.
+De resto, reforço que as demais medidas cautelares não encarceradoras (CPP, art. 319) não se mostram suficientes para garantir o transcurso regular do feito, até por conta do lapso temporal que foi necessário para cumprimento da ordem de prisão.
+Em relação à contemporaneidade dos motivos que ensejaram a prisão preventiva, não há flagrante ilegalidade, pois, segundo julgados do STJ, seu exame leva em conta não apenas o tempo entre os fatos e a segregação processual, mas também a necessidade e a presença dos requisitos da prisão no momento da sua decretação, sendo que a gravidade concreta do delito impede o esgotamento do periculum libertatis apenas pelo decurso do tempo (AgRg no RHC n. 169.803/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/2/2023; AgRg no HC n. 707.562/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/3/2022; AgRg no HC n. 789.691/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/2/2023; AgRg no HC n. 775.563/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/12/2022; HC n. 741.498/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022).
+Quanto à alegação de excesso de prazo, sua análise não resulta de um critério aritmético, mas de juízo de razoabilidade sobre a marcha investigatória ou processual, feito a partir das circunstâncias do caso concreto, como a complexidade da causa e quaisquer outros fatores que possam influir na tramitação da ação penal ou do inquérito, e não só do tempo da prisão cautelar  AgRg no HC n. 750.520/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 9/3/2023; AgRg no RHC n. 172.681/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/3/2023; AgRg no HC n. 692.428/MG, relator Ministro Olindo Menezes (Desembargador convocado do Tribunal Regional Federal da 1ª Região), Sexta Turma, DJe de 11/10/2021 .
+Trata-se, por conseguinte, de matérias sensíveis, a exigir maior reflexão e exame aprofundado dos autos, sendo prudente aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
