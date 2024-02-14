@@ -1,0 +1,33 @@
+DECISÃO
+Vistos.
+Trata-se de Pedido de Uniformização de Interpretação de Lei formulado pelo ESTADO DE RONDÔNIA contra decisão prolatada pela Turma Recursal do Tribunal de Justiça do Estado de Rondônia, assim ementada (fl. 150e):
+DIREITO À SAÚDE. INTERNAÇÃO. PROCEDIMENTOS MÉDICOS. COMPROVAÇÃO DA NECESSIDADE. OBRIGAÇÃO DO ESTADO. RECURSO NÃO PROVIDO.
+Com amparo no art. 18, § 3º, da Lei n. 12.153/2009, o Requerente assevera que a decisão impugnada afrontou o disposto na Súmula n. 421 desta Corte, alegando, em síntese, não ser " ..  possível se entender que a autonomia financeira da Defensoria Pública possibilita a exigência de honorários do Estado de Rondônia, quando este é sucumbente" (fl. 189e).
+Sustenta, nesse sentido, que "inexiste previsão no Código de Processo Civil de honorários para a Defensoria Pública ou Defensores Públicos, eventual verba honorária é devida exclusivamente aos advogados, conforme preceitua o artigo 85 do CPC/15" (sic; fl. 191e).
+O Ministério Público Federal, manifestou-se, na qualidade de custos iuris, às fls. 205/209e.
+Feito breve relato, decido.
+Consoante os arts. 18, § 3º, e 19 da Lei n. 12.153/2009, compete a esta Corte apreciar pedido de uniformização de interpretação de lei federal, in verbis:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado p elo Tribunal de Justiça.
+ ..
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência (destaque meu).
+Com efeito, observo que o presente Pedido de Uniformização de Interpretação de Lei não pode ser conhecido, porquanto não cabível o incidente para discussão de matéria processual (no caso, condenação do Estado ao pagamento de honorários à Defensoria Pública Estadual).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI N. 12.153/2009. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA PROCESSUAL. AUSÊNCIA DE DIVERGÊNCIA, ENTRE TURMAS RECURSAIS QUANTO À QUESTÃO DE DIREITO MATERIAL. INEXISTÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS JULGADOS CONFRONTADOS. NÃO CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Agravo interno interposto contra decisão que não conheceu do presente pedido de uniformização de interpretação de lei, por se tratar o caso de discussão sobre matéria processual.
+2. Este pedido de uniformização de interpretação de lei, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, foi requerido pelo agravante, contra acórdão da Turma Recursal do Estado de Rondônia, e se reporta ao fundamento de divergência jurisprudencial, quanto à fixação de honorários advocatícios, em relação à Turma Recursal dos Juizados Especiais do Distrito Federal.
+3. Nos termos do art. 18, § 3º, da Lei 12.153/2009 e da jurisprudência deste STJ, o incidente de uniformização e interpretação de lei somente é cabível quando há divergência, entre Turmas Recursais, sobre questões de direito material, o que não ocorre, no caso. Nesse sentido: STJ, AgInt no PUIL 8/RO, Rel. Ministro Humberto Martins, Primeira Seção, DJe de 30/6/2016.
+4. Demais disso, na forma da jurisprudência da Primeira Seção do STJ, em caso idêntico, "não se conhece do pedido de uniformização de interpretação de lei, previsto no art. 18, § 3º, da Lei 12.153/2009, quando não há similitude fático-jurídica entre os acórdãos confrontados" (STJ, AgInt no PUIL 33/RO, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe de 21/09/2016). No caso, os acórdãos paradigmas, proferidos pela Turma Recursal do Distrito Federal, consignaram que "não tendo sido apresentadas contrarrazões ao recurso pela parte agravada  .. , não se mostra cabível a condenação ao pagamento de honorários de sucumbência". O acórdão impugnado, porém, não trata dessa moldura fática (existência ou não de contrarrazões), pelo que inexiste similitude fático-jurídica entre os acórdãos confrontados. Precedente: AgInt no PUIL 44/RO, Rel. Ministra Assusete Magalhães, Primeira Seção, julgado em 23/11/2016, DJe 29/11/2016.
+5. Agravo interno a que se nega provimento.
+(AgInt no PUIL 117/RO, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 10/05/2017, DJe 17/05/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI 12.153/2009. RAZOABILIDADE NA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE DIVERGÊNCIA, ENTRE AS TURMAS RECURSAIS, QUANTO À QUESTÃO DE DIREITO MATERIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A decisão agravada está em consonância com orientação desta Corte, segundo a qual, o cabimento do pedido de uniformização de interpretação de lei é possível apenas quando houver controvérsia sobre questões de direito material, bem como situações em que Turmas de diferentes Estados derem à lei federal interpretações divergentes ou a decisão proferida afrontar súmula deste Tribunal.
+III - A Agravante se insurge contra decisão de Turma Recursal sob a perspectiva de que os honorários advocatícios foram fixados de maneira desproporcional. Sendo assim, forçoso reconhecer a inadmissibilidade do pedido, porquanto trata-se de pedido concernente a matéria processual, qual seja, fixação de honorários advocatícios. Neste sentido, decisão proferida pelo Ministro Humberto Martins no PUIL 41/RO, DJe 15/4/2016.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt no PUIL 127/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 22/03/2017, DJe 27/03/2017).
+Posto isso, com base nos arts. 1º, § 2º, da Resolução STJ 10/2007 e 34, XVIII, do Regimento Interno desta Corte, INDEFIRO liminarmente o processamento do incidente.
+Publique-se. Intime-se.
+EMENTA
