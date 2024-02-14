@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de PAULO PEDRO DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo em execução. Falta grave. Provas seguras de materialidade e autoria. Palavras coerentes de Agentes Penitenciários. Versão exculpatória inverossímil. Tentativa de burla à vigilância caracterizada. Conduta prevista pelo art. 52 da Lei de Execução Penal. Responsabilização inevitável. Falta grave cometida. Perda de fração dos dias anteriormente remidos e reinício da contagem do lapso temporal para fins de progressão de regime que podem e devem ser decretadas. Agravo improvido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que não há provas suficientes em relação à autoria da falta grave.
+Alega, ainda, que não há prova em relação à materialidade da falta disciplinar, considerando que não foi realizado exame de corpo de delito, que seria imprescindível nos termos do art. 158 do CPP.
+Por fim, sustenta que não há previsão legal que tipifique a conduta imputada ao paciente como falta de natureza grave.
+Requer, em suma, a absolvição ou a desclassificação da falta disciplinar.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+A materialidade restou amplamente comprovada, conforme (i) comunicado de evento (f. 29) e (ii) fotografias(f. 31/34), comprovando o rompimento dos lacres do aparelho de televisão do sentenciado.
+A autoria também é certa.
+E isso se conclui à simples leitura dos depoimentos prestados pelos Agentes Penitenciários (i) Márcio (f. 47) e (ii) César (f. 48).
+ ..
+O agravante, por sua vez, nega os fatos imputados, afirmando que foi transferido de cela sem os seus pertences ou o seu televisor, dizendo que este foi esquecido no local, dizendo ainda que desconhece o rompimento dos lacres e que o aparelho não foi vistoriado na sua presença (f. 51).
+A negativa, porém, restou isolada nos autos, dês que os Agentes Penitenciários ouvidos foram categóricos ao apontá-lo como proprietário do televisor deixado na cela em que anteriormente habitava, asseverando, ainda, que os lacres do aparelho estavam rompidos.
+Assim, o agravante quer fazer crer, com a sua versão, que não tinha nenhuma relação com os fatos relatados pelos agentes de segurança penitenciária.
+Porém, não seria crível que o agravante, vivendo em ambiente fisicamente restrito e com acesso a poucos pertences, simplesmente "esquecesse" um televisor de 32 polegadas equipamento que, devidamente vistoriado por agentes públicos, apresentou seus lacres violados.
+Resta claro, portanto, que, descartada a hipótese de perfídia de terceiros, o agravante tentou burlar a vigilância da instituição prisional em que se encontrava descontando pena privativa de liberdade, rompendo os lacres inseridos pela unidade prisional no seu aparelho de televisão, a fim de evitar o acesso ao interior do aparelho.
+E tal fato - burlar a vigilância constitui conduta prevista pelo art. 52 da Lei de Execução Penal, caracterizando, assim, falta disciplinar de natureza grave, motivo pelo qual não assiste razão à defesa, que sustenta ainda a necessidade de desclassificação da conduta imputada ao agravante para falta disciplinar de natureza leve ou média
+Demais e no caso em questão, a conduta do sentenciado deve ser duramente reprimida, pois violou as regras básicas de comportamento carcerário, pondo em risco a disciplina prisional.
+Demonstra com isso, portanto, completo desrespeito pelas normas de convívio social (fls. 64-65).
+Nessa linha, para modificar a decisão de origem a fim de absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/9/2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 21/8/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023; AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 770.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/4/2023.
+Por fim, do que consta dos autos, a matéria relativa à ausência de prova da materialidade delitiva em razão da imprescindibilidade do exame de corpo de delito não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental provido. (AgRg no HC n. 796.267/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25/4/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS ANTECIPADAS E MONITORAMENTO ELETRÔNICO. SUPRESSÃO DE IN STÂNCIA. TUTELA COLETIVA NA VIA DO HABEAS CORPUS. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESPROVIMENTO DO AGRAVO.
+1. Inviável o exame por este Sodalício do pleito de saídas temporárias e monitoramento eletrônico, sob pena de indevida supressão de instância, uma vez que a tese não foi examinada pelo Colegiado a quo no acórdão atacado.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 766.081/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 28/3/2023.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/6/2023; RCD no HC n. 787.115/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9/3/2023; AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 6/3/2023.
+Ressalte-se, ainda, que mesmo tratando-se de questão de ordem pública, é inviável o seu conhecimento se não foi objeto de prévia deliberação pela instância de origem, segundo se extrai dos seguintes precedentes do STJ: AgRg no AREsp n. 2.160.511/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/9/2022; AgRg no HC n. 808.698/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 23/6/2023; AgRg no HC n. 743.121/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF1), Sexta Turma, DJe de 23/09/2022; AgRg no HC n. 789.067/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 19/5/2023; AgRg no HC n. 766.863/RJ, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 5/5/2023; AgRg no HC n. 805.449/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
