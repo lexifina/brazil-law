@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por IZAK ASAF DA SILVA DE BARROS contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (e-STJ fl. 272):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. ALEGADA OMISSÃO NO ACÓRDÃO. VÍCIO INEXISTENTE. OFERECIMENTO DE ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). TESE NÃO SUSCITADA NAS RAZÕES RECURSAIS. MANIFESTA INOVAÇÃO RECURSAL. ADEMAIS, SENTENÇA CONDENATÓRIA PROFERIDA E CONFIRMADA EM SEGUNDO GRAU DE JURISDIÇÃO. BENEFÍCIO QUE SOMENTE PODE SER OFERECIDO ATÉ O RECEBIMENTO DA DENÚNCIA. APLICAÇÃO RETROATIVA DA LEI MAIS BENÉFICA. DESCABIMENTO. AUSÊNCIA DE ILEGALIDADE QUE JUSTIFIQUE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. EMBARGOS NÃO CONHECIDOS.
+O agravante foi condenado à pena de 1 ano e 8 meses de reclusão no regime aberto, além do pagamento de 167 dias-multa, pela prática do crime previsto no art. art. 33, §4º, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 247-249).
+Os embargos de declaração opostos pelo ora agravante não foram conhecidos sob argumento de inovação recursal (e-STJ fls. 273-274).
+Nas razões do recurso especial, alega violação dos arts. 2º, parágrafo único, do Código Penal e 28-A do Código de Processo Penal, pois "considerando a desclassificação no momento da sentença do juízo de primeiro grau, com o reconhecimento da privilegiadora, caberia a oferta de ANPP, contudo, não foi oportunizado o oferecimento" (e-STJ fl. 289).
+Contrarrazões apresentadas às e-STJ fls. 300-306.
+O Tribunal a quo inadmitiu o apelo especial por intempestividade, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 320-334).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 371-375).
+É o relatório.
+Decido.
+O agravo é tempestivo e impugnou o fundamento da decisão recorrida, razão pela qual deve ser conhecido.
+Passo então para análise do Recurso Especial.
+O Recurso Especial. não foi conhecido por intempestividade de acordo com o fundamentado abaixo exposto (e-STJ fls. 310-311):
+1. De plano, adianta-se, o Recurso Especial não reúne as condições de ascender à Corte de destino.
+O prazo para interposição de Recursos Especial e Extraordinário, como se sabe, é comum de 15(quinze) dias, conforme disposição do art. 1.003, § 5º, do Código de Processo Civil, o qual deve ser computado deforma contínua e não se interrompe por férias, domingo ou feriado, por se tratar de matéria processual penal, nos termos do art. 798 do Código de Processo Penal, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado".
+Nesse sentido, mesmo com a vigência do novo Código de Processo Civil, a contagem do prazo em matéria processual penal continua observando as regras inseridas no art. 798 do Código de Processo Penal, e não aquelas previstas no art. 219 do Código de Processo Civil. Ou seja, a contagem de prazo em dias úteis (art. 219 do novo Código de Processo Civil) não se aplica ao apelo nobre interposto contra acórdão que trata de matéria penal, tendo em vista a existência de legislação própria e específica regulamentando o assunto, motivo pelo qual o cômputo do interregno para a interposição do reclamo especial é realizada em dias corridos.
+(..)
+Registre-se que o prazo assinalado pelo Eproc foi, de fato, o dia 22.08.2022, consoante se infere do Evento 27.
+Assim, não sendo conhecidos os aclaratórios, como no caso concreto, não há se falar em interrupção de prazo para a interposição do recurso.
+De acordo com a análise dos autos, concluo pela impossibilidade de exame em decorrência de intempestividade, mantendo a decisão agravada.
+No caso, o não conhecimento dos embargos de declaração não interrompe nem suspende o prazo para a interposição dos demais recursos.
+Pugnar pela manifestação, em sede de embargos declaratórios, de matéria não arguida nas razões recursais anteriormente levantadas é inovação não permitida nesta espécie recursal aclaratória. Portant o, quanto ao argumento de ausência de embargos de declaração manifestamente incabíveis, não assiste razão à defesa.
+  Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. 1. NÃO CONHECIMENTOS DOS SEGUNDOS EMBARGOS. INDEVIDA INOVAÇÃO RECURSAL. 2. PRAZO RECURSAL NÃO INTERROMPIDO NEM SUSPENSO. IMPOSSIBILIDADE DE CONHECIMENTO DA INSURGÊNCIA QUANTO ÀS PRIMEIRAS DECISÕES. 3. AGRAVO REGIMENTAL CONHECIDO EM PARTE E IMPROVIDO.
+1. Conforme explicitado na decisão agravada, em nenhum momento a decisão embargada pelo recorrente abriu espaço para as teses trazidas nos segundos embargos de declaração, de forma completamente inédita, motivo pelo qual se constatou não ser possível a utilização de segundos embargos. Com efeito, verificou-se que a análise pretendida pela defesa, além de se tratar de indevida inovação, demandaria reexame fático e probatório, o que não é possível, na via eleita.
+2. Mantido o não conhecimento dos segundos embargos de declaração, não é possível conhecer da insurgência contra a decisão que julgou o recurso especial e os primeiros embargos de declaração, uma vez que, como é de conhecimento, o recurso não conhecido não interrompe nem suspende o prazo para a interposição dos demais recursos.
+- De fato, "é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que os embargos de declaração, quando não conhecidos em razão de serem manifestamente protelatórios, não interrompem ou suspendem o prazo para interposição de outro recurso". (AgRg no AREsp n. 1.870.916/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/5/2022, DJe de 9/5/2022.) 3. Agravo regimental conhecido em parte e, nessa parte, improvido, mantendo, assim, a decisão que não conheceu dos segundos embargos.
+(AgRg nos EDcl nos EDcl no REsp n. 1.961.507/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.) - grifos acrescidos.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. DOSIMETRIA. QUANTUM DE AUMENTO DA PENA-BASE E DE DIMINUIÇÃO POR OCASIÃO DO AFASTAMENTO DE VETORES PELO TRIBUNAL A QUO. INOVAÇÃO RECURSAL. REPRIMENDA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Interposto recurso de apelação contra a sentença proferida pelo Tribunal do Júri, sob o fundamento de esta ser manifestamente contrária à prova dos autos, ao órgão recursal se permite apenas a realização de um juízo de constatação acerca da existência ou não de suporte probatório para a decisão tomada pelos jurados integrantes do Conselho de Sentença e somente se admite a cassação do veredicto se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo.
+2. No caso, uma vez que o acórdão apontou elementos dos autos a embasar a decisão dos jurados, concluir de forma diversa e retirar da condenação qualificadora prevista no art. 121, § 2º, IV, do CP, como quer a defesa, demandaria o reexame vertical do conteúdo probatório desenvolvido na ação penal, providência incabível em habeas corpus.
+3. A irresignação do agravante em relação ao quantum de aumento da pena-base e de diminuição dela - ante o afastamento das vetoriais pela Corte estadual - não foi aduzida na petição do habeas corpus.
+Tal situação impede o conhecimento da tese, dada a indevida inovação recursal.
+4. As circunstâncias do delito foram sopesadas em desfavor do réu porque o delito foi cometido em concurso com outro agente, em plena via pública, na presença de diversas pessoas, considerações que, conforme já explanado no decisum recorrido, segundo a jurisprudência do STJ, são aptas a motivar o incremento da sanção básica.
+Precedentes.
+5. Agravo regimental não provido.
+(AgRg no HC n. 603.561/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/3/2022, DJe de 22/3/2022.) - grifos acrescidos.
+Conforme fundamentado no parecer no Ministério Público (e-STJ fls. 371-375) o direito de ANPP está precluso, não cabendo também a alegação de necessário sobrestamento do presente recurso no que tange ao mencionado acordo.
+Como cediço, a parte tem o dever de alegar nulidades/omissões processuais no primeiro momento que houver a oportunidade de falar nos autos, sob pena de preclusão, não podendo suprir a ausência de alegação de tais nulidades não arguidas em apelação por meio de interposição de embargos declaratórios.
+Nessa direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP NÃO OFERECIDO PELO MINISTÉRIO PÚBLICO. DEFESA QUE MANTEVE-SE SILENTE SOBRE O INTERESSE EM CELEBRAR ACORDO ATÉ A CONFIRMAÇÃO DA CONDENAÇÃO EM SEDE DE APELAÇÃO. PRECLUSÃO. AGRAVO REGIMENTAL CONHECIDO E NÃO PROVIDO.
+1. O Ministério Público ao oferecer denúncia não ofereceu o ANPP por entender que faltava-lhe o requisito da confissão. A Defesa, por sua vez, manteve-se silente sobre o interesse de celebrar o acordo durante toda a instrução processual, nas alegações finais e nas razões de apelação, somente vindo a arguir a aludida nulidade em sede habeas corpus, após confirmada a condenação em segunda instância.
+2. O Tribunal de origem não divergiu da jurisprudência dominante no âmbito desta Corte Superior ao reconhecer a preclusão da suposta nulidade decorrente do não oferecimento do ANPP.
+3. Agravo regimental conhecido e não provido.
+(AgRg no HC n. 842.682/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.) - grifos acrescidos.
+Por fim, saliento que, "nos termos do art. 654, §2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 2.026.811/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022.) situação que não se verifica de plano na hipótese dos autos.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+ EMENTA
