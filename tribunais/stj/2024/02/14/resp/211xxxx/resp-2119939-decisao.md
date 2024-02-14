@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo, TRF da 5ª Região, assim ementado (fl. 01):
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. PROGRESSÃO FUNCIONAL POR MÉRITO. EFEITOS FINANCEIROS A CONTAR DO CUMPRIMENTO DO INTERSTÍCIO TEMPORAL. CABIMENTO. APELAÇÃO IMPROVIDA.
+1. Apelação interposta pela UFCG contra sentença proferida pelo Juiz da 4ª Vara Federal da SJPB que julgou procedente o pedido para determinar a ré considere que os efeitos das progressões funcionais do autor se deram a partir do momento em que efetivamente preenchidos os requisitos legais para progressão (27/09/2015), com o pagamento das diferenças daí resultantes, observada a prescrição quinquenal, bem como para que retifique os atos administrativos referentes à progressão, de modo a permitir que as demais sejam avaliadas a partir do novo interstício.
+2. A controvérsia objeto desta demanda diz respeito a marco inicial dos efeitos financeiros de progressão funcional na carreira do Magistério Federal, nos moldes da Lei nº 12.772/2012.
+3.No tocante a prescrição, a demanda versa acerca de prestações de trato sucessivo, sendo atingidas, portanto, as prestações vencidas antes do quinquênio anterior à propositura da ação.
+4. No que se refere à progressão, conforme observado pelo juiz de origem, a parte autora preencheu o requisito de "interstício de 24 (vinte e quatro) meses de efetivo exercício em cada nível". Por outro lado, a "aprovação em avaliação de desempenho", a ser promovida pela Administração Pública possui natureza de ato declaratório e não constitutivo, como defendido pela ré.
+5. Nesse contexto, a decisão administrativa que avalia o desempenho do servidor naquele período de 24 meses apenas valida fatos passados, já perfectibilizados, de modo que os efeitos financeiros devem ter como termo inicial o momento de adimplemento dos requisitos, ou seja, quando findo o período fixado em lei - e não a data da publicação do ato decisório.
+6.Vale frisar que, em 2016 foi acrescentado o art. 13-A à Lei n.º 12.772/2012: "O efeito financeiro da progressão e da promoção a que se refere o caput do art. 12 ocorrerá a partir da data em que o docente cumprir o interstício e os requisitos estabelecidos em lei para o desenvolvimento na carreira". Ainda que o primeiro período avaliado do autor (2013) seja anterior à alteração legislativa, a supracitada mudança deixa clara a natureza apenas declaratória do ato que avalia o desempenho do servidor. Precedente da Quarta Turma: 08027109120204058500, APELAÇÃO / REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO NETO, 4ª TURMA, JULGAMENTO: 11/05/2021.
+7. Apelação improvida. Fixação de honorários advocatícios recursais em 1% sobre os honorários arbitrados pelo juízo de primeiro grau, nos termos do art. 85, §11, do CPC.
+Embargos de declaração rejeitados.
+A parte recorrente indica violação do artigo 12 da Lei 12.772/2012, defendendo que "o termo inicial da progressão funcional deve dar-se na data do requerimento o qual no caso deu-se justamente em 03/10/2022 (fl. 08)
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 1.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Apesar da parte recorrente indicar a violação do artigo 12 da Lei 12.772/2021, o acórdão recorrido, para dirimir a controvérsia, baseou-se no dispositivo do artigo 13- A, do mesmo diploma legal.
+Confira-se o trecho do acórdão recorrido (fl. 3):
+Vale frisar que, em 2016 foi acrescentado o art. 13-A à Lei n.º 12.772/2012: "O efeito financeiro da progressão e da promoção a que se refere o caput do art. 12 ocorrerá a partir da data em que o docente cumprir o interstício e os requisitos estabelecidos em lei para o desenvolvimento na carreira". Ainda que o primeiro período avaliado do autor (2013) seja anterior à alteração legislativa, a supracitada mudança deixa clara a natureza apenas declaratória do ato que avalia o desempenho do servidor.
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. SERVIDOR PÚBLICO FEDERAL. PROGRESSÃO FUNCIONAL POR MÉRITO. EFEITOS FINANCEIROS A CONTAR DO CUMPRIMENTO DO INTERSTÍCIO TEMPORAL. ART. 13-A DA LEI N.º 12.772/2012. SÚMULA 283 DO STF. AUÊNCIA DE IMPUGNAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
