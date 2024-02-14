@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interno interposto por VIBRA ENERGIA S.A. contra decisão monocrática do Ministro Paulo de Tarso Sanseverino que conheceu do agravo para negar provimento ao recurso especial (fls. 701-707).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 492):
+Apelação Ação de obrigação de fazer - Distribuição de combustíveis - Equipamentos em comodato - Pedido de retirada de equipamentos instalados e fornecimento de novos equipamentos - Distribuidora que não atendeu ao pedido - Posto revendedor que providenciou a retirada no curso do processo - Outros pedidos - Falta de interesse processual não configurada - Possibilidade de conversão em indenização por perdas e danos - Responsabilidade da distribuidora - Sentença mantida. Os equipamentos foram cedidos em comodato, conforme a previsão contratual, logo, são de propriedade da requerida e não do autor, além de ela deter o monopólio da distribuição, ou seja, a responsabilidade do posto na condição de seu revendedor fica absorvida pela responsabilidade da distribuidora, que é objetiva. A natureza do contato de distribuição por si só, traduz esse aspecto. - A hipótese de conversão em perdas e danos, que é prevista pelo art. 499, do CPC, é perfeitamente aplicável ao caso sob exame. Os gastos nos limites da condenação devem ser comprovados pelo autor, em fase de liquidação de sentença, por ser a via adequada. Destaca-se que a própria sentença já determinou que a ré deve assumir os custos referentes à regularização do posto.
+Apelação da ré desprovida, com observação.
+Apelação do autor provida em parte.
+Rejeitados os embargos de declaração opostos (fls. 543-546).
+Nas razões do recurso interno, a agravante reitera a alegação de que houve violação dos arts. 489 e 1.022 do CPC, insistindo na argumentação de que (fl. 714):
+ ..  o acórdão foi completamente omisso quanto à alegação de que no contrato entabulado entre as partes, ficou estabelecido que toda e qualquer responsabilidade sobre os equipamentos entregues seriam do Agravado, o que inclui as licenças junto ao órgão ambiental CETESB (cláusulas 3.4 e seguintes, e cláusulas 16.1 e seguintes - fls. 51-65 dos autos de origem). Ou seja, sequer houve menção ou análise das cláusulas contratuais no acórdão.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 742-749).
+É, no essencial, o relatório.
+Após melhor análise dos autos, merece guarida a alegação de afronta ao art. 1.022 do CPC.
+Consoante se infere dos autos, a parte autora (Auto Posto Barbieri Ltda.), ora recorrida, manejou ação obrigacional com o objetivo de compelir a recorrente a "substituir todos os equipamentos da sua propriedade, cedidos em comodato, nos termos das exigências da CETESB" e que, "constatada a existência de passivo ambiental, que a ré assuma todos os custos com eventuais laudo complementares que forem necessários, bem como com procedimentos de remediação/descontam inação ambiental e futuro monitoramento deste" (fl. 293).
+O pleito foi julgado procedente pelo juízo sentenciante (fls. 293-296), entendimento esse mantido na apelação pelo Tribunal sob a alegação de que o contrato de comodato evidenciaria a propriedade dos bens por parte da recorrente, mas sem tecer uma única linha quanto à reiterada tese da recorrente de que as disposições do contrato de comodato estipularam a responsabilidade do recorrido sobre a manutenção e troca dos equipamentos e sua responsabilidade sobre eventuais danos ambientais.
+A natureza do contrato (comodato) não é sequer fato contradito pela recorrente, limitando-se sua irresignação à tese de que o contrato bilateral imputava o dever de manutenção dos bens por parte do comodatário e não do comodante, argumentação em nenhum momento analisada pelo Tribunal de origem.
+Não há esclarecimento no acórdão afastando a tese, seja porque inverídica a alegação, seja porque entendeu inválida. Nada consigna a origem no ponto.
+A leitura do acordo mais caminha no sentido de que as disposições do contrato não poderiam ser oponíveis as exigências da CETESB, mas disso se trata, até porque a bilateralidade do contrato poder tocar terceira pessoa é questão diversa.
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, inciso II, do CPC, e em face da questões suscitadas, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, reconsidero a decisão de fls. 701- 707 para conhecer do agravo e dar provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
