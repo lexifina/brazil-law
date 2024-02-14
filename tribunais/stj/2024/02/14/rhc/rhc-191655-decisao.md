@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DANIEL TEVAH, EDUARDO TEVAH e ISRAEL MARINS TEVAH contra acórdão da 7ª Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, no HC n. 5306183-13.2023.8.21.7000/RS, assim ementado:
+AGRAVO INTERNO. IRRESIGNAÇÃO CONTRA DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO HABEAS CORPUS, PELA INEXISTÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO DOS PACIENTES.
+No caso, inadequada a via eleita, qual seja, habeas corpus, para discutir eventual nulidade da decisão judicial que oportunizou ao Ministério Público o aditamento à denúncia, eis que inexistente risco à liberdade de locomoção do paciente, devendo a matéria ser deduzida na via própria. Decisão monocrática mantida.
+AGRAVO INTERNO DESPROVIDO. (e-STJ, fl. 80)
+Em seu arrazoado, os recorrentes alegam que o acórdão impugnado decidiu em desconformidade com a jurisprudência dos Tribunais Superiores. Apontam o cabimento do habeas corpus impetrado na origem e a necessidade de seu conhecimento.
+No mérito, apontam a incompetência da Justiça Estadual com a nulidade de todos os atos decisórios.
+Pugnam pelo conhecimento do HC n. 5306183-13.2023.8.21.7000/RS para que seja declarada a incompetência da Justiça Estadual
+Sem pedido liminar e sem contrarrazões, o Ministério Público opinou pelo desprovimento do recurso (e-STJ, fls. 135-139).
+É o relatório.
+Decido.
+Observa-se do teor do acórdão impugnado que a questão aqui trazida não foi alvo de cognição pela Corte estadual que entendeu pela inadequação da via eleita diante da inexistência de risco à liberdade de locomoção. Tal situação obsta o exame da matéria diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+No entanto, mesmo quando não conhecido o habeas corpus é imprescindível que a Corte de origem examine a pretensão para fins de verificação de eventual flagrante ilegalidade. Na hipótese, vislumbro negativa de prestação jurisdicional da Corte estadual.
+Na mesma linha:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. SOBERANIA DOS VEREDICTOS. POSSIBILIDADE DE DESCONSTITUIÇÃO EM REVISÃO CRIMINAL. ANTERIOR DECISÃO DENEGATÓRIA DE HABEAS CORPUS. AUSÊNCIA DE COISA JULGADA MATERIAL QUANTO AO MÉRITO DA CONDENAÇÃO. TESTEMUNHA OCULAR. FALSO TESTEMUNHO. AFERIÇÃO DO GRAU DE INFLUÊNCIA PARA CONDENAÇÃO. QUESTÕES NÃO EXAMINADAS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONSTRANGIMENTO ILEGAL CARACTERIZADO. AGRAVO REGIMENTAL PROVIDO. ORDEM PARCIALMENTE CONCEDIDA.
+1. No julgamento da revisão criminal, admite-se que o tribunal competente exerça juízo rescindente e/ou juízo rescisório, reformando sentença condenatória contaminada por erro judiciário.
+2. A condenação imposta pelo tribunal do júri é passível de desconstituição mediante revisão criminal, não cabendo invocar a cláusula constitucional da soberania dos veredictos para obstar seu conhecimento.
+3. Não obsta o conhecimento da revisão criminal o anterior enfrentamento pelos tribunais superiores, em habeas corpus, das questões arguidas pelo revisionando, pois a decisão denegatória não faz coisa julgada material quanto ao mérito da condenação.
+4. Não são requisitos de admissibilidade da revisão criminal o prequestionamento ou o prévio esgotamento das instâncias ordinárias, sendo suficiente o trânsito em julgado da sentença condenatória ou absolutória imprópria.
+5. A alteração substancial do depoimento de testemunha ouvida no curso da ação penal autoriza o conhecimento de ação revisional por configurar prova nova.
+6. Caracterizada a indevida negativa de prestação jurisdicional, é necessária a análise da matéria no tribunal antecedente.
+7. Agravo regimental provido para conceder parcialmente a ordem.
+(AgRg no HC n. 649.517/GO, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022; grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. SUPERAÇÃO. IMPOSSIBILIDADE. DESENVOLVIMENTO CLANDESTINO DE ATIVIDADE DE TELECOMUNICAÇÃO. ART. 183 DA LEI N. 9.472/1997. TRANCAMENTO DO PROCESSO. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE TERATOLOGIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PROCESSO ARQUIVADO SEM JULGAMENTO DO MÉRITO. FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+2. O trancamento prematuro de persecução penal, pela via do habeas corpus, é providência excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de apreciação probatória, a absoluta falta de justa causa, a atipicidade da conduta, a extinção da punibilidade ou a inépcia formal da denúncia - fatores que não se adequam ao caso em comento.
+3. O delito imputado ao agente é o do art. 183 da Lei n. 9.472/1997 - desenvolvimento clandestino de atividade de telecomunicação. A jurisprudência do STJ reconhece que se trata de norma penal em branco, a ser integrada pelo art. 184, parágrafo único, do mesmo diploma legal, que caracteriza como clandestino o serviço explorado sem que tenha havido concessão, permissão ou autorização pelo órgão competente.
+4. Na espécie, o órgão acusatório expôs adequadamente o fato criminoso, com as circunstâncias de tempo e lugar da conduta, bem como com as elementares do delito - desenvolvimento clandestino e habitual de atividade de telecomunicação -, a qualificação do acusado e o tipo penal. Por tais razões, mantém-se a decisão agravada, que não reconheceu manifesta ilegalidade apta a ensejar o trancamento do processo.
+5. Após o indeferimento da liminar pelo Desembargador relator e sem que o mérito do writ fosse apreciado pelo órgão colegiado, certificou-se o trânsito em julgado da decisão e arquivaram-se os autos. Desse modo, embora não acolhidos os pleitos formulados na inicial, deve ser concedido habeas corpus de ofício ao agravante, ante a constatação de teratologia consistente na negativa de prestação jurisdicional ao acusado.
+6. Agravo regimental não provido. Habeas corpus concedido de ofício para que o Tribunal de origem aprecie o mérito do mandamus lá impetrado.
+(AgRg no HC n. 633.153/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/2/2021, DJe de 1/3/2021; grifou-se.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO DE AGRAVO REGIMENTAL. NOVO CRIME NO CURSO DO LIVRAMENTO CONDICIONAL. SUSPENSÃO APÓS TÉRMINO DO PERÍODO DE PROVA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - Firmou-se nesta Corte, nos termos do entendimento manifestado pela Primeira Turma do col. Pretório Excelso, orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - O eg. Tribunal a quo não se manifestou sobre a questão ora suscitada, de modo que fica impedida esta Corte Superior de proceder à sua análise.
+III - Configurada, entretanto, a indevida negativa de prestação jurisdicional, necessária a análise meritória pelo eg. Tribunal de origem. Habeas corpus não conhecido. Ordem concedida, de ofício. Retorno ao eg. Tribunal a quo para julgar como entender de direito.
+(HC 490.997/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/4/2019, DJe 15/4/2019; grifou-se.)
+Ante o exposto, dou provimento ao recurso em habeas corpus para determinar que o Tribunal de origem analise a questão suscitada pelo impetrante no HC n. 5306183-13.2023.8.21.7000/RS, a justificar a concessão da ordem, ainda que de ofício.
+Comunique-se, com urgência, ao Juízo de 1º grau e ao Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
