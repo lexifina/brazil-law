@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. NULIDADE. FALTA DE FUNDAMENTAÇÃO DA SENTENÇA QUANTO À FIXAÇÃO DA PENA SUBSTITUTIVA. MATÉRIA NÃO DEBATIDA NA ORIGEM. VÍCIO NÃO ALEGADO. NULIDADE DE ALGIBEIRA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Os temas trazidos a exame nesta impetração não foram debatidos pelo Tribunal a quo, inviabilizando sua apreciação diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Verifica-se que o alegado vício  embora seja do conhecimento da defesa técnica desde 2021, quando a sentença condenatória foi proferida pelo Juízo de Primeiro Grau, somente agora, em sede de habeas corpus foi trazido à baila, caracterizando aquilo que a doutrina denomina nulidade de algibeira. Esse procedimento é incompatível com o princípio da boa-fé, que norteia o sistema processual vigente, exigindo lealdade e cooperação de todos os sujeitos envolvidos na relação jurídico-processual.
+3. Agravo regimental não provido.
+RELATÓRIO
+ANDERSON APARECIDO LOPES interpôs agravo regimental contra decisão que negou seguimento ao habeas corpus substitutivo de recurso especial impetrado em razão de acórdão do Tribunal de Justiça do Estado de Minas Gerais, proferido no julgamento dos Embargos de Declaração na Apelação Criminal n. 0073708-95.2019.8.13.0223.
+Em suas razões, a defesa reitera que a decisão padece de vício de falta de fundamentação juridicamente idônea naquilo que se refere à conversão da pena corporal em prestação pecuniária. No entender da defesa, a fixação em patamar superior ao mínimo legal não foi precedida da exposição de razões fáticas e jurídicas aptas a amparar a quantificação da reprimenda. Trata-se, pois, de nulidade absoluta, cuja mácula há de ser reconhecida e decretada de ofício pelo juiz ou pelo Tribunal.
+Diante disso, requer o provimento deste agravo para reconhecer o vício indicado e declarar nula a sentença condenatória no ponto relativo à conversão da pena corporal em sanção pecuniária.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. NULIDADE. FALTA DE FUNDAMENTAÇÃO DA SENTENÇA QUANTO À FIXAÇÃO DA PENA SUBSTITUTIVA. MATÉRIA NÃO DEBATIDA NA ORIGEM. VÍCIO NÃO ALEGADO. NULIDADE DE ALGIBEIRA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Os temas trazidos a exame nesta impetração não foram debatidos pelo Tribunal a quo, inviabilizando sua apreciação diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Verifica-se que o alegado vício  embora seja do conhecimento da defesa técnica desde 2021, quando a sentença condenatória foi proferida pelo Juízo de Primeiro Grau, somente agora, em sede de habeas corpus foi trazido à baila, caracterizando aquilo que a doutrina denomina nulidade de algibeira. Esse procedimento é incompatível com o princípio da boa-fé, que norteia o sistema processual vigente, exigindo lealdade e cooperação de todos os sujeitos envolvidos na relação jurídico-processual.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil, art. 3º do Código de Processo Penal e art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+Quanto ao mérito, contudo, as pretensões do agravante não merecem prosperar, devendo ser mantida a decisão monocrática.
+Conforme se extrai do caderno processual, o agravante, na qualidade de sócio-administrador da empresa Anderson Aparecido Lopes deixou de recolher o Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual, Intermunicipal e de Comunicação (ICMS) durante os exercícios de 2013 e 2015, causando um prejuízo da ordem de R$ 9 milhões.
+Encerrada a fase instrutória, o acusado foi condenado a 2 (dois) anos e 4 (quatro) meses de reclusão, em regime aberto, mais 11 (onze) dias-multa. A pena corporal foi substituída por multa, da ordem de 10 (dez) salários-mínimos, além de limitação de fim de semana. A sentença foi integralmente mantida pelo Tribunal de origem, que negou provimento ao recurso de apelação (e-STJ, fls. 8-20) e rejeitou os embargos opostos contra o acórdão (e-STJ, fls. 21-28).
+Em primeiro lugar, o tema relativo à suposta falta de fundamentação da decisão quanto ao valor da sanção pecuniária não foi objeto de prévia discussão pelas instâncias antecedentes, de maneira que o seu conhecimento e apreciação diretamente pelo Superior Tribunal de Justiça, em sede mandamental mostra-se inviável, sob pena de indevida supressão de instância.
+Destaco que matéria não apreciada pelo Tribunal de origem, inviabiliza a análise por esta Corte sob pena de indevida supressão de instância, mesmo em caso de suposta nulidade absoluta (AgRg nos EDcl no HC n. 692.704/SC, Relator Ministro Jesuíno Rissato  Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+De mais a mais, verifica-se que o alegado vício  embora seja do conhecimento da defesa técnica desde 2021, quando a sentença condenatória foi proferida pelo Juízo de Primeiro Grau, somente agora, em sede de habeas corpus foi trazido aos autos.
+Ocorre que esta é uma prática não admitida pelo ordenamento jurídico, que não tolera a chamada nulidade de algibeira, qual seja, aquela que, tão logo possa ser levada a conhecimento da autoridade judiciária, deixa de ser alegada pela parte interessada, como estratégia, numa perspectiva de melhor conveniência futura. Ao proceder dessa maneira, viola-se o princípio da boa-fé objetiva que norteia o sistema processual vigente, que se baseia na lealdade e cooperação dos sujeitos envolvidos na relação jurídico-processual.
+Ilustrativamente, cito:
+Habeas Corpus. 2. Alegação de nulidade decorrente da falta de intimação pessoal do Defensor Público para a sessão de julgamento da apelação. Não ocorrência. 3. Inércia da defesa. Nulidade arguida somente após o julgamento do segundo Júri, transcorrido 1 ano e 6 meses do julgamento da apelação. Precedentes. 4. Ordem denegada. (HC 105041, Rel. Min. GILMAR MENDES, Segunda Turma, julgado em 13/9/2011, Processo Eletrônico DJe-163 Divulg 20/8/2013 Public 21/8/2013)
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou na legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Assim, diante das razoes apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
