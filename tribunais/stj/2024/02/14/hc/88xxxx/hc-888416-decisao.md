@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de THIAGO GALDINO RODRIGUES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado:
+HABEAS CORPUS - EXECUÇÃO PENAL - PEDIDO DE PRISÃO DOMICILIAR - PACIENTE CONDENADO PELA PRÁTICA DE CRIMES DE TRÁFICO DE DROGAS FOGO, (DUAS USO VEZES), POSSE DE ARMA DE DE DOCUMENTO FALSIFICADO E ROUBO MAJORADO - ALEGAÇÃO DE NECESSIDADE DE PRISÃO DOMICILIAR PARA TRATAMENTO DE PATOLOGIAS DECORRENTES DE OBESIDADE, DIABETES LAUDOS E HIPERTENSÃO ARTERIAL - MÉDICOS INDICANDO A NECESSIDADE DE TRATAMENTO MEDICAMENTOSO COM ACOMPANHAMENTO E NUTRICIONISTA POR ENDOCRINOLOGISTA - NÃO DEMONSTRADA A INVIABILIDADE DO TRATAMENTO NA UNIDADE PRISIONAL. PACIENTE QUE JÁ DESCUMPRIU AS CONDIÇÕES DE PRISÃO DOMICILIAR ANTERIOR, PERMANECENDO FORAGIDO DESDE O ANO DE 2021 ATÉ AGOSTO DE 2023 - INEXISTÊNCIA DE FUNDAMENTOS PARA A CONCESSÃO DO PEDIDO DE PRISÃO DOMICILIAR - ORDEM DE HABEAS CORPUS DENEGADA.
+Em suas razões, sustenta o impetrante a ocorrênc ia de constrangimento ilegal, uma vez que o paciente, por possuir doenças graves, deve ter assegurado o direito ao cumprimento da pena em prisão domiciliar para evitar o agravamento do seu estado de saúde.
+Alega que a unidade prisional em que se encontra recolhido não possui condições de oportunizar o tratamento adequado ao paciente.
+Requer, em suma, a concessão da prisão domiciliar humanitária.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+De igual forma, deve ser registrado também neste voto que o entendimento assente na jurisprudência dos Tribunais Superiores, acerca da possibilidade de extensão do benefício da prisão domiciliar, de forma excepcionalíssima, ao preso que cumpre pena nos regimes fechado e semiaberto, ainda que a previsão legal seja específica para os casos de cumprimento de pena em regime aberto, é no sentido de que deve ser comprovada a impossibilidade de tratamento no sistema prisional, vejamos os precedentes:
+ ..
+De acordo com os relatórios acostados às pp. 34, 36 e 37, os médicos especialistas relatam que o paciente detém complicações próprias do seu quadro clínico de obesidade grau III, tais como diabetes, hipertensão e dislipidemia, entretanto, em todos os relatórios a recomendação é de que o tratamento se dê, de forma geral, com o uso de medicamentos, atentando para as orientações dietéticas destinadas ao controle e melhora das referidas comorbidades, bem como o acompanhamento por endocrinologista e nutricionista, o que, no meu sentir, não é incompatível com "o cárcere ou impassível de ser oferecido pelo Estado".
+De mais a mais, destaco que o impetrante busca incessantemente o deferimento da prisão domiciliar do paciente, sob o argumento de que na unidade prisional não tem disponibilizado os cuidados médicos de que necessita.
+Todavia, a defesa não aponta qual o tratamento que o Estado estaria se negando a prestar ao paciente e nem a impossibilidade de realização no local em que está cumprindo a pena.
+Nesse toar, analisado o manancial probatório coligido neste writ, tem-se que o tratamento ao qual deve ser submetido o paciente pode ser fornecido na unidade prisional.
+ ..
+Não bastasse isso, compulsando os autos, é imperioso reconhecer a impossibilidade de concessão da prisão domiciliar no caso dos autos, pois o paciente, outrora, quando lhe foi conferido o mesmo beneficio (prisão domiciliar acompanhada com monitoramento eletrônico), descumpriu com as condições da domiciliar e tentou frustrar o cumprimento da pena, permanecendo foragido do ano de 2021 até agosto de 2023, conforme bem apontado pelo Juízo Plantonista, senão vejamos:
+ ..
+Por fim, quanto à impossibilidade do tratamento necessário ser oferecido na unidade prisional e a razão existência de risco à saúde do apenado, em de fatores como "dificuldade do local e logística de acompanhamento multidisciplinar" apontados no laudo médico de p. 34, entendo que devem ser avaliados com cautela, pois não demonstram, sob qualquer prisma, a inexistência de condições para o oferecimento do tratamento recomendado no estabelecimento prisional e, mais ainda, não representa o posicionamento oficial da direção da referida unidade.
+ ..
+Nesse contexto, mesmo no período que o paciente não estava segregado, portanto, não submetido aos cuidados do aparato médico de unidade prisional, não foi demonstrada a evolução de seu quadro clínico (fls. 212-221).
+Segundo entendimento firmado nesta Corte, a prisão domiciliar humanitária poderá ser concedida ao apenado desde que comprovado que está acometido de moléstia grave e que no estabelecimento penal não há a assistência médica necessária ao tratamento adequado de sua saúde, o que não é o caso dos autos segundo se extrai do trecho acima transcrito.
+Ademais, para afastar os fundamentos adotados na origem para justificar o indeferimento do pedido de prisão domiciliar seria necessário o revolvimento fático-probatório dos autos, o que não é cabível na via estreita do habeas corpus.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. GRAVE ESTADO DE SAÚDE E INEXISTÊNCIA DE TRATAMENTO ADEQUADO NA UNIDADE PRISIONAL. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 801.974/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. APENADO FORAGIDO. IDOSO. DOENÇA. COVID-19. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante encontra-se foragido, não tendo sequer dado início ao cumprimento da pena no regime semiaberto, cuja alegada ausência de vaga não fora comprovada nos autos.
+2. A idade avançada e as doenças apresentadas pelo agravante não autorizam a concessão automática da prisão domiciliar, devendo ser levado em consideração diversos aspectos relacionados ao apenado, à pena, à situação de risco e às medidas tomadas pelo poder público.
+3. Inexiste flagrante ilegalidade no indeferimento do pedido de prisão domiciliar pelo juízo da execução penal, o qual possui maiores condições de avaliar a real urgência e imprescindibilidade da medida em questão, ressaltando-se, ainda, a impossibilidade de reexame aprofundado do conjunto fático-probatório em habeas corpus.
+4. O agravante foi condenado por delito hediondo, atraindo a incidência do art. 5-A da Recomendação n. 62/2020 do CNJ.
+5. Agravo regimental desprovido. (AgRg no HC n. 800.902/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
