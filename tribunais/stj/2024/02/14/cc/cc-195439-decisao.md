@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, conflito negativo de competência suscitado pelo JUIZ DA VARA DO TRABALHO DE CURVELO/MG, em face do JUIZ DE DIREITO DA VARA ÚNICA DE BUENÓPOLIS/MG.
+A ação foi proposta por NERCI ROZA DA COSTA contra o MUNICÍPIO DE JOAQUIM FELÍCIO, perante à Justiça Estadual, que declinou da competência.
+O JUIZ DA VARA DO TRABALHO DE CURVELO/MG, por sua vez, declarou-se incompetente e suscitou o presente conflito negativo de competência, afirmando que "o contrato de trabalho da impetrante encontra-se às fls. 35/36, o qual faz remissão ao Edital 03/2017, que trata do regime jurídico estatutário daqueles a serem contratados" (e-STJ fl. 315).
+Parecer do Ministério Público Federal às fls. 323-325 e-STJ.
+É o relatório. Decido.
+Presentes os pressupostos de admissibilidade, conheço do conflito de competência, nos termos do art. 105, I, "d", da Constituição Federal. Verifico a possibilidade de julgar o conflito de competência em epígrafe, de plano e monocraticamente, com fulcro no art. 955, parágrafo único, II, do Código de Processo Civil, e no art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, considerando que o Relator pode "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+No caso em exame, a impetrante foi contratada, após processo seletivo, pelo Município de Joaquim Felício/MG, sob o regime estatutário, para exercer o cargo de agente comunitário de saúde.
+Apreciando hipótese semelhante à presente, este STJ assim se manifestou:
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA ENTRE JUSTIÇA DO TRABALHO E JUSTIÇA COMUM. AÇÃO BUSCANDO A NULIDADE DA CONTRATAÇÃO PELO REGIME ESTATUTÁRIO. RELAÇÃO ENTRE SERVIDOR E ENTE DE DIREITO PÚBLICO INTERNO. NATUREZA JURÍDICO-ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM.
+(..).
+IV - A jurisprudência desta Corte, acompanhando o STF, no sentido de que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (estadual ou Federal).
+V - A Justiça Comum é também competente para deliberar acerca da validade da norma local que cria ou modifica regime jurídico de natureza estatutária para os servidores públicos.
+VI - Esta Corte Superior firmou entendimento no sentido de que a Justiça do Trabalho é incompetente para apreciar os feitos em que se questionam os critérios utilizados na seleção e admissão de pessoal nos quadros de entidade parceira do Poder Público, mesmo que a contratação se dê nos moldes da Consolidação das Leis do Trabalho, porquanto tal matéria diz respeito à fase pré-admissional, na qual não há falar em relação de trabalho propriamente dita, nos termos do art. 114 da Constituição federal, com redação dada pela EC n. 45/2004.
+VII - Agravo interno desprovido.
+(AgInt no CC n. 194.853/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 31/10/2023, DJe de 7/11/2023.)
+Isso posto, com fulcro no art. 34, XXII, do RISTJ, ACOLHO O CONFLITO DE COMPETÊNCIA e declaro competente para apreciar e julgar a demanda em questão o JUIZ DE DIREITO DA VARA ÚNICA DE BUENÓPOLIS/MG.
+Nos termos do art. 64, §4º, do Código de Processo Civil, as decisões proferidas pelo Juízo incompetente devem ser preservadas até que outra seja proferida, se for o caso, pelo juízo competente.
+Publique-se e comunique-se
+EMENTA
