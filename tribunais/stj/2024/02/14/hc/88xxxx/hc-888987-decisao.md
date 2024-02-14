@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO ÍTALO DE CASTRO VIEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado do Maranhão (APC 227/2018).
+Consta dos autos que o paciente foi condenado como incurso no art. art. 157, §2º I, II e IV c/c art. 158, §1º e 3º e art. 288 caput, todos do CP, à pena de 15 anos de reclusão, em regime fechado. Irresignada, a defesa interpôs recurso de apelação, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 8):
+EMENTA: APELAÇÃO CRIMINAL. PENAL. PROCESSUAL PENAL. A AUTORIA E MATERIALIDADE DELITIVA COMPROVADAS. PROVAS COLIGIDAS AOS AUTOS ELEMENTOS COLIGIDOS NÃO SERVEM DE EFICIENTE ARRIMO PARA A SENTENÇA SER MODIFICADA. RECURSO CONHECIDO E NO MÉRITO IMPROVIDO.
+No presente mandamus, a defesa aduz, em síntese, que há bis in idem na condenação do paciente por roubo majorado pela restrição da liberdade da vítima e por extorsão qualificada pela restrição da liberdade da vítima. Afirma que a mesma conduta criminosa não pode fazer incidir os dois tipos penais, devendo o paciente ser condenado por apenas um deles.
+Pugna, liminarmente e no mérito, pela condenação do paciente em apenas um dos tipos penais antes mencionados. Em caso de ser mantida a condenação por ambos os tipos, que seja desqualificado o crime de extorsão qualificada pela restrição da liberdade da vítima para extorsão simples (art. 158 caput), subsidiariamente, que seja afastada a causa de aumento de pena do inciso "V" do crime de roubo majorado já que o fato da "restrição da liberdade da vítima" foi utilizado para qualificar o delito de extorsão (e-STJ fl. 7).
+É o relatório. Decido.
+De plano, destaca-se que o presente habeas corpus não merece prosseguimento.
+As alegações defensivas não foram previamente submetidas ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Efetivamente, extrai-se do acórdão impugnado que na apelação criminal a defesa sustenta inexistir provas da autoria e materialidade delitivas: alternativamente busca a redução da pena e ainda a exclusão da majorante do uso de arma de fogo em razão da ausência de perícia no armamento (e-STJ fl. 9).
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023 )
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
