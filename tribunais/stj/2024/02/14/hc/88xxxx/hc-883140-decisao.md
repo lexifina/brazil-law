@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDERSON JOSE SANTANA DE DEUS em que se aponta como autoridade coatora o JUÍZO DA 1ª VARA DO JUIZADO ESPECIAL ADJUNTO CRIMINAL DA COMARCA DE ANGRAS DOS REIS - RJ.
+Consta dos autos que o paciente foi preso preventivamente em 20/12/2023, pelo suposto descumprimento de medida protetiva.
+O impetrante sustenta que o decreto constritivo seria carente de fundamentação, pois estaria lastreado somente na gravidade abstrata do delito e, além disso, faltariam os requisitos autorizadores da prisão preventiva estabelecidos no art. 312 do Código de Processo Penal.
+Alega, também, que o paciente ostentaria condições pessoais favoráveis, residência fixa e ocupação lícita e firmaria o compromisso de comparecimento ao juízo em caso de concessão de medida cautelar diversa da prisão.
+Requer, liminarmente e no mérito, o deferimento da liberdade provisória em favor do paciente.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público
+Federal pela extinção do writ sem resolução do mérito.
+É o relatório. Decido.
+Ao que se extrai da peça inaugural, o presente habeas corpus foi impetrado em razão de decisão de primeiro grau.
+Nessa toada, considerando-se que a irresignação do paciente nem sequer foi apreciada pelo Tribunal de origem, fica obstada a análise da impetração pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+O art. 105, I, "c", da Constituição da República dispõe que compete a este Tribunal Superior processar e julgar habeas corpus quando o coator for tribunal sujeito à sua jurisdição.
+Com efeito, não se submete à competência desta Corte o exame de habeas corpus impetrado ante ato praticado por juiz de primeiro grau. A propósito, confiram-se os precedentes:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PORTE ILEGAL DE ARMA DE FOGO. PLEITO DE PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. FIXAÇÃO DE REGIME ABERTO. INVIABILIDADE. DOSIMETRIA DA PENA. MAUS ANTECEDENTES E REINCIDÊNCIA ESPECÍFICA. REGIME INICIAL FECHADO. SALVO CONDUTO. AUSÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO. PEDIDO NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja recomendável a concessão da ordem de ofício.
+II - O pleito de substituição da prisão pela modalidade domiciliar não foi objeto de análise pelo eg. Tribunal a quo, o que obsta a apreciação da matéria nesta Corte sob pena de indevida supressão de instância. .. Habeas corpus não conhecido. (HC 355.560/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 2/8/2016, DJe 12/8/2016.)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ. .. 2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.5. Embargos de declaração rejeitados. (EDcl no HC 230.583/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
