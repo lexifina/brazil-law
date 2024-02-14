@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar ,  impetrado  em  favor  de RAFAEL BERTTI LANCHONI em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  (HC nº 2022.0000455253).
+Cumpre ressaltar inicialmente que o habeas corpus sob análise carece de devida instrução. Não há documentos colacionados aos autos o v. acórdão ao qual se refere o impetrante como sendo o fundamento da ilegalidade supostamente ocorrida na espécie. Observe-se que a decisão colacionada às fls. 459-462 do Sistema Justiça sequer tangencia o tema ora em debate, qual seja, a questão da prescrição da pretensão executória da pena, conforme pedido realizado ao final do HC (e-STJ. fl. 11).
+Peço vênia para transcrever trecho da inicial do Writ (e- STJ fl. 9):
+"O prazo prescricional deve ser contado da consumação do delito, e não da eventual reiteração de seus efeitos.
+Também não há como se entender que constitui novo crime a omissão do réu em corrigir informação falsa por ele inserida em documento público quando teve oportunidade para tanto.
+Nesta conclusão, restou que, ultrapassou o prazo para o Estado punir, a única conclusão que se alcança seria pelo reconhecimento da causa extintiva da punibilidade, uma vez que demonstrado que o decreto condenatório imputa a prática do crime de falsidade ideológica ano de 2008, de modo que deve ser reconhecida a prescrição da pretensão punitiva."
+É de se notar que o v. acórdão colacionado às fls. 569-571 se refere a "embargos de declaração opostos pela Defensoria, investindo-se contra o V. Acórdão de fls. 1002/1006,alegando omissão e contradição referente ao parecer da Douta Procuradoria de Justiça que se manifestou pelo provimento parcial do recurso de apelação defensivo para modificação do regime fixado na r. sentença recorrida."
+Destaco ainda que, em um esforço em favor da compreensão do caso, é possível presumir pela peça inicial do habeas corpus (e-STJ fl. 3-11) que o impetrante busca reagitar questões diversa s sobre a condenação do paciente. Entretanto, não trouxe aos autos a acórdão que alega haver sido julgado no Tribunal de origem, o que obsta a compreensão do fato a luz dos argumentos lançados e se de fato houve manifestação do colegiado sobre os temas objeto do presente writ.
+Sobre a liminar, requer seja concedida para que seja "expedido contramandado de prisão" até o julgamento do mérito.
+Ao final, requer "Diante do exposto, resta induvidoso que o paciente está sofrendo constrangimento ilegal por ato da autoridade coatora, circunstância "contra legem" que deve ser remediada por esse Bandeirante Tribunal. Isto posto, com base no artigo 5º, LXVII, da Constituição Federal de 1988 e 647 do CPP, requer, o impetrante digne-se Vossa Excelência, deferir o pleito liminar para declarar a prescrição da pretensão punitiva e, via de consequência, declarada extinta a punibilidade do Paciente."
+É  o  relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A deficiência da instrução do presente HC obsta a análise de qualquer ilegalidade na r. decisão guerreada, proferida pelo Tribunal de Justiça do Estado de São Paulo.
+De fato, nem os documentos, e nem os argumentos deduzidos na peça são capazes de transmitir corretamente os fatos para compreensão do julgador, ou sequer presumir a ocorrência de ilegalidade apta a atrair a atuação deste Superior Tribunal de Justiça.
+Não se constata vício a ser sanado, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois deverão ser alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se
+EMENTA
