@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por Aymoré Crédito, Financiamento e Investimento S/A, no qual se alega violação do art. 2º, § 2º, do Decreto-Lei n. 911/1969, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 132):
+AGRAVO INTERNO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. TEM-SE QUE NÃO MERECE ACOLHIDA A INSURGÊNCIA RECURSAL DO AGRAVANTE, UMA VEZ QUE A DECISÃO PROFLIGADA EMBASOU-SE EM PRECEDENTES JURISPRUDENCIAIS JULGADOS PELA SISTEMÁTICA DOS RECURSOS REPETITIVOS - ART. 927 DO CPC. REEDIÇÃO DE ARGUMENTAÇÃO JURÍDICA. AGRAVO INTERNO DESPROVIDO.
+Sustenta, em síntese, a validade da notificação enviada ao endereço do devedor constante do contrato.
+Afirma que o devedor foi regularmente constituído em mora.
+Assim posta a questão, passo a decidir.
+Observo que o Tribunal de origem manteve a sentença, que julgou extinta a ação de busca e apreensão em razão da ausência de notificação regular do devedor em mora, conforme os seguintes fundamentos (fl. 130):
+(..) Oportuno consignar que a decisão apelada bem apanhou as circunstâncias que conduziram ao reconhecimento de que não há, no caso posto, notificação extrajudicial válida e regular do devedor, razão pela qual este não foi constituído em mora - remeto-me, no ponto, ao teor do sumulado, verbete 72, STJ.
+Acentuo que o A., por ocasião do ajuizamento da ação de busca e apreensão, juntou apenas comprovante dos correios de que o destinatário estava ausente após três tentativas de entrega da notificação (cf. Ev. 1, Doc. 6, origem) e, nesse caso, é consabido, deveria ter procedido com o protesto via edital, para que assim tornasse a notificação válida, e então constituir em mora o devedor.
+Não o fez.
+Logo, ausente notificação válida, incabível o processamento da ação, pois que incomprovada a mora do apelado, mantida a sua extinção, nos termos do artigo 485, inciso IV, do CPC, e repelido este Agravo Interno, por corolário. (..)
+Com efeito, verifico que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que, para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no contrato, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Nesse sentido, confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+(REsp n. 1.951.662/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9.8.2023, DJe de 20.10.2023)
+Ressalto, além disso, que o entendimento desta Corte abarca como consectário lógico a hipótese constante dos autos, qual seja, quando a notificação enviada ao endereço do devedor retorna com o aviso de "ausente", reconhecendo-se que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com Aviso de Recebimento ao endereço do devedor indicado no contrato, situação verificada no caso concreto.
+Em face do exposto, dou provimento ao recurso especial, a fim de determinar a devolução dos autos ao Juízo de origem, para que seja dado o regular prosseguimento à ação de busca e apreensão, na esteira do devido processo legal.
+Intimem-se.
+EMENTA
