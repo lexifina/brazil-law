@@ -1,0 +1,11 @@
+DECISÃO
+Em análise, conflito negativo de competência instaurado entre o Exmo. JUIZ DA VARA DO TRBALHO DE PRESIDENTE DUTRA, suscitante, e o Exmo. JUIZ DE DIREITO DA VARA ÚNICA DE GOVERNADOR EUGÊNCIO BARROS, suscitado.
+Extrai-se dos autos que a FETRAM - FEDERAÇÃO DOS TRABALHADORES DA ADMINISTRAÇÃO E DO SERVIÇO PÚBLICO MUNICIPAL DO ESTADO DO MARANHÃO, ajuizou ação ordinária com pedido de tutela antecipada, em face do Município de Governador Eugênio Barros, objetivando o recolhimento da contribuição sindical dos servidores municipais ora representados.
+A ação foi ajuizada perante a Justiça Estadual. O suscitado declinou de sua competência nos termos do art. 64 do CPC/2015. Destacou "que o simples fato de servidores públicos vinculados ao município requerido serem submetidos a regime jurídico estatutário não mitiga nem retira da Justiça Trabalhista a sua competência em razão da pessoa (absoluta), no caso, a federação" (fls. 1.178 e-stj).
+O suscitante, conforme consta do relatório do parecer ministerial, "apontou a Justiça Estadual como competente para o julgamento das ações que visam a cobrança de contribuição sindical atinente a servidor público regido pelo regime estatutário, na esteira de entendimento pacificado pelo Supremo Tribunal Federal, no julgamento do RE nº 1.089.282/AM, sob o regime da repercussão geral (Tema 994/STF)" (fl. 1.234 e-stj).
+Parecer do Ministério Público Federal opinando pelo conhecimento do conflito para declarar competente o suscitado.
+Conforme bem ponderado pelo Parquet Federal, "cumpre ressaltar que o Supremo Tribunal Federal julgou o RE nº 1.089.282/AM sob o regime da repercussão geral (Tema 994/STF) e definiu a tese, por maioria, de que: "Compete à Justiça comum processar e julgar demandas em que se discute o recolhimento e o repasse de contribuição sindical de servidores públicos regidos pelo regime estatutário"" (fl. 1.235 e-stj).
+No mesmo sentido, são as seguintes decisões monocráticas: STJ, CC 198.330, Ministra REGINA HELENA COSTA, DJe de 23/10/2023; CC 199.817, Ministro GURGEL DE FARIA, DJe de 28/09/2023; CC 198.484, Ministra ASSUSETE MAGALHÃES, DJe de 04/08/2023).
+Isso posto, conheço do conflito para declarar competente o Exmo. JUIZ DE DIREITO DA VARA ÚNICA DE GOVERNADOR EUGÊNCIO BARROS, suscitado.
+Intimem-se.
+EMENTA
