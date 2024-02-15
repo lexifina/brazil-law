@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 625/626):
+APELAÇÃO. AÇÃO DE BUSCA E APREENSÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE ASTREINTES. PENALIDADE FIXADA EM INTERLOCUTÓRIA POSTERIORMENTE CONFIRMADA EM SENTENÇA. ATRASO POR PARTE DA FINANCEIRA AUTORA/EXECUTADA EM ATENDER AO COMANDO JUDICIAL DE DEVOLUÇÃO DO VEÍCULO APREENDIDO. SENTENÇA RECORRIDA NA QUAL FOI ACOLHIDA IMPUGNAÇÃO AO CUMPRIMENTO DESENTENÇA, A FIM DE DECRETAR A EXTINÇÃO DO INCIDENTE EXPROPRIATÓRIO, EM RAZÃO DA AUSÊNCIA DE INTIMAÇÃO PESSOAL DA INSTITUIÇÃO FINANCEIRA ACERCA DA OBRIGAÇÃO DE FAZER IMPOSTA NA FASE DE CONHECIMENTO. RECURSO DA PARTE EXEQUENTE/IMPUGNADA. ALEGADA EXIGIBILIDADE DA MULTA COMINATÓRIA. SUBSISTÊNCIA. FINANCEIRA DEMANDANTE (ORA EXECUTADA/APELADA) INTIMADA DUAS VEZES PARA PROMOVER A DEVOLUÇÃO DO VEÍCULO APREENDIDO, EM RAZÃO DA VERIFICAÇÃO DA AUSÊNCIA DE MORA POR PARTE DO REQUERIDO (ORA EXEQUENTE E APELANTE). ATRASO POR MAIS DE 70 (SETENTA) DIAS PARA O CUMPRIMENTODO COMANDO JUDICIAL. INTERPOSIÇÃO, NA OCASIÃO, DE SUCESSIVOS RECURSOS, OBJETIVANDO A REFORMA DA INTERLOCUTÓRIA QUE IMPÔS A OBRIGAÇÃO DE FAZER, COM A CONSEQUENTE MANUTENÇÃO NA POSSE DO BEM LITIGIOSOSO. CIRCUNSTÂNCIAS QUE EVIDENCIAM A CIÊNCIA INEQUÍVOCA DA APELADA QUANTO À OBRIGAÇÃO DE RESTITUIR O VEÍCULO, BEM COMO DA CONSEQUÊNCIA DO DESCUMPRIMENTO DA ORDEM JUDICIAL. NECESSIDADE DE INTIMAÇÃO PESSOAL DA PARTE DEVIDAMENTE SUPRIDA. RELATIVIZAÇÃO, NO CASO CONCRETO,DA SÚMULA N. 410 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES JURISPRUDENCIAIS EM SITUAÇÕES ANÁLOGAS. DECISÃO REFORMADA, PARA REJEITAR A VIA IMPUGNATIVA E DETERMINAR O PROSSEGUIMENTO DO CUMPRIMENTO DE SENTENÇA EM SEUS ULTERIORES TERMOS. TENCIONADA APLICAÇÃO DA MULTA DE 10% (DEZ POR CENTO),PREVISTA NO ART. 523, § 1º, DO CPC. MATÉRIA NÃO SUSCITADA NA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA E,CONSEQUENTEMENTE, NÃO ABORDADA NO DECISUM COMBATIDO. ENFOQUE OBSTADO NESSE MOMENTO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECURSO CONHECIDO EM PARTE E, NESTA PORÇÃO, PROVIDO.
+Em suas razões (e-STJ fls. 658/689), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, VI, 525, §1º, 536, 537, 803, I, 927, III e IV, 1.013, § 3º, III e IV, do CPC/2015, e Súmula n. 410 do STJ, pois (e-STJ fls. 669/681):
+ ..  a matéria sobre multa diária não se sujeita à preclusão !!
+Nítido que o e. Tribunal de Justiça incorreu em nulidade processual absoluta, eis que negou conhecimento a matéria ventilada na impugnação ao cumprimento de sentença - apresentada de forma pertinente.
+A matéria referente à multa diária é de ordem púb l ica, tanto que o Juízo Singular poderá dispor sobre ela até mesmo de ofício  ..
+a ausência de prévia intimação pessoal se encaixa no inciso III do § 1º do art. 525 do Código de Processo Civil Fux na condição de "inexigibilidade da obrigação".
+Ao entender pela preclusão o Tribunal a quo incorreu em nulidade por negativa de jurisdição !!
+ ..  não se pode substituir a intimação pessoal da parte pela intima ção de seu procurador simplesmente porque a este cabe a prática dos atos processuais para a defesa técnica.
+Já a obrigação de fazer e as consequências jurídicas fixadas pelo Magistrado a parte não tem como prever, e deve ser intimada pessoalmente para que desta forma haja a necessária certeza de sua ciência.
+ ..  O Código de Processo Civil Fux estabeleceu no art. 489, § 1º, inciso VI, que não se considera fundamentada decisão judicial que deixe de seguir súmula ou precedente sem antes fazer a distinção do caso:  ..
+(ii) art. 85, §§ 1º, 2º, 11 e 12, do CPC/2015, porque (e-STJ fl. 686):
+Além do princípio da sucumbência, no presente caso, a parte que deu causa apresente demanda foi o ex adverso em razão da inadimplência.
+ ..  a aplicação do princípio da causalidade, segundo o qual aquele quem deu causa à demanda deve suportar os seus ônus.
+Contrarrazões apresentadas às fls. 701/709 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 628/629):
+ ..  não se olvida a orientação jurisprudencial firmada na Súmula n. 410do Superior Tribunal de Justiça, segundo a qual "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+Consoante entendimento sedimentado no âmbito da Corte da Cidadania, a higidez do Enunciado em referência permanece intacta, mesmo após as edições das Leis n. 11.232/2005 e 11.382/2006, assim como do Código de Processo Civil de 2015(v. g. AgInt no AREsp 1458663/MG, rel. Min. Raul Araújo, j. em 16.11.2020).
+O escopo do verbete sumular é evidente: assegurar que a parte destinatária do comando judicial obtenha ciência da obrigação que lhe tenha sido imposta, bem como da penalidade à qual estará sujeita, caso não atenda à determinação no prazo conferido.
+Não obstante, o caso dos autos guarda particularidades que demandam a relativização da diretriz traçada no verbete sumular em voga.
+Como visto, a autora/executada foi intimada em duas oportunidades, por meio do seu procurador, para promover a devolução do veículo, não tendo atendido, porém, às ordens judiciais nos prazos estipulados.
+Na ocasião, aliás, interpôs sucessivos recursos (agravo de instrumento e recurso especial), objetivando a cassação do pronunciamento judicial que impôs a obrigação de fazer e a consequente manutenção na posse do bem; ambos, porém, sem sucesso.
+Nas razões dos inconformismos indigitados, não houve sequer menção à ausência de intimação pessoal quanto à ordem de restituição do veículo.
+Nesse cenário, ressoa inequívoca a ciência da parte autora/executada acercada obrigação que lhe foi direcionada, bem como da consequência do seu descumprimento, de modo que se afigura suprida a exigência contida na Súmula n. 410 do STJ.
+A Corte Especial do STJ, quando da apreciação dos EREsp n. 1.360.577/MG (Relator para Acórdão Ministro LUIS FELIPE SALOMÃO, julgado em 19/12/2018, DJe 7/3/2019), reafirmou ser "necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil". No mesmo sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. JULGAMENTO "EXTRA PETITA". NÃO OCORÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA PETIÇÃO RECURSAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO A OBRIGAÇÃO DE FAZER COM ASTREINTES. AUSÊNCIA DE INTIMAÇÃO PESSOAL. INEXIGIBILIDADE DAS ASTREINTES TANTO NA VIGÊNCIA DO CPC/1973 QUANTO NA DO CPC/2015. SÚMULA 410/STJ. PRECEDENTE DA CORTE ESPECIAL.
+1. Polêmica central referente à exigibilidade de astreintes cominadas sem intimação pessoal do devedor.
+2. Inocorrência de decisão "extra petita" no julgamento do recurso especial, pois os pedidos são interpretados de forma lógico-sistemática, abrangendo não só aqueles formalmente deduzidos no capítulo próprio, mas também aqueles extraídos do corpo da petição inicial/recursal, conforme se deduz da pretensão da parte.
+3. Caso concreto em que houve pedido expresso de exclusão das astreintes no corpo da petição recursal, não havendo falar em julgamento "extra petita".
+4. Nos termos da Súmula 410/STJ: "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+5. Subsistência da referida súmula na vigência do CPC/2015, conforme precedente da Corte Especial.
+6. Caso concreto em que o devedor não foi intimado pessoalmente da cominação das astreintes, sendo inexigível o respetivo valor.
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.819.506/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/9/2021, DJe 29/9/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. MULTA PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. NECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL. SÚMULA N. 410 DO STJ. APLICAÇÃO APÓS A ENTRADA EM VIGOR DO CPC DE 2015. SÚMULA N. 83 DO STJ. INTIMAÇÃO PESSOAL DO DEVEDOR. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL FIXADO PELA SUCUMBÊNCIA. REVISÃO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. REDUÇÃO DO PERCENTUAL. REJEIÇÃO. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. MAJORAÇÃO DOS HONORÁRIOS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Para a cobrança de multa nos casos de descumprimento de obrigação de fazer ou não fazer, antes e depois da edição das Leis n. 11.232/2005 e 11.382/2006, é necessária a intimação pessoal do devedor, de acordo com a Súmula n. 410 do STJ.
+2. Tendo o tribunal de origem reconhecido que não houve intimação pessoal do devedor, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+3. Rever o percentual dos honorários advocatícios fixados a título da sucumbência demanda a incursão no acervo fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+4. É adequado majorar, em desfavor da parte agravante, os honorários advocatícios em 5% sobre o valor já arbitrado na origem, nos termos do art. 85, § 11, do Código de Processo Civil, quando o referido percentual não se mostrar desproporcional ao valor da causa utilizado como parâmetro na instância ordinária.
+5. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+6. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.059.368/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Necessário reconhecer, portanto, que o acórdão impugnado diverge do entendimento dominante desta Corte acerca do tema sob exame, o que autoriza o provimento do recurso, nos termos da Súmula n. 568/STJ.
+Ante o exposto, DOU PROVIMENTO ao recurso para restabelecer a sentença de fls. 282/286 (e-STJ).
+Publique-se e intimem-se.
+EMENTA
