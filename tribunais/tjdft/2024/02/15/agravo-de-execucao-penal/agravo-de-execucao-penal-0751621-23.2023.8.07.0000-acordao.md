@@ -1,0 +1,101 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Criminal
+Processo N.AGRAVO DE EXECUÇÃO PENAL 0751621-23.2023.8.07.0000AGRAVANTE(S)HERCULES AGUIAR XIMENESAGRAVADO(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatorDesembargador JAIR SOARES
+ Acórdão Nº1816304
+
+EMENTA
+
+ Execução penal. Conversão da pena restritiva de direitos em privativa de liberdade. Audiência de justificação. Apenado intimado pessoalmente. Desídia.
+
+1 - A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta (CP, art. 44, § 4º, LEP, art. 181, § 1º, “c”).
+
+2 - Evidenciada a desídia do apenado que, intimado para cumprir a pena, inúmeras vezes, – inclusive compareceu à audiência de advertência - e cientificado de que novo descumprimento poderia ensejar a reconversão definitiva da pena restritiva de direitos, não a cumpriu integralmente nem justificou a impossibilidade de fazê-lo, adequada a reconversão definitiva da pena em privativa de liberdade e remessa dos autos à VEPERA.
+
+3 - Agravo não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, JAIR SOARES - Relator, JOSAPHÁ FRANCISCO DOS SANTOS - 1º Vogal e ARNALDO CORRÊA SILVA - 2º Vogal, sob a Presidência do Senhor Desembargador ROBERVAL CASEMIRO BELINATI, em proferir a seguinte decisão: NEGAR PROVIMENTO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Fevereiro de 2024
+
+Desembargador JAIR SOARESRelator
+
+RELATÓRIO
+
+Hercules Aguiar Ximenes agrava de decisão que reconverteu em caráter definitivo a pena restritiva de direitos em privativa de liberdade.
+
+Sustenta que a reconversão definitiva da pena somente pode ocorrer após a oitiva do apenado, em audiência de justificação, garantindo-lhe o pleno exercício do direito de defesa.
+
+E o comparecimento em audiência anterior não serve de fundamento à reconversão, pois apenas justifica o descumprimento da pena até a data em que foi realizada. Novas razões para o não cumprimento podem ter surgido e deve ser oportunizado que o agravante as apresente.
+
+Contrarrazões apresentadas (ID 54095867, p. 293/96). Mantida a decisão agravada (ID 54095867, p. 300). A d. Procuradoria de Justiça opinou pelo não provimento do recurso (ID 54454251).
+
+VOTOS
+
+O Senhor Desembargador JAIR SOARES - RelatorA decisão agravada, ao fundamento de que concedidas reiteradas oportunidades para que o agravante cumprisse a pena pecuniária, sem êxito, reconverteu, em caráter definitivo, a pena restritiva de direitos em privativa de liberdade, determinando a remessa dos autos à VEPERA para cumprimento da pena em regime aberto (ID 54095867, p. 266/7).
+
+O agravante, condenado à pena de 9 meses e 10 dias de reclusão, pelo crime do art. 171 c/c art. 14, II, ambos do CP – estelionato tentado -, foi beneficiado com a substituição da pena corporal por uma restritiva de direitos – prestação pecuniária.
+
+Compareceu, em 2.7.19, à audiência inicial, ocasião em que respondeu questionário socieconômico. Informou que é militar, com renda mensal de R$ 4.000,00, reside em imóvel alugado e tem seis pessoas dependentes dele (ID 54095867, p. 91/5).
+
+Fixada prestação pecuniária no valor total de R$ 1.125,00, em 15 parcelas de R$ 75,00, o agravante pagou apenas quatro parcelas (ID 54095867, p. 96/101 e 124).
+
+Intimado, por edital, em 26.11.19, para comparecer à audiência de advertência, foi certificado, em 18.5.20, que o apenado pagou as parcelas em atraso (IDs 54095867 p. 118 e 139, 146).
+
+Em 19.11.20, certificou-se que o agravante cumpriu regularmente a pena até 27.2.20, restando o pagamento de R$ 675,00 de prestação pecuniária (ID 54095867, p. 15).
+
+Intimado para retomar o cumprimento da pena, em 26.10.21, não o fez (ID 54095867, p. 166, 177 e 179).
+
+Feito contato telefônico, em 28.1.23, o agravante foi informado na necessidade de retomar o cumprimento da pena (ID 54095867, p. 187). Em 31.2.23, certificou-se que ele cumpriu a prestação pecuniária até 30.5.22, restando a pagar R$ 450,00 (ID 54095867, p. 219 e 235).
+
+Diante do novo descumprimento das prestações pecuniárias, foi realizada audiência de advertência em 7.6.23. Na oportunidade, o agravante respondeu a novo questionário socieconômico. Informou que é aposentado, tem seis filhos e tem renda mensal de R$ 3.000,00.
+
+ Foi, ainda, homologada falta grave e cientificado o agravante de que novo descumprimento poderia ensejar a reconversão definitiva da pena restritiva de direitos (ID 54095867, p. 237/41).
+
+Relatório certificou que não há comprovantes de pagamento da prestação pecuniária após julho de 2023 (ID 54095867, p. 252).
+
+O agravante deixou de efetuar o pagamento das prestações pecuniárias remanescentes e não apresentou justificativa, o que ensejou a reconversão definitiva da pena (ID 54095867, p. 265/7).
+
+A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta (CP, art. 44, § 4º, LEP, art. 181, § 1º, “c”).
+
+O agravante, intimado para cumprir a pena, inúmeras vezes, – inclusive compareceu à audiência de advertência -, não a cumpriu integralmente nem justificou a impossibilidade de fazê-lo.
+
+Iniciado o cumprimento da pena em 2019, o agravante pagou nove das 15 prestações pecuniárias - em 2019, 2021, 2022 e 2023.
+
+A resistência em resgatar a pena restritiva e a renúncia ao direito de se justificar permitem a reconversão imediata da pena restritiva de direitos.
+
+Decidiu o e. STJ que “As hipóteses de conversão das penas restritivas de direitos em privativa de liberdade estão previstas nos arts. 44, §§ 4º e 5º, do Código Penal e 181 da LEP, sendo certo que o descumprimento injustificado da restrição imposta autoriza a adoção dessa medida. 2. Em homenagem aos princípios do contraditório e da ampla defesa - assegurados pelo artigo 5º, LV, da Constituição Federal -, é imprescindível que o magistrado, ao deparar com o não cumprimento de pena restritiva de direitos, determine, antes da conversão em privativa de liberdade, a intimação do reeducando para que este, acompanhado pelo seu defensor, esclareça as razões que o levaram a não cumprir a restrição. Precedentes.”(RHC 91.925/RO, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/05/2018, DJe 23/05/2018).
+
+A exigência é que se designe audiência e intime-se o apenado pessoalmente, para que, em observância aos princípios do devido processo legal e da ampla defesa, possa justificar o descumprimento.
+
+Se o cumprimento da pena restritiva de direitos não ocorreu por desídia do agravante, que inclusive participou de audiência de advertência, a medida é a reconversão definitiva da pena restritiva por descumprimento injustificado da restrição imposta, nos termos do art. 44, § 4º, do CP e art. 181, § 1º, “c”, da LEP.
+
+Vejam-se os seguintes julgados do e. STJ e do Tribunal:
+
+“(...) 2. Esta Corte já firmou entendimento no sentido da possibilidade de conversão da pena restritiva de direitos, na modalidade de prestação pecuniária, em pena privativa de liberdade, nos termos do art. 44, § 4º, do Código Penal.
+
+3. Na hipótese dos autos registrou a Corte de origem: Segundo consta dos elementos dos autos, o Paciente foi condenado à pena de um ano de reclusão, em regime prisional aberto, substituída por prestação pecuniária, no valor de um salário mínimo. Intimado pessoalmente a efetuar o pagamento ou justificar a impossibilidade de fazê-lo (fl. 57 e 59), o Paciente não atendeu à determinação judicial (fl. 61), motivo pelo qual foi proferida a r. decisão que converteu a pena restritiva de direitos em privativa de liberdade, fixou o regime prisional aberto - mediante a observância de condições - e determinou a expedição de mandado de prisão, bem como mandado de intimação para comparecimento na audiência de advertência (fls. 67/84). Intimado (fls. 87/89), o sentenciado não compareceu em Juízo para ser advertido (fl. 97), sendo então determinada a sua regressão cautelar ao regime fechado (fls. 99/109).
+
+4. Na espécie, convertida a prestação pecuniária em pena privativa de liberdade a ser cumprida no regime aberto, foi o sentenciado devidamente intimado para comparecimento à audiência de advertência relativa ao mencionado regime, não tendo, contudo, comparecido em Juízo, ocasionando sua regressão cautelar ao regime fechado.
+
+5. Agravo regimental não provido.” (AgRg no HC n. 516.321/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2019, DJe de 4/10/2019.);
+
+“(...) 2. A conversão da pena restritiva de direitos em privativa de liberdade exige a prévia oitiva do apenado, para que tenha a oportunidade de esclarecer as razões do descumprimento da pena imposta, em atenção aos princípios do contraditório e da ampla defesa. 3. Se o apenado já foi ouvido em audiência de justificação, sendo advertido das consequências de novo descumprimento, e permanece inerte, deixando de prestar os serviços à comunidade que lhe foram impostos, além de restarem frustradas as tentativas de sua intimação, mostra-se desnecessária a realização de outra audiência, considerando a demonstração de descaso do sentenciado com o sistema da Justiça, a autorizar a conversão definitiva da pena restritiva de direitos em privativa de liberdade pelo descumprimento injustificado da restrição imposta. 4. Recurso de agravo conhecido e não provido.” (Acórdão 1381311, 07239491120218070000, Relator: Des. Jesuíno Rissato, 3ª Turma Criminal, data de julgamento: 21/10/2021, publicado no DJE: 5/11/2021. Pág.: Sem Página Cadastrada.);
+
+“(...) 1. No caso, o sentenciado deixou de cumprir a pena restritiva de direitos por mais de uma ocasião, tendo sido devidamente advertido sobre a possibilidade de conversão da prestação alternativa em privativa de liberdade, na hipótese de reiteração. O apenado, contudo, incidiu em novo descumprimento, motivo pelo qual o Juízo das Execuções expediu mandado de prisão em seu desfavor, sem sua prévia ouvida, em audiência de justificação.
+
+2. Não se vislumbra necessária, na hipótese - em face da reiteração da conduta desidiosa -, a designação de nova audiência, para que o reeducando justifique o fato de ter se furtado a dar início à pena alternativa, o que autoriza, por si só, a imediata conversão de penas.
+
+3. Agravo interno desprovido.”(AgInt no REsp 1703491/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/03/2018, DJe 26/03/2018).
+
+Evidenciada a recalcitrância do agravante – ciente da execução penal - em não dar prosseguimento ao resgate da pena, adequada a decisão do juiz da execução que reconverteu a pena em privativa de liberdade e remeteu os autos à VEPERA.
+
+Nega-se provimento.
+O Senhor Desembargador JOSAPHÁ FRANCISCO DOS SANTOS - 1º Vogal Com o relatorO Senhor Desembargador ARNALDO CORRÊA SILVA - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO. UNANIME.
