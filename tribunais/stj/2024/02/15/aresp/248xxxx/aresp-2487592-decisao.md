@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por NAUTICA & DIESEL LTDA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO, NULIDADE DA CÉDULA BANCÁRIA E AUSÊNCIA DE EXTRATOS BANCÁRIOS. I- O agravo de instrumento, por ser recurso secundum eventum litis, limita-se ao exame do acerto da decisão impugnada, em vista do que ao juízo ad quem incumbe aferir tão somente se o ato judicial vergastado está eivado de ilegalidade, abusividade ou teratologia, sendo defeso o exame de questões estranhas ao que ficou decidido na lide, sob pena de supressão de instância. II- A exceção de pré-executividade deve estar limitada ao exame das matérias de ordem pública, que podem ser conhecidas de ofício, a liquidez do título executivo, os pressupostos processuais e as condições da ação. III- A cédula de crédito bancário é considerada título executivo extrajudicial com base no art. 28 da Lei n.
+10.931/2004, e sendo a inicial instruída com o instrumento contratual, bem como a planilha evolutiva do débito, que descreve o cálculo que embasou a evolução do crédito, mostra-se regular o título apresentado com a inicial.
+AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 28 da Lei n. 10.931/2004 , no que concerne à nulidade do título que embasa a inicial da execução em razão da ausência de liquidez, certeza e exigibilidade, bem como dos demais requisitos legais, trazendo a seguinte argumentação:
+Primeiramente, é perfeitamente possível e previsível a defesa e arguição de nulidade de execução por vício fundamental nos próprios autos da execução, ou mesmo embargos, conforme artigos 267 - § 3º, 585 - II, 586, 618 - I, 267 - VI, e 586 - II do CPC, sólida corrente doutrinária e robusta jurisprudência.
+ ..
+Não é preciso, portanto, que o devedor se utilize dos embargos à execução. Poderá arguir a nulidade em simples petição, nos próprios autos da execução.
+ ..
+Para o manejo da execução torna-se imprescindível a demonstração da prova escrita, na qual conste a existência de dívida certa, líquida e exigível, que, despida de força executiva, pode ser perseguida pelo procedimento injuntivo. Logo, não gozando a prova juntada da presunção de força executiva, inviável é a propositura da execução.
+ ..
+Assim, o contrato objeto da presente não apresenta liquidez, certeza e exigibilidade, eis que o mesmo não advém apenas do contrato anexado aos autos e demonstrativo unilateral de conta vinculada, documento inapto, e que não demonstrou sequer a liberação de valores na conta (fls. 99/101).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Do compulsar dos autos, observa-se que a agravante/excipiente alega que o demonstrativo de conta vinculada anexo a inicial de execução é imprestável e sem clareza para entendimento. Contudo, sem razão, haja vista que a peça inicial foi instruída com o instrumento contratual, bem como a planilha evolutiva do débito, que descreve o cálculo que embasou a evolução do crédito.
+Outrossim, a cédula de crédito bancário é considerada título executivo extrajudicial com base em regulamentação específica, nos termos do art. 28 da Lei n. 10.931/2004, sendo regular, pois, o título apresentado com a inicial.
+Outrossim, acolher o pedido do agravante para decretar nula a cláusula de multa avençada pelas partes, no caso, ensejaria em verdadeira permissão ao comportamento contraditório e em autorização à parte beneficiar-se da própria torpeza, vedado pelo ordenamento jurídico vigente, em completa ofensa ao princípio da boa-fé objetiva.
+ ..
+Nestes termos, demonstrado que o entendimento do magistrado se mostra escorreito, a decisão recorrida deve ser mantida, determinando o prosseguimento da execução (fls. 83/84).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
