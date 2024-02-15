@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 498/499).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 431):
+DIREITO AUTORAL - SENTENÇA DE PARCIAL PROCEDÊNCIA - INSURGÊNCIA DE AMBAS AS PARTES - EXECUÇÕES MUSICAIS EM CASA DE SHOWS - COBRANÇA DO ECAD DEVIDA - ALEGAÇÃO GENÉRICA DO RÉU SOBRE OS IMPACTOS DA PANDEMIA NÃO DEMONSTRAM EVENTUAL IRREGULARIDADE DOS VALORES COBRADOS - CUMPRIA AO RÉU DEMONSTRAR DE MODO ESPECÍFICO QUE NOS MESES COBRADOS PELA AUTORA NÃO HOUVE ATIVIDADE OU QUE NÃO FORAM EXECUTADAS OBRAS MUSICAIS EM SEU ESTABELECIMENTO - SENTENÇA REFORMADA APENAS PARA APONTAR O VALOR NOMINAL CORRETO, REFERENTE AO PERÍODO DE SETEMBRO DE 2018 A AGOSTO DE 2021 - SUCUMBÊNCIA RECÍPROCA MANTIDA - RECURSO DO AUTOR PARCIALMENTE PROVIDO E O DO RÉU DESPROVIDO
+Os embargos de declaração foram rejeitados (e-STJ fls. 470/472 e 480/484).
+Nas razões do recurso especial (e-STJ fls. 443/453), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de divergência jurisprudencial, violação do art. 187 do CC/2002, sustentando, em síntese, que "deve ser isenta de qualquer pagamento ao ECAD, por uso de "direitos autorais", pois no referido período esteve impossibilitado de exercer a sua atividade empresarial e, consequentemente, não teve qualquer apresentação musical e ou show, bem como após tal período deve ser calculado proporcionalmente mês a mês a liberação de capacidade máxima de cliente, até a total liberação, portanto, pois injustificadas as cobranças lançadas nestes autos" (e-STJ fl. 453).
+No agravo (e-STJ fls. 502/511), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 514/525 (e-STJ).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 434/435):
+Restou demonstrado que a empresa requerida atua no ramo de entretenimento, voltado para a realização de shows e eventos, tendo como objeto social "bar noturno, choperia, casa de dança e espetáculos artísticos, boate, caso de shows e congêneres" (fls. 212/261).
+A par disso, consoante destacado pelo d. magistrado sentenciante, "a prova documental dá conta de que houve execução musical em atividades diversas por meio de sonorização ambiental, captação e ampliação de programação recebida no estabelecimento réu, sem o respectivo recolhimento da prestação devida ao ECAD, no período de setembro de 2018 a agosto de 2021."
+Nesse passo, tem obrigação de pagar pelas transmissões de obras musicais, conforme dispõe o art. 68 da Lei 9.610/98.
+Em que pesem as alegações do réu sobre os impactos da pandemia, é certo que são genéricas e não demonstram eventual irregularidade dos valores cobrados, sendo que cumpria à ré, nos termos do art. 373, II, do CPC, apresentar prova de fato impeditivo, modificativo ou extintivo do direito do autor, isto é, demonstrar de modo específico que nos meses cobrados pelo autor não houve qualquer atividade ou que não foram executadas obras musicais em seu estabelecimento, o que, contudo, não foi demonstrado.
+Logo, a razão não está com o requerido e a cobrança da arrecadação dos direitos autorais do período de setembro de 2018 a agosto de 2021 é mesmo devida.
+Modificar o entendimento do acórdão impugnado e reconhecer que a parte recorrente se desincumbiu de comprovar eventual irregularidade dos valores cobrados em decorrência dos reflexos da pandemia, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
