@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JOÃO SOARES DA SILVA FILHO contra acórdão do Tribunal de Justiça do Estado de Pernambuco que não conheceu do HC n. 0000408-21.2023.8.17.9480, nos termos da seguinte ementa (e-STJ fl. 178):
+DIREITO PENAL E PROCESSO PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. CONTAGEM DO TEMPO DE PRISÃO EM DOBRO. PRESÍDIO JUIZ PLÁCIDO DE SOUZA. HABEAS CORPUS SIMULTÂNEO A AGRAVO EM EXECUÇÃO AINDA PENDENTE DE JULGAMENTO. ILEGALIDADE. MÃO EVIDENCIADA. AFRONTA AO SISTEMA RECURSAL.NÃO CONHECIMENTO. DECISÃO UNÂNIME.
+1. Hipótese em que o réu, ora paciente, cumpre pena privativa de liberdade no Presídio Juiz Plácido de Souza - PJPS, Caruaru/PE, e requer a contagem do tempo de prisão em dobro, em analogia à decisão da Corte Interamericana de Direitos Humanos que concedeu tal benefício em relação aos presos do Complexo do Curado, em Recife-PE. A defesa interpôs recurso de agravo em execução, simultaneamente, habeas corpus.
+2. A interposição simultânea do remédio constitucional de habeas corpus com o recurso legalmente previsto, tendo o mesmo objeto, afronta a integridade do sistema recursal como um todo, principalmente, porque o a via recursal tem abrangência material mais ampla a garantir a defesa dos direitos do réu, enquanto a via do habeas corpus se mostra adequada à julgamento célere de evidente ilegalidade que interfira na liberdade de locomoção do paciente.
+3. Desse modo, não deve ser conhecido o habeas corpus que visa substituir o recurso legalmente previsto. Precedentes STJ.
+4. Habeas Corpus não conhecido. Decisão unânime.
+Nas razões do presente recurso, requer o recorrente a contagem em dobro do tempo de cumprimento de pena na Penitenciária Juiz Plácido de Souza, pois se encontra em condições desumanas e degradantes, com base nos relatórios de inspeção da unidade prisional e recentes decisões da Corte Interamericana de Direitos Humanos e do Supremo Tribunal Federal.
+Contra-arrazoado (e-STJ fls. 397/408), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 414):
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. CONTAGEM DA PENA EM DOBRO EM RAZÃO DE PRESÍDIO APRESENTAR CONDIÇÕES DESUMANAS. WRIT NÃO CONHECIDO NA ORIGEM. MATÉRIA NÃO ANALISADA. SUPRESSÃO DE INSTÂNCIA.
+- A matéria não foi objeto de apreciação pela Corte local, o que obsta sua análise por esse C. Superior Tribunal de Justiça.
+- Parecer pelo não conhecimento do recurso em habeas corpus.
+É o relatório.
+Decido.
+Inicialmente, é cediço que o Superior Tribunal de Justiça não pode conhecer da questão suscitada no presente habeas corpus, diante da falta de manifestação do Tribunal de origem sobre o tema.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+E, embora esta Corte Superior tenha consolidado o entendimento de que não mais se tem admitido a impetração de habeas corpus quando substitutivo de recurso próprio, tal posicionamento não tem o condão de subtrair a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder a ordem de ofício.
+Portanto, a ausência de manifestação do Tribunal de Justiça do Estado de São Paulo acerca do pedido formulado na impetração originária configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não necessita de revolvimento de matéria probatória, envolvendo apenas questão de direito.
+Nesse contexto, em se tratando de questão relevante de direito, deve a Corte estadual analisar a matéria suscitada no writ originário.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE RECONHECIMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REMESSA DOS AUTOS À CORTE DE ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Considerando que a Corte a quo não se pronunciou sobre os temas aventados na respectiva impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+III - A Corte a quo não entrou no mérito da dosimetria da pena, incidindo em negativa de prestação jurisdicional e em violação do princípio da motivação das decisões judiciais, encartada no art. 93, IX, da Constituição Federal.
+Agravo regimental desprovido.
+(AgRg no HC n. 776.189/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CALÚNIA. ATIPICIDADE DA CONDUTA. MATÉRIA NÃO DEBATIDA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE ANÁLISE DIRETAMENTE POR ESTA CORTE SUPERIOR. AGRAVO IMPROVIDO. CONCEDIDO HABEAS CORPUS DE OFÍCIO.
+1. A tese defensiva de atipicidade da conduta não foi apreciada pela Corte de origem ao julgar o habeas corpus, dessa forma, inviável a análise diretamente por este Tribunal superior sob pena de incorrer em indevida supressão de instância.
+2. Contudo, vislumbro ocorrência de flagrante ilegalidade ensejadora de concessão de habeas corpus de ofício, tendo em vista a ocorrência de negativa de prestação jurisdicional.
+3. Recurso improvido. Concessão de habeas corpus de ofício para determinar que o Tribunal de origem conheça do writ originário e analise o mérito conforme entender de direito.
+(AgRg no RHC n. 170.642/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCESSÃO DA ORDEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DA MATÉRIA DO WRIT ORIGINÁRIO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. MINORANTE DO TRÁFICO PRIVILEGIADO. PRISÃO DOMICILIAR. GRUPO DE RISCO. APRECIAÇÃO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA.
+1. A jurisprudência desta Corte é firme no sentido de que configuram negativa de prestação jurisdicional os casos em que o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial o writ, o que foi reconhecido na presente hipótese, determinando-se ao Tribunal de origem que aprecie o mérito do writ originário, como entender de Direito.
+2. As questões referentes à possibilidade de deferimento de prisão domiciliar, por ser o paciente integrante do grupo de risco, e à aplicação da minorante do tráfico privilegiado, com a fixação de regime menos gravoso, não foram apreciadas pelo Tribunal de origem, o que impede o exame das questões diretamente pelo STJ, sob pena de indevida supressão de instância.
+3. Agravo regimental improvido.
+(AgRg no HC n. 744.175/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.)
+Ante o exposto, não conheço do recurso, mas concedo a ordem de ofício para determinar que o Tribunal de Justiça de origem aprecie o mérito do habeas corpus originário, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
