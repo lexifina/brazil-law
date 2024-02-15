@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de DANIEL SILVA OLIVEIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação Criminal n. 1501110-11.2020.8.26.0599.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 680 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), por trazer consigo e ter em depósito, para fins de comercialização ilícita, 1.681,30 g de maconha.
+Irresignada, a defesa interpôs Apelação, a qual o Tribunal de origem negou provimento, nos termos do acórdão de fls. 278/286.
+No presente writ, o impetrante defende a nulidade do flagrante, ao argumento de violação de domicílio, por terem os policiais ingressado na casa do réu sem mandado judicial ou autorização de morador, razão pela qual requer a absolvição do paciente.
+Subsidiariamente, busca a redução da pena-base ao mínimo legal, o reconhecimento da atenuante da confissão, a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, com o a consequente remessa dos autos ao Promotor de Justiça para que seja ofertado o Acordo de Não Persecução Penal - ANPP, bem como o abrandamento do regime inicial com a detração da pena e o deferimento da permuta da pena corporal por restritivas de direitos.
+O Ministério Público Federal - MPF opinou pelo não conhecimento do writ, porém, pela concessão da ordem de habeas corpus de ofício (fls. 321/328).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+No tocante à dosimetria da pena, a Corte a quo assim se manifestou:
+"Fixada a pena-base em 1/6 acima do mínimo pela quantidade de droga, a saber, mais de 1,5 kg de "maconha", nos termos do art. 42 da Lei de Drogas, foi acrescida de mais 1/6 na sequência pela agravante da reincidência, assim se findando, já que é realmente inviável a incidência do redutor do tráfico por vedação expressa da norma, dada a reincidência do recorrente." (fl. 285).
+A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+Sendo assim, é certo que o refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+Ressalte-se que não há critério matemático balizador de aumento da pena-base por cada circunstância judicial considerada negativa, e sim um controle de legalidade para averiguar se houve fundamentação concreta para o incremento.
+A elevada quantidade de drogas apreendidas - 1.681,30 g de maconha - demonstra uma maior reprovabilidade da conduta que justifica um incremento significativo na pena-base.
+Sendo assim, não é possível desconsiderar a valoração negativa dos referidos vetores ou mesmo reduzir o quantum de aumento, como pretende a defesa.
+Nesse sentido, confira -se:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. PENA-BASE. EXASPERAÇÃO. ELEVADA QUANTIDADE DE DROGA APREENDIDA, FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes 3. No presente caso, em atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Drogas, houve a consideração da elevada quantidade do entorpecente apreendido, 183 (cento e oitenta e três) tijolos de maconha, pesando 107,825 kg (cento e sete quilos, oitocentos e vinte e cinco gramas), para exasperar a pena-base em metade (1/2), não havendo qualquer ilegalidade no referido fundamento, uma vez que proporcional e adequado ao caso.
+4. Agravo regimental não provido.
+(AgRg no REsp 1988712/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/04/2022, DJe 11/4/2022.)
+Na terceira fase da dosimetria da pena, tem-se que a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+No caso, acertado o afastamento da minorante, prevista no § 4º do art. 33 da Lei n. 11.343/06 em razão da reincidência.
+Nessa direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. INAPLICABILIDADE EM RAZÃO DA REINCIDÊNCIA DO PACIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos:
+a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2. Hipótese em que a Corte local, embora tenha utilizado a quantidade de entorpecentes para fundamentar a negativa do benefício, expressamente consignou a reincidência do paciente ao realizar a dosimetria da pena.
+3. Assim, a reincidência, seja ela específica ou não, constitui óbice à aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/06, tendo em vista que um dos requisitos para a incidência do benefício é que o paciente seja primário.
+4. Ademais, constatada a ausência de análise acerca do tema, não é possível a sua apreciação pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 743.024/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Por outro lado, da leitura atenta dos autos, vê-se que as tese de nulidade da busca domiciliar e de reconhecimento da atenuante da confissão espontânea não foram debatidas no acórdão atacado, aliás, sequer foram suscitadas nas razões da apelação, motivo pelo qual este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância. A propósito, vejam-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS. DESCONSTITUIÇÃO. NECESSIDADE DE INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. VIA INADEQUADA. TESE DE NULIDADE DA BUSCA PESSOAL. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. FLAGRANTE ILEGALIDADE NÃO CONFIGURADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC DE 2015. INSURGÊNCIA DESPROVIDA.
+1. A decisão impugnada não conheceu da impetração, todavia analisou o pleito absolutório, concluindo, no mesmo sentido do Tribunal de origem, que a prova da mercancia não é exigida para a configuração do delito, que o modus operandi reforçou a tese de crime de tráfico de drogas - paciente encontrado de posse de 34 porções de cocaína, com peso de 4,7 gramas -, além dos depoimentos dos agentes públicos responsáveis pelo flagrante. Outrossim, ressaltou-se que o pleito de absolvição demandaria profunda incursão em matéria fático-probatória.
+2. Consignou-se que a tese da nulidade da busca pessoal não foi enfrentada pelo Tribunal de origem, não podendo esta Corte analisar a questão, sob pena de se incorrer em supressão de instância, e que o julgado impugnado afastou a ocorrência de flagrante ilegalidade na dosimetria de pena.
+3. No agravo, a parte impugna apenas o tópico da desnecessidade de provas da mercancia para configuração do delito de tráfico de drogas.
+4. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil de 2015 e o art. 253, I, do RISTJ.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 749.758/PA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 14/11/2022, DJe de 22/11/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE DROGA E REITERAÇÃO DELITIVA DOS AGENTES. FUNDAMENTAÇÃO VÁLIDA. NULIDADE DE BUSCA PESSOAL E VEICULAR. MATÉRIA NÃO DEBATIDA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois os pacientes foram presos em flagrante na posse de 1 tijolo de maconha, pesando 1.2180,0 gramas, 175 porções de crack, 5 porções de cocaína, pesando 3800,0 gramas, 8 porções de maconha contendo 157,7 gramas, 800 papelotes de cocaína, pesando 678,3 gramas, 1 porção de cocaína, pesando 74,0 gramas, bem como embalagens plásticas, maquinários para embalar, tesoura, peneiras, balanças de precisão, fermento de pó, rolos de plástico, copos de liquidificador, ampolas de cloridato de adrenalina.
+3. A segregação provisória se faz necessária também para evitar a reiterada conduta delitiva dos agentes, pois Elizeu ostenta condenações criminais anteriores, sendo três delas aptas a ensejar reincidência e Leandro, embora primário, responde por homicídio qualificado.
+4. É inviável a substituição da custódia preventiva por outras medidas cautelares, pois a periculosidade dos acusados indica que a ordem pública não estaria acautelada com a soltura deles.
+5. A tese de ilegalidade da busca pessoal e veicular não foi objeto de exame no acórdão impugnado, o que impede o conhecimento do tema diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 691.300/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/10/2021, DJe de 27/10/2021.)
+Por fim, mantida a pena fixada pelas instâncias ordinárias, as pretensões de abrandamento do regime inicial e de substituição da pena corporal por restritivas de direitos não merecem subsistir.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
