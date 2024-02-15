@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Ricardo Manoel de Oliveira à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 190):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE VALORES EM CONTA CORRENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. A PENHORA NÃO PODE SER OBSTADA PELA ALEGAÇÃO DE CARÁTER IRRISÓRIO DOS VALORES PENHORADOS. PRECEDENTES. SÚMULA 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. SÚMULA 13/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO NEGAR-LHE PROVIMENTO.
+Alega o embargante a existência de vícios na decisão embargada.
+Para tanto, sustenta obscuridade em relação a apontada falta de impugnação, na medida em que no agravo em recurso especial invocou violação aos arts. 805 e 836 do CPC/2015, cujas transcrições foram lançadas fartamente no recurso especial e no referido agravo.
+A impugnação não foi apresentada, conforme certidão de fl. 206 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/4/2020, DJe 4/5/2020)
+Dito isso, não merece acolhimento o apontado vício na decisão embargada.
+Isso porque, conforme consignado na decisão de fls. 190-195 (e-STJ), pelo que se pode depreender das razões vertidas em seu recurso especial, o recorrente não infirma os fundamentos autônomos apresentados pelo TJSP quanto ao fato de que não há nada a deliberar acerca da impenhorabilidade de quantias inferiores a quarenta salários mínimos, nos termos do art. 833, X, do CPC/2015, tendo em vista que essa matéria não foi ainda levada ao conhecimento do Juízo de primeiro grau, tratando-se de inequívoca inovação recursal.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Desse modo, ao analisar a questão aduzida no recurso especial, decidiu-se por aplicar, em relação ao tema o óbice sumular de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARG OS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
