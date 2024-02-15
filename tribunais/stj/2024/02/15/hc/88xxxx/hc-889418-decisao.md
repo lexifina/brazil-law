@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALTER CARLOS DE OLIVEIRA SANTOS, contra decisão indeferitória da liminar, proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo.
+Neste writ, a Defensoria Pública alega constrangimento ilegal causado ao paciente, na medida em que acórdão estadual não reformou a decisão do Juízo de primeiro grau que determinou a expedição de mandado de prisão em regime semiaberto, sem a intimação do sentenciado para dar início ao cumprimento de pena e a despeito da inexistência de vagas no sistema carcerário paulista.
+Afirma que o Juízo de primeiro grau determinou a expedição do mandado de prisão, sem possibilitar a manifestação da defesa, em desacordo com a Súmula Vinculante 56 do STF e a Resolução 417/2021 do CNJ.
+Assevera que "embora não se discuta que o juízo requisitou as informações, é certo que a SAP indicou apenas genericamente que será disponibilizada vaga para o cumprimento de pena em regime semiaberto. Não foi sequer indicado se existe atualmente alguma vaga ou não. Também não foi especificado em qual unidade penitenciária a vaga estaria disponível" (e-STJ, fl. 7).
+Requer, inclusive liminarmente, a) a anulação da decisão; e b) a expedição de contramandado de prisão, com a concessão de prisão domiciliar até que seja disponibilizada vaga para o sentenciado.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. WRIT INDEFERIDO LIMINARMENTE NA ORIGEM. SÚMULA 691 DO STF. NULIDADE DO ACESSO AO CELULAR. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE ILEGALIDADE.
+1. Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+2. A nulidade acerca do acesso ilegal no celular do recorrente não foi apreciada na decisão impugnada, motivo pelo qual também não será examinada por esta Corte Superior, sob pena de indevida supressão de instância.
+3. O decreto apresenta fundamentação que deve ser considerada idônea, baseada na grande quantidade de maconha apreendida (79 kg), além do fato de o recorrente ser reincidente e pertencer à associação criminosa voltada para o tráfico de drogas. Precedentes.
+4. Não de divisa manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+5. Agravo regimental improvido."
+(AgRg no HC 760.492/MS, Relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO. IMPETRAÇÃO CONTRA INDEFERIMENTO LIMINAR NA ORIGEM. INCIDÊNCIA DA SÚMULA N. 691 DO STF. CONDENAÇÃO. REGIME INICIAL SEMIABERTO. NEGATIVA AO RECURSO EM LIBERDADE. MANUTENÇÃO DA PRISÃO PREVENTIVA. NECESSIDADE DE ADEQUAÇÃO DA CUSTÓDIA AO REGIME IMPOSTO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Nos termos da Súmula n. 691 do STF, não cabe habeas corpus contra decisão que indefere pedido de liminar formulado em writ originário.
+2. A manutenção da custódia cautelar e a negativa ao recurso em liberdade justificam-se diante do risco à ordem pública, evidenciado pela periculosidade do agente, apontado como integrante de organização criminosa voltada à prática de tráfico de drogas em grande escala e à lavagem de dinheiro.
+3. A custódia cautelar deve ser compatibilizada com o regime prisional imposto na sentença, conforme a Súmula n. 716 do STF, sob pena de imposição de regime mais gravoso.
+4. Agravo regimental parcialmente provido. Ordem concedida de ofício, para determinar a transferência do agravante para estabelecimento prisional compatível com o regime semiaberto."
+(AgRg no HC 754.565/MG, Relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que a decisão do Juízo de Primeiro Grau se encontra assim motivada:
+"Conforme informação prestada pela Secretaria da Administração Penitenciária do Estado, há vaga disponível para cumprimento da pena privativa de liberdade imposta ao sentenciado, em regime prisional semiaberto, em estabelecimento penal adequado.
+Tal fato afasta, no particular, a incidência da regra jurídica constante da Súmula Vinculante n. 56, editada pelo Egrégio Supremo Tribunal Federal. Além disso, torna desnecessária a prévia intimação do condenado a respeito, pois, após sua prisão e realização da audiência de custódia, cumprirá a reprimenda em estabelecimento prisional adequado, compatível com o regime aplicado e suas condições pessoais e, ainda, se possível, mais próximo de sua família, garantindo-se, portanto, todos os direitos previstos nas normas de regência.
+De observar-se, também, que a prévia intimação do sentenciado somete se faz necessária se não houver vaga para cumprimento da reprimenda aplicada em estabelecimento prisional adequado o que, repita-se, não é o caso, pois, nessa hipótese, a fim de impedir a prática de constrangimento ilegal, deve o juízo da execução, obrigatoriamente, adotar forma alternativa de cumprimento, como a monitoração eletrônica e a prisão domiciliar, que exigem, ai sim, tal providência de cientificação" (e-STJ, fls. 19-20).
+O Desembargador Relator indeferiu o pedido de liminar, com estes fundamentos:
+"As circunstâncias de fato e de direito deduzidas na presente impetração não autorizam a concessão da liminar alvitrada, providência excepcionalíssima, reservada a casos de ilegalidade gritante. Não se evidenciam os requisitos essenciais à medida, vale dizer, o fumus boni iuris e o periculum in mora. " (e-STJ, fl. 32).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
