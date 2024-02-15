@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por RUMO MALHA SUL S. A. contra decisão do Tribunal Federal da 4ª Região que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DEPOSSE. FERROVIA. PROVA DOCUMENTAL DA FAIXA DE DOMÍNIO.
+ESTUDO TÉCNICO DE RISCO. SUSPENSÃO TEMPORÁRIA DOFEITO. PORTARIA CONJUNTA Nº 08/2022.1. A suspensão se deu com fulcro em recomendação deste Tribunal, por interpretação da Portaria Conjunta n. 08/2022, do Corregedor Regional da Justiça Federal da 4ª Região e da Coordenadora do Sistema de Conciliação deste Tribunal, que aconselhou a suspensão dos processos de reintegração de posse concernentes a ocupações da faixa de domínio da Ferrovia Malha Sul, enquanto não instruídos com prova documental da faixa de domínio e estudo técnico de risco.
+2. Hipótese em que não se encontram presentes as exclusões constantes do § 2º do art. 1º da referida Portaria, eis que não se trata de hipótese em que reste configurado grave risco ao meio ambiente, à saúde ou à segurança das pessoas ou ao serviço de transporte ferroviário, demonstrado por laudo técnico, também não se tratando de ocupação nova ou não consolidada, ou que envolva a realização direta do direito constitucional àmoradia.3. Por analogia ao disposto no art. 313, § 4º, do CPC, aplica-se a suspensão do processo por 1 ano, após o que caberá ao juízo verificar se ainda persiste a hipótese de suspensão do processo, prevista na Portaria Conjunta nº08/2022.
+Opostos embargos de declaração, foram rejeitados.
+No especial obstaculizado, o ora agravante apontou violação dos arts. 221 e 313, § 4º, do CPC/2015; 71 do Decreto-Lei n. 9.760/1946; 2º, parágrafo único, XIII, da Lei nº 9.784/99; e 1º, § 2º, do Decreto n. 7.929/2013.
+Sustentou que o caso concreto não se encaixa em nenhuma das hipóteses legais autorizadoras da suspensão do processo e, ainda que estivessem presentes, a paralização do feito não poderia ultrapassar por mais de (um) ano.
+Afirma que, tratando-se de ocupação de área pública que já possui finalidade específica definida em lei para beneficiar toda a população, mostra-se flagrante a necessidade de retomada do curso normal do processo, notadamente porque os Recorridos não possuem qualquer amparo legal capaz de mantê-los na área esbulhada, tampouco com a possibilidade de adquiri-la, considerando que o imóvel em apreço é público.
+Sem contrarrazões.
+Passo a decidir.
+Trata-se de agravo em recurso especial em que se discute a ilegalidade da suspensão do trâmite do processo de reintegração de posse, para a juntada de prova documental da faixa de domínio e estudo técnico de risco, notadamente por não estarem presentes os motivos de suspensão elencados na Portaria Conjunta n. 8/2022 do TRF4.
+Verifica-se a perda do objeto do presente recurso especial.
+Às e-STJ fls. 161/166 (Petição n. 01191736/2023) foi juntado o Ofício 700015120575, remetido pela 5ª Vara Federal de Curitiba/PR, noticiando a retomada da tramitação dos autos de Reintegração/Manutenção de Posse n.º 5079935-40.2019.4.04.7000/PR, inclusive porque superado o prazo de um ano, conforme decidido no AI n. 5048131-97.2022.4.04.0000.
+Diante do exposto, JULGO PREJUDICADO o recurso por perda superveniente do objeto, nos termos do art. 34, XI, do RISTJ.
+EMENTA
