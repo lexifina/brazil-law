@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de Carlos Alberto Peters e Leomar Peters - condenados como incursos no crime de destruição de vegetação em estado de regeneração (art. 38-A da Lei n. 9.605/1998) -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 5005995-05.2021.8.24.0041), comporta pronto acolhimento.
+Com efeito, busca a impetração a absolvição dos pacientes aos argumentos de: a) estado de necessidade, pois, diante da necessidade premente de realizar uma reforma na residência de sua genitora e para garantir condições mínimas de moradia, o corte das dezoito árvores foi uma medida necessária e proporcional (fl. 6); b) atipicidade material da conduta, tendo em vista a aplicação do princípio da insignificância, uma vez que o número de árvores cortadas é absolutamente ínfimo (dezoito), não há habitualidade da conduta de nenhum dos pacientes (réus primários) e, ainda, eram para fins específicos de uma moradia digna, direito básico de um cidadão (Evento 70, anexo 2, autos de primeiro grau). É dizer: a condenação dos pacientes se mostra desproporcional na medida em que não chega nem perto de causar qualquer mal-estar significativo ao meio ambiente (fl. 7).
+Da atenta análise da sentença condenatória observo que a conduta atribuída aos sentenciados se subsume ao tipo penal imputado. No entanto, ao cotejar os fatos imputados, com as condições pessoais dos acusados (primários e sem antecedentes criminais), a circunstância de as árvores serem de cultivo pela própria família e terem por fim a utilização na reforma da residência, bem como a ausência de destinação econômica do produto do desmatamento, verifico, além da inexpressividade da lesão jurídica provocada (corte de 18 pinheiros), a mínima ofensividade da conduta.
+A propósito:
+RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 39 DA LEI 9.605/98. CORTE DE ÁRVORES. ÁREA DE PRESERVAÇÃO PERMANENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. ÍNFIMA LESIVIDADE AO BEM JURÍDICO TUTELADO. ATIPICIDADE MATERIAL DA CONDUTA. ABSOLVIÇÃO MANTIDA. PRECEDENTES DO STJ. RECURSO IMPROVIDO.
+1. Denunciado o recorrido por ter efetuado o corte de nove árvores de pequeno a médio porte, em área de preservação permanente, as quais utilizou na construção de benfeitoria em sua pequena propriedade rural, foi absolvido em ambas as instâncias por atipicidade material da conduta.
+2. Sedimentou-se a orientação de que a aplicação do princípio da insignificância pressupõe a concomitância de quatro vetores, a saber: a mínima ofensividade da conduta, nenhuma periculosidade social da ação, o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+3. É entendimento do Superior Tribunal de Justiça de que somente haverá lesão ambiental irrelevante quando, na ponderação entres os desvalores da ação e do resultado, houver ínfimo grau de lesividade da conduta praticada.
+4. A inexpressividade da lesão jurídica provocada recomenda a manutenção do acórdão confirmatório da absolvição.
+5. A existência de ação penal pela prática do delito do art. 48 da Lei n. 9.605/1998 não obsta, por si só, a incidência do princípio da insignificância, quando inexpressiva a lesividade ao bem jurídico protegido pela norma incriminadora do art. 39 da Lei n. 9.605/19 98.
+6. Recurso especial improvido.
+(REsp n. 1.770.667/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/4/2019 - grifo nosso).
+É de se ressaltar que a absolvição na seara criminal não afasta a responsabilidade administrativa pela reparação do dano, circunstância a reforçar a desnecessidade de punição penal pelo prejuízo causado.
+Em face do exposto, concedo liminarmente a ordem impetrada para absolver os acusados da condenação imposta na Ação Penal n. 5005995 -05.2021.8.24.0041/SC, em razão do princípio da insignificância.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. DESTRUIÇÃO DE VEGETAÇÃO EM ESTÁGIO DE REGENERAÇÃO. CORTE DE 18 ÁRVORES. CONDIÇÕES PESSOAIS FAVORÁVEIS. CULTIVO PELA PRÓPRIA FAMÍLIA. AUSÊNCIA DE DESTINAÇÃO ECONÔMICA. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. MÍNIMA OFENSIVIDADE DA LESÃO JURÍDICA PROVOCADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
