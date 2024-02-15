@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Evânia Pereira da Silva contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento da Apelação n. 1521081-57.2022.8.26.0228.
+Consta dos autos que a paciente foi condenada por roubo circunstanciado (art.157, § 2º, II, do CP) a 8 anos, 3 meses e 16 dias de reclusão, no regime fechado, e 20 dias-multa.
+A apelação manejada pela defesa foi desprovida, por aresto de fls. 364/383:
+"As penas-base dos réus Ricardo e Evânia foram fixadas 1/3 acima do mínimo legal, em razão dos maus antecedentes (fls. 47/50 e 54/57). Observe-se que a fração é adequada, na medida em que os réus ostentam múltiplas condenações criminais anteriores, já transitadas em julgado."
+No presente writ, a impetrante se insurge contra o aumento da pena-base em 1/3 apenas pela presença dos maus antecedentes.
+Diz que a paciente possui apenas duas condenações transitadas em julgado, uma usada para valorar os maus antecedentes e a outra para a reincidência.
+Busca, assim, o aumento da pena-base no percentual de 1/6.
+As informações foram prestadas às fls. 364/383.
+O Ministério Público Federal emitiu parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE EM RAZÃO DA MULTIRREINCIDÊNCIA DA PACIENTE. IDONEIDADE DA FUNDAMENTAÇÃO. PERCENTUAL DE AUMENTO. PROPORCIONALIDADE. Pela denegação da ordem." (fl. 426)
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+Registra-se que o aumento da pena-base em 1/3, em virtude dos maus antecedentes, está devidamente justificado, em decorrência da multirreincidência da paciente. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. DOSIMETRIA. ASSOCIAÇÃO PARA O TRÁFICO. PENA-BASE. PERSONALIDADE. VALORAÇÃO NEGATIVA. REGISTROS CRIMINAIS DESFAVORÁVEIS. IMPOSSIBILIDADE. DESVALOR AFASTADO. CULPABILIDADE. ANTECEDENTES PENAIS. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. REPROVAÇÃO FUNDAMENTOS IDÔNEOS. EXASPERAÇÃO. PARÂMETRO. 1/6 (UM SEXTO) DA PENA MÍNIMA PREVISTA NO PRECEITO SECUNDÁRIO DO TIPO PENAL VIOLADO.
+1. A jurisprudência desta Corte Superior é contrária à atribuição de desvalor à personalidade do agente com base exclusivamente em registros criminais existentes na folha de antecedentes penais do réus.
+2. O aumento de 1/6 (um sexto) em razão da culpabilidade do agravado e de 1/3 (um terço) por conta dos maus antecedentes - maculados por mais de um registro desfavorável - considerados na aplicação da pena-base do crime de associação para o tráfico, tendo como parâmetro a pena mínima do preceito secundário do art. 35 da Lei n. 11.343/2006, não destoa da jurisprudência desta Corte Superior. Precedentes.
+3. Não se pode considerar ilegal a pena-base estabelecida na espécie, especialmente porque a ponderação das circunstâncias judiciais não é uma operação aritmética, mas sim um exercício de discricionariedade vinculada, devendo o juízo competente eleger a sanção que melhor servirá para a prevenção e a repressão do crime praticado, exatamente como realizado no caso concreto, em que foi estabelecido um aumento proporcional. Precedentes.
+4. Agravo regimental desprovido.
+(AgInt no AgRg no HC n. 544.345/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 4/8/2020, DJe de 25/8/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PERICULOSIDADE SOCIAL E ELEVADO GRAU DE REPROVABILIDADE DA CONDUTA DO PACIENTE, QUE APRESENTA MAUS ANTECEDENTES E MÚLTIPLA REINCIDÊNCIA EM CRIMES PATRIMONIAIS. PERÍODO DEPURADOR PARA DESVALOR DOS ANTECEDENTES. INAPLICABILIDADE. PENA-BASE. FRAÇÃO DE AUMENTO DEVIDAMENTE JUSTIFICADA. TENTATIVA. DESCABIMENTO. CONSUMAÇÃO QUE OCORRE APENAS COM A MERA INVERSÃO DA POSSE. CAUSA DE AUMENTO DO REPOUSO NOTURNO. APLICAÇÃO TANTO NA FORMA SIMPLES, COMO NA QUALIFICADA DO DELITO DE FURTO, BEM COMO EM IMÓVEL COMERCIAL OU DESABITADO. REGIME INICIAL FECHADO. ADEQUAÇÃO. PACIENTE REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A orientação do Supremo Tribunal Federal mostra-se no sentido de que, para a verificação da lesividade mínima da conduta, apta a torná-la atípica, deve-se levar em consideração os seguintes vetores: a) a mínima ofensividade da conduta do agente; b) a ausência de periculosidade social da ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada, salientando que o Direito Penal não se deve ocupar de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante, seja ao titular do bem jurídico tutelado, seja à integridade da própria ordem social.
+2 O fato de o paciente ser reincidente específico em crimes patrimoniais, além de também ostentar maus antecedentes por crimes de mesma natureza, denota sua periculosidade social e o elevado grau de reprovabilidade da conduta. Desse modo, não preenchido o requisito relativo ao reduzido grau de reprovabilidade do comportamento do paciente, não verifico nenhuma ilegalidade a ser sanada em virtude do não reconhecimento da atipicidade material da conduta ante a aplicação do princípio da insignificância.
+3. É assente nesta Corte Superior que é possível o aumento da pena-base em decorrência de condenações anteriores extintas ou cumpridas há mais de 5 (cinco) anos, pois, embora não caracterizem a reincidência, tais condenações podem ser utilizadas para fins de maus antecedentes.
+4. A existência de múltiplas condenações autoriza a adoção de fração diferenciada na valoração dos antecedentes do paciente. Assim, a pena não merece reparo, já que o acréscimo na fração de 1/2 corresponde justamente à soma de 1/3 pelos maus antecedentes e de 1/6 pela qualificadora sobejante, o que se coaduna ao comumente adotado nesta Corte.
+5. O delito de furto se consuma com a simples inversão da posse da coisa alheia móvel subtraída, ainda que por breve instante, sendo desnecessário que o bem saia da esfera de vigilância da vítima.
+Prescindível, portanto, a posse tranquila e/ou desvigiada do bem, obstada, muitas vezes, pela imediata perseguição policial ou da própria vítima.
+6. A causa de aumento prevista no § 1º do art. 155 do Código Penal é aplicável tanto na forma simples como na qualificada do delito de furto, e ainda que se trate de estabelecimento comercial ou de imóvel não habitado, em razão da maior vulnerabilidade do patrimônio, sendo desnecessário o efetivo repouso da vítima.
+7. Não há ilegalidade no recrudescimento da regime de cumprimento da pena do pena, uma vez que a reincidência e os antecedentes criminais do paciente justificam a fixação do regime inicial fechado.
+8. Agravo regimental desprovido.
+(AgRg no HC n. 731.807/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. ART. 157, § 2º-A, I, DO CÓDIGO PENAL. MAUS ANTECEDENTES. CIRCUNSTÂNCIAS DO CRIME. PROPORCIONALIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. A exasperação da pena-base no patamar de 1/3 ocorreu de forma devidamente fundamentada, considerando os maus antecedentes do acusado, que ostenta várias condenações, sendo que a última nem sequer havia sido cumprida, e as circunstancias criminosas (ação de grave ameaça contra 03 vítimas diversas e reiteração criminosa no mesmo local).
+2. Nos termos da jurisprudência desta Corte Superior, não se revela desproporcional o aumento da pena-base em 1/3 considerando-se a existência de duas circunstâncias judiciais.
+3. Agravo regimental improvido.
+(AgRg no HC n. 647.505/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/8/2021, DJe de 20/8/2021.)
+Ressalta-se, por fim, a impossibilidade de alterar, na via eleita, a conclusão do julgado atacado, de que a paciente era multirreincidente e possuía apenas duas condenações, como alega a defesa, em virtude da impossibilidade de se realizar o exame aprofundado de provas.
+Por tais razões, nos termos do art. 34, inc. XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
