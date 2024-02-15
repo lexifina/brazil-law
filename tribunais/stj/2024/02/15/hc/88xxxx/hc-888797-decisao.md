@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TALISSON DE ABREU, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que não conheceu do habeas corpus da defesa, nos termos da seguinte ementa (e-STJ, fl. 14) :
+"HABEAS CORPUS - EXECUÇÃO PENAL -T RÁFICO DE DROGAS -ROUBO MAJORADO - SAÍDA TEMPORÁRIA - TRANSFERÊNCIA DE EXECUÇÃO - INADEQUAÇÃO DA VIA ELEITA - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. Tendo em vista a necessidade de se preservar a utilidade do writ como instrumento de tutela da liberdade de locomoção, prevalece na jurisprudência o entendimento de que não se admite a impetração de habeas corpus em substituição ao recurso adequado. A concessão da ordem em HC substitutivo de recurso próprio ou de revisão criminal fica adstrita, portanto, às hipóteses de flagrante ilegalidade constatável sem a necessidade de revolvimento fático-probatório, o que não se verifica no caso."
+Neste writ, alega que o paciente preencheu os requisitos para a progressão de regime para o semiaberto domiciliar (art. 112 da LEP), para o trabalho externo (art. 37 da LEP) e para o gozo de saída temporária no natal (art. 123 da LEP).
+O Tribunal de origem negou seguimento ao habeas corpus originário impetrado pela defesa.
+Aduz que "o Tribunal de origem negou a prestação jurisprudencial ao paciente, mesmo sendo matéria de direito passível de análise via habeas corpus e sendo o Tribunal competente para tal apreciação" (e-STJ, fl. 8).
+Requer a concessão da ordem para determinar ao Tribunal de origem a reapreciação do pedido originário como se entender de direito.
+É o relatório.
+Decido.
+De plano, verifico que a matéria objeto deste mandamus não foi apreciada pelo Tribunal Estadual, pela impossibilidade de manuseio do habeas corpus como sucedâneo recursal e pela ausência de apreciação da matéria também pelo magistrado da execução (e-STJ, fls. 17-18).
+Assim, o constrangimento ilegal deduzido neste writ é inviável de apreciação nesta Instância Superior sob pena de supressão de instância e, via reflexa, violação do princípio da unirrecorribilidade das decisões.
+Ademais, a Corte de origem ressaltou ainda que não foi demonstrado qualquer situação de constrangimento ilegal, flagrante nulidade ou teratologia possibilitando a concessão da ordem de ofício:
+"Não se verifica, de plano, flagrante e manifesta ilegalidade a configurar ofensa, ainda que indireta, ao direito de ir e vir do paciente, o que impõe o não conhecimento do presente habeas corpus" (e-STJ, fl. 18)
+A propósito, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PLEITO DE CONCESSÃO DE PRISÃO DOMICILIAR AO APENADO QUE CUMPRE PENA EM REGIME SEMIABERTO. SAÍDAS TEMPORÁRIAS E TRABALHO EXTERNO. SUSPENSÃO EM RAZÃO DA PANDEMIA DO COVID-19. WRIT NÃO CONHECIDO NA ORIGEM POR INADEQUAÇÃO DA VIA ELEITA. LITISPENDÊNCIA. INTERPOSIÇÃO SIMULTÂNEA DO RECURSO CABÍVEL. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão referente à necessidade da concessão da prisão domiciliar ao agravante não foi debatida na Corte estadual no acórdão impugnado, por inadequação da via, bem como por litispendência, haja vista a interposição simultânea do agravo em execução, ainda em trâmite.
+2. Ausência de constrangimento ilegal que justifique a concessão da ordem de ofício, especialmente porque a situação do apenado está sendo analisada pela Corte a quo no agravo em execução interposto, em trâmite. Ressalte-se que sempre há a oportunidade de as instâncias originárias analisarem novamente o pleito no caso de alteração do contexto fático.
+3. Agravo regimental desprovido." (AgRg no HC n. 673.365/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021).
+"PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. WRIT NÃO CONHECIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO EM EXECUÇÃO PENDENTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+2. Constata-se que a matéria do presente habeas corpus ainda não foi debatida pelo Tribunal de origem, pois é objeto de agravo em execução pendente de julgamento, não podendo a impetração ser conhecida por esta Corte Superior, sob pena de indevida supressão de instância.
+3. Nesse sentido, entende esta Corte Superior que, não tendo sido analisado o mérito do writ de origem, em razão da pendência de julgamento do recurso competente (agravo em execução), torna-se inviável a apreciação da matéria, diretamente por esta Corte Superior, sob pena de supressão de instância. Precedentes.
+4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega conhecimento." (RCD no HC n. 594.943/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 8/9/2020, DJe de 14/9/2020, grifou-se).
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ATIPICIDADE DA CONDUTA. ILEGALIDADE DO RECONHECIMENTO DA REINCIDÊNCIA. INEXISTÊNCIA DE ESTABELECIMENTO PRISIONAL ADEQUADO PARA O CUMPRIMENTO DA PENA COMINADA AO RÉU. MATÉRIAS NÃO APRECIADAS NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. PENDÊNCIA DE JULGAMENTO DO MÉRITO DE REVISÃO CRIMINAL AJUIZADA NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. COAÇÃO ILEGAL INEXISTENTE.
+1. As ilegalidades suscitadas pela defesa não foram alvo de deliberação no acórdão impugnado, circunstância que impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Não se vislumbra qualquer irregularidade no não conhecimento do mandamus originário, pois, como bem consignado pela instância de origem, a via eleita não é adequada para o julgamento antecipado de matéria, que foi objeto de revisão criminal. Precedentes.
+3. Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus concomitantemente com o ajuizamento de revisão criminal. Precedentes.
+4. Agravo regimental desprovido." (AgRg no RHC n. 126.456/RJ, relator ministro Jorge Mussi, Quinta Turma, julgado em 9/6/2020, DJe de 17/6/2020).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO. AGRAVO NÃO PROVIDO.
+1. O pleito relativo à progressão de regime não foi objeto de exame no acórdão impugnado, o que impede o conhecimento do tema por esta Corte, sob pena de indevida supressão de instância, sobretudo quando pendente de julgamento na origem o agravo em execução interposto pela defesa acerca do tema.
+2. Agravo regimental não provido." (AgRg no HC n. 481.380/PR, deste relator, Quinta Turma, julgado em 13/12/2018, DJe de 19/12/2018).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
