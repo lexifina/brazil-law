@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado por Município de Fazenda Rio Grande contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 106):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. DECISÃO QUE DETERMINOU A COMPROVAÇÃO DO CUMPRIMENTO DA LIMINAR ANTERIORMENTE CONCEDIDA. INSURGÊNCIA DO MUNICÍPIO EM RELAÇÃO À DECISÃO QUE MANDOU CUMPRIR ORDEM PROFERIDA EM ACÓRDÃO PROLATADO EM AGRAVO DE INSTRUMENTO DA QUAL SUPOSTAMENTE NÃO TERIA SIDO INTIMADO. PARTE AGRAVANTE QUE FOI DEVIDAMENTE INTIMADA DA DECISÃO PROFERIDA NO AGRAVO, MANIFESTANDO, INCLUSIVE, CIÊNCIA. QUESTÃO QUE NÃO FOI OBJETO DE RECURSO NO MOMENTO OPORTUNO. PRECLUSÃO VERIFICADA. ACÓRDÃO CONTENDO IDÊNTICA ORDEM IMPOSTA PELO JUÍZO DE PRIMEIRO GRAU EM DECISÃO LIMINAR. MUNICÍPIO QUE TEVE CIÊNCIA DA LIMINAR E MANTEVE-SE INERTE. AUSÊNCIA DE PREJUÍZO. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 154/158).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 183, 230 e 272, § 2º, todos do CPC, sustentando que não foi devidamente intimada da decisão proferida em Segundo Grau que decidiu sobre a extensão da liminar deferida, não bastando para tanto a intimação da decisão de primeiro grau.
+Foram apresentadas contrarrazões alegando ausência de nulidade processual.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na origem, o Município recorrente interpôs agravo de instrumento contra decisão que intimou o requerido para o cumprimento da liminar proferida nos autos principais, sob pena de multa diária.
+O Tribunal de Justiça do Estado do Paraná negou provimento ao recurso asseverando a ocorrência de preclusão do direito de recorrer da decisão liminar combatida.
+Pois bem, não merece êxito o pleito recursal .
+Quanto à alegada ausência de intimação regular da decisão que estendeu os efeitos da liminar deferida, assim se manifestou a Corte de origem (fls. 156/157):
+Frisa-se que, além de todas as comprovações apontadas no acórdão embargado no sentido de que o Município foi devidamente intimado da decisão que estendeu os efeitos da liminar, em consulta processual ao referido recurso (Agravo de Instrumento nº 1657215-7), verifica-se que, em 04/05/2017, a advogada, representante do embargante, fez carga dos autos do recurso, tendo, inclusive, apresentado resposta em 08/06/2017, em mais uma demonstração de ciência da decisão.
+Logo, sem razão ao alegar que "foi investigar qual teria sido a referida decisão do Tribunal de Justiça, já que não tinha conhecimento da mesma. Localizou então o agravo de instrumento nº 1657215-7 na qual a decisão de extensão da liminar foi proferida".
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TEMA 476 DO STJ. ÍNDICE DE 28,86%. COMPENSAÇÃO. ALEGAÇÃO SOMENTE EM EMBARGOS À EXECUÇÃO. COISA JULGADA. VIOLAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. No julgamento do REsp 1.235.513/AL, realizado sob a sistemática dos recursos repetitivos, esta Corte pacificou o entendimento de que, transitado em julgado o título judicial sem nenhuma limitação ao pagamento integral do índice de 28,86%, não cabe à União e às autarquias federais alegar, por meio de embargos, a compensação com esses reajustes, sob pena de ofender-se a coisa julgada.
+2. A revisão do entendimento do aresto hostilizado no tocante à ocorrência de preclusão/coisa julgada, respeitante à limitação de cálculo defendida pelo ente público, esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatório dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.022.070/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL. ÓBICE DA SÚMULA 182/STJ AFASTADA. PRECLUSÃO RECONHECIDA NA ORIGEM. REVISÃO. SÚMULA 7/STJ.
+1. Agravo Interno contra decisão da Presidência que não conheceu do Agravo em Recurso Especial ante o óbice da Súmula 182/STJ.
+2. Da análise dos autos, verifica-se que a parte recorrente, nas razões do Agravo em Recurso Especial, apresentou impugnação específica à decisão de fls. 188-196, e-STJ. Assim, afasta-se o óbice da Súmula 182 do STJ para reconsiderar a decisão agravada, proferida pela Presidência desta Corte.
+3. O firme entendimento do Superior Tribunal de Justiça é de que as questões de ordem pública podem ser apreciadas originalmente no segundo grau de jurisdição, exceto na hipótese em que a matéria tiver sido apreciada por decisão fundamentada e não recorrida (preclusão pro judicato).
+4. Outrossim, in casu, o Tribunal de origem consignou que a questão acerca da possibilidade ou não de fixação de honorários já fora indeferida pelo magistrado de 1º grau, e que não foi interposto recurso na época contra tal decisão. Ocorrendo, assim, preclusão quanto ao pedido de fixação de honorários executivos.
+5. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa. É certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado a respeito da preclusão consumativa passa por revisitar o acervo probatório, o que é vedado em Recurso Especial, consoante a Súmula 7 do STJ.
+6. Agravo Interno provido para reconsiderar a decisão e, em novo julgamento, conhecer do Agravo para não conhecer do Recurso Especial.
+(AgInt no AREsp n. 2.350.632/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/10/2023, DJe de 9/10/2023.)
+ANTE O EX POSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
