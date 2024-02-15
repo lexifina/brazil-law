@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por JOSÉ MÁRIO ARAÚJO DA SILVA, com fundamento no art. 988, IV e seguintes do CPC, contra decisão proferida pelo JUIZO DE DIREITO DA 22ª VARA CÍVEL DE SÃO PAULO-SP, determinando a penhora de veículo de sua propriedade.
+Alega que "(..) não resta (sic) dúvidas que, para atender a esses clientes, espalhados por todo o Brasil, o Reclamante necessita utilizar seu único automóvel, que ora sofre essa injusta restrição." Aduz ainda que "(..) Ao ser reconhecida a incapacidade financeira do Reclamante, tanto é que lhe foi deferido os benefícios da justiça gratuita, a medida que se impõe é a imediata suspensão do cumprimento de sentença, sob pena dos benefícios concedidos não atingirem o fim a que se destinam."
+Requer, assim, "(..) seja julgado procedente o pedido da presente reclamação para cassar a decisão e determinar de imediato os efeitos "ex tunc" referente a Justiça Gratuita.". (fls. 3-13).
+Foi deferida a gratuidade judiciária para este feito, pela Presidência desta Corte (fl. 532).
+É o relatório.
+Decide-se.
+A reclamação não merece prosperar.
+1. De início, registra-se que, nos termos dos artigos 105, I, "f", da Constituição Federal, 13 da Lei n.º 8.038/90 e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Ademais, consoante a jurisprudência desta eg. Corte Superior, o ajuizamento da reclamação, que constitui medida correcional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada (ut Rcl 2784/SP, 2.ª Seção, Relator Ministro João Otávio de Noronha, DJ 22/05/2009).
+Com esse norte hermenêutico, verifica-se que o reclamante se insurge contra decisão proferida pelo r. Juízo de Direito da 22.ª Vara Cível de São Paulo-SP, que determinou a penhora sobre veículo de sua propriedade, no âmbito do cumprimento de sentença que lhe movem os ora interessados, sendo inexistente qualquer comando positivo, envolvendo os mesmos interessados, proferido pelo STJ.
+Nesse contexto, a propositura em análise revela a clara tentativa de utilizar a reclamação como sucedâneo recursal o que é inviável consoante pacífica orientação jurisprudencial da Segunda Seção.
+A propósito, confiram-se os seguintes precedentes: AgInt na Rcl 36.756/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 20/08/2019, DJe 23/08/2019; AgInt na Rcl 37.086/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/06/2019, DJe 28/06/2019; AgInt na Rcl n. 31.507/AM, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/11/2016, DJe de 6/12/2016; AgRg na Rcl n. 18.093/DF, relator Ministro Gilson Dipp, Corte Especial, julgado em 1/7/2014, DJe de 5/8/2014.
+E ainda: AgInt na Rcl 34.428/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 12/06/2019, DJe 19/06/2019; AgInt na Rcl 34.010/PE, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 10/10/2018, DJe 23/10/2018; Rcl 32.937/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 01/08/2017.
+2. Ante o exposto, julga-se improcedente a presente reclamação porquanto não configurada a hipótese de preservação da competência do STJ (art. 105, I, "f", da CF c/c o art. 187 do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
