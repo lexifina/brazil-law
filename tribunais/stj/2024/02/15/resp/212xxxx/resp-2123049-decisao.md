@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Gustavo Penna Marinho de Abreu Lima, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fls. 619-620):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE ALUGUEL. LOCAÇÃO COMERCIAL. INTERESSE DE AGIR PRESENTE. PANDEMIA COVID-19. FATO IMPREVISÍVEL E EXCEPCIONAL. PARALISAÇÃO E RESTRIÇÃO DA ATIVIDADE EMPRESARIAL DO LOCATÁRIO. REDUÇÃO TEMPORÁRIA DO ALUGUEL. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. LITISCONSÓRCIO PASSIVO. BASE DE CÁLCULO. SUCUMBÊNCIA RECÍPROCA. DISTRIBUIÇÃO PROPORCIONAL.
+I. O locatário não precisa deixar de pagar os alugueis, expondo-se à sua cobrança judicial ou a uma ação de despejo, para postular a sua revisão judicial.
+II. É legítima a revisão temporária do aluguel de imóvel comercial na hipótese em que as medidas estatais de enfrentamento da emergência de saúde pública causada pela pandemia covid-19 afetaram direta e profundamente a atividade empresarial do locatário.
+III. Disfunção do quadro obrigacional de tal modo pronunciada, por evento absolutamente imprevisível e invencível, remete ao reequilíbrio econômico-financeiro do contrato autorizado pelos artigos 317 e 421-A do Código Civil.
+IV. A Lei 14.010/2020, que dispõe sobre o Regime Jurídico Emergencial e Transitório das relações jurídicas de Direito Privado no período da pandemia Covid-19, ao estabelecer em seus artigos 6º e 7º alguns parâmetros para a "resilição, resolução e revisão dos contratos", admitiu claramente que as medidas restritivas adotadas para o enfrentamento da emergência de saúde pública podem dar amparo a revisões contratuais de acordo com as especificidades de cada caso concreto.
+V. O redimensionamento obrigacional temporário da locação favorece a preservação do contrato e da própria empresa, de molde a reverter em proveito de ambos os contratantes, da sociedade e do interesse comum, estando, nessa perspectiva, alinhado com o princípio da solidariedade consagrado no artigo 3º, inciso I, da Constituição Federal, e com o princípio da função social do contrato encartado no artigo 421 do Código Civil.
+VI. A existência de resultados diversos para os litisconsortes passivos não justifica a utilização de bases de incidência distintas para o arbitramento de honorários advocatícios.
+VII. Havendo sucumbência recíproca, os honorários advocatícios devem ser distribuição na proporção do nível de decaimento de cada parte, nos termos do artigo 86 do Código de Processo Civil.
+VIII. Apelação conhecida e parcialmente provida.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente apontou violação ao art. 85, § 2º, do CPC/2015, sob a assertiva de que, tendo sido reconhecida a ilegitimidade passiva da imobiliária, inexistiria proveito econômico em favor de sua representada , motivo pelo qual a verba honorária a ele devida deveria ter sido arbitrada com base no valor da causa.
+Contrarrazões às fls. 698-701 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso, dou provimento ao agravo para determinar a sua conversão em recurso especial, sem prejuízo de uma nova análise dos requisitos de admissibilidade, a fim de que a matéria seja melhor examinada, com fulcro no art. 34, XVI, do RISTJ.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LITISCONSÓRCIO PASSIVO. RÉ EXCLUÍDA DO POLO PASSIVO DA DEMANDA E RÉ PARCIALMENTE CONDENADA. HONORÁRIOS SUCUMBENCIAIS DEVIDOS AOS SEUS ADVOGADOS. CONTROVÉRSIA ACERCA DA NECESSIDADE DE ADOÇÃO DA MESMA BASE DE CÁLCULO. MELHOR EXAME DA MATÉRIA QUE SE IMPÕE . AGRAVO PROVIDO PARA DETERMINAR A SUA CONVERSÃO EM RECURSO ESPECIAL.
