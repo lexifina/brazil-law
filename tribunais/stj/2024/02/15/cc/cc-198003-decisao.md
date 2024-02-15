@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência visando definir a competência para processar e julgar ação de obrigação de fazer com pedido de tutela antecipada, proposta por ANDERSON DE SOUZA E SILVA em desfavor do BANCO INTER S/A.
+A demanda foi ajuizada perante o Juízo de Direito da 1ª Vara Cível, de Família, Sucessões e Infância e Juventude de Cidade Ocidental-GO e, quando o feito já estava em condições de julgamento, o juiz declinou da competência ao constatar que a demanda não fora ajuizada no foro do domicílio do consumidor e que se trataria de matéria de ordem pública.
+Redistribuído o processo, o Juízo de Direito da 1ª Vara Cível do Gama-DF suscitou o presente conflito, ao fundamento de que "a mudança de domicílio do consumidor (autor) após ajuizada, distribuída e despachada a inicial da ação não desloca a competência, a qual mantida com base no princípio da perpetuatio jurisdicionis", salientando, ainda, que "não é o caso também de ocorrência na espécie das exceções à regra da perpetuatio jurisdicionis, já que não se trata de supressão de órgão judiciário, tampouco de alteração de competência absoluta, tendo ocorrido somente a mudança de endereço do autor, consumidor, situação de fato que não tem o condão de alterar a competência do foro ou deslocar o processo já em curso".
+O Ministério Público Federal manifestou-se às fls. 765-768, pelo conhecimento do conflito e pela fixação da competência do Juízo Suscitado.
+É o relatório. Decido.
+Com fundamento na orientação contida no art. 955, parágrafo único, I, do CPC e na Súmula n. 33 do STJ, procedo ao julgamento monocrático do presente conflito.
+O conflito merece conhecimento pois apresenta controvérsia entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+A jurisprudência desta Corte Superior já está sedimentada no sentido de que, nas demandas envolvendo relações de consumo, a competência territorial assume caráter absoluto ou relativo a depender da posição do consumidor no feito.
+Assim, na hipótese em que o consumidor ocupa o polo passivo da demanda, a competência é reconhecida como absoluta, podendo o juiz declinar de ofício para beneficiar o consumidor, remetendo os autos para o foro de seu domicílio.
+Por outro lado, quando o consumidor ocupa o polo ativo da demanda, tem ele a faculdade de eleger o foro que melhor atenda seus interesses, observadas as limitações legais.
+Observem-se os seguintes precedentes da jurisprudência deste STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. CUMPRIMENTO DE SENTENÇA. CONSUMIDOR. POLO ATIVO. FORO COMPETENTE. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O Superior Tribunal de Justiça entende que, em se tratando de relação consumerista, a competência é absoluta ou relativa, dependendo da posição processual ocupada pelo consumidor. Desse modo, se a autoria do feito pertence ao consumidor, cabe a ele ajuizar a demanda no foro do seu domicílio, no de domicílio do réu, no foro de eleição ou do local e cumprimento da obrigação.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.877.552/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. AÇÃO REVISIONAL PROPOSTA PELO CONSUMIDOR. DOMICÍLIO DO RÉU. POSSIBILIDADE.
+1. A jurisprudência sedimentada da Segunda Seção do Superior Tribunal de Justiça é firme no sentido de que é facultado ao consumidor, quando autor da ação, eleger, dentro das limitações impostas pela lei, a comarca que melhor atende seus interesses.
+2. A competência, em casos tais, deve ser tida por relativa, somente podendo ser alterada caso o réu apresente, a tempo e modo oportunos, exceção de incompetência, não sendo possível sua declinação de ofício nos moldes da Súmula nº 33/STJ.
+3. A norma protetiva, erigida em benefício do consumidor, não o obriga a demandar em seu domicílio, sendo-lhe possível renunciar ao direito que possui de ali demandar e ser demandado, optando por ajuizar a ação no foro do domicilio do réu, com observância da regra geral de fixação de competência do art. 94 do CPC.
+4. Agravo regimental não provido. (AgRg no CC n. 129.294/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 24/9/2014, DJe de 1/10/2014.)
+No presente caso, o consumidor ocupa o polo ativo da demanda e propôs a ação no foro de seu domicílio, conforme endereço declinado na exordial, que é uma das hipóteses de foro concorrente à sua disposição, não havendo que se falar em escolha aleatória.
+Considerando que o consumidor ocupa o polo ativo da demanda, a competência territorial tem natureza relativa, de sorte que não poderia o Juízo Suscitado, de ofício, declinar da competência, a teor da Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício."
+Além disso, a competência não poderia ser alterada por força do princípio da perpetuatio jurisdicionis, uma vez que ausentes quaisquer das exceções previstas no art. 43, parte final do CPC (supressão de órgão judiciário ou alteração de competência absoluta).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Cível, de Família, Sucessões e Infância e Juventude de Cidade Ocidental-GO, o suscitado .
+Comunique-se aos Juízos envolvidos o teor da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
