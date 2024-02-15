@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEONARDO GARCIA DE SOUZA apontando como autoridade coatora Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que, nos autos do HC n. 2011291-26.2024.8.26.0000, indeferiu a medida de urgência pleiteada.
+Depreende-se dos autos que o paciente foi preso em flagrante, pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11343/2006, tendo-lhe sido concedida a liberdade provisória mediante o arbitramento de fiança no valor de cinco salários mínimos, a serem pagos em cinco parcelas, além de outras medidas cautelares diversas da prisão (e-STJ fls. 68/70).
+O paciente adimpliu parte da fiança. Contudo, por dificuldades financeiras, requereu ao Juízo de piso a revogação da obrigação de pagamento em relação às demais parcelas, tendo sido indeferido o pleito.
+Irresignada, a defesa impetrou prévio writ no Tribunal de origem, sendo indeferida a liminar (e-STJ fls. 12/13).
+Daí o presente writ, no qual a defesa pugna pelo afastamento do óbice da Súmula n. 691/STF, argumentando que a decisão que indeferiu a medida de urgência seria genérica e contrária à jurisprudência do STJ acerca do tema.
+Aduz que, "além do pagamento de 02 salários mínimos já realizados a título de fiança, o Paciente está cumprindo devidamente as demais condições impostas (outras medidas cautelares), sobre as quais, não há qualquer insurgência, considerando-se que são suficientes para a manutenção da sua liberdade provisória" (e-STJ fl. 9).
+Requer, assim, a concessão de liminar a fim de determinar a suspensão do pagamento das demais parcelas não adimplidas até o julgamento definitivo do mérito na origem.
+É o relatório. Decido.
+É bem verdade que o presente writ investe contra decisão que indeferiu medida liminar em idêntico remédio impetrado perante o Tribunal de origem, o que, nos termos do disposto na Súmula n. 691 do Pretório Excelso, não se admite.
+Ocorre que, no caso em exame, vislumbro situação que autoriza a excepcional superação do referido entendimento sumular.
+É que esta Corte Superior possui o entendimento de que, " ..  não havendo demonstração da presença dos requisitos previstos no art. 312 do CPP, autorizadores da custódia preventiva, configura-se constrangimento ilegal a manutenção da prisão do paciente com base unicamente no não pagamento da fiança arbitrada" (HC n. 399.732/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/03/2018, DJe 26/03/2018).
+Nessa linha, da leitura da decisão de primeira instância, verifica-se que o Magistrado a quo destacou a ausência dos requisitos para a decretação da prisão preventiva, deixando assente que o caso dos autos poderia inclusive ser enquadrado na figura privilegiada no art. 33, § 4º, da Lei n. 11.343/2006.
+Nesse contexto, afigura-se aparentemente desproporcional a determinação de pagamento das parcelas restantes como condição para a manutenção da liberdade provisória, notadamente quando a prisão cautelar é medida cabível apenas se demonstrada a premente necessidade do resguardo da ordem pública, da instrução criminal ou da aplicação da lei penal, o que não é o caso dos autos.
+Dessa forma, sem prejuízo de uma análise mais detalhada da controvérsia pelo Tribunal de origem, concedo a ordem para determinar a suspensão do dever de pagamento das demais parcelas arbitradas a título de fiança, até o julgamento do mérito do writ originário pelo Tribunal local.
+Publique-se. Intimem-se.
+EMENTA
