@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIZABETH DE FACCIO STAMATO contra decisão que inadmitiu recurso especial com fundamento na ausência de violação dos arts. 17, 489, § 1º, IV e VI, e 1.022 do Código de Processo Civil.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Agravo de Instrumento n. 2300589-84.2020.8.26.0000) assim ementado (fl. 614):
+INVENTÁRIO - Pedido de remoção de inventariante- Extinção, diante do julgamento da partilha - Irresignação - Acolhimento - Sentença pendente de recurso de apelação - Inventário ainda formalmente em curso - Representação do espólio que apenas se finda com o trânsito em julgado da partilha e expedição do respectivo formal - Art. 1.991, CC e 655, CPC - Manutenção do interesse na apreciação do pleito - Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial (fls. 367-391), a parte recorrente aponta violação dos arts. 17, 489, § 1º, IV e VI, e 1.022 do Código de Processo Civil.
+Com relação à violação dos arts. 489, § 1º, IV e VI e 1.022 do CPC, aduz que, "no v. acórdão resultante do julgamento dos embargos de declaração, com todo o respeito, o E. TJSP deixou de se manifestar sobre patente omissão da r. decisão quanto ao entendimento firmado pela jurisprudência desse E. TJSP e do C. STJ no sentido de que, tendo sido proferida sentença homologatória de partilha, ainda que pendente o trânsito em julgado, configura-se perda do interesse no incidente de remoção de inventariante" (fl. 639).
+No tocante ao art. 17 do CPC, defende que o incidente de remoção de inventariante deve ser extinto pela ausência de interesse de agir, tendo em vista a superveniência da sentença homologatória da partilha, ainda que não transitada em julgado, visto que, com a referida homologação, cessam os deveres e obrigações do inventariante.
+Requer o provimento do recurso para que se anule o acórdão, devolvendo-se a matéria para apreciação do ponto omisso pelo TJSP ou, subsidiariamente, para que se declare a perda de interesse processual, extinguindo-se o incidente de remoção de inventariante.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+Afasta-se a alegada ofensa arts. 489, § 1º, IV e VI, e 1.022 do Código de Processo Civil, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia - interesse processual no prosseguimento do incidente de remoção de inventariante, não obstante a existência de sentença de homologação da partilha, contudo, sem o trânsito em julgado.
+O Tribunal a quo foi expresso ao assim se manifestar (fl. 615, destaquei):
+Com efeito, de fato, não transitada em julgado a sentença de partilha, persiste o interesse no julgamento do incidente de remoção da inventariante, que permanece representado o espólio, na forma dos artigos 1.991, da Lei Civil e 655, do Código de Processo Civil.
+Assim, estando pendente recurso contra a homologação da partilha e sem a expedição do respectivo formal, o inventário ainda não está formalmente concluído, podendo haver questões paralelas cuja atuação da inventariante pode ser exigida, de modo que persiste o interesse na apreciação do pedido de remoção.
+Ademais, a recorrente apontou precedente desta Corte que corroboraria a pretensão deduzida. Entretanto, verifica-se que o julgado colacionado não guarda correlação com a hipótese dos autos, conforme se vê da leitura da ementa do aresto indicado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INOCORRÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. FATO SUPERVENIENTE À IMPETRAÇÃO. CANCELAMENTO DA NOTIFICAÇÃO. PERDA DO OBJETO EM RAZÃO DA AUSÊNCIA DE INTERESSE DE AGIR. AÇÃO EXTINTA SEM JULGAMENTO DO MÉRITO, ART. 267, VI DO CPC/1973. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Não se observa a ofensa aos arts. 489 e 1.022 do Código Fux, porquanto o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. Não houve, portanto, ausência de exame da insurgência recursal, e sim uma análise que conduziu a resultado diverso do que a parte pretendia. Isso não implica ofensa à norma invocada.
+3. A parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+4. Com efeito, não havendo utilidade prática do provimento jurisdicional pleiteado, revela-se ausente o interesse de agir pela perda superveniente do objeto, razão pela qual deve ser o processo extinto, nos termos do art. 267, VI do CPC/1973, consoante repisado na decisão combatida. Precedentes: REsp. 1.804.997/PR, Rel. Min. HERMAN BENJAMIN, DJe 30.5.2019, AgRg no MS 20.626/RS, Rel. Min. HERMAN BENJAMIN, DJe 11.12.2014 e REsp. 938.715/CE, Rel. Min. LUIZ FUX, DJe 1o.12.2008.
+5. Agravo Interno da Empresa a que se nega provimento. (AgInt no AREsp n. 741.881/RO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2019, DJe de 19/12/2019.)
+Quanto à violação do art. 17 do CPC, conclui-se que o Tribunal a quo dirimiu a matéria com base no contexto fático dos autos. Rever esse entendimento para afastar o interesse processual no julgamento no referido incidente implicaria dilação probatória, não permitida na instância especial.
+Assim, aplica-se ao caso a Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
