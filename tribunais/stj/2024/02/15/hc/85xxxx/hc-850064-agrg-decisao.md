@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+Sustenta a parte agravante que "não há que se falar em indevida supressão de instância, uma vez que as teses sustentadas no writ foram devidamente analisadas pelo E. Tribunal de Justiça, ao julgar a revisão criminal" (fl. 360).
+Reafirma as razões de mérito da impetração, no sentido da ilicitude das provas obtidas por meio de busca pessoal e domiciliar, sem justa causa.
+Requer a reconsideração da decisão para reconhecer a apontada ilicitude probatória.
+É o relatório.
+Considerados os argumentos trazidos pela defesa, reconsidero os fundamentos da decisão agravada para conhecer do mérito do habeas corpus.
+Conforme a jurisprudência desta Corte Superior, considera-se ilícita a busca pessoal ou domiciliar executada sem a existência da necessária justa causa para a efetivação da medida invasiva, nos termos do art. 240 do CPP, bem como a prova dela derivada.
+Acerca da controvérsia, extrai-se do acórdão revisional a seguinte fundamentação:
+A materialidade do delito encontra-se comprovada por meio do boletim de ocorrência de fls. 06/08, do auto de exibição e apreensão de fls. 09, do auto de constatação preliminar de fls. 10, das fotografias de fls. 17, do laudo pericial das balanças de precisão digitais de fls.56/58, do laudo de exame químico toxicológico de fls. 85/87, e pela prova oral colhida.
+Interrogado em juízo, o peticionário negou a autoria do delito, afirmando que estava na rua quando foi abordado pelos policiais, que em busca pessoal nada foi encontrado, disse que estava sem seu documento de identificação, porém após informar seu nome, que teria drogas guardadas em casa para uso próprio e que não tinha nenhuma pendência com a justiça, o policial militar ao verificar que o estava foragido teria lhe agredido, bem como um policial teria ido até a sua residência onde foi localizada a droga; afirmou que a balança de precisão era de sua esposa que fazia salgados para vender na rua (fls. 141).
+A versão declinada pelo peticionário, entretanto, não convence, pois restou isolada nos autos e ainda foi fortemente contraída pelo restante da prova oral colhida em juízo.
+Conforme se depreende da prova acima analisada, ao notar a presença policial, o peticionário, que estava foragido, tentou ingressar apressadamente em sua residência, onde foram apreendidas drogas, em quantidade compatível com o tráfico(aproximadamente 90g de maconha), bem como duas balanças de precisão.
+Assim não há que se falar em nulidade da busca pessoal e domiciliar, o que justificou a ação dos policiais não foi a mera "atitude suspeita", mas a tentativa de evasão do peticionário, que estava foragido, adentrando rapidamente em sua residência, onde foram localizadas e apreendidas drogas e balanças de precisão.
+Como é cediço, a busca domiciliar pode ser feita sem mandado judicial desde que a entrada seja autorizada pelo morador ou ainda quando verificar a ocorrência de crime.
+No caso dos autos, a entrada na casa do peticionário se deu em situação de flagrante delito, pois este guardava drogas em sua residência, tendo tentado evadir dos policiais, e ao ser preso indicou onde guardava as drogas aos policiais. Cuidando-se modalidade permanente do crime de tráfico de drogas, era não só permitido, mas dever dos guardas adentrar o imóvel para realizar a apreensão e fazer cessar a atividade criminosa.
+Nestes termos, não vislumbrando ilegalidade na prisão em flagrante efetuada por policiais em patrulha e restando justificada a realização de busca pessoal e domiciliar, conclui-se que a prova coletada é lícita e o decreto condenatório deve ser mantido.
+Na hipótese, não se pode extrair do contexto fático delineado nos autos, de modo indene de dúvidas, a apontada ilegalidade. Conforme se extrai do acórdão, "o que justificou a ação dos policiais não foi a mera "atitude suspeita", mas a tentativa de evasão do peticionário, que estava foragido". Além disso, conforme o interrogatório judicial, o paciente teria afirmado, no momento da abordagem, possuir drogas em sua residência, circunstâncias aptas a evidenciar justa causa para a busca pessoal e domiciliar.
+No caso, " d esconstituir as conclusões da instância ordinária a respeito da dinâmica do flagrante demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus". (AgRg no HC n. 708.314/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2022, DJe de 19/10/2022.)
+Ante o exposto, reconsidero a decisão agravada para conhecer do mérito da impetração, denegando a ordem.
+Publique-se.
+Intimem-se.
+EMENTA
