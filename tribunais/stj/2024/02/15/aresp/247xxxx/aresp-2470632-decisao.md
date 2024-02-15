@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado por TATIANA ROSA SIQUEIRA DO NASCIMENTO e OUTRAS contra decisão que não admitiu seu recurso especial, este por sua vez, interposto, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado (e-STJ, fls. 110-111):
+AÇÃO DE INVENTÁRIO. PRIMEIRAS DECLARAÇÕES. EXCLUSÃO DE IMÓVEL. AUSÊNCIA PROVA DA PROPRIEDADE. NEGADO PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+Havendo dúvida quanto à propriedade do bem em discussão no presente agravo, descabe discriminá-lo nas primeiras declarações posto que o aludido ato se presta a apresentar também a relação completa dos bens imóveis com a respectiva certidão de matrícula em nome do "de cujus", o que não foi comprovado nos autos.
+O simples fato do imóvel se encontrar cadastrado junto à CELPE em nome da falecida não faz prova de propriedade.
+Recurso a que se nega provimento.
+Nas razões do recurso especial (e-STJ, fls. 262-271), as insurgentes apontaram violação aos arts. 373, I, 620, IV, a e g, e 1.022, I, do CPC/2015.
+Sustentaram, em síntese: a) a existência de contradição no acórdão recorrido, tendo em vista a comprovação da titularidade dos imóveis especificados nas primeiras declarações apresentadas no inventário; b) houve inequívoca comprovação da titularidade dos imóveis pertencentes ao autor da herança, sendo devido o prosseguimento do inventário, conforme a relação de bens e direitos arrolados nas primeiras declarações.
+Contrarrazões às fls. 279-285 (e-STJ).
+O Tribunal de origem não admitiu o recurso especial, o que levou as insurgentes à interposição de agravo.
+Contraminuta às fls. 303-304 (e-STJ).
+Brevemente relatado, decido.
+De início, em relação à suposta negativa de prestação jurisdicional, constata-se que o acórdão combatido resolveu satisfatoriamente todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, tendo apresentado os motivos pelos quais entendeu pela inexistência da comprovação da propriedade do imóvel arrolado nas primeiras declarações do processo de inventário, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Essa é a conclusão que se depreende do que ficou registrado no acórdão recorrido (e-STJ, fls. 108-110 - sem grifo no original):
+O cerne da questão diz respeito ao fato do Juízo Monocrático entender que não houve comprovação nos autos da propriedade do imóvel número nº 186, térreo e primeiro andar, da Rua Malaquias Gonçalves da Rocha, no bairro do Arruda, nesta cidade do Recife, em nome da de cujus MARTA AMÉLIA DA FONSECA e determinou a intimação da inventariante para retificar as primeiras declarações, excluindo o aludido imóvel dos bens do inventário.
+A parte agravante alega que o referido imóvel se encontra cadastrado em nome da falecida junto à CELPE, como responsável pelo contrato de energia do imóvel, o que comprovaria a propriedade do bem.
+Pois bem.
+Cuido ser o caso de manter a decisão ora recorrida, senão vejamos.
+De acordo com o artigo 620, IV, a) do CPC, nas primeiras declarações do inventário deverá constar os imóveis do espólio, com sua matrícula.
+Havendo dúvida quanto à propriedade do bem em discussão no presente agravo, descabe discriminá-lo nas primeiras declarações posto que o aludido ato se presta a apresentar também a relação completa dos bens imóveis com a respectiva certidão de matrícula em nome do "de cujus", o que não foi comprovado nos autos.
+Ademais, o simples fato do imóvel se encontrar cadastrado junto à CELPE em nome da falecida não faz prova de propriedade.
+(..)
+Desta feita, embora se esteja em sede de juízo de cognição sumária e a controvérsia se paute em torno de matéria eminentemente fática, não permitindo a este Relator adentrar de forma percuciente no exame dos bens do espólio, sob pena de se esgotar o enfrentamento do mérito da ação originária, da análise dos autos, verifica-se que havendo dúvida quanto a propriedade do bem imóvel número nº 186, da Rua Malaquias Gonçalves da Rocha, no bairro do Arruda, Recife, deve ser mantida a decisão agravada.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022 do CPC/2015.
+Cabe ressaltar, nesse contexto, que "o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp n. 1.523.744/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Outrossim, importante consignar que a contradição que autoriza embargos de declaração é a contradição interna, isto é, aquela existente no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis, situação de nenhuma forma depreendida no acórdão estadual.
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meio dos embargos de declaração apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015.
+INOCORRÊNCIA.
+1. Ação de indenização por danos morais e materiais, em fase de cumprimento de sentença.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1926164/SE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 11/10/2021, DJe 15/10/2021.)
+Quanto ao mais, da leitura dos trechos acima transcritos, observa-se que o Tribunal estadual entendeu que é devida a retificação das primeiras declarações apresentadas nos autos da ação de inventário, a fim de determinar a exclusão do imóvel em questão, tendo em vista a ausência de comprovação de que a propriedade do referido bem pertence ao espólio.
+Diante desse contexto, o acolhimento das teses veiculadas nas razões do recurso especial, centralizadas na alegação de que houve a inequívoca comprovação da titularidade do referido imóvel nas primeiras declarações, em confronto com as conclusões assentadas pelas instâncias ordinárias, não prescindiria do reexame de fatos e provas dos autos, o que é vedado no âmbito do recurso especial, conforme a Súmula 7 desta Corte.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RETIFICAÇÃO DAS PRIMEIRAS DECLARAÇÕES. AUSÊNCIA DE COMPROVAÇÃO DA PROPRIEDADE DE BEM ARROLADO. REVISÃO DO JULGADO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
