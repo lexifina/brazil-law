@@ -1,0 +1,38 @@
+DECISÃO
+EDUARDO DOMINGUES RIBEIRO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0010497-92.2023.8.26.0996.
+A defesa busca o restabelecimento da decisão proferida pelo Juízo da execução, que concedeu indulto ao paciente, pois reputa preenchidos os requisitos exigidos pelo Decreto Presidencial n. 11.302/2022.
+O Ministério Público opinou pelo não conhecimento do writ.
+Decido.
+Infere-se dos autos que o paciente cumpre pena privativa de liberdade de 4 anos, 4 meses e 15 dias de reclusão, pela prática do crime de tráfico privilegiado.
+Formulado em seu favor pedido de indulto, com base no Decreto Presidencial n. 11.302/2022, este foi deferido pelo Magistrado de primeiro grau, por meio de decisão assim fundamentada (fls. 29-34):
+Analisando os autos, observo que o sentenciado satisfaz os requisitos para obtenção do Indulto, concedido pelo Presidente da República, por meio do Decreto nº 11.302/2022.
+Com efeito, foi condenado pela prática do crime previsto no § 4º do artigo 33, da Lei nº 11.343/2006 (tráfico privilegiado), atentando-se para a ressalva constante no inciso VI, do artigo 7º do Decreto Presidencial já citado.
+Conforme dispõe o parágrafo único do artigo 5º, do Decreto nº 11.302/2022, em caso de concurso de crimes, deve ser considerada individualmente a pena de cada um deles.
+Respeitado o entendimento institucional do Ministério Público do Estado de São Paulo, no sentido que a norma insculpida no artigo 5º do Decreto Presidencial já citado é inconstitucional, por não exigir lapso temporal mínimo de cumprimento da pena, tampouco prever requisitos de ordem pessoal normalmente exigidos para concessão da benesse, concedendo o benefício de forma genérica e abstrata, sem observância dos princípios constitucionais da individualização da pena e da proporcionalidade e razoabilidade e sem considerar a finalidade do instituto, de coibir excessos, tenho que não há que se falar em inconstitucionalidade da norma. O artigo 84, XII, da Constituição Federal, não estabelece requisitos mínimos para concessão do indulto presidencial, não cabendo ao Poder Judiciário estabelece-los. A única limitação ao exercício do poder discricionário do Presidente da República de conceder indulto está prevista no artigo 5º, XLIII, na Constituição Federal, que estabelece serem insuscetíveis de graça ou anistia os cri mes de tortura, tráfico de drogas, terrorismo e qualificados como hediondos.
+Desta forma, ainda que não se concorde com os critérios definidos pelo Presidente da República para concessão do indulto, não se pode negar aplicação à norma.
+ ..
+Diante do exposto e considerando o mais que dos autos consta, concedo em favor de EDUARDO DOMINGUES RIBEIRO  .. .
+O Tribunal estadual cassou o decisum supra, sob os seguintes fundamentos (fls. 63-64):
+ ..  o agravado fora condenado como incurso no art. 33, §4º, c.c. art. 40, V, todos da Lei 11.343/06 (fls.
+21/22). Ademais, no processo de conhecimento, a fração minorante foi aplicada no patamar de 1/4, ao passo que a fração agravante foi fixada no patamar de 1/6 (fls. 15/20).
+Visto isso, uma vez que a pena máxima em abstrato prevista para o delito de tráfico é de 15 anos de reclusão, conclui-se não estar preenchido o requisito do art. 5º do Decreto Presidencial, independentemente de serem as causas de aumento e diminuição computadas abstratamente (considerando, como de praxe, as frações que respectivamente mais aumentam e menos diminuem a sanção) ou concretamente.
+Cumpre argumentar, contudo, que se rejeita por completo a tese da d. Procuradoria quanto à existência de impedimento relativo à natureza do crime, eis que o mencionado art. 7º, inciso VI, do diploma legal excetua ao óbice ali presente a hipótese de tráfico "privilegiado". Entretanto, como visto, o que obsta a concessão do benefício no presente caso não é a natureza do crime, mas sim a quantia de pena máxima a ele cominada.
+Portanto, de rigor revogar o benefício concedido.
+Prequestionadas estão, no corpo deste decisum, as questões suscitadas pelo agravante.
+Por votação unânime, DERAM PARCIAL PROVIMENTO ao recurso a fim de, reafirmada a constitucionalidade do art. 5º do Decreto Presidencial nº 11.302/2022, cassar a decisão guerreada e revogar o benefício concedido ao reeducando, em razão do não preenchimento das condições exigidas pelo mencionado Decreto.
+Quanto ao crime de tráfico privilegiado, mister ressaltar que o Plenário do Supremo Tribunal Federal, por ocasião do julgamento do HC n. 118.533/MS, decidiu que o chamado "tráfico privilegiado" - aquele em que há a redução de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 - não deve ser considerado crime de natureza hedionda. Segundo a relatora, Ministra Cármen Lúcia, tal crime não se harmoniza com a qualificação de hediondez dos delitos previstos no caput e no § 1º do art. 33 da Lei de Drogas.
+Em virtude da nova compreensão do Pretório Excelso acerca da matéria, a Terceira Seção desta Corte Superior de Justiça, no julgamento da Pet n. 11.796/DF, ocorrido em 23/11/2016, revisou o teor da Súmula n. 512 e, ao acolher a tese segundo a qual o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, cancelou o enunciado.
+Ademais, consoante prevê o art. 112, § 5º, da Lei de Execução Penal, incluído pela Lei n. 13.964/2019, " n ão se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006".
+O Decreto Presidencial n. 11.302/2022, no inc. VI do art. 7º, expressamente excepciona o tráfico privilegiado do rol de delitos a que a concessão da benesse é vedada. Diante de tal dispositivo, esta Corte Superior tem entendido que "não subsiste o requisito objetivo da pena máxima em abstrato invocado pelas instâncias ordinárias como óbice à indulgência (art. 5º do mesmo Decreto)" (HC n. 851.239/SC, Rel. Ministro Reynaldo Soares da Fonseca, DJe 5/9/2023).
+Na mesma direção:
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INDULTO (DECRETO PRESIDENCIAL N. 11.302/2022). TRÁFICO PRIVILEGIADO E REPRIMENDA INFERIOR A 5 ANOS. POSSIBILIDADE. PRECEDENTE. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+(AgRg no HC n. 864.295/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023)
+ ..
+2. O acórdão embargado é claro ao mencionar que, de acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange o tráfico privilegiado de drogas. E, embora o caput do art. 5º vede o beneficio às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos, tais dispositivos devem ser interpretados no sentido de que o art. 7º, VI, parte final, do Decreto n. 11.302/2022, excepciona a regra geral estabelecida no art. 5º do referido ato.
+3. Inexiste obscuridade acerca da posição do julgador sobre o tema, decorrente de manifesta confusão ou ininteligência. O inconformismo do embargante, na realidade, é com o julgamento meritório, desiderato inadmissível em aclaratórios.
+4. Embargos de declaração acolhidos para afastar a intempestividade dos aclaratórios de e-STJ fls. 121/124, rejeitando-o, todavia, no mérito.
+(EDcl nos EDcl no AgRg no HC n. 818.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023)
+À vista do exposto, concedo a ordem de habeas corpus, para restabelecer a decisão do Juízo de primeiro grau, que deferiu ao paciente o indulto, com base no Decreto Presidencial n. 11.302/2022.
+Publique-se e intimem-se.
+EMENTA
