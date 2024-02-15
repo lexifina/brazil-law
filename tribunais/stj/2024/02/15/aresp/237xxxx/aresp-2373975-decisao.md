@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NATANAEL CARDOSO TEIXEIRA contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS (e-STJ fls. 231-232).
+O ora agravante foi condenado as penas de 5 anos e 4 meses de reclusão, em regime fechado, além do pagamento de 64 dias-multa, pela prática do crime previsto no art. 155, §1º e § 4º, I e II, do Código Penal.
+O Tribunal de origem negou provimento ao recurso da defesa (e-STJ fls. 221-232).
+Os embargos de declaração opostos pelo ora recorrente foram rejeitados (e-STJ fls. 281-282).
+Nas razões do recurso especial a defesa aponta violação aos arts. 58 e 59 do Código Penal relativamente à equivocada valoração negativa das circunstâncias judiciais de culpabilidade, conduta social e consequências do delito, bem como ao art. 155, § 1º do Código Penal no tocante à necessidade de afastamento do repouso noturno. Alega ausência de fundamentação idônea para a negativação das circunstâncias na primeira fase da dosimetria, bem como necessidade de aplicação do Tema 1087 do STJ quanto à causa de aumento do repouso noturno (e-STJ fls. 294-307).
+Contrarrazões apresentadas às e-STJ fls. 313-316.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7 do STJ, quanto à violação aos arts. 58 e 59 do Código Penal. Quanto à causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) determinou "o encaminhamento dos auto s ao órgão julgador de origem nesta Corte para apreciação quanto ao afastamento da causa de aumento do repouso noturno (art. 155, §1º, do CP) em atenção ao entendimento firmado pela 3ª Seção do STJ (Tema 1087)" (e-STJ fl.325). O agravante impugnou o fundamento da decisão de inadmissibilidade (e-STJ fls. 336-344).
+Parecer do Ministério Público Federal em preliminar, pelo retorno dos autos ao Tribunal de origem e assim não se entendendo, pelo conhecimento do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 369-376).
+É o relatório. Decido.
+Na decisão de e-STJ fls. 322-326, da Presidência do Tribunal de origem, que inadmitiu o recurso especial em relação a neutralização das circunstâncias judiciais, foi, ainda, determinado "o encaminhamento dos autos ao órgão julgador de origem nesta Corte para apreciação quanto ao afastamento da causa de aumento do repouso noturno (art. 155, §1º, do CP) em atenção ao entendimento firmado pela 3ª Seção do STJ (Tema 1087)".
+O Ministério Público Federal, instado a se manifestar nesta instância, em preliminar de seu parecer, ressaltou que (e-STJ fl. 372):
+A providência, no entanto, não foi cumprida, seguindo-se a manutenção da inadmissão do recurso, sem alusão a essa diligência, e remessa dos autos a esse Superior Tribunal de Justiça.
+Impõe-se, assim, o retorno dos autos ao Tribunal de origem, para que se dê cumprimento à decisão de fls. 326/326 quanto à alegação de violação do art. 155, § 1º, do CPP.
+A medida é relevante quando se considera a impossibilidade de concessão de habeas corpus, de ofício, a respeito de matéria não apreciada pelo Tribunal a quo, sob pena de supressão de instância e violação das normas constitucionais definidoras da competência desse Superior Tribunal de Justiça.
+Com efeito, a determinação constante na decisão da Presidência do Tribunal de Justiça Tocantinense não foi cumprida.
+Dessa forma, determino o retorno dos autos ao Tribunal a quo a fim de que se cumpra o constante na decisão da Presidência de encaminhamento dos autos ao órgão julgador de origem "para apreciação quanto ao afastamento da causa de aumento do repouso noturno (art. 155, §1º, do CP) em atenção ao entendimento firmado pela 3ª Seção do STJ (Tema 1087)" (e-STJ fls. 322-326).
+Intimem-se.
+EMENTA
