@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 593):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO. LIQUIDAÇÃO DE SENTENÇA. TELEXFREE. PROVA MÍNIMA. DIREITO MÍNIMO. DECISÃO ANTERIOR. RECONHECIMENTO. DECISUM NA CONFORMIDADE DO ACÓRDÃO. ÔNUS DA PROVA. INVERSÃO. SEGURANÇA JURÍDICA. RECURSO DESPROVIDO. a) In casu, prolatada sentença na conformidade do Acórdão n.º 19.190, que reconheceu a prova mínima pela Apelante e determinou a distribuição dinâmica do ônus da prova, desnecessário a juntada de boletos de pagamento pela Apelada. b) Recurso desprovido.
+Em suas razões (e-STJ fls. 599/622), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 370 e 373 do CPC/2015, pois (e-STJ fls. 608/617):
+ ..  o Recorrido não demonstrou de forma mínima seu vínculo com a parte Recorrente, vez que não apresentou documentação hábil a demonstrar qualquer vínculo com a Recorrente.
+ ..  No caso em tela, o autor acostou comprovantes de pagamento ilegíveis, sendo impossível aferir se houve o pagamento pela Recorrida e um recebimento pela Recorrente.
+ ..  considerando que esta Administradora Judicial, na condição de representante da Massa Falida Requerida, não tem e nunca teve acesso ao sistema BackOffice e a plataforma virtual da TelexFree desde a sua nomeação para o encargo, não poderá ser exigida da ora Requerida a apresentação de um documento que não mais existe, ou seja, impondo a produção de prova impossível ou negativa (res diabolica).
+Contrarrazões não apresentadas (e-STJ fl. 630).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem assim entendeu (e-STJ fls. 594/595):
+ ..  já decidiu este Órgão Fracionado Cível que consta dos autos prova mínima da relação jurídica entre as partes  indicação de logins e prints da tela do back office contendo informações sobre a conta da Autora (pp. 20/21)  tanto é que objeto de deferimento a distribuição dinâmica do ônus da prova, no caso, nesta instância de jurisdição, quando do julgamento dos anteriores apelos interpostos nestes autos  Acórdão n.º 19.190 e Acórdão nº 20.963  conforme a seguir: (..) "De todo exposto, voto pelo provimento ao recurso para desconstituir a sentença e possibilitar a distribuição dinâmica do ônus da prova em vista da condição de divulgadora da Autora/Apelante demonstrada às pp. 20/21 e, via de consequência, determinar o prosseguimento do feito em singela instância, com reabertura de prazo para juntada de memória de cálculo atualizada." (pp. 333/337).
+Assim, da distribuição dinâmica do ônus da prova deferida na espécie por reconhecer prova mínima da relação entre as partes, defeso ao d. Juízo de origem, em seguida, julgar improcedente a ação sob a motivação de ausência de direito mínimo da Apelante.
+Portanto, caracterizado error in procedendo, de vez que o d. Juízo de Origem não observou a determinação dessa instância  que reconheceu a existência de direito mínimo da Autora/Apelante e determinou a distribuição dinâmica do ônus da prova  e julgou a ação em desconformidade ao Acórdão 19.190.
+Não bastasse, constato prolatada sentença em conformidade com os acórdãos supra mencionados, que reconheceram a prova mínima pela Apelante e determinaram a distribuição dinâmica do ônus da prova, afastando suposta falta de comprovação do investimento pela Apelada, ou ainda suposta impossibilidade de exibição de provas pela Apelante, até mesmo por segurança jurídica dado que já exposto o entendimento deste Órgão Fracionado Cível quanto ao ponto no caso concreto, nos apelos anteriores.
+Modificar o entendimento do acórdão impugnado quanto à existência de prova mínima do direito da recorrida, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC/2015).
+Publique-se e intimem-se.
+EMENTA
