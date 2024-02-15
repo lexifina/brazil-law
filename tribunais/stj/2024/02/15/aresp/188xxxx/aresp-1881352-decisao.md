@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União contra decisão proferida pelo Tribunal Regional Federal da 3ª Região, constante das e-STJ fls. 125/129.
+Defende o ente federal, em resumo, violação: a) do art. 60 do Decreto 89.312/1984, ao argumento de que a parte autora não era segurada no INAMPS, razão pela qual não faria jus ao reembolso requerido; b) dos arts. 38 e 55 da Lei n. 8.080/1990, fundamentando que houve a revogação do art. 60 do Decreto n. 89.312/1984; e c) ao art. 1º-F da Lei n. 9.494/1997.
+O recurso não foi admitido na origem, tendo a parte interposto agravo somente em relação aos itens "a" e "b", renunciando ao direito de recorrer do item "c".
+Passo a decidir.
+De início, saliento que "o agravo poderá ser julgado, conforme o caso, conjuntamente com o recurso especial ou extraordinário, assegurada, neste caso, sustentação oral, observando-se, ainda, o disposto no regimento interno do tribunal respectivo" (art. 1.042, § 5º, do CPC).
+No caso, embora a União tenha infirmado em concreto a razão da inadmissão do apelo, admitindo o exame deste, o mérito em si do recurso especial não pode ser conhecido.
+Em primeiro lugar, a alegação de que a parte ora recorrida não era segurada no INAMPS não consta da sentença e acórdão da origem. Assim, para ser confirmada, reclamaria evidente exame de matéria fático-probatória, providência inviável por conta da Súmula 7 do STJ.
+Quanto à alegada violação dos arts. 38 e 55 da Lei n. 8.080/1990, constato que a redação do apelo especial não demonstrou de maneira clara e objetiva como o acórdão recorrido teria malferido a legislação federal indicada no recurso, pelo que aplicável a Súmula 284 do STF.
+Registre-se que a citação geral de artigos de lei ao longo do apelo especial não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se foram eles citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/06/2018).
+Nesse mesmo sentido: AgInt no AREsp n. 2.058.337/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/11/2022, DJe de 17/11/2022; AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020, AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020.
+O ente federal não promoveu nenhum exame, em concreto, do conteúdo das normas em relação aos fundamentos erigidos no acórdão recorrido, deixando de especificar como a decisão que estava impugnando teria negado vigência à legislação infraconstitucional que foi indicada.
+Ante o exposto, CONHEÇO do agravo da União para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
