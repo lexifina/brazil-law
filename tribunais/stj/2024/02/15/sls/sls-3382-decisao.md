@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de suspensão de liminar e de sentença formulada por CLEVERSON PEDRO SOUSA DE JESUS contra decisão proferida nos autos do Agravo de Instrumento n. 0827639-04.2023.8.10.0000.
+Consta do processado que, na origem, foi ajuizada ação popular, com pedido de antecipação de tutela, contra o Prefeito do Município de Cândido Mendes - MA objetivando afastá-lo do cargo, bem como anular a licitação Tomada de Preços n. 004/2023.
+O Juízo da Vara Única da Comarca de Cândido Mendes - MA determinou o encaminhamento do feito ao Ministério Público Estadual antes de deliberar sobre a liminar. Interposto Agravo de Instrumento, o Desembargador Relator postergou o exame da antecipação da tutela recursal para aguardar a manifestação da outra parte.
+Neste incidente, sustenta a parte autora que a não apreciação do pedido liminar causa grave lesão à ordem e à economia pública.
+Discorre sobre os vícios que entende haver no processo de licitação objeto da ação popular, sustentando que "deve ser deferido o pedido afastamento imediato do prefeito pelo período inicial de 90 (noventa) dias, a fim de que se conclua investigação instaurada pelo Ministério Público e não haja interferência ou risco de pagamentos indevidos irreversíveis ao Município de Cândido Mendes - MA".
+Requer, ao fim:
+a) seja concedida, inaudita altera pars, liminar para deferir o AFASTAMENTO PELO PRAZO DE 90 (NOVENTA DIAS) DO ENTÃO PREFEITO MUNICIPAL, SR. JOSÉ BONIFACIO ROCHA DE JESUS, das funções de prefeito municipal de Cândido Mendes -MA, até decisão final de mérito nos autos do processo de origem (Ação Popular nº. 0801023-46.2023.8.10.0079) em cuja haverá conclusão de investigação instaurada pelo Ministério Público Estadual, por analogia do art. 20, § 2º, da Lei 8.429/92;
+b) que o processo licitatório Tomada de Preços nº 004/2023, a partir do Processo Administrativo nº 056/2023, realizado pelo Município de Cândido Mendes/MA seja suspenso, assim como os pagamentos; caso tenham sido realizados pagamentos, que sejam buscados o estorno de tais valores nas contas bancárias da empresa vencedora do certame;
+É o relatório.
+Cumpre ressaltar, de início, que a Suspensão de Liminar e Segurança constitui incidente processual por meio do qual a pessoa jurídica de direito público ou o Ministério Público buscam a proteção do interesse público em face de um provimento jurisdicional que cause grave lesão à ordem, à saúde, à segurança e à economia pública.
+No caso, figura como autor do pleito suspensivo pessoa física, é certo que vereador do Município de Cândido Mendes/MA. Para defender sua legitimidade, apoia-se em precedente desta Corte que reconhecer ser possível ao agente político formular pedido de contracautela em defesa de seu mandato. O objetivo final é obter o afastamento do Prefeito Municipal do exercício de seu cargo.
+Ocorre, todavia, que a hipótese não se confunde com aquel"outra em que a jurisprudência deste Tribunal Superior reconhece legitimidade ao agente político para ajuizar pedido de suspensão com o objetivo de sustar os efeitos de decisão que o afastou do cargo. Diferentemente, aqui não se defende o mandato conferido pelo sufrágio universal, pelo contrário, busca-se o afastamento de um agente político, prefeito municipal.
+Aliás, a legislação de regência não confere legitimidade ativa às pessoas físicas para manejar a contracautela, donde resulta forçoso reconhecer a ilegitimidade ativa ad causam da parte requerente.
+Nesse sentido:
+AGRAVO INTERNO NA PETIÇÃO. PESSOA FÍSICA. ILEGITIMIDADE. PEDIDO NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Nos termos da legislação de regência (Lei nº 8.437/1992 e 12.016/2009), da jurisprudência do Superior Tribunal de Justiça e do colendo Pretório Excelso, será cabível o pedido de suspensão quando a decisão proferida em ação movida contra o poder público puder provocar grave lesão à ordem, à saúde, à segurança ou à economia públicas.
+2. As pessoas físicas não tem legitimidade para formular pedido de suspensão de decisão ou de sentença nesta Corte Superior. Este pode ser requerido por pessoa jurídica de direito público ou pelo Ministério Público, além das hipóteses que a jurisprudência alcança, como as concessionárias e permissionárias de serviço público, quando em defesa de interesse da coletividade.
+3. Agravo interno desprovido.
+(AgInt na Pet 11.563/SP, relatora Ministra LAURITA VAZ, Corte Especial, julgado em 7/6/2017, DJe de 14/6/2017)
+Ademais, a suspensão, via excepcional de defesa do interesse público, depende da existência de ação cognitiva em curso proposta contra o Poder Público (que deve ser o requerente). Isso porque sua finalidade é evitar que uma situação inesperada e que tenha promovido repentinamente alteração no status quo ante enseje prejuízos (danos graves) à Fazenda Pública.
+In casu, consoante relatado, não há qualquer decisão contra o Poder Público, uma vez que os pedidos liminares formulados nas instâncias ordinárias não foram apreciados.
+Na real verdade, pretende a parte requerente, por via transversa, afastar o Prefeito Municipal de seu cargo, subvertendo o pedido suspensivo em sucedâneo recursal, o que não se admite.
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
+EMENTA
+SUSPENSÃO DE LIMINAR E DE SENTENÇA. INCIDENTE PROPOSTO POR PESSOA FÍSICA. ILEGITIMIDADE ATIVA. VEREADOR QUE NÃO REPRESENTA A CÂMARA DE VEREADORES. INDEVIDA UTILIZAÇÃO DO PEDIDO SUSPENSIVO COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. PEDIDO NÃO CONHECIDO.
