@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRJ assim ementado (e-STJ fl. 795):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONTRATOS DE PRESTAÇÃO DE SERVIÇO PUBLICITÁRIO. O ACÓRDÃO NEGOU PROVIMENTO AO RECURSO E MANTEVE A SENTENÇA QUE REJEITOU OS EMBARGOS MONITÓRIOS. O E. STJ DETERMINOU O RETORNO DOS AUTOS PARA REAPRECIAÇÃO DOS EMBARGOS DE DECLARAÇÃO, SUPRINDO, ASSIM, AS OMISSÕES RELATIVAS À ALEGAÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL. A Ré, em sua contestação, não alega qualquer nulidade das referidas cláusulas contratuais. Com efeito, não pode a Ré, em sede de apelação, tentar se eximir do pagamento da multa contratual e dos juros por seu inadimplemento, já que o limite do contrato é aquele delimitado pelo escudo da boa-fé. No que tange à alegação de abusividade dos valores cobrados, verifica-se que o contrato celebrado entre as partes no ano de 2013 foi efetivado de forma livre, por agentes capazes, em ajuste oneroso válido, com cláusulas contratuais claras e com todos os valores e percentuais discriminados. Inexistência de violação a qualquer dispositivo de lei. Aplicação ao caso da Súmula nº 52, deste Tribunal. Recurso desprovido.
+Nas razões do recurso (e-STJ fls. 804/821), interposto com fundamento no art. 105, III, "a", da CF, a p arte recorrente aponta violação dos arts. 1º do Decreto-Lei n. 22.626/1933, 4º da Lei n. 1.521/1951, 166, VI e VII, 406, 602, caput e parágrafo único, e 603 do CC/2002, sustentando que deve ser declarada a nulidade das cláusulas abusivas, que estipulam juros acima do limite legal.
+Argumenta ainda que cumpriu com seu encargo probatório e que "é fato incontroverso que os contratos objeto da demanda foram rescindidos por justa causa, por iniciativa da ora recorrente através da notificação de fls. 231/235 (que o v. acórdão recorrido reconheceu ter sido enviada), estando claro por seu teor que o inadimplemento se configurara pela superação do termo contratual em 30/09/2013 sem que os serviços fossem entregues" (e-STJ fl. 820).
+Sustenta que não lhe pode ser imputada a responsabilidade pelo pagamento integral do serviço que não foi executado.
+Foram apresentadas contrarrazões (e-STJ fls. 830/837).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 839/843), os autos vieram a esta Corte.
+É o relatório
+Decido.
+Após o provimento de anterior recurso especial (REsp n. 1.819.571/RJ), determinando o retorno dos autos à origem para suprimento da omissão, a Corte estadual analisou a matéria nos seguintes termos (e-STJ fls. 800/801):
+Analisando os Embargos Monitórios, bem como, as demais provas colacionadas nos autos, observa-se que a Ré não logrou êxito em provar o descumprimento contratual.
+Deve ser ressaltado que a Ré, em sua contestação, não alega qualquer nulidade das referidas cláusulas contratuais, restringindo o seu pedido ao requerimento de ilegitimidade ativa e improcedência da ação ou, caso contrário, que o valor do dano moral seja fixado com equidade, in verbis:
+(..)
+A própria Ré assume o cumprimento do contrato, quando afirma em sua contestação, que houve a aprovação do logotipo, e que, pago os valores, deveriam os direitos sobre os logotipos serem transferidos a ela.
+Quanto à alegada nulidade e abusividade das cláusulas 4.2, dos contratos celebrados no ano de 2013, que prevêem a cobrança de multa e juros de 9% (nove por cento), ao mês, no caso de inadimplemento, esta não merece prosperar.
+Com efeito, no que tange à alegação de abusividade dos valores cobrados, verifica-se que o contrato celebrado entre as Partes foi efetivado de forma livre, por agentes capazes, em ajuste oneroso válido, com cláusulas contratuais claras e com todos os valores e percentuais discriminados (e-doc. 000039 e 000080).
+Não pode a Ré, em sede de apelação, tentar se eximir do pagamento da multa contratual e dos juros por seu inadimplemento, já que o limite do contrato é aquele delimitado pelo escudo da boa-fé.
+Observe-se que, se existisse qualquer dúvida quanto aos valores cobrados pela Autora, cabia a Ré trazer planilha nesse sentido, bem como, requerer prova técnica, fato que não ocorreu, já que, intimada a se manifestar em provas, quedou-se inerte (e-doc. 000377).
+lnexiste, assim, ofensa a qualquer dispositivo de Lei, mais especificamente aos alegados artigos 406 do Código Civil, 4º da Lei 1.52 1 / 5 1 e 1º, do Decreto-Lei 22.626/33.
+O exame da pretensão recursal no sentido de verificar o alegado descumprimento contratual pela parte contrária e a abusividade das cláusulas demandaria nova análise de matéria fática, o que é vedado em recurso especial por incidência das Súmulas n. 5 e 7 do STJ.
+Acrescente-se que a parte não apresentou impugnação ao fundamento do acórdão recorrido de que caberia à parte recorrente apresentar planilha para demonstrar o valor cobrado ou requerer prova técnica. Em tais condições, incide também a Súmula n. 283 do STF a impedir o seguimento do especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Em face do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
