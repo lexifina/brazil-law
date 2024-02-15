@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SUSETE TERESINHA FERREIRA COLLETTI à decisão monocrática proferida por este signatário, que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, nos termos da seguinte ementa (fl. 177, e-STJ):
+RECURSO ESPECIAL. EXECUÇÃO. CÔNJUGE. PENHORA DE PARTE IDEAL. REGIME DE COMUNHÃO UNIVERSAL DE BENS. POSSIBILIDADE DE CONSTRIÇÃO MESMO SEM INTEGRAR A LIDE. PRECEDENTES DO STJ. DÍVIDA. BENEFÍCIO DA FAMÍLIA. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. SÚMULA N. 7/STJ. DEMAIS ARTIGOS DE LEI FEDERAL. NÃO PREQUESTIONADOS. SÚMULA 282/STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NEGA-LHE PROVIMENTO.
+Em suas razões (fls. 185-1862, e-STJ), sustenta a parte embargante que "o Tribunal a quo expressamente declarou que dava por prequestionada tais matérias, pois houve o devido prequestionamento da matéria nas instâncias inferiores, restando obscuro o entendimento de ausência de prequestionamento desta matéria" (e-STJ, fl. 186).
+Impugnação apresentada (e-STJ, fls. 191-194).
+Brevemente relatado, passo a decidir.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, apenas têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situações que não se observam na espécie.
+A decisão embargada decidiu a controvérsia com base em fundamentação sólida, sem omissões ou contradições. Na verdade, somente se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+Dito isso, cabe rememorar que os arts. 1.667 e 2.039, do CC apontados como violados nas razões do apelo extremo carecem do indispensável prequestionamento, a atrair a incidência do óbice da Súmula 211 do STJ. Isso porque não foi debatida no acórdão recorrido a matéria referente à inaplicabilidade do artigo de lei federal para situações anteriores à vigência do CC/2002.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da ora insurgente, não se pode negar ter havido efetivo enfrentamento e resposta aos pontos controvertidos.
+A propósito (sem destaque no original):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.978.138/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 30/5/2022)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.980.535/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 19/5/2022).
+Cumpre ressaltar que para que se configure o prequestionamento, não basta que a embargante devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+O simples fato de o Tribunal a quo ter declarado como prequestionados os dispositivos, a fim de viabilizar o acesso à instância superior, não é suficiente para a admissão do recurso. Isso porque, para que se tenha por atendido o requisito do prequestionamento, não basta que a Corte de origem dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria. (STJ, AgRg no REsp 1.344.881/RS, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 08/02/2013). Agravo interno improvido" (STJ, AgInt no AREsp 516.664/D F , Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 23/10/2020).
+Dessa forma, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo pretendido pela parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
