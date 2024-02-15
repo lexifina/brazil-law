@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUILHERME NEVES DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela, suposta, prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, que manteve a decisão do Juízo de primeiro grau, conforme acórdão, fls. 17-35.
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente, apontando ausência de fundamentação para a segregação cautelar.
+Aduz que:
+"havendo medidas cautelares alternativas a serem fixadas no presente caso, a prisão preventiva do paciente, além de medida descabível e desarrazoada, pode representar prejuízos irreparáveis para a vida profissional e pessoal do paciente, este que pode ser até dispensado de seu trabalho" (fl. 11)
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 45-46.
+Informações prestadas, às fls. 52-271 e 274-294. O Ministério Público Federal, às fls. 296-299, opinou pela denegação da ordem. Confira-se a ementa do parecer:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES (ART. 33, CAPUT, DA LEI Nº 11.343/2006). PRISÃO PREVENTIVA. PROVA DA MATERIALIDADE E INDÍCIOS DEAUTORIA DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Pelo não conhecimento do writ, mas, caso conhecido, pela denegação da ordem" (fl. 296).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta supostamente perpetrada; haja vista a quantidade de droga apreendida, no contexto da traficância, (507,50 gramas de maconha e 17,40 gramas de crack); não se olvidando o risco de reiteração criminosa, pois ele ostenta outras passagens criminais.
+No ponto, consta no acórdão hostilizado:
+"Afinal, evitando fazer afirmações incompatíveis com o presente momento processual, certo é que os fatos, ora apurados, relevam-se de elevada gravidade concreta, eis ter sido apreendida considerável quantidade de entorpecentes (507,50g de maconha e 17,40g de crack -conforme Laudos disponíveis no PJE -ID 9844163844, 9844163845 e 9844163846), restando fundamentada, por ora, a necessidade da constrição, em especial para a garantia da ordem pública.
+Ademais, depreende-se da FAC do paciente (disponível no PJE -ID9844166603) que ele ostenta outros registros policiais (Inquéritos n.º 10651996/2021 e 12117239/2022), pelo suposto envolvimento com os delitos de tráfico de drogas e porte ilegal de arma de fogo, tendo sido beneficiado com alvarás de soltura, em 11/10/2021 e 05/12/2022, o que corrobora a necessidade de manutenção da prisão, visando a evitar o risco de reiteração delitiva" (fls. 25-26).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"Prisão preventiva. Fundamentação idônea. As instâncias originárias destacaram a necessidade da medida extrema para fins de garantia da ordem pública, em decorrência (i) da quantidade de substâncias entorpecente apreendida - 277 gramas de maconha e 7,9 gramas de crack durante cumprimento de mandado de busca e apreensão na residência do agravante; e (ii) a reiteração do agente na prática delitiva (maus antecedentes e outras passagens criminais), motivação considerada idônea para justificar a prisão cautelar, nos termos do art. 312 do Código de Processo Penal" (AgRg no HC n. 863.384/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/12/2023).
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos auto s elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
