@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 72):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. Objeção de pré-executividade. Dedução cabível para questões de ordem pública e teses embasadas em prova pré-constituída. Sentença arbitral dotada de liquidez. Presença de elementos suficientes ao cálculo do montante integral do débito, relativo a reembolsos fundados no rompimento de parceria imobiliária. Excesso não demonstrado de plano. Falta de indicação de valores históricos destoantes dos postulados pela except, ora agravada. Rejeição mantida. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 78/86), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 475-N, IV, do CPC/1973 e 515, VII, do CPC/2015, alegando que "o devedor deverá ser citado para i) satisfação da obrigação ou ii) proceder à liquidação, conforme a sentença arbitral estabeleça obrigação líquida ou ilíquida respectivamente  ..  Correto dizer que verificada a iliquidez do título (sentença arbitral), o procedimento de LIQUIDAÇÃO DE SENTENÇA ARBITRAL encontrasse expressamente previsto no § único do artigo 475-N do CPC/73, atual § 1º do artigo 515 do CPC/15" (e-STJ fls. 83/84).
+Em suma, são estes os pedidos recursais (e-STJ fl. 86):
+Isto posto, com fulcro no art. 105, inciso III, alínea "a" (negar vigência de lei federal), pede o PROVIMENTO do presente recurso especial para, diante da iliquidez da sentença arbitral (DOC. III  ANEXO), seja aplicado o disposto no  único do artigo 475-N do CPC/73, atual § 1º do artigo 515 do CPC/15, determinando-se a intimação do devedor para responder ao incidente de liquidação.
+Foram oferecidas contrarrazões (e-STJ fls. 157/171).
+No agravo (e-STJ fls. 362/369), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 373).
+É o relatório.
+Decido.
+O TJRJ, ao analisar as provas e as particularidades do caso, entendeu que, ao contrário do que a parte recorrente afirma, a sentença arbitral é liquida, conforme assentou (e-STJ fls. 75/76):
+Reexaminada a questão, este órgão verificou que não há qualquer modificação a ser feita no julgado.
+Conforme assinalado na decisão monocrática, a objeção de pré-executividade é reservada à suscitação de matérias de ordem pública, cognoscíveis de ofício pelo magistrado, questões de direito, além da matéria fática, desde que independa de dilação probatória.
+Ao contrário do que alega o agravante, a sentença arbitral é líquida, pois fornece elementos suficientes para o cálculo dos reembolsos devidos à excepta, para retorno das partes ao statu quo ante da parceria imobiliária rompida (pasta 748, do feito principal).
+Nesse aspecto, a agravada relaciona pagamentos realizados à agravante entre janeiro de 2007 e novembro de 2008, no valor histórico de R$ 493.533,33 (pasta 7, fls. 97); às prestadoras Baena, Ippólito e MH2, entre janeiro e abril de 2007, no valor histórico de R$ 65.507,40 (pasta 7, fls. 159) e a outros prestadores de fevereiro de 2007 a dezembro de 2008, no valor histórico de R$ 239.172,77, relativo a despesas cartorárias, com despachantes e manutenção de terrenos (pasta 207, fls. 257/258), cuja fração de 34,99%, correspondente a R$ 83.686,55, atribui à agravante (pasta 207, fls. 256).
+Suas planilhas discriminam os beneficiários dos pagamentos, as datas da sua realização e se foram feitos por cheque, DOC, TED ou transferência bancária, assim viabilizando plena auditoria pela agravante, notadamente no que concerne à compatibilidade com o escopo da parceria desfeita. Além disso, informam a aplicação de juros de 1% ao mês e correção monetária pelo IGPM, para justificar a atualização do débito para R$ 1.337.534,67 em 26/06/2012 (pasta 7, fls. 93).
+Ora, a agravante não impugna especificamente qualquer dos componentes destas planilhas, tampouco afirma que divirjam dos apontados nos cálculos da pasta 436, do mesmo feito, nos quais aquele montante foi atualizado para R$ 2.487.546,59, em 04/09/2017.
+Assentado que o títu lo é hígido e a agravante não comprova, de plano, qualquer excesso na execução passível de exclusão em sede de exceção de pré-executividade, correta a decisão que rejeitou o incidente.
+A Corte local reputou hígido o título, afirmando que a parte recorrente não comprovou, de plano, nenhum excesso na execução passível de exclusão em sede de exceção de pré-executividade. Daí por que considerou correta a decisão que rejeitou o incidente. A alteração do que decidido pelo colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a incidência da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
