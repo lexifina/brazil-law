@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 993/1.029) interposto contra decisão da Presidência desta Corte Superior que não conheceu do recurso (e-STJ fls. 986/988).
+Em virtude das razões apresentadas pela agravante, reconsidero a decisão de fls. 986/988 (e-STJ) e passo a novo exame do recurso.
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da inexistência de violação dos dispositivos legais apontados e da incidência das Súmulas n. 5 e 7 do STJ e 283 do STF (e-STJ fls. 935/937).
+O acórdão recorrido está assim ementado (e-STJ fl. 487):
+Recuperação judicial. Agravo de instrumento contra a decisão que determinou a devolução pela agravante de valores recebidos em virtude do enquadramento dela como credora estratégica, segundo disposição do plano de recuperação judicial. Agravante que é parte relacionada às recuperandas, conforme já reconhecido por esta Câmara em precedente agravo de instrumento e, por isso, deveria restituir as quantias recebidas antecipadamente, em detrimento de demais credores. Por não mais subsistirem as disposições do anterior plano de recuperação, que justificariam o pagamento dos valores antecipados à agravante, que, ademais, é parte relacionada às recuperandas, como já reconhecido por esta Câmara (AI nº 2092508-72.2016.8.26.0000), justifica-se a devolução das quantias anteriormente recebidas, exatamente como determinou a decisão agravada. Recurso desprovido, revogado o efeito suspensivo.
+Os embargos de declaração foram rejeitados (e-STJ fls. 876/881).
+No recurso especial (e-STJ fls. 884/914), fundamentado no art. 105, III, "a", da CF, recorrente alegou violação dos arts. 43 e 47 da Lei n. 11.101/2005, porque (e-STJ fls. 909):
+65. É patente, portanto, que o E. Tribunal a quo, ao determinar a devolução dos valores recebidos pela Recorrente, enquanto fornecedora estratégia e quando ainda sequer havia decisão declarando-a parte relacionada, acabou por violar frontalmente o artigo 43 da Lei Federal nº 11.101/2005, na medida em que não observou que a única restrição legal imposta aos sócios do devedor é o direito ao voto da assembleia geral e não o direito ao recebimento de valores quando tal sócio figura como fornecedor estratégico do devedor.
+No agravo (e-STJ fls. 940/978), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto à devolução dos valores recebidos pela agravante, o Tribunal de origem decidiu que (e-STJ fls. 880/881):
+A recorrente não nega que, apesar de deter expressivo crédito quirografário (R$ 4.093.981.63), trata-se de parte relacionada, ou seja, que integra o grupo societário ora em regime de recuperação.
+Aliás, esta C. Turma Julgadora decidiu, nos autos do AI nº 2092508-72.2016, julgado em sessão de 13.3.2017, sob a relatoria do Des. Caio Marcelo Mendes de Oliveira e com trânsito em julgado em 27.4.2017, nesse sentido:
+No caso, deve ser destacado que a "Halpink" possui 40,5850% do capital social da Renuka do Brasil S/A, conforme organograma apresentado aqui a fls. 29. Segundo informação dos próprios agravantes, a "Halpink" tem seu capital social distribuído, na proporção de 50%, entre as Famílias Toledo e Vettorazzo, que, conjuntamente, possuem 72,5% do capital social da Agropecuária Potenza (fls. 12) Ora, considerando que uma das principais sócias da recuperanda (Halpink) tem, na sua composição social, vinculação societária com a Agropecuária Potenza, esta resta legalmente impedida de votar nas assembleias gerais de credores.
+E, sendo parte relacionada, não poderia receber qualquer valor antes da liquidação integral de todos os créditos, inclusive dos credores extraconcursais aderentes.
+Esse é o teor da cláusula 3.3.3, que constava do plano vigente em outubro de 2016, quando recebeu os valores de R$264.313,95 e de R$267.253,60:
+(..)
+Portanto, diferente do que pretende, a vedação do enquadramento como credora estratégica não se deu com fundamento no art. 43 da LRF - que, de fato, circunscreve-se à votação -, mas com esteio em cláusula expressa do plano.
+E mais: ao dispor sobre a destinação do numerário que seria obtido com a alienação da UPI Madhu, o plano dispôs que o dinheiro não poderia ser destinado aos credores partes relacionadas (cláusula 4.2.5, item b).
+E nem se argumente que tal limitação seria apenas da parcela a ser paga com tais recursos (30%), pois, se não constou, na letra a da cláusula 9.1.2, tal restrição, já constante das cláusulas anteriores (3.3.3 e 4.2.5, letra b), subentende-se que também está implícita na letra b da mesma cláusula 9.1.2, que cuidava de esclarecer o pagamento dos 70% restantes.
+A Corte local entendeu que as cláusulas do plano de recuperação não autorizariam o recebimento de quaisquer valores pela agravante antes da liquidação integral de todos os créditos, inclusive dos credores extraconcurs ais aderentes. Para desconstituir a premissa estabelecida no acórdão recorrido, seria imprescindível a apreciação do conjunto fático-probatório dos autos, procedimento vedado pelas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, RECONSIDERO a decisão agravada de fls. 986/988 (e-STJ) e, em novo exame, NEGO PROVIMENTO ao agravo nos próprios autos.
+Publique-se e intimem-se.
+EMENTA
