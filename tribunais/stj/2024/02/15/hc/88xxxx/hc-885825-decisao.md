@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Pablo Marques da Silva, contra acordão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TRRITÓRIOS proferido no julgamento da Apelação n. 0707466-30.2022.8.07.0012.
+Consta dos autos que o paciente foi condenado como incurso nos arts. 147 e 155 do Código Penal e art. 21 da Lei de Contravenções Penais (ameaça, furto e vias de fato), às penas de 1 ano, 5 meses e 10 dias de reclusão, no regime semiaberto, 1 mês e 13 dias de detenção e 20 dias de prisão simples.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso, nos termos da seguinte ementa:
+"PENAL E PROCESSO PENAL. FURTO. AMEAÇA. VIAS DE FATO. ABSOLVIÇÃO. MATERIALIDADE E AUTORIA COMPROVADAS. FURTO FAMÉLICO. INVIABILIDADADE. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RÉU MULTIRREINCIDENTE. DOSIMETRIA. CULPABILIDADE. VALORAÇÃO DESFAVORÁVEL MANTIDA. FUNDAMENTAÇÃO IDÔNEA. REGIME INICIAL SEMIABERTO MANTIDO. GRATUIDADE DE JUSTIÇA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO.
+1. Incabível falar em absolvição quando as provas coligidas aos autos demonstram a materialidade e a autoria dos delitos, uma vez que a condenação está fundamentada nos depoimentos prestados em Juízo e na confissão do réu.
+2. O furto sob estado de necessidade ou famélico somente se configura em situação excepcional, sendo necessária a comprovação de que a subtração ocorreu realmente para satisfazer a fome do agente, não sendo suficiente a mera alegação.
+3. A aplicação do princípio da insignificância só é possível quando presentes os pressupostos: mínima ofensividade da conduta, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica, situações não verificadas na situação dos autos. No caso, a multirreincidência do apelante obsta a aplicação do referido princípio.
+4. Mantém-se a análise desfavorável da culpabilidade, uma vez que o apelante praticou novo crime quando em cumprimento de pena por delito anterior.
+5. Correto o regime inicial semiaberto para o cumprimento da pena, pois, embora a reprimenda seja inferior a 4 (quatro) anos, o réu é multirreincidente e possui maus antecedentes.
+6. O pedido de concessão da gratuidade de Justiça deve ser feito ao Juízo da Execução, o qual é competente para verificar a condição de hipossuficiência do condenado.
+7. Apelação não provida." (fl. 270)
+No presente writ, a impetrante defende a absolvição do paciente, referente ao crime de furto, considerando que o valor do bem é irrisório.
+A liminar foi indeferida por decisão de fls. 301/302.
+As informações foram prestadas às fls. 309/368.
+O Ministério Público Federal pugnou pelo não conhecimento do mandamus, em parecer de fls. 370/376.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, mostra-se razoável verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de oficio.
+Conforme relatado, a controvérsia refere-se à aplicação do princípio da insignificância.
+Consta do julgado atacado:
+"Dessa forma, a aplicabilidade do princípio da insignificância deve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta, pois é certo que apenas o fato de a vantagem patrimonial ser de pequeno valor, não é suficiente para aplicar o instituto.
+Com efeito, não há como afirmar que a conduta do apelante expressa pequeno grau de reprovabilidade e irrelevante periculosidade social, pois o réu é multirreincidente (ID 49452207 e 49452208)." (fl. 275)
+Esta Corte Superior tem o entendimento de inviabilidade da aplicação do princípio da bagatela na hipótese em debate, posto que se trata de agente com múltiplas reincidências, a revelar maior reprovabilidade do seu comportamento, diante da reiteração criminosa.
+Nesse sentido, configuram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO TENTADO. TRANCAMENTO. REINCIDÊNCIA E MAUS ANTECEDENTES. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, de forma a viabilizar a aplicação do princípio da insignificância, pois, independentemente do valor atribuído à res furtiva, consta do acórdão recorrido que o agravante é "agente habitual de crimes patrimoniais". Assim, haja vista a constatação da reincidência (específica) do paciente, bem como da multiplicidade dos seus antecedentes em crimes patrimoniais (conforme certidão de antecedentes juntada aos autos), o que demonstra a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, fica afastado o requisito do reduzido grau de reprovabilidade da conduta, para aplicação da insignificância. Precedentes.
+3. Dessa forma, estando devidamente demonstrada a impossibilidade de incidência do princípio da insignificância no caso concreto, tendo em vista a habitualidade em crimes patrimoniais, torna-se prescindível a análise específica acerca da ausência de violência ou grave ameaça empregada na conduta ou da intenção do agente em se submeter a internação para tratamento de alcoolismo. Isso, porque "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes quando já encontrado motivo suficiente para proferir a decisão  .. " (EDcl no AgRg no HC n. 520.357/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/12/2019, DJe 12/12/2019).
+4. Agravo regimental desprovido.
+(AgRg no HC 706.986/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 18/2/2022).
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. DESCABIMENTO. ALÉM DA ANOTAÇÃO CRIMINAL OSTENTADA PELA PACIENTE CONFIGURAR MAUS ANTECEDENTES EM CRIME DE MESMA NATUREZA, O VALOR DO BEM SUBTRAÍDO ULTRAPASSA OS 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO. PRECEDENTES. EMBARGOS ACOLHIDOS, MAS SEM EFEITOS MODIFICATIVOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - O fato de o registro criminal considerado pelas instâncias ordinárias, para afastar a incidência do princípio da insignificância, já ter sido alcançado pelo período depurador do art. 64, inciso I, do Código Penal, embora afaste o reconhecimento da reincidência, não impede a configuração dos maus antecedentes.
+III - Como relatado na decisão agravada, a jurisprudência pacífica desta Corte é no sentido de que sendo o paciente reincidente ou possuidor de maus antecedentes indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância. (HC n. 339.922/SC, Quinta Turma, de minha relatoria, DJe de 3/2/2016), (HC n. 250.126/AL, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 21/3/2016), (STF, HC n. 96.684/MS, Primeira Turma Relª. Minª. Cármen Lúcia, DJe de 23/11/2010).
+IV - Não bastasse, verifica-se que é inviável a aplicação do princípio da insignificância, pois o valor da res furtiva subtraído - R$ 127,02 (cento e vinte e sete reais e dois centavos - e-STJ fl.14) -, ultrapassa o percentual de 10% (dez por cento) do salário mínimo vigente na época do crime (R$ 937,00, conforme Decreto n. 8.948/2016), não podendo ser considerado desprezível a autorizar a incidência do princípio da insignificância.
+Embargos de declaração acolhidos, mas sem efeitos modificativos.
+(EDcl no AgRg no HC655.749/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DJe 24/8/2021).
+Ressalta-se, ainda, que no mesmo contexto do furto houve a prática do crime de ameaça e da contravenção penal de vias de fato, o que demonstra, também, a maior reprovabilidade da conduta do paciente .
+Ante o exposto, com fundamento no art. 34, inc. XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
