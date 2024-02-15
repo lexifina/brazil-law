@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da ofensa aos dispositivos legais, incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 720/722).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 658):
+MANDATO - AÇÃO MONITÓRIA - PRETENSÃO DE RECEBIMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS- AUSÊNCIA DE COMPROVAÇÃO DO DIREITO DO AUTOR - APLICAÇÃO DO ART. 373, I, DO CPC - INEXISTÊNCIA DE ELEMENTOS APTOS A JUSTIFICAR A COBRANÇA DO MONTANTE APONTADO - NOTA FISCAL SEM ESPECIFICAÇÃO DOS SERVIÇOS PRESTADOS - AUSÊNCIA DE DOCUMENTOS OU RELAÇÃO DE PROCESSOS PARA AFERIR A PROPORCIONALIDADE DOS SERVIÇOS ADVOCATÍCIOS - AÇÃO IMPROCEDENTE - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO. Ausentes elementos probatórios aptos a justificar o montante pretendido pelo escritório de advocacia a título de serviços prestados às mandantes, de rigor a improcedência da ação monitória.
+Os embargos de declaração foram rejeitados (e-STJ fls. 673/676).
+Nas razões do recurso especial (e-STJ fls. 678/692), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos arts. 1.102 do CPC/1973 e 374, II e III, do CPC/2015 (e-STJ fls. 686/687):
+ ..  no presente caso é notório que a parte Recorrente instruiu o processo com documentos hábeis para a propositura da ação, não sendo crível a alegação de que as provas juntadas aos autos são insuficientes para comprovar os serviços prestados.
+ ..  Ademais, em que pese as inúmeras confissões da Recorrida em relação ao referido inadimplemento e os respectivos valores cobrados na presente ação, o acórdão deixou de considerar tais prova  ..
+No agravo (e-STJ fls. 725/735), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 738/743 (e-STJ).
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 660/661 - grifei):
+Embora a celebração dos ajustes seja incontroversa, pois admitida por ambas as partes, controvertem elas acerca da extensão dos serviços de advocacia prestados, qualidade dos mesmos e valores cobrados pelo escritório autor, razão pela qual, foi adotada a perícia judicial realizada no feito conexo, para esclarecimento dos pontos controvertidos.
+O perito de confiança do Juízo identificou os processos judiciais em que houve atuação do escritório de advocacia às fls. 847/848 daqueles autos e, consoante disposto no laudo pericial, a atuação dos advogados se mostrou falha nos processos trabalhistas, eis que os Recursos Ordinários interpostos se mostraram desertos, e nos processos cíveis as contestações elaboradas pelo escritório de advocacia se mostraram intempestivas, sendo aplicados os efeitos da revelia às mandantes (fls. 850/854).
+Após analisar referidas atuações do escritório de advocacia e os demais documentos dos autos, o perito judicial concluiu pela inexistência de elementos hábeis a amparar a pretensão ao recebimento da quantia de R$292.694,20, por ausência de "documento ou relação de processos condizentes com as notas fiscais de fls. 28/36 que pudessem revelar a proporcionalidade dos serviços prestados" (fl. 855 daqueles autos).
+O mesmo raciocínio se aplica a esta ação, pois a nota fiscal juntada pela autora (fl. 41), não contém qualquer especificação quanto aos processos judiciais geradores da cobrança do valor nela disposto, e tampouco foi o escritório capaz de comprovar a correspondência entre os serviços de advocacia por ele prestados e a quantia supostamente devida pelas mandantes, pretendida nesta demanda, não se desincumbindo do ônus probatório disposto no art. 373,I, do CPC.
+Ao revés do que entende a apelante, não se vislumbra a ocorrência de incontrovérsia ou confissão das rés quanto ao valor devido, porquanto dos "e-mails" de fls. 121/124, apenas há menção ao recebimento de notificação do escritório cobrando o pagamento dos serviços, não concordando em nenhum momento com o pagamento da quantia.
+Para acolher a pretensão recursal e concluir pela comprovação da prestação dos serviços e confissão da parte contrária, seria imprescindível analisar as cláusulas contratuais e reexaminar o conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
