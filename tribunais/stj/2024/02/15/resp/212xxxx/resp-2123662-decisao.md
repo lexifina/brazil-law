@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por R. DOS S. C., com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 180):
+APELAÇÃO. ALVARÁ. Pleito de levantamento de saldo de FGTS deixado pela "de cujus". Sentença de parcial procedência, para autorizar o levantamento dos valores apenas pelo herdeiro menor, único habilitado perante o INSS. Inconformismo do viúvo. Acolhimento em parte. Justiça gratuita requerida pelo apelante. Elementos dos autos que não infirmam a alegada hipossuficiência. Benefício concedido. Valores relativos ao FGTS depositados em nome da "de cujus" que pertencem somente ao filho menor por estar habilitado como dependente perante a Previdência Social. Inteligência do art. 1º da Lei 6.858/80. Precedentes desta E. Corte. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do apelo especial, o recorrente apontou divergência jurisprudencial e violação aos arts. 1.829, I, do CC; e 16, I, da Lei n. 8.213/1991, sob a assertiva de que não apenas os dependentes habilitados perante a Previdência Social teriam direito ao valor depositado a título de FGTS na conta da falecida.
+Contrarrazões às fls. 246-247 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso, dou provimento ao agravo para determinar a conversão em recurso especial, sem prejuízo de nova análise dos requisitos de admissibilidade, a fim de que a matéria seja melhor examinada, com fulcro no art. 34, XVI, do RISTJ.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALVARÁ. PEDIDO DE LEVANTAMENTO DE SALDO DE FGTS DEIXADO PELA DE CUJUS. CONTROVÉRSIA ACERCA DE QUEM TERIA DIREITO AO VALOR DEPOSITADO: SE APENAS OS DEPENDENTES HABILITADOS PERANTE A PREVIDÊNCIA SOCIAL OU SE TODOS OS SUCESSORES. NECESSIDADE DE MELHOR EXAME DA MATÉRIA. AGRAVO PROVIDO PARA CONVERTÊ-LO EM RECURSO ESPECIAL.
