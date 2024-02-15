@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 267/274) opostos à decisão desta relatoria, que negou provimento ao recurso especial (e-STJ fls. 261/264).
+A parte embargante sustenta, em síntese, os seguintes vícios na decisão embargada:
+(i) omissão e contradição quanto à alegação de error in judicando no acórdão recorrido, configurado pelo "equívoco na identificação da natureza jurídica do título exequendo" (e-STJ fl. 268), ante a conclusão da decisão embargada pela inexistência de violação dos arts. 489, § 1º, III e IV, e 1.022, do CPC/2015. Alega que "o error in judicando ora discutido é o fato  de o  TJMG ter entendido, equivocamente, que, in casu, a Cédula de Crédito Bancário exequenda NÃO SERIA uma CAMBIAL e não estaria dotada de CIRCULARIDADE", apontando que "essa é a questão controvertida, contraditória e tida por omissa tanto no tribunal de origem quanto na (..) decisão ora embargada" (e-STJ fl. 271). Defende a existência de "equívoco na visualização do enunciado de dispositivo de lei federal, no caso do art. 29 § 1º da Lei 10.931/04" (e-STJ fl. 271), e
+(ii) obscuridade quanto ao fundamento de que, "inexistindo dúvida quanto à existência do título e comprovado que este não circulou, é possível a instrução da execução com cópia do título executivo extrajudicial que a fundamenta" (e-STJ fl. 263). Aduz, no ponto, que "a prova de ter havido circulação do título está consubstanciada na instrução deficitária da ação por cópia da cambial sem razão ou sem motivo" (e-STJ fl. 272).
+Impugnação apresentada às fls. 277/288 (e-STJ).
+É o relatório.
+Decido.
+Assiste razão à parte embargante quanto à alegada omissão havida na decisão embargada em decorrência do entendimento pela inexistência de violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015.
+Com efeito, no caso dos autos, apesar da oposição dos embargos declaratórios de fls. 205/207 (e-STJ), o Tribunal de origem limitou-se a consignar que "a "Cédula de Crédito Bancário Empréstimo - Capital de Giro" não é endossável e, por isso, não possui circulação,  sendo  válida e eficaz a instrução do processo com cópia" (e-STJ fl. 213), deixando, todavia, de se manifestar acerca de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, quais sejam:
+(i) da observância da previsão contida no art. 29, § 1º, da Lei n. 10.931/2004  segundo a qual, "a Cédula de Crédito Bancário será transferível mediante endosso";
+(ii) da consequente contradição entre a premissa firmada pelo Tribunal de origem, quanto à necessidade de instruir a execução com o título original quando possível sua circulação, e a conclusão do acórdão recorrido, pela possibilidade, no caso concreto, de o feito executório ser instruído com cópia da Cédula de Crédito Bancário; e
+(iii) da alegação de erro na análise do título exequendo.
+Referidas omissões implicam a impossibilidade de se depreender, indene de dúvidas, tanto o tratamento conferido pelo acórdão recorrido à previsão contida no art. 29, § 1º, da Lei n. 10.931/2004 quanto se, no caso concreto, a despeito do que consta no referido dispositivo legal, o TJMG entendeu estar comprovada a inexistência de circulação da "Cédula de Crédito Bancário Empréstimo - Capital de Giro" que fundamenta a execução de que tratam os autos.
+O saneamento dos vícios apontados será o meio adequado de esclarecer o provimento jurisdicional da Corte estadual quanto à questão.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, impõe-se a anulação do acórdão respectivo para que o recurso seja novamente apreciado.
+Assim, constatados os vícios apontados e considerando tanto a necessidade de prequestionamento das questões veiculadas no especial quanto a impossibilidade de análise fático-probatória nesta sede recursal, os autos devem retornar ao Tribunal de origem.
+Fic am prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, ACOLHO os embargos de declaração de fls. 267/274 (e-STJ) nos moldes delineados, com efeitos infringentes, e DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
