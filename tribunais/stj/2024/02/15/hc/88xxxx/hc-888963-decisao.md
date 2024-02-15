@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de HUGO DA SILVA CARDOSO, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins (HC n. 0016918-03.2023.8.27.2700).
+Consta dos autos que o paciente foi preso em flagrante (prisão convertida em preventiva) e denunciado pela suposta prática do crime previsto nos art. 14 da Lei n. 10.826/03 c/c art. 61, I, do Código Penal, porque:
+no dia 12 de novembro de 2023, por volta de 6h40min, na Chácara Bela Vista, atrás do Estádio Mirandão, Zona Rural, nesta cidade e Comarca de Araguaína-TO, HUGO DA SILVA CARDOSO portou e transportou 1(uma) arma de fogo, marca Taurus, calibre .38, com acabamento oxidável e número de série HX961943, de uso permitido, sem autorização e em desacordo com determinação legal e regulamentar, conforme auto de prisão em flagrante e laudo pericial em arma de fogo.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos da seguinte ementa (e-STJ fl. 28):
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. ALEGAÇÃO DE AGRESSÃO POLICIAL. AFERIÇÃO QUE DEMANDA DILAÇÃO PROBATÓRIA. INVIÁVEL NA VIA ESTREITA DO WRIT. ALEGAÇÃO DEAUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PACIENTE REINCIDENTE EM CRIME DOLOSO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INVIABILIDADE.
+1. A tese sustentada pela impetrante, de que o paciente foi vítima de agressão na ação policial, não pode ser analisada na via estreita do Habeas Corpus. Referida matéria exige dilação probatória e o respeito aos princípios do contraditório e da ampla defesa, não se coadunando com a finalidade e a extensão da presente ação mandamental. Precedentes da Corte Superior de Justiça;
+2. Além de presentes os Pressupostos (Indícios de autoria e materialidade), bem como da Condição de Admissibilidade (Reincidência em crime doloso), com relação aos Fundamentos, no caso, verifica-se que a prisão preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade do paciente está evidenciada no modus operandi do ato criminoso, além da possibilidade de reiteração delitiva;
+3. O fato de o paciente possuir condições pessoais favoráveis, por si só, não impede ou revoga a sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça;
+4. Inviável a aplicação das medidas cautelares alternativas à prisão, in casu, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+ORDEM NÃO CONCEDIDA.
+Na presente oportunidade, o impetrante sustenta a ilegalidade do flagrante que constitui-se à partir da violência física sofrida pelo recorrente, alegando que a confissão só se deu por conta da agressão que foi devidamente comprovada por laudo pericial e testemunhas.
+Assim, defende que não estão preenchidos os requisitos autorizadores da prisão, vez que, as provas de materialidade do crime os indícios de autoria foram obtidas de forma ilegal. Por fim, invoca o princípio da presunção de inocência.
+Diante disso, pede, liminarmente e no mérito, a concessão da ordem para revogar ou relaxar a prisão preventiva do recorrente. Subsidiariamente, requer a substituição da medida por cautelares mais brandas.
+É o relatório, decido.
+Não há como prosseguir a irresignação.
+Isso porque o recurso ordinário em habeas corpus não foi devidamente instruído, uma vez que não foi colacionada peça processual indispensável à sua instrução, qual seja, cópia do inteiro teor do acórdão impugnado.
+É de se ressaltar que o rito do habeas corpus e do recurso ordinário em habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+Ante o exposto, indefiro liminarmente o presente mandamus.
+Intimem-se.
+EMENTA
