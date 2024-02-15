@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por BNDES PARTICIPAÇÕES S.A. - BNDESPAR contra decisão monocrática desta relatoria assim fundamentada (e-STJ, fl. 3.216):
+AGRAVO EM RECURSO ESPECIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DA FORMA COMO FOI VIOLADO. SÚMULA 284 DO STF. 2. CERCEAMENTO DE DEFESA. SENTENÇA PROFERIDA POR MAGISTRADO QUE NÃO PRESIDIU A AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. VIOLAÇÃO AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. AUSÊNCIA DE EFETIVO PREJUÍZO. PRINCÍPIO DA PAS DE NULLITÉ SANS GRIEF. INCIDÊNCIA DA SÚMULA 83/STJ. REVISÃO. ENTENDIMENTO. CONDENAÇÃO. TRIBUNAL A QUO. NECESSIDADE. REEXAME. FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA. SÚMULA 7/STJ. 3. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. DATA DA CITAÇÃO. 4. HONORÁRIOS ADVOCATÍCIOS. PLEITO DE REDUÇÃO. ARBITRAMENTO POR EQUIDADE. VEDAÇÃO. SÚMULA 7/STJ. 5. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CARACTERIZAÇÃO. 6. AGRAVO PARCIALMENTE CONHECIDO PARA NESSA EXTENSÃO CONHECER DO RECURSO ESPECIAL E DAR-LHE PARCIAL PROVIMENTO.
+Em suas razões de agravo interno, a recorrente requer que, antes do julgamento do presente recurso, seja examinada a matéria referente ao pedido de intervenção da União, suscitada no AREsp n. 1.017.438/RJ.
+Salienta estarem sendo discutidos nestes autos valores milionários.
+Relata a ocorrência de negativa de prestação jurisdicional.
+Entende ter havido violação ao princípio da identidade física do juiz, aduzindo que teria sofrido prejuízos decorrentes da substituição da juíza de primeira instância, os quais poderiam ser aferidos sem a necessidade de reexame de fatos e provas.
+Argumenta ter havido erro de qualificação pela instância a quo, o que teria afetado a própria tipificação jurídica do negócio, não incidindo os óbices previstos nos verbetes n. 5 e 7 da Súmula do STJ.
+Alega que, tendo os honorários advocatícios sido arbitrados em patamar desarrazoado, seria possível a sua revisão, não se aplicando o enunciado n. 7 da Súmula desta Casa.
+Diz que teria atendido aos requisitos legais para a interposição do recurso especial com fulcro na alínea c do permissivo constitucional.
+Brevemente relatado, decido.
+Diante dos argumentos apresentados no agravo interno, constata-se que as razões apresentadas pela recorrente mostram-se relevantes, exigindo assim, uma análise mais profunda, motivo pelo qual, mediante juízo de retratação, nos termos do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 3.216-3.231 (e-STJ) e passo a um novo exame do agravo em recurso especial.
+Considerando a relevância da matéria controvertida e os fundamentos trazidos no agravo, bem como atendidos os pressupostos de admissibilidade, mediante juízo de reconsideração, determino a sua conversão em recurso especial, a fim de que a questão jurídica seja mais bem examinada, sem prejuízo de posterior análise dos pressupostos de admissibilidade do recurso.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. NECESSIDADE DE MELHOR EXAME DA MATÉRIA SUSCITADA NO RECURSO . AGRAVO PROVIDO, EM JUÍZO DE RETRATAÇÃO, PARA DETERMINAR A SUA CONVERSÃO EM RECURSO ESPECIAL.
