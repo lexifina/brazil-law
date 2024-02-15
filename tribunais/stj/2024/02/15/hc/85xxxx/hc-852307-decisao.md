@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO HENRIQUE DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, encontrando-se pronunciado pela suposta prática das condutas descritas nos art. 121, § 2º, inciso IV, c/c o art. 14,caput, inciso II, e no art. 121, caput, c/c o art. 14,caput, inciso II, todos do Código Penal. No ponto, ressaltou o Juízo de primeiro grau acerca da necessidade de prisão cautelar:
+"o acusado tentou matar uma das vítimas, pelas costas e, após o filho intervir, passou a investir neste, desferindo uma facada em seu tórax. Tal conduta revela, pelo seu modus operandi, que o acusado é pessoa perigosa e agressiva, o que permite concluir que, solto, voltará a delinquir, colocando em risco a ordem pública e até mesmo a aplicação da lei penal. Além disso, o acusado ostenta maus antecedentes" (fl. 24).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve a prisão diante da gravidade concreta da conduta, conforme acórdão de fls. 18-29.
+No presente writ, alega a Defesa a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a segregação cautelar do Paciente.
+Requer, assim, a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 77-79.
+Informações prestadas, às fls. 87-130 e 134-153. O Ministério Público Federal, às fls. 161-163, manifestou pelo não conhecimento do writ. Confira-se a ementa do parecer:
+"HABEAS CORPUS. SUBSTITUTIVO. INVIABILIDADE. TENTATIVA DE HOMICÍDIO. PRISÃO PREVENTIVA. PERICULOSIDADE DO AGENTE. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. PARECER PELO NÃO CONHECIMENTO DO WRIT" (fl. 161).
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a forma pela qual o delito foi, em tese, praticado; haja vista que o Paciente teria desferido golpe de faca em Agnaldo da Silva, que caiu ao chão; nesse sentido, Jhonata, filho da vítima, interveio para defender o genitor e, também, foi golpeado pelo Paciente, não se consumando o delito, em ambos os casos, por circunstâncias alheias à vontade do agente; não se olvidando o risco de reiteração criminosa, pois ele ostenta maus antecedentes.
+No ponto, consignou o Juízo de primeiro grau:
+"o acusado tentou matar uma das vítimas, pelas costas e, após o filho intervir, passou a investir neste, desferindo uma facada em seu tórax. Tal conduta revela, pelo seu modus operandi, que o acusado é pessoa perigosa e agressiva, o que permite concluir que, solto, voltará a delinquir, colocando em risco a ordem pública e até mesmo a aplicação da lei penal. Além disso, o acusado ostenta maus antecedentes (pág. 29) e, como se não bastasse, o crime ora analisado, é de especial gravidade" (fl. 24).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo"" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei.).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
