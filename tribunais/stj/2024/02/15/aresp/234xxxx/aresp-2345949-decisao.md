@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se agravo interposto por CAIO DE JESUS COSTA contra decisão que inadmitiu recurso especial fundamentado art. 105, inciso III, alínea a, da Constituição da República, apresentado contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 0001622-65.2017.8.26.0537.
+Consta nos autos que o Agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/06, às penas de 7 (sete) anos de reclusão, em regime inicial fechado, e 700 (setecentos) dias-multa, em razão de trazer consigo, para fins de tráfico, 65,71g de cocaína e 71,5g de crack e 320g de maconha (fls. 128-138).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que deu parcial provimento à apelação para readequar as frações de aumento empregadas na primeira fase da dosimetria e reduzir a pena para 5 (cinco) anos, 11 (onze) meses e 29 (vinte e nove) dias de reclusão, em regime inicial fechado, e 599 (quinhentos e noventa e nove) dias-multa (fls. 248-258).
+No recurso especial, o Recorrente aponta ofensa ao art. 33, §§ 2.º e 3.º, do Código Penal, defendendo-se a possibilidade de regime prisional inicial mais brando.
+Alega-se, ainda, violação do art. 387, § 2.º, do Código de Processo Penal, sob o argumento de que o período de prisão provisória deve ser computado para fins de determinação do regime prisional inicial.
+O recurso especial não foi admitido pelo Tribunal de origem em razão dos óbices das Súmulas n. 7 e 182 do Superior Tribunal de Justiça (fls. 289-290).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 321-327).
+É o relatório. Decido.
+O agravo é tempestivo e estão presentes os demais requisitos de admissibilidade, razão pela qual passo à análise do recurso especial.
+Em relação ao regime prisional inicial, constata-se que o Réu é reincidente. Desse modo, em que pese a pena imposta ser inferior a 8 (oito) anos de reclusão, revela-se adequada a imposição do regime inicial fechado, nos termos do art. 33, § 2.º, do Código Penal.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME. RÉU REINCIDENTE. CONDENAÇÃO SUPERIOR A 4 ANOS DE RECLUSÃO. IMPOSIÇÃO DO REGIME FECHADO. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento esposado no acórdão alinha-se à jurisprudência desta Corte no sentido de que: " i mpõe-se o regime inicial fechado para réu reincidente que teve pena definitiva superior a 4 (quatro) anos e não excedente a 8 (oito) anos de reclusão"(AgRg no AREsp n. 1.993.891/SP, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 8/3/2022, DJe 14/3/2022), a despeito da alegação defensiva de que a reincidência teria sido compensada integralmente com a atenuante de confissão, inexistindo ilegalidade flagrante a ser sanada.
+2. A simples menção à reincidência, constando do acórdão atacado, é suficiente para a imposição do regime fechado ao condenado a pena superior a 4 anos de reclusão, sendo despicienda fundamentação mais robusta, motivo pelo qual, nesses casos, fica afastada a alegação de violação às Súmulas n. 269 e 440, ambas do STJ, e 718 e 719, ambas do STF.
+3. Agravo regimental desprovido." (AgRg no HC n. 738.091/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/5/2022, DJe de 20/5/2022, sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PLEITO DE ALTERAÇÃO DE REGIME. TEMA NÃO EXAMINADO PELA CORTE A QUO. IMPOSSIBILIDADE DE DEBATE SOBRE A MATÉRIA SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO POR VEICULAR IDÊNTICO TEMA POSTO EM APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO DO TRIBUNAL DE ORIGEM. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. De todo modo, observa-se que, embora a pena fixada seja inferior a 8 (oito) anos, o fato de o acusado ser reincidente, justifica, em regra, o estabelecimento do regime prisional mais severo - no caso, o fechado -, conforme a interpretação do art. 33, § 2.º do Código Penal.
+5. Agravo regimental não provido." (AgRg no RHC n. 160.224/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08/03/2022, DJe de 11/03/2022, sem grifos no original.)
+De outra parte, nos termos da jurisprudência desta Corte Superior, "mostra-se irrelevante a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do CPP, para fins de escolha do regime inicial de cumprimento da pena, tendo em vista que, ainda que descontado o período de prisão cautelar, não haveria alteração do regime inicial fixado na condenação, pois o agravamento do regime está baseado na reincidência do acusado" (AgRg no AREsp n. 2.299.225/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/05/2023, DJe de 22/05/2023.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. RÉU REINCIDENTE. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. DETRAÇÃO. IRRELEVÂNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
