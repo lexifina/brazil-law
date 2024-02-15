@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JUAN CARLOS DE SOUSA SANTOS ao decisum de e-STJ fls. 664/668, que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a defesa afirma que a decisão foi omissa em relação a tese de que "a existência de outro processo, de mais de 10 anos atrás, seria fundamento inidôneo para afastar de plano o oferecimento do Acordo de Não Persecução Penal, ou se deveria haver a remessa para a instância revisora do MP" (e-STJ fl. 674).
+Afirma que a ausência de confissão não foi considerada pelo Ministério Pública para a negativa de proposta do ANPP, consistindo em fundamento acrescido pelo Tribunal de origem, razão pela qual a falta de impugnação do ponto não obsta o conhecimento do recurso especial. Aduz que a ausência de confissão não afasta a insignificância da ação penal e, portanto, não inviabilizada a proposta e efetivação do acordo.
+Diante disso, requer o acolhimento dos embargos.
+É o relatório. Decido.
+Consoante prevê o art. 619, do Código de Processo Penal, o recurso de embargos de declaração é restrito às hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado, ou ainda, segundo a jurisprudência, para corrigir erro material.
+No caso em apreço, constou expressamente da decisão agravada que "o acórdão impugnado se assenta em mais de um fundamento suficiente a sua manutenção e o recurso não abrange todos eles, porquanto não rebate a consideração de não preenchimento dos requisitos legais por ausência de confissão. Assim sendo, caracterizada nítida inobservância do princípio da dialeticidade recursal, de rigor a aplicação, por analogia, da vedação prescrita no enunciado n. 283 da Súmula do Supremo Tribunal Federal" (e-STJ fl. 665).
+Vale registar que a alegação de acréscimo indevido de fundamentação com a exigência de requisitos não apontados pelo Ministério Público não foi suscitada na origem, representando inovação recursal, além de carecer do necessário prequestionamento.
+Logo, a irresignação submetida ao crivo do Superior Tribunal de Justiça foi devidamente analisada, nos limites do seu conhecimento. Destarte, não há se falar em acolhimento dos presentes embargos, porquanto a mera irresignação com o entendimento apresentado na decisão não autoriza a oposição de embargos de declaração.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide" (EDcl nos EDcl no AgInt nos EDcl no AREsp 1.076.319/MG, Rel. Ministro LÁZARO GUIMARÃES, DJe 22/08/2018).
+Assim, resolvidas as questões com fundamentação satisfatória, caso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa.
+Com efeito, os present es embargos declaratórios não merecem acolhimento, porquanto não evidenciada a ocorrência de nenhum dos vícios previstos no art. 619 do Código de Processo Penal .
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
