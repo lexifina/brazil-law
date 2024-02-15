@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por FABIANO ALVES CARDOSO contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5458449-25.2023.8.09.0143.
+Conforme informações de fls. 36-41, o Juízo de primeiro grau recebeu a denúncia e decretou a prisão preventiva do Recorrente em razão da suposta prática do crime previsto no art. 121, § 2.º, incisos I, II e IV, na forma do art. 129, ambos do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, que concedeu parcialmente a ordem "para anular todos os atos proferidos após a pronúncia" (fl. 65).
+Neste recurso, a Defesa sustenta, em suma, excesso de prazo para a formação da culpa, não sendo suficiente aplicar a Súmula 21 desta Corte.
+Afirma que o Acusado está preso desde dezembro de 2020. Assevera que "não deu causa ao excesso de prazo, bem ainda que, apesar da complexidade do feito, ele é o único acusado preso nos autos, sendo que sua suposta participação no crime foi apenas buscar o executor do ato" (fl. 76). Aponta, ainda, que o Recorrente possui condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória, mediante a imposição de mediante cautelares.
+O pedido liminar foi indeferido às fls. 99-100.
+Informações prestadas às fls. 106-160.
+O Ministério Público Federal manifestou-se às fls. 164-168, opinando pelo desprovimento do recurso.
+É o relatório.
+Decido .
+De início, quanto à alegação de excesso de prazo na formação da culpa, cumpre ressaltar que esta Corte firmou posicionamento de que " a  aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5.º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as peculiaridades da causa ou quaisquer fatores que possam influir na tramitação" (HC 541.104/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020).
+Nessa perspectiva, somente se cogita da existência de constrangimento ilegal por excesso de prazo quando ficar evidenciada, estreme de dúvidas, a desídia estatal e injustificada do juízo processante, o que não parece ter ocorrido no caso.
+O Tribunal a quo assim se manifestou a respeito da questão suscitada (fls. 62-63; sem grifos no original):
+"No tocante ao alegado excesso de prazo, observo não lhe assistir razão. Vejamos.
+Verifica-se que a instrução criminal já foi ultimada e o paciente foi pronunciado.
+Assim, resta superada a alegação de constrangimento ilegal por excesso de prazo quando o réu foi pronunciado, conforme inteligência da Súmula 21 do Superior Tribunal de Justiça.
+De todo modo, verifica-se ainda que, no caso concreto, não restaria caracterizado excesso de prazo injustificado, sobretudo porque os atos atinentes ao magistrado se deram de maneira célere.
+No mais, não se desconhece que o ofício circular n. 008/DMF/2010, da Corregedoria Nacional de Justiça e o de n. 042/2011/ASSJ, da Corregedoria-Geral de Justiça deste Tribunal, recomenda estabelecer, como tempo razoável para duração da primeira fase do procedimento escalonado do Júri, estando preso o acusado, o prazo máximo de 178 (cento e setenta e oito) dias.
+Todavia, é consolidado o entendimento jurisprudencial de que os prazos estabelecidos para o término da instrução criminal não são fatais e peremptórios, admitindo dilação quando as peculiaridades do caso concreto assim exigirem, à luz do princípio da razoabilidade.
+No presente caso, trata-se de ação penal complexa, com três acusados, diversas testemunhas e amplitude probatória, o que, ainda assim, não impediu o término da instrução em prazo razoável, conforme demonstrado.
+Portanto, é forçoso reconhecer que o trâmite do processo penal a que responde não revela morosidade dos mecanismos judiciários. Com efeito, os atos processuais foram praticados na medida das necessidades e dentro do que permite o aparato judicial, inexistindo desídia ou descaso da máquina judiciária.
+Assim, nota-se que o feito tem tramitação regular e duração razoável, não havendo que se cogitar em excesso de prazo."
+Na hipótese, conforme as informações prestadas para instrução deste recurso, verifica-se que, em 16/12/2022, o Recorrente foi pronunciado como incursos no art. 121, § 2.º, incisos I, II e IV, do Código Penal, o que corrobora a inexistência de excesso de prazo.
+Inclusive, em consulta ao site do Tribunal local, observa-se que, em 15/06/2023 e em 06/11/2023, a prisão preventiva do Réu foi reavaliada e mantida, nos termos do art. 316, parágrafo único, do Código de Processo Penal.
+Tem-se, ademais, que cinco dos Corréus interpuseram recurso em sentido estrito contra a referida sentença de pronúncia. Em 06/11/2023, foi determinado o desmembramento do feito, tão somente em relação ao ora Recorrente, com o fim de evitar injustificado retardamento no curso da ação penal.
+Por conseguinte, em 27/11/2023, foi juntada aos autos originários (Processo n. 5495745-86.2020.8.09.0143) certidão de desmembramento do feito. Nos autos desmembrados (Processo n. 5786637-52.2023.8.09.0143), constata-se que, desde 29/11/2023, o Magistrado singular tem sido diligente na condução do feito, tendo realizado tentativas de nomeação de defensor dativo para prosseguimento do trâmite processual.
+Nesse cenário, não se verifica, nesse momento, patente ofensa ao princípio da razoabilidade, sobretudo diante da quantidade abstrata de pena dos delitos pelos quais o Réu está sendo processado (art. 121, § 2.º, incisos I, II e IV do Código Penal).
+Diante dessas peculiaridades, não se verifica, por ora, a existência de patente ilegalidade a ser sanada na espécie, valendo registrar que, conforme o entendimento desta Corte, "somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais" (AgRg no HC 585.674/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 24/08/2020).
+Ressalto, no mais, que a suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre, in casu. Exemplificativamente:
+"PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE DE ENTORPECENTE APREENDIDO. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.
+ ..
+3. Condições subjetivas favoráveis do recorrente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+4. Recurso desprovido." (RHC 90.306/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018.)
+Por fim, demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal. Nesse sentido: RHC 144.071/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/05/2021, DJe 24/05/2021; HC 601.703/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/03/2021, DJe 23/03/2021.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. ALEGADO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO VERIFICADO. RÉU PRONUNCIADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA ESPÉCIE. RECURSO DESPROVIDO.
