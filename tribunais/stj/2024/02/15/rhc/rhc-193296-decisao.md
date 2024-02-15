@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Gabriel Cezar - condenado a 12 anos e 2 meses de reclusão, em regime inicial fechado, e ao pagamento de 1.610 dias-multa, por infração aos arts. 33, caput, e 35 da Lei n. 11.343/2006 (Ação Penal n. 0800785-77.2023.8.23.0010) - contra o acórdão proferido pelo Tribunal de Justiça de Roraima, assim ementado (fl. 270):
+AGRAVO INTERNO - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - DECISÃO DO RELATOR QUE NÃO CONHECEU DE HABEAS CORPUS - ALEGAÇÕES DE ILICITUDE DA PROVA POR VIOLAÇÃO DE DOMICÍLIO E POR NULIDADE DA EXTRAÇÃO DE DADOS DOS TELEFONES CELULARES DOS RÉUS - NÃO CONHECIMENTO - MATÉRIAS QUE SÃO OBJETO DE APELAÇÃO JÁ INTERPOSTA PELA DEFESA - RECURSO DE MAIOR AMPLITUDE - APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES JUDICIAIS - AUSÊNCIA DE FLAGRANTE ILEGALIDADE A JUSTIFICAR O CONHECIMENTO DO HABEAS CORPUS - AGRAVO DESPROVIDO.
+Com a mesma pretensão, inclusive em caráter liminar, defende-se a nulidade da prisão em flagrante, decorrente de denúncia anônima e violação de domicílio; além das provas extraídas dos aparelhos celulares mediante coação, pois não há nos autos qualquer prova que demonstre que os réus forneceram as senhas dos celulares voluntariamente, não há um termo assinado, um vídeo ou até mesmo uma testemunha do povo, o que é frequente em ações policiais em buscas domiciliares (fl. 290).
+É o relatório.
+Primeiramente, observo que a pretensão de reconhecimento de nulidade por violação do domicílio e extração das provas, sem autorização, do aparelho celular não foram objeto de apreciação pela Corte a quo, de modo que conhecer agora de tal insurgência implicaria indevida supressão de instância.
+Com efeito, vale salientar que é pacífico nesta Corte o entendimento de que o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal) - (AgRg no HC n. 689.999/SP, Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 21/9/2021, DJe 24/9/2021).
+Além disso, se há simultâneo ajuizamento de apelação e de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a decisão das questões para o recurso adequado. Confira-se, nesse sentido, o AgRg no RHC n. 124.470/SP, da minha relatoria, Sexta Turma, DJe 18/6/2020; e o RHC n. 123.562/GO, Ministra Laurita Vaz, Sexta Turma, DJe 2/6/2020.
+Assim, não há constrangimento ilegal a ser sanado por esta via.
+Ante o exposto, não conheço do recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. NULIDADE. VIOLAÇÃO DE DOMICÍLIO E EXTRAÇÃO DE DADOS DOS TELEFONES CELULARES DOS RÉUS MEDIANTE COAÇÃO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. APELAÇÃO PENDENTE DE JULGAMENTO NA ORIGEM.
+Recurso não conhecido.
