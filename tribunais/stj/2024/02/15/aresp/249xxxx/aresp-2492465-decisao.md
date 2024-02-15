@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal (e-STJ fls. 457/458).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 415):
+ALIENAÇÃO FIDUCIÁRIA. Ação de busca e apreensão. Sentença de procedência. Insurgência da parte ré. Inadimplemento incontroverso das parcelas do financiamento contratado. Devedora que foi notificada pessoalmente, em vida, para pagar as parcelas inadimplidas. Mora consolidada. Seguro prestamista que não tem o escopo de albergar a liquidação de débitos anteriores ao sinistro (falecimento da devedora fiduciante). Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 428/431).
+Nas razões do recurso especial (e-STJ fls. 438/445), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação do art. 6º, VIII, do CDC, sustentando, em síntese, a necessidade de inversão do ônus da prova.
+Segundo afirma, "a) houve efetiva contratação, por Maria, cujo espólio é o ora recorrente, de seguro prestamista, não tendo, na ocasião, sido entrega à consumidora tal específico contrato; b) a parte recorrida não impugnou a alegação de quitação integral gerada pela contratação do seguro; c) caberia à parte recorrida trazer aos autos o contrato do seguro prestamista capaz de fornecer maiores informações sobre seu alcance e suas exatas previsões (que, consoante exposto, poderiam, eventualmente, contemplar caso de doença ou desemprego); d) o inadimplemento ocorreu por questões de saúde, tendo ocorrido o pagamento de grande parte da dívida" (e-STJ fl. 444).
+Busca, em suma, o provimento do recurso para "reconhecendo a violação ao artigo 6º, VIII, do Código de Defesa do Consumidor, reformar as decisões objurgadas, julgando improcedente o pleito de busca e apreensão e declarando-se a quitação, por força do seguro prestamista, da totalidade dos valores inadimplidos ou, subsidiariamente, daqueles que se venceram após o óbito de Maria" (e-STJ fl. 444).
+No agravo (e-STJ fls. 465/470), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 474/478).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 417):
+Isto porque, o falecimento da devedora ocorreu quando já encontrava em aberto nove prestações do contrato, as quais inclusive, fora notificada extrajudicialmente, em vida, para pagamento (fls. 28/30).
+Assim, confirmada a mora, o seu afastamento somente poderia ocorrer com o pagamento da integralidade da dívida, conforme determina o artigo 3º, § 2º, do Decreto lei 911/69 (com redação dada pela Lei 10.931/04), o que, de fato não ocorreu. Inexiste qualquer deposito realizado nos autos.
+A alegação de que o seguro prestamista asseguraria a quitação da obrigação ou, ao menos, parte dela, não é suficiente para ilidir a mora, uma vez que as parcelas inadimplidas são anteriores ao óbito da devedora, de sorte a carecerem de cobertura securitária.
+Ademais, sequer há notícia de que foi pleiteado o pagamento da indenização junto à seguradora.
+A insurgência recursal quanto à pretensão de se declarar a quitação do contrato por força do seguro prestamista não pode ser sustentada apenas com base no art. 6º, VIII, do CDC , o qual não regula a matéria. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além disso, as teses de necessidade (i) de aplicação da inversão do ônus da prova e (ii) de se reconhecer a quitação das parcelas que se venceram após o óbito não foram analisadas pela Corte local, que se limitou a apreciar a procedência da ação da busca e apreensão com base no vencimento das parcelas anteriores ao óbito. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Ainda que assim não fosse, o especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a parte não teria comprovado a existência de pedido de pagamento da indenização perante a seguradora. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além do mais, para concluir que estariam preenchidos os requisitos para a inversão do ônus da prova seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Da mesma forma, modificar o entendimento do acórdão impugnado no sentido de que o seguro prestamista alegado não seria suficiente para ilidir a mora, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como a gratuidade de justiça .
+Publique-se e intimem-se.
+EMENTA
