@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALDO SANDRI e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÕES CÍVEIS. AÇAO DECLARATORIA DE NULIDADE DE NEGOCIO JURÍDICO E DE OBRIGAÇÃO DE FAZER. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONVERSÃO DE PROMESSA DE DOAÇÃO EM PERDAS E DANOS. INSURGÊNCIA DA PARTE RÉ.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 422 do CC, no que concerne à necessidade de declaração da exigibilidade do contrato preliminar de promessa de doação, tendo em vista a demonstração da onerosidade, trazendo a seguinte argumentação:
+16. Como visto, o E. TJSC firmou o entendimento de que o contrato preliminar de doação firmado para antecipação de legítima e doações entre ascendentes e descendentes representaria mera liberalidade. O instrumento não seria exigível, pois as promessas de doação estavam condicionadas à ratificação por escritura pública.
+17. Ocorre que tal entendimento viola o art. 422, do Código Civil. De acordo com a referida regra:  Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé .
+18. Isso porque o contrato preliminar  exceto quanto à forma, deve conter todos os requisitos essenciais ao contrato a ser celebrado  (art. 462 do Código Civil).
+19. Ou seja, de acordo com o citado dispositivo, o contrato preliminar não precisa se revestir da mesma forma que o definitivo para produzir o efeito de vincular as partes, ao contrário do que entendeu o E. TJSC.
+20. No caso sub judice, o instrumento particular de antecipação da legítima e promessa de doações representou a expressão da vontade dos doadores e donatários, observada a preservação da legítima e a igualdade dos quinhões. Vale dizer que situações análogas a essa já foram admitidas pelo E. STJ 1F 2 .
+21. O contrato em análise foi celebrado por agentes capazes e livre de vícios de vontade. Logo, é válida a promessa de doação lavrada em instrumento particular, uma vez que a lei estabelece a liberdade de forma.
+22. Ademais, o contrato preliminar não estipulava, desde logo, a efetiva transferência dos bens aos herdeiros. Mas, estabelecia entre as partes o compromisso contratual de concretizar a doação nos termos estipulados, o que haveria de se dar por meio do instrumento próprio para tanto.
+23. Em outras palavras, a escritura pública é precisamente o que buscam os Recorrentes, de modo a transferir os bens prometidos para o seu patrimônio. Ora, tivesse o contrato se exaurido, os Recorrentes careceriam de interesse processual.
+ ..
+26. Com todo o respeito, aperfeiçoada a promessa de doação, tomando-se por fundamento a teoria da confiança e o princípio da boa-fé objetiva, não há como se negar a legítima produção de efeitos.
+27. O próprio art. 463, do CC 3F 4 exige, como condições para a exigibilidade da promessa, apenas o cumprimento dos requisitos gerais de qualquer contrato, os especiais previstos pelo art. 462, do CC, e a ausência da cláusula de arrependimento.
+(fls. 956).
+29. No caso concreto, a intenção de doar foi expressamente manifestada no contrato (e transcrita no v. acórdão), produzindo efeitos no instante em que externalizada pelo instrumento firmado com o consentimento dos herdeiros. Restava aos doadores promitentes, portanto, executarem os atos que prometeram.
+ ..
+30. Por isso, ainda que firmada por instrumento particular, a intenção dos doadores manifestada quando da formação do contrato preliminar deve ser prestigiada.
+De outro lado, a confiança do donatário também merece ser tutelada, como desdobramento do princípio da boa-fé objetiva.
+ ..
+33. Ao partir da premissa de que o contrato preliminar é válido e legítimo, a exigibilidade será consequência lógica da vontade exteriorizada pelo promitente doador no momento da formação desse pacto. Ou seja, a boa-fé objetiva incide para ratificar a força obrigatória do contrato preliminar e reforçar sua exigibilidade.
+ ..
+40. Com todo o respeito, os compromissos assumidos pelos Recorrentes se enquadram como encargos válidos, eficazes e exigíveis, ao contrário do que entendeu o E. TJSC no v. acórdão recorrido.
+41. A doutrina conceitua o encargo como  imposição obrigacional criada ao donatário para que ele dê, faça ou não faça algo relativamente ao bem que lhe foi doado, em favor do doador, dele, donatário ou de terceiro . (Nery Junior, Nelson.
+Doação e Encargo. Soluções Práticas de Direito - Vol. 7/2014 1 p. 575  600) 42. Conforme anotado no v. acórdão recorrido, o primeiro encargo previsto no contrato preliminar imputou, aos Recorrentes, a obrigação de reconhecer que os bens que receberiam em decorrência daquela antecipação seriam equivalentes ao seu quinhão da legítima. Também se impôs aos Recorrentes a quitação geral e plena entre os doadores e donatários de todas as transferências patrimoniais, reconhecendo-as como equânimes.
+ ..
+44. Assim, por meio do citado instrumento, foram estipuladas concessões recíprocas envolvendo o patrimônio familiar.
+45. Portanto resta caracterizado o encargo, ao se imputar aos herdeiros, como contrapartida para a concretização da doação, o ônus de dar quitação geral da partilha (fazer), para nada mais reclamarem (não fazer).
+46. Os Recorrentes também se comprometeram a renunciar ao direito de exigir a colação dos bens. De acordo com o art. 2.005, do CC 5F 6 , o doador, por ato de liberalidade, pode tornar inexigível a obrigação de colação pelos herdeiros.
+ ..
+53. Dessa forma, os encargos previstos atribuem ao contrato preliminar de promessa de doação a onerosidade necessária a conferir-lhe exigibilidade (fls. 954-960).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+De fato, o elo entre a possibilidade jurídica de ser reconhecida, ao menos em tese, a existência da obrigação de doar e a ausência de exigibilidade das promessas de doação litigiosas no caso concreto envolve a interpretação dos supostos encargos assumidos no pré-contrato.
+Com efeito, os três compromissos que configurariam, segundo defendem os embargantes, encargos ao contrato de doação ("(i) o reconhecimento de que os bens que receberia em decorrência daquela antecipação seriam equivalentes ao seu quinhão da legítima; (ii) a renúncia ao direito de colação; e (iii) a quitação geral e plena entre os doadores e donatários de todas as transferências patrimoniais, reconhecendo-as como equânimes") correspondem a cláusulas inseridas com o  m de aromatizar o instrumento em exame com tons de validade e de eficácia, a exemplo da decisão de atribuir ao documento particular o título "Escritura Pública de Transação..".
+Na realidade, as previsões se destinavam tão somente a desencorajar os pretensos donatários de discutir futuramente os termos do ajuste. Entretanto, para que pudessem ser consideradas como eficazes, seria imprescindível que as doações tivessem sido mais do que prometidas, é saber, deveriam efetivamente ter sido realizadas.
+ ..
+Logo, de acordo com a premissa no sentido de que "se o encargo for impossível ou ilícito, a cláusula que o instituir tem-se como não escrita", ao passo que a doação inoficiosa, como é sabença, configura nulidade absoluta (STJ, (REsp n. 1.929.450/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, j. 18-10-2022), lógica aplicável sobre a cláusula de renúncia ao direito de reivindicar que sejam trazidos à colação os bens antecipados a outros herdeiros.
+Não é demais repetir que os compromissos nem sequer poderiam ser exigidos pelos promitentes doadores, uma vez que versam sobre as suas próprias sucessões, de modo que não poderiam invocar o descumprimento para o exercício do direito de revogação, este que sabidamente "não se transmite aos herdeiros do doador, nem prejudica os do donatário" (art. 560 do Código Civil).
+Por fim, vale destacar que a antes citada previsão de reserva de usufruto em favor dos doadores igualmente não configura encargo, já que dependeria do registro do título translativo pretendido na lide.
+Em conclusão, as previsões contidas no instrumento em referência são incapazes de atribuir ao contrato particular de promessa de doação a onerosidade necessária a conferir-lhe exigibilidade (fl. 926).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
