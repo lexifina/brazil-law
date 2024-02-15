@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei apresentado por JOSE GIVANILSO DO NASCIMENTO contra o acórdão da Turma Nacional de Uniformização (TNU) assim ementado:
+PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PREVIDENCIÁRIO. AÇÃO EM QUE SE BUSCAVA A CONCESSÃO DE BENEFÍCIO DE APOSENTADORIA ESPECIAL. PEDIDO JULGADO IMPROCEDENTE. REQUERIMENTO FORMULADO APÓS O JULGAMENTO DA TURMA RECURSAL, NO SENTIDO DA CONCESSÃO DO BENEFÍCIO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. NEGATIVA DE CONCESSÃO DO ÚLTIMO BENEFÍCIO, POR EXIGIR A INCLUSÃO DE PERÍODOS QUE NÃO FORAM INCLUÍDOS NA PETIÇÃO INICIAL OU DISCUTIDOS NA AÇÃO, DE MODO QUE SEU ACOLHIMENTO VIOLARIA O CONTRADITÓRIO. QUESTÃO DE ORDEM PROCESSUAL. ENUNCIADO Nº 43 DA TURMA NACIONAL DE UNIFORMIZAÇÃO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL NÃO CONHECIDO (fl. 207).
+Nas razões do incidente (fls. 213/219), a parte requerente sustenta a admissibilidade do pedido de uniformização, uma vez que a decisão da TNU estaria em descompasso com a orientação do Superior Tribunal de Justiça "no tocante à possibilidade de concessão de benefício diverso do requerido na inicial, em confluência com o princípio da fungibilidade (Informativo nº 522, STJ)".
+Requer que "seja reconhecida a possibilidade de concessão de benefício previdenciário diverso do requerido na petição inicial. Assim sendo, após o reconhecimento da aplicação do entendimento mencionado ao caso epigrafado, seja aplicada o direito ao caso concreto e CONDENADO o INSS a concessão da aposentadoria por tempo de contribuição, com o pagamento dos atrasados desde a DER" (fl. 219).
+Em sua manifestação, o Ministério Público Federal informou que não havia no processo relevância social que justificasse sua intervenção (fls. 265/266).
+É o relatório.
+O pedido não comporta acolhimento.
+A competência do Superior Tribunal de Justiça para apreciar pedido de uniformização de interpretação de lei federal encontra-se prevista no art. 14, § 4º, da Lei 10.259/2001, que assim estabelece:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+ ..
+§ 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência (destaque nosso).
+Nos termos da jurisprudência deste Tribunal, o pedido de uniformização de interpretação de lei federal dirigido ao STJ, com amparo no art. 14, § 4º, da Lei 10.259/2001, só pode ser manejado contra decisão colegiada da Turma de Uniformização e quando a orientação acolhida em questões de direito material contrariar súmula ou jurisprudência dominante desta Corte. A propósito, cito o seguinte julgado:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 14, § 4º, DA LEI 10.259/2001 DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 14, § 4º da Lei 10.259/2001, caberá pedido de uniformização de lei federal perante o Superior Tribunal de Justiça somente quando a decisão da Turma Nacional sobre questão de direito material estiver em confronto com súmula ou jurisprudência dominante do STJ.
+2. A orientação jurisprudencial desta Corte Superior é no sentido do cabimento do incidente somente na hipótese em que a matéria foi submetida à apreciação de órgão colegiado da Turma Nacional de Uniformização de Jurisprudência - TNU, sob pena de supressão de instância. Além do mais, o incidente somente é cabível para discutir questões de natureza material (e não de índole processual).
+3. Agravo interno não provido. (AgInt no PUIL 2.405/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 15/3/2022, DJe 17/3/2022.)
+No caso dos autos, a parte requerente insurgiu-se contra acórdão pautado em questão de direito processual, o que não é admitido.
+Ante o exposto, e com fundamento no art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), não conheço do pedido de uniformização.
+Publique-se. Intimações necessárias.
+EMENTA
