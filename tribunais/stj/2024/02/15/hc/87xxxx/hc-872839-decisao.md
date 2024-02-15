@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 15):
+HABEAS CORPUS. EXECUÇÃO PENAL. INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU PEDIDO DE REMIÇÃO PELA APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO - ENEM, EM RAZÃO DA PRÉVIA APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS -ENCCEJA, AMBOS DE ENSINO MÉDIO. MATÉRIA QUE DESAFIA RECURSO PRÓPRIO. NÃO CONHECIMENTO. ALÉM DISSO, AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO DE OFÍCIO. IMPOSSIBILIDADE DE REMIÇÃO PELO MESMO FATO GERADOR. PARECER DA DOUTA PROCURADORIA-GERAL DE JUSTIÇA PELO NÃO CONHECIMENTO. ORDEM NÃO CONHECIDA.
+No presente writ, busca a defesa a concessão da ordem, a fim de reconhecer o direito à remição pela aprovação na prova do ENEM do ano de 2019, independentemente de ter sido concedida remição por aprovação na prova do ENCCEJA, por não se tratar de mesmo fato gerador.
+Prestadas as informações. O Ministério Público Federal manifestou-se pela concessão da ordem
+Acerca  do  pleito,  o  Juízo  das  Execuções  Criminais  indeferiu  o  pedido  de  remição  sob  o  seguinte  fundamento  (fls.  11-12):
+ ..
+Da análise dos autos, verifica-se que o pedido contido no sequencial 507.1, refere-se ao mesmo fato gerador da remição homologada na presente decisão, comprovada no sequencial 505.1, motivo pelo qual, diante da impossibilidade de aplicação do mesmo fato gerador para o deferimento do mesmo benefício, sob pena de violação ao princípio non bis in idem, inviável a homologação de remição por estudo.
+ ..
+DIANTE DO EXPOSTO:
+a) homologo a remição por aprovação no ENCCEJA de 133 dias da pena imposta ao apenado, em razão do ensino médio, para que surta seus efeitos jurídicos e legais.
+b) indefiro o pedido de remição formulado no sequencial 507.1, em razão do brocardo non bis in idem, conforme a fundamentação.
+O  Tribunal  de  origem,  ao  não conhecer do habeas corpus,  assim  se  manifestou  (fls. 17-18):
+Trata-se de habeas corpus impetrado em face de decisão que indeferiu pedidode remição de pena pela aprovação integral no ENEM 2019.
+Entretanto, o writ não merece conhecimento.
+Isso, porque a matéria impugnada no presente writ é eminentemente de execução penal, impugnável pelo competente recurso de agravo em execução penal, inexistindo qualquer razão para que se conheça da insurgência por meio desta estreita via de habeas corpus.
+Saliento que, da análise da decisão impugnada, não vislumbro manifesta ilegalidade apta a ensejar eventual concessão de ofício da ordem, mormente porquanto o juízo de primeiro grau expressamente que o pedido de remição pelo ENEM refere-se ao mesmo fato gerador da remição homologada em decorrência da aprovação no ENCCEJA/2022 (seq. 505.1 do PEC n. 0000563-31.2018.8.24.0030 no SEEU) motivo pelo qual, diante da impossibilidade de aplicação do mesmo fato gerador para o deferimento do mesmo benefício, sob pena de violação ao princípio non bis in idem, inviável a homologação de remição por estudo.
+Portanto, ausente constrangimento ilegal a ser sanado de ofício, consigna-se que eventual irresignação em relação a particularidades fáticas do caso concreto deve ser exposta por meio do competente recurso.
+ ..
+Não há, pois, concluir de forma diversa. Considerando que a matéria foi analisada de forma exauriente pelo membro do Ministério Público de segundo Grau, o Procurador de Justiça Genivaldo da Silva, adota-se parte da manifestação de Evento 11 como razão de decidir, o que é permitido pelo Superior Tribunal de Justiça (EDcl no AgRg no AREsp 94.942/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, j. em 5.2.2013, v.u):
+Como se vê da decisão acima transcrita, o Juízo de primeiro grau deixou de remir a pena do paciente porque "o pedido de remição pelo ENEM refere-se ao mesmo fato gerador da remição homologada em decorrência da aprovação no ENCCEJA/2022 (seq. 505.1 do PEC n. 0000563-31.2018.8.24.0030 no SEEU) motivo pelo qual, diante da impossibilidade de aplicação do mesmo fato gerador para o deferimento do mesmo benefício, sob pena de violação ao princípio non bis in idem, inviável a homologação de remição por estudo".
+A Sexta Turma desta Corte Superior possui orientação deque a remição de pena, em razão de aprovação do paciente no exame ENCCEJA, configuraria bis in idem de remição na mesma execução penal, tendo em vista que já fora agraciado em razão de sua aprovação, em 2015, no Exame Nacional do Ensino Médio (ENEM) (AgRg no HC n. 627.958/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021).
+No mesmo sentido, "Segundo a jurisprudência desta Corte, em hipótese de aprovação no Exame Nacional do Ensino Médio - Enem, não é possível o novo abatimento das penas a reeducando já premiado anteriormente pelo aprendizado de idêntico nível de escolaridade. A instrução do ensino médio durante os regimes semiaberto ou fechado pode ensejar uma única vez a remição, sob pena de bis in idem e de concessão de benefício indevido" (AgRg no HC n. 797.329/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+A propósito:
+HABEAS CORPUS. REMIÇÃO. MESMO FATO GERADOR. ESTUDO DO ENSINO MÉDIO. CÔMPUTO EM DUPLICIDADE. IMPOSSIBILIDADE. HABEAS CORPUS DENEGADO.
+1. O benefício do art. 126 da LEP visa estimular atividades ressocializadoras e o bom comportamento dos apenados. Na hipótese de estudo, o instituto está relacionado ao aprimoramento intelectual do reeducando, e não à mera repetição de provas, como estratégia para reduzir a condenação.
+2. O legislador confere prêmio à atividade do preso, de aplicar a inteligência para compreender algo que se desconhece, de tal maneira que, em relação ao ensino médio, o tempo a remir é calculado na proporção de 1 dia de pena a cada 12 horas de frequência escolar, ou por reconhecimento de 1.200 horas de estudo por esforço próprio, desde que o aprendizado autodidata seja constatado por exames nacionais e oficiais que certifiquem a elevação do grau de ensino.
+3. Se o paciente aprendeu a grade curricular do segundo grau durante a execução e, por isso, obteve a remição de 133 dias conforme a carga horária do curso, inclusive com o acréscimo do art. 126, § 5º, da LEP, não tem direito a abreviar novamente sua pena em razão da aprovação em exame nacional que certifica o idêntico ensino médio, o que configuraria bis in idem do benefício sem aprimoramento de seus conhecimentos.
+4. Não há direito a duplicidade de remição pelo mesmo fato gerador.
+Por isso, a "realização da prova do mesmo nível de escolaridade não demonstra evolução, mas a mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual" (AgRg no HC 592.511/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 15/9/2020).
+5. Habeas corpus denegado. (HC n. 767.130/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/9/2022, DJe de 26/9/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. APENADO JÁ APROVADO NO EXAME NACIONAL DE ENSINO MÉDIO - ENEM. DUPLICIDADE DE BENEFÍCIO NÃO ACEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Pacífica a jurisprudência desta Corte quanto à impossibilidade de conceder o benefício da remição da pena em duplicidade, por aprovações sucessivas no ENEM.
+2. Agravo regimental desprovido. (AgRg no HC n. 734.881/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+Assim, ainda que se trate de exames distintos, as provas se referem à certificação de conclusão pelo mesmo nível (médio) educacional, inviabilizando a concessão do benefício em apreço pelo mesmo fato gerador, pois configurada a sua duplicidade.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
