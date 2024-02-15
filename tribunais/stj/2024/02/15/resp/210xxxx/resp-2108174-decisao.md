@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG assim ementado (e-STJ fl. 451):
+DIREITO CIVIL, DO CONSUMIDOR E PROCESSUAL CIVIL -APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL - PLANO DE SAÚDE - PEDIDO DE FORNECIMENTO DE FÁRMACO COMUM PARA USO DOMÉSTICO, FORA DO AMBIENTE DE UNIDADE DE SAÚDE - EXCLUSÃO CONTRATUAL EXPRESSA DE COBERTURA DE TRATAMENTO DOMICILIAR - ABUSIVIDADE - INEXISTÊNCIA - PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. NEGATIVA DE CUSTEIO POR PARTE DA OPERADORA - EXERCÍCIO REGULAR DE UM DIREITO - OBRIGAÇÃO DE INDENIZAR O SEGURADO - INEXISTÊNCIA.
+- Nos termos do entendimento firmado pelo Superior Tribunal de Justiça no Julgamento do Recurso Especial de n.º 1.692.938/SP - representativo da controvérsia e processado sob a sistemática de recursos repetitivos - é lícita, em regra, a cláusula, inserida em contrato de prestação de serviços médicos e hospitalares, que estabelece, de forma clara e expressa, exclusão do fornecimento de medicamentos para uso doméstico, prescritos para administração em ambiente externo ao de unidade de saúde.
+- A teor do disposto no art. 188, inciso I, do Código Civil, os atos praticados em legítima defesa ou no exercício regular de direito não caracterizam ilícito.
+- Se a operadora apresenta negativa de custeio de medicamento com base em cláusula contratual expressa e de validade reconhecida, agindo no exercício regular de seu direito, não há falar-se em obrigação de indenizar o beneficiário do plano de saúde.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 479/485).
+Nas razões do especial (e-STJ fls. 515/523), fundamentado no art. 105, III, "a" e "c", da CF/1988, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 1.022 do CPC/2015, 10, VI, e 35-G da Lei n. 9.656/1998.
+Aponta negativa de prestação jurisdicional, afirmando que o Colegiado estadual não se manifestou acerca da "redução do valor da causa, por ser totalmente exorbitante e não coadunar com o direito de ação pleiteado pela recorrida, ensejando despesas processuais exorbitantes, bem como, sobre a revogação da justiça gratuita da parte autora/recorrida" (e-STJ fl. 521).
+Afirma ainda ser legítima a limitação do custeio do medicamento descrito na exordial, pois ele seria de uso domiciliar.
+Ao final, requer o provimento do recurso e a redistribuição dos ônus sucumbenciais, "imputando condenação à recorrida, ou, seja os honorários fixados por apreciação equitativa, considerando que a fixação com base no valor da causa enseja custas exorbitantes e desproporcionais, não condizentes com a lide" (e-STJ fl. 523).
+Contrarrazões não apresentadas (e-STJ fls. 531/532).
+Decisão pela admissibilidade do recurso às fls. 533/535 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Na decisão monocrática de fls. 433/441 (e-STJ), foi determinado o retorno dos autos ao Colegiado de origem para nova análise do "recurso de apelação, considerando os parâmetros traçados pela recente jurisprudência do STJ no julgamento da causa" (e-STJ fl. 441).
+As alegações referentes ao valor da causa e aos honorários foram analisadas na referida decisão monocrática que decidiu pela incidência das Súmulas n. 7 e 83 desta Corte. Não cabia, portanto, ao Tribunal local reanalisar os referidos temas.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Conforme o entendimento desta Corte Superior, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+Do mesmo modo:
+DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES MELLITUS TIPO 1. BOMBA INFUSORA DE INSULINA. USO DOMICILIAR. AUTOADMINISTRAÇÃO. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. NEGATIVA LEGÍTIMA. AGRAVO INTERNO PROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. Conforme entendimento de ambas as Turmas que compõem a Segunda Seção do STJ, não há obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), por se tratar de equipamento de uso domiciliar.
+3. Agravo interno provido.
+(AgInt no REsp n. 1.933.209/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/6/2023, DJe de 19/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO PARA USO DOMICILIAR. EXCLUSÃO DE COBERTURA LÍCITA. INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.124.296/GO, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/6/2023, DJe de 15/6/2023.)
+Em tais condições, impõe-se a reforma do aresto impugnado, a fim de excluir o dever de a recorrente custear o fármaco mencionado.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para excluir o dever de a recorrente custear o medicamento descrito na exordial e, por consequência, julgar improcedente a demanda autoral.
+Configurada a sucumbência recíproca (art. 86 do CPC/2015), as custas deverão ser suportadas na proporção do decaimento das partes.
+Os valores de todos os encargos sucumbenciais deverão ser apurados em liquidação de sentença, observada eventual gratuidade de justiça deferida na instância de origem, nos termos do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
