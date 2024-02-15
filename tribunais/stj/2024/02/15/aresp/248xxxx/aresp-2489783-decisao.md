@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por EMPREENDIMENTOS IMOBILIARIOS DAMHA - IPIGUA I - SPE LTDA. e por EMPREENDIMENTOS IMOBILIARIOS MACHADO IPIGUA-I SPE LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 11/05/2023.
+Concluso ao gabinete em: 07/02/2024.
+Ação: cumprimento de sentença, proposto por PRADO DE CARVALHO, ORMELEZE E GIORGIO ADVOGADOS., em face das agravantes, na qual requer a satisfação de débito reconhecido por sentença transitada em julgado.
+Decisão interlocutória: deferiu o pedido de penhora de 30% sobre o faturamento mensal das agravantes, ou até o limite do crédito exequendo.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelas agravantes, para reduzir percentual de penhora sobre o faturamento para 10%.
+Nesse sentir, é a ementa do julgado:
+Agravo de Instrumento - Cumprimento de sentença - Determinação para realização de penhora de 30% do faturamento mensal das agravantes - Insurgência das devedoras - Pedido de suspensão da execução, por aplicação do Tema 769, do C. STJ - Inadmissibilidade - Tema que diz respeito à execução fiscal - Inexistência de óbice à penhora determinada - Percentual fixado, contudo, que se mostra exagerado - Redução para 10% do faturamento mensal das agravantes, que deverá persistir até a satisfação integral do crédito - Agravo parcialmente provido. (e-STJ, fl. 776)
+Recurso especial: alega a violação dos arts. 835 e 866, ambos do CPC. Sustenta:
+i) a necessidade de observação da gradação das medidas constritivas previstas na legislação processual civil; e
+ii) a ausência de preenchimentos dos requisitos legais para a penhora sobre o faturamento da empresa.
+RELATADO O PROCESSO, DECIDE-SE.
+Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que os arts. 8º, 805 e 833, IV, todos do CPC foram meramente citados da referida peça processual, sendo que as agravantes não aduzem violação direta dos referidos dispositivos infraconstitucionais, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentir, conferir: REsp 1.817.826/SC (2ª Turma, DJe de 23/03/2023), AgInt no AREsp 2.278.439/SP (4ª Turma, DJe de 25/05/2023) e AgInt no AREsp 2.068.491/MS (4ª Turma, DJe de 30/06/2022).
+Ademais, a ausência de particularização dos incisos do artigo supostamente violado, na hipótese o art. 835 do CPC, inviabiliza a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro, o que, também, atrai a incidência da Súmula 284/STF. A esse propósito: AgInt no AgRg no AREsp 801.901/SP (3ª Turma, DJe de 01/12/2017), AgInt no AREsp 1.229.292/SP (4ª Turma, DJe de 04/09/2018) e AgRg no AREsp 522.621/PR (6ª Turma, DJe de 12/12/2014).
+Da penhora sobre o faturamento de empresa (Súmula 568/STJ)
+A Corte de origem, ao decidir pela penhora de 10% sobre o faturamento das empresas agravantes, sob o argumento de que "não existe óbice à determinação para a penhora sobre o faturamento das agravantes, sendo desnecessária a realização de outras buscas a fim de autorizá-la, tendo em vista a sua inércia em quitar o débito, bem como a presença de indícios de que não pretende fazê-lo de forma espontânea, já que em tal sentido jamais se manifestou" (e-STJ, fl. 777), adotou entendimento em dissonância com a jurisprudência do STJ, no sentido de que não há vedação legal que impeça, em caráter excepcional, a imposição de penhora sobre o faturamento da sociedade empresária, quando observados os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (art. 655-A, § 3º, do CPC/73, atual art. 866, § 2º, do CPC/15); e III) fixação de percentual que não inviabilize a atividade empresarial. Nesse sentido: AgInt no AREsp 2.255.331/SP (3ª Turma, DJe de 06/09/2023) e AgInt no AREsp 1.326.847/SP (4ª Turma, DJe de 16/10/2018).
+Nota-se que, no bojo do acórdão recorrido, não ficou consignado expressamente a inexistência ou não de bens passíveis de garantir a execução ou que sejam de difícil alienação e a nomeação de administrador, situação que não pode ser analisada por este STJ, em razão da incidência da Súmula 7/STJ.
+Nesse sentir, necessária devolução dos autos ao Tribunal de origem, para que - à luz da jurisprudência citada - se pronuncie sobre a questão fático-probatória mencionada.
+Logo, o recurso especial merece provimento quanto ao ponto, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo, para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, com fundamento no art. 932, III, V, "a", do CPC, bem como na Súmula 568/STJ, para determinar a remessa dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento do recurso de agravo de instrumento interposto pelas partes agravantes, à luz da citada jurisprudência do STJ.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC, em razão do provimento do apelo especial (EDcl no AgInt no REsp 1.573.573/RJ, 3ª Turma, DJe de 08/05/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Não há vedação legal que impeça, em caráter excepcional, a imposição de penhora sobre o faturamento da sociedade empresária, quando observados os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (art. 655-A, § 3º, do CPC/73, atual art. 866, § 2º, do CPC/15; e III) fixação de percentual que não inviabilize a atividade empresarial.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
