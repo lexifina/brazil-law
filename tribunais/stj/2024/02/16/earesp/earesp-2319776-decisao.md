@@ -1,0 +1,30 @@
+DECISÃO
+BRAZILIAN SECURITIES COMPANHIA DE SECURITIZAÇÃO interpõe embargos de divergência contra acórdão da Terceira Turma assim ementado (fl. 1.851):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO POR DANO MATERIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual cumulada com reparação por dano material.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+Indica divergência de entendimento com os julgados da Quarta Turma no AgInt no AgInt no REsp n. 1.875.510/SP e no AgInt no REsp n. 1.863.680/SP.
+Em relação às semelhanças entre os julgados, a embargante aduz o seguinte (fls. 1.875-1.877):
+Os processos em que foram proferidos os acórdãos paradigmas aqui ventilados, AgInt no AgInt no Recurso Especial nº 1.875.510/SP e AgInt no Recurso Especial nº 1.863.680/SP, por sua vez, também tratam de ações de rescisão contratual cumulada com indenização ajuizadas em face do Banco PAN, a Parque Gabriel Residencialle Incorporações Imobiliários SPE Ltda. e a Toya Martins Planejamento e Consultoria Imobiliária Ltda., por danos decorrentes de atraso na entrega dos imóveis objeto de contratos de promessa de compra e venda firmados entre a incorporadora e os adquirentes, e cuja construção foi financiada com recursos da referida instituição financeira.
+ ..
+Nos recursos especiais interpostos pela instituição financeira nos três processos há alegação de violação ao art. 31-A, § 12, da Lei nº 4.591, de 1964, e pedido para que seja reconhecida sua ilegitimidade para responder por danos causados pela construtora.
+Ainda é incontroverso em todos os processos o fato de que a instituição financeira (Brazilian Securities Companhia de Securitização ou Banco PAN S.A.) atuou como credora fiduciária dos créditos imobiliários objeto das lides, tendo havido cessão fiduciária dos direitos creditórios dos contratos de alienação dos imóveis (no caso dos autos os créditos são oriundos da comercialização do Condomínio Residencial Green Life Imbui).
+Argumenta que, no REsp n. 1.875.510/SP, embora, num primeiro momento, tenha-se concluído pela aplicação das Súmulas n. 5 e 7 do STJ, o relator, Ministro Luis Felipe Salomão, em melhor análise dos autos, entendeu que a questão não demandaria incursão em fatos e provas.
+Quanto ao AgInt no REsp n. 1.863.680/SP, aduz que, como no julgado acima, neste também, entendeu-se que, em razão de as circunstâncias fáticas terem sido assentadas pelas instâncias ordinárias, não havia motivo para incursão em fatos e provas.
+No mérito, sustenta que, nas hipóteses de empreendimentos imobiliários realizados de acordo com a Lei n. 10.931/2004, as instituições financeiras que os financiam não se tornam solidariamente responsáveis pelos danos causados aos consumidores.
+É o relatório. Decido.
+Os presentes embargos de divergência não reúnem condições de admissão.
+No caso, o conhecimento do recurso especial se deu tão somente para averiguar a possível violação do disposto no art. 1.022 do CPC de 2015, concluindo-se, ao final, que tal violação não ocorrera.
+No mais, reconheceu-se a impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 7 do STJ. Observe-se (fl. 1.864):
+E, conforme consignado na decisão agravada, observa-se que o Tribunal a quo ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos e na interpretação de cláusulas contratuais, pelo que rever aquele entendimento é obstado devido à aplicação das Súmulas 5 e 7 desta Corte.
+Frise-se, por oportuno, que, na hipótese em tela, não se cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova buscando sufragar reforma na convicção do julgador sobre o fato, para, in casu, se ter como não provado o que a Corte de origem afirmou estar.
+Nos termos dos arts. 1.043 do Código de Processo Civil e 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis quando acórdão em recurso especial divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia. Como se vê, não é admissível o recurso de embargos de divergência na hipótese em que o acórdão recorrido não tenha apreciado o mérito ou a controvérsia
+No presente feito, o acórdão recorrido não alcançou nenhuma discussão de mérito. Não se diga que o mérito está na questão da aplicação da Súmula n. 7 do STJ, já que não há viabilidade em se discutir tal questão em embargos de divergência, porquanto tal súmula, para ser aplicada, depende das peculiaridades de cada caso concreto.
+Ademais, não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, conforme dispõe a Súmula n. 315 desta Corte: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Vale registrar ainda que os embargos de divergência não se prestam a corrigir eventual equívoco que se possa cogitar na apreciação do recurso especial, como se fosse um recurso de revisão das premissas do julgado anterior, uma vez que se destinam apenas a uniformizar teses jurídicas, devendo ser tomados por cristalizados os aspectos fáticos que serviram como razão de decidir do acórdão embargado.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
