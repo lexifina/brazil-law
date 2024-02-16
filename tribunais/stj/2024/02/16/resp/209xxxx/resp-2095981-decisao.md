@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por ECORA S.A. - EMPRESA DE CONSTRUÇÃO E RECUPERAÇÃO DE ATIVOS - MASSA FALIDA (ECORA S.A.), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE USUCAPIÃO ORDINÁRIO. SENTENÇA DE IMPROCEDÊNCIA. 1. DO RECURSO DE APELAÇÃO INTERPOSTO PELA AUTORA. AUSÊNCIA DE JUSTO TÍTULO. PRESENÇA, TODAVIA, DOS REQUISITOS LEGAIS PARA O RECONHECIMENTO DO USUCAPIÃO EXTRAORDINÁRIO. ART. 1.238, PARÁGRAFO ÚNICO, DO CC. COMPROVAÇÃO. POSSE EXERCIDA COM A ANIMUS DOMINI CONTAR DA DECLARAÇÃO DE RESCISÃO DO CONTRATO DE COMPRA E VENDA POR CULPA DA REQUERIDA TRANSITADA EM JULGADO EM 2007. DECRETAÇÃO DA QUEBRA EM 2006 QUE NÃO IMPOSSIBILITA O INÍCIO DA CONTAGEM DO PRAZO PRESCRICIONAL AQUISITIVO DECENAL. OPOSIÇÃO MANIFESTADA SOMENTE EM SEDE DE RECONVENÇÃO NO ANO DE 2018. INÉRCIA DOS INTERESSADOS NO RESGUARDO DA MASSA FALIDA OBJETIVA QUE NÃO PRIVILEGIA A FUNÇÃO SOCIAL (ARTS. 5º, XXIII E 170, INCISO III, DA CF/88) FRENTE AO EXERCICIO, DE OUTRO LADO, DO DIREITO DE MORADIA, O RECOLHIMENTO DE TRIBUTOS E A MANUTENÇÃO DA UNIDADE RESIDENCIAL UNIFAMILIAR DE ÁREA GLOBAL DE 67,47 M  PELA POSSUIDORA COMO SE DONA FOSSE (ARTS. 5º, XXII, 182 E 183, DA CF/88).
+- No caso, a autora passou a exercer a posse do imóvel com ânimo de dona, independentemente de justo título e boa-fé e ininterruptamente a partir de 2007 quando da rescisão do contrato de compra e venda por culpa da requerida, estabelecendo como moradia habitual desde 1997, e lá estando até os dias de hoje.
+- Embora inexistente justo título para o reconhecimento do usucapião ordinário inicialmente pretendido, cabível a declaração da aquisição originária da propriedade por usucapião extraordinário (art. 1.238, parágrafo único, do CC) ou constitucional urbano (art. 183, da CF/88).
+- A decretação da falência ocorrida em 2006 tem o condão de interromper o prazo da prescrição aquisitiva, sem, contudo, impossibilitar o seu início, especialmente ante a inércia no devido zelo da massa falida pelos credores, falida, e administrador judicial ao menos até 2018 quando da apresentação de pedido reconvinte de reintegração de posse, frente ao cumprimento, de outro lado, da função social pela possuidora de unidade residencial unifamiliar de área global de 67, 47 m  por mais de uma década como se dona fosse.
+- Considerando-se as peculiaridades do caso concreto, os direitos e garantias fundamentais, bem como ponderando-se os princípios da ordem econômica, impõe-se declarar a aquisição pela autora do direito à propriedade do imóvel.
+2. PEDIDO RECONVENCIONAL DE REINTEGRAÇÃO DE POSSE. OMISSÃO PELO JUÍZO DE ORIGEM. IMEDIATA APRECIAÇÃO. ART. 1.013, § § 2º E 3º, INCISO III, DO CPC. IMPROCEDÊNCIA.
+- Diante da declaração do direito usucapiendo, resta improcedente o pedido reconvencional de reintegração de posse ante o não preenchimento dos requisitos do art. 562, do CPC, vez que intentado após o decurso do lapso temporal aquisitivo.
+3. SENTENÇA INTEGRALMENTE REFORMADA. INVERSÃO DO ÔNUS SUCUMBENCIAL. IMPOSIÇÃO.
+- Tendo em vista a integral reforma da sentença, impõe-se a inversão do ônus sucumbencial.
+4. RECURSO ADESIVO INTERPOSTO PELA MASSA FALIDA PREJUDICADO. PEDIDO DE REINTEGRAÇÃO DE POSSE EM SEDE DE RECONVENÇÃO NÃO APRECIADO NA SENTENÇA. FALTA SUPERVENIENTE DO INTERESSE RECURSAL.
+- Diante do provimento do recurso interposto pela autora para declarar o seu direito usucapiendo, resta prejudicada a apreciação de mérito do apelo interposto pela parte requerida a fim de que fosse sanada a omissão do juízo de origem acerca da pretensão de reintegração de posse em sede de reconvenção.
+Recurso de apelação provido.
+Recurso adesivo prejudicado (e-STJ, fls. 567/568).
+Nas razões do presente recurso, ECORA alegou, a par de divergência jurisprudencial, a violação aos arts. 102, 202, parágrafo único, 1.238, parágrafo único, e 1.244 do CC, ao sustentar que os bens da massa falida não são suscetíveis de usucapião, uma vez que se tornam indisponíveis com o decreto da falência, por força da intervenção do Estado na esfera patrimonial do devedor.
+Foram apresentadas contrarrazões (e-STJ, fls. 424/440 ).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Do reconhecimento da usucapião
+O entendimento manifestado pela Corte de origem encontra-se em dissonância com a jurisprudência deste Superior Tribunal de Justiça, que segue no sentido de que o curso do prazo da prescrição aquisitiva do bem imóvel - usucapião -é interrompido com a decretação de quebra, tendo em vista que o possuidor perde a posse pela incursão do Estado na sua esfera jurídica.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. BEM IMÓVEL. PROPRIEDADE. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. DECRETAÇÃO. EFEITOS. INDISPONIBILIDADE. PRESCRIÇÃO AQUISITIVA. PRAZO. FLUÊNCIA. INTERRUPÇÃO. PROPRIETÁRIO. INÉRCIA. NÃO OCORRÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na origem, cuida-se de ação de usucapião proposta contra instituição financeira em processo de liquidação extrajudicial, objetivando o reconhecimento de domínio do imóvel, julgada improcedente em primeiro grau, com sentença mantida em apelação.
+3. Cinge-se a controvérsia a definir se os bens pertencentes a instituição financeira em processo de liquidação extrajudicial estão sujeitos à aquisição por usucapião.
+4. O bem imóvel de propriedade de instituição financeira que se encontra em regime de liquidação extrajudicial é insuscetível de usucapião.
+5. Na liquidação extrajudicial de instituição financeira, a exemplo do que ocorre no processo falimentar, cujas disposições contidas na Lei de Falências têm aplicação subsidiária por força do artigo 34 da Lei nº 6.024/1974, ocorre a formação de um concurso universal de credores que buscam satisfazer seus créditos de forma igualitária por intermédio do patrimônio remanescente unificado (princípio da par conditio creditorum).
+6. Da mesma forma que ocorre no processo falimentar, a decretação da liquidação extrajudicial obsta a fluência do prazo da prescrição aquisitiva sobre bens inseridos na universalidade de bens já marcados pela indisponibilidade, pois, apesar de suscetíveis de comercialização, só podem ser alienados em certas circunstâncias, com o objetivo de atender aos interesses econômicos e sociais de determinadas pessoas.
+7. A aquisição da propriedade pela via da usucapião pressupõe a inércia do proprietário em reaver o bem, que não pode ser imputada ao titular do domínio que, a partir da decretação da liquidação extrajudicial, não conserva mais todas as faculdades inerentes à propriedade: usar, fruir e dispor livremente da coisa.
+8. Recurso especial não provido.
+(REsp n. 1.876.058/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 24/5/2022, DJe de 26/5/2022 - sem destaque no original.)
+FALIMENTAR E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. EFEITOS DA DECRETAÇÃO DA FALÊNCIA. PATRIMÔNIO AFETADO COMO UM TODO. USUCAPIÃO. INTERRUPÇÃO DA PRESCRIÇÃO AQUISITIVA. MASSA FALIDA OBJETIVA. ART. 47 DO DL 7661/45. OBRIGAÇÕES DE RESPONSABILIDADE DO FALIDO.
+1. Ação ajuizada em 21/03/01. Recurso especial interposto em 09/12/14 e atribuído ao gabinete em 25/08/16. Julgamento: CPC/73.
+2. O propósito recursal é decidir se houve usucapião de imóvel que compõe a massa falida, à luz do DL 7.661/45.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. A sentença declaratória da falência produz efeitos imediatos, tão logo prolatada pelo juízo concursal.
+5. O bem imóvel, ocupado por quem tem expectativa de adquiri-lo por meio da usucapião, passa a compor um só patrimônio afetado na decretação da falência, correspondente à massa falida objetiva. Assim, o curso da prescrição aquisitiva da propriedade de bem que compõe a massa falida é interrompido com a decretação da falência, pois o possuidor (seja ele o falido ou terceiros) perde a posse pela incursão do Estado na sua esfera jurídica.
+6. A suspensão do curso da prescrição a que alude o art. 47, do DL 7.661/45 cinge-se às obrigações de responsabilidade do falido para com seus credores, e não interfere na prescrição aquisitiva da propriedade por usucapião, a qual é interrompida na hora em que decretada a falência devido à formação da massa falida objetiva.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.680.357/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 10/10/2017, DJe de 16/10/2017 - sem destaques no original.)
+Assim, sendo, merece reforma o v. acórdão recorrido que entendeu pelo reconhecimento da prescrição aquisitiva.
+Nessas condições, DOU PROVIMENTO ao recurso especial para restabelecer a r. sentença que julgou improcedente o pedido de usucapião.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO FALIMENTAR. RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. BEM IMÓVEL QUE COMPÕE O PATRIMÔNIO DA MASSA FALIDA. EFEITOS DA DECRETAÇÃO DA FALÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO AQUISITIVA. ART. 47 DO DL Nº 7.661/45. OBRIGAÇÕES DE RESPONSABILIDADE DO FALIDO. REESTABELECIMENTO DA SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. RECURSO ESPECIAL PROVIDO.
