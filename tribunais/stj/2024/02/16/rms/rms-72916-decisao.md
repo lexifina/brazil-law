@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com fundamento no art. 105, II, b, da Constituição Federal, em face de acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA CONTRA DECISÃO JUDICIAL. INADEQUAÇÃO DA VIA ELEITA. UTILIZAÇÃO DO MANDADO DE SEGURANÇA COMO SUCEDÂNEO RECURSAL.
+IMPOSSIBILIDADE. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. NÃO CONHECIMENTO DA AÇÃO.
+1. A decisão proferida pela Vice-Presidência, que extinguiu a ação sem julgamento de mérito, por conta do falecimento do autor da ação, em ação personalíssima de requerimento de medicamentos especiais não fornecidos pelo SUS, sem análise do Recurso Especial do ora impetrante, apresentado para discutir o valor de honorários advocatícios arbitrados no acórdão, foi tomada no exercício de competência delegada do Presidente e dos Tribunais Superiores relacionada com o juízo de admissibilidade recursal, a qual não é passível de revisão por qualquer órgão julgador do Tribunal local, devendo ser direcionada ao Tribunal competente.
+2. É incabível o emprego do mandado de segurança como sucedâneo recursal, nos termos da Súmula 267/STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"), não se podendo, ademais, tachar de teratológica decisão em situação que inexiste clara previsão legal e orientação jurisprudencial uniformizada, cabendo ressaltar, ademais, que foi mantida pela decisão da Vice-Presidência, a sucumbência fixada no acórdão deste TRF4 (em R$ 3.000,00), quando do julgamento da apelação.
+3. Mandado de Segurança não conhecido.
+A recorrente sustenta, em suma, que "A extinção do processo sem resolução de mérito declarada pelo Vice Presidente do TRF4, além de incontestavelmente teratológica, pois fora da sua competência regimental, contém indiscutível error in procedendo quando impede que o recurso especial do Recorrente passe pelo juízo de admissibilidade. Sendo a verba de sucumbência direito autônomo do advogado, não há que se falar que a extinção quanto ao mérito do pedido principal da ação possa impedir o prosseguimento da mesma quanto a questão dos honorários de sucumbência" (fl. 99 e-STJ).
+O Ministério Público Federal, por meio do parecer de fls. 120/125, opina pelo não provimento do recurso.
+É o relatório. Passo a decidir.
+Consta do acórdão de origem (fls. 75/78 e-STJ):
+O que a parte impetrante busca é a reforma da decisão judicial que, ao extinguir o feito sem julgamento de mérito, acabou por não analisar a admissibilidade do recurso especial manejado, o que em tese teria impedido, nas cortes superiores, o debate sobre o valor dos honorários fixados.
+"O que a parte impetrante busca é a reforma da decisão judicial que, ao extinguir o feito sem julgamento de mérito, acabou por não analisar a admissibilidade do recurso especial manejado, o que em tese teria impedido, nas cortes superiores, o debate sobre o valor dos honorários fixados.
+ ..
+Com efeito, a extinção da ação sem análise do recurso especial do ora impetrante não é recorrível via agravo interno do artigo 1021 do CPC, o qual possui hipóteses de cabimento restritas, mas sim por meio de agravo em recurso especial previsto no artigo 1042 do CPC, diretamente para o STJ, nos termos do artigo 1030, §1º do CPC.
+Ademais, por derivar o cabimento de agravo interno e agravo em recurso especial da literalidade legal, bem como serem os recursos destinados a instâncias julgadoras distintas, caracteriza-se erro grosseiro o manejo do agravo interno na situação da apelação cível, a inviabilizar a fungibilidade recursal.
+Assim, não há condições de conhecimento do presente mandamus por inadequação da via eleita."
+Com efeito, é incabível o emprego do mandado de segurança como sucedâneo recursal, nos termos da Súmula 267/STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"), não se podendo, ademais, tachar de teratológica decisão em situação que inexiste clara previsão legal e orientação jurisprudencial uniformizada, cabendo ressaltar, ademais, que foi mantida pela decisão da Vice-Presidência, a sucumbência fixada no acórdão deste TRF4 (em R$ 3.000,00), quando do julgamento da apelação.
+Com efeito, verifica-se que o Tribunal de origem não conheceu do mandado em segurança ao argumento de que foi impetrado como sucedâneo recursal da parte que interpôs agravo interno da decisão que inadmitiu o recurso especial interposto na origem quando, em verdade, caberia a interposição de agravo em recurso especial.
+"A jurisprudência desta Corte está firmada no sentido de que o mandado de segurança não pode ser utilizado como sucedâneo recursal", sendo aplicável o óbice da Súmula 267/STF (RMS 39.140/BA, 2ª Turma, Rel. Min. Eliana Calmon, DJe de 5.8.2013).
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL DE VALOR IGUAL OU INFERIOR A 50 OTN. ART. 34 DA LEI 6.830/80. SENTENÇA. RECURSOS CABÍVEIS: EMBARGOS DE DECLARAÇÃO, EMBARGOS INFRINGENTES OU RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. AÇÃO IMPRÓPRIA. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. SÚMULA 267/STF.
+1. Só são oponíveis embargos de declaração e embargos infringentes de sentença proferida no âmbito das execuções fiscais previstas no art. 34 da Lei 6.830/80, regra excepcionada apenas pelo eventual cabimento de recurso extraordinário, quando houver questão constitucional debatida. Precedentes: RMS 36.879/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 19/03/2013, Dje 25/03/2013 e RMS 36.501/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 16/04/2013.
+2. É incabível o mandado de segurança empregado como sucedâneo recursal, nos termos da Súmula 267/STF.
+3. Proclamada, na espécie, a inadequação da via mandamental, defeso se apresentava ao Tribunal de origem incursionar no exame relativo à prescrição do crédito tributário.
+4. Recurso ordinário a que se dá parcial provimento.
+(RMS 36.504/SP, 2ª Turma, Rel. Min. Sérgio Kukina, DJe de 4.6.2013)
+Na hipótese, como bem observado pelo Ministério Público Federal:
+A doutrina e a jurisprudência majoritárias admitem o manejo do mandado de segurança contra ato judicial nas seguintes hipóteses excepcionais: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão.
+No caso, não se verifica nenhuma das hipóteses mencionadas.
+Diante do exposto, com base no art. 932, IV, do CPC/2015, c/c o art. 34, XVIII, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. MANDAMUS UTILIZADO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. RECURSO NÃO PROVIDO.
