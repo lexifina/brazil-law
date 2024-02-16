@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ (e-STJ fls. 1.227/1.233).
+O Tribunal de origem negou provimento aos recursos dos recorrentes e dos recorridos, em julgado que recebeu a seguinte ementa (e-STJ fls. 1.004/1.005):
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA. SENTENÇA DE EXTINÇÃO POR RECONHECIMENTO DA PRESCRIÇÃO TRIENAL. INVESTVALE. CLUBE DE INVESTIMENTO. TRANSFERÊNCIA DAS COTAS. VALOR CALCULADO PELO RÉU INFERIOR AO DEVIDO. RECURSOS PELA PARTE AUTORA E PELA VALE S A. CINGE-SE A CONTROVÉRSIA RECURSAL EM DETERMINAR O PRAZO PRESCRICIONAL INCIDENTE NA HIPÓTESE, SEU TERMO INICIAL E A OCORRÊNCIA OU NÃO DA CAUSA IMPEDITIVA PREVISTA NO ART. 200 DO CÓDIGO CIVIL. E, VIA DE CONSEQUÊNCIA, AFERIR SE A PRESENTE PRETENSÃO RESSARCITÓRIA ESTARIA OU NÃO FULMINADA PELA PRESCRIÇÃO. POR SUA VEZ, EM APELO ADESIVO, PRETENDE -SE A REVOGAÇÃO DA GRATUIDADE DE JUSTIÇA CONCEDIDA AOS AUTORES E A RETIFICAÇÃO DO VALOR DADO À CAUSA.
+1 - O STJ, a partir do julgamento dos Embargos de Divergência no REsp nº 1.280.825/RJ, consolidou intelecção de que o prazo prescricional de 03 (três) anos, estabelecido no art. 206, § 3º, V, do CC, para pretensão de reparação civil, atinge apenas os danos decorrentes de responsabilidade extracontratual, e não aqueles decorrentes do inadimplemento contratual, quando, em virtude de ausência de regulamentação específica, obedecerão ao prazo de 10 (dez) anos, nos termos do art. 205, do CC/02.
+2 - Definido o prazo incidente na presente hipótese, ou seja, decenal, os pretendentes defendem a incidência do art. 200, do Código Civil.
+3 - Argumentam, nesse sentido, que o fato gerador da responsabilidade civil é também o crime que está sendo apurado em processo judicial na Justiça Federal. Por outro lado, não há efetiva demonstração da alegada prejudicialidade externa entre o fato objeto da ação penal e o desenvolvimento da presente ação. Observe-se que constitui requisito para a aplicação da norma acima defendida a relação de subordinação necessária entre o fato a ser provado na ação penal e o desenvolvimento regular da ação cível, ou seja, que a conduta ilícita supostamente praticada se origine de fato que, necessariamente, deva ser apurado no juízo criminal. Precedentes desse TJRJ em relação aos mesmos fatos aqui discutidos.
+4 - Não se aplicando o disposto no art. 200 do Código Civil, tem-se que o termo inicial de contagem do prazo prescricional decenal ocorreu em 28/06/2006. É que essa é a data de distribuição da denúncia promovida pelo MPF, tornando-se fato público e notório, presumindo-se que, na pior das hipóteses, todos os representados tomaram ciência dos supostos danos sofridos naquela data. Consequentemente, o prazo prescricional se exauriu, considerando-se que a presente ação foi proposta em 2021.
+5 - Quanto ao apelo adesivo, não há demonstração de equívoco no julgado.
+6 - Presunção relativa de veracidade da alegação de hipossuficiência deduzida por pessoa natural (art. 99, §3º do CPC) não ilidida.
+7 - No que se refere ao valor da causa atribuído, foi indicado mero valor estimativo, na medida em que se buscou quantia equivalente a determinado número de ações, as quais, por sua natureza, possuem valores essencialmente voláteis. E, na forma do entendimento da Corte Especial, admite-se que o valor da causa seja fixado por estimativa, quando não for possível a determinação exata da expressão econômica da demanda, estando sujeito a posterior adequação ao valor apurado na sentença ou no procedimento de liquidação.
+RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.124/1.132).
+No recurso especial (e-STJ fls. 1.168/1.185), fundamentado no art. 105, III, "a", da CF, os recorrentes apontam violação dos arts. 200 do CC e 976, II, do CPC, sustentando que deve ser considerado como termo a quo da prescrição o momento em que tomaram conhecimento dos prejuízos (2006), data em que foi divulgada notícia pela imprensa da fraude perpetrada. Afirmam que existe ação penal para apuração do crime que não transitou em julgado, ocorrendo a prejudicialidade externa entre o fato objeto da ação penal e o desenvolvimento da presente ação. Teceram, ainda, considerações acerca da aplicação do Tema n. 44 do STJ.
+Contrarrazões apresentadas (e-STJ fls. 1.197/1.212 e 1.213/1.225).
+No agravo (e-STJ fls. 1.258/1.268), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminutas apresentadas (e-STJ fls. 1.277/1.323 e 1.324/1.340).
+É o relatório.
+Decido.
+Inicialmente, quanto à violação do art. 976, II, do CPC e à aplicação do Tema n. 44 do STJ, o Tribunal de origem, aplicando a teoria da actio nata, consignou que o termo inicial da contagem do prazo prescricional decenal ocorreu em 28/06/2006, data de distribuição da denúncia promovida pelo Ministério Público Federal, fato público e notório, presumindo que, na pior das hipóteses, todos os representados tomaram ciência dos supostos danos sofridos.
+Assim, tendo a Corte local aplicado a teoria da actio nata e consequentemente o Tema n. 44 do STJ, não há interesse recursal quanto à tese de violação do art. 976, II, do CPC.
+No mais, o Tribunal estadual consignou, com base nos elementos fático-probatórios, que, no caso em exame, não há efetiva demonstração da alegada prejudicialidade externa entre o fato objeto da ação penal em curso e o desenvolvimento da presente ação. Confira-se (e-STJ fls. 1.012/1.016):
+Definido o prazo incidente na presente hipótese, ou seja, decenal, os pretendentes defendem a incidência do art. 200, do Código Civil:
+ ..
+Argumentam, nesse sentido, que o fato gerador da responsabilidade civil é também o crime que está sendo apurado em processo judicial na Justiça Federal.
+Por outro lado, não há efetiva demonstração da alegada prejudicialidade externa entre o fato objeto da ação penal e o desenvolvimento da presente ação.
+Observe-se que constitui requisito para a aplicação da norma acima defendida a relação de subordinação necessária entre o fato a ser provado na ação penal e o desenvolvimento regular da ação cível, ou seja, que a conduta ilícita supostamente praticada se origine de fato que, necessariamente, deva ser apurado no juízo criminal.
+Em outras palavras, seria imperiosa a existência na esfera criminal de questão prejudicial ao ingresso do pedido indenizatório na esfera cível, o que não ocorreu neste caso.
+ ..
+Não se aplicando o disposto no art. 200 do Código Civil, tem-se que o termo inicial de contagem do prazo prescricional decenal ocorreu em 28/06/2006. É que essa é a data de distribuição da denúncia promovida pelo MPF, tornando-se fato público e notório, presumindo-se que, na pior das hipóteses, todos os representados tomaram ciência dos supostos danos sofridos naquela data.
+Consequentemente, o prazo prescricional se exauriu, considerando-se que a presente ação foi proposta em 2021.
+ ..
+Não há que se falar, portanto, em rejeição da preliminar de prescrição, devendo ser, nesse capítulo, mantida a sentença.
+Logo, a revisão das premissas firmadas pelo Tribunal a quo demandaria revisão dos fatos discutidos na lide, providência descabida na estreita via do recurso especial, incidindo o óbice da Súmula n. 7 desta Corte.
+Ademais, conforme entendimento do STJ, a regra do art. 200 do CC "pode ser afastada quando, nas instâncias ordinárias, estiver consignada a inexistência de relação de prejudicialidade entre as esferas cível e criminal" (AgInt no AREsp n. 1.607.936/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 1/10/2020).
+No presente caso, o Tribunal de origem concluiu que a eventual apuração na esfera criminal não era questão prejudicial ao ingresso do pedido indenizatório na esfera civil, afastando a incidência do art. 200 do CC.
+Assim, não merece reparos a decisão recorrida, pois julgou no mesmo sentido da jurisprudência desta Corte Superior. Aplica-se a Súmula n. 83 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. PRAZO PRESCRICIONAL. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme entendimento sedimentado no STJ, o prazo prescricional, em caso de responsabilidade civil, decorrente de ato ilícito, começa a correr da ciência do fato ensejador da reparação, qual seja, o evento danoso. Precedentes.
+2. No presente caso, o Tribunal de origem consignou que a eventual apuração na esfera criminal não era questão prejudicial ao ingresso do pedido indenizatório na esfera civil, afastando a incidência do artigo 200 do Código Civil. No ponto, o acórdão recorrido encontra-se em sintonia com a jurisprudência sedimentada no STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.415.061/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/9/2017, DJe de 15/9/2017.)
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 243), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
