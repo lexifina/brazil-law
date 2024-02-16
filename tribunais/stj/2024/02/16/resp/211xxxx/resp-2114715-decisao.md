@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado por Movida Locação de Veículos S.A, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 40):
+AGRAVO DE INSTRUMENTO Decisão que determinou que a FESP se abstenha de inseri r o nome da executada no CADIN e/ou efetuar o protesto das CDAs Insurgência do Estado Cabimento Empresa que apresentou seguro-garantia Garantia que permite apenas a expedição da Certidão Positiva com Efeitos de Negativa Exigibilidade do débito mantida quanto aos demais efeitos, como inscrição no CADIN e protesto Precedentes Decisão reformada.
+RECURSO PROVIDO.
+A parte recorrente aponta violação aos arts. 7º, 8º, 805, 926, 927 e 928, do CPC; 151, II, V, 205 e 206 do CTN; 9º, II, §3º, da Lei nº 6.830/80. Sustenta, em resumo, que o oferecimento do seguro garantia impede o protesto e a inscrição de contribuintes em situação de regularidade fiscal no cadastro de inadimplentes, pois "Meios coercitivos de cobrança, como o protesto e a inscrição no CADIN, são válidos e devem ser mantidos em face de devedores contumazes, de idoneidade questionável, não diante de contribuintes em situação de regularidade fiscal. 28. Em outras palavras, não faz o menor sentido que os efeitos nefastos do protesto ou da inscrição no CADIN remanesçam em face de contribuinte que, valendo-se de garantia idônea, a oferece para discutir a exigência fiscal em Juízo, porque tais medidas certamente oneram o contribuinte de forma excessiva, desproporcional e desarrazoada e, em última instância, colocam em risco os próprios resultados da atividade econômica geradora de arrecadação " (fl. 78).
+Contrarrazões apresentadas às fls. 92/97.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, verifica-se que a matéria pertinente aos arts. 7º, 8º, 805, 926, 927 e 928, do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, constata-se que os arts. 151, II, V, 205 e 206 do CTN; 9º, II, §3º, da Lei nº 6.830/80 não possui comando normativo capaz de sustentar a tese recursal de que o seguro garantia impede o protesto e a inscrição no cadastro de inadimplentes, assim como de infirmar o referido juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
