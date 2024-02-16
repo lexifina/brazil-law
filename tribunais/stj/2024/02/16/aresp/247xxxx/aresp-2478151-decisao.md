@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de dois agravos interpostos por SPLICE INDUSTRIA COMERCIO E SERVICOS LTDA. e CIA DE ENGENHARIA DE TRAFEGO CET RIO, contra decisão que inadmitiu recursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de SPLICE INDUSTRIA COMERCIO E SERVICOS LTDA., a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao Dr. João Pedro Pinto de Camargo, subscritor do agravo em recurso especial.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que os poderes consignados no instrumento de mandato de fl. 496, foram outorgados ao subscritor do recurso em data posterior à sua interposição.
+A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Quanto à irresignação de CIA DE ENGENHARIA DE TRAFEGO CET RIO, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, em razão do pedido de diferimento de custas.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Cabe ressaltar que o pedido de diferimento de custas não pode ser deferido tendo em vista que as custas devidas ao Superior Tribunal de Justiça têm natureza jurídica de taxa federal, instituída pela Lei n. 11.636/2007.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
+ EMENTA
