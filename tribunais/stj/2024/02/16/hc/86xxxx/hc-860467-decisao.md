@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  benefício  de  THIAGO  DA  SILVA  GOMES  apontando  como  autoridade  coatora  o  TRIBUNAL  REGIONAL  FEDERAL  DA  3ª  REGIÃO  (Apelação  Criminal  n.  0007548-45.2013.4.03.6000).
+Depreende-se  dos  autos  que  o  paciente  foi  condenado,  pela  prática  da  conduta  descrita  no  art.  155,  §  4º,  incisos  II  e  IV,  c/c  os  arts.  14,  inciso  II,  e  71,  todos  do  Código  Penal,  à  pena  de  1  (um)  ano,  9  (nove)  meses  e  23  (vinte  e  três)  dias  de  reclusão,  no  regime  inicial  semiaberto,  e  ao  pagamento  de  8  (oito)  dias- multa.
+Contra  o  édito  condenatório  insurgiram-se  a  defesa  e  a  acusação.
+O  Tribunal  Regional  Federal  da  3ª  Região  negou  provimento  ao  recurso  do  Ministério  Público  Federal  e  deu  parcial  provimento  ao  inconformismo  defensivo  para,  mantendo  a  condenação  do  réu,  redimensionar  a  pena  privativa  de  liberdade  para  1  (um)  ano,  6  (seis)  meses  e  20  (vinte)  dias  de  reclusão,  mantendo  o  regime  semiaberto.
+Os  embargos  de  declaração  defensivos  foram  rejeitados  (e-STJ  fl.  744).
+No  Superior  Tribunal  de  Justiça,  sustenta  a  parte  impetrante  a  possibilidade  de  alteração  do  regime  inicial  de  cumprimento  da  sanção  para  o  aberto.
+Destaca  que  todas  as  circunstâncias  judiciais  previstas  no  art.  59  do  CP  foram  consideradas  favoráveis  ao  acusado.
+Ressalta  a  colaboração  do  réu  com  a  Justiça.
+Diante  disso,  pede,  liminar  e  definitivamente,  a  modificação  do  regime  inicial  de  cumprimento  da  reprimenda  para  o  aberto.
+O  pedido  liminar  foi  indeferido.
+Prestadas  as  informações,  o  Parquet  Federal  opinou  pelo  não  conhecimento  do  writ  (e-STJ  fls.  756/764).
+É  o  relatório.
+Decido.
+O  habeas corpus  não  comporta  conhecimento.
+Além  de  se  tratar  de  impetração  substitutiva  de  revisão  criminal,  tendo  em  vista  que  a  condenação  transitou  em  julgado  em  24/3/2323  (e-STJ  fl.  745),  do  presente  writ  não  se  pode  conhecer  também  por  se  tratar  de  reiteração  de  pedido  e  causa  de  pedir  apresentado  em  agravo  em  recurso  especial  anteriormente  julgado  por  este  Sodalício.
+Logo,  não  há  como  dar  conhecimento  à  irresignação,  tendo  em  vista  que  se  trata  de  mera  reiteração  do  AREsp  n.  2.246.956/SP  anteriormente  interposto  perante  esta  Casa,  no  qual  se  insurgiu  a  defesa  contra  o  mesmo  acórdão  de  origem  (Apelação  Criminal  n.  0007548-45.2013.4.03.6000),  em  favor  do  mesmo  réu,  com  identidade  de  de  pedido  e  de  causa  de  pedir.  Tal  agravo  em  recurso  especial  foi  julgado  monocraticamente  por  esta  relatoria  em  28/2/2023,  ocasião  na  qual  analisei  o  pedido  aqui  reiterado,  entendendo  correta  a  fixação  do  regime  inicial  semiaberto,  tendo  sido  certificado  o  trânsito  em  julgado  de  tal  decisão  em  24/3/2023.
+Para  assentar  o referido posicionamento,  reproduzo  o  seguinte  trecho  da  mencionada  decisão  (e-STJ  fl.  691  daqueles  autos,  grifei):
+No  caso  em  tela,  não  vislumbro  a  suscitada  ilegalidade.
+É  que,  de  acordo  com  a  jurisprudência  desta  Corte  Superior,  "não  obstante  as  circunstâncias  judiciais  sejam  favoráveis  ao  paciente,  que  foi  condenado  a  pena  privativa  de  liberdade  não  superior  a  4  anos,  a  reincidência  constitui  fundamento  suficiente  para  o  estabelecimento  do  regime  inicial  semiaberto  e  negativa  de  substituição,  na  esteira  do  disposto  nos  arts.  33,  §  2º,  alínea  b,  e  44,  inciso  II,  ambos  do  Código  Penal,  e  no  enunciado  da  Súmula  269/STJ,  in  verbis:  "É  admissível  a  adoção  do  regime  prisional  semiaberto  aos  reincidentes  condenados  a  pena  igual  ou  inferior  a  quatro  anos  se  favoráveis  as  circunstâncias  judiciais""  (HC  n.  343.413/SP,  relator  Ministro  REYNALDO  SOARES  DA  FONSECA,  QUINTA  TURMA,  julgado  em  4/2/2016,  DJe  15/2/2016,  grifei).
+Nesse  mesmo  sentido:
+HABEAS  CORPUS.  ESTELIONATO.  IMPETRAÇÃO  SUBSTITUTIVA  DE  RECURSO  ESPECIAL.  VIA  INADEQUADA.  FIXAÇÃO  DE  REGIME  MAIS  BRANDO.  IMPOSSIBILIDADE.  PENA  INFERIOR  A  4  ANOS  DE  RECLUSÃO.  REINCIDÊNCIA.  REGIME  INICIAL  SEMIABERTO.  ADEQUAÇÃO.  SUBSTITUIÇÃO  DA  PENA  PRIVATIVA  DE  LIBERDADE  POR  RESTRITIVAS  DE  DIREITOS.  MEDIDA  NÃO  RECOMENDÁVEL.  NÃO  CONHECIMENTO.
+1.  Tratando-se  de  habeas  corpus  substitutivo  de  recurso  especial,  inviável  o  seu  conhecimento.
+2.  Nos  termos  do  artigo  33  do  Código  Penal  e  do  teor  da  Súmula  269  desta  Corte,  fixada  a  pena  em  patamar  inferior  a  4  anos  de  reclusão,  a  estipulação  do  regime  inicial  semiaberto  é  apropriada,  diante  da  reincidência  do  paciente.
+3.  Inviável  a  substituição  da  reprimenda  por  medidas  restritivas  de  direitos,  visto  que  as  instâncias  de  origem  assentaram  não  ser  recomendável,  não  apenas  pela  mera  reincidência,  mas,  em  especial,  por  a  condenação  anterior  referir-se  ao  crime  de  "quadrilha  armada",  o  que  evidencia  a  insuficiência  da  providência  mais  branda.
+4.  Habeas  corpus  não  conhecido.
+(HC  357.303/SP,  Rel.  Ministra  MARIA  THEREZA  DE  ASSIS  MOURA,  SEXTA  TURMA,  julgado  em  2/6/2016,  DJe  14/6/2016.)
+Destarte,  o  pedido  de  abrandamento  do  modo  carcerário  já  foi  analisado  em  seu  mérito  anteriormente,  de  forma  definitiva  (dado  o  trânsito  em  julgado),  constituindo  o  presente  writ  mera  reiteração  do  AREsp  n.  2.246.956/SP,  o  que  impede  seu  conhecimento.
+Nesse  mesmo  sentido,  cito  o  seguinte  trecho  do  parecer  ministerial,  que  adoto  como  fundamentação  de  decidir  no  sentido  do  não  conhecimento  do  presente  habeas corpus  (e-STJ  fls.  761/762,  grifei):
+3.10.  Em  4ª  Preliminar,  torna-se  oportuno  suscitar  a  preclusão.  Com  efeito,  no  AREsp  2.246.956,  que  trata  do  mesmo  acórdão,  na  mesma  ação  penal,  em  benefício  do  mesmo  réu,  dos  mesmos  fundamentos  e  mesmo  pedido,  a  questão  já  foi  definitivamente  decidida.
+3.11.  Em  28-02-2023,  o  Relator  negou  provimento  ao  AREsp  2.246.956/SP,  cabendo  transcrever  o  seguinte  trecho:
+ ..
+3.12.  Trata-se,  portanto,  de  questão  preclusa.
+É  digno  de  nota  que,  naquela  ocasião  (AREsp  n.  2.246.956/SP),  entendi  aplicável  a  Súmula  n.  269/STJ  ao  ora  paciente  e  inviável  o  abrandamento  para  o  regime  carcerário  aberto,  tendo  em  vista  sua  condição  de  reincidente,  apesar  das  circunstâncias  judiciais  favoráveis  do  art.  59  do  Código  Penal  e  do  apenamento  inferior  a  4  anos  de  reclusão.  Tal  posicionamento  seria  o  mesmo  adotado  no  presente  habeas  corpus,  caso  fosse  possível  a  análise  do  mérito,  que  está  vedada  em  razão  de  se  tratar  de  reiteração  de  pedido  já  decidido  de  forma  definitiva  no  âmbito  desta  Corte  Superior,  como  esclarecido.
+A  propósito:
+HABEAS  CORPUS.  FURTO  QUALIFICADO.  PRISÃO  DETERMINADA  PELO  TRIBUNAL  APÓS  O  JULGAMENTO  DA  APELAÇÃO.  POSSIBILIDADE.  EXECUÇÃO  PROVISÓRIA  DA  PENA.  LEGALIDADE.  RECENTE  ENTENDIMENTO  DO  SUPREMO  TRIBUNAL  FEDERAL.  AUSÊNCIA  DE  VIOLAÇÃO  DO  PRINCÍPIO  DA  PRESUNÇÃO  DE  INOCÊNCIA.  RÉU  CONDENADO  À  PENA  DE  2  ANOS  E  6  MESES.  REGIME  FECHADO.  PENA-BASE  NO  MÍNIMO  LEGAL  E  REINCIDÊNCIA.  APLICAÇÃO  DA  SÚMULA  N.  269/STJ.  DEFERIDO  O  REGIME  INICIAL  SEMIABERTO  CONSTRANGIMENTO  ILEGAL  EVIDENCIADO.  HABEAS  CORPUS  CONCEDIDO  DE  OFÍCIO.
+ ..
+4.  Quanto  ao  regime  de  cumprimento,  a  jurisprudência  deste  Superior  Tribunal  firmou-se  no  sentido  de  que  é  necessária,  para  a  fixação  de  regime  mais  gravoso,  a  apresentação  de  motivação  concreta,  fundada  nas  circunstâncias  judiciais  previstas  no  art.  59  do  Código  Penal  ou  na  reincidência.
+5.  Consoante  a  Súmula  n.  269  desta  Corte,  é  admissível  a  adoção  do  regime  prisional  semiaberto  aos  reincidentes  condenados  a  pena  igual  ou  inferior  a  quatro  anos  se  favoráveis  as  circunstâncias  judiciais.
+6.  No  caso,  o  paciente  faz  jus  ao  regime  inicial  semiaberto,  nos  termos  do  art.  33,  §  2º,  alínea  "b",  e  §  3º,  do  Código  Penal,  pois,  estabelecida  a  reprimenda  em  patamar  inferior  a  4  anos  de  reclusão  e  favoráveis  as  circunstâncias  judiciais,  tanto  que  a  pena-base  foi  aplicada  no  mínimo  legal,  revela-se  desproporcional  a  fixação  do  regime  fechado  apenas  em  razão  da  reincidência  do  acusado.  Precedentes.
+7.  Habeas  corpus  concedido  de  ofício  apenas  para  estabelecer  o  regime  semiaberto  para  o  início  do  cumprimento  da  pena.
+(HC  400.446/SP,  Rel.  Ministro  REYNALDO  SOARES  DA  FONSECA,  QUINTA  TURMA,  julgado  em  08/08/2017,  DJe  22/8/2017;  grifei.)
+Ante  o  exposto,  acolhendo  o  parecer  ministerial,  não  conheço  do  presente  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
