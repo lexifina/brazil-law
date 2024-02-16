@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por PISCINAS QUATROCENTOS SERVICO DE MANUTENCAO DE PISCINAS LTDA, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu o recurso especial com base nos seguintes fundamentos (i) incidência da Súmula 7/STJ quanto à alegação de nulidade da Certidão de Dívida Ativa-CDA; e (ii) na impossibilidade de análise, nesta via recursal, de dispositivos constitucionais. No mais, o recurso teve seu seguimento negado à luz do Tema 199 desta Corte.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois, no caso, a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, notadamente quanto à incidência da Súmula 7/STJ e à impossibilidade de se analisar, nesta via recursal, dispositivos da Constituição Federal.
+Relativamente à alegação de necessidade de reapreciação do conjunto fático-probatório dos autos, a jurisprudência desta Corte Superior de Justiça entende que "para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 2.410.763/MT, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 3/10/2023, DJe de 6/10/2023), o que não se verifica no caso.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
