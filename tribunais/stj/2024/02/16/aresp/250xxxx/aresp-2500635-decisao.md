@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IBIPORA NEGÓCIOS IMOBILIÁRIOS S.A. (IBIPORA) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.011/1.016).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, IBIPORA alegou, a par de divergência jurisprudencial, a violação dos arts. 1.022, II, do CPC; 7º, parágrafo único, 12, § 3º, I, e 25, § 1º, do CDC; 286 do CC; e 32 e 49 da Lei nº 6.766/79. Sustentou, em síntese, (1) omissão do acórdão recorrido acerca da necessidade de distinção, sob o ponto de vista técnico-jurídico, entre cessão de crédito e cessão do contrato/empreendimento; e (2) sua ilegitimidade passiva, uma vez que a cessão de créditos celebrada com a corré, PARQUES DO VALE GLEBA B LAGOA SILVANA LOTEAMENTO E EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (PARQUES DO VALE), não implicou em sub-rogação dos negócios de compra e venda de imóveis como um todo, razão pela qual a obrigação envolvendo a execução da obra e a conclusão do loteamento permaneceu exclusivamente com a empresa cedente.
+(1) Da violação do art. 1.022, II, do CPC
+De início, IBIPORA indicou omissão do acórdão recorrido acerca da necessidade de distinção, sob o ponto de vista técnico-jurídico, entre cessão de crédito e cessão do contrato/empreendimento.
+Sem razão, contudo.
+Sobre o tema, ao julgar o recurso de apelação interposto pela ora insurgente, o TJMG assim se pronunciou:
+Como visto a ré, ora apelante, Ibiporã Negócios Imobiliários S.A., atual denominação de PDV Loteamento e Empreendimentos Imobiliários S.A., sustentou sua ilegitimidade para a ação sob os argumentos de que a primeira seria, tão somente, cessionária do crédito do contrato ora discutido e a segunda simples gestora dos fundos originários do empreendimento, não possuindo, qualquer uma delas, obrigações diretas com a parte autora ou relativamente à obra em si.
+ ..
+No caso, verifica-se dos autos e foi admitido pela própria apelante, que os pagamentos do contrato são feitos a ré Ibiporã, depreende-se que as provas dos autos demonstram que a ré PDV adquiriu direitos creditórios da ré Parques do Vale, e a ré MASB é a responsável pelo recebimento das prestações dos imóveis vendidos.
+Nesse contexto, como bem observado na sentença, todas as empresas em comento, em certa medida, seja de maneira originária ou superveniente, integram a relação jurídica em questão, possuindo liame concreto com a parte autora, pois atuam em aspectos relevantes e sensíveis do negócio, estando a ela atrelada.
+As rés integram uma cadeia complexa de divisão de competências, inerentes ao contrato firmado com a parte autora e, assim, consoante imperativo cogente do CDC, respondem objetivamente perante o consumidor, podendo, em caso de procedência do pedido, em ação regressiva, discutir a responsabilidade de cada um nessa cadeia. Assim, em face do consumidor, respondem de maneira solidária e independentemente de culpa.
+Dessa forma, a apelante não figura como mera terceira que presta serviço à contratada originária, pois, como destacado, estabeleceu-se um vínculo direto com o consumidor tornando-se, portanto, responsável pelos serviços contratados, já que passou a integrar sua cadeia (e-STJ, fls. 667/669).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do CPC, o que busca IBIPORA é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, portanto, a aponta ofensa à lei processual.
+(2) Da ilegitimidade passiva
+Por sua vez, IBIPORA sustentou que não detém legitimidade para integrar o polo passivo da demanda, uma vez que a cessão de créditos celebrada com a corré, PARQUES DO VALE, não implicou em sub-rogação dos negócios de compra e venda de imóveis como um todo, razão pela qual a obrigação envolvendo a execução da obra e a conclusão do loteamento permaneceu exclusivamente com a empresa cedente.
+T odavia, verifica-se da leitura dos fundamentos transcritos no tópico anterior, que a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, no sentido de reconhecer a ilegitimidade passiva da ora recorrente, não prescindiria do exame dos termos da referida cessão de créditos, bem como de nova incursão no acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas nºs 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DISTRATO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E RESTITUIÇÃO DE VALORES. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RELAÇÃO DE CONSUMO. CESSÃO DE CRÉDITO. RESPONSABILIDADE SOLIDÁRIA DA CESSIONÁRIA CONFIGURADA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, as instâncias ordinárias entenderam que a parte agravante responde solidariamente com a construtora demandada pela restituição dos valores aos autores, tendo em vista que firmou com a construtora contrato de cessão de direitos creditórios e outras avenças, por meio do qual adquiriu os direitos de crédito vinculados ao contrato e foi a efetiva beneficiária dos valores quitados pelos compradores, como se verifica n os boletos e comprovantes de pagamento apresentados pelos autores.
+2. A modificação de tal entendimento, a fim de reconhecer a ilegitimidade passiva, demandaria o revolvimento do suporte fático- probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.778.998/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 13/6/2022, DJe de 29/6/2022.)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE, do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO EMPREENDIMENTO. (1) VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. (2) ALEGAÇÃO DE ILEGITIMIDADE PASSIVA PELA CESSÃO PARCIAL DE CRÉDITOS. INTERPRETAÇÃO DE CLÁUSULAS E REEXAME DE PROVAS. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
