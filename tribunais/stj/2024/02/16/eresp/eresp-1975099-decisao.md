@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por GEAP AUTO GESTÃO EM SAÚDE contra acórdão da Terceira Turma assim ementado (fl. 5.731) :
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE AÚDE. TEA. SESSÕES DE TERAPIAS MULTIDISCIPLINARES. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. NATUREZA EXEMPLIFICATIVA. LIMITAÇÃO DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer, visando a cobertura de sessões terapias multidisciplinares para tratamento de TEA.
+2. A natureza do rol da ANS é meramente exemplificativa, reputando, no particular, abusiva a recusa de cobertura de tratamento prescrito para doença coberta pelo plano de saúde
+3. Agravo interno não provido.
+A embargante indica divergência com o Recurso Especial n. 1.733.013/PR e aduz que, segundo o julgado, é inviável o entendimento de que o rol de procedimentos e eventos em saúde é meramente exemplificativo e de que a cobertura mínima, paradoxalmente, não tem limitações definidas. Conforme o julgado, esse raciocínio tem o condão de encarecer e padronizar os planos de saúde, obrigando-os, tacitamente, a fornecer qualquer tratamento prescrito, restringindo a livre concorrência e negando vigência aos dispositivos legais que estabelecem o plano referência de assistência à saúde.
+Com base nesse entendimento, requer o conhecimento e o provimento dos presentes embargos de divergência para que o STJ pacifique o entendimento acerca da taxatividade do rol da ANS.
+É o relatório. Decido.
+Os embargos não reúnem condições de admissibilidade.
+Com efeito, a tese defendida pela embargante parte do pressuposto de que, no presente feito, discute-se tão somente a questão da legalidade ou não do rol de procedimentos e eventos em saúde da ANS, como discutido e decidido no REsp n. 1.733.013/SP.
+Contudo, o presente feito traz outra hipótese, a saber, a de que o autor busca a cobertura de sessões de terapias multidisciplinares para tratamento do transtorno do espectro autista (TEA). E, em relação a tal tratamento, ambas as Turmas da Segunda Seção desta Corte são unânimes no entendimento de que é devida a cobertura sem limite de sessões, admitindo o que está previsto no rol da ANS, nos seguintes termos: "a) para o tratamento de autismo, não há mais limitação de sessões no Rol; b) as psicoterapias pelo método ABA estão contempladas no Rol, na sessão de psicoterapia; c) em relatório de recomendação da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde - Conitec, de novembro de 2021, elucida-se que é adequada a utilização do método da Análise do Comportamento Aplicada - ABA".
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A matéria referente ao art. 355, I, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial.
+2. Quanto ao tratamento multidisciplinar para autismo, reconheceu a Segunda Seção, no citado precedente, que é devida a cobertura, sem limite de sessões, admitindo-se que está previsto no rol da ANS, nos seguintes termos: "a) para o tratamento de autismo, não há mais limitação de sessões no Rol; b) as psicoterapias pelo método ABA estão contempladas no Rol, na sessão de psicoterapia; c) em relatório de recomendação da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde - Conitec, de novembro de 2021, elucida-se que é adequada a utilização do método da Análise do Comportamento Aplicada - ABA."
+3. A mera recusa de cobertura de procedimento ou tratamento baseada em dúvida razoável de interpretação de contrato não é apta, por si só, a causar danos morais indenizáveis, mormente ao se considerar a jurisprudência desta Corte no sentido de que o mero descumprimento contratual não gera dano moral. Precedentes.
+4. Agravo interno desprovido. (AgInt no REsp n. 2.003.013/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Daí a presença de fator impeditivo do trânsito dos presentes embargos: a incidência da Súmula n. 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal de firmou no mesmo sentido do acórdão embargado".
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
