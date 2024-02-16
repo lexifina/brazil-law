@@ -1,0 +1,8 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ILECIO ADEMAR SAUERESSIG, contra decisão proferida pelo Ministro OG FERNANDES, que determinou o sobrestamento do presente recurso, tendo em que vista que matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos que cuida do Tema n. 1.005/STJ com afetação da seguinte questão: "Definição acerca da incidência, ou não, da Súmula 111/STJ, ou mesmo quanto à necessidade de seu cancelamento, após a vigência do CPC/2015 (art. 85), no que tange à fixação de honorários advocatícios nas ações previdenciárias."), de relatoria do Ministro Sérgio Kukina, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC/2015."
+A parte embargante sustenta, em síntese, que não busca nova interpretação da Súmula n. 111/STJ, mas que a controvérsia cinge-se quanto ao termo final da verba honorária, considerando que o reconhecimento do direito ocorreu no julgamento pelo Tribunal de origem. Em outras palavras, a parte embargante busca a aplicação da referida súmula, observada a peculiaridade fática do caso.
+Na hipótese, assiste razão ao embargante que pretende a reforma do acórdão para que se estabeleça que a base de cálculo dos honorários de sucumbência deve ser composta por todas as parcelas vencidas até a decisão que concedeu a aposentadoria especial pretendida, que, no caso concreto, foi o acórdão que julgou a apelação interposta pelo segurado.
+Isso posto, ACOLHO os embargos de declaração para tornar sem efeito a decisão de sobrestamento do feito.
+Após, retornem os autos conclusos para análise do Recurso Especial de fls. 840-853 e-STJ.
+Intimem-se.
+EMENTA
