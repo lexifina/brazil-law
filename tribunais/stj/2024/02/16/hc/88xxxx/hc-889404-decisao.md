@@ -1,0 +1,13 @@
+DECISÃO
+Os pacientes alegam sofrer coação ilegal em face de acórdão do Tribunal a quo (HC n. 2286210-36.2023.8.26.0000).
+Pedro Carlos foi denunciado por incursão no art. 121, § 2º, III, IV e VI, e § 2º-A, II, do CP, e Joana, por praticar a conduta prevista no art. 349,do CP.
+A defesa busca o trancamento do exercício da ação penal, em razão de imputação penal deficiente (segundo a acusação, a ação e o resultado ocorreram em 12/6/2022, enquanto o laudo necroscópico aponta que a vítima faleceu na madrugada do dia 17/6/2022) e falta de prova da autoria delitiva, pois "todas as testemunhas são pliciais" e nenhuma delas afirma "ser o paciente o autor do delito" (fl. 13). Aduz que o decreto prisional é genérico e não fundamentado.
+Decido.
+Quanto ao pedido de revogação da prisão preventiva, o habeas corpus não pode ser conhecido, em razão de ser reiteração do HC n. 830.342/SP.
+A ação penal não está lastreada em testemunho de ouvir dizer, mas em evidências colhidas durante o inquérito e, no HC n. 830.341/SP, constou que é incabível o enfrentamento de alegações defensivas "visando afastar os indícios da autoria e materialidade na via estreita do recurso em habeas corpus, ante a necessária incursão probatória, que deverá ser realizada pelo Juízo competente para a instrução e julgamento da causa" (AgRg no HC n. 720.903/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+No mais, o pleito de trancamento da persecução penal deixou de deliberado pelo Tribunal de Justiça, justificadamente, uma vez que o Juiz natural da causa não havia analisado a questão, em primeira instância.
+O "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 0/0/2021).
+Ainda, não diviso a possibilidade de concessão da ordem, de ofício. O direito de ação não está vinculado à certeza da narrativa da acusatória. A um primeiro olhar, a denúncia seguiu o disposto no art. 41 do CPP, sendo possível compreender a imputação, o arcabouço indiciário e a qualificação dos acusados. O direito ao contraditório garantirá à defesa a oportunidade (e os meios) para confrontar a data estimada do óbito e os elementos que apontam o réu como suspeito do crime. A data da morte é ponto de referência para elucidar o ilícito , mas que não afasta a sua materialidade.
+À vista do exposto, indefiro liminarmente o conhecimento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
