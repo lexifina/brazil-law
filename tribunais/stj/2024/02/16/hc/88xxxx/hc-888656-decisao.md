@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SANDRO CAVALCANTE contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo Interno Criminal no HC n. 2351232-41.2023.8.26.0000/50000.
+Consta dos autos que o Paciente foi condenado, em primeiro grau de jurisdição, à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, no regime inicial fechado, mais 11 (onze) dias-multa, como incurso no art. 155, § 4.º, inciso IV, do Código Penal. Na oportunidade, foi negado o recurso em liberdade (fls. 45-54).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual, o qual não foi conhecido em decisão unipessoal do Desembargador Relator (fls. 7-10), mantida pelo Órgão colegiado (fls. 13-16).
+Daí o presente mandamus, em que se alega, de início, que o Paciente faz jus ao indulto previsto no Decreto n. 11.846/2023, "eis que o crime cometido foi sem violência ou grave ameaça, não havendo impedimento" (fl. 4).
+Sustenta-se, também, a inidoneidade dos fundamentos lançados para a manutenção da prisão preventiva do Réu, porquanto "não oferece nenhum risco à instrução criminal que, inclusive, se encerrou" (ibidem). Argumenta-se, para tanto, que o Juízo de primeiro grau não consignou "fundamentação concreta a respeito da possibilidade de recorrer em liberdade" (fl. 5).
+Requer-se, liminarmente e no mérito, seja concedido o indulto natalino ou, subsidiariamente, a revogação da prisão preventiva do Paciente, ainda que lhe sejam fixadas medidas cautelares diversas.
+É o relatório. Decido.
+Na espécie, o Tribunal estadual não conheceu do writ originário à base da seguinte motivação (fls. 8-10):
+"A priori, observa-se que a pretensão do impetrante para que seja concedido indulto ao paciente é matéria pertencente ao âmbito da Execução Penal, de modo que eventuais inconformismos devem ser suscitados via recurso de agravo em execução, não se prestando o habeas corpus como substitutivo de recurso próprio.
+Não bastasse a inadequação desta via para o que se pretende, como bem destacado pelo I. Desembargador Plantonista, o pleito do impetrante sequer havia sido analisado pelo juízo de origem, portanto sua apreciação, neste writ, configuraria supressão de instância por parte deste E. Tribunal de Justiça.
+A jurisprudência do Supremo Tribunal é firme no sentido da impossibilidade de atuação jurisdicional quando a decisão impugnada no habeas corpus não tenha cuidado da matéria objeto do pedido apresentado na nova ação, sob pena de indevida supressão de instância (STF HC n. 219.484/PB. Min. Rel. Carmén Lúcia. Julgado em 05/10/2022. Publicado em 11/10/2022).
+E nem se cogite alegar se tratar de hipótese passível de concessão de habeas corpus de ofício, já que, de chofre, não há patente configuração de teratologia ou ilegalidade.
+O paciente foi preso em flagrante em 05/09/2023 e condenado a uma pena de 02 anos e 04 meses de reclusão.
+Das hipóteses previstas no art. 2º do Decreto n. 11.846/23,que estabelece a quem será concedido o indulto, o paciente se enquadraria, em tese, em três delas:
+ ..
+A res furtiva trata-se de um veículo automotor, portanto inviável a aplicação do inciso XVI.
+De acordo com a sentença (fls. 327/336 dos autos de origem), a vítima declarou que o veículo estava com o vidro traseiro quebrado, cortaram o chicote do farol e estouraram o painel para fazer ligação direta, logo, não havendo reparação do dano, inaplicável, também, o inciso XV.
+Portanto, o paciente só se enquadraria no inciso I do dispositivo supramencionado.
+O impetrante questiona o reconhecimento da reincidência do paciente.
+Porém, ainda que o paciente não fosse reincidente, ele deveria ter cumprido 1/4 da pena (equivalente a 07 meses) até 25/12/2023, o que não ocorreu no caso em tela.
+Considerando como termo inicial de cumprimento a data da prisão em flagrante (05/09/2023), o paciente terá cumprido 07 meses de sua pena somente em 05/04/2024, não sendo elegível, portanto, ao indulto.
+Por fim, quanto à prisão preventiva do paciente, ela já teve sua legalidade analisada e confirmada, por esta C. Câmara, recentemente, no julgamento conjunto dos habeas corpus n. 2239878-11.2023.8.26.0000 e 2253360-26.2023.8.26.0000.
+ ..
+Dessa forma, ainda que sob nova roupagem, o que aqui se pretende também é a revogação da prisão preventiva do paciente, sem que tenha havido, contudo, mudança no panorama já analisado no julgamento da primeira ordem ocorrido há apenas 03 meses, razão pela qual não resta alternativa senão o não conhecimento do writ."
+Como se vê, quanto ao pleito de indulto fundado no Decreto n. 11.846/2023, o Tribunal estadual não conheceu da matéria, pois não fora previamente analisada pelo Juízo de primeiro grau, tendo, ainda, afastado patente ilegalidade apta à concessão da ordem de habeas corpus, de ofício, diante do valor do bem subtraído, ausência de reparação do dano e não cumprimento de 1/4 (um quarto) da pena imposta. Em relação à prisão preventiva, a Corte de origem não conheceu da questão, por se tratar de reiteração de pleito anteriormente formulado e apreciado no "julgamento conjunto dos habeas corpus n. 2239878-11.2023.8.26.0000 e 2253360-26.2023.8.26.0000". As razões da presente impetração, todavia, não impugnam especificamente esses fundamentos do acórdão. Dessa forma, as alegações deste writ estão dissociadas do acórdão combatido, o que, igualmente, obsta a análise do constrangimento alegado.
+Ressalto, ademais, que não foi juntada aos autos a cópia dos acórdãos proferidos nos HC n. 2239878-11.2023.8.26.0000 e n. 2253360-26.2023.8.26.0000 julgados pelo Tribunal de Justiça do Estado de São Paulo.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. FURTO QUALIFICADO. 1) PLEITO DE INDULTO PREVISTO NO DECRETO N. 11.846/2023. MATÉRIA NÃO CONHECIDA PELO TRIBUNAL ESTADUAL, PORQUANTO NÃO APRECIADA PREVIAMENTE PELO JUÍZO DE PRIMEIRO GRAU. NÃO VERIFICADA ILEGALIDADE PATENTE. 2) PRISÃO PREVENTIVA. ACÓRDÃO IMPUGNADO QUE NÃO EXAMINOU AS QUESTÕES ORA DEDUZIDAS, EM RAZÃO DA REITERAÇÃO DE PLEITO. RAZÕES DA IMPETRAÇÃO DISSOCIADAS DO ATO APONTADO COMO COATOR. WRIT LIMINARMENTE INDEFERIDO.
