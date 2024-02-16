@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por DTT CONSTRUCOES S.A., TENORIO INCORPORACOES E EMPREENDIMENTOS S / A, TENORIO EMPREENDIMENTOS IMOBILIARIOS S/A, GC EMPREENDIMENTOS IMOBILIARIOS S.A., GC TENORIO EMPREENDIMENTOS IMOBILIARIOS LTDA, DELTA PARTICIPACOES & EMPREENDIMENTOS LTDA, C.P.P. COMERCIO E EMPREENDIMENTOS S/A, CPP - COMPANHIA PAULISTA DE PARTICIPACOES contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. EXCLUSÃO DAS EMPRESAS AUTORAS DO POLO PASSIVO DO FEITO EXECUTIVO. HONORÁRIOSADVOCATÍCIOS EM DESFAVOR DA EXEQUENTE. PROVEITO ECONÔMICO OBTIDO INESTIMÁVEL. APRECIAÇÃO EQUITATIVA (ART. 85, § 8º, DO CPC). RAZOABILIDADE E PROPORCIONALIDADE. OMISSÕES. INOCORRÊNCIA.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea " " do permissivo constitucional, o recorrente sustenta violação aos artigos 489 e 1.022 do CPC/2015; e 85, §§ 2º, 3º, 4º, III e 5º, do CPC/2015.
+Preliminarmente, aduz que o acórdão de origem foi omisso na análise de questões relevantes para a conclusão da controvérsia.
+No mérito, defende que o caso não se subsume à hipótese de fixação da verba honorária com base na equidade, devendo prevalecer o critério objetivo da lei processual (85, §3º, CPC/2015).
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 1075/1076.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+É o relatório. Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do recurso especial.
+Consta do v. acórdão de origem:
+Sanando o vício, o caso é de aplicação da disposição do § 8º do art. 85 do CPC, porquanto inestimável o proveito econômico obtido pelas empresas, a ensejar o arbitramento de honorários advocatícios por apreciação equitativa. Assim, arbitro o valor de R$ 20.000,00 (vinte mil reais) a título de honorários advocatícios, o que respeita os princípios da razoabilidade e da proporcionalidade, assim como os critérios estabelecidos no § 2º do art. 85 do CPC, em consonância com o trabalho desenvolvido pelo causídico (considerando especialmente a complexidade da causa, com exame de questões fáticas, a quantidade de empresas envolvidas e o tempo exigido para o serviço). Vale consignar que o caso dos autos não se confunde com o decidido pelo STJ no Tema 1.076, porque, aqui, entendeu-se que o proveito econômico obtido é inestimável, diferente do que foi decidido no recurso repetitivo, aplicável para os casos de valor da causa ou proveito econômico elevados. Ante o exposto, acolho parcialmente os embargos de declaração, para arbitrar honorários advocatícios com fulcro no art. 85, §§ 2º e 8º, do CPC, no importe de R$ 20.000,00 (vinte mil reais).
+A despeito do que constou do acórdão recorrido, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação:
+a) acórdão recorrido se omitiu quando deixou de verificar que, em face da natureza solidária da responsabilidade tributária imputada às primeiras Recorrentes, o reconhecimento da ilegitimidade passiva proporcionou-lhes proveito econômico líquido, certo e equivalente ao montante atualizado dos créditos executados, pois as Recorrentes deixaram de responder pelo valor dessa dívida com seus patrimônios;
+b) não há distinção entre o caso concreto e a moldura fática abrangida pelo alcance do Tema 1.076 do STJ, porque uma das causas-piloto originárias do precedente vinculante versava exatamente sobre o afastamento de responsabilidade tributária, tal qual se verifica no caso concreto; e
+c) ainda que hipoteticamente se entendesse que não haveria proveito econômico mensurável em favor das Recorrentes, os honorários de sucumbência deveriam ter sido arbitrados tomando por base o valor atualizado da causa, como prescreve expressamente § 4º do art. 85 do CPC.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o recurso especial, a fim de anular o aresto proferido em sede de embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
