@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência da demonstração da ofensa aos dispositivos legais e incidência da Súmula n. 7 do STJ (e-STJ fls. 207/208).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 153):
+Agravo de instrumento. Recurso interposto contra a r. decisão que rejeitou a impugnação à penhora online. Cumprimento de sentença para cobrança de honorários sucumbenciais. Penhora (online) em dinheiro que prefere a do caminhão oferecido pela agravante (art. 835 do CPC/15), bem de menor liquidez e gravado com alienação fiduciária, não estando a agravada obrigada a aceitar substituição que lhe seja prejudicial (art. 847 do CPC/15), preponderando a efetividade da execução de verba alimentar(honorários advocatícios) sobre a menor onerosidade invocada pela devedora (art. 805 do CPC/15). Inexistem, ainda, indícios concretos, a cargo da agravante, de que o bloqueio de ativos financeiros impediria o prosseguimento de sua atividade empresarial. Tese recursal genérica e que não ultrapassou o campo da mera assertiva. Impenhorabilidade do art. 833, inciso IV, do CPC/15 restrita à verba salarial/alimentar já paga aos funcionários, que não aproveita à empregadora agravante. Precedentes. Rejeitada a pretensão recursal da agravante, fica prejudicada a preliminar de falta de interesse recursal, por supressão de instância, suscitada na contraminuta da agravada. Decisão mantida. Agravo de instrumento desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 163/168).
+Nas razões do recurso especial (e-STJ fls. 171/189), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 805 e 847 do CPC/2015, porque (e-STJ fls. 179/181):
+ ..  em razão da especialidade da norma que não foi corretamente aplicada, negando o direito do executado em ter constrito o bem que lhe representar menor onerosidade.
+ ..  Ademais, é indubitável que a Recorrente, que figura como executada nos autos do processo combatido, não tenta se furtar da execução, mas sim, demonstra toda a sua boa-fé, oferecendo bem que lhe represente menor onerosidade, a fim de que pudesse arcar com as despesas (quais sejam, o custeio da folha de pagamento dos empregados) que permitem a continuidade de sua atividade empresarial.
+IV.1.6 Se assim não o fosse, ciente quanto ao eminente Cumprimento de Sentença da condenação em honorários de sucumbência, não teria permitido permeasse em sua conta bancária, valores tão altos.
+ ..  Concomitante a isto, a Recorrente cuidou de apresentar bem de inquestionável liquidez, dotado de valor comercial SUPERIOR ao valor objeto de penhora, configurando os requisitos expostos no artigo 847 do CPC, destacando-se a apresentação de bem que representasse menor onerosidade à executada, como também, não viesse a representar prejuízo ao exequente.
+(ii) art. 835 do CPC/2015, pois (e-STJ fl. 183):
+ ..  apenas discrimina uma ordem PREFERENCIAL de penhora, e não obrigatória, ou seja, independentemente de ser o objeto da execução, crédito de natureza alimentar, porquanto fruto de condenação em honorários advocatícios sucumbenciais, nada obsta ao Judiciário que, de forma CONCOMITANTE ao princípio e disposição legal da menor onerosidade ao devedor, confira-lhe a oportunidade de ser executado pela subtração de outro bem que não o pecuniário, preferindo, portanto, o bem indicado com fulcro no inciso IV  ..
+(iii) art. 833 do CPC/2015, tendo em vista a (e-STJ fls. 185/187):
+ ..  não apreciação dos documentos colacionados ao Agravo, que eram dotados do condão de comprovar que o valor penhorado destinava-se a cobrir verbas de natureza alimentar, qual seja o custeio de folha de pagamento dos empregados da Recorrente.
+ ..  por mais que a pecúnia ainda não tivesse sido efetivamente transferida para as contas bancárias dos empregados, a contabilidade da empresa já havia EFETIVAMENTE destinado aquela verba para tal finalidade, momento em que fora dotada do caráter de IMPENHORABILIDADE.
+No agravo (e-STJ fls. 211/218), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 221/226 (e-STJ).
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fl. 155):
+Com efeito, a penhora (online) em dinheiro prefere a do caminhão oferecido pela agravante (art. 835 do CPC/15), bem de menor liquidez e gravado com alienação fiduciária (fls. 147 do instrumento), não estando a agravada obrigada a aceitar substituição que lhe seja prejudicial (art. 847 do CPC/15), preponderando a efetividade da execução de verba alimentar (honorários advocatícios) sobre a menor onerosidade invocada pela devedora (art. 805 do CPC/15).
+Não bastasse isto, inexistem indícios concretos, a cargo da agravante, de que o bloqueio de ativos financeiros impediria o prosseguimento de sua atividade empresarial, emergindo genérica a tese recursal, que não ultrapassou o campo da mera assertiva.
+Quanto à penhora, nos termos da jurisprudência do STJ, o princípio da menor onerosidade não é absoluto, devendo ser observado em consonância com o princípio da efetividade da execução, preservando-se o interesse do credor.
+Dessa forma, estabelecido na origem que não há prova do prejuízo às atividades na efetivação da penhora, o acolhimento da pretensão recursal demandaria análise de matéria fática, vedada em recurso e special. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRINCÍPIO DA MENOR ONEROSIDADE DO DEVEDOR. NECESSIDADE DE OBSERVÂNCIA À EFETIVIDADE DA EXECUÇÃO. ACÓRDÃO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. PEDIDO DE SUBSTITUIÇÃO DE PENHORA. DESCABIMENTO. CONCLUSÃO ESTADUAL FUNDADA EM FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido encontra-se em perfeita consonância com a jurisprudência desta Corte no sentido de que "o princípio da menor onerosidade não é absoluto, devendo ser observado em consonância com o princípio da efetividade da execução, preservando-se o interesse do credor" (AgInt no REsp n. 1.596.683/MT, relator Ministro Antonio Carlos Ferreira, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2023, DJe de 15/6/2023).
+2. Não há como desconstituir o entendimento delineado no acórdão impugnado (a substituição não seria mais adequada para o adimplemento do crédito executado), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.358.690/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA DE DINHEIRO. PRINCÍPIOS DA MENOR ONEROSIDADE E DA EFETIVIDADE DA EXECUÇÃO. INUTILIDADE/INEFICÁCIA DA PENHORA. IMPENHORABILIDADE DO VALOR BLOQUEADO. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O princípio da menor onerosidade não é absoluto, devendo ser observado em consonância com o princípio da efetividade da execução, preservando-se o interesse da parte credora. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.020.462/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Quanto à impenhorabilidade, o Tribunal de origem complementou nos aclaratórios (e-STJ fls. 166/167):
+Concluiu-se, igualmente, pela penhorabilidade do valor em poder da empregadora, ainda que destinado ao pagamento da folha salarial, ausente prova concreta, a cargo da embargante, da genérica alegação de essencialidade ao prosseguimento da atividade empresarial, que não ultrapassou o campo da mera assertiva.
+Modificar o entendimento do acórdão impugnado quanto à prova da essencialidade dos valores para pagamento dos salários, nesta hipótese, também demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PENHORA ELETRÔNICA (ON-LINE). SISTEMA BACENJUD. PESSOA JURÍDICA. VERBA BLOQUEADA. NATUREZA ALIMENTAR. COMPROVAÇÃO. AUSÊNCIA. REVISÃO. REEXAME FÁTICO. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão do tribunal local, que entendeu pela penhorabilidade do dinheiro depositado em conta-corrente, porque não comprovado que os valores ali constantes seriam destinados ao pagamento dos salários dos funcionários e essenciais à atividade empresarial, esbarra no óbice da Súmula nº 7/ STJ.
+3 . Agravo interno não provido.
+(AgInt no AREsp n. 1.815.315/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/5/2022, DJe de 25/5/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
