@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa a reajuste por faixa etária e por sinistralidade.
+O Tribunal de origem negou provimento ao recurso de apelação da ora recorrente nos termos da seguinte ementa (fl. 1.369):
+PLANO DE SAÚDE. REAJUSTES POR FAIXA ETÁRIA E POR SINISTRALIDADE. Insurgência do plano de saúde contra a sentença de parcial procedência. Manutenção. Reajustes que, por si, não são abusivos. Necessidade apenas de comprovação pela operadora, o que não ocorreu. Correta substituição desses reajustes pelos índices da ANS no período em discussão. Precedentes. Condenação das rés à devolução dos valores pagos indevidamente, observando-se a prescrição trienal.
+Rejeitados os embargos de declaração opostos (fls. 1.380-1.382).
+No presente recurso especial, a recorrente alega ofensa aos arts. 421 do Código Civil, 20 da LINDB e 4º da Lei n. 9.661/2000, ao defender a ocorrência, no caso, de violação da liberdade contratual exercida entre as partes e a improcedência do entendimento da Corte a quo de que o reajuste financeiro/sinistralidade aplicado sobre as mensalidades do plano de saúde é abusivo porquanto possui caráter técnico e deve ser respeitada a discricionariedade técnica da agência reguladora que, fiscalizando constantemente os reajustes aplicados pela recorrente, jamais apontou alguma irregularidade.
+Apresentadas as contrarrazões (fls. 1.720-1.729), sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 1.731-1.732).
+É, no essencial, o relatório.
+Não comporta conhecimento o recurso especial.
+Com efeito, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender pela ausência de justificativa para o reajuste aplicado, a ensejar a abusividade do referido reajuste, no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 1.370-1.372):
+Os reajustes por sinistralidade dos planos de saúde coletivos não estão vinculados aos índices da ANS, na medida em que, nesse caso, ela somente faz o acompanhamento dos preços praticados no mercado (art. 7º RN 99/2005 da ANS e arts. 19 e 22 RN 195/2009da ANS).
+Entretanto, justamente pelo fato de os reajustes nos contratos coletivos não obedecerem aos limites estabelecidos pela ANS, mas serem decorrentes da negociação entre os contratantes, além de a fórmula do reajuste dever estar no contrato de maneira clara (art. 17-A, § 2º, II e § 3º da Lei 9.656/98), a operadora tem ônus de demonstrar o acerto dos aumentos aplicados perante os beneficiários(art. 6, VIII, CDC; art. 373, II, CPC; e art. 9º, Resolução ANS309/2012).
+Assim, se não houver demonstração da regularidade dos reajustes, não se mostra suficiente a mera comunicação formal da fornecedora.
+No caso, essa demonstração não ocorreu por parte da operadora apelante, destacando-se que nem sequer apresentou os documentos necessários para a realização da perícia:"(i) Não foram apresentados os demonstrativos de cálculos dos reajustes aplicados no plano.(ii) Não foram apresentadas as bases atuariais para os reajustes aplicados no plano contratado pela requerente. (iii) Inúmeros documentos solicitados no termo de diligência permanecem ausentes nos autos do processo, prejudicando o laudo" (fls. 1174).
+Assim sendo, mesmo sendo coletivo, diante da ausência de comprovação técnica dos reajustes, é o caso de determinara substituição dos percentuais no período discutido na demanda (antes da alteração da forma do custeio) pelos índices correspondentes da ANS para os contratos individuais.
+Com esse entendimento:
+(..)
+Reconhecida a abusividade dos reajustes, deve a ré ser condenada à devolução simples dos valores pagos a mais pela autora, observando-se a prescrição trienal.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incidem no caso as Súmulas n. 5 e 7 do STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. OMISSÃO. AUSÊNCIA. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE. ELEMENTOS QUE EMBASAM O AUMENTO. AUSÊNCIA DE DEMONSTRAÇÃO. REEXAME. SÚMULAS 5 E 7/STJ.
+1. Não há negativa de prestação jurisdicional quando as questões fundamentais ao deslinde da controvérsia foram apreciadas de forma coerente e fundamentada pelo Tribunal estadual, não consubstanciando violação do art. 1.022 do CPC a tomada de posição contrária ao interesse da parte.
+2. "A jurisprudência desta Corte se firmou no sentido de ser lícita a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado" (AgInt no AREsp n. 2.224.210/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023).
+3. Alterar o decidido no acórdão impugnado, no que se refere à ausência de justificativa para o reajuste por sinistralidade, exige o reexame de fatos e provas, bem como a análise do contrato firmado entre as partes, o que é vedado em recurso especial pelas Súmulas n. 5 e 7 do STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 1.978.699/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Ante o exposto, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
