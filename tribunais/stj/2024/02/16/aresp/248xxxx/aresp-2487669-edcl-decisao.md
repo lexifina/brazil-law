@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ASSOCIACAO DE PROPRIETARIOS E MORADORES RESIDENCIAL TERRAS DI SIENA à decisão de fls. 234/235, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que a Embargante foi intimada da decisão agravada e m 07/06/23, tendo sido protocolado o agravo interposto em 29/06/23. N o entanto, no dia 08/06/2023 foi ponto facultativo no Distrito Federal, pois trata-se da data em que é celebrado Corpus Christi, conforme publicado no Diário Oficial do Distrito Federal através do Decreto Nº 44.145, de 19/01/23.
+Não obstante, em São Paulo, a celebração de Corpus Christi foi ratificada para o dia 08/06/23 através do Decreto Nº 62.140 de 30/12/22, em completo a Lei 9.093/95 e Lei Municipal de Nº 14.485 de 19/07/2007.
+O cerne da questão é quanto a uníssona abrangência nacional da celebração de Corpus Christi em todos dos Estados da Federação.
+O Brasil é composto por 26 Estados e um Distrito Federal, a celebração de Corpus Christi é realizada em todos os estados da federação e definido como dia não útil, com a diferença de que em alguns estados é considerada feriado, em outros, é considerada ponto facultativo.
+ ..
+Fica evidente que nacionalmente existe uma condição uníssona de não considerar a data de celebração do Corpus Christi como um dia útil, pois em todos os estados da federação o dia 08/06/23 foi considerado feriado ou ponto facultativo.
+ ..
+Portanto, é desnec essária a comprovação documental do feriado de Corpus Christi, pois frisa-se, o mesmo possui força de Feriado Nacional por equiparação de sua aplicabilidade, prescindindo assim, de comprovação documental (fls. 240/243).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Registre-se que feriado nacional não precisa ser comprovado. Porém, o dia 8/6/2023 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Ressalte-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 10.607/2002 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro. Como se percebe, o dia de Corpus Christi (Corpo de Cristo) não está previsto em nosso ordenamento jurídico no âmbito nacional. Nesse sentido: AgInt no AREsp 1867014/AM, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/08/2021; AgInt nos EDcl no REsp 1792664/RJ, relator Ministro Luis Felipe Salmão, Quarta Turma, DJe de 01/07/2021.
+Outrossim, "a existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp 1641985/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/08/2021, DJe 18/08/2021.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
