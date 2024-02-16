@@ -1,0 +1,24 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança contra ato de autoridade fazendária estadual referente a débitos tributários de ITCD. Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 11.314,20 (Onze mil, trezentos e catorze reais e vinte centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. IMPOSTOS. ITCD. DECADÊNCIA. INOCORRÊNCIA.
+O ITCD, NA HIPÓTESE DE DOAÇÃO COM RESERVA DE USUFRUTO, SÓ ÉEXIGÍVEL A PARTIR DO PRIMEIRO DIA DO EXERCÍCIO SEGUINTE AO DO CANCELAMENTO DO USUFRUTO NO REGISTRO DE IMÓVEIS.
+LOGO, DIANTE DA AUSÊNCIA DE INFORMAÇÃO QUANTO À AVERBAÇÃO, INVIÁVEL RECONHECER A DECADÊNCIA DO DIREITO DE LANÇAMENTO DO TRIBUTO PELO FISCO ESTADUAL.
+APELAÇÃO DESPROVIDA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Registro, ainda, que a questão encontra amparo na tese firmada por esse Tribunal de Justiça, quando do julgamento do Incidente de Assunção de Competência nº 70071019244, nosentido de que: "sendo o usufruto direito real sobre coisa alheia, no caso de extinção por morte, o prazo para a Fazenda Pública constituir o crédito deve ser contado a partir do primeiro dia do exercício seguinte ao registro do cancelamento do usufruto no ofício imobiliário." Segue a ementa do julgado:
+(..)
+O art. 2º da Lei Estadual n. 8.821/1989 prevê que "o imposto (ITCD) tem como fato gerador a transmissão causa mortis e a doação a qualquer título.
+(..)
+Registro, ainda, que o fato gerador do tributo ora questionado somente ocorre com a averbação da extinção do usufruto no registro imobiliário - ou seja, eventual informação encaminhada à Secretaria da Fazenda Pública quanto ao pedido de cancelamento do registro não substitui a efetiva averbação.
+No caso, a impetrante não provou sequer ter averbado a extinção do usufruto nos Registro de Imóveis, visto que não acostou as matrículas atualizadas dos imóveis objeto do litígio.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Por outro lado, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
