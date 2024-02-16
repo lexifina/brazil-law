@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANTENOR SOUSA CAMPOS, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/TO.
+Recurso especial interposto em: 10/10/2023.
+Concluso ao Gabinete em: 07/02/2024.
+Ação: declaratória de inexistência de relação jurídica cumulada com repetição de indébito e compensação de danos morais, ajuizada pelo recorrente, em desfavor de BANCO BRADESCO CARTÕES S.A, em virtude da realização de descontos indevidos - relativos a serviços não contratados - em seu benefício previdenciário.
+Sentença: julgou procedentes os pedidos para: a) declarar a nulidade das cobranças de tarifa bancária que possuam a rubrica de "GASTO COM CARTÃO DE CRÉDITO"; b) condenar a instituição bancária ao pagamento de indenização por danos morais no importe de R$ 3.000,00 (três mil reais); e c) condenar a instituição bancária à restituição em dobro das tarifas indevidamente debitadas.
+Acórdão: deu provimento à apelação interposta pelo recorrido para reduzir o quantum compensatório para R$ 1.000,00 (mil reais); e deu parcial provimento à apelação interposta pelo recorrente para majorar os honorários advocatícios para o percentual de 15% (quinze por cento) do valor da condenação. O acórdão foi assim ementado:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA E INDENIZAÇÃO POR DANOS MORAIS E DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. GASTOS COM CARTÃO DE CRÉDITO. AUSÊNCIA DE DOCUMENTAÇÃO COMPROBATÓRIA DA REGULARIDADE DA CONTRATAÇÃO. RESTITUIÇÃO EM DOBRO. DANOS MORAIS CONFIGURADOS. MINORAÇÃO DO QUANTUM. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+1. Na hipótese em tela, verifica-se que os descontos impugnados se deram em relação a serviço não contratado, eis que o requerido acionado não comprovou sua contratação, sequer demonstrou a ocorrência de fraude, razão pela qual os decréscimos se deram sem qualquer justificativa plausível.
+2 . Sendo assim, deve haver a devolução em dobro dos valores descontados indevidamente do benefício previdenciário da parte demandante, na forma da jurisprudência do STJ e art. 42, do Código de Defesa do Consumidor, haja vista que não houve demonstração de engano justificável que sustente a boa-fé dos descontos havidos em sua aposentadoria.
+3. A ausência de comprovação da contratação de serviço, de modo a autorizar o desconto em conta corrente de correntista, gera o dever de a instituição financeira indenizá-lo por danos morais decorrentes do ato ilícito praticado, sobretudo quando o correntista é idoso, aposentado e percebe benefício previdenciário no valor de 1 (um) salário-mínimo, o qual é destinado ao seu sustento e de sua família.
+4. Diante da condição socioeconômica dos envolvidos, do bem jurídico ofendido, grau e extensão da lesão imaterial, desgaste do autor e culpa do requerido, mostra-se razoável e proporcional a redução da verba indenizatória a título de danos morais para R$ 1.000,00 (mil reais), importância comumente aplicada por esta Corte de Justiça no julgamento de casos análogos.
+5 . Com relação à atualização da verba indenizatória a título de danos morais, deverá incidir correção monetária pelo INPC, desde o arbitramento (súmula 362/STJ) e juros de mora de 1% a.m. desde o primeiro desconto - evento danoso - (súmula 54/STJ), por se tratar de responsabilidade extracontratual.
+6. Compulsando as mencionadas diretrizes do § 2º, do art. 85, do CPC, notadamente o lugar da prestação dos serviços, a natureza, importância e complexidade da matéria versada, assim como o grau de zelo do profissional e tempo exigido, traduz-se necessária a majoração do percentual de 15% do valor da condenação.
+7. Recurso do Bradesco conhecido e provido para reduzir o valor da indenização por danos morais para R$ 1.000,00. Recurso da parte autora conhecido e parcialmente provido para majorar os honorários advocatícios ao patamar de 15% do valor da condenação (e-STJ fls. 388-389).
+Recurso especial: aponta a violação dos arts. 5º, LV, da CF; e 186 e 944 do CC. Afirma que o TJ/TO considerou como verdadeiras as alegações da instituição bancária sem considerar as teses de defesa do idoso. Pugna pela majoração do valor fixado a título de danos morais, por considerá-lo irrisório.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do pedido de revisão do valor da compensação por danos morais
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem em desfavor do recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO DE DANOS MORAIS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. DANOS MORAIS. ALTERAÇÃO DO VALOR FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação declaratória de inexistência de relação jurídica cumulada com repetição de indébito e compensação de danos morais, em virtude da realização de descontos indevidos em benefício previdenciário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+4. Recurso especial não conhecido.
