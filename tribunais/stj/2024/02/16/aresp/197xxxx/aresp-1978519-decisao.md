@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da ofensa aos dispositivos legais e incidência da Súmula n. 7 do STJ (e-STJ fls. 242/244).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 187):
+EMBARGOS À EXECUÇÃO. Título executivo extrajudicial. Artigo10,parágrafo 6º, da Lei de Consórcio. Reajuste conforme a tabela do fabricante do veículo. Ausência de apresentação. Aplicação subsidiária do IPCA. Honorários advocatícios fixados conforme o artigo 85, parágrafo 2º, do Código de Processo Civil. Sentença mantida. Recurso não provido.
+Nas razões do recurso especial (e-STJ fls. 206/224), interposto com fundamento no art. 105, III, "a", da CF, a parte alega violação:
+(i) do art. 24 da Lei n. 11.795/2008 (e-STJ fls. 218/220):
+ ..  diferente do que constou da sentença proferida e foi mantido no acórdão recorrido, o valor do crédito foi menor não pela falta de correção dos valores, mas sim porque foi utilizada parte do crédito para quitação do contrato como demonstrado.
+Assim, quanto aos valores pagos, diferente do que afirma o Recorrido, o crédito foi pago nos estritos termos do que resta contratualmente previsto, inexistindo qualquer irregularidade na conduta da Recorrente.
+ ..  o acórdão proferido, afronta diretamente o artigo de lei acima transcrito, já que faz incidir a atualização monetária no valor devido a título de carta de crédito de forma diversa do que restou contratado entre as partes.
+ ..  Como devidamente demonstrado, no contrato a atualização se dá pela variação do preço do bem, de acordo com a tabela do fabricante e não pelo IPCA.
+(ii) do art. 85, § 2º, do CPC/2015, pois (e-STJ fl. 223);
+ ..  a sentença proferida fixou a título de honorários sucumbenciais, 15% sobre o valor atualizado da causa.
+Ocorre que, referido valor, perfaz o montante aproximado de R$ 19.051,50 (dezenove mil e cinquenta e um reais e cinquenta centavos), o que torna a condenação desproporcional e desarrazoada.
+Conforme dispõe o artigo 85, § 2º, do Código de Processo Civil, verifica-se que o valor de honorários a ser fixado deverá obedecer o critério da equidade
+No agravo (e-STJ fls. 247/255), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 257/268 (e-STJ).
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 189/191 - grifei ):
+Quanto ao índice de correção aplicável, nota-se que, no contrato de consórcio, consta da cláusula de critério para definição do preço do bem será:
+"a)Veículos Automotores Preferencialmente, a tabela de preço publicada pela Fipe (Fundação Instituto de Pesquisa e Estatística) e, na falta desta, a ADMINISTRADORA adotará outra tabela constante de publicação especializadas idôneas, possibilitando, assim, a correção dos valores do bem objeto básico do plano e o acompanhamento pelo consorciado;
+b) Veículos Automotores TABELA DO FABRICANTE quando o plano de consórcio for específico e exclusivo de um fabricante".
+Afirma a apelante na inicial:
+"A atualização será realizada de acordo com a tabela do fabricante, assim, o reajuste da carta de crédito acompanha a variação do preço do bem, além disso, o grupo do autor possui uma característica diferenciada, pois se trata de consórcio específico do bem da Marca Mercedes.
+Logo, nos termos do regulamento firmado entre as partes a correção deve ser aplicada nos moldes da tabela do fabricante.
+Ocorre, porém, que o fabricante não encaminhou qualquer tabela a Embracon, razão pela qual de fato não houve atualização da carta de crédito "
+Diante do não envio da tabela pelo fabricante, é de rigor a aplicação da cláusula acima transcrita, em seu item "a", ou seja, "a ADMINISTRADORA adotará outra tabela constante de publicação especializadas idôneas, possibilitando, assim, a correção dos valores do bem objeto básico do plano e o acompanhamento pelo consorciado".
+Dissentir das conclusões do acórdão impugnado quanto à atualização monetária implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Quanto aos honorários, assim foi decidido (e-STJ fl. 191):
+No tocante aos honorários advocatícios arbitrados, cabe aqui observar que foram fixados dentro dos limites estabelecidos pelo artigo 85, parágrafo 2º, do Novo Código de Processo Civil.
+A respeito da fixação dos honorários sucumbenciais com o advento do CPC, o Superior Tribunal de Justiça, ao analisar o Tema n. 1.076, submetido à sistemática dos recursos especiais repetitivos, consolidou entendimento a respeito dos critérios a serem seguidos. Na oportunidade, também debateu a possibilidade de fixação de honorários advocatícios com fundamento no juízo de equidade.
+Ao final do julgamento, a Corte Especial fixou critérios objetivos para o arbitramento dos honorários de sucumbência, de acordo com a ordem de preferência estabelecida no § 2º do art. 85 do CPC, a saber: 1º) nas causas em que houver condenação, esse é o critério a ser utilizado pelo magistrado, observando o percentual entre 10% e 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, sendo ele inestimável ou irrisório, a verba sucumbencial deve ser fixada de acordo com o valor da causa.
+Ainda nessa linha:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a.II) nas de valor inestimável; (a.III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a.IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b.II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido.
+(REsp 1.746.072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019.)
+No caso em apreço, o Tribunal de origem manteve a sentença que arbitrou os honorários advocatícios em percentual sobre o valor da causa, nos termos do art. 85, § 2º, do CPC/2015, estando, portanto, em sintonia com a jurisprudência desta Corte.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
