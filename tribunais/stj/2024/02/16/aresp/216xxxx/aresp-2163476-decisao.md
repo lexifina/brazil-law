@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 535/538).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 494):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. Ação de obrigação de fazer. Empréstimo bancário. Pedido de limitação dos descontos ao patamar de 30% dos proventos. Comprometimento da subsistência básica. Necessidade de limitar os descontos em percentual capaz de preservar os princípios do mínimo existencial e da dignidade da pessoa humana. Limitação dos descontos das parcelas dos empréstimos contratados ao valor equivalente a 30% do salário. Súmulas 200 e 295 do TJRJ. Precedentes jurisprudenciais do STJ e desta Corte. Decisão mantida. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 499/519), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos:
+(i) arts. 7º, X, da CF, e 833, IV, do CPC, "já que os referidos dispositivos visam a proteção do salário do trabalhador contra qualquer atitude de penhora, retenção, ou qualquer outra conduta de restrição praticada pelos credores, salvo no caso de prestações alimentícias" (e-STJ fl. 504), de modo que seria devida a "restituição de todos os valores descontados mensalmente de sua conta corrente, desde Agosto/2018, superiores ao equivalente a 30% (trinta por cento) do seu benefício de aposentadoria por idade" (e-STJ fl. 514 - grifo no recurso),
+(ii) art. 14 do CDC, sob o argumento de que deveria ser reconhecido "o dever de indenizar, visto que o cenário ultrapassou os limites do mero dissabor" (e-STJ fl. 516), e
+(iii) art. 85, § 2º, do CPC, pois "há de ser levado em consideração, que o valor dado à causa pela Recorrente não se trata de valor muito baixo, tampouco irrisório. Portanto, imperioso que seja aplicado o art. 85, parágrafo 2º,do Código de Processo Civil, a fim de serem fixados os honorários advocatícios entre o mínimo de dez e o máximo de 20 por cento sobre o valor atualizado da causa" (e-STJ fl. 517 - grifo no recurso).
+No agravo (e-STJ fls. 549/561), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 565/569 (e-STJ).
+É o relatório.
+Decido.
+Inicialmente, quanto ao art. 7º, X, da CF, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No que tange à insurgência contra os descontos em conta-corrente, não assiste razão à parte, pois, segundo o Tema Repetitivo n. 1.085/STJ:
+São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento (grifei).
+Os descontos, portanto, são válidos e nem sequer estariam sujeitos à limitação de 30% imposta pelo Tribunal de origem, a qual entretanto é mantida, para evitar a reformatio in pejus, ante a ausência de recurso por parte da instituição financeira.
+Concluindo-se pela licitude dos descontos, nos termos do repetitivo, ficam prejudicados os pedidos de restituição dos valores descontados e de indenização por dano moral.
+Quanto à apontada violação do art. 85, § 2º, do CPC/2015, com razão a recorrente.
+A Corte Especial do STJ limitou a possibilidade de arbitramento dos honorários por equidade, fixando as seguintes teses no julgamento do Tema Repetitivo n. 1.076/STJ:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, h avendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso, o recorrido não foi condenado ao pagamento de quantia certa, motivo pelo qual o valor da condenação não pode ser utilizado como base de cálculo dos honorários.
+Passando ao critério seguinte, observe-se que a mutuária demandante não obteve proveito econômico com a demanda, pois o valor da dívida não foi alterado, apenas a forma de cobrança foi modificada, sem interromper a fluência dos encargos contratuais. O proveito econômico, portanto, também não serve como base de cálculo dos honorários.
+Passando ao critério subsequente, o valor da causa foi apontado na inicial em R$ 53.543,76 (cinquenta e três mil, quinhentos e quarenta e três reais e setenta e seis centavos - e-STJ fl. 19). Não se tratando de valor irrisório ou muito baixo, este deve ser utilizado como base de cálculo dos honorários, sendo descabido, portanto, o arbitramento por equidade, nos termos do repetitivo.
+Acrescente-se que a demanda não versa sobre interesses cujo valor econômico é inestimável, a exemplo das ações de estado.
+A Corte local, portanto, ao arbitrar honorários por equidade (e-STJ fl. 415), preteriu o critério do valor da causa.
+É necessário, portanto, reformar o acórdão recorrido nesse ponto, arbitrando-se os honorários advocatícios em 10% sobre o valor atualizado da causa.
+Ante o exposto, CONHEÇO do agravo e CONHEÇO EM PARTE do recurso especial para, nessa parte, DAR-LHE PARCIAL PROVIMENTO, a fim de arbitrar os honorários advocatícios de sucumbência no percentual de 10% sobre o valor atualizado da causa.
+Publique-se e intimem-se.
+ EMENTA
