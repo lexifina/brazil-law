@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar inteposto por SILVESTER FERREIRA PRATES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 1.0000.23.002995-1/000).
+Depreende-se dos autos que o recorrente encontra-se preso preventivamente e foi denunciado pela prática, em tese, dos crimes de tráfico de drogas, resistência, lesão corporal e posse irregular de arma de fogo de uso permitido, capitulados, respectivamente, nos arts. 33, caput, da Lei n. 11.343/2006; 329 e 129, § 12, ambos do Código Penal; e 12 da Lei n. 10.826/2003 (e-STJ fls. 62/63).
+Consoante a denúncia, "no interior do imóvel havia uma casa que estava com as janelas abertas e foi possível verificar que no local funcionava uma "refinaria" de drogas. Sendo assim, diante da evidência da situação de flagrante, a porta do imóvel foi aberta e no seu interior foram apreendidas as porções de droga descritas acima, em grande quantidade, além RS 7.635,00 (sete mil e seiscentos e trinta e cinco reais) em dinheiro; 01 aparelho de telefonia celular marca Samsung; três cadernos contendo anotações típicas de tráfico de drogas; um quilo de embalagens plásticas vazias e quatrocentos e oitenta pinos plásticos vazios, utilizados para embalo e comercialização das porções de drogas; seis balanças de precisão, utilizadas para pesagem das drogas; além de insumos para preparo dos entorpecentes, sendo quatro garrafas contendo éter e três porções de pó branco ainda não identificado, uma de 11,15kg (onze quilos e quinze centigramas), outra de 0,4g (quatro decigramas) e outra de 0,2g (dois decigramas). No interior do imóvel também foi apreendida uma espingarda calibre 22 e um cartucho do mesmo calibre" (e-STJ fl. 63).
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada, em acórdão assim ementado (e-STJ fl. 83):
+1-) "Habeas Corpus" impetrado em faee (le decisão que converteu a prisão em flagrante do paciente em prisão preventiva. Tráfico ilícito de entorpecentes.
+2-) Não há violação de domicílio. Havia fundadas suspeitas e crime em andamento. No caso dos autos, os policiais conseguiram visualizar pela janela que no interior do imóvel havia drogas, localizaram grande quantidade de entorpecentes, além de balanças de precisão e insumos para drogas, bem como, uma espingarda "calibre 22".
+3-) A prisão preventiva constitui medida excepcional ao princípio da presunção da inocência e, por essa razão, deve ser decretada por decisão fundamentada, que demonstre a existência de prova da materialidade e indícios suficientes de autoria, bem como, no mínimo, de um dos pressupostos do art. 312, do Código de Processo Penal.
+4-) A r. decisão impugnada apresenta-se suficientemente motivada, pois ressaltou a necessidade da manutenção do encarceramento preventivo do paciente com base nas graves circunstâncias do caso concreto e nas suas condições pessoais, as quais revelaram a existência de risco concreto à ordem pública.
+5-) Medidas cautelares alternativas (CPP, art. 319) que se revelam inadequadas e insuficientes, in casu.
+6-) Ordem denegada.
+Daí o presente recurso ordinário em habeas corpus, no qual a defesa sustenta a nulidade das provas, uma vez que decorrentes de ingresso forçado no domicílio, desprovido de fundadas razões ou de mandado judicial.
+Alega, ainda, a ausência de fundamentação idônea do decreto prisional, pois ancorada na gravidade abstrata dos delitos.
+Requer, liminarmente, que o recorrente aguarde em liberdade o julgamento definitivo deste recurso. No mérito, pede a revogação da prisão preventiva do recorrente, sem prejuízo da imposição de medidas cautelares diversas da prisão (e-STJ fls. 98/126).
+Liminar indeferida (e-STJ fls. 150/152).
+Informações prestadas (e-STJ fls. 155/162 e 164/166).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 183/187).
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça do Estado de São Paulo, verifica-se que foi julgado procedente o pedido contido na denúncia, sendo o recorrente condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 680 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006; bem como à sanção de 2 anos, 5 meses e 25 dias de detenção, em regime semiaberto, mais 12 dias-multa, pelas condutas previstas nos arts. 12 da Lei 10.826/2003; 129, § 12, por duas vezes, e 329, ambos do Código Penal.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, que decorre, agora, de novo título, a ser submetido a pronunciamento pelo Tribunal de origem.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte Superior, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
