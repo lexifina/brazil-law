@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que negou seguimento ao recurso especial em razão do julgamento de recursos especiais repetitivos sobre o Tema n. 882 e inadmitiu o recurso especial porque não demonstrada a ofensa ao art. 1.026, § 2º, do CPC (e-STJ fls. 284/288).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 160):
+Apelação Cível.
+Ação de cobrança - Contribuição e taxa de associado - Sentença de improcedência - Recurso de apelação interposto pela autora - Cobrança que se mostra indevida em face de proprietário de imóvel que não seja associado, conforme entendimento do Egrégio Supremo Tribunal Federal e Superior Tribunal de Justiça - Observância ao princípio constitucional de que ninguém pode ser obrigado a se associar a qualquer entidade - Entendimento recente do Superior Tribunal de Justiça, em sede de recurso repetitivo (REsp. nº 1.280.871-SP e REsp. nº 1.439.163-SP), no sentido de que "as taxas de manutenção criadas por associação de moradores não obrigam os não associados ou os que a elas não anuíram" - Hipótese dos autos, contudo, em que restou caracterizada situação excepcional capaz de ensejar a cobrança - Ré que efetuou o pagamento de taxas de manutenção diferentes daquelas cobradas pela autora, o que demonstra intenção de aderir à associação - Pagamento devido, porém apenas das taxas vencidas até a data da intimação para manifestação sobre a contestação, quando a autora comprovadamente tomou ciência do intento da ré de não mais participar do rateio das despesas de manutenção do loteamento - Recurso provido em parte.
+Dá-se provimento em parte ao recurso.
+Os primeiros embargos de declaração foram acolhidos, sem efeito modificativo (e-STJ fls. 183/189). Novos embargos de declaração foram rejeitados, com imposição de multa (e-STJ fls. 196/199).
+Nas razões do recurso especial (e-STJ fls. 204/219), interposto com fundamento no art. 105, III, "a" , da CF, a parte apontou contrariedade aos arts. 1.022, 1.025 e 1.026, § 2º, do CPC e 53, 54, III, 59, II e parágrafo único, do CC. Alegou ser contraditório o acórdão recorrido quanto à redução da multa moratória para 2%. Asseverou que os segundos embargos de declaração não foram opostos com intuito protelatório, mas com o objetivo de sanar o aresto recorrido.
+Assim, requereu o provimento do recurso, para a reforma do acórdão recorrido.
+No agravo (e-STJ fls. 294/296), afirma a presença dos requisitos de admissibilidade do especial, para afastar a multa do art. 1.026, § 2º, do CPC.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+Atendidos os requisitos de admissibilidade, especialmente a dialeticidade recursal, conheço do agravo.
+A controvérsia está restrita à aplicação da multa do art. 1.026, § 2º, do CPC, promovida pelo TJSP no julgamento dos embargos de declaração.
+O Tribunal de origem rejeitou os embargos de declaração opostos pela parte ora recorrente, assentando que (e-STJ fls. 198/199):
+Limita-se a embargante a defender a correção da alíquota da multa moratória prevista em seus estatutos e reduzida pelo acórdão embargado. Ora, tal matéria é o cerne do recurso julgado, que concluiu pela aplicação de alíquota reduzida conforme precedentes do Egrégio Superior Tribunal de Justiça e desta Colenda Câmara. Meramente impugna a embargante o mérito do julgamento, sem apontar contradição intrínseca, em nítido mau uso do recurso de embargos de declaração.
+Seu proceder não deve ser aceito como razoável, por ser típica conduta que sobrecarrega o Judiciário e atrapalha o julgamento com celeridade, exigível da função por tal poder desempenhada. As partes e seus advogados são também responsáveis pelo bom andamento da Justiça.
+Dessa forma, nada resta a apreciar, impondo-se o reconhecimento do uso protelatório do recurso, o que leva à aplicação de multa de 1% do valor atualizado da causa, na forma do disposto no parágrafo 2º do artigo 1.026 do novo Código de Processo Civil  ..
+Com razão a parte recorrente. Os primeiros aclaratórios foram acolhidos, apesar de mantido o resultado da demanda, e os segundos aclaratórios opostos tinham o objetivo de sanar contradição que a parte entendia existente, esgotar instância e prequestionar matéria. Em tais condições, não se configura a oposição de embargos protelatórios, devendo ser afastada a multa. Nesse sentido: REsp n. 1.866.440/AL, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 2.000.528/MG, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/5/2022, DJe de 6/5/2022.
+Dessa forma, em razão do descompasso entre o entendimento firmado pela Corte de origem e a orientação jurisprudencial deste Tribunal, é de rigor o acolhimento da pretensão recurs al.
+Ante o exposto, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial e afastar a multa aplicada nos embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
