@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONAN DOMICIANO DE ALMEIDA contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, proferida nos autos do habeas corpus n. 2010974-28.2024.8.26.0000.
+Consta dos autos que, diante do aparente cometimento do crime de extorsão contra a sua mãe, e de indícios de contumácia delitiva consistentes na suposta reiteração dessa conduta, a qual havia resultado em medidas protetivas de urgência em evento anterior, o ora paciente teve decretada a prisão preventiva.
+Nesta oportunidade, a defesa afirma que "não há que se falar que a quantia de drogas apreendida é indicativo seguro de traficância", que "o paciente é, no máximo, usuário de droga" e que "o crime supostamente praticado pelo paciente não se caracteriza pela violência ou grave ameaça" (e-STJ fls. 12, 14 e 16).
+Diante disso, em liminar e no mérito, pede que o cárcere seja relaxado.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na instância de origem: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso destes autos, há patente dissociação entre os fundamentos do ato apontado como coator e os argumentos apresentados na impetração, na medida em que a medida cautelar extrema foi imposta nestes autos em função do crime de extorsão, ao passo que a defesa discorre sobre o crime de tráfico de drogas ilícitas.
+De todo modo, convém registrar a ausência de teratologia que excepcionalmente poderia viabilizar o exame da matéria, na medida em que tanto o juízo de primeira instância quanto o relator do feito no segundo grau de jurisdição registraram a violência do crime aparentemente perpetrado pelo ora paciente, contra a sua própria mãe, bem como indícios de contumácia delitiva, assim se justificando a custódia processual, não havendo falar em teratologia ou manifesta insuficiência da fundamentação relativa ao fumus comissi delicti ou ao periculum libertatis, não sendo o caso de superação da Súmula n. 691 do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
