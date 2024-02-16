@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JAIR APARECIDO METTA à decisão de fls. 1610/1611, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Ocorre, "data vênia", que referida decisão ficou omissa quanto a quais pontos teria deixado o Embargante de impugnar, o que é de suma importância tal informação até para que seja oportunizado a parte a analisar, por menor, a possibilidade ou não de manejo de recurso de Agravo Interno/Regimental capaz de dar azo a reforma da referida decisão, possibilitando a análise de mérito do Recurso Especial dirigido a esta C. Corte Superior.
+Embora referida decisão tenha alegado atração da súmula 284 do STF, entendemos que ela deixou de externar quais seriam, especificadamente, os fundamentos que a parte deixou de impugnar, pois entende o Embargante, que se manifestou sobre todas as matérias levantadas através da decisão que inadmitiu o Recurso Especial pelo tribunal "a quo", contrariando assim, diametralmente a decisão que não conheceu do Agravo em Recurso Especial (fl. 1618).
+Além de ter demonstrado de forma cabal que a decisão do Tribunal do Júri foi totalmente contrária à prova dos autos, exclusivamente no tocante a qualificadora de motivo torpe, cuja impugnação ficou clara, bem como impugnou o excesso de linguagem perpetrado pelo tribunal de origem ao apreciar o recurso de apelação, o que motiva pelo seguimento do Recurso Especial neste E. Corte Superior.
+Por outro lado, omisso ainda na decisão proferida análise vertical do caso ora apresentado, onde é possível, inclusive ordem de "habeas corpus" de ofício, pois verificado a presença de irregularidades evidentes, que devem ser corrigidas de forma automática por este Tribunal Superior, conforme estabelecido no art. 654, § 2.º, do Código de Processo Penal, sem depender da aceitação de recursos ou solicitações da defesa, segundo o seguinte arresto: (fls. 1618/1619).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Observe também que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Assim, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
