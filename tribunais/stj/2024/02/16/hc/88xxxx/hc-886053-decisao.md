@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROSIVAN TAVARES DA SILVA JUNIOR contra decisão de Desembargador do Tribunal de Justiça do Estado de Goiás, que indeferiu o pedido liminar formulado no HC n. 5048883-84.2024.8.09.0175.
+Consta dos autos que, em 11/01/2019, quando do recebimento da denúncia e após requerimento ministerial, foi decretada a prisão preventiva do ora Paciente (fls. 44-54). Em 15/02/2023, foi proferida sentença, condenando o Paciente como incurso no art. 2º, § 2.º, da Lei n. 12.850/2013, às penas de 04 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, e 14 (catorze) dias-multa, negado o direito a recorrer em liberdade (fls. 198-267).
+Consta, ainda, que o mandado de prisão preventiva foi cumprido em 20/01/2024, conforme se extrai da ata da audiência de custódia (fls. 268-270).
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, tendo o pedido liminar indeferido pelo Desembargador Relator (fls. 273-275).
+Neste writ, sustenta, em síntese, a incompatibilidade da prisão preventiva com o regime semiaberto de cumprimento de pena, imposto ao Paciente em sentença condenatória.
+Aduz ser possível a superação da Súmula n. 691/STF no caso.
+Indica que o Paciente possui condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+Preliminarmente à apreciação do pedido liminar, o Vice-Presidente desta Corte, no exercício da Presidência, solicitou informações atualizadas ao Juízo de primeiro grau (fls. 278-279).
+Informações prestadas às fls. 285-296.
+À fl. 298, foi determinada a distribuição do feito ao Ministro Relator.
+É o relatório. Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça. (HC 541.515/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020; AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 1º/07/2019, v.g.).
+Assim, em regra, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade, por forçar o pronunciamento adiantado da Instância Superior, suprimir a competência da Inferior e subverter a regular ordem do processo.
+Na espécie, todavia, não é possível ultrapassar tal vedação, sobretudo diante do que consignou o Desembargador Relator do habeas corpus originário ao indeferir o pedido liminar formulado, in verbis (fl. 275; sem grifos no original):
+"No caso em apreço, nos limites da cognição in limine, a análise perfunctória das razões expostas pela impetrante, confrontadas com a documentação jungida aos autos, não permite a conclusão imediata da presença do fumus boni iuris, porquanto não há indícios suficientes do pretenso quadro de ilegalidade do constrangimento de que estaria sendo vítima o paciente, não restando demonstrada, prima facie, a coação ilegal capaz de ensejar o deferimento da medida de urgência.
+Demais disso, pela natureza das questões abordadas na presente ação mandamental, temerária a concessão liminar da ordem, em face da unilateralidade da prova produzida, sendo que, para o deferimento da medida, a boa prudência recomenda que os requisitos sejam valorados, também, com base nas informações que a autoridade indigitada coatora vier a prestar."
+Ademais, no decreto prisional, o Juízo de primeiro grau salientou que o feito apura a atuação da facção criminosa Primeiro Comando da Capital (PCC), envolvendo 63 (sessenta e três) denunciados, sendo a custódia cautelar necessária para a garantia da ordem pública (fls. 44-54).
+Nesse sentido: "se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, 5ª T., DJe 5/10/2016).
+Doutra parte, cumpre registrar que "não há incompatibilidade entre a manutenção da segregação provisória e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime" (AgRg no RHC n. 178.998/MG, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 29/05/2023, DJe 05/06/2023).
+Ressalto, por fim, que a suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre, in casu. Exemplificativamente:
+"PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE DE ENTORPECENTE APREENDIDO. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.
+ ..
+3. Condições subjetivas favoráveis do recorrente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+4. Recurso desprovido." (RHC 90.306/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018.)
+Não há, assim, teratologia a ser corrigida. A matéria, como se vê, depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiro à Corte impetrada a análise, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da instância a qu o, mormente porque o writ, ao que parece, está sendo regularmente
+processado.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS MANEJADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFER IDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
