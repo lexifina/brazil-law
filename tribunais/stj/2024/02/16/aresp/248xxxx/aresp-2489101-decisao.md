@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 319):
+APELAÇÃO ACIDENTE DE TRÂNSITO - AÇÃO INDENIZATÓRIA - COLISÃO DE VEÍCULO E BICICLETA - CULPA EXCLUSIVA DA VÍTIMA IMPROCEDÊNCIA - RECURSO DO AUTOR - Contexto probatório dos autos que não evidencia qualquer atitude negligente, imprudente ou imperita por parte do requerido Indícios, todavia, que apontam que o autor não se atentou para a sinalização semafórica, prosseguindo seu percurso mesmo diante do sinal vermelho - Culpa exclusiva da vítima caracterizada - Ausente o dever de indenizar - Sentença mantida - Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 333/337).
+Nas razões do recurso especial (e-STJ fls. 339/349), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, II, § 1º, IV, e 1.022, I e II, do CPC/2015, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão "em relação a responsabilidade do recorrido por ter evadido do local sem prestar assistência/socorro ao autor e esclarecimentos as autoridades violando os artigos 28, 29, 303, 304, 305 do CTB" (e-STJ fl. 343). Além disso, afirmar que o acórdão teria sido omisso também quanto a prova pericial e que "é um direito do recorrente nos termos do art. 369 do CPC, direito esse que foi violado ao ser indeferido a prova pericial e ao ser omisso sobre a alegação de omissão" (e-STJ fl. 345),
+(ii) arts. 186 e 927 do CC/2002, por entender que "o acórdão violou e negou vigência aos referidos dispositivos ao deixar de condenar o recorrido ao pagamento de indenização por danos morais, haja vista que por ato ilícito, culpa, negligência do recorrido o recorrente foi atropelado, sofreu graves ferimentos além de todo abalo psicológico" (e-STJ fl. 345).
+Em suma, são estes os pedidos recursais (e-STJ fl. 349):
+Por todo o exposto, requer-se que Vossas Excelências, Nobres Ministros, CONHEÇAM E DEEM PROVIMENTO AO PRESENTE RECURSO ESPECIAL, de modo que O V. ACÓRDÃO RECORRIDO, SEJA REFORMADO, adequando o caso ao entendimento cristalizado na legislação federal vigente, conforme denunciado no presente especial, de modo que sejam, por via de consequência, dado provimento ao recurso para reconhecer o dano moral e a obrigação de não fazer em face ao recorrido, nos termos da fundamentação, por ser de DIREITO E JUSTIÇA.
+Não sendo esse entendimento, requer seja determinado o retorno dos autos ao Tribunal de origem para análise das provas posto estar configurada omissão e contradição em relação aos fatos e questões relevantes do processo.
+No agravo (e-STJ fls. 356/367), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 368).
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da agravante. Assim, não incorreu em omissão, contradição ou obscuridade. Desse modo, quanto à alegada afronta aos arts. 489 e 1.022 do CPC/2015, não assiste razão à parte recorrente
+Conforme consta na fundamentação dos embargos de declaração (e-STJ fl. 335/336):
+Contudo, em que pesem os argumentos do embargante, todas as questões postas à apreciação foram fundamentadamente analisadas, de acordo com a prova dos autos e a legislação pertinente, registrando-se que:
+"Nenhum dos elementos probatórios colacionados aos autos demonstra que o acidente tivesse ocorrido por culpa do requerido (aliás, da própria narrativa inicial não se extrai qual seria a conduta negligente, imprudente ou imperita que o autor estaria atribuindo ao réu, que menciona tais conceitos de forma genérica).
+A despeito do alegado, portanto, não existem indícios contundentes de que o requerido tivesse realizado a manobra de forma imprudente, pelo contrário, ao que consta, ele aguardava a sinalização semafórica e somente iniciou a manobra após o sinal verde.
+No entanto, ao que tudo indica, o autor não observou a indicação luminosa do semáforo, ou seja, prosseguiu sua trajetória quando o sinal estava vermelho para os veículos que estavam na pista de rolamento da Avenida Brigadeiro Luiz Antônio, direção bairro.
+Não é demais ressaltar, ainda, que não há indícios de que a bicicleta estivesse munida dos acessórios obrigatórios (artigo 105, VI, do Código de Trânsito Brasileiro), notadamente quanto à sinalização noturna.
+Conclui-se, destarte, que estando a prova dos autos firme no sentido de que o autor realizou manobra imprudente (ao não observar a sinalização semafórica), não há como atribuir à parte ré qualquer responsabilidade, estando, de fato, caracterizada a culpa exclusiva da vítima." (fls. 322).
+O fato de a Corte estadual ter deixado de acolher a tese apresentada pela recorrente, de que o conhecimento dos embargos ensejaria necessariamente a procedência do recurso, não configura omissão ou contradição, pois o julgado abordou todas as questões necessárias à integral solução da controvérsia.
+A Justiça local, diante das circunstâncias analisadas, afastou a condenação tendo em vista que "estando a prova dos autos firme no sentido de que o autor realizou manobra imprudente (ao não observar a sinalização semafórica), não há como atribuir à parte ré qualquer responsabilidade, estando, de fato, caracterizada a culpa exclusiva da vítima" assentando ainda que (e-STJ fl. 322):
+Durante a instrução processual, foi ouvida uma testemunha, dois informantes (genitores do autor) e foi colhido depoimento pessoal do réu.
+Nenhum dos elementos probatórios colacionados aos autos demonstra que o acidente tivesse ocorrido por culpa do requerido (aliás, da própria narrativa inicial não se extrai qual seria a conduta negligente, imprudente ou imperita que o autor estaria atribuindo ao réu, que menciona tais conceitos de forma genérica).
+(..)
+No entanto, ao que tudo indica, o autor não observou a indicação luminosa do semáforo, ou seja, prosseguiu sua trajetória quando o sinal estava vermelho para os veículos que estavam na pista de rolamento da Avenida Brigadeiro Luiz Antônio, direção bairro.
+Para alterar tais fundamentos, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Deixo de majorar os honorários advocatícios (artigo 85, § 11, do CPC/2015) pela fixação anterior no patamar máximo permitido em lei.
+Publique-se e intimem-se.
+EMENTA
