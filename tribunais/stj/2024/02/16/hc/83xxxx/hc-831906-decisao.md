@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de MAURICIO FRANQUIS DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5300046-40.2023.8.09.0051).
+Depreende-se dos autos que o ora paciente foi preso em flagrante, pela prática do crime de tráfico de drogas, "porque apreendido com 03 (três) porções de cocaína, com massa bruta de 309,436g  ..  trezentos e nove gramas e quatrocentos e trinta e seis miligramas , sendo a custódia convertida em prisão preventiva  .. " (e-STJ fl. 34).
+A defesa impetrou habeas corpus perante a Corte de origem, a qual lhe denegou a ordem, em acórdão assim ementado (e-STJ fls. 41/42):
+HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. PRINCÍPIO DA HOMOGENEIDADE. NÃO CONHECIMENTO. NULIDADE DAS PROVAS. BUSCA PESSOAL. VIOLAÇÃO DE DOMICÍLIO. ATUAÇÃO JUDICIAL DE OFÍCIO. INOCORRÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO. APLICAÇÃO DA LEI. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. BONS PREDICADOS PESSOAIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES. SUBSTITUIÇÃO INVIÁVEL. PRINCÍPIO DA INOCÊNCIA. NÃO VIOLAÇÃO. 1) É inviável o exame da tese de negativa de autoria na via estreita do writ, por demandar dilação probatória. 2) É incomportável, em sede de habeas corpus, a análise em juízo prognóstico de possível pena e regime a serem aplicados em caso de hipotética condenação. 3) A busca pessoal e o ingresso de policiais no domicílio justifica, quando em análise preliminar, o contexto fático anterior sinalizar a ocorrência de crime e hipótese de flagrante delito na residência, como ocorreu no presente caso. 4) Havendo manifestação ministerial pela concessão de medidas cautelares diversas da prisão ao paciente, não há atuação de ofício na escolha judicial pela providência restritiva mais onerosa e consistente na prisão. Precedentes desta Casa e do Superior Tribunal de Justiça. 5) Não há constrangimento ilegal a ser reparado na prisão preventiva fundamentada de forma concreta e idônea, com suporte nos elementos dos autos e levando em conta a gravidade concreta da ação delitiva, bem como o risco de reiteração criminosa, sobretudo por ser o paciente reincidente. 6) A existência de bons predicados pessoais do paciente não elide a prisão válida. 7) Tendo sido reconhecida a presença do motivo autorizador da constrição cautelar, não há que se falar em substituição desta por qualquer das medidas cautelares diversas da prisão. 8) A medida extrema suficientemente fundamentada não viola o princípio da presunção de inocência. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+Daí o presente writ, no qual sustenta a defesa a nulidade da prisão em flagrante em razão da ocorrência de violação de domicílio.
+Acrescenta, ainda, ausência de fundamentos que justifiquem a custódia cautelar.
+Aponta que seria devida a fixação de medidas cautelares diversas da prisão.
+Diante dessas considerações, pede a revogação da prisão preventiva (e-STJ fls. 3/33).
+Liminar indeferida (e-STJ fls. 61/63).
+Informações prestadas (e-STJ fls. 69/78 e 123/166).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 179/182).
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça do Estado de Goiás, verifica-se que o Juízo da 5ª Vara Criminal dos Crimes Punidos com Reclusão e Detenção da Comarca de Goiânia condenou o paciente à pena de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, que decorre, agora, de novo título, a ser submetido a pronunciamento pelo Tribunal de origem.
+Ante o exposto, com base no art. 34, XX , do Regimento Interno desta Corte Superior, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
