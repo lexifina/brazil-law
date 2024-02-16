@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS EMPÍRICA OPORTUNA PRECATÓRIOS FEDERAIS contra acórdão prolatado, por unanimidade, pela 5ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Agravo de Instrumento, assim ementado (fl. 104e):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CESSÃO DE CRÉDITO. IMPOSSIBILIDADE. ART. 114 DA LEI 8.213/91.
+É nula de pleno direito a cessão de crédito previdenciário, conforme vedação expressa do art. 114 da Lei 8.213/91.
+Opostos embargos de declaração, foram rejeitados (fls. 156/161e).
+Com amparo no art. 105, III, c, da Constituição da República, alegando-se, em síntese, que " ..  o v. acórdão objeto do presente recurso, está em total dissonância com a jurisprudência já pacificada deste Colendo Superior Tribunal de Justiça, que prevê a possibilidade de cessão de crédito de natureza alimentar a terceiros, com base no artigo 100, § 13º e §14º, da Constituição Federal, introduzido no ordenamento jurídico pela EC nº 62/09, restando superada qualquer interpretação no sentido pela aplicabilidade da vedação à realização de cessão de créditos de natureza previdenciária prevista no artigo 114 da Lei nº 8213/91 estendendo-a aos precatórios judiciais" (fl. 184e).
+Sem contrarrazões, o recurso foi inadmitido (fls. 291/293e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 390e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+No presente caso, o recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+Sobre o tema, os s eguintes precedentes:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. SÓCIO. REDIRECIONAMENTO. EXISTÊNCIA DE CERTIDÃO DO OFICIAL DE JUSTIÇA ATESTANDO QUE A EMPRESA NÃO FUNCIONA NO LOCAL INDICADO. SUMULA 453/STJ. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "Para se chegar à conclusão diversa da firmada pelas instâncias ordinárias no tocante ao redirecionamento da execução fiscal em razão do descumprimento ao art. 135, III do CTN pelo sócio-gerente seria necessário o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial" (AgRg no Ag 1.341.069/PR, Primeira Turma, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15/9/11).
+2. "Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual deu solução à causa a Corte de origem" (AgRg no AREsp 346.367/SP, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 11/9/13) 3. Agravo regimental não provido.
+(AgRg no AREsp 424.727/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 06/02/2014 - destaque meu).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. FISCALIZAÇÃO MUNICIPAL DE TRÂNSITO. LEI 9.503/1997. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. A Corte de origem assentou sua decisão baseada na análise do conjunto fático-probatório dos autos, razão pela qual o acolhimento da pretensão recursal demanda novo exame das provas constantes dos autos, incidindo a Súmula 7/STJ.
+2. O alegado dissídio jurisprudencial restou prejudicado ante o óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.247.182/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/09/2013, DJe 30/09/2013 - destaque meu).
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. CONCESSÃO DE EFEITO SUSPENSIVO. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. ATO ÍMPROBO. ELEMENTO SUBJETIVO DOLO GENÉRICO. CARACTERIZADO. PRECEDENTES. SÚMULA 83/STJ. DOSIMETRIA DA PENA. ART. 12 DA LEI N. 8.429/92. RAZOABILIDADE E PROPORCIONALIDADE. ANÁLISE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+(..)
+7. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Agravo regimental improvido.
+(AgRg no AREsp 597.359/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/04/2015, DJe 22/04/2015 - destaque meu).
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. LABOR RURÍCOLA. RECONHECIMENTO. PROVA. REEXAME. SÚMULA 7/STJ. INCIDÊNCIA. DISSÍDIO NÃO CONFIGURADO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO AFASTADOS.
+1. Tendo o Tribunal de origem fixado compreensão no sentido de que o segurado não logrou comprovar o labor campesino nos lapsos temporais indicados, a reforma desse entendimento não pode ser lavada à cabo em sede de recurso especial, ante o óbice representado pela Súmula 7 do STJ.
+2. A caracterização do dissídio jurisprudencial demanda a realização do confronto analítico entre as conclusões do aresto impugnado e as teses acolhidas pelos julgados indicados como dissonantes, não se mostrando suficiente para tal a simples transcrição dos julgados tidos como divergentes. Precedentes.
+3. Além disso, impedido o trânsito do recurso especial em decorrência da orientação fixada pela Súmula 7/STJ, fica prejudicada a análise do dissídio jurisprudencial, ante a ausência de similitude fática entre o julgado recorrido e os acórdãos indicados como divergentes. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 611.941/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 14/04/2015, DJe 24/04/2015 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
