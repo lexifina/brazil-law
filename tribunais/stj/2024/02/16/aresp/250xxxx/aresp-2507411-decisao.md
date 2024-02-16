@@ -1,0 +1,14 @@
+DECISÃO
+235 Cuida-se de agravo interposto por ANDRE NASCIMENTO PIRES, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de adm issibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ANDRE NASCIMENTO PIRES, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e d o recurso especial, Dr. Henrique Martins de Lucca.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que na petição apresentada às fls. 118/137, a parte só juntou substabelecimentos, não havendo procuração originária.
+Dessa forma, os instrumentos de substabelecimento não têm eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Neste sentido, o AgInt no AREsp n. 2.028.800/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25/8/2022; AgInt no AREsp n. 1.946.028/MS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/3/2022; AgInt no REsp n. 1.945.390/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 16/2/2022.
+No mais, a petição de fls. 140/141 não pode ser conhecida, uma vez que operou-se a preclusão consumativa com a apresentação da petição anterior.
+Além disso, mesmo que se pudesse considerá-la, cumpre consignar que os poderes consignados no instrumento de procuração de fl. 140, foram outorgados ao subscritor do recurso em data posterior à sua interposição.
+A jurisprudência desta Corte entende que para suprir e ventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
