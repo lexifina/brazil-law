@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, com base nas Súmulas n. 5 e 7 do STJ, 283 e 284 do STF.
+Na origem, a recorrente ajuizou ação contra a seguradora, pleiteando a indenização do seguro coletivo por invalidez. Em primeira instância, o feito foi julgado improcedente.
+A parte autora interpôs apelação, à qual foi negado provimento. O acórdão ficou assim ementado (e-STJ fl. 699):
+CIVIL - SEGURO DE VIDA EM GRUPO - COBERTURA DE INVALIDEZ PERMANENTE TOTAL E PARCIAL POR ACIDENTE - DOENÇA OCUPACIONAL - EQUIPARAÇÃO A ACIDENTE - IMPOSSIBILIDADE - INDENIZAÇÃO INCABÍVEL.
+1. A doença ocupacional não se equipara ao acidente de trabalho para fins de seguro pessoal.
+2. Mesmo considerando ser obrigação da seguradora e da estipulante informar ao segurado sobre as particularidades do contrato de seguro, é aplicável a restrição da equiparação das doenças laborais ao conceito de acidente, haja vista a expressa previsão contratual e a inaplicabilidade das disposições da lei acidentária, que rege as relações do INSS e seus segurados (Lei n. 8.213/91), às relações securitárias firmada entre particulares.
+3. Nos seguros em grupo firmados pelas empresas empregadoras por força de acordo coletivo prévio, o segurado, ao ser incluído na apólice, o que ocorre no momento no qual foi firmado o vínculo trabalhista, tem plena capacidade e possibilidades de verificar os termos da apólice a qual aderiu, haja vista a natureza desta.
+Quanto ao dever de informação acerca das cláusulas contratuais em seguros dessa natureza, destaca-se que a apólice principal contratada pela estipulante é clara ao indicar as limitações da indenização, bem como a aplicação das condições gerais de seguro para o pagamento das reparações.
+INVALIDEZ FUNCIONAL POR DOENÇA - PERDA DA EXISTÊNCIA INDEPENDENTE - NÃO CONFIGURAÇÃO - INCAPACIDADE PARCIAL - INDENIZAÇÃO NÃO DEVIDA.
+1. A cobertura para invalidez total funcional por doença pressupõe a perda da existência autônoma do segurado, nos termos da Circular n. 305/2005 da SUSEP; inexistente a incapacidade total, inviável o pleito condenatório.
+2. Inexistindo contratação de cobertura para eventual invalidez parcial decorrente de doença do segurado, resta inviável determinar que a seguradora indenize sinistro não contatado.
+Os embargos de declaração foram rejeitados (e-STJ fls. 894/899).
+No recurso especial (e-STJ fls. 732/737), interposto fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega violação dos arts. 6º, 37, 46, 47 e 54 do CDC, bem como divergência jurisprudencial, argumentando que seria ônus da seguradora comunicar aos segurados as limitações da apólice, sendo devida a cobertura contratual, ante a inobservância do direito de informação do consumidor.
+No agravo (e-STJ fls. 822/831), afirma a presença de todos os requisitos de admissibilidade do especial.
+Por meio da decisão de fls. 892/894 (e-STJ), determinei, com base na afetação do Tema Repetitivo n. 1.112/STJ, a devolução dos autos ao TJSC "para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015" (e-STJ fl. 892).
+A Corte local, então, na fase do art. 1.040, inciso II, do CPC/2015, proferiu juízo negativo de retratação, por meio de acórdão assim ementado (e-STJ fl. 942):
+PROCESSUAL CIVIL - JUÍZO DE RETRATAÇÃO - CPC, ARTS. 1.030, INC. II, E 1.040, INC. II - CIVIL - SEGURO DE VIDA EM GRUPO - COBERTURA DE INVALIDEZ PERMANENTE TOTAL E PARCIAL POR ACIDENTE - DOENÇA LABORAL - STJ - TEMA N. 1.112 - JUÍZO NEGATIVO - MANUTENÇÃO DO DECISUM.
+1. Decidiu a Corte da Cidadania que " na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre  .. " (REsp n. 1.874.811/SC, Min. Ricardo Villas Bôas Cueva).
+2 Entendimento que se coaduna com o estabelecido por este Órgão Fracionário de que não é cabível a pretensão de afastamento da limitação indenizatória sob o fundamento de malbaratamento do dever informacional por parte da requerida.
+Na fase do art. 1.042, § 4º, do CPC/2015, a decisão de inadmissibilidade do recurso especial foi mantida (e-STJ fl. 953).
+É o relatório.
+Decido.
+A controvérsia tem origem na pretensão de recebimento de "indenização securitária por "Invalidez Permanente por Acidente" no valor integral do Capital Segurado" (e-STJ fl. 16), sob o argumento descumprimento do dever de informação quanto à cláusula de exclusão de cobertura da invalidez por doença ocupacional, no caso, "desvio do eixo longitudinal da coluna lombar à esquerda e espondilodiscoartrose, bem como sinais de sobrecarga mecânica dos ligamentos interespinhosos de L3-L4, L4-L5, L5-S1" (e-STJ fl. 4).
+O Tribunal de origem concluiu que "o empregado segurado, ao ser incluído na apólice no momento no qual foi firmado o vínculo trabalhista, tem plena capacidade e possibilidades de verificar os termos da apólice a qual aderiu, haja vista a natureza desta, existente por força de acordo coletivo prévio" (e-STJ fl. 704).
+Modificar o entendimento do acórdão impugnado quanto à ciência dos termos da apólice, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ademais, a controvérsia relativa ao cumprimento do dever de informação nos contratos de seguro de vida coletivo foi enfrentada pela Segunda Seção desta Corte, segundo o rito dos r epetitivos, tendo sido firmada a seguinte tese:
+Tema Repetitivo n. 1.112/STJ: "Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre." (Grifei.)
+No caso, a demanda foi ajuizada contra a seguradora, não contra a empresa estipulante, c ircunstância que inviabiliza o enfrentamento da tese de descumprimento do dever de informação, à luz do repetitivo.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
