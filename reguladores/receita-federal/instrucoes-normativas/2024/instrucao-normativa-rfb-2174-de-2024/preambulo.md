@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2174, de 14 de fevereiro de 2024
+Altera as tabelas progressivas constantes dos Anexos II a IV e VII da Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, que dispõe sobre normas gerais de tributação relativas ao Imposto sobre a Renda das Pessoas Físicas.
+A SECRETÁRIA ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTA, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de junho de 2020, e tendo em vista o disposto no § 1º do art. 12-A da Lei nº 7.713, de 22 de dezembro de 1988, no § 11 do art. 3º da Lei nº 10.101, de 19 de dezembro de 2000, e no art. 1º da Lei nº 11.482, de 31 de maio de 2007, resolve:
