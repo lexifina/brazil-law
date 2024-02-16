@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WASHINGTON LUIZ DOS SANTOS contra decisão proferida pelo Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro (0099262-15.2023.8.19.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 27/11/2023, com posterior conversão em preventiva, pela suposta prática do crime previsto no art. 157 c/c artigo 61, II, h, ambos do Código Penal, porque (e-STJ fl. 32):
+No dia 27 de novembro de 2023, por volta das 14hrs40min, na Rua Alberto Teixeira da Cunha, nesta comarca, o denunciado, consciente e voluntariamente, subtraiu para si, mediante grave ameaça exercida com palavras de ordem e simulação de porte de arma de fogo, a quantia de R$ 300,00 (trezentos reais)em espécie, da vítima ELISEU SOARES FILHO.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando negativa de autoria e carência de fundamentação para a prisão preventiva, baseada exclusivamente em razão do passado do paciente
+O Relator do Tribunal de origem indeferiu a liminar pleiteada (e-STJ fls. 27/31).
+Na presente oportunidade, a defesa reitera seus argumentos, alegando, em síntese, negativa de autoria diante da ausência de provas concretas "não há testemunha que tenha presenciado o suposto roubo, nada de comprometedor foi encontrado no celular apreendido, o valor supostamente subtraído não estava com o paciente" (e-STJ fl. 6).
+Ademais, alega ausência de fundamentação idônea do decreto prisional, baseado exclusivamente nos registros criminais anteriores do paciente.
+O Ministério Público Federal opinou pelo não conhecimento do writ, em parecer assim ementado (e-STJ fl. 63):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL E PROCESSO PENAL. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA EM LIMINAR. MATÉRIA NÃO DEBATIDA NA CORTE A QUO. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. CRIME DE ROUBO. PRISÃO PREVENTIVA. CAUTELAR EXTREMA EMBASADA NA GARANTIA DA ORDEM PÚBLICA. PRESSUPOSTOS DA PRISÃO BEM DELINEADOS NOS AUTOS. REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, colhe-se da decisão de primeiro grau (e-STJ fls. 23/24):
+ ..  a conduta delituosa extrapolou o ínsito ao tipo penal em questão, o que demanda uma reprimenda mais veemente. Isso porque o delito foi praticado i) com simulação de emprego de arma de fogo; ii) mediante emprego de ameaças à vida da vítima; iii) em local público e frequentado por diversas pessoas; e iv) em detrimento de vítima idosa.
+ ..
+Outrossim, consoante manifestação do MP, o custodiado ostenta anotações e condenações em sua FAC pela prática de crimes graves, incluindo extorsão e roubo. Trata-se de multirreincidente específico.
+Assim se manifestou o Relator ao indeferir a liminar (e-STJ fls. 28/29):
+A decisão que converteu a prisão em flagrante em preventiva, proferida em 29/11/2023, em sede de Audiência de Custódia, fundamentou a necessidade da custódia na periculosidade do paciente que, como multirreincidente, representa risco à ordem pública.
+ ..
+De início, não se vislumbra na decisão vergastada nenhum abuso ou teratologia patente capaz de ensejar, de imediato, a soltura do paciente.
+Como visto, ao que parece, a prisão preventiva foi mantida em razão da gravidade concreta do crime - r oubo praticado com simulacro de arma de fogo e grave ameaça contra vítima de 74 anos - aliada à multirreincidência específica do paciente, já condenado pelas práticas de extorsão e roubo .
+Nessa direção, "ante a constatação de tratar-se de acusado reincidente, tem-se como viável a prisão preventiva, considerada a sinalização de periculosidade" (HC n. 174.532/PR, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 19/11/2019, DJe 02/12/2019).
+Do mesmo modo, "conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade". (RHC n. 107.238/GO, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+No tocante à tese de insuficiência das provas de autoria e materialidade quanto ao tipo penal imputado, esta consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+Com efeito, segundo a Suprema Corte, " a  análise minuciosa para o fim de concluir pela inexistência de indícios mínimos de autoria demandaria incursão no acervo fático-probatório, inviável em sede de habeas corpus". (AgRg no HC n. 215.663/SP, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 04/07/2022, DJe 11/07/2022).
+De igual modo, neste Tribunal Superior de Justiça é assente que " o  enfrentamento da tese relativa à negativa de autoria é incompatível com a via estreita do habeas corpus, ante a necessária incursão probatória, devendo tal análise ser realizada pelo Juízo competente para a instrução e julgamento da causa". (AgRg no HC n. 727.242/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe 22/12/2022).
+Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular.
+Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
