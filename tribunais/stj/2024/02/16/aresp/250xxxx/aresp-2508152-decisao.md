@@ -1,0 +1,23 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CRIMINAL Receptação (Artigo 180, caput, do Código Penal). Sentença condenatória. Materialidade e autoria delitiva sobejamente comprovadas. Credibilidade do relato dos policiais e das vítimas dos crimes precedentes.
+Depoimentos em harmonia com o conjunto probatório. Dolo evidenciado. Condenação mantida. Dosimetria. Pena-base fixada no mínimo legal. Regime inicial semiaberto mantido.
+Elementos nos autos que indicam que os mecanismos de prevenção e repressão do Estado não servem ao réu de mínima advertência. Recurso não provido. (e-STJ fl. 223)
+A defesa aponta a violação dos arts. 33, § 2º, "b", do CP alegando, em síntese, que estão presentes os requisitos para a fixação do regime aberto de cumprimento de pena, destacando, no ponto, a primariedade do agente e a ausência de circunstância judicial desfavorável.
+Contrarrazões às e-STJ fls. 282/287.
+Manifestação do Ministério Público Federal pelo provimento do recurso às e-STJ fls. 323/325.
+É o relatório. Decido.
+A irresignação merece prosperar.
+Os elementos existentes nos autos informam que o TJSP negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 1 ano e 3 meses de reclusão, em regime semiaberto, pelo cometimento do crime do art. 180, caput, por 3 vezes, na forma do art. 70, ambos do CP.
+A defesa alega que estão presentes os requisitos para a fixação do regime aberto de cumprimento de pena, anotando a primariedade do agente e a ausência de circunstância judicial desfavorável.
+Com razão, porquanto considerando o quantum da pena, 1 ano e 3 meses de reclusão, a primariedade do recorrente e a ausência de circunstância judicial desfavorável, é adequada a fixação do regime aberto para o cumprimento da reprimenda. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTUM DE REDUÇÃO. APLICAÇÃO EM 1/2. QUANTIDADE DE DROGA APREENDIDA. POSSIBILIDADE. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. AGRAVO PROVIDO EM PARTE.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida de um sexto a dois terços quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Na falta de parâmetros legais para se fixar o quantum dessa redução, os tribunais superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do art. 59 do CP, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+3. No caso, certificada a primariedade e a análise favorável das demais circunstâncias judiciais, é adequada a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 em 1/2 (metade), conforme definido pelo Juiz de 1º grau, tendo como parâmetro a quantidade de droga apreendida (quase 1 quilo de maconha). Precedentes.
+4. Estabelecida a reprimenda final em 2 anos e 6 meses de reclusão, verificada a primariedade do agente e sendo favoráveis as circunstâncias do art. 59 do CP, o regime inicial aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal.
+5. Preenchidos os requisitos legais do art. 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritivas de direitos.
+6. Agravo regimental parcialmente provido para, mantido o patamar da minorante em 1/2, fixar o regime inicial aberto, bem como a substituição da pena privativa de liberdade por restritivas de direitos, conforme definidas pelo Juízo de 1º grau na sentença. (AgRg no AgRg no AREsp n. 2.004.142/SE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 4/10/2022)
+Ante o exposto, com fundamento no art. 932, inciso V, alínea "a", do CPC, no art. 255, § 4º, inciso III, do RISTJ, e na Súmula 568/STJ, dou provimento ao recurso especial para fixar o regime aberto para o cumprimento da pena.
+Intimem-se.
+EMENTA
