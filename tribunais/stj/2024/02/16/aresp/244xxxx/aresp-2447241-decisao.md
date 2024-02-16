@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 296):
+Apelação. Transporte de carga. Ação de cobrança. Sentença que julgou parcialmente procedente a ação. Recurso da empresa requerida. 1. Não se verifica cerceamento de defesa ante o julgamento antecipado do mérito, tendo em vista que a prova, no presente caso, é eminentemente documental. Impende, nesta matéria ter em mente que, "no que diz respeito à condução da produção de provas, assim como à hipótese de julgamento antecipado da lide, sabe-se que, em atenção ao princípio do livre convencimento motivado, cabe ao juiz, destinatário da prova, a apreciação da adequação da produção probatória ao caso dos autos" (STJ, REsp nº 1.812.922, relator Ministro Francisco Falcão, j. em 19.04.2022). Preliminar afastada. 2. A ré não demonstrou ter efetuado os pagamentos devidos ao autor. 3. Tratando-se de responsabilidade contratual e de obrigação líquida, a correção monetária deve incidir a partir da data do vencimento da obrigação, ou seja, a partir da data em que cada pagamento era devido ao autor. 4. Por fim, não é o caso de se afastarem os encargos moratórios em razão da pandemia. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 301/310), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 393, 396 e 408 do CC/2002, alegando que não deveria ser aplicado nenhum encargo moratório à recorrente visto que "sem culpa não há mora, e sem mora os respectivos encargos não podem ser aplicados, sendo que o quadro atual exige temperança e equilíbrio na adoção de medidas visando a satisfação dos interesses momentâneos das partes, notadamente diante o impacto social e econômico provocado pela pandemia do COVID-19" (e-STJ fl. 309).
+Pleiteia, por fim, a concessão do efeito suspensivo.
+Em suma, são estes os pedidos recursais (e-STJ fl. 310):
+Isto posto, a Recorrente vem interpor o presente RECURSO ESPECIAL, requerendo o seu recebimento, no EFEITO SUSPENSIVO, o seu processamento, e remessa ao Egrégio Superior Tribunal de Justiça, a fim de que seja reformado o v. acórdão de fls. 295/299, condenando-se a Recorrida ao pagamento das custas processuais e honorários advocatícios.
+Não foram oferecidas contrarrazões (e-STJ fl. 317).
+No agravo (e-STJ fls. 330/334), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contra minuta não apresentada (e-STJ fl. 336).
+É o relatório.
+Decido.
+Narra a inicial que a parte recorrida prestou serviços à recorrente como transportador autônomo de cargas, sendo pactuado que receberia os respectivos pagamentos quinzenalmente. Contudo, mesmo tendo prestado os serviços, a parte requerida não teria pago a quantia de R$ 7.931,60.
+Consta nas razões do TJSP que "o autor juntou documentos que comprovam a prestação dos serviços de entrega, cujos valores constam de cada romaneio de entregas  ..  a ré, por sua vez, não trouxe nada que comprove ter efetuado os pagamentos devidos ao autor, limitando-se a juntar planilha interna que confirma existirem valores correspondentes a serviços prestados pelo autor". Entendeu o colegiado que (e-STJ fl. 298):
+Correta a r. sentença, portanto, ao reconhecer a procedência do pedido.
+Tratando-se de responsabilidade contratual e de obrigação líquida, a correção monetária deve incidir a partir da datado vencimento da obrigação, ou seja, a partir da data em que cada pagamento era devido ao autor.
+Por fim, não é o caso de se afastarem os encargos moratórios em razão da pandemia, tendo em vista que os serviços foram prestados pelo autor durante o ano de 2019, quando ainda nem se cogitava da existência da doença.
+A Corte local concluiu não ser caso de afastamento dos encargos moratórios tendo em vista que os serviços foram prestados pela parte recorrida durante o ano de 2019, quando ainda não se tinha a declaração de p andemia. A alteração do que decidido pelo colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a incidência da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo e JULGO PREJUDICADO o pedido de efeito suspensivo. Deixo de majorar os honorários advocatícios (artigo 85, § 11, do CPC/2015) pela fixação anterior no patamar máximo permitido em lei.
+Publique-se e intimem-se.
+EMENTA
