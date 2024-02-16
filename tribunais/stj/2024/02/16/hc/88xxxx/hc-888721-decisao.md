@@ -1,0 +1,26 @@
+DECISÃO
+CLEYTON SOUZA DA SILVA alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (Apelação Criminal n. 0004257-62.2020.8.17.0990).
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 8 anos e 9 meses de reclusão, em regime fechado, mais multa, como incurso no art. 33, caput, da Lei de Drogas.
+O Tribunal de origem deu parcial provimento ao recurso da defesa a fim de reduzir a reprimenda e torná-la definitiva em 7 anos e 8 meses de reclusão, em regime fechado, mais multa.
+Busca a defesa o redimensionamento da reprimenda, com a redução da pena-base ao mínimo legal e a modificação da fração utilizada para a reincidência.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juiz sentenciante - em fundamentação chancelada pelo Tribunal de origem - majorou a pena-base do acusado em razão dos maus antecedentes e da natureza da droga apreendida. Confira-se (fl. 306):
+ ..  verifico que foram apreendidos em poder do(a) acusado(a), 18 pedras de crack, quantidade razoável, porém de natureza negativa, cujo efeito potencialmente lesivo, com alto efeito viciante e com consequências graves devem ser sopesadas em desfavor do acusado, sendo a circunstância desfavorável;
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora a natureza da droga constitua, de fato, circunstância preponderante a ser sopesada na dosimetria da pena, considero que a quantidade apreendida em poder do paciente - 3,480 g de crack - não foi expressiva, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas a natureza para justificar a exasperação da pena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou com cocaína, ainda que com uma porção com peso de 5 g, por exemplo, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+Diante de tais considerações, porque verificada a inadequação parcial da análise das circunstâncias judiciais (natureza da droga) e porque remanesce desfavorável os antecedentes, deve o writ ser concedido, a fim de reduzir a pena-base de 6 anos e 8 meses de reclusão e 666 dias-multa para 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+II. Compensação da multirreincidência e da confissão
+De início, registro nada há que ser modificado no decisum impugnado em relação à compensação parcial da atenuante da confissão com a agravante da reincidência, porquanto se trata de réu multirreincidente, situação que autoriza a operação efetivada na origem, conforme a pacífica jurisprudência desta Corte sobre o tema.
+De fato, "a Terceira Seção desta Corte Superior, no julgamento do HC n. 365.963/SP, de relatoria do Ministro Felix Fischer, publicado no DJe de 23/11/2017, pacificou o entendimento de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão -ressalvados os casos de multirreincidência" (AgRg no AREsp n. 2.016.921/SP, Rel. Ministro Reynaldo Soares da Fonseca, DJe 18/3/2022).
+Assim, "havendo multirreincidência, cabe a compensação proporcional com a atenuante da confissão espontânea, em homenagem aos princípios da proporcionalidade e da individuação da pena" (AgRg no HC n. 649.854/SC, Rel. Ministro João Otávio de Noronha, DJe 21/2/2022), como foi feito na espécie.
+III. Nova dosimetria
+Estabeleço a pena-base em 5 anos e 10 meses de reclusão e 583 dias-multa. Na segunda etapa, mantenho o aumento em 1 ano de reclusão. Na terceira fase, não há causas de aumento ou de diminuição, pelo que torno a reprimenda definitiva em 6 anos e 10 meses de reclusão e 683 dias-multa.
+IV. Dispositivo
+À vista do exposto, concedo em parte a ordem, a fim de reduzir a pena-base imposta e tornar a reprimenda definitiva em 6 anos e 10 meses de reclusão e 683 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
