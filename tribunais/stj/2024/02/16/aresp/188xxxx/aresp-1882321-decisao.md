@@ -1,0 +1,25 @@
+DECISÃO
+Trata -se de agravo nos próprios autos interposto contra decisão publicada na vigência do C PC/2015, que inadmitiu o recurso especial em razão da ausência de afronta ao art. 1.022 do CPC/2015, bem como por incidência das Súmulas n. 282 do STF e 7 e 211 do STJ (e-STJ fls. 223/224).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 144):
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMÓVEL. PROPRIEDADE DO EXECUTADO. DEMONSTRADA. PENHORA. CRÉDITOS LOCATÍCIOS. POSSIBILIDADE. 1. Nos termos do artigo 834 do Código de Processo Civil é possível que a penhora recaia sobre os frutos e rendimentos de bens inalienáveis. 2. Admite-se que a penhora recaia sobre os frutos e rendimentos do imóvel, quando restar comprovado que a propriedade pertence ao executado. 3. Recurso conhecido e provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 172/177).
+Nas razões do recurso especial (e-STJ fls. 180/188), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022 do CPC/2015, por omissão quanto ao não cabimento do recurso (violação do art. 1.015 do CPC/2015) (e-STJ fl. 182) e acerca da necessidade de instauração do incidente de desconsideração da personalidade jurídica (e-STJ fl. 183);
+(ii) arts. 50 do CC/2002 e 133 do CPC/2015, "uma vez que não foi instaurado o procedimento de desconsideração da personalidade jurídica para fins de atingir a penhora de locatícios recebidos por empresas que não constam do polo passivo da ação de cumprimento de sentença" (e-STJ fl. 185).
+Nesses termos, requereu o provimento do recurso, "a fim de ser reformada a decisão recorrida e, com isso, reconhecer a necessidade de instauração de incidente de desconsideração da personalidade jurídica para a finalidade que busca a recorrida de obter penhora de empresas integrantes ao grupo econômico" (e-STJ fl. 187).
+No agravo (e-STJ fls. 228/241), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 250/257 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fl. 148):
+No caso dos autos, os documentos de ID 11771971 comprovam que os imóveis sobre os quais se pretende penhorar os aluguéis pertencem ao agravado. Dessa forma, não vejo óbice para que a constrição sobre os frutos e rendimento dos imóveis de propriedade do agravado seja deferida. Ante o exposto, CONHEÇO e DOU PROVIMENTO ao agravo de instrumento, para deferir a penhora dos créditos locatícios dos imóveis de propriedade do agravado constantes da Matrícula (..), devendo ser expedido mandado de intimação para que os locatários apresentem cópias dos contratos firmados com o agravado e passem a depositar mensalmente, em uma conta judicial vinculada ao respeitável juízo a quo, o valor das verbas locatícias.
+Na decisão que rejeitou os aclaratórios, a Corte local asseverou (e-STJ fls. 176/177):
+De inicio, verifico que o recurso de agravo de instrumento foi conhecido, uma vez que os pressupostos para sua admissibilidade foram considerados presentes (..). Na hipótese, foi interposto recurso em face de decisão interlocutória, com cunho decisório, proferida nos autos do cumprimento de sentença, assim, por força do parágrafo único do artigo 1.015 do Código de Processo Civil, a interposição do agravo de instrumento é cabível. Com efeito, esta 3ª Turma ao analisar o recurso, de maneira fundamentada, decidiu possibilidade de penhora dos frutos e rendimentos dos imóveis de propriedade do agravado, ora embargante (..). Verifica-se, portanto, no trecho extraído do acórdão, que a penhora dos frutos e rendimentos foi analisada e autorizada, uma vez que a propriedade dos imóveis foi atribuída ao embargante, o que afasta a alegação de omissão.
+Por conseguinte, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+O Tribunal de origem concluiu pela possibilidade de penhora dos frutos e rendimentos dos imóveis, sob o fundamento de que os bens são de propriedade da parte ora recorrente.
+Contudo, no recurso especial, a parte não refutou tal fundamento. Portanto, como não houve impugnação de todos os fundamentos do acórdão recorrido, incide a Súmula n. 283 do STF.
+De todo modo, para modificar o entendimento do acórdão impugnado quanto à propriedade dos bens imóveis, assim como para apurar quais seriam os locadores dos referidos contratos de locação, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+ EMENTA
