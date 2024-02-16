@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Kairos Antunes Heinrich, no qual se aponta como órgão coator o Tribunal de Justiça de Santa Catarina.
+Aduz a defesa que (fls. 8/9 - grifo nosso):
+ ..  impetrou Habeas Corpus junto ao TJSC, objetivando que seja desentranhada as provas já declaradas nulas, assim como a despronúncia do paciente, com o consequente arquivamento do caderno processual, uma vez que inexistente qualquer elemento concreto de sua autoria, apenas informações anônimas de supostos moradores da comunidade que ouviram dizer que Kairos foi o autor do crime (o que, diga-se d e passagem, não foi compreendido como motivação suficiente para condenar o outro acusado, nas mesmas circunstancias). Subsidiariamente, caso esse não fosse o entendimento, requereu a proibição do uso não só do conteúdo das provas ilícitas, mas também a simples menção a sua existência, em razão do claro prejuízo que a referida menção traria ao processo em tela, como o depoimento dos policiais militares, do delegado de polícia, todas as folhas do inquérito que mencionam a referida arma. O Ministério Público se manifestou favorável ao pleito (ev.11). Entretanto, a referida ação mandamental restou desprovida tendo em vista que a despronuncia já teria sido alvo de julgamento do RESE, não cabendo ao Tribunal revisar sua própria decisão, conforme se observa:
+HABEAS CORPUS. AÇÃO PENAL QUE APURA CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO. (1) PEDIDO DE IMPRONÚNCIA APÓS DA ANULAÇÃO, EM AÇÃO PENAL DIVERSA, DA APREENSÃO, NA POSSE DO PACIENTE, DA ARMA DE FOGO SUPOSTAMENTE UTILIZADA PARA O COMETIMENTO DO CRIME CONTRA A VIDA. INVIABILIDADE DE CONHECIMENTO. DECISÃO DE PRONÚNCIA CONFIRMADA POR ESTE ÓRGÃO FRACIONÁRIO. IMPOSSIBILIDADE DE REAPRECIAR A QUESTÃO EM SEDE DE HABEAS CORPUS. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA E VEDAÇÃO ESTABELECIDA PELO § 1º DO ART. 650 DO CPP. ADEMAIS, AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PRONÚNCIA AMPARADA EM OUTROS ELEMENTOS. ANÁLISE DA SUFICIÊNCIA DO CONJUNTO PROBATÓRIO INCOMPATÍVEL COM A RESTRITA COGNIÇÃO DESTE TIPO DE AÇÃO. (2) PLEITO DE CONCESSÃO DE ORDEM PARA IMPEDIR O USO E MENÇÃO À PROVA ILÍCITA. PRETENSÃO AMPARADA EM MERO RECEIO ACERCA DE FATO HIPOTÉTICO. CONTEXTO QUE NÃO DENOTA RESTRIÇÃO OU SEQUER AMEAÇA AO DIREITO DE IR E VIR DO PACIENTE. AÇÃO NÃO CONHECIDA.
+Inconformado com a retro decisum, a defesa impetra esta nova ação mandamental perante este Tribunal Superior para ver sanada a inconteste flagrante ilegalidade perpetrada no presente processo.
+ ..
+Pretende, em síntese (fls. 15/16):
+Por todo exposto, em razão do evidente constrangimento ilegal proferido pela respeitosa Primeira Câmara Criminal do Tribunal de Justiça de Santa Catarina, contando com os doutos conhecimentos de Vossas Excelências, requer-se, liminarmente, seja concedida a ordem de Habeas Corpus, para que seja determinado ao juízo de origem, qual seja a Vara do Tribunal do Júri da Comarca da Capital, que proceda com a reanálise da decisão que pronunciou o paciente ou, subsidiariamente, que este Corte determine a cassação da sentença de pronúncia, ante a inexistência de provas válidas para sustentá-la, forte no art. 414 do CPP, decretando-se a absolvição do paciente.
+Ainda, requer a suspensão da Sessão de Tribunal do Júri marcada para 13 de agosto de 2024 até o julgamento definitivo do writ.
+Cumpre informar que o processo é eletrônico, podendo ser consultado pelo juízo diretamente no sistema EPROC.
+Ao fim, subsidiariamente, requer-se seja dada a ordem de Habeas Corpus de ofício, haja vista a flagrante ilegalidade perpetrada.
+É o relatório.
+O presente writ não pode ser conhecido, pois não consta dos autos a cópia do inteiro teor do acórdão impugnado, proferido no âmbito do habeas corpus mencionado à fl. 9.
+Tal circunstância, por óbvio, inviabiliza a exata compreensão da controvérsia, bem como a aferição da alegada existência de constrangimento ilegal.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente, e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante (HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/6/2011).
+A propósito:
+PEDIDO DE RECONSIDERAÇÃO. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. WRIT INDEFERIDO LIMINARMENTE. INSTRUÇÃO DEFICIENTE. DECRETO PRISIONAL NÃO ACOSTADO AOS AUTOS. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO. RECURSO IMPROVIDO.
+1. No caso, não foi trazido aos autos o decreto de prisão preventiva, limitando-se o impetrante a juntar cópia do mandado de prisão, o que impossibilita a análise das alegações trazidas pela defesa.
+2. Reconsideração recebida como agravo regimental, ao qual se nega provimento.
+(RCD no HC n. 532.916/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/10/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publiq ue-s e.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DO INTEIRO TEOR DO ACÓRDÃO IMPUGNADO. INVIABILIDADE DE VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES.
+Writ não conhecido.
