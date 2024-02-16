@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de prequestionamento a atrair a incidência das Súmulas n. 282 e 356 do STF (e-STJ fls. 652/654).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 603):
+AGRAVO DE INSTRUMENTO - PRELIMINAR DE DESERÇÃO -GRATUIDADE JUDICIAL - REJEIÇÃO - NÃO CONHECIMENTO PARCIAL DO RECURSO - CUMPRIMENTO DE SENTENÇA - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEIÇÃO - GRANDE LAPSO TEMPORAL ENTRE A AVALIAÇÃO E A DESIGNAÇÃO DA HASTA PÚBLICA -POSSIBILIDADE DE VALORIZAÇÃO OU DESVALORIZAÇÃO DO BEM -NOVA AVALIAÇÃO - NECESSIDADE-EXCESSO DE EXECUÇÃO -JUSTIÇA GRATUITA DEFERIDA AOS EXECUTADOS - AUSÊNCIA DE REVOGAÇÃO DA BENESSE - INCLUSÃO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS NO DÉBITO - IMPOSSIBILIDADE .
+- Não se pode falar em deserção quando a parte recorrente é beneficiária da gratuidade de justiça.
+- Ausente requisito extrínseco de admissibilidade, relativo à regularidade formal do recurso, por ausência de interesse recursal e inovação recursal, o seu não conhecimento parcial se impõe.
+- Não dependendo a apuração do valor da condenação de conhecimento técnico ou da alegação e comprovação de fato novo, bastando, para tanto, a realização de simples cálculos aritméticos, aplica-se a regra estabelecida no § 2º do artigo 509 do Código de Processo Civil, não havendo que se falar, portanto, em cerceamento de defesa em razão do indeferimento de prova pericial.
+- Nos termos do disposto no art. 873, II, do CPC, verificando-se a possibilidade de ocorrência de possível majoração ou redução do valor do bem posteriormente à sua avaliação, em especial em hipóteses em que decorreu grande lapso temporal entre a data da avaliação e da designação de sua hasta pública, a realização de nova avaliação é medida que se impõe.
+- Estando a parte executada litigando sob o pálio da justiça gratuita, sendo, inclusive, determinada na decisão executada a suspensão da exigibilidade das custas processuais e honorários sucumbenciais, nos termos do art. 98, § 3º, do CPC, resta caracterizado o excesso de execução quanto às referidas parcelas, notadamente considerando não ter havido qualquer decisão de revogação expressa da benesse.
+Nas razões do recurso especial (e-STJ fls. 625/634), interposto com fundamento no art. 105, III, "a", da CF, os recorrentes apontaram violação dos arts. 842 e 843 do CPC.
+Sustentaram que, "apesar da INSTAURAÇÃO DO CUMPRIMENTO DE SENTENÇA, A SRA. ROBERTA BARROS DA FONSECA, CO-PROPRIETÁRIA, NÃO FOI INCLUÍDA OU INTIMADA DESTA, mas tão somente da penhora, necessário se faz a reforma do Acordão neste tocante, devendo a Recorrida/exequente ser intimada a providenciar a inclusão da sucessora do co-proprietário do imóvel Roberto da Fonseca, qual seja, a herdeira sucessora Roberta Barros da Fonseca, sob pena de nulidade dos atos processuais que se seguirem" (e-STJ fls. 630/631)
+No agravo (e-STJ fls. 663/666), afirmam a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 671/672 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal a quo não conheceu do agravo de instrumento manejado pelos ora agravantes quanto à alegada ausência de intimação da coproprietária Roberta Barros da Fonseca com base na falta de interesse recursal e na impossibilidade de se defender direito alheio em nome próprio. Veja-se:
+Submeto à apreciação de meus pares, preliminar de não conhecimento de parte do agravo, por ausência de requisito extrínseco de admissibilidade, relativo à regularidade formal do recurso, por ausência de interesse recursal em relação à alegada ausência de intimação da coproprietária Roberta Barros da Fonseca, bem como por ter como objeto tema não veiculado na impugnação ao cumprimento de sentença/penhora, qual seja, o alegado excesso de execução em razão da forma de cálculo dos juros e correção monetária pelo executado, caracterizando inovação recursal.
+Isso porque, já tendo a decisão recorrida determinado expressamente que "deverão ser cientificada a Executada e as demais pessoas previstas no art. 889 do Código de Processo Civil, em especial os coproprietários", carecem os agravantes de interesse recursal em relação à tal matéria.
+Ademais, ainda que assim não fosse, eventual nulidade do feito, em razão da ausência de intimação da coproprietária Roberta Barros da Fonseca deve ser por ela mesmo alegada, e não pelos recorrentes, haja vista a impossibilidade de se defender direito alheio em nome próprio (e-STJ fl. 613).
+Como se observa, em momento algum houve emissão de juízo de valor acerca dos temas insertos nos arts. 842 e 843 do CPC. Portanto, patente a falta de prequestionamento, o que atrai a incidência das Súmulas 282 e 356 do STF.
+Outrossim, os recorrentes não impugnaram os fundamentos acima reproduzidos, relativos à falta de interesse recursal e à impossibilidade de se defender direito alheio em nome próprio, de modo que o apelo nobre também encontra óbice na Súmula 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Sem majoração de honorários a dvocatícios, por não terem sido fixados na origem.
+Publique-se e intimem-se.
+ EMENTA
