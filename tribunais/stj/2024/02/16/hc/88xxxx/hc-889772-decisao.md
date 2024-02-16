@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Alison Adilson de Oliveira Bento, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento à apelação interposta pela defesa, mantendo a sentença exarada pelo Juízo de Direito da 3ª Vara Criminal da comarca de Limeira/SP que condenou o paciente a 5 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (Ação Penal n. 1500126-69.2023.8.26.0551).
+Daí a presente impetração, em que se alega, em síntese, constrangimento ilegal consistente na consideração da reincidência como circunstância agravante e como elemento capaz de justificar a não aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, na medida em que configura inadmissível bis in idem.
+Postula-se, ao final, a concessão para aplicar a redutora do art. 33, § 4º, da Lei n. 11.343/2006, e fixar o regime semiaberto para início de cumprimento de pena.
+É o relatório.
+No caso, não vislumbro constrangimento ilegal a ser reparado por esta Corte de Justiça, uma vez que a decisão a quo se encontra em consonância com o entendimento adotado pelo Superior Tribunal de Justiça.
+Com efeito, não há falar em bis in idem em razão utilização da reincidência como agravante genérica e para negar a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porquanto é possível que um mesmo instituto jurídico seja apreciado em fases distintas na dosimetria da pena, gerando efeitos diversos, conforme previsão legal específica (HC n. 409.134/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 18/9/2017).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. LEGALIDADE DA PROVA. VIOLAÇÃO DE DOMICÍLIO. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO DE APARELHO CELULAR E TORTURA POLICIAL. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA E INCONTROVERSA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU REINCIDENTE. CONSTRANGIMNTO ILEGAL NÃO VERFICADO. AGRAVO NÃO PROVIDO.
+1. A pretensão relativa à nulidade pela violação do domicílio do paciente não foi debatida no acórdão impugnado, o que impede a análise da questão diretamente nesta Corte Superior, sob pena de indevida supressão de instância.
+2. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado (AgRg no HC n. 370.583/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016).
+3. No caso, observa-se que a defesa se limitou a arguir as ilegalidades relativas à violação do celular do corréu e à violência policial sofrida pelo paciente, amparada tão somente nas palavras do acusado, sem apresentar, no entanto, indícios mínimos e provas robustas e incontroversas para sustentar suas teses.
+4. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+5. Tratando-se de réu reincidente, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas, sendo certo que a utilização de tal vetor concomitantemente na segunda e terceira fase da dosimetria não enseja bis in idem.
+6. Agravo regimental não provido.
+(AgRg no HC n. 795.821/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/6/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REINCIDÊNCIA. CONSIDERAÇÃO COMO AGRAVANTE E COMO IMPEDITIVO DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4.º, DA LEI N. 11.343/2006. BIS IN IDEM. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+1. A reincidência obsta a aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, pois expressamente previsto em tal norma que tal benefício somente pode ser aplicado a agente primário, de bons antecedentes.
+2. Não constitui infração ao princípio do non bis in idem a utilização do instituto da reincidência, ao mesmo tempo, como agravante e como causa impeditiva da diminuição da pena.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 650.717/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/4/2022 - grifo nosso).
+Por fim, por se tratar de réu reincidente e condenado a uma pena privativa de liberdade superior a 4 anos de reclusão, mostra-se adequada a imposição do regime inicial fechado. Nesse sentido: AgRg no HC n. 737.128/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/6/2023; AgRg no HC n. 738.091/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/5/2022; e AgRg no HC /SC, Ministra Laurita Vaz, Sexta Turma, DJe 3/3/2022.
+Ante o exposto, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA. ALEGAÇÃO DE BIS IN IDEM NA UTILIZAÇÃO DA REINCIDÊNCIA PARA O AFASTAMENTO DO § 4º DO ART. 33 DA LEI N. 11.343/2006 E NA SEGUNDA FASE DA DOSIMETRIA DA PENA. NÃO OCORRÊNCIA. SUPOSTA ILEGALIDADE NA FIXAÇÃO DO REGIME INICIAL FECHADO. IMPROCEDÊNCIA. REGIME ADEQUADO (PENA SUPERIOR A 4 ANOS, RÉU REINCIDENTE). PRECEDENTES. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ indeferido liminarmente.
