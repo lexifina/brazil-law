@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS JOSE VIEIRA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no Agravo em Execução Penal n. 1.0245.15.166101-5/001.
+Consta dos autos que, no curso da reprimenda em regime semiaberto, foi concedida ao Paciente a prisão domiciliar com monitoração eletrônica, que foi posteriormente revogada diante do reiterado descumprimento das condições impostas. O Juízo da Execução Penal não reconheceu a prática de infração disciplinar de natureza grave, determinando apenas o retorno do Sentenciado ao regime intermediário.
+Irresignado, o Ministério Público estadual interpôs agravo em execução, que foi provido para reconhecer a prática da falta grave e determinar a regressão para o regime fechado, além da perda de 1/6 (um terço) dos dias remidos. O acórdão foi assim ementado (fl. 155):
+" AGRAVO EM EXECUÇÃO PENAL - RECURSO MINISTERIAL - RECONHECIMENTO DE FALTA GRAVE E APLICAÇÃO DE SEUS CONSECTÁRIOS LEGAIS - NECESSIDADE - DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS PARA PRISÃO DOMICILIAR EXCEPCIONAL COM MONITORAÇÃO ELETRÔNICA - RECURSO PROVIDO.
+- A prática de falta grave, consistente no descumprimento das condições impostas à prisão domiciliar, autoriza o reconhecimento da infração disciplinar de natureza grave, com a aplicação dos seus consectários legais de regressão de regime, perda dos dias remidos e interrupção do marco inicial para obtenção de futuros benefícios, nos moldes do art. 118 e 127, ambos da Lei de Execuções Penais."
+No presente writ, sustenta a Impetrante a prejudicialidade do agravo em execução interposto perante Corte a quo ante a perda superveniente do objeto. Relata que o Paciente já houvera cumprido integralmente as sanções cominadas pelo Juízo da Execução, quando então sobreveio o acórdão ora impugnado. Aduz, inclusive, que posteriormente foram deferidos o trabalho externo e o livramento condicional, não havendo intercorrências negativas durante o período de prova desse benefício.
+Assere que " a  suspensão do livramento condicional e seu retorno ao sistema prisional fere a dignidade da pessoa humana e o devido processo legal por já ter cumprido toda a sanção imposta pelo juiz singular" (fl. 6).
+Assim, requer (fls. 7-8):
+"a) liminarmente, determinar a suspensão dos efeitos da decisão impugnada, até o julgamento do mérito da impetração;
+b) meritoriamente, cassar a decisão colegiada, declarando a nulidade decorrente do bis in idem e reconhecendo a perda do objeto da pretensão regressiva do regime."
+É o relatório. Decido.
+Postula a Defesa a cassação do acórdão ora impugnado, ao argumento de que a pretensão ministerial veiculada no agravo em execução estaria prejudicada, ante a perda superveniente de objeto, em especial diante da concessão do livramento condicional pelo Juízo da Execução.
+Quanto à tese de prejudicialidade do recurso ministerial interposto perante a Corte estadual, observo que a questão não foi explicitamente apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+Destaco que, segundo os documentos constantes dos autos, não foram opostos embargos de declaração na origem, de forma que não cabe a esta Casa o debate de questão não previamente analisada na instância antecedente.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+De mais a mais, não se verifica o esvaziamento do interesse recursal do Ministério Público no julgamento do agravo em execução, que objetivava o reconhecimento da falta disciplinar e a regressão do Apenado ao regime fechado, até porque há a possibilidade de a falta de natureza grave repercutir em eventual revogação do livramento condicional, matéria que deve ser submetida à análise do Juízo da Execução, sob pena de incorrer, novamente, em dupla e indevida supressão de instância.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR COM MONITORAÇÃO ELETRÔNICA. REITERADO DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. RECONHECIDA A FALTA GRAVE PELO TRIBUNAL A QUO. REGRESSÃO DE REGIME. ALEGADA PREJUDICIALIDADE DO RECURSO MINISTERIAL. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
