@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de LUIS ANTONIO CANDÃO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, que negou provimento ao agravo defensivo, nos termos do acórdão assim ementado:
+"RECURSO DE AGRAVO. EXECUÇÃO PENAL (LEI 7.210/1984, ART.197). DECISÃO QUE DENEGOU PROGRESSÃO DO REGIMEPRISIONAL FECHADO PARA O SEMIABERTO. INSURGIMENTO DOREEDUCANDO.
+ATO DECISÓRIO QUE DESCONTOU O PERÍODO DE PRISÃOPROVISÓRIA E RECOLHIMENTO DOMICILIAR NOTURNO DOTOTAL DA REPRIMENDA PARA, SOBRE O MONTANTEREMANESCENTE, CALCULAR A FRAÇÃO DE DOIS QUINTOS PARAA PROGRESSÃO DE REGIME A PARTIR DA PRISÃO DEFINITIVA. ALEGADA IMPROPRIEDADE DO CÁLCULO. ADUZIDANECESSIDADE DE UTILIZAÇÃO DO TEMPO DE DETRAÇÃO COMOPENA EFETIVAMENTE CUMPRIDA NO MODO FECHADO. NÃOACOLHIMENTO. PROCEDER QUE CARACTERIZA BIS IN IDEM AFAVOR DO APENADO, BEM ASSIM VIOLA O SISTEMAPROGRESSIVO DE RESGATE DA PENA. DECISUM ESCORREITO. PRECEDENTES.
+O instituto da detração penal permite o abatimento do período em que o condenado permaneceu segregado provisoriamente do total da pena aplicada. Assim, na hipótese em que o agente esteve solto entre o término deste ínterim e o recolhimento para cumprimento definitivo da reprimenda, tal crédito não tem o condão de servir como integral cômputo para fins de progressão de regime, de modo que a fração exigida deve incidir sobre o montante que faltava resgatar no momento da última prisão, sob pena de caracterizar bis in idem a favor do agente, bem assim de violação ao sistema progressivo de adimplemento da sanção.
+PRONUNCIAMENTO CONSERVADO. RECURSO CONHECIDO EDESPROVIDO.." (e-STJ, fl. 13).
+Consta dos autos que, requerido ao Juízo da Vara de Execuções Penais que o período de detração penal (recolhimento noturno) e prisão preventivamente seja considerado para o requisito objetivo da progressão de regime por ser mais benéfico ao paciente, o pedido foi indeferido.
+Interposto o agravo em execução, o Tribunal de origem negou provimento ao recurso.
+Neste writ, a impetrante alega constrangimento ilegal, por não ter sido considerado o tempo em que o paciente ficou preso preventivamente e em liberdade provisória com o uso de monitoramento eletrônico e com medida cautelar de recolhimento noturno no requisito objetivo para a progressão de regime.
+Aduz que o período de prisão preventiva e de detração penal devem ser utilizados e considerados para fins de direitos na execução penal  progressão de regime  e não descontados da pena total.
+Requer seja considerado o período de detração penal e prisão provisória (total de 1a, 7m e 2d) do prazo do preenchimento do requisito objetivo da progressão de regime.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opina pela concessão parcial da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Min. Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 108.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões deste writ, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso, o paciente permaneceu preso preventivamente por 1 ano, 3 meses e 5 dias e em liberdade provisória com o uso de monitoramento eletrônico com recolhimento noturno de 02/07/2020 até 18/03/2021.
+Ambos os períodos de prisão preventiva e liberdade provisória com o uso de monitoramento eletrônico cumulado com recolhimento noturno foram descontados da pena total imposta ao paciente, para que então o saldo remanescente da pena ele cumpra a fração de 2/5 (dois quinto) para a progressão de regime e não da pena total imposta.
+O Tribunal estadual manteve a decisão de indeferimento do pedido pelos seguintes fundamentos:
+"Na espécie, a Magistrada singular considerou, para fins de detração penal, o tempo de cumprimento da medida cautelar de recolhimento domiciliar noturno, nos seguintes termos:
+No caso dos autos, pretende o apenado a aplicação do referido instituto neste PEC, a fim de computar como pena cumprida todo o período em que esteve segregado cautelarmente nos autos n. 0001066-72.2019.8.24.0012, de 28/03/2019 a 18/03/2021.
+Pois bem, como destacado no parecer ministerial de seq. 32, "o apenado foi preso em flagrante em 28/03/2019 e liberado em 02/07/2020, mediante o cumprimento de medidas cautelares diversas da prisão. "As medidas cautelares perduraram da soltura até o dia 18/03/2021 (seq. 439 da ação penal).
+Dessa forma, considerando o período que esteve em recolhimento noturno (02/07/2020 a 18/03/2021), deve-se proceder com o cálculo da seguinte forma:
+02/07/2020 a 18/03/2021 = 257 dias.
+257 x 11h (período de recolhimento noturno das 19h às 6h) = 2.827 horas
+2.827 / 24h (equivalente a um dia) = 117 dias = 3 meses e 27 dias.
+Desse modo, adotando-se o entendimento sedimentado no Superior Tribunal de Justiça quando do julgamento do Recurso Especial n. 1977135-SC, fixou-se a orientação de que "o período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem" (Tema 1155 - STJ).
+ ..
+Nesse trilhar, conforme cálculo acima, a medida de recolhimento noturno perdurou por 257 (duzentos e cinquenta e sete) dias, considerando o ano comercial (360 dias). Diante das 11h diárias em que o apenado recolheu-se no período noturno, chega-se ao total de 2.827 (nove mil e oitocentos) horas.
+Tal período dividido por 24h nos faz chegar ao total de 117 (cento e dezessete) dias derestrição à locomoção do apenado, ou seja, 3 (três) meses e 27 (vinte e sete) dias.
+Desse modo, possível o deferimento da detração.
+Ante o exposto, o pedido de detração formulado em favor do DEFIRO reeducando LUIS ANTÔNIO CANDAO no total de 3 (três) meses e 27 (vinte e sete) dias (sic, sequencial 37.1do PEC) .
+Posteriormente instada, consignou o seguinte:
+O juízo analisou a questão da detração penal na decisão de seq. 37, não havendo o que se revisar em relação ao relatório de situação carcerária de seq. 42. Isso porque o período de prisão cautelar deve ser descontado da pena total, e não como pretende a defesa, que tal lapso temporal seja admitido como pena cumprida para fins de progressão de regime (sic, sequência64.1).
+ ..
+Em que pese a existência de entendimentos diversos, a contagem na forma sugerida pelo agravante poderia configurar bis in idem a favor do apenado, que teria duplo benefício pela segregação cautelar - in casu recolhimento domiciliar noturno -, bem assim ferir acentuadamente o sistema progressivo de execução da pena, uma vez que permitiria, após o trânsito em julgado e a existência de título executivo judicial definitivo, violação ao disposto nos regramentos da execução penal que exigem um período de cumprimento da reprimenda em modo condizente com a resposta estatal dada ao injusto (Lei de Execução Penal, art. 112, caput, e Lei de Crimes Hediondos, art. 2º, § 2º).
+Imperioso salientar que todos os regimes prisionais têm sua valia e razão de existir nas finalidades retributiva e ressocializadora da sanção.
+Nota-se que na hipótese vertente a aceitação da apuração sugerida pelo apenado permitiria que cumprisse apenas dois anos, oito meses e quatro dias no regime fechado, impedindo, portanto, que usufrua do caráter próprio deste modo prisional e sua importância nos propósitos da pena acima indicados." (e-STJ, fls. 16-18)
+Consoante as informações do Juízo de Primeiro Grau:
+"O apenado foi preso em flagrante delito na data de 28/03/2019 tendo obtido liberdade provisória em 02/07/2020 com a fixação de medidas cautelares. Em 04/04/2023 o apenado passou a cumprir a pena definitiva.
+Na data de 12/07/2023, este Juízo reconheceu em favor do apenado a detração de 3 (três) meses e 27 (vinte e sete) dias, considerando o tempo em que o apenado recolheu-se no período noturno." (e-STJ, fl. 34)
+Sobre a questão, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp1.977.135/SC sob a sistemática dos recursos repetitivos, ocorrido em 23/11/2022, firmou o Tema nº 1155, a fim de uniformizar o entendimento a respeito das controvérsias existentes na jurisprudência acerca da possibilidade de detração do período em que o apenado cumpriu medida cautelar de recolhimento noturno e da necessidade de fiscalização eletrônica.
+O entendimento consolidado pelo Superior Tribunal de Justiça é que deve ser dada interpretação extensiva e bonam partem ao artigo 42 do Código Penal, de forma que o período de recolhimento noturno, por comprometer o status libertatis, deve ser detraído do tempo da pena privativa de liberdade, sendo irrelevante o monitoramento eletrônico associado, como forma de garantir o tratamento isonômico entre os apenados, diante das peculiaridades desta medida.
+O tempo computado para fins de detração penal deve limitar-se aos intervalos em que o réu permaneceu obrigatoriamente recolhido em seu domicílio, devendo a soma das horas de recolhimento domiciliar a que foi submetido ser convertida em dias para a contagem da detração da pena.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
