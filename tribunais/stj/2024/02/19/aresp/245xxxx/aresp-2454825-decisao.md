@@ -1,0 +1,35 @@
+DECISÃO
+MATHEUS PRADO RAMOS e BRUNO EDUARDO DE SOUZA agravam de decisão que inadmitiu o recurso especial por eles interposto, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0002600-09.2017.8.26.0548.
+Os agravantes foram condenados, como incursos no art. 157, § 2º, I e II, c/c o art. 14, II, ambos do Código Penal, igualmente, cada um, à sanção de 4 anos, 10 meses e 20 dias de reclusão, mais 11 dias-multa, no regime inicial fechado, o que foi mantido em apelação.
+No AREsp n. 1.805.041/SP, esta Corte alterou ambas as penas, cada uma, para 4 anos e 8 meses de reclusão, mais 12 dias-multa, no regime inicial fechado, e determinou que o Tribunal de origem procedesse à análise da possibilidade de detração do alegado período de aprisionamento provisório dos réus, com eventual repercussão no regime inicial de cumprimento de pena.
+Foi proferido novo acórdão, em que o Tribunal local entendeu ser incabível a incidência da detração.
+Nas razões do recurso especial, a defesa apontou violação do art. 387, § 2º, do Código Penal, sob o argumento de que o instituto descrito no referido dispositivo legal não foi aplicado pelo Colegiado estadual, que o confundiu com a progressão de regime. Afirmou que, "para a fixação de regime inicial de cumprimento de pena, fato é que o lapso da prisão provisória deveria ter sido reconhecido por meio da respeitável sentença" (fl. 864), o que não ocorreu.
+Requereu a mitigação do regime prisional por meio da aplicação da detração penal.
+Apresentadas as contrarrazões (fls. 881-895), o recurso foi inadmitido na origem (fls. 897-898), o que deu causa à interposição deste agravo (fls. 901-909).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (fls. 928-933).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões por que comporta conhecimento.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito da controvérsia.
+O Tribunal a quo assim se manifestou acerca da detração penal (fls. 851-852):
+Necessária, enfim e por determinação daquela Corte, a reavaliação da aplicabilidade, "in casu", da detração.
+Que não se demonstra recomendável.
+Afinal, trata-se de instituto afeto à sede executória, onde, oportuna e eventualmente, serão realizados os cálculos para aplicação de benefícios possíveis, que demandam ainda análise de critérios subjetivos, que aqui se verificam nefastos, com personalidades que colocam a vítima em seríssimo risco de morte.
+Ou seja, os elementos presentes nesta sede demonstram personalidades desajustadas, cuja prática de crime gravíssimo, com disparo de arma de fogo e abordagem violenta, evidencia que o requisito subjetivo para a progressão não se encontra preenchido.
+De outro turno, aquilatar-se, neste momento, após cerca de 3 anos do v. acórdão original, f 591/605, seria usurpar a competência do Juízo da Execução, que certamente já acompanha todo o processo de reeducação dos acusados.
+Não se sabe, sequer, se há cometimento de novo delito ou se há progressão obtida, ou mesmo se há prática de falta grave.
+Analisando-se as circunstâncias, portanto, adstritas ao que é pertinente à fixação do regime inicial de cumprimento de pena, tem-se que os elementos dos autos demonstram impossibilitada a detração.
+Afinal, o Direito não é meramente matemático, sobretudo quando se trata de avaliar progressão de regime, momento no qual importa efetivamente o atingimento do requisito subjetivo.
+E pelos elementos ora presentes, vê-se que não preenchidos, mantendo-se o regime inicial de cumprimento de pena como o fechado, que foi entendido como razoável e bem aplicado pelo c. Superior Tribunal de Justiça.
+Nos termos do art. 387, § 2º, do Código de Processo Penal, modificado pela Lei n. 12.736/2012, o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade, o que não se confunde com progressão de regime.
+Deve-se, para a imposição do regime prisional inicial, somente descontar o lapso em que o réu permaneceu segregado cautelarmente, de maneira que o comportamento carcerário do agente e a eventual prática de falta grave no curso da execução penal são irrelevantes para fins de aplicação do § 2º do art. 387 do Código de Processo Penal.
+No caso, identifico a ilegalidade apontada, pois o Tribunal de origem, embora instado por esta Corte a se manifestar sobre a matéria, nos autos do AREsp n. 1.805.041/SP, não procedeu ao decote do período de prisão provisória dos recorrentes, que foram condenados, no âmbito do referido recurso, a 4 anos, 8 meses e 26 dias de reclusão, no regime inicial fechado. A depender do tempo de segregação, nem sequer mencionado no acórdão, a pena poderia ser conduzida a patamar inferior a 4 anos, hipótese em que, mesmo diante de circunstâncias desfavoráveis, não comportaria o regime fechado, pois os sentenciados não são reincidentes.
+Ademais, de acordo com a jurisprudência deste Superior Tribunal, a verificação da ocorrência de detração penal, em sentença proferida após a vigência da Lei n. 12.736/2012 - como na espécie, em que a decisão foi exarada em 10/9/2018 (fl. 487) -, é matéria afeta ao juízo de conhecimento, sobretudo porque a condenação dos réus não transitou em julgado.
+Nesse sentido:
+ ..
+3. O § 2.º do art. 387 do Código de Processo Penal diz respeito ao regime inicial de cumprimento de pena, razão pela qual, após a inclusão referido dispositivo legal pela Lei n.º 12.736/2012, a competência para examinar, num primeiro momento, a detração penal, passou a ser do Juízo sentenciante.
+4. Habeas corpus, não conhecido. Ordem concedida, de ofício, a fim de determinar ao Magistrado de primeira instância que reavalie o regime inicial de cumprimento de pena à luz do disposto no art. 387, § 2º, do Código Penal.
+(HC n. 357.440/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 18/8/2016, DJe de 29/8/2016.)
+Constato que as instâncias ordinárias fixaram sanção pecuniária de 11 dias-multa. Portanto, não poderia o STJ, em recurso da defesa, tê-la fixado em 12 dias-multa, de modo que houve, no ponto, reformatio in pejus. Por isso, concedo habeas corpus de ofício a fim de reduzir a reprimenda de multa para 11 dias-multa.
+À vista do exposto, conh eço do agravo para dar provimento ao recurso especial a fim de determinar o retorno dos autos ao TJSP, para que aplique a detração penal, nos termos da orientação supra. Concedo habeas corpus de ofício a fim de reduzir a pena pecuniária, de ambos os recorrentes, cada uma, igualmente, para 11 dias-multa.
+Publique-se e intimem-se.
+EMENTA
