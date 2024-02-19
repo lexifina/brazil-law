@@ -1,0 +1,125 @@
+Decisão: Trata-se de habeas corpus impetrado em face de acórdão proferido no âmbito do STJ, que restou assim ementado (eDOC 6):
+
+     AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. ATENUANTE. CONFISSÃO. REDUÇÃO DA PENA INTERMEDIÁRIA EM PATAMAR INFERIOR A 1/6. POSSIBILIDADE. CONFISSÃO PARCIAL. DISCUSSÃO ACERCA DA INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. INDEVIDA REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO. 1. O ordenamento jurídico não estabelece um critério matemático para a majoração da pena, na segunda fase da dosimetria, tampouco as circunstâncias agravantes ou atenuantes denotam qualquer baliza objetiva nesse sentido. Apenas previu o legislador que a incidência daquelas hipóteses sempre alteraria a reprimenda, agravando-a ou atenuando-a. Na hipótese, o Tribunal a quo reduziu a pena em patamar inferior a 1/6 pela confissão levando em consideração, sobretudo, o fato de ela ter sido parcial. Assim, não resta demonstrada flagrante ilegalidade a ser sanada por esta Corte. Precedentes. 2. O pedido de aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 foi anteriormente submetido à apreciação desta Corte no HC n. 795.78/3/SP. Cuida-se, portanto, de indevida reiteração de pedido. 3. Agravo regimental desprovido. Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 33, caput, da Lei de Drogas.
+
+     Requer, liminarmente, a suspensão do acórdão proferido nos autos n.º 0002384-64.2021.8.22.0501, que tramita perante a Vara de Delitos de Tóxicos da Comarca de Porto Velho – RO, até o julgamento de mérito deste habeas corpus, com a determinação de expedição de alvará de soltura. No mérito, pede o reconhecimento da violação dos arts. 59 e 65, III, “d”, do CP e arts. 42 e 33, §4º, da Lei 11.343/2006; a retificação do quantum utilizado na primeira e segunda fase da dosimetria da pena; a aplicação da causa de diminuição de pena do art. 33, §4º, da Lei 11.343/2006, na fração de 2/3, bem como os reflexos legais no que toca ao regime prisional e ao art. 44 do CP. Subsidiariamente, pugna pela concessão, de ofício, da ordem de habeas corpus.
+
+    A PGR opinou pela denegação da ordem.
+
+    É o relatório. Decido.
+
+    1. A jurisprudência desta Corte é consolidada no sentido de que “o juízo revisional da dosimetria da pena fica circunscrito à motivação (formalmente idônea) de mérito e  à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC nº 69.419/MS, Primeira Turma, da relatoria do Ministro Sepúlveda pertence, DJ de 28/8/92).
+
+    Diante desse limite cognitivo, a revisão da dosimetria não permite incursão no quadro fático-probatório, tampouco a reconstrução da discricionariedade constitucionalmente atribuída às instâncias ordinárias. Quando o assunto consiste em aplicação da pena, a atividade do Supremo Tribunal Federal, em verdade, circunscreve-se “ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 128446, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 15/09/2015).
+
+    No caso concreto, o paciente foi condenado, em primeira instância, pelo crime de tráfico de drogas. A dosagem da pena foi realizada nestes termos (eDOC 3, p. 6/9):
+
+    SALOMÃO SEBOLDE RODRIGUES tem 25 anos e não registra antecedentes criminais.
+
+    Considerando as circunstâncias judiciais ditadas pelo artigo 59 e 68 do Código Penal c/c artigo 42, da Lei n.º 11.343/06, atendendo à culpabilidade(agiu com plena consciência da ilicitude do seu ato e dos malefícios que a droga dissemina na sociedade); antecedentes(não há registro); à conduta social(o acusado comprovou trabalho lícito); aos motivos(ditados pela ganância de obter lucro fácil e imediato, e considerando as peculiaridades do caso concreto, entendo que os motivos são inerentes ao crime, conforme já decidiu o STF ao julgar o HC n º 107.532 - lucro fácil); às circunstâncias (inerentes ao tipo); personalidade (escolheu sobreviver do ilícito, pouco se importando para os malefícios que sua conduta produziria em detrimento da saúde pública, em especial aos jovens que são tragados ao nefasto vício, por ações de traficantes de varejo como no caso em exame); consequências do crime (remontam às circunstâncias do tipo, através da disseminação de droga na sociedade. Conforme já decidiu o STF ao julgar o HC nº 107.605, o efeito disruptivo e desagregador da prática do tráfico de drogas, este associado a um mundo de violência, desespero e morte para as suas vítimas e para as comunidades afetadas, justifica tratamento jurídico mais rigoroso em relação aos agentes por eles responsáveis); comportamento da vítima(a vítima e a própria sociedade, para o crime de tráfico de modo geral, – não incentivou nem contribuiu para a prática do crime, contrariamente, exige pronta e exemplar punição).
+
+    É evidente que, quanto maior a quantidade de droga apreendida, maior potencial lesivo à sociedade, a exigir que a resposta penal seja proporcional ao crime praticado (HC nº 121.389/MS).
+
+    A quantidade e a natureza do entorpecente devem ser valoradas negativamente, tendo em vista que foram apreendidos, conforme laudo toxicológico definitivo, 42,09 KG de COCAÍNA, tratando-se de substância entorpecente classificada entre os psicoanalépticos como substância de alto poder viciante e destrutivo à saúde humana já que atua diretamente na base do Sistema Nervoso Central do usuário.
+
+    Assim sendo, fixo a pena-base em 12 (doze) anos de reclusão e pagamento de 1200 dias-multa, no valor dia de 1/30 (um trigésimo) do salário-mínimo vigente à época dos fatos.
+
+    Na segunda fase, considerando a atenuante da confissão espontânea (parcial), atenuou a pena base em 06 (seis) meses de reclusão e pagamento de 50 dias-multa, dosando a pena intermediária em 11 (onze) anos e 06 (seis) meses de reclusão e pagamento de 1150 dias-multa.
+
+     Não há agravantes.
+
+     No tocante à causa especial de diminuição de pena, registro que não é o caso de aplicação, A propósito, como já decidiu o c. STJ, a "criação da minorante tem suas raízes em questões de política criminal, surgindo como um favor legislativo ao pequeno traficante, ainda não envolvido em maior profundidade com o mundo criminoso, de forma a propiciar-lhe uma oportunidade mais rápida de ressocialização." (REsp 1.329.088/RS).
+
+     No presente caso, com mais razão não se deve aplicar a redutora, visto que o réu efetivamente se dedicava a atividade criminosa. Os fatos praticados destoam do indivíduo que realizava o tráfico eventual de forma eventual.
+
+    Conforme confessado pelos próprios denunciados, houve todo um planejamento prévio para que a droga fosse transportada e chegasse ao seu destino final. ANANIAS confirmou que há duas semanas antes do flagrante, SALOMÃO já tinha lhe procurado com essa finalidade do transporte da droga.
+
+    SALOMÃO e ANANIAS já estavam tão aprofundado e ligado ao tráfico que retirou grande quantidade de entorpecente do fornecedor principal a fim de difundir em Porto Velho/RO. SALOMÃO e ANANIAS buscaram formas de que o transporte se concretizasse tanto é que dissimularam a droga nos demais objetos que transportavam com a caminhonete, sendo tudo isso com a finalidade de passarem despercebidos por eventuais fiscalizações existentes na rodovia já que não mediram esforços e se submeteram a percorrer cerca de 280 quilômetros até Porto Velho/RO para entregar o ilícito.
+
+    De mais a mais, SALOMÃO deixa claro em seu interrogatório judicial que de uma forma ou outra taria a droga para Porto Velho. Disse que ele se não trouxesse a substância na caminhonete, ficaria com a substância (manteria em depósito) até no próximo sábado quando faria o transporte até Porto Velho com seu outro carro.
+
+    Ainda, há outras pessoas ainda não identificadas (mínimo três outras pessoas) nos autos que estão intimamente ligadas as condutas delitivas, ou seja, as pessoas que forneceram a droga para SALOMÃO e ANANIAS transportar, bem como a mulher e o homem que receberiam o ilícito em Porto Velho. Esse fato evidencia a existência um esquema maior destinado ao tráfico de drogas em que eles participavam, demonstrando a dedicação a atividade criminosa.
+
+    Ante a ausência de outras causas modificadoras, torno a pena intermediária em definitiva.
+
+    O Tribunal local deu parcial provimento ao apelo defensivo para aplicar para a atenuante da confissão o quantum equivalente a 1/10 da pena-base, tendo em vista que “a confissão foi parcialmente retratada em juízo”. Eis a ementa do julgado (eDOC 2):
+
+     Apelação Criminal. Tráfico de drogas. Materialidade e autoria comprovadas. Condenação mantida. Pena-base. Recrudescimento. Expressiva quantidade de droga. Manutenção. Confissão parcial. Quantum. Desproporcionalidade. Minorante do §4º do art. 33 da Lei 11.343/06. Requisitos legais não satisfeitos. Circunstâncias indicativas de dedicação a atividades criminosas. Detração penal. Desinfluência no regime prisional. Descabimento. Restituição de coisa apreendida. Direito alheio. Impossibilidade. Ilegitimidade ativa.
+
+     1. Mantém-se a condenação pelo crime de tráfico de drogas quando suficientemente comprovadas a materialidade e a autoria delitiva.
+
+     2. A expressiva quantidade de cocaína (42 quilos) é o suficiente para o recrudescimento da pena-base no patamar de 12 anos de reclusão.
+
+    3. Inviável o reconhecimento da causa de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006 quando há circunstâncias indicativas de que os réus se dedicam a atividades criminosas.
+
+    4. É desnecessário fazimento da detração penal do §2º do art. 387 do CPP quando não houver repercussão na modificação do regime prisional.
+
+    5. Não se conhece o pedido de restituição de coisa apreendida não pertencente ao apelante, carecendo na hipótese de legitimidade recursal.
+
+    Quanto ao aumento da pena-base, as instâncias ordinárias, soberanas quanto à matéria fática, concluíram, de modo fundamentado, que a quantidade e a natureza do entorpecente (42,09 kg de cocaína) recomendavam a fixação da pena-base acima do mínimo legal. Não há ilegalidade nessa conclusão.
+
+    Trata-se, à obviedade, de juízo empreendido à luz das particularidades do caso em apreço desbordam dos elementos ínsitos ao tipo e efetivamente denotam maior reprovabilidade à conduta dos pacientes. Nesse contexto, não cabe à Suprema Corte reanalisar tais aspectos inerentes à discricionariedade afeta à dosimetria da pena.
+
+    Nessa linha:
+
+    Agravo regimental em recurso ordinário em habeas corpus. Penal. Tráfico de drogas (art. 33 da Lei nº 11.343/06). Condenação. Dosimetria. Majoração da pena-base acima do mínimo legal. Violação do princípio da proporcionalidade. Inexistência. Quantidade da droga (34 kg de cocaína). Valoração como circunstância desfavorável. Admissibilidade. Inteligência do art. 42 da Lei nº 11.343/06. Precedentes. Regimental não provido. (RHC 153197 AgR, Relator Dias Toffoli, Segunda Turma, DJe 16.04.2018)
+
+    Tampouco verifico ilegalidade na fração da atenuante aplicada (1/10), tendo em vista que o Tribunal local justificou a escolha em razão do grau de colaboração do paciente no esclarecimento dos fatos imputados. Segundo a Corte, “a confissão foi parcialmente retratada em juízo”. Logo, diante da motivação idônea e do limite cognitivo desta Corte, não há como acolher a pretensão defensiva.
+
+    No que diz respeito à causa de diminuição de pena, o voto vencedor fundamentou o afastamento do benefício nestes termos (eDOC 2 p. 15):
+
+    O § 4º do art. 33 da Lei n. 11.343/2006 dispõe que os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+
+     Com efeito, referida causa especial de diminuição de pena trata-se de política criminal com o objetivo de punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da Lei de Tóxicos.
+
+    No caso dos autos não restaram evidenciadas tais circunstâncias. Aliás, exatamente o contrário. Ora, os apelantes transportavam 41 porções de substâncias entorpecentes, do tipo Cocaína, pesando cerca de 42 kg.
+
+    É certo que, como mencionado pelo relator, a grande quantidade de droga não foi utilizada pelo juiz sentenciante como fundamento para afastar a causa de diminuição, o que obstaria a fundamentação calcada na quantidade de droga apreendida. Contudo, isso se daria apenas se fosse esse o único argumento, o que não é. Vejamos. Conforme a fundamentação expressa na sentença, os autos demonstraram que houve grande organização dos apelantes para a empreitada criminosa, realizaram tratativas semanas antes, transportaram a droga dissimulando nos demais objetos (saco de ração), além da participação de outras pessoas não identificadas.
+
+    Portanto, a meu ver, há circunstâncias indicativas de que os apelantes se dedicam a atividades criminosas, mostrando-se inviável o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+
+    Noto que as instâncias ordinárias concluíram que, quanto aos requisitos do art. 33, §4º, da Lei de Drogas, as circunstâncias do flagrante seriam suficientes para demonstrar a dedicação dos acusados à atividade criminosa. Para tanto, consideraram a quantidade da droga apreendida e o modus operandi.
+
+     Todavia, tais circunstâncias, apesar de suficientes para a configuração do tipo, não bastam para demonstrar o não preenchimento dos vetores previstos no art. 33, §4° da Lei 11.343/2006.
+
+    Com efeito, a jurisprudência desta Suprema Corte é uníssona no sentido de que “para legitimar a não aplicação do redutor é essencial fundamentação corroborada em elementos capazes de afastar um dos requisitos legais, sob pena de desrespeito ao princípio da individualização da pena e de fundamentação das decisões judiciais.” (HC 178.018, Relator Gilmar Mendes, DJe 27.11.2019).
+
+    Nesse contexto, a atual e consolidada jurisprudência do Supremo Tribunal Federal é firme no sentido de que “[a] quantidade e natureza da droga são circunstâncias que, apesar de configurarem elementos determinantes na modulação da causa de diminuição de pena, por si sós, não são aptas a comprovar o envolvimento com o crime organizado ou a dedicação à atividade criminosa.” (HC 152.001 AgR, Relator Ricardo Lwandowski, Redator p/ acórdão Gilmar Mendes, Segunda Turma, DJe 28.11.2019).
+
+    Na mesma linha:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. BIS IN IDEM E AUSÊNCIA DE FUNDAMENTAÇÃO APTA A NEGAR O REDUTOR. ORDEM CONCEDIDA PARA RESTABELECER A SENTENÇA DE PRIMEIRO GRAU. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL. AUSÊNCIA DE ARGUMENTAÇÃO APTA A INFIRMAR A DECISÃO RECORRIDA. PRETENSÃO DE DEVOLUÇÃO DA MATÉRIA AO TRIBUNAL DE ORIGEM PARA REAVALIAÇÃO DA DOSIMETRIA DA PENA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS PARA COMPLEMENTAÇÃO DE FUNDAMENTAÇÃO DEFICIENTE OU ILEGAL. AFASTAMENTO DESMOTIVADO DA CAUSA ESPECIAL DE REDUÇÃO DA PENA. A MERA MENÇÃO À QUANTIDADE E NATUREZA DA DROGA APREENDIDA NÃO SATISFAZ A NECESSIDADE DE MOTIVAÇÃO DAS DECISÕES JUDICIAIS PARA FINS DE NÃO INCIDÊNCIA DO ART. 33, §4º DA LEI 11.343/2006. MANUTENÇÃO DO DECISIUM. AGRAVO REGIMENTAL DESPROVIDO. 1. A excepcional via do habeas corpus não é mecanismo para que, ainda que por via transversa, possibilite-se a complementação de fundamentação deficiente e/ou ilegal. 2. A quantidade e a natureza da droga apreendida não são fatores que, isoladamente, impedem a aplicação da minorante prevista no art. 33, §4º da Lei 11.343/2006. 3. Diversamente do que ocorre na primeira fase da dosimetria da pena, em que a quantidade e qualidade de drogas são vetores legalmente expressos (art. 42 da Lei 11.343/2006) e, portanto, dispensam maiores digressões, a utilização dessa circunstância na terceira fase só é admitida se constituir um indicativo de não preenchimento de algum dos vetores legalmente eligidos. Precedentes. 4. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão agravada. 5. Agravo regimental desprovido.(HC 186909 AgR, de minha relatoria, Segunda Turma, julgado em 08/09/2020, grifei)
+
+    HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. LEI 11.343/2006. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4°, DA LEI 11.343/2006. GRANDE QUANTIDADE DE MACONHA APREENDIDA (132,85 KG). DEDICAÇÃO À ORGANIZAÇÃO CRIMINOSA. NÃO OCORRÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. PACIENTE ABSOLVIDA PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. CONTRADIÇÃO ENTRE OS FUNDAMENTOS. PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO ORDINÁRIO AO QUAL SE DÁ PROVIMENTO EM PARTE. I – A grande quantidade de entorpecente, apesar de não ter sido o único fundamento utilizado para afastar a aplicação do redutor do art. 33, § 4°, da Lei 11.343/2006, foi, isoladamente, utilizado como elemento para presumir-se a participação da paciente em uma organização criminosa e, assim, negar-lhe o direito à minorante. II – A quantidade de drogas não poderia, automaticamente, proporcionar o entendimento de que a paciente faria do tráfico seu meio de vida ou integraria uma organização criminosa. Ausência de fundamentação idônea, apta a justificar o afastamento da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4°, da Lei 11.343/2006. Precedentes. III - É patente a contradição entre os fundamentos expendidos para absolver a paciente da acusação da prática do delito tipificado pelo art. 35 da Lei 11.343/2006 e aqueles utilizados para negar-lhe o direito à minorante constante do art. 33, § 4°, do mesmo diploma legal. Precedentes. IV - Recurso ordinário ao qual se dá provimento, em parte, para reconhecer a incidência da causa de diminuição da pena prevista no art. 33, § 4°, da Lei 11.343/2006, e determinar que o juízo a quo, após definir o patamar de redução, recalcule a pena e proceda ao reexame do regime inicial do cumprimento da sanção e da substituição da pena privativa de liberdade por sanções restritivas de direitos, se preenchidos os requisitos do art. 44 do Código Penal.” (RHC 138.715, Relator Ricardo Lewandowski, Segunda Turma, DJe 09.06.2017)
+
+    Ademais, observo que a condição de mula não é apta a sustentar, isoladamente, a não aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, pois a atuação dos agentes no transporte do entorpecente não leva à automática conclusão de que se dedicam à prática delitiva ou integram organização criminosa:
+
+    HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. APLICAÇÃO. TRANSPORTE DE DROGA. EXAME DAS CIRCUNSTÂNCIAS DA CONDUTA. ATUAÇÃO DA AGENTE SEM INTEGRAR ORGANIZAÇÃO CRIMINOSA. 1. A não aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 pressupõe a demonstração pelo juízo sentenciante da existência de conjunto probatório apto a afastar ao menos um dos critérios porquanto autônomos, descritos no preceito legal: (a) primariedade; (b) bons antecedentes; (c) não dedicação a atividades criminosas; e (d) não integração à organização criminosa. Nesse juízo, não se pode ignorar que a norma em questão tem a clara finalidade de apenar com menor grau de intensidade quem pratica de modo eventual as condutas descritas no art. 33, caput e § 1º, daquele mesmo diploma legal em contraponto ao agente que faz do crime o seu modo de vida, razão pela qual, evidentemente, não estaria apto a usufruir do referido benefício. 2. A atuação da agente no transporte de droga, em atividade denominada mula, por si só, não constitui pressuposto de sua dedicação à prática delitiva ou de seu envolvimento com organização criminosa. Impõe-se, para assim concluir, o exame das circunstâncias da conduta, em observância ao princípio constitucional da individualização da pena (art. 5º, XLVI, da CF). 3. Assim, padece de ilegalidade a decisão do Superior Tribunal de Justiça fundada em premissa de causa e efeito automático, sobretudo se consideradas as premissas fáticas lançadas pela instância ordinária, competente para realizar cognição ampla dos fatos da causa, que revelaram não ser a paciente integrante de organização criminosa ou se dedicar à prática delitiva. 4. Ordem concedida. (HC 131795, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 03/05/2016, PROCESSO ELETRÔNICO DJe-100 DIVULG 16-05-2016 PUBLIC 17-05-2016)
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. § 4º DO ART. 33 DA LEI 11.343/2006. AFASTAMENTO. FUNDAMENTAÇÃO. INIDONEIDADE. “MULA”. ORGANIZAÇÃO CRIMINOSA. PERTENCIMENTO. ATIVIDADES CRIMINOSAS. DEDICAÇÃO. FATOS CONCRETOS. INDICAÇÃO. AUSÊNCIA. PRIVILÉGIO. INCIDÊNCIA. NEGADO PROVIMENTO AO AGRAVO REGIMENTAL, MAS CONCEDIDA A ORDEM EX OFFICIO. 1. A jurisprudência desta Suprema Corte é pacífica quanto à inadequação da via estreita do writ, e mesmo do recurso ordinário, para revisão do processo dosimétrico, em especial porque não permitida incursão no quadro fático-probatório, tampouco a reconstrução da discricionariedade constitucionalmente atribuída às instâncias ordinárias. 2. Quando o assunto consiste em aplicação da pena, a atividade do Supremo Tribunal Federal circunscreve-se ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades (HC 128.446, Relator(a): Min. Teori Zavascki, Segunda Turma, julgado em 15/09/2015). 3. Assim, presentes os demais requisitos, a singela alusão genérica à importância do acusado, como transportador, na estrutura de uma organização criminosa ou uma narrativa própria da atividade nominada de “mula” não preenche o figurino exigido pela ordem constitucional para afastar o reconhecimento do tráfico privilegiado. Imperiosa a indicação de qualquer evento concreto, dentro da cadeia factual, de que o agente efetivamente pertence a organização criminosa ou efetivamente se dedica a atividades criminosas. Precedentes. 4. Negado provimento ao agravo regimental, mas concedida a ordem ex officio, para determinar às instâncias ordinárias que ajustem a reprimenda do agravante, inclusive o regime prisional, com a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006. (RHC 176741, Relatora Cármen Lúcia, Redator p/ acórdão Edson Fachin, DJe 13.08.2020)
+
+    Desse modo, o afastamento do redutor deveria lastrear-se em elementos que comprovassem que o paciente não preenche os requisitos legais para a concessão da referida benesse. Todavia, o julgador limitou-se a fazer referência a meros indícios (relativos à quantidade de droga apreendida, à condição de transportador e ao modo de acondicionamento da droga) para inferir a dedicação a atividades criminosas.
+
+    Com efeito, constatada a motivação inidônea para afastar a causa de diminuição da pena, concluo que a deficiência na fundamentação da dosimetria da reprimenda configura situação de flagrante ilegalidade, especialmente porque não há notícias nos autos de que o paciente possua maus antecedentes e, à míngua de outros elementos probatórios, não há comprovação de que integre organização criminosa ou se dedique à traficância habitualmente.
+
+    Dito isso, não visualizo qualquer argumento ou fundamento hábil a negar a incidência da minorante no maior patamar (2/3).
+
+      Assim, recalculo a dosimetria da pena nestes termos:
+
+    A pena-base foi fixada em 12 anos e e 1200 dias-multa. Na segunda fase, incidiu a diminuição de pena em 1/10, resultando na pena intermediária de 10 anos e 9 meses e 18 dias e 1080 dias-multa. Na terceira fase, aplico a fração de 2/3 relativa à causa de diminuição de pena do art. 33, §4º, da Lei de Drogas, tornando definitiva a pena privativa de liberdade de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão, com amparo no art. 33, §2º, “b” e §3º, do CP, e a pena de multa em 360 dias-multa.
+
+    2. Posto isso, com fulcro no arts. 192 do RISTF, concedo a ordem a fim de aplicar o redutor do art. 33, §4º, da Lei 11.343/2006 na fração de 2/3, tornando definitiva a pena privativa de liberdade de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime semiaberto, e a pena de multa em 360 dias-multa.
+
+    Com fulcro no art. 580 do CPP, estendo os efeitos da ordem ao corréu ANANIAS NEVES DE VASCONCELOS NETO, para aplicar o redutor do art. 33, §4º, da Lei 11.343/2006 na fração de 2/3. Considerando que a sua pena-base foi fixada em 12 anos e e 1200 dias-multa e não houve alteração na segunda fase, torno definitiva a pena privativa de liberdade de 4 (quatro) anos, em regime semiaberto, e 400 dias-multa.
+
+    Comunique-se, com urgência, ao Juízo da causa, bem como ao TJRO e ao STJ, para ciência desta decisão.
+
+    Publique-se. Intime-se.
+
+    Brasília, 19 de fevereiro de 2024.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
