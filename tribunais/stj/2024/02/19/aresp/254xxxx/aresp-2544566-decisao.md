@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ERNANI KLAMT, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/11/2023.
+Concluso ao gabinete em: 09/02/2024.
+Ação: de revisão de contrato.
+Sentença: julgou procedente o pedido do autor/agravante ERNANI KLAMT em desfavor de PORTOCRED S.A. - CREDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL, para limitar os juros remuneratórios à taxa média de mercado praticada no período da contratação; permitiu, ainda, a compensação de crédito e repetição do indébito de forma simples.
+Acórdão: deu provimento ao recurso de apelação da Instituição financeira/agravada, para afastar a limitação dos juros remuneratórios à taxa média, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO CONTRATUAL. O SIMPLES FATO DA TAXA DE JUROS SER ELEVADA NÃO DENOTA ABUSIVIDADE, MORMENTE PORQUE VIGE O PRINCÍPIO DA LIBERDADE DE CONTRATAR, NÃO ESTANDO O MUTUÁRIO ADSTRITO A UMA INSTITUIÇÃO FINANCEIRA. A PRETENSÃO DE DESCONSIDERAÇÃO DAS TAXAS MÁXIMAS ACARRETA A IMPOSSIBILIDADE DE SE OBTER UMA TAXA MÉDIA. A ADOÇÃO DA TAXA MÉDIA DE JUROS DIVULGADA PELO BANCO CENTRAL APENAS SE JUSTIFICA NA HIPÓTESE DE NÃO TEREM SIDO FIXADOS JUROS NO CONTRATO, CIRCUNSTÂNCIA QUE NÃO SE VERIFICA. A FIXAÇÃO DE JUROS REMUNERATÓRIOS SUPERIORES A 12% AO ANO, POR SI SÓ, NÃO INDICA ABUSIVIDADE. INTELIGÊNCIA DA SÚMULA Nº 382 DO STJ. APELO PROVIDO." (e-STJ, fls. 300).
+Embargos de Declaração: opostos pelo agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 50, IV, § 1º, do Código de Defesa do Consumidor, bem como dissídio jurisprudencial. Defende que o acórdão do TJRS está em confronto com o decidido no REsp 1.112.879/PR, julgado em sede recurso repetitivo (Temas 27 e 234 do STJ).
+Argumenta que o contrato possui taxa de juros remuneratórios superior à média de mercado, razão pela qual deve ser reconhecida a abusividade da taxa contratada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da harmonia entre o acórdão recorrido e a jurisprudência do STJ:
+Sobre a abusividade dos juros remuneratórios, o Tribunal de origem fundamentou o seguinte:
+" ..
+No que se refere ao pleito de limitação dos juros à taxa média publicada pelo Banco Central, observo que o simples fato de os juros contratados superarem a taxa média não indica abusividade, pois para que se possa calcular a taxa média há evidente necessidade de que existam taxas diferentes, mínimas e máximas, de modo a se aferir a média.
+A pretensão de desconsideração das taxas máximas acarreta a impossibilidade de se obter qualquer média, pois, ao fim, todas as taxas que superam a mínima serão desconsideradas e substituídas por uma taxa média que nada mais é do que a taxa mínima. Nesse passo, a desconsideração da taxa de juros livremente pactuada nada mais é do que tabelamento de juros, uma vez que o afastamento das taxas máximas acarreta a impossibilidade de se estabelecer o juro médio.
+Assim, a adoção da taxa média de juros divulgada pelo Banco Central apenas se justifica na hipótese de não terem sido fixados juros no empréstimo tomado, como reiteradamente afirmado pelo STJ, conforme julgados a seguir transcritos.
+ ..
+Em verdade a postulação de redução da taxa de juros livremente contratada carece de amparo legal e implica, à toda evidência, interferência do Judiciário na esfera de alçada do Poder Executivo, a quem cabe a formulação de política econômica a ser aplicada a toda economia, sendo a taxa de juros um instrumento dessa política e, como é curial, destinado a ofertar maior ou menor volume de recursos ao mercado de modo a propiciar, entre outras coisas, controle da inflação e do crescimento econômico.
+Observo, por pertinente, que as taxas de juros praticados nos empréstimos efetuados por instituições financeiras consideram, entre outros aspectos, a taxa de juros fixada pelo Banco Central, a existência ou não de garantias, a maior ou menor possibilidade de inadimplemento em face do perfil do mutuário e outras variantes. Assim, o simples fato da taxa ser elevada, em função dos aspectos já citados, não denota abusividade, mormente porque vige o princípio da liberdade de contratar, não estando o mutuário adstrito a uma instituição financeira." (e-STJ, fls. 297-298).
+Com efeito, observa-se que o acórdão recorrido aplicou corretamente a jurisprudência do STJ no sentido de que, para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto (AgInt no AREsp n. 1.942.512/RS, 4ª Turma, DJe de 10/3/2022; AgInt no AREsp n.1.823.166/RS, 4ª Turma, DJe de 24/2/2022; AgInt no REsp n. 1.930.618/RS,3ª Turma, DJe de 27/4/2022; e AgInt no AREsp n. 1.643.166/SP, 3ª Turma, DJe de 27/11/2020).
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais.
+Alterar o decidido no acórdão impugnado, no que se refere à caracterização de abusividade na cobrança de juros remuneratórios, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Logo, o recurso especial não merece provimento.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO parcialmente do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorári os fixados anteriormente em R$ 800,00 (e-STJ fl. 189) para R$ 1.200,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. EMPRÉSTIMO CONSIGNADO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. JUROS REMUNERATÓRIOS. AUSÊNCIA DE ABUSIVIDADE HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de revisão de contrato de empréstimo consignado.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado. Precedente Repetitivo da 2ª Seção.
+4. Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
