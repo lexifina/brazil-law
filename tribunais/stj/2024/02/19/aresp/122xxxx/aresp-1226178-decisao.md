@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por Suely Dolores Freitas contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 325):
+AGRAVO INTERNO (ARTIGO 1.021 DO NOVO CÓDIGO DE PROCESSO CIVIL) EM AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. SISTEMA FINANCEIRO HABITACIONAL. DECISÃO QUE DETERMINA A REMESSA DOS AUTOS À JUSTIÇA FEDERAL. HIPÓTESE NÃO CONTEMPLADA NO ROL TAXATIVO DO ARTIGO 1.015 DA LEI ADJETIVA CIVIL. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta, além da divergência jurisprudencial em torno do art. 1.030, II, do CPC, violação ao art. 1.015, IX, do CPC. Para tanto, sustenta que a CEF não detém interesse na resolução do feito, inexistindo, portanto, a obrigatoriedade de seu ingresso no polo passivo da demanda. Por fim, aduz que o agravo de instrumento é o recurso cabível contra decisão que admitiu a intervenção da CEF como terceiro interessado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não comporta êxito.
+Da leitura do acórdão recorrido, observa-se que a decisão atacada por agravo de instrumento perante o Tribunal a quo "apenas determinou a remessa dos autos à Justiça Federal, para a análise da existência ou não de interesse da Caixa Econômica Federal no processo (fl. 510), ou seja, não importou em admissão de intervenção de terceiro" (fl. 326).
+Nada obstante, nas razões do recurso especial, a parte recorrente alega que "a decisão atacada acolheu expressamente o pedido de intervenção de terceiro formulado nos autos, ainda que, tal decisão tenha ocorrido em caráter provisório e precário, uma vez que ficará pendente de avaliação do magistrado para o qual for distribuída a lide na Justiça Federal" (fl. 372).
+Nesse contexto, observa-se que os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados: Agint no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020; Agint no AREsp 1.419.058/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 19/9/2019 e Agint no AREsp 1.004.149/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 11/6/2018.
+Quanto ao alegado dissídio jurisprudencial em torno da interpretação do art. 1.030, II, do CPC, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
