@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por EQUATORIAL GOIÁS DISTRIBUIDORA DE ENERGIA S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Goiás assim ementado (e-STJ, fl. 575):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. APURAÇÃO DE FRAUDE EM MEDIDOR DE ENERGIA ELÉTRICA. PROVAS UNILATERAIS. INOBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA. INEXIGIBILIDADE DO DÉBITO.
+1 - O procedimento administrativo instaurado pela concessionária de energia elétrica a fim de constatar a existência de fraude no medidor deve submeter-se aos princípios do contraditório e da ampla defesa, o que não ocorreu no caso em questão.
+2 -Verificada que a suposta fraude no relógio medidor foi apurada unilateralmente por meio de Termo de Ocorrência de Irregularidade (TOI), que não se submeteu ao contraditório e à ampla defesa, é forçoso o reconhecimento da nulidade do procedimento adotado e do débito nele apurado. APELAÇÃOCÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 188, I, do CC; 31, IV da Lei n. 8.987/1995; e 2º, 3º, I, e 4º, IV, da Lei n. 9.427/1996.
+Esclareceu que se opôs ao acórdão por declarar a inexigibilidade do débito com base na anulação da apuração de fraude no medidor.
+Afirmou que o requerido deveria ter observado estritamente o que determinava a Resolução n. 414/2010 da Agência Nacional de Energia Elétrica (Aneel), vigente na época do ilícito, respectivamente no que condiz às diretrizes para distribuição do fornecimento de energia e à cobrança pelo referido serviço.
+Frisou que negar que o agravado agiu e age de forma regular, aparada por um direito reconhecido, afastando o ato ilícito, ocasiona desrespeito à cláusula pétrea constitucional de independência e harmonia entre os Poderes.
+Destacou que o aresto vulnera a previsão de legitimidade dos atos administrativos, logo a cobrança deveria ser mantida. Requereu o provimento do recurso especial (e-STJ, fls. 587-601).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 630-640).
+Contraminuta apresentada (e-STJ, fls. 776-782).
+Brevemente relatado, decido.
+O teor dos arts. 188, I, do CC; 31, IV da Lei n. 8.987/1995; e 2º, 3º, I, e 4º, IV, da Lei n. 9.427/1996 não foi objeto de apreciação no julgamento da segunda instância, portanto é hipótese de aplicação das Súmulas 282 e 356/STF.
+Nem ao menos cabe falar em prequestionamento ficto, pois a insurgente não opôs embargos de declaração na segunda instância e, consequentemente, não alegou ofensa ao art. 1.022 do CPC no recurso especial, providência obrigatória segunda o entendimento desta Corte Superior
+A título ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ E SÚMULAS 282 E 356 DO STF. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. ART. 1.025 DO CPC/2015. NECESSIDADE DE PRÉVIA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO E INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015 NAS RAZÕES DO RECURSO ESPECIAL, MESMO EM RELAÇÃO A MATÉRIAS DE ORDEM PÚBLICA. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.852.889/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 4/10/2021, DJe de 7/10/2021.)
+A Corte de origem concluiu pela inexigibilidade da cobrança com suporte na ofensa aos princípios da ampla defesa e contraditório. A prova pericial produzida no medidor de energia elétrica teria sido confeccionada unilateralmente pela concessionária do serviço público, sem participação do suposto devedor, o que não se poderia admitir.
+Veja-se (e-STJ, fls. 577-578):
+No exercício do poder regulamentar, a Agência Nacional de Energia Elétrica emitiu, em 7 de dezembro de 2021, a Resolução nº 1.000/2021, que revogou a Resolução 414/2010, estabelecendo as Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica. Vale ressaltar que, no caso dos autos a legislação aplicável será a Resolução 414/2010 porque a vistoria foi realizada em 15/06/2021.
+Da análise da petição inicial e dos documentos anexados aos autos, verifica-se que a concessionária de energia elétrica alega ser credora do autor/apelado no valor de R$ 33.765,38 (trinta e três mil setecentos e sessenta e cinco reais e trinta e oito centavos), decorrente de irregularidades identificadas no medidor instalado na Unidade Consumidora nº 11767923, no período de 28/01/2021 a 15/06/2021.
+Apesar da requerida/apelante defendera observância de todos os parâmetros estabelecidos após a retirada do medidor e a realização da avaliação, conforme previsto no artigo 129, § 7º, da Resolução 414/2010 da ANEEL (art. 590 da Resolução nº 1.000/21), isso não é comprovado nos autos.
+Ao examinar o processo administrativo instaurado para apurar a suposta irregularidade no medidor de consumo de energia elétrica, especialmente por meio do Termo de Ocorrência e Inspeção (TOI 1031894), verifica-se que à parte autora/apelada não foi dada oportunidade de participar da perícia técnica na unidade de medição.
+Isso fica evidente pelo fato de a concessionária não ter demonstrado que o consumidor ou outro morador da residência acompanhou a vistoria na unidade de consumo, a retirada do medidor e o seu acondicionamento em um invólucro específico para lacração, procedimentos que deveriam ter sido comprovados por meio de recibos ou comprovantes assinados pelos interessados, conforme exigido pela norma que regulamenta o processo administrativo de recuperação de receita.
+Nesse sentido:
+ ..
+Portanto, essa prova foi produzida unilateralmente pela requerida/apelante, sem a participação ou acompanhamento da parte autora/apelada, e não pode ser admitida para o propósito pretendido, sendo considerada ilegítima.
+É importante destacar que a requerida/apelante poderá, caso seja viável, e desde que sejam observados os princípios do contraditório e da ampla defesa, dar andamento ao processo para a apuração de eventual débito.
+A insurgente não atacou esses fundamentos, embora sejam suficientes para a manutenção do aresto. Limita-se a parte a arguir o poder das concessionárias de serviços públicos, não questionando a nulidade da prova unilateral que serviu de suporte à cobrança. Logo, nota-se a incidência do óbice da Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CARÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS APONTADOS NO RECURSO. SÚMULAS 282 E 356/STF. RELEVANTE FUNDAMENTO DO ARESTO NÃO ATACADO ESPECIFICAMENTE. ÓBICE SUMULAR N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
