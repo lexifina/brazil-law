@@ -1,0 +1,20 @@
+DECISÃO
+PAULO CESAR COSTA agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí na Apelação Criminal n. 0000697-86.2019.8.18.0031.
+Nas razões do recurso especial, a defesa aponta a violação do art. 33 do Código Penal, ao argumento de ausência de fundamentação idônea para fixar o regime inicial mais gravoso.
+Requer o provimento do recurso, para que seja fixado o regime aberto.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se parcial provimento do reclamo (fls. 394-397).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o agravante foi condenado à pena de 2 anos de reclusão, em regime fechado, pela prática do delito previsto no art. 155, caput, do Código Penal.
+O Tribunal a quo manteve o modo inicial fechado para o início do cumprimento da reprimenda, sobre a seguinte motivação: "O apelante possui condenações definitivas, justificando imposição e regime inicial mais gravoso. No caso, a Súmula 269 do STJ permite a fixação de regime menos gravoso ao reincidente apenas quando todas as circunstâncias judiciais sejam favoráveis, o que não se adequa ao presente caso" (fl. 283).
+Quanto à almejada modificação do regime inicial, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+No caso, verifico que o réu é primário e a pena-base foi fixada acima do mínimo legal - portanto, há circunstâncias judiciais desfavoráveis - e a reprimenda foi fixada em 2 anos de reclusão, circunstâncias que evidenciam ser o regime inicial semiaberto o mais adeq uado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+Ademais, observo que as instâncias ordinárias não apontaram nenhum elemento dos autos (como modus operandi e indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF.
+Ilustrativamente: "Conquanto a pena imposta ao agravante, primário, tenha sido estabelecida em patamar inferior a 4 anos, o regime semiaberto é o adequado para o cumprimento da pena reclusiva, diante da existência de circunstância judicial desfavorável, que serviu de lastro para elevar a pena-base acima do mínimo legal" (AgRg no AREsp n. 2.314.965/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe de 12/6/2023).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de fixar o regime inicial semiaberto para o início do cumprimento da reprimenda.
+Publique-se e intimem-se.
+EMENTA
