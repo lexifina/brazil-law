@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 83/STJ.
+Sustenta o agravante que a decisão agravada diverge do entendimento desta Corte, buscando afastar o óbice da Súmula n. 83/STJ, ao fundamento de que, caso reconhecida a prática de falta grave no curso da execução, "o próprio Superior Tribunal de Justiça entende que é discricionariedade do juiz sentenciante determinar ou não a perda dos dias remidos" (fl. 103).
+Afirma, ainda, que "o ônus de demonstrar que a questão discutida está pacificada seria do próprio Tribunal que alegou a incidência da Súmula 83/STJ" (fl. 104), o que, segundo afirma, não teria ocorrido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise do mérito.
+Consta dos autos que após o reconhecimento da prática de falta grave, o Juízo executivo deixou de decretar a perda de dias remidos.
+O Ministério Público interpôs agravo em execução, o qual foi parcialmente provido para determinar ao Juiz da Execução Penal que fixe, de modo fundamentado, o patamar para a perda dos dias remidos, nos termos do art. 127 da Lei de Execução Penal.
+Nas razões do especial, interposto com fundamento na alínea a do permissivo constitucional, alega a defesa violação do art. 127 da Lei n. 7.210/84.
+Requer o provimento do recurso, ao fundamento de que a perda dos dias remidos, como decorrência da homologação de falta grave, não constitui obrigatoriedade, mas mera faculdade do julgador.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não provimento recursal.
+Quanto à alegada violação do art. 127 da Lei de execuções penais, verifica-se do acórdão impugnado (fls. 55-59):
+Neste ponto, importante destacar que a jurisprudência do Superior Tribunal de Justiça interpreta como verdadeiro poder-dever do magistrado a aplicação da perda dos dias remidos, ficando apenas a cargo do Juiz a discricionariedade quanto a fração da perda, que deve ser fundamentada e aplicada no limite máximo de 1/3 dos dias remidos.
+ ..
+Em outras palavras, a aplicação da sanção de perda dos dias remidos de até 1/3 (um terço) é obrigatória, não sendo possível seu afastamento pela discricionariedade do Juízo da Execução.
+Sendo, portanto, permitido ao juiz apenas a escolha, observado o disposto no art. 57 da LEP, da fração da perda que terá como limite máximo 1/3 (um terço) dos dias remidos.
+Desta forma, no presente caso, verifica-se que, se por um lado impõe-se a obrigatoriedade deperda dos dias remidos, por outro, se permite a discricionariedade motivada na aplicação da fração, que tem como limite máximo de 1/3 (um terço).
+A jurisprudência afirma que a remição é um benefício submetido à cláusula rebus sic stantibus, ou seja, é um benefício que só vale se as coisas permanecerem do jeito que estão, porque o apenado poderá perder o direito de remir parte dos dias trabalhados caso pratique falta grave, nos termos previsto no art. 127 da LEP.
+Da mesma forma que o Tribunal local, entende o Superior Tribunal de Justiça que, "Quanto à perda dos dias remidos, com o advento da Lei n. 12.433, de 29 de junho de 2011, que alterou a redação do art. 127 da Lei n. 7.210/1984, a prática de falta grave no curso da execução implica perda de até 1/3 (um terço) desses dias, devendo o Juízo das Execuções aplicar a fração cabível à espécie, de forma devidamente fundamentada, sendo a perda dos dias remidos medida impositiva, ficando o juízo de discricionariedade do Julgador circunscrito à fração da perda" (REsp n. 1.960.812/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+A decisão recorrida está em consonância com o entendimento desta Corte Superior (Súmula 83/STJ), uma vez que a discricionariedade prevista no artigo 127 da Lei de Execução Penal não se refere à aplicabilidade ou não da sanção, mas tão somente à fração que incidirá no caso concreto, à luz das circunstâncias ali previstas. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE. TENTATIVA DE FUGA. ESCAVAÇÃO DE TÚNEL E BURACO NA PAREDE QUE INTERLIGAVA AS CELAS. FUNDAMENTAÇÃO CONCRETA. ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS OU RECONHECIMENTO DA EXCLUDENTE DE CULPABILIDADE/INEXIGILIDADE DE CONDUTA DIVERSA. IMPOSSIBILIDADE. NESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PERDA DOS DIAS REMIDOS. SANÇÃO IMPOSITIVA. PODER-DEVER. FRAÇÃO MÁXIMA DE 1/3 ADEQUADA À GRAVIDADE DA FALTA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Diante da prática de falta grave pelo reeducando, a discricionariedade prevista no art. 127 da Lei n. 7.210/84 (Lei de Execução Penal) não se refere à aplicabilidade ou não da sanção da perda dos dias remidos, mas tão somente à fração que incidirá no caso concreto, a ser definida com base na discricionariedade vinculada do julgador, que terá como limite máximo 1/3 (um terço) dos dias remidos. Esta Corte em entendimento consolidado no sentido de que a natureza especialmente grave da falta disciplinar - tentativa de fuga com escavação de túnel de 12 metros de comprimento por um metro de diâmetro, bem como um buraco na parede que interligava as celas - justifica a adoção do percentual máximo de perda dos dias remidos.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no REsp n. 1.798.650/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/2/2021, DJe de 17/2/2021.)
+No mesmo sentido, confiram-se as seguintes decisões monocráticas: AREsp n. 2.450.935, Ministro Ribeiro Dantas, DJe de 28/11/2023; AREsp n. 2.385.194, Ministro Reynaldo Soares da Fonseca, DJe de 20/11/2023 e REsp n. 2.016.569, Ministro Teodoro Silva Santos, DJe de 30/11/2023.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
