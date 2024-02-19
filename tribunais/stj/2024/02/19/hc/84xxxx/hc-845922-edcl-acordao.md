@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Teodoro Silva Santos, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO NÃO CONSTATADA. EXECUÇÃO PENAL. UNIFICAÇÃO. TERMO DE BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de vícios do art. 619 do CPP; é inadmissível quando objetiva apenas a reversão do julgado.
+2. Inexiste a alegada omissão, pois constou no aresto que o condenado descontinuou o resgate das penas e, após a unificação do art. 111 da LEP, a data da última prisão (24/1/2018), e não a do último registro de falta grave (6/8/2014), foi corretamente considerada para o cálculo de futuros benefícios executórios, pois não se pode computar, "como pena efetivamente cumprida, o período em que ele permaneceu em liberdade" (AgRg no HC n. 756.257/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 31/3/2023).
+3. A pretensão da parte é rediscutir a matéria, o que não se admite nos limites dos aclaratórios.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+MARCO SOUSA DOS ANJOS opõe embargos de declaração ao acórdão de fls. 191-195.
+O insurgente assinala que, após a regressão cautelar de regime, não houve decisão definitiva do Juiz da VEC, devendo ser afastado "o registro ocorrido aos 24/1/2018" (fl. 210). Assim, como a "última prisão do Embargante (24/01/2018)  ..  se deu em razão da recaptura" (fl. 211), o período de liberdade deve ser considerado como cumprimento da pena, não interrompida desde 6/8/2014, pois não homologadas outras faltas graves.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO NÃO CONSTATADA. EXECUÇÃO PENAL. UNIFICAÇÃO. TERMO DE BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de vícios do art. 619 do CPP; é inadmissível quando objetiva apenas a reversão do julgado.
+2. Inexiste a alegada omissão, pois constou no aresto que o condenado descontinuou o resgate das penas e, após a unificação do art. 111 da LEP, a data da última prisão (24/1/2018), e não a do último registro de falta grave (6/8/2014), foi corretamente considerada para o cálculo de futuros benefícios executórios, pois não se pode computar, "como pena efetivamente cumprida, o período em que ele permaneceu em liberdade" (AgRg no HC n. 756.257/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 31/3/2023).
+3. A pretensão da parte é rediscutir a matéria, o que não se admite nos limites dos aclaratórios.
+4. Embargos de declaração rejeitados.
+VOTO
+O recurso integrativo é cabível somente nas hipóteses de vícios do art. 619 do CPP; é inadmissível quando objetiva apenas a reversão do julgado.
+O acórdão da Sexta Turma contém todas as razões que lastreiam a denegação da ordem. A pretensão da parte, em verdade, é rediscutir a matéria, o que não se admite nos limites dos aclaratórios.
+Constou do aresto que, segundo a jurisprudência, na oportunidade da unificação do art. 111 da LEP, a data da última prisão ou da última falta grave (um ou outro) é o marco para a concessão de benefícios.
+Incidiu a primeira hipótese. Como o condenado não estava recolhido à prisão desde 6/8/2014 e houve descontinuação do encarceramento, o momento da recaptura (24/1/2018) é o marco de benefícios incidentes sobre o restante da pena a cumprir. As alegações sobre regressão cautelar e falta de homologação de outras faltas graves (fuga e prática de novo crime), é irrelevante ao tema decidido.
+A controvérsia foi enfrentada e decidida no aresto embargado, ausente a alegada omissão. Confira-se:
+O apenado se insurge contra o cálculo de benefícios. Assinala que, em 24/1/2018, momento de sua última prisão, "foi recapturado da fuga da Colônia (art. 50, I, LEP) e preso em flagrante pela prática de fato previsto como crime doloso (art. 52, LEP)". Contudo, essa data não pode ser considerada para fins de concessão de novos benefícios no curso da execução unificada, ante a inexistência de regressão de regime. Assim, o último registro de falta grave, em 6/8/2014, deve ser a data-base da progressão e de outros direitos executórios.
+Em acréscimo, explica que não houve oitiva prévia do reeducando para a regressão cautelar de regime, por ocasião da fuga, nem homologação da falta grave.
+Pede a concessão da ordem, a fim de que conste como termo inicial para a concessão de benefícios a data da falta grave devidamente homologada, 6/8/2014, e não a data da sua última prisão, 24/1/2018.
+ ..
+Mantenho a denegação do habeas corpus. A controvérsia deste autos não está relacionada à interrupção da data-base da progressão de regime em razão da prática de falta grave. Por isso, não se discute a regressão cautelar ou a existência de PAD, audiência de justificação ou aproveitamento de sentença condenatória para a homologação do ato de indisciplina. A matéria versa sobre a descontinuação do resgate das penas, superveniência de nova condenação e unificação do art. 111 da LEP, quando se fixou a data da última prisão como marco para cálculos de benefícios da execução unificada, considerada a pena a cumprir após o retorno ao cárcere.
+O apenado foi condenado a 76 anos de reclusão. A defesa busca a consideração do dia 6/8/2014 (última falta grave homologada) como data-base de benefícios.  ..
+ ..  as instâncias ordinárias consideraram o dia 24/1/2018 como termo de benefícios, pois esse foi o momento da última prisão do sentenciado para cumprir as penas restantes. De modo empírico, existe uma constatação fática de que o condenado não estava recolhido à prisão, resgatando o tempo necessário para progredir de regime.  ..
+O colegiado já manifestou o entendimento de que "a data da última prisão deve ser considerada para fins de concessão de novos benefícios no curso da execução" (AgRg no HC n. 794.951/PR, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 31/5/2023, destaquei).
+A "data da última prisão ou da última infração disciplinar grave é o marco interruptivo para a concessão de benefícios" (AgRg no HC n. 760.156/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 20/4/2023, grifei).
+O mesmo entendimento é manifestado, inclusive, na hipótese de preso beneficiado com a liberdade provisória, quando não há registro de falta grave: "a data-base para fins de concessão de benefícios executórios é a data na qual foi realizada a última prisão" (AgRg no HC n. 751.744/GO, Rel. Ministro Jorge Mussi, 5ª T., DJe 16/12/2022, destaquei).
+ ..
+O apenado interrompeu o resgate das penas e, ainda, praticou condutas tipificadas como falta grave. A falta de homologação dos atos de indisciplina (fuga e prática de novo crime) não interfere no tema decidido, pois, "no caso de unificação de penas, ou de crime único, deve ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se proclamar, como pena efetivamente cumprida,o período em que ele permaneceu em liberdade" (AgRg no HC n. 756.257/GO, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 31/3/2023, grifei).
+À vista do exposto, rejeito os embargos de declaração.
