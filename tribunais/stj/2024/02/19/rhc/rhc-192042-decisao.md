@@ -1,0 +1,8 @@
+DECISÃO
+DIEGO BARBOSA DE REZENDE alega sofrer coação ilegal em face de acórdão do TJMG, que não conheceu do HC n. 1.0000.23.305892-4/000, por ser mera reiteração do "HC n. 1.0000.23.251255-8/000, julgado em 22 de novembro de 2023, com denegação da ordem" (fl. 830).
+A defesa pede a esta Corte a revogação da prisão preventiva, sua substituição por cautelares do art. 319 do CPP ou o recolhimento domiciliar, em virtude das condições de saúde do paciente (diabetes mellitus tipo 1 e B).
+Este recurso ordinário reproduz as mesmas alegações deduzidas no HC n. 872.202/MG (falta de fundamentação da prisão preventiva, suficiência de cautelares do art. 319 do CPP em de condições pessoais favoráveis e situação de saúde do apenado, portador de diabetes). Todavia, os pedidos de liberdade provisória, ainda que mediante fixação de cautelares alternativas, ou de deferimento de prisão domiciliar foram denegados no âmbito desta Corte. Assim, nos "termos do art. 210 do RISTJ, o habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ" (AgRg nos EDcl no HC 722.511/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 29/4/2022).
+Deveras: "Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)" (AgRg no RHC n. 161.259/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023).
+À vista do exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
