@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por DAVID RICARDO GUSS e VANESSA COIMBRA DO NASCIMENTO contra a decisão de fls. 182-183 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O recurso especial foi deduzido com base no art. 105, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 56, e-STJ):
+AGRAVO DE INSTRUMENTO - Usucapião - Decisão interlocutória que reiterou os termos da liminar concedida inicialmente para manutenção da agravada na posse dos bens que pretende a declaração de domínio - É fato que a agravada se encontra na posse do imóvel desde há muitos anos (trinta anos) - Origem da posse que se mostra controvertida - Matéria complexa, que depende da devida instrução probatória - Decisão mantida - RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 151-154, e-STJ).
+Nas razões do recurso especial (fls. 65-88, e-STJ), os recorrentes alegaram que o acórdão impugnado incorreu em violação dos arts. 5º, XXII, da Constituição Federal de 1988; 487, 497, 1.198, 1.208, 1.231, 1.245, 1.246 e 1.247 do Código Civil de 2002.
+Sustentaram, em suma, que as provas constantes dos autos demonstram o preenchimento dos requisitos para propiciar a aquisição da propriedade por usucapião.
+Em juízo de admissibilidade (fls. 182-183, e-STJ), a corte de origem negou o processamento do recurso especial ante a aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido.
+Irresignados (fls. 186-199, e-STJ), aduzem os agravantes que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 202-207 (e-STJ).
+Em parecer de fls. 230-232 (e-STJ), o Ministério Público federal manifestou-se pelo desprovimento do recurso.
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à suposta violação de normas constitucionais, salienta-se que o recurso especial não é a via própria para a resolução de tal controvérsia, pois a análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Carta Magna.
+Revela-se, portanto, inviável o exame de ofensa aos dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+Da leitura do acórdão recorrido, observa-se que o conteúdo normativo dos arts. 487, 497, 1.198, 1.208, 1.231, 1.245, 1.246 e 1.247 do Código Civil de 2002 não foi debatido pela corte estadual, carecendo portanto do necessário prequestionamento viabilizador do recurso especial. Inafastável a incidência da Súmula 211/STJ.
+Verifica-se que, apesar da oposição dos embargos de declaração pelo recorrente, de modo a viabilizar o requisito do prequestionamento, necessário ao conhecimento do recurso, o Tribunal de origem não decidiu acerca do dispositivo, incidindo, assim, a Súmula 211 desta Corte Superior.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PEDIDO DE REMOÇÃO DE CONTEÚDOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA. ARTS. 54 E 55 DO CPC. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. DESNECESSIDADE DE PEDIDO. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, não obstante a oposição de embargos declaratórios, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do STJ.
+3. A ausência de indicação do dispositivo de lei com interpretação divergente por outros tribunais inviabiliza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal. Incidência da Súmula 284 do STF.
+4. "Conforme entendimento firmado pela Segunda Seção do STJ, a majoração dos honorários advocatícios, em sede recursal, independe de pedido da parte, não configurando reformatio in pejus ou julgamento extra petita" (AgInt no REsp 1.922.403/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 6/3/2023, DJe de 13/3/2023).
+5. Agravo interno desprovido (AgInt nos EDcl no REsp n. 1.806.722/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Na hipótese ora em análise, o Tribunal de origem ao dirimir a controvérsia, assim consignou (fls. 57-58, e-STJ, sem grifos no original):
+Depreende-se dos autos que a ora agravada ajuizou a ação de usucapião buscando a declaração de domínio dos dois imóveis situados na Rua Oscar Pereira dos Santos, nº 39, lote 07 e 08, quadra 07, que o agravante alega ser de sua propriedade.
+Segundo narrativa do agravante (réu na ação de usucapião), a relação havida entre as partes é de comodato verbal, tanto que realizou diversos pagamentos pelos serviços prestados nos imóveis desde então, sempre pagaram os respectivos impostos, sem nunca abandonar o bem.
+Alega ainda que a residência da agravada é na casa vizinha, onde trabalha como caseira e que utiliza os imóveis para fins comerciais, para venda de botijões de gás. Aponta a venda do terreno n. 8 à terceira, anterior a distribuição da ação de usucapião, sendo que a liminar concedida impedirá o exercício da propriedade pela nova proprietária.
+Em razão do acima exposto, pretende seja revogada a liminar de manutenção da agravada na posse dos imóveis.
+De outro lado, a agravada sustenta o exercício da posse, há mais de trinta anos, de forma mansa, pacífica, pública, contínua e de boa-fé, como se dona fosse, exercendo atividade comercial, o que motivou a ação em debate (de usucapião)
+(..)
+Como dito em análise inicial, observa-se que a agravada (autora da ação principal) se encontra, reconhecidamente, na posse do bem objeto do litígio desde 1984, restando controversa a origem da posse.
+Segundo se infere das alegações da agravada, os pagamentos citados pelo agravante, foram realizados por seu genitor, e em razão de relacionamento amoroso então havido, o que não desqualificaria sua posse para a usucapião.
+Logo, mostra-se controvertida a origem da posse da agravada, o que depende do efetivo contraditório e ampla defesa, bem como da devida instrução probatória.
+Nestas condições em que necessária a ampla investigação probatória, há necessidade de maiores esclarecimentos, razão pela qual fica mantida a decisão agravada.
+Eventual prejuízo que venha sofrer o agravante que poderá, se o caso, ser resolvido por perdas e danos.
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO ao recurso.
+Dessa forma, reverter a conclusão do acórdão recorrido - acerca de que a posse sob análise mostra-se controvertida, e por isso, depende do efetivo contraditório e ampla defesa, bem como da devida instrução probatória - para assim acolher a pretensão recursal, nos moldes em que requerida demandaria, o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE USUCAPIÃO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
