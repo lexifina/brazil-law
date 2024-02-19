@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por Marli Terezinha Gonçalves dos Reis Vieira e outras, com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pela Segunda Turma do TRF da 1ª Região que negou provimento à apelação da União Federal, deu provimento à apelação dos autores e deu parcial provimento à remessa oficial (fls. 136-143).
+A Turma julgadora rejeitou os embargos de declaração da União Federal e acolheu os embargos de declaração dos autores para, sanando o vicio apontado, afastar a prescrição quinquenal. Julgou extinto "o processo sem resolução do mérito em relação aos autores Maria Marlene Soares, Maria Virgínia Alves Machado, Mariângela Cezario de Souza, Maria Regina Soares Santos, Marinalva Ruas Dieguez, Marli Terezinha Gonçalves dos Reis Vieira, Marluiz Lacerda e Marilia Fernandes Pato Magalhães, em razão da perda superveniente do interesse de agir, tendo em vista o pagamento administrativo das diferenças do reajuste de 11,98% após o ajuizamento da ação". (fls. 212-219).
+Contra o referido acórdão houve as autoras opuseram novos embargos de declaração, os quais foram rejeitados (fls. 223-227).
+As recorrentes em suas razões argumentam, em síntese, que o acórdão recorrido "criou obstáculo à correta aplicação da legislação federal (CF, art. 105, III, "a") ao violar o art. 85, §10, do CPC/2015" (fl. 294).
+Defendem que foi a União quem deu causa ao ajuizamento da ação, devendo ser condenada nos honorários advocatícios, a teor do disposto no art. 85, §10, do CPC/2015".
+Requerem, ao final, o provimento do recurso, para condenar a União ao pagamento dos honorários advocatícios "tendo em vista o principio da causalidade".
+Contrarrazões às fls. 301-309.
+Decisão de admissibilidade às fls. 32-321.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Tem-se que o recurso não merece ser conhecido. Vejamos.
+No caso, em sede de segundos embargos de declaração, as recorrente sustentaram omissão, relativamente aos honorários advocatícios.
+A Turma julgadora rejeitou os referidos embargos declaratórios ao fundamento de que "o que pretende a parte embargante é a revisão do que foi julgado pela Turma, no que diz respeito ao mérito da pretensão, que não pode ser modificado por meio de embargos declaratórios" (fl. 286).
+Dessa forma, no que diz respeito ao art. 85, §10, do CPC/2015 e a tese a ele vinculada, segundo o qual "quem deu causa ao ajuizamento da ação, devendo ser condenada nos honorários advocatícios", verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Com efeito, "a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ" (AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.).
+Por fim, cabe estabelecer que, na espécie, a tese do princípio da causalidade só foi trazida em sede de segundos embargos de declaração. No ponto, diga-se que esta Corte Superior tem reiteradamente decidido no sentido de que a argumentação trazida somente por ocasião do manejo dos embargos de declaração caracteriza indevida inovação recursal e impede o conhecimento da insurgência, tendo em vista a ocorrência da preclusão consumativa (v.g.: EDcl no AgInt no AREsp n. 2.302.529/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ.
