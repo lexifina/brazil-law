@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por GRUPO HOSPITALAR DO RIO DE JANEIRO LTDA. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação nos autos da ação de obrigação de fazer cumulada com indenizatória e pedido de tutela de urgência.
+O acórdão foi assim ementado (fl. 524):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. AUTORA PORTADORA DE PANCITOPENIA COM BICITOPENIA GRAVE. INDICAÇÃO DO USO REGULAR DO MEDICAMENTO REVOLADE 25MG. NEGATIVA PELA SEGURADORA. MEDICAÇÃO NECESSÁRIA PARA A SAÚDE DA AUTORA, QUE FICARA INTERNADA POR MAIS DE 90 (NOVENTA) DIAS, COM RISCO DE VIDA. LAUDO MÉDICO ACOSTADO À INICIAL. SENTENÇA DE PROCEDÊNCIA QUE CONDENOU A RÉ AO FORNECIMENTO DO FÁRMACO, BEM COMO AO PAGAMENTO DE DANOS MORAIS NO IMPORTE DE R$ 5.000,00 (CINCO MIL REAIS), COM CORREÇÃO MONETÁRIA DA SENTENÇA E JUROS DE MORA DA CITAÇÃO, SEM PREJUÍZO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS DE 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO. OPERADORA QUE PRETENDE A REFORMA DO JULGADO, COM A IMPROCEDÊNCIA DOS PEDIDOS OU, SUBSIDIARIMENTE, A REDUÇÃO DOS DANOS MORAIS. ROL DE PROCEDIMENTOS DA ANS QUE É EXEMPLIFICATIVO, DE ACORDO COM A LEI Nº 14.454/2022, QUE ALTEROU A LEI Nº 9.656/1998. OBRIGAÇÃO DE A OPERADORA DE PLANO DE SAÚDE FORNECER O FÁRMACO PRESCRITO PELO MÉDICO ASSISTENTE. DANOS MORAIS QUE NÃO MERECEM REDUÇÃO. ENUNCIADO DE SÚMULA Nº 343 DO TJRJ. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido ofendeu os arts. 10, § 4º, da Lei n. 9.656/1998 e 4º, III, da Lei n. 9.961/2000.
+Defende que não pode ser compelida a arcar com a cobertura do tratamento indicado a recorrida (medicamento Revolade 25 MG ), visto que não há previsão contratual nem previsão no rol da ANS, além de ser o referido medicamento para uso domiciliar.
+Pondera que a ampliação de direitos não previstos em contrato e rol da ANS prejudicará a solvabilidade e liquidez do contrato de plano de saúde.
+Aduz que o acórdão recorrido, ao considerar que o rol da ANS seria exemplificativo e não taxativo, divergiu do recente entendimento do STJ a respeito da taxatividade do rol, contrariando também o art. 489, § 1º, IV, do CPC.
+Requer seja o recurso especial provido ante as violações demonstradas e a ocorrência de divergência jurisprudencial.
+Admitido o apelo extremo (fls. 581-585), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade
+A controvérsia diz respeito à legitimidade da recusa da operadora do plano de saúde de tratamento com o medicamento Revolade 25 MG, em caráter domiciliar, para paciente portadora de pancitopenia com bicitopenia grave.
+A Corte estadual (fls. 524-532) reconheceu ser devida a cobertura de tratamento por ser incontroverso a necessidade do tratamento para garantia da saúde e da vida da recorrida.
+Para tanto, considerou que a Lei n. 8.080/1990, visa garantir a aplicabilidade do art. 196 da CF, e que, por isso, normatizou as condições para a promoção, proteção e recuperação da saúde, inclusive prevendo a participação complementar da iniciativa privada no SUS, mediante a formalização de contrato ou convênio. Assim, estando a saúde inserida no grupo dos direito fundamentais, faz-se necessário que as regras tenham aplicação plena e imediata, conforme previsto no art. 5º, § 1º, da CF, sendo, então, lícito ao Poder Judiciário determinar o custeio do tratamento pela operadora de saúde.
+Ressaltou também o acórdão que o médico assistente da recorrida indicou o referido tratamento ante o rico elevado de morte da recorrida por aplasia, devendo o Poder Judiciário preservar os direitos constitucionais, considerando inclusive o embasamento técnico-científico.
+Por fim, concluiu que, havendo previsão contratual para a doença, não é devida a recusa de cobertura do tratamento por não constar do contrato celebrado entre as partes e do rol da ANS.
+No caso, verifica-se que, para reconhecer a obrigação da operadora de saúde de fornecer o medicamento em questão, o colegiado adotou entre as razões de decidir fundamento constitucional. Não obstante, a parte recorrente deixou de interpor recurso extraordinário.
+Dessa forma, a ausência de interposição de recurso extraordinário para impugnar fundamento constitucional suficiente para manter o entendimento do acórdão recorrido quanto à necessidade de cobertura pela operadora do plano de saúde do medicamento indicado obsta o conhecimento do recurso especial diante da incidência da Súmula n. 126 do STJ.
+A propósito: AgInt no AREsp n. 1.406.992/SP, relator Ministro Manoel Erhardt, Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022; e REsp n. 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/6/2020, DJe de 7/8/2020.
+Quanto à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a incidência da Súmula n. 126 do STJ implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS S ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido. (AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020, destaquei.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018, destaquei.)
+Ante o exposto, não conheço do recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
