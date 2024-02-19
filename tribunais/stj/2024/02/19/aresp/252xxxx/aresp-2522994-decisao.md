@@ -1,0 +1,50 @@
+DECISÃO
+RAFAEL DOS SANTOS COUTINHO agrava de decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná (Apelação n. 0005246-83.2017.8.16.0058).
+A defesa sustentou a ilegalidade da busca domiciliar com a consequente absolvição do réu por ausência de materialidade delitiva.
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 369-373, no qual a parte impugna a incidência da Súmula n. 126 do STJ.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 397-401).
+Decido.
+O réu foi condenado a 1 ano de detenção, em regime aberto, mais 10 dias-multa, pela prática do crime previsto no art. 12 da Lei n. 10.826/2003. A reprimenda foi substituída por uma restritiva de direitos.
+No tocante à licitude da busca domiciliar, o Juízo de primeiro grau consignou (fls. 174-175, destaquei):
+Primeiramente, no tocante ao pedido de nulidade da apreensão dos objetos encontrados na casa do réu, sob a alegação que não houve consentimento do acusado para que os policiais adentrassem na residência, tais alegações não merecem prosperar, conforme passo a expor.
+Conforme relatado pelos policiais militares Jefferson Peterson e eles Garcia de Godoy José Aparecido da Silva, estavam atendendo uma situação de roubo e se depararam com uma motocicleta com as mesmas características repassadas pelo Copom, tentaram a abordagem, porém os sujeitos não pararam, chegando em frente à casa do denunciado, ocasião em que abandonaram a motocicleta e adentraram na residência, um dos elementos saiu pelos fundos e o outro conseguiram abordar, inclusive enviaram fotos para a vítima, mas ela não o reconheceu como sendo o autor do roubo(..).
+Pois bem, a entrada na residência em que estava o denunciado ocorreu pelo fato de os policiais estarem em perseguição a dois elementos em uma motocicleta que condiziam com as características repassadas pelo Copom, enquanto eles estavam atendendo uma ocorrência envolvendo um roubo em um mercado.
+Ademais, conforme fora relatado pelos policiais militares, o acusado franqueou a entrada na residência, inclusive acompanhou as buscas, sendo tais, alegações corroboradas pelas informações prestadas pelo réu perante a autoridade policial: "a que estava em sua casa quando lá chegaram policiais militares, os quais estavam atrás de uns piá de moto que tinham praticado um roubo; que viram que dois indivíduos com características semelhantes tinham parado na frente da casa do interrogado e ao serem abordados disseram que estavam indo na residência do autuado, motivo pelo qual foi chamado pelos policiais, todavia o interrogado disse não conhecer aquelas pessoas; que o interrogado é usuário de droga - maconha - desde os 12 anos de idade e concidentemente tinha acabado de fumar um cigarro de maconha e o policial sentiu o odor característicos, motivo pelo qual solicitou franqueamento ao acesso na residência do interrogado (..)".
+Convém ressaltar que consta no seq. 42.3, autorização para busca domiciliar assinada pelo acusado, autorizando a entrada na residência bem como a realização das diligências que forem necessárias, caindo por terra as afirmações da defesa no sentido de que o réu não tinha autorizado as buscas.
+A esse respeito, o Tribunal de origem asseverou (fls. 283-284, grifei):
+A d. Defesa alega a nulidade da busca e apreensão realizada na residência do Réu, por inexistir prova de que ele consentiu com a entrada dos policiais.
+Pois bem. O artigo 5º, inciso XI da Constituição Federal consagra o direito fundamental da pessoa de ter preservada a sua intimidade domiciliar:
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+ ..
+XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;
+Não obstante, havendo consentimento do morador, não há que se falar em violação de domicílio.
+Em que pese a d. Defesa alegar que cabe ao Estado comprovar a legalidade e a voluntariedade do consentimento para o ingresso na residência, observa-se que no presente caso os agentes públicos afirmaram que houve consentimento do Réu.
+Embora os policiais não tenham se recordado se colheram autorização por escrito, nota-se que o policial Jefferson Peterson Garcia de Godoy relatou, em juízo, que a entrada na residência foi consentida, e que em 99% das vezes, fazem um termo formal (mov. 112.1 - 1º Grau).
+Ainda, o policial José Aparecido Silva narrou que o Réu franqueou a entrada dos policiais na casa e, inclusive, os acompanhou, salientando que em todas as ocorrências, tem o zelo de pegar a autorização por escrito (mov. 112.2 - 1º Grau).
+Ademais, durante a fase preliminar, o acusado afirmou que durante a abordagem realizada pela equipe policial a dois indivíduos em frente à sua casa, um dos agentes públicos sentiu cheiro de maconha, motivo pelo qual solicitou franqueamento ao acesso à residência (mov. 1.9 - 1º Grau).
+Aliás, extrai-se do mov. 42.3 dos autos originários, a autorização por escrito para a busca domiciliar que se encontra firmada pelo requerido.
+Desse modo, partindo da aplicação de um juízo de probabilidade consubstanciado na lógica dos standards probatórios, tenho que a prova contida nos autos se revela suficiente a demonstrar a legalidade da busca e apreensão domiciliar.
+Nesse sentido, aliás, já se posicionou esta Câmara em caso semelhante:
+ ..
+Não há que se falar, portanto, em nulidade das provas obtidas a partir de então.
+Nesse contexto, uma vez que havia fundadas razões e teria sido consentida a entrada no imóvel, foi regular o ingresso da polícia no domicílio do acusado, sem autorização judicial.
+Ademais, para considerar o pedido de absolvição do recorrente seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível no recurso especial, consoante a Súmula n. 7 do STJ.
+A propósito:
+ ..
+3. A mitigação do direito fundamental à inviolabilidade de domicílio (art. 5º, XI, da Constituição Federal) só é admitida quando houver autorização judicial ou consentimento do morador ou a hipótese for de flagrante delito.
+4. Agravos regimentais de fls. 87-101 e 102-116 não conhecidos e agravo regimental de fls. 72-86 desprovido.
+(AgRg no HC n. 741.148/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/6/2022, destaquei)
+ ..
+- O Supremo Tribunal Federal definiu, em repercussão geral, que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010). Nessa linha de raciocínio, o ingresso regular em domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio.
+- Ademais, o crime de tráfico de drogas na modalidade atribuída ao ora paciente (guardar ou ter em depósito) possui natureza permanente. Tal fato torna legítima a entrada de policiais em domicílio para fazer cessar a prática do delito, independentemente de mandado judicial, desde que existam elementos suficientes de probabilidade delitiva capazes de demonstrar a ocorrência de situação flagrancial.
+- Pela leitura dos autos, verifica-se que os policiais, em virtude de uma denúncia anônima, dando conta de que o paciente, que já era conhecido da polícia pela mercancia ilícita, estaria realizando a distribuição de drogas no Bairro Planalto, utilizando-se de sua residência como ponto de venda de entorpecentes, diligenciaram até o local e lá, o visualizaram na porta de sua casa, ocasião em que este, ao avistar os policiais empreendeu fuga para o interior do imóvel, razão pela qual os policiais, com a prévia autorização da mãe do paciente que a tudo acompanhou, adentraram a residência mesmo sem autorização judicial, e lá conseguiram apreender além das drogas, petrechos de mercancia, tais como balança de precisão e uma faca com resquícios de entorpecentes.
+- Nesse contexto, em que não houve o ingresso forçado na moradia, visto que este foi franqueado por um de seus moradores, é prescindível um mandado judicial, não existindo a aventada invasão de domicílio a justificar a ilicitude das provas obtidas pela polícia e, tampouco, a inexistência de justa causa para o prosseguimento da persecução criminal, pois, para se negar a ocorrência dos fatos delituosos como delineados, seria necessária, repito, a análise aprofundada de matéria fático-probatória, o que é vedado na via estreita do habeas corpus. Precedentes.
+- Agravo regimental não provido.
+(AgRg no HC n. 742.896/GO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/6/2022, grifei)
+ .. .
+3. Tendo o Tribunal de origem afirmado que "a entrada foi sim franqueada pelo acusado, conforme sustentado em juízo: "que na sua residência apontou para os policiais aonde estava o restante da droga", inexiste constrangimento ilegal a ser sanado.
+4. Agravo regimental improvido.
+(AgRg no HC n. 703.426/GO, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T, julgado em 26/4/2022, DJe 29/4/2022)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
