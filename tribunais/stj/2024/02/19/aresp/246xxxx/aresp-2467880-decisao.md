@@ -1,0 +1,51 @@
+DECISÃO
+TENICIO FABIANO TEIXEIRA NASCIMENTO interpõe agravo contra decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0079.21.004721-71001.
+A defesa alegou a violação dos arts. 187, § 2º, 472, 474, 483, III e § 2º, e 593, III, "d", do CPP.
+Para tanto, afirmou que "a prova produzida judicialmente e consignada no acórdão autoriza a conclusão alcançada pelo Conselho de Sentença no sentido de absolver o recorrente" (fl. 581).
+Assentou que "restou incontroverso no acórdão que, além de testemunhos indiretos obtidos pelos policiais de populares, apenas os relatos das testemunhas Dayane e Shillah respaldaram a conclusão da autoria do crime atribuída ao Recorrente" (fl. 581).
+Destacou que as testemunhas apresentaram várias versões diferentes ao longo do processo e que, em juízo, uma afirmou que, além de não conhecer o réu, ele não tinha as características do agressor, e a outra declarou que não chegou a ver o autor do ataque.
+Asseverou (fl. 581): "Portanto, salienta-se que há elementos robustos nos autos que autorizam a conclusão alcançada pelo Conselho de Sentença. Não há que se falar que a decisão dos jurados se encontra dissociada da prova produzida nos autos, uma vez que está amparada nos elementos acima consignados e registrados no próprio decisum".
+Pleiteou o restabelecimento do veredito absolutório.
+O recurso foi inadmitido pela Corte de origem, pela incidência das Súmulas n. 7 e 83 do STJ.
+O Ministério Público Federal opinou pelo não conhecimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão atacada.
+O recurso especial, entretanto, apesar de interposto no prazo, não merece conhecimento, como se verá.
+Segundo os autos, o réu foi pronunciado por incursão no art. 121, § 2º, IV, do Código Penal.
+Na Sessão Plenária, a defesa sustentou as teses de "negativa de autoria, insuficiência de provas para a condenação e clemência. Subsidiariamente, pediu o decote da qualificadora do recurso dificultador da defesa da vítima. Ao Juiz-Presidente, pediu que, se condenado o acusado, que lhe fosse reconhecida a atenuante da menoridade relativa (ad. 65, 1, do CP)" (fl. 390).
+Os jurados reconheceram a materialidade e a autoria, mas absolveram o acusado ao responderem afirmativamente ao quesito genérico.
+O Parquet estadual apelou à Corte de origem, que, por maioria, deu provimento ao recurso, para anular o veredito popular. Ficou assentado no acórdão, no que interessa, o que se segue (fls. 506-507, grifei):
+Ora, nesse cenário, ausentes outras teses defensivas objetivas que não a negativa de autoria e a insuficiência de prova, e reconhecendo os jurados a materialidade e a autoria do homicídio, mesmo que se admita clemência por parte do Júri, para que o veredicto absolutório não seja considerado arbitrário, em manifesta contrariedade à prova, seria necessário que os autos trouxessem algo no sentido de que a conduta incriminada fosse de alguma forma merecedora da indulgência, o que não ocorre na espécie.
+Ressalte-se que não foi discutida a tese da legítima defesa ou qualquer outra excludente da ilicitude ou de culpabilidade, que pudesse conduzir à absolvição a despeito de reconhecida a autoria delitiva.
+Ressalte-se uma vez mais que na ótica do STJ, que adotamos, permanece "(..) plenamente possível o controle excepcional da decisão absolutória do júri, com o fim de evitar arbitrariedades e em observância ao duplo grau de jurisdição. Entender em sentido contrário exigiria a aceitação de que o conselho de sentença disporia de poder absoluto e peremptório quanto à absolvição do acusado, o que, a meu ver não foi o objetivo do legislador ao introduzir a obrigatoriedade do quesito absolutório genérico, previsto no artigo 483, III, do CPP" (STJ - HC: 313251 RJ201410345586J, Relator: Joel Ilan Paciornik, data de julgamento: 28/2/2018, S3 - 3a Seção, data de publicação: DJe 27/3/2018 RSTJ vol. 250 p. 684).
+No caso em apreço, com a devida vênia, não há nos autos elementos que possam justificar sob o prisma jurídico, processual-penal, o decreto absolutório, que se apresenta, assim, arbitrário, manifestamente contrário à prova dos autos, devendo ser cassado, portanto, para que um novo Conselho de Sentença examine o caso.
+Ante o exposto, conheço do recurso e lhe dou provimento, cassando o veredicto absolutório e determinado que a outro julgamento seja o réu submetido.
+Opostos embargos declaratórios, eles foram rejeitados.
+Os embargos infringentes opostos pela defesa, também foram rejeitados, sob os seguintes argumentos (fl. 569, destaquei):
+In casu, sem sombra de dúvida, os jurados, cotejando ( livremente as provas, deram por comprovadas a materialidade e a autoria delitivas.
+No entanto, ao responderem "sim" ao quesito obrigatório de absolvição, os jurados demonstraram opção por clemência, e é nesse ponto que a decisão não encontra lastro fático mínimo.
+Além de nenhuma tese de excludente de ilicitude ou de culpabilidade ter sido suscitada pela defesa em plenário, não há nos autos qualquer elemento concreto capaz de justificar a clemência requerida e concedida ao autor do fato. Ou seja, não há elementos no processo para se inferir por qual razão os jurados optaram por absolvê-lo, concedendo-lhe tamanha benesse, a clemência, se é que seria essa, de fato, a vontade do julgador popular.
+Portanto, estando a absolvição calcada em intangíveis razões de foro íntimo dos jurados e descolada da moldura fática que envolveu o evento, contrariando as provas dos autos, deve, em conformidade com o votos prevalentes do acórdão embargado, a decisão do Conselho de Sentença ser mesmo cassada, para que nova ausculta, dessa vez definitiva, seja feita ao Juiz natural do caso, para que se obtenha a segurança necessária acerca do efetivo querer do julgador popular.
+Pelo que se vê, o Júri popular, ao responder positivamente ao primeiro e ao segundo quesito, rechaçou as teses defensivas de falta de provas para a condenação e de negativa de autoria. Assim, a absolvição se deu ante o acolhimento do clamor por clemência.
+Nesse contexto, a Corte estadual entendeu que o veredito foi contrário às provas dos autos porque não há nenhum elemento concreto capaz de justificar a clemência dada pelos jurados. Asseverou não existir nenhuma circunstância que indicasse que o acusado fosse merecedor da indulgência concedida.
+A defesa, por sua vez, ao afirmar que a decisão dos jurados está amparada nos elementos do processo, o fez a partir da descrição genérica de alguns testemunhos, sem apontar, contudo, qual seria a circunstância dos autos que justificaria a concessão da clemência ao réu, fundamento pelo qual o colegiado estadual desconstituiu o veredito absolutório.
+Dessa forma, uma vez que as razões defensivas estão dissociadas dos argumentos do acórdão, incide no caso a Súmula n. 284 do STF, a impedir o conhecimento do especial.
+Além disso, embora o insurgente afirme que o reconhecimento da autoria se deu com lastro em depoimentos indiretos, não apontou o dispositivo legal que embasaria essa tese, de modo que, também nesse ponto, é de rigor a aplicação do óbice acima apontado.
+O mesmo enunciado sumular incide ao caso também porque a defesa não indicou o inciso do § 2º do art. 187 do CPP que haveria sido afrontado, bem como não especificou como o acórdão recorrido teria malferido esse artigo e os dispositivos contidos nos arts. 472 (exortação quanto à imparcialidade ao Corpo de Jurados), 474 (interrogatório do réu), 483, III e § 2º (ordem da quesitação), do CPP.
+Portanto, incide na hipótese o óbice da Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+ ..
+2. Caso em que o recorrente deixou de impugnar o fundamento autônomo do acórdão recorrido, estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do STF.
+ ..
+(AgInt no AREsp n. 2.050.268/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.)
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. DESVIO DE RENDAS PÚBLICAS. DECRETO-LEI 201/1967. REVISÃO CRIMINAL. PRETENSÃO DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA 284 DO STJ. PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA PREJUDICADO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL, NÃO PROVIDO. 1. Os embargos de declaração não se prestam ao propósito de reapreciação da causa. Em respeito ao princípio da fungibilidade, o recurso integrativo deve ser recebido como agravo regimental.
+2. O conhecimento do recurso especial interposto com fundamento na alínea "c" do inciso III do art. 105 da Constituição Federal exige a indicação do dispositivo legal que supostamente foi objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284 do STF.
+3. Mantida a decisão que não conheceu do recurso especial, fica prejudicado o pedido incidental de tutela provisória.4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp n. 1.679.473/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/9/2020, DJe de 9/9/2020.)
+ ..
+1. Incide a Súmula 284 do STF, a impedir o conhecimento do recurso especial, no ponto em que alega deficiência da defesa técnica, porquanto a recorrente deixou de indicar, expressamente, qual dispositivo de lei federal teria sido objeto de violação. Igual conclusão se chega para a alegada violação do art. 415, II, do CPP, pois a defesa deixou de apresentar as razões recursais para elucidar de que modo tal violação teria ocorrido.
+ ..
+(REsp n. 1.689.173/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/11/2017, DJe de 26/3/2018.)
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
