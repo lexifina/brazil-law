@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 3ª Vara da Fazenda Pública e Juizado Especial da Fazenda Pública de Blumenau - SC (suscitante) e o Juízo de Direito da 1ª Vara da Fazenda Pública e Acidentes do Trabalho de Blumenau - SC (suscitado), nos autos de liquidação e cumprimento de sentença individual de sentença coletiva proferida nos autos da Ação Civil Pública n. 0138093-28.2006.8.19.0001, que condenou o Estado do Rio de Janeiro ao pagamento de verbas aos servidores públicos substituídos.
+É o relatório. Passo a decidir.
+Com efeito, cabe ao Superior Tribunal de Justiça dirimir conflito negativo de competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, d, da Constituição Federal, o que não se observa no presente feito. Vejamos.
+A Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro deu provimento à apelação do autor para afastar a prescrição declarada na sentença e determinou o retorno dos autos ao Juízo de origem (Juízo da 8ª Vara de Fazenda Pública da Comarca da Capital, Rio de Janeiro) para o seu prosseguimento (fls. 128-152).
+Os embargos de declaração opostos pelo Estado do Rio de Janeiro foram rejeitados (fls. 154-161).
+No Juízo da 3ª Vara da Fazenda Pública da Comarca de Blumenau - SC. requereu-se a sucessão processual ante o óbito do falecido autor (fl. 168, e-STJ).
+O referido juízo reconheceu de ofício (art. 64, §1º do CPC) a sua incompetência para conhecer e julgar a demanda, determinando a remessa dos autos à 1ª Vara da Fazenda Pública e Acidentes do Trabalho de Blumenau - SC (fls. 176-177). Este também reconheceu de ofício (art. 64, §1º do CPC) a sua incompetência para conhecer e julgar a demanda, devolvendo os autos ao Juízo da 3ª Vara da Fazenda Pública e Juizado Especial da Fazenda Pública da comarca de Blumenau (fls. 179-183).
+Finalmente, o Juízo da 3ª Vara da Fazenda Pública da Comarca de Blumenau - SC suscita o presente conflito negativo de competência ao fundamento de que "a pretensão contra o Estado do Rio de Janeiro não pode ser submetida a julgamento pelo Poder Judiciário do Estado de Santa Catarina, porquanto sua jurisdição não alcança outros Entes da Federação, sob pena de violação à autonomia dos demais Estados Federados, bem como ao seu poder de organização de sua Justiça" (fls. 185-189).
+Ante o exposto, declino da competência para o exame do presente Conflito de Competência e determino a remessa dos autos ao Tribunal de Justiça do Estado de Santa Catarina.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZES VINCULADOS AO MESMO TRIBUNAL. INCOMPETÊNCIA DO STJ. REMESSA DOS AUTOS AO TJSC.
