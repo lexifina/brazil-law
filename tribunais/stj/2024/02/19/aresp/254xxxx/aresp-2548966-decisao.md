@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Iraci de Lima de Bastiani, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 613):
+APELAÇÕES CÍVEIS. AÇÕES CONEXAS. COBRANÇA DE SEGURO DE VIDA E ACIDENTES PESSOAIS, CONTRA DUAS SEGURADORAS DIVERSAS. COBERTURA DE INVALIDEZ PERMANENTE POR ACIDENTE. IMPROCEDÊNCIA NA ORIGEM. DOENÇA LABORAL QUE ACOMETE A AUTORA NÃO ENQUADRADA NOS RISCOS COBERTOS PELA APÓLICE. RECURSO DESTA. PRELIMINAR DE NULIDADE DA SENTENÇA. ART. 489, IV, V e VI DO CPC. NÃO OCORRÊNCIA. JULGADOR QUE NÃO ESTÁ OBRIGADO A SE MANIFESTAR SOBRE TODOS OS ARGUMENTOS. DECISÃO QUE ATENDE ÀS PARTICULARIDADES DO CASO E ESTÁ SATISFATORIAMENTE FUNDAMENTADA. PRECEDENTE MENCIONADO QUE APONTA, ESPECIFICAMENTE, A ALTERAÇÃO JURISPRUDENCIAL SOBRE O ASSUNTO. MÉRITO. TENTATIVA DE EQUIPARAR DOENÇA LABORAL A ACIDENTE PESSOAL. IMPOSSIBILIDADE. APLICAÇÃO DO ART. 19 DA LEI 8.213/91. OBSERVÂNCIA DA CIRCULAR SUSEP N. 302/2005 E DA RESOLUÇÃO CNSP N. 117/2004. EXCLUSÃO EXPRESSA NA APÓLICE. RISCOS PREDETERMINADOS. CONTRATOS DE SEGURO QUE DEVEM SER INTERPRETADOS RESTRITIVAMENTE. APLICAÇÃO DO ART. 757 DO CC. PRECEDENTES.
+RECURSOS CONHECIDOS E NÃO PROVIDOS.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente indicou divergência jurisprudencial e afronta aos arts. 2º, 3º, 4º, 6º, 14, 46, 47, 51, IV, § 1º, e 54 do CDC; 19, 20 e 21 da Lei n. 8.213/1991; 166 e 801 do CC; 54, I, II e III, 58, § 1º, 60, 63 e 64 da Resolução n. 117/2004 do CNSP; 97 da Circular n. 302/2005 da SUSEP; e 489, § 1º e seus incisos I e VI, 1.022, I, e 1.026, § 2º, do CPC/2015.
+Relatou: (i) ter ocorrido negativa de prestação jurisdicional; (ii) ser dever da seguradora cientificá-la previamente acerca das condições da apólice; (iii) ser possível a equiparação da doença ocupacional ao acidente de trabalho; (iv) que a seguradora possuiria a obrigação de reparar, ainda que não tenha culpa pela falha no dever de informar; e (v) que deveria ser afastada a multa por litigância de má-fé.
+Contrarrazões às fls. 900-909 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso especial, com base no art. 1.030, I, b, do CPC/2015, em razão dos REsps n. 1.874.811/SC e 1.874.788/SC, julgados sob o rito dos recursos repetitivos, e, no mais, inadmitiu-o, com base na ausência de negativa de prestação jurisdicional, no não cabimento do recurso especial por suposta ofensa a normas infralegais e nos enunciados sumulares n. 7 e 83 do STJ, e 284 do STF.
+Brevemente relatado, decido.
+Conforme acima salientado, foi negado seguimento ao recurso especial, nos termos do art. 1.030, I, b, do CPC/2015, haja vista que a matéria relativa à incumbência do dever de prestar informações prévias ao segurado acerca das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo teria sido decidida na Corte local em conformidade com precedente firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+Assim, não merece conhecimento o presente agravo nesse ponto. Isso porque se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Casa no julgamento do AREsp n. 959.991/RS, desta relatoria, julgado em 16/8/2016 e publicado em 26/8/2016.
+Além disso, dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instância a quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela segunda instância deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO (ART. 1.042, DO CPC/15) PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos do art. 1.030, I, "b", do CPC/15, não cabe a interposição de recurso ao STJ para impugnar ato decisório que denega seguimento ao recurso especial, sob o fundamento de estar o acórdão recorrido em consonância com o entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+ ..
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.917.218/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+No mais, não se revela cognoscível a irresignação deduzida pela alínea c do permissivo constitucional, porquanto a recorrente não demonstrou o dissídio nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Isso porque é assente neste Tribunal que a mera transcrição de ementas e trechos dos votos paradigmas, sem a realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial.
+Sobre o tema, veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+ ..
+2. Não comprovação do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do CPC/15 e do art. 255, § 1º, do RISTJ, ante a ausência de cotejo analítico dos arestos tidos como divergentes, não se revelando a mera transcrição de ementas suficientes para consecução de tal mister.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.010.231/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+É importante ainda esclarecer que não cabe ao STJ apreciar ofensa a enunciado de súmula em recurso especial, uma vez que tal item não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal.
+Esse entendimento inclusive foi consubstanciado com a edição da Súmula 518 desta Corte Superior, que determina: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Confira-se :
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PROCURADOR DE ESTADO. PROMOÇÃO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. INTIMAÇÃO. REGULARIDADE. DECADÊNCIA AFASTADA. DIREITO LÍQUIDO E CERTO. COMPROVAÇÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. ALEGADA VIOLAÇÃO À SÚMULA 266 DO STJ. NÃO CABIMENTO, EM SEDE DE RECURSO ESPECIAL. SÚMULA 518/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Na forma da jurisprudência, "o Recurso Especial não constitui via adequada para a análise de eventual contrariedade a enunciado sumular, por não estar este compreendido na expressão "lei federal" constante da alínea "a" do inciso III do artigo 105 da Constituição Federal. Incidência da Súmula 518/STJ" (STJ, REsp 1.763.952/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 21/11/2018).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 2.080.479/BA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+No que se refere à suposta negativa de prestação jurisdicional, percebe-se que a apontada violação não se sustenta, tendo em vista que o Colegiado estadual examinou, de forma fundamentada, todas as questões necessárias ao deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da ora insurgente.
+Registre-se, oportunamente, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, atendo-se às questões essenciais à sua resolução, o que foi feito no caso.
+A título ilustrativo:
+PROCESSUAL CIVIL. DESVIO DE ENERGIA ELÉTRICA. AUSÊNCIA DE COMPROVAÇÃO DA FRAUDE. INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO APURATÓRIO. NÃO VIOLAÇÃO DOS ARTIGOS 1.022, II, 489, § 1º, II, do CPC/2015. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+2. No tocante ao tema preliminar, não há violação dos arts. 1.022, II, 489, § 1º, II, do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+3. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que ocorreu no caso dos autos. Além disso, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.315.137/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023.)
+Outrossim, observa-se que a segunda instância concluiu "pela impossibilidade de equiparar a doença laboral da parte autora ao conceito de acidente pessoal" (e-STJ, fl. 621).
+O referido entendimento encontra amparo na jurisprudência deste Tribunal, de acordo com a qual, nos contratos de seguro de vida em grupo, não é possível a equiparação entre doença profissional e acidente de trabalho, para fins de recebimento de indenização securitária.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. POSSIBILIDADE DE PREVISÃO CONTRATUAL DE COBERTURA SECURITÁRIA ADICIONAL DE INVALIDEZ FUNCIONAL PERMANENTE E TOTAL POR DOENÇA (IFPD). TESE FIRMADA EM RECURSO REPETITIVO. TEMA 1.068/STJ. IMPOSSIBILIDADE DE EQUIPARAÇÃO DE DOENÇA PROFISSIONAL COM ACIDENTE DE TRABALHO. PRECEDENTES. ACÓRDÃO RECORRIDO EM DESACORDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, nos contratos de seguro de vida em grupo, diante da necessidade de interpretação restritiva das cláusulas do seguro, é inviável a equiparação entre doença profissional e acidente de trabalho, para recebimento de indenização securitária, notadamente quando há exclusão de cobertura da invalidez parcial por doença laboral. Precedentes. Acórdão recorrido em desacordo com o entendimento do Superior Tribunal de Justiça. Decisão de provimento do recurso especial confirmada.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.903.050/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DEVER DE INFORMAÇÃO QUANTO ÀS CONDIÇÕES DA APÓLICE QUE DEVEM SER OBSERVADAS PELA ESTIPULANTE. IMPOSSIBILIDADE DE EQUIPARAÇÃO ENTRE DOENÇA PROFISSIONAL E ACIDENTE PESSOAL. LIMITES DA APÓLICE.
+ ..
+3. A jurisprudência desta Corte orienta que a modalidade de seguro invalidez por acidente pessoal não estende sua cobertura à invalidez por doença. Da mesma forma, a cobertura para Invalidez Funcional Permanente Total por Doença (IFPD) não pode ser acionada quando houver incapacidade decorrente de doença que não cause a perda da existência independente do segurado.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.923.355/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023 - sem grifos no original.)
+Portanto, incide, na espécie, o disposto no enunciado n. 83 da Súmula do STJ.
+Quanto à multa aplicada, constata-se, da leitura das razões dos embargos de declaração, que a ora insurgente pretendia prequestionar as matérias a serem trazidas perante esta Corte de Justiça.
+Dessa forma , não identificado o caráter protelatório dos embargos de declaração ou o abuso em sua oposição, deve ser afastada a sanção aplicada na origem com base no art. 1.026, § 2º, do CPC/2015, conforme orientação consolidada na Súmula n. 98 deste Tribunal: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+A esse respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO FISCAL. VIOLAÇÃO AO ART. 1.022 NÃO CARACTERIZADA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. COMPETÊNCIA DO STJ PARA ANÁLISE DE LEGISLAÇÃO FEDERAL. SÚMULA 518/STJ. MULTA POR RECURSO PROTELATÓRIO. ART. 1.026, §2º DO CPC/15. AUSÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA 98 DO STJ. PRECEDENTES. AGRAVO INTERNO PARCIALMENTE PROVIDO. HISTÓRICO DA DEMANDA.
+ ..
+7. Consoante a jurisprudência do STJ, "afasta-se a multa do art. 1.026, § 2º, do CPC/2015 quando não se caracteriza o intento protelatório na oposição dos embargos de declaração. Súmula 98/STJ." (REsp n. 1.851.463/PR, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 26/5/2023).
+8. No caso dos autos, não há abuso do direito de recorrer, uma vez que o recorrente utilizou apenas um recurso de Embargos de Declaração, no qual se pediu, inclusive, o prequestionamento. Nos termos da Súmula 98 do STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório." Nesse sentido: AgInt no AREsp n. 1.963.819/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 24/5/2023.
+CONCLUSÃO
+9. Agravo Interno parcialmente provido para afastar a multa do art. 1.026, § 2º, do CPC/2015, aplicada pelo Tribunal de origem.
+(AgInt nos EDcl no REsp n. 1.987.563/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2023, DJe de 24/1/2024.)
+Ante o exposto, conheço parcialmente do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe parcial provimento apenas para excluir a condenação ao pagamento da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. 1. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. 2. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. 3. ANÁLISE DE OFENSA A NORMAS INFRALEGAIS. IMPOSSIBILIDADE. SÚMULA 518/STJ. 4. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 5. EQUIPARAÇÃO DE DOENÇA PROFISSIONAL A ACIDENTE DE TRABALHO. INVIABILIDADE. SÚMULA 83/STJ. 6. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO QUE SE IMPÕE. FINALIDADE DE PREQUESTIONAMENTO. SÚMULA 98/STJ. 7. AGRAVO PARCIALMENTE CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
