@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito de competência envolvendo o Juízo de Direito da 2ª Vara de Órfãos e Sucessões de Brasília (DF) e o Juízo de Direito da Vara de Família e Sucessões de Padre Bernardo (GO), para definir o órgão competente para processar e julgar a ação de inventário dos bens deixados por Julia Silva de Souza.
+O Juízo de Direito da 2ª Vara de Órfãos e Sucessões de Brasília, ao qual os autos foram distribuídos inicialmente, declarou-se incompetente para apreciar o pleito ao fundamento de que a autora da herança teve por último domicílio a Cidade de Padre Bernardo (fls. 232-233).
+O Juízo de Direito da Vara de Família e Sucessões de Padre Bernardo, ao qual os autos foram encaminhados, suscitou o presente conflito de competência ao fundamento de que "a falecida realizou longo tratamento médico em Brasília-DF, local onde faleceu, bem como  ..  os imóveis por ela deixados estão localizados em Planaltina-GO, local onde ela também era eleitora" (fls. 393-394). Assim, concluiu ser impossível considerar como local de última residência da falecida a Comarca de Padre Bernardo.
+O Ministério Público Federal manifestou-se pela competência do Juízo de Direito da Vara de Família e Sucessões de Padre Bernardo (fls. 400-403).
+É o relatório. Decido.
+Razão assiste ao MPF, uma vez que este Tribunal consolidou o entendimento de que a competência para o processo sucessório, definida no art. 48 do CPC, é relativa, motivo pelo qual não é cabível a declinação de ofício.
+No entanto, no caso em análise, o declínio não foi de ofício, uma vez que houve prévia manifestação da parte interessada, GILSON, NATHAN e GILMAR, que se habilitaram nos autos e apresentaram contestação, alegando, em preliminar, a incompetência territorial do Juízo de Brasília, o que foi, inclusive, contestado pela inventariante.
+Observa-se ainda que consta da decisão do Juízo suscitado que a própria inventariante, expressamente, declarou que a residência da falecida era em Padre Bernardo. Inexiste, pois, dúvida razoável sobre o local de residência, devendo, na hipótese, regular-se a competência pela regra geral do CPC.
+Na forma do CPC (art. 96), "é competente para processar o inventário o foro do domicílio do autor da herança, somente havendo superfície para outras considerações a esse respeito quando ele não tenha tido domicílio certo" (CC n. 19.334/MG, relator Ministro Sálvio de Figueiredo Teixeira, Segunda Seção, julgado em 28/11/2001, DJ de 25/2/2002), o que não é o caso dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPETÊNCIA. FORO DO DOMICÍLIO DO AUTOR DA HERANÇA. INVENTÁRIO. EXCEÇÃO DE INCOMPETÊNCIA. POSSIBILIDADE. DESLOCAMENTO. QUESTÃO BEM DECIDIDA PELA CORTE ESTADUAL. AGRAVO IMPROVIDO.
+1. A regra do art. 96, II, do CPC/1973 determina que: "o foro do domicílio do autor de herança, no Brasil, é o competente para o inventário, a partilha, a arrecadação, o cumprimento de disposições de última vontade e todas as ações em que o espólio for réu, ainda que o óbito tenha ocorrido no estrangeiro."
+2. Não se trata de duplo domicílio do autor da herança, caso em que a escolha do foro competente se daria pela regra da distribuição. Na hipótese, o de cujus possui um único domicílio, sendo, portanto, o foro deste o c ompetente para a ação.
+3. Agravo interno improvido. (AgInt no AREsp n. 977.407/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/6/2017, DJe de 2/8/2017.)
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da Vara de Família e Sucessões de Padre Bernardo (GO).
+Publique-se. Intimem-se.
+EMENTA
