@@ -1,0 +1,27 @@
+DECISÃO
+BRUNO ALVARENGA PIRES alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500720-21.2022.8.26.0292.
+O paciente foi condenado, como incurso no art. 157, §§ 2º, II, e 2º-A, I, do Código Penal, à sanção de 9 anos e 4 meses de reclusão, no regime fechado, mais 22 dias-multa, o que foi mantido em grau recursal.
+Aduz a defesa ilegalidades na prisão cautelar, por ausência de justa causa, na abordagem policial, durante o flagrante delito, e na realização de busca pessoal. Afirma que não há provas para a condenação do réu. Argumenta que ele não participou do crime ou que teve participação de menor importância. Ressalta que o emprego de arma de fogo não ficou comprovado nos autos.
+Pede a absolvição ou, subsidiariamente, o decote das majorantes aplicadas - emprego de arma de fogo e concurso de agentes - e a incidência do art. 29, § 1º, do CP, com o consequente abrandamento do regime prisional para o semiaberto.
+Negada a liminar, o Ministério Público Federal opinou pelo indeferimento da petição inicial (fls. 73-75).
+Decido.
+I. Supressão de instância
+A tese de ilegalidade da prisão cautelar, por ausência de justa causa, já foi examinada por esta Corte no julgamento do HC n. 763.919/STJ, em 18/12/2023, no qual deneguei a ordem. Assim, não conheço da matéria, observada a mera reiteração de pedido.
+Ademais, não houve nova análise dos requisitos da prisão preventiva no acórdão de apelação, o que impossibilita o exame direto por esta Corte, sob pena de, se assim o fizer, incorrer em indevida supressão de instância.
+De igual modo, as arguições de ilegalidades na abordagem policial e na realização de busca pessoal não foram debatidas pelo Tribunal de origem, razão por que não podem ser avaliadas diretamente por este Superior Tribunal, a fim de evitar a usurpação de competência da instância antecedente.
+II. Concurso de agentes
+O Colegiado estadual, ao manter a aplicação da causa de aumento relativa ao concurso de agentes, destacou o seguinte (fl. 54):
+Portanto, ao contrário do que sustenta a Defesa de Bruno, a autoria do roubo também em relação a este réu, está cabalmente comprovada, seja porque Bruno conduziu o corréu Kauan em seu veículo até o local em que o último efetivamente praticou o roubo; seja porque Bruno aguardou Kauan nas proximidades até a consumação do delito, demostrando seu envolvimento na ação criminosa, especialmente dando cobertura ao corréu; seja porque depois do roubo os dois acusados passaram a circular pelas ruas do bairro, tanto que Bruno novamente apoiou Kauan quando o veículo roubado parou de funcionar, levando-o ao posto de combustível; seja porque há contradições nas declarações de Bruno; seja porque os policiais ouvidos em Juízo confirmaram a dinâmica utilizada pelos acusados, não somente durante a prática do crime, mas também depois da ação criminosa; seja porque o acusado Bruno, único inconformado com a condenação, não trouxe aos autos qualquer prova segura a comprovar suas alegações, sem falar que uma de suas testemunhas de Defesa, o delegado responsável pelas investigações, corroborou a versão acusatória.
+Como se observa, o acórdão apontou expressamente que o paciente conduziu o corréu em seu veículo até o local em que o último efetivamente praticou o roubo.
+O Tribunal a quo, com suporte no conjunto fático-probatório dos autos, concluiu pela relevância da participação do paciente na execução do roubo, em comparsaria com o corréu, com divisão de tarefas. Nesse contexto, incumbiu a Bruno dar cobertura ao executor do crime, pois o conduziu ao local dos fatos e o auxiliou na fuga.
+Portanto, mostra-se inviável o acolhimento das teses de absolvição, de afastamento do concurso de agentes e de participação de menor importância. Alterar a referida conclusão demandaria aprofundamento no material cognitivo do processo, providência obstada na seara estreita do habeas corpus.
+III. Emprego de arma de fogo
+O Tribunal local, ao manter a incidência da majorante do emprego de arma de fogo, registrou que "a vítima informou ter sido assaltada por agente munido com arma de fogo, cabendo destacar ser desnecessária a sua apreensão e submissão à perícia" (fl. 55).
+Nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento do EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma usada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova.
+Vale dizer, nos casos em que não forem possíveis a apreensão e a perícia da arma para a prova do seu efetivo potencial de lesividade, como na hipótese, mostra-se devida a incidência da majorante, quando existirem nos autos elementos de prova que confirmem o seu uso na prática do delito, exatamente como consignado no acórdão, que destacou a prova oral produzida.
+IV. Regime prisional
+Preservadas as majorantes - concurso de agentes e emprego de arma de fogo - e observada a condenação do réu em patamar superior a 8 anos de reclusão, mantenho o regime fechado, nos termos do art. 33, § 2º, "a", do CP.
+V. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se
+EMENTA
