@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de ROBSON LOTT DE ALMEIDA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Autos nº 1.0000.23.325457-2/000 ).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 91):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - PRISÃO EM FLAGRANTE CONVERTIDA EM CUSTÓDIA PREVENTIVA - DECISÃO FUNDAMENTADA- PROVA DA MATERIALIDADE E INDICÍOS SUFICIENTES DA AUTORIA DELITIVA - GARANTIA DA ORDEM PÚBLICA - APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INADEQUAÇÃO - PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E PRISÃO PROCESSUAL - COMPATIBILIDADE - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+1. A decisão que converteu a prisão em flagrante do Paciente em custódia preventiva encontra-se devidamente fundamentada, ancorando-se nos ditames do art. 93, inc. IX, da Constituição Federal, e dos arts. 310, 312 e 313, todos do Código de Processo Penal.
+2. A presença nos autos de prova da materialidade e indícios suficientes da autoria do delito imputado ao Paciente aponta para a necessidade da manutenção da custódia cautelar, especialmente para garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal.
+3. A prisão preventiva se justifica pela presença dos requisitos do art. 312 do Código de Processo Penal, além da aplicação do art. 313, inc. I, do mesmo Diploma Legal, já que o delito em questão é doloso e punido com pena privativa de liberdade máxima superior a quatro (04) anos.
+4. Nos termos do que dispõe o art. 282, Inc. II, do CPP, apenas se torna possível promover a imposição de medidas cautelares diversas da prisão preventiva quando o benefício se revelar suficiente e adequado para resguardar a ordem pública, garantir os atos instrutórios do processo ou assegurar a aplicação da Lei Penal.
+5. A prisão processual não é incompatível com a presunção de inocência e nem impõe ao Paciente uma pena antecipada, porque não deriva do reconhecimento da culpabilidade, mas, sim, de sua periculosidade, seja para a garantia da ordem pública, seja para a futura aplicação da lei penal, razão pela qual não há de se cogitar em violação do mencionado princípio constitucional.
+6. A existência de condições pessoais favoráveis, por si só, não é suficiente para autorizar a concessão da liberdade provisória, já que aquelas devem ser analisadas diante do contexto dos autos.
+A defesa alega, em síntese, ausência dos requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 91/107):
+Examinando os autos, tem-se que o Magistrado Singular, atento aos fatos descritos no Auto de Prisão em Flagrante (f. 20/30  doc. de ordem 5), vislumbrou a existência de indícios de autoria, bem como a materialidade do delito, e, em assim sendo, converteu o flagrante em custódia preventiva, em razão de restar configurado os requisitos ensejadores desta segregação cautelar (art. 312 do Código de Processo Penal). De fato, a materialidade do delito está estampada através do Auto de Prisão em Flagrante (f. 20/30  doc. de ordem 5), do Boletim de Ocorrência (f. 36/46  doc. de ordem 5), do Auto de Apreensão (f. 04/05  doc. de ordem 5) e do Laudo de Eficiência de Arma de Fogo e/ou Munições (f. 17/18  doc. de ordem 5). Quanto aos indícios suficientes de autoria, estes também se mostram presentes. Segundo consta, na data dos fatos, o Paciente Robson Lott de Almeida teria desferido três (03) disparos de arma de fogo em desfavor da vítima E.
+H.
+C., almejando ceifar a sua vida, não logrando êxito em ceifar a por circunstâncias alheias a sua vontade. Verifica-se que, perante a Autoridade Policial, o Paciente confessou a posse de arma de fogo em seu terreno rural e admitiu possuir desavenças com o ofendido.
+Depreende-se, ainda, que na propriedade do Paciente foram apreendidos dois (02) projeteis, duas (02) cápsulas de arma de fogo, um (01) certificado de registro de arma de fogo e uma (01) arma de fogo marca Taurus.
+(..)
+Não bastasse, tal como ressaltado pelo ÓRGÃO MINISTERIAL DE CÚPULA, "A prisão preventiva subsiste também por conveniência da instrução criminal e para a proteção da vitima e de sua familia, uma vez que se tem noticias da confecção de dois boletins de ocorrência anteriores ao presente fato que davam conta de atritos e ameaças envolvendo armas de fogo entre as partes" (sic, f. 05  doc. de ordem 12).
+De fato, a manutenção da prisão preventiva com base em elementos concretos que indicam gravidade que desborda o tipo, aliados a necessidade de garantir a instrução não evidenciam qualquer tipo de contrariedade à jurisprudência desta casa (AgRg no HC 824179 / MG, RELATOR Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), SEXTA TURMA, DATA DO JULGAMENTO 28/08/2023, DATA DA PUBLICAÇÃO/FONTE DJe 30/08/2023)
+Divergir do quadro fático traçado pela instância inferior demandaria amplo revolvimento fático-probatório, providência incompatível com o procedimento do "writ".
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
