@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MICHAEL BATISTA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado de Alagoas.
+Nas razões do pedido, a defesa alega que a prisão temporária do paciente é ilegal, "não se justifica frente ao princípio do nemo tenetur se detegere " (e-STJ fl. 5). Argumenta que se a pessoa não é obrigada a produzir provas contra si, não faz sentido a decretação da prisão do suspeito com o fim de contribuir com a investigação. No mais, sustenta que a prisão preventiva da Paciente que foi decretada pelos mesmos fatos que resultou na concessão da liberdade provisória de outro investigado nos autos do HC 887.640 (e-STJ fl. 7).
+Diante disso, pede a extensão dos efeitos da decisão que deferiu a liminar nos autos do HC 887.640/AL, revogando também a prisão temporária do paciente.
+É o relatório, decido.
+Não há como prosseguir a irresignação.
+Primeiro, porque o writ foi deficitariamente instruído, a defesa sequer juntou o decreto de prisão, apenas um fragmento da decisão. Como é cediço, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Segundo, porque não impetrou prévio habeas corpus de modo a obter um provimento por parte do Tribunal estadual, sendo vedado ao Superior Tribunal o exame direito da alegação. "Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+Terceiro e último, por configurar uma reiteração de pedido. Isso porque a defesa apresentou igual pedido de extensão nos autos do HC 887.640, o qual foi examinado e indeferido. Com efeito, " ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Ministro CELSO DE MELLO, julgado em 20/10/2020, DJe 19/11/2020).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
