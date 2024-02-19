@@ -1,0 +1,53 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0716759-06.2022.8.07.0018RECORRENTE(S)LAURA BEATRIZ DOS SANTOS FERREIRARECORRIDO(S)IBFC - INSTITUTO BRASILEIRO DE FORMACAO E CAPACITACAO e DISTRITO FEDERALRelatorJuiz EDILSON ENEDINO DAS CHAGAS
+ Acórdão Nº1815564
+
+EMENTA
+
+ JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ADMINISTRATIVO. RECURSO INOMINADO. PROCESSO SELETIVO SIMPLIFICADO. NÃO CUMPRIMENTO DOS REQUISITOS PARA OBTER CLASSIFICAÇÃO. CONDUTA ATRIBUÍVEL À CANDIDATA. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. INDENIZAÇÃO NÃO DEVIDA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+I. Trata-se de recurso inominado interposto pela parte autora em face de sentença proferida pelo Juízo do 3º Juizado Especial da Fazenda Pública do DF que julgou improcedente o pedido formulado na inicial. Na origem, a parte autora narra que se inscreveu em Processo Seletivo Simplificado – PPS da Secretaria de Saúde do Distrito Federal para o provimento de vagas de Agente Comunitário de Saúde. Esclarece que o referido processo seletivo envolveria apenas análise curricular, sem aplicação de provas. Relata que fez uma única inscrição para concorrer à vaga destinada a ampla concorrência, sob o número de inscrição 0162468-7. Afirma que fez o pagamento do boleto respectivo. Destaca que encaminhou os documentos necessários exigidos pela parte adversa, via upload. Alega que, ao conferir o resultado preliminar da seleção, verificou não haver registros da inscrição nº 0162468-7, bem como que o número de sua inscrição havia sido alterado para 0159037-6, para o qual não constava registro de upload de nenhum documento. Relata ter apresentado recurso administrativo, mas que este foi indeferido. Requer, na inicial, a condenação dos requeridos em indenização em valor equivalente a 12 (doze) vezes o valor da remuneração ao cargo de Agente Comunitário de Saúde, alegando ter havido preterição.
+
+II. Em suas razões recursais (ID 52256924), a recorrente alega, em síntese, que houve equívoco da banca organizadora recorrida em afirmar que a inscrição que foi paga foi a de número 0159037-5, tendo em vista que a recorrente sustenta que a inscrição paga foi a de número 0162468-7, a mesma em que foi feito o upload dos documentos. Afirma, ainda, que ao presente caso deve ser aplicada a perda de uma chance mitigada, sob o argumento de que se tivesse sua documentação analisada, poderia continuar no certame, sustentando que a situação é anterior à efetiva perda de uma chance, por não ter sequer conseguido seguir adiante na seleção. Requer, por fim, a condenação dos recorridos em indenização pelos danos sofridos e a reforma da sentença combatida.
+
+III. Recurso próprio, tempestivo e dispensado de preparo recursal ante a gratuidade de justiça pleiteada, que ora defiro. Contrarrazões apresentadas (Ids 52256927 e 52256929).
+
+IV. De início, destaque-se que o argumento da recorrente para embasar o pedido de indenização consiste na “perda de uma chance mitigada”, fundamento este que configura inovação recursal. Houve a apresentação de novo fundamento em sede recursal a fim de subsidiar tal pedido. Na peça inicial, o pedido de indenização estava fundamentado em “direito de não ser preterido por ausência de nomeação”. Em tal ocasião, não se aventou a tese de “perda de uma chance mitigada”. É defeso à parte recorrente apresentar novos fundamentos em fase recursal, uma vez que o recurso permite apenas a reapreciação da causa segundo os limites impostos pelo pedido e a causa de pedir constantes da inicial e os fatos e fundamentos impeditivos, modificativos ou desconstitutivos invocados pelo réu em sua resposta. A inovação na presente fase contraria os princípios do contraditório, da ampla defesa e do duplo grau de jurisdição. Assim, a nova fundamentação jurídica no recurso impõe o seu não conhecimento neste ponto. Nesse sentido: Acórdão 1229643, 07064220820198070003, Relator: ALMIR ANDRADE DE FREITAS, Segunda Turma Recursal, data de julgamento: 12/2/2020, publicado no DJE: 18/2/2020. Pág.:  Sem Página Cadastrada; Acórdão 866613, 20140910235804ACJ, Relator: CARLOS ALBERTO MARTINS FILHO, 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, data de julgamento: 12/5/2015, publicado no DJE: 15/5/2015. Pág.: 229
+
+V. Do compulsar dos autos, constata-se que a taxa de inscrição no processo seletivo somente foi paga pela recorrente em relação à inscrição de nº 0159037-5. Ademais, à referida inscrição não foram anexados documentos. Conclui-se ainda que a inscrição de nº 0162468-7 teve documentos cadastrados, porém não analisados, pois a inscrição não foi efetivada. Corrobora com os fatos a documentação colacionada aos presentes autos: imagem da tela informando que não houve cadastro de títulos no site nem envio de documentos para a inscrição de nº 0159037-5 (ID 52256864); imagem da tela informando não haver registro da inscrição de nº 0162468-7 (ID 52256865).
+
+VI. Nesse quadro, não merecem prosperar os pedidos da recorrente. A requerente procedeu ao pagamento do preço de uma inscrição (nº 0159037-5), entretanto, juntou documentação curricular à outra inscrição (nº 0162468-7). É nesse sentido a informação prestada pelo IBFC (ID 52256870): “3º) Pois bem, a candidata, ora assistida, fez 5 (cinco) inscrições para o cargo de Agente Comunitário de Saúde – ACS, quais sejam: 0159037-5, 0159958-5, 0162468-7, 0162773-2 e 0164427-0. 4º) A candidata pagou a correspondente taxa de inscrição somente para a inscrição nº 0159037-5, de maneira que, nos termos das disposições editalícias acima transcritas, esta foi a única inscrição considerada efetivada. 5º) A candidata cadastrou os documentos para análise curricular na inscrição nº 0162468-7, no entanto, também nos termos das disposições editalícias, como esta não foi a inscrição considerada efetivada, os documentos não foram analisados. 6º) Neste passo, considerando que a sua participação no certame se efetivou com a inscrição nº 0159037-5; que não foram cadastrados documentos para análise curricular, a candidata não obteve pontuação.”
+
+VII. Imperioso destacar, ainda, o que dispõe o Edital do processo seletivo: “5.1.9. O candidato que tiver mais de uma inscrição paga e/ou deferida na solicitação da isenção terá somente a última inscrição validada, sendo as demais canceladas.” Assim, de acordo com o edital, será considerada como efetiva a última inscrição para fins de homologação. Portanto, por ter a candidata pago a respectiva taxa somente para a inscrição de nº 0159037-5, esta foi a única considerada efetivada, nos termos do item 5.1.9 do Edital. E, à inscrição homologada, a recorrente não juntou documentação para análise, do que se conclui que não houve pontuação a ela atribuída.
+
+VIII. Ademais, não há argumentos nos autos capazes de corroborar com a tese de que, se houvesse ocorrido a análise da documentação curricular juntada, a recorrente poderia continuar no processo seletivo. Não há argumento nenhum no recurso que aponte para tal possibilidade. O que se constata nos presentes autos é a ocorrência de conduta atribuível à recorrente, que, como já citado, procedeu à inscrição no certame, mas não juntou os documentos necessários à análise curricular, o que culminou em falta de atribuição de pontuação. Assim, não há que se falar em condenação dos recorridos ao pagamento de “indenização pelos danos sofridos pela requerente, tendo em vista sua precoce eliminação do certame”.
+
+IX. Nesse sentido, a pretensão da recorrente de condenação dos requeridos em indenização por danos afronta os princípios da impessoalidade, da isonomia e da vinculação ao edital, uma vez que não cumpriu os requisitos para ser classificada no certame (não apresentou documentação para análise curricular), nem sequer foi aprovada no processo seletivo. Como já abordado na sentença, a tese firmada em repercussão geral no Supremo Tribunal Federal no Tema 671, RE 724.347/DF, aplica-se aos presentes autos, feitas as devidas adaptações (Na hipótese de posse em cargo público determinada por decisão judicial, o servidor não faz jus à indenização sob fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante). Nesse quadro, gera enriquecimento sem causa e ofensa ao princípio da moralidade administrativa o recebimento da correspondente retribuição pecuniária por servidor que não exerceu de fato, e nem de direito, as suas atividades funcionais. O recebimento da remuneração e demais vantagens pelo servidor público tem caráter de contraprestação pelos serviços prestados, ou seja, exige o efetivo exercício no cargo. Assim, no caso em apreço, não há conduta ilícita atribuível aos recorridos, tampouco houve prestação de serviços por parte da recorrente apta a justificar o pagamento de remuneração pelo cargo pretendido, sob pena de implicar enriquecimento sem causa. Portanto, irretocável a sentença. Nesse sentido: Acórdão 1705350, 07317075620228070016, Relator: MARILIA DE AVILA E SILVA SAMPAIO, Segunda Turma Recursal, data de julgamento: 22/5/2023, publicado no PJe: 30/5/2023. Pág.:  Sem Página Cadastrada; Acórdão 1222568, 07067611920198070018, Relator: EDUARDO HENRIQUE ROSAS, Primeira Turma Recursal, data de julgamento: 13/12/2019, publicado no PJe: 6/1/2020. Pág.: Sem Página Cadastrada.
+
+X. Recurso CONHECIDO e NÃO PROVIDO. Sentença mantida. Condeno a parte recorrente vencida ao pagamento das custas e dos honorários advocatícios que fixo em 10% sobre o valor corrigido da causa, contudo, suspendo a exigibilidade na forma do art. 98, § 3º, do CPC, ante a gratuidade de justiça concedida.
+
+XI. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EDILSON ENEDINO DAS CHAGAS - Relator, MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juiza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Fevereiro de 2024
+
+Juiz EDILSON ENEDINO DAS CHAGASRelator
+
+RELATÓRIO
+
+Dispensado, nos termos do art. 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - RelatorDispensado, nos termos do art. 46 da Lei n. 9.099/95.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal Com o relatorA Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME
