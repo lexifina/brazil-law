@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado por Chocolates Garoto Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 703):
+ADMINISTRATIVO, CONSUMIDOR E PROCESSUAL CIVIL. MULTA APLICADA PELO INMETRO. COMPROVAÇÃO DE ENVIO DE COMUNICAÇÃO PARA REALIZAÇÃO DE PERÍCIA. AUSÊNCIA DE NULIDADE DA SENTENÇA. PRODUTO PRÉ-MEDIDO. CABIMENTO. MULTA APLICADA COM PROPORCIONALIDADE.
+- Tendo havido comunicação sobre a realização da perícia, não há que se falar em nulidade do procedimento administrativo.
+- O artigo 9º da Lei n.º 9.933/1999, com redação dada pela Lei nº 12.545/2011, prevê que a multa pode ser arbitrada entre R$ 100,00 (cem reais) até R$ 1.500.000,00 (um milhão e quinhentos mil reais).
+- Na gradação da aplicação da multa, a autoridade deve considerar os fatores descritos nos incisos do§ 1º do artigo 9º da Lei n.º 9.933/1999.
+- É prática abusiva, na forma do inciso VIII do art. 39 do CDC colocar no mercado de consumo "produto ou serviço em desacordo com as normas expedidas pelos órgãos oficiais competentes ou, se normas específicas não existirem, pela Associação Brasileira de Normas Técnicas ou outra entidade credenciada pelo Conselho Nacional de Metrologia, Normalização e Qualidade Industrial - CONMETRO".
+- Cabe ressaltar que não há na legislação norma que preconize a aplicação sucessiva das sanções estabelecidas na Lei nº 9.933/99 e determine que a multa deva ser condicionada à prévia advertência.
+- Apelação não provida.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 26 e ss. da Lei n. 9.784/99 e ao art. 5º, LV, da CF, por não ter sido reconhecido, no acórdão recorrido, vício de nulidade impassível de correção no processo administrativo que culminou em multa imposta pelo INMETRO.
+Alega, em síntese, que a perícia que teria comprovado a irregularidade objeto da inspeção não foi devidamente comunicada aos prepostos da empresa, bem como que houve desrespeito ao prazo mínimo legal garantido à autuada para o comparecimento à diligência.
+Suscita divergência com julgados do Tribunal Regional Federal da 4ª Região e do Tribunal de Justiça de Pernambuco em se concluiu pela nulidade da multa administrativa imposta ante a ausência de documento que comprovasse a ciência do interessado a respeito de diligência.
+Foram ofertadas contrarrazões pela parte contrária às fls. 841/857.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, convém pontuar que, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 5º, LV, da Constituição Federal.
+No que diz respeito aos arts. 26 e ss. da Lei n. 9.784/99, depreende-se do acórdão recorrido que há comprovação da notificação por fac-símile da empresa autuada a respeito da realização da perícia, não se desincumbindo essa de comprovar que o número para o qual fora destinada a comunicação não pertenceria à empresa. Destaca-se (fl. 700):
+Analisando os documentos juntados nos autos, verifico que o INMETRO procedeu à notificação da empresa autora, por transmissão via fax (Evento 1, outros 11, fl. 7), informando o local e data da realização da perícia.
+Nas contrarrazões apresentadas, o INMETRO apresenta o comprovante de envio que comprova que houve transmissão do fax em 05/03/15, no horário de 14:54:53 para o telefone (27) 3320-1149. Assim sendo, o Apelante não se desincumbiu de comprovar que tal número não lhe pertence, já que há presunção de veracidade do ato administrativo.
+Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. MULTA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. CONVITE REALIZADO POR FAX, MEIO IDÔNEO. EXISTENTE A PROVA DE ENVIO DE FAX RELATIVO AO CONVITE PARA EXAME PERICIAL DE PRODUTO FABRICADO PELA EMBARGANTE, NÃO HÁ QUE SE FALAR EM CERCEAMENTO DE DEFESA, POR SE TRATAR DE MERO CONVITE. PROVA DE ENVIO. REVOLVIMENTO DE PROVAS. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Trata-se de ação em que objetiva desconstituir acórdão que considerou o recebimento do fax como meio idôneo de intimação.
+2. Não se pode conhecer da irresignação contra a ofensa aos arts. 5º e 8º da Lei 9.933/1999, pois os referidos dispositivos legais não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF.
+3. Quanto à violação do art. 26, § 3º, da Lei 9784/1999, este determina que a intimação poderá ser feita por qualquer meio que assegure a ciência do interessado.
+4. O Tribunal de origem consignou que não há cerceamento de defesa, pois houve o exame técnico, realizado em 31/3/2006, e a recorrente não compareceu mesmo recebendo o convite para assisti-lo, enviado por meio de fax.
+5. A instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ 6. Recurso Especial não provido.
+( REsp n. 1.642.284/SP , relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/2/2017, DJe de 7/3/2017.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
