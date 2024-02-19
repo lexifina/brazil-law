@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 117):
+PROCESSUAL CIVIL. EMBARGOS A EXECUÇÃO FISCAL. AUSÊNCIA DE DOCUMENTOS INDISPENSÁVEIS AO AJUIZAMENTO DA AÇÃO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO. INTIMAÇÃO PESSOAL PARA CORREÇÃO. INEXISTÊNCIA. MEDIDA PROCESSUAL INADEQUADA. APELAÇÃO PROVIDA.
+1. Para a extinção do processo, sem resolução do mérito, por ausência de juntada aos autos, pela parte postulante, de documentos indispensáveis à propositura da ação, é necessária a sua prévia Intimação pessoal para a correção do vício, devendo constar do despacho respectivo, ainda, advertência de que tal medida processual será adotada se não cumprido o mandamento judicial. Precedente.
+2. Considerando que, na hipótese, o Juízo a quo não observou esse procedimento e extinguiu o feito, sem resolução do mérito, por ausência de juntada de documento comprobatório da tempestividade dos embargos à execução, a anulação da sentença é medida que se impõe.
+3. Apelação provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 127/130).
+A parte recorrente aponta violação aos arts. 489 e 1.022 do CPC. Sustenta que o Tribunal de origem não se manifestou sobre questões essenciais ao deslinde da controvérsia, notadamente quanto à situação fática que ensejaria a aplicação dos arts. 321, parágrafo único, e 918, I, do CPC.
+Foram apresentadas contrarrazões postulando o não conhecimento do recurso ante a incidência da Súmula 7/STJ e, caso conhecido, o seu desprovimento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, não assiste razão ao recorrido relativamente à preliminar de não-conhecimento do recurso especial, o qual cumpre os requisitos legais e constitucionais exigidos para a sua admissão. Sobre o óbice alegado, cumpre apenas dizer que não há necessidade de reapreciação do conjunto fático dos autos.
+A irresignação comporta guarida quanto à violação ao art. 1.022 do CPC.
+No caso, o Tribunal de origem deu provimento ao recurso de apelação interposto pelo particular nos seguintes termos (fl. 115):
+O artigo 16 da Lei 6.830/1980 estabelece que o executado dispõe do prazo de 30 (trinta) dias, contados do depósito, da juntada aos autos da prova da fiança ou do seguro garantia ou, ainda, da intimação da penhora para oposição de eventuais embargos à execução fiscal.
+Com efeito, é de inteira responsabilidade do(a) executado(a) o ónus de instruir a petição inicial dos embargos à execução com a prova de sua tempestividade.
+Por outro lado, para a extinção do processo, sem resolução do mérito, por ausência de juntada aos autos, pela parte postulante, de documentos indispensáveis à propositura da ação, é necessária a sua prévia intimação pessoal para a correção do vício, devendo constar do despacho respectivo, ainda, advertência de que tal medida processual será adotada se não cumprido o mandamento judicial. Nesse sentido, em caso similar, já decidiu essa 8a Turma que "a extinção do processo, em razão de abandono da causa, reclama prévia intimação pessoal da parte para suprir a" falta em 5 (cinco) dias (§ 1º do art. 485 do CPC)" (AP 0002980-59.2014.4.01.3816/MG, de minha relatoria, unânime, DJe 10/11/2017).
+Na hipótese, o Juízo de primeira instância, no entanto, não observou esse procedimento e extinguiu o feito, sem resolução do mérito, por ausência de juntada de documento comprobatório da tempestividade dos embargos à execução. Observo, todavia, que o(a) embargante, após a prolação da sentença, carreou aos autos documentação que, no seu entender, comprova o cumprimento desse requisito, documentação essa que não foi sequer examinada pelo Juízo a quo.
+Assim sendo, descabida, como visto, a extinção do feito como levado a efeito, a solução que se impõe é a de anular a sentença, com determinação para que a demanda tenha curso e sejam analisados os documentos apresentados pelo(a) embargante.
+Ante o exposto, dou provimento à apelação para anular a sentença, determinando o retorno dos autos à origem para o regular processamento do feito.
+É o voto.
+Foram, então, opostos embargos de declaração, nos quais a ora recorrente postulou a manutenção da sentença que indeferira a petição inicial, ao argumento de que a Corte regional ignorou situação fática que ensejaria a aplicação dos arts. 321, parágrafo único, e 918, I, do CPC, a saber (fl. 122):
+Data vênia, ao assim se manifestar, a eg. Corte se omitiu quanto aos arts. 321, parágrafo único, e 918, 1, do CPC e a diversas questões fáticas dos autos, consoante se passa a demonstrar.
+Com efeito, como se observa claramente do despacho de fls. 16/17, foi aberta vista para que a embargante emendasse a inicial, juntado aos autos os documentos essenciais à propositura da ação, dentre eles, a prova da tempestividade dos embargos (determinação expressa à fl. 16).
+Contudo, tal providência não foi tomada pela ora recorrida, que, à fl. 43, trouxe apenas uma cópia sem data e sem numeração, evidentemente inapta a comprovar o momento da penhora para fins de aplicação do art. 16 da Lei 6.830/80.
+Assim, ficou caracterizada a hipótese prevista no parágrafo único do art. 321 do CPC, não havendo que se falar, in casu, em extinção do feito por abandono de causa. A extinção se deu por não ter sido observada a ordem judicial no sentido de que fosse comprovada a tempestividade dos embargos. Portanto, plenamente legítima a orientação adotada pela r. sentença.
+Perceba-se que somente com a apelação, de maneira absolutamente extemporânea, a contribuinte juntou o documento devidamente datado. Assim, não sendo o caso previsto no art. 435 do CPC, não há razão para se aceitar a prova em questão.
+Mostra-se necessário, portanto, o retorno dos autos ao Tribunal para sanar a referida omissão.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação incorrendo em omissão relevante no julgado, sendo assim, necessário o reconhecimento da violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial por violação do art. 1.022 do CPC, determinando o retorno dos autos à origem para novo julgamento do recurso integrativo.
+Publique-se.
+EMENTA
