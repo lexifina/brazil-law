@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  negou  seguimento  ao  recurso  especial  interposto  em  face  de  acórdão  assim  ementado:
+"AGRAVO DE INSTRUMENTO - LAUDO PERICIAL SOB DÚVIDA -IMPRESTABILIDADE DO LAUDO - AUSÊNCIA DE ESCLARECIMENTOS REQUERIDOS PELA PARTE EXEQUENTE - NULIDADE DA PROVA REALIZADA. O laudo pericial é instrumento fundamental na formação da convicção do julgador diante da natureza do pedido inicial, e sua precariedade compromete o desenvolvimento de um juízo seguro acerca da alegada irregularidade devendo ser nula prova realizada"
+Os  agravantes  apontam,  além  de  divergência  jurisprudencial,  violação  aos  arts.  480, § 3º, e 1.022  do  Código  de  Processo  Civil  e  art.  766  do  Código  Civil,  sustentando  que o juiz deve considerar para formação de seu convencimento o primeiro laudo pericial produzido, tendo em vista que segundo não o substitui.
+Contrarrazões  às  fls.  651/676  e-STJ.
+Juízo  negativo  de  admissibilidade  proferido  às  fls.  721/724  e-STJ.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+"N o  sistema  de  persuasão  racional  adotado  pelo  Código  de  Processo  Civil  nos  arts.  130  e  131,  em  regra,  não  cabe  compelir  o  magistrado  a  autorizar  a  produção  desta  ou  daquela  prova,  se  por  outros  meios  estiver  convencido  da  verdade  dos  fatos,  tendo  em  vista  que  o  juiz  é  o  destinatário  final  da  prova,  a  quem  cabe  a  análise  da  conveniência  e  necessidade  da  sua  produção"  (REsp  n.  1.175.616/MT,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  1º/3/2011,  DJe  4/3/2011).
+Ilustrativamente:
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  CERCEAMENTO  DE  DEFESA.  INEXISTÊNCIA.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  JURISPRUDÊNCIA  DESTA  CORTE.  SÚMULAS  N.  83  E  568  DO  STJ.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  USUCAPIÃO.  REQUISITOS.  AUSÊNCIA.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.
+1.  Inexiste  afronta  ao  art.  1.022  do  CPC/2015  quando  a  Corte  local  pronunciou-se,  de  forma  clara  e  suficiente,  acerca  das  questões  suscitadas  nos  autos,  manifestando-se  sobre  todos  os  argumentos  que,  em  tese,  poderiam  infirmar  a  conclusão  adotada  pelo  Juízo.
+2.  Inadmissível  o  recurso  especial  quando  o  entendimento  adotado  pelo  Tribunal  de  origem  coincide  com  a  jurisprudência  do  STJ  (Súmulas  n.  83  e  568  do  STJ).
+3.  "O  entendimento  deste  Tribunal  Superior  é  de  que  o  magistrado  é  o  destinatário  final  das  provas,  cabendo-lhe  analisar  a  necessidade  de  sua  produção,  cujo  indeferimento  não  configura  cerceamento  de  defesa"  (AgInt  no  AREsp  n.  1.600.225/DF,  de  minha  relatoria,  Quarta  Turma,  julgado  em  22/11/2021,  DJe  de  26/11/2021).
+4.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos  (Súmula  n.  7  do  STJ).
+5.  No  caso  concreto,  o  Tribunal  de  origem  concluiu  pela  suficiência  das  provas  apresentadas  e  pela  inexistência  de  cerceamento  de  defesa.  Entender  de  modo  contrário  demandaria  nova  análise  dos  elementos  fáticos  dos  autos,  inviável  em  recurso  especial,  ante  o  óbice  da  referida  súmula.
+6.  Rever  a  conclusão  do  acórdão  impugnado,  quanto  à  ausência  dos  requisitos  legais  para  reconhecer  a  usucapião,  demandaria  incursão  no  campo  fático-probatório,  providência  vedada  na  via  especial,  conforme  a  Súmula  n.  7  do  STJ.
+7.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  n.  1.702.606/DF,  relator  Ministro  Antonio  Carlos  Ferreira,  QUARTA  TURMA,  DJe  de  2/6/2023.)
+Em  face  do  exposto,  nego  provimento  ao  agravo.
+Intimem-se.
+EMENTA
