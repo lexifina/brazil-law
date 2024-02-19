@@ -1,0 +1,60 @@
+DECISÃO
+LUAN GUSTAVO MNDES TEIXEIRA agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500156-45.2021.8.26.0561.
+Nas razões do especial, a defesa apontou violação ao art. 33, § 4º, da Lei n. 11.343/06, pois entende ser de rigor o reconhecimento do privilégio no tráfico. Postula, ainda, o abrandamento do regime inicial de cumprimento da sanção reclusiva.
+O recurso foi inadmitido na origem, o que ensejou a interposição deste agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+I. Do tráfico privilegiado previsto no art. 33, § 4º da Lei de Drogas
+O escopo da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "a mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (HC n. 202.617/AC, Relator Ministro Adilson Vieira Macabu (Desembargador convocado do TJ/RJ), 5ªT., DJe 20/6/2011).
+Por isso mesmo, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes, a não integração em organização criminosa e a não dedicação a atividade s delituosas.
+Nos autos em exame, o Tribunal de origem afastou o benefício consoante argumentos que se seguem (fl. 350-352 , destaquei):
+Com efeito, o acolhimento do pedido formulado pelo Ministério Público, no sentido de ser afastada a redutora prevista no artigo 33, § 4º, da Lei de Drogas, foi devidamente justificado, consoante se verifica do trecho a seguir transcrito:
+"No caso, verifica-se que a pena-base foi fixada no mínimo legal e assim foi mantida, na segunda fase da dosimetria, malgrado o reconhecimento da atenuante da confissão, em face da impossibilidade de fixação da reprimenda aquém do piso legal, a teor da Súmula 231 do C. Superior Tribunal de Justiça.
+Já na fase final, a pena foi reduzida de 2/3, com fulcro no artigo 33, § 4º, da Lei de Drogas.
+Contudo, respeitado entendimento diverso, a redução deve ser afastada, tal como pleiteado pelo Parquet.
+Nesse ponto, registre-se que é incabível a aplicação do redutor previsto no artigo 33, § 4º, da referida lei, diante das circunstâncias do caso concreto, que evidenciam a dedicação do acusado a atividade criminosa.
+Com efeito, trata-se de agente que confessou a prática reiterada do tráfico admitindo, nesse ponto, que tal conduta já perdurava cerca de três meses com o uso inclusive do aplicativo Whatsapp para a negociação e agendamento da retirada dos entorpecentes, circunstâncias que revelam não se tratar de traficante habitual, a quem a lei pretendeu beneficiar.
+Deve ser destacado, ainda, que os policiais militares informaram que o réu foi apontado como traficante de drogas em inúmeras denúncias anônimas, evidenciando, dessa forma, que ele, de fato, se dedicava ao comércio espúrio.
+ ..
+Diante das circunstâncias do caso concreto, que evidenciam a dedicação do embargante a atividade criminosa, foi determinado o afastamento do privilégio, que, como é sabido, é destinado ao traficante eventual, e não ao criminoso que porta expressiva quantidade de entorpecentes e admite a prática reiterada do delito por cerca de três meses, repita-se.
+Importante ressaltar, outrossim, que o fato de o agente possuir ocupação lícita, não enseja, por si só, o afastamento do crime de tráfico, tendo em vista que é possível haver a conciliação das duas atividades.
+Na espécie, não obstante o agravante seja tecnicamente primário, verifico que as instâncias ordinárias entenderam indevida a incidência da causa de diminuição com base nas circunstâncias do caso concreto, as quais evidenciam que ele fazia do tráfico seu meio de subsistência, haja vista que existiam contra o ora agravante diversas denúncias informais de seu envolvimento reiterado com o comércio ilícito; ademais, foram apreendidos balança de precisão e outros petrechos para o preparo de entorpecentes; por fim, o próprio réu confessou que fazia do tráfico seu meio de subsistência há pelo menos 3 mês.
+Ademais, não se pode olvidar que, para entender-se pela aplicação do privilégio no tráfico, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, nos termos da Súmula n. 7 do STJ.
+Nesse sentido, vale mencionar o HC n. 177.312/AC (6ª T., DJe 13/8/2013), em que a Relatora Ministra Maria Thereza de Assis Moura asseverou que: "fixado na sentença condenatória e no acórdão da apelação, com base nos fatos, que o paciente se dedica a atividades criminosas (.. já que o mesmo confessou que possui uma "bocada" na cidade de Capixaba há 01 (um) ano, conforme depoimento de fl. 10..), é inviável o reconhecimento da minorante, pois não atende aos requisitos previstos na lei, conclusão que não pode ser alterada na via eleita, por demandar revolvimento fático-probatório".
+II. Regime inicial e substituição da pena
+A Corte de origem impôs o regime inicial fechado nos termos que se seguem (fl. 416):
+No mais, o recurso ministerial também deve ser provido para que seja fixado o regime inicial fechado.
+É entendimento sedimentado nesta Câmara que o regime prisional mais gravoso, imposto por texto expresso de lei, é o único compatível com a gravidade do delito praticado, máxime diante das circunstâncias do crime, que revelam a dedicação do acusado a atividades criminosas.
+Aliás, a modalidade é, na verdade, a única compatível com a gravidade do delito praticado e está em sintonia com o rigor com que o legislador tratou o traficante, negando-lhe benefícios outros que normalmente concede a infratores de normas diversas.
+Acrescenta-se que, na hipótese dos autos, a nocividade da droga imprime maior gravidade à empreitada criminosa. É sabido que a cocaína é substância entorpecente altamente nociva, que causa ao usuário rápida dependência química e efeito devastador à própria saúde e à sociedade. Tais circunstâncias evidenciam, realmente, uma culpabilidade exacerbada na conduta do acusado.
+Cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião ReisJúnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso em exame, embora a pena-base haja sido fixada no mínimo legal, o réu seja primário e o quantum da reprimenda tenha se definido em patamar não superior a 8 anos, o regime inicial fixado foi o fechado.
+Constato, assim, que a Corte de origem não apontou nenhum elemento dos autos que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso para o cumprimento da pena, pois a gravidade excepcional do delito não se sustenta, visto que o crime foi praticado em circunstâncias normais à espécie e a quantidade de droga apreendida não foi exorbitante - 78,25 gramas de maconha.
+Portanto, a justificativa deu-se, como visto, em fundamentos não idôneos para a imposição de regime inicial mais gravoso, consoante disposto nos §§ 2º e 3º do art. 33 do Código Penal. Assinalo, novamente, que, além das circunstâncias favoráveis, ficou registrado tratar-se de réu primário.
+Caracterizada encontra-se, pois, a violação do art. 33, § 2º, "b", do Código Penal, consoante dispõem as Súmulas n. 440 do STJ, 718 e 719 do STF, respectivamente:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Nesse sentido, confiram-se os seguintes julgados desta Corte de Justiça, mutatis mutandis:
+ ..
+1. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+2. O Tribunal de origem apenas menciona a gravidade abstrata do crime de roubo majorado, sem citar nenhum dado concreto que evidencie a maior reprovabilidade da conduta. Assim, os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+ ..
+(HC n. 376.122/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 7/4/2017)
+ ..
+5. Os fundamentos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso do que o indicado pela quantidade de pena imposta à agente (art. 33, §§ 2º e 3º, do Código Penal), nos termos da Súmula 440 desta Corte. Tratando-se de ré primária, cujas circunstâncias judiciais foram favoravelmente valoradas, condenada à pena de 5 anos e 4 meses de reclusão, deve a reprimenda ser cumprida em regime semiaberto.
+ ..
+(HC n. 449.410/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 1º/8/2018)
+Destaco, ainda, que, embora o registro de informações pretéritas sobre o cometimento reiterado do tráfico pelo réu possa ser utilizado, nos termos da jurisprudência desta Corte Superior, para obstar a incidência da causa especial de diminuição de pena, esses dados não caracterizam maus antecedentes ou reincidência - tanto que as instâncias ordinárias reconheceram a primariedade e os bons antecedentes do agravante .
+Entendo, portanto, que o regime semiaberto é o mais adequado para a prevenção e a repressão do delito praticado.
+Preservada a dosimetria, prejudicado está o pleito de substituição da sanção reclusiva por medida restritiva de direitos, haja vista o não preenchimento do requisito objetivo.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e no art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, tão somente para fixar o regime semiaberto para o início de cumprimento de pena reclusiva  .
+Comun ique-se, com urgência, o inteiro teor dessa decisão ao Tribunal de Justiça estadual e ao Juízo de primeiro grau, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
