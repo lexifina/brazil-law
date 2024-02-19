@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo instituto Nacional do Seguro Social - INSS, com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pela Décima Turma do TRF da 4ª Região, assim ementado (fls. 539-540):
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. ARTIGO 1.040, II, DO CÓDIGO DE PROCESSO CIVIL. TEMA 692 STJ.
+1. Se o acórdão desta Instância estiver em dissonância com as teses jurídicas  xadas pelo Supremo Tribunal Federal no julgamento de recurso extraordinário submetido à sistemática da Repercussão Geral, deve ser realizado o juízo de retratação para adequação do julgado, consoante artigo 1.040, II, do Código de Processo Civil.
+2. Caso em que a decisão proferida pela Turma deste Tribunal, ao julgar o presente recurso, diverge do entendimento pacificado pelo STJ quanto ao Tema 692.
+O recorrente em suas razões argumenta que o acórdão recorrido, ao limitar a devolução dos valores recebidos indevidamente a título de tutela antecipada revogada, "além de contrariar o disposto no artigo 927, III, do CPC/2015, por deixar de observar a tese firmada no Tema 692/STJ, negou vigência ao artigo 115, II, da Lei 8.213/1991".
+Requer ao final o provimento do recurso, para que sejam afastadas as limitações impostas pelo acórdão recorrido na aplicação da tese firmada esse Colendo STJ no Tema 692 (REsp Repetitivo 1.401.560/MT).
+Sem contrarrazões.
+Decisão de admissibilidade às fls. 572-575.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+No caso tem-se que o recurso não merece êxito. Vejamos.
+A Vice-Presidência do Tribunal de origem determinou a devolução dos autos à Turma julgadora para eventual juízo de retratação, com base nos arts.1.030, II e 1.040, II, do CPC/2015, em face do julgamento pelo STJ, do Tema 692, submetido ao rito dos recursos especiais repetitivos.
+A Turma julgadora então adotou a tese jurídica reafirmada no Tema 692 pelo STJ quanto à obrigação de devolução de valores recebidos em antecipação de tutela que restou revogada. No entanto, ressalvou o desconto sobre benefícios atuais quando isso implique a sua redução à quantia inferior ao salário-mínimo, ou que comprovadamente coloquem o devedor em situação de risco alimentar ou da sua dignidade e de sua família.
+Confira-se: "não é possível o desconto de valores na renda mensal do benefício previdenciário se isso implicar redução à quantia inferior ao salário-mínimo, em atenção aos termos do artigo 201, § 2º, da Constituição Federal" (grifei).
+Como se vê, a questão de fundo foi decidida com base em fundamentação eminentemente constitucional, o que inviabiliza o manejo do recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ocorre que o recorrente não interpôs o recurso extraordinário. Assim, aplica-se o teor da Súmula 126/STJ, segundo o qual: "É inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário." No mesmo sentido, com idêntica temática dos autos, destaca-se os seguintes julgados monocráticos, inclusive de minha relatoria: REsp n. 1.747.361/PR, Ministro Benedito Gonçalves, DJe de 06/02/2024; REsp n. 2.116.782/PR, Ministro Mauro Campbell Marques, DJe de 05/02/2024; REsp n. 2.103.268/PR, Ministro Paulo Sérgio Domingues, DJe de 11/01/2024.
+Por fim, cabe estabelecer que "o não reconhecimento de repercussão geral pelo Supremo Tribunal Federal (Tema 799/STF) não afasta a aplicação da Súmula 126 do STJ, isso porque o Tribunal de origem não negou a possibilidade de restituição - objeto dos Temas 799/STF e 692/STJ -, apenas impôs limite ao desconto sobre o benefício, levando em consideração dispositivos legais, bem como o princípio da dignidade humana e o mínimo existencial" (REsp n. 2.103.268/PR, Ministro Paulo Sérgio Domingues, DJe de 11/01/2024).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.
+APLICABILIDADE DO CPC/2015. TUTELA ANTECIPADA REVOGADA. DEVOLUÇÃO DE VALORES. TEMA 692/STJ. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL. SÚMULA 126/STF.
