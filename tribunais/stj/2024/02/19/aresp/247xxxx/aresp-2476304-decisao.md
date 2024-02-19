@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por NOVALATA EMBALAGENS PERSONALIZADAS LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 57):
+AGRAVO DE INSTRUMENTO.
+1. Execução fiscal - Pedido de compensação de créditos tributários com precatórios estaduais - Descabimento - Inexistência de legislação estadual autorizadora da compensação (Código Tributário Nacional, artigo 170) - Decisão de primeiro grau que indefere a oferta em razão de recusa da Fazenda Estadual - Admissibilidade - Ausência de documentos que demonstram a cessão de créditos por meio de precatórios, bem como de sua suficiência para garantir o juízo executivo - Desrespeito à ordem do artigo 11 da Lei Federal nº. 6.830/80 - Ônus da devedora de comprovar a necessidade de afastar a ordem legal, sendo insuficiente a mera invocação genérica do princípio da menor onerosidade - Regra jurídica do artigo 805 do Código de Processo Civil vigente - Precedente do E. STJ em sede de recurso repetitivo - Decisão judicial preservada.
+2. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 82/88).
+No recurso especial especial (e-STJ fls. 92/109), o recorrente aponta violação do art. 805 do CPC/2015, defendendo ser "totalmente descabido o bloqueio de ativos financeiros se a Recorrente ofereceu à penhora créditos de precatórios do qual é credora" (e-STJ fl. 104).
+Acerca do alegado dissídio jurisprudencial, diz que o julgado diverge do que foi decidido pelo Tribunal de Justiça do Estado do Amazonas e pelo Tribunal Regional da 3ª Região, transcrevendo as respectivas ementas.
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo, com base na Súmula 7 do STJ e pela inadequada demonstração da divergência jurisprudencial (e-STJ fls. 149/150).
+No agravo em recurso especial (e-STJ fls. 153/174), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+No caso dos autos, o Tribunal de origem manteve a decisão que rejeitou o oferecimento de precatórios à penhora. Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 58/65):
+De início, é imperioso lembrar que a compensação, modalidade de extinção do crédito tributário, somente é possível nos casos e nas condições estabelecidas em lei (Código Tributário Nacional, artigo 170), consistindo em poder discricionário da administração, sendo vedado ao juiz deferi-la sem expressa disposição legal (Lei nº. 6.830/80, artigo 16, § 3º). Como no Estado de São Paulo não há lei autorizadora da compensação, impossível o deferimento do pedido.
+Em outras palavras, entende esta E. 12ª Câmara de Direito Público  ..  que a possibilidade de compensação não é autoaplicável, uma vez que está subordinada à existência de autorização legislativa de cada ente federado, que regulamentará o procedimento respectivo, consoante a previsão expressa do artigo 97, § 10º, inciso II, do ADCT, com a redação promovida pelo artigo 2º da EC 62/09:
+ ..
+Assim, o fato da EC 62/09 ter convalidado as cessões precatórias independentemente da concordância da entidade devedora não altera a situação, porquanto não modifica a natureza do precatório que se pretende utilizar para a compensação com o débito tributário em tela. Já decidiu o E. STJ que:  ..
+De outro lado, respeitada sua tese de defesa, a empresa agravante sequer comprovou nos autos, documentalmente, a existência de créditos provenientes de precatórios estaduais que lhe foram cedidos para fins de garantia do juízo executivo e/ou de quitação pela via da compensação, com base da Resolução PGE nº. 12/18, consoante a petição de fls. 1023/1031 da origem. Os documentos apresentados aos autos da execução fiscal referem-se apenas ao pedido de transação tributária (fls. 1032/1038 e 1039/1042).
+Especificamente quanto aos precatórios, nenhum documento há sobre sua existência.
+Na execução fiscal, a ordem a ser obedecida para a nomeação de bens à penhora é a estabelecida no artigo 11 da Lei nº. 6.830/80:
+ ..
+No caso em apreço, o bem oferecido não atende à ordem legal do artigo 11 da Lei de Execução Fiscal e do artigo 835 do Código de Processo Civil, inclusive porque repita-se nenhum documento foi apresentado pela agravante para atestar a existência do crédito que lhe foi cedido e sua respectiva suficiência para garantir o juízo.
+Ressalte-se que a agravada não está obrigada a aceitar, para fins de constrição, bem que o devedor tenha ofertado, sobretudo se não demonstrada a potencialidade de alienação da coisa. Não há na Lei nº. 6.830/80 dispositivo que sujeite o credor a uma anuência forçada.
+Embora a oferta de bens esteja expressamente prevista na Lei de Execução Fiscal, condicionada à aceitação do exequente (artigo 9º, inciso IV), observa-se que a recusa da Fazenda Estadual se deu em razão da não observância da ordem de preferência prevista no artigo 11 da citada Lei, de modo que a argumentação da agravante não se sustenta.
+Vale consignar, no mais, que o princípio do favor debitoris demanda tão-somente que se evitem atos mais gravosos do que o necessário em desfavor do devedor, mas não tem o intento de impedir providências que visem a abreviar o tempo de duração da execução, que tem como fim específico o adimplemento da dívida cobrada.
+Na execução em tela, deve-se observar, em primeiro plano, o interesse do credor, que é o grande prejudicado na espera do recebimento de valor líquido, certo e exigível de sua titularidade, devendo-se aplicar o princípio de menor onerosidade ao devedor tão-somente em caso de abuso, o que não ocorre na hipótese vertente, em que o único interesse da Fazenda Estadual é receber o seu crédito respectivo.
+Desta feita, considerando-se que a execução se realiza em prol do credor e o princípio da economicidade não pode superar o da maior utilidade da execução para o credor, de modo que a execução se realize por meios ineficientes à solução do crédito exequendo, válida a recusa.
+O E. STJ, em decisão submetida ao regime de recurso repetitivo (Tema 578), já firmou o entendimento de que, em execução fiscal, o devedor não tem direito subjetivo à aceitação do bem que nomeia à penhora em desacordo com a ordem estabelecida no artigo 11 da Lei nº. 6.830/80 e no artigo 835 do Código de Processo Civil vigente, na hipótese em que não tenha apresentado elementos concretos que justifiquem a incidência do princípio da menor onerosidade:
+Pois bem.
+Na situação dos autos, o Tribunal de origem ressaltou que o recorrente sequer comprovou a existência dos precatórios que pretendia oferecer à penhora. Contudo, o recorrente não impugnou esse fundamento especificamente.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Cabe acrescentar que "o não conhecimento do especial pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ademais, verifica-se que o dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC e 255, § § 1º e 2º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
