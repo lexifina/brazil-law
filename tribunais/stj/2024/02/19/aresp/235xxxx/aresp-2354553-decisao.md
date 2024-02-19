@@ -1,0 +1,21 @@
+DECISÃO
+VICTOR EMANUEL TROMBETTA agrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do do Estado de Santa Catarina (Apelação Criminal n. 5004932-26.2021.8.24.0014).
+Consta dos autos que o paciente foi condenado a 5 anos de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+Nas razões do especial, a defesa aponta violação dos arts. 156, 395, III, 386, VII, todos do Código de Processo Penal e 33, caput, da Lei n. 11.343/2006. Busca a absolvição do réu por entender que não há nos autos elementos suficientes a justificar sua condenação.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+I. Absolvição do crime de tráfico de drogas
+O Tribunal de origem, ao manter a condenação do acusado pela prática do crime de tráfico de drogas, afirmou que "ao contrário do que tenta fazer crer a defesa, não há que se falar em absolvição por falta de provas, e ainda que a corré, em juízo, tenha mudado completamente sua versão, verifica-se que referida tese não corresponde a verdade" (fl. 355). Para tanto, salientou o que segue (fl. 355, destaquei):
+E apenas para que não restem dúvidas, vale a transcrição de algumas das mensagens relacionadas ao tráfico constantes no relatório de missão policial (doc. 2 ev. 1 do IP):
+ ..  Gabriel Gadler manda a seguinte mensagem para Victor "tem fina  Tenho uma na mão ", ato contínuo Victor pergunta "Qnt " e Gabriel responde "100. É pra uma mina". Victor então fala "tá na mão. ..  Desça aqui q a Ândrea te entrega". Gabriel então diz "só tô me arrumando pra trampa daí passo aí" e Victor responde "Tá, vaí tá aqui com a Ândrea na casa de baixo ". Depois de fazer a entrega Gabriel envia a mensagem para Victor dizendo "Salve mano, viu, levei a mão la pra mina, daí eu vim trabalhar, daí as nove eu vou sair, as nove eu passo aí te deixar o dinheiro, vou deixar com a Ândrea ali, falei com ela, beleza  Dinheiro ta aqui comigo já" (fl. 2 ev. 1 do IP).
+No dia 13.5.2021 Gabriel e Victor trocam novas mensagens, em dado momento Victor manda áudio para Gabriel repassando os dados bancários de Larissa A. Galioto, sua namorada, inclusive foto do cartão do banco, e diz que Gabriel deve depositar parte do valor recebido naquela conta (fl. 5 ev. 1 do IP).
+Há ainda uma série de outras conversas entre Victor e Gabriel; os referidos diálogos aliados ao farto conjunto probatório, não deixam margem para dúvidas de que Victor dedicava-se a traficância e demais atividade ilícitas de forma habitual.
+Da mesma forma, dos dados extraídos da corré Ândrea é possível confirmar que ela não só sabia da traficância exercida por Victor, como lhe auxiliava. Prova disso é a mensagem que Ândrea envia para o contato identificado como "M7" - Laércio Soares dos Santos, indivíduo faccionado ao Primeiro Grupo Catarinente - PGC, em junho, ou seja, quando Victor já estava preso e fala " Slv m7. É a irmã do 12. Gravata foi falar com o 12 ontem, daí ele mandou o nome de quem tá devendo, mandou só 2, o Leco tá devendo 400 e o Nego Blu 2000, daí se vc puder ta vendo pra mim, fazendo um favor " (fl. 12 doc. 1 do IP).
+A partir desses elementos, concluiu a Corte estadual que a condenação deve permanecer inalterada, "considerando o farto conjunto probatório" (fl. 355).
+Com isso, torna-se inviável se falar em absolvição do acusado por insuficiência probatória, sobretudo porque no processo penal vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, contanto que o faça fundamentadamente, como verificado na hipótese.
+Desse modo, entendo que rever o posicionamento adotado pelas instancias ordinárias, como demonstrado acima, demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos, o que é vedado em recurso especial, a teor da Súmula. n. 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+II. Dispositivo
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
