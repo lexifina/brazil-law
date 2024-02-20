@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. CONDENAÇÃO PELA AGRAVANTE DO ART. 298, V, DO CTB NÃO DESCRITA NA DENÚNCIA. ART. 385 DO CPP. POSSIBILIDADE. CONSTATADA CONDIÇÃO DE MOTORISTA PROFISSIONAL. JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83 DO STJ.
+1. Caso concreto em que as instâncias ordinárias concluíram que o réu é motorista profissional, bem como que, quando da infração, conduzia veículo acoplado a dois semirreboques, o que exige cuidados especiais, a teor do art. 298, V, do Código de Trânsito Brasileiro .
+2. "Nos termos do art. 385 do Código de Processo Penal, o juiz pode reconhecer a presença de agravantes genéricas, ainda que estas não tenham sido descritas na denúncia ou alegadas pela acusação" (AgRg no REsp n. 1.904.588/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+3. "Não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida" (Súmula n. 83 do STJ.)
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de minha relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Alega a parte agravante a ocorrência de nulidade da condenação pelo art. 298, V, do Código de Trânsito Brasileiro, por violação ao contraditório e à ampla defesa, bem como por ausência de provas quanto à qualidade de motorista profissional, sustentando que não deve incidir a Súmula n. 83 do STJ.
+Afirma que a sentença violou o contraditório e a ampla defesa pois aplicou indevidamente a agravante prevista no dispositivo, sendo que na denúncia o órgão acusatório somente imputou a prática descrita no art. 302 do CTB.
+Sustenta que a Carteira Nacional de Habilitação juntada aos autos, que comprova que o réu exerce atividade remunerada de condução de veículos, somente foi emitida em 13/9/2013, sendo que os fatos ocorreram em 2012. Assim, caberia à acusação comprovar se o exercício da atividade remunerada ocorreria desde a data dos fatos, o que não ocorreu.
+Aduz que não deve incidir no caso o teor da Súmula n. 7 do STJ, expondo considerações a respeito.
+Requer o conhecimento e provimento do recurso pela Turma julgadora.
+Foram apresentadas as contrarrazões (fls. 1.103-1.104).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. CONDENAÇÃO PELA AGRAVANTE DO ART. 298, V, DO CTB NÃO DESCRITA NA DENÚNCIA. ART. 385 DO CPP. POSSIBILIDADE. CONSTATADA CONDIÇÃO DE MOTORISTA PROFISSIONAL. JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83 DO STJ.
+1. Caso concreto em que as instâncias ordinárias concluíram que o réu é motorista profissional, bem como que, quando da infração, conduzia veículo acoplado a dois semirreboques, o que exige cuidados especiais, a teor do art. 298, V, do Código de Trânsito Brasileiro .
+2. "Nos termos do art. 385 do Código de Processo Penal, o juiz pode reconhecer a presença de agravantes genéricas, ainda que estas não tenham sido descritas na denúncia ou alegadas pela acusação" (AgRg no REsp n. 1.904.588/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+3. "Não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida" (Súmula n. 83 do STJ.)
+4. Agravo regimental improvido.
+VOTO
+Como relatado busca a defesa a reforma da decisão de minha relatoria que negou provimento ao agravo em recurso especial, unicamente quanto à alegada violação do art. 298, V, do Código de Trânsito Brasileiro.
+A respeito, tem-se que a decisão está assim fundamentada (fls. 1.082-1.083):
+A defesa alega, ainda, violação do art. 315, § 2º, IV, do CPP, em razão da condenação por agravante não descrita na denúncia, qual seja:
+(Lei 9.503/97) - Art. 298. São circunstâncias que sempre agravam as penalidades dos crimes de trânsito ter o condutor do veículo cometido a infração:
+V - quando a sua profissão ou atividade exigir cuidados especiais com o transporte de passageiros ou de carga;
+No ponto, extrai-se do acórdão dos embargos de declaração (fls. 839-840):
+No caso dos autos, não se vislumbra a ocorrência de qualquer vício dessa natureza no julgado recorrido, razão pela qual os embargos não podem ser acolhidos.
+Embora a agravante prevista no artigo 298, inciso V, do Código de Trânsito Brasileiro não tenha sido descrita na denúncia, o artigo 385, do Código de Processo Penal, elucida que "nos crimes de ação pública, o juiz poderá proferir sentença condenatória, ainda que o Ministério Público tenha opinado pela absolvição, bem como reconhecer agravantes, embora nenhuma tenha sido alegada".
+A agravante, reconhecida em sentença (fls. 484/487), restou bem configurada, pois é fato incontroverso nos autos que o réu conduzia veículo acoplado a dois semirreboques, o que exige cuidados especiais, a teor do artigo 298, inciso V, da lei de trânsito e não fora observado pelo ora embargante.
+Portanto, os julgadores não estão vinculados a um pedido da acusação para reconhecer a alegada agravante imposta.
+A defesa alega que não houve possibilidade de se defender acerca da agravante prevista no art. 298, V, do CTB, "tendo sido surpreendido pela imputação em sede de sentença condenatória" (fl. 936).
+Ocorre que, de acordo com a sentença de primeiro grau, "o réu é motorista profissional, conforme sobejamente demonstrado nos autos e como consequência deve incidir no caso a circunstância agravante do art. 298, inciso V, do Código de Trânsito Brasileiro, porque sua profissão exigia especial cuidado no transporte de carga" (fl. 486).
+Com efeito, "Nos termos do art. 385 do Código de Processo Penal, o juiz pode reconhecer a presença de agravantes genéricas, ainda que estas não tenham sido descritas na denúncia ou alegadas pela acusação" (AgRg no REsp n. 1.904.588/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022.).
+No caso, não há falar em nulidade por violação ao contraditório e à ampla defesa, uma vez que, conforme consignou o Tribunal de origem, restou incontroverso nos autos "que o réu conduzia veículo acoplado a dois semirreboques, o que exige cuidados especiais, a teor do artigo 298, inciso V, da lei de trânsito e não fora observado pelo ora embargante".
+A lei processual penal em vigor adota o princípio "pas de nullité sans grief", segundo o qual somente se declara a nulidade caso haja demonstração ou comprovação de efetivo prejuízo à parte, o que não ocorreu no presente caso.
+Incide, assim, a Súmula 83 do STJ, segundo a qual não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida. Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Não obstante as considerações postas pela defesa, tenho que a decisão deve ser mantida por seus próprios fundamentos.
+Com efeito, conforme provas constantes dos autos, e a teor da sentença condenatória proferida, consta que "o réu é motorista profissional, conforme sobejamente demonstrado nos autos e como consequência deve incidir no caso a circunstância agravante do art. 298, inciso V, do Código de Trânsito Brasileiro, porque sua profissão exigia especial cuidado no transporte de carga" (fl. 486).
+Também foi constatado pelo Tribunal de origem que "é fato incontroverso nos autos que o réu conduzia veículo acoplado a dois semirreboques, o que exige cuidados especiais, a teor do artigo 298, inciso V, da lei de trânsito e não fora observado pelo ora embargante" (fl. 840).
+Em assim sendo, verifica-se que a conclusão do Tribunal de origem encontra amparo na jurisprudência deste Tribunal, no sentido de que, "Nos termos do art. 385 do Código de Processo Penal, o juiz pode reconhecer a presença de agravantes genéricas, ainda que estas não tenham sido descritas na denúncia ou alegadas pela acusação" (AgRg no REsp n. 1.904.588/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022). Não há pois se falar em nulidade por violação do contraditório e da ampla defesa. No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CIRCUNSTÂNCIAS JUDICIAIS. DESPICIENDA MENÇÃO NA DENÚNCIA. ARTS. 385 E 387, II, DO CPP. REGIME SEMIABERTO. CIRCUNSTÂNCIAS DESFAVORÁVEIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que tange à tese de afastamento da valoração negativa das consequências do crime, descabe falar em violação do princípio da correlação.
+2. Conforme a dicção do art. 385 do Código de Processo Penal, aplicável, igualmente, às circunstâncias judiciais do art. 59 do CP, nos crimes de ação pública, o juiz poderá proferir sentença condenatória, ainda que o Ministério Público tenha opinado pela absolvição, bem como reconhecer agravantes, embora nenhuma tenha sido alegada.
+3. Outrossim, o art. 387, II, o CPP permite, em sede de sentença condenatória, o reconhecimento das circunstâncias agravantes ou atenuantes definidas no Código Penal, motivo pelo qual é despicienda a menção da circunstância judicial na denúncia para que este seja reconhecida em sentença .
+4. O regime semiaberto para cumprimento inicial da pena foi devidamente fundamentado, consoante dispõem o art. 33, caput e parágrafos, do Código Penal, não havendo, portanto, qualquer desproporcionalidade na imposição do meio mais gravoso para o desconto da reprimenda. Afinal, apesar de ser a pena inferior a 8 anos de reclusão e superior a 4 anos e tecnicamente primário o paciente, as circunstâncias desfavoráveis justificam a imposição do regime mais severo, não havendo a possibilidade de analisar em concreto se o regime menos gravoso seria socialmente recomendado.
+5 . Agravo regimental desprovido. (AgRg no HC n. 844.361/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AGRAVANTE DO ART. 61, II, H, DO CÓDIGO PENAL NÃO DESCRITA NA DENÚNCIA. PRINCÍPIO DA CORRELAÇÃO. AUSÊNCIA DE ILEGALIDADE. NATUREZA OBJETIVA. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. "Não se há falar em violação ao denominado princípio da correlação, nos casos em que se reconhece a ocorrência de agravantes não descritas na denúncia, pois, nos termos do que preceitua o art. 385, do Código de Processo Penal, "nos crimes de ação pública, o juiz poderá proferir sentença condenatória, ainda que o Ministério Público tenha opinado pela absolvição, bem como reconhecer agravantes, embora nenhuma tenha sido alegada" (AgRg nos EDcl no REsp n. 1.495.611/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 31/8/2017)" (AgRg no REsp 1.770.254/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/4/2019, DJe 30/4/2019).
+2. Quanto à agravante do art. 61, II, "h", do CP, o crime foi praticado contra idoso, o que justifica o incremento da pena intermediária.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 2.083.523/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+Mostra-se correta pois a incidência da Súmula n. 83 do STJ, in verbis: "Não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida."
+Ante o exposto - não demonstrada nenhuma incorreção quanto aos fundamentos eleitos - , nego provimento ao agravo regimental.
+É o voto.
