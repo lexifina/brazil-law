@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por Raul Rodrigo Jota, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 1):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. RECURSO ESPECIAL. REEXAME DO ACÓRDÃO COM BASE NO ART. 1.040, INCISO II, DO CPC. REANÁLISE DA QUESTÃO REFERENTE À DESCARACTERIZAÇÃO DA MORA DA RÉ. TEMA 28 DO STJ. EXISTÊNCIA DE ENCARGO ABUSIVO NO PERÍODO DE NORMALIDADE CONTRATUAL. PEDIDO DE DESCARACTERIZAÇÃO DA MORA. TESE NÃO ALBERGADA. APLICAÇÃO DA SÚMULA N. 66 DESTE SODALÍCIO, QUE EXIGE O DEPÓSITO DA PARTE INCONTROVERSA DO DÉBITO. MANUTENÇÃO DO ARESTO PRETÉRITO QUE SE IMPÕE. ACÓRDÃO PRESERVADO EM CARÁTER DE REEXAME.
+Nas razões do apelo especial, o recorrente alega, além da existência de divergência jurisprudencial, violação dos arts. 6º, 39, 46, 47, V, 51, IV e § 1º, e 52, I a III, do Código de Defesa do Consumidor; e 3º, caput, do Decreto Lei n. 911/1969.
+Sustenta, em síntese, que "a abusividade contratual descaracteriza a mora do réu, mesmo quando ausentes depósitos em juízo de valores tidos por incontroverso pelo consumidor, devendo a ação ser extinta sem resolução de mérito, por perda superveniente de requisito da ação (mora debitoris)" (fl. 5, e-STJ).
+Sem contrarrazões, fl. 1 (e-STJ).
+O apelo extremo foi admitido na origem (fls. 1-2, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal local reconheceu a abusividade dos juros remuneratórios estipulados no contrato firmado entre as partes, sob as seguintes justificativas (e-STJ, fl. 5):
+Com efeito, verifico que na hipótese vertente foi reconhecida a abusividade dos juros remuneratórios avençados no contrato de financiamento sub judice. Entretanto, é o caso de manutenção da decisão colegiada anterior, que rejeitou a pretensão de descaracterização da mora debendi, uma vez que prevalece o entendimento exarado na Súmula n. 66, deste Sodalício, in verbis: "A cobrança abusiva de encargos no período da normalidade contratual (juros remuneratórios e capitalização) não basta para a descaracterização da mora quando não efetuado o depósito da parte incontroversa do débito".
+Vale dizer, portanto, que o aresto pretérito, objeto do presente reexame, aplicou entendimento que encontra-se em compasso com o verbete 66 das súmulas deste Areópago, sendo de rigor a sua observância conforme preceitua o art. 927, inciso V, do CPC.
+Todavia, mesmo concluindo pela cobrança de encargo ilegal durante o período de normalidade do contrato, o aresto impugnado deixou de afastar a mora em face da inadimplência do recorrente.
+A compreensão adotada pelo Tribunal estadual, todavia, aparta-se do entendimento jurisprudencial pacífico do Superior Tribunal de Justiça. Efetivamente, esta Corte de Justiça, quando do julgamento do Recurso Especial n. 1.061.530/RS (Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/3/2009), submetido à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), estabeleceu que:
+ ..  ORIENTAÇÃO 2 - CONFIGURAÇÃO DA MORA a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora; b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.  ..
+Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. NÃO OBSERVÂNCIA. REVISÃO. POSSIBILIDADE. MORA DESCARACTERIZADA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo. Reconsideração, diante da existência de impugnação, na petição de agravo, da decisão que não admitiu o recurso especial na origem.
+2. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a cobrança abusiva (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento concreto.
+3. Em conformidade com a jurisprudência pacífica desta Corte Superior, firmada por ocasião do julgamento do Recurso Especial 1.061.530/RS, submetido ao rito dos recursos repetitivos, instituído pelo artigo 543-C do CPC, "o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora" (AgRg no AREsp 507.275/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/8/2014, DJe de 8/8/2014).
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.584.971/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/3/2021, DJe de 13/4/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MÚTUO BANCÁRIO.CORREÇÃO. ÍNDICE. CDI. INADMISSIBILIDADE. SÚMULA N. 176/STJ. MORA AFASTADA. PRECEDENTES. SUBSTITUIÇÃO PELO IGPM. SÚMULA N. 284/STF. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. "É nula a cláusula contratual que sujeita o devedor à taxa de juros divulgada pela ANBID/CETIP" (Súmula 176/STJ).
+2. A cobrança de encargos indevidos durante o período de normalidade do contrato afasta do devedor os efeitos da mora. Precedentes.
+3. Sendo o especial recurso de fundamentação vinculada, cabe à parte atrelar a sua argumentação a violação do direito objetivo ou a divergência jurisprudencial, sob pena de incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+4. A ausência de impugnação a todos os fundamentos da decisão agravada atrai a incidência do verbete n. 182 da Súmula desta Corte.
+5. Agravo interno não conhecido.
+(AgInt no AREsp 1407662/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/09/2019, DJe 18/09/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALIENAÇÃO FIDUCIÁRIA. JUROS REMUNERATÓRIOS. ALTERAÇÃO. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ. MORA. CARACTERIZAÇÃO. COBRANÇA INDEVIDA. ENCARGO DA NORMALIDADE. ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO. RECURSO REPRESENTATIVO DA CONTROVÉRSIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ)
+2. Os juros remuneratórios devem ser limitados à taxa média de mercado quando cabalmente comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Recurso representativo da controvérsia.
+3. A reforma do julgado demandaria a revisão do acervo fático-probatório e a análise de cláusulas contratuais, procedimento vedado na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. A constatação do abuso na exigência de encargos durante o período da normalidade contratual afasta a configuração da mora, consoante iterativa jurisprudência desta Corte.
+5. Agravo interno não provido.
+(AgInt no AREsp 1183999/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018)
+Dessa forma, nota-se que a decisão recorrida está em dissonância com o entendimento firmado por este Tribunal Superior, motivo pelo qual merece reparo.
+Diante do exposto, dou provimento ao recurso especial, a fim de, nos termos da referida jurisprudência, julgar improcedente a ação de busca e apreensão.
+Em virtude do provimento do recurso especial, determino a inversão do ônus sucumbencial em favor dos advogados da parte recorrente, fixando os honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO RECONHECIMENTO DA ABUSIVIDADE DE ENCARGO INCIDENTE NO PERÍODO DA NORMALIDADE (JUROS REMUNERATÓRIOS). DESCARACTERIZAÇÃO DA MORA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
