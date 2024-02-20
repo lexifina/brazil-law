@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por S. M. CONSTRUÇÕES LTDA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amapá, assim ementado (e- STJ Fl.2624):
+"APELAÇÃO CÍVEL. PROCESSUAL CIVIL. SUSPEIÇÃO DO JUIZ. CERCEAMENTO DE DEFESA. PRELIMINARES REJEITADAS. AUSÊNCIA DE COMPROVAÇÃO DE FATO IMPEDITIVO DO DIREITO DO AUTOR. SAQUE DE VALORES DE ALVARÁ JUDICIAL. AUSÊNCIA DE REPASSE À EMPRESA CREDORA. CONDENAÇÃO NO VALOR DA DIVIDA LIQUIDA E CERTA. INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA. RECURSOS CONHECIDOS E DESPROVIDOS. 1) Ocorrendo à preclusão pela inércia da parte, a presunção de parcialidade fica ilidida, passando o juiz a ser considerado imparcial. A sua sentença é válida e não pode ser objeto de impugnação por ação rescisória, cabível apenas quando o ato é proferido por juiz impedido (CPC 966 II). Preliminar rejeitada. 2) Segundo jurisprudência do STJ, ao juiz, como destinatário da prova, cabe indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa, (AgInt no REsp 1670127/MT, Rel. Marco Buzzi, Quarta Turma, julgamento em 04/05/2020, publicado no DJE do dia 07/05/2020). 3) Sabe-se que cabe ao autor o ônus da prova dos fatos constitutivos do seu direito, art. 373, I do CPC, e para tanto trouxe aos autos a cópia do alvará de levantamento que comprova a existência dos valores, porém é descabido exigir que comprove a negativa do recebimento do dinheiro, porém cabe aos requeridos provar fato impeditivo do direito do autor, art. 373, inciso II do CP, e a eles caberia provar por meio de comprovante de pagamento que repassaram o dinheiro à empresa S.M. CONSTRUÇÕES LTDA, até mesmo porque quem poderia sacar os valores do alvará judicial era o advogado 1º Apelante. 4) Portanto, os advogados apelantes não comprovaram que fizeram o pagamento do valor recebido no alvará de levantamento à empresa beneficiária S.M CONSTRUÇÕES LTDA ou ao seu representante, sendo certo que fizeram o resgate do valor no Banco do Brasil, ainda mais porque o documento foi expedido no nome do patrono. 5) O juízo de 1º grau também acertou em estabelecer o valor de R$ 577.032,26 referente a parte pertencente à empresa do valor contido no alvará, devendo incidir nesse valor a correção monetária desde o dia em que o valor foi recebido pelos advogados, 30/03/2001, com juros de mora a partir da citação. Concordo com os argumentos da sentença. 6) Recursos conhecidos e desprovidos."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que no presente caso ocorreu a preclusão temporal pro judicato do tema referente ao valor da causa, na melhor interpretação do art. 293 do CPC/2015.
+As contrarrazões ao recurso especial foram apresentadas a fls. 2924/2933.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação de cobrança ajuizada por SM CONSTRUÇÕES LTDA em face de ANTONIO CABRAL DE CASTRO e JOSÉ CAXIAS LOBATO, pretendendo a devolução/ressarcimento do valor originário de R$ 577.032,26 (1.956.590,75, atualizado até a data de ingresso da ação), que teria sido apropriado/retido indevidamente pelos advogados requeridos, nos autos do processo por eles patrocinado, objeto de alvará judicial de levantamento sacado pelos causídicos, no valor total de R$ 721.290,33, neste valor incluído os honorários de sucumbência, sem repassar o valor principal que cabia à empresa autora.
+A sentença julgou o pedido procedente, para condenar os réus, solidariamente, a ressarcir/devolver à autora a quantia de R$ 577.032,26 (quinhentos e setenta e sete mil, trinta e dois reais e vinte e seis centavos), atualizados monetariamente pelo INPC/IBGE, a partir de 30/03/2001 (data do recebimento do alvará); bem como, juros legais de mora, de 1% ao mês, a contar da citação.
+Em sede de apelação, o Tribunal a quo manteve a procedência do pedido, nos termos da ementa supratranscrita.
+A questão recursal gira em torno da preclusão para alterar o valor da causa.
+Com efeito, verifica-se que a tese recursal do apelo nobre não foi apreciada pelo Tribunal a quo, tampouco foi alvo de embargos declaratórios, sequer opostos para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. CONCLUSÃO ESTADUAL ACERCA DA AUSÊNCIA DE PREJUÍZOS PRATICADOS PELA RECORRIDA E DANOS MORAIS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 32, caput, da Lei n. 8.906/1994 e 2º e 4º do Estatuto do Idoso não foram objeto de prequestionamento no julgado da segunda instância e os insurgentes não opuseram embargos de declaração objetivando suprir eventual ocorrência de vícios do art. 1.022 do CPC/2015. Aplicação das Súmulas 282 e 356/STF.
+(..)
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.549.709/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORABILIDADE DE VERBA SALARIAL. IMPOSSIBILIDADE. EXCEPCIONALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+(..)
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.836.544/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 329 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. AÇÃO MONITÓRIA. EMBARGOS. PROVA ESCRITA. APTIDÃO PARA APARELHAR O PEDIDO MONITÓRIO. EXAME APÓS A CONVERSÃO DO RITO. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitados embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.635.758/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/06/2020, DJe 15/06/2020)
+DIREITO CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ILEGALIDADE DA MODIFICAÇÃO DA COMPETÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGALIDADE DA MULTA IMPOSTA. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. IMPOSSIBILIDADE DA REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. INDEVIDA INOVAÇÃO RECURSAL. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.508.110/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, deixo de majorar a verba honorária advocatícia na forma do art. 85, § 11, do CPC/2015, posto que não fixada em desfavor da parte recorrente, pelas instâncias ordinárias.
+Publique-se.
+EMENTA
