@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO SANTANDER BRASIL S/A (SANTANDER), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO DE APELAÇÃO DEPÓSITOS JUDICIAIS. Pretensão ao ressarcimento de correção monetária. Banco autor, sucessor do Banco Banespa, que objetiva a condenação do Estado de São Paulo no ressarcimento de valores que teve de despender, a título de expurgos inflacionários, referentes aos planos Verão,Collor I e Collor II, a beneficiários de depósitos judiciais. Sentença de improcedência. Inconformismo do autor. Descabimento. Banco que, à época dos fatos, participou de tratativas quanto ao tratamento que seria conferido a tais valores, podendo demonstrar eventual contrariedade. Ausência de comprovação de qualquer nexo causal que relacione uma conduta do Estado ao suposto dano experimentado pelo Banespa. Pagamento de correção monetária que é tarefa atribuída à própria instituição financeira. Precedentes deste E. Tribunal de Justiça. Sentença mantida. Recurso não provido. (e-STJ, fls. 1.959).
+Foi apresentada contraminuta (e-STJ, fls. 2.136/2.146).
+É o relatório.
+Decido.
+Conforme se depreende dos autos, SANTANDER ajuizou ação indenizatória contra a FAZENDA DO ESTADO DE SÃO PAULO, objetivando a sua condenação ao pagamento da quantia de R$ 7.000.000,00 (sete milhões de reais), ao fundamento de que teria sofrido prejuízo financeiro por responder por ação judicial, na qual foi condenado a compor valores relativos a expurgos inflacionários.
+Nos termos do art. 9º, caput, do Regimento Interno desta Corte Superior, a competência da Seções e das respectivas Turma é fixada em razão da natureza da relação jurídica litigiosa.
+No caso em tela, a controvérsia do apelo nobre gira em torno da responsabilidade do Estado por uma conduta que teria gerado danos ao SANTANDER, de modo que a competência é da Primeira Seção, pois, nos termos do art. 9º, § 1º, VIII, do RISTJ, esse é o órgão julgador competente para processar e julgar recursos relativos a responsabilidade civil do Estado.
+Nessa esteira, convém salientar que a referida controvérsia tem sido julgada pelas turmas integrantes da Primeira Seção desta Corte Superior, veja-se: REsp nº 1912908 - SP, Rel. Ministra REGINA HELENA COSTA, j. 2/6/2022.
+Nessas condições, determino a redistribuição do feito a um dos Ministros das Turmas que compõem a Primeira Seção
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL DO ESTADO DE SÃO PAULO. PREJUÍZO CAUSADO PELA CONDENAÇÃO EM AÇÃO JUDICIAL REFERENTE AO PAGAMENTO DE EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DE UMA DAS TURMAS DA PRIMEIRA SEÇÃO DO STJ. INTELIGÊNCIA DO ART. 9º, § 1º, INCISO VIII DO RISTJ. DECLINAÇÃO DA COMPETÊNCIA.
