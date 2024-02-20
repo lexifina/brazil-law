@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RODOLFO NICASTRO contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, de relatoria do Desembargador J.B. FRANCO DE GODOI, assim ementado:
+"AÇÃO DECLARATÓRIA DE NULIDADE DE ALTERAÇÃO DE CONTRATO SOCIAL Decisão que afastou a preliminar de prescrição, ao argumento de que a simulação é causa de nulidade absoluta Manutenção da decisão, por outro fundamento, tendo em vista que os negócios jurídicos em análise foram celebrados na vigência do Código Civil de 1916, quando a simulação era causa de anulabilidade, sujeita ao prazo decadencial de 4 anos Aplicação do art. 6º, § 1º, da LINDB e da regra de transição prevista no art. 2.035 do CC/02 - "Tempus regit actum" Caso em que o reconhecimento da decadência depende da verificação da ocorrência ou não de coação e, em caso positivo, do dia em que ela cessou - Decisão mantida, sob fundamento diverso - Recurso improvido."
+Opostos embargos declaratórios foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO Inexistência de omissão Análise clara e precisa de todas as questões alegadas pelas partes Oposição ao julgamento virtual que foi exaustivamente enfrentada Embargos rejeitados."
+Irresignado, RODOLFO NICASTRO interpôs recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 147 e 178, § 9, V, b, do CC/1916, ao argumento de que a pretensão da recorrida em buscar a nulidade dos atos jurídicos praticados em dezembro de 2001 e janeiro de 2002 já se encontra fulminada pela prescrição, seja pelo argumento de simulação ou coação, haja vista que os documentos foram firmados por pessoas capazes, sem qualquer impedimento legal e devidamente registrados perante à Junta Comercial de São Paulo.
+O recurso especial não foi admitido pelo Tribunal de São Paulo, por incidir, no caso, o teor da Súmula n.º 7 do STJ (e-STJ, fls. 380/381).
+Nas razões do presente agravo, RODOLFO NICASTRO refuta o referido óbice de prelibação (e-STJ, fls. 384/399).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da prescrição da pretensão anulatória
+RODOLFO NICASTRO apontou a violação dos arts. 147 e 178, § 9, V, b, do CC/1916, ao argumento de que a pretensão da recorrida em buscar a nulidade dos atos jurídicos praticados em dezembro de 2001 e janeiro de 2002 já se encontra fulminada pela prescrição, seja pelo argumento de simulação ou coação, haja vista que os documentos foram firmados por pessoas capazes, sem qualquer impedimento legal e devidamente registrados perante à Junta Comercial de São Paulo.
+Todavia, encontra-se consignado no acórdão recorrido que:
+Ocorre, no entanto, que o autor-agravado sustenta que foi coagido a assinar os mencionados Instrumentos de Alteração de Contrato Social, ante as ameaças de demissão da sociedade empresária em que trabalha há anos e de despejo do imóvel a ele cedido para residir com sua família. Aduz-se, ainda, que a coação permanece até os dias de hoje.
+Como visto, o prazo decadencial para anular o negócio jurídico por vício de coação é de 4 anos. Tanto o Código Civil de 1916 quanto o de 2002, no art. 178, § 9º, V, "a", e no art. 178, I, respectivamente, estabelece essa medida de tempo e apontam como termo inicial da contagem do prazo o dia em que cessara coação. Esse o entendimento esposado por SERPALOPES em seu "CURSO DE DIREITO CIVIL" -vol. I-7ªed.-FREITAS BASTOS-Rio-1989- pág.545/546.
+Com efeito, considerando a perpetuação dialética acerca da ocorrência ou não da coação, bem como da sua controvertida continuidade ao longo dos anos que sucederam a celebração dos Instrumentos de Alteração de Contrato Social de fls. 49/68, é imprescindível que a fase de conhecimento do processo se desenvolva, a fim de sanar a controvérsia deduzida nos autos.
+Isso porque somente ao término da etapa instrutória será possível verificar se houve ou não o alegado vício de consentimento e caso tenha de fato ocorrido quando ele cessou.
+Por conseguinte, restará permitida a verificação da preliminar de decadência do direito de anular os negócios jurídicos, assim como a arguição de prescrição da pretensão de reparação civil pelas supostas violações aos direitos da personalidade do autor-agravado.
+A configuração da coação, a definição da linha fronteiriça com o mero temor reverencial e o dia da cessação do fundado receio de dano iminente são pontos essenciais a serem elucidados no processo, dos quais depende a resolução do feito (e-STJ Fls.340/341).
+Verifica-se que os argumentos acima transcritos não foram impugnados nas razões do recurso especial, eis que incólume a fundamentação quanto à contagem do prazo prescricional começar do término da coação e quanto à necessidade de apuração da existência e duração de tal vício de consentimento, o que atraiu a incidência da Súmula n.º 283 do STF, por analogia.
+Confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. INDEFERIMENTO DA INICIAL. ALEGAÇÃO DE EQUÍVOCO NA EXTINÇÃO DO FEITO. DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL. FUNDAMENTO INATACADO. SÚMULAS NºS 283 DO STF E 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. CORRETA APLICAÇÃO. PREVISÃO CONTIDA NO ART. 85, § 11, DO NCPC. ENTENDIMENTO FIRMADO EM JULGAMENTO DA EG. SEGUNDA SEÇÃO DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A subsistência de fundamento inatacado, apto a manter as conclusões do acórdão impugnado, impõe o reconhecimento da incidência da Súmula nº 283 STF, por analogia.
+(..)
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.818.635/SP, Rel. Ministro MOURA RIBEIRO,Terceira Turma, julgado em 25/4/2022, DJe 28/4/2022)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. ALTERAÇÃO DE CONTRATO SOCIAL. NULIDADE.VÍCIO DE CONSENTIMENTO. PRESCRIÇÃO. EXISTÊNCIA E DURAÇÃO. APURAÇÃO. NECESSIDADE. A CÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA N.º 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
