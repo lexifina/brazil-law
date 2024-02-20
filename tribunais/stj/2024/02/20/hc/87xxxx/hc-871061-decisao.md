@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Rodrigo de Jesus Marques, no qual se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul, que, no julgamento da Apelação Criminal n. 0002598-59.2020.8.12.0019, deu parcial parcial provimento ao recurso interposto pela defesa, para aplicar o patamar de 2/3 pelo tráfico privilegiado e reduzir a pena do paciente para 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e ao pagamento de 175 dias-multa, e deu parcial provimento ao recurso interposto pelo Ministério Público para afastar a substituição da pena privativa de liberdade por restritivas de direitos (fl. 281).
+Aqui, a defesa alega que os requisitos previstos no art. 44 do Código Penal estão presentes, ou seja, a pena aplicada não é superior a 4 anos, o paciente não é reincidente em crime doloso, e as circunstâncias do art. 59 do CP lhe são favoráveis. Além disso, a substituição da pena privativa de liberdade por restritiva de direitos no crime de tráfico privilegiado é absolutamente possível no caso em tela (fl. 6).
+Requer, assim, a concessão da ordem para substituir a pena privativa de liberdade por restritiva de direitos.
+Não houve pedido liminar.
+Informações prestadas (fls. 297/306), o Ministério Público Federal ofereceu parecer pelo não conhecimento do writ (fls. 311/320).
+É o relatório.
+Sobre o tema aqui trazido pela defesa - substituição da pena privativa de liberdade por restritivas de direitos -, o Tribunal a quo assim decidiu (fl. 280):
+ ..
+A hipótese versada trata do transporte interestadual de relevante quantidade de maconha (4,200 quilogramas), esta que é uma das circunstâncias judiciais preponderantes nos termos do art. 42 da Lei n. 11.343/2006, de forma que a substituição pleiteada não se mostra adequada à prevenção e repressão do crime praticado.
+ ..
+Pois bem, verifica-se que o acórdão impugnado não destoa da jurisprudência desta Corte que entende que a análise desfavorável das circunstâncias judiciais justifica a fixação do regime semiaberto, bem como o afastamento da substituição da sanção corporal por restritivas de direitos, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, § 3º, e 44, III, c/c o art. 59, todos do Código Penal (AgRg no AREsp n. 1.473.857/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2020, DJe 27/2/2020).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PLEITO DE FIXAÇÃO DE REGIME PRISIONAL ABERTO E DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS DO DELITO. QUANTIDADE DE ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O Plenário do col. Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/1990 - com redação dada pela Lei n. 11.464/2007, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo. Para tanto, devem ser observados os preceitos constantes dos arts. 33 e 59, ambos do Código Penal.
+III - Não há ilegalidade na fixação do regime semiaberto, uma vez que houve fundamentação idônea a ensejar a aplicação do regime mais gravoso, lastreada na apreensão de 184,54 g de cocaína, 3.040,1 g de maconha e 50,17 g de crack, quantidade significativa de entorpecentes, incluindo cocaína e crack, de natureza especialmente deletéria , em consonância com o entendimento desta Corte, ex vi do art. 33, parágrafo 2º, b, e parágrafo 3º, do Código Penal, e art. 42 da Lei n. 11.343/20 06. Pelos mesmos motivos é descabida a substituição da pena privativa de liberdade por penas restritivas de direitos, nos termos do art. 44, III, do Código Penal. Agravo regimental desprovido.
+(AgRg no HC n. 799.795/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/4/2023, DJe 28/4/2023).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO PRIVILEGIADO. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CIRCUNSTÂNCIAS DO CRIME QUE NÃO RECOMENDAM O DEFERIMENTO DO BENEFÍCIO. QUANTIDADE DA DROGA APREENDIDA. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
