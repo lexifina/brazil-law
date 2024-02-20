@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado da Bahia, assim ementado (e-STJ, fl. 323):
+"RECURSO DE APELAÇÃO CÍVEL. PLANO DE SAÚDE COLETIVO DE AUTOGESTÃO. INAPLICABILIDADE DO CÓDIGO DEFESA DO CONSUMIDOR. REAJUSTES POR FAIXA ETÁRIA. RECURSOS ESPECIAIS REPETITIVOS. TEMA 1016 DO STJ. APLICABILIDADE DO TEMA 952/STJ AOS PLANOS COLETIVOS. REAJUSTE NA MENSALIDADE DO PLANO POR MUDANÇA DE FAIXA ETÁRIA. SINISTRALIDADE. ABUSIVIDADE. CONTRATO FIRMADO ANTES DA LEI Nº 9.656/98 SEM PREVISÃO DE FORMA CLARA EPRECISA, SOBRE REAJUSTES POR FAIXA ETÁRIA. FALHA NO DEVER DE INFORMAÇÃO. PARTE AUTORA QUE SE DESINCUMBIU DO ÔNUS DE COMPROVAR O DIREITO ALEGADO. PLANO SE SAÚDE QUE NÃO COMPROVOU A LEGALIDADE DA SINISTRALIDADE QUE JUSTIFICASSE OS PERCENTUAIS DE REAJUSTE DO PLANO DE SAÚDE. PRELIMINAR DE PRESCRIÇAO DA PRETENSÃO DE REPETIÇÃO DO INDÉBITO. PRAZO TRIENAL. ACOLHIMENTO. TEMA 610 DO STJ. REFORMA DA SENTENÇA PROFERIDA. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS REVERTIDA EM DESFAVOR DO SEGURO SAÚDE. RECURSO CONHECIDO E PROVIDO."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 436-460).
+Nas razões do recurso especial (e-STJ, fls. 498-531), a parte ora agravante apontou violação dos arts. 10, VI e § 4º da Lei n. 9.656/1998; 4º, III, da Lei n. 9.961/2000; 421, caput e parágrafo único, do Código Civil de 2002; 1.022, II, do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ausência de prestação jurisdicional; a legalidade do reajuste dos planos de saúde por faixa etária, a inexistência de abusividade e, ainda, aduzindo que o afastamento do reajuste etário impõe o retorno dos autos à origem para apuração do percentual de reajuste devido; a inocorrência de valores a restituir.
+Foram apresentadas contrarrazões (e-STJ, fls. 644-654).
+O Tribunal de origem não admitiu o recurso especial em razão da ausência de violação do art. 1.022 do CPC/1973; do acórdão recorrido estar em conformidade com o entendimento firmado no STJ, por meio de repetitivo (REsp 1.716.113/DF); e da ausência de prequestionamento, incidindo as Súmulas 282 e 356 do STF (e-STJ, fls. 655-664).
+É o relatório.
+Preliminarmente, cumpre dizer que a decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o qual prevê, em seu art. 1.030, I, b, § 2º, do CPC/2015, que cabe agravo interno contra a decisão que não conhece do recurso especial interposto contra acórdão em conformidade com entendimento do STJ em recurso repetitivo.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DECISÃO QUE NÃO CONHECE DE RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EM CONFORMIDADE COM ENTENDIMENTO DO STJ EM RECURSO REPETITIVO. RECURSO CABÍVEL. AGRAVO INTERNO. IMPOSSIBILIDADE DE APLICAR-SE O PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO AOS ARTS. 9º, 10 E 933 DO CPC. PRINCÍPIO DA NÃO SURPRESA. CONEXÃO. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO APONTAMENTO DO DISPOSITIVO DE LEI FEDERAL ACOIMADO DE VIOLADO. SÚMULA 284 DO STF. ART. 42 DO CÓDIGO DE ÉTICA DA OAB. NORMA INFRALEGAL. AUSÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE. CONEXÃO. DIVERGÊNCIA PELA SÚMULA 7 DO STJ.
+1. A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o qual prevê, em seu art. 1.030, I, "b", § 2º, do CPC/2015, que cabe agravo interno contra a decisão que não conhece do recurso especial interposto contra acórdão em conformidade com entendimento do STJ em recurso repetitivo.
+2. Assim, diante da expressa previsão legal do cabimento de agravo interno, a interposição de agravo em recurso especial constitui falha inescusável que impede a aplicação do princípio da fungibilidade recursal.
+ ..  11. Agravo interno não provido.
+(AgInt no AREsp 1598438/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em, 31/5/2021, DJe de 7/6/2021, g.n.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO.
+FUNDAMENTO NO ART. 1.030, I, "B" DO CPC. AGRAVO EM RECURSO ESPECIAL INADEQUAÇÃO. ERRO GROSSEIRO. HONORÁRIOS RECURSAIS. CABIMENTO.
+1. Nos termos do art. 1.030, § 2º, do CPC/2015, é cabível o agravo interno contra a decisão que nega seguimento ao recurso especial interposto contra acórdão que esteja em conformidade com entendimento do STJ ou do STF exarado sob o regime de julgamento de recursos repetitivos.
+2. Havendo previsão legal expressa, a interposição de agravo em recurso especial nesse caso configura erro grosseiro, o que torna inviável a aplicação do princípio da fungibilidade recursal.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp 1801420/PE, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em, 17/5/2021, DJe de 25/5/2021, g.n.)
+Desta forma, não cabe a apreciação da matéria que não foi admitida pelo Tribunal de origem por estar em consonância com o Resp n. 1.716.113/DF, julgado pelo regime de recursos repetitivos.
+Quanto ao art.1.022 do CPC/2015, não se vislumbra a alegada violação do referido artigo, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. INEXISTÊNCIA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O direito à liberdade de imprensa não é absoluto, devendo sempre ser alicerçado na ética e na boa-fé, sob pena de caracterizar-se abusivo.
+5. A jurisprudência desta Corte Superior é consolidada no sentido de que a atividade da imprensa deve pautar-se em três pilares, quais sejam: (i) dever de veracidade, (ii) dever de pertinência e (iii) dever geral de cuidado. Se esses deveres não forem observados e disso resultar ofensa a direito da personalidade da pessoa objeto da comunicação, surgirá para o ofendido o direito de ser reparado.
+6. Na hipótese dos autos, a Corte a quo, soberana no exame do acervo fático-probatório, constatou que a jornalista não propagou informações falsas acerca do recorrente, mas apenas veiculou dados extraídos de fatos que públicos e matérias jornalísticas amplamente difundidas à época.
+7. Assim, o aresto impugnado está em harmonia com a jurisprudência desta Corte Superior acerca da matéria.
+8. Ademais, a alteração da conclusão alcançada pelo Tribunal local demandaria o incurso em matéria fático-probatória, o que é vedado em sede de recurso especial pelo óbice da Súmula 7 do STJ.
+9. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.090.707/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Em relação aos arts. 10, VI e § 4º da Lei n. 9.656/1998; 4º, III, da Lei n. 9.961/2000; 421, caput e parágrafo único, do Código Civil de 2002, destaca-se que o Tribunal de origem não emitiu juízo de valor acerca dos dispositivos em questão. Ademais, constata-se que não foram opostos embargos de declaração com o intuito de provocar o juízo a quo a se manifestar sobre o tema.
+Dessa forma, constatada a ausência de prequestionamento incide no caso o óbice da Súmula n. 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+No mesmo sentido os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. POSTAGENS OFENSIVAS. REPERCUSSÃO GERAL. TEMA N. 837 DO STF. DISTINÇÃO FÁTICA. DETERMINAÇÃO DE SUSPENSÃO DE PROCESSOS SOBRE O MESMO TEMA. INOCORRÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. ANIMUS DIFAMANDI. REEXAME. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Não autoriza a suspensão de julgamento de recurso especial que não tem identidade fática com aquela tratada em recurso extraordinário em que foi reconhecida a repercussão geral da matéria, in casu, por meio da afetação do Tema n. 837, no RE n. 662.055/SP. Precedente.
+2. O prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+3. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF.
+4. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda. A incidência de referido óbice quanto à interposição pela alínea a do permissivo constitucional obsta igualmente o conhecimento do apelo extremo pela divergência jurisprudencial sobre a mesma questão.
+5 . Agravo interno desprovido."
+(AgInt no AREsp n. 2.182.270/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/5/2023, DJe de 17/5/2023 - sem grifo no original).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 15% para 17% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
