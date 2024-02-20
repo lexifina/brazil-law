@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5019153-28.2021.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: WESLEY ARAUJO SANTANA
+RECORRIDO: MARCOS EDUARDO MELO CELESTINO e outros (3)
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO CIVIL.
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE NÃO COMPROVADA. NARRAM OS AUTORES QUE ESTAVAM TRAFEGANDO PELA RUA 23 DE MAIO COM SEMÁFORO ABERTO QUANDO UMA AMBULÂNCIA DE SIRENE DESLIGADA AVANÇOU O SINAL, QUE ESTAVA FECHADO PARA ELA, E GEROU UMA BATIDA. A SITUAÇÃO SE DEU EM CRUZAMENTO, IMPEDINDO A VISUALIZAÇÃO TANTO DO GIROFLEX QUANTO DA AMBULÂNCIA, SENDO QUE A SIRENE FOI TÃO SOMENTE LIGADA QUANDO O AUTOMÓVEL DOS REQUERENTES ENCONTRAVA-SE NO MEIO DA PISTA. HOUVE TESTEMUNHAS PARA A SITUAÇÃO QUE SE DISPONIBILIZARAM A PRESTAR DEPOIMENTO EM JUÍZO. AO CONVERSAR COM O MOTORISTA DA AMBULÂNCIA, O MESMO HAVIA AFIRMADO QUE O SINAL ESTARIA ABERTO PARA SI. APÓS O OCORRIDO, FOI REALIZADO CONTATO JUNTO A PREFEITURA DE VITÓRIA A FIM DE SOLICITAR AS IMAGENS DAS CÂMERAS DISPONÍVEIS NO LOCAL, SENDO REALIZADO O PROTOCOLO 0P1J1-813HR. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO INDENIZAÇÃO POR DANOS MATERIAIS NO VALOR DE R$ 35.000,00. SENTENÇA DE PISO JULGOU IMPROCEDENTES OS PEDIDOS DA INICIAL. RECURSO INOMINADO BUSCANDO A REFORMA TOTAL DA SENTENÇA PARA JULGAR PROCEDENTES OS PEDIDOS DA EXORDIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE PLEITO CÍVEL NA QUAL NÃO RESTARAM DEVIDAMENTE COMPROVADOS OS FATOS CONSTITUTIVOS DO DIREITO DO ORA REQUERENTE, NÃO SENDO POSSÍVEL A RESPONSABILIZAÇÃO DOS ORA RECORRIDOS. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DIANTE DO VASTO CONTEÚDO PROBATÓRIO PRODUZIDO NOS AUTOS DE FORMA QUE NÃO MERECE REFORMA.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
