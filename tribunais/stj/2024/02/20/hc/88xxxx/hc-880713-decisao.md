@@ -1,0 +1,39 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto em parte o relatório de fl. 915 (e-STJ).
+O pedido liminar foi indeferido (e-STJ fls. 915-916).
+A origem prestou informações (e-STJ fls. 919-922 e 932-940).
+O Ministério Público manifestou-se pelo não conhecimento ou pela denegação da ordem de habeas corpus (e-STJ fls. 926-929).
+É o relatório.
+Decido.
+As informações prestadas nos autos revelam a ausência de modificação fático-jurídica desde a análise anterior deste feito. Passo, então, à apreciação definitiva da insurgência.
+Os pacientes tiveram contra si prisão preventiva decretada em 23/11/2023 (e-STJ fls. 34-37) e, posteriormente, foram denunciados por suposta infração ao art. 180, § 1º, do Código Penal.
+Consta nos autos que os pacientes junto a corréus (e-STJ fl. 815): "adquiriram, em proveito próprio, no exercício de atividade comercial, carga de latas de cerveja, de marcas diversas, e oriunda da empresa de distribuição de bebidas Ambev, coisa que deveriam saber ser produto de crime anterior (estelionato)".
+Vale destacar, novamente, os fundamentos que embasaram o decreto de prisão preventiva no presente caso (e-STJ fl. 37):
+Feitas tais considerações, observo que os presos, do que se depreende dos autos, ao menos nesta fase de cognição sumária, encontravam-se de maneira organizada, com nítida divisão de tarefas, na prática do crime de receptação qualificada, delito cuja pena ultrapassa os 4 anos, considerando ainda, que a abordagem dos indiciados fora realizada em razão de investigação pretérita da Delegacia Especializada, devendo-se portanto, se resguardar, além da ordem pública, a futura aplicação da lei penal e a instrução processual. Para além dos fatos graves que ensejaram o flagrante, é de ressaltar que Miguel responde a delito de tráfico de drogas; Lucas pelo delito previsto no art. 171 do C.P; Vinícius responde ao delito previsto na lei de organização criminosa e Filipe é reincidente por crime de roubo. Entendo, por isto, presentes os requisitos do artigo 312 do Código de Processo Penal, e não vislumbro suficiência, ao caso, de outras medidas cautelares que não a prisão cautelar.
+No mesmo sentido foi a decisão que negou a ordem, proferida pelo Tribunal de Justiça do Estado de São Paulo (e-STJ fls. 31-32):
+A decretação da prisão cautelar foi fundamentada pela Magistrada, que entendeu presentes os indícios de autoria e a prova da materialidade do delito, bem como a caracterização dos requisitos da prisão preventiva (fls.358/361 dos autos originários).
+Confira-se:
+ ..
+Em análise à decisão vergastada, constata-se que os pacientes foram presos em galpão no qual havia investigação prévia acerca da extensão das atividades ilícitas perpetradas por organização criminosa (autos nº 1501900-86.2023.8.26.0567) e da prática do crime de receptação de cargas. No local, alguns criminosos conseguiram fugir e os policiais localizaram diversos pallets de cerveja, carga avaliada em cerca de um milhão de reais. Além disso, a r. decisão apontou o risco de reiteração delitiva de Miguel, o qual responde pelo crime de tráfico de drogas, feito em que foi agraciado com liberdade provisória (fls. 331/332 dos autos de origem). Quanto a Leandro, observa-se que está envolvido neste grave crime de receptação de carga de elevado valor e tentou fugir quando da ação policial, circunstâncias devidamente indicadas na decisão combatida e que viabilizam, por si sós, a custódia cautelar de Leandro, também. Não bastasse, como já adiantado em sede liminar, sem que se pretenda agregar fundamentação, o que se mostra desnecessário dada a gravidade concretada conduta, consta ter sido Leandro condenado por furto qualificado (fls.334/335).
+Nesse contexto, mostra-se insuficiente a aplicação das medidas cautelares alternativas ao cárcere previstas no artigo 319 do Código de Processo Penal.
+Ainda, ressalto que, segundo posicionamento do C. Superior Tribunal de Justiça, as condições subjetivas dos pacientes, por si sós, não afastam a decretação da prisão cautelar quando presentes seus requisitos legais.
+Em suas informações, o Juízo de origem esclareceu que, " p or essa Vara Criminal, tramita o processo eletrônico nº 1503466-42.2023.8.26.0544 que investiga a participação dos pacientes num crime de roubo de carga praticado com outros oito indivíduos, ocorrido em 22/11/2023, sendo presos em flagrante" e que os fatos imputados aos pacientes foram assim descritos pelo Ministério Público na denúncia: "os denunciados, dentre eles os pacientes, adquiriram, ocultaram e mantiveram em depósito, em proveito próprio, no exercício de atividade comercial, carga de 50 paletes de latas de cerveja, de marcas diversas, avaliada em R$ 824.050,44 (oitocentos e vinte e quatro mil, cinquenta reais e quarenta e quatro centavos), e oriunda da empresa de distribuição de bebidas AMBEV S/A, coisa que deveriam saber ser produto de crime anterior (estelionato)" (e-STJ fl. 919).
+Consta, ainda, a informação de que já houve designação de audiência de instrução para o dia 06/03/2024.
+Como se vê, não há manifesta ilegalidade nos autos capaz de ge rar constrangimento ilegal passível de ser sanado pela via do habeas corpus.
+Sobre o tema, confiram-se os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. PRISÃO PREVENTIVA. PACIENTE CONDENADO. REGIME FECHADO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. DUPLA REINCIDÊNCIA ESPECÍFICA. AGRAVO DESPROVIDO.
+ ..
+II - A segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em razão de o paciente ostentar dupla reincidência específica, circunstância que revela a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 837.564/SP, Relator Ministro Messod Azulay, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. RECEPTAÇÃO QUALIFICADA. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. TESE DE EXCESSO DE PRAZO NA CONCLUSÃO DO INQUÉRITO POLICIAL. DENÚNCIA OFERECIDA. PEDIDO PREJUDICADO. AGRAVO DESPROVIDO.
+1. Hipótese em que o Juízo de primeiro grau, ao converter a prisão em flagrante em preventiva, destacou que o ora Agravante, além de reincidente, ostenta péssimos antecedentes, o que, nos termos da jurisprudência desta Corte, justifica a segregação cautelar para a garantia da ordem pública. Precedentes.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 185.393/SP, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/09/2023, DJe de 28/09/2023).
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
