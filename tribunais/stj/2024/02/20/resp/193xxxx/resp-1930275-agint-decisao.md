@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  por  JOSÉ LUIZ RODRIGUES VAZ  contra  a  decisão  que  deu  provimento  ao  recurso  especial  da Companhia Piratininga de Força e Luz  a  fim  de  reconhecer  sua  ilegitimidade  passiva  para  figurar  no  presente  feito  (e-STJ  fls.  540/543).
+Em  suas  razões  (e-STJ  fls.  562/568),  o  agravante  alega  que  "não trata a presente de situação de revisão do benefício por erro de cálculos, mas sim de ato ilício do empregador pela falta de pagamento correto da remuneração devida ao trabalhador ao tempo da vigência da relação empregatícia, que ensejaria o desconto correto da contribuição do empregado e o correto custeio da patrocinadora" (e-STJ fl. 567).
+Aduz  que  incorreto o acolhimento da tese de ilegitimidade passiva da patrocinadora ante o que a  Segunda  Seção  do  Superior  Tribunal  de  Justiça decidiu no REsp  nº 1.370.191/RS (rito  do  recurso  repetitivo).
+A  parte  contrária  apresentou  impugnação  às  fls.  577/578 (e-STJ).
+É  o  relatório.
+DECIDO.
+A  decisão agravada merece ser reconsiderada a fim  de  que seja alterado  o  fundamento  utilizado  para  dar  provimento  ao  recurso  especial  da Companhia Piratininga de Força e Luz .
+Consta  nos  autos  que  o  autor,  ora  agravante,  obteve,  na  Justiça  trabalhista,  o  reconhecimento  judicial  de  horas  extras  trabalhadas  e  busca  os  reflexos  da  complementação  de  aposentadoria  que  recebe  da  Fundação CESP.
+Assim,  pretendeu  com  a  presente  demanda  o  reconhecimento  de  que  o  patrocinador e a Fundação CESP  são  responsáveis  pelo pagamento das diferenças de complementação de aposentadoria que deveriam ter integrado o cálculo para a fixação do benefício.
+A  decisão  recorrida  deu  provimento  ao  recurso  especial  da  patrocinadora  sob  o  fundamento  de  ilegitimidade  passiva  para  responder  em  ações  nas  quais  é  discutido  o  valor  do  benefício  de  complementação  de  aposentadoria,  mesmo  nas  hipóteses  em  que  pretendida  sua  majoração  com  base  em  verbas  trabalhistas  não  pagas  durante  o  contrato  de  trabalho  e  que,  por  isso,  não  foram  levadas  em  consideração  para  efeito  de  cálculo  das  contribuições.
+Quanto  ao  tema,  o  Supremo  Tribunal  Federal,  no  julgamento  do  RE  1.265.564/SC,  em  repercussão  G eral,  reconheceu  a  incompetência  da  Justiça  Comum  para  processar  os  feitos  em  que  se  pretende  a  condenação  do  patrocinador  ao  aumento  do  benefício  previdenciário  com  base  em  verbas  trabalhistas  não  pagas  durante  o  contrato  de  trabalho.
+Esta  Corte,  por  sua  vez,  embora  a  princípio  reconhecesse  a  ilegitimidade  do  patrocinador  para  figurar  no  polo  passivo  em  razão  de  sua  personalidade  jurídica  autônoma,  assegurava  o  direito  de  ressarcimento,  na  justiça  competente,  por  ato  ilícito  cometido  pelo  empregador.
+Tal  questão,  inclusive,  já  foi  esclarecida  quando  do  julgamento  dos  EDcl  no  EAREsp  1.975.132/DF,  nos  termos  da  seguinte  ementa:
+"EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DIVERGÊNCIA  NO  RECURSO  ESPECIAL.  ERRO  MATERIAL.  EXISTÊNCIA.  CORREÇÃO.
+1.  A  leitura  do  inteiro  teor  do  acórdão  revela  que  a  única  questão  decidida  no  julgamento  dos  embargos  de  divergência  foi  o  reconhecimento,  de  ofício,  da  incompetência  da  Justiça  Comum  para  processar  e  julgar  a  demanda,  por  força  do  tema  1.166/STF,  e  que  não  foi  examinado  o  mérito  dos  embargos  de  divergência,  que  trata  da  legitimidade  passiva  da  instituição  financeira.
+2.  Embargos  de  declaração  acolhidos  para  corrigir  erro  material"  (EDcl  nos  EAREsp  1.975.132/DF,  Relatora  Ministra  NANCY  ANDRIGHI,  Segunda  Seção,  julgado  em  20/6/2023,  DJe  de  22/6/2023  ).
+Ante  o  exposto,  mantém-se o  provimento  do  recurso  da Companhia Piratininga de Força e Luz  para  excluí-la  da  presente  lide  em  razão  da  incompetência  da  Justiça  Comum,  devendo  sua  legitimidade  ser  aferida  perante  o  juízo  competente  no  caso  de  ser  demandada  pelo  agravante.  Mantida  a  sucumbência  fixada  à s fls.  542/543  (e-STJ).
+Publique-se.
+Intimem-se.
+EMENTA
