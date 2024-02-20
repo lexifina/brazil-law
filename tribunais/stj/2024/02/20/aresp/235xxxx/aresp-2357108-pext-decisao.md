@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de requerimento de extensão dos efeitos da tutela provisória para determinar ao banco requerido que se abstenha de promover descontos na folha de aposentadoria da requerente, bem como promova o estorno dos valores eventualmente já descontados.
+Alega a parte requerente que o banco requerido, em janeiro de 2024, retomou os descontos em sua folha de aposentadoria, o que compromete a sua subsistência alimentar, causando-lhe danos de impossível reparação, pois necessita do vencimento para sua sobrevivência.
+É, em síntese, o relatório.
+Acerca da tutela provisória, o Código de Processo Civil de 2015 assim dispõe:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Como se extrai do texto legal, a competência para decidir as questões urgentes é atribuída ao Juízo da causa. Portanto, o Superior Tribunal de Justiça somente poderá apreciá-las quando efetivamente aberta sua jurisdição para o caso concreto.
+No caso em tela, verifica-se que a parte requerente interpôs recurso especial (fls. 430/444), alegando ofensa ao artigo 1.022 do CPC/2015, tendo em vista que a Corte de origem não teria analisado nenhuma das questões deduzidas nas razões do agravo de instrumento, indeferindo o pedido de maneira genérica e sob a justificativa de que a decisão agravada não encerrou a questão sobre o pedido de tutela de urgência, mas apenas dispôs que essa questão será apreciada após o contraditório.
+Dessa forma, a decisão decisão monocrática de fls. 496/499 reconheceu a alegada ofensa apontada, deu provimento ao recurso especial e determinou a remessa dos autos ao Eg. Tribunal de origem, para que, novamente, aprecie os embargos de declaração, como entender de direito, sanando os vícios alegados, uma vez que a jurisprudência desta Corte firmou entendimento no sentido de que a decisão judicial que posterga o exame de liminar para momento posterior constitui ato passível de impugnação por meio de recurso de agravo de instrumento.
+Assim, fora determinada a remessa dos autos à Corte Estadual, para a devida manifestação efetiva acerca da matéria constante nos embargos de declaração opostos pela requerente na origem.
+Ademais, salienta-se que a tutela de urgência pleiteada, até o momento, não foi apreciada nos autos, seja pelo juízo de primeira instância - que postergou a análise para momento posterior ao contraditório -, seja pela Corte Estadual, que indeferiu o agravo de instrumento sob o fundamento de que a decisão que posterga a análise da tutela de urgência não é passível de agravo de instrumento.
+Outrossim, em que pese a requerente alegar danos de impossível reparação, não é possível reconhecer a extensão pleiteada nesta instância, pois se trata de matéria que extrapola os limites do recurso especial interposto pela requerente, não ca bendo ao Superior Tribunal de Justiça conhecer da questão per saltum, exercendo controle de atos praticados pelas instâncias ordinárias enquanto não devolvidos a este Tribunal Superior, mediante recurso próprio, sob pena de supressão de instância.
+Dessa forma, não esgotada a jurisdição ordinária, no caso concreto, impõe-se o indeferimento do pedido.
+Ante o exposto, nos termos do art. 288, § 2º, do RISTJ, não conheço do pedido de extensão dos efeitos da tutela provisória , ante a ausência de previsão legal.
+Publique-se e intime-se, com urgência.
+EMENTA
