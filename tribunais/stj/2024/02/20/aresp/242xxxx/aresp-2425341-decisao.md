@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por EVIDENCE PREVIDÊNCIA S.A. contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Ação revisional de contrato ajuizada em favor da fornecedora após mais de 20 anos de contribuição pelo participante de previdência complementar aberta. Excessiva desvantagem ao consumidor, que possui justa expectativa do que contratou. Incidência do Código de Defesa do Consumidor. Ademais, inexiste onerosidade excessiva que autorize a denúncia do contrato. Mudanças na política econômica com redução da taxa de juros e aumento da expectativa de vida da população que configuram risco de atividade. Ausência de fato imprevisível, notadamente se considerado o longo prazo dos negócios entabulados pela autora. Empresa de grande porte com conhecimento específico sobre tais temas que afetam seus contratos. Precedentes deste E. Tribunal em casos análogos. Sentença mantida.
+Recurso improvido.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 1633-1636.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arst. 1.022, I, e 373, I, do CPC/2015, bem como aos arts. 317 e 478 do Código Civil. Sustenta, em síntese, que: a) o acórdão estadual padece de omissão e contradição; b) houve cerceamento ao direito de defesa; e c) é possível e necessária a revisão das cláusulas contratuais, tendo em vista a onerosidade excessiva e imprevisível ocorrida durante o ajuste.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-SP analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando- se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Quanto ao alegado cerceamento de defesa, o Tribunal de origem assim se manifestou:
+"Inicialmente, cumpre afastar o propalado cerceamento de defesa, em decorrência do julgamento antecipado da lide.
+Com efeito, na esteira da jurisprudência, "o magistrado tem o poder-dever de julgar antecipadamente a lide, desprezando a realização de audiência para produção de provas, ao constatar que o acervo documental é suficiente para nortear e instruir seu entendimento. É do seu livre convencimento o deferimento de pedido para a produção de quaisquer provas que entender pertinentes ao julgamento da lide" (STJ AgRg no Ag 693.982 SC Rel. Min JORGE SCARTEZZINI 4ª Turma J. 17.10.2006, in DJ 20.11.2006, p. 316).
+E, na hipótese em apreço, as provas coligidas aos autos eram suficientes para o deslinde da questão, afigurando-se desnecessária a produção da prova pericial pretendida, visto que a questão principal se limita à matéria de direito."
+Nesse contexto, tem-se que a pretensão de modificar o entendimento firmado, quanto à ausência de cerceamento de defesa, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA EMBARGANTE.
+(..)
+2. Cabe ao juiz, como destinatário da prova, indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Rever as conclusões do órgão julgador quanto à suficiência das provas apresentadas demanda o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+(..)
+7. Agravo interno desprovido."
+(AgInt no AREsp n. 2.275.344/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Por sua vez, em relação à onerosidade excessiva e possibilidade de revisão contratual, o Tribunal de origem decidiu nesses termos:
+Narra a inicial que a autora é uma entidade aberta de previdência complementar que visa operar planos de benefícios concedidos em forma de renda continuada ou pagamento único, sendo a ré participante do plano FGB (Fundo Garantidor de Benefício) que possui duas fases (período de diferimento, destinado à acumulação de recursos através de aportes de contribuições para a formação de capital que garantirá o pagamento do benefícios, e o período de concessão, destinado ao pagamento do benefício, o qual é feito por ocasião da data de saída).
+Ademais, os participantes não são obrigados a se retirarem, e muitos optam por manter o valor aplicado e obter rendimentos de 6% ao ano, além da correção pelo IGPM, garantido pela autora durante o período de diferimento, condição análoga a de um simples investimento.
+Ocorre que o plano teve início na década de 90 e, ao longo dos anos, a nova realidade socioeconômica com aumento da expectativa de vida da população, queda de juros e inflação acabou por impor uma onerosidade excessiva à autora, que foi obrigada a realizar aportes de 500 milhões de reais e constituir provisões técnicas no plano para garantir a diferente entre o montante dos saldos das contas dos participantes e a provisão matemática de benefícios, o que não era exigido à época da contratação. Requer a repactuação do contrato FGB para que incidam condições de rentabilidade da Carteira, eliminando a distribuição do excedente financeiro, no período de diferimento, e IPCA  0% de juros no período da concessão ou, sucessivamente, a resolução do contrato de FGB nos termos do art. 478 do CC.
+Inicialmente, no caso em tela, aplica- se o teor da súmula 563 do STJ, segundo a qual "o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas".
+Com efeito, a ré contratou plano de previdência privada complementar, em 07.05.1999, com promessa de proteção patrimonial contra a inflação pelo IGPM mais rendimentos de 6% de juros ao ano até a data de aposentadoria prevista para 07.05.2033 (fls.
+100/101), sendo inviável a modificação das cláusulas contratuais, tendo em vista a justa expectativa da consumidora de obter o que contratou após mais de vinte anos de contribuição.
+Ademais, os fatos alegados (redução de juros, aumento da expectativa de vida da população e alterações realizadas pelo órgão regulamentador) se encontram dentro do risco da atividade desenvolvida pela autora, empresa de grande porte com conhecimento específico sobre tais matérias, inexistindo extrema vantagem decorrente de acontecimentos extraordinários ou imprevisíveis, notadamente se considerado o longo prazo de duração do negócio jurídico.
+Sendo assim, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuai, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. DIFERENÇA DE COMPLEMENTAÇÃO DE APOSENTADORIA. OPÇÃO FORMULADA POR BENEFICIÁRIOS. NOVA ALTERAÇÃO LEGAL. ALEGAÇÕES DE OCORRÊNCIA DE DECADÊNCIA. INOVAÇÃO RECURSAL. ONEROSIDADE EXCESSIVA. IMPREVISIBILIDADE DO EVENTO. SÚMULAS 5 E 7 DO STJ. APLICABILIDADE DA TEORIA DA IMPREVISÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Ao longo de todo o processo, as promovidas sustentaram a ocorrência da prescrição do fundo de direito e, somente em sede de agravo interno, inovam com alegação de decadência do direito de ação, tema que nem sequer foi aventado nas razões de recurso especial ou do agravo interposto.
+2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, necessitam observar o requisito do prequestionamento na via do recurso especial. Precedentes.
+3. Em relação às argumentações acerca da ausência de onerosidade excessiva para um dos contratantes e previsibilidade do evento, o objetivo almejado pelas recorrentes esbarra nas Súmulas 5 e 7 do STJ, pois vinculado primordialmente à análise de disposições contratuais relacionadas à previdência privada dos autores, além de matéria de fato emanada dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 827.043/SC, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 7/12/2017, DJe de 14/12/2017.)
+Com essas considerações, conclui-se que o recurso especial não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 15% para 16% sobre o valor da causa.
+Publique-se.
+EMENTA
