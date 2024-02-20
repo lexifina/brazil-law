@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TERRAPLENAGEM BRASUL LTDA. (BRASUL), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. ÔNUS SUCUMBENCIAIS. CAUSALIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 694).
+Nas razões do presente inconformismo, defendeu que (1) a decisão embargada foi omissa, visto que a decretação da prescrição intercorrente decorreu de inércia da exequente, embora tenha havido penhora nos autos; (2) a decisão foi omissa quanto à resistência do exequente à extinção do processo; e (3) a inovação normativa da Lei nº 14.195/21 surgiu quando pendentes embargos de declaração, tendo sido fixados os ônus sucumbenciais apenas na instância recursal (e-STJ, fls. 700/715).
+Foi apresentada contraminuta (e-STJ, fls. 720/731).
+É o relatório.
+A irresignação não merece prosperar.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, BRASUL afirmou a existência de violação do art. 1.022, do NCPC em virtude de omissões, aduzindo que (1) a decretação da prescrição intercorrente decorreu de inércia da exequente, embora tenha havido penhora nos autos; (2) houve resistência do exequente à extinção do processo; e (3) a inovação normativa da Lei nº 14.195/21 surgiu quando pendentes embargos de declaração, tendo sido fixados os ônus sucumbenciais apenas na instância recursal.
+Contudo, sem razão.
+Constou expressamente na decisão embargada que a extinção do processo por prescrição intercorrente não afastaria a aplicação do princípio da causalidade nem imporia ao exequente o ônus sucumbencial, cabendo ao executado arcar com o referido pagamento. Ainda, esclareceu-se que a sentença fora prolatada antes da Lei nº 14.195/21, que afastou os ônus sucumbenciais em casos de prescrição intercorrente. Confira-se:
+BRASUL alegou ofensa aos arts. 85, §2º, e 921, §5º, do NCPC, asseverando que devem ser afastados os ônus sucumbenciais a ela impostos, por não serem cabíveis quando reconhecida a prescrição intercorrente.
+Sobre o tema o Tribunal estadual consignou que a extinção do processo por prescrição intercorrente ensejaria a imposição dos ônus sucumbenciais ao executado, por força do princípio da causalidade, confira-se:
+Quanto à sucumbência, registra-se a necessidade de se aplicar, ao caso, o princípio da causalidade, a fim de que seja condenado ao pagamento das respectivas verbas aquele quem deu causa a instauração do processo. Verifico que a presente demanda executiva fora ajuizada em razão do inadimplemento do executado, ao qual continuou inadimplente. Nos autos, em momento anterior à remessa ao arquivo provisório, é possível observar que o exequente buscou - embora sem sucesso -executar bens do devedor.
+ ..
+Assim, nos termos do art. 85, §2º do CPC e do princípio da causalidade, condena-se a parte executada ao pagamento das custas processuais e honorários advocatícios, os quais se fixa em 10% sobre o valor atualizado da causa (e-STJ, fls. 425/426).
+Esta Corte Superior já havia firmado entendimento de que o reconhecimento da prescrição intercorrente não afastaria a aplicação do princípio da causalidade nem atrairia a sucumbência para o exequente, competindo ao executado o pagamento dos ônus sucumbenciais.
+Contudo, a Lei nº 14.195/21 alterou a dicção do art. 921, §5º, do NCPC, afastando os ônus sucumbenciais na hipótese de prescrição intercorrente.
+Por se tratar de norma de caráter híbrido, a Terceira Turma definiu que o marco temporal de sua aplicação há de ser a prolação da sentença ou o ato jurisdicional equivalente.
+Confira-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. NÃO LOCALIZAÇÃO DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO AO PAGAMENTO DE CUSTAS PROCESSUAIS E DE HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. SUPERVENIÊNCIA DA LEI Nº 14.195/2021.
+1. Execução de título extrajudicial ajuizada em 21/08/2012, da qual foi extraído o presente recurso especial interposto em 05/01/2023 e concluso ao gabinete em 04/04/2023.
+2. O propósito recursal consiste em definir se, após a alteração do art. 921, § 5º, do CPC/15, promovida pela Lei nº 14.195/2021, o reconhecimento da prescrição intercorrente e a consequente extinção do processo obstam a condenação do executado ao pagamento de custas processuais e de honorários sucumbenciais.
+3. A jurisprudência desta Corte pacificou-se no sentido da aplicação do princípio da causalidade na hipótese de extinção do processo em razão do reconhecimento da prescrição intercorrente (art. 85, § 10, do CPC/15). Todavia, após a alteração promovida pela Lei nº 14.195/2021, publicada em 26/8/2021, que alterou o § 5º do art. 921 do CPC/15, não serão imputados quaisquer ônus às partes quando reconhecida a referida prescrição.
+4. A legislação que versa sobre honorários advocatícios possui natureza híbrida (material-processual), de modo que o marco temporal para a aplicação das novas regras sucumbenciais deve ser a data de prolação da sentença (ou ato jurisdicional equivalente, quando diante de processo de competência originária de Tribunal). Assim, nas hipóteses em que prolatada sentença de extinção do processo, após 26/08/2021, em razão do reconhecimento da prescrição intercorrente (art. 924, IV, do CPC/15), não é cabível a condenação ao pagamento de custas e honorários de sucumbência (art. 921, § 5º, do CPC/2015).
+5. Hipótese em que a sentença extinguiu o processo em 28/04/2022, ante o reconhecimento da prescrição intercorrente, e, quando do julgamento da apelação do exequente/recorrido, o recorrente/executado foi condenado ao pagamento de honorários sucumbenciais, o que é descabido.
+6. Recurso especial conhecido e provido.
+(REsp n. 2.060.319/DF, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 9/5/2023, DJe de 11/5/2023.)
+No caso dos autos, a sentença foi proferida aos 14/10/2020, antes da edição da nova lei aos 26/8/2021, razão pela qual não se deve afastar a aplicação da causalidade para imputar os ônus sucumbenciais ao executado.
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Terceira Turma, deve ser ele mantido (e-STJ, fl. 694/967).
+Vale destacar que a alegação de que houve resistência à decretação da prescrição intercorrente não foi alegada em recurso especial, constituindo inovação recursal.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. NÃO ESTÉTICO. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, a pretensão de reforma da decisão não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do NCPC.
+3. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia (AgRg no AREsp 583.765/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2015, DJe de 22/6/2015).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.656.178/SP, de minha relatoria, Terceira Turma, j. em 24/08/2020, DJe 27/08/2020)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. ÔNUS SUCUMBENCIAIS. OMISSÃO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
