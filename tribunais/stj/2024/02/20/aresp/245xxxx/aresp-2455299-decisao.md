@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 174):
+APELAÇÃO. AÇÃO DE COBRANÇA. HORAS EXTRAS. PROFESSORA DA REDE PÚBLICA MUNICIPAL DE ENSINO. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. TRABALHO EM EXTRAJORNADA NÃO COMPROVADA. DESPROVIMENTO.
+1. No julgamento da ADI nº 4167/DF, o STF definiu que: "É constitucional a norma geral federal que reserva o percentual mínimo de 1/3 da carga horária dos docentes da educação básica para dedicação às atividades extraclasse".
+2. Extrapolação da composição de 2/3 da jornada laboral não induz, por si só, ao direito às horas extras, carecendo de efetiva comprovação do trabalho extraordinário, o que, in casu, inexistiu. Precedentes do TJMA.
+3. Recurso desprovido.
+No recurso especial o recorrente alega violação do artigo 2º, § 4º, daLeo 11.738/2008, ao argumento de que "sendo a carga horária da parte Recorrente de 20 horas semanais, 2/3 deveriam ser utilizadas para labor em sala de aula e outros 1/3 deveria ser utilizado para atividade extraclasse. Ocorre que para além do dispositivo legal acima citado, a jornada da parte Recorrente é regida pelo disposto da Lei Municipal nº. 600/2009, editada pela parte Recorrida. A referida lei municipal estabelece que, em uma jornada de 20 horas semanais, apenas 4 horas seriam dedicadas às atividades extraclasse. Assim, não restam dúvidas de que o patamar de 1/3, fixado em lei, não era respeitado - visto que 1/3 de 20 horas é 6h40min, e não 4 horas. Logo, há um excesso de jornada em sala de aula" (fls. 190-191).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A Corte recorrida, ao apreciar o apelo da ora agravante, adotou a seguinte fundamentação (fls. 176-177):
+ ..
+Com efeito, nos termos do art. 2º, § 4º, da Lei Federal nº 11.738/2008 - que regulamenta a alínea "e" do inciso III do caput do art. 60 do Ato das Disposições Constitucionais Transitórias, para instituir o piso salarial profissional nacional para os profissionais do magistério público da educação básica - "na composição da jornada de trabalho, observar-se-á o limite máximo de 2/3 (dois terços) da carga horária para o desempenho das atividades de interação com os educandos".
+Dito de outro modo, "é a partir dessa norma que se pode inferir que o restante da jornada de trabalho dos professores - 1/3 (um terço) - deverá ser dedicada a outras atividades, tendo a Suprema Corte pacificado ser "( ) constitucional a norma geral federal que reserva o percentual mínimo de 1/3 da carga horária dos docentes da educação básica para dedicação às atividades extraclasse" (ADI 4167, Rel. Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 27/04/2011, DJe 24/08/2011).
+Todavia, a extrapolação da composição de 2/3 da jornada laboral não induz, por si só, ao direito às horas extras, carecendo de efetiva comprovação do trabalho extraordinário. Isso porque o terço da jornada extraclasse não deve ser confundido com a hora extra, haja vista que integra a jornada legal e se destina preparação e avaliação do trabalho didático.
+ ..
+Com efeito, o fato de a servidora ter trabalhado 16 (dezesseis) horas semanais com atividade em sala de aula, "não é suficiente a lhe garantir o recebimento de horas extras, mormente quando inexiste prova de que suas atividades superaram o limite de horas semanais previstas na legislação municipal" (ApCiv 0318462019, Rel. Desembargador(a) JORGE RACHID MUBÁRACK MALUF, PRIMEIRA CÂMARA CÍVEL, julgado em 28/11/2019, DJe 06/12/2019).
+Assim, o fato dos docentes realizarem mais horas dentro da sala de aula do que o previsto no artigo 2º, §4º da Lei federal 11.738/08 não enseja pagamento de horas extras, mas tão somente a readequação da jornada de trabalho, notadamente quando não comprovado o excesso da jornada legal de trabalho, o que é o caso.
+Dito isso, consigno inexistir qualquer indício de que a requerente (apelante) tenha cumprido jornada de trabalho exclusivamente em sala de aula, motivo pelo qual entendo que ela não se desincumbiu do ônus de demonstrar os fatos constitutivos do seu direito (art. 373, I, CPC), devendo, portanto, ser rechaçado o pleito autoral, tal como já decidiu esta Corte de Justiça, in verbis:
+ ..
+Dessa feita, observa-se que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de "qualquer indício de que a requerente (apelante) tenha cumprido jornada de trabalho exclusivamente em sala de aula, motivo pelo qual entendo que ela não se desincumbiu do ônus de demonstrar os fatos constitutivos do seu direito" (fl. 171).
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+No mesmo sentido, em casos análogos envolvendo a mesma municipalidade, as seguintes decisões monocráticas: AREsp 2.477.852/MA, REl. Ministro Gurgel de Faria, DJe 1º/2/2024 e AREsp 2.439.099/MA, Rel. Ministro Mauro Campbell Marques, DJe 16/11/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROFESSOR. JORNADA DE TRABALHO. HORA-EXTRA. NÃO COMPROVAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
