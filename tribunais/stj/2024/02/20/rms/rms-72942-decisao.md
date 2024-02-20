@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado contra ato atribuído ao Prefeito do Município de Nossa Senhora da Glória, objetivando a nomeação da Impetrante ao cargo de Professor de Educação Infantil Básica II - PEIB, para o qual foram previstas dezenove (19) vagas de ampla concorrência e 02 (duas) para PCD, tendo sido aprovada no 35º lugar, sob a alegação que existem contratos temporários além de vagas para o cargo pretendido, surgidas dentro do prazo de validade do concurso.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE denegou a segurança pleiteada, ficando consignado que não restou comprovado nos autos a ocorrência de contratação precária para o cargo pretendido.
+O referido acórdão foi assim ementado, in verbis:
+MANDADO DE SEGURANÇA - CONCURSO PÚBLICO DO MUNICÍPIO DE NOSSA SENHORA DA GLÓRIA - CANDIDATA QUE FOI APROVADA FORA DO NÚMERO DE VAGAS - CONCURSO PÚBLICO CUJO PRAZO DE VALIDADE EXPIROU EM 03.03.2023 - NÃO COMPROVAÇÃO DE CONTRATAÇÃO PRECÁRIA DE SERVIDORES POR PARTE DA ADMINISTRAÇÃO PÚBLICA PARA O CARGO DE PROFESSOR PEIB II (PEDAGOGIA), NEM SURGIMENTO DE NOVAS VAGAS - NECESSIDADE DE DILAÇÃO PROBATÓRIA PARA COMPROVAÇÃO DAS ALEGAÇÕES DA IMPETRANTE - IMPOSSIBILIDADE - PRECEDENTES JURISPRUDENCIAIS - DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO - DENEGAÇÃO DA SEGURANÇA.
+- No caso em análise, a Impetrante não apresentou prova pré-constituída de que estaria ocorrendo a preterição arbitrária e imotivada por parte da administração, nem a contratação temporária irregular, demandando a realização de dilação probatória, o que é vedado em sede de Mandado de Segurança.
+- Segurança denegada.
+Os embargos de declaração opostos foram rejeitados.
+A Recorrente alega, em síntese, que as contratações temporárias são irregulares, o que justificaria a necessidade de nomeação da Impetrante.
+Apresentadas contrarrazões.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+É cediço que o candidato aprovado fora do número de vagas previstas no edital possui mera expectativa de direito à nomeação, convolando-se em direito subjetivo somente na hipótese de comprovação do surgimento de cargos efetivos durante o prazo de validade do concurso público, bem como o interesse da Administração Pública em preenchê-las.
+Ademais, é cediço que a admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço.
+São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO CLASSIFICADO ALÉM DO NÚMERO DE VAGAS OFERECIDO NO EDITAL. NOMEAÇÃO. EXPECTATIVA DE DIREITO. PRECEDENTES DO STJ E STF. SERVIDORES TEMPORÁRIOS. ART. 37, IX, DA CF/88. NECESSIDADES TRANSITÓRIAS DA ADMINISTRAÇÃO. PRORROGAÇÃO ILEGAL DO CONTRATO. IMUTABILIDADE DA NATUREZA PRECÁRIA. PRETERIÇÃO NÃO CARACTERIZADA.
+1. Candidatos aprovados em concurso público, no qual se classificam para além das vagas oferecidas no edital do certame, não têm o direito líquido e certo à nomeação, mas tão somente, expectativa de direito. Precedentes do STJ e do STF.
+2. A admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço. São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos.
+3. A prorrogação dos contratos temporários para além dos limites temporais legalmente fixados não modifica sua natureza transitória, para transformá-los em vínculos efetivos.
+4. Agravo interno a que se nega provimento.
+(AgInt no RMS 51.806/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/3/2017, DJe 30/3/2017).
+ADMINISTRATIVO. CONCURSO PÚBLICO. CARGO DE ENFERMEIRO. CONTRATAÇÃO TEMPORÁRIA PARALELA AO PERÍODO DE VALIDADE DO CONCURSO. NÃO COMPROVAÇÃO DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
+I - A impetrante não está classificada dentro do número de vagas previstas no instrumento convocatório. A atual jurisprudência desta Corte é firme no sentido de que "candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que novas vagas surjam no período de validade do concurso - por criação de lei ou por força de vacância -, cujo preenchimento está sujeito a juízo de conveniência e oportunidade da Administração. Precedentes do STJ". (RMS 47.861/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/6/2015, DJe 5/8/2015).
+II - A mera expectativa de nomeação dos candidatos aprovados em concurso público (fora do número de vagas) convola-se em direito líquido e certo quando, dentro do prazo de validade do certame, há contratação de pessoal de forma precária para o preenchimento de vagas existentes, com preterição daqueles que, aprovados, estariam aptos a ocupar o mesmo cargo ou função.
+III - A paralela contratação de servidores temporários, admitidos mediante processo seletivo fundado no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não caracteriza, só por si, preterição dos candidatos aprovados em concurso público para provimento de cargos efetivos.
+IV - Agravo interno improvido.
+(AgInt no RMS 51.478/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/3/2017, DJe 24/3/2017).
+Na hipótese em debate, a Recorrente não logrou em comprovar a ilegalidade das contratações temporárias, o que afasta qualquer pretenso direito líquido e certo.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
