@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de UERICLES HENRIQUE BATISTA FERREIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo em Execução Pleito de indulto natalino com base no Decreto Presidencial nº 11.302/2022. Recurso Defensivo requerendo a concessão do benefício - Pleito que foi indeferido por não preenchimento de requisito necessário. Sentenciado que não preencheu o quanto disposto nos artigos 5º, caput, e 11, parágrafo único, ambos do Decreto Presidencial nº 11.302/2022 Pena do crime impeditivo não cumprida integralmente até 25/12/2022. Ademais, a pena privativa de liberdade máxima em abstrato do crime de associação para o tráfico de drogas é superior a 05 anos - Impossibilidade de concessão do benefício. Recurso desprovido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que o paciente preenche os requisitos necessários para ser beneficiado pelo indulto, consoante disposições previstas no Decreto Presidencial n. 11.302/2022, pois é inaplicável o parágrafo único do art. 11 de referido diploma legal aos delitos que atendam o único requisito exigido em seu art. 5º, ou seja, que a pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Aduz, ainda, que o delito praticado pelo apenado não está elenvado no rol impeditivo do art. 7º do decreto.
+Requer, em suma, a concessão do indulto.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Ao indeferir o pedido, o MM. Juízo a quo fundamentou:
+"Com efeito, o sentenciado ostenta condenação são por crime impeditivo (tráfico de drogas), conforme o previsto no artigo 7º, inciso VI, do Decreto nº 11.302/22.
+Assim, segundo o disposto no parágrafo único do artigo 11, do mesmo Decreto, não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício.
+Neste contexto, enquanto não cumprida a integralidade da pena imposta referida ao delito impeditivo, incabível a concessão do favor legal."(fls. 07 destaquei)
+Destarte, era mesmo de rigor o indeferimento de seu pleito, seja porque cumpre pena por crime impeditivo (tráfico de drogas), seja porque o delito de associação para o tráfico de drogas tem pena máxima em abstrato de 10 anos, acima, portanto, do limite de 05 anos estipulado no artigo 5º,caput, do Decreto nº 11.302/2022 (fls. 20-21).
+Segundo jurisprudência firmada nesta Corte, além de o Decreto n. 11.302/2022 vedar a concessão de indulto a crime impeditivo previsto em seu art. 7º, também o veda no caso de concurso de crimes em relação aos delitos não impeditivos, inclusive os que atendam aos requisitos do art. 5º dessa mesma norma legal, enquanto não tiver sido cumprida integralmente a pena do crime ao qual se veda o benefício, à luz do disposto no parágrafo único do art. 11 de referido diploma legal.
+Nesse sentido, os seguintes julgados:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. INDULTO (DECRETO N. 11.302/2022). PACIENTE QUE CUMPRE PENA EM RAZÃO DE CONDENAÇÕES PELOS CRIMES DE ESTELIONATO E TRÁFICO DE DROGAS. CRIME HEDIONDO IMPEDITIVO (ART. 5º C/C ART. 11 DO DECRETO). PRETENSÃO DE INTERPRETAÇÃO DIVERSA AO QUE CONSTA DO DECRETO PRESIDENCIAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se denega a ordem, quando não evidenciado constrangimento ilegal manifesto à liberdade de locomoção.
+2. Hipótese em que se indeferiu o pedido de indulto, fundamentado no Decreto Presidencial n. 11.302/2022, ao argumento de que remanesce o cumprimento de pena pela prática de crime impeditivo (hediondo), previsto expressamente no art. 7º, I, c/c art. 11, parágrafo único, do referido decreto presidencial.
+3. Agravo regimental improvido. (AgRg no HC n. 835.684/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 5/10/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. PRETENSÃO DE CONCESSÃO DE INDULTO COM FUNDAMENTO NO ART. 5º DO DECRETO N. 11.302/2022. NECESSIDADE DE CUMPRIMENTO INTEGRAL DA PENA REFERENTE AO CRIME IMPEDITIVO. INTERPRETAÇÃO DO ART. 11 DO DECRETO. ALEGAÇÃO DE QUE O ÓBICE DO CRIME IMPEDITIVO SOMENTE SE APLICA QUANDO A CONDENAÇÃO DECORRE UMA MESMA DINÂMICA. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO NÃO PROVIDO.
+1. A concessão do indulto previsto no Decreto n. 11.302/2022 a delitos que atendam ao requisito de seu art. 5º (pena máxima em abstrato não superior a cinco anos) também pressupõe a observância da regra do parágrafo único de seu art. 11, que expressamente condiciona o alcance da benesse ao cumprimento integral de pena por delito elencado como impeditivo no art. 7º e à qual o executado também tenha sido condenado.
+2. Situação em que, a despeito de possuir condenações por delitos que se enquadram no art. 5º do Decreto n. 11.302/202, o paciente é executado, também, por delito impeditivo - tráfico de drogas - cuja pena não foi integralmente cumprida.
+ ..
+4. Agravo regimental não provido. (AgRg no HC n. 836.036/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5/10/2023.)
+De igual sorte: HC n. 842.802, Ministro Joel Ilan Paciornik, DJe de 23/08/2023; HC n. 843.055, Ministro Ribeiro Dantas, DJe de 08/08/2023.
+Na espécie, a instância de origem decidiu que não foi cumprido o requisito objetivo em razão da prática de crime impeditivo cuja pena ainda não foi cumprida , bem como em razão de o crime remanescente apresentar pena privativa de liberdade máxima em abstrato superior a 5 anos.
+O entendimento do Tribunal a quo está, portanto, em perfeita consonância com a jurisprudência desta Corte.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
