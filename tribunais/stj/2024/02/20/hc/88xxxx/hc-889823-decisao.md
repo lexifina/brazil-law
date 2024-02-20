@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de LUCILIA SILVA VAZ, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC nº 0024141-41.2024.8.19.0001).
+A paciente foi presa em flagrante com posterior conversão da custódia em preventiva pela suposta prática dos crimes previstos nos arts. 147, 329 e 129, todos do Código Penal.
+A liminar em habeas corpus pleiteada pela defesa buscando a revogação da prisão preventiva foi indeferida na origem por meio de decisão monocrática (e-STJ fls. 128-130).
+A defesa alega, em síntese: a) "A decisão proferida pela autoridade coatora se mostra contraditória, vez que reconhece a primariedade de uma pessoa de 35 (trinta e cinco) anos e aponta, sem que exista base fática, para o risco de reiteração delitiva, caso venha a ser reintegrada ao concerto comunitário" (e-STJ fl. 8); b) em razão de não possuir a quantia arbitrada pela Autoridade Policial a título de fiança, foi encaminhada à audiência de custódia, ocasião em que teve a prisão preventiva decretada; e c) a paciente possuiria transtorno mental que exigiria continuidade de tratamento, o qual teria sido iniciado em fevereiro de 2015, argumentando que há séria ameaça de interrupção no sistema prisional.
+A paciente está presa desde 10/02/2024.
+Requer, liminar e definitivamente, o deferimento da ordem para substituir a prisão por medidas cautelares diversas.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 128-130):
+Na sequência, assevera que, de acordo com a decisão do juízo, a decretação da prisão preventiva da custodiada foi determinada sob o garantia da ordem pública, "em razão da elevada gravidade concreta do delito, evidenciada pelo fato de a custodiada ter demonstrado possuir personalidade violenta e perigosa, na medida em que ameaçou de morte um casal e duas crianças que sequer conhecia, ressaltando que as ameaças foram proferidas enquanto a custodiada empunhava uma garrafa de vidro quebrada e uma lata de bebida rasgada por ela mesma com os dentes, demonstrando, assim, a sua personalidade violenta e desequilibrada. Além do mais, a custodiada, ao ser abordada por um guarda municipal, o agrediu com o objeto cortante que tinha em sua posse, demonstrando ser pessoa de alta periculosidade social". Relata que a decisão apontou, ainda, a presença de risco de continuidade delitiva.
+ ..
+Analisando-se os autos, verifica-se que não se encontram presentes os requisitos necessários à concessão da medida liminar requerida.
+Em que pesem os argumentos defensivos, não vislumbro, nesta limitada ótica de cognição sumária, ainda mais reduzida em sede de plantão judiciário, ilegalidade evidente que possa, desde já, fazer com que o pleito formulado seja acolhido.
+Embora se verifique a presença de condição subjetiva favorável, como bons antecedentes, identifica-se, por outro lado, a necessidade de garantia da ordem pública, notadamente em razão do emprego de violência e grave ameaça na prática do delito.
+A alegação de que a paciente possui diagnóstico de transtorno psiquiátrico necessita de maior aprofundamento probatório, não se afigurando capaz de, automaticamente, determinar o afastamento do decreto prisional.
+Por fim, quanto ao pedido de aplicação de medidas cautelares diversas, como proibição de frequentar o Parque Madureira e estabelecer contato com as pessoas arroladas no auto de prisão em flagrante, não nos parece que o fato praticado esteja especialmente relacionado ao local ou às pessoas envolvidas, de modo a revelar serem tais medidas eficazes para prevenir eventual reiteração da conduta delituosa.
+Diante dessas circunstâncias, INDEFIRO a LIMINAR pleiteada.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
