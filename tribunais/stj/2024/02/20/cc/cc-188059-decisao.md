@@ -1,0 +1,10 @@
+DECISÃO
+Em análise conflito negativo de competência instaurado entre o Exmo. JUIZ FEDERAL DA 3ª VARA DE PORTO ALEGRE, suscitante, e o Exmo. JUIZ DE DIREITO DA 2ª VARA CÍVEL DE CAMAQUÃ, suscitado.
+O feito versa sobre pedido de expedição de alvará judicial para levantamento de valores depositados na conta do FGTS de titularidade do falecido Luciano Inocencio de Chaves, em favor de sua filha Renata da Costa Vascocellos Chaves.
+O pedido foi distribuído perante a Justiça Estadual. O suscitado declinou de sua competência ao fundamento de que "sendo a Caixa Econômica Federal indicado pela parte autora como requerida e, tendo apresentado resistência à pretensão do requerente, é de ser reconhecida a competência absoluta da Justiça Federal, nos termos do art. 109, I, da Constituição Federal" (fl. 17 e-stj).
+O suscitante assevera que "não restou demonstrada a negativa da CEF ao pleito de levantamento dos valores, e ademais, a Justiça Federal não tem competência para apreciar pedido dessa natureza, por envolver matéria de sucessão causa mortis, sendo irrelevante, para esse efeito, a circunstância de que o alvará pretendido destina-se à lib eração de valores pela CEF" (fl. 27 e-stj).
+Sobre o tema, o Superior Tribunal de Justiça possui o entendimento segundo o qual "para que se configure o interesse da Caixa Econômica Federal em relação a pedido de levantamento de FGTS e PIS por motivo de falecimento do titular da conta, faz-se necessária a configuração de litígio em que a empresa pública participe na qualidade de autora, ré, assistente ou opoente, condição inexistente no caso dos autos, de mero processo de jurisdição voluntária" (STJ, CC 17.970/SC, Rel. Ministro ALDIR PASSARINHO JUNIOR, PRIMEIRA SEÇÃO, DJ de 22/3/1999, p. 35).
+No mesmo sentido, são as seguintes decisões monocráticas: STJ, CC 176.926/PI, Ministro FRANCISCO FALCÃO, DJe de 26/03/2021; CC 164.949/SP, Ministro Herman Benjamin, DJe de 27/06/2019.
+Isso posto, conheço do conflito para declarar competente o Exmo. JUIZ DE DIREITO DA 2ª VARA CÍVEL DE CAMAQUÃ, suscitado.
+I.
+EMENTA
