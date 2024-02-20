@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5007124-54.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: ELIZABETE LIMA DE ASSIS ALMEIDA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+
+AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO POR DANOS MORAIS E TUTELA ANTECIPADA. FALHA NO SERVIÇO. DANO MORAL CONFIGURADO. NARRA A AUTORA QUE É CLIENTE DA REQUERIDA POR VIA DE UM PLANO DE INTERNET VIVO FIBRA 200 MEGAS MENSAIS. NO DIA 25/06/2023 A SUA INTERNET PAROU DE FUNCIONAR, SENDO SOLICITADOS À RÉ PROVIDÊNCIAS QUANTO AO PROBLEMA, PROTOCOLO N.º 20239509920293, SENDO DADO O PRAZO DE 24 HORAS, QUE NÃO FOI CUMPRIDO. FORAM REALIZADOS 06 NOVOS CONTATOS DURANTE O PERÍODO ENTRE 25/26/29 E 30 DE JUNHO E NOS DIAS 03 E 04 DE JULHO, COM A EMPRESA SEMPRE REPETINDO A MESMA RESPOSTA, SEM NUNCA RESOLVER O PROBLEMA. SITUAÇÃO QUE SE MANTÉM ATÉ O AJUIZAMENTO DA PRESENTE AÇÃO. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) LIMINAR PARA QUE SEJA DETERMINADO O RESTABELECIMENTO DO SERVIÇO DE INTERNET E B) CONDENAÇÃO DA RÉ NO PAGAMENTO DE R$10.000,00. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS PARA: A) CONDENAR A REQUERIDA NO PAGAMENTO DE R$3.000,00 EM DANOS MORAIS E B) RATIFICAR A DECISÃO LIMINAR DEFERIDA NOS AUTOS. RECURSO INOMINADO BUSCANDO A REFORMA TOTAL DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS INAUGURAIS E SUBSIDIARIAMENTE A MINORAÇÃO DO DANO MORAL E DA MULTA. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS ANEXADAS AOS AUTOS. DANO MORAL E MULTA EXARADAS EM PATAMAR QUE OBEDECE OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO,
+OU, NÃO HAVENDO, SOBRE O VALOR DA CAUSA.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
