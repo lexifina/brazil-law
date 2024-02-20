@@ -1,0 +1,50 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003780-20.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO DO ESTADO DO ESPIRITO SANTO
+RECORRIDO: CARLOS ALBERTO ALVES RIBEIRO NETO
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e acolher parcialmente os Embargos de Declaração, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO DESTA TURMA RECURSAL QUE DEU PROVIMENTO AO RECURSO INOMINADO DA PARTE REQUERIDA, GERANDO A REFORMA DA SENTENÇA A QUO PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS.
+PARTE EMBARGANTE/REQUERENTE QUE ALEGA OMISSÃO DO ACÓRDÃO AO SUPOSTAMENTE NÃO SE MANIFESTAR SOBRE DOCUMENTO ESSENCIAL À LIDE. APÓS REANÁLISE
+DOS AUTOS, A PARTIR DO QUE CONSTA NO RECURSO INOMINADO, PERCEBE-SE A OCORRÊNCIA DA OMISSÃO DESTACADA, MOTIVO PELO QUAL SE ACOLHE O PRESENTE RECURSO DE EMBARGOS PARA SANAR O ALUDIDO VÍCIO.
+
+É INCONTESTE QUE A PARTE AUTORA FOI VÍTIMA DE GOLPE AO PERMITIR O ACESSO AO APLICATIVO DO BANCO RÉU INSTALADO NO SEU CELULAR POR GOLPISTAS SOB O FRÁGIL ARGUMENTO DE NECESSIDADE DE ATUALIZAÇÃO DE DADOS BANCÁRIOS, APÓS CONTATO POR SMS. AS INSTITUIÇÕES BANCÁRIAS, SÃO RESPONSÁVEIS PELOS DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS, A SEUS CLIENTES, ANTE A SUA RESPONSABILIDADE OBJETIVA (REsp 1199782/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/08/2011, DJe 12/09/2011). DESSA FORMA, É DEVER DA REQUERIDA, MANTER A SEGURANÇA DA CONTA BANCÁRIA DE SEUS CLIENTES, RAZÃO PELA QUAL CONCLUI-SE QUE HOUVE FRAUDE PERPETRADA POR TERCEIROS. SITUAÇÃO, PORTANTO, QUE ENSEJA A RESTITUIÇÃO DE VALOR (R$10.000,00). FALHA NA PRESTAÇÃO DE SERVIÇO. CONTUDO, É INDISCUTÍVEL
+QUE A PRÓPRIA INSTITUIÇÃO FINANCEIRA É IGUALMENTE VÍTIMA DO GOLPE, FATO QUE ASSOCIADO A EXISTÊNCIA DE COMPORTAMENTO CONCORRENTE DA VÍTIMA PARA ÊXITO DA FRAUDE, NÃO AUTORIZA A INDENIZAÇÃO A TÍTULO DE DANOS MORAIS.
+DESTA FORMA,
+PROVIDO PARCIALMENTE O RECURSO DE EMBARGOS DE DECLARAÇÃO, PARA REFORMAR O ACÓRDÃO PARA MANTER A CONDENAÇÃO DE DANOS MATERIAIS IMPOSTA EM SENTENÇA E JULGAR IMPROCEDENTE APENAS O DANO MORAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS E PARCIALMENTE ACOLHIDOS
+. SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
