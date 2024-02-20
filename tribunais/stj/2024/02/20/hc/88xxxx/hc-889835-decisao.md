@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Rafael Miranda dos Santos - atacando-se o acórdão proferido pelo Tribunal de Justiça de Santa Catarina (HC n. 5000320-82.2024.8.24.0000 - fls. 145/148) que manteve a conversão da prisão em flagrante do paciente, ocorrida em 30/12/2023, pela prática, em tese, do crime de tráfico de drogas (109 g de maconha, 65 g de cocaína e 44 g de crack - fl. 46), em preventiva (fls. 88/89 - Autos n. 5028184-34.2023.8.24.0064, da 2ª Vara Criminal da comarca de São José/SC -, comporta pronto acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar, ao argumento de deficiência de fundamentação: no presente caso, estamos a tratar de um jovem de apenas 18 anos de idade, com residência fixa e trabalho lícito (fl. 6).
+Da atenta análise dos autos observa-se que o decreto prisional não demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, apenas justificando a medida extrema na quantidade de entorpecente apreendido - quantidade e variedade de droga apreendida - 65 g de cocaína, 44 g de crack, 109 g de maconha -, somado ao fato de que foram apreendidos outros objetos normalmente utilizados no tráfico de drogas - tais como: uma balança de precisão, material para embalar, R$ 1.020,00 (fl. 88) -, carecendo, assim, de fundamento apto a consubstanciar a prisão.
+Em razão disso, concedo liminarmente a ordem para revogar a prisão preventiva imposta ao pacie nte nos Autos n. 5028184-34.2023.8.24.0064, da 2ª Vara Criminal da comarca de São José/SC.
+Intime-se o Ministério Público de Santa Catarina.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (109 G DE MACONHA, 65 G DE COCAÍNA E 44 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA OU CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL NÃO EVIDENCIADO. AUSÊNCIA DE ELEMENTOS CONCRETOS. QUANTIDADE NÃO EXPRESSIVA DE DROGAS. FUNDAMENTAÇÃO INSUFICIENTE. REVOGAÇÃO QUE SE IMPÕE.
+Ordem liminarmente concedida nos termos do dispositivo.
