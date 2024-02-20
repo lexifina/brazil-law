@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus, com pedido liminar, interposto por ANTONIO MUNIZ DA SILVA, impugnando decisão monocrática de Desembargador do Tribunal de Justiça do Acre que indeferiu liminarmente o Habeas Corpus Criminal n. 1001796-05.2023.8.01.0000.
+Informa o impetrante que, no dia 29/08/2023, no bojo da Execução Penal n. 0011307-17.2018.8.01.0001, foi requerida junto à Vara de Execução Penal de Rio Branco/AC a transferência de presídio do apenado, diante do caótico quadro instalado na Penitenciária em que ele se encontra, local onde ocorreu uma rebelião que resultou em 5 (cinco) detentos mortos por facções rivais dentro do presidio.
+Alegando demora na apreciação do pedido formulado junto ao Juízo das Execuções, a defesa do paciente impetrou o writ originário perante a Corte Estadual.
+O mandamus foi indeferido liminarmente pelo Desembargador Relator, conforme decisão juntada às fls. 12/18.
+Contra a decisão monocrática a defesa interpôs habeas corpus substitutivo de recurso especial, que foi recebido e processado na Corte Estadual como recurso ordinário em habeas corpus.
+A defesa do apenado argumenta no recurso que "até a presente data não fora concedido a transferência para que o Paciente pudesse cumprir a sua pena em lugar mais tranquilo e não corra o risco de ter sua vida ceifada. Logo, necessário sejam apreciadas com rapidez e segurança por este Nobre Desembargador Relator os pedidos desta impetrante, diante da falta de celeridade das execuções criminais, bem como comprovada a urgência da transferência" (e-STJ fl.24).
+Assevera que "manter o Paciente no Presídio Antonio Amaro, trata-se de uma a tortura psicológica fazer com que o paciente aguarde a celeridade da vara de execução, para que seja decidido sobre um local mais seguro para o cumprimento de sua pena, prevista no inciso LXXVIII, do artigo 5º, da Constituição Federal/1988, desrespeitando os consagrados princípios da legalidade, razoabilidade e da dignidade da pessoa humana" (e-STJ fl.25).
+Concluiu que "diante da ausência de jurisdição efetiva, sofre as consequências pela ineficácia do Estado em sua lenta prestação jurisdicional, estando preso em local que é comprovadamente inseguro" (e-STJ fl.26).
+Pede, em sede liminar e no mérito, a concessão da ordem "para que seja determinado sua imediata remoção para estabelecimento prisional condizente com um local tranquilo, tendo em vista a falta de resposta por parte do juízo da execução" (e-STJ fl. 28).
+Em contrarrazões o Ministério Público Estadual manifestou-se pela prejudicialidade do recurso, em manifestação assim resumida:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. DECISÃO DO JUIZO DE ORIGEM QUE ATENDE O PEDIDO. PERDA DO OBJETO. 1.
+Cessado o suposto constrangimento ilegal invocado por ocasião da impetração do presente habeas corpus, uma vez que sobreveio decisão do Juízo de Origem que atendeu o pedido, tem-se a perda superveniente do objeto do writ, restando-o prejudicado, nos termos do art. 659, do Código de Processo Penal. 2. Habeas Corpus julgado prejudicado.
+É o relatório. Passo a decidir.
+No caso concreto, constata-se que, diante das informações trazidas nas contrarrazões, confirmadas por meio de consulta ao processo de execução do apenado no sistema SEEU, foi proferida decisão pelo Juízo das Execuções, em 21 de novembro de 2023, concedendo a transferência de estabelecimento prisional pleiteada pelo recorrente.
+Eis o teor da referida decisão:
+Vieram os autos conclusos diante da certidão de evento 159.1. Considerando os fatos explanados na certidão de evento 159.1, REVOGO o último parágrafo do despacho de evento 158.1, haja vista que por duas vezes a unidade penitenciária deixou transcorrer o prazo, sem manifestação, conforme eventos 135.0 e 147.0. Assim, diante da inércia da unidade prisional, e pelo relato do apenado de que ainda não se sente seguro, mesmo estando em cela separada, DETERMINO a imediata transferência do apenado à penitenciária FOC, em local seguro. Prazo de 24 horas, sob pena de desobediência, devendo o diretor informar a este Juízo sobre a efetivação da transferência. Às providências necessárias, com intimação pessoal para cumprimento.
+Desse modo, constata-se a perda superveniente objeto do presente mandamus.
+Ante o exposto, com amparo no art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o presente recurso ordinário.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
+EMENTA
