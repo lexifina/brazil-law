@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000355-87.2023.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: NATHAN DOS SANTOS FEU 16022903777
+RECORRIDO: JOBE FARINA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NO SERVIÇO. NARRA O AUTOR QUE EM JUNHO/2022 SOLICITOU UMA ASSISTÊNCIA TÉCNICA JUNTO AO RÉU PARA VERIFICAR A SUA GELADEIRA QUE NÃO ESTAVA FUNCIONANDO E QUE APÓS FINDADO O SERVIÇO, PASSADOS 03 MESES A GELADEIRA VOLTOU A APRESENTAR PROBLEMAS. APÓS ENTRAR EM CONTATO COM O REQUERIDO PARA FALAR SOBRE OS NOVOS PROBLEMAS, FOI PEDIDO A COMPRA DE UMA PEÇA DE R$500,00, ACHADA POSTERIORMENTE POR R$275,00, SENDO QUE EM 12/07/2022 FOI PAGO UMA QUANTIA DE R$664,00 PARA O CONSERTO, SEM ÊXITO VISTO QUE A SITUAÇÃO CONTINUAVA. O PLEITEANTE FOI ATÉ O PROCON BUSCAR A SOLUÇÃO DO PROBLEMA, NOVAMENTE SEM SUCESSO POR NÃO TER TIDO ACORDO. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) RESTITUIÇÃO DE R$664,00 E B) DANOS MORAIS NO VALOR DE R$3.000,00. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS DA INICIAL PARA CONDENAR O RÉU À: A) RESTITUIR O VALOR DE R$664,00 E B) PAGAR R$1.500,00 À TÍTULO DE DANOS MORAIS. RECURSO INOMINADO ALEGANDO CERCEAMENTO DE DEFESA E BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS DA EXORDIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. AFASTO A PRELIMINAR SUSCITADA UMA VEZ QUE NÃO EXISTEM NOS AUTOS DOCUMENTOS SUFICIENTES PARA DAR RAZÃO A VERSÃO APRESENTADA PELO ORA RECORRENTE. TRATA-SE DE PLEITO CONSUMERISTA NA QUAL O REQUERIDO NÃO CONSEGUIU AFASTAR OS FATOS CONSTITUTIVOS DO ORA RECORRIDO. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
