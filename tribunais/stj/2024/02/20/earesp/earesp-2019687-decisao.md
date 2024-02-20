@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por EXPRESSO BRASÍLIA LTDA. contra acórdão de relatoria do Ministro Og Fernandes, proferido pela Segunda Turma em agravo interno no agravo em recurso especial, nos termos da seguinte ementa:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DA SUSPENSÃO DO PRAZO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. REGRAMENTO EXPRESSO. ART. 1.003, § 6º, DO CPC/2015. RECURSO INTEMPESTIVO.1. O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais.2. A parte não comprovou, no ato da interposição do recurso especial, a ocorrência de erro técnico ou suspensão do prazo processual. Logo, inafastável o reconhecimento da intempestividade.3. Agravo interno a que se nega provimento." (e-STJ fl. 413).
+A embargante alega a existência de dissídio jurisprudencial com precedente da Sexta Turma (EDcl no AgRg no AREsp n. 1.069.294/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/8/2020, D Je de 14/8/2020) deste Tribunal Superior.
+Sustenta, em síntese, a existência de soluções díspares sobre a questão relativa à prorrogação automática do prazo recursal nas hipóteses em o sistema de peticionamento eletrônico do Poder Judiciário estiver indisponível (fls. 450/468 e-STJ).
+É o relatório.
+DECIDO.
+O recurso não merece ser processado.
+Os embargos de divergência devem ser indeferidos, tendo em vista que não foram atendidos os requisitos necessários à demonstração da divergência alegada, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do Regimento Interno do STJ (com a redação dada pela emenda regimental 22/2016).
+Com efeito, os presentes embargos carecem da demonstração da similitude fática entre o acórdão embargado e o julgado apontado como paradigma.
+Isso porque o acórdão embargado consignou expressamente que, no caso concreto, "a parte agravante não comprovou, no ato da interposição do recurso especial, a suspensão do expediente forense nem a indisponibilidade do sistema" (fl. 416 e-STJ). Já o acórdão alçado a paradigma pontuou categoricamente que "o recorrente demonstrou, por meio de documento idôneo, que o peticionamento eletrônico deste Superior Tribunal estava indisponível no último dia do prazo recursal, e que protocolou o recurso no dia seguinte" (fl. 455 e-STJ).
+Nesse cenário, é manifesta a ausência de similitude fática entre as hipóteses confrontadas, não se justificando, pois, o processamento dos presentes embargos.
+Como se sabe, "a divergência que enseja a oposição dos embargos - via recursal destinada a espancar possível dissídio no âmbito desta Corte Superior, cuja principal função, afinal, é justamente a uniformização da interpretação do direito federal infraconstitucional -, é aquela estabelecida em hipóteses análogas, vale dizer: deve-se demonstrar que, diante de situações fático-processuais semelhan tes, as soluções jurídicas dadas não foram as mesmas" (AgRg nos EDcl nos EREsp 1.449.212/RN, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 18/11/2015, DJe 16/12/2015).
+Ante o exposto, com fundamento no art. 266-C do Regimento Interno desta Corte, indefiro liminarmente os embargos de divergência.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois não houve a prévia fixação pelas instâncias ordinárias.
+Publique-se.
+Intimem-se.
+EMENTA
