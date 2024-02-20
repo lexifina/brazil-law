@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo desafiando decisão que inadmitiu recurso especial, interposto por ISMAEL DA SILVA BANDEIRA, contra v. acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação declaratória de inexistência de débito cumulada com pedido de indenização por dano moral. Inclusão de débito não comprovado na plataforma "Serasa Limpa Nome" que não configura ato ilícito, se não há inscrição do nome do Autor nos cadastros de inadimplentes. Sentença confirmada. Recurso desprovido.
+Opostos embargos de declaração, foram desacolhidos.
+Nas razões recursais, o agravante alega violação dos arts. 373, I, 489, § 1º, IV, 1.013 e incisos, 1.022, II, do NCPC, 6º, VI e VII, do CDC, bem como divergência jurisprudencial, sustentando, em síntese, isto: (I) negativa de prestação jurisdicional e falta de fundamentação; (II) "Os direitos da personalidade do consumidor são considerados como objeto de tutela específica da presente relação jurídica. Desta forma, a ofensa aos direitos da personalidade ocorrida na relação de consumo também enseja a possibilidade de indenização" (fl. 347); (III) há prova da existência do nexo de causalidade entre a ação ilícita e o dano experimentado pela parte ora recorrente.
+É o relatório. Decido.
+Não prospera a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA TURMA, DJe de 6/5/1996).
+Com efeito, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2019).
+No mais, tem-se que o apelo nobre não merece conhecimento quanto à alegada ofensa aos arts. 373, I e 1.013 e incisos, do NCPC.
+Como sabido, o recurso especial é o instrumento processual adequado para discutir violação ou divergência jurisprudencial quanto a lei federal, conforme preconiza o art. 105, III, a e c, da CF/88. Nesse diapasão, para atender tal mister, é necessário que, nas razões recursais, sejam apresentados argumentos jurídicos claros e precisos sobre como o eg. Tribunal a quo teria violado ou interpretado de forma divergente determinado dispositivo de lei federal.
+No caso em apreço, o então recorrente, não apresentou argumentação jurídica apta a demonstrar como os referidos artigos foram violados ou interpretados de forma equivocada pelo Tribunal de origem. Nesse cenário, as razões do apelo nobre representam mera alegações genéricas de violação a dispositivos de lei federal, o que configura deficiência na fundamentação recursal, atraindo o óbice da Súmula 284/STF, aplicada por analogia. Nesse sentido, confiram-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. (..). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+(..)
+2. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 613.606/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe 17/05/2017 - g. n.)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/1973) - AÇÃO DE INDENIZAÇÃO DECORRENTE DE NEGATIVAÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A alegação genérica de ofensa a dispositivo da lei federal, sem a demonstração, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, atrai, por analogia, a Súmula 284 do STF.
+(..)
+4. Agravo regimental desprovido."
+(AgRg no AREsp 518.058/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2016, DJe 28/10/2016 - g. n.)
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. EMBARGOS DE DECLARAÇÃO.RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTE A OMISSÃO. SÚMULA Nº 284/STF. ARTIGOS 496 E 513 DO CÓDIGO DE PROCESSO CIVIL. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DOS DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182).
+2. "É possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgRgAg nº 228.787/RJ, Relator Ministro Sálvio de Figueiredo Teixeira, in DJ 4/9/2000).
+3. Em tema de violação do artigo 535 do Código de Processo Civil, a não indicação expressa das questões apontadas como omitidas vicia a motivação do recurso especial, inviabilizando o seu conhecimento.Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Ao apontar a violação dos artigos 496, inciso I, e 513 do Código de Processo Civil, nas razões do recurso especial, a agravante não define nem demonstra no que consistiu a alegada violação dos dispositivos legais, deixando de explicitar, de forma clara e precisa, a negativa de vigência de lei federal, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido."
+(AgRg no Ag 1292758/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 18/05/2010, DJe 04/06/2010)
+Quanto ao dano moral, eis os fundamentos da Corte a quo:
+Da conduta não decorre o dever de indenizar, eis que a Ré não incluiu o nome do Autor no cadastro de inadimplentes do próprio SERASA.
+Da premissa de que o pagamento de dívidas importa no aumento do score, não se pode concluir que a sua inscrição ou manutenção o reduz. Trata-se de incentivo ao pagamento, conforme informado no próprio sítio eletrônico: "As dívidas negativadas são utilizadas para cálculo do Serasa Score, independente de possuírem ofertas no Serasa Limpa Nome. Já as contas atrasadas (não negativadas) não são utilizadas no cálculo do Serasa Score.
+O pagamento de dívidas negativadas ou contas atrasadas realizadas por meio do Serasa Limpa Nome podem gerar bonificações em sua pontuação, o chamado Score Turbo, que é uma forma de incentivo para que você mantenha suas contas em dia. Não atrase o pagamento nem faça novas dívidas, pois a quebra de algum acordo feito ou a indicação de novas ofertas na plataforma resulta na perda dessas bonificações.
+Como o Serasa Turbo é dinâmico, novas bonificações podem ser geradas em decorrência de outras negociações e/ou pagamento de novos acordos constantes da plataforma." (https://www.serasa.com.br/limpa-nome-online/).
+Verifica-se, portanto, que o Tribunal de origem concluiu que a dívida estava inscrita em mera plataforma "Serasa Limpa Nome" que não corresponde à anotação da dívida no nome em cadastro de inadimplentes, não havendo ato ilícito em tal conduta.
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias demandaria o exame do acervo fático-probatório existente nos autos, o que é inviável em recurso especial devido ao óbice da Súmula n. 7/STJ. Citam-se, a propósito, precedentes específicos sobre o tema:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTENTE. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, o que é inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 2.030.791/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTÊNCIA. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, procedimento inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 2.031.345/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA Nº 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/15, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. Ademais, a conclusão exarada pela instância ordinária, em relação à comprovação do débito e, ainda, ao fato de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor", demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+3. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 1.952.666/RS, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREQUESTIONAMENTO EXIGIDO. ART. 1025 DO CPC. PREQUESTIONAMENTO FICTO NÃO EVIDENCIADO. INCIDÊNCIA DA SÚMULA 211 DO STJ. Agravo interno a que se nega provimento.
+1. É entendimento pacífico desta Corte de que a ausência de enfrentamento expresso acerca da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Na exegese do art. 1.025 do Código de Processo Civil de 2015, considera- se prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não se evidencia na hipótese.
+Precedentes.
+3. Ademais, a conclusão exarada pelas instâncias ordinárias em relação à comprovação do débito e, ainda, de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor" demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+4. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.034.651/RS, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 26/4/2022, DJe de 4/5/2022.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro de 15% para 16 % sobre o valor da causa, observada a justiça gratuita conferida à parte recorrente.
+Publique-se.
+EMENTA
