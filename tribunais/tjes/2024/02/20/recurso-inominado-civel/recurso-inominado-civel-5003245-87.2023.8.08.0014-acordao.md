@@ -1,0 +1,57 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003245-87.2023.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CRISTINA BARROS FERREIRA
+RECORRIDO: CREDITAS SOCIEDADE DE CREDITO DIRETO S.A.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo à parte autora o benefício da gratuidade de justiça.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ADUZ A PARTE AUTORA, EM SÍNTESE, QUE APÓS REALIZAR SIMULAÇÃO DE EMPRÉSTIMO JUNTO AO PORTAL DE INTERNET DA REQUERIDA, RECEBEU CONTATO TELEFÔNICO COM PROPOSTA DE EMPRÉSTIMO. RELATA QUE PARA A CONCLUSÃO DA OPERAÇÃO FORAM-LHE EXIGIDAS TRANSFERÊNCIAS BANCÁRIAS. NARRA QUE DEPOIS DE REALIZAR AS TRANSFERÊNCIAS VEIO A SABER QUE SE COMUNICAVA COM TERCEIROS FALSÁRIOS QUE SE PASSAVAM POR REPRESENTANTES DA RÉ PARA APLICAR GOLPE. PUGNA PELA CONDENAÇÃO DA RÉ NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SENTENÇA DE PRIMEIRA INSTÂNCIA QUE JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS. RECURSO INTERPOSTO PELA REQUERENTE.
+RECURSO CONHECIDO E IMPROVIDO.
+DE FATO, NÃO RESTOU DEMONSTRADA A PRÁTICA DE ATO ILÍCITO PRATICADO PELA REQUERIDA. TRATA-SE DE FRAUDE VIRTUAL PRATICADA POR TERCEIROS. RESTOU DEMONSTRADO QUE A PARTE AUTORA NÃO ADOTOU AS CAUTELAS MÍNIMAS NO MOMENTO DA TRANSFERÊNCIA DO VALOR A TERCEIROS POR ACREDITAR ESTAR CONVERSANDO COM PREPOSTOS DA RÉ, AINDA QUE A AS TRANSFERÊNCIAS FOSSEM ENCAMINHADAS A TERCEIROS, PESSOAS FÍSICAS. A RESPONSABILIDADE CIVIL DO FORNECEDOR DE SERVIÇOS PRESCINDE DA COMPROVAÇÃO DA SUA CULPA, CONTUDO, NÃO DISPENSA A EXISTÊNCIA DO NEXO CAUSAL ENTRE A CONDUTA LESIVA E O DANO. AUSÊNCIA DE RESPONSABILIDADE DA RÉ. NÃO RESTOU DEMONSTRADA FALHAS DE SEGURANÇA NOS SERVIÇOS DISPONIBILIZADOS. A RIGOR, A AUTORA SEQUER COMPROVA TER DISPONIBILIZADO SEUS DADOS PARA A RÉ DURANTE EVENTUAL SIMULAÇÃO DE EMPRÉSTIMO. CASO FORTUITO EXTERNO. EXCLUDENTE DE RESPONSABILIDADE. AUSÊNCIA DE ATO ILÍCITO. RESPONSABILIDADE AFASTADA NOS TERMOS DO ART. 14, § 3º do CDC.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$500,00 (QUINHENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+É como voto.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
