@@ -1,0 +1,21 @@
+DECISÃO
+Tratam-se de embargos de declaração opostos por JOSE NILDO JACINTO DA SILVA, em face de julgamento de Agravo Regimental no habeas corpus, de minha relatoria, que restou assim ementado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE. INOVAÇÃO RECURSAL. MATÉRIA NÃO ARGUIDA NA INICIAL DA IMPETRAÇÃO E NÃO DEDUZIDA PERANTE AS INSTÂNCIAS ORDINÁRIAS. NULIDADES AFASTADAS NA DECISÃO IMPUGNADA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A tese de ocorrência de prescrição da pretensão punitiva intercorrente não foi aventada nas razões do habeas corpus, configurando-se hipótese de inovação recursal, o que impede sua análise em sede de agravo regimental. Não se desconhece que a prescrição é matéria de ordem pública que pode ser conhecida de ofício a qualquer tempo e em qualquer grau de jurisdição. Contudo, nos termos da jurisprudência dominante nesta Corte Superior, para a concessão de habeas corpus nesse sentido faz-se necessária a apreciação da tese pelas instâncias ordinárias de modo a verificar a eventual ocorrência de causa interruptiva ou suspensiva da prescrição. Precedentes.
+2. No mais, os fundamentos lançados na decisão agravada, que não conheceu da impetração por ser substitutiva de recurso próprio e deixou de conceder a ordem de ofício, não foram infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+3. Agravo regimental não conhecido" (fl. 971).
+Nos presentes embargos, a defesa alega contradição no julgado no que diz respeito ao reconhecimento da prescrição. Aduz que "não pairam dúvidas acerca da prescrição ora arguida, motivo pelo qual deve-se extinguir a punibilidade do Embargante, pelo advento da prescrição da pretensão punitiva intercorrente" (fl. 1001).
+Requer, assim, que seja sanada a aventada contradição, "reconhecendo a preliminar suscitada, para extinguir a punibilidade do Embargante, pelo advento da prescrição da pretensão punitiva intercorrente" (fl. 1010).
+É o relatório.
+Decido.
+Consta da petição de fls. 1013/1019, que foi extinta a punibilidade da condenação discutida na revisão criminal contra a qual foi impetrado o presente habeas corpus. Dessa forma, resta prejudicado o presente recurso em razão da perda superveniente de seu objeto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE INDULTO. EXTINÇÃO DA PUNIBILIDADE. PREJUDICIALIDADE DA ORDEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A matéria relativa à alegação de prescrição da pretensão punitiva, na modalidade retroativa, não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+2. Verifica-se que, em 17/4/2023, foi concedido indulto ao ora recorrente, nos termos do art. 5º do Decreto Presidencial n. 11.302/2022, tendo sido julgada extinta a punibilidade em relação à ação penal a que se refere o presente recurso, de modo que o pleito aduzido no presente agravo se encontra prejudicado.
+3. "Tendo em vista a natureza do habeas corpus, vocacionado para a tutela do direito de liberdade, não se justifica a manutenção de sua marcha processual, diante da notícia de concessão de indulto ao paciente e, por conseguinte, extinção da punibilidade" (AgRg no HC n. 247.741/RN, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 11/3/2014, DJe 24/3/2014.) 4. Agravo regimental improvido.
+(AgRg no AgRg no HC n. 772.665/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ant e o exposto, julgo prejudicados os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
