@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por OENIA MARIA DA COSTA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/12/2023.
+Concluso ao gabinete em: 8/2/2024.
+Ação: de execução de título extrajudicial, ajuizada por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL em desfavor da agravante.
+Sentença: julgou extinta a execução ante ao reconhecimento da ocorrência de prescrição intercorrente.
+Decisão monocrática: deu provimento à apelação interposta pela parte agravada.
+Acórdão: negou provimento ao agravo interno em apelação interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. INÉRCIA DO EXEQUENTE NÃO DEMONSTRADA. CITAÇÃO EDITALÍCIA EFETIVADA. PRESCRIÇÃO INTERCORRENTE NÃO CONFIGURADA. INEXISTÊNCIA DE FATO NOVO. DECISUM MANTIDO. PREQUESTIONAMENTO. 1. Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da argüição de prescrição ou decadência. Inteligência da Súmula 106do STJ. 2. Impõe-se o desprovimento do agravo interno interposto contra decisão do Relator, quando a parte agravante não apresenta fato novo suscetível de justificar a reconsideração, tampouco comprova que os fundamentos que a embasam são contrários à jurisprudência predominante deste eg. Tribunal. 3. Quanto ao prequestionamento, dentre as funções do Judiciário não se encontra a de órgão consultivo, não estando o julgador obrigado a decidir nos termos dos dispositivos legais suscitados pelas partes, devendo, contudo, resolver as questões debatidas, fazendo uso da fundamentação que melhor lhe convir dentro da legalidade e justiça. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (e-STJ Fls. 504/505)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 206, § 5º, I, do CC; 924, V, e 1.022, I e II, do CPC. A par da nulidade do acórdão recorrido, sustenta, em suma, a necessidade de reconhecimento da ocorrência de prescrição intercorrente na hipótese. Aduz, ainda, a inércia da exequente.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Do reexame de fatos e provas
+Ademais, não obstante a insurgência da agravante no que tange à ocorrência de prescrição intercorrente, consta do acórdão recorrido:
+(..) No caso sob exame, não afiguram-se preenchidos os requisitos necessários à decretação da prescrição intercorrente.
+De fato, extrai-se dos autos que o exequente, ora apelante, ajuizou apresente execução em 18/09/2012, pretendendo a satisfação da quantia de R$ 434.127.34 (quatrocentos e trinta e quatro mil, cento e vinte e sete reais e trinta e quatro centavos), proveniente de contrato de compra e venda compacto adjeto de hipoteca, formalizada em 02/07/1991, pela Escritura Pública registrada no Cartório de Registro de Imóveis de Caturaí, Comarca de Goianira, com hipoteca sobre imóvel registrado na matrícula nº 5.497, no Oficio de Registro de Imóveis de Inhumas (evento nº 03, arquivo 01, p. 6/9).
+A seguir, na data de 04/10/2012, mediante despacho prolatado pelo juízo condutor do feito, foi determinada a citação da executada (evento nº 03,arquivo 01, p. 74/76).
+A carta precatória destinada à comarca de Goiânia retornou sem a efetiva citação da executada, com a informação de que ela nunca residiu no endereço indicado, que este era dado como referência e que ela teria se mudado para Minas Gerais (evento nº 03, arquivo 01, p. 112). Da devolução da carta precatória o exequente foi intimado em 11/04/2014 (evento nº 03,arquivo 01, p. 115).
+Posteriormente, foram expedidas cartas precatórias para a comarca Pirapora-MG, em alguns endereços encontrados pelas buscas no BacenJud, cujas tentativas de citação da executada foram todas infrutíferas, inclusive em outro endereço na cidade de Inhumas. Diante disso, em 17/10/2019 o exequente pleiteou a citação por edital, o que foi deferido em 13/12/2020 e certificado a sua publicação em 18/12/2020 (eventos nº 6, 8 e 16).
+Na sequência, ante a ausência de manifestação da executada, a Defensoria Pública, no exercício da curatela especial da parte executada, opôs exceção de pré-executividade, alegando a ocorrência de prescrição intercorrente em razão do transcurso de mais de 8 anos entre a ciência do exequente da não localização da executada e sua efetiva citação, em 22/01/2021 (evento nº 24).
+(..) Nessa intelecção, denota-se que o exequente não se limitou a postular em juízo, mas logrou citar o devedor, o que não caracteriza a inércia do credor, segundo intelecção da Súmula nº 106 e do Tema Repetitivo nº 568, ambos do STJ, verbo ad verbum:
+(..)
+A título de reforço hermenêutico, cabe pontuar que "os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera" (STJ, 1ª Seção, Resp nº 1.340.553/RS, Temas 566 e 568, Rel. Min. Mauro Campbell Marques, julgado em 12/09/2018, DJe de 16/10/2018).
+Nesse diapasão, ao contrário do entendimento adotado pelo juízo primevo, não ocorreu a prescrição, impondo-se a reforma da sentença.
+(..) (e-STJ Fls. 500/501, grifo nosso)
+Alterar o decidido no acórdão impugnado, portanto, no que se refere à caracterização da inércia e desídia da parte exequente, notadamente a ensejar o reconhecimento do decurso do lapso prescricional, exigiria o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+A corroborar:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA DE DESÍDIA POR PARTE DO EXEQUENTE. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. NULIDADE PROCESSUAL. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. O reconhecimento da nulidade processual exige demonstração de efetivo prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.289.984/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023, grifo nosso.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. NÃO INCIDÊNCIA. AUSÊNCIA DE INÉRCIA DO CREDOR. PREMISSAS FÁTICAS E PROBATÓRIAS. REEXAME INVIÁVEL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A prescrição se funda na cognição de que a inércia prolongada do titular, ao não exercer o seu direito, faz presumir a intenção de renunciá-lo. O ordenamento jurídico pune, assim, o negligente ao não exercer o seu direito durante um lapso temporal determinado. Como pilar da segurança jurídica e da pacificação das relações sociais, o instituto da prescrição tradicional irradia seus efeitos para dentro do processo, já que a satisfação do direito não pode ser eternizada na via judicial.
+1.1. Consoante destacado no REsp 1.604.412/SC (desta relatoria, Segunda Seção, DJe 22/8/2018), deve-se ter em mente que a prescrição intercorrente é meio de concretização das mesmas finalidades inspiradoras da prescrição tradicional; guarda, portanto, origem e natureza jurídica idênticas, distinguindo-se tão somente pelo momento de sua incidência. Por isso, não basta ao titular do direito subjetivo a dedução de sua pretensão em juízo dentro do prazo prescricional, sendo-lhe exigida a busca efetiva por sua satisfação.
+1.2. Noutros termos, é imprescindível que o credor promova todas as medidas necessárias à conclusão do processo, com a realização do bem da vida judicialmente tutelado, o que, além de atender substancialmente o interesse do exequente, assegura também ao devedor a razoabilidade imprescindível à vida social, não se podendo albergar no direito nacional a vinculação perpétua do devedor a uma lide eterna.
+2. A conclusão do acórdão recorrido, afastando a prescrição intercorrente, derivou de uma análise acerca das premissas fáticas dos autos, sobretudo quanto à ausência de abandono do processo pelo exequente, conforme os reiterados pedidos de diligências para satisfação de seu crédito, inexistindo, assim, inércia da parte. O acolhimento da pretensão recursal, a fim de reconhecer a ocorrência da prescrição na espécie, demandaria reexame dos fatos, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.354.715/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023, grifo nosso.)
+- Da existência de fundamento não impugnado
+Consigne-se, ainda, que a recorrente não impugnou os fundamentos utilizados pelo TJ/GO, notadamente grifados no excerto citado e relativos às peculiaridades da hipótese e à decorrente aplicação jurisprudencial, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de execução de título extrajudicial.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo conhecido. Recurso especial não conhecido.
