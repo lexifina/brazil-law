@@ -1,0 +1,58 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5014524-40.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO INTER S.A.
+RECORRIDO: YAN OTAVIO LOURENCO VILA NOVA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. FURTO DE CELULAR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA. O AUTOR ALEGA, EM SÍNTESE, QUE TEVE SEU CELULAR E CNH FURTADOS. ADUZ QUE IMEDIATAMENTE BLOQUEOU TODOS OS CARTÕES DE CRÉDITO QUE ESTAVAM VINCULADOS À SUA CARTEIRA DIGITAL NO CELULAR, MAS QUANDO RECUPEROU O ACESSO AO APLICATIVO DO RÉU, SURPREENDEU-SE AO SABER QUE O DINHEIRO QUE TINHA INVESTIDO HAVIA SIDO RESGATADO E TRANSFERIDO A TERCEIROS, BEM COMO HAVIA COMPRAS NO CARTÃO DE CRÉDITO. RELATA QUE TENTOU OBTER DO RÉU, ADMINISTRATIVAMENTE, O CANCELAMENTO DAS TRANSAÇÕES, SEM SUCESSO. PUGNA PELA RESTITUIÇÃO DOS VALORES RETIRADOS DE SUA CONTA, BEM COMO INDENIZAÇÃO POR DANOS MORAIS. A SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, FIXANDO O VALOR DA INDENIZAÇÃO POR DANOS MORAIS EM R$3.000,00. RECURSO INOMINADO DO REQUERIDO PUGNANDO PELA REFORMA INTEGRAL DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E PROVIDO EM PARTE.
+ANALISANDO OS EXTRATOS JUNTADOS AO FEITO, EM SEDE DE DEFESA, CONCLUO QUE AS OPERAÇÕES IMPUGNADAS NÃO SÃO COMPATÍVEIS COM A ROTINA DE MOVIMENTAÇÕES FINANCEIRAS REALIZADAS PELO AUTOR. ALÉM DISSO, O FATO DAS TRANSAÇÕES TEREM OCORRIDO EM UM CURTO INTERVALO DE TEMPO E SEREM EM VALORES ELEVADOS, DEVERIA LEVANTAR FORTE SUSPEITA DE FRAUDE. NOS TERMOS DO QUE DISPÕE O ART. 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR, A RESPONSABILIDADE CIVIL DO FORNECEDOR DE SERVIÇOS É OBJETIVA, DE MODO QUE SE DEVE PERQUIRIR SOMENTE ACERCA DA EXISTÊNCIA DO NEXO CAUSAL ENTRE O FATO IMPUTÁVEL AO AGENTE E OS DANOS ACARRETADOS À VÍTIMA - A INSTITUIÇÃO FINANCEIRA DEVE RESPONDER PELOS DANOS CAUSADOS AO CLIENTE, VÍTIMA DE SEQUESTRO-RELÂMPAGO, AO APROVAR OPERAÇÕES FINANCEIRAS DESPROPORCIONAIS E INCOMPATÍVEIS COM O PERFIL FINANCEIRO DO CORRENTISTA CONFORME OCORREU NO PRESENTE CASO. ASSIM, ESCORREITA A SENTENÇA DE PISO PROFERIDA PELO MAGISTRADO DE PRIMEIRO GRAU QUE CONSIDEROU QUE O
+“as transações realizadas no dia 23/02/2023 (ID 27052109 e 27052110), no total de 16 (dezesseis), ocorreram em curto espaço de tempo. Nesse sentido, verifico a caracterização de falha na prestação de serviço da Requerida, pois caberia à esta, diante de uma situação dessa, de comportamento diferente do usual do usuário, utilizando de seus mecanismos de segurança, suspender a utilização dos serviços, e contatar o consumidor para averiguar se era ele realmente quem utilizava o aplicativo e o cartão
+”.
+DESTARTE, O BANCO DEVERIA SER CAPAZ DE DETECTAR A MOVIMENTAÇÃO SUSPEITA NA CONTA DE SEU CORRENTISTA DE MODO A EVITAR A AÇÃO DOS CRIMINOSOS. NÃO TENDO TOMADO NENHUMA AÇÃO COM VISTAS A GARANTIR A PROTEÇÃO DO CONSUMIDOR E REMEDIAR O PREJUÍZO CAUSADO POR TERCEIROS, DEVE RESPONDER PELA FALHA NA PRESTAÇÃO DE SERVIÇOS. EM CONFORMIDADE COM ARESTOS DESTA TURMA RECURSAL EM CASOS ANÁLOGOS, DEVE SER, ENTRETANTO, AFASTADO O ARBITRAMENTO DE DANOS MORAIS. ASSIM, DOU PROVIMENTO AO RECURSO TÃO SOMENTE PARA AFASTAR A INDENIZAÇÃO NESTE PARTICULAR E
+MANTENHO A SENTENÇA DE PISO POR SEUS PRÓPRIOS FUNDAMENTOS NO RESTANTE.
+SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
