@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por ARTECOLA QUÍMICA S/A - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo-RS, no qual se processa a recuperação judicial da suscitante (Processo n.º 0191.18.0001653-8), e a 1ª Vara do Trabalho de São José dos Pinhais/PR, onde tramita a reclamação trabalhista n.º 0000067-20.2020.5.09.0670, ajuizada por JOSÉ ABREU SERENARIO JUNIOR.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Às fls. 277/278, o pedido liminar foi indeferido. Opostos embargos de declaração (fls. 283/352), esses foram rejeitados às fls. 356/357. Interposto agravo interno (fls. 364/372), os mesmos aguardam exame.
+Prestadas as informações (fls. 385/387), o MPF ofertou parecer no sentido do não conhecimento do incidente. (fls. 390/394)
+É o relatório.
+Decisão.
+1. A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão. (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020)
+Não se olvida da orientação segundo a qual após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda. (ut. AgInt nos EDcl no CC 174322/SP, Rel. Min. Nancy Andrighi, DJe de 14/6/2021; AgInt no CC 172707/SP, Rel. Min. Luis Felipe Salomão, Dje de 02/10/2020)
+Contudo, na hipótese dos autos, não há se falar em conflito de competência porquanto inexiste demonstração de ato constritivo em face do patrimônio submetido ao regime recuperacional, consoante admite a própria suscitante às fls.368, de modo que, a teor do artigo supracitado, não há conflito a ser dirimido por este STJ, sendo de rigor, portanto, o não conhecimento do incidente.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do CPC, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Fica prejudicado o agravo interno de fls. 364/372.
+EMENTA
