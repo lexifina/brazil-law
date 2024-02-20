@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA VARA CRIMINAL DE COLORADO - PR, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE DRACENA - SP, suscitado.
+O Juízo de Direito da 2ª Vara Criminal de Dracena - SP determinou a remessa dos autos n. 1502248-11.2021.8.26.0168a uma das Varas Criminais de Colorado - PR ao argumento de que o crime investigado, previsto no art. 299 do Código Penal, teria sido consumado naquele município (fls. 579-580).
+O Juízo de Direito da Vara Criminal de Colorado - PR, por sua vez, suscitou conflito de competência. Sustentou, em síntese, que o delito apurado teria sido praticado com o auxílio direto de associação criminosa sob investigação na Comarca de Dracena - SP, o que configuraria conexão entre os processos (fls. 5-9).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da 2ª Vara Criminal de Dracena - SP (fls. 632-636).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a Tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Consta dos autos que a conduta apurada consiste na prática, em tese, do crime de falsidade ideológica, prevista no art. 299 do Código Penal, em razão da apresentação de declaração falsa com o objetivo de transferir Carteira Nacional de Habilitação - CNH para outra unidade da Federação.
+O referido delito teria sido cometido pelo investigado, na cidade de Colorado - PR, na companhia de integrante de uma associação criminosa que tinha como principal atividade transferir CNH para outros estados, mediante o pagamento de determinada quantia e declaração falsa de endereço, a fim de que os condutores não se sujeitassem a penalidades administrativas.
+As investigações que resultaram na descoberta do referido grupo criminoso e identificaram os condutores que teriam contratado os seus serviços foram efetuadas no município de Dracena - SP, pela Polícia Civil do Estado de São Paulo, e tramitam naquela comarca.
+Assim, é possível observar que há evidente relação entre o mencionado crime de associação criminosa e o crime cuja apuração ora se examina. Ademais, como as provas relativas a ambos os delitos estão diretamente associadas, já que o grupo criminoso atuava para viabilizar a prática do crime de falsidade ideológica, verifico a existência de conexão instrumental entre os processos, tal como prevê o art. 76, inciso III, do Código de Processo Penal, in verbis:
+"Art. 76. A competência será determinada pela conexão:
+ ..
+III - quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração."
+Nestes casos, embora devam ser observadas as regras constantes do art. 78 do referido diploma normativo para a determinação da competência, a existência do delito de associação criminosa, classificado como crime de natureza permanente, impõe o emprego da regra da prevenção, como já decidiu esta Corte em caso semelhante. Confira-se:
+" ..  Reconhecida a conexão entre delitos envolvendo jurisdições de mesma categoria, a regra geral a ser observada, na fixação da competência, é a do art. 78, II, do CPP. Isso não obstante, se a conexão envolve pelo menos um delito de natureza permanente, que sinaliza a produção de resultados em locais diferentes, deve ser observada regra mais especial que conjuga as disposições dos arts. 71 e 83 do CPP, segundo as quais a competência se define pela prevenção." (CC n. 140.419/PR, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, DJe de 25/4/2016)
+Portanto, embora o crime de falsidade ideológica tenha sido praticado, em tese, no município de Colorado - PR, a conexão com o crime de associação criminosa e a aplicação da regra da prevenção impõem o reconhecimento da competência do Juízo de Dracena - SP.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Dracena - SP, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. CRIME DE FALSIDADE IDEOLÓGICA. DOCUMENTO PÚBLICO. TRANFERÊNCIA DE CARTEIRA NACIONAL DE HABILITAÇÃO - CNH. AUXÍLIO DE ASSOCIAÇÃO CRIMINOSA. CONEXÃO INSTRUMENTAL. EXISTÊNCIA DE CRIME DE NATUREZA PERMANENTE. DETERMINAÇÃO DA COMPETÊNCIA PELA REGRA DA PREVENÇÃO. PRECEDENTE.
