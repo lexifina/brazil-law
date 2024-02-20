@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Clenio Samuel de Lira - condenado por roubo circunstanciado a 8 anos de reclusão, em regime inicial fechado, e 20 dias-multa, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 30/36) que manteve a sentença condenatória prolatada na Ação Penal n. 1512471-03.2022.8.26.0228 (fls. 18/29), da 16ª Vara Central Criminal da comarca de São Paulo -, não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da pena imposta ao paciente, com a alteração do quantum de exasperação da pena-base - ao argumento de que não restou comprovado que a vítima permaneceu com a liberdade restrita, por período de tempo juridicamente relevante, assim, a incidência da causa de aumento de pena prevista no art. 157, inciso V, do Código Penal, deve ser afastada (fl. 10) - e o abrandamento do regime prisional.
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 22/3/2023 (conforme consulta ao endereço eletrônico do Tribunal estadual), o que afastaria a competência desta Corte Superior para análise do pleito (AgRg no HC n. 775.050/SC, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2022).
+Ademais, não demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) a pena-base foi exasperada em 1/6, em razão da existência de duas agravantes sobejantes - concurso de agentes e restrição da liberdade da vítima -, isso porque a alegação de que a vítima não permaneceu com a liberdade restrita por período juridicamente relevante não foi analisada no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância; e
+b) o regime fechado foi fixado em razão da gravidade concreta do delito: visto que a vítima permaneceu custodiada durante a ousada ação de se dirigirem à casa da vítima para subtração de outros pertences, arriscando a família que ali estava (fl. 28).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PRIMEIRA FASE. FRAÇÃO. ALEGAÇÃO DE QUE A VÍTIMA NÃO PERMANECEU COM A LIBERDADE RESTRITA POR PERÍODO JURIDICAMENTE RELEVANTE. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL MAIS SEVERO. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
