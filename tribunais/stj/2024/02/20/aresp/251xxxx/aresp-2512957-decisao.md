@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO CARVALHO DA SILVA e MARLON LOBO SOUTO MAIOR contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 342):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PEDIDO DE JUSTIÇAGRATUITA. PAGAMENTO DO PREPARO. ATO INCOMPATÍVEL. BENEFÍCIO, SERECONHECIDO, ESTARIA RESTRITO À ESFERA RECURSAL. JUNTADA DEDOCUMENTOS NOVOS. POSSIBILIDADE. CONTRADITÓRIO OBSERVADO. NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+1. O recolhimento das custas e do preparo é ato incompatível com o pedido de justiça gratuita, já que se contrapõe à alegação de ausência de condições para arcar com as despesas processuais. Ademais, mesmo que se reconhecesse aos apelantes os benefícios da justiça gratuita, este não retroage para alcançar encargos processuais fixados na sentença.
+2. Conforme dispõe o art. 435, parágrafo único do CPC é permitido às partes juntarem posteriormente a petição inicial ou a contestação, documentos formados, conhecidos, acessíveis ou disponíveis após esses atos, desde que a parte demonstre o motivo que obstou a juntada no momento adequado e que não está agindo de forma contrária à boa-fé, no entanto, ser observado o contraditório.
+3. Rejeita-se a alegação de nulidade da decisão, por ausência de fundamentação, se o magistrado deduziu as razões de fato e de direito que levaram ao seu convencimento, em estrita observância ao disposto no artigo 93, inciso IX, da Constituição Federal.
+4. Recurso conhecido e desprovido. Sentença mantida.
+Opostos embargos, foram rejeitados (fl. 383):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. POSSIBILIDADE DE JUNTADA DE DOCUMENTOS APÓS A PETIÇÃO INICIAL E CONTESTAÇÃO. NULIDADE DA DECISÃO POR FALTA DE FUNDAMENTAÇÃO. ALEGAÇÕES ENFRENTADAS PELO COLEGIADO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO CONHECIDOS E DESPROVIDOS.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do Código de Processo Civil, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. Ao utilizar este meio recursal, sem apresentar fundamentos suficientes que o justifiquem, o embargante busca simplesmente a modificação da decisão exarada, não o esclarecimento ou complementação de algum ponto.
+3. Inexistindo contradição, omissão e obscuridade a ser suprida por ter a decisão apreciado adequadamente a matéria, insuficiente se revela a pretensão de prequestionamento para o provimento dos embargos opostos.
+4. Embargos de declaração conhecidos e desprovidos.
+Narram os requerentes que, no processo principal, ajuizaram execução de honorários advocatícios a que teriam direito, ao que parece com base em contrato firmado com o cliente, o Sindicato dos Trabalhadores da Justiça do Amazonas - SINTJAM, para quem obtiveram êxito em mandado de segurança impetrado para o reconhecimento de diferenças salariais dos seus filiados.
+Os embargos à execução foram julgados procedentes, motivando o início de cumprimento provisório do julgado, pelo advogado do executado, de honorários que lhe foram fixados na sentença.
+Sustentam existir violação aos arts. 489, §1º, IV e 1.022, ambos do CPC, porquanto seria omisso e desfundamentado o julgado objeto do especial, já que, mesmo após os declaratórios, deixou de se manifestar sobre a contradição existente entre documentos apresentados pelo próprio Sindicato, o pretenso devedor de honorários contratuais, documentos que, por isso mesmo, não seriam novos, porque já existiam, mas foram juntados pelo executado após a apresentação dos embargos à execução e não com sua inicial.
+Contrarrazões (fls. 434-442).
+É o relatório. Decido.
+As razões do agravo impunam a decisão de inadmissi bilidade do especial, recurso que passa a ser examinado.
+Decorre da leitura do acordão recorrido existir, em princípio, omissão e obscuridade nos seus fundamentos, na medida em que afirma categoricamente que os documentos juntados pela parte recorrida, em momento tardio, após os embargos à execução, deveriam ter acompanhado a inicial. Ao mesmo tempo, conclui que, na espécie, a juntada posterior é lícita, sem, contudo, externar e especificar quais seriam esses documentos e porque teria agido o Sindicato com boa-fé. Apenas faz menção a isso, sem esmiuçar o caso concreto.
+Assim, o entendimento firmado na origem não parece, em princípio, estar de acordo com a norma do art. 435 do CPC, na qual consta que deverá ser demonstrado o motivo que impediu a parte de juntar anteriormente os documentos, ficando ao juiz incumbência de avaliar a conduta da parte de acordo com o art. 5º do CPC.
+São nuances específicas, cruciais para o correto deslinde da questão.
+Assim é o entendimento desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. VIOLAÇÃO AO ART. 535 DO CPC DE 1973. OCORRÊNCIA. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Hipótese em que o Tribunal de origem, não obstante provocado pela parte, não se manifestou sobre a alegação de concessão ex officio de efeito suspensivo aos embargos da devedora por ocasião do julgamento do agravo de instrumento interposto pelo credor, uma vez que os embargos foram recebidos sem efeito suspensivo na origem e inexiste recurso da parte contrária. Configuração de omissão relevante.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt nos EDcl no AREsp 1640867/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Determinado novo julgamento dos embargos de declaração, fica consequentemente prejudicada a análise do recurso especial dos agravantes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.160.058/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2021, DJe de 16/12/2021 )
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e, declarando nulo o acórdão recorrido, determinar a volta dos autos à origem para que sejam rejulgados os embargos de declaração, suprindo as omissões apontadas.
+Publique-se.
+EMENTA
