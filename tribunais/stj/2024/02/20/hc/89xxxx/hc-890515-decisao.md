@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Jose Felix Chaves do Nascimento - denunciado como incurso no crime de tráfico de drogas majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Pau lo (Habeas Corpus n. 2350235-58.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Barretos/SP (Autos n. 1500278-02.2023.8.26.0557), ao argumento de que a decisão que decretou a prisão preventiva do requerente fundamentou-se, exclusivamente, na alegação de que sua ausência estaria a dificultar a aplicação da Lei Penal, colocando em risco a instrução criminal. Todavia, é imperativo considerar que o acusado, à época da decretação da prisão preventiva, não tinha ciência da imputação que lhe era feita. O paciente mudou-se de endereço e por não ter conhecimento da ação que tramitava, por não ter advogado na época e ter "acreditado" que após sua soltura o processo havia terminado não foi mais atrás, erro que o paciente reconhece, sendo que foi explicado para ele os motivos da sua prisão, conforme demonstra o mandado de cumprimento da prisão preventiva (fl. 5).
+Da atenta análise dos autos observa-se que o paciente não ostenta a condição de foragido sem que exista justificativa idônea para tanto. Ele foi preso em flagrante e beneficiado com liberdade provisória mediante medidas alternativas à prisão, dentre elas a proibição da se ausentar da comarca sem autorização judicial, mas entendeu por bem, além de não comparecer ao Juízo, mudar de endereço sem comunicação.
+Assim, não verifico o alegado constrangimento.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. ACUSADO BENEFICIADO COM MEDIDAS ALTERNATIVAS À PRISÃO. DESCUMPRIMENTO E FUGA DO DISTRITO DA CULPA. PRISÃO EM FLAGRANTE QUE DENOTA A INEQUÍVOCA CIÊNCIA DA IMPUTAÇÃO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
