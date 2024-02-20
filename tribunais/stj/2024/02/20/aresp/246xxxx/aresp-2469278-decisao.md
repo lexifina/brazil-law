@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE HABITACAO POPULAR DE BAURU em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA. Apelação. Compromisso de compra e venda. Obrigação de fazer. Improcedência do pedido. Inconformismo da autora. Cabimento. Cessão de direitos sem a anuência da promitente vendedora COHAB. Quitação do preço comprovada. Ausência de interesse da vendedora em opor-se à cessão ou conservar a propriedade da coisa. Dever de transferir ao comprador ou ao seu cessionário a propriedade do imóvel, já que recebeu o pagamento integral. Precedentes. Decisão reformada. Apelação provida." (e-STJ fls. 265)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 299, 1.245, do Código Civil, artigo 1º, parágrafo único, da Lei n.º 8.004/90, sustentando, em síntese que tendo havido a necessária interveniência da recorrente na cessão de direitos realizada pelo mutuário original, o contrato de gaveta firmado não lhe pode ser oponível, tratando-se de verdadeira res inter alios acta, razão pela qual não seria justa a imposição de que a Cohab/Bauru litigue contra pessoa com a qual não tenha qualquer relação jurídica.
+É o relatório. Decido.
+No que se refere aos arts. 299, 1.245, do Código Civil, artigo 1º, parágrafo único, da Lei n.º 8.004/90 verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)(grifei)
+Ademais, ao se manifestar sobre a possibilidade de adjudicação do imóvel , a Corte de origem consignou:
+"Diante da quitação do preço não se vislumbra quaisquer prejuízos à vendedora por conta da não anuência na cessão para fins de outorga da escritura. Ademais, o C. Superior Tribunal de Justiça sedimentou entendimento no sentido de que "na ação de adjudicação compulsória é desnecessária a presença dos cedentes como litisconsortes, sendo corretamente ajuizada a ação contra o promitente vendedor" (REsp 648.468/SP, 3ª T., Rel. Min. Carlos Alberto Menezes Direito, j. em 14.12.2006).
+Desse modo, recebida a integralidade do preço, sem controvérsia a esse respeito, cabe à vendedora cumprir com a sua parte na obrigação, consistente em transferir ao comprador ou ao seu cessionário a propriedade do imóvel." (e-STJ fl. 266)
+Contudo, tais fundamentos, autônomos e suficientes à manutenção do v. acórdão recorrido, não foram impugnados nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, relator Ministro Raul Araújo, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, pois fixados no patamar máximo previsto no art. 85, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
