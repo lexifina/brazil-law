@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por ASSOCIACAO COMERCIAL DE SAO PAULO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO DO NOME DA AUTORA NO ÓRGÃO DE RESTRIÇÃO AO CRÉDITO. NOTIFICAÇÃO PRÉVIA NÃO COMPROVADA. AUSÊNCIA DE COMPROVAÇÃO DA POSTAGEM. INDENIZAÇÃO FIXADA EM RS 3.000,00 (TRÊS MIL REAIS). RECURSO PARCIALMENTE PROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 373, II, do CPC e 43, § 2º, do CDC, no que concerne à comprovação de que a recorrente efetivamente enviou notificação de inclusão da parte recorrida para o cadastro de inadimplentes, trazendo a seguinte argumentação:
+O r. acórdão condenou a recorrente à baixa do apontamento bem como ao pagamento de indenização e dos ônus de sucumbência, sob o fundamento de que a apelante não comprovou de forma hábil o envio da notificação prévia, eis que não logrou êxito em comprovar a remessa da notificação ao ora recorrido, o que, data máxima vênia, não é o caso dos autos.
+ ..
+Nesse ponto, contrariamente ao entendimento do nobre magistrado, é cediço que a recorrente cumpriu com seu dever legal de notificar previamente o consumidor, o que restou cabalmente comprovado no caso em comento. Isso porque, ao ser alimentado o sistema da BOA VISTA SERVIÇOS pelas empresas associadas com os dados do devedor inadimplente, é enviada carta de comunicação ao mesmo para que este tome ciência da dívida e a quite ANTES da inclusão de seu nome no cadastro de inadimplentes.
+Dessa forma, não merece prosperar qualquer alegação de que a notificação é inválida, uma vez que a notificação do registro foi devidamente encaminhada à parte recorrida.
+ ..
+Restando comprovadas as postagens, eventual falha de entrega ou recebimento no endereço fornecido pelo credor extrapola a responsabilidade da Boa Vista Serviços, posto que não lhe cabe verificar a correção das informações que lhe são repassadas.
+Os documentos juntados consistem nas comunicações de débitos, enviadas pelos Correios atestando o envio das notificações ao consumidor ali constante. Conforme se percebe, os documentos foram enviado para o endereço fornecido pela empresa associada, cadastro esse que deve ser atualizado pelo próprio consumidor.
+Há de se frisar que NÃO HÁ prazo legal para o envio da comunicação ao consumidor, de forma que basta a notificação em DATA PRÉVIA à data da exibição do registro em nome do demandante. A parte apelante alega que as notificações relativas à credora ENERGISA foram todas enviadas antes da exibição no cadastro positivo.
+ ..
+Logo, demonstrado o fiel cumprimento ao artigo 43 § 2.º do CDC, não há que se falar no cancelamento do aponte, e por conseguinte, na sucumbência da recorrente, uma vez que não há nos autos qualquer indício de que o registro sub judice foi incluído de forma irregular.
+(fls. 317/322).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, a parte recorrente alega dissídio do art. 43, § 2º, do CDC, no que concerne à comprovação de que a recorrente efetivamente enviou notificação de inclusão da parte recorrida para o cadastro de inadimplentes, trazendo a seguinte argumentação:
+Como até então referido, o acórdão objeto do presente manteve a sentença de primeiro grau que solicitou a exclusão do débito suprarreferido, por não considerar que a recorrente enviou a notificação.
+Contudo, através de simples consulta ao entendimento acerca do assunto adotado pelos outros tribunais em situações idênticas a dos autos, percebe-se que, no decisum vergastado, a solução adotada foi completamente divergente da maioria dos julgados consultados.
+ ..
+Insta salientar ainda que o entendimento unissimo na jurisprudência pátria é de que compete ao consumidor demonstrar que o endereço indicado pelo credor foi diverso daquele que foi endereçada a referida notificação.
+ ..
+Dessa forma, Excelência, observa-se que além de claro desrespeito à legislação federal no ponto anterior explanado (art. 43, § 2º do CDC), o acórdão ora recorrido traz total desacordo com o julgado paradigma apresentado. Razões pelas quais deve aquele, incontestavelmente, ser reformado, a fim de que seja dado provimento ao postulado em sede de defesa.
+(fls. 324/327).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, as empresas recorridas não se desincumbiram do ônus de comprovar a notificação prévia enviada ao endereço fornecido pela entidade credora relativamente aos débitos (p. 24)
+ ..
+Da análise das correspondências colacionadas às p. 101-102, 105-106, 108-109 e 116-117, embora se reportem aos débitos descritos no detalhamento, não trazem informações de quando foram enviadas, se antes ou depois dos apontamentos negativos.
+A propósito, diversamente do que constou na sentença, em específico aos referidos documentos de envio através dos Correios pela ferramenta FAC, não há o número do código de barras, tampouco informações seguras para confirmar a postagem daquelas correspondências.
+Deste modo, nada obstante seja prescindível a comprovação do recebimento da correspondência, deve-se demonstrar o efetivo envio, o que não ocorreu no caso dos autos (fl. 276).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
