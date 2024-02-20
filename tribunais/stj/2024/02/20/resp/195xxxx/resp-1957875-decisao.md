@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SHIRLEIDE PEREIRA DA SILVA contra v. acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO DECLARATÓRIA C.C. REPARAÇÃO DE DANOS MORAIS. Ônus da loja Apelada demonstrar a regularidade da contratação e a legitimidade da dívida. Inteligência do art. 14 do CDC. Fatos não provados. Débito declarado inexigível. Responsabilidade civil objetiva da Apelada. Negativação indevida do nome da Apelante. Dano moral não configurado. Negativações contemporâneas e demora para o ajuizamento da ação que denotam a inocorrência de abalo de crédito no caso concreto. Afastamento da condenação da Apelante ao pagamento de multa por litigância de má-fé. Sucumbência recíproca declarada. Sentença parcialmente reformada.
+Recurso parcialmente provido.
+Nas razões recursais, a parte agravante alega violação dos arts. 85, § 2º, do NCPC, 6º, III e VII, 7º, § único, 14, 25, § 1º, 43, § 2º, do CDC, 186 e 927, do Código Civil, bem como à Súmula 385 do STJ, sustentando, em síntese, isto: (I) "Assim sendo, conclui-se que tal comando legal não pode ser aplicado ao caso ora debatido, uma vez que, na verdade, não PREEXISTE nenhuma legítima inscrição, como perfeitamente identificado pela análise dos documentos supra citados e mencionados na própria sentença. Desta forma, fica afastada a incidência da Súmula 385 do STJ, já que resta devidamente comprovado que INEXISTEM INSCRIÇÕES ANTERIORES" (fl. 153); (II) "tendo em vista que a recorrente obteve um provimento judicial para que seu nome seja retirado dos cadastros restritivos de crédito, conjuntura que lhe permitirá sair da situação de transtorno em que vive e irá garantir que realize todas suas transações financeiras e planejamentos sem maiores dificuldades, confia a parte que essa Corte arbitre os honorários de acordo com as disposições do NCPC, isto é no importe de 20% do valor atualizado da causa, inclusive nessa instância, posto que tal obrigação representa uma conquista de toda a classe dos advogados e fará justiça nas circunstâncias dessa demanda" (fl. 155).
+É o relatório. Decido.
+Inicialmente, destaque-se que a indicação de ofensa à súmula não enseja a abertura do recurso especial, por não se enquadrar no conceito de lei previsto no art. 105, inciso III, alínea "a", da Constituição Federal (AgRg no REsp 782.818/ES, Rel. Min. Sidnei Beneti, 3ª Turma, DJe 30.11.2009).
+No mais, tem-se que o apelo nobre não merece conhecimento quanto à alegada ofensa aos arts. 6º, III e VII, 7º, § único, 14, 25, § 1º, 43, § 2º, do CDC, 186 e 927, do Código Civil.
+Como sabido, o recurso especial é o instrumento processual adequado para discutir violação ou divergência jurisprudencial quanto a lei federal, conforme preconiza o art. 105, III, a e c, da CF/88. Nesse diapasão, para atender tal mister, é necessário que, nas razões recursais, sejam apresentados argumentos jurídicos claros e precisos sobre como o eg. Tribunal a quo teria violado ou interpretado de forma divergente determinado dispositivo de lei federal.
+No caso em apreço, a parte recorrente não apresentou argumentação jurídica apta a demonstrar como os referidos artigos foram violados ou interpretados de forma equivocada pelo Tribunal de origem. Nesse cenário, as razões do apelo nobre representam mera alegações genéricas de violação a dispositivos de lei federal, o que configura deficiência na fundamentação recursal, atraindo o óbice da Súmula 284/STF, aplicada por analogia. Nesse sentido, confiram-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. (..). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+(..)
+2. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 613.606/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe 17/05/2017 - g. n.)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/1973) - AÇÃO DE INDENIZAÇÃO DECORRENTE DE NEGATIVAÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A alegação genérica de ofensa a dispositivo da lei federal, sem a demonstração, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, atrai, por analogia, a Súmula 284 do STF.
+(..)
+4. Agravo regimental desprovido."
+(AgRg no AREsp 518.058/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2016, DJe 28/10/2016 - g. n.)
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. EMBARGOS DE DECLARAÇÃO.RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTE A OMISSÃO. SÚMULA Nº 284/STF. ARTIGOS 496 E 513 DO CÓDIGO DE PROCESSO CIVIL. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DOS DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182).
+2. "É possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgRgAg nº 228.787/RJ, Relator Ministro Sálvio de Figueiredo Teixeira, in DJ 4/9/2000).
+3. Em tema de violação do artigo 535 do Código de Processo Civil, a não indicação expressa das questões apontadas como omitidas vicia a motivação do recurso especial, inviabilizando o seu conhecimento.Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Ao apontar a violação dos artigos 496, inciso I, e 513 do Código de Processo Civil, nas razões do recurso especial, a agravante não define nem demonstra no que consistiu a alegada violação dos dispositivos legais, deixando de explicitar, de forma clara e precisa, a negativa de vigência de lei federal, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido."
+(AgRg no Ag 1292758/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 18/05/2010, DJe 04/06/2010)
+Na hipótese, o Tribunal de origem entendeu que restou configurada a sucumbência recíproca diante do acolhimento de um dos pedidos e, por ter sucumbido no pedido de indenização por dano moral, conforme se insere do seguinte trecho a seguir transcrito:
+Diante do exposto, dá-se parcial provimento ao recurso, com a reforma parcial da r. sentença, para declarar a inexigibilidade do débito impugnado, no valor de R$ 44,92 (fls. 29).
+Afasta-se, por consequência, a condenação da Apelante ao pagamento de multa por litigância de má-fé.
+Caracterizada a sucumbência recíproca, deverá cada parte arcar com metade das custas e das despesas processuais, fixando-se os honorários advocatícios por equidade, sendo R$ 300,00 (trezentos reais) para o advogado de cada parte, ressalvado o benefício da justiça gratuita em relação a Apelante.
+A jurisprudência desta Corte entende que a improcedência de um dos pedidos cumulados sucessivamente caracteriza a sucumbência recíproca. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. MULTA DO ART. 1.026, § 2º, DO CPC/2015. CABIMENTO. PEDIDOS SUCESSIVOS. PRETENSÃO PRINCIPAL. REJEIÇÃO. PEDIDO SUBSIDIÁRIO. ACOLHIMENTO. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO. SÚMULA N. 83 DO STJ. GRAU DE DECAIMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, § 2º, do CPC/2015.
+2. Formulados na petição inicial pedidos cumulativos em ordem sucessiva, a improcedência do mais amplo, com o acolhimento do menos abrangente, caracteriza sucumbência recíproca. Precedentes.
+3. A discussão a respeito da distribuição dos ônus sucumbenciais, com o objetivo de aferir o decaimento das partes, constitui pretensão que encontra óbice na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.746.210/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/5/2019, DJe de 30/5/2019.)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. PEDIDOS SUCESSIVOS. DESACOLHIMENTO DA PRETENSÃO PRINCIPAL. SUCUMBÊNCIA RECÍPROCA. PROPORÇÃO DE DECAIMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Realizados pedidos cumulativos em ordem sucessiva, o desacolhimento do mais abrangente importa sucumbência recíproca. Precedentes.
+4. A revisão do acórdão recorrido quanto à distribuição dos ônus sucumbenciais, com o propósito de verificar a proporção de decaimento de cada uma das partes, pressupõe o reexame do contexto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.222.914/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/3/2017, DJe de 30/3/2017.)
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
