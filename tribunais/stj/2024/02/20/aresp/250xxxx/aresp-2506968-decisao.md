@@ -1,0 +1,35 @@
+DECISÃO
+Na origem, trata-se de ação de indenização referente à reposição salarial por perdas inflacionárias. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi reformada. O valor da causa foi fixado em R$ 50.000,00 (Cinquenta mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO AÇÃO DE COBRANÇA DE REAJUSTE DOS VENCIMENTOS (URV). SERVIDOR PODER EXECUTIVO FIXAÇÃO DO PERCENTUAL EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. AUSÊNCIA DE LEI DE REESTRUTURAÇÃO NA CARREIRA. NÃO LIMITAÇÃO TEMPORAL. SENTENÇA REFORMADA. APELO PROVIDO.
+1. O Supremo Tribunal Federal fixou entendimento no RE 561836, com repercussão geral reconhecida, no sentido de que "o término da incorporação dos 11,98%, ou do índice obtido em cada caso, na remuneração deve ocorrer no momento em que a carreira do servidor passa por uma restruturação remuneratória, porquanto não há direito à percepção ad aeternum de parcela de remuneração por servidor público" (RE 561836, Rel. Min. LUIZ FUX, Tribunal Pleno, julgado em26/09/2013, DJe 10-02-2014).
+2. In casu, evidenciado que o Município de Amarante do Maranhão/MA não promoveu a reestruturação da carreira do servidor público, inaplicável limitação temporal na forma do entendimento do STF.
+3. A apuração dos índices de reajuste da URV eventualmente devidos ocorrerá na fase de liquidação de sentença, para definição do percentual exato em razão da conversão da moeda, conforme jurisprudência pacífica deste Tribunal de Justiça, com possibilidade inclusive de liquidação zero.
+4. Apelo conhecido e provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Ocorre que, a jurisprudência pátria passou a observar que, em vários casos, os servidores do Poder Executivo não percebiam seus vencimentos ou proventos no último dia do mês de referência, mas em datas anteriores, ainda que subsequentes ao dia 20.
+(..)
+Contudo, as perdas remuneratórias dos servidores do Executivo, não seriam no percentual de11,98% (onze vírgula noventa e oito por cento), porque este assistia apenas aos servidores que percebiam seus vencimentos exatamente no dia 20 de cada mês. Para os servidores do Executivo de quaisquer das esferas, os percentuais variavam conforme a data de efetivo pagamento, no mês de referência, o que deveria ser observado em cada caso concreto, devendo o quantum ser apurado em liquidação de sentença.
+Confira-se o seguinte julgado:
+(..)
+(AgRg no REsp 1021739/MA, Rel.: Min. JORGE MUSSI, Quinta Turma, julgado em 28/08/2008, DJe 06/10/2008)
+Assim sendo, há que se concluir que os servidores do PODER EXECUTIVO MUNICIPAL, fazem jus ao pagamento das perdas decorrentes da conversão de cruzeiro real para URV, devendo os respectivos percentuais ser apurados em liquidação de sentença, que levará em conta a data do efetivo pagamento.
+(..)
+Não se pode admitir também a compensação da perda remuneratória com os aumentos concedidos aos servidores posteriormente ao mês de março de 1994, tendo em vista que a reposição do percentual reclamado diz respeito à perda salarial decorrente do equivocado critério de conversão de cruzeiro real para URV, o que não se identifica com reajuste salarial, não havendo, portanto, que se falar em compensação com eventual aumento de vencimentos dos servidores.
+No mesmo sentido, posicionou-se o STJ:
+(..)
+(1056448 SP 2008/0101347-5, Relator: Ministra MARIA THEREZA DE ASSIS MOURA, Data de Julgamento: 22/02/2011, T6 - SEXTA TURMA, Data de Publicação: DJe 21/03/2011)
+(..)
+No caso do MUNICÍPIO DE AMARANTE DO MARANHÃO, ficou constatada a inexistência de lei municipal de reestruturação da carreira dos servidores públicos municipais, não havendo que se falar em limitação temporal.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Relativamente às demais alegações de violação dos arts. 355, 370, 371 e 373 I do CPC/2015, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
