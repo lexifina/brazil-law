@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por BANCO DA AMAZONIA S.A., com fundamento no art. 105, III, "a" e "c", da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 331):
+"PROCESSO CIVIL. APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. PRINCÍPIO DA SUCUMBÊNCIA. SÚMULA 303 STJ. INVERSÃO DOS ENCARGOS SUCUMBENCIAIS. APELO PROVIDO.
+1. No caso dos autos, verifica-se que o apelado, sem a devida diligência no cartório de registro de imóveis de Assis Brasil, indicou a penhora imóvel pertencente a terceiros.
+2. Desse modo, apelado/embargado deve ser o responsável pelos encargos sucumbenciais, com fundamento jurídico no princípio da causalidade, uma vez que, em sede de embargos de terceiro, deu causa à constrição indevida, de forma que deve arcar com os honorários advocatícios, súmula 303 do Superior Tribunal de Justiça.
+3. Apelo provido. "
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa (e-STJ, fls. 367-372).
+O recorrente alegou, nas razões do recurso especial (e-STJ, fls. 376-383), a violação dos arts. 85, §10, do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, "a constrição sobre o imóvel decorreu da omissão dos embargantes em providenciar o registro do título translativo da propriedade na matrícula do referido bem. O recorrido, portanto, deve ser condenado ao pagamento de verba honorária, ante a aplicação do princípio da causalidade".
+Foram apresentadas contrarrazões (e-STJ, fls. 390-399).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a incidência da Súmula 7/STJ e da falta de comprovação do dissídio jurisprudencial apontado (e-STJ, fls. 412-414).
+É o relatório. Decido.
+O Tribunal de origem, ao julgar a apelação , consignou o seguinte excerto (e-STJ, fls. 334-335):
+Cinge-se a controvérsia recursal devolvida a este órgão fracionado cível a análise sobre quem deve suportar os encargos sucumbenciais decorrentes do julgamento procedente da ação de embargos de terceiros.
+(..)
+A propositura da ação de execução ocorreu em 30 de abril de 2019, quase dois anos após a venda do imóvel (2017), conforme certidão de fls. 64 da ação de execução n.º 0700034-18.2019.8.01.0016.
+Nesse passo, verifica-se que o apelado, Banco da Amazônia S.A, sem as devidas diligencias no cartório de registro de imóveis de Assis Brasil, indicou a penhora imóvel pertencente a terceiros, consoante petição de fls. 95 e despacho de fls. 96, assim como a efetivação do mandado de penhora fls. 127/128.
+Nesse contexto, o apelante propôs embargos de terceiros n.º 0700115-93.2021.8.01.0016, julgado procedente para fins de desconstruir a constrição judicial nos termos da sentença definitiva de fls. 253/258.
+Por conseguinte, é de fácil percepção a responsabilidade do banco apelado pelos encargos sucumbenciais, com fundamento jurídico no princípio da causalidade, uma vez que, em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios, consoante enunciado de Súmula 303 do Superior Tribunal de Justiça.
+Em outros termos, como o embargado apelado concorreu para a constrição equivocada do imóvel de terceiros, portanto, deve suportar os encargos sucumbenciais. (Sem grifo no original).
+Com efeito, o Tema Repetitivo n. 872 desta Corte Superior fixou a tese de que, "nos Embargos de Terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais.
+Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro" (REsp 1.452.840/SP, Relator Ministro HERMAN BENJAMIN, Primeira Seção, julgado em 14/9/2016, DJe de 5/10/2016). Confira-se a íntegra da ementa do julgado que deu origem a esta tese:
+PROCESSUAL CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. DESCONSTITUIÇÃO DE PENHORA. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. DISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+2. "É admissível a oposição de Embargos de Terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóveis, ainda que desprovido do registro" (Súmula 84/STJ).
+3. A sucumbência, para fins de arbitramento dos honorários advocatícios, tem por norte a aplicação do princípio da causalidade.
+Nesse sentido, a Súmula 303/STJ dispôs especificamente: "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+4. O adquirente do imóvel, ao não providenciar a transcrição do título na repartição competente, expõe o bem à indevida constrição judicial em demandas ajuizadas contra o antigo proprietário. As diligências realizadas pelo oficial de Justiça ou pela parte credora, destinadas à localização de bens, no caso específico daqueles sujeitos a registro (imóveis, veículos), são feitas mediante consulta aos Cartórios de Imóveis (Detran, no caso de veículos), razão pela qual a desatualização dos dados cadastrais fatalmente acarretará a efetivação da indevida penhora sobre o bem.
+5. Nessas condições, não é lícito que a omissão no cumprimento de um dever legal implique, em favor da parte negligente, que esta deve ser considerada vencedora na demanda, para efeito de atribuição dos encargos de sucumbência.
+6. Conforme expressamente concluiu a Corte Especial do STJ, por ocasião do julgamento dos Embargos de Divergência no REsp 490.605/SC: "Não pode ser responsabilizado pelos honorários advocatícios o credor que indica à penhora imóvel transferido a terceiro mediante compromisso de compra e venda não registrado no Cartório de Imóveis. Com a inércia do comprador em proceder ao registro não havia como o exequente tomar conhecimento de uma possível transmissão de domínio".
+7. Para os fins do art. 1040 do CPC/2015 (antigo art. 543-C, § 7º, do CPC/1973), consolida-se a seguinte tese: "Nos Embargos de Terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais. Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro".
+8. Precedentes: AgRg no REsp 1.282.370/PE, Rel. Ministro Benetido Gonçalves, Primeira Turma, DJe 06/03/2012; EDcl nos EDcl no REsp 375.026/PR, Rel. Ministro Carlos Fernando Mathias (Juiz Federal convocado do TRF 1ª Regidão), Segunda Turma, DJe 15/04/2008; REsp 724.341/MG, Rel. Ministra Denise Arruda, Primeira Turma, DJ 12/11/2007, p. 158; AgRg no REsp 462.647/SC, Rel. Ministro Castro Meira, SEGUNDA TURMA, DJ 30/08/2004, p. 244.
+9. Na hipótese dos autos, o Tribunal de origem concluiu que "a Fazenda Nacional, ao se opor à pretensão do terceiro embargante, mesmo quando cristalinas as provas de sua posse sobre o imóvel constrito, atraiu para si a aplicação do princípio da sucumbência".
+10. Recurso Especial desprovido. Acórdão submetido ao julgamento no rito do art. 1036 do CPC/2015 (antigo art. 543-C do CPC/1973).
+(REsp n. 1.452.840/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 14/9/2016, DJe de 5/10/2016.)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ademais, para que seja possível alterar o entendimento do Tribunal a quo de que a ausência de registro da aquisição do imóvel motivou a constrição indevida, seria necessário revolver fatos e provas, o que é vedado na via estreita do recurso especial, ante o óbice da Súmula 7/STJ. No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DIREITO PROCESSUAL CIVIL. HONORÁRIOS SUCUMBENCIAIS. EMBARGOS DE TERCEIRO. PRINCÍPIO DA CAUSALIDADE. SÚMULA 303 DO STJ. OBJETO MAIOR DA DEMANDA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, o princípio da causalidade orienta que a sucumbência ficará a cargo daquele que deu causa à instauração da demanda ou do incidente. Precedentes.
+2. De acordo com entendimento cristalizado na Súmula 303/STJ, "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+3. No caso, o Tribunal de origem, atento ao princípio da causalidade e com base nas provas produzidas nos autos, considerou que a ora agravante deu causa aos embargos de terceiros.
+4. Rever essa conclusão demandaria reexame de provas e fatos dos autos, o que é vedado nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.167.954/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos de 10% para 12%.
+Publique-se.
+EMENTA
