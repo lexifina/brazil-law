@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HUGO ANTÔNIO MARINHO TEIXEIRA contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Agravo de instrumento. Fase de cumprimento de Sentença. Contrato de financiamento de veículo.
+Instituição financeira que não entregou o DUT.
+Autor que se vê impedido de regularizar a situação do bem junto ao DETRAN. Execução do valor a título de astreintes. Pretensão de redução do quantum. Sustenta que o valor da multa é desproporcional aos postulados no processo originário. É firme a jurisprudência do E.STJ quanto à possibilidade de revisão, a qualquer tempo, do valor das astreintes, caso demonstrada sua desproporcionalidade. Caso concreto, no qual o valor atingido de R$ 30.000,00 (trinta mil reais) viola os Princípios da Razoabilidade e da Proporcionalidade.
+Vedação do enriquecimento sem causa. Redução para a quantia de R$10.000,00. Jurisprudência e Precedentes citados: AgInt no REsp 1583461/PR, Rel.
+Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/05/2017, DJe 22/05/2017; AgInt no AREsp 839.061/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017; 0006267-03.2016.8.19.0008 - APELAÇÃO Des(a). ANDREA FORTUNA TEIXEIRA - Julgamento:
+01/08/2018 - VIGÉSIMA QUARTA CÂMARA CÍVEL;
+0014054-30.2015.8.19.0037 - APELAÇÃO Des(a).
+FERNANDO CERQUEIRA CHAGAS - Julgamento:
+25/04/2018 - DÉCIMA PRIMEIRA CÂMARA CÍVEL;0025561-65.2016.8.19.0000 - AGRAVO DE INSTRUMENTO Des(a). REGINA LUCIA PASSOS - Julgamento: 31/08/2016 - VIGÉSIMA QUARTA CÂMARA CÍVEL. PROVIMENTO PARCIAL DO RECURSO." (fls. 30/31)
+Os embargos de declaração opostos foram rejeitados (fls. 62/71).
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 6º, § 3º da LICC, sustentando, em síntese, que "a mudança para diminuir valores caberia a instância superior e não ao mesmo órgão julgador, gerando um conflito de competências, como o desrespeito a coisa julgada que, Data Vênia, beneficiou o recorrido, visto que o mesmo reiteradamente vem descumprindo as determinações judiciais ora impostas" (fl. 74).
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Quanto à questão de fundo o Tribunal de origem manifestou-se nos seguintes termos:
+"Noutro giro, o E.STJ se posiciona no sentido da possibilidade de redução do valor da multa imposta por descumprimento de decisão judicial, sem importar em ofensa à coisa julgada, quando se verificar que aquela foi estabelecida fora dos parâmetros da razoabilidade ou quando se tornar exorbitante e capaz de gerar enriquecimento indevido. (..) O caso em questão se amolda dentro da exceção mencionada, pois há clara possibilidade de um prejuízo de difícil reparação à agravante, uma vez que a execução pretendida no importe de R$30.000,00 (trinta mil reais) é desproporcional, revelando-se exagerado quando confrontado com o valor do benefício econômico obtido pelo agravado, na obrigação principal, em torno de R$ 3.500,00 (três mil e quinhentos reais), sendo certo que o valor da motocicleta, ano 2006, na tabela FIPE, gira em torno de R$ 2.600,00 (dois mil e seiscentos reais) (fl. 07).
+Tal quantia (multa), também se mostra desproporcional, quando comparada com o valor atribuído à causa pelo agravado, no importe de R$ 10.500,00(dez mil e quinhentos reais) (fls. 03/08 dos autos principais).
+In casu, verifica-se que a decisão que determinou a comprovação, pela ré, do cumprimento da obrigação de fazer no prazo de 15 dias, sob pena de multa diária no valor de R$ 500,00, limitada ao patamar de R$ 30.000,00, foi proferida em 29/08/2018 (fl. 325 dos autos principais), vindo a ré com sua manifestação, através de simples petição em 08/11/2018 (fl. 344 dos autos principais), e, ainda em 14/08/2019 (fl. 364 dos autos principais), mas sem cumprimento da obrigação.
+Novo despacho do Juízo, em 19/03/2020 (fls. 375 - dos autos principais), concedendo, por "mera liberalidade", mais 05 (cinco) dias de prazo, para cumprimento da obrigação de fazer.Em 25/03/2020, nova petição do réu (fl. 380 - dos autos principais), informando da impossibilidade do cumprimento da obrigação, em detrimento do autor, ora agravado.
+Contudo, o autor requereu o cumprimento da sentença (fls. 458) em 25/03/2021.Entretanto, é forçoso reconhecer que a obrigação não foi cumprida, o que faz incidir a multa fixada na decisão (fls. 325 - autos principais).
+Em que pese o agravante não tenha dado cumprimento a decisão, não é razoável que o valor da execução da multa chegue a quantia de R$ 30.000,00 (trinta mil reais).
+Entende-se que o valor merece ser reduzido.
+O objetivo da multa não é o enriquecimento da parte credora, mas sim o cumprimento da obrigação por ela desejada, não tendo caráter ressarcitório. Contudo, pode ser revertida em seu favor, desde que não represente enriquecimento sem causa.
+Assim, é cristalino o exorbitante valor que a multa alcançou, estando fora dos Princípios da Razoabilidade e Proporcionalidade.
+Portanto, no caso concreto, no qual a multa foi fixada em R$30.000,00 (trinta mil reais), deve ser reduzida para o valor de R$10.000,00 (dez mil reais), pois deve representar valor que estimule ao cumprimento das decisões judiciais." (fls. 31/35)
+De fato, esta Corte manifesta-se no sentido de que o valor da multa cominatória pode ser alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. MULTA DIÁRIA. REDUÇÃO DO VALOR. NECESSIDADE. ADEQUAÇÃO AOS PRINCÍPOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. OMISSÃO SANADA. EMBARGOS PARCIALMENTE ACOLHIDOS, COM EFEITO MODIFICATIVO.
+1. A jurisprudência deste Tribunal Superior é pacífica no sentido de que "a decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada", conforme decidido no REsp repetitivo 1.333.988/SP (Tema 706).
+2. Ademais, o parâmetro a ser utilizado para aferição da adequação da quantia arbitrada judicialmente a título de astreintes deve ser o valor e a periodicidade fixados no momento em que deveria ter sido cumprida a determinação judicial comparado à obrigação imposta, não se considerado o valor total acumulado em cotejo com a obrigação principal, pois isso implicaria premiar a renitência da parte em descumprir a ordem judicial que lhe fora imposta. Precedentes.
+3. Na hipótese em apreço, é evidente a desproporção entre a obrigação principal de pagar ao exequente, ora recorrido, o valor de R$ 19.171,44 (dezenove mil, cento e setenta e um reais e quarenta e quatro centavos) a título de antecipação de haveres, mensalmente, e o valor mensal da multa coercitiva, representando a multa cifra superior a 12 (doze) vezes a obrigação principal, a suplantar a aplicação da Súmula 7 do STJ, porquanto necessária a sua redução.
+4. Embargos de declaração parcialmente acolhidos, com efeito modificativo.
+(EDcl no AgInt no AREsp n. 2.054.670/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVADO.
+1. É pacífico nesta Corte o entendimento de que o valor da multa cominatória prevista no art. 461 do CPC/1973 (correspondente ao art. 536 do CPC/2015) pode ser alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada. Precedentes.
+2. Sopesando o bem da vida protegido, a recalcitrância da parte devedora, a vedação ao enriquecimento ilícito, os princípios da razoabilidade e proporcionalidade, afigura-se adequada a reforma do acórdão recorrido, para restabelecer a decisão de primeira instância, a qual reduziu o valor da execução de R$ 210.804,34 (duzentos e dez mil oitocentos e quatro reais e trinta e quatro centavos) para R$ 20.000,00 (vinte mil reais).
+3. Agravo interno provido para restabelecer a decisão de primeiro grau que reduziu a multa ao montante de R$ 20.000,00.
+(AgInt no REsp n. 1.917.892/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2022, DJe de 19/5/2022.)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RIST, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
