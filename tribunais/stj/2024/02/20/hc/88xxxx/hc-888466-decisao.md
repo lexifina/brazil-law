@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio , impetrado em favor de REGINALDO SANTIAGO DE BRITO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo:
+"AGRAVO EM EXECUÇÃO. Detração da pena. Não demonstração de cumprimento de prisão cautelar, inviabilizando análise da alegada detração. DESPROVIMENTO."
+Colhe-se dos autos que o Juízo de Direito da Vara de Execuções Penais indeferiu pedido de retificação de cálculo de pena.
+Interposto o agravo em execução, o TJSP, negou provimento ao recurso.
+Neste writ, o impetrante alega a ocorrência de constrangimento ilegal em razão do indeferimento da detração, pois apesar de o paciente ter começado a cumprir pena no ano de 2023, o delito de tráfico é o mais grave e foi cometido em 2019 - sobre o qual deve incidir a detração.
+Requer a concessão da ordem para reconhecer o direito do paciente a detração penal.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem manteve o indeferimento da detração pelos seguintes fundamentos (e-STJ, fl. 25):
+"Inicialmente, conforme se observa na "ficha" do agravante(fls. 6/10), não há notícia de período de prisão cautelar para ensejar eventual detração penal.
+Como bem asseverado pela PGJ, ao que parece, o agravante pretende que a pena cumprida por outras condenações (furtos), seja descontada da referente ao tráfico de drogas (autos originais nº 1500006-39.2019.8.26.0204) - cujo início de cumprimento se deu somente aos 15/8/23, pois respondeu a todo procedimento em liberdade provisória, o que não tem qualquer fundamento e acarretaria eventual bis in idem, pois a sanção já foi cumprida.."
+De início, impende registrar que o instituto da detração encontra-se previsto no art. 42 do Código Penal:
+"Art. 42. Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referido no artigo anterior"
+De acordo com os autos, não foi computado o período que o paciente cumpriu por outras condenações (furto) no âmbito da ação penal referente ao tráfico de drogas, iniciada em 15/08/2023, pois respondeu a todo procedimento em liberdade provisória, sendo inadmissível a detração da pena cumprida em concomitância nas mencionadas ações penais, não podendo a mesma pena ser computada duas vezes.
+A detração penal é um instituto pelo qual se permite que o saldo líquido de tempo de pena a cumprir leve em consideração o recolhimento anterior ao trânsito em julgado e o consequente início da execução penal propriamente dita, contudo o sentenciado não pode beneficiar-se dessa prática para considerar um período de cumprimento de pena para descontar mais de uma condenação simultaneamente, como no caso.
+Conforme a jurisprudência do STJ, o período de prisão preventiva computado em outras penas, não pode ser novamente utilizado para a detração em outra execução, na forma pretendida pela defesa.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. ENTENDIMENTO JURISPRUDENCIAL DESTE STJ OBSERVADO. PERÍODO DE PRISÃO CAUTELAR EM PROCESSO DISTINTO. NOVO CÔMPUTO. IMPOSSIBILIDADE. PERÍODO DE DETRAÇÃO ANTERIOR. BIS IN IDEM CONFIGURADO. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Inicialmente, convém registrar que é firme o entendimento deste eg. Tribunal Superior no sentido de que "A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução" (REsp n. 1.557.461/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 15/3/2018).
+III - No caso concreto, em consonância com a pacífica jurisprudência deste eg. Superior Tribunal de Justiça, as instâncias ordinárias consideraram o período de cumprimento de pena desde a última prisão do agravante, que ocorreu em 23/7/2018 para o pleito de benefícios (fls. 12 e 17).
+IV - Desta feita, como já decidido anteriormente, ao contrário do que pretende a d. Defesa, não se constata hipótese de retificação dos cálculos de pena, tendo em vista que o d. Juízo de piso, acertadamente, também não computou o período que já havia sido contado para fins de detração em execução diversa (fl. 85), de modo que observar, novamente, a detração configuraria indevido bis in idem. Verbis: "já havia sido computado como tempo de pena cumprida na execução por último referida, de forma que não se poderia novamente considerá-lo em processo de execução subsequente" (fl. 11).
+V - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido."
+(AgRg no HC n. 675.401/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 19/10/2021, DJe 3/11/2021 - grifo nosso)
+Nesse contexto, não se observa flagrante ilegalidade a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
