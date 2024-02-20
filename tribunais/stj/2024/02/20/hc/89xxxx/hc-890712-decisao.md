@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ELZO FERREIRA DE SOUZA FILHO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 0001795-47.2016.8.26.0530.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 01 (um) ano, 04 (quatro)meses e 10 (dez) dias de reclusão, em regime semiaberto, e ao pagamento de 12 (doze) dias-multa, pela prática do crime descrito no artigo 180, caput, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, deu parcial provimento ao apelo defensivo para compensar a atenuante da confissão com a agravante da reincidência, readequando a pena imposta para 01 (um) ano e 02 (dois) meses de reclusão, e pagamento de 11 (onze) dias-multa, consoante voto condutor do acórdão de fls. 15-21.
+Dai o presente writ, onde o impetrante ponta constrangimento ilegal na fixação do regime mais gravoso para início de cumprimento da pena.
+Para tanto, sustenta que " ..  o Supremo Tribunal Federal tem posicionamento consolidado no sentido de que o regime mais severo que a quantidade de pena permitir é admissível tão somente nas hipóteses de motivação idônea, fundada nas circunstâncias judiciais do art. 59 do CP ou em outra situação que demonstre efetivamente um "plus" na gravidade do delito, assim como nos elementos valorados na dosimetria da pena." (fl. 10).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para alterar o regime inicial de cumprimento de pena, fixando o regime aberto.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a fixação do regime aberto para início de cumprimento da pena.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Na hipótese, não há se falar em fixação de regime prisional menos gravoso, pois o meio prisional semiaberto decorre da própria literalidade no art. 33, caput, § 2º e § 3º, alínea "c", Código Penal, haja vista que o paciente ostenta anotação criminal configuradora de reincidência e maus antecedentes, in verbis:
+"Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado.
+ ..
+§ 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto".
+§ 3º - A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. BAIXO VALOR FURTADO. RESTITUIÇÃO INTEGRAL À VÍTIMA. MULTIRREINCIDÊNCIA EM DELITOS PATRIMONIAIS. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE.
+Mesmo que o baixo valor furtado tenha sido restituído à vítima, verifica-se maior reprovabilidade da conduta quando o furto é praticado mediante rompimento de obstáculo, ainda mais quando o agente é multirreincidente em delitos patrimoniais.
+Trata-se de furto qualificado e, embora se trate da subtração de R$ 102,00 em espécie, quantia inferior a 10% do salário mínimo à época, a multirreincidência, cujas condenações anteriores foram de três furtos qualificados e um simples, constitui fundamento idôneo a afastar a aplicação do princípio da insignificância.
+Ainda que a pena imposta seja inferior a 4 anos de reclusão, a reincidência é fundamento idôneo para justificar a fixação do regime inicial semiaberto.
+Agravo regimental improvido" (AgRg no HC 690.832/SC, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador convocado do TRF 1ª Região), DJe de 01/12/2021, grifei).
+"AGRAVO REGIMENTAL EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ESTELIONATO. PENA DEFINITIVA INFERIOR A 4 ANOS. REGIME INICIAL SEMIABERTO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. MOTIVAÇÃO IDÔNEA. RÉU REINCIDENTE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência. Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+2. No caso dos autos, a reincidência do paciente foi utilizada para fixar o regime inicial semiaberto, estando devidamente justificado o agravamento do regime.
+3. Segundo o art. 44 do CP, as penas restritivas de direitos substituem as privativas de liberdade, quando: (i) aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (ii) o réu não for reincidente em crime doloso; (iii) a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+4. Na hipótese, não obstante não se trate de reincidência no mesmo crime, o paciente também ostenta maus antecedentes, corroborando o fato de que a medida não se mostra recomendável, nos termos do art. 44, II e § 3º, do CP.
+5. Agravo regimental desprovido" (AgRg nos EDcl no HC 695.144/RS, Quinta Turma, Rel. Min. Reynaldo Soares Da Fonseca, DJe 12/11/2021, grifei).
+Destarte, constatado que a pretensão defensiva encontra óbice em precedentes deste Tribunal Superior, não há que se falar em flagrante ilegalidade hábil a ensejar a concessão da ordem substitutiva de recurso próprio, de ofício.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
