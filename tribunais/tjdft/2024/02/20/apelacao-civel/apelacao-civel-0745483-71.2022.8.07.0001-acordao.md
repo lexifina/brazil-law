@@ -1,0 +1,107 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0745483-71.2022.8.07.0001APELANTE(S)FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITAS AUTO VIIAPELADO(S)FABIANO OLIVEIRA DA CRUZRelatorDesembargador ROBSON TEIXEIRA DE FREITAS
+ Acórdão Nº1818392
+
+EMENTA
+
+APELAÇÃO. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DE LOCALIZAÇÃO DO VEÍCULO E CITAÇÃO DO RÉU. INÉRCIA. PRESSUPOSTO PROCESSUAL. REQUISITO DESCUMPRIDO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. POSSIBILIDADE. INTIMAÇÃO PESSOAL. DESNECESSIDADE. SENTENÇA MANTIDA.
+
+1. O fato de o Autor/Apelante não ter cumprido o seu ônus de fornecer meios necessários para a realização da diligência de forma tempestiva, deixando de promover o andamento do feito, gera um estado de inércia processual, tornando o feito inútil ao fim a que se destina, que é a satisfação do crédito.
+
+2. Configurada a inércia, há justificativa para a extinção do processo, sem resolução de mérito, em razão da ausência de pressuposto processual, nos termos do art. 485, IV, do CPC/15. Nessa hipótese legal, desnecessária a prévia intimação pessoal do Autor.
+
+3. Apelação conhecida e não provida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ROBSON TEIXEIRA DE FREITAS - Relator, JOSE FIRMO REIS SOUB - 1º Vogal e CARMEN BITTENCOURT - 2º Vogal, sob a Presidência do Senhor Desembargador DIAULAS COSTA RIBEIRO, em proferir a seguinte decisão: Apelação conhecida e não provida. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 27 de Fevereiro de 2024
+
+Desembargador ROBSON TEIXEIRA DE FREITASRelator
+
+RELATÓRIO
+
+Trata-se de Apelação Cível interposta por Fundo de Investimento em Direitos Creditórios Creditas Auto VII em face da r. sentença (ID 52616556) que, nos autos da Ação de Busca e Apreensão movida pelo Apelante em desfavor de Fabiano Oliveira da Cruz, extinguiu o processo sem resolução do mérito, por ausência de pressuposto processual, nos termos do art. 485, inciso IV, do CPC/15, em razão da inércia da parte Autora/Apelante em promover o andamento do feito.
+
+Nas razões recursais (ID 52616561), o Autor/Apelante sustenta, em síntese, que o feito deveria ter sido extinto com arrimo no art. 485, III, do CPC/15, uma vez que o fundamento da sentença terminativa foi a ausência de manifestação do Apelante no prazo concedido pelo d. magistrado. Diante disso, seria indispensável a intimação da parte Autora e do requerimento do Réu para ser válida a sentença que extinguiu o processo sem resolução do mérito, o que não foi feito.
+
+Requer a cassação da r. sentença, para o regular prosseguimento do feito.
+
+Preparo comprovado (IDs 52616562 e 52616563).
+
+Em exame de retratação, o d. Juízo a quo manteve a sentença (ID 52616564).
+
+Sem contrarrazões, decorrente da inexistência de citação.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ROBSON TEIXEIRA DE FREITAS - Relator
+Presentes os pressupostos de admissibilidade, conheço do recurso nos termos do art. 3º, § 5º, do Decreto-Lei nº 911/69.
+
+Trata-se de Apelação interposta pelo Autor em face da sentença que julgou extinto o processo, sem resolução do mérito, nos termos do art. 485, IV, do CPC/15.
+
+Compulsados os autos, verifica-se que a medida liminar requerida na inicial da Ação de Busca e apreensão foi deferida em 23/1/2023 (ID 52616515), expedindo-se o respectivo mandado de busca e apreensão do veículo e citação do Réu, no endereço informado na inicial.
+
+A diligência restou infrutífera, conforme certidão lavrada pelo Oficial de Justiça responsável, em que consta a informação de que os vizinhos não sabem se o Apelado reside no endereço (ID 52616517).
+
+Em razão da devolução do mandado sem cumprimento, o Apelante foi intimado para se manifestar, ocasião em que requereu a expedição de mandado de busca e apreensão para novos endereços (IDs 52616519 e 52616528), contudo, também restaram frustradas as diligências (IDs 52616524 e 52616536).
+
+Nesse contexto, a parte Apelante pugnou pela consulta dos endereços do Requerido nos sistemas disponibilizados ao Juízo (ID 52616538), cujo resultado apresentou alguns endereços ainda não diligenciados (IDs 52616544 a 52616546).
+
+O Recorrente indicou um dos endereços (ID 52616547), cujo mandado não foi expedido, em razão da incompatibilidade do CEP indicado ao local pretendido, conforme certidão de ID 52616548.
+
+Após o transcurso in albis do prazo para manifestação (ID 52616549), o credor pugnou pela expedição do mandado em outro endereço obtido nos sistemas informatizados do Tribunal (ID 52616550), o qual também não foi cumprido pelo mesmo motivo (ID 52616552).
+
+Em seguida, diante do decurso do prazo sem manifestação do credor (ID 52616553), o d. Juízo de origem intimou a parte Apelante para promover o andamento do feito, devendo indicar endereço válido a fim de buscar o bem financiado e citar a parte Apelada (ID 52616554), contudo, o prazo transcorreu in albis (ID 52616555).
+
+Sucessivamente, sobreveio a r. sentença de extinção do processo, sem resolução do mérito, com fundamento no art. 485, IV, do CPC/15 (ID 52616556).
+
+Correto o entendimento do d. Juízo a quo.
+
+O processo é considerado uma espécie de caminho que deve ser percorrido pelas partes e pelo Juiz, destinado a um fim determinado, que é a prestação jurisdicional.
+
+Como instrumento da jurisdição que o processo é, para que se possa aplicar a lei ao caso concreto, deve-se percorrer uma sequência de atos, encadeados logicamente, previstos na Constituição Federal e em leis, a ser observada por aqueles que integram a relação jurídica processual.
+
+Para que o Juiz possa examinar o mérito de uma demanda, o Código de Processo Civil exige a presença dos pressupostos processuais. Em outras palavras, precisa analisar se a parte autora tem direito a uma resposta de mérito e se o caminho para chegar a essa resposta foi percorrido preenchendo os requisitos indispensáveis.
+
+Uma das condições da ação diz respeito ao interesse processual, associado à utilidade e necessidade da prestação jurisdicional que se pretende obter, bem como à adequação da via eleita.
+
+Na hipótese dos autos, a perda superveniente do interesse processual está caracterizada em razão de o Autor/Apelante não ter cumprido o seu ônus de fornecer meios necessários para a realização da diligência de forma tempestiva.
+
+Além desse aspecto, nota-se que alguns endereços diferentes foram diligenciados, contudo, em nenhum deles houve êxito na localização do devedor e do veículo.
+
+A manutenção da ação em estado de inércia, além de tornar o processo inútil para o recebimento do crédito, malfere os princípios da economia e celeridade processuais.
+
+Acrescente-se que a invocação dos princípios processuais não pode servir para protelar indefinidamente o final do feito, sob risco de ofensa ao princípio da duração razoável do processo.
+
+Por oportuno, registre-se que a extinção fundamentada no inciso IV do art. 485 do CPC/15 prescinde da intimação pessoal da parte Autora, uma vez que tal diligência só é exigível nas hipóteses em que o processo ficar parado por mais de 1 (um) ano, ou quando o Autor abandonar a causa por mais de 30 (trinta) dias (incisos II e III, respectivamente), conforme preceitua o § 1º do referido dispositivo legal.
+
+Sobre o tema, confiram-se os seguintes julgados desta eg. Corte:
+
+“APELAÇÃO. AÇÃO DE BUSCA E APREENSÃO. LOCALIZAÇÃO DO VEÍCULO E CITAÇÃO. INEXISTENTES. PRESSUPOSTO PROCESSUAL. AUSÊNCIA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. SENTENÇA MANTIDA.  1. A inércia da parte autora quanto à determinação para promover atos para a citação do Réu e localização do veículo objeto da busca e apreensão implica a extinção do feito, sem resolução de mérito, por falta de pressuposto de constituição e de desenvolvimento válido e regular do processo, nos termos do art. 485, IV, do CPC/15. Nessa hipótese legal, desnecessária a prévia intimação pessoal do Autor.  2. Apelação conhecida e não provida”.
+
+(Acórdão 1706051, 07082287320228070003, Relator: ROBSON TEIXEIRA DE FREITAS, 8ª Turma Cível, Data de Julgamento: 23/5/2023, publicado no DJe: 2/6/2023. Pág.: Sem Página Cadastrada) (grifou-se).
+
+““APELAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CITAÇÃO INEXISTENTE. PRESSUPOSTO PROCESSUAL. AUSÊNCIA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. SENTENÇA MANTIDA.  1. A inércia da parte autora quanto à determinação para promover atos para a citação do Réu implica a extinção do processo, sem resolução de mérito, por falta de pressuposto de constituição e de desenvolvimento válido e regular do processo, nos termos do art. 485, IV, do CPC/15.  2. A extinção fundamentada no inciso IV do art. 485 do CPC/15 prescinde de prévia intimação pessoal da parte autora, uma vez que tal diligência só é exigível nas hipóteses em que o processo ficar parado por mais de 1 (um) ano ou quando o Autor abandonar a causa por mais de 30 (trinta) dias (incisos II e III, respectivamente), conforme preceitua o § 1º do referido dispositivo legal.  3. Apelação conhecida e não provida”.
+
+(Acórdão 1673659, 07059889620228070008, Relator: ROBSON TEIXEIRA DE FREITAS, 8ª Turma Cível, Data de Julgamento: 7/3/2023, publicado no DJe: 21/3/2023. Pág.: Sem Página Cadastrada) (grifou-se).
+
+Portanto, não se concretizando a citação por inércia do Autor, mostra-se caracterizada a ausência de pressuposto processual, o que autoriza a extinção do feito, com base no inciso IV do art. 485 do CPC/15.
+
+Ante o exposto, CONHEÇO E NEGO PROVIMENTO à Apelação.
+
+Sem honorários recursais, pois não fixados no d. Juízo a quo.
+
+É como voto.
+
+O Senhor Desembargador JOSE FIRMO REIS SOUB - 1º Vogal Com o relatorA Senhora Desembargadora CARMEN BITTENCOURT - 2º Vogal Com o relator
+
+DECISÃO
+
+Apelação conhecida e não provida. Unânime
