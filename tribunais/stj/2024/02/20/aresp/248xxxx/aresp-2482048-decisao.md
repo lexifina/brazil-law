@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por ROSELY DE JESUS SANTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 354):
+Prestação de serviço de TV à cabo/telefonia Ação condenatória por dano moral sofrido Vivência de assalto praticado por quadrilha que, caracterizada como se fossem funcionários da concessionária invadiu a residência de propriedade dos empregadores da autora, que estava no local no momento do roubo Procedência da ação para condenar a prestadora do serviço, por falha na prestação, no pagamento de indenização de R$ 25.000,00 Apelos de ambas as partes Ré que sustenta ser parte ilegítima, que não praticou nenhuma conduta prejudicial à autora e que o dano moral não está provado; Autora que busca a majoração do valor arbitrado a título de dano moral para R$ 60.000,00 Legitimidade da ré patente, pois havia relação jurídica de consumo com os donos da casa em que a autora trabalhava quando ocorreram os fatos Responsabilidade da ré objetiva, com base no CDC por fortuito interno Ausência de causa elisiva da responsabilidade - Danos morais caracterizados "in re ipsa" - Arbitramento dos danos morais mantidos - Sopesamento das circunstâncias indicativo de que o valor foi moderado e balanceado para a hipótese Valor de consenso arbitrado em patamar aproximado em outros processos movidos por outras vítimas do mesmo fato contra a mesma ré Recursos não providos.
+Sem embargos de declaração.
+No recurso especial, alega violação dos arts. 6º, VI, e 14, caput, do CDC, 186, 187 e 927 do Código Civil
+Aduz que "É direito básico do consumidor a efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos (art. 6º, VI, CDC) e aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito (art. 186, CC). Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo (art. 927, CC). Assim, o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos (art. 14, caput, CDC)." (fl. 373)
+Sustenta, ainda, que "No entanto, não merece prosperar a r. decisão que aplicou o quantum indenizatório no valor ínfimo de R$25.000,00 (vinte e cinco mil reais), visto que a quantificação do dano moral deve observar os critérios de razoabilidade, tomando por base as condições econômicas daquele que pratica o ato ilícito, bem assim daquele que o sofreu, o grau da ofensa e as consequências suportadas pelo ofendido, para que a reparação se estabeleça uma correta proporcionalidade entre causa e efeito. " (fl. 375)
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls.453-460).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 461-463), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 475-479).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Quando aos danos morais, assim decidiu o Tribunal de origem (fls.359-364):
+Quanto aos danos morais, sem dúvida que a autora os sofreu. O dano moral é induvidoso e não necessita prova mais ampla. Com efeito, é evidente o transtorno, desconforto e sofrimento experimentados pela vítima de um assalto, ainda mais dentro de seu local me trabalho, que é a residência de seus empregadores, lugar menos provável de se passar por um constrangimento físico e psicológico desse quilate. Impossível uma situação dessas não abalar a tranquilidade e o sossego de alguém.
+ ..
+A reparação moral, portanto, é devida. É instituto que apresenta natureza punitiva e compensatória, à maneira dos "punitive damages" norte-americanos, de onde proveio a influência do artigo 5º, incisos V e X, da Constituição Federal, mormente diante da falha da prestação do serviço da ré.
+Improvido o recurso da ré, passo à apreciação do apelo da autora, ao qual também não será dado provimento.
+Busca a autora a majoração do valor arbitrado para pagamento dos danos morais reclamados e reconhecidos na sentença, de R$ 25.000,00 para R$ 60.000,00, mas sem razão.
+ ..
+Nessa linha, de se equacionar as circunstâncias para se encontrar um valor, vale também trazer o ensinamento de MARIA HELENA DINIZ sobre sua conclusão a respeito do arbitramento do valor indenizatório:
+ ..
+Não é diferente o entendimento jurisprudencial a respeito dessa questão. Segundo o STJ, "na fixação da indenização por danos morais, recomendável que o arbitramento seja feito caso a caso e com moderação, proporcionalmente ao grau de culpa, ao nível socioeconômico do autor, e, ainda, ao porte da empresa, orientando-se o juiz pelos critérios sugeridos pela doutrina e jurisprudência, com razoabilidade, valendo-se de sua experiência e bom senso, atento à realidade da vida e às peculiaridades de cada caso, de modo que, de um lado, não haja enriquecimento sem causa de quem recebe a indenização e, de outro, haja efetiva compensação pelos danos morais experimentados por aquele que fora lesado". (Tema 707: REsp 1.374.284, 2ª Seção, rel. Min.
+Felipe Salomão, j. 27.8.2014).
+ ..
+Neste caso, por exemplo, entendo que, dentro dos parâmetros acima delineados e dentro das circunstâncias apresentadas, mostra-se razoável o valor fixado pelo juízo da origem (R$ 25.000,00). O arbitramento superior a esse valor poderia caracterizar o enriquecimento sem causa, o que evidentemente o instituto não deve proporcionar.
+Note-se que esse é um valor de consenso para a reparação do acontecido, pois as demais ações ajuizadas pelas outras vítimas do mesmo fato tiveram valores fixados dentro desse patamar, ou próximo a ele(vide processo nº 1024334-77.2020.8.26.0100,R$20.000,00;processonº 1081255-56.2020.8.26.0100,R$20.000,00;e processo nº 114559-46.2020.8.26.0100, R$ 20.000,00).
+Então a conduta reprovável da ré, no total e a título de danos morais, lhe causou uma punição civil de caráter pedagógico que soma a quantia de R$ 85.000,00, considerando-se os valores arbitrados a favor de cada vítima.
+Em suma, a sentença deu ao caso solução razoável, justa e jurídica e deve, por isso, deve ser mantida.
+Diante disso, uma vez constatado que não houve desrespeito à razoabilidade na fixação do quantum indenizatório e que esse não fere o bom-senso nem se distancia dos critérios recomendados pela doutrina e pela jurisprudência desta Corte, revela-se descabida, in casu, a excepcional intervenção desta Corte para revisar o valor da indenização por danos morais, o que atrai a incidência da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. CULPA CONCORRENTE. DANOS MORAIS. VALOR. REVISÃO. HIPÓTESE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO PREJUDICADO. MULTA. MÁ-FÉ. HONORÁRIOS RECURSAIS.
+1. No caso, rever o entendimento do julgado para concluir pela ocorrência de culpa exclusiva da vítima esbarra no óbice da Súmula nº 7/STJ.
+2. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+3. O Superior Tribunal de Justiça firmou entendimento no sentido de que o exame da quantia fixada a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a sua exorbitância ou irrisoriedade, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, circunstâncias inexistentes no presente caso. Aplicação da Súmula nº 7/STJ.
+4. A Segunda Seção do Superior Tribunal de Justiça já decidiu que a aplicação da multa por litigância de má-fé não é automática, tendo em vista não se tratar de mera decorrência lógica da rejeição do agravo interno.
+5. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.307.171/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS. MONTANTE FIXADO EM HARMONIA COM OS PARÂMETROS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da responsabilidade civil da insurgente e do valor da indenização por danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.428.907/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA. CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. VALOR DA INDENIZAÇÃO. REEXAME. DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica desta Corte, a inscrição/manutenção indevida do nome do devedor no cadastro de inadimplente enseja o dano moral in re ipsa, ou seja, dano vinculado à própria existência do fato ilícito, cujos resultados são presumidos.
+2. A revisão do quantum arbitrado para a indenização por danos morais encontra óbice na Súmula n. 7/STJ, somente sendo possível superar tal impedimento nos casos de valor irrisório ou exorbitante, o que não é o caso dos autos.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.322.827/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
