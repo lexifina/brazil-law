@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL DA COMARCA DE MORRINHOS-GO, suscitante, e o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL - MEIO FECHADO E SEMIABERTO DE UBERLÂNDIA-MG, suscitado.
+O Juízo de Direito da Vara de Execução Penal - meio fechado e semiaberto de Uberlândia/MG, nos autos n. 0032770-29.2019.8.09.0107, declinou da competência para o Juízo da Vara de Execução Penal da comarca de Morrinhos/GO, ao argumento de que a execução deve tramitar no local em que o apenado encontra-se preso em razão da prática de novo crime (fls. 871-873).
+O Juízo da Vara de Execução Penal da comarca de Morrinhos/GO, por sua vez, suscitou conflito de competência. Sustentou, em síntese, que: a) a remessa de execução penal para outra comarca depende de solicitação de vaga; b) a prisão preventiva pela prática de novo crime pelo condenado em unidade distinta de onde efetuada a sua condenação não é motivo para alteração da competência para a execução penal, conforme jurisprudência pacífica do Superior Tribunal de Justiça (fls. 918-919).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da Vara de Execução Penal - meio fechado e semiaberto de Uberlândia-MG, ora suscitado (fls.942-947).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a Tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é, em regra, o competente para a execução das penas impostas, de modo que a prisão do executado pela prática de novo crime em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento automático da competência.
+Nesse sentido:
+" ..  1. A deprecação unilateral da execução criminal não é admissível. A prévia consulta ao Juízo da Comarca em que foi cumprido o mandado de prisão é imprescindível, para que seja esclarecida a viabilidade material de que o cumprimento da pena privativa de liberdade prossiga em presídio local. Precedentes.
+2. A execução da pena, em regra, compete ao Juízo da condenação, não implicando deslocamento de competência o implemento da prisão em comarca diversa, em razão da possibilidade de ser deprecada a fiscalização do cumprimento da pena" (CC 196.571/SC, Terceira Seção, Relª. Minª. Laurita Vaz, DJe de 30/5/2023)
+"(..) Na hipótese dos autos, não se trata de uma transferência legal - art. 86 da LEP, pois o Juízo de Vilhena, ao efetuar a prisão do réu, estava cumprindo determinação da Delegacia de Polícia Federal, em razão de novo delito praticado.
+O juízo no qual o réu já estava cumprindo sua pena, não perde, dessa forma, a competência para a referida execução penal" (CC 39.908/RO, Terceira Seção, Rel. Min. José Arnaldo da Fonseca, DJ de 2/2/2004, p. 268)
+Na espécie, embora o condenado tenha sido preso em Morrinhos/GO, tal fato não desloca a competência para a execução penal, que continua sendo do Juízo de Direito da Vara de Execução Penal - meio fechado e semiaberto de Uberlândia-MG.
+Ademais, a fiscalização das condições e das medidas impostas no curso da execução penal podem ser efetivadas por meio da expedição de precatórias, até o devido recambiamento do apenado.
+A propósito:
+" ..  1. Há muito se firmou jurisprudência nesta Corte Superior no sentido de que, nas penas restritivas de direito, bem como nas penas privativas de liberdade, a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado, quando for o caso, somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência" (AgRg no CC 198.927/RS, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 31/10/2023)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execução Penal - meio fechado e semiaberto de Uberlândia/MG, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. PRISÃO EM COMARCA DIVERSA PELA PRÁTICA DE NOVO CRIME. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. FISCALIZAÇÃO DA EXECUÇÃO. PRECATÓRIA. PRECEDENTES.
