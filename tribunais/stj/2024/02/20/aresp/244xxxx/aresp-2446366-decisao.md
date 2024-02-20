@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por SUSTENTARE PRODUTOS ALIMENTÍCIOS LTDA. - EM RECUPERAÇÃO JUDICIAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 150):
+Monitória Nota fiscal de prestação de serviços colacionados aos autos juntamente com demais documentos que comprovam a contratação e efetivação dos serviços, bem como o inadimplemento da recorrente Ação julgada procedente que se mostra correta e deve ser mantida, nos termos do artigo 252 do Regimento Interno deste Tribunal de Justiça Recurso improvido.
+Rejeitados os embargos de declaração opostos (fls. 169-174).
+No recurso especial, alega a recorrente afronta aos arts. 373 do CPC e 49 da Lei n. 11.101/2005, ao defender, em síntese, a improcedência da ação monitória, considerando que a recorrida não comprovou a relação comercial entre as partes, e as provas que trouxe aos autos foram produzidas de forma unilateral. Sustenta, também, que o débito é oriundo de três notas fiscais vencidas, o que torna o crédito sujeito aos efeitos da recuperação judicial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 216-222).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 223-224), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 244-250).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso dos autos, defende a recorrente a improcedência da ação monitória, tendo em vista que a recorrida não comprovou a relação comercial entre as partes, e as provas que trouxe aos autos foram produzidas de forma unilateral.
+Não merece prosperar o recurso.
+Com efeito, consigne-se inviável a apreciação das demais alegações da recorrente, considerando que a Corte de origem, ao entender pela procedência da ação monitória em questão, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 151-152):
+Trata-se de ação monitória ajuizada pelo apelado em face do apelante, fundada em débito decorrente de prestação de serviços estampados nas notas fiscais de fls. 22/24.
+É incontroversa a relação contratual entre as partes e, da análise dos autos, verifica-se que foram juntados documentos que comprovam que os serviços contratados foram devidamente prestados bem como a inadimplência da apelante que foi informada, inclusive, nos e-mails trocados entre as partes.
+Ademais, como destacado pelo MM. Juiza quo, "(..)Verifica-se, assim, que inicial veio devidamente instruída com "prova escrita sem eficácia de título executivo" da existência de obrigação pecuniária notas fiscais de prestação de serviços e e-mails que discorrem sobre os serviços, compras de peças e, ainda, de atraso no pagamento dos serviços prestados pela parte autora (fls. 25/34 e 44/64),sendo a via monitória hábil para a constituição do título executivo judicial, nos termos do art. 700, do Código de Processo Civil.
+Assim, a vaga alegação da ré de que não houve prova da relação jurídica entre as partes não é capaz de afastar a pretensão autoral, pois as alegações vieram desacompanhadas de qualquer prova a sustentá-las.
+Nestes termos, diante da evidência documental carreada aos autos, a linha de argumentação deduzida pela embargante no sentido de inexistência de relação comercial é deveras frágil, pois consta dos autos notas fiscais e diversos e-mails de diversos setores da demandada que evidenciam a efetiva prestação dos serviços.
+(..)
+Observe-se, por fim, que a questão acerca da atualização da dívida até a data da recuperação deve ser alvo de análise pelo Juízo responsável por julgar a habilitação, e não nestes autos como pretende a embargante." Dessa forma, correta a r. sentença ao julgar procedente a ação monitória, nada havendo para ser modificado.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. AUSÊNCIA DE COMPROVAÇÃO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO AUTORAL. ART. 373, II, DO CPC/2015. 3. VIOLAÇÃO À LEI N. 8.004/1990. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 4. INADIMPLEMENTO DO CONTRATO DE COMPRA E VENDA DO IMÓVEL E SUFICIÊNCIA DOS DOCUMENTOS QUE EMBASARAM A AÇÃO MONITÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. ARTS. 884, 885 E 886 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 6. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O colegiado estadual consignou que os agravantes deixaram de comprovar fato impeditivo, modificativo ou extintivo do direito autoral, em desconformidade ao disposto no art. 373, II, do CPC/2015.
+3. Quanto a alegada ofensa à Lei n. 8.004/1990, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+4. Modificar o entendimento do Tribunal local (acerca do inadimplemento dos agravantes relativo ao contrato de compra e venda do imóvel e da suficiência dos documentos que embasaram a ação monitória) demanda reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo também o caso de revaloração das provas.
+5. Em relação aos arts. 884, 885 e 886 do Código Civil apontados como ofendidos, a leitura do acórdão recorrido revela que as matérias a eles relativas não foram objeto de debate e decisão pela Corte estadual, carecendo, assim, de prequestionamento. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+6. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 259, § 4º, do RISTJ, devendo ser analisado caso a caso.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.325.795/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
