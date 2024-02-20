@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003434-36.2022.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: STONE PAGAMENTOS S.A.
+RECORRIDO: ALEXSANDRO SILVA SANTOS
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. BLOQUEIO INDEVIDO. NÃO COMPROVAÇÃO DE ILÍCITO. DANO MORAL CONFIGURADO. NARRA O AUTOR QUE REALIZOU A CONTRATAÇÃO DOS SERVIÇOS DA RÉ PARA PODER USUFRUIR DE MÁQUINA DE CARTÃO DE CRÉDITO PARA UTILIZAR EM SEU COMÉRCIO INFORMAL. OCORRE QUE SEM QUALQUER AVISO PRÉVIO A REQUERIDA REALIZOU O BLOQUEIO DO VALOR DE R$2.368,34 DECORRENTE DE UMA DAS VENDAS REALIZADAS PELO REQUERENTE. POR CONTA DA SITUAÇÃO QUE LHE FOI IMPOSTA O DEMANDANTE DECIDIU POR CANCELAR OS SERVIÇOS CONTRATADOS, BUSCANDO JUNTO À EMPRESA A DEVOLUÇÃO DOS VALORES. OCORRE QUE NÃO OBTEVE ÊXITO EM RESOLVER ADMINISTRATIVAMENTE, TENDO DEVOLVIDO A MÁQUINA. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) TUTELA ANTECIPADA PARA QUE SEJA DETERMINADO QUE A RÉ TOME PROVIDÊNCIAS PARA A LIBERAÇÃO DO VALOR BLOQUEADO, B) CONDENAÇÃO DA REQUERIDA NA RESTITUIÇÃO DE R$2.368,34, C) DANOS MORAIS NO VALOR DE R$10.000,00. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS DA INICIAL PARA: A) CONFIRMAR A TUTELA DEFERIDA NOS AUTOS, B) CONDENAÇÃO DA RÉ NO: 1) PAGAMENTO DE R$4.000,00 À TÍTULO DE DANOS MORAIS, 2) RESSARCIMENTO DA QUANTIA DE R$2.368,34 E 3) DESBLOQUEIO DA CONTA DO AUTOR. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS DA EXORDIAL E SUBSIDIARIAMENTE A MINORAÇÃO DO DANO MORAL.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO,
+OU, NÃO HAVENDO, SOBRE O VALOR DA CAUSA.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
