@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDA. EPP, fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 2.102):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE CRÉDITOS LOCATÍCIOS. COMPROMETIMENTO DA ATIVIDADE EMPRESARIAL. EXCESSO DE PENHORA. ART. 805 DO CPC. NÃO COMPROVAÇÃO. ÔNUS DO EXECUTADO. ART. 373, INCISO II, CPC. RECURSO CONHECIDO E DESPROVIDO.
+1. Na hipótese, não existe qualquer vício na penhora, porquanto não há qualquer comprovação de que o percentual estabelecido tem o condão de inviabilizar a continuidade das atividades da empresa (art. 373, II, CPC).
+2. Não há qualquer violação ao princípio da menor onerosidade, contido no art. 805 do CPC. Isso porque a regra da realização da execução da forma menos onerosa ao devedor não pode se sobrepor à própria finalidade da execução, que é o interesse do credor em ter o seu crédito satisfeito em tempo razoável, sob o risco de punir ainda mais aquele que já se encontra lesado em face da inadimplência da parte contrária.
+3. RECURSO CONHECIDO E DESPROVIDO. Decisão mantida
+Nas razões do recurso especial, a agravante alega violação aos arts. 805 e 835 do CPC/15, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que houve, no caso concreto, excesso de penhora e de medidas constritivas.
+Foram apresentadas contrarrazões às fls. 2.156/2.164.
+É o relatório.
+No tocante ao alegado excesso de execução, a Corte de origem, com base na análise do lastro probatório colacionado aos autos, verificou que a parte não logrou êxito em demonstrar que as medidas constritivas inviabilizariam a continuidade das atividades da empresa, não se caracterizando ofensa aos artigos 805 e 835 do CPC/15, como se verifica do trecho do acórdão a seguir (fls. 2.107/2.109):
+"No tocante ao pleito de limitação da penhora em 15% (quinze por cento) do valor dos locatícios, não há qualquer comprovação nos autos de que a penhora deferida tem o condão de inviabilizar a continuidade das atividades da empresa, incidindo à hipótese o inciso II do art. 373 do CPC.
+(..)
+Observa-se ainda que, ao contrário do que quer fazer crer o recorrente, não há qualquer violação à norma contida no art. 805 do CPC. Isso porque a regra da realização da execução da forma menos onerosa ao devedor não pode se sobrepor à própria finalidade da execução, que é o interesse do credor em ter o seu crédito satisfeito"
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE IMÓVEL PERANTE O JUÍZO EXECUTIVO. CABIMENTO. ART. 845, § 1º, NCPC. REGRA GERAL. DISSÍDIO JURISPRUDENCIAL NÃO EVIDENCIADO. EXCESSO DE EXECUÇÃO. INOCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Reconhecimento na origem de nomeação de bens a penhora pelo executado, com lavratura do respectivo termo. Hipótese que autoriza a aplicação da regra geral prevista no art. 845, § 1º, CPC/15, ainda que o bem se localize fora do Juízo executivo. Entendimento STJ.
+Dissídio jurisprudencial não evidenciado.
+3. Para se chegar a conclusão diversa da que chegou o Tribunal de origem, que entendeu pela inexistência de excesso de execução, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial nos termos da Súmula n.º 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.889.847/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+Por fim, a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio - por ser inviável a aferição de similitude fática entre os julgados -, e impede o seguimento do presente recurso pela alínea "c" do permissivo constitucional.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
