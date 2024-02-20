@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por EVERTON DAL MOLIN - EM RECUPERAÇÃO JUDICIAL e OUTROS, com fundamento no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO - ATUAÇÃO DO JULGADOR LIMITADA À VERIFICAÇÃO DA VALIDADE DA APROVAÇÃO E LEGALIDADE DE SUAS CLÁUSULAS - SUPRESSÃO DAS GARANTIAS - INTELIGÊNCIA DO ARTIGO 50, §1º DA LEI 11.101/2005 - EXTINÇÃO DA REALIZAÇÃO DOS ATOS EXECUTÓRIOS EM RELAÇÃO AOS COOBRIGADOS E AVALISTAS - ILEGALIDADE - CONTRARIEDADE AO DISPOSTO NO ARTIGO 49 DA LEI 11.101/2005 - SÚMULA Nº
+581 DO STJ - CONTROLE DE LEGALIDADE PELO JUDICIÁRIO - DISSONÂNCIA DO PARECER MINISTERIAL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+O Plano de Recuperação Judicial, após aprovação pela Assembleia Geral de Credores, é soberano quanto a seu mérito, sendo viável ao Julgador apenas a análise da validade da aprovação do Plano e legalidade de suas cláusulas.
+Sem embargo da soberania da decisão proferida pela Assembleia Geral de Credores, ela deve respeitar os limites legais, sendo possível o controle judicial da legalidade do plano de recuperação judicial.
+Nos termos da Súmula nº 581 do STJ, "a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória." "A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição. (REsp 1794209/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, j. em 12/05/2021, DJe 29/06/2021)""
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 49, § 2º, 59 e 69-A da Lei 11.101/2005, defendendo a soberania do plano de recuperação judicial sobre a supressão das garantias prestadas, alcançando a recuperação também os coobrigados garantidores.
+Contrarrazões apresentadas às fls. 1.508-1.522 (e-STJ).
+Determinada a reapreciação da questão concernente ao recurso especial , sobre a impossibilidade de extensão da novação aos coobrigados, a fim de adequação aos termos da tese firmada para o Tema 885 dos Recursos Repetitivos, não houve retratação.
+É o relatório. Decido.
+Nos termos da tese firmada para o Tema 885 dos Recursos Repetitivos, originária da Súmula 581/STJ, "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005" (REsp n. 1.333.349/SP, relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/11/2014, DJe de 2/2/2015).
+Conforme o atual entendimento da Segunda Seção desta Corte, firmado em 12/5/2021, por ocasião do julgamento do REsp 1.794.209/SP, a supressão das garantias, reais e fidejussórias, expressamente prevista no plano de recuperação judicial e aprovada em assembleia-geral de credores, não alcança os direitos dos credores da mesma classe que não tenham concordado expressamente com a referida supressão.
+A propósito a ementa do precedente:
+"RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido."
+(REsp n. 1.794.209/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 12/5/2021, DJe de 29/6/2021.)
+No caso dos autos, o Tribunal de origem declarou a ineficácia da supressão de garantias prevista no plano de recuperação aprovado quando ausente a expressa anuência do credor em relação à garantia da qual é beneficiário.
+Desse modo, constata-se a conformidade do acórdão recorrido com o atual entendimento desta Corte, motivo pelo qual é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
