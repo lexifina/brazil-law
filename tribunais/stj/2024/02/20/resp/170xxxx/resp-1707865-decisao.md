@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCO KUBRUSLY NETO, SUELY MARANHÃO BARROS DE OLIVEIRA KUBRUSLY e PUERI INDÚSTRIA E COMÉRCIO DE CONFECÇÕES S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 235-236):
+APELAÇÃO CÍVEL. CONTRATO BANCÁRIO DE DESCONTO DE DUPLICATAS. AÇÃO DE COBRANÇA INSTRUÍDA APENAS COM O CONTRATO CELEBRADO ENTRE AS PARTES. POSSIBILIDADE. DESNECESSIDADE DE PROTESTO. AUSÊNCIA DE ABUSIVIDADE DAS CLÁUSULAS QUE FIXAM OS ENCARGOS DA MORA. NÃO INCIDÊNCIA DO CÓDIGO DEDEFESA DO CONSUMIDOR. RECURSO IMPROVIDO.
+1. O contrato de desconto de duplicatas e outros títulos de crédito, como é sabido, é a operação através da qual o empresário transfere à instituição financeira títulos de responsabilidade de terceiros, percebendo em troca o valor desses títulos, descontada a remuneração do financiador, possibilitando a aquisição imediata de capital de giro.
+2. Como se vê, o banco concede limite de crédito por meio da cessão dos títulos, porém sem liberar o contratante de sua responsabilidade, a qual advirá acaso os títulos cedidos não sejam cumpridos pelos sacados. Daí porque a instituição financeira não requer propriamente o pagamento das referidas duplicatas, mas sim que o crédito liberado à empresa ré seja reavido, com todos os encargos decorrentes do inadimplemento contratual.
+3. O inadimplemento das duplicatas diz respeito ao banco e aos diversos sacados contra os quais foi emitida a duplicata. Caso a instituição financeira desejasse simplesmente o regresso em face da empresa demandada, aí sim se falaria em obrigatoriedade de protesto.
+4. A jurisprudência já pacificou tanto a questão relativa à desnecessidade do protesto dos títulos, quanto à possibilidade de que a ação de cobrança seja instruída apenas com o contrato de desconto de duplicatas.
+5. Não se vislumbra, na espécie, abusividade das cláusulas que impõe a incidência dos encargos da mora, nem mesmo a potestatividade da cláusula que determina seus índices. Apenas houve a fixação de índices pela instituição financeira credora, como ocorre em qualquer contrato bancário, taxas estas que, segundo cláusula contratual, estaria disponível para conhecimento dos recorrentes no site do banco na internet. Ademais, referida cláusula foi aceita pelas partes, não havendo que se falar, como parece querer os apelantes, na incidência do Código de Defesa do Consumidor, uma vez que não se trata da aquisição de crédito para consumidor final, mas sim para fomentar o capital de giro da empresa.
+6. Recurso improvido.
+Alegam os recorrentes ter havido violação aos arts. 13, §4º, 15 e 18, todos da Lei 5.474/1968.
+Sustentam que a ação de cobrança é descabida, porque não apresentadas pelo Banco autor as duplicatas, com seus respectivos protestos. O contrato de desconto, somente, não é suficiente.
+Afirmam ainda que transcorreu o prazo prescricional de três anos.
+Não se conformam, por fim, com os encargos moratórios, aduzindo que a cláusula respectiva é abusiva, porque potestativa.
+O recurso foi admitido na origem.
+É o relatório. Decido.
+A súplica não prospera.
+De início, da leitura do acórdão recorrido, constata-se não ter sido decidida a matéria relativa à prescrição, daí porque ressente-se o especial do necessário prequestionamento, no particular (art.18 da Lei 5.474/1968). Aplicam-se as Súmulas 282 e 356 do STF.
+Quanto à abusividade da cláusula dos encargos da mora, as razões recursais são deficientes, atraindo o óbice da Súmula 284/STF, pois não há indicação, clara e precisa, de qual ou quais dispositivos de lei federal foram violados. A mera citação ou referência a artigos de lei, conforme ocorre na espécie, não é suficiente.
+Por fim, quanto à necessidade de apresentação das cártulas, com seus protestos, aplica-se a Súmula 283/STF, dado que há fundamentos, capazes, por si, para manter o julgamento combatido, não impugnados no recurso especial: a) as duplicatas ficaram em poder dos recorrentes, como depositários; b) a cobrança é do contrato e não das cártulas. É o que mostra o conjunto probatório dos autos, contra o qual não teriam se insurgido os recorrentes, presumindo-se verdadeiros os fatos alegados e c) é dos recorrentes o ônus de provar que enviaram as duplicatas ao banco. O acórdão ratificou a sentença, na qual constam essas assertivas, não combatidas pelos recorrentes.
+Além do mais, o art. 15 da Lei 5.474/1968 é composto por diversos elementos (caput, incisos, parágrafos), não tendo os recorrentes especificado qual ou quais foram malferidos. Mais uma vez é deficiente a argumentação recursal (Súmula 284/STF).
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
