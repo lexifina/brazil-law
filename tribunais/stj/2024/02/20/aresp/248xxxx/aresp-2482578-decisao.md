@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto pela JOÃO HENRIQUE DE SOUZA MENDONÇA, fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 34):
+Agravo de instrumento - Cumprimento de sentença - Acidente de trânsito - Decisão que defere penhora de vinte por cento do salário do executado- Inadmissibilidade, nos termos do que dispõe o artigo 833, inciso IV, do Código de Processo Civil - Impenhorabilidade absoluta - Provimento do recurso.
+Nas razões do recurso especial, a agravante alega violação ao art. 833, §2º do Código de Processo Civil de 2015, sustentando, em síntese, que "há a possibilidade de penhora recair sobre percentual do recebido mensalmente pelo executado, para saldar o débito desde que respeitado o mínimo existencial do devedor" (fl. 45).
+Foram apresentadas contrarrazões às fls. 103/109.
+É o relatório.
+No tocante ao pleito de penhora, a Corte de origem compreendeu pela sua impossibilidade, uma vez que os rendimentos do devedor não ultrapassam o montante de 50 (cinquenta) salários mínimos, não se amoldando, portanto, à exceção prevista no artigo 833, IV, do CPC/15, como se verifica do trecho do acórdão a seguir (fl. 36):
+"Dispõe o artigo 833, inciso IV, do Código de Processo Civil, que são impenhoráveis, entre outros, os salários. O parágrafo segundo do mesmo artigo ressalva que: "O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º, e no art. 529, § 3º".
+No caso concreto, nenhuma das exceções é aplicável, pois o agravante comprovou que seu salário é inferior ao limite estabelecido. Logo, deve-se reconhecer a impenhorabilidade das quantias, o que implica reforma da decisão combatida para revogar a medida deferida."
+Com efeito, o acórdão recorrido está em consonância com a jurisprudência desta Corte de Justiça, a qual interpreta que "a exceção à impenhorabilidade das verbas salariais aplica-se apenas quando os rendimentos excederem 50 (cinquenta) salários mínimos" (AgInt nos EDcl no REsp n. 2.079.081/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Sobre o tema, em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PENHORA. VENCIMENTOS. DÍVIDA DE NATUREZA ALIMENTAR OU VALOR RECEBIDO SUPERIOR A 50 SALÁRIOS MÍNIMOS. NÃO CONFIGURADO. SÚMULA 568/STJ.
+1. A impenhorabilidade de vencimentos somente é excepcionada para pagamento de dívidas de natureza alimentar ou na hipótese dos valores recebido pelo executado forem superiores a 50 salários mínimos mensais, nos termos da literalidade do art. 833, IV e §2º, do CPC.
+2 . Agravo interno desprovido
+(AgInt no AgInt no AREsp n. 1.640.504/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/10/2020, DJe de 21/10/2020).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE SALÁRIO. POSSIBILIDADE DE FLEXIBILIZAÇÃO DA IMPENHORABILIDADE DE VERBA REMUNERATÓRIA. EXCEPCIONALIDADE.
+1. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. Ausência de análise expressa pelo tribunal estadual de que a situação dos autos era um caso particular extraordinário, a ponto de excepcionar a regra da impenhorabilidade, nem se o sustento da parte executada seria preservado.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.866.087/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/10/2021, DJe de 3/11/2021).
+Aplica-se, portanto, o óbice constante na Súmula 83/STJ ao caso dos autos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
