@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ITALO SILVA RODRIGUES em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE PROCEDIMENTO MÉDICO. DESCUMPRIMENTO DE DECISÃO QUE DEFERIU A TUTELA ANTECIPADA PARA COBERTURA DO TRATAMENTO. DANOS MORAIS. NÃO CONFIGURAÇÃO. MERO INADIMPLEMENTO CONTRATUAL. PARTE QUE TINHA À SUA DISPOSIÇÃO MEIOS COERCITIVOS, COMO "ASTREINTES". PRECEDENTES DESTA C. 6ª CÂMARA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO NÃO PROVIDO.
+A negativa de cobertura de tratamento e o descumprimento de decisão que determinou, liminarmente, o custeio do procedimento não têm o condão de, por si só, gerar indenização por danos morais quando não demonstrado fato do qual possa ser inferida efetiva ofensa aos direitos da personalidade do paciente.
+Precedentes." (e-STJ fls. 251)
+Nas razões do recurso especial, a recorrente alega violação aos artigos 186 e 927 do Código Civil e artigos 6º, VI e 14 do CDC, bem como dissídio jurisprudencial; sustentando, em síntese que "A falha da RECORRIDA na prestação dos serviços é passiva de danos morais, pois que abalou diretamente o estado psíquico do RECORRENTE, causando grande dor física, aflição e angústia, que necessitando de atendimento urgente, não o conseguiu da forma a qual teria direito, tendo que bater à porta do Judiciário para materializá-lo." (e-STJ fl. 260)
+É o relatório. Decido.
+Conforme entendimento desta Corte Superior, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente. Neste sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+1. Esta Corte tem entendimento no sentido de que o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente, circunstâncias inocorrentes na hipótese. Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1608850/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021)
+Ocorre que, no caso dos autos, a Corte de origem afastou expressamente a ocorrência de abalo psicológico ou prejuízos à saúde do recorrente, in verbis:
+"De fato, não havia fundamento para que a apelada fosse condenada ao pagamento de indenização por danos morais.
+Ocorre que, em casos análogos, esta Colenda 6ª Câmara tem entendido que a negativa de cobertura de tratamento médico e a consequente necessidade de ajuizamento de ação judicial não passa de mero dissabor decorrente de divergências na realização de negócio, comum a qualquer cidadão no convívio cotidiano em sociedade, não tendo o condão de caracterizar dano indenizável, ainda que o ofendido seja alguém em que a suscetibilidade aflore com facilidade.
+Não se pode olvidar que o dano extrapatrimonial, para ser indenizável, deve extravasar o campo de meros percalços e pequenas ofensas, atingindo intensamente os atributos da personalidade, o que não se verifica neste caso, em que sequer há prova de que a recusa ou mesmo a demora da apelada em cumprir a decisão judicial proferida no processo nº 1050855-64.2017.8.26.0100 tenha agravado o quadro clínico do apelante.
+Não se pode olvidar que a determinação naqueles autos era provisória e a obrigação, naquele momento, ainda era passível de discussão.
+Ademais, havia meios coercitivos à disposição do apelante, como a aplicação de astreintes, em valor suficiente e capaz de compelir a apelada ao cumprimento da tutela deferida." (e-STJ fl. 252/253)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior, ensejando a aplicação da Súmula 83/STJ.
+Ademais, a modificação de tal entendimento lançado no v. acórdão recorrido quanto à inexistência de abalo psicológico do recorrente demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO MÉDICO. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. DANO MORAL. NÃO CONFIGURAÇÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CONTEXTO FÁTICO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão firmada pelo tribunal de origem acerca da falta de demonstração da ocorrência de abalo moral passível de indenização demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1915778/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2021, DJe 16/12/2021)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% para 13% do valor da causa, suspensa a exigibilidade no caso de prévio deferimento da gratuidade da justiça.
+Publique-se.
+EMENTA
