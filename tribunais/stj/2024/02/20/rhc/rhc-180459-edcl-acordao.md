@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, acolher os embargos de declaração sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. ALEGAÇÃO DE OMISSÃO E ERRO MATERIAL. MANIFESTAÇÃO ACERCA DE TODAS AS ALEGAÇÕES DO RÉU. DESNECESSIDADE. ERRO MATERIAL QUE IMPORTA CORREÇÃO.
+Embargos de declaração acolhidos apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público de Santa Catarina ao acórdão da Sexta Turma desta Corte que negou provimento ao agravo regimental, assim ementado (fl. 242):
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE 4 KG DE MACONHA. ARGUMENTO QUE, ISOLADAMENTE, NÃO EXTRAPOLA O TIPO PENAL. GRAVIDADE ABSTRATA DO DELITO. AUSÊNCIA DE ELEMENTOS CONCRETOS QUE JUSTIFIQUEM A PRISÃO. SUFICIÊNCIA DE MEDIDAS ALTERNATIVAS. COAÇÃO ILEGAL EVIDENCIADA.
+1. Agravo interposto pelo Ministério Público Federal contra a decisão que substituiu a segregação cautelar do agravado, acusado pelos crimes de tráfico de drogas e porte ilegal de arma de fogo de uso restrito, por medidas alternativas à prisão.
+2. Apesar da relevância da fundamentação utilizada para a imposição da segregação cautelar, consistente na quantidade de droga apreendida (4kg de maconha), tal argumento não se mostra suficiente a subsidiar a medida extrema, pois, isoladamente, não extrapola o tipo penal imputado, denotando que a substituição da prisão por medidas cautelares é suficiente e adequada, até porque o descumprimento de quaisquer delas importará no restabelecimento da segregação cautelar, desde que requerido pelo diligente órgão da acusação.
+3. Decreto prisional que se limita a fazer considerações abstratas sobre a gravidade do crime cometido, não apresentando nenhum elemento concreto que indique que solto o paciente, primário, implicará em risco para a sociedade ou para o bom andamento do processo.
+4. Agravo regimental improvido.
+Alega o embargante, em síntese, que o acórdão ora embargado é silente acerca da alegação devidamente exposta na insurgência ministerial, no sentido de que a quantidade de droga não foi o único fundamento da prisão cautelar, a qual também restou decretada em razão do Embargado ter sido flagrado, em via pública, portando arma de uso restrito e dezenas de munições, conforme se infere, não só do termo da audiência de custódia, como da própria fundamentação oral proferida pela magistrada que presidiu o ato, na presença do defensor constituído (fls. 67/73) - fl. 253.
+Argumenta, ainda, que, com relação ao erro material, vislumbra-se que o acórdão ora embargado, equivocadamente, consta em sua ementa que o recur so de agravo regimental teria sido interposto pelo Ministério Público Federal (fl. 242). Desse modo, a fim de sanar o equívoco, postula-se, também, que seja feita a correção da informação lançada no aresto objurgado, constando que a insurgência fora manejada por este Ministério Público estadual (fl. 257).
+Postula, então, o conhecimento e o provimento dos presentes embargos de declaração a fim de: c.1) com o reconhecimento da omissão, seja restabelecida a prisão preventiva do paciente; e c.2) diante da existência de erro material no aresto embargado, seja sanado o vício apontado na ementa (fl. 258).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. ALEGAÇÃO DE OMISSÃO E ERRO MATERIAL. MANIFESTAÇÃO ACERCA DE TODAS AS ALEGAÇÕES DO RÉU. DESNECESSIDADE. ERRO MATERIAL QUE IMPORTA CORREÇÃO.
+Embargos de declaração acolhidos apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+VOTO
+Os presentes embargos de declaração comportam acolhimento apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+De início, não é necessária a manifestação sobre cada alegação do impetrante, especialmente quando o decreto preventivo deixa de trazer argumentação concreta e suficiente acerca da imposição da medida extrema.
+Conforme indicado na decisão recorrida, o Magistrado singular se limitou a indicar como fundamento para decretar a prisão preventiva apenas quantidade de drogas apreendidas (fls. 67/68), sem sequer apontar os valores a que se referia, razão pela qual esta Corte Superior de Justiça considera insuficiente o argumento utilizado para a manutenção da prisão cautelar.
+Acerca do alegado erro material, de fato, na ementa do julgado (fl. 242), onde se lê: 1. Agravo interposto pelo Ministério Público Federal; leia-se: 1. Agravo interposto pelo Ministério Público estadual.
+Em face do exposto, acolho os e mbargos de declaração apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
