@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RICARDO CORREA MARTINS apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Recurso em Sentido Estrito n. 5077737-29.2023.8.21.0001/RS).
+Consta dos autos ter sido o paciente pronunciado "como incurso nas sanções dos artigos 121, § 2º, inciso IV, c/c 14, inciso II, ambos do Código Penal" (e-STJ fl. 872).
+Irresignado, o Ministério Público estadual ingressou com recurso, tendo o Tribunal de origem dado parcial provimento à insurgência para incluir a qualificadora do motivo fútil. Eis a ementa do aludido julgado (e-STJ fl. 878):
+RECURSO EM SENTIDO ESTRITO. INSURGÊNCIA MINISTERIAL. QUALIFICADORAS. INEXISTÊNCIA DE ELEMENTOS INDICIÁRIOS QUANTO À TORPEZA. EXCLUSÃO MANTIDA. INDÍCIOS MÍNIMOS ACERCA DA FUTILIDADE. INCLUSÃO IMPOSTA.
+As qualificadoras só podem ser afastadas no caso de não haver sido produzida nenhuma prova sobre elas. É o que ocorre em relação à motivação torpe, sobre a qual inexiste o mínimo amparo probatório. Por outro lado, havendo indícios mínimos acerca da futilidade, impositiva a sua inclusão na pronúncia.
+Sentença reformada para incluir na pronúncia a qualificadora do motivo fútil.
+RECURSO PARCIALMENTE PROVIDO.
+Neste writ, afirma a defesa que, "em nenhum momento, restou demonstrado que o paciente, ao perpetrar o delito, motivou-se em razão de desavença de cobrança, não sendo possível nem mesmo arguir dúvida acerca dessa ocorrência, eis que se trata apenas de tese alegada pela acusação, mas incapaz de ser sustentada pela prova produzida. É consabido que motivo fútil é aquele sem importância, frívolo, leviano, ou seja, aquele pequeno demais para justificar ou explicar o crime que dele resultou. Dessa forma, considerando que o motivo do cometimento do delito não restou provado urge seja mantido seu afastamento, posto que não se verifica no caso concreto" (e-STJ fl. 4).
+Busca, inclusive liminarmente, seja "concedido o HABEAS CORPUS para o fim de cassar o acórdão proferido pela Terceira Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, com o afastamento da qualificadora contida no artigo 121, § 2º, inciso II, do Código Penal, conforme acima delineado" (e-STJ fl. 5).
+O pedido liminar foi indeferido às e-STJ fls. 881/882.
+Informações prestadas às e-STJ fls. 889/891 e 892/920.
+O Ministério Público Federal, às e-STJ fls. 925/932, manifestou-se pela denegação da ordem.
+É o relatório.
+Vale ressaltar, de início, que, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que somente devem ser excluídas da decisão de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+A Corte de origem, ao apreciar o recurso em sentido estrito, concluiu pela inclusão na pronúncia da qualificadora do motivo fútil. Confira-se (e-STJ fl. 915, grifei):
+Vai mantida quanto ao afastamento da qualificadora do motivo torpe, pois sua existência não encontra suporte na prova coligida. Por outro lado, no tocante à qualificadora do motivo fútil, existem indícios de sua ocorrência, devendo a mesma ser incluída na pronúncia.
+Constou na denúncia que a torpeza seria oriunda "de desavença entre a vítima, o acusado e o comparsa PERCI LOPES PORTO, que exigiam dinheiro dela para que pudesse exercer a função de "guardador de carros" na região", enquanto que a futilidade decorreria de "mero desentendimento acerca de uma bicicleta, causa ínfima face o mal perpetrado".
+Todavia, da prova oral colhida no feito, somente existem indícios acerca de um "desentendimento comercial por causa de uma bicicleta", conforme relato prestado pela vítima em sede policial (evento 3, INQ5, fls. 23/25).
+Isso porque, a questão relativa à guarda de carros não veio suficientemente esclarecida nos autos, havendo somente a menção pelo policial civil Fernando Monteiro Queiroz Fernandes no sentido de que a motivação do crime "seria com relação a pontos ali de guarda de carros e uma bicicleta que seria da vítima, mas essa bicicleta nem me lembro, não sei se ela apareceu essa bicicleta ou eles queriam pegar. Não entendi direito a situação" (evento 131, TERMOAUD1).
+Ou seja, dos relatos prestados somente veio minimamente comprovada a futilidade e, havendo indícios mínimos da motivação fútil, a qualificadora deve ser incluída na pronúncia.
+Por fim, saliento que, relativamente ao corréu Perci, o caminho foi o mesmo, sendo ele pronunciado como incurso nas sanções do artigo 121, §2º, incisos II e IV, combinado com o artigo 14, II, ambos do Código Penal, conforme decisão desta Terceira Câmara Criminal no julgamento do recurso em sentido estrito nº 70079526885, de relatoria do Em. Desembargador Sérgio Miguel Achutti Blattes.
+Vê-se que a qualificadora foi admitida por não se revelar manifestamente contrária à prova dos autos, pois foram obtidos indícios de que o crime foi praticado em razão de uma desavença acerca de transação comercial de uma bicicleta.
+Assim, havendo indícios de sua configuração, autoriza-se a submissão da questão ao Conselho de Sentença.
+Nesse sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, INCISO I, DO CP. PRONÚNCIA. EXCLUSÃO DE QUALIFICADORA. MOTIVO TORPE. USURPAÇÃO DE COMPETÊNCIA DO TRIBUNAL DO JÚRI. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A exclusão de qualificadoras constantes na pronúncia somente pode ocorrer quando manifestamente improcedentes, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida.
+2. Havendo na decisão de pronúncia menção expressa às provas e indícios que indicam ter tido os acusados, em tese, cometido o delito de homicídio, por motivo torpe, não se revela despropositada a submissão ao Conselho de Sentença, da imputação, nela incluída a qualificadora insculpida nos artigo 121, § 2º, inciso I, do CP.
+3. No presente caso, o Tribunal a quo consignou que há indícios que o delito de homicídio tenha sido cometido por motivo torpe, tendo em vista que os acusados pretendiam "comandar" o tráfico de drogas na região do Gralha Azul, e a vítima teria se recusado a "trabalhar" para eles. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela inexistência de indícios do motivo torpe na prática criminosa, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.741.363/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/11/2020, DJe de 16/11/2020.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
