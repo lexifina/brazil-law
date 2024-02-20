@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000778-56.2023.8.08.0008
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ANA PEREIRA DE ALMEIDA
+RECORRIDO: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. NEGATIVAÇÃO INDEVIDA. AUSÊNCIA EM AUDIÊNCIA. AUSÊNCIA DE JUSTIFICATIVA EM TEMPO HÁBIL. NARRA A AUTORA QUE AO TENTAR REALIZAR COMPRAS DESCOBRIU QUE SEU NOME ESTAVA NEGATIVADO, SENDO QUE APÓS PESQUISA DESCOBRIU QUE SE TRATAVA DE INSCRIÇÃO REALIZADA PELA RÉ NO PERÍODO DE MAIO DE 2018 A JANEIRO DE 2019. DESCONHECENDO DAS DÍVIDAS EXPOSTAS, BUSCOU A REQUERIDA PARA INFORMAÇÕES, VISLUMBRANDO APÓS PROTOCOLO N.º 535219737 QUE OS O ENDEREÇO INFORMADO NOS CADASTRO DIVERGIAM DO SEU. APÓS DESPENDER MAIS TEMPO BUSCANDO O QUE HAVIA OCORRIDO, DESCOBRIU QUE A DÍVIDA FOI FEITA POR PESSOA HOMÔNIMA. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) TUTELA DE URGÊNCIA PARA QUE SEJA DETERMINADA A RETIRADA DA NEGATIVAÇÃO, B) DECLARAÇÃO DE INEXISTÊNCIA DOS DÉBITOS OBJETO DOS AUTOS, C) CONFIRMAÇÃO DA TUTELA EM SENTENÇA E D) DANOS MORAIS NO VALOR DE R$20.000,00. SENTENÇA DE PISO JULGOU EXTINTO O PROCESSO EM RAZÃO DA AUSÊNCIA INJUSTIFICADA DA AUTORA EM AUDIÊNCIA. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR TOTALMENTE PROCEDENTES OS PEDIDOS DA EXORDIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DE FORMA QUE NÃO MERECE SER REFORMADA. JUSTIFICATIVA DE AUSÊNCIA QUE FOI APRESENTADA APÓS MAIS DE 01 MÊS DO ATO, SITUAÇÃO QUE PODERIA TER SIDO RESOLVIDA POR PETIÇÃO SIMPLES NOS AUTOS, O QUE NÃO OCORREU RESTANDO PRECLUSA TAL POSSIBILIDADE.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
