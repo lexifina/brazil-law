@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por BLUE TREE HOTELS & RESORTS DO BRASIL S/A, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EMENTA: ILEGITIMIDADE PASSIVA - DEMANDA DE RESCISÃO CONTRATUAL LEGITIMIDADE PASSIVA DA CONSTRUTORA - SOLIDARIEDADE QUE DECORRE DO ART. 7º, PARÁGRAFO ÚNICO E ART. 25, § 1º, AMBOS DO CDC REJEIÇÃO. COMPROMISSO DE COMPRA E VENDA RESCISÃO CONTRATUAL POR INICIATIVA DOS COMPRADORES INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - SENTENÇA DE PARCIAL PROCEDÊNCIA FUNDADA NA LEI E NA JURISPRUDÊNCIA DESTA C. CORTE CONFIRMAÇÃO POR SEUS PRÓPRIOS FUNDAMENTOS INTELIGÊNCIA DA REGRA DO ART. 252 DO RITJSP PRECEDENTES RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 2º do CDC. Sustenta, em síntese, que a legislação consumerista não incide no caso, devendo ser declarada, portanto, sua ilegitimidade para figurar no polo passivo da demanda, haja vista não ter participado da relação contratual.
+É o relatório. Decido.
+A irresignação merece prosperar.
+O Tribunal de origem, ao analisar a legitimidade passiva da recorrente, assim dirimiu a controvérsia:
+1.- DA PRELIMINAR A apelante é parte legítima para figurar no polo passivo da demanda, haja vista a nítida parceria comercial na construção e divulgação do empreendimento. Pouco importando ao consumidor o ajuste existente entre ambas, ou o regresso que a qualquer delas caiba.
+Como decidido pelo MM. Juiz de primeiro grau na r.
+sentença às fls. 509: "Seu nome foi atrelado ao empreendimento, inclusive com a vinculação em material de divulgação, sendo evidente que a presença da marca contribuiu para a comercialização.
+2. DO MÉRITO A apelante volta-se apenas contra dois capítulos da r. sentença: i) não incidência do Código de Defesa do Consumidor e ii) alegada inexistência de relação jurídica com os autores, o que foi objeto da preliminar arredada anteriormente.
+Na hipótese, o aplica-se à relação jurídica pouco importando a existência de cláusula do contrato especificando a destinação do imóvel para atividades hoteleiras (TJSP, 8ª Câm. Dir Priv., Ap.
+1007831-83.2017.8.26.0100, rel. Des. Salles Rossi, j. em 03.07.2019).
+Além disso, a constituição de sociedade em conta de participação para explorar o negócio em nada altera esta conclusão.
+"Referido contrato, portanto, é acessório ao primeiro e não altera a condição das partes acima mencionada, isso sem contar que, em caso de desfazimento da rescisão da compra e venda não há incorporação a tal sociedade" (TJSP, 9ª Câm. Dir. Priv., Ap.
+1003736-80.2017.8.26.0400, rel. Des. José Aparício Coelho Prado Neto, j. em 15.12.2020).
+No mesmo sentido: CONTRATO - Compromisso de compra e venda de imóvel - Comprador que deu causa à rescisão contratual - Retenção de 20% em favor da promitente- vendedora - Juros moratórios, entretanto, são contados do trânsito em julgado e não da citação - Sentença reformada em parte - Recurso provido em parte" (Ap.
+1001070-36.2016.8.26.0370, rel. Des. Benedito Antonio Okuno, j. em 20.09.2019). Feitas essas considerações, a r. sentença abordou todas as questões controvertidas, decidindo a pretensão com apoio na lei e na jurisprudência consolidada desta C.
+Corte.
+Por isso, deve ser prestigiada por seus próprios e bem lançados fundamentos, os quais ficam inteiramente adotados como razão de decidir pelo não provimento do recurso, nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça, que assim dispõe, in verbis: "Nos recursos em geral, o relator poderá limitar- se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la"."
+Contudo, esta Corte Superior tem entendimento consolidado no sentido da inexistência de responsabilidade solidária da empresa de administração hoteleira pelo inadimplemento de contrato de promessa de compra e venda de unidades imobiliárias (apart hotel) pois não integra a cadeia de fornecimento relativa à incorporação formada pela sociedade empresária inadimplente.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA DE RECONHECIMENTO DE RESPONSABILIDADE SOLIDÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. "Deve ser reconhecida a ilegitimidade passiva e afastada a responsabilidade solidária da rede hoteleira pelo não adimplemento do contrato de promessa de compra e venda de unidades imobiliárias, porquanto não integra a cadeia de fornecimento relativa à incorporação formada pelas sociedades empresárias inadimplentes" (AgInt no AREsp 1555853/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2020, DJe 11/02/2020). Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.937.424/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023, g.n.)
+RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA DE UNIDADE DE APART-HOTEL. PARALISAÇÃO DAS OBRAS. AÇÃO RESOLUTÓRIA. EMPREENDIMENTO ECONÔMICO. PREVALÊNCIA NO NEGÓCIO JURÍDICO. REDE HOTELEIRA. FUTURA ADMINISTRADORA DE SERVIÇOS DE HOTELARIA. ILEGITIMIDADE PASSIVA.
+PRECEDENTE. AGRAVO INTERNO PROVIDO.
+1. No julgamento do REsp 1.785.802/SP, a Terceira Turma do Superior Tribunal de Justiça, examinando situação idêntica, relativa ao mesmo empreendimento imobiliário, decidiu que "Deve ser afastada qualquer responsabilização solidária da recorrente pelo não adimplemento do contrato de promessa de compra e venda das unidades do apart-hotel, seja por não integrar a cadeia de fornecimento relativa à incorporação imobiliária, seja por não compor o mesmo grupo econômico das empresas inadimplentes, seja por também ter sido prejudicada, visto que sua pretensão de explorar o ramo hoteleiro na localidade foi tão frustrada quanto a pretensão da autora de ganhar rentabilidade com a aquisição e a locação das unidades imobiliárias" (Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/02/2019, DJe de 06/03/2019).
+2. De rigor, portanto, o reconhecimento da ilegitimidade passiva da recorrente, uma vez que não integrou a cadeia de fornecimento da incorporação imobiliária, apenas obrigando-se a administrar futuramente os serviços hoteleiros, ramo de sua expertise, após a conclusão do empreendimento por meio da formação de sociedade em conta de participação juntamente com os adquirentes.
+3. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp n. 1.757.092/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/11/2019, DJe de 12/12/2019, g.n.)
+Assim, o acórdão recorrido, ao reconhecer a responsabilidade solidária da recorrente, com fundamento no Código de Defesa do Consumidor, está em dissonância com a jurisprudência desta Corte Superior, impondo-se, portanto, reforma.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial para reconhecer a ilegitimidade passiva da recorrente, afastando a responsabilidade solidária pelo inadimplemento do contrato de promessa de compra e venda das unidades imobiliárias.
+Condeno a parte autora ao pagamento das custas processuais e dos honorários advocatícios sucumbenciais em 10% sobre o valor da causa devidamente corrigido (CPC/2015, art. 85, § 2º), observando eventual gratuidade de justiça (CPC/2015, art. 98, § 3º).
+Publique-se.
+EMENTA
