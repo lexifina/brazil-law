@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por HOSPITAL GERAL E MATERNINDADE MADRE MARIA THEODORA LTDA., com fundamentado no art. 105, III, a, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO DE INDENIZAÇÃO. Danos morais e estético. Queimaduras graves ocorridas durante procedimento cirúrgico realizado no Hospital réu para retirada de tumor de face. Danos permanentes na região da face. Sentença que julgou procedentes os pedidos da inicial para condenar o Hospital à indenização por danos morais e estéticos no valor de R$ 150.000,00. Danos que provieram de explosão no bisturi elétrico utilizado, sendo o Hospital responsável. Irresignação de ambas as partes. Patamar indenizatório excessivo, merecendo ser reduzido a R$70.000,00. Autora postula que os juros incidam desde a data do fato, nos termos da súmula 54 do STJ, e não da sentença - Descabimento - Hipótese que trata de ilícito contratual, relativo à falha de prestação de serviços, e não de ilícito extracontratual. Incidência do art. 405 do CC Sentença parcialmente revista. Recursos parcialmente providos.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 546-549.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 1.022 do CPC/2015, 186, 884, 927, 944, parágrafo único, do CC e 14, §3º, I e II, e §4º, do CDC. Sustenta, em síntese, que: a) o acórdão estadual está omisso; b) não pode ser responsabilizada pelo dano ocorrido, tendo em vista a ausência de ato ilícito por parte do hospital; e c) os danos morais e estéticos fixados em R$70.000,00 (setenta mil reais) se mostram exorbitantes.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-SP analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando- se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Quanto à responsabilidade do hospital, o Tribunal de origem, analisando as circunstâncias do caso, assim se manifestou:
+A ação não foi promovida contra o médico, mas sim contra o hospital.
+E neste ponto, no que concerne ao nosocômio, irrelevante qualquer ilação acerca da existência de culpa, porquanto lhe é imputada responsabilidade pela má prestação de serviços, incidindo, assim, a disposição do artigo 14, caput, do Código de Defesa do Consumidor que prevê que "O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos".
+Nesse sentido:
+(..)
+No caso dos autos, a pretensão indenizatória não está fundada em falha na realização dos procedimentos cirúrgicos a que a autora foi submetida, de retirada de tumor na face. A pretensão indenizatória decorre de a autora, durante o procedimento, ter sofrido uma queimadura grave na região do lábio e nariz.
+Como constatado pela perícia, a lesão ocorreu, tendo consistido em queimadura de segundo grau em região nasal e perioral, concluindo ainda que "há nexo de causalidade entre o acidente ocorrido e o dano estético" (fls.
+450).
+Evidentemente, que a queimadura no rosto (fls. 434) por bisturi elétrico não é decorrência normal e esperada de um procedimento cirúrgico para retirada de tumor na face, nos termos do art. 14, caput, do CDC.
+Nesta esteira, este Tribunal já assentou que "o hospital, enquanto proprietário dos instrumentos e equipamentos, deve responder pelos danos gerados pela utilização deles na prestação de seus serviços." (TJSP, Ap. civ. n.
+994.09.334833-4, j. 29.04.2010).
+Assim, patente o nexo entre a imprudência e negligência e os danos impostos à autora. Em hipótese semelhante já se manifestou esta Corte:"
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que a responsabilidade objetiva dos hospitais como prestador do serviço, prevista no art. 14 do CDC, não é absoluta, respondendo objetivamente somente pelos danos causados aos pacientes em decorrência de defeito no seu serviço, como aqueles relativos à estadia do paciente, instalações, equipamentos e serviços auxiliares.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE. RESPONSABILIDADE OBJETIVA. CÓDIGO DE DEFESA DO CONSUMIDOR. REVISÃO DO QUANTUM INDENIZATÓRIO. PRETENSÕES QUE DEMANDAM O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AUSÊNCIA DE REVALORAÇÃO DA PROVA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência firmada neste Superior Tribunal, a responsabilidade objetiva dos hospitais como prestador do serviço, prevista no art. 14 do CDC, não é absoluta, respondendo objetivamente somente pelos danos causados aos pacientes em decorrência de defeito no seu serviço, como aqueles relativos à estadia do paciente, instalações, equipamentos e serviços auxiliares.
+2. Esta Corte Superior entende que a pretensão recursal cuja finalidade é dirigida à reapreciação de fatos e provas não comporta a interposição de recurso especial, uma vez que este instrumento é vocacionado à tutela do direito objetivo federal.
+3. Tendo o Tribunal de origem constatado a ocorrência do nexo de causalidade e a existência dos danos materiais e morais, este Superior Tribunal fica impedido de proceder ao revolvimento do acervo fático-probatório para adotar conclusão diversa. Incidência da Súmula n. 7/STJ.
+4. É sabido que "a indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2020, DJe 17/12/2020).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.272.912/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ademais, ainda que superado o referido óbice, tem-se que a pretensão de modificar o entendimento firmado quanto à responsabilidade do hospital demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Quantos aos danos morais e estéticos, o Tribunal de origem fixou em R$70.000,00 (setenta mil reais), como se vê do trecho abaixo transcrito:
+Inegável a dor e sofrimento impingidos à autora em virtude das queimaduras que lhe sobrevieram em decorrência da combustão do bisturi elétrico utilizado durante o procedimento cirúrgico, sendo patente o dever do nosocômio indenizar a autora pelos danos experimentados Estabelecida a responsabilidade da ré, passa-se à análise do montante indenizatório fixado pelo Juízo, na medida de sua extensão, conforme preceito do artigo 944, do Código Civil, aferível pela apreciação de todos os elementos que envolvem o objeto da lide, acima descritos, e trazendo a quantia que lhe será atribuída para o contexto atual.
+Tem-se que, conforme descrito no Histórico do Relatório da Perícia (fls. 430), a autora sofreu queimadura de segundo grau, sendo tratada primeiramente com curativos e com o passar do tempo, evoluiu com hipertrofia. Foi tratada com cirurgião plástico, sendo realizadas três cirurgias reparadoras, bem como infiltrações de corticoides e tratamentos com cosmeceuticos. Descreve ainda o Sr.
+Perito que a autora possui retração importante de asa nasal direita, com leve déficit valvular externo, cicatrizes hipertróficas em lábio superior e filtro naso-labial, cicatrizes hipercromicas e hipertróficas.
+Tem-se que o quantum indenizatório foi objeto de recurso de ambas as partes, uma buscando a redução e a parte contrária sua majoração.
+Pois bem.
+A r. sentença fixou a indenização por danos morais e estéticos no valor de R$150.000,00, o que se revela demasiado, comportando provimento o recurso do autor.
+Tal patamar é usado em hipóteses mais graves, em que ocorre morte ou invalidez.
+Já se decidiu que o juiz deve ser a um só tempo razoável e severo, pois só assim atenderá a finalidade de compensar e dar satisfação ao lesado e de desestimular a reincidência. A indenização deve ser razoavelmente expressiva, sem que seja fonte de enriquecimento (Apelação Cível 253.723-1, Des. José Osório, JTJ-Lex 199/59).
+Com o intuito de atingir esse equilíbrio o julgador deve recorrer ao princípio da proporcionalidade ou da razoabilidade, como pondera Flávio Tartuce: "Se, por um lado, deve entender que a indenização tem função pedagógica ou educativa para futuras condutas, por outro, não pode o valor pecuniário gerar enriquecimento sem causa ou ruína do ofensor, devendo ser aplicado o princípio da proporcionalidade ou da razoabilidade na fixação do quantum indenizatório" (Manual de Direito Civil, Editora Método, 1ª ed., pg. 434).
+Esclarecedor sobre o tema é o precedente julgado pelo Superior Tribunal de Justiça, segundo o qual "o arbitramento da condenação a título de dano moral deve operar-se com moderação, proporcionalmente ao grau de culpa, ao porte empresarial das partes, suas atividades comerciais, e, ainda, ao valor do negócio, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida, notadamente à situação econômica atual, e às peculiaridades de cada caso" (STJ, REsp n. 173.366- SP, 4ª Turma, j. 03-12-1998, rel. Min. Sálvio de Figueiredo Teixeira).
+Para casos análogos a este, envolvendo queimaduras por bisturis elétricos em procedimentos cirúrgicos, a jurisprudência desta Corte fixou patamares indenizatórios mais baixos, conforme os julgados a seguir:
+(..)
+Nesta senda, afigura-se razoável a fixação das indenizações por danos morais e estéticos em R$70.000,00, dadas a peculiaridade do caso, extensão e a gravidade das queimaduras.
+Sobre o tema, tem-se que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais e estéticos pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade e proporcionalidade.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OFENSA AO ART. 535 DO CPC. NÃO CARACTERIZAÇÃO. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA EM RELAÇÃO AOS DANOS ESTÉTICOS. NÃO OCORRÊNCIA. PEDIDO FEITO NA PETIÇÃO INICIAL. FALHA NA PRESTAÇÃO DE SERVIÇOS MÉDICO-HOSPITALARES. RESPONSABILIDADE OBJETIVA DO HOSPITAL PELOS DANOS CAUSADOS POR SEUS PREPOSTOS. DANO MORAL E ESTÉTICO. REQUISITOS CONFIGURADORES. PRETENSÃO DE AFASTAMENTO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO RAZOÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. O entendimento pacificado no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Dessa forma, não se mostra desproporcional a fixação em R$ 50.000,00 (cinquenta mil reais) e R$ 50.000,00 (cinquenta mil reais) a título de reparação moral e estética, respectivamente, em decorrência das graves lesões sofridas na parte ora agravada.
+5. Ademais, a revisão do julgado, conforme pretendida, encontra óbice na Súmula 7/STJ, por demandar o vedado revolvimento de matéria fático-probatória.
+6. Agravo interno a que se nega provimento.
+(AgRg no REsp n. 1.394.901/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/2/2015, DJe de 5/3/2015.)
+Na hipótese, não demonstrada a excepicionalidade apta a ensejar a alteração do quantum indenizatório, haja vista estar dentro dos parâmetros de razoabilidade e proporcionalidade para as lesões suportados pelo recorrido.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de 10% para 11% sobre o valor da condenação.
+Publique-se.
+EMENTA
