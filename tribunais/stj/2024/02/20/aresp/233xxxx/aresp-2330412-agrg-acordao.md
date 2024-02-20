@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. NULIDADE DE INTIMAÇÃO. INEXISTÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A procuração ad judicia outorga os poderes aos advogados Orlando Pandolfi Fillho, Carlos Eduardo Duenhas Barbosa, não só a Ronaldo Labriola Pandolfi. Consta também substabelecimento em que se pede, sob pena de nulidade, que as intimações e publicações sejam realizadas também em nome dos procuradores Rawane Mikaela Miranda e Fabio Nilton Corassa. A certidão de publicação do acórdão de apelação foi feita no nome desses últimos causídicos, tanto que foi o próprio Fábio Nilton Corassa quem interpôs recurso especial e opôs embargos de declaração. O acórdão destes aclaratórios foi publicado também em nome de Fabio e Rawane. Desse modo, não se verifica a ocorrência de nulidade.
+2. Assim, deve ser mantida a decisão de não conhecimento do recurso especial, pois ultrapassado o prazo 15 (quinze) dias, de acordo com o art. 994, VI, c. c. os arts. 1.003, § 5º, do Código de Processo Civil - CPC e 798 do Código de Processo Penal - CPP. Lembrando que o art. 798 do Código de Processo Penal, em seu caput e § 1º, determina que: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado".
+2.1. No caso, o apelo especial é intempestivo, porque interposto no dia 30/6/2022, quando teve início no dia 14/6/2022 e termo final no dia 29/6/2022.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE CARLOS BARBOSA contra a decisão de fls. 1062/1063, da Presidência desta Corte, que não conheceu do recurso especial do ora agravante pela intempestividade.
+O agravante, nas razões do presente recurso, sustenta que pede a nulidade de todos os atos processuais desde o julgamento da apelação, tendo em vista que não houve intimação do advogado Ronaldo Labriola Pandolfi, com procuração acostada às fls. 294/295. Alega que o recurso especial é tempestivo, pois o prazo para interposição é de 15 dias corridos e houve feriado no dia 16/6/2022, tendo sido mencionado no recurso.
+Requer a nulidade de todos os atos processuais desde o julgamento ocorrido no dia 6/5/2022 e o conhecimento e provimento do recurso especial.
+Impugnação apresentada às fls. 1098/1101.
+Parecer ministerial pelo não provimento do recurso ou não conhecimento do recurso especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. NULIDADE DE INTIMAÇÃO. INEXISTÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A procuração ad judicia outorga os poderes aos advogados Orlando Pandolfi Fillho, Carlos Eduardo Duenhas Barbosa, não só a Ronaldo Labriola Pandolfi. Consta também substabelecimento em que se pede, sob pena de nulidade, que as intimações e publicações sejam realizadas também em nome dos procuradores Rawane Mikaela Miranda e Fabio Nilton Corassa. A certidão de publicação do acórdão de apelação foi feita no nome desses últimos causídicos, tanto que foi o próprio Fábio Nilton Corassa quem interpôs recurso especial e opôs embargos de declaração. O acórdão destes aclaratórios foi publicado também em nome de Fabio e Rawane. Desse modo, não se verifica a ocorrência de nulidade.
+2. Assim, deve ser mantida a decisão de não conhecimento do recurso especial, pois ultrapassado o prazo 15 (quinze) dias, de acordo com o art. 994, VI, c. c. os arts. 1.003, § 5º, do Código de Processo Civil - CPC e 798 do Código de Processo Penal - CPP. Lembrando que o art. 798 do Código de Processo Penal, em seu caput e § 1º, determina que: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado".
+2.1. No caso, o apelo especial é intempestivo, porque interposto no dia 30/6/2022, quando teve início no dia 14/6/2022 e termo final no dia 29/6/2022.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+O recurso especial não foi conhecido por intempestividade, pois interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+A procuração ad judicia outorga os poderes aos advogados Orlando Pandolfi Fillho, Carlos Eduardo Duenhas Barbosa, não só a Ronaldo Labriola Pandolfi (fl. 295). O substabelecimento apresentado à fl. 880 foi feito, com reserva de poderes, aos advogados Rawane Mikaela Miransa e Fabio Nilton Carassa.
+Consta também substabelecimento em que se pede, sob pena de nulidade, que as intimações e publicações sejam realizadas também em nome dos procuradores Rawane Mikaela Miranda e Fabio Nilton Corassa. A certidão de publicação do acórdão de apelação foi feita no nome desses últimos advogados, tanto que foi o próprio Fábio Nilton Corassa quem interpôs recurso especial e opôs embargos de declaração. O acórdão destes aclaratórios foi publicado também em nome de Fabio e Rawane. Desse modo, não se verifica a ocorrência de nulidade.
+Assim, fica mantida a decisão de não conhecimento do recurso especial, pois ultrapassado o prazo 15 (quinze) dias, de acordo com o art. 994, VI, c. c. os arts. 1.003, § 5º, do Código de Processo Civil e 798 do Código de Processo Penal. Lembrando que que o art. 798 do Código de Processo Penal, em seu caput e § 1º, determina que: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado". No sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. CONTAGEM DOS PRAZOS. DIAS CORRIDOS. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO.
+1. "Em ações que tratam de matéria penal ou processual penal, a contagem dos prazos correrá em cartório e será contínua e peremptória, sem interrupção por férias, domingo ou feriado, não se computará no prazo o dia do começo e incluir-se-á o do vencimento (art. 798 do CPP)" (AgRg no AREsp n. 2.121.505/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+2. O ora agravante foi intimado do acórdão recorrido em 23/2/2021 (terça-feira), sendo seu recurso especial interposto tão somente em 19/5/2021 (quarta-feira), fora, portanto, do prazo legal.
+3. "A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido" (AgRg no AREsp n. 864.072/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.298.155/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/5/2023, DJe de 26/5/2023.)
+No caso, o apelo especial é intempestivo, porque interposto no dia 30/6/2022, quando teve início no dia 14/6/2022 e termo final no dia 29/ 6/2022.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
