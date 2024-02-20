@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO DO BRASIL S/A, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TRF4.
+Recurso especial interposto em: 26/6/2023.
+Concluso ao gabinete em: 2/2/2024.
+Ação: execução individual e provisória de sentença coletiva, requerida por JOBIO DA ROSA CELESTE em face do recorrente, da UNIÃO e do BANCO CENTRAL DO BRASIL - BACEN, na qual pleiteia o recebimento de diferença de correção monetária em cédula de crédito rural, relativa ao mês de março de 1990, consoante reconhecido na Ação Civil Pública nº 94.0008514-1, ajuizada pelo Ministério Público Federal em desfavor do recorrente, da UNIÃO e do BANCO CENTRAL DO BRASIL - BACEN.
+Sentença: indeferiu a petição inicial e julgou extinto o processo, com fundamento no art. 330, III, e 485, IV, do CPC.
+Acórdão: anulou a sentença e determinou o retorno dos autos à origem para o Juízo faculte à parte autora optar por um dos réus elencados na inicial, prejudicando o recurso de apelação interposto pelo recorrido, nos termos da seguinte ementa:
+ADMINISTRATIVO. PROCESSUAL CIVIL. CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA Nº 94.008514-1. CÉDULA DE CRÉDITO RURAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. UNIÃO, BACEN E BANCO DO BRASIL. RITOS DIFERENTES. OPÇÃO.
+1. Tendo a decisão proferida no âmbito da ACP nº 94.008514-1 condenado - de forma solidária - a União, o Banco Central do Brasil e o Banco do Brasil S/A ao pagamento das diferenças, não se pode afastar a solidariedade passiva insculpida no título executivo.
+2. A melhor providência é que seja manejada a execução em apenas um rito, ou no rito do cumprimento de sentença junto ao Juízo de Direito, ou em face da Fazenda Pública (União e/ou BACEN), regrado pelo art. 730 do CPC, perante a Justiça Federal.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 509, II, 511, 1.022 e 1.025 do CPC.
+Além da negativa de prestação jurisdicional, defende "a identidade de ritos na liquidação provisória de sentença tanto em relação ao Banco do Brasil quanto em relação à União e o BACEN e possibilidade da manutenção no polo passivo de todos os coobrigados" (e-STJ fl. 506).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 2/3/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios, não se manifestou quanto aos argumentos de "i) que a demanda foi proposta como liquidação de sentença pelo procedimento comum (art. 509, II, do CPC)"; e que "ii) sendo liquidação de sentença é completamente cabível a manutenção dos três litisconsortes passivos (Banco do Brasil, União e BACEN), visto que inexiste diversidade de ritos na liquidação de sentença independentemente de figurar no polo passivo apenas o Banco ou os entes federais" (e-STJ fl. 504).
+Da análise do processo, constata-se que, de fato, o Tribunal de origem não analisou tais alegações, de que a hipótese em julgamento trata-se de liquidação provisória de sentença e que há identidade de ritos na liquidação provisória de sentença tanto em relação ao Banco do Brasil quanto em relação à União e o BACEN, sendo possível, por essa razão, manter no polo passivo todos os coobrigados, em que pese tenham sido devidamente suscitadas pela parte recorrente.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO e DOU PARCIAL PROVIMENTO ao recurso especial, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente. Por conseguinte, fica prejudicado o exame das demais questões aventadas no presente recurso.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CÉDITO RURAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Cumprimento individual da sentença coletiva prolatada na Ação Civil Pública nº 94.0008514-1, na qual se pleiteou o pagamento de diferenças de correção monetária em cédula de crédito rural, relativa ao mês de março de 1990.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Recurso especial conhecido e parcialmente provido.
