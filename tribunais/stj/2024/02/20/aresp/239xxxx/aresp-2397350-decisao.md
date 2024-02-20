@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de prestação de contas (segunda fase). Execução de verba honorária. Impugnação ao cumprimento do sentença parcialmente acolhida. Oferecimento de fiança bancária. Admissibilidade. Exegese do art. 835, § 2º, do CPC. Fiança bancária que é equiparada a dinheiro, contudo, não importa em pagamento, mas em mera garantia da execução. Verba honorária e multa previstas no art. 523, § 1º, do CPC. Incidência. Honorários advocatícios. Critério de arbitramento. Regra geral. Art. 85, §2º, CPC. Fixação por equidade afastada. Decisão reformada neste ponto. Recurso parcialmente provido. (e-STJ, fl. 29)
+Nas razões do recurso especial, a parte agravante alega violação ao art. 523, §1º do Código de Processo Civil de 2015, sustentando, em síntese, que a carta-fiança se equipara à dinheiro, de modo que não devem incidir as penalidades previstas em lei.
+É o relatório. Passo a decidir.
+Eis os fundamentos do Tribunal de origem com relação a suposta violação ao art. 523, §1º do CPC/15, in verbis:
+Não se desconhece que houve oferecimento de carta de fiança no processo executivo, o que é plenamente admitido, segundo disposto no art. 835, §2º, do CPC e entendimento jurisprudencial acerca da matéria.
+Contudo, é importante anotar que a medida não tem o condão de afastar a sanção prevista no art. 523, § 1º, do CPC. Isto porque o oferecimento da carta-fiança visou, apenas, à garantia do juízo, para possibilitar a discussão das matérias suscitadas na impugnação e não ao pagamento da dívida.
+Com efeito, é assente na jurisprudência o entendimento de que "(..) para o devedor se eximir da multa e dos honorários advocatícios pelo descumprimento da condenação, não basta efetuar o depósito do valor devido, sendo imprescindível que realmente disponibilize tal valor ao credor".
+O oferecimento de carta fiança não equivale ao pagamento voluntário propriamente dito, daí porque não tem o condão de afastar a incidência das referidas verbas no cálculo apresentado pelo exequente.
+A respeito do tema, eis a orientação jurisprudencial do C. STJ: "A multa a que se refere o art. 523 do Código de Processo Civil de 2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo (..)" (REsp. nº 1.688.698/DF) (g.n.). Não é o caso.
+A decisão de origem está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+Vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A jurisprudência desta Corte Superior tem entendimento no sentido de que o depósito ou oferecimento de seguro para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do NCPC. Precedentes.
+2. Derruir as conclusões a que chegou o Tribunal de origem, no sentido de verificar se estaria garantida a execução pelo oferecimento de seguro-garantia, na forma como posta pelo recorrente, demandaria o reexame da matéria fática, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.189.739/SC, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. CONTRATO DE COMPRA E VENDA DE QUOTAS SOCIAIS. AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO NO PRAZO LEGAL. EXISTÊNCIA DE HIPOTECA JUDICIÁRIA. INAPTIDÃO PARA AFASTAR A INCIDÊNCIA DA MULTA DE 10% E DE HONORÁRIOS DE ADVOGADO DE 10%.
+1. Ação de cobrança, em fase de cumprimento de sentença, ajuizada em 23/6/2015, da qual foi extraído o presente recurso especial interposto em 9/2/2023 e concluso ao gabinete em 18/8/2023.
+2. O propósito recursal consiste em definir se a existência de hipoteca judiciária isenta o devedor do pagamento da multa e dos honorários de advogado previstos no art. 523, § 1º, do CPC/2015.
+3. No cumprimento de sentença que reconhece a obrigação de pagar quantia certa, se o devedor não realizar o pagamento voluntário no prazo de 15 (quinze) dias o débito será acrescido de multa de 10% e de honorários de advogado de 10% (art. 523, caput e § 1º, do CPC/2015). São dois os critérios para a incidência da multa e dos honorários previstos no mencionado dispositivo: a intempestividade do pagamento ou a resistência manifestada na fase de cumprimento de sentença 4. A multa e os honorários a que se refere o art. 523, § 1º, do CPC/2015 serão excluídos apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito. Precedentes.
+5. A hipoteca judiciária prevista no art. 495 do CPC/2015 visa a assegurar futura execução, não ocasionando a imediata satisfação do direito do credor. Essa modalidade de garantia não equivale ao pagamento voluntário do débito, de modo que não isenta o devedor da multa de 10% e de honorários de advogado 10%.
+6. No particular, a Corte de origem isentou os recorridos do pagamento da multa e dos honorários previstos no art. 525, § 1º, do CPC/2015, devido à existência de hipoteca judiciária sobre imóveis dos recorridos, o que se revela descabido, uma vez que não houve pagamento voluntário do débito no prazo legal.
+7. Recurso especial conhecido e provido.
+(REsp n. 2.090.733/TO, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/10/2023, DJe de 27/10/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. CUMPRIMENTO DE SENTENÇA. SEGURO-GARANTIA. INCIDÊNCIA DA PENALIDADE DO ART. 523 DO CPC. OFERECIMENTO DO SEGURO NÃO SE CONFUNDE COM O PAGAMENTO VOLUNTÁRIO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Na forma da tranquila jurisprudência desta Corte, a multa do art. 523, §1º, do CPC não incidirá quando o executado pagar voluntariamente a quantum executado, situação que não se confunde com quaisquer das formas de garantia do juízo, como a penhora de bens ou valores para posterior discussão do débito ou a oferta de seguro-garantia.
+2. A pretensão do recorrente de transmudar o seguro-garantia, cuja função não é outra senão assegurar futura solvência do débito, em pagamento voluntário, por alegada equivalência a valor em espécie não se mostra sequer razoável.
+3. O legislador quando equiparou o seguro a dinheiro o fez no art. 835 do CPC, norma voltada a regular a ordem a ser observada quando da realização da penhora.
+4. Não há nada menos pagamento voluntário do que a penhora, seja de dinheiro, ou de qualquer outro dos bens ali arrolados, pois expressão da imposição da vontade do Estado sobre o patrimônio do particular, ou seja, não é nem pagamento e nem voluntário.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.889.144/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
