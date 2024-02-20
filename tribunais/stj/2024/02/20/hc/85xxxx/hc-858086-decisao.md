@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de JOSE ALFREDO FLORES PACHACOPA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500692-71.2022.8.26.0286).
+Depreende-se dos autos que o paciente foi condenado, pelo delito de tráfico de drogas, à pena de 3 anos e 6 meses de reclusão, em regime inicial semiaberto, por ter sido apreendido com "6 (seis) tijolos de "maconha", com peso aproximado de 6.641g (seis mil, seiscentos e quarenta um gramas), e 6 (seis) tijolos de cocaína, com peso aproximado de 6.261g (seis mil, duzentos e sessenta e um gramas)" (e-STJ fls. 14).
+Interposta apelação pelo Ministério Público, o Tribunal de origem deu parcial provimento ao recurso para decotar a causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, elevando a pena do paciente para 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa.
+Neste writ, aduz a defesa ilegalidade na exclusão da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, visto que não existem fatos concretos que comprovem que o agente se dedica às atividades ilícitas. Afirma, ainda, que a quantidade de drogas, bem como os elementos ínsitos ao tipo penal, não podem fundamentar a exclusão do benefício.
+Requer, inclusive liminarmente, seja reconhecida a causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006, fixado regime inicial aberto e substituída a pena privativa de liberdade por restritiva de direitos.
+O pedido liminar foi indeferido.
+Informações prestadas.
+Opinou o órgão ministerial pelo não conhecimento do habeas corpus.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No ponto, o Tribunal a quo assentou que (e-STJ fls. 22/23):
+Desse modo, deve ser mantida a pena-base no mínimo legal, ou seja, em 5 anos de reclusão e 500 dias-multa. Na segunda fase, reconheço a atenuante da confissão espontânea, que, entretanto, não tem o condão de reduzir a pena-base aquém do mínimo legal, consoante a Súmula 231 do STJ.
+Na terceira fase, inviável o reconhecimento da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06. A grande quantidade de drogas apreendidas em poder do acusados  (4 (quatro) tijolos de "maconha" conhecida por "creepy", de alto valor comercial pelo seu nível de pureza e elevado THC (tetrahidrocarbinol) e mais 2 (dois) tijolos da mesma droga  que transportava no interior do ônibus, evidencia que o réu se dedicava às atividades criminosas.
+Notadamente considerando-se as circunstâncias do delito, em que possuíam expressiva quantidade de entorpecentes em poder dele, tendo inclusive ele confessado a prática da mercancia ilícita e que era proprietário da droga, tudo a denotar seu forte envolvimento com a atividade criminosa e a impedir, assim, a incidência do redutor em comento.
+Da leitura dos trechos precedentes, constata-se que o Tribunal de origem negou a minorante contida no art. 33, § 4º, da Lei n. 11.343/2006, considerando principalmente a quantidade de droga.
+Todavia, a Terceira Seção do Superior Tribunal de Justiça, por ocasião do julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), definiu que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Definiu-se, na ocasião, que " a  utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+Além disso, faz-se necessário asseverar que, posteriormente, o referido colegiado aperfeiçoou o entendimento anteriormente exarado por ocasião do julgamento do Recurso Especial n. 1.887.511/SP, passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria , como na hipótese.
+Assim, faz jus o recorrente à incidência da minorante aqui pleiteada, porém na fração de 1/6, patamar adequado e proporcional à espécie, em vista da quantidade e variedade dos entorpecentes apreendidos - 6,641g (seis mil, seiscentos e quarenta um gramas) de maconha e 6,261g (seis mil, duzentos e sessenta e um gramas) de cocaína.
+Redimensiono a pena.
+A pena-base ficou no mínimo legal de 5 anos de reclusão.
+Na segunda etapa, não se altera.
+No terceiro estágio, aplico a minorante do tráfico privilegiado de drogas, bem como a majorante do art. 40, inciso V, da Lei n. 11.343/2006, ambas em 1/6, e fixo, em definitivo, a reprimenda em 4 anos, 10 meses e 10 dias de reclusão.
+Quanto ao regime, considerando o quantum total da condenação e a grande quantidade de drogas , adequada a modalidade semiaberta.
+Ante o exposto, concedo parcialmente a ordem, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
