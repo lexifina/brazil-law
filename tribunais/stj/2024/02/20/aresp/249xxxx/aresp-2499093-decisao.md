@@ -1,0 +1,50 @@
+DECISÃO
+Na origem, Maria Silva Brandão ajuizou ação declaratória de quitação de dívida c/c indenização danos morais e materiais contra Banco Pan S.A., ao argumento de que contratou empréstimo consignado com o requerido, mas foi surpreendida com a contratação de um empréstimo sobre reserva de margem consignável de cartão de crédito. O Juízo de primeiro grau julgou improcedentes os pedidos (e-STJ, fls. 1.055-1.065).
+Interposto recurso de apelação pela parte autora, o Desembargador relator, monocraticamente, negou provimento ao apelo (e-STJ, fls. 1.143-1.152).
+Opostos os embargos de declaração, foram rejeitados também de forma monocrática (e-STJ, fls. 1.228-1.233).
+Inconformada, a ora agravante manejou agravo interno, o qual em decisão unipessoal, foi negado provimento (e-STJ, fls. 1.317-1.318).
+Contra essa decisão foram opostos embargos de declaração, os quais nem sequer foram conhecidos pelo Tribunal local, conforme ementa abaixo reproduzida (e-STJ, fl. 1.462):
+EMBARGOS DE DECLARAÇÃO. PROCESSO CIVIL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. NÃO CONHECIMENTO.
+1. Segundo o princípio da dialeticidade recursal, o recorrente deve proceder à impugnação específica dos fundamentos da decisão atacada.
+2. Estando as razões recursais alienígenas em relação aos fundamentos de decidir, torna-se imperioso não conhecer do recurso.
+3. Aplicação de multa nos termos do art. 1.026, §2º do CPC.
+4. Embargos de declaração não conhecidos.
+Nas razões de recurso especial, a agravante, com base nas alíneas a e c do permissivo constitucional, alegou, além de divergência jurisprudencial, violação aos arts. 489, § 1º, IV e VI, do 1.022 II, do CPC/2015; e 6º, 39, 47, 51 e 52 do CDC.
+Sustentou, em síntese, a reforma do acórdão recorrido ao argumento de: a) negativa de prestação jurisdicional; b) existência de contrariedade à 4ª Tese do IRDR n. 53.983/2016; e c) descumprimento do dever de informação.
+Contrarrazões apresentadas às fls. 1.587-1.605 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial (e-STJ, fls. 1.607-1.610).
+Brevemente relatado, decido.
+Com efeito, o acórdão recorrido dirimiu a questão com base nos seguintes fundamentos (e-STJ, fls. 1.463-1.464 - sem grifo no original):
+Não merecem ser conhecidos os presentes embargos.
+Em verdade, ao me debruçar sobre as razões recursais, observo que o(a) recorrente não impugnou especificamente os fundamentos do acórdão vergastado, motivo pelo qual não merece ser conhecido.
+Destaco, assim, que a técnica jurídico-processual preconiza que as razões do recurso (fundamentos de fato e de direito), que podem constar da própria petição ou ser oferecidas em peça anexa, devem compreender, como é intuitivo, a indicação dos error in procedendo ou error in iudicando, ou de ambas as espécies, que, na visão do recorrente, viciaram a decisão atacada, bem como a exposição dos motivos pelos quais reputa que assim deve ser considerada a manifestação judicial.
+É que, à luz da jurisprudência do STJ "(..) e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp 705.564/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/08/2015, DJe 25/08/2015).
+Ademais, tem-se decidido, acertadamente, que não é satisfatória a mera invocação, máxime em peça padronizada, de razão que não guarda relação com o teor da sentença (José Carlos Barbosa Moreira, Comentários ao Código de Processo Civil, 15ª Edição, Volume V, Rio de Janeiro: 2010, pág. 424).
+In casu, o equívoco nas razões da embargante não reside na padronização de sua peça, mas, sim, por ela se encontrar claramente alienígena para com os fundamentos da decisão cuja reforma almeja obter.
+Prova disso é que, enquanto o acórdão embargado fundamenta-se na aplicação do art. 643 do Regimento Interno desta Corte, a petição recursal limita-se a alegar matérias de mérito atinentes à invalidade do contrato impugnado, questionando essencialmente a aplicação das teses firmadas no IRDR nº 53.983/2016.
+Com efeito, a dedução de razões de aclaratórios divorciadas dos fundamentos da decisão fustigada leva ao não conhecimento do recurso, conforme tem assentado o colendo STJ, in verbis:
+(..)
+Forte nessas razões, NÃO CONHEÇO dos presentes embargos de declaração.
+Dito isso, pelo que se pode depreender das razões vertidas em seu recurso especial, a recorrente não infirma o fundamento autônomo apresentado pelo TJMA quanto a violação ao princípio da dialeticidade, isso porque "não impugnou especificamente os fundamentos do acórdão vergastado, motivo pelo qual não merece ser conhecido", além de que "enquanto o acórdão embargado fundamenta-se na aplicação do art. 643 do Regimento Interno desta Corte, a petição recursal limita-se a alegar matérias de mérito atinentes à invalidade do contrato impugnado, questionando essencialmente a aplicação das teses firmadas no IRDR nº 53.983/2016" (e-STJ, fl. 1.463).
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Por conseguinte, constata-se que as razões despendidas no recurso especial se mostraram dissociadas da matéria decidida pelo acórdão recorrido, circunstância que revela a inaptidão de tais razões para impugnar os argumentos deduzidos pela Corte estadual de maneira específica, assim como, além de impedir a exata compreensão da controvérsia a ser dirimida, demonstra deficiência na fundamentação do apelo especial, impondo o reconhecimento da incidência da Súmula 284/STF, por analogia.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DEVER DE INDENIZAR. COMPRA DE IMÓVEL. VAGA DE GARAGEM SEM ACESSO DIRETO À CIRCULAÇÃO E COM DIMENSÃO INFERIOR AO PREVISTO NO DECRETO MUNICIPAL. AUSÊNCIA DE INFORMAÇÃO. SÚMULAS 283 E 284/STF. VALOR DA INDENIZAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Ainda que não examinados individualmente cada um dos argumentos suscitados pela parte, se o acórdão recorrido decide integralmente a controvérsia apresentando fundamentação adequada, não há que se falar em ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência, por analogia, das Súmulas 283 e 284 do STF.
+3. O Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou o caráter irrisório da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+4. No caso, não se mostra exorbitante a compensação por danos morais fixada pelo Tribunal estadual, no montante de R$ 15.000,00 (quinze mil reais), visto não ser desproporcional aos danos sofridos pela parte recorrida, prejudicada por propaganda enganosa e ausência de correta informação, no momento da compra de imóvel com vaga de garagem (sem acesso direto à circulação e com dimensão inferior à divulgada) vinculada à unidade residencial.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.112.248/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023 - sem grifo no original)
+Impende registrar que, consoante iterativa jurisprudência desta Corte, tanto a falta de prequestionamento como a ausência de impugnação específica impedem o conhecimento do recurso lastreado, também, na alínea c do permissivo constitucional.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. A ausência de enfrentamento, pelo Tribunal de origem, da tese de que o dano moral seria in re ipsa impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Os óbices das Súmulas 282/STF e 283/STF aplicam-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional, restando prejudicada a análise do dissídio jurisprudencial alegado.
+5. Agravo interno desprovido. (AgInt no REsp n. 1.970.022/SP, relator Ministro Ministro Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - sem grifo no original)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS AUTÔNOMOS APRESENTADOS PELO TJMA. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
