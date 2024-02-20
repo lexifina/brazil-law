@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Adriana Cardoso Paiva - atacando-se o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (HC n. 0700679-50.2024.8.07.0000 - fls. 138/142) que manteve as medidas cautelares (de obrigação de manter o endereço atualizado; proibição de se ausentar do Distrito Federal sem comunicar ao juízo; proibição de retornar ao local do furto; e monitoração eletrônica pelo prazo de 90 dias - fl. 60) impostas à paciente, em 11/1/2024, pela prática, em tese do crime de furto simples (fls. 58/61 - Autos n. 0700170-83.2024.8.07.0012, da Vara Criminal e do Tribunal do Júri da circunscrição judiciária de São Sebastião/DF) -, não comporta processamento.
+Com efeito, busca a impetração a revogação da medida cautelar de monitoração eletrônica, ao argumento deficiência de fundamentação, assentando que a cautelar, por provocar limitações ao direito de locomoção, possui conteúdo gravoso e severamente restritivo, devendo ser aplicada apenas quando não for cabível a sua substituição por outra medida cautelar, em evidente subsidiariedade, merecendo prevalência, apenas, em relação à decretação da prisão preventiva (fls. 11/12).
+Da atenta análise dos autos observa-se que não se verifica constrangimento quanto à fundamentação das medidas cautelares diversas da prisão, pois demonstrado o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a reiteração criminosa da paciente - possui dois processos anteriores por furto suspensos pelo art. 366 do CPP (fl. 59) -, apresentando, assim, fundamento apto a consubstanciar a medida.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO SIMPLES. MEDIDA CAUTELAR. MONITORAÇÃO ELETRÔNICA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO CRIMINOSA. FUNDAMENTAÇÃO IDÔNEA. CAUTELAR MANTIDA.
+Inicial indeferida liminarmente.
