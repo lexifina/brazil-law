@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Miriam Gomes Alves dos Santos - presa preventivamente pela prática, em tese, do delito previsto no art. 121, caput, c/c o art. 14, II, ambos do Código Penal, nos autos da Ação Penal n. 0009064-13.2023.8.13.0512, em trâmite na Vara Criminal da comarca de Pirapora/MG -, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais, que denegou o HC n.1.0000.23.319015-6/000 (fls. 15/20).
+Alega-se, em síntese, a ausência de fundamentação idônea para a decretação da prisão preventiva, que estaria baseada na gravidade abstrata do delito, além de indicar a viabilidade de imposição de cautelares diversas da prisão.
+Aponta-se a possibilidade substituição da prisão preventiva pela domiciliar, pois a paciente é mãe de crianças de pouquíssima idade, sendo certo que a filha mais nova da autuada possui pouco mais de um ano, necessitando, ainda, de amamentação. Com efeito, fica evidentemente que os infantes são completamente dependentes dos cuidados de sua genitora (fls. 12/13).
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva. Subsidiariamente, postula-se a concessão de prisão domiciliar.
+É o relatório.
+A insurgência não merece prosperar.
+Com efeito, ao manter a segregação cautelar da paciente, a Corte estadual logrou demonstrar elementos concretos a evidenciar a necessidade da constrição para garantia da ordem pública ao destacar a gravidade concreta do delito em tese praticado, notadamente o modus operandi supostamente empregado (a paciente teria desferido em via pública três facadas em desfavor da vítima, vindo esta a ficar internada), imperiosa se mostra a manutenção da sua segregação cautelar (fl. 17 - grifo nosso), inferindo-se daí motivação idônea para a prisão preventiva.
+No mais, não há falar em ilegalidade no indeferimento do pedido de prisão domiciliar. Isso porque o art. 318-A do Código de Processo Penal, com a redação dada pela Lei n. 13.769/2018, dispõe que a prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que: I) não tenha cometido crime com violência ou grave ameaça à pessoa; e II) não tenha cometido o crime contra seu filho ou dependente.
+Na espécie, contudo, o crime imputado (homicídio qualificado) encontra-se entre as exceções para a concessão da prisão domiciliar pela condição de genitora de filhos menores de 12 anos, já que o delito foi cometido mediante violência.
+Nesse contexto, vale ressaltar que eventuais condições pessoais favoráveis da paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva, sendo certo que, havendo nos autos elementos hábeis a recomendar a manutenção da sua custódia máxima, não se mostram suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento ilegal.
+Em face do exposto, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. GARANTIA DA ORDEM PÚBLICA. ELEMENTOS CONCRETOS. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. ART. 318, I II E V, DO CPP. GENITORA DE CRIANÇA MENOR DE DOZE ANOS DE IDADE. INVIABILIDADE. CRIME PRATICADO COM VIOLÊNCIA OU GRAVE AMEAÇA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ indeferido liminarmente.
