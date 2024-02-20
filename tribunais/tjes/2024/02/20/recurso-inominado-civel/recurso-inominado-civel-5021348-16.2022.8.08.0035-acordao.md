@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5021348-16.2022.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA
+RECORRIDO: ISABELA MARIANI ROGERIO
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+
+AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FRAUDE EM COMPRA. AUSÊNCIA DE RESPONSABILIDADE. CULPA EXCLUSIVA DO CONSUMIDOR OU DE TERCEIRO. DANO MORAL NÃO CONFIGURADO. NARRA A AUTORA QUE UTILIZOU A PLATAFORMA DA RÉ PARA ANUNCIAR A VENDA DE UM EQUIPAMENTO DE FOTOGRAFIA, TENDO RECEBIDO UM E-MAIL QUE CONFIRMAVA A VENDA DO BEM NO VALOR DE R$3.675,00 JUNTO AOS DADOS DO COMPRADOR. APÓS O RECEBIMENTO DAS INFORMAÇÕES A REQUERENTE REALIZOU TODOS OS PROCEDIMENTOS, PASSO A PASSO E COM CUIDADO UMA VEZ QUE ERA SUA PRIMEIRA VENDA, POSTANDO O OBJETO NOS CORREIOS, PAGANDO O VALOR DE R$137,88. APÓS 05 DIAS O ITEM FOI RECEBIDO E PARA A SURPRESA DA DEMANDANTE O VALOR NÃO FOI RECEBIDO, AO ENTRAR EM CONTATO COM A EMPRESA REQUERIDA FOI AFIRMADO DE QUE HAVIA O DESCONHECIMENTO DA VENDA REALIZADA, CAUSANDO À AUTORA UM PREJUÍZO DE R$3.812,88. RAZÃO NA QUAL ENTROU EM JUÍZO BUSCANDO: A) RESTITUIÇÃO DA QUANTIA DE R$3.812,88, B) DANOS MORAIS NO VALOR DE R$5.000,00. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS DA INICIAL PARA CONDENAR A REQUERIDA: A) NA RESTITUIÇÃO DE R$3.812,88 E B) NO PAGAMENTO DE R$4.000,00 À TÍTULO DE DANOS MORAIS. RECURSO INOMINADO ALEGANDO ILEGITIMIDADE PASSIVA, NO MÉRITO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS E SUBSIDIARIAMENTE A MINORAÇÃO DO DANO MORAL. PRELIMINAR JÁ AFASTADA, COM ACERTO. NO MÉRITO, SENTENÇA DEVIDAMENTE FUNDAMENTADA. QUANTUM ADEQUADO PARA AS CIRCUNSTÂNCIAS FÁTICAS.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DAS PARTES RECORRENTES AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO
+.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
