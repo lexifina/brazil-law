@@ -1,0 +1,1 @@
+Art. 6º A. As diferentes instâncias gestoras do Sistema Único de Saúde (SUS) ficam obrigadas a disponibilizar nas respectivas páginas eletrônicas na internet os estoques de medicamentos das farmácias públicas que estiverem sob sua gestão, com atualização quinzenal, de forma acessível ao cidadão comum.
