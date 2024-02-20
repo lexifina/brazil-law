@@ -1,0 +1,60 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5014001-87.2022.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: NEON PAGAMENTOS S.A.
+RECORRIDO: BANCO VOTORANTIM S.A. e outros
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIÇOS BANCÁRIOS. COMPRA NÃO RECONHECIDA EM CARTÃO DE CRÉDITO. ADUZ A AUTORA QUE TEVE SEU NOME NEGATIVADO E, AO PROCURAR A ORIGEM DO DÉBITO, SOUBE QUE SE REFERIA A EMPRÉSTIMO JAMAIS CONTRATADO JUNTO AO BANCO VOTORANTIM, CUJO VALOR TOMADO EMPRESTADO FOI DEPOSITADO EM CONTA MANTIDA JUNTO AO BANCO NEON. RELATA QUE LOGO APÓS A COMPENSAÇÃO DO CRÉDITO, HOUVE DÉBITO RELATIVO A COMPRA EM CARTÃO DE CRÉDITO EM ESTABELECIMENTO DE SÃO PAULO, QUE NÃO FEZ PORQUE ENCONTRAVA-SE EM PASTELARIA EM SEU BAIRRO. PUGNOU PELA DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO COBRADO E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA QUE JULGOU OS PEDIDOS AUTORAIS PARCIALMENTE PROCEDENTES, CONDENANDO AS RÉS NO PAGAMENTO DE R$4.000,00 A TÍTULO DE DANOS MORAIS. RECURSO INOMINADO DO BANCO NEON PUGNANDO POR REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO DA RÉ CONHECIDO E IMPROVIDO.
+A CAUSA DE PEDIR EM RELAÇÃO À RECORRENTE ESTÁ NA FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS, EIS QUE A AUTORA NÃO TERIA REALIZADO COMPRA QUE EM CARTÃO DE CRÉDITO. SOBRE TAIS FATOS, A DEFESA POUCO SE MANIFESTA, LIMITANDO-SE A DEFENDER, GENERICAMENTE, QUE A COMPRA FOI FEITA MEDIANTE APRESENTAÇÃO DO CARTÃO E INSERÇÃO DE SENHA. NÃO SE DESINCUMBIU A RECORRENTE DE COMPROVAR A REGULARIDADE DA TRANSAÇÃO, ÔNUS QUE LHE COMPETIA EM RAZÃO DO QUE PREVÊ O ART. 6º, INC. VIII DO CDC. AUSÊNCIA DE FATOS MODIFICATIVOS, EXTINTIVOS OU SUSPENSIVOS DO DIREITO DA AUTORA. SENTENÇA ESCORREITA AO DECLARAR A INEXIGIBILIDADE DAS COBRANÇAS E CONDENAR AS RÉS NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+QUANTUM
+INDENIZATÓRIO FIXADO COM RAZOABILIDADE E PROPORCIONALIDADE, NÃO COMPORTANDO REDUÇÃO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+.
+
+POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENAÇÃO DA PARTE RECORRENTE EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% (DEZ PORCENTO) SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+É como voto.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
