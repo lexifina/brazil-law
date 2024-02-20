@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por AROLDO PALHARES DA SILVA NETO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 308-314, e-STJ):
+AÇÃO DE REVISÃO CONTRATUAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO DO AUTOR IMPROVIDA. CONTRATOS BANCÁRIOS. DANOS MORAIS. NÃO CONFIGURAÇÃO. INDENIZAÇÃO REJEITADA. HONORÁRIOS DE ADVOGADO. MANUTENÇÃO. A situação de discussão contratual não atingiu a própria esfera de proteção extrapatrimonial do autor, ainda que ocorridos dissabores pela diferença de juros remuneratórios. Em relação aos honorários de sucumbência, mantenho como fixada em primeiro grau, apesar da atuação recursal dos nobres advogados das partes. Os honorários em favor do advogado do autor, refletiram o benefício econômico obtido, até para se evitar uma situação de incongruência (em que o advogado se beneficia mais de uma ação do que o próprio cliente, mormente nessas ações repetitiva se de baixa complexidade e quase sem proveito econômico ao consumidor). Não há motivo para elevação dos honorários de advogado.
+Ação julgada parcialmente procedente.
+SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Nas razões do recurso especial (fls. 316-327, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i) 85, §§8º e 8º-A, do CPC/2015, diante da necessidade majoração dos honorários advocatícios sucumbenciais;
+Contrarrazões às fls. 362-366, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Conforme estabelecido pela Corte Especial do STJ, no julgamento do Tema 1076, "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo." (REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022.)
+No caso em tela, nota-se que o Tribunal local manteve honorários advocatícios fixados em 15% sobre o valor do proveito econômico auferido pelo autor, estabelecido em sentença em R$ 262,96, ou seja, R$ 39,44.
+No ponto, relevante a menção ao seguinte trecho do acórdão recorrido (fl. 313, e-STJ):
+Por fim, em relação aos honorários de sucumbência, mantenho como fixada em primeiro grau, apesar da atuação recursal dos nobres advogados das partes. Os honorários em favor do advogado do autor, refletiram o benefício econômico obtido, até para se evitar uma situação de incongruência (em que o advogado se beneficia mais de uma ação do que o próprio cliente, mormente nessas ações repetitivas e de baixa complexidade e quase sem proveito econômico ao consumidor).
+Não há motivo para elevação dos honorários de advogado, inclusive porque se verificou sucumbência recíproca.
+Igualmente importante a referência ao excerto da sentença em que há a quantificação da condenação (fls. 271-272, e-STJ):
+Nesse caso, ante a abusividade, necessária sua redução à taxa média de mercado. De rigor, portanto, a restituição dos valores pagos a maior que, de acordo com o perito judicial, referem-se a R$ 93,91 em relação ao contrato nº 020160029114, R$ 94,12 em relação ao contrato nº 020160030804 e R$74,93 com relação ao contrato nº 020160031420 totalizando R$262,96 (fl. 234). Consigno, todavia, que a restituição dos valores cobrados em excesso deve se dar de forma simples.
+Nesse contexto, considerando-se que o proveito econômico auferido pelo vencedor é irrisório, de rigor a fixação de honorários advocatícios com base no art. 85, § 8º, do CPC/2015. Nesse cenário, tendo em vista o proveito econômico auferido pelo representado pelos advogados ora recorrentes, a complexidade da causa, o local de prestação dos serviços, arbi tram-se honorários advocatícios no valor de R$ 800,00 (oitocentos reais)
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dou provimento ao recurso especial, com o objetivo de majorar os honorários advocatícios sucumbenciais devidos aos advogados do ora recorrente para R$ 800,00 (oitocentos reais).
+Publique-se.
+Intimem-se.
+EMENTA
