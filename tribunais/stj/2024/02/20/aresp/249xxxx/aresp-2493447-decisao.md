@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por INSTITUTO SANTANENSE DE ENSINO SUPERIOR , contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, da Constituição Federal.
+Agravo em recurso especial interposto em: 07/08/2023.
+Concluso ao gabinete em: 26/01/2024.
+Ação: rescisória de contrato, cumulada com pedido de indenização por danos morais e materiais e pedido de tutela antecipada de urgência ajuizada por ISAAC MORENO MENEZES MELO em face da OPEN EDUCACAO LTDA. e do agravante.
+Acórdão: negou provimento aos recursos dos agravantes e parcial provimento ao recurso do autor, nos termos da seguinte ementa (e-STJ Fl. 907):
+"APELAÇÕES CÍVEIS. Ação Rescisória de Contrato c/c pedido de indenização por danos morais e materiais e pedido de tutela antecipada de urgência. Estabelecimentos de Ensino. Sentença de parcial procedência. Inconformismo. Parcial acolhimento. Pretensão de concessão da assistência judiciária gratuita. Deferimento. Declaração de pobreza devidamente acostada ao Feito. Inteligência do artigo 99, § 3º do NCPC. Reconhecimento da legitimidade passiva da Unisant"Anna, pois as Instituições Rés se coligaram para oferecerem ao Mercado um produto/serviço. Danos materiais configurados, sendo de rigor a restituição. Ao Autor não foi disponibilizado o intercâmbio contratado. Dano moral caracterizado e fixado em R$ 5.000,00 (cinco mil reais) devido pelas Empresas Rés. O Autor sofreu angústia e sofrimento ao ver se privado indevidamente de cursar o intercâmbio. RECURSOS DAS EMPRESAS RÉS NÃO PROVIDOS. RECURSO DO AUTOR PARCIALMENTE PROVIDO tão somente para conceder os benefícios da Justiça Gratuita ao Autor.".
+Recurso especial: interposto pelo agravante, foi inadmitido pelo TJ/SP com base nos seguintes fundamentos: (i) ausência de demonstração da violação aos arts. 49 e 53 da Lei 9.394/96; (ii) incidência da Súmula 7/STJ; e iii) quanto ao dissídio jurisprudencial, ausência de cotejo analítico e demonstração de similitude fática.
+RELATADO O PROCESSO, DECIDE-SE.
+Da leitura da petição do agravo em recurso especial (e-STJ Fls. 1027/1034), verifica-se que o agravante não impugnou, especificamente, os fundamentos da decisão agravada.
+Com efeito, a parte limitou-se a tecer alegações genéricas de não cabimento de análise de mérito pelo tribunal de origem, sem demonstrar a violação aos arts. 49 e 53 da Lei 9.394/96, a inaplicabilidade da Súmula 7/STJ e a comprovação do alegado dissídio jurisprudencial.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão de inadmissão do recurso especial, a teor do disposto na Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ Fl. 655) para 12%, observados os efeitos da concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
