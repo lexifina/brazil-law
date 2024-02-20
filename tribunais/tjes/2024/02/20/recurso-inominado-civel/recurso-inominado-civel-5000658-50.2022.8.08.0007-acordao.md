@@ -1,0 +1,48 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000658-50.2022.8.08.0007
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: ANA CLARA LINO NEPOMUCENO BRAGA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CRIMINAL E FAZENDA PÚBLICA. RECURSO INOMINADO.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS E TUTELA PROVISÓRIA. NEGATIVAÇÃO. SOLUÇÃO ADMINISTRATIVA PRÉVIA. IMPEDIMENTO DE REALIZAÇÃO DE CONTRATO. NARRA A REQUERENTE QUE FOI A UMA LOJA DA VIVO PARA CONTRATAR UM PLANO DE TELEFONIA QUE FOI NEGADO EM RAZÃO DA EXISTÊNCIA DE DÍVIDAS EM ABERTO. OCORRE QUE A REQUERENTE JAMAIS TEVE QUALQUER VÍNCULO CONTRATUAL COM A REQUERIDA E DESCONHECIA TAIS DÍVIDAS, TOMANDO CONHECIMENTO DESTAS POR MEIO DE CONSULTA JUNTO AO CDL, ONDE CONSTAVA A NEGATIVAÇÃO DE SEU NOME. FOI TENTADA SOLUÇÃO JUNTO AO PROCON NA QUAL A REQUERIDA ACEITOU REMOVER A NEGATIVAÇÃO, SÓ QUE NO ENTANTO NÃO DEMONSTROU NENHUM COMPROVANTE, ALÉM DE QUE A PLEITEANTE SE SENTIU CONSTRANGIDA POR TER SIDO ADICIONADA AO ROL DOS INADIMPLENTES. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) LIMINARMENTE A REMOÇÃO DA NEGATIVAÇÃO EM SEU NOME E B) DANOS MORAIS NO VALOR DE R$24.240,00. SENTENÇA DE PISO JULGOU PROCEDENTES OS PEDIDOS DA INICIAL PARA: A) DECLARAR INEXISTENTES OS DÉBITOS DISCUTIDOS NOS AUTOS, B) DECLARAR ILÍCITAS AS INSCRIÇÕES DE NEGATIVAÇÃO NO NOME DO REQUERENTE EM ÓRGÃOS DE PROTEÇÃO, C) CONFIRMAR A TUTELA DEFERIDA NOS AUTOS E D) CONDENAR A RÉ NO PAGAMENTO DE R$2.000,00 À TÍTULO DE DANOS MORAIS. RECURSO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS DA EXORDIAL E SUBSIDIARIAMENTE A REDUÇÃO DO DANO MORAL.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA DEVIDAMENTE FUNDAMENTADA. QUANTUM ADEQUADO PARA AS CIRCUNSTÂNCIAS FÁTICAS.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DAS PARTES RECORRENTES AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO
+.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
