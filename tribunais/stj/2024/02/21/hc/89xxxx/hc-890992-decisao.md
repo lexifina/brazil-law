@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em nome de Jose Carlos Pettengill - condenado por crimes licitatórios de fraude a pregão a 2 anos de reclusão e 10 dias-multa, em regime inicial aberto, substituída por duas penas restritivas de direitos -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul (HC n. 1418199-75.2023.8.12.0000 - fls. 9/14) que manteve a condenação do paciente na sentença prolatada na Ação Penal n. 0018279-02.2015.8.12.0001 (fl. 11), da 2ª Vara Criminal da comarca de Campo Grande/MS.
+Alega-se constrangimento ilegal consistente na ausência da possiblidade de celebrar acordo de não persecução penal (ANPP) e requer-se, então, a concessão da ordem, inclusive em caráter liminar, para que seja assegurado ao paciente o direito correspondente ao poder-dever do Ministério Público de oferecer proposta de Acordo de Não Persecução Penal, determinando-se a retroatividade de lei de natureza material penal e processual penal mais favorável (fl. 8).
+É o relatório.
+Razão não assiste à impetração, uma vez que esta Corte entende que o ANPP se aplica a fatos ocorridos antes da Lei n. 13.964/2019, desde que não recebida a denúncia. Nesse sentido: AgRg no REsp n. 2.021.432/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/12/2023, DJe 15/12/2023; e, AgRg no HC n. 872.940/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe 15/12/2023 .
+Ademais, o acordo de não persecução penal não constitui direito subjetivo do investigado, podendo ser proposto pelo Ministério Público conforme as peculiaridades do caso concreto e quando considerado necessário e suficiente para a reprovação e a prevenção da infração penal (AgRg no REsp n. 2.002.178/SP, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, DJe 24/6/2022).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. USO DE DOCUMENTO FALSO (ART. 304 DO CP). ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). PRETENSÃO DE APLICAÇÃO RETROATIVA DO INSTITUTO APÓS RECEBIMENTO DA DENÚNCIA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
