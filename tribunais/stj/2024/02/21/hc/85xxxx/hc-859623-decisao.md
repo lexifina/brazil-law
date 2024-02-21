@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Jorge Teixeira Junior, em que se aponta como autoridade coatora a Nona Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (Processo n. 1509598-45.2023.8.26.0050) que o paciente foi condenado, pelo Juízo da 3ª Vara Criminal da comarca da Capital/SP, como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 2 anos, 8 meses e 15 dias de reclusão, em regime semiaberto, e 270 dias-multa, em face da apreensão de 15 g de cocaína, 24,7 g de crack e 215 g de maconha (fls. 25/29).
+Em sede de apelação (Apelação Criminal n. 1509598-45.2023.8.26.0050), a defesa requereu a redução da pena-base ao mínimo legal e o reconhecimento do art. 33, § 4º, da Lei de Drogas, em sua fração máxima, bem como o abrandamento do regime e a substituição da pena privativa por restritivas de direitos. A Nona Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 49/63). O julgado recebeu a seguinte ementa (fl. 50):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - Sentença condenatória - Ausência de insurgência contra a autoria e a materialidade delitivas, sendo referidas matérias, portanto, incontestes e irrecorríveis - Possibilidade de aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar intermediário - Regime semiaberto adequado e compatível com a gravidade do delito perpetrado e, ainda, como quantum da reprimenda imposta, em consonância com o atual entendimento firmado nas Cortes Superiores - Impossibilidade de substituição da pena privativa de liberdade pela restritivas de direitos, diante da reprovabilidade da conduta perpetrada - Inviabilidade de aplicação do instituto da detração Justiça Gratuita - Matéria a ser avaliada pelo juízo das execuções, quando o acusado será chamado a satisfazer a obrigação e que foge aos limites do apelo. RECURSO DEFENSIVO NÃO PROVIDO.
+No presente writ, a defesa aponta ilegalidade na dosimetria. Afirma ser devida a fixação da fração máxima para o art. 33, § 4º, da Lei de Drogas, e substituída a privativa por restritivas de direitos.
+Decisão deste Relator indeferindo a liminar (fls. 68/69).
+Prestadas informações pelo Tribunal de Justiça de São Paulo (fls. 77/98).
+Parecer ministerial opinando pela denegação da ordem (fls. 129/131).
+É o relatório.
+Verifica-se dos autos que a pena-base foi fixada em 1 ano e 6 meses de reclusão, acima do piso mínimo, em razão da quantidade e natureza das drogas (15 g de cocaína, 24,7 g de crack e 215 g de maconha), portanto, fixada em 6 anos e 6 meses de reclusão, e 660 dias-multa.
+Na segunda fase, a pena foi reduzida na fração de 1/6, em face da confissão espontânea, chegando a 5 anos e 5 meses de reclusão, e 550 dias-multa.
+Na terceira fase, o Magistrado reconheceu a causa de diminuição da pena, porém, na fração de 1/2, nos seguintes termos (fl. 28):
+ ..
+No caso dos autos, o réu estava em típica situação de tráfico a varejo, denotando uma ação não absolutamente isolada e ocasional, mas sim que iria se repetir, razão pela qual a redução deve se afastar do piso. Porém, por outro lado, confessou o delito, demonstrando arrependimento, e não há indicação de maior proximidade com outros delitos ou o grande tráfico, razão pela qual tenho como adequada e suficiente a redução pela metade.
+ ..
+Entendo que razão assiste à defesa, e a fração de redução deve ser elevada para o máximo de 2/3. O paciente é primário, sem antecedentes e todas as circunstâncias foram consideradas favoráveis a ele, à exceção da quantidade de drogas, que já elevou a pena-base em 18 meses. De acordo com a sentença, não há comprovação definitiva de que fosse envolvido com organizações ou outras práticas criminosas (fl. 27).
+De acordo com os fundamentos da sentença, parece que a elevação da pena-base, na terceira fase, foi feita pelo fato de estar o paciente praticando o delito de tráfico de drogas, o que parece trazer constrangimento ilegal ao réu. Assim, deve ser aplicada a fração de 2/3 sobre a pena provisória, e a pena final se torna definitiva em 1 ano, 9 meses e 27 dias de reclusão, e 183 dias-multa.
+Por não ser o paciente reincidente, deve ser fixado o regime aberto e substituída a pena privativa por duas penas restritivas de direitos.
+Ante o exposto, concedo a ordem a fim de redimensionar a pena do paciente para 1 ano, 9 meses e 27 dias de reclusão, em regime aberto, e 183 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos a serem fixadas pelo Juízo de execução.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 15 G DE COCAÍNA, 24,7 G DE CRACK E 215 G DE MACONHA. DOSIMETRIA. ELEVAÇÃO DA PENA-BASE PELA QUANTIDADE DE DROGAS. TERCEIRA FASE. POSSIBILIDADE DA FIXAÇÃO DA FRAÇÃO DE 2/3 PARA A CAUSA DE DIMINUIÇÃO DA PENA, PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. PACIENTE PRIMÁRIO E SEM ANTECEDENTE. NÃO COMPROVAÇÃO DE DEDICAÇÃO AO TRÁFICO. REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA POR DUAS RESTRITIVAS DE DIREITOS.
+Ordem concedida nos termos do dispositivo.
