@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno por HELIO PEDRO JUNIOR e OUTROS de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 32):
+EXECUÇÃO CONTRA A FAZENDA
+Cumprimento de sentença acolhendo ação ajuizada por servidores estaduais inativos pretendendo o recálculo dos adicionais temporais. Pretensão de habilitação direta dos herdeiros. Cabimento. Possibilidade de levantamento, contudo, mediante comprovação, por eles, de regular partilha do crédito em questão, pela via judicial ou extrajudicial. Precedentes.
+Recurso provido, em parte.
+No recurso inadmitido a parte ora agravante sustenta violação aos arts. 110, 687, 688 e 689 do CPC, ao argumento de que "mesmo que exista inventário em andamento, é perfeitamente possível que a substituição processual seja feita em nome de seus sucessores, como no caso em tela" (fl. 67).
+Daí afirmar que "a legislação processual civil não obriga a realização de partilha ou sobrepartilha do bem jurídico em tela (valor oriundo de depósito judicial de Ofício Requisitório de Pequeno Valor) para que os sucessores pratiquem os atos processuais inerentes à condição de parte, como no caso em tela, o levantamento do valor depositado judicialmente pela Fazenda Pública Estadual" (fl. 68).
+Aduz, ainda, a ocorrência de dissídio jurisprudencial.
+Já no agravo, aduz que os pressupostos de admissibilidade do apelo nobre encontram-se presentes, repisando as razões nele expendidas.
+Sem contraminuta (fl. 184).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Preenchidos os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+Na forma da jurisprudência desta Corte, "o Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF" (AgInt no REsp n. 1.846.621/MA, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 11/12/2020).
+Nesse mesmo sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. "A inépcia da petição inicial, escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (REsp 1.134.338/RJ, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 29/9/11).
+2. Hipótese em que a petição inicial, além de descrever de forma objetiva os fatos (candidato inscrito em concurso público que, aprovado nas fases iniciais, foi obstado de continuar no certame por não lograr êxito no teste psicotécnico), informa o direito subjetivo supostamente ofendido, ensejador do writ, sem causar qualquer espécie de embaraço à defesa do réu ou à efetiva prestação jurisdicional, tanto assim que o pedido foi julgado procedente.
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 17/3/2014) - Grifo nosso
+Destarte, uma vez que a parte recorrente não indicou o dispositivo de lei federal a respeito do qual haveria o alegado dissenso pretoriano, nesse ponto incide o óbice da Súmula 284S/STF.
+Lado outro, observa-se que o Tribunal de origem deu parcial provimento ao subjacente agravo de instrumento a fim de "permitir a habilitação direita dos sucessores de Dulce Batista Pedro, Juracy Carvalho Madeira e João Ricaro Goyos Sicoli" (fl. 35), motivo pelo qual em relação a esse ponto (habilitação no processo), inexiste interesse recursal dos ora recorrentes.
+Por sua vez, também se extrai do acórdão recorrido que a Corte estadual condicionou "o levantamento pleiteado à apresentação da certidão de inventariante ou formal de partilha, nos termos do art. 655 do CPC, ou da escritura de inventário e partilha, prevista na Lei 11.441/2007 c/c o art. 610, § 1º, do CPC" (fl. 35).
+Ocorre que os arts. 687, 688 e 689 nada dispõem a respeito dessa questão - requisitos para levantamento de valores devidos ao de cujus, por seus herdeiros ou inventariante -, motivo pelo qual incidem na espécie as Súmulas 283 e 284/STF.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
