@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDACAO SAUDE ITAU (FUNDACAO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, FUNDACAO alegou a violação aos arts. 302, parágrafo único, 520, 489, § 1º, IV, e 1.022, parágrafo único, II, todos do CPC, ao sustentar que é objetiva a responsabilidade pelos efeitos da tutela antecipada deferida e que eventual liquidação dos prejuízos decorrentes da antecipação de tutela posteriormente revogada, deveria ser realizada em autos próprios (e-STJ, fls. 93/101).
+Pois bem!
+No caso, o TJSP consignou que
+ ..  o título executivo judicial se refere tão somente ao valor das custas e despesas processuais, mais os honorários advocatícios fixados.
+As diferenças da mensalidade do plano de saúde devem ser demandadas na via própria, porque os valores foram adimplidos com amparo em ordem judicial, ainda que de forma precária e provisória, em atenção ao devido processo legal, ampla defesa e contraditório. Não há também que se falar em liquidação de valores, porque inexiste título executivo judicial (e-STJ, fls. 89/90).
+Assim o fazendo o acórdão recorrido vai de encontro com o entendimento firmado na Segunda Seção do STJ de que a obrigação de indenizar o dano causado pela execução de tutela antecipada posteriormente revogada é consequência natural da improcedência do pedido, decorrência ex lege da sentença, e, por isso, independe de pronunciamento judicial, dispensando também, por lógica, pedido da parte interessada.
+Confira-se a ementa do referido precedente:
+PROCESSUAL CIVIL E PREVIDÊNCIA COMPLEMENTAR. RECURSO ESPECIAL. APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. JULGAMENTO AFETADO À SEGUNDA SEÇÃO PARA PACIFICAÇÃO DE MATÉRIA NO ÂMBITO DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REPARAÇÃO DE DANO, DECORRENTE DE MEDIDA DEFERIDA NOS AUTOS. POSSIBILIDADE. RESPONSABILIDADE PROCESSUAL OBJETIVA. RECONHECIMENTO POSTERIOR DA INEXISTÊNCIA DO DIREITO. OBRIGAÇÃO DE REPARAR O DANO PROCESSUAL. DECORRE DA LEI, NÃO DEPENDENDO DE PRÉVIOS RECONHECIMENTO JUDICIAL E/OU PEDIDO DO LESADO. POSSIBILIDADE DE DESCONTO, COM ATUALIZAÇÃO MONETÁRIA, DO PERCENTUAL DE 10% DO MONTANTE DO BENEFÍCIO SUPLEMENTAR, ATÉ QUE OCORRA A COMPENSAÇÃO DO DANO. UTILIZAÇÃO DE ANALOGIA. LEI N. 8.112/1990.
+1. Os danos causados a partir da execução de tutela antecipada (assim também a tutela cautelar e a execução provisória) são disciplinados pelo sistema processual vigente à revelia da indagação acerca da culpa da parte, ou se esta agiu de má-fé ou não. Com efeito, à luz da legislação, cuida-se de responsabilidade processual objetiva, bastando a existência do dano decorrente da pretensão deduzida em juízo para que sejam aplicados os arts. 273, § 3º, 475-O, incisos I e II, e 811 do CPC/1973 (correspondentes aos arts. 297, parágrafo único, 520, I e II, e 302 do novo CPC).
+2. Em linha de princípio, a obrigação de indenizar o dano causado pela execução de tutela antecipada posteriormente revogada é consequência natural da improcedência do pedido, decorrência ex lege da sentença, e, por isso, independe de pronunciamento judicial, dispensando também, por lógica, pedido da parte interessada. A sentença de improcedência, quando revoga tutela antecipadamente concedida, constitui, como efeito secundário, título de certeza da obrigação de o autor indenizar o réu pelos danos eventualmente experimentados, cujo valor exato será posteriormente apurado em liquidação nos próprios autos.
+3. É possível reconhecer à entidade previdenciária, cujo plano de benefícios que administra suportou as consequências materiais da antecipação de tutela (prejuízos), a possibilidade de desconto no percentual de 10% do montante total do benefício mensalmente recebido pelo assistido, até que ocorra a integral compensação da verba percebida. A par de ser solução equitativa, a evitar o enriquecimento sem causa, cuida-se também de aplicação de analogia, em vista do disposto no art. 46, § 1º, da Lei n. 8.112/1990 - aplicável aos servidores públicos.
+4. Ademais, por um lado, os valores recebidos precariamente são legítimos enquanto vigorar o título judicial antecipatório, o que caracteriza a boa-fé subjetiva do autor; entretanto, isso não enseja a presunção de que tais verbas, ainda que alimentares, integram o seu patrimônio em definitivo. Por outro lado, as verbas de natureza alimentar do Direito de Família são irrepetíveis, porquanto regidas pelo binômio necessidade-possibilidade, ao contrário das verbas oriundas da suplementação de aposentadoria. (REsp 1555853/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 16/11/2015)
+5. Recurso especial não provido.
+(REsp 1.548.749/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. 13/4/2016, DJe 6/6/2016)
+Nesse sentido, confiram-se ainda os seguintes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS DECORRENTES DE EXECUÇÃO DE TUTELA ANTECIPADA. RESPONSABILIDADE OBJETIVA. SÚMULA N. 83/STJ.
+1. A responsabilidade processual decorrente da efetivação de tutela de urgência é objetiva; a correspondente obrigação de indenizar é corolário natural da improcedência do pedido. Incidência da Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.983.744/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022 - sem destaques no original)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. MARCAS E PATENTES. DECISÃO LIMINAR QUE SUSPENDEU A COMERCIALIZAÇÃO DE MEDICAMENTO. POSTERIOR REVOGAÇÃO. ART. 811 DO CPC/73. PREJUÍZOS QUE PODEM SER LIQUIDADOS NOS PRÓPRIOS AUTOS. REPARAÇÃO INTEGRAL. RESPONSABILIDADE PROCESSUAL OBJETIVA. DESNECESSIDADE DE PRONUNCIAMENTO JUDICIAL FIXANDO OBRIGAÇÃO DE REPARAR OS DANOS SOFRIDOS. RECURSO ESPECIAL PROVIDO.
+1.  ..
+2. A obrigação de indenizar o dano causado pela execução de tutela antecipada posteriormente revogada é consequência natural da improcedência do pedido, dispensando-se, nessa medida, pronunciamento judicial que a imponha de forma expressa.
+3. Nos termos da jurisprudência desta Corte, os danos causados a partir da execução de tutela antecipada suscitam responsabilidade processual objetiva e devem ser integralmente reparados (art. 944 do CC/02) após apurados em procedimento de liquidação levado a efeito nos próprios autos.
+4. Recurso especial provido.
+(REsp n. 1.780.410/SP, relator Ministro Paulo de Tarso Sanseverino, relator para acórdão Ministro Moura Ribeiro, Terceira Turma, julgado em 23/2/2021, DJe de 13/4/2021 - sem destaques no original)
+Assim, o acórdão recorrido merece reforma porque está em dissonância com o entendimento desta Corte, atraindo quanto ao ponto a aplicação da Súmula n.º 568 do STJ.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO AO RECURSO ESPECIAL, a fim de determinar o regular andamento do pedido de liquidação de sentença.
+Inaplicável ao caso a majoração dos honorários advocatícios.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. POSTERIOR REVOGAÇÃO. PREJUÍZOS QUE PODEM SER LIQUIDADOS NOS PRÓPRIOS AUTOS. REPARAÇÃO INTEGRAL. RESPONSABILIDADE PROCESSUAL OBJETIVA. DESNECESSIDADE DE PRONUNCIAMENTO JUDICIAL FIXANDO OBRIGAÇÃO DE REPARAR OS DANOS SOFRIDOS. PRECEDENTES. APLICAÇÃO DA SÚMULA N.º 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
