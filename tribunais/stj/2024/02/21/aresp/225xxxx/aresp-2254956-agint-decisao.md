@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interno interposto por CLEITON SANTOS DUARTE contra decisão monocrática proferida pela Ministra Maria Thereza de Assis Moura, Presidente desta Corte, por meio da qual não conheceu do agravo em recurso especial ao aplicar, por analogia, a Súmula 284/STF, ao fundamento de deficiência na fundamentação por ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial (fls. 159-160).
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 97):
+Apelação. Ação de obrigação de fazer c.
+c dever de informação c.c reparação de danos morais. Justiça gratuita indeferida. Extinção do processo. Alegações genéricas. Recurso não conhecido, com determinação.
+Sem embargos de declaração .
+Nas razões do presente agravo interno, o agravante sustenta a improcedência da incidência, no caso, da Súmula 284/STF, por deficiência na fundamentação, porquanto interpôs recurso especial com base nos arts. 6º e 14 da Lei n. 8.078/1990 e 12 da n. Lei 1.060/1950, em razão da pretensão relativa à indenização por danos morais, e isenção das custas processuais.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Apresentada contraminuta do agravo interno (fls. 171-182).
+É, no essencial, o relatório.
+Da detida análise dos autos, entendo que assiste razão à parte em relação à não incidência da Súmula 284/STF, por deficiência na fundamentação, o que legitima o conhecimento do agravo e impõe tornar sem efeito a decisão de fls. 159-160.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No recurso especial, o recorrente alega ofensa ao art. 99, § 2º, do CPC, c/c o art. 5º, caput, da Lei n. 1.060/1950, ao defender que faz jus ao benefício de justiça gratuita, cujo indeferimento é improcedente, considerando que comprovada a sua hipossuficiência a ensejar a concessão do referido benefício.
+Não merece prosperar o recurso.
+Com efeito, consigne-se inviável a apreciação das alegações do recorrente, considerando que a Corte de origem, ao entender que ele não comprovou sua hipossuficiência para fazer jus ao benefício de gratuidade de justiça e, intimado a recolher as custas iniciais, quedou-se inerte, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 99-101):
+O autor teve indeferido seu pedido de gratuidade da justiça e, interposto recurso de agravo de instrumento, restou verificado que, inobstante ele tivesse afirmado que estava desempregado, encontra-se vinculado a empresa de lanches em município do Estado de Minas Gerais (proc. nº 2236131-58.2020.8.26.0000).
+Por outro lado, intimado a recolher as custas iniciais, quedou-se inerte.
+Extinto o processo, o autor em seu recurso reitera seu pedido de gratuidade da justiça e, sem comprovar sua hipossuficiência financeira, limita-se a repetir os argumentos constantes na inicial. Todavia, as razões de apelação não impugnam os termos da r. sentença.
+Frise-se que comentários vagos sobre a sentença e alegações genéricas não suprem a necessidade de impugnação específica de seus fundamentos.
+(..)
+Assim, era de rigor o recolhimento das custas devidas para a continuidade do regular tramite do processo, mas como o autor não adotou tal providência, corretamente, o feito foi julgado extinto sem julgamento do mérito. O réu ofertou contrarrazões de apelação.
+Assim, o autor deverá arcar com o pagamento das custas, despesas processuais e honorários advocatícios, estes arbitrados em 10 % do valor atualizado da causa (vc = R$ 50.138,72).
+Diante desse quadro, por consequência, fica estabelecida a determinação para o apelante efetuar o recolhimento, em primeiro grau de jurisdição, do valor das custas e do preparo recursal, bem como do determinado na sentença apelada e de outros eventualmente devidos.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. 1. DOIS AGRAVOS INTERPOSTOS. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. ANÁLISE DO PRIMEIRO QUE FOI INTERPOSTO. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 3. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. 4. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 5. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. 6. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça consigna que, "em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porque electa una via non datur regressus ad alteram" (AgInt no AREsp n. 1.894.894/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/12/2021, DJe de 10/12/2021).
+2. A alegada ofensa ao art. 489 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+3. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais. " 3.1. Tendo a Corte local entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. Em relação à alegada violação ao art. 1.025 do CPC/2015, a agravante não apresentou em suas razões do recurso especial nenhuma tese jurídica relacionada à matéria referente ao dispositivo, que trata da hipótese de prequestionamento ficto. Portanto, tendo em vista a deficiência de fundamentação, incide, no ponto, o óbice da Súmula 284/STF.
+5. Consoante a jurisprudência desta Corte Superior, é inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.270.092/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/5/2023, DJe de 1º/6/2023.)
+Ante o exposto, em juízo de retratação, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos § 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
