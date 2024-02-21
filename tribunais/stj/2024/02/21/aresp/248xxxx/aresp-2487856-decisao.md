@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte (fl. 324, e-STJ):
+Apelação Cível - Ação Anulatória - Pretensão à desconstituição de débito de ICMS-importação constituído em São Paulo - Aplicação do art. 252 do Regimento Interno do Tribunal de Justiça de São Paulo para ratificação da bem fundamentada sentença em Primeiro Grau - Produtos importados incluídos na cadeia produtiva no Estado de São Paulo - Entendimento do Tema nº 520 do E. STF - Destinatário legal da mercadoria que se confundiu, no caso concreto, com a unidade filial de processamento da Apelante, situada em São Paulo - Impossibilidade de relevação da penalidade de multa - Ausência de pagamento do imposto e simulação de endereço final - Taxa SELIC já utilizada pelo Fisco como teto da incidência de consectários legais - Sentença mantida - Recurso não provido.
+Os Embargos de Declaração foram rejeitados (fl. 343, e-STJ).
+No Recurso Especial, a agravante alega violação dos arts. 369, 370, 373, 489, 927, III, 1.022 e 1.039 do CPC; 142 do CTN; e 11, I, "d", da LC 87/1996. Afirma que houve cerceamento de defesa e que se deixou de aplicar a orientação vinculante do Supremo Tribunal Federal. Requer a reforma da decisão recorrida "para que o débito de ICMS seja inteiramente cancelado como medida de direito" (fl. 364, e-STJ).
+Contrarrazões às fls. 405-435, e-STJ.
+Inadmitiu-se a irresignação (fls. 471-473, e-STJ), o que ensejou a interposição do Agravo de fls. 484-492, e-STJ.
+Contraminuta às fls. 513-518, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.12.2023.
+Inicialmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois o Colegiado originário julgou integralmente a lide e solucionou o conflito em conformidade com o que lhe foi apresentado. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+No julgamento dos aclaratórios, a Corte local asseverou (fl. 343, e-STJ):
+O julgado analisou expressamente a matéria dos autos, indicando de maneira fundamentada que: "embora tenha a Autora requerido prazo complementar de 30 dias quando questionada sobre a produção de provas, fato é que não elencou, para além da genérica "prova documental", qual espécie de documento pretendia trazer aos autos que já não estivesse em seu poder quando da apresentação da ação, ou mesmo em resposta a questões específicas suscitadas em contestação. Dessa maneira, a não apreciação do pedido - ou, em verdade, seu indeferimento tácito quando do julgamento antecipado -, em nada afetou o processo, restando não demonstrado qualquer prejuízo efetivo à instrução.
+O simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos Declaratórios, que servem ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida.
+Por outro lado, rever o entendimento consignado na origem quanto à não ocorrência de cerceamento de defesa requer revolvimento do conjunto fático-probatório dos autos, inadmissível na via especial ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ÔNUS DA PROVA. ART. 373, I, DO CPC. VERIFICAÇÃO DE QUE HOUVE CERCEAMENTO DO DIREITO DE DEFESA E DE QUE AS REMESSAS INDICADAS PELA AUTORA FORAM FEITAS A TÍTULO DE BONIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+4. No caso, o Tribunal de origem, com arrimo no acervo probatório, constatou a ausência de cerceamento de defesa, bem como a inexistência de prova de que as remessas indicadas foram feitas a título de bonificação, de modo que a revisão de tais premissas ensejaria o reexame da matéria fática, providência vedada nesta quadra recursal, nos termos da Súmula 7/STJ.
+5. Agravo interno não provido. (AgInt no AREsp 2.178.653/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 17/11/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ . PROVIMENTO NEGADO.
+(..)
+4. É entendimento sedimentado nesta Corte Superior de Justiça de que cabe ao juiz - entenda-se magistrado no sentido amplo, no primeiro ou no segundo grau -, na posição de destinatário da prova, determinar a produção das provas que considerar necessárias à formação do seu convencimento e indeferir aquelas irrelevantes ou protelatórias, sem que isso importe cerceamento de defesa ou violação ao comando normativo inserto nos arts. 369, 370, 371, 442, 464, 472 ou 479 do CPC/2015, de forma que o reexame da questão esbarraria no teor da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 2.136.746/SP, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 5/10/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA E DESNECESSIDADE DE PRODUÇÃO DE PROVA. SÚMULA N. 7/STJ.
+1. A jurisprudência desta Corte é no sentido de que o julgador, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+2. Alterar a conclusão do acórdão do Tribunal a quo acerca da análise das provas e da ausência de cerceamento de defesa demandaria reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ. Precedentes.
+3. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento. Precedentes.
+Agravo interno provido. (AgInt no AgInt no AREsp 661.203/ES, Rel. Ministro Humberto Martins, Segunda Turma, DJe 28/4/2023)
+No mais, ao dirimir a controvérsia, o Tribunal a quo concluiu (fl. 328, e-STJ):
+Dessa maneira, evidente que a interpretação cabível em relação ao alcançado pelo E. STF no julgamento do Tema nº 520, em repercussão geral, é a de que a matriz, embora tenha operacionalizado a importação, não era destinatária legal do produto, processado em sua filial paulista e lá tendo adentrado a cadeia produtiva: "O sujeito ativo da obrigação tributária de ICMS incidente sobre mercadoria importada é o Estado-membro no qual está domiciliado ou estabelecido o destinatário legal da operação que deu causa à circulação da mercadoria, com a transferência de domínio".
+Verifica-se que a matéria foi apreciada sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte Superior examiná-la, porquanto reverter o julgado significaria usurpar a competência do STF.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
