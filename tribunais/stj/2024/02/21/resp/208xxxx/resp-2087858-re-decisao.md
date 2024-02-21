@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 910-911):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA E SUPERVENIENTE CONDENAÇÃO BASEADAS APENAS EM ELEMENTOS PRODUZIDOS NA FASE DE INQUÉRITO. AUSÊNCIA DE PROVA JUDICIALIZADA. NULIDADE. RECURSO NÃO PROVIDO.
+1. Conforme orientação jurisprudencial desta Corte Superior, a superveniência de sentença penal condenatória pelo Tribunal do Júri, em regra, prejudica o exame de eventual nulidade da sentença de pronúncia. Entretanto, excepcionalmente, admite-se o exame de eventual nulidade da pronúncia, mesmo diante da superveniência de condenação, quando esta for baseada, apenas, em elementos da pronúncia que não são admitidos pelo ordenamento jurídico pátrio.
+2. Nos termos da jurisprudência atual, nem mesmo a pronúncia, que é proferida numa fase processual em que se observa o in dubio pro societate, pode estar fundamentada apenas em provas colhidas na fase investigativa ou em testemunhos de "ouvir dizer", muito menos se admite que uma condenação, que deve observar o in dubio pro reo, seja mantida pelas instâncias recursais com lastro nesse tipo de fundamentação (AgRg no AR
+Esp 1847375/GO, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 1º/6/2021, DJe de 16/6/2021).
+3. Nessa linha de intelecção, não há como se admitir uma condenação pelo Conselho de Sentença baseada apenas elementos produzidos na fase de inquérito, sem a produção de nenhuma prova judicializada.
+4. Na hipótese, o Tribunal de origem, na análise do apelo defensivo em que se pretendia a anulação da sentença condenatória proferida pelo Tribunal do Júri por considerá-la manifestamente contrária à prova dos autos, deu provimento ao recurso para anular a condenação do recorrido e, de ofício, desconstituiu a sentença de pronúncia.
+5. A decisão do Tribunal a quo está em conformidade com a jurisprudência desta Corte que em semelhante situação decidiu que: A solução mais acertada para o presente caso é não apenas desconstituir o julgamento pelo Conselho de Sentença, como também anular o processo desde a decisão de pronúncia - pois não havia como submeter o recorrente ao Tribunal do Júri com base em depoimento de ouvir dizer, sem indicação da fonte - e despronunciar o acusado (REsp 1649663/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021).
+6. Agravo regimental não provido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXVI e XXXVIII, c, da CF e a existência de repercussão geral da matéria tratada.
+Defende, em síntese, que (fls. 955-958):
+ ..  a decisão de pronúncia desconstituída pelo TJSC já estava acobertada pela coisa julgada, sendo, portanto, imutável. Logo, não poderia o Tribunal de origem rediscutir as matérias nela contidas, especialmente após já concluídos os trabalhos do Conselho de Sentença.
+ ..
+Se não bastassem os argumentos lançados no tópico anterior, evidencia-se que a decisão do Corte de origem também viola a garantia constitucional da soberania dos veredictos (art. 5º, XXXVIII, "c", da CF).
+É que, no caso dos autos, o corpo de jurados, após todos os debates em plenário e detida análise dos elementos de prova conditos do feito, concluiu, no âmbito de sua íntima convicção e de forma soberana, pela condenação do Recorrido nos termos da denúncia.
+Logo, não poderia o TJSC reanalisar o mérito e as provas, suplantando a decisão dos jurados, verdadeiros juízes da causa, ainda que sob o pretenso argumento de que se avaliava a decisão de pronúncia (diga-se, preclusa!).
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Sem contrarrazões recursais.
+É o relatório.
+O STF, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou a seguinte tese (Tema n. 154 do STF):
+Qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, "c").
+O acórdão foi assim ementado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PRELIMINAR DE NÃO CONHECIMENTO DO RE. QUESTÃO SUPERADA. HABEAS CORPUS. CONCESSÃO DA ORDEM PELO SUPERIOR TRIBUNAL DE JUSTIÇA PARA TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. ALEGAÇÃO DE TOLHIMENTO DE PRERROGATIVA EXCLUSIVA DO MINISTÉRIO PÚBLICO PARA PROVAR A ACUSAÇÃO, MEDIANTE AJUIZAMENTO DE AÇÃO PENAL. ABSOLVIÇÃO SUMÁRIA PROCEDIDA POR TRIBUNAL SUPERIOR, EM DETRIMENTO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. OFENSA AOS ARTS. 5º, XXXVIII, E 129, I, AMBOS DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+I - Havendo a Corte, por meio de seu Plenário Virtual, reconhecido a repercussão geral do tema constitucional debatido nos autos, deve prosseguir no julgamento de mérito da causa.
+II - Para se chegar à conclusão contrária à do acórdão recorrido seria necessário reexaminar o conjunto fático-probatório dos autos. Incidência da Súmula 279 do STF.
+III - Decisão judicial de rejeição de denúncia, impronúncia de réu, de absolvição sumária ou de trancamento de ação penal por falta de justa causa, não viola a cláusula constitucional de monopólio do poder de iniciativa do Ministério Público em matéria de persecução penal e tampouco transgride o postulado do juiz natural nos procedimentos penais inerentes ao Tribunal do Júri.
+III - Recurso extraordinário não provido.
+(RE n. 593.443, relator para o acórdão Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 6/6/2013, DJe de 22/5/2014.)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fls. 914-917):
+No caso presente caso, o Tribunal de origem, na análise do apelo defensivo em que se pretendia a anulação da sentença condenatória proferida pelo Tribunal do Júri por considerá-la manifestamente contrária à prova dos autos, deu provimento ao recurso para anular a condenação do recorrente e, de ofício, desconstituiu a sentença de pronúncia. Confira-se, nesse sentido, o seguinte trecho do acórdão estadual:
+ ..
+Constatado pelo Tribunal Estadual que a condenação do recorrido está alicerçada apenas em elementos colhidos na fase de inquérito e que a pronúncia também foi proferida em desacordo com o art. 155 do CPP, não se pode falar em preclusão, isso porque é ilegal a sentença de pronúncia baseada, unicamente, em testemunhos colhidos no inquérito policial e indiretos - de ouvir dizer (hearsay) -, por não se constituírem em fundamentos idôneos para a submissão da acusação ao Plenário do Tribunal do Júri.
+ ..
+Em acréscimo, anoto que tratando-se de uma violação grave, concernente à lisura do devido processo legal, haverá uma nulidade absoluta, que não poderá ser convalidada, não havendo que se falar em preclusão.
+Tem-se, portanto, caso de manutenção da decisão de impronúncia proferida pelo Tribunal de Justiça do Estado de Santa Catarina.
+Essa situação configura hipótese abarcada pelo mencionado Tema n. 154 do STF, de modo que a solução aplicada no acórdão impugnado não ofende o monopólio da ação penal pública (art. 129 da CF), tampouco os postulados do juiz natural (art. 5º, LIII, da CF) e da soberania do veredito do júri (art. 5º, XXXVIII, c, da CF), o que obsta o processamento do recurso extraordinário.
+Não obstante, também fica pacificado no âmbito do STF o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+É a compreensão vinculante da Suprema Corte, estabelecida no regime de repercussão geral:
+Tema n. 660 do STF: A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Na vertente hipótese, a suposta ofensa depende da análise da incidência dos dispositivos infraconstitucionais sobre as circunstâncias discutidas no acórdão recorrido, motivo pelo qual se enquadra no Tema n. 660 do STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. CONDENAÇÃO LASTREADA EM PROVAS COLHIDAS EXCLUSIVAMENTE NA FASE DE INQUÉRITO POLICIAL. IMPRONÚNCIA DO RÉU. TEMA N. 154/STF. OFENSA AOS LIMITES DA COISA JULGADA. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
