@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MASSA FALIDA DE VM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 2.018):
+Ação Anulatória c/c Perdas e Danos. Pretensão a declaração de nulidade do ato que cancelou as quotas associativas da CETIP. Sentença de procedência. Equívoco da decisão. Prescrição da pretensão que se reconhece. Parecer do MP nesse sentido. Extinção do processo com exame do mérito que ora se decreta. Provimento do recurso.
+Rejeitados os embargos de declaração opostos (fls. 2.043-2.046).
+No presente recurso especial, a recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre a alegada ausência de notificação da existência da obrigação criada pela CETIP.
+Requer que (fl. 2.060):
+ ..  o Tribunal de origem se pronuncie, expressamente, sobre reconhecer a ausência de prescrição e que o ato praticado pela CETIP no presente caso é inválido, pois não houve ciência da Massa Falida e de seu administrador judicial, consequentemente declarou nulo o cancelamento do título patrimonial nº 0666 e determinou que seja estabelecida a posição acionária da Massa Falida VM Distribuidora de Títulos e Valores Mobiliários LTDA, ora Recorrente, na CETIP, na razão de 406.650 ações, e, na impossibilidade, o que isto representar de ações na B3, a incorporação de ações e a condenação do Recorrido ao pagamento dos lucros e dividendos relacionados à participação acionária, não auferidos pela Massa Falida desde a abertura do capital da CETIP, acrescido dos frutos referentes às ações incorporadas à B3.
+Aponta divergência jurisprudencial e sustenta que "o início do prazo prescricional, com base na Teoria da Actio Nata, não se dá necessariamente no momento em que ocorre a lesão ao direito, mas sim quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão".
+Apresentadas as contrarrazões (fls. 2.088-2.063), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 2.164 - 2.165).
+É, no essencial, o relatório.
+Merece guarida a alegação de afronta ao art. 1.022 do CPC.
+Consoante se infere dos autos, a recorrente manejou ação anulatória com perdas e danos e pedido de tutela antecipada.
+O Juízo de primeiro grau, ao julgar procedente a pretensão autoral, na forma do art. 487, I, do Código de Processo Civil, e declarar nulo o cancelamento do Título Patrimonial no 0666 da Massa Falida VM Distribuidora de Títulos e Valores Mobiliários Ltda., determinou que fosse estabelecida sua posição acionária na CETIP S.A., na razão de 406.650 ações, e, na impossibilidade, o que isso representar de ações na B3, tendo em vista a incorporação de ações.
+Em sua fundamentação, considerou o seguinte (fl. 726 - destaquei):
+A falência da VM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. foi decretada em 19 de junho de 1997, precedida de liquidação extrajudicial decretada em 21 de junho de 1996.
+No seu patrimônio constava a participação na CETIP. Após a quebra, o síndico nomeado passou à arrecadação, sendo certo que as tais quotas não figuraram no patrimônio exposto nos autos falimentares. Tudo leva a crer, então, que o síndico da Massa sequer sabia de sua existência.
+Acontece que, em 16 de junho de 2000 (quando já decretada a falência da autora), a CETIP disparou carta circular informando ter sido instituída uma taxa mensal sobre as contas de cotistas inativos (doc.8 no anexo). Note-se que não há qualquer informação acerca do recebimento da carta pela Massa Falida, muito menos notícia disso nos autos falimentares.
+Mas não é só. O doc.09 no anexo traz a publicação de edital de convocação/notificação na edição de 05 de fevereiro de 2001, no sentido de instar determinados cotistas a pagarem a taxa estipulada. Observa-se que a VM DTVM Ltda. não aparece ali como Massa Falida, de modo que não se pode considerar efetivo o chamamento da Massa. Mais uma vez, o síndico parece ter ficado sem conhecimento da existência das tais quotas ou mesmo da obrigação de pagar a taxa instituída.
+Nesse quadro, temos que a Massa Falida jamais foi instada a regularizar o alegado débito. Ou, antes disso, pode-se afirmar que sequer foi notificada da existência da obrigação criada pela CETIP.
+Assim, não se pode jogar sobre os ombros da Massa a ideia de inércia, falta de interesse ou comportamento contraditório.
+A tudo isso, soma-se o fato da irregularidade da cobrança, porquanto o pagamento aos credores da Massa, mesmo extraconcursais, só pode ser feito com autorização judicial.
+Vale dizer: a CETIP deveria ter comunicado seu crédito ao Juízo falimentar, a fim de que este, com oitiva dos interessados, decidisse pelo pagamento ou mesmo pela dispensa do ativo à época sem valor representativo.
+Nada disso foi feito, podendo-se afirmar que o cancelamento foi feito à revelia do Juízo falimentar, o que afronta o disposto nas normas de regência, tanto a atual como aquela do tempo da quebra, ambas a exigir autorização do Juízo para liberação dos bens do falido. Veja-se, como exemplo, os arts. 22, §3º e o art. 99, VI, ambos da Lei 11.101/05, ou os arts. 39 e 40, do Dec. Lei 7661/45.
+Ao julgar a apelação, o Tribunal de origem deu-lhe provimento, reconhecendo a prescrição da ação e determinando a extinção do processo com exame do mérito.
+Contudo, não obstante a fundamentação do acórdão a respeito da prescrição, observa-se que o Tribunal de origem deixou de levar em consideração o quanto afirmado na sentença relativamente à ausência de chamamento da Massa Falida a regularizar o alegado débito.
+A omissão foi mantida apesar da oposição dos embargos de declaração (fls. 2.032-2.036), visto que o Tribunal de origem limitou-se a proferir acórdão integrativo genérico, sem esclarecer a questão suscitada nos aclaratórios.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC, e em face da questões alegadas, cuja premissa de nulidade do ato interfere na conclusão acerca da prescrição da ação, tenho como necessário o debate acerca de tais pontos.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, dou provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para análise das questões alegadas em embargos de declaração e já consideradas na sentença.
+Publique-se. Intimem-se.
+ EMENTA
