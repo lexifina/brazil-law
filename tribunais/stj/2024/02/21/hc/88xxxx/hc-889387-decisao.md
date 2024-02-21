@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de GABRIELLY PEREIRA SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (HC nº 7012011-40.2023.8.08.0000).
+A paciente foi presa preventivamente e denunciada pela prática, em tese, do crime previsto no art. 171, § 2-A, c/c o art. 29, do Código penal.
+A liminar em habeas corpus pleiteada pela defesa foi indeferida na origem (e-STJ fls. 735-736).
+A defesa alega, em síntese: a) necessidade de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal, em razão de ilegalidade flagrante; b) ausência de fundamentação suficiente para justificar a segregação cautelar imposta, pois estaria amparada em motivos genéricos e na gravidade abstrata do delito; c) ser a paciente primária; d) falta de contemporaneidade entre os fatos e a prisão preventiva; e) cometimento de crime sem violência ou grave ameaça; e f) possibilidade da substituição do cárcere por medidas cautelares diversas.
+Requer, liminar e definitivamente, o deferimento da ordem para revogar a prisão preventiva, com imposição de medidas cautelares diversas.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 735-736):
+A concessão da tutela de urgência ora requerida condiciona-se à demonstração, em caráter cumulativo, da existência do fumus boni iuris e do periculum in mora. Noutras palavras, deve o impetrante trazer, de forma pré-constituída, elementos que apontem, com clareza, que o beneficiário da ordem suplicada efetivamente faz jus ao direito pleiteado, bem como, a urgência no afastamento de eventual gravame em desfavor daquele.
+Em sumária análise dos autos, verifico que a postulante foi presa preventivamente, no dia 14/12/2023, nos autos do processo nº 5035504-08.20-23.8.08.0024, pela prática do crime descrito no artigo 155, §4º, II, do CP, por supostamente ter participado de ataque "smishing", por meio do envio de SMS, utilizando-se do nome do Banco do Estado do Espírito Santo - Banestes, que atingiu diversos clientes da referida Instituição.
+Na espécie, no entanto, sequer é viável a análise do conteúdo do mandamus, considerando não ser possível constatar manifestação do juízo de primeiro grau acerca dos fundamentos em que se baseia a impetração.
+Em que pese a alegação defensiva no sentido de que o pedido foi indeferido pelo Juiz da Audiência de Custódia, o que se observa da decisão combatida é que a questão não foi analisada, uma vez que o douto magistrado opinou pela remessa do feito ao Órgão Ministerial para manifestação acerca do pleito.
+Logo, o conhecimento do presente, na forma atual, redunda na supressão da instância primeva, circunstância de todo repelida pela jurisprudência desta E. Corte:
+HABEAS CORPUS. ALEGAÇÃO DE EXCESSO DE PRAZO. INEXISTÊNCIA DE COMPROVAÇÃO DE FORMULAÇÃO DE PEDIDO EM PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. 1. Em habeas corpus impetrado nesta Corte, não se pode apreciar pretensão não contestada oportunamente junto ao Juízo primevo, sob pena de indevida supressão de instância. 2. Habeas corpus não conhecido. (TJES, Habeas Corpus , Primeira Câmara Criminal, Rel. Des. Debora Maria Ambos Correa da Silva,17/02/2022).
+Portanto, inviável a análise do pedido, considerando a falta de apreciação da matéria pelo juízo de primeiro grau, tornando-se impossível verificar, na presente fase, a flagrante ilegalidade apontada.
+Com tais considerações, verifico que não restam demonstrados os requisitos autorizativos para a concessão da tutela de urgência, razão pela qual INDEFIRO A LIMINAR.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, p ois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
