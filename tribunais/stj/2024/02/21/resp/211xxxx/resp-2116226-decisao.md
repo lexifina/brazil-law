@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado (fl. 127, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. SERVIDOR PÚBLICO. HONORÁRIOS ADVOCATÍCIOS. PRECATÓRIO. IMPOSSIBILIDADE. CPC 73. PRECEDENTES.
+Não há falar na fixação de honorários advocatícios em feito executivo cujo débito deve ser pago por meio de precatório.
+NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME.
+Os Embargos de Declaração foram rejeitados (fl. 197, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, no mérito, dos arts. 1º-D da Lei 9.494/1997; 14 e 85, §7º, do Código de Processo Civil.
+Contrarrazões às fls. 284-308, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22 de janeiro de 2024.
+Observo que o a Corte regional não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados na origem, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito da oposição de Embargos Declaratórios, por não ter havido prequestionamento. Ante a ausência desse requisito indispensável, incide na espécie a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência desse requisito se não houver a emissão de juízo de valor sobre a matéria.
+No mérito, o STJ firmou a compreensão de que "a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença" (AgInt no REsp 1.741.941/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 15.10.2018). Na hipótese dos autos, a decisão que analisou a sucumbência foi proferida na vigência do Código de Processo Civil de 1973.
+É sólido o entendimento desta Corte Superior no sentido de que, à luz do CPC/1973, quando vencida a Fazenda Pública, o arbitramento dos honorários advocatícios não está adstrito aos limites percentuais de 10% (dez por cento) e 20% (vinte por cento), e pode ser adotado como base de cálculo o valor dado à causa ou à condenação, conforme o art. 20, § 4º, do mesmo diploma legal, ou mesmo um importe fixo, segundo o critério de equidade.
+O quantum da verba honorária, em virtude da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua definição é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. DEFINIÇÃO DA LEI APLICÁVEL. LEGISLAÇÃO VIGENTE QUANDO DA PROLAÇÃO DA SENTENÇA. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS. DESCABIMENTO. QUANTUM FIXADO CONSOANTE APRECIAÇÃO EQUITATIVA DO MAGISTRADO A QUO. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O objeto do Recurso Especial diz respeito aos critérios utilizados para a fixação dos honorários de sucumbência e do valor arbitrado.
+2. O STJ firmou a compreensão de que "a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença" (AgInt no REsp 1.741.941/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 15.10.2018).
+3. Hipótese em que a sentença que analisou a sucumbência foi proferida na vigência do Código de Processo Civil de 1973 (14.1.2016), na qual ficou consignado que, "Embora a embargada tenha decaído de parcela mínima do pedido, deixo de condenar as embargantes no pagamento de honorários advocatícios, tendo em vista a cobrança do encargo legal previsto no Decreto- lei nº 1.025/69 (Súmula 168 do TFR e REsp 1.143.320/RS, julgado sob a sistemática dos recursos repetitivos)." (fl. 531, e-STJ). Apreciar a Apelação da ora agravante, o Tribunal de origem deu-lhe provimento, alterando a distribuição da sucumbência. Portanto, os honorários advocatícios devem ser estabelecidos de acordo com o art. 20 e parágrafos daquele Códex, e não com o art. 85 do CPC de 2015, que teve sua vigência iniciada apenas em 18.3.2016.
+4. Não prosperam as razões da recorrente de que "a primeira decisão a fixar honorários foi o acórdão do TRF da 5ª Região, proferido sob a vigência do CPC-15". Isso porque prevalece o entendimento no STJ de que se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado. Independe de a sentença ter fixado honorários em favor de uma das partes; basta que tenha tratado dos honorários advocatícios de acordo com as regras do Código Processual vigente à época. Nesse sentido: AgInt no AREsp 1.120.508/BA, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 7.4.2022. No caso dos autos, a sentença tratou dos honorários advocatícios em capítulo específico, porém não os fixou em favor de nenhuma das partes.
+5. Note-se que a ressalva constante nos EAREsp 1.255.986/PR é expressa ao afirmar que o acórdão do Tribunal será considerado como marco temporal quando fixar honorários em sua competência originária, e não recursal, como no caso dos autos. Como se vê no seguinte trecho do item 2 da ementa dos EAREsp 1.255.986/PR: "A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), (..) deve ser considerado o marco temporal para a aplicação das regras fixadas pelo CPC/15."
+6. Ademais, o STJ possui entendimento sólido de que, à luz do CPC/1973, quando vencida a Fazenda Pública, a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% (dez por cento) e 20% (vinte por cento), podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, conforme o art. 20, § 4º, do mesmo diploma legal, ou mesmo um importe fixo, segundo o critério de equidade.
+7. O quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+8. Em situações excepcionalíssimas, o STJ afasta a incidência do referido enunciado sumular, para permitir a revisão dos honorários advocatícios quando o montante arbitrado se revelar manifestamente ínfimo ou exorbitante.
+9. O Tribunal de origem consignou: "Além disso, o montante arbitrado em R$ 5.000,00 (cinco mil reais) é razoável e proporcional à natureza da causa (exclusão por ilegitimidade passiva) e ao tempo de tramitação do feito (ajuizamento em 2015)." (fl.919, e-STJ).
+10. Considerando as circunstâncias do acórdão recorrido, não se verifica excepcionalidade a justificar a alteração do quantum fixado. Incidência da Súmula 7 do STJ.
+11. Agravo Interno não provido.
+(AgInt no REsp 1.731.260/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2023.)
+Ademais, este Tribunal Superior consolidou a orientação segundo a qual, nas hipóteses de cumprimento de sentença contra a Fazenda Pública em que esta apresenta impugnação, conquanto sejam devidos honorários advocatícios na forma do art. 85, § 7º, do CPC, a base de cálculo destes não será o quantum total executado, mas tão somente o excesso de execução apresentado na impugnação rejeitada.
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1.472.530/RS, Rel. Ministro Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31/10/2014.)
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
