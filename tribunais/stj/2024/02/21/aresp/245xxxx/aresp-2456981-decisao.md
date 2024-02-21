@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SERVIÇO SOCIAL DO COMÉRCIO SESC para impugnar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Bem examinados os autos, verifico que, no recurso especial, limitou-se a recorrente a apontar, como violado, o art. 4º da Lei 8.443/92.
+O acórdão recorrido, entretanto, não decidiu a causa por meio de aplicação do dispositivo legal tido por violado, circunstância que revela a ausência de prequestionamento, a tornar incognoscível o recurso especial, nos exatos termos da Súmulas 282/STF e 356/STF.
+Correta, portanto, a decisão agravada, em que se utilizou desse mesmo fundamento para o decreto de inadmissão do recurso.
+Embora, no agravo em recurso especial, a agravante sustente a ocorrência do prequestionamento ficto a que alude o art. 1.025 do CPC, certo é que tal não ocorre no caso concreto, tendo em vista que não houve, no recurso especial, apontamento de ocorrência de violação ao art. 1.022, II, do CPC, elemento imprescindível para, em tese, apurar-se nesta instância extraordinária eventual omissão existente no acórdão recorrido e, a partir daí, reconhecer-se o prequestionamento ficto tal como ventilado pela recorrente.
+Nesse sentido, já decidiu a Primeira Turma do STJ que "nos termos da orientação consolidada neste Superior Tribunal, para a configuração do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, impõe-se que se alegue, nas razões do recurso especial, violação ao art. 1.022, II, do mesmo estatuto processual, apontando-se, de forma clara, objetiva e devidamente fundamentada, a omissão acerca da matéria impugnada, o que não ocorreu." (AgInt no REsp n. 2.054.046/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Ainda no mesmo sentido, os seguintes julgados da Primeira Turma:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESMORONAMENTO DE IMÓVEL VIZINHO. RISCO DE DESABAMENTO. ART. 70 DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem não examinou a tese recursal sob o enfoque pretendido, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Assim, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+2. Este Superior Tribunal firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017).
+3. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias a título de indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.072.402/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VÍCIO DE INTEGRAÇÃO. INDICAÇÃO PORMENORIZADA. AUSÊNCIA. PREQUESTIONAMENTO FICTO. INOCORRÊNCIA. FATO NOVO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. É deficiente a alegação de vício de integração quando não indicado o inciso supostamente contrariado. Precedentes.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, de acordo com a Súmula 211 do STJ.
+3. Segundo o entendimento desta Corte de Justiça, para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+4. Infirmar o entendimento do Tribunal de origem de que considerou a atual situação do processo, inclusive a prova pericial, apontada como nova circunstância, não se vislumbrando os requisitos para concessão da tutela provisória, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via do recurso especial (Súmula 7 do STJ).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.074.550/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
