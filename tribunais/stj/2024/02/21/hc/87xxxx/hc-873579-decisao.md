@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KLEITON GOMES FLESCH no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, § 4º, da Lei 11.343/2006, às penas de 5 anos de reclusão, em regime inicial semiaberto.
+Irresignadas, tanto a defesa quanto a acusação interpuseram recurso de apelação, parcialmente provido o da defesa, nos termos da seguinte ementa (e-STJ fl. 18):
+APELAÇÃO-CRIME. TRÁFICO DE DROGAS. SENTENÇACONDENATÓRIA. RECURSOS DEFENSIVO E MINISTERIAL. Tráfico de drogas. Posse e tipicidade demonstradas. Depoimentos uníssonos dos policiais. Negativa de autoria declinada pelo réu ("enxerto") que restou isolada nos autos. Circunstâncias objetivas da apreensão que são seguros indicativos da traficância, diante das declarações dos policiais, aliadas à apreensão de entorpecentes em amplo fracionamento e elevada quantia em dinheiro. Demonstrado nos autos que a droga apreendida era destinada à traficância, inviável a absolvição por insuficiência probatória. Condenação mantida. Penas. Afastada a negativação do vetor "circunstâncias". Redimensionado o aumento da basilar em razão da natureza e quantidade da droga apreendida, nos termos do art. 42 da Lei de Drogas, para1/6. Pleito ministerial de reconhecimento da agravante prevista no artigo 61, ii,"j", do CP indeferido. Em que pese o reconhecimento da pandemia, inclusive por edição do Decreto nº 55.128/2020/RS, não há liame entre a agravante e o delito praticado pelo acusado. Precedente do STJ. Redimensionada a fração da minorante da Lei de Drogas para 2/3, a fim de evitar bis in idem. Penas reduzidas. APELO DEFENSIVO PROVIDO EM PARTE. APELO MINISTERIALDESPROVIDO.
+A presente impetração funda-se na necessidade de revisão da dosimetria da pena.
+Liminar indeferida (e-STJ fls. 449/450).
+Informações prestadas (e-STJ fls. 456/495).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, mas pela concessão da ordem de ofício (e-STJ fls. 500/508).
+É, em síntese, o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na espécie, o Magistrado sentenciante assim se manifestou acerca da dosimetria da pena (e-STJ fls. 343/345):
+IV. DOSIMETRIA DA PENA
+Nos moldes previstos pela redação do artigo 5º, inciso XLVI, da Constituição Federal, combinado com artigo 68 do Código Penal, passo à dosimetria da pena, de modo individualizado.
+A. Primeira Fase:
+Ao examinar as circunstâncias judiciais do artigo 59 do Código Penal, verifico que a culpabilidade, entendida como grau de reprovação social que o crime e o autor do fato merecem, ou, na esteira do que indicou o Supremo Tribunal Federal, "o grau de censura pessoal do réu na prática do delito", se fixa em grau ordinário.
+O réu não registra antecedentes.
+Quanto à conduta social do denunciado, que diz com o comportamento do agente no seio familiar, em seu ambiente de trabalho e nos relacionamentos com os demais integrantes da sociedade, tenho que inexistem nos autos elementos a serem ponderados, de forma negativa ou positiva.
+Com relação à personalidade, que diz respeito as suas qualidades morais e sociais, ao seu temperamento, as características do seu caráter, os fatores hereditários e socioambientais que moldaram as experiências e suas características enquanto indivíduo, entendo ausentes elementos que permitam a valoração.
+A motivação do delito não restou apurada.
+Com relação às circunstâncias do crime, entendidas estas como elementos acidentais que não participam da estrutura própria de cada tipo, mas que, embora estranhas à configuração típica, tem o condão de influenciar a quantidade da pena, para abrandá-la ou atenuá-la (lugar do crime, tempo de duração, o relacionamento existente entre autor e vítima, a atitude assumida pelo réu quando da prática do delito), entendo que merecem ponderação negativa, considerando a quantidade de dinheiro apreendida e o fato de que o casebre era inabitado e utilizado unicamente para a traficância.
+As consequências, a saber, o mal causado pelo crime, que transcende ao resultado típico e extrapola as consequências naturais do crime, são comuns à espécie de delito perpetrado, sem maiores considerações a serem feitas.
+O comportamento da vítima é vetorial que não pode vir em desfavor do acusado, vez que, enquanto circunstância neutra, o fato de a vítima em nada ter contribuído para o crime não pode ser adotado para fins de agravar a pena-base, conforme entendimento fixado pelo STJ no julgamento do HC 217.819/BA (INFO nº 532).
+Ainda, e em se tratando de delito submetido a Lei de Drogas, cabe referir o conteúdo do artigo 42 da Lei n.º 11.343/2006, que aponta a necessidade de consideração de algumas circunstâncias como preponderantes1 nesta primeira etapa de aplicação da pena:
+"O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Por essa razão, considerando a natureza das substâncias (cocaína), a quantidade de entorpecente apreendido (78 buchas), bem como os vetores do artigo 59 do Código Penal; ainda, considerando necessário e suficiente para reprovação e prevenção do crime, fixo a pena-base em 7 anos e 6 meses de reclusão.
+B. Segunda Fase:
+Nos termos da redação do inciso I do artigo 387 do Diploma Processual Repressivo, aponto a ausência de circunstâncias agravantes ou atenuantes passíveis de ponderação, de forma que vai a pena provisória fixada em 7 anos e 6 meses de reclusão.
+C. Terceira Fase
+Com a presença da causa especial de redução de pena prevista artigo 33, § 4º, da Lei 11.343/03, reduzo a reprimenda em 1/3 (considerando a grande quantidade de entorpecentes e dinheiro apreendido, e a circunstância de o casebre ser abandonado e utilizado apenas para comércio de drogas ilícitas).
+Assim, vai a pena definitiva fixada em 5 anos de reclusão.
+Da Pena de Multa
+Com base nos artigos 49 e 60 do Código Penal, condeno o acusado à pena de multa no valor de 750 dias-multa, considerando as circunstâncias judiciais previstas no artigo 59 do Código Penal, à razão de 1/30 sobre o valor do maior salário-mínimo vigente na época do fato, em face da condição econômica do réu (artigo 60 do Código Penal).
+Consigno que tal importância deverá ser corrigida monetariamente quando do efetivo pagamento, a contar da data da prática do delito (artigo 49, §2º, do CP).
+Do Regime de Cumprimento da Sanção Corporal
+Em relação ao regime de cumprimento da sanção corporal, consoante redação do inciso III do artigo 59, combinado com o disposto na alínea b do § 2º do artigo 33, ambos do Código Penal Brasileiro, o início da execução da reprimenda deve dar-se em regime semiaberto.
+Em atenção a redação do § 2º do artigo 387 do Diploma Processual Repressivo - incluído pela Lei n.º 12.736/2012 e que determina que o tempo de prisão provisória deve ser detraído para fins de fixação do regime inicial de sanção corporal - aponto que o réu permaneceu segregado cautelarmente por aproximadamente 322, motivo pelo qual o regime de inicial de cumprimento de pena permanece o fixado.
+Da Substituição
+Atendendo, ainda, a norma de fixação de pena (artigo 59, inciso IV, do Diploma Penal), deixo de aplicar o benefício da substituição da pena privativa de liberdade por restritiva de direitos, eis que não preenchidos os requisitos objetivos previstos no artigo 44 do Código Penal, visto que a pena imposta excede o máximo permitido em lei.
+Pelas mesmas razões, incabível se mostra a concessão do sursis, nos termos do artigo 77 do Código Penal.
+Por sua vez, a Corte estadual assim dispôs acerca da dosimetria (e-STJ fls. 15/18):
+II. Penas
+A pena-base restou exasperada em 2 anos e 6 meses de reclusão em razão da negativação do vetor circunstâncias ("considerando a quantidade de dinheiro apreendida e o fato de que o casebre era inabitado e utilizado unicamente para a traficância") e pela quantidade e natureza da droga apreendida.
+Entendo que a basilar comporta parcial reforma, a fim de neutralizar o vetor das circunstâncias. Isso porque, em que pese a relevante quantidade de dinheiro apreendida e o local da abordagem, tais aspectos não destoam do comum ao tipo penal, nem tampouco indicam especial atuação do réu na empreitada criminosa. Assim, não verifico a necessidade de maior reprovabilidade da conduta por tais fundamentos.
+Neutralizado o vetor, redimensiono o quantum de aumento da basilar pelo art. 42 da Lei de Drogas, uma vez que, em que pese repute necessário o agravamento da pena pela quantidade e natureza da droga apreendida, a fração de 1/6 - parâmetro jurisprudencial adotado por esta Câmara - é suficiente e proporcional ao caso.
+Assim, vai a basilar redimensionada para 5 anos e 10 meses de reclusão.
+Em prosseguimento, não prospera o recurso ministerial quando postula o reconhecimento da agravante prevista no artigo 61, II, "j", do Código Penal (calamidade pública).
+Isso porque, em que pese o reconhecimento da pandemia ora vivenciada, inclusive por edição do Decreto nº 55.128/2020 do Governo do Estado do Rio Grande do Sul, não há liame entre a agravante e o delito praticado pelo agente, tal como justificou o sentenciante. Não há como afirmar que o réu tenha se valido da situação pandêmica para o cometimento do ilícito, não merecendo maior censura por conta do injusto penal. Inexiste nexo causal entre o cometimento da infração penal e o estado de calamidade, daí porque acertado seu afastamento. Neste sentido é o entendimento do Superior Tribunal de Justiça:
+ ..
+Quanto à minorante da Lei de Drogas, entendo que assiste razão à defesa.
+Quanto ao pleito ministerial de afastamento da benesse, confirmo os fundamentos declinados na decisão recorrida para a sua concessão, uma vez que o o acusado preenche os requisitos do benefício.
+Modifico a fração da redutora para o patamar máximo de 2/3, a fim de evitar bis in idem, considerando que a quantidade e natureza da droga já foram valoradas na primeira fase dosimétrica, bem como que nem a quantia em dinheiro aprendida, tampouco o local da abordagem, constituem fundamento idôneo a impactar no quantum da redutora.
+Assim redimensiono a pena ao patamar de 1 ano e 11 meses de reclusão, e 193 dias-multa. Inviável o afastamento da pena de multa, pois decorre de imposição legal e é preceito secundário do tipo penal.
+O regime inicial de cumprimento da pena vai modificado para o aberto, com base no art. 33, § 2º, alínea "c", do Código Penal.
+Preenchidos os requisitos do artigo 44 do Código Penal, substituo a pena privativa de liberdade por duas penas restritivas de direitos, consistentes em prestação de serviço à comunidade e prestação pecuniária, a serem definidas pelo Juízo da Exeução.
+Pois bem.
+Delineada a situação fática, passo à análise da tese trazida pela defesa.
+Exasperação da pena-base
+Consoante dispõe o art. 42 da Lei n. 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Não constitui demasia enfatizar, no particular, que, "como se trata de crime contra a saúde pública, quanto mais nociva a substância ou quanto maior a quantidade de droga apreendida, maior será o juízo de censura a recair sobre a conduta delituosa. De fato, não se pode equiparar a conduta daquele indivíduo que é flagrado trazendo consigo um quilograma de maconha com a daquele que é preso com um quilograma de cocaína, já que esta droga tem um caráter viciante e destrutivo bem mais elevado que aquela" (LIMA. Renato Brasileiro. Legislação Criminal Especial Comentada. Salvador: editora Juspodivm. 2015, p. 808).
+Na hipótese, contudo, conquanto a pena-base tenha sido estabelecida acima do mínimo pela natureza e nocividade do entorpecente apreendido, em observância ao disposto no art. 42 da Lei n. 11.343/2006, verifico que tal exasperação mostrou-se desproporcional, sobretudo em razão da quantidade de drogas apreendidas - 78 buchas de cocaína -, quantidade essa que não se revela expressiva o suficiente para justificar a negativação da referida vetorial.
+Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria deve ser afastado.
+Ilustrativamente:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. PENA-BASE. NOCIVIDADE DAS DROGAS APREENDIDAS. CRACK E COCAÍNA. QUANTIDADES PEQUENAS. FUNDAMENTO INIDÔNEO A JUSTIFICAR A EXASPERAÇÃO DA SANÇÃO INICIAL. MAUS ANTECEDENTES. CONDENAÇÕES PRETÉRITAS ATINGIDAS PELO PERÍODO DEPURADOR. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. Este Superior Tribunal de justiça firmou entendimento no sentido de que o art. 42 da Lei de Drogas permite o aumento da pena-base com fundamento na quantidade e natureza do entorpecente apreendido, de forma que esses dois quesitos devem ser interpretados em conjunto. Assim, a apreensão de pequena quantidade de cocaína, não obstante seja considerada uma das mais nocivas, não justifica, por si só, o aumento da reprimenda na primeira fase da dosimetria.
+2. A jurisprudência desta Corte superior entende que condenações anteriores transitadas em julgado, alcançadas pelo período depurador de 5 anos, consoante o art. 64, I, do CP, embora afastem os efeitos da reincidência, não impedem, em princípio, a configuração de maus antecedentes, permitindo o incremento da sanção inicial.
+3. Agravo regimental parcialmente provido para reduzir a reprimenda dos recorrentes a 6 anos, 9 meses e 20 dias de reclusão, mais 680 dias-multa.
+(AgInt no HC n. 403.668/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/11/2017, DJe 14/11/2017, grifei.)
+Assim, considerados os fundamentos acima delineados, passo ao redimensionamento da pena.
+Na primeira fase, afastada a exasperação da pena-base, fixo-a em 5 anos de reclusão.
+Na segunda etapa, a pena permanece no mínimo legal, ante a ausência de circunstâncias atenuantes e agravantes.
+Na terceira fase, mantenho a redução realizada pela Corte estadual em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, tornando a reprimenda definitiva em 1 ano e 8 meses de reclusão.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do CP, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Nesse tear, diante dos parâmetros acima e dada a quantidade de pena aplicada, fixo o regime aberto para o início do cumprimento da pena.
+Preenchidos os requisitos do art. 44 do CP, o paciente faz jus à substituição da pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo da execução penal.
+À vista de tais pressupostos, concedo a ordem para afastar a exasperação da pena-base e, assim, reduzir a reprimenda para 1 ano e 8 meses de reclusão, bem como fixar o regime inicial aberto de cumprimento de pena e determinar a substituição da pena privativa de liberdade por restritivas de direitos, a serem estipuladas pelo Juízo da execução penal.
+EMENTA
