@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso habeas corpus, com pedido liminar, interposto por LUÍS ANTÔNIO DA SILVA CASTRO, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (5301406-82.2023.8.21.7000).
+Consta dos autos que o paciente teve sua prisão preventiva decretada em 31/8/2023, pela suposta prática do crime previsto no art. 121, § 2º, I, III e IV, do Código Penal.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando desnecessidade de manutenção do decreto preventivo e ausência de periculum libertatis.
+O Tribunal de origem conheceu do writ e denegou a ordem nos termos da seguinte ementa (e-STJ fl. 101):
+HABEAS CORPUS. HOMICÍDIO. MANUTENÇÃO DA PRISÃO PREVENTIVA. FUMUS COMMISSI DELICT E PERICULUM LIBERTATIS. DEMONSTRADOS. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INCABÍVEIS. Trata-se de paciente segregado em razão de suposta prática do delito de homicídio. Presentes os requisitos autorizadores da prisão preventiva. Ausência de flagrante ilegalidade capaz de ensejar a concessão da ordem de habeas corpus. Impossibilidade de substituição da prisão por medidas cautelares diversas, por não se mostrarem adequadas ou suficientes para o caso. ORDEM DENEGADA.
+Na presente oportunidade, a defesa reitera seus argumentos, alegando, em síntese, ausência de fundamentação idônea do decreto prisional, desconsiderando condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, além de ser pai de duas filhas menores de 12 anos.
+Diante disso, pede, liminarmente e no mérito, seja determinada a liberdade provisória do paciente, com ou sem medidas cautelares alternativas.
+É o relatório. Decido.
+O presente recurso é mera reiteração de pedido, pois apresenta as mesmas partes, causa de pedir, pedido e foi interposto contra o mesmo acórdão impugnado no HC 875.397-RS, julgado em 11/12/2023, merecendo destaque o seguinte trecho da fundamentação:
+Conforme indicado pelos autos, a vítima tinha envolvimento direto com o tráfico de entorpecentes, mas pretendia deixar o mundo do crime. Em reprimenda, teria suportado graves ameaças de morte, o que a levou a buscar auxílio da polícia judiciária e a estes revelar o funcionamento da organização criminosa, bem como indicar nomes e funções dos membros. Por esse motivo, o paciente teria, em comparsaria com outros dois membros da organização criminosa responsável pelo tráfico de entorpecentes, assassinado a vítima mediante o uso de arma de fogo, e incendiado seu cadáver em via pública.
+Com efeito, " ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus".(AgRg no HC n. 190.293, Rel. Ministro CELSO DE MELLO, julgado em 20/10/2020, DJe 19/11/2020).
+Assim, "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi" (AgRg no HC n. 773.624/PI, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+Ante o exposto, com fundamento no art. 34, XVIII, "a" , do RISJ, não conheço do recurso em habeas corpus.
+Intimem-se.
+EMENTA
