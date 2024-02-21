@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara Cível e Criminal de Uberlância - SJ/MG e o Juízo de Direito da 3ª Vara da Fazenda Pública e Autarquias de Uberlândia - MG, em ação indenizatória buscando reparação material e moral em razão de erro médico.
+A ação foi inicialmente proposta no Juízo Federal que entendeu pela ilegitimidade da União para figurar no polo passivo, o que ensejou a declinação de competência ao Juízo Estadual que, por sua vez, devolveu os autos à Justiça Federal ao argumento de que a Fundação de Assistência Estudo e Pesquisa de Uberlândia - FAEPU se equipara às empresas públicas.
+Os autos retornaram ao juízo federal que suscitou o presente conflito.
+É o relatório. Passo a decidir.
+Na hipótese dos autos, busca-se a definição de competência para julgamento de ação indenizatória proposta em face de fundação pública e da União, sendo que esta última foi retirada do polo passivo ante a declaração de sua ilegitimidade pelo juízo federal, o que ensejou a declinação de competência ao juízo estadual.
+Ocorre que esta Corte Superior possui jurisprudência consolidada no sentido de que "As fundações públicas federais instituídas sob o regime jurídico de direito privado, conforme jurisprudência desta Corte, equiparam-se às empresas públicas, o que atrai a incidência do art. 109, I, da CF" (CC 16.397/RJ, Rel. Ministro Sálvio de Figueiredo Teixeira, Segunda Seção, DJ 17/2/1997, p. 2119; CC 721/DF, Rel. Ministro Barros Monteiro, Segunda Seção, DJ 6/8/1990, p. 7317; e CC 76/DF, Rel. Ministro Athos Carneiro, Segunda Seção, DJ 18/9/1989, p. 14660).
+No mesmo sentido:
+DIREITO PROCESSUAL CIVL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA FUNDAÇÃO DE APOIO À UNIVERSIDADE PÚBLICA. PERSONALIDADE JURÍDICA DE DIREITO PRIVADO. EQUIPARAÇÃO À EMPRESA PÚBLICA PARA FINS DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. As fundações de apoio a universidades públicas federais são fundações públicas federais instituídas sob o regime jurídico de direito privado e, portanto, equiparam-se às empresas públicas para fins de definição de competência, incidindo a regra de competência da Justiça Federal prevista no art. 109, I, da CF. Precedente: CC n. 124.289/MG, Rel. Min. Sérgio Kukina, Primeira Seção, DJe de 27/4/2015.
+3. Agravo interno não provido.
+(AgInt no CC n. 196.337/MS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 19/12/2023, DJe de 6/2/2024.)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO ORDINÁRIA. POLO PASSIVO. ASSOCIAÇÃO CIVIL DE DIREITO PRIVADO E FUNDAÇÃO PÚBLICA FEDERAL. COMPETÊNCIA. JUSTIÇA FEDERAL. CRITÉRIO "RATIONE PERSON ". COMPETÊNCIA ABSOLUTA. SÚMULA 150/STJ.
+1. A teor do art. 109, inciso I, da Constituição da República, compete à justiça federal processar e julgar causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+2. Assim, proposta uma ação ordinária em que se verifique no pólo passivo um desses entes, a competência será obrigatoriamente da justiça federal, ainda que o órgão julgador limite a sua atuação à rejeição da legitimidade ou do interesse do ente federal, e, com isso, exclua-o da demanda, somente a partir de quando, então, poderá declinar da competência, salvo se remanescer motivo outro para que a causa continue a tramitar perante a justiça federal.
+3. Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas. Inteligência da Súmula 150/STJ.
+4. Conflito conhecido para julgar competente o suscitado, Juízo Federal da Vara de Barreiras, na Seção Judiciária da Bahia.
+(CC n. 149.906/SC, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 14/12/2016, DJe de 19/12/2016.)
+CONFLITO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL. AÇÃO ORDINÁRIA AJUIZADA CONTRA FUNDAÇÃO DE APOIO A UNIVERSIDADE PÚBLICA FEDERAL. NATUREZA JURÍDICA DE DIREITO PRIVADO. EQUIPARAÇÃO À EMPRESA PÚBLICA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. As fundações públicas federais instituídas sob o regime jurídico de direito privado, conforme jurisprudência desta Corte, equiparam-se às empresas públicas, o que atrai a incidência do art. 109, I, da CF (CC 16.397/RJ, Rel. Ministro Sálvio de Figueiredo Teixeira, Segunda Seção, DJ 17/2/1997, p. 2119; CC 721/DF, Rel. Ministro Barros Monteiro, Segunda Seção, DJ 6/8/1990, p. 7317; e CC 76/DF, Rel. Ministro Athos Carneiro, Segunda Seção, DJ 18/9/1989, p. 14660).
+2. Conflito conhecido para declarar competente o Juízo Federal suscitante.
+(CC n. 124.289/MG, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 22/4/2015, DJe de 27/4/2015.)
+Ademais, em decisões monocráticas: CC n. 188.341, Ministro Paulo Sérgio Domingues, DJe de 26/05/2023; CC n. 170.508, Ministro Herman Benjamin, DJe de 02/04/2020; CC n. 157.629, Ministro Gurgel de Faria, DJe de 22/05/2018.
+Ante o exposto, CONHEÇO do conflito para declarar a competência do Juízo Estadual.
+Comunique-se, com urgência, a decisão ao Juízo suscitante e ao Juízo suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUÍZO ESTADUAL E FEDERAL. AÇÃO INDENIZATÓRIA AJUIZADA EM FACE FUNDAÇÃO PÚBLICA FEDERAL. EQUIPARAÇÃO ÀS EMPRESAS PÚBLICAS PARA FINS DE FIXAÇÃO DE COMPETÊNCIA. JULGADOS DESTA CORTE SUPERIOR. COMPETÊNCIA DO JUÍZO FEDERAL.
