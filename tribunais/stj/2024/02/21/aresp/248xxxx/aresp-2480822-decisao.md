@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇAO CRIMINAL - DELITOS DE ESTELIONATO E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO - MARCOS DE INTERRUPÇÃO - PRESCRIÇÃO NÃO CONSTATADA - PRINCÍPIO DA CONSUNÇÃO - INAPLICABILIDADE NA ESPÉCIE - POTENCIALIDADE LESIVA DO DOCUMENTO - PERSISTÊNCIA APÓS O ESTELIONATO - CRIME CONTINUADO - FRAÇÃO MODIFICADA - SUBSTITUIÇÃO DA SANÇÃO CORPORAL - BENEFÍCIO NÃO RECOMENDADO - REGIME PRISIONAL JUSTIFICADO. 1. Afasta-se a pretensão de extinção da punibilidade dos réus, pela prescrição retroativa, se não ultrapassado o prazo prescricional, entre as datas dos marcos legais de interrupção. 2. O delito de falso não é absorvido pelo estelionato, nas hipóteses em que a potencialidade lesiva do documento público contrafeito persistiu após a a consecução do ardil necessário à obtenção da vantagem ilícita. 3. Sendo duas as práticas delitivas perpetradas em continuidade, emprega-se a fração de um sexto, na exasperação da pena. 4. A reiteração em delitos de mesma natureza não recomenda a concessão de benefícios descarcerizadores, para os dois réus, e abaliza a fixação do regime prisional semiaberto, em relação a um dos condenadas. (e-STJ fl. 462)
+A defesa aponta a violação dos arts. 33, § 2º, "b" do CP, alegando, em síntese, que estão presentes os requisitos para a fixação do regime prisional aberto, anotando, no ponto, que a reincidência é circunstância que deve ser valorada na segunda fase de individualização da pena, não sendo possível utilizá-la novamente para definir o regime de cumprimento da pena.
+Contrarrazões às e-STJ fls. 503/506.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 534/538.
+É o relatório. Decido.
+A irresignação não prosperar.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 3 anos, 7 meses e 5 dias de reclusão, em regime inicial semiaberto, pelo cometimento dos crimes dos arts. 171 e 297 do CP.
+A defesa alega que tendo sido aplicada pena inferior a 4 anos de reclusão, a reincidência do recorrente não pode ser utilizada para agravar o regime prisional.
+Sem razão, porquanto consoante dispõe o Enunciado Sumular de n. 269/STJ "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+No caso dos autos, por se tratar de réu reincidente, ainda que a pena corporal tenha sido fixada em patamar inferior a 4 anos, o regime inicial adequado é o semiaberto, conforme disposições do art. 33, § 2º, "c", e 59, ambos do Código Penal e o Enunciado da Súmula n. 269/STJ. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. PENA INFERIOR A QUATRO ANOS. REGIME SEMIABERTO. AGRAVANTE REINCIDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agra vada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+III - Na hipótese, inexiste constrangimento ilegal a ser sanado, eis que o paciente é reincidente, sendo aplicável, destarte, o regime mais gravoso sequente, qual seja, o semiaberto.
+Agravo regimental desprovido. (AgRg no HC n. 731.751/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 28/4/2023.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
