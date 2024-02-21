@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de três Agravos Internos interpostos por EDSON PEREIRA DA MACENA, JOÃO FERNANDES DOS SANTOS e JOSÉ VITORINO DOS SANTOS em face de decisão que rejeitou os três embargos de declaração por eles opostos em face da decisão que conheceu do conflito e declarou a competência do Juízo recuperacional.
+O presente incidente processual foi suscitado por IFER INDUSTRIAL LTDA e IFER DA AMAZÔNIA LTDA - ambas EM RECUPERAÇÃO JUDICIAL nos autos de execução trabalhista movida por ODILON NUNES BARRETO.
+A assinalada decisão que conheceu do conflito de competência não foi impugnada pelas recuperandas ou pelo obreiro exequente, ODILON NUNES BARRETO. Desse modo, transitou em julgado.
+A decisão que rejeitou os três embargos de declaração opostos pelos três ora agravantes em processo alheio, portanto, não observou que falta legitimidade aos postulantes, o que ora é reconhecido.
+Com efeito, o fato de terem na origem o mesmo advogado, subscritor de 15 peças em nome dos postulantes, assim como de também executarem a mesma ré, que não é parte no presente, tampouco encontra-se em recuperação judicial, não os torna automaticamente legitimados para ofertarem o seu próprio recurso. Fosse assim, quicá, milhares de credores trabalhistas poderiam apresentar, cada qual o seu próprio recurso. Outrossim, não se tem notícia de que, na origem, são litisconsortes, até mesmo porque, se fosse assim, apresentariam um único recurso.
+Por fim, destaque-se que, como de sabença, em sede de incidente de conflito de competência, não existe a obrigação de que a lide seja julgada nos termos em que posta pelas partes, porque a presente via não ostenta a feição recursal, servindo à preservação da ordem jurídica justa, ao definir o Juízo natural e competente para a imparcial prestação jurisdicional, interesse estatal de natureza objetiva, não se prestando, portanto, para tutelar os interesses subjetivos das partes individualmente considerados.
+Logo, a solução de questões ligadas a cada credor individualmente considerado deve ser levada a cabo pelo Juízo Universal, caso a pretensão se dê em face de recuperandos, ou pelo Juízo singular, nas hipóteses em que se exclua a competência do juízo recuperacional.
+Ante o exposto, julgando os três agravos internos referidos, reconheço, de ofício, a ilegitimidade dos agravantes, reconsiderando a decisão que rejeitou os três embargos de declaração, os quais não são conhecidos, tudo sem análise das pretensões me ritórias apresentadas pelos postulantes.
+Cumpra-se. Intimem-se.
+Arquivem-se.
+EMENTA
