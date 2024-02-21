@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL LEONDINO DA SILVA contra o eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o juiz de primeiro grau desclassificou a conduta prevista no art. 33, caput, para a prevista no art. 28, caput, ambos da Lei n. 11.343/2006.
+Irresignado, o Ministério Público interpôs recurso de apelação ao Tribunal de origem, que, por maioria de votos, deu parcial provimento ao recurso interposto, para condenar o réu a pena de 5 anos de reclusão, em regime fechado, e mais 500 dias-multa pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, nos termos do acórdão juntado às fls. 10-21 e 29-31, com a seguinte ementa:
+APELAÇÃO CRIMINAL - Tráfico de drogas - Sentença de desclassificação para o delito previsto no artigo 28 da Lei 11.343/06 -Conjunto probatório coligido aos autos, suficiente para ensejar decreto condenatório pelo crime de tráfico - Materialidade e autoria comprovadas -Prova cabal a demonstrar que o réu trazia consigo as drogas apreendidas para fins de tráfico - Depoimentos policiais coerentes e coesos, os quais têm o condão de embasar o decreto condenatório - Sentença reformada - Aplicação do benefício contido no § 4º, do art. 33, da Lei de Drogas, diante da não comprovação da dedicação do acusado à prática de atividades criminosas - Descabimento da substituição da pena privativa de liberdade pela pena restritiva de direitos - Sumula vinculante ainda não publicada - Regime prisional aberto adequado à hipótese, dada a primariedade do apelado e quantidade de pena imposta. RECURSO MINISTERIAL PROVIDO PARCIALMENTE.
+No presente writ, o impetrante sustenta que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, vez que a quantidade de drogas apreendidas é muito pequena, o paciente é primário, de bons antecedentes, bem como não há provas de que se dedique à atividade criminosa e nem que integre organizações criminosas.
+Requer, no mérito, a incidência do privilégio descrito no parágrafo 4º, do art. 33 da Lei n. 11.343/06 em seu patamar máximo, bem como a readequação do regime prisional e a substituição da pena privativa de liberdade por restritiva de direitos.
+O pedido liminar foi indeferido às fls. 35-36.
+As informações foram prestadas às fls. 42-62.
+O Ministério Público Federal, às fls. 79-80, manifestou-se nos termos da seguinte ementa:
+Habeas corpus. Tráfico privilegiado. Pena-base fixada no mínimo legal. Súmula Vinculante 59. Direito à substituição da pena corporal por penas restritivas de direitos. Parecer pela concessão da ordem.
+É o breve relatório.
+Decido.
+O impetrante sustenta que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, vez que a quantidade de drogas apreendidas é muito pequena, o paciente é primário, de bons antecedentes, bem como não há provas de que se dedique à atividade criminosa e nem que integre organizações criminosas.
+No caso, conforme ofício de fls. 66-78, o Supremo Tribunal Federal concedeu, de ofício, o habeas corpus em favor do paciente em 6/11/2023, nos autos do HC 234.668/SP, e aplicou o redutor do "§ 4º do art. 33 da Lei 11.343/2006 no patamar de 2/3 (dois terços) e fixou a pena privativa de liberdade em 1 ano e 8 meses de reclusão e mais 166 dias-multa, fixando o regime aberto e determinando a sua substituição por duas penas restritivas de direitos, o que causou a perda de obje to do writ aqui impetrado.
+Ante o exposto, julgo prejudicado o habeas corpus.
+P. e I.
+EMENTA
