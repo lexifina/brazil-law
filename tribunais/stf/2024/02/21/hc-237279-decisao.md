@@ -1,0 +1,129 @@
+DECISÃO
+
+HABEAS CORPUS. PENAL. PROCESSUAL PENAL. TRÁFICO INTERESTADUAL DE ENTORPECENTES. APREENSÃO DE MAIS DE SETE TONELADAS DE MACONHA. INVIOLABILIDADE DE DOMICÍLIO. CRIME PERMANENTE. BUSCA E APREENSÃO DOMICILIAR SEM MANDADO JUDICIAL EM CASO DE CRIME PERMANENTE. POSSIBILIDADE. TEMA 280 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Habeas corpus, com requerimento de medida liminar, impetrado, em 19.1.2024, por Fábio Ricardo Mendes Figueiredo e outro, advogados, em benefício de Jesse Ferreira Alves Júnior, contra ato do Superior Tribunal de Justiça, pelo qual, em 13.6.2023, rejeitados os Embargos de Declaração no Agravo Regimental no Recurso em Habeas Corpus
+n. 177.029/MS.
+
+O caso
+
+    2. Consta ter sido o paciente denunciado, em 28.7.2022, pelo Ministério Público de Mato Grosso do Sul, com outros oito acusados, pela prática do delito previsto no caput do art. 33 e no inc. V do art. 40 da Lei n. 11.343/2006 (tráfico interestadual de entorpecente), conforme os fatos narrados:
+
+    “Consta dos autos que, na madrugada do dia 24 de junho de 2022, no galpão localizado na Rua Padre João Delfino, nº 932, Bairro Jardim Itamaracá, nesta capital e comarca de Campo Grande/MS, os denunciados BRUNO TADEU CANDIDO DE BARROS, DEIVISON FLÁVIO MEL DE BARROS, FELIPE ODILON GOMES e MARCOS ANTÔNIO NASCIMENTO DE BRITO foram presos em flagrante delito mantendo em depósito e transportando, para fins de comercialização, 148 (cento e quarenta e oito) fardos de maconha, pesando o total de 3.118,008kg (três mil cento e dezoito quilogramas e oito gramas), com destino a outro estado da federação (São Paulo), sem autorização ou em desacordo com determinação legal ou regulamentar, a mando dos denunciados JESSÉ FERREIRA ALVES JÚNIOR e EDMAR ALVES FERREIRA, e com a participação dos denunciados RONALDO DE OLIVEIRA DOS SANTOS, RICARDO FRANCO DE FREITAS e JOSÉ CARLOS GONÇALVES.
+
+    Consta dos autos, ainda, que no mesmo dia dos fatos acima descritos, no assentamento ‘ELDORADO 2’, nº 5.195, Q05, Bairro Zona Rural, Sidrolândia/MS, os denunciados RONALDO DE OLIVEIRA DOS SANTOS, RICARDO FRANCO DE FREITAS e JOSÉ CARLOS GONÇALVES foram presos em flagrante delito mantendo em depósito, para fins de comercialização, 274 (duzentos e setenta e quatro) fardos de maconha, pesando o total de 4.173,006kg (quatro mil cento e setenta e três quilogramas e seis gramas), com destino a outro estado da federação (São Paulo), sem autorização ou em desacordo com determinação legal ou regulamentar, a mando dos denunciados JESSÉ FERREIRA ALVES JÚNIOR e EDMAR ALVES FERREIRA, e com a participação dos denunciados BRUNO TADEU CANDIDO DE BARROS, DEIVISON FLÁVIO MEL DE BARROS, FELIPE ODILON GOMES e MARCOS ANTÔNIO NASCIMENTO DE BRITO.
+
+    Segundo restou apurado, na data dos fatos, policiais militares do batalhão de choque receberam informações no sentido de que um galpão, situado na Rua Padre João Delfino, nº 932, Bairro Jardim Itamaracá, nesta capital, estaria sendo utilizado para armazenamento e distribuição de drogas, de modo que decidiram se dirigir até o local para averiguar a procedência da denúncia anônima.
+
+    No local, os policiais perceberam uma grande movimentação no interior do galpão, atípica para aquele horário da madrugada, sendo que o local estava com o portão entreaberto, de modo que foi possível verificar que quatro indivíduos, posteriormente identificados como sendo os denunciados BRUNO TADEU CANDIDO DE BARROS, DEIVISON FLÁVIO MEL DE BARROS, FELIPE ODILON GOMES e MARCOS ANTÔNIO NASCIMENTO DE BRITO, descarregavam grandes fardos de maconha de um caminhão.
+
+    Assim, os policiais militares realizaram a incursão para abordagem dos indivíduos, que, ao perceberem a presença da guarnição, imediatamente passaram a destruir os aparelhos celulares que estavam consigo.
+
+    Os policiais militares lograram êxito em abordar os indivíduos, identificando-os como sendo os denunciados BRUNO TADEU CANDIDO DE BARROS, DEIVISON FLÁVIO MEL DE BARROS, FELIPE ODILON GOMES e MARCOS ANTÔNIO NASCIMENTO DE BRITO. No chão do galpão havia 08 (oito) fardos de maconha, enquanto que no interior do caminhão, identificado como sendo o veículo RENAULT/MASTER MBUS, placas ALP-5637 de Carapicuíba/SP, havia mais 128 (cento e vinte e oito) fardos de maconha. No interior de uma sala do galpão também foram localizados mais 12 (doze) fardos de maconha, totalizando a apreensão de 148 (cento e quarenta e oito) fardos de maconha, pesando o total de 3.118,008kg (três mil cento e dezoito quilogramas e oito gramas).
+
+    Questionados sobre as drogas, BRUNO confirmou à guarnição policial que o denunciado MARCOS ANTÔNIO era responsável por conduzir o caminhão que estava no local, sendo que deveria buscar e trazer drogas que estavam em uma chácara próxima ao município de Sidrolândia/MS, pelo o que receberia R$ 4.000,00 (quatro mil reais), o que foi por ele (MARCOS ANTÔNIO) confirmado e que será abordado adiante. Já FELIPE e DEIVISON foram contratados por BRUNO por R$ 500,00 (quinhentos reais) cada para descarregarem e carregarem os entorpecentes.
+
+    BRUNO também relatou aos policiais que foi contratado por R$ 1.000,00 (mil reais mensais) para alugar em seu próprio nome o galpão onde as drogas se encontravam, tudo a mando dos denunciados JESSÉ FERREIRA ALVES JÚNIOR e EDMAR ALVES FERREIRA, os quais eram responsáveis pelo transporte da droga da cidade de Ponta Porã/MS até esta capital, Campo Grande/MS, bem como realizar os pagamentos às demais pessoas subcontratadas por ele para o manejo dos entorpecentes, tais como FELIPE e DEIVISON.
+
+    Também foi indicado pelo denunciado BRUNO que JESSÉ e EDMAR primeiramente determinavam a entrega das drogas em uma chácara em Sidrolândia/MS, onde eram recebidas e armazenadas pelos denunciados RONALDO DE OLIVEIRA DOS SANTOS e JOSÉ CARLOS GONÇALVES, e posteriormente transportadas até o galpão onde houve o primeiro flagrante. Em sequência, as drogas seriam remetidas ao Estado de São Paulo, através da empresa transportadora de propriedade do denunciado RICARDO FRANCO DE FREITAS.
+
+    De acordo com o informado pelos autuados em flagrante no galpão situado no Bairro Jardim Itamaracá, RONALDO DE OLIVEIRA DOS SANTOS, JOSÉ CARLOS GONÇALVES e RICARDO FRANCO DE FREITAS estavam aguardando a entrega de parte das drogas em um posto de combustíveis, situado na Rodoanel Rodoviário, ‘Posto América’, não muito longe dali, inclusive no mesmo bairro.
+
+    Os policiais então se dirigiram até o posto de combustíveis informado, onde localizaram os denunciados RONALDO DE OLIVEIRA DOS SANTOS e JOSÉ CARLOS GONÇALVES aguardando em um veículo VW/GOL, placas NDD-7H41, e o denunciado RICARDO FRANCO DE FREITAS em um veículo RENAULT/SANDERO, placas EUC-8716, exatamente como informado pelos codenunciados.
+
+    Em seguida, os policiais militares se dirigiram à chácara situada no assentamento ‘ELDORADO 2’, nº 5.195, Q05, Bairro Zona Rural, Sidrolândia/MS, local este indicado por BRUNO e por MARCOS ANTÔNIO como sendo de propriedade dos denunciados RONALDO e JOSÉ CARLOS, e onde estaria o restante da droga que ainda era trasladada para o galpão nesta capital.
+
+    Novamente, assim como relatado pelos denunciados, os policiais militares encontraram e apreenderam na localidade 274 (duzentos e setenta e quatro) fardos de maconha, pesando o total de 4.173,006kg (quatro mil cento e setenta e três quilogramas e seis gramas).
+
+    Por fim, os policiais militares se dirigiram até o local indicado pelos denunciados onde JESSÉ FERREIRA e EDMAR ALVES estariam, tratando-se do ‘Hotel Paris’, situado na Av. Gury Marques, os quais foram também abordados no veículo previamente apontado pelos codenunciados, tratando-se de uma TOYOTA/HILUX, placas GJR-9H84, de Ponta Porã/MS.
+
+    Os denunciados foram presos em flagrante delito e conduzidos à unidade policial, bem como os veículos utilizados na prática criminosa e acima indicados, além dos aparelhos celulares e valores que estavam com os autuados, foram todos apreendidos” (fls. 45-48, e-doc. 5).
+
+    3. Decretada a prisão em flagrante do paciente em 24.6.2022 e convertida em preventiva em 26.6.2022 (fl. 55, e-doc. 5), impetrou-se habeas corpus pela defesa no Tribunal de Justiça de Mato Grosso do Sul (HC n. 1411031-56.2022.8.12.0000). Em 15.9.2022, a Primeira Câmara Criminal denegou a ordem. Esta é a ementa do julgado:
+
+    “HABEAS CORPUS – TRÁFICO ILÍCITO DE DROGAS – MAIS DE 7 TONELADAS DE ‘MACONHA’ – PRISÃO PREVENTIVA – PEDIDO DE REVOGAÇÃO – INVIABILIDADE – PRESENÇA DOS PRESSUPOSTOS E FUNDAMENTOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL – SEGREGAÇÃO NECESSÁRIA PARA GARANTIA DA ORDEM PÚBLICA – APLICAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO – NÃO RECOMENDAÇÃO – INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL – ORDEM DENEGADA. Demonstrada de forma concreta a necessidade da custódia cautelar, advinda da necessidade de se resguardar a ordem pública, em razão da: a) extraordinária quantidade de entorpecente apreendido (mais de 7 toneladas de ‘maconha’), havendo fortes indicativos de que seriam transportados entre diferentes Estados da Federação, bem como pelo modus operandi, que apontam para atuação organizada com pelos menos 9 outras pessoas, sendo o ora paciente um dos líderes; e ainda dos: b) maus antecedentes do paciente, já que possui condenação por crime do mesmo jaez; não há falar em revogação da prisão preventiva. Não bastasse a extrema gravidade da conduta, verifica-se, conforme informações prestadas pela autoridade impetrada, que o paciente ostenta condenação pelos crime de lesão corporal (art. 129, § 9º, do CP) e tráfico de drogas (art. 33, caput, c/c art. 40, V, da Lei nº 11/343/06), tudo a revelar sua periculosidade e que a aplicação de medidas cautelares alternativas à prisão não seriam suficientes para resguardar os valores conditos no art. 312 do CPP. Com o parecer, ordem denegada”(fl. 53, e-doc. 5 - grifos nossos).
+
+    4. Contra o acórdão do Tribunal estadual impetrou-se o Recurso Ordinário em Habeas Corpus n. 177.029/MS no Superior Tribunal de Justiça e, em 4.4.2023, a então Relatora, Ministra Laurita Vaz, monocraticamente, negou provimento ao recurso ordinário em habeas corpus (e-doc. 2).
+
+    A defesa interpôs agravo regimental para insistir na tese de nulidade das provas apreendidas em flagrante manifestamente ilegal e pedir o trancamento da ação penal na origem.
+
+    Em sessão virtual de 16.5.2023 a 22.5.2023, a Sexta Turma do Superior Tribunal de Justiça negou provimento ao agravo regimental. Esta a ementa do julgado:
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. INGRESSO EM DOMICÍLIO. EXISTÊNCIA DE FUNDADAS RAZÕES. LICITUDE DAS PROVAS OBTIDAS. AGRAVO DESPROVIDO. 1. O Supremo Tribunal Federal, no Julgamento do Recurso Extraordinário
+n. 603.616/RO, apreciando o Tema n. 280 da repercussão geral, de Relatoria do Exmo. Ministro GILMAR MENDES, firmou a tese de que ‘a entrada forçada em domicílio sem mandado judicial é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que, dentro da casa, ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil, e penal do agente ou da autoridade e de nulidade dos atos praticados’, conforme se extrai do esclarecimento do Exmo. Ministro TEORI ZAVASCKI, no corpo do julgado. 2. No caso, o ingresso no imóvel (domicílio) possuiu fundadas razões, em virtude das circunstâncias que antecederam a entrada dos policiais no local, pois, no controle judicial a posteriori, foi ressaltado pelo Tribunal que os agentes, após receberem ‘denúncia anônima’, dirigiram-se até o endereço para averiguação (prévia), onde vieram a constatar a existência de grande movimentação no interior do galpão (flagrante) e, pelo fato do portão estar entreaberto, foi possível verificar que quatro indivíduos descarregavam fardos suspeitos de um caminhão. 3. Todo esse contexto revela elementos mínimos a caracterizar fundadas razões, de modo a afastar o pedido de nulidade. Dito de outro modo, havia dados objetivos, concretos e suficientes de que os Acusados pudessem estar, de algum modo, concorrendo para prática de tráfico de drogas (crime permanente). 4. Para desconstituir a convicção do Tribunal local de que o ingresso no domicílio teria se dado de modo diverso, inclusive, aferindo se a alegação do que foi relatado pelos policiais por ocasião da audiência judicial diverge ou não da versão constante do auto de prisão em flagrante, imprescindível seria o revolvimento fático-probatório dos autos, providência inviável de se promover no rito célere e estreito do habeas corpus ou do recurso que lhe faz as vezes. 5. Agravo regimental desprovido” (fl. 1, e-doc. 3).
+
+    Os embargos declaratórios da defesa foram rejeitados pela Sexta Turma em 13.6.2023 (e-doc. 4).
+
+    5. A defesa afirma que “apresentou defesa prévia em 05-09-2022, alegando preliminarmente a nulidade do flagrante por violação de domicílio com base em denúncia anônima. No mérito, em síntese, sustentou a ausência de indícios de autoria e ao final requereu o acolhimento da preliminar com consequente trancamento da ação penal e, não sendo este o entendimento do magistrado, que o Paciente fosse absolvido por inexistir provas de sua participação no crime imputado” (fl. 4, e-doc. 1).
+
+    Sustenta que, “diverso do que consta na r. decisão, a atuação policial não foi precedida de diligências prévias após o recebimento da denúncia anônima (...) os policiais visualizaram quatros indivíduos realizando a descarga de diversos fardos, que até então não sabiam o conteúdo, do que se tratavam e, se aproximaram para realizar a abordagem, pois o portão de acesso estava entre aberto, ou seja, neste momento já estavam dentro do imóvel” (fls. 5-6, e-doc. 1).
+
+    Assevera que “não houve autorização para ingresso dos policiais no imóvel, seja judicial, verbal ou escrita. A atuação não foi gravada ou acompanhada por testemunhas do povo. Tudo, em desacordo com o procedimento legal” (fl. 6, e-doc. 1).
+
+    Realça que, “na espécie, houve uma mera desconfiança, sendo que não ficou registrado nenhuma investigação prévia, apenas e somente uma ronda policial no local” (fl. 8, e-doc. 1).
+
+    Alega que “os policiais se precipitaram e, sem anuência e/ou autorização judicial violaram o domicílio, em flagrante ilegalidade do ato (...) sequer houve demonstração de vigilância prévia. Não há fotos do local, do caminhão, dos indivíduos, isto, antes do ingresso dos policiais, tampouco depois. Não há nem menção/identificação de movimentações suspeitas na região” (fls. 8 e 9,
+e-doc. 1).
+
+    Estes os requerimentos e os pedidos:
+
+    “Em face ao exposto, os impetrantes requerem a Vossa Excelência a concessão de Medida Liminar para conceder a presente ordem de Habeas Corpus, e por conseguinte, reconhecer a ilicitude das provas derivadas do Auto de Prisão em Flagrante n. 0005923-56.2022.8.12.0800, em razão da violação de domicílio baseada em denúncia anônima, o que caracteriza total afronta aos preceitos constitucionais previstos no artigo 5º, IV, X, XI e LVI;
+
+    E, consequentemente, por derivação, determinar o trancamento da Ação Penal n. 0020624-91.2022.8.12.0001, por estar eivada de nulidade, sendo esta medida da mais lídima e escorreita JUSTIÇA!
+
+    Requerem ainda, a intimação da data da sessão de julgamento
+do presente Habeas Corpus, pelo endereço eletrônico escritorio.adv.frmf@gmail.com ou pelo fone (067) 3431-4662, pois têm interesse em produzir sustentação oral” (fl. 14, e-doc. 1).
+
+    6. Em 22.1.2024, o Ministro Luís Roberto Barroso, Presidente do Supremo Tribunal Federal, decidiu que a espécie em foco não se enquadraria no inc. VIII do art. 13 do Regimento Interno deste Supremo Tribunal (e-doc. 8).
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    7. Os elementos jurídicos apresentados não autorizam o prosseguimento desta ação no Supremo Tribunal Federal.
+
+    8. Pretende-se, com a presente impetração, a decretação de nulidade das provas decorrentes da prisão em flagrante realizada pelos policiais (Processo n. 0020624-91.2022.8.12.0001 da Quinta Vara Criminal da comarca de Campo Grande/MS), além do trancamento da ação penal iniciada na origem, pois a apreensão das drogas teria ocorrido em clara afronta ao princípio da inviolabilidade de domicílio (inc. XI do art. 5º da Constituição da República).
+
+    O Superior Tribunal de Justiça afastou o alegado constrangimento ilegal pelos seguintes fundamentos:
+
+    “No caso, o Tribunal de origem refutou a suposta nulidade da busca e apreensão domiciliar, valendo-se da fundamentação a seguir transcrita (fls. 138-139; sem grifos no original):
+
+    ‘Na hipótese vertente, as fundadas razões encontram-se demonstradas nos autos, na medida em que, ao que consta, os policiais civis, em atividade voltada para investigação de denúncia anônima acerca da utilização de um galpão para armazenamento e distribuição de drogas, realizaram patrulhamento nas imediações do local e, por volta das 00 horas do dia 24/06/2022, visualizaram movimentação no interior do galpão, sendo que, em razão do portão do galpão estar entreaberto, visualizaram o momento em que quatro homens descarregavam diversos fardos, oportunidade em que realizaram a abordagem e ingresso no imóvel.
+
+    Logo, a justa causa restou demonstrada, uma vez que os policiais, após receberem a denúncia anônima, dirigiram-se até o endereço para averiguação, onde vieram a constatar a existência de grande movimentação no interior do galpão e, pelo fato do portão estar entreaberto, foi possível verificar que quatro indivíduos descarregavam fardos suspeitos de um caminhão’.
+
+    Como se vê dos excertos acima, o ingresso no imóvel (domicílio) possuiu fundadas razões, em virtude das circunstâncias que antecederam a entrada dos policiais no local, pois, no controle judicial a posteriori, foi ressaltado pelo Tribunal que os agentes, após receberem ‘denúncia anônima’, dirigiram-se até o endereço para averiguação (prévia), onde vieram a constatar a existência de grande movimentação no interior do galpão (flagrante) e, pelo fato do portão estar entreaberto, foi possível verificar que quatro indivíduos descarregavam fardos suspeitos de um caminhão.
+
+    Todo esse contexto revela elementos mínimos a caracterizar fundadas razões, de modo a afastar o pedido de nulidade. Dito de outro modo, havia dados objetivos, concretos e suficientes de que os Acusados pudessem estar, de algum modo, concorrendo para prática de tráfico de drogas (crime permanente)” (fl. 4, e-doc. 2).
+
+    9. Na espécie, as instâncias judiciais antecedentes decidiram em harmonia com a jurisprudência do Supremo Tribunal Federal, no sentido de que “a Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito” (Tema 280 da repercussão geral):
+
+    “Recurso extraordinário representativo da controvérsia. Repercussão geral. 2. Inviolabilidade de domicílio – art. 5º, XI, da CF. Busca e apreensão domiciliar sem mandado judicial em caso de crime permanente. Possibilidade. A Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo. 3. Período noturno. A cláusula que limita o ingresso ao período do dia é aplicável apenas aos casos em que a busca é determinada por ordem judicial. Nos demais casos – flagrante delito, desastre ou para prestar socorro – a Constituição não faz exigência quanto ao período do dia. 4. Controle judicial a posteriori. Necessidade de preservação da inviolabilidade domiciliar. Interpretação da Constituição. Proteção contra ingerências arbitrárias no domicílio. Muito embora o flagrante delito legitime o ingresso forçado em casa sem determinação judicial, a medida deve ser controlada judicialmente. A inexistência de controle judicial, ainda que posterior à execução da medida, esvaziaria o núcleo fundamental da garantia contra a inviolabilidade da casa (art. 5, XI, da CF) e deixaria de proteger contra ingerências arbitrárias no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1). O controle judicial a posteriori decorre tanto da interpretação da Constituição, quanto da aplicação da proteção consagrada em tratados internacionais sobre direitos humanos incorporados ao ordenamento jurídico. Normas internacionais de caráter judicial que se incorporam à cláusula do devido processo legal. 5. Justa causa. A entrada forçada em domicílio, sem uma justificativa prévia conforme o direito, é arbitrária. Não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida. 6. Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados. 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso” (RE n. 603.616, Relator o Ministro Gilmar Mendes, Plenário, DJe 10.5.2016).
+
+    Sendo permanente o crime de tráfico, a busca domiciliar, na espécie, conforma-se ao disposto no inc. XI do art. 5º da Constituição da República.
+
+    10. Ademais, é firme a jurisprudência deste Supremo Tribunal no sentido de que a “denúncia anônima é apta à deflagração da persecução penal, desde que seguida de diligências realizadas para averiguar os fatos nela noticiados antes da instauração de inquérito policial. Precedentes: HC 108.147, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º.02.13; HC 105.484, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 16.04.13; HC 99.490, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 1º.02.11; HC 98.345, Primeira Turma, Redator para o acórdão o Ministro Dias Toffoli, DJe de 17.09.10; HC 95.244, Primeira Turma, Relator o Ministro Dias Toffoli, DJe de 30.04.10” (RHC n. 117.972, Relator o Ministro Luiz Fux, Primeira Turma, DJe 20.3.2014).
+
+    11. Em processos análogos, este Supremo Tribunal tem afastado a alegação de ilicitude de provas nos casos de crime permanente quando há justa causa para o ingresso na residência:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL PENAL. INVIOLABILIDADE DE DOMICÍLIO: INC. XI DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. BUSCA E APREENSÃO DOMICILIAR SEM MANDADO JUDICIAL EM CASO DE CRIME PERMANENTE. POSSIBILIDADE. TEMA 280 DA REPERCUSSÃO GERAL. AFRONTA À INVIOLABILIDADE DE DOMICÍLIO NÃO EVIDENCIADA. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO. AGRAVO REGIMENTAL DESPROVIDO” (RE 1.448.725-AgR, de minha relatoria, Primeira Turma, DJe 11.10.2023).
+
+    “Penal e processual penal. Agravo regimental em recurso ordinário em habeas corpus. Tráfico de drogas e posse irregular de munições. Inadequação da via eleita. Violação de domicílio. Fundadas razões. Jurisprudência do Supremo Tribunal Federal. Fatos e provas. 1. A orientação do Supremo Tribunal Federal (STF) é no sentido de que o ‘habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado’ (HC 118.292-AgR, Rel. Min. Luiz Fux). 2. Jurisprudência do STF no sentido de que a ‘Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo’ (RE 603.616, Rel. Min. Gilmar Mendes). Ainda, nada impede a deflagração da persecução penal pela chamada ‘denúncia anônima’, desde que esta seja seguida de diligências realizadas para averiguar os fatos nela noticiados (HC 105.484, Rel.ª Min.ª Cármen Lúcia). Precedentes. 3. Verificação, pelas instâncias antecedentes, da existência de prévia justa causa para o ingresso no domicílio. Decisões amparadas por elementos constantes nos autos, não se verificando ilegalidade ou teratologia. Conclusão diversa que demanda o reexame do conjunto fático-probatório, providência impossível na via restrita do habeas corpus. 5. Agravo regimental a que se nega provimento” (RHC n. 198.977-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 26.5.2021).
+
+    Como ressaltado pelo Ministro Alexandre de Moraes no julgamento do Recurso Extraordinário com Agravo n. 1.430.436, “o entendimento adotado pelo STF impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito”
+(DJe 6.6.2023).
+
+    Assim, pelo que se tem no processo, não há comprovação de ilegalidade na ação dos policiais, pois as razões para o ingresso no galpão foram devidamente justificadas e resultaram em apreensão de mais de sete toneladas de droga ilícita.
+
+    12. Pela jurisprudência do Supremo Tribunal Federal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental”
+(HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+
+    13. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+    Publique-se.
+
+    Brasília, 21 de fevereiro de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
