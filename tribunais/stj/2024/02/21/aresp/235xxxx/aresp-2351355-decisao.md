@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ROSANE HINDLMAYER de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, c, da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 590):
+ADMINISTRATIVO E PROCESSUAL CIVIL. PENSÃO EX-COMBATENTE. REVISÃO. DECADÊNCIA.
+1. A aplicação de prazo decadencial para revisão de ato administrativo (artigo 54 da Lei n.º 9.784/1999), em situações de omissão da Administração Pública, é questionável, especialmente diante de flagrante inconstitucionalidade, uma vez que (a) o ato ilegal/inconstitucional não gera direito subjetivo ao destinatário, e (b) em se tratando de relação jurídica detrato sucessivo (e, portanto, de omissão persistente), eventual prazo (assim como a própria ilicitude) é renovado periodicamente (TRF4, 4ª Turma, Agravo Legal em TAA 5046996-60.2016.4.04.0000, Relatora Des. Federal Vivian Josete Pantaleão Caminha, j. em 21/06/2017).
+2. Não havendo inércia do TCU para análise da concessão da pensão, o prazo decadencial para que a União possa revisar seus atos começa a fluir a contar da publicação do decidido pela Corte de Contas.
+No recurso inadmitido, a parte ora agravante sustenta que ao deixar de reconhecer a decadência administrativa no caso concreto, o Tribunal de origem "desrespeitou o que foi decidido pelo Supremo Tribunal Federal no RE 636553/RS (tema 445)" (fl.607).
+A tanto, afirma que o prazo decadencial previsto no art.54 da Lei n. 9.784/1999 inicia-se com a chegada do processo no TCU e não com o seu julgamento.
+Segue afirmando que "o processo para registro da pensão foi disponibilizado ao TCU em 10/07/2014e a portaria de instauração de sindicância responsável pela anulação da pensão da parte autora data de 28/10/2019, logo, é evidente a ocorrência da decadência, pois, conforme o marco temporal estabelecido pelo Supremo Tribunal Federal, se passaram mais de cinco anos" (fl. 609).
+Já no agravo, aduz que os pressupostos de admissibilidade do recurso especial encontram-se presentes, reprisando as razões nele expendidas.
+Contraminuta às fls. 2.630/2.654.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Preenchidos os pressupostos de admissibilidade do agravo, examino o próprio apelo nobre, o qual, todavia, não pode ser conhecido.
+Com efeito, a hipótese de cabimento do recurso especial, previsto na alínea c do permissivo constitucional, referência à eventual existência de dissídio pretoriano a respeito de dispositivo de lei federal.
+Sucede que no caso concreto a parte recorrente aponta a existência dissenso jurisprudencial indicando, como paradigma, acórdão prolatado pelo Supremo Tribunal Federa em sede de recurso extraordinário, no qual fora julgada questão de natureza constitucional, a respeito da existência de prazo para que o TCU apreciei os processos de sua competência.
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 20% sobre a verba honorária fixada nas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
