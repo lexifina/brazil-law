@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por SERVIX ENGENHARIA S.A. com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Décima Sexta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (e-STJ, fl. 322):
+AGRAVO INTERNO - NÃO CONHECIMENTO DE APELAÇÃO -DIALETICIDADE RECURSAL - VIOLAÇÃO - CONHECIMENTO DO APELO -IMPOSSIBILIDADE.
+-Por ofensa ao princípio da dialeticidade recursal, não se conhece de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (CPC, art. 1.010, II e III).
+-Incumbe ao relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (CPC, art. 932, III).
+Não foram opostos os embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 331-347), a recorrente apontou violação aos arts. 489, §1º, I, III e IV, e 932, III, do CPC/2015; e aos arts. 94, II, e 98, parágrafo único, da Lei n. 11.101/2005.
+Alegou que, não obstante as razões declinadas nos recursos na instância ordinária, o Tribunal de origem deixara de se manifestar sobre os relevantes argumentos suscitados, fundamentados nos artigos 94,inciso II e 98, parágrafo único da LRJF, vigentes e aplicáveis à hipótese dos autos.
+Aduziu que a decisão proferida "limitou-se à reprodução dos arts. 932, inciso III e 1.010, sem minimamente esclarecer o seu enquadramento à espécie, e aplicabilidade no caso concreto, para, ao final, simplesmente dizer que "o recurso da apelante/agravante, como exposto na decisão monocrática atacada por este agravo interno, não poderia mesmo ter sido conhecido"" (e-STJ, fl. 341).
+Ponderou que pretendera demonstrar na apelação a ausência do preenchimento dos requisitos mínimos previstos no art. 94, II, da Lei de Falência, sobretudo porque nomeados bens à penhora suficientes à garantia das execuções movidas, de modo que a execução deveria ter sido julgada improcedente. Logo, a apelação interposta cumprira o requisito da dialeticidade.
+Asseverou que "ao confirmar a inadmissibilidade da apelação aviada em face da sentença que convolou o pedido falimentar em ação de cobrança, e reconheceu o direito do Recorrido ao levantamento do depósito elisivo, o acórdão recorrido manifestamente violou a disposição do parágrafo único do artigo 98 da LRJF" (e-STJ, fl. 344).
+Sustentou que o levantamento do depósito elisivo em favor da parte agravada somente poderia ser concretizado se o pedido de falência fosse julgado procedente, o que não é o caso dos autos.
+Não foram apresentadas as contrarrazões (e-STJ, fl. 359).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 360-363), o que ensejou a interposição do presente agravo (e-STJ, fls. 366-375).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, cabe rechaçar de plano a alegada violação ao art. 489, §1º, do CPC/2015. Isso porque a Corte de origem consignou, de forma clara, a ausência de dialeticidade.
+Veja-se (e-STJ, fls. 324-325):
+A apelante apresentou este agravo interno contra a monocrática que negou conhecimento ao recurso de apelação por ela interposto.
+A sua pretensão de reforma dessa decisão monocrática não procede, pois neste agravo interno ela não apresentou argumentos capazes de demonstrar que seu recurso de apelação preenche o pressuposto de admissibilidade relativo à dialeticidade recursal.
+Ora, o apelo apresentado pela ora agravante ofende mesmo o princípio da dialeticidade, já que não impugnou especificamente os fundamentos da sentença recorrida.
+Com efeito, na sentença recorrida, o juiz de 1º grau julgou improcedente o pedido falimentar feito pela ora agravada contra a ora agravante, em face do depósito elisivo que esta realizou, e, diante da liquidez, certeza e exigibilidade da dívida da ora agravante perante a ora agravada, converteu o feito em ação de cobrança e autorizou o levantamento do depósito elisivo pela ora agravada.
+Ocorre que, nas razões do seu recurso de sua apelação, a apelante, ora agravante, não impugnou esses fundamentos que serviram de suporte à sentença recorrida, não expondo os motivos pelos quais quer reformá-la.
+É que a agravante, nas razões do seu apelo, limitou-se a afirmar que as execuções movidas pela ora agravada em seu desfavor foram garantidas mediante nomeação de bens à penhora, algo que afastaria sua insolvência e obstaria o pedido de decretação de falência feito pela agravada, em razão da inexistência do requisito mínimo para isso.
+ ..
+Assim, não existiu mesmo impugnação específica sobre aquilo que serviu de fundamento para se decidir, pelo que o recurso de apelação da ora agravante violou a regra do art. 1.010 do CPC:
+Com efeito, nos termos da jurisprudência desta Corte Superior, inexiste violação ao art. 489 do CPC/2015, tampouco nulidade da decisão ou negativa de prestação jurisdicional, quando as questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões.
+A propósito (sem grifo na original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA EMBARGANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 489 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+ ..
+7. Agravo interno desprovido.(AgInt no AREsp n. 2.275.344/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Em relação à impugnação aos fundamentos, o Tribunal de origem assim assentou seu entendimento (e-STJ, fl. 325):
+Com efeito, na sentença recorrida, o juiz de 1º grau julgou improcedente o pedido falimentar feito pela ora agravada contra a ora agravante, em face do depósito elisivo que esta realizou, e, diante da liquidez, certeza e exigibilidade da dívida da ora agravante perante a ora agravada, converteu o feito em ação de cobrança e autorizou o levantamento do depósito elisivo pela ora agravada.
+Ocorre que, nas razões do seu recurso de sua apelação, a apelante, ora agravante, não impugnou esses fundamentos que serviram de suporte à sentença recorrida, não expondo os motivos pelos quais quer reformá-la.
+É que a agravante, nas razões do seu apelo, limitou-se a afirmar que as execuções movidas pela ora agravada em seu desfavor foram garantidas mediante nomeação de bens à penhora, algo que afastaria sua insolvência e obstaria o pedido de decretação de falência feito pela agravada, em razão da inexistência do requisito mínimo para isso.
+Nesse contexto, a revisão do julgado quanto à conclusão alcançada pela Corte de origem no que tange à impugnação aos fundamentos da sentença importa necessariamente o reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado da Súmula n. 7 deste Superior Tribunal.
+Registra-se, por oportuno, não ser o caso de revaloração de provas, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Por fim, quanto à alegada violação arts. 94, II, e 98, parágrafo único, da Lei n. 11.101/2005, constata-se que a Corte de origem não se pronunciou sobre as matérias alvo do reclamo, tampouco foram opostos os embargos de declaração para tal finalidade, deixando de cumprir a condição do prequestionamento.
+Em verdade, dada a natureza vinculada e excepcional do recurso especial, o qual é vocacionado à tutela do direito objetivo federal, o prequestionamento é requisito indispensável e inarredável para o acesso do reclamo à via especial, sendo que o descumprimento obsta, como na hipótese dos autos, o seu conhecimento e processamento por incidência dos enunciados das Súmulas n. 282 e 356/STF.
+Ilustrativamente (sem grifo no original):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. DANOS MORAIS. INDENIZAÇÃO. SÚMULA 7/STJ.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.363.775/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nega-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. 1. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 489 DO CPC/2015. NULIDADE DA DECISÃO. INEXISTÊNCIA. VIOLAÇÃO AO ART. 932 DO CPC/2015. EFETIVA IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. DIALETICIDADE. PRETENSÃO QUE DEMENDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 2. ARTS. 94 E 98 DA LEI N. 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
