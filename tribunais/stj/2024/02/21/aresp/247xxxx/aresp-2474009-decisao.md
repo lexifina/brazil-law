@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de agravo recurso especial interposto por ITAU VIDA E PREVIDENCIA S.A., no qual se discute o foro competente para o processamento e julgamento do presente processo, tendo em vista que "estando a inicial fundamentada em pedido referente à apólice Ramo 66, presume-se, por conseguinte, o interesse da CEF no feito." (e-STJ Fl. 1.025)
+Nos termos da superveniente orientação jurisprudencial firmada pela Corte Especial deste Superior Tribunal de Justiça nos autos do CC 148.188/DF, DJ de 16/10/2023 - pautada em uma lógica jurídica de hierarquia e verticalidade - compete às Turmas que integram a Primeira Seção desta Colenda Corte processar e julgar recursos que envolvam contratos de mútuo habitacional amparados em apólices securitárias de natureza pública (Ramo 66), em que possa haver comprometimento do Fundo de Compensação das Variações Salariais - FCVS.
+Por tratar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, §1º, inciso XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
+EMENTA
