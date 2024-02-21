@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Rio de Janeiro com fundamento do art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça local que não conheceu do writ, mas concedeu ordem de habeas corpus de ofício para anular a sentença que determinou a transferência do recorrido para penitenciária federal.
+O recorrente aponta a violação dos arts. 5º e 86, § 1º, da Lei n. 7.210/1984 (Lei de Execução Penal), 3º, 4º, caput, 5º, caput e § 3º, e 10º, caput e § 1º, ambos da Lei n. 11.671/20 08 e 3º, incisos I e IV, do Decreto nº 6.877/09. Sustenta que não procede o fundamento do TTJRJ para anular a sentença que determinou a transferência do preso para presídio federal, tendo em conta que a técnica de fundamentação per relationem é perfeitamente aceita pela jurisprudência.
+Salienta que "as informações prestadas no extenso relatório de inteligência elaborado exclusivamente em relação ao ora recorrido afasta, por si só, a alegação de ausência de individualização da pena, pois esta não é representada apenas pela medida aplicada (traslado de líder de organização criminosa para presídio federal), mas primordialmente pelos elementos de inteligência coligidos que demonstram a necessidade de sua transferência em prol do interesse da segurança pública." (e-STJ fl. 231)
+Não houve contrarrazões.
+Manifestação do Ministério Público Federal pelo provimento ao recurso às e-STJ fls. 459/460.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso merece acolhida.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Estado do Rio de Janeiro que não conheceu do writ, mas concedeu ordem de habeas corpus de ofício para anular a sentença que determinou a transferência do recorrido para penitenciária federal.
+Esses foram os fundamentos utilizados pelo Tribunal de origem para conceder a ordem:
+Do exame da regularidade da decisão ora atacada, vê-se que o Juízo da Execução manifestou a sua concordância com a transferência do paciente e de outros apenados, nos exatos termos do requerimento encaminhado pela Secretaria de Estado de Polícia Civil, acompanhado de relatório de inteligência e na forma do artigo 5º, parágrafos 5º e 6º da Lei 11.671/2008 c/c artigo 9º e seus parágrafos, do Decreto nº 6.877/2009.
+De acordo com o art. 3º da Lei 11.671/08, a inclusão de presos em estabelecimentos federais será determinada motivadamente por interesse da segurança pública ou do próprio preso, sendo certo que se trata de medida excepcional e por prazo determinado. Tal procedimento, na esteira da jurisprudência do STJ, não configura violação ao contraditório e à ampla defesa, conforme preceitua sua Súmula 639.
+In verbis:
+ ..
+Giro outro, apesar de permitida a técnica per relationem, adotada pelo magistrado para fundamentar a decisão impugnada, quando se referiu ao relatório de inteligência da Secretaria de Estado da Polícia Civil, o juízo da execução deixou de particularizar os motivos que ensejaram a necessidade excepcional da transferência do paciente para presídio federal, violando o princípio da individualização da pena estabelecido no art. 5º, XLVI da Constituição Federal e no art. 5º da Lei 7.240/84. (e-STJ fls. 157/158)
+Assinala-se, de início, que a utilização da técnica de fundamentação per relationem é amplamente aceita pela jurisprudência, sendo, sim, possível ao julgador adotá-la como razão de decidir. Confira-se: AgInt no REsp 1..814.110/PE, Rel. Ministro Gurgel de Faria, DJe de 17/10/2019; AgInt no AREsp 1.420.569/RJ, Rel. Ministro Og Fernandes, DJe de 14/02/2020" (AgInt no REsp n. 1.690.982/RJ, relatora Ministra Assusete Magalhães, DJe de de 18/12/2020)" (AgInt no AREsp 2.214.887/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/6/2023, DJe de 23/6/2023).
+No caso concreto, pertinente destacar que nas informações prestadas pelo juiz das execuções consta que "decidiu-se por utilizar a técnica "per relationem" ou "aliunde", sob pena de inviabilização do caráter de urgência e extrema necessidade, reconhecida na legislação especial de regência, pois, do contrário, seriam necessárias vinte e seis citações expressas dos vinte e seis longos relatórios de inteligência, extraindo-se como exemplo, o extrato de inteligência do próprio paciente abaixo redigido (que segue o mesmo padrão dos demais  seq. 1.1), o qual aliás integra a decisão por meio da técnica adotada, in verbis: (e-STJ fl. 55)
+Veja-se que este entendimento coaduna-se com a jurisprudência desta Corte que assim já decidiu:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NULIDADE. AUSÊNCIA. FUNDAMENTAÇÃO PER RELATIONEM. UTILIZAÇÃO JUSTIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o Tribunal a quo afastou a alegação de carência de fundamentação da decisão proferida pelo Juízo da 1ª Vara Criminal de Ribeirão Preto, entendendo em conformidade com a jurisprudência desta Corte no sentido de que "a fundamentação per relationem constitui medida de economia processual e não malfere os princípios do juiz natural e da fundamentação das decisões" (REsp 1.443.593/RS, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 12/6/2015).
+2. Ausência de nulidade ou de ofensa ao art. 93, inciso IX, da Constituição da República. A utilização da fundamentação per relationem se justifica em razão da complexidade dos fatos, com indícios de prática de crimes de furtos, roubos, receptações de veículos, adulteração de sinal identificador de veículos, lavagem de capitais e organização criminosa, com indícios de envolvimento de diversas empresas e pessoas.
+3. Ausência constrangimento ilegal reparável pela via deste recurso em habeas corpus.
+4. Agravo regimental desprovido. (AgRg no RHC n. 188.425/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/12/2023.)
+Superada essa questão, vejamos o que diz o Decreto n. 6.877/2009, que dispõe sobre os requisitos para inclusão ou transferência de preso em estabelecimento penal federal de segurança máxima:
+Art. 3º Para a inclusão ou transferência, o preso deverá possuir, ao menos, uma das seguintes características:
+I - ter desempenhado função de liderança ou participado de forma relevante em organização criminosa;
+II - ter praticado crime que coloque em risco a sua integridade física no ambiente prisional de origem;
+III - estar submetido ao Regime Disciplinar Diferenciado - RDD;
+IV - ser membro de quadrilha ou bando, envolvido na prática reiterada de crimes com violência ou grave ameaça;
+V - ser réu colaborador ou delator premiado, desde que essa condição represente risco à sua integridade física no ambiente prisional de origem; ou
+VI - estar envolvido em incidentes de fuga, de violência ou de grave indisciplina no sistema prisional de origem.
+Na hipótese, tem-se que o recorrido é apontado como o principal líder da organização criminosa "Amigos dos Amigos" (ADA), atuante na cidade de Macaé-RJ, o que por si só, autoriza a medida.
+Ante o exposto, a teor do art. 932, V, do CPC, c/c o art. 255, § 4º, II, do RISTJ, dou provimento ao recurso especial para para cassar o v. acórdão recorrido, restabelecendo a decisão do Juízo das Execuções Penais que deferiu a transferência do recorrido para a penitenciária federal.
+Intimem-se.
+EMENTA
