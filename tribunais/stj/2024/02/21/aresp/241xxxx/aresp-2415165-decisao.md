@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto DAVID SANTOS DA SILVA contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ fl. 486):
+APELAÇÕES CRIMINAIS - ROUBO MAJORADO - ABSOLVIÇÃO -IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEVIDAMENTE DEMONSTRADAS - DESCLASSIFICAÇÃO PARA O DELITO DE FURTO OU EXERCÍCIO ARBITRÁRIO DAS PROPRIAS RAZÕES - NÃO CABIMENTO - DECOTE DO CONCURSO DE AGENTES - INVIABILIDADE - CAUSA DE DIMINUIÇÃO PREVISTA NO ARTIGO 155, §2º, DO CÓDIGO PENAL - APLICAÇÃO ANALÓGICA AO DELITO DE ROUBO - IMPOSSIBILIDADE - MITIGAÇÃO DO REGIME PRISIONAL -INADEQUAÇÃO. Devidamente comprovadas a autoria e a materialidade do crime de roubo majorado, improcedem as pretensões absolutória ou desclassificatória. Se a prova oral é firme e harmônica acerca do concurso de pessoas, deve ser aplicada a majorante prevista no art. 157, §2º, II, do Código Penal. Ao contrário do furto, o roubo é um delito complexo, cuja expectativa social é a proteção não apenas ao patrimônio, mas também à vida, à integridade física e psicológica da vítima, ao passo que a benesse prevista no art. 155, §2º, do CP almeja atenuar a reprimenda imposta ao agente primário, condenado pela prática de um delito cuja expectativa social é a mera proteção patrimonial, quando a coisa furtada possui pequeno valor.
+O ora recorrente foi condenado às penas de 6 anos, 2 meses e 20 dias de reclusão, em regime fechado, além de 14 dias-multa, pela prática do crime tipificado pelo art. 157, § 2º, II, do Código Penal.
+O Tribunal de origem negou provimento ao recurso interposto pela defesa (e-STJ fls. 486-494).
+Os embargos de declaração opostos pelo recorrente foram rejeitados (e-STJ fls. 549-553).
+Nas razões do recurso especial alega-se violação ao art. 345 do Código Penal, pois: a) é possível a "desclassificação do crime de roubo majorado para o de exercício arbitrário das próprias razões diante da demonstração inequívoca de que o réu cometeu o delito para quitar uma dívida pretérita" (e-STJ fl. 628), como no presente caso; e b) "o uso da força NÃO é impeditivo para a desclassificação do crime de roubo para o de exercício arbitrário das próprias razões"(e-STJ fl. 629). Requer o recorrente a desclassificação do crime de roubo majorado (art.157, §2º, inciso II do CP) para o delito de exercício arbitrário das próprias razões (art. 345 do CP).
+Contrarrazões apresentadas às e-STJ fls. 637-639.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7 do STJ, fundamento contra o qual se insurge a parte agravante. Esclareceu o agravante que a despeito da decisão agravada ter mencionado pontos acerca de dosimetria da pena e fixação de regime prisional, tais matérias não foram questionadas no recurso especial (e-STJ fls. 652-660).
+Parecer do Ministério Público Federal pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ fls. 720-725).
+É o relatório. Decido.
+O Tribunal de origem ao manter a condenação do ora agravante pelo crime art. 157, §2º, II, do Código Penal, consignou que (e-STJ fl. 488-491):
+As defesas almejam a absolvição dos apelantes, sob o argumento de que inexiste prova suficiente a sustentar o édito condenatório. Subsidiariamente, pugna a defesa do primeiro apelante pela desclassificação da conduta para o delito de furto ou exercício arbitrário das próprias razões.
+Sem razão.
+(..)
+A materialidade restou demonstrada pelo auto de prisão em flagrante delito de fls. 06/16 (doc.
+único), pelo boletim de ocorrência de fls. 29/36 (doc. único), bem como pela prova oral produzida.
+No tocante à autoria delitiva, entendo que existem elementos probatórios suficientes para confirmar a condenação de David Santos da Silva e Ruan Fábio Américo Estevão, não obstante a negativa de autoria por eles sustentada.
+(..)
+Em juízo, o ofendido sustentou seu relato inicial, destacando que foi abordado por David no momento em que foi atender Ruan na porta de sua casa. Asseverou que David estava escondido atrás de uma árvore. Confirmou que foi agredido e ameaçado por David, que pegou os filhotes e foi embora com Ruan em uma moto. Ressaltou que Ruan nada fez para evitar a ação de David.
+Pontue-se que, nos crimes patrimoniais, a palavra da vítima assume valor probante relevante, desde que corroboradas com as demais provas orais e documentais angariadas sob o crivo do contraditório, pois tais delitos são, em regra, praticados na clandestinidade.
+Ademais, as declarações da vítima se encontram em consonância com as demais provas orais angariadas em contraditório judicial.
+No que diz respeito à tipicidade da conduta sem razão a defesa, porquanto, ao contrário do alegado, as instâncias ordinárias, soberanas na análise do conteúdo fático-probatório dos autos, entenderam que o delito do art. 157 §2º, II, do Código Penal ficou devidamente configurado, não sendo possível na via do recurso especial a alteração dessa conclusão. Incidência da Súmula 7/STJ.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA USO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. No que tange ao pleito de absolvição ou desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas (12 porções de maconha, com peso de 12,8 g), mas também diante da prova testemunhal e circunstâncias da apreensão.
+2. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição ou desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+3. Ademais, esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese.
+Precedentes.
+4. Agravo regimental desprovido (AgRg no AREsp 1966328/SE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2022, DJe 25/03/2022). Grifei.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO QUALIFICADO. DESCLASSIFICAÇÃO. FURTO FAMÉLICO. EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. NECESSIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O Tribunal local, com base nas circunstâncias e especificidades do caso concreto, identificadas depois de intensa análise do conjunto fático-probatório dos autos, manteve a condenação dos agravantes pela prática do crime de roubo qualificado - art. 157, § 2º, I e II, do CP -, afastando o pleito de desclassificação para enquadrar o fato ao conceito de furto famélico ou exercício arbitrário das próprias razões.
+2. Alterar as conclusões consignadas no acórdão recorrido, exigiria a incursão aprofundada nas provas e demais elementos de convicção dos autos, o que não é possível em sede de recurso especial.
+Incidência da Súmula 7/STJ.
+3. Agravo regimental improvido. (AgRg no AREsp 622.135/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/5/2016, DJe 25/5/2016). Grifei.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
