@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE CONSIDEROU PRECLUSA A DISCUSSÃO SOBRE OS DESCONTOS REALIZADOS EM MOMENTO ANTERIOR AO ACÓRDÃO QUE OS LIMITOU A 30% SOBRE OS RENDIMENTOS DA AGRAVANTE. TENTATIVA DE A AUTORA COBRAR, INDEVIDAMENTE, OS VALORES QUE ULTRAPASSARAM O LIMITE DE 30% DESCONTADOS EM SEU BENEFÍCIO PREVIDENCIÁRIO. ACÓRDÃO QUE SOMENTE HAVIA DETERMINADO A LIMITAÇÃO DOS DESCONTOS, JULGANDO IMPROCEDENTES OS PEDIDOS DE DANOS MORAIS E MATERIAIS. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+Alegou-se, no especial, violação dos artigos 223, 523 e 525 do Código de Processo Civil e 186 e 398 do Código Civil sob o argumento de, diante da limitação dos descontos em seu benefício previdenciário em decorrência de empréstimo, seria credora da instituição financeira dos valores cobrados acima do percentual dado como limite pelo Poder Judiciário.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local consignou, a despeito das alegações da recorrente, que, "não obstante as genéricas razões do presente de agravo de instrumento, extrai-se, analisando também a petição inicial do cumprimento de sentença, que a agravante se apresenta como credora de R$ 150.722,31 do Banco agravado, ao realizar planilha de cálculos (fls. 33/49 dos autos originários).
+Inexplicavelmente considera nestes cálculos outros empréstimos realizados com o Banco Santander, Caixa e Bradesco (estranhos à lide), calcula o limite de 30% sobre seus vencimentos e os soma sem qualquer explicação plausível" (e-STJ, fl. 41).
+Concluiu, assim, que "os liames da coisa julgada material e formal são claros: obrigação de fazer imposta ao Banco agravado de limitar os descontos a 30% dos rendimentos da agravada sob pena de multa por descumprimento e sua condenação ao pagamento de honorários fixados em R$ 1.500,00. Em momento algum fora invalidado o negócio jurídico firmado entre as partes e tampouco determinada a devolução dos valores descontados a maior do benefício da agravante" (e-STJ, fl. 43).
+A reforma do acórdão estadual demanda inequívoca incursão nos elementos informativos do processo, de modo que o reexame da causa esbarra nas disposições do verbete n. 7 da Súmula desta Corte.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
