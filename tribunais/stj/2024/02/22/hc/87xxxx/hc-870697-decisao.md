@@ -1,0 +1,28 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto em parte o relatório de fls. 63-64 (e-STJ).
+O pedido liminar foi indeferido (e-STJ fls. 63-66).
+A origem prestou informações (e-STJ fls. 72-99).
+O Ministério Público se manifestou pela denegação da ordem (e-STJ fls. 102-103).
+É o relatório.
+Decido.
+As informações prestadas nos autos revelam a ausência de modificação fático-jurídica desde a análise anterior deste feito. Passo, então, à apreciação definitiva da insurgência.
+De acordo com o Tribunal de origem, instância adequada à análise fático-probatória do feito, "segundo apurado em sede policial, o paciente integra associação criminosa com vistas à prática dos delitos de tráfico de drogas, lavagem de capitais e corrupção de menores, daí porque emerge como medida de rigor impor condições mais severas para a concessão de benefícios" (e-STJ fl. 79).
+O voto condutor do acórdão impugnado traz, ainda, os seguintes dados (e-STJ fls. 79-80):
+Ao que se apurou o paciente em conjunto com outros investigados, atua na mercancia ilícita de entorpecentes exercida na "biqueira do beco", denotando-se a existência de condutas subsumíveis, em tese, aos tipos penais da associação para o tráfico e lavagem de capitais, dando conta do elo entre ele e a associação criminosa alvo da apuração policial, sendo certo que seu nome é apontado na contabilidade do tráfico. Ainda segundo o referido inquérito "Camilo" trata-se do apelido do paciente MARCELO RENATO CAMILO um dos vendedores de drogas da biqueira do beco.
+O pleito de revogação da custódia preventiva não encontra respaldo, diante dos elementos de prova até então colhidos na fase inquisitorial (prova de existência do crime e indícios sérios de autoria, nos termos do art. 312 e 313 do Código de Processo Penal) - destaque acrescentado.
+Em suas informações, o Juízo singular indicou (e-STJ fls. 89-91):
+A Autoridade Policial representou pela busca e apreensão domiciliar, autorização para manuseio e degravação de eventuais aparelhos celulares apreendidos, prisão preventiva e quebra de sigilos telemático e bancário de pessoas que estariam envolvidas em crimes de tráfico de drogas, associação para o tráfico, lavagem de capitais e corrupção de menores, entre as quais Marcelo Renato Camilo, ora paciente.
+Os crimes ocorrem na "Biqueira do Beco" e adjacências, a saber, entre a Rodovia SP 215 - Deputado Vicente Bota (ou SP 267 - Hélio Moreira Salles) e as imediações das margens do Rio Moji-Guaçu e seu afluente Rio Bonito.
+Conforme representação da Autoridade Policial, a Polícia Civil dividiu os imputados em três núcleos distintos, dois dos quais o indiciado Marcelo faz parte, a saber: núcleo do tráfico/associação para o tráfico da cidade de Porto Ferreira/SP e núcleo da lavagem de capitais.
+Segundo o relatório policial, o indiciado Marcelo Renato Camilo, em conjunto com outros investigados, atua na mercancia ilícita de entorpecentes exercida na "Biqueira do Beco", denotando-se a existência de condutas subsumíveis, em tese, aos tipos penais da associação para o tráfico e lavagem decapitais, dando conta do elo entre ele e a associação criminosa alvo da apuração policial, sendo certo que seu nome é apontado na contabilidade do tráfico.
+Por decisão de 14 de setembro de 2023, o pedido foi deferido, nos termos da decisão de fls. 1041/1068.
+O investigado foi preso no dia 22 de setembro de 2023 (Comunicação de Prisão 0000098-75.2023.8.26.0552) durante a execução de operação policial desencadeada pela Polícia Civil, denominada "Operação Suburra", originada destes autos.
+(..)
+Os autos principais (Inquérito Policial nº 1502380-58.2023.8.26.0472) foram relatados pela Autoridade Policial em 21 de novembro de 2023. Retornaram à Delegacia de Polícia no dia 5 de dezembro de 2023 para cumprimento de diligências formuladas pelo Ministério Público, as quais foram cumpridas pela Autoridade Policial nesta data (11 de dezembro de 2023), a Autoridade Policial, motivo pelo qual, nova vista foi aberta ao Ministério Público.
+Como se pode observar, para dissentir das conclusões alcançadas na origem e chegar às pretensões do paciente, seria imprescindível o reexame das provas e demais elementos constantes dos autos de Inquérito Policial nº 1502380-58.2023.8.26.0472, providência inviável nesta Corte Superior. Não se observa patente ilegalidade capaz de autorizar a concessão ex officio deste expediente, sobretudo porque o processo está sendo regularmente impulsionado a quo.
+O caso dos autos demonstra, ainda, a insuficiência da substituição da prisão preventiva por medidas cautelares mais brandas, uma vez que se trata de investigação robusta e atrelada ao desmantelamento de uma aparente associação criminosa destinada ao tráfico de drogas e outros crimes graves.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
