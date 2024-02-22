@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por George Gomes Machado contra o acórdão proferido pelo Tribunal de Justiça do Espírito Santo no julgamento do Habeas Corpus n. 0002236-62.2019.8.08.0000, assim ementado (fl. 59):
+HABEAS CORPUS - EXECUÇÃO PENAL - COAÇÃO ILEGAL - EXCLUSÃO DA PENA - DECRETO PRESIDENCIAL Nº 7.420/2010 - DESCONTO NO TEMPO DE PENA CUMPRIDO EM RAZÃO DO INDULTO PRESIDENCIAL - OFENSA A COISA JULGADA - IMPOSSIBILIDADE - ORDEM DENEGADA.
+1. O apenado possui quatro guias de execução, das quais apenas uma fora agraciada pelo referido decreto, tendo em vista que foi expedida em data anterior à sua publicação.
+2. Ao proceder com. a concessão do indulto, o MMª Juíza esclareceu a sua natureza extintiva de punibilidade, e, posteriormente, respeitou o trânsito em julgado da decisão guerreada, se atendo, apenas, em esclarecer, ao cartório, O período de pena que seria excluído do reeducando, qual seja, o "referente a fração necessária para a declaração do indulto (..) 1 ano 11 meses e 02 dias", o que não acarretou em mudanças no campo material da sentença.
+3. O entendimento firmado pela magistrada impetrada não se encontra em desconformidade com o entendimento jurisprudencial pátrio, conforme elucidado às fls. 21/22. Além disso, a defesa do coato em momento algum questionou a obscuridade, da sentença guerreada, na medida em que o trânsito em julgado sobreveio ante a inexistência de recursos apresentados, seja por ela seja pelo Ilustre representante do parquet.
+4. Ordem denegada.
+Neste recurso, sustenta-se, em síntese, que o Juízo de piso determinou a exclusão de 1 ano, 11 meses e 2 dias de prisão do resumo de cumprimento de pena do recorrente, tempo esse exigido para a concessão de indulto (art. 1º, I, do Decreto Presidencial n. 7.420/2010).
+Argumenta-se que o referido decisum é nulo de pleno direito, visto que ofendeu a coisa julgada, na medida em que a concessão do indulto transitou em julgado para as partes, que se mantiveram inertes após a abertura do prazo recursal, não podendo o Judiciário agir de ofício para prejudicar o apenado.
+Requer-se, assim, a concessão da medida liminar para reconhecer a ilegalidade da exclusão do tempo de pena cumprido pelo recorrente, que consiste em 1 ano, 11 meses e 2 dias, devolvendo ao resumo de cumprimento de pena tal período, para fins de cálculos de execução e benefícios (fl. 75).
+Depois de indeferido o pedido de liminar (fls. 98/100) e de prestadas as informações (fls. 109/112 e 115/119), opinou o Ministério Público Federal pelo desprovimento do recurso, conforme parecer assim ementado (fl. 121):
+PENAL. PROCESSO PENAL. EXECUÇÃO PENAL. EXCLUSÃO DO PERIODO DE PENA CUMPRIDA UTILIZADA PARA CONCESSÃO DE INDULTO. POSSIBILIDADE. NÃO SE APROVEITA PARA OUTROS CRIMES. INDULTO CONCEDIDO APENAS A UMA GUIA DE EXECUÇÃO. PARECER POR DESPROVIMENTO DO RECURSO.
+É o relatório.
+Como visto, alega o recorrente a nulidade da decisão da Juíza da execução que descontou do seu tempo de pena já cumprido, o período de 1 ano, 11 meses e 2 dias de reclusão, período que foi exigido para a concessão de indulto (art. 1º, I, do Decreto Presidencial n. 7.420/2010).
+Ao denegar a ordem, o Tribunal de origem consignou (fls. 63/64 - grifo nosso):
+ ..
+De início, verifico que o cerne da controvérsia, no presente remédio heroico, está na (im)possibilidade de se excluir do cumprimento de pena do coacto a pena extinta em razão do indulto presidencial previsto no decreto de n. 7.420/2010.
+Em análise dos autos, constato na decisão de fls. 9/10, que o apenado possui quatro guias de execução, das quais apenas uma fora agraciada pelo referido decreto, pois expedida em data anterior à sua publicação.
+Ocorre que, diferente do alegado na inicial deste writ, a juíza, ao proceder com a concessão do supracitado indulto, esclareceu a sua natureza extintiva e, posteriormente, em atenção à promoção de fl. 12, respeitou o trânsito em julgado da decisão guerreada, se atendo, apenas, em esclarecer ao cartório o período de pena que seria excluído do reeducando, qual seja, o "referente à fração necessária para a declaração do indulto (..) 1 ano, 11 meses e 2 dias", o que não acarretou em mudanças no campo material da sentença.
+Ademais, o entendimento firmado pela magistrada impetrada não se encontra em desconformidade com o entendimento jurisprudencial pátrio, conforme elucidado às fls. 21/22.
+Em remate constato que em momento algum a defesa do coacto questionou a obscuridade da sentença guerreada, na medida em que o trânsito em julgado sobreveio ante a inexistência de recursos apresentado s , seja por ela seja pelo Ilustre representante do parquet.
+ ..
+Da leitura dos excertos colacionados, não vislumbro ilegalidade manifesta, pois, conforme destacado pelo acórdão impugnado, a Magistrada da execução não violou a coisa julgada, tão somente explicitou ao cartório o tempo de pena a ser excluído do apenado em razão do indulto concedido, não efetuando mudanças significativas na sentença.
+Esse também é entendimento do Parquet, o qual ressaltou (fl. 123 - grifo nosso):
+In casu não há ilegalidade pois o juízo competente das execuções penais concedera indulto ao apenado apenas quanto a GE-91311, extinguindo a punibilidade somente em relação a essa guia e permanecendo a execução das demais condenações (e-STJ, fls. 112/113) tendo ainda determinado que todo o período de pena cumprida utilizada para a concessão do benefício (indulto) fosse excluída do resumo de pena haja vista não aproveitar a outros crimes o tempo de pena já cumprido até o decreto presidencial (e-STJ, fl. 117); esse foi o teor das contrarrazões ministeriais (e-STJ, fl. 184):
+"Agiu com acerto esse Sodalício, mormente porque ao conceder o indulto o Estado optou por não prosseguir na execução da pena, desse modo não é possível que o período utilizado para a concessão do beneficio seja novamente aproveitado em outras condenações, sob pena de tal lapso temporal ser utilizado em duplicidade."
+ ..
+Dessa forma, só haveria ilegalidade manifesta caso a Juíza da execução tivesse determinado à serventia a exclusão de tempo superior ao necessário para a obtenção do indulto, sem que houvesse previsão legal, o que não é a hipótese dos autos.
+Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO. INDULTO PLENO. CONCESSÃO. ART. 1º, XIV, DECRETO n. 7.873/2012. TEMPO DE CUMPRIMENTO DE PENA. EXCLUSÃO DO CÁLCULO DE LIQUIDAÇÃO. PERÍODO SUPERIOR AO PREVISTO COMO REQUISITO OBJETIVO. ILEGALIDADE. OCORRÊNCIA. HABEAS CORPUS CONCEDIDO
+1. Determinada, sem que houvesse previsão legal, a exclusão, da conta de liquidação, de período de recolhimento superior ao previsto como requisito objetivo previsto pelo art. 1º, XIV, Decreto n. 7.873/2012, qual seja, de 1/3 da pena prevista, verifica-se a ocorrência de constrangimento ilegal.
+2. Habeas corpus concedido, para determinar que seja excluído, da conta de liquidação, apenas o tempo de pena cumprida necessário para a concessão do indulto pleno, referente a 1/3 da pena fixada para o delito comum.
+(HC n. 437.733/DF, Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe 22/10/2018 - grifo nosso).
+Ademais, o tempo exigido para o indulto não pode, de qualquer maneira, ser novamente utilizado , sob pena de se incidir em crédito de pena, situação não admitida pela jurisprudência do STJ.
+Nessa linha: AgRg no HC n. 506.413/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/9/2019; AgRg no HC n. 434.401/SC, Ministro Felix Fischer, Quinta Turma, DJe 30/5/2018; e HC n. 177.321/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 12/3/2012.
+À vista do exposto, com apoio na jurisprudência e no parecer ministerial, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. EXCLUSÃO DO TEMPO DE PENA CUMPRIDO EM RAZÃO DO DECRETO PRESIDENCIAL N. 7.420/2010. POSSIBILIDADE. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. INEVIDÊNCIA DE ILEGALIDADE MANIFESTA. PARECER MINISTERIAL ACOLHIDO. PRECEDENTES DO STJ.
+Recurso em habeas corpus desprovido.
