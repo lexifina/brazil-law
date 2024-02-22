@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto por SUL AMERICA COMPANHIA DE SEGURO SAÚDE contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C REPETIÇÃO DE INDÉBITO. PLANO DE SAÚDE CONTRATADO EM 1993. ALEGAÇÃO DE ABUSIVIDADE DOS ÍNDICES APLICADOS EM RAZÃO DA MUDANÇA DE FAIXA ETÁRIA. PARCIAL PROCEDÊNCIA. APELODA EMPRESA RÉ. PRESCRIÇÃO TRIENAL. TEMA 610 DO E. STJ. O REAJUSTE EM VIRTUDE DO AUMENTO DA IDADE DO SEGURADO É LEGAL, SEM QUE SE CONFIGURE IMEDIATA VIOLAÇÃO AO ARTIGO 15, § 3º, DO ESTATUTO DO IDOSO, DESDE QUE ESTEJA PREVISTO NO CONTRATO E NÃO SEJAM APLICADOS ÍNDICES DESARRAZOADOS OU ALEATÓRIOS, EM OPOSIÇÃO À EQUIDADE E À CLÁUSULA GERAL DA BOA-FÉ OBJETIVA E DA ESPECIAL PROTEÇÃO DO IDOSO. NESTE SENTIDO, A SEGUNDA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA FIRMOU O ENTENDIMENTO DE SER, A PRINCÍPIO, IDÔNEO O REAJUSTE DE MENSALIDADE DE PLANO DE SAÚDE EM RAZÃO DA MUDANÇA DE FAIXA ETÁRIA DO PARTICIPANTE, POIS COM O INCREMENTO DA IDADE HÁ O AUMENTO DE RISCO DE A PESSOA VIR A NECESSITAR DE SERVIÇOS DE ASSISTÊNCIA MÉDICA. CORTE INFRACONSTITUCIONAL, COM O INTUITO DE EVITAR ABUSIVIDADES, FIXOU ALGUNS PARÂMETROS QUE DEVEM SER OBSERVADOS NO CASO CONCRETO, COMO, POR EXEMPLO: EXPRESSA PREVISÃO CONTRATUAL; NÃO SEREM APLICADOS ÍNDICES DE REAJUSTE DESARRAZOADOS OU ALEATÓRIOS, QUE ONEREM EXCESSIVAMENTE O CONSUMIDOR, EM MANIFESTO CONFRONTO COM A EQUIDADE E A CLÁUSULA GERAL DA BOA-FÉ OBJETIVA E DA ESPECIAL PROTEÇÃO DO IDOSO. NO CASO EM ANÁLISE, QUANTO AO REAJUSTE POR AUMENTO DA IDADE DO SEGURADO, ESTANDO EXPRESSAMENTE PREVISTOS NO CONTRATO CELEBRADO ENTRE AS PARTES NO LONGÍNQUO ANO DE 1993, NÃO HÁ SE FALAR EM ABUSIVIDADE. POR OUTRO LADO, AINDA QUE SE TRATE DE UM CONTRATO NÃO ADAPTADO, A CLÁUSULA 13.2.2, QUE VERSA SOBRE O REAJUSTE DE 5% AO ANO APÓS OS 71 ANOS DE IDADE, DEVE SER CONSIDERADA ABUSIVA, EIS QUE ONERA EXCESSIVAMENTE A PARTE AUTORA. DECLARAÇÃO DE NULIDADE APENAS DA CLÁUSULA CONTRATUAL 13.2.2, QUE PREVÊ O REAJUSTE DE 5% AO ANO APÓS O AUTOR COMPLETAR 71 ANOS. REPETIÇÃO DO INDÉBITO, QUE SE DARÁ NA FORMASIMPLES, POR AUSÊNCIA DE MÁ-FÉ DA EMPRESA RÉ, CONFORME DISPOSTO NO ARTIGO 42, PARÁGRAFO ÚNICO, DO CÓDIGO DE DEFESA DO CONSUMIDOR, COM CORREÇÃO E JUROS DE MORA DE CADA DESEMBOLSO, A TEOR DO VERBETE DA SÚMULA 331 DESTE TRIBUNAL, OBSERVADA A PRESCRIÇÃO TRIENAL PREVISTA NO ARTIGO 206, § 3º, INCISO IV, DO CÓDIGO CIVIL. PARCIAL PROVIMENTO AO APELO DA EMPRESA RÉ. RECONHECIMENTO DA RECIPROCIDADE NA SUCUMBÊNCIA E DISTRIBUIÇÃO PROPORCIONAL DAS DESPESAS E DOS HONORÁRIOS ADVOCATÍCIOS" (fls. 302-303 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 344-355 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 1.022 do Código de Processo Civil e 206, § 3º, IV, do Código Civil.
+Sustenta a tese de negativa de prestação jurisdicional.
+Afirma que o acórdão recorrido não observou os parâmetros fixados no Tema 952 do STJ e, por consequência, violou o art. 206, §3º, IV, do Código Civil.
+Alega que "o contrato ora debatido, como acima mencionado, não fora adaptado à Lei 9.656/1998, o parágrafo único do art. 15 da Lei 9.656/1998 invocado pelo r. acórdão atacado não é aplicável ao caso em comento" (fl. 383 e-STJ).
+Defende a inaplicabilidade do Código de Defesa do Consumidor e da Lei nº 9.656 de 1998, aos contratos celebrados anteriormente à sua vigência, como é o caso dos autos.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+De outro lado, a questão atinente à prescrição foi dirimida pelo Tribunal de origem pelos seguintes fundamentos:
+"(..)
+De início, quanto àpreliminar de prescrição trienal, assiste razão a empresa ré, ora apelante.
+A questão da prescrição trienal, quanto a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nos contratos de plano ou seguro saúde já se encontra pacificada, conforme Tema 610 do Egrégio Superior Tribunal de Justiça, é ver:
+"Na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002."
+Superada tal questão, adentro à análise do mérito recursal" (fl. 305 e-STJ).
+Desse modo, inexiste interesse recursal da parte ora recorrente quanto à aplicação do disposto no 206, § 3º, IV, do Código Civil.
+No que tange à inaplicabilidade do CDC, a deficiência na fundamentação recursal ficou evidenciada, visto que a recorrente não indicou especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, embora tenha se insurgido quanto à motivação da decisão, inviabilizando a compreensão da controvérsia posta nos autos.
+Consectariamente, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Por fim, as conclusões do tribunal de origem em relação à abusividade dos reajustes decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"(..)
+Na espécie, pretende a parte autora a declaração de nulidade dos reajustes impostos pela empresa ré, seja o anualpor sinistralidade, seja o decorrente da mudança de faixa etária, por considerá-los abusivos e sem justificativa, previstos no contrato de plano de saúde celebrado entre as partes em 1993.
+Com efeito, pontuo que o reajuste em virtude do aumento da idade do segurado é legal, sem que se configure imediata violação ao artigo 15, § 3º, do Estatuto do Idoso, desde que esteja previsto no contrato e não sejam aplicados índices desarrazoados ou aleatórios, em oposição à equidade e à cláusula geral da boa-fé objetiva e da especial proteção do idoso.
+Neste sentido, a Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de ser, a princípio, idôneo o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária do participante, pois com o incremento da idade há o aumento de risco de a pessoa vir a necessitar de serviços de assistência médica.
+O referido posicionamento foi adotado quando do julgamento do Recurso Especial nº 1.568.244-RJ pelo rito dos recursos repetitivos.
+É ver:
+(..)
+Como visto, a Corte Infraconstitucional, com o intuito de evitar abusividades, fixou naquele julgamento alguns parâmetros que devem ser observados no caso concreto, como, por exemplo: expressa previsão contratual; não serem aplicados índices de reajuste desarrazoados ou aleatórios, que onerem excessivamente o consumidor, em manifesto confronto com a equidade e a cláusula geral da boa-fé objetiva e da especial proteção do idoso.
+A jurisprudência desta Corte de Justiça já vem aplicando o citado precedente vinculativo, conforme se depreende dos julgados abaixo proferidos em casos semelhantes:
+(..)
+No caso em análise, quanto ao reajuste por aumento da idade do segurado, estando expressamente previstos no contrato celebrado entre as partes no longínquo ano de 1993, não há se falar em abusividade.
+Por outro lado, ainda que se trate de um contrato não adaptado, a cláusula 13.2.2, que versa sobre o reajuste de 5% ao ano após os 71 anos de idade, deve ser considerada abusiva, eis que onera excessivamente a parte Autora.
+A jurisprudência deste Colendo Tribunal de Justiça alicerça o presente posicionamento, conforme ementas relacionadas:
+(..)
+Nesta linha, impõe-se a declaração de nulidade apenas da cláusula contratual 13.2.2, que prevê o reajuste de 5% ao ano após o autor completar 71 anos" (fls. 306-312 e-STJ - grifou-se).
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
