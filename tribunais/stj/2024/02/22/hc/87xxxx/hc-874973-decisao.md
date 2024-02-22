@@ -1,0 +1,31 @@
+DECISÃO
+JEFFERSON CARNEIRO DE BRITO alega sofrer constrangimento ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba na Apelação n. 0000790-06.2015.8.15.0441.
+Diante das informações prestadas às fls. 125-131 e da juntada dos documentos faltantes, reconsidero a decisão de fl. 60 e passo à análise da impetração.
+Cinge-se a controvérsia estabelecida neste writ a definir se há vício de representação na apelação interposta sem apresentação de instrumento de mandato, apenas com base em prévia designação apud acta.
+O Tribunal de origem não conheceu do recurso de apelação com base na seguinte fundamentação (fls. 105-107):
+A procuração apud acta, positivada pelo dispositivo legal acima indicado, tem sérios critérios a serem seguidos, devendo haver o devido registro de tal constituição na Ata da Audiência em que colhido o interrogatório do réu, com indicação clara que a constituição seja para todos os atos do processo e, não apenas para o ato processual específico de acompanhamento e representação na Audiência de Instrução e Julgamento. Ao que se depreende dos autos, não restou registrado, em nenhuma Ata de Julgamento ou de Audiência de Instrução, a constituição do causídico subscritor da apelação, pelo recorrente, para todos os atos de processo, sendo, assim, presumida a sua constituição para os atos isolados praticados, uma vez que outra presunção demanda prova cabal, consubstanciada no instrumento de mandato, ou registro em Ata.
+No caso, não consta procuração assinada pelo apelante conferindo poderes ao Dr. Pedro Miguel Melo de Almeida, OAB/PB nº 23.316, Advogado subscritor do recurso, Id 22693110, inclusive pessoal para o réu, Id 22917634 e Id 25472229, nonada obstante as intimações, intuito de que fosse sanada a irregularidade da representação processual, conforme comando expresso doart. 76, caput, do Código de Processo Civil.
+ ..
+Desta forma, inexistindo capacidade postulatória provada, ausente pressuposto subjetivo recursal, o que inviabiliza o conhecimento da insurgência.
+Ademais, convém registrar que o Agravo Interno interposto pelo recorrente, Jefferson Carneiro de Brito, constante no Id 22934947, também não merece ser conhecido, haja vista o pronunciamento judicial por ele impugnado, Id 22917634, não possuir conteúdo decisório.
+E, ainda que assim não o fosse, também não houve juntada de instrumento procuratório conferindo-lhe poderes para tanto.
+Ante o exposto, NÃO CONHEÇO DA APELAÇÃO, o que faço com amparo do art. 932, III, do Código de Processo Civil c/c art. 3º do Código de Processo Penal c/c art. 127,XXXV, do Regimento Interno do Tribunal de Justiça do Estado da Paraíba, ao tempo que também não conheço do Agravo Interno interposto pelo acusado, ante a sua inadmissibilidade.
+Estabelece o art. 266 do Código de Processo Penal que "a constituição de defensor independerá de instrumento de mandato, se o acusado o indicar por ocasião do interrogatório". Trata-se da denominada constituição apud acta, já validada por este Superior Tribunal em diversas oportunidade. Exemplificativamente:
+Constatado que o causídico foi constituído na forma do art. 266 do Código de Processo Penal, que preconiza que "a constituição de defensor independerá de instrumento de mandato, se o acusado o indicar por ocasião do interrogatório", deveria ele ter sido intimado não somente das audiências de oitiva das testemunhas de acusação, como também para a apresentação das alegações finais, de forma que configurado o cerceamento de defesa alegado, independentemente da nomeação da Defensoria Pública para acompanhar o processo.
+(HC 292.563/MT, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/08/2018)
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO DESMONTE. EXCEÇÃO DE SUSPEIÇÃO. INIMIZADE ENTRE JUIZ E ADVOGADO RECONHECIDA PELO PRÓPRIO EXCEPTO E PELO TRIBUNAL DE ORIGEM EM OUTROS PROCESSOS, PORÉM REJEITADA EM OUTROS. INCOERÊNCIA QUE OFENDE O ART. 926 DO CPC. INAPLICABILIDADE DO ART. 256 DO CPP. FALTA DE FUNDAMENTAÇÃO PARA DEMONSTRAR A OCORRÊNCIA DE MANOBRA DEFENSIVA ILÍCITA. SIMPLES HABILITAÇÃO DE ADVOGADO RIVAL DO MAGISTRADO COMO DEFENSOR DE UM DOS RÉUS. PRERROGATIVA CONFERIDA AO CAUSÍDICO PELO ART. 7º, I, DA LEI 8.906/1994. CABIMENTO DA REPRESENTAÇÃO APUD ACTA. INCIDÊNCIA DO ART. 266 DO CPP. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, A FIM DE JULGAR PROCEDENTE A EXCEÇÃO DE SUSPEIÇÃO.
+ ..
+5. O processo penal admite a constituição de defensor apud acta, mesmo sem instrumento formal de procuração. Inteligência do art. 266 do CPP.
+(AREsp n. 2.026.528/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 14/6/2022)
+Na hipótese, consta da ata da sessão plenária realizada em 20/4/2023 que o acusado foi representado pelo advogado Dr. Pedro Miguel Melo de Almeida, OAB/PB n. 23.316 (fl. 42). Há, ainda, certidão do oficial de justiça que atesta que o acusado, de fato, constituiu o referido advogado para sua representação, in verbis (fl. 70):
+Certifico que citei / intimei ou notifiquei, JEFFERSON CARNEIRO, após verificar estar através do celular 9.8765.0232, às 08:25 horas, dia 28/11/2023, o falando com ele mesmo, qual tomou conhecimento de todo conteúdo do mandado no momento da diligência, bem como através da contra fé enviada pelo ZAP.
+Dou fé.
+João Pessoa, 30/11/2023
+Valdir Rufino da Silva
+OBS. ELE INFORMOU QUE COLOCOU SIM O REFERIDO ADVOGADO.
+A capacidade postulatória do patrono, portanto, ficou comprovada, inexistindo óbice ao conhecimento da insurgência.
+É preciso maior sensibilidade do Judiciário ao examinar processos criminais, não sendo razoável impedir o exame de uma apelação apresentada contra uma condenação pelo Tribunal de Júri porque seria preciso um instrumento formal de representação, mormente porque interposta pelo mesmo advogado que realizou a sessão plenária e porque há certidão do oficial de justiça que corrobora a validade do mandato.
+Excesso de formalismo não pode se sobrepor ao premente e constitucional direito à ampla defesa e à garantia de um processo justo (art. 5º, LIV e LV da CF).
+À vista do exposto, concedo a ordem a fim de determinar o retorno dos autos ao Tribunal estadual para que proceda à análise do recurso de apelação interposto pelo advogado subscritor deste writ.
+Publique-se e intimem-se.
+EMENTA
