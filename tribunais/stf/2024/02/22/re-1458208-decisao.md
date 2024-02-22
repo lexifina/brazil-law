@@ -1,0 +1,81 @@
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ZONA FRANCA DE MANAUS. ÁREAS DE LIVRE COMÉRCIO. OPERAÇÃO DE EXPORTAÇÃO. EQUIPARAÇÃO. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. MANDADO  DE  SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. . RECURSO DESPROVIDO.
+
+    DECISÃO:  Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea ado permissivo constitucional, contra acórdão que assentou:
+
+      “TRIBUTÁRIO. REINTEGRA. ZONA FRANCA DE MANAUS. ÁREAS DE LIVRE COMÉRCIO. EQUIPARAÇÃO À EXPORTAÇÃO. 1. "O benefício fiscal que trata do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (REINTEGRA) alcança as operações de venda de mercadorias de origem nacional para a Zona Franca de Manaus, para consumo, industrialização ou reexportação para o estrangeiro." (STJ, Súmula 640, PRIMEIRA SEÇÃO, julgado em 18/02/2020, DJe19/02/2020) 2. O mesmo se aplica às operações relativas às Áreas de Livre Comércio de Boa Vista e de Bonfim, exclusivamente, as quais são equiparadas às exportações para os efeitos fiscais, nos termos do art. 527 do Regulamento Aduaneiro. 3. Devida a atualização dos créditos a serem apurados mediante incidência da taxa SELIC”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXVI, da Constituição Federal e artigo 40, do ADCT.
+
+    A parte recorrida apresentou contrarrazões ao recurso extraordinário.
+
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+
+    É o relatório. DECIDO.
+
+    O recurso não merece prosperar.
+
+    Ab initio, verifica-se que ao apreciar o ARE 748.371, Rel. Min. Gilmar Mendes (Tema 660), o Plenário da Corte ratificou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.143.354-AgR, Plenário, Rel. Min. Dias Toffoli - Presidente, DJe de 1º/2/2019)
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    “A Zona Franca de Manaus é uma área de livre comércio de importação e exportação e de incentivos fiscais especiais, e foi estabelecida pela lei com a finalidade de criar no interior da Amazônia um centro industrial, comercial e agropecuário dotado de condições econômicas que permitam seu desenvolvimento, em face dos fatores locais e da grande distância, a que se encontram os centros consumidores de seus produtos (art. 1º do DL nº 288/67).
+
+    Por conta disso, de acordo com o Decreto-Lei n.º 288, de 1967, as vendas realizadas para empresas situadas na Zona Franca de Manaus foram equiparadas às operações de exportação, conforme se extrai do seu art. 4º: "Art. 4º. A exportação de mercadorias de origem nacional para consumo ou industrialização na Zona Franca de Manaus, ou reexportação para o estrangeiro, será para todos os efeitos fiscais, constantes da legislação em vigor, equivalente a uma exportação brasileira para o estrangeiro". Essa disposição foi expressamente recepcionada pelo art. 40 do Ato das Disposições Constitucionais Transitórias: "Art. 40. É mantida a Zona Franca de Manaus, com suas características de área de livre comércio, de exportação e importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a contar da promulgação da Constituição. Parágrafo único. Somente por lei federal podem ser modificados os critérios que disciplinaram ou venham a disciplinar a aprovação dos projetos na Zona Franca de Manaus".
+
+      O prazo de 25 anos foi acrescido de 10 anos pela EC 42/03 e de mais 50 anos pela EC 83/14, a qual acrescentou o art. 92-A ao ADCT. Não há dúvida, portanto, que a venda de mercadorias destinadas à Zona Franca de Manaus, para todos os efeitos fiscais, equivale à exportação de produto brasileiro para o estrangeiro. Nesse sentido é a orientação da Súmula 640 do STJ: "O benefício fiscal que trata do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (REINTEGRA) alcança as operações de venda de mercadorias de origem nacional para a Zona Franca de Manaus, para consumo, industrialização ou reexportação para o estrangeiro".
+
+    2.4 Natureza da receita das vendas realizadas para outras Áreas de Livre Comércio.
+
+      Constituem áreas de livre comércio de importação e de exportação as que, sob regime fiscal especial, são estabelecidas com a finalidade de promover o desenvolvimento de áreas fronteiriças específicas da Região Norte do País e de incrementar as relações bilaterais com os países vizinhos, segundo a política de integração latino-americana (art. 524 do Decreto nº 6.759/09). As áreas de livre comércio são configuradas por limites que envolvem os perímetros urbanos dos municípios de Tabatinga (AM), Guajará-Mirim (RO), Boa Vista (RR) e Bonfim (RR), Macapá (AP) e Santana (AP) e Brasiléia (AC), com extensão para o município de Epitaciolândia (AC), e Cruzeiro do Sul (AC) (parágrafo único do art. 524 do Decreto nº 6.759/09).
+
+      A Lei nº 7.965/89, que criou a Área de Livre Comércio de Tabatinga (ALCT), Documento recebido eletronicamente da origem estabeleceu no art. 6º que " a remessa de produtos nacionais para a ALCT, destinados aos fins que trata o art. 3º ou ulterior exportação, será, para os efeitos fiscais, equivalentes a uma exportação" e que a ela se aplica a legislação pertinente à Zona Franca de Manaus, especialmente o Decreto-Lei nº 288, de 28 de fevereiro de 1967 (art. 12).
+
+    A Lei nº 8.210/91 criou a Área de Livre Comércio de Guajará-Mirim. As isenções e benefícios foram mantidos durante 25 anos, a contar de julho de 1991 (13), ou seja, encerraram em julho de 2016. O art. 6º dispunha que "a venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas estabelecidas fora da ALCGM, para empresa ali sediadas, é equiparada à exportação".
+
+    A Lei nº 8.256/91, com a redação conferida pela Lei nº 11.732/08, criou as áreas de livre comércio em Boa Vista e Bonfim, mantendo as isenções e benefícios por 25 anos, a contar de 2007 (art. 14), prorrogado por mais 25 anos pelo art. 5º da Lei nº 11.732/08, sendo também aplicada a legislação pertinente à Zona Franca de Manaus (art. 11).
+
+    Por sua vez, o art. 7º da Lei nº 11.732/08 dispôs que a venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas estabelecidas fora das Áreas de Livre Comércio de Boa Vista - ALCBV e de Bonfim - ALCB para empresas ali estabelecidas fica equiparada à exportação.
+
+    A Área de Livre Comércio nos municípios de Macapá e Santana foi instituída pela Lei nº 8.387/91 (Art. 11: " É criada, nos Municípios de Macapá e Santana, no Estado do Amapá, área de livre comércio de importação e exportação, sob regime fiscal especial, estabelecida com a finalidade de promover o desenvolvimento das regiões fronteiriças do extremo norte daquele Estado e de incrementar as relações bilaterais com os países vizinhos, segundo a política de integração latino-americana"), aplicando-se o disposto na Lei nº 8.256/91 (§ 2º do art. 11).
+
+    A Lei nº 8.256/91, a seu turno, dispunha no art. 7º que "a venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas estabelecidas fora das áreas de livre comércio de Pacaraima (ALCP) e Bonfim (ALCB), para empresas ali sediadas, é equiparada à exportação". Ou seja, as vendas para Macapá e Santana também eram equiparadas à exportação. A Área de Livre Comércio nos municípios de Brasiléia e Cruzeiro do Sul, com extensão para Epitaciolância, foi autorizada pela Lei nº 8.857/94, cujo art. 7º dispunha que "a venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas estabelecidas fora das Áreas de Livre Comércio de Brasiléia - ALCB e de Cruzeiro do Sul - ALCCS, para empresas ali sediadas, é equiparada a exportação". O histórico legislativo demonstra que as vendas efetuadas pelas empresas estabelecidas fora das ALC para as empresas sediadas nas Áreas de Livre Comércio de Tabatinga (AM), Guajará-Mirim (RO), Boa Vista (RR) e Bonfim (RR), Macapá (AP) e Santana (AP) e Brasiléia (AC), com extensão para o município de Epitaciolândia (AC), e Cruzeiro do Sul (AC) eram equiparadas à exportação.
+
+    2.5 Revogação, pela Lei nº 8.981/95, do preceito legal que equiparava as vendas para as ALC à exportação.
+
+      A Lei 8.981/95 alterou o regime tributário em algumas Áreas de Livre Comércio. O art. 117, VI, da Lei nº 8.981/95 revogou expressamente o art. 6º da Lei nº 7.965/89, que considerava que as vendas efetuadas para as empresas sediadas em Tabatinga eram equiparadas à exportação. Estava entendendo que a revogação não teria o efeito de excluir a equiparação à receita de exportação para as receitas obtidas com as vendas efetuadas para Tabatinga, porque, nos termos do art. 12 da Lei nº 7.965/89, se aplicaria o disposto no art. 4º do DL nº 288/67: " Aplica-se à ALCT no que couber, a legislação pertinente à Zona Franca de Manaus, especialmente os Decretos-Leis nºs 288, de 28 de fevereiro de 1967, 356, de 15 de agosto de 1968, 1.435, de 16 de dezembro de 1975, 1.455, de 7 de abril de 1976, 2.433, de 19 de maio de 1988, e 2.434, de 19 de maio de 1988, com suas alterações posteriores e respectivas disposições regulamentares"). No entanto, como houve a expressa revogação do art. 6º da Lei nº 7.965/89, a aplicação da legislação pertinente à ZFM, no que couber, não leva necessariamente à conclusão de que caberia à Tabatinga o benefício previsto no art. 4º do DL nº 288/67 ("A exportação de mercadorias de origem nacional para consumo ou industrialização na Zona Franca de Manaus, ou reexportação para o estrangeiro, será para todos os efeitos fiscais, constantes da legislação em vigor, equivalente a uma exportação brasileira para o estrangeiro").
+
+    O legislador, ao revogar o art. 6º da Lei nº 7.965/89, quis deixar claro que as vendas para a ALCT deixaram de ser consideradas como equivalentes a uma exportação. A Lei nº 8.981/95 também conferiu nova redação ao art. 6º da Lei nº 8.210/91, relativamente a Guajará-Mirim, e ao art. 7º da Lei nº 8.857/94, em relação a Brasiléia, Epitaciolândia e Cruzeiro do Sul. A nova redação não manteve o preceito que considerava que as vendas eram equiparadas à exportação, disciplinando apenas a isenção de IPI. O mesmo aconteceu em relação à Macapá e Santana. De fato, o art. 110 da Lei nº 8.981/95, conferiu nova redação ao art. 7º da Lei nº 8.256/91, deixando de equiparar à exportação as vendas efetuadas por empresas estabelecidas fora das referidas áreas de livre comércio para as empresas ali sediadas. Em decorrência disso, também as vendas de mercadorias para Macapá e Santana deixaram de ser equiparadas à exportação.
+
+    Assim, em face das determinações legais, conclui-se que o art. 8º do Decreto nº 517/92, o art. 9º do Decreto nº 843/93 e o art. 6º do Decreto nº 1.357/94 perderam o seu fundamento legal de validade. Diante desse contexto, verifica-se que não há preceito legal que equipare à receita de exportação as receitas obtidas com as vendas efetuadas para Tabatinga, Guajará-Mirim, Brasiléia, Epitaciolândia, Cruzeiro do Sul, Macapá e Santana. Por fim, o art. 475 do Decreto nº 4.543/02 ( "A venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas estabelecidas fora das áreas de livre comércio para empresas ali sediadas, destinadas aos fins de que trata o art. 473, será, para os efeitos fiscais, equiparada a uma exportação") foi revogado pelo Decreto nº 6.759/09. A equiparação à exportação foi mantida apenas na hipótese prevista no art. 527, ou seja, para as ALC de Boa Vista e Bonfim:
+
+    (...).
+
+    A autora tem direito à apuração dos créditos na forma prevista na legislação de regência do REINTEGRA. Os créditos devem ser atualizados pela taxa SELIC desde o momento em que poderiam ter sido apurados (contado da data da saída da nota fiscal de venda para a ZFM e ALC - art. 2º, §9º do Decreto 8.415/15), observada a prescrição quinquenal, e poderão ser utilizados na compensação.”
+
+    Nesse contexto, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa. Sobre o tema, a propósito:
+
+     Esta Corte já fixou entendimento no sentido de que o artigo 4º do Decreto-lei 288/1967, no que equiparou, para efeitos fiscais, a venda de mercadorias para à Zona Franca de Manaus a uma exportação de produto brasileiro para o estrangeiro, foi recepcionado pela Constituição de 1988, com fundamento no art. 40 do ADCT.
+
+     Nesse sentido, menciono os seguintes precedentes: ADI 310, Rel. Min. Cármen Lúcia, Plenário, DJe de 9/9/2014; ADI 2.348-MC, Rel. Min. Marco Aurélio, Plenário, DJ de 7/11/2003; RE 509.406-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 31/3/2016; e RE 524.499-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 22/2/2013.
+
+     No mais, eventual discussão sobre a abrangência de norma infraconstitucional que prevê benefício fiscal para a exportação de produtos brasileiros para o estrangeiro, em relação às mercadorias destinadas à Zona Franca de Manaus a partir da equiparação com as Áreas de Livre Comércio tratadas no acórdão recorrido, demanda a análise da legislação infraconstitucional aplicável à espécie, o que inviabiliza a admissibilidade do recurso extraordinário.
+
+     Confira os seguintes julgados que adotaram esse entendimento, ao analisarem questões semelhantes a dos autos RE 1.098.236, rel. Min. Roberto Barroso, DJe de 30/4/2018; RE 1.286.151, rel. Min. Rosa Weber, DJe de 9/9/2020; RE 1.345.386, rel. Min. Alexandre de Moraes, DJe de 30/9/2021 e RE 1.462.748, rel. Min. Dias Toffoli, DJe de 4/12/2023.
+
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+
+    Publique-se.
+
+    Brasília, 22 de fevereiro de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
