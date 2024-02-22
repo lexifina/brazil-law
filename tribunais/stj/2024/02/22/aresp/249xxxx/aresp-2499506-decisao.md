@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MELBOURNE INVESTIMENTOS IMOBILIÁRIOS LTDA. (MELBOURNE) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 7.906/7.914).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, MELBOURNE alegou ofensa aos arts. 300, caput, 489, § 1º, IV e 1.022, II, do NCPC. Sustentou que (1) o aresto recorrido foi omisso, porque não foram valorados os depoimentos testemunhais prestados ao longo da instrução processual, que demonstravam a responsabilidade exclusiva da ora agravada pelo rompimento contratual; (2) as condições da tutela cautelar podem ser revistas ante a demonstração de novos elementos suficientes para que isso aconteça; e, (3) diante das provas robustas acerca da culpa da ora agravada, é cabível a alteração da tutela cautelar.
+Foram apresentadas contrarrazõe s (e-STJ, fls. 7.874/7.886 ).
+Quanto à eventual assertiva de omissão no aresto recorrido
+MELBOURNE alegou ofensa aos arts. 489, § 1º, IV e 1.022, II, do NCPC. Sustentou que o aresto recorrido foi omisso, porque não foram valorados os depoimentos testemunhais prestados ao longo da instrução processual, que demonstravam a responsabilidade exclusiva da ora agravada pelo rompimento contratual.
+Sobre o tema, a Corte local assim consignou:
+Cuida-se de ação movida pela agravante em face da agravada na qual houve a concessão de tutela de urgência anterior mediante a prestação de caução.
+Em decorrência dos anos de tramitação do processo de origem e da alegada mudança fática em função das provas produzidas, notadamente depoimentos de testemunhas, a autora sustenta a necessidade de concessão de contracautela a fim de que haja o levantamento da caução anteriormente ofertada.
+Ocorre que, como bem assinalado pela d. magistrada de primeiro grau, não se vislumbra, nessa etapa do processo, a presença de elementos suficientes para conferir a verossimilhança necessária para alteração pretendida.
+Cumpre anotar que há uma série de pontos controvertidos que ainda serão objeto de prova durante a fase de instrução probatória, inclusive a realização de exame pericial já designado, de modo que não há motivo para o levantamento da importância anteriormente ofertada em garantia (e-STJ, fl. 7.840).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJSP emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido não ser possível nessa etapa do processo nenhuma alteração, considerando que ainda existem pontos controvertidos que serão objeto de prova durante a instrução probatória, não sendo, viável, assim, valorar tema referente à culpa das partes. Ficou destacado que será necessária, inclusive a realização de exame pericial, que já foi designado.
+O que se vê, na verdade, é a irresignação de MELBOURNE com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto nos arts. 489 e 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados nos mencionados artigos.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+Quanto à alegação de ser possível a alteração da tutela cautelar
+MELBOURNE alegou ofensa ao art. 300, caput, do NCPC. Sustentou que (1) as condições da tutela cautelar podem ser revistas ante a demonstração de novos elementos suficientes para que isso aconteça; e, (2) diante das provas robustas acerca da culpa da ora agravada, é cabível a alteração da tutela cautelar.
+Nesse sentido, o Tribunal de Justiça de São Paulo, soberano na análise do contexto fático-probatório, conforme acima transcrito, concluiu não se vislumbrarem elementos suficientes para conferir a verossimilhança necessária para a alteração pretendida.
+Por isso, conforme se nota, o TJSP assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA PROVISÓRIA. SENTENÇA SUPERVENIENTE. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. PRECEDENTES. REQUISITOS DA ANTECIPAÇÃO DE TUTELA. SÚMULA N. 735/STF. PRETENSÃO DE REEXAME DA MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência da Terceira Turma desta Corte, "A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem acerca de questões resolvidas por decisão interlocutória combatida na via do agravo de instrumento. Precedentes." (AgInt no REsp n. 1.704.206/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/6/2023, DJe de 19/6/2023.) 2. Ademais, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula n. 735 do STF. Precedentes.
+3. Rever a conclusão a respeito do preenchimento dos requisitos da tutela de urgência demandaria revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.232.728/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. DIREITO CIVIL. CONSTRIÇÃO JUDICIAL DE BEM IMÓVEL. PROTEÇÃO DE BEM DE FAMÍLIA. PROPRIEDADE DE PESSOA JURÍDICA. DIREITO PROCESSUAL CIVIL. TUTELA DE URGÊNCIA. INEXISTÊNCIA DA PROBABILIDADE DO DIREITO. ENTENDIMENTO DAS INSTÂNCIAS DE ORIGEM. INVIABILIDADE DE REVISÃO. NÃO CONFIGURADA HIPÓTESE EXCEPCIONAL. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Na origem, trata-se de agravo de instrumento com pedido de efeito suspensivo em face de decisão proferida nos autos de ação ordinária que determinou a constrição de bem imóvel, o qual a parte agravante alega ser bem de família.
+2.A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial contra acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art.
+300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação à norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, concluiu pela inexistência de probabilidade do direito. A alteração da conclusão a que chegou a instância ordinária demanda o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial (Súmula 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.120.332/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/6/2023, DJe de 15/6/2023)
+Nessas condições, CONHEÇO do agravo para CONHECER em parte do recurso especial, e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente à majoração de verba honorária, porque não fixada nas instâncias ordinárias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM ROMPIMENTO CONTRATUAL. AGRAVO DE INSTRUMENTO. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. TUTELA DE URGÊNCIA. CONCESSÃO. REQUISITOS NÃO PREENCHIDOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESTA EXTENSÃO, NÃO PROVIDO.
