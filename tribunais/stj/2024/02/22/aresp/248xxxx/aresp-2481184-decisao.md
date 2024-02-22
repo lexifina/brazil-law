@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 2º, § 2º, e 3º do Decreto-Lei n. 911/1969, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 32):
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. INDEFERIMENTO DA LIMINAR. PROVA DA EXPEDIÇÃO DA NOTIFICAÇÃO EXTRAJUDICIAL PARA O ENDEREÇO DO CONTRATO, MAS NÃO DE SEU RECEBIMENTO, AINDA QUE POR TERCEIROS. COMPROVAÇÃO DA MORA QUE CONSTITUI CONDIÇÃO DA AÇÃO DE BUSCA E APREENSÃO. ARTIGOS 2º, § 2º, E 3ª DO DECRETO-LEI 911/69. SÚMULAS 72 STJ E 283 TJRJ. PRECEDENTES DO STJ E DESTE TRIBUNAL DE JUSTIÇA. RECURSO A QUE SE NEGA PROVIMENTO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 54):
+EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO QUE NEGOU PROVIMENTO À AGRAVO DE INSTRUMENTO INTERPOSTO PELO BANCO AUTOR, ORA EMBARGANTE. INOCORRÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 1.022 DO CPC. NÍTIDO INTUITO DE REEXAME DA MATÉRIA JULGADA. REJEIÇÃO DOS EMBARGOS.
+Sustenta a parte agravante que é válida a notificação expedida ao endereço constante do contrato, para fins de constituição em mora do devedor, ainda que este esteja domiciliado em localidade onde os Correios não realizam entregas.
+Afirma que, "se o endereço fornecido no contrato pelo recorrido não permite que as agências postais entreguem a correspondência, ou seja, trata-se de endereço em que, pela localidade, a correspondência deve ser retirada pela própria parte, a frustração da notificação resulta, tão somente, da desídia do devedor ora recorrido, cuja conduta não se mostra imbuída na boa-fé objetiva e muito menos cooperativa para o cumprimento das obrigações pactuadas entre as partes" (fl. 77).
+Assim posta a questão, passo a decidir.
+Observo que a Corte local manteve a decisão que indeferiu a liminar, nos autos de ação de busca e apreensão, assim discorrendo (fl. 36):
+(..)
+Nesse contexto, não merece acolhida a pretensão recursal initio litis, pois não resta comprovada na espécie a constituição em mora do devedor, na medida em que, conquanto a notificação extrajudicial anexada aos autos originários (indexador 28) ateste o encaminhamento ao endereço constante no contrato (indexador 16), não restou efetivada a entrega no local, sob o motivo "não procurado". Veja-se:
+(..)
+Com efeito, verifico que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que, para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no contrato, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Nesse sentido, confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+(REsp n. 1.951.662/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9.8.2023, DJe de 20.10.2023)
+Ressalto que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com Aviso de Recebimento ao endereço do devedor indicado no contrato, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros, situação verificada no caso concreto.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para deferir a liminar e determinar que os autos retornem ao Juízo de origem, para o regular prosseguimento da ação de busca e apreensão, na esteira do devido processo legal.
+Intimem-se.
+EMENTA
