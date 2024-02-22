@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Bari Veiculos Ltda, Nix Comercio de Automoveis Ltda. contra decisão de fls. 510/512, por meio da qual deu provimento ao recurso especial interposto pela Fazenda Nacional para reconhecer a incidência do PIS e da COFINS sobre os valores decorrentes da aplicação da taxa SELIC na repetição do indébito tributário.
+Sustenta a parte embargante que: (I) "A decisão embargada, após breve digressão dos fatos e fundamentos, apontou tão somente precedentes, os quais - frisa-se - deixam de ventilar a matéria constitucional e demais dispositivos da legislação pátria envolvidos. Nesse sentido, a decisão combatida sequer justificou a pertinência dos referidos julgados, na medida em que trouxe a diferenciação de "renda" para com a noção de "receita" não arguida em nenhuma das peças processuais do caso concreto" (fl. 520) e e (II) "ao tributar a Selic através do PIS e da COFINS, a Colenda Corte deixa de observar o citado mandamento constitucional. Isso porque a verba indenizatória percebida na Selic não corresponde ao elemento novo e positivo tributável pelas contribuições em comento. Na realidade, tal montante tem natureza indenizatória, visam compe nsar as perdas promovidas pela indisponibilidade de recursos equivocadamente tributados" (fl. 521)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Convém destacar que a decisão prolatada nestes autos foi clara ao analisar a demanda com base na seguinte fundamentação de que a jurisprudência desta Corte é firme no sentido de que "incidem PIS e COFINS sobre os valores decorrentes da aplicação da taxa SELIC na restituição do indébito tributário" (AgInt no REsp n. 2.022.851/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Além disso, destaca-se o seguinte excerto da jurisprudência colacionada (fl. 511):
+ ..
+3. A tese firmado pela Suprema Corte no Tema 962, quanto à inconstitucional idade da incidência do IRPJ e da CSLL sobre os valores atinente à taxa Selic recebidos em razão de repetição de indébito tributário, não interfere no entendimento acima, pois a natureza de danos emergentes conferida aos juros moratórios afeta apenas o conceito de renda (base de cálculo do IRPJ) e não o de receita (base de cálculo do PIS e da COFINS).
+4. Precedentes: Aglnt no REsp n. 1.921.174/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022; e Aglnt
+no REsp n. 1.90S.7S9/SC, relator Ministro O  Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 28/6/2022.
+5. Agravo interno a que se nega provimento.
+(Aglut lio REsp li. 1.960.912/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023. DJe de 10/3/2023.)
+Diante disso, é forçoso concluir que os embargos declaratórios não podem ser acolhidos, pois os aclaratórios traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
