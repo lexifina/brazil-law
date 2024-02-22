@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TELEFÔNICA BRASIL S.A, contra decisão unipessoal que não conheceu do recurso especial interposto.
+No presente recurso, a parte embargante sustenta a ocorrência de erro material e supostas omissões no julgado quanto aos seguintes temas: prequestionamento da matéria, incidência das Súmulas 283/STF e 7/STJ e dissídio jurisprudencial.
+É o relatório.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, na decisão impugnada, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso.
+Note-se que à suposta violação do art. 884 do CC não foi objeto de expresso ou implícito prequestionamento pelo Tribunal de origem, o que importa na incidência do óbice da Súmula 211/STJ. Ressalta-se, ainda, que o referido dispositivo sequer foi mencionado no recurso integrativo oposto, tampouco enfrentado pelo Tribunal de origem.
+Quanto à aplicação da Súmula 283/STF, nada há que se reparar, pois a parte embargante, de fato, não impugnou os fundamentos do acórdão recorrido, segundo os quais:
+"De acordo com o conteúdo julgado, a decisão agravada não fez referência expressa e específica à ação civil pública nº 0632533-62.1997.8.26.0100, restando inviável, pois, naquela sede recursal, averiguar os fundamentos invocados pela Embargante no sentido de que os parâmetros/critérios de cálculo do montante devido ao Embargado a título de indenização se basearam no julgamento da ação civil pública nº 0632533-62.1997.8.26.0100, que não seria aplicável ao feito.
+Acresça-se que a Embargante não trouxe aos autos do recurso de agravo de instrumento nenhum documento atinente àquela demanda para comprovar a sua alegação, além de se tratar de processo que se originou em 1997, tendo tramitado em autos físicos, restando inviável a análise daquele pleito recursal.
+Registre-se, por oportuno que, ao contrário do que afirma a embargante, tais fundamentos interferem nitidamente no julgamento do recurso, pois, como ressaltado no acórdão recorrido, a ora embargante não comprovou que "os parâmetros/critérios de cálculo do montante devido ao Embargado a título de indenização se basearam no julgamento da ação civil pública nº 0632533-62.1997.8.26.0100."
+Sob outro viés, cumpre ressaltar, que houve fundamentação específica acerca da aplicação da Súmula 7/STJ, pois, como realçado na decisão recorrida: "alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "a agravante não trouxe aos autos deste recurso nenhum documento atinente àquela demanda para comprovar a sua alegação", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmulas 7/STJ."
+Por fim, como asseverado na decisão embargada, a falta de similitude fática inviabiliza a análise do dissídio. Verifica-se que o único paradigma apresentado pela embargante, sequer, trata de suposta violação à coisa julgada, que foi o principal fundamento do acórdão recorrido.
+Ademais, como já ressaltado, não é possível o conhecimento do recurso especial fundado no dissídio jurisprudencial na hipótese em que não há a devida indicação de qual dispositivo de lei teria sido ofendido, como na presente hipótese.
+Na verdade, revela-se nítida a pretensão da parte embargante de se valer do recurso integrativo para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte em tais razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração rejeitados.
