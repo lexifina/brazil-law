@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por FLAVIO HENRIQUE MEIRA DA COSTA (fls. 5732-5744) contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial (fl. 5716), dirigido contra o acórdão prolatado na Apelação Criminal n. 0000034-06.2016.8.26.0069.
+O Ministério Público Federal manifesta-se pelo conhecimento do agravo para conhecer em parte o recurso especial e, nessa extensão, negar-lhe provimento (fls. 6359-6361)
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n.º 7 deste Superior Tribunal de Justiça, em relação aos pedidos de revisão da pena-base, por inidoneidade da fundamentação e pela desproporcionalidade, e de reconhecimento da continuidade delitiva.
+Contudo, a parte Agravante, nas razões do agravo em recurso especial, no que diz respeito ao pedido de afastamento do concurso material, embora tenha afirmado que não se trata de revolvimento do acervo fático-probatório, não demonstrou que o acórdão recorrido conteria elementos suficientes para, a partir da moldura fática nele descrita, se entender pela ocorrência de continuidade delitiva, sem a necessidade da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para inadmitir o recurso especial com relação à incidência da Súmula 7 do STJ.
+III - É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+ ..
+Agravo regimental desprovido. (AgRg no AREsp n. 2.125.486/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+ ..
+1. A decisão que inadmitiu o recurso especial foi fundamentada na ausência de fundamentação necessária e no óbice contido na Súmula n. 7/STJ. Contudo, nas razões do agravo em recurso especial, os agravantes deixaram de impugnar de maneira suficiente o óbice referente à Súmula n. 7/STJ, já que o efetivo afastamento do referido óbice demanda o cotejo entre as razões de decidir do acórdão hostilizado e as teses levantadas no recurso especial, não sendo suficiente a mera menção genérica à desnecessidade de reexame de fatos e provas, como ocorreu na espécie. Precedente.
+ ..
+3. Agravo regimental desprovido, mantida a decisão agrada por seus próprios fundamentos. (AgRg no AREsp n. 2.143.166/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/6/2023, DJe de 14/6/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC c/c art. 3.º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n.º 182/STJ.
+Nesse sentido:
+ ..
+I - O agravo em recurso especial interposto pelo agravante deixou de ser conhecido em razão da ausência de impugnação específica aos óbices das Súmulas n. 7 e n. 83, STJ, apontados pelo Tribunal de Justiça do Estado do Rio Grande do Sul para inadmitir o apelo nobre.
+II - Os óbices indicados não foram enfrentados, pois a parte recorrente se limitou a afirmar que o Tribunal de origem teria extrapolado a sua competência constitucional e examinado o mérito do recurso especial.
+III - De acordo com o princípio da dialeticidade, o recurso deve impugnar concreta e especificamente os fundamentos suficientes para manter a íntegra da decisão impugnada, demonstrando, ponto a ponto, os motivos do eventual desacerto do julgado contestado.
+ ..
+Agravo regimental desprovido. (AgRg no AREsp n. 2.423.301/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/10/2023, DJe de 24/10/2023.)
+ ..
+1. O princípio da dialeticidade, positivado no art. 932, III, do Código de Processo Civil, aplicável por força do art. 3º do Código de Processo Penal, impõe à parte recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão.
+2. Ausente efetiva, específica e fundamentada impugnação à íntegra dos fundamentos adotados pela decisão que inadmitiu o apelo nobre, correta a decisão que não conheceu do agravo em recurso especial, com incidência da Súmula 182/STJ.
+ ..
+4. Agravo regimental improvido. (AgRg no AREsp n. 2.211.864/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+No mais, observa-se que as razões do agravo em recurso especial repetiram as razões de mérito do recurso recurso especial. No entanto, segundo pacífico entendimento do Superior Tribunal de Justiça, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia. (AgRg no AREsp n. 2.384.030/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/9/2023, DJe de 26/9/2023; sem grifos no original).
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
