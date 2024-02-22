@@ -1,0 +1,53 @@
+DECISÃO
+LUCAS DOS REIS MACEDO alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado do Pará (HC n. 0814733-05.2022.8.14.0000).
+Narram os autos que o ora paciente foi condenado a 23 anos e 2 meses de reclusão, em regime fechado, mais multa, como incurso nos arts. 33, caput, e 35, c/c o art. 40, IV, todos da Lei n. 11.343/2006 e 288, parágrafo único, do Código Penal.
+Nesta Corte, sustenta a defesa o aumento indevido da pena-base. Requer, portanto, o redimensionamento da reprimenda.
+Decido.
+I. Pena-base
+O Juiz sentenciante - em decisão chancelada pelo Tribunal de origem - majorou as penas-base impostas ao réu conforme abaixo aduzido (fls. 73-75, grifei):
+Crime do artigo 288, parágrafo único combinado com o artigo 8º da lei 8.072/1990
+Assim, atendendo aos comandos dos artigos 59 e 68 do Código Penal, tenho que:
+- A culpabilidade foi intensa, assim como o dolo, firme, agindo o réu com elevado grau reprovabilidade, considerada sua condição pessoal e a situação em que os fatos ocorreram que lhe exigia conduta diversa da praticada. O acusado tinha dolo de direto em integrar a associação criminosa da qual era agente executor dos mais diversos crimes, sendo o elo entre os integrantes de fora da Cidade de Redenção. Utilizava a própria residência para as reuniões do grupo;
+Os antecedentes são bons, não havendo certidão de antecedentes criminais colacionada aos autos (11. 6) de modo que não há registro de que tenha sentença penal transitada em julgado contra si (Súmula 444  SIJ  É vedada a utilização de inquéritos policias e ações penais em curso para agravar a pena-base):
+- A conduta social presume-se boa não havendo registro de forma diversa, de que o acusado seja dado a bebedeiras ou badernas. Consigne-se que a conduta social é a exata impressão que as pessoas têm acerca do cidadão, sua urbanidade;
+- O perfil psicológico prejudicial ao réu, frio, sem qualquer receio de integrar uma associação criminosa voltada as mais diversas praticas criminosas, nenhum receio de ser alcançado pelo Estado;
+- Os motivos do crime próprios do delito;
+- As circunstâncias do crime não prejudicam o réu, já que próprias do delito praticado;
+- As consequências do crime são graves, uma vez que a associação criminosa de fato passou a executar os mais diversos crimes, maior perturbação da paz pública com os assaltos praticados às instituições financeiras, veículos de transporte de valores.
+homicídios. pistolagem. tráfico de drogas e associação para o tráfico, o que provocou maior movimentação das forças estatais para coibir as práticas criminosas:
+- A(s) vitima(s) o Estado.
+Assim, atento às circunstâncias judiciais analisadas, pautado naquelas que lhes são desfavoráveis fixo a pena-base em 05 (cinco) anos de reclusão.
+ ..
+Crime do artigo 33, da Lei 11.343/2006, combinado com o artigo 2º da Lei 8.072/1990
+Considerando as circunstâncias judiciais já analisadas, as quais não se alteram, a exceção dos motivos do crime, onde o réu também tinha a atividade criminosa do tráfico como meio de profissão, visando o lucro fácil, portanto prejudicial ao mesmo. De modo que, pautado no artigo 33 da Lei 11.343/2006, ancorado nas circunstâncias judiciais desfavoráveis ao réu, fixo a pena-base em 10 (dez) anos de reclusão e 1.000 (um mil) dias-multa.
+ ..
+Crime do artigo 35, da Lei 11.343/2006
+Considerando as circunstancias judiciais já analisadas, as quais não se alteram, a exceção dos motivos do crime, onde o réu tinha a Mis idade criminosa do tráfico como meio de profissão, visando o lucro portanto prejudicial ao mesmo. De modo que, pautado no artigo 35 da Lei 11.343;2006. ancorado nas circunstâncias judiciais desfasoráveis ao réu, fixo a pena base em 06 (seis) anos de reclusão e 900 (novecentos) dias-multa.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal, e todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, a pena-base do réu foi majorada pela instância de origem em razão da análise desfavorável da culpabilidade, da personalidade, das consequências do crime e, em relação ao tráfico e à associação para o tráfico, dos motivos do delito.
+Em relação à culpabilidade, mencionou que "era o agente executor dos mais diversos crimes, sendo o elo entre os integrantes de fora da Cidade de Redenção", além de utilizar "a própria residência para as reuniões do grupo" (fl. 74). Considero idôneos os referidos argumentos, pois demonstram a maior culpabilidade do agente.
+Quanto à personalidade, destacou o Magistrado ser o réu "frio, sem qualquer receio de integrar uma associação criminosa voltada as mais diversas práticas criminosas, nenhum receio de ser alcançado pelo Estado" (fl. 74).
+"A personalidade do agente resulta da análise do seu perfil subjetivo, no que se refere a aspectos morais e psicológicos, para que se afira a existência de caráter voltado à prática de infrações penais, com base nos elementos probatórios dos autos, aptos a inferir o desvio de personalidade de acordo com o livre convencimento motivado, independentemente de perícia" (HC n. 423.706/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2019, DJe de 19/12/2019).
+Entretanto, os demais delitos e a ausência de receio de integrar associação criminosa ou mesmo de ser alcançado pelo Estado são inerentes à prática criminosa e não justificam a majoração da pena-base.
+Em relação às consequências do crime, salientou a instância de origem a "maior perturbação da paz pública com os assaltos praticados à instituições financeiras, veículos de transporte de valores, homicídios, pistolagem, tráfico de drogas e associação para o tráfico, o que provocou maior movimentação das forças estatais para coibir as práticas criminosas" (fl. 74), argumentos que, por serem genéricos, devem ser afastados.
+Em relação aos motivos do delito, a instância de origem afirmou que o acusado "tinha a atividade criminosa do tráfico como meio de profissão, visando o lucro fácil" (fl. 74). Esse elemento, no entanto, não se mostra apto a ensejar a exasperação da pena-base, visto que a busca pelo lucro fácil constitui elemento inerente ao próprio tipo penal violado (tráfico de drogas).
+Nesse sentido: "Os motivos apontados pelo juiz singular, de fato, assim como alegado pelo impetrante, são inerentes ao tipo penal incriminador, uma vez que o legislador, quando da cominação das penas referentes ao tráfico ilícito de entorpecentes, já previu, como normal à espécie, o objetivo de obter lucro fácil em detrimento da saúde da coletividade" (HC n. 476.564/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 23/5/2019).
+Diante de tais considerações, porque verificada a inadequação parcial da análise das circunstâncias judiciais - personalidade, consequências e motivos do crime - e porque remanesce desfavorável a culpabilidade, deve o writ ser concedido a fim de reduzir as penas-base: a) art. 288 do Código Penal, de 5 anos de reclusão para 3 anos e 8 meses de reclusão; b) tráfico de drogas, de 10 anos de reclusão e 1.000 dias-multa, para 6 anos e 3 meses de reclusão e 625 dias-multa; c) associação para o tráfico, de 6 anos de reclusão e 900 dias-multa, para 3 anos e 9 meses de reclusão e 750 dias-multa.
+II. Minorante prevista no art. 33, § 4º, da Lei de Drogas
+Porque mantida a condenação do paciente pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006. Isso porque a Terceira Seção deste Superior Tribunal tem o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+Diante dessas considerações, fica mantido o afastamento da causa especial de diminuição de pena em comento.
+III. Nova dosimetria
+a) Associação criminosa
+Procedendo-se, pois, a nova dosimetria da pena, verifico que a reprimenda-base do paciente ficou estabelecida em 3 anos e 8 meses de reclusão, conforme acima examinado. Na segunda fase, ausentes agravantes, mantenho a redução da reprimenda em 6 meses pela confissão, o que totaliza 3 anos e 2 meses de reclusão, montante que torno definitivo à míngua de causas de aumento e de diminuição.
+b) Tráfico de drogas
+A reprimenda-base do paciente ficou estabelecida em 6 anos e 3 meses de reclusão e 625 dias-multa, conforme acima examinado. Na segunda fase, ausentes agravantes e atenuantes. Na terceira etapa, não há causas de diminuição; pela incidência do art. 40, IV, da Lei de Drogas, aumento a reprimenda em 1/6, o que totaliza 7 anos, 3 meses e 15 dias de reclusão e 729 dias-multa.
+c) Associação para o tráfico
+A reprimenda-base do paciente ficou estabelecida em 3 anos e 9 meses de reclusão e 750 dias-multa, conforme acima examinado. Na segunda fase, ausentes agravantes e atenuantes. Na terceira etapa, não há causas de diminuição; pela incidência do art. 40, IV, da Lei de Drogas, aumento a reprimenda em 1/6, o que totaliza 4 anos, 4 meses e 15 dias de reclusão e 875 dias-multa.
+Em razão do concurso material, a pena totaliza-se em 14 anos e 10 meses de reclusão e 1.604 dias-multa.
+IV. Dispositivo
+À vista do exposto, concedo em parte a ordem a fim de reduzir as penas-base impostas e tornar a reprimenda definitiva em 14 anos e 10 meses de reclusão e 1.604 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
