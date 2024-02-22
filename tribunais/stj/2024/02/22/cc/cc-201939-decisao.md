@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA CRIMINAL DE CATALÃO - GO suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 3ª VARA CRIMINAL DE BELEM - PA.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a prática de atos judiciais em investigação deflagrada pela suposta prática de crime de furto de carga (art. 155, § 4º, II, do Código Penal), praticado mediante fraude e com abuso de confiança.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Criminal de Catalão - GO, ora suscitante (fls. 185-190).
+Decido.
+Com razão o Parquet Federal. Depreende-se dos autos que a vítima, residente na cidade de Castanhal - PA, então gerente de determinada empresa, noticiou a prática de furto de carga, a qual teria saído de Catalão - GO, local onde o motorista do caminhão pegou o produto com destino ao Estado do Pará.
+Embora a vítima resida no Pará, em casos de furto qualificado, mediante fraude ou abuso de confiança, a competência deve ser firmada pelo local em que houve a subtração fraudulenta do bem, nos termos do art. 70 do CPP (competência é definida, de regra, rationi loci, isto é, em razão do local da consumação da infração penal).
+No particular, como assinalou o Ministério Público Federal, "tratando-se de inquérito policial instaurado para apurar o delito previsto no art. 155, § 4º, II, do Código Penal, a competência deve ser firmada pelo local em que foi furtado o bem, o que corresponde, na espécie, ao Município de Catalão/GO, onde houve a aquisição indevida da carga de sucata, sem autorização do noticiante lesado" (fl. 189, destaquei).
+Nessa direção é a orientação desta Corte, nas hipóteses em que não se aplica a Lei n. 14.155/2021 (caso dos autos). Deveras, "compete à Justiça Comum do local da subtração do bem, ou seja, o lugar onde se auferiu a vantagem ilícita, por meio fraudulento, em prejuízo da vítima, a apuração do furto qualificado mediante fraude, tendo em vista que sua consumação ocorre no momento da subtração do bem" (fl. 189). A propósito, v. g., (CC n. 198841/MS, relator Ministro Messod Azulay Neto, DJe de 18/10/2023).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal de Catalão - GO, ora suscitante.
+Publique-se. Dê-se ciência aos Juízes suscitante e suscitado.
+EMENTA
