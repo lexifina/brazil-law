@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+HABEAS CORPUS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. TENTATIVA DE FEMINICÍDIO. PERICULOSIDADE DO AGENTE E REITERAÇÃO DELITIVA. DECLARAÇÃO DA VÍTIMA NO SENTIDO DE QUE "NÃO TEM MEDO" DO ACUSADO.
+Se a prisão preventiva de acusado da prática de tentativa de feminicídio foi decretada em razão de sua periculosidade social e do risco de reiteração delitiva demonstrado por sua condição de reincidente, o fato de a vítima afirmar que "não tem medo" do denunciado é irrelevante no que diz respeito à continuidade do cárcere provisório.
+ORDEM DENEGADA.
+Sustenta o impetrante não haver motivação idônea para a manutenção da prisão preventiva.
+A esse respeito, afirma que, "quanto ao argumento proferido pelo juízo de primeiro grau em relação a manutenção da prisão preventiva de Itanor, houve alteração fática promovida por força da Escritura Pública Declaratória, pela vítima, juntada aos autos originais" (fl. 4). "Em tal escritura declara não possuir mais temor em relação à liberdade de seu ex companheiro. Não fosse o suficiente, aduz ainda que gostaria que Itanor estivesse em casa no Natal junto de seus filhos, o que não ocorreu" (fl. 5).
+Argumenta que "não caberiam mais quaisquer medidas protetivas de urgência ante a declaração da vítima, conforme consta da escritura pública" (fl. 6).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente.
+A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do art. 312 do Código de Processo Penal.
+Inicialmente, tratando-se de ação penal pública incondicionada, mostra-se irrelevante a apontada escritura pública declaratória, juntada aos autos originais pela vítima, em que esta supostamente declara "não possuir mais temor em relação à liberdade de seu ex companheiro".
+Nesse sentido: AgRg no RHC n. 175.786/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe de 26/4/2023; RHC n. 76.736/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2017, DJe de 10/3/2017.
+Outrossim, verifica-se que, nos autos do AgRg no HC 846289/SC (Rel. Min.ª Laurita Vaz, DJe 16/10/2023), a Sexta Turma desta Corte Superior já constatou a presença de fundamentação válida para a prisão cautelar do paciente, nos seguintes termos:
+Na hipótese, constato que o Juiz de primeiro grau decidiu pela decretação da prisão preventiva do Agravante, destacando, sobretudo, a gravidade concreta da conduta, consubstanciada no ignóbil modus operandi empregado na empreitada delitiva - teria puxado a Vítima pelos cabelos diversas vezes, lhe dado socos na nuca e a ameaçado. Mais tarde, jogou a Ofendida em cima das crianças "e começou a lhe agredir com chutes, coices, puxões de cabelo e socos; que ele mandou calar a boca várias vezes disse "você não me fez nada, mas eu vou fazer pra você"; que o réu levantou e foi na gaveta procurar a faca; que pediu para ele não lhe matar; que ele puxou a faca e mirou para atingir o pescoço da depoente, mas se mexeu e ele lhe atingiu no braço" -, reveladora do potencial alto grau de periculosidade da Agente, e a necessidade de se preservar a integridade física da Vítima como se pode apurar dos excertos abaixo reproduzidos (fls. 228- 230; sem grifos no original):
+ ..
+O Tribunal estadual, por intermédio do acórdão ora impugnado, na mesma linha de entendimento do Juízo primevo, concluiu pela legitimidade do decisum de primeira instância, consignando que "a conduta supostamente perpetrada pelo Paciente, consistente em tentar matar sua então companheira em razão do término do relacionamento, é reveladora de sua inadequação social, e justifica, ao menos à primeira vista, a custódia preventiva" (fl. 423; sem grifos no original).
+Pois bem, com suporte nessas informações, verifico que a motivação utilizada pelas instâncias ordinárias para embasar a custódia cautelar do Paciente é idônea na medida em que encontra amparo na jurisprudência da Suprema Corte e deste Tribunal:
+ ..
+Demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal, mormente se considerado que o crime investigado envolveu violência ou grave ameaça à pessoa.
+Assim, tratando-se de questão já submetida anteriormente à análise desta esta Corte, e ausente, conforme consignado no acórdão, qualquer alteração fática quanto aos motivos que levaram à decretação da custódia, incabível nova apreciação do pedido de revogação da prisão preventiva.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
