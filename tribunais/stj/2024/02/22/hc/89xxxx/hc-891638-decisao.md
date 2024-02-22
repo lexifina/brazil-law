@@ -1,0 +1,23 @@
+DECISÃO
+ADRIANO AUSTRICLINIO DOS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0074348-19.2012.8.26.0050.
+A defesa busca a declaração da ilicitude das provas obtidas por meio do ingresso no domicílio do réu, sem autorização do morador, nem mandado judicial ou fundadas suspeitas para embasar a prisão em flagrante.
+Subsidiariamente, pleiteia a redução da pena-base do paciente, por alegada desproporcionalidade, e a exclusão da causa de aumento prevista no art. 40, VI, da Lei n. 11.343/2006, porquanto não houve pedido do Ministério Público que autorizasse o reconhecimento da majorante.
+Decido.
+Verifico que as alegações de invasão de domicílio e violação do princípio da correlação não foram previamente analisadas pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do STJ. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+Quanto à pretendida redução da pena-base, ressalto que a jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da reprimenda, em observância aos princípios da razoabilidade e da proporcionalidade.
+Portanto, a individualização da pena está sujeita à revisão no habeas corpus nas hipóteses de flagrante ilegalidade ou de teratologia, quando não observados os parâmetros legais estabelecidos no CP ou o princípio da proporcionalidade.
+No caso em exame, o réu foi condenado pelo crime previsto no art. 33 da Lei n. 11.343/2006. A pena-base foi fixada acima do mínimo legal (em 6 anos de reclusão e 600 dias-multa), em razão da elevada quantidade de drogas apreendidas, qual seja, aproximadamente 1 kg de cocaína e 40 g de maconha, a evidenciar que atuaram, justamente, em consonância com o disposto no art. 42 da Lei n. 11.343/2006 e com a jurisprudência do STJ.
+Ilustrativamente:
+ ..
+2. No mesmo sentido, o Supremo Tribunal Federal reconhece a discricionariedade do julgador na fixação da pena, assegurada a revisão do cálculo em casos em que evidenciada a ausência de fundamentos idôneos ou a desproporcionalidade do quantum estabelecido.
+3. Com base nessas premissas, não é desproporcional a fixação da pena-base em 6 anos e 3 meses de reclusão, na sentença condenatória, com base na valoração negativa da diversidade e quantidade de entorpecentes apreendidos - ao todo, 1,35 kg de maconha, 0,23 g de cocaína e 33,4 g de crack -, sobretudo se considerada a reprimenda máxima prevista para o crime de tráfico de drogas (15 anos de reclusão).
+4. Agravo não provido.
+(AgRg no HC n. 807.687/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+ ..
+II - Na ausência de previsão legal, o STJ sedimentou a orientação de que a exasperação da pena-base na fração de 1/6 para cada circunstância judicial valorada negativamente atende os princípios da razoabilidade e da proporcionalidade (HC n. 458.799/DF, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/12/2018). Todavia, com base no princípio do livre convencimento motivado, ainda que valorado um único vetor, considerada sua preponderância, o julgador poderá concluir pela necessidade de exasperação da pena-base em fração superior se considerar expressiva a quantidade da droga, sua diversidade e/ou natureza (art. 42 da Lei n. 11.343/2006). Desse modo, observa-se que a Corte de origem, ao valorar as circunstâncias judiciais, fundamentou a exasperação da pena-base para 6 anos de reclusão, utilizando como parâmetro a fração aplicável à quantidade de drogas apreendida (69 porções de cocaína, pesando 41,48g e 20 papelotes de maconha, pesando 176,71g), não se verificando na espécie o constrangimento ilegal suscitado.
+ ..
+(AgRg no HC n. 711.218/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
