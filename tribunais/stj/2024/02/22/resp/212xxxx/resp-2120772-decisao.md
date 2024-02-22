@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por M DE OLIVEIRA ADVOGADOS & ASSOCIADOS, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+Agravo de instrumento. Cumprimento de sentença. Lei 6.618/20. Vigência após o trânsito em julgado do título executivo. Irretroatividade. STF Tema 792.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte recorrente aponta violação do art. 1.022, II, do CPC/2015, aduzindo omissão no julgado.
+Aponta, ainda, violação dos arts.6º da LINDB e 14 do CPC/2015, sustentando, em apertada síntese, que não se aplica, no presente caso, o óbice do Tema 792/STF. E, ainda, que a Lei Distrital n. 6.618/2020 deve ser aplicada de forma imediata, para fins de expedição de requisição de pequeno valor referente ao crédito do(a) recorrente.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Na origem, a parte recorrente interpôs Agravo de Instrumento contra decisão proferida pela 3ª Vara da Fazenda Pública do Distrito Federal que indeferiu o pedido de pagamento dos honorários sucumbenciais em RPV, por reputar inaplicável ao caso a alteração promovida pela Lei Distrital n. 6.618/2020, que aumentou o valor do requisitório de 10 para 20 salários-mínimos, que foi improvido pelo Tribunal local.
+Em relação à alegada omissão suscitada no presente recurso especial, o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em nulidade ao deixar de se pronunciar adequadamente acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a arguição genérica de nulidade pelo recorrente atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária. Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017.)
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Distrital n. 6.618/2020, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 8/9/2020, DJe 16/9/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/8/2020, DJe 4/9/2020.)
+Ademais, ainda que possível fosse ultrapassar o óbice supra, registre-se que, apesar da recorrente ter sustentado a suposta violação dos arts. 6º da LINDB e 14 do CPC/2015, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Sobre o assunto, destacam-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AVIAÇÃO AGRÍCOLA. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. INVIABILIDADE DA ANÁLISE DE RESOLUÇÃO DE CONSELHO PROFISSIONAL.
+(..)
+3. A Corte de origem nada teceu a respeito dos arts. 2º, § 2º, do Decreto-Lei 917/69. 2º, 5º, 6º, II, 15, do Decreto 86.765/81, apesar de instado a fazê-lo pelos embargos de declaração, razão pela qual incide o óbice da Súmula 211/STJ. "Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado". (AgRg no REsp n. 1.386.843/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/2/2014.)
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.035.738/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/2/2017, DJe 23/2/2017.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO DE CANDIDATO EM CADASTRO DE RESERVA. PRETERIÇÃO. MANUTENÇÃO DE SERVIDORES CONTRATADOS IRREGULARMENTE. PRESTAÇÃO JURISDICIONAL INADEQUADA. DESCARACTERIZAÇÃO DA OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. CONTRADIÇÃO EXTERNA. HIPÓTESE DE CABIMENTO INEXISTENTE PARA OS EMBARGOS DE DECLARAÇÃO. DISCUSSÃO ACERCA DA NECESSIDADE DE PROVA PERICIAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. VIOLAÇÃO A NORMAS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+(..)
+6. O prequestionamento advém do debate da temática processual à luz de determinado preceito legal federal, ou seja, é forçoso que o Tribunal da origem interprete os fatos processuais e sobre eles proceda juízo de valor para adequa-los ou não a determinado preceptivo federal, realizando assim a subsunção do fato à norma, o que absolutamente inexistiu no acórdão da origem, que não se sustentou nos arts. 130, 131, 331, § 2.º, 333, inciso I, 436, 437, 438 e 439, todos do CPC-1973, mas apenas na Lei 8.112/1990 e na Constituição da República.
+7. O prequestionamento não é a indicação do preceito legal, mas o debate de determinada tese de acordo com certa norma jurídica (inscrita no preceito), de maneira a que a falta de apontamento de lei não importa a falta de prequestionamento, mas tampouco a ausência de debate significa o prequestionamento ""implícito"".
+8. Agravo regimental não provido.
+(AgRg no REsp n. 1.581.104/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/4/2016, DJe 15/4/2016.)
+Importante destacar que, apesar da Recorrente ter indicado, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015, não demonstrou em que aspectos residiriam as omissões e sua relevância ao deslinde da controvérsia, tampouco infirmou as conclusões do acórdão dos declaratórios, atraindo, por analogia, a incidência da Súmula 284 do STF, circunstância que impede o reconhecimento do prequestionamento ficto.
+No mesmo sentido: AgInt no AREsp 1869146/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/03/2022, DJe 30/03/2022; AgInt no REsp 1931444/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/02/2022, DJe 21/02/2022; AgInt no REsp 1790501/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/03/2021, DJe 19/03/2021; AgInt nos EDcl no REsp 1848930/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021; AgInt no REsp 1744514/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/10/2020, DJe 23/10/2020.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
