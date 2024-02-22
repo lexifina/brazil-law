@@ -1,0 +1,35 @@
+DECISÃO
+LUIZ ANTÔNIO TAVEIRA MENDES alega sofrer coação em seu direito de locomoção em face de acórdão do Tribunal Regional Federal da 3ª Região no HC n. 5030836-40.2023.4.03.0000.
+Nas razões deste mandamus, o impetrante sustenta, em suma, a revogação das medidas cautelares impostas em desfavor do paciente diante dos argumentos do não preenchimento dos requisitos legais e da ausência de contemporaneidade das providências impostas, uma vez que o réu haveria "renunciado ao cargo de administrador das empresas investigadas" (fl. 1.959).
+Esclarece que o investigado não integraria a organização criminosa supostamente destinada ao contrabando de mercúrio e aduz que ele era, tão somente, administrador das empresas investigadas - Kin Mineração e Mineração Aricá.
+O pedido de urgência foi analisado pelo Vice-Presidente desta Corte Superior às fls. 1.959-1.961, ocasião em que entendeu pela perda do objeto do writ.
+Instado a se manifestar, o Ministério Público Federal opinou, preliminarmente, pelo não conhecimento do habeas corpus.
+Decido.
+I. Contextualização
+Trata-se de réu investigado pela Polícia Federal, no âmbito da "Operação Hermes", direcionada a averiguar possível contrabando de mercúrio.
+Em consulta aos autos, observa-se que o Juiz de primeiro grau fixou medidas cautelares elencadas no art. 319 do CPP em detrimento do paciente (fl. 1.867, destaquei):
+"Aplico, pois, aos investigados THIAGO MENDONÇA CAMPOS, JEFERSON DAS CAS7EDO, 14dILL)AN LEI7E ROIVDON, PALDIIVEI MAURO DE SOU2A, ROIVNY MORAIS COS7A, FILADELFO DOS REIS DAS, MARCIO MACEDO SOBRINHO, MARCELO MASSARU, EULER OLIVEIRA COELHO, LUIS ANTONIO TAVEIRA MENDES, ANTONIO JORGE SILVA, JOSÉ RIBAMAR SILVA OLIVEIRA, DARCY WINTER, JOSE CARLOS MORELLI, EDILSON RODRIGUES CAMPOS e RODRIGO CAS7RILLON LARA VEIGA as seguintes medidas cautelares diversas da prisão, com fundamento no artigo 319, IV e VIII e 320, ambos do Código de Processo Penal:
+Proibição de alterar o endereço de seu domicílio, sem comunicação a este Juízo;
+Pagamento de Fiança no valor de duzentos salários-mínimos, no prazo de 15 (quinze) dias;
+A proibição de deixar o país sem a autorização deste Juízo;
+Quanto à proibição de deixar o país, o recolhimento e acautelamento dos passaportes deverá ser feito pela autoridade policial, efetuando-se, ainda, a comunicação às autoridades de fronteira quanto ao impedimento (..). n. 262231142 - destaques do original)".
+A Corte local concedeu parcialmente a ordem do habeas corpus originário impetrado pela defesa para, tão somente, reduzir o quantum estipulado para pagamento a título de fiança, nos seguintes termos (fl. 1.868, grifei):
+"A fiança é uma dentre as medidas cautelares (CPP, art. 319, VIII), podendo ser cumulada com outras medidas cautelares (CPP, art. 319, § 4º), e julgar-se-á quebrada quando descumprida medida cautelar imposta cumulativamente (CPP, art. 341, III). Portanto, sua cominação associada à imposição de medidas cautelares não constitui ilegalidade.
+O art. 326 do Código de Processo Penal estabelece que, para determinar o valor da fiança, a autoridade considerará a natureza da infração, as condições pessoais de fortuna e vida pregressa do acusado, as circunstâncias indicativas de sua periculosidade, bem como a importância provável das custas do processo, até final julgamento.
+A decisão impugnada aponta para os delitos previstos nos arts. 55, 56 e 69-A, todos da Lei 9.605/98, sendo a pena mais severa a do último deles, equivalente a 6 (seis) anos de reclusão, incidindo o inciso II do art. 325 do Código de Processo Penal, segundo o qual a fiança será fixada, nessa hipótese, entre 10 (dez) e 200 (duzentos) salários-mínimos.
+A decisão impugnada fixou a fiança do paciente no valor de 200 (duzentos) salários-mínimos, contudo não verifico a presença de elementos para determinar semelhante exasperação. Dessa forma, adequada a redução da fiança para 10 (dez) salários-mínimos, sendo mantidas as demais medidas cautelares fixadas pelo Juízo a quo, quais sejam: proibição de alterar o endereço de seu domicílio, sem comunicação ao Juízo; a proibição de deixar o país sem a autorização do Juízo, sendo que o recolhimento e acautelamento dos passaportes deverá ser feito pela Autoridade Policial, efetuando-se, ainda, a comunicação às autoridades de fronteira quanto ao impedimento".
+Paciente que alega sofrer constrangimento ilegal em decorrência de acórdão proferido pela Corte local e pleiteia a concessão da ordem para que as medidas cautelares impostas sejam revogadas.
+Esta Corte Superior entende que o habeas corpus é ação constitucional de natureza mandamental, cujo escopo precípuo visa afastar eventual ameaça ao direito de ir e vir, motivo pelo qual se revela inviável o seu manejo para a tutela de direitos que não sejam o de locomoção.
+Nesse sentido, mutatis mutandis:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. "OPERAÇÃO CHORUME". PRETENSÃO DE POSSE EM CARGO DE VEREADOR. AUSÊNCIA DE AMEAÇA A DIREITO DE LOCOMOÇÃO. IMPROPRIEDADE DO REMÉDIO CONSTITUCIONAL. INCOMPATIBILIDADE ENTRE O EXERCÍCIO DO CARGO E AS MEDIDAS CAUTELARES IMPOSTAS. AGRAVO DESPROVIDO.
+1. A pretensão isolada de permissão para tomada de posse em cargo de vereador foge do escopo específico e restrito do habeas corpus - e, portanto, do respectivo recurso ordinário constitucional -, qual seja, proteção contra ameaça ou lesão ao direito de locomoção.
+2. "É certo que, sendo o habeas corpus o remédio constitucional que visa resguardar a liberdade ambulatorial das pessoas nacionais ou estrangeiras em território brasileiro, não se mostra possível sua utilização para discutir outros efeitos da condenação que não importem em risco ao direito de ir e vir, como a perda do cargo público" (AgRg no HC n. 332.052/SP, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 19/2/2019, DJe de 26/2/2019).
+3. Ademais, tendo sido fixada pelo magistrado medida cautelar de vedação ao exercício de quaisquer funções públicas, inclusive de natureza política, revela-se clara a impossibilidade de investidura no cargo.
+4. Com efeito, não faria sentido que, afastado o titular do cargo exatamente em razão da existência de fundados indícios de cometimento dos crimes objeto da "Operação Chorume", fosse empossado, em seu lugar, suplente acusado nos mesmos autos por participação nos mesmos delitos.
+5. Agravo desprovido (AgRg no RHC n. 170.598/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/10/2022).
+In casu, há nos autos a informação, anexada pela defesa, de que o réu foi autorizado judicialmente a se ausentar do país (fls. 1.949-1.950).
+Por fim, consoante manifestação do Ministério Público Federal (fls. 1.980-1.982):
+"extrai-se dos autos que, de fato, o Juízo da Vara Federal de Campinas/SP autorizou o pedido de realização de viagem internacional formulado pelo paciente, determinando a restituição de seu passaporte e a comunicação às autoridades de fronteira, de modo que o pleito de revogação das medidas cautelares relacionadas a tais providências resta prejudicado".
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
