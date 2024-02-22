@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar, impetrado contra acórdão assim ementado (fls. 18/22):
+Habeas Corpus. Receptação. Pedido de liberdade provisória. Descabimento. Decisão que decretou a custódia bem fundamentada. Constrangimento ilegal não demonstrado. Prisão mantida. Ordem denegada.
+Consta dos autos que o paciente foi preso preventivamente pela prática do crime previsto no artigo 180 do Código Penal (receptação).
+A defesa do paciente alega que o acusado é primário e não estão presentes nos autos os requisitos necessários para a prisão preventiva.
+Entende que o caso sob análise pressupõe a substituição da segregação por outra medida cautelar e, nesta hipótese, se faz necessário a prévia oitiva da parte contrária, conforme previsto no artigo 282, § 3º, do CPP, o que não ocorreu na espécie e, assim, entende que há vício de nulidade na prisão cautelar por incompetência de ato do juízo da custódia, em detrimento da competência do juiz natural.
+Argumenta que, se houver condenação do acusado, o regime a ser imposto deverá ser diverso do fechado, especialmente diante da primariedade e da pena máxima em abstrato cominada ao delito, o que exige o relaxamento da prisão por se tratar de medida desproporcional, em observância ao disposto no artigo 313, I e II, do CPP.
+Requer, liminarmente e quanto ao mérito, a concessão da ordem no sentido de que seja concedida a liberdade provisória do paciente ou, a substituição da prisão por outra medida cautelar.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do artigo 34, XVIII e XX, do RISTJ.
+De início, as questões referentes à incompetência do juízo da custódia e a alegada desproporcionalidade da prisão e não foram examinadas pelo Tribunal de origem, não devendo ser apreciadas diretamente por esta Corte para não se incorrer em indevida supressão de instância.
+Quanto aos motivos da prisão cautelar, a decisão que converteu a prisão em flagrante em preventiva está assim fundamentada (fls. 70/72):
+No caso em apreço, a prova da materialidade e os indícios suficientes de autoria do crime de receptação (artigo 180 do Código Penal) encontram-se evidenciados pelos elementos de convicção constantes das cópias do Auto de Prisão em Flagrante, com destaque para as declarações colhidas e o auto de apreensão.
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis.
+Em que pese o delito tenha sido praticado sem o emprego de violência ou grave ameaça, o autuado é tecnicamente primário - por delito patrimonial, possuindo condenação definitiva anterior pela prática do crime de furto e ou receptação e estando em liberdade provisória, de modo que a conversão do flagrante em prisão preventiva se faz necessária a fim de se evitar a reiteração delitiva, eis que em liberdade já demonstrou concretamente que continuará a delinquir, o que evidencia que medidas cautelares diversas da prisão não serão suficientes para afastá-lo da prática criminosa e confirma o perigo gerado pelo estado de liberdade do autuado.
+NÃO há, ainda, comprovação de atividade laboral remunerada, de modo que as atividades ilícitas porventura sejam fonte ao menos alternativa de renda (modelo de vida), pelo que a recolocação em liberdade neste momento (de maneira precoce) geraria presumível retorno às vias delitivas, meio de sustento.
+Dessa forma, reputo que a conversão do flagrante em prisão preventiva é necessária a fim de se evitar a reiteração delitiva, assegurando-se a ordem pública, bem como a conveniência da instrução criminal e a aplicação da lei penal.
+Como pode ser observado, consta do decreto prisional fundamentação que deve ser considerada idônea revelada na reiteração delitiva.
+A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
