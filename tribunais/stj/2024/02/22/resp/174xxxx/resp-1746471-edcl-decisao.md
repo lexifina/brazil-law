@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 4608):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. MANDADO DE SEGURANÇA. CRÉDITO TRIBUTÁRIO CONSTITUÍDO POR DCTF. COMPENSAÇÃO. INFORMAÇÃO TAMBÉM APRESENTADA EM DCTF. UTILIZAÇÃO DE CRÉDITO CONSTITUÍDO EM SENTENÇA, NÃO TRANSITADA EM JULGADO. INDEFERIMENTO ADMINISTRATIVO. NECESSIDADE DE NOVO LANÇAMENTO. REJEIÇÃO. FUNDAMENTO:VENIRE CONTRA FACTUM PROPRIUM. JURISPRUDÊNCIA DO STJ. NECESSIDADE DE LANÇAMENTO ATÉ 31/10/2003. RECURSO CONHECIDO E PROVIDO POR VIOLAÇÃO AO ART. 1.022 DO CPC. DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+O embargante sustenta que a "é evidente que os vícios em relação à análise da prescrição não foram sanados pelo Tribunal de origem, de modo que o Recurso Especial merece provimento para reconhecer a nulidade do acórdão recorrido em relação à prescrição de forma que a Corte de origem não só analise a decadência, como também a prescrição de forma individualizada a partir de cada débito de competência do respectivo trimestre e de sua própria DCTF retificadora, conforme a planilha acima transcrita"
+Sem impugnação.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada deu provimento ao recurso especial, por violação ao art. 1.022 do CPC, com o seguinte dispositivo: "Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios, relativamente à questão da decadência tributária, nos termos da fundamentação".
+Muito embora o dispositivo da decisão tenha se referido ao tema da decadência, caberá ao Tribunal de origem a efetivação de um novo julgamento dos embargos de declaração, com ampla competência a reanalise das questões devolvidas, dentro dos limites que a lide prologada permitem. Portanto, o novo julgamento é do recurso oposto pela parte.
+Ante o exposto, acolho os embargos de declaração apenas para esclarecer que o novo julgamento dos embargos de declaração, a ser promovido pelo Tribunal de origem, possuí cognição ampla, dentro dos limites da lide.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO ACOLHIDOS APENAS PARA ESCLARECIMENTO DA DECISÃO EMBARGADA.
