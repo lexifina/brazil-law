@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIRO BENEVIDES INDÚSTRIA DE CONFECÇÕES DO VESTUÁRIO LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 7.382-7.384) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 7.246):
+Locação. Shopping center. Demanda revisional de aluguéis ajuizada pela locatária tendo por objeto o indexador pactuado, IGP-DI. Sentença de parcial procedência. Apelo de ambas as partes. Pretensão de substituição do índice de reajuste.
+Pertinência. Variação notoriamente desproporcional dos índices de inflação divulgados pela FGV (IGP-M e IGP-DI, em especial), durante os anos de pandemia, se considerados os índices oficiais ou divulgados por outras entidades idôneas, com diferenças da ordem de 500% a 600% nos últimos meses.
+Hipótese em que ponderável o reconhecimento da quebra da base objetiva do negócio, conquanto não se cogite de nulidade do pacto originário, propriamente dito. Sentença mantida nesse particular, por maioria. Pretensão da autora, outrossim, de exclusão de qualquer atualização no tocante à parcela de cessão do direito de uso da estrutura do shopping center desprovida de embasamento jurídico. Desacolhimento do pedido inicial, nesse particular, confirmado, aqui por votação unânime. Manutenção, por fim, da imposição aos réus dos encargos sucumbenciais, por aplicação do critério do art. 86, parágrafo único, do CPC. Sentença recorrida integralmente confirmada. Apelações de ambas as partes desprovidas.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 7.271):
+Embargos de declaração dos réus. Mera expressão de inconformismo para com os termos do v. acórdão embargado. Pretensão de modificação da solução adotada. Recurso não escorado, sequer indiretamente, em quaisquer das hipóteses do art. 1.022 do CPC. Clara deturpação do escopo integrativo da via recursal empregada. Embargos declaratórios não conhecidos.
+Embargos de declaração da autora.
+Alegada contradição. Vício inocorrente. Julgamento devidamente fundamentado e coerente entre as premissas adotadas e a conclusão. Mero inconformismo para com os fundamentos do acórdão. Prequestionamento inócuo.
+Embargos declaratórios rejeitados.
+Nas razões do recurso especial, a recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação ao art. 6º do CPC/2015.
+Apontou contradição no aresto recorrido quando "reconhece a devida revisão contratual para o reequilíbrio das prestações recíprocas e inclusive determina que não é cabível a aplicação do índice IGP-DI na CDU, mas não dá provimento a apelação da Recorrente, aduzindo que ela se baseia apenas em uma "genérica assertiva de dificuldades econômicas"" (e-STJ, fl. 7.286).
+Defendeu a impossibilidade de correção da parcela decorrente da cessão de direito de uso emitida em 2021, pois a medida é manifestamente abusiva, já que coloca a parte em excessiva desvantagem.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 7.382-7.384).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 7.390-7.399).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não obstante a irresignação da agravante, verifica-se deficiência na argumentação exposta na petição do recurso especial.
+É necessário frisar que o recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+Na hipótese em exame, analisando as razões do apelo especial interposto pela recorrente, verifica-se que os argumentos apresentados não foram suficientes para demonstrar o descumprimento da legislação federal apontada, qual seja, afronta ao art. 6º do CPC/2015.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de CAIRO BENEVIDES INDÚSTRIA DE CONFECÇÕES DO VESTUÁRIO LTDA.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REVISÃO CONTRATUAL. VIOLAÇÃO AO ART. 6º DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE CAIRO BENEVIDES INDÚSTRIA DE CONFECÇÕES DO VESTUÁRIO LTDA.
