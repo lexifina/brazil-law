@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. Embargos à execução. Execução de título extrajudicial. Sentença de parcial procedência. Recurso dos embargantes. Pretensão que visa ao afastamento do ônus da sucumbência. Não acolhimento. Pedido inicial que pugnou pelo reconhecimento de tese de excesso de execução por cobrança ilegal de juros, parcela já quitada e seguro prestamista/personalizado. Ilegalidade reconhecida apenas quanto à cobrança do seguro. Embargantes vencidos em parcela maior do pedido. Condenação ao ônus da sucumbência que se impõe. Inteligência dos art. 85 e 86, CPC. Sentença mantida. Recurso dos embargantes desprovido, com majoração de honorários.
+Alegou-se, no especial, violação dos artigos 274, parágrafo único, e 6º do Código de Processo Civil sob o argumento de que o juízo de primeiro grau "julgou extinto o processo, sem julgamento de mérito, em conformidade com a norma do art. 485, inciso III, do CPC, alegando que a parte recorrente foi intimada a dar andamento ao feito e quedou-se inerte" (e-STJ, fl. 185), andando, todavia, em equívoco, haja vista que o recorrente não teria sido intimado em seu endereço para dar andamento em feito, desrespeitando, assim, o princípio da primazia do julgamento de mérito.
+Assim delimitada a controvérsia, passo a decidir.
+A sentença concluiu que a "parte autora foi devidamente intimada, via DJe e pessoalmente via Carta AR digital (págs. 138 e 140), sendo que a diligência visando sua intimação, foi feita no endereço informado na inicial e único que consta nos autos" (e-STJ, fl. 142). A s questões levantadas no recurso especial não foram apreciadas pelo acórdão local.
+Se entendia o recorrente que houve equívoco na atuação da Corte local, deveria ter-lhe provocado por meio do competente recurso integrativo, o qual permite, inclusive, a alegação de eventual erro material.
+Não o fazendo, tem-se por inequívoca a incidência dos verbetes n. 282, 283, 284 e 356 da Súmula do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
