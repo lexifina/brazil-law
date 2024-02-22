@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDENILSON RIBAS OKCENSKI, em face da decisão que indeferiu liminarmente os embargos de divergência.
+Em suas razões, sustenta a parte embargante, em síntese (fl. 23, do Expediente Avulso):
+Analisando a árvore processual, observa-se que houve a baixa definitiva dos autos ao Tribunal de origem em 06/12/2023 13:23:09 "baixa Definitiva para TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO", afirmando que houve o trânsito em julgado em 06/12/2023.
+Contudo, não houve o trânsito em julgado para a defesa, pois, a publicação do DESPACHO/DECISÃO ocorreu em 30/11/2023, sendo que os prazos recursais segundo a interpretação conjunta do dispositivo legal tem como regra o artigo 1.003, parágrafo 5º, qualquer que seja a modalidade de agravo, o prazo para a sua respectiva interposição é sempre de 15 dias, ou para a interposição do recurso extraordinário é de 15 dias, segundo o artigo 508 do CPC.
+Portanto, não houve o trânsito em julgado para a defesa na data apontada na certidão juntada aos autos. Assim, salvo melhor juízo há um equívoco a ser sando, não podendo admitir a baixa definitiva dos autos para o Colendo Tribunal de origem.
+Por fim, veja-se que não houve manifestação da defesa, de ciência com renúncia de prazo recursal, muito menos transcorreu o prazo legal sem manifestação da defesa, sendo certo que a defesa apresentou Embargos de Divergências em 10/12/2023, o qual foi rejeitado liminarmente.
+Tece, ainda, considerações sobre o mérito dos embargos de divergência, alegando que a "decisão da perda do cargo público afronta aos ensinamentos emanados da Corte Superior" (fl. 27, do Expediente Avulso).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Verifica-se que não há equívoco na expedição da certidão de trânsito em julgado de fls. 1569, tendo em vista que os embargos de divergência não eram cabíveis, isso porque, conforme preceitua o art. 39 da Lei n. 8.038/1990, c/c o art. 798 do Código de Processo Penal, o único recurso cabível contra a decisão desta Presidência é o agravo regimental, no prazo de 5 (cinco) dias corridos. Nesse sentido, AgRg no AREsp n. 1.793.458/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023.
+Não fosse isso, consoante explicitado na decisão embargada, os embargos de divergência foram interpostos contra decisão monocrática exarada por Relator do Superior Tribunal de Justiça, restando evidenciada a falta de exaurimento de instância.
+Ressalte-se que conforme dispõe o art. 1.043 do Código de Processo Civil, a interposição dos embargos de divergência pressupõe que o decisum impugnado seja acórdão proferido órgão fracionário, nunca decisão singular ou monocrática proferida pelo Relator.
+Por fim, a parte embargante não discutiu os vícios previstos no art. 619 do Código de Processo Penal, limitando-se a apresentar argumentos genéricos sobre a perda do cargo, sem estabelecer conexão entre os fundamentos da decisão que indeferiu liminarmente os embargos de divergência e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgInt nos EDcl no AREsp n. 883535/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
