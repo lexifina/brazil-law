@@ -1,0 +1,8 @@
+DECISÃO
+VIVIANE CRISTINA BELATO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 0000950-26.2016.8.26.0397, em que foi mantida sua condenação " a  3 anos, 8 meses e 24 dias de reclusão, em regime inicial fechado, mais o pagamento de 17 dias-multa, no piso, por três infrações ao artigo 155, parágrafo 4º, inciso IV, aplicada a regra do artigo 71, ambos do Código Penal (fls. 566/571)" (fl. 7).
+Primeiramente, conforme destacado no despacho de fl. 73, fui designado como relator do Agravo em Recurso Especial n. 2.268.891/SP, em que se analisou os termos da condenação de que se cuida, razão pela qual aceito a prevenção.
+Neste writ, assere a defesa que "A paciente, portadora de doença grave (Doença de Cushing), foi condenada a uma pena de 3 anos, 8 meses e 24 dias em regime fechado, por suposta infração ao art. 155, parágrafo 4º, inciso IV, com a aplicação da regra do artigo 71, ambos do Código Penal.  ..  Diante desse quadro clínico grave, a manutenção do regime fechado representa um perigo iminente à vida da paciente, uma vez que o sistema prisional não oferece os meios necessários para seu tratamento" (fl. 4).
+Todavia, "o pleito de deferimento da prisão domiciliar não foi primeiramente submetido ao crivo do órgão colegiado da Corte a quo, o que impede o exame da matéria diretamente por este Tribunal, sob pena de configurar-se indevida supressão de instância" (AgRg no RHC n. 191.695/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/2/2024, grifei.)
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
