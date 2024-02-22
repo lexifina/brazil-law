@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  WAGNER  CANHEDO  AZEVEDO  FILHO,  contra  decisão  que  não admitiu  o  recurso especial,  em  razão  da  incidência  do  óbice  da  Súmula n.º  83, STJ.
+O  agravante  foi  condenado  pela  prática  dos  delitos  descritos  no  art.  2º  da  Lei  n.  8.176/91,  nos  artigos  38,  68,  40  c/c  40-A,  §1º,  e  54,  §2º,  inciso  V,  da  Lei  n.  9.605/98,  às  penas  definitivas,  em  concurso  material,  de  9  (nove)  anos,  no  regime  inicial  fechado (fls. 1655-1706).
+Após a interposição da apelação, a defesa peticionou pelo aditamento das razões recursais, o que foi negado monocraticamente.  Interposto  agravo  regimental  (fls.  2.008/2.038),  este  restou  desprovido,  à  unanimidade  de  votos,  consoante  a  seguinte  ementa  (fl.  2.120).
+Sobreveio  recurso  especial  (fls.  2.123/2.185),  com  fundamento  no  art.  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  da  República, em que a defesa sustentou, além de dissídio jurisprudencial, afronta aos arts. 16 e 119 do Código Penal, bem como aos arts. 593, inciso I, e 599 do Código de Processo Penal. Alegou a possibilidade do aditamento da razões da apelação, afirmando não ocorrer preclusão consumativa na espécie.
+Negada admissibilidade ao recurso especial (fls. 2345-2347), a defesa interpôs o presente agravo (fls. 2372-2436).
+O  Ministério  Público  Federal  opinou  pelo  não  conhecimento  da  insurgência  (fls.  2.505/5.513).
+É  o  relatório.  DECIDO.
+O  recurso especial não foi admitido na origem ante a concordância do acórdão recorrido com a  jurisprudência  desta Corte Superior  (Súmula  n.  83,  STJ)  .
+O enunciado n. 83 da Súmula do Superior Tribunal de Justiça assim dispõe:
+Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+A correta impugnação da aplicação da Súmula n. 83, STJ requer a  indicação  de  precedentes  atuais,  que demonstrem  a  desarmonia  do  julgado  ,  ou  da  ausência  de  entendimento  pacificado  sobre  a  matéria. É dizer, não cabe, a mera alegação genérica de não aplicabilidade do óbice sumular.
+A jurisprudência desta Corte Superior é firme no sentido de que o afastamento da aplicação da Súmula n. 83, STJ depende da demonstração do equívoco da decisão agravada, seja pela superação do entendimento no âmbito do STJ, seja por eventual distinção do caso concreto (AgRg no AREsp n. 1.825.286/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/5/2021, DJe de 25/5/2021).
+Na espécie, a agravante cinge-se a transcrever a integralidade das razões do recurso especial e a contestar genericamente a aplicação da súmula. Menciona, ainda, julgado de 8.10.2001 (REsp 241.777/BA) para fundamentar o afastamento da Súmula n. 83, STJ.
+O agravante, portanto, não se desincumbiu do ônus de impugnar adequadamente os fundamentos adotados na origem para negar a admissibilidade ao recurso.
+Friso que caberia ao agravante colacionar precedentes contemporâneos ou supervenientes aos julgados indicados pela decisão agravada, de forma que o julgado indicado não é capaz de mitigar a incidência da Súmula n. 83, STJ (AgRg no AREsp n. 2.246.366/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/9/2023, DJe de 26/9/2023).
+Ademais, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que: "O óbice contido na Súmula 83/STJ também se aplica ao recurso especial interposto com fulcro na alínea a do inciso III do art. 105 da Constituição Federal" (AgRg no AREsp n. 1.248.218/PR, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 06/12/2018).
+Desse  modo,  a  ausência  de  impugnação  adequada  dos  fundamentos  empregados  pela  Corte  de  origem  para  impedir  o  trânsito  do  apelo  nobre,  nos  termos  do  art.  932,  inciso  III  , do  CPC,  impede  o  conhecimento  do  agravo,  cujo  único  propósito  é  demonstrar  a  inaplicabilidade  dos  motivos  indicados  na  decisão  de  inadmissibilidade  do  recurso  por  meio  de  impugnação  específica  de  cada  um  deles.
+Diante  do  exposto,  nos  termos  do  art.  253,  parágrafo  único,  inciso  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  agravo  em  recurso  especial.
+Intime-se. Publique-se.
+EMENTA
+PENAL.  PROCESSO  PENAL.  AGRAVO  EM  RECURSO  ESPECIAL.  CRIME  AMBIENTAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  AGRAVO  EM  RECURSO  ESPECIAL  NÃO  CONHECIDO.
