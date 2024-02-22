@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Jorge Luis Gomes da Silva, apontando-se como órgão coator o Tribunal de Justiça de São Paulo (Revisão Criminal n. 0023607-42.2023.8.26.0000).
+Neste mandamus, o impetrante alega que, em 4 de julho de 2023, foi protocolado em favor do paciente, a competente Ação de Revisão Criminal junto ao Tribunal de Justiça do Estado, uma vez que o processo de conhecimento, no entender desta defesa, possui falhas (fl. 4).
+Consta, ainda, que, até a presente data, nem sequer foi distribuída, uma vez haja vista que recebida pelo Tribunal, imediatamente solicitou ofício ao MM Juiz de primeira instância solicitando os autos originais que tramitam ainda de forma física (fl. 4).
+Aduz o impetrante a existência de excesso de prazo no julgamento da referida ação revisão, pois, até o presente o momento, a ação de revisão criminal se encontra parada, sem ao menos ser distribuída para a Turma competente, vez que os autos originais não foram encaminhados ao Tribunal Superior para analise e julgamento da competente ação (fl. 5).
+Requer, em liminar, seja determinado ao Juiz 1ª Vara Criminal da comarca de Americana/SP o imediato envio dos autos do Processo Crime n. 0005855-142013.8.26.0451 assim como seja determinado ao Tribunal de Justiça de São Paulo para que de imediata tramitação a Ação Revisional em comento, dando a prestação jurisdicional final com a urgência necessária, e no Mérito, que seja confirmada a medida no sentido de determinar o imediato processamento e julgamento da Ação de Revisão Criminal n. 0023607-42.2023.8.26.0000, por ser medida de direito e de justiça (fls. 8/9 - grifo nosso).
+Liminar indeferida (fls. 15/17).
+Prestadas as informações (fls. 25/26 e 28/125), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pelo reconhecimento da perda de objeto da impetração (fls. 130/134).
+É o relatório.
+Perdeu o objeto o presente writ que pretendia o célere impulso processual da Revisão Criminal n. 0023607-42.2023.8.26.0000 ajuizada em favor de Jorge Luis Gomes da Silva.
+Isso porque, de acordo com as informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo, em 5/12/2023, o Juízo de Direito da 1ª Vara Criminal da comarca de Americana/SP remeteu o pedido de revisão criminal a Corte a quo, cuja distribuição por competência exclusiva ao Desembargador Relator Luis Augusto de Sampaio Arruda ocorreu em 14/12/2023, com subsequente remetimento dos autos para a Procuradoria-Geral da Justiça para emissão de parecer e posterior envio ao Relator (conclusão) na data de 1º/2/2024, com respectivo recebimento em 5/2/2024, fato que esgota a pretensão contida na presente impetração, dada a alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NOS ARTS. 33 E 35, C/C O ART. 40, VI, TODOS DA LEI N. 11.343/2006. CONDENAÇÃO. EXCESSO DE PRAZO PARA PROCESSAMENTO DA REVISÃO CRIMINAL N. 0023607-42.2023.8.26.0000. SUPERVENIENTE DISTRIBUIÇÃO AO TRIBUNAL A QUO, COM REMETIMENTO À PROCURADORIA-GERAL DA JUSTIÇA E SUBSEQUENTE RECEBIMENTO DOS AUTOS PELO DESEMBARGADOR RELATOR. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA IMPETRAÇÃO. PERDA DE OBJETO.
+Writ prejudicado.
