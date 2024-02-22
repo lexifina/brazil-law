@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de JOSENILDO MARTINS TAVARES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Depreende-se dos autos que o Recorrente foi condenado à pena de 8 (oito) anos, 6 (seis) meses e 2 (dois) dias de reclusão, no regime fechado, pela suposta prática do delito de tráfico de drogas; negado o direito de recorrer em liberdade. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local que denegou a ordem, entendendo que a manutenção da prisão cautelar se encontrava justificada:
+"A segregação cautelar restou devidamente fundamentada quando de sua decretação, indicando o Juízo singular a presença de indícios de autoria e materialidade. Ademais, restou evidenciado na sentença que indeferiu o pedido de recorrer em liberdade que "os fundamentos que ensejaram na segregação cautelar do ora condenado permanecem inalterados, sobretudo a necessidade de garantia da ordem pública, mormente considerada a reincidência e a quantidade de cocaína apreendida. Denego ao réu condenado o direito de recorrer em liberdade."
+Ora, o Paciente é pessoa voltada a práticas delituosas, inclusive existindo Execução de Pena em andamento com a seguinte decisão:" (fls. 658).
+No presente recurso, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Recorrente, aduzindo a ausência de fundamentação para a prisão cautelar.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão .
+Limi nar indeferida, às fls. 709-711.
+O Ministério Público Federal, às fls. 714-721, opinou pelo desprovimento do recurso. Confira-se a ementa do parecer:
+"RECURSO EM HABEAS CORPUS. TRÁFICODE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA CONDENATÓRIA DE RÉU QUE RESPONDEU TODO O PROCESSO PRESO. MANUTENÇÃO DA PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS DO ART. 312 DO CPP. GRAVIDADE CONCRETA DO CRIME. QUANTIDADE DE DROGAS. REINCIDÊNCIA DO AGENTE. RISCO DE REITERAÇÃO DELITIVA. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO DO ART.319, CPP. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Parecer do MPF pelo desprovimento do recurso" (fl. 714).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta supostamente perpetrada; haja vista a quantidade de droga apreendida, no contexto da traficância, (1.527 gramas de cocaína); não se olvidando o risco de reiteração criminosa, pois ele ostenta outras passagens criminais.
+No ponto, consta no acórdão hostilizado:
+"A segregação cautelar restou devidamente fundamentada quando de sua decretação, indicando o Juízo singular a presença de indícios de autoria e materialidade. Ademais, restou evidenciado na sentença que indeferiu o pedido de recorrer em liberdade que "os fundamentos que ensejaram na segregação cautelar do ora condenado permanecem inalterados, sobretudo a necessidade de garantia da ordem pública, mormente considerada a reincidência e a quantidade de cocaína apreendida. Denego ao réu condenado o direito de recorrer em liberdade."
+Ora, o Paciente é pessoa voltada a práticas delituosas, inclusive existindo Execução de Pena em andamento com a seguinte decisão:" (fls. 658).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos auto s elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
