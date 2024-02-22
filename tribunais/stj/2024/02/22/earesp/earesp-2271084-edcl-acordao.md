@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, não conhecer dos embargos de declaração e determinar a imediata baixa os autos à origem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Messod Azulay Neto e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Joel Ilan Paciornik e Daniela Teixeira.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. INTEMPESTIVIDADE. ART. 39 DA LEI N. 8.038/1990 e ART. 258 do RISTJ. RECURSOS SUCESSIVOS E PROTELATÓRIOS. IMEDIATA BAIXA DOS AUTOS. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Desde a prolação do acórdão de fls. 1.670-1.672, em relação à Petição n. 627282/2023 (fls. 1.661-1.665), foi destacado que o agravo regimental interposto contra decisão de fls. 1.652-1.654 era intempestivo, ou seja, a partir de então, não se deve conhecer de nenhum dos recursos, uma vez que padecem do mesmo vício de intempestividade.
+2. A defesa opôs embargos de declaração contra acórdão que não conheceu do agravo regimental, os quais foram rejeitados (fls. 1.701-1.705), sendo mantido o entendimento de intempestividade do recurso. Assim, os presentes embargos de declaração configuram-se como irresignação natimorta, pois infectada pela mesma e inarredável mácula que ceifou anterior gestação recursal, a extemporaneidade.
+3. No caso, trata-se de manifesto abuso do direito de recorrer, visto que a defesa insiste, por meio de sucessivos recursos, protelar a prestação jurisdicional desta Corte Superior. Embora não haja previsão legal para fixação de multa por litigância de má-fé em matéria penal, a jurisprudência desta Casa preconiza a imediata baixa dos autos que padeçam de tal desvio de atuação defensiva.
+4. Nesse sentido, "Conforme orientação pacífica do Superior Tribunal de Justiça, "A interposição de sucessivos recursos com os mesmos argumentos configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Precedentes" (EDcl nos EDcl no AgRg nos EAREsp n. 1.472.082/CE, relator Ministro Sebastião Reis Júnior, 3ª S., DJe de 1º/9/2020).
+5. Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos a acórdão assim ementado (fl. 1.701):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. MERA REDISCUSSÃO. INTERPOSIÇÃO ANTERIOR INTEMPESTIVA DE AGRAVO REGIMENTAL .
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão (art. 619 do CPP), hipóteses que não se fazem presentes.
+2. Em feitos que tratam de matéria penal ou processual penal, nos tribunais superiores, têm aplicação a Lei n. 8.038/1990 e o art. 798 do Código de Processo Penal, que estabelecem o prazo de 5 dias corridos para a interposição do agravo interno. Precedentes.
+3. Não há falar em vício no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que o agravo regimental de fls. 1.661-1.664 foi interposto em 26/6/2023, ou seja, fora do prazo recursal de 5 dias corridos.
+4. Embargos de declaração rejeitados.
+Sustenta a defesa que o acordão embargado padece de contradição, argumentando que "em nenhum momento o recorrente procurou fazer incluir em decisão judicial prazo de 15 (quinze) dias, mas a necessidade de observância de 10 (dez) dias quando da inclusão em portal eletrônico", e "que o fundamento baseado em citação de jurisprudência, de fato, não reproduz totalmente a regra a ser aplicada, mas a parcialidade da norma" (fl. 1.710).
+Requer o acolhimento dos embargos de declaração, a fim de seja sanado o vício apontado.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. INTEMPESTIVIDADE. ART. 39 DA LEI N. 8.038/1990 e ART. 258 do RISTJ. RECURSOS SUCESSIVOS E PROTELATÓRIOS. IMEDIATA BAIXA DOS AUTOS. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Desde a prolação do acórdão de fls. 1.670-1.672, em relação à Petição n. 627282/2023 (fls. 1.661-1.665), foi destacado que o agravo regimental interposto contra decisão de fls. 1.652-1.654 era intempestivo, ou seja, a partir de então, não se deve conhecer de nenhum dos recursos, uma vez que padecem do mesmo vício de intempestividade.
+2. A defesa opôs embargos de declaração contra acórdão que não conheceu do agravo regimental, os quais foram rejeitados (fls. 1.701-1.705), sendo mantido o entendimento de intempestividade do recurso. Assim, os presentes embargos de declaração configuram-se como irresignação natimorta, pois infectada pela mesma e inarredável mácula que ceifou anterior gestação recursal, a extemporaneidade.
+3. No caso, trata-se de manifesto abuso do direito de recorrer, visto que a defesa insiste, por meio de sucessivos recursos, protelar a prestação jurisdicional desta Corte Superior. Embora não haja previsão legal para fixação de multa por litigância de má-fé em matéria penal, a jurisprudência desta Casa preconiza a imediata baixa dos autos que padeçam de tal desvio de atuação defensiva.
+4. Nesse sentido, "Conforme orientação pacífica do Superior Tribunal de Justiça, "A interposição de sucessivos recursos com os mesmos argumentos configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Precedentes" (EDcl nos EDcl no AgRg nos EAREsp n. 1.472.082/CE, relator Ministro Sebastião Reis Júnior, 3ª S., DJe de 1º/9/2020).
+5. Embargos de declaração não conhecidos.
+VOTO
+Consoante disposto na decisão embargada, o prazo para a interposição do agravo regimental, em matéria penal, é de 5 dias corridos, nos termos do art. 39 da Lei n. 8.038/1990 e do art. 258 do RISTJ:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRAZO EM DOBRO E INTIMAÇÃO PESSOAL. PRERROGATIVA EXCLUSIVA DA DEFENSORIA PÚBLICA. EXTENSÃO AO ADVOGADO CONSTITUÍDO. IMPOSSIBILIDADE. INTEMPESTIVIDADE DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A prerrogativa de intimação pessoal e da contagem dos prazos processuais em dobro é exclusiva da Defensoria Pública, nos termos do art. 5º, § 5º, da Lei n. 1.060/1950, não se estendendo ao advogado constituído que assume o patrocínio da causa.
+2. A intimação da parte representada por advogado particular é feita por publicação no Diário Oficial (art. 370, § 1º, do CPP) e o prazo para a interposição do agravo regimental, em matéria penal, é de 5 dias corridos, nos termos do art. 39 da Lei n. 8.038/1990, e do art. 258 do RISTJ.
+3. Agravo regimental não conhecido.(AgRg no HC 677.137/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/10/2021, DJe 04/11/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE. ART. 39 DA LEI N. 8.038/1990. SUPERVENIÊNCIA DA LEI N. 13.105/2015. MANUTENÇÃO DO PRAZO DE 5 DIAS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em processo penal, é de 5 dias, de acordo com os arts. 39 da Lei n. 8.038/1990 e 258 do RISTJ.
+2. Mesmo após a entrada em vigor da Lei n. 13.105/2015, o prazo para a interposição de agravo regimental continuou sendo regido pela Lei n. 8.038/1990.
+3. Agravo regimental não conhecido.(AgRg no HC 684.703/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/09/2021, DJe 21/09/2021)
+Desde a prolação do acórdão de fls. 1.670-1.672, em relação à Petição n. 627282/2023 (fls. 1.661-1.665), foi destacado que o agravo regimental interposto contra decisão de fls. 1.652-1.654 era intempestivo, ou seja, a partir de então, não se deve conhecer de nenhum dos recursos, uma vez que padecem do mesmo vício de intempestividade.
+Ademais, foi certificado, pela Coordenadoria de Processamento de Feitos de Direito Penal, que " o  prazo para interposição de agravo regimental em relação à decisão de folha 1652 teve início em 16/06/2023 e término em 20/06/2023, e que a petição n. 627282/2023 (AgRg) foi protocolizada em 26/06/2023" (fl. 1.666).
+Ato contínuo, a defesa opôs embargos de declaração contra o acórdão que não conheceu do agravo regimental, os quais foram rejeitados (fls. 1.701-1.705), sendo mantido o entendimento de intempestividade do recurso. Assim, os presentes embargos de declaração configuram-se como irresignação natimorta, pois infectada pela mesma e inarredável mácula que ceifou anterior gestação recursal, a extemporaneidade.
+Aliás, estamos diante de manifesto abuso do direito de recorrer, visto que a defesa insiste, por meio de sucessivos recursos, protelar a prestação jurisdicional desta Corte Superior. Embora não haja previsão legal para fixação de multa por litigância de má-fé em matéria penal, a jurisprudência desta Casa preconiza a imediata baixa dos autos que padeçam de tal desvio de atuação defensiva.
+"Conforme orientação pacífica do Superior Tribunal de Justiça, " a  interposição de sucessivos recursos com os mesmos argumentos configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Precedentes" (EDcl nos EDcl no AgRg nos EAREsp n. 1.472.082/CE, relator Ministro Sebastião Reis Júnior, 3ª S., DJe de 1º /9/2020).
+Ante o exposto, não conheço dos embargos de declaração.
+Determino a certificação do trânsito em julgado e a imediata baixa dos autos à origem.
+É o voto.
