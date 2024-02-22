@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Rubimed - Comércio de Medicamentos Ltda. à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 5.717):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. ERRO MATERIAL. CARACTERIZAÇÃO. CORREÇÃO DE OFÍCIO. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alega a embargante a existência de vícios na decisão embargada.
+Para tanto, sustenta "presente omissão e equívoco na aplicação da Súmula nº 7, do STJ, haja vista que, conforme a própria jurisprudência pacificada desta Corte Superior, é impossível a aplicação do conceito de erro material para casos além do simples erro de cálculo, já que a questão em presente apreço diz respeito à revaloração de quais lançamentos do nhoc seriam considerados indevidos, alterando a coisa julgada sobre matéria já atingida pela preclusão" (e-STJ, fl. 5.728).
+A impugnação não foi apresentada, conforme certidão de fl. 5.735 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/4/2020, DJe 4/5/2020)
+Dito isso, não merece acolhimento o apontado vício na decisão embargada.
+Isso porque, conforme consignado na decisão de fls. 5.717-5.722 (e-STJ), o Tribunal de origem no julgamento do agravo de instrumento interposto pela casa bancária decidiu pelo parcial provimento ao constatar, na hipótese, que tratava-se de evidente erro materia l, portanto passível de correção a qualquer tempo, além de não haver que falar em ofensa à coisa julgada, uma vez que a metodologia adotada infringiu o comando sentencial transitado em julgado, o qual determinou a repetição dos lançamentos que se caracterizam como o denominado esquema "NHOC", ou seja, os efetuados sob mencionada rubrica (Código 62) seguidos da numeração "000".
+Desse modo, ao analisar a questão aduzida no recurso especial, decidiu-se por aplicar, em relação ao tema o entendimento jurisprudencial ao caso em estudo, além do óbice sumular de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
