@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por LEONARDO ROBERTO MENDES DE OLIVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem originária e manteve a prisão cautelar do recorrente pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/06.
+O julgado está assim ementado:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. REVOGAÇÃO DA PRISÃO CAUTELAR. IMPOSSIBILIDADE NO CASO CONCRETO. ARTIGO 312 DO CPP. GARANTIA DA ORDEM PÚBLICA. FALTA DE FUNDAMENTAÇÃO DO DECRETO PREVENTIVO. INOCORRÊNCIA. PACIENTE QUE POSSUI MAUS ANTECEDENTES. CIRCUNSTÂNCIAS FÁTICAS. PRISÃO PREVENTIVA FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+-O pedido de concessão da liberdade provisória no delito de tráfico de drogas deve ser analisado à luz do caso concreto, verificando-se o preenchimento dos requisitos previstos no artigo 312 do Código de Processo Penal.
+-Estando devidamente fundamentada a decisão que determinou a prisão preventiva e estando demonstrada a necessidade de garantia da ordem pública, mormente pelas circunstâncias fáticas que envolveram o delito e pelo fato de o paciente ser reincidente, a segregação cautelar se impõe.
+-Denegado o habeas corpus.
+V.V.
+Nesta Corte, a defesa alega ausência de motivação concreta para a prisão cautelar.
+Afirma que o réu "não tentou fuga ou obstruir a investigação, possui requisitos subjetivos favoráveis ao que ora se pleiteia (residência fixa, emprego lícito, carteira de trabalho com diversos empregos desde sua adolescência; então, refrisar é importante, muito embora conste nas cópias de auto de prisão em flagrante a narrar suposta apreensão não se extrai a necessidade da permanência da custódia sob as alegações de garantia a ordem pública."
+Requer a substituição da prisão preventiva por outras medidas cautelares.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+A Corte estadual denegou a ordem originária nos seguintes termos:
+Ressalto que a abordagem e localização do entorpecente não sedeu ao acaso, mas sim após denúncias de que o acusado estava traficando entorpecentes, e a droga foi encontrada dentro da bolsa que estava em sua posse. Ressalto também que a droga estava acondicionada em 38 porções, com peso total de 60,10 gramas (ID 10144994269), fato que, em análise inicial, não é compatível com conduta de usuários.
+Assim, presentes estão os motivos ensejadores da custódia preventiva, com a necessidade da permanência do denunciado cárcere, como garantia da ordem pública, nos termos do Art. 312, do CPP.".
+Além disso, pela CAC colacionada ao documento eletrônico de ordem 18, verifica-se que Leonardo possui recente condenação definitiva pelo delito de porte de arma de fogo de uso restrito e se encontrava em cumprimento de pena (Ação Penal nº 0175697-18.2017.8.13.0223),o que demonstra concretamente a possibilidade de reiteração criminosa e sua periculosidade em concreto, ao contrário do que asseverou o impetrante.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a constrição cautelar está motivada na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente. Segundo consta, o recorrente estava em cumprimento de pena pelo delito de porte de arma de fogo de uso restrito e voltou a ser preso na posse de 38 porções de cocaína, para fins de tráfico de drogas.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Por fim, anote-se que é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do recorrente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
