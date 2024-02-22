@@ -1,0 +1,9 @@
+DECISÃO
+APARECIDO DE ARAÚJO alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargador do Tribunal a quo no Habeas Corpus n. 2015495-16.2024.8.26.0000, em que foi mantida a decisão que indeferiu o pleito de progressão de regime, bem como determinou a prévia realização de exame criminológico.
+O Juízo singular apontou que, " p ara melhor apreciar o pedido ajuizado converto o julgamento em diligência para que sejam trazidos aos autos elementos atinentes à personalidade do agente, uma vez que ostenta condenação por crime praticado em condições reveladoras de agressividade, o que exige do Estado-juiz maior rigor na verificação da presença do requisito de ordem subjetiva para concessão da benesse reclamada" (fl. 20).
+A esse respeito, esta Corte Superior possui o entendimento de que " a  gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal" (HC n. 429.176/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 14/3/2018, grifei).
+Na hipótese, o Juízo de primeira instância entendeu devida a postergação da análise do benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, porquanto o sentenciado cometeu crimes graves, o que, sem maiores detalhamentos, não justifica a negativa da benesse ou a determinação da produção da prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de afastar a exigência de realização de exame criminológico e determinar que sejam analisados estritamente os requisitos legais para concessão da pretendida benesse.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
