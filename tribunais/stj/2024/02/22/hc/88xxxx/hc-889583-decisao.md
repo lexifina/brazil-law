@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VICTOR HUGO GIROLDI DE FREITAS e FRANCISCO BALBINO DOS SANTOS contra decisão indeferitória de provimento urgente proferida pelo Desembargador Relator do HC n. 1.0000.24.102789-5/000, em trâmite no Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que os Pacientes foram presos em flagrante em 09/02/2024 pela prática, em tese, do crime de furto qualificado. A prisão em flagrante foi convertida em prisão preventiva.
+Impetrado prévio writ perante o Tribunal a quo, o pedido liminar foi indeferido pelo Desembargador Relator do feito (fls. 12/13).
+Neste mandamus, a Defesa sustenta a ilegalidade da prisão preventiva diante do suposto excesso de prazo para a realização da audiência de custódia, pois designada para o dia 15/02/2024. Afirma que os Pacientes ostentam condições pessoais favoráveis bem como defende a desproporcionalidade da medida extrema.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça. A título exemplificativo: AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020.
+Assim, em regra, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade, por forçar o pronunciamento adiantado da Instância Superior, suprimir a competência da Inferior e subverter a regular ordem do processo.
+No caso, não se evidencia a existência de situação absolutamente teratológica que autorize a mitigação do mencionado óbice processual, pois o Desembargador Relator da impetração originária, além de destacar que "não se constata deficiência de fundamentação manifesta na decisão que converteu a prisão em flagrante em preventiva" (fl. 13), deixou assente que, "não obstante as alegações defensivas, é bem verdade que o alegado excesso de prazo é preocupante, contudo, em sede de cognição sumária, a cautela recomenda a oitiva da autoridade apontada coatora" (fl. 13; grifei), e determinou a requisição de informações ao Juízo de primeira instância, o que não se mostra desarrazoado na espécie, diante da tese de excesso de prazo formulada.
+A propósito:
+" ..
+1. " Não é teratológica a decisão do Desembargador-Relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado n. 691 da Súmula do STF" (AgRg nos EDcl no HC 569.733/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 12/5/2020, DJe de 25/5/2020).
+ ..
+5. Agravo regimental improvido." ( AgRg no HC n. 779.086/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022; sem grifos no original.)
+Ademais, o transcurso do tempo não é argumento suficiente para afirmar a ocorrência do excesso de prazo, sendo imprescindível examinar detidamente todas as circunstâncias da tramitação processual, o que certamente será realizado pelo Tribunal de origem após a apresentação das informações requisitadas à Autoridade Coatora.
+Considerada toda essa conjuntura, não havendo notícia de que o Tribunal de Justiça do Estado de Minas Gerais tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
