@@ -1,0 +1,11 @@
+DECISÃO
+Em análise, petição nº 00544803/2022 (e-STJ, fls. 396-398), por meio da qual SUPERMERCADO PORTAL EIRELI requer o sobrestamento do feito, em virtude da afetação do REsp 1.958.265/SP e do REsp 1.896.678/RS, nos quais foi submetida a julgamento a seguinte questão controversa: Possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído.
+A tese do repetitivo foi fixada em julgamento ocorrido no dia 13/12/2023, em acórdão que aguarda publicação.
+É o relatório.
+Nada a deferir. Conforme já esclarecido no acórdão em que foram julgados os embargos de declaração opostos pela parte: "A Segunda Turma não conheceu do recurso por erro grosseiro na interposição de agravo interno contra decisão colegiada".
+Dessa forma, e considerando que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que "não deve ser acolhido o pedido de sobrestamento do feito para aguardar a solução da questão de mérito submetida à sistemática dos recursos repetitivos quando o recurso nem sequer ultrapassa o juízo de admissibilidade" (AgInt no AREsp n. 2.293.084/MA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 28/11/2023, DJe de 23/1/2024.), não merece acolhimento o pleito da parte requerente, cujo recurso especial interposto não ultrapassou sua barreira cognoscível.
+Citem-se ainda, na mesma esteira: AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022; AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022; AgInt no AREsp n. 1.713.349/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022; EDcl no AgInt no AREsp n. 1.943.392/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022; AgInt no AREsp n. 1.692.058/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2020, DJe de 16/11/2020.
+Isso posto, indefiro o pedido.
+Certifique-se o trânsito em julgado do acórdão de fls. 392-394e.
+Após as anotações de praxe, encaminhem-se os autos à origem.
+EMENTA
