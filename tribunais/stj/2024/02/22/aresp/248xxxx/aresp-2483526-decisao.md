@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO FORLUMINAS DE SEGURIDADE SOCIAL (FORLUZ) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois a FORLUZ não infirmou seus esteios, na medida em que não refutou de forma arrazoada o óbice pela incidência da Súmula n.º 283 do STF, ao caso.
+Em suma, a FORLUZ limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Na espécie, a FORLUZ deveria ter demonstrado a impugnação específica aos fundamentos do acórdão recorrido (Súmula n.º 283 do STF), citando trechos de seu apelo nobre, o que não ocorreu.
+Ressalte-se que, ao contrário do que a FORLUZ quer fazer crer, a decisão que não admitiu o seu apelo nobre foi clara ao obstar a subida de seu recurso por força do óbice da Súmula n.º 283 do STF, apresentando os seguintes argumentos, que, ao fim e ao cabo, não foram por ela infirmados:
+ ..  Afigura-se razoavelmente plausível a tese autoral de que fora violada a boa-fé objetiva que regem os contratos.
+Isso porque, não obstante a previsão estatutária acerca da possibilidade de inclusão de dependentes é certo que a requerida não apresentou documentos que nos permitisse aferir que fora dada ao autor o exercício dessa faculdade.
+Na verdade, da simples leitura do requerimento de inscrição de fI. 102-formulário padrão -, é possível constatar que não há campo específico para a inclusão de dependentes, tampouco foi destacado campo específico que dispusesse sobre o desinteresse em fazê-lo.
+Logo, imperiosa a reforma da sentença para julgar procedente a pretensão inicial (e-STJ, fl. 633 - sem destaques no original).
+Desse modo, da leitura atenta das razões do presente agravo (e-STJ, fls. 638/653), verifica-se que a FORLUZ deixou de demonstrar que teria infirmado, de forma efetiva, aqueles argumentos, especialmente quanto ao esperado dever de informação.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Destaca-se ainda que não padece de nulidade a decisão agravada porque lá foram expostas as razões de convencimento da Terceira Vice-Presidente do TJMG, o que possibilitou a FORLUZ, aqui agravante, inclusive, rebater os seus argumentos (e-STJ, fls. 632/635). Além disso, ressalte-se que decisão sucinta não se confunde com decisum sem fundamento.
+Frise-se que a jurisprudência desta Corte é pacífica quanto à possibilidade de o Tribunal de origem adentrar o mérito do recurso especial, pois o exame de admissibilidade pela alínea "a" do permissivo constitucional envolve o próprio mérito da controvérsia (AgRg no AREsp nº 497.819/MG, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 26/5/2014).
+Nesse sentido, aliás, é o Enunciado n.º 123 da Súmula do STJ: A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais.
+Nessas condições, nos termos do art. 932, III, do CPC, NÃO CONHEÇO do agravo.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de RAIMUNDA SOLIDADE GONÇALVES DE MELO, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO CPC. EXAME DE ADMISSIBILIDADE. MÉRITO. SÚMULA N.º 123 DO STJ. AGRAVO NÃO CONHECIDO.
