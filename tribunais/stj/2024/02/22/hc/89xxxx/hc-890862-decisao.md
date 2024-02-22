@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de WASHINGTON PHILIPE ALVES DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (Autos nº 1003361-25.2023.8.11.0000).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 1081):
+HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - PRISÃO PREVENTIVA - PEDIDO DE REVOGAÇÃO DA CUSTÓDIA - GARANTIA DA ORDEM PÚBLICA - VÍNCULO ASSOCIATIVO - ENVOLVIMENTO DA FACÇÃO DO "COMANDO VERMELHO" - COMERCIALIZAÇÃO DIFUSA - FUNÇÃO DE "LOJISTA" - SEGREGAÇÃO AUTORIZADA - ENTENDIMENTO DO STJ - PREDICADOS PESSOAIS - REVOGAÇÃO NÃO AUTORIZADA - ENUNCIADO CRIMINAL DO TJMT - PENAS COMINADAS AOS DELITOS - REGIME INICIAL - PRINCÍPIO DA HOMOGENEIDADE INAPLICÁVEL - POSIÇÃO JURISPRUDENCIAL DO STJ E ARESTO DO TJMT - MEDIDAS CAUTELARES ALTERNATIVAS - INSUFICIÊNCIA - ASSOCIAÇÃO PARA O TRÁFICO - PREMISSA DO STJ -DENEGADA.
+A defesa alega, em síntese, ausência de justa causa e dos requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter o trancamento da ação penal ou a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 1082):
+A suposta formação do vínculo associativo com envolvimento da facção do "Comando Vermelho", cujo grupo criminoso possui atuação intensa neste Estado  Mato Grosso , especialmente no tráfico ilícito de drogas, e a função de "lojista"  responsável por um ponto de venda de drogas , autoriza a custódia cautelar para garantia da ordem pública, consoante entendimento do c. STJ (RHC 108923/SC; HC 655508/RS).
+Os predicados pessoais não ensejam, em si, a revogação da custódia preventiva ou mesmo a outorga de liberdade processual (TJMT, Enunciado Criminal 43), sobretudo se há registro de que na residência do paciente funcionava um ponto permanente de comercialização de drogas. "Não há ofensa ao princípio da homogeneidade quando não é possível inferir dos autos, com segurança, que a paciente, se condenada, iniciará o cumprimento da pena em regime diverso do fechado." (TJMT, HC N.
+U 1013512-84.2022.8.11.0000)As medidas cautelares alternativas se mostram insuficientes para preservar a ordem pública e repreender o tráfico de drogas diante do aparente envolvimento do paciente em associação para o tráfico, por denotar "envolvimento habitual  ..  com a narcotraficância"(STJ, AgRg no RHC n. 165.350/DF).
+De fato, é indene de controvérsia neste STJ o fato de que "(..) A presença de condições pessoais favoráveis, como primariedade, emprego lícito e residência fixa, não impede a decretação da prisão preventiva quando devidamente fundamentada. (..)" (AgRg no RHC 175391 / RS, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 12/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 18/12/2023)
+Ademais, certo é que "A teor da jurisprudência desta Corte, os prazos para a finalização do inquérito são impróprios e devem ser sopesados conforme a complexidade dos fatos e as demais circunstâncias que explicariam a dilatação das investigações. (HC 867166 / SC, RELATOR Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DATA DO JULGAMENTO 06/02/2024, DATA DA PUBLICAÇÃO/FONTE DJe 19/02/2024)
+No presente feito, em se tratando de procedimento criminal que se debruça sobre organização criminal complexa, não há de se falar na ilicitude do decreto de prisão preventiva fundada na gravidade concreta dos fatos e na necessidade de se resguarda a ordem pública através da interrupção das atividades delitivas.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
