@@ -1,0 +1,20 @@
+DECISÃO
+GISLAINE APARECIDA DE SOUZA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia no Habeas Corpus n. 0814094-28.2023.8.22.0000 .
+Nas razões deste writ, a defesa postula a revogação da prisão preventiva decretada em desfavor da paciente em virtude, em seu entender, da nulidade da busca pessoal.
+Decido.
+Segundo o disposto no art. 244 do Código de Processo Penal, "A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+Na hipótese em julgamento, o policial militar responsável pela diligência assim descreveu a dinâmica (fls. 153-154):
+Extrai-se dos autos que a Polícia Militar estava em patrulhamento pela Rua Presidente Castelo Branco, bairro Nova União 3, quando avistou duas mulheres em uma motoneta Honda Biz, cor vermelha, as quais, ao perceberem a presença da viatura policial, pararamem uma residência bruscamente e começaram a disfarçar,mexendo no cabelo. A guarnição procedeu à abordagem, ocasião em que foram solicitados a CNH e o documento de identificação, mas as abordadas responderam que estavam sem documentos.
+APM questionou de quem seria a motoneta, oportunidade em que GISLAINE disse que era dela e que estaria registrada em seu nome, mas, em consulta realizada pelos policiais, constatou-se que o veículo estava registrado no nome de outra pessoa.
+Na sequência, como as denunciadas estavam sem documentos, foram feitas buscas das informações via grupo de WhatsAppde policiais militares, de forma que obtiveram informações acerca de uma denúncia de que mãe e filha estariam utilizando uma motoneta de cor vermelha com iniciais da placa NCZ para fazer entrega de substâncias entorpecentes na cidade, via delivery e com recebimento via pix.
+A guarnição verificou que a placa da motoneta era semelhante à informada na denúncia, no grupo, razão pela qual solicitaram apoio da Policial Feminina AL SGT PM CAROLINE para que procedesse à revista pessoal. Ocorre que, quando a denunciada GISLAINE desembarcava da viatura, o SGT PM BRITO visualizou quando GISLAINEjogou 01 (um) involucro de substância entorpecente do tipo maconha, logo em seguida, ela tirou de suas vestes mais 02 (dois) invólucros de maconha.
+Durante a revista pessoal foi localizado nas partes íntimas da conduzida GISLAINE mais 01 (um) invólucro de maconha e 01 (um) celular.
+No decorrer das diligências, as denunciadasGISLAINE e RAISSA informaram que residiam na Rua Florianópolis, nº 2275, apartamento 03, endereço no qual foram localizados 06 (seis) invólucros de droga à base de maconha, dentro de uma bolsa feminina, e 01 (uma) munição de arma de fogo, calibre 22, no guarda-roupa.
+Após realizarem as diligências, os policiais militares verificaram que a denunciadaGISLAINE não residia naquele local, mas sim sua filha RAÍSSA com seu esposo, sendo que GISLAINE morava na Alameda Florianópolis, nº2450, Setor 03.
+Assim, a guarnição se deslocou até o referido endereço e, no local, encontrava-se o conduzido CARLOS ALEXANDRE. Na busca domiciliar, os policiais militares encontraram mais 1 (um) tablete de maconha pesando aproximadamente 85g (oitenta e cinco gramas), papel filme e várias embalagens idênticas às dos invólucros de maconha localizados com a conduzida GISLAINE.
+Diante dos fatos foi dada voz de prisão aos denunciadose eles foram conduzidos até a UNISP para as providências cabíveis.
+Depreende-se dos autos que não há flagrante ilegalidade na abordagem realizada, tendo em vista que, de acordo com a inicial acusatória, a acusada conduzia uma motocicleta sem possuir documento de habilitação e, antes de realizar a revista pessoal, o policial haveria visualizado a acusada dispensar um invólucro com substâncias entorpecentes.
+Portanto, uma vez que a ação penal está lastreada em elementos mínimos que indicam o estado flagrancial, não há, por ora, ilegalidade a ser sanada.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
