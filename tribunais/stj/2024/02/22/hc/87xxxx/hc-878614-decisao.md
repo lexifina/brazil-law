@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de FABIO DE MELO, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no Agravo de Execução Penal n.º 8000779-43.2023.8.24.0008.
+Consta dos autos que o Juízo da Execução Penal indeferiu o pedido de remição pelo estudo referente à aprovação do Apenado em todas as áreas do conhecimento no Exame Nacional do Ensino Médio - ENEM/2019 (fls. 17-19).
+Irresignado, o Reeducando interpôs agravo em execução, o qual foi desprovido pelo Tribunal estadual nos termos da seguinte ementa (fl. 54):
+"RECURSO DE AGRAVO DE EXECUÇÃO PENAL. DECISÃO QUE INDEFERE REMIÇÃO. RECURSO DO APENADO.
+APROVAÇÃO NO ENEM. APROVAÇÃO ANTERIOR NO ENCCEJA. CONCLUSÃO DO ENSINO MÉDIO. DUPLA BONIFICAÇÃO. INCOMPATIBILIDADE. RESSALVA DE ENTENDIMENTO.
+Ressalvado o entendimento pessoal do relator, não é viável a concessão de remição pela aprovação no ENEM após o apenado ter sido agraciado com remição pela conclusão do ensino médio por meio de aprovação no ENCCEJA.
+RECURSO CONHECIDO E DESPROVIDO."
+Daí a presente impetração, em que se alega que a aprovação no ENEM autoriza a remição de pena pelo estudo, ainda que o Apenado já tenha concluído o ensino médio ao longo do resgate da pena. Requer-se seja concedida a remição de 100 (cem) dias da reprimenda.
+O Ministério Público Federal opinou pela concessão da ordem de habeas corpus (fls. 66-70).
+É o relatório. Decido.
+O Juízo da Execução Penal decidiu nos seguintes termos (fl. 24):
+"3. Da remição pelo ENEM Considerando que já foram concedidos em favor do apenado dias de remição referentes a aprovação no ensino médio (Seq. 10.1), indefiro o pedido de remição pelo ENEM (Seq. 197.1), sob pena de beneficiar duplamente o apenado."
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento dos ERESP n. 1.979.591/SP, deu provimento aos embargos de divergência e fez prevalecer a tese dominante na Quinta Turma desta Corte Superior, que orienta no sentido de que é possível a concessão da remição pela aprovação do Exame Nacional do Ensino Médico - ENEM mesmo após a conclusão do ensino médio pelo Apenado.
+Confira-se, por oportuno, a ementa do referido julgado:
+"EXECUÇÃO PENAL. EMBARGOS DE DIVERGÊNCIA. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA é a avaliação de âmbito nacional própria para a certificação do aproveitamento do conteúdo programático do ensino médio e do ensino fundamental àqueles que atingiram a idade de quinze anos (para o nível fundamental) ou dezoito anos (para o nível médio). Diferentemente do ENEM, o ENCCEJA não se presta, por si só, ao ingresso no ensino superior.
+2. No caso dos autos, minha posição externada no julgamento do HC n. º 786.844, foi no sentido de que o paciente não faria jus à remição pelo estudo individual, uma vez que, conforme ressaltado pelo agravante, ao iniciar o cumprimento da pena, o agravado já havia concluído o ensino médio. Naquela oportunidade, o fundamento adotado era o de que a finalidade da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento da pessoa presa, mas, facilitar a sua reintegração social por meio do aprendizado de novos conhecimentos.
+3. Contudo, no julgamento do precitado HC n.º 786.844, realizado em agosto desta ano de 2023, restou consignado pela Quinta Turma deste STJ, por maioria de votos, a possibilidade de remição da pena na hipótese em exame, ou seja, mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena, como é o caso dos autos.
+4. Em sendo assim, submeto os presentes embargos de divergência a esta Terceira Seção, para que se defina a posição deste colegiado em relação ao tema e se estabilize a jurisprudência desta Corte, de forma a se atender ao dever cooperativo de coerência enunciado pelo art. 926 do CPC.
+Embargos de divergência providos." (EREsp n. 1.979.591/SP, Relator Ministro MESSOD AZULAY NETO, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023, sem grifos no original.)
+No mesmo sentido, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. APROVAÇÃO ENEM. CONCLUSÃO DO ENSINO MÉDIO ANTES DO ENCARCERAMENTO. ACRÉSCIMO DE 1/3 AFASTADO.
+1. "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal.
+2. Agravo regimental a que se nega provimento." (AgRg no HC n. 768.530/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023, sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. APROVAÇÃO NO ENEM. CONCLUSÃO DO ENSINO MÉDIO ANTES DO ENCARCERAMENTO. REMIÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal. (AgRg no HC n. 768.530/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp n. 2.068.318/DF, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 19/10/2023, DJe de 27/10/2023, sem grifos no original.)
+Por oportuno, destaco o seguinte trecho da manifestação do Parquet federal (fl. 69):
+"Assim, adiro ao posicionamento da 3ª Seção do STJ, tendo em vista a necessidade de fomentar o estudo como forma de ressocialização do apenado e que o ENCCEJA e o ENEM são exames distintos."
+Ante o exposto, CONCEDO PARCIALMENTE a ordem de habeas corpus para, afastado o fundamento de bis in idem, determinar ao Juízo da Execução Penal que proceda à reanálise da remição da pena pelo estudo em razão da alegada aprovação do Paciente no Exame Nacional do Ensino Médio - ENEM/2019.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA PELO ESTUDO. APROVAÇÃO NO EXAME NACIONAL DE ENSINO MÉDIO - ENEM. REEDUCANDO QUE JÁ HAVIA OBTIDO REMIÇÃO PELA APROVAÇÃO NO ENCCEJA E CONSEQUENTE CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE. PRECEDENTES. ORDEM PARCIALMENTE CONCEDIDA .
