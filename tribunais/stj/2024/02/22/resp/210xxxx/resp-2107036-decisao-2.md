@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por Associação dos Produtores e Importadores de Lubrificantes - SIMEPETRO, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 210):
+Apelação Juízo de "retratação" do art. 1030 do NCPC(Recurso Extraordinário) Nova conclusão ao Relator por ordem do DD. Presidente da Seção de Direito Público Aceitação da conclusão, com alteração do julgado Com o julgamento pelo C. Supremo Tribunal Federal, do RE714.139/SC Tema 745 do C.
+STF, foi fixada a seguinte tese: "Adotada pelo legislador estadual a técnica da seletividade em relação ao Imposto sobre Circulação de Mercadorias e Serviços (ICMS), discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços" Readequação do julgado, tendo em vista o decidido E. Supremo Tribunal Federal Recurso de apelação parcialmente provido, reconhecendo o direito da parte autora ao recolhimento do ICMS incidente sobre os serviços de telecomunicação e fornecimento de energia elétrica com base na alíquota geral (18%), com a condenação da requerida à restituição do valor pago indevidamente Acórdão alterado.
+Os embargos declaratórios opostos foram rejeitados (fls. 274/278; fls. 363/367).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 489. IV, §1º, do CPC.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Constata-se que, na data de hoje, proferi decisão em que determinei o retorno dos autos à instância ordinária, a fim de que seja realizado novo julgamento dos embargos de declaração (fls.363/367), em razão da nulidade do acórdão recorrido por violação ao art. 1.022 do CPC. Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do agravo em recurso especial no presente momento processual.
+Publique-se.
+EMENTA
