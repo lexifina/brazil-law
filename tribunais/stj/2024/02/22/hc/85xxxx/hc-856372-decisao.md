@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado de próprio punho por IGOR HENRIQUE HENCKLEIN, em observância ao Acordo de Cooperação Técnica STJ n. 2/2020.
+Requer, em suma, a concessão da ordem, a fim de que sejam retificados os cálculos de penas, devido às modificações trazidas pela Lei n. 13.964/2019.
+Prestadas as informações (e-STJ, fls. 45-148), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do writ (e-STJ, fls. 150-151).
+É o relatório.
+Decido.
+Da leitura das informações prestadas pelas instâncias de origem, verifico que a análise deste habeas corpus se encontra obstada, sob pena de afronta ao princípio do duplo grau de jurisdição e de incabível supressão de instância, porquanto não houve análise prévia da ilegalidade ora apontada.
+Nesse sentido, este Superior Tribunal de Justiça já decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC n. 376.650/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 14/2/2017, DJe de 22/2/2017).
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA OS BENEFÍCIOS DA EXECUÇÃO. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM SUPRESSÃO DE INSTÂNCIA. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA.
+1. De acordo com o entendimento deste Tribunal Superior, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020). Precedentes.
+2. Nesse contexto, "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+3. Conforme asseverado na decisão monocrática ora combatida, as questões relativas à data-base para os benefícios da execução nem sequer foram apreciadas na instância a quo, de modo que fica obstado o exame das matérias diretamente por esta Corte Superior, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+4. Em vez de rebater os fundamentos que impediram o conhecimento da impetração, o recorrente se limita a insistir nas mesmas teses apresentadas na inicial do writ.
+5. Agravo regimental não conhecido." (AgRg no HC n. 845.170/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+"EMBARGOS DE DECLARÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL CALCADA EM MATÉRIA DE FATO NÃO APRECIDADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE DOCUMENTAÇÃO. IMPOSSIBILIDADE DESTA CORTE SUPERIOR ATESTAR OS MARCOS INTERRUPTIVOS PARA RECONHECIMETNO DO PLEITO DEFENSIVO, AINDA QUE SE TRATA DE MATÉRIA DE ORDEM PÚBLICA. PRECEDENTES. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Não debatida a questão pelo Tribunal a quo, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal", ainda que se trate de matéria de ordem pública (RHC n. 126.604/MT, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 16/12/2020, grifei).
+III - Embora a prescrição seja matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição (art. 61 do Código de Processo Penal), não há nos autos documentação suficiente a atestar os marcos interruptivos para o reconhecimento da extinção da punibilidade.
+Embargos de declaração rejeitados." (EDcl no AgRg no HC n. 753.977/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRISÃO DOMICILIAR. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXPEDIÇÃO DE GUIA DE EXECUÇÃO ANTES DO CUMPRIMENTO DO MANDADO DE PRISÃO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+2. O pedido de prisão domiciliar não foi analisado pela Corte de origem, o que impede o exame do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.
+ ..
+4. Agravo regimental não provido." (AgRg no RHC n. 152.754/SP, deste relator Ministro, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021).
+Ante o exposto, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
