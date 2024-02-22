@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por TIM Celular S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 322):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA. TUTELA PROVISÓRIA DE URGÊNCIA DE NATUREZA ANTECIPADA. REQUISITOS DO ART. 300 DO CPC PRESENTES PARA MANUTENÇÃO DA ORDEM. LEGITIMIDADE MINISTÉRIO PÚBLICO. DEFESA DE INTERESSES INDIVIDUAIS HOMOGÊNEOS. RECURSO DESPROVIDO.
+- Em sendo o recurso de agravo de instrumento interposto contra decisão que aprecia pleito de tutela provisória, a instância recursal deve limitar sua cognição tão somente ao preenchimento dos requisitos legais para tanto, não sendo viável a análise de mérito, sob pena de se configurar supressão de instância;
+- Consoante o art. 300 do CPC, para que seja deferida a tutela provisória de urgência, devem estar presentes a probabilidade do direito e o perigo na demora, além do não risco de irreversibilidade da medida;
+- A jurisprudência do Superior Tribunal de Justiça adota a teoria da asserção, segundo a qual a presença das condições da ação, entre elas a legitimidade ativa, deve ser apreciada à luz da narrativa contida na petição inicial, não se confundindo com o exame do direito material objeto da ação, a ser enfrentado mediante confronto dos elementos de fato e de prova apresentados pelas partes em litígio;
+- Ademais, consoante o STJ, demonstrada a relevância social da situação em concreto, notadamente na hipótese, em que se trata de relação de consumo a interessar um número indeterminado de consumidores, atrai-se a legitimação do Ministério Ministério Público para a propositura de ação civil pública em defesa de interesses individuais homogêneos;
+- Agravo de instrumento conhecido e desprovido.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 278, 1.103, § 1º, e 1.022 do CPC, por omissão no acórdão recorrido quanto a questão relevante para o melhor deslinde da controvérsia.
+Alega ofensa aos arts. 17, 485, VI, e 1.013 do CPC, e aos arts. 19 e 173 da Lei n. 9.472/97, em razão da ausência de interesse de agir do Ministério Público em demanda própria da competência da ANATEL, devendo o feito ser extinto a partir da concessão de efeito translativo ao recurso.
+Pontua que se desrespeitou os arts. 20, II e III, do CDC, porquanto as metas de qualidade estabelecidas pela ANATEL estão sendo cumpridas e, ainda, que a tutela que se objetiva alcançar na ação civil pública já é objeto de previsão administrativa, qual seja, o ressarcimento e/ou reparação dos clientes em caso de interrupção dos serviços por determinado período.
+Sustenta ter havido negativa de vigência dos arts. 56, 57 e 1.013 do CPC por não ter sido respeitado o instituto da continência de feitos, sendo desconsiderado que já há em curso a Ação Civil Pública n. 0228221-38.2011.8.04.0001, cujo objeto é o mesmo da presente ação mas se referindo a um espaço territorial mais amplo.
+Aduz violação dos arts. 113, 114, 115, e 485, IV, do CPC, em razão da ausência de formação do litisconsórcio passivo necessário com a ANATEL e, subsidiariamente, da incompetência absoluta da Justiça Estadual ante a necessária inclusão da ANATEL no polo passivo da lide.
+Relata que não foram atendidas as previsões dos arts. 156, 300, 375 e 489 do CPC em relação à produção e à valoração das provas que instruíram o feito, especialmente o abaixo-assinado com 41 (quarenta e uma) assinaturas de pessoas que supostamente estariam enfrentando dificuldades com a rede de telefonia da empresa concessionária, pois desses somente 6 (seis) são, de fato, clientes da operadora demandada.
+Reitera a alegação de ofensa aos arts. 489 e 1.022 do CPC por não ter o acórdão recorrido apreciado seus argumentos relacionados aos arts. 884 do CC, 537 do CPC, e 128 da Lei Geral de Telecomunicações.
+Por fim, sustenta que houve violação ao art. 26 da Lei Orgânica do Ministério Público e ao art. 373 do CPC, em razão do deferimento do pleito de inversão do ônus da prova sem comprovação alguma da alegada hipossuficiência que, considerado se tratar de um órgão estadual do porte do Ministério Público, não teria mesmo como comprovar, consequentemente, não faria jus a referida inversão.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pela necessidade de diligência a respeito de questão suscitada na peça de agravo em recurso especial, qual seja, a nulidade da intimação da decisão monocrática que inadmitiu o recurso, conforme observa à fl. 899, verbis:
+Perceba-se que a decisão foi encaminhada diretamente para a TIM S/A, como se citação fosse, sem, contudo, a intimação ter sido realizada em nome do patrono exclusivo, violando, outrossim, o disposto no art. 272, § 5º, do CPC.
+Naturalmente, em função da publicação fora dos parâmetros legais, a operadora não chegou a tomar ciência da decisão a tempo de interpor os recursos cabíveis, vindo a ser certificado o trânsito em julgado, novamente em equívoco.
+(..)
+De fato, a operadora de telefonia só tomou conhecimento do ocorrido com a checagem de rotina que faz em todos os seus processos.
+Feita essa exposição, percebe-se que as intimações foram realizadas em clara violação ao que dispõe o art. 272 do CPC, tanto no seu caput, quanto nos parágrafos 2º e 5º  ..
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com razão o Parquet, o recurso de agravo merece provimento.
+Conforme depreende-se das certidões de fls. 523/526, houve intimação da parte recorrente a respeito da decisão que inadmitiu seu recurso especial, certificando o transcurso in albis do prazo recursal.
+Entretanto, não é possível extrair das informações contidas nas referidas certidões se o patrono da parte intimada estava devidamente cadastrado no sistema e se foi igualmente alcançado pela intimação eletrônica.
+Há na peça de agravo em recurso especial preliminar de nulidade da referida intimação, defendendo a tempestividade do recurso e requerendo a regularização do cadastro do patrono da empresa no sistema SAJ (fls. 540/545).
+Assim, devem os autos retornar à origem para elucidar a questão ou sanear o feito no ponto.
+ANTE O EXPOSTO, dou provimento ao agravo nos termos acima expostos .
+Publique-se.
+EMENTA
