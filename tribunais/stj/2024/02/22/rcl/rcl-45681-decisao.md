@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por ALBINELI AGRÍCOLA LTDA contra decisão exarada pelo r. Juízo da 2ª Vara Cível de Santiago/RS, nos autos da execução de título extrajudicial n.º 5000016-70.2004.8.21.0064.
+Em suas razões, a reclamante aponta violação a comando exarado por este signatário nos autos do AREsp 1.283.399/RS o qual determinou o retorno dos autos à origem para que fosse intimada a parte autora a fim dar prosseguimento ao feito. Contudo, segundo alega a exordial, o r. juízo reclamado em contrariedade à citada decisão, extinguiu o feito sem a intimação pessoal da reclamante.
+Alega, nesse contexto, que "(..) Juízo de Direito da 2ª Vara Cível de Santiago/RS, ao determinar a extinção do feito, reconhecendo a prescrição intercorrente, acabou por desrespeitar o que decidido por esse Superior Tribunal de Justiça."
+Pede, assim, o acolhimento da insurgência. (fls. 3/13)
+Prestadas as informações (fls. 466/468), o MPF ofertou parecer no sentido da procedência da reclamação. (fls. 473/475)
+É o relatório.
+Decisão.
+1. De início, registra-se que, nos termos dos artigos 105, I, "f", da Constituição Federal, 13 da Lei n. 8.038/90 e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Consoante a jurisprudência desta eg. Corte Superior, o ajuizamento da reclamação, que constitui medida correicional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada.
+A propósito, registram-se os seguintes julgados: Rcl 34880/MS, Rel. Min. Marco Aurélio Bellizze, DJe de 16/04/2018; Rcl 18538/PA, Rel. Min. Antonio Carlos Ferreira, DJe de 16/04/2018; AgRg na Rcl 25606 / RJ, Rel. Min. Moura Ribeiro, DJe de 16/11/2015; AgRg na Rcl 8581/RJ, Rel. Min. Maria Isabel Gallotti, DJe de 28/08/2012; Rcl 2861/RS, Rel. Min. Massami Uyeda, rel. p/acórdão, Min. Sidnei Beneti, DJe de 04/12/2009; AgRg na Rcl 2.425/PR, 1ª Seção, Rel. Min. Castro Meira, DJ de 27.8.2007.
+Na hipótese dos autos, verifica-se que a decisão proferida por este signatário nos autos do AREsp 1.283.399/RS, envolvendo os mesmos interessados, com fundamento em sólida jurisprudência deste STJ, trilhou compreensão segundo a qual a extinção do feito por abandono requer a intimação pessoal da parte, sendo desnecessária a intimação dos advogados, de modo que a decisão do r. juízo reclamado, acostada à fl. 25/28, a qual extinguiu o feito, reconhecendo a prescrição intercorrente, sem oportunizar a intimação pessoal, não observou, de maneira estrita - como seria de rigor - o comando judicial proferido nos autos do referido agravo em recurso especial.
+2. Do exposto, julga-se procedente a presente reclamação para determinar ao r. juízo reclamado a estrita observância à decisão exarada nos autos do AREsp 1.283.399/RS.
+Publique-se. Intimem-se. Cumpra-se. Oficiem-se.
+EMENTA
