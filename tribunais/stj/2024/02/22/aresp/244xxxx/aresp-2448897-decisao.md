@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ ALBERTO MENEZES SAMPAIO contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. CONFIRMAÇÃO DE DECISÃO DENEGATÓRIA DE ANTECIPAÇÃO DE TUTELA. INAPLICABILIDADE DE ASTREINTES. OBRIGAÇÃO DE FAZER. COMINAÇÃO DE PENA PECUNIÁRIA DIÁRIA. INEXIGIBILIDADE DA OBRIGAÇÃO. POSTULANTE QUE CUSTEOU SUA CIRURGIA IGNORANDO AUTORIZAÇÃO DA SEGURADORA DEMANDADA EM CUMPRIMENTO A ORDEM JUDICIAL. PRETENSÃO DE REEMBOLSO. TRANSMUTAÇÃO EM OBRIGAÇÃO DE PAGAR. IMPOSSIBILIDADE. DECISÃO PROFERIDA EM CONSONÂNCIA COM ELEMENTOS CARREADOS PARA OS AUTOS E LEGISLAÇÃO EM VIGOR. PRECEDENTE JURISPRUDENCIAL. IRRESIGNAÇÃO IMOTIVADA. RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 845/851).
+Nas razões do especial, aponta o recorrente violação dos artigos 139, IV, 926 e 927 do Código de Processo Civil argumentando, em síntese, que a imposição da multa cominatória seria impositiva nos casos em que comprovado o descumprimento da obrigação de fazer determinada pelo Juízo.
+Contra-arrazoado (fls. 870/894), o recurso especial não foi admitido (fls. 937/940); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem pressupõe que a parte agravada não teria descumprido a decisão judicial, para afastar o cabimento de multa cominatória, conforme se extrai da seguinte passagem do acórdão recorrido (fl. 738):
+Assim, prosseguindo com a análise dos autos principais constata-se que a Seguradora demandada, ora Agravada, ciente da referida decisão em 27 de julho de 2016, enviou e-mail ao segurado postulante, ora recorrente, em dia seguinte, 28 do mesmo mês e ano, informando a autorização do procedimento, conforme documento de fl. 30, comprovando nos autos em 05 de agosto de 2016 o cumprimento da referida ordem judicial.
+Impossível ignorar a ocorrência de lapso temporal de apenas 9 dias entre ciência da decisão e efetiva comprovação nos autos, além de inexistência de fixação de prazo para cumprimento da ordem judicial supostamente ultrapassado quatro dias na hipótese de observância de prazo de lei, qual seja, cinco dias. Inobstante a autorização por parte demandada para realização do procedimento em cumprimento à ordem judicial o ora Agravante procedeu com a realização da cirurgia às próprias expensas, sem observar, contudo, orientações passadas por parte demandada para realização da cirurgia.
+Desse modo, diante da análise de todo o conjunto fático probatório não se pode concluir por ocorrência de alegado descumprimento da ordem judicial. (grifo acrescido)
+Como se vê do trecho acima reproduzido, a exclusão da multa cominatória decorre do pressuposto de fato adotado na origem quanto à inexistência de descumprimento da ordem judicial relacionada.
+Diante desse contexto, para acolher a pretensão do recorrente, reconhecendo o caráter intransponível da exigibilidade de multa cominatória, seria imprescindível o reexame do contexto fático-probatório; procedimento, porém, vedado em recurso especial (Súmula 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
