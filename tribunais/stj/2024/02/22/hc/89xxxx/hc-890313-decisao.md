@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar, impetrado contra acórdão assim ementado (fls. 9/19):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO -SENTENÇA DE PRONÚNCIA - DIREITO DE RECORRER EM LIBERDADE NÃO RECONHECIDO - DECISÃO FUNDAMENTADA - MÉTODO PER RELATIONEM - PRESENÇA DOS FUNDAMENTOS E PRESSUPOSTOS NECESSÁRIOS À MANUTENÇÃO DA PRISÃO PREVENTIVA.
+1. Desde que mantidas as condições que ditaram a decisão acautelatória anterior, é desnecessária uma pretensa e tautológica repetição de fundamentos já expostos reduzidos a um mesmo conteúdo motivacional, o qual pode ser validamente invocado à guisa de fundamentação per relationem (ou aliunde).
+2. Diante da gravidade concreta da conduta atribuída aos pacientes, tem-se por demonstrada a necessidade de manutenção dos acautelamentos preventivos para a garantia da ordem pública, não havendo falar-se em direito absoluto a recorrer da sentença de pronúncia em liberdade.
+V.V. Caracteriza constrangimento ilegal a sentença de pronúncia que sem a necessária fundamentação em dados concretos do feito nega ao paciente o direito de recorrer em liberdade.
+Consta dos autos que o paciente foi preso preventivamente pela prática do crime previsto no artigo 121, § 2º, IV, do Código Penal.
+A defesa do paciente alega que, no recebimento da denúncia, foi decretada a prisão preventiva, porém, o magistrado apenas narrou os fatos ocorridos e as conclusões a que chegaram às investigações, avocando a gravidade abstrata do delito como supedâneo para o decreto prisional, alegando que os fatos mereciam censura e que a primariedade e os bons antecedentes do acusado não seriam impeditivos para a decretação da prisão cautelar.
+Ressalta que sequer foi sequer mencionada a necessidade de manutenção da prisão para garantir o bom andamento da instrução criminal ou para aplicação da lei penal, portanto, entende que não estão presentes os motivos legais para prisão preventiva.
+Requer, liminarmente e quanto ao mérito, a concessão da ordem no sentido de que seja concedida a liberdade provisória do paciente ou a substituição da prisão por outra medida cautelar.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do artigo 34, XVIII e XX, do RISTJ.
+Quanto aos motivos da prisão cautelar, a decisão que decretou a prisão do paciente está assim fundamentada (fls. 20/25):
+Analisando atentamente o feito, tenho como necessário acolher o pedido de prisão preventiva, porquanto os acontecimentos exteriorizam a prática de crime contra a vida, em tese, perpetrados pelos denunciados, de forma brutal e por vingança.
+Compulsando os autos, verifico que a materialidade do delito está amplamente provada, o que também se verifica quanto aos indícios da autoria, os quais apontam também para os ora denunciados.
+Assim, presentes estão os pressupostos para decretação da prisão preventiva dos acusados, nos termos do artigo 312, in fine, do CPP.
+Constata-se, de forma contundente a gravidade dos atos perpetrados pelos denunciados, que, por motivo de vingança, efetuaram disparos de arma de fogo em face da vítima, surpreendendo-a quando ela conduzia seu veículo pela rodovia.
+(..)
+Insta salientar que a primariedade e a ausência de antecedentes, per si, não impedem a decretação da prisão cautelar, impondo-se a análise de outras circunstâncias.
+Ademais, a periculosidade dos denunciados encontra-se revelada pelo modus operandi empregado na execução do delito.
+Dessa forma, verifica-se latente a periculosidade concreta dos réus, eis que, em razão de desentendimento anterior e em vantagem numérica, aguardaram de tocaia para ceifar a vida da vítima José Carlos.
+Como pode ser observado, no decreto prisional constam fundamentos que devem ser considerados idôneos para a prisão preventiva, decorrente do modus operandi, pois os acusados, " por motivo de vingança, efetuaram disparos de arma de fogo em face da vítima, surpreendendo-a quando ela conduzia seu veículo pela rodovia", bem como que "verifica-se latente a periculosidade concreta dos réus, eis que, em razão de desentendimento anterior e em vantagem numérica, aguardaram de tocaia para ceifar a vida da vítima, não havendo manifesta ilegalidade", não havendo manifesta ilegalidade.
+A prisão preventiva impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confiram-se: HC 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
