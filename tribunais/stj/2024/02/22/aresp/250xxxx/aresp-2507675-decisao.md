@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MIGUEL FERNANDES GOMES MUNHOZ, MUNHOZ INDÚSTRIA DE MÁQUINAS INDUSTRIAIS LTDA. e WELLINGTON GABRIEL MUNHOZ, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/07/2023.
+Concluso ao gabinete em: 09/02/2024.
+Ação: execução de título extrajudicial, ajuizada por BANCO DO BRASIL S/A, em face de MIGUEL FERNANDES GOMES MUNHOZ, MUNHOZ INDÚSTRIA DE MÁQUINAS INDUSTRIAIS LTDA., WELLINGTON GABRIEL MUNHOZ, DALVA MARIA GABRIEL MUNHOZ e ELAINE CRISTINA DE OLIVEIRA MUNHOZ.
+Decisão interlocutória: rejeitou a exceção de pré-executividade e manteve o indeferimento dos benefícios da justiça gratuita pleiteados pelos agravantes.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+"Agravo de Instrumento. Execução de título extrajudicial. Exceção de pré-executividade. Decisão de primeiro grau que manteve o indeferimento da gratuidade de justiça e rejeitou a exceção de pré-executividade. Pretensão da executada-excipiente à reforma. Descabimento.
+1. Gratuidade de Justiça. Não comprovação da alegada hipossuficiência. Pedido já apreciado em anterior agravo de instrumento, não havendo demonstração de alteração superveniente da situação econômica. Vedação à rediscussão de matéria já decidida (art. 507 do CPC). Posterior recolhimento do preparo recursal que configura comportamento contraditório. Jurisprudência do STJ. Manutenção do indeferimento dos pedidos de gratuidade de justiça e de diferimento do pagamento das custas.
+2. Exceção de pré-executividade. Alegações de onerosidade excessiva e excesso de execução que não são cognoscíveis de ofício e demandam dilação probatória, razão pela qual são típicas de embargos à execução, não merecendo conhecimento pela via da exceção de pré-executividade. Súmula 393 do STJ. Possibilidade de ajuizamento da execução no foro do domicílio dos executados, a teor do art. 781 do CPC, não obstante tenha sido pactuada a cláusula de eleição de foro. Inicial da execução instruída com cópia da Cédula de Crédito Bancário devidamente assinada pelos executados e acompanhada de demonstrativo de evolução do débito, preenchendo os requisitos do art. 28, § 2º, I e II, da Lei 10.931/2004. Precedentes. Decisão mantida. Recurso desprovido." (e-STJ fl. 465)
+Embargos de Declaração: opostos, pelos agravantes, foram rejeitados. (e-STJ fl. 495/503)
+Recurso especial: alegam violação dos arts. 3º, 98, § 1º, 99, § 2º, 783, 803, I, 917, I, CPC, 5º, XXXV, LIV, LV, CF, 15, II, 20, 21, Lei 5.475/68, bem como dissídio jurisprudencial, sustentando que: i) embora o recorrido afirme que o título executivo é líquido e exigível a obrigação incontestavelmente é originária de CCB que, por sua vez, depende de requisitos específicos para sua exequibilidade, nos termos do art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004; e, ii) restou amplamente comprovada a atual insuficiência econômica que permite a isenção ou até o diferimento das custas processuais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 3º, CPC, 15, II, 20, 21, Lei 5.475/68, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "no que tange à gratuidade de justiça, por se tratar de renovação de pedido da mesma natureza, já apreciado e indeferido quando do julgamento do Agravo de Instrumento nº 2242977-62.2018.8.26.0000, caberia aos agravantes demonstrar a alteração da sua situação econômica, certo que, mantidas as circunstâncias que ensejaram o indeferimento do pedido no anterior recurso, é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão", bem como de que "por revelar-se contraditório o comportamento de recolhimento das custas promovido pelos agravantes, é de rigor a manutenção do indeferimento dos pedidos de gratuidade de justiça e de diferimento do pagamento das custas", assim também de que "a inicial da execução foi instruída com cópia da Cédula de Crédito Bancário devidamente assinada pelos agravantes (fls. 31/41) e veio acompanhada de demonstrativo de evolução do débito (fls. 42/43), ou seja, preenche os requisitos legais", além de que "as demais questões debatidas nos autos são dependentes de valoração de provas, não restando adequado o manejo da exceção de pré-executividade", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+A falta do cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação de execução de título extrajudicial.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial não conhecido.
