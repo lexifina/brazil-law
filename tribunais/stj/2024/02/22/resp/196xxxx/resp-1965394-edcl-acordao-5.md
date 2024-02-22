@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção, por unanimidade, não conhecer dos embargos de declaração, restando prejudicado o pedido de intervenção no feito, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Afrânio Vilela, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves e Sérgio Kukina votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. LEGITIMIDADE. CARÊNCIA.
+1. Não deve ser conhecido o recurso quando o peticionante carece de legitimidade para opor embargos de declaração.
+2. No caso, o ora requerente não é parte na ação e, até a prolação do acórdão recorrido, não foi admitido como terceiro interessado ou amicus curiae, sendo certo que, ainda que houvesse pronunciamento posterior admitindo a intervenção nesses termos (não há), os efeitos disso seriam para o futuro, e não retroativos.
+3. Embargos de declaração não conhecidos. Pedido de intervenção no feito prejudicado.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUÍS FELIPE BELMONTE E ADVOGADOS ASSOCIADOS contra acórdão proferido pela Primeira Seção desta Corte de Justiça, que julgou o presente recurso especial sob a sistemática do art. 1.036 do CPC (Tema 1.175 do STJ), nos termos da seguinte ementa (e-STJ fls. 1.974 /1.975):
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPETITIVO. TEMA 1.175. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA PELO SINDICATO. FILIADOS OU BENEFICIÁRIOS. RETENÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELO ENTE SINDICAL. IMPOSSIBILIDADE. HONORÁRIOS CONTRATADOS EXCLUSIVAMENTE PELO SINDICATO. AUSÊNCIA DE RELAÇÃO JURÍDICA CONTRATUAL ENTRE OS SUBSTITUÍDOS E O ADVOGADO. AUTORIZAÇÃO EXPRESSA. NECESSIDADE.
+1. A questão submetida ao Superior Tribunal de Justiça refere-se à "necessidade ou não de apresentação do contrato celebrado com cada um dos filiados para que o sindicato possa reter os honorários contratuais sobre o montante da condenação" (Tema 1.175/STJ).
+2. Esta Corte compreende que, a despeito das conclusões adotadas no Tema 823/STF (legitimidade extraordinária ampla dos sindicatos), as obrigações decorrentes do contrato firmado entre a entidade de classe e o escritório de advocacia não poderiam ser oponíveis aos substituídos, já que estes não participaram da sua celebração e não indicaram concordar com suas disposições. Precedentes.
+3. A inclusão do § 7º no art. 22 do Estatuto da OAB não torna prescindível a autorização expressa dos substituídos, mas, ao contrário, continua pressupondo a necessidade de anuência expressa deles, visto que permite indicar somente os beneficiários que, "ao optarem por adquirir os direitos, assumirão as obrigações".
+4. Não é possível cogitar que tal opção, a qual implicará assunção de obrigações contratuais, possa se operar sem a aquiescência da parte contratante, sob pena de violação da liberdade contratual (art. 421 do CC).
+5. O § 7º teria dispensado a necessidade de que seja instrumentalizado um contrato individual e específico para cada substituído (como antes exigido), sendo facultada a adesão "coletiva" aos termos do negócio jurídico principal; não dispensou, porém, a autorização expressa dos integrantes da categoria que optem, voluntariamente, por aderir às cláusulas do ajuste, como pressuposto para retenção dos honorários estabelecidos no contrato originário.
+6. A norma em destaque (art. 22, § 7º, do EOAB) ostenta inegável natureza material, porque está a disciplinar a possível vinculação de sujeitos de direito a obrigações contratuais (relação jurídica de direito substantivo - direitos e deveres); não sendo norma exclusivamente instrumental/processual, somente se aplica aos contratos firmados após a vigência da nova lei (Lei n. 13.725, de 2018), em razão da aplicação da máxima do tempus regit actum.
+7. Tese jurídica firmada: a) antes da vigência do § 7º do art. 22 do Estatuto da OAB (5 de outubro de 2018), é necessária a apresentação dos contratos celebrados com cada um dos filiados ou beneficiários para que o sindicato possa reter os honorários contratuais sobre o montante da condenação; b) após a vigência do supracitado dispositivo, para que o sindicato possa reter os honorários contratuais sobre o montante da condenação, embora seja dispensada a formalidade de apresentação dos contratos individuais e específicos para cada substituído, mantém-se necessária a autorização expressa dos filiados ou beneficiários que optarem por aderir às obrigações do contrato originário.
+8. Incide no caso concreto a Súmula 284 do STF, em relação à alegada violação do art. 1.022, II, do CPC, e, no mérito, o acórdão recorrido se encontra em sintonia com a orientação jurisprudencial desta Corte, uma vez que a hipótese dos autos se amolda à da alínea "a" da tese jurídica.
+9. Recurso especial conhecido em parte e, nessa extensão, não provido.
+Sustenta o embargante que possui legitimidade e interesse de agir para opor os presentes embargos na qualidade de terceiro interessado (arts. 124 e 996 do CPC/2015), porquanto possui processos em andamento relacionados a honorários contratuais, em que se aguarda exatamente a definição do tema ora em comento, decorrentes de contrato celebrado com o Sindicato dos Trabalhadores em Educação de Roraima - SINTER e outros mais, todos os pactos precedidos de aprovação em assembleias sindicais, tanto prévia quanto em ratificação.
+Aduz que o acórdão embargado merece modulação dos efeitos, para que conste que a nova orientação jurisprudencial contida no Tema 1.175 seja aplicada apenas em casos futuros, não atingindo situações já consolidadas e em que há estabilidade da relação jurídica estabelecida, visto que existem situações muito diferenciadas sobre o assunto.
+Afirma ainda a necessidade de esclarecimento do acórdão recorrido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. LEGITIMIDADE. CARÊNCIA.
+1. Não deve ser conhecido o recurso quando o peticionante carece de legitimidade para opor embargos de declaração.
+2. No caso, o ora requerente não é parte na ação e, até a prolação do acórdão recorrido, não foi admitido como terceiro interessado ou amicus curiae, sendo certo que, ainda que houvesse pronunciamento posterior admitindo a intervenção nesses termos (não há), os efeitos disso seriam para o futuro, e não retroativos.
+3. Embargos de declaração não conhecidos. Pedido de intervenção no feito prejudicado.
+VOTO
+O presente recurso não admite conhecimento, pois carece o peticionante de legitimidade para opor embargos de declaração.
+Observe-se que o ora requerente não é parte na ação e, até a prolaç ão do acórdão recorrido, não foi admitido como terceiro interessado ou amicus curiae, sendo certo que, ainda que houvesse pronunciamento posterior admitindo a intervenção nesses termos (não há), os efeitos disso seriam para o futuro, e não retroativos.
+Ante o exposto, NÃO CONHEÇO dos embargos de declaração e JULGO PREJUDICADO o pedido de intervenção no feito.
+É como voto.
