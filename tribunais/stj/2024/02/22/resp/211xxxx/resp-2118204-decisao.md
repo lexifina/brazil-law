@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO DE DESENVOLVIMENTO SUSTENTÁVEL E MEIO AMBIENTE DO RIO GRANDE DO NORTE (IDEMA) contra acórdão prolatado, por unanimidade, pela 1ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte no julgamento de Apelações, assim ementado (fls. 186/187e):
+PROCESSUAL CIVIL. APELAÇÕES CÍVEIS EM SEDE DE CUMPRIMENTO DE SENTENÇA. JUÍZO SINGULAR QUE RECONHECEU A PRESCRIÇÃO DO FUNDO DE DIREITO E EXTINGUIU O PROCESSO COM RESPALDO NO ART. 487, II, DO CPC. PRELIMINAR DE NULIDADE DO VEREDICTO SUSCITADA PELA DEMANDANTE QUE MERECE ACOLHIDA. AUSÊNCIA DE INTIMAÇÃO DAS PARTES PARA FINS DE PRONUNCIAMENTO SOBRE FUNDAMENTO NÃO CONTIDO NOS AUTOS. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, E DA NÃO SURPRESA DAS DECISÕES JUDICIAIS. INTELIGÊNCIA DOS ARTIGOS 9º E 10 DO DIPLOMA PROCESSUAL EM VIGOR. CASSAÇÃO DO VEREDICTO QUE IMPÕE. REAFIRMAÇÃO DE JURISPRUDÊNCIA DESTA EGRÉGIA CORTE DE JUSTIÇA. APELO AUTORAL CONHECIDO E PROVIDO. RECURSO FAZENDÁRIO PREJUDICADO.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 332, caput e § 1º, do Código de Processo Civil de 2015, alegando-se, em síntese, que " ..  não há nenhuma relação de dependência entre a improcedência/indeferimento liminar do pedido e a observância do princípio da não surpresa, desde que atendidas as exigências do art. 332, I a IV e § 1º" (fl. 218e).
+Com contrarrazões (fls. 213/219e), o recurso foi admitido (fls. 232/233e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No que se refere à questão da observância ao princípio da não surpresa em ações liminarmente julgadas improcedentes, por reconhecimento da prescrição, à luz dos requisitos do art. 332 do CPC , verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 332, § 1º, do Código de Processo Civil.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
