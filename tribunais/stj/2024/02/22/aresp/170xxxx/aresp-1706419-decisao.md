@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO JUDICIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE PASSIVA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DE REQUISITOS. INSTAURAÇÃO DE INCIDENTE. PRECLUSÃO. REDISCUSSÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Se as alegações de ilegitimidade passiva, ausência de requisitos para desconsideração da personalidade jurídica e necessidade de instauração do incidente já foram objeto de recurso, operou-se a preclusão, de modo que a parte não poderá rediscuti-la, sob pena de violação das disposições do artigo 507 do NCPC.
+2. Recurso não provido.
+Alegou-se, no especial, violação dos artigos 1.022, 489 e 507 do Código de Processo Civil sob o argumento de que o acórdão local é omisso e que não houve preclusão na hipótese dos autos, porquanto seriam distintas as situações.
+Assim delimitada a controvérsia, passo a decidir.
+O agravante afirma que a decisão que determinou a desconsideração da personalidade jurídica da empresa devedora para atingir o patrimônio do recorrente foi proferida na vigência do revogado Código de Processo Civil, quando o contraditório era diferido.
+Não haveria preclusão para a discussão do tema, haja vista que a situação na hipótese dos autos seria distinta, porquanto aviada em sede de cumprimento de sentença, o que permite o contraditório e ampla defesa.
+Esta Corte Superior tem mesmo entendimento de que, na vigência do Código de Processo Civil de 1973, a desconsideração da personalidade jurídica empregava o diferimento do contraditório e da ampla defesa, de modo que, oportunamente, a parte prejudicada poderia demonstrar a ausência dos requisitos para a aplicação do instituto.
+Assim:
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESNECESSIDADE DE CITAÇÃO DOS SÓCIOS ATINGIDOS. PRECEDENTES. VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS PREVISTOS NO ART. 50 DO CÓDIGO CIVIL. ENUNCIADO N. 7 DA SÚMULA DO STJ. AUSÊNCIA DE ARGUMENTOS APTOS A INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo a jurisprudência do STJ, a desconsideração da personalidade jurídica, como incidente processual, pode ser decretada sem a prévia citação dos sócios atingidos, aos quais se garante o exercício postergado ou diferido do contraditório e da ampla defesa. Precedentes de ambas as Turmas que integram a Segunda Seção do STJ.
+2. A verificação da presença dos requisitos para a aplicação da disregard doctrine previstos no art. 50 do Código Civil, por constituir matéria fática, é vedada pelo enunciado n. 7 da Súmula do STJ. Precedente.
+3. Se o agravante não traz argumentos aptos a infirmar os fundamentos da decisão agravada, deve-se negar provimento ao agravo regimental. Precedente.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.523.930/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/6/2015, DJe de 25/6/2015.)
+Não está, todavia, claro nos autos se ao agravante foi oportunizada a prova de que os requisitos ensejadores da aplicação do disregard doctrine estavam presentes.
+A ausência de interposição de recurso contra o acórdão que confirmou a decisão do juízo primevo não é suficiente, portanto, para a manutenção do acórdão de que ora se recorre a esta Casa, mormente porque, na instância extraordinária, não se admite o reexame de provas, como consta do precedente supra.
+Ressalte-se que o próprio acórdão de origem afirma que, quando decidida a questão anteriormente, concluiu-se pela ausência de bens e provável encerramento irregular da empresa.
+Leia-se o excerto:
+"Aliás, vale destacar que, na oportunidade, a Turma Julgadora esclareceu que "é patente o estado de insolvência da empresa executada, a alicerçar a desconsideração da sua personalidade, tendo em vista a ausência de bens e de patrimônio próprio apto a satisfazer o crédito dos exequentes, concatenado aos inúmeros processos judiciais a que responde (fls. 457/460-AA e pesquisa realizada no site TJMG), todos em fase de cumprimento de sentença, frustradas pela ausência de capacidade financeira" e "há indícios de que a empresa executada, embora não tenha sido baixada no Cadastro Nacional de Pessoas Jurídicas (CNPJ), na prática, não está mais exercendo suas atividades sociais".
+Quanto à legitimidade, consignou-se que "na data do contrato de compra e venda e do ajuizamento da ação principal, o agravante ainda figurava como sócio da empresa executada, pelo que responde solidariamente pelas obrigações, da época, juntamente com os outros sócios, em caso de desconsideração da personalidade jurídica da sociedade" e "em que pese o interstício entre a data da retirada do agravante da sociedade e a data da decisão que desconsiderou a personalidade jurídica (10 anos, aproximadamente), este como ex-sócio tem legitimidade para integrar o polo passivo da execução ou cumprimento da sentença"" (e-STJ, fls. 660/661).
+Essas causas não são, pelo direito comum, bastantes para o deferimento da desconsideração.
+A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. OFENSA AOS ARTS. 489, § 1º, IV E VI, E 1.022, II, DO CPC. INEXISTÊNCIA. REQUISITOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. "A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não enseja a desconsideração da personalidade jurídica" (AgInt no AREsp n. 924.641/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/10/2019, DJe de 12/11/2019).
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.393.231/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Cabe, portanto, o retorno dos autos para melhor exame da questão quanto à oportunização à parte para a prova de que não estariam preenchidos os requisitos para a desconsideração da personalidade jurídica para, aí sim, concluindo-se pelo contraditório oportunizado à parte, considerar preclusa a questão, de modo que houve omissão sobre questão relevante a violar a norma de regência dos embargos de declaração.
+Em face do exposto, conheço do agravo e dou provimento parcial ao recurso especial para determinar o retorno dos autos ao Tribunal de origem a fim de que examine melhor a questão, nos termos da fundamentação supra e como entender de direito.
+Intimem-se.
+EMENTA
