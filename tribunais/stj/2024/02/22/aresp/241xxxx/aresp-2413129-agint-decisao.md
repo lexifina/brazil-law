@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por entender que este é intempestivo (fls. 671-672 ).
+Nas razões do agravo interno, a agravante sustenta que a Ministra Presidente não decidiu como de costumeiro acerto, visto que, não computando o dia da publicação (31/1/20230) (art. 224 e ss do CPC), a contagem de prazos em dias úteis previstos no art. 219, "caput", do CPC, excluindo-se também sábados, domingos e emendas de feriados, a contagem no interregno a partir do dia 1º/2/2023 de 15 (quinze) dias úteis, decorreu efetivamente no dia 23/2/2023.
+Afirma, por outro lado, que a suspensão de prazo não se deu por feriado local de Mato Grosso do Sul que precisasse de comprovação prévia, mas sim, por feriado nacional previsto no art. 1º, I, da Portaria STJ/GP n. 1, de 2/1/2023.
+A parte agravada apresentou impugnação às fls. 347/350.
+Diante da análise das razões do recurso, verifico que o óbice aplicado na decisão de inadmissibilidade foi devidamente impugnado, e que o recurso é, de fato tempestivo, de modo que reconsidero a decisão recorrida e passo à nova análise do agravo em recurso especial.
+Cuida-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 580):
+EMENTA - RECURSOS DE APELAÇÃO EM AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL POR PRÁTICA DE ILÍCITO COM DEVOLUÇÃO DE VALORES, INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA DE URGÊNCIA - RESTITUIÇÃO NA FORMA SIMPLES - DEVIDA ANTE AUSÊNCIA DE MÁ-FÉ - COMPENSAÇÃO DE VALORES A SEREM RESTITUÍDOS - JUROS DE MORA A CONTAR DO PRIMEIRO DESCONTO - APLICAÇÃO SÚMULA 54 - IMPLEMENTAÇÃO DOS DANOS MORAIS - HONORÁRIOS SUCUMBENCIAIS SOBRE O VALOR DA CONDENAÇÃO - RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+Opostos embargos de declaração, foram acolhidos em parte para o fim de determinar incluir a incidência de correção monetária quando aos valores a seres restituídos, pelo IGPM/FGV a contar de seu desembolso.
+Nas razões do recurso especial, a parte agravante sustenta que mesmo reconhecendo a fraude com a falsificação de assinatura em contrato considerado ilícito, quando da condenação por danos morais no valor de R$ 5.000,00 (cinco mil reais), o Tribunal de origem fixou os juros de mora de 1% (um por cento) ao mês, desde o arbitramento e em mesma situação de contratação ilegal por falsificação de assinatura, a Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso, na apelação cível nº 1032259-32.2017.8.11.0041, determinou a aplicação da Súmula nº 54 do STJ, com a incidência dos juros de mora de 1% a.m. desde o evento danoso.
+O Tribunal de origem ao apreciar o feito entendeu - grifei - fls. 583 - 584 :
+Ainda no que concerne à devolução desses valores entendo que sua correção deva ser feita pelo índice do IGPM/FGV eis que não havendo contratação não há se falar em incidência de índice INPC como quer crer o Banco Pan S.A.. Além do mais, o IGPM/FGV é o índice que melhor reflete a inflação.
+Considerando a restituição entendo que os juros de mora devem incidir a contar do evento danoso, ou seja, a contar do primeiro desconto indevido no benefício da autora, eis que diante da inexistência contratual é o caso da aplicação da Súmula 54 do STJ: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual".
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Da leitura da decisão supracitada, nota-se que o acórdão combatido está de acordo com o pleito do recorrente no que concerne ao termo inicial para fixação dos juros de mora, qual seja, no momento do evento danoso. Logo, não há interesse em recorrer.
+Em face do exposto, reconsider o a decisão de fls. 671-672 e nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
