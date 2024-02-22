@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  conflito  negativo  de  competência  suscitado  pelo  JUIZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO FECHADO E SEMIABERTO DE TRINDADE - GO em face do JUÍZO DE DIREITO DA 3ª VARA CRIMINAL EM MEIO FECHADO E SEMIABERTO DE ARAGUAÍNA - TO.
+Depreende-se dos autos que o réu foi condenado pelo Juízo da 1ª Vara Criminal de Paraíso do Tocantins-TO à pena de 11 anos e 2 meses de reclusão, em regime inicial fechado. Em 9/8/2021 foi deferido ao apenado a progressão ao regime semiaberto e, em razão da ausência de vaga em unidade prisional adequada, foi-lhe imposta prisão domiciliar. Diante da notícia de que o apenado reside em Goiânia-GO, foi expedida carta precatória a esse Juízo, com a finalidade de fiscalizar o restante do cumprimento da pena.
+Em 18/1/2023, sobreveio nova condenação, pelo Juízo de Goianira-GO, à pena de 2 anos e seis meses de reclusão, em regime fechado, ante a existência de antecedentes criminais e reincidência, tendo o mandado de prisão sido cumprido em Trindade-GO.
+Diante disso, o Juízo da 1ª Vara Criminal de Paraíso do Tocantins-TO remeteu os autos para o Juízo de Trindade-GO, o qual suscitou o presente conflito com base nos seguintes argumentos (e-STJ fl. 4):
+No caso dos autos, verifico que o reeducando está preso preventivamente nos autos nº 5428987-31.2023.8.09.0011, contudo o feito ainda está em fase recursal.
+Assim, verifico que não houve alteração da competência para fiscalização do cumprimento da pena, permanecendo o juízo da 1ª Vara Criminal de Paraíso do Tocantins-TO.
+O competente para deliberar sobre a situação do apenado, atualmente em regime semiaberto e preso preventivamente por outro fato.
+Insta salientar ainda que não consta nos autos qualquer informação de que o reeducando possui qualquer vínculo com esta Comarca, não havendo sequer um pedido de vaga para transferência do cumprimento da pena, fato que ensejaria eventual modificação da competência.
+Ademais, ainda que em caso de eventual confirmação da condenação do apenado na ação penal nº 5428987-31, a competência para unificação das penas será da1ª Vara Criminal de Paraíso do Tocantins-TO, uma vez que a execução penal já tramitava quando preso pelo suposto fato novo.
+A respeito da competência para execução da pena dispõe a Resolução 113 de 20/04/2010, do Conselho Nacional de Justiça:
+"Art. 3º O Juiz competente para a execução da pena ordenará a formação do Processo de Execução Penal (PEP), a partir das peças referidas no artigo 1º.
+§ 1º Para cada réu condenado, formar-se-á um Processo de Execução Penal, individual e indivisível, reunindo todas as condenações que lhe forem impostas, inclusive aquelas que vierem a ocorrer no curso da execução.
+(..)
+§ 3º Sobrevindo nova condenação no curso da execução, após o registro da respectiva guia de recolhimento, o juiz determinará a soma ou unificação da pena ao restante da que está sendo cumprida e fixará o novo regime de cumprimento, observada, quando for o caso, a detração ou remição."
+Logo, não há dúvidas de que a competência para processamento da presente execução penal é da1ª Vara Criminal de Paraíso do Tocantins-TO.
+O  Ministério  Público  Federal  manifestou-se  pela  competência  do  Juízo  suscitado,  em  parecer  assim  ementado  (e-STJ  fl.  61):
+PROCESSOPENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. REEDUCANDO QUE CUMPRE PENA EM LOCAL DIVERSO DAQUELE EM QUE FOI CONDENADO ONDE PRATICOU NOVO DELITO. COMPETÊNCIA DO JUÍZO QUE PROFERIU A SENTENÇA CONDENATÓRIA ORIGINÁRIA. PARECER PELO CONHECIMENTO DO CONFLITO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DA 3A VARA CRIMINAL EM MEIO FECHADO E SEMIABERTO DE ARAGUAÍNA - TO - ORA SUSCITADO.
+1. Entende essa Colenda Corte Superior de Justiça que "A COMPETÊNCIA PARA A EXECUÇÃO PENAL CABE AO JUÍZO DA CONDENAÇÃO, SENDO DEPRECADA AO JUÍZO DO DOMICÍLIO DO APENADO SOMENTE A SUPERVISÃO E ACOMPANHAMENTO DO CUMPRIMENTO DA PENA DETERMINADA, INEXISTINDO DESLOCAMENTO DE COMPETÊNCIA" (CC 113.112/SC, TERCEIRA SEÇÃO, REL MINISTRO GILSON DIPP, DJE17/11/2011)." (CC N. 178.372/DF, RELATOR MINISTRO JOEL ILANPACIORNIK, TERCEIRA SEÇÃO, JULGADO EM 23/6/2021, DJE DE25/6/2021).
+2. Parecer pelo conhecimento do conflito, para que seja declarada a competência do Juízo de Direito da 3ª Vara Criminal Em Meio Fechado e Semiaberto de Araguaína-TO, ora Suscitado.
+É  o  relatório.
+Decido.
+Cuida-se de incidente instaurado entre juízes vinculados a tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Cinge-se a controvérsia posta ora sob análise à definição da competência para executar e unificar as penas impostas por Juízos de comarcas diversas.
+Nos termos do art. 65 da Lei de Execução Penal, a execução penal competirá ao juízo indicado na lei local de organização judiciária e, na sua ausência, ao da sentença condenatória.
+Conforme orientação jurisprudencial do Superior Tribunal de Justiça, havendo condenação em duas unidades federativas, o juízo competente para a execução da pena será o do local em que ela tiver iniciado, não alterando essa regra eventual fuga empreendida ou cometimento de novo crime em local diverso. Nesse sentido: CC n. 103.228/PR, relatora Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 26/8/2009, DJe 3/9/2009; CC n. 166.109/DF, relator Ministro Rogerio Schietti Cruz, DJe 18/6/2019; e CC n. 166.092/DF, relatora Ministra Laurita Vaz, DJe 13/6/2019.
+In casu, a unificação e execução das penas será da competência do Juízo da 1ª Vara Criminal de Paraíso do Tocantins-TO, onde o ora interessado já possuía processo de execução em curso quando foi condenado pelo Juízo 1ª Vara Criminal de Goianira-GO.
+Registre-se que esta Corte Superior admite a possibilidade de declaração da competência de um terceiro juízo que não figure como parte no incidente. A propósito: CC n. 171.171/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 9/12/2020, DJe de 14/12/2020 e CC n. 142.934/PR, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 14/10/2015, DJe de 30/11/2015.
+Ante  o  exposto,  conheço  do  conflito  e  dou  por  competente  o  Juízo da 1ª Vara Criminal de Paraíso do Tocantins-TO, não envolvido no presente conflito.
+P ublique-se.  Intimem-se.
+EMENTA
