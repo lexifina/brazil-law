@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de ação ordinária, objetivando a declaração de ilegitimidade da incidência da contribuição social previdenciária sobre 1/3 constitucional de férias, abono de férias, aviso prévio indenizado, os primeiros 15 dias de afastamento, auxílio doença/auxílio acidente, que seja autorizada a compensação/repetição de indébito de todos os valores recolhidos indevidamente nos cinco anos anteriores ao ajuizamento da ação, bem como os recolhidos no decorrer do processo, até o efetivo transito em julgado. Na sentença julgou-se procedente o pedido. No Tribunal a quo a sentença foi parcialmente reformada para reconhecer as limitações ao direito de compensar previstos no art. 26, parágrafo único, da Lei n. 11.457/2007, corrigido pela taxa SELIC. O valor da causa foi fixado em R$1.000,00.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO.
+I - O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+II - Hipótese dos autos em que a decisão agravada observou os critérios anteriormente expostos e a parte agravante não refuta a subsunção do caso ao entendimento firmado, limitando-se a questionar a orientação adotada, já sedimentada nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557 do Código de Processo Civil.
+HI - Agravo legal desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O fato gerador e a base de cálculo da cota patronal da contribuição previdenciária encontram-se previstos no artigo 22, inciso 1, da Lei nº 8.212/91, nos seguintes termos:
+ ..
+O referido dispositivo legal limita o campo de incidência das exações às parcelas que integram a remuneração dos trabalhadores, pré-excluindo, da base de cálculo, as importâncias de natureza indenizatória. Nesse sentido, já se manifestou o Superior Tribunal de Justiça:
+ ..
+Impende destacar, outrossim, que a mesma motivação foi utilizada pelo Supremo Tribunal Federal para, em sede de medida liminar apreciada nos autos da AD nº 1659-8, suspender a eficácia dos dispositivos previstos nas Medidas Provisórias nº 1523/06 e 1599/97, no que determinavam a incidência de contribuição previdenciária sobre parcelas de caráter indenizatório. O julgado restou ementado nos seguintes termos:
+ ..
+Está pacificado na jurisprudência pátria que sobre a verba paga pelo empregador ao empregado nos primeiros quinze dias do afastamento do trabalho em razão de doença ou acidente não deve incidir contribuição previdenciária, posto que tal verba não possui natureza remuneratória, mas sim indenizatória. De notar que, durante o período de quinze dias que antecede o beneficio previdenciário o empregado não trabalha, não havendo, destarte, uma remuneração à prestação de serviços. Não há, assim, a ocorrência do fato gerador da contribuição previdenciária, razão pela qual tal exação não é exigível.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
