@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por YAGO BITTENCOURT OLIVEIRA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o Recorrente foi condenado à pena de 05 anos, 02 meses e 15 dias de reclusão, no regime inicial fechado, pela suposta prática do delito de tráfico de drogas, negado o direito de liberdade processu al. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, que concluiu que a manutenção da prisão do Recorrente se encontrava devidamente justificada:
+"Na sentença condenatória, foi mantida a medida extrema por persistirem os motivos ensejadores e pelo regime fechado para o início do cumprimento da pena: "Nego ao sentenciado YAGO BITTENCOURT OLIVEIRA o direito de recorrer em liberdade da presente sentença, considerando o regime inicial de cumprimento de pena fixado e o fato de o sentenciado ter permanecido preso durante toda a instrução processual. Ademais, verifica-se que ainda persistem os motivos que ensejaram a decretação da custódia cautelar, precipuamente a garantia da ordem pública, tendo em vista como o crime fora praticado (modus operandi) e o risco concreto de reiteração criminosa, em virtude da reincidência. Portanto, MANTENHO A PRISÃO PREVENTIVA decretada em face do sentenciado YAGO BITTENCOURT OLIVEIRA."
+Portanto, a manutenção da prisão justifica-se para a garantia da ordem pública, tendo em vista as circunstâncias em que cometido o delito, bem como das condições pessoais desfavoráveis, reveladoras de periculosidade, dado indicador de reiteração delitiva." (fl. 206).
+No presente recurso, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Recorrente.
+Sustenta ausência de fundamentação concreta para a prisão preventiva.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+Em consulta à base de d ados desta Corte Superior, denota-se a reiteração das razões manifestadas no HC n. 890.026 / GO, evidenciando-se deste presente recurso o propósito de dupla apreciação, por este Superior Tribunal de Justiça, relativamente, às questões decididas no habeas corpus originário n. 5001488-39.2024.8.09.0000 , dado que indica o não cabimento da insurgência em exame.
+Nesse sentido:
+"A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020)" (AgRg no RHC n. 186.154/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/10/2023 ).
+"Inadimissível o recurso por litispendência quanto aos pressupostos e motivos autorizadores da custódia cautelar, por veicular mera reiteração de pedido já formulado no HC n.º 492.985/RS" (RHC n. 115.356/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 03/10/2019, grifei).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
