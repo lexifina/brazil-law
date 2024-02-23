@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos pela ASSOCIAÇÃO DOS AMIGOS DE PARQUE DAS ARTES contra acórdão da Terceira Turma, assim ementado (fls. 2.343-2.344):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO REGIONAL. NOVO ADQUIRENTE QUE NÃO PARTICIPOU DA FASE DE CONHECIMENTO DA AÇÃO. EFEITO DA SENTENÇA QUE NÃO ALCANÇA O NOVO ADQUIRENTE. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Inviável a revisão do entendimento do Tribunal de origem, com base no conjunto fático-probatório dos autos, de ilegitimidade passiva no caso dos autos. Rever o entendimento implicaria revisão de matéria fática, o que é vedado em recurso especial, nos termos da Súmula n. 7 desta corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+Agravo interno improvido.
+Nas razões recursais, o embargante alega que o acórdão embargado está em divergência com os seguintes julgados: REsp n. 1.102.151-MG e 1.358.112/SC.
+Sustenta o embargante, com base na divergência, que não há necessidade do revolvimento dos aspectos fáticos da demanda, já que a questão é objetiva.
+Assim, entende que a divergência está configurada ante o fato de que nos paradigmas adentrou-se ao mérito da questão posta na lide para julgamento, enquanto que no presente feito isso não ocorreu, optando-se pela incidência da Súmula n. 7 do STJ.
+Requer o provimento dos embargos de divergência.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Com efeito, o embargante aduz que a controvérsia diz respeito à alienação de coisa litigiosa em momento posterior à propositura da respectiva ação e a consequência de tal "caracterizar a legitimidade para o prosseguimento da ação, haja vista o adquirente ter ciência inequívoca, sendo seu dever revestir-se das cautelas necessárias antes da aquisição" (fl. 2.482).
+Contudo, há de se observar que a finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como novo recurso ordinário nem se prestando para a correção de eventual equívoco ou violação que tenha ocorrido no julgamento do recurso especial, razão pela qual o presente recurso é manifestamente incabível (AgRg nos EREsp n. 954.305/SP, relator Ministro Gurgel de Faria, Terceira Seção, DJe de 14/3/2016; EDcl no AgRg nos EREsp n. 1.316.256/RJ, relator Ministro Felix Fischer, Corte Especial, DJe de 14/12/2015).
+No caso, o recurso especial não foi conhecido em relação à questão sobre a ilegitimidade passiva, em razão do entendimento do relator Ministro Humberto Martins de que a questão encontra óbice da Súmula n. 7 do STJ.
+Interposto agravo em recurso especial, tal posicionamento foi mantido. Assim, é importante relembrar que "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial" (Súmula n. 315 do STJ).
+Conquanto o novo CPC admita que a comprovação da divergência se faça pelo cotejo entre acórdão que tenha julgado o mérito e outro que não tenha conhecido do recurso, permanece a exigência de que este último tenha, ao menos, apreciado a controvérsia que se alega objeto do dissenso. E, no caso dos autos, não houve essa apreciação. Observa-se teor do acórdão ora embargado (fl. 2.348):
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e das provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial.
+Fica claro, inclusive, que não foi demonstrada a existência de divergência jurisprudencial no âmbito do Superior Tribunal de Justiça tendo em vista que o acórdão embargado não decidiu sobre o mérito da questão invocada.
+Não fosse por isso, não foi realizado pelo embargante o cotejo analítico, vez que apenas transcreveu os julgados. E é certo que não basta para o atendimento do requisito a mera transcrição de trechos do julgado que entende ser divergente. É necessária a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos específicos dos acórdãos que configuram o dissídio, em comparação com o acórdão recorrido, com a clara indicação das circunstâncias que identificam ou assemelham os casos confrontados, o que torna inviável a apreciação da divergência.
+Ante o exposto, indefiro liminarmente os embargos de divergência .
+Publique-se. Intimem-se.
+EMENTA
