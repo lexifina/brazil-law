@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento interposto por SIZINA NOGUEIRA nos autos de ação de indenização contra o MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO, diante de queda sofrida na internação em unidade de saúde municipal, contra decisão que determinou a redistribuição do feito. Na sentença, julgou-se o pedido. No Tribunal a quo, a decisão foi reformada, para determinar o prosseguimento do feito no juízo de origem. O valor da causa foi fixado em R$ 52.310,25 (cinquenta e dois mil e trezentos e dez reais e vinte e cinco centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. COMPETÊNCIA. JEFAZ. Recurso interposto contra decisão que determinoua redistribuição do processo ao Anexo do Juizado Especialda Fazenda Pública, para que a ação passasse a tramitarsegundoo ritoespecialda Leinº 12.153/09.
+Admissibilidade do agravo de instrumento. Aplicação da tese da taxatividade mitigada do rol do art. 1.015 do CPC, fixada pelo C. STJ no julgamento do Tema Repetitivo 988.
+Questão controvertida que demanda a realização de prova pericial complexa, inclusive já determinada nos autos de origem, o que é incompatível com o rito sumaríssimo do Juizado Especial da Fazenda Pública (JEFAZ). Precedentes da C. Câmara Especial deste E. Tribunal de Justiça.
+Manutenção do feito perante a Vara da Fazenda Pública.
+Decisão reformada. Recurso provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
