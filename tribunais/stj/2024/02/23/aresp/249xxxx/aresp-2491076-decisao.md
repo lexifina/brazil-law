@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto por SAULO RODRIGO SANTOS NASCIMENTO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado c om apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"ROUBOS IMPRÓPRIOS - CONFIGURAÇÃO. MATERIALIDADE E AUTORIA COMPROVADAS. DECLARAÇÕES DAS VÍTIMAS CORROBORADAS PELOS DEPOIMENTOS DOS GUARDAS CIVIS MUNICIPAIS. RÉU REVEL - DESCABIDA A DESCLASSIFICAÇÃO PARA FURTO - CONDENAÇÃO MANTIDA. PENAS E REGIME PRISIONAL - BASES NOS MÍNIMOS - REINCIDÊNCIA ESPECÍFICA. PERÍODO DEPURADOR NÃO ATINGIDO. ACRÉSCIMO NO COEFICIENTE DE 1/5. RAZOABILIDADE - CONCURSO FORMAL (1/6) - REGIME INICIAL FECHADO - INVIÁVEL A SUBSTITUIÇÃO (LA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS (CP, ARTIGO 44, I) - APELO DEFENSIVO DESPROVIDO. RECURSO MINISTERIAL PROVIDO PARA MAJORAR AS PENAS."
+A defesa aponta violação dos artigos 155; 157, §1º; 61, I; 63; 64, I e 33, §2º, "b" e "c" todos do Código Penal.
+Pretende que seja desclassificada a conduta para aquela contida no artigo 155, caput, do Código Penal, qual seja, o delito de furto simples, eis que "a própria vítima afirmou que não houve ameaça no momento dos fatos. Conforme os relatos, as agressões só teriam ocorrido por parte dos ofendidos e o réu, no instinto da autodefesa, teria mordido um deles".
+No mais, pugna pela incidência da agravante da reincidência no patamar de 1/6, conforme jurisprudência desta Corte Superior, uma vez que o recorrente só tem contra si uma condenação anterior.
+Por fim, pontua não ter sido apresentado fundamento idôneo para imposição do regime mais gravoso, sobretudo quando todas as circunstâncias judiciais foram consideradas favoráveis.
+Requer, assim, seja conhecido e provido integralmente o recurso especial.
+Foram apresentadas as contrarrazões (e-STJ, fls. 470-479).
+O recurso foi inadmitido (e-STJ, fls. 482-483). Daí este agravo (e-STJ, fls. 488-493).
+O Ministério Público Federal manifestou-se conhecimento do agravo para dar parcial provimento ao recurso especial, apenas para fixar a fração de 1/6 no incremento punitivo decorrente da presença da agravante da reincidência (e-STJ, fls. 516-520).
+É o relatório.
+Decido.
+A irresignação merece parcial acolhimento.
+No tocante ao pleito desclassificatório, a instância de origem, soberana na análise dos elementos fáticos e probatórios dos autos, assim se manifestou:
+"Da mesma forma, não prospera a almejada desclassificação para o crime de furto, porquanto as vítimas foram claras ao descrever a violência empregada pelo réu a fim de assegurar a detenção da coisa para si ou para terceiro, querendo dizer que o objeto retirado do ofendido não deveria voltar à sua esfera de disponibilidade, caracterizando, dessa forma, o roubo impróprio.
+Guilherme de Souza Nucci, Código Penal Comentado, 18ª ed., 2017, Forense, p. 997.
+Outrossim, conforme se extrai dos depoimentos das testemunhas, o acusado se encontrava em luta corporal com a vítima, quando foi abordado pela viatura, tendo causado lesões "na perna direita no terço proximal posterior" da vítima, conforme laudo pericial de fls 62/63.
+Dessa forma, "se a vítima declara, de forma firme e segura, que sofreu violência ou foi gravemente ameaçada, correta a condenação pelo crime de roubo". (e-STJ, fl. 405).
+Como visto, as provas dos autos demonstram que o recorrente empregou violência para assegurar a posse do bem subtraído, tendo entrado em luta corporal com a vítima, o que resta comprovado inclusive pelas lesões por ela sofridas, conforme atestado em laudo.
+Nesse contexto, a alteração das conclusões a que chegou o Tribunal de origem, a fim de desclassificar a conduta para aquela prevista no art. 155, caput, do Estatuto Repressivo, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, consoante o disposto na Súmula 7 deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se:
+" ..
+2. A Corte de origem, soberana na análise do acervo probatório, concluiu, fundamentadamente, pela suficiência de provas a autorizar um decreto condenatório. Dessa forma, concluir em sentido contrário demandaria a inevitável incursão no acervo probatório dos autos, hipótese vedada pela Súmula 7/STJ.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (AgRg no AREsp 1.279.407/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/06/2018, DJe 29/06/2018).
+" ..
+1. Incabível o exame da irresignação acerca da falta de dolo ou da insuficiência de provas, porquanto a reversão do julgado, para fins de absolvição, demandaria o reexame de matéria fático-probatória, o que é vedado a esta Corte, nos termos do enunciado de Súmula 7/STJ.
+Omissis.
+3. Agravo regimental improvido." (AgRg no AREsp 1.032.750/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018).
+" ..
+2. Para afastar a conclusão das instâncias ordinárias de que a conduta praticada pelo agravante se revestiu da violência necessária para a configuração do roubo e desclassificar o crime para furto simples, seria necessário o revolvimento do suporte fático-probatório delineado nos autos, procedimento vedado nesta esfera, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 726.700/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/11/2015, DJe de 23/11/2015).
+Por outro lado, quanto ao índice de aumento pelo reconhecimento da agravante da reincidência, melhor sorte socorre ao recorrente.
+O Superior Tribunal de Justiça tem decidido que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão das agravantes genéricas, o incremento da pena em fração superior a 1/6 deve ser devidamente fundamentado.
+In casu, o Colegiado a quo justificou a aplicação da agravante na fração de 1/5 diante do fato de o recorrente ser reincidente específico.
+Ocorre que a Quinta Turma deste Superior Tribunal de Justiça passou a adotar o entendimento de que, ostentando o agente apenas uma condenação anterior para fins de reincidência, mostra-se desproporcional o aumento em patamar superior a 1/6, com amparo apenas no fato de se tratar de reincidente específico.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS. POSSE ILEGAL DE MUNIÇÃO. ART. 12 DA LEI N. 10.826/2003. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. CRIME DE PERIGO ABSTRATO. DOSIMETRIA. MAJORAÇÃO NA SEGUNDA FASE. FRAÇÃO DECORRENTE DA REINCIDÊNCIA ESPECÍFICA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A simples conduta de possuir ou portar ilegalmente arma, acessório ou munição é suficiente para a configuração dos delitos previstos nos arts. 12, 14 e 16 da Lei n. 10.826/03, sendo inaplicável o princípio da insignificância. Precedentes.
+3. As penas foram aumentadas em 1/3 em razão da reincidência específica do paciente. Acontece que o atual entendimento desta Quinta Turma é no sentido de que essa especificidade, por si só, não justifica aumento superior a 1/6. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a fração decorrente da reincidência específica mantidos os demais termos do decreto condenatório.
+(HC 434.093/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/4/2018, DJe 24/4/2018).
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO MAJORADO. DOSIMETRIA. MAUS ANTECEDENTES DE UM DOS ACUSADOS. CONDENAÇÃO DEFINITIVA ATINGIDA PELO PRAZO DEPURADOR DO ART. 64, I, DO CP. POSSIBILIDADE. PLEITO DE REDUÇÃO DA FRAÇÃO DE AUMENTO PELA REINCIDÊNCIA. VIABILIDADE. REINCIDÊNCIA ESPECÍFICA DE UM DOS ACUSADOS QUE NÃO ENSEJA O INCREMENTO MAIOR QUE A USUAL FRAÇÃO DE 1/6. PENA REDUZIDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+ ..  - Em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta.
+- A Terceira Seção desta Corte, no julgamento do HC n. 365.963/SP, ocorrido em 11/10/2017, firmou a tese de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do acusado que ostente outra condenação pelo mesmo delito.
+- Hipótese em que o aumento de 1/3, utilizado para agravar a pena do paciente WESLEY na segunda fase da dosimetria, lastreou-se apenas no fato de ser o acusado reincidente específico, argumento que não se alinha à jurisprudência deste Tribunal Superior, motivo pelo qual deve a pena ser agravada, agora, na usual fração de 1/6. Precedentes. - Inalterada a pena corporal, resta prejudicado o pleito de abrandamento do regime prisional do paciente MICHAEL, que teve o regime mais gravoso estabelecido com lastro na presença de circunstância judicial desfavorável, nos termos do art. 33, § 3º, do CP.
+- Apesar de a pena do paciente WESLEY ter sido reduzida a patamar que comporta o regime inicial semiaberto, a sua reincidência e o fato de a pena-base ter sido estabelecida acima do mínimo legal impedem o abrandamento do regime, nos termos do art. 33, § 3º, do CP. - Habeas corpus não conhecido. Ordem concedida ex officio, apenas para reduzir as penas do paciente WESLEY para 7 anos, 3 meses e 3 dias de reclusão e 16 diasmulta, mantidos os demais termos da condenação."
+(HC 375.914/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/10/2017, DJe 24/10/2017).
+Por fim, conforme se verifica, o Tribunal de origem validamente considerou a reincidência do acusado para justificar o regime mais grave, consoante autoriza o art. 33, §§ 2º e 3º, do Código Penal, não havendo ilegalidade neste particular.
+A propósito:
+" ..  5. Mantida a sanção corporal em patamar superior a 4 anos e verificada a reincidência do paciente, o regime inicial fechado é o cabível para o cumprimento da pena reclusiva, nos exatos termos dos arts. 33, § 2º, "a", do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a atenuante de confissão espontânea, resultando a sanção final do paciente em 5 anos e 6 meses de reclusão, em regime fechado, mais pagamento de 550 diasmulta."
+(HC 526.484/SP, de minha relatoria, QUINTA TURMA, julgado em 01/10/2019, DJe 07/10/2019).
+" ..  4. Diante da reincidência da Paciente, estabelecida a reprimenda final em 7 (sete) anos, 11 (onze) meses e 8 (oito) dias de reclusão, inexiste ilegalidade na fixação do regime inicial fechado, conforme jurisprudência desta Corte, sendo inviável também a substituição da pena privativa de liberdade por restritivas de direitos, por ausência de requisito objetivo.
+5. Agravo regimental desprovido."
+(AgRg no HC 495.325/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/08/2019, DJe 02/09/2019).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b" e "c", do Regimento Interno do STJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de fixar a fração de 1/6 para aumento da pena em razão da reincidência.
+Publique-se. Intimem-se.
+EMENTA
