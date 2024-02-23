@@ -1,0 +1,14 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fls. 145-147 (e-STJ).
+Decido.
+A matéria relativa à violação do art. 155 não foi apreciada pelo acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Acrescento que, conforme a jurisprudência deste Tribunal, o pedido de revisão da decisão de pronúncia está prejudicado. Nesta perspectiva: "o recurso contra a decisão que pronunciou o acusado encontra-se prejudicado, na linha da jurisprudência dominante acerca do tema, quando o recorrente já foi posteriormente condenado pelo Conselho de Sentença" (AgRg no HC n. 810.692/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023 e AgRg no AREsp n. 1.412.819/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 17/8/2021).
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DA SENTENÇA DE PRONÚNCIA E DA CONDENAÇÃO. PROVAS ORIUNDAS DE TESTEMUNHOS INDIRETOS. TEMA NÃO DEBATIDO PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. CONCLUSÃO DO TRIBUNAL DE ORIGEM DE QUE A CONDENAÇÃO EMBASOU-SE EM PROVA JUDICIALIZADA. AUSÊNCIA DE SIMILITUDE FÁTICA COM O RECURSO ESPECIAL MENCIONADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os temas relativos à nulidade da sentença de pronúncia ou da condenação, por violação ao art. 155 do Código de Processo Penal, não foram objeto de julgamento no acórdão impugnado, o que impede seu conhecimento diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+2. Embora o Tribunal de origem não tenha debatido a tese de violação ao art. 155 do Código de Processo Penal, extrai-se da leitura do acórdão que a conclusão da Corte de origem é de que a condenação está de acordo com as provas dos autos, dentre elas o depoimento prestado em audiência pela testemunha ocular, tia da vítima, prova essa judicializada. Portanto, não há se falar em similitude fática com o caso julgado no REsp n. 1.916.733/MG. Aliás, no julgamento do citado recurso especial adotou-se o entendimento de que se "o Tribunal de origem encontrar alguma prova judicializada idônea para manter a conclusão dos jurados quanto a cada elemento essencial do crime, a condenação permanece incólume."(REsp n. 1.916.733/MG, de minha relatoria, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021.) 3. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 817.200/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
