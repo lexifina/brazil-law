@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de petição apresentada por INTERSERVICE ADMINISTRAÇÃO DE IMÓVEIS PRÓPRIOS E PARTICIPAÇÕES LTDA requerendo a concessão de tutela provisória para conceder efeito suspensivo ao recurso especial nº REsp 1912502/SP interposto contra v. Acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO.
+Negativa de processamento do apelo dos agravantes, sob o fundamento de que não foi recolhido o preparo, de forma tempestiva.
+Longeva discussão instaurada acerca da possibilidade de isenção, parcelamento ou diferimento quanto ao recolhimento do preparo.
+Expressiva importância integral e tempestivamente realizada, uma vez indeferida a atribuição de excepcional efeito suspensivo aos recursos especial e extraordinário interpostos pelos aqui agravantes. Inequívoco interesse quanto ao efetivo exercício do duplo grau de jurisdição. Ausente, lado outro, o recolhimento da taxa de porte e remessa dos autos físicos; o que deverá ser previamente regularizado. RECURSO PROVIDO, com observação." (fl. 41)
+Nas razões do recurso especial, a recorrente aponta violação ao art. 1007, §2º, 4º e 5º do Código de Processo Civil de 2015, sustentando, em síntese, que o preparo da apelação interposta pelos recorridos não foi efetuado no tempo correto e, portanto, deve ser decretada a deserção do recurso.
+Perante esta eg. Corte Superior, a requerente apresenta o presente pedido de tutela provisória, visando à concessão de efeito suspensivo ao aludido recurso especial. Afirma, para tanto, a existência de fumus boni iuris pois "são reais e objetivas as chances de provimento do recurso especial, uma vez que está fartamente demonstrada nas razões recursais a violação a dispositivos de lei federal, diante da ausência do recolhimento do preparo em tempo hábil".
+Acerca do periculum in mora, argumenta que, "a apelação dos recorridos está prestes a ser julgada pelo Tribunal de Justiça de São Paulo".
+Requer, ao final, "seja concedido o efeito suspensivo ao Recurso Especial REsp nº 2106785/SP, conforme requerido, para que sejam obstados, temporariamente, quaisquer andamentos no processo 0044176-22.2004.8.26.0100, especialmente quanto ao julgamento da apelação, em trâmite na 9ª Câmara de Direito Privado do TJSP". (fls. 3-11)
+É o relatório. Decido.
+Acerca da tutela provisória, o Código de Processo Civil de 2015 assim dispõe:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Fazendo-se uma interpretação sistemático-teleológica dos dispositivos legais ora transcritos, pode-se aferir que a concessão de efeito suspensivo a recurso especial, exige a presença concomitante de fumus boni iuris, consistente na plausibilidade do direito invocado no recurso especial, e de periculum in mora, cuja caracterização exige a demonstração de risco de dano irreparável ou de difícil reparação decorrente de eventual demora na solução da causa.
+Na hipótese, verifica-se que o Tribunal a quo consignou que o preparo da apelação foi realizado tempestivamente pelos ora recorridos, mediante os seguintes fundamentos, in verbis:
+"Veja-se, conquanto amplamente discutido se os agravantes fariam ou não jus aos benefícios da gratuidade; se viável seria o pagamento do preparo devido de forma parcelada, ou mesmo o diferimento da providência, o que de relevante se extrai para o deslinde é que foi disponibilizada importância a viabilizar a análise do apelo  e de forma tempestiva, em sentido diametralmente oposto ao vaziamente acenado pela agravada.
+Assim, efetivamente, o é, na medida em que a recolha deu-se imediatamente após a publicação da r. Decisão aqui encartada às fls. 274/5, por força da qual foi indeferido excepcional efeito suspensivo aos recursos especial e extraordinário interpostos pelos aqui também recorrentes." (fls. 42)
+Assim, partindo de uma análise superficial do recurso a que se pretende emprestar eficácia suspensiva, própria desta fase processual, verifica-se a ausência do fumus boni juris, especialmente porque o eg. Tribunal de origem, com fundamento nos documentos juntados aos autos, reconheceu que o preparo da apelação foi realizado tempestivamente.
+Nessas condições, a modificação do entendimento lançado no v. acórdão estadual demandaria, em tese, o revolvimento do conjunto probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+Nesses termos, considerando que, conforme já dito, o deferimento da tutela de urgência para conferir efeito suspensivo a recurso especial somente é possível quando presentes, concomitantemente, o fumus boni iuris e o periculum in mora, ausente um desses requisitos, o pedido não comporta deferimento.
+Ante o exposto, indefiro o pedido, nos termos do art. 288, § 2º, do RISTJ.
+Publique-se.
+EMENTA
