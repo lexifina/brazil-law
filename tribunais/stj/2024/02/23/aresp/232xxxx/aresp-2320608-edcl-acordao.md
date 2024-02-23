@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Messod Azulay Neto, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO CONHECIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. OMISSÃO. REDISCUSSÃO. PREQUESTIONAMENTO. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Sem a demonstração das hipóteses de cabimento (art. 619 do Código de Processo Penal - CPP, e art. 1022, III, do Código de Processo Civil - CPC), a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior.
+2. "Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedentes)" (EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018).
+3. Embargos declaratórios rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração de fls. 754/763 opostos por NILTON LUIS ESPERANCA em face de acórdão proferido pela 5ª Turma que não conheceu do seu agravo regimental, assim ementado:
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃONO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO NO AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ARTIGOS 932, III, E 1.021, § 1º, AMBOS DO CÓDIGO DE PROCESSO CIVIL - CPC/2015. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica dos fundamentos da decisão agravada é requisito para o conhecimento do agravo regimental.
+1.1. No caso em tela, o agravo regimental não impugnou especificadamente o fundamento invocado na decisão monocrática de não conhecimento do agravo em recurso especial.
+2. Agravo regimental não conhecido" (fl. 744).
+A defesa do embargante insurge-se contra o não conhecimento do agravo regimental mediante aplicação do óbice da Súmula n. 182 do Superior Tribunal de Justiça - STJ, invocando violação ao artigo 5º, LV, LIV e XXXIX, da Constituição Federal - CF, bem como ao art. 1º do Código Penal - CP. Afirma que não há dialeticidade recursal, nem razoabilidade, pois a Corte decide de forma "industrial", não sendo compreensível quando será ultrapassado o julgamento monocrático. Passa, então, a tecer considerações a respeito da forma como entende que o direito processual penal é aplicado e sobre a forma como deveria ser. Assevera, por fim, que o acórdão embargado não tem qualquer fundamentação. Que a presença de deficiente fundamentação não foi minimamente comprovada no despacho que inadmitiu o recurso especial. Afirma que cumpriu todos os requisitos recursais, afastando o óbice da Súmula n. 284 do Supremo Tribunal Federal - STF.
+Requer o prequestionamento das normas do art. 5º, LIV e LV, e do art. 93, IX, ambos da CF, com preliminar de presença de repercussão geral, para fins de provimento dos embargos de declaração com provimento do recurso especial ou determinação de seu trâmite.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO CONHECIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. OMISSÃO. REDISCUSSÃO. PREQUESTIONAMENTO. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Sem a demonstração das hipóteses de cabimento (art. 619 do Código de Processo Penal - CPP, e art. 1022, III, do Código de Processo Civil - CPC), a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior.
+2. "Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedentes)" (EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018).
+3. Embargos declaratórios rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+De plano, não se verifica omissão acerca da fundamentação adotada para o não conhecimento do agravo regimental. Foi colacionado trecho da decisão agravada no qual demonstrada a razão pela qual o agravo em recurso especial não foi conhecido. Por seu turno, da leitura da peça do regimental de fls. 688/725, a defesa nada trouxe sobre tal razão, aproveitando-se para tecer outras considerações. Em relação à decisão agravada, limitou-se a afirmar ser seriada e genérica, absolutamente nula, quando, consoante trecho dela reproduzido no acórdão embargado denotou o contrário, pois houve justificativa concreta, embora a defesa não concorde. Assim, concluiu-se pela falta de impugnação específica do fundamento concreto contido na decisão que não conheceu do agravo em recurso especial, razão pela qual o agravo regimental não foi conhecido.
+Em verdade, o embargante pretende a modificação do provimento anterior sem qualquer justificativa apta para afastar o não conhecimento do agravo regimental, o que não se coaduna com a medida integrativa, sequer para fins de prequestionamento. No mesmo sentido, citam-se precedentes:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO EXAME DE PONTOS TRAZIDOS PELA DEFESA EM RESPOSTA PRELIMINAR. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE DE INTEGRAÇÃO DO JULGADO PARA INSERÇÃO DE FUNDAMENTOS, QUANDO AUSENTES VÍCIOS QUE AUTORIZEM O MANEJO DO MEIO IMPUGNATIVO ELEITO.
+ ..
+6. Os Embargos não constituem via própria para fazer prevalecer tese jurídica diferente da que foi acolhida no Acórdão quando, em sua essência e finalidade, não se dirigem à omissão ou outro vício, mas à nova declaração de efeito infringente. Os argumentos de que não foram dissecadas todas as variantes e possibilidades cogitadas pela defesa trazem como consequência a certeza de que pretendem os Embargos a declaração inversa do fundamento jurídico da decisão, o que impede à Corte renovar o julgamento para declarar o que constituiria nova manifestação de mérito em sentido contrário.
+ ..
+14. Aclaratórios que pretendem, em realidade, a modificação do julgado proferido, com nítido conteúdo infringente.
+15. Ausentes os requisitos autorizadores da via integrativa (omissão, contradição, ambiguidade ou obscuridade), a simples pretensão de reexame de provas não tem o condão de viabilizar os Embargos Declaratórios, motivo pelo qual são rejeitados.
+(EDcl na APn 843/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 23/4/2018.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA, SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. PRELIMINAR DE NULIDADE. IMPOSSIBILIDADE DE REALIZAR SUSTENTAÇÃO ORAL. AGRAVO REGIMENTAL EM MATÉRIA PENAL APRESENTADO EM MESA. POSSIBILIDADE. DISPOSITIVO CONSTITUCIONAL. PREQUESTIONAMENTO. IMPOSSIBILIDADE. ATIPICIDADE DA CONDUTA DE LAVAGEM DE DINHEIRO. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. PREJUÍZO NÃO DEMONSTRADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE.
+ ..
+II - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedentes).
+III - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão e contradição no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018. )
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
