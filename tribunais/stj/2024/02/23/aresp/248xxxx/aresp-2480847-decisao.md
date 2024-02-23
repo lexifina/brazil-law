@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado por RUMO MALHA OESTE S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 159):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. COMPETÊNCIA. JUSTIÇA FEDERAL. ART. 109, I, DA CONSTITUIÇÃO FEDERAL. ANÁLISE DO CASO CONCRETO. DNIT E ANTT. AUSÊNCIA DE INTERESSE NADEMANDA SUBJACENTE. MANUTENÇÃO DO DECLÍNIO DE COMPETÊNCIA ÀJUSTIÇA ESTADUAL.
+- Pretende a agravante a reforma da decisão que, em sede de ação de reintegração de posse, registrou a ausência de interesse do DNIT e a ANTT na lide, reconheceu a incompetência da Justiça Federal e, por consequência, determinou que os autos fossem remetidos à Justiça Estadual.
+- A competência da Justiça Federal é determinada em razão da pessoa, ou seja, somente se justifica ante a presença na lide de algum dos entes elencados no art. 109,I, da Constituição Federal. No caso sob exame, o DNIT e a ANTT, além de não integrarem a lide, manifestaram expressamente ausência de interesse na demanda, razão pela qual não resta evidenciada hipótese constitucional a ensejar o reconhecimento de competência da Justiça Federal.
+- Agravo de instrumento desprovido. Agravo interno prejudicado.
+Opostos embargos declaratórios, foram rejeitados (fls. 181/186).
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 8º, I, e 22, ambos da Lei nº 11.483/2007; 82, XVII e § 4º, da Lei nº 10.233/2001; 3º e 29, I, da Lei n. 8.987/95; 98 e 99 do Código Civil. Sustenta, em síntese, que: (I) todos os bens da antiga RFF SA são bens públicos da União e pertencem ao DNIT por força de lei, o qual, portanto, deve participar das ações possessórias nas quais se discute a respeito dos referidos imóveis e (II) evidencia-se o interesse da Agência Nacional de Transportes Terrestres - ANTT, uma vez que cabe a ela o controle patrimonial dos bens operacionais na atividade ferroviária.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. Com efeito, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração.
+Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento:
+ADMINISTRATIVO E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. DEFICIÊNCIA. INCIDÊNCIA, NO PONTO, DA SÚMULA 182/STJ. RECURSO ESPECIAL. OFENSA A PRINCÍPIO JURÍDICO. NÃO CABIMENTO. ART. 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. EXCESSIVIDADE. REDUÇÃO. SÚMULA 7/STJ.
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente fundamento da decisão agravada, incidindo, nesse ponto, a Súmula 182/STJ.
+2. É incabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+3. O Tribunal de origem não se pronunciou sobre a matéria versada no art. 884 do CC, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+4. Em sede de recurso especial, somente é possível a revisão da verba honorária no caso de ter sido fixada em valor irrisório ou excessivo, o que não se verificou na espécie, a atrair a incidência da Súmula 7/STJ.
+5. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp n. 2.059.851/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
