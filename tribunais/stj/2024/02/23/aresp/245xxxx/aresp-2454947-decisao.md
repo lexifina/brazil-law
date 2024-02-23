@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, trata-se de ação declaratória de cobrança de diferenças remuneratórias. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS contra acórdão com o seguinte resumo de ementa:
+AÇÃO DECLARATÓRIA C/C COBRANÇA DE DIFERENÇAS REMUNERATÓRIAS. 1. Ilegitimidade ativa. Preliminar Rejeitada. Suprida a regularização processual coma juntada da documentação pertinente, não há falar em ilegitimidade ativa dos associados da associação autor.2. Incidente de inconstitucionalidade. Desnecessário, no caso, a instauração de incidente de inconstitucionalidade, porquanto, em caso análogo, o Órgão Especial desta Corte declarou a inconstitucionalidade de artigo 6º da Lei nº 19.122/2015, por reconhecer a impossibilidade da alteração da data de pagamento do reajustes dosservidores.3. Reajuste de vencimento. Lei Estadual nº 18.474/2014, modificada pela Lei Estadual nº 19.122/2015. A edição da Lei Estadual nº 19.122/2015, alterando a redação da Lei nº 18.474/2014, a fim de modificar a data de recebimento de reajustes dos subsídios de servidores, foi ulterior à incorporação do referido reajuste ao patrimônio jurídico do autor/apelado, o que configura violação ao direito adquirido e à irredutibilidade salarial.4. Consectários legais. Com o advento da Emenda Constitucional n. 113/2021, o índice a ser utilizado para cálculo dos juros de mora e correção monetária sobre as condenações que envolvam a Fazenda Pública, a partir de 09/12/2021, é a taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic). REMESSA NECESSÁRIA CONHECIDA E PARCIALMENTE PROVIDA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Na mesma esteira, não há falar em ausência de previsão orçamentária, porquanto é sabido que a legislação que disciplinou tal procedimento estava vigente desde o ano de 2014, e somente foi revogada após o início do vencimento das parcelas.
+(..)
+Por outro lado, pertinente aos consectários legais da condenação, a sentença merece reparos.
+(..)
+a partir do dia 09/12/2021, o índice a ser utilizado para cálculo dos juros de mora e correção monetária é a taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic).
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
