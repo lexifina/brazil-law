@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ACORDO EM AÇÃO CIVIL PÚBLICA. REVISÃO DOS TETOS PREVIDENCIÁRIOS.
+Considerando o trânsito em julgado do acordo firmado na ACPnº 0004911-28.2011.4.03.6183, que previu a revisão dos benefícios concedidos entre 5 de abril de 1991 a 1º de janeiro de 2004, que tiveram o salário de benefício limitado ao teto previdenciário na data da concessão, reconhecendo o direito ao pagamento dos atrasados, inexistem razões para impedir o cumprimento definitivo de sentença.
+Os Embargos de Declaração foram rejeitados.
+No Recuso Especial, o INSS alega violação, em preliminar, do art. 1.022, II, do CPC/2015 e, no mérito, dos arts. 502 e 520 do CPC/2015 (467 e 475-I, § 1º, do CPC/1973); 103, parágrafo único, da Lei 8.213/1991; 1º do Decreto 20.910/1932; e 3º do Decreto-Lei 4.597/1942. Quanto à questão preliminar, afirma (fl. 371, e-STJ):
+Especificamente, não foi apreciada pelo E. Tribunal Regional Federal da 4ª Região a tese levantada pela autarquia previdenciária acerca da impossibilidade de promoção do cumprimento definitivo do julgado, uma vez que encontram-se pendentes recursos especial e extraordinário do INSS que debatem, entre outros temas: a) anulação dos capítulos da sentença que excederam o acordo firmado; b) extinção do feito pelo reconhecimento da ilegitimidade ativa; c) eficácia da decisão restrita aos limites da competência territorial do órgão julgador.
+Dessa forma, não apreciou também o E. Tribunal a quo o sentido e alcance dos artigos 502 e 520 do CPC/15 (467 e 475-I, §1º do CPC/73).
+Assevera ainda (fl. 375, e-STJ):
+Considerando que o v. acórdão reconheceu que a sentença homologatória do acordo firmado na ACP nº 0004911-28.2011.4.03.6183 transitou em julgado, para autorizar sua execução definitiva, a prescrição foi interrompida com a citação INSS na ACP, voltando a correr com o trânsito em julgado do capítulo da sentença que homologou o acordo (publicada em 01/09/2011). Não se trata aqui de novo prazo prescricional mas apenas da restituição daquele que havia sido interrompido com o ajuizamento da ACP, pois o prazo prescricional é único, não ocorrendo novação com o trânsito em julgado.
+Assim, o autor teria até 01/09/2016 para promover a execução do julgado.
+Como o presente pedido foi ajuizado somente em 28/09/2022, apura-se que prescreveu a pretensão executória, devendo ser extinto o feito com julgamento do mérito.
+Ora, uma vez reconhecido pelo acórdão recorrido o trânsito em julgado do capítulo da sentença que homologou o acordo, iniciou-se a partir daí o prazo de5 anos para o segurado inaugurar o cumprimento individual da sentença, o que não foi observado no presente caso.
+Ademais, considerando que a normas que regem a prescrição, acima mencionadas, já se encontravam em vigor na data da homologação do acordo e que oCódigo de Processo Civil de 2015 teve sua vigência iniciada em 17.03.2016 (art. 1.045), ao menos a partir desta data passou a correr o prazo prescricional, findando em 17.03.2021. Como a ação foi proposta após esta data, por mais este motivo não merece prosperar o argumento veiculado no acórdão vergastado para obstar o reconhecimento da prescrição.
+A reforma do acórdão recorrido, portanto, é medida que se impõe, a fim de ser reconhecida a prescrição da pretensão executória.
+Contrarrazões às fls. 383-391, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17 de janeiro de 2024.
+De plano, afasto a apontada ofensa ao art. 1.022 do CPC/2015. Não se constatam omissão, obscuridade, contradição ou erro material nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal de origem apreciou o pleito de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, verifica-se que a Corte a quo, ao decidir a controvérsia, deixou consignado (fls. 180-182, grifei):
+A parte apelante pretende executar acordo firmado na ACP0004911-28.2011.4.03.6183. A respeito da questão trazida, permito-me transcrever as conclusões do Des. Federal Sebastião Ogê Muniz, nos autos do AI nº 5034842-68.2020.4.04.0000, julgado, por unanimidade, em 11.09.2020:
+(..)
+Aliás, o próprio INSS já reconheceu o direito de recomposição dos benefícios deferidos a partir de 5.04.1991.
+(..)
+Assim, considerando transitado em julgado o acordo firmado na referida Ação Civil Pública para a revisão dos benefícios concedidos entre 5 de abril de 1991 a 1º de janeiro de 2004, que tiveram o salário de benefício limitado ao teto previdenciário na data da concessão, bem como os benefícios deles decorrentes, inexistem razões para impedir o cumprimento definitivo de sentença em relação a benefícios deferidos nesse período.
+No caso, a DIB da aposentadoria é 28.04.2004. Estando, assim, a DIB fora do período do "buraco negro", em relação ao qual subsiste controvérsia na ACP que embasa o cumprimento de sentença, concluo merecer reforma a decisão recorrida.
+Ainda, anoto que o recorrente está executando a sentença da própria ação civil pública, de forma que não há questionamento sobrea interrupção do prazo prescricional
+Da leitura das razões recursais, constata-se que o INSS não impugnou, especificamente, os fundamentos do acórdão recorrido, mormente quanto a seu benefício estar fora do período de abrangência do acordo homologado na Ação Civil Pública n. 0004911-28.2011.4.03.6183, o que atrai o óbice da Súmula 283/STF, in verbis: "É inadmissível o Recurso Extraordinário, quando a decisão recorrida assente em mais de um fundamento suficiente e o recurso não abrange todos eles". Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL D E SENTENÇA COLETIVA. SERVIDOR PÚBLICO. EXECUÇÃO COLETIVA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. NÃO OCORRÊNCIA DA PRESCRIÇÃO EXECUTÓRIA.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial. Baseou-se a decisão na incidência da Súmula 283/STF.
+2. A fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto.
+Aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." (REsp 925.031/SC, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 5.6.2008; REsp 514.153/RN, Quinta Turma, Rel. Ministro Arnaldo Esteves Lima, DJ de 23.10.2006.)
+3. Ainda que fosse possível superar a incidência da Súmula 283/STF, o recurso não mereceria provimento. No caso, verifica-se que o Tribunal de origem afastou a prescrição após o exame pormenorizado das provas dos autos. Assim, a modificação do entendimento proclamado pela Corte de origem, demandaria, necessariamente, o reexame do conjunto probatório dos autos, o que é inviável em Recurso Especial (REsp 1.726.458/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 25.5.2018).
+4. Consoante pacífica jurisprudência do Superior Tribunal de Justiça, "o ajuizamento de ação de execução coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional, não havendo que se falar em inércia dos credores individuais" (AgInt no AgInt no AREsp 1.074.006/MS, Rel. Ministro Lázaro Guimarães - Desembargador convocado do TRF/5ª Região -, Quarta Turma, DJe de 20.6.2018).
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.983.957/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/5/2022, DJe de 23/6/2022).
+Ademais, o Colegiado originário, após ampla análise do conjunto fático-probatório, consignou a inocorrência do transcurso do lapso prescricional, bem como entendeu pela possibilidade de Execução do título executivo, conforme trecho anteriormente transcrito.
+Logo, tem-se que a revisão da conclusão a que chegou o TRF4, com o objetivo de acolher a pretensão recursal, declarando a inexigibilidade do título executivo e decretando a prescrição das parcelas buscadas na execução, demandaria o reexame dos fatos e provas constantes nos autos, o que é vedado nesta via ante a incidência da Súmula 7/STJ.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à violação do art. 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
