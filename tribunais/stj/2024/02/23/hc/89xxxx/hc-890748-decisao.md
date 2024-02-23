@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de João Victor Santos Barreto - atacando-se o acórdão proferido pelo Tribunal de Justiça de Sergipe (HC n. 202300361264 - fls. 47/54) que manteve a conversão da prisão em flagrante do paciente, ocorrida em 30/12/2023, pela prática, em tese, do crime de tráfico de drogas (1,1 kg de maconha - fl. 44), em preventiva (fls. 43/46 - Autos n. 202388600829, da 2ª Vara Criminal da comarca de Socorro/SE) -, comporta parcial acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar - ao argumento de deficiência de fundamentação do decreto prisional - e a declaração da nulidade probatória decorrente de incursão policial em domicílio, apontando ausência de justa causa e de consentimento do morador.
+Inicialmente, não se conhece da alegação de nulidade probatória decorrente de incursão policial em domicílio, uma vez que não foi analisada pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Outrossim, da atenta análise dos autos, observa-se que o decreto prisional não demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, apenas justificando a medida extrema na quantidade de entorpecente apreendido e em elementos caracterizadores do próprio tipo penal - significativa quantidade de droga apreendida (1100 gramas de maconha), foram encontrados com o conduzido petrechos comumente relacionados à mercancia ilícita de entorpecentes (fl. 44) -, carecendo, assim, de fundamento apto a consubstanciar a prisão.
+Nesse sentido: HC n. 616.996/MG, de minha relatoria, Sexta Turma, julgado em 4/5/2021, DJe 10/5/2021.
+Em razão disso, concedo liminarmente a ordem, em parte , apenas para revogar a prisão preventiva imposta ao paciente nos Autos n. 202388600829, da 2ª Vara Criminal da comarca de Socorro/SE.
+Intime-se o Ministério Público de Sergipe.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (1,1 KG DE MACONHA). ALEGAÇÃO DE NULIDADE PROBATÓRIA DECORRENTE DE INCURSÃO POLICIAL EM DOMICÍLIO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA OU CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL NÃO EVIDENCIADO. AUSÊNCIA DE ELEMENTOS CONCRETOS. FUNDAMENTAÇÃO INSUFICIENTE. REVOGAÇÃO QUE SE IMPÕE.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
