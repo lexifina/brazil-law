@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Ezequiel Julio de Oliveira (ou Ezequiel Julio de Oliveira Albergaria) contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais (HC n. 1.0000.23.348354-4/000 - fls. 203/210), não comporta seguimento.
+Com efeito, busca o recorrente a revogação da segregação cautelar imposta a ele em 17/12/2023, em razão da prática, em tese, do crime de tráfico de drogas (2,96 g de crack - fl. 19), pela 1ª Vara Criminal e da Infância e Juventude da comarca de Ponte Nova/MG (Autos n. 5010981-52.2023.8.13.0521), ao argumento de deficiência de fundamentação: a quantidade ínfima de drogas recolhidas não descarta a configuração de usuário de drogas ou até mesmo a suposta prática de tráfico privilegiado, a denotar a desproporcionalidade da medida de encarceramento prévio (fl. 225).
+Ocorre que, da atenta análise dos autos, observa-se que não se verifica constrangimento quanto à fundamentação do decreto de prisional, pois demonstrado o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a a reiteração delitiva do agente - conforme se extrai do histórico de ocorrência de ID 10140854934, o autor já é conhecido no meio policial pela suposta prática de outras condutas delituosas, a saber: tráfico ilícito de drogas, Reds n. 2023-035592434-001 (suspeito); tráfico ilícito de drogas, Reds n. 2023-015048871-001 (autor); tráfico ilícito de drogas, Reds n. 2022-026174176-001 (autor); e roubo, Reds n. 2022-017358570-001 (fl. 19) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+A propósito: AgRg no HC n. 755.801/SP, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, julgado em 4/10/2022, DJe 7/10/2022.
+Em razão disso, nego seguimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO MANTIDA. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+Recurso a que se nega seguimento.
