@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+AGRAVO INTERNO. IMPROVIDO. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. TEMA 715 DO STF. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. O tribunal de origem negará seguimento ao recurso extraordinário caso o Supremo Tribunal Federal tenha reconhecido a ausência de repercussão geral à matéria debatida, nos termos do §8º do art. 1.035 do Código de Processo Civil, não havendo falar, pois, em usurpação de competência.
+2. Se a questão debatida tem natureza infraconstitucional, a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente  xado no RE 584.608, rel. Min. Ellen Gracie, Dje de 13/3/2009 - Tema 144/STF.
+3. A manutenção da decisão que negou seguimento ao recurso extraordinário com base no Tema 715 do STF é medida que se impõe.
+Aponta a parte recorrente, além de divergência jurisprudencial, violação, no mérito, dos arts. 17, 51, parágrafo único, 485, VI, 502, 505, 507, 508, 1.008, 1.022, II, e 1.026, § 2º, do CPC; 2º-A, caput, da Lei 9.494/1997; e 3º e 11 da Lei 5.010/1966.
+Contrarrazões às fls. 222-226, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24 de janeiro de 2024.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Registre-se, portanto, que a Corte regional examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que os Declaratórios são acolhidos "para efeito de prequestionamento", não é satisfeita tal exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+O TRF4 consignou não ser possível o "elastecimento da jurisdição para alcançar aqueles representados que não o foram em primeira instância", quando do julgamento da Ação coletiva, pois o órgão prolator da sentença executada foi a Subseção Judiciária Federal de Concórdia/SC, a qual não abrange o domicílio do embargante, residente em Abelardo Luz/SC.
+Ressalta-se que, se todos os juízes tem jurisdição, nem todos, porém, se apresentam com competência para conhecer e julgar determinado litígio, pois só o juiz competente tem legitimidade para fazê-lo.
+Assim, não há ausência de jurisdição, mas, sim, de competência territorial do juízo, de forma que os efeitos da decisão prolatada na Ação coletiva alcançam somente os residentes no âmbito da competência do órgão julgador (no caso, da Subseção Judiciária Federal de Concórdia/SC) .
+Por conseguinte, na forma do art. 2º-A da Lei 9.494/1997 e do estabelecido pelo STF no Tema 499, tem-se que o exequente não foi beneficiado pela sentença proferida na Ação coletiva, não havendo falar em preclusão ou que na fase de conhecimento pudesse ser estipulado de forma diversa a abrangência da sentença.
+A via especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como ofendidos caracteriza deficiência de fundamentação, em conformidade com a Súmula 284/STF.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fl. 93):
+No caso, o exequente comprovou que era associado da Associação Catarinense dos Criadores de Suínos (ACCS), conforme a declaração emitida pela ACCS, subscrita pelo presidente da associação (evento 01, DECL5 e ATA6, dos autos orginários), e que possui domicílio no município de Abelardo Luz/SC (evento 01, END4).
+A ação coletiva foi proposta na Subseção Judiciária de Concórdia/SC.
+A e cácia subjetiva da sentença proferida na ação coletiva alcança os  liados residentes no âmbito da jurisdição de Concórdia/SC, a qual abrange os seguintes Municípios: Alto Bela Vista, Arabutã, Concórdia, Faxinal dos Guedes, Ipira, Ipumirim, Irani, Itá, Jaborá, Lindóia do Sul, Passos Maia, Peritiba, Piratuba, Ponte Serrada, Presidente Castelo Branco, Seara, Vargeão e Xavantina, conforme Resolução TRF4 nº 74, de 2004.
+O exequente, portanto, não foi bene ciado pela sentença proferida na ação coletiva, razão por que não está autorizado a promover o cumprimento da sentença no juízo federal de Chapecó/SC, que jurisdiciona seu domicílio.
+Afasta-se a ideia de simples valoração da prova, já que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do REsp pela alínea "a" do permissivo constitucional. A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1.472.530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/10/2014).
+Diante do exposto, conheço parcialmente do Recurso Especial, apenas com relação à violação do art. 1022 do CPC, e, nessa parte, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de orige m, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
