@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual discute a dedutibilidade, da base de cálculo do Imposto de Renda da Pessoa Física - IRPF, dos valores correspondentes às contribuições extraordinárias pagas a entidade fechada de previdência complementar.
+É o relatório. Decido.
+Os REsp n. 2051367/PR, REsp 2050635/CE e REsp 2043775/RS foram afetados à sistemática dos recursos repetitivos para que a Primeira Seção defina tese jurídica a respeito da "dedutibilidade, da base de cálculo do Imposto de Renda da Pessoa Física -IRPF, dos valores correspondentes às contribuições extraordinárias pagas a entidade fechada de previdência complementar, nos termos da Lei Complementar 109/2001 e das Leis 9.250/1995 e 9.532/1997" (Tema 1224).
+Nesse contexto, os autos devem retornar ao Tribunal Regional Federal para que o recurso fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pela Primeira Seção nos precedentes qualificados.
+Cumpre anotar que, somente depois dessa providência, o recurso especial deverá ser encaminhado a este Tribunal Superior para análise das demais questões recursais que, eventualmente, não forem prejudicadas pelo novo julgamento.
+Ante o exposto, determino a devolução dos autos ao Tribunal Regional Federal da 4ª Região, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Fica prejudicado o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPOSTO DE RENDA DA PESSOA FÍSICA. BASE DE CÁLCULO. DEDUÇÃO DE VALORES PAGOS A ENTIDADES DE PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES EXTRAORDINÁRIAS. TEMA A SER DEFINIDO PELA PRIMEIRA SEÇÃO NA SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO À ORIGEM. RECURSO PREJUDICADO.
