@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado pela BREW CENTER CERVEJAS ESPECIAIS LTDA - EPP contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 621):
+Agravo de instrumento - Execução Fiscal Decisão agravada que determinou a penhora de ativos financeiros da empresa-executada - Impenhorabilidade prevista no artigo 833 do Código de Processo Civil que não se aplica aos ativos financeiros de empresa pessoa jurídica - Precedentes - Recurso não provido.
+Os primeiros embargos declaratórios foram rejeitados, com aplicação da multa prevista no art. 1.026, § 3º, do CPC, e os segundos não foram conhecidos ante a ausência de recolhimento da penalidade anteriormente imposta, nos termos das seguintes ementas (fls. 656 e 681):
+Recurso - Embargos de declaração - Omissão - Inexistência - Rejeição dos embargos, com aplicação de multa ao embargante.
+Embargos de declaração - Alegação de omissão e/ou contradição - Pressuposto recursal - Determinação judicial para o recolhimento prévio da multa aplicada nos termos do Artigo 1026, § 3º do CPC, sob pena de não conhecimento - Não atendimento - Recurso não conhecido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, 1.022 e 1.026 do CPC. Sustenta, além de negativa de prestação jurisdicional, a inaplicabilidade do art. 1.026, § 3º, do CPC, "porquanto (a) não há falar em oposição de segundos embargos protelatórios; (b) há necessidade de fundamentação e demonstração da hipótese de serem os declaratórios postulatórios, o que não ocorreu in casu; e (c) na remota hipótese de ser considerado protelatórios, há necessidade de, primeiro, aplicar-se o § 2º, do mesmo artigo, que não prevê a necessidade de recolhimento de qualquer valor para apreciação do recurso" (fl. 784).
+Contrarrazões às fls. 792/800.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Da análise detida dos autos, nota-se que o Tribunal de origem rejeitou os segundos embargos de declaração opostos pela ora agravante, com a aplicação direta da multa prevista no § 3º do art. 1.026 do CPC, e não conheceu dos terceiros aclaratórios ante o não recolhimento da penalidade anteriormente imposta, conforme determinação expressa contida no dispositivo de lei invocado, a saber:
+Art. 1.026. Os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso.
+(..).
+§ 2º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa.
+§ 3º Na reiteração de embargos de declaração manifestamente protelatórios, a multa será elevada a até dez por cento sobre o valor atualizado da causa, e a interposição de qualquer recurso ficará condicionada ao depósito prévio do valor da multa, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que a recolherão ao final.
+Pois bem.
+Na esteira da jurisprudência desta Corte, bem como da literalidade do artigo acima transcrito, "apenas na reiteração de embargos de declaração declarados manifestamente protelatórios é que cabe tanto a elevação da penalidade até 10% do valor atualizado da causa quanto a exigência de depósito prévio da multa como condição para a interposição de qualquer recurso" (EREsp n. 1.758.467/SP, relatora Ministra Laurita Vaz, Corte Especial, DJe de 2/10/2023).
+Em igual sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. REITERAÇÃO. NÃO OCORRÊNCIA. MULTA DO ART. 1.026, § 3º, DO CPC/2015. RECOLHIMENTO PRÉVIO. DESNECESSIDADE. TESE JURÍDICA RELEVANTE. AUSÊNCIA DE PRONUNCIAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE. RETORNO DOS AUTOS. DECISÃO MANTIDA.
+1. É firme a jurisprudência do STJ no sentido de que a interposição de qualquer recurso somente se condiciona ao pagamento da multa prevista no art. 1.026, § 3º, do CPC/2015 no caso da segunda interposição de embargos de declaração reputados protelatórios.
+2. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.757.331/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Sendo assim, merece reparos o acórdão recorrido quanto à aplicação direta da multa no patamar de 10% sobre o valor atualizado causa, bem como em relação à exigência de depósito prévio do seu valor para o conhecimento do recurso interposto à s fls. 665/674.
+ANTE O EXPOSTO, dou provimento ao recurso especial para reconhecer a impropriedade da aplicação direta da multa prevista no art. 1.026, § 3º, do CPC e, por conseguinte, determinar o retorno dos autos à origem para novo julgamento dos embargos de declaração opostos às fls. 643/647 e 665/674.
+Publique-se.
+EMENTA
