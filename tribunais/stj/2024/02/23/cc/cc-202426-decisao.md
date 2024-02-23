@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Conflito negativo de Competência instaurado entre o Juízo da Vara do Trabalho de Guaraí - TO e o Juízo de Direito da Vara 1ª Escrivania Cível de Itacajá - TO nos autos de Ação de Cobrança.
+Dispensável a manifestação do Ministério Público Federal, tendo em vista pacificação da matéria em julgamento, no STF, de Recurso no rito da Repercussão Geral.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.1.2024.
+Conheço do Conflito, porquanto envolve juízos vinculados a Tribunais diversos, de acordo com o disposto no art. 105, I, "d", da Constituição Federal.
+Cuida-se de Ação de Cobrança ajuizada, perante a Justiça comum, pelo Sindicato dos Enfermeiros no Estado de Tocantins - SETO contra o Município de Itacajá - TO. Seu objeto é repasse das contribuições sindicais (imposto sindical) referentes ao ano de 2017, descontadas dos trabalhadores do Município, sob o regime estatutário.
+A Primeira Seção do STJ, a partir do julgamento do AgRg no CC 135.694/GO (Rel. Ministro Sérgio Kukina, DJe 17.11.2014, transitado em julgado em 9.2.2015), firmou o entendimento de que, nos termos do art. 114, III, da Constituição Federal de 1988, com a redação dada pela Emenda Constitucional 45/2004, compete à Justiça do Trabalho processar e julgar as ações relativas à cobrança de contribuição sindical de agentes públicos estaduais com vínculo celetista ou estatutário. Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. CONTRIBUIÇÃO SINDICAL DE SERVIDORES PÚBLICO. HIPÓTESE LEGAL PREVISTA NO ART. 114 DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE PARA PROCESSAR E JULGAR A PRESENTE DEMANDA A JUSTIÇA TRABALHISTA.
+1. A jurisprudência da Primeira Seção, a partir do julgamento do AgRg no CC 135.694/GO (Rel. Ministro SÉRGIO KUKINA, DJe 17.11.2014, transitado em julgado em 9.2.2015), firmou o entendimento de que, nos termos do art. 114, III, da Constituição Federal de 1988, com a redação dada pela Emenda Constitucional 45/2004, compete à Justiça do Trabalho processar e julgar as ações relativas à cobrança de contribuição sindical de agentes públicos estaduais, com vínculo celetista ou estatutário.
+2. Conflito de Competência conhecido para declarar competente o Juízo da Vara do Trabalho de Posse - GO.
+(CC 163.185/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 20/3/2019)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA DO TRABALHO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. CONTRIBUIÇÃO SINDICAL DE SERVIDORES PÚBLICOS MUNICIPAIS. ART. 114, III, DA CF/1988 COM REDAÇÃO DADA PELA EC 45/2004. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES.
+1. Conflito Negativo de Competência instaurado entre o Juízo do Trabalho Titular da Vara do Trabalho de Diamantina/MG e o Juízo de Direito da Vara Única da Comarca de Serro/MG, nos autos de Ação de Obrigação de Fazer c/c Cobrança em desfavor do Município de Serro/MG, em que requer o recebimento de contribuição sindical descontada dos servidores públicos municipais.
+2. A 1ª Seção do STJ, a partir do julgamento do AgRg no CC 135.694/GO (Rel. Ministro SÉRGIO KUKINA, DJe 17.11.2014, transitado em julgado em 9.2.2015), firmou o entendimento de que, nos termos do art. 114, III, da Constituição Federal de 1988, com a redação dada pela Emenda Constitucional 45/2004, compete à Justiça do Trabalho processar e julgar as ações relativas à cobrança de contribuição sindical de agentes públicos estaduais, com vínculo celetista ou estatutário.
+3. Conflito de Competência conhecido para declarar a competência do Juízo da Vara do Trabalho de Diamantina/MG, o suscitante.
+(CC 157.264/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 23/5/2018)
+CONFLITO NEGATIVO DE COMPETÊNCIA. CONTRIBUIÇÃO SINDICAL. SERVIDOR PÚBLICO. ART. 114, III, DA CONSTITUIÇÃO FEDERAL. FATO GERADOR QUE DERIVA DA RELAÇÃO DE REPRESENTAÇÃO SINDICAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INDIFERENTE SE TRATAR DE SERVIDOR PÚBLICO COM VÍNCULO CELETISTA OU ESTATUTÁRIO.
+1. As ações em que se discute a contribuição sindical (imposto sindical) de servidor púbico, após o advento da EC n. 45/2004, devem ser ajuizadas na Justiça do Trabalho, indiferente a relação celetista ou estatutária. Precedentes: AgRg no CC 135694 / GO, Primeira Seção, Rel. Min. Sérgio Kukina, julgado em 12.11.2014; AgRg no CC 128599 / MT, Primeira Seção,
+Rel. Min. Assusete Magalhães, julgado em 13.05.2015.
+2. Superados os seguintes precedentes que punham em relevo a relação celetista ou estatutária do servidor com o ente Público: CC 90770/SP, Primeira Seção, Rel. Des. conv. Carlos Fernando Mathias, julgado em 14.05.2008; CC 87829 / GO, Primeira Seção, Rel. Min.Teori Albino Zavascki,
+julgado em 12.09.2007; CC 77650 / SP, Primeira Seção, Rel. Min. Luiz Fux, julgado em 26.09.2007; CC 69025 / SP, Primeira Seção, Rel. Min. Luiz Fux, julgado em 10.10.2007; AgRg no CC 79592 / RS, Primeira Seção, Rel. Min. Eliana Calmon, julgado em 14.11.2007.
+3. Isto porque a Medida Cautelar concedida pelo STF na ADI 3395 MC/DF abrange apenas o art. 114, I, da CF/88 e as causas instauradas entre o Poder Público e seus servidores na discussão de sua relação jurídico-administrativa ou estatutária, o que não é o caso dos autos, pois as demandas onde se discute a contribuição sindical dos servidores públicos são de natureza tributária e ocorrem entre os servidores e as entidades sindicais, entre as próprias entidades sindicais umas contra as outras ou entre as entidades sindicais e o Poder Público. Além disso, o fato gerador da contribuição sindical compulsória (imposto sindical) depende da constatação da representação sindical, matéria exclusiva da justiça laboral, consoante o art. 114, III, da CF/88.
+4. Conflito conhecido para declarar a competência do Juízo da 3ª Vara do Trabalho de São Luís/MA, o suscitante.
+(CC 138.378/MA, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 14/09/2015)
+Ante o exposto, conheço do Conflito de Competência para declarar competente o Juízo da Vara do Trabalho de Guaraí - TO , o suscitante.
+Publique-se.
+Intimem-se.
+EMENTA
