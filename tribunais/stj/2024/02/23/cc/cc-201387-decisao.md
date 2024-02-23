@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO FEDERAL DA 7ª VARA DE ARACAJU - SJ/SE, suscitante, e o JUÍZO FEDERAL DA 1ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, suscitado.
+O Juízo Federal da 1ª Vara Criminal de São Paulo - SJ/SP determinou a remessa dos autos n. 5002655-18.2020.4.03.6181 à Seção Judiciária de Sergipe - SE, ao argumento de que o delito sob investigação, tipificado no art. 171, § 3º, do Código Penal, seria conexo a outros ilícitos cuja apuração teria tramitado naquele juízo (fl . 32).
+O Juízo Federal da 7ª Vara de Aracaju - SJ/SE, por sua vez, suscitou conflito de competência. Alega, com fundamento na Súmula n. 235, STJ, que a conexão apontada pelo juízo suscitado não determina a reunião dos feitos, pois os processos que tramitaram na Seção Judiciária de Sergipe já teriam sido julgados (fls. 5-9).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo Federal da 7ª Vara de Aracaju - SJ/SE (fls. 83-86).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a Tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme relatado, o Juízo Federal da 1ª Vara Criminal de São Paulo - SJ/SP acolheu manifestação da Procuradoria da República em São Paulo para declinar da competência e determinar a remessa dos autos à Seção Judiciária de Sergipe com fundamento na existência de conexão do ilícito investigado com crimes já processados no Juízo Federal da 7ª Vara de Aracaju - SJ/SE.
+Entretanto, conforme esclarecido pelo juízo suscitante, os crimes conexos apontados pelo magistrado da Vara Federal de São Paulo que, em tese, determinariam a reunião dos processos, já foram julgados. Confira-se (fl. 3):
+"A apuração dos fatos referentes à "Operação Natividade" foram objeto da Ação Penal nº. 0800060-70.2017.4.05.8502 e outras, todas, repito, todas, já julgadas há anos, o que faz incidir a Súmula 235 do STJ: "A conexão não determina a reunião dos processos, se um deles já foi julgado".
+De fato, conforme andamento processual juntado às fls. 41-64, a ação penal n. 0800060-70.2017.4.05.8502, citada pelo juízo suscitante no trecho acima transcrito, foi julgada no ano de 2017.
+Consoante dispõe a Súmula n. 235, STJ, "a conexão não determina a reunião dos processos, se um deles já foi julgado". Na espécie, embora o juízo suscitado tenha alegado a existência de relação entre a conduta investigada e outros crimes já apurados pelo juízo suscitante, tal conexão não implica reunião dos processos, uma vez que os delitos indicados já foram julgados.
+Nesse sentido:
+"1. A Súmula n. 235 do Superior Tribunal de Justiça dispõe que " a  conexão não determina a reunião dos processos, se um deles já foi julgado." Embora o Enunciado tenha origem em feitos de natureza cível, é pacífico o entendimento de que a sua orientação também é aplicável aos processos penais.
+ ..
+3. Havendo sentença prolatada quanto ao delito conexo, a competência para julgamento do delito remanescente deve ser aferida isoladamente." (CC n. 193.005/MG, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 15/2/2023)
+""Havendo o julgamento de um dos processos, inviável a reunião dos feitos ainda que fosse reconhecida a conexão, consoante o disposto no verbete 235 da Súmula deste Superior Tribunal de Justiça" (AgRg no HC n. 499.179/TO, relator Ministro Jorge Mussi, Quinta Turma, julgado em 23/4/2019, DJe de 7/5/2019.)" (AgRg no HC n. 844.278/DF, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/10/2023)
+"De mais a mais, não há como se pleitear a reunião de processos conexos quando um deles já foi julgado, por força do disposto na norma do art. 82 do CPP e na Súmula n. 235 do STJ In casu, o Juízo Federal indicado como prevento já havia proferido sentença confirmada pelo Tribunal Regional Federal mais de 3 (três) anos antes do recebimento da denúncia oferecida contra o paciente, acusando-o de tráfico de drogas e de associação para o tráfico. (AgRg nos EDcl no RHC n. 81.629/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/10/2019)
+Assim, tendo em vista que, no presente caso, a existência de conexão não acarreta a reunião de processos, prevalece a competência do Juízo Federal de São Paulo.
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara Criminal de São Paul o - SJ/SP, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. CRIME DE ESTELIONATO. CONEXÃO DOS FATOS COM DELITOS JULGADOS. REUNIÃO DOS PROCESSOS. IMPOSSIBILIDADE. SÚMULA N. 235, STJ. PRECEDENTES.
