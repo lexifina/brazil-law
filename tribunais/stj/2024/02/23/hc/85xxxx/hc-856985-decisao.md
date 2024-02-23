@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de CLEITON DA SILVA contra acordão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferido no julgamento da Apelação n. 0002816-40.2017.8.24.0090.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 600 dias-multa, como incurso no art. 33, caput, c/c o art. 40, inciso VI, ambos da Lei n. 11.343/2006 (tráfico de drogas).
+O Tribunal a quo negou provimento ao recurso da defesa nos termos da seguinte ementa:
+"APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS COM ENVOLVIMENTO DE ADOLESCENTE (ART. 33, CAPUT, C/C ART. 40, INC. VI, AMBOS DA LEI N. 11.343/06). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+MÉRITO. PEDIDO ABSOLUTÓRIO POR AUSÊNCIA DE PROVAS. TESE RECHAÇADA. AUTORIA E MATERIALIDADE CARACTERIZADAS. APELANTE PRESO EM FLAGRANTE POR TRAZER CONSIGO E TRANSPORTAR SUBSTÂNCIAS ENTORPECENTES ILÍCITAS. APREENSÃO DE 1.689 (UM MIL SEISCENTOS E OITENTA E NOVE) COMPRIMIDOS DE MDA. NARCOTRAFICÂNCIA DEVIDAMENTE COMPROVADA. EFICÁCIA, OUTROSSIM, DOS DEPOIMENTOS DOS POLICIAIS ENVOLVIDOS NA OCORRÊNCIA. PRESUNÇÃO DE ATUAÇÃO PROBA DOS AGENTES DE SEGURANÇA PÚBLICA. VERSÃO DEFENSIVA ISOLADA E CARENTE DE COMPROVAÇÃO. CONDENAÇÃO MANTIDA.
+PLEITO DE AFASTAMENTO DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INC. VI, DA LEI DE DROGAS (ENVOLVIMENTO DE ADOLESCENTE). TESE RECHAÇADA. INEQUÍVOCA PARTICIPAÇÃO DE INIMPUTÁVEL NA DINÂMICA DELITIVA. EXASPERAÇÃO MANTIDA.
+HONORÁRIOS RECURSAIS AO DEFENSOR DATIVO. TRABALHO REALIZADO NESTE GRAU DE JURISDIÇÃO. ARBITRAMENTO DE ACORDO COM OS CRITÉRIOS DA RESOLUÇÃO N. 16/2021, DO CONSELHO DA MAGISTRATURA DESTE TRIBUNAL DE JUSTIÇA.
+RECURSO CONHECIDO E DESPROVIDO" (fls. 518/519).
+Os impetrantes alegam que o defensor nomeado não foi intimado pessoalmente da inclusão da apelação em pauta e do resultado do julgamento, conforme determina o art. 370, § 4º, do Código de Processo Penal - CPP.
+Também alegam que a condenação considerada como reincidência transitou em julgado após a prática do delito em questão, devendo, assim, ser afastada a agravante, com a consequente aplicação do § 4º do art. 33 da Lei de Drogas e a modificação do regime prisional.
+Requerem, em liminar e no mérito, a nulidade do acórdão e do trânsito em julgado.
+Indeferido o pedido de liminar (fls. 597/599) e prestadas as informações (fls. 604/638), o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 642/652).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+"O art. 5º da Lei n. 11.419/2006 e o art. 21 da Resolução n. 185/2013 do Conselho Nacional de Justiça esclarecem que, nos processos judiciais eletrônicos, a intimação dos atos processuais se aperfeiçoa com a consulta eletrônica realizada pela parte, que deve ocorrer em até dez dias corridos, contados a partir da data de envio da comunicação. Tal previsão tem aplicação inclusive às entidades que gozam da prerrogativa de intimação pessoal, tal como a Defensoria Pública e os defensores dativos. Caso a consulta não ocorra dentro do prazo de dez dias corridos, considerar-se-á intimada a parte, automaticamente, ao término do prazo" (AgRg no HC n. 753.186/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2023).
+Sobre o tema:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. DEFENSORIA PÚBLICA. AUSÊNCIA DE INTIMAÇÃO PESSOAL. INTIMAÇÃO PELO PORTAL ELETRÔNICO. INEXISTÊNCIA DE NULIDADE. 2. INTIMAÇÃO PARA APRESENTAR CONTRARRAZÕES. IRRELEVÂNCIA. CIÊNCIA EFETIVA DA DECISÃO. ART. 798, § 5º, "C", DO CPP. PRECEDENTES. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Eventual ausência de intimação pessoal não revela qualquer irregularidade, uma vez que "esta Corte Superior é firme no entendimento de que, nos processos eletrônicos, a intimação da Defensoria Pública se aperfeiçoa com a consulta aos autos virtuais, considerada tácita após o prazo de 10 dias da intimação eletrônica.
+(AgRg no HC n. 720.369/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022.) 2. Relevante consignar que, embora a intimação tenha se dado com a finalidade de apresentar contrarrazões, houve efetiva intimação, momento a partir do qual a Defensoria Pública foi formalmente cientificada da decisão, nos termos do art. 798, § 5º, alínea "c", do Código de Processo Penal, iniciando-se, portanto, o prazo recursal, o qual não foi observado.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 764.327/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTIMAÇÃO PESSOAL. ACÓRDÃO DA APELAÇÃO. DESNECESSIDADE. DEFESA DEVIDAMENTE INTIMADA. INTIMAÇÃO ELETRÔNICA. DEFENSORIA PÚBLICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte entende que não é obrigatório que o acusado seja intimado pessoalmente do acórdão que julgou a apelação, sendo suficiente a intimação da defesa, conforme ocorreu na hipótese dos autos. Precedentes.
+2. "O art. 5º da Lei n. 11.419/2006 e o art. 21 da Resolução n. 185/2013 do Conselho Nacional de Justiça esclarecem que, nos processos judiciais eletrônicos, a intimação dos atos processuais se aperfeiçoa com a consulta eletrônica realizada pela parte, que deve ocorrer em até dez dias corridos, contados a partir da data de envio da comunicação. Tal previsão tem aplicação inclusive às entidades que gozam da prerrogativa de intimação pessoal, tal como a Defensoria Pública e os defensores dativos. Caso a consulta não ocorra dentro do prazo de dez dias corridos, considerar-se-á intimada a parte, automaticamente, ao término do prazo" (AgRg no HC n. 753.186/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2023). Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 778.302/SP, de minha Relatoria, Quinta Turma, julgado em 2/10/2023, DJe de 4/10/2023).
+Assim, não há flagrante ilegalidade a ser sanada por esta Corte, haja vista que, conforme as informações prestadas pelo Tribunal de origem, "a defensora nomeada à época foi intimada para a sessão de julgamento por meio do Diário da Justiça Eletrônico Nacional disponibilizado no dia 24 de janeiro de 2022 (doc. 4), e do resultado do apelo eletronicamente pelo Sistema EPROC (Evento n. 22)" (fl. 605).
+Por outro lado, verifica-se que o tema referente à suposta inidoneidade no reconhecimento da agravante da reincidência e seus consectários (afastamento minorante do § 4º do art. 33 da Lei de Drogas e agravamento do regime prisional ) não foi submetido à apreciação do Tribunal a quo. Assim, a sua análise, diretamente por esta Corte, acarreta indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. INÉPCIA DA INICIAL. AUSÊNCIA DE LAUDO. NULIDADE DO PROCESSO. PEDIDO DE DECOTE DA REINCIDÊNCIA. TEMAS NÃO ANALISADOS PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. 3. CRIME DE DESCAMINHO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. TRIBUTO SUPERIOR A R$ 10.000,00. INAPLICABILIDADE DO PATAMAR TRAZIDO NA PORTARIA N. 75/2012. 4. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. O pedido de nulidade da ação penal, em virtude da inépcia da denúncia, por eventual ausência do Auto de Infração e Laudo de Exame Merceológico, bem como o pleito de decote da reincidência, não foram previamente analisados pelo Tribunal de origem, ou seja, inexiste pronunciamento da Corte local no acórdão impugnado sobre as questões ora aventadas. Dessarte, não obstante as razões deduzidas na petição inicial, não é possível analisar referidas matérias, sob pena de indevida supressão de instância.
+ ..
+4. Habeas corpus não conhecido.
+(HC 287.997/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/08/2016, DJe 10/08/2016).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
