@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 07 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl.1.514):
+APELAÇÃO Ação ordinária. Complementação de pensão. Beneficiária de funcionário da CESP Companhia Energética de São Paulo que já auferia complementação da aposentadoria. Ilegitimidade passiva da Funcesp e da CTEEP. Entidades que não são dotadas do poder deliberativo quanto à concessão do benefício, ao qual cabe unicamente à Fazenda Estadual. Mérito. Lei Estadual nº 200/73, que extinguiu o direito à complementação, atende aos requisitos da exceção constitucional. EC nº 103/2019 que não afeta o deferimento de complementação que, para o futuro, a lei vem a extinguir, mantendo-as embora em relação a um contingente residual de pessoal, consistente nos servidores admitidos até a data da vigência da norma revogadora. Constituição Federal que deve ser interpretada globalmente, em vista da dignidade da pessoa humana e valor social do trabalho. Precedentes. Recurso parcialmente provido
+Embargos de declaração rejeitados.
+No recurso especial a parte recorrente alega violação do artigo 6º, §2º do Decreto-Lei. 4.657/1942 e do artigo 926 e 927do CPC/2015- defendendo que o acórdão recorrido deve ser reformado para rejeitar o restabelecimento da complementação da pensão auferida pelo cônjuge aposentado.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Acerca da controvérsia, o acórdão recorrido consignou que (fl. 1517):
+ ..
+No caso dos autos, a Lei nº 200/74 suprimiu por completo as previsões legais que concediam a complementação de aposentadoria e pensão, dentre elas a Lei Estadual nº 4.819/58, que subsidiou o benefício percebido pelo cônjuge da autora. No entanto, o parágrafo único do artigo 1º excetuou os "atuais beneficiários e os empregados admitidos até a data da vigência desta lei", os quais" ficam com seus direitos ressalvados, continuando a fazer jus aos benefícios decorrentes da legislação ora revogada".
+Havendo assim delimitado, em definitivo, o conjunto de servidores que ainda poderiam se beneficiar da complementação e, por conseguinte, os respectivos pensionistas, a Lei em questão atende aos requisitos da exceção constitucional e permite, consequentemente, a concessão do benefício pretendido pela autora.
+Consoante assinalado no V. Acórdão proferido no julgamento do agravo, na leitura de emendas à Carta Constitucional, há de se rememorar que esta inclui entre os fundamentos da República a dignidade da pessoa humana (art. 1º, III) e o valor social do trabalho (art. 1º, IV, primeira parte); que arrola, entre seus objetivos, a construção de sociedade livre, justa e solidária, assim como a promoção do bem de todos (art. 3º, I e III); e que ao reconhecer como direitos sociais, além daqueles previstos em seu art. 6º, as garantias listadas no art. 7º, assinala que o faz sem prejuízo de se conferirem a trabalhadores direitos outros que visem à melhoria de sua condição social.
+Nessa perspectiva, a interpretação da Constituição, que há de ser feita globalmente, não pode se apartar do núcleo valorativo da Carta havendo, ao revés, de ter em mente o imperativo de promover a condição social de trabalhadores e seus dependentes, apresentando-lhes a face solidária, justa e compassiva da ordem social e reconhecendo, no trabalho irrevogavelmente já efetuado, a dignidade de ter concorrido para a realização do interesse público.
+ ..
+Extrai-se do acórdão recorrido que a controvérsia relativa à concessão do benefício pretendido foi dirimida com fundamento constitucional, qual seja, EC nº 103/2019, além dos artigos 1º, III; 3º, I e III; 6º e 7º da Constituição Federal de modo que não viável o conhecimento do recurso especial sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. ACÓRDÃO RECORRDO ASSENTADO EM FUNDAMENTAÇÃO CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
