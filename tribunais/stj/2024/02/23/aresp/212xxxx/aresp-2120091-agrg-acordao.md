@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO PRESENTE AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica dos fundamentos da decisão agravada é requisito para o conhecimento do agravo regimental.
+2. No caso em tela, o agravo regimental não impugnou especificadamente os fundamentos invocados na decisão monocrática de não conhecimento do recurso especial. Destaca-se que o recurso especial não foi conhecido quanto às alegadas violações ao art. 320 do Código Penal Militar - CPM, ao art. 439, alíneas "b" e "e" do Código de Processo Penal - CPP, e ao art. 33, II, parágrafo único, do Código Penal - CP, em razão da ausência de prequestionamento da matéria, além da incidência do óbice da Súmula n. 7 deste Sodalício. Já quanto à interposição amparada na alínea "c" do permissivo constitucional, o recurso especial não foi conhecido em razão da ausência de demonstração do dissídio jurisprudencial.
+3. No presente regimental, todavia, a defesa cingiu-se a aduzir que provocou o Tribunal de origem, por meio de oposição de aclaratórios, a se manifestar sobre os pontos omissos, havendo prequestionamento da matéria. No mais, apenas reiterou as razões de seu apelo nobre.
+4. Destarte, a parte não impugnou integral e efetivamente os fundamentos da decisão agravada para o não conhecimento do recurso especial. Aplicável, pois, na espécie, a Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+5. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por FERNANDO DE LIMA JARDIM em face de decisão monocrática de minha lavra, às fls. 2.068/2.074, que, com base nos arts. 932, III, do Código de Processo Civil - CPC e 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça - RISTJ, conheceu do agravo para não conhecer do recurso especial, em razão da ausência de prequestionamento das questões suscitadas, da incidência do óbice da Súmula n. 7 do STJ, e da ausência de demonstração do dissídio jurisprudencial.
+No presente regimental (fls. 2.081/2.102), a defesa cinge-se a aduzir que "houve a devida provocação à Corte Estadual da matéria a ela apresentada em sede de Embargos de Declaração, que é o único instrumento previsto na legislação brasileira, e a teor dos artigos 3º, 315, § 2º e 619 do CPP, 489, § 1º, 927, § 1º, 934, 935 e 1.022, I, II, parágrafo único, II, 1.025 do CPC, a matéria foi devidamente prequestionada, destarte, deve receber o devido conhecimento por parte desse Colendo Superior Tribunal de Justiça" (fls. 2.083/2.084). Alega que o acórdão do Tribunal de origem "feriu de morte" os dispositivos indicados no apelo nobre, além de dar interpretação divergente da atribuída por outro tribunal. No mais, passa a reiterar as razões do seu apelo nobre.
+Requer a reconsideração da decisão agravada ou a submissão do presente agravo regimental ao órgão colegiado, a fim de que, ao final, seja provido o recurso especial para absolver o recorrente ou reduzir a sua pena.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO PRESENTE AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica dos fundamentos da decisão agravada é requisito para o conhecimento do agravo regimental.
+2. No caso em tela, o agravo regimental não impugnou especificadamente os fundamentos invocados na decisão monocrática de não conhecimento do recurso especial. Destaca-se que o recurso especial não foi conhecido quanto às alegadas violações ao art. 320 do Código Penal Militar - CPM, ao art. 439, alíneas "b" e "e" do Código de Processo Penal - CPP, e ao art. 33, II, parágrafo único, do Código Penal - CP, em razão da ausência de prequestionamento da matéria, além da incidência do óbice da Súmula n. 7 deste Sodalício. Já quanto à interposição amparada na alínea "c" do permissivo constitucional, o recurso especial não foi conhecido em razão da ausência de demonstração do dissídio jurisprudencial.
+3. No presente regimental, todavia, a defesa cingiu-se a aduzir que provocou o Tribunal de origem, por meio de oposição de aclaratórios, a se manifestar sobre os pontos omissos, havendo prequestionamento da matéria. No mais, apenas reiterou as razões de seu apelo nobre.
+4. Destarte, a parte não impugnou integral e efetivamente os fundamentos da decisão agravada para o não conhecimento do recurso especial. Aplicável, pois, na espécie, a Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+5. Agravo regimental não conhecido.
+VOTO
+In casu, o agravo regimental não merece conhecimento.
+O agravante não impugna efetivamente os fundamentos utilizados pela decisão monocrática para o não conhecimento do recurso especial.
+Quanto à tese defensiva de suposta contradição do Tribunal de Justiça - TJ na fundamentação da condenação do recorrente (violações ao art. 320 do Código Penal Militar - CPM, ao art. 439, alíneas "b" e "e" do Código de Processo Penal - CPP, e art. 33, II, parágrafo único, do Código Penal - CP), não conheci do recurso especial, em razão da ausência de prequestionamento da matéria. Cita-se o trecho pertinente (grifos nossos):
+"De plano, constata-se ser inviável o conhecimento do recurso especial quanto às alegadas violações ao art. 320 do CPM, ao art. 439, alíneas "b" e "e" do CPP, e art. 33, II, parágrafo único, do CP, em razão de suposta contradição do TJ na fundamentação da condenação do recorrente.
+Verifica-se que a tese referente à contradição não foi enfrentada pelo Tribunal local, muito embora tenha sido instado a tanto em sede de embargos de declaração.
+Assim, o Tribunal não apreciou a alegação defensiva no sentido de que havia fundamentação conflitante nas razões da condenação acerca da experiência do acusado na execução de suas atribuições. Ainda, não examinou a alegação defensiva de que a fundamentação contraditória do acórdão recorrido permitia a conclusão pela existência de culpa e não de dolo.
+Nestas condições, não há outra alternativa que não reconhecer a ausência de prequestionamento quanto à matéria.
+Com efeito, o prequestionamento é requisito indispensável para admissibilidade do recurso especial, sob pena de supressão de instância.
+Reitera-se que o Tribunal a quo, embora provocado, por meio de embargos declaratórios, a se manifestar especificamente sobre a questão acima descrita, não a enfrentou, atraindo, na hipótese, o óbice da Súmula n. 211 do STJ.
+Diante disso, restaria à defesa apontar em seu recurso especial a violação ao art. 619 do Código de Processo Penal - CPP, o que não foi feito. Nesse sentido, citam-se precedentes (grifos nossos):  .. " (fls. 2.070/2.071).
+Por seu turno, no presente regimental, o agravante cinge-se a afirmar que "houve a devida provocação à Corte Estadual da matéria a ela apresentada em sede de Embargos de Declaração, que é o único instrumento previsto na legislação brasileira, e a teor dos artigos 3º, 315, § 2º e 619 do CPP, 489, § 1º, 927, § 1º, 934, 935 e 1.022, I, II, parágrafo único, II, 1.025 do CPC, a matéria foi devidamente prequestionada, destarte, deve receber o devido conhecimento por parte desse Colendo Superior Tribunal de Justiça" (fls. 2.083/2.084).
+Denota-se, pois, que o agravante não impugnou, de fato, a afirmação de ausência de manifestação do Tribunal a quo acerca das teses defensivas. Ainda, não afastou a asserção de que a parte deixou de apontar violação ao art. 619 do CPP, o que seria devido, uma vez que o TJ não sanou as omissões apontadas em embargos de declaração.
+Ademais, a decisão agravada também fez notar que, de toda forma, o exame da pretensão recursal demandaria necessário revolvimento fático-probatório, inviável em face do óbice da Súmula n. 7 do STJ, o que não foi impugnado pela defesa em regimental.
+Por fim, a decisão monocrática também aduziu "ser inviável o conhecimento do recurso especial no tocante à interposição com fundamento na alínea "c" do permissivo constitucional (interpretação divergente dos arts. 80 do CPM e 71 do CP), uma vez que o recorrente não procedeu ao necessário confronto analítico entre os julgados, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil - CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, limitando-se a transcrever as ementas dos acórdãos, contrariamente à determinação contida no § 2º do art. 255 do RISTJ" (fl. 2.073).
+No entanto, no presente regimental, a parte silenciou-se absolutamente sobre a questão, não impugnando, sequer de maneira genérica, o fundamento de não conhecimento exposto pela decisão agravada.
+Com efeito, a parte não impugnou integral e efetivamente os fundamentos da decisão agravada para o não conhecimento do recurso especial.
+Dessa forma, aplicável, a Súmula n. 182 do STJ, a qual dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Tal previsão também consta dos arts. 932, III, e 1021, § 1º, ambos do Código de Processo Civil - CPC.
+A propósito (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+ ..
+2. A ausência de impugnação específica aos fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC; 253, parágrafo único, I, do RISTJ, e da Súmula nº 182 desta Corte, aplicável por analogia.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 2008006/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 7/4/2022.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL
+NÃO CONHECIDO.
+1. Inviável a análise do mérito do recurso especial que não ultrapassou o juízo de admissibilidade.
+2. Não se conhece de agravo regimental que não impugna, especificamente, o fundamento da decisão agravada. Incidência da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 2018698/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 18/3/2022. )
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
