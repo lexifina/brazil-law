@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por Emmanuelle Alves Ferreira da Silva, em que se alega o descumprimento da autoridade da decisão que decretou sua absolvição do crime de estelionato na Ação Penal n. 0022311-45.2018.8.12.0001, da 3ª Vara Criminal da comarca de Campo Grande/MS.
+Alega a reclamante que a ordem de absolvição deveria ter sido cumprida em caráter de URGÊNCIA - desde o dia 24 de janeiro de 2014, a ordem chegou ao conhecimento do Tribunal de Justiça de Mato Grosso do Sul e ao conhecimento da 3ª Vara Criminal a ordem chegou no dia 29 de janeiro de 2024 (documentos anexos-cópia dos autos da ação penal 0022311-45.2018.8.12.0001) - fl. 4.
+Postula, então (fls. 13/14):
+ ..  seja liminarmente atendido o pedido da reclamante sem ouvir a parte reclamada a fim de dar efetividade à ordem judicial emanada desta Corte Superior, confirmando-a no mérito, determinando que: 1) Seja oficiado DIRETAMENTE a autoridade reclamada perante o juízo da 3ª Vara Criminal de Campo Grande/MS para que cumpra IMEDIATAMENTE a ordem concedida no HC n. 841731/STJ2); Sejam oficiadas as autoridades corregedoras do Tribunal Justiça do Mato Grosso do Sul (TJMS), bem como autoridades do Conselho Nacional de Justiça (CNJ)para providências administrativas cabíveis 3) Sejam oficiadas as autoridades do Ministério Público Federal (estrutura do órgão com atribuição para atuar no âmbito das reclamações Federais e do CNJ) para que tomem as providências judiciais cabíveis, vez que, ao menos em tese, evidencia-se crime de desobediência por funcionário público destinatário de ordem judicial e, neste momento, o in dubio pro societate vigora e deve prevalecer, porquanto num Estado Democrático de Direito, inclusive e sobretudo, autoridades, devem obedecer ordens judiciais, por exemplo e respeito à sociedade que certamente assim espera e clama pela eficácia do artigo 5º da CF/88 -todos são iguais perante a lei.  ..
+É o relatório.
+O presente pedido não comporta deferimento.
+Conforme informado pelo Juízo de primeiro grau, os autos não foram devolvidos ao Tribunal para aguardar o trânsito em julgado da decisão que absolveu a reclamante, mas do próprio acórdão proferido pela própria Corte estadual, tendo em vista que os autos se encontram em grau recursal.
+Ademais, o Juízo informou que, tão logo teve este Juízo conhecimento da ordem, informou-a nos autos e determinou, de imediato, a comunicação do julgado às partes para conhecimento e eventuais providências/requerimentos (fls. 56/57).
+Outrossim, contra a decisão que concedeu a ordem em favor da reclamante pendem recursos de embargos de declaração e agravo regimental, não se tratando, ainda, de decisão definitiva.
+Em face do exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. RECLAMAÇÃO. ESTELIONATO. ALEGAÇÃO DE DESCUMPRIMENTO DA DECISÃO QUE RECONHECEU A ATIPICIDADE DA CONDUTA. INFORMAÇÃO DO JUÍZO DANDO CONTA DA COMUNICAÇÃO DO JULGAMENTO. PENDÊNCIA DE AGRAVO E DE EMBARGOS NO STJ. DECISÃO QUE NÃO TEM DEFINITIVIDADE APTA A JUSTIFICAR A RECLAMAÇÃO.
+Inicial indeferida liminarmente.
