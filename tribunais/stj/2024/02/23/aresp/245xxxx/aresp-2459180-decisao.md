@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo manejado pelo ESTADO DO RIO GRANDE DO SUL impugnando decisão que inadmitiu recurso especial, interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 145):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA.
+ICMS. ENERGIA ELÉTRICA. INSTALAÇÃO DE CENTRAL MINIGERADORA DE ENERGIA SOLAR. ENERGIA FOTOVOLTAICA.
+RESOLUÇÃO ANEEL Nº 482/2012. EMPRÉSTIMO GRATUITO À CONCESSIONÁRIA. NÃO INCIDÊNCIA DE ICMS SOBRE A OPERAÇÃO DE RESTITUIÇÃO DA ENERGIA ELÉTRICA AO ESTABELECIMENTO SOB A FORMA DE COMPENSAÇÃO. INCIDÊNCIA DE ICMS EXIGE CIRCULAÇÃO JURÍDICA.
+CABÍVEL O APROVEITAMENTO DOS CRÉDITOS RETROATIVAMENTE AOS ÚLTIMOS CINCO (5) ANOS ANTERIORES À IMPETRAÇÃO.
+PRECEDENTES DO STJ.
+RECURSO DESPROVIDO.
+No recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, o recorrente aponta violação dos arts. 2º e 12, I, da LC n. 87/1996 alegando que a energia elétrica fornecida pela distribuidora à unidade consumidora por compensação da energia excedente produzida pela própria unidade consumidora por microgeração ou minigeração, anteriormente injetada no sistema de distribuição, configura operação passível de incidência do ICMS, sustentando que "ao contrário do que afirmou a v. decisão recorrida, a energia elétrica a ser injetada pelo micro ou minigerador no sistema de distribuição "deixou de pertencer ao seu patrimônio jurídico" (fl. 190). Alega que o acórdão "quando compreende que as operações regidas pelas regras da Resolução nº 485/2012 da ANEEL retratam um mútuo, caiu em evidente contradição, pois no contrato de mútuo, a teor do artigo 587 do Código Civil, há transferência de domínio do bem objeto do empréstimo" (fl. 193).
+Argumenta (fl. 187-191):
+De qualquer sorte, a energia elétrica eventualmente injetada ou disponibilizada pelo micro ou minigerador no sistema de distribuição da distribuidora a que está vinculado é, como já visto, imediatamente consumida face as características físicas da energia elétrica.
+Então, com a mais respeitosa vênia, essa energia não mais "compõe o patrimônio jurídico do consumidor", porque, como corretamente afirmado pelo voto, a energia elétrica é um bem fungível.
+O que micro ou minigerador possui, nos termos Resolução nº 485/2012/ANEEL, artigo 6º, §1º, é um crédito de energia elétrica a ser consumido equivalente a que injetou
+ ..
+E aqui, mais uma vez roga-se vênia para reafirmar que não se está controvertendo sobre a "energia elétrica emprestada de forma gratuita à distribuidora" pelo micro ou minigerador, mas sobre a operação de fornecimento de energia elétrica da distribuidora a ele. Mais precisamente se nesta operação incide ou não ICMS.
+Mais. Como também já demonstrado, a energia elétrica fornecida pela distribuidora ao micro ou minigerador não é aquela que foi anteriormente emprestada, pois tendo "ingressado", "injetada" no sistema de distribuição foi integralmente consumida pelo conjunto de consumidores vinculados à distribuidora, não se cogitando de possibilidade de "armazenamento". Ademais, sobre a afirmação de que esta energia elétrica ainda permanece no "patrimônio jurídico" (e não se disse a que título) do consumidor, é preciso relembrar, a teor do que regula o §1º do artigo 6º da Resolução ANEEL nº 485/2012, que a compensação da energia elétrica injetada no sistema de distribuição com a fornecida ou consumida deste sistema é um evento futuro e incerto, porque inclusive há um prazo para a compensação: 60 meses.
+ ..
+Neste conceito - operação relativa à circulação de mercadorias - está implícita intenção de utilizar-se de expressões desvinculadas de quaisquer negócios jurídicos. Daí, ser incorreto identificar ou vincular a incidência do ICMS a um contrato de compra e venda de mercadoria, ainda que sejam as principais operações. Não há absoluta identidade entre uma e outra operação.
+Quanto à circulação, para o ICMS significa a movimentação econômica da mercadoria, que pode ou não estar vinculada à mudança de propriedade, embora esta seja suficiente para configurar a circulação.
+E não há como se negar que quando a distribuidora fornece energia elétrica aos seus consumidores cativos - condição ostentada pela impetrante, ora recorrida - ocorre uma operação relativa à circulação de mercadoria.
+E inclusive, pode-se afirmar com absoluta tranquilidade, sendo energia elétrica bem fungível e insuscetível de comodato, que, primeiro, quando há a injeção da energia elétrica pelo micro ou minigerador nos sistema de distribuição há uma alteração de propriedade desta energia elétrica; depois, quando a distribuidora fornece "outra" energia elétrica a esse consumidor, há uma nova alteração de propriedade, da distribuidora para o consumidor.
+ ..
+Por fim, saliento que não se cogitaria, hipoteticamente, de incidência de ICMS se a mesma energia elétrica que é produzida pelo estabelecimento chegasse ao poste e retornasse imediatamente à unidade.
+Obviamente, se trata de algo fisicamente impossível de se constatar, porque a circulação de energia é algo dinâmico e instantâneo.":
+Nesse ponto o v. acórdão recorrido chega ao ponto central da discussão, mas infelizmente não consegue vislumbrar a solução correta.
+Partindo de tudo que foi antes dito, parece evidente que o artigo 6º da Resolução nº 485/2012 da ANEEL pretendeu - e disse - que estava regulando um sistema de liquidação de obrigações entre as distribuidoras e seus consumidores ativos que também figuram no sistema como micro ou minigeradores, liquidação que se daria através da compensação.
+Contrarrazões a fls. 203-212.
+Parecer do Ministério Público Federal, a fls. 293-298.
+Sustenta impugnados os óbices aplicados pela decisão de inadmissibilidade.
+É o relatório. Decido.
+O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+A questão foi decidida pelo Tribunal a quo à luz das disposições da Resolução n. 482/2012, da ANEEL, para concluir que a operação de restituição da energia elétrica emprestada, por meio de compensação do crédito gerado pela unidade, não se sujeita à incidência de ICMS, uma vez que não configurada a circulação jurídica da mercadoria, conforme fundamentação assim assim disposta (fls. 139-142):
+Vê-se, do contido nos autos, que a impetrante, em razão de seu alto consumo de energia elétrica em suas atividades, realizou investimento em geração de energia por meio de fonte renovável (fonte solar), e passou a gerar excedente em produção própria. Dessa forma, conforme o regramento da ANEEL, se enquadra no conceito da Geração Distribuída.
+Questiona, então, a tributação de ICMS sobre a compensação da energia excedente produzida por ela, e disponibilizada para as unidades consumidoras (UC) com Geração Distribuída, reconhecendo, acertadamente, a sentença a não incidência (e não isenção, como refere o Estado) de ICMS sobre a operação, uma vez que inexiste circulação de mercadoria na hipótese.
+Esse tipo de operação foi regulamentado pela Resolução nº 482/2012 da ANEEL, a qual "estabelece as condições gerais para o acesso de microgeração e minigeração distribuída aos sistemas de distribuição de energia elétrica, o sistema de compensação de energia elétrica".
+Prevê referida normativa:
+ ..
+III - sistema de compensação de energia elétrica: sistema no qual a energia ativa injetada por unidade consumidora com microgeração ou minigeração distribuída é cedida, por meio de empréstimo gratuito, à distribuidora local e posteriormente compensada com o consumo de energia elétrica ativa; (Redação dada pela REN ANEEL 687, de 24.11.2015.)
+A Constituição Federal preconiza que compete aos Estados e ao Distrito Federal instituir impostos sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior (art. 155, inciso II).
+A chamada circulação de mercadorias em destaque tem a ver com a circulação jurídica, que pressupõe efetivo ato de mercancia, com a finalidade de obtenção de lucro, e a transferência de sua titularidade.
+Desse modo, desimporta o deslocamento para que haja incidência do tributo, cujo fato gerador ocorre com a efetiva circulação jurídica da mercadoria (troca de propriedade).
+Ocorre que a energia elétrica produzida pela unidade consumidora com minigeração, embora circule fisicamente, inclusive podendo ser vendida a terceiros pela distribuidora de energia - a energia que é produzida e emprestada à concessionária, hipoteticamente, não é mesma que será devolvida à unidade -, ainda compõe o patrimônio jurídico do consumidor, uma vez que gera "um crédito em quantidade de energia ativa a ser consumida por um prazo de 60 (sessenta) meses".
+ ..
+Se a unidade consumidora produziu e emprestou energia à concessionária, embora tenha havido a circulação física, esta "energia" (e ponho entre aspas porque o consumidor passa, em verdade, a ter um crédito em quantidade de energia a ser consumida) não deixou de pertencer ao seu patrimônio jurídico.
+Quando da compensação entre a energia consumida pelo estabelecimento e os créditos que a impetrante possui, o que há é a restituição daquilo que foi objeto do mútuo.
+ ..
+E é por isso que a Resolução trata - de forma adequada - a questão como " empréstimo gratuito" e "compensação", pois essa é a forma mais eficiente de levar a cabo a operação, que está fora do espectro de incidência da norma tributária que define o fato gerador de ICMS.
+Pois bem.
+O recurso não atende os requisitos para sua admissibilidade pelos seguintes fundamentos:
+Por um lado, incabível recurso especial, uma vez que a Corte de origem decidiu a controvérsia com fundamente na Resolução n. 482/2012 da ANEEL. Segundo a jurisprudência do STJ, é inviável, em Recurso Especial, a revisão de acórdão fundamentado em resolução, portaria ou instrução normativa. Isso porque, nos termos do art. 105, inciso III, alínea "a", da Constituição Federal, essas normas não se enquadram no conceito de lei federal" (REsp 1.820.381/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/11/2019, DJe de 19/12/2019).
+Cite-se também: "O apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias, instruções normativas ou decretos regulamentares, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inc. III do art. 105 da Constituição Federal" (AgInt no REsp n. 1.924.399/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/5/2023, DJe de 31/5/2023).
+Por outro lado, os dispositivos legais apontados violados não foram objeto de prequestionamento. Aplicação do óbice das Súmulas 282/STF e 356/STF.
+Ante todo o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ICMS. ENERGIA ELÉTRICA. ENERGIA SOLAR. SISTEMA DE COMPENSAÇÃO. ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA COM FUNDAMENTO EM RESOLUÇÃO DA ANEEL, N. 482/2012. ATO NORMATIVO QUE NÃO SE INSERE NO CONCEITO DE LEI FEDERAL. DISPOSITIVOS LEGAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
