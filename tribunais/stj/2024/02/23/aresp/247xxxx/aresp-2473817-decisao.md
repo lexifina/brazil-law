@@ -1,0 +1,31 @@
+DECISÃO
+Na origem trata-se de ação de rito comum ajuizado por JUVENAL LIMA DA SILVA contra o INSS, pleiteando aposentadoria especial. Na sentença julgou-se procedente o pedido para conceder a aposentadoria especial (fl. 255). No Tribunal a quo a sentença foi . O valor da causa foi fixado em R$ .
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. TEMA STJ 995. SISTEMÁTICA DE RECURSOS REPETITIVOS. REAFIRMAÇÃO DA DER. POSSIBILIDADE. CONCESSÃO DE APOSENTADORIA ESPECIAL
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+O Tribunal de origem bem dirimiu a questão jurídica controvertida, sob os seguintes fundamentos:
+ ..
+No caso concreto, não restou comprovado nos autos a efetiva e permanente utilização dos equipamentos de proteção pelo segurado durante a jornada de trabalho, em se tratando de exposição ao agente nocivo ruído, não há falar em descaracterização da especialidade da atividade desenvolvida.
+ ..
+Em sede de embargos de declaração complementou:
+ ..
+No caso concreto, verifica-se que, mesmo após a sentença, a parte autora não acostou documentos comprobatórios de que permaneceu exercendo atividade considerada especial, existindo prova da especialidade somente até a data do formulário juntado às folhas 52-53 (25/01/2010).
+ ..
+E quando do retorno dos autos, após juízo de retratação pelo Tribunal de origem:
+ ..
+No caso concreto, na DER (27/02/2010) a parte autora completou 24anos, 5 meses e 20 dias de labor especial, faltando-lhe 6 meses e 10 dias para alcançar os 25 anos necessários à obtenção da aposentadoria especial. A Turma reconheceu a especialidade do labor na atividade de operador multifuncional no setor de usinagem da Agco do Brasil Comércio e Indústria Ltda. até 25/01/2010, por exposição a ruído superior a 90 dB(A),conforme o PPP - Perfil Profissiográfico Previdenciário (evento 2, OUT3, pp.68/70), e de exame do CNIS verifica-se a continuidade do vínculo empregatício com a empresa até 15/12/2011. Assim, em 07/09/2010, completou a parte autora 25 anos de tempo de serviço especial, fazendo jus, portanto, à concessão do benefício de aposentadoria especial desde então, porquanto ajuizada a ação em16/06/2010.
+ ..
+Quanto aos juros de mora, por sua vez, o STJ, ao julgar o Tema n.º995, determinou que apenas haveria mora do INSS, nos casos de reafirmação da DER para data posterior ao ajuizamento, em caso de não cumprimento da Autarquia da determinação de implantação do benefício, no prazo de 45 dias, incidindo juros moratórios somente a partir de então.
+Até 29-06-2009, já tendo havido citação, deve-se adotar a taxa de1% ao mês a título de juros de mora, conforme o art. 3º do Decreto-Lei n.2.322/87, aplicável analogicamente aos benefícios pagos com atraso, tendo em vista o seu caráter eminentemente alimentar, consoante firme entendimento consagrado na jurisprudência do STJ e na Súmula 75 desta Corte.
+ ..
+Não há violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
