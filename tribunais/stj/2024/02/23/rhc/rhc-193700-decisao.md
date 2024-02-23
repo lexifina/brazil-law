@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, interposto por RAPHAEL ALMEIDA VILELA DE MENEZES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.021442-9/000).
+Consta dos autos que o recorrente foi denunciado em razão da prática do crime previsto no art. 33 da Lei 11.343/06 e art. 2º, §2º da Lei 12.850/13, juntamente com outros oito indivíduos, tendo sido determinado o desmembramento da ação penal em relação a ele, por não ter sido encontrado para notificação para apresentar defesa prévia. Foi expedido mandado de prisão preventiva em seu desfavor.
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 741):
+EMENTA: HABEAS CORPUS-TRÁFICO DE ENTORPECENTES -PRISÃO PREVENTIVA -IDONEIDADE DA FUNDAMENTAÇÃO -PRISÃO NECESSÁRIA PARA A TUTELA DA ORDEM PÚBLICA -RISCO DE REITERAÇÃO DELITIVA -PACIENTE COM CONDENAÇÃO ANTERIOR PELA PRÁTICA DE TRÁFICO DE DROGAS -NECESSIDADE DE GARANTIA DA APLICAÇÃO DA LEI PENAL -PACIENTE EM LOCAL INCERTO E NÃO SABIDO COM MANDADO DE PRISÃO EM ABERTO HÁ MAIS DE CINCO ANOS. 1. A decretação da prisão preventiva se sustenta diante da idoneidade da fundamentação da decisão judicial, que se mostra legítima e suficiente. 2. A prisão preventiva no caso dos autos é necessária para a manutenção da ordem pública, considerando o risco de reiteração delitiva, tratando-se de paciente reincidente específico, com condenação anterior por tráfico de drogas. 3. Necessária a prisão para a garantia da aplicação da lei penal, considerando que o paciente encontra-se em local incerto e não sabido, possuindo mandado de prisão em aberto há mais de cinco anos.
+A defesa alega, em síntese, ausência de fundamentação no decreto de prisão preventiva. Aduz que a motivação atinente ao fato de o recorrente estar em local incerto e não sabido não se sustenta, isso porque consta nos autos que o recorrente possui procurador habilitado desde 11/6/2023. Destaca que há tempos o acusado está fora do contexto criminal, de modo a não ser necessária a imposição da medida constritiva. Ressalta a suficiência das medidas cautelares alternativas.
+Requer, liminar e definitivamente, o deferimento da ordem para que seja revogada a prisão preventiva do recorrente.
+É o relatório.
+Decido.
+O Tribunal de origem, ao examinar o tema, assim consignou (e-STJ fls. 744/745):
+Conforme destacou o decisum, o periculum libertatis restou configurado considerando o histórico criminal do paciente, que ostenta condenação criminal transitada em julgado pela prática do crime de tráfico de drogas, sendo, então, reincidente específico, mostrando-se necessária a segregação cautelar para a garantia da ordem pública, em razão do risco de reiteração delitiva.
+ .. .
+Além disso, observa-se que o acusado encontra-se em local incerto e não sabido, com mandado de prisão em aberto há mais de cinco anos, de modo que a segregação também se faz necessária para a garantia da aplicação da lei penal.
+No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, a fim de coibir a reiteração delitiva, tendo em vista que, conforme destacado pelo Tribunal de origem, trata-se de réu reincidente específico.
+Verifica-se, ainda, a necessidade da custódia a fim de assegurar a aplicação da lei penal, uma vez que, consoante firmado no acórdão impugnado, o recorrente está foragido.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e da aplicação da lei penal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação e tampouco em aplicação de medida cautelar alternativa.
+A propósito, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DO CRIME. QUANTIDADE DE DROGAS. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além da quantidade de droga (apreensão de 3.162,180 g de maconha, bem como 433,210 g de cocaína), o fato de que o agravante é reincidente em crime da mesma natureza e encontra-se foragido.
+Isso confere lastro de legitimidade à manutenção da medida extrema.
+3. Não se revelam suficientes as medidas previstas no art. 319 do Código de Processo Penal, pois eventuais condições pessoais favoráveis do agravante não têm o condão de, por si sós, garantir a revogação de sua prisão preventiva.
+4. Agravo regimental improvido.
+(AgRg no HC n. 651.969/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/6/2021, DJe de 7/6/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO E RÉU REINCIDENTE. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, a prisão cautelar do agravante está fundamentada na garantia da ordem pública, em razão da gravidade concreta da conduta delitiva, em que foram apreendidos com grupo criminoso, do qual supostamente é integrante, "1 fuzil, 1 pistola com seletor de rajadas, aproximadamente R$ 19.000,00 (dezenove mil reais), rádios e bases comunicadores, munições, 42,5 tabletes de substância semelhante à crack, entre outros". Especificamente, com o agravante foram encontrados 2 celulares com registro de furto/roubo, 1 munição calibre 9 mm, 1 bucha de maconha, 1 pino de cocaína e aproximadamente R$ 13.711,00 reais em espécie.
+3. A habitualidade criminosa do agente - que ostenta condenação definitiva por tráfico de entorpecentes - reforça a necessidade da constrição preventiva.
+4. Agravo regimental não provido.
+(AgRg no HC n. 662.071/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/6/2021, DJe de 21/6/2021.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
