@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 14/15):
+HABEAS CORPUS. PACIENTE PRESO PREVENTIVAMENTE PELA SUPOSTA PRÁTICA DO DELITO PREVISTO NO ARTIGO 33, CAPUT, DA LEI 11.343/2006. SUPOSTA NULIDADE DA PRISÃO EM FLAGRANTE SUPERADA PELO DECRETO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE REQUISITOS PARA O DECRETO DA PRISÃO PREVENTIVA. IMPROCEDÊNCIA. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS DEVIDAMENTE DEMONSTRADOS. ALEGAÇÃO DE QUE O PACIENTE É PESSOA DE BOA ÍNDOLE E TEM FAMÍLIA E ENDEREÇOS FIXOS. CONDIÇÕES SUBJETIVAS FAVORÁVEIS DO PACIENTE QUE, POR SI SÓS, NÃO IMPEDEM A PRISÃO CAUTELAR, CASO SE VERIFIQUEM PRESENTES OS REQUISITOS LEGAIS PARA A DECRETAÇÃO DA SEGREGAÇÃO PROVISÓRIA. ALEGAÇÃO DE QUE O PACIENTE SE ENQUADRA NA FIGURA "PRIVILEGIADA" DO TIPO. QUESTÃO A SER EXAMINADA NO DECORRER DA INSTRUÇÃO PROCESSUAL. ORDEM CONHECIDA E DENEGADA.
+O paciente foi preso em flagrante, custódia convertida em preventiva, por tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Sustenta a impetrante que a decisão de prisão preventiva foi baseada em fundamentos genéricos e na gravidade abstrata do delito, bem como que não há razão para manutenção da prisão, já que o paciente é primário, com residência fixa e ocupação lícita.
+Aponta para a possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada prisão preventiva do paciente ou aplicadas medidas cautelares alternativas.
+Deferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pela concessão da ordem.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva do paciente foi decretada nos seguintes termos (fls. 53/54):
+ ..
+"Com efeito, no caso sub oculo, a materialidade delitiva se encontra satisfatoriamente comprovada, representada pelos documentos e depoimentos acostados aos autos.
+No tocante às autorias, há indícios no in folio que apontam para as condutas dos conduzidos, conforme os depoimentos supramencionados.
+Ademais, a pena máxima em abstrato da infração penal supostamente cometida é superior a 04 (quatro) anos, havendo, portanto, pressuposto legal para a conversão dos flagrantes em prisões preventivas, nos termos do art. 313, inciso I, do Código de Processo Penal.
+Diante disso, cabe verificar se há também, na hipótese, alguns dos fundamentos exigidos para a aplicação da cautelar máxima, elencados no caput do art. 312 do Código de Processo Penal.
+Sobre esse ponto, consultando o SCPV, verifico que o conduzido MARCELO SANTOS DE JESUS não ostenta histórico criminal desfavorável registrado junto ao SCPV.
+Todavia, em relação ao conduzido MARCELO SANTOS DE JESUS, o modus operandi narrado nos autos revela, em análise perfunctória, elevado desvalor da ação. Isso porque, segundo o STJ (AgRg no HC 785562/SP), a significativa quantidade de droga apreendida (quase 01 quilo de maconha) é circunstância indicativa de um maior desvalor da conduta em tese perpetrada e da periculosidade concreta do agente, evidenciando a indispensabilidade da imposição da medida cautelar extrema à hipótese, nos termos do art. 315, § 1º, do Código de Processo Penal.  ..
+Em arremate, constatado o fumus comissi delicti e o periculum libertatis, preenchidos os pressupostos e requisitos legais, afigura-se cabível a conversão do flagrante de MARCELO SANTOS DE JESUS em prisão preventiva, nos termos do art. 312, caput, do Código de Processo Penal, a fim de se garantir a ordem pública.
+Quanto a sua substituição por outras medidas previstas no art. 319 do Código, verifico que elas se mostram insuficientes e inadequadas para este caso concreto, fato que só reafirma a necessidade de aplicação da cautelar máxima."
+Por outro lado, as "Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória" (STJ-HC: 708523 SP 2021/0377057-0, Relator: Ministro ANTONIO SALDANHA PALHEIRO, Data de Julgamento: 08/03/2022, T6 - SEXTA TURMA, Data de Publicação: DJe 14/03/2022)
+Como se vê, a prisão preventiva do paciente foi decretada com base na gravidade do crime, em razão da quantidade de droga apreendida, qual seja, 1 kg de maconha.
+Todavia, ao analisar as circunstâncias do caso, verifica-se que o delito não foi praticado mediante emprego de violência ou grave ameaça, o paciente é primário e a quantidade de droga apreendida, apesar de significativa, não é exacerbada a ponto de, por si só, justificar a manutenção da prisão preventiva.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. RELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. PROPORCIONALIDADE. AGRAVO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. Na espécie, a prisão preventiva foi decretada com suporte na quantidade de droga apreendida, a saber, 1kg (um quilograma) de maconha, e na genérica referência à existência de "outros registros em seu nome  do ora agravado ".
+3. Não obstante o agente é primário, não há notícia de envolvimento com organização criminosa e a quantidade de droga apreendida, apesar de ser significativa, não se mostra exacerbada.
+4. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art. 319, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º, todos do Código de Processo Penal, aliado ao fato de o delito não ter sido cometido mediante emprego de violência ou grave ameaça.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 168.158/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Nesse contexto, suficiente é a imposição das seguintes medidas cautelares penais diversas da prisão processual: (a) apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade (informar e justificar atividades); (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado ao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e com outras atividades criminosas, como garantia à instrução e à proteção contra à reiteração criminosa. Deverá ainda fornecer endereço atualizado para os necessários atos de comunicação processual.
+Ante o exposto, concedo o habeas corpus para substituir a prisão preventiva do paciente pelas cautelares menos gravosas acima relacionadas, sem prejuízo de fixação de outras medidas a critério do juízo de primeiro grau, a quem caberá especificar as condições e fiscalizar o cumprimento.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
