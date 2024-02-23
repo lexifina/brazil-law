@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Gessica Ester Berlt, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (HC n. 5075302-04.2023.8.24.0000).
+Consta dos autos que a paciente foi presa em flagrante e denunciada pela prática do delito de furto qualificado (Inquérito Policial n. 5012830-07.2023.8.24.0019).
+Impetrado o writ no Tribunal de origem, a ordem foi denegada.
+Daí a presente impetração, na qual se alega que a fundamentação apresentada é inapta e insuficiente para justificar a prisão preventiva, pois calcada apenas na gravidade abstrata do crime em tese praticado e em ações penais em curso (fl. 8).
+Afirma-se que justificar a prisão preventiva da Paciente pela referência a processos em andamento fere preceitos constitucionais e não é suficiente para mantê-la em segregação cautelar. Assim, a imaginada reiteração delitiva é mero exercício de futurologia (fl. 10).
+Argumenta-se que a prisão antecipada da paciente é medida excessiva e desproporcional, mormente considerando a sua primariedade e o fato de que a res furtiva foi prontamente devolvida para a vítima.
+Defende-se, também, que, considerando que não houve fundamentação idônea que afastasse a aplicação prioritária das cautelares diversas da prisão, conforme determina o § 6º do art. 282 do Código de Processo Penal, necessário o reconhecimento de que tal omissão também enseja a nulidade da decisão (fl. 12).
+Subsidiariamente, assevera-se que a paciente possui o direito à prisão domiciliar, porquanto é genitora de três filhos e se encontra grávida do quarto.
+Requer-se, assim, a concessão da medida liminar para determinar a imediata soltura da Paciente e, ao final, a concessão definitiva da ordem de habeas corpus em favor de GESSICA ESTER BERLT para que se reconheça a ilegalidade da prisão preventiva e se proceda à sua revogação, subsidiariamente, sejam aplicadas, em vez da prisão, medidas cautelares diversas ou prisão domiciliar (fl. 18).
+É o relatório.
+Busca o writ a revogação da prisão preventiva decretada em desfavor da paciente, defendendo, em suma, a ausência de fundamentação válida a justificá-la.
+No caso, o Juízo singular, em audiência de custódia, homologou o flagrante e decretou a custódia preventiva, pelos seguintes fundamentos (fl. 77 - grifo nosso):
+Entendo que os requisitos dos artigos 312 e 313, I, do Código de Processo Penal encontram-se preeenchos, de modo que a conversão da prisão em flagrante em preventiva é a medida mais acertada.
+Com efeito, conforme assinalado pelo ministério Público no ev. 7, as informações constantes dos autos dão conta de que a conduzida, em tese, cometeu o delito em comunhão de esforços com seus genitores, que distraíram a atendente do estabelecimento comercial enquanto a conduzida subtraía o fone de ouvido e o celular, razão pela qual a conduta, em tese, se enquadra naquela prevista no art. 155, § 4º, VI, do Código Penal, que é apenada com reclusão de 2 (dois) a 8 (oito) anos (art. 313, I, do CPP).
+No mais, a certidão de antecedentes criminais do ev. 2 demonstra que a conduzida possui conduta voltada à prática de delitos, já tendo sido condenada em primeiro grau pela prática do delito de tráfico de drogas, além de estar sendo processada pela suposta prática do delito de tentativa de homicídio qualificado.
+Portanto, a segregação mostra-se necessária para garantia da ordem pública, pois a dinâmica dos fatos indica que se está diante pessoa envolvida substancialmente com o crime, sendo forte a possibilidade de que, em liberdade, a conduzida continue a cometer delitos, mostrando-se as medidas alternativas à prisão introduzidas pela Lei n. 12.403/2011 insuficientes para impedir esse prognóstico.
+Assim, a manutenção da segregação é necessária, com vista a acautelar o meio social, garantindo-se a ordem pública.
+Pois bem, não obstante se tratar de crime em que não há violência ou grave ameaça, verifica-se do excerto acima transcrito que há risco concreto de reiteração delitiva, pois, conforme afirmado pelo Magistrado singular, a paciente já foi condenada pelo delito de tráfico de entorpecentes e responde por crime violento, qual seja, tentativa de homicídio qualificado.
+Assim, entendo que ficou demonstrada a periculosidade social da ré, o que justifica a prisão preventiva para garantia da ordem pública, não havendo, assim, qualquer ilegalidade a ser sanada.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Ainda nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. REINCIDÊNCIA E MAUS ANTECEDENTES. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. PANDEMIA DE COVID-19. NÃO COMPROVAÇÃO DE VULNERABILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada pois, segundo a decisão que a impôs, "o indiciado Marcelo ostenta MÚLTIPLA REINCIDÊNCIA ESPECÍFICA POR CRIME DE FURTO E PÉSSIMOS ANTECEDENTES CRIMINAIS PELO MESMO DELITO; o indiciado Wellington, por sua vez, ostenta REINCIDÊNCIA POR RECEPTAÇÃO E MAUS ANTECEDENTES POR ROUBO". Dessarte, evidenciada a periculosidade dos agentes e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Tais circunstâncias também demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+4. No que tange ao risco de contágio pela covid-19, o colegiado de origem destacou que "não há elementos a indicarem que os pacientes preencham quaisquer d os  parâmetros  do grupo de risco ", o que afasta a concessão excepcional da liberdade em razão da pandemia.
+5. Ordem denegada.
+(HC n. 630.367/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/4/2021, DJe 20/4/2021).
+Cumpre salientar que se mostra indevida a aplicação de medidas cautelares diversas da prisão quando evidenciada a sua insuficiência para acautelar a ordem pública (HC n. 446.504/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/6/2018).
+Por fim, quanto ao pleito de prisão domiciliar, além de não debatido pelas instâncias ordinárias, o que configura supressão de instância, não há nos autos documentos que comprovem que a paciente é genitora de três crianças e de um recém-nascido, o que impossibilita o conhecimento do pedido.
+Como cediço, o habeas corpus, ação constitucional de rito célere e de cognição sumária, exige prova consistente e pré-constituída das alegações, a qual deve ser trazida pela impetrante, no momento do seu ajuizamento.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO ALEGADO.
+Ordem denegada.
