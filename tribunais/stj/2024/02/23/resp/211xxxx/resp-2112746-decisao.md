@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo SINDICATO DOS TRABALHADORES NO SERVIÇO PÚBLICO MUNICIPAL DE BRAÇO DO NORTE E REGIÃO com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/SC, assim ementado (fl. 72):
+1) AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA PROPOSTA POR SINDICATO PARA DEFESA DE DIREITOS DE SEUS SINDICALIZADOS AO ADICIONAL DE INSALUBRIDADE. DECISÃO QUE DETERMINOU O ADIANTAMENTO DOS HONORÁRIOS PERICIAIS POR AMBASAS PARTES. PEDIDO DE GRATUIDADE DA JUSTIÇA NOS TERMOS DA LEI FEDERALN. 7.347/1985 (LEI DA AÇÃO CIVIL PÚBLICA) E DA LEI FEDERAL N. 8.078/1990 (CÓDIGO DE DEFESA DO CONSUMIDOR). DIPLOMAS INAPLICÁVEIS AO CASO. DECISÃO DENEGATÓRIADO BENEFÍCIO. EXIGÊNCIA DE COMPROVAÇÃO DA IMPOSSIBILIDADE DO CUSTEIO DAS DESPESAS PROCESSUAIS. DEMONSTRAÇÃO NÃO CARREADA AOS AUTOS. RECURSODESPROVIDO.
+"II - É pacífico o entendimento desta Corte segundo o qual: a) para a concessão dos benefícios da Justiça gratuita às pessoas jurídicas de direitos privado, com ou sem fins lucrativos, é necessária a comprovação da hipossuficiência, não bastando a mera declaração de pobreza; e b) a isenção prevista no art. 87 do Código de Defesa do Consumidor destina-se apenas às ações coletivas de que trata o próprio codex, não se aplicando às ações em que sindicato busca tutelar o direito de seus sindicalizados." (STJ, AgInt no REsp 1.436.582/RS, Relª. Ministra Regina Helena Costa).
+2) AGRAVO INTERNO PREJUDICADO PELA PERDA DO OBJETO ANTE O JULGAMENTO DO MÉRITO DO AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO DO RECURSO.
+Em razões de recurso especial, sustenta ofensa aos artigos 1º, IV e 18 da LACP e dissídio jurisprudencial, defendendo a legitimidade do sindicato para propor ação civil pública em defesa de interesses individuais homogêneos da categoria que representa, bem como a impossibilidade de exigência do pagamento de custas processuais em ação isenta, já que a Lei 7.347/85 é clara ao dispor quanto a dispensa do pagamento das custas processuais nas Ações Civil Públicas, sem qualquer ressalva quanto ao objeto da ação.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 95-96.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Não assiste razão ao Sindicato.
+Com efeito, o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida. Aplica-se à hipótese a Súmula 284/STF.
+Ademais, a inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. ADIANTAMENTO DE HONORÁRIOS PERICIAIS. PEDIDO DE GRATUIDADE DA JUSTIÇA. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
