@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa na Apelação Criminal n. 1.0045.16.002243-5/001.
+Consta nos autos que o Recorrido foi condenado como incurso, por duas vezes, nos arts. 157, §§ 2º, inciso II, e 2º-A, inciso I, na forma do art. 70, ambos do Código Penal, a 11 (onze) anos, 3 (três) meses e 21 (vinte e um) dias de reclusão, em regime inicial fechado, e 180 (cento e oitenta) dias-multa.
+O Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir as penas a 9 (nove) anos, 3 (três) meses e 20 (vinte) dias de reclusão em regime fechado, e 38 (trinta e oito) dias-multa (fls. 474-492).
+Nas razões do recurso especial, o Ministério Público aponta violação do art. 157, § 2.º, inciso I, do Código Penal, com redação anterior à Lei n. 13.654/2018, e do art. 155, caput, do Código de Processo Penal, pois " ..  não se faz necessária a apreensão da arma empregada no delito, tampouco a constatação de sua eficiência e autenticidade para a caracterização da respectiva causa de aumento, sendo suficiente que os elementos de prova delineados no aresto demonstrem a utilização de tal instrumento" (fls. 535-536).
+As contrarrazões foram apresentadas às fls. 585-592.
+O Ministério Público Federal opinou pelo provimento do recurso do Parquet mineiro (fls. 640-643).
+É o relatório. Decido.
+A Corte de origem decotou a majorante referente ao emprego de arma de fogo nos delitos de roubo com apoio nestas razões:
+"Todavia, penso que a majorante do emprego de arma merece ser decotada.
+Cediço que aludida exasperante foi insculpida pelo legislador de molde a agravar a pena, em tais casos, em virtude do aumento do risco objetivo a que ficou submetida a vítima durante o assalto com emprego de arma.
+Quanto ao exame pericial da arma de fogo, não é ele imprescindível para a configuração da majorante, de tal arte que, ainda que ineficaz para propelir projéteis - uso próprio - a arma pode ser impropriamente utilizada, como instrumento contundente ou até mesmo perfurante.
+Demais disso, a arma de fogo é construída para produzir lesão à integridade física, razão pela qual sua potencialidade lesiva é a regra, devendo sua ineficácia - exceção à regra - ser comprovada pelo réu.
+Assim, cuida-se tão só , em hipótese de assalto com emprego de arma, averiguar-se se tal instrumento de agressão era verdadeiro ou não.
+In haec specie, os instrumentos com os quais os agentes praticaram o crime não foram apreendidos.
+Demais disso, nenhum revólver foi disparado, nenhuma pessoa - perita em balística - atestou ser verdadeiro o instrumento utilizado pelos meliantes para intimidar as vítimas.
+Enfim, nenhuma circunstância certificou serem verdadeiras as armas de fogo utilizadas na prática do injusto.
+Noutras palavras, absolutamente nada supriu a não realização do exame pericial faltante.
+Por todo o exposto, não se sabe, através da prova amealhada nos autos, se o instrumento manejado pelos agentes quando da abordagem das vítimas aumentou o risco objetivo a que essas ficaram submetidas durante a execução do assalto, motivo pelo qual decoto a exasperante inserta no art. 157, § 2º-A, I, do CP." (fl. 484-485, com grifos distintos no original)
+Como se sabe, a jurisprudência da Terceira Seção desta Corte Superior é firme no sentido de ser "dispensável a apreensão e a perícia da arma de fogo, para a incidência da respectiva majorante, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como no caso concreto" (AgRg no HC 842317/SP. Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/09/2023, DJe 20/09/2023, sem grifos no original).
+Na espécie, contudo, o acórdão estadual assentou que os elementos de convicção constantes nos autos não seriam suficientes para atestar, com a segurança necessária, que o instrumento do crime tratava-se realmente de uma arma de fogo , motivo pelo qual eventual reversão do julgado, com o objetivo de acolher o pleito de se restabelecer a sentença nesse ponto, exigiria o revolvimento de todo o conjunto fático-probatório em que se ampararam as conclusões das instâncias ordinárias, atraindo a incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido, mutatis mutandis:
+" ..
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet ao acusado pelo delito do art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, CP.
+Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por ausência de prova para a condenação, o afastamento das causas de aumento (concurso de agentes, emprego de arma de fogo e restrição de liberdade da vítima), bem como pela participação de menor importância, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ." (AgRg no AREsp 2345206/SP. Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 15/08/2023, DJe 22/08/2023, sem grifos no original)
+" ..
+2. A Corte originária reconheceu a existência de elementos de prova suficientes para embasar a aplicação da majorante do art. 157, § 2º-A, I, do CP. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a afastar a referida majorante, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 1843257/TO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 28/02/2023, DJe 03/03/2023 , sem grifos no original)
+Ante o exposto, NÃO CONHEÇO d o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ROUBO CIRCUNSTANCIADO. AUSÊNCIA DE APREENSÃO E PERÍCIA DA ARMA DE FOGO. INEXISTÊNCIA DE OUTROS ELEMENTOS PROBATÓRIOS SUFICIENTES PARA O RECONHECIMENTO DA MAJORANTE DO ART. 157, § 2º, INCISO I, DO CÓDIGO PENAL, COM REDAÇÃO ANTERIOR À LEI N. 13.654/2018. INVERSÃO DO JULGADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
