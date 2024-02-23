@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOSE LUCAS AQUINO COSTA desafiando decisão monocrática, de minha lavra, em que deneguei a ordem de habeas corpus (e-STJ fls. 230/248).
+Em suas razões, destaca, inicialmente, o "total silêncio, na decisão de pronúncia quanto à observância integral do disposto no art. 226 do CPP para efeitos de reconhecimento, apontando nitidamente que não houve aquela observância, até porque se tivesse havido, a alusão à a mesma seria um elemento fundamental para escorar a decisão de pronúncia, mesmo sabendo-se da existência de testemunhas sigilosas, pois há meios - sobretudo porta com olho mágico -, que tornariam possível observar aquele dispositivo legal, sem que os acusados, quando do reconhecimento, vissem tais testemunhas" (e-STJ fl. 255).
+Sustenta, ademais, que "a simples afirmação "em face da superioridade numérica de seus algozes" não é hábil à manutenção da qualificadora"" prevista no art. 121, § 2º, inciso IV, do Código Penal (e-STJ fl. 267).
+Por derradeiro, afirma a ausência de fundamentos idôneos para a manutenção da prisão preventiva.
+Diante dessas considerações, pede "seja conhecido e provido o presente Agravo Regimental, a fim de que seja concedida a ordem no Habeas Corpus impetrado, ainda que de ofício, determinando-se, em caráter liminar, a imediata soltura do paciente e a ratificação dessa determinação quando do julgamento de mérito do mandamus, com várias das medidas insculpidas no art. 319 do CPP, as quais, não se olvide, podem ser cumuladas". Além disso, busca "em caráter liminar (e, depois, a ratificação no mérito), a determinação ao juízo a quo de proibição de leitura, por quem quer que seja, quando do julgamento pelo plenário do Júri Popular, da primeira decisão de prisão preventiva, bem como da decisão de pronúncia, ora anexadas ao presente mandamus. Requer, outrossim, quando do julgamento de mérito, seja decretada a nulidade da decisão de pronúncia do Magistrado de piso e ratificada pelo Tribunal a quo por inobservância do disposto no art. 226 do CPP, inclusive tendo-se em atenção a jurisprudência citada do Colendo Superior Tribunal de Justiça quanto a esse dispositivo legal" (e-STJ fls. 284/285).
+É o relatório.
+Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de Justiça do Estado de Pernambuco, em 2 de outubro de 2023, o recorrente foi submetido a julgamento pelo Tribunal do Júri, ocasião em que foi sentenciado ao cumprimento da pena de 23 anos e 4 meses de reclusão, no regime inicial fechado.
+Fica, portanto, sem objeto o pedido contido neste recurso, porquanto há novo título cuja cognição acerca da autoria e materialidade foi exauriente.
+Além disso, a restrição da liberdade, agora, decorre da sentença condenatória, não submetida ao pronunciamento do Tribunal de origem.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
