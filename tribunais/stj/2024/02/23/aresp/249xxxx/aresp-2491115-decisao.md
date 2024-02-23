@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial por incidência da Súmulas 284/STF; 7 e 126/STJ.
+Dessume-se que a Execução Fiscal foi combatida por Embargos à Execução. Foram rejeitados os Embargos por entender que o bem penhorado é de propriedade particular e "não se está diante de direitos indígenas, mas sim de uma pessoa jurídica de direito privado, constituída sob a forma de associação". O acórdão da Apelação não reformou este entendimento. Foi assim ementado (fls. 292-294, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. CRÉDITO DE NATUREZA NÃO TRIBUTARIA, LASTREADO EM CERTIDÃO EMITIDA PELO TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ, COMO CONSEQUÊNCIA DA NÃO APROVAÇÃO DA PRESTAÇÃO DE CONTAS DE CONVENIO FIRMADO ENTRE UMA ASSOCIAÇÃO COMUNITÁRIA INDÍGENA, ORA EXECUTADA / EMBARGANTE, COM O ESTADO DO PARANÁ, ORA EXEQUENTE/EMBARGADO. SENTENÇA REJEITOU OS EMBARGOS À EXECUÇÃO. IRRESIGNAÇÃO DA PARTE EMBARGANTE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. INÉPCIA DA PETIÇÃO INICIAL. INOCORRÊNCIA. DESNECESSIDADE DE INTERVENÇÃO DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE NULIDADE NO PROCEDIMENTO ADMINISTRATIVO. PRESUNÇÃO DE VERACIDADE, CERTEZA E LIQUIDEZ DA CERTIDÃO DE DÍVIDA ATIVA. ALEGAÇÃO DE IMPENHORABILIDADE DO PATRIMÔNIO INDÍGENA. PATRIMÔNIO PERTENCENTE A ASSOCIAÇÃO PRIVADA. RECURSO CONHECIDO E NÃO PROVIDO.
+A Funai e Associação Comunitária Indígena Guarani, nas razões do Recurso Especial, alegaram violação aos arts. 279, caput, e 1.022 do CPC; 145 do CTN e 61 do Estatuto do Índio. Argumentam que existe interesse coletivo indígena na penhora de bens do patrimônio da Associação Comunitária Indígena Guarani de Chopinzinho. A autarquia entende que, devido ao interesse indígena, é obrigatória a intervenção do Ministério Público, sob pena de nulidade do processo; o patrimônio indígena é impenhorável; e o descumprimento das formalidade do art. 145 do CTN torna nulo o Processo Administrativo.
+Defende a não incidência da Súmula 284/STF porque, apesar de sucinta, a fundamentação pode ser bem compreendida; a matéria foi ventilada e debatida durante todo recurso; a não incidência da Súmula 7/STJ, porque pretende apenas a correta interpretação da Legislação Federal. Afirma que manifestou o devido Recurso Extraordinário (afastando-se, assim, a Súmula 126/STJ)
+Contrarrazões às fls. 333-335, e-STJ. Sem contraminuta.
+É o Relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 25 de janeiro de 2024.
+A parte não apontou, em seu Recurso Especial, a relevância que a suposta omissão teria para alterar o julgado. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal. Deixar de impugnar os fundamentos da decisão atacada faz incidir a Súmula 182/STJ.
+Ademais, a matéria, assim como posta, demanda incursão no contexto fático-probatório. O acordão recorrido concluiu que se trata de penhora de patrimônio particular em execução contra pessoa jurídica, associação civil que "não se confunde e tampouco integra a Funai", de forma que não se faz necessária a intervenção do Ministério Público (declinação as fls. 49-51, e-STJ) ou, o deslocamento dos autos à Justiça Federal, por ausência de violação a direitos indígenas. Incide a Súmula 7/STJ, também, em relação à possibilidade de anulação do processo administrativo que deu origem à execução.
+Sem motivo para a revisão do juízo prelibador.
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
