@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de IVANDO MEIRA DE OLIVEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo em Execução Penal - Prisão domiciliar -Sentenciado condenado a pena de reclusão no regime semiaberto - Existência de filho menor de doze anos - Fator insuficiente à concessão da medida - Ausência de comprovação do desamparo da criança em razão da prisão do genitor - Agravo a que se nega provimento.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, uma vez que o paciente possui filho menor de idade portador de necessidades especiais, que não pode prescindir dos cuidados do genitor, não possuindo, ainda, outras pessoas aptas a lhe prover o necessário diante da ausência da figura materna e idade avançada dos avós paternos.
+Requer, em suma, a conversão da pena em prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Sendo assim, aduz a Defesa que o presente caso apresenta uma situação excepcional, contudo, não há qualquer elemento nos autos que comprove estar a criança materialmente desamparada por conta da prisão de seu genitor, não sendo possível presumir que não se encontra sob os cuidados de outra pessoa.
+Tal comprovação é imprescindível à resolução do presente caso, tendo em vista que tanto a aplicação analógica dos artigos 117 do Código Penal e 318 do Código de Processo Penal, quanto da Súmula Vinculante nº 56 dependeriam da configuração de situação absolutamente extraordinária, eis que não se trata de reeducando submetido a prisão cautelar ou ao regime aberto, mas sim de pena definitiva, em regime semiaberto.
+Visto isto, a mera comprovação de que possuir filho menor de doze anos com deficiência, desacompanhada de qualquer outro elemento fático que demonstre a situação de risco da criança, é insuficiente para concessão da medida.
+Segundo entendimento firmado pela Terceira Seção do STJ, embora exista prevista normativa na LEP estabelecendo que a prisão domiciliar somente seria cabível para os reeducandos em cumprimento de pena em regime aberto, "excepcionalmente, se admite a concessão do benefício às presas dos regimes fechado e semiaberto quando verificado pelo juízo da execução penal, no caso concreto - em juízo de ponderação entre o direito à segurança pública e a aplicação dos princípios da proteção integral da criança e da pessoa com deficiência -, que tal medida seja proporcional, adequada e necessária e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência, salvo se a periculosidade e as condições pessoais da reeducanda indiquem que o benefício não atenda os melhores interesses da criança ou pessoa com deficiência (RHC n. 145.931/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16/3/2022.)
+Por outro lado, o pai também pode se beneficiar da prisão domiciliar, desde que seus cuidados sejam comprovadamente imprescindíveis ao infante.
+Na espécie, o benefício foi afastado em razão de não ter havido a comprovação da imprescindibilidade do genitor no cuidado de sua prole, entendimento cuja reforma exigiria o reexame da prova, inviável na via estreita do habeas corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
