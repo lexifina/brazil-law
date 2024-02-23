@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por Jeziel de Santana Vila Nova com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado em 14/11/2021 contra ato atribuído ao Secretário da Administração do Estado da Bahia, para que seja implantada nos proventos do impetrante a Gratificação por Condição Especial de Trabalho - GCET no percentual de 125% (cento e vinte e cinco por cento).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA denegou a segurança pleiteada, ficando consignado que o Estatuto dos Policiais Militares do Estado da Bahia confere o direito à passagem à reserva remunerada com os proventos calculados na remuneração do posto imediatamente superior apenas aos militares que contam com mais de 30 (trinta) anos de serviço, o que não ocorreu no caso dos autos.
+O referido acórdão foi assim ementado, in verbis:
+MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. POLICIAL MILITAR. PRELIMINAR DE IMPUGNAÇÃO À GRATUIDADE DA JUSTIÇA. REJEITADA. MÉRITO. DIREITO À PERCEPÇÃO DA GRATIFICAÇÃO POR CONDIÇÕES ESPECIAIS DE TRABALHO - CET. PRETENSÃO DE QUE O PERCENTUAL SEJA ELEVADO PARA 125%. IMPOSSIBILIDADE. NÃO CUMPRIMENTO DO REQUISITO TEMPORAL PREVISTO NO ART. 92, III DO EPM PARA TAL BENEFÍCIO. INGRESSO NA RESERVA REMUNERADA COM MENOS DE 30 (TRINTA) ANOS DE SERVIÇO. PARECER MINISTERIAL PELA DENEGAÇÃO DA SEGURANÇA. SEGURANÇA DENEGADA.
+1. Impugnação à gratuidade judiciária rejeitada. Requisitos autorizadores para concessão do benefício preenchidos.
+2. O artigo 92, III, do Estatuto dos Policiais Militares estabelece o direito do policial militar, ao passar para reserva remunerada, quando completados mais de 30 (trinta) anos de serviço, ter seus proventos calculados com base na remuneração integral do posto imediatamente superior.
+3. In casu, o impetrante conta com menos de 30 (trinta) anos de serviço, tendo em vista que foi admitido na Polícia Militar do Estado da Bahia em 12 de julho de 1992, tendo ingressado na reserva remunerada em 01 de outubro de 2021.
+4. Segurança denegada.
+Os embargos de declaração opostos foram rejeitados.
+O Recorrente alega, em síntese, que o acórdão recorrido está fundado em erro material, por entender que o autor foi transferido para reserva remunerada com menos de 30 (trinta) anos de serviço.
+Afirma, em síntese, que contava com tempo de serviço acima mencionado, " t anto é assim que aquele órgão administrativo fundamentou a sua decisão no art. 92, III, do EPM, bem como reconheceu o direito do requerente a ter os seus proventos calculados sobre a remuneração do posto imediatamente superior, qual seja, o de 1º Tenente" (fl. 583), conforme conclusões da Administração Pública no Processo Administrativo n. 030.2806.2021.0059681.
+Reitera atender os requisitos para o recebimento da indigitada gratificação, ao tempo em que requer o provimento do presente recurso "para conceder a ordem, de modo a condenar o Recorrido a alterar o percentual da Gratificação por Condições Especiais de Trabalho (G-CET) nos proventos do Recorrente, passando a constar o percentual de 125%, uma vez que este é o percentual devido ao posto de 1º Tenente PM, tudo conforme ampla documentação carreada aos Autos e reiteradas em sede de recurso" (fls. 593/594).
+Sem contrarrazões.
+O Ministério Público opina pelo não conhecimento do mandamus.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Busca o Impetrante a percepção da Gratificação por Condição Especial de Trabalho (GCET) no percentual de 125%, calculada sobre a graduação de 1º Tenente, nos termos da Lei Estadual n. 7.990/2001 e da Resolução n. 153/2014, do Conselho de Política de Recursos Humanos (COPE) do Estado da Bahia.
+Afirma, para tanto, que, embora após ter sido transferido à reserva remunerada, passando a receber seus proventos calculados sobre a remuneração integral da graduação de 1º Tenente, a GCET continuou a ser calculada no percentual de 45%, que recebia na ativa, percentual este vinculado à graduação de Sargento PM.
+A Corte a quo, ao analisar a pretensão mandamental, ao concluir que o Impetrante conta com menos de 30 (trinta) anos de serviço, não lhe sendo devido o pagamento de proventos calculados com base na remuneração integral do posto ou graduação imediatamente superior quando da passagem à reserva remunerada, afastando, portanto, o direito à percepção da GCET no percentual de 125%.
+Com efeito, consoante relatado, não se discute neste mandamus a regularidade ou não do ato de passagem à reserva remunerada, mas somente o direito ou não de recebimento da GCET no percentual pleiteado pelo Impetrante, de modo que extrapola o escopo da lide a análise, neste momento e nesta via mandamental, da regularidade do ato administrativo que transferiu o Impetrante à reserva remunerada com os proventos calculados com base na graduação imediatamente superior àquela que possuía quando da ativa.
+Assim, para que se evite supressão de instância, reconhecida a ocorrência de julgamento extra petita, impõe-se anulação do acórdão proferidos pelo Tribunal de origem, bem como a devolução destes autos, para que a lide seja apreciada nos limites em que foi proposta.
+No mesmo sentido, mutatis mutandis:
+ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. FISCALIZAÇÃO DO TRIBUNAL DE CONTAS DO ESTADO. VIOLAÇÃO DO PRINCÍPIO DO CONTRADITÓRIO E DA AMPLA DEFESA. DECISÃO QUE EXTRAPOLA O PEDIDO DO IMPETRANTE. NULIDADE. RETORNO DOS AUTOS À ORIGEM.
+1. Cinge-se a controvérsia dos autos a saber se houve ou não julgamento extra petita pelo Tribunal do Estado do Rio Grande do Sul, extrapolando os limites do pedido do impetrante.
+ ..
+5. O art. 460 do CPC/73 consagra o princípio da adstrição da sentença ao pedido do autor, cuja ratio se vincula ao princípio do dispositivo previsto no art. 262 do CPC, segundo o qual o juiz fica limitado ao pedido do autor.
+6. Reconhecida a ocorrência de julgamento extra petita, impõe-se anulação dos acórdãos proferidos pelo Tribunal de origem, bem como a devolução destes autos, para que a lide seja apreciada nos limites em que foi proposta. Nesse sentido: AgRg no RMS 28.467/MS, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/12/2011, DJe 19/12/2011; RMS 22.266/RN, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 28/9/2010, DJe 15/10/2010; RMS 18.655/SC, Rel. Min. Luiz Fux, Primeira Turma, julgado em 14/11/2006, DJ 16/08/2007, p. 286.
+Agravo interno improvido.
+(AgInt no RMS n. 43.443/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 9/8/2016, DJe de 18/8/2016.)
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA. ANULAÇÃO. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM.
+1. Viola os artigos 128 e 460 do Código de Processo Civil o acórdão do Tribunal de Justiça que, a despeito da oposição de embargos de declaração, julga questão diversa da matéria posta a deslinde na petição inicial.
+2. Reconhecida a ocorrência de julgamento extra petita, impõe-se anulação dos acórdãos proferidos pelo Tribunal de origem, com a devolução dos autos para que a lide seja apreciada nos limites em que foi proposta.
+3. Agravo regimental improvido.
+(AgRg no RMS n. 28.467/MS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/12/2011, DJe de 19/12/2011.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 34, XVIII, c, do RISTJ, dou parcial provimento ao recurso ordinário em mandado de segurança, determ inando o retorno dos autos ao Tribunal de origem para novo julgamento.
+Publique-se. Intimem-se.
+EMENTA
