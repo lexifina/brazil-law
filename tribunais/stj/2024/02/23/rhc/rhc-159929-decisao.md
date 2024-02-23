@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por JOÃO PAULO FRANCISCO PEREIRA DA SILVA contra acórdão do Tribunal de Justiça do Estado do Ceará proferido no HC n. 0636924-84.2021.8.06.0000.
+Consta dos autos que o Recorrente foi condenado pela prática do delito tipificado no art. 121, § 2º, incisos I e IV do Código Penal, em 03/06/2019, à pena de 22 (vinte e dois) anos de reclusão, no regime inicial fechado. Em sede de apelação, julgada em 05/05/2021, a sentença foi reformada para redimensionar a pena do paciente para 18 (dezoito) anos e 9 (nove) meses de reclusão.
+Alegando constrangimento ilegal porque a sanção penal reduzida não consta do processo de execução, a Defesa impetrou o writ originário, não conhecido em acórdão do dia 15/12/2021, assim ementado (fls. 53-54):
+"EMENTA: HABEAS CORPUS. PENAL E PROCESSO PENAL. EXECUÇÃO PENAL. PLEITO DE RETIFICAÇÃO DO RELATÓRIO DE SITUAÇÃO PROCESSUAL EXECUTÓRIA. NÃO CONHECIMENTO. DISCUSSÃO NÃO SUPORTADA PELA ESTREITA VIA DO HABEAS CORPUS. QUESTÃO AFETA À EXECUÇÃO PENAL. IMPOSSIBILIDADE DE SUPLANTAÇÃO DA COMPETÊNCIA DA AUTORIDADE IMPETRADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE PARA CONCESSÃO DA ORDEM DE OFÍCIO. INEXISTÊNCIA DE EXCESSO DE PRAZO OU INÉRCIA DO JUDICIÁRIO QUE CONFIGURE CONSTRANGIMENTO ILEGAL. SITUAÇÃO QUE REQUER URGÊNCIA. ORDEM NÃO CONHECIDA.
+1. Na presente ação constitucional de habeas corpus, busca-se a revisão dos cálculos do processo de execução penal, no que diz respeito ao quantum da pena, bem como à data prevista para a progressão de regime, considerando-se que, quando do julgamento da apelação, este Tribunal de Justiça reformou a reprimenda fixada na sentença, reduzindo-a para 18 anos e 09 meses de reclusão.
+2. Tratando-se a matéria deduzida na presente impetração de pedido alusivo à execução penal, mostra-se inviável o exame da pretensão por meio da presente ação constitucional, pois tal discussão não é suportada pela estreita via mandamental.
+3. Sublinhe-se que o Habeas Corpus é remédio constitucional que não comporta dilação probatória. Isto é, a prova é pré-constituída, devendo conter todos os documentos necessários para a demonstração do direito. Além disso, o Habeas Corpus não é via adequada para análise de questões mais profundas, como as referentes à fase de execução da pena.
+4. Além do que, não se verifica a existência de flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+5. In casu, o apenado atravessou pedido de alteração do Relatório de Situação Processual Executório por meio de petição protocolada em 24/09/2021 (mov. 18.1 do SEEU), apresentando em seguida o instrumento procuratório, em petição protocolada em 29/09/2021 (mov. 19.1 SEEU). Os autos foram então remetidos ao Ministério Público para manifestação, retornando dia 05/12/2021, encontrando- se, desde então, concluso para decisão. Como se vê, não houve tempo suficiente para que o Magistrado da execução penal decidisse.
+6. Além do que, a retificação buscada pela impetrante não configura situação de urgência, vez que, ainda que suas razões sejam acatadas pelo juízo da execução, a data por ele mencionada para a obtenção do requisito objetivo para a progressão de regime, segundo seus cálculos, remonta o ano de 2023, podendo-se, perfeitamente, aguardar a decisão do juízo de origem acerca da matéria.
+7. Ordem não conhecida."
+Este recurso repisa as alegações do writ originário e busca seja determinada a revisão dos cálculos do processo de execução do Condenado.
+Não houve pedido liminar.
+O Ministério Público Federal opina pelo desprovimento do recurso, porque além da questão sequer ter sido apreciada pelas instâncias ordinárias, "não se vislumbra prejuízo ao apenado em razão do tempo demandado para a apreciação da revisão dos cálculos da pena, visto que a progressão de regime prisional somente se dará em setembro de 2023" (fl. 95).
+É o relatório.
+Decido.
+Em consulta as assentamentos eletrônicos da Corte a quo, vejo que a condenação do Recorrente transitou em julgado, tendo o Juízo da Vara Única da Comarca de Jijoca de Jericoacoara - CE, em 07/02/2022, determinado que se expeça carta de guia com base na pena aplicada no acórdão, com o devido cadastro e processamento no Sistema Eletrônico de Execução Unificada - SEEU, caso ainda não exista.
+Constato, portanto, a superveniente perda do objeto desta insurgência.
+Ante o exposto, JULGO PREJUDICADO o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE REVISÃO DOS CÁLCULOS DO PROCESSO DE EXECUÇÃO. SUPERVENIENTE DEFERIMENTO PELO JUÍZO DE PRIMEIRO GRAU, APÓS TRANSITADA EM JULGADO A CONDENAÇÃO. RECURSO PREJUDICADO.
