@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Leonardo Bispo dos Santos - contra o acórdão proferido pelo Tribunal de Justiça de Goiás (HC n. 5855744-08.2023.8.09.0072 - fls. 1.604/1.612) que manteve a conversão da prisão em flagrante do recorrente, ocorrida em 13/8/2023, pela prática, em tese, do crime de homicídio qualificado tentado, em prisão preventiva (fls. 201/207 - Autos n. 5527999-29.2023.8.09.0072, da 2ª Vara Criminal da comarca de Inhumas/GO) -, não comporta seguimento.
+Com efeito, busca o recurso a revogação da segregação cautelar, ao argumento de deficiência de fundamentação: o paciente é primário, possui residência fixa e ocupação lícita, razão pela qual não há, portanto, nenhum indício concreto de que, caso seja colocado em liberdade, voltará a delinquir (fl. 1.625).
+Ocorre que, da atenta análise dos autos, observa-se que não se verifica constrangimento quanto à fundamentação do decreto de prisional, pois demonstrado o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito - a conduta apontada possui alto grau de reprovabilidade e é revestida de gravidade em concreto. Conforme se vê dos elementos de convicção, o suposto crime de tentativa de homicídio foi praticado em virtude desavença antiga, encontrando-se a vítima hospitalizada em estado grave (fl. 203) - e risco à futura aplicação da lei penal, em razão da fuga do distrito da culpa - o custodiado tentou empreender fuga, a qual foi impedida pela ação policial, que realizou a prisão em outro município (fl. 203) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+Nesse sentido: AgRg no HC n. 881.499/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe 14/2/2024.
+Em razão disso, nego seguimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA. RISCO PARA FUTURA APLICAÇÃO DA LEI PENAL. FUGA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO MANTIDA. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+Recurso a que se nega seguimento.
