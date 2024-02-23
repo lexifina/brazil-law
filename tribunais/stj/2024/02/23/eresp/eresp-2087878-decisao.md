@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão proferido pela Terceira Turma desta Corte, assim ementado (fl. 447):
+AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO A PACIENTE DIAGNOSTICADO COM TRANSTORNO DO ESPECTRO AUTISTA.
+1. A controvérsia diz respeito à cobertura de terapia prescrita a paciente diagnosticado com Transtorno do Espectro Autista - TEA.
+2. O Tribunal de origem entendeu que a cobertura do tratamento seria devida com fundamento no caráter exemplificativo do Rol de Procedimentos e Eventos em Saúde.
+3. A questão sub examine foi resolvida no próprio âmbito regulatório, uma vez que a agência reguladora vem reconhecendo autonomia técnica do profissional da saúde para aplicar a terapia que entender apropriada ao quadro clínico do paciente, nos casos de transtornos globais do desenvolvimento (o que abrange o TEA).
+4. A regulamentação pela ANS e posterior alteração legislativa - Lei n. 14.454/2022 - confirmam o acerto da conclusão a que havia chegado a egrégia TERCEIRA TURMA desta Corte Superior, pela obrigatoriedade de cobertura da terapia multidisciplinar, embora com fundamento no caráter exemplificativo do Rol da ANS. (REsp n. 1.889.704/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 28/4/2021; AgInt no REsp 1.911.308/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 4/10/2021, DJe de 7/10/2021.) Inafastável, portanto, a Súmula n. 83/STJ.
+5. A adoção de conclusões diversas das assentadas pelo acórdão recorrido em relação à necessidade e eficácia do tratamento, assim como a revisão das cláusulas do contrato encontram óbice nas Súmulas n. 5 e 7 do STJ.
+Agravo interno improvido.
+A embargante alega que referido acórdão divergiu do entendimento firmado pela Segunda Turma desta Corte no julgamento do REsp 1.824.961/RJ "no que concerne à taxatividade do Rol da ANS vigente à época da distribuição da demanda e a obediência do Plano de Saúde às regras setoriais" eis que "a recente mudança no rol ocorreu em 01 de julho de 2022, e a presente demanda foi distribuída em maio de 2022, desta maneira imprescindível a modulação dos efeitos aos autos" (fl. 471).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Feito esse registro, constata-se que o recurso em apreço não comporta êxito.
+Com efeito, os embargos de divergência têm por escopo uniformizar a jurisprudência do Superior Tribunal de Justiça, em razão da adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano, com a demonstração da identidade fática entre os casos confrontados e a adoção de soluções jurídicas díspares, nos moldes estabelecidos no art. 266 combinado com o art. 255, § 1º, do RISTJ.
+No caso em apreço não se verifica a ocorrência da alegada dissidência pretoriana, já que inexiste similitude fática entre os casos postos em comparação. Deveras, no bojo do acordão paradigma consta que "O mencionado dispositivo permite a modulação dos efeitos de certas decisões proferidas pelo Supremo Tribunal Federal e por Tribunais Superiores, quando o justifique o interesse social e a segurança jurídica". Todavia, no julgamento que originou o acórdão embargado, a Terceira Turma desta Corte não sindicou sobre eventual modulação dos efeitos do decisum proferido por si. Logo, a ausência de singularidade fática impede o conhecimento dos embargos de divergência.
+À guisa de exemplo, colhe-se o seguinte julgado da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. DESPROVIMENTO.
+1. A divergência jurisprudencial para fins de interposição de embargos de divergência deve ser demonstrada nos termos do art. 266, § 4º, do RISTJ, de modo que os acórdãos confrontados devem apresentar similitude fática e abordar a questão jurídica sob o mesmo enfoque legal, mas dar a ela resultados discrepantes.
+2. Não havendo a comprovação do recolhimento do preparo no ato de interposição do recurso, a parte recorrente será intimada para realizar o recolhimento em dobro no prazo de 5 dias, sob pena de deserção (§§ 2º e 4º do art. 1.007 do CPC/2015).
+3. Agravo interno desprovido (AgInt nos EREsp 1.771.205/SE, relator Ministro João Otávio de Noronha, Corte Especial, DJe 25/3/2021).
+Isso posto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. DISSÍDIO NÃO DEMONSTRADO. RECURSO INDEFERIDO LIMINARMENTE.
