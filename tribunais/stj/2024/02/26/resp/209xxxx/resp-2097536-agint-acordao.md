@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO EM HOSPITAL NÃO CREDENCIADO. INSUFICIÊNCIA DA REDE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. CARÁTER DE URGÊNCIA. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. "O reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 14/10/2020, DJe de 17/12/2020).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2.1. O Tribunal de ori gem concluiu pela ausência de demonstração da insuficiência da rede credenciada. Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. Ausente o enfrentamento, pelo acórdão recorrido, do caráter urgente do atendimento, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 287/291) interposto contra decisão desta relatoria, que negou provimento ao recurso (e-STJ fls. 281/283).
+Em suas razões, a parte alega que "a decisão ora agravada não se atentou para a interpretação restritiva do art. 12, inciso VI, da Lei 9.656/98, dada pela Corte Paulista, consistente na ausência de demonstração, por parte do Agravante, de tentativa de atendimento em hospital credenciado do plano de saúde" (e-STJ fl. 288).
+Sustenta que a decisão agravada "deu mais valor à prova da impossibilidade de utilização dos serviços próprios, contratados, credenciados ou referenciados pela Agravada,  .. , em detrimento de outra situação igualmente excepcional,  .. , que era a urgência/emergência confirmada pelo médico e sobre o qual não houve divergência" (e-STJ fl. 289).
+Afirma ainda que (e-STJ fl. 289):
+Descurou-se, também, as diretrizes hermenêuticas de interpretação mais favorável ao consumidor (art. 47, CDC), da nulidade de cláusulas que atenuem a responsabilidade do fornecedor, ou redundem em renúncia ou disposição de direitos pelo consumidor (art. 51, I, CDC), desvirtuando, consequentemente, direitos fundamentais inerentes à natureza do contrato de plano de saúde.
+Dessarte, deu mais valor à prova da impossibilidade de utilização dos serviços próprios, contratados, credenciados ou referenciados pela Agravada, que é apenas uma das situações excepcionais aptas a autorizar o reembolso, em detrimento de outra situação igualmente excepcional, senão mais relevante, que era a urgência/emergência confirmada pelo médico e sobre o qual não houve divergência. Observe-se (fls. 193):
+ ..  embora o relatório médico de fl. 43 dê conta de que o autor foi acometido pela Covid-19, em sua forma grave, necessitando de internação e, inclusive, sendo transferido para a UTI do Hospital Sírio Libanês, onde buscou atendimento,  ..
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 298/304), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 e a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO EM HOSPITAL NÃO CREDENCIADO. INSUFICIÊNCIA DA REDE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. CARÁTER DE URGÊNCIA. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. "O reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 14/10/2020, DJe de 17/12/2020).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2.1. O Tribunal de ori gem concluiu pela ausência de demonstração da insuficiência da rede credenciada. Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. Ausente o enfrentamento, pelo acórdão recorrido, do caráter urgente do atendimento, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls.281/283):
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 190):
+Obrigação de Fazer - Improcedência - Pedido de reembolso, nos limites do contrato, de valores gastos com internação realizada em hospital que não pertence à rede credenciada - Inadmissibilidade - Ausência de prova de recusa da operadora ou de impossibilidade de atendimento do autor em hospital da rede própria ou credenciada - Autor que optou pelo atendimento em rede particular e deve arcar com os custos do serviço que utilizou - Adoção dos fundamentos da sentença, em razão do permissivo do artigo 252 do Regimento Interno desta Egrégia Corte - Sentença mantida - Majoração dos honorários, nos termos do art. 85, §11, do CPC - Recurso não provido.
+Em suas razões (e-STJ fls. 196/209), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 1º, § 1º, "c", e 12, VI, da Lei n. 9.656/1998, sob a alegação (e-STJ fl. 205):
+ ..  que não faz sentido as operadoras de planos de saúde terem a obrigação de ressarcir o Sistema Único de Saúde - SUS quando seus beneficiários se utilizarem do serviço público de saúde e não ter a mesma obrigação quando o próprio beneficiário se utilizar dos serviços do hospital privado que não faz parte de sua rede credenciada. Logo, é devido o reembolso, independente de comprovação de urgência/emergência, nos termos da tabela praticada pela Operadora.
+Contrarrazões apresentadas às fls. 253/265 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Trata-se na origem de pedido de ressarcimento, até o limite contratado, de procedimentos médicos para tratamento de COVID19 em hospital não credenciado pelo plano de saúde.
+Extrai-se do acórdão recorrido que a Corte local, mantendo a sentença incólume, negou a possibilidade de reembolso das despesas por não estarem presentes os requisitos exigidos pelo contrato (e-STJ fls. 192/193):
+Cabe apontar, primeiramente, que o autor nada trouxe aos autos que demonstrasse a tentativa de atendimento em hospital credenciado.
+De outro lado, o réu apontou em fl. 80: "não constam registros de reclamações protocoladas na Ouvidoria da Operadora em relação à superlotação e demora no atendimento no Pronto Atendimento Sancta Maggiore Jardim Paulista".
+ ..
+ ..  embora o relatório médico de fl. 43 dê conta de que o autor foi acometido pela Covid-19, em sua forma grave, necessitando de internação e, inclusive, sendo transferido para a UTI do Hospital Sírio Libanês, onde buscou atendimento, é fato que não demonstrou a recusa da apelada em atendê-lo ou, ainda, a impossibilidade de obtenção do tratamento do qual necessitava na rede própria ou credenciada pelo plano de saúde, de modo que, de fato, não estão presentes os requisitos exigidos pelo instrumento firmado entre as partes, para que ele pudesse ser reembolsado nos limites do contrato, como pretende.
+Esta Corte Superior firmou entendimento segundo o qual, "em casos de urgência ou emergência, em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a operadora do plano de saúde responsabiliza- se pelo custeio das despesas de assistência médica realizadas pelo beneficiário, mediante reembolso. A obrigação, nessas circunstâncias, é limitada aos preços e tabelas efetivamente contratados com o plano de saúde, à luz do art. 12, VI, da Lei 9.656/98" (AgInt no AREsp n. 1.344.058/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/5/2019, DJe de 22/5/2019).
+Assim, para modificar o entendimento do acórdão impugnado quanto à impossibilidade de reembolso no caso diante da ausência de preenchimento dos requisitos autorizadores, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c". Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido" (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Segundo a jurisprudência desta Corte Superior, "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 14/10/2020, DJe de 17/12/2020).
+Para modificar o entendimento do Tribunal de origem quanto à ausência de demonstração da "impossibilidade de obtenção do tratamento  ..  na rede própria ou credenciada pelo plano de saúde", seria imprescindível o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+No mais, a controvérsia não foi apreciada pela Tribunal a quo sob a ótica da urgência do atendimento, tampouco a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência, nesse ponto, por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Assim, não prosperam as alegações co nstantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório ensejador da sanção processual prevista no referido dispositivo.
+É como voto.
