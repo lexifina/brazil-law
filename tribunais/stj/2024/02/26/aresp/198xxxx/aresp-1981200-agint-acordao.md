@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. AÇÃO REVISIONAL DE CONTRATO C/C CONSIGNAÇÃO EM PAGAMENTO. 1. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO MENSAL DOS JUROS. COMISSÃO DE PERMANÊNCIA. TARIFAS BANCÁRIAS. AUSÊNCIA DE DEMONSTRAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS OU INTERPRETADOS DISTINTAMENTE POR OUTRO TRIBUNAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 2. NOTIFICAÇÃO EXTRAJUDICIAL REALIZADA NO ENDEREÇO CONTRATUAL DA DEVEDORA. CARACTERIZAÇÃO DA MORA. PRECEDENTES. 3. AGRAVO INTERNO IMPROVIDO.
+1. A ausência de demonstração pela parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida ou interpretados distintamente de outro tribunal, juntamente a argumentos suficientes à exata compreensão da controvérsia estabelecida, atrai a aplicação do óbice da Súmula 284/STF.
+2. Conforme a jurisprudência desta Corte Superior, nos pedidos de busca e apreensão de bem alienado fiduciariamente, para a comprovação da mora é suficiente o envio de notificação ao endereço do devedor indicado no instrumento contratual, como ocorreu na hipótese dos autos.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Marina Molina Braga contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 772):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C CONSIGNAÇÃO EM PAGAMENTO. 1. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 2. AÇÃO DE BUSCA E APREENSÃO. CONSTITUIÇÃO DA MORA RECONHECIDA PELO TRIBUNAL ESTADUAL. SÚMULA N. 83/STJ. 3. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 781-813), pugna a agravante pelo afastamento do óbice da Súmula n. 284/STF, uma vez apresentou fundamentação específica, além de ter demonstrado a divergência jurisprudencial.
+Aponta a abusividade na cobrança de juros remuneratórios maiores que a taxa média de mercado; a ilegalidade da capitalização mensal de juros, da comissão de permanência e das tarifas cobradas.
+Afirma a inexistência de forma válida de constituição em mora, por ausência de notificação na ação de busca e apreensão.
+Pleiteia, assim, a reconsideração da decisão agravada.
+Impugnação apresentada (e-STJ, fls. 817-827).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. AÇÃO REVISIONAL DE CONTRATO C/C CONSIGNAÇÃO EM PAGAMENTO. 1. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO MENSAL DOS JUROS. COMISSÃO DE PERMANÊNCIA. TARIFAS BANCÁRIAS. AUSÊNCIA DE DEMONSTRAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS OU INTERPRETADOS DISTINTAMENTE POR OUTRO TRIBUNAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 2. NOTIFICAÇÃO EXTRAJUDICIAL REALIZADA NO ENDEREÇO CONTRATUAL DA DEVEDORA. CARACTERIZAÇÃO DA MORA. PRECEDENTES. 3. AGRAVO INTERNO IMPROVIDO.
+1. A ausência de demonstração pela parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida ou interpretados distintamente de outro tribunal, juntamente a argumentos suficientes à exata compreensão da controvérsia estabelecida, atrai a aplicação do óbice da Súmula 284/STF.
+2. Conforme a jurisprudência desta Corte Superior, nos pedidos de busca e apreensão de bem alienado fiduciariamente, para a comprovação da mora é suficiente o envio de notificação ao endereço do devedor indicado no instrumento contratual, como ocorreu na hipótese dos autos.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+No tocante às teses recursais de abusividade na cobrança de juros remuneratórios acima da taxa média de mercado; impossibilidade de capitalização mensal dos juros; e ilegalidade da cobrança da comissão de permanência e das tarifas bancárias, constata-se a ausência de demonstração pela parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida ou interpretados distintamente de outro tribunal, juntamente a argumentos suficientes à exata compreensão da controvérsia estabelecida.
+Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Não se constata a alegada violação aos artigos 489 e 1.022 do CPC/15, porquanto os argumentos expostos pela parte foram apreciados, com fundamentação clara, coerente e suficiente pelo órgão julgador.
+2. Alterar as conclusões do Tribunal de origem quanto à alegação de exceção do contrato não cumprido, bem como com relação à responsabilidade pela outorga da escritura de compra e venda, exigiria nova incursão nas provas dos autos e interpretação das cláusulas contratuais, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+3. Nos termos do entendimento desta Corte, os recursos interpostos tanto pela alínea "a" quanto pela alínea "c", do permissivo constitucional exigem a indicação do dispositivo legal vulnerado ou ao qual foi atribuída interpretação divergente. Aplicação do óbice da Súmula 284/STF. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1876628/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2021, DJe 24/11/2021; sem grifo no original)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. DECISÃO AGRAVADA PELA APLICABILIDADE DA LEGISLAÇÃO CONSUMERISTA E DA INVERSÃO DO ÔNUS DA PROVA. PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO E IMPLANTAÇÃO DE SOFTWARE. POSTULAÇÃO. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. PEDIDO RECURSAL DESACOLHIDO. PESSOA JURÍDICA QUE FIGURA COMO DESTINATÁRIO FINAL DO SOFTWARE. PRECEDENTE DO STJ ARESP 78.854/RS. APLICABILIDADE DA TEORIA FINALISTA MITIGADA. VULNERABILIDADE TÉCNICA VERIFICADA. EXTENSÃO DO CONCEITO DE CONSUMIDOR. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO PARA O PEDIDO DE AFASTAMENTO DA MULTA POR EMBARGOS PROTELATÓRIOS. SÚMULA 284 DO STF. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A alegação genérica de violação à lei federal, sem indicar o artigo, parágrafo ou alínea da legislação foi violado(a), tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 1.825.669/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe 26/8/2021).
+Em relação ao preenchimento dos requisitos para a constituição da devedora em mora, o Tribunal de Justiça do Estado do Mato Grosso do Sul assim se manifestou (e-STJ, fls. 214-215; sem grifo no original):
+Conforme relatado, defende a apelante que não restou perfectibilizada a notificação pessoal e, por conseguinte, a constituição em mora, razão pela qual é inadmissível a busca e apreensão do veículo do qual detém a posse, por falta de pressuposto de constituição e desenvolvimento válido e regular do processo.
+Verifico, no presente caso, que, diferente do sustentado pela suplicante, não há se falar em ausência da regular constituição em mora.
+O Superior Tribunal de Justiça já firmou entendimento de que a demonstração da mora pode ser feita mediante protesto, por carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento, sendo que, em nenhuma hipótese, exige-se que a assinatura do aviso de recebimento seja do próprio destinatário.( )
+No caso em tela, a devedora foi notificada extrajudicialmente, através de carta registrada enviada e entregue pelos correios, sendo informado o recebimento da correspondência no endereço da devedora (p. 17-18).
+Saliento que, conforme entendimento jurisprudência, a notificação não precisa ser necessariamente realizada via cartório de títulos e documentos, bastando o envio por carta registrada, o que se verifica no caso em tela.
+Com efeito, importa ressaltar que a Segunda Seção do Superior Tribunal de Justiça, na sessão de 9/8/2023, apreciou a questão no julgamento do REsp n. 1.951.662/RS, definindo que, para a comprovação da mora em contratos de alienação fiduciária, é suficiente o envio de notificação ao endereço do devedor indicado no instrumento contratual, ficando a tese aprovada com a seguinte redação:
+Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+(REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023)
+Nesse sentido (sem grifo no original):
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. RECONSIDERAÇÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO. DEVEDOR AUSENTE. ENVIO PARA O ENDEREÇO DO DEVEDOR. SÚMULA 568/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Em assentada recente, a Segunda Seção do Superior Tribunal de Justiça deliberou o Tema repetitivo 1132, pacificando o entendimento de que, "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pro próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023).
+2. No caso concreto, houve o envio regular da notificação para o endereço do devedor, cuja comunicação não se completou em virtude de sua ausência. Portanto, comprovada a mora, deve prosseguir a ação de busca e apreensão.
+3. Agravo interno provido. Recurso especial provido.
+(AgInt no REsp 1.958.331/RJ, relator ministro Raul Araújo, Quarta Turma, julgado em 4 /9/2023, DJe de 8/9/2023).
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
