@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. APLICAÇÃO DA MULTA PREVISTA NO § 2º DO ART. 1.026 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. EMBARGOS DE DECLAÇÃO. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. É descabida a pretensão de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+3. Nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo.
+4. Não haverá a majoração de honorários de sucumbência prevista no art. 85, § 11, do CPC/2015, quando do julgamento de agravo interno ou embargos de declaração. Precedentes.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por Ana Virginia da Motta Rottili e Outros ao acórdão desta Terceira Turma, assim ementado (e-STJ, fl. 1.841):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO CONFERINDO PODERES AO SUBSCRITOR DO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. PRINCÍPIO DA PRIMAZIA DA RESOLUÇÃO DO MÉRITO. INAPLICABILIDADE. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DESTE SUPERIOR TRIBUNAL. AGRAVO INTERNO DESPROVIDO.
+1. Interposto recurso por advogado sem procuração dos autos, dele não se pode conhecer, consoante o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência do enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+2. Ademais, não há falar em aplicação do princípio da primazia da resolução do mérito, a fim de sobrepujar a não observância dos requisitos de admissibilidade recursal, sobretudo quando se tratar de defeito grave e insanável.
+3. Agravo interno a que se nega provimento.
+Em suas razões, os embargantes alegam omissão em relação ao reconhecimento da juntada posterior da cadeia de procuração, conforme alegado nas razões recursais da decisão recorrida.
+Impugnação às fls. 1.866-1.874, 1.876-1.880 e 1.885-1.891 (e-STJ), com pedido de aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015 e por litigância de má-fé, além de majoração dos honorários sucumbenciais.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. APLICAÇÃO DA MULTA PREVISTA NO § 2º DO ART. 1.026 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. EMBARGOS DE DECLAÇÃO. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. É descabida a pretensão de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+3. Nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo.
+4. Não haverá a majoração de honorários de sucumbência prevista no art. 85, § 11, do CPC/2015, quando do julgamento de agravo interno ou embargos de declaração. Precedentes.
+5. Embargos de declaração rejeitados.
+VOTO
+Razão não assiste à parte embargante.
+Inicialmente, observa-se que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situações observadas na espécie.
+O acórdão proferido por este colegiado dirimiu a causa com base em fundamentação sólida, sem omissões ou obscuridades, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte insurgente.
+Importante frisar, inclusive, que se observa inconformismo reiterado da parte com o teor do julgado, pois estes aclaratórios, embora com palavras diferentes, defendem os mesmos argumentos já lançados na petição do agravo interno.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+No que se refere ao pedido de que seja imposta a multa prevista no § 2º do art. 1.026 do CPC/2015, não deve ser acolhido o requerimento da parte contrária, pois o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos embargos de declaração.
+No tocante ao pleito de imposição da multa por litigância de má-fé à embargante, este não merece guarida, pois, conforme entendimento desta Corte, a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo.
+Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL. AUSÊNCIA. DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. INVIABILIDADE. LITIGÂNCIA DE MÁ-FÉ. ATO PROCRASTINATÓRIO. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+3. Nos termos do art. 105, inciso III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em sede de embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+4. A aplicação das multas por litigância de má-fé ou ato procrastinatório não é automática, pois não se trata de mera decorrência lógica da rejeição doe embargos de declaração. No caso concreto, o recorrente interpôs os recursos legalmente previstos no ordenamento jurídico, sem abusar do direito de recorrer.
+5. Embargos declaratórios rejeitados.
+(EDcl no AgInt no AREsp n. 1.923.159/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/11/2022, DJe de 9/12/2022.)
+Em relação à solicitação de majoração dos honorários de sucumbência, ressalte-se não ser cabível tal condenação no âmbito do agravo interno ou de embargos de declaração.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. FALHA. PRODUTO. MARCA-PASSO. TROCA. RECUSA ABUSIVA. OMISSÃO. INEXISTÊNCIA. DANO MORAL. CONFIGURAÇÃO. VALOR. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REDUÇÃO. REEXAME DE PROVAS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever a conclusão do aresto atacado acerca da configuração do dano moral demandaria a revisão das circunstâncias fáticas dos autos, o que é defeso em virtude da Súmula nº 7/STJ.
+4. O mesmo óbice sumular inviabiliza o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+5. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+6. A jurisprudência do Superior Tribunal de Justiça possui entendimento no sentido de ser possível a revisão da indenização por danos morais nas hipóteses em que o valor fixado se mostrar exorbitante ou irrisório, o que não ocorreu no caso em exame. Na hipótese, o montante de R$ 15.000,00 (quinze mil reais) não é excessivo nem desproporcional aos danos sofridos.
+7. Não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração. Precedentes.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.024.873/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO, INEXISTÊNCIA DE DÉBITO E SUSTAÇÃO DE PROTESTO. NOTAS PROMISSÓRIAS EMITIDAS EM GARANTIA DE DUPLICATAS MERCANTIS. ASSINATURA DIGITAL. SUPOSTA AFRONTA AOS ARTS. 1. 434 E 435 DO CPC, NA MEDIDA PROVISÓRIA Nº 2.200/01, DE 24 DE AGOSTO DE 2011, E NO ARTIGO 7º DA LEI MODELO DA COMISSÃO DE DIREITO COMERCIAL INTERNACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. REEXAME DA MATÉRIA RELATIVA À VALIDADE E EFICÁCIA DOS TÍTULOS EXEQUENDOS E A HIGIDEZ DA ASSINATURA ELETRÔNICA. INVIÁVEL. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias referentes aos 434 e 435 do CPC, à Medida Provisória nº 2.200/01, de 24 de agosto de 2011, e ao artigo 7º da Lei Modelo da Comissão de Direito Comercial Internacional, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282 do STF) 2. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Derruir a conclusão a que chegou o Tribunal local, que, com base na análise do arcabouço fático-probatório, concluiu que as notas promissórias atendem aos requisitos legais, sendo válidas e exigíveis, além de ser hígida a assinatura eletrônica, demandaria o revolvimento fático probatório, o que encontra óbice na súmula 7 do STJ e impede o conhecimento do recurso pela alínea "a" do dispositivo constitucional.
+5. Consoante orientação firmada pela Segunda Seção desta Corte Superior, "não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração" (EDcl no AgInt no AREsp 1.677.575/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/03/2021, DJe 04/03/2021).
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.987.023/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/5/2022, DJe de 1/6/2022.)
+Diante dessas considerações, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
