@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CEF. INTERESSE. LEGITIMIDADE PASSIVA. SEGURADORAS. AFASTAMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7, AMBAS DO STJ. NÃO PROVIMENTO.
+1. No caso, o Tribunal Regional Federal da 3ª Região, ao julgar o agravo de instrumento então manejado pela TRADITIO, afastou o interesse da CEF, mantendo a competência da Justiça Estadual.
+2. A reanálise do entendimento acerca da legitimidade passiva da CEF, fundamentado nos fatos e provas dos autos, esbarra no óbice das Súmulas n.ºs 5 e 7, ambas do STJ.
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TRADITIO COMPANHIA DE SEGUROS (TRADITIO), atual nome de SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE MÚTUO HABITACIONAL NO SFH. APÓLICES SEM GARANTIA PELO FCVS. COMPETÊNCIA. JUSTIÇA ESTADUAL. ALTERAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7, AMBAS DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 1.311).
+Nas razões do presente inconformismo, TRADITIO defendeu que (1) é da Primeira Seção a competência para julgamento deste recurso, em razão do julgamento dos CC nº 140.456/RS e 148.188/DF; (2) descabe falar no reexame do contrato e das provas; e (3) deve ser reconhecida a competência da Justiça Federal para processar e julgar demandas que versem sobre apólices públicas do Seguro Habitacional do Sistema Financeiro da Habitação, vinculadas ao FCVS, administrado pela CEF (e-STJ, fls. 1.317/1.333).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CEF. INTERESSE. LEGITIMIDADE PASSIVA. SEGURADORAS. AFASTAMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7, AMBAS DO STJ. NÃO PROVIMENTO.
+1. No caso, o Tribunal Regional Federal da 3ª Região, ao julgar o agravo de instrumento então manejado pela TRADITIO, afastou o interesse da CEF, mantendo a competência da Justiça Estadual.
+2. A reanálise do entendimento acerca da legitimidade passiva da CEF, fundamentado nos fatos e provas dos autos, esbarra no óbice das Súmulas n.ºs 5 e 7, ambas do STJ.
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O presente agravo interno não merece prosperar.
+As razões expostas na petição ora em análise não justificam a alteração do julgamento proferido na decisão agravada.
+Conforme ressaltado no julgado agravado, a TRADITIO alegou a violação do art. 1º da Lei n.º 12.409/2011; sustentando, em suma, a competência da Justiça Federal para julgar a ação em relação a todos os autores diante do interesse da Caixa Econômica Federal (CEF) na demanda.
+Da competência
+Após o julgamento do RE nº 827.996/PR - Tema 1.011 pelo Supremo Tribunal Federal, ficaram estabelecidas as seguintes teses quanto à participação da CEF nos processos envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, consequentemente, quanto à competência da Justiça Federal para o processamento e o julgamento das ações dessa natureza:
+1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença"; e 2) "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.
+No caso, conforme foi ressaltado no julgado agravado, o Tribunal Regional Federal da 3ª Região, ao julgar o agravo de instrumento, afastou o interesse da CEF, mantendo a competência da Justiça Estadual ao afirmar que
+ ..  A CDHU, em resposta a Ofício da 2ª Vara Federal de São Carlos, informou através de seu Núcleo do Contencioso Institucional e Desapropriações que o financiamento foi averbado no ramo 68 (privado), cuja companhia atualmente responsável é a Excelsior de Seguros (ID 6996463 - fl. 6).
+Por sua vez, o contrato firmado entre as partes e a referida Companhia Habitacional à época de sua assinatura, carreado no ID 6996451, fls. 81/103, datado de 05.04.1998, no qual resta claro ser constituído nos termos do Sistema Financeiro de Habitação - SFH, não evidencia, inequivocamente, a que ramo está vinculada a apólice.
+Neste diapasão, a CEF se pronunciou, ante à impossibilidade de se identificar o ramo securitário, pelo desinteresse na lide (ID 6996469 - fls. 18/32).
+ ..  embora o contrato sub judice tenha sido firmado em período pelo qual responderia o agente financeiro federal, a apólice não está expressamente vinculada ao Fundo de Compensação de Variações Salariais - FCVS (e-STJ, fls. 1.110/1.116 - sem destaques no original).
+Assim, consoante já ressaltado no julgado impugnado, a conclusão adotada no acórdão recorrido quanto a desvinculação do contrato de seguro ao FCVS e o desinteresse da CEF na lide, teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice das Súmulas n.ºs 5 e 7, ambas do STJ.
+Daí porque, afastado o interesse jurídico da CEF, não há que se falar na competência da Primeira Seção desta Corte para processamento e julgamento do feito.
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
