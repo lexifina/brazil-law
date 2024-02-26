@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ARGUIÇÃO DE NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA QUANTO AO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO COMPROVAÇÃO DO EFETIVO PREJUÍZO. ACOLHIMENTO. IMPOSSIBILIDADE. ACORDO DE NÃO PERSECUÇÃO PENAL. DESCABIMENTO. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acolhimento da arguição de nulidade do julgamento dos embargos de declaração opostos perante o Tribunal de origem encontra óbice na iterativa jurisprudência desta Corte Superior, segundo a qual reconhecimento de nulidades no processo penal, ainda que de natureza absoluta, exige a comprovação do efetivo prejuízo suportado pelo Acusado, ônus do qual não se desincumbiu a Defesa.
+2. A orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do Acordo de Não Persecução Penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que ainda não recebida a denúncia.
+3. No caso concreto, contudo, tendo sido a peça acusatória recebida em 1º de agosto de 2017, quando ainda não se encontrava em vigor a Lei n. 13.964/2019, publicada em 24 de dezembro de 2019, é inviável a aplicação retroativa do art. 28-A do Código de Processo Penal.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCELO BRITTO LEITE e RODRIGO AUGUSTO GOMES HOLLANDA contra decisão por mim proferida, por meio da qual neguei provimento ao recurso especial, assim ementada (fl. 1022):
+"RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ALEGADA NULIDADE PELA AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA QUANTO AO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. INEXISTENTE A COMPROVAÇÃO DO EFETIVO PREJUÍZO. ACORDO DE NÃO PERSECUÇÃO PENAL. NÃO CABIMENTO. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. PRECEDENTES. RECURSO ESPECIAL DESPROVIDO."
+Nas razões deste regimental, reitera a Defesa que, tratando-se o art. 28-A do Código de Processo Penal, incluído pela Lei n. 13.964/2019, norma de natureza híbrida mais benéfica ao Acusado, deve retroagir a fim de alcançar as causas em que ainda não houve trânsito em julgado do édito condenatório.
+Aduz que a Defensoria Pública da União possui prerrogativa de ser intimada pessoalmente de todos os atos do processo e que " ..  a não observância dessa prerrogativa, além de violar os dispositivos legais infraconstitucionais, como aqueles que foram suscitados (arts. 5º, §5º da lei no 1.060/50 e 370, § 4º do CPP), a Lei Complementar 80/1994 (art. 44, inciso I), ainda extrapola a lei maior, que é a Constituição Federal de 1988." (fl. 1035)
+Pugna pela reconsideração da decisão agravada ou pela submissão do regimental ao Colegiado julgador competente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ARGUIÇÃO DE NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA QUANTO AO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO COMPROVAÇÃO DO EFETIVO PREJUÍZO. ACOLHIMENTO. IMPOSSIBILIDADE. ACORDO DE NÃO PERSECUÇÃO PENAL. DESCABIMENTO. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acolhimento da arguição de nulidade do julgamento dos embargos de declaração opostos perante o Tribunal de origem encontra óbice na iterativa jurisprudência desta Corte Superior, segundo a qual reconhecimento de nulidades no processo penal, ainda que de natureza absoluta, exige a comprovação do efetivo prejuízo suportado pelo Acusado, ônus do qual não se desincumbiu a Defesa.
+2. A orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do Acordo de Não Persecução Penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que ainda não recebida a denúncia.
+3. No caso concreto, contudo, tendo sido a peça acusatória recebida em 1º de agosto de 2017, quando ainda não se encontrava em vigor a Lei n. 13.964/2019, publicada em 24 de dezembro de 2019, é inviável a aplicação retroativa do art. 28-A do Código de Processo Penal.
+4. Agravo regimental desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Nos termos da decisão agravada, a alegada nulidade do julgamento dos primeiros embargos de declaração opostos pela Defesa (fls. 927-931) foi rechaçada pelo Tribunal de origem com fundamentos nas seguintes razões de decidir:
+"O art. 619 do Código de Processo Penal admite embargos de declaração quando, no acórdão, houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, a DPU não indicou qual desses vícios teria ocorrido no acórdão, limitando-se a alegar a nulidade do julgamento do julgamento dos embargos de declaração por falta de sua intimação pessoal para a sessão de julgamento dos embargos de declaração.
+Rejeito a alegação de nulidade. A DPU tem a prerrogativa de intimação pessoal.
+Todavia, como já decidiu esta Turma:
+ ..
+No caso, embora a DPU não tenha sido intimada da data prevista para o julgamento dos embargos de declaração, não houve qualquer prejuízo aos embargantes, uma vez que não existe previsão legal de intimação (pessoal ou pela imprensa oficial) da data do julgamento dos feitos que são apresentados em mesa, sem possibilidade de sustentação oral, nos termos do art. 143 do Regimento Interno deste Tribunal Regional Federal. É o caso dos embargos de declaração." (fls. 953-954, sem grifos no original).
+Inicialmente, esclareço que não se desconhece que a jurisprudência desta Corte segundo a qual "a ausência de intimação pessoal do defensor dativo acerca dos atos do processo, a teor do disposto no art. 370, § 4º, do CPP, é causa de nulidade absoluta" (AgRg no REsp 1.915.434/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/04/2021, DJe de 19/04/2021).
+Na espécie, a partir da leitura dos excertos antes transcritos, verifica-se que, de fato, não houve intimação pessoal da Defensoria Pública quanto à sessão de julgamento dos primeiros embargos de declaração opostos pela Defesa.
+Todavia, o entendimento adotado pela Corte de origem está em perfeita sintonia com a jurisprudência do Superior Tribunal de Justiça, segundo a qual, para o reconhecimento de nulidades no processo penal, ainda que de natureza absoluta, é imprescindível a comprovação do efetivo prejuízo suportado pelo Acusado.
+No caso, não houve prejuízo, porque as teses veiculadas pela Defensoria Pública da União nos embargos de declaração de fls. 906-908 - utilização de uma das qualificadoras como fundamento para o aumento da pena-base e o pleito pela propositura de Acordo de Não Persecução Penal em favor do Réu - foram devidamente examinadas e decididas pela Corte de origem.
+Nesse sentido, mutatis mutandis:
+" ..
+II - No que se refere à nulidade apontada, ausência de intimação da Defensoria Pública da data de julgamento dos embargos de declaração, impossibilitando a realização de sustentação oral, não há falar-se em prejuízo, isso porque a matéria veiculada no respectivo recurso integrativo (contradição entre o valor unitário do dia-multa e o importe fixado a título de prestação pecuniária) foi devidamente apreciada pela Corte de origem. Precedentes.
+III - A respeito do valor fixado a título de prestação pecuniária, tendo o Tribunal a quo fundamentadamente arbitrado tal montante em 4 salários mínimos, destacando-se que não ficou demonstrada a insuficiência econômica da ré, ora agravante, a reforma do julgado, no ponto, demandaria a reanálise do conteúdo fático-probatório, procedimento esse obstado pelo enunciado da Súmula n. 7/STJ.
+IV - Agravo regimental desprovido." (AgRg no REsp 2033917/SP. Rel. Desembargador Convocado JESUÍNO RISSATO, Sexta Turma, julgado em 14/08/2023, DJe de 17/08/2023 - sem grifos no original)
+" ..
+2. In casu, a despeito de não ter havido intimação pessoal da Defensoria Pública da União quanto à sessão de julgamento dos embargos de declaração, não houve prejuízo ao Réu porque a tese veiculada no recurso integrativo - pleito pela propositura de Acordo de Não Persecução Penal em favor do Réu - foi devidamente examinada e decidida pela Corte de origem.
+3. É possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que não recebida a denúncia.
+4. No caso concreto, tendo sido admitida a peça acusatória e prolatada condenação, inclusive confirmada em grau recursal, é inviável a aplicação retroativa do art. 28-A do Código de Processo Penal.
+5. Agravo regimental desprovido." (REsp 1.989.497/SP. Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 14/09/2022, DJe de 27/09/2022, sem grifos no original).
+Outrossim, no que diz respeito à alegada violação ao art. 28-A do Código de Processo Penal, a pretensão defensiva de concessão do acordão de não persecução penal surgiu apenas em sede de embargos de declaração, opostos contra o acórdão apelatório.
+A respeito da controvérsia ora suscitada, cumpre transcrever o seguinte excerto do aresto recorrido:
+"Relativamente ao ANPP, registre-se, em primeiro lugar, que a Procuradoria Regional da República manifestou-se pelo descabimento da sua aplicação nesta etapa processual (ID 266090312). Com razão.
+Com efeito, o ANPP é possível para fatos anteriores ao início da vigência da Lei nº 13.964/2019, desde que a denúncia ainda não tenha sido recebida, sendo esse o entendimento do Supremo Tribunal Federal (STF):
+ ..
+No caso, a denúncia já tinha sido recebida quando foi promulgada a Lei nº13.964/2019, de modo que não é possível o ANPP e, portanto, não há a alegada omissão no acórdão." (fls. 929-930, grifos diversos do original)
+A orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do Acordo de Não Persecução Penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que não recebida a denúncia.
+A propósito:
+" ..
+2. O art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2016, que passou a vigorar a partir de 24/01/2020, traz norma de natureza híbrida, isto é, possui conteúdo de Direito Penal e Processual Penal.
+3. Infere-se da norma despenalizadora que o propósito do acordo de não persecução penal é o de poupar o agente do delito e o aparelho estatal do desgaste inerente à instauração do processo-crime, abrindo a possibilidade de o membro do Ministério Público, caso atendidos os requisitos legais, oferecer condições para o então investigado (e não acusado) não ser processado, desde que necessário e suficiente para reprovação e prevenção do crime. Ou seja: o benefício a ser eventualmente ofertado ao agente sobre o qual há, em tese, justa causa para o oferecimento de se aplica ainda na fase pré-processual, com o claro objetivo de mitigar o princípio da obrigatoriedade da ação penal.
+4. Se, por um lado, a lei nova mais benéfica deve retroagir para alcançar aqueles crimes cometidos antes da sua entrada em vigor - princípio da retroatividade da lex mitior, por outro lado, há de se considerar o momento processual adequado para perquirir sua incidência - princípio tempus regit actum, sob pena de se desvirtuar o instituto despenalizador.
+5. Ao conjugar esses dois princípios, tem-se que é possível a aplicação retroativa do acordo de não persecução penal, desde que não recebida a denúncia. A partir daí, iniciada a persecução penal em juízo, não há falar em retroceder na marcha processual.
+6. O fato de estar pendente julgamento de habeas corpus com matéria idêntica no Supremo Tribunal Federal não constitui óbice à apreciação do tema por esta Corte Superior, sendo certo que eventual irresignação do Agravante quanto ao resultado do julgamento alcançado por este Colegiado poderá ser submetida à Corte Suprema pelas vias processuais próprias.
+7. Agravo regimental desprovido." (AgRg no HC 615.739/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/04/2021, DJe 28/04/2021.)
+" ..
+1. No que tange à aplicação retroativa do Acordo de Não Persecução Penal (ANPP), introduzido no nosso ordenamento jurídico pela Lei n. 13.964/2019 (art. 28-A e seguintes do Código de Processo Penal), mostra-se incompatível com o propósito do referido instituto quando recebida a denúncia e já encerrada a prestação jurisdicional na instância ordinária, com a condenação do acusado, como no presente caso.
+ ..
+7. Agravo regimental não provido." (AgRg no HC 626.687/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021.)
+No mesmo sentido, cito o seguinte julgado do Supremo Tribunal Federal:
+" ..
+1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia." " (HC 191.464 AgR, Rel. Ministro RO BERTO BARROSO, PRIMEIRA TURMA, julgado em 11/11/2020, DJe-280, DIVULG 25/11/2020, PUBLIC 26/11/2020.)
+No caso concreto, contudo, tendo sido a peça acusatória recebida em 1º de agosto de 2017 (fl. 175-182), quando ainda não se encontrava em vigor a Lei 13.964/2019, publicada em 24 de dezembro de 2019, é inviável a aplicação retroativa do art. 28-A do Código de Processo Penal.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
