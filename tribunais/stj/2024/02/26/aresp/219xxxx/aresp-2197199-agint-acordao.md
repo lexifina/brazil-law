@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SISTEL. LIQUIDAÇÃO DE SENTENÇA. ART. 1022 DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU ERRO MATERIAL INEXISTENTES. CORREÇÃO MONETÁRIA. VIOLAÇÃO DOS ARTS. 502, 505 E 508 DO NCPC. OFENSA À COISA JULGADA. INOCORRÊNCIA. REFORMA. SÚMULA N.º 7 DO STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. Inexistindo omissão, contradição ou obscuridade no acórdão recorrido, quanto as teses invocadas, não há falar em ofensa ao disposto no art. 1.022 do NCPC.
+2. A Corte de origem afastou a alegada ofensa a coisa julgada, com base na análise do conjunto fático da causa. Para rever tal entendimento seria necessário o reexame dos fatos da causa, o que encontra óbice no enunciado da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL (SISTEL) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SISTEL. CUMPRIMENTO DE SENTENÇA. ART. 489 DO NCPC. FALTA DE FUNDAMENTAÇÃO. NÃO VERIFICAÇÃO. ARTS. 502, 505 E 508 DO NCPC. OFENSA À COISA JULGADA. INOCORRÊNCIA. REFORMA. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 480).
+Nas razões do presente inconformismo, defendeu (1) negativa de prestação jurisdicional; e (2) a não incidência da Súmula n.º 7 ao caso dos autos, pois não pretende reexame de provas.
+Foi apresentada impugnação (e-STJ, fls. 512/515).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SISTEL. LIQUIDAÇÃO DE SENTENÇA. ART. 1022 DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU ERRO MATERIAL INEXISTENTES. CORREÇÃO MONETÁRIA. VIOLAÇÃO DOS ARTS. 502, 505 E 508 DO NCPC. OFENSA À COISA JULGADA. INOCORRÊNCIA. REFORMA. SÚMULA N.º 7 DO STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. Inexistindo omissão, contradição ou obscuridade no acórdão recorrido, quanto as teses invocadas, não há falar em ofensa ao disposto no art. 1.022 do NCPC.
+2. A Corte de origem afastou a alegada ofensa a coisa julgada, com base na análise do conjunto fático da causa. Para rever tal entendimento seria necessário o reexame dos fatos da causa, o que encontra óbice no enunciado da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece ser provido.
+Na hipótese, SISTEL interpôs agravo de instrumento contra decisão que, nos autos da ação de prestação de contas iniciada por SINTTEL, em liquidação de sentença, manteve a decisão que determinou a inclusão, nos cálculos de liquidação da sentença da contadoria, de índice de correção estranho à sentença transitada em julgado.
+O Tribunal distrital negou provimento ao agravo de instrumento.
+Não admitido seu apelo nobre, a SISTEL manejou agravo em recurso especial que dele se conheceu para negar provimento àquele recurso.
+É contra essa decisão o inconformismo agora manejado, que não merece provimento, por não ter trazido nenhum elemento apto a infirmar suas conclusões.
+(1) Da ofensa ao art. 1.022 do NCPC
+SISTEL alegou que a Corte de origem não se manifestou sobre pontos essenciais ao desate da controvérsia, incorrendo em omissão, falta de fundação e negativa de prestação jurisdicional.
+Sem razão, contudo.
+Observa-se que o Tribunal a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incidir nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+De fato, o Tribunal a quo enfrentou expressamente as questões suscitadas pela SISTEL, notadamente quanto (i) ausência de preclusão; utilização de índices não deferidos na decisão proferida; (ii) no título executivo; incorreta metodologia de cálculo utilizada pelo expert; e (iii) afronta à coisa julgada.
+A esse respeito, confira-se:
+Inicialmente, da análise dos autos verifica-se que a matéria questionada - "a) os índices de juros e de correção monetária aplicados ao caso, em afronta às decisões proferidas nos autos e ao instituto da coisa julgada; b) a migração dos planos ocorrida no ano 2000 e a inexistência de valores a serem restituídos; c) a inobservância das normas legais e regulamentares aplicadas ao caso, em especial no que tange aos valores recebidos administrativamente pela parte autora a título de incentivo à migração; d) a necessidade de realização de perícia atuarial, para fins de demonstrar que da condenação imposta não decorre qualquer crédito direto à parte exequente, sob o fundamento de que o cálculo das parcelas objeto da demanda somente pode ser efetuado por perito atuarial, com inscrição junto ao Instituto Brasileiro de Atuária" - já foi decidida pelo magistrado a quo quando da decisão que rejeitou a impugnação ao cumprimento de sentença apresentada pela agravante (evento 1.149dos autos 0003770-12.2002.8.16.0001), isso na data de 30.03.2015.
+(..) Ainda, percebe-se que, houve interposição de agravo de instrumento nº 1.548.514-4, de minha relatoria, que lhe foi dado parcial provimento, tão somente para: a) excluir a condenação em honorários
+advocatícios em sede de impugnação ao cumprimento de sentença; b) determinar o refazimento dos cálculos, pela contadoria judicial, tão somente para que seja apurado o valor devido à época do depósito judicial, ou seja, 09/12/2008, o que, obviamente, torna preclusa a pretensão da agravante para rediscutir tais pontos.
+Não o bastante, as questões inerentes à inclusão no cálculo dos meses janeiro/89 e abri/90; metodologia de cálculo; e a alegação de excesso na execução, já foram objeto do mesmo recurso de agravo.
+(..) Portanto, a mesma situação aqui se repete, se tornando inadmissível a rediscussão da matéria.
+Para tanto, dispõe o art. 505 do CPC acerca da preclusão pro judicato que "Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide".
+(..) Outrossim, tem-se que uma vez não demonstrado pela recorrente o excesso apontado, ônus que lhe incumbia, razão pela qual não há o que se prover o presente feito.
+Em suma, verifica-se que a agravante não apresentou o valor que entende correto, não bastando, para tanto, a mera afirmação de excesso.
+(..) Por fim, tem-se que na impugnação, incumbe ao executado apontar o valor que entende devido e apresentar memória de cálculo com demonstração de erro existente nas contas apresentadas, sendo insuficientes a alegação genérica de excesso e o pedido para realização de perícia. Nestes termos, dispõe o art. 525, §§ 4º e 5º, do CPC". (e-STJ, fls. 381/382)
+E, ainda, quando do julgamento dos aclaratórios:
+No tocante às alegadas contradição e omissão quanto à preclusão da matéria e ao excesso de execução, respectivamente, entende-se que a decisão prolatada enfrentou suficientemente tais temas, ao passo que se dedicou inteiramente sobre o assunto. Confira-se alguns trechos do r. (mov. 115.1 - autos de decisum Agravo de Instrumento):
+"A agravante, insurge-se da referida decisão, pugnando pela sua revogação, ante a iminência de prejuízos.
+Sem razão.
+Inicialmente, da análise dos autos verifica-se que a matéria questionada - "a) os índices de juros e de correção monetária aplicados ao caso, em afronta às decisões proferidas nos autos e ao instituto da coisa julgada; b) a migração dos planos ocorrida no ano 2000 e a inexistência de valores a serem restituídos; c) a inobservância das normas legais e regulamentares aplicadas ao caso, em especial no que tange aos valores recebidos administrativamente pela parte autora a título de incentivo à migração; d) a necessidade de realização de perícia atuarial, para fins de demonstrar que da condenação imposta não decorre qualquer crédito direto à parte exequente, sob o fundamento de que o cálculo das parcelas objeto da demanda somente pode ser efetuado por perito atuarial, com inscrição junto ao Instituto Brasileiro de Atuária" - já foi decidida pelo magistrado a quo quando da decisão que rejeitou a impugnação ao cumprimento de sentença apresentada pela agravante (evento 1.149dos autos 0003770-12.2002.8.16.0001), isso na data de 30.03.2015.
+(..) Ainda, percebe-se que, houve interposição de agravo de instrumento nº 1.548.514-4, de minha relatoria, que lhe foi dado parcial provimento, tão somente para: a) excluir a condenação em honorários advocatícios em sede de impugnação ao cumprimento de sentença; b) determinar o refazimento dos cálculos, pela contadoria judicial, tão somente para que seja apurado o valor devido à época do depósito judicial, ou seja, 09/12/2008, o que, obviamente, torna preclusa a pretensão da agravante para rediscutir tais pontos.
+Não o bastante, as questões inerentes à inclusão no cálculo dos meses janeiro/89 e abri/90; metodologia de cálculo; e a alegação de excesso na execução, já foram objeto do mesmo recurso de agravo.
+(..) Portanto, a mesma situação aqui se repete, se tornando inadmissível a rediscussão da matéria.
+Para tanto, dispõe o art. 505 do CPC acerca da preclusão pro judicato que "Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide".
+(..) Outrossim, tem-se que uma vez não demonstrado pela recorrente o excesso apontado, ônus que lhe incumbia, razão pela qual não há o que se prover o presente feito.
+Em suma, verifica-se que a agravante não apresentou o valor que entende correto, não bastando, para tanto, a mera afirmação de excesso.
+(..) Por fim, tem-se que na impugnação, incumbe ao executado apontar o valor que entende devido e apresentar memória de cálculo com demonstração de erro existente nas contas apresentadas, sendo insuficientes a alegação genérica de excesso e o pedido para realização de perícia. Nestes termos, dispõe o art. 525, §§ 4º e 5º, do CPC"
+Nota-se, portanto, que, em verdade, a Embargante, inconformada com a decisão, apresenta argumentos que não são passíveis de análise pela via dos Embargos de Declaração. (e-STJ, fls. 381/382)
+Afasta-se, portanto, a prefacial.
+(2) Da alegada existência de coisa julgada (arts. 502, 505, 508 do NCPC)
+Como já visto, o acórdão recorrido rechaçou a tese de ofensa à coisa julgada, fazendo-o nos seguintes termos:
+Inicialmente, da análise dos autos, verifica-se que a matéria questionada - "a) os índices de juros e de correção monetária aplicados ao caso, em afronta às decisões proferidas nos autos e ao instituto da coisa julgada; b) a migração dos planos ocorrida no ano 2000 e a inexistência de valores a serem restituídos; c) a inobservância das normas legais e regulamentares aplicadas ao caso, em especial no que tange aos valores recebidos administrativamente pela parte autora a título de incentivo à migração; d) a necessidade de realização de perícia atuarial, para fins de demonstrar que da condenação imposta não decorre qualquer crédito direto à parte exequente, sob o fundamento de que o cálculo das parcelas objeto da demanda somente pode ser efetuado por perito atuarial, com - inscrição junto ao Instituto Brasileiro de Atuária" já foi decidida pelo magistrado quando da a quo decisão que rejeitou a impugnação ao cumprimento de sentença apresentada pela agravante (evento 1.149 dos autos 0003770-12.2002.8.16.0001), is so na data de 30.03.2015.
+Como bem destacou o magistrado na decisão mencionada:
+Afasto o pedido retro.
+Não há se falar em aplicação equivocada dos índices, eis que, tanto o cálculo dos exequentes como aquele realizado na perícia, aplicaram os expurgos deferidos na decisões do feito. Ainda, verifica-se a existência de irresignação quanto à aplicação ou não dos expurgos de janeiro/89 de 42,72% e abril/90 de 44,80%.
+Compulsando os autos constata-se que os referidos índices devem ser incluídos nos cálculos do valor devido, visto que o agravo de instrumento que reformou os outros expurgos (fls. 1101-1102) não se pronunciou sobre estes.
+Assim, inexistindo revogação expressa, os expurgos devem ser incluídos no cálculo, tendo em vista que foram deferidos no acórdão de fls. 893/907.
+Ainda, percebe-se que, houve interposição do recurso de agravo de instrumento nº 1.548.514-4, de minha relatoria, que lhe foi dado parcial provimento, tão somente para: excluir a condenação em honorários a) advocatícios em sede de impugnação ao cumprimento de sentença;
+determinar o refazimento dos cálculos, b) pela contadoria judicial, tão somente para que seja apurado o valor devido à época do depósito judicial, ou seja, 09/12/2008, o que, obviamente, torna preclusa a pretensão da agravante para rediscutir tais pontos.
+inclusão no cálculo dos meses janeiro/89 e abril/90; metodologia de Não o bastante, as questões inerentes à cálculo; e a alegação de excesso na execução, já foram objeto do mesmo recurso de agravo. Veja-se:
+Em suas razões de recurso, FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL, " alega que o perito, ao efetuar os cálculos de fls. 1686 (autos de origem), não observou os índices expurgados deferidos judicialmente, especialmente, no que se refere a inclusão indevida dos meses janeiro/89 e abril/90, não constantes do comando executivo. Acrescenta que na correção do saldo da reserva de poupança, deve haver a multiplicação do saldo do mês anterior sobre o fator encontrado no mês, e somados ao valor da contribuição do mês.
+Esclarece que os valores encontrados pelo perito são superiores ao pleiteado, tendo em vista a correção sobre um mês a mais.
+Pois bem. No que tange a inclusão no cálculo dos meses janeiro/89 e abril/90, não assiste razão à agravante, eis que correta a inclusão destes índices no cálculo.
+Conforme apontado pelo magistrado singular, os expurgos de Janeiro/89 de 42,72% e Abril/90 de 44,80%, foram deferidos no acórdão de fls.
+114/129-TJ (fls. 893/907 - autos de origem), e não houve qualquer revogação expressa destes na decisão do STJ de fls. 151/152-TJ (fls. 1101-1102, autos de origem).
+Sobre a metodologia de cálculo (multiplicação do saldo do mês anterior sobre ), a o fator encontrado no mês, e somados ao valor da contribuição do mês agravante não demonstrou que a forma de cálculo utilizada pelo perito judicial, diverge dos elementos apontados no comando executivo, razão pela qual seu argumento não merece ser acolhido.
+Destarte, entendo que a agravante não desconstituiu qualquer elemento apresentado pelo perito, tendo trazido apenas alegações genéricas, neste ponto."
+Portanto, a mesma situação aqui se repete, se tornando inadmissível a rediscussão da matéria.
+Para tanto, dispõe o art. 505 do CPC acerca da preclusão que " pro judicato Nenhum juiz decidirá ". novamente as questões já decididas relativas à mesma lide Acerca da preclusão, leciona Didier:
+"O processo é uma marcha para frente, uma sucessão de
+atos jurídicos ordenados e destinados a alcançar um fim, que é a prestação da tutela jurisdicional. Trata-se de um método de solução de conflitos que se vale de um conjunto de normas que ordenam a participação e o papel dos sujeitos do processo. A esse conjunto de normas dá- se o nome de formalismo processual.
+ ..  A preclusão é instituto fundamental para o bom desenvolvimento do processo, sendo uma das principais técnicas para a estruturação do procedi mento e, pois, para a delimitação das normas que compõem o formalismo processual. A preclusão apresenta-se, então, como um limitador do exercício abusivo dos poderes processuais pelas partes, bem como impede que questões já decididas pelo órgão jurisdicional possam ser reexaminadas, evitando-se, com isso, o DIDIER JR., Fredie. " retrocesso e a insegurança jurídica. ( Curso de direito processual civil. 17. ed. - Salvador: Ed. Jus Podivm, 2015, p. 418)
+Dessa maneira, a impossibilidade do magistrado em reanalisar suas próprias decisões fundamenta-se principalmente no respeito à segurança jurídica. (e-STJ, fls. 207/209)
+Assim, para afastar o entendimento adotado na origem, a fim de acolher a tese de existência de ofensa à coisa julgada, como pretende a SISTEL, seria necessário o reexame dos fatos da causa, o que encontra óbice no enunciado da Súmula n.º 7 do STJ.
+A propósito, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - PREVIDÊNCIA PRIVADA - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 e incisos, do Código de Processo Civil de 2015, o que não se verifica na hipótese.
+2. A pretensão de que esta Corte de Justiça verifique se os referidos reflexos do ADI sobre o 13º salário se deram ou não em conformidade com o título executivo judicial, bem como a ocorrência de eventual ofensa à coisa julgada e aos limites da lide principal, esbarram no enunciado da Súmula 7 do Superior Tribunal de Justiça, porquanto demandariam o reexame do conjunto fático-probatório dos autos.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.182.529/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 22/5/2018, DJe 30/5/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA OFENSA AO ART. 535 DO CPC/1973. NÃO CONFIGURAÇÃO. AUSÊNCIA DE OMISSÃO. LIQUIDAÇÃO DE SENTENÇA. ALEGAÇÃO DE OFENSA À COISA JULGADA. PREMISSA DE QUE OS CÁLCULOS ELABORADOS PELA PERÍCIA CONTÁBIL ESTÃO EM CONFORMIDADE COM O JULGADO EM LIQUIDAÇÃO. PRETENSÃO DE REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1.030.118/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 15/5/2018, DJe 21/5/2018)
+Assim, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão ora agravada, mantém-se o julgado, por não haver motivos para a sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
