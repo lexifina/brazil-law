@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. A parte embargante pretende renovar a discussão sobre questões que já foram decididas de maneira fundamentada, o que não é possível por meio de embargos de declaração, ainda mais considerando que cabia a ela interpor também o competente recurso extraordinário, tarefa da qual não se desincumbiu, já que, embora haja menção ao regramento infraconstitucional, não se desviou o acórdão recorrido do viés constitucional da matéria.
+3. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pela UNIÃO  contra o acórdão da Primeira Turma, de minha relatoria, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IPTU. IMUNIDADE TRIBUTÁRIA RECÍPROCA. NATUREZA CONSTITUCIONAL DA CONTROVÉRSIA. PROVIMENTO NEGADO.
+1. A Corte a quo, ao julgar a questão da imunidade tributária recíproca, embasou seu entendimento em preceito de natureza eminentemente constitucional, precisamente na interpretação dada ao tema pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário 599.176/PR, bem como no art. 150 da Constituição Federal, o que afasta a possibilidade de análise da pretensão recursal na via do recurso especial, sob pena de usurpação da competência do STF, consoante dispõe o art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento (fl. 393).
+A parte embargante sustenta, em suma, que, ao assim decidir, o acórdão incorreu em omissão, porquanto o julgado do Supremo Tribunal Federal (STF) menciona tese infraconstitucional cujo julgamento é afeto a esta Corte, notadamente no tocante à menção à Lei 3.115/1957.
+Requer o acolhimento dos presentes embargos, para que sejam sanados os apontados vícios, e, consequentemente, o prosseguimento e provimento do recurso especial.
+Não foi apresentada impugnação conforme certidão de fl. 410.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. A parte embargante pretende renovar a discussão sobre questões que já foram decididas de maneira fundamentada, o que não é possível por meio de embargos de declaração, ainda mais considerando que cabia a ela interpor também o competente recurso extraordinário, tarefa da qual não se desincumbiu, já que, embora haja menção ao regramento infraconstitucional, não se desviou o acórdão recorrido do viés constitucional da matéria.
+3. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil.
+Conforme consignado no julgado embargado, o acórdão recorrido, ao dirimir a controvérsia relativa à imunidade, mencionou a Lei 3.115/1957 e, também, o art. 150 da Constituição Federal :
+A Rede Ferroviária Federal sociedade de economia mista, integrante da Administração Indireta Federal, teve sua criação autorizada pela Lei nº 3.115, dc 16/03/1957, com o objetivo primordial de administrar os serviços de transporte ferroviário a cargo da União Federal.
+Referida sociedade foi extinta por força da Medida Provisória nº 353, de 22/01/2007, convertida na Lei nº 11.483/07. Com a liquidação da RFFSA, seu patrimônio e responsabilidade foram transferidos para UNIÃO, que a sucedeu em obrigações e ações judiciais, inclusive os débitos relativos ao IPTU constituídos anteriormente à data da sucessão tributária, nos termos do art. 130 do Código Tributário Nacional.
+A imunidade prevista no art. 150, VI, "a", da Constituição Federal, não deve abranger os débitos originariamente constituídos cm face da aludida Sociedade de Economia Mista, ou seja, as obrigações tributárias constituídas até 22/01/2007. geral:
+Esse é o entendimento do STF sedimentado no RE nº 599.176/PR, cm sede de repercussão geral:
+CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. IN APLICABILIDADE À RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO. ART. 150. VI. A DA CONSTITUIÇÃO.
+A imunidade tributária reciproca não exonera o sucessor das obrigações tributárias relativas aos fatos jurídicos tributários ocorridos antes da sucessão (aplicação "retroativa " da imunidade tributária). Recurso Extraordinário ao qual se dá provimento.
+(RE 599176, Re!ator (a): Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 05/06/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014)
+Portanto, não deve ser reconhecida a imunidade tributária (fls. 205).
+Dessa, forma, embora haja menção ao regramento infraconstitucional, não se desviou o Tribunal de origem d o viés constitucional da matéria, conforme já decidiu esta Corte em precedentes similares. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. RFFSA. IMUNIDADE TRIBUTÁRIA.
+1. O tema da imunidade da própria Rede Ferroviária Federal - RFFSA foi decidido com menção à Lei n. 3.115/1957 e ao art. 150 da Constituição Federal. Não interposto recurso extraordinário, inviável o conhecimento do apelo nobre. Incidência da Súmula 126/STJ.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.642.570/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/11/2020, DJe de 27/11/2020.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO. IPTU. REDE FERROVIÁRIA FEDERAL S.A. (RFFSA). SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL.
+I - O presente feito decorre de embargos de devedor que objetiva afastar a cobrança de créditos fiscais oriundos da falta de pagamento do IPTU e da Taxa de Coleta domiciliar de Lixo - TCDL. Na sentença, julgou-se improcedente no pedido. No Tribunal Regional Federal da 2ª Região, a sentença foi mantida.
+II - Em relação à alegação de contrariedade aos arts. 4º e 7º, alíneas i e o, da Lei n. 3.115/1957, o Tribunal a quo, na fundamentação do decisum, assim firmou entendimento (fls. 216-217): "A embargante alega ainda a existência de imunidade recíproca da extinta RFFSA pelo fato de prestar serviço público em nome do Estado, ou seja, requer a aplicação da imunidade tributária prevista na Constituição Federal (art. 150, inciso VI) aplicável entre as unidades político-administrativas da República Federativa do Brasil. Entretanto, essa questão já resta pacificada pelo Plenário do Egrégio Supremo Tribunal Federal que decidiu ser a União Federal responsável pelas obrigações tributárias da extinta RFFSA, sendo inaplicável a imunidade tributária recíproca".
+III - Consoante se verifica dos excertos colacionados do aresto vergastado, a fundamentação do decisum, no sentido da inaplicabilidade da imunidade tributária recíproca à responsabilidade tributária por sucessão, foi embasada na interpretação dada ao tema pelo Supremo Tribunal Federal, notadamente no julgamento do Recurso Extraordinário n. 599.176/PR, fato esse que inviabiliza o exame do pleito da recorrente, sob pena de se analisar matéria cuja competência somente está afeta à Excelsa Corte, consoante dispõe o art. 102 da Constituição Federal. Nesse sentido: AgInt no REsp n. 1.601.825/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, Julgamento em 27/6/2017, DJe 2/8/2017 e REsp n. 1.658.687/RS, Relator Ministro Herman Benjamin, Segunda Turma, Julgamento em 16/5/2017, DJe 16/6/2017.
+IV - Agravo interno improvido. (AgInt no AREsp n. 1.336.962/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/12/2018, DJe de 13/12/2018.)
+Constato que a parte embargante pretende renovar a discussão sobre questões que já foram decididas de maneira fundamentada, o que não é possível por meio de embargos de declaração, ainda mais considerando que cabia a ela interpor também o competente recurso extraordinário, tarefa da qual não se desincumbiu.
+R essalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
